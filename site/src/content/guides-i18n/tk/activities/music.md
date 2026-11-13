@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Demensiýaly adamlar üçin aýdym-saz işleri"
+seoTitle: "Demensiýa üçin aýdym-saz işleri: aýdymlar sanawy we pikirler"
+description: "Demensiýaly adam bilen aýdym-sazy nädip bölüşmeli: şahsy aýdymlar sanawy, 15 ýönekeý aýdym-saz işi we her basgançak üçin maslahatlar."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Aýdym-saz demensiýa bilen ýaşaýan adam bilen bölüşmek üçin iň ýeňil işleriň
+  biridir. Ýaşlygyndan, ynanjyndan we maşgalasyndan şahsy aýdymlar sanawyny
+  düzüň, ony mahabatsyz we fon şowhunsyz goýuň, bilelikde aýdym aýdyň, el
+  çarpyň, yrgyldaň ýa-da diňe diňläň. Pursata görä rahat ýa-da şadyýan aýdym-sazy
+  saýlaň, sesi mylaýym saklaň we bir aýdym adamy biynjalyk etse, duruň.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Şahsy aýdym-saz iň gowy işleýär: ýaş wagtynda söýen stilleri, şeýle hem ynanjyndan, medeniýetinden we maşgala çärelerinden aýdym-saz."
+  - "Bir wagtda bir zat goýuň, mahabatsyz we telewizor öçük."
+  - "Aýdym aýtmak, el çarpmak, yrgyldamak we diňe diňlemek hemmesi gatnaşmagyň ýollary."
+  - "Oturyşmak üçin rahat, keýpi göterip üçin şadyýan aýdym-sazy ulanyň we adamyň nähili jogap berýändigine üns beriň."
+  - "Gurluşly aýdym-saz sessiýalary barada barlaglar çäkli; aýdym-sazy bejergi däl-de, bölüşmek üçin ýakymly zat hökmünde maslahat berýäris."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Demensiýaly adam üçin haýsy aýdym-saz iň gowy?"
+    a: "Adamyň uzak wagtdan bäri tanaýan we söýýän aýdym-sazy, köplenç ýaşlyk we ýigrimi ýaşly ýyllaryndan, şeýle hem ynanjyndan, medeniýetinden we maşgala baýramçylyklaryndan aýdym-saz. Mümkin bolsa, saýlamaga ýol beriň. Näme halaýandygyny bilmek üçin ýüzüne we bedenine üns beriň we biynjalyk edýän görünýän zady taşlaň."
+  - q: "Gulaklyk ulanmalymy?"
+    a: "Käbir adamlar şowhuny ýapýandygy üçin gulaklygy halaýar, başgalary bolsa ony ynjalyksyz ýa-da gaýmalaýjy hasaplaýar. Ilki dinamikden synanyşyň, şeýdip bilelikde diňläp bilersiňiz. Gulaklyk ulansaňyz, sesi pes saklaň we ýakynda boluň."
+  - q: "Aýdym-saz ynjalyksyzlyga ýa-da biynjalyklyga kömek edip bilermi?"
+    a: "Rahat, tanyş aýdym-saz asuda keýp döretmäge kömek edip biler we Alzheimer's Association islän atmosferaňyzy döretmek üçin aýdym-sazy ulanmagy maslahat berýär. Ol her gezek işlemeýär. Adam biynjalyk bolsa, agyryny, açlygy, şowhuny ýa-da ýadawlygy hem barlaň."
+  - q: "Giçki basgançakdaky demensiýaly adamlar entek aýdym-sazdan lezzet alyp bilýärmi?"
+    a: "Köpüsi alyp bilýär. Alzheimer's Association giçki basgançakdaky adamyň entek ritmi kakyp ýa-da çagalykdan galan aýdyma goşulyp aýdyp biljekdigini belleýär. Ýakyn oturyň, aýdym-sazy ýuwaş goýuň we elini tutuň ýa-da bilelikde yrgyldaň."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Aýdym-saz demensiýa bilen ýaşaýan adam bilen bölüşip boljak iň ýönekeý zatlaryň biridir. Ol hiç zat talap etmeýär: dogry jogap ýok, eýerilmeli ädim ýok. Tanyş aýdym, gürrüň kyn bolan günde hem, bir ýylgyryşy, kakýan aýagy ýa-da goşulyp aýdylýan birnäçe sözi getirip biler. Gerek bolan zat, şu belli adam üçin dogry aýdym-saz we ony goýmak üçin asuda pursatdyr.
 
-## What music activities work for people with dementia?
+## Demensiýaly adamlar üçin haýsy aýdym-saz işleri işleýär?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Diňlemek, aýdym aýtmak, el çarpmak, yrgyldamak we aýdym-saz hakda gürleşmek hemmesi gowy işleýär. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aýdym-sazy goýmagy, aýdym-saz we aýdymçy hakda gürleşmegi, meşhur aýdymlara goşulyp aýtmagy ýa-da tans etmegi we jemgyýetde konsertlere ýa-da aýdym-saz programmalaryna gatnaşmagy maslahat berýär. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) el çarpmak ýa-da tans etmek ýaly hereketiň lezzeti artdyryp biljekdigini we sözler kyn bolanda aýdym-sazyň baglanyşyk usuly bolup biljekdigini goşýar.
 
-## How do you build a personal playlist?
+## Şahsy aýdymlar sanawyny nädip düzmeli?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Düzüp boljak iň peýdaly zat bu adam üçin manyly aýdym-sazyň sanawydyr. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) şahsy manyly aýdym-sazy hem görkezýär. Ine, ony düzmegiň ýönekeý usuly.
 
-### Start with their life
+### Onuň durmuşyndan başlaň
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Ýaşlyk we ýigrimi ýaşly ýyllary.** Ol ýaş wagty radioda, tanslarda we filmlerde näme bardygyny oýlanyň.
+- **Uly pursatlar.** Toýdaky aýdym-saz, ilkinji tans, halaýan maşgala ýol syýahaty albomy.
+- **Ynanç we medeniýet.** Ybadat aýdymlary, goşgy-aýdym, mukaddes aýdym-saz ýa-da ene dilindäki aýdymlar.
+- **Iş we gulluk.** Marş orkestrleri, iş aýdymlary ýa-da harby gulluk wagty bilen baglanyşykly aýdym-saz.
+- **Maşgalanyň ýadynda galany.** Dogan-garyndaşlardan, çagalardan we köne dostlardan hemişe näme çalýandyklaryny ýa-da aýdýandyklaryny soraň.
 
-### Think in genres, not just songs
+### Diňe aýdymlar däl, žanrlar hakda hem oýlanyň
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Nireden başlamalydygyny bilmeseňiz, bulardan her birinden birnäçe minut synanyşyň we jogaba üns beriň: big band we swing, doo-wop, Motown we soul, irki rock and roll, country we western, bluegrass, gospel we ybadat aýdymlary, Broadway tanslaryndan aýdymlar, jaz standartlary, boleros ýa-da mariachi ýaly Latyn aýdym-sazy, polka, halk we klassiki aýdym-saz. Ýylgyrtýany ýa-da aýagyny kakdyrýany saklaň; gaşyny çytdyrýany taşlaň.
 
-### Make it easy to play
+### Goýmagy ýeňilleşdiriň
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Mahabatsyz.** Alzheimer's Association mahabatyň gaýma-gaýmalyk döredip biljekdigini duýdurýar. Ýüklenen aýdym-sazy, CD-leri, plastinkalary ýa-da mahabatsyz hyzmaty ulanyň.
+- **Bir ýönekeý enjam.** Bir uly düwmeli dinamik ýa-da saklanan we taýýar aýdymlar sanawy, şeýdip islendik adam ony başlap biler.
+- **Iki gysga sanaw.** Oturyşmak üçin rahat sanaw we keýpi göterip üçin şadyýan sanaw.
+- **Belgi goýuň.** Enjamda adamyň adyny we "halaýan aýdym-saz" ýazyň, şeýdip gelýän maşgala we ideg işgärleri hem ulanyp bilsin.
 
-## 15 music activities to try
+## Synap görmeli 15 aýdym-saz işi
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Bilelikde diňläň.** Başga zat bolmazdan ýanaşyp oturyň. Diňlemek doly bir iş.
+2. **Bilelikde aýdym aýdyň.** Özüňiz aýtmaga başlaň. Gum-gum etmek ýa-da sözleri dodakda hereket etmek hem sanalýar.
+3. **Ritmi el çarpyp ýa-da kakyp aýdyň.** Dyzlara uruň, stola kakyň ýa-da kiçi el barabany ýa-da şeýker ulanyň.
+4. **Haýal tans ediň.** Eliňizi tutuň we aşhanada yrgyldaň ýa-da oturyp, eller bilen bilelikde hereket edip tans ediň.
+5. **Şarf bilen tans.** Ýeňil şarflary aýdym-saza görä ýaýkaň, durup ýa-da oturyp.
+6. **Aýdym-saz hakda gürleşiň.** Çagyryň, synamaň: "Bu tans zalyna meňzeýär. Tanslar hakda gürrüň beriň." Hiç wagt "Bu aýdymy ýadyňyzda barmy?" diýmäň.
+7. **Bütin albomy goýuň.** Söýen plastinkasyny başdan soňa çenli kofe bilen goýuň.
+8. **Albom gaplaryna serediň.** Köne plastinka gaplary moda, maşynlar we ýüzler hakda gürleşmek üçin ajaýyp.
+9. **Myzykaly filme tomaşa ediň.** Onuň eýýamyndan düşürilen myzykaly film ýa-da konsert gowy agşam bolup biler. Arakesme üçin saklaň.
+10. **Bilýän saz guralyny çalyň.** Öň pianinoçy ýa-da gitaraçy bolan adam ýönekeý çalmagy halap biler. Soňra bilelikde birnäçe notany tapmak ýeterlik.
+11. **Işlände aýdym-saz.** Eşik epläp ýa-da saçak taýýarlap otyrka halaýan aýdymlary goýuň.
+12. **Ertirki aýdym.** Her güni tertibiň bir bölegi hökmünde şol bir şadyýan aýdym bilen başlaň.
+13. **Ybadat aýdymlaryny ýa-da mukaddes aýdym-sazy aýdyň.** Ynanç däbinden aýdym-saz goýuň we bilelikde aýdyň.
+14. **Aýdym toparyna goşulyň.** NHS aýdym toparlaryny keýp we abadançylyk üçin gowy diýip suratlandyrýar. Demensiýa dost horlar barada ýerli soraň.
+15. **Janly aýdym-sazy diňläň.** Gysga jemgyýetçilik konserti ýa-da açyk howadaky orkestr. Çykalga ýanynda oturyň we islän wagtyňyz gidiň.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Tanyş sözlem bilen has ýeňil söz oýny üçin, [nakyly tamamla](/games/finish-the-saying/) oýnuny synap görüň, onda soňuny islendik wagt görkezip bolýar.
 
-## Matching music to the moment
+## Aýdym-sazy pursata laýyk etmek
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association islän keýpiňizi döretmek üçin aýdym-sazy ulanmagy maslahat berýär: asuda atmosfera üçin rahat aýdym-saz we keýpi göterip üçin kimdir biriniň ýaşlygyndan şadyýan aýdym.
 
-| Moment | Try | Tip |
+| Pursat | Synanyşyň | Maslahat |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Turmak | Tanyş, şadyýan aýdym | Her ertir şol bir aýdym mylaýym yşarata öwrülýär |
+| Öý ýumuşlary | Şadyýan halaýanlar | Aýdym-saz işi ýoldaşlyk ýaly duýdurup biler |
+| Naharlar | Ýumşak sazly aýdym-saz | Iýmit bilen bäsleşmez ýaly pes saklaň |
+| Günortandan soň | Gowy ýagtylykda rahat, tanyş aýdym-saz | [Günüň ahyrynda ynjalyksyzlyga](/caregiving/late-day-restlessness/) serediň |
+| Ukudan öň | Haýal, mylaýym aýdym-saz | Sesi we çyralary bilelikde peseldiň |
+| Giçki basgançak | Iň söýýän aýdymlary, gaty ýuwaş | Ýakyn oturyň we eliňi tutuň |
 
-## Tips for a good experience
+## Gowy tejribe üçin maslahatlar
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Başga şowhuny öçüriň.** Alzheimer's Association aýdym-saz ýeke-täk ses bolar ýaly penjirelerini we gapylary ýapmagy we telewizory öçürmegi maslahat berýär.
+- **Sesi mylaýym saklaň.** Aýdym-saz rahat bolmaly, gaty däl. Adam eşidiş enjamlaryny ulanýan bolsa, olaryň dakylandygyna we işleýändigine ynanyň; [eşitmek](/brain-health/hearing/) sahypasyna serediň.
+- **Gam-gussaly baglanyşyklara üns beriň.** Käbir aýdymlar ýas, uruş ýa-da ýitgi ýatladýar. Bir aýdym adamy biynjalyk etse, ony teselli ediň we üýtgediň.
+- **Ol ugrukdyrsyn.** Mümkin bolsa, adamyň aýdym-sazy özüniň saýlamagyna ýol beriň we ýok diýmegi kabul ediň.
+- **Islendik wagt duruň.** Bäş minut aýdym-saz gowy bir iş. Ony öçürip, sakin oturmak hem.
 
-## What does the research say about music and dementia?
+## Aýdym-saz we demensiýa baradaky barlaglar näme diýýär?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Subutlar çäkli. [2025-nji ýyldaky Cochrane synynda](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) köplenç garrylar öýlerindäki toparlar bilen gurluşly aýdym-saz sessiýalarynyň 30 barlagy gözden geçirildi. Bu sessiýalaryň adaty idegiň deňeşdirilende depressiw alamatlaryny azajyk ýeňilleşdirmegi ähtimaldygy, ýöne biynjalyklyga, abadançylyga ýa-da pikirlenmäge we ýada anyk täsiriň ýokdugy we sessiýalar gutarandan soň dowam eden täsirleriň ýokdugy tapyldy.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Biz aýdym-sazy bejergi hökmünde däl-de, bilelikde wagt geçirmegiň ýakymly, basyşsyz usuly bolany üçin bölüşýäris. Topar şertleri üçin [ideg öýi topar işlerine](/activities/care-home-groups/) serediň; aýdym-sazy suratlar we hekaýalar bilen ulanmak üçin [ýatlama işlerine](/activities/reminiscence/) serediň.
