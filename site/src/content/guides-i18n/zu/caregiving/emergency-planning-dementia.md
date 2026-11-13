@@ -43,51 +43,51 @@ Isimo esiphuthumayo singaphazamisa izinkambo ezijwayelekile futhi senze kube nzi
 
 ## Ngingenza kanjani uhlelo olufanelana nomuntu?
 
-Buzani umuntu ukuthi yini engamenza azizwe ephephile kangcono nokuthi ubani amethemba. Uma kungenzeka, bandakanyeni ekukhetheni indawo yokuhlangana, oxhumana nabo ngesimo esiphuthumayo nezinto ezijwayelekile okufanele zithathwe. Gcinani imiyalo ifushane futhi icacile. Uhlelo lungashintsha njengoba imikhuba, impilo noma ukunyakaza komuntu kushintsha.
+Buzani umuntu ukuthi yini engamenza azizwe ephephe kangcono nokuthi ubani amethemba. Uma kungenzeka, bandakanyeni ekukhetheni indawo yokuhlangana, oxhumana nabo ngesimo esiphuthumayo nezinto ezijwayelekile okufanele zithathwe. Gcinani imiyalo ifushane futhi icacile. Uhlelo lungashintsha njengoba imikhuba, impilo noma ukunyakaza komuntu kushintsha.
 
-Yenzani uhlu lwabantu abangaphezu komunye abangasiza. Umnakekeli oyinhloko angase abe emsebenzini, ukude nekhaya noma athintwe yisimo esifanayo. Vumelanani ukuthi ubani uzoxhumana noma yiluphi uhlangothi, ubani ongahambisa nokuthi ubani ongabheka umuntu uma izinhlelo zishintsha. Nikeza umsizi ngamunye ikhophi yolwazi adinga kulo.
+Yenzani uhlu lwabantu abangaphezu komunye abangasiza. Umnakekeli oyinhloko angase abe emsebenzini, ukude nekhaya noma athintwe yisimo esifanayo. Vumelanani ukuthi ubani uzoxhumana nabani, ubani ongahambisa nokuthi ubani ongabheka umuntu uma izinhlelo zishintsha. Nikezani umsizi ngamunye ikhophi yolwazi adinga kuwo.
 
 Cabangani ngalokho okungaphazamisa ukwesekwa okujwayelekile komuntu. Uma ehlala endlini yokuhlala ebheke, eya ohlelweni lwansuku lwabantu abadala noma ethola ukunakekelwa ekhaya, buzani ukuthi lesi sevisi siphatha kanjani ukukhishwa endaweni, ukuphuma kukagesi nokuvalwa kwezindawo. Thola ukuthi ubani ozoxhumana nomndeni nokuthi izidingo zosizo lomuntu zizohlangabezwa kanjani.
 
 ## Yiluphi ulwazi nezinto okufanele ngigcine ngilungele?
 
-Lungiselela isikhwama esincane esilula ukusithwala. Faka imininingwane yokuxhumana yamanje esimweni esiphuthumayo, uhlu lwemithi, ulwazi oluyisisekelo lwezempilo, insimbi yokushaja ucingo, izibuko noma izinsiza zokuzwa uma zidingekile, izingubo ezifanelana nesimo sezulu nento yokududuza ejwayelekile. Engeza izinto zokunyakaza noma zokuxhumana umuntu azithembele kuzo. Hlola ukuthi izinto zisasebenza njalo ngesikhathi.
+Lungiselelani isikhwama esincane esilula ukusithwala. Faka imininingwane yokuxhumana yamanje esimweni esiphuthumayo, uhlu lwemithi, ulwazi oluyisisekelo lwezempilo, insimbi yokushaja ucingo, izibuko noma izinsiza zokuzwa uma zidingekile, izingubo ezifanelana nesimo sezulu nento yokududuza ejwayelekile. Engeza izinto zokunyakaza noma zokuxhumana umuntu azithembele kuzo. Hlolani njalo ukuthi izinto zisasebenza ngesikhathi.
 
-Gcinani amaphepha abalulekile endaweni enifinyelela kuyo ngokushesha, kodwa ivikeleni ulwazi lomuntu siqu. Buzani umuntu ukuthi yiziphi izinto afisa ukuthi zabelwane futhi nomuntu wani. Umsizi angadinga igama lomuntu, indlela akhetha ukuxhumana ngayo, imininingwane ebalulekile yokuxhumana nolwazi lwemithi, kodwa akudingi wonke amarekhodi abucayi.
+Gcinani amaphepha abalulekile endaweni enifinyelela kuyo ngokushesha, kodwaivikeleni ulwazi lomuntu siqu. Buzani umuntu ukuthi yiziphi izinto afisa ukuthi zabelwane futhi nomuntu wani. Umsizi angadinga igama lomuntu, indlela akhetha ukuxhumana ngayo, imininingwane ebalulekile yokuxhumana nolwazi lwemithi, kodwa akadingi wonke amarekhodi abucayi.
 
-Izinto ezingcono ngabe yizona umuntu awusebenzisa ngempela. Iswidi, isithombe, incwadi noma into encane ejwayelekile ingase iduduze kakhulu kunezinto eziningi azingazi. Gcina isikhwama silula ukuthi umuntu angasithwala noma asiphakamise ngokuphephile.
+Izinto ezingcono kakhulu yilezo umuntu azisebenzisayo ngempela. Iswidi, isithombe, incwadi noma into encane ejwayelekile ingase iduduze kakhulu kunezinto eziningi angazi. Gcinani isikhwama silula ukuthi umuntu angasithwala noma asiphakamise ngokuphephile.
 
 ## Umbhalo wohlelo kufanele uthini?
 
 Uhlelo olufushane lulula ukwabelana ngalo nomsizi wesipele kunesethi ende yamanothi. Ngemvume yomuntu, faka:
 
 - **Ubani okufanele uxhumane naye.** Dwebela abasizi abayinhloko nabasipele, abahlinzeki bakhe bokunakekelwa nendlela yokufinyelela ngayinye yabo. Chaza ukuthi ubani ozobazisa abanye uma umndeni ushintsha indawo.
-- **Indlela yokuxhumana.** Phawula igama umuntu akhetha ukubizwa ngalo, indlela aqonda ngayo ulwazi kangcono namagama noma imikhuba ejwayelekile engamsiza azizwe eqondisiwe.
-- **Indlela yokuhamba.** Rekhoda indlela yokuthuthwa nezinto zokunyakaza noma zokuxhumana umuntu azithembele kuzo. Buza umhlinzeki noma ihhovisi lezimo eziphuthumayo lasendaweni ngezindlela ezifinyeleleka kalula ngaphambi kwesimo esiphuthumayo.
-- **Lapho kutholakala khona izinto ezibalulekile.** Phawula lapho isikhwama kanye nohlu lwemithi wamanje kugcinwa khona. Gcina imibhalo eyimfihlo endaweni ephephile, bese wabelana kuphela ngemininingwane umsizi ngamunye adinga yona.
-- **Lokho isevisi izokwenza.** Uma umuntu ethola ukunakekelwa ngaphandle kwekhaya, dwebela ugesi oqanjiwe nalapho kutholakala khona uhlelo lwesevisi lwezimo eziphuthumayo lamanje.
+- **Indlela yokuxhumana.** Phawula igama umuntu akhetha ukubizwa ngalo, indlela aqonda ngayo ulwazi kangcono, namagama noma imikhuba ejwayelekile engamsiza azizwe eqondisiwe.
+- **Indlela yokuhamba.** Rekhoda indlela yokuthuthwa nezinto zokunyakaza noma zokuxhumana umuntu azithembele kuzo. Buzani umhlinzeki noma ihhovisi lezimo eziphuthumayo lasendaweni ngezindlela ezifinyeleleka kalula ngaphambi kwesimo esiphuthumayo.
+- **Lapho kutholakala khona izinto ezibalulekile.** Phawula lapho isikhwama kanye nohlu lwemithi wamanje kugcinwa khona. Gcinani imibhalo eyimfihlo endaweni ephephile, bese nabelana kuphela ngemininingwane umsizi ngamunye adinga yona.
+- **Lokho isevisi izokwenza.** Uma umuntu ethola ukunakekelwa ngaphandle kwekhaya, dwebelani igama lomuntu oxhumana naye kwisevisi nalapho kungatholakala khona uhlelo lwesevisi lwezimo eziphuthumayo lwamanje.
 
-Qinisekisani ukuthi umsizi wesipele uyazi lapho uhlelo lukhona nokuthi unganisebenzisa kanjani. Gcina ikhophi ephepheni itholakala uma ukukhanya noma ukuxhumana ngocingo kwehla, kodwa ungabeki imininingwane yezempilo eyimfihlo lapho izivakashi zingayifunda khona.
+Qinisekisani ukuthi umsizi wesipele uyazi lapho uhlelo lukhona nokuthi angalusebenzisa kanjani. Gcinani ikhophi ephepheni etholakala uma ugesi noma ukuxhumana ngocingo kwehla, kodwa ningabeki imininingwane yezempilo eyimfihlo lapho izivakashi zingayifunda khona.
 
 ## Yiziphi izinto okufanele zazi ngokufuna indawo yokuphephela noma ukukhishwa endaweni?
 
-Fundani lapho iziqondiso zezimo eziphuthumayo zendawo zishicilelwa khona nokuthi izexwayiso zifika kanjani emndenini. Nqumani lapho niyohamba khona uma ochwepheshe beluleka ukukhishwa endaweni, nokuthi umuntu uzofika kanjani lapho. Uma umuntu esebenzisa isihlalo sokunyakaza, isigxivizo, ioksijeni noma olunye uhlobo lwemishini, buzani umhlinzeki ofanele ukuthi kufanele kuthuthwe kanjani nokuthi kungadingeka yini izinto zokusekela.
+Fundani lapho iziqondiso zezimo eziphuthumayo zendawo zishicilelwa khona nokuthi izexwayiso zifika kanjani emndenini. Nqumani lapho niyohamba khona uma ochwepheshe beluleka ukukhishwa endaweni, nokuthi umuntu uzofika kanjani lapho. Uma umuntu esebenzisa isihlalo sokunyakaza, isigxivizo, ioksijeni noma enye imishini, buzani umhlinzeki ofanele ukuthi kufanele kuthuthwe kanjani nokuthi kungadingeka yini izinto zokusekela.
 
 Alukho umthetho olodwa wokuthi kufanele uhlale noma uhambe. Isimo esiphuthumayo, izidingo zomuntu nemiyalo yabasemagunyeni basendaweni konke kuyabalulekile. Buzani umphathi wezimo eziphuthumayo basendaweni noma umhlinzeki wokunakekela ukuthi kufanele ahlele kanjani ukuthuthwa okufinyeleleka nendawo yokuphephela. Ningathembeli kulesi sihloko ukuthi kwenze isinqumo ngesimo esithile esiphuthumayo.
 
-Uma kukhona ikhaya lokunakekela noma uhlelo lwansuku oluhilelekile, buzani uhlelo lwalo olubhalwe phansi lwezimo eziphuthumayo. Thola ukuthi ubani onemfanelo yomuntu, ukuthi umndeni uzothola kanjani izibuyekezo nokuthi kwenzekani uma izinhlelo zokuthathwa noma zokuhamba zishintsha. [Umhlahlandlela wethu wokuphepha ekhaya](/caregiving/home-safety/) umboza izingozi zansuku zonke ngaphakathi nangaphandle kwekhaya.
+Uma kukhona ikhaya lokunakekela noma uhlelo lwansuku oluhilelekile, buzani uhlelo lwalo olubhalwe phansi lwezimo eziphuthumayo. Thola ukuthi ubani ongumuntu oyinhloko womuntu, ukuthi umndeni uzothola kanjani izibuyekezo nokuthi kwenzekani uma izinhlelo zokuthathwa noma zokuhamba zishintsha. [Umhlahlandlela wethu wokuphepha ekhaya](/caregiving/home-safety/) umboza izingozi zansuku zonke ngaphakathi nangaphandle kwekhaya.
 
 ## Ngingamsekela kanjani umuntu ngesikhathi sesimo esiphuthumayo?
 
-Hlalani nomuntu uma kuphephile ukwenza lokho. Chazani okwenzekayo ngamagama amafushane nakancane, bese niphinda ulwazi uma kudingeka. Gcinani imikhuba ejwayelekile lapho kungenzeka, bese nazisa abaphendulayo ukuthi umuntu ufisa ukubizwa kanjani nokuthi yini esiza ukuxhumana kwakhe.
+Hlalani nomuntu uma kuphephile ukwenza lokho. Chazani okwenzekayo ngamagama amafushane nancane, bese niphinda ulwazi uma kudingeka. Gcinani imikhuba ejwayelekile lapho kungenzeka, bese nazisa abaphendulayo ukuthi umuntu ufisa ukubizwa kanjani nokuthi yini esiza ukuxhumana kwakhe.
 
-Uma umuntu ekhathazeka, nciphisani umsindo owengeziwe futhi nimise inani labantu abakhuluma ngesikhathi esisodwa. Mnikeze into ejwayelekile uma kuphephile futhi itholakala. Gwema ukuphikisana noma ukuchaza isikhathi eside ngenkathi wonke umuntu enengcindezi. Landelani imiyalo yabasebenzi bezimo eziphuthumayo nabasebenzi bokunakekela.
+Uma umuntu ekhathazeka, nciphisani umsindo owengeziwe futhi nimise inani labantu abakhuluma ngesikhathi esisodwa. Mnikezani into ejwayelekile uma kuphephile futhi itholakala. Gwemani ukuphikisana noma ukuchaza isikhathi eside ngenkathi wonke umuntu enengcindezi. Landelani imiyalo yabasebenzi bezimo eziphuthumayo nabasebenzi bokunakekela.
 
-Tshelani abasebenzi bezempilo ngalezo zinguquko ezingazelelwe ekuziphatheni, ekuxhumaneni noma empilweni komuntu. [I-NHS isho ukuthi ukudideka okuzumayo kudinga usizo lwezokwelapha ngokushesha](https://www.nhs.uk/symptoms/confusion/). Ningacabangi ukuthi ushintsho olusha noma olunzima kuyingxenye nje ye-dementia.
+Tshelani abasebenzi bezempilo ngalezo zinguquko ezingazelelwe ekuziphatheni, ekuxhumaneni noma empilweni komuntu. [I-NHS ithi ukudideka okuzumayo kudinga usizo lwezokwelapha ngokushesha](https://www.nhs.uk/symptoms/confusion/). Ningacabangi ukuthi ushintsho olusha noma olunzima kuyingxenye nje ye-dementia.
 
 ## Ngingalondoloza kanjani uhlelo lusebenza?
 
-Buyekezani uhlu loxhumana nabo, ulwazi lwemithi nezinsiza lapho izinhlelo zokunakekelwa zishintsha. Hlolani izinsuku zezinto ezidingekayo nibuyekeze uhlelo emva kokushintsha indawo noma uma kukhona isidingo esisha sokunyakaza. Buzani umuntu ukuthi uhlelo usaziva lulungile yini nokuthi ufisa ubani ukuba khona.
+Buyekezani uhlu loxhumana nabo, ulwazi lwemithi nezinsiza lapho izinhlelo zokunakekelwa zishintsha. Hlolani izinsuku zezinto ezidingekayo nibuyekeze uhlelo emva kokushintsha indawo noma uma kukhona isidingo esisha sokunyakaza. Buzani umuntu ukuthi uhlelo usaluzwa lulungile yini nokuthi ufisa ubani ukuba khona.
 
 Abanakekeli nabo badinga usizo oluyisipele. [Umhlahlandlela wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) unemibono yokucela abanye ukuthi babelane ngosizo. Uhlelo olulula olunabasizi abambalwa abathembekile lungasetshenziswa kalula kunohlu elide abangalibuyekezanga.
 
