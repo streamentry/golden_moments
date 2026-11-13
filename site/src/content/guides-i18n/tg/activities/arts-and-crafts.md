@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Санъат ва ҳунар барои калонсолони бо деменсия"
+seoTitle: "Санъат барои деменсия: калонсолона, на кӯдакона"
+description: "Ғояҳои санъат ва ҳунар барои калонсолони бо деменсия: аз рангсозии обӣ то ороиши гул, бо маслиҳат дар бораи омодасозӣ ва мутобиқ кардан."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Санъат ва ҳунари хуб барои калонсолони бо деменсия калонсолона ба назар мерасад
+  ва ҳис мешавад: рангсозии обӣ, коллаж аз маҷаллаҳо, ороиши гул, гил, сохтани
+  корти содда ё варақаҳои рангкории калонсолон. Чанд маводро пешниҳод кунед, агар
+  лозим бошад ба зарбаи аввал кумак кунед, ҳангоми кор сӯҳбат кунед ва вақти якҷоя
+  будаатонро ҳадаф ҳисоб кунед. Кори тайёр ихтиёрӣ аст.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Маводу мавзӯъҳоро интихоб кунед, ки калонсолона менамоянд, масалан коғази рангсозии обӣ, гулҳои воқеӣ ва аксҳои маҷалла, на ялтироқ, стикер ё варақаҳои кордонии мультфилмӣ."
+  - "Ба раванд диққат диҳед: ранг, ҳисси гил, сӯҳбат. Кори тайёр бонус аст, на ҳадаф."
+  - "Вақте ки метавонед, ҳадафе диҳед, масалан корт барои набера ё ороиш барои миз."
+  - "Ба шахс кӯмак кунед, ки оғоз кунад, сипас ақиб равед. Якҷоя оғоз кардани як хатти қалам аксар вақт кифоя аст."
+  - "Лоиҳаҳо лозим нест, ки дар як нишаст ба охир расанд, ва пеш аз вақт бас кардан ҳамеша хуб аст."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Чӣ тавр ҳунарро кӯдаконаи ба назар нарасонам?"
+    a: "Маводи ҳақиқии санъатро истифода баред, мавзӯъҳои калонсолона ва оҳанги эҳтиромона. Ялтироқ ва варақаҳои рангкории мультфилмиро бо коғази рангсозии обӣ, матоъ, гул, аксҳои маҷалла ва варақаҳои рангкории пурра иваз кунед. Ҳеҷ гоҳ корро мисли ситоиши расми кӯдак ситоиш накунед; онро мисли сӯҳбат бо ҳар дӯсти калонсол муҳокима кунед."
+  - q: "Кадом фаъолияти санъат дар марҳилаи охири деменсия кор мекунад?"
+    a: "Лоиҳаҳои содда ва ҳиссӣ дер кор мекунанд: рангкорӣ бо хатҳои калон бо қаламӯи калон, фишурдани гили мулоим, ороиши якчанд гул дар гулдон ё ҷудо кардани намунаҳои матоъ аз рӯи ламс. Шояд лозим шавад, ки ҳаракатро якҷоя оғоз кунед. Тамошо кардани шумо, ки рангкорӣ мекунед ва дар бораи ранҳо сӯҳбат мекунед, низ иштирок кардан аст."
+  - q: "Агар онҳо гӯянд, ки наметавонанд расм кашанд, чӣ кор кунам?"
+    a: "Фишорро аз дӯш бардоред. Лоиҳаҳоеро кӯшиш кунед, ки ҷавоби дуруст надоранд, масалан рангкории обӣ, коллаж ё ороиши гул. Инчунин метавонед бигӯед, ки ба чизи мушаххас кумак лозим аст, масалан интихоби ранг барои корт, то вазифа ба ҷои имтиҳон ҳамчун лутф ҳис шавад."
+  - q: "Оё варақаҳои рангкорӣ барои калонсолон кӯдаконаанд?"
+    a: "Не, вақте ки барои калонсолон тарҳрезӣ шудаанд. Мавзӯъҳои калонсолонаро интихоб кунед, масалан боғҳо, кӯрпаҳо, мошинҳо ё манзараҳо, ва онҳоро ҳамчун чизи осудагибахш нишон диҳед, на ҳамчун дарс. Варақаҳои рангкории мо метавонанд чоп шаванд ё дар планшет рангшуда."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Санъат ва ҳунар ба одамони бо деменсия роҳи ифодаи худро медиҳанд, ки ба ёфтани калимаҳои дуруст вобаста нест. Ассотсиатсияи Алсгеймер қайд мекунад, ки лоиҳаҳои санъат метавонанд [ҳисси комёбӣ ва маъно](https://www.alz.org/help-support/caregiving/daily-care/art-music) ва имкони ифодаи худро фароҳам оранд, ҳам барои ғамхор ва ҳам барои шахси бо деменсия. Калид ин аст, ки чизҳоро калонсолона, содда ва бе фишор нигоҳ доред. Ин саҳифа лоиҳаҳои мушаххас, роҳи омодасозии онҳо ва роҳи мутобиқ кардани онҳоро ҳангоми тағйир ёфтани ҳолат пешниҳод мекунад.
 
-## What makes an art activity adult and not childish?
+## Чӣ фаъолияти санъатро калонсолона ва на кӯдаконаро мекунад?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Фаъолияти санъати калонсолона маводи воқеӣ, мавзӯъҳои калонсолона ва оҳанги эҳтиромро истифода мебарад. Ассотсиатсияи Алсгеймер маслиҳат медиҳад, ки лоиҳаҳоро дар сатҳи калонсолон нигоҳ доред ва аз ҳар чизе, ки таҳқиромез ё кӯдаконаи ба назар мерасад, худдорӣ кунед.
 
-| Feels childish | Feels adult |
+| Ба кӯдакона монанд | Ба калонсолон монанд |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Ялтироқ, стикерҳои кафкӣ, чашмҳои ҳазлӣ | Коғази рангсозии обӣ, матоъ, гулҳои фишурдашуда |
+| Варақаҳои рангкории мультфилмӣ | Варақаҳои рангкорӣ бо боғҳо, кӯрпаҳо, мошинҳо ё манзараҳо |
+| Ситоиши «Кори хуб» барои ҳар хат | Сӯҳбати воқеӣ: «Ин кабуди назди сабз хеле зебост» |
+| Ҳунаре, ки истифодаи он нест | Корт барои дӯст, ороиш барои миз, тӯҳфа |
+| Дастурҳо мисли дарс хонда мешаванд | Даъват: «Оё ба ман дар ин кор кумак мекунед?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Ба афзалиятҳои шахс фикр кунед. Касе, ки кори сӯзандорӣро дӯст медошт, шояд ба матоъ даст зада лаззат барад. Муҳандиси собиқадор метавонад комплекти моделро бо қисмҳои калон ё ҷудо кардани абзорро бартарӣ диҳад. Муаллими собиқ шояд таҳияи корт лаззат барад.
 
-## Why focus on the process, not the product?
+## Чаро ба раванд диққат диҳем, на ба маҳсулот?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Зеро вақти якҷоя ҳадаф аст. Роҳнамои Ассотсиатсияи Алсгеймер дар бораи [фаъолият дар хона](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ба раванд диққат додан, на натиҷа, тавсия медиҳад. Расми «танҳо кабуд» ҳам расм аст. Коллажи се акс ҳам коллаж аст.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ассотсиатсия низ қайд мекунад, ки рассоми касбӣ шояд аз тағйироти кораш ноумед шавад, дар ҳоле ки ҳаваскор аз имкони нави ифодаи худ шод шавад. Агар шахс рассоми моҳир бошад, василаи дигареро аз он ки азхуд кардааст интихоб кунед, то он бозӣ ҳис шавад, на муқоиса.
 
-## Arts and crafts ideas to try
+## Ғояҳои санъат ва ҳунар барои кӯшиш
 
-Each idea includes how to make it simpler if it becomes hard.
+Ҳар ғоя тарзи осонтар кардани онро дар сурати душвор шудан дар бар мегирад.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Шустани ранги обӣ.** Варақи коғази ғафси рангсозии обиро тар кунед ва бигзоред, ки шахс бо қаламӯи калон ранг андозад. Ранг худаш паҳн мешавад, аз ин рӯ натиҷаи нодуруст нест. *Осонтар:* танҳо ду ранг пешниҳод кунед ё бо об дар коғази торик кор кунед, ки ҳаракатҳои тар дида шаванд.
+2. **Коллажи маҷалла.** Пешакӣ аз маҷаллаҳо дар бораи боғдорӣ, пухтупаз, мошинҳо, сафар ё машғулиятҳои кӯҳнаи шахс аксҳоро бурида гиред. Бигзоред, ки ӯ аксҳоро интихоб кунад ва ба картони ғафс часпонад. *Осонтар:* чор аксро аз пеш бурида, як ёпишқоқ пешниҳод кунед ва часпондани онро якҷоя иҷро кунед.
+3. **Ороиши гул.** Фонди Алсгеймери Амрико пешниҳод мекунад, ки [шохаҳои буридашудаи гул ва сабзаро](https://alzfdn.org/dementia-activity-gardening/) ба намоишҳои содаи фаслӣ ҷойгир кунед. Гулдони вазнин ва устувор ва шохаҳои аз пеш тоза шуда истифода баред. *Осонтар:* якчанд шохаро як-як дар пиёлаи хурд ҷойгир кунед.
+4. **Кортҳои гули фишурдашуда.** Гулҳоро аз дастаи гул барои як ҳафта байни варақҳои китоб фишурда, сипас ба корти ғафси ҷамъшуда часпонед. *Осонтар:* шумо ёпишқоқро мегузоред, ӯ гулро фишор медиҳад.
+5. **Варақаҳои рангкории калонсолон.** Варақҳоеро интихоб кунед, ки хатҳои равшан ва мавзӯъҳои воқеӣ доранд. [Варақаҳои рангкории](/games/coloring/) мо, ки чоп мешаванд, инчунин дар экран бо пахш кардани ранг, сипас қисми расм рангшуда метавонанд. *Осонтар:* соҳаҳои калонтар, ранги камтар, қаламҳои ғафс.
+6. **Гил ё хамири нарм.** Гили ҳавоӣ-хушккунанда ё хамири моделсозиро ғелонда, фишурда ва шакл диҳед. Фишурдани барг ба гил як тахтачаи оддии нақшро месозад. *Осонтар:* танҳо фишурдан ва ғелондан ҳам як фаъолияти пурра аст. Диққат кунед, ки шахс гилро ба даҳон набарад.
+7. **Сохтани корт.** Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки онро ҳамчун вазифаи воқеӣ тавсиф кунед: «Мо ба дӯсте корти зуд шифо ёфтанро мефиристем. Оё кумак мекунед?» Коғази пешакӣ бурида ва чанд стикери гул ё мӯҳр хуб кор мекунанд.
+8. **Албом сохтан.** Нусхаҳои аксҳои кӯҳна, открыткаҳо ё чиптаҳои кӯҳнаро якҷоя ба саҳифаҳои албом часпонед. Дар бораи ҳар кадом ҳангоми кор сӯҳбат кунед. Барои роҳҳои меҳрубонона барои сӯҳбат дар бораи гузашта [роҳнамои ёдоварии мо](/activities/reminiscence/) бинед.
+9. **Тахтачаҳои матоъ ва бофт.** Намунаҳои мохмал, бархат, матои ҷутӣ ва абрешимро ба картони сахт часпонед. Сохтани он фаъолият аст; ламс кардани он баъдтар фаъолияти дигар. Ғояҳои бештар дар [роҳнамои фаъолиятҳои ҳиссии мо](/activities/sensory/) ҳастанд.
+10. **Ороиши содаи чӯб.** Барои шахсе, ки коргарии чӯбро дӯст медошт, сайқал додани як порчаи ҳамвори чӯб ё рангкории комплекти хонаи паррандагон шинос ба назар мерасад. Абзорҳои тезро ҳазф кунед ва назорат кунед.
+11. **Рангкорӣ бо мусиқӣ.** Сабти дӯстдоштаашро гузоред ва шаклҳо ё ранги мувофиқи кайфиятро кашед. Ин ду фаъолиятро, ки бисёриҳо дӯст медоранд, якҷоя мекунад. Ба [фаъолиятҳои мусиқӣ](/activities/music/) нигаред.
 
-## How do I set up an art session?
+## Чӣ тавр сессияи санъатро омода кунем?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Аввал омода кунед.** Ҳама чизро пеш аз даъват кардани шахс бурида ва ҷойгир кунед. Интизорӣ барои ёфтани қайчӣ метавонад лаҳзаро аз даст диҳад.
+2. **Хурд нигоҳ доред.** Ду-се ранг, як қаламӯ, як варақи коғаз. Интихоби зиёд метавонад шахсро саргардон кунад.
+3. **Миз муҳофизат кунед.** Рӯймоли пластикӣ ё чодари кӯҳна, то ифлосӣ нигаронӣ набошад.
+4. **Паҳлӯ ба паҳлӯ нишинед.** Лоиҳаи худатонро назди лоиҳаи онҳо кор кунед. Ин шарикӣ ҳис мешавад, на назорат.
+5. **Барои оғоз кумак кунед.** Ассотсиатсияи Алсгеймер қайд мекунад, ки шояд лозим шавад, ки ҳаракати қаламӯро якҷоя бо шахс оғоз кунед. Вақте ки оғоз шуд, бисёриҳо идома медиҳанд.
+6. **Ҳангоми кор сӯҳбат кунед.** Дар бораи ранг ва бофт шарҳ диҳед ё бигзоред, ки санъат ба ҳикоя роҳнамоӣ кунад. Аз саволҳои монанди имтиҳон, мисли «Ин чист?», худдорӣ кунед.
+7. **Вақти кофӣ гузоред.** Лоиҳа лозим нест, ки дар як нишаст тамом шавад.
 
-## How do I adapt art as dementia changes?
+## Чӣ тавр санъатро ҳангоми тағйир ёфтани деменсия мутобиқ кунем?
 
-| Stage | What tends to work | What to adjust |
+| Марҳила | Чӣ аксар вақт кор мекунад | Чиро танзим кардан |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Аввал | Синфҳо, рангкории мукаммал, албомҳои ёдгорӣ, сохтани корт, рангкорӣ аз рӯи акс | Интихоби лоиҳаҳоро пешниҳод кунед; онро иҷтимоӣ нигоҳ доред |
+| Миёна | Коллажи пешакӣ бурида, рангсозии обӣ, ороиши гул, рангкорӣ бо соҳаҳои калон | Як қадам дар як вақт; буридан ва часпондан бо шумост |
+| Охир | Ҳаракатҳои васеъ бо қаламӯ, фишурдани гил, ламс кардани матоъ, тамошои кори шумо | Ба ҳисс тамаркуз кунед; дастро ба таври мулоим роҳнамоӣ кунед, агар қабул шавад |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Роҳнамои Хадамоти миллии тандурустии Бритониё мегӯяд, ки дар марҳилаҳои охир фаъолият одатан содда мешавад ва ба ҳисс тамаркуз мекунад. Тамошо кардани касе, ки рангкорӣ мекунад ва дар бораи ранҳо сӯҳбат кардан, роҳи воқеии иштирок аст. Барои ғояҳои бештар мувофиқи марҳила, [фаъолият барои ҳар марҳила](/activities/ideas/) бинед.
 
-## Safety with art supplies
+## Эҳтиёткорӣ бо маводи санъат
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Рангҳо, қаламҳо ва ёпишқоқҳои бехатарро интихоб кунед.
+- Қайчӣ, корди санъат ва таппончаҳои ёпишқоқи гарм аз дастрас дур нигоҳ доред. Буриданро худатон пешакӣ иҷро кунед.
+- Назорат кунед, ки касе гил, ранг ё ашёи хурдро ба даҳон набарад.
+- Барои об ва гулдонҳо зарфҳои устувор ва вазнин истифода баред.
 
-## When should we stop?
+## Кай бас кунем?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Вақте ки диққат парешон шавад ё норозигӣ зоҳир шавад, бас кунед. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки фаъолиятро қатъ ё тағйир диҳед, вақте ки диққат кам мешавад ё норозигӣ зиёд мешавад. Лоиҳаро дар ҷои бехатар гузоред ва чизи осудагибахш пешниҳод кунед. Шумо метавонед фардо ба он баргардед ё ҳеҷ гоҳ. Ҳардуяш хуб аст.
 
-## Display the work, if the person wants
+## Агар шахс хоҳад, корро нишон диҳед
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Гузоштани расм бар яхдон ё чаҳорчӯба кардани коллаж метавонад роҳи ором барои нишон додани эҳтиром бошад. Аввал пурсед. Баъзеҳо дидани корашонро дар девор дӯст медоранд; дигарон тарҷеҳ медиҳанд, ки не.
 
-## Pair art with our games
+## Санъатро бо бозиҳои мо якҷоя кунед
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Дар рӯзҳое, ки омода кардани рангҳо аз ҳад зиёд аст, [Рангкорӣ](/games/coloring/) бе ифлосӣ дар планшет кор мекунад. [Пазли тасвирӣ](/games/picture-puzzle/) тамоми расмро дар пеши назар нигоҳ медорад, вақте ки шумо порчаҳоро иваз мекунед. [Кортҳои суҳбат](/games/conversation-cards/) саволҳои кушод медиҳанд, ки аз расм ба ҳикоя роҳ мекушоянд. Ҳамаи инҳо вақтсанҷ ё хол надоранд. Шумо инчунин метавонед саҳифаҳоро аз маҷмӯаи [фаъолиятҳои чопшаванда](/activities/printable/) мо чоп кунед.
