@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Машқ ва саломатии майна: тадқиқот чиро нишон медиҳад ва чӣ тавр бехатар ҳаракат кардан лозим"
+seoTitle: "Машқ ва деменсия: тадқиқот чӣ мегӯяд"
+description: "Тадқиқот байни фаъолияти ҷисмонӣ ва хатари деменсия чиро нишон медиҳад ва роҳҳои бехатари ҳаракат барои пиронсолон ва одамони дорои деменсия."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Тадқиқотҳо фаъолияти ҷисмонии мунтазамро бо хатари камтари деменсия алоқаманд мекунанд ва
+  Комиссияи Лансет дар соли 2024 нофаъолии ҷисмониро яке аз 14 омили хатари тағйирпазир номидааст.
+  Озмоишҳо исбот накардаанд, ки машқ деменсияро пешгирӣ мекунад. Ба ҳар ҳол ҳаракат қувват,
+  мувозинат, кайфият ва хобро беҳтар мекунад, бинобар ин пиёдагардӣ, машқҳо дар болои курсӣ ва
+  рақс барои худи онҳо арзанд. Пеш аз оғози кори нав бо духтур маслиҳат кунед.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Одамони аз ҷиҳати ҷисмонӣ фаъол ба ҳисоби миёна хатари камтари деменсия доранд, аммо ин бештар аз тадқиқотҳои мушоҳидавӣ бармеояд, на аз озмоишҳо."
+  - "Озмоиши панҷсолаи машқ дар пиронсолон дар малакаҳои фикркунӣ байни гурӯҳҳо фарқи равшан наёфт."
+  - "Роҳнамои CDC барои калонсолони аз 65 боло машқҳои аэробӣ, мустаҳкамкунандаи мушакҳо ва мувозинатро дар бар мегирад ва мегӯяд, ки каме фаъолият беҳтар аз бефаъолиятӣ аст."
+  - "Барои одамони бо деменсия зиндагикунанда ҳаракати кӯтоҳ, шиносо ва якҷоя, чун сайри ҳаррӯза ё бозиҳои нишаста, аз ҳар ҳадафе муҳимтар аст."
+  - "Беш аз яке аз чор пиронсол ҳар сол меафтад, бинобар ин аввал кори мувозинат ва ҷойи бехатар муҳим аст."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Оё машқ метавонад деменсияро пешгирӣ кунад?"
+    a: "Касе ин ваъдаро дода наметавонад. Бисёр тадқиқотҳо фаъол буданро бо хатари камтари деменсия алоқаманд мекунанд, аммо озмоишҳои клиникӣ нишон надодаанд, ки машқ онро пешгирӣ мекунад. Машқ фоидаҳои дигари исботшудаи бисёр дорад, бинобар ин ба ҳар ҳол арзиш дорад."
+  - q: "Оё машқ кардан барои касе, ки бо деменсия зиндагӣ мекунад, бехатар аст?"
+    a: "Одатан бале, бо андаке банақшагирӣ. Институти миллии пиршавӣ тавсия медиҳад, ки пеш аз оғози тартиби нав бо духтури шахс маслиҳат кунед, пойафзоли бароҳат интихоб кунед, об пешниҳод кунед ва машғулиятҳоро кӯтоҳ нигоҳ доред. Агар шахс хаста, ноустувор ё ғамгин ба назар расад, бас кунед."
+  - q: "Кадом машқҳоро нишаста кардан мумкин аст?"
+    a: "Машқҳои нишаста: кашишҳо ё йогаи болои курсӣ, партофтани шори ҳавоӣ ё тӯби нарм, партофтани халтачаҳои лӯбиё, бардоштани банкаҳои шӯрбо, навори чандирӣ ва дастгоҳҳои пойгардон. Вақте роҳ рафтан душвор аст, ин интихобҳои хубанд."
+  - q: "Агар шахс намехоҳад ҳаракат кунад, чӣ кор кардан лозим?"
+    a: "Фишор наоред. Баъдтар боз кӯшиш кунед, худатон ҳамроҳ шавед, мусиқии шиносро илова кунед ё ҳаракатро ба кор табдил диҳед, масалан рӯфтан ё об додани гулҳо. Сайри кӯтоҳ то қуттии почта ҳисоб мешавад ва якҷоя дар берун нишастан низ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Фаъол будан яке аз одатҳоест, ки дар тадқиқоти саломатии майна бештар омӯхта шудааст. Тадқиқотҳо онро бо хатари камтари деменсия алоқаманд мекунанд, аммо исбот накардаанд, ки машқ деменсияро пешгирӣ мекунад. Равшан аст, ки ҳаракат дар ҳар синну сол ба қувват, мувозинат, кайфият ва хоб кӯмак мекунад. Ин саҳифа мегӯяд, ки тадқиқот чӣ нишон медиҳад, ба пиронсолон чӣ қадар фаъолият тавсия мешавад ва чӣ тавр бо касе, ки бо деменсия зиндагӣ мекунад, оромона ҳаракат кардан мумкин аст.
 
-## Does exercise lower the risk of dementia?
+## Оё машқ хатари деменсияро кам мекунад?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Тадқиқот нишон медиҳад, ки одамони аз ҷиҳати ҷисмонӣ фаъол камтар ба деменсия дучор мешаванд, аммо далелҳо ҳудуд доранд. [Комиссияи Лансет оид ба деменсия дар соли 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) нофаъолии ҷисмониро яке аз 14 омили хатари тағйирпазир номидааст. Дар модели он, ин 14 омил якҷоя тақрибан 45% деменсияро дар саросари ҷаҳон фаро мегиранд.
 
-Here is what the evidence looks like:
+Далелҳо чунин менамоянд:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Тадқиқотҳои мушоҳидавӣ як самтро нишон медиҳанд.** Шарҳи 58 тадқиқот, ки Комиссия баррасӣ кардааст, нишон дод, ки одамони аз ҷиҳати ҷисмонӣ фаъол тақрибан 20% хатари камтари деменсия доштанд. Фарқи калонтарин байни одамони қариб тамоман нофаъол ва онҳое буд, ки ақаллан каме фаъолият мекарданд.
+- **Алоқа шояд дутарафа бошад.** Комиссия қайд мекунад, ки нофаъол будан шояд хатарро афзоиш диҳад. Он ҳамчунин қайд мекунад, ки тағйироти барвақти майна дар деменсия, ки солҳо пеш аз ташхис оғоз мешаванд, шояд одамонро камфаъол кунанд.
+- **Озмоишҳо камтар равшананд.** Дар як озмоиш 945 пиронсоли дорои синни миёнаи 78 сола ба панҷ соли машқи назоратшудаи ду маротиба дар ҳафта ё ба гурӯҳи муқоиса ҷудо карда шуданд. Дар охир малакаҳои фикркунӣ байни гурӯҳҳо фарқи равшан надоштанд. Бисёр одамони гурӯҳи муқоиса низ фаъол буданд, ки хондани натиҷаро душвортар мекунад.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Институти миллии пиршавӣ (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) инро ошкоро мегӯяд. Алоқаи равшан байни фаъолияти ҷисмонӣ ва пешгирии Алтсгеймер нишон дода нашудааст ва далелҳои озмоишӣ барои гуфтан, ки машқ онро пешгирӣ ё суст мекунад, кофӣ нестанд. Бо вуҷуди ин машқ хатари афтодан, ғамгинӣ, диабет, фишори баланди хун ва сактаро кам мекунад. Баъзе аз ин ҳолатҳо худ бо коҳиши шинохтӣ алоқаманданд.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Хулосаи софдилона ин аст, ки ҳаракат кунед, зеро он имрӯз ба шумо кӯмак мекунад беҳтар ҳис кунед ва фаъолият намоед. Ҳар гуна фоидаи майна эҳтимолан иловаест, на ваъда.
 
-## How much activity do older adults need?
+## Пиронсолон ба чӣ қадар фаъолият ниёз доранд?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Роҳнамои CDC барои калонсолони аз 65 боло](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ҳар ҳафта се навъи фаъолиятро пешниҳод мекунад:
 
-| Type | Weekly amount | Examples |
+| Навъ | Миқдори ҳафтаина | Мисолҳо |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробӣ | Ақаллан 150 дақиқа фаъолияти миёна, масалан 30 дақиқа дар 5 рӯз | Пиёдагардии тез, рақс, аэробикаи обӣ |
+| Мустаҳкамкунии мушакҳо | Ақаллан 2 рӯз, бо иштироки ҳамаи гурӯҳҳои асосии мушакҳо | Бардоштани вазнаҳои сабук ё банкаҳои шӯрбо, навори чандирӣ |
+| Мувозинат | Мунтазам | Роҳ рафтан пошна ба нӯги по, аз курсӣ бархостан |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Инҳо ҳадаф ҳастанд, на шарти воридшавӣ. CDC мегӯяд, ки агар ба онҳо расида натавонед, ба андозае фаъол бошед, ки қобилият ва саломатиатон имкон медиҳад. Каме фаъолият беҳтар аз бефаъолиятӣ аст.
 
-## Gentle ways to move for older adults
+## Роҳҳои оромонаи ҳаракат барои пиронсолон
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Бо ҳамроҳ сайр кунед.** Сайри ҳаррӯза бо дӯст, ҳамсоя ё гурӯҳи сайр гуфтугӯ ва бехатариро илова мекунад.
+- **Машқҳои болои курсӣ.** Бардоштани дастҳо дар ҳолати нишаста, давр задани ҷӯлаки по, дар ҷой қадам задан ва йогаи болои курсӣ бидуни хатари мувозинат қувват месозанд.
+- **Дар ошхона рақс кунед.** Мусиқии солҳои наврасӣ ва ҷавонии шахсро гузоред ва тоб хӯред, ангушт занед ё қадам занед. [Роҳнамои мо оид ба фаъолиятҳои мусиқӣ](/activities/music/) ғояҳо дорад.
+- **Қувват бо ашёи хонагӣ.** Ҳангоми тамошои намоиши дӯстдошта шишаҳои пур аз об ё банкаҳои шӯрборо бардоред.
+- **Боғбонӣ ё корҳои хона.** Об додани гулҳо, хасрӯбӣ, рӯфтан ва ҷамъ кардани ҷомашӯӣ ҳама ҳисоб мешаванд. Ба [фаъолиятҳои берун ва боғбонӣ](/activities/outdoor-and-gardening/) ва [корҳои хона](/activities/household-tasks/) нигаред.
+- **Машқи обӣ.** NIA дарсҳои аэробикаи обиро ҳамчун як имконият барои касоне номбар мекунад, ки машқ дар хушкӣ ба буғумҳояшон вазнин меояд.
 
-## How to exercise with someone living with dementia
+## Чӣ тавр бо касе, ки бо деменсия зиндагӣ мекунад, машқ кардан мумкин аст
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Барои шахсе, ки бо деменсия зиндагӣ мекунад, мақсад бароҳатӣ, лаззат ва нигоҳ доштани қобилиятҳои ҳаррӯза аст, на расидан ба ягон рақам. NIA мегӯяд, ки фаъолияти ҷисмонӣ мушакҳо, буғумҳо ва дили касеро, ки Алтсгеймер дорад, дар ҳолати хуб нигоҳ медорад ва метавонад кайфият ва хобро низ беҳтар кунад. Пеш аз оғози тартиби нав бо духтури ӯ маслиҳат кунед. Маслиҳатҳо аз [роҳнамои NIA барои нигоҳубинкунандагон](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) инҳоянд:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Ҳар рӯз якҷоя сайр кунед.** Роҳи бехатари шиносеро интихоб кунед, ки аз монеа холӣ бошад. Агар шахс танҳо роҳ равад, дастбанди шиносоӣ бо рақами телефони шумо фикри хуб аст.
+2. **Видеоҳои машқ барои пиронсоло санҷед.** Якҷоя пайравӣ кунед, нишаста ё истода.
+3. **Машғулиятҳоро кӯтоҳ нигоҳ доред.** Якчанд «мини-машқи» кӯтоҳ шояд аз як машқи дароз беҳтар кор кунад.
+4. **Мусиқӣ илова кунед.** Сурудҳои шиносу ҳаракатро ба фаъолият табдил медиҳанд, на вазифа. Агар шахс рақсро дӯст дорад, рақс кунед.
+5. **Об ва пойафзоли бароҳат пешниҳод кунед.** Ҳангому баъд аз машқ об ё шарбат пешниҳод кунед ва либоси бароҳат ва пойафзоли мувофиқи махсуси машқро интихоб намоед.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Агар роҳ рафтан душвор бошад, [роҳнамои NIA оид ба нигоҳубини шахси дорои Алтсгеймер](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) имконоти нишастаро пешниҳод мекунад. Ба онҳо машқҳо ё йогаи болои курсӣ, партофтани халтачаи лӯбиё, партофтани тӯби нарм ё шори ҳавоӣ, навори чандирӣ, бардоштани ашёи сабуки хонагӣ ва дастгоҳҳои пойгардон дохиланд. Корҳои оддӣ чун рӯфтан ва ғубор тоза кардан низ ҳисоб мешаванд.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Дар бораи он, ки ҳаракат чӣ кор карда метавонад, воқеъбин бошед. Комиссияи Лансет ҳеҷ далеле наёфт, ки машқ тағйироти рафториро, ба монанди изтироб, кам мекунад. Якҷоя ҳаракат кунед, зеро он метавонад хуш ояд, на ҳамчун роҳи ислоҳи нимрӯзи сахт. Агар шахс «не» гӯяд, ин ҳеҷ гап нест. Роҳнамои мо оид ба [вақте ки онҳо «не» мегӯянд](/caregiving/when-they-say-no/) роҳҳои оромонаи баъдтар кӯшиш карданро дорад. Барвақт қатъ кардан ё танҳо якҷоя дар берун нишастан низ натиҷаи хуб аст.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Баъд аз ҳаракат, таваққуфи ором, чун [Нафаскашии ором](/games/calm-breathing/), метавонад ба ҳардуи шумо оромӣ диҳад. Барои фаъолияти нишаста бо ҳаракати нарми даст [Якҷоя ҷудо кардан](/games/sort-together/) ва [Бингои аксӣ](/games/picture-bingo/) дар сари миз хуб мешаванд.
 
-## Balance and fall safety
+## Мувозинат ва бехатарӣ аз афтодан
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Афтодан маъмул ва ҷиддӣ аст. [CDC хабар медиҳад](https://www.cdc.gov/falls/data-research/facts-stats/index.html), ки беш аз яке аз чор пиронсол ҳар сол меафтад, аммо камтар аз нисфи онҳо ба духтур мегӯянд. Як маротиба афтодан эҳтимоли боз афтодан дучанд мекунад. Омилҳои хатаре, ки CDC номбар мекунад:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Сустии пойҳо ва кунҷи рон
+- Душвории роҳ рафтан ва мувозинат
+- Баъзе доруҳо, аз ҷумла ором кунандаҳо ва баъзе зидди ғамгинӣ
+- Мушкилоти биноӣ
+- Дарди по ё пойафзоли номувофиқ
+- Хатарҳои хона, аз қабили бесарусомонӣ, қолинчаҳои озод ва зинапояҳои шикаста
 
-To move more safely:
+Барои бехатартар ҳаракат кардан:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Курсии мустаҳкамро истифода баред**, бе чарх, ва барои машқҳои истода миз ё панҷараро дар дастрас нигоҳ доред.
+- **Аввал ҷойро тоза кунед** аз қолинчаҳо, симҳо ва бесарусомонӣ.
+- **Ҳангоми бархостан оҳиста бошед** ва агар шахс сархамӣ ё ноустуворӣ ҳис кунад, бас кунед.
+- **Пойафзоли дастгиркунанда пӯшед**, на ҷӯроб ё чархчаҳои сусти хонагӣ.
+- **Мувозинатро дар наздикии такягоҳ машқ кунед.** Аз курсӣ бархостан ва роҳ рафтан пошна ба нӯги по мисолҳои CDC барои фаъолиятҳои мувозинатанд.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC тавсия медиҳад, ки пиронсоле, ки меафтад ва сарашро мезанад, фавран ба духтур муроҷиат кунад, махсусан агар хунрав истеъмол кунад.
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Пеш аз оғози тартиби нави машқ бо духтур маслиҳат кунед, махсусан барои касе, ки мушкилии дил ё шуш, дарди буғум, мушкилии мувозинат ё деменсия дорад. Духтур ё физиотерапевт метавонад фаъолиятҳои бехатарро пешниҳод кунад ва санҷад, ки оё доруҳо ба мувозинат таъсир мерасонанд. Дар бораи ҳар афтодан ба духтур бигӯед, ҳатто афтодани бе осеб. Агар ҳангоми машқ чизе дард кунад ё нодуруст ҳис шавад, бас кунед. Барои дарди ногаҳонии сина, душвории нафаскашӣ ё парешонии ногаҳонӣ ба рақами фавқулоддаи маҳаллии худ занг занед.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ин саҳифа маълумоти умумист, на маслиҳати тиббӣ. [Огоҳиномаи тиббии мо](/medical-disclaimer/)-ро бинед. Барои тасвири васеътар [тадқиқот дар бораи омилҳои хатари деменсия чӣ мегӯяд](/brain-health/risk-factors/) ва [оё деменсияро пешгирӣ кардан мумкин аст](/brain-health/can-dementia-be-prevented/)-ро хонед.

@@ -1,33 +1,28 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gaoioiga Lolomiina mo le Dementia e Leai se Totogi"
+seoTitle: "Gaoioiga Lolomiina mo le Dementia: Mataʻitusi Lapopoa"
+description: "Gaoioiga lolomiina mo le dementia e leai se totogi: suʻesuʻe upu, vali, kata talanoaga ma bingo ata, faatasi ai ma fautuaga mo le lolomiina lelei."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  O loo ofoina atu e le Golden Moments gaoioiga lolomiina mo le dementia e leai se totogi: se suʻesuʻe upu e lapopoa mataʻitusi, itulau e vali, kata talanoaga e iai ata, ma kata bingo e iai ata. Tatala so o se itulau o le taaloga ma oomi le faamau Lolomi. Lolomi i mataʻitusi lapopoa ma faigofie i luga o pepa mafiafia, tuu le tasi galuega i le itulau taʻitasi, ma ufiufi i le palasitika manino itulau e te mananaʻo e toe faaaogaina. O ni pepa faigofie e te faia lava oe, e pei o se itulau o le tala o le olaga po o se faasologa o le aso, e fesoasoani foi.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "O a matou gaoioiga lolomiina e leai se totogi: Suʻesuʻe Upu, Vali, Kata Talanoaga ma Bingo Ata. O itulau taʻitasi o le taaloga e iai se faamau Lolomi."
+  - "Lolomi i mataʻitusi lapopoa ma faigofie e mautinoa ona vaaia, ma tuu le tasi galuega i le itulau taʻitasi."
+  - "E sili ona faigofie ona uuina ma e le vave gaugau le pepa mafiafia po o le pepa kata. Ufiufi i le palasitika manino itulau ina ia toe faaaogaina ma peni e soloia."
+  - "O ni pepa e te faia lava oe e pei o se itulau o le tala o le olaga, o se faasologa o le aso po o ni ata e faailogaina ai faitotoʻa e faigofie ma aoga."
+  - "O le itulau lolomiina o se valaaulia, e le o se meaaoga. E lelei le faia o se vaega o ia, po o le le faia lava."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "E leai ea se totogi o a outou gaoioiga lolomiina mo le dementia?"
+    a: "E leai. O itulau o le Suʻesuʻe Upu, Vali, Kata Talanoaga ma le Bingo Ata o lenei saite e leai se totogi e faaaogā ai ma lolomi ai. Tatala le itulau o le taaloga ma oomi le faamau Lolomi."
+  - q: "O fea gaoioiga lolomiina e sili ona lelei mo le dementia?"
+    a: "O pepa sili ona lelei o ia e faigofie, manino ma talafeagai mo tagata matutua: o se suʻesuʻe upu e lapopoa mataʻitusi ma e na o upu i luga ma le itu, o itulau e vali e iai ni laina manino, o kata e iai ata e amata ai se talanoaga, ma bingo ata mo vaega. Ia faatusatusa le gaoioiga i mea e fiafia i ai le tagata ma mea e mafai e ia nei, ma tuu le tasi galuega i le itulau taʻitasi."
+  - q: "E faapefea ona ou faia pepa lolomiina ina ia faigofie ona vaai ma faaaogā?"
+    a: "Faaaogā mataʻitusi lapopoa ma faigofie, le uati uliuli i luga o pepa paʻepaʻe po o pepa e pei o le kulimi, ma tele le avanoa. Lolomi i luga o pepa mafiafia po o pepa kata ina ia mau lelei le itulau, filifili se pepa e le ama ina ia faaitiitia le mamālā, ma faaaogā se papa pepa po o se ie e le faafelelea e taofi ai le itulau. E fesoasoani le ufiufi i le palasitika manino ina ia umi le tumau o itulau."
+  - q: "E mafai ona ou lolomi a outou gaoioiga mo se fale tausi tagata matutua po o se polokalame i le aso?"
+    a: "E mafai. E talia tagata faigaluega o gaoioiga e lolomi a matou itulau mo tagata o loo nonofo ai ma mo vaega. O le Bingo Ata na fuafuaina mo vaega ma o loo iai se tagata valaau i luga o le lau e mafai ona faaalia i luga o se televise po o se pulusi ata."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +47,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+I nisi taimi, o le gaoioiga sili ona lelei o se tasi lava pepa ma se peni i luga o le laulau i le kitchen. E leai se manaʻomia o se mea e tau ai le eletise, se upu faalilolilo po o se lau; e faigofie foi ona aumai i se asiasiga po o se vaega. O lenei itulau o loo faamatalaina ai gaoioiga lolomiina e leai se totogi o loo i luga o la matou saite, le auala e lolomi ai ina ia faigofie ona vaai ma uuina, ma ni pepa faigofie e mafai ona faia i le fale e fiafia i ai aiga ma tagata faigaluega o gaoioiga.
 
-## What free printable activities do you offer?
+## O a gaoioiga lolomiina e leai se totogi o loo outou ofoina atu?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+E fa a matou gaoioiga lolomiina e leai se totogi. Tatala so o se tasi o nei itulau o taaloga ma oomi le faamau **Lolomi** e maua ai se lomiga e talafeagai mo le masini lolomi.
 
-| Printable | What it is | Good for |
+| Lolomiina | O le a le mea e faia | E lelei mo |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Suʻesuʻe Upu](/games/word-search/) | O se suʻesuʻe upu e lapopoa mataʻitusi ma e na o upu i luga ma le itu | Taimi filemu ma se peni; se tasi sa fiafia i ni suʻesuʻega |
+| [Vali](/games/coloring/) | O itulau e vali, e mafai ona lolomi, pe vali i luga o le lau | Taimi malū ma foafoa; so o se vaitaimi pe a iai se fesoasoani |
+| [Kata Talanoaga](/games/conversation-cards/) | O kata e iai ata ma fesili tatala e leai ni tali sese, e faavasega i autu | Asiasiga, valaauga, taumafataga a le aiga, vaega o manatuaga |
+| [Bingo Ata](/games/picture-bingo/) | O kata bingo e iai ata nai lo numera, faatasi ai ma se tagata valaau i luga o le lau | Fale tausi tagata matutua, polokalame i le aso, faatasiga a le aiga |
 
-### Large-print word search
+### Suʻesuʻe upu e lapopoa mataʻitusi
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+O le [Suʻesuʻe Upu](/games/word-search/) e faaaogā ai mataʻitusi lapopoa ma e na o upu i luga ma le itu, e leai ni upu e faapiopio po o ni upu e tuu ifo i tua. Faia faatasi: e faitau e le tasi se upu mai le lisi, ma suʻe e le isi. Afai e faigata le suʻe o upu, taumafai e faataamilo faatasi le mataʻitusi muamua o upu taʻitasi, po o le faitau lava o le lisi o upu i le leo ma talanoa e uiga i upu taʻitasi.
 
-### Coloring pages
+### Itulau e vali
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+E mafai ona lolomi itulau o le [Vali](/games/coloring/) mo peni vali po o penitala lanu, pe vali i luga o se tablet e ala i le oomiina o se lanu, ona oomi lea o se vaega o le ata. Mo itulau lolomiina, ofo atu ni peni vali mafiafia ma ni lanu e tai le tele i le taimi e tasi. Tagaʻi i la matou [taʻiala i galuega ma galuega lima](/activities/arts-and-crafts/) mo auala e tumau ai le vali e talafeagai mo tagata matutua ma malū.
 
-### Conversation cards
+### Kata talanoaga
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+O [Kata Talanoaga](/games/conversation-cards/) e tuufaatasia ai se ata manino ma se fesili tatala, e pei o le “Taʻu mai ia te aʻu e uiga i...” po o le “O le a le mea e te matauina?” Ua tusia e pei o ni valaaulia tatala, e le o ni fesili o se suʻega. Lolomi se seti, tipi ese, ma teu ni nai kata i se taga mo asiasiga po o i tafatafa o le telefoni mo valaauga. E lelei foi mo vaega o [manatuaga](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kata bingo e iai ata
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+O kata o le [Bingo Ata](/games/picture-bingo/) e faaaogā ai ata nai lo numera. Lolomi le tasi kata mo le tagata taalo taʻitasi ma faaaogā le tagata valaau i luga o le lau i se komepiuta feaveaʻi, televise po o se pulusi ata. Matou te fautuaina le valaau seia ma tumu uma kata o tagata uma, ina ia leai se tasi e totoe. Tagaʻi i [gaoioiga a vaega mo fale tausi tagata matutua](/activities/care-home-groups/) mo le auala e faia ai se fonotaga.
 
-## How do I print activities so they are easy to use?
+## E faapefea ona ou lolomi gaoioiga ina ia faigofie ona faaaogā?
 
-Small changes in how you print make a big difference.
+O suiga laiti i le auala e lolomi ai e tele se aoga.
 
-### Make it easy to see
+### Faigofie ona vaai
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Mataʻitusi lapopoa ma faigofie.** Faaaogā le tulaga e sili ona lapopoa o le lolomiga e fetaui pea ma le itulau. Aloese mai mataʻitusi matagofie po o mataʻitusi tusi lima.
+- **Eseesega malosi.** Uati uliuli i luga o pepa paʻepaʻe po o pepa e pei o le kulimi. Aua le faaaogā ni talaaga lanu efuefu mālūlū po o ni talaaga lanu.
+- **O le pepa e le ama** e faaitiitia ai le mamālā i lalo o moli susulu.
+- **Siaki mata tioata ma le malamalama.** Ua taʻua e le Alzheimer's Association e mafai ona faigata ai femalamalamaaʻiga pe a iai ni faafitauli i le vaai ma le faalogo, ma fautuaina le siaki masani o ia mea. E fesoasoani foi se moli susulu ma tutusa.
 
-### Make it easy to hold
+### Faigofie ona uuina
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **O le pepa mafiafia po o le pepa kata** e tumau pea le mafolafola, e faigofie ona piki, ma e tumau pea pe a faaaogā soo.
+- **O se papa pepa** po o se ie o le laulau e le faafelelea e taofi ai le itulau mai le tafe.
+- **O peni vali mafiafia po o penitala mafiafia** e sili ona faigofie ona uuina nai lo peni manifinifi.
 
-### Make it reusable
+### Faigofie ona toe faaaogā
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Ufiufi i le palasitika manino** itulau po o le tuu ai i totonu o ni ufiufiga manino. Faaaogā peni e soloia i luga o suʻesuʻe upu ma kata bingo, ona soloia lea.
+- **Filifili ni ufiufiga e le ama** pe afai e tupu le mamālā, ma **faataamilo tulimanu** o kata ua ufiufi i se sisi ina ia faigofie ona uuina.
+- **Teu se faila** o mea e sili ona fiafia i ai ina ia le toe lolomi pea le itulau lava e tasi i vaiaso taʻitasi.
 
-### Keep it simple
+### Tausia ina ia faigofie
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Le tasi galuega i le itulau.** O le tasi suʻesuʻe upu po o le tasi ata, e le o ni gaoioiga e tele ua faapipii faatasi.
+- **Tele le avanoa paʻepaʻe.** E mafai ona le fiafia le tagata i se itulau e tele mea.
+- **Aua ne‘i iai ni faatonuga e faitau, pe afai e mafai.** Faaali i le tagata le mea e faia nai lo le tusia.
+- **Tipi itulau.** Afai e tele tele se itulau atoa, tipi i le afa po o le pelu ina ia na o se vaega e vaaia.
 
-## Other useful printables you can make at home
+## O ni isi pepa lolomiina e mafai ona e faia i le fale
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+E le o pepa uma e aoga o ni taaloga. E faigofie ona faia nei i se polokalame o tusi ma se masini lolomi.
 
-### A life-story page
+### Se itulau o le tala o le olaga
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+O se pepa e tasi o le “e uiga ia te aʻu” ma se ata, le igoa e fiafia le tagata e valaauina ai, le mea na ola aʻe ai, lana galuega, le aiga, meaai e sili ona fiafia i ai, musika ma mea e faamafanafanaina pe faalavelave ai. Ua fautuaina e le Dementia Australia se [tusi o manatuaga](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) e iai faamatalaga e uiga i le olaga o le tagata, mea e fiafia i ai ma tagata taua, ina ia fesoasoani i tagata asiasi ma tagata tausi ma faaosofia ai talanoaga.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+E sili ona aoga i falemaʻi ma nofoaga fou o tausiga. Ua fautuaina e le NIA le tuuina atu i tagata faigaluega o le falemaʻi se [pepa o faamatalaga patino](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) e aofia ai le faasologa masani a le tagata, le igoa e fiafia i ai, mea e fiafia ma le fiafia i ai, mea e ono faalavelave ai, ma faailoga e le o ni upu o le tiga.
 
-### A daily schedule
+### Se faasologa o le aso
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+O se faasologa lapopoa ma faigofie o le aso e iai taimi, ni nai upu ma se ata laiti mo vaega taʻitasi: taeao, savali, aso afiafi, malolo, musika, taumafataga o le afiafi. O le [fuafuaga o le tausiga i aso taʻitasi](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) a le Alzheimer's Association e fautuaina ai le faatulagaina e tusa ai ma taimi sili ona lelei o le tagata, ma taimi masani e ala ai ma moe ai ma se paleni o gaoioiga ma le malolo. Faaee i le maualuga o mata, atonu i luga o le pusa malulu, ma tuu e fetuutuunai. Tagaʻi i la matou [taʻiala i faiga malū o aso](/activities/daily-routine/) mo le tele o mea.
 
-### Picture labels for rooms and drawers
+### Ata e faailoga ai potu ma atigipusa
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Ua fautuaina e le NIA le faaaogāina o ni faailoga lanu susulu po o ni ata faigofie e [faailoga ai le faletaele, potu moe ma le kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). E aoga foi le manatu lava lea mo atigipusa ma kapoti: o se ata o sokisi i luga o le atigipusa o sokisi, ma ipu i luga o le kapoti o ipu. Lolomi, ufiufi i le palasitika manino ma faapipii.
 
-### A sorting set
+### Se seti e faavasega
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Lolomi ata mai ni vasega faigofie e lua, e pei o fualaau aina ma fugalaau po o mea faigaluega ma mea o le kitchen, i luga o pepa kata. Tipi ese ma faavasega faatasi i ni ato se lua. O le lomiga i luga o le lau o lenei mea o le [Faavasega Faatasi](/games/sort-together/).
 
-### Song lyric sheets
+### Pepa o upu o pese
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Lolomi upu o ni nai pese e fiafia i ai i mataʻitusi e matua lapopoa lava mo se usuga faatasi. E oo lava i tagata ua le toe faitau tele e ono fiafia e uuina le pepa.
 
-### A family photo page
+### Se itulau o ata a le aiga
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+O se tasi itulau e fa i le ono ata lapopoa o le aiga, ma se igoa muamua i lalo o le ata taʻitasi. E mafai ona tuu i luga o le laulau ina ia piki e se tasi ma talanoa i ai. E fesoasoani igoa i tagata asiasi ma tagata faigaluega e auai i le talanoaga, ma e leai se tasi e manaʻomia ona fesili, “O ai lea?”
 
-### A recipe card
+### Se kata o se fua o meaai
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Lolomi se fua o meaai e fiafia i ai le aiga i mataʻitusi lapopoa. Faaaogā e kuka faatasi ai, po o le talanoa lava e uiga i taumafataga i aso ua mavae.
 
-## How do I offer a printable without it feeling like homework?
+## E faapefea ona ou ofoina atu se pepa lolomiina e aunoa ma le foliga o se meaaoga?
 
-Present it as something to share, not a test.
+Ofoina atu e pei o se mea e faasoa, e le o se suega.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Nofo ifo ma amata oe lava.** “Ou te faia lenei suʻesuʻe upu. E te fia fesoasoani mai e suʻe le ‘faatoaga’?”
+- **Galulue faatasi.** Fesilafi, po o le tasi e suʻe ma le isi e faataamilo.
+- **Aua lava neʻi faailoga o se tali tonu po o se tali sese.** O le taʻiala a le Alzheimer's Association i [gaoioiga i le fale](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) e fautuaina ai le taulaʻi i le faagasologa, e le o le iuga, ma le fiafia nai lo le taulau.
+- **Tuu itulau i fafo.** E fautuaina e le taʻiala lava lea le tuu o tusi o ata, albums o ata po o mekasini tuai i nofoaga e faigofie ona oo i ai. E mafai foi ona tuu kata lolomiina ma itulau o ata i luga o se laulau i tafatafa i le auala lava lea.
+- **Taofi i so o se taimi e te manaʻo ai.** O le afa o se itulau vali e lelei lava mo se aoauli. E faapea foʻi le teuina o le itulau ma inu se ipu lauti.
 
-## Where to find more
+## Mea e maua ai le tele
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Suʻe o a matou [taaloga ma pepa lolomiina](/games/) uma, pe tagaʻi i [gaoioiga mo vaitaimi uma](/activities/ideas/) mo le tele o manatu, e iai ma e leai ni pepa.

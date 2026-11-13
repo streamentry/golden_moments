@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Gaoioiga o Lagona mo Tagata e Ola ma le Dementia"
+seoTitle: "Gaoioiga o Lagona mo le Dementia: Manatu ma le Saogalemu"
+description: "Gaoioiga o lagona mo tagata e ola ma le dementia: lamu lima, ato ie ma leo o le natura, faatasi ai ma faamatalaga saogalemu e uiga i le mafatia, le aleri ma manogi."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  O gaoioiga o lagona e faaaogā ai le pā, manogi, tofo, leo ma le vaai: o se lamu lima malie, o se ato o ie vaivai, o laulaau fou e manogi, o leo o le natura, po o le matamata i manulele i se faamalama. E talafeagai mo vaitaimi uma ma e sili atu ona aoga i le mulimuli ane. Siaki muamua mo le lamatiaga o le mafatia, aleri, faafitauli o le paʻu ma le le fiafia i manogi, ofoina atu le tasi mea i le taimi, ma taofi pe a foliga mai e le fiafia le tagata.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "E leai ni tali sao e manaʻomia i gaoioiga o lagona, o lea e aoga ai i vaitaimi uma, e aofia ai i luga o le moega po o se nofoa."
+  - "Ofoina atu le tasi lagona i le taimi i se potu filemu, ma fesili pe taʻu atu a o lei pā."
+  - "Aloese mai mea laiti ma so o se mea e foliga pe manogi e pei o meaai ae e le o meaai, aua e mafai ona tuu e tagata mea i o latou gutu."
+  - "Siaki mo aleri, faafitauli o le paʻu ma faafitauli o le manava a o lei faaaogā ni lotione, manogi po o meaai."
+  - "E leai se faamaoniga e talitonuina e fesoasoani le aromatherapy i faailoga o le dementia; faaaogā manogi na o le fiafia faigofie, pe afai lava."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "O a gaoioiga lelei o lagona mo se tasi e iai le dementia?"
+    a: "O manatu faigofie e aofia ai se lamu lima malie ma lotione, uuina o ie vaivai, manogi o laulaau fou po o le kofe, faalogo i musika e fiafia i ai po o leo o le natura, matamata i manulele po o se tane i, ma tofo i se meaai e fiafia i ai i se tulaga e saogalemu. Ofoina atu le tasi mea i le taimi ma matamata i le tali a le tagata."
+  - q: "E saogalemu ea gaoioiga o lagona mo se tasi e tuu mea i lona gutu?"
+    a: "E mafai, pe a faaeteete. Faaaogā na o mea lapopoa e le mafai ona folo, aloese mai so o se mea laiti po o se mea e malepelepe, ma teu lotione, taifaga ma oloa manogi i se mea e le oo i ai mulimuli ane, aua e mafai ona foliga pe manogi e pei o meaai. Tumau ma le tagata i le taimi atoa."
+  - q: "E fesoasoani ea le aromatherapy i le dementia?"
+    a: "O se iloiloga a le Cochrane na le maua ai se faamaoniga e talitonuina e fesoasoani le aromatherapy i tagata e iai le dementia, e ui lava o suʻesuʻega sa laiti ma e le tutusa. Afai e fiafia le tagata i se manogi malie ma masani, e lelei lena, ae aloese mai suau malosi, aemaise lava pe afai e iai ni faafitauli o le manava po o aleri."
+  - q: "O le a le ofu po o le ie o gaoioiga mo lima?"
+    a: "O se fasi ie, ofu po o se ie o le fatafata e iai ni mea e uuina ua lilofi malosi i luga, e pei o ni faamau lapopoa, ziper, lipine ma ni fasi e eseese le pā. E tuu ai se mea e suʻesuʻe i lima e le mafai ona tumau. Siaki soo mo so o se mea ua faaletonu e mafai ona toso ese."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+O gaoioiga o lagona e faaaogā ai lagona e lima: pā, manogi, tofo, leo ma le vaai. E leai se manaʻomia o le manatua, o laasaga po o ni tali saʻo, o lea e mafai ai ona aoga i so o se vaitaimi. E sili atu ona taua i le mulimuli ane. Ua taʻua e le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) i le vaitaimi mulimuli e oo atu le lalolagi i le tagata e tele ina ala i lagona, ma e mafai ona e faaali le alofa e ala i le pā, leo, vaai, tofo ma manogi. O ni nai siakiga saogalemu e avea ai nei gaoioiga ma mea e malū ai tagata uma.
 
-## What are sensory activities for dementia?
+## O a gaoioiga o lagona mo le dementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+O gaoioiga o lagona o poto masani faigofie e faatulagaina e tusa ai ma le tasi lagona i le taimi, e pei o le pā i se ie, manogi o laulaau po o le faalogo i le timu. Ua fai mai le [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) o gaoioiga mo le vaitaimi mulimuli e masani ona manaʻomia ai le taulaʻi i lagona, ma taʻua ai musika, mea e pā ma uuina, ma le lamu lima. Ua taʻua e le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e ono i ai i tagata i le vaitaimi mulimuli se manaʻoga malosi e uu se mea latalata mo le faamafanafanaga.
 
-## Sensory ideas, sense by sense
+## Manatu o lagona, lagona taʻitasi
 
-### Touch
+### Pā
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Lamu lima.** Faamafana sina lotione i ou lima ma tosoina malie mai le tapuvae i tulilima. Ua taʻua e le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) le lamu i se lotione e leai se manogi mo le faamafanafanaga.
+- **Ato ie.** Fasi ie lapopoa o le veleveta, kolasui, fleece, satin ma sufi e tosoina, pelu ma talanoa i ai.
+- **Solo ie mafanafana.** O se solo susu mafanafana mo lima i se aso malulu. Faataitai le vevela i lou lava tapuvae muamua.
+- **Ofu po o se ie o le fatafata mo gaoioiga.** Faamau lapopoa, ziper, lipine ma fasi e eseese le pā ua lilofi malosi.
+- **Pelu ma faafaigofie.** O se ato o solo mama po o napekini e pelu, faaputu ma toe pelu.
+- **Se mea vaivai e uu.** O se ie fleece, o se aluga po o se manu vaivai e foliga moni, ofoina atu faigofie, e le o se meataalo.
 
-### Smell
+### Manogi
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Laulaau fou.** Mulu lau o le mint, rosemary, basil po o le lavender i ou tamatamaivae ma tuu atu.
+- **Manogi o le kitchen.** O le kofe ua tuu, o le falaoa ua tunu, o le sinamoni po o se moli ua pa i latalata.
+- **Fugalaau.** Aumai ni fugalaau fou mai le faatoaga po o le faleoloa.
+- **Se oloa masani.** O le taifaga po o le lotione sa masani ai, pe afai e talafeagai ma lona paʻu.
 
-### Taste
+### Tofo
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Se tofo e fiafia i ai.** O se sipuni laitiiti o se mea e fiafia i ai, e pei o le apu fatu, le pudding po o le aisa kulimi, i se tulaga e mafai ona ia taulimaina ma le saogalemu.
+- **Fesoasoani i le tunu keke.** Tofo i fualaau aina po o sina frosting a o tunu faatasi.
+- **Mea suamalie o le vaitau.** O le meleni vai i le taumafanafana, o le cider mafanafana i le tautotogo, ua tuuina atu i se vevela saogalemu.
 
-### Sound
+### Leo
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Musika e fiafia i ai.** O pese masani i se leo malie; tagaʻi i [gaoioiga o musika](/activities/music/).
+- **Leo o le natura.** O le timu, galu po o pese o manulele. Ua taʻua e le NIA e foliga mai e malū ai nisi tagata musika, leo e tumau ma leo o le natura.
+- **Lou leo.** Faitau i le leo, vivini, po o le taʻu o se tala.
+- **Mea faifaaili faigofie.** O se ulu pate, o se mea e luluina po o se logo e taalo faatasi ma le musika.
 
-### Sight
+### Vaai
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Matamata i le faamalama.** O se mea e fafaga ai manulele i fafo o le faamalama, o tamaiti o savali i le fale, po o le pa o le kiona.
+- **O se tane i po o se vitio e tuai.** O se gaoioiga malie e aunoa ma se leo tele.
+- **Ata lapopoa.** Le tasi ata manino i le taimi, uuina i le maualuga o mata.
+- **Lanu ma mamanu.** Faavasega fasi ie felanulanuaʻi, fugalaau po o napekini lanu, po o se itulau faigofie e vali mai la matou seti [vali](/games/coloring/).
+- **I fafo.** Ua fautuaina e le NHS faatoaga o lagona e iai laau manogi, mea e pā ma mea o le vai. Tagaʻi i [gaoioiga i fafo ma le faatoaga](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## E faapefea ona faia se pusa o lagona
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Filifili se autu** e fesootai ma le olaga o le tagata: le matafaga, le faatoaga, le kitchen, le fale faigaluega, le su.
+2. **Filifili ni mea lapopoa ma saogalemu e lima po o le ono,** e pei o se atigi o le sami lapopoa, o se sipuni laau, o se solo vaivai, o se taga laitiiti o le lavender matutu ua su, po o se poloka laau mālū.
+3. **Siaki mea uma** mo vaega laiti, auvae maai, filo ua tatala ma so o se mea e malepelepe.
+4. **Aumai le tasi mea i le taimi.** Tuu atu, faamatala ma tuu le tagata e suʻesuʻe.
+5. **Teu le pusa pe a uma** ina ia tumau le faapitoa ma toe siaki mea a o lei oo i le isi taimi.
 
-## Safety first
+## Saogalemu muamua
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+E malū gaoioiga o lagona, ae e iai ni lamatiaga taua. O nisi tagata o loo ola ma le dementia e manatu o mea e le o ni meaai o meaai, ma e mafai ona sili atu ona faigata le folo i le ala o taimi; ua lapataia e le NIA o faafitauli o le folo i le vaitaimi mulimuli e faaopoopo ai le lamatiaga o le mafatia.
 
-| Risk | What to do |
+| Lamatiaga | O le a le mea e faia |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Mafatia | Faaaogā na o mea e matua lapopoa e le mafai ona folo. Aua ni faamau, pulu, tupe, mapu po o meataalo laiti ua taapeapea i se pusa. Ofoina atu meaai na o i tulaga ua fai mai le au tausi e saogalemu. |
+| Mea e foliga pei o meaai | Ua fautuaina e le NIA le loka o lotione, taifaga, shampoo ma suauu manogi, e mafai ona foliga pe manogi e pei o meaai, ma aveese fualaau aina fai. Teu oloa o lagona pe a uma le faaaogaina. |
+| Aleri | Siaki mo aleri i nati, latex, fulufulu mamoe, laau po o manogi a o lei amata. |
+| Manogi malosi | Aloese mai suau manogi malosi ma suau malosi, aemaise lava i le asima po o isi faafitauli o le manava. E sili atu le saogalemu o manogi malie ma faanatura. |
+| Paʻu | Siaki mo paʻu tiga, ua malepe po o le vaivai a o lei lamu. Faaaogā le oomi malie ma taofi pe a faatiga mai. |
+| Vevela | Faataitai ie mafanafana ma meainu i lou lava tapuvae muamua. |
+| Mea oso po o mea o le oona | Aua ni mea faigaluega oso, tioata po o mea o galuega lima e oona. |
 
-## Does aromatherapy help?
+## E fesoasoani ea le aromatherapy?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Atonu e leai i se auala e mafai ona fuaina. O se [iloiloga a le Cochrane o le aromatherapy mo le dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) na iloilo ai suʻesuʻega e 13 ma tagata e 708, uma i fale tausi tagata matutua, ma na le maua ai se faamaoniga e talitonuina o se aoga. O suʻesuʻega sa laiti, o ola na le tutusa, ma sa le lelei le lipotia o aafiaga leaga. Afai e fiafia le tagata i se manogi malie ma masani, e pei o le lavender mai le faatoaga, o se mafuaaga lelei lena e faasoa ai. E le o se togafitiga.
 
-## How to offer a sensory activity
+## E faapefea ona ofoina atu se gaoioiga o lagona
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Filifili se taimi filemu** ma tape le televise.
+- **Alu atu mai luma,** taʻu lona igoa, ma fesili po o taʻu atu a o lei pā: “O iai sina lotione. E te manaʻo i se lamu lima?”
+- **Ofoina atu le tasi mea i le taimi** ina ia le oo i le sosolo.
+- **Mataituina le tali.** O se foliga malie, lima malolo po o se ata o faailoga lelei. O le toso ese, faagaeetia po o le le malolo o faailoga e taofi ai.
+- **Tausia le puupuu.** O le lima minute malū o se taimi lelei.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+O se malolo e manava malie faatasi, e pei o le [manava malie](/games/calm-breathing/), e mafai ona avea ma auala malie e faaiuina ai. Mo ni isi manatu i tafatafa o le moega, tagaʻi i [gaoioiga mo le vaitaimi mulimuli](/activities/late-stage/), ma mo le le malie i le afiafi, tagaʻi i le [le malolo i le afiafi](/caregiving/late-day-restlessness/).

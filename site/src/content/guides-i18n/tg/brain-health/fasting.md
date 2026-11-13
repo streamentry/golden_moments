@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Рӯзаи фосилавӣ ва деменсия: тадқиқот чӣ мегӯяд"
+seoTitle: "Рӯзаи фосилавӣ ва деменсия: тадқиқот чӣ мегӯяд"
+description: "Далелҳои инсонӣ дар бораи рӯзаи фосилавӣ ва деменсия маҳдуд ва ибтидоӣанд. Хатарҳо барои пиронсолон ва аҳамияти кофӣ хӯрдан бо деменсияро бидонед."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ягон далели хуб вуҷуд надорад, ки рӯзаи фосилавӣ деменсияро пешгирӣ ё суст мекунад.
+  Қисми зиёди тадқиқот дар ҳайвонот анҷом шудааст ва тадқиқотҳои инсонӣ дар
+  пиронсолон хурд ва кӯтоҳанд. Рӯза барои пиронсолон метавонад хатарнок бошад: коҳиши
+  вазн ва мушакҳо, қанди паст дар хун бо баъзе доруҳои диабет, камобӣ ва афтодан.
+  Барои одамони бо деменсия зиндагикунанда одатан кофӣ хӯрдан ва нӯшидан ташвиши
+  бузургтар аст. Аввал бо духтур сӯҳбат кунед.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Институти миллии пиршавӣ мегӯяд, ки барои тавсияи ягон парҳези рӯза ё маҳдудкунии калория, хусусан барои пиронсолон, далел кофӣ нест."
+  - "Қисми зиёди тадқиқот дар бораи рӯза ва пиршавӣ аз ҳайвонот бармеояд ва ин натиҷаҳо ҳатман ба одамон мувофиқ намеоянд."
+  - "Хатарҳои имконпазир барои пиронсолон коҳиши нохоста дар вазн, аз даст додани мушакҳо, қанди паст дар хун бо баъзе доруҳои диабет, камобӣ, сархамӣ ва афтоданро дар бар мегиранд."
+  - "Одамони бо деменсия зиндагикунанда аксар хӯрдан ё нӯшиданро фаромӯш мекунанд ё гумон мекунанд, ки аллакай хӯрдаанд. Кӯмак ба онҳо барои кофӣ хӯрдан ва нӯшидан одатан аз вақти хӯрдан хеле муҳимтар аст."
+  - "Рӯзаро барои касе, ки бо деменсия зиндагӣ мекунад, истифода набаред. Пеш аз ҳар тағйир дар тарзи хӯрдан бо духтур ё диетологи ботаҷриба сӯҳбат кунед."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Оё рӯзаи фосилавӣ Алтсгеймерро пешгирӣ мекунад?"
+    a: "Далели хубе нест, ки чунин кунад. Қисми зиёди тадқиқот дар ҳайвонот анҷом шудааст ва озмоишҳои инсонӣ асосан кӯтоҳ, дар калонсолони ҷавонтар ё вазнзиёд ва барои кам кардани вазн буданд. Институти миллии пиршавӣ мегӯяд, ки барои тавсияи парҳезҳои рӯза ба мардум далел кофӣ нест."
+  - q: "Оё рӯзаи фосилавӣ барои пиронсолон бехатар аст?"
+    a: "Шояд на. Рӯза метавонад ба коҳиши нохоста дар вазн ва мушакҳо, камобӣ, сархамӣ ва афтодан оварда расонад ва дар одамоне, ки инсулин ё баъзе доруҳои дигари диабет мегиранд, метавонад қанди хунро хавфнок паст кунад. Mayo Clinic қайд мекунад, ки он шояд барои одамони дорои хатари баланди камшавии устухон ва афтодан мувофиқ набошад. Пеш аз кӯшиш бо духтур сӯҳбат кунед."
+  - q: "Оё касе, ки деменсия дорад, бояд рӯза гирифтанро кӯшиш кунад?"
+    a: "Не. Одамони бо деменсия зиндагикунанда аксар барои кофӣ хӯрдан ва нӯшидан душворӣ мекашанд ва ғизои нокифоя метавонад аломатҳои рафториро афзоиш диҳад ва боиси паст шудани вазн шавад. Рӯза бе фоидаи исботшуда хатарро илова мекунад. Ба ҷои он ба хӯроки мунтазам, газакҳои дӯстдошта ва кофӣ нӯшидан диққат диҳед."
+  - q: "Нишонаҳои он, ки касе бо деменсия кофӣ намехӯрад ё наменӯшад, кадоманд?"
+    a: "Ба паст шудани вазн, васеъ шудани либос, хастагӣ, сустӣ, қабзият ё рад кардани хӯрок диққат диҳед. Нишонаҳои камобӣ, ки Институти миллии пиршавӣ номбар мекунад, даҳони хушк, сархамӣ, тапиши тези дил ва ҳалюцинатсияҳоро дар бар мегиранд. Агар инҳоро мушоҳида кунед, ба духтури онҳо хабар диҳед."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Рӯзаи фосилавӣ, масалан хӯрдан танҳо дар доираи ҳашт соат ё якбора кам кардани калория дар ду рӯзи ҳафта, таваҷҷӯҳи зиёд ҷалб мекунад ва баъзе мақолаҳо мегӯянд, ки он шояд майнаро муҳофизат кунад. Агар шумо пиронсол бошед ё аз касе, ки бо деменсия зиндагӣ мекунад, нигоҳубин кунед, инак тадқиқот дар асл чӣ нишон медиҳад ва чаро эҳтиёт муҳим аст.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ин маълумоти умумист, на маслиҳати тиббӣ. Бе сӯҳбат бо духтур ё диетологи ботаҷриба рӯза нагиред ва тарзи хӯрдани касеро, ки нигоҳубин мекунед, тағйир надиҳед. [Огоҳиномаи тиббии мо](/medical-disclaimer/)-ро бинед.
 
-## Does intermittent fasting prevent dementia?
+## Оё рӯзаи фосилавӣ деменсияро пешгирӣ мекунад?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ягон далели хуб вуҷуд надорад, ки рӯзаи фосилавӣ деменсияро пешгирӣ ё суст мекунад. Институти миллии пиршавӣ (NIA) мегӯяд, ки барои тавсияи ягон навъи парҳези маҳдудкунии калория ё рӯза далел кофӣ нест ва дар бораи самаранокӣ ва бехатарии онҳо, хусусан дар пиронсолон, бояд хеле бештар омӯхта шавад ([NIA дар бораи маҳдудкунии калория ва рӯза](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Чаро далелҳо ин қадар маҳдуданд
 
-The NIA gives several reasons:
+NIA якчанд сабаб меорад:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Аксари тадқиқотҳо дар ҳайвонот анҷом шудаанд.** Тадқиқот дар кирмҳо, пашшаҳо, мушҳо ва маймунҳо натиҷаҳои ҷолиб додааст, аммо ин ёфтаҳо ҳатман ба одамон мувофиқ намеоянд. Ҳатто дар ҳайвонот натиҷаҳо гуногунанд; дар баъзе навъҳои муш маҳдудкунии калория умрро кӯтоҳ кард.
+- **Озмоишҳои инсонӣ кӯтоҳ буданд.** Аксари онҳо чанд ҳафта ё моҳ давом карданд.
+- **Аксари озмоишҳои инсонӣ ба кам кардани вазн** дар калонсолони вазнзиёд тамаркуз карданд, на ба хотира ё деменсия.
+- **Пиронсолон kamtar дохил карда мешаванд.** Бисёр озмоишҳо одамони 60-сола ё ҷавонтарро ҷалб карданд.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Шарҳи мунтазами соли 2026 махсусан рӯзаи фосилавиро дар калонсолони 60-сола ва болотар баррасӣ кард. Он ёфт, ки далелҳо дар ин гурӯҳи синнӣ маҳдуд боқӣ мемонанд, бо тадқиқотҳои хурд, пайгирии кӯтоҳ ва тарҳҳои омехта. Ёфтаҳо дар бораи фикркунӣ ва хотира аз тадқиқотҳои алоҳида омада буданд, на аз натиҷаҳои ҷамъбастшудаи озмоишҳо. Шарҳ инчунин қайд кард, ки баъзе тадқиқотҳо тирезаҳои хеле кӯтоҳи хӯрдан ё рӯзаҳои дарозро бо натиҷаҳои бадтар алоқаманд карданд ва муаллифон ба пиронсолон эҳтиёт кардан тавсия доданд ([шарҳи соли 2026 дар Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Баъзе тадқиқотчиён гумон мекунанд, ки гузариши бадан ба сӯзондани равғанҳо ҳангоми рӯза шояд ба майна таъсир расонад, аммо ин ҳанӯз назарияест, ки омӯхта мешавад. NIA қайд мекунад, ки илм дар ин бора номуайян аст.
 
-## What are the risks of fasting for older adults?
+## Хатарҳои рӯза барои пиронсолон кадомҳоянд?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Рӯза барои бисёр пиронсолон озмоиши безарар нест. Хатарҳои имконпазир инҳоянд:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Коҳиши нохостаи вазн.** Камтар аз эҳтиёҷи бадан хӯрдан метавонад ба паст шудани вазн ва камшавии қувваи мушакҳо оварда расонад, ки шахсро нотавонтар мекунад.
+- **Аз даст додани мушакҳо ва устухон.** Дар озмоиши дусолаи маҳдудкунии калория дар калонсолони ҷавон ва миёнсол, ки NIA дастгирӣ кард, иштирокчиён коҳиши андаке дар зичии устухон ва массаи бедарзи бадан доштанд.
+- **Қанди паст дар хун бо доруҳои диабет.** Тибқи [Институти миллии диабет ва бемориҳои ҳозима ва гурда](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia), одамоне, ки инсулин ё баъзе доруҳои дигари диабет мегиранд, агар хӯрокро нахӯранд ё дер хӯранд, қанди хунашон метавонад хеле паст шавад. Қанди паст дар хун метавонад сархамӣ, парешонӣ ва асабоният орад.
+- **Камобӣ.** Агар дар баробари хӯрок нӯшокиҳо низ тарк шаванд, шахс метавонад дучори камобӣ шавад.
+- **Сархамӣ ва афтодан.** Mayo Clinic қайд мекунад, ки рӯзаи фосилавӣ метавонад боиси хеле хаста ва сархам шудани одамон шавад ва шояд барои одамони дорои хатари баланди камшавии устухон ва афтодан тарзи солим набошад ([Mayo Clinic дар бораи рӯзаи фосилавӣ](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Таъсироти дигар.** Mayo Clinic инчунин дарди сар, тағйирёбии кайфият ва қабзиятро номбар мекунад ва қайд мекунад, ки баъзе далелҳо нишон медиҳанд, ки рӯзаи 16-соата бо тирезаи хӯрокхӯрии 8-соата дар муқоиса бо тирезаҳои дигар шояд хатари бемории дилро афзоиш диҳад. Ин далел ҳанӯз қатъӣ нест.
 
-## Why is eating enough the bigger concern with dementia?
+## Чаро бо деменсия кофӣ хӯрдан ташвиши бузургтар аст?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Барои одамони бо деменсия зиндагикунанда мушкили маъмулӣ ба даст овардани хӯрок ва нӯшокии **кофӣ** аст, на аз ҳад зиёд. Ассотсиатсияи Алтсгеймер шарҳ медиҳад, ки одамон дар марҳилаҳои миёна ва баъдӣ метавонанд аз интихобҳои хӯрок саргум шаванд, хӯрданро фаромӯш кунанд ё гумон кунанд, ки аллакай хӯрдаанд. Он илова мекунад, ки ғизои нокифоя метавонад аломатҳои рафториро афзоиш диҳад ва боиси паст шудани вазн шавад ([Ассотсиатсияи Алтсгеймер дар бораи хӯрок ва хӯрдан](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Ҷамъияти Алтсгеймер қайд мекунад, ки кофӣ нахӯрдан метавонад ба паст шудани вазн, камшавии қувваи мушакҳо, хастагӣ ва сустӣ оварда расонад, шахсро нотавонтар ва барои шифо ёфтан аз сироятҳо камқувваттар мекунад ([Ҷамъияти Алтсгеймер дар бораи иштиҳо](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Бо ин сабабҳо рӯза барои касе, ки бо деменсия зиндагӣ мекунад, фикри хуб нест.** Хӯроки гузарондашуда ба осонӣ метавонад ба хӯроки аз даст рафта табдил ёбад. Ҳар тағйир дар тарзи хӯрдани шахси дорои деменсия бояд зери роҳнамоии духтур ё диетологи ботаҷриба бошад.
 
-## What are the warning signs of poor eating or drinking?
+## Нишонаҳои огоҳкунандаи кам хӯрдан ё кам нӯшидан кадомҳоянд?
 
-Watch for:
+Диққат диҳед:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Паст шудани вазн** ё танг нашудани либос.
+- **Хӯрокро тарк кардан ё рад кардани хӯрок** ё дар даҳон нигоҳ доштани хӯрок.
+- **Хастагӣ ё сустӣ.**
+- **Қабзият**, ки метавонад бо парҳез ва камобӣ алоқаманд бошад.
+- **Нишонаҳои камобӣ.** NIA даҳони хушк, сархамӣ, тапиши тези дил ва ҳалюцинатсияҳоро номбар мекунад, ки онҳоро худи деменсия низ метавонад ба вуҷуд орад ([NIA дар бораи мушкилоти маъмули тиббӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Иштиҳои паст сабабҳои имконпазири зиёд дорад: дандонҳои дардманд ё дандонсози суст, доруҳои нав, ғамгинӣ, қабзият, камфаъолӣ ё тағйир дар таъму бӯй. Дар бораи ҳар кадоми ин нишонаҳо ба духтури шахс хабар диҳед. Онҳо метавонанд сабабро ҷустуҷӯ кунанд ва шояд диетолог ё иловаҳои ғизоиро пешниҳод кунанд.
 
-## How can you help someone eat and drink enough?
+## Чӣ тавр ба касе кӯмак кардан мумкин аст, ки кофӣ бихӯрад ва бинӯшад?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Хӯрокҳои хурд ва газакҳоро зуд-зуд пешниҳод кунед**, на се хӯроки калон.
+- **Хӯроки дӯстдоштаро пешниҳод кунед** ва ҳангоми тағйири завқ чандир бошед. Агар иштиҳо паст бошад, хӯрокҳои ширин шояд мақбул бошанд; аз духтур пурсед, ки оё барои маҳдуд кардани шакар сабабҳои саломатӣ ҳастанд.
+- **Нӯшокиҳоро дар дастрас нигоҳ доред** ва дар давоми рӯз косачаҳои хурд пешниҳод кунед. Шӯрбо, мева, смузи ва коктейлҳои шир низ ҳисоб мешаванд.
+- **Якҷоя хӯред**, вақте ки метавонед. Хӯрок имконест барои ҳамсӯҳбатӣ, на вазифае, ки шитобон анҷом дода шавад.
+- **Хӯрокҳои бо даст хӯрданиро кӯшиш кунед**, масалан сэндвич, порчаҳои мева ё порчаҳои мурғ, агар корд ва чангак душвор шуда бошад.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[Роҳнамои парҳези мо](/brain-health/diet/) ғояҳои бештар барои вақти хӯрок дорад. Кӯмак дар тайёр кардани хӯрок низ метавонад фаъолияти хуши якҷоя бошад; [корҳои хона](/activities/household-tasks/)-ро бинед.
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Пеш аз он ки ягон нақшаи рӯзаро худатон кӯшиш кунед, бо духтур ё диетологи ботаҷриба сӯҳбат кунед, хусусан агар барои диабет ё фишори хун дору мегиред, ба наздикӣ вазн гум кардаед ё афтодаед. Барои касе, ки бо деменсия зиндагӣ мекунад, аз духтураш пурсед, ки дар як рӯз чӣ қадар хӯрдан ва нӯшидан лозим аст, на дар бораи рӯза.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Барои парешонии ногаҳонӣ, беҳушӣ ё нишонаҳои қанди хеле паст дар хун, ки зуд беҳтар намешаванд, кӯмаки фаврии тиббӣ гиред.
