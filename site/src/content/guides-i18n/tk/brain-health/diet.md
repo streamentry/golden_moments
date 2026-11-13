@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND we Ortaýer deňzi iýmitlenişi hem-de demensiýa: barlaglar näme diýýär"
+seoTitle: "MIND iýmitlenişi we demensiýa: barlaglar näme diýýär"
+description: "MIND we Ortaýer deňzi iýmitlenişi bilen demensiýa baradaky barlaglar, uly synagyň netijesi we demensiýaly adamyň gowy iýmegine kömek."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Gözegçilik barlaglary Ortaýer deňzi usulyndaky we MIND iýmitlenişini has pes
+  demensiýa töwekgelçiligi bilen baglanyşdyrýar, ýöne yzygiderli däl. 2023-nji
+  ýylda çap edilen MIND iýmitlenişiniň üç ýyllyk tötänleýin synagy, gözegçilik
+  iýmitlenişi bilen deňeşdirilende pikirlenmede ýa-da beýni skanerlerinde manyly
+  tapawut tapmady. Hiç bir iýmit ýa-da goşundy demensiýanyň öňüni alýandygy
+  subut edilmändir. Demensiýa bilen ýaşaýan adamlar üçin ýeterlik iýmek we
+  içmek iň möhümdir.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Wagtyň dowamynda adamlara syn edýän barlaglaryň käbiri, ýöne hemmesi däl, Ortaýer deňzi we MIND iýmitlenişlerini has pes demensiýa töwekgelçiligi bilen baglanyşdyrýar."
+  - "2023-nji ýylda 604 uly adamly synagda MIND iýmitlenişinde bolan adamlar üç ýyldan soň pikirlenme synaglarynda ýa-da beýni skanerlerinde gözegçilik iýmitlenişindäki adamlardan gowy netije görkezmedi."
+  - "National Institute on Aging belli bir iýmiti iýmegiň ýa-da ondan gaça durmagyň Alsgeýmeriň öňüni alyp biljekdigine subutnamanyň ýokdugyny we hiç bir witaminiň ýa-da goşundynyň öňüni alýandygynyň subut edilmändigini aýdýar."
+  - "Gök önümler, miweler, noýbalar, bütin däneli önümler we balyga baý iýmitlenme ýürek saglygyny goldaýar we ýokary gan basyşy we süýji keseli ýaly töwekgelçiliklere kömek edip biler."
+  - "Demensiýa bilen ýaşaýan adamlar üçin elde iýip bolýan iýmitler, tapawutly reňkli tarelkalar, rahat nahar wagty we yzygiderli içgiler köplenç haýsydyr bir iýmitlenişden has möhümdir."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND iýmitlenişi demensiýanyň öňüni alýarmy?"
+    a: "Muny görkezmedi. Gözegçilik barlaglary MIND iýmitlenişini has pes töwekgelçilik bilen baglanyşdyrdy, ýöne 2023-nji ýylda çap edilen üç ýyllyk tötänleýin synag MIND iýmitlenişindäki adamlar bilen gözegçilik iýmitlenişindäki adamlaryň arasynda pikirlenme synaglarynyň netijelerinde ýa-da beýni skanerlerinde manyly tapawut tapmady. Iki topar hem azajyk gowulaşdy we meňzeş agram ýitirdi."
+  - q: "MIND iýmitlenişi bilen Ortaýer deňzi iýmitlenişiniň arasynda näme tapawut bar?"
+    a: "Ortaýer deňzi iýmitlenişi gök önümlere, miwelere, bütin däneli önümlere, noýbalara, balyga we zeýtun ýagyna ähmiýet berýär, gyzyl et we süýjüler az. MIND iýmitlenişi ony gan basyşy üçin DASH iýmitlenişi bilen birleşdirýär we ýaşyl ýaprakly gök önümlere we gök miwelere ähmiýet berýär, şol bir wagtda gyzyl eti, süýjüleri, peýniri, ýagy we gowrulan iýmiti çäklendirýär."
+  - q: "Alsgeýmeriň öňüni alýan iýmitler ýa-da goşundylar barmy?"
+    a: "Ýok. National Institute on Aging belli bir iýmiti iýmegiň ýa-da ondan gaça durmagyň Alsgeýmeriň ýa-da ýaşa bagly pikirlenme pese gaçmasynyň öňüni alyp biljekdigine subutnamanyň ýokdugyny we hiç bir witaminiň ýa-da goşundynyň Alsgeýmeriň öňüni alýandygynyň subut edilmändigini aýdýar. Goşundy kabul etmezden öň lukman bilen gürleşiň."
+  - q: "Demensiýa bilen ýaşaýan adam üçin haýsy iýmitler iň aňsat iýilýär?"
+    a: "Sandwiç bölekleri, towuk bölekleri, apelsin dilimleri ýa-da bugda bişirilen gök önüm bölekleri ýaly bir gezekde iýmäge ýeterlik iýmitler köplenç gaşyk-çemçeden ulanmakdan has aňsatdyr. Çeýnemek ýa-da ýuwutmak kyn bolsa, ýumşak iýmitler, mysal üçin garylan ýumurtga, alma püresi ýa-da tworog kömek edip biler. Üsgülewük ýa-da bogulma bolýan bolsa, lukmandan ýuwutmagy bahalandyrmagy soraň."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+«Beýni üçin peýdaly» iýmitlenişiň Alsgeýmeri daşda saklap biljekdigi barada okan bolmagyňyz mümkin. Hakyky surat has sadadyr. Wagtyň dowamynda adamlara syn edýän barlaglarda käbir iýmitlenme usullary has pes töwekgelçilik bilen baglanyşykly, ýöne şu wagta çenli iň gowy synag aýdyň peýda tapmady. Bu sahypa ikisini hem düşündirýär, soň bolsa eýýäm demensiýa bilen ýaşaýan adam üçin köplenç iň möhüm zada geçýär: ýeterlik iýmek we içmek we ondan lezzet almak.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Bu umumy maglumatdyr, lukman maslahaty däl. Iýmitlenişiňizi ýa-da başga birinde iýmitlenişi üýtgetmezden öň lukman ýa-da hasaba alnan iýmitlenme hünärmeni bilen gürleşiň. [Lukman bilen baglanyşykly bildirişimize](/medical-disclaimer/) serediň.
 
-## What are the Mediterranean and MIND diets?
+## Ortaýer deňzi we MIND iýmitlenişi näme?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) olary şeýle suratlandyrýar ([NIA, iýmitlenme we Alsgeýmer barada](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Ortaýer deňzi iýmitlenişi:** köp miwe, gök önüm, bütin däneli önüm, noýba, balyk we deňiz önümleri we zeýtun ýagy, gyzyl et, ýumurtga we süýjüler az.
+- **MIND iýmitlenişi** (Mediterranean–DASH Intervention for Neurodegenerative Delay): Ortaýer deňzi iýmitlenişiniň gan basyşy üçin DASH iýmitlenişi bilen garyndysy. Onda gök önümler, esasanam ýaşyl ýaprakly gök önümler; gök miweler; bütin däneli önümler; noýbalar; hozlar; hepdede iň az bir gezek balyk; we zeýtun ýagy bar. Ol gyzyl eti, süýjüleri, peýniri, ýagy ýa-da margarini we gowrulan ýa-da çalt iýmiti çäklendirýär.
 
-## Do these diets lower dementia risk?
+## Bu iýmitlenişler demensiýa töwekgelçiligini peseldýärmi?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Subutnama garyşykdyr. NIA gözegçilik barlaglarynyň käbiriniň, ýöne hemmesiniň däl, Ortaýer deňzi we MIND iýmitlenişlerini gyzyl et, doýgun ýag we şeker köp bolan Günbatar usulyndaky iýmitlenme bilen deňeşdirilende has pes demensiýa töwekgelçiligi bilen baglanyşdyrandygyny aýdýar.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024-nji ýyldaky Lancet Komissiýasy barlaglary has jikme-jik gözden geçirdi ([Lancet Komissiýasy](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Kohort barlaglarynyň bir gözden geçirişi ýokary iýmit hilini demensiýa töwekgelçiliginiň takmynan 20% has pes bolmagy bilen baglanyşdyrdy.
+- Üç kohortyň has uly derňewi MIND iýmitlenişine has ýakyn eýermegi has pes töwekgelçilik bilen baglanyşdyrdy.
+- Ýöne takmynan 20 ýyl dowamynda 28,025 orta ýaşly adama syn eden Şwesiýa barlagy maslahat berilýän iýmitlenişleriň ikisi bilen-de ýa-da Ortaýer deňzi usulyndaky iýmitlenme bilen has pes töwekgelçilik tapmady.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Gözegçilik barlaglary sebäp we netijäni subut edip bilmeýär. Bu usulda iýýän adamlar köplenç başga taýdan hem tapawutlanýar, mysal üçin girdeji, bilim, maşk we saglygy goraýyşa elýeterlilik. Komissiýa köp miwe we gök önüm iýmegiň we has az ultra-işlenen iýmit iýmegiň köp saglyk ýagdaýy üçin gowudygyny we semizlik, süýji keseli we ýokary gan basyşy ýaly töwekgelçilik faktorlaryna täsir edýändigini aýtsa-da, sagdyn iýmitlenmäniň demensiýanyň öňüni gönüden-göni alýandygyny aýtmak üçin ýeterlik subutnamanyň ýokdugyna netije çykardy. Ol iýmitlenmäni öz [14 töwekgelçilik faktory](/brain-health/risk-factors/) sanawyna goşmady.
 
-## What did the 2023 MIND diet trial find?
+## 2023-nji ýyldaky MIND iýmitlenişi synagy näme tapdy?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Şu wagta çenli iň güýçli synag 2023-nji ýylda New England Journal of Medicine-de çap edilen tötänleýin synagdy ([MIND iýmitlenişi synagy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Kim:** Çikago we Boston sebitlerindäki, pikirlenme kynçylyklary bolmadyk, demensiýaly ýakyn garyndaşy bolan, artykmaç agramly we başda has az saglyk iýmitlenýän 65 we ondan uly 604 uly adam.
+- **Näme:** üç ýylyň dowamynda ýarysy MIND iýmitlenişine, ýarysy adaty iýmitlenişine eýerdi. Iki topara hem günde takmynan 250 kaloriýa az iýmek tabşyryldy we hasaba alnan iýmitlenme hünärmenlerinden yzygiderli tälim aldy.
+- **Netije:** pikirlenme synaglarynyň netijeleri **iki toparda hem** azajyk gowulaşdy. Toparlaryň arasyndaky tapawut kiçidi we **statistiki taýdan manyly däldi**. Beýni skanerleri hem iki toparda meňzeş üýtgeşmeleri görkezdi.
+- **Agram:** iki topar hem takmynan 5 kilogram (takmynan 11 funt) ýitirdi.
 
-### Why might the trial have found no difference?
+### Synag näme üçin tapawut tapmandyr?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Barlagçylar birnäçe sebäp teklip etdiler. Gözegçilik topary ähtimal, meňzeş mukdarda agram ýitirendigi üçin, öz iýmitlenişini hem gowulandyrdy. Gaýtalanýan synag adamlar synaglara öwrenişenden soň, öz-özünden netijeleri gowulandyryp biler. Üç ýyl gysga bolup biler. Gatnaşyjylaryň köpüsi gowy bilimli we Ýewropa gelip çykyşlydy, şonuň üçin netijeler hemmelere degişli bolmazlygy mümkin.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Şeýlelikde, dogruçyl jemleme: MIND iýmitlenişi üç ýyl dowamynda paýhasly kaloriýa azaldylan iýmitlenişi ýeňmedi. Bu sagdyn iýmitlenmegiň manysyzdygyny aňlatmaýar. Bu hiç kimiň belli bir iýmitlenişiň demensiýanyň öňüni alyp biljekdigine garaşmazlygy gerekdigini aňladýar.
 
-## What about specific foods and supplements?
+## Belli iýmitler we goşundylar barada näme diýmeli?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA belli bir iýmiti iýmegiň ýa-da ondan gaça durmagyň Alsgeýmeriň ýa-da ýaşa bagly pikirlenme pese gaçmasynyň öňüni alyp biljekdigine subutnamanyň ýokdugyny aýdýar. Gök miweler, ýaşyl ýaprakly önümler we zerdeçal subutnamasyz öwrenildi. NIA şeýle hem hiç bir witaminiň ýa-da goşundynyň Alsgeýmeriň öňüni alýandygynyň subut edilmändigini we şol maksat bilen hiç biriniň maslahat berilmeýändigini aýdýar. NIA Alsgeýmeriň öňüni almak üçin satylýan subut edilmedik önümleriň howpsuz bolmazlygynyň, pul ýitgisi bolmagynyň ýa-da ikisiniň hem bolup biljekdigini we bellenen dermanlara päsgel berip biljekdigini duýdurýar, şonuň üçin haýsydyr birini synap görmezden öň lukman bilen maslahatlaşyň ([NIA, Alsgeýmeriň öňüni almak barada](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Iýmitlenme nädip sagdyn we lezzetli galyp biler?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Köp garry adam üçin maksat berk meýilnama däl-de, iýmitli, tanyş we ýakymly iýmitdir:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Halaýan iýmitleriňiz bilen nahar gurnaň,** Ortaýer deňzi nusgasyndan: gök önümler, miwe, noýba, bütin däneli önümler, balyk we zeýtun ýagy.
+- **Halaýan süýjüleri saklaň.** Lezzet we iýmäge isleg, esasanam ömrüň soňky döwründe möhümdir.
+- **Mümkin bolanda başgalar bilen iýiň.** Bilelikdäki nahar gowy ýoldaşlykdyr.
+- **Bilelikde bişiriň.** Gök önümleri ýuwmak ýa-da gazany garyşdyrmak gowy bilelikdäki iş; [öý işlerine](/activities/household-tasks/) serediň. Halaýan maşgala resepti hem [ýatlama](/activities/reminiscence/) başladyp biler.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Garry adamlar lukman bilen gürleşmän kaloriýany azaltmaly ýa-da agram ýitirmeli däl we agyz bekläp saklanmak goşmaça töwekgelçilik getirýär. [Agyz bekläp saklanmak gollanmamyza](/brain-health/fasting/) serediň.
 
-## How can you help someone with dementia eat well?
+## Demensiýa bilen ýaşaýan adamyň gowy iýmegine nädip kömek edip bolar?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Demensiýa bilen ýaşaýan adamlar üçin **ýeterlik** iýmek we içmek adatça esasy aladadyr. Alzheimer's Association adamlaryň iýmegi unudyp, eýýäm iýendigini pikir edip ýa-da saýlawlardan basylyp biljekdigini we erbet iýmitlenmäniň özüni alyp baryş alamatlaryny artdyryp we agram ýitgisine sebäp bolup biljekdigini belleýär ([Alzheimer's Association, iýmit we iýmek barada](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Bu pikirler Alzheimer's Association, NIA we Alzheimer's Society-den gelýär:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Elde iýip bolýan iýmitleri hödürläň.** Sandwiç bölekleri, towuk bölekleri, balyk taýaklary, apelsin dilimleri ýa-da bugda bişirilen brokkoli ýaly almaga aňsat, bir gezekde iýmäge ýeterlik bölekler adama gaşyk-çemçesiz özbaşdak iýmäge mümkinçilik berýär.
+2. **Stolda tapawut ulanyň.** Görüşdäki üýtgeşmeler iýmiti tarelkadan tapawutlandyrmagy kynlaşdyryp biler. Tapawutly reňkli stol düşeginde ak tarelkalar ýa-da käseler kömek edip biler. Nagyşly gap-gaçlardan we stol ýaýlyklaryndan gaça duruň.
+3. **Bir wagtda bir-iki iýmit hödürläň.** Dolduryp goýlan tarelka basyp barýan bolup biler.
+4. **Nahar wagtyny rahat saklaň.** Telewizory öçüriň, stoly ýönekeý saklaň we köp wagt beriň. NIA howlukdyrmazlygy ýa-da itekläp durmazlygy maslahat berýär.
+5. **Kiçi nahar we atyşdyrma ýygy hödürläň.** NIA adam ýeterlik iýmeýän bolsa, has kiçi, has ýygy naharlary we kaloriýasy köp atyşdyrmalary maslahat berýär ([NIA, gowy iýmek barada maslahatlar](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Içmäge kömek ediň.** Gün dowamynda az-azdan suw ýa-da başga içgileri, şeýle hem miwe, çorba, süýt kokteýli we smuzi ýaly suwy köp iýmitleri hödürläň. Adam suw isleýän bolmasa, NIA şire, tagamly suw, et suwy, süýt ýa-da kofeinsiz kofe ýa-da çaý synap görmegi maslahat berýär.
+7. **Temperaturany barlaň.** Adam iýmitiň ýa-da içgiň aşa gyzgyndygyny duýmazlygy mümkin.
+8. **Gap-gaçlary we käseleri uýgunlaşdyryň.** Tarelkanyň ýerine käse, uly sapakly çemçeler we gapakly käseler iýmegi aňsatlaşdyryp biler. Arassalyk barada alada etmäň.
+9. **Iýmiti çeýnemäge we ýuwutmaga aňsat ediň.** Iýmiti kiçi bölekler edip kesiň ýa-da ýumşak iýmitleri hödürläň. Adam iýende üsgülese ýa-da bogulsa, lukmanyna aýdyň.
+10. **Zor bilen iýmitlendirmekden gaça duruň.** NIA Alsgeýmeriň soňky tapgyrlarynda iýmäge islegiň tebigy taýdan peselýändigini belleýär.
 
-### Signs to tell the doctor about
+### Lukmana habar bermeli alamatlar
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Agram ýitgisi, iýmitden ýüz öwürmek, ýadawlyk ýa-da gowşaklyk adamyň ýeterlik iýmeýändiginiň alamatlary bolup biler. Alzheimer's Society dişleriň ýa-da protezleriň agyrmagynyň, depressiýanyň, içgeçmäniň ýok bolmagynyň we derman üýtgeşmeleriniň ählisiniň iýmäge islegi azaldyp biljekdigini belleýär ([Alzheimer's Society, iýmäge isleg barada](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). NIA-nyň sanawyndaky suwsuzlyk alamatlaryna gury agyz, kelle aýlanmasy, ýürek urgusynyň tizlenmegi we galýusinasiýalar girýär ([NIA, umumy lukmançylyk kynçylyklary barada](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Lukman bilen gürleşiň
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Öz iýmitlenişiňizde ýa-da başga birinde uly üýtgeşmeler etmezden öň, esasanam süýji keseliňiz, böwrek keseliňiz, ýuwutmak kynçylyklaryňyz ýa-da ýaňy bolan agram ýitgiňiz bar bolsa, lukman ýa-da hasaba alnan iýmitlenme hünärmeni bilen gürleşiň. Demensiýa bilen ýaşaýan adam üçin, her gün näçe iýmelidigini we içmelidigini, hem-de iýmitlenme hünärmeniniň ýa-da goşundylaryň kömek edip biljekdigini soraň.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Biri bogulýan bolsa ýa-da birden bulaşyklyk, agyr kelle aýlanmasy ýa-da ýagşy ýitgisi bar bolsa, gyssagly kömek alyň.
