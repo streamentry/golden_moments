@@ -1,22 +1,22 @@
 ---
 title: "Ngā Mahi mō te Tangata e Mate Wareware: 101 Whakaaro Ngāwari"
 seoTitle: "Whakaaro Mahi mō te Wareware: 101 Mahi Ngāwari"
-description: "101 mahi ngāwari, pakeke mō te tangata e noho ana me te mate wareware, mai i te whakapaki tōwera ki te waiata me ngā whakaahua, me te urutau i ia mahi ina uaua ake."
+description: "101 mahi ngāwari, pakeke mō te tangata e noho ana me te mate wareware, mai i te whakapaki tōwera ki te waiata me ngā whakaahua, me te urutau i ia mahi."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
   Ko ngā mahi pai mō te tangata e mate wareware ana he mōhio, he pakeke, he
-  māmā ki te tahi: te whakapaki kākahu, te whakarōpū, te tunu kai, te waiata,
-  te tirotiro whakaahua, te hīkoi, te māra, te wā me ngā kararehe, me ngā tākaro
+  māmā ki te tahi: te whakapaki kākahu, te whakarōpū, te tunu kai, te waiata, te
+  tirotiro whakaahua, te hīkoi, te māra, te wā me ngā kararehe, me ngā tākaro
   ngāwari. Kōwhiria te mea i aroha ai te tangata i ōna tau katoa, awhinatia ngā
-  wāhanga uaua, ā, whakamutua ina ngenge ia. Ko te wā pai tahi he nui ake te
-  whai hua i te oti o ētahi mahi.
+  wāhanga uaua, ā, whakamutua ina ngenge ia. Ko te wā pai tahi he nui ake te whai
+  hua i te oti o ētahi mahi.
 keyPoints:
-  - "Timatanga mai i te oranga o te tangata: ōna mahi, ōna hobi, tōna whakapono me ōna waiata pai ko ngā aratohu pai rawa."
+  - "Timatangia mai i te oranga o te tangata: ōna mahi, ōna hobi, tōna whakapono me ōna waiata pai ko ngā aratohu pai rawa."
   - "Whakaitia te mahi ina hiahiatia: he iti ake ngā hātepe, he iti ake ngā whiriwhiri, ko koe te wāhanga uaua."
-  - "Ko te mātakitaki, te mau i tētahi taonga, te noho tata noa iho he wāhanga o te whai wāhi."
+  - "Ko te mātakitaki, te pupuri i tētahi taonga, te noho tata noa iho he wāhanga o te whai wāhi."
   - "Whakamutua, huria rānei ina kitea te ngenge, te pōuritanga, te kore hiahia. He hua pai te whakamutu moata."
   - "Ko te mahi tahi he nui ake te whai hua i te mahi tika."
 faq:
@@ -55,12 +55,12 @@ Ko te mahi pai rawa mō te tangata e noho ana me te mate wareware, ko tētahi me
 
 ## Me pēhea e kōwhiri ai i te mahi tika?
 
-Kōwhiria mā te tangata, ehara i te rārangi: tīmatahia mai i ngā mea kua aroha ia i ōna tau katoa, me ngā mea e pai ana ia ki te mahi i tēnei rā.
+Kōwhiria mā te tangata, ehara i te rārangi: tīmatahia ki ngā mea kua aroha ia i ōna tau katoa, me ngā mea e pai ana ia ki te mahi i tēnei rā.
 
-- **Whakaarohia ōna mahi me ōna hobi.** E kī ana te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) he pai pea ki tētahi kaimahi tari o mua te whakarōpū moni, te whakarite whakahāngai, ā, ki tētahi kaimahi māra te mahi i te māra.
+- **Whakaarohia ōna mahi me ōna hobi.** E kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) he pai pea ki tētahi kaimahi tari o mua te whakarōpū moni, te whakarite whakahāngai, ā, ki tētahi kaimahi māra te mahi i te māra.
 - **Kitea ngā mahi e mahia ana e ia.** Ki te tahitahi tōu pāpā i te paepae ia ata me te kore e kī, whakauruhia taua mahi ki te rā.
 - **Whakamahere ki ngā here.** Ko te ngenge, te kanohi, te whakarongo, ngā ringa mamae me te taurite he mea whai take katoa.
-- **Matakitaki te ngākau.** He pai ētahi tāngata ki ngā mahi haruru, ngā mahi hohe; he pōrearea ki ētahi.
+- **Mātakitakina te ngākau.** He pai ētahi tāngata ki ngā mahi haruru, ngā mahi hohe; he pōrearea ki ētahi.
 - **Hoatu he take.** He nui ake te whai hua o te whakakohi i ngā neperekene mō te hākari o te hāhi, i te mahi hākinakina noa iho.
 
 ### He arataki whānui mō ia wāhanga
@@ -76,14 +76,14 @@ He maha ngā wā e kīa ai te mate wareware he wāhanga timatanga, waenga, whaka
 
 ## Me pēhea te tīmata i tētahi mahi me tētahi e mate wareware ana?
 
-Tīmata iti, tīmata tahi, ā, māmā kia kī “Ae” ai. He maha ngā tāngata e hiahia tonu ana ki te whai wāhi engari he uaua ki a rātou te whakamahere me te tīmata.
+Tīmata iti, tīmata tahi, ā, māmā kia kī “Āe” ai. He maha ngā tāngata e hiahia tonu ana ki te whai wāhi engari he uaua ki a rātou te whakamahere me te tīmata.
 
 1. **Whiriwhiria tōna wā pai rawa,** he ata pea.
 2. **Whakatakotoria ngā mea katoa i te tuatahi** kia tīmata tonu koe.
 3. **Tono āwhina, kaua he whakaaturanga:** “Ka taea e koe te āwhina ki ēnei?”
 4. **Tīmatahia koe anō.** Whakapakihia te tōwera tuatahi, kātahi ka tukua kia uru ia. He pai ake te whakaatu i te kōrero.
 5. **Hoatu tētahi hātepe i te wā.**
-6. **Tangohia te wāhanga uaua.** E kī ana te Alzheimer's Association me ine e koe ngā rēhi, kātahi ka hoatu te tīkoha ki a ia kia whakakotahi.
+6. **Tangohia te wāhanga uaua.** E kī te Alzheimer's Association me ine e koe ngā rēhi, kātahi ka hoatu te tīkoha ki a ia kia whakakotahi.
 7. **Waiho kia mahia tōna huarahi.** He pai ngā tōwera kua whakapakihia i te rerekē.
 8. **Whakamutua ina kore e pai.** Ko te nekeneke, te kunenga, te “Kāore e taea e au” he tohu kia huri, kia okioki rānei.
 
@@ -91,7 +91,7 @@ Titiro ki [te whakahaere tahi](/caregiving/how-to-play-together/) me [ngā tohut
 
 ## Ngā mahi kāinga o ia rā
 
-He mahi mōhio, he pai ngā mahi o te kāinga, nā reira he wāhi pai hei tīmata. Ka whakarārangi te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i ngā rīhi, te whakarite tēpu, te kōtiti, te whakarōpū pukapuka me te whakapaki kākahu hei mahi pai ki ngā tāngata. He mea hōhonu atu i [ngā mahi kāinga](/activities/household-tasks/).
+He mahi mōhio, he pai ngā mahi o te kāinga, nā reira he wāhi pai hei tīmata. E whakarārangi ana te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i ngā rīhi, te whakarite tēpu, te kōtiti, te whakarōpū pukapuka me te whakapaki kākahu hei mahi pai ki ngā tāngata. He mea hōhonu atu i [ngā mahi kāinga](/activities/household-tasks/).
 
 1. **Whakapaki tōwera mahana.** Tukua te kete mai i te tōrōpi ki te tēpu, ā, whakapakihia tahitahi. Muri mai, he pai anō te whakamāmā me te whakarōpū.
 2. **Whakarite tōkena.** Tīmatahia me ngā tae rerekē rawa. Muri mai, he pai te whakarōpū māmā, te māmā me te pouri.
@@ -108,10 +108,10 @@ He mahi mōhio, he pai ngā mahi o te kāinga, nā reira he wāhi pai hei tīmat
 
 ## Waiata
 
-Ka taea e te waiata mōhio te tae atu ki te tangata ahakoa he uaua ngā kupu. E kī ana [ngā tohutohu waiata a te Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) me waiata mōhio, kāore he hōhonutanga, ā, me whakakāhore te pouaka whakaata. Titiro ki [ngā mahi waiata](/activities/music/).
+Ka taea e te waiata mōhio te tae atu ki te tangata ahakoa he uaua ngā kupu. E kī [ngā tohutohu waiata a te Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) me waiata mōhio, kāore he hōhonutanga, ā, me whakakāhore te pouaka whakaata. Titiro ki [ngā mahi waiata](/activities/music/).
 
 13. **Hanga tāna rārangi waiata.** Ngā waiata o ana tau taiohi me ana tau rua tekau, tāna marena, tōna hāhi, tōna ahurea.
-14. **Waiata tahi.** Tīmatahia koe ki te waiata. He mea tika te kōhuhu, te whakarongo hoki.
+14. **Waiata tahi.** Tīmatahia koe ki te waiata. He mea tika te waiata ngū, te whakarongo hoki.
 15. **Pupuri te rūpeke.** Pātōtō, pāhi ngā turi, pātōtō te ngoma ringa. Ka taea i te nodi, ā, i ngā wāhanga whakamutunga.
 16. **Kanikani.** He kanikani puhoi i te kautata, he kōwhiowhio i te nohoanga ina pupuri ringa.
 17. **Whakatākaro pūkohinga katoa.** He kōrero pai mai i te tīmatanga ki te mutunga, me te kawhe, ā, kāore tētahi atu mea e rere ana.
@@ -129,7 +129,7 @@ Whakanuia te anamata tahi me te kore e whakamātau. Kaua e pātai “Kei te maum
 24. **Tīmata he pukapuka oranga.** He whakaahua maha i ia whārangi, me ngā kōrero rahi-tuhi. Ka āwhina tērā ki ngā kaiāwhina hou kia mōhio ki te tangata.
 25. **Whakamahia ngā kāri kōrero.** Ka hono [ngā kāri kōrero](/games/conversation-cards/) i tētahi whakaahua ki tētahi pātai tuwhera.
 26. **Hanga tākaro whakaahua whānau.** Ka huri [pōtaki rite](/games/photo-pairs/) i ō whakaahua ake ki tētahi tākaro takirua.
-27. **Mātakitakina ngā kiriata kāinga, he pouaka pouwhakaata tawhito rānei.** Korerohia tahi, kaua e pātai pātai.
+27. **Mātakitakina ngā kiriata kāinga, he pouaka pouwhakaata tawhito rānei.** Kōrerohia tahi, kaua e pātai pātai.
 28. **Pupuri i ngā taonga o tōna oranga mahi.** He spana, he stethoscope, he pukapuka kaute. He maha ngā wā ka arataki ngā ringa i te kōrero.
 29. **Tunu tētahi kai o tōna tamarikitanga.** Ka taea e ia te kohu, te tātā, te noho noa ki te kāinga tahi me koe.
 30. **Titiro ki te mahere o ngā wāhi i noho ai ia.** Whakaaturia ngā huarahi mōhio i runga i te atlas nui i a koe e kōrero ana.
@@ -152,37 +152,37 @@ Ko te toi, he mahi tonu, ehara i te mahi oti. Pupuria ngā rauemi pakeke, haumar
 
 He hau māori, he rā tōna hoa pai. Titiro ki [ngā mahi ki waho me te māra](/activities/outdoor-and-gardening/).
 
-40. **Whakamākū rākau.** He kēti iti me ētahi kapu. Ko te whakamākū ia rā he rhythm mō te rā. (Ka whakamākū ia rā, ka tōkeke te rā.)
+40. **Whakamākū rākau.** He kēti iti me ētahi kapu. Ko te whakamākū i ia rā he tikanga pai mō te rā.
 41. **Whakatō kapu.** Whakatakotoria ki runga tēpu kia kore e tūturu tētahi. He māmā ake te rito i te kākano.
-42. **Tahi, tapahi rau kua memeha.** Ngā kakahu mahi, he kōhinga iti kotahi i te wā.
+42. **Tahitahi tarutaru, tapahi puāwai kua memeha.** Kākahu māra, he wāhi iti kotahi i te wā.
 43. **Rake rau.** He wāhi iti kotahi. Muri mai, ko te pupuri i te kete tuwhera he mahi pono.
 44. **Hīkoi i tētahi ara mōhio.** Huri i te poraka, haere ki te pouaka reta. He poto, he pai.
 45. **Noho ki waho tahi.** He tūru paepae i te rā ngāwari. Mātakitakina ngā kapua, ngā tangata e paoa ana.
 46. **Whāngaia ngā manu.** Whakakīa te kōpu manu tahi, ā, mātakitaki mai i te tūru matapihi.
-47. **Horoi motuka.** He pakitara, he hiki, he ahiahi mahana. He mahi māmā kotahi hātepe te horoi i ngā taupoki kurupae.
+47. **Horoi motuka.** He pakitara, he hīponi, he ahiahi mahana. He mahi māmā te horoi i ngā wīra.
 
 ## Mahi ā-rongo
 
-Ka nui ake te whai take o te kira, te kakara, te reka, te oro me te titiro i te ahunga o te mate wareware. Ka whakarārangi te [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i te waiata, ngā taonga hei pupuri me te whakanoho ringa mō ngā wāhanga whakamutunga. Tirohia ngā mate ā-kai me ngā raru manawa i mua; titiro ki [ngā mahi ā-rongo](/activities/sensory/).
+Ka nui ake te whai take o te kira, te kakara, te reka, te oro me te titiro i te ahunga o te mate wareware. E whakarārangi ana te [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i te waiata, ngā taonga hei pupuri me te whakanoho ringa mō ngā wāhanga whakamutunga. Tirohia ngā mate ā-kai me ngā raru manawa i mua; titiro ki [ngā mahi ā-rongo](/activities/sensory/).
 
 48. **Whakanoho ringa.** Tono tuatahi, whakamahia he hinu iti. Kōwhiria te kore kakara mēnā kāore koe i te mōhio ki tōna kiri, ki ōna mate.
-49. **Whakapā kākahu.** He kete o te aki, te korokoro, te huruhuru hipi me te hatine hei tāpuhi, hei whakapaki.
+49. **Whakapā kākahu.** He kete o te aho, te kakahu pūrua, te huruhuru hipi me te hātini hei pā, hei kōmiri.
 50. **Whakakakara i ngā rau-rongoā me te kawhe.** Mirimiria te mint, te rosemary ki waenga i ō maihao. Kaua e whakamahia ngā kakara kaha ina raru te manawa.
-51. **Tahi i ōna makawe.** Māramarama, māmā, mēnā he pai ki a ia.
+51. **Tāhi i ōna makawe.** Māramarama, māmā, mēnā he pai ki a ia.
 52. **Tuku he horoi mahana.** Mō ngā ringa me te kanohi i te rā makariri. Whakamātauria te pāmahana i mua.
 53. **Tūhura i te apoti mahi.** He pātene nui, he kōwhai kua tuia ki runga. Tirohia kāore e kōhete ētahi.
 54. **Tātou he rawa reka.** He kutarae iti, i tētahi momo ka taea e ia te kai haumaru.
 55. **Whakatākaro oro o te taiao.** Te ua, ngā ngaru, te waiata a ngā manu i te oro iti.
 56. **Mātakitakina he mea puhoi.** He tanki ika, he ataata taiao, he hukarere e heke ana.
 
-## Tākaro me ngā pazzle
+## Tākaro me ngā tātai whakaahua
 
 Ka mahi ngā tākaro ina kāore he taima, he kaute, he pēhanga. Ki te tīmata tētahi tākaro ki te whakamātau, whakarerea. Titiro ki [te kōwhiri taupānga me ngā tākaro](/caregiving/choosing-apps-and-games/) me [ngā tākaro hinengaro](/brain-health/brain-games/).
 
 57. **Tōrite whakaahua.** [Pōtaki rite](/games/picture-pairs/) ka noho ngā whakaahua ki runga, nō reira he mea kitea, ehara i te maumahara.
 58. **Kimihia te mea ōrite.** [Kimihia te ōrite](/games/find-the-same/) he rua ki te whā ngā kōwhiringa. Kōrerohia ia whakaahua.
 59. **Whakarōpū ki ngā kete.** [Whakarōpū tahi](/games/sort-together/) he rite ki te whakarōpū tōkena i runga i te mata.
-60. **Whakatahi pazzle papatahi rahi.** Ngā whakaahua pakeke, he tatau māmā o ngā wāhanga. [Pazzle whakaahua](/games/picture-puzzle/) ka pupuri i te whakaahua katoa e kitea ana. He mea anō i [ngā pazzle mō te mate wareware](/activities/puzzles/).
+60. **Whakatahi tātai whakaahua rahi.** Ngā whakaahua pakeke, he tatau māmā o ngā wāhanga. [Tātai whakaahua](/games/picture-puzzle/) ka pupuri i te whakaahua katoa e kitea ana. He mea anō i [ngā tātai mō te mate wareware](/activities/puzzles/).
 61. **Tākaro kāri tawhito.** Te tākaro i tāna i tākaro ai mō ngā tau maha. Muri mai, ko te whakarōpū i te kāri ā-tae he tākaro i a ia anō.
 62. **Tākaro tōmino.** Tōrite i ngā pito. Muri mai, he pai anō te whakarārangi i ngā tāera.
 63. **Whakamātau kimi kupu rahi-tuhi.** Ko tō [kimi kupu](/games/word-search/) he kupu ki runga, ki raro anake, ā, ka taea te tā.
@@ -192,12 +192,12 @@ Ka mahi ngā tākaro ina kāore he taima, he kaute, he pēhanga. Ki te tīmata t
 
 ## Nekeneke
 
-E kī ana te NIA me hīkoi, me eke paihikara tū, me whakamahi he kaupaepae kōpaki, me whiu paōro māmā, me hiki kāne suppu, me mātakitaki ataata mō ngā pakeke. Me kōrero ki te tākuta i mua i te tīmata i tētahi mea hou, ā, ina raru te taurite.
+E kī te NIA me hīkoi, me eke paihikara tū, me whakamahi he kaupaepae kōpaki, me whiu paōro māmā, me hiki kēni suppu, me mātakitaki ataata mō ngā pakeke. Me kōrero ki te tākuta i mua i te tīmata i tētahi mea hou, ā, ina raru te taurite.
 
 67. **Whiu poi.** Tūrama ki te aroaro ō tētahi. He puhoi tāna nekeneke, he māmā ki te hopu.
 68. **Whai i tētahi ataata mahi nohoanga** i hangaia mō ngā pakeke, tahi tahi.
 69. **Pūtahi me te kaupaepae.** Ngā toronga ringa ngāwari ki te kaupaepae māmā i te nohoanga.
-70. **Hiki kāne suppu.** Ngā hiki ringa puhoi, pea ki te waiata.
+70. **Hiki kēni suppu.** Ngā hiki ringa puhoi, pea ki te waiata.
 71. **Eke paihikara tū.** He meneti ngāwari e rua, e tata ana koe.
 72. **Kanikani me ngā kakahu rāwhiti.** Whakaarahia ngā kakahu rāwhiti māmā ki te waiata, nohoanga, tū rānei.
 73. **Hīkoi he take tōu.** Ki te tuku reta, ki te hoko kawhe. He pai te take hei haerenga.
@@ -209,10 +209,10 @@ He nui te tino pai o te hoa, ahakoa he uaua ngā ingoa, ā, he pai ake ngā rōp
 
 75. **Kotahi, rua manuhiri i te wā kotahi.** He toro poto ki tētahi rūma mārie, he whakaahua hei mātakitaki.
 76. **Waea whānau ki te ataata.** Kōrero poto, he reo kotahi i te wā. Titiro ki [ngā waea, kōrero ā-ataata](/activities/phone-and-video-calls/).
-77. **Whakamātau he memory café.** He rōpū huihui pōkapū ki te hunga e mate wareware ana me ō rātou kaitiaki. Pātaihia tō Area Agency on Aging he aha kei tata.
+77. **Whakamātau he hui maumahara.** He hui pōkapū ki te hunga e mate wareware ana me ō rātou kaitiaki. Pātaihia tō Area Agency on Aging he aha kei tata.
 78. **Kai ki waho i te wā mārie.** E kī te NIA he wharekai ngāwari, mārie i ngā wā iti, he tūru tata ki te wharepaku.
 79. **Toro ki te pokapū pakeke, ki te kaupapa pakeke o te rā.** He hoa mōna, he wā okiokinga mōu.
-80. **Whakapau wā ki ngā tamariki.** He toro poto, mārie a ngā mokopuna, he pānui pukapuka pikitia ki tētahi tamaiti iti.
+80. **Whakapau wā ki ngā tamariki.** He toro poto, mārie a ngā mokopuna, he pānui pukapuka whakaahua ki tētahi tamaiti iti.
 81. **Tohaina te nūpepa i te kawhe.** Pānuihia ngā upoko kōrero. Ko te tikanga he nui ake i ngā kōrero.
 82. **Āwhina tētahi atu.** Haehae ngā kaupapa karakia, hanga kāri mō tētahi hoa tata.
 
@@ -231,7 +231,7 @@ Whaia te tikanga o te tangata, ahakoa he aha, ahakoa kāore. E kī te NIA me wha
 
 E kī te NIA me whāngai, me tiaki huruhuru, me hīkoi, me noho tahi, me pupuri i tētahi kararehe.
 
-89. **Tāhae i tētahi ngeru, kuri mārie** me ngā kōpaki roa, māmā.
+89. **Tahi tētahi ngeru, kuri mārie** me ngā kōpaki roa, māmā.
 90. **Whāngaia te kararehe tahi.** Ko koe te ine; ko ia te rere.
 91. **Hīkoi i te kuri tahi.** Ka pupuri koe i te here.
 92. **Pupuri i tētahi kararehe i te ngākau.** He ngeru mārie i runga i te kākahu moe he mea whakamārie rawa.

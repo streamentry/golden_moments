@@ -106,7 +106,7 @@ La leiçon per las familhas : se mefiar de tot jòc, aplicacion o programa que p
 
 ## Los jòcs pòdon ajudar una persona qu'a ja la demència ?
 
-Pòdon ajustar un bon jorn, çò que compta fòrça. L'approach mai ben estudiat es l'**estimulacion cognitiva** : d'activitats de grop plasentièras, coma la discussion, la remembrança, los jòcs de mots, los trebalhs de reflexion e la musica, generalament dins un petit grop menat per un animator.
+Pòdon contribuir a un bon jorn, çò que compta fòrça. L'aproche mai ben estudiada es l'**estimulacion cognitiva** : d'activitats de grop plasentièras, coma la discussion, la remembrança, los jòcs de mots, los trebalhs de reflexion e la musica, generalament dins un petit grop menat per un animator.
 
 Una revisada Cochrane de 2023 sus 37 ensags amb 2,766 personas amb una demència lèugièra a moderada a trobat ([revisada Cochrane de l'estimulacion cognitiva](https://pubmed.ncbi.nlm.nih.gov/39804128/)) :
 
@@ -132,7 +132,7 @@ Ben causits, los jòcs pòdon aportar :
 
 ## Ont se plaça Golden Moments
 
-Los jòcs Golden Moments, coma [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) e [mots cachats en grand caractèr](/games/word-search/), son fasts pel plasir e lo temps partejat. An pas de cronomètre ni de punts. Son **pas** un tractament, e ne **previenon pas** ni ne frenan la demència. Volèm mai dire-vos-ho clarament que vos prometre quicòm que cap de jòc pòt tenir.
+Los jòcs Golden Moments, coma [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) e [mots cachats en grand caractèr](/games/word-search/), son fasts pel plasir e lo temps partejat. An pas de cronomètre ni de punts. Son **pas** un tractament, e ne **previenon pas** ni ne frenan la demència. Preferissèm vos o dire clarament que vos prometre quicòm que cap de jòc pòt tenir.
 
 ## Parlatz-ne a un metge
 

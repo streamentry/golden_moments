@@ -1,6 +1,6 @@
 ---
 title: "Jòc de questions fàcil e sens pression per la demència"
-seoTitle: "Questions de jòc per las personas amb demència, amb las respòstas"
+seoTitle: "Questions de jòc per la demència, amb las respòstas"
 description: "50 questions de jòc fàcilas per las personas amb demència, amb causidas e de que charrar, e cossí menar una sesilha perque degun se senta testat o defòra."
 section: activities
 order: 19
@@ -56,7 +56,7 @@ Fasètz que siá sus de causas de memòria e de reconeissença, e que cada respo
 7. **Seguissètz lo punt de partida.** La responsa es lo començament, pas la fin. Las istòrias son lo vertadièr objectiu.
 8. **Gardatz-lo brèu.** Dètz questions amb de contes entre mitan, es suficient.
 
-L'National Institute on Aging dis lo principi simplament : fasètz atencion a la frustracion e fasètz que la persona se senta capabla. L'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lo met aquí simplament. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mete los jòcs de questions dins las activitats de l'etapa precòça. A l'etapa mejana, gardatz dos causidas e apoiatz-vos sus los punts de partida. Mai tard, passatz a las questions « aquò o aquel » mai bas.
+L'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dis lo principi simplament : fasètz atencion a la frustracion e fasètz que la persona se senta capabla. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mete los jòcs de questions dins las activitats de l'etapa precòça. A l'etapa mejana, gardatz dos causidas e apoiatz-vos sus los punts de partida. Mai tard, passatz a las questions « aquò o aquel » mai bas.
 
 ## Jòc de musica e de divertiment
 

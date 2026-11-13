@@ -54,7 +54,7 @@ Ia filemu, fesili pe faapefea ona lagona le tagata, ma ofo faamalosiaga e aunoa 
 
 - **Faailoa le lagona.** E mafai ona e fai mai, “Ou te le vaaia se tasi, ae ou iloa e matautia lenei mea. Ou i ai.” O lenei o le faamaoni ma e faailoa atu ai i le tagata e te mafaufau tele ia te ia.
 - **Taumafai e puʻupuʻu upu.** O se faamatalaga umi po se toe faasaʻo e mafai ona faʻatupu le popole. Tuu le tagata e faamatala mea e iloa ai pe a manaʻo o ia.
-- **Ofo, aua le faamalosia, se suiga.** Fesili pe manaʻo o ia e nofo i le isi nofoaga, faamalamalama se ma pe faalogo i se pese e masani ai. O le siitia i se potu malamalama ma masani e mafai ona fesoasoani; taofi pe a le manaʻo le tagata e siva.
+- **Ofo, aua le faamalosia, se suiga.** Fesili pe manaʻo o ia e nofo i le isi nofoaga, faamalamalama se mea ma pe faalogo i se pese e masani ai. O le siitia i se potu malamalama ma masani e mafai ona fesoasoani; taofi pe a le manaʻo le tagata e siva.
 - **Nofo latalata pe a manaʻo o ia ia te oe.** Aua le paʻi vave i le tagata. Fesili aʻo ofo se lima po se faiga faamāmā.
 
 Afai o le aafiaga e leai se mea e faaleagaina ma e le faalavelave, mulimuli i le taʻitaʻi o le tagata. Aua le suia le taimi o se suega po fesili ina ia faamaonia mea na vaaia e ia.
@@ -65,7 +65,7 @@ O nisi tagata e maua se faamafanafanaga po masani le aafiaga. Afai o le tagata e
 
 Siaki le tulaga ma le tagata pe a iai lana talosaga mo lenei fesoasoani. O le [Alzheimer's Society e vavaeeseina vaaiga faaletonu mai faaseʻega](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations), lea e vaaia ai se mea moni po mamanu e sese.
 
-- **Faaleleia le malamalama.** Ia ponesa se malamalama ma siaki pe o iai ata po faaaliga mai ipu ma faamalama.
+- **Faaleleia le malamalama.** Faaaoga se lamepa ma siaki pe i ai ata po faaaliga mai ipu ma faamalama.
 - **Siaki leo masani.** O le televise, masini malulu po masini e mafai ona foliga o leo po laasaga. Faaitiitia po tapunia naʻo pe a lelei le tagata i lena mea.
 - **Vaai i mamanu.** O le kapeta, pale po pepa faafaʻalaʻala e mafai ona faaseʻe o se gaioiga po se mea. Fesili pe manaʻo le tagata e vaai mai se isi nofoaga po suia le vaaiga.
 - **Siaki mea e fesoasoani i faalogologa.** Afai o le tagata e faaaogaina mata faʻavaaiga po se masini faalogo, fesili pe manaʻo o ia e fesoasoani e siaki pe o loo avanoa ma galue masani.
@@ -86,7 +86,7 @@ Aua le amata, taofi po suia se vailaʻau e te naʻo oe. Fesili i le tagata e tau
 
 Afai e ioe le tagata, tusi faamatalaga puupuu e faasoa ma le au tausi:
 
-- o mea na ia taʻu mai na vaaia, faalogo pe lagona, faaaoga ona upu pe a mafai;
+- o mea na ia taʻu mai na vaai, faalogo pe lagona, faaaoga ona upu pe a mafai;
 - afai ma i fea na tupu, ma le umi o lona aʻafia;
 - pe na foliga le tagata o le popole, filemu pe i le mataʻutia;
 - le tulaga o le potu, e aofia ai le malamalama, ata, leo ma o ai na i ai;
@@ -96,4 +96,4 @@ Faaaoga upu a le tagata ma faamatala le mea na e vaaia. Mo se faataʻitaʻiga, t
 
 O nei faamatalaga e le faamaonia ai le mafuaaga. Afai o le aafiaga e amata faafuasei ma le valevale po se suiga tele i le malamalama, sailia le fesoasoani faafuasei nai lo le faatali e faamaumau faamatalaga.
 
-O le [taʻiala o le tulaga o le aso mulimuli](/caregiving/late-day-restlessness/) o loo faamatala ai malamalama o le afiafi ma le masani. Mo tuuaʻiga e uiga i mea ua leai, va le [pe a masalo le tagata e ola ma le dementia](/caregiving/when-someone-with-dementia-is-suspicious/).
+O le [taʻiala o le tulaga o le aso mulimuli](/caregiving/late-day-restlessness/) o loo faamatala ai malamalama o le afiafi ma le masani. Mo tuuaʻiga e uiga i mea ua leai, faitau le [taʻiala pe a masalo le tagata e ola ma le dementia](/caregiving/when-someone-with-dementia-is-suspicious/).
