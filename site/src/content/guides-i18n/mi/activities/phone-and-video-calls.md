@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Ngā mahi waea me te waea ataata mō te tangata whai mate wareware"
+seoTitle: "Mahi waea ataata mō te mate wareware"
+description: "Mahi waea me te waea ataata mō te whānau tawhiti: whakaatu me te kōrero, pānui, waiata, kēmu ngāwari, me ngā tohutohu mō te kaiāwhina."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Ka pai rawa ngā waea ki tētahi tangata e noho ana me te mate wareware ina poto, ina auau, ā, ina hangaia ki tētahi mea hei mahi tahi, pēnei i te whakaatu i tētahi kararehe, i tētahi māra, i te titiro whakaahua, i te pānui ā-reo, i te waiata i tētahi waiata e aroha ana rātou, i te kēmu mārie ki runga i te mata tahi. Waeatia i te wā ōrite ia rā mēnā ka taea, kotahi te reo i te wā kotahi, ā, tonoa tētahi kaimahi i reira ki te āwhina.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Ka hoatu e tētahi mahi he hanga ki te waea, ā, ka tango i te taumahatanga o te kōrerorero. Whakaritea tētahi mea māmā hei tiritiri."
+  - "He pai ake ngā waea poto, auau i te wā ōrite o te rā i ngā waea roa, ngā waea kōrerorero noa."
+  - "Kotahi te tangata e kōrero ana i te wā kotahi. He uaua ki te whai ngā waea rōpū e kōrerorero tahi ana, ina raru te rongo."
+  - "Ka taea e te kaiāwhina i reira te whakarite i te taputapu, te noho taha ki te tangata, me te 'ringa' mō tētahi kēmu, mō tētahi whakaahua rānei."
+  - "Mēnā kāore te waea e pai i tēnei rā, whakamutua ki te mahana. He pai te whakamātau anō apōpō."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "He aha ka taea e au i tētahi waea ataata me tētahi tangata whai mate wareware?"
+    a: "Whakaritea tētahi mahi māmā: whakaatu tō māra, tō kararehe, tō kīhini; titiro ngā whakaahua tawhito tahi; pānui he whiti poto, he reta rānei; waiata i tētahi waiata e aroha ana rātou; tunu i te tohu kai ōrite i te wā ōrite; te kēmu pikitia māmā ki runga i te mata tahi. Ka hoatu ngā mahi i te arotahi ki te waea, kia kore ai te tangata e kawe i te kōrerorero katoa."
+  - q: "He roa kia pēhea te waea ataata?"
+    a: "He poto ake pea i tō whakaaro. He meneti mahana tokoiti ka nui kē, ina ngāwari te tangata ki te ngenge. Ko te waea auau i te wā ōrite o te rā he mea nui atu i te roa o ia waea."
+  - q: "Ka pōuri, ka pōhēhē rānei rātou i ngā waea ataata?"
+    a: "He tangata e uaua ana ki te kanohi kei runga i te mata. Whakamātauria he waea pūoro noa, he karere ataata kua rekoata e tuku ai te kaiāwhina i te wā mārie, he kāri me ngā whakaahua ka tukuna mā te pēke. Mēnā kua kino te waea, whakamutua atu ngākau pai, ā, whakamātau anō i tētahi rā kē, i tētahi wā kē rānei."
+  - q: "Me pēhea au e āwhina ai i tōku whaea ki te waea ataata ina kāore e taea e ia te whakamahi i te waea?"
+    a: "Tonoa tētahi mema whānau, tētahi kaiāwhina kāinga, tētahi kaimahi o te whare kaumātua rānei kia tīmata i te waea, kia pupuri, kia whakatū rānei i te taputapu. He maha ngā wāhi tiaki e āwhina ana ki ngā whānau i ngā waea ataata, nō reira pātaihia he aha ā rātou e tuku ana. Ko te papa rorohiko i runga i te tū, kua tautuhia ki te mata nui, he reo kia rongo ai, he māmā ake mō te katoa."
+  - q: "Ka taea e mātou te tākaro tahi i runga i te ataata?"
+    a: "Ka taea. Ko te huarahi māmā rawa, ko tētahi tangata e tohatoha ana i tōna mata i te taupānga ataata, ā, ko tētahi atu e kī ana kotahi whakaahua hei pāwhiri. Ka taea hoki e te kaiāwhina i reira te whakatuwhera i te kēmu ōrite i runga i te papa rorohiko, ā, ka pāwhiri mō te tangata i a koe e kōrero ana ki a rātou. Kōwhiria ngā kēmu kāore he tātai wā, he kaute."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Ka noho tawhiti tētahi i tētahi tangata whai mate wareware, ka pōuri pea te ngākau. Kāore e taea e ngā waea me ngā waea ataata te whakakapi i te awhi, engari ka taea tonu e rātou te hanga i ngā wā honohono tūturu ina whakaritea pai. Ko te mea nui, kaua e whai i te kōrerorero noa o ia rā, engari whakaritea tētahi mea māmā hei tiritiri. Ka kōrero tēnei whārangi mō ngā mahi ka pai ki te ataata me te waea, me pēhea te whakarite i te waea, ā, me te mea ka taea e te tangata i te wāhi e noho ana ki te āwhina.
 
-## Why plan an activity for a call?
+## He aha i whakaritea ai he mahi mō tētahi waea?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Ka hoatu e te mahi he hanga ki te waea. "Kei te pēhea koe? I whakahēnga koe i tēnei rā?" ka tono i te tangata kia maumahara, kia pūrongo, he uaua pea, he kino anō hoki. "Titiro, kua pakupaku ngā tāmati" kāore e tono he mea i a rātou.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Ka kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) kāore e māmā ngā kōrerorero ki ngā rōpū nui i runga i te ataata, ā, ka tūtohu i te [whakaurunga o te hanga ki te waea](https://www.alz.org/help-support/caregiving/holidays) me ngā mea pēnei i te waiata, te tohatoha whakaahua.
 
-## What activities work on a video call?
+## He aha ngā mahi e pai ana i runga i te waea ataata?
 
-### Show and tell
+### Whakaatu me te kōrero
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Kawea tō ao ki a rātou. Whakaneke mārie te kāmera i tō māra, whakamōhio i te kuri, whakaatu he aha tāu e tunu ana, whakaara te pukapuka a tētahi mokopuna, me te tohu o te waea ki te matapihi ki te hukarere. Whakamāramatia te mea e kitea ana i ngā kupu māmā, ā, waiho he wā mō te urupare. Kāore he pātai e hiahiatia ana.
 
-### Look at photos together
+### Titiro whakaahua tahi
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Whakapiki he pikitia tawhito ki te kāmera, tohatoha rānei i tō mata hei whakaatu i ētahi whakaahua nui kotahi i te wā. Kōrerohia tāu e kite ana: "Titiro ki te pōtae a Koroua." Kaua e kī "Ko wai tēnei?" me "Kei te maumahara koe?" Mēnā ka kī te tangata he ingoa hē, whai tonu i tōna kōrero. Tirohia tā mātou [aratohu hoki ki ngā mahara o mua](/activities/reminiscence/) mō ngā whakaaro ngāwari.
 
-### Read aloud
+### Pānui ā-reo
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Pānuihia he whiti poto, he karakia tāwhito, he pukapuka pai ki tētahi mokopuna i te kōlpa tahi, he reta i tētahi whanaunga, he whārangi pukapuka i aroha ai rātou. Ka hoatu te pānui ā-reo i tētahi mea mārie hei whakarongo ai te tangata, kāore he take kia whakautu.
 
-### Sing or listen to music together
+### Waiata, whakarongo ki te pūoro tahi
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Waiatahia tētahi waiata e mōhio pai ana rātou, whakatangihia rānei tētahi rēkōta pai i tō taha. He māmā ake te waiata i te kōrero mō te maha o te tangata. Tirohia tā mātou [aratohu mahi pūoro](/activities/music/).
 
-### Cook or bake at the same time
+### Tunu, tao rānei i te wā ōrite
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Ka kī te Alzheimer's Association me whakarite he waea ataata hei tunu, hei tao rānei i tētahi tohu kai motuhake tahi. Whakaritea te waea i ngā kīhini e rua. Ko te tangata i reira pea ka hurihuri, ka whakamātao i a koe e whai ana i tōna kāri tohu kai tawhito.
 
-### Watch something together
+### Mātakitaki tahi i tētahi mea
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ka kī anō te Association me mātakitaki tahi i tētahi kiriata pai i te wā ōrite mai i ngā kāinga motuhake, e kōrerorero ana i te waea, i te ataata rānei. Mō tētahi tangata whai mate wareware, he pai ake pea he kiriata poto, he wāhanga pouaka whakaata tawhito, he whakataetae pōro, i tētahi kiriata katoa.
 
-### Play a gentle game on a shared screen
+### Tākaro kēmu māmā ki runga i te mata tahi
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+He maha ngā taupānga waea ataata ka whakaaetia te tohatoha mata. Ka whakatuwhera koe i te kēmu, ka pāwhiri; ka kī te tangata he aha te whakaahua hei kōwhiri, he tohu rānei tana. Ko te kaiāwhina i reira ka whakatuwhera i te kēmu ōrite i runga i te papa rorohiko, ka pāwhiri mō te tangata i a koe e kōrero ana ki a rātou.
 
-Games that work well this way:
+Ko ngā kēmu e pai ana i tēnei āhua:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Whakaotihia te kīwaha](/games/finish-the-saying/):** ka pānuihia e koe te kīwaha mōhio, ka kī rātou i te mutunga, ā, ka whai tonu te kōrerorero.
+- **[Ngā takirua pikitia](/games/picture-pairs/):** he kēmu whakataurite mārie me ngā pikitia nui ka taea te waiho kitea, kāore he wā, kāore he kaute.
+- **[Kāri kōrero](/games/conversation-cards/):** he pikitia me tētahi tohu tuwhera hei kōrerorero tahi.
+- **[Ngā takirua whakaahua](/games/photo-pairs/):** he kēmu whakataurite i hangaia mai i ngā whakaahua ka kōwhiria e koe i tōu ake taputapu. Ka noho ngā whakaahua ki tō pūtirotiro, ā, ka kitea e te tangata mā tō mata tohatoha.
 
-### Recorded messages
+### Karere kua rekoata
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Ina uaua ngā waea ora, rekoata he ataata poto: he mihi, he waiata, he hīkoi i tō iari. Ka taea e te kaiāwhina te whakatangi i tētahi wā mārie, ia wā ka pai ai te tangata. Ka whakahua te Alzheimer's Association i te rekoata me te tuku i ngā wā motuhake, pēnei i ngā tamariki e wetewete ana i ngā koha.
 
-## What about plain phone calls?
+## He aha mō ngā waea pūoro māmā?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+He mea nui tonu ngā waea pūoro. Ka kī te [Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) me waea i te wā ōrite o ia rā, kaua e tere, nā te mea he roa pea te wā ka whai wāhi mai te tangata whai mate wareware. I runga i te waea:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Whakaatua tō ingoa me tō whanaungatanga i te tīmatanga: "Kia ora Pāpā, ko Jenny tēnei, tāu tamāhine."
+- Kōrero mārie, ngā rerenga poto, kotahi whakaaro i te wā.
+- Hoatu he kōrero hou, kaua e tono: "I tunu au i tāu tunu kiko i tērā pō."
+- Pānuihia he whiti poto, waiatahia he whiti o tētahi waiata pai.
+- Whakapoto, whakamutua ki tētahi kupu mahana.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Ka kī anō te Dementia Australia he pai ake pea te waea ataata ina uaua ake te kōrerorero, nā te mea ka kite te tangata i tō kanohi. Mēnā he uaua te waea pūoro, whakamātauria te ataata, me te whakaaro anō.
 
-## How do I set up a video call that works?
+## Me pēhea te whakarite i tētahi waea ataata e pai ana?
 
-**Before the call:**
+**I mua i te waea:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Kōwhiria he wā auau** ina okioki pai ana te tangata, ā, kia pupuri ki reira. He pai te tikanga.
+2. **Whakawhitiwhiti kōrero ki te kaiāwhina i reira.** He karere i te rā i mua i āwhina i a rātou ki te whakarite.
+3. **Tirotirohia te taputapu.** He pai ake te papa rorohiko i runga i te tū i tētahi waea kei te ringa. Kia whai hiko, kia mārama te mata, kia rangona te reo. Whakaarahia ngā kupu whakaahua mēnā ka whakaaetia e te taupānga, ā, mēnā ka pānui pai te tangata.
+4. **Whakaritea tētahi mahi**, ā, kia rite katoa.
 
-**During the call:**
+**I te waea:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Noho tata ki te kāmera** i te rama pai, ki te matapihi e titiro atu ana, kāore ki muri.
+- **Whakaatu tō ingoa** ia wā, ko tō ingoa me tō whanaungatanga.
+- **Kotahi te reo i te wā kotahi.** Ka kī te Alzheimer's Association he uaua te kōrero tahi ki te hunga whai mate wareware, ki te hunga whai rongo iti hoki. Mēnā he maha ngā whanaunga e uru mai ana, whakarerekēhia te kōrero, kia rua, kia toru ngā tāngata anake.
+- **Pātai kotahi pātai i te wā kotahi.** Ka tohutohu te Family Caregiver Alliance i ngā [pātai māmā, ka whakautu ai te āe, te kāo](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), me te whakaatu i ngā whiringa ina taea.
+- **Tukua he wā roa mō te kōrero.** Tatari mō te whakautu. He pai te whakaatu i tētahi kupu mēnā kei te rapu ia.
+- **Whakamahia tō kanohi me tō reo.** Me ngā kata, te tohu me te reo mahana. He nui atu te kōrero a te kanohi i ngā kupu.
+- **Kaua e whakatika.** Mēnā ka kī te tangata i tētahi mea kāore i te tika, waiho kia pēnei.
 
-**Ending the call:**
+**Te whakamutu i te waea:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Whakamutua i mua i te ngenge o te tangata, ka pai ki te wā pai.
+- Whakamahia te whakamutunga ōrite ia wā: "Ka waea atu au apōpō i te kai awatea. Ka aroha ahau ki a koe."
+- Kaua e roa rawa.
 
-## Tips for the helper on site
+## Tohutohu mō te kaiāwhina i reira
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Mēnā ko koe te hoa rangatira, te kaiāwhina kāinga, te teina, te kaimahi rānei e āwhina ana i te waea, nāu i kaha ai.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Whakaritea he wāhi mārie.** Katia te pouaka whakaata, katia te tatau.
+- **Tīmatahia te waea mā koe anō**, ka tuku ai ki te tangata te papa rorohiko i runga i te tū, ā, ka pupuri rānei i te taumata kanohi.
+- **Noho taha ki a rātou, kaua ki mua.** He whakamarie tō aroaro. Kia māmā te tohu ina hiahia: "Titiro, ko Jenny tēnei."
+- **Kia ringa koe.** Whakaara i ngā whakaahua, pāwhiri i te kēmu, huri i te papa kia whakaatu i te rūma.
+- **Tirohia te ngenge, te pōuritanga rānei,** ā, whakamōhio ki te kaiwaea ina tata te wā ki te whakamutu.
+- **Kōrerohia ki te kaiwaea he aha i pai ai.** "Ka tino pai ki a ia te kurī" ka āwhina ki te whakarite i te waea e whai ake nei.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Ka kī te [NIA](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) ka taea e ngā whanaunga tawhiti te āwhina i tētahi pākeke ki te ako i ngā āhuatanga o tana waea, pēnei i ngā waea ataata. I ngā wāhanga whakamutunga, ko te kaiāwhina tonu ka hiahia kia whakahaerea katoa te taputapu. He pai tērā.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Ina noho te tangata i te whare kaumātua, ka kī te Alzheimer's Foundation of America me pātai mēnā ka āwhina te whare i ngā whānau ki ngā kōrerorero ataata. Ka whakahua anō te AFA i ngā whānau e tuku ana i ngā whakaahua ki ngā kaimahi tiaki, me te tuku i ngā kai pai, i ngā mea māmā whakamarie rānei, i muri i te tirotiro i ta te whare e whakaae ana.
 
-## What if the call doesn't go well?
+## Ki te kore e pai te waea?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Ka pōhēhē pea, ka kōrero noa pea, ka pōuri pea ētahi waea. Ehara tērā i a koe, ehara hoki i te mea kāore e whai painga ngā waea.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Mēnā ka pōhēhē te tangata ki te mata, whakarerekētia ki te waea pūoro, ki te karere rekoata rānei.
+- Mēnā ka pōuri ia, whakaaetia te kare-a-roto, kōrerohia he kupu whakamarie, ā, whakamutua mārie.
+- Mēnā he kino ngā waea i tētahi wā o te rā, whakamātauria tētahi wā kē.
+- Mēnā ka whakaaro ia he tangata kē koe, whai tonu i tōna kōrero ngākau pai.
 
-It is fine to end early. A short, warm call is a good outcome.
+He pai te whakamutu wawe. He otinga pai te waea poto, mahana.
 
-## Between calls
+## I waenganui i ngā waea
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Noho tonu i ētahi atu āhuatanga. Ka kī te Dementia Australia me tuku kāri, īmēra, whakaahua, koha iti rānei. He kāri poutāpeta mō te wiki me tētahi whakaahua nui, me tētahi karere poto, ka taea te pānui auau. Ko ngā [kāri kōrero](/games/conversation-cards/) ka tārua, ka tukuna mā te pēke ki te kaiāwhina ka hoatu he kaupapa kua rite mō te waea e whai ake nei.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Mō ngā tohutohu mō te whiriwhiri me te whakarite i tētahi papa rorohiko, tirohia [ngā papa rorohiko me ngā mata](/caregiving/tablets-and-screens/). Mō te wā ā-tinana, tirohia tā mātou aratohu mō [te toro](/activities/visiting/).
