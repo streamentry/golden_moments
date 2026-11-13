@@ -1,34 +1,33 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "ඩිමෙන්ශියා ඇති කෙනෙක් ක්‍රියාකාරකමකට ප්‍රතික්ෂේප කරන හෝ කලකිරෙන විට"
+seoTitle: "ඩිමෙන්ශියා ඇති කෙනෙක් ක්‍රියාකාරකමකට නැත කියන විට"
+description: "ඩිමෙන්ශියා ඇති කෙනෙක් ක්‍රියාකාරකමකට ප්‍රතික්ෂේප කරන්නේ හෝ කලකිරෙන්නේ ඇයි, ඊළඟට උත්සාහ කළ යුතු දේ, සහ හදිසි වෙනසකදී වෛද්‍යවරයා අවශ්‍ය වන්නේ කවදාද."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  ඩිමෙන්ශියා ඇති කෙනෙක් “නැත” කියන විට, එය සන්සුන්ව පිළිගෙන පසුව නැවත උත්සාහ කරන්න, නැතහොත්
+  වෙනත් දෙයක් යෝජනා කරන්න. ප්‍රතික්ෂේපයට බොහෝ විට හේතුවක් ඇත: කාර්යය අමාරුයි හෝ ළමා
+  වගේය, ඔවුන් වෙහෙසයි, වේදනාවක්, බඩගින්නක් හෝ ශබ්දයෙන් අධික බරක් ඇත. තර්ක නොකරන්න, බල
+  නොකරන්න. සරල කරන්න, තේරීම් දෙකක් දෙන්න, හෝ ඔවුන්ගේ උදව් ඉල්ලන්න. හදිසි හෝ වේගයෙන්
+  වෙනස් වන හැසිරීම, විශේෂයෙන් ආසාදනයකින් හෝ නව ඖෂධයකින් පසු, වෛද්‍යවරයෙකුට වහාම යා යුතුය.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "“නැත” යනු ජය ගැනීමට ගැටලුවක් නොව, ගෞරවයෙන් පිළිගත යුතු පිළිතුරකි."
+  - "ප්‍රතික්ෂේපයට සාමාන්‍යයෙන් හේතුවක් ඇත: ඉතා අමාරුයි, ළමා වගේය, වෙහෙසයි, අසනීපයි, අපහසුයි හෝ අධික බරක් දැනේ."
+  - "පසුබැසීම, රැඳී සිටීම සහ වෙනත් වේලාවක, වෙනස් ස්ථානයක, හෝ සරල අනුවාදයකින් නැවත උත්සාහ කරන්න."
+  - "ඔවුන්ට යමක් කිරීමට කීමට වඩා, ඔවුන්ගේ උදව් ඉල්ලීම වඩා හොඳින් ක්‍රියා කරයි."
+  - "කවදාවත් තර්ක නොකරන්න, බල නොකරන්න, විභාග නොකරන්න, හෝ නිවැරදි නොකරන්න. ඔබ තමාම ඉක්මන් වීම හෝ තදවීම පරීක්ෂා කරන්න."
+  - "හදිසියේ හෝ වේගයෙන් වෙනස් වන හැසිරීම, විශේෂයෙන් ආසාදන හෝ නව ඖෂධ සමඟ, වහාම වෛද්‍යවරයෙකු වෙත යා යුතුය."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "ඔවුන්ට සියලු ක්‍රියාකාරකම් මඟ හැරීමට ඉඩ දීම හරිද?"
+    a: "ඔව්, ඕනෑම දිනකට. එකට වාඩි වීම, සංගීතය ඇසීම හෝ ලෝකය බලා සිටීම ප්‍රමාණවත් විය හැකිය. ඔවුන් සති ගණනාවක් තිස්සේ සියල්ල රස නොවිඳින්නේ නම්, ඒ ගැන ඔවුන්ගේ වෛද්‍යවරයාට කියන්න, මන්ද අඩු මනෝභාවය, වේදනාව හෝ වෙනත් සෞඛ්‍ය ගැටලු එහි කොටසක් විය හැකිය."
+  - q: "ඔවුන් පැරණි ආශාවෙන් කළ දේවල් ප්‍රතික්ෂේප කරන්නේ ඇයි?"
+    a: "පැරණි විනෝදාංශයක් දැන් ඩිමෙන්ශියාව අමාරු කළ කුසලතා ඉල්ලන විට එය කලකිරීමක් බවට පත් විය හැකි අතර, පුද්ගලයා ලජ්ජාවට පත් විය හැකිය. එම ක්‍රියාකාරකමේ සරල කොටසක් උත්සාහ කරන්න, උදාහරණයක් ලෙස මැහීමට වඩා බොත්තම් වර්ග කිරීම, හෝ මල්වත්තේ වැඩ කිරීමට වඩා උයන් පින්තූර බැලීම."
+  - q: "ඔවුන්ව එකඟ කරවන්න උත්සාහ කළ යුතුද?"
+    a: "නැහැ. ඩිමෙන්ශියාව අමාරු කළ දෙයක් කරන ලෙස කිරීමට තල්ලු කිරීම නොසන්සුන්තාවේ දන්නා ප්‍රේරකයකි. නැත කියන එක පිළිගෙන, මාතෘකාව වෙනස් කර, පසුව හෝ වෙනත් ආකාරයකින් නැවත යෝජනා කරන්න."
+  - q: "හැසිරීමේ වෙනසක් හදිසි අවස්ථාවක්ද?"
+    a: "කෙනෙක් අනතුරේ සිටියොත් හෝ වෛද්‍ය හදිසි අවස්ථාවක ලක්ෂණ තිබේ නම්, ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න. හදිසි ව්‍යාකූලත්වය හෝ පැය හෝ දින ගණනකින් ඉක්මනින් වෙනස් වන හැසිරීම, විශේෂයෙන් උණ, ආසාදනය හෝ නව ඖෂධයක් සමඟ, ඔවුන්ගේ වෛද්‍යවරයාට වහාම කතා කරන්න."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +49,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+ඔබ සියල්ල සකසයි, ක්‍රීඩාවක් හෝ ඇවිදීමක් යෝජනා කරයි, සහ “නැහැ” යන පිළිතුර ලබා ගනී. නැතහොත් ක්‍රියාකාරකම හොඳින් ආරම්භ වී, ටැබ්ලට් එක තල්ලු කර දමා, තියුණු වචනයකින් අවසන් වේ. එය අධෛර්යමත් කරන සුලභ අත්දැකීමකි. ප්‍රතික්ෂේපය සහ කලකිරීම සාමාන්‍යයෙන් පණිවිඩයකි, හිතුවක්කාරකම නොවේ. එම පණිවිඩය කුමක්දැයි සොයා ගැනීම, ඊළඟට කුමක් උත්සාහ කළ යුතුද යන්න බොහෝ විට පෙන්වයි.
 
-## Why does someone with dementia refuse activities?
+## ඩිමෙන්ශියා ඇති කෙනෙක් ක්‍රියාකාරකම් ප්‍රතික්ෂේප කරන්නේ ඇයි?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+සාමාන්‍යයෙන් හේතුවක් ඇත, පුද්ගලයාට එය වචනවලින් කීමට නොහැකි වුවද. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) සඳහන් කරන්නේ ප්‍රතිරෝධය යනු පුද්ගලයාට කාර්යය කිරීමට නොහැකි හෝ උත්සාහ කිරීමට බිය වීම විය හැකි බවයි. සුලභ හේතු අතරට:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **එය ඉතා අමාරුයි.** ක්‍රියාකාරකමට දැන් ඩිමෙන්ශියාව දුෂ්කර කළ කුසලතා අවශ්‍ය වන අතර, කෙනෙක් ඉදිරියේ අසමත් වීම ලජ්ජාවකි.
+- **එය ළමා වගේය.** වැඩිහිටියන් කාටූන් වැනි පින්තූර, ගීත මෙන් කියන හඬවල් සහ ළමයින් සඳහා නිර්මාණය කළා වගේ පෙනෙන ක්‍රියාකාරකම් දකිති.
+- **වෙහෙස.** බොහෝ අයට දවසේ පසු කොටසේ ශක්තිය අඩුය. [සවස් වේලාවේ සන්සුන් ක්‍රියාකාරකම්](/caregiving/late-day-restlessness/) බලන්න.
+- **ශාරීරික අපහසුතාව.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) වේදනාව, නින්ද නැතිකම, පෙනීමේ හෝ ඇසීමේ අපහසුතා, මළපහ බැඳීම, බඩගින්න, පිපාසය සහ නව ඖෂධවල අතුරු ආබාධ කම්පනයට හේතු විය හැකි දේවල් ලෙස ලැයිස්තුගත කරයි.
+- **අධික ලෙස සිදුවන දේවල්.** උස් හඬින් ටෙලිවිෂන් එකක්, එකවර සංවාද කිහිපයක් හෝ අධික කාමරයක් අධික බරක් විය හැකිය.
+- **තල්ලු වීමක් දැනීම.** NIA නම් කරන්නේ ඇල්ස්හයිමර් ඉතා අමාරු කළ දෙයක් කිරීමට හෝ සිදුවීම් හෝ මිනිසුන් මතක තබා ගැනීමට තල්ලු වීම නොසන්සුන්තාවට හේතුවක් ලෙසයි.
+- **අඩු මනෝභාවය.** දේවල්වල උනන්දුව නැතිවීම විෂාදයේ ලක්ෂණයක් විය හැකි අතර, එය වෛද්‍යවරයා සමඟ සාකච්ඡා කිරීම වටී.
+- **ඔවුන් එය කිරීමට කැමති නැත.** වැඩිහිටියන්ට නැත කීමට අයිතියක් ඇත.
 
-## What should I try when they say no?
+## ඔවුන් “නැහැ” කියන විට මා කුමක් උත්සාහ කළ යුතුද?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+“නැත” සන්සුන්ව පිළිගන්න, ඉන්පසු වෙනසක් කරන්න: වේලාව, ක්‍රියාකාරකම, අමාරුව හෝ ඔබ ඉල්ලන ආකාරය.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **දැනට එය අත්හරින්න.** “ඒක හරි. සමහරවිට පසුව.” ඉන්පසු සුසුමක් නොහෙලා වෙනත් දෙයකට යන්න.
+2. **පසුව නැවත උත්සාහ කරන්න.** Alzheimer's Association යෝජනා කරන්නේ පසුව, හෝ දවසේ වෙනත් වේලාවක නැවත උත්සාහ කරන ලෙසයි.
+3. **එය කුඩා කරන්න.** සම්පූර්ණ ක්‍රීඩාවක් වෙනුවට එක් ගැලපීමක්. සම්පූර්ණ රෙදි ගොඩ වෙනුවට එක් තුවායක්. අඩු පින්තූර, අඩු තේරීම්, පින්තූර දෘශ්‍යමානව තබා ගැනීම.
+4. **තේරීම් දෙකක් දෙන්න.** “ඔබට කුරුල්ලන්ගේ පින්තූර බලන්නද, නැතහොත් සංගීතය ඇසීමද කැමතිද?” තේරීමක් පාලනයේ හැඟීම නැවත ලබා දෙයි.
+5. **රඟදැක්වීමට වඩා උදව් ඉල්ලන්න.** “මට මේවා වර්ග කිරීමට උදව් කරන්නද?” හෝ “මේ අතරින් කුමන වර්ණය හොඳ ලෙස පෙනේද?” අවශ්‍ය වීම පරීක්ෂණයකට වඩා ඉතා වෙනස් හැඟීමකි.
+6. **ඔබම එය ආරම්භ කරන්න.** ඔවුන්ගෙන් ඉල්ලීමකින් තොරව ඔවුන් අසල ක්‍රියාකාරකම ආරම්භ කරන්න. දෙයක් දැනටමත් සිදු වෙමින් පවතින විට බොහෝ අය එයට එක්වෙති, එසේ නොවුවත්, ඔබ එකට කාලය ගත කර ඇත.
+7. **භෞතික හෝ සන්සුන් දෙයකට මාරු වන්න.** කෙටි ඇවිදීමක්, සංගීතය, කෑමක්, රෙදි නැමීම, හෝ එකට [calm breathing](/games/calm-breathing/) විවේකයක්. NIA යෝජනා කරන්නේ අවධානය සංගීතයට, පොතකට හෝ ඇවිදීමකට යොමු කරන ලෙසයි.
+8. **ඔවුන්ගේ ආකාරයෙන් කිරීමට ඉඩ දෙන්න.** ඔවුන් රීති කියන ආකාරයට වෙනස් ලෙස ක්‍රීඩා කිරීමට අවශ්‍ය නම්, ඒ ආකාරයටම යන්න. Alzheimer's Association නම්‍යශීලී වන ලෙස උපදෙස් දෙයි.
 
-## What should I say when they get frustrated?
+## ඔවුන් කලකිරෙන විට මා කුමක් කිව යුතුද?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+වේගය අඩු කර, හඬ මෘදු කර, සහනදායක වන්න. [Alzheimer's Association හි නොසන්සුන්තාව පිළිබඳ මාර්ගෝපදේශය](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) යෝජනා කරන්නේ පසුබැසීමට සහ අවසරය ඉල්ලීමට, සන්සුන්, ධනාත්මක ප්‍රකාශ භාවිතා කිරීමට, සහ තේරීම් දෙකක් අතරින් මඟ පෙන්වන තේරීමක් දීමට ය. ඒ ආත්මයෙන් යුතු වාක්‍ය:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “මට කණගාටුයි, මේක කරදරයි. අපි නවතිමු.”
+- “ඔබ හොඳින් කරනවා. මම ඔබ අසලම ඉන්නවා.”
+- “ඔබට වෙනත් දෙයක් සඳහා මට උදව් කරන්න වෙලාවක් තියෙනවාද?”
+- “ඒ වෙනුවට තේ කෝප්පයක් බොමුද?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+ඉන්පසු ක්‍රියාකාරකම විශාල කාරණයක් නොකර අවසන් කරන්න. [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) වලට කියන්නට වැඩි දේ ඇත.
 
-## What should I avoid?
+## මා කුමක් වළක්වා ගත යුතුද?
 
-Some natural reactions tend to make things worse.
+ස්වාභාවික ප්‍රතික්‍රියා සමහර විට තත්ත්වය නරක් කරයි.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **තර්ක කිරීම හෝ බල කිරීම.** “එහෙම කරන්න, තව එකයි” හෝ “ඔබට මේක ආදරයි” කියීම කලාතුරකිනි උදව් කරයි.
+- **විමසීම හෝ නිවැරදි කිරීම.** “ඔබ දන්නවා මේක මොකක්ද” හෝ “නැහැ, ඒක වැරදියි” පීඩනය එකතු කරයි.
+- **එය පෞද්ගලිකව ගැනීම.** NIA ආයතනය රැකබලා ගන්නන්ට මතක් කරන්නේ මේ වෙනස්කම් ඇති කරන්නේ පුද්ගලයා නොව රෝගය බවයි.
+- **තදවීම හෝ ඉක්මන් කිරීම.** Alzheimer's Association උපදෙස් දෙන්නේ හඬ නඟන්න, බිය පෙන්වන්න, කොන් කරන්න, තදින් අල්ලන්න, විවේචනය කරන්න, නොසලකා හරින්න හෝ පුද්ගලයා සමඟ තර්ක කරන්න එපා, සහ ඔවුන්ගේ දෘෂ්ටියෙන් ඔබ්බට හදිසි චලනවලින් වළකින්න ය.
+- **වරදකාරී හැඟීම භාවිතා කිරීම.** “මම ඔබට මේ සියල්ල සකස් කළා” කීමෙන් දෙදෙනාටම නරක හැඟීමක් ඇති වේ.
+- **ලේබල් කිරීම.** “හිතුවක්කාර” හෝ “අමාරු” යන වචන සැබෑ හේතුව සඟවා, විසඳීම අමාරු කරයි.
 
-## How can I find out what is behind repeated refusals?
+## නැවත නැවත ප්‍රතික්ෂේප වීම පිටුපස ඇත්තේ කුමක්දැයි දැන ගන්නේ කෙසේද?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+සතියක් හෝ දෙකක් සරල සටහනක් තබා ගන්න. හැසිරීම වෙනස්කම් නිරීක්ෂණය කිරීම රැකබලා ගන්නන්ට සහ සෞඛ්‍ය සේවා සපයන්නන්ට රටාවක් හඳුනා ගෙන හේතුව සොයා ගැනීමට උදව් කළ හැකි බව NIA පවසයි.
 
-Jot down:
+මේවා ලියා ගන්න:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- දවසේ වේලාව;
+- ඔබ යමක් ඉදිරිපත් කළ ආකාරය සහ ඔබ ඉල්ලූ ආකාරය;
+- ඔබ වටා සිදු වූ දේ (ශබ්දය, අමුත්තන්, ටෙලිවිෂන්);
+- ඔවුන් නිදා ගත්ත, කෑවේ හා පානය කළේ කෙසේද, සහ අවසන් වරට වැසිකිළිය භාවිතා කළේ කවදාද;
+- ඕනෑම නව ඖෂධයක් හෝ මෑත රෝගයක්.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+රටා බොහෝ විට ඉක්මනින් පෙනේ: දවසේ පස්වරුවේ 4 p.m. ට පසු පමණක්, යම් ක්‍රීඩාවක් සමඟ පමණක්, හෝ ටෙලිවිෂන් එක ක්‍රියාත්මකව ඇති විට පමණක් ඇතිවන ප්‍රතික්ෂේප. Family Caregiver Alliance හි [ඩිමෙන්ශියා හැසිරීම් මාර්ගෝපදේශය](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) එය සරලව කියයි: පුද්ගලයා වෙනස් කළ නොහැක, නමුත් අපට අපේම හැසිරීම සහ පරිසරය වෙනස් කළ හැකිය.
 
-## When should I talk to a doctor about refusal or frustration?
+## ප්‍රතික්ෂේප වීම හෝ කලකිරීම ගැන වෛද්‍යවරයා සමඟ කවදා කතා කළ යුතුද?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+හැසිරීම හදිසියේ, වේගයෙන් හෝ රෝගයේ ලක්ෂණ සමඟ වෙනස් වන විට වෛද්‍යවරයා සමඟ කතා කරන්න. NIA පවසන්නේ විශේෂයෙන් පුද්ගලයාට ආසාදනයක් හෝ මෑත ඖෂධ වෙනස්කම් ඇත්නම්, හැසිරීමේ හදිසි හෝ වේගයෙන් උච්චාවචන වන වෙනස්කම් වහාම වෛද්‍යවරයාගේ අවධානයට ගෙන ඒම අවශ්‍ය බවයි.
 
-Contact their doctor promptly if you notice:
+ඔබ මේවා දුටුවොත් ඔවුන්ගේ වෛද්‍යවරයාට ඉක්මනින් කතා කරන්න:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- දින හෝ පැය ගණනකින් හදිසි ව්‍යාකූලත්වය හෝ විශාල වෙනසක්;
+- වේදනාවේ ලක්ෂණ, උදාහරණයක් ලෙස මුහුණු ඇඹරීම, ශරීරයේ කොටසක් ආරක්ෂා කිරීම, හෝ නව චලන දුෂ්කරතාවක්;
+- උණ හෝ ආසාදනයේ අනෙකුත් ලක්ෂණ;
+- නව හෝ වෙනස් කළ ඖෂධ, ඉන්පසු හැසිරීමේ වෙනසක්;
+- සති දෙකකට වඩා පවතින, සියල්ලටම පාහේ උනන්දුව නැතිවීම, කඳුළු හෝ හුදෙකලා වීම;
+- ආහාර හෝ පානය ප්‍රතික්ෂේප කිරීම.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association යෝජනා කරන්නේ හැසිරීම් රෝග ලක්ෂණ ඇති ඕනෑම කෙනෙකුට, විශේෂයෙන් ඒවා හදිසියේ පැන නැගුණු විට, සම්පූර්ණ වෛද්‍ය පරීක්ෂාවක් ලබා ගන්නා ලෙසයි. Family Caregiver Alliance ද උපදෙස් දෙන්නේ හැසිරීම් ගැටලුවලට වෛද්‍ය හේතුවක් තිබිය හැකි නිසා, පළමුව වෛද්‍යවරයා සමඟ පරීක්ෂා කරන ලෙසයි. වෛද්‍යවරයෙකු හෝ ඖෂධ ශාස්ත්‍රඥයෙකු සමඟ කතා නොකර කිසිදු ඖෂධයක් ආරම්භ කරන්න, නවත්වන්න හෝ වෙනස් කරන්න එපා.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+කෙනෙක් අනතුරේ සිටියොත් හෝ වෛද්‍ය හදිසි අවස්ථාවක ලක්ෂණ තිබේ නම්, ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න. NIA යෝජනා කරන්නේ පුද්ගලයාට ඩිමෙන්ශියාව ඇති බව ඇමතුම් ලබන්නාට කියන ලෙසයි. බැඳීම භෞතික වන විට සහ ආරක්ෂාව සඳහා වහාම කළ යුතු පියවර සඳහා, [ඩිමෙන්ශියාවේ කෝපය සහ ආක්‍රමණශීලීත්වය පිළිබඳ මාර්ගෝපදේශය](/caregiving/when-anger-becomes-aggression-with-dementia/) බලන්න.
 
-## Is it okay if we do nothing at all?
+## කිසිවක් නොකර සිටීම හරිද?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+ඔව්. සමහර දිනවල හොඳම ක්‍රියාකාරකම කිසිවක් නොකිරීමයි: එකට වාඩි වීම, අත් අල්ලා ගැනීම, ප්‍රියතම පටිගත කිරීමක් ඇසීම, හෝ ජනේලයෙන් කුරුල්ලන් බැලීම. එය අසාර්ථකත්වයක් නොවේ. [එකට ක්‍රීඩා කිරීම](/caregiving/how-to-play-together/) ගැන අපේ මාර්ගෝපදේශය, ඉක්මනින් නවත්වීම හෝ කවදාවත් ආරම්භ නොකිරීම නිවැරදි තීරණය විය හැක්කේ ඇයිදැයි පැහැදිලි කරයි.

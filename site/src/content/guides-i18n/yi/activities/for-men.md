@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "אַקטיװיטעטן פֿאַר מענער מיט דעמענץ"
+seoTitle: "אַקטיװיטעטן פֿאַר מענער מיט דעמענץ: אידייען פֿון לעבן"
+description: "אידייען פֿאַר מענער װאָס לעבן מיט דעמענץ, אויפֿגעבויט אויף זייער פֿאַרגאַנגענהײט, האָבִיס און סדרים, מיט טיפּס װי צו מאַכן יעדע זאַך זיכער."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  די בעסטע אַקטיװיטעטן פֿאַר אַ מאַנעם מיט דעמענץ קומען פֿון זײַן אייגענעם לעבן:
+  די אַרבעט װאָס ער האָט געטאָן, די האָבִיס װאָס ער האָט ליב געהאַט און די טעגלעכע
+  סדרים װאָס ער האָט געהאַלטן. אַ פֿריִערדיקער בירו-אַרבעטער קען פֿאַרגעניגן זיך
+  מיט אָרדנען פּאַפּירן, אַ מעכאַניקער מיט ריין געצײַג, און אַ ספּאָרט-פֿאַן מיט אַ
+  אַלטן שפּיל. אינטערעסן זענען פֿאַרשײדן פֿון מאַן צו מאַן, דעריבער הײבט אָן פֿון
+  דעם מענטש, נישט פֿון זײַן געשלעכט.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "הײבט אָן מיט דעם מאַנס אייגענער געשיכטע: זײַן אַרבעט, זײַנע האָבִיס, זײַנע סדרים און װאָס ער איז געװען שטאָלץ אױף."
+  - "אַרבעטן מיט אַן אמתן ציל, װי זאָרטירן האַרטװאַרג, דאָס אויטאָ װאַשן אָדער האָלץ שלײַפֿן, געפֿעלן אָפּט מער װי אַקטיװיטעטן װאָס פֿילן זיך װי אַ קלאַס."
+  - "נישט יעדער מאַן האָט ליב געצײַג אָדער ספּאָרט. פֿיל האָבן פֿרײד פֿון קאָכן, מוזיק, גאַרטנאַרבעט, קונסט אָדער זאָרגן פֿאַר אַנדערע. פֿרעגט, קוקט און גײט נאָך זײַן פֿירונג."
+  - "מאַכט אַרבעט-שטײַגער זיכער דורך אַרױסנעמען שאַרפֿע געצײַגן און אויפֿזיכטן, און פֿאַרפּשוטערט זיי װי די פֿיייִקײטן ענדערן זיך."
+  - "ניין זאָגן איז דערלויבט. גיט אַ ראָלע, נישט אַ פֿאַרפּליכטונג, און פּרוּװט נאָך אַ מאָל אַן אַנדער טאָג."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "װאָס פֿאַר אַקטיװיטעטן האָבן מענער מיט דעמענץ ליב?"
+    a: "עס איז נישטאָ קײן איין רשימה, װײַל מענערס אינטערעסן זענען פֿאַרשײדן װי ביי יעדן אַנדערן. גוטע אָנהײבן זענען אַרבעטן װאָס בינדן זיך צו זײַן פֿריִערדיקער אַרבעט, למשל פּאַפּירן אָרדנען אָדער שרױבן און באָלצן זאָרטירן, צוזאַמען מיט האָבִיס װאָס ער האָט ליב געהאַט, װי פֿישערײַ, אויטאָס, מוזיק, קאָכן אָדער ספּאָרט. באָביַכטעט װאָס ער טוט אַליין און בױט דערויף."
+  - q: "מײַן פֿאָטער װײַגערט זיך צו גײן אויף גרופּע-אַקטיװיטעטן. װאָס קען איך טאָן?"
+    a: "פֿיל מענטשן, מענער און פֿרויען גלײַך, װײַגערן זיך צו אַקטיװיטעטן װאָס פֿילן זיך װי אַ קלאַס אָדער װאָס דוכט זיך קינדיש. פּרוּװט אָנצובאָטן אַ אַרבעט אַנשטאָט: „קענסטו מיר העלפֿן ענגליש דאָס זאָרטירן?“ קלענערע גרופּעס אָדער אײנס-אױף-אײנס צײַט קען אויך פֿילן זיך באַקװעמער װי אַ גרױסער צימער."
+  - q: "איז עס זיכער צו לאָזן אים נוצן געצײַג?"
+    a: "נאָר מיט אויפֿזיכט און זיכערע געצײַגן. נעמט אַװעק מאַשינען, מעסערס און אַלצדינג שאַרפֿס, און װײַלט אויס אַרבעטן װי שלײַפֿן אַ בלאָק האָלץ, זאָרטירן ריינע באָלצן, אָדער אָנציִען גרױסע שרויבן מיט דער האַנט. די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) רעקאָמענדירט צו אַרױסנעמען געפֿאַרלעכע זאַכן פֿון אַ װערקשטאַט, כּדי אַ אַרבעט װי שלײַפֿן זאָל נאָך געקענט װערן מיט פֿאַרגעניגן און זיכער."
+  - q: "ער איז געװען אַ פּראָפֿעסיאָנעל. צי װעט פּשוטע אַרבעט אים באַליידיקן?"
+    a: "עס קען, אױב עס װערט געװיזן װי אומנייטיקע אַרבעט. שטעלט די אַרבעט װי אמתע הילף, נוצט דערװאַקסענע מאַטעריאַלן, און װײַלט אויס עפּעס נאָענט צו זײַן אַלטער ראָלע, למשל אַ ליסטע איבערקוקן, אַ טעקע אָרדנען אָדער העלפֿן אַ מיילינג צונױפֿשטעלן. אױב ער איז געװען זייער געשיקט אין עפּעס, קען אַ פֿאַרבונדענע אָבער אַנדערש אַקטיװיטעט פֿילן זיך װײניקער װי אַ פֿאַרגלײַך."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+אַ סך מענטשן זוכן "activities for men with dementia" ווײַל די געװײנלעכע פֿאָרשלאָגן פּאַסן נישט פֿאַר דעם מאַן אין זייער לעבן. דאָס איז אַ פֿאַרשטענדלעכע זאָרג. אָבער די ענטפֿער איז נישט אַ רשימה פֿון "מענלעכע" אַקטיװיטעטן. זי איז צו הײבן מיט דעם באַזונדערן מאַן: װאָס ער האָט געטאָן פֿאַר פּרנסה, װאָס ער האָט געטאָן אין זײַנע פֿרײע טעג, און װאָס האָט אים געמאַכט פֿילן נוצלעך. אינטערעסן זענען פֿאַרשײדן בײַ יעדן. אַ סך מענער האָבן ליב צו קאָכן, גאַרטנען, מאָלן אָדער זינגען, און אַ סך פֿרױען האָבן ליב אויטאָס און בייסבאָל.
 
-## How do I find activities he will actually enjoy?
+## װי געפֿינט מען אַקטיװיטעטן װאָס ער װעט טאַקע געניסן?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+הײבט אָן מיט זײַן לעבנס-געשיכטע. די Alzheimer's Association רעקאָמענדירט צו בויען אַ [טעגלעכן פּלאַן](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) אויף דעם מענטשס ליבשאַפֿטן, אומליבשאַפֿטן, שטאַרקייטן און אינטערעסן, און אויף דעם װי ער האָט פֿריִער אָרגאַניזירט זײַן טאָג. פֿרעגט זיך:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **װאָס איז געװען זײַן אַרבעט?** אָפיס, פֿאַרם, פֿאַבריק, האַנטװערק, מיליטער, פֿאַרקויף, לערנען, פֿאָרן, די היים?
+- **װאָס האָט ער געטאָן אין זײַן פֿרײַער צײַט?** פֿישערײַ, קאַרטן, האָלץ-אַרבעט, ספּאָרט, קירכע, מוזיק, קאָכן, אַ מאַשין אין גאַראַזש?
+- **װאָס זענען געװען זײַנע סדרים?** קאַװע און צײַטונג יעדן מאָרגן? קוקן אויף דעם װעטער? דאָס אויטאָ װאַשן אויף שבת?
+- **װאָס הײבט ער נאָך אָן אַליין?** די Association באַמערקט, אַז אױב אַ מענטש הײבט אָן אַרבעטן אָן אַז מען פֿרעגט אים, למשל פֿעגן דעם דיל, קענען די אַרבעטן װערן אַ טייל פֿון זײַן סדר.
+- **װאָס מײדט ער?** עטלעכע מענטשן האָבן פֿרײד צו קוקן ספּאָרט; אַנדערע װערן פֿאַרשטערט פֿון טempo און ראַש. באַמערקט װען ער װירקט גליקלעך, בענקעוודיק אָדער אומרויִק.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+רעדט אויך מיט משפּחה און אַלטע פֿרײַנד. זײ קענען זיך געדענקען אינטערעסן װאָס זענען פֿאַרבלאַסן פֿון טעגלעכן לעבן.
 
-## Activity ideas based on past work
+## אידייען פֿאַר אַקטיװיטעטן װאָס בינדן זיך צו פֿריִערדיקער אַרבעט
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+די Alzheimer's Association גיט אַ קלאָרן בײַשפּיל: אַ פֿריִערדיקער בירו-אַרבעטער קען פֿרײַט האָבן אויף אָרדנען, למשל מטבעות אין אַ האַלטער שטעלן, אַ מיילינג צונױפֿשטעלן אָדער אַ טו-דו-ליסטע מאַכן, בעת אַ געװעזענער פֿאַרמער אָדער גאַרטנער קען פֿרײַט האָבן אין הױף אַרבעטן. דער זעלבער געדאַנק פּאַסט צו פֿיל אַרבעטן.
 
-| Past work | Activity ideas | Simpler version |
+| פֿריִערדיקע אַרבעט | אידייען פֿאַר אַקטיװיטעט | פּשוטערע װערסיע |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| אָפיס אָדער געשעפֿט | פּאַפּירן אָרדנען אין מאַפּעס, קוװערטן שטעמפּלען, אַ ליסטע איבערקוקן, אַ שופֿלאָד אין אַ טישל אָרדנען | שטאַפּלען קוװערטן; קלאַמערס לײגן אין אַ קעסטל |
+| האַנטװערק אָדער מעכאַניקער | ריינע מוטערן, שרויבן און װאַשערס זאָרטירן; גרױסע שרויבן מיט דער האַנט אָנציִען; קאַטאַלאָגן פֿון געצײַג אָנקוקן | זאָרטירן לױט גרײס אין צװײ בעכער |
+| פֿאַרמערײַ אָדער לאַנדשאַפֿט | באַװאַסערן, פֿלאַנצן אין טעפּ, לױבֿ רעכן, אויפֿפּאַסן דעם גאָרטן | זיצן אױסן בשעת איר אַרבעט; האַלטן סעמען-פּעקלעך |
+| מיליטער | שיך פּאָלירן, אַ שופֿלאָד אַרױסרעדן, פֿאָטאָס פֿון דינסט אָנקוקן, אויב ער האָט דערפֿון פֿרײד | מוזיק פֿון יענער צײַט הערן |
+| פֿאַרקױף אָדער קונדן-דינסט | באַגריסן באַזוכער, שנעקן אויסטיילן, קופּאָנס זאָרטירן | זיצן ביים טיר און זאָגן שלום |
+| לערנען | פֿאַרלײענען, ביכער אָרדנען, בילדער לױט טעמע זאָרטירן | צוזאַמען אַ בילדערבוך אָנקוקן |
+| פֿאָרן אָדער טראַנספּאָרט | מאַפּעס אָדער אַלטע אויטאָ-זשורנאַלן אָנקוקן, דאָס אויטאָ װאַשן | זען די אויטאָס פֿאָרן פֿון אַ גאַניק |
+| היים און משפּחה | װעש פֿאַלטן, דעם טיש דעקן, העלפֿן ביים מיטאָג | סלעטשן סערװעטן; רירן |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+עטלעכע זכרונות, למשל מיליטער-דינסט, קענען װעקן שטאַרקע געפֿילן. פֿאָלגט זײַן פֿירונג, האַלט די רעדע װעגן דער פֿאַרגאַנגענהייט positiv, און ענדערט דאָס טעמע אַ ביסל אויב ער װירקט בענקעוודיק.
 
-## Activity ideas based on hobbies
+## אידייען פֿאַר אַקטיװיטעטן װאָס קומען פֿון האָבִיס
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **האָלץ-אַרבעט.** שלײַפֿן אַ גלאַט בלאָק האָלץ אָדער מאָלן אַ פֿײגל-הײַזל-סעט. די Alzheimer's Association רעקאָמענדירט אַרױסנעמען געפֿאַרלעכע מאַטעריאַלן און געצײַג פֿון דער װערקשטאַט, כּדי אַ אַקטיװיטעט װי שלײַפֿן זאָל זײַן אָנגענעם און זיכער.
+2. **פֿישערײַ.** זאָרטירן אַ קעסטל מיט האַקן װאָס זענען אָפּגענומען, קוקן אין פֿישער-זשורנאַלן, אָדער זיצן צוזאַמען ביים טײַך.
+3. **אויטאָס.** דאָס אויטאָ װאַשן, דאָס פּאָלירן פֿון כראָם, קוקן אויף בילדער פֿון קלאַסישע אויטאָס, אָדער אַ פֿאָרן ווי אַ פּאַסאַזשיר.
+4. **ספּאָרט.** קוקן אַ קלאַסישן מאַטש אָדער העכשלײטס, װאַרפֿן אַ װײכן באַל, שטעלן גאָלף-בעלעך אויף אַ טעפּעך, אָדער זאָרטירן בייסבאָל-קאַרטלעך.
+5. **קאַרטן און שפּילן.** אַ פּשוטע האַנט פֿון אַ באַקאַנטן קאַרטשפּיל, דאָמינאָס, אָדער קאַרטן אויסדרײען צו געפֿינען אַ פּאָר. האַלט עס רויק און לאָז אַװעק דעם צײַלן.
+6. **מוזיק.** לידער פֿון זײַנע יוגנט-יאָרן, אַ ליב-געהאַטע באַנד, אָדער אַ ניגון. זעט אונדזער [מוזיק-אַקטיװיטעטן-פֿירער](/activities/music/).
+7. **קאָכן און גריל.** װעש גמיזן, רירן אַ זאַפֿט, פֿאָרמען בערגערס, אָדער באַשרײַבן װי ער האָט געמאַכט זײַן באַרימטן טשילי בשעת איר קאָכט עס.
+8. **די צײַטונג.** די Alzheimer's Association באַמערקט, אַז אַ מענטש װאָס האָט תמיד געלײענט די צײַטונג קען נאָך פֿרײַט האָבן דערפֿון, אַפֿילו װען ער קען נישט גאַנץ נאָכפֿאָלגן דעם אינהאַלט. קאַװע און צײַטונג קענען בלײַבן אַ טייל פֿון דעם מאָרגן.
+9. **בױען.** גרױסע-שטיקל מאָדעל-סעטן אָדער פּשוטע בױ-סעטן פֿאַר דערװאַקסענע. קלײַבט שטיקלעך װאָס זענען לײכט צו האַלטן.
+10. **זאָרגן פֿאַר עפּעס.** פֿיטערן אַ בהמה, אָנפֿילן דעם פֿויגל-פֿיטער, אָדער באַװאַסערן פֿלאַנצן. די NIA רעקאָמענדירט [פֿיטערן, שטרײכלען אָדער שפּאַצירן מיט אַ חיה](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) צווישן אַקטיװיטעטן װאָס מענטשן קענען פֿאַרגעניגן.
 
-## How do I offer an activity without it feeling like busywork?
+## װי צו געבן אַ אַקטיװיטעט אָן אַ געפֿיל פֿון אומנייטיקע אַרבעט?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+שטעלט עס װי אמתע הילף. די Alzheimer's Association רעקאָמענדירט צו פֿרעגן „קענסטו מיר העלפֿן?“ און צו פֿאַרבינדן די אַרבעט מיט אַ ציל. פֿאַרגלײַכט:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „װילסטו די שרויבן זאָרטירן?“ (קלינגט װי אַ פּרוּװ)
+- „איך האָב געקױפֿט אַ געמישטע פּאַק פֿון האַרטװאַרג און איך דאַרף זיי זאָרטירט פֿאַר איך פֿיקס דעם פּאָליצע. קענסטו מיר אַ האַנט געבן?“ (קלינגט װי אַ אַרבעט)
 
-Other tips:
+אַנדערע טיפּס:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **ניצט דערװאַקסענע מאַטעריאַלן.** אמתע געצײַג מיט אַראָפּגענומענע שאַרפֿע ראַנדן, אמתע קאַטאַלאָגן, אמתע קוװערטן.
+- **אַרבעט צוזאַמען.** צװײ מענטשן װאָס אַרבעטן ביי אַ זאַך זענען חבֿרותא. איינער װאָס קוקט אויף אַן אַנדערן איז אויפֿזיכט.
+- **קריטיקירט נישט.** אויב די שרויבן קומען אין דער פֿאַלשער טעפּ, לאָזט עס זײַן. דאָס װאָס צײלט איז די צײַט צוזאַמען און דאָס געפֿיל פֿון נוצלעכקייט.
+- **העלפֿט אים אָנהײבן.** די Alzheimer's Association באַמערקט, אַז פֿיל מענטשן האָבן נאָך אַ בענקען צו טאָן זאַכן, אָבער זײ קענען שװער אָרגאַניזירן און אָנהײבן. טוט דעם ערשטן שטאַפּל צוזאַמען.
 
-## How do I adapt as things change?
+## װי צו אַדזשוסטירן ווען ס׳ענדערט זיך
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+ווי דעמענץ פּראָגרעסירט, רעקאָמענדירט די Alzheimer's Association צו געבן פּשוטערע, מער װידערהאָלטיקע אַרבעטן און צו זײַן גרײט, אַז דער מענטש װעט נעמען אַ פּאַסיװערע ראָלע. אַ מאַן װאָס האָט אַ מאָל אָפּגעבויט מאָטאָרן קען איצט פֿרײַט האָבן אויף אַ ריין שרויבנשליסל אין דער האַנט און רעדן װעגן אויטאָס, אָדער זען װי איר אַרבעט. זיך אָנקוקן איז אויך אַ חלק פֿון דער אַקטיװיטעט.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+אויב ער איז געװען זייער געשיקט אין עפּעס, קען אַ פֿאַרבונדענע אַקטיװיטעט פֿילן זיך בעסער װי זײַן אַלטע מלאכה. די Association באַמערקט, אַז אַ פּראָפֿעסיאָנעלער קינסטלער קען זיך אומגעדולדיק פֿילן װעגן ענדערונגען אין זײַן אַרבעט, בעת אַ אַמאַטיור קען פֿרײַט האָבן פֿון אַ נײַער אַרויסװעג. דאָס זעלבע איז װאָר װעגן אַ מײַסטער-ציימער.
 
-## Safety with work-style tasks
+## זיכערקייט בײַ אַרבעט-שטײַגער אַקטיװיטעטן
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- נעמט אַװעק עלעקטרישע געצײַג, מעסערס, נעגל און שרויבן מיט שאַרפֿע ענדער.
+- שליסט אײַן פֿאַרב-פֿאַרדינער, בענזין און כעמיקאַלן.
+- האַלט אויטאָ-שליסל פֿון די אויגן אַװעק, אויב ער פֿאָרט נישט מער.
+- קוקט אויף אַלע אַרבעטן אין װערקשטאַט און הויף.
+- קלײַבט גרױסע שטיקלעך װאָס קענען נישט פֿאַרשלונגען װערן.
 
-## What if he says no?
+## װאָס אויב ער זאָגט ניין?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+רעספּעקטירט עס. אַ ניין קען מיינען, אַז די אַרבעט דוכט זיך צו שװער, צו קינדיש, אָדער נישט ריכטיק הײַנט. די Alzheimer's Association װאָרנט נישט צו צװינגען עס. פּרוּװט אַן אַנדער אַרבעט, אַן אַנדער צײַט, אָדער זיצט בלױז צוזאַמען. זעט [װאָס צו טאָן װען זיי זאָגן ניין](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## שפּילן און שמועס װאָס פּאַסן
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) ניצט באַקאַנטע אַמעריקאַנישע ספֿורים און פֿירט צו אַ שמועס. [Conversation Cards](/games/conversation-cards/) האָט אָפֿענע פֿראַגעס אָן קװיז, לויט טעמע, װאָס קענען עפֿענען געשיכטעס װעגן אַרבעט און האָבִיס. [Picture Puzzle](/games/picture-puzzle/) האַלט דאָס גאַנצע בילד סײַ־װי־סײַ קענטיק בשעת איר צאַפּלט שטיקלעך, און די גרױסע-דרוק [Word Search](/games/word-search/) קען אױסגעדרוקט װערן און געמאַכט מיט אַ פּען אויפֿן קיך-טיש. פֿאַר װעגן צו רעדן װעגן זײַן פֿאַרגאַנגענהייט אָן אים צו טעסטן, זעט אונדזער [רעמיניסצענץ-פֿירער](/activities/reminiscence/).

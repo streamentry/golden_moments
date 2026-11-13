@@ -1,34 +1,33 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා ටැබ්ලට් හෝ දුරකථනයක් සැකසීම"
+seoTitle: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා ටැබ්ලට් හෝ දුරකථනය සකස් කරන්න"
+description: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා ටැබ්ලට් හෝ දුරකථන සැකසීම: එක් යෙදුමකට අගුළු, විශාල අකුරු, අඩු දැනුම්දීම්, සරල මුල් තිරය සහ හඬ."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  උපකරණය භාර දීමට පෙර එය සරල කරන්න. iPad සහ iPhone මත Guided Access හෝ Android මත app
+  pinning භාවිතයෙන් එක් යෙදුමකට අගුළු දමන්න, නැතහොත් සරල පිරිසැලසුමක් සඳහා Apple හි
+  Assistive Access භාවිතා කරන්න. අකුරු විශාල කරන්න, දැනුම්දීම් නිහඬ කරන්න, මුල් තිරයේ
+  හුරුපුරුදු යෙදුම් කිහිපයක් පමණක් තබන්න, හඬ සකස් කරන්න, ස්ථාවරයක් භාවිතා කරන්න, සහ
+  යෙදුම් අවසර සීමා කරන්න. එය එකට භාවිතා කරන්න, තිර රහිත ක්‍රියාකාරකම් සමඟ.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) සහ app pinning (Android) ඔබ අගුළු ඇරීම දක්වා තිරය එක් යෙදුමක තබා ගනී."
+  - "Apple හි Assistive Access සංජානන අක්‍රියතා ඇති අයට නිර්මාණය කළ සරල පිරිසැලසුමක් ලබා දේ."
+  - "අකුරු විශාල කර දැනුම්දීම් සහ උත්පතන නිවා දමන්න, එවිට කිසිවක් බාධා නොකරයි හෝ ව්‍යාකූල නොකරයි."
+  - "හුරුපුරුදු යෙදුම් කිහිපයක් පමණක් එක් මුල් තිරයක තබා, ආරම්භ කිරීමට පෙර හඬ සකස් කරන්න."
+  - "ස්ථාවරයක් සහ කවදාවත් නොගෙන යන ආරෝපණ ස්ථානයක් උපකරණය භාවිතා කිරීමට සහ සොයා ගැනීමට පහසු කරයි."
+  - "යෙදුම් අවසර සහ දත්ත බෙදා ගැනීම සමාලෝචනය කරන්න: HIPAA සාමාන්‍යයෙන් පුද්ගලික උපකරණයක ගබඩා වන දේ ආරක්ෂා නොකරයි."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "iPad එකේ ඩිමෙන්ශියා ඇති කෙනෙකු යෙදුමෙන් පිටව යාම නවතා ගන්නේ කෙසේද?"
+    a: "Settings > Accessibility > Guided Access යටතේ Guided Access ක්‍රියාත්මක කර මුරපදයක් සකසන්න. යෙදුම විවෘත කර, ඉහළ බොත්තම (පැරණි iPad වලදී Home බොත්තම) තුන් වරක් ඔබන්න, ඉන්පසු Start තට්ටු කරන්න. මුරපදය ඇතුළු කරන තෙක් iPad එම යෙදුමේම රැඳී සිටී."
+  - q: "Android ටැබ්ලට් එකක් එක් යෙදුමකට අගුළු දමන්නේ කෙසේද?"
+    a: "Settings යෙදුමේ app pinning ක්‍රියාත්මක කරන්න, සාමාන්‍යයෙන් Security (සමහර විට Security & location) > Advanced > App pinning යටතේ. ඉන්පසු යෙදුම විවෘත කර, Overview විවෘත කර, ඉහළ ඇති යෙදුමේ අයිකනය තට්ටු කර Pin තට්ටු කරන්න. අගුළු ඇරීමට ඔබේ PIN, රටාව හෝ මුරපදය අවශ්‍යයි."
+  - q: "පුද්ගලයාගේම දුරකථනයේ Guided Access භාවිතා කිරීම ආරක්ෂිතද?"
+    a: "ප්‍රවේශමෙන් වන්න. Apple පවසන්නේ Guided Access ක්‍රියාත්මක වන අතරතුර Crash Detection සහ Emergency Services ලබා ගත නොහැකි බවයි. පුද්ගලයා හදිසි ඇමතුම් සඳහා තම දුරකථනය මත රඳා සිටීනම්, ඔබ ඔවුන් සමඟ සිටින අවස්ථාවන්හි පමණක් Guided Access භාවිතා කරන්න, නැතහොත් ඒ වෙනුවට Assistive Access සලකා බලන්න."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා තිර කාලය කොපමණ ප්‍රමාණවත්ද?"
+    a: "නියම අංකයක් නැත. කෙටි, එකට භාවිතා කළ සැසි, ඇවිදීම, සංගීතය, කාර්යන් සහ සංවාදය සමඟ මිශ්‍ර කළ විට, තනිව තිරය ඉදිරියේ දිගු වේලාවක් ගත කිරීමට වඩා පූර්ණ දිනයක් ලබා දෙයි. උපකරණය කලකිරීමක් ඇති කරන්නේ නම් හෝ අනෙක් ක්‍රියාකාරකම් ඉවත් කරන්නේ නම්, එය අඩුවෙන් භාවිතා කරන්න."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +64,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+ටැබ්ලට් එකක් ඡායාරූප, සංගීතය සහ සරල ක්‍රීඩා බෙදා ගැනීමට ප්‍රියජනක ක්‍රමයක් විය හැකිය. එය ව්‍යාකූල කරන්නද පුළුවන්: වැරදි තට්ටුවකින් වෙනත් යෙදුමක් විවෘත වේ, දැනුම්දීමක් උත්පතනය වේ, අකුරු ඉතා කුඩා වේ, හෝ ක්‍රීඩාවක් මැද තිරය අඳුරු වේ. ඔබේ පැත්තෙන් ටිකක් සැකසීමෙන් බොහෝ ගැටලු විසඳේ.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+මේ පියවර iPhone, iPad සහ Android හි ඇති ගොඩනගා ඇති සැකසුම් භාවිතා කරයි. මෙනුවල නම් software අනුවාද සහ උපකරණ නිෂ්පාදකයින් අනුව වෙනස් විය හැක, එබැවින් යමක් වෙනස්ව පෙනුණොත්, ඔබේ උපකරණය සඳහා සම්බන්ධිත Apple හෝ Google පිටුව අනුගමනය කරන්න. එකට වාඩි වීමට පෙර සැකසුම ඔබම කරන්න.
 
-## Should someone with dementia use a tablet or phone?
+## ඩිමෙන්ශියා ඇති කෙනෙක් ටැබ්ලට් හෝ දුරකථනය භාවිතා කළ යුතුද?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+ඒක පුද්ගලයා මත රඳා පවතී. බොහෝ අය තමන්ම තනිව කළ නොහැකි වුවත්, අසල කෙනෙකු සිටින විට ටැබ්ලට් එකක් භාවිතා කිරීමට ප්‍රිය කරති. එකට භාවිතා කරන්න, යෙදුමක් පමණක් විවෘතව, මිනිත්තු කිහිපයක් සඳහා මුලින් ආරම්භ කරන්න. එයින් සතුට සහ සංවාදය ලැබේ නම්, දිගටම කරගෙන යන්න. ව්‍යාකූලත්වය හෝ කලකිරීම ඇති කරන්නේ නම්, ඡායාරූප ඇල්බමයක්, මුද්‍රිත පිටු හෝ සංගීතය ඔවුන්ට වඩාත් ගැළපිය හැකිය. අපේ [printable activities](/activities/printable/) එක් විකල්පයකි.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+ටැබ්ලට් එකක් සාමාන්‍යයෙන් දුරකථනයකට වඩා පහසුය: තිරය සහ පින්තූර විශාලය, සහ එය පුද්ගලයාගේ හදිසි ඇමතුම් ජීවනාධාරය නොවේ.
 
-## How do I lock a tablet or phone to one app?
+## ටැබ්ලට් හෝ දුරකථනය එක් යෙදුමකට අගුළු දමන්නේ කෙසේද?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+iPhone සහ iPad මත Guided Access, හෝ Android මත app pinning භාවිතා කරන්න. දෙකම කේතයක් ඇතුළු කරන තෙක් තිරය එක් යෙදුමක තබා ගන්නා බැවින්, වැරදි ස්පර්ශයක් හෝ ස්වයිප් එකක් වෙනත් යමක් විවෘත කළ නොහැක.
 
-### iPad and iPhone: Guided Access
+### iPad සහ iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple හි Guided Access උපදෙස්](https://support.apple.com/en-us/111795) වලින්:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. **Settings** විවෘත කර, **Accessibility** තට්ටු කර, ඉන්පසු **Guided Access** තට්ටු කර එය ක්‍රියාත්මක කරන්න.
+2. **Passcode Settings** යටතේ, Guided Access මුරපදයක් සකසන්න. Face ID හෝ Touch ID ද ඉඩ දිය හැකිය.
+3. විකල්පයයි: **Display Auto-Lock** යටතේ, සැසිය අතරතුර තිරය කෙතරම් ඉක්මනින් අගුළු වේද තෝරන්න, එවිට ක්‍රීඩාවක් මැද තිරය අඳුරු නොවේ.
+4. ඔබට භාවිතා කිරීමට අවශ්‍ය යෙදුම විවෘත කරන්න.
+5. පාර්ශ්වික බොත්තම (iPhone), ඉහළ බොත්තම (iPad), හෝ පැරණි උපාංගවල Home බොත්තම තුන් වරක් ඔබන්න.
+6. විකල්පයයි: ස්පර්ශයට ප්‍රතිචාර නොදැක්විය යුතු තිරයේ කොටස් වට කරන්න. ශබ්ද බොත්තම් හෝ තිරය භ්‍රමණය වීම නවතා දැමීමට **Options** (හෝ **Session Settings**) තට්ටු කරන්න.
+7. **Start** තට්ටු කරන්න.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+සැසිය අවසන් කිරීමට, එම බොත්තම නැවත තුන් වරක් ඔබා, මුරපදය ඇතුළු කර, **End** තට්ටු කරන්න. සමහර පැරණි software අනුවාදවල ඔබ දෙවරක් ඔබන්න ඕනෑ බව Apple සටහන් කරයි.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**වැදගත්:** Apple පවසන්නේ Guided Access සැසියක් අතරතුර Crash Detection සහ Emergency Services ලබා ගත නොහැකි බවයි. පුද්ගලයාට හදිසි ඇමතුම් අවශ්‍ය විය හැකි දුරකථනයක Guided Access ක්‍රියාත්මකව නොතබන්න.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google හි Android තිර pinning උපදෙස්](https://support.google.com/android/answer/9455138?hl=en) වලින්:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. **Settings** යෙදුම විවෘත කරන්න.
+2. **Security** (හෝ **Security & location**) තට්ටු කර, ඉන්පසු **Advanced**, ඉන්පසු **App pinning** තට්ටු කරන්න. එය සොයාගත නොහැකි නම්, ඔබේ උපකරණ නිෂ්පාදකයාගේ උදව් පිටු පරීක්ෂා කරන්න.
+3. **App pinning** ක්‍රියාත්මක කරන්න. අගුළු ඇරීමට ඔබේ PIN, රටාව හෝ මුරපදය අවශ්‍ය වේ.
+4. ඔබට අවශ්‍ය යෙදුම විවෘත කරන්න. තිරයේ මැද දක්වා ඉහළට ස්වයිප් කර අල්ලා ගෙන Overview විවෘත කරන්න (නැතහොත් 3-button navigation සමඟ Overview තට්ටු කරන්න).
+5. යෙදුම් පෙරදසුනේ ඉහළින්, යෙදුමේ අයිකනය තට්ටු කර, ඉන්පසු **Pin** තට්ටු කරන්න.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Gesture navigation සමඟ අගුළු ඇරීමට, ඉහළට ස්වයිප් කර අල්ලා ගන්න. 3-button navigation සමඟ, Back සහ Overview දෙකම ස්පර්ශ කර අල්ලා ගන්න. 2-button navigation සමඟ, Back සහ Home දෙකම ස්පර්ශ කර අල්ලා ගන්න. ඉන්පසු ඔබේ PIN, රටාව හෝ මුරපදය ඇතුළු කරන්න.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## සම්පූර්ණ iPhone හෝ iPad සඳහා සරල මාදිලියක් තිබේද?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+ඔව්. Apple හි Assistive Access සාමාන්‍ය මුල් තිරය සරල එකකින් ප්‍රතිස්ථාපනය කරයි. [Apple එය විස්තර කරන්නේ](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) සංජානන අක්‍රියතා ඇති අයට iPhone ස්වාධීනව භාවිතා කිරීම පහසු කිරීමට නිර්මාණය කළ ලෙසය, විශාල තිර අයිතම සහ වඩාත් නාභිගත විශේෂාංග සමඟ. Apple [එම විශේෂාංගයම iPad මත](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) ද ලබා දෙයි.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **කව සකසන්නේද.** Apple යෝජනා කරන්නේ පුද්ගලයා දන්නා පවුලේ සාමාජිකයෙකු හෝ රැකබලා ගන්නෙකු වැනි විශ්වාසදායක සහායකයෙකු යෙදුම් සහ විශේෂාංග තේරීමට උදව් කරන ලෙසයි.
+- **කොතැනින් ආරම්භ කරන්නද.** **Settings > Accessibility > Assistive Access** වෙත ගොස්, **Set Up Assistive Access** තට්ටු කර, ඉන්පසු **Continue** තට්ටු කරන්න.
+- **යෙදුම්.** කුමන යෙදුම් පෙන්විය යුතුද ඔබ තෝරයි. Apple යෙදුම් සමහරකට සරල අනුවාද ඇත, සහ වෙනත් බොහෝ යෙදුම් ඒවායේ සාමාන්‍ය නිර්මාණයෙන් එකතු කළ හැකිය.
+- **පිරිසැලසුම.** **Rows** (කියවීමට පහසු ලැයිස්තුවක්) හෝ **Grid** (පින්තූර සහ අයිකන අවධාරණය කරන විශාල අයිතම) තෝරන්න.
+- **මුරපදය.** ඇතුළු වීමට, පිටවීමට හෝ සැකසුම් වෙනස් කිරීමට ඔබ වෙනම Assistive Access මුරපදයක් සකසයි. මුරපදය අමතක වුවහොත් උපකරණය යළි සකසීමට සිදුවන නිසා, සැකසීමේදී යථා ගිණුමක් ඇති කර ගැනීමට Apple නිර්දේශ කරයි.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ඔවුන් දිනපතා තමන්ගේම උපකරණය භාවිතා කරන කෙනෙකුට ගැළපිය හැකිය. එකට ක්‍රීඩා සැසියක් සඳහා Guided Access හෝ app pinning වේගවත්ය.
 
-## How do I make text and pictures bigger?
+## අකුරු සහ පින්තූර විශාල කරන්නේ කෙසේද?
 
-Increase the text and display size, then check that buttons still fit on screen.
+පෙළ සහ තිර ප්‍රමාණය වැඩි කර, බොත්තම් තවමත් තිරයට ගැළපේදැයි පරීක්ෂා කරන්න.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone සහ iPad.** [Apple හි අකුරු ප්‍රමාණ උපදෙස්](https://support.apple.com/en-us/102453) වලට අනුව, **Settings > Display & Brightness > Text Size** වෙත ගොස් ස්ලයිඩරය ඇද දමන්න. වඩාත් විශාල අකුරු සඳහා, **Settings > Accessibility > Display & Text Size > Larger Text** වෙත යන්න. ඉතා විශාල අකුරු සමහර බොත්තම් තට්ටු කිරීමට අපහසු කළ හැකි බව Apple සටහන් කරයි, එබැවින් අවශ්‍ය නම් සකසන්න.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google හි පෙළ සහ තිර සැකසුම් උදව්](https://support.google.com/accessibility/android/answer/11183305?hl=en) වලට අනුව, **Settings** විවෘත කර **Font size** සොයා ස්ලයිඩරය ගෙනයන්න. තිරයේ සියල්ල විශාල කිරීමට **Display size** සොයන්න. **Accessibility > Display size and text** යටතේ **Bold text** ද ක්‍රියාත්මක කළ හැක. සමහර යෙදුම් මෙම සැකසුම් අනුගමනය නොකරයි.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Picture Pairs](/games/picture-pairs/) සහ [Find the Same](/games/find-the-same/) වැනි ක්‍රීඩාවල, අඩු ටයිල් හෝ තේරීම් තෝරා ගත හැකි අතර, එය තිරය මත සරල කරයි.
 
-## How do I stop notifications and pop-ups?
+## දැනුම්දීම් සහ උත්පතන නවත්වන්නේ කෙසේද?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+ඔබට අවශ්‍ය නැති යෙදුම් සඳහා දැනුම්දීම් නිවා දමන්න, ක්‍රියාකාරකම් අතරතුර Do Not Disturb භාවිතා කරන්න.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone සහ iPad.** **Settings > Notifications** වෙත ගොස්, **Notification Style** යටතේ යෙදුමක් තට්ටු කර, **Allow Notifications** නිවා දමන්න ([Apple හි දැනුම්දීම් සැකසුම් මාර්ගෝපදේශය](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). කුඩා වේලාවක් සඳහා ඇමතුම්, අනතුරු ඇඟවීම් සහ දැනුම්දීම් නිහඬ කිරීමට, Control Center විවෘත කර **Focus** බොත්තමෙන් **Do Not Disturb** ක්‍රියාත්මක කරන්න ([Apple හි Do Not Disturb උදව්](https://support.apple.com/en-us/105112)). එය **Settings > Focus > Do Not Disturb > Set a Schedule** යටතේ කාලසටහන් කළ හැකිය.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** තිරයේ ඉහළ සිට පහළට ස්වයිප් කර **Do Not Disturb** තට්ටු කරන්න, හෝ **Settings > Modes > Do Not Disturb** වෙත යන්න ([Google හි Do Not Disturb උදව්](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** යටතේ කවුරුන්ට සහ කුමන යෙදුම්වලට තවමත් ළඟා විය හැකිද තෝරා ගත හැක. සැකසුම් උපකරණ නිෂ්පාදකයා අනුව වෙනස් වේ.
 
-## How do I make a simple home screen?
+## සරල මුල් තිරයක් සාදන්නේ කෙසේද?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+හුරුපුරුදු යෙදුම් කිහිපයක් එක් තිරයක තබා, අනෙක් ඒවා දෘෂ්ටියෙන් ඉවතට ගෙන යන්න. මේ සඳහා එක් සැකසුමක් නැත; එය අවුල් දේ ඉවත් කිරීම ගැනය.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **යෙදුම් තුනක් සිට හයක් දක්වා තෝරන්න.** උදාහරණයක් ලෙස, ඡායාරූප, සංගීතය, වීඩියෝ ඇමතුම් යෙදුමක් සහ ක්‍රීඩාවක් එක්.
+- **පළමු තිරයේ, සෑම විටම එකම ස්ථානවල තබන්න,** සහ අනෙක් සියල්ල දෙවන තිරයකට හෝ ෆෝල්ඩරයකට ගෙන යන්න.
+- **සරල, ඉහළ-වෙනස්කම් සහිත පසුබිමක්** භාවිතා කරන්න, උදාහරණයක් ලෙස එක් වර්ණයක් හෝ එක් හුරුපුරුදු ඡායාරූපයක්, අයිකන වෙන්ව පෙනෙන පරිදි.
+- **ඔබට අවශ්‍ය නැති යෙදුම් මකන්න.** අඩු යෙදුම් අඩු ව්‍යාකූලත්වයකට සහ අඩු දත්ත එකතු වීමකට අර්ථ දේ.
+- **Apple උපාංග සඳහා,** උපාංගය එය ඔබ වෙනුවෙන් කිරීමට අවශ්‍ය නම් **Assistive Access** සලකා බලන්න.
 
-## What about volume and sound?
+## හඬ සහ ශබ්දය ගැන කුමක්ද?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+උපකරණය භාර දීමට පෙර සුවපහසු හඬ මට්ටමක් සකසන්න. Guided Access සමඟ, ක්‍රියාකාරකම මැද හඬ වෙනස් නොවීමට ශබ්ද බොත්තම් ඔබට නිවා දැමිය හැකිය. ශ්‍රවණ උපකරණ ඇතුළත් කර ක්‍රියාත්මකව ඇති බවත් පරීක්ෂා කරන්න.
 
-## Where should the tablet live?
+## ටැබ්ලට් එක තැබිය යුත්තේ කොහේද?
 
-Give it a stand and a permanent charging spot.
+එයට ස්ථාවරයක් සහ ස්ථිර ආරෝපණ ස්ථානයක් ලබා දෙන්න.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **ස්ථාවරයක් හෝ ආවරණයක්** මේසය මත ටැබ්ලට් එක සිරස්ව තබා ගන්නා අතර, කිසිවෙක් එය අතින් තබා ගැනීමට අවශ්‍ය නොවේ, සහ දෙස් දැකීම පහසුය.
+- **එක් ආරෝපණ ස්ථානයක්** කවදාවත් නොගෙන යන, ප්‍රධාන වශයෙන් නිතර භාවිතා කරන කාමරයක මේසයක ආරෝපණ ස්ථානයක්. ටැබ්ලට් එක සැමවිටම ආරෝපණය වී, සැමවිටම එකම ස්ථානයේ පවතී.
+- **දීප්තිය අඩු කරන්න.** තිරය දීප්තිමත් ජනේලයකින් ඈතට තබන්න.
 
-## How much screen time is okay?
+## තිර කාලය කොපමණ ප්‍රමාණවත්ද?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+නිශ්චිත මිනිත්තු ගණනක් නැත. ඇවිදීම, සංගීතය, ගෘහ කාර්යන්, සංවාදය සහ පිටත කාලය ඇතුළත් සම්පූර්ණ දිනයක කොටසක් ලෙස කෙටි, එකට භාවිතා කළ සැසි අරමුණු කරන්න. රාත්‍රී කාර්යබහුල වේලා සවස් වේලාවේ නොසන්සුන්තාවට එකතු විය හැකි බැවින්, තිර ක්‍රියාකාරකම් දිනයේ මුල් කොටසට සීමා කිරීම සලකා බලන්න. [සවස් වේලාවේ සන්සුන් ක්‍රියාකාරකම්](/caregiving/late-day-restlessness/) බලන්න.
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+ටැබ්ලට් එක එකට භාවිතා කිරීම, බාල රැකවරණයක් ලෙස නොව, එය සමාජීය ලෙස තබා ගනී. [එකට ක්‍රීඩා කිරීම](/caregiving/how-to-play-together/) ගැන අපේ මාර්ගෝපදේශය එය පැහැදිලි කරයි.
 
-## How do I protect their privacy on the device?
+## උපකරණයේ ඔවුන්ගේ රහස්‍යතාව ආරක්ෂා කරන්නේ කෙසේද?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+යෙදුම් එකතු කළ හැකි දේ සීමා කරන්න, සහ සෞඛ්‍ය රහස්‍යතා නීතිය එයට ආවරණය වන්නේය යැයි උපකල්පනය නොකරන්න. U.S. Department of Health and Human Services (HHS) [පැහැදිලි කරන්නේ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA නීති සාමාන්‍යයෙන් පුද්ගලික දුරකථන සහ ටැබ්ලට් මත ගබඩා වන හෝ ඒවා හරහා ප්‍රවේශ වන සෞඛ්‍ය තොරතුරු ආරක්ෂා නොකරන බවයි. බොහෝ අවස්ථාවන්හි, පුද්ගලික භාවිතය සඳහා යෙදුම්වලට ඇතුළත් කරන දත්ත, යෙදුම ආවරණය වූ සෞඛ්‍ය සේවා සපයන්නෙකුගෙන්, සෞඛ්‍ය සැලැස්මකින් හෝ ඔවුන්ගේ ව්‍යාපාර හවුල්කරුවෙකුගෙන් නොවන්නේ නම්, HIPAA ද ආරක්ෂා නොකරයි.
 
-HHS suggests:
+HHS යෝජනා කරන්නේ:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- අනවශ්‍ය හෝ අහඹු යෙදුම් වළක්වා ගන්න, විශේෂයෙන් “නොමිලේ” ඒවා;
+- ස්ථානය සඳහා යෙදුම්වලට ප්‍රවේශය ලබා නොදෙන්න, ඒවාට ඇත්තටම අවශ්‍ය නොවන්නේ නම්, උදාහරණයක් ලෙස සිතියම් වැනි.
 
-Also consider:
+තවද සලකා බලන්න:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **උපකරණයේ මුරපදයක් භාවිතා කරන්න,** සහ එය ආරක්ෂිත තැනක සටහන් කර තබා ගන්න.
+- **ඡායාරූප, කැමරාව, මයික්‍රෆෝනය, සම්බන්ධතා සහ ස්ථානය සඳහා අවසර සමාලෝචනය කර,** යෙදුමට අවශ්‍ය නොවන ඒවා නිවා දමන්න.
+- **ස්ථාපනය කිරීමට පෙර යෙදුමක් රැස් කරන දේ පරීක්ෂා කරන්න.** අපේ [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) මාර්ගෝපදේශයේ රහස්‍යතා ලැයිස්තුවක් ඇත.
+- **පවුලේ ඡායාරූප ගැන පරිස්සම් වන්න.** පුද්ගලයා සුවපහසු ඡායාරූප පමණක් බෙදා ගන්න, සහ යෙදුම ඒවා ගබඩා කරන ස්ථානය දන්න. [Photo Pairs](/games/photo-pairs/) හි, ඔබ තෝරන ඡායාරූප ඔබේ බ්‍රවුසරයේ පවතී.
+- **පරිශීලක ගිණුම්වල ඇතුළත මිලදී ගැනීම් නිවා දමන්න** හෝ පුද්ගලයා භාවිතා කරන ගිණුම්වලින් ගෙවීම් තොරතුරු ඉවත් කරන්න.

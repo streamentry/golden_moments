@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "ການໄປຢ້ຽມຢາມຄົນທີ່ມີໂຣກສະໝອງເສື່ອມໃນສູນດູແລຄວາມຈຳ ຫຼື ໂຮງໝໍ"
+seoTitle: "ການໄປຢ້ຽມຢາມຄົນທີ່ມີໂຣກສະໝອງເສື່ອມ: ຄວນເຮັດຫຍັງ ແລະ ນຳຫຍັງໄປ"
+description: "ຄວນເຮັດຫຍັງເວລາໄປຢ້ຽມຢາມຄົນທີ່ມີໂຣກສະໝອງເສື່ອມໃນສູນດູແລຄວາມຈຳ ບ້ານພັກຄົນສູງອາຍຸ ຫຼື ໂຮງໝໍ ນຳຫຍັງໄປ ກິດຈະກຳງ່າຍໆ ແລະ ການລາກັນ."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  ເວລາໄປຢ້ຽມຢາມຄົນທີ່ມີໂຣກສະໝອງເສື່ອມໃນສູນດູແລຄວາມຈຳ ຫຼື ໂຮງໝໍ ໃຫ້ເຮັດໃຫ້ມັນງ່າຍ: ບອກຊື່ຂອງທ່ານເມື່ອມາຮອດ ນຳບາງຢ່າງໄປແບ່ງປັນ ເຊັ່ນ ຮູບ ດົນຕີ ຫຼື ຂອງວ່າງທີ່ມັກ ແລະ ເຮັດກິດຈະກຳງ່າຍໆນຳກັນໜຶ່ງຢ່າງ. ການມາຢ້ຽມສັ້ນໆ ແລະ ສະໝ່ຳສະເໝີ ມັກໄດ້ຜົນດີກວ່າການມານານໆ ແຕ່ນານໆຄັ້ງ. ວາງແຜນການລາທີ່ສະຫງົບ ແລະ ສະໝ່ຳສະເໝີ ເພື່ອໃຫ້ການຈາກກັນງ່າຍຂຶ້ນສຳລັບທັງສອງຝ່າຍ.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "ທັກທາຍຜູ້ນັ້ນດ້ວຍຊື່ ແລະ ບອກວ່າທ່ານແມ່ນໃຜ ເພື່ອໃຫ້ເຂົາບໍ່ຕ້ອງຄິດເອງ: “ສະບາຍດີແມ່, ລູກສາວ Susan ມາແລ້ວ.”"
+  - "ນຳໜຶ່ງຫຼືສອງຢ່າງໄປແບ່ງປັນ ເຊັ່ນ ອະລະບັ້ມຮູບ ເພງທີ່ມັກ ຜ້າຫົ່ມນຸ່ມ ຫຼື ຂອງວ່າງທີ່ພະນັກງານອະນຸມັດແລ້ວ."
+  - "ການມາຢ້ຽມສັ້ນໆ ແລະ ສະໝ່ຳສະເໝີ ມັກດີກວ່າການມານານໆ ແຕ່ບໍ່ຄ່ອຍມາ. ການມີຢູ່ຂອງທ່ານສຳຄັນກວ່າສິ່ງທີ່ທ່ານເວົ້າ."
+  - "ຢູ່ໂຮງໝໍ ໃຫ້ເອກະສານໜຶ່ງໜ້າກ່ຽວກັບຜູ້ນັ້ນແກ່ພະນັກງານ ແລະ ແຈ້ງໝໍທັນທີກ່ຽວກັບການປ່ຽນແປງກະທັນຫັນ."
+  - "ວາງແຜນການອອກຈາກ: ບອກວ່າທ່ານຢູ່ໄດ້ດົນປານໃດ ໃຊ້ຄຳລາແບບດຽວກັນທຸກຄັ້ງ ແລະ ອອກໄປໂດຍບໍ່ຢູ່ຊັກຊ້າ."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "ເວລາໄປຢ້ຽມຄົນທີ່ມີໂຣກສະໝອງເສື່ອມ ຄວນນຳຫຍັງໄປ?"
+    a: "ນຳບາງຢ່າງໄປແບ່ງປັນ ຫຼາຍກວ່າສິ່ງທີ່ຕ້ອງເວົ້າເຖິງ. ອະລະບັ້ມຮູບນ້ອຍ ລາຍຊື່ເພງທີ່ມັກ ຜ້າຫົ່ມນຸ່ມ ຢາທາມືທີ່ໃຫ້ຄວາມຊຸ່ມ ນິຕະຍະສານກ່ຽວກັບວຽກອະດິເລກເກົ່າ ຫຼື ຂອງວ່າງທີ່ພະນັກງານອະນຸມັດ ລ້ວນໃຊ້ໄດ້ດີ. ໃນສູນດູແລ ຮູບຄອບຄົວ ແລະ ຂອງທີ່ຄຸ້ນເຄີຍຍັງຊ່ວຍໃຫ້ຫ້ອງຮູ້ສຶກຄືບ້ານໄດ້ອີກ."
+  - q: "ເວລາໄປຢ້ຽມຄົນທີ່ມີໂຣກສະໝອງເສື່ອມ ຄວນຢູ່ດົນປານໃດ?"
+    a: "ບໍ່ມີຄວາມຍາວທີ່ຖືກຕ້ອງ. ຫຼາຍຄອບຄົວພົບວ່າການມາສັ້ນໆ ແລະ ເລື້ອຍໆ ໄດ້ຜົນດີກວ່າການມານານໆ ແຕ່ບໍ່ຄ່ອຍມາ ເພາະຜູ້ນັ້ນອາດເມື່ອຍໄວ ແລະ ອາດຈື່ບໍ່ໄດ້ວ່າທ່ານຢູ່ດົນປານໃດ. ສັງເກດສັນຍານຄວາມເມື່ອຍ ແລະ ອອກໄປໃນຂະນະທີ່ການມາຢ້ຽມຍັງຮູ້ສຶກດີຢູ່."
+  - q: "ເມື່ອເຂົາຂໍກັບບ້ານ ຈະເວົ້າຫຍັງ?"
+    a: "ຕອບຕໍ່ຄວາມຮູ້ສຶກ ບໍ່ແມ່ນຖ້ອຍຄຳ. “ຢາກກັບບ້ານ” ມັກໝາຍເຖິງ “ຂ້ອຍບໍ່ສະບາຍໃຈ ຫຼື ບໍ່ປອດໄພ”. ລອງເວົ້າວ່າ “ບອກຂ້ອຍກ່ຽວກັບບ້ານຂອງເຈົ້າແດ່” ເບິ່ງຮູບນຳກັນ ຫຼື ຊວນເດີນ ຫຼື ກິນຂອງວ່າງ. ການໂຕ້ຖຽງ ຫຼື ອະທິບາຍວ່າເປັນຫຍັງຈຶ່ງອອກບໍ່ໄດ້ ມັກເພີ່ມຄວາມທຸກໃຈ."
+  - q: "ຖ້າເຂົາຈຳທ່ານບໍ່ໄດ້ ຈະເຮັດແນວໃດ?"
+    a: "ມັນອາດເຈັບໃຈ ແຕ່ຢ່າພະຍາຍາມແກ້ເຂົາ ຫຼື ຖາມວ່າ “ເຈົ້າບໍ່ຮູ້ວ່າຂ້ອຍແມ່ນໃຜບໍ?”. ແນະນຳຕົວເອງດ້ວຍຄວາມອົບອຸ່ນ ແລະ ເພີດເພີນກັບເວລານຳກັນ. ຫຼາຍຄົນຍັງຊື່ນຊົມການມີໝູ່ ແລະ ຮູ້ສຶກອົບອຸ່ນຈາກການມາຢ້ຽມ ເຖິງແມ່ນຈະບໍ່ສາມາດຈຳໄດ້ວ່າທ່ານແມ່ນໃຜ."
+  - q: "ໃນໄລຍະທີ່ນອນໂຮງໝໍ ຈະຊ່ວຍຫຍັງໄດ້ແດ່?"
+    a: "ຢູ່ກັບຜູ້ນັ້ນເມື່ອເປັນໄປໄດ້ ຊ່ວຍໃຫ້ເຂົາກິນ ແລະ ດື່ມ ແລະ ນຳສິ່ງຂອງທີ່ຄຸ້ນເຄີຍ ເຊັ່ນ ຮູບ. ໃຫ້ພະນັກງານເອກະສານລາຍການປະຈຳວັນ ຊື່ທີ່ເຂົາຢາກໃຫ້ເອີ້ນ ສິ່ງທີ່ມັກ ສິ່ງທີ່ບໍ່ມັກ ແລະ ສັນຍານຂອງຄວາມເຈັບປວດ. ແຈ້ງໝໍທັນທີຖ້າຜູ້ນັ້ນເບິ່ງແຍ່ລົງ ຫຼື ຜິດປົກກະຕິກະທັນຫັນ ເພາະການສັບສົນກະທັນຫັນອາດເປັນສັນຍານຂອງບັນຫາທາງການແພດ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+ການໄປຢ້ຽມຄົນທີ່ທ່ານຮັກໃນສູນດູແລຄວາມຈຳ ບ້ານພັກຄົນສູງອາຍຸ ຫຼື ໂຮງໝໍ ອາດເຮັດໃຫ້ຮູ້ສຶກຫຼາຍຢ່າງ. ທ່ານອາດສົງໄສວ່າຈະເວົ້າຫຍັງ ຈະນຳຫຍັງໄປ ຫຼື ການມາຢ້ຽມມີຄວາມໝາຍບໍ ໃນເມື່ອເຂົາອາດຈື່ບໍ່ໄດ້. ມັນມີຄວາມໝາຍ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ລະບຸວ່າຄົນທີ່ເປັນໂຣກອັລໄຊເມີ[ມັກເພີດເພີນກັບການມີໝູ່](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ເຖິງແມ່ນຈະບໍ່ຈຳໄດ້ວ່າຜູ້ມາຢ້ຽມແມ່ນໃຜ. ໜ້ານີ້ໃຫ້ຂັ້ນຕອນປະຕິບັດສຳລັບກ່ອນ ລະຫວ່າງ ແລະ ຫຼັງການມາຢ້ຽມ ພ້ອມຄຳແນະນຳສະເພາະສຳລັບການນອນໂຮງໝໍ.
 
-## How do I get ready for a visit?
+## ຈະກຽມຕົວສຳລັບການມາຢ້ຽມແນວໃດ?
 
-A little planning makes the visit easier for both of you.
+ການວາງແຜນເລັກນ້ອຍຊ່ວຍໃຫ້ການມາຢ້ຽມງ່າຍຂຶ້ນສຳລັບທັງສອງຝ່າຍ.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **ເລືອກເວລາທີ່ດີ.** Dementia Australia ແນະນຳໃຫ້ມາຢ້ຽມຕອນທີ່ຜູ້ນັ້ນຕື່ນຕົວທີ່ສຸດ ເຊິ່ງສຳລັບຫຼາຍຄົນແມ່ນຕອນເຊົ້າ ຫຼື ປະມານທ່ຽງ. Family Caregiver Alliance ແນະນຳໃຫ້ຮຽນຮູ້ຕາຕະລາງຂອງສູນ ແລະ ມາຢ້ຽມຕອນ[ເວລາຫວ່າງ ບໍ່ແມ່ນເວລາກິດຈະກຳ](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **ປຶກສາພະນັກງານ.** ຖາມວ່າຜູ້ນັ້ນເປັນແນວໃດໃນມື້ນີ້ ແລະ ກວດກົດລະບຽບກ່ຽວກັບອາຫານ ສັດລ້ຽງ ຫຼື ການອອກນອກ.
+- **ກະເປົາຢ້ຽມຂະໜາດນ້ອຍ.** ນຳໜຶ່ງຫຼືສອງຢ່າງໄປແບ່ງປັນກໍພຽງພໍແລ້ວ (ເບິ່ງລາຍການດ້ານລຸ່ມ).
+- **ວາງຫົວຂໍ້ໄວ້ບາງຢ່າງ.** ຜູ້ນັ້ນອາດບໍ່ມີຂ່າວຈະບອກ ດັ່ງນັ້ນນຳຫົວຂໍ້ຂອງທ່ານໄປ: ຂ່າວຄອບຄົວ ອາກາດ ການແຂ່ງບານ ຫຼື ເລື່ອງຕະຫຼົກ.
+- **ກຳນົດຄວາມຄາດຫວັງຂອງທ່ານເອງ.** ບາງເທື່ອການມາຢ້ຽມຈະອົບອຸ່ນ ແລະ ມີການເວົ້າຄຸຍ. ບາງເທື່ອຈະງຽບ ຫຼື ຫຍຸ້ງຍາກ. ທັງສອງແບບເປັນເລື່ອງປົກກະຕິ.
 
-## What should I bring?
+## ຄວນນຳຫຍັງໄປ?
 
-Bring things to share, not things that test. Good choices include:
+ນຳສິ່ງທີ່ໃຫ້ແບ່ງປັນ ບໍ່ແມ່ນສິ່ງທີ່ເຮັດໃຫ້ຮູ້ສຶກຖືກທົດສອບ. ຕົວເລືອກທີ່ດີລວມທັງ:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **ອະລະບັ້ມຮູບນ້ອຍ** ທີ່ມີຮູບໃຫຍ່ ຊັດເຈນ. ຂຽນຊື່ດ້ານຫຼັງຮູບໄວ້ໃຫ້ພະນັກງານ.
+- **ລາຍຊື່ເພງ** ທີ່ມັກໃນໂທລະສັບ ພ້ອມຫູຟັງທຳມະດາ ຫຼື ລຳໂພງນ້ອຍ.
+- **ສິ່ງທີ່ນຸ່ມໃຫ້ຖື** ເຊັ່ນ ຜ້າຫົ່ມ ຜ້າພັນຄໍ ຫຼື ເສື້ອກັນໜາວທີ່ຄຸ້ນເຄີຍ.
+- **ຢາທາມືທີ່ໃຫ້ຄວາມຊຸ່ມ** ສຳລັບການນວດມືເບົາໆ ຖ້າຜູ້ນັ້ນມັກການສຳຜັດ.
+- **ນິຕະຍະສານ ຫຼື ປຶ້ມຮູບ** ກ່ຽວກັບຄວາມສົນໃຈເກົ່າ ເຊັ່ນ ການປູກສວນ ລົດ ນົກ ຫຼື ການຄົວອາຫານ.
+- **ຂອງວ່າງທີ່ມັກ** ຖ້າພະນັກງານບອກວ່າປອດໄພ.
+- **ສິ່ງຂອງທີ່ຄຸ້ນເຄີຍສຳລັບຫ້ອງ.** Family Caregiver Alliance ແນະນຳດອກໄມ້ ຕົ້ນໄມ້ ຮູບຄອບຄົວ ແລະ ຮູບແຕ້ມ ຫຼື ໂປສເຕີໃຫຍ່ຂອງຮູບຄອບຄົວໃນອະດີດ.
+- **ແທັບເລັດ** ສຳລັບເບິ່ງຮູບຄອບຄົວ ຫຼື ຫຼິ້ນເກມງ່າຍໆນຳກັນ.
 
-## What can we do together during a visit?
+## ສາມາດເຮັດຫຍັງນຳກັນໃນການມາຢ້ຽມໄດ້ແດ່?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+ການເຮັດບາງຢ່າງນຳກັນຊ່ວຍໃຫ້ການສົນທະນາບໍ່ກົດດັນ. Dementia Australia ແນະນຳໃຫ້ເບິ່ງຮູບ ງານຝີມືງ່າຍໆ ປູກຕົ້ນກ້າ ຟັງດົນຕີ ກິນຂອງວ່າງນຳກັນ ຫຼື ຍ່າງເລັ່ນໃນບໍລິເວນ. ມີຄວາມຄິດເພີ່ມອີກບາງຢ່າງ:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **ເບິ່ງຮູບນຳກັນ.** ຊີ້ໃຫ້ເຫັນສິ່ງທີ່ທ່ານເຫັນ: “ເບິ່ງໝວກນັ້ນສິ” “ຮູບຫາດນີ້ງາມແທ້.” ໃຫ້ຜູ້ນັ້ນເປັນຜູ້ນຳ. ຫຼີກລ່ຽງ “ນີ້ແມ່ນໃຜ?”
+2. **ຟັງເພງ ແລະ ຮ້ອງນຳກັນ.** ເພງທີ່ຄຸ້ນເຄີຍສາມາດຍົກອາລົມ ແລະ ສ້າງຊ່ວງເວລາຮ່ວມກັນ ເຖິງແມ່ນການເວົ້າຈະຍາກ.
+3. **ຍ່າງເລັ່ນສັ້ນໆ.** Family Caregiver Alliance ແນະນຳໃຫ້ຍ່າງອ້ອມສູນ ໂດຍເฉพาະໃນສວນຖ້າມີ. ການເຂັນລໍ້ເຂັນກໍນັບວ່າໄດ້ຍ່າງ.
+4. **ນວດມືໃຫ້.** ຢາທາມືໜ້ອຍໜຶ່ງ ແລະ ການລູບມືຊ້າໆສາມາດເຮັດໃຫ້ສະຫງົບ.
+5. **ຊ່ວຍດູແລຮູບຮ່າງ.** Dementia Australia ເວົ້າເຖິງການແປງຜົມ ທາເລັບ ຫຼື ຊ່ວຍໃສ່ເຄື່ອງນຸ່ງທີ່ມັກ ຖ້າຜູ້ນັ້ນມັກ.
+6. **ຫຼິ້ນເກມງ່າຍໆ.** Family Caregiver Alliance ແນະນຳໃຫ້ຫຼິ້ນໄພ່ ໂດໂມໂນ ຫຼື ເກມທີ່ຜູ້ນັ້ນເຄີຍຫຼິ້ນ. ໃນແທັບເລັດ ສາມາດຫຼິ້ນ [Picture Pairs](/games/picture-pairs/) ໂດຍໃຫ້ຮູບເບິ່ງເຫັນຢູ່ ແລະ ບໍ່ມີເວລານັບ. [Photo Pairs](/games/photo-pairs/) ປ່ຽນຮູບທີ່ທ່ານເລືອກໃຫ້ເປັນເກມຈັບຄູ່ ແລະ ຮູບຢູ່ໃນບຣາວເຊີຂອງທ່ານເອງ.
+7. **ເບິ່ງຫຍັງນຳກັນ.** Family Caregiver Alliance ແນະນຳໜັງຕະຫຼົກ ແລະ ໜັງເກົ່າ. ເຖິງແມ່ນຜູ້ນັ້ນຕາມເລື່ອງບໍ່ທັນ ທ່ານກໍນັ່ງໃກ້ກັນ ແລະ ແບ່ງປັນເວລາໄດ້.
+8. **ອ່ານອອກສຽງ.** ບົດກະວີສັ້ນໆ ຂໍ້ຄວາມທີ່ຊອບ ຫຼື ຈົດໝາຍຈາກສະມາຊິກຄອບຄົວ.
+9. **ນັ່ງນຳກັນເງຽບໆ.** ຈັບມືກັນ ຫຼື ນັ່ງຢ່າງງຽບສະຫງົບກໍເປັນການມາຢ້ຽມທີ່ແທ້ຈິງ. Alzheimer's Association ລະບຸວ່າບໍ່ເປັນຫຍັງຖ້າບໍ່ຮູ້ວ່າຈະເວົ້າຫຍັງ ແລະ ການມີຢູ່ຂອງທ່ານສຳຄັນທີ່ສຸດ.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) ຊ່ວຍໄດ້ເມື່ອທ່ານບໍ່ຮູ້ຈະເວົ້າຫຍັງ. ແຕ່ລະບັດມີຮູບ ແລະ ຄຳຖາມເປີດ.
 
-## How should I talk during the visit?
+## ຈະເວົ້າຢ່າງໃດໃນການມາຢ້ຽມ?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **ແນະນຳຕົວເອງທຸກຄັ້ງ.** “ສະບາຍດີພໍ່, ແມ່ນມາກ ລູກຊາຍຂອງພໍ່.” NIA ແນະນຳໃຫ້ຜູ້ມາຢ້ຽມແນະນຳຕົວສັ້ນໆເພື່ອເລີ່ມການສົນທະນາ.
+- **ເຂົ້າໄປທາງໜ້າ** ແລະ ນັ່ງໃຫ້ລະດັບສາຍຕາເທົ່າກັນ.
+- **ຢ່າແກ້ ຫຼື ໂຕ້ຖຽງ.** NIA ແນະນຳໃຫ້ຜູ້ມາຢ້ຽມບໍ່ແກ້ຜູ້ນັ້ນເມື່ອເຂົາເຮັດຜິດ ຫຼື ລືມຫຍັງ.
+- **ໃຈຮ້ອນ** ເມື່ອເຂົານຶກຄຳບໍ່ອອກ. ໃຫ້ເວລາຫຼາຍ.
+- **ຕອບຕໍ່ຄວາມຮູ້ສຶກ.** ຖ້າຜູ້ນັ້ນເບິ່ງເສົ້າ ຫຼື ກັງວົນ ໃຫ້ຮັບຮູ້ມັນກ່ອນປ່ຽນຫົວຂໍ້.
+- **ຫຼີກລ່ຽງຄຳຖາມແບບສອບເສັງ** ເຊັ່ນ “ເຈົ້າຈຳຂ້ອຍໄດ້ບໍ?” ຫຼື “ເມື່ອຕອນທ່ຽງເຈົ້າກິນຫຍັງ?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+ເບິ່ງ [ຄຳແນະນຳການສື່ສານ](/caregiving/communication-tips/) ຂອງພວກເຮົາເພີ່ມເຕີມ.
 
-## What do I do when they say "I want to go home"?
+## ຈະເຮັດແນວໃດເມື່ອເຂົາເວົ້າວ່າ “ຢາກກັບບ້ານ”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+ຕອບຕໍ່ຄວາມຮູ້ສຶກທີ່ຢູ່ເບື້ອງຫຼັງຄຳເວົ້າ (ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ເມື່ອຜູ້ໃດຜູ້ໜຶ່ງຖາມເລື້ອຍໆວ່າຢາກກັບບ້ານ](/caregiving/asking-to-go-home/) ອະທິບາຍຕື່ມ). Family Caregiver Alliance ອະທິບາຍວ່າ “ຢາກກັບບ້ານ” ມັກໝາຍເຖິງ “ຂ້ອຍບໍ່ສະບາຍໃຈ” ແລະ ແນະນຳການຕອບເຊັ່ນ “ບອກຂ້ອຍກ່ຽວກັບບ້ານຂອງເຈົ້າແດ່” ຫຼື “ສິ່ງທີ່ເຈົ້າມັກທີ່ສຸດທີ່ບ້ານແມ່ນຫຍັງ?” Dementia Australia ເສີມວ່າ “ບ້ານ” ອາດໝາຍເຖິງເວລາ ຫຼື ບ່ອນທີ່ຜູ້ນັ້ນຮູ້ສຶກປອດໄພ ເຊັ່ນ ໃນວັຍເດັກ.
 
-Try:
+ລອງ:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- ຮັບຮູ້ຄວາມຮູ້ສຶກ: “ຟັງຄືວ່າເຈົ້າຄິດຮອດບ້ານ.”
+- ໃຫ້ຄວາມສະບາຍໃຈດ້ວຍການສຳຜັດ ຖ້າຜູ້ນັ້ນຍອມຮັບ
+- ເບິ່ງຮູບ ຫຼື ເວົ້າເຖິງເຮືອນຄອບຄົວ
+- ຊວນເດີນ ດື່ມນ້ຳ ຫຼື ກິນຂອງວ່າງ
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+ຫຼີກລ່ຽງການໂຕ້ຖຽງ ຫຼື ອະທິບາຍວ່າເປັນຫຍັງຈຶ່ງອອກບໍ່ໄດ້. ມັນແທບບໍ່ໄດ້ຊ່ວຍ ແລະ ມັກເພີ່ມຄວາມທຸກໃຈ.
 
-## How long should a visit be?
+## ການມາຢ້ຽມຄວນໃຊ້ເວລາດົນປານໃດ?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+ສັ້ນແລະເລື້ອຍໆມັກໄດ້ຜົນດີກວ່າ. Family Caregiver Alliance ລະບຸວ່າຜູ້ນັ້ນມັກຈື່ບໍ່ໄດ້ວ່າທ່ານຢູ່ຫ້າຫວ່າງ ຫຼື ຫ້າຊົ່ວໂມງ ແລະ ແນະນຳວ່າການມາສາມຄັ້ງສັ້ນໆຕໍ່ອາທິດອາດດີກວ່າການມາຄັ້ງດຽວທີ່ນານ. Dementia Australia ເວົ້າວ່າບໍ່ມີຈຳນວນຄັ້ງ ຫຼື ຄວາມຍາວທີ່ຖືກຕ້ອງ.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+ໃນສອງສາມອາທິດທຳອິດຫຼັງຍ້າຍເຂົ້າສູນດູແລຄວາມຈຳ Family Caregiver Alliance ແນະນຳໃຫ້ມາຢ້ຽມເລື້ອຍໆ ແລ້ວຄ່ອຍໆເຂົ້າສູ່ຮູບແບບປະຈຳ. ຖາມພະນັກງານວ່າເຂົາເຫັນຫຍັງ.
 
-## How do I leave without upsetting them?
+## ຈະອອກໄປໂດຍບໍ່ໃຫ້ເຂົາເສຍໃຈແນວໃດ?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+ການຈາກກັນອາດເປັນສ່ວນທີ່ຍາກທີ່ສຸດ. Dementia Australia ແນະນຳ:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **ບອກວ່າທ່ານຢູ່ໄດ້ດົນປານໃດ ຕອນມາຮອດ.** “ຂ້ອຍຢູ່ໄດ້ໜຶ່ງຊົ່ວໂມງ ແລ້ວຂ້ອຍຈະໄປຊື້ເຄື່ອງ.”
+- **ໃຊ້ກິດຈະກຳເປັນການຈົບທຳມະຊາດ.** “ເມື່ອພວກເຮົາຮ້ອງເພງນີ້ຈົບ ຂ້ອຍຈະໄປແລ້ວ.”
+- **ກຳນົດເວລາໃຫ້ກົງກັບອາຫານ ຫຼື ກິດຈະກຳ** ຫຼື ຂໍໃຫ້ພະນັກງານຊ່ວຍໃຫ້ຜູ້ນັ້ນໄປເຮັດສິ່ງອື່ນແທນ.
+- **ເຮັດການລາໃຫ້ສັ້ນ ແລະ ເໝືອນເດີມທຸກຄັ້ງ.** ການຢູ່ຊັກຊ້າ ການຂໍໂທດ ຫຼື ການຢູ່ “ອີກໜ້ອຍໜຶ່ງ” ອາດເຮັດໃຫ້ການລາຄັ້ງຕໍ່ໄປຍາກຂຶ້ນ.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+ຫຼັງຈາກອອກໄປ ການຮູ້ສຶກເສົ້າເປັນເລື່ອງປົກກະຕິ. ໃຫ້ຕົວເອງໄດ້ພັກຜ່ອນ. ຖ້າຜູ້ນັ້ນເສຍໃຈ ພະນັກງານມັກຊ່ວຍໃຫ້ເຂົາສະຫງົບລົງໄດ້ໄວຫຼັງຈາກນັ້ນ.
 
-## Visiting someone with dementia in the hospital
+## ການໄປຢ້ຽມຄົນທີ່ມີໂຣກສະໝອງເສື່ອມໃນໂຮງໝໍ
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+ໂຮງໝໍມີສຽງດັງ ແປກໜ້າ ແລະ ເຕັມໄປດ້ວຍຄົນແປກໜ້າ ເຊິ່ງອາດເປັນເລື່ອງຍາກຫຼາຍສຳລັບຄົນທີ່ມີໂຣກສະໝອງເສື່ອມ. ຄູ່ມືຂອງ NIA ກ່ຽວກັບ[ການພາຄົນທີ່ເປັນໂຣກອັລໄຊເມີໄປໂຮງໝໍ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ແນະນຳ:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **ໃຫ້ມີຄົນຢູ່ກັບຜູ້ນັ້ນ** ໃຫ້ຫຼາຍທີ່ສຸດເທົ່າທີ່ເປັນໄປໄດ້: ສະມາຊິກຄອບຄົວ ໝູ່ທີ່ໄວ້ໃຈໄດ້ ຫຼື ຜູ້ດູແລທີ່ຈ້າງມາ.
+- **ໃຫ້ພະນັກງານເອກະສານຂໍ້ມູນສ່ວນຕົວ** ທີ່ມີລາຍການປະຈຳວັນ ຊື່ທີ່ຢາກໃຫ້ເອີ້ນ ສິ່ງທີ່ມັກ ແລະ ບໍ່ມັກ ສິ່ງທີ່ອາດກະຕຸ້ນ ແລະ ສັນຍານຄວາມເຈັບປວດທີ່ບໍ່ໄດ້ເວົ້າອອກມາ. ວາງສຳເນົາໄວ້ໃນຫ້ອງ ແລະ ທີ່ໂຕະພະຍາບານ.
+- **ຊ່ວຍກິນ ແລະ ດື່ມ.** ຜູ້ໃຫຍ່ສູງອາຍຸອາດຂາດສານອາຫານໃນໂຮງໝໍ. ເປີດພາຊະນະ ຊ່ວຍໃນເວລາກິນ ກິນນຳກັນ ແລະ ໃຫ້ນ້ຳດື່ມ.
+- **ນຳສິ່ງທີ່ໃຫ້ຄວາມສະບາຍໃຈໄປ** ເຊັ່ນ ຮູບ ຫຼື ສິ່ງທີ່ມີຄວາມໝາຍທາງຈິດໃຈ.
+- **ຫຼຸດສຽງລົບກວນ.** ປິດໂທລະທັດ ແລະ ຫຼຸດສຽງໂທລະສັບ ແລະ ລຳໂພງພາຍໃນ.
+- **ລອງພິທີສະຫງົບ** ເຊັ່ນ ດົນຕີຜ່ອນຄາຍ ການອ່ານ ການອະທິຖານ ການຮ້ອງເພງ ຫຼື ເບິ່ງຮູບເກົ່າ.
+- **ສົ່ງເສີມການເຄື່ອນໄຫວ** ໃຫ້ຫຼາຍເທົ່າທີ່ປອດໄພ ດ້ວຍການອະນຸມັດຂອງພະນັກງານ.
+- **ບອກໝໍທັນທີຖ້າຜູ້ນັ້ນເບິ່ງຊຸດໂຊມລົງ ຫຼື ຜິດປົກກະຕິກະທັນຫັນ.** NIA ອະທິບາຍວ່າການສັບສົນຢ່າງຮຸນແຮງກະທັນຫັນ ເອີ້ນວ່າ delirium ສາມາດເກີດຈາກບັນຫາເຊັ່ນ ການຕິດເຊື້ອ ໄຂ້ ຂາດນ້ຳ ຫຼື ຜົນຂ້າງຄຽງຂອງຢາ ແລະ ຕ້ອງໄດ້ຮັບການດູແລທາງການແພດ.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+ການມາຢ້ຽມສັ້ນໆ ສະຫງົບ ກັບໜ້າທີ່ຄຸ້ນເຄີຍ ແລະ ເພງທີ່ມັກ ອາດເປັນສ່ວນທີ່ໃຫ້ຄວາມສະບາຍໃຈທີ່ສຸດໃນມື້ໜຶ່ງຢູ່ໂຮງໝໍ.
 
-## Bringing children on a visit
+## ພາເດັກໄປນຳໃນການມາຢ້ຽມ
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+ເດັກນ້ອຍສາມາດນຳຄວາມອົບອຸ່ນມາໃຫ້ໄດ້ຫຼາຍ. ໃຫ້ກຽມພວກເຂົາລ່ວງໜ້າດ້ວຍຄຳເວົ້າງ່າຍໆ ແລະ ຊື່ສັດ ຮັກສາການມາຢ້ຽມໃຫ້ສັ້ນ ແລະ ໃຫ້ໜ້າທີ່ເຊັ່ນ ສະແດງຮູບແຕ້ມ ຫຼື ສົ່ງຮູບໃຫ້. NIA ແນະນຳວ່າເດັກ ແລະ ຄົນທີ່ເປັນໂຣກອັລໄຊເມີສາມາດເພີດເພີນກັບກິດຈະກຳງ່າຍໆນຳກັນ ເຊັ່ນ ເບິ່ງອະລະບັ້ມຮູບ ຫຼື ຟັງເພງ. Dementia Australia ແນະນຳໃຫ້ນຳຖົງຂອງຫວານ ຫຼື ສິ່ງທີ່ງຽບໆໄປເພື່ອໃຫ້ເດັກນ້ອຍມີຫຍັງເຮັດ.
 
-## Take care of yourself too
+## ດູແລຕົວເອງດ້ວຍ
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+ການມາຢ້ຽມອາດເມື່ອຍ ແລະ ເຮັດໃຫ້ຮູ້ສຶກຫຼາຍ ໂດຍສະເພາະຖ້າຜູ້ນັ້ນປ່ຽນໄປຫຼາຍ. ມັນເປັນເລື່ອງປົກກະຕິທີ່ຈະມາໜ້ອຍລົງຖ້າທ່ານຕ້ອງການ ພາໝູ່ໄປເປັນກຳລັງໃຈ ຫຼື ອອກກ່ອນໃນມື້ທີ່ຫຍຸ້ງຍາກ. ສຳລັບແນວຄິດການດູແລຕົວເອງ ເບິ່ງ [ການດູແລຕົວເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/). ຖ້າທ່ານອາໄສຢູ່ໄກ ເບິ່ງຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ການໂທຜ່ານໂທລະສັບ ແລະ ວິດີໂອ](/activities/phone-and-video-calls/).

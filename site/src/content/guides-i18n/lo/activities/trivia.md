@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "ເກມຖາມຕອບງ່າຍໆສຳລັບຜູ້ສູງອາຍຸທີ່ມີໂຣກສະໝອງເສື່ອມ ໂດຍບໍ່ມີຄວາມກົດດັນ"
+seoTitle: "ຄຳຖາມຄວາມຮູ້ທົ່ວໄປສຳລັບຜູ້ສູງອາຍຸທີ່ມີໂຣກສະໝອງເສື່ອມ ພ້ອມຄຳຕອບ"
+description: "ຄຳຖາມຄວາມຮູ້ທົ່ວໄປງ່າຍ 50 ຂໍ້ສຳລັບຜູ້ສູງອາຍຸທີ່ມີໂຣກສະໝອງເສື່ອມ ພ້ອມທາງເລືອກຄຳຕອບ ແລະ ຫົວຂໍ້ສົນທະນາ ແລະ ວິທີຈັດໃຫ້ບໍ່ມີໃຜຮູ້ສຶກຖືກທົດສອບ."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  ການຖາມຕອບຄວາມຮູ້ທົ່ວໄປສຳລັບຜູ້ສູງອາຍຸທີ່ມີໂຣກສະໝອງເສື່ອມຈະໄດ້ຜົນດີ ເມື່ອມັນຄ້າຍການສົນທະນາ ບໍ່ແມ່ນການສອບເສັງ. ຖາມກ່ຽວກັບສິ່ງທີ່ຮູ້ມາດົນແລ້ວ ເຊັ່ນ ເພງເກົ່າ ຄຳເວົ້າ ວັນບຸນ ແລະ ຊີວິດປະຈຳວັນ ແລະ ໃຫ້ທາງເລືອກສອງຫຼືສາມຢ່າງສະເໝີ. ບອກຄຳຕອບດ້ວຍນ້ຳໃຈ ຢ່າເລືອກໃຫ້ຜູ້ໃດຜູ້ໜຶ່ງ ບໍ່ຕ້ອງນັບຄະແນນ ແລະ ໃຊ້ແຕ່ລະຄຳຕອບເປັນຈຸດເລີ່ມຕົ້ນຂອງເລື່ອງເລົ່າ. ຄຳຖາມແບບ “ອັນນີ້ ຫຼື ອັນນັ້ນ” ທີ່ບໍ່ມີຄຳຕອບຜິດ ເໝາະກັບໄລຍະຫຼັງ.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "ຖາມກ່ຽວກັບສິ່ງທີ່ຄຸ້ນເຄີຍມາດົນ: ເພງ ຄຳເວົ້າ ວັນບຸນ ອາຫານ ແລະ ຊີວິດປະຈຳວັນຈາກຫຼາຍປີກ່ອນ."
+  - "ໃຫ້ທາງເລືອກສອງຫຼືສາມຢ່າງ ເພື່ອໃຫ້ຄຳຕອບຖືກຈຳໄດ້ ແທນທີ່ຈະຕ້ອງນຶກເອງ."
+  - "ບອກຄຳຕອບດ້ວຍນ້ຳໃຈ ແລ້ວດຳເນີນຕໍ່. ການເດົາໃດໜຶ່ງທີ່ເຮັດໃຫ້ເກີດເລື່ອງເລົ່າ ແມ່ນການເດົາທີ່ດີ."
+  - "ບໍ່ມີຄະແນນ ບໍ່ມີທີມແຂ່ງກັນ ແລະ ບໍ່ເອີ້ນຊື່ຜູ້ໃດຜູ້ໜຶ່ງ. ໃຫ້ຄຳຕອບມາຈາກທຸກຄົນໃນຫ້ອງ."
+  - "ເມື່ອການເລືອກຄຳຕອບຍາກຂຶ້ນ ໃຫ້ປ່ຽນໄປຖາມແບບ “ອັນນີ້ ຫຼື ອັນນັ້ນ” ທີ່ບໍ່ມີຄຳຕອບທີ່ຖືກ."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "ການຖາມຕອບຄວາມຮູ້ທົ່ວໄປເໝາະກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມບໍ?"
+    a: "ເໝາະໄດ້ ຖ້າຈັດຢ່າງອ່ອນໂຍນ. Alzheimer's Foundation of America ລະບຸການຖາມຕອບຄວາມຮູ້ທົ່ວໄປໄວ້ໃນກິດຈະກຳສຳລັບໄລຍະຕົ້ນ. ໃຫ້ຖາມກ່ຽວກັບຫົວຂໍ້ທີ່ຄຸ້ນເຄີຍມາດົນ ໃຫ້ມີທາງເລືອກ ຢ່າເລືອກໃຫ້ຜູ້ໃດຜູ້ໜຶ່ງຕອບ ແລະ ຖືຄຳຕອບເປັນທາງເຂົ້າສູ່ການສົນທະນາ ບໍ່ແມ່ນການສອບເສັງ."
+  - q: "ຫົວຂໍ້ໃດໃຊ້ໄດ້ດີທີ່ສຸດສຳລັບການຖາມຕອບຂອງຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ?"
+    a: "ສິ່ງທີ່ຮຽນຮູ້ມາດົນແລ້ວມັກໄດ້ຜົນດີທີ່ສຸດ: ເພງ ແລະ ນັກຮ້ອງທີ່ນິຍົມໃນໄວໜຸ່ມຂອງຄົນນັ້ນ ຄຳເວົ້າທີ່ຄຸ້ນເຄີຍ ວັນບຸນ ອາຫານ ກິລາ ແລະ ຊີວິດປະຈຳວັນ ເຊັ່ນ ການສົ່ງນົມເຖິງບ້ານ ແລະ ໂທລະສັບແບບໝຸນ. ຫຼີກລ່ຽງຂ່າວໃໝ່ ແລະ ສິ່ງທີ່ຕ້ອງຈື່ຈາກສິ່ງທີ່ເກີດຂຶ້ນກ່ອນໜ້າໃນການນັ່ງດຽວກັນ."
+  - q: "ຈະຈັດການຖາມຕອບໃນສູນດູແລແນວໃດ ໂດຍບໍ່ໃຫ້ໃຜອາຍ?"
+    a: "ອ່ານແຕ່ລະຄຳຖາມໃຫ້ທຸກຄົນໃນກຸ່ມຟັງ ສະແດງ ຫຼື ບອກທາງເລືອກ ແລະ ຍິນດີຮັບຄຳຕອບຈາກທຸກຄົນ. ຢ່າເອີ້ນຊື່ບຸກຄົນ ແລະ ຢ່າເກັບຄະແນນ. ບອກຄຳຕອບດ້ວຍຮອຍຍິ້ມບໍ່ວ່າຈະເດົາຫຍັງກໍຕາມ ແລ້ວຖາມຕໍ່ເຊັ່ນ “ໃນກຸ່ມນີ້ມີໃຜເຄີຍໄປໂຮງໜັງກາງແປງບໍ?” ເພື່ອໃຫ້ກາຍເປັນເລື່ອງເລົ່າ."
+  - q: "ໃນໄລຍະຫຼັງ ຈະເຮັດຫຍັງແທນການຖາມຕອບ?"
+    a: "ປ່ຽນໄປຖາມຄຳຖາມທີ່ບໍ່ມີຄຳຕອບຜິດ ເຊັ່ນ “ກາເຟ ຫຼື ຊາ?” ຫຼື “ທະເລ ຫຼື ພູ?” ແລະ ຮ່ວມກັນເວົ້າຄຳເວົ້າ ຫຼື ເພງທີ່ຄຸ້ນເຄີຍໃຫ້ຈົບ. ການເບິ່ງຮູບ ແລະ ອະທິບາຍຮູບນຳກັນກໍໄດ້ຜົນດີເຊັ່ນກັນ."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+ການຖາມຕອບຄວາມຮູ້ທົ່ວໄປແມ່ນໜຶ່ງໃນກິດຈະກຳກຸ່ມທີ່ຖືກຮ້ອງຂໍຫຼາຍທີ່ສຸດໃນສູນດູແລ ແລະ ສູນກິດຈະກຳປະຈຳວັນ ແລະ ຫຼາຍຄອບຄົວກໍຫຼິ້ນກັນທີ່ໂຕະເຮືອນຄົວເຊັ່ນກັນ. ຖ້າຈັດແບບທົ່ວໄປ ມີຄະແນນ ແລະ ໃຫ້ຄົນດຽວຕອບ ມັນອາດເຮັດໃຫ້ຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມຮູ້ສຶກຖືກບີບບັງຄັບ. ຖ້າຈັດຢ່າງອ່ອນໂຍນ ມັນເປັນວິທີທີ່ມີຊີວິດຊີວາໃນການຟັງເລື່ອງລາວ. ດ້ານລຸ່ມແມ່ນຄຳຖາມງ່າຍ 50 ຂໍ້ ພ້ອມທາງເລືອກຄຳຕອບ ແລະ ຫົວຂໍ້ທີ່ຈະສົນທະນາສຳລັບແຕ່ລະຂໍ້ ຕາມດ້ວຍວິທີຈັດການຖາມຕອບ.
 
-## How do you make trivia work for someone with dementia?
+## ຈະເຮັດໃຫ້ການຖາມຕອບເໝາະກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມໄດ້ແນວໃດ?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+ເຮັດໃຫ້ມັນເປັນເລື່ອງການຈື່ ແລະ ການຈຳສິ່ງທີ່ເກີດຂຶ້ນດົນແລ້ວ ແລະ ເຮັດໃຫ້ທຸກຄຳຕອບຮູ້ສຶກວ່າໄດ້ຮັບການຍອມຮັບ.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **ຖາມກ່ຽວກັບອະດີດອັນໄກ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ບອກວ່າອາການຕົ້ນທີ່ພົບທົ່ວໄປທີ່ສຸດຂອງໂຣກອັລໄຊເມີ ແມ່ນຄວາມຫຍຸ້ງຍາກໃນການຈື່ຂໍ້ມູນທີ່ເພິ່ງຮຽນຮູ້ໃໝ່. ເພງ ຄຳເວົ້າ ແລະ ຊີວິດປະຈຳວັນຈາກຫຼາຍທົດສະວັດກ່ອນມັກເປັນພື້ນທີ່ທີ່ງ່າຍກວ່າ.
+2. **ໃຫ້ທາງເລືອກສະເໝີ.** ການເລືອກຄຳຕອບທີ່ຖືກຈາກສອງຫຼືສາມຢ່າງງ່າຍກວ່າການນຶກຄຳຕອບອອກມາຈາກບໍ່ມີຫຍັງເລີຍຫຼາຍ.
+3. **ອ່ານຄຳຖາມອອກສຽງ ແລະ ສະແດງໃຫ້ເຫັນແບບໃຫຍ່.** ກະດານຂາວ ຫຼື ແທັບເລັດທີ່ຍົກຂຶ້ນໃຫ້ເຫັນຊ່ວຍຜູ້ທີ່ໄດ້ຍິນບໍ່ຊັດໄດ້.
+4. **ບອກຄຳຕອບດ້ວຍນ້ຳໃຈ.** ຖ້າບໍ່ມີໃຜຮູ້, ໃຫ້ບອກຄຳຕອບດ້ວຍຄວາມອ່ອນໂຍນ ແລ້ວດຳເນີນຕໍ່. ຢ່າເວົ້າວ່າ “ມາເດີ, ທ່ານຮູ້ຢູ່ແລ້ວ.”
+5. **ບໍ່ມີຄະແນນ.** ບໍ່ນັບສຳລັບບຸກຄົນ ແລະ ບໍ່ນັບສຳລັບໂຕະ. ຖ້າຄົນຢາກຮູ້ຕົວເລກ ໃຫ້ເກັບຄະແນນລວມຂອງກຸ່ມໄວ້ອັນດຽວ.
+6. **ຢ່າເອີ້ນຊື່ຜູ້ໃດຜູ້ໜຶ່ງ.** ໃຫ້ຄຳຕອບມາຈາກທຸກຄົນ. ໃນການນັ່ງສອງຕໍ່ໜຶ່ງ ໃຫ້ຕອບນຳກັນ ເຊັ່ນ “ຂ້ອຍຄິດວ່າມັນແມ່ນເປຍໂນ. ທ່ານຄິດວ່າແນວໃດ?”
+7. **ໃຊ້ຫົວຂໍ້ສົນທະນາ.** ຄຳຕອບເປັນຈຸດເລີ່ມຕົ້ນ ບໍ່ແມ່ນຈຸດສຸດທ້າຍ. ເລື່ອງເລົ່າຄືເປົ້າໝາຍທີ່ແທ້ຈິງ.
+8. **ໃຫ້ສັ້ນ.** ຄຳຖາມສິບຂໍ້ທີ່ມີເລື່ອງເລົ່າຄັ່ນຢູ່ລະຫວ່າງກໍພຽງພໍແລ້ວ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ສະຫຼຸບກົດຂໍ້ຫຼັກໄວ້ງ່າຍໆ: ສັງເກດຄວາມອຸກອັ່ງ ແລະ ເຮັດໃຫ້ຜູ້ນັ້ນຮູ້ສຶກວ່າປະສົບຜົນສຳເລັດ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ລະບຸການຖາມຕອບໄວ້ໃນກິດຈະກຳສຳລັບໄລຍະຕົ້ນ. ໃນໄລຍະກາງ ໃຫ້ໃຊ້ທາງເລືອກສອງຢ່າງ ແລະ ອີງໃສ່ຫົວຂໍ້ສົນທະນາ. ຕໍ່ມາ ໃຫ້ປ່ຽນໄປໃຊ້ຄຳຖາມແບບ “ອັນນີ້ ຫຼື ອັນນັ້ນ” ທີ່ຢູ່ດ້ານລຸ່ມ.
 
-## Music and entertainment trivia
+## ຄຳຖາມກ່ຽວກັບດົນຕີ ແລະ ບັນເທີງ
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+ຄຳຕອບຢູ່ໃນ **ຕົວໜາ**. ປັບໃຫ້ເໝາະກັບຄົນນັ້ນ: ຄົນທີ່ເຕີບໂຕມາກັບເພງ Motown ຈະຕ້ອງການນັກຮ້ອງຄົນລະແບບກັບຄົນທີ່ເຕີບໂຕມາກັບວົງດົນຕີໃຫຍ່.
 
-| Question | Choices | Talk about |
+| ຄຳຖາມ | ທາງເລືອກ | ສິ່ງທີ່ຈະສົນທະນາ |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| ໃຜຖືກເອີ້ນວ່າກະສັດແຫ່ງ Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ທ່ານເຄີຍເຫັນ Elvis ທາງໂທລະພາບບໍ? |
+| ນັກຮ້ອງຜູ້ໃດມີຊື່ຫຼິ້ນວ່າ Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | ເພງ Sinatra ເພງໃດທີ່ທ່ານມັກທີ່ສຸດ? |
+| Bing Crosby ຝັນເຖິງ ... ສີຂາວ | **ຄຣິສມາສ**, ງານແຕ່ງດອງ, ເຮືອນ | ຮ້ອງເພງຕໍ່ນຳກັນໜຶ່ງທ່ອນ |
+| Louis Armstrong ຮ້ອງວ່າ “What a Wonderful ...” | ມື້, **ໂລກ**, ຊີວິດ | ສິ່ງໃດໃນໂລກທີ່ທ່ານເຫັນວ່າງົດງາມ? |
+| “Over the Rainbow” ຖືກຮ້ອງໂດຍ Judy Garland ໃນໜັງເລື່ອງໃດ? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | ທ່ານໄດ້ເບິ່ງໜັງທີ່ມັກຢູ່ໃສ? |
+| ໃຜສະແດງເປັນ Lucy ໃນ “I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | ຄອບຄົວຂອງທ່ານເຄີຍເບິ່ງລາຍການຫຍັງນຳກັນ? |
+| ນັກຂີ່ມ້າຄາວບອຍຜູ້ໃດຂີ່ມ້າຊື່ Trigger? | **Roy Rogers**, Gene Autry, John Wayne | ທ່ານເຄີຍຫຼິ້ນເປັນຄາວບອຍຕອນເດັກບໍ? |
+| ໃຜເປັນພິທີກອນລາຍການ “The Tonight Show” ເປັນເວລາ 30 ປີ? | Ed Sullivan, **Johnny Carson**, Bob Hope | ທ່ານເຄີຍນັ່ງດູໂທລະທັດຈົນດຶກບໍ? |
+| ເຄື່ອງດົນຕີໃດມີ 88 ປຸ່ມ? | ກີຕ້າ, **ເປຍໂນ**, ແກ່ນແຕຣ | ໃນຄອບຄົວຂອງທ່ານມີໃຜຫຼິ້ນບໍ? |
+| ການເຕັ້ນແບບໃດນັບເປັນໜຶ່ງ-ສອງ-ສາມ, ໜຶ່ງ-ສອງ-ສາມ? | **Waltz**, twist, tango | ທ່ານເຄີຍໄປເຕັ້ນລຳທີ່ໃສ? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+ສຳລັບດົນຕີເພີ່ມເຕີມ ເບິ່ງ [ກິດຈະກຳດົນຕີສຳລັບໂຣກສະໝອງເສື່ອມ](/activities/music/).
 
-## Everyday life trivia
+## ຄຳຖາມກ່ຽວກັບຊີວິດປະຈຳວັນ
 
-| Question | Choices | Talk about |
+| ຄຳຖາມ | ທາງເລືອກ | ສິ່ງທີ່ຈະສົນທະນາ |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| ກ່ອນມີຕູ້ເຢັນ ຫຼາຍເຮືອນເກັບອາຫານໃຫ້ເຢັນໄວ້ໃນ... | **ຕູ້ນ້ຳກ້ອນ**, ເຕົາອົບ, ຫໍຊັ້ນໃຕ້ຫຼັງຄາ | ໃຜເປັນຄົນສົ່ງນ້ຳກ້ອນ? |
+| ໃຜເປັນຄົນນຳນົມມາສົ່ງເຖິງປະຕູໃນຂວດແກ້ວ? | ໄປສະນີ, **ຄົນສົ່ງນົມ**, ເດັກສົ່ງໜັງສືພິມ | ມີຫຍັງອີກທີ່ຖືກສົ່ງເຖິງເຮືອນ? |
+| ທ່ານໂທດ້ວຍໂທລະສັບແບບໝຸນແນວໃດ? | ກົດປຸ່ມ, **ໝຸນແປ້ນ**, ລົມກັບມັນ | ເລົ່າໃຫ້ຟັງກ່ຽວກັບໂທລະສັບໃນເຮືອນຂອງທ່ານ |
+| ບໍລິສັດໃດຜະລິດລົດ Model T? | **Ford**, Chevrolet, Buick | ເລົ່າໃຫ້ຟັງກ່ຽວກັບລົດທີ່ທ່ານມັກ |
+| ທ່ານຈະພົບ soda jerk ໄດ້ຢູ່ໃສ? | **ຮ້ານນ້ຳອັດລົມ**, ຮ້ານເຂົ້າຈີ່, ທະນາຄານ | ທ່ານສັ່ງຫຍັງຢູ່ໜ້າເຄົາເຕີ? |
+| ຂອງຫຼິ້ນອັນໃດເປັນສະປຣິງໂລຫະທີ່ເດີນລົງບັນໄດໄດ້? | ໂຍໂຢ, **Slinky**, ຫ່ວງຫູລາ | ທ່ານຮັກຂອງຫຼິ້ນອັນໃດ? |
+| Drive-in ແມ່ນສະຖານທີ່ສຳລັບເບິ່ງ... | **ໜັງຈາກໃນລົດ**, ການແຂ່ງບານ, ຂະບວນພາເຣດ | ທ່ານໄປກັບໃຜ? |
+| ໃບໜ້າຂອງໃຜຢູ່ເທິງໜ້າທໍ່ລະບຽບໜຶ່ງໂດລາ? | Lincoln, **George Washington**, Jefferson | ໜຶ່ງໂດລາຊື້ຫຍັງໄດ້ໃນສະໄໝນັ້ນ? |
+| ໃບໜ້າຂອງໃຜຢູ່ເທິງເຫຣຍຍນ? | **Abraham Lincoln**, Washington, Franklin | ທ່ານເຄີຍເກັບເຫຣຍຍນໃສ່ໄຫທີ່ບ້ານບໍ? |
+| ລົດໂຮງຮຽນປົກກະຕິແລ້ວເປັນສີຫຍັງ? | ສີແດງ, **ສີເຫຼືອງ**, ສີຟ້າ | ທ່ານເດີນທາງໄປໂຮງຮຽນແນວໃດ? |
 
-## Holidays, nature and places
+## ວັນບຸນ ທຳມະຊາດ ແລະ ສະຖານທີ່
 
-| Question | Choices | Talk about |
+| ຄຳຖາມ | ທາງເລືອກ | ສິ່ງທີ່ຈະສົນທະນາ |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| ວັນບຸນໃດຕົກໃນວັນພະຫັດທີ່ສີ່ຂອງເດືອນພະຈິກ? | Labor Day, **Thanksgiving**, Memorial Day | ມີຫຍັງຢູ່ເທິງໂຕະຂອງທ່ານສະເໝີ? |
+| ໂຄມຟັກທອງທີ່ແກະສະລັກເຮັດໄວ້ສຳລັບວັນບຸນໃດ? | **Halloween**, Easter, Christmas | ເລົ່າໃຫ້ຟັງກ່ຽວກັບວັນ Halloween ບ່ອນທີ່ທ່ານເຕີບໃຫຍ່ |
+| ວັນທີ 4 ກໍລະກົດສະເຫຼີມສະຫຼອງການປະກາດ... | ສິດ, **ເອກະລາດ**, ອິດສະລະ | ທ່ານເຄີຍເບິ່ງດອກໄມ້ໄຟຢູ່ໃສ? |
+| ວັນແມ່ຢູ່ເດືອນໃດ? | ເມສາ, **ພຶດສະພາ**, ມິຖຸນາ | ຄອບຄົວຂອງທ່ານສະເຫຼີມສະຫຼອງແນວໃດ? |
+| ທຸງອາເມຣິກັນມີດາວກີ່ດວງ? | 48, **50**, 52 | ທຸງມີ 48 ດາວຈົນເຖິງປີ 1959. ຄຳຕອບໃດກໍເປັນຄວາມຊົງຈຳທີ່ດີ |
+| ມະຫາສະໝຸດໃດຢູ່ຝັ່ງຕາເວັນອອກ? | ປາຊີຟິກ, **ແອດແລນຕິກ**, ອາກຕິກ | ທ່ານເຄີຍໄປຫາດບໍ? |
+| ຮູບປັ້ນເສລີພາບຢູ່ເມືອງໃດ? | ບອສຕັນ, **ນິວຢອກ**, ຟິລາເດວເຟຍ | ທ່ານເຄີຍໄປນິວຢອກບໍ? |
+| ເຜິ້ງຜະລິດຫຍັງ? | ນົມ, **ນ້ຳເຜິ້ງ**, ໄໝ | ທ່ານຊອບນ້ຳເຜິ້ງໃສ່ເຂົ້າປີ້ງ ຫຼື ໃສ່ຊາບໍ? |
+| ລູກງົວນ້ອຍເອີ້ນວ່າ... | ລູກມ້າ, **ລູກງົວ**, ລູກແບ້ | ທ່ານເຄີຍອາໄສຢູ່ໃກ້ຟາມບໍ? |
+| ດອກໄມ້ສູງສີເຫຼືອງໃດທີ່ມີຊື່ສຽງເລື່ອງຫັນໄປຫາດວງອາທິດ? | ກຸຫຼາບ, **ດອກທານຕະວັນ**, ດອກທິວລິບ | ມີຫຍັງປູກຢູ່ໃນສວນຂອງທ່ານ? |
+| ປີອະທິກະສະທິນມີກີ່ມື້? | 365, **366**, 360 | ເລົ່າໃຫ້ຟັງກ່ຽວກັບວັນເກີດທີ່ທ່ານຈື່ໄດ້ |
+| ລະດູໃດມາຫຼັງລະດູໜາວ? | ລະດູໃບໄມ້ຫຼົ່ນ, **ລະດູໃບໄມ້ຜລິ**, ລະດູຮ້ອນ | ລະດູທີ່ທ່ານມັກທີ່ສຸດແມ່ນຫຍັງ? |
 
-## Food and sports trivia
+## ອາຫານ ແລະ ກິລາ
 
-| Question | Choices | Talk about |
+| ຄຳຖາມ | ທາງເລືອກ | ສິ່ງທີ່ຈະສົນທະນາ |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| ລູກເກດແຫ້ງແມ່ນ... ທີ່ແຫ້ງແລ້ວ | ໝາກຄຸມ, **ໝາກองุ่น**, ໝາກເຊີຣີ | ທ່ານເຄີຍໃສ່ລູກເກດໃສ່ກ່ອງເຂົ້າທ່ຽງບໍ? |
+| ໝາກເບີ່ມແຫ້ງແມ່ນ... ທີ່ແຫ້ງແລ້ວ | **ໝາກຄຸມ**, ໝາກເດື່ອ, ໝາກແອັບເປິ້ນ | ໃຜໃນຄອບຄົວຂອງທ່ານຮັກໝາກເບີ່ມ? |
+| ເນີຍຖົ່ວລິດສົງ ແລະ... | **ແຢັມ**, ເນີຍແຂງ, ແຮມ | ຊະນິດຢາບ ຫຼື ລຽບ ທ່ານຊອບຊະນິດໃດ? |
+| ກົວກາໂມເລ ສ່ວນໃຫຍ່ເຮັດຈາກ... | ຖົ່ວລັນເຕົາ, **ໝາກອາໂວຄາໂດ**, ໝາກແຕງກວາ | ມີນ້ຳຈິ້ມຫຍັງອອກມາໃນງານລ້ຽງ? |
+| ພາຍແບບໃດເປັນທີ່ນິຍົມໃນວັນ Thanksgiving? | **ພາຍໝາກຟັກທອງ**, ພາຍໝາກນາວ, ພາຍເຊີຣີ | ທ່ານເຄີຍເຮັດພາຍແບບໃດ? |
+| ທີມເບສບອນມີຜູ້ຫຼິ້ນໃນສະໜາມກີ່ຄົນ? | 7, **9**, 11 | ທ່ານເຊຍທີມໃດ? |
+| ໃນເບສບອນ ຕີພາດກີ່ເທື່ອຈຶ່ງເປັນການອອກ? | ສອງ, **ສາມ**, ສີ່ | ທ່ານເຄີຍຫຼິ້ນບານບໍ? |
+| Babe Ruth ມີຊື່ສຽງເລື່ອງກິລາໃດ? | ມວຍ, **ເບສບອນ**, ກອຟ | ທ່ານເຄີຍໄປດູການແຂ່ງບານບໍ? |
+| ສະໜາມກອຟມາດຕະຖານມີກີ່ຫຼຸມ? | 9, **18**, 24 | ທ່ານເຄີຍຫຼິ້ນກອຟ ຫຼື ມີນິກອຟບໍ? |
+| ໃນກິລາໃດທີ່ໃຫ້ແຕ້ມ touchdown? | **ຟຸດບານອາເມຣິກັນ**, ຮ໊ອກກີ້, ບາສເກດບານ | ໃຜເບິ່ງຟຸດບານຢູ່ບ້ານຂອງທ່ານ? |
 
-## Familiar sayings
+## ຄຳເວົ້າທີ່ຄຸ້ນເຄີຍ
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+ການເວົ້າຄຳທີ່ຄຸ້ນເຄີຍໃຫ້ຈົບມັກອີງໃສ່ພາສາທີ່ຮຽນມາດົນແລ້ວ ແລະ ມັກມາໄດ້ງ່າຍ. ເກມ [Finish the saying](/games/finish-the-saying/) ຂອງພວກເຮົາມີອີກຫຼາຍຢ່າງ ພ້ອມແຕະເພື່ອສະແດງຕອນຈົບໃດກໍໄດ້.
 
-| Saying | Choices | Talk about |
+| ຄຳເວົ້າ | ທາງເລືອກ | ສິ່ງທີ່ຈະສົນທະນາ |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| ໜຶ່ງໝາກແອັບເປິ້ນຕໍ່ມື້ ຊ່ວຍໃຫ້ຫ່າງຈາກ... | **ໝໍ**, ຝົນ, ແມວ | ມີໃຜເຄີຍບອກທ່ານຄຳນີ້? |
+| ນົກທີ່ຕື່ນເຊົ້າຈະຈັບ... | ລົດເມ, **ໜອນ**, ລົດໄຟ | ທ່ານເປັນຄົນຕື່ນເຊົ້າບໍ? |
+| ຢ່າປະລາຍໄກ່ກ່ອນທີ່ມັນຈະ... | **ຟັກ**, ນອນ, ຮ້ອງ | ຄອບຄົວຂອງທ່ານເຄີຍລ້ຽງໄກ່ບໍ? |
+| ເງິນທີ່ປະຢັດໄວ້ແມ່ນເງິນທີ່... | **ຫາມາໄດ້**, ເສຍໄປ, ໃຊ້ຈ່າຍ | ໃຜໃນຄອບຄົວຂອງທ່ານເປັນຄົນປະຢັດ? |
+| ເຮືອນແມ່ນບ່ອນທີ່... | ສວນຢູ່, **ໃຈຢູ່**, ເຮືອນຄົວຢູ່ | ຫຍັງເຮັດໃຫ້ບ່ອນໃດບ່ອນໜຶ່ງຮູ້ສຶກຄືບ້ານ? |
+| ມາຊ້າດີກວ່າບໍ່ມາ... | ເຊົ້າ, **ບໍ່ມີວັນ**, ຂໍໂທດ | ໃຜເປັນຄົນທີ່ມາຊ້າສະເໝີ? |
+| ທຸກກ້ອນເມກມີຂອບເງິນ... | **ຊັ້ນຂອບ**, ຊ້ອນ, ເຫຣຍ | ເລົ່າໃຫ້ຟັງກ່ຽວກັບໂຊກດີທີ່ທ່ານເຄີຍພົບ |
+| ການກະທຳເວົ້າດັງກວ່າ... | **ຄຳເວົ້າ**, ດົນຕີ, ຟ້າຮ້ອງ | ເລົ່າໃຫ້ຟັງກ່ຽວກັບຄົນທີ່ເວົ້າຄຳນັ້ນ |
 
-## This-or-that questions with no wrong answer
+## ຄຳຖາມ “ອັນນີ້ ຫຼື ອັນນັ້ນ” ທີ່ບໍ່ມີຄຳຕອບຜິດ
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+ຄຳຖາມເຫຼົ່ານີ້ເໝາະກັບທຸກໄລຍະ ລວມທັງໄລຍະຫຼັງ ເພາະບໍ່ມີຫຍັງຕ້ອງຖືກ. ຖາມ, ຟັງ ແລະ ບອກຄຳຕອບຂອງທ່ານເອງດ້ວຍ.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- ກາເຟ ຫຼື ຊາ?
+- ທະເລ ຫຼື ພູ?
+- ໝາ ຫຼື ແມວ?
+- ລະດູຮ້ອນ ຫຼື ລະດູໜາວ?
+- ພາຍ ຫຼື ເຄັກ?
+- ເຕັ້ນ ຫຼື ເບິ່ງ?
+- ຕອນພຣະອາທິດຂຶ້ນ ຫຼື ຕອນພຣະອາທິດຕົກ?
+- ລະບຽງໜ້າບ້ານ ຫຼື ສວນຫຼັງບ້ານ?
+- ວິທຸ ຫຼື ແຜ່ນສຽງ?
+- ແພນເຄັກ ຫຼື ໄຂ່?
+- ດອກກຸຫຼາບ ຫຼື ດອກເດສີ?
+- ການເດີນທາງດ້ວຍລົດໄຟ ຫຼື ການຂັບລົດທາງໄກ?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+ສຳລັບຄຳຖາມສົນທະນາທີ່ໃຊ້ຄູ່ກັບຮູບ ລອງໃຊ້ [Conversation cards](/games/conversation-cards/) ທີ່ພິມອອກໄດ້.
 
-## How do you run a trivia session in a care home or group?
+## ຈະຈັດການຖາມຕອບໃນສູນດູແລ ຫຼື ໃນກຸ່ມແນວໃດ?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **ຈັດທີ່ນັ່ງໃຫ້ເຫັນ ແລະ ໄດ້ຍິນໄດ້ຊັດ.** ໃສ່ເຄື່ອງຊ່ວຍຟັງ ໃສ່ແວ່ນ ແລະ ປິດໂທລະທັດ.
+2. **ແນະນຳວ່າເປັນການສົນທະນາ.** “ຂ້ອຍມີຄຳຖາມກ່ຽວກັບວັນເກົ່າ ແລະ ຂ້ອຍເດົາວ່າທ່ານຮູ້ຫຼາຍກວ່າຂ້ອຍ.”
+3. **ອ່ານແຕ່ລະຄຳຖາມສອງຄັ້ງ ແລະ ສະແດງທາງເລືອກໃຫ້ໃຫຍ່.**
+4. **ຍິນດີຮັບຄຳຕອບຈາກທຸກບ່ອນໃນຫ້ອງ.** ເວົ້າຊ້ຳຄຳຕອບທີ່ດີ ເພື່ອໃຫ້ທຸກຄົນໄດ້ຍິນ.
+5. **ບອກຄຳຕອບສຳລັບທຸກຄົນ** ແລ້ວຖາມຫົວຂໍ້ສົນທະນາຕໍ່ທັງຫ້ອງ.
+6. **ເດີນຕາມພະລັງງານຂອງກຸ່ມ.** ຖ້າຄຳຖາມໜຶ່ງເຮັດໃຫ້ເກີດເລື່ອງເລົ່າສິບນາທີ ກໍໃຫ້ມັນດຳເນີນໄປ.
+7. **ປິດດ້ວຍເພງ ຫຼື ຮອບ “ອັນນີ້ ຫຼື ອັນນັ້ນ”** ເພື່ອໃຫ້ທຸກຄົນຈົບດ້ວຍສິ່ງທີ່ງ່າຍ.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+ສຳລັບຮູບແບບກຸ່ມອື່ນ ລວມທັງ picture bingo ແລະ ການຮ້ອງເພງນຳກັນ ເບິ່ງ [ກິດຈະກຳກຸ່ມສຳລັບສູນດູແລ](/activities/care-home-groups/).
 
-## When to change the plan
+## ເວລາໃດຄວນປ່ຽນແຜນ
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+ຖ້າມີຄົນເບິ່ງກັງວົນ ງຽບໄປ ຫຼື ເວົ້າວ່າ “ຂ້ອຍບໍ່ຮູ້” ຫຼາຍກວ່າໜຶ່ງຄັ້ງ ໃຫ້ເຮັດໃຫ້ມັນງ່າຍຂຶ້ນ: ຫຼຸດເຫຼືອສອງທາງເລືອກ ຕອບນຳກັນ ຫຼື ປ່ຽນໄປຖາມແບບ “ອັນນີ້ ຫຼື ອັນນັ້ນ”. ຖ້າກຸ່ມຢາກສົນທະນາຄຳຖາມດຽວຕະຫຼອດບ່າຍ ນັ້ນຄືຄວາມສຳເລັດ. ເປົ້າໝາຍບໍ່ເຄີຍເປັນຄຳຕອບທີ່ຖືກ ແຕ່ເປັນເວລາໃນບັນຍາກາດທີ່ດີ.
