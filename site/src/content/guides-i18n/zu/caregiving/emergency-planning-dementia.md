@@ -87,7 +87,7 @@ Tshelani abasebenzi bezempilo ngalezo zinguquko ezingazelelwe ekuziphatheni, eku
 
 ## Ngingalondoloza kanjani uhlelo lusebenza?
 
-Buyekezani uhlu loxhumana nabo, ulwazi lwemithi nezinsiza lapho izinhlelo zokunakekelwa zishintsha. Hlolani izinsuku zezinto ezidingekayo nibuyekeze uhlelo emva kokushintsha indawo noma uma kukhona isidingo esisha sokunyakaza. Buzani umuntu ukuthi uhlelousazizwa lulungile yini nokuthi ufisa ubani ukuba khona.
+Buyekezani uhlu loxhumana nabo, ulwazi lwemithi nezinsiza lapho izinhlelo zokunakekelwa zishintsha. Hlolani izinsuku zezinto ezidingekayo nibuyekeze uhlelo emva kokushintsha indawo noma uma kukhona isidingo esisha sokunyakaza. Buzani umuntu ukuthi uzizwa kanjani ngohlelo nokuthi ufisa ubani ukuba khona.
 
 Abanakekeli nabo badinga usizo oluyisipele. [Umhlahlandlela wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) unemibono yokucela abanye ukuthi babelane ngosizo. Uhlelo olulula olunabasizi abambalwa abathembekile lungasetshenziswa kalula kunohlu elide abangalibuyekezanga.
 
