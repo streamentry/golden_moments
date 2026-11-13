@@ -54,7 +54,7 @@ health: false
 
 [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) adamdan bir zady ýa-da bir adamy ýadyna salýandygyny soramagy gaça durmaly zatlaryň arasynda görkezýär. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gysga möhletli ýada daýanýan soraglardan gaça durmagy we onuň ýerine has uzak geçmiş hakda gürleşmegi maslahat berýär.
 
-| Şunuň ýerine | Munuň synap görüň |
+| Şunuň ýerine | Muny synap görüň |
 | --- | --- |
 | «Muny ýadyňyzda barmy?» | «Bu bagtly gün ýalydyr. Ol hakda aýdyp beriň.» |
 | «Bu kim?» | «Bu Roza daýza kenarda. Şol şlýapa serediň.» |
