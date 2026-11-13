@@ -45,7 +45,7 @@ health: true
 
 Umuntu ophila nedementia angase akhohlwe ukuphuza noma angazwa ukoma. Iziphuzo ezingabonakali kahle noma ezinzima ukubamba zingase zingabonwa kalula. Izinguquko ezincane emkhubeni zingenza iziphuzo zamukeleke kalula, ngenkathi umuntu eqhubeka elawula.
 
-[Umhlahlandlela we-Alzheimer's Association ngokudla nokudla nokuphuza](https://www.alz.org/help-support/caregiving/daily-care/food-eating) uncoma ukunikeza izinkomishi ezincane zoketshezi ngosuku lonke nokudla okunamanzi kukho. [Iseluleko se-Dementia Australia ngokudla](https://www.dementia.org.au/living-dementia/staying-healthy/nutrition-and-dementia) sincoma nokuthi kusetshenziswe iziphuzo ezijwayelekile nokufinyeleleka kalula. Leli khasi linikeza imibono jikelele, hhayi inani loketshezi losuku lomuntu othile.
+[Umhlahlandlela we-Alzheimer's Association ngokudla nokuphuza](https://www.alz.org/help-support/caregiving/daily-care/food-eating) uncoma ukunikeza izinkomishi ezincane zoketshezi ngosuku lonke nokudla okunamanzi kukho. [Iseluleko se-Dementia Australia ngokudla](https://www.dementia.org.au/living-dementia/staying-healthy/nutrition-and-dementia) sincoma nokuthi kusetshenziswe iziphuzo ezijwayelekile nokufinyeleleka kalula. Leli khasi linikeza imibono jikelele, hhayi inani loketshezi losuku lomuntu othile.
 
 ## Ngingenza kanjani iziphuzo zibonakale futhi zifinyeleleke kalula?
 
@@ -77,9 +77,9 @@ Bhalani phansi okwakubonakala nesikhathi. Faka ukuthi umuntu wayegula yini, esen
 
 ## Kwenzenjani uma ukuphuza sekuba nzima?
 
-Uma umuntu ehefuzela, echoboza, ebamba ukudla noma uketshezi emlonyeni, noma enobunzima obusha bokumunya, yimani nicele iseluleko kochwepheshe abaqeqeshiwe. Ningajiyi iziphuzo, noma nishintshe ukuthungwa kokudla noma nizame amasu okumunya ngaphandle uma ochwepheshe belincome lolo hlelo lomuntu. [Umhlahlandlela wethu wokudla](/caregiving/mealtimes-with-dementia/) uchaza okufanele wenziwe uma kukhona izinkinga ezintsha zokutshiza noma zokumunya.
+Uma umuntu ehefuzela, echoboza, ebamba ukudla noma uketshezi emlonyeni, noma enobunzima obusha bokumunya, yimani nicele iseluleko kochwepheshe abaqeqeshiwe. Ningajiyi iziphuzo, noma nishintshe ukuthungwa kokudla noma nizame amasu okumunya ngaphandle uma ochwepheshe belincome lolo hlelo lomuntu. [Umhlahlandlela wethu wokudla](/caregiving/mealtimes-with-dementia/) uchaza okufanele wenziwe uma kukhona izinkinga ezintsha zokutshiwa noma zokumunya.
 
-Uma umuntu enomlomo owomile, amazinyo abuhlungu noma izinsimbi zamazinyo ezingakuzwakali kahle, mbuzeni ukuthi yini ayizwayo bese nixhumana nodokotela wamazinyo noma udokotela. Ubuhlungu emlonyeni bungenza ukuphuza kube nzima. Bheka [umhlahlandlela wethu wokunakekela komlomo](/caregiving/oral-care-with-dementia/) ngezindlela ezithambile zokusekela ukunakekelwa komlomo.
+Uma umuntu enomlomo owomile, amazinyo abuhlungu noma amazinyo angamanga angakwanele ngokuzwakala kahle, mbuzeni ukuthi yini ayizwayo bese nixhumana nodokotela wamazinyo noma udokotela. Ubuhlungu emlonyeni bungenza ukuphuza kube nzima. Bheka [umhlahlandlela wethu wokunakekela komlomo](/caregiving/oral-care-with-dementia/) ngezindlela ezithambile zokusekela ukunakekelwa komlomo.
 
 Ukudideka okuzumayo kudinga usizo lwezokwelapha ngokushesha. [Iseluleko se-NHS ngokudideka okuzumayo](https://www.nhs.uk/symptoms/confusion/) sincoma abantu ukuthi bangazihlolisisi ngokwabo. Sebenzisani amasevisi ezimo eziphuthumayo endaweni enihlala kuyo noma landelani inqubo yokunakekelwa okuphuthumayo.
 
