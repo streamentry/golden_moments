@@ -44,7 +44,7 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Galuega faafanua ma galuega lima e foaʻi ai i tagata ma le dementia se auala e faaalia ai i latou lava e le faalagolago i le iloaina o upu saʻo. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) taʻu mai o galuega faafanua e mafai ona aumai [lagona o le manuia ma se mafuaaga](https://www.alz.org/help-support/caregiving/daily-care/art-music) ma se avanoa e faaalia ai le lava ia, mo le tagata e tausia e pei o le tagata ma le dementia. Le mea taua o le tumau o mea i se auala matua, faigofie ma e leai se faamamafa. O lenei itulau o loo tuuina atu ai galuega faapitoa, auala e setiina ai ma pe faapefea ona fetaui pe a suia mea.
+Galuega faafanua ma galuega lima e foaʻi ai i tagata ma le dementia se auala e faaalia ai i latou lava e le faalagolago i le iloaina o upu saʻo. O le Alzheimer's Association taʻu mai o galuega faafanua e mafai ona aumai [lagona o le manuia ma se mafuaaga](https://www.alz.org/help-support/caregiving/daily-care/art-music) ma se avanoa e faaalia ai le lava ia, mo le tagata e tausia e pei o le tagata ma le dementia. Le mea taua o le tumau o mea i se auala matua, faigofie ma e leai se faamamafa. O lenei itulau o loo tuuina atu ai galuega faapitoa, auala e setiina ai ma pe faapefea ona fetaui pe a suia mea.
 
 ## O le ā e mafai ai ona matua se galuega faafanua ae le pei o se tamaiti?
 

@@ -61,9 +61,9 @@ O le [taʻiala a le Alzheimer's Association mo le laasaga muamua](https://www.al
 - **Fuafua se faailoga.** Filifili se upu poʻo se tulituli e uiga i "e mafai ona e ulu atu", e pei o le taimi e le alu ai se igoa i se taʻaloga pepa.
 - **Siaki masani.** Fesili pe tatau le aofaʻi o le fesoasoani, e tele tele poʻo e itiiti.
 
-### Manatu o gaioiga mo le laasaga muamua
+## Manatu o gaioiga mo le laasaga muamua
 
-#### Tumau faiga ma galuega masani
+### Tumau faiga ma galuega masani
 
 - **Tumau le tiute masani.** Se galuega faaaogā o volunteer i le vaiaso, pese poʻo kalapu e tuʻu ai se faiga i le vaiaso. Afai e faigata, se galuega laʻiti poʻo filemu e sili atu.
 - **Fuafua meaʻai faatasi.** Afai o le faatau meaʻai ua faigata, o le Alzheimer's Association fautua fesili i le tagata e fesoasoani i le fuafuaga o le vaiaso ma tusia le lisi.
@@ -71,7 +71,7 @@ O le [taʻiala a le Alzheimer's Association mo le laasaga muamua](https://www.al
 - **Faatoʻaga.** Fuafua se mea, filifili fuata poʻo laau ma faia galuega faatasi. O se lisi tusi o galuega o le vaiaso e fesoasoani.
 - **Tumau se galuega lima.** Galuega faiga fuʻa, lalaga, faʻatalaina poʻo faia fale manu e mafai ona faaauau ma faiga faigofie ma malamalama lelei.
 
-#### Taʻaloga mo le fiafia
+### Taʻaloga mo le fiafia
 
 - **Taʻalo taʻaloga pepa ma taʻaloga laulau.** Taʻaloga masani e sili ona faigofie. Taʻalo i vaega ina ia leai se tasi e faalavelave, ma tuʻu se numera ma le leai pe a manaʻo.
 - **Taumafai se suʻesuʻega upu tetele.** O le [word search](/games/word-search/) a matou e mafai ona taʻalo i luga o le masini poʻo lolomi mo se taimi filemu.
@@ -80,14 +80,14 @@ O le [taʻiala a le Alzheimer's Association mo le laasaga muamua](https://www.al
 
 Taʻaloga mo le fiafia iinei. E leai se taʻaloga na faaalia e togafitia poʻo faaʻitiitia ai le dementia; faitau mai [taʻaloga o le mafaufau: le mea o loo faaalia e le suʻesuʻega](/brain-health/brain-games/).
 
-#### Tusitusi, faamatalaga ma le faamaumau
+### Tusitusi, faamatalaga ma le faamaumau
 
 - **Tumau le tusi faamatalaga.** O le Alzheimer's Association fautua tusi faamatalaga e avea ma auala e faagaʻo ai lagona ina ua maeʻa le faailoaina. O se laina poʻo ni upu i aso taʻitasi e lava.
 - **Taʻitaʻi se tusi tala o le olaga.** O le laasaga muamua o se taimi lelei mo le tagata e filifili ana lava ata ma tusia poʻo faamatala tala o i ai. Vaai i [gaioiga o le toe manatuina](/activities/reminiscence/).
 - **Tusi tusi.** O se tusi i se mokopuna, se uo anamua poʻo se paaga galuega e mafai ona taua mo itu uma.
 - **Faitau ata faatasi.** [Photo pairs](/games/photo-pairs/) e liliu ai ata o le aiga i se taʻaloga fetaui faigofie, ma [conversation cards](/games/conversation-cards/) o loo ofo ai amataga faigofie mo se talanoa.
 
-#### Alu i fafo ma gaosi
+### Alu i fafo ma gaosi
 
 O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fautua faaauau malaga masani pe a fiafia ua tatou uma. Fuafua i le taimi sili o le tagata ma aua le faaumi.
 
