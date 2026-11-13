@@ -1,7 +1,7 @@
 ---
 title: "Tascas de casa coma activitats per las personas amb demència"
 seoTitle: "Activitats de casa per la demència : tascas de cada jorn"
-description: "Plegar, triar, metre la taula e cosinar simple pòdon èsser d'activitats que tenon sens per las personas amb demència. Cossí las preparar, adaptar e far segur."
+description: "Plegar, triar, metre la taula e cosinar simple pòdon donar sens a una activitat per las personas amb demència. Cossí las preparar, adaptar e far segur."
 section: activities
 order: 8
 updated: 2026-10-25
@@ -10,12 +10,12 @@ summary: >-
   Las tascas de cada jorn coma plegar de tolhas, aparelhar de chausetas, metre
   la taula, netejar la taula, arrosar las plantas e ajudar a la cosina simpla
   pòdon donar a una persona amb demència un biais reiau d'ajudar. Causissètz de
-  tascas que coneis, copatz-las en de passes simples, levatz los objèctes
+  tascas que coneissètz, copatz-las en de passes simples, levatz los objèctes
   tranchants o caluroses e donatz mai de valor a la participacion qu'a la faiçon
   « juste ».
 keyPoints:
   - "Las tascas familiaras pòdon ajudar una persona a se sentir utila e part de l'ostal, çò que sovent compta mai que la faiçon de far la tasca."
-  - "Copatz cada tasca en de passes simples, mostratz mai que explicatz, e prenètz doçament en man tot pas que deven dur."
+  - "Copatz cada tasca en de passes simples, mostratz mai que explicatz, e prenètz doçament en man los passes que venon durs."
   - "Barratz los cotèls, los produits de netejatge e las capsulas de lavatge, e metètz de proteccions als botons del fornèl o un arrèst automatic abans de cosinar ensemble."
   - "Las tolhas plegadas an pas besonh d'èsser replegadas davant la persona. S'un trabalh deu èsser refèt, fasètz-lo mai tard e fòra de vista."
   - "Se una tasca crea frustracion, passatz a un pas mai aisit, ensajatz un autre còp o simplament asseire-vos ensemble."
@@ -54,7 +54,7 @@ Las tascas marchan perque son familiaras e perque an un objectiu clar. Lo Nation
 
 Una tasca a tanben sa pròpria rason de començar. « Me poiriatz ajudar amb aquestas tolhas ? » es mai aisit de dire òc que « Volètz far una activitat ? ».
 
-## Qualas tascas de casa son bonas de ensajar ?
+## Quinas tascas de casa son bonas de ensajar ?
 
 Comencetz per de tascas que la persona fasiá abans, puèi acordatz-las a çò que pòt far uèi.
 
@@ -68,7 +68,7 @@ Comencetz per de tascas que la persona fasiá abans, puèi acordatz-las a çò q
 
 - **Metre la taula.** Disposatz un sol coèrt coma modèl e laissatz la persona copiar. Se es tròp, balhatz-li un objècte per cop : « Vaquí una fórca per cada plat. »
 - **Triar la vaissèla.** Mesclatz de fórcas, de culhièrs e de cotèls de burre nets dins una tina e triatz-los dins un plat compartimentat. Laissatz los cotèls tranchants a part.
-- **Sustar la vaissèla.** Los platas de plastic o non cassablas e una tolha molla fan d'aquò un trabalh segur.
+- **Secar la vaissèla.** Los platas de plastic o non cassablas e una tolha molla fan d'aquò un trabalh segur.
 - **Netejar la taula o los comptadors.** Un tovalhon umid e una superfícia clara. L'Alzheimer's Association suggerís de balhar un tovalhon se la persona fròta ja la taula amb la man, transformant un gèst agitat en gèst util.
 
 ### A l'entorn de l'ostal
