@@ -1,7 +1,7 @@
 ---
 title: "Una rotina quotidiana doça per las personas amb demència"
 seoTitle: "Rotina quotidiana per la demència : una jornada d'exemple"
-description: "Una jornada d'exemple flexibla per una persona amb demència, amb repas, activitats e repaus dins un ritme estable, e coma far la sieuna e l'adaptar als jorns mai difícils."
+description: "Una jornada d'exemple flexibla per una persona amb demència, amb repas, activitats e repaus, e coma far la vòstra e l'adaptar als jorns mai difícils."
 section: activities
 order: 15
 updated: 2026-10-25
@@ -17,15 +17,15 @@ keyPoints:
   - "Metètz l'activitat principala al melhor moment del jorn per la personna, sovent lo matin."
   - "Non cal pas omplir cada minuta. Lo repaus e lo temps calme fan partida de la rotina."
   - "La lutz del jorn, lo movement cada jorn e l'evitament de las sèstas longas e de la cafeïna tardiva pòdon ajudar contra l'agitacion del vèspre."
-  - "La rotina es una guida, pas una règla. Cambiatz, rebatzatz o suprimissètz çò que cal sus los jorns mai difícils."
+  - "La rotina es una guida, pas una règla. Cambiatz, escorçatz o suprimissètz çò que cal sus los jorns mai difícils."
 faq:
   - q: "Perqué una rotina ajuda una persona amb demència?"
-    a: "Una jornada previsibla vòl dire mens de decisions e de surprisas, çò que de personas amb demència trobon tranquilizant. L'Alzheimer's Association nòta que un jorn planificat vos permet de passar mens de temps a trobar qué far e mai de temps als jòcs e a las activitats que vos agradan tots dos. Ajuda tanben l'aidant a organizar son pròpri jorn."
+    a: "Una jornada previsibla vòl dire mens de decisions e de surprisas, çò que plan de personas amb demència trobon tranquilizant. L'Alzheimer's Association nòta que un jorn planificat vos permet de passar mens de temps a trobar qué far e mai de temps als jòcs e a las activitats que vos agradan tots dos. Ajuda tanben l'aidant a organizar son pròpri jorn."
   - q: "Quina es una bona organizacion del jorn per una persona amb demència?"
     a: "Existís pas un sol emplec just. Una bona organizacion manten lo lever, los repas e l'ora de dormir a pauc près a las mêmas oras, planifica las curas personalas e l'activitat principala quand la personna es en melhor forma, inclutz de temps a l'exterior o près d'una fenèstra e laissa lo lòc al repaus. Bastissètz-la segon la faiçon de viure de la personna, practicada tota la vida."
   - q: "Una persona amb demència deu far de sèstas de jorn?"
     a: "Un repaus corte pòt ajudar, sobretot aprèp lo dinnar. Lo National Institute on Aging suggerís de desencoratjar las sèstas longas e las somnolèncias tardivas, perque èsser tròp fatigat o mal repausat pòt aumentar l'agitacion del vèspre. Se lo someil es un problèma real, parlatz-ne amb lo metge."
-  - q: "Qué far s'refusan de seguir la rotina?"
+  - q: "Qué far se refusan de seguir la rotina?"
     a: "Lassatz-ho per l'instant e tornatz ensajar pus tard o d'una autra faiçon. Lo refús pòt voler dire que son fatigats, malauts, en dolor o pas encara prèsts. La rotina es aquí per facilitar lo jorn, donc plegatz-la, pas la forçatz."
 sources:
   - title: "Daily Care Plan"
@@ -59,10 +59,10 @@ Las oras son pas que d'exemples. Desplaçatz tota la jornada mai aviat o mai tar
 | --- | --- | --- | --- |
 | 8:00 a.m. | Se lever, se rentar, s'abilhar | Lo meteis òrdre cada jorn ; las pròprias rauba preparadas dins l'òrdre de se vestir | Gardar las curas simplas ; una camisa fresca ja basta |
 | 8:45 a.m. | Desdejun | Café e lo jornal legit a votz naut, o la ràdio | Manjar ensemble en silenci, sens pression de parlar |
-| 9:30 a.m. | Activitat principala | Plegar la lençaria, far de pastissariá, jardinar, una sortida corta o una passejada | Una version mai corta, o la laissar vos agachar |
+| 9:30 a.m. | Activitat principala | Plegar la lenjaria, far de pastissariá, jardinar, una sortida corta o una passejada | Una version mai corta, o la laissar vos agachar |
 | 10:30 a.m. | Temps calme | Musica, un album de fòtos, o s'asseire près d'una fenèstra | Repausar dins un fauteuil preferit |
 | 11:00 a.m. | Ajuda pel dinnar | Rentar los legums, mestre la taula | Vos cuizinatz ; ela vos fa companhia |
-| 12:00 p.m. | Dinnar e rangament | Netejar la taula, sugar qualques plats | Passar las taulas |
+| 12:00 p.m. | Dinnar e rangament | Netejar la taula, sugar qualques plats | Sautar las tascas |
 | 1:00 p.m. | Repaus corte | Pès sus un escabèl, musica doça | Lo meteis |
 | 2:00 p.m. | Defòra o activa | Passejada, temps sus la veranda, arrosar las plantas, lançar un balon | S'asseire près d'una fenèstra ensolelhada |
 | 3:00 p.m. | Social o creatiu | Una visita, un apèl, [parelhs d'imatges](/games/picture-pairs/), colorejar, cartas | Un vèrre e una colacion ensemble |
@@ -75,7 +75,7 @@ Aquesta jornada segueix la forma del plan d'exemple de l'Alzheimer's Association
 
 ## Cossí bastir la vòstra pròpria rotina ?
 
-Partissetz de la faiçon de viure de la personna, pas d'un tablèu. L'Alzheimer's Association suggerís de pensar a aquestas causas abans de planificar :
+Partissètz de la faiçon de viure de la personna, pas d'un tablèu. L'Alzheimer's Association suggerís de pensar a aquestas causas abans de planificar :
 
 - **Sas preferéncias, sos goses, sas fortas e sos interèsses.**
 - **Coma passava sa jornada.** Un matinal que marchava totjorn lo ca deu encara marchar de bon matin. Un noctambul poiriá pas jamai apreciar un lever a 8 oras del matin.
