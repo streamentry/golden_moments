@@ -57,7 +57,7 @@ Um persónurin brádliga gerst ruglaður, søk beinanvegin læknahjálp gjøgnum
 
 ## Hvussu kann eg gera vesið lættari at finna og brúka?
 
-Ger leiðina greiða og lætta at síggja. Eitt náttarljós, nóg mikið pláss at ganga og kend støða á gerandisluttum kunnu hjálpa. Eitt einfalt orð ella eitt mynd á hurðini kann vera nyttugt, um persónurin kennir tað aftur. Spyr, áðrenn tú letur hurðina á vesinum standa opna, tí persónurin kann heldur vilja hava privatlív.
+Ger leiðina greiða og lætta at síggja. Eitt náttarljós, nóg mikið pláss at ganga og kend støða á gerandisluttum kunnu hjálpa. Eitt einfalt orð ella eina mynd á hurðini kann vera nyttugt, um persónurin kennir tað aftur. Spyr, áðrenn tú letur hurðina á vesinum standa opna, tí persónurin kann heldur vilja hava privatlív.
 
 Klæði, sum persónurin lættliga klárar, kunnu minka um óneyðug trin. Hald vanligu klæðini innan fyri røkkivídd, og sleppa einum nýggjum lási ella broyttari goymslu, um tað ger rútinuna minni kenda. [Vegleiðingin okkara um heimatryggleika](/caregiving/home-safety/) viðger ljós og ein fría leið til vesið. Spyr ein virksemisterapeut ella annað hóskandi fakfólk, áðrenn tú broytir útgerð á vesinum ella setir handrið upp.
 
