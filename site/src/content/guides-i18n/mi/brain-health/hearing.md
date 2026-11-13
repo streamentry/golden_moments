@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Te ngoikoretanga whakarongo me te mate wareware: ngā kitenga"
+seoTitle: "Te ngoikoretanga whakarongo me te mate wareware"
+description: "He aha te ngoikoretanga whakarongo te tūraru nui o te mate wareware, te kitenga o te whakamātautau awhi ACHIEVE, me ngā huarahi ki te whai whakarongo, ki te kōrero ngāwari ake."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Nā te Lancet Commission 2024 i whakaingoa te ngoikoretanga whakarongo hei tētahi o ngā tūraru nui ka
+  taea te whakarerekē mō te mate wareware. I te whakamātautau ACHIEVE, kāore i whakaiti ngā awhi whakarongo
+  i te heke o te whakaaro mō te katoa, engari he iti ake te heke i tētahi rōpū tūraru teitei. Ka āwhina ngā
+  awhi whakarongo ki te kōrero me te oranga o ia rā ahakoa he aha. Whakamātauria tō whakarongo, whakaarohia
+  ngā awhi tārewa, ā, kōrerohia tētahi ringatoi.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "E whakatau ana te Lancet Commission tata ki te 7% o te mate wareware o te ao i te ngoikoretanga whakarongo, he rite ki te wāhanga nui rawa i ngā tūraru 14."
+  - "I te whakamātautau ACHIEVE o 977 ngā pakeke kaumātua, kāore i rerekē te heke o te whakaaro e toru tau ngā awhi whakarongo mō te katoa."
+  - "I tētahi rōpū iti, tūraru teitei i roto i ACHIEVE, he 48% te puhoi o te heke o te whakaaro ina whai awhi whakarongo; me whakamana tērā."
+  - "Mai i te 17 o Whiringa-ā-nuku 2022, ka taea e ngā pakeke US e whakaaro ana he ngoikoretanga whakarongo iti ki te waenga te hoko awhi whakarongo ā-kaunuku, kāore he tuhinga rongoā, i ngā toa, i te ipurangi rānei."
+  - "I te 2024 i tāpirihia te ngoikoretanga tirohanga kāore i maimoatia hei tūraru mate wareware, nā reira he mea nui hoki ngā tirotiro karu."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ka aukati ngā awhi whakarongo i te mate wareware?"
+    a: "Kāore anō kia whakamanatia. Kāore i kitea e te whakamātautau ACHIEVE tētahi pānga mō te katoa ki te heke o te whakaaro i roto i ngā tau e toru, ahakoa i pai ake tētahi rōpū tūraru teitei. He mea whai whakaaro tonu ngā awhi whakarongo, nā te mea ka māmā ake te kōrero, te haumaru me te oranga o ia rā."
+  - q: "Ko wai ka taea te hoko awhi whakarongo ā-kaunuku?"
+    a: "Ka whakaae te FDA ki ngā pakeke e 18 ngā tau me runga ake, e whakaaro ana he ngoikoretanga whakarongo iti ki te waenga, kia hokona ngā awhi ā-kaunuku i ngā toa, i te ipurangi rānei, kāore he tuhinga rongoā. Ehara ēnei mō te ngoikoretanga whakarongo nui. Mēnā he mamae taringa, he wai, he pōrangi, he panonitanga whakarongo ohorere, me kite tuatahi ki tētahi ringatoi."
+  - q: "Ka rite pea te ngoikoretanga whakarongo ki te mate wareware?"
+    a: "Ka rite pea. E kī te National Institute on Aging he hē tonu te whakaaro ki ngā pakeke e kore e taea te rongo pai, he pōhēhē, he kore tāpiri rānei. Mēnā he rite te tangata ki te wehe atu, ki te ngaro i ngā kōrero, he pai te whakamātau whakarongo hei mahi tuatahi."
+  - q: "He aha te wā e tika ai ngā pakeke kia tirohia ō rātou karu?"
+    a: "E kī te National Institute on Aging kia kite karu whakamāmā (dilated) ia tau, ia rua tau rānei i muri i te 60 ngā tau, pērā rānei i te tohutohu a tō ringatoi tirohanga. Ko ngā tāngata e mate huka ana, e pēhanga toto teitei ana, he nui te tikanga kia kite ia tau kotahi."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,143 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+He mea noa te ngoikoretanga whakarongo i te oranga pakeke, ā, e whakaaro nui ana ngā kairangahau ki a ia hei
+tūraru mate wareware. Ehara tēnei i te kī he huarahi kua whakamanatia ko ngā awhi whakarongo hei aukati i te
+mate wareware; he rerekē ngā hua o te whakamātautau pai rawa anō tae noa mai ki nāianei. Ko tēnei whārangi e
+whakamārama i ngā kitenga o te rangahau, me pēhea te whai whakarongo, he aha ngā awhi ā-kaunuku o US, me pēhea
+te kōrero ngāwari ake.
 
-## Why does hearing matter for brain health?
+## He aha te whakarongo te mea nui mō te hauora roro?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+He hono te ngoikoretanga whakarongo ki te tūraru nui ake o te mate wareware. E whakatau ana te
+[Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) tata ki te 7% o te mate wareware o te ao
+i te ngoikoretanga whakarongo. Nā tēnei, he rite ia ki te tūraru o te cholesterol LDL teitei mō te wāhanga nui rawa
+i ngā tūraru 14 ka taea te whakarerekē i te tauira a te Commission, i ahu mai i
+[te whakarāpopototanga a UCL mō te pūrongo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Ko ngā kitenga matua o te Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Te tūraru teitei me te ngoikoretanga whakarongo.** I tana tātaritanga whakakotahi o ngā rangahau kounga teitei
+  e ono, he tūraru tata ki te 37% teitei ake te mate wareware o ngā tāngata he ngoikoretanga whakarongo, i ngā
+  tāngata e rongo pai ana.
+- **He nui ake te ngoikoretanga, he nui ake te tūraru.** I kitea i ngā rangahau i āta titiro ki te taumata, ka
+  piki te tūraru ina pōrearea ake te whakarongo.
+- **He whakaaro pea, kāore anō kia whakamanatia.** Ko ngā whakaaro he mokemoke me te wehe atu, te pōuri, te iti o
+  te whakaohooho i te roro, me te kaha hinengaro nui ki te whakarongo.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+He nui te ngoikoretanga whakarongo. E kī te [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults)
+tētahi hautoru o ngā pakeke e pā ana te ngoikoretanga, ā, ka piki ake te tūponotanga ina pakeke.
 
-## What did the ACHIEVE hearing aid trial find?
+## He aha te kitenga o te whakamātautau awhi whakarongo ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+Ko ACHIEVE te whakamātautau ā-matapōkere tuatahi mō ngā awhi whakarongo me te heke o te whakaaro. He mea
+pōhara te pūrongo ā-hōhonu, nā reira anei ngā kōrero mai i
+[te pūrongo whakamātautau kua whakaputaina](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/):
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Ko wai i uru:** 977 ngā pakeke e 70 ki te 84 ngā tau te pakeke, he ngoikoretanga whakarongo kāore i
+  maimoatia, kāore he raruraru whakaaro nui, i ngā wāhi hapori e whā i US.
+- **He aha i whakatauritea:** Ko te hawhe i whiwhi awhi whakarongo me ngā akoranga kōrero ki tētahi audiologist.
+  Ko te hawhe anō i whiwhi hōtaka mātauranga hauora mō te oranga pakeke.
+- **Te hua matua:** I muri i ngā tau e toru, **kāore he rerekētanga** i te heke o te whakaaro i waenga i ngā rōpū
+  e rua mō te katoa.
+- **Te hua o te rōpū iti:** I kuhua mai te whakamātautau mai i ngā puna e rua. E 238 ngā tāngata i ahu mai i tētahi
+  rangahau ngākau-hauora roa (ARIC), ā, he tūraru teitei ake te heke o te whakaaro i tēnei rōpū. I tēnei rōpū,
+  **he 48% te puhoi** o te heke o te whakaaro ina whai awhi whakarongo. I waenga i ngā tūao hapori hauora e 739,
+  kāore he pānga mārama.
 
-How to read this honestly:
+Me pēhea te pānui i tēnei mā te pono:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ko te whakautu whānui he kore pānga.
+- I whakaritea mua te kitenga o te rōpū iti, engari i ahu mai i te tātaritanga tuarua o tētahi rōpū iti ake. Me
+  whakamana i ētahi atu rangahau.
+- I mōhio ngā kaiuru ki tā rātou hōtaka, he pānga pea tērā ki ngā hua.
+- E pānui ana te Lancet Commission i ngā taunakitanga hei whakaatu he pai ake ngā awhi whakarongo mō ngā tāngata
+  he ngoikoretanga whakarongo me ētahi atu tūraru mate wareware.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Ko te tino kōrero, ehara i te mea he taunakitanga pūmau ka aukati ngā awhi whakarongo i te mate wareware. Ka
+āwhina ā-rongo ngā awhi, ka pā ki te kōrero, ki te whai wāhi ki ngā kōrerorero, ki te tūhono tonu, he tino painga
+tērā hei whakaaro ai ki a rātou.
 
-## How do I know if hearing should be checked?
+## Me pēhea e mōhio ai ahau me tirotiro te whakarongo?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Ka kī te NIA me kite i tētahi ringatoi mēnā kei a koe, kei tētahi e tiaki ana koe:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- He raruraru te mārama ki te tangata i te waea
+- He uaua te whai i ngā kōrerorero ina rua, neke atu ngā tāngata e kōrero ana
+- He maha te tono kia kōrero anō te tangata
+- Ka whakarahi te TV ki te nui e amuamu ana ētahi
+- He uaua te mārama ki te kōrero ina whai haruru o muri
+- Ko te whakaaro he ngutu-ngutu te kōrero a ētahi
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Kia tīmata ki tētahi ringatoi tuatahi, ka taea pea te tuku atu koe ki tētahi audiologist (tohunga whakarongo) me
+tētahi tohunga taringa, ihu, korokoro. Ko te kohinga o te wax taringa tētahi take noa o te ngoikoretanga whakarongo
+ka taea te tirotiro e te ringatoi. **Ko te ngoikoretanga whakarongo ohorere he take ohotata**, ā, e tohutohu ana te
+NIA kia kite tonu i tētahi ringatoi.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Ka pohehe pea te ngoikoretanga whakarongo ki te pōhēhē. E kī te NIA ka whakaaro hē pea ngā pakeke e kore e rongo
+pai ana he pōhēhē, he kore whakautu, he kore whakaae rānei. Mēnā ka wehe atu tētahi e aroha ana ki a koe, ka ngaro
+rānei i ngā kōrero, he mahi pai tuatahi te whakamātau whakarongo.
 
-## What are over-the-counter hearing aids?
+## He aha ngā awhi whakarongo ā-kaunuku?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Mai i te 17 o Whiringa-ā-nuku 2022, kua whakaaetia e te [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know)
+tētahi momo awhi whakarongo ā-kaunuku (OTC). Anei te rerekētanga mai i ngā awhi tārewa:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Āhuatanga | Awhi whakarongo ā-kaunuku | Awhi whakarongo tārewa |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Mō wai | Ngā pakeke 18 me runga ake e whakaaro ana he ngoikoretanga whakarongo iti ki te waenga | Ngā taumata katoa o te ngoikoretanga whakarongo, ngā pakeke katoa |
+| Ka pēhea te tiki | I ngā toa, i te ipurangi; kāore he tirotiro, kāore he tuhinga rongoā e hiahiatia ana | Mā tētahi tohunga whakarongo rēhita |
+| Whakatika | Ka whakatikatika koe i ngā tautuhinga ā-tōna, he maha ka mahi mā tētahi āpure | Ka whakaritea e tētahi tohunga mō tō whakarongo |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+E kī te FDA ehara ngā awhi ā-kaunuku mō te ngoikoretanga whakarongo nui, rawa rānei. E tohutohu ana kia kite i
+tētahi ringatoi, ahakoa he tohunga taringa, ihu, korokoro e pai ana, i mua i te hoko mēnā he:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Mamae taringa, he taumahatanga taringa
+- He wai, he pus, he toto i te taringa i ngā marama e ono kua pahure ake nei
+- He panonitanga whakarongo ohorere, he rerekē haere
+- He ngoikoretanga whakarongo i tētahi taringa, he tangitangi i tētahi taringa anake
+- Te pōrangi, te ahopārera (vertigo)
+- He nui te wax taringa
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Me mōhio koe ka mātau te whakamahi awhi whakarongo, nā reira tirohia te kaupapa whakahoki i mua i te hoko, pērā
+i te tohutohu a te FDA. E kī te NIA me pātai mēnā ka utua e tō kaupapa inihua tētahi wāhi o te utu. Mō tētahi e
+noho ana me te mate wareware, ka āwhina tētahi audiologist ki te whiriwhiri i te momo awhi, i te whakatika e māmā
+ai te whakahaere o ia rā.
 
-## How can I talk more easily with someone who has hearing loss?
+## Me pēhea e kōrero ai ahau mā te māmā ki tētahi he ngoikoretanga whakarongo?
 
-The NIA suggests:
+E kī te NIA:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Titiro ki te tangata, pupuri i te whakapiri kanohi**, i te rama pai, kia kite ai ngā ngutu me ngā kanohi.
+2. **Kimihia tētahi wāhi noho mārie.** Whakakoretia te TV, neke atu i te haruru.
+3. **Kōrero kaha iti ake, engari kaua e hamama.** Kōrero māori, ā, i te tere tika.
+4. **Kia mārama tō waha.** Kaua e kai, e kutu kamu, e hipoki i tō waha i te kōrero.
+5. **Whakahoki kōrero ki ngā kupu kē, kaua e whakahoki anō ngā kupu anō.** Ina ngaro tētahi kōrero, kōrerohia
+   ki ētahi kupu kē.
+6. **Tētahi tangata i te wā kotahi.** I roto i te rōpū, kia mōhio ki te whakauru i te tangata.
+7. **Whakamanawanui, ā, pātai he aha te āwhina ka taea e koe.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ka pai ēnei tohutohu me [ō mātou tohutohu whakawhitiwhiti kōrero mō te mate wareware](/caregiving/communication-tips/).
+Ka tango pēhanga i te whakarongo ngā mahi ā-whakaahua. Ko [ngā takirua whakaahua](/games/picture-pairs/) me
+[ngā kāri kōrerorero](/games/conversation-cards/) ka mahi mā tāu e kite ana, ā, ka āhei koe ki te whakaatu i te
+mutunga, ehara i te kī, mā [te whakaoti i te kīwaha](/games/finish-the-saying/). Mō ngā piki waea, titiro ki tā mātou
+aratohu mō [ngā waea me ngā waea ataata](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Ko te tirohanga he mea nui hoki
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+I te 2024 i tāpiri te Lancet Commission i te ngoikoretanga tirohanga kāore i maimoatia hei tūraru hou mō te mate
+wareware. E kī te whakarāpopototanga a UCL tata ki te 2% ōna o ngā keehi mate wareware, ā, e tohutohu ana te
+Commission kia wātea ngā tirotiro me ngā maimoatanga mō ngā raruraru tirohanga ki te katoa. E tohutohu ana te
+[NIA](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) i te tirotiro karu whakamāmā (dilated)
+ia tau, ia rua tau rānei i muri i te 60 ngā tau, me te tirotiro i ngā karu-whakatika hoki. Ahakoa he iti noa ngā
+panonitanga o te kitenga, ka piki pea te tūraru o te hinga.
 
-## Talk with a doctor
+## Kōrero ki tētahi ringatoi hauora
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Pātai ki tētahi ringatoi mō ngā tirotiro whakarongo me te tirohanga mēnā kei te kite koe i tētahi o ngā tohu i
+runga ake nei. Tonoa he āwhina ohotata mō te ngoikoretanga whakarongo ohorere, te mamae taringa, te wai taringa
+rānei. Mēnā kei te tiaki koe i tētahi e mate wareware ana, kōrerohia ki tana ringatoi ngā panonitanga whakarongo,
+tirohanga rānei, ka pā pea ki te pōuri, te haumaru me te whai wāhi o te tangata ki ngā mahi.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+He kōrero whānui tēnei, ehara i te tohutohu hauora. Tirohia tā mātou [whakapāhatanga hauora](/medical-disclaimer/).
+Hei pānui atu, [te whanaungatanga pāpori me te hauora roro](/brain-health/social-connection/).
