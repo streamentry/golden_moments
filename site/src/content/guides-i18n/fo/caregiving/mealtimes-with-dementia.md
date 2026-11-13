@@ -53,7 +53,7 @@ Ger, at máltíðin sær einføld út, áðrenn tú broytir tað, sum verður bo
 
 - **Minka um ljóð.** Sløkk sjónvarpið og lækka onnur ljóð, sum kappast um tilvitið. Set persónin burtur frá ferðsluni í køkinum, um tað hjálpir honum ella henni at einbeita seg.
 - **Rudda óneyðugar hlutir burtur.** Set bert fram ta ræðskap og krydd, sum persónurin kemur at brúka. Flyt servittir, blómur ella aðrar hlutir, sum kunnu fáa sjónina at flakka ella verða mistiknir fyri mat.
-- **Brúka greiðan kontrast.** Ein reyður diskur, sum stendur í mun til borðbúnað ella borð, kann gera tað lættari at síggja matin. Ger burtur úr diskum og dúkum við nógvum mynstrum.
+- **Brúka greiðan kontrast.** Ein einfaldur diskur, sum stendur í mun til borðbúnað ella borð, kann gera tað lættari at síggja matin. Ger burtur úr diskum og dúkum við nógvum mynstrum.
 - **Hygg eftir ljósi og hita.** Tryggja tær, at persónurin sær diskin, og royn mat og drykk, áðrenn tú ber fram, so at tað ikki er ov heitt.
 - **Halt fast í eina kenda rútinu.** Um ein ávísur stað, ein ávís tíð ella ein ávís uppstilling av borðinum kennist tryggur, royn at halda hann støðugan. Broyt bert tað, sum voldar trupulleika.
 

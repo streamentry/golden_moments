@@ -61,7 +61,7 @@ Ger leiðina greiða og lætta at síggja. Eitt náttarljós, nóg mikið pláss
 
 Klæði, sum persónurin lættliga klárar, kunnu minka um óneyðug trin. Hald vanligu klæðini innan fyri røkkivídd, og sleppa einum nýggjum lási ella broyttari goymslu, um tað ger rútinuna minni kenda. [Vegleiðingin okkara um heimatryggleika](/caregiving/home-safety/) viðger ljós og ein fría leið til vesið. Spyr ein virksemisterapeut ella annað hóskandi fakfólk, áðrenn tú broytir útgerð á vesinum ella setir handrið upp.
 
-Rúmið skal kennast privat og kent. Minka um ruddi, sum persónurin kundi mistikið fyri vesið ella okkurt annað. Halt ljósbrotaran lættan at finna. Broyt eitt í senn, og halt tað bert, um persónurin kennir seg bekvæman við tað.
+Rúmið skal kennast privat og kent. Minka um ruddi, sum persónurin kundi mistikið fyri vesið ella okkurt annað. Halt ljósknøttin lættan at finna. Broyt eitt í senn, og halt tað bert, um persónurin kennir seg bekvæman við tað.
 
 ## Hvat kann eg siga, tá ið persónurin møguliga skal á vesi?
 
@@ -93,7 +93,7 @@ Søk beinanvegin læknahjálp, um persónurin brádliga gerst ruglaður. Fyri a�
 
 ## Hvussu kann eg býta arbeiðið virðiliga?
 
-Um fleiri hjálpa, spyr persónin, hvat hann ella hon er bekvæm(ur) at deila. Ein privat viðmerking við ynsktu orðum, rútinu og slagi av hjálp kann sleppa undan at greiða frá aftur og aftur. Deil bert tað, sum næsti hjálpari hevur brúk fyri at vita, og dagfør viðmerkingina, um ynski persónsins broytast.
+Um fleiri hjálpa, spyr persónin, hvat hann ella hon er bekvæm at deila. Ein privat viðmerking við ynsktu orðum, rútinu og slagi av hjálp kann sleppa undan at greiða frá aftur og aftur. Deil bert tað, sum næsti hjálpari hevur brúk fyri at vita, og dagfør viðmerkingina, um ynski persónsins broytast.
 
 Stuðul á vesinum kann eisini vera tryttandi fyri tey, sum røkja. Bið ein álitisfólk ella eina røktartænastu taka ein túr, um persónurin samtykkir. [Vegleiðingin um sjálvrøkt hjá teimum, sum røkja](/caregiving/caregiver-self-care/) hevur hættir at søkja stuðul og hvíld. Virðilig røkt merkir at verja bæði privatlív persónsins og førleika tess, sum røkir, at halda fram.
 
