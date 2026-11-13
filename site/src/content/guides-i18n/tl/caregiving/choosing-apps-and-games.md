@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Paano Pumili ng mga App at Laro para sa Dementia"
+seoTitle: "Paano Pumili ng mga App at Laro para sa Dementia: Checklist"
+description: "Checklist sa pagpili ng app o laro para sa dementia: piliin muna ang layunin, iwasan ang timer at ad, suriin ang privacy, at mag-ingat sa pangako."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Simulan sa kung ano ang gusto mong gawin ng app: banayad na pagpapasigla, pagbabalik-tanaw, kalma, o pagkakakonekta. Pagkatapos, pumili ng isang angkop sa kakayahan ng tao ngayon, na may malalaking larawan, walang timer, iskor, o ad, at madaling paraan para huminto. Suriin kung anong datos ang kinokolekta at kung maaari itong burahin. Mag-ingat sa mga pangakong pumipigil o gumagamot ng dementia; hindi patunay ang iisang pag-aaral.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Unahin ang layunin: pagpapasigla, pagbabalik-tanaw, kalma, at pagkakakonekta ay nangangailangan ng magkakaibang app."
+  - "Angkop sa kakayahan ng tao sa araw na iyon, hindi sa label ng yugto, at panatilihing simple ang mga kontrol."
+  - "Iwasan ang mga app na may timer, iskor, mga buhay, sunod-sunod na panalo, ad, o prompt sa pagbili."
+  - "Suriin ang koleksyon, pagbabahagi, at pagbura ng datos. Karaniwang hindi sakop ng HIPAA ang mga app para sa karaniwang gumagamit."
+  - "Mag-ingat sa pangakong “pumipigil sa dementia.” Ang isang pagsubok, o mas magandang iskor sa app, ay hindi patunay."
+  - "Ang Golden Moments ay isang libangang gawain. Wala itong klinikal na pangako."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Makakapigil ba ng dementia ang mga larong pang-utak?"
+    a: "Walang sapat na ebidensya na pumipigil o nagpapabagal ng dementia ang mga komersyal na app na larong pang-utak. Sinasabi ng National Institute on Aging na kulang pa ang ebidensya na ang mga komersyal na app sa pagsasanay ng utak ay may parehong epekto ng istrukturadong pagsasanay na sinubukan sa isang malaking pananaliksik. Pumili ng app para sa kasiyahan at pagkakakonekta, hindi bilang gamot."
+  - q: "Sakop ba ng HIPAA ang app para sa dementia?"
+    a: "Karaniwan hindi. Sa pangkalahatan, sakop ng HIPAA ang mga tagapagbigay ng pangangalagang pangkalusugan, mga planong pangkalusugan, at ang kanilang mga business associate. Karaniwang hindi sakop ang app na ikaw mismo ang nag-download, maliban kung ibinigay ito ng isa sa kanila. Sakop ng Health Breach Notification Rule ng FTC ang maraming health app na hindi sakop ng HIPAA."
+  - q: "Ano ang dapat na itsura ng magandang laro para sa dementia?"
+    a: "Malalaki at malinaw na larawan at teksto, isang malinaw na gawain sa bawat screen, walang timer o iskor, walang buzzer sa mga pagkakamali, walang ad, at madaling paraan para mag-pause o huminto. Dapat itong mukhang ginawa para sa mga nasa hustong gulang at madaling salihan ng ikalawang tao."
+  - q: "Nag-aangkin ba ang Golden Moments na nakakatulong sa alaala?"
+    a: "Hindi. Nag-aalok ang Golden Moments ng simpleng pinagsasaluhang gawain para sa kasiyahan at usapan. Hindi ito nagdidiyagnos, gumagamot, pumipigil, o sumusukat ng dementia, at wala kaming pangako tungkol sa alaala o pag-iisip."
+  - q: "Dapat ba akong magbayad para sa app ng dementia?"
+    a: "Subukan muna ang mga libreng opsyon o libreng panahon ng pagsubok, at obserbahan kung paano tumutugon ang tao sa loob ng ilang linggo. Hindi nagiging mas epektibo ang app dahil binayaran ito. Alamin kung paano ito kanselahin bago ka mag-subscribe."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Puno ang mga app store ng mga larong may markang para sa nakatatanda, alaala, o dementia. May ilan na maingat ang pagkakagawa. Ang iba ay nagdadagdag ng mga pangakong parang medikal, mga timer na ginagawang pagsusulit ang laro, o mga ad at pangongolekta ng datos. Binibigyan ka ng pahinang ito ng paraan para husgahan ang anumang app nang mag-isa. Hindi kami nagra-rank o nagsusuri ng ibang produkto.
 
-## What should I decide before choosing a dementia app?
+## Ano ang dapat mong pasyahan bago pumili ng app para sa dementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Pasyahan kung ano ang gusto mong gawin ng app. Ang “larong pang-Nanay” ay maaaring may iba't ibang kahulugan, at ang pinakamagandang pagpili para sa isang layunin ay madalas na mahinang pagpili para sa iba.
 
-| Goal | What it looks like | What to look for |
+| Layunin | Itsura nito | Ano ang hanapin |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Banayad na pagpapasigla | Pagtutugma, pag-uuri, simpleng palaisipan, larong salita | Maisasaayos na antas ng hirap, nananatiling nakikita ang mga larawan, walang pressure sa oras |
+| Pagbabalik-tanaw | Mga lumang larawan, pamilyar na kasabihan, musika mula sa kanilang kabataan | Sarili ninyong mga larawan, bukas na tanong, walang tanong na pagsusulit |
+| Kalma | Mabagal na visual, tahimik na tunog, paghinga, kalikasan | Madaling simulan at ihinto, walang kumikislap, walang biglaang pagbabago |
+| Pagkakakonekta | Paglalaro o pag-uusap nang magkasama, nang personal o sa video | Dinisenyo para sa dalawang tao, may mga prompt para sa usapan |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Karamihan sa mga pag-aaral sa istrukturadong “cognitive stimulation” para sa taong may dementia ay tungkol sa mga sesyon ng grupo na pinangungunahan ng sinanay na staff, na may talakayan, larong salita, palaisipan, musika, at malikhaing gawain. Nakakita ang isang [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ng maliliit na benepisyo sa karaniwan, na nag-iiba sa bawat pag-aaral. Iba ang ganitong panlipunan at iba-ibang programa sa isang app na solo, kaya ituring ang anumang app bilang isang pinagsasaluhang gawain sa gitna ng marami.
 
-## How do I know if an app fits the person's abilities?
+## Paano ko malalaman kung angkop ang app sa kakayahan ng tao?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Obserbahan kung paano sila tumutugon, sa halip na umasa sa diagnosis o label ng yugto. Ang dalawang taong nasa “parehong yugto” ay maaaring magkaiba nang malaki sa paningin, pandinig, kontrol ng kamay, wika, at ginhawa sa screen. Iminumungkahi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) na isaisip ang mga dating interes at kasalukuyang kakayahan, at tumuon sa kasiyahan sa halip na sa tagumpay.
 
-Signs of a good fit:
+Mga palatandaan ng magandang akma:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- sinisimulan o sinasalihan nila ito nang walang masyadong pamimilit;
+- ngumingiti sila, nagkokomento, o nagkukuwento;
+- tila hindi sila naaabala ng mga pagkakamali;
+- handa silang huminto kapag oras na.
 
-Signs it is a poor fit:
+Mga palatandaan ng hindi magandang akma:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- paulit-ulit na “hindi ko kaya” o “kalokohan lang ito”;
+- pagkalito kung ano ang tatapikin;
+- pagkainis, pagkapahiya, o pagtulak palayo sa device;
+- gumagana lang ito kung halos lahat ay ikaw ang gagawa.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Ang pagkabalisa ay senyales, hindi bagay na dapat tiisin. Tingnan ang [ano ang gagawin kapag tumanggi sila](/caregiving/when-they-say-no/). Para sa mga ideyang nakabatay sa yugto na lampas sa app, tingnan ang mga gawain sa [maagang yugto](/activities/early-stage/) at [huling yugto](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Anong mga katangian ng disenyo ang dapat hanapin o iwasan?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Maghanap ng kalma, simple, at pang-adultong disenyo, at iwasan ang anumang nagdaragdag ng presyon.
 
-| Look for | Be wary of |
+| Hanapin | Mag-ingat sa |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Malalaking larawan at teksto, mataas na contrast | Maliliit na icon, magulong screen |
+| Isang malinaw na aksyon sa bawat screen | Maraming button, menu, o maraming hakbang na tagubilin |
+| Walang timer, o timer na maaaring patayin | Countdown, bonus sa bilis, “talunin ang oras mo” |
+| Walang iskor, o banayad na feedback | Puntos, buhay, sunod-sunod na panalo, ranggo, “edad ng utak” |
+| Tahimik na paghawak sa mga pagkakamali | Buzzer, pulang X, mga mensaheng “Mali” |
+| Pang-adultong larawan ng totoong buhay | Mga cartoon o pambatang tema |
+| Gumagana offline, walang account para magsimula | Kailangang mag-sign up, mag-log in, o mag-download muna ng nilalaman |
+| Madaling mag-pause at huminto | Mga pop-up na nagtatanong kung gusto pang maglaro o magbigay ng rating |
+| Walang ad, malinaw na presyo na minsanan o subscription | Ad, mga kahon ng sorpresang gantimpala (loot box), madalas na prompt sa pagbili |
+| Madaling salihan ng ikalawang tao | Solo lang, o disenyong mapagkumpitensya |
 
-Ads and purchase prompts are easy to tap by accident.
+Madaling mapindot nang hindi sinasadya ang mga ad at prompt sa pagbili.
 
-## How do I check an app's privacy?
+## Paano ko susuriin ang privacy ng app?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Suriin kung ano ang kinokolekta ng app, kung sino ang pinagbabahagian nito, at kung maaari mo itong burahin. Bago mag-install:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Basahin ang buod ng privacy sa store.** Inilalista ng [seksiyong Data safety ng Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) at ng [seksiyon ng privacy information ng App Store](https://support.apple.com/en-us/102399) ang mga uri ng datos na maaaring kolektahin at ibahagi ng isang app. Parehong sinasabi ng dalawang kompanya na sila mismo ang nagbibigay ng impormasyong ito, kaya ito ay panimulang punto at hindi pagsusuri.
+2. **Itanong kung kailangan nito ng account.** Kung nagpapakita lang ang app ng mga larawan o simpleng laro, maaaring walang dahilan para malaman nito ang iyong pangalan, email, o kaarawan.
+3. **Suriin ang mga pahintulot.** Talaga bang kailangan ng isang larong pagtutugma ang lokasyon, contact, mikropono, o buong library ng larawan? I-off ang anumang hindi kailangan.
+4. **Maghanap ng ad at analytics.** Ang mga tool sa advertising at pagsubaybay ay maaaring magpadala ng datos tungkol sa paggamit ng app sa ibang kompanya.
+5. **Alamin kung saan napupunta ang mga larawan.** Kung magdadagdag ka ng mga larawan ng pamilya, nananatili ba ang mga ito sa device o ina-upload sa server? Maaari mo ba itong tanggalin?
+6. **Suriin ang pagbura.** Hanapin sa patakaran sa privacy o buod ng datos kung paano burahin ang datos at ang account. Ang app na nagsasabing hindi mabubura ang datos ay dapat pag-ingatan nang higit, lalo na kung may hawak itong mga larawan o detalye ng kalusugan.
+7. **Basahin ang patakaran sa privacy** para sa malinaw na sagot kung ano ang kinokolekta, bakit, gaano katagal, at kanino ibinabahagi.
 
-### Does HIPAA protect information in dementia apps?
+### Pinoprotektahan ba ng HIPAA ang impormasyon sa mga app para sa dementia?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Karaniwan hindi, na ikinagugulat ng maraming tao. Ipinapaliwanag ng U.S. Department of Health and Human Services [dito](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) na sakop ng HIPAA ang mga health plan, karamihan sa mga tagapagbigay ng pangangalagang pangkalusugan, mga clearinghouse ng pangangalagang pangkalusugan, at ang kanilang mga business associate. Sa karamihan ng kaso, hindi nito pinoprotektahan ang datos na ilalagay mo sa app para sa personal na gamit, maliban kung ibinigay ang app ng isang sakop na entidad o business associate nito. Ang “app para sa dementia” mula sa app store ay madalas nasa labas ng HIPAA, kahit na tungkol sa kalusugan ang nilalaman nito.
 
-### What protects health data in apps that HIPAA does not cover?
+### Ano ang nagpoprotekta sa datos ng kalusugan sa mga app na hindi sakop ng HIPAA?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Sakop ng Health Breach Notification Rule ng Federal Trade Commission ang marami sa mga ito. Noong 2024, [inaprubahan nang pinal ng FTC ang mga pagbabago](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) na nagliliwanag na nalalapat ang tuntunin sa mga health app at katulad na teknolohiyang hindi sakop ng HIPAA. Kasama sa “paglabag” ang hindi awtorisadong pagbubunyag, hindi lang pag-hack, at kailangang abisuhan ng mga kompanya ang mga apektadong tao at ang FTC. Ito ay sandigan pagkatapos magkamali, hindi pangakong kinokolekta ng app ang kailangan lang nito.
 
-## How should I read claims about research and evidence?
+## Paano ko babasahin ang mga pangako tungkol sa pananaliksik at ebidensya?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Basahin nang dahan-dahan ang mga pangako tungkol sa ebidensya, at lalong mag-ingat sa pinakamalalaking pangako. Mga tanong na itanong:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Ano mismo ang pinag-aralan?** Ang pag-aaral sa isang programa ng pagsasanay ay hindi nagpapakitang gumagana nang pareho ang bawat laro sa app.
+- **Sino ang pinag-aralan?** Ang resulta sa malulusog na nakatatanda ay maaaring hindi angkop sa taong may dementia.
+- **Ano ang sinukat?** Ang pagiging mas magaling sa mismong laro ay iba sa pagbabago sa pang-araw-araw na buhay, usapan, mood, o kalayaan.
+- **Gaano kalakas ang pag-aaral?** Inihahambing ng randomized controlled trial (RCT) ang grupong gumagamit ng app sa grupong hindi. Mahusay itong disenyo, pero ang isang maliit o maikling RCT ay hindi patunay. Maghanap ng ilang pag-aaral, mula sa mga independiyenteng mananaliksik, na nagkakasundo.
+- **Nag-aangkin ba itong binabago ang sakit?** Ang pag-aaral na nagpapakita ng maliliit na pagbuti sa isang pagsusulit ay hindi ebidensyang nagpapabagal, pumipigil, o gumagamot ng dementia ang app.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Inilalarawan ng pahina ng National Institute on Aging tungkol sa [kalusugan ng pag-iisip at mga nakatatanda](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ang isang malaking pagsubok na pinondohan ng NIH sa istrukturadong pagsasanay sa pag-iisip, at pagkatapos ay binabalaan ang mga mambabasa na mag-ingat sa mga pangakong ang ilang computer at online na laro ay nagpapabuti ng alaala at pag-iisip. Sinasabi nitong kulang pa ang ebidensya na ang mga komersyal na app sa pagsasanay ng utak ay may parehong epekto ng pagsasanay na sinubukan sa pagsubok na iyon. Mababasa mo pa sa aming gabay tungkol sa [mga larong pang-utak at ang ebidensya](/brain-health/brain-games/) at [ano ang sinasabi ng pananaliksik tungkol sa pagpigil sa dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Ano ang isang pampublikong halimbawa ng mapanlinlang na pangako?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Noong Enero 2016, [inanunsyo ng FTC ang isang kasunduan](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) sa mga gumawa ng Lumosity, isang programang “pagsasanay ng utak.” Ayon sa FTC, inangkin ng kompanya, nang walang sapat na ebidensya, na ang mga laro nito ay makapagpapaantala sa pagbaba ng kakayahang pangkaisipan dahil sa edad at makapagpoprotekta laban sa mild cognitive impairment, dementia, at sakit na Alzheimer's. Pumayag ang kompanya na magbayad ng $2 milyon, at kailangan nilang magkaroon ng sapat at maaasahang siyentipikong ebidensya bago gumawa ng ganitong pangako sa hinaharap. Paalala ang kasong ito na ang wika sa marketing ay hindi ebidensya.
 
-### Which words are red flags?
+### Aling mga salita ang pulang bandila?
 
-Be cautious when an app or ad says it:
+Mag-ingat kapag sinasabi ng app o ad na ito:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “pumipigil,” “binabaligtad,” “pinatitigil,” o “ginagamot” ang dementia o Alzheimer's;
+- “napatunayang klinikal” nang hindi binabanggit ang pag-aaral, kung sino ang kasali, at kung ano ang sinukat;
+- nagbibigay ng “edad ng utak” o iskor ng alaala na nagpapahiwatig ng diagnosis;
+- “pinatatalas,” “pinalalakas,” o “sinasanay” ang utak;
+- gumagamit ng testimonya bilang patunay.
 
-If you are unsure about a claim, ask the person's doctor.
+Kung hindi ka sigurado sa isang pangako, itanong sa doktor ng tao.
 
-## Where does Golden Moments fit?
+## Saan nababagay ang Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Nag-aalok ang Golden Moments ng simpleng pinagsasaluhang gawain, hindi pagsusuri ng alaala, terapiya, o medikal na payo. Ang aming mga laro, gaya ng [Pares ng larawan](/games/picture-pairs/), [Mga kard para sa usapan](/games/conversation-cards/), [Mga pares ng larawan](/games/photo-pairs/), [Bingo ng larawan](/games/picture-bingo/), at [Mahinahong paghinga](/games/calm-breathing/), ay ginawa para sa kasiyahan at usapan. Hindi ito nagdidiyagnos, gumagamot, pumipigil, o sumusukat ng dementia, at wala kaming pangako tungkol sa alaala o pag-iisip.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Gumagawa rin kami ng libreng app, ang [Golden Moments para sa iPhone, iPad, at Android](/app/). May banayad itong pagtutugma ng larawan na may malalaking tile, mga laro na may mga larawan ng pamilyang pipiliin mo, at mga pakete ng larawan na gumagana offline, at walang account, ad, timer, o iskor. Pareho ang checklist na ito para dito: ang label sa privacy ng App Store nito ay “Walang Datos na Kinokolekta,” at ipinaliliwanag ng [patakaran sa privacy ng app](/app-privacy/) kung saan itinatago ang mga kopya ng larawan.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Mas gusto naming husgahan mo kami kaysa pagkatiwalaan ka lang namin. Gamitin ang checklist sa pahinang ito, basahin ang aming [pahina ng privacy](/privacy/) at [medical disclaimer](/medical-disclaimer/), at ihinto ang anumang gamit, kabilang ang sa amin, na hindi bagay sa taong inaalagaan mo.
 
-## What is a sensible way to try a new app?
+## Ano ang maayos na paraan para subukan ang bagong app?
 
-Try it together for a couple of weeks and watch what happens.
+Subukan ito nang magkasama sa loob ng ilang linggo at obserbahan ang nangyayari.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **I-set up muna** gamit ang aming [gabay sa pag-set up ng tablet o telepono](/caregiving/tablets-and-screens/), at magsimula sa pinakamadaling antas.
+2. **Panatilihing maikli ang mga sesyon,** pansinin ang mga ngiti, usapan, at kalma, at tapusin sa magandang sandali.
+3. **Itigil ito kung nagdudulot ng inis,** gaano man ito kataas ang rating.
