@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Te moe me te hauora roro: ngā kitenga me ngā mea e āwhina ana"
+seoTitle: "Te moe me te mate wareware: he aha te kī a te rangahau"
+description: "He aha te kī a te rangahau mō te moe me te tūraru mate wareware, he aha te take o te roro e mā ana i te moe, me ngā tikanga moe mō ngā pakeke me ngā kaitiaki."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Ko ētahi rangahau roa e hono ana i te moe poto i te haurua o te oranga ki te tūraru nui ake o te mate
+  wareware, ā, e kī ana ngā rangahau taiwhanga ka āwhina te moe ki te roro ki te whakamāmā i ngā para. He
+  moata tonu tēnei taunakitanga, ā, kāore te Lancet Commission 2024 i tāpiri i te moe hei tūraru ka taea
+  te whakarerekē. Ka pai ngā tikanga moe pūmau ki tō ahua ia rā. He maha ngā raruraru moe i te mate wareware,
+  he take pai ki te kōrero ki tētahi ringatoi.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "He rangahau UK e whai ana i tata ki te 8,000 ngā tāngata mō te 25 tau i hono te moe e ono hāora, iti iho rānei i te haurua o te oranga ki te tūraru nui ake o te mate wareware."
+  - "Ko ngā panonitanga o te moe he tohu moata pea o te mate wareware, nā reira he uaua te wehe i te take i te pānga."
+  - "He pono, engari he moata, te rangahau mō te moe e whakamā ana i te beta-amyloid i te roro, he maha o taua mea i ngā kiore."
+  - "He tino tīpono te sleep apnea, ka taea te maimoa, ā, kua hono ki te mate wareware i ngā rangahau; me tirotiro te tangi nui me te moe i te rā."
+  - "Kaua e tīmata, e mutu, e whakarerekē rānei i tētahi rongoā moe, i tētahi āwhina moe, me te kore kōrero ki tētahi ringatoi."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Ka take te moe kino i te Alzheimer's?"
+    a: "Kāore anō kia whakaatuhia. He rangahau e hono ana te moe poto ki te tūraru nui ake o te mate wareware, engari ka whakararu te mate wareware i te moe, he maha ngā tau i mua i te whakatau. I whakaaro te Lancet Commission 2024 kāore i rite te taunakitanga hei tāpiri i te moe ki te rārangi tūraru ka taea te whakarerekē."
+  - q: "He moe hia ngā pakeke e hiahia ana?"
+    a: "E kī te National Institute on Aging he rite ngā pakeke ki ētahi atu pakeke, 7 ki te 9 hāora i te pō. He maha ngā pakeke e moe ana, e ara ana i ngā wā moata ake i mua, he mea noa tērā."
+  - q: "He aha te take e moe ai te tangata e mate wareware ana i te rā, e ara ana i te pō?"
+    a: "Ka whakararu pea te mate wareware i te karaka o te tinana, nā reira ka paoro ngā wā moe me te ara. Ka uru pea te mamae, te pōuri, te matekai, ngā pānga o ngā rongoā. Ka āwhina te rāmaroa, te mahi ia rā me te whakahoki ki te ahiahi mārie. Ka taea e tētahi ringatoi te kimi i ngā take ka maimoatia."
+  - q: "Me hoatu he āwhina moe ki te tangata e tiakina ana e au?"
+    a: "Kōrerohia ki tana ringatoi i mua, tae atu ki ngā hua ā-kaunuku. E kī te National Institute on Aging ka pā pea ētahi rongoā moe ki te tūraru o te pōrangi, te hinga me te pōhēhē i ngā tāngata e mate Alzheimer's."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,128 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ka tino hono te moe me te hauora roro, engari kei te mahia tonu te āhua o taua hononga. Ka kī ētahi
+rangahau he poto te moe ki te tūraru nui ake o te mate wareware. Ā, ka whakararu te mate wareware i te moe.
+Ko tēnei whārangi e whakamārama he aha te kī, he aha te kāore i whakaatuhia e te rangahau, e whakaatu ana
+i ngā tikanga moe pai, me ngā raruraru moe e noa ana i te mate wareware. Kāore e tohutohu mō ngā rongoā moe;
+ko taua kōrero me tō ringatoi.
 
-## Is poor sleep linked with dementia?
+## Kei te hono te moe kino ki te mate wareware?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Ka kī ētahi rangahau roa he poto te moe ki te tūraru nui ake o te mate wareware, engari kāore anō kia mārama
+tonu te taunakitanga.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **He rangahau UK 25 tau.** I whaiwhai ngā kairangahau i tata ki te 8,000 ngā pakeke i te
+  [rangahau Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Ko ngā tāngata i moe e ono hāora,
+  iti iho rānei i te 50, i te 60 ngā tau, he tūraru nui ake o te mate wareware i muri mai i ērā i moe e whitu hāora.
+  Ko ngā tāngata i moe e ono hāora, iti iho rānei i te 50, i te 60, i te 70 ngā tau, he tūraru tata ki te 30% teitei
+  ake i ērā i moe auau e whitu hāora. He rangahau mātakitaki tēnei, nā reira he hononga e kitea ana, ehara i te take.
+- **Te whakaaro a te Lancet Commission.** Kāore te
+  [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) i tāpiri i te moe ki tana rārangi 14 tūraru
+  ka taea te whakarerekē. I whakatau ia kāore i rite te taunakitanga. Tētahi take ko te “hononga huri-kē” (reverse
+  causation): ka tīmata ngā panonitanga o te roro o te mate wareware i ngā tau maha i mua i te whakatau, ā, ka
+  whakararu pea i te moe. I tētahi rangahau nui, ka ngaro te hononga i waenga i te moe roa me te mate wareware ina
+  wehea ngā rima tau tuatahi o te whaiwhai.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Nā reira, ehara i te mea manukanuka te moe poto i tētahi pō i ētahi wā. Ko te moe pūmau, he kounga pai, he mea
+whai hua ki te whakaaro, ki te oranga pai me te haumaru o ia rā.
 
-## What is the "brain-clearing" sleep research?
+## He aha te rangahau “whakamā roro” o te moe?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Kua pānuitia pea e koe he mea “horoi” te moe i te roro. Ka puta tērā whakaaro i ngā rangahau pono, engari he
+moata tonu.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **I ngā kiore.** He rangahau i te 2013 [i whakaatuhia e te NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep)
+  i kitea ka pīkiki ake te mokowhiti i waenga i ngā pūtoi roro tata ki te 60% i te wā moe o ngā kiore. Ka rere pai
+  ake te wai puta noa i te roro, mā tētahi pūnaha e kīa ana e ngā kairangahau ko te glymphatic. I horoia tere ake te
+  beta-amyloid, he pūmua e hono ana ki te Alzheimer's, i ngā roro o ngā kiore moe.
+- **I ngā tāngata.** He rangahau iti i te [2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) i tātarihia e 20
+  ngā pakeke hauora e 22 ki te 72 ngā tau i muri i tētahi pō moe noa, ā, i muri i tētahi pō kore moe. I muri i te pō
+  kore moe, ka piki te tohu beta-amyloid i te matawhāo roro tata ki te 5% i tētahi wāhi e uru ana ki te hippocampus,
+  he wāhanga o te roro e whai pānga ana ki te maumahara. E kī ana ngā kaituhi he taunakitanga tīmatanga tēnei.
+  Kāore i mōhiotia mēnā ka ngaro te panonitanga ina okioki, mēnā he horoi puhoi, mēnā rānei he nui ake te amyloid e
+  hangaia ana.
+- **E rua ngā ara.** E kī te Lancet Commission ka hanga pea te kohinga amyloid i te moe o ngā pakeke.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Nā te mea he rangahau moata, ehara i te mea kua whakaatuhia ka aukati te moe pai i te Alzheimer's.
 
-## What sleep habits may help?
+## He aha ngā tikanga moe ka āwhina pea?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+E kī te [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults), he 7 ki te 9 hāora
+te moe ia pō mō ngā pakeke, rite tonu ki ētahi atu pakeke. Ko ana tohutohu:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Pupuri i te wā āhuareka.** Haere ki te moenga, ara ake i te wā ōrite ia rā, ahakoa i ngā rangi wiki.
+- **Hangahia he tikanga whakamārie.** Pānui, whakarongo ki ngā waiata whakamārie, kaukau wera rānei i mua i te moenga.
+- **Whakapai te ruma moe,** kaua e wera rawa, kaua e makariri rawa.
+- **Whakaitia te kawhe i te mutunga o te rā.** Ko te kawhe, te tī, ngā inu kōhuke me te tiakarete ka pupuri i a koe i te ara.
+- **Karo i te waipiro,** ahakoa he iti noa, e kī te NIA.
+- **Karo i ngā kai nui e rua, e toru hāora i mua i te moe,** me ngā inu nui i te mutunga o te rā.
+- **Mahi tinana ia wā, engari kaua i roto i te 3 hāora i mua i te moe.** Titiro ki tō mātou
+  [aratohu mahi tinana](/brain-health/exercise/).
+- **Kaua e kawea ngā whakaaturanga ki te ruma moe.** E kī te NIA kaua e mātakitaki TV, kaua e whakamahi i te
+  rorohiko, te waea, te rorohiko ringa i reira.
+- **Karo i ngā moe i te ahiahi, i te pō moata, mēnā ka taea.**
 
-## Sleep problems in dementia
+## Ngā raruraru moe i te mate wareware
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+He noa ngā panonitanga o te moe i te mate wareware. Ka rārangi te
+[NIA](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) i te moe nui, i te moe iti rānei,
+te ara maha i te pō, te moe nui i te rā. Ka whakamārama anō ia i te sundowning: te pōharatanga, te riri, te pōhēhē
+rānei ka tīmata, ka piki rānei ina pōuri te rangi.
 
-Caregiver tips from the NIA include:
+Ko ngā tohutohu a te NIA mō ngā kaitiaki ko:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Whiwhia te rā me te nekeneke moata.** Haere ki waho, ki te nōhanga i te taha o te matapihi i te rā, āwhinatia te
+   tangata kia mahi ia rā. Ka āwhina pea te rama kanapa ki te whakahou i te karaka o te tinana.
+2. **Whakamaheretia ngā mahi kaha ki te ata.** Whakaaro ki te horoi i te ata, ki te kai nui i te awatea.
+3. **Whakapoto, whakawhetai te moe.** Whakaitia te moe kopa i te mutunga o te rā.
+4. **Whakamārie te ahiahi.** Whakaiti ngā rama, whakaitia te haruru, me te whakatangi i ngā waiata whakamārie mēnā e
+   pai ana ki te tangata. Ko tā mātou aratohu mō [te pōharatanga o te ahiahi](/caregiving/late-day-restlessness/) he
+   whakaaro anō.
+5. **Pupuri i te tikanga moe pūmau.** Ko te pānui kōrero ā-reo ināianei i te wā ōrite ia pō he tauira a te NIA. Ka
+   āwhina anō [he tikanga ia rā pūmau](/activities/daily-routine/).
+6. **Whakaitia te kawhe me te waipiro.**
+7. **Whakamahia ngā rama pō** i te ruma moe, i te whare, i te wharepaku.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Mō te ara i te pō, ko ngā tohutohu haumaru kāinga a te NIA ko ngā rama pō, ngā rama e urutaki ana ā-tōna, ngā pou
+pupuri i te wharepaku, te rīpene ā-tae kanapa ki ngā tapahanga o ngā hikoi, me ngā rongoā e rokohia ana i tētahi wāhi
+kati ([NIA mō ngā tohutohu haumaru kāinga](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips)).
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Ka āwhina tētahi mahi poto, mārie i te ahiahi kia whakamārie kōrua. Whakamātauria tētahi wā
+[Hā Mārie](/games/calm-breathing/) māmā, ētahi [kāri kōrerorero](/games/conversation-cards/) māmā. Karo i ngā mea
+whakaohooho i te taha o te moenga, ā, mutu ina kī te tangata kua nui rawa.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ka ngoikore te kaitiaki i te moe pakaru. Ko tā mātou
+[aratohu manaaki-whaiaro mō te kaitiaki](/caregiving/caregiver-self-care/) e kōrero ana i ngā huarahi hei okiokinga,
+hei āwhina.
 
-## What about sleep apnea?
+## He aha mō te sleep apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Ka pā te sleep apnea ki te whakamutu poto i te manawa i te moe, he maha ngā wā i te pō. E kī te NIA ki te kore e
+maimoatia, ka pā ki ngā raruraru pērā i te pēhanga toto teitei, te toke, me te ngaro maumahara. Ko ngā tohu ko te
+tangi nui i te moe, me te moe i te rā, ā, he maha ngā tāngata kāore e mōhio he mea tērā kei a rātou. E kōrero ana te
+Lancet Commission mō tētahi arotake o 11 ngā rangahau, i kitea ai ko ngā tāngata he sleep apnea tō rātou he tūraru
+tata ki te 43% teitei ake o te mate wareware. Ahakoa he iti noa ngā rangahau i āta whakaaro ki te taimaha, nā reira
+he kore mārama te hononga.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Ka taea te tātari me te maimoa te sleep apnea. E kī te NIA he tino āwhina te miihini CPAP. Mēnā he tangi nui koe,
+mēnā ka mutu te manawa i te moe, ā, he tino moe koe i te rā, mēnā ko tō tangata he pēnei, kōrerohia ki tētahi ringatoi.
 
-## A note about sleep medicines
+## He kupu mō ngā rongoā moe
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Kāore mātou e tuku tohutohu mō ngā rongoā moe, ngā matūkai rānei. E kī te NIA ka āwhina pea ngā rongoā moe mō te wā
+poto, engari ehara i te rongoā mō te kore moe (insomnia). E kī anō ia, ko ētahi rongoā i hoatu hei āwhina i te moe o ngā
+tāngata e mate Alzheimer's ka piki te tūraru o te pōrangi, te hinga me te pōhēhē. Kaua e tīmata, e mutu, e whakarerekē
+rānei i tētahi rongoā moe, tae atu ki ngā āwhina moe ā-kaunuku, me te kore kōrero ki tētahi ringatoi, ki tētahi
+kaihoko rongoā.
 
-## Talk with a doctor
+## Kōrero ki tētahi ringatoi hauora
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Kītia he ringatoi mēnā kei te ngoikore tonu koe, kei te moe kore i te nuinga o ngā pō, kei te tangi nui, kei te mutu
+te manawa i te pō. Mēnā ka roa tonu ngā raruraru moe i te mate wareware, e tohutohu ana te
+[NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kia rapu
+tohutohu hauora. Ka kitea e tētahi haumanu ngā take pērā i te mamae, i tētahi atu raruraru moe, i tētahi mate, i tētahi
+pānga o te rongoā. Ko te pōhēhē ohorere, ko te panonitanga moe ohorere me te pōhēhē, me whai āwhina ohotata. Pānuihia
+[te wā e tika ai te kite i tētahi ringatoi](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+He kōrero whānui tēnei, ehara i te tohutohu hauora. Tirohia tā mātou [whakapāhatanga hauora](/medical-disclaimer/).
