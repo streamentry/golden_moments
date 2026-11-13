@@ -17,7 +17,7 @@ keyPoints:
   - "Ẹ ṣe àtòjọ iṣẹ́, kí ẹ pín wọn gẹ́gẹ́ bí ìfẹ́, agbára àti àkókò tó wà, kì í ṣe ní ìpín tó dọ́gba."
   - "Bí àìfohùnṣọ̀kan náà bá ń tẹ̀síwájú, ẹ bèèrè lọ́wọ́ ọ̀jọ̀gbọ́n tàbí alárinà tí ẹ gbẹ́kẹ̀lé pé kó ràn yín lọ́wọ́."
 faq:
-  - q: "Kí ló dé tí àwọn ìdílé fi máa ń kò fohùn ṣọ̀kan lórí ìtọ́jú dementia?"
+  - q: "Kí ló dé tí àwọn ìdílé fi máa ń fohùn ṣọ̀kan lórí ìtọ́jú dementia?"
     a: "Àwọn ọmọ ẹbí lè ní ìròyìn, ìgbàgbọ́, àkókò, owó tàbí ọ̀nà jíjìn sí ìtọ́jú ojoojúmọ́ tó yàtọ̀. Wọ́n tún lè máa fara da ìmọ̀lára líle ní oríṣiríṣi ọ̀nà. Àìfohùnṣọ̀kan kò fi hàn pé ẹnìkan kò bìkítà tó àwọn yòókù."
   - q: "Báwo ni a ṣe lè ṣe ìpinnu ìtọ́jú gẹ́gẹ́ bí ìdílé?"
     a: "Ẹ bẹ̀rẹ̀ pẹ̀lú ìfẹ́ ẹni náà àti ìbéèrè tó nílò ìpinnu nísinsìnyí. Ẹ pín ohun tí ẹnì kọ̀ọ̀kan ti kíyèsí, ẹ ṣàkíyèsí ohun tí a kò tíì mọ̀, kí ẹ sì bi ẹgbẹ́ ìtọ́jú nípa ìbéèrè ìṣègùn. Ọ̀rọ̀ kúkúrú ní ìgbà púpọ̀ lè rọrùn ju ìpàdé ńlá kan."

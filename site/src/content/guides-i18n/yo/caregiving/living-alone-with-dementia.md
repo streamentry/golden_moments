@@ -7,7 +7,7 @@ order: 12
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Ẹni tó ń gbé pẹ̀lú dementia lè lè dá gbé pẹ̀lú ìtìlẹ́yìn tó tọ́. Ẹ fohùn sí
+  Ẹni tó ń gbé pẹ̀lú dementia lè dá gbé pẹ̀lú ìtìlẹ́yìn tó tọ́. Ẹ fohùn sí
   àwọn ìṣe àti ìkànsí, ẹ jẹ́ kí ìrànlọ́wọ́ wà fún àwọn iṣẹ́ tí ẹni náà fẹ́
   ìtìlẹ́yìn lé lórí, kí ẹ sì jọ tún ètò náà yẹ̀ wò nígbà tí ohun kan bá yípadà.
   Kò sí àtòjọ kan ṣoṣo tó pinnu bóyá ẹnìkan lè dá gbé.
