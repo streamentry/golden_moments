@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Pag-set up ng Tablet o Telepono para sa Taong may Dementia"
+seoTitle: "Mag-set up ng Tablet o Telepono para sa Taong may Dementia"
+description: "Hakbang-hakbang na pag-set up ng tablet o telepono: isang app lang, mas malaking teksto, kaunting notipikasyon, at privacy."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Gawing mas simple ang tablet o telepono bago ito ibigay. I-lock ito sa isang app gamit ang Guided Access sa iPad at iPhone, o app pinning sa Android, o gamitin ang Assistive Access ng Apple para sa pinasimpleng layout. Gawing mas malaki ang teksto, patahimikin ang mga notipikasyon, panatilihin lang ang ilang app sa isang home screen, itakda ang volume, gumamit ng stand, at limitahan ang mga pahintulot ng app. Gamitin ito nang magkasama, kasabay ng mga gawaing hindi screen.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Ang Guided Access (iPhone, iPad) at app pinning (Android) ay nagpapanatili ng screen sa iisang app hanggang i-unlock mo ito."
+  - "Ang Assistive Access ng Apple ay nag-aalok ng pinasimpleng layout na dinisenyo para sa mga taong may kapansanan sa pag-iisip."
+  - "Gawing mas malaki ang teksto at i-off ang mga notipikasyon at pop-up para walang makaabala o makalito."
+  - "Panatilihin lang ang ilang pamilyar na app sa isang home screen, at itakda ang volume bago magsimula."
+  - "Ang stand at lugar ng pag-charge na hindi nagagalaw ay nagpapadali sa paggamit at paghahanap ng device."
+  - "Suriin ang mga pahintulot ng app at pagbabahagi ng datos: karaniwang hindi pinoprotektahan ng HIPAA ang nakaimbak sa personal na device."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Paano ko pipigilan ang taong may dementia na makalabas sa isang app sa iPad?"
+    a: "I-on ang Guided Access sa Settings > Accessibility > Guided Access at magtakda ng passcode. Buksan ang app, i-triple-click ang itaas na button (o ang Home button sa mas lumang iPad), at i-tap ang Start. Mananatili ang iPad sa app na iyon hanggang may maglagay ng passcode."
+  - q: "Paano ko ila-lock ang Android tablet sa iisang app?"
+    a: "I-on ang app pinning sa Settings app, karaniwang nasa ilalim ng Security (minsan Security & location) > Advanced > App pinning. Pagkatapos, buksan ang app, buksan ang Overview, i-tap ang icon ng app sa itaas, at i-tap ang Pin. Kailangan ang PIN, pattern, o password mo para mag-unpin."
+  - q: "Ligtas bang gamitin ang Guided Access sa sariling telepono ng tao?"
+    a: "Mag-ingat. Sinasabi ng Apple na hindi available ang Crash Detection at Emergency Services habang naka-on ang Guided Access. Kung umaasa ang tao sa telepono nila para sa mga emergency call, gamitin lang ang Guided Access habang kasama mo sila, o isaalang-alang ang Assistive Access sa halip."
+  - q: "Gaano karaming screen time ang okay para sa taong may dementia?"
+    a: "Walang itinakdang bilang. Ang maikli, pinagsasaluhang sesyon na hinahaluan ng lakad, musika, gawaing bahay, at usapan ay mas buo ang araw kaysa sa mahahabang oras na mag-isa sa screen. Kung nagdudulot ng inis ang device o pumapalit sa ibang gawain, gamitin ito nang mas kaunti."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Maaaring maging magandang paraan ang tablet para magbahagi ng litrato, musika, at simpleng laro. Maaari rin itong makalito: ang isang aksidenteng pindot ay nagbubukas ng ibang app, may lumalabas na notipikasyon, napakaliit ng teksto, o biglang nagdidilim ang screen habang naglalaro. Ang kaunting pag-setup mula sa iyo ay nakakaayos ng karamihan sa mga ito.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Ginagamit ng mga hakbang na ito ang mga built-in na setting ng iPhone, iPad, at Android. Maaaring magbago ang mga pangalan ng menu sa pagitan ng mga bersyon ng software at ng mga gumagawa ng device, kaya kung iba ang itsura ng nakikita mo, sundin ang nakalinkeng pahina ng Apple o Google para sa device mo. Ikaw mismo ang gumawa ng pag-setup, bago kayo umupo nang magkasama.
 
-## Should someone with dementia use a tablet or phone?
+## Dapat bang gumamit ng tablet o telepono ang taong may dementia?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Nakasalalay ito sa tao. Maraming tao ang nasisiyahan sa paggamit ng tablet habang may katabing kasama, kahit hindi nila ito kayang gamitin nang mag-isa. Magsimula sa paggamit nito nang magkasama, na may isang app na bukas, sa loob ng ilang minuto. Kung nagdudulot ito ng kasiyahan at usapan, ituloy. Kung nagdudulot ito ng pagkalito o inis, mas bagay sa kanila ang album ng litrato, mga naka-print na pahina, o musika. Isa sa mga alternatibo ang aming [mga naka-print na gawain](/activities/printable/).
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Kadalasang mas madali ang tablet kaysa telepono: mas malaki ang screen at mga larawan, at hindi ito ang pinakamahalagang linya ng tao para sa emergency.
 
-## How do I lock a tablet or phone to one app?
+## Paano ko ila-lock ang tablet o telepono sa iisang app?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Gamitin ang Guided Access sa iPhone at iPad, o app pinning sa Android. Parehong nagpapanatili ng screen sa iisang app hanggang maglagay ka ng code, kaya hindi makakabukas ng ibang bagay ang isang aksidenteng tap o swipe.
 
-### iPad and iPhone: Guided Access
+### iPad at iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Mula sa [mga tagubilin ng Apple sa Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Buksan ang **Settings**, i-tap ang **Accessibility**, saka i-tap ang **Guided Access** at i-on ito.
+2. Sa ilalim ng **Passcode Settings**, magtakda ng Guided Access passcode. Puwede mo ring payagan ang Face ID o Touch ID.
+3. Opsyonal: sa ilalim ng **Display Auto-Lock**, piliin kung gaano kabilis mag-lock ang screen habang may sesyon, para hindi ito mawalan ng ilaw habang naglalaro.
+4. Buksan ang app na gusto mong gamitin.
+5. I-triple-click ang side button (iPhone), ang itaas na button (iPad), o ang Home button sa mas lumang device.
+6. Opsyonal: bilugan ang anumang bahagi ng screen na gusto mong hindi tumugon sa pagpindot. I-tap ang **Options** (o **Session Settings**) para i-off ang volume buttons o pigilan ang pag-ikot ng screen.
+7. I-tap ang **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Para tapusin ang sesyon, i-triple-click muli ang parehong button, maglagay ng passcode, at i-tap ang **End**. Sinasabi ng Apple na sa ilang mas lumang bersyon ng software, double-click ang gagawin sa halip.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Mahalaga:** Sinasabi ng Apple na hindi available ang Crash Detection at Emergency Services habang may sesyon ng Guided Access. Huwag iwanang naka-on ang Guided Access sa telepono na maaaring kailanganin ng tao para sa mga emergency call.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Mula sa [tulong ng Google sa pag-pin ng screen sa Android](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Buksan ang **Settings** app.
+2. I-tap ang **Security** (o **Security & location**), saka **Advanced**, saka **App pinning**. Kung hindi mo ito makita, tingnan ang mga pahina ng tulong ng gumawa ng device mo.
+3. I-on ang **App pinning**. Kakailanganin ang PIN, pattern, o password mo para mag-unpin.
+4. Buksan ang app na gusto mo. Mag-swipe pataas sa gitna ng screen at pindutin nang matagal para buksan ang Overview (o i-tap ang Overview kung 3-button navigation).
+5. Sa itaas ng preview ng app, i-tap ang icon ng app, saka i-tap ang **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Para mag-unpin gamit ang gesture navigation, mag-swipe pataas at pindutin nang matagal. Gamit ang 3-button navigation, pindutin nang matagal ang Back at Overview. Gamit ang 2-button navigation, pindutin nang matagal ang Back at Home. Pagkatapos, ilagay ang PIN, pattern, o password mo.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Mayroon bang mas simpleng mode para sa buong iPhone o iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Mayroon. Pinapalitan ng Assistive Access ng Apple ang karaniwang home screen ng mas simpleng bersyon. [Inilalarawan ito ng Apple](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) bilang dinisenyo para gawing mas madali para sa mga taong may kapansanan sa pag-iisip ang paggamit ng iPhone nang mag-isa, na may mas malalaking item sa screen at mas nakatutok na mga feature. Iniaalok din ng Apple [ang parehong feature sa iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Sino ang mag-se-set up.** Iminumungkahi ng Apple na may katiwalang tagasuporta, gaya ng kamag-anak o tagapag-alagang nakakakilala sa tao, na tumulong pumili ng mga app at feature.
+- **Saan magsisimula.** Pumunta sa **Settings > Accessibility > Assistive Access**, i-tap ang **Set Up Assistive Access**, saka **Continue**.
+- **Mga app.** Ikaw ang pumipili kung aling mga app ang lalabas. May mga espesyal na pinasimpleng bersyon ang ilang app ng Apple, at maidadagdag ang karamihan ng iba pang app sa karaniwan nilang disenyo.
+- **Layout.** Piliin ang **Rows** (listahang madaling basahin) o **Grid** (mas malalaking item na nagbibigay-diin sa litrato at icon).
+- **Passcode.** Magtakda ng hiwalay na Assistive Access passcode para pumasok, lumabas, o magbago ng setting. Inirerekomenda ng Apple na magtakda ng recovery Apple Account habang nagse-setup, dahil kung wala ito, ang nakalimutang passcode ay mangangahulugang i-reset ang device.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Maaaring bagay ang Assistive Access sa taong araw-araw gumagamit ng sariling device. Mas mabilis ang Guided Access o app pinning para sa sesyon ng pinagsasaluhang laro.
 
-## How do I make text and pictures bigger?
+## Paano ko gagawing mas malaki ang teksto at mga larawan?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Dagdagan ang laki ng teksto at display, saka tiyakin na kasya pa rin sa screen ang mga button.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone at iPad.** Ayon sa [mga tagubilin ng Apple sa laki ng font](https://support.apple.com/en-us/102453), pumunta sa **Settings > Display & Brightness > Text Size** at i-drag ang slider. Para sa mas malaking teksto, pumunta sa **Settings > Accessibility > Display & Text Size > Larger Text**. Sinasabi ng Apple na ang napakalaking teksto ay maaaring magpahirap sa pag-tap ng ilang button, kaya ayusin kung kinakailangan.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Ayon sa [tulong ng Google sa text at display settings](https://support.google.com/accessibility/android/answer/11183305?hl=en), buksan ang **Settings** at hanapin ang **Font size**, saka ilipat ang slider. Hanapin ang **Display size** para gawing mas malaki ang lahat sa screen. Puwede mo ring i-on ang **Bold text** sa ilalim ng **Accessibility > Display size and text**. Ang ilang app ay hindi sumusunod sa mga setting na ito.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Sa mga laro gaya ng [Pares ng larawan](/games/picture-pairs/) at [Hanapin ang magkapareho](/games/find-the-same/), maaari ka ring pumili ng mas kaunting tile o pagpipilian, na nagpapasimple sa screen.
 
-## How do I stop notifications and pop-ups?
+## Paano ko pipigilan ang mga notipikasyon at pop-up?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+I-off ang notipikasyon ng mga app na hindi mo kailangan, at gamitin ang Do Not Disturb habang may gawain.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone at iPad.** Pumunta sa **Settings > Notifications**, i-tap ang isang app sa ilalim ng **Notification Style**, at i-off ang **Allow Notifications** ([gabay ng Apple sa mga setting ng notipikasyon](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Para patahimikin ang mga tawag, alerto, at notipikasyon sa loob ng ilang sandali, buksan ang Control Center at i-on ang **Do Not Disturb** mula sa **Focus** button ([tulong ng Apple sa Do Not Disturb](https://support.apple.com/en-us/105112)). Maaari mo itong i-schedule sa ilalim ng **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Mag-swipe pababa mula sa itaas ng screen at i-tap ang **Do Not Disturb**, o pumunta sa **Settings > Modes > Do Not Disturb** ([tulong ng Google sa Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Sa ilalim ng **Notification filters**, maaari mong piliin kung aling mga tao at app ang makakapasok pa rin. Nag-iiba ang setting ayon sa gumawa ng device.
 
-## How do I make a simple home screen?
+## Paano ako gagawa ng simpleng home screen?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Panatilihin ang ilang pamilyar na app sa isang screen, at ilayo ang iba sa paningin. Walang iisang setting para dito; tungkol ito sa pag-alis ng kalat.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Pumili ng tatlo hanggang anim na app.** Halimbawa, litrato, musika, isang video calling app, at isang laro.
+- **Ilagay ang mga ito sa unang screen,** sa parehong puwesto tuwing magbubukas, at ilipat ang iba sa pangalawang screen o folder.
+- **Gumamit ng simple at mataas ang contrast na wallpaper,** gaya ng isang kulay o isang pamilyar na litrato, para lumitaw ang mga icon.
+- **Burahin ang mga app na hindi mo kailangan.** Mas kaunting app ay mas kaunting pagkakataong malito at mas kaunting datos na kinokolekta.
+- **Isaalang-alang ang Assistive Access** sa mga Apple device kung gusto mong ang device na mismo ang gumawa nito.
 
-## What about volume and sound?
+## Ano ang tungkol sa volume at tunog?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Itakda ang komportableng volume bago ibigay ang device. Gamit ang Guided Access, maaari mong i-off ang volume buttons para hindi ito magbago habang may gawain. Tiyaking nakalagay at gumagana ang pantulong sa pandinig kung mayroon.
 
-## Where should the tablet live?
+## Saan dapat ilagay ang tablet?
 
-Give it a stand and a permanent charging spot.
+Bigyan ito ng stand at permanenteng lugar para sa pag-charge.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Stand o case** na nagpapatayo sa tablet sa mesa, para walang kailangang humawak nito, at mas madaling ituro.
+- **Isang lugar ng pag-charge** na hindi nagbabago, mas mabuti ang charging stand sa mesa sa kuwartong madalas gamitin. Laging may charge ang tablet at laging nasa parehong puwesto.
+- **Bawasan ang silaw.** Ilagay ang screen na malayo sa maliwanag na bintana.
 
-## How much screen time is okay?
+## Gaano karaming screen time ang okay?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Walang tamang bilang ng minuto. Layunin ang maikli at pinagsasaluhang sesyon bilang bahagi ng buong araw na may kasamang galaw, musika, gawaing-bahay, usapan, at oras sa labas. Dahil ang abalang gabi ay maaaring magpalala ng hindi mapakali sa huling bahagi ng araw, isaalang-alang na ilimita ang mga gawaing screen sa mas maagang bahagi ng araw. Tingnan ang [mga kalmadong gawain sa huling bahagi ng hapon](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Ang paggamit ng tablet nang magkasama, sa halip na bilang pang-aliw lang, ay nananatiling panlipunan. Ipinaliliwanag ng aming gabay tungkol sa [paglalaro nang magkasama](/caregiving/how-to-play-together/) kung paano.
 
-## How do I protect their privacy on the device?
+## Paano ko poprotektahan ang privacy nila sa device?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Limitahan kung ano ang maaaring kolektahin ng mga app, at huwag ipagpalagay na sakop ng batas sa privacy ng kalusugan ang lahat. Ipinaliliwanag ng U.S. Department of Health and Human Services (HHS) [dito](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) na karaniwang hindi pinoprotektahan ng HIPAA Rules ang impormasyong pangkalusugan na nakaimbak sa, o ina-access sa pamamagitan ng, personal na telepono at tablet. Sa karamihan ng kaso, hindi rin pinoprotektahan ng HIPAA ang datos na inilalagay sa mga app para sa personal na gamit, maliban kung ang app ay galing sa sakop na tagapagbigay ng pangangalagang pangkalusugan, planong pangkalusugan, o isa sa kanilang business associate.
 
-HHS suggests:
+Iminumungkahi ng HHS:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- pag-iwas sa mga hindi kailangan o basta-bastang app, lalo na ang mga “libre”;
+- hindi pagbibigay sa mga app ng access sa lokasyon maliban kung talagang kailangan, gaya ng mapa.
 
-Also consider:
+Isaalang-alang din:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Gumamit ng passcode** sa device, at magtago ng tala nito sa ligtas na lugar.
+- **Suriin ang mga pahintulot** para sa litrato, camera, mikropono, contact, at lokasyon, at i-off ang anumang hindi kailangan ng app.
+- **Suriin kung ano ang kinokolekta ng app** bago mag-install. Ang aming gabay tungkol sa [pagpili ng app at laro para sa dementia](/caregiving/choosing-apps-and-games/) ay may checklist sa privacy.
+- **Mag-ingat sa mga litrato ng pamilya.** Ibahagi lang ang mga litratong komportable ang tao, at alamin kung saan itinatago ng app ang mga ito. Sa [Mga pares ng larawan](/games/photo-pairs/), ang mga litratong pipiliin mo ay nananatili sa iyong browser.
+- **I-off ang in-app purchases** o alisin ang mga detalye ng bayad sa mga account na ginagamit ng tao.
