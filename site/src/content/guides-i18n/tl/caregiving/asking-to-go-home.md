@@ -15,7 +15,7 @@ keyPoints:
   - “Gusto kong umuwi” ay kadalasang ibig sabihin ng “Hindi ako ligtas o panatag,” hindi kahilingan para sa isang address.
   - Ang pakikipagtalo o pagpapatunay na nasa bahay na siya ay karaniwang nagpapalala ng pagkabalisa. Sagutin ang damdamin sa halip.
   - Hilingin na ikuwento niya ang tungkol sa bahay, saka mag-alok ng mga larawan, musika, meryenda, lakad o simpleng gawain.
-  - Tingnan ang bagay na maaaring ayusin: gutom, uhaw, banyo, sakit, sobrang init o lamig, ingay, pagod.
+  - "Tingnan ang bagay na maaaring ayusin: gutom, uhaw, banyo, sakit, sobrang init o lamig, ingay, pagod."
   - Kung nangyayari ito tuwing hapon, maaaring sundowning iyon; nakatutulong ang matatag na routine at maliwanag na ilaw.
   - Maghanda para sa kaligtasan kung susubukan niyang umalis, at tawagan ang doktor tungkol sa anumang biglaang pagbabago.
 faq:
