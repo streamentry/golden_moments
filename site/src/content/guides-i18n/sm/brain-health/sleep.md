@@ -1,31 +1,34 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Moe ma le Soifua Maloloina o le Faiʻai: O le Ā e Fautuaina e Suʻesuʻega ma le Ā e Fesoasoani"
+seoTitle: "Moe ma le Dementia: O le Ā e Fautuaina e Suʻesuʻega"
+description: "O le ā e fautuaina e suʻesuʻega e uiga i le moe ma le lamatiaga o le dementia, ma auala aoga e moe lelei ai tagata matutua ma tagata tausi."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  O nisi suʻesuʻega umi e fesootaʻi ai le moe puupuu i le ogatotonu o le olaga
+  ma se lamatiaga maualuga o le dementia, ma o suʻesuʻega i falesuesue e fai mai
+  atonu e fesoasoani le moe e faamamāina ai e le faiʻai otaota. E amata pea
+  lenei faamaoniga, ma e leʻi lisiina e le Lancet Commission o le 2024 le moe
+  o se mea e mafai ona suia e lamatia ai. O masani o le moe e masani ai e
+  fesoasoani i le auala e te lagona ai i aso uma. O faigata o le moe i le
+  dementia e taatele ma e aoga ona talanoa i se fomaʻi.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "O se suʻesuʻega a Peretania na mataʻituina ai tagata e tusa ma le 8,000 mo le 25 tausaga na fesootaʻi ai le moe e ono itula pe itiiti ifo i le ogatotonu o le olaga ma se lamatiaga maualuga o le dementia."
+  - "E mafai foi ona avea suiga o le moe ma faailoga muamua o le dementia, o lea e faigata ai ona iloa le mafuaʻaga mai le taunuuga."
+  - "O suʻesuʻega e uiga i le moe e faamamāina ai beta-amyloid mai le faiʻai e moni, ae e amata pea, ma o le tele o i latou i isumu."
+  - "O le sleep apnea e taatele, e mafai ona togafitia ma e fesootaʻi ma le dementia i suʻesuʻega; e aoga ona siaki le ulu leotele ma le moe i le aso."
+  - "Aua lava neʻi amata, taofi, po o suia se vailaʻau po o se fesoasoani i le moe e aunoa ma se fomaʻi."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "E mafua ea le Alzheimer i le le lelei o le moe?"
+    a: "E leʻi faamaonia lena mea. O nisi suʻesuʻega e fesootaʻi ai le moe puupuu ma se lamatiaga maualuga o le dementia, ae o le dementia lava ia e faalavelave i le moe, e masani ona i tausaga a o lei iloa le maʻi. Na faaiʻu le Lancet Commission o le 2024 e lē tutusa tele le faamaoniga e lisiina ai le moe o se mea e mafai ona suia e lamatia ai."
+  - q: "E fia itula o le moe e manaʻomia e tagata matutua?"
+    a: "Ua fai mai le National Institute on Aging e tutusa le manaʻomia o tagata matutua ma isi tagata matutua, 7 i le 9 itula i le po. E toatele tagata matutua e momoe ma tula i luma atu nai lo le taimi na masani ai, ma e taatele lena."
+  - q: "Aiseā e moe ai i le aso ma ala i le po se tagata e iai le dementia?"
+    a: "E mafai e le dementia ona aafia le uati o le tino, o lea e fefiloi ai taimi o le moe ma le ala. E mafai foi ona i ai se vaega le tiga, le fiu, le fia ʻai, po o aafiaga o vailaʻau. E ono fesoasoani le malamalama o le la, gaioiga i aso uma ma se faiga filemu i le afiafi. E mafai e se fomaʻi ona saili mafuaʻaga e mafai ona togafitia."
+  - q: "E tatau ea ona ou tuuina atu se vailaʻau fesoasoani i le moe i le tagata o loo ou tausia?"
+    a: "Talanoa muamua i lona fomaʻi, e aofia ai oloa e faatau e aunoa ma se tusi a le fomaʻi. Ua taʻua e le National Institute on Aging e mafai e nisi vailaʻau o le moe ona faateleina le lamatiaga o le mimilo o le ulu, paʻū ma le lē mautonu i tagata e iai le Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +59,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+E manino le fesootaʻiga o le moe ma le soifua maloloina o le faiʻai, ae o loo suʻesuʻeina pea le auala e fesootaʻi ai. O nisi suʻesuʻega e fesootaʻi ai le moe puupuu ma se lamatiaga maualuga o le dementia. O le dementia, i lona lava itu, e masani ona faalavelave i le moe. E faamatala e lenei itulau le mea e faaalia ma le mea e lē faaalia e suʻesuʻega, e tuuina atu ai masani aoga o le moe, ma aofia ai faigata o le moe e taatele i le dementia. E leai ni fautuaga e uiga i vailaʻau o le moe; o lena talanoaga e tatau ona faia ma se fomaʻi.
 
-## Is poor sleep linked with dementia?
+## E fesootaʻi ea le le lelei o le moe ma le dementia?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+O nisi suʻesuʻega umi e fesootaʻi ai le moe puupuu ma se lamatiaga maualuga o le dementia, ae e leʻi mautinoa le faamaoniga.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **O se suʻesuʻega a Peretania e 25 tausaga.** Na mataʻituina e le au suʻesuʻe tagata matutua e tusa ma le 8,000 i le [suʻesuʻega a Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). O tagata na moe e ono itula pe itiiti ifo i le 50 po o le 60 o latou tausaga na sili atu le lamatiaga e maua i le dementia mulimuli ane nai lo i latou na moe e fitu itula. O tagata na moe e ono itula pe itiiti ifo i le 50, 60 ma le 70 na tusa ma le 30% maualuga atu le lamatiaga nai lo i latou na masani ona moe e fitu itula. O se suʻesuʻega e mataʻituina ai tagata lea, o lea e faaalia ai se fesootaʻiga, e lē o se mafuaʻaga.
+- **O le vaaiga a le Lancet Commission.** O le [Lancet Commission o le 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) na te leʻi faaopoopoina le moe i lana lisi o mea e 14 e mafai ona suia e lamatia ai. Na faaiʻu e leʻi tutusa lelei le faamaoniga. O se tasi o mafuaʻaga o le "mafuaʻaga i tua": o suiga o le faiʻai mai le dementia e amata i tausaga a o lei iloa le maʻi ma e mafai ona faalavelave i le moe. I se suʻesuʻega tele, na mou atu se fesootaʻiga i le va o le moe umi ma le dementia ina ua tuu ese le lima tausaga muamua o le mataʻituina.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+O lea, e lē o se mafuaʻaga e popole ai se po puupuu i se taimi e tasi. O le moe masani ma lelei o se mea e aoga ona taumafai i ai auā e fesoasoani i le lagona, le mataala ma le saogalemu i aso nei.
 
-## What is the "brain-clearing" sleep research?
+## O le ā le suʻesuʻega o le "faamamāina o le faiʻai" i le moe?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Atonu na e faitau e "faamamāina" e le moe le faiʻai. O lena manatu e mai i suʻesuʻega moni, ae o loo amata pea.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **I isumu.** O se suʻesuʻega i le 2013 [na faamatalaina e le NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) na maua ai na tupu e tusa ma le 60% le avanoa i le va o sela o le faiʻai a o moe isumu. Sa sili atu ona faigofie ona tafe le vai i totonu o le faiʻai, i le mea ua taʻua e le au suʻesuʻe o le glymphatic system. O le beta-amyloid, o se porotini e fesootaʻi ma le Alzheimer, na vave ona faamamāina mai le faiʻai o isumu moe.
+- **I tagata.** O se [suʻesuʻega laitiiti o le 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) na ata ai tagata matutua e 20 e lelei le soifua maloloina e 22 i le 72 tausaga a mavae se po masani ma se po e leai se moe. A mavae le po e leai se moe, na siʻi i luga se faailoga o le ata o le faiʻai mo le beta-amyloid e tusa ma le 5% i se vaega e aofia ai le hippocampus, o se vaega e taua mo le manatua. Na taʻua e le au tusitala o se faamaoniga muamua. E leʻi iloa e i latou pe alu ese le suiga pe a mavae le malolo, po o le faaalia o le faamamāina e sili atu le tuai po o le tele o le amyloid o loo faia.
+- **E alu i itu uma e lua.** Ua taʻua e le Lancet Commission e mafai e le aoina o le amyloid ona faalavelave i le moe o tagata matutua.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+E fesoasoani nei mea na maua e faamatala ai le mafuaʻaga e fiafia ai le au suʻesuʻe i le moe. E leʻi faaalia e i latou e puipuia e le moe e sili atu le lelei le Alzheimer.
 
-## What sleep habits may help?
+## O ā masani o le moe e ono fesoasoani?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+E manaʻomia e tagata matutua le tusa ma le 7 i le 9 itula o le moe i le po, e tutusa ma isi tagata matutua, e tusa ai ma le [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). O ana fautuaga e aofia ai:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Tausia se faasologa masani.** Alu e momoe ma ala i le taimi e tasi i aso uma, e oo lava i faaiuga o le vaiaso.
+- **Faia se faiga e faafilemu ai.** Faitau, faalogo i musika filemu po o le taele i le vai mafanafana a o lei momoe.
+- **Faia le potu moe e lelei,** aua le vevela tele po o le malulu tele.
+- **Faatapulaʻa le kafeini i le tuai o le aso.** E mafai e kofe, lauti, sua o fua ma sukalati ona taofia oe e ala.
+- **Aloese mai le ava,** e oo lava i sina aofaʻi itiiti, ua fautuaina e le NIA.
+- **Aloese mai meaʻai tetele i totonu o le lua i le tolu itula a o lei momoe,** ma vaiinu tetele i le tuai o le aso.
+- **Faʻamalositino masani, ae aua le i totonu o le 3 itula a o lei momoe.** Tagai i la matou [taiala i faʻamalositino](/brain-health/exercise/).
+- **Aua le tuu ni lau i le potu moe.** Ua fautuaina e le NIA le aua le matamata i le TV po o le faaaogā o se komipiuta, telefoni po o se tablet i ai.
+- **Aloese mai moe puupuu i le tuai o le aoauli po o le afiafi** pe a mafai.
 
-## Sleep problems in dementia
+## Faigata o le moe i le dementia
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+E taatele suiga o le moe i le dementia. Ua [lisiina e le NIA](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) le moe tele po o le moe e itiiti, le ala soo i le po, ma le momoe soo i le aso. Ua faamatala foi e ia le le mapu i le afiafi: o le le mapu, le le fiafia po o le lē mautonu e amata po o le sili atu ona leaga a o goto le malamalama o le aso.
 
-Caregiver tips from the NIA include:
+O fautuaga mo tagata tausi mai le NIA e aofia ai:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Maua le malamalama o le la ma le gaoioi i le amataga o le aso.** Alu i fafo po o le nofo i tafatafa o se faamalama i le aso, ma fesoasoani i le tagata e gaoioi i aso uma. E mafai ona fesoasoani le malamalama e faaleleia ai le uati o le tino.
+2. **Fuafua gaioiga malosi mo le taeao.** Taumafai e taele i le taeao po o le ʻai o le meaʻai sili ona tele i le aoauli.
+3. **Tausia puupuu ma vave moe puupuu.** Faatapulaʻa le momoe i le tuai o le aso.
+4. **Faafilemu le afiafi.** Faaitiitia le malamalama, faaitiitia le pisa ma taalo musika filemu pe afai e fiafia i ai le tagata. O la matou taiala i le [le mapu i le tuai o le aso](/caregiving/late-day-restlessness/) e iai ni isi manatu.
+5. **Tausia se faiga tumau o le momoe.** O le faitau leotele i le taimi e tasi i po uma o se faʻataʻitaʻiga a le NIA. E fesoasoani foi se [faiga masani o aso uma](/activities/daily-routine/).
+6. **Faatapulaʻa le kafeini ma le ava.**
+7. **Faaaoga moli laiti o le po** i le potu moe, le auala ma le faleʻuli.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Mo le ala i le po, o [fautuaga o le saogalemu i le fale](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) a le NIA e aofia ai moli laiti o le po po o masini e malamalama otometi, fusi e uuina i le faleʻuli, teipi e malamalama le lanu i pito o laasaga, ma vailaʻau e teu i se mea e loka.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+O se gaioiga filemu puupuu i le afiafi e mafai ona fesoasoani ia te oulua e filemu. Taumafai se tolotolo lemu o le [Calm Breathing](/games/calm-breathing/) po o ni [Conversation Cards](/games/conversation-cards/) filemu. Aloese mai so o se mea e faaosofia latalata i le momoe, ma taofi pe a lava le tagata.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+E faavaivaia foi tagata tausi i le moe tuʻutuʻu. O la matou [taiala o le tausiga o le tagata tausi](/caregiving/caregiver-self-care/) e aofia ai auala e maua ai le malolo ma le fesoasoani.
 
-## What about sleep apnea?
+## Ae a le sleep apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+O le sleep apnea e mafua ai le taofia puupuu o le manava i le taimi o le moe, e masani ona tele taimi i le po. Ua fai mai le NIA pe afai e lē togafitia, e mafai ona oo atu i faafitauli e pei o le maualuga o le mamafa o le toto, stroke po o le leiloa o le manatua. O faailoga e aofia ai le ulu leotele ma le lagona o le moe i le aso, ma e toatele tagata e le iloa e iai ia i latou. Ua faamatala e le Lancet Commission se iloiloga o suʻesuʻega e 11 na iai ai tagata e iai le sleep apnea na tusa ma le 43% maualuga atu le lamatiaga o le dementia. E itiiti o ia suʻesuʻega na faatatau i le mamafa, o lea e lē mautinoa le fesootaʻiga.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+E mafai ona iloa ma togafitia le sleep apnea. Ua taʻua e le NIA e toetoe lava a fesoasoani i taimi uma se masini CPAP. Afai e ulu leotele oe po o le tagata e te tausia, e taofi le manava i le moe, po o le matua moe i le aso, taʻu i se fomaʻi.
 
-## A note about sleep medicines
+## Se manatu e uiga i vailaʻau o le moe
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Matou te leai ni fautuaga e uiga i vailaʻau o le moe po o vailaʻau faʻaopoopo. Ua taʻua e le NIA e mafai ona fesoasoani vailaʻau o le moe mo sina taimi puupuu ae e lē o se togafitiga o le le moe. Ua taʻua foi e mafai e nisi vailaʻau e tuuina atu e fesoasoani i tagata e iai le Alzheimer e moe ona faateleina le lamatiaga o le mimilo o le ulu, paʻū ma le lē mautonu. Aua le amata, taofi, po o suia soo se vailaʻau o le moe, e aofia ai fesoasoani i le moe e faatau e aunoa ma se tusi a le fomaʻi, e aunoa ma le talanoa i se fomaʻi po o se tagata faatau vailaʻau.
 
-## Talk with a doctor
+## Talanoa i se fomaʻi
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Vaai i se fomaʻi pe afai e vaivai pea oe po o le tagata e te tausia, e faigata le moe i le tele o po, ulu leotele, po o taofia le manava i le po. Afai e faaauau pea faigata o le moe i le dementia, ua [fautuaina e le NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) le saili o se fautuaga faafomaʻi. O se siakiga e mafai ona maua ai mafuaʻaga e pei o le tiga, se isi faafitauli o le moe, se maʻi po o se aafiaga o se vailaʻau. O le lē mautonu faafuaseʻi, po o se suiga faafuaseʻi o le moe faatasi ma le lē mautonu, e manaʻomia ai se tausiga vave. Faitau [pe a tatau ona vaai i se fomaʻi](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+O faamatalaga lenei itulau e lautele, e lē o se fautuaga faafomaʻi. Tagai i la matou [faamatalaga e uiga i fautuaga faafomaʻi](/medical-disclaimer/).
