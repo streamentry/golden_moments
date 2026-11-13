@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "He Hōtaka Ngāwari o Ia Rā mō te Tangata e Noho Ana me te Mate Wareware"
+seoTitle: "Hōtaka o Ia Rā mō te Mate Wareware: He Tauira Ngāwari"
+description: "He tauira o tētahi rā ngāwari mō te tangata e noho ana me te mate wareware, me ngā kai, ngā mahi me te okiokinga, me tō hanga ake e urutau ai."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  He ngāwari te hōtaka o ia rā e pupuri ai i te ara, te kai, te manaaki tinana
+  me te moe i ngā wā tata tonu. Whakaritea ā-ringa mai i ngā tikanga pūmau o te
+  tangata, kaua e tīmata ki te hōtaka kī, whakarite te mahi matua ina kaha rawa
+  te tangata, me te taurite i te mahi me te okiokinga. Whakamahia te māramatanga
+  o te rā me te nekeneke ia rā, ā, hurihia te mahere ina hiahiatia te rā.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ngā wā tūturu mō te ara, te kai, te manaaki tinana me te moe e hanga ai i te rā he āhua mōhio."
+  - "Whakanohoa te mahi matua ki te wā pai rawa o te tangata, he wā kakahu ki te ata."
+  - "Kaua e whakakī i ia meneti. He wāhi o te hōtaka te okiokinga me te wā mārie."
+  - "Te māramatanga o te rā, te nekeneke ia rā, me te karo i ngā moe roa o te ahiahi me te tī kawa i te pō, ka āwhina pea i te ohotata o te ahiahi."
+  - "He arataki te hōtaka, ehara i te ture. Whakakapi, whakapoto, waiho rānei tētahi mahi i ngā rā uaua."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "He aha te take e āwhina ai he hōtaka mō te tangata e mate wareware ana?"
+    a: "Ka iti ake ngā whiriwhiri me ngā mea ohorere i te rā e mōhio ana te tangata, ā, he maha ngā tāngata e noho ana me te mate wareware e kite ana i te mārie i reira. Ka kī te Alzheimer's Association, mā te rā kua whakaritea e iti ai te wā o te whakaaro he aha te mahi, ka nui ake te wā mō ngā mahi e pai ana ki a koutou. Ka āwhina hoki i te kaitiaki ki te whakarite i tōna ake rā."
+  - q: "He aha te hōtaka rā pai mō te tangata e mate wareware ana?"
+    a: "Kāore he hōtaka kotahi tika. Ko tētahi pai ka pupuri i te ara, te kai me te moe i ngā wā tata tonu, ka whakanoho i te horoi tinana me te mahi matua ina kaha rawa te tangata, ka whai wāhi ki te wā ki waho, ki te taha matapihi rānei, ā, ka waiho he wāhi mō te okiokinga. Hangaia mā te āhua o te oranga o te tangata i ngā wā katoa."
+  - q: "Me moe awatea te tangata e mate wareware ana?"
+    a: "He pai te moe poto, otirā i muri i te tina. Ka kī te National Institute on Aging me kaua e moe roa, me kaua e moe ki te mutunga o te rā, nā te mea ko te ngenge me te moe kore pai ka piki ake te ohotata o te ahiahi. Ki te raru tonu te moe, kōrero ki tō rātou ringa tiaki."
+  - q: "Ki te whakakahore rātou i te hōtaka?"
+    a: "Waiho mō tēnei wā, whakamātauria anō ā muri ake, i tētahi āhua kē rānei. Ka tohu te whakakahore kua ngenge rātou, kāore i te pai, kei te mamae, kāore rānei i te rite. He āwhina te hōtaka ki te whakamāmā i te rā, nō reira whakanekeneke, kaua e akiaki."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+He ngāwari te tikanga o ia rā e hanga ai i te rā he āhua mōhio: te whakaara, ngā kai, he mahi iti, te okiokinga, me te moe i ngā wā tata tonu. Ka iti ake ngā whiriwhiri me ngā mea ohorere, ā, he mahere hoki mō ngā wā ka whakaaro koe he aha te mea hei mahi i muri mai. He tauira te hōtaka i raro nei, ehara i te ture. Whakamahia hei tīmatanga, kātahi ka hanga ki te tangata e manaakitia ana e koe.
 
-## Why does a daily routine help?
+## He aha te take e āwhina ai te tikanga o ia rā?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ka āwhina te tikanga pūmau, nā te mea he māmā ake te whai i ngā tauira kua mōhiotia i ngā mea hou. Ka kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) he iti ake te wā e whakaaro ai ki te mahi, he nui ake te wā mō ngā mahi e pai ana, ā, ka kī hoki ko ngā wā pūmau mō te whakaara me te moe ka āwhina i ngā raruraru moe me te ohotata o te ahiahi. Ka kī te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) me horoi, me kākahu, me kai i ngā wā ōrite ia rā, hei wāhanga o te kāinga mārie, ā, ka tohutohu hoki te [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kia pupuri tonu i ngā tikanga ōrite.
 
-## A sample gentle day
+## Tētahi rā ngāwari hei tauira
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+He tauira noa ngā wā. Whakanekehia te rā katoa kia moata, kia tōmuri rānei, kia rite ki te rhythm o te tangata.
 
-| Time | What happens | Ideas | On a harder day |
+| Wā | Te mea e tupu ai | Whakaaro | I tētahi rā uaua |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 i te ata | Ara ake, horoi, kākahu | Te raupapa ōrite ia rā; whakarite ngā kākahu i te raupapa e kākahuhia ai | Whakangāwarihia te horoi; he hāte ma, he pai kē |
+| 8:45 i te ata | Parakuihi | Tī me te nūpepa e pānuitia ana, me te reo irirangi | Kaina tahi i runga i te humarie, kāore he pēhanga kia kōrero |
+| 9:30 i te ata | Mahi matua | Tātā kākahu, tunu parāoa, mahi māra, haere iti, hīkoi rānei | He tauira poto ake, te noho ki te mātakitaki i a koe e mahi ana |
+| 10:30 i te ata | Wā mārie | Waiata, pukapuka whakaahua, te noho ki te matapihi | Te okiokinga i tōna tūru pai |
+| 11:00 i te ata | Āwhina i te tina | Horoi huawai, whakarite i te tēpu | Ka tunu koe; ka whai hoa rātou ki a koe |
+| 12:00 i te awatea | Te tina me te whakamā | Muru i te tēpu, tātā i ētahi rīhi | Kaua e mahi i ngā mahi kāinga |
+| 1:00 i te awatea | Okiokinga poto | Ngā waewae whakaraurahi, waiata ngāwari | He rite |
+| 2:00 i te awatea | Ki waho, kaha | Hīkoi, noho i te paepae, whakamākū i ngā rākau, tuku i te paōro māmā | Noho ki te matapihi o te rā |
+| 3:00 i te awatea | Hapori, auaha | Manuhiri, waea, [pōtaki rite](/games/picture-pairs/), tā kara, kāri | He inu me he kai tahi |
+| 4:30 i te ahiahi | Wā whakanoho | Kati ngā kākaho, whakaaratia ngā rama, he mahi mārie pēnei i te tātā horoi taora | He waiata whānau, he iti te haruru |
+| 5:30 i te ahiahi | Tina ahiahi | Āwhina ki te whakakohu, ki te whakarite tēpu | He kai māmā, he kai whānau |
+| 6:30 i te ahiahi | Ngā mea tahi i te ahiahi | Whakamahara ki te reka, kāri, he whakaaturanga pai, he miri ringa | He hoa mārie |
+| 8:00 i te pō | Tikanga moe | Kaukau, kākahu moe, waiata ngāwari, rama iti | Whakapoto i ngā mea katoa; te whakamarie tuatahi |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ko tēnei tauira e whai ana i te āhua o te tauira a te Alzheimer's Association mō ngā wāhanga timatanga me ngā wāhanga waenga, e neke ana mai i te horoi tinana me te parakuihi, ki ngā mahi kāinga, ngā hīkoi, te waiata, te okiokinga me ngā toenga, tae atu ki te tina ahiahi, te whakamahara me te whakarite mō te moe.
 
-## How do you build your own routine?
+## Me pēhea te hanga i tō ake tikanga?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Tīmatahia mai i te āhua o te oranga o te tangata i ngā wā katoa, ehara i te mahere. Ka kī te Alzheimer's Association me whakaaro ki ēnei mea i mua i te whakarite:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ā rātou pai, ā rātou kino, ā rātou pūmanawa, ā rātou hiahia.**
+- **Me pēhea rātou i te noho i ā rātou rā i mua.** He kaiāra moata te tangata i hīkoi tonu ki tana kurī, me hīkoi moata tonu. Ka kore pea e pai ki tētahi kaiurupā te timatanga i te 8 i te ata.
+- **Te wā pai rawa o te rā.** Whakanohoa ki reira te kaukau, ngā haerenga, me te mahi matua.
+- **He wā rahi** mō te kai, te horoi me te kākahu, kia kaua e tere rawa.
+- **Ngā wā whakaara me te moe pūmau.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ka kī anō te puna i taua mea me whakauru he whakanui i ngā mahi kāinga, ngā kai, ngā mahi ā-auaha, ngā mahi tinana, te wā hapori, ngā mahi wairua me ngā wā ohorere, pēnei i tētahi hoa e tomo mai ana.
 
-### Try it for a week, then adjust
+### Whakamātau mō tētahi wiki, kātahi ka whakarite anō
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Tuhia he tuhinga iti ia rā. Ka pātai te Alzheimer's Association he aha ngā mahi i pai rawa ai, he aha te take, he wā rānei i nui rawa ai te mahi, i iti rawa rānei, ā, he pai rānei ngā mahere ohorere, he raruraru rānei i whakaara. Pupuritia ngā mea e pai ana, huria ngā mea kāore.
 
-### Make it visible
+### Whakaarahia kia kitea
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ki te kaha tonu te tangata ki te pānui, he whakamārama te papa whiteboard, te kāri rahi-tuhi rānei mō te mahere o te rā. Kia poto: "Parakuihi. Hīkoi me Sarah. Kai awatea. Okiokinga." Hei ētahi tāngata, he pai ake kia kore e mōhio tua atu; e kī ana te Family Caregiver Alliance kia kaua e kōrero mō ngā mahere tae noa ki mua tonu i tōna wā, mēnā ka raruraru.
 
-## How to adapt the routine
+## Me pēhea te urutau i te tikanga
 
-### Leave room to breathe
+### Waiho he wā hei whakahā
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Kaua e whakakī i ia meneti. E kī ana te Alzheimer's Association me whai te tangata i te taurite o te mahi me te okiokinga, ā, he nui pea ōna okiokinga. Mēnā he rite tonu ki te pōuri, he wiri rānei, huri ki tētahi mahi kē, ki te okiokinga rānei.
 
-### Protect the late afternoon
+### Tiakina te ahiahi mutunga
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+He nui te tangata e kaha te ohotata i te whakamaramatanga o te rā. Ka kī te NIA me noho ki waho, ki te taha matapihi, kia whai māramatanga i ia rā, me te nekeneke ia rā kaua e whakamahere rawa, me karo i te tī kawa me te waipiro i te ahiahi, me karo hoki i ngā moe roa i te ahiahi. Ka kitea e ētahi whānau he pai te kati i ngā kākaho, te whakaara i ngā rama i mua i te pōuri. Me titiro ki te [ohotata o te ahiahi](/caregiving/late-day-restlessness/) me te [moe](/brain-health/sleep/).
 
-### Change it as needs change
+### Huria ngā mea i te rerekētanga o ngā hiahia
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Wāhanga timatanga:** whakamahere ngātahi i te tikanga. Ka pai pea ki te tangata he hōtaka tuhi kia ia anō e whakahaere ai.
+- **Wāhanga waenga:** he nui ake tāu arataki. Mahi poto ake, okiokinga ake, me ngā mahi maha e mōhiotia ana; titiro ki [ngā mahi wāhanga waenga](/activities/middle-stage/).
+- **Wāhanga whakamutunga:** ko te tikanga e aro ana ki te manaaki, ki te kai me te tiaki, me ngā wā poto o te reo, te waiata, te miri ringa rānei i waenga i ēnei; titiro ki [ngā mahi wāhanga whakamutunga](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Huria ngā mahi, kaua te anga
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Kia tūturu te kai, te okiokinga me te moe, ā, huria ngā mahi i waenga. Ka kī te [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) me whakamātau i ngā mahi rerekē i ngā rā rerekē kia mau tonu te reka. Pēnei, he tunu parāoa i te Mane, he mahi māra i te Tūrei, he titiro whakaahua i te Wenerei. Ka taea e ā mātou [101 mahi whakaaro](/activities/ideas/) me ngā [mahi kāinga](/activities/household-tasks/) te whakakī i ngā wā.
 
-## When the day goes sideways
+## Ina ngaro te rā i te ara
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Ka tūpuhi ētahi rā kāore e whai i tētahi mahere. Ka taea e te mate, he pō kino, he toro a te tākuta, he huringa o te rangi te wewete i te katoa. Whakarerea te mahere, pupuria ngā mea matua (kai, wai, okiokinga, manaaki), ā, whakamātauria anō apōpō. Ki te whakakahore te tangata i tētahi mea, titiro ki [te whakakahore](/caregiving/when-they-say-no/). He hā mārie tahi, pēnei i te [hā mārie](/games/calm-breathing/), ka āwhina kia whakaoho anō koutou.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+He mea nui hoki tō tikanga. Whakauruhia ngā okiokinga mōu, ā, tonoa tētahi whānau, tētahi ratonga manaaki rānei kia kawe i ō wā okiokinga pūmau. Titiro ki te [tiaki i a koe anō](/caregiving/caregiver-self-care/).
