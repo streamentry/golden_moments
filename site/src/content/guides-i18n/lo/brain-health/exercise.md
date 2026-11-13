@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "ການອອກກຳລັງກາຍ ແລະ ສຸຂະພາບສະໝອງ: ການຄົ້ນຄວ້າເຊື່ອມໂຍງຫຍັງ ແລະ ວິທີເຄື່ອນໄຫວຢ່າງປອດໄພ"
+seoTitle: "ການອອກກຳລັງກາຍ ແລະ ໂຣກສະໝອງເສື່ອມ: ການຄົ້ນຄວ້າບອກຫຍັງ"
+description: "ການຄົ້ນຄວ້າເຊື່ອມການເຄື່ອນໄຫວທາງກາຍກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມ ພ້ອມວິທີເຄື່ອນໄຫວຢ່າງປອດໄພ ແລະ ສະໜຸກສຳລັບຜູ້ສູງອາຍຸ ແລະ ຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  ການສຶກສາເຊື່ອມການມີກິດຈະກຳທາງກາຍເປັນປະຈຳກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ຕ່ຳລົງ ແລະ ການປະຊຸມ Lancet ປີ 2024 ລະບຸການບໍ່ເຄື່ອນໄຫວເປັນໜຶ່ງໃນ 14 ປັດໃຈສ່ຽງທີ່ປ່ຽນແປງໄດ້. ການທົດລອງຍັງບໍ່ພິສູດວ່າການອອກກຳລັງກາຍປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້. ການເຄື່ອນໄຫວຍັງຊ່ວຍຄວາມແຂງແຮງ ການທົງຕົວ ອາລົມ ແລະ ການນອນ ສະນັ້ນການຍ່າງ ອອກກຳລັງກາຍໃນເກົ້າອີ້ ແລະ ການເຕັ້ນຈຶ່ງຄຸ້ມຄ່າໃນຕົວຂອງມັນເອງ. ປຶກສາໝໍກ່ອນເລີ່ມສິ່ງໃໝ່.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "ຜູ້ທີ່ເຄື່ອນໄຫວທາງກາຍມີຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມຕ່ຳໂດຍສະເລ່ຍ ແຕ່ສ່ວນໃຫຍ່ນີ້ມາຈາກການສຶກສາແບບສັງເກດການ ບໍ່ແມ່ນການທົດລອງ."
+  - "ການທົດລອງອອກກຳລັງກາຍຫ້າປີໃນຜູ້ໃຫຍ່ສູງອາຍຸ ບໍ່ພົບຄວາມແຕກຕ່າງທີ່ຊັດເຈນດ້ານທັກສະການຄິດລະຫວ່າງກຸ່ມ."
+  - "ຄຳແນະນຳ CDC ສຳລັບຜູ້ໃຫຍ່ອາຍຸ 65 ປີຂຶ້ນໄປລວມການອອກກຳລັງກາຍແບບແອໂຣບິກ ການເສີມສ້າງກ້າມເນື້ອ ແລະ ການທົງຕົວ ແລະ ລະບຸວ່າການເຄື່ອນໄຫວບາງຢ່າງດີກວ່າບໍ່ມີເລີຍ."
+  - "ສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ ການເຄື່ອນໄຫວສັ້ນໆ ຄຸ້ນເຄີຍ ແລະ ເຮັດນຳກັນ ເຊັ່ນ ການຍ່າງທຸກມື້ ຫຼື ເກມນັ່ງ ສຳຄັນກວ່າເປົ້າໝາຍໃດໆ."
+  - "ຜູ້ໃຫຍ່ສູງອາຍຸຫຼາຍກວ່າໜຶ່ງໃນສີ່ຄົນລົ້ມທຸກປີ ສະນັ້ນການອອກກຳລັງກາຍທົງຕົວ ແລະ ພື້ນທີ່ປອດໄພຈຶ່ງມາກ່ອນ."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "ການອອກກຳລັງກາຍປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?"
+    a: "ບໍ່ມີໃຜສາມາດສັນຍາແບບນັ້ນໄດ້. ການສຶກສາຫຼາຍອັນເຊື່ອມການມີກິດຈະກຳກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ຕ່ຳລົງ ແຕ່ການທົດລອງທາງຄລີນິກຍັງບໍ່ໄດ້ສະແດງວ່າການອອກກຳລັງກາຍປ້ອງກັນໄດ້. ການອອກກຳລັງກາຍມີປະໂຫຍດອື່ນທີ່ພິສູດແລ້ວຫຼາຍຢ່າງ ສະນັ້ນຍັງຄຸ້ມຄ່າທີ່ຈະເຮັດ."
+  - q: "ປອດໄພບໍສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມທີ່ຈະອອກກຳລັງກາຍ?"
+    a: "ປົກກະຕິແມ່ນໄດ້ ຖ້າວາງແຜນເລັກນ້ອຍ. National Institute on Aging ແນະນຳໃຫ້ປຶກສາໝໍຂອງຜູ້ນັ້ນກ່ອນເລີ່ມແບບແຜນໃໝ່ ເລືອກເກີບທີ່ສະບາຍ ໃຫ້ນ້ຳ ແລະ ເຮັດໃຫ້ແຕ່ລະຄັ້ງສັ້ນ. ຢຸດຖ້າຜູ້ນັ້ນເບິ່ງເມື່ອຍ ບໍ່ໝັ້ນຄົງ ຫຼື ບໍ່ມີຄວາມສຸກ."
+  - q: "ມີການອອກກຳລັງກາຍແບບໃດທີ່ເຮັດໄດ້ໃນຂະນະນັ່ງ?"
+    a: "ທາງເລືອກແບບນັ່ງລວມການຍືດຕົວໃນເກົ້າອີ້ ຫຼື ໂຢຄະເກົ້າອີ້ ໂຍນລູກປິງປອງ ຫຼື ລູກບານນຸ່ມ ໂຍນຖົງເມັດຖົ່ວ ຍົກກະປ໋ອງຊຸບ ສາຍຢາງຍືດ ແລະ ເຄື່ອງຖີບແບບນັ່ງ. ສິ່ງເຫຼົ່ານີ້ເໝາະເມື່ອການເດີນເປັນເລື່ອງຍາກ."
+  - q: "ຖ້າຜູ້ນັ້ນບໍ່ຢາກເຄື່ອນໄຫວ ຈະເຮັດແນວໃດ?"
+    a: "ຢ່າບັງຄັບ. ລອງໃໝ່ຕໍ່ມາ ເຂົ້າຮ່ວມເອງ ເປີດດົນຕີທີ່ຄຸ້ນເຄີຍ ຫຼື ປ່ຽນການເຄື່ອນໄຫວເປັນໜ້າທີ່ ເຊັ່ນ ການກວາດບ້ານ ຫຼື ລົດນ້ຳຕົ້ນໄມ້. ການຍ່າງສັ້ນໆໄປຕູ້ໄປສະນີກໍນັບ ແລະ ການນັ່ງນອກບ້ານນຳກັນກໍນັບເຊັ່ນກັນ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+ການເຄື່ອນໄຫວແມ່ນໜຶ່ງໃນນິໄສທີ່ຖືກສຶກສາຫຼາຍທີ່ສຸດໃນການຄົ້ນຄວ້າສຸຂະພາບສະໝອງ. ການສຶກສາເຊື່ອມມັນກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ຕ່ຳລົງ ແຕ່ຍັງບໍ່ໄດ້ພິສູດວ່າການອອກກຳລັງກາຍປ້ອງກັນໂຣກສະໝອງເສື່ອມ. ສິ່ງທີ່ຊັດເຈນຄືການເຄື່ອນໄຫວຊ່ວຍຄວາມແຂງແຮງ ການທົງຕົວ ອາລົມ ແລະ ການນອນໃນທຸກວັຍ. ໜ້ານີ້ກວມເອົາສິ່ງທີ່ການຄົ້ນຄວ້າບອກ ຜູ້ໃຫຍ່ສູງອາຍຸຄວນເຄື່ອນໄຫວເທົ່າໃດ ແລະ ວິທີເຄື່ອນໄຫວຢ່າງອ່ອນໂຍນກັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ.
 
-## Does exercise lower the risk of dementia?
+## ການອອກກຳລັງກາຍຊ່ວຍຫຼຸດຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມບໍ?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+ການຄົ້ນຄວ້າຊີ້ໃຫ້ເຫັນວ່າຜູ້ທີ່ມີກິດຈະກຳທາງກາຍມີໂອກາດເປັນໂຣກສະໝອງເສື່ອມໜ້ອຍກວ່າ ແຕ່ຫຼັກຖານມີຂໍ້ຈຳກັດ. [ການປະຊຸມ Lancet ປີ 2024 ກ່ຽວກັບໂຣກສະໝອງເສື່ອມ](https://doi.org/10.1016/S0140-6736(24)01296-0) ລະບຸການບໍ່ເຄື່ອນໄຫວທາງກາຍເປັນໜຶ່ງໃນ 14 ປັດໃຈສ່ຽງທີ່ປ່ຽນແປງໄດ້. ລວມກັນແລ້ວ 14 ປັດໃຈນີ້ກ່ຽວຂ້ອງກັບປະມານ 45% ຂອງໂຣກສະໝອງເສື່ອມທົ່ວໂລກໃນແບບຈຳລອງຂອງມັນ.
 
-Here is what the evidence looks like:
+ນີ້ແມ່ນລັກສະນະຫຼັກຖານ:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **ການສຶກສາແບບສັງເກດການຊີ້ໄປທາງດຽວກັນ.** ການທົບທວນ 58 ການສຶກສາ ທີ່ການປະຊຸມນຳມາກ່າວເຖິງ ພົບວ່າຜູ້ທີ່ເຄື່ອນໄຫວທາງກາຍມີຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມຕ່ຳກວ່າປະມານ 20%. ຄວາມແຕກຕ່າງທີ່ໃຫຍ່ທີ່ສຸດແມ່ນລະຫວ່າງຜູ້ທີ່ບໍ່ເຄື່ອນໄຫວເລີຍເກືອບທັງໝົດ ກັບຜູ້ທີ່ເຮັດກິດຈະກຳບາງຢ່າງ.
+- **ຄວາມສຳພັນອາດໄປທັງສອງທາງ.** ການປະຊຸມລະບຸວ່າການບໍ່ເຄື່ອນໄຫວອາດເພີ່ມຄວາມສ່ຽງ. ມັນຍັງລະບຸວ່າການປ່ຽນແປງຂອງສະໝອງໃນໂຣກສະໝອງເສື່ອມທີ່ເລີ່ມຫຼາຍປີກ່ອນການວິນິດໄສ ອາດເຮັດໃຫ້ຄົນເຄື່ອນໄຫວໜ້ອຍລົງ.
+- **ການທົດລອງບໍ່ຊັດເຈນເທົ່າ.** ໃນການທົດລອງໜຶ່ງ ຜູ້ໃຫຍ່ສູງອາຍຸ 945 ຄົນ ອາຍຸສະເລ່ຍ 78 ປີ ຖືກມອບໝາຍໃຫ້ອອກກຳລັງກາຍແບບມີຜູ້ຄວບຄຸມສອງຄັ້ງຕໍ່ອາທິດເປັນເວລາຫ້າປີ ຫຼື ກຸ່ມປຽບທຽບ. ໃນທີ່ສຸດ ທັກສະການຄິດບໍ່ແຕກຕ່າງຢ່າງຊັດເຈນລະຫວ່າງກຸ່ມ. ຄົນຈຳນວນຫຼາຍໃນກຸ່ມປຽບທຽບກໍເຄື່ອນໄຫວເຊັ່ນກັນ ເຊິ່ງເຮັດໃຫ້ຜົນອ່ານຍາກຂຶ້ນ.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ເວົ້າຢ່າງກົງໄປກົງມາ: ຍັງບໍ່ໄດ້ສະແດງຄວາມສຳພັນທີ່ຊັດເຈນລະຫວ່າງກິດຈະກຳທາງກາຍກັບການປ້ອງກັນອັລໄຊເມີ ແລະ ມີຫຼັກຖານການທົດລອງບໍ່ພຽງພໍທີ່ຈະເວົ້າວ່າການອອກກຳລັງກາຍປ້ອງກັນ ຫຼື ຊະລອໂຣກນີ້ໄດ້. ການອອກກຳລັງກາຍຍັງຊ່ວຍຫຼຸດຄວາມສ່ຽງການລົ້ມ ຊຶມເສົ້າ ເບົາຫວານ ຄວາມດັນເລືອດສູງ ແລະ ໂຣກຫຼອດເລືອດສະໝອງ. ບາງພະຍາດເຫຼົ່ານັ້ນເອງກໍກ່ຽວຂ້ອງກັບການເສື່ອມຂອງການຮັບຮູ້.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+ຂໍ້ສະຫຼຸບຊື່ສັດຄື: ເຄື່ອນໄຫວເພາະມັນຊ່ວຍໃຫ້ທ່ານຮູ້ສຶກ ແລະ ເຮັດວຽກໄດ້ດີຂຶ້ນໃນມື້ນີ້. ປະໂຫຍດຕໍ່ສະໝອງເປັນໂບນັດທີ່ອາດເກີດຂຶ້ນ ບໍ່ແມ່ນຄຳສັນຍາ.
 
-## How much activity do older adults need?
+## ຜູ້ໃຫຍ່ສູງອາຍຸຕ້ອງເຄື່ອນໄຫວເທົ່າໃດ?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[ຄຳແນະນຳຂອງ CDC ສຳລັບຜູ້ໃຫຍ່ອາຍຸ 65 ປີຂຶ້ນໄປ](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ແນະນຳການເຄື່ອນໄຫວສາມປະເພດໃນແຕ່ລະອາທິດ:
 
-| Type | Weekly amount | Examples |
+| ປະເພດ | ປະລິມານຕໍ່ອາທິດ | ຕົວຢ່າງ |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| ແອໂຣບິກ | ຢ່າງໜ້ອຍ 150 ນາທີຂອງກິດຈະກຳລະດັບປານກາງ ເຊັ່ນ 30 ນາທີ 5 ມື້ | ການຍ່າງໄວ ການເຕັ້ນ ແອໂຣບິກໃນນ້ຳ |
+| ເສີມສ້າງກ້າມເນື້ອ | ຢ່າງໜ້ອຍ 2 ມື້ ໂດຍເຮັດກ້າມເນື້ອໃຫຍ່ທຸກສ່ວນ | ຍົກນ້ຳໜັກເບົາ ຫຼື ກະປ໋ອງຊຸບ ສາຍຢາງຍືດ |
+| ການທົງຕົວ | ເປັນປະຈຳ | ເດີນສົ້ນຕໍ່ປາຍ ລຸກຈາກເກົ້າອີ້ |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+ນີ້ແມ່ນເປົ້າໝາຍ ບໍ່ແມ່ນເງື່ອນໄຂເຂົ້າ. CDC ເວົ້າວ່າຖ້າທ່ານບໍ່ສາມາດບັນລຸໄດ້ ໃຫ້ເຄື່ອນໄຫວໃຫ້ຫຼາຍເທົ່າທີ່ຄວາມສາມາດ ແລະ ສຸຂະພາບອະນຸຍາດ. ການເຄື່ອນໄຫວບາງຢ່າງດີກວ່າບໍ່ມີເລີຍ.
 
-## Gentle ways to move for older adults
+## ວິທີເຄື່ອນໄຫວຢ່າງອ່ອນໂຍນສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **ຍ່າງນຳກັນ.** ການຍ່າງທຸກມື້ກັບໝູ່ ເພື່ອນບ້ານ ຫຼື ກຸ່ມຍ່າງ ເພີ່ມການສົນທະນາ ແລະ ຄວາມປອດໄພ.
+- **ອອກກຳລັງກາຍໃນເກົ້າອີ້.** ຍົກແຂນນັ່ງ ໝຸນຂໍ້ຕີນ ເດີນຢູ່ກັບທີ່ ແລະ ໂຢຄະເກົ້າອີ້ ສ້າງຄວາມແຂງແຮງໂດຍບໍ່ມີຄວາມສ່ຽງດ້ານການທົງຕົວ.
+- **ເຕັ້ນໃນເຮືອນຄົວ.** ເປີດດົນຕີຈາກໄວລຸ້ນ ແລະ ອາຍຸ 20 ປີຂອງຜູ້ນັ້ນ ແລ້ວແກວ່ງ ຕົບ ຫຼື ກ້າວ. [ຄູ່ມືກິດຈະກຳດົນຕີ](/activities/music/) ຂອງພວກເຮົາມີແນວຄິດ.
+- **ຄວາມແຂງແຮງດ້ວຍເຄື່ອງໃຊ້ໃນເຮືອນ.** ຍົກຂວດນ້ຳ ຫຼື ກະປ໋ອງຊຸບທີ່ເຕັມ ໃນຂະນະທີ່ເບິ່ງລາຍການທີ່ມັກ.
+- **ປູກສວນ ຫຼື ເຮັດວຽກບ້ານ.** ລົດນ້ຳຕົ້ນໄມ້ ກວາດ ກວາດໃບໄມ້ ແລະ ພັບເສື້ອຜ້າ ລ້ວນນັບ. ເບິ່ງ[ກິດຈະກຳນອກບ້ານ ແລະ ການເຮັດສວນ](/activities/outdoor-and-gardening/) ແລະ [ວຽກບ້ານ](/activities/household-tasks/).
+- **ອອກກຳລັງກາຍໃນນ້ຳ.** NIA ລະບຸການອອກກຳລັງກາຍແອໂຣບິກໃນນ້ຳເປັນທາງເລືອກສຳລັບຜູ້ທີ່ເຫັນວ່າການອອກກຳລັງກາຍເທິງດິນເປັນພາລະຕໍ່ຂໍ້ຕໍ່.
 
-## How to exercise with someone living with dementia
+## ວິທີອອກກຳລັງກາຍກັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+ສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ ເປົ້າໝາຍແມ່ນຄວາມສະບາຍ ຄວາມເພີດເພີນ ແລະ ການຮັກສາຄວາມສາມາດປະຈຳວັນ ບໍ່ແມ່ນການບັນລຸຕົວເລກ. NIA ເວົ້າວ່າການເຄື່ອນໄຫວທາງກາຍຊ່ວຍຮັກສາກ້າມເນື້ອ ຂໍ້ຕໍ່ ແລະ ຫົວໃຈຂອງຜູ້ທີ່ເປັນອັລໄຊເມີໃຫ້ແຂງແຮງ ແລະ ຍັງອາດປັບປຸງອາລົມ ແລະ ການນອນ. ໃຫ້ກວດກັບໝໍຂອງຜູ້ນັ້ນກ່ອນເລີ່ມແບບແຜນໃໝ່. ຄຳແນະນຳຈາກ[ຄູ່ມືຜູ້ດູແລຂອງ NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ລວມ:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **ຍ່າງນຳກັນທຸກມື້.** ເລືອກເສັ້ນທາງທີ່ປອດໄພ ຄຸ້ນເຄີຍ ແລະ ບໍ່ມີສິ່ງກີດຂວາງ. ຖ້າຜູ້ນັ້ນຍ່າງຄົນດຽວ ສາຍຂໍ້ມືທີ່ມີເບີໂທຂອງທ່ານເປັນຄວາມຄິດທີ່ດີ.
+2. **ລອງວິດີໂອອອກກຳລັງກາຍສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ.** ເຮັດຕາມນຳກັນ ນັ່ງ ຫຼື ຢືນກໍໄດ້.
+3. **ໃຫ້ແຕ່ລະຄັ້ງສັ້ນ.** ການ “ອອກກຳລັງກາຍນ້ອຍໆ” ຫຼາຍຄັ້ງອາດດີກວ່າຄັ້ງດຽວທີ່ນານ.
+4. **ເພີ່ມດົນຕີ.** ເພງທີ່ຄຸ້ນເຄີຍເຮັດໃຫ້ການເຄື່ອນໄຫວເປັນກິດຈະກຳ ບໍ່ແມ່ນໜ້າທີ່. ເຕັ້ນຖ້າຜູ້ນັ້ນມັກ.
+5. **ໃຫ້ນ້ຳ ແລະ ໃສ່ເກີບທີ່ສະບາຍ.** ໃຫ້ນ້ຳ ຫຼື ນ້ຳໝາກໄມ້ລະຫວ່າງ ແລະ ຫຼັງ ແລະ ເລືອກເສື້ອຜ້າທີ່ສະບາຍ ແລະ ເກີບທີ່ພໍດີແລະເໝາະກັບການອອກກຳລັງກາຍ.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+ຖ້າການເດີນເປັນເລື່ອງຍາກ[ຄູ່ມືການດູແລຜູ້ທີ່ເປັນອັລໄຊເມີຂອງ NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ແນະນຳທາງເລືອກແບບນັ່ງ. ລວມການອອກກຳລັງກາຍ ຫຼື ໂຢຄະໃນເກົ້າອີ້ ການໂຍນຖົງເມັດຖົ່ວ ການໂຍນລູກບານນຸ່ມ ຫຼື ລູກປິງປອງ ສາຍຢາງຍືດ ການຍົກເຄື່ອງໃຊ້ໃນເຮືອນທີ່ເບົາ ແລະ ເຄື່ອງຖີບແບບນັ່ງ. ງານເບົາໆ ເຊັ່ນ ການກວາດ ແລະ ປັດຝຸ່ນກໍນັບເຊັ່ນກັນ.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+ຈົ່ງເປັນຈິງກ່ຽວກັບສິ່ງທີ່ການເຄື່ອນໄຫວເຮັດໄດ້. ການປະຊຸມ Lancet ບໍ່ພົບຫຼັກຖານວ່າການອອກກຳລັງກາຍຫຼຸດການປ່ຽນແປງພຶດຕິກຳເຊັ່ນ ຄວາມກະວົນກະວາຍ. ໃຫ້ເຄື່ອນໄຫວນຳກັນເພາະມັນອາດຮູ້ສຶກດີ ບໍ່ແມ່ນເພື່ອແກ້ໄຂຕອນບ່າຍທີ່ຫຍຸ້ງຍາກ. ຖ້າຜູ້ນັ້ນເວົ້າວ່າບໍ່ ກໍບໍ່ເປັນຫຍັງ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ເມື່ອເຂົາເວົ້າວ່າບໍ່](/caregiving/when-they-say-no/) ມີວິທີອ່ອນໂຍນເພື່ອລອງໃໝ່ໃນພາຍຫຼັງ. ການຢຸດກ່ອນ ຫຼື ການນັ່ງນອກບ້ານນຳກັນເງຽບໆ ກໍເປັນຜົນທີ່ດີເຊັ່ນກັນ.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+ຫຼັງການເຄື່ອນໄຫວ ການຢຸດຫາຍໃຈເບົາໆເຊັ່ນ [Calm Breathing](/games/calm-breathing/) ຊ່ວຍໃຫ້ທ່ານທັງສອງສະຫງົບລົງ. ສຳລັບກິດຈະກຳນັ່ງທີ່ມີການຂຍັບແຂນເບົາໆ [Sort Together](/games/sort-together/) ແລະ [Picture Bingo](/games/picture-bingo/) ເໝາະກັບການນັ່ງໂຕະ.
 
-## Balance and fall safety
+## ການທົງຕົວ ແລະ ຄວາມປອດໄພຈາກການລົ້ມ
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+ການລົ້ມເປັນເລື່ອງທົ່ວໄປ ແລະ ຮ້າຍແຮງ. [CDC ລາຍງານ](https://www.cdc.gov/falls/data-research/facts-stats/index.html) ວ່າຜູ້ໃຫຍ່ສູງອາຍຸຫຼາຍກວ່າໜຶ່ງໃນສີ່ຄົນລົ້ມທຸກປີ ແຕ່ໜ້ອຍກວ່າເຄິ່ງໜຶ່ງບອກໝໍຂອງຕົນ. ການລົ້ມໜຶ່ງຄັ້ງເຮັດໃຫ້ໂອກາດລົ້ມອີກເພີ່ມເປັນສອງເທົ່າ. ປັດໃຈສ່ຽງທີ່ CDC ລະບຸລວມ:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- ຂາແລະສະໂພກອ່ອນແຮງ
+- ມີບັນຫາການເດີນ ແລະ ການທົງຕົວ
+- ຢາບາງຊະນິດ ລວມທັງຢານອນຫຼັບ ແລະ ຢາຕ້ານຊຶມເສົ້າບາງຊະນິດ
+- ບັນຫາການເບິ່ງເຫັນ
+- ເຈັບເທົ້າ ຫຼື ເກີບທີ່ບໍ່ເໝາະ
+- ອັນຕະລາຍໃນເຮືອນ ເຊັ່ນ ເຄື່ອງເຊັດຕ່າງໆ ພົມຫຼຸດ ແລະ ຂັ້ນບັນໄດທີ່ຊຳລຸດ
 
-To move more safely:
+ເພື່ອເຄື່ອນໄຫວຢ່າງປອດໄພຂຶ້ນ:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **ໃຊ້ເກົ້າອີ້ທີ່ໝັ້ນຄົງ** ບໍ່ມີລໍ້ ແລະ ຮັກສາໂຕະ ຫຼື ລາວຈັບໄວ້ໃກ້ມື ສຳລັບການອອກກຳລັງກາຍແບບຢືນ.
+- **ເຮັດໃຫ້ພື້ນທີ່ໂລ່ງ** ບໍ່ມີພົມ ສາຍໄຟ ແລະ ສິ່ງຂອງກີດຂວາງກ່ອນ.
+- **ລຸກຢ່າງຊ້າໆ** ແລະ ຢຸດຖ້າຜູ້ນັ້ນວິນຫົວ ຫຼື ບໍ່ໝັ້ນຄົງ.
+- **ໃສ່ເກີບທີ່ຊ່ວຍຮອງຮັບ** ບໍ່ແມ່ນຖົງເທົ້າ ຫຼື ແຕະທີ່ຫຼວມ.
+- **ຝຶກການທົງຕົວໃກ້ສິ່ງຮອງຮັບ.** ການລຸກຈາກເກົ້າອີ້ ແລະ ການເດີນເທົ້າຕໍ່ປາຍ ເປັນຕົວຢ່າງຂອງ CDC ສຳລັບກິດຈະກຳທົງຕົວ.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC ແນະນຳວ່າຜູ້ໃຫຍ່ສູງອາຍຸທີ່ລົ້ມແລະກະທົບຫົວ ຄວນພົບໝໍທັນທີ ໂດຍສະເພາະຖ້າກິນຢາຕ້ານການແຂງຕົວຂອງເລືອດ.
 
-## Talk with a doctor
+## ປຶກສາໝໍ
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+ກວດກັບໝໍກ່ອນເລີ່ມແບບແຜນອອກກຳລັງກາຍໃໝ່ ໂດຍສະເພາະຖ້າຜູ້ນັ້ນມີບັນຫາຫົວໃຈ ຫຼື ປອດ ເຈັບຂໍ້ ມີບັນຫາການທົງຕົວ ຫຼື ເປັນໂຣກສະໝອງເສື່ອມ. ໝໍ ຫຼື ນັກກາຍຍະບຳບັດສາມາດແນະນຳກິດຈະກຳທີ່ປອດໄພ ແລະ ກວດວ່າຢາມີຜົນຕໍ່ການທົງຕົວບໍ. ບອກໝໍກ່ຽວກັບທຸກການລົ້ມ ເຖິງແມ່ນບໍ່ໄດ້ບາດເຈັບ. ຖ້າມີສິ່ງໃດເຈັບ ຫຼື ຮູ້ສຶກຜິດປົກກະຕິລະຫວ່າງອອກກຳລັງກາຍ ໃຫ້ຢຸດ. ສຳລັບເຈັບໜ້າເອິກກະທັນຫັນ ຫາຍໃຈລຳບາກ ຫຼື ສັບສົນກະທັນຫັນ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນຂອງທ່ານ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+ໜ້ານີ້ເປັນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ເບິ່ງ[ຂໍ້ປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ. ສຳລັບພາບລວມທີ່ໃຫຍ່ກວ່າ ໃຫ້ອ່ານ[ສິ່ງທີ່ການຄົ້ນຄວ້າບອກກ່ຽວກັບປັດໃຈສ່ຽງໂຣກສະໝອງເສື່ອມ](/brain-health/risk-factors/) ແລະ[ໂຣກສະໝອງເສື່ອມປ້ອງກັນໄດ້ບໍ](/brain-health/can-dementia-be-prevented/).
