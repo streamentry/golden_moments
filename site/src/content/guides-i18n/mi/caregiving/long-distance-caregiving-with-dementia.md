@@ -10,7 +10,7 @@ summary: >-
   Ka taea te tautoko i te tangata mate wareware mai i tawhiti mā te pātai he aha
   tāna e hiahia ana, te mahi i ngā mahi kua whakaaetia, te whakawhiti kōrero ki ngā
   kaiāwhina ā-rohe, me te whakamahere toro. Pātai he kōrero ka tohaina, he
-  whakaaetanga e hiahiatia e ngā kaiwhakarato. Arotakehia te mahere ina rerekē ngā
+  whakaaetanga e hiahiatia ngā kaiwhakarato. Arotakehia te mahere ina rerekē ngā
   hiahia, ngā tautoko rānei.
 keyPoints:
   - "Pātai ki te tangata ko wai tāna e hiahia ana kia whakaurua, he aha te āwhina e pai ana ia ki te whiwhi."
@@ -46,7 +46,7 @@ health: false
 
 Ka uaua pea te mōhio he aha te āwhina e hiahiatia ana i te tawhiti, engari kāore te tawhiti e tango i ngā ara katoa o te whai wāhi. Ka taea e koe te āwhina ki ngā ratonga, te whakaoti i tētahi mahi kua whakaaetia e te tangata, te tautoko i te tangata e tiaki ana i a ia ia rā. Tīmatahia mā te pātai ki te tangata e mate wareware ana he aha tāna e hiahia ana, ko wai hoki tana e hiahia ana kia whakaurua.
 
-E kī te [aratohu tiaki tawhiti a te Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/long-distance-caregiving) ka taea e koe te whakarite toro, te rapu ratonga ā-rohe, te whakarite me te tāngata tiaki ā-rohe, te tuku i tētahi whakatā mōna. E kī anō te [Family Caregiver Alliance](https://www.caregiver.org/faq/how-can-i-help-with-caregiving-from-far-away/) me uaua pea te rapu ratonga, te whakamahere toro i tawhiti. He whakaaro whānui tēnei aratohu; he rerekē ngā ratonga, ngā ture ā-rohe.
+E kī te [aratohu tiaki tawhiti a te Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/long-distance-caregiving) ka taea e koe te whakarite toro, te rapu ratonga ā-rohe, te whakarite mahi me ngā kaiāwhina tata, me te tuku whakatā ki te kaitiaki o ia rā. E kī anō te [Family Caregiver Alliance](https://www.caregiver.org/faq/how-can-i-help-with-caregiving-from-far-away/) me uaua pea te rapu ratonga, te whakamahere toro i tawhiti. He whakaaro whānui tēnei aratohu; he rerekē ngā ratonga, ngā ture ā-rohe.
 
 ## He aha tāku e taea ai i tawhiti?
 

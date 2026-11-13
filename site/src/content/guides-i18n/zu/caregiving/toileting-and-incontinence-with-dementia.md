@@ -48,7 +48,7 @@ Umhlahlandlela we-[Alzheimer's Association ngokungazibambi](https://www.alz.org/
 
 Cha. Inkinga entsha noma ekhulayo ingaba nezimbangela eziningi. I-dementia ingenza kube nzima ukuqaphela isidingo sokuya, ukuthola indlu yangasese noma ukulawula izingubo. Ezinye izimbangela zingaba ukutheleleka, ukuqunjelwa, imiphumela yemithi noma ubunzima bokunyakaza. Umnakekeli akakwazi ukuthola imbangela ngesigameko esisodwa.
 
-Xhumana nodokotela noma omunye ochwepheshe wezempilo uma ukulawula komchamo nokuhamba kwamathumbu kushintsha. Uma kusiza, qaphela ukuthi ushintsho luqale nini, ubone ini, nokuthi umuntu ukhulume yini ngobuhlungu noma ukungakhululeki. Lokhu kungasiza ochwepheshe ukubuza imibuzo egxile. Ungaphinde noma ushintshe imithi ngokusekelwe kuhlahla oluvamile.
+Xhumana nodokotela noma omunye ochwepheshe wezempilo uma ukulawula komchamo nokuhamba kwamathumbu kushintsha. Uma kusiza, qaphela ukuthi ushintsho luqale nini, ubone ini, nokuthi umuntu ukhulume yini ngobuhlungu noma ukungakhululeki. Lokhu kungasiza ochwepheshe ukubuza imibuzo egxile. Ungamisi noma ushintshe imithi ngokusekelwe esiqondisweni esijwayelekile.
 
 Uma umuntu edideka ngokuzumayo, xhumana nosizo lwezokwelapha lwendawo ngokushesha. [Iseluleko se-NHS ngokudideka okuzumayo](https://www.nhs.uk/symptoms/confusion/) sichaza ukuthi ukudideka okuzumayo kudinga ukunakwa ngokushesha. Ushintsho oluncane ezindleleni zokuya endlini yangasese luyahluka, kodwa lusafanele ingxoxo yochwepheshe.
 
@@ -90,7 +90,7 @@ Funa usizo oluphuthumayo lwezokwelapha uma umuntu eba nokudideka okuzumayo. Ezin
 
 ## Ngabelana kanjani ngomsebenzi ngendlela ehlonipha?
 
-Uma abantu abaningi besiza, buza umuntu ukuthi ufuna kwabelwane ngani. Inothi elingasese elinamagama akhe ngokuthandayo, indlela ajwayelekile nohlobo losizo lingagwema ukuchaza into efanayo njalo. Yabelana kuphela ngalokho umsizi olandelayo akudingayo ukwazi, bese ubuyekeza inothi uma izifiso zomuntu zishintsha.
+Uma abantu abaningi besiza, buza umuntu ukuthi ufuna kwabelwane ngani. Inothi eliyimfihlo elinamagama akhe ngokuthandayo, indlela ajwayelekile nohlobo losizo lingagwema ukuchaza into efanayo njalo. Yabelana kuphela ngalokho umsizi olandelayo akudingayo ukwazi, bese ubuyekeza inothi uma izifiso zomuntu zishintsha.
 
 Ukusekela indlu yangasese kungakhathaza nabanakekeli. Cela umuntu othembekile noma insiza yokunakekela ukuthi ithathe ithuba uma umuntu evumile. [Umhlahlandlela wokuzinakekela womnakekeli](/caregiving/caregiver-self-care/) ufaka izindlela zokufuna usizo nokuphumula. Ukunakekelwa okuhloniphayo kusho ukuvikela kokubili ubumfihlo bomuntu nekhono lomnakekeli lokuqhubeka.
 

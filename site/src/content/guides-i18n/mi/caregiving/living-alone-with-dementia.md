@@ -18,13 +18,13 @@ keyPoints:
   - "Tāpirihia te āwhina ā-āhua, ā, arotakehia tahi ina rerekē ngā take, ngā āhuatanga rānei."
 faq:
   - q: "Ka taea e tētahi tangata mate wareware te noho mokemoke?"
-    a: "Ka taea e etahi te noho tonu mokemoke, otirā i te wā tuatahi, me te tautoko pono mai i ngā tāngata e whakawhirinaki ana ki a rātou. Ka whakawhirinaki te mea ka mahi tika ki te tangata, ki ōna mahi o ia rā, ki te tautoko e wātea ana. Ehara te whakatauranga anake i te whakautu i te pātai."
+    a: "Ka taea e ētahi te noho tonu mokemoke, otirā i te wā tuatahi, me te tautoko pono mai i ngā tāngata e whakawhirinaki ana ki a rātou. Ka whakawhirinaki te mea ka mahi tika ki te tangata, ki ōna mahi o ia rā, ki te tautoko e wātea ana. Ehara te whakatauranga anake i te whakautu i te pātai."
   - q: "He aha ngā mea ka taea e te whānau te mahi, kāore e tango i te mana?"
     a: "Pātai ko ēhea ngā mahi e hiahia ana te tangata kia āwhinatia, ā, whakaaetia he tautoko motuhake, auau. Akene ka tohaina e koe tētahi kai, ka tirohia tahi he maramataka, ka whakarite awhina mō ngā hokonga, ā, waiho ngā wāhanga e taea ana e ia, e hiahia ana ia, kia mahi ia ki a ia anō."
   - q: "Me pēhea e whai hua ai ngā tūhono?"
     a: "Whakaaetia he wā, he ara tūhono e whakaae ana te tangata. Whakatauhia tahi he aha me mahi mēnā he waea, he toro kāore i tutuki, ko wai hoki ka whakapā atu. Pupuria te mahere ngāwari, he wātea hoki te kite."
   - q: "Āhea me arotake te mahere tautoko?"
-    a: "Arotakehia ina uaua tētahi mahi mōhio, ina rerekē tētahi ritenga, ina tono te tangata ki te tautoko nui ake. Korerohia ngā take motuhake tahi, ā, pātai ki tētahi tohunga hauora, hapori rānei mō te aromatawai mēnā e hiahiatia ana."
+    a: "Arotakehia ina uaua tētahi mahi mōhio, ina rerekē tētahi ritenga, ina tono te tangata ki te tautoko nui ake. Kōrerohia ngā take motuhake tahi, ā, pātai ki tētahi tohunga hauora, hapori rānei mō te aromatawai mēnā e hiahiatia ana."
 sources:
   - title: "If You Live Alone"
     publisher: "Alzheimer's Association"
@@ -77,4 +77,4 @@ Whakarongo ki te take i mua i te hoatu i tētahi mahere anō. Akene e māharahar
 
 Kaua e huri ngā tūhono hei whakamātautau. Ka taea he kōrerorero te waea, kāore he rārangi pātai mō te kai, te rongoā, te maumahara o te tūtakitanga. Mēnā he tūraru tonu i te kāinga, whakapā ki ngā ratonga ohotata o tō rohe. Mō ngā take haere tonu, pupuria te tangata e uru ana, ā, rapua he tohutohu mai i tōna rōpū tiaki, i te ratonga tautoko ā-rohe rānei.
 
-Ka taea te noho mokemoke me te mahi tonu i te ahua o ngā ritenga, ngā whanaungatanga, ngā āwhina ā-ringa e rerekē ana. Arotakehia te mahere tahi me te tangata, pupuria ngā mea e whai hua ana, ā, whakarerekētia ngā wāhanga kāore e tika tonu ana.
+Ka taea te noho mokemoke me te mahi tonu i te āhua o ngā ritenga, ngā whanaungatanga, ngā āwhina ā-ringa e rerekē ana. Arotakehia te mahere tahi me te tangata, pupuria ngā mea e whai hua ana, ā, whakarerekētia ngā wāhanga kāore e tika tonu ana.

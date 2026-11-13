@@ -37,7 +37,7 @@ related: [caregiving/communication-tips, caregiving/caregiver-self-care, activit
 health: false
 ---
 
-Lapho i-dementia iguqula umuntu omthandayo ingane, ingase iqaphele ngaphambi kokuthi umuntu omdala aqale ingxoxo. Ingane ingase izizwe ikhathazekile, icasulekile, inolaka, inemizwa yokuba necala noma ingazi ukuthi kufanele yenzenjani. Yonke ingane nomndeni kuhlukile. Ulwazi olucacile nokusekelwa okuzinzile kungasiza ingane iqonde lokho okushintshayo ngaphandle kokuyicela ukuthi ithwale izibopho zabadala.
+Lapho i-dementia iguqula umuntu omthandayo ingane, ingase iqaphele ngaphambi kokuthi umuntu omdala aqale ingxoxo. Ingane ingase izizwe ikhathazekile, icasulekile, inolaka, izibona inecala noma ingazi ukuthi kufanele yenzenjani. Yonke ingane nomndeni kuhlukile. Ulwazi olucacile nokusekelwa okuzinzile kungasiza ingane iqonde lokho okushintshayo ngaphandle kokuyicela ukuthi ithwale izibopho zabadala.
 
 Umhlahlandlela we-[Alzheimer's Association wokukhuluma nezingane](https://www.alz.org/help-support/caregiving/kids/talking-kids-about-dementia) uncoma ukuphendula imibuzo ngokuqotho ngamagama ezingane azi kahle. [Iseluleko somndeni se-Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) siphinde sigcizelele izingxoxo eziqotho, ukuqinisekisa nokuvikela isikhala somntwana sokuba yingane. Sebenzisa lezi zimpendulo njengendawo yokuqala, hhayi umbhalo oqondile wawo wonke umndeni.
 
@@ -63,8 +63,8 @@ Phendula ukukhathazeka okusengaphansi kombuzo, bese unikeza impendulo eqotho nec
 
 - **“Ngingayithola yini?”** Thi cha: i-dementia ayithelwa. Ingane ingaqhubeka ichitha isikhathi nomuntu.
 - **“Ngenze yenzeke yini lokhu?”** Yiqinisekise ukuthi isifo asibangelwanga yilokho ebeyisho noma ebeyenzile.
-- **“Kungani uMkhulu emabiza ngegama elehlukile?”** Chaza ukuthi i-dementia ingashintsha indlela umuntu akhumbula ngayo amagama. Akuyona impazamo yengane, futhi angase angakwenzi ukuze acasule.
-- **“Nami ngizoba nesifo?”** Ungaqagela ngesikhathi esizayo somuntu owodwa. Ingozi yomndeni incike ohlobweni nasemlandweni. Uma kukhona ukukhathazeka okuthile ngohlobo lwefa, buza udokotela womuntu ukuthi ingabe ingoti yezofuzo ingasiza yini.
+- **“Kungani uMkhulu emabiza ngegama elehlukile?”** Chaza ukuthi i-dementia ingashintsha indlela umuntu akhumbula ngayo amagama. Akuyona impazamo yengane, futhi angase angakwenzi ngenhloso yokubacasula.
+- **“Nami ngizoba nesifo?”** Ungaqagela ngesikhathi esizayo somuntu owodwa. Ingozi yomndeni incike ohlobweni nasemlandweni. Uma kukhona ukukhathazeka okuthile ngohlobo lwefa, buza udokotela womuntu ukuthi ingabe ochwepheshe bezofuzo bangasiza yini.
 - **“Uzophila kangcono yini?” noma “Uzofa yini?”** Ungathembisi umphumela noma isikhathi. Tshela ingane ukuthi ithimba lokunakekela lithini, uma umndeni ufuna ukwabelana ngalokho, bese uchaza ukuthi nizokhuluma nini futhi.
 - **“Usangithanda?”** Ungamenzi ingane ibe nesibopho sokufakazela impendulo. Ungasho ukuthi ubudlelwano buyabaluleka bese ufuna indlela elula yokuchitha isikhathi ndawonye manje.
 
@@ -74,7 +74,7 @@ Kulungile ukuma uma umbuzo usukhulu kakhulu. Tshela ingane ukuthi uzobuyela kulo
 
 Nikeza ukuxhumana ngokukhetha. Uma ingane nomuntu befuna, bangalalela iculo elijwayelekile, bheke izithombe, bazobe, bafunde noma banikelane ngomsebenzi omncane wasekhaya. Umhlahlandlela wethu [wokukhumbula izinto zangaphambili](/activities/reminiscence/) kanye [nomhlahlandlela womculo](/activities/music/) unemibono. Landela impendulo yomuntu nengane; kulungile ukuyeka, ukushintsha umsebenzi noma ukuvakasha esikhathini esinye.
 
-Gcina isibopho sokunakekela nokuphepha ngabantu abadala. Ingane ingakhetha ukubeka isinambiso noma ukuletha incwadi, kodwa akufanele ibe nesibopho sokuqapha, imithi, ukunakekelwa komzimba, izikhathi zokuvakashela noma izimo eziphuthumayo. Ungaphakamisi ukuthi ukuvakasha, ukusiza noma ukuhlala eduze kuyisibopho sengane. Umhlahlandlela we-[Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) uyaxwayisa imindeni ukuthi ihloniphe imingcele yentsha nesidingo sayo sokuhlala njengezingane.
+Gcina isibopho sokunakekela nokuphepha ngabantu abadala. Ingane ingakhetha ukulungisa ukudla okulula noma ukuletha incwadi, kodwa akufanele ibe nesibopho sokuqapha, imithi, ukunakekelwa komzimba, izikhathi zokuvakashela noma izimo eziphuthumayo. Ungasho ukuthi ukuvakasha, ukusiza noma ukuhlala eduze kuyisibopho sengane. Umhlahlandlela we-[Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) uyaxwayisa imindeni ukuthi ihloniphe imingcele yentsha nesidingo sayo sokuhlala njengezingane.
 
 Vikela isikhathi esingesengane. Gcina isikole, abangane, izithakazelo nemikhuba yomndeni izinzile ngangokunokwenzeka. Uma ukunakekela kushintsha lezo zinhlelo, chaza ngani bese ufuna omunye umuntu omdala ongasiza ukugcina umsebenzi noma uhambo lengane. [Umhlahlandlela wokuzinakekela womnakekeli](/caregiving/caregiver-self-care/) uchaza izindlela zokucela abanye abantu abadala ukuthi babelane ngosizo.
 
