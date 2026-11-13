@@ -52,7 +52,7 @@ Una activitat artistica adulta utiliza de materials vertadièrs, de subjèctes a
 
 | Sembla enfantin | Sembla adult |
 | --- | --- |
-| Paillon, autocolants de mosca, uèlhs d'estripa | Papièr aquarèla, tissut, flors seccas |
+| Paillon, autocolants, uèlhs d'estripa | Papièr aquarèla, tissut, flors seccas |
 | Fuèlhas de colorejar de dessenhs animats | Paginas de colorejar de jardins, cortinas, autos o paisatges |
 | « Bon trabalh » per cada marca | Conversacion vertadièra : « Aquel blau es polit al costat del verd » |
 | Un trabalh sens utilitat | Una carta per una amiga, un ornament, un present |
@@ -84,7 +84,7 @@ Cada idèa inclutz la manièra de la simplificar se se fa malaisida.
 
 ## Cossí preparar una sessions d'art?
 
-1. **Preparatz en primièr.** Talhatz, retalhatz e disposatz tot abans d'convidar la persona. Esperar en cercant las tisseras pòt far perdre lo moment.
+1. **Preparatz en primièr.** Talhatz, retalhatz e disposatz tot abans de convidar la persona. Esperar en cercant las tisseras pòt far perdre lo moment.
 2. **Restatz pichon.** Doas o tres colors, un pinceu, una fuèlha de papièr. Tròp de causidas pòdon sobrecargar.
 3. **Protegissètz la taula.** Una tela plastica o un vièlh drap fan que lo desòrdre siá pas una inquietud.
 4. **Asseitz-vos costat a costat.** Trabalhatz vòstra pròpria pèça al costat de la sieuna. Aquò sembla partejat, pas supervisat.
@@ -98,14 +98,14 @@ Cada idèa inclutz la manièra de la simplificar se se fa malaisida.
 | --- | --- | --- |
 | Precòç | Cors, colorejar detalhat, albums de sovenirs, fabricacion de cartas, pintura a partir d'una foto | Ofrir una causida de projèctes; gardar l'aspècte social |
 | Mejan | Colatge amb imatges ja talhadas, lavatges d'aquarèla, floricultura, colorejar amb de superficies grandas | Un pas a la fòi; vosautres gerissètz lo talhatge e l'encolatge |
-| Avançat | Traches largs de pinceu, aperçar l'argila, tocar de tissut, agachar que pintatz | Concentrar-se sus los sens; guidar la man doçament se es benvenguda |
+| Avançat | Traches largs de pinceu, apertar l'argila, tocar de tissut, agachar que pintatz | Concentrar-se sus los sens; guidar la man doçament se es benvenguda |
 
 Lo NHS suggerís que a l'estadi avançat, las activitats son sovent simplificadas e se concentran sus los sens. Agachar qualqu'un pintar, e parlar de las colors, es una manièra reala de participar. Per d'idèas mai per estadi, vegetz [las activitats per cada estadi](/activities/ideas/).
 
 ## Securitat amb los materials d'art
 
 - Causissètz de pintura, de marcadors e de bastonets de colla non toxics.
-- Gardatz los tisseras, los cotèls d'art e los pistolets de colla caude fòra de portada. Talhatz vosautres a l'avança.
+- Gardatz las tisseras, los cotèls d'art e los pistolets de colla caude fòra de portada. Talhatz vosautres a l'avança.
 - Agachatz se qualqu'un met l'argila, la pintura o de pichons objèctes dins la bocca.
 - Utilizatz de recipients estables e pesants per l'aiga e los pòts.
 
@@ -119,4 +119,4 @@ Penjar una pintura al frigo o encadrar un colatge pòt èsser una manièra discr
 
 ## Jonher l'art e nòstres jòcs
 
-Quand preparar las pintura es tròp per un jorn, [Colorejar](/games/coloring/) fonciona sus una tablèta sens cap de desòrdre. [Trencaclaus d'imatge](/games/picture-puzzle/) manten l'imatge sencièra visibla coma guida mentre que cambiatz las pèças. [Cartas de conversacion](/games/conversation-cards/) ofrís de questions dubèrtas que pòdon menar d'una imatge a una istòria. Totes an pas de cronòmetre ni de punts. Podètz tanben imprimir de paginas de nòstra colleccion d'[activitats imprimibles](/activities/printable/).
+Quand preparar las pinturas es tròp per un jorn, [Colorejar](/games/coloring/) fonciona sus una tablèta sens cap de desòrdre. [Trencaclaus d'imatge](/games/picture-puzzle/) manten l'imatge sencièra visibla coma guida mentre que cambiatz las pèças. [Cartas de conversacion](/games/conversation-cards/) ofrís de questions dubèrtas que pòdon menar d'una imatge a una istòria. Totes an pas de cronòmetre ni de punts. Podètz tanben imprimir de paginas de nòstra colleccion d'[activitats imprimibles](/activities/printable/).

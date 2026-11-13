@@ -23,7 +23,7 @@ faq:
   - q: "Me pēhea e wehea ai ngā mahi tiaki?"
     a: "Tuhia ngā mahi me te wā, te kaha rānei e kaiponu ai ia mahi. Pātai ko wai e pai ana, e kaha ana ki te mahi i ia mahi; he huhua ngā āwhina ka taea e ngā mema o te whānau, tae atu ki ngā haerenga ki ngā tūtakitanga, ngā waea, ngā haerenga waka, ngā toronga ā-wā rānei. Arotakehia te mahere ina rerekē ngā āhuatanga."
   - q: "Me pēhea mēnā kāore anō tātou e whakaae?"
-    a: "Mēnā ka haere tonu te rerekētanga, whakaarohia te pātai ki tētahi kaimātai hauora pono, kaimahi hapori, kaitohutohu, kaiwhakarite, minita whakapono rānei hei āwhina i te whānau kōrero. Mō ngā pātai ture mō te tangata e āhei ana ki te whakatau i tētahi take, tonoa tētahi tohunga pono o tō rohe."
+    a: "Mēnā ka haere tonu te rerekētanga, whakaarohia te pātai ki tētahi kaimahi hauora pono, kaimahi hapori, kaitohutohu, kaiwhakarite, minita whakapono rānei hei āwhina i te whānau kōrero. Mō ngā pātai ture mō te tangata e āhei ana ki te whakatau i tētahi take, tonoa tētahi tohunga pono o tō rohe."
 sources:
   - title: "Resolving Family Conflicts"
     publisher: "Alzheimer's Association"
@@ -56,12 +56,12 @@ Hoatu ki ia tangata te wā ki te whakamārama i tana manukanuka. Whakarongo kāo
 
 ## He aha ngā mea hei kōrero i te hui?
 
-Pupuri te kōrerorero ki ngā mahi tino mārama. He hāmene poto ka āwhina i te whānau kia puta ki tētahi mahi tōtika e whai ake nei:
+Pupuria te kōrerorero ki ngā mahi tino mārama. He hāmene poto ka āwhina i te whānau kia puta ki tētahi mahi tōtika e whai ake nei:
 
 | Kaupapa | Pātai hei kōrero |
 | --- | --- |
 | Ngā hiahia o te tangata | He aha tāna e hiahia ana kia haere tonu ai? Ko wai ana e hiahia ana kia whakaurua? |
-| Ko te āhuatanga o inānei | He aha tā tētahi i kite ai, a āhea? He aha ngā mea e hiahia ana ki te whakaaro o te kaimātai hauora? |
+| Ko te āhuatanga o inānei | He aha tā tētahi i kite ai, a āhea? He aha ngā mea e hiahia ana ki te whakaaro o te kaimahi hauora? |
 | Ngā mahi me ngā herenga | He aha te āwhina e hiahia ana? Ko wai te wā me te pūkenga hei mahi i ia mahi? |
 | Ngā mahi e whai ake nei | Ko wai ka mahi i tētahi mea, āhea, ā, āhea ai te whānau e tūtaki anō ai? |
 
@@ -81,7 +81,7 @@ Hokia ki ngā mea kua mōhiotia, ki ngā hiahia o te tangata, ki te pātai e noh
 
 Mēnā ka tautohetohe ngā whanaunga mō te nuku, kia kaupapa te tīmata mā te kohi kōrero, kaua mā te pōti ā-āe, ā-kāo. Pātai he aha te tautoko e ngaro ana i te kāinga, he aha te whiringa e pai ana ki te tangata, ā, ko ēhea ngā whiringa e hiahia ana te whānau ki te ako mō ērā. Ka taea te toro ki tētahi whare manaaki, ki tētahi kaiwhakarato i te kāinga hei āwhina i te kōrerorero, engari kāore e herea ai te tangata ki te nuku. Ko te [aratohu mō te manaaki noho-whare](/caregiving/choosing-residential-dementia-care/) he pātai hei whakatau i ngā whiringa.
 
-Mēnā ka roa tonu te tautohetohe, tonoa tētahi tangata pono hei āwhina. Ahakoa he aha te take, ko te kaimātai hauora o te tangata, tētahi kaimahi hapori, kaitohutohu, kaiwhakarite, ā, minita whakapono rānei pea. He wāhi hoki te rōpū tautoko mō ngā whanaunga ki te kōrero me ētahi e pēhi ana i ngā rerekētanga pēnei. He nui te hiahia ki te tohutohu ā-tohunga mō ngā take hauora, ture, pūtea rānei.
+Mēnā ka roa tonu te tautohetohe, tonoa tētahi tangata pono hei āwhina. Ahakoa he aha te take, ko te kaimahi hauora o te tangata, tētahi kaimahi hapori, kaitohutohu, kaiwhakarite, ā, minita whakapono rānei pea. He wāhi hoki te rōpū tautoko mō ngā whanaunga ki te kōrero me ētahi e pēhi ana i ngā rerekētanga pēnei. He nui te hiahia ki te tohutohu ā-tohunga mō ngā take hauora, ture, pūtea rānei.
 
 Mēnā ka pā te tautohetohe whānau ki te haumarutanga, ki te tiaki rānei o te tangata, whakapā atu ki tētahi ratonga pono o tō rohe hei āwhina. Kaua e waiho te tangata hei waenganui i tētahi tautohetohe. Mēnā he mōrearea tonu, whakamahia ngā ratonga ohotata o tō rohe.
 

@@ -18,7 +18,7 @@ faq:
   - q: "Qualas activitats convenon a una persona amb Alzheimer?"
     a: "Las activitats familièras un pauc simplificadas : plegar la lençaria, mestrar la taula, cosinar ensemble, la musica e la cançon, agachar de fotos, marchar, jardinar e passar de temps amb un animal. Los jòcs d'imatges simples, los trencaclaus facils e las cartas de conversacion convenon tanben a mantuns. Causissètz çò que la persona a totjorn aimat e fasètz-lo amb ela."
   - q: "Los jòcs son bons per las personas amb Alzheimer?"
-    a: "Los jòcs pòdon èsser una manièra agradabla de passar de temps ensemble se la persona los aima. Cap de jòc a pas demostrat que tracta, alenteish o arrèsta l'Alzheimer; causissètz-los per lo plaser : imatges grandas, pauca opcions e pas de cronòmetre, pas de punts ni de sons quand se fa una error."
+    a: "Los jòcs pòdon èsser una manièra agradabla de passar de temps ensemble se la persona los aima. Cap de jòc a pas demostrat que tracte, alentís o arrèsta l'Alzheimer; causissètz-los per lo plaser : imatges grandas, pauca opcions e pas de cronòmetre, pas de punts ni de sons quand se fa un error."
   - q: "I a una diferéncia entre las activitats per la demència e las activitats per l'Alzheimer?"
     a: "Generalament non. La malautiá d'Alzheimer es la causa la mai correnta de demència, e las memes idèas d'activitats s'aplican. Çò que ajuda amb l'Alzheimer es de saber que los sovenirs recents s'esvanisson en primièr, donc las activitats fondadas sus las competéncias, las cançons e las rotinas vièlhas se debanan sovent mai aisidament."
   - q: "Qué pòt encara aprecièr una persona amb Alzheimer a un estadi avançat?"
@@ -61,22 +61,22 @@ Pas gaire. La demència es lo tèrme generic, e la malautiá d'Alzheimer es la c
 
 Las activitats que se fondan sus de coneissenças vièlhas e practicadas long temps se debanan generalament mai aisidament qu'aquelas que demandan d'aprene quicòm de nòu e de tenir a l'esperit.
 
-- **Competéncias practicadas long temps.** L'Alzheimer's Association nòta que una persona pòt encara jogar de simplas cançons aprenguts al piano fa de decennis. Lo tricòt, lo poncejat de la fusta, mesclar las cartas, petrir la pasta o plegar la lençaria son del meteis tipe.
+- **Competéncias practicadas long temps.** L'Alzheimer's Association nòta que una persona pòt encara jogar de simplas cançons aprengudas al piano fa de decennis. Lo tricòt, lo poncejat de la fusta, mesclar las cartas, petrir la pasta o plegar la lençaria son del meteis tipe.
 - **Cançons vièlhas e musica familièra.** Mantuns coneisson encara cada mot de las cançons de lor adolescéncia e de lor vint ans, de las imnes e de las cançons de lor maridatge. Vegetz las [activitats musicalas](/activities/music/).
-- **Tascas quotidianas amb un sens.** Lo [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) enumèra la lavatge de la vaissèla, mestrar la taula, triar las chaussetas e plegar la lençaria entre las activitats que lor pòdon plaire. Se sentir utiles compta.
-- **Reconéisser mai que se remembrar.** Designar l'imatge que correspond es mai facil que la nomenar de memòria. Es per aquò que los jòcs d'imatges amb tot a la vista fonciónan mai melhor que los questionaris.
+- **Tascas quotidianas amb un sens.** Lo [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) enumèra lo lavatge de la vaissèla, mestrar la taula, triar las chaussetas e plegar la lençaria entre las activitats que lor pòdon plaire. Se sentir utiles compta.
+- **Reconéisser mai que se remembrar.** Designar l'imatge que correspond es mai facil que la nomenar de memòria. Es per aquò que los jòcs d'imatges amb tot a la vista fonciónan melhor que los questionaris.
 - **Los sens.** La textura, l'odor, la calor, lo gost e lo son demòran pleins de sens luènh après que los mots se fan malaisits. Vegetz las [activitats sensorialas](/activities/sensory/).
 
 Çò que va mens ben : tot çò qu'a un cronòmetre, las règlas novèlas a aprene, las longas sequéncias de pas a se remembrar, o las questions que testan la memòria, coma « Vos remembratz qui es aquò? ». Aquestas causas plaçan la part difícila de l'Alzheimer al centre.
 
 ## Activitats per l'Alzheimer a l'estadi precòç
 
-A l'estadi precòç, l'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) dis que la persona pòt encara conduire, trabalhar e participar a las activitats socialas, mentre que remarca de petits oblits coma la perda de mots familièrs o de l'endreit de las causas. La mai bona manièra es l'associacion : demandatz çò que vòl segur far e l'ajuda que vòl.
+A l'estadi precòç, l'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) dis que la persona pòt encara conduire, trabalhar e participar a las activitats socialas, mentre que remarca de pichòts oblits coma la perda de mots familièrs o de l'endreit de las causas. La mai bona manièra es l'associacion : demandatz çò que vòl segur far e l'ajuda que vòl.
 
 1. **Mantenir las activitats existentas.** Golf, bridge, quilting, chòr e grops de glèisa, amb de pichòtas adaptacions coma de grops mai pichots e de moments mai calmes.
 2. **Jogar de jòcs de cartas e de taulièr familièrs.** L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) enumèra los jòcs de question, las sopas de letras, los jòcs de cartas e de taulièr per l'estadi precòç. Jogatz en equipa se comptar los punts los irrita, o lèvatz-los del tot.
 3. **Cosinar ensemble.** Daissatz-li menar una recèpta qu'a aprés de cor mentre que vos vos ocupatz de legir las etapas.
-4. **Començar un projècte de vida.** Fotos, recèptas e istòrias dins un album qu'elu dirigís. Vegetz las [activitats de remembrança](/activities/reminiscence/).
+4. **Començar un projècte de vida.** Fotos, recèptas e istòrias dins un album qu'el dirigís. Vegetz las [activitats de remembrança](/activities/reminiscence/).
 5. **Anar de sortidas.** Un restaurant preferit a una ora tranquila, un musèu per una visita breva, una promenada al parc.
 6. **Ensajar de trencaclaus que tria.** Mots creuats de letra granda, sopas de letras e trencaclaus. Vegetz los [trencaclaus per la demència](/activities/puzzles/).
 
@@ -105,7 +105,7 @@ A l'estadi avançat, l'Alzheimer's Association dis que las personas pèrdon la c
 3. **Ofrir de causas tendras de tenir :** una cauda manta, una polaina, una pèira lisa.
 4. **Legir a votz auta** de salms, de poèmas o una istòria familièra. Lo ritme importa mai que lo sens.
 5. **Sejornar a l'exterior** a l'ombra, o près d'una finèstra amb d'aucèls a agachar.
-6. **Agachar una sola imatge grana.** Un tornasòl o un chin que emplena l'ecran d'una tablèta, amb vosautres que dise çò que vesètz.
+6. **Agachar una sola imatge grana.** Un tornasòl o un chin que emplena l'ecran d'una tablèta, amb vosautres que dissètz çò que vesètz.
 
 Mai d'idèas : [activitats per l'estadi avançat](/activities/late-stage/).
 
@@ -115,7 +115,7 @@ Causissètz de jòcs ont pas res pòt èsser rata. Cada jòc d'aqueste site es g
 
 | Jòc | Qué fasètz | Sovent adaptat a |
 | --- | --- | --- |
-| [Parelhas d'imatges](/games/picture-pairs/) | Aparelhar de grandas imatges; poon demorar visiblas | Estadi precòç e mejan |
+| [Parelhas d'imatges](/games/picture-pairs/) | Aparelhar de grandas imatges; pòdon demorar visiblas | Estadi precòç e mejan |
 | [Lo meteis](/games/find-the-same/) | Tocar l'imatge que correspond a la d'amont | Estadi mejan e avançat, amb ajuda |
 | [Acabar lo dicton](/games/finish-the-saying/) | Triar la darrièra paraula d'un dicton familièr, o la mostrar | Estadi precòç e mejan |
 | [Trencaclaus d'imatge](/games/picture-puzzle/) | Tornar meter 4 o 9 pèças a lor plaça, amb l'imatge mostrada | Estadi precòç e mejan |
