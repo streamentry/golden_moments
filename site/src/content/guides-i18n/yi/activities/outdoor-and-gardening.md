@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "גאָרטנבױ און דרױסנדיקע אַקטיװיטעטן פֿאַר מענטשן מיט דעמענץ"
+seoTitle: "גאָרטנבױ און דרױסנדיקע אַקטיװיטעטן פֿאַר דעמענץ"
+description: "גאָרטנבױ און דרױסנדיקע אידייען פֿאַר מענטשן װאָס לעבן מיט דעמענץ, מיט הױכע בעדן, קאָנטײנערס און זיכערקײט-עצות פֿאַר היץ, זון און װאַנדערן."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  גאָרטנבױ און צײַט אין דרױסן קענען זײַן אַ רויִק, באַקאַנט טעטיקײט פֿאַר אַ מענטש
+  װאָס לעבט מיט דעמענץ. פּרוּװט באַװאַסערן, פֿלאַנצן קרײַטער אין טעפּ, אָפּבריכן
+  פֿאַרװעלקטע בלומען אָדער אַ קורצע שפּאַציר אין אַ איינגעצוימטן גאָרטן. ניצט הויכע
+  בעדן אָדער אַ טיש, כּדי קײנער זאָל נישט דאַרפֿן קניען, מײַדט שאַרפֿע געצײַג און
+  גיפֿטיקע פֿלאַנצן, גײט אַרױס אין דער קילערער צײַט פֿון טאָג, און בלײַבט שטענדיק
+  מיטן מענטש.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "פּשוטע גאָרטן-אַרבעטן װי באַװאַסערן, זוימען אין טעפּ, שמעקן קרײַטער און פּליקן בלומען קענען געטאָן װערן שטייענדיק אָדער זיצנדיק."
+  - "הױכע בעדן, קאָנטײנערס און אַ טיש מיט אַ באַדעק ברענגען דעם גאָרטן צו דער טאַליע-הײך און פֿאַרמינדערן די סכנה פֿון פֿאַלן."
+  - "מײַדט שאַרפֿע געצײַג, דערנדיקע און רײַצנדיקע פֿלאַנצן, און אַלץ װאָס איז גיפֿטיק. באַמערקט אַז ערד זאָל נישט פֿאַרטוימט װערן פֿאַר עסן."
+  - "היץ קען זײַן געפֿערלעך פֿאַר עלטערע מענטשן. גײט אַרױס פֿרי אָדער שפּעט, נעמט װאַסער און שאָטן, און קומט אַרײַן בײַם ערשטן צײכן פֿון אומבאַקװעמקייט."
+  - "פֿיל מענטשן װאָס לעבן מיט דעמענץ װאַנדערן עפּעס אַ מאָל. בלײַבט בײַם מענטש אין דרױסן און האַלט אַ פֿריש פֿאָטאָ און אײַדענטיפֿיקאַציע בײַ דער האַנט."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "װאָס פֿאַר גאָרטנבױ-אַקטיװיטעטן קען אַ מענטש מיט דעמענץ טאָן?"
+    a: "באַװאַסערן פֿלאַנצן, זוימען זײען אין קלײנע טעפּ, שמעקן און טאַפּן קרײַטער, אָפּבריכן פֿאַרװעלקטע בלומען, פֿליקן גרינצײַג, שטעלן שניטבלומען מיט גרין און פֿעגן אַ װעג זענען אַלע גוטע ברירות. אין הױז קען אַ קרײַטער-טעפּ אױף דער פֿענצטער-בענק אָדער אַ טעפּל ערד אױף אַ באַדעקטן טיש אױך זײַן גוט. קלײבט די אַרבעט לױט װאָס דער מענטש האָט ליב געהאַט פֿריער און װאָס ער קען איצט באַקװעם טאָן."
+  - q: "װי היט איך אַ מענטש מיט דעמענץ זיכער אין דער היץ?"
+    a: "פּלאַנירט דרױסן-צײַט אױף דעם קילערן פֿרי אָדער אָװנט, האַלט עס קורץ, און גיט װאַסער אָפֿט. קלײבט שאָטן, אַ ברײט-רענדיקן הוט, לײַכטע לױזע קליידער און זונקרעם. עלטערע מענטשן זענען העכער אין סכנה פֿון היץ-קראַנקהײט, און פֿאַרװירטקייט, שװינדל אָדער שלעכטקייט קענען זײַן װאַרענונג-צײכנס. אויב איר באַמערקט זײ, גײט גלײַך אַרײַן און קילט זיך אָפּ."
+  - q: "װי קענען מיר אַרױסגײן אױב זײ טענהן צו װאַנדערן?"
+    a: "בלײַבט בײַם מענטש די גאַנצע צײַט. ניצט אַ פֿאַרמאַכטן גאָרטן מיט אַ פֿאַרשלאָסענעם טױער, און זאָרגט אַז ער טראָגט אַ אײַדענטיפֿיקאַציע-בראַסלעט אָדער האַלט אײַדענטיפֿיקאַציע בײַ זיך. האַלט אַ פֿריש פֿאָטאָ גרײט. אויב דער מענטש פֿאַרשװינדט, קאָנטאַקטירט גלײַך די לאָקאַלע פּאָליציי אָדער נויטדינסטן; װאַרט נישט קײן באַשטימטע צײט. זאָגט זײ אַז דער מענטש האָט דעמענץ, װוּ מען האָט אים לעצט געזען, און גיבט זײ אַ פֿריש פֿאָטאָ."
+  - q: "װאָס אױב מיר האָבן נישט קײן גאָרטן?"
+    a: "אַ פּאָר טעפּ אױף אַ פּאָרטש, אַ פֿענצטער-קאַסטן, אָדער אַ קרײַטער-טעפּ אױפֿן קיכן-טיש איז גענוג. מען קען אױך אַרײַנגײן אין אַ פּאַרק, אַ עפֿנטלעכן גאָרטן אָדער אַ קהילה-גאָרטן. זיצן דרױסן און הערן די פֿייגל איז אױך אַ דרױסנדיקע אַקטיװיטעט."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+פֿאַר פֿיל מענטשן איז דער גאָרטן איינע פֿון די מערסט באַקאַנטע ערטער װאָס זיי קענען. גראָבן, באַװאַסערן און בלומען פּליקן ניצן פֿעיקייטן װאָס זיי האָבן געלערנט לאַנג צוריק, און דרױסן זײַן ברענגט פֿרישע לופֿט, זון און פֿייגל-געזאַנג. דער [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) צײלט אױף אָפּזאָרגן פֿלאַנצן, פֿלאַנצן בלומען און גרינצײַג, און [רעדן װעגן װי די פֿלאַנצן װאַקסן](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) צװישן די אַקטיװיטעטן װאָס מענטשן מיט אַלצהיימער קענען ליב האָבן. דאָס זײַטל דאָ דעקט אָן װאָס צו פּרובירן, װי מען קען מאַכן אַ גאָרטן גרינגער צו ניצן, און װי מען בלײַבט זיכער מיט היץ, זון און װאַנדערן.
 
-## What outdoor and gardening activities work well?
+## װאָס פֿאַר דרױסנדיקע און גאָרטנבױ-אַקטיװיטעטן װירקן גוט?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+די בעסטע אַרבעטן זענען פּשוט, באַקאַנט און קענען געטאָן װערן שטייענדיק אָדער זיצנדיק. קלײבט לױט װאָס דער מענטש האָט פֿריער ליב געהאַט.
 
-### In the garden
+### אין גאָרטן
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **באַװאַסערן.** אַ קלײן, לײַכט װאַסערקאַנע אָדער אַ זאַנפֿטער שלױך און אַ פּאָר טעפּ אין דעררײַכװײט. באַװאַסערן האָט אַ קלאָרן אָנהײב און ענדע און איז שװער צו פֿאַרטאָן.
+2. **זוימען אין טעפּ.** די Alzheimer's Foundation of America רעקאָמענדירט צו זײען זוימען אין קלײנע טעפּ און [צו זען זײ װאַקסן](https://alzfdn.org/dementia-activity-gardening/). גרױסע זוימען װי בױנעס, זונבלומען אָדער ערבעס זענען גרינגער צו האַנדלען.
+3. **דערנדיקע בלומען אָפּקװיטשן.** פֿאַרװעלקטע בלומען מיט דער האַנט אָפּקװיטשן איז אַ װײכע, װידערהאָלנדיקע אַרבעט. קלײבט פֿלאַנצן אָן דערנער.
+4. **פֿליקן גרינצײַג אָדער קרײַטער.** קירשן-טאָמאַטן, בױנעס און קרײַטער זענען גרינג צו פֿליקן און פֿײַן צו עסן. ברענגט זײ אַרײַן צו נוצן בײַם מיטאָג.
+5. **שמעקן און טאַפּן קרײַטער.** ראָזמערין, מינץ און לאַװענדל האָבן שטאַרקע, אָנגענעמע ריחות. ריבט אַ בלעטל צװישן די פֿינגער און פֿירט עס איבער.
+6. **פֿעגן אַ װעג אָדער אַ פּאַטיאָ.** אַ לײַכטער בעזעם אױף אַ פֿלאַכער, טרוקענער אָפּפֿלאַך, אויב די באַלאַנס איז שטאַרק.
+7. **פֿילן אַ פֿױגל-פֿיטער.** דערנאָך זיצט צוזאַמען און קוקט װער קומט אַ באַזוך.
 
-### Indoors, when going out is not possible
+### אינעװײניק, װען דרױסן גײן איז נישט מעגלעך
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **אַ פֿענצטער-קרײַטער-גאָרטן** פֿון באַזיליקום, פּעטרושקע אָדער שניטלעך.
+- **אַרבעטן אױף אַ באַדעקטן טיש.** די AFA רעקאָמענדירט צו ניצן קאַפֿעטעריע-טרײז, כּדי די ערד זאָל בלײַבן אויף איין אָרט, און צו באַװעגן ערד מיט קלײנע בעכער.
+- **בלומען-אָרדענען** מיט פֿרישע שניטבלומען און גרינצײַג פֿון הױף אָדער פֿון אַ מאַרקעט.
+- **געפּרעסטע בלומען** פֿון אַ בוקעט, שפּעטער געקלעבט אױף קאַרטלעך. זעט [קונסט און האַנטװערק](/activities/arts-and-crafts/) פֿאַר מער.
+- **לאַװענדל- אָדער ראָזע-זעקלעך,** אַן אַנדערע AFA-אידיע, װאָס האַלט דעם גאָרטנס ריח אין הױז.
 
-### Getting out and about
+### אַרױס און אַרום
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **אַ קורצער שפּאַציר** אַרום דעם בלאָק, אין אַ פּאַרק אָדער אין אַ גאָרטן-צענטער, אין אַ לאַנגזאַמער טעמפּאָ מיט אַ פּלאַץ צו זיצן.
+- **דרױסן זיצן** אויף אַ פּאָרטש אָדער אַ באַנק, צו הערן די פֿייגל און פֿילן דעם װינט. דאָס איז אַ גאַנצע אַקטיװיטעט אַליין.
+- **באַזוכן אַ עפֿנטלעכן גאָרטן** בײַ אַ רויִקער צײַט פֿון טאָג. די NHS באַמערקt אַז עטלעכע ערטער האָבן סענסאָרישע גאָרטנס מיט פֿאַרפֿומטע פֿלאַנצן, טעקסטורן און װאַסער-עלעמענטן.
+- **פֿיטערן ענטן אָדער באַטראַכטן פֿייגל** בײַ אַ לאָקאַלן טײַך, מיט אַ זיכערן ראַנד פֿון װאַסער.
 
-## How do I make a garden easier to use?
+## װי מאַכט מען אַ גאָרטן גרינגער צו ניצן?
 
-Bring the garden up to the person, not the other way around.
+ברענגט דעם גאָרטן צום מענטש, נישט אַנדערש רום.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **הױכע בעדן אָדער הױכע טעפּ** בײַ בערך טאַליע-הײך, כּדי קײן קניען אָדער בײגן זיך זאָל נישט זײַן נייטיק.
+- **קאָנטײנערס אױף אַ טיש** פּאַסן פֿאַר מענטשן װאָס ניצן אַ ראָלשטול אָדער װאָס זיצן ליבער.
+- **ברײטע, גלײַכע װעגן** אָן לאָזע שטײנער אָדער שלײכעס װאָס ליגן איבער זײ, פֿאַרמינדערן די סכנה פֿון שטאָלפּערן.
+- **בענק מיט אַרעמלעך און שאָטן** לענגס דעם װעג, אַזױ אַז רו איז שטענדיק אַן אָפּציע.
+- **געצײַג מיט דיקע, װײכע האַנטהאַבן** װאָס זענען גרינג צו האַלטן. מײַדט שערן, מעסערס און אַלץ שאַרפֿע.
+- **אַ פֿאַרצוימטע געגנט מיט אַ פֿאַרשלאָסענעם טױער** װוּ דער מענטש קען פֿרײ פֿאָרשן, בשעת איר בלײַבט נאָענט.
 
-## Which plants should I avoid?
+## װאָס פֿלאַנצן זאָל מען מײַדן?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+קלײבט פֿלאַנצן װאָס זענען זיכער צו אָנרירן און, אידעאַל, זיכער צו פּרובירן. די AFA רעקאָמענדירt פֿלאַנצן װאָס רײַצן נישט אָפֿט די הױט, קוקט אויף אַלערגיעס, און קוקט גוט אויף מענטשן װאָס קענען פֿאַרװעקסלען ערד מיט עסן. די NIA-היים-זיכערקייט-עצות אַרײַנגערעכנט אַװעקנעמען אָדער פֿאַרשליסן גיפֿטיקע פֿלאַנצן.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- מײַדט דערנדיקע רױזן, קאַקטוסן און פֿלאַנצן מיט זאַפֿט װאָס רײַצt די הױט.
+- קוקט אָן אַ פֿלאַנץ װאָס איר זענט נישט זיכער װעגן מיט אַ גיפֿט-צענטער אָדער אַ לאָקאַלן גאָרטן-געשעפֿט, איידער איר פֿלאַנצט עס.
+- באַקאַנטע פֿאַװוּריטן קענען װעקן אָנגענעמע געפֿילן. די AFA דערמאָנט רױזן און קריסמאַס-קאַקטוס אַלס בײַשפּילן. קלײבט זאָרטן אָן דערנער.
+- האַלט דינגער, פּעסטיצידן און אומקרויט-גיפֿט אײַנגעשלאָסן, און ניצט זײ נישט אין ערטער װוּ דער מענטש קען קומען.
 
-## How do I stay safe in the heat and sun?
+## װי בלײַבט מען זיכער אין היץ און זון?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+פּלאַנט דרױסן-צײַט לױט דעם װעטער. די NIA דערקלערt אַז עלטערע מענטשן זענען העכער אין סכנה פֿון [היץ-פֿאַרבונדענע קראַנקהײט](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), טײלװײַז װײַל דער גוף פּאַסט זיך שװעכער אָן צו טעמפּעראַטור-װעכסלען, און עטלעכע מעדיצינען באַװירקן װי דער גוף הענדלט מיט היץ.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **גײט אַרױס פֿרי אָדער שפּעט.** מײַדט די מיטן פֿון טאָג אין װאַרעמע חדשים. קוקט אויף דעם היץ-אינדעקס, נישט בלױז די טעמפּעראַטור.
+- **גיט װאַסער אָפֿט.** װאַרט נישט ביז דער מענטש זאָגט אַז ער דאָרשט. מײַדט אַלקאָהאָל און קאַפֿײן-געטרענקען אין היץ.
+- **קלײדט זיך דערצו.** לײַכטע, לױזע קליידער אין העלע פֿאַרבן, אַ ברײט-רענדיקער הוט און זונברילן.
+- **ניצט זונקרעם.** די NIA רעקאָמענדירט אַ ברײט-שפּעקטרום-קרעם מיט SPF 15 אָדער העכער, װידער אויפֿגעטראָגן בײַ טאָג.
+- **קלײבט שאָטן.** שטעלט דעם פֿלאַנצן-טיש אונטער אַ בוים אָדער אַ אומברעלא.
+- **האַלט עס קורץ.** אַ קורצע צײַט דרױסן קען זײַן גענוג, בפֿרט אויף װאַרעמע טעג.
+- **קוקט אויף װאַרענונג-צײכנס.** די NIA ברענגט אַרױס קאָפּװײטיק, פֿאַרװירטקייט, שװינדל אָדער שלעכטקייט אַלס מעגלעכע צײכנס פֿון היץ-קראַנקהײט. אַ מענטש מיט דעמענץ זאָגט אײַך מיסטאָמאָל נישט אַז ער פֿילט זיך שלעכט, דעריבער קוקט אויף זײַן פּנים און פֿירונג. גײט אַרײַן, קילט אָפּ מיט װאַסער און אַ קילן לאַפּן, און זוכט מעדיצינישע הילף אויב ער װערט נישט גיך בעסער. היץ-שלאָג, מיט צײכנס װי אָנפֿאַלן, פֿאַרװירטקייט אָדער טרוקענע, רױטע הױט, איז אַ מעדיצינישע נויט: **רופֿט אײַער לאָקאַלן נויטנומער.**
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+װינטער איז אויך װיכטיק. אין װינטער, האַלט דרױסן-צײַט קורץ און זאָרגט אַז די הענט און פֿיס בלײַבן װאַרעם און טרוקן.
 
-## How do I handle wandering when we go outside?
+## װי הענדלט מען מיט װאַנדערן װען מיר גײען אַרױס?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+בלײַבט בײַם מענטש װען ער איז דרױסן. די Alzheimer's Association זאָגט אַז [זעקס פֿון צען](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) מענטשן װאָס לעבן מיט דעמענץ װעלן װאַנדערן מינדסטנס איין מאָל, און פֿיל טוען עס מער װי איין מאָל. עס קען פּאַסירן אין יעדן שטאַפּל.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+די [NIA-טיפּס װעגן װאַנדערן און פֿאַרלוירן זיך](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) כּולל:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- מאַכט זיכער אַז דער מענטש טראָגט אַ אײַדענטיפֿיקאַציע- אָדער מעדיצינישן בראַסלעט מיט זײַן נאָמען, אַדרעס און אײַער טעלעפֿאָן-נומער, אָדער לײבלט זײַנע קליידער.
+- האַלט אַ פֿריש פֿאָטאָ אָדער װידעאָ פֿון דעם מענטש.
+- לאָזט די שכנים װיסן אַז דער מענטש קען װאַנדערן.
+- זיכערט דעם גאָרטן מיט אַ צײַן און אַ פֿאַרשלאָסענעם טױער.
+- לאָזט נישט אַלײן אַן מענטש מיט אַ געשיכטע פֿון װאַנדערן.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+די Alzheimer's Association רעקאָמענדירט אויך צו שאַפֿן אינעװײניק און דרױסן ערטער װאָס קענען זיכער באַפֿאָרשט װערן, און צו פּלאַנען אַקטיװיטעטן פֿאַר דער צײַט װען אומרו איז מערסטנס מעגלעך. אַ שפּאַציר אין אַ זיכערן, איינגעצוימטן גאָרטן קען זײַן אַ גוטער פּאַסונג פֿאַר שפּעט-טאָג-אומרו. זעט אונדזער גיד װעגן [שפּעט-טאָג-אומרו](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+אויב דער מענטש פֿאַרשװינדט, בדיקט נאָענטע זיכערע ערטער און קאָנטאַקטירט גלײַך די לאָקאַלע פּאָליציי אָדער נויטדינסטן. װאַרט נישט קײן באַשטימטע צײט פֿאַר דער מעלדונג. אַ 2021 [U.S. Department of Justice](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) זשורנאַל-אַרטיקל װעגן אונטערזוכונגען פֿון פֿאַרשװונדענע מענטשן זאָגט אַז פּאָליציי-אַגענטורן זאָלן נישט פֿאָדערן קײן באַשטימטע װאַרטצײט, און ברענגט אַרױס װי הויך-ריזיקע זאַך די װאָס ענלעכן זיך צו דעמענץ-סימפּטאָמען. לאָקאַלע פּראָצעדורן װעכסלען. טײלט מיט, װען און װוּ דער מענטש איז לעצט געזען געװאָרן, װאָס ער טראָגt, און אַ פֿריש פֿאָטאָ. פֿאָלגט די הוראות פֿון לאָקאַלע באַאַמטע און זוכט נישט אַלײן אין אַנזיכערע ערטער.
 
-## How do I adapt gardening as things change?
+## װי פּאַסט מען דעם גאָרטנבױ אָן װען זאַכן ענדערן?
 
-| If this has become hard | Try this instead |
+| װען דאָס איז שװער געװאָרן | פּרוּװט דאָס אַנשטאָט |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| אַ גאַנץ בעט פֿלאַנצן | איין זוימען אין איין טעפּ |
+| יעטן אומקרױט (אונטערשײדן אומקרױט פֿון פֿלאַנצן) | באַװאַסערן, אָדער אָפּבריכן קלאָר פֿאַרװעלקטע בלומען |
+| אַרום דעם גאָרטן גײן | זיצן בײַם טיש מיט אַ טעפּל ערד און אַ פֿלאַנץ |
+| אַרױסגײן בכלל | אַ טעפּ קרײַטער אױפֿן קיכן-טיש, אָדער אַ זיץ נעבן אַ אָפֿענעם פֿענצטער |
+| קײן אַרבעט טאָן | צוזאַמען דרױסן זיצן, הערן און קוקן |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+עטלעכע מענטשן האָבן ליבער צו קוקן װי איר אַרבעט. די NIA באַמערקט אַז לאָזן דעם מענטש בלויז קוקן איז גוט, אויב דאָס איז װאָס ער האָט ליב.
 
-## When should we head inside?
+## װען זאָל מען אַרײַנגײן?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+גײט אַרײַן װען דער מענטש קוקט אויס מיד, הײס, קאַלט, אומרויִק אָדער גרײט צו זײַן פֿאַרטיק. אַ קורצע, אָנגענעמע צען מינוט איז בעסער װי אַ לאַנגער נאָכמיטאָג װאָס ענדיקט זיך מיט נויט. צײַטיק אױפֿהערן איז אַ גוטער רעזולטאַט.
 
-## Bring the garden indoors on screen
+## ברענגט דעם גאָרטן אַרײַן אױפֿן עקראַן
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+אױף רעגנדיקע טעג האָט [סאָרט צוזאַמען](/games/sort-together/) אַ גאָרטן-קאָש פֿאַר סאָרטירן בילדער, און [שמועס-קאַרטלעך](/games/conversation-cards/) האָבן אָפֿענע פֿראַגן װאָס קענען פֿירן צו גאָרטן-געשיכטעס. װען איר קומט אַרײַן פֿון דער היץ און פֿילט זיך אײַלנדיק, גיט [רויִק אָטעמען](/games/calm-breathing/) אַ לאַנגזאַמע, שטילע רו צו טיילן. פֿאַר מער אידייען װאָס באַזירן זיך אויף טאָפּ, ריח און קול, זעט אונדזער [סענסאָרישע אַקטיװיטעטן-װעגװײַזער](/activities/sensory/).

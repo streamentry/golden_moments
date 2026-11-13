@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "ສັນຍານເບື້ອງຕົ້ນຂອງໂຣກສະໝອງເສື່ອມ ແລະເວລາທີ່ຄວນໄປພົບໝໍ"
+seoTitle: "ສັນຍານເບື້ອງຕົ້ນຂອງໂຣກສະໝອງເສື່ອມ ແລະເວລາທີ່ຄວນພົບໝໍ"
+description: "ສັນຍານເບື້ອງຕົ້ນທົ່ວໄປຂອງໂຣກສະໝອງເສື່ອມ ຕ່າງຈາກການເຖົ້າແກ່ປົກກະຕິແນວໃດ ສາເຫດຂອງບັນຫາຄວາມຈຳທີ່ປິ່ນປົວໄດ້ ແລະວິທີກຽມຕົວກ່ອນພົບໝໍ."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  ຄວາມຈຳທີ່ລົບກວນຊີວິດປະຈຳວັນ ການມີປັນຫາກັບວຽກທີ່ຄຸ້ນເຄີຍ ຄວາມສັບສົນກ່ຽວກັບເວລາ ຫຼືສະຖານທີ່ ແລະການປ່ຽນແປງອາລົມ ຫຼືການຕັດສິນໃຈ ອາດເປັນສັນຍານເບື້ອງຕົ້ນຂອງໂຣກສະໝອງເສື່ອມ. ຫຼາຍພະຍາດອື່ນ ລວມທັງບັນຫາຕ່ອມໄທຣອຍ ວິຕາມິນ B12 ຕ່ຳ ຜົນຂ້າງຄຽງຂອງຢາ ໂຣກຊຶມເສົ້າ ແລະບັນຫາການນອນ ກໍອາດເຮັດໃຫ້ເກີດການປ່ຽນແປງທີ່ຄ້າຍກັນໄດ້. ມີແຕ່ແພດທີ່ມີຄຸນສົມບັດເທົ່ານັ້ນທີ່ວິນິດໄສໄດ້. ຄວາມສັບສົນທີ່ເກີດຂຶ້ນທັນທີຕ້ອງໄດ້ຮັບການດູແລຮີບດ່ວນ.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "ການລືມບາງຄັ້ງເປັນເລື່ອງທົ່ວໄປເມື່ອອາຍຸຫຼາຍຂຶ້ນ ແຕ່ການປ່ຽນແປງທີ່ລົບກວນຊີວິດປະຈຳວັນຄວນໄດ້ຮັບການກວດ."
+  - "ສະມາຄົມອາການອັລໄຊເມີອະທິບາຍ 10 ສັນຍານເຕືອນ ໂດຍແຕ່ລະອັນມີການປ່ຽນແປງທີ່ເກີດຈາກອາຍຸປົກກະຕິເພື່ອໃຫ້ປຽບທຽບ."
+  - "ບັນຫາຕ່ອມໄທຣອຍ ວິຕາມິນ B12 ຕ່ຳ ຜົນຂ້າງຄຽງຂອງຢາ ໂຣກຊຶມເສົ້າ ການຕິດເຊື້ອ ແລະບັນຫາການນອນ ລ້ວນສົ່ງຜົນຕໍ່ຄວາມຈຳ ແລະບາງອັນປິ່ນປົວໄດ້."
+  - "ມີແຕ່ແພດທີ່ມີຄຸນສົມບັດເທົ່ານັ້ນທີ່ວິນິດໄສໂຣກສະໝອງເສື່ອມໄດ້. ແບບທົດສອບອອນລາຍ ແລະການທົດສອບດ້ວຍຕົນເອງບໍ່ສາມາດເຮັດໄດ້."
+  - "ຄວາມສັບສົນທີ່ເກີດຂຶ້ນທັນທີ ພາຍໃນຊົ່ວໂມງ ຫຼືວັນ ອາດເປັນພາວະ delirium ແລະຕ້ອງການການດູແລທາງການແພດດ່ວນ."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "ການລືມເປັນສ່ວນໜຶ່ງຂອງການເຖົ້າແກ່ປົກກະຕິບໍ?"
+    a: "ບາງສ່ວນແມ່ນ. ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA) ເວົ້າວ່າການວາງສິ່ງຂອງຜິດບ່ອນ ຫຼືລືມບິນບາງເທື່ອ ໂດຍທົ່ວໄປແມ່ນການລືມເລັກນ້ອຍທີ່ເກີດຈາກອາຍຸ. ໂຣກສະໝອງເສື່ອມບໍ່ແມ່ນສ່ວນໜຶ່ງປົກກະຕິຂອງການເຖົ້າແກ່. ບັນຫາຄວາມຈຳທີ່ເຮັດໃຫ້ການເຮັດວຽກປະຈຳວັນ ເຊັ່ນການຂັບລົດ ການໃຊ້ໂທລະສັບ ຫຼືການຊອກທາງກັບບ້ານເປັນເລື່ອງຍາກ ຄວນກວດກັບໝໍ."
+  - q: "ບັນຫາຄວາມຈຳສາມາດເກີດຈາກສາເຫດອື່ນທີ່ບໍ່ແມ່ນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?"
+    a: "ໄດ້. NIA ລະບຸສາເຫດຫຼາຍຢ່າງ ເຊັ່ນບັນຫາຕ່ອມໄທຣອຍ ໄຕ ຫຼືຕັບ ຜົນຂ້າງຄຽງຂອງຢາ ໂຣກຊຶມເສົ້າ ແລະຄວາມວິຕົກກັງວົນ ວິຕາມິນ B12 ຕ່ຳ ການດື່ມເຫຼົ້າໃນທາງທີ່ຜິດ ບັນຫາການນອນ ການຕິດເຊື້ອ ແລະການບາດເຈັບທີ່ສີດ. ບາງອັນດີຂຶ້ນເມື່ອໄດ້ຮັບການປິ່ນປົວ ນັ້ນເປັນເຫດໜຶ່ງທີ່ການກວດສຸຂະພາບມີຄວາມສຳຄັນ."
+  - q: "ຂ້ອຍສາມາດທົດສອບໂຣກສະໝອງເສື່ອມຢູ່ເຮືອນໄດ້ບໍ?"
+    a: "ບໍ່ໄດ້. ມີແຕ່ແພດທີ່ມີຄຸນສົມບັດເທົ່ານັ້ນທີ່ວິນິດໄສໂຣກສະໝອງເສື່ອມໄດ້ ໂດຍໃຊ້ປະຫວັດການປ່ວຍ ການກວດຮ່າງກາຍ ການທົດສອບຄວາມຈຳ ແລະການຄິດ ການກວດເລືອດ ແລະບາງຄັ້ງກໍແມ່ນການສະແກນສະໝອງ. ແມ່ນແຕ່ການທົດສອບສັ້ນໆທີ່ໝໍໃຊ້ກໍບໍ່ພຽງພໍທີ່ຈະວິນິດໄສໂຣກສະໝອງເສື່ອມໄດ້ດ້ວຍຕົວເອງ."
+  - q: "ຂ້ອຍຄວນເຮັດແນວໃດ ຖ້າມີຄົນສັບສົນກະທັນຫັນ?"
+    a: "ໃຫ້ຂໍຄວາມຊ່ວຍເຫຼືອທາງການແພດທັນທີ. ຄວາມສັບສົນກະທັນຫັນອາດເປັນພາວະ delirium ເຊິ່ງ VA ອະທິບາຍວ່າເປັນເຫດສຸກເສີນທາງການແພດ. ໂທຫາຜູ້ໃຫ້ບໍລິການສຸຂະພາບຂອງຄົນນັ້ນທັນທີ ຫຼືໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນຂອງທ່ານ, ຢູ່ກັບເຂົາເຈົ້າ ແລະຈົດບັນທຶກຢາທີ່ເຂົາເຈົ້າກິນ."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+ການສັງເກດເຫັນການປ່ຽນແປງໃນຄວາມຈຳຂອງຕົນເອງ ຫຼືຂອງຄົນທີ່ທ່ານຮັກ ອາດເປັນເລື່ອງໜ້າຢ້ານ. ໜ້ານີ້ຊ່ວຍທ່ານຕັດສິນໃຈວ່າເວລາໃດຄວນນັດໝໍ ແລະຈະກຽມຕົວສຳລັບການນັດນັ້ນແນວໃດ. ມັນບໍ່ສາມາດບອກທ່ານໄດ້ວ່າຜູ້ໃດຜູ້ໜຶ່ງເປັນໂຣກສະໝອງເສື່ອມຫຼືບໍ່. **ມີແຕ່ແພດທີ່ມີຄຸນສົມບັດເທົ່ານັ້ນທີ່ວິນິດໄສໂຣກສະໝອງເສື່ອມໄດ້**, ແລະຫຼາຍພະຍາດທີ່ເຮັດໃຫ້ເກີດບັນຫາຄວາມຈຳບໍ່ແມ່ນໂຣກສະໝອງເສື່ອມເລີຍ. ກະລຸນາຢ່າພຶ່ງພາແບບທົດສອບອອນລາຍ ຫຼືການທົດສອບດ້ວຍຕົນເອງ.
 
-## What are the early signs of dementia?
+## ສັນຍານເບື້ອງຕົ້ນຂອງໂຣກສະໝອງເສື່ອມມີຫຍັງແດ່?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[ສະມາຄົມອາການອັລໄຊເມີ (Alzheimer's Association)](https://www.alz.org/alzheimers-dementia/10_signs) ອະທິບາຍ 10 ສັນຍານເບື້ອງຕົ້ນ. ມັນຈັບຄູ່ແຕ່ລະອັນກັບການປ່ຽນແປງທີ່ເກີດຈາກອາຍຸປົກກະຕິ ເພື່ອໃຫ້ປຽບທຽບ. ດ້ວຍຖ້ອຍຄຳຂອງພວກເຮົາເອງ:
 
-| Sign worth checking | More typical with age |
+| ສັນຍານທີ່ຄວນກວດ | ປົກກະຕິກວ່າໃນໄລຍະອາຍຸ |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| ຄວາມຈຳເສື່ອມທີ່ລົບກວນຊີວິດປະຈຳວັນ ເຊັ່ນລືມເຫດການຫຼ້າສຸດ ຫຼືຖາມເລື່ອງດຽວກັນຊ້ຳແລ້ວຊ້ຳອີກ | ບາງເທື່ອລືມຊື່ ຫຼືນັດໝາຍ ແຕ່ຈື່ໄດ້ພາຍຫຼັງ |
+| ມີບັນຫາໃນການວາງແຜນ ຫຼືແກ້ໄຂບັນຫາ ເຊັ່ນເຮັດອາຫານຕາມສູດທີ່ຄຸ້ນເຄີຍ ຫຼືຕິດຕາມບິນຄ່າໃຊ້ຈ່າຍ | ເກີດຄວາມຜິດພາດບາງຄັ້ງກັບບິນຄ່າໃຊ້ຈ່າຍໃນເຮືອນ |
+| ມີຄວາມຫຍຸ້ງຍາກໃນການເຮັດວຽກທີ່ຄຸ້ນເຄີຍໃຫ້ສຳເລັດ ທີ່ເຮືອນ ທີ່ທຳງານ ຫຼືເວລາອອກນອກເຮືອນ | ບາງເທື່ອຕ້ອງການຄວາມຊ່ວຍເຫຼືອກັບການຕັ້ງຄ່າໄມໂຄເວຟ ຫຼືການບັນທຶກລາຍການໂທລະທັດ |
+| ສູນເສຍການຕິດຕາມວັນທີ ລະດູການ ຫຼືບ່ອນທີ່ຕົນຢູ່ | ເວົ້າວັນໃນອາທິດຜິດ ແລ້ວຄິດອອກພາຍຫຼັງ |
+| ມີບັນຫາໃໝ່ໃນການປະເມີນໄລຍະທາງ ການອ່ານ ຫຼືການແຍກສີ | ການປ່ຽນແປງສາຍຕາຈາກຕ້ອກ |
+| ມີບັນຫາໃໝ່ກັບຄຳເວົ້າ ເຊັ່ນຢຸດກາງການສົນທະນາ ຫຼືເອີ້ນສິ່ງຕ່າງໆດ້ວຍຊື່ທີ່ຜິດ | ບາງເທື່ອຕ້ອງໃຊ້ເວລາເພື່ອຊອກຄຳທີ່ຖືກຕ້ອງ |
+| ວາງສິ່ງຂອງໄວ້ໃນບ່ອນແປກໆ ແລະບໍ່ສາມາດຍ້ອນຄືນເສັ້ນທາງໄດ້ | ວາງສິ່ງຂອງຜິດບ່ອນບາງຄັ້ງ ແລະຊອກເຫັນໂດຍຍ້ອນຄືນເສັ້ນທາງ |
+| ການຕັດສິນໃຈທີ່ບໍ່ດີ ເຊັ່ນກ່ຽວກັບເງິນ ຫຼືການດູແລຕົວເອງ | ຕັດສິນໃຈທີ່ບໍ່ດີບາງຄັ້ງ |
+| ຖອຍຫ່າງຈາກງານອະດິເລກ ການເຮັດວຽກ ຫຼືກິດຈະກຳທາງສັງຄົມ | ບາງເທື່ອບໍ່ຢາກໄປງານຄອບຄົວ ຫຼືງານສັງຄົມ |
+| ການປ່ຽນແປງອາລົມ ຫຼືບຸກຄະລິກ ເຊັ່ນສັບສົນ ຂີ້ສົງໄສ ຢ້ານ ຫຼືກັງວົນ | ມີວິທີເຮັດສິ່ງຕ່າງໆທີ່ຕາຍຕົວ ແລະຫງຸດຫງິດເມື່ອກິດຈະວັດຖືກລົບກວນ |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+ສັນຍານອັນດຽວບໍ່ໄດ້ໝາຍເຖິງໂຣກສະໝອງເສື່ອມ. ຈຸດສຳຄັນແມ່ນ **ການປ່ຽນແປງຈາກສິ່ງທີ່ປົກກະຕິສຳລັບຄົນຜູ້ນັ້ນ** ໂດຍສະເພາະອັນທີ່ເຮັດໃຫ້ຊີວິດປະຈຳວັນຍາກຂຶ້ນ.
 
-## How is normal aging different from dementia?
+## ການເຖົ້າແກ່ປົກກະຕິແຕກຕ່າງຈາກໂຣກສະໝອງເສື່ອມແນວໃດ?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ເວົ້າວ່າຜູ້ສູງອາຍຸຫຼາຍຄົນສັງເກດເຫັນວ່າຕົນຈື່ສິ່ງຕ່າງໆໄດ້ຊ້າລົງ ຫຼືບາງເທື່ອກໍວາງສິ່ງຂອງຜິດບ່ອນ ຫຼືລືມບິນ. ໂດຍທົ່ວໄປແລ້ວນີ້ແມ່ນການລືມເລັກນ້ອຍ. **ໂຣກສະໝອງເສື່ອມບໍ່ແມ່ນສ່ວນໜຶ່ງປົກກະຕິຂອງການເຖົ້າແກ່.** ບັນຫາຄວາມຈຳທີ່ຮ້າຍແຮງເຮັດໃຫ້ກິດຈະກຳປະຈຳວັນຍາກ ເຊັ່ນການຂັບລົດ ການໃຊ້ໂທລະສັບ ຫຼືການຊອກທາງກັບບ້ານ.
 
-The NIA suggests talking with a doctor if someone:
+NIA ແນະນຳໃຫ້ປຶກສາໝໍ ຖ້າຜູ້ໃດຜູ້ໜຶ່ງ:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- ຖາມຄຳຖາມດຽວກັນຊ້ຳແລ້ວຊ້ຳອີກ
+- ຫຼົງທາງໃນສະຖານທີ່ທີ່ເຄີຍຮູ້ຈັກດີ
+- ມີບັນຫາໃນການປະຕິບັດຕາມສູດອາຫານ ຫຼືຄຳແນະນຳ
+- ສັບສົນຫຼາຍຂຶ້ນກ່ຽວກັບເວລາ ຄົນ ແລະສະຖານທີ່
+- ເລີ່ມບໍ່ດູແລຕົນເອງ ເຊັ່ນກິນອາຫານບໍ່ດີ ບໍ່ອາບນ້ຳ ຫຼືປະພຶດຢ່າງບໍ່ປອດໄພ
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+ບາງຄົນມີ **ການບົກຜ່ອງດ້ານການຮັບຮູ້ເລັກນ້ອຍ (MCI)**. ນັ້ນໝາຍເຖິງບັນຫາຄວາມຈຳ ຫຼືການຄິດທີ່ຫຼາຍກວ່າຄົນອາຍຸດຽວກັນ ແຕ່ຍັງຈັດການຊີວິດປະຈຳວັນໄດ້. NIA ເວົ້າວ່າ MCI ອາດເປັນສັນຍານເບື້ອງຕົ້ນຂອງໂຣກອັລໄຊເມີ ແຕ່ບໍ່ແມ່ນທຸກຄົນທີ່ມີ MCI ຈະເປັນໂຣກນີ້.
 
-## What else can cause memory problems?
+## ຫຍັງອີກແດ່ທີ່ເຮັດໃຫ້ເກີດບັນຫາຄວາມຈຳ?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+ຫຼາຍສິ່ງນອກເໜືອຈາກໂຣກສະໝອງເສື່ອມສາມາດກະທົບຄວາມຈຳ ແລະບາງອັນດີຂຶ້ນດ້ວຍການປິ່ນປົວ. NIA ລາຍການ:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **ບັນຫາຕ່ອມໄທຣອຍ ໄຕ ຫຼືຕັບ**
+- **ຜົນຂ້າງຄຽງຂອງຢາ**
+- **ໂຣກຊຶມເສົ້າ ແລະຄວາມວິຕົກກັງວົນ**
+- **ວິຕາມິນ B12 ຕ່ຳ** ຫຼືການບໍ່ໄດ້ກິນອາຫານທີ່ມີປະໂຫຍດພຽງພໍ
+- **ບັນຫາການນອນ**
+- **ການດື່ມເຫຼົ້າ ຫຼືການໃຊ້ຢາເສບຕິດໃນທາງທີ່ຜິດ**
+- **ການຕິດເຊື້ອ ລິ່ມເລືອດ ຫຼືເນື້ອງອກ** ໃນສະໝອງ
+- **ການບາດເຈັບທີ່ສີດ** ເຊັ່ນສະໝອງຊ້ຳ
+- **ຄວາມຄຽດ ຫຼືຄວາມໂສກເສົ້າຢ່າງໃຫຍ່**, ເຊັ່ນການອອກຈາກວຽກ ຫຼືການເສຍຄູ່ສົມລົດ
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+ບັນຫາການໄດ້ຍິນ ແລະສາຍຕາ ກໍອາດຖືກເຂົ້າໃຈຜິດວ່າເປັນຄວາມສັບສົນ. ເບິ່ງ[ຄູ່ມືການໄດ້ຍິນ](/brain-health/hearing/) ຂອງພວກເຮົາ. ນີ້ແມ່ນເຫດຜົນທີ່ການກວດສຸຂະພາບມີຄວາມສຳຄັນ. ຕາມ[ສະມາຄົມອາການອັລໄຊເມີ](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ແພດມັກສັ່ງກວດເລືອດເພື່ອຊອກບັນຫາຕ່ອມໄທຣອຍ ການຂາດວິຕາມິນ ແລະການຕິດເຊື້ອ. ການນອນທີ່ດີ[ໃນ](/brain-health/sleep/) ແລະການປິ່ນປົວໂຣກຊຶມເສົ້າກໍຄວນຍົກຂຶ້ນມາປຶກສາເຊັ່ນກັນ.
 
-## Sudden confusion is an emergency
+## ຄວາມສັບສົນກະທັນຫັນແມ່ນເຫດສຸກເສີນ
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**ຄວາມສັບສົນທີ່ເກີດຂຶ້ນໄວ, ພາຍໃນຊົ່ວໂມງ ຫຼືວັນ ຕ້ອງໄດ້ຮັບການດູແລທາງການແພດດ່ວນ.** ມັນອາດເປັນພາວະ delirium. [VA ອະທິບາຍ delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ວ່າເປັນເຫດສຸກເສີນທາງການແພດ ແລະແນະນຳໃຫ້ໂທຫາຜູ້ໃຫ້ບໍລິການສຸຂະພາບຂອງຄົນນັ້ນທັນທີ ຫຼືໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນ. ສັນຍານລວມມີ:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- ຄວາມສາມາດໃນການຄິດຢ່າງຊັດເຈນຂຶ້ນໆລົງໆ
+- ມີບັນຫາໃນການໃຫ້ຄວາມສົນໃຈ
+- ການຄິດທີ່ບໍ່ເປັນລະບຽບ
+- ງ່ວງນອນຜິດປົກກະຕິ ຫຼືກະວົນກະວາຍ ແລະກະສັບກະສ່າຍຜິດປົກກະຕິ
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+ເລື່ອງນີ້ສາມາດເກີດຂຶ້ນກັບທຸກຄົນ ລວມທັງຄົນທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມຢູ່ແລ້ວ. ຕາມ[NHS](https://www.nhs.uk/symptoms/confusion/) ສາເຫດທົ່ວໄປລວມມີການຕິດເຊື້ອ (ການຕິດເຊື້ອທາງເດີນປັດສະວະເປັນເລື່ອງທົ່ວໄປໃນຜູ້ສູງອາຍຸ ແລະຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມ) ໂຣກເສັ້ນເລືອດສະໝອງ ນ້ຳຕານໃນເລືອດຕ່ຳໃນຄົນເປັນເບົາຫວານ ການບາດເຈັບທີ່ສີດ ແລະຢາບາງຊະນິດ. ໃນຂະນະທີ່ລໍຖ້າການຊ່ວຍເຫຼືອ ໃຫ້ຢູ່ກັບຄົນນັ້ນ ແລະໃຫ້ກຳລັງໃຈດ້ວຍຄຳສັ້ນໆ ແລະງ່າຍໆ. ຢ່າຖາມຫຼາຍຄຳຖາມ ແລະຈົດບັນທຶກຢາທີ່ເຂົາເຈົ້າກິນ.
 
-## How do I prepare for the doctor's appointment?
+## ຈະກຽມຕົວສຳລັບການນັດໝໍແນວໃດ?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+ການນັດທີ່ດີເລີ່ມຈາກບັນທຶກທີ່ດີ. [ສະມາຄົມອາການອັລໄຊເມີ](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ແນະນຳໃຫ້ນຳ:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **ລາຍການການປ່ຽນແປງ** ໃນຄວາມຈຳ ອາລົມ ແລະພຶດຕິກຳ ພ້ອມຕົວຢ່າງທີ່ແນ່ນອນ ແລະປະມານວ່າເລີ່ມເມື່ອໃດ
+2. **ບັນຫາສຸຂະພາບໃນອະດີດ ແລະປັດຈຸບັນ** ລວມທັງປະຫວັດຄອບຄົວທີ່ມີບັນຫາຄວາມຈຳ
+3. **ໃບສັ່ງຢາທັງໝົດ ແລະຢາທີ່ຊື້ໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ໃບສັ່ງຢາ**
+4. **ວິຕາມິນ ຫຼືອາຫານເສີມທັງໝົດ**
+5. **ຄຳຖາມຂອງທ່ານ** ເຊັ່ນຈະມີການທົດສອບອັນໃດ ໃຊ້ເວລາດົນປານໃດ ແລະຜົນຈະອອກເມື່ອໃດ
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+ມັນກໍຊ່ວຍໄດ້ຖ້າພາສະມາຊິກຄອບຄົວ ຫຼືໝູ່ທີ່ຮູ້ຈັກຄົນນັ້ນດີໄປນຳ. [NIA ອະທິບາຍ](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ວ່າແພດອາດຖາມທັງຜູ້ປ່ວຍ ແລະສະມາຊິກຄອບຄົວກ່ຽວກັບສຸຂະພາບ ຢາ ກິດຈະກຳປະຈຳວັນ ແລະການປ່ຽນແປງພຶດຕິກຳ. ແພດອາດຈະ:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- ໃຫ້ການທົດສອບຄວາມຈຳ ການແກ້ໄຂບັນຫາ ຄວາມສົນໃຈ ການນັບເລກ ແລະພາສາ
+- ສັ່ງກວດເລືອດ ປັດສະວະ ແລະການກວດອື່ນໆ ເພື່ອຊອກຫາສາເຫດອື່ນ
+- ກວດໂຣກຊຶມເສົ້າ ຫຼືບັນຫາສຸຂະພາບຈິດອື່ນ
+- ສັ່ງການສະແກນສະໝອງ ເຊັ່ນ CT ຫຼື MRI
+- ສົ່ງຕໍ່ໄປຫາແພດຜູ້ຊ່ຽວຊານ ເຊັ່ນແພດຜູ້ສູງອາຍຸ ແພດປະສາດ ແພດຈິດຜູ້ສູງອາຍຸ ຫຼືນັກຈິດວິທະຍາປະສາດ
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA ລະບຸວ່າການປະເມີນດ້ານການຮັບຮູ້ເປັນສ່ວນທີ່ຈຳເປັນຂອງການນັດກວດສຸຂະພາບປະຈຳປີ Medicare ເຊິ່ງອາດເປັນເວລາທີ່ເໝາະສົມທີ່ຈະຍົກຄວາມກັງວົນຂຶ້ນ. ແມ່ນແຕ່ການທົດສອບສັ້ນໆທີ່ແພດໃຊ້ກໍບໍ່ພຽງພໍທີ່ຈະວິນິດໄສໂຣກສະໝອງເສື່ອມໄດ້ດ້ວຍຕົວເອງ. ມັນເປັນຂັ້ນຕອນທຳອິດສູ່ການປະເມີນທີ່ຄົບຖ້ວນກວ່າ ແລະການວິນິດໄສອາດໃຊ້ຫຼາຍກວ່າໜຶ່ງການນັດ. NIA ແນະນຳໃຫ້ຜູ້ທີ່ມີບັນຫາຄວາມຈຳກັບໄປພົບແພດທຸກ 6 ຫາ 12 ເດືອນ.
 
-## Raising the subject kindly
+## ການເວົ້າເລື່ອງນີ້ດ້ວຍຄວາມອ່ອນໂຍນ
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+ຖ້າທ່ານເປັນຫ່ວງຄົນອື່ນ ໃຫ້ເລືອກເວລາທີ່ສະຫງົບ ແລະເປັນສ່ວນຕົວ. ເວົ້າກ່ຽວກັບສິ່ງສະເພາະທີ່ທ່ານສັງເກດເຫັນ ໃນຖານະທີ່ເປັນຄວາມເປັນຫ່ວງເລື່ອງສຸຂະພາບ ບໍ່ແມ່ນການວິຈານ. ການແນະນຳໃຫ້ກວດສຸຂະພາບທົ່ວໄປອາດເຮັດໃຫ້ຮູ້ສຶກໜ້າຕົກໃຈໜ້ອຍກວ່າ. ໃຫ້ຄົນນັ້ນມີສ່ວນໃນການຕັດສິນໃຈ ແລະເວົ້າກັບເຂົາເຈົ້າໃນຖານະຜູ້ໃຫຍ່ຄົນໜຶ່ງ. [ຄຳແນະນຳໃນການສື່ສານ](/caregiving/communication-tips/) ຂອງພວກເຮົາອາດຊ່ວຍໄດ້.
 
-## Talk with a doctor
+## ປຶກສາກັບໝໍ
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+ຖ້າທ່ານສັງເກດເຫັນການປ່ຽນແປງໃນຄວາມຈຳ ການຄິດ ອາລົມ ຫຼືຄວາມສາມາດປະຈຳວັນທີ່ເກີດຂຶ້ນໃໝ່ ແລະຍັງດຳເນີນຢູ່ ໃຫ້ນັດພົບແພດປະຖົມ. ສຳລັບຄວາມສັບສົນກະທັນຫັນ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນ ຫຼືຜູ້ໃຫ້ບໍລິການສຸຂະພາບຂອງຄົນນັ້ນທັນທີ. ການໄດ້ຮັບການກວດແຕ່ຕົ້ນໝາຍຄວາມວ່າສາເຫດທີ່ປິ່ນປົວໄດ້ສາມາດຖືກພົບ ແລະຖ້າເປັນໂຣກສະໝອງເສື່ອມ ກໍຈະມີເວລາຫຼາຍຂຶ້ນໃນການວາງແຜນ ແລະຊອກຫາການສະໜັບສະໜູນ. ດູແລຕົວເອງໃນຊ່ວງນີ້ດ້ວຍ ເບິ່ງ[ຄູ່ມືການດູແລຕົນເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/) ຂອງພວກເຮົາ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ໜ້ານີ້ເປັນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ເບິ່ງ[ຄຳປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ.

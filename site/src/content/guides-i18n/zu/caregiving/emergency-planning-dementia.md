@@ -53,7 +53,7 @@ Cabangani ngalokho okungaphazamisa ukwesekwa okujwayelekile komuntu. Uma ehlala 
 
 Lungiselelani isikhwama esincane esilula ukusithwala. Faka imininingwane yokuxhumana yamanje esimweni esiphuthumayo, uhlu lwemithi, ulwazi oluyisisekelo lwezempilo, insimbi yokushaja ucingo, izibuko noma izinsiza zokuzwa uma zidingekile, izingubo ezifanelana nesimo sezulu nento yokududuza ejwayelekile. Engeza izinto zokunyakaza noma zokuxhumana umuntu azithembele kuzo. Hlolani njalo ukuthi izinto zisasebenza ngesikhathi.
 
-Gcinani amaphepha abalulekile endaweni enifinyelela kuyo ngokushesha, kodwaivikeleni ulwazi lomuntu siqu. Buzani umuntu ukuthi yiziphi izinto afisa ukuthi zabelwane futhi nomuntu wani. Umsizi angadinga igama lomuntu, indlela akhetha ukuxhumana ngayo, imininingwane ebalulekile yokuxhumana nolwazi lwemithi, kodwa akadingi wonke amarekhodi abucayi.
+Gcinani amaphepha abalulekile endaweni enifinyelela kuyo ngokushesha, kodwa nivikele ulwazi lomuntu siqu. Buzani umuntu ukuthi yiziphi izinto afisa ukuthi zabelwane futhi nomuntu wani. Umsizi angadinga igama lomuntu, indlela akhetha ukuxhumana ngayo, imininingwane ebalulekile yokuxhumana nolwazi lwemithi, kodwa akadingi wonke amarekhodi abucayi.
 
 Izinto ezingcono kakhulu yilezo umuntu azisebenzisayo ngempela. Iswidi, isithombe, incwadi noma into encane ejwayelekile ingase iduduze kakhulu kunezinto eziningi angazi. Gcinani isikhwama silula ukuthi umuntu angasithwala noma asiphakamise ngokuphephile.
 
@@ -87,7 +87,7 @@ Tshelani abasebenzi bezempilo ngalezo zinguquko ezingazelelwe ekuziphatheni, eku
 
 ## Ngingalondoloza kanjani uhlelo lusebenza?
 
-Buyekezani uhlu loxhumana nabo, ulwazi lwemithi nezinsiza lapho izinhlelo zokunakekelwa zishintsha. Hlolani izinsuku zezinto ezidingekayo nibuyekeze uhlelo emva kokushintsha indawo noma uma kukhona isidingo esisha sokunyakaza. Buzani umuntu ukuthi uhlelo usaluzwa lulungile yini nokuthi ufisa ubani ukuba khona.
+Buyekezani uhlu loxhumana nabo, ulwazi lwemithi nezinsiza lapho izinhlelo zokunakekelwa zishintsha. Hlolani izinsuku zezinto ezidingekayo nibuyekeze uhlelo emva kokushintsha indawo noma uma kukhona isidingo esisha sokunyakaza. Buzani umuntu ukuthi uhlelousazizwa lulungile yini nokuthi ufisa ubani ukuba khona.
 
 Abanakekeli nabo badinga usizo oluyisipele. [Umhlahlandlela wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) unemibono yokucela abanye ukuthi babelane ngosizo. Uhlelo olulula olunabasizi abambalwa abathembekile lungasetshenziswa kalula kunohlu elide abangalibuyekezanga.
 
