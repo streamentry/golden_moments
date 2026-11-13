@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Хоб ва саломатии майна: тадқиқот чӣ нишон медиҳад ва чӣ кӯмак мекунад"
+seoTitle: "Хоб ва деменсия: тадқиқот чӣ нишон медиҳад"
+description: "Тадқиқот дар бораи хоб ва хатари деменсия чӣ нишон медиҳад, чаро тадқиқоти тозакунии майна ҳанӯз ибтидоӣ аст ва одатҳои амалии хоб барои пиронсолон."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Баъзе тадқиқотҳои дарозмуддат хоби кӯтоҳро дар миёнсолӣ бо хатари баландтари деменсия
+  алоқаманд мекунанд ва тадқиқоти озмоишгоҳӣ нишон медиҳад, ки хоб шояд ба майна барои
+  тоза кардани партовҳо кӯмак кунад. Ин далел ҳанӯз ибтидоист ва Комиссияи Лансет дар соли
+  2024 хобро ҳамчун омили тағйирпазири хатар номбар накард. Одатҳои мунтазами хоб ба ҳиссиёти
+  ҳаррӯзаи шумо кӯмак мекунанд. Мушкилоти хоб дар деменсия маъмуланд ва арзиши бо духтур
+  матраҳ карданро доранд.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Тадқиқоти Британияи Кабир, ки тақрибан 8000 нафарро дар тӯли 25 сол пайгирӣ кард, хобидани шаш соат ё камтарро дар миёнсолӣ бо хатари баландтари деменсия алоқаманд кард."
+  - "Тағйироти хоб метавонад нишонаи барвақти деменсия низ бошад, бинобар ин ҷудо кардани сабаб аз натиҷа душвор аст."
+  - "Тадқиқот дар бораи тоза шудани бета-амилоид аз майна ҳангоми хоб воқеист, аммо ибтидоист ва бисёре аз он дар мушҳост."
+  - "Апноэи хоб маъмул, табобатшаванда ва дар тадқиқотҳо бо деменсия алоқаманд аст; хуррокаши баланд ва хоболудӣ дар рӯз арзиши санҷиш дорад."
+  - "Ҳеҷ гоҳ доруи хоб ё воситаи хобовариро бе духтур оғоз накунед, қатъ накунед ва тағйир надиҳед."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Оё хоби бад Алтсгеймерро ба вуҷуд меорад?"
+    a: "Ин нишон дода нашудааст. Баъзе тадқиқотҳо хоби кӯтоҳро бо хатари баландтари деменсия алоқаманд мекунанд, аммо худи деменсия хобро вайрон мекунад, аксар солҳо пеш аз ташхис. Комиссияи Лансет дар соли 2024 далелҳоро барои номбар кардани хоб ҳамчун омили тағйирпазири хатар аз ҳад номувофиқ донист."
+  - q: "Пиронсолон ба чӣ қадар хоб ниёз доранд?"
+    a: "Институти миллии пиршавӣ мегӯяд, ки пиронсолон тақрибан ҳамон қадар, ки калонсолони дигар, дар як шаб 7 то 9 соат ниёз доранд. Бисёр пиронсолон нисбат ба пештара барвақттар мехобанд ва мебарханд, ки ин маъмул аст."
+  - q: "Чаро касе бо деменсия рӯз мехобад ва шаб бедор мешавад?"
+    a: "Деменсия метавонад ба соати бадан таъсир расонад, бинобар ин вақти хоб ва бедорӣ омехта мешавад. Дард, дилгирӣ, гуруснагӣ ё таъсироти иловагии доруҳо низ метавонанд нақш бозанд. Равшании рӯз, фаъолияти ҳаррӯза ва тартиби ороми бегоҳ метавонанд кӯмак кунанд. Духтур метавонад сабабҳои табобатшавандаро ҷустуҷӯ кунад."
+  - q: "Оё ба касе, ки нигоҳубин мекунам, воситаи хобовар диҳам?"
+    a: "Аввал бо духтури ӯ сӯҳбат кунед, аз ҷумла дар бораи маҳсулоти бе нусха. Институти миллии пиршавӣ қайд мекунад, ки баъзе доруҳои хоб метавонанд хатари сархамӣ, афтодан ва парешониро дар одамони дорои Алтсгеймер афзоиш диҳанд."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Хоб ва саломатии майна равшан алоқаманданд, аммо ин алоқа чӣ гуна аст, ҳанӯз ойин ёфта истодааст. Баъзе тадқиқотҳо хоби кӯтоҳро бо хатари баландтари деменсия алоқаманд мекунанд. Деменсия бошад, аксар хобро вайрон мекунад. Ин саҳифа шарҳ медиҳад, ки тадқиқот чиро нишон медиҳад ва чиро не, одатҳои амалии хобро медиҳад ва мушкилоти хобро, ки дар деменсия маъмуланд, фаро мегирад. Он дар бораи доруҳои хоб маслиҳат намедиҳад; ин сӯҳбат ба духтур тааллуқ дорад.
 
-## Is poor sleep linked with dementia?
+## Оё хоби бад бо деменсия алоқаманд аст?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Баъзе тадқиқотҳои дарозмуддат хоби кӯтоҳро бо хатари баландтари деменсия алоқаманд мекунанд, аммо далел қатъӣ нест.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Тадқиқоти 25-солаи Британияи Кабир.** Тадқиқотчиён тақрибан 8000 калонсолро дар [тадқиқоти Уайтҳолл II](https://www.nature.com/articles/s41467-021-22354-2) пайгирӣ карданд. Одамоне, ки дар 50 ё 60-солагӣ шаш соат ё камтар хобиданд, нисбат ба касоне, ки ҳафт соат хобиданд, баъдтар хатари баландтари деменсия доштанд. Одамоне, ки дар 50, 60 ва 70-солагӣ шаш соат ё камтар хобиданд, нисбат ба касоне, ки мунтазам ҳафт соат хобиданд, тақрибан 30% хатари баландтар доштанд. Ин тадқиқоти мушоҳидавӣ буд, бинобар ин он алоқаро нишон медиҳад, на сабабро.
+- **Назари Комиссияи Лансет.** [Комиссияи Лансет дар соли 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) хобро ба рӯйхати 14 омили тағйирпазири хатар илова накард. Он далелҳоро кофӣ мувофиқ надонист. Як сабаб «сабабияти баръакс» аст: тағйироти майна аз деменсия солҳо пеш аз ташхис оғоз мешаванд ва метавонанд хобро халалдор кунанд. Дар як тадқиқоти калон алоқаи байни хоби дароз ва деменсия баъд аз он, ки панҷ соли аввали пайгирӣ ба ҳисоб гирифта нашуд, нопадид шуд.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Пас як шаби кӯтоҳ гоҳ-гоҳ сабаби ташвиш нест. Ба хоби мунтазам ва босифат кӯшидан арзанда аст, зеро он имрӯз ба кайфият, ҳушёрӣ ва бехатарӣ кӯмак мекунад.
 
-## What is the "brain-clearing" sleep research?
+## Тадқиқоти «тозакунии майна» ҳангоми хоб чист?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Шояд хонда бошед, ки хоб майнаро «тоза мекунад». Ин ғоя аз тадқиқоти воқеӣ омадааст, аммо ҳанӯз ибтидоист.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Дар мушҳо.** Як тадқиқоти соли 2013, ки [NIH тавсиф кардааст](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), ёфт, ки фазои байни ҳуҷайраҳои майна вақте мушҳо мехобиданд, тақрибан 60% васеъ шуд. Моеъ аз майна осонтар мегузашт, тавассути чизе, ки тадқиқотчиён системаи глимфатикӣ меноманд. Бета-амилоид, сафеда, ки бо Алтсгеймер алоқаманд аст, аз майнаи мушҳои хобида зудтар тоза мешуд.
+- **Дар одамон.** Як [тадқиқоти хурди соли 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) 20 калонсоли солимро аз 22 то 72-сола пас аз як шаби муқаррарӣ ва пас аз як шаби бехобӣ сканер кард. Пас аз шаби бехобӣ сигнали скани майна барои бета-амилоид дар минтақае, аз ҷумла гиппокамп, ки барои хотира муҳим аст, тақрибан 5% зиёд шуд. Муаллифон инро далели ибтидоӣ номиданд. Онҳо намедонистанд, ки оё тағйирот пас аз истироҳат аз байн меравад ё он тозашавии суст ё истеҳсоли бештари амилоидро нишон медиҳад.
+- **Он ду тарафа кор мекунад.** Комиссияи Лансет қайд мекунад, ки ҷамъшавии амилоид худ метавонад хобро дар пиронсолон халалдор кунад.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ин ёфтаҳо шарҳ медиҳанд, ки чаро тадқиқотчиён ба хоб таваҷҷӯҳ доранд. Онҳо нишон намедиҳанд, ки хоби беҳтар Алтсгеймерро пешгирӣ мекунад.
 
-## What sleep habits may help?
+## Кадом одатҳои хоб метавонанд кӯмак кунанд?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Тибқи [Институти миллии пиршавӣ (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults), пиронсолон ба тақрибан 7 то 9 соат хоб дар як шаб ниёз доранд, мисли калонсолони дигар. Тавсияҳои он инҳоянд:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Ҷадвали мунтазамро нигоҳ доред.** Ҳар рӯз дар як вақт хобед ва бархезед, ҳатто дар рӯзҳои истироҳат.
+- **Тартиби оромшавӣ созед.** Пеш аз хоб китоб хонед, мусиқии ороми гӯш кунед ё оби гарм гиред.
+- **Ҳуҷраи хобро бароҳат кунед,** на хеле гарм ва на хеле хунук.
+- **Кофеинро дар охири рӯз маҳдуд кунед.** Қаҳва, чой, нӯшокии газдор ва шоколад метавонанд шуморо бедор нигоҳ доранд.
+- **Аз машрубот худдорӣ кунед,** ҳатто миқдори андак, тавсия медиҳад NIA.
+- **Аз хӯрокҳои калон дар давоми ду то се соати пеш аз хоб худдорӣ кунед** ва аз нӯшокиҳои зиёд дар охири рӯз.
+- **Мунтазам машқ кунед, аммо на дар давоми 3 соати пеш аз хоб.** [Роҳнамои машқи мо](/brain-health/exercise/)-ро бинед.
+- **Экранҳоро аз ҳуҷраи хоб дур нигоҳ доред.** NIA тавсия медиҳад, ки дар он ҷо телевизор тамошо накунед ва компютер, телефон ё планшет истифода набаред.
+- **Аз хобҳои нисфирӯзӣ ё бегоҳӣ худдорӣ кунед,** агар тавонед.
 
-## Sleep problems in dementia
+## Мушкилоти хоб дар деменсия
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Тағйироти хоб дар деменсия маъмул аст. [NIA номбар мекунад](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease), ки бисёр хобидан ё хеле кам хобидан, шаб борҳо бедор шудан ва рӯз бисёр хобидан. Он инчунин мушкили бегоҳиро тавсиф мекунад: беқарорӣ, изтироб ё парешонӣ, ки бо кам шудани равшании рӯз оғоз мешавад ё бадтар мегардад.
 
-Caregiver tips from the NIA include:
+Маслиҳатҳои NIA барои нигоҳубинкунандагон:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Равшании рӯз ва ҳаракатро барвақт гиред.** Дар рӯз ба берун бароед ё назди тиреза биншинед ва ба шахс кӯмак кунед, ки ҳар рӯз фаъол бошад. Нури равшан шояд ба танзими соати бадан кӯмак кунад.
+2. **Фаъолиятҳои пурқувватро барои субҳ банақша гиред.** Кӯшиш кунед, ки субҳ оббозӣ кунед ё калонтарин хӯрокро нисфирӯзӣ хӯред.
+3. **Хобҳои рӯзонаро кӯтоҳ ва барвақт нигоҳ доред.** Хоби нимхобро дар охири рӯз маҳдуд кунед.
+4. **Бегоҳро ором кунед.** Равшаниро паст кунед, садоро кам кунед ва агар шахс дӯст дорад, мусиқии ором гузоред. Роҳнамои мо оид ба [беқарории охири рӯз](/caregiving/late-day-restlessness/) ғояҳои бештар дорад.
+5. **Тартиби устувори хобро нигоҳ доред.** Ҳар шаб дар як вақт бо овози баланд хондан як мисоли NIA аст. [Тартиби устувори ҳаррӯза](/activities/daily-routine/) низ кумак мекунад.
+6. **Кофеин ва машруботро маҳдуд кунед.**
+7. **Чароғҳои шабона истифода баред** дар ҳуҷраи хоб, долон ва ҳаммом.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Барои бедоршавии шабона [маслиҳатҳои бехатарии хонаи](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) NIA чароғҳои шабона ё ҳассосҳои худкори рӯшноӣ, дастгирҳо дар ҳаммом, лентаи рангоранг дар лабҳои зинапояҳо ва нигоҳ доштани доруҳо дар ҷои қуфлдорро дар бар мегиранд.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Фаъолияти кӯтоҳи ором дар бегоҳ метавонад ба ҳардуи шумо барои оромӣ кӯмак кунад. Таваққуфи оҳистаи [Нафаскашии ором](/games/calm-breathing/) ё чанд [Кортҳои гуфтугӯ](/games/conversation-cards/)-и ором кӯшиш кунед. Аз ҳар чизи ҳаяҷонбахш дар наздикии хоб худдорӣ кунед ва вақте шахс кифоя дошт, бас кунед.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Хоби вайроншуда нигоҳубинкунандагонро низ хаста мекунад. [Роҳнамои худнигоҳубинии нигоҳубинкунандагони мо](/caregiving/caregiver-self-care/) роҳҳои истироҳат ва кӯмак гирифтанро дар бар мегирад.
 
-## What about sleep apnea?
+## Апноэи хоб чӣ?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Апноэи хоб боиси таваққуфҳои кӯтоҳи нафас ҳангоми хоб мешавад, аксар борҳо дар як шаб. NIA мегӯяд, ки агар он табобат нашавад, метавонад ба мушкилот, аз қабили фишори баланди хун, сакта ё гум кардани хотира оварда расонад. Нишонаҳо хуррокаши баланд ва хоболудӣ дар рӯзро дар бар мегиранд ва бисёр одамон намедонанд, ки онро доранд. Комиссияи Лансет шарҳи 11 тадқиқотро тавсиф мекунад, ки дар онҳо одамони дорои апноэи хоб тақрибан 43% хатари баландтари деменсия доштанд. Аммо камтар аз ин тадқиқотҳо вазнро ба ҳисоб гирифтанд, бинобар ин алоқа номуайян аст.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Апноэи хобро ташхис ва табобат кардан мумкин аст. NIA қайд мекунад, ки дастгоҳи CPAP қариб ҳамеша кӯмак мекунад. Агар шумо ё касе, ки нигоҳубин мекунед, баланд хуррок мекашад, ҳангоми хоб нафас қатъ мекунад ё рӯз хеле хоболуд аст, ба духтур бигӯед.
 
-## A note about sleep medicines
+## Дар бораи доруҳои хоб
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Мо дар бораи доруҳо ё иловаҳои хоб маслиҳат намедиҳем. NIA қайд мекунад, ки доруҳои хоб шояд барои муддати кӯтоҳ кумак кунанд, аммо шифои бехобӣ нестанд. Он инчунин қайд мекунад, ки баъзе доруҳое, ки барои хобидани одамони дорои Алтсгеймер дода мешаванд, метавонанд хатари сархамӣ, афтодан ва парешониро афзоиш диҳанд. Бе сӯҳбат бо духтур ё доруфурӯш ягон доруи хобро, аз ҷумла воситаҳои хобовари бе нусха, оғоз накунед, қатъ накунед ва тағйир надиҳед.
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Ба духтур муроҷиат кунед, агар шумо ё шахсе, ки нигоҳубин мекунед, ҳамеша хаста аст, аксар шабҳо бо хоб мушкил дорад, баланд хуррок мекашад ё шаб таваққуфи нафас дорад. Агар мушкилоти хоб дар деменсия идома ёбанд, [NIA тавсия медиҳад](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning), ки маслиҳати тиббӣ гиред. Муоина метавонад сабабҳоро ёбад, аз қабили дард, ихтилоли дигари хоб, беморӣ ё таъсири иловагии дору. Парешонии ногаҳонӣ ё тағйири ногаҳонии хоб дар баробари парешонӣ нигоҳубини фавриро талаб мекунад. [Кай ба духтур муроҷиат кардан лозим](/brain-health/warning-signs/)-ро хонед.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ин саҳифа маълумоти умумист, на маслиҳати тиббӣ. [Огоҳиномаи тиббии мо](/medical-disclaimer/)-ро бинед.
