@@ -10,12 +10,12 @@ summary: >-
   Hlelani izimo eziphuthumayo ngokusekelwe ezidingweni zomuntu zokuxhumana, ukunyakaza, imithi nokududuzeka. Khethani abasizi abangaphezu kwabodwa, lungisani isikhwama esincane bese nazi lapho kutholakala khona iziqondiso zendawo zokufuna indawo yokuphephela noma ukukhishwa.
 keyPoints:
   - "Hlelani kanye nomuntu futhi nibize okungenani omunye umsizi omethembekile."
-  - "Gcinani isikhwama esincane esinoxhumano olubalulekile, uhlu lwemithi, izinsimbi zokushaja nezinto ezinikeza induduzo."
+  - "Gcinani isikhwama esincane esinoxhumano olubalulekile, uhlu lwemithi, amashaji ocingo nezinto ezinikeza induduzo."
   - "Buzani ikhaya lokunakekela noma uhlelo lwansuku ngohlelo lwalo lokukhishwa endaweni."
   - "Landelani iziqondiso zezimo eziphuthumayo zendawo bese nifuna usizo lwezokwelapha ngokushesha uma kudideka ngokuzumayo."
 faq:
   - q: "Yini okufanele ngiyifake esikhwameni sezimo eziphuthumayo somuntu onedementia?"
-    a: "Cabangani ngohlu lwemithi lwamanje, imininingwane ebalulekile yokuxhumana, izinsimbi zokushaja, izibuko noma izinsiza zokuzwa, izinsiza zokunyakaza ezidingekayo, izingubo ezijwayelekile nento yokududuza. Gcinani izinto nemibhalo endaweni enifinyelela kuyo ngokushesha nangokuphephile."
+    a: "Cabangani ngohlu lwemithi lwamanje, imininingwane ebalulekile yokuxhumana, amashaji ocingo, izibuko noma izinsiza zokuzwa, izinsiza zokunyakaza ezidingekayo, izingubo ezijwayelekile nento yokududuza. Gcinani izinto nemibhalo endaweni enifinyelela kuyo ngokushesha nangokuphephile."
   - q: "Ngingalungiselela kanjani ukukhishwa endaweni?"
     a: "Hlonzani ukuthi ubani angasiza, umuntu uzohamba kanjani nalapho ningahamba khona. Buzani amasevisi noma izinhlangano zasendaweni ngezindlela ezitholakalayo kubantu abadinga usizo, bese nilandela iziqondiso zazo zamanje."
   - q: "Yini uma ningekho ngesikhathi sesimo esiphuthumayo?"
@@ -51,7 +51,7 @@ Cabangani ngalokho okungaphazamisa ukwesekwa okujwayelekile komuntu. Uma ehlala 
 
 ## Yiluphi ulwazi nezinto okufanele ngigcine ngilungele?
 
-Lungiselelani isikhwama esincane esilula ukusithwala. Faka imininingwane yokuxhumana yamanje esimweni esiphuthumayo, uhlu lwemithi, ulwazi oluyisisekelo lwezempilo, insimbi yokushaja ucingo, izibuko noma izinsiza zokuzwa uma zidingekile, izingubo ezifanelana nesimo sezulu nento yokududuza ejwayelekile. Engeza izinto zokunyakaza noma zokuxhumana umuntu azithembele kuzo. Hlolani njalo ukuthi izinto zisasebenza ngesikhathi.
+Lungiselelani isikhwama esincane esilula ukusithwala. Faka imininingwane yokuxhumana yamanje esimweni esiphuthumayo, uhlu lwemithi, ulwazi oluyisisekelo lwezempilo, amashaji ocingo, izibuko noma izinsiza zokuzwa uma zidingekile, izingubo ezifanelana nesimo sezulu nento yokududuza ejwayelekile. Engeza izinto zokunyakaza noma zokuxhumana umuntu azithembele kuzo. Hlolani njalo ukuthi izinto zisasebenza ngesikhathi.
 
 Gcinani amaphepha abalulekile endaweni enifinyelela kuyo ngokushesha, kodwa nivikele ulwazi lomuntu siqu. Buzani umuntu ukuthi yiziphi izinto afisa ukuthi zabelwane futhi nomuntu wani. Umsizi angadinga igama lomuntu, indlela akhetha ukuxhumana ngayo, imininingwane ebalulekile yokuxhumana nolwazi lwemithi, kodwa akadingi wonke amarekhodi abucayi.
 

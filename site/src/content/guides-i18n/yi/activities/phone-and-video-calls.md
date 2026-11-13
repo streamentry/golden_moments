@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "טעלעפֿאָן- און װידעאָ-רופֿן-אַקטיװיטעטן פֿאַר אַ מענטש מיט דעמענץ"
+seoTitle: "װידעאָ-רופֿן-אַקטיװיטעטן פֿאַר דעמענץ"
+description: "װידעאָ- און טעלעפֿאָן-רופֿן פֿאַר ווײַטע משפּחה: װײַזן, פֿאָרלײענען, זינגען, שפּילן אויף אַ געמײנזאַמען עקראַן און עצות פֿאַר העלפֿער."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  רופֿן מיט אַ מענטש װאָס לעבט מיט דעמענץ גײען בעסטן ווען זײ זענען קורץ, רעגולער
+  און געבויט אַרום עפּעס צו טאָן צוזאַמען, אַזױ װי װײַזן אַ הונט אָדער גאָרטן,
+  קוקן אױף פֿאָטאָס, פֿאָרלײענען, זינגען אַ באַליבט ליד אָדער שפּילן אַ זאַנפֿט שפּיל
+  אױף אַ געמײנזאַמען עקראַן. רופֿט צו דער זעלבער צײַט יעדן טאָג, לאָזט נאָר איין
+  שטימע אין אַ מאָל, און בעט אַ העלפֿער אױף דער אָרט צו הילף.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "אַ אַקטיװיטעט גיט דעם רופֿ אַ פֿאָרם און נעמט אַװעק דעם דרוק פֿון שמועס. פּלאַנירט איין פּשוטע זאַך צו טיילן."
+  - "קורצע, רעגולערע רופֿן צו דער זעלבער צײַט פֿון טאָג אַרבעטן אָפֿט בעסער װי לאַנגע, סעלטענע."
+  - "איינער רעדט אַ מאָל. גרופּע-רופֿן מיט צונױפֿגעמישטע רייד זענען שװער צו פֿאָלגן, בפֿרט מיט געהער-פֿאַרלוסט."
+  - "אַ העלפֿער אױף דער אָרט קען אײַנשטעלן דעם אַפּאַראַט, זיצן נעבן דעם מענטש, און זײַן די הענט פֿאַר אַ שפּיל אָדער אַ פֿאָטאָ."
+  - "אויב אַ רופֿ גייט נישט גוט הײַנט, ענדיקט אים מיט װאַרעמקייט. מאָרגן װידער צו פּרוּװן איז אין אָרדענונג."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "װאָס קען איך טאָן אויף אַ װידעאָ-רופֿ מיט אַ מענטש מיט דעמענץ?"
+    a: "פּלאַנירט איין פּשוטע אַקטיװיטעט: װײַזט אײַער גאָרטן, הונט אָדער קיך; קוקט צוזאַמען אויף אַלטע פֿאָטאָס; לײענט פֿאָר אַ קורצע פּאָעמע אָדער בריװ; זינגט אַ ליד װאָס ער האָט ליב; קאָכט דאָס זעלבע רעצעפּט צו דער זעלביקער צײַט; אָדער שפּילט אַ זאַנפֿט בילד-שפּיל אויף אַ געמײנזאַמען עקראַן. אַקטיװיטעטן געבן דעם רופֿ אַ פֿאָקוס, אַזױ אַז דער מענטש דאַרף נישט טראָגן דעם גאַנצן שמועס."
+  - q: "װי לאַנג זאָל אַ װידעאָ-רופֿ זײַן?"
+    a: "געװײנטלעך קירצער װי איר טראַכט. עטלעכע װאַרעמע מינוטן קענען זײַן גענוג, בפֿרט אויב דער מענטש װערט גיך מיד. רופֿן רעגולער צו דער זעלבער צײַט פֿון טאָג קען מער באַטײַטן װי װי לאַנג יעדער רופֿ דויערט."
+  - q: "װאָס אויב זײ װערן פֿאַרװירט אָדער אויפֿגערעגט פֿון װידעאָ-רופֿן?"
+    a: "עטלעכע מענטשן געפֿינען אַ פּנים אויף אַ עקראַן פֿאַרװירנדיק. פּרוּװט אַ פּשוטן טעלעפֿאָן-רופֿ, אַ פֿאַרנומענע װידעאָ-באַשיידן װאָס דער העלפֿער קען שפּילן אין אַ רויִקן מאָמענט, אָדער קאַרטלעך און פֿאָטאָס אין דער פּאָסט. אויב אַ רופֿ גייט שלעכט, ענדיקט אים פֿריינדלעך און פּרוּװט אַ צװייטן טאָג אָדער אַן אַנדער צײַט."
+  - q: "װי קען איך העלפֿן מײַן מאַמע צו רופֿן מיט װידעאָ, װען זי קען נישט ניצן דאָס טעלעפֿאָן?"
+    a: "בעט אַ משפּחה-מיטגליד, אַ היים-העלפֿער אָדער אַ פּערסאָנאַל פֿון אַ זאָרג-אָרט צו הײבן דעם רופֿ און האַלטן אָדער שטיצן דעם אַפּאַראַט. פֿרעגט װאָס די זאָרג-אָרטן פֿאָרשלאָגן, װײַל פֿיל פֿון זײ העלפֿן משפּחות מיט װידעאָ-רופֿן. אַ טאַבלעט אויף אַ שטענדער, אײַנגעשטעלט אויף אַ גרױסן עקראַן און לאַוט גענוג צו הערן, מאַכט עס גרינגער פֿאַר אַלעמען."
+  - q: "קענען מיר שפּילן אַ שפּיל צוזאַמען מיט װידעאָ?"
+    a: "יאָ. דער גרינגסטער װעג איז אַז איינער פֿון אײַך טיילן דעם עקראַן אין דער װידעאָ-אַפּ, בשעת דער צװײטער זאָגט אים װעלכן בילד צו קלײבן. אָדער דער העלפֿער אויף דער אָרט קען עפֿענען דאָס זעלבע שפּיל אויף אַ טאַבלעט און טאַפּן פֿאַר דעם מענטש, בשעת איר רעדט מיט אים דורך דעם שפּיל. קלײבט שפּילן אָן טײמער און אָן פּונקטן."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+ווײַט פֿון אַ מענטש מיט דעמענץ צו לעבן קען מאַכן אַ געפֿיל פֿון אומהילף. טעלעפֿאָן- און װידעאָ-רופֿן װעלן נישט פֿאַרנעמען דעם אָרט פֿון אַ אַרומנעמען, אָבער זײ קענען נאָך ברענגען אמתע מאָמענטן פֿון פֿאַרבינדונג, אויב איר שטעלט זײ גוט אויף. דער טריק איז צו אויפֿהערן פּרוּװן אַ נאָרמאַלן שמועס און אַנשטאָט פּלאַנירן עפּעס פּשוטס צו טיילן. דער דאָזיקער זײַטל דעקט אָן אַקטיװיטעטן װאָס אַרבעטן אויף װידעאָ און טעלעפֿאָן, װי מען שטעלט אויף דעם רופֿ, און װאָס דער מענטש אויף דער אָרט קען טאָן צו העלפֿן.
 
-## Why plan an activity for a call?
+## פֿאַרװאָס פּלאַנירן אַן אַקטיװיטעט פֿאַר אַ רופֿ?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+אַ אַקטיװיטעט גיט דעם רופֿ אַ פֿאָרם. „װי גײט עס מיט אײַך? װאָס האָט איר הײַנט געטאָן?“ פֿרעגט דעם מענטש צו געדענקען און באַריכטן, װאָס קען זײַן שװער און שטרעסיק. „קוקט, די טאָמאַטן זענען ריף“ פֿאָדערט גאָר גאָרנישט פֿון אים.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+די Alzheimer's Association באַמערקט אַז שמועסן מיט גרעסערע גרופּעס איבער װידעאָ קען זײַן שװער, און רעקאָמענדירט [צו לייגן סטרוקטור צום רופֿ](https://www.alz.org/help-support/caregiving/holidays) מיט זאַכן װי זינגען לידער אָדער װײַזן בילדער.
 
-## What activities work on a video call?
+## װאָס פֿאַר אַקטיװיטעטן װירקן אויף אַ װידעאָ-רופֿ?
 
-### Show and tell
+### װײַזן און דערצײלן
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+ברענגט אײער װעלט צו זײ. פֿירט די קאַמעראַ לאַנגזאַם אַרום אײַער גאָרטן, שטעלט פֿאָר דעם הונט, װײַזט װאָס איר קאָכט, האַלט אַרױף אַ ציכענונג פֿון אַ אייניקל, אָדער װײַזט דעם טעלעפֿאָן צום פֿענצטער אויף דעם שניי. באַשרײַבט װאָס איר זעט מיט פּשוטע װערטער און לאָזט פּויזן פֿאַר זייערע רעאַקציעס. קיין פֿראַגעס נייטיק.
 
-### Look at photos together
+### קוקן צוזאַמען אויף פֿאָטאָס
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+האַלט אַ אַלטן אָפּדרוק צו דער קאַמעראַ, אָדער טיילט אײער עקראַן צו װײַזן עטלעכע גרױסע פֿאָטאָס איינס נאָך דעם אַנדערן. רעדט װעגן װאָס איר באַמערקט: „קוקט אויף זיידנס הוט.“ מײַדט „װער איז דאָס?“ אָדער „געדענקט איר?“ אויב דער מענטש נענט עמעצן פֿאַלש, גייט מיט אים. זעט אונדזער [אָנדענק-װעגװײַזער](/activities/reminiscence/) פֿאַר זאַנפֿטע אויפֿפֿאָדערונגען.
 
-### Read aloud
+### פֿאָרלײענען
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+לײענט פֿאָר אַ קורצע פּאָעמע, אַ תהילים, אַ ליב-געהאַט קינדער-בוך צו אַ אייניקל אויף דער זעלביקער רופֿ, אַ בריװ פֿון אַ קרוב, אָדער אַ בלאַט פֿון אַ בוך װאָס זיי האָבן ליב. פֿאָרלײענען גיט דעם מענטש עפּעס רויִקס צו הערן, אָן נייטיק צו ענטפֿערן.
 
-### Sing or listen to music together
+### זינגען אָדער הערן מוזיק צוזאַמען
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+זינגט אַ ליד װאָס זיי קענען גוט, אָדער שפּילט אַ ליב-געהאַטע פּלאַטע אויף אײער זײַט. מיטזינגען איז פֿאַר פֿיל מענטשן לײַכטער װי רעדן. זעט אונדזער [מוזיק-אַקטיװיטעטן-װעגװײַזער](/activities/music/).
 
-### Cook or bake at the same time
+### קאָכן אָדער באַקן צוזאַמען
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+די Alzheimer's Association רעקאָמענדירט צו פּלאַנירן אַ װידעאָ-רופֿ צו קאָכן אָדער באַקן אַ ספּעציעל רעצעפּט צוזאַמען. שטעלט דעם רופֿ אײַן אין ביידע קיכנס. דער העלפֿער אויף דער אָרט קען רירן אָדער פּרוּװן, בשעת איר פֿאָלגט זייער אַלטער רעצעפּט-קאַרטע.
 
-### Watch something together
+### קוקן עפּעס צוזאַמען
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+די Association רעקאָמענדירט אויך צו קוקן אַ באַליבטן פֿילם צו דער זעלביקער צײַט פֿון באַזונדערע הײמען, בשעת מען רעדט דורך טעלעפֿאָן אָדער װידעאָ. פֿאַר אַ מענטש מיט דעמענץ קען אַ קורצער קליפּ, אַ אַלטע טעלעװיזיע-פֿאָלגע אָדער אַ באָל-שפּיל בעסער פּאַסן װי אַ גאַנצער פֿילם.
 
-### Play a gentle game on a shared screen
+### שפּילן אַ זאַנפֿט שפּיל אויף אַ געמײנזאַמען עקראַן
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+פֿיל װידעאָ-רופֿ-אַפּס לאָזן אײַך טיילן אײער עקראַן. איר עפֿנט דאָס שפּיל און טאַפּט; דער מענטש זאָגט אײַך אָדער װײַזט װעלכן בילד צו קלײבן. אָדער דער העלפֿער אויף דער אָרט עפֿנט דאָס זעלבע שפּיל אויף אַ טאַבלעט און טאַפּט פֿאַר אים, בשעת איר רעדט מיט אים.
 
-Games that work well this way:
+שפּילן װאָס אַרבעטן גוט אױף דעם װעג:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[ענדיקט די רעדעװנדונג](/games/finish-the-saying/):** איר לייענט די באַקאַנטע רעדעװנדונג, ער זאָגט דאָס ענדע, און אַ רעדן-אָנצײכן קומט נאָך.
+- **[בילד-פּאָרן](/games/picture-pairs/):** אַ זאַנפֿט פּאָרן-שפּיל מיט גרױסע בילדער װאָס קענען בלײַבן זיכטבאַר, אָן טײמער און אָן פּונקטן.
+- **[שמועס-קאַרטלעך](/games/conversation-cards/):** אַ בילד און אַ אָפֿענע פֿראַגע צו רעדן װעגן צוזאַמען.
+- **[פֿאָטאָ-פּאָרן](/games/photo-pairs/):** אַ פּאָרן-שפּיל געמאַכט פֿון פֿאָטאָס װאָס איר קלײבט אויף אײַער אייגענעם מיטל. די פֿאָטאָס בלײַבן אין אײַער בראַװזער, און דער מענטש זעט זײ דורך אײַער געמײנזאַמען עקראַן.
 
-### Recorded messages
+### אויפֿגענומענע נאַכריכטן
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+װען װידעאָ-רופֿן זענען שװער, נעמט אויף אַ קורצע װידעאָ: אַ גרוס, אַ ליד, אַ שפּאַציר איבער אײער הויף. דער העלפֿער קען עס אָפּשפּילן אין אַ רויִקן מאָמענט, אַ סך מאָל װי דער מענטש האָט עס ליב. די Alzheimer's Association דערמאָנט אויפֿנעמען און שיקן ספּעציעלע מאָמענטן, װי קינדער װאָס עפֿענען מתנות.
 
-## What about plain phone calls?
+## װאָס װעגן פּשוטע טעלעפֿאָן-רופֿן?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+טעלעפֿאָן-רופֿן זענען נאָך װיכטיק. Dementia Australia רעקאָמענדירט [צו רופֿן צו דער זעלביקער צײַט יעדן טאָג](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) און נישט צו אײַלן, װײַל מענטשן מיט דעמענץ קענען נעמען צײַט צו זיך אַרײַנצופֿירן. בײַם טעלעפֿאָן:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- זאָגט גלײַך אײַער נאָמען און פֿאַרבינדונג: „הײ טאַטע, דאָס איז יענטע, דײַן טאָכטער.“
+- רעדט לאַנגזאַם, מיט קורצע זאַצן, איין געדאַנק אין אַ מאָל.
+- גיט נײַעס אַנשטאָט צו פֿרעגן: „איך האָב נעכטן געמאַכט דײַן פּאָט-ראָסט-רעצעפּט.“
+- לײענט אַ קורצע פּאָעמע, אָדער זינגט אַ פֿערזל פֿון אַ ליב-געהאַט ליד.
+- האַלט עס קורץ און ענדיקט מיט אַ װאַרמען טאָן.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia באַמערקט אויך אַז װידעאָ-רופֿן קענען העלפֿן ווען רעדן װערט שװערער, װײַל דער מענטש קען זען אײַער פּנים. אויב טעלעפֿאָן-רופֿן װערן פֿאַרװירנדיק, פּרוּװט װידעאָ, אָדער דאָס פֿאַרקערטע.
 
-## How do I set up a video call that works?
+## װי מאַכט מען אַ װידעאָ-רופֿ װאָס אַרבעט?
 
-**Before the call:**
+**פֿאַר דעם רופֿ:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **קלײבט אַ רעגולער צײַט** װען דער מענטש איז געװײנטלעך אויסגערוט, און האַלט זיך דערצו. אַ רוטין העלפֿט.
+2. **רעדט אָפּ מיט דעם העלפֿער אויף דער אָרט.** אַ טעקסט דעם טאָג פֿריער העלפֿט זיי צו פּלאַנירן.
+3. **קאָנטראָלירט דעם אַפּאַראַט.** אַ טאַבלעט אויף אַ שטענדער איז גרינגער װי אַ טעלעפֿאָן װאָס מען האַלט אין דער האַנט. זאָרגט אַז עס איז אָפּגעלאָדן, דער עקראַן איז העל, און דער קול איז גענוג לאַוט. שטעלט אָן אונטערשריפֿטן, אויב די אַפּ פֿאַרשלאָגט זײ און דער מענטש לייענט גוט.
+4. **פּלאַנירט איין אַקטיװיטעט** און האַלט אַלץ גרײט.
 
-**During the call:**
+**בשעת דעם רופֿ:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **זיצט נאָענט צו דער קאַמעראַ** אין גוטער ליכט, מיט דעם פּנים צו אַ פֿענצטער און נישט מיט אַ פֿענצטער הינטער אײַך.
+- **שטעלט אײַך פֿאָר** יעדעס מאָל, מיט נאָמען און פֿאַרבינדונג.
+- **איין קול אין אַ מאָל.** די Alzheimer's Association באַמערקט אַז צונױפֿגעמישטע רייד איז שװער פֿאַר מענטשן װאָס לעבן מיט דעמענץ און פֿאַר מענטשן מיט געהער-פֿאַרלוסט. װען עטלעכע קרובים קומען אַרײַן, נעמט טורן אָדער האַלט עס בײַ צװײ אָדער דרײַ מענטשן.
+- **שטעלט איין פֿראַגע אין אַ מאָל.** Family Caregiver Alliance רעקאָמענדירט [פּשוטע פֿראַגעס מיט יאָ-אָדער-ניין-ענטפֿערן](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), און װײַזן אָפּציעס װען איר קענט.
+- **לאָזט לאַנגע שטילקייטן.** װאַרט אויף אַן ענטפֿער. עס איז גוט צו פֿאָרשלאָגן אַ װאָרט װען ער זוכט.
+- **ניצט אײער פּנים און קול.** לאַכט, נײגט מיט דעם קאָפּ און האַלט דעם טאָן װאַרעם. דער אויסדרוק זאָגט אָפֿט מער װי װערטער.
+- **קערט נישט אום.** אויב דער מענטש זאָגט עפּעס װאָס איז נישט גענױ, לאָזט עס זײַן.
 
-**Ending the call:**
+**צום ענדיקן דעם רופֿ:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- ענדיקט פֿאַר דעם מענטש װערט מיד, בעסטנס מיט אַ פֿרײלעכער נאָטע.
+- ניצט דעם זעלבן אָפּשײד יעדעס מאָל: „איך רוף דיך מאָרגן צו מיטאָג. איך האָב דיך ליב.“
+- **ציט עס נישט אויס.**
 
-## Tips for the helper on site
+## טיפּס פֿאַר דעם העלפֿער אויף דער אָרט
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+װאָס איר זענט דער מאַן אָדער די פֿרוי, אַ העלפֿער, אַ ברודער אָדער אַ שװעסטער אָדער אַ פּערסאָנאַל-מיטגליד װאָס העלפֿט מיט דעם רופֿ, מאַכט איר עס מעגלעך.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **שטעלט אָפּ אַן אָרט װוּ עס איז שטיל.** שטעלט אָפּ דעם טעלעװיזאָר און מאַכט די טיר צו.
+- **הײבט דעם רופֿ אָן אײַך אַליין,** און דערנאָך גיט דעם מענטש די טאַבלעט אויף אַ שטענדער, אָדער האַלט עס אויף דער הײך פֿון די אויגן.
+- **זיצט לעבן זיי, נישט פֿאַרן.** אײער אָנװעזנהײט איז באַרויִקנדיק. אויב נייטיק, דריקט אַ ביסל צו: „קוקט, עס איז יענטע.“
+- **זײט די הענט.** האַלט אויף פֿאָטאָס, טאַפּט דאָס שפּיל, דרייט דעם טאַבלעט װײַזן דעם צימער.
+- **קוקט נאָך אויף מידקייט אָדער אויפֿרעגונג,** און לאָזט דעם רופֿער װיסן װען עס איז צײַט צו ענדיקן.
+- **זאָגט דעם רופֿער װאָס האָט געאַרבעט.** „זי האָט ליב געהאַט דעם הונט“ העלפֿט פּלאַנירן דעם װײַטערדיקן רופֿ.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+דער NIA רעקאָמענדירט אַז װײַט װױנענדיקע קרובים קענען העלפֿן אַ עלטערן מענטש [לערנען די פֿיטשערס פֿון זײַן טעלעפֿאָן](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), אַזױ װי װידעאָ-רופֿן. אין שפּעטערע סטאַדיעס װעט דער העלפֿער געװײנטלעך דאַרפֿן פֿירן דעם אַפּאַראַט גאָר. דאָס איז אָנגענעם.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+אויב דער מענטש לעבט אין אַ זאָרג-הײם, פֿאָרשלאָגט די Alzheimer's Foundation of America צו פֿרעגן צי דער אָרט העלפֿט משפּחות מיט װידעאָ-שמועסן. די AFA דערמאָנט אויך משפּחות װאָס שיקן פֿאָטאָס הין און צוריק מיט דעם פּערסאָנאַל, און שיקן באַליבטע סנאַקס אָדער קלענערע טרייסטן, נאָך דעם װי מען קאָנטראָלירט װאָס דער אָרט דערלויבט.
 
-## What if the call doesn't go well?
+## װאָס אויב דער רופֿ גייט נישט גוט?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+עטלעכע רופֿן װעלן זײַן פֿאַרװירט, פֿלאַך אָדער אומרויִק. דאָס איז נישט אײער שולד, און עס מיינט נישט אַז רופֿן זענען נישט װערט.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- אויב דער מענטש װירקט פֿאַרלוירן זיך פֿון דעם עקראַן, שאַלט אום צו אַ טעלעפֿאָן-רופֿ אָדער אַ דרוקבאַרער באַשיידן.
+- אויב זײ װערן אויפֿגערעגט, דערקענט דאָס געפֿיל, זאָגט עפּעס באַרויִקנדיקס און ענדיקט זאַנפֿט.
+- אויב רופֿן גײען אָפֿט שלעכט אין איין צײַט פֿון טאָג, פּרוּװט אַן אַנדערע צײַט.
+- אויב זײ מײנען אַז איר זענט עמעצער אַנדערער, גײט מיט עס פֿריינדלעך.
 
-It is fine to end early. A short, warm call is a good outcome.
+עס איז גוט צו ענדיקן פֿרי. אַ קורץ, װאַרעם רופֿ איז אַ גוטער רעזולטאַט.
 
-## Between calls
+## צװישן די רופֿן
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+בלײַבט פֿאַרבונדן אױף אַנדערע אופֿנים. Dementia Australia רעקאָמענדירט צו שיקן קאַרטלעך, בריװ, פֿאָטאָס אָדער קליינע מתנות. אַ װאָכנטלעכע פּאָסטקאַרטע מיט אײן גרױסן פֿאָטאָ און אַ קורצן צעטל קען געלײענט װערן אַ סך מאָל. דרוקבאַרע [שמועס-קאַרטלעך](/games/conversation-cards/), װאָס מען שיקט דעם העלפֿער מיטן פּאָסט, קענען געבן דעם קומענדיקן רופֿ אַ גרײט טעמע.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+פֿאַר אַ גיד װעגן אויסקלײבן און אײַנשטעלן אַ טאַבלעט, זעט [טאַבלעטן און עקראַנען](/caregiving/tablets-and-screens/). פֿאַר פּערזענלעכע צײַט, זעט אונדזער גיד װעגן [באַזוך](/activities/visiting/).
