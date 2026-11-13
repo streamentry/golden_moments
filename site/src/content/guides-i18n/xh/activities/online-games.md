@@ -74,7 +74,7 @@ Imidlalo yamagama, ukugcwalisa ngemibala kunye nebingo yemifanekiso nayo ikhona 
 2. **Sebenzisa iskrini esikhulu.** Ithebhulethi kwisiseko, okanye ikhompyuter enebrawuza ekhulisiwe, ilula ukuyibona nokuyithinta.
 3. **Vala ezinye iithebhu uvale izaziso.** Ii-pop-up ezingalindelwanga ziyoyisa kwaye zinokuphelisa iseshoni elungileyo.
 4. **Hlala ecaleni komntu, hayi ngaphambi kwakhe.** Ukujonga ndawonye kuziva kungakumbi njengokuba nomntu, kungekho vavanyo.
-5. **Qala ngomdlalo omnye imizuzu emi-5 ukuya kwe-10.** Vumela umntu athinte iskrini okanye acofe, ngelixa nina niluthatha ngamaxesha.
+5. **Qala ngomdlalo omnye imizuzu emihlanu ukuya kweshumi.** Vumela umntu athinte iskrini okanye acofe, ngelixa nina niluthatha ngamaxesha.
 6. **Phelisa ngokulungileyo.** Gqiba iraundi, uze uthethe malunga nomfanekiso omnye okanye ucele ikomityi yeti.
 
 ## Ubumfihlo nokhuseleko kwizixhobo ezabelwanwayo

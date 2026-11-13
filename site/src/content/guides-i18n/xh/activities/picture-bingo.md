@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Sebenzisa imifanekiso endaweni yamanani, kwaye yenze emikhulu, icace, kwaye ibe yinto eyaziwayo enye."
   - "Biza kancinane, bonisa umfanekiso, uthi igama layo. Phinda igama kanye, uze ulinde."
-  - "Gcina amaqela abantu abayi-4 ukuya kwabasibhozo, kwaye uhlale umntu apho akwazi ukubona umbizi nekhadi lakhe."
+  - "Gcina amaqela abantu abane ukuya kwabasibhozo, kwaye uhlale umntu apho akwazi ukubona umbizi nekhadi lakhe."
   - "Yenza ukuwina kube kukhetho. Ezinye iiseshoni zingaphela ngawo wonke umntu ememeza umfanekiso awuthandayo."
   - "Buza ngaphambi kokubiza umphumeleli. Abanye abantu bafumana isipho okanye ukuqhwaka izandla kuthukuthelisa, kwaye oko kulungile."
 faq:
@@ -52,7 +52,7 @@ Ungasebenzisa amakhadi aprintiweyo kwi[simisebenzi yesiprinti yasimahla](/activi
 - **Yenza imifanekiso mikhulu.** Sebenzisa imigca ebanzi kunye nento enye eyaziwayo kwisikwere ngasinye. Gwema amakhadi anzima.
 - **Hlala abantu kakuhle.** Beka umdlali ngamnye apho akwazi ukubona umbizi nekhadi lakhe, kwaye ufumaneke nomncedi ukuba kukho imfuneko.
 - **Sebenzisa izixhobo zokuphawula ezilula.** Izinto ezinkulu, iikhowuni okanye ukuthinta ngomnwe kusebenza ngcono kuneepensile. Gcina ezingaphezulu ezimbalwa.
-- **Cwangcisa iseshoni emfutshane.** Imizuzu engama-30 ihlala yaneleyo. Yeka kwangethuba ukuba amandla ehla.
+- **Cwangcisa iseshoni emfutshane.** Imizuzu engamashumi amathathu ihlala yaneleyo. Yeka kwangethuba ukuba amandla ehla.
 
 I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) icebisa ukulungelelanisa imisebenzi kwinto umntu asakwazi ukuyenza, ngoko yenza amakhadi nemithetho ilula xa oko kunceda.
 
@@ -71,7 +71,7 @@ Ukukhuphisana kunokuba yingxaki. Umntu olahlekayo angazizwa evavanywa, kwaye umn
 - **Wonke umntu uwina umfanekiso.** Umdlali ngamnye ubiza umfanekiso omnye awuthandayo, kwaye iqela liyawuncoma.
 - **Yabelana ngekhadi elipheleleyo.** Cela abadlali bathethe into malunga nomfanekiso omnye ekhadini labo.
 - **Dlala de kuphele imifanekiso.** Biza yonke imifanekiso ekhadini, uze uqale enye, ngaphandle kokubeka ilungelo lomphumeleli wokuqala.
-- **Gcina isipho sincinane okanye ungasibeki.** Ikuki okanye iculo lisebenza ngcono kunetrofi.
+- **Gcina isipho sincinci okanye ungasibeki.** Ikuki okanye iculo lisebenza ngcono kunetrofi.
 
 ## Ukulungelelanisa kubantu basesigxeni sokugqibela
 

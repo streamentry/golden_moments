@@ -55,7 +55,7 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Per un grand nombre de personas, lo jardin es un dels lòcs mai familiars que coneisson. Badar, arrosar e cuélher de flors fan apèl a de capacitats aprenguts fa long temps, e èsser a l'aire liure aporta un aire fresc, de solelh e lo cant dels ausèls. L'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) compta a las activitats que las personas amb Alzheimer pòdon aprecar : tenir cura de las plantas, plantar de flors e de legums, e [parlar de la crèissença de las plantas](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Aquesta pagina ensenha qué ensajar, cossí rendre un jardin mai facil d'utilizar, e cossí restar al segur amb la calor, lo solelh e l'errança.
+Per un grand nombre de personas, lo jardin es un dels lòcs mai familiars que coneisson. Badar, arrosar e cuélher de flors fan apèl a de capacitats aprenguts fa long temps, e èsser a l'aire liure aporta un aire fresc, de solelh e lo cant dels ausèls. La National Institute on Aging compta entre las activitats que las personas amb Alzheimer pòdon aprecar : tenir cura de las plantas, plantar de flors e de legums, e [parlar de la crèissença de las plantas](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Aquesta pagina ensenha qué ensajar, cossí rendre un jardin mai facil d'utilizar, e cossí restar al segur amb la calor, lo solelh e l'errança.
 
 ## Quinas activitats de jardin e a l'aire liure marchan ben?
 
@@ -122,7 +122,7 @@ Lo freg tanben compta. A l'ivèrn, gardatz los moments a l'exterior cortes e vej
 
 ## Cossí gerir l'errança quand sortissèm?
 
-Demoratz totjorn amb la persona quand es a l'exterior. L'Alzheimer's Association ditz que [sièis sus dètz personas que viven amb una demència](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) errejaràn almens una còp, e mantunas o fan mai d'una còp. Pòt arribar a tot estadi.
+Demoratz totjorn amb la persona quand es a l'exterior. L'Alzheimer's Association ditz que [sièis sus 10 personas que viven amb una demència](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) errejaràn almens una còp, e mantunas o fan mai d'una còp. Pòt arribar a tot estadi.
 
 Los [conselhs de la NIA sus l'errança e l'esgarrament](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inclutz :
 

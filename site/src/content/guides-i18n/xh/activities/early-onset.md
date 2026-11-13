@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "I-dementia yokuqala iqala phambi kweminyaka engama-65. Abantu baninzi bazizwa ngathi iminyaka yabo ayihambelani nemisebenzi ebonelelwayo."
   - "Gcina umntu elawula izigqibo, ukusuka kwisithandwa ukuya kukhetho lokuhamba."
-  - "Umculo, imifanekiso namabali evela kwiminyaka yabo yama-20 ukuya kwama-50 rhoqo anentsingiselo ngaphezu kwemisebenzi yobomdala."
+  - "Umculo, imifanekiso namabali evela kwiminyaka yabo yamashumi amabini ukuya kwamashumi amahlanu rhoqo anentsingiselo ngaphezu kwemisebenzi yobomdala."
   - "Hlala usebenza kwaye uxhumana xa befuna, kwaye lungelelanisa isantya endaweni yokutshintsha umsebenzi."
   - "Abanakekeli, ngakumbi abalingani nabantwana abakhulileyo, bayazuzela amaqela enkxaso yabalingani."
 faq:
@@ -41,7 +41,7 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Uninzi lolwazi lwe-dementia lucinga ukuba umntu usemalunga neminyaka yama-70 okanye yama-80. Kumntu owafunyanwa eneminyaka yama-40 okanye yama-50, imeko yemihla ngemihla ingahluka. Usenokusasebenza, enemortgage, abantwana abasebancinane ekhaya, okanye umzali okufuneka amnakekele. Imisebenzi kufuneka imamele ubomi bomntu omdala. Eli nqaku lichaza izinto ezitshintshayo, izinto ezinokuzanywa, nendawo abalingani nabantwana abakhulileyo abanokufumana kuyo inkxaso.
+Uninzi lolwazi lwe-dementia lucinga ukuba umntu usemalunga neminyaka yamashumi asixhenxe okanye yamashumi asibhozo. Kumntu owafunyanwa eneminyaka yamashumi amane okanye yamashumi amahlanu, imeko yemihla ngemihla ingahluka. Usenokusasebenza, enemortgage, abantwana abasebancinane ekhaya, okanye umzali okufuneka amnakekele. Imisebenzi kufuneka imamele ubomi bomntu omdala. Eli nqaku lichaza izinto ezitshintshayo, izinto ezinokuzanywa, nendawo abalingani nabantwana abakhulileyo abanokufumana kuyo inkxaso.
 
 ## Yintoni i-dementia yokuqala?
 
@@ -51,7 +51,7 @@ Ngenxa yokuba ayisoloko yenzeka, abantu banokulinda ixesha elide ukufumana isiqi
 
 ## Gcina umntu omdala kumsebenzi
 
-Abantu abane-early-onset dementia abahlali befuna ukuphathwa njengabantwana. I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) icebisa ukulungelelanisa imisebenzi nento umntu asakwazi ukuyenza nokuyonwabela. Kumntu oneminyaka yama-50, oko kunokubhekisa kwezi:
+Abantu abane-early-onset dementia abahlali befuna ukuphathwa njengabantwana. I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) icebisa ukulungelelanisa imisebenzi nento umntu asakwazi ukuyenza nokuyonwabela. Kumntu oneminyaka yamashumi amahlanu, oko kunokubhekisa kwezi:
 
 - **Gcina umdlalo owaziwayo,** njengokwenza umsebenzi wamaplanga, ibhola, amakhadi, iclub yeencwadi okanye ikwayala, ngoncedo oluncinci okanye ngexesha elifutshane.
 - **Hamba okanye uhambe ngebhayisikile nomhlobo,** kwindlela awaziyo kakuhle.
@@ -64,7 +64,7 @@ Mvumele umntu akhethe. Ukubuza ukuthi “Ungathanda ukwenza ntoni namhlanje emva
 
 ## Sebenzisa umculo neenkumbulo zeminyaka yakhe
 
-Umculo nemifanekiso evela kwiminyaka yakhe yama-20, ama-30 nama-40 inokuvusa imvakalelo efudumeleyo nencoko elula. Isikhokelo sethu [semisebenzi yomculo](/activities/music/) sichaza indlela yokwakha uluhlu lwemiculo, kwaye [imisebenzi yenkumbulo](/activities/reminiscence/) ibonisa indlela yokwabelana ngemifanekiso namabali ngaphandle kokubuza imibuzo. Ukuze ufumane umdlalo ongaphezulu kakhulu, zama [amakhadi encoko](/games/conversation-cards/), anemibuzo evulekileyo malunga nomsebenzi, uhambo, abahlobo nosapho.
+Umculo nemifanekiso evela kwiminyaka yakhe yamashumi amabini, amashumi amathathu namashumi amane inokuvusa imvakalelo efudumeleyo nencoko elula. Isikhokelo sethu [semisebenzi yomculo](/activities/music/) sichaza indlela yokwakha uluhlu lwemiculo, kwaye [imisebenzi yenkumbulo](/activities/reminiscence/) ibonisa indlela yokwabelana ngemifanekiso namabali ngaphandle kokubuza imibuzo. Ukuze ufumane umdlalo ongaphezulu kakhulu, zama [amakhadi encoko](/games/conversation-cards/), anemibuzo evulekileyo malunga nomsebenzi, uhambo, abahlobo nosapho.
 
 Iimpaira zemifanekiso eyenziwe ngeefoto zosapho nazo zinokusebenza kakuhle, kuba ezo mifanekiso ziquka abantu nezindawo ezibalulekileyo kumntu. [Iimpaira zemifanekiso](/games/photo-pairs/) zigcina iifoto kwi-browser kwesi sixhobo.
 
