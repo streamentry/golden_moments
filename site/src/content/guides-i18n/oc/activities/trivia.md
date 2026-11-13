@@ -1,5 +1,5 @@
 ---
-title: "Jòc de questions fàcil per las personas amb demència, sens pression"
+title: "Jòc de questions fàcil e sens pression per la demència"
 seoTitle: "Questions de jòc per las personas amb demència, amb las respòstas"
 description: "50 questions de jòc fàcilas per las personas amb demència, amb causidas e de que charrar, e cossí menar una sesilha perque degun se senta testat o defòra."
 section: activities
@@ -56,7 +56,7 @@ Fasètz que siá sus de causas de memòria e de reconeissença, e que cada respo
 7. **Seguissètz lo punt de partida.** La responsa es lo començament, pas la fin. Las istòrias son lo vertadièr objectiu.
 8. **Gardatz-lo brèu.** Dètz questions amb de contes entre mitan, es suficient.
 
-L'National Institute on Aging dis lo principi simplament : fasètz atencion a la frustracion e fasètz que la persona se senta capabla. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mete los jòcs de questions dins las activitats de l'etapa precòça. A l'etapa mejana, gardatz dos causidas e apoiatz-vos sus los punts de partida. Mai tard, passatz a las questions « aquò o aquel » mai bas.
+L'National Institute on Aging dis lo principi simplament : fasètz atencion a la frustracion e fasètz que la persona se senta capabla. L'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lo met aquí simplament. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mete los jòcs de questions dins las activitats de l'etapa precòça. A l'etapa mejana, gardatz dos causidas e apoiatz-vos sus los punts de partida. Mai tard, passatz a las questions « aquò o aquel » mai bas.
 
 ## Jòc de musica e de divertiment
 
@@ -90,7 +90,7 @@ Per mai sus la musica, vejatz [activitats musicalas per la demència](/activitie
 | Un drive-in èra un luòc per veire... | **Filmes dins la veitura**, de partidas de balon, de desfilats | Amb qui i anavatz ? |
 | De qual figura es lo bilhet d'un dolar ? | Lincoln, **George Washington**, Jefferson | Qu'es que podiá crompar un dolar a l'epòca ? |
 | De qual figura es lo sòu d'un cent ? | **Abraham Lincoln**, Washington, Franklin | Gardàvatz de sòus dins un pòt a l'epòca ? |
-| Quina color a generalament un autobús escolar ? | Roge, **groc**, blau | Coma anavatz a l'escòla ? |
+| Quin color a generalament un autobús escolar ? | Roge, **groc**, blau | Coma anavatz a l'escòla ? |
 
 ## Fèstas, natura e luòcs
 
@@ -98,9 +98,9 @@ Per mai sus la musica, vejatz [activitats musicalas per la demència](/activitie
 | --- | --- | --- |
 | Quina fèsta cai lo quart dijòus de novembre ? | Labor Day, **Thanksgiving**, Memorial Day | Qu'èra totjorn sus vòstra taula ? |
 | Las lanternas de Halloween se fan per quina fèsta ? | **Halloween**, Pascas, Nadal | Parlatz-me de Halloween dins vòstra jovença |
-| Lo 4 de julhet celebra la Declaracion de... | Dreits, **Independéncia**, Libertat | Ont avètz vist los fuòcs artificials ? |
+| Lo quatre de julhet celebra la Declaracion de... | Dreits, **Independéncia**, Libertat | Ont avètz vist los fuòcs artificials ? |
 | La Fèsta de las Mairas cai en quin mes ? | Abril, **de mai**, de junh | Coma vòstra familha festejava ? |
-| Quantas estelas i a sus lo dralh american ? | 48, **50**, 52 | Lo dralh aviá 48 estelas fins en 1959. Cada responsa es un bon souvenir |
+| Quantas estelas i a sus lo dralh american ? | 48, **50**, 52 | Lo dralh aviá 48 estelas fins en 1959. Cada responsa es una bona remembrança |
 | Quin oceà es sus la còsta Est ? | Pacific, **Atlantic**, Arctic | Anatz jamai a la plaja ? |
 | En quina vila es la Estatua de la Libertat ? | Boston, **Nòva York**, Filadèlfia | Avètz jamai estat a Nòva York ? |
 | Qu'es que fan las abelhas ? | Lach, **mèl**, sèda | Mèl sus pan rostit o dins lo tè ? |
@@ -116,12 +116,12 @@ Per mai sus la musica, vejatz [activitats musicalas per la demència](/activitie
 | Los rasims secs se fan amb de... | Pruna, **rasin**, cerisa | Metiatz de rasims dins las bocinas ? |
 | Las pruna secas se fan amb de... | **Pruna**, figa, poma | Qui dins vòstra familha n'anava galant ? |
 | Lo beurre d'arachis e de... | **Confitura**, fromatge, jambon | Crocant o fin ? |
-| Lo guacamole se fa sobretot de... | Pesolets, **avocats**, concombres | Quelles sauças venián a las fèstas ? |
+| Lo guacamole se fa sobretot de... | Pesolets, **avocats**, concombres | Quinas sauças venián a las fèstas ? |
 | Quin pastís es un favorit de Thanksgiving ? | **Cògorda**, citron, cerisa | Quin pastís fasiatz ? |
 | Quants jogaires a una equipa de baseball sul terren ? | 7, **9**, 11 | Per quina equipa vos enrancatz ? |
 | Quantas capadas fan una eliminacion al baseball ? | Dos, **tres**, quatre | Avètz jamai jogat a la pilòta ? |
 | Babe Ruth èra famós per quin esport ? | Boxa, **baseball**, golf | Anavatz als matchs de pilòta ? |
-| Quantes trauquetas a un camp de golf normal ? | 9, **18**, 24 | Avètz jamai jogat al golf, o al mini golf ? |
+| Quantas trauquetas a un camp de golf normal ? | 9, **18**, 24 | Avètz jamai jogat al golf, o al mini golf ? |
 | Dins quin esport marcatz un touchdown ? | **Football americà**, hockey, basquet | Qui mirava lo football a vòstre ostal ? |
 
 ## Dichs coneguts

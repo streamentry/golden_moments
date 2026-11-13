@@ -21,7 +21,9 @@ faq:
     a: "I a pas de longor justa. De nombroses familhas trobon que de visitas mai cortas e mai frequentas van mai ben que de visitas longas e rares, perque la persona pòt se fatigar lèu e pòt pas recordar quant de temps avètz demorat. Agachatz los signes de fatiga e partissètz pendent que la visita sembla encara bona."
   - q: "Qué dire quand demandan de tornar a l'ostal ?"
     a: "Respondètz al sentiment, pas a las paraulas. « Vòli tornar a l'ostal » vòl sovent dire « me sentissi pas a l'alisa o en seguretat. » Ensajatz de dire « Parlatz-me de vòstre ostal », de agachar de fotografias ensems, o de proposar una passejada o una cauta. Discutir o explicar perque podon pas partir aumenta generalament l'angoissa."
-  - q: "Qué pòdi far quand es a l'espital ?"
+  - q: "Qué far s'an pas la memòria de ieu ?"
+    a: "Pòt far mal, mas ensajatz de pas los corregir ni de demandar « Me reconeisses pas ? ». Presentatz-vos amb calor e simplament gaudissètz lo temps ensems. Fòrça personas gaudisson encara la companhia e sentisson la caliuda d'una visita quand ne podon pas identificar qual sètz."
+  - q: "Qué pòdi far durant un sejorn a l'espital ?"
     a: "Demorar amb la persona quand podètz, l'ajudar a manjar e a beure, e portar d'objèctes coneguts coma de fotografias. Balhatz al personal una fèuta que liste sa rota, son nom preferit, sos gosts, sos desgosts e los signes de doler. Dicatz-o tot de seguida al metge se la persona sembla brutalament pièjor o diferenta, perque una confusion subita pòt indicar un problèma medical."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
@@ -135,7 +137,7 @@ Un espital es bruiós, desconegut e plen d'estranhs, çò que pòt èsser fòrç
 
 - **Que qualqu'un demore amb la persona** lo mai possible : un membre de la familha, un amic de confiança o un aidant pagat.
 - **Balhar al personal una fèuta d'informacions personalas** amb la rota de la persona, son nom preferit, sos gosts e desgosts, los possibles desclanchaires e los signes non verbals de doler. Ne metètz de copias dins la cambra e a la pòsta de las infermièras.
-- **Ajudar per manjar e per beure.** Las personas agradas pòdon se trobar en mancança de nutrients a l'espital. Dobrissètz los recipients, ajudatz als repais, manjatz ensems e ofrissètz de beure.
+- **Ajudar per manjar e per beure.** Las personas velhas pòdon se trobar en mancança de nutrients a l'espital. Dobrissètz los recipients, ajudatz als repais, manjatz ensems e ofrissètz de beure.
 - **Portar d'objèctes de reconfòrt** coma de fotografias o d'objèctes religioses.
 - **Far mens de bruit.** Tampatz la television e baissatz lo volum dels telefòns e de l'interfòn.
 - **Ensajar de rituals calmants,** coma la musica doça, la lectura, la preguièra, lo cant o l'agach d'images passadas.
