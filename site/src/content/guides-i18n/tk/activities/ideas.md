@@ -16,7 +16,7 @@ keyPoints:
   - "Adamyň öz durmuşyndan başlaň: onuň işi, hoby, ynanjy we halaýan aýdymlary iň gowy ýol görkezijidir."
   - "Islendik işi gerek bolsa kiçeldiň: azrak ädim, azrak saýlaw, kyn bölegini siz ediň."
   - "Seretmek, bir zady elinde saklamak ýa-da ýanynda oturmak hem gatnaşmak hasaplanýar."
-  - "Ýadawlygy, gaharjaňlygy ýa-da зerikmegi görseňiz, duruň ýa-da başga zada geçiň. Ir bes etmek gowy netijedir."
+  - "Ýadawlygy, gaharjaňlygy ýa-da zerikmegi görseňiz, duruň ýa-da başga zada geçiň. Ir bes etmek gowy netijedir."
   - "Bilelikde etmek, dogry etmekden wajypdyr."
 faq:
   - q: "Demensiýaly adam üçin haýsy işler gowy?"

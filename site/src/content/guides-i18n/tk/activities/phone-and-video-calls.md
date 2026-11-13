@@ -98,7 +98,7 @@ Bu usulda gowy işleýän oýunlar:
 
 ### Ýazga alnan habarlar
 
-Janly jaňlar kyn bolanda, gysga wideo ýazga alyň: salam, aýdym, howlyňyzyň töwereginde gezelenç. Kömekçi ony asuda pursatda, adam lezzet alýan mççe gezek goýup biler. Alzheimer's Association çagalaryň sowgat açyşy ýaly aýratyn pursatlary ýazga alyp ibermegi agzaýar.
+Janly jaňlar kyn bolanda, gysga wideo ýazga alyň: salam, aýdym, howlyňyzyň töwereginde gezelenç. Kömekçi ony asuda pursatda, adam lezzet alýan näçe gezek goýup biler. Alzheimer's Association çagalaryň sowgat açyşy ýaly aýratyn pursatlary ýazga alyp ibermegi agzaýar.
 
 ## Ýönekeý telefon jaňlary hakda näme?
 
