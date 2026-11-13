@@ -1,7 +1,7 @@
 ---
 title: "Ngā Tākaro Maumahara mō ngā Kaumātua e Mate Wareware ana: Ngā Tākaro Ngāwari, Kāore e Whakamātau"
 seoTitle: "Ngā Tākaro Maumahara mō te Wareware: Whakaaro Ngāwari"
-description: "Tākaro tōrite, whakaahua me kāri mō ngā kaumātua e mate wareware ana, me pēhea te tākaro kia kore ai tētahi e whakamātauria: whakaahua kitea, he iti ngā tōrite, kāore he kaute."
+description: "Tākaro tōrite, whakaahua me kāri mō ngā kaumātua e mate wareware ana, me te tākaro kia kore ai tētahi e whakamātauria: whakaahua kitea, he iti ngā tōrite."
 section: activities
 order: 18
 updated: 2026-10-25
@@ -15,7 +15,7 @@ summary: >-
 keyPoints:
   - "Ko ngā tākaro maumahara tawhito e huna ana i ngā kāri, ā, ko tēnā te mea e whakamātau ana i te mea e uaua rawa ana i te wareware. Waiho ngā whakaahua kitea hei utu."
   - "He iti ake ngā wāhanga, he nui ake ngā whakaahua, he kōwhiringa kotahi i te wā e mārie ai te tākaro."
-  - "Tākaro ā-tīma, tuku i ngā wā awhina, whakarerea te kaute. Kaua tētahi e whakatōrutia."
+  - "Tākaro ā-tīma, tuku i ngā wā āwhina, whakarerea te kaute. Kaua tētahi e whakatōrutia."
   - "Kāore tētahi tākaro maumahara i whakaatuhia ka rongoā, ka whakaroa, ka mutu rānei i te wareware. Tākaro nō te mea he pai te wā tahi."
   - "Whakamutua i te wā e pai tonu ana. Ko te kōrero mō ngā whakaahua he hua pai."
 faq:
@@ -28,7 +28,7 @@ faq:
   - q: "He aha ngā tākaro maumahara pai mō ngā kaumātua i te rōpū?"
     a: "He pai te pingo whakaahua me tētahi kaikaranga i runga i te mata, te whakaoti whakataukī mōhio ā-waha, me ngā kāri kōrero mō ngā rōpū. Tākaro kia kī katoa ngā kāri, ā, kaua e kī ko wai i whiwhi whakautu, kia kore ai tētahi e wehea."
   - q: "He tākaro maumahara koreutu kei te ipurangi mō ngā kaumātua?"
-    a: "Āe. Ko ngā tākaro o tēnei paetukutuku, tae atu ki te [Pōtaki rite](/games/picture-pairs/), [Kimihia te ōrite](/games/find-the-same/), [Photo pairs](/games/photo-pairs/) me te [Picture puzzle](/games/picture-puzzle/), he koreutu, kāore e hiahiatia te rēhita, ka mahi i ngā waea, i ngā papapātuhi, i ngā rorohiko. Kāore tētahi e whai taima, kaute rānei."
+    a: "Āe. Ko ngā tākaro o tēnei paetukutuku, tae atu ki te [Pōtaki rite](/games/picture-pairs/), [Kimihia te ōrite](/games/find-the-same/), [Photo pairs](/games/photo-pairs/) me te [Tātai whakaahua](/games/picture-puzzle/), he koreutu, kāore e hiahiatia te rēhita, ka mahi i ngā waea, i ngā papapātuhi, i ngā rorohiko. Kāore tētahi e whai taima, kaute rānei."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -54,7 +54,7 @@ Ka kimihia e koe te “tākaro maumahara mō ngā kaumātua” ā, ko te nuinga 
 
 ## He aha ngā tākaro maumahara tawhito e whakapōuri ai i te tangata e mate wareware ana?
 
-Nā te mea e whakawhirinaki ana ki te pupuri i ngā kōrero hou i te hinengaro, ko tērā te mea tuatahi e pōrearea ana e te Alzheimer's, te take nui o te mate wareware. E kī te [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ko te tohu tuatahi i te wāhanga timatanga ko te uaua ki te maumahara i ngā kōrero hou i akohia. I roto i te Concentration tawhito, ka pupuri koe i ngā wāhi o ngā kāri rua i ā koe e huri ana, ā, ka whakamahi i tērā hei ngā meneti i muri mai. He kōrero hou tērā, e pupuritia ana, e maumahara ana.
+Nā te mea e whakawhirinaki ana ki te pupuri i ngā kōrero hou i te hinengaro, ko tērā te mea tuatahi e pōrearea ana e te Alzheimer's, te take nui o te mate wareware. E kī te [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ko te tohu tuatahi i te wāhanga timatanga ko te uaua ki te maumahara i ngā kōrero hou i akohia. I roto i te Concentration tawhito, ka pupuri koe i ngā wāhi o ngā kāri rua i ā koe e huri ana, ā, ka whakamahi i tērā i ngā meneti i muri mai. He kōrero hou tērā, e pupuritia ana, e maumaharatia ana.
 
 Ka tāpirihia he taima, he kaute, he tangi mō ngā whakautu hē, ka whakamaumaharatia te tangata i ngā mea kāore e taea e ia, i mua i tētahi e aroha ana ki a ia. He maha ngā tāngata ka mutu te hiahia ki te tākaro.
 
@@ -70,7 +70,7 @@ He whakaaro ēnei e pai ana mō ngā tākaro kāri, ngā tākaro papatipu, me ng
 4. **Tākaro ā-tīma.** “Kimihia ngā kuri” i te “ko tō tūranga”. Me tohu, me āwhina ngā tūranga.
 5. **Whakarerea te kaute.** Kāore e hiahiatia tētahi kia wini. Mēnā ka pātai tētahi, he kī māmā “I whakaoti mātou” te rawe.
 6. **Kaua e whakataetae ki te wā.** Kāore he taima, kāore he tere i waenga tūranga.
-7. **Kōrerohia ngā whakaahua.** “Titiro ki taua poti. I haere ānō koe ki te kau?” Ko te kōrerorero te wāhanga pai.
+7. **Kōrerohia ngā whakaahua.** “Titiro ki taua poti. I haere anō koe ki te kau?” Ko te kōrerorero te wāhanga pai.
 8. **Whakamutua i tētahi wā pai.** Whakamutua i muri i tētahi tōrite, i te wā e pai tonu ana.
 
 Ko te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e tuku ana i te wairua ōrite hei tohutohu whānui: hangaia te mahi ki ngā mea e taea e te tangata, titiro ki te pōrearea, ā, whakaarohia kia rongo ia i te angitu.
@@ -93,13 +93,13 @@ Ko te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-ca
 
 [Whakarōpū tahi](/games/sort-together/) ka tono kia tuku koe i ia whakaahua ki te kete e tika ana, pēnei i te kāinga, i te māra. Ko te whakarōpū e tōmuri ana ki te mōhio roa ki te āhua o te ao, ehara i te maumahara poto.
 
-### Pazzle whakaahua
+### Tātai whakaahua
 
-[Pazzle whakaahua](/games/picture-puzzle/) ka tapahi i te whakaahua ki ngā wāhanga 4 me 9. Pāwhiritia ngā wāhanga e rua kia whakawhiti, kia oti ai te whakaahua. Ka noho te whakaahua katoa ki te mata hei arataki.
+[Tātai whakaahua](/games/picture-puzzle/) ka tapahi i te whakaahua ki ngā wāhanga 4 me 9. Pāwhiritia ngā wāhanga e rua kia whakawhiti, kia oti ai te whakaahua. Ka noho te whakaahua katoa ki te mata hei arataki.
 
 ### Ngā kāri pono ki runga tēpu
 
-Kāore e hiahiatia he mata. Tikina ngā tāpare ōrite mai i ngā tekau kāri e rua, mai i tētahi huinga kāri whakaahua rānei. Whakatakotoria ki runga, ki ngā rārangi e rua, ā, kimihia ngā tāpare tahi. Muri mai, whakarōpūtia ki te tae, ki te kōwae rānei. Ko te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e whakarārangi ana i ngā tākaro kāri me ngā tākaro papatipu hei mahi mō te wāhanga timatanga.
+Kāore e hiahiatia he mata. Tikina ngā tāpare ōrite mai i ngā kāri e rua, mai i tētahi huinga kāri whakaahua rānei. Whakatakotoria ki runga, ki ngā rārangi e rua, ā, kimihia ngā tāpare tahi. Muri mai, whakarōpūtia ki te tae, ki te kōwae rānei. Ko te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e whakarārangi ana i ngā tākaro kāri me ngā tākaro papatipu hei mahi mō te wāhanga timatanga.
 
 ## Ko ēhea ngā tākaro maumahara e tika ana mō ia wāhanga?
 
@@ -107,7 +107,7 @@ He tapanga whānui ngā wāhanga. Titiro ki tāna e pai ana i tēnei rā.
 
 | Wāhanga | Ngā tākaro e tika ana | Me pēhea te whakarite |
 | --- | --- | --- |
-| Timatanga | Pōtaki rite, Photo pairs, Picture puzzle me 9 wāhanga, ngā tākaro kāri mōhio | Waiho kia kōwhiri ia. Ka taea te huri ngā tāpare ki raro mēnā he pai ki a ia; whakarerea te kaute mēnā he raruraru |
+| Timatanga | Pōtaki rite, Photo pairs, Tātai whakaahua me 9 wāhanga, ngā tākaro kāri mōhio | Waiho kia kōwhiri ia. Ka taea te huri ngā tāpare ki raro mēnā he pai ki a ia; whakarerea te kaute mēnā he raruraru |
 | Waenga | Pōtaki rite me 4 ki te 6 tāpare kitea ki runga, Kimihia te ōrite, Whakarōpū tahi | Kia kitea ngā whakaahua i ngā wā katoa. Noho ki te taha, tahi te āwhina |
 | Whakamutunga | Kimihia te ōrite me 2 kōwhiringa, te titiro ki tētahi whakaahua nui ngātahi | He poto rawa. Kei a koe te papa-rorohiko; ka tohu ia, ka mātakitaki, ka whakarongo rānei |
 
@@ -119,7 +119,7 @@ Ehara tērā he take hei karo i ngā tākaro. E kī te [Alzheimer's Association]
 
 ## He aha mō ngā tākaro maumahara mō te kaumātua kāore he mate wareware?
 
-Mēnā he pai ki tētahi kaumātua kāore he raruraru maumahara ki ngā tākaro wā, ngā kaute me ngā taumata uaua, kāore he he mō tērā. Engari kaua e whakawhirinaki ki tērā hei pupuri i a ia i te mate wareware; kāore tētahi tākaro i whakaatuhia kia pēnā. Ko ngā momo mārie o runga ake nei ka pai hoki ina tākaro ngā whakatipuranga tahi: he kuia me te mokopuna iti ka tōrite whakaahua hei tīma, kāore tētahi e whakamātauria.
+Mēnā he pai ki tētahi kaumātua kāore he raruraru maumahara ki ngā tākaro wā, ngā kaute me ngā taumata uaua, kāore he hē mō tērā. Engari kaua e whakawhirinaki ki tērā hei pupuri i a ia i te mate wareware; kāore tētahi tākaro i whakaatuhia kia pēnā. Ko ngā momo mārie o runga ake nei ka pai hoki ina tākaro ngā whakatipuranga tahi: he kuia me te mokopuna iti ka tōrite whakaahua hei tīma, kāore tētahi e whakamātauria.
 
 ## Ina tika te whakamutu, te huri i te tākaro?
 

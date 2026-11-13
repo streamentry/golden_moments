@@ -63,13 +63,13 @@ Afai o le malaga e le o le fuafuaina, faamatala le mea na tupu, pe a amata ai ma
 
 Taʻu i le au tausi o le tagata e ola ma le dementia ma le mea e masani ona fesoasoani. Fesili o ai e avea ma talanoa autu mo faamatalaga. Afai o le tagata o loo faatali, se mea masani e faitau po se mea e vaaia e ala i mata faʻavaaiga poʻo mata faalogo, e mafai ona fesoasoani, pe a fai mai au tausi e saogalemu le faaaogaina.
 
-Mulimuli i faatonuga a le au tausi. A o leʻi fesoasoani i meaʻai, inu, vailaʻau, savali po tausiga o le tino, siaki ma au tausi pe saogalemu le mea i lena taimi. Su'ega o le falemaʻi po togafitiga e mafai ona suia le mea e mafai ona faia e le tagata mo sina taimi.
+Mulimuli i faatonuga a le au tausi. A o leʻi fesoasoani i meaʻai, inu, vailaʻau, savali po tausiga o le tino, siaki ma au tausi pe saogalemu le mea i lena taimi. Suʻesuʻega o le falemaʻi po togafitiga e mafai ona suia le mea e mafai ona faia e le tagata mo sina taimi.
 
 ## O le ā le mea e tatau ona ou faia pe a foliga le tagata e suia faafuasei?
 
 Taʻu vave i le au tausi maʻi po le fomaʻi pe a faafuasei ona sili atu le valevale o le tagata po pe a le masani ona amio. Aua le manatu o le dementia naʻo lena. O le [taʻiala a le NHS e uiga i le valevale faafuasei](https://www.nhs.uk/symptoms/confusion/) fautua o le valevale faafuasei e manaʻomia ai le fesoasoani faafomaʻi faafuasei.
 
-Faasoa po o le ā le taimi na amata ai le suiga ma le mea ua e vaaia. E mafai ona faailoa e le tagata le tiga e ala i suiga o le mata, gaioiga, moe po aʻa e aunoa ma le mafai ona ia faamatala. Fesili le au tausi e iloilo le suiga e sili atu nai lo le taumafai e faia le suʻesuʻega lava ia.
+Faasoa po o le ā le taimi na amata ai le suiga ma le mea ua e vaaia. E mafai ona faailoa e le tagata le tiga e ala i suiga o le mata, gaioiga, moe po ʻai e aunoa ma le mafai ona ia faamatala. Fesili le au tausi e iloilo le suiga e sili atu nai lo le taumafai e faia le suʻesuʻega lava ia.
 
 ## E faapefea ona ou lagolago le tagata i le taimi o le nofo i le falemaʻi?
 
@@ -87,4 +87,4 @@ Talanoa e uiga i le lagolago e manaʻomia i le fale. Iloilo o ai e fesoasoani i 
 
 Pe a toe foʻi i le fale, ia iai le taimi e malolo ai ma toe faaauau ai aga masani. Faasoa le fuafuaga tusitusi naʻo tagata ua ioe le tagata e aofia. Afai o le tagata e valevale faafuasei po le tele o le faʻamaʻi, sailia le fesoasoani faafomaʻi faafuasei nai lo le faatali mo se asiasiga masani.
 
-O se malaga filemu e le mafai i taimi uma, aemaise lava i se faafuasei. Sauniuni, faʻamatalaga manino ma se fuafuaga tusitusi o le alu ese e mafai ona fesoasoani i tagata uma ina ia iloa le mea o le a tupu mulimuli.
+O se malaga filemu e le mafai i taimi uma, aemaise lava i se faafuasei. Sauniuni, faamatalaga manino ma se fuafuaga tusitusi o le alu ese e mafai ona fesoasoani i tagata uma ina ia iloa le mea o le a tupu mulimuli.

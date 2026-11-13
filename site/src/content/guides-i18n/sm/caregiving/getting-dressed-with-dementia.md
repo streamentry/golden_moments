@@ -42,7 +42,7 @@ health: true
 
 Ofuina o se mea faapitoa. O le tagata e ola ma le dementia e mafai ona faigata ia te ia filifiliga, mea e faapipiʻi ai ofu po le faasologa o laasaga nai lo muamua. E mafai fo'i ona ia manaʻo tele i ofu e masani ai po se faiga faapitoa. O le sini o le fesoasoani o le faamalologa ma le filifiliga, ae le o le pulea po le faia o le ofu e foliga i se auala faapitoa.
 
-O le [taʻiala a le Alzheimer's Association e uiga i le ofuina](https://www.alz.org/help-support/caregiving/daily-care/dressing-grooming) ma le [taʻiga a Dementia Australia e uiga i le ofuina](https://www.dementia.org.au/living-dementia/home-life/getting-dressed) fautua le foaʻi o le taimi lava, tumau ai filifiliga e faigofie, ma fesoasoani i le tagata e faia le mea e mafai ona ia faia. O lenei itulau foaʻi manatu lautele. Fesili i se fomaʻi e uiga i faafitauli fou o le ofuina po isi popolega o le soifua maloloina.
+O le [taʻiala a le Alzheimer's Association e uiga i le ofuina](https://www.alz.org/help-support/caregiving/daily-care/dressing-grooming) ma le [taʻiga a Dementia Australia e uiga i le ofuina](https://www.dementia.org.au/living-dementia/home-life/getting-dressed) fautua le foaʻi o le taimi lava, tumau ai filifiliga e faigofie, ma fesoasoani i le tagata e faia le mea e mafai ona ia faia. O lenei itulau e foaʻi manatu lautele. Fesili i se fomaʻi e uiga i faafitauli fou o le ofuina po isi popolega o le soifua maloloina.
 
 ## E faapefea ona ou ofoina filifiliga e aunoa ma le pule?
 
@@ -58,7 +58,7 @@ Filifili le taimi e lava ai le alu i le faalemumu. Le faavavevave e mafai ona fa
 
 Faasalalau ofu i le faasologa e manaʻo ai le tagata e ofu ai. Ofo se mea i le taimi e tasi ma faaaoga se faailoga puupuu, e pei o “O lau ʻofu lea.” Se faatonuga lautele e pei o “Ofu” e mafai ona faigata ona faia. Taofi i laasaga e faatagaina ai le tagata e malamalama ma tali.
 
-Tuʻu le tagata e faia vaega uma e mafai ma e manaʻo e faia. Afai e le iloa le mea e sosoo ai, ofo se faamanatuga po fesili pe a mafai ona fesoasoani. Aua le toso ofu i luga o ia po faaosofia lona tino e aunoa ma le malilie. Afai o se laasaga e faigata, taofi ma fesili le mea e faigofie ai. O nisi taimi o le toe taumafai i se isi taimi e lava.
+Tuu le tagata e faia vaega uma e mafai ma e manaʻo e faia. Afai e le iloa le mea e sosoo ai, ofo se faamanatuga po fesili pe a mafai ona fesoasoani. Aua le toso ofu i luga o ia po faaosofia lona tino e aunoa ma le ioe o ia. Afai o se laasaga e faigata, taofi ma fesili le mea e faigofie ai. O nisi taimi o le toe taumafai i se isi taimi e lava.
 
 ## E faapefea ona puipuia le faalilolilo ma le faaaloalo?
 

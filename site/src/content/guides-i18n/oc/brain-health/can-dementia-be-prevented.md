@@ -131,7 +131,7 @@ Los conselhs de la Comission Lancet son de baissar los riscs lo mai lèu possibl
 
 Lo rapòrt dis que i a ara de preuvas mai fòrtas que una exposicion mai longa a un risc a un efièch mai grand. Per exemple, lo diabetes que comença a l'edat mejana sembla pesar mai que lo diabetes que comença mai tard.
 
-## La risca de demència es la meteissa per tot lo mond ?
+## Lo risc de demència es lo meteis per tot lo mond ?
 
 Non. La Comission a trobat que las personas dels país de rendas bassas o mejanas, las personas de minoritats e las personas amb mens de moneda portan sovent mai d'aqueles riscs, donc la demència se desvelopa generalament mai jove. Mantuns riscs son ligats a de circonstàncias que las personas an pas causit, coma la qualitat de l'escolarizacion que aguèron d'enfant, l'aire del luòc ont vivon, e se l'alimentacion sana es abordabla e pròche.
 
@@ -164,7 +164,7 @@ Aquestas son las zònas mai sovent estudiadas. Valon la pena de los amenar a un 
 5. **Glicemia.** Se avètz un diabetes, demandatz coma lo gerir amb seguretat.
 6. **Umor.** La depression es correnta e tractable. Dissètz-o a vòstre metge se vos sentissètz baish o avètz perdut l'interès per las causas dempuèi mai de qualques setmanas.
 7. **Tabac e alcòl.** Demandatz d'ajuda per arrestar de fumar e de limits sans per l'alcòl.
-8. **Movement.** Demandatz quin tipe d'activitat es segur per vos. Nòstra [guida sus l'exercici](/brain-health/exercise/) a d'idèas.
+8. **Bolegar.** Demandatz quin tipe d'activitat es segur per vos. Nòstra [guida sus l'exercici](/brain-health/exercise/) a d'idèas.
 9. **Protecion de la tèsta.** Pòrtatz un casc per far de velò e per los esports de contacte, e demandatz sus la prevencion de las cadudas.
 10. **Restar connectat.** Lo temps amb d'autras personas es una part d'una vida sana. Vejatz nòstra guida sus [la connexion socială](/brain-health/social-connection/), e tanben la [son](/brain-health/sleep/).
 
