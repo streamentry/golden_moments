@@ -70,11 +70,11 @@ tonu te taunakitanga.
 
 - **He rangahau UK 25 tau.** I whaiwhai ngā kairangahau i tata ki te 8,000 ngā pakeke i te
   [rangahau Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Ko ngā tāngata i moe e ono hāora,
-  iti iho rānei i te 50, i te 60 ngā tau, he tūraru nui ake o te mate wareware i muri mai i ērā i moe e whitu hāora.
-  Ko ngā tāngata i moe e ono hāora, iti iho rānei i te 50, i te 60, i te 70 ngā tau, he tūraru tata ki te 30% teitei
+  iti iho rānei i te 50 me te 60 ngā tau, he tūraru nui ake o te mate wareware i muri mai i ērā i moe e whitu hāora.
+  Ko ngā tāngata i moe e ono hāora, iti iho rānei i te 50, 60 me te 70 ngā tau, he tūraru tata ki te 30% teitei
   ake i ērā i moe auau e whitu hāora. He rangahau mātakitaki tēnei, nā reira he hononga e kitea ana, ehara i te take.
 - **Te whakaaro a te Lancet Commission.** Kāore te
-  [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) i tāpiri i te moe ki tana rārangi 14 tūraru
+  [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) i tāpiri i te moe ki tana rārangi 14 tūraru
   ka taea te whakarerekē. I whakatau ia kāore i rite te taunakitanga. Tētahi take ko te “hononga huri-kē” (reverse
   causation): ka tīmata ngā panonitanga o te roro o te mate wareware i ngā tau maha i mua i te whakatau, ā, ka
   whakararu pea i te moe. I tētahi rangahau nui, ka ngaro te hononga i waenga i te moe roa me te mate wareware ina

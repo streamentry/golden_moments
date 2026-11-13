@@ -1,7 +1,7 @@
 ---
 title: "Te ngoikoretanga whakarongo me te mate wareware: ngā kitenga"
 seoTitle: "Te ngoikoretanga whakarongo me te mate wareware"
-description: "He aha te ngoikoretanga whakarongo te tūraru nui o te mate wareware, te kitenga o te whakamātautau awhi ACHIEVE, me ngā huarahi ki te whai whakarongo, ki te kōrero ngāwari ake."
+description: "He aha te ngoikoretanga whakarongo te tūraru nui o te mate wareware, te kitenga ACHIEVE, me ngā huarahi ki te whai whakarongo, ki te kōrero ngāwari ake."
 section: brain-health
 order: 8
 updated: 2026-10-25
@@ -16,7 +16,7 @@ keyPoints:
   - "E whakatau ana te Lancet Commission tata ki te 7% o te mate wareware o te ao i te ngoikoretanga whakarongo, he rite ki te wāhanga nui rawa i ngā tūraru 14."
   - "I te whakamātautau ACHIEVE o 977 ngā pakeke kaumātua, kāore i rerekē te heke o te whakaaro e toru tau ngā awhi whakarongo mō te katoa."
   - "I tētahi rōpū iti, tūraru teitei i roto i ACHIEVE, he 48% te puhoi o te heke o te whakaaro ina whai awhi whakarongo; me whakamana tērā."
-  - "Mai i te 17 o Whiringa-ā-nuku 2022, ka taea e ngā pakeke US e whakaaro ana he ngoikoretanga whakarongo iti ki te waenga te hoko awhi whakarongo ā-kaunuku, kāore he tuhinga rongoā, i ngā toa, i te ipurangi rānei."
+  - "Mai i Whiringa-ā-nuku 2022, ka taea e ngā pakeke US e whakaaro ana he ngoikoretanga whakarongo iti ki te waenga te hoko awhi whakarongo ā-kaunuku, kāore he tuhinga rongoā, i ngā toa, i te ipurangi rānei."
   - "I te 2024 i tāpirihia te ngoikoretanga tirohanga kāore i maimoatia hei tūraru mate wareware, nā reira he mea nui hoki ngā tirotiro karu."
 faq:
   - q: "Ka aukati ngā awhi whakarongo i te mate wareware?"
@@ -60,7 +60,7 @@ te kōrero ngāwari ake.
 ## He aha te whakarongo te mea nui mō te hauora roro?
 
 He hono te ngoikoretanga whakarongo ki te tūraru nui ake o te mate wareware. E whakatau ana te
-[Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) tata ki te 7% o te mate wareware o te ao
+[2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) tata ki te 7% o te mate wareware o te ao
 i te ngoikoretanga whakarongo. Nā tēnei, he rite ia ki te tūraru o te cholesterol LDL teitei mō te wāhanga nui rawa
 i ngā tūraru 14 ka taea te whakarerekē i te tauira a te Commission, i ahu mai i
 [te whakarāpopototanga a UCL mō te pūrongo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
@@ -130,7 +130,7 @@ rānei i ngā kōrero, he mahi pai tuatahi te whakamātau whakarongo.
 
 ## He aha ngā awhi whakarongo ā-kaunuku?
 
-Mai i te 17 o Whiringa-ā-nuku 2022, kua whakaaetia e te [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know)
+Mai i Whiringa-ā-nuku 17, 2022, kua whakaaetia e te [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know)
 tētahi momo awhi whakarongo ā-kaunuku (OTC). Anei te rerekētanga mai i ngā awhi tārewa:
 
 | Āhuatanga | Awhi whakarongo ā-kaunuku | Awhi whakarongo tārewa |
