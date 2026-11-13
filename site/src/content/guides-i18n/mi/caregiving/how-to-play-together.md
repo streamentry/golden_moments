@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Me pēhea te Tākaro me tētahi e Mate Wareware ana"
+description: "He aratohu mahi mō te tākaro me te tangata e mate wareware ana: te whakarite, te tere, te kore whakatika, te whakamāmā i ngā tākaro, me te mōhio ki te wā e mutu ai."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Whakaarohia he tākaro hei wā tahi, ehara i te whakamātautau. Kōwhiria he wā mārie o te rā, noho i te taha o tētahi, i tētahi rūma klanga, ā, tukuna kotahi tākaro māmā. Waiho te tangata kia whakatakoto i te tere, kaua e whakatika i ngā hapa kāore e pōhēhē ai, whakamāmāhia te tākaro ina tīmata te pehanga, ā, huri ngā whakaahua hei kōrero. Mutu i te wā e pai tonu ai. Ko te mutu moata, te mātaki tahi rānei, he hua pai.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Ko te whāinga ko te harikoa me te hononga, ehara i te oti, i te whiwhi whakautu tika."
+  - "Whakarite tuatahi: rūma klanga, mārama pai, karaihe me ngā taringa whakarongo kei runga, pouaka whakaata kua whakakorehia, tākaro kotahi kua rite."
+  - "Kaua e whakatika i ngā hapa kāore e whakararu. Kīa “Me whakamātau tēnei āhuatanga” rānei, kia haere tonu noa rānei."
+  - "Whakamāmāhia tētahi tākaro i mua i te pehanga: whakaitihia ngā whakaahua, ngā kōwhiringa, kia noho tonu ngā whakaahua kitea."
+  - "Whakamahia ngā whakaahua hei tīmatanga kōrero me “Korerohia mai mō...”, kaua “Kei te maumahara koe...?”"
+  - "Mutu i ngā tohu ohorere o te ngenge, o te pōuritanga. Ko te mutu moata he angitu, ehara i te hinganga."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "He roa pēhea te tākaro?"
+    a: "Kāore he roa tika. Mō te nuinga, he meneti iti noa iho, ā, i ētahi rā, he taka kotahi noa iho. Titiro ki te tangata, kāore ki te karaka, ā, mutu i te wā e mārie tonu ana ia."
+  - q: "Me tuku rānei ahau kia wikitoria ia, me whakapohehe rānei ahau kāore au e kite i ngā hapa?"
+    a: "I roto i te tākaro tahi, mārie, karekau he mea hei wini, hei hinga. Mēnā kāore he pōrearea ki te tangata te hapa, tukuna. Mēnā he pōrearea, āwhinatia mārie, kia māmā rānei te tākaro, kaua e tohu."
+  - q: "Ka pēhea mēnā he pai ake ki a rātou te mātaki i a au e tākaro ana?"
+    a: "He pai tērā. E tūtohu ana te National Institute on Aging kia tukuna te tangata kia mātaki noa mēnā e pai ake ana ki a ia. Kōrero mō tāu e kite ana, ā, tonoa ia kia tohu, kia kōwhiri rānei ina pīrangi ia."
+  - q: "He whakamātau mahara rānei ēnei tākaro?"
+    a: "Kāo. He mahi tahi māmā mō te harikoa me te kōrero ō mātou tākaro. Ehara ēnei i te whakamātautau mahara, karekau e ine i tētahi mea, ā, ehara i te rongoā mō te mate wareware."
+  - q: "Ko wai te tākaro pai hei tīmata?"
+    a: "Tīmatahia ki te tākaro māmā rawa e tika ana ki te tangata. Ko Ngā Takirua Whakaahua me ngā tāera e whā, me ngā whakaahua e kitea tonu ana, me Kimihia te Ōrite me ngā kōwhiringa e rua, he tīmatanga māmā. Ka pai ngā Kāri Kōrero mēnā he pai ki te tangata te kōrero, nui ake i te pāwhiri."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Ko tētahi tākaro pai me tētahi e noho ana me te mate wareware karekau e rite ki te whakataetae. He rite ki te rua tangata e noho piri ana, e tohu ana ki ngā whakaahua, e kata ana ki tētahi whakataukī, e kōrero ana mō ngā mea ka puta. Ko te tākaro he take noa hei whakapau wā tahi.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ka whakaatu tēnei aratohu i te whakarite, i te whakarite tere o te tākaro, i ngā kī ina “he hē” tētahi mea, i te whakamāmā, i te whakapiki i te uaua o tētahi tākaro, i te huri ki te kōrero, me te mōhio ki te wā e mutu ai. Ka pai mō ā mātou [tākaro](/games/) me ngā kāri, ngā pūtiki me ngā tākaro papatepe kei a koe kē.
 
-## What is the best way to play a game with someone who has dementia?
+## He aha te huarahi pai ki te tākaro me tētahi e mate wareware ana?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Arohaehae ki te harikoa, ehara i te tutukitanga. Koia te tohutohu matua a te [aratohu mahi a te Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities): whakatipu i ngā pūkenga kei a ia tonu, āwhinatia ia kia tīmata, oti ngā wāhanga uaua mā koe, ā, kaua e whakahē, e whakatika i ngā mahi kore kino.
 
-In practice that means:
+Ko te mahi ko ēnei:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Noho i te taha, ehara i te tua.** I te taha, ka kite tahi koutou i te mata, i te tēpu, ā, he mahi tahi te āwhina, ehara i te tirotiro.
+- **Tukuna kotahi tākaro i te wā.** Ko te rārangi kōwhiringa ka rite pea ki te whakamātautau i mua i te tīmatanga.
+- **Whai i tā rātou arahi.** Mēnā e pīrangi ana ia ki te pāwhiri i ngā whakaahua i tāna ake raupapa, ki te kōrero mō tētahi whakaahua mō ngā meneti tekau, ki te mutu i muri i ngā huringa e rua, koia te tākaro o tēnei rā.
+- **Tatauria ngā wā pai, ehara i ngā taka oti.** Ko te kata, te pūrākau, te hāora mārie e rapua ana e koe te hua.
 
-## How do I set up before we start?
+## Me pēhea te whakarite i mua i te tīmatanga?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Ko ngā meneti iti o te whakarite e ārai ai i te nuinga o te pukuriri ka whakahē ai te tangata ki te tākaro tonu.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Kōwhiria te wā pai rawa o te rā.** E tūtohu ana te [aratohu National Institute on Aging (NIA) mō te urutau i ngā mahi](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kia whakamahere i ngā haerenga me ngā mahi mō te wā e pai rawa ai te tangata. Mō te nuinga, ko te waenganui o te ata. He uaua pinepine te ahiahi; titiro ki [ngā mahi mārie i te ahiahi](/caregiving/late-day-restlessness/).
+2. **Whakamārie te rūma.** Whakakatia te pouaka whakaata me te reo irirangi, kātia te kuaha mēnā ka taea. E tohutohu ana te [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kia whakaitihia te haruru me ngā mea whakararu i mua i tō kōrero.
+3. **Tirohia te whakamārietanga i mua.** He inu kei te taha, he haere ki te wharepaku i mua, he tūru whakamāmā, me ngā karaihe me ngā taringa whakarongo kei runga.
+4. **Whakamārama pai te wāhi.** Ko te marama mārama, ōrite, karekau he kanapa i te mata, ka māmā ake te kite i ngā whakaahua.
+5. **Whakarite te tākaro i mua i tō noho.** Whakatuwherahia, kōwhiria ngā tautuhinga, ā, ko koe anō te whakarite i te reo. Muri iho, huri te mata ki a rātou. Mō ngā tohutohu papapūkoro, titiro ki [te whakarite taputapu, waea rānei](/caregiving/tablets-and-screens/).
+6. **Tautokohia te taputapu.** He kaupapa, he kēhi e pūmau ai te papa ka kore e hiahiatia tētahi ki te pupuri, ā, māmā ake te tohu.
 
-## How do I invite them without pressure?
+## Me pēhea taku tono ki a rātou kāore he pehanga?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Whakaarahia te tono ngāwari, māmā te whakahāngai. Ētahi kupu e pai ana:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “I kitea e au ētahi whakaahua māra. Pīrangi koe ki te titiro tahi?”
+- “Ka taea e koe te āwhina i ahau i tēnei pūtiki? Kua mau au.”
+- “Pīrangi koe ki ngā puāwai, ki ngā manu i tēnei rā?” (he māmā ake te kōwhiri i ētahi e rua, i te pātai tuwhera)
+- “Kei te hanga au i tētahi kāri mō tō tuahine. He tae pēhea te pai?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+E tūtohu ana te Alzheimer's Association kia whakamārama i te take o tētahi mahi, pēnei i te hanga kāri mō tētahi hoa, nā te mea he tikanga tō te take. He pai hoki te tono āwhina nā te mea ka whakaaro te tangata he whai take tāna.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Mēnā ka kī kāo rātou, whakaaetia. Whakamātau anō ā muri ake, tukuna rānei tētahi mea rerekē. Ka haere atu tā mātou aratohu [mō te mahi ina kī kāo rātou](/caregiving/when-they-say-no/).
 
-## How long should a game last, and how fast should we go?
+## He roa pēhea te tākaro, he tere pēhea tā tātou haere?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Waiho te tangata kia whakatakoto i te tere, ā, whakamaheretia ngā wā poto. Karekau he roa tika i runga i te taunakitanga mō tētahi tākaro tahi. Ko ngā meneti mārie e rua ki te rima pea he mahi oti.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Tatari roa ake i te mea e pai ana.** E tohutohu ana te NIA kia hoatu he wā roa ake ki te tangata hei whakautu, ā, kia kaua e whakararu. Tatauria ki te tekau i roto i tō whakaaro i mua i tō āwhina.
+- **Kotahi hītepe i te wā.** Hoatu he tohutohu poto, kotahi (“Pāwhiria tētahi whakaahua”), ka tatari. Whakaatu, kaua e whakamārama: tohua te wāhi hei pāwhiri.
+- **Whakatārewa noa.** Mēnā ka mutu ki te kōrero mō tētahi whakaahua, ka tatari te tākaro. Karekau he take hei whakatere.
+- **Tukuna kia mātaki.** E kī ana te NIA he pai ake ki ētahi tāngata te mātaki, ā, he kōwhiringa tika tērā.
 
-## Should I correct wrong answers?
+## Me whakatika rānei i ngā whakautu hē?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Kāo. Ko te whakatika mārie i tētahi tangata ia wā ia wā ka kī ki a ia kei te hinga ia, ahakoa he pai tō whāinga. E tohutohu ana te Alzheimer's Association kia kaua e whakahē, e whakatika i ngā mahi kore kino. I roto i te tākaro, he kore kino te nuinga o ngā hapa.
 
-| Instead of | Try |
+| Engari i te | Whakamātau |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “Kāo, hē tērā.” | “Me whakamātau tēnei āhuatanga.” (he tauira i hoatu e te NIA) |
+| “Kāore i rite tērā. Titiro anō.” | Kāore he kōrero, tango i te huringa e whai ake nei, ētahi atu rānei, “Āe, he whero ērā e rua.” |
+| “Kei te maumahara koe ko wai tēnei?” | “Korerohia mai mō tēnei whakaahua.” |
+| “Kua mahia e koe tērā.” | “He pai tērā. Me mahi anō tātou.” |
+| “Ka pai, kei te mōhio koe ki tēnei.” | “Pīrangi koe kia whakaatu au i te mutunga?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Mēnā ka pōrearea te hapa ki a rātou, āwhina mārie. Tohua te whakaahua tika, tango tō huringa ake, whakamāmā rānei te tākaro i te huringa e whai ake nei. Mēnā ka whiwhi te whakataukī i tētahi mutunga hē whakakatakata, kata tahi. He pai ake pea tā rātou mutunga.
 
-## How do I make a game easier or harder?
+## Me pēhea taku whakamāmā, whakauaua rānei i tētahi tākaro?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Urutaua te tākaro ki te tangata i tēnei rā, ehara ki te tapanga wāhanga. Ka hiahia pea te tangata kotahi ki te putanga māmā ake i te pō i te ata. Ko te tohutohu tuatahi a te NIA kia rite te mahi ki ngā mea e taea ana e te tangata, ā, kia mōhio ia kua angitu.
 
-| Game | Make it easier | Make it a little harder |
+| Tākaro | Whakamāmāhia | Whakauaua iti |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Ngā Takirua Whakaahua](/games/picture-pairs/) | Tīmata me ngā tāera e 4, me ngā whakaahua e kitea tonu ana | He tāera maha ake, he huna whakaahua mēnā he pai ki a ia |
+| [Kimihia te Ōrite](/games/find-the-same/) | 2 kōwhiringa | Ka tae ki te 4 kōwhiringa |
+| [Whakarōpū Tahi](/games/sort-together/) | Ko koe e pupuri ana i te whakaahua, ko rātou e tohu ana ki te kete | Ka pāwhiri rātou i te whakaahua me te kete anō |
+| [Te Whakatakotoranga Whakaahua](/games/picture-puzzle/) | 4 wāhanga, kōrero mō te whakaahua katoa i mua | 9 wāhanga |
+| [Whakaoti i te Whakataukī](/games/finish-the-saying/) | Whakaatu i te mutunga, ā, kīa tahi | Tukuna kia kī rātou i te mutunga i mua i te pāwhiri |
+| [Rapurapu Kupu](/games/word-search/) | Tārua, rapua tētahi kupu tahi, tohua te reta tuatahi | Tukuna kia kōwhiri rātou i te kupu e whai ake nei hei rapu |
+| [Tā Tae](/games/coloring/) | Ko koe e kōwhiri ana i ngā tae e rua, ko rātou e kōwhiri ana i waenga i a rātou | Ko rātou e kōwhiri ana i ngā tae katoa |
+| [Ngā Kāri Kōrero](/games/conversation-cards/) | Titiro noa ki te whakaahua tahi | Whakamahia ngā tohutohu tuwhera o te kāri |
+| [Ngā Takirua Whakaahua Whānau](/games/photo-pairs/) | He ruarua ngā whakaahua whānau e pai ana | Tāpirihia he whakaahua atu |
+| [Pingo Whakaahua](/games/picture-bingo/) | He kaiāwhina e noho ana me ia kaitākaro | Ka tohu ā-ringa ngā kaitākaro i ā rātou kāri |
+| [Te Hā Mārie](/games/calm-breathing/) | Noho noa, mātaki tahi | Hā tahi mārie |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Ko ngā tohu he uaua rawa te tākaro: ngā wā roa e pōhēhē ana, e māharahara ana, ehara i te whakaaro, “Kāore au e taea” e hoki tonu ana, te tuku atu i te taputapu, ngā hapa e pōrearea ai rātou. Ko ngā tohu he māmā rawa pea: te ngenge ki te tākaro, te kī he tamariki te tākaro. Mēnā ka pēnei, whakaaroa, ā, huri ki tētahi mea e pakeke ana te āhua, pēnei i te rapurapu kupu, he pūtiki o tētahi whakaahua tūturu, te kōrero mō tētahi whakaahua o tō rātou mahi o mua.
 
-## How do I turn a game into a conversation?
+## Me pēhea taku huri i tētahi tākaro hei kōrerorero?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Whakamahia ia whakaahua hei tono kōrero, ā, whakaarohia he whakautu pai ahakoa he aha ka kī ai rātou. Mō te maha o ngā whānau, koia te wāhi pai rawa o te tākaro.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Pātai tuwhera, karekau he whakautu hē.** “He aha tāu e kite ana?” “Ko tēhea e pai ana ki a koe?” “Korerohia mai mō tētahi whare kai pēnei i tēnei.”
+- **Tuari tuatahi.** “He kuri pēnei tō taku kuia.” Mā tō pūrākau ka māmā ake ki a rātou te tuari tētahi.
+- **Whai i te kaupapa rerekē.** Mēnā ka arahi tētahi whakaahua waka ki tētahi pūrākau mō te haerenga rori, ko te pūrākau te mahi. Waiho te tākaro kia tārewa.
+- **Kaua e tirotiro i ngā kōrero pono.** I te whakamahara, he nui ake te whai hua o te kōrero pai i ngā kōrero tino tika. Mēnā ka rerekē te pūrākau i tērā wā, harikoa ki te putanga hou.
+- **Whakamahia ngā tohutohu kua whakaurua.** Ka whai ngā [Whakaoti i te Whakataukī](/games/finish-the-saying/) i ia whakataukī me tētahi tohutohu kōrero, ā, i hangaia ngā [Kāri Kōrero](/games/conversation-cards/) mō tēnei tonu. Ka whakamahi te [Ngā Takirua Whakaahua Whānau](/games/photo-pairs/) i ō whakaahua whānau anō, ā, he maha ngā wā ka ara ake ai ngā pūrākau tino whai taonga.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+He atu ngā whakaaro i ā mātou aratohu [mahi whakamahara](/activities/reminiscence/) me [ngā tohutohu whakawhitiwhiti kōrero](/caregiving/communication-tips/).
 
-## When should we stop?
+## Ā hea tātou me mutu ai?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Mutu i ngā tohu tuatahi o te ngenge, o te pōuritanga, ā, ko te mea pai, i mua iti iho. E tūtohu ana te Alzheimer's Association kia mutu, kia huri rānei i te mahi ina ngoikore te aro, ina piki ake te pukuriri.
 
-Watch for:
+Titiro ki:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- te whētiki, te tūtōhu, ngā kanohi e huri atu ana i te mata;
+- te whakaneke kore, te whakatū, te tono kia wehe;
+- te hā, ngā whakautu poto, “Kāore au e pai ki tēnei”;
+- te pāwhiri ohorere, te tuku atu i te taputapu;
+- te tangi, te pukuriri, te huringa ohorere o te ngākau.
 
-How to stop well:
+Me pēhea te mutu pai:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Whakamutua i tētahi mea māmā.** Tētahi takirua whakamutunga ka taea e rātou te hanga, he whakaahua whakamutunga hei whakamīharo.
+- **Me kōrero mō tō taha.** “Kei te hiahia au ki tētahi kapu tī. Me mutu i konei?” ka karo i tētahi tohu kua kino rātou.
+- **Huri ki tētahi mahi tinana, mārie rānei.** He hīkoi poto, he kai iti, te pekepeke kākahu, te waiata.
+- **Kīa tētahi kupu mahana.** “I pai ki ahau te mahi tēnā tahi me koe.” Kāore he whakanui mō te “tika”, he harikoa noa mō te wā tahi.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Ko te mutu moata, te huri i ngā mahere, te whakarere i te tākaro, ā, te noho tahi noa iho, he hua pai katoa ēnei.
 
-## Can we play in a group or over a video call?
+## Ka taea rānei te tākaro i te rōpū, i te kōrero ā-ataata?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ae, me he whakarite iti anō. I te rōpū, whakaitihia ki ētahi tāngata, noho ngā kaiāwhina ki te taha o ngā tāngata e hiahia ana, ā, kōwhiria tētahi tākaro he kaupapa tahi mārama. He kāri ka taea te tā, he kaikaranga i runga i te mata mō ngā rōpū [Pingo Whakaahua](/games/picture-bingo/). Titiro ki [ngā mahi mō ngā rōpū whare manaaki](/activities/care-home-groups/) mō ētahi atu.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+I te kōrero ā-ataata, ka taea e te tangata i te kōrero te whakaatu i tētahi whakaahua, ā, ka tohu, ka pāwhiri tētahi i te rūma. Kia poto, kia mōhio ngā kōrero. Kei tā mātou aratohu mō [ngā waea me ngā kōrero ā-ataata](/activities/phone-and-video-calls/) ētahi atu tohutohu.
 
-## What if a game just isn't working?
+## Ka pēhea mēnā kāore e pai tētahi tākaro?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+He rā kāore he mea e tika ai, ā, ehara tērā i te whakaatu mō koe, mō rātou. Tangohia te tākaro, whakamātau i tētahi wā rerekē o te rā, i tētahi tākaro rerekē, kāore rānei he tākaro. He maha ngā mahi pai karekau he pānga ki ngā mata: te waiata, te pekepeke tauera, te titiro ki tētahi pukaemi whakaahua, he hīkoi poto. Titiro ki ā mātou [whakaaro mahi](/activities/ideas/) ētahi atu.

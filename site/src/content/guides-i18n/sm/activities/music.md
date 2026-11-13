@@ -1,32 +1,28 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Gaioiga o Musika mo Tagata o loo Ola ma le Dementia"
+seoTitle: "Gaioiga o Musika mo le Dementia: Taʻaloga Pese ma Manatu"
+description: "Auala e faasoa ai musika ma le tagata o loo ola ma le dementia: faatulaga o pese tuufaatasi, gaioiga e 15 faigofie, ma fautuga mo vaitaimi uma."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  O musika o se tasi o gaioiga e sili ona faigofie e faasoa ma le tagata o loo ola ma le dementia. Faia se pusa pese mai o latou tausaga o le talavou, lotu ma aiga, taʻalo i luga o le leo e aunoa ma faʻasalalauga, ma pese, taʻi, siva po faalogo faatasi. Filifili musika malulu pe malosi e fetaui ma le taimi, faʻamalulu le leo, ma faʻamavae pe a faʻalavelave se pese.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "E sili ona lelei musika o le tagata: ituaiga na fiafia i ai i le talavou, faatasi ma musika o lotu, aganuʻu ma aiga."
+  - "Taʻalo se mea e tasi i le taimi, aua le faʻaalia faʻasalalauga ma le televise i luga."
+  - "Pese, paʻiga, siva po le faalogo naʻo e faʻaalia le auai ai."
+  - "Faʻaoga musika malulu e filemu ai, ma musika malosi e faʻaosofia ai le mood, ma vaʻai i le tali a le tagata."
+  - "E itiiti suʻesuʻega o taimi musika faʻapitoa; matou te fautua musika e fiafia ai ma faasoa, e le o se togafitiga."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "O ā ituaiga musika e sili mo le tagata o loo ola ma le dementia?"
+    a: "Musika na iloa ma alofa i ai le tagata mo le tele o tausaga, e masani ona mai i lona talavou, faatasi ma musika o lotu, aganuʻu ma faʻamanatuga o aiga. Afai e mafai, tuu le tagata e filifili. Mataʻi i foliga ma tino e iloa ai mea e fiafia i ai, ma faʻamavae i mea e foliga e faʻalavelave ai."
+  - q: "E tatau ea ona ou faʻaoga pulou faalogo?"
+    a: "E fiafia nisi tagata i pulou faalogo ona latou taofi ai le leo, ae o isi e lagona le le filemu po le popole. Taumafai muamua i se leo malosi ina ia mafai ona faalogo faatasi. Afai e te faʻaoga pulou, faʻamalulu le leo ma nofo latalata."
+  - q: "E mafai ea ona fesoasoani musika i le lotoleaga po le faʻalavelave?"
+    a: "O musika malulu ma e masani ona iloa e mafai ona faia ai se mood filemu, ma o le Alzheimer's Association o loo fautua mai e faʻaaogā musika e setiina ai le tulaga e te manaʻo. E le faia i taimi uma. Afai o loo faʻalavelave le tagata, siaki foi le mafatiaga, le fia ʻai, le leo malosi po le vaivai."
+  - q: "E mafai ea ona fiafia tagata o loo i le tulaga mulimuli i musika?"
+    a: "E toatele e mafai. O le Alzheimer's Association o loo taʻu mai e mafai i le tulaga mulimuli ona latou taʻu se laasaga po pese se pese mai o latou tamaitiiti. Nofo latalata, taʻalo musika malulu ma taʻi lima po siva faatasi."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +41,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+O musika o se tasi o mea sili ona faigofie e te faasoa ma se tagata o loo ola ma le dementia. E le manaʻomia se mea: e leai ni tali saʻo, e leai ni laasaga e mulimuli. O se pese e iloa e mafai ona oo mai ai le malie, se vaʻavae o le vae, po se upu o loo pese faatasi, e oo lava i se aso e faigata ai le talanoaga. O le mea e manaʻomia naʻo le musika saʻo mo lenei tagata ma se taimi filemu e taʻalo ai.
 
-## What music activities work for people with dementia?
+## O ā gaioiga musika e lelei mo tagata o loo ola ma le dementia?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Faalogo, pese, taʻi le paʻi, siva ma talanoa e uiga i musika e lelei uma. O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) o loo fautua mai ia taʻalo musika, talanoa e uiga i le musika ma le tusitala pese, pese po siva i pese lauiloa, ma alu i konaseti po faʻatinoga musika i le nuu. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) o loo faaopoopo mai o gaioiga e pei o le pa'i lima po le siva e mafai ona faaopoopo ai le fiafia, ma o musika e mafai ona avea ma auala e feso'otai ai pe a faigata upu.
 
-## How do you build a personal playlist?
+## E faafefea ona faʻatulaga se musika lava lau?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+O le mea sili lava e mafai ona e faia o se pusa pese o musika e taua mo lenei tagata. O le [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) o loo faʻamamafa foi musika e uiga lava i le tagata. O lenei o se auala faigofie e faia ai se tasi.
 
-### Start with their life
+### Amata i lona olaga
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Lona tamaiti ma le talavou.** Mafaufau i le mea o loo i le leitio, i siva ma i ata o le taimi na talavou ai.
+- **Aso taua.** Musika i lona faaipoipoga, le siva muamua, po se album malaga aiga e sili ona fiafia i ai.
+- **Lotu ma aganuʻu.** Pese lotu, pese paia, ma pese i lona gagana muamua.
+- **Galuega ma auaunaga.** Vaega musika o le autau, pese galuega, po musika e fesootai ma se taimi i le autau.
+- **Mea e manatua e aiga.** Fesili uso, fanau ma uo tuai o le mea sa latou taʻalo po pese.
 
-### Think in genres, not just songs
+### Mafaufau i ituaiga, e le naʻo pese
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Afai e te le iloa po o fea e amata ai, taumafai i ni minute mai ituaiga nei ma vaʻai i le tali: musika big band ma swing, doo-wop, Motown ma soul, early rock and roll, country and western, bluegrass, gospel ma hymns, pese o faʻaaliga Broadway, jazz standards, musika Latina e pei o boleros po mariachi, polka, folk ma classical. Taofi le mea e ata ai le fiafia; aveese le mea e faʻaalia ai le popole.
 
-### Make it easy to play
+### Faʻamalie le taʻalo
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Leai ni faʻasalalauga.** O le Alzheimer's Association o loo lapataʻi mai e mafua ai le popole o faʻasalalauga. Faʻaoga musika ua download, ni pusa pese, ni pepa pese po se auaunaga e leai ni faʻasalalauga.
+- **Se meafaigaluega e tasi.** Se leo e tasi ma se pa'u tele, po se pese ua saeia ma sauni, ina ia mafai ona amata e soʻo se tasi.
+- **Lisi e lua puupuu.** Se lisi malulu mo le filemu ma se lisi malosi mo le fiafia.
+- **Tusia le igoa.** Tusi le igoa o le tagata ma “musika o le fiafia” i luga o le meafaigaluega ina ia mafai ona faʻaoga e aiga asiasi ma tagata tausi.
 
-## 15 music activities to try
+## Gaioiga 15 o musika e taumafai ai
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Faalogo faatasi.** Nofo latalata ma leai se isi mea e tupu. O le faalogo o se gaioiga atoatoa.
+2. **Pese faatasi.** Amata ona e pese oe lava. O le humming po le faʻaali o upu e aofia ai.
+3. **Pa'i le paʻiga.** Pa'i tulivae, pa'i le laulau, po faʻaoga se pusa lima po se pusa alu ai le leo malu.
+4. **Siva malulu.** Taʻi lima ma faʻalulu i le kiki, po siva i le nofoa ma faʻalulu lima faatasi.
+5. **Siva ma lalanu.** Faʻalulu lalanu malulu e tusa ai ma musika, tu pe nofo.
+6. **Talanoa e uiga i musika.** Valaʻau, aua le suʻesuʻe: “E foliga o se fale siva. Ia taʻu mai e uiga i siva.” Aua le fesili “E te manatua lenei pese?”
+7. **Taʻalo se album atoa.** Taʻalo se leka na latou fiafia i ai, amata i le iuga, ma kofe.
+8. **Vaʻai i uiga o album.** Ata o pusa pese tuai e lelei mo talanoa e uiga i faiʻa, taʻavale ma mata.
+9. **Matamata i musika ata.** Se ata musika po konaseti mai lona vaitau e fai ai se afiafi lelei. Taʻu mai se taimi malolo.
+10. **Taʻalo se meafaigaluega latou te iloa.** O se tagata na taʻalo piano po kitara e mafai ona fiafia i taʻalo laiti. Mulimuli ane, o se nota e tasi faatasi e lava.
+11. **Musika i le galuega.** Taʻalo pese masani a o fuia tautu po faʻatulaga le laulau.
+12. **Pese o le taeao.** Amata aso taʻitasi i le pese fiafia tutusa o se vaega o le faʻasologa.
+13. **Pese hymns po pese paia.** Taʻalo musika mai lo latou aganuʻu lotu ma pese faatasi.
+14. **Auai i se au pese.** O le NHS o loo taʻua au pese e lelei mo le mood ma le soifua maloloina. Fesili i le nuu mo au pese e talafeagai mo le dementia.
+15. **Alu i musika ola.** Konaseti laiti i le nuu po band faʻafiafia i fafo. Nofo latalata i le faitotoa ma alu pe a manaʻo.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Mo se gaioiga malamalama faʻaaogā upu masani, taumafai i [Faaiu le faataoto](/games/finish-the-saying/), lea e mafai ai ona faʻaali le iʻuga i soʻo se taimi.
 
-## Matching music to the moment
+## Faʻatatau le musika i le taimi
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+O le Alzheimer's Association o loo fautua mai ia faʻaaogā musika e faia ai le tulaga e te manaʻo: musika malulu mo se filemu, ma pese malosi mai le talavou o se tasi e faʻamalosi ai le mood.
 
-| Moment | Try | Tip |
+| Taimi | Taumafai | Fautuga |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Ala ae | Pese malosi e masani | Pese tutusa i taeao uma e avea ma faʻailoga malulu |
+| Galuega | Pese malosi ua iloa | E mafai ona avea galuega ma se malaga o le aiga |
+| Meaʻai | Musika malulu o le leo naʻo | Taofi e le faʻalavelave i le aʻai |
+| Afiafi | Musika malulu, masani, i malamalama lelei | Vaʻai i [lotoleaga o le afiafi](/caregiving/late-day-restlessness/) |
+| Taimi o le moe | Musika malulu ma le leo malulu | Faʻamalulu le leo ma malamalama i le taimi tutusa |
+| Tulaga mulimuli | Pese sili ona fiafia i ai, malulu lava | Nofo latalata ma taʻi se lima |
 
-## Tips for a good experience
+## Fautuga mo se taʻaloga lelei
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Taofi isi leo.** O le Alzheimer's Association o loo fautua mai ia tapunia faitotoa ma faʻamalu e tutuʻu, ma tape le televise ina ia na o le musika o le leo.
+- **Faʻamalulu le leo.** E tatau ona lelei le musika, aua le malosi. Afai e faʻaoga le tagata meafaigaluega faalogo, siaki e i totonu ma galue; vaʻai i [faalogo](/brain-health/hearing/).
+- **Vaʻai i faʻalavelave o manatu leaga.** O nisi pese e faʻaalia ai le faanoanoa, le taua po le leiloa. Afai o se pese e faʻalavelave ai le tagata, faʻamalolo ia ma suia.
+- **Faʻatagaina latou e taitai.** Afai e mafai, faʻatagaina le tagata e filifili le musika, ma talia le musu.
+- **Taofi i soʻo se taimi.** Lima minute o musika o se gaioiga lelei. E lelei foi le faʻamavae ma le nofo filemu.
 
-## What does the research say about music and dementia?
+## O ā le suʻesuʻega e uiga i musika ma le dementia?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+O faʻamaoniga e itiiti. O se [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) na suʻesuʻe 30 suʻesuʻega o taimi musika faʻapitoa, e tele i vaega i falepuipui. Na maua ai e foliga e faʻamalulu laiti ai faʻailoga o le loto leaga e faʻatusatusa i le tausiga masani, ae e leai se aʻafiaga manino i le lotoleaga, le soifua maloloina po le mafaufau ma le manatu, ma e leai ni aʻafiaga na tumau ina ua maeʻa taimi.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Matou te faʻasoa musika ona e fiafia ai ma le faʻamalulu o le taimi faatasi, e le o se togafitiga. Mo faʻatinoga e tele tagata, vaʻai i [galuega o vaega i falemaʻi](/activities/care-home-groups/); mo le faʻaaogaina o musika faatasi ma ata ma tala, vaʻai i [gaioiga o le faʻamanatuga](/activities/reminiscence/).

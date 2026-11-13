@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Te Pōrearea i te Ahiahi: Ngā Mahi Mārie i te Ahiahi mō ngā Tāngata e Mate Wareware ana"
+seoTitle: "Te Pōrearea i te Ahiahi: Ngā Mahi Mārie"
+description: "Ngā tikanga mārie, ngā whakarerekētanga ruma, ngā mahi mārie hei whakaiti i te pōrearea i te ahiahi, me te waea ki te tākuta mō ngā tohu hou, kino rānei."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Ko te pōrearea i te ahiahi he pōrearea, he pōhēhē, he pukuriri rānei e tīmata ana, e kino ana rānei i te ahiahi, i te pō. Ko ngā mahi pai pea ko te tikanga tūturu i te rā, te rā me te hīkoi i te wāhanga moata, te kore kawhe, te rama ā-whare i mua i te pō, he kāinga mārie, me ngā mahi mārie pēnei i te waiata, ngā whakaahua, te pekepeke kākahu. Ko ngā tohu hou, kino rānei he hiahia tirotiro tākuta.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Ko te pōrearea i te ahiahi he pōrearea, he pōhēhē e tīmata ana, e kino ana rānei i te whiti o te rā."
+  - "Whakawhitia ngā mahi uaua, ngā haerenga me te horoi ki te ata, ki te wāhanga moata o te ahiahi."
+  - "Ko te rā, he hīkoi ia rā, he moe iti i te ahiahi, me te iti o te kawhe ka āwhina i ngā pō kia māmā ake."
+  - "Whakaaraia ngā rama i mua i te pō, whakaitihia te haruru, ā, huri ki ngā mahi mārie, mōhio."
+  - "Pupuria he rārangi tuhi hei kite i ngā take, ā, kia mārie, kia whakamārie ina tīmata te pōrearea."
+  - "Titiro ki tākuta mō ngā tohu hou, kino rānei: he mamae, he mate, he raruraru rongoā ka whai wāhi pea."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Ā hea e pā ai te pōrearea i te ahiahi?"
+    a: "Ka tīmata, ka piki ake rānei i te ahiahi, i te ahiahi moata, i te rerenga o te rā. He rerekē te wā i ia tangata, koia e whai hua ai te pupuri i tētahi rārangi tuhi poto mō tētahi wiki, e rua rānei."
+  - q: "He aha ngā mahi e āwhina ana i te pōrearea i te ahiahi?"
+    a: "Ko ngā mahi mārie, mōhio, iti te mahi e pai rawa ana i te ahiahi: ngā waiata mārie, ngā whakaahua, he kiriata, he pouaka whakaata e pai ana ki a ia, te pekepeke kākahu, he hīkoi poto, he kai iti tahi. Waiho ngā mahi hou, ngā mahi uaua mō te ata."
+  - q: "He tohu hauora rānei te pōrearea i te ahiahi?"
+    a: "Ka pā pea ki te pōrearea ngā raruraru hauora pēnei i te mamae, ngā mate pēnei i te mate ā-mimi, ngā raruraru moe, ngā pānga kino o te rongoā. Mēnā he hou, he ohorere, he kino ake rānei te pōrearea, whakapā atu ki te tākuta o te tangata."
+  - q: "Me kōrero rānei ahau ki te tākuta mō ngā rongoā mō te pōrearea i te ahiahi?"
+    a: "He kōrerorero tēnei me tō tākuta. E kī ana te Alzheimer's Association ko ngā huarahi karekau he rongoā e pai ake ana i te tuatahi, ā, me whakaaro ki tētahi rongoā mō te pōrearea i te pō anake i muri i te whakatau i ngā tūraru me ngā painga. Karekau tēnei whārangi e tuku tohutohu rongoā."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+He maha ngā whānau e kite ana i te tauira ōrite: he tino mārie ngā ata, engari i te haere o te ahiahi, ka pōrearea, ka māharahara, ka pōhēhē, ka pukuriri te tangata e noho ana me te mate wareware. Ka haere pea ia haere haere, ka tono kia “hoki ki te kāinga” ahakoa kei te kāinga ia, ka pōuri māmā rānei. He kīanga noa tēnei ko te pōrearea i te ahiahi.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Karekau he whakatika kotahi, engari ko ngā whakarerekētanga o te rerenga o te rā, o te rūma me ngā momo mahi ka tukuna e koe ka mārie pea ngā ahiahi. Ka kohia e tēnei whārangi ngā whakaaro whaihua, kāore he hauora, mai i te National Institute on Aging me te Alzheimer's Association. Ehara tēnei i te tohutohu hauora. Mēnā he hou, he ohorere, he kino ake rānei ngā tohu, kōrerohia ki tākuta o te tangata.
 
-## What is sundowning?
+## He aha te pōrearea i te ahiahi?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Ko te pōrearea i te ahiahi he pōrearea, he whakaohooho, he pukuriri, he pōhēhē rānei e tīmata ana, e kino ana rānei i te whiti o te rā, i te ahiahi, i te ahiahi moata rānei. E kī ana te [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ko te ngenge nui e piki ai te pōrearea i te ahiahi.
 
-## What can make late-day restlessness worse?
+## He aha ka kino ake ai te pōrearea i te ahiahi?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+He maha ngā mea pea e takahoro ana, he maha tonu e tahi ana. E whakarārangi ana te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) i ngā take pēnei i:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- te ngenge i muri i te rā kī;
+- ngā taiao hou, pōhēhē rānei;
+- he “uaua o te tinana” kua kore e rite, e moe ai te tangata i te rā, e ara ai i te pō;
+- te rama iti me ngā ātārangi, ka pōhēhē pea;
+- te whakaatu i te pehanga, i te pōrearea a ngā tāngata e noho ana ki a rātou;
+- te hiahia iti ki te moe, he mea noa i ngā pakeke.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Ka tāpiri te NIA i ngā take o te whakaohooho i te nuinga, tae atu ki te mamae, te pōuri, te pehanga, te whakatā iti, te kore para, te haruru nui, te tāngata nui rawa, me ētahi rongoā, ngā tauwhitinga rongoā.
 
-## How can I plan the day to make evenings calmer?
+## He aha taku whakamahere i te rā kia mārie ai ngā ahiahi?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Whakawhitia ngā mea uaua ki te wāhanga moata, ā, kia mārie, kia matapae te ahiahi. E tūtohu ana te NIA me te Alzheimer's Association he tikanga tūturu. He rā tauira, hei urutau ki tōu ake:
 
-| Time | What may help |
+| Wā | He aha ka āwhina pea |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Ata | Ngā toronga, te horoi, ngā haerenga me ngā mahi katoa e uaua ana, i te wā e mataara nui ai te maha o ngā tāngata |
+| Ata mutunga | Te wā ki waho, te tata ki te matapihi rā; he hīkoi, he mahi kē |
+| Awatea | He tina nui ake (e tūtohu ana te Alzheimer's Association kia nui te tina, kia māmā te kai ahiahi) |
+| Te ahiahi moata | Whakatā mēnā e hiahiatia ana, engari kia karo i ngā moe roa i te mutunga o te rā |
+| Waenganui ki te mutunga o te ahiahi | Ngā mahi mārie, mōhio; he kai iti me he inu; karekau he kawhe |
+| I mua i te pō | Whakaaranga i ngā rama o roto, katia ngā kaapo i mua i te pōuri |
+| Pō | He kai māmā ake, waiata klanga, whakaohooho iti, he tikanga moe tūturu |
 
-A few specific points from the sources:
+Ētahi kōrero motuhake mai i ngā puna:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Te rā.** E tūtohu ana te NIA kia whakaritea he wā ki waho, ki te taha matapihi, mō te rā ia rā.
+- **Te nekeneke ia rā, engari kaua e nui rawa.** E ai ki te NIA, whāinga kia whakakorikori tinana ia rā, kāore e whakamahere mahi maha rawa.
+- **Ngā inu i te mutunga o te rā.** Karo waipiro me ngā inu whai kawhe, pēnei i te kawhe, i ngā inu pēnei i te kōra, i te mutunga o te rā (NIA). Ka whakahua hoki te Alzheimer's Association i te nikotine.
+- **Moe.** Whakaraua ngā moe roa, ngā moe pōuri i te mutunga o te rā (NIA). E tūtohu ana te Alzheimer's Association kia whakaiti i ngā moe awatea mēnā he raruraru te moe pō.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Mō ētahi atu whakaaro mō te hanga i te rā pūmau, titiro ki [ngā mahi whakarite rā](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Me pēhea taku whakamārie i te kāinga i te ahiahi?
 
-Reduce noise, add light and keep familiar things close.
+Whakaitihia te haruru, tāpirihia te rama, ā, kia tata ngā mea mōhio.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Te rama mārama, ōrite.** Ka tūtohu te Alzheimer's Association kia rama pai te kāinga i te pō. Whakamārama te wāhi i mua i te putanga mai o ngā ātārangi.
+- **Iti ake te haruru.** Whakakatia, whakaitia rānei te pouaka whakaata me te reo irirangi, ā, whakaitihia ngā manuhiri, ngā mahi kāinga nui i tēnei wā. E tūtohu ana te Alzheimer's Association kia whakaitihia te whakaohooho i te pō pēnei i te pouaka whakaata, ngā mahi kāinga, me ngā waiata haruru.
+- **Ngā whakamārie mōhio.** E tūtohu ana te NIA i ngā waiata mārie, me te pupuri i ngā taonga me ngā whakaahua e pai ana ki a rātou puta noa i te kāinga.
+- **Ngā tirohanga whakamārie.** Ka tūtohu te Alzheimer's Association kia tirohia te mamae, te hiakai, te matewai, te kore para, te pūhoi mimi, te ngenge, ngā mate me te kiri whakaohooho, me te pupuri i te rūma ki te pāmahana whakamārie.
+- **Tō ngākau anō.** Ka whai ngā tāngata i te pehanga. E tūtohu ana te NIA kia puhoi, kia whakamārie koe mēnā ko ō māharahara anō kei te whakanui i te pehanga.
 
-## What calm activities can we do in the late afternoon?
+## He aha ngā mahi mārie ka taea e tātou i te ahiahi?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Kōwhiria ngā mahi mōhio, karekau he tere, māmā te mutu. E tūtohu ana te Alzheimer's Association i ngā mahi whakamārie pēnei i te waiata mārie, ngā whakaahua, he kiriata e pai ana, me te hīkoi tahi hei whakaiti i te pōrearea. E tūtohu ana te NIA he kai iti, he inu, he pouaka whakaata e pai ana, te waiata, te hīkoi, te pānui, he mahi kāinga māmā pēnei i te pekepeke kākahu.
 
-Ideas to try:
+Ngā whakaaro hei whakamātau:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Pekepeke kākahu tahi.** E tūtohu ana te NIA i tēnei momo mahi kāinga māmā. He māmā ngā tauera ki te whakahaere, ā, he mutunga mārama tō te mahi.
+2. **Tākaro i ngā waiata e pai ana.** Ngā waiata mōhio o ō rātou tau taiohi, i te reo iti. He mea nui te waiata iti i te reo, e tika ana te kōrari tahi. He atu ngā whakaaro i [ngā mahi waiata](/activities/music/).
+3. **Titiro ki ngā whakaahua.** He pukaemi whakaahua, he ruarua whakaahua whānau i [Ngā Takirua Whakaahua Whānau](/games/photo-pairs/) me ngā whakaahua e kitea tonu ana, ka arahi pea ki te kōrero mārie.
+4. **Hīkoi poto.** I te māra, i te poraka, i te tūnga huarahi, i mua i te pōuri.
+5. **Tuari he kai iti me he inu.** He mea māmā, mahana, karekau he kawhe, i te tēpu tahi.
+6. **Takirua mārie.** He māmā te tīmata, he māmā te mutu o [Ngā Takirua Whakaahua](/games/picture-pairs/) me ngā tāera e whā, me ngā whakaahua kitea.
+7. **Tā tae.** [Tā Tae](/games/coloring/) i runga i te mata, i te whārangi tā, karekau he whāinga kia oti.
+8. **Titiro, kōrero.** Ka tuku ngā [Kāri Kōrero](/games/conversation-cards/) i tētahi whakaahua me tētahi tohutohu tuwhera. Ko te titiro noa he mea ka pai.
+9. **Tētahi wā hā.** Ko [Te Hā Mārie](/games/calm-breathing/) he wā puhoi, mārie, ka tīmata, ka mutu koe anō.
+10. **Mahi ā-ringa.** Te whakarōpū pātene, tōkena, te whakamaeneene i te kapu moe ngāwari, te pupuri i tētahi taonga mōhio. Titiro ki [ngā mahi ā-kare](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Karo ngā tākaro hou, ngā haerenga pōuri, me ngā mea e nui ana te mahara, te aro i te mutunga o te rā. Waiho aua mea mō te ata.
 
-## What should I do when restlessness starts?
+## He aha taku mahi ina tīmata te pōrearea?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Noho mārie, whakamārie, hurihia atu mārie. E tūtohu ana te NIA kia kōrero mārie, whakarongo ki ngā māharahara o te tangata, kaua e tohe, whakamārie i a ia he haumaru ia, me te whakamahi i te pāwhiri ngāwari mēnā ka āwhina. Muri iho, whakamātau i tētahi wāwā: he kai iti, he inu, he waiata, he hīkoi.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+E tūtohu ana te Alzheimer's Association i ngā kupu pēnei i te “Kei te haumaru koe i konei” me te “E pōuri ana au kua pōuri koe”, ā, e tohutohu ana kia tāpirihia te rama, kia puhoi, kia whakaitihia te whakaohooho. Kaua e pōkaitia, e tōmoana, e here i te tangata, kaua hoki e tohe ki a ia.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Mēnā ka whakatū pakanga te tangata, e tohutohu ana te NIA kia noho i tētahi tawhiti haumaru tae noa ki te mutu o te whanonga. I te ohotata, waea atu ki tō nama ohotata o tō takiwā, ā, whakamāramahia kei te mate wareware te tangata. Ko tā mātou [aratohu mō te whakautu ki te riri me te whakatūpatotanga](/caregiving/when-anger-becomes-aggression-with-dementia/) e kōrero ana mō te haumaru tere me ngā mahi ā muri ake.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Ko ā mātou aratohu mō [te whakawhitiwhiti kōrero](/caregiving/communication-tips/) me [te mahi ina kī kāo rātou](/caregiving/when-they-say-no/) he atu ngā kōrero mō ngā kupu whakamārie.
 
-## How do I find the triggers?
+## Me pēhea taku kimi i ngā take e whakaoho ai?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Pupuria he rārangi tuhi poto mō tētahi wiki, e rua rānei. E tūtohu ana te Alzheimer's Association kia whai i ngā mea e puta ana i mua i ngā wā pōrearea i te ahiahi, kia kitea ai ngā take. Tuhia te wā i tīmata ai te pōrearea, he aha i puta i te hāora i mua, ngā moe, ngā kai me ngā inu, ngā manuhiri, te haruru me te rama. Kawea te rārangi ki te tākuta. E kī ana te NIA ka āwhina te aroturuki i ngā rerekētanga whanonga ki ngā kaitiaki me ngā kaiwhakarato hauora kia mōhio ai ki tētahi tauira.
 
-## When should I call a doctor about sundowning?
+## Ā hea ahau waea ai ki tākuta mō te pōrearea i te ahiahi?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Whakapā ki tākuta o te tangata mēnā he hou te pōrearea, mēnā kua kino ohorere, mēnā ka puta me ētahi atu rerekētanga. E kī ana te NIA me tino kōrero ki tētahi tākuta ngā huringa ohorere, ngā huringa tere o te whanonga, otirā i muri i tētahi mate, i ngā huringa rongoā tata nei.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Tonoa te tākuta kia tirotiro i ngā mea ka uaua ai ngā ahiahi. Ka whakahua te Alzheimer's Association i ngā raruraru tinana pēnei i ngā mate i ngā ara mimi, te kore whakahaere mimi, ngā waewae whakaohooho, me te mate manawa moe, ā, e tūtohu ana kia pātai he wā o te rā e pai rawa ai ia rongoā. Ka whakarārangi te NIA i te mamae, te kore para, ngā pānga kino o te rongoā, ngā tauwhitinga rongoā hei take pea o te whakaohooho.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+E kī ana te Alzheimer's Association he pai ake ngā huarahi kāore he rongoā mō ngā raruraru moe e hono ana ki te Alzheimer's, ā, me whakaaro ki te rongoā mō te whakaohooho i te ahiahi mēnā ka rahua aua huarahi, i muri i te whakatau i ngā tūraru me ngā painga. Ko taua whakatau kei tō tākuta. Kaua e tīmata, e whakamutu, e huri i tētahi rongoā, i tētahi rongoā moe, i tētahi tāpiringa rānei me te kore tohutohu hauora.
 
-## How do I get through the evenings myself?
+## Me pēhea taku whakaiti i ngā ahiahi mōku anō?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Ko te ahiahi whakamutunga pea te wāhi uaua rawa o te rā o te kaitiaki. Mēnā ka taea, tonoa tētahi whānau, tētahi hoa, tētahi kaiāwhina utu kia hipoki i te ahiahi whakamutunga e ruarua ngā rā ia wiki, ahakoa mō te hāora kotahi. Ko tā mātou [aratohu tiaki whaiaro mō te kaitiaki](/caregiving/caregiver-self-care/) e whakarārangi ana i ngā kōwhiringa whakatā me te Alzheimer's Association 24/7 Helpline koreutu.

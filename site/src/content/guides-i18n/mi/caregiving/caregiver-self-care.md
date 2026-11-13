@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Tiaki Whaiaro mō te Kaitiaki: Whakatā, Tautoko me ngā Tohu o te Ngenge Rawa"
+seoTitle: "Tiaki Whaiaro mō te Kaitiaki Mate Wareware: Whakatā me te Tautoko"
+description: "Ngā tohu o te ngenge rawa o te kaitiaki, te kimi whakatā me ngā rōpū tautoko, ngā waea āwhina koreutu o Amerika, tae atu ki te Alzheimer's Association 24/7 Helpline."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Ko te tiaki i tētahi e noho ana me te mate wareware he uaua, ā, he wāhanga o te mahi te tiaki i a koe anō. Tirohia ngā tohu tūpato pēnei i te ngenge nui, te riri, te moe kino me te wehe i ngā hoa. Tonoa he āwhina motuhake, whakamahia te manaaki whakatā, ā, uru ki tētahi rōpū tautoko. Ko ngā āwhina koreutu i Amerika ko te Alzheimer's Association 24/7 Helpline i te 1-800-272-3900 me te Eldercare Locator i te 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Ka kitea te ngenge rawa i te ngenge nui, te riri, te moe kino, te pōuri me te kore tiaki i tō hauora anō."
+  - "Ko te manaaki whakatā ka whakatā koe, mai i ngā hāora ruarua ki ngā wiki maha, i te kāinga, i tētahi wāhi hauora rānei."
+  - "Tonoa āwhina mō ngā mahi motuhake; he maha ngā tāngata e pīrangi ki te āwhina engari kāore e mōhio he aha tā rātou e hoatu ai."
+  - "Ko te Alzheimer's Association 24/7 Helpline (1-800-272-3900) he tautoko koreutu, matatapu, ia wā."
+  - "Ka hono te Eldercare Locator (1-800-677-1116) ki ngā ratonga ā-rohe, tae atu ki tō Area Agency on Aging."
+  - "Mēnā kei te raru nui koe, waea, tuhi karere rānei ki te 988. Ina ohotata, waea atu ki tō nama ohotata o tō takiwā."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "He aha ngā tohu o te ngenge rawa o te kaitiaki?"
+    a: "Ko ngā tohu noa ko te ngenge, te nui rawa o ngā mahi, te māharahara rānei, te riri, te kore manawanui, te raruraru moe, te pōuri, te kore tūmanako, te wehe i ngā hoa, ngā mamae mahunga, ngā mamae tinana i ia wā, me te kore kai, mahi tinana, tiaki hauora anō rānei. Mēnā ka puta ēnei tohu i ia wā, kōrerohia tō tākuta."
+  - q: "Me pēhea taku kimi manaaki whakatā tata ki ahau?"
+    a: "Tīmata ki te Eldercare Locator (1-800-677-1116, eldercare.acl.gov) hei hono atu ki tō Area Agency on Aging ā-rohe, ki te ARCH National Respite Locator Service, ki te Alzheimer's Association Helpline i te 1-800-272-3900 rānei. Ka taea hoki te whānau, ngā hoa me ngā ūkaipō te whakarato i te whakatā."
+  - q: "Ka utu te Medicare mō te manaaki whakatā?"
+    a: "Mō te tangata e whiwhi ana i te manaaki hōhipera, ka utu te Medicare i te nuinga o te utu mō ngā rā e rima tonu, tae atu ki te whakatā i tētahi hōhipera, i tētahi kāinga tapuhi mahi rānei, e ai ki te National Institute on Aging. Karekau te nuinga o ngā inihua hauora motuhake e uru ana ki te whakatā; ka āwhina pea te Medicaid me ētahi kaupapa inihua tiaki roa."
+  - q: "He koreutu tonu te Alzheimer's Association Helpline, ā, he wātū tonu ia pō?"
+    a: "Ae. E kī ana te Alzheimer's Association he koreutu, he matatapu tōna Helpline i te 1-800-272-3900, ā, he kaimahi mō te rā katoa, ia rā, ia tau, 365 rā ia tau. He āwhina i ngā reo maha. Waea 711 mō te ratonga whakawhitiwhiti."
+  - q: "He whakahīhī rānei te tango whakatā i te tiaki?"
+    a: "Kāo. Ka āwhina te okiokinga kia haere tonu tō tiaki, ā, ka āwhina hoki te manaaki whakatā i te tangata e tiakina ana e koe he rerekē ngā kamupene me ngā mahi. He maha ngā kaitiaki e kī ana i muri mai he pai ake mēnā i tono āwhina wawe ake rā."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ki te tiaki koe i tētahi e noho ana me te mate wareware, pea kei te pānui koe i tēnei i te roa o te pō, e ngenge ana, me te rārangi o ngā mea kāore anō kia oti. He mea noa tērā. Ko te tiaki i a koe anō ehara i te painga, i te utu mō te oti i ngā mea katoa. Koia tērā e āhei ai koe te haere tonu.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ko tēnei whārangi e whakaatu ana i ngā tohu tūpato o te ngenge rawa, me pēhea te whiwhi whakatā pono, ki hea kimi tautoko, me ngā waea āwhina koreutu o Amerika ka taea e koe te waea i tēnei rā.
 
-## What are the signs of caregiver burnout?
+## He aha ngā tohu o te ngenge rawa o te kaitiaki?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+He puhoi te ngenge rawa e uru mai ai, nā reira he pai te mōhio ki ōu tohu tūpato. E whakarārangi ana te [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) i ngā tohu o te pehanga kaitiaki, tae atu ki:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- te ngenge, te nui rawa o ngā mahi, te māharahara rānei;
+- te riri māmā, te kore manawanui;
+- te mokemoke, te wehe i ētahi atu;
+- te uaua ki te moe, te kore moe rawa;
+- te pōuri, te kore tūmanako, te ngaro i te hiahia ki ngā mea i harikoa ai koe i mua;
+- ngā mamae mahunga maha, ngā mamae, ētahi atu raruraru tinana;
+- kāore he wā hei whakakorikori, hei whakarite kai hauora mō tō tinana anō;
+- te kore horoi, te kore tiaki i a koe anō;
+- te whakamahi kino waipiro, tarukino, tae atu ki ngā rongoā tohutaka.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Ka tāpiri te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) i ngā tohu pēnei i te whakakāhore i te mate, te riri ki te tangata (“He whakahīhī noa iho tāna”), te māharahara mō āpōpō, te uaua ki te aro, me ngā raruraru hauora e pāmamae ana. E tohutohu ana kia kōrero ki tō tākuta mēnā he rite ēnei tohu ia wā.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Ko te tohutohu a te NIA, kaua e tatari kia kī rawa koe e te nui. Mātaki wawe ōu tohu, ā, mahia he mahi mō aua tohu.
 
-## What can I do today, in five minutes?
+## He aha taku mahi i tēnei rā, i roto i ngā meneti e rima?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+He mea whai take ngā whakatā iti. Karekau tētahi o ēnei e whakatika i te ngenge rawa, engari ka āwhina pea ki a koe i tētahi ahiahi uaua.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Haere ki waho.** Noho ki te kiri whare, hīkoi ki te pouaka reta, i te wā e haumaru ana, e mārie ana te tangata.
+- **Hā mārie.** He hā mārie i mua i tō whakautu i tētahi pātai uaua. Ka taea hoki e koe te tohatoha i tētahi wā [Te Hā Mārie](/games/calm-breathing/) me te tangata e tiakina ana e koe.
+- **Inu wai, kai kai.** He māmā te wareware i ō kai anō.
+- **Tuhi karere ki tētahi hoa.** Kāore hei tono i tētahi mea, hei hono noa iho.
+- **Kī atawhai ki a koe anō.** Ko te [aratohu NIA mō te tiaki i a koe anō](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) e tūtohu ana i ngā kupu pēnei i te “Kei te pai rawa atu tāku mahi”, te “Ehara au i te tino pai, ā, he pai tērā”, me te “Ka harikoa au ki ngā wā e tahi ai tātou i te rangimārie.”
 
-## What is respite care, and how do I get it?
+## He aha te manaaki whakatā, ā, me pēhea taku whiwhi?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ko te manaaki whakatā he manaaki poto mō te tangata e tiakina ana e koe, kia whakatā ai koe. E whakamārama ana te [whārangi NIA mō te manaaki whakatā](https://www.nia.nih.gov/health/caregiving/what-respite-care) ka roa pea mai i ngā hāora ruarua ki ngā wiki maha, ā, ka taea te whakahaere i te kāinga, i tētahi wāhi hauora, i tētahi pokapū manaaki pakeke i ngā rā rānei.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+E whakamārama ana te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) i ngā momo noa:
 
-| Type | What it is |
+| Momo | He aha |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Āwhina i te kāinga | Ka tae mai he hoa, he whanaunga, he ūkaipō, he kaimahi utu rānei ki te kāinga |
+| Pokapū manaaki pakeke i te rā | He mahi whakaritea pēnei i te waiata me te toi i tētahi rōpū haumaru; he waka, he kai te nuinga o te wā |
+| Noho pō, noho poto rānei | Ka manaakitia te tangata e tētahi hapori manaaki roa mō tētahi pō, mō ētahi rā, mō ētahi wiki rānei |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Ko wai te utu?** E ai ki te NIA, ka kore utu pea te whakatā mai i te whānau, i ngā hoa, i ngā ūkaipō. Ka utu ngā ratonga ngaio i te haora, i te rā. Mō te tangata e whiwhi ana i te manaaki hōhipera, ka utu te Medicare i te nuinga o te utu mō ngā rā e rima tonu o te whakatā i tētahi hōhipera, i tētahi wāhi tapuhi mahi rānei. Ka āwhina pea te Medicaid. Karekau te nuinga o ngā inihua hauora motuhake e uru ana ki te whakatā, ahakoa ka uru pea ētahi kaupapa inihua tiaki roa.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Tohu:** E tūtohu ana te Alzheimer's Association kia whakamātau i ngā kaiwhakarato whakatā i ngā wā kāore he ohotata, kia rite ai rātou ina hiahia tere koe ki te āwhina.
 
-## Where can I find help near me?
+## Ka kitea ngā āwhina tata ki ahau i hea?
 
-Several free US services can point you to local help.
+He maha ngā ratonga koreutu o Amerika ka whakaatu i ngā āwhina ā-rohe.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** Ko te [Helpline](https://www.alz.org/help-support/resources/helpline) he koreutu, he matatapu, he kaimahi mō te rā katoa, ia rā, ia tau, me te āwhina i ngā reo neke atu i 200 mā ngā kaimahi reo rua, ngā kaiwhakamāori rānei. Waea 711 mō te ratonga whakawhitiwhiti. Ka taea e koe te kōrero mō ngā huringa whanonga, te pehanga o te kaitiaki, ngā kōwhiringa whakatā, ngā kaupapa ā-rohe me ētahi atu, ā, tonoa he kōrero roa ake ki tētahi kaitohutohu tiaki. Karekau ngā kaimahi e hoatu tohutohu hauora.
+- **Eldercare Locator: 1-800-677-1116.** Ko te [Eldercare Locator](https://eldercare.acl.gov/), he ratonga tūmatanui nā te Administration for Community Living, ka hono koe ki ngā ratonga mō ngā pakeke me ō rātou whānau. Ka taea te waea, te tuhi karere, te kōrero ā-ipurangi, te īmēra ki ngā kaimahi kua whakangungu, te rapu mā te wāhi rānei. Ka whakaatu pea i tō Area Agency on Aging ā-rohe.
+- **ARCH National Respite Locator Service.** Ka āwhina te [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ki te kimi kaiwhakarato whakatā mā te kāwanatanga, ā, e tūtohu ana kia whakapā tuatahi ki tō State Respite Coalition, ki tō Lifespan Respite rānei mēnā kei a koe tētahi. E kī ana te ARCH kāore ia e tirotiro i ngā kaiwhakarato, nā reira me arotake e koe tō rātou wheako me ō rātou tuhinga anō.
 
-## How do I find a support group?
+## Me pēhea taku kimi rōpū tautoko?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Pātaihia te Helpline, rapua rānei he rōpū tata ki a koe i te ipurangi. Ka whakahaerehia e te Alzheimer's Association [ngā rōpū tautoko](https://www.alz.org/help-support/community/support-groups) mō ngā kaitiaki me ngā tāngata e noho ana me te mate wareware, ā-kanohi, ā-ipurangi, e arahina ana e ngā kaiwhakahaere kua whakangungu. He maha ngā wāhi e whakarato ana i ngā rōpū motuhake, hei tauira mō ngā kaitiaki pakeke, mō ngā tāngata e pā ana te Alzheimer's ki a rātou i te wā tamariki, i te wāhanga timatanga rānei. Kei a rātou hoki te ALZConnected, he hapori ipurangi koreutu ka tuari ai ngā kaitiaki i ngā tohutohu.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ka taea te rōpū tautoko te wāhi hei whakaputa kare me te kore whakawā, hei kohi tohutohu whaihua mai i ngā tāngata kua pēnei i a koe, ā, hei whakaiti i te mokemoke. Mēnā kāore te rōpū tuatahi e tika, whakamātau tētahi atu.
 
-## How do I ask family and friends for help?
+## Me pēhea taku tono āwhina ki te whānau me ngā hoa?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Kia mārama. He maha ngā tāngata e pīrangi ana ki te āwhina engari kāore e mōhio he aha tā rātou e hoatu ai. E tūtohu ana te NIA:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Pupuria he rārangi** o ngā mahi ka taea e ētahi atu te mahi, ā, tukuna ngā tāngata kia kōwhiri.
+- **Tīmata iti** mēnā he uaua te tono.
+- **Hāngaitia te mahi ki te tangata.** Ko te whanaunga e pai ana ki te tunu kai, ka kawe mai i te tina i ngā Tāite. Ko te hoa noho tata e mōhio ana ki ngā puka, ka āwhina i ngā pepa.
+- **Tuhi karere, īmēra rānei** mēnā he whakamā ki te tono ā-kanohi.
+- **Whakaritea tētahi whakautu** mō te wā ka whakaatu tētahi: “Mauruuru mō tō pātai. Anei ngā mea ka taea e koe.”
+- **Tatari ētahi kāo**, ā, kia kaua e whakaaro he tangata noa ēnei.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ētahi atu whakaaro: tonoa tētahi kia noho tahi me te tangata i tētahi ahiahi ia wiki, kawea te tangata ki tētahi haerenga poto, ki te toro ka tākaro tahi rānei. Ka māmā te tuari i tā mātou [aratohu mō te tākaro tahi](/caregiving/how-to-play-together/) ki ngā manuhiri.
 
-## What if something happened to me?
+## Ka pēhea mēnā he mea i pā ki ahau?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Whakaritea he mahere tūāhanga māmā inaianei. E tūtohu ana te NIA kia whakatau tahi me te whānau, me ngā hoa tata ko wai ka tū hei kaiāwhina, ā, kia pupuri he pukapuka me ngā nama ohotata, ngā rongoā, ngā tohutohu whanonga e pai ana, me ngā mahi pai. E tūtohu ana hoki te Alzheimer's Association kia māmā te kite i ngā whakapā hauora o te tangata me tētahi rārangi rongoā hou.
 
-## When should I get professional or urgent help?
+## Ā hea ahau whiwhi ai i te āwhina ngaio, ohotata rānei?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Kōrero ki tō tākuta mēnā he auau ngā tohu pehanga, mēnā kei te pōuri koe, mēnā kei te uaua ki te whakaū. Kīa ki tō tākuta he kaitiaki koe. E kī ana te NIA ka āwhina ngā kaitohutohu me ngā kaimahi hapori i ngā kare uaua me te whakamahere, ā, ka utu pea te Medicare, te Medicaid me ētahi inihua motuhake i ētahi utu hauora hinengaro.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Mēnā kei te raru nui koe, mēnā kei a koe ngā whakaaro ki te whara i a koe anō, waea, tuhi karere rānei ki te 988 kia tae ki te [988 Suicide & Crisis Lifeline](https://988lifeline.org/), he koreutu, ka wātea i ngā hāora katoa. Mēnā kei te tūraru tonu tētahi tangata, waea atu ki tō nama ohotata o tō takiwā.
 
-## Can shared activities give me a break too?
+## Ka taea rānei e ngā mahi tahi te whakatā i a au hoki?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Ētahi wā. Ko tētahi mahi mārie e harikoa ai koutou ko te tangata e tiakina ana e koe he wāhanga ngāwari o te rā mō koe, pēnei i te whakarongo ki ngā waiata tawhito, te titiro ki ngā whakaahua, ki tētahi tākaro pēnei i ngā [Kāri Kōrero](/games/conversation-cards/) karekau he whakautu tika. Mēnā e pai ana te tangata ki te whai hoa, he whakahaere rōpū ki te [Pingo Whakaahua](/games/picture-bingo/) i tētahi whare kaumātua, i tētahi hōtaka pakeke i te rā, ka whiwhi koe i te hāora whakatā. Titiro ki ngā [mahi mō ngā rōpū whare manaaki](/activities/care-home-groups/) mō ngā whakaaro.
