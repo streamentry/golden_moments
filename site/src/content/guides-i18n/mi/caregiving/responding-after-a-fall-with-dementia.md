@@ -9,9 +9,9 @@ translatedFrom: 2026-11-11
 summary: >-
   Ina tūtuki tētahi, noho mārie, titiro mēnā kua whara, kaua e wawe te whakaara i te
   tangata. Karangatia ngā ratonga ohotata mō te whara o te upoko, o te tuarongo, o te
-  kākī, o te hīpi, mō te whara nui, mēnā kāore e taea e ia te whakaara. Ahakoa he pai
-  te āhua, whakapā ki tētahi kaimahi hauora mō te tohutohu, ā, tirohia he aha pea i
-  tautoko i te tūtuki.
+  kākī, o te hīpi, mō te whara nui, mēnā kāore e taea e ia te whakaara. Ahakoa he pai te
+  āhua, whakapā ki tētahi kaimahi hauora mō te tohutohu, ā, tirohia he aha pea i tautoko
+  i te tūtuki.
 keyPoints:
   - "Titiro mēnā he mamae, he whara, engari kaua e wawe, kaua e hāpai i te tangata."
   - "Karangatia ngā ratonga ohotata o tō rohe mēnā he whara upoko, tuarongo, kākī, hīpi, he whara nui, mēnā kāore e taea e ia te whakaara."
@@ -44,22 +44,22 @@ related: [caregiving/home-safety, caregiving/bathing-with-dementia, caregiving/p
 health: true
 ---
 
-Ka whakaweti pea te tūtuki ki te tangata me te tangata e tata ana. Noho mārie, arotahia te haumarutanga tere. Kaua e whakaaro kāore he whara i te tangata, nā te mea kāore e taea e ia te whakamārama he aha te mea i tupu, kāore rānei e kī mai he aha te wāhi e mamae ana.
+Ka mataku pea te tangata, me ngā tāngata e tata ana, i te tūtuki. Noho mārie, arotahia te haumarutanga tere. Kaua e whakaaro kāore he whara i te tangata, nā te mea kāore e taea e ia te whakamārama he aha i tupu, kāore rānei e kī mai he aha te wāhi e mamae ana.
 
 ## He aha taku mahi tuatahi i muri i te tūtuki?
 
 Tirohia mēnā kei te ara te tangata, mēnā kei te mamae, kei te raru rānei, ā, mēnā ka whakautu ia i tana tikanga noa. Kaua e wawe te whakaara i a ia, kaua e hāpai ia koe anake. Ko te [NHS e kī ana me tono āwhina ohotata mēnā ka whara pea te upoko, te tuarongo, te kākī, te hīpi, mēnā he whara nui anō, mēnā kāore e taea e ia te whakaara](https://www.nhs.uk/conditions/falls/).
 
-- **Karangatia ngā ratonga ohotata o tō rohe** mēnā kei te tū pea tētahi o ērā tohu nui. Whai i ngā tohutohu a te kaiwhakahoki kōrero.
+- **Karangatia ngā ratonga ohotata o tō rohe** mēnā kei te tū pea tētahi o aua tohu nui. Whai i ngā tohutohu a te kaiwhakahoki kōrero.
 - **Waiho te tangata kia mahana, kia māmā** i a koe e tatari ana i te āwhina. Kaua e neke mēnā kei te whakaaro koe he whara nui, mēnā kāore koe e mōhio he haumaru.
-- **Noho tata mēnā ka taea.** Whakamahia he kupu poto, mārie. Kaua e pātai mō te mea i tupu, kaua e tohe kia tū ia.
-- **Mēnā kei te mamae, kei te whara, kei te raru rānei te tangata engari kāore he mōrearea tere,** whakapā ki te tohutohu hauora urupare o tō rohe, ki tana kaimahi hauora rānei mō te aratohu.
+- **Noho tata mēnā ka taea.** Whakamahia he kupu poto, mārie. Kaua e pātai i a ia he aha i tupu, kaua hoki e tohe kia tū ia.
+- **Mēnā kei te mamae, kei te whara, kei te raru rānei te tangata engari kāore he mōrea tere,** whakapā ki te tohutohu hauora urupare o tō rohe, ki tana kaimahi hauora rānei mō te aratohu.
 
 Kaua e kawe, kaua e hāpai i te tangata ko koe anake. Mēnā kei te mahere tiaki tūtuki te tangata, whai i taua mahere ina pai ki ngā mea e tupu ana i tēnei wā; karangatia ngā āwhina ohotata mēnā he whara nui pea te tangata.
 
 ## Ka aha mēnā he pai ki te tangata te whakaara?
 
-Kaua e wawe te tohe ki te tangata. Pātai he pēhea tōna āhua, mēnā e hiahia ana ia ki te āwhina. Mēnā he pai ia, kāore he whara, ā, ka taea e ia te whakaara mā tana tautoko tikanga kaua e hāpaitia, hoatu he wā, noho tata. Whakatārewa mēnā ka mamae ia, ka rewa, kāore e taea e ia. Mēnā kāore koe e mōhio, pātai ki tētahi kaimahi hauora, kaua e ngana ki te neke mā te kore whakaaturanga.
+Kaua e wawe te tohe ki te tangata. Pātai he pēhea tōna āhua, mēnā e hiahia ana ia ki te āwhina. Mēnā he pai ia, kāore he whara, ā, ka taea e ia te whakaara mā tana tautoko tikanga noa, kaua e hāpaitia, hoatu he wā, noho tata. Whakatārewa mēnā ka mamae ia, ka rewa, kāore e taea e ia. Mēnā kāore koe e mōhio, pātai ki tētahi kaimahi hauora, kaua e ngana ki te neke mā te kore whakaaturanga.
 
 Ka kī te [NHS me okioki te tangata i muri i te whakaara](https://www.nhs.uk/conditions/falls/). Ko ōna tohutohu ako mō te tangata e kī ana he kaha ia ki te whakaara; ehara i te take hei kumea, hei kawe i tētahi kua tūtuki. He rerekē te nekeneke, te toke, ngā hiahia hauora o ia tangata.
 
@@ -83,7 +83,7 @@ Kōrerohia he aha tāu i kite, kaua e whakaaro he aha te take i tūtuki ai te ta
 
 ## He aha ngā pātai hei tono ina whai muri?
 
-Ka āwhina te kaimātanga ki te whakatau mēnā e hiahia ana te tangata ki tētahi aromātai, he aha ngā tohu hei aroha. Ko te [NHS e kī ana ka aromātaihia te mate tūtuki ngā kaha, ngā karu, ngā taringa, ngā rongoā me ngā whakarerekētanga kāinga](https://www.nhs.uk/conditions/falls/). Ka taea e koe te pātai:
+Ka āwhina te kaimātanga ki te whakatau mēnā e hiahia ana te tangata ki tētahi aromātai, he aha ngā tohu hei aroha ake ai. Ko te [NHS e kī ana ka aromātaihia te tūtuki ngā kaha, ngā karu, ngā taringa, ngā rongoā, me ngā whakarerekētanga kāinga](https://www.nhs.uk/conditions/falls/). Ka taea e koe te pātai:
 
 - Me aromātai te tangata i muri i tēnei tūtuki, ahakoa kāore he whara e kitea ana?
 - He aha ngā panoni, ngā tohu me pā ai te āwhina ohotata?
@@ -91,11 +91,11 @@ Ka āwhina te kaimātanga ki te whakatau mēnā e hiahia ana te tangata ki tēta
 - Ka āwhina he ratonga tūtuki, he kaimātanga mahi ki te aromātai i te nekeneke, i ngā taputapu kāinga?
 - Ko wai te tangata, te whānau rānei e whakapā ki a rātou mēnā ka tūtuki anō?
 
-Kōrerohia ki te kaimātanga he aha tāu e mōhio ana, he aha kāore koe e mōhio ana. Mēnā kāore i kitea te tūtuki, kīa mai; kaua e whakaaro he aha te huarahi i tupu ai. Kaua e tārewa, kaua e panoni i te rongoā, kaua e hoko i tētahi taputapu, kaua e whakauru tētahi mea i runga anake i tēnei whārangi. Ka whakawhirinaki te tautoko tika ki te hauora o te tangata, tana nekeneke, tōna kāinga me ōna hiahia.
+Kōrerohia ki te kaimātanga he aha tāu e mōhio ana, he aha kāore koe e mōhio ana. Mēnā kāore i kitea te tūtuki, kīa mai; kaua e whakaaro he aha te huarahi i tupu ai. Kaua e panoni i te rongoā, kaua e hoko i tētahi taputapu, kaua e whakauru tētahi mea i runga anake i tēnei whārangi. Ka whakawhirinaki te tautoko tika ki te hauora o te tangata, tana nekeneke, tōna kāinga me ōna hiahia.
 
 ## Me pēhea e whakaaro ai mō tētahi atu tūtuki?
 
-Ina oti ngā take hauora tere, whakaarohia he aha te mahi i te horopaki me te tikanga. He āhuareka pea te ara kua kī, he panoni rama, he huarahi kē ka whai pānga, engari kaua e whakaaro he take kotahi te take o te tūtuki. Pātai ki te tangata he aha tāna i kite, he aha ka māmā ake te wāhi ki te whakamahi. Mēnā kāore te tangata e maumahara, e whakamārama rānei i te tūtuki, kōrerohia he aha tāu i kite me te kore whakapēhi i a ia mō ngā taipitopito. Tuhia te wā, te wāhi, ngā hūatanga, te rama, te mahi, me ngā panoni i tana nekeneke, i tana whanonga noa. He tuhinga poto pea ka āwhina te kaimātanga ki te kimi tauira; ehara ia i te tohu i te take.
+Ina oti ngā take hauora tere, whakaarohia he aha te mahi i te horopaki me te tikanga. He āhuatanga pea te ara kua kī, he panoni rama, he huarahi kē ka whai pānga, engari kaua e whakaaro he take kotahi te take o te tūtuki. Pātai ki te tangata he aha tāna i kite, he aha ka māmā ake te wāhi ki te whakamahi. Mēnā kāore te tangata e maumahara, e whakamārama rānei i te tūtuki, kōrerohia he aha tāu i kite me te kore whakapēhi i a ia mō ngā taipitopito. Tuhia te wā, te wāhi, ngā kākahu hāpai, te rama, te mahi, me ngā panoni i tana nekeneke, i tana whanonga noa. He tuhinga poto pea ka āwhina te kaimātanga ki te kimi tauira; ehara ia i te tohu i te take.
 
 Ko tā mātou [aratohu haumaru kāinga](/caregiving/home-safety/) e tirotiro ana i ia rūma. Mēnā i tupu te tūtuki i te wā horoi, tirohia tā mātou [aratohu horoi](/caregiving/bathing-with-dementia/). Ka aromātai te takuta, te kaimātanga mahi, te ratonga tūtuki ā-rohe i ngā raruraru motuhake, ka tohutohu i ngā panoni tika. Kaua e whakauru taputapu, kaua e panoni i te rongoā kua tohua mā tēnei whārangi anake.
 

@@ -81,7 +81,7 @@ Començatz pauc, començatz ensemble, e facilitatz lo « òc ». Fòrça persona
 1. **Triatz son melhor moment,** sovent lo matin.
 2. **Metètz tot en plaça abans** per poder començar de seguida.
 3. **Demandatz d'ajuda, pas una representacion :** « Me poiriatz donar una man amb aquestas pèças ? »
-4. **Comencetz vos-meteis.** Plegatz la primièra tolha e laissatz-la se juntar. Mostrar bat explicar.
+4. **Comencetz vos-meteis.** Plegatz la primièra tolha e laissatz-la se juntar. Mostrar val mai qu'explicar.
 5. **Ofrissètz un pas per cop.**
 6. **Prenètz la part la mai dura.** L'Alzheimer's Association suggerís de mesurar vos-meteis los ingredients, puèi de balhar la cuièr per remenar.
 7. **Laissatz-la far a sa faiçon.** Las tolhas plegadas de biais diferent son bonas.
@@ -124,7 +124,7 @@ La musica familiara pòt tocar las personas quand las paraulas son dificilas. La
 
 Gaudissètz del passat ensemble sens lo testar. Laissatz de costat « Vos recordatz... ? » e « Qu'es aquela ? » e utilizatz de dobèrtas. Vejatz [las activitats de remembrança](/activities/reminiscence/).
 
-22. **Agachar un album de fòtos.** Dire çò que vesètz : « Qual vestit ! Contatz-me aqueste jorn. » Seguissètz los noms que utiliza.
+22. **Agachar un album de fòtos.** Dire çò que vesètz : « Aqueste vestit es bèl. Contatz-me aqueste jorn. » Seguissètz los noms que utiliza.
 23. **Far una caissa de remembres.** Una bóita d'objèctes de sa vida, coma un badge de trabalh o una recèpta. Trèire los objèctes un per un.
 24. **Començar un libre de vida.** Qualques fòtos per pagina amb de legendas en grossa lectura. Ajuda los nòus ajudants a conéisser la persona.
 25. **Utilizar de cartas de conversa.** [Cartas de conversa](/games/conversation-cards/) jonchan una imatge e una question dobèrta.
@@ -190,11 +190,11 @@ Los jòcs marchan quand i a ni cronomètre, ni punt, ni pression. Se un jòc com
 65. **Jogar al bingo d'imatges.** [Bingo d'imatges](/games/picture-bingo/) convén a las familhas e als grops. Ajudatz a marcar las cartas sens contrainte.
 66. **Jogar a las damas.** Gardatz las règlas doças. Desplaçar las pèças en parlant compta.
 
-## Movement
+## Moviment
 
 Lo NIA suggerís de far de passejadas, un vélo fixe, de bandas d'estirament, de pilòtas mòlas o de balons, de levar de bòtas de sopa e de videos d'exercici per las personas agradas. Consultatz un metge abans de començar quicòm de nòu, sobretot amb de problèmas d'equilibri.
 
-67. **Lançar un balon.** Se far facen a facen. Se desplaça lentament, donc es facil de prene.
+67. **Lançar un balon.** Far-ho facen a facen. Se desplaça lentament, donc es facil de prene.
 68. **Seguir un video d'exercici assetat** fach per las personas agradas, a costat.
 69. **Estirar amb una banda.** De tiradas doças dels braces amb una banda lèugiera, assetat.
 70. **Levar de bòtas de sopa.** Lentas levadas dels braces, benlèu sus de musica.
