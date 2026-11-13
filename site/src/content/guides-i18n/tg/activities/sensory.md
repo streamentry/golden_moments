@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Фаъолиятҳои ҳиссӣ барои одамоне, ки деменсия доранд"
+seoTitle: "Фаъолиятҳои ҳиссии деменсия: ғояҳо ва бехатарӣ"
+description: "Фаъолиятҳои ҳиссӣ барои деменсия: массажи даст, матоъҳо, бӯи гиёҳ, садоҳои табиат, бо маслиҳатҳои бехатарӣ дар бораи хӯрдан ва аллергия."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Фаъолиятҳои ҳиссӣ ламс, бӯй, таъм, садо ва дидан истифода мебаранд: массажи
+  оҳистаи даст, сабади матоъҳои нарм, гиёҳҳои тару тоза барои бӯй кардан, садоҳои
+  табиат ё тамошои паррандагон дар тиреза. Онҳо ба ҳар марҳила мувофиқанд ва
+  дар марҳилаи охир хеле арзишманд ҳастанд. Пеш аз оғоз хатари хӯрдани чизҳо,
+  аллергия, мушкилоти пӯст ва ҳассосияти бӯйро санҷед, як чизро дар як вақт
+  пешниҳод кунед ва агар шахс нороҳат ба назар расад, бас кунед.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Фаъолиятҳои ҳиссӣ ба ҷавоби дуруст ниёз надоранд, аз ин рӯ дар ҳар марҳила, ҳатто дар бистар ё кресло, кор мекунанд."
+  - "Як ҳиссро дар як вақт дар ҳуҷраи ором пешниҳод кунед ва пеш аз ламс кардан пурсед ё хабар диҳед."
+  - "Ашёи хурд ва чизҳоеро, ки ба хӯрок монанданд вале хӯрок нестанд, канорагирӣ кунед, зеро одамон метавонанд чизҳоро ба даҳон гузоранд."
+  - "Пеш аз истифодаи лосьон, бӯй ё ғизо аллергия, мушкилоти пӯст ва мушкилоти нафаскаширо санҷед."
+  - "Далели бовариоварро барои он ки ароматерапия ба нишонаҳои деменсия кӯмак мекунад, ёфт нашуд; бӯйҳоро танҳо барои лаззати оддӣ, агар бошад, истифода кунед."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Барои шахси деменсиядор кадом фаъолиятҳои ҳиссии хуб ҳастанд?"
+    a: "Ғояҳои содда инҳоянд: массажи оҳистаи даст бо лосьон, ламс кардани матоъҳои нарм, бӯй кардани гиёҳҳои тару тоза ё қаҳва, гӯш кардани мусиқии дӯстдошта ё садоҳои табиат, тамошои паррандагон ё ҳавзи моҳӣ ва чашидани хӯроки дӯстдошта бо бофтаи бехатар. Як чизро дар як вақт пешниҳод кунед ва посухи шахсро бинед."
+  - q: "Оё фаъолиятҳои ҳиссӣ барои шахсе, ки чизҳоро ба даҳон мегузорад, бехатар аст?"
+    a: "Метавонанд бошанд, бо эҳтиёт. Танҳо ашёи калонро истифода баред, ки фурӯ бурда намешавад, ҳама чизи хурд ё шикананда дур гузоред ва лосьон, собун ва маҳсулоти хушбӯйро пас аз он дур нигоҳ доред, зеро онҳо метавонанд ба хӯрок монанд бошанд. Дар тамоми вақт бо шахс бошед."
+  - q: "Оё ароматерапия ба деменсия кӯмак мекунад?"
+    a: "Шарҳи Кокрейн ягон далели бовариоварро ёфт нашуд, ки ароматерапия ба одамони деменсиядор кӯмак мекунад, гарчанде ки омӯзишҳо хурд ва нопайваста буданд. Агар шахс бӯи мулоим ва шиноси дӯст дорад, ин хуб аст, аммо равғанҳои муҳими қавиро канорагирӣ кунед, махсусан дар наздикии мушкилоти нафаскашӣ ё аллергия."
+  - q: "Фартуки фаъолият чист?"
+    a: "Ин порчаи матоъ, фартук ё рӯйпӯши дастӣ аст, ки чизҳои барои ламс кардан, мисли тугмаҳои калон, занҷирчаҳо, ҳошияҳо ва порчаҳои бофта, устувор дӯхта шудаанд. Он ба дастҳои фаъол чизе барои кашф кардан медиҳад. Онро зуд-зуд санҷед, то чизи сусте набошад, ки кашида гирифта шавад."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Фаъолиятҳои ҳиссӣ панҷ ҳиссро истифода мебаранд: ламс, бӯй, таъм, садо ва дидан. Онҳо ба хотира, қадамҳо ва ҷавобҳои дуруст ниёз надоранд, пас метавонанд дар ҳар марҳила кор кунанд. Онҳо дар марҳилаи охир бештар муҳиманд. [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) қайд мекунад, ки дар марҳилаи охир ҷаҳон асосан тавассути ҳисс дарк карда мешавад ва шумо метавонед ғамхориро тавассути ламс, садо, дидан, таъм ва бӯй нишон диҳед. Чанд санҷиши бехатарӣ ин фаъолиятҳоро барои ҳама ором мекунад.
 
-## What are sensory activities for dementia?
+## Фаъолиятҳои ҳиссӣ чистанд барои деменсия?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Фаъолиятҳои ҳиссӣ таҷрибаҳои содаанд, ки дар атрофи як ҳис сохта шудаанд, мисли ламс кардани матоъ, бӯй кардани гиёҳҳо ё гӯш кардани борон. [Хадамоти миллии тандурустии Бритониё](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) мегӯяд, ки фаъолиятҳои марҳилаи охир аксар вақт бояд ба ҳисс такя кунанд ва мусиқӣ, ашёҳо барои ламс ва гирифтан ва массажи даст зикр мекунад. [Бунёди Алсгеймер дар ИМА](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) қайд мекунад, ки одамон дар марҳилаи охир метавонанд эҳтиёҷи қавӣ дошта бошанд, ки чизеро барои тасаллӣ наздик нигоҳ доранд.
 
-## Sensory ideas, sense by sense
+## Ғояҳои ҳиссӣ, ҳисс ба ҳисс
 
-### Touch
+### Ламс
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Массажи даст.** Каме лосьонро дар дастҳои худ гарм кунед ва оҳиста аз банди даст то нӯги ангуштҳо молед. [Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) барои тасаллӣ массажи бо лосьони бебӯйро зикр мекунад.
+- **Сабади матоъ.** Чоркунҷаҳои калони махмал, махмали рагдор, пашми нарм, сатин ва пашм барои молидан, ба ҳам гузоштан ва сӯҳбат дар бораи онҳо.
+- **Ҳавлаи гарм.** Ҳавлаи тари гарм барои дастҳо дар рӯзи сард. Ҳароратро аввал дар банди дасти худ санҷед.
+- **Фартуки фаъолият ё рӯйпӯши дастӣ.** Тугмаҳои калон, занҷирчаҳо, ҳошияҳо ва порчаҳои бофта, ки устувор дӯхта шудаанд.
+- **Ҳамворкунӣ.** Сабади ҳавлаҳои тоза ё салфеткаҳо барои ба ҳам гузоштан, ҷамъ кардан ва аз нав ҷамъ кардан.
+- **Чизи нарм барои гирифтан.** Пӯшиши пашмин, болишт ё ҳайвони нарми воқеӣ, ки оддӣ пешниҳод мешавад, на ҳамчун бозича.
 
-### Smell
+### Бӯй
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Гиёҳҳои тоза.** Барги пудина, розмарин, райҳон ё лавандаро байни ангуштонатон молед ва ба шахс наздик кунед.
+- **Бӯйҳои ошхона.** Қаҳваи дамшаванда, нон дар ҳоли бирён шудан, дорчин ё норанҷии пӯсташаванда дар наздикӣ.
+- **Гулҳо.** Чанд гули тоза аз боғ ё мағоза биёред.
+- **Маҳсулоти шинос.** Собун ё лосьоне, ки ҳамеша истифода мебурданд, агар пӯсташон қабул кунад.
 
-### Taste
+### Таъм
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Таъми дӯстдошта.** Як ошқӯраки хурд аз чизе, ки дӯст медоранд, мисли шираи себ, пудинг ё яхмос, дар бофтае, ки бехатар хӯрда метавонанд.
+- **Кумак дар пухтани нон.** Таъми мева ё каме глазури ширин, вақте ки якҷоя ширинӣ тайёр мекунед.
+- **Ширинии фаслӣ.** Тарбуз дар тобистон, шираи гарми себ дар тирамоҳ, дар ҳарорати бехатар пешниҳод шавад.
 
-### Sound
+### Садо
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Мусиқии дӯстдошта.** Сурудҳои шинос бо ҷаҳши оҳиста; ба [фаъолиятҳои мусиқӣ](/activities/music/) нигаред.
+- **Садоҳои табиат.** Борон, мавҷҳо ё сайраи паррандагон. Институти миллии пиронсолӣ қайд мекунад, ки мусиқӣ, садои сафед ва садоҳои табиат ба баъзе одамон оромӣ медиҳанд.
+- **Овози шумо.** Баланд хондан, сурудхонӣ ё ҳикоя гуфтан.
+- **Асбобҳои оддӣ.** Барабани дастӣ, шейкер ё зангӯла барои ҳамроҳӣ бо мусиқӣ.
 
-### Sight
+### Дидан
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Тамошои тиреза.** Хӯроки паррандагон берун аз тиреза, кӯдакон дар роҳи хонаашон ё барфи борон.
+- **Ҳавзи моҳӣ ё видеои оҳиста.** Ҳаракати мулоим бе садои баланд.
+- **Аксҳои калон.** Як акси возеҳ дар як вақт, дар сатҳи чашм нигоҳ дошта шавад.
+- **Ранг ва нақш.** Ҷудо кардани порчаҳои матоъи рангин, гулҳо ё салфеткаҳои рангӣ, ё варақи содаи ранг кардан аз маҷмӯаи [ранг кардан](/games/coloring/) мо.
+- **Берун.** Хадамоти миллии тандурустии Бритониё боғҳои ҳиссиро бо растаниҳои хушбӯй, бофтаҳо ва ҷӯйборҳо пешниҳод мекунад. Ба [фаъолиятҳои берунӣ ва боғдорӣ](/activities/outdoor-and-gardening/) нигаред.
 
-## How to make a sensory box
+## Чӣ тавр қуттии ҳиссӣ созем
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Мавзӯъро интихоб кунед,** ки ба зиндагии шахс пайваст аст: соҳил, боғ, ошхона, коргоҳ, дӯзандагӣ.
+2. **Панҷ ё шаш ашёи калон ва бехатарро интихоб кунед,** мисли садафи бузург, қошуқи чӯбӣ, шарфи нарм, халтачаи дӯхтаи лаванда ё блоки ҳамвори чӯбӣ.
+3. **Ҳар ашёро санҷед** барои қисмҳои хурд, канори тез, нахҳои шил ва чизи шикананда.
+4. **Як ашёро дар як вақт берун оред.** Онро ба шахс диҳед, тавсиф кунед ва иҷозат диҳед, ки кашф кунад.
+5. **Қуттиро баъд ҷойгир кунед,** то ки махсус бимонад ва ашёҳо пеш аз дафъаи дигар бори дигар санҷида шаванд.
 
-## Safety first
+## Аввал бехатарӣ
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Фаъолиятҳои ҳиссӣ мулоиманд, аммо чанд хатар муҳим аст. Баъзе одамони бо деменсия зиндагикунанда чизҳои ғайриғизоро ҳамчун хӯрок ба хато мегиранд ва хӯрдан метавонад бо гузашти вақт душвортар шавад. Институти миллии пиронсолӣ огоҳ мекунад, ки мушкилоти хӯрдан дар марҳилаи охир хатари хафагириро зиёд мекунад.
 
-| Risk | What to do |
+| Хатар | Чӣ кор кардан лозим аст |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Хафагирӣ | Танҳо ашёеро истифода баред, ки барои фурӯ бурдан калон аст. Тугмаҳо, мундарчаҳо, тангаҳо ва тӯбчаҳои шишагӣ дар қуттӣ набошанд. Хӯроки ғизоро танҳо дар бофтаҳое пешниҳод кунед, ки гурӯҳи нигоҳубин бехатар мегӯяд. |
+| Чизҳое, ки ба хӯрок монанданд | Институти миллии пиронсолӣ маслиҳат медиҳад, ки лосьон, собун, шампун ва атр қуфл карда шаванд, зеро шояд ба хӯрок ё бӯйи хӯрок монанд бошанд, ва меваи сунъӣ берун гузошта шавад. Маҳсулоти ҳиссиро пас аз истифода ҷойгир кунед. |
+| Аллергия | Пеш аз оғоз аллергия ба чормағз, латекс, пашм, растаниҳо ё атрро санҷед. |
+| Бӯйҳои қавӣ | Атрҳои қавӣ ва равғанҳои муҳими қавиро канорагирӣ кунед, махсусан бо астма ё мушкилоти дигари нафаскашӣ. Бӯйҳои мулоим ва табиӣ бехатаранд. |
+| Пӯст | Пеш аз массаж пӯсти дардовар, шикаста ё нозукро санҷед. Фишори мулоим истифода баред ва агар чеҳрааш дарднок шавад, бас кунед. |
+| Ҳарорат | Ҳарорати матоъҳои гарм ва нӯшокиҳоро аввал дар банди дасти худ санҷед. |
+| Асбобҳои тез ё заҳрнок | Ягон асбоби бурранда, шиша ё лавозимоти заҳрноки ҳунарӣ набошад. |
 
-## Does aromatherapy help?
+## Оё ароматерапия кӯмак мекунад?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Эҳтимолан не, ба тарзи ченшаванда. [Шарҳи Кокрейн дар бораи ароматерапия барои деменсия](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 13 омӯзишро бо 708 нафар дида баромад, ҳамааш дар хонаҳои нигоҳубини махсус, ва ягон далели бовариоварро дар бораи фоида наёфт. Омӯзишҳо хурд буданд, натиҷаҳо мухолиф буданд ва таъсири ҷонибӣ ба таври нопурра гузориш дода шуда буд. Агар шахс бӯи мулоим ва шиносро дӯст дорад, мисли лавандаи боғ, ин сабаби хуб барои бо ҳам шарик шудан аст. Ин табобат нест.
 
-## How to offer a sensory activity
+## Чӣ тавр фаъолияти ҳиссиро пешниҳод кунем
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Лаҳзаи ороми худро интихоб кунед** ва телевизорро хомӯш кунед.
+- **Аз пеш наздик шавед,** номашро гӯед ва пеш аз ламс кардан пурсед ё хабар диҳед: "Ман каме лосьон дорам. Мехоҳед, ки дастатонро молам?"
+- **Як чизро дар як вақт пешниҳод кунед,** то ки сарбор нашавад.
+- **Посухро тамошо кунед.** Чеҳраи нармтар, дастҳои ором ё табассум нишонаҳои хуб ҳастанд. Дур кашидан, абрӯ чиндан ё бекароригӣ маънои бас кардан дорад.
+- **Кӯтоҳ нигоҳ доред.** Панҷ дақиқаи ором сессияи хуб аст.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Нафаскашии оҳистаи якҷоя, мисли [нафаскашии ором](/games/calm-breathing/), метавонад роҳи мулоим барои поён расонидан бошад. Барои ғояҳои бештар дар паҳлӯи бистар, ба [фаъолиятҳои марҳилаи охир](/activities/late-stage/) нигаред, ва барои бегароории шомгоҳӣ, ба [бегароории шомгоҳӣ](/caregiving/late-day-restlessness/) нигаред.
