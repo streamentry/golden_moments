@@ -17,7 +17,7 @@ faq:
   - q: "Yiziphi izinhlobo zosizo lwasekhaya lwe-dementia?"
     a: "Usizo lungase lubandakanye ukuhlala nomuntu nokukhuluma naye, usizo emisebenzini yansuku zonke, imisebenzi yasekhaya noma ukunakekelwa kwezempilo okuqeqeshiwe. Buzani umhlinzeki ngakho konke akunikezayo nemisebenzi abasebenzi bakhe abaqeqeshiwe futhi abavunyelwe ukuyenza."
   - q: "Yimiphi imibuzo okufanele ngiyibuze umhlinzeki wokunakekelwa ekhaya?"
-    a: "Buzani ngolwazi nokuqeqeshwa kwe-dementia, imisebenzi abangayisekela, izincomo, ukuhlolwa kwemimango, isikhathi, izindleko nokuthi kwenzekani uma umsebenzi engekho. Qinisekisani ukuthi ubani okufanele nixhumane naye uma kukhona imibuzo."
+    a: "Buzani ngolwazi nokuqeqeshwa kwe-dementia, imisebenzi abangayisekela, izincomo, ukuhlolwa kwangemuva, isikhathi, izindleko nokuthi kwenzekani uma umsebenzi engekho. Qinisekisani ukuthi ubani okufanele nixhumane naye uma kukhona imibuzo."
   - q: "Umuntu onedementia kufanele asize ukukhetha umhlinzeki?"
     a: "Mbandakanyeni umuntu kangangoba efisa futhi akwazi. Buzani ukuthi yisiphi usizo akwamukelayo, mazise nomhlinzeki bese nibheka ukuthi uzizwa ekhululekile yini ekuxhumaneni."
   - q: "Ngingazi kanjani ukuthi ulungiselelo luyasebenza?"
@@ -64,13 +64,13 @@ Celani izincomo nokuthi insiza yesevisi ihlola kanjani abasebenzi bayo. Thola uk
 
 Uma umuntu evumelana, hlelani ukuhlangana ekhaya ngaphambi kokuvakashela kokuqala. Qaphelani ukuthi umhlinzeki ukhuluma nomuntu ngqo yini, ulalela izintandokazi zakhe futhi umnika isikhathi sokuphendula. Buzani umuntu ukuthi ukuhlangana kumzwe kanjani, ngendlela angakwazi ukuphendula ngayo ngokuzwakalayo.
 
-Isikhungo se-Alzheimer's Association sincoma ukuba nomunye umuntu omethembekile obekhona ngesikhathi sokuxoxisana, ukuze nixoxe ngemibono yenu ngemva kwalokho. Sebenzisani ukuhlangana ukuxoxa ngokuvakashela okujwayelekile: ukufika, ukubingelelwa, umsebenzi ohleliwe nokuthi umuntu angacela kanjani ukuyeka noma ukuphumula.
+I-Alzheimer's Association incoma ukuba nomunye umuntu omethembekile obekhona ngesikhathi sokuxoxisana, ukuze nixoxe ngemibono yenu ngemva kwalokho. Sebenzisani ukuhlangana ukuxoxa ngokuvakashela okujwayelekile: ukufika, ukubingelelwa, umsebenzi ohleliwe nokuthi umuntu angacela kanjani ukuyeka noma ukuphumula.
 
 Uma kungenzeka, vumelanani ngokuvakashela okufushane kokuqala bese nikubuyekeza kanye nomuntu. Umhlinzeki angabonakala elungele ephepheni bese engafaneleki umuntu ngokwakhe. Hlonipha impendulo yomuntu bese nixoxa ngezinye izindlela uma kukhona ukukhathazeka kwenu nakwakhe.
 
 ## Yiluphi ulwazi okufanele ngabelane ngalo nomsizi?
 
-Yabelani kuphela ngemininingwane esiza umhlinzeki ukuthi asekele umuntu ngokuphepha nangenhlonipho. Ngemvume yomuntu, chazani ukuthi ufisa ukubizwa kanjani, yimaphi amasu ebalulekile, yini esiza ukuxhumana nokuthi ufisa ukwenza yena ngokwakhe yini.
+Yabelanani kuphela ngemininingwane esiza umhlinzeki ukuthi asekele umuntu ngokuphepha nangenhlonipho. Ngemvume yomuntu, chazani ukuthi ufisa ukubizwa kanjani, yimaphi amasu ebalulekile, yini esiza ukuxhumana nokuthi ufisa ukwenza yena ngokwakhe yini.
 
 Uma izincomo zezempilo zithinta umsebenzi, buzani umuntu ongumelaphi wakhe ukuthi umhlinzeki kumele akwazi ini. Ningabuzi umsebenzi ongaqeqeshiwe ukuthi enze imisebenzi yezokwelapha engaphandle kwasemsebenzini wakhe noma kwenqubo yakhe. Gcinani ulwazi lomuntu luyimfihlo, bese nihlola ukuthi ubani onokufinyelela kunoma yiziphi izinothi ezibhaliwe noma amarekhodi okunakekelwa.
 
@@ -82,7 +82,7 @@ Hlolani nomuntu ngemva kokuvakashela. Buzani ukuthi yini ezwakale ikhululekile, 
 
 Vumelanani nomhlinzeki ukuthi nizobelana kanjani ngezibuyekezo ezijwayelekile nokuthi nizobhekana kanjani nokukhathazeka. Uma ukuvakashela kukhanselwa, yazini ukuthi ubani ongahlinza uhlelo lokusekela noma ukuthi umuntu ufisa ukwenza yini esikhundleni salokho. Buyekezani imisebenzi lapho uhlelo lwansuku lomuntu, impilo yakhe noma izidingo zakhe zosizo zishintsha.
 
-Izindleko, izikhathi nezinsizakalo ezitholakalayo ziyahluka. Cela umhlinzeki imigomo ebhalwe phansi, okubandakanya amazinga, ubude obuncane bokuvakashela, imithetho yokukhansela nezindleko ezengeziwe. Udokotela womuntu, izinsizakalo zasendaweni zokuguga noma izinhlangano zedementia zingase zincome izindawo zokubheka, kodwa qhathanisani abahlinzeki ngokwenu nomuntu.
+Izindleko, izikhathi nezinsizakalo ezitholakalayo ziyahluka. Celani umhlinzeki imigomo ebhalwe phansi, okubandakanya amazinga, ubude obuncane bokuvakashela, imithetho yokukhansela nezindleko ezengeziwe. Udokotela womuntu, izinsizakalo zasendaweni zokuguga noma izinhlangano zedementia zingase zincome izindawo zokubheka, kodwa qhathanisani abahlinzeki ngokwenu nomuntu.
 
 Uma umuntu edideka ngokuzumayo noma ephila kabi kakhulu, ungacabangi ukuthi lolo shintsho luvela ku-dementia. [Iseluleko se-NHS sithi usizo lwezokwelapha oluphuthumayo luyadingeka ngokudideka okuvelayo](https://www.nhs.uk/symptoms/confusion/). Ngokukhathazeka okuqhubekayo mayelana nokunakekelwa, khulumani nodokotela noma nochwepheshe ofanele.
 
