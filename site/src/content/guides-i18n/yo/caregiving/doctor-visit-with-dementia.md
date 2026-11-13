@@ -91,4 +91,4 @@ Béèrè ohun tí yóò mú ìbẹ̀wò rọrùn. Ẹni náà lè fẹ́ àkók�
 
 Tí ẹni náà bá ń ṣàníyàn, ṣàlàyé ètò náà ní ọ̀nà tó dákẹ́ jẹ́ẹ́ tó sì tààrà tó bá a mu. Mú nǹkan tó mọ́ ọn tàbí ohun tó lè ṣe nígbà tó ń dúró, tí ẹni náà bá fẹ́. Béèrè bí ìkìlọ̀ tí ó fẹ́ ṣe pẹ́ tó: àwọn kan fẹ́ àkókò láti múra, nígbà tí àwọn mìíràn lè fẹ́ ìrántí kúkúrú nítòsí ìbẹ̀wò. Lo àlàyé òtítọ́ tó ṣiṣẹ́ fún un.
 
-Ìbẹ̀wò tó dára máa ń jẹ́ kí a gbọ́ ohùn ẹni náà, kí ó sì yé e àwọn ìgbésẹ̀ tó kàn. Múra papọ̀, dáàbò bo àṣírí, kí o sì béèrè lọ́wọ́ ilé ìwòsàn láti ṣàlàyé ohunkóhun tó bá ṣì ṣe kedere.
+Ìbẹ̀wò tó dára máa ń jẹ́ kí a gbọ́ ohùn ẹni náà, kí ó sì yé e àwọn ìgbésẹ̀ tó kàn. Múra papọ̀, dáàbò bo àṣírí, kí o sì béèrè lọ́wọ́ ilé ìwòsàn láti ṣàlàyé ohunkóhun tó bá kò tíì ṣe kedere.
