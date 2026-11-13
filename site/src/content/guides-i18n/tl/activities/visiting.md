@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Pagbisita sa Taong may Dementia sa Memory Care o Ospital"
+seoTitle: "Pagbisita sa Taong may Dementia: Ano ang Gagawin at Dadalhin"
+description: "Ano ang gagawin sa pagbisita sa taong may dementia sa memory care, nursing home o ospital: ano ang dadalhin, aktibidad, maiikling bisita at maayos na pag-alis."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Kapag bumibisita ka sa taong may dementia sa memory care o ospital, panatilihing
+  simple: sabihin ang pangalan mo pagdating, magdala ng maibabahagi gaya ng
+  larawan, musika o paboritong meryenda, at gumawa ng isang madaling bagay nang
+  magkasama. Mas madalas bumuti ang maiikli at regular na bisita kaysa sa mahaba
+  at bihirang bisita. Magplano ng mahinahon at pare-parehong paalam para mas
+  madali ang pag-alis para sa inyong dalawa.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Batiin ang tao sa pangalan at sabihin kung sino ka, para hindi na niya kailangang hulaan: “Hi Nanay, si Susan ito, ang anak mo.”"
+  - "Magdala ng isa o dalawang bagay na maibabahagi, gaya ng album ng larawan, paboritong musika, malambot na kumot, o meryendang inaprubahan ng staff."
+  - "Mas madalas bumuti ang maiikli at regular na bisita kaysa mahaba at bihira. Mas mahalaga ang iyong presensya kaysa sa sinasabi mo."
+  - "Sa ospital, bigyan ang staff ng isang pahinang papel tungkol sa tao at sabihin agad sa doktor ang anumang biglaang pagbabago."
+  - "Magplano ng iyong pag-alis: sabihin kung gaano ka katagal makakapanatili, gamitin ang parehong paalam sa bawat pagkakataon, at umalis nang hindi nagtatagal."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Ano ang dapat kong dalhin kapag bumibisita sa taong may dementia?"
+    a: "Magdala ng maibabahagi sa halip na pag-uusapan. Maayos ang maliit na album ng larawan, playlist ng paboritong kanta, malambot na kumot, losyon sa kamay, magasin tungkol sa lumang libangan, o meryendang inaprubahan ng staff. Sa care home, nakatutulong ang mga larawan ng pamilya at pamilyar na bagay para maging parang tahanan ang kuwarto."
+  - q: "Gaano katagal dapat manatili kapag bumibisita sa taong may dementia?"
+    a: "Walang tamang haba. Maraming pamilya ang nakitang mas mabuti ang maikli at mas madalas na bisita kaysa mahaba at bihira, dahil maaaring mabilis mapagod ang tao at maaaring hindi niya maalala kung gaano ka katagal nanatili. Bantayan ang senyales ng pagod at umalis habang maganda pa ang pakiramdam ng pagbisita."
+  - q: "Ano ang sasabihin ko kapag sinabi nilang gusto nilang umuwi?"
+    a: "Tumugon sa damdamin, hindi sa mga salita. Ang “Gusto kong umuwi” ay madalas ibig sabihin ay “Hindi ako komportable o ligtas.” Subukang sabihin, “Ikuwento mo sa akin ang tahanan mo,” tumingin nang magkasama ng mga larawan, o mag-alok ng lakad o meryenda. Ang pakikipagtalo o pagpapaliwanag kung bakit hindi sila makaaalis ay kadalasang nagdaragdag ng pagkabalisa."
+  - q: "Paano kung hindi nila ako nakikilala?"
+    a: "Masakit ito, pero subukang huwag silang itama o itanong ang “Hindi mo ba alam kung sino ako?” Ipakilala ang sarili nang mainit at simple, at tamasahin ang oras na magkasama. Maraming tao ang nasisiyahan pa rin sa kasama at nakadarama ng init ng pagbisita kahit hindi nila matukoy kung sino ka."
+  - q: "Paano ako makatutulong sa panahon ng pananatili sa ospital?"
+    a: "Samahan ang tao kapag kaya mo, tulungan silang kumain at uminom, at magdala ng pamilyar na bagay gaya ng mga larawan. Bigyan ang staff ng papel na naglilista ng kanilang nakagawian, gustong pangalan, mga gusto, ayaw at senyales ng sakit. Sabihin agad sa doktor kung biglang lumala o naiba ang tao, dahil ang biglaang pagkalito ay maaaring senyales ng problemang medikal."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Ang pagbisita sa mahal mo sa buhay sa memory care, nursing home o ospital ay maaaring magdulot ng maraming damdamin. Maaaring nagtataka ka kung ano ang sasabihin, ano ang dadalhin, o kung may saysay pa ba ang pagbisita kung hindi naman niya ito maaalala. May saysay ito. Sinasabi ng National Institute on Aging na ang mga taong may Alzheimer's ay [kadalasang nasisiyahan sa kasama](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kahit hindi nila maalala kung sino ang bisita. Nagbibigay ang pahinang ito ng praktikal na hakbang bago, habang at pagkatapos ng bisita, pati na mga partikular na tip para sa pananatili sa ospital.
 
-## How do I get ready for a visit?
+## Paano ako maghahanda para sa pagbisita?
 
-A little planning makes the visit easier for both of you.
+Nakatutulong ang kaunting pagpaplano para mas maging madali ang pagbisita para sa inyong dalawa.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Pumili ng magandang oras.** Iminumungkahi ng Dementia Australia na bumisita kapag karaniwang pinakaalerto ang tao, na para sa maraming tao ay umaga o bandang tanghali. Iminumungkahi ng Family Caregiver Alliance na alamin ang iskedyul ng pasilidad at bumisita sa [libreng oras sa halip na oras ng aktibidad](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Magtanong sa staff.** Itanong kung kumusta ang tao ngayon, at alamin ang anumang patakaran tungkol sa pagkain, alagang hayop o paglabas.
+- **Mag-impake ng maliit na bag ng pagbisita.** Sapat na ang isa o dalawang bagay na maibabahagi (tingnan ang listahan sa ibaba).
+- **Magplano ng ilang paksa.** Maaaring walang balitang maibahagi ang tao, kaya magdala ng sarili mo: balita ng pamilya, panahon, laro ng bola, nakakatawang kuwento.
+- **Itakda ang sarili mong inaasahan.** May mga bisitang masaya at maraming kuwentuhan. May mga tahimik o mahirap. Parehong normal iyon.
 
-## What should I bring?
+## Ano ang dapat kong dalhin?
 
-Bring things to share, not things that test. Good choices include:
+Magdala ng mga bagay na maibabahagi, hindi mga bagay na sumusubok. Mabubuting pagpipilian ang:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Maliit na album ng larawan** na may malalaki at malilinaw na larawan. Lagyan ng label ang likod para sa staff.
+- **Playlist** ng paboritong kanta sa telepono, kasama ang simpleng headphone o maliit na speaker.
+- **Bagay na malambot na mahahawakan,** gaya ng pamilyar na kumot, bandana o sweater.
+- **Losyon sa kamay** para sa banayad na masahe sa kamay, kung gusto ng tao ang paghipo.
+- **Magasin o aklat ng larawan** tungkol sa lumang interes, gaya ng paghahardin, kotse, ibon o pagluluto.
+- **Paboritong meryenda,** kung sinabi ng staff na ligtas ito.
+- **Pamilyar na bagay para sa kuwarto.** Iminumungkahi ng Family Caregiver Alliance ang bulaklak, halaman, larawan ng pamilya at likhang-sining, o malaking poster ng mga larawan ng pamilya mula sa nakaraan.
+- **Tablet,** para tumingin ng larawan ng pamilya o maglaro ng banayad na laro nang magkasama.
 
-## What can we do together during a visit?
+## Ano ang maaari nating gawin nang magkasama sa pagbisita?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Ang paggawa ng isang bagay nang magkasama ay nag-aalis ng pressure sa usapan. Iminumungkahi ng Dementia Australia ang pagtingin sa mga larawan, madaling sining, pagtatanim ng punla, musika, pagbabahagi ng meryenda, o paglalakad sa paligid ng bakuran. Ilan pang ideya:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Tingnan ang mga larawan.** Ituro ang nakikita mo: “Tingnan mo ang sombrerong iyan.” “Ang ganda ng dalampasigang ito.” Hayaang mangunguna ang tao. Iwasan ang “Sino ito?”
+2. **Magpatugtog ng musika at kumanta.** Ang pamilyar na kanta ay nakapagpapagaan ng mood at nakalilikha ng sandaling pinagsasaluhan, kahit mahirap ang pag-uusap.
+3. **Maglakad nang maikli.** Iminumungkahi ng Family Caregiver Alliance na maglakad sa paligid ng pasilidad, lalo na sa hardin kung mayroon. Kasama na ang paglilibot gamit ang wheelchair.
+4. **Bigyan ng masahe sa kamay.** Kaunting losyon at mabagal na haplos sa mga kamay ay maaaring nakapagpapakalma.
+5. **Tumulong sa pag-aayos.** Binabanggit ng Dementia Australia ang pagsusuklay ng buhok, pagpipintura ng kuko, o pagtulong sa tao na magsuot ng paboritong damit, kung nasisiyahan sila rito.
+6. **Maglaro ng simpleng laro.** Iminumungkahi ng Family Caregiver Alliance ang baraha, dominoes, o anumang dating nilalaro ng tao. Sa tablet, maaaring laruin ang [Magkapares na Larawan](/games/picture-pairs/) habang nakikita ang mga larawan at walang timer. Ginagawang laro ng pagtutugma ang mga larawang pipiliin mo ng [Magkapares na Litrato](/games/photo-pairs/), at nananatili sa browser mo ang mga larawan.
+7. **Manood nang magkasama.** Iminumungkahi ng Family Caregiver Alliance ang mga komedya at lumang pelikula. Kahit hindi masundan ng tao ang kuwento, maaari kayong maupo nang magkalapit at magbahagi ng oras.
+8. **Magbasa nang malakas.** Maikling tula, paboritong talata, o liham mula sa kapamilya.
+9. **Umupo lang nang magkasama.** Ang paghawak ng kamay o tahimik na pag-upo ay totoong bisita. Sinasabi ng Alzheimer's Association na ayos lang na hindi alam kung ano ang sasabihin, at ang iyong presensya ang pinakamahalaga.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Makatutulong ang [mga card ng usapan](/games/conversation-cards/) kapag naubusan ka ng sasabihin. May larawan at bukas na prompt ang bawat card.
 
-## How should I talk during the visit?
+## Paano ako dapat magsalita habang bumibisita?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Ipakilala ang sarili sa bawat pagkakataon.** “Hi Tatay, si Mark ito, ang anak ninyo.” Iminumungkahi ng NIA na maikling ipakilala ng mga bisita ang kanilang sarili para mabuksan ang usapan.
+- **Lumapit mula sa harapan** at umupo nang nasa antas ng mata.
+- **Huwag itama o makipagtalo.** Pinapayuhan ng NIA ang mga bisita na huwag itama ang tao kapag nagkamali siya o nakalimot.
+- **Maging matiyaga** kapag mahirap hanapin ang mga salita. Magbigay ng sapat na oras.
+- **Tumugon sa damdamin.** Kung mukhang malungkot o nag-aalala ang tao, kilalanin muna ito bago palitan ang paksa.
+- **Iwasan ang mga tanong na parang pagsusulit,** gaya ng “Naaalala mo ba ako?” o “Ano ang kinain mo sa tanghalian?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Tingnan ang aming [mga tip sa komunikasyon](/caregiving/communication-tips/) para sa higit pa.
 
-## What do I do when they say "I want to go home"?
+## Ano ang gagawin ko kapag sinabi nilang “Gusto kong umuwi”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Tumugon sa damdaming nasa likod ng mga salita (ang aming gabay tungkol sa [kapag paulit-ulit na humihiling na umuwi ang isang tao](/caregiving/asking-to-go-home/) ay mas detalyado). Ipinaliliwanag ng Family Caregiver Alliance na ang “Gusto kong umuwi” ay kadalasang paraan ng pagsasabing “Hindi ako komportable,” at iminumungkahi ang mga tugon gaya ng “Ikuwento mo sa akin ang tahanan mo” o “Ano ang paborito mong bagay sa bahay?” Idinagdag ng Dementia Australia na ang “tahanan” ay maaaring tumukoy sa panahon o lugar kung saan naramdaman ng tao na ligtas siya, gaya ng pagkabata.
 
-Try:
+Subukan:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- kilalanin ang damdamin: “Parang namimiss mo ang bahay.”
+- mag-alok ng ginhawa sa pamamagitan ng paghawak, kung tinatanggap
+- tumingin ng larawan o pag-usapan ang tahanan ng pamilya
+- mag-alok ng lakad, inumin o meryenda
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Iwasan ang pakikipagtalo o pagpapaliwanag kung bakit hindi sila makaaalis. Bihira itong makatulong at kadalasang nagdaragdag ng pagkabalisa.
 
-## How long should a visit be?
+## Gaano katagal dapat ang isang bisita?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Mas madalas bumuti ang mas maikli at mas madalas. Sinasabi ng Family Caregiver Alliance na kadalasang hindi naaalala ng tao kung limang minuto o limang oras kayong nanatili, at iminumungkahing mas mabuti ang tatlong maiikling bisita sa isang linggo kaysa isang mahaba. Sinasabi ng Dementia Australia na walang tamang bilang ng bisita o tamang haba.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Sa unang mga linggo pagkatapos lumipat sa memory care, iminumungkahi ng Family Caregiver Alliance na madalas bumisita, at pagkatapos ay unti-unting bumalik sa regular na iskedyul. Itanong sa staff kung ano ang nakikita nila.
 
-## How do I leave without upsetting them?
+## Paano ako aalis nang hindi sila nababagabag?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Ang pag-alis ang maaaring pinakamahirap na bahagi. Iminumungkahi ng Dementia Australia ang:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Sabihin kung gaano ka katagal makakapanatili pagdating mo.** “Makakapanatili ako nang isang oras, pagkatapos ay mamimili ako.”
+- **Gawing natural na pagtatapos ang isang aktibidad.** “Pagkatapos ng kantang ito, aalis na ako.”
+- **I-time ito sa pagkain o aktibidad,** o hilingin sa staff na tulungan ang tao na magpokus sa iba.
+- **Panatilihing maikli at pareho ang paalam sa bawat pagkakataon.** Ang pagtatagal, paghingi ng paumanhin, o pananatili ng “kaunti pa” ay maaaring magpahirap sa mga susunod na paalam.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Pagkatapos mong umalis, normal na makaramdam ng lungkot. Hayaan ang sarili na magpahinga. Kung nabagabag ang tao, kadalasang makatutulong ang staff para siya ay kumalma sa lalong madaling panahon.
 
-## Visiting someone with dementia in the hospital
+## Pagbisita sa taong may dementia sa ospital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Maingay, hindi pamilyar at puno ng mga hindi kilalang tao ang ospital, na maaaring maging napakahirap para sa taong may dementia. Inirerekomenda ng gabay ng NIA tungkol sa [pagdadala ng taong may Alzheimer's sa ospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ang:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Magkaroon ng taong makakasama** ang tao hangga't maaari: kapamilya, pinagkakatiwalaang kaibigan, o inupahang tagapag-alaga.
+- **Bigyan ang staff ng papel na may personal na impormasyon** tungkol sa nakagawian ng tao, gustong pangalan, mga gusto at ayaw, posibleng nagpapasimula ng pagkabalisa, at mga di-verbal na senyales ng sakit. Maglagay ng kopya sa kuwarto at sa istasyon ng mga nars.
+- **Tumulong sa pagkain at pag-inom.** Maaaring kulangin sa nutrisyon ang mas matatandang tao sa ospital. Buksan ang mga lalagyan, tumulong sa pagkain, kumain nang magkasama, at mag-alok ng inumin.
+- **Magdala ng nakapapanatag na bagay,** gaya ng larawan o bagay na may espirituwal na halaga.
+- **Pababain ang ingay.** Patayin ang TV at bawasan ang volume ng telepono at intercom.
+- **Subukan ang nakapapakalmang gawi,** gaya ng nakapapanatag na musika, pagbabasa, pagdarasal, pag-awit, o pagtingin sa lumang larawan.
+- **Hikayatin ang paggalaw** hangga't ligtas, sa pagsang-ayon ng staff.
+- **Sabihin agad sa doktor kung biglang lumala o naiba ang tao.** Ipinaliliwanag ng NIA na ang biglaan at matinding pagkalito, na tinatawag na delirium, ay maaaring sanhi ng mga problema gaya ng impeksiyon, lagnat, pagkatuyo ng katawan o epekto ng gamot, at nangangailangan ng medikal na atensiyon.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Ang maikli at mahinahong bisita kasama ang pamilyar na mukha at paboritong kanta ay maaaring ang pinakanakaaaliw na bahagi ng isang araw sa ospital.
 
-## Bringing children on a visit
+## Pagdadala ng mga bata sa pagbisita
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Malaki ang init na maidudulot ng mga bata. Ihanda sila nang maaga gamit ang simple at tapat na salita, panatilihing maikli ang bisita, at bigyan sila ng gawain, gaya ng pagpapakita ng guhit o pag-abot ng larawan. Iminumungkahi ng NIA na maaaring magsaya nang magkasama ang mga bata at mga taong may Alzheimer's sa simpleng aktibidad, gaya ng pagtingin sa album ng larawan o pakikinig sa musika. Iminumungkahi ng Dementia Australia na magdala ng maliit na bag ng pagkain o tahimik na laruan para mapanatiling abala ang maliliit na bata.
 
-## Take care of yourself too
+## Alagaan din ang sarili mo
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Maaaring nakapapagod at nakaaantig ng damdamin ang pagbisita, lalo na kung malaki ang nagbago sa tao. Ayos lang na bumisita nang mas bihira kung kailangan, magdala ng kaibigan para sa suporta, o umalis nang maaga sa mahirap na araw. Para sa mga ideya kung paano alagaan ang sarili, tingnan ang [pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/). Kung malayo ka nakatira, tingnan ang aming gabay tungkol sa [tawag sa telepono at video](/activities/phone-and-video-calls/).
