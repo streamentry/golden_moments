@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Bèt",
+      "description": "Bèt dous e zanmitay ki soti toupatou sou latè"
+    },
+    "nature": {
+      "name": "Lanati",
+      "description": "Bèl peyizaj ak bèl senn lanati"
+    },
+    "food": {
+      "name": "Manje",
+      "description": "Bon manje ak bon dezè"
+    },
+    "vintage": {
+      "name": "Machin",
+      "description": "Machin ak kamyon pou gade epi pale sou yo"
+    },
+    "flowers": {
+      "name": "Flè",
+      "description": "Bèl flè ak senn jaden"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Bèt nan fèm",
+      "description": "Bèt fèm zanmitay, tankou lè w al vizite kanpay la.",
+      "theme": "Lavi nan fèm",
+      "images": {
+        "cow_1": "Yon bèl vach dous",
+        "pig_1": "Yon kochon kontan",
+        "chicken_1": "Yon kòk",
+        "buffalo_1": "Yon bèf dlo",
+        "horse_1": "Yon bèl chwal",
+        "duck_1": "Yon fanmi kanna",
+        "goat_1": "Yon kabrit kirye",
+        "rabbit_1": "Yon bèl lapen"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vi sou mòn yo",
+      "description": "Bèl peyizaj mòn ki bay souf ou koupe ak bèl vi dyaman",
+      "theme": "Bèlte lanati",
+      "images": {
+        "mountain_1": "Pwent mòn ki kouvri ak nèj",
+        "mountain_2": "Mòn Fuji",
+        "mountain_3": "Yon vale nan mòn Alp yo",
+        "mountain_4": "Yon somè ki gen wòch",
+        "mountain_5": "Ti mòn ki gen forè",
+        "mountain_6": "Mòn ki kouvri ak bwouya"
+      }
+    },
+    "vintage_cars": {
+      "title": "Machin ak kamyon",
+      "description": "Machin ak kamyon ki klere pou gade epi pale sou yo",
+      "theme": "Sou wout la",
+      "images": {
+        "vintage_car_1": "Yon Audi zoranj nan kouche solèy",
+        "vintage_car_2": "Yon machin espò ble nan dezè a",
+        "vintage_car_3": "Yon Bugatti gri",
+        "vintage_car_4": "Yon Porsche nwa sou wout la",
+        "vintage_car_5": "Yon BMW zoranj sou yon lari ki gen pye palmis",
+        "vintage_car_6": "Yon kupe ble bò yon garaj",
+        "vintage_car_7": "Yon kamyonèt vèt",
+        "vintage_car_8": "Yon SUV blan nan mitan wòch wouj",
+        "vintage_car_9": "Yon Aston Martin",
+        "vintage_car_10": "Yon machin ble ak ray blan"
+      }
+    },
+    "animals_safari": {
+      "title": "Bèt safari",
+      "description": "Bèt majestye ki soti nan safari Afrik yo",
+      "theme": "Bèt sovaj",
+      "images": {
+        "lion_1": "Yon bèl lyon",
+        "elephant_2": "Yon elefan Afrik",
+        "jaguar_3": "Yon jagwa",
+        "zebra_4": "Yon zèb ak ray",
+        "rhino_5": "Yon rinosewòs fò",
+        "cheetah_6": "Yon gepa rapid",
+        "fox_7": "Yon rena mawon",
+        "bear_8": "Yon lous blan",
+        "turtle_9": "Yon tòti mawon",
+        "squirrel_10": "Yon ekirèy mawon",
+        "macaw_11": "Yon ara jòn ak ble",
+        "tiger_12": "Yon tig",
+        "raccoon_13": "Yon rakun",
+        "wolf_14": "Yon chen mawon gri",
+        "crocodile_15": "Yon kayiman",
+        "peacock_16": "Yon bèl paon"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Bon dezè",
+      "description": "Kèk bon dezè pou manje ou yo.",
+      "theme": "Dezè dous",
+      "images": {
+        "pastries_1": "Kat patisri",
+        "oreo_cookie_sandwiches_2": "Bonbon Oreo ak krèm nan mitan",
+        "crepe_3": "Yon krèp",
+        "pancake_4": "Yon pankek",
+        "macarons_5": "Makaròn",
+        "caramel_cake_6": "Yon gato karamèl"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flè twopikal",
+      "description": "Dekouvri bèlte klere twopik yo ak pake flè ekzotik sa a.",
+      "theme": "Flè twopikal",
+      "images": {
+        "hibiscus_1": "Yon choublak wouj",
+        "frangipani_2": "Yon frangipan wouj ak blan",
+        "sunflower_3": "Yon tounesòl",
+        "hydrangea_4": "Yon ortansya blan",
+        "rose_5": "Yon rèz",
+        "chrysanthemum_6": "Yon krizantèm",
+        "anthurium_7": "Yon antiryòm",
+        "plumeria_8": "Yon plumerya",
+        "kodom_9": "Yon kodom",
+        "delphinium_10": "Yon delfinyòm"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Manje lari",
+      "description": "Eksplore mond manje lari ki gen anpil koulè ak pake kolasyon ki bon sa a ki soti toupatou sou latè.",
+      "theme": "Manje lari",
+      "images": {
+        "taco_1": "Yon takò meksiken",
+        "ramen_2": "Yon ramen japonè",
+        "dumplings_3": "Boulèt chinwa",
+        "samosa_4": "Yon samosa endyen",
+        "pizza_5": "Yon moso pitza italyen",
+        "crepe_6": "Yon krèp franse",
+        "satay_7": "Broch satay tayilandè",
+        "burger_8": "Yon anbègè ameriken",
+        "bao_9": "Yon ti pen bao ki kuit ak vapè",
+        "takoyaki_10": "Takoyaki japonè"
+      }
+    },
+    "nature_landscape": {
+      "title": "Peyizaj lanati",
+      "description": "Senn lanati kalm e bèl pou gade dousman epi pale sou yo ansanm.",
+      "theme": "Peyizaj lanati",
+      "images": {
+        "mountain_1": "Yon chèn mòn",
+        "forest_2": "Yon forè ki gen bwouya",
+        "lake_3": "Yon lak nan mòn",
+        "desert_4": "Din nan dezè",
+        "waterfall_5": "Yon chit dlo",
+        "beach_6": "Yon plaj ak sab",
+        "river_7": "Yon rivyè k ap koule",
+        "canyon_8": "Gran Kanyon an",
+        "sunset_9": "Syèl nan kouche solèy",
+        "snow_mountain_10": "Yon mòn ki kouvri ak nèj",
+        "flowers_11": "Flè sovaj",
+        "rainforest_12": "Yon forè twopikal",
+        "iceberg_13": "Yon glasye k ap flote",
+        "volcano_14": "Yon vòlkan",
+        "cliff_15": "Yon falèz bò lamè",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Yon savann",
+        "coral_reef_18": "Yon resif koray"
+      }
+    }
+  }
+}

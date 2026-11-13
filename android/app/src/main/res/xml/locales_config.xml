@@ -92,4 +92,9 @@
     <locale android:name="lb" />
     <locale android:name="mt" />
     <locale android:name="gd" />
+    <locale android:name="fy" />
+    <locale android:name="km" />
+    <locale android:name="ky" />
+    <locale android:name="tl" />
+    <locale android:name="ht" />
 </locale-config>

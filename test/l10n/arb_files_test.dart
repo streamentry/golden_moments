@@ -80,6 +80,11 @@ const _appLocales = {
   'lb',
   'mt',
   'gd',
+  'fy',
+  'km',
+  'ky',
+  'tl',
+  'ht',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

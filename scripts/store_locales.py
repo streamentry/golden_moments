@@ -115,6 +115,11 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'lb': ((), ()),
     'mt': ((), ('mt',)),
     'gd': ((), ()),
+    'fy': ((), ()),
+    'km': ((), ('km-KH',)),
+    'ky': ((), ('ky-KG',)),
+    'tl': ((), ()),
+    'ht': ((), ()),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

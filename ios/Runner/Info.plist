@@ -98,6 +98,11 @@
 		<string>lb</string>
 		<string>mt</string>
 		<string>gd</string>
+		<string>fy</string>
+		<string>km</string>
+		<string>ky</string>
+		<string>tl</string>
+		<string>ht</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>
