@@ -50,7 +50,7 @@ Yenza ukudla kubonakale kulula ngaphambi kokushintsha okuphakelwayo.
 
 - **Nciphisa umsindo.** Vala umabonakude futhi wehlise eminye imisindo ephikisanayo. Hlala umuntu kude nendlela yabantu ekhishini uma lokho kumsiza agxile.
 - **Susa izinto ezengeziwe.** Beka phansi kuphela izinsimbi nezinongo umuntu ayozisebenzisa. Hambisa amaphukuphuku, izimbali noma ezinye izinto ezingaphazamisa noma zingaphindwa njengokudla.
-- **Sebenzisa ukuqhathanisa okucacile.** Ipuleti elilula elihlukile kumbala wetafula lingenza ukudla kube lula ukukubona. Gwema amaphethini anolaka emapuleteni nasezindwangwini zetafula.
+- **Sebenzisa ukuqhathanisa okucacile.** Ipuleti elilula elihlukile kumbala wetafula lingenza ukudla kube lula ukukubona. Gwema amaphethini anolaka emapuleteni nasezindwangu zetafula.
 - **Hlola ukukhanya nokushisa.** Qinisekisa ukuthi umuntu uyayibona ipuleti, bese uhlola ukudla neziphuzo ngaphambi kokukuphakela ukuze kungashisi kakhulu.
 - **Gcina uhlelo olujwayelekile.** Uma indawo, isikhathi noma uhlelo lwetafula kumjabulisa, zama ukukugcina kunjalo. Shintsha okubangela inkinga kuphela.
 
@@ -72,9 +72,9 @@ Ukudla ndawonye kungenza ukudla kube yisikhathi sokuhlangana, uma umuntu ethanda
 
 Yima ubheke isizathu esisebenzayo. Igumbi lingase libe nomsindo; ukudla kungase kungajwayelekile; umuntu angase adinge ukusebenzisa indlu yangasese, aphumule noma ashintshe isimo. Zama ukulungisa okukodwa ngesikhathi, njengokususa itafula, ukunikeza amanzi noma ukuya endaweni ethule. Uma umuntu ekhathazekile, misa uzame futhi kamuva kunokumphoqa ukuba aqede.
 
-Uma umuntu ehlala ekhaphela izidlo, ebonakala engakhululekile, enobunzima ekusebenziseni umlomo noma izandla, noma enoshintsho olusha ekudleni noma esisindweni, bhala lokho okubonayo bese ukhuluma nodokotela noma nesazi sokudla. Ubunzima obusha bokugwinya nokumunca, ukukhwehlela njalo lapho udla noma uphuza, noma ukuminyana kudinga iseluleko sochwepheshe. Isazi sezinkulumo nokumunca singahlola ukumunca futhi sinikeze amasu aphephile. Ungashintshi ukuqina kokudla, ungaqinisi iziphuzo noma usebenzise amasu okondla ngokusekelwe ohlwini oluvamile lwezinto ezijwayelekile.
+Uma umuntu ehlala ekhaphela izidlo, ebonakala engakhululekile, enobunzima ekusebenziseni umlomo noma izandla, noma enoshintsho olusha ekudleni noma esisindweni, bhala lokho okubonayo bese ukhuluma nodokotela noma nesazi sokudla. Ubunzima obusha bokugwinya nokumunca, ukukhwehlela njalo lapho udla noma uphuza, noma ukuminyana kudinga iseluleko sochwepheshe. Isazi sezinkulumo nokumunca singahlola ukumunca futhi sinikeze amasu aphephile. Ungashintshi ukuqina kokudla, ungaqinisi iziphuzo noma usebenzise amasu okondla ngokusekelwe esiqondisweni esijwayelekile.
 
-Ukudla okungaphelele kwesitsha esisodwa akuchazi ukuthi umuntu uyekeni. Bheka iphethini kuzo zonke izidlo: ukudla okuthile, isikhathi, izinga lomsindo noma indawo yokuhlala kungenza umsebenzi ube nzima. Uma into ethandwayo isiba nzima ngequbuluka, hlola ukuphatheka noma ukungakhululeki emlonyeni, bese ubuza isazi sezempilo esikhundleni sokucabanga ukuthi umuntu uyanenga kanje.
+Ukudla okungaphelele kwesitsha esisodwa akuchazi ukuthi umuntu uyekeni. Bheka iphethini kuzo zonke izidlo: ukudla okuthile, isikhathi, izinga lomsindo noma indawo yokuhlala kungenza umsebenzi ube nzima. Uma into ethandwayo isiba nzima ngokuzumayo, hlola ukuphatheka noma ukungakhululeki emlonyeni, bese ubuza isazi sezempilo esikhundleni sokucabanga ukuthi umuntu uyanenga kanje.
 
 Ngemibuzo yezempilo noma ukudla okukhethekile, buza isazi sezempilo somuntu. Ungaqali ukudla okuvimbelayo noma ushintshe imithi ukuze ushintshe isifiso sokudla ngaphandle kweseluleko. Umhlahlandlela we-[wokudla kwengqondo yezempilo](/brain-health/diet/) uxoxa ngocwaningo mayelana nokudla nengozi yedementia; uyahlukana nalo mhlahlandlela wokudla wansuku zonke.
 

@@ -9,13 +9,13 @@ translatedFrom: 2026-11-11
 summary: >-
   Whakamārikehia te whakakākahu mā te tuku kākahu mōhio, ngā whiringa iti me te
   wā e tika ana. Pātai i mua i te āwhina, tiakina te manaaki, ā, waiho kia mahi te
-  tangata i tana e pai ai. Korerohia tētahi kaimātai hauora mēnā kua uaua hou te
+  tangata i tana e pai ai. Kōrerohia tētahi tākuta mēnā kua uaua hou te
   whakakākahu.
 keyPoints:
   - "Tukuna he whiringa iti i waenga i ngā kākahu mōhio, māmā, kāore e tuku i tō ake āhua."
   - "Whakaraupapatia ngā kākahu, ā, whakamahia tētahi tohu poto i te wā kotahi."
   - "Pātai i mua i te āwhina, ā, tiakina te manaaki o te tangata."
-  - "Korerohia tētahi tākuta mēnā kua uaua hou, kua uaua tere rānei te whakakākahu."
+  - "Kōrerohia tētahi tākuta mēnā kua uaua hou, kua uaua tere rānei te whakakākahu."
 faq:
   - q: "Me pēhea e āwhina ai i tētahi tangata mate wareware kia whakakākahu?"
     a: "Tukuna he wā roa ake, hoatu he whiringa iti i waenga i ngā kākahu mōhio, ā, whakaraupapatia ngā mea ka whakamahia i te raupapa e whakamahia ai. Hoatu he tohu poto i te wā kotahi, ā, waiho kia mahi te tangata i ngā wāhanga e hiahia ana ia ki te mahi."
@@ -83,7 +83,7 @@ Whakaarohia te pāmahana o te rā me ngā mahere. Akene e pai ana ki te tangata 
 
 Mēnā kua rerekē tētahi wāhi nui o te whakakākahu, pātai ki te tangata he aha te uaua, ā, kōrerohia tana tākuta. E kī ana a Dementia Australia he pānga pea ngā kanohi, ngā pānga rongoā, ētahi atu mate hauora anō ki te uaua o te whakakākahu. Ka āwhina te tākuta ki te tirotiro i ngā take pea. Kaua e whakamutua, kaua e whakarerekē i tētahi rongoā i runga i tētahi tuhinga whānui.
 
-Mēnā ka whakapōuri tere te tangata, tonoa āwhina hauora ohotata mā ngā ratonga ohotata o tō rohe. E kī ana te [aratohu NHS mō te whakapōuri tere](https://www.nhs.uk/symptoms/confusion/) me whai wāhi tere ki te āwhina. Ko te whakatūpato nei mō te whakapōuri tere, ehara i te rerekētanga mārie i te ritenga whakakākahu.
+Mēnā ka whakapōuri tere te tangata, tonoa āwhina hauora ohotata mā ngā ratonga ohotata o tō rohe. E kī te [aratohu NHS mō te whakapōuri tere](https://www.nhs.uk/symptoms/confusion/) me whai wāhi tere ki te āwhina. Ko te whakatūpato nei mō te whakapōuri tere, ehara i te rerekētanga mārie i te ritenga whakakākahu.
 
 Tirohia he wāhanga o te ritenga kua rerekē: te whiriwhiri kākahu, te kite i a rātou, te mahi i tētahi kōpiti, te pupuri i te tauāhua. Tohaina he aha tāu i kite ai ki te tangata me tana tākuta, mēnā e whakaae ana ia. Ehara i te mea ko te uauatanga hou e whakamārama ana i tōna take. Kaua e whakaaro he whakakūkū, he kore aro te tangata.
 

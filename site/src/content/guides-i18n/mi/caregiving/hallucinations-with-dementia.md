@@ -19,7 +19,7 @@ keyPoints:
   - "Kaua e whakarerekē i ngā rongoā me te kore te kaimahi hauora o te tangata."
 faq:
   - q: "He aha te kitenga whakapohehe?"
-    a: "Ko te kitenga whakapohehe ko te kite, te rongo, te hongi, te tātō, te whakaaro rānei ki tētahi mea kāore he take o waho e tika ana. He mārama tūturu, he tauira, he haruru pea ka whakapohehe. Kāore e hiahia te mema whānau ki te whakatau he aha te mea e tupu ana."
+    a: "Ko te kitenga whakapohehe ko te kite, te rongo, te hongi, te whakarō, te tātō, te whakaaro rānei ki tētahi mea kāore he take o waho e tika ana. He mārama tūturu, he tauira, he haruru pea ka whakapohehe. Kāore e hiahia te mema whānau ki te whakatau he aha te mea e tupu ana."
   - q: "Me kī au ki tētahi tangata mate wareware kāore te mea e kitea e ia he mea tūturu?"
     a: "Kaua e tautohe, kaua e tohe he hē tā rātou. Ka taea te kōrero pono, te whakaae ki ō rātou whakaaro: “Kāore au e kite i tētahi tangata, engari ka mōhio au he whakawehi tēnei. Kei konei au.”"
   - q: "Ka taea e tētahi atu take, ehara i te mate wareware, te puta mai i ngā kitenga whakapohehe?"
@@ -46,11 +46,11 @@ related: [caregiving/late-day-restlessness, caregiving/when-someone-with-dementi
 health: true
 ---
 
-Ko te kite, te rongo, te hongi, te tātō, te whakaaro rānei ki tētahi mea e kore e kitea e ētahi atu, ka tino pono pea ki te tangata. Ka whakamataku pea, ka kore rānei e pōuri. Tīmatahia ki te āhua o te tangata, me mēnā he tūpono tētahi, kaua ki te whakamātau kia whakaatu he aha i puta, he aha kāore i puta.
+Ko te kite, te rongo, te hongi, te whakarō, te tātō, te whakaaro rānei ki tētahi mea e kore e kitea e ētahi atu, ka tino pono pea ki te tangata. Ka whakamataku pea, ka kore rānei e pōuri. Tīmatahia ki te āhua o te tangata, me mēnā he tūpono tētahi, kaua ki te whakamātau kia whakaatu he aha i puta, he aha kāore i puta.
 
 Ka taea he kitenga whakapohehe, ka taea hoki he whakapohehe ake, he whakaaro he tangata tētahi mea kāore. Ka taea te whakaaro he tangata te ātārangi; ka taea hoki te whakaaro he tangata tētahi tangata e mōhio ana koe. Kāore koe e hiahia ki te whakatau he aha te mea e tupu ana. Whakaahuatia he aha tā te tangata e kī ana, he aha tāu e kite ana, ā, pātai ki tētahi kaimahi hauora mēnā e māharahara ana koe.
 
-## He aha tāku e mahi ai i taua wā tonu?
+## He aha tāku mahi i taua wā tonu?
 
 Noho mārie, pātai ki te tangata he aha tōna āhua, ā, hoatu he whakamarie kāore e tautohetohe. E kī ana te [Alzheimer's Association me aromatawai mēnā he pōrearea, he whakararu te wheako](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations). Mēnā he mārie, he haumaru te tangata, kāore pea e hiahia ki te whakararu.
 
@@ -68,7 +68,7 @@ Ka pai pea te wheako ki tētahi tangata, ki tētahi mōhio rānei. Mēnā e mār
 Tirohia te taiao me te tangata mēnā e pai ana ki a ia taua āwhina. E kī ana te [Alzheimer's Society e wehewehe ana i ngā kitenga whakapohehe i ngā whakapohehe](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations), ina kitea he mea tūturu, he tauira tūturu, he hē te titiro.
 
 - **Whakapaia te rama.** Whakaaraia he rama, tirohia ngā atarangi me ngā whakaata mai i ngā matapihi me ngā karaihe.
-- **Tirohia ngā haruru noa.** He pouaka whakaata, he hau, he taputapu hiko pea he rite ki te reo, ki ngā hikoi. Whakaitia, whakakorea rānei mēnā e pai ana te tangata.
+- **Tirohia ngā haruru noa.** He pouaka whakaata, he hau, he taputapu hiko pea he rite ki te reo, ki ngā hikoi. Whakaitea, whakakorea rānei mēnā e pai ana te tangata.
 - **Titiro ki ngā tauira.** He whāriki, he kōtaha, he pepa pakitara pea ka whakapohehe hei nekeneke, hei mea. Pātai mēnā e hiahia ana te tangata ki te titiro mai i tētahi wāhi kē, ki te whakarerekē i te tirohanga.
 - **Tirohia ngā taputapu kitenga, rongo.** Mēnā he karu, he pūkoro taringa tō te tangata, pātai mēnā e hiahia ana ia ki te āwhina kia tirotirohia ka wātea, ka mahi pai.
 

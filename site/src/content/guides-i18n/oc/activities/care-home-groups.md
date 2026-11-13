@@ -63,7 +63,7 @@ Aquò indica qualques règlas practicas :
 
 ## Quina talha deu aver lo grop?
 
-Lo pichon es generalament mai aisit. L'Alzheimer's Association nòta qu'una persona que tròba un gròs ajonchament aclaparant pòt interagir melhor dins un grop mai pichon. I a pas de nombre juste unic. Depen dels residents, de la sala e del nombre de personal e de volontaris disponibles.
+Lo pichon es generalament mai aisit. L'Alzheimer's Association nòta qu'una persona que tròba un gròs rassemblament aclaparant pòt interagir melhor dins un grop mai pichon. I a pas de nombre juste unic. Depen dels residents, de la sala e del nombre de personal e de volontaris disponibles.
 
 Una prova utila : cada persona pòt-la veire lo visatge del menaire, ausir clarament e èsser atenguda per un ajudant dins qualques segondas? Se non, partissètz lo grop, ajustatz de personal o passatz a una sala mai pichona.
 
@@ -118,17 +118,17 @@ Un grop de remembrança se rassembla al voltant d'un tèma, coma los jorns d'esc
 1. Triatz un tèma e menatz quelques objèctes que las personas pòdon tenir : un batedor a man, un gant de baseball, un chapèu, un catalògue de semenças.
 2. Passatz un objècte a la fòi. Demandatz de questions dubèrtas : « Contatz-me aquò », « Qu'es çò que remarcatz? », « Qual utilizava quicòm parièr? »
 3. Acceptatz cada respònsa. Corregissètz jamai una data o un fach.
-4. Menatz la conversacion cap als sovenirs calds. La practica recomanda que los prestatari de cura orientan la remembrança cap als sovenirs positius mai que cap a aquels que pòdon causar de pena.
+4. Menatz la conversacion cap als sovenirs calds. La practica recomanda que los prestataris de cura orienten la remembrança cap als sovenirs positius mai que cap a aquels que pòdon causar de pena.
 
 [Cartas de conversacion](/games/conversation-cards/) ofrís de cartas d'imatges imprimiblas amb de questions dubèrtas per tèma, que fonciónan plan coma punt de partença de discussion. D'autras idèas son dins nòstra [guida sus la remembrança](/activities/reminiscence/).
 
 ### Acabar lo dicton
 
-Los dichs familièrs (« Un pichon estalvi es un pichon gasto… ») convidan tot lo monde a dire la fin ensemble. Mostrat [Acabar lo dicton](/games/finish-the-saying/) sus un gròs ecran e laissatz lo grop respondre en una sola votz. I a una question per parlar après cada dicton. Se degun dis la fin, mostratz-la e anatz mai lèu. I a pas de juste ni de faus.
+Los dichs familièrs (« Un pichon estalvi es un pichon gasto… ») convidan tot lo monde a dire la fin ensemble. Mostratz [Acabar lo dicton](/games/finish-the-saying/) sus un gròs ecran e laissatz lo grop respondre en una sola votz. I a una question per parlar après cada dicton. Se degun dis la fin, mostratz-la e anatz mai lèu. I a pas de juste ni de faus.
 
 ### Sopa de letras en grop, en letra grand
 
-Projectatz la [Sopa de letras](/games/word-search/) en letra grand sus un ecran e cercatz de mots en grop, o imprimissètz de còpias per los que aiman trabalhar sols a la taula. Los mots son sonque endralh e en naut.
+Projectatz la [Sopa de letras](/games/word-search/) en letra grand sus un ecran e cercatz de mots en grop, o imprimissètz de còpias per los que aiman trabalhar sols a la taula. Los mots son sonque de travèrs e de naut en bas.
 
 ### Movement doç
 
@@ -175,4 +175,4 @@ Mai d'aquò es dins nòstra [guida sus la comunicacion](/caregiving/communicatio
 
 Arrestar es un bon resultat. Agachatz los signes que qualqu'un es fatigat, agitat o pertorbat, e fasètz qu'un ajudant ofrisca una promenada o un assent tranquil ailàs. Qualqu'un que s'endòrmi pendent una cançon pòt simplament èsser a l'aise.
 
-Tancatz cada grop de la meteissa manièra, amb una cançon familiera o un simple mercés, per que la fin siá calma e atesa. Après, escrivètz çò que a fonccionat e qual a aimat quin. Aquelas notas melhoran la sessions seguenta.
+Tancatz cada grop de la meteissa manièra, amb una cançon familiera o un simple mercés, per que la fin siá calma e atesa. Après, escrivètz çò que a fonccionat e qui a aimat çò que. Aquelas notas melhoran la sessions seguenta.
