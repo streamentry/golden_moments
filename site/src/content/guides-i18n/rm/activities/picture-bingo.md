@@ -71,7 +71,7 @@ La concurrenza po esser in problem. Ina persuna che perda po sa sentir testada, 
 - **Mintgin vegn cun in maletg.** Mintgin giugader clama in maletg che el gusta, e il grup al admira.
 - **Sparter ina chartina cumplita.** Dumondai als giugaders da dir insatge davart in maletg da lur chartina.
 - **Giugai fin ch'ils maletgs èn finids.** Clamai mintga maletg d'ina chartina, lura cumenzai ina nova, senza pretensiun da prim vincitur.
-- **Tegnai il premi pitschen u lasciai el.** Ina biscut o ina chanzun funcziunan meglier che ina cuppa.
+- **Tegnai il premi pitschen u lasciai el.** Ina biscut u ina chanzun funcziunan meglier che ina cuppa.
 
 ## Adattar per persunas en las fasas avanzadas
 

@@ -45,7 +45,7 @@ Projects d'art èn ina moda rearmaivla da passentar temp cun ina persuna che ha 
 
 ## Co cumenzar mintga project d'art
 
-1. **Preparai avant d'entschaiver.** Metai ora ün u dus material, in fegl da protecziun e in pannet umid.
+1. **Preparai avant d'entschaiver.** Metai ora in u dus material, in fegl da protecziun e in pannet umid.
 2. **Mussai il prim pass.** Immergiai il pinsel, sfritlai la prima part u pressai in pitschen toc d'argilla, e invidai la persuna da far il medem.
 3. **Lavurai ditg a ditg.** Tegnai vos atgen project vicin, uschia che l'activitad para communabla e na surveglada.
 4. **Discutai da quai che Vus vesais.** Descriviai colurs, structuras e fuormas, betg da giudicar la lavur.
@@ -75,7 +75,7 @@ Il paper stgir fa che las colurs dals pastels splendoreschan. Duvrai pastels gra
 
 ## Stampas cun feglias
 
-Cullegai feglias grondas da la curtin, pittai tinta lavabla sin las venas e pressai la fegl sin il paper. Trai la fegl sur cun cura e guardai la stampa. Questa activitad s'accorda bain cun [activitads a l'aria libra e da curtin](/activities/outdoor-and-gardening/), e po cumenzar cun ina spassegiada per cullegiar feglias.
+Cullegai feglias grondas da la curtin, pittai tinta lavabla sin las venas e pressai la fegl sin il paper. Trai la fegl vi cun cura e guardai la stampa. Questa activitad s'accorda bain cun [activitads a l'aria libra e da curtin](/activities/outdoor-and-gardening/), e po cumenzar cun ina spassegiada per cullegiar feglias.
 
 ## Stoffa e flurs
 

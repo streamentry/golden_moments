@@ -41,13 +41,13 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Blers famiglias vulan un gieu da giugar ensemen che para sco conversaziun e betg sco test. Vainch dumondas e gieus simils da supponer pon funcziunar bain, perquai che las reglas èn simplas e la discussiun po ir en mintga direcziun. Il truc è da rovesciar ils rols usuals: la persuna pensa a la resposta, e Vus dumondais. Questa pagina explitgescha co manar quests gieus cun delicatezza, e tge gieus da conversaziun èn adattads a persunas cun demenza.
+Blers famiglias vulan in gieu da giugar ensemen che para sco conversaziun e betg sco test. Vainch dumondas e gieus simils da supponer pon funcziunar bain, perquai che las reglas èn simplas e la discussiun po ir en mintga direcziun. Il truc è da rovesciar ils rols usuals: la persuna pensa a la resposta, e Vus dumondais. Questa pagina explitgescha co manar quests gieus cun delicatezza, e tge gieus da conversaziun èn adattads a persunas cun demenza.
 
 ## Pertge rovesciar las reglas usualas?
 
 En in quiz tipic dumonda ina persuna, e l'autra sto saver. Quai met la persuna cun demenza en ina situaziun nua ch'ella po far in fallo, e sbagliar po far dolur. Cur che la persuna tscherna l'object e Vus fais la suppusiziun, ella è la spezialista. Ella tegna la resposta, decida quand ch'ella di gea u na, e po gudar da guardar Vus empruvar.
 
-La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) recumonda als accumpagnaders da far diever frasas curtas e simplas, ina dumonda per giada, ina vusch calma e pazienza. Quests habits s'accordan bain cun gieus da supponer.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) recumonda als accumpagnaders da far diever frasas curtas e simplas, ina dumonda per giada, ina vusch calma e pazienza. Quests habits s'accordan bain cin gieus da supponer.
 
 ## Co giugar vainch dumondas, cun delicatezza
 

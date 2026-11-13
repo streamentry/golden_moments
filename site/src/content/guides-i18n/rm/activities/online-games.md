@@ -54,7 +54,7 @@ La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-c
 
 ## Gieus da Golden Moments che Vus pudais avrir en in navigatur
 
-Mintga gieu sutvart s'avra da la pagina d'internet senza download. La maioritad giogan sin ina tableta u computer; alcuns pon era vegnir stampads.
+Mintga gieu sutvart s'avra da la pagina d'internet senza download. La maioritad giugan sin ina tableta u computer; alcuns pon era vegnir stampads.
 
 - **[Cumbinar maletgs](/games/picture-pairs/).** Pars grands da maletgs cun ils maletgs visibels, e nagin temp u punct. Bun per in emprim gieu.
 - **[Chattar il medem](/games/find-the-same/).** In maletg en cima, e il medem tranter duas fin quatter tschernas sut.
@@ -72,7 +72,7 @@ Tschertga da pleds, colurar e bingo da maletgs èn era disponibels sco activitad
 
 1. **Tschernai in mument quiet** cur che la persuna è reposada. Il suentermezdi tard è savens pli dir per blers, perquai controllai prima voss atgen model da temp.
 2. **Utilisai in ecran pli grond.** Ina tableta sin in suport u in computer cun il navigatur zoomà è pli simpel da vesair e da tutgar.
-3. **Serrai las autras tabs e stizzai las notificaziuns.** Annunzis che cumparan a l'improvvis èn spaventusas e pon interrumper ina buna activitad.
+3. **Serrai las autras tabs e stizzai las notificaziuns.** Annunzis che cumparan senza avis èn spaventusas e pon interrumper ina buna activitad.
 4. **Sezzai datiers vid la persuna, betg encunter.** Guardar insembel para pli sco cumpagnia e main sco examen.
 5. **Cumenzai cun in gieu per tschintg fin diesch minutas.** Lasciai che la persuna tutgia l'ecran u mussa, mentre Vus fais turn.
 6. **Terminai cun in bun mument.** Terminai in'elavuraziun, lura discurrai d'in maletg, u propona ina tassa da tee.
