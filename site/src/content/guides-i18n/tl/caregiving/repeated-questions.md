@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kapag Inuulit-ulit ng Taong may Dementia ang Parehong Tanong"
+seoTitle: "Paulit-ulit na Tanong sa Dementia: Ano ang Gagawin"
+description: "Bakit inuulit ng taong may dementia ang tanong, mahinahong pagsagot, simpleng kasangkapan, at kung kailan kailangan ng doktor."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Karaniwan sa dementia ang paulit-ulit na tanong: kadalasang hindi naaalala ng tao na nagtanong na siya, at madalas may dalang pag-aalala ang tanong. Sumagot nang mahinahon at maikli na parang unang beses, tugunan ang damdaming nasa likod nito, at huwag kailanman sabihing “tinanong mo na iyan.” Isulat ang sagot kung saan nila ito makikita, banggitin ang mga pangyayari ilang sandali lang bago ito mangyari, at mag-alok ng gawaing kinasisiyahan nila. Ang biglaang pagbabago ay nangangailangan ng doktor.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Kadalasang hindi naaalala ng tao na nagtanong siya; hindi ito sinasadya."
+  - "Madalas may nakatagong damdamin ang tanong, gaya ng pag-aalala sa pagbisita sa doktor o pangangailangang makaramdam ng kaligtasan."
+  - "Sumagot nang mahinahon, maikli, at magiliw, na parang unang beses. Huwag kailanman sabihing “tinanong mo na iyan.”"
+  - "Ang tala, puting pisara, orasan, o kalendaryong nakikita ay makakasagot ng tanong para sa iyo."
+  - "Banggitin ang mga nakababahalang pangyayari ilang sandali lang bago ito mangyari."
+  - "Magpahinga nang maikli kapag kailangan, at tumawag sa doktor sa anumang biglaang pagbabago."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Bakit paulit-ulit na nagtatanong ang tatay ko na may dementia ng parehong tanong?"
+    a: "Naapektuhan ng dementia ang panandaliang alaala, kaya maaaring tunay na hindi niya maalala na nagtanong siya o narinig ang sagot. Kadalasan, dala rin ng tanong ang isang damdamin, gaya ng pag-aalala sa mangyayari sa susunod o pangangailangan ng katiyakan. Ang pagsagot sa damdaming iyon ay kadalasang mas nakakatulong kaysa paulit-ulit na pag-uulit ng mga katotohanan."
+  - q: "Dapat ko bang sabihin sa kanila na nagtanong na sila?"
+    a: "Hindi. Hindi ito makakatulong sa kanilang maalala, at maaari itong maramdamang pagtutuwid. Pinapayuhan ng mga organisasyon sa dementia na sumagot nang mahinahon sa bawat pagkakataon, na parang unang beses, at panatilihing maikli ang sagot."
+  - q: "Nakakatulong ba ang pagsusulat ng sagot?"
+    a: "Maaari, habang nababasa pa ito ng tao. Ang tala, puting pisara na may plano ngayong araw, malaking orasan, o kalendaryong madalas nilang tingnan ay nagpapahintulot sa kanilang suriin ang sagot mismo. Ituro ito nang banayad sa halip na sabihing “Sinabi ko na sa iyo.”"
+  - q: "Kailan ko dapat pag-usapan ang mga appointment o paglabas?"
+    a: "Malapit sa oras nito. Ang pagbanggit sa pagbisita sa doktor o biyahe ilang araw nang maaga ay maaaring mauwi sa oras-oras na nag-aalalang tanong. Sabihin ito ilang sandali bago mangyari, nang mahinahon, kasama ang susunod na mangyayari."
+  - q: "Kailan ang pag-uulit ay dahilan para tumawag sa doktor?"
+    a: "Kung biglang nagbago o lumala nang malaki ang mga tanong, pagkalito, o asal sa loob ng mga oras o araw, tumawag agad sa doktor nila. Ang impeksyon, bagong gamot, sakit, paninigas ng dumi, o kakulangan ng tubig sa katawan (dehydration) ay maaaring magdulot ng biglaang pagkalito na tinatawag na delirium, na nangangailangan ng mabilis na lunas."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“Anong oras ang pagbisita sa doktor?” Makalipas ang sampung minuto: “Anong oras ang pagbisita sa doktor?” Ang paulit-ulit na pagdinig ng parehong tanong ay isa sa pinakanakakapagod na bahagi ng pag-aalaga sa taong nabubuhay na may dementia. Karaniwan ito, hindi ito sinasadya, at may mga mahinahong paraan ng pagsagot na nagpapagaan ng araw para sa inyong dalawa.
 
-## Why does someone with dementia ask the same question over and over?
+## Bakit paulit-ulit na nagtatanong ang taong may dementia?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Kadalasan dahil sa alaala. Naapektuhan ng dementia ang panandaliang alaala, kaya kadalasang hindi naaalala ng tao na nagtanong siya, o hindi naaalala ang sagot. Inilalarawan ng [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) ang paulit-ulit na pagtatanong bilang karaniwan at inaasahan.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Dala rin ng tanong ang isang damdamin. Ipinaliliwanag ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) na ang paulit-ulit na tanong ay maaaring nagpapahayag ng pag-aalala, paghingi ng tulong, o pagkabalisa at kawalang-katiyakan, at kadalasang hinahanap ng tao ang ginhawa at pamilyaridad. Ang “Kailan tayo aalis?” ay maaaring ang tunay na ibig sabihin ay “kinakabahan ako tungkol sa pag-alis.” Maaaring magpalitaw nito ang pagkabagot, takot, ingay, at pagbabago sa nakagawiang rutina, at ang paulit-ulit na tanong ay maaari ring senyales ng pangangailangan, gaya ng banyo ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Ano ang dapat kong sabihin?
 
-Answer calmly and briefly, as if it were the first time.
+Sumagot nang mahinahon at maikli, na parang unang beses.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Panatilihing maikli at pareho ang sagot.** “Ang doktor ay alas-dos ng hapon. Nandito lang ako sa tabi mo.” Mas madaling tanggapin ang pare-parehong sagot.
+- **Tugunan ang damdamin.** “Iniisip mo ang tungkol sa doktor. Mamayang hapon iyon, at ako ang maghahatid sa atin. Wala kang kailangang gawin.”
+- **Gumamit ng mahinahong boses at banayad na haplos,** kung gusto nila ang haplos. Pinapayuhan ng Alzheimer's Association na manatiling kalmado at huwag gumamit ng lohika o makipagtalo.
+- **Ibigay ang sagot na hinahanap nila,** nang kasing dami ng kailangan. Sinasabi ng Alzheimer's Association na ulitin ito sa bawat pagkakataong itanong nila.
 
-## What should I avoid?
+## Ano ang dapat kong iwasan?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Tinanong mo na iyan.”** Pinapayuhan ng [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) na huwag ituro na kakatanong lang nila. Hindi ito makakatulong sa kanilang maalala, at maaari itong maramdamang pinagagalitan sila.
+- **Mahahabang paliwanag.** Mas maraming salita ay mas maraming makakalimutan.
+- **Buntong-hininga, pag-irap ng mata, o matalim na tono.** Pinapayuhan ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ang pasensya at hindi pagpapakita ng pagkabigo. Mahirap iyon; tingnan ang bahagi tungkol sa pahinga sa ibaba.
 
-## Simple tools that answer the question for you
+## Mga kasangkapang sumasagot ng tanong para sa iyo
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Habang nababasa pa ng tao ang nakasulat, kadalasang mas nakakatulong ito kaysa sa binigkas na sagot.
 
-| Tool | How to use it |
+| Kasangkapan | Paano gamitin |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Tala na malalaki ang letra | “Doktor ngayon, 2 pm. Ihahatid tayo ni Mary.” Ilagay kung saan sila madalas tumingin |
+| Puting pisara | Plano ngayong araw sa tatlo o apat na linya; punasan at isulat muli tuwing umaga |
+| Malaking orasan na may araw at petsa | Nakakatulong sa “Anong araw ngayon?” at “Oras na ba?” |
+| Kalendaryo | Tawiran ang bawat araw; bilugan ang susunod na pagbisita |
+| Pamilyar na litrato | Ang litrato ng taong darating ay makakasagot sa “Sino ang bisita?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ang mga ideyang ito ay mula sa [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) at [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Ituro nang banayad ang tala (“Tingnan natin nang magkasama ang pisara”) sa halip na sabihing “Isinulat ko iyan para sa iyo.”
 
-## Tell them about events close to the time
+## Sabihin ang tungkol sa mga pangyayari malapit sa oras nito
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Ang pagbanggit sa isang appointment o paglabas ilang araw nang maaga ay maaaring mauwi sa oras-oras na nag-aalalang tanong. Pareho ang iminumungkahi ng Family Caregiver Alliance at ng Alzheimer's Los Angeles: pag-usapan ang mga plano, lalo na ang mga nakababahala gaya ng pagbisita sa doktor o paliligo, ilang sandali lang bago mangyari. Pagkatapos, sabihin kung ano ang susunod na mangyayari, isang hakbang sa isang pagkakataon.
 
-## Activities that can shift attention
+## Mga gawaing makapagbabago ng atensyon
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Kapag nasagot mo na at nakilala ang damdamin, makakatulong ang kalma at kasiya-siyang gawain, lalo na kung pagkabagot ang nasa likod ng mga tanong. Iminumungkahi ng bawat pinagmulan sa itaas na ibaling ang atensyon sa bagay na gusto ng tao.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Isang maikli at madaling laro nang magkasama.** Pinananatiling nakikita ng [Pares ng larawan](/games/picture-pairs/) ang mga larawan, kaya walang kailangang tandaan.
+2. **Pamilyar na gawain.** Pagtiklop ng tuwalya, pag-uuri ng medyas, o pag-aayos ng mesa. Ang [Pag-uri-uriin nang magkasama](/games/sort-together/) ay bersyon nito sa screen.
+3. **Pag-usapan ang bagay na mahal nila.** Ang [Mga kard para sa usapan](/games/conversation-cards/) ay nagbibigay ng bukas na prompt na walang tamang sagot.
+4. **Musika, lakad, o meryenda.** Inilalista ng National Institute on Aging ang mga ito bilang simpleng paraan ng pag-iiba ng atensyon.
+5. **Tahimik na pahinga.** Umupo nang magkasama, tumingin sa bintana, o subukan ang isang sandaling [Mahinahong paghinga](/games/calm-breathing/) nang magkasama.
 
-If they return to the question, answer it again, kindly. That is fine.
+Kung bumalik sila sa tanong, sagutin itong muli nang mahinahon. Ayos lang iyon.
 
-## Look for patterns
+## Maghanap ng mga pattern
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Iminumungkahi ng Alzheimer's Association na tingnan kung ang mga tanong ay dumarating sa ilang oras ng araw, kasama ang ilang tao, o sa ilang lugar. Kung palagi silang nagsisimula bago dumating ang mga bisita, o sa huling bahagi ng hapon, maaari kang maghanda nang maaga: isang tala tungkol sa bisita, isang pamilyar na gawain na handa na, o mas tahimik na kuwarto. Makakatulong ang aming gabay tungkol sa [mga kalmadong gawain sa huling bahagi ng hapon](/caregiving/late-day-restlessness/) kung gabi ang pinakamahirap.
 
-## Take care of yourself
+## Alagaan ang sarili mo
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Nakakapagod ang pagsagot sa parehong tanong sa ikadalawampung beses. Kung nauubos na ang pasensya mo at ligtas ang tao, pumunta sa ibang silid nang ilang minuto at huminga, gaya ng iminumungkahi ng [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Hinihikayat ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ang mga tagapag-alaga na humingi ng tulong at isaalang-alang ang pansamantalang pag-aalaga. Mas marami pang ideya sa aming [gabay sa pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Kailan ako dapat tumawag sa doktor?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Tumawag agad sa doktor nila kung biglang nagbago o lumala nang malaki ang mga tanong, pagkalito, o asal sa loob ng mga oras o araw. Sinasabi ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) na ang biglaan o mabilis na nagbabagong asal, lalo na pagkatapos ng impeksyon o pagbabago ng gamot, ay dapat agad dalhin sa atensyon ng doktor. Ipinaliliwanag ng [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) na ang impeksyon, gamot, kakulangan ng tubig sa katawan, sakit, o paninigas ng dumi ay maaaring magdulot ng delirium, isang biglaan at malubhang pagkalito na nangangailangan ng mabilis na lunas. Kung may taong nasa panganib, tawagan ang lokal na numero ng emergency.
