@@ -16,7 +16,7 @@ keyPoints:
 faq:
   - q: "Com far un repais mai aisit de seguir ?"
     a: "Ensajatz un luòc calme e ben clarat, una taula simpla e un plat a la fes. Prepausatz un aliment familiar en pichòta quantitat, puis laissatz a la persona lo temps de començar e de finir."
-  - q: "Cal insistir per qu'utilize los coteaus ?"
+  - q: "Cal insistir per que utilize los utensilis ?"
     a: "Non. Se l'aliment se pòt manjar sens risc amb las mans e se la persona o prefereix, laissatz-la far. Un bòl, un autre utensili o una pichòta portion pòdon tanben facilitar lo repais."
   - q: "Qué far s'arrèstan de manjar o de beure ?"
     a: "Pausatz-vos e verificatz se la persona es fatigada, incomodada o destorbada. Tot cambiament nòu o persistent de manjar o de beure deu èsser discutit amb un metge o un autre professional de santat adequat."

@@ -40,7 +40,7 @@ L'[guida de l'Alzheimer's Association sus la seguretat dels medicaments](https:/
 
 ## Cossí far participar la persona a la rotina dels medicaments?
 
-Demandatz quina ajuda la persona vòl. Pòt preferir un rapèl, una ajuda per dobrir un contenidor o una persona de la familha per verificar la lista. Se la persona pòt gerir d'unes medicaments sola, gardatz aquesta capacitat a l'esquina. Un nòu sistèma de rapèl deu èsser discutit amb ela e ajustat s'es pesuc o desconcertant.
+Demandatz quina ajuda la persona vòl. Pòt preferir un rapèl, una ajuda per dobrir un contenidor o una persona de la familha per verificar la lista. Se la persona pòt gerir d'unis medicaments sola, gardatz aquesta capacitat en compte. Un nòu sistèma de rapèl deu èsser discutit amb ela e ajustat s'es pesuc o desconcertant.
 
 Utilizatz un lengatge clar e adult. Se la persona pren un medicament a una ora usuala, ligatz lo rapèl a una rotina familiara sonque se correspond a las instruccions del farmacian. Laissatz a la persona lo temps de respondre. Interrogatz pas, reprochatz pas l'oblid e discutissètz pas per saber se a ja presa una dosi.
 
@@ -48,7 +48,7 @@ Se un rapèl fonciona pas, demandatz quina part es dificila. L'etiqueta pòt ès
 
 ## Quina informacion deu figurar sus una lista de medicaments?
 
-Gardatz una sola lista a jorn amb lo nom de cada medicament sus recèpta, sa dosi e son horari, e la rason per la quala es estat prescrit se es conegut. Inclusetz los medicaments sens recèpta, las vitaminas, los productes a basa de plantas e los complements. Notatz las alergias o los efèctes secundaris passats e los noms dels clinicians que gèstion la cura de la persona.
+Gardatz una sola lista a jorn amb lo nom de cada medicament sus recèpta, sa dosi e son horari, e la rason per la quala es estat prescrit se es conegut. Inclusetz los medicaments sens recèpta, las vitaminas, los productes a basa de plantas e los complements. Notatz las alergias o los efèctes secundaris passats e los noms dels professionals de santat que gèstion la cura de la persona.
 
 Pòrtatz la lista als rendètz-vos medicals e metètz-la a jorn quand un prescriptor cambia quicòm. Se la persona consulta mai d'un metge, partejatz la lista amb cada membre de l'equipa de cura sonque segon l'acòrd de la persona. Gardatz la lista en un luòc que la persona e los ajudants causits pòdon trobar, e protegissètz-la coma informacion de santat privada.
 
@@ -56,7 +56,7 @@ Demandatz al metge o al farmacian de verificar las interaccions possiblas quand 
 
 ## Un pastilhièr o un rapèl pòt-ilh ajudar?
 
-Un calendièr, un tablèu escrit o un pastilhièr pòdon ajudar d'unas personas. L'eina justa depend dels medicaments e de las capacitats de la persona. Demandatz al farmacian se un pastilhièr es adequat abans de transferir un medicament de son emballatge d'origina. D'unes medicaments an besonh d'una manipulacion o d'un estocatge especial.
+Un calendièr, un tablèu escrit o un pastilhièr pòdon ajudar d'unas personas. L'eina justa depend dels medicaments e de las capacitats de la persona. Demandatz al farmacian se un pastilhièr es adequat abans de transferir un medicament de son emballatge d'origina. Unis medicaments an besonh d'una manipulacion o d'un estocatge especial.
 
 Acordatz qui va emplenir o verificar lo pastilhièr e coma evitar las dosis oblidadas o dobladas. Se mai d'una persona ajuda, utilizatz un meteis metòde per notar çò que es estat donat. Se la persona vòl gerir lo pastilhièr sola, demandatz al farmacian coma o far de manièra sècura e practica.
 
@@ -66,7 +66,7 @@ Se una dosi es oblidada, consultatz las instruccions escrichas del medicament o 
 
 Pausatz-vos e demandatz qual es lo problèma. La persona pòt pas aimar lo gost, sentir-se malaisida, èsser fatigada o pas comprendre a qué serv lo medicament. Donatz una explicacion clara e de temps per respondre. Forçatz pas un medicament dins la boca de la persona e l'escondetz pas dins l'aliment sens acòrd e conselh professional.
 
-Esclafatz jamai una pastilha, dobrissetz pas una capsula e mesclatz pas un medicament dins l'aliment sens que lo prescriptor o lo farmacian confirme que es sècur. D'unes medicaments pòdon pas agir coma previst o causar de dan se son modificats. Se l'engolida es dificila, demandatz se una forma liquida o una autra es disponibla. Contactatz lo metge o lo farmacian, e cambiatz pas la dosi vosautres meteis.
+Esclafatz jamai una pastilha, dobrissetz pas una capsula e mesclatz pas un medicament dins l'aliment sens que lo prescriptor o lo farmacian confirme que es sècur. Unis medicaments pòdon pas agir coma previst o causar de dan se son modificats. Se l'engolida es dificila, demandatz se una forma liquida o una autra es disponibla. Contactatz lo metge o lo farmacian, e cambiatz pas la dosi vosautres meteis.
 
 ## Cossí garir e manejar los medicaments?
 
@@ -78,7 +78,7 @@ Gardatz a part los medicaments periments o arrestats e demandatz a un farmacian 
 
 Contactatz lo metge o lo farmacian se la persona a d'efèctes secundaris preocupants, de dificultats per engolir, de dosis repetidas oblidadas o un cambiament sobte après un medicament nòu. Demandatz de direccions escrichas claras. Arrestatz pas e reduisissètz pas un medicament sens conselh.
 
-Se pensatz que la persona a presa tròp de medicament, contactatz sul còp lo servici antipoison de vòstra region o los servicis d'urgéncia. Se la persona es brusquament desconcertada, lo [NHS aconselha d'ajuda medicala immediata](https://www.nhs.uk/symptoms/confusion/). Utilizatz los servicis d'urgéncia locals o lo procès d'urgéncia de vòstre luòc.
+Se pensatz que la persona a presa tròp de medicament, contactatz sul còp lo servici antipoison de vòstra region o los servicis d'urgéncia. Se la persona es brusquament desconcertada, lo [NHS aconselha una ajuda medicala immediata](https://www.nhs.uk/symptoms/confusion/). Utilizatz los servicis d'urgéncia locals o lo procès d'urgéncia de vòstre luòc.
 
 Per los rendètz-vos de rotina, la [guida per la visita al metge](/caregiving/doctor-visit-with-dementia/) pòt ajudar a preparar las questions e una lista de medicaments. La [guida per la visita a l'espital](/caregiving/hospital-visit-with-dementia/) tracta de partejar l'informacion sus los medicaments amb l'equipa de cura.
 
