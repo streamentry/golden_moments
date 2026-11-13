@@ -67,7 +67,7 @@ Afai o le popolega e oo mai i se galuega faʻatasi, o lou [taʻiala o galuega o 
 
 ### Faletaele
 
-- **Faamalamalamaina le ala ma le potu.** Siaki le suiga o le malamalama, malamalama i le po ma le ala i le faletaele. O le Alzheimer's Society fautua se malamalama i le po po se malamalama faʻailo pe a fesoasoani e maua ai le potu e le tagata.
+- **Faamalamalamaina le ala ma le potu.** Siaki le suiga o le malamalama, malamalama i le po ma le ala i le faletaele. O le Alzheimer's Society fautua se malamalama i le po, po se malamalama faʻailo pe a fesoasoani e maua ai le potu e le tagata.
 - **Siaki eria paʻū ma lagolago.** Afai e faʻalilolilo le fola po le pa faufau, fesili i se tagata poto e uiga i se fola e le paʻū, se laʻau e lagolago ai po se isi lagolago. O le filifiliga e faalagolago i le tagata ma le potu faufau.
 - **Tumau le potu e faigofie ona iloa ma faaaogaina.** Tuu mea masani i nofoaga e faitau ai le tagata. Afai e faigata ona maua le faletaele, se faailoga laʻititi po le tuʻuina o le faitoto i luga e mafai ona fesoasoani, pe a fetaui ma le fale.
 - **Aua le aveina se vevela feʻaveaʻi i le potu faufau.** Teu mea eletise mai eria susu ma mulimuli i tusiga a le kamupani.

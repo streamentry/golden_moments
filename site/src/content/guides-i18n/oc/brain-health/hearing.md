@@ -94,7 +94,7 @@ Comencetz amb un metge de medicina generala, que pòt vos mandar a un audiologis
 
 La perda d'audicion pòt èsser presa per una confusion. L'NIA nota que de personas velhas que sentisson pas plan son de còps pensadas confusas, insensiblas o pas cooperativas per error. Se qualqu'un que vos es car sembla replegat o perd çò que se ditz, un tèst d'audicion es un bon primièr pas.
 
-## Qu'es los aparelhs auditius de venda liura ?
+## Qué son los aparelhs auditius de venda liura ?
 
 Dempuèi octòbre 17, 2022, la [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) autoriza una categoria d'aparelhs auditius de venda liura. Vaquí coma se comparan als aparelhs sus ordonança :
 
