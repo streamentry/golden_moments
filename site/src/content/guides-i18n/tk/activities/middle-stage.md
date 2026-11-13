@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Orta basgançakdaky demensiýa üçin işler"
+seoTitle: "Orta basgançakdaky demensiýa üçin ýönekeý pikirler"
+description: "Orta basgançakdaky demensiýa üçin ýönekeý işler: peýdaly ýumuşlar, aýdym-saz, suratlar we oýunlar, ädimme-ädim taýýarlyk we ynjalyksyzlyk bilen."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Orta basgançakdaky demensiýada iň gowy işler gysga, tanyş we ýekeje ädimlere
+  bölünen bolýar: eşik eplemek, jorap saralamak, gap-gaç ýuwmak, aýdym aýtmak,
+  ýanyndan gidilýän gezelençler, surat albomlary we ýönekeý surat oýunlary.
+  Zatlary taýýarlaň, birinji ädimi görkeziň, kyn bölekleri öz üstüňize alyň
+  we işe maksat beriň. Ýakymly bolmakdan galanda duruň.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Tanyş öý ýumuşlary köplenç iň gowy işleýär, sebäbi olar peýdaly we uly adama laýyk duýulýar."
+  - "Aýtmaktan has köp görkeziň, bir wagtda bir ädim hödürläň we açyk soraglaryň ýerine iki ýönekeý saýlaw beriň."
+  - "Iň kyn bölegini özüňiz alyň, şeýdip adam kanagatlandyryjy bölegini edip biler."
+  - "Ynjalyksyz hereket köplenç adamyň edip biljek zada mätäçdigini aňladýar. Ýok diýmegiň ýerine laýyk işi hödürläň."
+  - "Seretmek, azajyk kömek etmek ýa-da ir bes etmek hemmesi gowy."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Orta basgançakdaky demensiýa üçin haýsy işler gowy?"
+    a: "Gysga, tanyş, el bilen edilýän işler adatça iň gowy işleýär: polotensa eplemek, jorap jübütlemek, gap-gaç ýuwmak, saçak taýýarlamak, köne halaýan aýdymlara goşulyp aýtmak, ýanyndan gidilýän gezelençler, surat albomlaryna seretmek we ýönekeý surat oýunlary. Her birini ýekeje ädimlere bölüň we bilelikde ediň."
+  - q: "Demensiýaly adamy bir işe başlamaga nädip ynandyryp bolar?"
+    a: "Hemme zady taýýar goýuň, soňra işi özüňiz başlaň we kömek etmäge çagyryň: 'Şu polotensalara kömek edip bilersiňizmi?' Köp adam gatnaşmak isleýär, ýöne başlamak kyn bolýar. Birinji ädimi görkezmek adatça düşündirmekden gowy işleýär."
+  - q: "Bir zady gaýta-gaýta edýän bolsa, nätmeli?"
+    a: "Gaýtalamak köplenç zyýansyz we adamyň işli bolmagy islänini ýa-da göwün berlişini isleýänini aňladyp biler. Düzetmegiň ýerine hereketine laýyk iş hödürläň, mysal üçin eplemek üçin ýuwulýan matalar sebedi ýa-da bilelikde aýtmak üçin aýdym."
+  - q: "Işi ýalňyş etse nätmeli?"
+    a: "Zyýansyz bolsa, goýuň. Başgaça epleneň polotensalar ýa-da ýalňyş ýerdäki çemçeler wajyp däl. Düzetmek tankyt ýaly duýulyp biler, olaryň öz usulynda etmegi bolsa özlerini başarjaň we peýdaly duýmaga ýol berýär."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Demensiýanyň orta basgançagy köplenç iň uzak dowam edýär we işleriň hakyky goldaw talap edip başlaýan wagty. Sözler kyn tapylýar, ädimler garyşýar we islendik zada başlamak kyn duýulyp biler. Ýöne peýdaly we gatnaşýan bolmak islegi adatça galýar. Azajyk taýýarlyk bilen orta basgançakdaky adam entek haýran galdyryjy derejede lezzet alyp biler, aýratyn hem siziň ýanyňyzda ýanaşyk edilýän tanyş ýumuşlardan, aýdym-sazdan we suratlardan.
 
-## What activities work well in middle-stage dementia?
+## Orta basgançakdaky demensiýada haýsy işler gowy işleýär?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Ýekeje ädimlere bölünen gysga, tanyş, el bilen edilýän işler iň gowy işleýär. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) täze zatlar oýlap tapmagyň zerurlygynyň ýokdugyny aýdýar: işler adaty durmuşyň bir bölegi bolup biler, mysal üçin bilelikde agşamlyk nahary taýýarlamak, bag işleri, aýdym-saz diňlemek ýa-da gezelenje çykmak.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bu basgançakdaky adamlaryň köplenç maksatly duýmaga ýa-da bir zada ideg etmäge güýçli zerurlygynyň bardygyny we işlere başlamakda ýa-da dowam etdirmekde kömege mätäçdigini belleýär. Onuň orta basgançak sanawyna eşik eplemek, gap-gaç ýuwmak, jorap saralamak, ýeňil maşk, tanyş aýdym-saza tans etmek, ýanyndan gidilýän gezelençler, bilelikde aýdym aýtmak, ýönekeý surat çekmek we surat albomlaryna seretmek girýär.
 
-## How do you set up an activity so it works?
+## Bir işi işlemegi üçin nädip taýýarlamaly?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Işleriň köpüsi taýýarlykda üstünlik gazanýar ýa-da şowsuz bolýar. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) we [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) çeşmelerinden alnan bu endikler iň uly tapawudy döredýär:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Ýeri arassalaň.** Telewizory öçüriň, gapyny ýapyň we diňe işiň zerur zatlaryny goýuň.
+2. **Işi özüňiz başlaň.** Eplemäge ýa-da garyşdyrmaga başlaň we çagyryň: "Munuň bilen maňa kömek edip bilersiňizmi?"
+3. **Görkeziň, soňra garaşyň.** Bir ädimi görkeziň. Eliňiz bilen görkeziň ýa-da ugrukdyryň, mysal üçin tabagyň nirä goýulýandygyny.
+4. **Bir wagtda bir ädim beriň.** "Ony ýarym epläň" "Bulary epläp reňk boýunça üstüne goýuň" diýmekden has ýeňil.
+5. **Açyk soraglar däl, iki saýlaw hödürläň.** "Gök polotensalarmy ýa-da ak olarmy?" "Haýsyny etmek isleýärsiňiz?" diýmekden jogap bermäge has ýeňil.
+6. **Kyn bölegini özüňiz ediň.** Siz ölçeýärsiňiz, ol garyşdyrýar. Siz iňňä ýüp geçirýärsiňiz, ol ýüpi dolaýar.
+7. **Oňa sebäp beriň.** "Bu salfetkalar ýekşenbe agşamlyk naharyna" iş hakyky ýaly duýdurýar.
+8. **Halasa, seretmäge ýol beriň.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) diňe seretmegiň hem ýakymly bolup biljekdigini belleýär.
 
-## Activity ideas for the middle stage
+## Orta basgançak üçin iş pikirleri
 
-### Useful jobs
+### Peýdaly ýumuşlar
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Polotensalary we ýuwulýan matalary epläň.** Kiçi, tekiz zatlar iň ýeňil. Ýyly ýuwulýan matalaryň sebedi epläp, tekizläp we gaýtadan epläp bolýar.
+- **Jorap jübütläň.** Birnäçe gaty tapawutly jübütden başlaň. Diňe reňk boýunça saralamak hem gowy.
+- **Döwülmeýän gap-gaçlary ýuwuň ýa-da süpüriň.** Ýyly, sabynly suw ellere ýakymly. Oturyp süpürmek aýaklara ýeňil.
+- **Saçak taýýarlaň.** Bir wagtda bir görnüşli zady uzadyň we nusga hökmünde bir ýeri özüňiz taýýarlaň.
+- **Agşamlyk nahara kömek ediň.** Kartoşka ýuwmak, salat ýapragyny ýyrtmak ýa-da bir gaby garyşdyrmak. Pyçaklary we gyzgyny siz alyň.
+- **Süpüriň, tozan sylyň ýa-da süpüriň.** Stol üçin mata, eýwan üçin ýeňil süpürgi.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Has köp pikir üçin [öý işlerine](/activities/household-tasks/) serediň.
 
-### Music and movement
+### Aýdym-saz we hereket
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Köne halaýan aýdymlary aýdyň.** Özüňiz aýtmaga başlaň; köp adam ýigrimi ýyllarboýy bilýän aýdymlaryna goşulýar. [Aýdym-saz işlerine](/activities/music/) serediň.
+- **Erkin tans ediň.** Yrgyldaň, el çarpyň ýa-da ýakymly duýulýan ýaly hereket ediň. Oturyp edýän hem gowy.
+- **Şar zyňyň.** Ol haýal hereket edýär we oturgyçdan tutmak ýeňil.
+- **Ýanyndan gidilýän gezelenje çykyň.** Gysga, tanyş aýlawy bilelikde ýöräň, kömek etse, goltuk-goltuk.
 
-### Pictures and stories
+### Suratlar we hekaýalar
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Surat albomyna serediň.** Soragdan köp, görýän zadyňyz hakda pikir aýdyň: "Şol maşyna serediň. Onuň hakda gürrüň beriň." [Ýatlama işlerine](/activities/reminiscence/) serediň.
+- **Gürrüň kartalaryny ulanyň.** [Gürrüň kartalary](/games/conversation-cards/) suraty açyk, synagsyz soragla jübütleýär.
+- **Köne filmi bilelikde tomaşa ediň.** Tanyş birini saýlaň, ýakynda boluň we arakesme üçin saklaň.
 
-### Simple, pressure-free games
+### Ýönekeý, basyşsyz oýunlar
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Suratlar görünýän Surat jübütleri.** [Surat jübütleri](/games/picture-pairs/) suratlaryň görünmegine ýol berýär, şonuň üçin ýatda saklamak däl-de, üns bermek hakda.
+- **Meňzeşini tapyň.** [Meňzeşini tapyň](/games/find-the-same/) bir suraty we diňe iki-dört saýlawy görkezýär.
+- **Bilelikde saralaň.** [Bilelikde saralaň](/games/sort-together/) ekranda eşik saralamaga meňzeýär: suraty, soňra onuň sebedini ýaňsyz.
+- **Surat bingosy.** [Surat bingosy](/games/picture-bingo/) maşgala ýygnanyşyklary we toparlar üçin gowy işleýär.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Bir oýun gaharlandyryp başlasa, duruň we başga zat ediň. [Bilelikde nädip oýnamaly](/caregiving/how-to-play-together/) sahypasyna serediň.
 
-## Turning restlessness into an activity
+## Ynjalyksyzlygy işe öwürmek
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Ynjalyksyz ýa-da gaýtalanýan hereketiň köplenç sebäbi bar. Family Caregiver Alliance şkafy üznüksiz boşadýan adamyň işli we önümli duýmak zerurlygyny kanagatlandyrmaga synanyşýan bolup biljekdigini görkezýär. Alzheimer's Association şeýle energiýany saklamagyň ýerine laýyk işe ugrukdyrmagy maslahat berýär.
 
-| What you see | Something to offer |
+| Görýän zadyňyz | Hödürlemeli zat |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Stoly sürtmek ýa-da çokmak | Çygly mata we stoly süpürmek haýyşy |
+| Ynjalyksyz aýaklar ýa-da kakmak | Aýdyň ritmli, kakmak ýa-da el çarpmak üçin aýdym-saz |
+| Çekmeleri ýa-da şkaflary boşatmak | Eplemek we saralamak üçin eşik ýa-da ýuwulýan matalar sebedi |
+| Şol bir soragy gaýtadan bermek | Göwün bermek, soňra aýdym ýa-da bilelikde ýumuş |
+| Aýlanmak | Bilelikde gezelenç ýa-da zatlary daşamak ýumuşy |
+| Günortandan soňky biynjalyklyk | Gowy ýagtylykda rahat, tanyş iş; [günüň ahyrynda ynjalyksyzlyga](/caregiving/late-day-restlessness/) serediň |
 
-## When to stop or change course
+## Haçan bes etmeli ýa-da ugry üýtgetmeli
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Ýadawlyk, gaharjaňlyk, utanç ýa-da zeriklemek alamatlaryny görseňiz duruň, mysal üçin gymyldamak, gaşyny çytmak, zatlary itmek ýa-da "Başarmaýaryn" diýmek. Alzheimer's Association günüň başga wagtynda gaýtadan synanyşmagy ýa-da işi ýönekeýleşdirmegi maslahat berýär. Mejbur etmäň. Ret etmek gorkudan ýa-da işiň gaty kyndygyndan bolup biler; [ýok diýenlerinde](/caregiving/when-they-say-no/) serediň.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Ir bes etmek gowy. Bir käse çaý bilen diňe bilelikde oturmak hem. Ukyplar mundan beýläk üýtgände, [giçki basgançak işlerindäki](/activities/late-stage/) pikirler has laýyk gelip biler we [101 iş](/activities/ideas/) synap görmek üçin has köp pikirleri öz içine alýar.
