@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "ວິທີຫຼິ້ນເກມກັບຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມ"
+description: "ຄູ່ມືປະຕິບັດສຳລັບການຫຼິ້ນເກມກັບຜູ້ທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ: ການຕັ້ງຄ່າ ຈັງຫວະ ການບໍ່ແກ້ໄຂຄວາມຜິດ ການເຮັດເກມໃຫ້ງ່າຍຂຶ້ນ ແລະຮູ້ເວລາຢຸດ."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  ປະຕິບັດຕໍ່ເກມເປັນເວລາທີ່ຢູ່ນຳກັນ ບໍ່ແມ່ນການສອບເສັງ. ເລືອກເວລາສະຫງົບໃນມື້ນັ້ນ ນັ່ງຄຽງຂ້າງໃນຫ້ອງງຽບ ແລະສະເໜີເກມງ່າຍໆໜຶ່ງເກມ. ໃຫ້ຜູ້ນັ້ນເປັນຜູ້ກຳນົດຈັງຫວະ ບໍ່ແກ້ໄຂຄວາມຜິດພາດທີ່ບໍ່ເປັນອັນຕະລາຍ ເຮັດເກມໃຫ້ງ່າຍຂຶ້ນທັນທີທີ່ເລີ່ມເຄັ່ງຕຶງ ແລະປ່ຽນຮູບໃຫ້ເປັນການສົນທະນາ. ຢຸດໃນຂະນະທີ່ຍັງຮູ້ສຶກດີ. ການຢຸດກ່ອນເວລາ ຫຼືການນັ່ງເບິ່ງນຳກັນ ກໍເປັນຜົນທີ່ດີ.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "ເປົ້າໝາຍແມ່ນຄວາມສຸກ ແລະການເຊື່ອມຕໍ່ ບໍ່ແມ່ນການສຳເລັດ ຫຼືການຕອບໃຫ້ຖືກ."
+  - "ຕັ້ງຄ່າກ່ອນ: ຫ້ອງງຽບ ແສງດີ ແວ່ນຕາ ແລະເຄື່ອງຊ່ວຍຟັງໃສ່ຢູ່ ປິດໂທລະທັດ ແລະມີເກມໜຶ່ງເກມພ້ອມ."
+  - "ຢ່າແກ້ໄຂຄວາມຜິດພາດທີ່ບໍ່ເປັນອັນຕະລາຍ. ເວົ້າວ່າ “ລອງເຮັດແບບນີ້ເດີ” ຫຼືພຽງແຕ່ດຳເນີນຕໍ່ໄປ."
+  - "ເຮັດເກມໃຫ້ງ່າຍຂຶ້ນກ່ອນທີ່ຄວາມອຸກອັ່ງຈະເພີ່ມ: ຮູບໜ້ອຍລົງ ທາງເລືອກໜ້ອຍລົງ ແລະໃຫ້ຮູບຍັງເບິ່ງເຫັນຢູ່."
+  - "ໃຊ້ຮູບເປັນຈຸດເລີ່ມຕົ້ນຂອງເລື່ອງລາວດ້ວຍ “ເລົ່າໃຫ້ຟັງກ່ຽວກັບ...” ແທນ “ເຈົ້າຈື່ໄດ້ບໍ...?”"
+  - "ຢຸດເມື່ອເລີ່ມເມື່ອຍ ຫຼືອຸກອັ່ງ. ການຢຸດກ່ອນເວລາແມ່ນຄວາມສຳເລັດ ບໍ່ແມ່ນຄວາມລົ້ມເຫຼວ."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "ຄວນຫຼິ້ນເກມແຕ່ລະເທື່ອດົນປານໃດ?"
+    a: "ບໍ່ມີຄວາມຍາວທີ່ຖືກຕ້ອງ. ສຳລັບຫຼາຍຄົນ ສອງສາມນາທີກໍພຽງພໍ ແລະບາງມື້ໜຶ່ງຮອບກໍພໍແລ້ວ. ໃຫ້ສັງເກດຄົນນັ້ນແທນທີ່ຈະເບິ່ງໂມງ ແລະຢຸດໃນຂະນະທີ່ເຂົາເຈົ້າຍັງເບິ່ງຜ່ອນຄາຍ."
+  - q: "ຄວນໃຫ້ເຂົາເຈົ້າຊະນະ ຫຼືທຳທ່າວ່າບໍ່ເຫັນຄວາມຜິດພາດບໍ?"
+    a: "ໃນເກມທີ່ນຳກັນແບບບໍ່ມີຄວາມກົດດັນ ບໍ່ມີຫຍັງໃຫ້ຊະນະ ຫຼືແພ້. ຖ້າຄວາມຜິດພາດບໍ່ລົບກວນຄົນນັ້ນ ກໍໃຫ້ມັນຜ່ານໄປ. ຖ້າເບິ່ງຄືວ່າລົບກວນ ໃຫ້ຊ່ວຍຢ່າງງຽບໆ ຫຼືເຮັດເກມໃຫ້ງ່າຍຂຶ້ນໃນຮອບຕໍ່ໄປໂດຍບໍ່ຊີ້ໃຫ້ເຫັນ."
+  - q: "ຖ້າເຂົາເຈົ້າຢາກເບິ່ງຂ້ອຍຫຼິ້ນແທນຈະເປັນແນວໃດ?"
+    a: "ບໍ່ເປັນຫຍັງ. ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA) ແນະນຳໃຫ້ປ່ອຍໃຫ້ຄົນນັ້ນເບິ່ງຢ່າງງ່າຍໆ ຖ້າເບິ່ງຄືວ່າເຂົາເຈົ້າມັກການເບິ່ງຫຼາຍກວ່າ. ເວົ້າກ່ຽວກັບສິ່ງທີ່ທ່ານເຫັນ ແລະເຊີນໃຫ້ຊີ້ ຫຼືເລືອກເມື່ອໃດກໍໄດ້ທີ່ເຂົາເຈົ້າຢາກເຮັດ."
+  - q: "ເກມເຫຼົ່ານີ້ເປັນວິທີທົດສອບຄວາມຈຳບໍ?"
+    a: "ບໍ່. ເກມຂອງພວກເຮົາເປັນກິດຈະກຳຮ່ວມກັນທີ່ງ່າຍໆເພື່ອຄວາມສຸກ ແລະການສົນທະນາ. ມັນບໍ່ແມ່ນການທົດສອບຄວາມຈຳ ບໍ່ວັດສິ່ງໃດ ແລະບໍ່ແມ່ນການປິ່ນປົວໂຣກສະໝອງເສື່ອມ."
+  - q: "ເກມໃດເໝາະທີ່ສຸດສຳລັບເລີ່ມ?"
+    a: "ເລີ່ມດ້ວຍເກມທີ່ງ່າຍທີ່ສຸດທີ່ເໝາະກັບຄົນນັ້ນ. Picture Pairs ທີ່ມີສີ່ຊ່ອງ ແລະຮູບຍັງເບິ່ງເຫັນຢູ່ ຫຼື Find the Same ທີ່ມີສອງທາງເລືອກ ເປັນຈຸດເລີ່ມຕົ້ນທີ່ອ່ອນໂຍນ. Conversation Cards ເໝາະຖ້າຄົນນັ້ນມັກເວົ້າຫຼາຍກວ່າແຕະ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+ເກມທີ່ດີກັບຄົນທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ ບໍ່ໄດ້ເບິ່ງຄືການແຂ່ງຂັນ. ມັນເບິ່ງຄືສອງຄົນນັ່ງໃກ້ກັນ ຊີ້ໃສ່ຮູບ ຫົວເລາະກັບສຸພາສິດ ແລະເວົ້າກ່ຽວກັບສິ່ງທີ່ເກີດຂຶ້ນ. ເກມເປັນພຽງເຫດຜົນໃຫ້ໃຊ້ເວລານຳກັນ.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+ຄູ່ມືນີ້ກວມເອົາວິທີຕັ້ງຄ່າ ວິທີປັບຈັງຫວະເກມ ສິ່ງທີ່ຄວນເວົ້າເມື່ອມີບາງຢ່າງ "ຜິດ" ວິທີເຮັດເກມໃດກໍໄດ້ໃຫ້ງ່າຍ ຫຼືຍາກນ້ອຍໜຶ່ງ ວິທີປ່ຽນເປັນການສົນທະນາ ແລະວິທີຮູ້ເວລາຢຸດ. ມັນໃຊ້ໄດ້ກັບ[ເກມຂອງພວກເຮົາ](/games/) ແລະກັບບັດ ປິດຊອກຄຳ ແລະເກມກະດານທີ່ທ່ານມີຢູ່ແລ້ວ.
 
-## What is the best way to play a game with someone who has dementia?
+## ວິທີທີ່ດີທີ່ສຸດໃນການຫຼິ້ນເກມກັບຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມແມ່ນຫຍັງ?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+ໃຫ້ເນັ້ນຄວາມສຸກ ບໍ່ແມ່ນຜົນສຳເລັດ. ນັ້ນເປັນຄຳແນະນຳຫຼັກຈາກ[ແນວທາງກິດຈະກຳຂອງສະມາຄົມອາການອັລໄຊເມີ (Alzheimer's Association)](https://www.alz.org/help-support/caregiving/daily-care/activities): ສ້າງຈາກທັກສະທີ່ຄົນນັ້ນຍັງມີ ຊ່ວຍໃຫ້ເລີ່ມ ເຮັດສ່ວນທີ່ຍາກໃຫ້ສຳເລັດເອງ ແລະບໍ່ວິຈານ ຫຼືແກ້ໄຂກິດຈະກຳທີ່ບໍ່ເປັນອັນຕະລາຍ.
 
-In practice that means:
+ໃນທາງປະຕິບັດ ນັ້ນໝາຍເຖິງ:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **ນັ່ງຂ້າງເຂົາເຈົ້າ ບໍ່ແມ່ນນັ່ງກົງກັນຂ້າມ.** ນັ່ງຄຽງຂ້າງ ທັງສອງຄົນເຫັນໜ້າຈໍ ຫຼືໂຕະໄດ້ ແລະການຊ່ວຍເຫຼືອຮູ້ສຶກຄືການເຮັດວຽກເປັນທີມ ບໍ່ແມ່ນການຄວບຄຸມ.
+- **ສະເໜີເກມເທື່ອລະເກມ.** ເມນູທາງເລືອກຫຼາຍອາດຮູ້ສຶກຄືການສອບເສັງກ່ອນຈະເລີ່ມຫຍັງ.
+- **ຕາມຈັງຫວະຂອງເຂົາເຈົ້າ.** ຖ້າເຂົາເຈົ້າຢາກແຕະຮູບຕາມລຳດັບຂອງຕົນເອງ ເວົ້າກ່ຽວກັບຮູບໜຶ່ງເປັນເວລາສິບນາທີ ຫຼືຢຸດຫຼັງຈາກສອງຮອບ ນັ້ນຄືເກມໃນມື້ນັ້ນ.
+- **ນັບຊ່ວງເວລາທີ່ດີ ບໍ່ແມ່ນຮອບທີ່ສຳເລັດ.** ການຍິ້ມ ເລື່ອງລາວ ຫຼືເຄິ່ງຊົ່ວໂມງທີ່ສະຫງົບ ແມ່ນຜົນທີ່ທ່ານກຳລັງຊອກຫາ.
 
-## How do I set up before we start?
+## ຈະຕັ້ງຄ່າກ່ອນເລີ່ມແນວໃດ?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+ການຕຽມຕົວສອງສາມນາທີປ້ອງກັນຄວາມອຸກອັ່ງສ່ວນໃຫຍ່ທີ່ຄົນມັກໂທດວ່າເປັນຄວາມຜິດຂອງເກມ.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **ເລືອກເວລາທີ່ດີທີ່ສຸດຂອງມື້.** [ແນວທາງການປັບກິດຈະກຳຂອງສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA)](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ແນະນຳໃຫ້ວາງແຜນກິດຈະກຳໃນເວລາທີ່ຄົນນັ້ນຢູ່ໃນສະພາບດີທີ່ສຸດ. ສຳລັບຫຼາຍຄົນນັ້ນແມ່ນກາງເຊົ້າ. ຊ່ວງບ່າຍແກ່ມັກຍາກກວ່າ ເບິ່ງ[ກິດຈະກຳຕອນບ່າຍແກ່ທີ່ສະຫງົບ](/caregiving/late-day-restlessness/).
+2. **ເຮັດໃຫ້ຫ້ອງງຽບ.** ປິດໂທລະທັດ ແລະວິທະຍຸ ແລະປິດປະຕູຖ້າທ່ານເຮັດໄດ້. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ແນະນຳໃຫ້ຈຳກັດສຽງ ແລະສິ່ງລົບກວນກ່ອນເວົ້າ.
+3. **ກວດຄວາມສະບາຍກ່ອນ.** ນ້ຳດື່ມຢູ່ໃກ້ໆ ໄປຫ້ອງນ້ຳກ່ອນ ເກົ້າອີ້ທີ່ສະບາຍ ແລະແວ່ນຕາ ກັບເຄື່ອງຊ່ວຍຟັງໃສ່ຢູ່.
+4. **ໃຫ້ແສງສະຫວ່າງພື້ນທີ່ດີ.** ແສງສະຫວ່າງທີ່ສະໝ່ຳ ບໍ່ມີແສງສະທ້ອນໃສ່ໜ້າຈໍ ເຮັດໃຫ້ຮູບເບິ່ງເຫັນງ່າຍຂຶ້ນ.
+5. **ຕຽມເກມກ່ອນນັ່ງລົງ.** ເປີດເກມ ເລືອກການຕັ້ງຄ່າ ແລະປັບສຽງດ້ວຍຕົວເອງ. ຈາກນັ້ນຫັນໜ້າຈໍໄປຫາເຂົາເຈົ້າ. ສຳລັບຄຳແນະນຳແທັບເລັດ ເບິ່ງ[ການຕັ້ງຄ່າແທັບເລັດ ຫຼືໂທລະສັບ](/caregiving/tablets-and-screens/).
+6. **ຕັ້ງອຸປະກອນໃຫ້ຕັ້ງຂຶ້ນ.** ຂາຕັ້ງ ຫຼືເຄສທີ່ຖືແທັບເລັດໃຫ້ຕັ້ງຂຶ້ນ ເຮັດໃຫ້ບໍ່ມີໃຜຕ້ອງຖື ແລະງ່າຍຕໍ່ການຊີ້.
 
-## How do I invite them without pressure?
+## ຈະເຊີນເຂົາເຈົ້າໂດຍບໍ່ມີຄວາມກົດດັນແນວໃດ?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+ເຮັດໃຫ້ການເຊີນເປັນກັນເອງ ແລະປະຕິເສດງ່າຍ. ປະໂຫຍກບາງອັນທີ່ມັກໄດ້ຜົນດີ:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "ຂ້ອຍເຈີຮູບສວນບາງຮູບ. ຢາກເບິ່ງນຳຂ້ອຍບໍ?"
+- "ຊ່ວຍຂ້ອຍເຮັດປິດຊອກຄຳນີ້ໄດ້ບໍ? ຂ້ອຍຕິດຢູ່."
+- "ມື້ນີ້ເຈົ້າຢາກເອົາດອກໄມ້ ຫຼືນົກ?" (ການເລືອກສອງຢ່າງງ່າຍກວ່າຄຳຖາມເປີດ)
+- "ຂ້ອຍກຳລັງເຮັດກາດໃຫ້ນ້ອງສາວຂອງເຈົ້າ. ອັນນີ້ຄວນເປັນສີໃດດີ?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+ສະມາຄົມອາການອັລໄຊເມີແນະນຳໃຫ້ອະທິບາຍຈຸດປະສົງຂອງກິດຈະກຳ ເຊັ່ນການເຮັດກາດໃຫ້ໝູ່ ເພາະເຫດຜົນເຮັດໃຫ້ມີຄວາມໝາຍ. ການຂໍຄວາມຊ່ວຍເຫຼືອກໍໄດ້ຜົນເຊັ່ນກັນ ເພາະມັນເຮັດໃຫ້ຄົນນັ້ນຮູ້ສຶກວ່າມີປະໂຫຍດ.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+ຖ້າເຂົາເຈົ້າເວົ້າວ່າບໍ່ ໃຫ້ຍອມຮັບ. ລອງໃໝ່ໃນພາຍຫຼັງ ຫຼືສະເໜີສິ່ງທີ່ແຕກຕ່າງ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ[ສິ່ງທີ່ຕ້ອງເຮັດເມື່ອເຂົາເຈົ້າບອກວ່າບໍ່](/caregiving/when-they-say-no/) ອະທິບາຍເພີ່ມເຕີມ.
 
-## How long should a game last, and how fast should we go?
+## ເກມຄວນໃຊ້ເວລາດົນປານໃດ ແລະຄວນໄວເທົ່າໃດ?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+ໃຫ້ຜູ້ນັ້ນເປັນຜູ້ກຳນົດຈັງຫວະ ແລະວາງແຜນການຫຼິ້ນສັ້ນໆ. ບໍ່ມີຄວາມຍາວທີ່ດີທີ່ສຸດທີ່ອີງໃສ່ຫຼັກຖານສຳລັບເກມນຳກັນ. ສອງຫາຫ້ານາທີທີ່ສະຫງົບອາດເປັນກິດຈະກຳທີ່ສົມບູນແລ້ວ.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **ລໍຖ້ານານກວ່າທີ່ຮູ້ສຶກວ່າເປັນທຳມະຊາດ.** NIA ແນະນຳໃຫ້ໃຫ້ເວລາຫຼາຍຂຶ້ນໃຫ້ຄົນນັ້ນຕອບສະໜອງ ແລະພະຍາຍາມບໍ່ຂັດຈັງຫວະ. ນັບໃນໃຈເຖິງສິບກ່ອນຈະຊ່ວຍ.
+- **ເທື່ອລະຂັ້ນຕອນ.** ໃຫ້ຄຳສັ່ງສັ້ນໆດຽວ ("ແຕະຮູບໜຶ່ງ") ແລ້ວລໍຖ້າ. ສະແດງແທນການອະທິບາຍ: ຊີ້ບ່ອນທີ່ຈະແຕະ.
+- **ຢຸດຊົ່ວຄາວໄດ້ຕາມໃຈ.** ຖ້າເຂົາເຈົ້າຢຸດເພື່ອເວົ້າກ່ຽວກັບຮູບ ເກມກໍລໍຖ້າໄດ້. ບໍ່ຈຳເປັນຕ້ອງຮີບຮ້ອນ.
+- **ໃຫ້ເຂົາເຈົ້າເບິ່ງ.** NIA ລະບຸວ່າບາງຄົນມັກເບິ່ງ ແລະນັ້ນເປັນທາງເລືອກທີ່ຖືກຕ້ອງ.
 
-## Should I correct wrong answers?
+## ຄວນແກ້ໄຂຄຳຕອບທີ່ຜິດບໍ?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+ບໍ່. ການແກ້ໄຂຄົນຊ້ຳແລ້ວຊ້ຳອີກບອກວ່າເຂົາເຈົ້າລົ້ມເຫຼວ ເຖິງແມ່ນທ່ານຕັ້ງໃຈດີ. ໃນເກມ ເກືອບທຸກຄວາມຜິດພາດບໍ່ເປັນອັນຕະລາຍ.
 
-| Instead of | Try |
+| ແທນທີ່ຈະ | ລອງເວົ້າ |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "ບໍ່, ຜິດແລ້ວ." | "ລອງເຮັດແບບນີ້ເດີ." (ຕົວຢ່າງທີ່ NIA ໃຫ້) |
+| "ອັນນີ້ບໍ່ກົງກັນ. ລອງເບິ່ງໃໝ່." | ບໍ່ເວົ້າຫຍັງ ແລ້ວຫຼິ້ນຕາຕໍ່ໄປ ຫຼື "ໂອ້, ອັນນັ້ນເປັນສີແດງທັງສອງ." |
+| "ເຈົ້າຈື່ໄດ້ບໍວ່ານີ້ແມ່ນໃຜ?" | "ເລົ່າໃຫ້ຟັງກ່ຽວກັບຮູບນີ້ແດ່." |
+| "ເຈົ້າເຮັດອັນນັ້ນໄປແລ້ວ." | "ອັນນີ້ດີ. ມາເຮັດອີກເທື່ອໜຶ່ງ." |
+| "ມາເລີຍ, ເຈົ້າຮູ້ອັນນີ້ດີ." | "ຢາກໃຫ້ຂ້ອຍສະແດງຕອນຈົບບໍ?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+ຖ້າຄວາມຜິດພາດເຮັດໃຫ້ເຂົາເຈົ້າອຸກອັ່ງຢ່າງຊັດເຈນ ໃຫ້ຊ່ວຍຢ່າງງຽບໆ. ຊີ້ຮູບທີ່ຖືກ ຫຼືຫຼິ້ນຕາຂອງທ່ານເອງ ຫຼືເຮັດເກມໃຫ້ງ່າຍຂຶ້ນໃນຮອບໜ້າ. ຖ້າສຸພາສິດໄດ້ຕອນຈົບທີ່ຕະຫຼົກຜິດ ໃຫ້ຫົວນຳ. ຕອນຈົບຂອງເຂົາເຈົ້າອາດດີກວ່າ.
 
-## How do I make a game easier or harder?
+## ຈະເຮັດເກມໃຫ້ງ່າຍຂຶ້ນ ຫຼືຍາກນ້ອຍໜຶ່ງໄດ້ແນວໃດ?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+ປັບເກມໃຫ້ເໝາະກັບຄົນນັ້ນໃນມື້ນັ້ນ ບໍ່ແມ່ນກັບປ້າຍໄລຍະ. ຄົນດຽວກັນອາດຕ້ອງການເວີຊັນທີ່ງ່າຍກວ່າໃນຕອນແລງ ຫຼາຍກວ່າຕອນເຊົ້າ. ວິທີຫຼັກຂອງ NIA ແມ່ນຈັບຄູ່ກິດຈະກຳກັບສິ່ງທີ່ຄົນນັ້ນເຮັດໄດ້ ແລະໃຫ້ແນ່ໃຈວ່າເຂົາເຈົ້າຮູ້ສຶກວ່າປະສົບຜົນສຳເລັດ.
 
-| Game | Make it easier | Make it a little harder |
+| ເກມ | ເຮັດໃຫ້ງ່າຍຂຶ້ນ | ເຮັດໃຫ້ຍາກຂຶ້ນນ້ອຍໜຶ່ງ |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | ເລີ່ມດ້ວຍ 4 ຊ່ອງ ແລະປ່ອຍໃຫ້ຮູບເບິ່ງເຫັນຢູ່ | ເພີ່ມຊ່ອງ ຫຼືເຊື່ອງຮູບຖ້າຮູ້ສຶກສະບາຍ |
+| [Find the Same](/games/find-the-same/) | 2 ທາງເລືອກ | ສູງສຸດ 4 ທາງເລືອກ |
+| [Sort Together](/games/sort-together/) | ເຈົ້າຖືຮູບ ເຂົາເຈົ້າຊີ້ຕະກ້າ | ເຂົາເຈົ້າແຕະທັງຮູບ ແລະຕະກ້າດ້ວຍຕົນເອງ |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 ຊິ້ນ ລົມກັນເຖິງຮູບທັງໝົດກ່ອນ | 9 ຊິ້ນ |
+| [Finish the Saying](/games/finish-the-saying/) | ສະແດງຕອນຈົບ ແລ້ວເວົ້າພ້ອມກັນ | ໃຫ້ເຂົາເຈົ້າເວົ້າຕອນຈົບກ່ອນແຕະ |
+| [Word Search](/games/word-search/) | ພິມອອກ ຊອກຄຳໜຶ່ງຄຳນຳກັນ ຊີ້ຕົວອັກສອນທຳອິດ | ໃຫ້ເຂົາເຈົ້າເລືອກຄຳຕໍ່ໄປທີ່ຈະຊອກ |
+| [Coloring](/games/coloring/) | ເຈົ້າເລືອກສອງສີ ເຂົາເຈົ້າເລືອກລະຫວ່າງສອງສີ | ເຂົາເຈົ້າເລືອກທຸກສີ |
+| [Conversation Cards](/games/conversation-cards/) | ພຽງແຕ່ເບິ່ງຮູບນຳກັນ | ໃຊ້ຄຳຖາມເປີດໃນບັດ |
+| [Photo Pairs](/games/photo-pairs/) | ຮູບຄອບຄົວທີ່ຮັກຫຼາຍບໍ່ກີ່ຮູບ | ເພີ່ມຮູບ |
+| [Picture Bingo](/games/picture-bingo/) | ມີຜູ້ຊ່ວຍນັ່ງກັບຜູ້ຫຼິ້ນແຕ່ລະຄົນ | ຜູ້ຫຼິ້ນໝາຍບັດຂອງຕົນເອງ |
+| [Calm Breathing](/games/calm-breathing/) | ພຽງນັ່ງເບິ່ງນຳກັນ | ຫາຍໃຈຕາມຊ້າໆ |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+ສັນຍານວ່າເກມຍາກເກີນໄປ: ການຢຸດດົນທີ່ເບິ່ງກັງວົນ ແທນການຄິດ, "ຂ້ອຍເຮັດບໍ່ໄດ້" ເກີດຊ້ຳໆ, ຜັກອຸປະກອນອອກໄປ ຫຼືຄວາມຜິດພາດທີ່ເຮັດໃຫ້ອຸກອັ່ງ. ສັນຍານວ່າອາດງ່າຍເກີນໄປ: ຄວາມເບື່ອ ຫຼືການທີ່ເຂົາເຈົ້າເວົ້າວ່າມັນເປັນເດັກນ້ອຍ. ຖ້າເກີດແບບນັ້ນ ໃຫ້ເຄົາລົບ ແລ້ວປ່ຽນໄປຫາສິ່ງທີ່ຮູ້ສຶກວ່າເປັນຜູ້ໃຫຍ່ ເຊັ່ນຊອກຄຳ ປິດຮູບຈາກຮູບຖ່າຍຈິງ ຫຼືເວົ້າກ່ຽວກັບຮູບອາຊີບເກົ່າຂອງເຂົາເຈົ້າ.
 
-## How do I turn a game into a conversation?
+## ຈະເຮັດໃຫ້ເກມກາຍເປັນການສົນທະນາແນວໃດ?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+ໃຊ້ແຕ່ລະຮູບເປັນການເຊີນໃຫ້ລົມກັນ ແລະຖືວ່າສິ່ງທີ່ເຂົາເຈົ້າເວົ້າເປັນຄຳຕອບທີ່ດີ. ສຳລັບຫຼາຍຄອບຄົວ ນີ້ແມ່ນສ່ວນທີ່ດີທີ່ສຸດຂອງການຫຼິ້ນ.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **ຖາມຄຳຖາມເປີດ ທີ່ບໍ່ມີຄຳຕອບທີ່ຜິດ.** "ເຈົ້າເຫັນຫຍັງ?" "ເຈົ້າມັກອັນໃດ?" "ເລົ່າໃຫ້ຟັງກ່ຽວກັບເຮືອນຄົວທີ່ຄ້າຍແບບນີ້ແດ່."
+- **ແບ່ງປັນກ່ອນ.** "ຍ່າຂອງຂ້ອຍເຄີຍມີໝາແບບນີ້." ເລື່ອງຂອງທ່ານເຮັດໃຫ້ເຂົາເຈົ້າແບ່ງປັນເລື່ອງຂອງເຂົາເຈົ້າໄດ້ງ່າຍຂຶ້ນ.
+- **ຕາມເລື່ອງທີ່ແຍກອອກໄປ.** ຖ້າຮູບລົດນຳໄປສູ່ເລື່ອງການເດີນທາງ ເລື່ອງນັ້ນແມ່ນກິດຈະກຳ. ໃຫ້ເກມຢຸດໄວ້.
+- **ຢ່າກວດສອບຂໍ້ເທັດຈິງ.** ໃນການລະນຶກເຖິງຄວາມຊົງຈຳ ການສົນທະນາທີ່ສະໜຸກສະໜານສຳຄັນກວ່າລາຍລະອຽດທີ່ຖືກຕ້ອງ. ຖ້າເລື່ອງປ່ຽນໄປຈາກຄັ້ງກ່ອນ ໃຫ້ເພີດເພີນກັບສະບັບໃໝ່.
+- **ໃຊ້ຄຳຖາມໃນເກມ.** [Finish the Saying](/games/finish-the-saying/) ມີຄຳຖາມໃນການສົນທະນາຫຼັງຈາກແຕ່ລະສຸພາສິດ ແລະ[Conversation Cards](/games/conversation-cards/) ຖືກອອກແບບສຳລັບສິ່ງນີ້ໂດຍສະເພາະ. [Photo Pairs](/games/photo-pairs/) ໃຊ້ຮູບຄອບຄົວຂອງທ່ານເອງ ເຊິ່ງມັກກະຕຸ້ນເລື່ອງລາວທີ່ອຸດົມສົມບູນທີ່ສຸດ.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+ແນວຄິດເພີ່ມເຕີມຢູ່ໃນຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ[ກິດຈະກຳລະນຶກເຖິງຄວາມຊົງຈຳ](/activities/reminiscence/) ແລະ[ຄຳແນະນຳໃນການສື່ສານ](/caregiving/communication-tips/).
 
-## When should we stop?
+## ເວລາໃດຄວນຢຸດ?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+ຢຸດເມື່ອເລີ່ມເຫັນສັນຍານເມື່ອຍ ຫຼືອຸກອັ່ງຄັ້ງທຳອິດ ແລະດີທີ່ສຸດກ່ອນໜ້ານັ້ນເລັກນ້ອຍ. Alzheimer's Association ແນະນຳໃຫ້ຢຸດ ຫຼືປ່ຽນກິດຈະກຳເມື່ອຄວາມສົນໃຈຫາຍໄປ ຫຼືຄວາມອຸກອັ່ງເພີ່ມຂຶ້ນ.
 
-Watch for:
+ໃຫ້ສັງເກດ:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ອ້າປາກ ເອນຕົວ ຫຼືຕາລອຍອອກຈາກໜ້າຈໍ;
+- ກະວົນກະວາຍ ລຸກຂຶ້ນ ຫຼືຂໍໃຫ້ອອກໄປ;
+- ຖອນຫາຍໃຈ ຕອບສັ້ນໆ ຫຼື "ຂ້ອຍບໍ່ເກັ່ງເລື່ອງນີ້";
+- ແຕະແບບສຸ່ມ ຫຼືຜັກອຸປະກອນອອກໄປ;
+- ນ້ຳຕາໄຫຼ ໂມໂຫ ຫຼືອາລົມປ່ຽນໄວ.
 
-How to stop well:
+ວິທີຢຸດຢ່າງດີ:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **ຈົບດ້ວຍສິ່ງທີ່ງ່າຍ.** ການຈັບຄູ່ສຸດທ້າຍທີ່ເຂົາເຈົ້າເຮັດໄດ້ ຫຼືຮູບສຸດທ້າຍໃຫ້ຊົມ.
+- **ເຮັດໃຫ້ມັນເປັນເລື່ອງຂອງທ່ານ.** "ຂ້ອຍຢາກດື່ມຊາໜ້ອຍໜຶ່ງ. ພວກເຮົາຢຸດຢູ່ນີ້ບໍ?" ຫຼີກເວັ້ນການບອກເປັນນັຍວ່າເຂົາເຈົ້າເຮັດບໍ່ດີ.
+- **ຍ້າຍໄປສິ່ງທີ່ເຄື່ອນໄຫວ ຫຼືສະຫງົບ.** ການຍ່າງສັ້ນໆ ຂອງຫວານ ການພັບເສື້ອຜ້າ ຫຼືດົນຕີ.
+- **ເວົ້າສິ່ງທີ່ອົບອຸ່ນ.** "ຂ້ອຍມັກເຮັດແບບນັ້ນກັບເຈົ້າ." ບໍ່ມີຄຳຍ້ອງຍໍສຳລັບ "ເຮັດໄດ້ຖືກ" ພຽງແຕ່ຄວາມສຸກໃນເວລານຳກັນ.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+ການຢຸດກ່ອນເວລາ ການປ່ຽນແຜນ ຫຼືການເລີກເຮັດເກມແລ້ວພຽງແຕ່ນັ່ງນຳກັນ ລ້ວນແຕ່ເປັນຜົນທີ່ດີ.
 
-## Can we play in a group or over a video call?
+## ພວກເຮົາຫຼິ້ນເປັນກຸ່ມ ຫຼືທາງວິດີໂອແຊັດໄດ້ບໍ?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+ໄດ້, ດ້ວຍການຕັ້ງຄ່າເພີ່ມເລັກນ້ອຍ. ໃນກຸ່ມ ໃຫ້ຈຳກັດສອງສາມຄົນ ໃຫ້ຜູ້ຊ່ວຍນັ່ງຂ້າງຜູ້ທີ່ຕ້ອງການ ແລະເລືອກເກມທີ່ມີຈຸດສຸມຮ່ວມກັນທີ່ຊັດເຈນ. [Picture Bingo](/games/picture-bingo/) ມີບັດທີ່ພິມໄດ້ ແລະຜູ້ເອີ້ນເລກເທິງໜ້າຈໍສຳລັບກຸ່ມ. ເບິ່ງ[ກິດຈະກຳສຳລັບກຸ່ມໃນສູນດູແລ](/activities/care-home-groups/) ເພື່ອຮັບແນວຄິດເພີ່ມເຕີມ.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+ໃນວິດີໂອແຊັດ ຜູ້ຢູ່ໃນການໂທສາມາດອະທິບາຍຮູບ ໃນຂະນະທີ່ຄົນໃນຫ້ອງຊີ້ ແລະແຕະ. ໃຫ້ການໂທສັ້ນ ແລະຄຸ້ນເຄີຍ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ[ການໂທ ແລະວິດີໂອແຊັດ](/activities/phone-and-video-calls/) ມີຄຳແນະນຳເພີ່ມເຕີມ.
 
-## What if a game just isn't working?
+## ຖ້າເກມບໍ່ໄດ້ຜົນຈະເຮັດແນວໃດ?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+ບາງມື້ບໍ່ມີຫຍັງໄດ້ຜົນ ແລະນັ້ນບໍ່ແມ່ນການສະທ້ອນເຖິງທ່ານ ຫຼືເຂົາເຈົ້າ. ເອົາເກມອອກ ແລ້ວລອງເວລາອື່ນຂອງມື້ ເກມອື່ນ ຫຼືບໍ່ມີເກມເລີຍ. ກິດຈະກຳທີ່ດີຫຼາຍບໍ່ກ່ຽວຂ້ອງກັບໜ້າຈໍເລີຍ: ດົນຕີ ພັບຜ້າເຊັດໂຕ ເບິ່ງອາລະບັ້ມຮູບ ຫຼືການຍ່າງສັ້ນໆ. ເບິ່ງ[ລາຍການແນວຄິດກິດຈະກຳ](/activities/ideas/) ຂອງພວກເຮົາເພື່ອຮັບເພີ່ມເຕີມ.

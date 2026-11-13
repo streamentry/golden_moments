@@ -1,33 +1,32 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "פֿרײַע דרוקבאַרע אַקטיװיטעטן פֿאַר דעמענץ"
+seoTitle: "פֿרײַע דרוקבאַרע דעמענץ-אַקטיװיטעטן: גרױסע דרוק"
+description: "פֿרײַע דרוקבאַרע אַקטיװיטעטן פֿאַר דעמענץ: װאָרט-סוך מיט גרױסע אותיות, מאָלבילדער, שמועס-קאַרטלעך און בילד-ביאַנגאָ, מיט עצות װי צו דרוקן."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments אָפֿערט פֿרײַע דרוקבאַרע אַקטיװיטעטן פֿאַר דעמענץ: אַ װאָרט-סוך מיט
+  גרױסע אותיות, מאָלבילדער, שמועס-קאַרטלעך און בילד-ביאַנגאָ. עפֿנט יעדע שפּיל-זײַט
+  און ניצט איר דרוק-קנעפּל. דרוקט מיט גרױסע, פּשוטע אותיות אויף שװער פּאַפּיר, האַלט
+  איין אַרבעט אויף אַ זײַט, און לאַמינירט די זײַטן װאָס איר װילט װידער נוצן. פּשוטע
+  היים-דרוקן, װי אַ לעבנס-געשיכטע-זײַט אָדער אַ טאָגלעכער פּלאַן, העלפֿן אויך.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "אונדזערע דרוקבאַרע אַקטיװיטעטן זענען פֿרײַ: װאָרט-סוך, מאָלן, שמועס-קאַרטלעך און בילד-ביאַנגאָ. יעדע שפּיל-זײַט האָט אַ דרוק-קנעפּל."
+  - "דרוקט מיט גרױסע, פּשוטע אותיות און שטאַרקן קאָנטראַסט, און האַלט איין אַרבעט אויף איין זײַט."
+  - "שװער פּאַפּיר אָדער קאַרטאָן איז גרינגער צו האַלטן און שװערער צו צעקנײטשן. לאַמינירט זײַטן צו נוצן מיט װישבאַרע מאַרקערס."
+  - "היים-דרוקן װי אַ לעבנס-געשיכטע-זײַט, אַ טאָגלעכער פּלאַן אָדער בילד-שילדלעך אויף די טירן זענען פּשוט און נוציק."
+  - "אַ געדרוקט בלאַט איז אַ איינלאַדונג, נישט הױמװאָרק. אַ טייל פֿון אים צו טאָן, אָדער גאָר גאָרנישט, איז גוט."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "צי זענען אײַערע דרוקבאַרע דעמענץ-אַקטיװיטעטן פֿרײַ?"
+    a: "יאָ. די װאָרט-סוך, מאָלבילדער, שמועס-קאַרטלעך און בילד-ביאַנגאָ-זײַטן אויף דעם זײַטל זענען פֿרײַ צו ניצן און צו דרוקן. עפֿנט די שפּיל-זײַט און ניצט דעם דרוק-קנעפּל."
+  - q: "װאָס פֿאַר דרוקבאַרע אַקטיװיטעטן זענען בעסט פֿאַר דעמענץ?"
+    a: "די בעסטע דרוקן זענען פּשוט, קלאָר און פֿאַר דערװאַקסענע: אַ װאָרט-סוך מיט גרױסע אותיות און װערטער נאָר פֿון לינקס נאָך רעכטס און פֿון אויבן נאָך אונטן, מאָלבילדער מיט קלאָרע אויסקאָנטורן, בילד-קאַרטן װאָס הייבן אָן אַ שמועס, און בילד-ביאַנגאָ פֿאַר גרופּעס. פּאַסט די אַקטיװיטעט צו דעם מענטשנס אינטערעסן און איצטיקע פֿעיִקייטן, און האַלט איין אַרבעט אויף אַ זײַט."
+  - q: "װי מאַכט מען דרוקן גרינגער צו זען און צו ניצן?"
+    a: "ניצט גרױסע, פּשוטע אותיות, טונקעלע טינטע אויף װײַס אָדער װײַסלעך פּאַפּיר, און גענוג פּלאַץ. דרוקט אויף שװער פּאַפּיר אָדער קאַרטאָן, װאָס בלײַבט פֿלאַך; ניצט מאַט פּאַפּיר צו פֿאַרמײַדן גלאַנץ, און אַ קלעמבריט אָדער אַ ניט-גליטשיקע מאַטע האַלט די זײַט שטיל. לאַמינירן העלפֿט די זײַטן דויערן."
+  - q: "קען איך דרוקן אונדזערע אַקטיװיטעטן פֿאַר אַ פֿלעגע-הײם אָדער אַ טאָג-פּראָגראַם?"
+    a: "יאָ. אַקטיװיטעטן-שטאַב איז געװילקאָמען צו דרוקן אונדזערע זײַטן פֿאַר באַװױנער און גרופּעס. בילד-ביאַנגאָ איז געמאַכט פֿאַר גרופּעס און כּולל אַן אויף-עקראַן-רופֿער װאָס מען קען װײַזן אויף אַ טעלעװיזאָר אָדער פּראָעקטאָר."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +51,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+מאָל איז די בעסטע אַקטיװיטעט אַ בלאַט פּאַפּיר און אַ פּען בײַם קיכן-טיש. דרוקן דאַרפֿן נישט קײן אָפּלאָדעװען, נישט קײן פּאַראָלן און נישט קײן עקראַן, און זיי זענען גרינג צו ברענגען צו אַ באַזוך אָדער אַ גרופּע. דאָס זײַטל דאָ באַשרײַבט די פֿרײַע דרוקבאַרע אַקטיװיטעטן אויף אונדזער זײַטל, װי מען דרוקט זיי כּדי זיי זאָלן זיך לײכט זען און האַלטן לאָזן, און עטלעכע פּשוטע היים-דרוקן װאָס משפּחות און אַקטיװיטעט-שטאַב געפֿינען נוציק.
 
-## What free printable activities do you offer?
+## װאָס פֿאַר פֿרײַע דרוקבאַרע אַקטיװיטעטן געבן מיר?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+מיר האָבן פֿיר פֿרײַע דרוקן. עפֿנט קײן פֿון די דאָזיקע שפּיל-זײַטן און ניצט דעם **דרוקן**-קנעפּל כּדי צו באַקומען אַ דרוק-פֿרײַנדלעכע װערסיע.
 
-| Printable | What it is | Good for |
+| דרוקבאַר | װאָס עס איז | פֿאַר װאָס עס איז גוט |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [װאָרט-סוך](/games/word-search/) | אַ װאָרט-סוך מיט גרױסע אותיות, װוּ די װערטער לױפֿן נאָר פֿון לינקס נאָך רעכטס און פֿון אויבן נאָך אונטן | שטילע צײַט מיט אַ פּען; אַ מענטש װאָס האָט ליב געהאַט פּאַזלען |
+| [מאָלן](/games/coloring/) | מאָל-בילדער צום דרוקן, אָדער צום מאָלן אויף אַ עקראַן | רויִק און שאַפֿעריש צײַט; יעדער שטאַדיום מיט הילף |
+| [שמועס-קאַרטלעך](/games/conversation-cards/) | בילד-קאַרטן מיט אָפֿענע, קײן-קװיז פֿראַגעס לױט טעמעס | באַזוכן, רופֿן, משפּחה-מאָלצײטן, אָנדענק-גרופּעס |
+| [בילד-ביאַנגאָ](/games/picture-bingo/) | ביאַנגאָ-קאַרטן מיט בילדער אַנשטאָט נומערן, פּלוס אַן אויף-עקראַן-רופֿער | פֿלעגע-הײמען, טאָג-פּראָגראַמען, משפּחה-צונױפֿקונפֿטן |
 
-### Large-print word search
+### די גרױסע-דרוק װאָרט-סוך
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+די [װאָרט-סוך](/games/word-search/) באַניצט גרױסע אותיות און האַלט די װערטער נאָר פֿון לינקס נאָך רעכטס און פֿון אויבן נאָך אונטן, אָן דיאַגאָנאַלן און אָן צוריקגײענדיקע װערטער. אַרבעט צוזאַמען: איינער לייענט אַ װאָרט פֿון דער ליסטע, דער צװײטער זוכט עס. װען עס װערט שװער צו געפֿינען װערטער, פּרוּװט ארומשטרײַכן דעם ערשטן בוכשטאַבן פֿון יעדן װאָרט צוזאַמען, אָדער לייענט פּשוט די װערטער-ליסטע אויף און רעדט װעגן יעדן װאָרט.
 
-### Coloring pages
+### מאָלבילדער
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[מאָלן](/games/coloring/) בילדער קענען געדרוקט װערן פֿאַר מאַרקערס אָדער קאָליר-בלײַענטשלעך, אָדער געמאָלט אויף אַ טאַבלעט דורך טאַפּן אַ קאָליר און דערנאָך אַ טייל פֿון דעם בילד. פֿאַר געדרוקטע זײַטן, גיבט דיקע מאַרקערס און אַ פּאָר קאָלירן אויף אַ מאָל. זעט אונדזער [קונסט-און-האַנטװערק-װעגװײַזער](/activities/arts-and-crafts/) פֿאַר װעגן האַלטן מאָלן דערװאַקסן און רויִק.
 
-### Conversation cards
+### שמועס-קאַרטלעך
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[שמועס-קאַרטלעך](/games/conversation-cards/) פּאָרן אַ קלאָר בילד מיט אַן אָפֿענער פּראָמפּט, װי „דערצײלט מיר װעגן...“ אָדער „װאָס באַמערקט איר?“ זײ זענען געשריבן אַלס אָפֿענע איינלאַדונגען, נישט קװיז-פֿראַגעס. דרוקט אַ סעט, שניידט זײ אָפּ, און האַלט אַ פּאָר אין אַ טאַש פֿאַר באַזוכן אָדער ביים טעלעפֿאָן פֿאַר רופֿן. זײ אַרבעטן אויך גוט אין [אָנדענק](/activities/reminiscence/)-גרופּעס.
 
-### Picture bingo cards
+### בילד-ביאַנגאָ-קאַרטן
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[בילד-ביאַנגאָ](/games/picture-bingo/)-קאַרטן ניצן בילדער אַנשטאָט נומערן. דרוקט איין קאַרט פֿאַר יעדן שפּילער און ניצט דעם אויף-עקראַן-רופֿער אויף אַ לאַפּטאָפּ, TV אָדער פּראָעקטאָר. מיר רעקאָמענדירן צו רופֿן ביז יעדערס קאַרט איז פֿול, כּדי קײנער זאָל נישט בלײַבן אויסן. זעט [גרופּע-אַקטיװיטעטן פֿאַר פֿלעגע-הײמען](/activities/care-home-groups/) פֿאַר װי צו פֿירן אַ סעסיע.
 
-## How do I print activities so they are easy to use?
+## װי דרוקט מען אַקטיװיטעטן כּדי זײ זאָלן זײַן גרינג צו ניצן?
 
-Small changes in how you print make a big difference.
+קליינע ענדערונגען אין װי איר דרוקט מאַכן אַ גרױסן חילוק.
 
-### Make it easy to see
+### מאַכט עס גרינג צו זען
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **גרױסע, פּשוטע אותיות.** ניצט די גרעסטע דרוק-גרייס װאָס פּאַסט נאָך אױפֿן בלאַט. מײַדט פֿאַנטאַזיע- אָדער שרײַב-שריפֿטן.
+- **שטאַרקער קאָנטראַסט.** טונקעלע טינטע אויף װײַס אָדער קרעם-פּאַפּיר. מײַדט בלאַס-גרױע אָדער פֿאַרביקע הינטערגרונטן.
+- **מאַט פּאַפּיר** פֿאַרמינדערט גלאַנץ אונטער העלע לאַמפּן.
+- **קוקט אויף ברילן און ליכט.** די Alzheimer's Association באַמערקט אַז פּראָבלעמען מיט זען און געהער קענען מאַכן שמועס שװערער, און רעקאָמענדירט צו קאָנטראָלירן זײ רעגולער. אַ העל, גלײַכמעסיק לאַמפּ העלפֿט אויך.
 
-### Make it easy to hold
+### מאַכט עס גרינג צו האַלטן
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **שװער פּאַפּיר אָדער קאַרטאָן** בלײַבט פֿלאַך, איז גרינגער צו נעמען, און האַלט אויס װידערהאָלטע נוצן.
+- **אַ קלעמבריט** אָדער אַ ניט-גליטשיקע מאַטע האַלט דעם בלאַט פֿון שליסן.
+- **דיקע מאַרקערס אָדער דיקע בלײַענטשלעך** זענען גרינגער צו האַלטן װי דינע פּענער.
 
-### Make it reusable
+### מאַכט עס װידער-נוצבאַר
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **לאַמינירט זײַטן** אָדער שטעלט זײ אין קלאָרע שיץ-הילזן. ניצט װישבאַרע מאַרקערס אויף װאָרט-סוכן און ביאַנגאָ-קאַרטן, און װישט דעם נאָך אָפּ.
+- **קלײבט מאַטע טאַשן** אויב גלאַנץ איז אַ פּראָבלעם, און **ראַנדט די װינקלען** פֿון לאַמינירטע קאַרטן מיט שערן, כּדי זײ זאָלן זײַן באַקװעם צו האַנדלען.
+- **האַלט אַ מאַפּע** פֿון פֿאַװוּריטן, כּדי איר זאָלט נישט דרוקן דעם זעלבן בלאַט יעדע װאָך.
 
-### Keep it simple
+### מאַכט עס פּשוט
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **איין אַרבעט אויף אַ בלאַט.** אַ איינציקע װאָרט-סוך אָדער אַ איינציק בילד, נישט עטלעכע אַקטיװיטעטן צוזאַמענגעדרײט.
+- **פֿיל װײַסער פּלאַץ.** אַ פֿולער בלאַט קען מאַכן אַ געפֿיל פֿון איבערװעלטיקונג.
+- **קײן אָנװײזונגען צו לייענען, װוּ מעגלעך.** װײַזט דעם מענטש װאָס צו טאָן אַנשטאָט.
+- **שניידט די בלעטער קלענער.** אויב אַ גאַנצע זײַט איז צו פֿיל, שניידט איר איבער, אָדער פֿאַלדט עס אַזױ אַז נאָר אַ טײל זעט זיך.
 
-## Other useful printables you can make at home
+## אַנדערע נוצלעכע דרוקן װאָס איר קענט מאַכן אין שטוב
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+ניט יעדער נוצלעכער דרוק איז אַ שפּיל. די זענען לײַכט צו מאַכן מיט אַ װאָרט-פּראָצעסאָר און אַ דרוקער.
 
-### A life-story page
+### אַ לעבנס-געשיכטע-זײַט
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+אַ איין-זײַטיקער „װעגן מיר“-בלאַט מיט אַ פֿאָטאָ, דעם נאָמען װאָס דער מענטש האָט ליב צו געהײסן װערן, װוּ ער איז אױפֿגעװאַקסן, זײַן אַרבעט, משפּחה, ליב-געהאַטע עסן, מוזיק, און זאַכן װאָס טרייסטן אָדער שטערן אים. Dementia Australia רעקאָמענדירט אַ [זיכרון-בוך](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) מיט פּרטים װעגן דעם מענטשנס לעבן, ליבשאַפֿטן און װיכטיקע מענטשן, צו העלפֿן באַזוכערס און זאָרגער און צו אָנרופֿן שמועס.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+עס איז ספּעציעל נוציק אין שפּיטאָלן און נײַע זאָרג-סעטינגס. די NIA רעקאָמענדירט צו געבן שפּיטאַל-פּערסאָנאַל אַ [פּערזענלעכע אינפֿאָרמאַציע-זײַט](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) װאָס דעקט דעם מענטשנס רוטין, זײַן ליבן נאָמען, לײַכטן און פֿאַרדרוסן, מעגלעכע טריגערס, און נישט-װערבאַלע צײכנס פֿון װײטיק.
 
-### A daily schedule
+### אַ טאָגלעכער פּלאַן
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+אַ גרױס, פּשוט פּלאַן פֿאַר דעם טאָג מיט צײטן, אַ פּאָר װערטער און אַ קלײן בילד פֿאַר יעדן טײל: פֿרישטיק, שפּאַציר, מיטאָג, רו, מוזיק, אָװנט-עסן. לױט דער Alzheimer's Association רעקאָמענדירט [דער טעגלעכער זאָרג-פּלאַן](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) צו פּלאַנען לױט דעם מענטשנס בעסטע צײטן פֿון טאָג, מיט רעגולערע אױפֿשטיין- און שלאָפֿן-צײטן און אַ באַלאַנס צװישן אַקטיװיטעט און רו. הענגט עס אױף דער הײך פֿון די אױגן, אַזױ װי אױף דעם קילשאַפֿ, און האַלט עס פֿלעקסיבל. זעט אונדזער [טאָגלעכע רוטין-װעגװײַזער](/activities/daily-routine/) פֿאַר מער.
 
-### Picture labels for rooms and drawers
+### בילד-שילדלעך פֿאַר צימערן און שופֿלאָדן
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+די NIA רעקאָמענדירט גרעל-פֿאַרבענע שילדער אָדער פּשוטע בילדער צו [באַצײכענען דאָס בעד-צימער, שלאָפֿצימער און קיך](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). דער זעלבער געדאַנק װירקט אויך פֿאַר שופֿלאָדן און שאַפֿן: אַ בילד פֿון סאָקן אויף דער סאָקן-שופֿלאָד, טעפּ אויף דעם טעפּ-שאַפֿ. דרוקט, לאַמינירט און קלעפּט זײ אָן.
 
-### A sorting set
+### אַ סאָרטירן-סעט
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+דרוקט בילדער פֿון צװײ פּשוטע קאַטעגאָריעס, װי פֿרוכטן און בלומען אָדער געצײַג און קיך-זאַכן, אויף קאַרטאָן. שניידט זײ אָפּ און סאָרטירט זײ אין צװײ קערבלעך צוזאַמען. די אויף-עקראַן װערסיע פֿון דעם איז [סאָרט צוזאַמען](/games/sort-together/).
 
-### Song lyric sheets
+### ליד-װערטער-בלעטער
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+דרוקט די װערטער פֿון עטלעכע ליב-געהאַטע לידער אין זייער גרױסער דרוק פֿאַר אַ זינג-צונױפֿקונפֿט. אַפֿילו מענטשן װאָס לייענען שוין נישט פֿיל קענען נאָך פֿרײען זיך מיט דעם, װאָס זיי האַלטן דאָס בלאַט.
 
-### A family photo page
+### אַ משפּחה-פֿאָטאָ-זײַט
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+אַ איינציקע זײַט מיט פֿיר ביז זעקס גרױסע משפּחה-פֿאָטאָס, יעדעס מיט אַ פֿאָרנאָמען אונטן. עס קען שטיין אױפֿן טיש פֿאַר יעדן צו נעמען און רעדן װעגן. עטיקעטן העלפֿן באַזוכערס און שטאַב זיך אײַנשליסן אין שמועס, און קײנער דאַרף נישט פֿרעגן „װער איז דאָס?“
 
-### A recipe card
+### אַ רעצעפּט-קאַרטע
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+דרוקט אַ ליב-געהאַט משפּחה-רעצעפּט אין גרױסער דרוק. ניצט עס צו קאָכן צוזאַמען, אָדער נאָר צו רעדן װעגן מאָלצײטן פֿון דער פֿאַרגאַנגענהײט.
 
-## How do I offer a printable without it feeling like homework?
+## װי קען מען אָנביטן אַ דרוק אָן װאָס ער װעט נישט װירקן װי הױמװאָרק?
 
-Present it as something to share, not a test.
+שטעלט עס פֿאָר װי עפּעס צו טיילן, נישט װי אַ טעסט.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **זעצט זיך אַראָפּ און הײבט עס אָן אײַך אַליין.** „איך מאַך דעם װאָרט-סוך. װילסטו העלפֿן מיר געפֿינען ‚גאָרטן‘?“
+- **אַרבעט צוזאַמען.** נעמט טורן, אָדער איינער געפֿינט און דער צװײטער ארומשטרײַכט.
+- **קײנמאָל נישט מאַרקירן ריכטיק אָדער פֿאַלש.** די גיידלײן פֿון דער Alzheimer's Association װעגן [אַקטיװיטעטן אין שטוב](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) רעקאָמענדירט צו פֿאָקוסירן אויף דעם פּראָצעס, נישט אויפֿן רעזולטאַט, און אויף פֿרײד נישט דערגרייכונג.
+- **לאָזט זײַטן אַרום.** דער זעלבער גיידלײן רעקאָמענדירט צו שטעלן סקראַפּבוכן, פֿאָטאָ-אַלבומען אָדער אַלטע זשורנאַלן אויף לייכט-דערגרייכבאַרע ערטער. געדרוקטע קאַרטן און פֿאָטאָ-זײַטן קענען זיצן אויף אַ זײַטיקן טיש אויף דער זעלביקער אופֿן.
+- **הערט אויף װען איר װילט.** אַ האַלבע מאָל-זײַט איז אַ גוטער נאָכמיטאָג. אַזױ אױך איז עס גוט צו לייגן אַװעק דאָס בלאַט און טרינקען אַ גלאָז טיי.
 
-## Where to find more
+## װוּ צו געפֿינען מער
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+קוקט אַרום אין אונדזערע [שפּילן און דרוקן](/games/), אָדער זעט [אַקטיװיטעטן פֿאַר יעדן שטאַדיום](/activities/ideas/) פֿאַר מער אידייען, מיט און אָן פּאַפּיר.

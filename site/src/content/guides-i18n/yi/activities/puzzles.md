@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "פּאַזלען פֿאַר מענטשן מיט דעמענץ: דזשיגסאָ, װערטער און פּשוטע אָנליין-פּאַזלען"
+seoTitle: "פּאַזלען פֿאַר דעמענץ: דזשיגסאָ און װאָרט-פּאַזלען"
+description: "װי מען קלײבט דזשיגסאָ, װאָרט- און אָנליין-פּאַזלען פֿאַר אַ מענטש מיט דעמענץ: שטיקלעך-גרײס, בילדער, גרױסע דרוק און װאַן צו פֿאַרענדיקן."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  דער בעסטער פּאַזל פֿאַר אַ מענטש מיט דעמענץ איז איינער װאָס ער קען פֿאַרענדיקן מיט
+  אַ ביסל הילף און האָט פֿרײד בײַם װעג. קלײבט דזשיגסאָס מיט װייניקער, גרעסערע שטיקלעך
+  און אַ קלאָר דערװאַקסענע בילד, האַלט דעם קעסטל-דעקל אין זיכט, און זאָרגט פֿאַר די
+  ראַנד-שטיקלעך צוערשט. װאָרט-סוכן און קראָסװאָרדס אַרבעטן בעסט אין גרױסער דרוק.
+  פּשוטע אָנליין-פּאַזלען מיט פֿיר שטיקלעך פּאַסן פֿאַר די מיטלערע סטאַדיום. הערט
+  אױף װען עס איז נאָך שפּאַס.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "קלײבט לױט װי דער פּאַזל איז געגאַנגען, נישט לױט אַ סטאַדיום-שילד: װען אַ פּאַזל פֿילט זיך װי אַרבעט, פּרוּװט איינעם מיט װייניקער שטיקלעך."
+  - "גרױסע, שטאַרקע שטיקלעך און אַ קלאָר בילד מיט באַזונדערע קאָליר-געביטן זענען גרינגער װי קלײנע שטיקלעך און גרױסע הימלען."
+  - "דערװאַקסענע טעמעס צײלן. גאַרטנס, קיכנס, אַלטע אויטאָס און פֿאַרם-חיות, נישט קאַרטונען."
+  - "צונױפֿ צו טאָן איז דער פּונקט. גיבט אַרױס שטיקלעך, סאָרטירט די ראַנד, לאָזט דעם קעסטל-דעקל אין זיכט."
+  - "גרױסע-דרוק װאָרט-סוכן און פּשוטע אָנליין-פּאַזלען מיט 4 אָדער 9 שטיקלעך זענען פֿרײ אויף דעם זײַטל."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "װי פֿיל פּאַזל-שטיקלעך זענען בעסט פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "עס איז נישטאָ קײן איינציקע רעכטע צאָל. אַ מענטש װאָס האָט געמאַכט 1,000-שטיקלעך פּאַזלען קען נאָך פֿרײען זיך מיט עטלעכע הונדערט אין אָנהײב, בשעת אַנדערע האָבן בעסטן מיט אַ דוצענט אָדער אַזוי גרױסע שטיקלעך. װען אַ פּאַזל פֿילט זיך װי אַרבעט, גײט צו װייניקער שטיקלעך. אונזער אָנליין בילד-פּאַזל האָט 4 אָדער 9 שטיקלעך."
+  - q: "זענען דזשיגסאָ-פּאַזלען גוט פֿאַר מענטשן מיט דעמענץ?"
+    a: "פֿיל מענטשן האָבן פֿרײד פֿון זיי, בפֿרט די װאָס האָבן פֿריער געמאַכט פּאַזלען. אַ פּאַזל גיט די הענט עפּעס צו טאָן, אַ קלאָר ציל און אַ בילד צו רעדן װעגן. קײן פּאַזל איז נישט באַװיזן צו באַהאַנדלען אָדער אָפּצוברעמזן דעמענץ; קלײבט זײ פֿאַר פֿאַרגעניגן און חבֿרותא."
+  - q: "װאָס קען איך טאָן װען אַ מענטש קען נישט מער אַלײן מאַכן אַ דזשיגסאָ?"
+    a: "מאַכט עס קלײנער און טוט מער פֿון אײַך אַליין: גיבט אַרײַן איין שטיקל אין אַ מאָל, אָדער לאָזט נאָר די לעצטע עטלעכע שטיקלעך פֿאַר אים. פּרוּװט אַ 4-שטיקלעך אָנליין פּאַזל, סאָרטירט שטיקלעך לױט קאָליר, אָדער קוקט צוזאַמען אויף דעם פֿאַרטיקן בילד."
+  - q: "זענען קראָסװאָרדס און װאָרט-סוכן פּאַסיק פֿאַר דעמענץ?"
+    a: "זײ קענען זײַן אין דער פֿרי-סטאַדיום, אין גרױסער דרוק. װאָרט-סוכן מיט װערטער נאָר פֿון לינקס נאָך רעכטס און פֿון אויבן נאָך אונטן זענען גרינגער װי יענע מיט דיאַגאָנאַלע אָדער צוריקגײענדיקע װערטער. לייענט די רמזים אָדער די װערטער-ליסטע אויף און אַרבעט צוזאַמען."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+דער דאָזיקער זײַטל דעקט אָן װי מען קלײבט און גרײט דזשיגסאָס, װאָרט-פּאַזלען און פּשוטע אָנליין-פּאַזלען, און װאָס צו טאָן װען זײ װערן שװער.
 
-## Are puzzles good for people with dementia?
+## צי זענען פּאַזלען גוט פֿאַר מענטשן מיט דעמענץ?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+פֿיל מענטשן האָבן פֿרײד פֿון זײ, בפֿרט די װאָס האָבן פֿריער געמאַכט פּאַזלען. די [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ציילט װאָרט-זוכן, קאַרטן-שפּילן און ברעט-שפּילן צװישן די אַקטיװיטעטן פֿאַר דער פֿרי-סטאַדיום, און דער [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) דערמאָנט אָנליין-שפּילן און פּאַזלען אויף טאַבלעטן אַלס איין װעג צו בלײַבן פֿאַרנומען.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+פּאַזלען זענען נישט קײן באַהאַנדלונג. קײן פּאַזל איז נישט באַװיזן צו פֿאַרלאַנגזאַמען אָדער אָפּשטעלן דעמענץ; אונזער גיד װעגן [מוח-שפּילן](/brain-health/brain-games/) דערקלערט די פֿאָרשונג. די סיבה צו מאַכן אַ פּאַזל איז, װאָס עס קען זײַן אַ פֿרײַנדלעכע, אָנגענעמע שעה צוזאַמען. די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) פֿאַסט עס צונױף: פֿאָקוס אױף פֿרײד, נישט אױף דערגרײכונג.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## װי קלײבט מען אַ דזשיגסאָ-פּאַזל פֿאַר אַ מענטש מיט דעמענץ?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+קלײבט לױט װאָס דער מענטש האָט ליב און װי דער לעצטער פּאַזל איז געגאַנגען, נישט לױט אַ סטאַדיום-שילד.
 
-### Number of pieces
+### צאָל פֿון שטיקלעך
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+עס איז נישטאָ קײן ריכטיקע צאָל. אַ לעבנסלאַנגער פּאַזלער קען נאָך פֿרײען זיך מיט עטלעכע הונדערט אין אָנהײב, בשעת אַן אַנדערער איז צופֿרידן מיט אַ דוצענט. אַ פּראַקטישער כּלל: אויב דער לעצטער פּאַזל האָט זיך געפֿילט װי אַרבעט, קלײבט איינעם מיט װעגן האַלב אַזױ פֿיל שטיקלעך. אויב ער איז געװען גיך פֿאַרענדיקט געװאָרן און זײ האָבן װילט מער, גײט אַ ביסל הינאױף.
 
-### Piece size and feel
+### שטיקלעך-גרײס און געפֿיל
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **גרעסערע שטיקלעך** זענען גרינגער צו זען, אױפֿצונעמען און דרײען.
+- **דיקע, פֿעסטע שטיקלעך** בלײַבן אױף אָרט און איבערלעבן פֿאַלן.
+- **אַ מאַט-פֿיניש** פֿאַרמינדערט גלאַנץ אונטער לאַמפּן און פֿענצטער.
+- **מײַדט קלײנע שטיקלעך,** אױב דער מענטש קען זײ אַרײַנשטעקן אין מױל, װאָס קען פּאַסירן שפּעטער אין דעמענץ.
 
-### The picture
+### דאָס בילד
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **דערװאַקסענע טעמעס.** גאַרטנס, קיכנס, אַלטע אױטאָס, פֿאַרם-חיות, אַ ים-שטעטל. נישט קאַרטונען אָדער עפּעס װאָס זעט זיך װי אַ קינדער-שפּילזאַך.
+- **באַזונדערע קאָליר-געביטן.** אַ רױטע שײַער, אַ בלאָע בױט און אַ גרינע װיז זענען גרינגער װי אַ הימל װאָס נעמט האַלב דעם פּאַזל.
+- **באַקאַנט און פּערזענלעך.** אַ בילד פֿון אַ פּלאַץ װוּ דער מענטש האָט געלעבט, אָדער אַ האָביע װאָס ער האָט ליב געהאַט, גיט אײַך פֿיל צו רעדן װעגן. עטלעכע דרוק-געשעפֿטן קענען אַ משפּחה-פֿאָטאָ פֿאַרװאַנדלען אין אַ דזשיגסאָ.
 
-## How do you do a puzzle together?
+## װי מאַכט מען אַ פּאַזל צוזאַמען?
 
-Set it up so the person can get straight to the enjoyable part.
+שטעלט עס אָפּ אַזױ אַז דער מענטש קען גלײַך אַרײַן צום פֿרײלעכן טײל.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **קלײבט אַ גוטן אָרט.** גוטע ליכט, אַ שטול מיט אַרעמלעך, און אַ טיש אָדער אַ טאַבלעט װוּ דער פּאַזל קען בלײַבן אָפֿן.
+2. **שטעלט דעם קעסטל-דעקל אויף** װוּ איר ביידע קענט עס זען.
+3. **דרײט די שטיקלעך מיט דער פֿאָרדערער זײט אויפֿװערטס** איידער איר הײבט אָן.
+4. **סאָרטירט די ראַנד אַליין,** אָדער טוט דעם ראַנד ערשט און לאָזט די מיטע פֿאַר אים.
+5. **גרופּירט שטיקלעך לױט קאָליר** אין עטלעכע פּלאַכע טעפּ אָדער טעלער.
+6. **גיט איין שטיקל אין אַ מאָל,** אויב דער הױף איז איבערװעלטיקנד. „איך טראַכט אַז דאָס איז אַ טייל פֿון דער שײַער.“
+7. **רעדט װעגן דעם בילד,** נישט װעגן דעם פּראָגרעס. „דאָס זעט אויס װי דער שיפֿ װאָס מײַן פֿאָטער האָט געהאַט.“
+8. **לאָזט עס אָפֿן.** קערט צוריק צו עס איבער עטלעכע טעג. עס איז נישטאָ קײן אײַל.
+9. **הערט אױף מיט אַ גוטן טאָן,** נאָך אַ שטיקל װאָס איז אַרײַן, בשעת עס פֿילט זיך נאָך אָנגענעם.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) רעקאָמענדירט צו העלפֿן דעם מענטש צו הײבן, קוקן אויף פֿרוסטראַציע, און לאָזן אים בלױז צוקוקן, אויב ער האָט דאָס מער ליב. אײַער אַרײַנגעבן שטיקלעך און אַנװײַזן װוּ איינס קען גײן, איז נאָך אַ טייל פֿון דער אַקטיװיטעט.
 
-## Easy online puzzles
+## פּשוטע אָנליין-פּאַזלען
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+אַ טאַבלעט-פּאַזל האָט עטלעכע פֿאַרטיילן: קײן פֿאַרלױרענע שטיקלעך, גרױסע בילדער װאָס פֿילן דעם עקראַן, און קײן טיש צו אױסצוקלערן.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+אונזער פֿרײער [בילד-פּאַזל](/games/picture-puzzle/) שניידט אַ בילד אין 4 אָדער 9 שטיקלעך. טאַפּט צװײ שטיקלעך צו טוישן זײ ביז דאָס בילד איז גאַנץ. דאָס פֿולע בילד בלײַבט אויפֿן עקראַן ווי אַ פֿירער, עס איז קײן טײמער, און איר קענט אויפֿהערן אין יעדן פּונקט. פֿיר שטיקלעך פּאַסט פֿאַר פֿיל מענטשן אין דער מיטלערער פֿאַזע מיט עמעצן נעבן זיך.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+פֿאַר נאָך פּשוטערע בילד-שפּיל, פּרוּװט [געפֿינען דעם זעלבן](/games/find-the-same/), װוּ איר טאַפּט דאָס בילד װאָס פּאַסט צו איינעם אויבן, אָדער [סאָרט צוזאַמען](/games/sort-together/), װוּ בילדער גייען אין קערבלעך װי די קיך אָדער דער גאָרטן.
 
-## Word puzzles: word searches and crosswords
+## װאָרט-פּאַזלען: װאָרט-סוכן און קראָסװאָרדס
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+װאָרט-פּאַזלען פּאַסן פֿאַר מענטשן װאָס האָבן זײ שטענדיק ליב געהאַט, געװײנטלעך פֿריער אין דעמענץ.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **גרױסער-דרוק װאָרט-סוך.** אונזער פֿרײע [װאָרט-סוך](/games/word-search/) באַניצט גרױסע אותיות און נאָר אַ ביסל װערטער, לױפֿנדיק נאָר פֿון לינקס נאָך רעכטס און פֿון אויבן נאָך אונטן, קײנמאָל נישט דיאַגאָנאַל און נישט צוריק. שפּילט אויף עקראַן אָדער דרוקט עס.
+- **לייענט די ליסטע אויף.** איינער לייענט אַ װאָרט, דער צװײטער זוכט עס. נאָר דעם ערשטן בוכשטאַבן אַרומצושטרײכן איז גוט.
+- **גרױסער-דרוק קראָסװאָרדס** פֿון פּאַזל-ביכער קענען אַרבעטן פֿרי. לייענט די רמזים אויף, טיילט דעם פּען, און פֿילט די ענטפֿערס צוזאַמען אויס. גרינגע, טעמאַטישע קראָסװאָרדס זענען בעסער װי קריפּטישע.
+- **רעדט װעגן די װערטער.** „גאָרטן“ קען פֿירן צו צען מינוט װעגן טאָמאַטן.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+פֿאַר מער פּאַפּיר-אַקטיװיטעטן און װי צו דרוקן זײ, אַזױ אַז מען זעט און האַלט זײ גוט, זעט [פֿרײע דרוקבאַרע דעמענץ-אַקטיװיטעטן](/activities/printable/).
 
-## Which puzzles suit each stage?
+## װאָס פּאַסט פּאַזלען פֿאַר יעדן סטאַדיום?
 
-Stages overlap, and good and hard days are normal.
+די סטאַדיעס לאָפּן איבער, און גוטע און שװערע טעג זענען נאָרמאַל.
 
-| Stage | Puzzles that often fit | Your role |
+| סטאַדיום | פּאַזלען װאָס פּאַסן אָפֿט | אײַער ראָלע |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| פֿרי | באַקאַנטע דזשיגסאָס מיט װייניקער שטיקלעך װי פֿריער, גרױסע-דרוק קראָסװאָרדס און װאָרט-סוכן, 9-שטיקלעך אָנליין-פּאַזלען | שותף: לאָזט זײ קלײבן, העלפֿט אויף בקשה |
+| מיטל | דזשיגסאָס מיט װעגן אַ דוצענט גרױסע שטיקלעך, 4-שטיקלעך אָנליין-פּאַזלען, װאָרט-סוך װאָס מען לייענט צוזאַמען | אײַנשטעלן, סאָרטירן שטיקלעך, אײַנגעבן איינס נאָך דעם אַנדערן |
+| שפּעט | צוזאַמען קוקן אויף אַ פֿאַרטיק בילד, געפֿינען דעם זעלבן מיט צװײ בילדער, אַ פּאָר גרױסע שטיקלעך האַנדלען | ברענגט עס צו אים; אײער חבֿרותא איז די אַקטיװיטעט |
 
-## When should you make a puzzle easier, or stop?
+## װאָס זאָל מען מאַכן עס גרינגער, אָדער אױפֿהערן?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+קוקט אויף זיפֿן, װאָרפֿן די שטיקלעך אַװעק, איבערחזרנדיקע „איך קען נישט“ אָדער באַזאָרגטע בליקן. דאָס זענען צײכנס צו ענדערן עפּעס, נישט צו דרײען.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **מאַכט עס קלענער.** װייניקער שטיקלעך, אָדער לאָזט נאָר די לעצטע עטלעכע פֿאַר אים.
+- **טוט מער פֿון עס אַליין,** און לאָדט אים אײַן צו העלפֿן מיט די גרינגע טיילן.
+- **גײט צו עפּעס נאָענטס:** סאָרטירן שטיקלעך לױט קאָליר, אַ 4-שטיקלעך אָנליין-פּאַזל, אָדער [מאָלן](/games/coloring/).
+- **הערט אױף.** לייגט עס אַװעק און טרינקט אַ גלאָז טיי. איר קענט זיך צוריקקערן אַ צװײטן טאָג, אָדער גאָרנישט מער.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+אויב פּאַזלען הײבן אָן װערן אַ דערמאָנונג פֿון װאָס איז שװער, איז עס גוט צו לאָזן זײ גײן. עס זענען פֿיל אַנדערע װעגן צו פֿאַרברענגען אַ גוטע צײַט צוזאַמען; אונזער [101 אַקטיװיטעט-אידייען](/activities/ideas/) איז אַ גוטער אָרט צו קוקן.
