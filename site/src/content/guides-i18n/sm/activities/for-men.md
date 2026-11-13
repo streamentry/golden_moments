@@ -1,32 +1,28 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Galuega mo Tane ma le Dementia"
+seoTitle: "Galuega mo Tane ma le Dementia: Manatu o le Olaga Moni"
+description: "Manatu galuega mo tane ma le dementia, faavae i galuega anamua, faiga ma masani nai lo faʻataʻitaʻiga, ma auala e faigofie ai ona faia ogaoga."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  O galuega sili mo se tane ma le dementia e sau mai lona lava olaga: galuega na ia faia, faiga na ia fiafia ai ma faiga masani na ia tumau ai. O se tagata na galue i ofisa e mafai ona fiafia i le faavasegaina o pepa, o se tagata faasaʻo taavale e mafai ona fiafia i mea mama o meafaigaluega, o se tagata fiafia i sipoti e mafai ona fiafia i se taʻaloga anamua. E eseese manaʻo o tane, o lea la amata mai le tagata, e le o lona ituaiga.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Amata mai le olaga o lenei tane: lana galuega, faiga na ia fiafia ai, aiga masani ma mea na ia lagona ai le manuia."
+  - "Galuega e i ai se mafuaaga moni, e pei o le faavasegaina o uʻamea, le faamamā o taavale poʻo le faamaeaina o laau, e masani ona fiafia i ai nai lo gaioiga e pei o se aʻoaʻoga."
+  - "E le o tane uma e fiafia i meafaigaluega poʻo sipoti. Toatele e fiafia i le kuka, faatoʻaga, musika, faia ata poʻo le tausia o isi. Fesili, matamata ma mulimuli i lona taʻiala."
+  - "Faaaogā galuega fai meafaigaluega e saogalemu ma aveese mea tuʻia ma taʻitaʻia, ma faigofieina pe a suia le malosi."
+  - "E aoga le fai mai le leai. Ofo se galuega, e le o se tofi, ma taumafai i le isi aso."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "O ā gaioiga e fiafia ai tane ma le dementia?"
+    a: "E leai se lisi e tasi, aua o manaʻo o tane e eseese e pei o tagata uma. O amataga lelei o galuega e fesootai ma lana galuega anamua, e pei o le faavasegaina o pepa poʻo laau, ma taʻaloga na ia fiafia ai, e pei o le faiʻa, taavale, musika, kuka poʻo sipoti. Matamata i le mea e faia e ia lava ma faia i luga o lena."
+  - q: "Ua teena e lo'u tama vaega galuega. O le ā se mea e mafai ona ou faia?"
+    a: "E toatele tagata, tane ma tamaʻitaʻi, e teena gaioiga e pei o se aʻoaʻoga poʻo e foliga ai o le tamaiti. Taumafai ofo se galuega nai lo se vaega: “E mafai ea ona e fesoasoani e faavasegaina nei?” Vaega laʻiti poʻo le taimi e tasi ma oe e mafai foi ona sili ona lelei."
+  - q: "E saogalemu ea le faaaogaina o meafaigaluega e tane?"
+    a: "Naʻo le mataʻituina ma meafaigaluega saogalemu. Aveese meafaigaluega malosi, pelu ma mea e aʻa, ma ofo galuega e pei o le faamamā o se laʻau, le faavasegaina o mea uʻamea laʻiti i lima, poʻo le mafiafia o mea uʻamea tetele i lima. O le Alzheimer's Association fautua aveese mea lamatia mai le faletaulaga ina ia mafai ona fiafia ma saogalemu se galuega e pei o le faamamā o laau."
+  - q: "O ia o se tagata faapoto i lona galuega. E mafai ea ona lagona faʻalumaina galuega faigofie?"
+    a: "E mafai pe a faʻaalia o galuega e pei o se mea le aoga. Faʻaalia le galuega o se fesoasoani moni, faaaogā mea matua, ma filifili se mea e latalata i lona tulaga muamua, e pei o le iloiloina o se lisi, faatulaga se faila poʻo fesoasoani i le faʻapipiʻi o se faʻasologa tusi. Afai na ia poto tele i se mea, se gaioiga e fesootai ae eseese e mafai ona lelei nai lo se faatusatusaga."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +41,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+E masani ona saʻili tagata "galuega mo tane ma le dementia" aʻo le mafai e manaʻoga masani ona fetaui ma le tane o loo i ai i lo latou olaga. O lea o se popolega tatau. Ae o le tali e le o se lisi o galuega "mo tane". E amata i lenei tagata patino: o le mea na ia faia mo le ola, o mea na ia fiafia ai i ona aso faaiʻuga ma mea na ia lagona ai e aoga. E eseese manaʻoga o tagata uma. E toatele tane e fiafia i le kuka, faatoʻaga, faia ata poʻo pese, ma e toatele tamaʻitaʻi e fiafia i taavale ma sipoti.
 
-## How do I find activities he will actually enjoy?
+## E faapefea ona ou iloa galuega e fiafia ai o ia?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Amata i lona tala o le olaga. O le Alzheimer's Association fautua faia se [fuafuaga o aso](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) faavae i manaʻoga, mea e le fiafia i ai, malosi ma le auala na ia faatonu ai lona aso. Fesili ia te oe lava:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **O le ā lana galuega?** Ofisa, faatoʻaga, falegaʻa, faiga, auaunaga, aʻoaʻoga, taʻavale, le fale?
+- **O le ā na ia faia i ona taimi faafiafia?** Faiva, taʻaloga pepa, faatoʻaga laau, sipoti, ekalesia, musika, kuka, taavale i le faletaʻavale?
+- **O ā ana masani?** Kofe ma le nusipepa i taeao uma? Siaki le tau? Faamamā le taavale i le faaiʻuga o le vaiaso?
+- **O le ā e faia e ia lava pe a le fesiliina?** E masani ona taʻu mai e le Alzheimer's Association pe a amata tagata galuega e aunoa ma le fesiliina, e pei o le fufulu o le fale, o galuega ia e mafai ona avea ma se vaega o le masani.
+- **O le ā e teena?** E toatele tagata e fiafia i le matamata i sipoti; o isi e le fiafia i le saoasaoa ma le faalavelave. Vaai pe a fiafia o ia, pe a popole poʻo le ita.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Talanoa foi ma aiga ma uo anamua. E mafai ona latou manatua fiafia ua faaleaogaina mai le olaga o aso uma.
 
-## Activity ideas based on past work
+## Galuega faavae i galuega anamua
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+O le Alzheimer's Association faaʻoa se faataʻitaʻiga manino: o se tagata na galue i ofisa e mafai ona fiafia i le faatulaga o galuega, e pei o le faʻatuina o tupe i se pusa, le fesoasoani i le faapipiʻi o se faasologa tusi poʻo le faia o se lisi o galuega, ae o se tagata faafanua poʻo tagata faatoʻaga e mafai ona fiafia i le galue i le lalo. O le manatu lava lea e aoga i le tele o galuega.
 
-| Past work | Activity ideas | Simpler version |
+| Galuega anamua | Manatu o gaioiga | Faʻafaigofie |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Ofisa poʻo pisinisi | Faavasegaina pepa i fogafale, faʻamaʻi teuga, iloilo lisi, faatulaga se pusa o oloa i le tepu | Faʻatuʻu teuga; faʻatoʻa pepa faʻapipiʻi i se pusa |
+| Galuega poʻo faiga masini | Faavasegaina mea uʻamea mama, uʻamea faamau ma tuʻi; faamau uʻamea tetele i lima; vaai i lisi o meafaigaluega | Faavasegaina e ala i le tele i ipu e lua |
+| Faafanua poʻo faatoʻaga | Faavai, faatoʻa laau i ipu, faapuʻe lau, vaai i le faatoʻaga | Nofo i fafo a o e galue; uuina fuʻa o fue |
+| Leoleo | Faamanu seevae, faatulaga se faʻaputu, vaai i ata o lana auaunaga pe a fiafia | Faalogo musika o lena vaitau |
+| Faʻatau poʻo auaunaga i tagata | Faafeiloaʻi tagata asiasi, tufatufa meaʻai laʻiti, faavasegaina koupone | Nofo i le faitoto e faafetai ai |
+| Faiaoga | Faitau leo, faatulaga tusi, faavasegaina ata e ala i autu | Vaai i se tusi ata faatasi |
+| Taʻavale poʻo felauaiga | Vaai i faʻafanua poʻo mekasini taavale anamua, faamamā le taavale | Matamata i taavale o alu i le faitoto |
+| Fale ma aiga | Faafeu lauʻie, seti le laulau, fesoasoani i le afiafi | Faʻamalulu lauga mea e fufuluina; faaliliu |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+O nisi manatu, e pei o auaunaga faigaluega, e mafai ona faʻalagona ai lagona malosi. Mulimuli i lona taʻiala, faʻamautu le talanoa i le taimi ua mavae e lelei, ma suia le mataupu malū pe a foliga ai o ia le fiafia.
 
-## Activity ideas based on hobbies
+## Galuega faavae i fiafia
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Galuega laau.** Faamamā se laupapa laau e mafiafia poʻo faapipiʻi se fale manu. O le Alzheimer's Association fautua aveese mea lamatia ma meafaigaluega mai le faletaulaga ina ia mafai ona fiafia ma saogalemu se galuega e pei o le faamamā.
+2. **Faiva.** Faavasegaina se pusa o tuʻi faiva ua aveesea ai matau, faitau mekasini o faiva, poʻo nofo faatasi i le vaitafe.
+3. **Taavale.** Faamamā taavale, faamamā uʻamea o le taavale, vaai i ata taavale anamua, poʻo malaga o se pasese.
+4. **Sipoti.** Matamata i taʻaloga anamua poʻo sipoti, lafo se pulu malū, tuʻu pulu gofu i luga o se faʻatiʻi, poʻo faavasegaina kata baseball.
+5. **Pepa taʻaloga ma taʻaloga.** Se taʻaloga pepa e masani ai, dominoes, poʻo liliu pepa e suʻe ai se fetaui. Ia malolo, ma tuʻu le faʻatau sikoa.
+6. **Musika.** Pese mai o lana tausaga talavou, se faʻaaliga fiafia, poʻo se himi. Vaai i [taʻiala o gaioiga o musika](/activities/music/) a matou.
+7. **Kuka ma tunu.** Faamamā laau, faaʻoso sosi, faaliliu paʻi, poʻo faamatala auala na ia kuka ai lona kuka mea vevela e taʻutaʻua ai i le taimi o oe kuka ai.
+8. **Nusipepa.** O le Alzheimer's Association taʻu mai o le tagata na masani ona faitau le nusipepa e mafai ona fiafia pea i le faia, e ui lava e le mafai ona mulimuli atoatoa i mea o loo i ai. Kofe ma le nusipepa e mafai ona tumau o se vaega o le taeao.
+9. **Faia.** Seti faʻataʻitaʻiga tetele poʻo seti faʻafaigofie mo matua. Filifili vaega e faigofie ona uuina.
+10. **Tausia se mea.** Fafaga le manu, faatumu le fale o manu, poʻo faavai laau. O le NIA lisi [fafagaina, tausia poʻo savali i se manu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i gaioiga e mafai ona fiafia ai tagata.
 
-## How do I offer an activity without it feeling like busywork?
+## E faapefea ona ou ofo galuega e aunoa ma le faia o se galuega faigaluega?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ofo muamua i le auala o se fesoasoani moni. O le Alzheimer's Association fautua fesili “E mafai ea ona e fesoasoani mai?” ma fesoʻotaʻi galuega i se faamoemoega. Faatusatusa:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- “E mafai ona e faavasegaina nei pola?” (e foliga ai o se suʻesuʻega)
+- “Na ou faatau se fusi mea uʻamea e tele ma ou manaʻo ia faavasegaina aʻo leʻi faatoʻa le faletaʻavale. E mafai ea ona e fesoasoani mai?” (e foliga ai o se galuega)
 
-Other tips:
+Isi fautua:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Faaaogā mea matua.** Meafaigaluega moni ma aʻa ua aveesea, ma pepa moni, faletaʻavale moni.
+- **Galue i le itu tutusa.** O tagata e lua e galue i se galuega o se paaga. O le tagata e matamata i se isi o se pulepule.
+- **Aua le toe saʻo.** Afai mea uʻamea ua tuʻu i se ipu sese, faatagaina. O le mea taua o le taimi faatasi ma le lagona o le aogā.
+- **Fesoasoani e amata.** O le Alzheimer's Association taʻu mai e tele tagata e iai pea le manaʻo e faia mea, ae faigata le faatulaga ma le amata. Faia le laasaga muamua faatasi.
 
-## How do I adapt as things change?
+## E faapefea ona fetaui pe a suia mea?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+O le dementia e faaauau pea, o le Alzheimer's Association fautua faafeiloaʻi galuega faigofie ma masani ma sauni mo le tagata e lagona le toe faʻaitiitia le gafatia. O le tane sa masani ona toe faʻaleleia afi e mafai ona fiafia i le uuina o se uiga mamā ma talanoa e uiga i taavale, poʻo le matamata i le tele o galuega. O le matamata o se vaega o le auai.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Afai na ia poto tele i se mea, o se gaioiga e fesootai e mafai ona lelei nai lo lana faiga anamua. O le Association taʻu mai o se tagata faafanua matua e mafai ona popole i suiga i lana galuega, ae o se tagata faafiafia e mafai ona fiafia i se avanoa fou e faaalia ai le lava ia. E faapea foi le tusa ma se matai faatoʻaga poto.
 
-## Safety with work-style tasks
+## Saogalemu i galuega e pei o galuega faaʻaogaina
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Aveese meafaigaluega malosi, pelu ma mea uʻamea e aʻa.
+- Faaaogā ipu ma ni nofoaga e puipuia ai vai tipi, faamalu i le gasolina ma kemikala.
+- Taofi ki o taavale pe a le toe taavale o ia.
+- Mataʻituina galuega uma o le faletaulaga ma le fanua.
+- Filifili vaega tetele e le mafai ona gutu.
 
-## What if he says no?
+## O le ā pe a teena e ia?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Faʻaaloalo i ai. O le teena e mafai ona faʻaalia ua faigata le galuega, ua faigata lava, poʻo le le sa'o i le aso. O le Alzheimer's Association fautua aua le faamalosia. Taumafai se galuega ese, se taimi ese, poʻo naʻo le nofo faatasi. Vaai i [le mea e tatau ai pe a taʻu mai e le tagata ma le dementia le leai](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Taʻaloga ma talanoa e fetaui
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) faʻaaoga faaupuga masani o Amerika ma taitai i talanoa. [Conversation Cards](/games/conversation-cards/) o loo i ai fesili tatala e leai se suʻesuʻega e autu i ai, e mafai ona faatuʻu ai tala e uiga i galuega ma fiafia. [Picture Puzzle](/games/picture-puzzle/) e tumau ai le ata atoatoa a o e fetuli vaega, ma le [Word Search](/games/word-search/) tetele e mafai ona lolomi ma faia i le laulau o le kiki ma se peni. Mo auala e talanoa ai e uiga i ona olaga anamua e aunoa ma le suʻesuʻega, vaai i [taʻiala o le toe manatuina](/activities/reminiscence/) a matou.
