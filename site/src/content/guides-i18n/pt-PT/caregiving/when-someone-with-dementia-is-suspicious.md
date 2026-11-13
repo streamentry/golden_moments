@@ -51,7 +51,7 @@ O [guia da Alzheimer's Association sobre suspeitas e delírios](https://www.alz.
 
 Responda à preocupação sem concordar com algo que não sabe ser verdade. Uma resposta curta e firme pode manter a conversa aberta. Por exemplo: «Tem receio de que a carteira tenha desaparecido. Vamos procurar juntos.» Depois, faça uma pausa e observe a reação da pessoa.
 
-- **Oiça antes de explicar.** Pergunte que objeto falta ou o que deixou a pessoa preocupada. Ela pode estar aflita por mais do que o próprio objeto.
+- **Ouça antes de explicar.** Pergunte que objeto falta ou o que deixou a pessoa preocupada. Ela pode estar aflita por mais do que o próprio objeto.
 - **Mantenha a resposta curta.** Uma defesa longa acrescenta detalhes difíceis de seguir e pode deixar as duas partes mais aflitas.
 - **Evite discutir ou fazer perguntas de teste.** Não exija que a pessoa se lembre de onde pôs um objeto nem que prove que você não o levou.
 - **Ofereça ajuda prática.** Se a pessoa quiser, procurem juntos em sítios familiares ou pergunte se prefere que outra pessoa ajude.
