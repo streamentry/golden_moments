@@ -20,7 +20,7 @@ faq:
   - q: "Ndingamnceda njani umntu onedementia ukuba anxibe?"
     a: "Linika ixesha elongezelelekileyo, mnike ukhetho oluncinci lweempahla ezimaziyo, uze ubeke izinto ngokulandelelana ekuza kunxitywa ngako. Linika isikhumbuzo esifutshane esinye ngexesha uze umvumele enze iinxalenye azifunayo."
   - q: "Kuthekani ukuba ufuna ukunxiba iimpahla ezifanayo kwakhona?"
-    a: "Musa ukumlungisa okanye ukumenza number. Ukuba uyavuma, mnike isethi ecocekileyo yesimbo asaziyo okanye iimpahla ezifanayo zento ayithandayo. Hlonipha ukhetho lwakhe xa iimpahla zinentuthuzelo kwaye zifanele imozulu."
+    a: "Musa ukumlungisa okanye ukumenza ahlazeke. Ukuba uyavuma, mnike isethi ecocekileyo yesimbo asaziyo okanye iimpahla ezifanayo zento ayithandayo. Hlonipha ukhetho lwakhe xa iimpahla zinentuthuzelo kwaye zifanele imozulu."
   - q: "Ndimele ndimnceda ukutshintsha iimpahla?"
     a: "Buza ukuba ufuna uncedo olunjani nokuba uziva ekhululekile ukuba ukufutshane. Mnike imfihlo xa ayithanda, kwaye ungamdubuleli okanye umnyanzele."
   - q: "Ndimele ndibuze nini ugqirha ngeengxaki zokunxiba?"

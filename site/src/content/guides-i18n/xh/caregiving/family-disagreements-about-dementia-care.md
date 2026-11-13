@@ -53,7 +53,7 @@ Khetha ixesha elizolileyo ngaphambi kobunzima xa kunokwenzeka. Nigqibe ngesihlok
 
 Phambi kwencoko, bhala phantsi oko ukubonileyo nento oyicingayo. Umzekelo, “Utata akazange aye kwizicelo ezimbini zokubona ugqirha kule nyanga” yinto ebonwayo ethile. “Utata akasakwazi nto” ngamazwi ajikelezayo anokungabonisi bukho bakhe okanye into ayithandayo.
 
-Linika ilungu ngalinye ithuba lokuchaza into elixhalabele ngayo. Mamela ngaphandle kokuphazamisa, ukusola okanye ukuthelekisa ukuba umntu ngamnye unegalelo elingakanani. Umntu ohlala kude unokungaziboni iimfuno zemihla ngemihla; umntu owenza uninzi lokunyamekela unokudinwa. Zozibini ezi ntlanga zinengqiqo, nokuba zikhokelela kwiimbono ezahlukeneyo.
+Nika ilungu ngalinye ithuba lokuchaza into elixhalabele ngayo. Mamela ngaphandle kokuphazamisa, ukusola okanye ukuthelekisa ukuba umntu ngamnye unegalelo elingakanani. Umntu ohlala kude unokungaziboni iimfuno zemihla ngemihla; umntu owenza uninzi lokunyamekela unokudinwa. Zozibini ezi ntlanga zinengqiqo, nokuba zikhokelela kwiimbono ezahlukeneyo.
 
 ## Yintoni esimele sixoxe ngayo entlanganisweni?
 

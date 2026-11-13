@@ -11,7 +11,7 @@ summary: >-
   izibane, ucoce iindlela zokuhamba, ugcine amayeza neemveliso zokucoca
   zikhuselekile, uze ulungelelanise amagumbi ngokwemikhuba yalo mntu. Khetha
   utshintsho olufanele umntu, olugcina iindlela zokuphuma zikhuselekile
-  nolxhasa ukuzimela.
+  nokuxhasa ukuzimela.
 keyPoints:
   - "Qala ngengxaki oyibonileyo, uze ujonge igumbi elinye ngexesha."
   - "Phucula izibane uze ucoce iindlela zemihla ngemihla ngaphambi kokongeza izixhobo ezintsonkothileyo."
