@@ -53,7 +53,7 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-«Fejn jiġi t-tabib?» Għaxar minuti wara: «Fejn jiġi t-tabib?» Li tisma' l-istess mistoqsija mill-ġdid u mill-ġdid huwa wieħed mill-aspetti l-aktar għajjenin fil-kura ta' persuna li tgħix bid-demenzja. Huwa komuni ħafna, mhux isir apposta, u hemm modi kalmi biex twieġeb li jagħmlu l-ġurnata aktar faċli għaż-żewġ naħat.
+«Fejn jiġi t-tabib?» Għaxar minuti wara: «Fejn jiġi t-tabib?» Li tisma' l-istess mistoqsija mill-ġdid u mill-ġdid huwa wieħed mill-aspetti l-aktar għajenin fil-kura ta' persuna li tgħix bid-demenzja. Huwa komuni ħafna, mhux isir apposta, u hemm modi kalmi biex twieġeb li jagħmlu l-ġurnata aktar faċli għaż-żewġ naħat.
 
 ## Għaliex persuna b'demenzja tistaqsi l-istess mistoqsija mill-ġdid u mill-ġdid?
 
@@ -65,7 +65,7 @@ Il-mistoqsija spiss iġġib ukoll sentiment magħha. L-[Alzheimer's Association]
 
 Wieġeb b'kalma u b'mod qasir, bħallikieku kienet l-ewwel darba.
 
-- **Żomm it-tweġiba qasira u l-istess.** «It-tabib huwa fit-2 ta' wara nofsinhar. Jien nkun miegħek.» Tweġiba konsistenti hija aktar faċli biex tinftiehem.
+- **Żomm it-tweġiba qasira u l-istess.** «It-tabib huwa fit-tnejn ta' wara nofsinhar. Jien nkun miegħek.» Tweġiba konsistenti hija aktar faċli biex tinftiehem.
 - **Wieġeb is-sentiment.** «Qed taħseb dwar it-tabib. Se jkun dalwaqt wara nofsinhar, u jien insuq. Ma għandek xejn x'tagħmel.»
 - **Uża leħen sħun u tmiss ġentili,** jekk jogħġbhom it-tmiss. L-Alzheimer's Association jagħti parir biex tibqa' kalm u ma tużax loġika jew targumenti.
 - **Agħti t-tweġiba li qed ifittxu,** kemm-il darba jkun meħtieġ. L-Alzheimer's Association jgħid li għandek tirrepeti t-tweġiba kemm-il darba jistaqsu.

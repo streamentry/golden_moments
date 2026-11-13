@@ -1,7 +1,7 @@
 ---
 title: "Causir un centre d'accuèlh de jorn amb la demència"
 seoTitle: "Accuèlh de jorn per la demència : las questions a far"
-description: "Comparatz los centres d'accuèlh de jorn per la demència segon las activitats, lo personal, lo sosten, lo transpòrt e l'acòrd amb los desirs de la persona. Demandatz las tarifas."
+description: "Comparatz los centres d'accuèlh de jorn per la demència segon las activitats, lo personal, lo sosten, lo transpòrt e los desirs de la persona. Demandatz las tarifas."
 section: caregiving
 order: 27
 updated: 2026-11-11
@@ -74,7 +74,7 @@ Demandatz se lo centre pòt balhar l'ajuda que la persona a besonh se sa santat 
 
 Demandatz se lo centre ofris una visita d'introduccion corta, un repas o una activitat. Laissatz la persona causir çò que vòl ensajar e per quant de temps demora quand es possible. Una primièra visita pòt semblar estranja. Demandatz-li après çò que li agradèt, çò que li agradèt pas o çò que cambiaria.
 
-Se la persona es indecisa, cercatz perque. Lo transpòrt, lo bruch, las personas desconegudas o una activitat precisa pòdon èsser la preocupacion. Podètz demandar al centre s'un ajustament mai pichon es possible, o visitar un autre jorn. Utilizatz pas la culpabilitat ni l'insisténcia per li far venir.
+Se la persona es indecisa, cercatz perque. Lo transpòrt, lo bruch, las personas desconegudas o una activitat precisa pòdon èsser la preocupacion. Podètz demandar al centre s'un ajustament mai pichon es possible, o visitar un autre jorn. Utilizatz pas la culpabilitat ni l'insistència per li far venir.
 
 Après quauques visitas, parlatz amb la persona e lo personal del centre de coma va l'acòrd. Un bon programa pòt aver besonh d'ajustaments de las oras, de las activitats o del sosten. Se la persona se sent totjorn marrida o se lo servici conven pas, es rasonable de tornar pensar a la causida.
 

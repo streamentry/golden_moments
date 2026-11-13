@@ -1,7 +1,7 @@
 ---
 title: "Causir d'ajuda a domicili per una persona amb demència"
 seoTitle: "Cura a domicili per la demència : causir lo sosten"
-description: "Causissètz un sosten a domicili per la demència en definissent l'ajuda necessària, en demandant l'experiéncia e la relèva, en implicant la persona e en verificant los còsts."
+description: "Causissètz un sosten a domicili per la demència : definissètz l'ajuda necessària, demandatz l'experiéncia e la relèva, implicatz la persona e verificatz los còsts."
 section: caregiving
 order: 24
 updated: 2026-11-11
@@ -66,7 +66,7 @@ Se la persona es d'acòrd, organizatz una rencontra a l'ostal abans la primièra
 
 L'Alzheimer's Association suggerís de far venir una autra persona de confiança pendent un entrevista, per poder comentar vòstras impressions après. Utilizatz la rencontra per parlar d'una visita tipica : l'arribada, lo salut, la tasca prevista e la manièra que la persona pòt demandar d'arrestar o de far una pausa.
 
-Se possible, convenètz d'una primièra visita corta e la revisatz amb la persona. Un prestatari pòt semblar qualificat sus lo papièr e pas èsser un bon acòrd personal. Respectatz la responsa de la persona e parlatz d'autras opcions se una d'unas partits a de preocupacions.
+Se possible, convenètz d'una primièra visita corta e la revisatz amb la persona. Un prestatari pòt semblar qualificat sus lo papièr e pas èsser un bon acòrd personal. Respectatz la responsa de la persona e parlatz d'autras opcions se una d'unas parts a de preocupacions.
 
 ## Quina informacion partejar amb un ajudant ?
 

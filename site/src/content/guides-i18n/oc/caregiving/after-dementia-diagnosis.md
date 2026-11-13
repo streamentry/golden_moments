@@ -49,7 +49,7 @@ related: [caregiving/doctor-visit-with-dementia, caregiving/caregiver-self-care,
 health: true
 ---
 
-Un diagnostic de demència pòt suscitar de questions sus la santat, la vida de cada jorn, lo sosten e l'avenir. Las personas reagisson de faiçons diferentas : unas an besonh de temps per assimilar la nòva, e d'autras vòlon començar a planificar. Existís pas de reaccion ni de calendièr unics. Comencetz per çò que compta per la persona ara, e tornatz vèrs las autras questions quand son prèsta.
+Un diagnostic de demència pòt suscitar de questions sus la santat, la vida de cada jorn, lo sosten e l'avenir. Las personas reagisson de faiçons diferentas : unas an besonh de temps per assimilar la nòva, e d'autras vòlon començar a planificar. Existís pas de reaccion ni de calendièr unics. Comencetz per çò que compta per la persona ara, e tornatz vèrs las autras questions quand son prèstas.
 
 La [guida de l'Alzheimer's Association sus la vida après lo diagnostic](https://www.alz.org/alzheimers-dementia/diagnosis/life-after-diagnosis) orienta las personas cap al seguiment medical, al sosten local e a la planificacion de l'avenir. [La guida de Dementia Australia sus la gestion d'un diagnostic](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/coping-your-diagnosis) insistís sul fait que las personas reagisson diferentament e pòdon demandar d'ajuda quand o desiran. Aquesta pagina es un punt de partença, pas un plan medical, legal o financièr personal.
 
@@ -73,7 +73,7 @@ La nòstra [guida sus l'autocura de l'aidant](/caregiving/caregiver-self-care/) 
 
 Un diagnostic sol nos dis pas ço que la persona pòt decidir ni coma vòl prendre part. Demandatz-li drecha. Donatz-li lo temps, explicatz la causida en lenga simpla e demandatz quina ajuda ret la conversa mai aisida. Unas causidas se discuton mai facilament dins un ambient tranquil o al cors de mantuna conversacions.
 
-Se la persona vòl planificar sa santat futura, sas finanças o son alotjament, comencetz per çò qu'importa per ela e per las personas en qui a confiança. La [guida de planificacion de Dementia Australia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) recomanda de parlar de sos desirs amb las personas de confiança e los professionals concernits. Los documents legals e las règlas de decision diferisson segon lo luòc, doncas demandatz a un professional local qualificat abans de vos fisar a una guida generala. Per las questions de factura de cada jorn e las inquietuds d'escròquariá, vejatz nòstra [guida sus la gestion de las finanças amb la demència](/caregiving/managing-money-with-dementia/).
+Se la persona vòl planificar sa santat futura, sas finanças o son alotjament, comencetz per çò qu'importa per ela e per las personas en qui a confiança. La [guida de planificacion de Dementia Australia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) recomanda de parlar de sos desirs amb las personas de confiança e los professionals concernits. Los documents legals e las règlas de decision diferisson segon lo luòc, doncas demandatz a un professional local qualificat abans de vos fisar a una guida generala. Per las questions de factura de cada jorn e las inquietuds d'escròquerias, vejatz nòstra [guida sus la gestion de las finanças amb la demència](/caregiving/managing-money-with-dementia/).
 
 ### Qué podèm demandar dins una primièra conversa sus la cura a venir ?
 
@@ -87,7 +87,7 @@ Se la persona vòl d'incitacions, ensajatz una d'aquestas frasas :
 - « I a quicòm que volriatz que vòstra equipa de cura sàpia sus çò que compta per vos ? »
 - « Volriatz que escrivèsse çò que dissètz, e qual deuriá o veire ? »
 
-Escotatz sens demandar tanlèu una decision. La [National Institute on Aging descriu las conversacions sus los valors e las preferéncias coma centralas dins la planificacion anticipada de la cura](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). Se la persona es d'acòrdi, notatz sas paraulas, la data e qui èra present. Demandatz l'autorizacion abans de partejar la nòta. Aquestas notas pòdon guidar las conversacions a venir, mas non son pas de documents legals ni d'ordres medicals.
+Escotatz sens demandar tanlèu una decision. La [National Institute on Aging descriu las conversacions sus los valors e las preferéncias coma centralas dins la planificacion anticipada de la cura](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). Se la persona es d'acòrd, notatz sas paraulas, la data e qui èra present. Demandatz l'autorizacion abans de partejar la nòta. Aquestas notas pòdon guidar las conversacions a venir, mas non son pas de documents legals ni d'ordres medicals.
 
 Fasètz pas de supausicions sonque sul diagnostic o sus una sola conversacion. Los desirs de la persona pòdon evolucionar, e pòt demandar de pausar o de tornar sus un subjècte mai tard. Gardatz-la implicada dins las decisions que la tocan tant coma vòl.
 

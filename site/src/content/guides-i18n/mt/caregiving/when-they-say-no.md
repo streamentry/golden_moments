@@ -7,7 +7,7 @@ order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Meta persuna b'demenzja tgħid le, aċċetta dan bil-kalma u erġa' ipprova aktar tard jew offri xi ħaġa differenti. Ir-rifjut spiss ikollu raġuni: il-kompitu jidher iebes wisq jew infantili, il-persuna tkun għajjenija, tbati minn uġigħ, ikollha ġuħ jew tkun imfixkla mill-ħoss. Tgħannidx u tinsistix. Issimplifika, offri żewġ għażliet, jew itlob l-għajnuna tagħha. Imġieba f'daqqa jew li tinbidel malajr, speċjalment wara infezzjoni jew mediċina ġdida, teħtieġ tabib minnufih.
+  Meta persuna b'demenzja tgħid le, aċċetta dan bil-kalma u erġa' ipprova aktar tard jew offri xi ħaġa differenti. Ir-rifjut spiss ikollu raġuni: il-kompitu jidher iebes wisq jew infantili, il-persuna tkun għajjenija, tbati minn uġigħ, ikollha ġuħ jew tkun imfixkla mill-ħoss. Targumentax u tinsistix. Issimplifika, offri żewġ għażliet, jew itlob l-għajnuna tagħha. Imġieba f'daqqa jew li tinbidel malajr, speċjalment wara infezzjoni jew mediċina ġdida, teħtieġ tabib minnufih.
 keyPoints:
   - "«Le» hija tweġiba li għandek tirrispetta, mhux problema biex tegħleb."
   - "Ir-rifjut normalment ikollu kawża: diffiċli wisq, infantili, għajjien, mhux tajjeb, skomdi, jew imfixkel."
@@ -45,7 +45,7 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Int tħejji kollox, toffri logħba jew mixja, u tisma' «Le». Jew l-attività tibda tajjeb u tispiċċa b'tablet imbegħda u kelma iebsa. Hija diżappuntanti, u hija komuni ħafna. Ir-rifjut u l-frustrazzjoni ġeneralment huma messaġġ, mhux għenadija. Li tifhem x'inhu dak il-messaġġ spiss juri x'għandek tipprova sussegwentement.
+Int tħejji kollox, toffri logħba jew mixja, u tisma' «Le». Jew l-attività tibda tajjeb u tispiċċa b'tablet imbegħda u kelma iebsa. Hija diżappuntanti, u hija komuni ħafna. Ir-rifjut u l-frustrazzjoni ġeneralment huma messaġġ, mhux kapriċċ. Li tifhem x'inhu dak il-messaġġ spiss juri x'għandek tipprova sussegwentement.
 
 ## Għaliex persuna b'demenzja tirrifjuta l-attivitajiet?
 
@@ -55,7 +55,7 @@ Normalment hemm raġuni, anke jekk il-persuna ma tistax tqiegħidha f'kliem. L-[
 - **Jidher infantili.** L-adulti jinnotaw ritratti karikaturali, leħen ta' kanzunetta jew attivitajiet li jidhru magħmula għat-tfal.
 - **Għeja.** Ħafna nies ikollhom inqas enerġija aktar tard fil-jum. Ara [attivitajiet kalmi ta' wara nofsinhar](/caregiving/late-day-restlessness/).
 - **Diskomfort fiżiku.** In-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) jelenka uġigħ, nuqqas ta' rqad, diffikultà biex jara jew jisma', stitikezza, ġuħ, għatx u effetti sekondarji ta' mediċini ġodda bħala kawżi possibbli tal-inkwiet.
-- **Ħafna affarijiet jiġru flimkien.** TV aċċiż, diversi konverżazzjonijiet jew kamra mimlija jistgħu jkunu sopraffaċenti.
+- **Ħafna affarijiet jiġru flimkien.** It-TV b'ħoss għoli, diversi konverżazzjonijiet jew kamra mimlija jistgħu jkunu sopraffaċenti.
 - **Li tħoss pressjoni.** In-NIA isemmi li tkun imsawwat biex tagħmel xi ħaġa li l-Alzheimer għamlitha diffiċli ħafna, jew biex tiftakar avvenimenti jew nies, huwa kawża ta' aġitazzjoni.
 - **Burdata baxxa.** Li titlef l-interess f'affarijiet jista' jkun sinjal ta' dipressjoni, u dan jixraq li jitqajjem mat-tabib.
 - **Ma jridux biss.** L-adulti għandhom id-dritt li jgħidu le.
@@ -71,7 +71,7 @@ Aċċetta l-le bil-kalma, imbagħad ibdel xi ħaġa: il-ħin, l-attività, id-di
 5. **Itlob l-għajnuna minflok prestazzjoni.** «Tista' tgħinni nqassam dawn?» jew «Tista' tgħidli liema kulur jidher l-aħjar?» Li tkun meħtieġ iħoss ħafna differenti minn li tiġi ttestjat.
 6. **Ibda l-attività int stess.** Ibda l-attività qrib tagħhom mingħajr ma tistaqsi. Ħafna nies jingħaqdu magħha ladarba jkun diġà qed isir xi ħaġa, u jekk ma jagħmlux, għadek qattajt ħin flimkien.
 7. **Aqleb għal xi ħaġa fiżika jew li tikkalma.** Mixja qasira, mużika, spuntin, tpaqqigħ tal-ħwejjeġ, jew waqfa ta' [calm breathing](/games/calm-breathing/) flimkien. In-NIA jissuġġerixxi li tiddevja l-attenzjoni għall-mużika, ktieb jew mixja.
-8. **Ħalli l-persuna tagħmilha bil-mod tagħha.** Jekk jridu jilagħbu b'mod differenti minn kif jgħidu r-regoli, mur miegħu. L-Alzheimer's Association jagħti parir li tkun flessibbli.
+8. **Ħalli l-persuna tagħmilha bil-mod tagħha.** Jekk jridu jilgħabu b'mod differenti minn kif jgħidu r-regoli, mur miegħu. L-Alzheimer's Association jagħti parir li tkun flessibbli.
 
 ## X'għandi ngħid meta jinnervjaw?
 
@@ -128,4 +128,4 @@ Jekk xi ħadd ikun fil-periklu jew ikun hemm sinjali ta' emerġenza medika, ċem
 
 ## Hemm xi drabi li ma nagħmlu xejn?
 
-Iva. Xi drabi l-aħjar attività hija l-ebda attività: li toqgħod flimkien, iżżomm idejn, tisma' rekord favorit, jew tħares lejn l-għasafar mit-tieqa. Dan mhux falliment. Il-[gwida tagħna dwar li tilagħbu flimkien](/caregiving/how-to-play-together/) tispjega għaliex li tieqaf kmieni, jew qatt ma tibda, jista' jkun l-għażla t-tajba.
+Iva. Xi drabi l-aħjar attività hija l-ebda attività: li toqgħod flimkien, iżżomm idejn, tisma' rekord favorit, jew tħares lejn l-għasafar mit-tieqa. Dan mhux falliment. Il-[gwida tagħna dwar il-logħba flimkien](/caregiving/how-to-play-together/) tispjega għaliex li tieqaf kmieni, jew qatt ma tibda, jista' jkun l-għażla t-tajba.
