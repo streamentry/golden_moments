@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Kif Tqiegħed Tablet jew Telefon għal Persuna b'Demenzja"
+seoTitle: "Tablet jew Telefon għal Persuna b'Demenzja: Issettjar"
+description: "Issettjar pass pass ta' tablet jew telefon għal persuna b'demenzja: applikazzjoni waħda, test akbar, inqas notifiki, skrin sempliċi, volum u privatezza."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Agħmel tablet jew telefon aktar sempliċi qabel tagħtih lill-persuna. Illimitah għal applikazzjoni waħda bil-Guided Access fuq iPad u iPhone jew bl-app pinning fuq Android, jew uża l-Assistive Access tal-Apple għal tqassim aktar sempliċi. Kabbar it-test, ikkwieta n-notifiki, żomm biss ftit applikazzjonijiet fuq skrin prinċipali wieħed, issettja l-volum, uża stand, u illimita l-permessi tal-applikazzjonijiet. Uża dan flimkien, u żomm attivitajiet oħra mhux fuq l-iskrin.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) u app pinning (Android) iżommu l-iskrin fuq applikazzjoni waħda sakemm int tneħħi dan."
+  - "L-Assistive Access tal-Apple joffri tqassim sempliċi, imfassal għal persuni b'diżabilitajiet kognittivi."
+  - "Kabbar it-test u itfi n-notifiki u l-pop-ups, sabiex xejn ma jfixkel jew ibelbel."
+  - "Żomm biss ftit applikazzjonijiet familjari fuq skrin prinċipali wieħed, u issettja l-volum qabel tibda."
+  - "Stand u post fiss għall-iċċarġjar jagħmlu l-apparat aktar faċli biex jintuża u jinstab."
+  - "Iċċekkja l-permessi tal-applikazzjonijiet u l-kondiviżjoni tad-dejta: il-HIPAA ġeneralment ma tipproteġix dak maħżun fuq apparat personali."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Kif nevita li persuna b'demenzja titlaq applikazzjoni fuq iPad?"
+    a: "Ixgħel il-Guided Access fi Settings > Accessibility > Guided Access u issettja passcode. Iftaħ l-applikazzjoni, ikklikkja tliet darbiet il-buttuna ta' fuq (jew il-buttuna Home fuq iPads eqdem), u agħfas Start. L-iPad jibqa' f'dik l-applikazzjoni sakemm xi ħadd jidħol il-passcode."
+  - q: "Kif nillimita tablet Android għal applikazzjoni waħda?"
+    a: "Ixgħel l-app pinning fl-applikazzjoni Settings, ġeneralment taħt Security (xi kultant Security & location) > Advanced > App pinning. Imbagħad iftaħ l-applikazzjoni, iftaħ Overview, agħfas fuq l-ikona tal-applikazzjoni fil-quċċata u agħfas Pin. Biex tneħħih, jeħtieġ il-PIN, il-mudell jew il-password tiegħek."
+  - q: "Huwa sigur li tuża l-Guided Access fuq it-telefon tal-persuna?"
+    a: "Kun attent. L-Apple jgħid li l-Crash Detection u s-Servizzi tal-Emerġenza mhumiex disponibbli waqt li l-Guided Access ikun mixgħul. Jekk il-persuna tiddependi fuq it-telefon tagħha għal sejħiet ta' emerġenza, uża l-Guided Access biss meta tkun magħha, jew ikkunsidra l-Assistive Access minflok."
+  - q: "Kemm hu aċċettabbli l-ħin tal-iskrin għal persuna b'demenzja?"
+    a: "M'hemm ebda numru stabbilit. Sessjonijiet qosra u kondiviżi flimkien ma' mixi, mużika, xogħlijiet tad-dar u konverżazzjoni jagħmlu ġurnata aktar sħiħa minn perjodi twal waħedha quddiem skrin. Jekk l-apparat jikkawża frustrazzjoni jew jieħu post attivitajiet oħra, uża dan inqas."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tablet jista' jkun mod sabiħ biex tqassam ritratti, mużika u logħbiet sempliċi. Jista' wkoll ikun konfuż: ħabta waħda żbaljata tiftaħ applikazzjoni oħra, tidher notifika, it-test ikun ċkejken, jew l-iskrin jintefa' f'nofs logħba. Ftit issettjar min-naħa tiegħek isolvi ħafna minn dan.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Dawn il-passi jużaw is-settings miżjuda fl-iPhone, l-iPad u l-Android. Ismijiet tal-menu jistgħu jinbidlu bejn verżjonijiet tas-softwer u produtturi tal-apparati, għalhekk jekk xi ħaġa tidher differenti, segwi l-paġna tal-Apple jew tal-Google marbuta mal-apparat tiegħek. Agħmel l-issettjar int stess, qabel toqgħod flimkien.
 
-## Should someone with dementia use a tablet or phone?
+## Għandha persuna b'demenzja tuża tablet jew telefon?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Dan jiddependi mill-persuna. Ħafna nies jieħdu gost jużaw tablet ma' xi ħadd qrib tagħhom, anke jekk ma jkunux jistgħu jagħmluha waħedhom. Ibda billi tużah flimkien, b'applikazzjoni waħda miftuħa, għal ftit minuti. Jekk jagħti pjaċir u konverżazzjoni, kompli. Jekk jikkawża konfużjoni jew frustrazzjoni, album tar-ritratti, paġni stampati jew mużika jistgħu jaqblu aħjar magħhom. [Attivitajiet stampati](/activities/printable/) huma alternattiva waħda.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tablet huwa normalment aktar faċli minn telefon: l-iskrin u r-ritratti huma akbar, u mhux ukoll l-ankra tal-persuna għall-emerġenzi.
 
-## How do I lock a tablet or phone to one app?
+## Kif nillimita tablet jew telefon għal applikazzjoni waħda?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Uża l-Guided Access fuq iPhone u iPad, jew l-app pinning fuq Android. It-tnejn iżommu l-iskrin fuq applikazzjoni waħda sakemm tidħol kodiċi, sabiex ħabta jew daqqa ta' swipe żbaljata ma tistax tiftaħ xi ħaġa oħra.
 
-### iPad and iPhone: Guided Access
+### iPad u iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Minn [l-istruzzjonijiet tal-Guided Access tal-Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Iftaħ **Settings**, agħfas **Accessibility**, imbagħad agħfas **Guided Access** u ixgħel dan.
+2. Taħt **Passcode Settings**, issettja passcode għall-Guided Access. Tista' wkoll tippermetti Face ID jew Touch ID.
+3. Fakultattiv: taħt **Display Auto-Lock**, agħżel kemm malajr l-iskrin jintefa' waqt sessjoni, sabiex ma jintefax f'nofs logħba.
+4. Iftaħ l-applikazzjoni li trid tuża.
+5. Ikklikkja tliet darbiet il-buttuna ta' ġenb (iPhone), il-buttuna ta' fuq (iPad), jew il-buttuna Home fuq apparati eqdem.
+6. Fakultattiv: iċċirkonda kull parti tal-iskrin li trid li ma tibqax tirrispondi għall-mess. Agħfas **Options** (jew **Session Settings**) biex titfi l-buttuni tal-volum jew tieqaf ir-rotazzjoni tal-iskrin.
+7. Agħfas **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Biex tieqaf is-sessjoni, ikklikkja tliet darbiet l-istess buttuna, idħol il-passcode, u agħfas **End**. L-Apple jgħid li f'xi verżjonijiet eqdem tas-softwer tikklikkja darbtejn minflok.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Importanti:** L-Apple jgħid li l-Crash Detection u s-Servizzi tal-Emerġenza mhumiex disponibbli waqt sessjoni tal-Guided Access. Tħallix il-Guided Access jaħdem fuq telefon li l-persuna tista' tkun teħtieġ għal sejħiet ta' emerġenza.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Minn [l-għajnuna tal-Google dwar l-app pinning](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Iftaħ l-applikazzjoni **Settings**.
+2. Agħfas **Security** (jew **Security & location**), imbagħad **Advanced**, imbagħad **App pinning**. Jekk ma tsibhiex, iċċekkja l-paġni tal-għajnuna tal-produttur tal-apparat tiegħek.
+3. Ixgħel **App pinning**. Il-PIN, il-mudell jew il-password tiegħek jeħtieġu biex tneħħih.
+4. Iftaħ l-applikazzjoni li trid. Ħalli swipe 'il fuq sa nofs l-iskrin u żomm, biex tiftaħ Overview (jew agħfas Overview bin-navigazzjoni b'3 buttuni).
+5. Fil-quċċata tal-preview tal-applikazzjoni, agħfas l-ikona tal-applikazzjoni, imbagħad agħfas **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Biex tneħħi l-pinning bin-navigazzjoni bil-gesti, għamel swipe 'il fuq u żomm. Bin-navigazzjoni b'3 buttuni, żomm Back u Overview. Bin-navigazzjoni b'2 buttuni, żomm Back u Home. Imbagħad daħħal il-PIN, il-mudell jew il-password tiegħek.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Hemm mod aktar sempliċi għall-iPhone jew l-iPad kollu?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Iva. L-Assistive Access tal-Apple jbiddel l-iskrin prinċipali tas-soltu b'wieħed aktar sempliċi. [L-Apple jiddeskrivih](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) bħala mfassal biex jagħmel l-iPhone aktar faċli biex persuni b'diżabilitajiet kognittivi jużawh b'mod indipendenti, b'oġġetti akbar fuq l-iskrin u funzjonijiet aktar iffukati. L-Apple joffri [l-istess funzjoni fuq l-iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Min jissettja.** L-Apple jissuġġerixxi li persuna fidata, bħal membru tal-familja jew min jieħu ħsieb li jaf lill-persuna, tgħin fl-għażla tal-applikazzjonijiet u l-funzjonijiet.
+- **Fejn tibda.** Mur fi **Settings > Accessibility > Assistive Access**, agħfas **Set Up Assistive Access**, imbagħad **Continue**.
+- **Applikazzjonijiet.** Int tagħżel liema applikazzjonijiet jidhru. Xi applikazzjonijiet tal-Apple għandhom verżjonijiet sempliċi speċjali, u ħafna applikazzjonijiet oħra jistgħu jiżdiedu fid-disinn normali tagħhom.
+- **Tqassim.** Agħżel **Rows** (lista faċli biex taqra) jew **Grid** (oġġetti akbar li jenfasizzaw ritratti u ikoni).
+- **Passcode.** Tissettja passcode separat tal-Assistive Access biex tidħol, toħroġ jew tibdel is-settings. L-Apple jirrakkomanda li tissettja Apple Account ta' rkupru waqt l-issettjar, għax mingħajru, passcode minsija tfisser li trid tirrisettja l-apparat.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+L-Assistive Access jista' jkun adattat għal xi ħadd li juża l-apparat tiegħu kuljum. Il-Guided Access jew l-app pinning huma aktar mgħaġġla għal sessjoni ta' logħba kondiviża.
 
-## How do I make text and pictures bigger?
+## Kif nagħmel it-test u r-ritratti akbar?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Żid it-test u d-dehra tal-iskrin, imbagħad ara li l-buttuni għadhom jidhru fuq l-iskrin.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone u iPad.** Skont [l-istruzzjonijiet tal-Apple dwar id-daqs tal-font](https://support.apple.com/en-us/102453), mur fi **Settings > Display & Brightness > Text Size** u iġġerr il-slider. Għal test akbar, mur fi **Settings > Accessibility > Display & Text Size > Larger Text**. L-Apple jgħid li test kbir ħafna jista' jagħmel xi buttuni aktar diffiċli biex jintgħafsu, għalhekk aġġusta jekk ikun meħtieġ.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Skont [l-għajnuna tal-Google dwar test u dehra](https://support.google.com/accessibility/android/answer/11183305?hl=en), iftaħ **Settings** u fittex **Font size**, imbagħad iġġerr il-slider. Fittex **Display size** biex kollox fuq l-iskrin jikber. Tista' wkoll tixgħel **Bold text** taħt **Accessibility > Display size and text**. Xi applikazzjonijiet ma jsegwux dawn is-settings.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Fil-logħbiet bħal [Picture Pairs](/games/picture-pairs/) u [Find the Same](/games/find-the-same/), tista' wkoll tagħżel inqas kaxxi jew għażliet, u dan iżomm kollox aktar sempliċi fuq l-iskrin.
 
-## How do I stop notifications and pop-ups?
+## Kif neħles mill-notifiki u l-pop-ups?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Itfi n-notifiki għal applikazzjonijiet li ma għandekx bżonn, u uża Do Not Disturb waqt l-attivitajiet.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone u iPad.** Mur fi **Settings > Notifications**, agħfas applikazzjoni taħt **Notification Style**, u itfi **Allow Notifications** ([gwida tal-Apple dwar issettjar tan-notifiki](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Biex taħbi sejħiet, allarmi u notifiki għal ftit, iftaħ Control Center u ixgħel **Do Not Disturb** mill-buttuna **Focus** ([għajnuna tal-Apple dwar Do Not Disturb](https://support.apple.com/en-us/105112)). Tista' tiskedah taħt **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Iġġerr mill-quċċata tal-iskrin 'l isfel u agħfas **Do Not Disturb**, jew mur fi **Settings > Modes > Do Not Disturb** ([għajnuna tal-Google dwar Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Taħt **Notification filters** tista' tagħżel liema nies u applikazzjonijiet jistgħu jibqgħu jilħqu. Is-settings jvarjaw skont il-produttur tal-apparat.
 
-## How do I make a simple home screen?
+## Kif nagħmel skrin prinċipali sempliċi?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Żomm ftit applikazzjonijiet familjari fuq skrin wieħed u poġġi l-bqija barra mill-vista. M'hemm ebda setting wieħed għal dan; huwa dwar it-tneħħija tal-konfużjoni.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Agħżel tliet sa sitt applikazzjonijiet.** Pereżempju, ritratti, mużika, applikazzjoni tal-vidjochiamata u logħba waħda.
+- **Poġġihom fl-ewwel skrin,** fl-istess postijiet dejjem, u mexxi l-bqija għal skrin ieħor jew folder.
+- **Uża sfond sempliċi u b'kuntrast għoli,** bħal kulur wieħed jew ritratt familjari wieħed, sabiex l-ikoni joħorġu.
+- **Ħassar applikazzjonijiet li ma għandekx bżonn.** Inqas applikazzjonijiet ifisser inqas opportunitajiet ta' konfużjoni u inqas dejta miġbura.
+- **Ikkunsidra l-Assistive Access** fuq apparati tal-Apple jekk tixtieq li l-apparat jagħmel dan għalik.
 
-## What about volume and sound?
+## X'għandu x'jaqsam il-volum u l-ħoss?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Issettja volum kumdu qabel tagħti l-apparat. Bil-Guided Access tista' titfi l-buttuni tal-volum sabiex ma jinbidilx f'nofs attività. Iċċekkja li l-apparat tas-smigħ ikun fuq u qed jaħdem.
 
-## Where should the tablet live?
+## Fejn għandu jkun it-tablet?
 
-Give it a stand and a permanent charging spot.
+Agħtih stand u post fiss għall-iċċarġjar.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Stand jew case** li jżomm it-tablet b'mod dritt fuq il-mejda, sabiex ħadd ma jkollu jżommu, u jkun aktar faċli li wieħed jindika fuq l-iskrin.
+- **Post wieħed għall-iċċarġjar li qatt ma jinbidel,** possibilment stand tal-iċċarġjar fuq mejda f'kamra li tuża kuljum. It-tablet ikun dejjem iċċarġjat u dejjem fl-istess post.
+- **Naqqas ir-riflessjoni.** Poġġi l-iskrin 'il bogħod minn tieqa dawlija.
 
-## How much screen time is okay?
+## Kemm hu aċċettabbli l-ħin tal-iskrin?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+M'hemm ebda numru ta' minuti korrett. Immira għal sessjonijiet qosra u kondiviżi bħala parti minn ġurnata sħiħa li tinkludi moviment, mużika, xogħlijiet tad-dar, konverżazzjoni u ħin barra. Peress li filgħaxijiet mimlija jistgħu jiżdiedu mal-inkwiet ta' wara nofsinhar, ikkunsidra li żżomm l-attivitajiet fuq l-iskrin għal aktar kmieni fil-jum. Ara [attivitajiet kalmi ta' wara nofsinhar](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Li tuża t-tablet flimkien, aktar milli biex tokkupa lill-persuna, iżżommu soċjali. Il-gwida tagħna dwar [il-logħba flimkien](/caregiving/how-to-play-together/) tispjega kif.
 
-## How do I protect their privacy on the device?
+## Kif nipproteġi l-privatezza tagħhom fuq l-apparat?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Illimita dak li l-applikazzjonijiet jistgħu jiġbru, u tassumix li l-liġi dwar il-privatezza tas-saħħa tkopri dan. L-U.S. Department of Health and Human Services (HHS) [jispjega](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) li r-Regoli tal-HIPAA ġeneralment ma jipproteġux informazzjoni tas-saħħa maħżuna fuq jew aċċessata permezz ta' telefons u tablets personali. Fil-biċċa l-kbira tal-każijiet, il-HIPAA ma jipproteġix ukoll dejta mdaħħla f'applikazzjonijiet għal użu personali, sakemm l-applikazzjoni ma tkunx ġejja minn fornitur tal-kura tas-saħħa koperta, pjan tas-saħħa jew wieħed mis-sħab tan-negozju tagħhom.
 
-HHS suggests:
+L-HHS jissuġġerixxi:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- li tevita applikazzjonijiet mhux meħtieġa jew każwali, speċjalment dawk "b'xejn";
+- li ma tagħtix lill-applikazzjonijiet aċċess għall-lokalizzazzjoni sakemm ma jkunux verament meħtieġa, bħal mappi.
 
-Also consider:
+Ikkunsidra wkoll:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Uża passcode** fuq l-apparat, u żomm nota tiegħu f'post sigur.
+- **Iċċekkja l-permessi** għar-ritratti, il-kamera, il-mikrofonu, il-kuntatti u l-lokalizzazzjoni, u itfi dawk li applikazzjoni ma teħtieġx.
+- **Iċċekkja x'tiġbor applikazzjoni** qabel ma tinstallaha. Il-gwida tagħna dwar [għażla ta' applikazzjonijiet u logħbiet għad-demenzja](/caregiving/choosing-apps-and-games/) għandha lista ta' kontroll tal-privatezza.
+- **Kun attent bir-ritratti tal-familja.** Aqsam biss ritratti li l-persuna tkun komda magħhom, u kun af fejn applikazzjoni taħżen dawn. Fi [Photo Pairs](/games/photo-pairs/), ir-ritratti li tagħżel jibqgħu fil-browser tiegħek.
+- **Itfi x-xiri ġewwa l-applikazzjonijiet** jew neħħi d-dettalji tal-ħlas minn kontijiet li l-persuna tuża.

@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "מוזיק-אַקטיװיטעטן פֿאַר מענטשן מיט דעמענץ"
+seoTitle: "מוזיק-אַקטיװיטעטן פֿאַר דעמענץ: פּלײַליסטן און אידייען"
+description: "װי מען טיילט מוזיק מיט אַ מענטש װאָס לעבט מיט דעמענץ: אַ פּערזענלעכע פּלײַליסט, 15 פּשוטע אידייען און עצות פֿאַר יעדן שטאַפּל."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  מוזיק איז איינע פֿון די לײַכטסטע אַקטיװיטעטן צו טיילן מיט אַ מענטש װאָס לעבט מיט
+  דעמענץ. בויט אַ פּערזענלעכע פּלײַליסט פֿון די לידער פֿון זײַן יוגנט, גלױבן און
+  משפּחה, שפּילט זי אָן רעקלאַמעס און אָן הינטergרונד-רעש, און זינגט, קלאַפּט, װיגט זיך
+  אָדער הערט צונױפֿ. קלײבט רויִקע אָדער לעבעדיקע מוזיק לױט דעם מאָמענט, האַלט די
+  לאַוטקײט זאַנפֿט, און הערט אױף אויב אַ ליד טרױעריקט אים.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "פּערזענלעכע מוזיק װירקט בעסטן: די סטיילן װאָס ער האָט ליב געהאַט אין זײַנע יונגע יאָרן, און מוזיק פֿון זײַן גלױבן, קולטור און משפּחה-פֿײערן."
+  - "שפּילט איין זאַך אויף אַ מאָל, אָן רעקלאַמעס און מיט דעם טעלעװיזאָר אױס."
+  - "זינגען, קלאַפּן, װיגן זיך און פּשוט צוהערן זענען אַלע װעגן צו זיך באַטיילגן."
+  - "ניצט רויִקערע מוזיק צו באַרויִקן און לעבעדיקערע צו העכערן די שטימונג, און קוקט װי דער מענטש רעאַגירט."
+  - "פֿאָרשונג װעגן סטרוקטורירטע מוזיק-סעסיעס איז באַגרענעצט; מיר שלאָגן פֿאָר מוזיק אלס אַ אָנגענעמע זאַך צו טיילן, נישט אַלס באַהאַנדלונג."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "װאָס פֿאַר מוזיק איז בעסטן פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "מוזיק װאָס דער מענטש האָט לאַנג און ליב געהאַט, אָפֿט פֿון זײַנע טיניידזשער- און צװאַנציקער-יאָרן, צוזאַמען מיט מוזיק פֿון זײַן גלױבן, קולטור און משפּחה-פֿײערן. אױב מעגלעך, לאָזט אים קלײבן. קוקט אויף זײַן פּנים און גוף צו לערנען װאָס עס געפֿעלט אים, און לאָזט אַװעק װאָס מאַכט אים טרױעריק."
+  - q: "זאָל איך ניצן קאָפּהערער?"
+    a: "עטלעכע מענטשן האָבן ליב קאָפּהערער, װײַל זײ בלאָקירן רעש, און אַנדערע געפֿינען זײ אומבאַקװעם אָדער פֿאַרװירנדיק. פּרוּװט ערשט אַ לאַוטשפּרעכער, כּדי איר זאָלט קענען צוזאַמען הערן. אױב איר ניצט קאָפּהערער, האַלט די לאַוטקײט נידעריק און בלײַבט נאָענט."
+  - q: "קען מוזיק העלפֿן מיט אומרו אָדער אױפֿרעגונג?"
+    a: "רויִקע, באַקאַנטע מוזיק קען העלפֿן שאַפֿן אַ פֿרידלעכע שטימונג, און די Alzheimer's Association רעקאָמענדירט מוזיק צו שטעלן די אַטמאָספֿער װאָס איר װילט. עס װירקט נישט יעדעס מאָל. אױב דער מענטש איז פֿאַרשטערט, קאָנטראָלירט אױך צי עס טוט אים װײטיק, ער איז הונגעריק, עס איז רעש אָדער ער איז מיד."
+  - q: "קענען מענטשן אין דער שפּעטער פֿאַזע נאָך פֿרײען זיך מיט מוזיק?"
+    a: "פֿיל קענען. די Alzheimer's Association שרײַבט אַז אַ מענטש אין דער שפּעטער פֿאַזע קען נאָך קלאַפּן דעם ביט אָדער מיטזינגען אַ ליד פֿון קינדהײט. זיצט נאָענט, שפּילט מוזיק זאַנפֿט, און האַלט זײַן האַנט אָדער װיגט זיך צוזאַמען."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+מוזיק איז איינע פֿון די פּשוטסטע זאַכן װאָס מען קען טיילן מיט אַ מענטש װאָס לעבט מיט דעמענץ. עס פֿאָדערט גאָרנישט: קײן רעכטע ענטפֿערן, קײן שריט צו נאָכגיין. אַ באַקאַנט ליד קען ברענגען אַ שמײכל, אַ קלאַפּנדיקן פֿוס אָדער עטלעכע װערטער װאָס מען זינגט מיט, אַפֿילו אין אַ טאָג װען שמועס איז שװער. אַלץ װאָס איר דאַרפֿט איז די רעכטע מוזיק פֿאַר דעם באַזונדערן מענטש און אַ רויִק מאָמענט צו שפּילן עס.
 
-## What music activities work for people with dementia?
+## װאָס פֿאַר מוזיק-אַקטיװיטעטן װירקן גוט פֿאַר מענטשן מיט דעמענץ?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+צוהערן, זינגען, קלאַפּן, װיגן זיך און רעדן װעגן מוזיק װירקן אַלע גוט. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) רעקאָמענדירט מוזיק שפּילן, רעדן װעגן דער מוזיק און דעם קינסטלער, זינגען אָדער טאַנצן צו באַקאַנטע לידער, און גיין צו קאָנצערטן אָדער מוזיק-פּראָגראַמען אין דער קהילה. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) לײגט צו אַז באַװעגונג װי קלאַפּן אָדער טאַנצן קען מערן דעם פֿאַרגעניגן, און אַז מוזיק קען זײַן אַ װעג צו פֿאַרבינדן זיך װען װערטער װערן שװער.
 
-## How do you build a personal playlist?
+## װי בויט מען אַ פּערזענלעכע פּלײַליסט?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+די נוצלעכסטע זאַך װאָס איר קענט מאַכן איז אַ פּלײַליסט פֿון מוזיק װאָס באַטײַט עפּעס פֿאַר דעם מענטש. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) אונטערשטרײַכט אױך מוזיק מיט פּערזענלעכער באַדײַטונג. דאָ איז אַ פּשוטער װעג צו מאַכן איינע.
 
-### Start with their life
+### הײב אָן מיט זײַן לעבן
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **זײַנע יונגע יאָרן.** טראַכט װאָס מען האָט געהערט אױפֿן ראַדיאָ, אױף טאַנצן און אין די קינאָ װען ער איז געװען יונג.
+- **גרױסע מאָמענטן.** די מוזיק בײַ זײַן חתונה, דער ערשטער טאַנץ, אַ ליב-געהאַט אַלבאָם פֿון אַ משפּחה-נסיעה.
+- **גלױבן און קולטור.** זמירות, גאָספּל, הײליקע מוזיק, אָדער לידער אין זײַן ערשטער שפּראַך.
+- **אַרבעט און דינסט.** מאַרש-באַנדס, אַרבעטס-לידער, אָדער מוזיק װאָס איז פֿאַרבונדן מיט אַ צײַט אין דער מיליטער.
+- **װאָס די משפּחה געדענקט.** פֿרעגט די געשװיסטער, די קינדער און די אַלטע חבֿרים װאָס מען האָט שטענדיק געשפּילט אָדער געזונגען.
 
-### Think in genres, not just songs
+### טראַכט װעגן סטיילן, נישט בלױז לידער
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+אױב איר זענט נישט זיכער װוּ צו הײבן, פּרוּװט עטלעכע מינוט פֿון יעדן פֿון די דאָזיקע און באַמערקט די רעאַקציע: ביג באַנד און סװינג, דו-װאַפּ, מאָטאַון און סאָול, פֿרי ראָק און ראָל, קאַנטרי און װעסטערן, בלוגראַס, גאָספּל און זמירות, בראָדװיי-מוזיקלען, דזשאַז-סטאַנדאַרדס, לאַטײַנישע מוזיק װי באָלעראָס אָדער מאַריאַטשי, פּאָלקע, פֿאָלק און קלאַסיק. היט װאָס ברענגט אַ שמײכל אָדער אַ קלאַפּנדיקן פֿוס; לאָז אַװעק װאָס ברענגט אַ פֿאַרזאָרגטן פּנים.
 
-### Make it easy to play
+### מאַך עס גרינג צו שפּילן
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **קײן רעקלאַמעס.** די Alzheimer's Association װאָרנט אַז רעקלאַמעס קענען מאַכן פֿאַרװירונג. ניצט אַראָפּגעלאָדענע לידער, סי-דיס, פּלאַטן אָדער אַ סערװיס אָן רעקלאַמעס.
+- **איין פּשוטער אַפּאַראַט.** אַ לאַוטשפּרעכער מיט אײן גרױסן קנעפּל, אָדער אַ פּלײַליסט װאָס איז געראַטעװעט און גרײט, כּדי יעדער קען עס אָנהײבן.
+- **צװײ קורצע רשימות.** אײן רויִקע רשימה צום באַרויִקן און אַ לעבעדיקע צום העכערן די שטימונג.
+- **שרײַבט אָן עס.** שרײַבט דעם נאָמען פֿון דעם מענטש און „ליבלינג-מוזיק“ אױפֿן אַפּאַראַט, כּדי באַזוכנדיקע משפּחה און דער שטאַב װאָס זאָרגט זאָל אױך קענען ניצן עס.
 
-## 15 music activities to try
+## 15 מוזיק-אַקטיװיטעטן צום פּרובירן
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **צוהערן צוזאַמען.** זיצט אײנער לעבן צװײטן, מיט גאָרנישט אַנדערש װאָס גײט פֿאָר. צוהערן איז אַ גאַנצע אַקטיװיטעט.
+2. **מיטזינגען.** הײבט אָן צו זינגען אַליין. הומען אָדער נאָכזאָגן די װערטער צײלט אױך.
+3. **קלאַפּן אָדער טאַפּן דעם ביט.** קלאַפּט אױף די קני, טאַפּט אױף דעם טיש, אָדער ניצט אַ קלײנע האַנט-טרומל אָדער שאַקער.
+4. **פּאָמעלעכער טאַנץ.** האַלט די הענט און װיגט זיך אין דער קיך, אָדער טאַנצט זיצנדיק און באַװעגט די אַרעמס צוזאַמען.
+5. **טיכל-טאַנץ.** װינקט מיט לײַכטע טיכלעך אין טאַקט מיט דער מוזיק, שטייענדיק אָדער זיצנדיק.
+6. **רעדט װעגן דער מוזיק.** לאָדט אײַך אײַן, נישט טעסט: „דאָס קלינגט װי אַ טאַנצזאַל. דערצײלט מיר װעגן די טענץ.“ פֿרעגט קײנמאָל נישט „געדענקט איר דאָס ליד?“
+7. **שפּילט אַ גאַנצן אַלבאָם.** שפּילט אַ פּלאַטע װאָס זיי האָבן ליב, פֿון אָנהײב ביז סוף, מיט קאַװע.
+8. **קוקט אױף די אומשלאָגן.** אַלטע פּלאַטן-אומשלאָגן זענען גרױס צו רעדן װעגן מאָדע, אױטאָס און פּנימער.
+9. **קוקט אַ מוזיקל.** אַ פֿילם אָדער קאָנצערט פֿון זייער צײַט מאַכט אַ גוטן אָװנט. מאַכט פּאָזן פֿאַר שטילע מאָמענטן.
+10. **שפּילט אַ אינסטרומענט װאָס ער קען.** אַ געװעזענער פּיאַניסט אָדער גיטאַריסט קען האָבן פֿרײד פֿון פּשוטן שפּיל. שפּעטער איז גענוג צו צוזאַמען אױסקלײַבן אַ פּאָר נאָטן.
+11. **מוזיק בײַם אַרבעטן.** שפּילט ליב-געהאַטע לידער בײַם צונױפֿפֿאַלטן װעש אָדער בײַם דעקן דעם טיש.
+12. **מאָרגן-ליד.** הײבט יעדן טאָג אָן מיט דאָס זעלבע פֿריילעכע ליד, אַלס טײל פֿון דער רוטין.
+13. **זינגט זמירות אָדער הײליקע מוזיק.** שפּילט מוזיק פֿון אײַער גלױבנס טראַדיציע און זינגט צוזאַמען.
+14. **טרעט אָן אין אַ זינג-גרופּע.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) באַשרײַבט זינג-גרופּעס אַלס גוט פֿאַר שטימונג און װױלזײַן. פֿרעגט לאָקאַל װעגן דעמענץ-פֿרײַנדלעכע כאָרן.
+15. **גײט צו לעבעדיקער מוזיק.** אַ קורץ קהילה-קאָנצערט אָדער אַ דרױסנדיקער באַנד. זיצט נאָענט צום אױסגאַנג און גײט אַװעק װען איר װילט.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+פֿאַר אַ לײַכטערע װערטער-שפּיל מיט באַקאַנטע רעדעװנדונגען, פּרוּװט [ענדיקט די רעדעװנדונג](/games/finish-the-saying/), װוּ איר קענט שטענדיק װײַזן דאָס ענדע.
 
-## Matching music to the moment
+## מוזיק לױט דעם מאָמענט
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+די Alzheimer's Association רעקאָמענדירט מוזיק צו שאַפֿן די שטימונג װאָס איר װילט: רויִקע מוזיק פֿאַר אַ פֿרידלעכע אַטמאָספֿער, און אַ לעבעדיק ליד פֿון דער יוגנט צו הײבן דעם גײַסט.
 
-| Moment | Try | Tip |
+| מאָמענט | פּרוּװט | עצה |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| אױפֿשטיין | אַ באַקאַנט, פֿריילעך ליד | דאָס זעלבע ליד יעדן מאָרגן װערט אַ זאַנפֿטער זיגנאַל |
+| הױזאַרבעט | לעבעדיקע ליבלינג-לידער | מוזיק קען מאַכן אַרבעט װי חבֿרשאַפֿט |
+| מאָלצײַטן | װײַכע אינסטרומענטאַל-מוזיק | האַלט עס שטיל, כּדי עס זאָל נישט קאַמפֿן מיט עסן |
+| שפּעט בײַ טאָג | רויִקע, באַקאַנטע מוזיק בײַ גוטן ליכט | זעט [אומרו בײַ שפּעטן טאָג](/caregiving/late-day-restlessness/) |
+| שלאָפֿן-צײַט | לאַנגזאַמע, זאַנפֿטע מוזיק | מינערט צוזאַמען די לאַוטקײט און דאָס ליכט |
+| שפּעטע פֿאַזע | זייערע ליבste לידער, זייער זאַנפֿט | זיצט נאָענט און האַלט אַ האַנט |
 
-## Tips for a good experience
+## עצות פֿאַר אַ גוטע דערפֿאַרונג
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **שאַלט אָפּ אַנדערע רעש.** די Alzheimer's Association רעקאָמענדירט צו שליסן די פֿענצטער און טירן און אָפּשטעלן דעם טעלעװיזאָר, כּדי מוזיק זאָל זײַן דאָס איינציקע קול.
+- **האַלט די לאַוטקײט זאַנפֿט.** די מוזיק זאָל זײַן באַקװעם, נישט לאַוט. אױב דער מענטש טראָגט הערן-אַפּאַראַטן, פֿאַרזיכערט אײַך אַז זײ זענען אין און אַרבעטן; זעט [הערן](/brain-health/hearing/).
+- **פּאַסט אױף טרױעריקע אַסאָציאַציעס.** עטלעכע לידער ברענגען אַרױס טרױער, מלחמה אָדער אָנװער. אױב אַ ליד מאַכט אים טרױעריק, טרײסט אים און ענדערט עס.
+- **לאָזט אים פֿירן.** אױב מעגלעך, לאָזט דעם מענטש קלײבן די מוזיק, און אַקצעפּטירט אַ „ניין“.
+- **הערט אױף װען איר װילט.** פֿינף מינוט מוזיק איז אַ גוטע אַקטיװיטעט. אַזױ אױך איז עס גוט אָפּצושטעלן און שטיל צו זיצן.
 
-## What does the research say about music and dementia?
+## װאָס זאָגט די פֿאָרשונג װעגן מוזיק און דעמענץ?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+די באַװײַזן זענען באַגרענעצט. אַ [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) האָט אונטערזוכט 30 שטודיעס פֿון סטרוקטורירטע מוזיק-סעסיעס, מערסטנס מיט גרופּעס אין פֿלעגע-הײמען. עס האָט געפֿונען אַז די סעסיעס האָבן מסתמא אַ ביסל געמילדערט דעפּרעסיװע סימפּטאָמען, קאָמפּאַרירט מיט געװײנטלעכער זאָרג, אָבער קײן קלאָרער אײַנפֿלוס אויף אַגיטאַציע, װױלזײַן אָדער געדעכטניש און דענקען נישט געפֿונען, און קײן װירקונגען װאָס האָבן זיך דערהאַלטן נאָך די סעסיעס.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+מיר טײלן מוזיק װײַל עס איז אַ אָנגענעמע, נידעריק-דרוק װעג צו פֿאַרבringen צײַט צוזאַמען, נישט אַלס אַ באַהאַנדלונג. פֿאַר גרופּע-סעטינגס, זעט [גרופּע-אַקטיװיטעטן אין הײמען](/activities/care-home-groups/); פֿאַר ניצן מוזיק צוזאַמען מיט פֿאָטאָס און געשיכטעס, זעט [אָנדענק-אַקטיװיטעטן](/activities/reminiscence/).
