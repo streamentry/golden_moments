@@ -55,7 +55,7 @@ Ukuxilongwa kwe-dementia kungaletha imibuzo ngempilo, impilo yansuku zonke, usiz
 
 ## Yisiphi isinyathelo sokuqala esiwusizo?
 
-Khetha umbuzo owenza leli sonto libe lula. Ungaba ukuthola ukuthi ngubani ozohlela ukunakekelwa okulandelayo komuntu, ukubuza lapho kungatholakala khona ulwazi oluthembekile ngokuxilongwa kwakhe, noma ukukhomba omethembayo ongakhuluma naye. Umuntu angase afune ukuhola, acele omunye umuntu ukuthi amsize, noma alinde ngaphambi kokuthatha isinqumo.
+Khetha umbuzo owenza leli sonto libe lula. Kungaba ukuthola ukuthi ngubani ozohlela ukunakekelwa okulandelayo komuntu, ukubuza lapho kungatholakala khona ulwazi oluthembekile ngokuxilongwa kwakhe, noma ukukhomba omethembayo ongakhuluma naye. Umuntu angase afune ukuhola, acele omunye umuntu ukuthi amsize, noma alinde ngaphambi kokuthatha isinqumo.
 
 Ekuvakashelweni okulandelayo, bhalani imibuzo embalwa ndawonye uma umuntu efisa lokho. Ningabuza ukuthi ukuxilongwa kusho ukuthini, yini engakaqinisekiswa, nini kufanele kulandelwe, kanye nokuthi kufanele nixhumane ngubani uma kuvela enye inkinga. Celani udokotela achaze noma yiliphi igama noma iseluleko esingacacile. [Umhlahlandlela wethu wokuvakashela udokotela](/caregiving/doctor-visit-with-dementia/) unohlu olufushane lokulungiselela.
 
@@ -63,9 +63,9 @@ Umuntu akudingeki afunde konke mayelana ne-dementia ngesikhathi esisodwa. Khetha
 
 ## Ningatholaphi usizo?
 
-Buza umuntu ukuthi yisiphi isidingo sosizo esingamsiza nokuthi ufisa ukuba kubandakanyeke bani. Umngane noma ilungu lomndeni elethembekile lingaba yingxoxo enhle yokuqala. Abanye abantu bakhetha iqembu labasekeli, umeluleki, inhlangano yendawo ye-dementia noma ingxoxo nethimba lezokunakekela. Inketho elungile incike komuntu nalokho okutholakala eduze.
+Buzani umuntu ukuthi yisiphi isidingo sosizo esingamsiza nokuthi ufisa ukuba kubandakanyeke bani. Umngane noma ilungu lomndeni elethembekile lingaba yingxoxo enhle yokuqala. Abanye abantu bakhetha iqembu labasekeli, umeluleki, inhlangano yendawo ye-dementia noma ingxoxo nethimba lezokunakekela. Inketho elungile incike komuntu nalokho okutholakala eduze.
 
-Usizo lwabantu abaxiliwe kanye nomndeni nabangane. Umnakekeli angase adinge ukuphumula noma usizo emisebenzini yansuku zonke; umuntu angase afune ulwazi noma ithuba lokuhlangana nabanye abaphila ne-dementia. Lezi zidingo zingahluka. Buza ngaphambi kokuhlela iqembu, ukufaka isicelo sesikhathi, noma ukwabelana ngemininingwane yomuntu siqu.
+Usizo lwabantu abaxiliwe kanye nomndeni nabangane. Umnakekeli angase adinge ukuphumula noma usizo emisebenzini yansuku zonke; umuntu angase afune ulwazi noma ithuba lokuhlangana nabanye abaphila ne-dementia. Lezi zidingo zingahluka. Buzani ngaphambi kokuhlela iqembu, ukufaka isicelo sesikhathi, noma ukwabelana ngemininingwane yomuntu siqu.
 
 [Umhlahlandlela wethu wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) unemibono yokucela abanye ukuthi babelane ngosizo. Uma umuntu efuna usizo oluningi emini, imihlahlandlela [yezinhlelo zansuku zabantu abadala](/caregiving/choosing-adult-day-program-dementia/) kanye [nokunakekelwa ekhaya](/caregiving/choosing-in-home-dementia-care/) ichaza imibuzo okufanele uyibuze ngezinsizakalo zendawo.
 
