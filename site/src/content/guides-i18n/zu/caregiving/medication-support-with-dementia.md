@@ -40,7 +40,7 @@ Umhlahlandlela we-[Alzheimer's Association wokuphepha kwemithi](https://www.alz.
 
 ## Ngingafaka kanjani umuntu ohlelweni lwemithi?
 
-Buza ukuthi umuntu udinga siphi usizo. Angathanda isikhumbuzo, usizo lokuvula isitsha noma ilungu lomndeni elihlola uhlu. Uma umuntu enokuthile angakwenza ngokuzimela, gcina leyo mpumelelo icacile. Uhlelo olusha lwezikhumbuzo kufanele lxoxwe naye futhi lulungiswe uma lumphazamisa noma lumdida.
+Buza ukuthi umuntu udinga siphi usizo. Angathanda isikhumbuzo, usizo lokuvula isitsha noma ilungu lomndeni elihlola uhlu. Uma umuntu enokuthile angakwenza ngokuzimela, gcina leyo mpumelelo icacile. Uhlelo olusha lwezikhumbuzo kufanele kuxoxwe naye futhi lulungiswe uma lumphazamisa noma lumdida.
 
 Sebenzisa ulimi olucacile nolufanele abantu abadala. Uma umuntu athatha umuthi ngesikhathi esijwayelekile, xhumanisa isikhumbuzo nomkhuba ojwayelekile kuphela uma lihambisana nemiyalelo yekhemisi. Nika umuntu isikhathi sokuphendula. Ungamhlola, ungamhlazisi ngokukhohlwa noma ungaxabani ngokuthi useke wathatha isilinganiso.
 
