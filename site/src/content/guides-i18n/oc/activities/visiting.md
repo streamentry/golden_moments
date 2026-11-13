@@ -1,7 +1,7 @@
 ---
 title: "Visitar una persona amb demència en acuèlh o a l'espital"
 seoTitle: "Visitar una persona amb demència : qué far e qué portar"
-description: "Qué far quand visitatz una persona amb demència en acuèlh, en establiment de retirada o a l'espital : qué portar, activitats simplas, visitas cortas e bon departiment."
+description: "Qué far quand visitatz una persona amb demència en acuèlh o a l'espital : qué portar, activitats simplas, visitas cortas e bon departiment."
 section: activities
 order: 13
 updated: 2026-10-25

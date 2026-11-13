@@ -1,7 +1,7 @@
 ---
 title: "Exercici e santat cerebrala : çò que dis la recèrca"
 seoTitle: "Exercici e demència : çò que dis la recèrca"
-description: "Lo lien trobat per la recèrca entre l'activitat fisica e lo risc de demència, e de biais doces e plasents per las personas velhas e las personas amb demència de bolegar."
+description: "Lo lien que la recèrca troba entre l'activitat fisica e lo risc de demència, e de biais doces de bolegar, per las personas velhas o amb demència."
 section: brain-health
 order: 6
 updated: 2026-10-25

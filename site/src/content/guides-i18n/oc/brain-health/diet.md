@@ -1,7 +1,7 @@
 ---
 title: "Dietas MIND e mediterranèa e demència : çò que dis la recèrca"
 seoTitle: "Dieta MIND e demència : çò que dis la recèrca"
-description: "Çò que dis la recèrca sus las dietas MIND e mediterranèa e la demència, perqué un grand ensag a pas trobat de benefici clar, e cossí ajudar una persona a manjar plan."
+description: "Çò que dis la recèrca sus las dietas MIND e mediterranèa e la demència, perqué un grand ensag a pas trobat de benefici clar, e cossí ajudar a manjar plan."
 section: brain-health
 order: 5
 updated: 2026-10-25
