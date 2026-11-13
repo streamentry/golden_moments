@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Фаъолиятҳои берунӣ ва боғдорӣ барои шахсони бо деменсия"
+seoTitle: "Боғдорӣ ва фаъолиятҳои берунӣ барои деменсия"
+description: "Ғояҳои боғдорӣ ва фаъолияти берунӣ барои шахсони бо деменсия: гулзорҳои баланд, боғҳои зарфӣ ва бехатарӣ дар гармӣ ва гум шудан."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Боғдорӣ ва вақт дар берун метавонанд барои шахси бо деменсия фаъолияти ором ва ошно бошанд. Обдиҳӣ, гиёҳ дар зарф парвариш кардан, канда кардани гулҳои пажмурда ё гашти кӯтоҳ дар ҳавлии девордор кӯшиш кунед. Аз гулзорҳои баланд ё миз истифода баред, то касе зону нанишинад, асбобҳои тез ва гиёҳҳои заҳрнокро нагузоред, ба берун дар соати салқин бароед ва ҳамеша дар наздики шахс бимонед.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Корҳои содаи боғ мисли обдиҳӣ, кошти тухм дар зарф, бӯй кашидан аз гиёҳ ва чидани гул метавонанд истода ё нишаста иҷро шаванд."
+  - "Гулзорҳои баланд, зарфҳо ва миз бо сарпӯш боғро то сатҳи камар меоранд ва хатари афтиданро кам мекунанд."
+  - "Асбобҳои тез, гиёҳҳои хордор ё хашмовар ва ҳар чизи заҳрнокро дур нигоҳ доред. Бодиққат бошед, ки хок ба хӯрок гирифта нашавад."
+  - "Гармӣ барои калонсолон хатарнок аст. Дар соати барвақт ё дертар берун равед, об ва соя гиред ва ҳангоми нишонаи нороҳатӣ фавран ба дарун баред."
+  - "Бисёриҳо бо деменсия дар як лаҳза гум мешаванд. Дар берун бо шахс бимонед ва як акси нав ва шиносномаро дар даст доред."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Шахси бо деменсия кадом фаъолиятҳои боғдориро иҷро карда метавонад?"
+    a: "Обдиҳии гиёҳҳо, кошти тухм дар зарфҳои хурд, бӯй кашидан ва ламс кардани гиёҳҳо, канда кардани гулҳои пажмурда, канда гирифтани сабзавот, гул ороиш додан ва рӯфтани роҳ ҳама интихоби хуб аст. Дар дарун, зарфи гиёҳ дар тирезаи ошхона ё тарҳи хок дар миз бо сарпӯш хуб кор мекунад. Вазифаро аз рӯи он чизе интихоб кунед, ки шахс пештар дӯст медошт ва ҳоло ба осонӣ карда метавонад."
+  - q: "Чӣ тавр шахсро дар гарму офтоб бехатар нигоҳ дорам?"
+    a: "Вақти берунро барои субҳи салқин ё бегоҳ нақша кунед, онро кӯтоҳ нигоҳ доред ва аксар вақт об пешниҳод кунед. Соя, кулоҳи паҳнаки лабадор, либоси сабук ва крем аз офтобсӯзӣ интихоб кунед. Калонсолон ба бемории аз гармӣ хатари бештар доранд, ва гардиши сар, ошуфтагӣ, сардард ё дилбеҳузурӣ метавонанд нишонаҳои огоҳкунанда бошанд. Агар яке аз инҳоро мушоҳида кунед, фавран ба дарун баред ва худро бо об ва матои сард хунук кунед."
+  - q: "Агар онҳо одатан сарсаргардон бошанд, чӣ тавр берун рафтан мумкин аст?"
+    a: "Ҳамеша бо шахс бимонед, аз ҳавлии девордор ё боғи дарвозаи маҳкам истифода баред ва мутмаин шавед, ки шахс шиноснома ё браслети шиносномадор дорад. Акси нав дар даст доред. Агар шахс гум шавад, фавран ба полиси маҳаллӣ ё ба хадамоти фавқулодда занг занед; бе интизори муайяни дақиқаҳо. Ба хадамоти ёрӣ бигӯед, ки шахс деменсия дорад, дар охир дида шуда ва акси навро пешниҳод кунед."
+  - q: "Агар боғ надошта бошем, чӣ?"
+    a: "Якчанд зарф дар айвон, қуттии тирезаи гулдор ё тарҳи гиёҳҳо дар миз дар ошхона кифоя аст. Инчунин метавонед ба парк, боғи шаҳрӣ ё боғи иҷтимоӣ раванд. Нишастан дар берун ва гӯш кардани паррандагон низ фаъолияти берунӣ ҳисоб мешавад."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +39,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +50,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Барои бисёр одамон, боғ яке аз маконҳои ошнотарин аст. Кофтан, обдиҳӣ ва чидани гул маҳорати кӯҳнаро истифода мебаранд, ва берун будан ҳавои тоза, рӯшноӣ ва сурудхонии паррандагонро меорад. Институти миллии пиршавӣ парвариши гиёҳҳо, кошти гул ва сабзавот ва [сӯҳбат дар бораи инкишофи гиёҳҳо](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)-ро дар байни фаъолиятҳое номбар мекунад, ки одамони бо Алсгеймер метавонанд лаззат баранд. Ин саҳифа нақша дорад дар бораи он, ки чиро санҷед, чӣ гуна боғро барои истифода осонтар кунед ва чӣ гуна дар гарм, офтоб ва гум шудан бехатар монед.
 
-## What outdoor and gardening activities work well?
+## Кадом фаъолиятҳои берунӣ ва боғдорӣ хуб кор мекунанд?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Беҳтарин корҳо содда, ошно ва нишаста ё истода иҷрошаванда ҳастанд. Интихоб кунед, ки шахс пештар чиро дӯст медошт.
 
-### In the garden
+### Дар боғ
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Обдиҳӣ.** Як чойники хурди сабук ё шланги мулоим ва якчанд зарф дар дасрас. Обдиҳӣ оғоз ва анҷоми равшан дорад ва хато кардан душвор аст.
+2. **Кошти тухм дар зарфҳо.** Бунёди Алсгеймер дар Амрико пешниҳод мекунад, ки тухмро дар зарфҳои хурд кошта, [онро ба воя омадан тамошо кунед](https://alzfdn.org/dementia-activity-gardening/). Тухмҳои калон мисли лӯбиё, офтобпараст ё нахӯд осонтар ба даст гирифта мешаванд.
+3. **Канда кардани гулҳои пажмурда.** Канда кардани гулҳои пажмурда бо даст вазифаи мулоим ва такрорӣ аст. Гиёҳҳои бе хорро интихоб кунед.
+4. **Канда гирифтани сабзавот ё гиёҳҳо.** Помидори хурд, лӯбиё ва гиёҳҳо барои канда гирифтан осон ва барои чашидан хуш аст. Барои хӯрок ҳангоми нисфирӯзӣ ба дарун оред.
+5. **Бӯй кашидан ва ламс кардани гиёҳҳо.** Розмарин, наъно ва лаванда бӯйҳои қавӣ ва хуш доранд. Баргро байни ангуштон молед ва ба онҳо пешниҳод кунед.
+6. **Ҷорӯб кардани фарш ё айвон.** Ҷорӯби сабук дар сатҳи ҳамвор ва хушк, агар мувозинат устувор бошад.
+7. **Пур кардани хӯрокдони паррандагон.** Сипас якҷоя нишинед ва тамошо кунед, ки кӣ меояд.
 
-### Indoors, when going out is not possible
+### Дар ҳолати аз дарун кардан
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Боғчаи гиёҳи тирезаи ошхона** аз райҳон, ҷаъфарӣ ё пиёзчаи сабз.
+- **Кор дар зарф дар миз бо сарпӯш.** Бунёди Алсгеймер дар Амрико ба истифодаи табақҳои хӯрокхӯрии ошхонаи оммавӣ барои нигоҳ доштани хок дар як ҷо ва ҳаракат додани хок бо пиёлаҳои хурд пешниҳод мекунад.
+- **Гулороиш** бо гулҳои бурида ва сабзаҳо аз ҳавлӣ ё мағозаи хӯрокворӣ.
+- **Гулҳои хушккардашуда** аз як даста, баъдтар бар корт часпонда. Нигаред ба [ҳунарҳо ва ҳунармандӣ](/activities/arts-and-crafts/) барои бештар.
+- **Сохтани халтачаҳои бӯйдор аз лаванда ё гули садбарг,** ғояи дигари Бунёд, ки бӯйи боғро дар хона нигоҳ медорад.
 
-### Getting out and about
+### Берун рафтан
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Гашти кӯтоҳ** дар атрофи ҳалқа, боғ ё маркази боғдорӣ, бо суръати оҳиста ва ҷои нишаст.
+- **Берун нишастан** дар айвон ё нимкат барои гӯш кардани паррандагон ва ҳис кардани насим. Ин худ фаъолияти пурра аст.
+- **Боздид аз боғи ҷамъиятӣ** дар вақти ором. Хадамоти миллии тандурустии Бритониё қайд мекунад, ки баъзе ҷойҳо боғҳои ҳиссӣ бо гиёҳҳои бӯйдор, сатҳҳои гуногун ва обиҳо доранд.
+- **Хӯрондани мурғобиён ё тамошои паррандагон** дар ҳавзи маҳаллӣ, бо масофаи бехатар аз канори об.
 
-## How do I make a garden easier to use?
+## Чӣ гуна боғро барои истифода осонтар кунам?
 
-Bring the garden up to the person, not the other way around.
+Боғро ба шахс наздик кунед, на баръакс.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Гулзорҳои баланд ё зарфҳои баланд** дар сатҳи камар, то зону ё хам шудан лозим набошад.
+- **Зарфҳо дар миз** барои онҳое, ки аробачаи маъюбӣ доранд ё нишастанро афзал медиҳанд.
+- **Роҳҳои васеъ ва ҳамвор** бе сангҳои ларзон ё шлангҳое, ки дар онҳо хобидаанд, хатари афтиданро кам мекунанд.
+- **Нишастгоҳҳо бо дастак ва соя** дар роҳ, то истироҳат ҳамеша имконпазир бошад.
+- **Асбобҳо бо дастаи ғафс ва мулоим,** ки осон гирифта шаванд. Қайчиҳои боғдорӣ, корд ва ҳар чизи тезро нагузоред.
+- **Минтақаи бо девор ва дарвозаи маҳкам,** ки шахс озодона омӯхта метавонад, дар ҳоле ки шумо наздик мемонед.
 
-## Which plants should I avoid?
+## Кадом гиёҳҳоро набояд интихоб кунам?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Гиёҳҳоеро интихоб кунед, ки ламс кардан бехатар бошанд ва беҳтараш агар чашида шаванд ҳам бехатар бошанд. Бунёди Алсгеймер дар Амрико маслиҳат медиҳад, ки гиёҳҳоеро истифода баред, ки одатан пӯстро нороҳат намекунанд, аллергияро санҷед ва барои касе, ки хок ба хӯрок гирифта мешавад, назорат кунед. Маслиҳати бехатарии хонагии Институти миллии пиршавӣ гиёҳҳои заҳрнокро дур кардан ё қулф кардан дар бар мегирад.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Аз садбаргҳои хордор, кактусҳо ва гиёҳҳое, ки шираи пӯстро мехарошанд, худдорӣ кунед.
+- Пеш аз шинондан ҳар гиёҳе, ки ноаён аст, бо маркази назорати заҳролудшавӣ ё мағозаи маҳаллии боғдорӣ санҷед.
+- Гиёҳҳои ошнои дӯстдошта эҳсоси хуш бармеангезанд. Бунёд садбарг ва кактуси Мавлуди Исоро ҳамчун мисол меорад. Навъҳои бе хорро интихоб кунед.
+- Кӯдҳои минералӣ, пеститсидҳо ва алафкушҳоро қулф нигоҳ доред ва онҳоро дар минтақаҳое, ки шахс метавонад ба онҳо дастрасӣ дошта бошад, истифода набаред.
 
-## How do I stay safe in the heat and sun?
+## Чӣ гуна дар гарм ва офтоб бехатар бошам?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Вақти берунро мувофиқи ҳаво ба нақша гиред. Институти миллии пиршавӣ шарҳ медиҳад, ки калонсолон ба [бемориҳои марбут ба гармӣ](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) хатари баланд доранд, қисман аз он ки бадан ба тағйирёбии ҳарорат камтар мутобиқ мешавад ва баъзе доруҳо таъсири гармиро ба бадан мерасонанд.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Барвақт ё дертар берун равед.** Дар моҳҳои гарм аз миёнаи рӯз худдорӣ кунед. Индекси гармиро санҷед, на танҳо ҳароратро.
+- **Тез-тез об пешниҳод кунед.** Интизор нашавед, ки шахс гӯяд ташнааст. Дар гармӣ спиртӣ ва нӯшокиҳои кофеиндор пешгирӣ кунед.
+- **Либос интихоб кунед.** Либоси сабук ва ранги рӯшан, кулоҳи паҳнаки лабадор ва айнаки офтобӣ.
+- **Аз крем истифода баред.** Институти миллии пиршавӣ пешниҳод мекунад, ки крем бо ҳифзи аз офтоб дар дараҷаи 15 ё баландтар ва такрор кардани он дар тӯли рӯз истифода шавад.
+- **Соя интихоб кунед.** Миз барои зарфҳоро зери дарахт ё чатр гузоред.
+- **Кӯтоҳ нигоҳ доред.** Як гашти кӯтоҳ берун метавонад кифоя бошад, хусусан дар рӯзҳои гарм.
+- **Нишонаҳои огоҳкунандаро тамошо кунед.** Институти миллии пиршавӣ сардард, ошуфтагӣ, гардиши сар ё дилбеҳузуриро ҳамчун нишонаҳои имконпазири бемории гармӣ номбар мекунад. Шахси бо деменсия шояд нагӯяд, ки худро нохуш ҳис мекунад, пас чеҳра ва рафтори онро тамошо кунед. Ба дарун баред, бо об ва матои сард хунук кунед ва агар зуд беҳтар нашуд, кӯмаки тиббӣ гиред. Зарбаи гармӣ, бо нишонаҳое мисли беҳушӣ, ошуфтагӣ ё пӯсти хушку сурх, ҳолати фаврии тиббист: ба хадамоти фавқулоддаи маҳаллӣ занг занед.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Ҳавои сард низ муҳим аст. Дар зимистон вақти берунро кӯтоҳ нигоҳ доред ва боварӣ ҳосил кунед, ки дастҳо ва пойҳо гарм ва хушк бошанд.
 
-## How do I handle wandering when we go outside?
+## Чӣ гуна сарсаргардониро ҳангоми берун рафтан ҳал кунам?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Ҳар вақте ки шахс берун аст, бо ӯ бимонед. Ассотсиатсияи Алсгеймер мегӯяд, ки [шаш аз 10 нафар бо деменсия](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ҳадди аққал як бор сарсаргардон мешаванд ва бисёриҳо зиёда аз як бор. Ин метавонад дар ҳар марҳила рӯй диҳад.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Маслиҳатҳои [сарсаргардонӣ ва гум шуданро](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) аз Институти миллии пиршавӣ ин ҳоро дар бар мегиранд:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Мутмаин шавед, ки шахс шиносномаи дастӣ ё браслети тиббӣ бо номи худ, нишонӣ ва рақами телефони шумо дорад, ё либосҳоро нишон гузоред.
+- Акси ё видеои навро нигоҳ доред.
+- Ба ҳамсоя огоҳ кунед, ки шахс шояд сарсаргардон шавад.
+- Ҳавлиро бо девор ва дарвозаи маҳкам муҳофизат кунед.
+- Шахсеро, ки таърихи сарсаргардонӣ дорад, бе назорат нагузоред.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Ассотсиатсияи Алсгеймер инчунин пешниҳод мекунад, ки минтақаҳои дохилӣ ва берунӣ созед, ки бехатар кашф кардан мумкин бошад, ва фаъолиятро барои вақте нақша кунед, ки бекароронӣ бештар аст. Пиёдагардии ором дар боғи бехатар, ки девор дорад, барои бекароронии охири рӯз мувофиқ аст. Роҳнамои мо дар бораи [бекароронии охири рӯз](/caregiving/late-day-restlessness/)-ро бинед.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Агар шахс гум шавад, ҷойҳои бехатари наздиковро санҷед ва ҳамзамон фавран ба полиси маҳаллӣ ё хадамоти фавқулодда занг занед. Пеш аз гузориш то муайян кардани дақиқаҳо интизор нашавед. [Мақолаи маҷаллаи Вазорати адлияи ИМА дар бораи тафтишоти гум шудани шахс](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) аз соли 2021 мегӯяд, ки муассисаҳои қонун набояд давраи муайяни интизорӣ талаб кунанд ва нишонаҳои ба деменсия монандро ҳамчун хатари баланд номбар мекунад. Тартиби гузориш дар маҳалҳо фарқ мекунад. Вақт ва ҷойи охирин дидашавӣ, либоси шахс ва акси навро мубодила кунед. Дастури посухдиҳандагони маҳаллиро пайравӣ кунед; дар ҷойҳои ноамн танҳо ҷустуҷӯ накунед.
 
-## How do I adapt gardening as things change?
+## Чӣ гуна боғдориро тағйир диҳам?
 
-| If this has become hard | Try this instead |
+| Агар ин душвор шуда бошад | Ба ҷои он инро кӯшиш кунед |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Кошти тамоми гулзор | Як тухм дар як зарф |
+| Алафро аз гул фарқ кардан | Обдиҳӣ ё канда гулҳои пажмурдаи возеҳ |
+| Гаштан дар боғ | Нишастан дар миз бо табақи хок ва ниҳол |
+| Берун рафтан умуман | Зарфи гиёҳ дар миз ё нишастан назди тиреза |
+| Ягон вазифа | Берун нишастан якҷоя, гӯш кардан ва дидан |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Баъзеҳо мехоҳанд шуморо дар кор тамошо кунанд. Институти миллии пиршавӣ қайд мекунад, ки иҷозат додан ба шахс барои танҳо тамошо кардан кор аст, агар ин чизест, ки онҳо дӯст доранд.
 
-## When should we head inside?
+## Кай ба дарун баргардем?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Вақте шахс хаста, гарм, сард, ноором ё омодаи хотима ба назар мерасад, ба дарун дароед. Даҳ дақиқаи кӯтоҳ ва хуш беҳтар аз нисфирӯзии дароз аст, ки бо ноороми ба охир мерасад. Қатъ кардани барвақт натиҷаи хуб аст.
 
-## Bring the garden indoors on screen
+## Боғро дар экран ба хона оред
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Дар рӯзҳои борон, [Якҷоя ҷудо кардан](/games/sort-together/) як сабади боғ барои ҷудо кардани тасвирҳо дорад, ва [Кортҳои сӯҳбат](/games/conversation-cards/) саволҳои кушоде дорад, ки метавонанд ба ҳикояҳои боғ оварда расонанд. Агар аз гармӣ шитобон ба дарун оед, [Нафаскашии ором](/games/calm-breathing/) таваққуфи оҳиста ва ороме пешниҳод мекунад, ки шумо якҷоя ҳам метавонед. Барои бештар ғояҳо, ки аз ламс, бӯй ва садо сохта шудаанд, нигаред ба [роҳнамои фаъолиятҳои ҳиссӣ](/activities/sensory/).

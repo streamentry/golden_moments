@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Фаъолиятҳои занг ва видеозанг барои шахси бо деменсия"
+seoTitle: "Фаъолиятҳои видеозанг барои деменсия"
+description: "Фаъолиятҳои видеозанг ва телефон барои оилаи дур аз шахси бо деменсия: нишон додан, хондан, сурудхонӣ ва бозӣ дар экран."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Занг бо шахси бо деменсия беҳтар мегузарад, вақте ки кӯтоҳ, мунтазам ва дар атрофи чизе сохта шудааст, ки якҷоя иҷро кунанд, мисли нишон додани ҳайвон ё боғ, нигоҳ кардани аксҳо, хондани баланд, сурудхонии сурудҳои дӯстдошта ё бозии мулоим дар экрани мубодилашуда. Агар тавонед, дар як вақти ҳар рӯз занг занед, як овоз дар як вақт нигоҳ доред ва аз касе дар ҷойи шахс хоҳиш кунед, ки кумак кунад.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Фаъолият шакли занг медиҳад ва фишорро аз сӯҳбат мегирад. Як чизи соддаеро нақша кунед, ки мубодила кунед."
+  - "Занги кӯтоҳ ва мунтазам дар як вақти рӯз аксар вақт аз занги дароз ва гоҳ-гоҳе беҳтар кор мекунад."
+  - "Як нафар дар як вақт гап мезанад. Занги гурӯҳӣ бо сӯҳбати якбора пайгирӣ душвор аст, хусусан бо норасоии шунавоӣ."
+  - "Кумаки дар ҷой метавонад дастгоҳро танзим кунад, дар паҳлӯи шахс бинишинад ва барои ҳар бозӣ ё акс «дастҳо» бошад."
+  - "Агар занг имрӯз кор накунад, онро мулоимона хотима диҳед. Фардо дубора кӯшиш кардан хуб аст."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Дар видеозанг бо шахси бо деменсия чӣ кор кардан мумкин аст?"
+    a: "Як фаъолияти содда нақша кунед: боғ, ҳайвон ё ошхонаи худро нишон диҳед; аксҳои кӯҳнаро якҷоя тамошо кунед; як шеъри кӯтоҳ ё номаро баланд хонед; сурудеро, ки дӯст медоранд, бихонед; ҳамон дастурро дар ҳамон вақт пазед ё бозии мулоими тасвирро дар экрани мубодилашуда бозед. Фаъолиятҳо ба занг диққат медиҳанд, то шахс маҷбур набошад сӯҳбатро нигоҳ дорад."
+  - q: "Видеозанг чанд вақт бояд давом кунад?"
+    a: "Аксар вақт аз он ки фикр мекунед кӯтоҳтар. Чанд дақиқаи гарм метавонад кифоя бошад, хусусан агар шахс зуд хаста шавад. Занги мунтазам дар як вақти рӯз аксар вақт аз дарозии ҳар занг муҳимтар аст."
+  - q: "Агар онҳо аз видеозанг ошуфта ё ноором шаванд, чӣ?"
+    a: "Баъзеҳо рӯйи дар экран будани касеро мушкил меёбанд. Занги оддии телефонӣ, паёми видеоии сабтшуда, ки кумакгар дар лаҳзаи ором пахш мекунад, ё корт ва аксҳо дар почта санҷед. Агар занг бад гузарад, онро мулоимона қатъ кунед ва рӯзи дигар ё дар вақти дигар кӯшиш кунед."
+  - q: "Чӣ тавр метавонам модарам видеозанг кунад, вақте ки телефонро истифода карда наметавонад?"
+    a: "Аз аъзои оила, кумаки хона ё кормандони муассисаи нигоҳубин хоҳиш кунед, ки занги оғозро кунанд ва дастгоҳро нигоҳ доранд ё ба чизе такя диҳанд. Бисёре аз муассисаҳои нигоҳубин ба оилаҳо барои видеозанг кӯмак мекунанд, пас пурсед, ки чӣ пешниҳод мекунанд. Планшет дар пойгоҳ, бо экрани калон ва садои баланд, барои ҳама осонтар аст."
+  - q: "Оё метавонем дар видео бозӣ кунем?"
+    a: "Бале. Осонтарин роҳ ин аст, ки як нафар экрани худро дар барномаи видео мубодила кунад, дар ҳоле ки дигаре ба онҳо мегӯяд, ки кадом тасвирро пахш кунанд. Ё кумакгар дар ҷой ҳамон бозиро дар планшет мекушояд ва барои шахс пахш мекунад, дар ҳоле ки шумо онҳоро роҳнамоӣ мекунед. Бозиҳоро бо вақтсанҷ ё холгузорӣ интихоб кунед."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Дур зиндагӣ кардан аз шахси бо деменсия метавонад ноумедкунанда бошад. Занги телефонӣ ва видеоӣ оғӯшро иваз намекунанд, аммо вақте ки хуб ташкил шаванд, метавонанд лаҳзаҳои воқеии пайвастшавӣ оранд. Ҳила ин аст, ки сӯҳбати муқаррарии ҳолпурсӣ накунед, балки чизи соддаеро нақша кунед, ки мубодила шавад. Ин саҳифа фаъолиятҳоеро фаро мегирад, ки дар видео ва телефон кор мекунанд, чӣ гуна занг ташкил кардан ва кумакгари дар ҷой чӣ кор карда метавонад.
 
-## Why plan an activity for a call?
+## Чаро барои занг фаъолият нақша кунем?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Фаъолият ба занг шакл медиҳад. «Ҳолатон чӣ аст? Имрӯз чӣ кардед?» аз шахс талаб мекунад, ки ба ёд оранд ва гузориш диҳанд, ки метавонад душвор ва стрессӣ бошад. «Бин, помидорҳо пухтаанд» аз онҳо чизе талаб намекунад.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Ассотсиатсияи Алсгеймер қайд мекунад, ки сӯҳбат бо гурӯҳҳои калонтар тавассути видео душвор аст ва [илова кардани сохтор ба занг](https://www.alz.org/help-support/caregiving/holidays)-ро бо чизҳое мисли сурудхонӣ ё мубодилаи аксҳо тавсия медиҳад.
 
-## What activities work on a video call?
+## Кадом фаъолиятҳо дар видеозанг кор мекунанд?
 
-### Show and tell
+### Нишон додан ва гуфтан
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Ҷаҳони худро ба онҳо биёред. Камераро оҳиста дар боғи худ гардонед, сагро муаррифӣ кунед, нишон диҳед, ки чӣ пазед, расми набераатонро нишон диҳед ё тирезаро ба барфи афтанда нишон диҳед. Чизҳоеро, ки мебинед, бо калимаҳои содда тавсиф кунед ва барои вокуниши онҳо таваққуфҳо гузоред. Саволҳо лозим нест.
 
-### Look at photos together
+### Нигоҳ кардани аксҳо якҷоя
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Як акси кӯҳнаро ба камера нишон диҳед ё экрани худро мубодила кунед ва чанд аксро як-як нишон диҳед. Дар бораи он чизе, ки мебинед, сӯҳбат кунед: «Бинед, кулоҳи бобоямро.» «Кӣ ин аст?» ё «Ёд доред?»-ро нагӯед. Агар шахс касеро нодуруст ном барад, ба ӯ розӣ шавед. Барои пурсишҳои мулоим [роҳнамои хотирот](/activities/reminiscence/)-и моро бинед.
 
-### Read aloud
+### Хондан баланд
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Як шеъри кӯтоҳ, забур, китоби дӯстдоштаи кӯдакон барои набера дар ҳамон занг, номае аз хеш ё саҳифае аз китоби дӯстдоштаашон хонед. Хондани баланд ба шахс чизи оромест барои гӯш кардан, бе ниёз ба ҷавоб.
 
-### Sing or listen to music together
+### Сурудхонӣ ё гӯш кардани мусиқӣ якҷоя
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Сурудеро бихонед, ки онҳо хуб медонанд, ё сабти дӯстдоштаашонро дар тарафи худ бозед. Барои бисёриҳо ҳамроҳ хондани суруд аз сӯҳбат осонтар аст. Нигаред ба [роҳнамои фаъолиятҳои мусиқӣ](/activities/music/).
 
-### Cook or bake at the same time
+### Пухтан ё пухтани ҳамзамон
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки занги видеоӣ барои пухтани дастури махсус ба нақша гирифта шавад. Занг дар ҳарду ошхона танзим кунед. Шахс дар ҷой шояд ҳамзамон бичашад ё ҳаракат диҳад, дар ҳоле ки шумо дастури пухтани кӯҳнаи онҳоро пайравӣ мекунед.
 
-### Watch something together
+### Якҷоя чизе тамошо кунед
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ассотсиатсия инчунин пешниҳод мекунад, ки филми дӯстдоштаро дар як вақт аз хонаҳои алоҳида тамошо кунед ва тавассути телефон ё видео сӯҳбат кунед. Барои шахси бо деменсия, клипи кӯтоҳ, эпизоди кӯҳнаи телевизион ё бозии футбол метавонад аз филми пурра беҳтар кор кунад.
 
-### Play a gentle game on a shared screen
+### Бозии мулоим дар экрани мубодилашуда
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Барномаҳои бисёри видеозанг имкон медиҳанд, ки экранатонро мубодила кунед. Шумо бозиро мекушоед ва пахш мекунед; шахс ба шумо мегӯяд ё ишора мекунад, ки кадом тасвирро интихоб кунед. Ё кумакгар дар ҷой бозиро дар планшет мекушояд ва барои онҳо пахш мекунад, дар ҳоле ки шумо сӯҳбат мекунед.
 
-Games that work well this way:
+Бозиҳое, ки ин тавр хуб кор мекунанд:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Пурра кардани зарбулмасал](/games/finish-the-saying/):** шумо зарбулмасали ошноро мехонед, онҳо охирашро мегӯянд ва як ишораи сӯҳбат меояд.
+- **[Ҷуфтҳои тасвир](/games/picture-pairs/):** бозии мулоими мувофиқат бо тасвирҳои калон, ки метавонанд намоён бошанд, бе вақтсанҷ ва бе холгузорӣ.
+- **[Кортҳои сӯҳбат](/games/conversation-cards/):** тасвир ва даъвати кушод барои сӯҳбат якҷоя.
+- **[Ҷуфтҳои акс](/games/photo-pairs/):** бозии мувофиқат аз аксҳое, ки шумо дар дастгоҳи худ интихоб мекунед. Аксҳо дар браузери шумо мемонанд ва шахс онҳоро тавассути экрани мубодилашудаи шумо мебинад.
 
-### Recorded messages
+### Паёмҳои сабтшуда
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Вақте занги зинда душвор аст, видеои кӯтоҳ сабт кунед: салом, сурудеро, як гашт дар ҳавлии худ. Кумакгар метавонад онро дар лаҳзаи ором пахш кунад, ҳар қадар ки шахс лаззат барад. Ассотсиатсияи Алсгеймер сабт ва фиристодани лаҳзаҳои махсусро, мисли кӯдакон, ки тӯҳфаҳоро мекушоянд, зикр мекунад.
 
-## What about plain phone calls?
+## Занги оддии телефонӣ чӣ?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Занги телефонӣ ҳанӯз муҳим аст. Деменсияи Австралия пешниҳод мекунад, ки [дар як вақти ҳар рӯз занг занед](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ва шитоб накунед, зеро шахсони бо деменсия метавонанд барои иштирок вақт гиранд. Дар телефон:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Ҳамон лаҳза номи худ ва муносибати худро гӯед: «Салом, падар, ман Ҷенни, духтаратон ҳастам.»
+- Оҳиста гап занед, бо ҷумлаҳои кӯтоҳ, як фикр дар як вақт.
+- Хабар диҳед, на пурсед: «Шаби гузашта дигчаи гӯшти пухтаи шуморо пухтам.»
+- Як шеъри кӯтоҳ хонед ё як оятро аз суруди дӯстдошта бихонед.
+- Занги кӯтоҳ нигоҳ доред ва бо як ҷумлаи гарм хотима диҳед.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Деменсияи Австралия инчунин қайд мекунад, ки видеозанг вақте ки сӯҳбат душвор мешавад, кӯмак мекунад, зеро шахс рӯи шуморо мебинад. Агар занги телефонӣ ногуворо шавад, видеоро кӯшиш кунед, ё баръакс.
 
-## How do I set up a video call that works?
+## Чӣ гуна занги хубро ташкил кунем?
 
-**Before the call:**
+**Пеш аз занг:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Вақти мунтазам интихоб кунед,** вақте ки шахс одатан бароҳат аст, ва ба он часпед. Тартиб кумак мекунад.
+2. **Бо кумакгари дар ҷой ҳамоҳанг шавед.** Паёми кӯтоҳ рӯзи пеш ба онҳо барои нақшакашӣ кумак мекунад.
+3. **Дастгоҳро санҷед.** Планшет дар пойгоҳ аз телефон, ки дар даст нигоҳ дошта мешавад, осонтар аст. Мутмаин шавед, ки зарядаш пур аст, экран равшан ва садо кофист. Агар барнома субтитр дошта бошад ва шахс хуб хонад, онҳоро фаъол кунед.
+4. **Як фаъолият нақша кунед** ва ҳама чизро омода гузоред.
 
-**During the call:**
+**Ҳангоми занг:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Дар наздикии камера нишинед** дар нури хуб, рӯ ба тиреза, на бо он ки дар пушти шумо бошад.
+- **Худро ҳар бор муаррифӣ кунед,** бо ном ва муносибат.
+- **Як овоз дар як вақт.** Ассотсиатсияи Алсгеймер қайд мекунад, ки сӯҳбати якбора барои одамони бо деменсия ва одамони бо нуқсони шунавоӣ душвор аст. Агар якчанд хеш ҳамроҳ шаванд, навбат гиред ё онро ба ду-се нафар нигоҳ доред.
+- **Як савол дар як вақт пурсед.** Иттифоқи парасторони оила [саволҳои соддаи бо ҷавоби ҳа ё не](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) пешниҳод мекунад ва, вақте ки метавонед, интихобҳоро нишон медиҳад.
+- **Таваққуфҳои дароз иҷозат диҳед.** Барои ҷавоб интизор шавед. Агар онҳо дар ҷустуҷӯи калима бошанд, метавонед калимаеро пешниҳод кунед.
+- **Чеҳра ва овози худро истифода баред.** Табассум кунед, сар ҷунбонед ва оҳанги гармро нигоҳ доред. Ифода аксар вақт аз калимаҳо бештар мегӯяд.
+- **Нақл накунед.** Агар шахс чизе бигӯяд, ки дуруст нест, бигзоред.
 
-**Ending the call:**
+**Хотима додани занг:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Пеш аз хастагии шахс хотима диҳед, беҳтараш дар лаҳзаи хуш.
+- Ҳар бор як хайрбодии якхела истифода баред: «Фардо нисфирӯзӣ занг мезанам. Туро дӯст медорам.»
+- Онро дароз накунед.
 
-## Tips for the helper on site
+## Маслиҳат барои кумакгари дар ҷой
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Агар шумо ҳамсар, кумакгар, хоҳару бародар ё кормандеро, ки дар занг кумак мекунед, ҳастед, шумо онро имконпазир мекунед.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Як гӯшаи ором танзим кунед.** Телевизорро хомӯш кунед ва дарро пушед.
+- **Занги худро худатон оғоз кунед,** сипас дастгоҳро дар планшет дар пойгоҳ ба шахс диҳед ё дар сатҳи чашм нигоҳ доред.
+- **Дар паҳлӯяшон нишинед, на рӯ ба рӯ.** Ҳузури шумо осоишбахш аст. Агар лозим бошад, оҳиста ишора кунед: «Бинед, ин Ҷенни аст.»
+- **Ҳамчун «дастҳо» бошед.** Аксҳоро баланд кунед, бозиро пахш кунед, планшетро гардонед, то ҳуҷраро нишон диҳед.
+- **Хастагӣ ё ноороми онро мушоҳида кунед** ва ба занггиранда хабар диҳед, ки вақти хотима додан расид.
+- **Ба занггиранда нақл кунед, ки чӣ кор кард.** «Ӯ саге дӯст дошт» ба нақшакашии занги дигар кумак мекунад.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Институти миллии пиршавӣ пешниҳод мекунад, ки хешовандони дур ба калонсолон кумак кунанд, то [фаҳмидани имкониятҳои телефонашонро](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), аз ҷумла видеозанг. Дар марҳилаҳои баъдӣ, кумакгар одатан бояд дастгоҳро пурра идора кунад. Ин ҳам хуб аст.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Агар шахс дар хонаи нигоҳубин зиндагӣ кунад, Бунёди Алсгеймер дар Амрико пешниҳод мекунад, ки бипурсед, ки оё муассиса ба оилаҳо барои видеочатҳо кӯмак мекунад. Бунёд инчунин аз мубодилаи аксҳо ба ҳар ду тараф бо кормандони нигоҳубин ва фиристодани ширинӣ ё тасаллии дӯстдошта, пас аз санҷидани он ки муассиса иҷозат медиҳад, ёд мекунад.
 
-## What if the call doesn't go well?
+## Агар занг бад гузарад, чӣ?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Баъзе занг мушкил, суст ё ноором мешаванд. Ин гуноҳи шумо нест ва маънои онро надорад, ки занг арзиш надорад.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Агар шахс аз экран ҳайрон ба назар расад, ба занги телефонӣ ё паёми сабтшуда гузаред.
+- Агар онҳо ноором шаванд, эҳсоси онҳоро тасдиқ кунед, чизи тасаллибахш гӯед ва мулоимона қатъ кунед.
+- Агар занг дар як вақти рӯз зуд бад гузарад, вақти дигарро санҷед.
+- Агар онҳо фикр кунанд, ки шумо касе дигаред, бо меҳрубонӣ розӣ шавед.
 
-It is fine to end early. A short, warm call is a good outcome.
+Қатъи барвақти занг хуб аст. Занги кӯтоҳ ва гарм натиҷаи хуб аст.
 
-## Between calls
+## Байни занг
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Дар дигар роҳҳо ҳузур дошта бошед. Деменсияи Австралия пешниҳод мекунад, ки корт, почта, аксҳо ё тӯҳфаҳои хурд фиристед. Корти ҳафтаинаи бо як акси калон ва як ёддошти кӯтоҳ метавонад борҳо хонда шавад. [Кортҳои сӯҳбат](/games/conversation-cards/)-и чопшаванда, ки ба кумакгар почта мешаванд, барои занги оянда мавзӯи омодаро медиҳанд.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Барои маслиҳат дар бораи интихоб ва танзими планшет нигаред ба [планшетҳо ва экранҳо](/caregiving/tablets-and-screens/). Барои вақти шахсан, роҳнамои мо дар бораи [боздид](/activities/visiting/)-ро бинед.
