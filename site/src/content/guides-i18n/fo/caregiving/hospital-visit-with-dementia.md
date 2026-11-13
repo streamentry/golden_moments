@@ -72,7 +72,7 @@ Fylg boðunum frá klinisku starvsfólkunum. Áðrenn tú hjálpir við mati, dr
 
 Sig sjúkrasystrini ella læknanum skjótt frá, um persónurin brádliga verður meira vilsin ella ber seg nógv øðrvísi enn vanligt. Ger ikki av, at hetta bert er demens. [Leiðbeiningin frá NHS um brádliga vilsni](https://www.nhs.uk/symptoms/confusion/) sigur, at brádlig vilsni krevur beinanvegin lækna hjálp.
 
-Sig, nær broytingin byrjaði, og hvat tú hevur lagt til merkis. Ein persónur kann vísa ónøgd við broytingum í andlitsbragdi, rørslu, svevni ella at eta, sjálvt um viðkomandi ikki kann greiða frá tí. Bið røktarteymið meta um broytingina heldur enn at royna sjálv(ur) at gera av, hvat tað er.
+Sig, nær broytingin byrjaði, og hvat tú hevur lagt til merkis. Ein persónur kann vísa ónøgd við broytingum í andlitsbragdi, rørslu, svevni ella at eta, sjálvt um viðkomandi ikki kann greiða frá tí. Bið røktarteymið meta um broytingina heldur enn at royna sjálv at gera av, hvat tað er.
 
 ## Hvussu kann eg stuðla persóninum undir sjúkrahúsvistini?
 
@@ -86,7 +86,7 @@ Sjúkrahúsvistir kunnu eisini trøta røktarfólk. Tryggja, at ein annar áliti
 
 Bið um eina skrivaða útskrivingarætlan. Kanna, at hon greiðir frá eftirfylgjandi tíðarbókingum, røktaruppgávum, broytingum í heilivági og hvønn tú kanst seta teg í samband við, um ein trupulleiki kemur upp. Um leiðbeiningar eru óljósar, bið útskrivingarteymið greiða frá teimum, áðrenn tit fara.
 
-Tosa um, hvat stuðul verður neyðugur heima. Hugsa um, hvør hjálpir við máltíðum, rørslu, tváttingum, tíðarbókingum og nýggjum tólum ella heimatænastum. Ver ærlig(ur) um, hvat familja og vinir kunnu geva. Spyr útskrivingarskipara sjúkrahússins um aðrar tænastur á staðnum, um ætlanin kennist torfør at klára.
+Tosa um, hvat stuðul verður neyðugur heima. Hugsa um, hvør hjálpir við máltíðum, rørslu, tváttingum, tíðarbókingum og nýggjum tólum ella heimatænastum. Ver ærlig um, hvat familja og vinir kunnu geva. Spyr útskrivingarskipara sjúkrahússins um aðrar tænastur á staðnum, um ætlanin kennist torfør at klára.
 
 Eftir heimkomu, set tíð av at hvíla og venja seg aftur til kendar rútinur. Deil skrivaðu ætlanina bert við tey, sum persónurin hevur sagt seg vilja hava við. Um persónurin brádliga verður vilsin ella álvarsliga sjúkur, søk skjóta læknahjálp heldur enn at bíða eftir eini vanligari eftirfylging.
 

@@ -23,10 +23,10 @@ faq:
   - q: "Skal eg siga einum við demens, at tað, viðkomandi sær, ikki er veruligt?"
     a: >-
       Kjaga ikki og halt ikki fast um, at viðkomandi misskilir. Tú kanst vera
-      ærlig(ur) og viðurkenna kenslurnar: „Eg síggi ongan, men eg síggi, at
+      ærlig og viðurkenna kenslurnar: „Eg síggi ongan, men eg síggi, at
       hetta er ræðandi. Eg eri her.“
   - q: "Kann nakað annað enn demens givið synsskeringar?"
-    a: "Ja. Broytingar í sjón ella hoyring, sjúka, heilivágur og umhvørvið kunnu hava týdning. Ein heilsufrøðingur kann meta um støðu persónsins; royn ikki sjálv(ur) at gera av orsøkina út frá einari hending."
+    a: "Ja. Broytingar í sjón ella hoyring, sjúka, heilivágur og umhvørvið kunnu hava týdning. Ein heilsufrøðingur kann meta um støðu persónsins; royn ikki sjálv at gera av orsøkina út frá einari hending."
   - q: "Nær skal eg søkja læknahjálp?"
     a: "Fá skjóta læknahjálp, um persónurin brádliga verður vilsin, ella um synsskeringin fevnir um meira enn ein skynsmun. Set teg í samband við lækna viðkomandi um nýggjar, endurtiknar, longri ella plágandi upplivingar."
   - q: "Skal eg broyta ein heilivág, um synsskeringar byrja?"
