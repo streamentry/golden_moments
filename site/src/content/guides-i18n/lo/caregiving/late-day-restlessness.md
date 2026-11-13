@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "ອາການກະວົນກະວາຍຕອນແລງ: ກິດຈະກຳສະຫງົບສຳລັບຕອນບ່າຍແກ່"
+seoTitle: "ອາການກະວົນກະວາຍຕອນແລງ: ກິດຈະກຳສະຫງົບ"
+description: "ຕາຕະລາງປະຈຳວັນ ການປັບຫ້ອງ ແລະກິດຈະກຳສະຫງົບທີ່ອາດຊ່ວຍໃຫ້ຕອນແລງສະບາຍຂຶ້ນ ພ້ອມຄຳແນະນຳວ່າເມື່ອໃດຄວນໂທຫາໝໍ."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  ອາການກະວົນກະວາຍຕອນແລງແມ່ນຄວາມກະວົນກະວາຍ ຄວາມສັບສົນ ຫຼືຄວາມໃຈຮ້ອນທີ່ເລີ່ມ ຫຼືຮ້າຍແຮງຂຶ້ນຕອນບ່າຍແກ່ ຫຼືຕອນແລງ. ວິທີປະຕິບັດທີ່ອາດຊ່ວຍໄດ້ ລວມທັງຕາຕະລາງປະຈຳວັນທີ່ໝັ້ນຄົງ ແສງແດດ ແລະກິດຈະກຳຕອນເຊົ້າ ການນອນພັກສັ້ນໆໜ້ອຍລົງຕອນບ່າຍ ການດື່ມກາເຟໜ້ອຍລົງ ໄຟໃນບ້ານກ່ອນຄ່ຳ ບ້ານທີ່ງຽບສະຫງົບ ແລະກິດຈະກຳທີ່ສະຫງົບເຊັ່ນ ດົນຕີ ຮູບພາບ ຫຼືການພັບເຄື່ອງ. ອາການໃໝ່ ຫຼືທີ່ຮ້າຍແຮງຂຶ້ນຕ້ອງໃຫ້ໝໍກວດ.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "ອາການກະວົນກະວາຍຕອນແລງໝາຍເຖິງຄວາມກະວົນກະວາຍ ຫຼືຄວາມສັບສົນທີ່ເລີ່ມ ຫຼືຮ້າຍແຮງຂຶ້ນເມື່ອແສງແດດຈາງລົງ."
+  - "ເຮັດວຽກທີ່ຕ້ອງໃຊ້ແຮງ ການອອກນອກບ້ານ ແລະການອາບນ້ຳ ໃຫ້ເຮັດຕອນເຊົ້າ ຫຼືຕົ້ນບ່າຍ."
+  - "ແສງແດດ ການຍ່າງທຸກວັນ ການນອນພັກຕອນທ້າຍມື້ໜ້ອຍລົງ ແລະການດື່ມກາເຟໜ້ອຍລົງຕອນແລງ ອາດຊ່ວຍໃຫ້ຕອນແລງລຽບງ່າຍຂຶ້ນ."
+  - "ເປີດໄຟກ່ອນຄ່ຳ ຫຼຸດສຽງລົບກວນ ແລະປ່ຽນໄປເຮັດກິດຈະກຳທີ່ສະຫງົບ ແລະຄຸ້ນເຄີຍ."
+  - "ບັນທຶກສິ່ງທີ່ເຮັດໃຫ້ເກີດອາການ ແລະຢູ່ໃນທ່າທີ່ສະຫງົບ ໝັ້ນໃຈ ເມື່ອອາການເລີ່ມຂຶ້ນ."
+  - "ໃຫ້ໝໍກວດເມື່ອອາການໃໝ່ ຫຼືຮ້າຍແຮງຂຶ້ນ ເພາະຄວາມເຈັບປວດ ການຕິດເຊື້ອ ຫຼືຢາອາດມີສ່ວນກ່ຽວຂ້ອງ."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "ອາການກະວົນກະວາຍຕອນແລງມັກເກີດຂຶ້ນເວລາໃດຂອງວັນ?"
+    a: "ໂດຍທົ່ວໄປມັນເລີ່ມ ຫຼືຮ້າຍແຮງຂຶ້ນຕອນບ່າຍແກ່ ຫຼືຕົ້ນແລງ ເມື່ອແສງແດດຈາງລົງ. ເວລາແຕ່ລະຄົນອາດຕ່າງກັນ ນັ້ນແມ່ນເຫດຜົນທີ່ການບັນທຶກສັ້ນໆເປັນເວລາໜຶ່ງຫຼືສອງອາທິດອາດຊ່ວຍໄດ້."
+  - q: "ກິດຈະກຳໃດຊ່ວຍກັບອາການກະວົນກະວາຍຕອນແລງ?"
+    a: "ກິດຈະກຳທີ່ສະຫງົບ ຄຸ້ນເຄີຍ ແລະບໍ່ຕ້ອງໃຊ້ແຮງຫຼາຍ ມັກໄດ້ຜົນດີທີ່ສຸດຕອນບ່າຍແກ່ ເຊັ່ນ ຟັງດົນຕີທີ່ສະບາຍ ເບິ່ງຮູບ ເບິ່ງລາຍການໂທລະທັດ ຫຼືໜັງທີ່ຊອບ ພັບເຄື່ອງ ຍ່າງສັ້ນໆ ຫຼືກິນຂອງວ່າງນຳກັນ. ກິດຈະກຳໃໝ່ ຫຼືທີ່ຕ້ອງໃຊ້ຄວາມຄິດຫຼາຍ ໃຫ້ເກັບໄວ້ຕອນເຊົ້າ."
+  - q: "ອາການກະວົນກະວາຍຕອນແລງອາດເປັນສັນຍານຂອງບັນຫາທາງການແພດບໍ?"
+    a: "ມັນອາດຮ້າຍແຮງຂຶ້ນຈາກບັນຫາສຸຂະພາບ ເຊັ່ນ ຄວາມເຈັບປວດ ການຕິດເຊື້ອ ເຊັ່ນ ການຕິດເຊື້ອທາງເດີນປັດສາວະ ບັນຫາການນອນ ຫຼືຜົນຂ້າງຄຽງຂອງຢາ. ຖ້າອາການກະວົນກະວາຍເກີດໃໝ່ ເກີດຢ່າງກະທັນຫັນ ຫຼືຮ້າຍແຮງຂຶ້ນ ໃຫ້ໂທຫາໝໍຂອງເຂົາເຈົ້າ."
+  - q: "ຄວນຖາມໝໍກ່ຽວກັບຢາສຳລັບອາການກະວົນກະວາຍຕອນແລງບໍ?"
+    a: "ນັ້ນເປັນເລື່ອງທີ່ຕ້ອງປຶກສາກັບໝໍ. Alzheimer's Association ເວົ້າວ່າວິທີທີ່ບໍ່ໃຊ້ຢາມັກຖືກພິຈາລະນາກ່ອນ ແລະຢາສຳລັບອາການກະວົນກະວາຍຕອນແລງຄວນພິຈາລະນາພຽງຫຼັງຊັ່ງນໍ້າໜັກລະຫວ່າງຄວາມສ່ຽງກັບຜົນດີແລ້ວເທົ່ານັ້ນ. ໜ້ານີ້ບໍ່ໄດ້ໃຫ້ຄຳແນະນຳດ້ານຢາ."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+ຫຼາຍຄອບຄົວສັງເກດເຫັນຮູບແບບດຽວກັນ: ຕອນເຊົ້າຄ່ອນຂ້າງສະຫງົບ ແຕ່ເມື່ອບ່າຍແກ່ລົງ ຜູ້ທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມເລີ່ມກະວົນກະວາຍ ວິຕົກກັງວົນ ສັບສົນ ຫຼືໃຈຮ້ອນ. ເຂົາເຈົ້າອາດຍ່າງໄປມາ ຖາມວ່າ “ຢາກກັບບ້ານ” ເຖິງແມ່ນຢູ່ເຮືອນແລ້ວ ຫຼືໂມໂຫງ່າຍ. ອາການນີ້ມັກຖືກເອີ້ນວ່າອາການກະວົນກະວາຍຕອນແລງ.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+ບໍ່ມີວິທີແກ້ດຽວ ແຕ່ການປ່ຽນຈັງຫວະຂອງມື້ ຫ້ອງ ແລະປະເພດກິດຈະກຳທີ່ເຮັດ ອາດເຮັດໃຫ້ຕອນບ່າຍແກ່ສະຫງົບຂຶ້ນ. ໜ້ານີ້ລວບລວມແນວຄວາມຄິດທາງປະຕິບັດທີ່ບໍ່ແມ່ນທາງການແພດ ຈາກ National Institute on Aging ແລະ Alzheimer's Association. ມັນບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ຖ້າອາການໃໝ່ ເກີດຢ່າງກະທັນຫັນ ຫຼືຮ້າຍແຮງຂຶ້ນ ໃຫ້ປຶກສາກັບໝໍຂອງຜູ້ນັ້ນ.
 
-## What is sundowning?
+## ອາການກະວົນກະວາຍຕອນແລງແມ່ນຫຍັງ?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+ມັນແມ່ນຄວາມກະວົນກະວາຍ ຄວາມໃຈຮ້ອນ ຄວາມຫງຸດຫງິດ ຫຼືຄວາມສັບສົນທີ່ເລີ່ມ ຫຼືຮ້າຍແຮງຂຶ້ນເມື່ອແສງແດດຈາງລົງ ຕອນບ່າຍແກ່ ຫຼືຕົ້ນແລງ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ໄດ້ລະບຸວ່າ ການເມື່ອຍເກີນໄປສາມາດເພີ່ມຄວາມກະວົນກະວາຍຕອນແລງໄດ້.
 
-## What can make late-day restlessness worse?
+## ຫຍັງເຮັດໃຫ້ອາການກະວົນກະວາຍຕອນແລງຮ້າຍແຮງຂຶ້ນ?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+ຫຼາຍສິ່ງອາດມີສ່ວນ ແລະມັກເກີດພ້ອມກັນ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ລະບຸປັດໄຈຕ່າງໆ ເຊັ່ນ:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- ຄວາມອ່ອນເພຍຫຼັງຈາກມື້ທີ່ຍາວນານ;
+- ສະພາບແວດລ້ອມໃໝ່ ຫຼືສັບສົນ;
+- ນາລິກາຊີວິດພາຍໃນ “ທີ່ຜິດຈັງຫວະ” ເຮັດໃຫ້ຕອນກາງເວັນງ່ວງ ແລະຕອນກາງຄືນຕື່ນ;
+- ແສງໜ້ອຍ ແລະເງົາ ທີ່ອາດເຮັດໃຫ້ສັບສົນ;
+- ການຮັບຮູ້ຄວາມຕຶງຄຽດ ຫຼືຄວາມອຸກອັ່ງຈາກຄົນອ້ອມຂ້າງ;
+- ການນອນໜ້ອຍລົງ ເຊິ່ງເປັນເລື່ອງທົ່ວໄປໃນຜູ້ໃຫຍ່ອາຍຸ.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+National Institute on Aging ເພີ່ມສາເຫດຂອງຄວາມກະວົນກະວາຍໂດຍທົ່ວໄປ ລວມທັງຄວາມເຈັບປວດ ຄວາມຊຶມເສົ້າ ຫຼືຄວາມຕຶງຄຽດ ການພັກຜ່ອນບໍ່ພຽງພໍ ທ້ອງຜູກ ສຽງດັງ ຫຼືຄົນຫຼາຍເກີນໄປ ແລະຜົນຂ້າງຄຽງ ຫຼືການໃຊ້ຢາຮ່ວມກັນຂອງບາງຊະນິດ.
 
-## How can I plan the day to make evenings calmer?
+## ຈະວາງແຜນມື້ຢ່າງໃດໃຫ້ຕອນແລງສະຫງົບຂຶ້ນ?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+ຍ້າຍສິ່ງທີ່ຕ້ອງໃຊ້ແຮງໄປຕອນເຊົ້າ ແລະຮັກສາຕອນບ່າຍແກ່ໃຫ້ອ່ອນໂຍນ ແລະຄາດເດົາໄດ້. ທັງ National Institute on Aging ແລະ Alzheimer's Association ແນະນຳຕາຕະລາງປະຈຳວັນທີ່ສະໝ່ຳສະເໝີ. ນີ້ເປັນຕົວຢ່າງຂອງມື້ໜຶ່ງ ທີ່ປັບໃຫ້ເໝາະກັບຊີວິດຂອງທ່ານໄດ້:
 
-| Time | What may help |
+| ເວລາ | ສິ່ງທີ່ອາດຊ່ວຍໄດ້ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| ຕອນເຊົ້າ | ນັດໝາຍ ການອາບນ້ຳ ການອອກນອກບ້ານ ແລະວຽກໃດທີ່ຕ້ອງໃຊ້ແຮງ ໃນເວລາທີ່ຫຼາຍຄົນຕື່ນຕົວທີ່ສຸດ |
+| ສາຍໆ | ເວລາຢູ່ນອກບ້ານ ຫຼືຢູ່ໃກ້ປ່ອງຢ້ຽມທີ່ມີແສງແດດ ການຍ່າງ ຫຼືກິດຈະກຳອື່ນ |
+| ທ່ຽງ | ເຂົ້າທ່ຽງທີ່ໃຫຍ່ກວ່າ (Alzheimer's Association ແນະນຳໃຫ້ກິນເຂົ້າທ່ຽງໃຫຍ່ ແລະກິນອາຫານແລງເບົາລົງ) |
+| ຕົ້ນບ່າຍ | ພັກຜ່ອນຖ້າຈຳເປັນ ແຕ່ຫຼີກເວັ້ນການນອນຍາວຕອນທ້າຍມື້ |
+| ກາງບ່າຍຫາບ່າຍແກ່ | ກິດຈະກຳທີ່ສະຫງົບ ຄຸ້ນເຄີຍ ມີຂອງວ່າງ ແລະນ້ຳດື່ມ ບໍ່ມີກາເຟອີນ |
+| ກ່ອນຄ່ຳ | ເປີດໄຟໃນບ້ານ ແລະປິດມ່ານກ່ອນຈະມືດ |
+| ຕອນແລງ | ອາຫານເບົາໆ ດົນຕີທີ່ງຽບ ສິ່ງລົບກວນໜ້ອຍ ແລະການເຂົ້ານອນທີ່ສະໝ່ຳສະເໝີ |
 
-A few specific points from the sources:
+ບາງຈຸດສະເພາະຈາກແຫຼ່ງຂໍ້ມູນ:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **ແສງແດດ.** National Institute on Aging ແນະນຳໃຫ້ຈັດເວລາຢູ່ນອກບ້ານ ຫຼືຢູ່ໃກ້ປ່ອງຢ້ຽມເພື່ອຮັບແສງແດດທຸກວັນ.
+- **ເຄື່ອນໄຫວທຸກວັນ ແຕ່ບໍ່ຫຼາຍເກີນໄປ.** National Institute on Aging ເວົ້າວ່າ ໃຫ້ພະຍາຍາມເຄື່ອນໄຫວຮ່າງກາຍທຸກວັນ ໂດຍບໍ່ວາງແຜນກິດຈະກຳຫຼາຍເກີນໄປ.
+- **ເຄື່ອງດື່ມຕອນທ້າຍມື້.** ຫຼີກເວັ້ນເຫຼົ້າ ແລະເຄື່ອງດື່ມທີ່ມີກາເຟອີນ ເຊັ່ນ ກາເຟ ຫຼືນ້ຳອັດລົມສີດຳ ຕອນທ້າຍມື້ (National Institute on Aging). Alzheimer's Association ຍັງກ່າວເຖິງນິໂຄຕິນນຳ.
+- **ການນອນພັກ.** ຫຼີກເວັ້ນການນອນຍາວ ແລະການງຶບຫຼັບຕອນທ້າຍມື້ (National Institute on Aging). Alzheimer's Association ແນະນຳໃຫ້ຈຳກັດການນອນພັກກາງເວັນ ຖ້າການນອນກາງຄືນເປັນບັນຫາ.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການສ້າງມື້ທີ່ໝັ້ນຄົງ ເບິ່ງ [ກິດຈະກຳຕາມຕາຕະລາງປະຈຳວັນ](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## ຈະເຮັດໃຫ້ບ້ານສະຫງົບຕອນບ່າຍແກ່ແນວໃດ?
 
-Reduce noise, add light and keep familiar things close.
+ຫຼຸດສຽງ ເພີ່ມແສງ ແລະຮັກສາສິ່ງທີ່ຄຸ້ນເຄີຍໄວ້ໃກ້ໆ.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **ແສງສະຫວ່າງທີ່ສະໝ່ຳສະເໝີ.** Alzheimer's Association ແນະນຳໃຫ້ບ້ານມີແສງສະຫວ່າງພຽງພໍຕອນແລງ. ເປີດໄຟກ່ອນທີ່ເງົາຈະປາກົດ.
+- **ສຽງໜ້ອຍລົງ.** ປິດ ຫຼືຫຼຸດສຽງໂທລະທັດ ແລະວິທະຍຸ ແລະຈຳກັດແຂກ ຫຼືວຽກບ້ານທີ່ວຸ່ນວາຍໃນຊ່ວງເວລານີ້. Alzheimer's Association ແນະນຳໃຫ້ຫຼຸດສິ່ງກະຕຸ້ນຕອນແລງ ເຊັ່ນ ໂທລະທັດ ວຽກບ້ານ ແລະດົນຕີດັງ.
+- **ສິ່ງທີ່ຄຸ້ນເຄີຍທີ່ໃຫ້ຄວາມສະບາຍ.** National Institute on Aging ແນະນຳໃຫ້ເປີດດົນຕີທີ່ປອບໂຍນ ແລະເກັບຂອງທີ່ຮັກ ແລະຮູບພາບໄວ້ໃນບ້ານ.
+- **ກວດຄວາມສະບາຍ.** Alzheimer's Association ແນະນຳໃຫ້ກວດຄວາມເຈັບປວດ ຄວາມຫິວ ຄວາມຫິວນ້ຳ ທ້ອງຜູກ ປັດສາວະເຕັມ ຄວາມເມື່ອຍ ການຕິດເຊື້ອ ແລະການລະຄາຍຜິວ ແລະຮັກສາຫ້ອງໃຫ້ມີອຸນຫະພູມທີ່ສະບາຍ.
+- **ອາລົມຂອງທ່ານເອງ.** ຄົນເຮົາຮັບຮູ້ຄວາມຕຶງຄຽດໄດ້. National Institute on Aging ແນະນຳໃຫ້ຊ້າລົງ ແລະພະຍາຍາມຜ່ອນຄາຍ ຖ້າຄວາມກັງວົນຂອງທ່ານເອງອາດເພີ່ມຄວາມຕຶງເຄັ່ງ.
 
-## What calm activities can we do in the late afternoon?
+## ກິດຈະກຳສະຫງົບອັນໃດທີ່ເຮັດໄດ້ຕອນບ່າຍແກ່?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+ເລືອກກິດຈະກຳທີ່ຄຸ້ນເຄີຍ ບໍ່ຮີບຮ້ອນ ແລະຢຸດໄດ້ງ່າຍ. Alzheimer's Association ແນະນຳກິດຈະກຳທີ່ປອບໂຍນ ເຊັ່ນ ດົນຕີທີ່ສະຫງົບ ຮູບພາບ ຫຼືໜັງທີ່ຊອບ ແລະການຍ່າງນຳກັນເພື່ອຜ່ອນຄວາມກະວົນກະວາຍ. National Institute on Aging ແນະນຳຂອງວ່າງ ຫຼືເຄື່ອງດື່ມ ລາຍການໂທລະທັດທີ່ຊອບ ດົນຕີ ການຍ່າງ ການອ່ານ ຫຼືວຽກບ້ານງ່າຍໆ ເຊັ່ນ ການພັບເຄື່ອງ.
 
-Ideas to try:
+ແນວຄວາມຄິດທີ່ລອງໄດ້:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **ພັບເຄື່ອງນຳກັນ.** National Institute on Aging ແນະນຳວຽກບ້ານງ່າຍໆແບບນີ້. ຜ້າເຊັດຕົວຈັບງ່າຍ ແລະວຽກມີຈຸດສິ້ນສຸດທີ່ຊັດເຈນ.
+2. **ຟັງເພງທີ່ຊອບ.** ເພງທີ່ຄຸ້ນເຄີຍຈາກໄວໜຸ່ມ ໃນສຽງທີ່ເບົາ. ການຮ້ອງຄຽງກໍນັບວ່າດີ. ແນວຄິດເພີ່ມເຕີມຢູ່ໃນ [ກິດຈະກຳດົນຕີ](/activities/music/).
+3. **ເບິ່ງຮູບ.** ອະລະບັ້ມຮູບ ຫຼືຮູບຄອບຄົວບໍ່ເທົ່າໃດຮູບ ໃນ [ຈັບຄູ່ຮູບຄອບຄົວ](/games/photo-pairs/) ໂດຍໃຫ້ຮູບສະແດງຢູ່ ອາດນຳໄປສູ່ການສົນທະນາທີ່ງຽບສະຫງົບ.
+4. **ຍ່າງສັ້ນໆ.** ຍ່າງຢູ່ສວນ ຮອບບລັອກ ຫຼືທາງຍ່າງໃນເຮືອນ ກ່ອນຈະມືດ.
+5. **ກິນຂອງວ່າງ ແລະດື່ມນຳກັນ.** ຂອງງ່າຍໆ ອຸ່ນໆ ແລະບໍ່ມີກາເຟອີນ ນັ່ງກິນນຳກັນທີ່ໂຕະ.
+6. **ການຈັບຄູ່ແບບອ່ອນໂຍນ.** [ຈັບຄູ່ຮູບພາບ](/games/picture-pairs/) ທີ່ມີສີ່ຮູບ ແລະຮູບສະແດງຢູ່ ເລີ່ມໄດ້ງ່າຍ ແລະຢຸດໄດ້ງ່າຍ.
+7. **ການລົງສີ.** [ການລົງສີ](/games/coloring/) ເທິງໜ້າຈໍ ຫຼືໃນໜ້າທີ່ພິມອອກ ໂດຍບໍ່ຕ້ອງຕັ້ງເປົ້າໝາຍໃຫ້ລົງສີໃຫ້ແລ້ວ.
+8. **ເບິ່ງ ແລະສົນທະນາ.** [ບັດສົນທະນາ](/games/conversation-cards/) ໃຫ້ຮູບໜຶ່ງ ແລະຄຳຖາມເປີດ. ແຕ່ເບິ່ງກໍພຽງພໍແລ້ວ.
+9. **ຢຸດຫາຍໃຈຊ້າໆ.** [ຫາຍໃຈຜ່ອນຄາຍ](/games/calm-breathing/) ເປັນການຢຸດພັກຊ້າໆ ແລະງຽບໆ ທີ່ທ່ານເລີ່ມ ແລະຢຸດເອງໄດ້.
+10. **ວຽກດ້ວຍມື.** ແຍກກະດຸມ ຫຼືຖົງຕີນ ລູບຜ້າຫົ່ມນຸ່ມໆ ຫຼືຖືສິ່ງຂອງທີ່ຄຸ້ນເຄີຍ. ເບິ່ງ [ກິດຈະກຳສຳຜັດ](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+ຫຼີກເວັ້ນເກມໃໝ່ ການອອກນອກບ້ານທີ່ວຸ່ນວາຍ ແລະສິ່ງທີ່ຕ້ອງໃຊ້ຄວາມຈຳ ຫຼືສະມາທິຫຼາຍໃນຕອນແລງ. ເກັບສິ່ງເຫຼົ່ານັ້ນໄວ້ຕອນເຊົ້າ.
 
-## What should I do when restlessness starts?
+## ຄວນເຮັດຫຍັງເມື່ອຄວາມກະວົນກະວາຍເລີ່ມຂຶ້ນ?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+ຮັກສາຄວາມສະຫງົບ ໃຫ້ກຳລັງໃຈ ແລະຄ່ອຍໆປ່ຽນຄວາມສົນໃຈ. National Institute on Aging ແນະນຳໃຫ້ເວົ້າເບົາໆ ຟັງຄວາມກັງວົນຂອງຜູ້ນັ້ນ ຫຼີກເວັ້ນການໂຕ້ແຍ້ງ ບອກວ່າເຂົາເຈົ້າປອດໄພ ແລະໃຊ້ການສຳຜັດເບົາໆ ຖ້າມັນຊ່ວຍໄດ້. ຈາກນັ້ນລອງປ່ຽນຄວາມສົນໃຈ: ຂອງວ່າງ ເຄື່ອງດື່ມ ດົນຕີ ຫຼືການຍ່າງ.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association ແນະນຳປະໂຫຍກເຊັ່ນ “ທີ່ນີ້ປອດໄພ” ແລະ “ຂໍໂທດທີ່ເຮັດໃຫ້ທ່ານເສຍໃຈ” ແລະແນະນຳໃຫ້ເພີ່ມແສງ ຊ້າລົງ ແລະຈຳກັດສິ່ງກະຕຸ້ນ. ຢ່າຕ້ອນ ເບຍດ ຫຼືບັງຄັບໃຫ້ຢູ່ຕິດກັບບ່ອນໃດບ່ອນໜຶ່ງ ແລະຢ່າໂຕ້ແຍ້ງກັບເຂົາເຈົ້າ.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+ຖ້າຜູ້ນັ້ນກາຍເປັນຮຸກຮານ National Institute on Aging ແນະນຳໃຫ້ຢູ່ຫ່າງໃນໄລຍະທີ່ປອດໄພ ຈົນພຶດຕິກຳນັ້ນຢຸດ. ໃນກໍລະນີສຸກເສີນ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນ ແລະບອກຜູ້ຮັບສາຍວ່າຜູ້ນັ້ນເປັນໂຣກສະໝອງເສື່ອມ. [ຄູ່ມືການຕອບສະໜອງຕໍ່ຄວາມໃຈຮ້ອນ ແລະຄວາມຮຸນແຮງ](/caregiving/when-anger-becomes-aggression-with-dementia/) ຂອງພວກເຮົາ ອະທິບາຍວິທີຮັກສາຄວາມປອດໄພທັນທີ ແລະສິ່ງທີ່ຄວນເຮັດຫຼັງຈາກນັ້ນ.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ການສື່ສານ](/caregiving/communication-tips/) ແລະ [ສິ່ງທີ່ຕ້ອງເຮັດເມື່ອເຂົາເຈົ້າປະຕິເສດ](/caregiving/when-they-say-no/) ມີຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບຖ້ອຍຄຳທີ່ປອບໂຍນ.
 
-## How do I find the triggers?
+## ຈະຊອກຫາສິ່ງກະຕຸ້ນໄດ້ແນວໃດ?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+ບັນທຶກສັ້ນໆໄວ້ໜຶ່ງຫຼືສອງອາທິດ. Alzheimer's Association ແນະນຳໃຫ້ບັນທຶກສິ່ງທີ່ເກີດຂຶ້ນກ່ອນອາການກະວົນກະວາຍຕອນແລງ ເພື່ອຊອກຫາສິ່ງກະຕຸ້ນ. ຈົດເວລາທີ່ຄວາມກະວົນກະວາຍເລີ່ມ ສິ່ງທີ່ເກີດຂຶ້ນໃນຊົ່ວໂມງກ່ອນໜ້ານັ້ນ ການນອນພັກ ອາຫານ ແລະເຄື່ອງດື່ມ ແຂກ ສຽງ ແລະແສງ. ນຳບັນທຶກໄປໃຫ້ໝໍເບິ່ງ. National Institute on Aging ລະບຸວ່າການຕິດຕາມການປ່ຽນແປງພຶດຕິກຳສາມາດຊ່ວຍຜູ້ດູແລ ແລະຜູ້ໃຫ້ບໍລິການດ້ານສຸຂະພາບຈຳແນກຮູບແບບໄດ້.
 
-## When should I call a doctor about sundowning?
+## ຄວນໂທຫາໝໍເມື່ອໃດກ່ຽວກັບອາການກະວົນກະວາຍຕອນແລງ?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+ໃຫ້ໂທຫາໝໍຂອງຜູ້ນັ້ນ ຖ້າຄວາມກະວົນກະວາຍເກີດໃໝ່ ຮ້າຍແຮງຂຶ້ນຢ່າງກະທັນຫັນ ຫຼືມາພ້ອມກັບການປ່ຽນແປງອື່ນ. National Institute on Aging ເວົ້າວ່າ ການປ່ຽນແປງພຶດຕິກຳຢ່າງກະທັນຫັນ ຫຼືທີ່ຂຶ້ນລົງໄວ ໂດຍສະເພາະຫຼັງການຕິດເຊື້ອ ຫຼືການປ່ຽນຢາເມື່ອບໍ່ດົນມານີ້ ຄວນແຈ້ງໝໍທັນທີ.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+ໃຫ້ໝໍກວດສິ່ງທີ່ອາດເຮັດໃຫ້ຕອນແລງຍາກຂຶ້ນ. Alzheimer's Association ກ່າວເຖິງບັນຫາທາງຮ່າງກາຍເຊັ່ນ ການຕິດເຊື້ອທາງເດີນປັດສາວະ ປັດສາວະເລັດ ອາການຂາກະຕຸກ ແລະພາວະຫາຍໃຈຢຸດຊົ່ວຄາວຕອນນອນ ແລະແນະນຳໃຫ້ຖາມວ່າຢາແຕ່ລະຊະນິດຄວນກິນໃນເວລາໃດຂອງວັນ. National Institute on Aging ລະບຸຄວາມເຈັບປວດ ທ້ອງຜູກ ແລະຜົນຂ້າງຄຽງ ຫຼືການໃຊ້ຢາຮ່ວມກັນ ໃນບັນດາສາເຫດທີ່ອາດເຮັດໃຫ້ເກີດຄວາມກະວົນກະວາຍ.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association ເວົ້າວ່າວິທີທີ່ບໍ່ໃຊ້ຢາມັກຖືກແນະນຳກ່ອນສຳລັບບັນຫາການນອນທີ່ກ່ຽວຂ້ອງກັບໂຣກອາລ໌ຊາຍເມີ ແລະຢາສຳລັບອາການກະວົນກະວາຍຕອນແລງຄວນພິຈາລະນາພຽງຖ້າວິທີເຫຼົ່ານັ້ນບໍ່ໄດ້ຜົນ ຫຼັງຊັ່ງນໍ້າໜັກລະຫວ່າງຄວາມສ່ຽງກັບຜົນດີແລ້ວ. ການຕັດສິນໃຈນັ້ນເປັນຂອງໝໍ. ຢ່າເລີ່ມ ຢຸດ ຫຼືປ່ຽນຢາ ຢາຍືດໄມ້ຫຼືອາຫານເສີມໃດໆ ໂດຍບໍ່ມີຄຳແນະນຳຈາກໝໍ.
 
-## How do I get through the evenings myself?
+## ຈະຜ່ານຕອນແລງໄປໄດ້ແນວໃດສຳລັບຕົວທ່ານເອງ?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+ຕອນບ່າຍແກ່ອາດເປັນຊ່ວງທີ່ຍາກທີ່ສຸດຂອງມື້ຜູ້ດູແລ. ຖ້າເປັນໄປໄດ້ ໃຫ້ຂໍໃຫ້ສະມາຊິກໃນຄອບຄົວ ໝູ່ ຫຼືຜູ້ຊ່ວຍທີ່ຈ່າຍຄ່າຈ້າງ ຊ່ວຍດູແລຕອນບ່າຍແກ່ສອງສາມມື້ຕໍ່ອາທິດ ເຖິງແມ່ນພຽງໜຶ່ງຊົ່ວໂມງ. ຄູ່ມື [ການດູແລຕົວເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/) ຂອງພວກເຮົາ ລວບລວມທາງເລືອກການພັກຜ່ອນ ແລະສາຍດ່ວນຊ່ວຍເຫຼືອ 24/7 ຂອງ Alzheimer's Association ທີ່ບໍ່ເສຍຄ່າ.
