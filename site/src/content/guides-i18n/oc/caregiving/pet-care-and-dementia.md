@@ -61,9 +61,9 @@ Se la persona a d'ajuda d'un prestatari de cura, demandatz coma la cura de l'ani
 
 ## Cossí saber quand cal mai d'ajuda?
 
-Notatz d'eveniments precisi en lloc de jutjar la persona segon un estadi o un nombre. Una gamela que demora vueja, una promenada oblidada que pertorba l'animal, o una persona que sembla esgotada après aver cuidat l'animal pòdon indicar qu'una tasca a besonh de mai d'ajuda. Un cambiament del comportament, de l'apetit o de l'aparéncia de l'animal es tanben una rason de contactar son veterinari.
+Notatz d'eveniments precisos en lloc de jutjar la persona segon un estadi o un nombre. Una gamela que demora vueja, una promenada oblidada que pertorba l'animal, o una persona que sembla esgotada après aver cuidat l'animal pòdon indicar qu'una tasca a besonh de mai d'ajuda. Un cambiament del comportament, de l'apetit o de l'aparéncia de l'animal es tanben una rason de contactar son veterinari.
 
-Parlatz amb la persona de çò que avètz remarcat. Pòt aver plaser a un rapèl, a una promenada partejada o a un ajudant per una tasca, mentre que gardant lo demai de la rotina. Se un problèma de santat, de mobilitat o de seguretat afècta sa capacitat de cuidar l'animal, demandatz a son equipa de cura o a un servici local de sosten d'ajudar a cercar d'opcions.
+Parlatz amb la persona de çò que avètz remarcat. Pòt aver plaser a un rapèl, a una promenada partejada o a un ajudant per una tasca, en gardant lo demai de la rotina. Se un problèma de santat, de mobilitat o de seguretat afècta sa capacitat de cuidar l'animal, demandatz a son equipa de cura o a un servici local de sosten d'ajudar a cercar d'opcions.
 
 Pensatz pas a la cura de rescòrt pas que quand es una crisi. La [guida sus la vida solitària amb una demència](/caregiving/living-alone-with-dementia/) inclutz de manièras de convenir de verificacions e d'ajuda practica en gardant los causits de la persona al centre.
 

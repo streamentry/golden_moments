@@ -37,7 +37,7 @@ related: [caregiving/oral-care-with-dementia, caregiving/hospital-visit-with-dem
 health: true
 ---
 
-Las personas que vivon amb una demència sentisson la doloria, mesme quand podon pas la explicar clarament. Una persona pòt utilizar d'autres mots, de gèstes o de cambiaments de comportament per mostrar qu'una cosa va pas. Un ajudant pòt remarcar e partejar aquelas cambiaments, mas deu pas diagnosticar la causa sol.
+Las personas que vivon amb una demència sentisson la doloria, mesme quand podon pas la explicar clarament. Una persona pòt utilizar d'autres mots, de gèstes o de cambiaments de comportament per mostrar qu'una cosa va pas. Un ajudant pòt remarcar e partejar aquels cambiaments, mas deu pas diagnosticar la causa sol.
 
 [La guida de Dementia Australia sus la doloria](https://www.dementia.org.au/living-dementia/staying-healthy/pain) recomanda de demandar dirèctament e de cercar l'avis d'un metge quand la doloria es suspectada. [L'Alzheimer's Association nòta tanben](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) que l'inconfòrt fisic pòt contribuir als cambiaments de comportament. Aquesta guida dona d'informacion generala, pas una avaluacion de la doloria ni un plan de traitament.
 
@@ -65,9 +65,9 @@ Se la persona es d'acòrd, partejatz las notas amb lo membre de la familha, la i
 
 ## Qué far se pensi que la persona pòt aver doloria?
 
-Contactatz un professional de santat e descrivètz çò que a cambiat. La doloria pòt aver mantuna causas, dont las vielhas blessadas, l'artrosi, los problèmas dentaris, una infeccion, la constipacion o la pression d'estar assegut dins la meteissa posicion. Un professional de santat pòt verificar la santat de la persona e decidir quina avaluacion o traitament convèn.
+Contactatz un professional de santat e descrivètz çò que a cambiat. La doloria pòt aver mantuna causas, entre las qualas las vielhas blessadas, l'artrosi, los problèmas dentaris, una infeccion, la constipacion o la pression d'estar assegut dins la meteissa posicion. Un professional de santat pòt verificar la santat de la persona e decidir quina avaluacion o traitament convèn.
 
-Comencetz pas un medicament contra la doloria, cambiatz pas una dosi e arrestatz pas un autre medicament segon un site web. D'unas medicaments pòdon interagir o èsser pas sècurs per una persona amb de condicions de santat particularas. Seguissètz lo plan de cura de la persona e demandatz al prescriptor o al farmacian quand quicòm es pas clar.
+Comencetz pas un medicament contra la doloria, cambiatz pas una dosi e arrestatz pas un autre medicament segon un site web. Unis medicaments pòdon interagir o èsser pas sècurs per una persona amb de condicions de santat particularas. Seguissètz lo plan de cura de la persona e demandatz al prescriptor o al farmacian quand quicòm es pas clar.
 
 Podètz tanben reduire la pression immediata en esperant un conselh. Demandatz quina es la posicion mai comòda, laissatz la persona se repausar e insistissètz pas sus un movement o una activitat que fa mal. Verificatz amb un professional de santat abans d'utilizar la calor, la glaça, un massatge o un autre traitament se sètz pas segur que siá sècur.
 

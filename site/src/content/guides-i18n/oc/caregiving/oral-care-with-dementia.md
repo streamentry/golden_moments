@@ -62,13 +62,13 @@ Forçatz pas las dentièras dins la boca de la persona se resistís o sembla dol
 
 ## Cossí preparar un rendètz-vos dentari?
 
-Reservatz a un moment ont la persona es generalament a repaus. Quand la persona es d'acòrd, prevenètz lo cabinet dentari a l'avança que pòt aver besonh de mai de temps, d'una explicacion calma o d'ajuda d'una persona de confiança. Pòrtatz una lista actualizada dels medicaments e una nòta corta sus çò que es venguda dificila, coma lo brossatge, la mastegada o l'utilizacion de las dentièras.
+Reservatz a un moment ont la persona es generalament a repaus. Quand la persona es d'acòrd, prevenètz la consulta dentària a l'avança que pòt aver besonh de mai de temps, d'una explicacion calma o d'ajuda d'una persona de confiança. Pòrtatz una lista actualizada dels medicaments e una nòta corta sus çò que es venguda dificila, coma lo brossatge, la mastegada o l'utilizacion de las dentièras.
 
-Demandatz a l'equipa dentària d'explicar çò que se passarà un pas a la fes. Una persona familiara pòt ajudar la persona a se sentir mai tranquila, mas la persona deu restar part de la conversacion e de las decisions. Se un viatge al cabinet es dificil, demandatz al dentista las opcions de rendètz-vos accessibles dins vòstra zòna.
+Demandatz a l'equipa dentària d'explicar çò que se passarà un pas a la fes. Una persona familiara pòt ajudar la persona a se sentir mai tranquila, mas la persona deu restar part de la conversacion e de las decisions. Se un viatge a la consulta es dificil, demandatz al dentista las opcions de rendètz-vos accessibles dins vòstra zòna.
 
 ## Cossí los ajudants pòdon mantenir la rotina coerenta?
 
-Se un membre de la familha, un trabalhador d'ajuda a domicili o un membre del personal d'una maison de retirada ajuda, convenètz amb la persona d'una rotina que li es comòda. Utilizatz la meteissa plaça familiara e lo meteis rapèl cort quand es possible. Demandatz se la persona prefereix que una persona determinada ajude cada còp.
+Se un membre de la familha, un trabalhador d'ajuda a domicili o un membre del personal d'un establiment de cura per personas vièlhas ajuda, convenètz amb la persona d'una rotina que li es comòda. Utilizatz la meteissa plaça familiara e lo meteis rapèl cort quand es possible. Demandatz se la persona prefereix que una persona determinada ajude cada còp.
 
 Se la persona es d'acòrd, partejatz sonque los detalhs que ajudaràn lo proïme ajudant : l'ora preferida, çò que pòt far sola, quina etapa es dificila e quand vòl que l'ajuda s'arrèste. Gardatz tota nòta escrita privada e seguissètz la procedura habituala de l'establiment de cura. Una rotina escricha es una guida, pas una permission de contunhar quand la persona dis non. Las preferéncias pòdon cambiar, doncas demandatz de nòu e adaptatz-vos. Se mantuna manièras son venguda dificilas, descrivètz a l'equipa dentària çò que remarcatz e demandatz un conselh per aquesta persona.
 
