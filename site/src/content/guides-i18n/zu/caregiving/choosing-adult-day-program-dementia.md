@@ -52,7 +52,7 @@ Izinsizakalo ziyahlukahluka. Ezinye izikhungo zigxile ekuhlanganeni nasemisebenz
 
 Thola mayelana nemisebenzi, hhayi nje isihloko sesikhathi. Buzani ukuthi abahlanganyeli benzani ngempela, ukuthi bakwazi yini ukukhetha phakathi kwezinketho, nokuthi uhlelo lufaka yini izithakazelo ezijwayelekile ezifana nomculo, ubuciko, ukulima izimbali noma ingxoxo. Umuntu akudingeki ahlanganyele kuzo zonke izinto. Buzani ukuthi kukhona yini indawo ethule noma isikhathi sokuphumula.
 
-Uma umuntu edinga usizo ngemithi, ukunyakaza, ukudla noma ukunakekelwa komuntu siqu, buzani ukuthi ubani onikeza lowo sizo nokuthi bayaqeqeshwa yini. Ningacabangi ukuthi uhlelo lwansuku lunikeza ukunakekelwa kwezokwelapha noma lungaphatha zonke izidingo. Qinisekisani noma yiziphi iziqondiso zezempilo ngeqembu lokunakekela komuntu.
+Uma umuntu edinga usizo ngemithi, ukunyakaza, ukudla noma ukunakekelwa komuntu siqu, buzani ukuthi ubani onikeza lowo sizo nokuthi bayaqeqeshwa yini. Ningacabangi ukuthi uhlelo lwansuku lunikeza ukunakekelwa kwezokwelapha noma lungaphatha zonke izidingo. Qinisekisani noma yiziqondiso zezempilo ngeqembu lokunakekela komuntu.
 
 ## Ngingabheka ini ngesikhathi sokuvakashela?
 
@@ -64,7 +64,7 @@ Uma kungenzeka, vakashelani phakathi nomsebenzi noma nokudla. Qaphelani ukuthi i
 
 ## Yiziphi izinto ezithize ezifanele ngizihlole?
 
-Buzani ngamahora, izinsuku, izindleko, ubuncane bokufika okudingekayo, izinqubomgomo zokukhansela nanoma yiziphi izindleko ezengeziwe. Buzani ukuthi yimaphi amadlelo owengeziwe nokuthi ukudla okukhethekile kungasekelwa yini. Izindleko nezinsizakalo ziyahluka endaweni, ngakho celani isikhungo sichaze imigomo yaso ebhalwe phansi.
+Buzani ngamahora, izinsuku, izindleko, ubuncane bokufika okudingekayo, izinqubomgomo zokukhansela nanoma yiziphi izindleko ezengeziwe. Buzani ukuthi yiziphi izindleko ezengeziwe nokuthi ukudla okukhethekile kungasekelwa yini. Izindleko nezinsizakalo ziyahluka endaweni, ngakho celani isikhungo sichaze imigomo yaso ebhalwe phansi.
 
 Thola ukuthi ukuthuthwa kuyatholakala yini, kwenza malini, nokuthi kuyahambelana yini nomuntu. Buzani ngezikhathi zokuthathwa, usizo lokukhwela nokwehla, nokuthi kwenzekani uma umshayeli ebambezeleka. Uma ilungu lomndeni lizonihambisa, faka lesi sikhathi nezindleko zaso ohlelweni lwakho.
 

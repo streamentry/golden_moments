@@ -36,11 +36,11 @@ health: false
 
 Ukugeza kuyinto yangasese. Kumuntu ophila nedementia, ukugeza ngeshawa noma ebhavini kungase kumzwe ebanda, kumveze, kumdide noma kumzwe engaphephile. Qalani ngokubuza ukuthi yini engenza umsebenzi ube lula kuye, bese nilungiselela ikamelo ngaphambi kokumnika usizo. Inhloso ukusekela umkhuba wakhe, hhayi ukuguqula ukwenqaba kube yingxabano.
 
-[Incwadi ye-Alzheimer's Association ngokugeza](https://www.alz.org/help-support/caregiving/daily-care/bathing) iphawula ukuthi ukwamukela usizo emsebenzini osondelene nomzimba kungase kuzwakale kungakhululekile. [Iseluleko se-Dementia Australia ngokuhlanzeka](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) sincoma ukulandela izintandokazi zomuntu, ukusebenzisa izinyathelo ezilula nokubuza ukuthi yisiphi isekelo akifunayo. Abantu bayahluka; zamani kuphela izinguquko ezifanele lo muntu.
+[Incwadi ye-Alzheimer's Association ngokugeza](https://www.alz.org/help-support/caregiving/daily-care/bathing) iphawula ukuthi ukwamukela usizo emsebenzini osondelene nomzimba kungase kuzwakale kungakhululekile. [Iseluleko se-Dementia Australia ngokuhlanzeka](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) sincoma ukulandela izintandokazi zomuntu, ukusebenzisa izinyathelo ezilula nokubuza ukuthi yisiphi isekelo asifunayo. Abantu bayahluka; zamani kuphela izinguquko ezifanelana nalo muntu.
 
 ## Ngingalungiselela kanjani ngaphambi kokunikeza usizo?
 
-Buzani ngomkhuba ojwayelekile womuntu. Ufisa ishawa noma ibhavu, ekuseni noma kusihlwa, usizo oluvela komunye umuntu othile ikakhulu, noma ukugeza ezinye izingxenye yedwa? Landelani izintandokazi ezijwayelekile lapho kungenzeka. Uma efuna ukukhetha, nikeza izinketho ezimbili ezicacile, njengokuthi, “Ufuna ishawa manje noma ngemva kwebhulakufesi?”
+Buzani ngomkhuba ojwayelekile womuntu. Ufisa ishawa noma ibhavu, ekuseni noma kusihlwa, usizo oluvela komunye umuntu othile ikakhulu, noma ukugeza ezinye izingxenye yedwa? Landelani izintandokazi ezijwayelekile lapho kungenzeka. Uma efuna ukukhetha, nikezani izinketho ezimbili ezicacile, njengokuthi, “Ufuna ishawa manje noma ngemva kwebhulakufesi?”
 
 Ngaphambi kokumemela ngaphakathi kwendlu yangasese:
 
@@ -49,7 +49,7 @@ Ngaphambi kokumemela ngaphakathi kwendlu yangasese:
 - **Hlola amanzi.** Linga izinga lokushisa ngaphambi kokuthi umuntu angene ebhavini noma eshawini. Ningathembeli ekutheni angakwazi ukubona ukuthi amanzi ashisa kakhulu.
 - **Lungisa izinto zobumfihlo.** Ithawula elikhulu, isigqoko noma ingubo yokugeza kungasiza umuntu ukuthi ahlale embozwe lapho ehamba phakathi kwezinyathelo.
 
-Umhlahlandlela wethu wokuphepha ekhaya [wokuphepha ekhaya](/caregiving/home-safety/) unolwazi olwengeziwe ngokukhanya egumbini lokugeza, izindawo ezishelelayo nokubuza ochwepheshe abafanele mayelana nezindonga zokubamba noma isihlalo seshawa.
+[Umhlahlandlela wethu wokuphepha ekhaya](/caregiving/home-safety/) unolwazi olwengeziwe ngokukhanya egumbini lokugeza, izindawo ezishelelayo nokubuza ochwepheshe abafanele mayelana nezindonga zokubamba noma isihlalo seshawa.
 
 ## Ngingasiza kanjani ngaphandle kokuthatha indawo yakhe?
 
@@ -57,7 +57,7 @@ Celani imvume ngaphambi kokuthinta umuntu noma ukusiza ngengxenye yomzimba eyimf
 
 Mvumeleni ageze izingxenye azikwazayo futhi azifisayo. Ningambozela ithawula bese nivula ingxenye eyodwa ezogezwa. Uma efisa, mnikezani ilaphu noma isepha ukuze abambe. Umuntu angase adinge isikhathi esengeziwe ukuqala noma ukuqeda; linda kunokuthi usheshe ngezinyathelo.
 
-Uma umuntu ekhathazeka, ehoxa noma esho ukuthi cha, yima. Mnike isikhala bese uzama ukuqonda ukuthi yini engakhululekile. Ikamelo lingase libe nokubanda, amanzi angase azwakale ngendlela engajwayelekile, noma umuntu angase afune omunye umsizi. Umuntu angase akhululeke kakhulu uma ekhetha umuntu omethembayo. Ungasebenzisi ukumangaza, ukuphoqa noma ukusiza ngokubamba ukuze uqede ukugeza.
+Uma umuntu ekhathazeka, ehoxa noma esho ukuthi cha, yima. Mnike isikhala bese uzama ukuqonda ukuthi yini engakhululekile. Ikamelo lingase libe nokubanda, amanzi angase azwakale ngendlela engajwayelekile, noma umuntu angase afune omunye umsizi. Umuntu angase akhululeke kakhulu uma ekhetha umuntu omethembayo. Ningasebenzisi ukumangaza, ukuphoqa noma ukusiza ngokubamba ukuze nigeze.
 
 ## Ngingalondoloza kanjani umkhuba ojwayelekile?
 
