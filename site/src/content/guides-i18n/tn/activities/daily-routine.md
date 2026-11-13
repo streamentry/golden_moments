@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Tlwaelo ya Letsatsi e e Bonolo ya Motho yo o nang le Dementia"
+seoTitle: "Tlwaelo ya Letsatsi ya Dementia: Sekai se se Fetogang"
+description: "Letsatsi la sekai le le fetogang la motho yo o nang le dementia: dijo, ditiro le boikhutso, le mokgwa wa go le fetola mo malatsing a a thatafetseng."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Tlwaelo e e bonolo ya letsatsi e baya go tsoga, dijo, tlhokomelo ya mmele le
+  nako ya go robala mo dinakong tse di atamelanang, e baya tiro e kgolo fa
+  motho a le tlhokomelong thata, mme e lekanya ditiro le boikhutso. E age go
+  tswa mo ditlwaelong tsa botshelo jwa motho jotlhe, e se ka ya tlala thata,
+  e nne le lesedi la letsatsi le metsamao letsatsi le letsatsi, mme o fetole
+  morero ka kgololosego fa letsatsi le tlhoka jalo.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Dinako tse di tlwaelegileng tsa go tsoga, dijo, tlhokomelo le go robala di naya letsatsi sebopego se se itsegeng."
+  - "Baya tiro e kgolo mo nakong e motho a leng botoka ka yone, gantsi e leng moso."
+  - "O seke wa tlatsa motsotso mongwe le mongwe. Boikhutso le nako e e kgutsitseng ke karolo ya tlwaelo."
+  - "Lesedi la letsatsi, metsamao ya letsatsi le letsatsi le go efoga dikhutsafalo tse di telele morago ga motshegare le kofi e e feditseng ka maitseboa go ka thusa mo go sa khutleng ga maitseboa."
+  - "Tlwaelo ke kaelo, e seng molao. Fetolela, khutshwafatsa kana tlogela sengwe le sengwe mo malatsing a a thatafetseng."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Tlwaelo e thusa jang motho yo o nang le dementia?"
+    a: "Letsatsi le le ka ineelwang le raya gore go na le diphitlhelelo le diphetogo tse di sa lebelelwang tse di nnye, tse batho ba bantsi ba ba nang le dementia ba fitlhelang di ba kgomotsa. Alzheimer's Association e bolela gore letsatsi le le rulagantsweng le letla go dirisa nako e nnye mo go tlhopheng gore o dire eng le nako e ntsi mo dilong tse lo di ratang mmogo. Gape le thusa batlhokomedi go lekanya letsatsi la bone."
+  - q: "Lenaneo le le siameng la letsatsi la motho yo o nang le dementia ke eng?"
+    a: "Ga go lenaneo le le lengwe fela le le siameng. Le le siameng le baya go tsoga, dijo le nako ya go robala mo dinakong tse di atamelanang, le baya tlhokomelo ya mmele le tiro e kgolo fa motho a le botoka, le akaretsa nako kwa ntle kana gaufi le fensetere, mme le tlogela sebaka sa boikhutso. Le aga go ya ka jaaka motho a nnile a tshela."
+  - q: "A motho yo o nang le dementia o tshwanetse go robala motshegare?"
+    a: "Boikhutso jo bokhutshwane bo ka thusa, bogolo jang morago ga dijo tsa motshegare. National Institute on Aging e kaela gore go kgoreletsiwe go robala go go telele le go lala morago ga motshegare, ka go ya ka gore go lapa thata kana go sa robale sentle go ka oketsa go sa khutleng ga maitseboa. Fa boroko e le bothata ruri, bua le ngaka ya gagwe."
+  - q: "Go ka direga jang fa a gana go latela tlwaelo?"
+    a: "Tlogela mo nakong eno, mme o leke gape moragonyana kana ka mokgwa o mongwe. Go gana go ka kaya gore o lapile, ga a fodile, o a opega kana ga a ise a ipaakanye. Tlwaelo e teng go dira letsatsi le nne bonolo, ka jalo e kobe go na le go e patelela."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Tlwaelo e e bonolo e naya letsatsi sebopego se se itsegeng: go tsoga, dijo, tiro e nnye, boikhutso le go robala mo dinakong tse di atamelanang. E fokotsa diphitlhelelo le dikgakgamatso, mme e go naya morero mo dinakong tse o neng o ka ipotsa gore o dire eng gone. Tlwaelo e e fa tlase ke sekai, e seng molao. E dirise e le tshimologo, mme o e bope go ya ka motho yo o mo tlhokomelang.
 
-## Why does a daily routine help?
+## Ke ka ntlha yang tlwaelo ya letsatsi e thusa?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Tlwaelo e e tlwaelegileng e thusa ka gonne ditsamaiso tse di itsegeng di bonolo go di latela go na le tse disešwa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) e re letsatsi le le rulagantsweng le raya nako e nnye ya go tlhopha gore o dire eng le nako e ntsi ya ditiro tse di monate, mme e bolela gore dinako tse di tlwaelegileng tsa go tsoga le go robala di ka thusa mo mathateng a boroko le go sa khutleng ga maitseboa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) e kaela go tlhapa, go apara le go ja mo dinakong tse di tshwanang letsatsi le letsatsi e le karolo ya ntlo e e kgutsitseng, mme [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) le yone e kgothaletsa go boloka ditlwaelo tse di tshwanang.
 
-## A sample gentle day
+## Letsatsi la sekai le le bonolo
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Dinako ke ditshwantshiso fela. Fetisa letsatsi lotlhe pele kana morago go tshwana le mokgwa wa motho.
 
-| Time | What happens | Ideas | On a harder day |
+| Nako | Se se diregang | Dikakanyo | Mo letsatsing le le thatafetseng |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 mo mosong | Go tsoga, go itlhapa, go apara | Tatelano e le nngwe letsatsi le letsatsi; baya diaparo ka tatelano ya go di apara | Dira tlhokomelo e le bonolo; hempe e e phepa e a lekana |
+| 8:45 mo mosong | Dijo tsa mo mosong | Kofi le koranta e balwang ka lentswe le le kwa godimo, kana radio | Jang mmogo ka kgutso, ga go na kgatelelo ya go bua |
+| 9:30 mo mosong | Tiro e kgolo | Go phutha diaparo, go baka, go lema serapa, go tswela kwa ntle ka nakwana kana go tsamaya | Mokgwa o o khutshwane, kana o mo tlogele a lebelele fa o dira |
+| 10:30 mo mosong | Nako e e kgutsitseng | Mmino, buka ya dienepe, kana go dula gaufi le fensetere | Khutsa mo setulong se a se ratang |
+| 11:00 mo mosong | Go thusa ka dijo tsa motshegare | Tlhatswa merogo, baya tafole | Wena o apaya; ene o nna le wena |
+| 12:00 motshegare | Dijo tsa motshegare le go phepafatsa | Phimola tafole, omisa dijana di le mmalwa | Tlogela ditiro tsa mo ntlong |
+| 1:00 motshegare | Boikhutso jo bokhutshwane | Maoto a le kwa godimo, mmino o o bonolo | Go tshwana |
+| 2:00 motshegare | Kwa ntle kana go tshameka | Go tsamaya, nako mo lebatong, go nosetsa dimela, go latlhela bolone | Dula gaufi le fensetere e e nang le letsatsi |
+| 3:00 motshegare | Kopano kana botaki | Ketelo, mogala, [dipaera tsa ditshwantsho](/games/picture-pairs/), go kala ka mebala, dikarata | Senwa le sengwe se se bonolo go jewa mmogo |
+| 4:30 motshegare | Nako ya go dudubala | Dikatene di tswaletswe, malabone a tsentswe, tiro e e kgutsitseng jaaka go phutha dithaole tse dinnye | Mmino o o itsegeng, modumo o o kwa tlase |
+| 5:30 mantsiboa | Dijo tsa maitseboa | Thusa ka go kgoka kana go baya tafole | Dijo tse di bonolo, tse di itsegeng |
+| 6:30 mantsiboa | Maitseboa mmogo | Gopola dilo tsa bogologolo fa lo ja selo se se monate, dikarata, lenaneo le le ratwang, go gagabiwa diatla | Go nna mmogo ka kgutso |
+| 8:00 maitseboa | Tlwaelo ya go robala | Go itlhapa kana go phimola, diaparo tsa boroko, mmino o o bonolo, malabone a a kwa tlase | Khutshwafatsa sengwe le sengwe; boiketlo pele |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Sekai seno se latela sebopego sa lenaneo la Alzheimer's Association ka boone la dikgato tsa ntlha le tsa bogare, le tswang mo tlhokomelong ya mmele le dijong tsa mo mosong go ya mo ditirong tsa mo ntlong, go tsamaya, mmino, boikhutso le ketelo, go ya go dijong tsa maitseboa, go gopola le go ipaakanyetsa go robala.
 
-## How do you build your own routine?
+## O ka aga jang tlwaelo ya gago?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Simolola go tswa mo go jaaka motho a nnile a tshela, e seng mo go chata. Alzheimer's Association e kaela gore o akanye ka dilo tse pele o rulaganya:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Se a se ratang le se a sa se rateng, dinonofo tsa gagwe le dikgatlhego.**
+- **Jaaka a ne a tlwaetse go dirisa letsatsi la gagwe.** Motho yo o tsogang ka bonako yo o neng a tsamaya le ntša kwa mosong o tshwanetse go tswelela a tsamaya ka bonako. Motho yo o tlwaetseng go nna a sa ntse a tsogile bosigo a ka se ke a rata go simolola ka 8 mo mosong.
+- **Nako ya gagwe e e siameng ya letsatsi.** Baya go itlhapa, go tswela kwa ntle le tiro e kgolo foo.
+- **Nako e e lekaneng** ya dijo, go itlhapa le go apara, gore go se ke ga nna le go potlakisa.
+- **Dinako tse di tlwaelegileng tsa go tsoga le go robala.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Mothopo o o tshwanang o kaela go akaretsa motswako wa ditiro tsa mo ntlong, dijo, tlhokomelo ya mmele, ditiro tsa botaki, tiro ya mmele, nako ya kopano, tiro ya semoya le dinako tse di sa rulaganngwang, jaaka tsala e e etetseng.
 
-### Try it for a week, then adjust
+### Leka ka beke, mme o bo o fetola
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Kwala nopolo e e bonolo letsatsi le letsatsi. Alzheimer's Association e kaela go botsa gore ke ditiro dife tse di dirileng botoka le gore ke ka ntlha yang, a go ne go na le dinako tse di nang le tse dintsi thata kana tse di sa nang sepe sa go se dira, le gore a merero e e sa rulaganngwang e ne e monate kana e ne e tlisa matshwenyego. Boloka se se dirang mme o fetole se se sa direng.
 
-### Make it visible
+### E dire e bonale
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Fa motho a santse a kgona go bala, boto ya go kwala kana karata ya mokwalo o mogolo e e nang le morero wa letsatsi e ka kgomotsa. E dire e khutshwane: "Dijo tsa mo mosong. Go tsamaya le Sarah. Dijo tsa motshegare. Boikhutso." Bangwe ba dira botoka fa ba sa itse pele ga nako; Family Caregiver Alliance e kaela gore o se ka wa bua ka merero go fitlha go gaufi le gore e direge fa e tlisa matshwenyego.
 
-## How to adapt the routine
+## Mokgwa wa go fetola tlwaelo
 
-### Leave room to breathe
+### Tlogela sebaka sa go ntsha mowa
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+O se ka wa tlatsa motsotso mongwe le mongwe. Alzheimer's Association e gatelela gore motho o tlhoka go lekalekana magareng ga tiro le boikhutso, mme a ka tlhoka dikhutso tse di nnang gantsi. Fa a bonala a lapile, a tlhakanelwa kana a befelwa, fetola ditiro kana o khutse.
 
-### Protect the late afternoon
+### Sireletsa kwa bofelong jwa motshegare
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Batho ba bantsi ba nna ba sa khutle fa lesedi la letsatsi le fokotsega. NIA e kaela nako kwa ntle kana gaufi le fensetere ya lesedi la letsatsi letsatsi le letsatsi, go tshameka letsatsi le letsatsi ntle le go rulaganya thata, go efoga kofi le bojalwa morago ga motshegare, le go kgoreletsa dikhutso tse di telele morago ga motshegare. Malapa a mangwe a fitlhela gape gore go thusa go tswala dikatene le go tshwara malabone pele ga lefifi. Bona [go sa khutleng ga maitseboa](/caregiving/late-day-restlessness/) le [boroko](/brain-health/sleep/).
 
-### Change it as needs change
+### E fetole fa ditlhokego di fetoga
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Kgato ya ntlha:** rulaganyang tlwaelo mmogo. Motho a ka rata lenaneo le le kwadilweng le a le tsamaisang ka boene.
+- **Kgato ya bogare:** wena o etelela pele thata. Ditiro tse di khutshwane, boikhutso jo bontsi le ditiro tse dintsi tse di itsegeng; bona [ditiro tsa kgato ya bogare](/activities/middle-stage/).
+- **Kgato ya bofelo:** tlwaelo e lebelela boiketlo, dijo le tlhokomelo, ka dinako tse dikhutshwane tsa maikutlo a mmele jaaka mmino kana go gagabiwa diatla gareng; bona [ditiro tsa kgato ya bofelo](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Fetola ditiro, e seng sebopego
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Boloka dijo, boikhutso le nako ya go robala di tlwaelegile, mme o fetise ditiro tse di mo gare. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e kaela go leka ditiro tse di farologaneng mo malatsing a a farologaneng go boloka dilo di kgatlhisa. O ka baka ka Mantaga, wa lema serapa ka Labobedi, mme wa lebelela dienepe ka Laboraro. [Dikakanyo tsa rona tse 101 tsa ditiro](/activities/ideas/) le [ditiro tsa mo ntlong](/activities/household-tasks/) di ka tlatsa dinako tseo.
 
-## When the day goes sideways
+## Fa letsatsi le sa tsamaye sentle
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Malatsi a mangwe a ka se ke a latela morero ope. Bolwetse, bosigo jo bo sa siamang, ketelo ya ngaka kana phetogo ya boso di ka tlhakanya sengwe le sengwe. Tlogela morero, boloka tse di botlhokwa (dijo, metsi, boikhutso, boiketlo) mme o leke gape ka moso. Fa motho a gana sengwe, bona [fa a re nnyaa](/caregiving/when-they-say-no/). Nako e khutshwane ya go hema ka bonya mmogo, jaaka [go hema ka kgutso](/games/calm-breathing/), e ka thusa lona lotlhe go simolola gape.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Tlwaelo ya gago le yone e botlhokwa. Aga dikhutso tsa gago, mme o kope lelapa kana tirelo ya boikhutso go tsaya nako ya gago ya go khutsa e e tlwaelegileng. Bona [go ipabalela ga motlhokomedi](/caregiving/caregiver-self-care/).

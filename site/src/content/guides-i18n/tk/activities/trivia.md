@@ -9,7 +9,7 @@ translatedFrom: 2026-10-25
 summary: >-
   Demensiýaly garrylar üçin aňsat wiktorina, synag däl-de, gürrüňe meňzände
   işleýär. Köne aýdymlar, nakyllar, baýramlar we gündelik durmuş ýaly öňden
-  öwrenilen zatlar barada soraň we hemişe iki-üç jogap saýlawy hödürläň.
+  öwrenilen zatlar barada soraň we hemişe iki-üç jogap saýlawyny hödürläň.
   Jogaby erkin aýdyň, hiç kimi aýratyn tapmaň, hasaby goýuň we her jogaby
   hekaýa başlamak üçin ulanyň. Dogry-ýalňyşy ýok «bu ýa-da şu» soraglary
   soňky tapgyrlara laýyk gelýär.
@@ -65,19 +65,19 @@ Ony öňden bolan zatlary tanamak we ýada salmak hakda ediň we her jogaby gar�
 
 ## Aýdym-saz we güýmenje wiktorinasy
 
-Jogap **galyň** harp bilen görkezilýär. Bularyň adama laýyklaşdyryň: Motown bilen ulalan adam, uly orkestrler bilen ulalan adamdan başga aýdymçylary isleýändir.
+Jogap **galyň** harp bilen görkezilýär. Bulary adama laýyklaşdyryň: Motown bilen ulalan adam, uly orkestrler bilen ulalan adamdan başga aýdymçylary isleýändir.
 
-| Sorag | Saýlawlar | Gürrüň ediň | 
+| Sorag | Saýlawlar | Gürrüň ediň |
 | --- | --- | --- |
 | Rok-n-rolyň patyşasy diýlip kim atlandyryldy? | **Elvis Presli**, Frank Sinatra, Bing Krosbi | Elvisi telewizorda gördüňizmi? |
-| Haýsy aýdymça «Ol Blue Eyes» (Köne gök göz) lakamy berildi? | Din Martin, **Frank Sinatra**, Perri Komo | Sinatranyň haýsy aýdymyny iň köp halaýarsyňyz? |
-| Bing Krosbi ak ... arzuw etdi | **Ro?ýestwo**, toý, öý | Bir setir bilelikde aýdyň |
-| Lui Armstronk «What a Wonderful...» (Nähili ajaýyp...) aýdym aýtdy | Gün, **Dünýä**, Ömür | Sizi dünýä näme ajaýyp edýär? |
-| «Over the Rainbow» aýdymyny Judy Garland haýsy filmde aýtdy? | **Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Halaýan filmleriňizi nirede gördüňiz? |
+| Haýsy aýdymça «Ol' Blue Eyes» lakamy berildi? | Din Martin, **Frank Sinatra**, Perri Komo | Sinatranyň haýsy aýdymyny iň köp halaýarsyňyz? |
+| Bing Krosbi ak ... arzuw etdi | **Roždestwo**, toý, öý | Bir setir bilelikde aýdyň |
+| Lui Armstrong «What a Wonderful...» aýdymyny aýtdy | Gün, **Dünýä**, Ömür | Sizi dünýä näme ajaýyp edýär? |
+| «Over the Rainbow» aýdymyny Judy Garland haýsy filmde aýtdy? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Halaýan filmleriňizi nirede gördüňiz? |
 | «I Love Lucy» gepleşiginde Lýusi rolunda kim oýnady? | **Lýusil Boll**, Doris Deý, Betti Waýt | Maşgalaňyz bilelikde haýsy gepleşikleri görýärdi? |
 | Haýsy kowboý Trigger atly atda münýärdi? | **Roý Rojers**, Jin Autri, Jon Weýn | Çagalykda kowboý oýnadyňyzmy? |
 | «The Tonight Show» gepleşigini 30 ýyl dowamynda kim alyp bardy? | Ed Saliwan, **Jonni Karson**, Bob Hop | Telewizora seretmek üçin giç ýatdyňyzmy? |
-| Haýsy saz gurallyň 88 klawişi bar? | Gitara, **pianino**, surnaý | Maşgalaňyzda kimdir biri çaldymy? |
+| Haýsy saz gurally 88 klawişa eýe? | Gitara, **pianino**, surnaý | Maşgalaňyzda kimdir biri çaldymy? |
 | Haýsy tans bir-iki-üç, bir-iki-üç diýlip sanalýar? | **Waltz**, tuist, tango | Tans etmäge nirä bardyňyz? |
 
 Aýdym-saz barada has köp maglumat üçin [demensiýa üçin aýdym-saz işlerine](/activities/music/) serediň.
@@ -86,11 +86,11 @@ Aýdym-saz barada has köp maglumat üçin [demensiýa üçin aýdym-saz işleri
 
 | Sorag | Saýlawlar | Gürrüň ediň |
 | --- | --- | --- |
-| Holodilnikler ýokka, köp öýde iýmit ... sowuk saklanýardy | **Buz sandygynda**, peçde, çerde | Buzy kim getirýärdi? |
+| Sowadyjylar ýokka, köp öýde iýmit ... sowuk saklanýardy | **Buz sandygynda**, peçde, çerde | Buzy kim getirýärdi? |
 | Aýna çüýşelerde süýdi gapa kim getirýärdi? | Poçtaçy, **süýtçi**, gazet daşaýjy | Öýe ýene näme getirilýärdi? |
 | Diskli telefony nädip jaňlaýardyňyz? | Düwmelere basyp, **tigirçegi aýlap**, oňa gürläp | Öýüňizdäki telefon hakda aýdyp beriň |
 | Model T awtoulagyny haýsy kompaniýa öndürdi? | **Ford**, Chevrolet, Buick | Halaýan awtoulagyňyz hakda aýdyp beriň |
-| Soda jerk-i nirede tapyp bilersiňiz? | **Soda gazly içgi kafesinde**, çörekhanada, bankda | Sekiniň ýanynda näme sargadyňyz? |
+| Soda jerk-i nirede tapyp bilersiňiz? | **Soda gazly içgi kafesinde**, çörekhanada, bankda | Kafäniň stolunda näme sargadyňyz? |
 | Basgançaklardan aşak ýöräp bilýän metal pružina oýnawajy haýsy? | Ýo-ýo, **Slinki**, hula-hup | Haýsy oýnawaçlary halaýardyňyz? |
 | Drive-in, ... seretmek üçin ýerdi | **Awtoulagyňyzdan kino**, top oýunlaryna, ýöreýişlere | Kim bilen bardyňyz? |
 | Bir dollarlyk kagyzda kimiň ýüzi bar? | Linkoln, **Jorj Waşington**, Jefferson | Şol wagt bir dollar näme satyn alýardy? |
@@ -102,32 +102,32 @@ Aýdym-saz barada has köp maglumat üçin [demensiýa üçin aýdym-saz işleri
 | Sorag | Saýlawlar | Gürrüň ediň |
 | --- | --- | --- |
 | Noýabr aýynyň dördünji penşenbesinde haýsy baýram bar? | Zähmet güni, **Şükür güni**, Ýadygärlik güni | Stolyňyzda hemişe näme bardy? |
-| Jack-o'-lantern (bol çyra) haýsy baýram üçin ýasalýar? | **Halloween**, Pasha, Ro?ýestwo | Ulalan ýeriňizde Halloween hakda aýdyp beriň |
+| Gabakdan ýasalan çyralar haýsy baýram üçin ýasalýar? | **Halloween**, Pasha, Roždestwo | Ulalan ýeriňizde Halloween hakda aýdyp beriň |
 | Iýulyň dördüsi ... Jarnamasyny belleýär | Hukuk, **Garaşsyzlyk**, Azatlyk | Salýutlara nirede seredýärdiňiz? |
 | Eneler güni haýsy aýda? | Aprel, **Maý**, Iýun | Maşgalaňyz ony nädip bellärdi? |
 | Amerikan baýdagynda näçe ýyldyz bar? | 48, **50**, 52 | Baýdakda 1959-njy ýyla çenli 48 ýyldyz bardy. Iki jogap hem gowy ýatlamadyr |
-| Gündogar kenarynda haýsy ummanyň ýerleşýär? | Ýuwaş, **Atlantika**, Arktika | Haçan-da bolsa kenara bardyňyzmy? |
+| Gündogar kenarynda haýsy umman ýerleşýär? | Pasifik, **Atlantika**, Arktika | Haçan-da bolsa kenara bardyňyzmy? |
 | Azatlyk heýkeli haýsy şäherde? | Boston, **Nýu-Ýork**, Filadelfiýa | Nýu-Ýorkda bolduňyzmy? |
 | Arylar näme ýasaýar? | Süýt, **bal**, ýüpek | Bal tostda ýa-da çaýda? |
 | Mal göläniň ady näme? | Taýçak, **göle**, owlak | Haçan-da bolsa fermanyň ýanynda ýaşadyňyzmy? |
-| Güne tarap öwrülmegi bilen meşhur ýokary sary gül haýsy? | Roza, **gün ýüzi**, lale | Bagyňyzda näme ösýärdi? |
-| Böwrek ýylda näçe gün bolýar? | 365, **366**, 360 | Ýadyňyzda galan doglan gün hakda aýdyp beriň |
+| Güne tarap öwrülmegi bilen meşhur uzyn sary gül haýsy? | Roza, **günebakar**, lale | Bagyňyzda näme ösýärdi? |
+| Kebise ýylynda näçe gün bolýar? | 365, **366**, 360 | Ýadyňyzda galan doglan gün hakda aýdyp beriň |
 | Gyşdan soň haýsy pasyl gelýär? | Güýz, **ýaz**, tomus | Halaýan pasylyňyz haýsy? |
 
 ## Nahar we sport wiktorinasy
 
 | Sorag | Saýlawlar | Gürrüň ediň |
 | --- | --- | --- |
-| Kişmişler gurudylan ... | Alça, **üzüm**, gylyç | Nahar gaplaryna kişmiş salýardyňyzmy? |
-| Prunes gurudylan ... | **Alça**, injir, alma | Maşgalaňyzda kim prunes söýýärdi? |
-| Peanut butter we ... | **Jelly**, peýnir, çerkez | Ýumşakmy ýa-da gatymy? |
+| Kişmiş gurudylan ... | Alça, **üzüm**, gilas | Nahar gaplaryna kişmiş salýardyňyzmy? |
+| Gara alça gurudylan ... | **Alça**, injir, alma | Maşgalaňyzda kim gara alça söýýärdi? |
+| Ýer hozunyň ýagy we ... | **Mürebbe**, peýnir, et | Gatymy ýa-da ýumşakmy? |
 | Guakamole esasan ... ýasalýar | Noýba, **awokado**, hyýar | Toýlarda haýsy sousy getirýärdiler? |
-| Şükür güni üçin halanýan çörek haýsy? | **Gabak**, limon, gylas | Haýsy çöregi bişirýärdiňiz? |
+| Şükür güni üçin halanýan pirog haýsy? | **Gabak**, limon, gilas | Haýsy pirogy bişirýärdiňiz? |
 | Beýsbol toparynyň meýdançada näçe oýunçysy bolýar? | 7, **9**, 11 | Haýsy topary goldaýardyňyz? |
 | Beýsbolda näçe strike bir aut bolýar? | Iki, **üç**, dört | Haçan-da bolsa top oýnadyňyzmy? |
 | Beýb Rut haýsy sport bilen meşhur boldy? | Boks, **beýsbol**, golf | Top oýunlaryna bardyňyzmy? |
 | Adaty golf meýdançasynda näçe çukur bar? | 9, **18**, 24 | Haçan-da bolsa golf ýa-da mini golf oýnadyňyzmy? |
-| Haýsy sportda tačdaun hasaplanýar? | **Futbol**, hokkeý, basketbol | Öýüňizde kim futbola seredýärdi? |
+| Haýsy sportda taçdaun hasaplanýar? | **Futbol**, hokkeý, basketbol | Öýüňizde kim futbola seredýärdi? |
 
 ## Tanyş nakyllar
 
@@ -135,14 +135,14 @@ Nakyly tamamlamak öňden öwrenilen dili ulanýar we köplenç aňsat gelýär.
 
 | Nakyl | Saýlawlar | Gürrüň ediň |
 | --- | --- | --- |
-| Günde bir alma ... saklaýar | **Lukmany daşda**, ýagşyry daşda, pişigi daşda | Muny size kim aýdýardy? |
+| Günde bir alma lukmany ... saklaýar | **Daşda**, ýagşyry daşda, pişigi daşda | Muny size kim aýdýardy? |
 | Ir turan guş ... tutýar | Awtobusy, **gurty**, otlyny | Siz ir turýan adammy? |
 | Towuklaryňyzy ... öň sanamaň | **Çykmanka**, ýatmanka, aýdym aýtmanka | Maşgalaňyz towuk saklaýardymy? |
 | Tygşytlanan teňňe ... teňňedir | **Gazanylan**, ýitirilen, sarp edilen | Maşgalaňyzda tygşytlaýan kim bardy? |
 | Öý, ... ýerdir | Baglyk, **ýürek**, aşhana | Bir ýeri öý ýaly edýän zat näme? |
 | Giç galmakdan ... gowy | Ir, **hiç haçan**, ötünç | Hemişe kim giç galýardy? |
 | Her bulutyň ... çyzgysy bar | **Kümüş**, çemçe, teňňe | Bagtly pursat hakda aýdyp beriň |
-| Hereketler ... has ýokary gürleýär | **Sözlerden**, aýdym-sazdan, gökgürlemeden | Muny aýdýan biri hakda aýdyp beriň |
+| Hereketler ... has gaty gürleýär | **Sözlerden**, aýdym-sazdan, gökgürlemeden | Muny aýdýan biri hakda aýdyp beriň |
 
 ## Dogry-ýalňyşy ýok «bu ýa-da şu» soraglary
 
@@ -152,13 +152,13 @@ Bular her tapgyra, soňky tapgyrlara hem laýyk gelýär, sebäbi dogry etmeli z
 - Kenarmy ýa-da daglarmy?
 - Itlermi ýa-da pişiklermi?
 - Tomusmy ýa-da gyşmy?
-- Çörekmi ýa-da tortmy?
+- Pirogmy ýa-da tortmy?
 - Tans etmekmi ýa-da seretmekmi?
 - Gün dogmasymy ýa-da gün batmasymy?
 - Eýwanmy ýa-da arka howlumy?
 - Radiomy ýa-da plastinkalarmy?
 - Blinmi ýa-da ýumurtgamy?
-- Gül roza ýa-da romaşkamy?
+- Gül rozamy ýa-da romaşkamy?
 - Otly syýahatymy ýa-da awtoulag syýahatymy?
 
 Suratlar bilen bile gidýän gürrüň soraglary üçin çap ediljek [Gürrüň kartlarymyzy](/games/conversation-cards/) synap görüň.
