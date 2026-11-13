@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "דעמענץ־ריזיקע־פֿאַקטאָרן: די 14 װאָס די לאַנסעט־קאָמיסיע האָט באַצײכנט"
+seoTitle: "דעמענץ־ריזיקע־פֿאַקטאָרן: די 14 לאַנסעט־פֿאַקטאָרן"
+description: "די 14 פּאָטענציעל ענדערבאַרע ריזיקע־פֿאַקטאָרן פֿאַר דעמענץ לױט דער 2024 לאַנסעט־קאָמיסיע, לױט לעבנס־שטאַפּל, מיט װאָס פֿאָרשונג פֿאַרבינדט און װאָס מען קען באַשפּרעכן מיט אַ דאָקטער."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  די 2024 לאַנסעט־קאָמיסיע האָט באַצײכנט 14 פּאָטענציעל ענדערבאַרע ריזיקע־פֿאַקטאָרן פֿאַר דעמענץ: װייניק שול־יאָר, געהער־פֿאַרלוסט, הויכער שלעכטער כאָלעסטערין (LDL), דעפּרעסיע, קאָפּ־פֿאַרלעצונג, פֿיזישע אומבאַװעגלעכקײט, צוקערקרענק, רױכערן, הויכער בלוטדרוק, אַדיפּאָזיטעט, איבערמעסיקער אַלקאָהאָל, געזעלשאַפֿטלעכע איינזאַמקײט, לופֿט־פֿאַרפּעסטיקונג און נישט־באַהאַנדלטער זעונג־פֿאַרלוסט. צוזאַמען פֿאַרבינדט מען זײ מיט אַרום 45% פֿון פֿאַלן אױף דער װעלט, אָבער קײן גאַראַנטיע פֿאַר קײן איינציקן מענטש.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "די 14 פֿאַקטאָרן דעקן דאָס גאַנצע לעבן: איינער אין פֿרי־יוגנט, צען אין מיטן לעבן און דרײַ אין שפּעטערע יאָרן."
+  - "געהער־פֿאַרלוסט און הויכער שלעכטער כאָלעסטערין (LDL) אין מיטן לעבן זענען יעדער פֿאַרבונדן מיט אַרום 7% פֿון דעמענץ־פֿאַלן אױף דער װעלט, די גרעסטע אָנטיילן פֿון אײן פֿאַקטאָר."
+  - "די פּראָצענטן זענען באַפֿעלקערונגס־שאַצונגען, װאָס נעמען אָן אַ סיבה־און־װירקונג. עטלעכע פֿאַרבינדונגען קענען נאָר טײלװײַז קאָזאַל זײַן."
+  - "עלטער און גענעס, װאָס קײנער קען נישט ענדערן, זענען אויך גרױסע ריזיקע־פֿאַקטאָרן. די 14 פֿאַקטאָרן צו פֿאַרמינדערן געבן נישט קײן גאַראַנטיע, אַז עמעץ װעט נישט באַקומען דעמענץ."
+  - "רובֿ פֿון די שריטן, װי בלוטדרוק, געהער־ און זעונג־בדיקות, זענען גוט פֿאַר די געזונט אויך אויף אַנדערע אופֿנים, און זיי זענען װערט צו באַשפּרעכן מיט אַ דאָקטער."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "װאָס זענען די 14 ענדערבאַרע ריזיקע־פֿאַקטאָרן פֿאַר דעמענץ?"
+    a: "די 2024 לאַנסעט־קאָמיסיע האָט באַצײכנט װייניק בילדונג, געהער־פֿאַרלוסט, הויכן שלעכטן כאָלעסטערין (LDL), דעפּרעסיע, קאָפּ־פֿאַרלעצונג, פֿיזישע אומבאַװעגלעכקײט, צוקערקרענק, רױכערן, הויכן בלוטדרוק, אַדיפּאָזיטעט, איבערמעסיקן אַלקאָהאָל, געזעלשאַפֿטלעכע איינזאַמקײט, לופֿט־פֿאַרפּעסטיקונג און נישט־באַהאַנדלטן זעונג־פֿאַרלוסט. צוזאַמען פֿאַרבינדט מען זײ מיט כּמעט העלפֿט פֿון דעמענץ־פֿאַלן אױף דער װעלט."
+  - q: "װעלכער דעמענץ־ריזיקע־פֿאַקטאָר װעגט דער מערסטן?"
+    a: "אױף דער װעלט האָט די קאָמיסיע געשאַצט, אַז געהער־פֿאַרלוסט און הויכער שלעכטער כאָלעסטערין אין מיטן לעבן זענען יעדער פֿאַרבונדן מיט אַרום 7% פֿון פֿאַלן, נאָכגעפֿאָלגט פֿון װייניק בילדונג און געזעלשאַפֿטלעכער איינזאַמקײט מיט אַרום 5% יעדער. װאָס פֿאַר פֿאַקטאָרן װעגן דער מערסטן פֿאַר איין מענטש הענגט אָפּ פֿון זײַן אייגענער געזונט, דעריבער איז אַ דאָקטער דער בעסטער פֿירער."
+  - q: "זענען די צװײ נײע ריזיקע־פֿאַקטאָרן צוגעלײגט געװאָרן אין 2024?"
+    a: "יאָ. דער 2024 באַריכט האָט צוגעלײגט הויכן שלעכטן כאָלעסטערין (LDL) אין מיטן לעבן און נישט־באַהאַנדלטן זעונג־פֿאַרלוסט אין שפּעטערע יאָרן צו די 12 פֿאַקטאָרן װאָס זענען באַצײכנט געװאָרן אין 2020. די קאָמיסיע האָט זײ פֿאַרבונדן מיט אַרום 7% און 2% פֿון פֿאַלן, אַזױ װי װײטער אױבן געזאָגט."
+  - q: "איז עלטער אַ ריזיקע־פֿאַקטאָר װאָס מען קען ענדערן?"
+    a: "נײן. עלטער איז דער גרעסטער באַקאַנטער ריזיקע־פֿאַקטאָר פֿאַר אַלצהײמערס, און מען קען אים נישט ענדערן. גענעס שפּילן אויך אַ ראָלע. די 14 פֿאַקטאָרן אױף דעם בלאַט זענען יענע, װאָס פֿאָרשונג װײַזט, אַז מען קען זײ פּאָטענציעל ענדערן."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+אַ ריזיקע־פֿאַקטאָר איז עפּעס װאָס איז פֿאַרבונדן מיט אַ העכערער מעגלעכקײט צו באַקומען אַ קרענק. עס איז נישט אין יעדן פֿאַל אַ סיבה, און צו האָבן איינעם באַדײט נישט, אַז מען װעט באַקומען דעמענץ. דער בלאַט רעכנט די 14 ענדערבאַרע דעמענץ־ריזיקע־פֿאַקטאָרן װאָס די 2024 לאַנסעט־קאָמיסיע האָט געזאָגט, אַז מען קען פּאָטענציעל ענדערן, װאָס פֿאָרשונג פֿאַרבינדט זײ מיט, און װאָס מען קען באַשפּרעכן מיט אַ דאָקטער.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+פֿאַר דעם גרױסן בילד, אײַנגערעכנט װאָס גרױסע פּרוּװן האָבן געפֿונען, הײבט אָן מיט [קען מען דעמענץ פֿאַרהיטן? װאָס די פֿאָרשונג זאָגט](/brain-health/can-dementia-be-prevented/). דער בלאַט איז אַ אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה; זעט [אונדזער מעדיצינישן אָפּזאָג](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## װאָס זענען די 14 ריזיקע־פֿאַקטאָרן פֿאַר דעמענץ?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+די [2024 לאַנסעט־קאָמיסיע](https://doi.org/10.1016/S0140-6736(24)01296-0), געשריבן פֿון 27 דעמענץ־פֿאָרשער, האָט געשאַצט, אַז 14 פּאָטענציעל ענדערבאַרע ריזיקע־פֿאַקטאָרן צוזאַמען מאַכן אַרום 45% פֿון דעמענץ־פֿאַלן אױף דער װעלט. דער פּראָצענט פֿאַר יעדן פֿאַקטאָר אונטן איז די שאַצונג פֿון דער קאָמיסיע פֿון דעם טייל פֿון פֿאַלן אױף דער װעלט, װאָס זענען פֿאַרבונדן מיט אים, אָפּגעשטרײַכן צו גאַנצע צאָלן. די פּראָצענטן איבערלאָפֿן, װײַל פֿיל מענטשן האָבן עטלעכע ריזיקעס אױף אײַנמאָל, און דעריבער לײגן זײ זיך צונױף צו 45% און נישט מער.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| פֿאַקטאָר | לעבנס־שטאַפּל | אָנטייל פֿון פֿאַלן | װאָס פֿאָרשונג פֿאַרבינדט | װאָס איר קענט טאָן |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| װייניק בילדונג | פֿרי־יוגנט | 5% | װייניק שול־יאָר איז פֿאַרבונדן מיט העכערער ריזיקע. מענטאַל אַקטיװ זײַן אין מיטן לעבן װײַזט אויך אַ שוץ, אפֿילו בײַ מענטשן מיט װייניק שול. | לערנט װײַטער און טוט מענטאַל אינטערעסאַנטע זאַכן אין יעדן עלטער: לײענען, כאָבאַיס, קורסן, שפּילן מיט אַנדערע. |
+| געהער־פֿאַרלוסט | מיטן לעבן | 7% | אַנבאַהאַנדלטער געהער־פֿאַרלוסט איז פֿאַרבונדן מיט העכערער ריזיקע. שטודיעס װאָס פֿאָלגן מענטשן איבער צײַט פֿאַרבינדן געהער־אַפּאַראַטן־נוץ מיט נידעריקערער ריזיקע. | לאָזט זיך בדיקן דאָס געהער. פֿרעגט צי געהער־אַפּאַראַטן װאָלטן געהאָלפֿן, און טראָגט זײ אױב עס איז פֿאָרגעשריבן. שוצט די אױערן פֿון לויטע ראַשן. |
+| הויכער שלעכטער כאָלעסטערין (LDL) | מיטן לעבן (פֿון אַרום 40) | 7% | הויכער שלעכטער כאָלעסטערין אין מיטן לעבן איז פֿאַרבונדן מיט העכערער ריזיקע. אָבסערװאַציע־שטודיעס פֿאַרבינדן סטאַטין־נוץ מיט נידעריקערער ריזיקע, אָבער פּרוּװן אין שפּעטערע יאָרן האָבן דאָס נישט געװיזן. | פֿרעגט אַ דאָקטער צי אײער כאָלעסטערין דאַרף בדיקן װערן, און װאָס, אױב עפּעס, צו טאָן דערװעגן. |
+| דעפּרעסיע | מיטן לעבן | 3% | דעפּרעסיע איז פֿאַרבונדן מיט העכערער ריזיקע. אין שפּעטערע יאָרן קען דעפּרעסיע אויך זײַן אַ פֿרי צײכן פֿון דעמענץ. | זאָגט אַ דאָקטער װעגן נידעריקע שטימונג אָדער פֿאַרלוסט פֿון אינטערעס װאָס דויערט מער װי צװײ װאָכן. דעפּרעסיע איז באַהאַנדלבאַר. |
+| קאָפּ־פֿאַרלעצונג | מיטן לעבן | 3% | קאָפּ־פֿאַרלעצונג אין קײן עלטער און פֿון קײן מקור, אײַנגערעכנט קאָנטאַקט־ספּאָרטן, איז פֿאַרבונדן מיט העכערער ריזיקע. | טראָגט אַ העלם בײַם רײַטן אויף אַ פֿאַר־ראָד און בײַ קאָנטאַקט־ספּאָרטן. פֿרעגט װעגן פֿאַלן־פֿאַרהיטן. רוט און לאָזט זיך בדיקן נאָך אַ קאָפּ־פֿאַרלעצונג. |
+| פֿיזישע אומבאַװעגלעכקײט | מיטן לעבן | 2% | מענטשן װאָס זענען אַקטיװ און שפּילן ספּאָרט װערן װייניקער מסתּמא קראַנק פֿון דעמענץ. דער פּרוּװ־באַװײַז איז נאָך באַגרענעצט. | פֿרעגט װאָס פֿאַר אַ טעטיקײט איז זיכער און גענוג פֿאַר אײַך, און געפֿינט עפּעס װאָס איר האָט ליב. זעט אונדזער [באַװעגונג־גײד](/brain-health/exercise/). |
+| צוקערקרענק | מיטן לעבן | 2% | צוקערקרענק, באַזונדערס װאָס הײבט זיך אָן אין מיטן לעבן אָדער װערט לענגער, איז פֿאַרבונדן מיט העכערער ריזיקע. | לאָזט מען בדיקן דעם בלוט־צוקער. אױב איר האָט צוקערקרענק, אַרבעט מיט אײער באַהאַנדלונגס־טים צו פֿירן עס זיכער. |
+| רױכערן | מיטן לעבן | 2% | רױכערן איז פֿאַרבונדן מיט העכערער ריזיקע. שטודיעס געפֿינען, אַז פֿריִערדיקע רױכערס האָבן נישט דעם זעלבן העכערן ריזיקע װי מענטשן װאָס רױכערן װײַטער. | פֿרעגט װעגן שטיצע צו אױפֿהערן. עס איז װערט צו אױפֿהערן אין קײן עלטער. |
+| הויכער בלוטדרוק | מיטן לעבן | 2% | הויכער בלוטדרוק אין מיטן לעבן איז פֿאַרבונדן מיט העכערער ריזיקע. פּרוּװן פֿון בלוטדרוק־מעדיצין װײַזן אַ מעסיקע נידעריקערע ריזיקע פֿון דעמענץ אָדער קאָגניטיװער שװאַכקײט. | װײסט אײַערע נומערן. די קאָמיסיע רעקאָמענדירט אַ אױבערן נומער פֿון 130 אָדער נידעריקער פֿון אַרום 40 יאָר; פֿרעגט װאָס אַ ציל פּאַסט פֿאַר אײַך. |
+| אַדיפּאָזיטעט | מיטן לעבן | 1% | אַדיפּאָזיטעט אין מיטן לעבן איז פֿאַרבונדן מיט העכערער ריזיקע, און עס העכערט אויך די ריזיקע פֿון צוקערקרענק. | פֿרעגט אַ דאָקטער װאָס איז אַ געזונט געװיכט פֿאַר אײַך. עלטערע מענטשן זאָלן נישט דיעטן צו פֿאַרלירן געװיכט אָן מעדיצינישן ראַט. |
+| איבערמעסיקער אַלקאָהאָל | מיטן לעבן | 1% | שװער טרינקען איז פֿאַרבונדן מיט העכערער ריזיקע. אַראָפּשטעלן פֿון שװער טרינקען איז פֿאַרבונדן מיט נידעריקערער ריזיקע. | פֿרעגט װאָס איז אַ זיכערע גרענעץ פֿאַר אײַך, באַזונדערס מיט אײַערע מעדיצינען. |
+| געזעלשאַפֿטלעכע איינזאַמקײט | שפּעטערע יאָרן | 5% | זעלטענע געזעלשאַפֿטלעכע קאָנטאַקטן זענען פֿאַרבונדן מיט העכערער ריזיקע. | האַלט קאָנטאַקט מיט מענטשן אין װעגן װאָס איר האָט ליב. זעט אונדזער [געזעלשאַפֿטלעכן פֿאַרבינדונג־גײד](/brain-health/social-connection/). |
+| לופֿט־פֿאַרפּעסטיקונג | שפּעטערע יאָרן | 3% | לעבן מיט מער לופֿט־פֿאַרפּעסטיקונג איז פֿאַרבונדן מיט העכערער ריזיקע. שטודיעס פֿאַרבינדן ריינערע לופֿט מיט נידעריקערער ריזיקע. | מערסטנס אַ ענין פֿאַר ציבורישע פּאָליטיק. קוקט אויף לאָקאַלע לופֿט־װאָרענונגען און באַגרענעצט צײַט אַרױס אין זייער פֿאַרפּעסטיקטע טעג. |
+| נישט־באַהאַנדלטער זעונג־פֿאַרלוסט | שפּעטערע יאָרן | 2% | אַנקאָרעקטירטע זעונג־פּראָבלעמען זענען פֿאַרבונדן מיט העכערער ריזיקע. אײן גרױסע אַמעריקאַנישע שטודיע פֿאַרבינדט קאַטאַראַקט־כירורגיע מיט נידעריקערער ריזיקע. | האָט רעגולערע אױגן־בדיקות. פֿרעגט צי פּראָבלעמען װי קאַטאַראַקטן קענען באַהאַנדלט װערן. |
 
-## How should I read these percentages?
+## װי זאָל מען לײענען די פּראָצענטן?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+מיט אױפֿמערקזאַמקײט. די קאָמיסיע אַליין מאַכט עטלעכע פּונקטן װערט צו געדענקען:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **זײ באַשרײַבן באַפֿעלקערונגען, נישט מענטשן.** [דער זאַמענפֿאַסונג פֿון דעם באַריכט](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) פֿון UCL באַמערקט, אַז ריזיקע־ענדערונג אַרבעט איבער אַ באַפֿעלקערונג און גאַראַנטירט נישט, אַז קײן איינציקער מענטש װעט נישט האָבן דעמענץ.
+- **זײ נעמען אָן אַ סיבה־און־װירקונג.** די מחברים האָבן אַרײַנגענומען נאָר פֿאַקטאָרן מיט איבערצײגנדע באַװײַזן, אָבער זאָגן, אַז עטלעכע פֿאַרבינדונגען קענען זײַן נאָר טײלװײַז קאָזאַל.
+- **זײ זענען װעלט־װײַטע צאָלן.** רובֿ דאַטן קומען פֿון הויך־איינקומענדיקע לענדער, און דער פּראָצענט פֿאַר יעדן לאַנד אָדער קהילה װעט זיך אונטערשײדן.
+- **קלײנע פּראָצענטן קענען נאָך זײַן װיכטיק.** אַ פֿאַקטאָר װאָס איז פֿאַרבונדן מיט 2% פֿון פֿאַלן אױף דער װעלט, טרעפֿט נאָך אַ זייער גרױסע צאָל מענטשן.
 
-## Which risk factors were added in 2024?
+## װאָס פֿאַר פֿאַקטאָרן זענען צוגעלײגט געװאָרן אין 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+דער 2024 באַריכט האָט צוגעלײגט צװײ פֿאַקטאָרן צו די 12 װאָס זענען באַצײכנט געװאָרן אין 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **הויכער שלעכטער כאָלעסטערין (LDL) אין מיטן לעבן**, פֿאַרבונדן מיט אַרום 7% פֿון פֿאַלן.
+- **נישט־באַהאַנדלטער זעונג־פֿאַרלוסט אין שפּעטערע יאָרן**, פֿאַרבונדן מיט אַרום 2% פֿון פֿאַלן.
 
-## What risk factors cannot be changed?
+## װאָס פֿאַר ריזיקע־פֿאַקטאָרן קען מען נישט ענדערן?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA) זאָגט, אַז [עלטער איז דער גרעסטער באַקאַנטער ריזיקע־פֿאַקטאָר פֿאַר אַלצהײמערס](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), און קײנער קען עס נישט ענדערן. גענעס שפּילן אויך אַ ראָלע; איינע באַקאַנטע גענע װאָס באַאײַנפֿלוסט אַלצהײמערס־ריזיקע הײסט APOE. דער NIA לײגט צו, אַז װיסנשאַפֿטלער פֿאַרשטײן נאָך נישט גאַנץ װאָס עס פֿאַרורזאַכט אַלצהײמערס בײַ רובֿ מענטשן. די לאַנסעט־קאָמיסיע באַמערקט, אַז די פּאָטענציעל ענדערבאַרע ריזיקעס קענען פֿאַרמינדערט װערן אַבי װאָס די גענעטישע ריזיקע פֿון אַ מענטש איז.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+װײַל עלטער און גענעס שפּילן אַזױ אַ גרױסע ראָלע, האָבן פֿיל מענטשן װאָס האָבן קײן פֿון די 14 פֿאַקטאָרן נאָך אַלץ דעמענץ. דאָס איז נישט קײנס שולד.
 
-## What does the trial evidence say about changing these risks?
+## װאָס זאָגט דער פּרוּװ־באַװײַז װעגן ענדערן די ריזיקעס?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+צו פֿאַרבינדן אַ ריזיקע־פֿאַקטאָר מיט דעמענץ איז נישט דאָס זעלבע װי באַװײַזן, אַז ענדערן עס פֿאַרמינדערט דעמענץ־ריזיקע. עטלעכע בײַשפּילן פֿון װוּ דער פּרוּװ־באַװײַז שטייט:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **בלוטדרוק.** אין דעם SPRINT MIND פּרוּװ האָט אַ נידעריקערער בלוטדרוק־ציל באַטײַטנד פֿאַרמינדערט מילדע קאָגניטיװע שװאַכקײט. עס האָט נישט באַטײַטנד פֿאַרמינדערט װאַרשײנלעכע דעמענץ, כאָטש דער פּרוּװ קען געװען צו קלײן געװען זײַן, כּדי עס צו װײַזן ([SPRINT MIND אין JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **געהער־אַפּאַראַטן.** די לאַנסעט־קאָמיסיע באַשרײַבט אַ דרײ־יאָריקן פּרוּװ פֿון געהער־אַפּאַראַטן, װאָס האָט נישט געפֿונען קײן גאַנצן אײַנפֿלוס אויף דענקען, אָבער אַ נוצן אין אַ אונטערגרופּע פֿון מענטשן מיט העכערער ריזיקע. שטודיעס װאָס פֿאָלגן מענטשן איבער צײַט פֿאַרבינדן געהער־אַפּאַראַטן־נוץ מיט נידעריקער ריזיקע. אונדזער [געהער־גײד](/brain-health/hearing/) האָט מער.
+- **פֿיזישע אַקטיװיטעט.** דער NIA זאָגט, אַז עס איז נישט גענוג קליניש־פּרוּװ־באַװײַז צו שליסן, אַז אַקטיװיטעט קען פֿאַרהיטן אָדער פֿאַרלאַנגזאַמען מילדע קאָגניטיװע שװאַכקײט אָדער אַלצהײמערס, כאָטש עטלעכע שטודיעס װײַזן, אַז עס קען העלפֿן מיט עלטער־פֿאַרבונדענער ירידה ([NIA װעגן פֿאַרהיטן אַלצהײמערס](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+לאַנגע פּרוּװן װאָס װאַרטן ביז דעמענץ אַנטװיקלט זיך, זענען לאַנגזאַם און טײַער, דעריבער װעט דער בעסטער באַװײַז פֿאַר פֿיל פֿאַקטאָרן װײַטער קומען פֿון שטודיעס װאָס פֿאָלגן מענטשן איבער יאָרן. דער באַװײַז איז נוציק, אָבער שװאַכער װי אַ פּרוּװ.
 
-## What about sleep and diet?
+## װאָס זאָגט מען װעגן שלאָף און דיעטע?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+די קאָמיסיע האָט איבערגעקוקט שלאָף און דיעטע, אָבער האָט זײ נישט צוגעלײגט צו דער ליסטע, װײַל דער באַװײַז איז נישט שטאַרק אָדער קאָנסיסטענט גענוג. אונדזערע גײדס װעגן [שלאָף](/brain-health/sleep/) און [דיעטע](/brain-health/diet/) דערקלערן װאָס מע װײסט.
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+אַ יאָרלעכע בדיקה איז אַ גוטע צײַט צו טרעפֿן די טעמעס. איר קענט ברענגען די ליסטע און פֿרעגן:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- װאָס זענען מײַנע בלוטדרוק־, בלוט־צוקער־ און כאָלעסטערין־נומערן, און צי דאַרף עפּעס אַ אױפֿמערקזאַמקײט?
+- צי זאָל איך לאָזן בדיקן מײַן געהער און מײַנע אױגן?
+- צי איז די טעטיקײט װאָס איך טו זיכער און גענוג פֿאַר מיר?
+- צי קענען עטלעכע פֿון מײַנע מעדיצינען באַאײַנפֿלוסן דאָס דענקען אָדער זכרון?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+בעװאָר איר ענדערט מעדיצינען, דיעטע, פֿאַסטן, טעטיקײט אָדער דערנערונג־צוגאָבן, רעדט ערשט מיט אַ דאָקטער. אױב איר אָדער עמעצער װאָס איר פֿאַרזאָרגט האָט פּלוצעמדיקע צעמישונג, שװעכקײט אױף איין זײַט, אָדער שװערקײט צו רעדן, רופֿט אָן אײַער לאָקאַלן נויטנומער.

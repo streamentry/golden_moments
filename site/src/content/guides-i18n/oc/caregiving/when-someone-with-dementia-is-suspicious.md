@@ -14,12 +14,12 @@ keyPoints:
   - "Utilizatz de lòcs familièrs pels objèctes que se perdon sovent e gardatz de nòtas per las questions d'argent o de cura."
   - "Supausatz pas que l'acusacion es falsa; verificatz los fachs e cercatz d'ajuda quand la seguretat o l'abús pòdon èsser en question."
 faq:
-  - q: "Perqué una persona amb demència me poiriá creire coupable d'un vòl?"
+  - q: "Perqué una persona amb demència me poiriá creire colpable d'un vòl?"
     a: "Una persona pòt oblidar a on a metut un objècte o mal interpretar çò que s'es passat, e aquò pòt menar a la sospicion. Mas supausatz pas que cada inquietud es causada per la demència. Verificatz los fachs amb calma e considerat de demandar a una persona de confiança d'ajudar."
   - q: "Qué dire quand una persona me acusa de vòl?"
     a: "Demoratz calme e reconeissètz la inquietud, per exemple : « Sètz inquiet perque vòstre portafòli es perdut. Cercam-lo ensemble. » Evitatz d'argumentar o d'insistir que la persona a tòrt. Gardatz una responsa curta e cambiatz de subjècte sonque se sembla preparada."
   - q: "Dever-ai ignorar una acusacion perque la persona a la demència?"
-    a: "Non. Pres-la en seriós e verificatz se qualquaren cause s'es debanat. Se la inquietud implica un vòl possible, una negligéncia o un abús, demandatz d'ajuda a un professional de confiança o a un servici de proteccion local."
+    a: "Non. Prenètz-la en seriós e verificatz se quicòm s'es debanat. Se la inquietud implica un vòl possible, una negligéncia o un abús, demandatz d'ajuda a un professional de confiança o a un servici de proteccion local."
   - q: "Quand contactar un metge?"
     a: "Demandatz al clinician de la persona se la sospicion es nòva, se se repeta o se causís pena. Una confusion subita o un cambiament brusc de la santat demanda una atencion medicala urgenta."
 sources:
@@ -58,7 +58,7 @@ L'acusacion pòt semblar personala. Ensajatz de separar la paur de la persona de
 
 ## Pòt la inquietud concernir un objècte realament perdut?
 
-Oc. Verificatz en primièr se l'objècte manca vertadièrament. La persona lo pòt aver plaçat a un luòc inusual, qualqu'un lo pòt aver desplaçat o pòt èsser estat pres. Non denigratz pas un raportatge de vòl, de negligéncia o d'abús perque la persona a una demència.
+Oc. Verificatz en primièr se l'objècte manca vertadièrament. La persona lo pòt aver plaçat a un luòc inusual, qualqu'un lo pòt aver desplaçat o pòt èsser estat pres. Non escartatz pas un raportatge de vòl, de negligéncia o d'abús perque la persona a una demència.
 
 Per un objècte perdut, cercatz ensemble se la persona o vòl. Verificatz los luòcs ont lo gardan d'ordinari e refasetz la rotina recenta. Se l'objècte es de gran valor, important per la seguretat o encara perdut, dire a la persona çò que sabètz e impliquatz un professional de confiança o un autre membre de la familha.
 
@@ -70,17 +70,17 @@ Se sètz incertas se una inquietud es exacta, demandatz a una persona neutra d'a
 
 Donatz als objèctes que se perdon sovent un lòc familièr. Un plat per las claus, un plat per un portafòli o un tiroir etiquetat pòt far mai aisit lo retrobar mai tard. L'[Alzheimer's Society suggerís d'utilizar un lòc constant pels objèctes](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) coma las claus o los ulhals. Demandatz a la persona quin lòc li sembla logic.
 
-Ensajatz un sol cambiament a la fòi. Desplaçar las pertenéncias sens o explicar pot far que la persona siá mens segura de on son las causas. Se un objècte pas car es sovent perdut, un reserva pòt ajudar dins unes ostals, mas deu pas remplaçar la verificacion de se l'original a estat pres o perdut.
+Ensajatz un sol cambiament a la fòi. Desplaçar las pertenéncias sens o explicar pòt far que la persona siá mens segura de on son las causas. Se un objècte pas car es sovent perdut, una reserva pòt ajudar dins unas ostals, mas deu pas remplaçar la verificacion de se l'original a estat pres o perdut.
 
 Verificatz que la persona ve e ausís lo melhor possible. Dementia Australia nòta que los problèmas de vista o d'audicion, la malautiá, los efièches dels medicaments, una rotina cambiada o un environament acaparant pòdon contribuir als cambiaments de percepcion. Demandatz a la persona se la sala li sembla tròp brutosa o inconeguda, e verificatz que ten sos ulhals o sos apareis auditius se los utiliza.
 
 ## Quand demandar d'ajuda medicala o extèrna?
 
-Dire al clinician de la persona se la sospicion es nòva, aumenta en frequéncia o causís de la pena. Notatz quand arriba, çò que se debanava e se i a un cambiament de la santat, de la rotina, de l'environament o dels medicaments. Comencetz, arrestatz o cambiatz pas un medicament en se basant sus un article general.
+Dire al clinician de la persona se la sospicion es nòva, aumenta en frequéncia o causís de la pena. Notatz quand arriba, çò que se debanava e se i a un cambiament de la santat, de la rotina, de l'environament o dels medicaments. Comencetz pas, arrestatz pas e cambiatz pas un medicament en se basant sus un article general.
 
 Una confusion subita o un cambiament brusc de comportament o de santat demanda una atencion medicala urgenta. La [guida NHS sus la confusion subita](https://www.nhs.uk/symptoms/confusion/) dis de demandar d'ajuda medicala de seguida. Utilizatz los servicis d'urgéncia o los servicis medicals urgents locals del luòc ont viu la persona.
 
-Se una acusacion pòt concernir un vòl, una negligéncia o un abús, asseguratz-vos que la persona es en seguretat e cercatz de consèls d'un professional de confiança o d'un servici de proteccion dels adults local. Se qualqu'un es en perilh immediat, contactatz los servicis d'urgéncia locals. Investigatz pas sol una inquietud grava se o fasètz pot metre vos o la persona en perilh.
+Se una acusacion pòt concernir un vòl, una negligéncia o un abús, asseguratz-vos que la persona es en seguretat e cercatz de consèls d'un professional de confiança o d'un servici de proteccion dels adults local. Se qualqu'un es en perilh immediat, contactatz los servicis d'urgéncia locals. Investigatz pas sol una inquietud grava se o fasètz pòt metre vos o la persona en perilh.
 
 ## Cossí aver cura de vos?
 

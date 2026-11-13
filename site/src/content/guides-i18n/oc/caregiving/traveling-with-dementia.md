@@ -17,7 +17,7 @@ faq:
   - q: "Una persona amb demència pòt viatjar?"
     a: "I a pas de responsa unica per a tot lo monde. Pensatz als desirs, a la salut, a la mobilitat de la persona e a sa reaccion als lòcs inconeguts. Un viatge mai cort o mai familièr pòt èsser mai adaptat. Demandatz a un professional de la santat per las questions medicalas o de medicaments."
   - q: "Cossí rendre lo viatge mens estressant?"
-    a: "Gardatz un plan simple, viatjatz a una ora que d'ordinari va ben, prevesetz de tèmps suplementari pel repaus e demandatz als prestatari d'ajuda d'avança. Gardatz los repais familièrs, lo somèlh e las rotinas de medicaments se es possible."
+    a: "Gardatz un plan simple, viatjatz a una ora que d'ordinari va ben, prevesetz de tèmps suplementari pel repaus e demandatz als prestataris d'ajuda d'avança. Gardatz los repais familièrs, lo somèlh e las rotinas de medicaments se es possible."
   - q: "Qué cal portar per un viatge?"
     a: "Portatz los medicaments d'ordinari e una lista de medicaments actualizada, las pèças d'identitat e los contactes d'urgéncia, un itinerari escrit, d'aiga, de manjar leugièr e una muda. Verificatz las règlas actualas amb la companhia aèria o lo transpòrt abans de partir."
   - q: "Qué far se lo viatge es tròp?"
@@ -42,7 +42,7 @@ La [guida de viatge de l'Alzheimer's Association](https://www.alz.org/help-suppo
 
 Parlatz del viatge amb la persona, amb de mots familièrs e una descripcion simpla del lòc ont anatz e de qual i serà. S'a pas enveja d'i anar, acceptatz-ho. Podètz planificar un repais, una telefonada o una activitat familièra a l'ostal.
 
-Pensatz a çò que la persona gerís sens dificultat ara. Considerat coma reagís als cambiaments de rotina, al brut, a la fòla, a las distàncias de marcha, a l'espera e als lòcs inconeguts. Se mantuns moments del viatge son susceptibles d'èsser malaisits, simplificatz-lo o trobatz una autra manièra de passar lo temps amb la persona. Dementia Australia conselha de demandar a un metge quand sètz incertas se un desplaçament correspond als besonhs de salut o d'ajuda de la persona.
+Pensatz a çò que la persona gerís sens dificultat ara. Notatz coma reagís als cambiaments de rotina, al brut, a la fòla, a las distàncias de marcha, a l'espera e als lòcs inconeguts. Se mantuns moments del viatge son susceptibles d'èsser malaisits, simplificatz-lo o trobatz una autra manièra de passar lo temps amb la persona. Dementia Australia conselha de demandar a un metge quand sètz incertas se un desplaçament correspond als besonhs de salut o d'ajuda de la persona.
 
 Se la persona a un nòu problèma de salut, a besonh d'ajuda amb los medicaments o a de besonhs de mobilitat que pòdon cambiar pendent lo viatge, demandatz al professional de la santat competent abans de reservar. Arrestatz pas, cambiatz pas e replanificatz pas los medicaments prescrichs per un viatge sens l'avís de l'emissor de la recèpta o del farmacian.
 
@@ -69,7 +69,7 @@ La quantitat d'informacion a portar depend del viatge. Gardatz las informacions 
 
 ## Cossí rendre lo jorn del viatge mai aisit?
 
-Dison a la persona çò que se debanarà, un pas a la vètz. Donatz-vos mai de tèmps per se preparar, s'enregistrar, anar a la toalèta e se desplaçar d'un lòc a l'autre. Se los plans cambion, explicatz lo pròchain pas simplament, en lloc de repetir un itinerari long.
+Dissètz a la persona çò que se debanarà, un pas a la vètz. Donatz-vos mai de tèmps per se preparar, s'enregistrar, anar a la toalèta e se desplaçar d'un lòc a l'autre. Se los plans cambion, explicatz lo pròchain pas simplament, en lloc de repetir un itinerari long.
 
 Demorar ensemble dins los lòcs plens de monde o inconeguts. Se la persona se fatiga o es pas a l'aise, arrestatz-vos dins un lòc mai tranquil, ofrissètz d'aiga o una activitat familièra e decidissètz ensemble se continuatz. Laissatz pas la persona sola dins un luòc inconegut ont poiriá s'embrolhar o s'angoissar.
 
