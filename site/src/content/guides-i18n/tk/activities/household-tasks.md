@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Öý işleri demensiýasy bolan adamlar üçin işjeňlik hökmünde"
+seoTitle: "Demensiýa üçin öý işjeňlikleri: gündelik işler"
+description: "Eşik bukmak, saýlamak, saçak ýazmak we ýönekeý nahar bişirmek demensiýasy bolan adamlar üçin manyly işjeňlik. Nädip taýýarlamaly, howpsuz saklamaly."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Polotensa bukmak, jorap saýlamak, saçak ýazmak, stol süpürmek, gül sugarmak
+  we ýönekeý nahar bişirmäge kömek etmek ýaly gündelik işler demensiýa bilen
+  ýaşaýan adama kömek etmegiň hakyky usulyny berip biler. Tanyş işleri saýlaň,
+  olary bir wagtyň özünde bir ädime bölüň, ýiti ýa-da gyzgyn howplary aýryň we
+  işi “dogry” etmekden köp gatnaşmaga baha beriň.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Tanyş işler adamyň özüni peýdaly we öýüň bir bölegi duýmagyna kömek edip biler, bu köplenç işiň nähili edilendiginden has möhümdir."
+  - "Her işi bir ädimlere bölüň, aýtmak derek görkeziň we kynlaşan ädimi ümsümlik bilen öz üstüňize alyň."
+  - "Pyçaklary, arassalaýjy serişdeleri we ýuwujy kapsulalary gulplap goýuň we bilelikde nahar bişirmezden öň peç düwmeleriniň gaplaryny ýa-da awtomatik öçürijini goşuň."
+  - "Bukulan polotensalary adamyň öňünde täzeden bukmak gerek däl. Bir zady gaýtadan etmeli bolsaňyz, ony soň we göze görünmän ediň."
+  - "Iş gaharlandyrýan bolsa, has ýeňil ädime geçiň, başga wagt gaýtadan synanyşyň ýa-da ýöne bilelikde oturyň."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Demensiýasy bolan adam haýsy öý işlerinde henizem kömek edip biler?"
+    a: "Köp adam henizem eşik bukup, jorap jübütlemek, çäýnek-çemçeleri saýlap, saçak ýazyp, stol süpürip, tozan sylyp, süpürip, gül sugaryp ýa-da hamyr bolan çanagy garyşdyryp biler. Adamyň öň eden işlerini saýlaň we olary häzir edip biljek zatlaryna laýyk getiriň. Giçki tapgyrlarda salfetkalary tekizlemek ýaly bir gaýtalanýan hereket ýeterlik bolup biler."
+  - q: "Demensiýasy bolan adamyň aşhanada kömek etmegi howpsuzmy?"
+    a: "Ýakyn gözegçilik we dogry taýýarlyk bilen bolup biler. Pyçaklary, arassalaýjy serişdeleri we gyzgyn zatlary elýetmez ýerde saklaň, peç düwmeleriniň gaplaryny ýa-da awtomatik öçürijini ulanyň we adama gök önümleri ýuwmak, garyşdyrmak ýa-da tabaklary goýmak ýaly howpsuz iş beriň. Peç ýanýarka ony hiç wagt ýeke goýmaň."
+  - q: "Olar zatlary ýalňyş bukýan ýa-da hapalaýan bolsa näme etmeli?"
+    a: "Goýberiň. Maksat bilelikdäki wagt we özüni peýdaly duýmak, kämil netije däl. Bir zat hakykatdan hem gaýtadan edilmeli bolsa, soňa garaşyň we adam seretmeýän wagty ediň, şonda ol özüni düzedilen hasaplamaz."
+  - q: "Kömek etmekden ýüz öwürse näme etmeli?"
+    a: "Ýok diýmek işiň häzir gaty kyn, bulaşyk ýa-da ýadadyjy duýulýandygyny aňladyp biler. Itekläp durmaň. Has ýönekeý görnüşini synap görüň, ýerine size ýoldaş bolmaga çagyryň ýa-da günüň has gowy wagtynda gaýtadan soraň."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Demensiýa bilen ýaşaýan köp adam onlarça ýyl öý dolandyrdy, maşgala terbiýeledi ýa-da iş ýerini tertipde saklady. Hakyky öý işlerinde kömek soralmagy, az sanly başga işjeňlik ýaly “sen henizem bu öýüň bir bölegi” diýip biler. Bu sahypa haýsy işleriň işleýändigini, olary nädip taýýarlamalydygyny, zatlar üýtgände nähili uýgunlaşdyrmalydygyny we aşhana bilen eşik ýuwulýan otagy nädip howpsuz saklamalydygyny öz içine alýar.
 
-## Why do everyday chores work well as activities?
+## Gündelik öý işleri näme üçin işjeňlik hökmünde gowy işleýär?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Öý işleri tanyş we aç-açan maksatly bolany üçin işleýär. National Institute on Aging gap-çanak ýuwmagy, saçak ýazmagy, süpürmegi, tozan silmegi, poçtany saýlamagy, eşik bukmagy we gaýtadan işlenýän zatlary saýlamagy [Alsgeýmeri bolan adamlaryň hezil edip biljek gündelik işjeňlikleri](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) arasynda sanaýar. Alzheimer's Association saçak ýazmak ýaly işleriň adama [öýüň gadyrly bir bölegi ýaly duýmaga](https://www.alz.org/help-support/caregiving/daily-care/activities) kömek edip biljekdigini belleýär.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Öý işi başlamak üçin öz sebäbi bilen gelýär. “Şu polotensalara kömek edip bilersiňmi?” diýene “Hawa” diýmek, “Işjeňlik etmek isleýärsiňmi?” diýenden ýeňil.
 
-## Which household tasks are good to try?
+## Haýsy öý işlerini synap görmeli?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Adamyň öň eden işlerinden başlaň, soň olary häzir edip biljek zatlaryna laýyklaň.
 
-### Laundry and linens
+### Eşik we düşekler
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Polotensalary we ýuwunmak mata böleklerini bukmak.** Kiçi, tekiz zatlaryň sebedini uzadyň. Polotensalar bagyşlaýar: bukmagyň ýalňyş usuly ýok.
+- **Jorap jübütlemek.** Stoluň üstünde garyşyk üýşmek goýuň. Jübütleri tapmak kyn bolsa, diňe iki-üç örän tapawutly reňk ulanyň.
+- **Tekizlemek we üst-üste goýmak.** Salfetkalary, ýassyk gaplaryny ýa-da gap-çanak polotensalaryny tekizläp, üst-üste goýup bolýar. Bu soňrak, bukmak gaty köp ädim bolan wagty gowy işleýär.
 
-### Table and kitchen
+### Stol we aşhana
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Saçak ýazmak.** Bir tabak toplumyny nusga hökmünde goýuň we adam ýazylanyny gaýtalasyn. Bu gaty köp bolsa, bir wagtyň özünde bir zat uzadyň: “Her tabaga bir çanaklyk.”
+- **Çäýnek-çemçeleri saýlamak.** Arassa çanaklary, çemçeleri we ýag pyçaklaryny gapda garyň we bölünen tabaga saýlaň. Ýiti pyçaklary goýmaň.
+- **Gap-çanagy süpürmek.** Plastik ýa-da döwülmeýän gaplar we ýumşak polotensa muny howpsuz iş edýär.
+- **Stolu ýa-da stoluň üstüni süpürmek.** Çygly mata we arassa üst. Alzheimer's Association kimdir biri eýýäm eli bilen stoly sürtýän bolsa, mata hödürlemegi, biynjalyk hereketi peýdaly herekete öwürmegi maslahat berýär.
 
-### Around the house
+### Öýüň töwereginde
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Tozan silmek.** Ýumşak tozan süpürgi we birnäçe berk üst, meselem kofe stoly ýa-da kitap tekjesi.
+- **Poçtany saýlamak.** Gereksiz poçtany we kataloglary toplara saýlamak üçin uzadyň: saklamak, gaýtadan işlemek, soň açmak. Hakyky hasaplary we çekleri başga ýerde saklaň.
+- **Gaýtadan işlenýän zatlary saýlamak.** Arassa banka, çüýşe we kagyzy aýry gaplara salmak.
+- **Süpürmek.** Deňagramlylyk durnukly bolsa, eýwanda ýa-da aşhana polunda kiçi süpürgi.
+- **Gül sugarmak.** Kiçi, ýeňil suw guýujy we elýeter ýerde birnäçe ösümlik.
 
-### Simple cooking with supervision
+### Gözegçilik bilen ýönekeý nahar bişirmek
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Nahar bişirmek güýçli, ýakymly duýgulary gaýtaryp biler. NIA adamyň ingredientleri ýygnamagyna, ölçemegine, garyşdyrmagyna we guýmagyna ýa-da diňe başga birine halaýan resepti nähili ýasamalydygyny aýtmagyna ýol bermegi maslahat berýär. Gowy işler:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- gök önümleri ýa-da miwäni ýuwmak
+- hamyr ýa-da sowuk salaty garyşdyrmak
+- salat ýapraklaryny ýyrtmak
+- küýkli pyçak bilen çörege ýag çalmak
+- çörek hamyryny tabaga goýmak
+- pissanyň üstüne goşundylary goýmak
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ölçemek kynlaşsa, Alzheimer's Association ölçegi siziň gutarmagyňyzy we soň garyşdyrmak ýaly başga ädimi uzatmagy maslahat berýär.
 
-## How do I set up a chore so it goes well?
+## Işi gowy geçer ýaly nädip taýýarlamaly?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Dogry wagty saýlaň.** Adamyň adatça dynç alan we sakyn bolýan günüň bir bölegini saýlaň. Köp adam üçin bu irdir.
+2. **Meýdany arassalaň.** Bir iş, bir üst, stolda artykmaç zat ýok.
+3. **Çagyryň, tabşyrmaň.** “Şu zatlara kömek bolsa gowy bolardy” diýmek “Eşik bukmaga wagt boldy” diýmekden has gowy işleýär.
+4. **Ilkinjisini görkeziň.** Bir polotensany ýuwaş bukuň, soň indikisini uzadyň. Görkezmek düşündirmekden has aç-açan.
+5. **Bir wagtyň özünde bir ädim beriň.** Bir gezekde gaty köp görkezme basyp bilýär. Indikini aýtmazdan öň bir ädimiň gutarmagyna garaşyň.
+6. **Ýanaşyk işläň.** Ýanaşyk şol bir işi etmek gözegçilik däl-de, ýoldaşlyk ýaly duýulýar.
+7. **Netijäni däl-de, işi gürrüň ediň.** “Bular gaty ýumşak” ýa-da “Eşik şkafyny nähili saklamagy halaýandygyňy aýdyp ber” hiç kimi synamazdan söhbetdeşlige çagyrýar.
 
-## How do I adapt chores as abilities change?
+## Ukyp üýtgände öý işlerini nädip uýgunlaşdyrmaly?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Ukyplar wagtyň geçmegi bilen, hatda günden güne üýtgeýär. Alzheimer's Association kesel ösdügiçe has ýönekeý, has köp gaýtalanýan işlere geçmegi maslahat berýär.
 
-| If this has become hard | Try this instead |
+| Bu kyn bolan bolsa | Ýerine muny synap görüň |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Uly düşek ýapgylaryny bukmak | Ýuwunmak polotensalaryny bukmak ýa-da salfetkalary tekizlemek |
+| Doly stol ýazmak | Her oturgyja bir salfetka goýmak |
+| Poçtany görnüşlere saýlamak | Konwertleri bir üýşmege goýmak |
+| Resepte eýermek | Garyşdyrmak ýa-da siz bişirýärkäňiz seredip we dadyp görmek |
+| Tutuş polu süpürmek | Bir kiçi stoly süpürmek |
+| Işi umuman etmek | Siz edip ýörkäňiz ýanyňyzda oturyp ýoldaş bolmak |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Synamak hem sanalýar. NIA käbir adamlaryň ýöne synamakdan hezil edýändigini belleýär we bu gatnaşmagyň gowy usulydyr.
 
-## How do I keep household tasks safe?
+## Öý işlerini nädip howpsuz saklamaly?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Howpsuzlyk ilki gelýär, aýratyn hem aşhanada. NIA-nyň [Alsgeýmer ideg edijileri üçin öý howpsuzlygy maslahatlary](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) şulary öz içine alýar:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Arassalaýjy serişdeleri, şol sanda süýjä meňzäp biljek eşik ýuwujy kapsulalary gulplaň ýa-da aýryň.
+- Pyçaklary, gaýçylary we elektrik gurallaryny gulply ýerde saklaň.
+- Peje howpsuzlyk düwmelerini we awtomatik öçüriji açaryny goşuň.
+- Peçiň, tosteriň we ütügiň ýanynda “Dur” ýa-da “Gaty gyzgyn” belgilerini ýanyp bilmejek görnüşde goýuň.
+- Ýanmak töwekgelçiligini peseltmek üçin suw gyzdyryjyny 120°F-e goýuň.
+- Iýmit ýaly görünip biljek emeli miwäni we iýmit şekilli magnitleri aýryň.
 
-A few more practical habits help:
+Birnäçe amaly endik hem kömek edýär:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Peç, duhowka ýa-da ýiti gural ulanylanda otagda galyň.
+- Süpürmek we saçak ýazmak üçin döwülmeýän gaplary ulanyň.
+- Süpürilýän ýa-da ýuwulýan wagty pollary gury we arassa saklaň.
+- Adam bir wagtlar gurallary ulanan bolsa, Alzheimer's Association agaç bölegini ýylmak ýaly howpsuz işiň henizem hezil bolmagy üçin ustahanadan howply zatlary aýyrmagy maslahat berýär.
 
-## What if they do it "wrong"?
+## “Ýalňyş” etse näme etmeli?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Goýberiň. Ýarysyna däl-de, üçe bukulan polotensa henizem bukulan polotensadyr. Alzheimer's Association muny ýönekeý aýdýar: möhüm zat bilelikdäki wagt we adamyň özüni peýdaly duýmagydyr, polotensalaryň dogry bukulmagy däl. Bir zat hakykatdan hem gaýtadan edilmeli bolsa, soňa garaşyň we ony göze görünmän ediň.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Şol pursatda düzetmek ýakymly işi ýitirilen zatlary ýatladyjy edip biler. “Sag bol, bu uly kömek” diýmek hemişe diýen ýaly dogry sözdür.
 
-## When should we stop?
+## Haçan durmaly?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Ruhdan düşmegiň, ýadawlygyň ýa-da gyzyklanmanyň ýitendigi alamatlaryny görseňiz, duruň ýa-da çalşyň. Irräk gutarmak gowy netije, şowsuzlyk däl. Şulary edip bilersiňiz:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- has ýeňil ädime geçmek
+- aýdym-saz ýa-da bir käse kofe ýaly dynç berýän zada geçmek
+- soňrak ýa-da başga gün gaýtadan synanyşmak
+- ýöne bilelikde oturmak
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Adam ýok diýse, itekläp durmaň. Mylaýym jogap bermegiň ýollary üçin [ýok diýende näme etmeli](/caregiving/when-they-say-no/) sahypasyna serediň.
 
-## Low-effort extras for a quieter moment
+## Sakyn pursat üçin az güýç talap edýän goşundylar
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Fiziki öý işleri mümkin bolmasa, saýlamak we gabat getirmek ýene-de oturyp edilip bilner. [Bilelikde saýla](/games/sort-together/) suratlary aşhana ýa-da bag sebetlerine dokunyp salmaga mümkinçilik berýär, [Surat jübütleri](/games/picture-pairs/) bolsa uly suratlary bolan we sagady ýok ýuwaş gabat getirme oýny. [Söhbetdeşlik kartoçkalary](/games/conversation-cards/) öý we maşgala barada işden soň kofe bilen gowy utgaşýan açyk çakylyklary öz içine alýar.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Öý işlerini güne sygdyrmakda kömek üçin [sakyn gündelik tertip](/activities/daily-routine/) gollanmamyza serediň. Tapgyra görä has köp ideýa üçin [orta tapgyr işjeňliklerine](/activities/middle-stage/) serediň.
