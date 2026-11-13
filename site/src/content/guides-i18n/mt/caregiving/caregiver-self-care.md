@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Il-kura tal-kuratur innifsu: sostituzzjoni, appoġġ u sinjali ta' burnout"
+seoTitle: "Kura tal-kuratur tad-demenza: sostituzzjoni u appoġġ"
+description: "Sinjali ta' burnout tal-kuratur, kif issib sostituzzjoni u gruppi ta' appoġġ, u linji telefoniċi b'xejn fl-Istati Uniti, inkluż l-Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Il-kura ta' xi ħadd bid-demenza hi iebsa, u li tieħu ħsieb lilek innifsek hi parti mix-xogħol. Oqgħod attent għal sinjali ta' twissija bħal għeja kbira, irritabbiltà, irqad ħażin u li tibda titbiegħed minn ħbieb. Itlob għajnuna speċifika, uża kura ta' sostituzzjoni, u ingħaqad ma' grupp ta' appoġġ. Għajnuna b'xejn fl-Istati Uniti tinkludi l-Helpline 24/7 tal-Alzheimer's Association fuq 1-800-272-3900 u l-Eldercare Locator fuq 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Il-burnout spiss jidher bħala għeja kbira, irritabbiltà, irqad ħażin, tristezza u li tabbanduna s-saħħa tiegħek stess."
+  - "Il-kura ta' sostituzzjoni tagħtik mistrieħ, minn ftit sigħat sa diversi ġimgħat, id-dar jew f'post ta' kura."
+  - "Itlob għajnuna għal xogħlijiet speċifiċi; ħafna nies jridu jgħinu imma ma jafux kif."
+  - "Il-Helpline 24/7 tal-Alzheimer's Association (1-800-272-3900) toffri appoġġ b'xejn u kunfidenzjali f'kull ħin."
+  - "L-Eldercare Locator (1-800-677-1116) jgħaqqadek ma' servizzi lokali, inkluż l-Aġenzija Reġjonali tiegħek għall-Anzjani."
+  - "Jekk tħoss li qed tkun f'kriżi, ċempel jew ibgħat test lil 988. F'emerġenza, ċempel in-numru tal-emerġenza lokali tiegħek."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "X'inhuma s-sinjali ta' burnout tal-kuratur?"
+    a: "Sinjali komuni jinkludu li tħossok eżawrut, mitqal ħafna jew ansjuż, li tinnerva jew tilef il-pazjenza malajr, diffikultà biex torqod, li tħossok imdejjaq jew bla tama, li tibda titbiegħed minn ħbieb, uġigħ jew uġigħ ta' ras frekwenti, u li taqbeż il-pasti tiegħek, l-eżerċizzju jew il-kura medika tiegħek. Jekk sinjali bħal dawn iseħħu regolarment, kellem lit-tabib tiegħek."
+  - q: "Kif insib kura ta' sostituzzjoni qrib tiegħi?"
+    a: "Ibda mill-Eldercare Locator (1-800-677-1116 jew eldercare.acl.gov) biex tilħaq l-Aġenzija Reġjonali lokali għall-Anzjani, is-Servizz Nazzjonali ARCH għall-Kura ta' Sostituzzjoni, jew il-Helpline tal-Alzheimer's Association fuq 1-800-272-3900. Il-familja, il-ħbieb u l-voluntiera jistgħu wkoll jagħtu sostituzzjoni."
+  - q: "Medicare iħallas għall-kura ta' sostituzzjoni?"
+    a: "Għal persuna li tirċievi kura ta' hospice, Medicare jkopri l-biċċa l-kbira tal-ispiża ta' sa ħames ijiem konsekuttivi ta' kura ta' sostituzzjoni f'sptar jew f'faċilità ta' infermerija speċjalizzata, skont l-Istitut Nazzjonali dwar l-Età. Ħafna assigurazzjonijiet privati tas-saħħa ma jkoprux is-sostituzzjoni; Medicaid u xi pjanijiet ta' assigurazzjoni għall-kura fit-tul jistgħu jgħinu."
+  - q: "Il-Helpline tal-Alzheimer's Association tassew hi b'xejn u disponibbli bil-lejl?"
+    a: "Iva. L-Alzheimer's Association tgħid li l-Helpline tagħha fuq 1-800-272-3900 hi b'xejn, kunfidenzjali u bi staff matul il-ħin kollu, 365 jum fis-sena, b'għajnuna disponibbli f'ħafna lingwi. Għal servizz ta' relay, ċempel 711."
+  - q: "Hu egoistiku li tieħu pawża mill-kura?"
+    a: "Le. Il-mistrieħ jgħinek tkompli tieħu ħsieb, u s-sostituzzjoni tista' tagħti wkoll lill-persuna li tieħu ħsieb tagħha bidla fil-kumpanija u fl-attività. Ħafna kuraturi wara jgħidu li kieku xtaqu talbu għajnuna qabel."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Jekk qed tieħu ħsieb xi ħadd li jgħix bid-demenza, x'aktarx qed taqra dan tard, għajjien, u b'lista ta' affarijiet li ma għamiltx. Dan hu normali. Li tieħu ħsieb tiegħek innifsek mhux lussu jew premju għal meta tlesti kollox. Hu dak li jħallik tkompli.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Din il-paġna tkopri s-sinjali ta' twissija tal-burnout, kif tikseb pawża vera, fejn issib appoġġ, u linji telefoniċi b'xejn fl-Istati Uniti li tista' tċempel illum.
 
-## What are the signs of caregiver burnout?
+## X'inhuma s-sinjali tal-burnout tal-kuratur?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Il-burnout spiss jidħol bil-mod, għalhekk jgħin li tkun taf is-sinjali ta' twissija tiegħek stess. L-[Istitut Nazzjonali dwar l-Età (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) jelenka sinjali ta' stress tal-kuratur, fosthom:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- tħossok eżawrut, mitqal ħafna jew ansjuż;
+- tinnerva jew tilef il-pazjenza malajr;
+- tħossok solitarju jew maqtugħ minn oħrajn;
+- diffikultà biex torqod, jew ma tikseb biżżejjed irqad;
+- tħossok imdejjaq jew bla tama, jew titlef l-interess f'affarijiet li kont tgawdi;
+- uġigħ ta' ras, uġigħ jew problemi fiżiċi oħra frekwenti;
+- l-ebda ħin għall-eżerċizzju jew biex tieħu ikel tajjeb għalik;
+- taqbeż il-ħasil jew kura personali oħra;
+- abbuż tal-alkoħol jew tad-droga, inkluż mediċini bir-riċetta.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+L-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) iżżid sinjali bħal dak li jiċħad il-marda, rabja lejn il-persuna (“hu sempliċement ta' kaprizz”), ansjetà dwar il-futur, diffikultà biex tikkonċentra, u problemi tas-saħħa li jieħdu l-piż. Tgħid li għandek tkellem lit-tabib tiegħek jekk ikollok sinjali bħal dawn regolarment.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Il-parir tan-NIA hu li ma tistennix sakemm tkun mitlub kompletament. Innota s-sinjali tiegħek kmieni u aġixxi fuqhom.
 
-## What can I do today, in five minutes?
+## X'nista' nagħmel illum, f'ħames minuti?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Waqfiet żgħar jgħoddu. Ħadd minn dawn ma jsewwi l-burnout, imma jistgħu jgħinuk tgħaddi minn filgħodu iebes.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Oħroġ barra.** Oqgħod fuq il-bank tad-dar jew imxi sa l-kaxxa tal-posta waqt li l-persuna tkun sikura u kalma.
+- **Ieħu nifs bil-mod.** Ftit nifsijiet bil-mod qabel ma tweġib mistoqsija iebsa. Tista' wkoll taqsam waqfa ta' [Nifs Kalm](/games/calm-breathing/) mal-persuna li tieħu ħsieb tagħha.
+- **Ixrob ilma u ikol xi ħaġa.** Hu faċli li tinsa l-pasti tiegħek.
+- **Ibgħat messaġġ lil ħabib wieħed.** Mhux biex titlob xi ħaġa, sempliċement biex tkun konness.
+- **Għid xi ħaġa tajba lilek innifsek.** Il-[gwida tan-NIA dwar li tieħu ħsieb lilek innifsek](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) tissuġġerixxi frażijiet bħal “Qed nagħmel l-almu tiegħi,” “M'iniex perfett, u dan hu OK,” u “Se ngawdi l-mumenti meta nkunu flimkien fis-sliem.”
 
-## What is respite care, and how do I get it?
+## X'inhi l-kura ta' sostituzzjoni, u kif niksibha?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Il-kura ta' sostituzzjoni hi kura għal żmien qasir għall-persuna li tieħu ħsieb tagħha, sabiex int tistrieħ. Il-[paġna tan-NIA dwar il-kura ta' sostituzzjoni](https://www.nia.nih.gov/health/caregiving/what-respite-care) tispjega li tista' tdum minn ftit sigħat sa diversi ġimgħat, u tista' ssir fid-dar, f'faċilità tas-saħħa jew f'ċentru ta' kura diurna għall-adulti.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+L-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) tiddeskrivi t-tipi komuni:
 
-| Type | What it is |
+| Tip | X'inhu |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Għajnuna fid-dar | Ħabib, qarib, voluntier jew assistent imħallas jiġi d-dar |
+| Ċentru ta' kura diurna għall-adulti | Attivitajiet ippjanati bħal mużika u arti f'ambjent ta' grupp sikur; it-trasport u l-ikliet spiss jingħataw |
+| Lejl jew żjara qasira | Komunità ta' kura fit-tul tieħu ħsieb il-persuna għal lejla, ftit ijiem jew ftit ġimgħat |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Min iħallas?** Skont in-NIA, is-sostituzzjoni mill-familja, mill-ħbieb jew mill-voluntiera tista' ma tiswa xejn. Is-servizzi profesjonali jaqbdu skont is-siegħa jew il-ġurnata. Għal persuna li tirċievi kura ta' hospice, Medicare jkopri l-biċċa l-kbira tal-ispiża ta' sa ħames ijiem konsekuttivi ta' sostituzzjoni f'sptar jew f'faċilità ta' infermerija speċjalizzata. Medicaid jista' jgħin. Ħafna assigurazzjonijiet privati tas-saħħa ma jkoprux is-sostituzzjoni, għalkemm xi pjanijiet ta' assigurazzjoni għall-kura fit-tul jagħmlu dan.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Parir:** L-Alzheimer's Association tissuġġerixxi li tipprova fornituri ta' sostituzzjoni f'sitwazzjoni mhux ta' emerġenza, sabiex ikunu lesti jekk ikollok bżonn għajnuna f'daqqa.
 
-## Where can I find help near me?
+## Fejn insib għajnuna qrib tiegħi?
 
-Several free US services can point you to local help.
+Diversi servizzi b'xejn fl-Istati Uniti jistgħu jwasslukom għal għajnuna lokali.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Helpline 24/7 tal-Alzheimer's Association: 1-800-272-3900.** L-[Helpline](https://www.alz.org/help-support/resources/helpline) hi b'xejn u kunfidenzjali, bi staff matul il-ħin kollu kuljum tas-sena, b'għajnuna f'aktar minn 200 lingwa permezz ta' staff bilingwi jew interpreti. Ċempel 711 għal servizz ta' relay. Tista' titkellem dwar bidliet fl-imġieba, stress tal-kuratur, għażliet ta' sostituzzjoni, programmi lokali u aktar, u titlob konverżazzjoni itwal ma' konsulent tal-kura. Il-persunal ma jagħtix parir mediku.
+- **Eldercare Locator: 1-800-677-1116.** L-[Eldercare Locator](https://eldercare.acl.gov/), servizz pubbliku tal-Administration for Community Living, jgħaqqadek ma' servizzi għall-anzjani u l-familji tagħhom. Tista' ċċempel, tibgħat test, tkellem fuq il-chat online jew tibgħat email lill-persunal imħarreġ, jew tfittex skont il-lokalità. Jista' jwassalek lill-Aġenzija Reġjonali lokali tiegħek għall-Anzjani.
+- **Servizz Nazzjonali ARCH għall-Lokalizzazzjoni tas-Sostituzzjoni.** Il-[lokalizzatur ARCH](https://archrespite.org/caregiver-resources/respitelocator/) jgħinek issib fornituri ta' sostituzzjoni skont l-istat, u jissuġġerixxi li tikkuntattja l-Koalizzjoni Statali għas-Sostituzzjoni jew il-programm Lifespan Respite qabel, jekk l-istat tiegħek għandu wieħed. ARCH jgħid li ma jivverifikax il-fornituri, għalhekk ivverifika int l-esperjenza u l-isfond tagħhom.
 
-## How do I find a support group?
+## Kif insib grupp ta' appoġġ?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Staqsi lill-Helpline jew fittex online għal gruppi qrib tiegħek. L-Alzheimer's Association [timmaniġġja gruppi ta' appoġġ](https://www.alz.org/help-support/community/support-groups) għall-kuraturi u għan-nies li jgħixu bid-demenza, di persona u online, immexxija minn faċilitaturi mħarrġa. Ħafna postijiet joffru wkoll gruppi speċjalizzati, pereżempju għal kuraturi adulti jew għal nies b'Alzheimer bikri f'età iżgħar jew f'stadju bikri. Tospita wkoll ALZConnected, komunità online b'xejn fejn il-kuraturi jaqsmu pariri.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Gruppi ta' appoġġ jistgħu jkunu post fejn tiftah qalbek mingħajr ġudizzju, tieħu pariri prattiċi minn nies li għaddew minnha, u tħoss inqas waħdek. Jekk l-ewwel grupp ma jaqbilx miegħek, ipprova ieħor.
 
-## How do I ask family and friends for help?
+## Kif nitlob lill-familja u lill-ħbieb għall-għajnuna?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Kun speċifiku. Ħafna nies jridu jgħinu imma ma jafux x'joffru. In-NIA jissuġġerixxi:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Żomm lista** ta' xogħlijiet li oħrajn jistgħu jieħdu, u ħalli n-nies jagħżlu.
+- **Ibda b'mod żgħir** jekk it-talba tkun iebsa.
+- **Aqbbel ix-xogħol mal-persuna.** Il-kuġin li jħobb it-tisjir iġib l-ikla kull Ħamis. Il-ġar li hu tajjeb fil-formoli jgħin bix-xogħol tal-karta.
+- **Ibgħat test jew email** jekk it-talba mtaqqla minn wiċċ għal wiċċ.
+- **Ipprattika tweġiba** għal meta xi ħadd joffri: “Grazzi talli staqsejt. Dan hu x'tista' tagħmel.”
+- **Ħejja ruħek għal xi “le”** u ipprova ma tieħux dan personalment.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Affarijiet oħra: itlob lil xi ħadd joqgħod mal-persuna għal filgħodu wieħed kull ġimgħa, ħudha f'ħarġa qasira, jew iżurha u ilagħbu logħba flimkien. Il-[gwida tagħna dwar li tilgħab flimkien](/caregiving/how-to-play-together/) hi faċli biex taqsamha mal-viżitaturi.
 
-## What if something happened to me?
+## X'jiġri jekk ikolli xi ħaġa?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Ipprepara pjan ta' backup sempliċi issa. In-NIA jissuġġerixxi li tiddeċiedi mal-familja jew mal-ħbieb qrib min jidħol, u żomm ktieb tal-noti b'numri tal-emerġenza, mediċini, pariri dwar l-imġieba li jaħdmu, u attivitajiet favoriti. L-Alzheimer's Association tirrakkomanda wkoll li żżomm il-kuntatti medici tal-persuna u lista aġġornata tal-mediċini faċli biex issibhom.
 
-## When should I get professional or urgent help?
+## Meta għandi nfittex għajnuna professjonali jew urġenti?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Kellem lit-tabib tiegħek jekk is-sinjali ta' stress ikunu regolari, jekk tħossok depress, jew jekk qed tbati biex tlaħħaq. Għid lit-tabib li int kurat. In-NIA jgħid li l-konsulenti u l-assistenti soċjali jistgħu jgħinu bi ħsibijiet diffiċli u bl-ippjanar, u li Medicare, Medicaid u xi assigurazzjonijiet privati jistgħu jkopru xi spejjeż tas-saħħa mentali.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Jekk tħoss li qed tkun f'kriżi jew jekk għandek ħsibijiet li tagħmel ħsara lilek innifsek, ċempel jew ibgħat test lil 988 biex tilħaq il-[988 Suicide & Crisis Lifeline](https://988lifeline.org/), b'xejn u disponibbli 24/7. Jekk xi ħadd ikun f'periklu immedjat, ċempel in-numru tal-emerġenza lokali tiegħek.
 
-## Can shared activities give me a break too?
+## Jistgħu l-attivitajiet maqsuma jagħtuni wkoll pawża?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Xi drabi. Attività kalma li t-tnejn tgawdu tista' ssir parti aktar ħafifa mill-ġurnata għalik kif ukoll għall-persuna li tieħu ħsieb tagħha: tisma' kanzunetti qodma, tħares lejn ritratti, jew logħba bħal [Karti tal-Konversazzjoni](/games/conversation-cards/) li ma jeħtieġx tweġibiet korretti. Jekk il-persuna togħġobha l-kumpanija, sessjoni ta' grupp b'[Bingo bir-Ritratti](/games/picture-bingo/) f'ċentru għall-anzjani jew f'programm ta' kura diurna tista' tagħtik siegħa ta' sostituzzjoni. Ara [attivitajiet għal gruppi f'djar tal-kura](/activities/care-home-groups/) għal ideat.
