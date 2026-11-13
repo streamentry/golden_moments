@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Фаъолиятҳои ёдоварӣ: қуттиҳои хотира, таърихи зиндагӣ ва суратҳо"
+seoTitle: "Ёдоварӣ барои деменсия: ғояҳо бе имтиҳон"
+description: "Чӣ тавр бо шахсе, ки деменсия дорад, дар бораи хотираҳо бе савол ва имтиҳон сӯҳбат кардан: суратҳо, қуттии хотира ва китоби зиндагӣ."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Ёдоварӣ маънои лаззат бурдан аз гузаштаро якҷоя дорад, бо суратҳо, ашёҳо,
+  мусиқӣ ва ҳикояҳо. Қуттии хотира созед, китоби содаи зиндагӣ тартиб диҳед ё
+  суратҳоро паҳлӯ ба паҳлӯ бинед. Ҳеҷ гоҳ имтиҳон нагиред: «Оё инро ба ёд
+  доред?» ва «Ин кист?» нагӯед, балки дархостҳои кушода гӯед, мисли «Дар бораи
+  ин бигӯед». Сӯҳбати гарм аз дуруст гуфтани далелҳо муҳимтар аст.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Ёдоварӣ сӯҳбат аст, на имтиҳон. Дуруст будан муҳим нест; лаззат муҳим аст."
+  - "Ба ҷои «Ба ёд доред...?» ва «Ин кист?» шарҳ ва дархостҳо гӯед, мисли «Дар бораи он рӯз бигӯед»."
+  - "Қуттии хотира бо ашёҳо аз зиндагии шахс ба дастҳо ва сӯҳбат чизе медиҳад, ки ба он такя кунанд."
+  - "Китоби зиндагӣ ба оила, меҳмонон ва кормандони нигоҳубин кӯмак мекунад, ки шахсро шинохта бошанд, на танҳо ташхиси ӯро."
+  - "Агар хотира андӯҳ орад, аввал тасаллӣ диҳед ва бо мулоимӣ мавзӯъро иваз кунед."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Ёдоварӣ барои одамони деменсиядор чист?"
+    a: "Ёдоварӣ мубодилаи хотираҳо ва таҷрибаҳои гузашта аст, аксар вақт бо кӯмаки суратҳо, ашёҳо, мусиқӣ ё видео. Он метавонад як ба як ё дар гурӯҳ рӯй диҳад. Ҳадаф сӯҳбати хуш ва маъноғин аст, на санҷидани он ки шахс чӣ ба ёд дорад."
+  - q: "Чаро набояд «Оё инро ба ёд доред?» пурсед?"
+    a: "Саволҳое, ки хотираро месанҷанд, метавонанд шахсро шарманда ё нигарон кунанд, вақте ки ҷавоб намеояд. Институти миллии пиронсолӣ пурсидан, ки оё шахс чизе ё касеро ба ёд дорад, дар байни чизҳое, ки бояд аз онҳо дурӣ ҷуст, номбар мекунад. Ба ҷои он дар бораи чизе, ки мебинед, шарҳ диҳед ва ба шахс иҷозат диҳед, ки ҳар чиро мехоҳад илова кунад."
+  - q: "Чӣ дар қуттии хотира гузорем?"
+    a: "Ашёи бехатар ва устувор, ки ба зиндагии шахс алоқаманд аст, интихоб кунед: абзори кор, сарпӯши машғулият, шарфи дӯстдошта, кортҳои почта, варақаҳои дастури пухтан, ёдгориҳои варзишӣ ё нусхаи суратҳо. Ашёи тез, чизҳои хурде, ки шояд фурӯ бурда шаванд, ва ашёи асли бебадалро канорагирӣ кунед."
+  - q: "Агар онҳо фактҳоро хато кунанд, чӣ?"
+    a: "Онро ба ҳол гузоред. Агар модаратон гӯяд, ки аксро хоҳараш нишон медиҳад, дар ҳоле ки ин яке аз хешовандони ӯст, ин хуб аст. Ислоҳ кардан лаҳзаи гарми сӯҳбатро ба имтиҳон табдил медиҳад. Ҳикояеро, ки онҳо мегӯянд, пайгирӣ кунед ва якҷоя аз он лаззат баред."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Ёдоварӣ маънои лаззат бурдан аз гузаштаро якҷоя дорад. Барои бисёре аз одамоне, ки бо деменсия зиндагӣ мекунанд, хотираҳои даҳсолаҳои пеш аз он чи имрӯз субҳ рӯй дод, возеҳтар мемонанд. Суратҳо, ашёҳои шинос, мусиқӣ ва ҳикояҳо метавонанд ин хотираҳоро кушоянд ва ба шумо чизи гарме барои мубодила диҳанд. Як қоида: ин сӯҳбат аст, ҳеҷ гоҳ имтиҳон.
 
-## What is reminiscence, and how is it different from quizzing?
+## Ёдоварӣ чист ва чӣ гуна аз имтиҳон фарқ мекунад?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Ёдоварӣ мубодилаи хотираҳо тавассути суратҳо, ашёҳо, мусиқӣ ё видео бо суръати худи шахс аст. [Хадамоти миллии тандурустии Бритониё](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) онро чунин тавсиф мекунад: мубодилаи таҷрибаҳо ва ҳикояҳои гузашта бо кӯмаки суратҳо, ашёҳо, видеоҳо ё мусиқӣ, дар китоб ё дар планшет. Имтиҳон фарқ дорад: он аз шахс ҷавоби дуруст талаб мекунад ва ин метавонад шармандагӣ ба ҷои лаззат орад.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) пурсидан, ки оё шахс чизе ё касеро ба ёд дорад, дар байни чизҳои пешгирӣшаванда номбар мекунад. [Иттифоқи нигоҳубинкунандагони оила](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) пешниҳод мекунад, ки аз саволҳое, ки ба хотираи кӯтоҳмуддат такя мекунанд, худдорӣ шавад ва дар бораи гузаштаи дуртар сӯҳбат карда шавад.
 
-| Instead of | Try |
+| Ба ҷои | Кӯшиш кунед |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Оё инро ба ёд доред?" | "Ба назарам ин рӯзи хуш аст. Дар бораи он бигӯед." |
+| "Ин кист?" | "Инак хола Роза дар соҳил. Ба ин кулоҳ нигаред." |
+| "Ин кадом сол буд?" | "Ба назарам ин хонаи кӯҳна аст. Зистан дар он чӣ гуна буд?" |
+| "Не, ин Билл нест, ин Фрэнк аст." | "Ӯ ба одами сермазза монанд аст." |
+| "Инро аллакай гуфтед." | "Ман ин ҳикояро дӯст медорам." |
 
-## How do you talk about photos without quizzing?
+## Чӣ тавр дар бораи суратҳо бе имтиҳон сӯҳбат кунем?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Аввал он чиро мебинед, сар кунед, пас барои шахс ҷой гузоред, то агар хоҳад, чизе илова кунад.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Паҳлӯ ба паҳлӯ нишинед.** Албомро дар байни худ нигоҳ доред, то якҷоя бинед, на бо санҷиш дар он тарафи миз.
+2. **Чанд суратро интихоб кунед.** Панҷ аксҳои хуб беҳтаранд аз як қуттии пур. Чопҳои калон ва возеҳ беҳтаранд.
+3. **Худатон одамонро ном баред.** "Инак шумо ва падар дар рӯзи арӯсиатон" фишорро бардошта мекунад.
+4. **Ба ҷузъиёт назар кунед.** Либос, мошин, хӯрок, ҳаво, чеҳраҳо. "Чӣ мошин. Чунон дурахшон менамояд."
+5. **Даъват кунед, талаб накунед.** "Дар бораи он бигӯед" ё "Чӣ мебинед?" Хомӯшӣ хуб аст.
+6. **Аз роҳи онҳо равед.** Агар онҳо дар бораи чизи дигар сӯҳбат кунанд, бо он ҳамроҳ шавед.
+7. **Вақте ки хуш аст, бас кунед.** Албомро пеш аз хастагӣ пӯшед.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Барои суратҳои тайёр ба [кортҳои сӯҳбат](/games/conversation-cards/) нигаред. Барои бозии мулоим бо суратҳои оилагии худ, [ҷуфтҳои суратӣ](/games/photo-pairs/) аст; суратҳое, ки интихоб мекунед, дар браузери шумо мемонанд.
 
-## How do you make a memory box?
+## Чӣ тавр қуттии хотира месозед?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Қуттии хотира зарфест аз ашёҳои зиндагии шахс, ки онҳоро дастмол кунанд ва дар бораашон сӯҳбат кунанд.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Қуттии устувор интихоб кунед,** ки кушодан осон аст, мисли қуттии кафш, қуттии кулоҳ ё сандуқи чӯбии хурд.
+2. **Мавзӯъ ё омезиш интихоб кунед.** Кор, машғулият, макон, даҳсола ё каме аз ҳама чиз.
+3. **Ашёҳои бехатарро ҷамъ кунед.** Панҷ то даҳ ашё барои оғоз кофист.
+4. **Нусхаи чизҳои бебаҳоро истифода баред.** Суратҳо ва ҳуҷҷатҳои бебадалро нусха бардоред ва асли онҳоро эмин нигоҳ доред.
+5. **Ашёҳоро як-як бароред.** Онро ба шахс диҳед, дар бораи он чизе гӯед ва бинед, ки сӯҳбат кучо меравад.
 
-Ideas to include:
+Ғояҳо барои дохил кардан:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Кор:** нишони ном, абзори хурд, нишони либос, дафтари ҳисоб, нишони ҳамшира, китоби пухтупаз аз ошхонаи хурд.
+- **Хона:** варақи рецепт бо хатти онҳо, сачоқи чой, шарф ё галстуки дӯстдошта.
+- **Машғулиятҳо:** сағанаки моҳигирӣ бе қуллоб, бейсбол, гулӯлаи ришта, бастаи тухми гул.
+- **Ҷойҳо:** кортҳои почта, харита, ёдгории сайёҳӣ, буридаи рӯзнома аз шаҳри зодгоҳ.
+- **Оила:** нусхаи суратҳо, расми кӯдак, даъватномаи тӯй.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Ашёи тези бурранда, чизҳои хурде, ки фурӯ бурда мешаванд, ва ҳар чизе, ки метавонад хотираҳои дардоварро бедор кунад, агар надонед, ки ин хуш меояд, берун гузоред.
 
-## How do you make a life-story book?
+## Чӣ тавр китоби зиндагиро месозед?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Китоби зиндагӣ албоми содаи суратҳо ва сарлавҳаҳои кӯтоҳ дар бораи зиндагии шахс аст. Он чизест барои дидани якҷоя ва барои меҳмонон ва кормандони нигоҳубин кӯмак мекунад, ки шахси пурраро бубинанд.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Шаклро интихоб кунед.** Биндер бо ҳимоякунандаҳои варақ, китоби аксии чопӣ ё намоиши слайд дар планшет.
+2. **Чанд бахш нақша кунед.** Кӯдакӣ, мактаб, кор, оила, ҷойҳои зиста, эътиқод, машғулиятҳо, ғизоҳо ва мусиқии дӯстдошта.
+3. **Ба ҳар саҳифа як-ду аксро бо сарлавҳаи кӯтоҳ ва калон илова кунед:** "Мэри, 22-сола, ба кор дар бонк шурӯъ мекунад."
+4. **Хоҳишҳо ва одатҳоро дохил кунед.** "Қаҳваро бо шир менӯшад. Сурудҳои динии якшанберо дӯст медорад. Телевизиони баланд намепасандад." Ин ба ҳар кас, ки нигоҳубинашон мекунад, кӯмак мекунад.
+5. **Шахсро ҷалб кунед,** то он ҷое ки мехоҳад: интихоби суратҳо, нақли ҳикояҳо ё танҳо тамошо кардан, ки чӣ гуна ҷамъ мешавад.
+6. **Илова кунед.** Лозим нест, ки пурра бошад, то муфид бошад.
 
-## More reminiscence ideas
+## Дигар ғояҳои ёдоварӣ
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Мусиқии ҷавонии онҳоро садо диҳед** ва дар бораи он ки ба куҷо мебарад, сӯҳбат кунед. Ба [фаъолиятҳои мусиқӣ](/activities/music/) нигаред.
+- **Филмҳои хонагӣ ё барномаҳои телевизионии даҳсолаҳои дӯстдоштаи онҳоро тамошо кунед.**
+- **Таоми кӯдакиро пазед** ва бигзоред, ки бӯйҳо сӯҳбатро пеш баранд.
+- **Харитаи шаҳри зодгоҳро нигаред** ва кӯчаҳои шиносро бо ангушт нишон диҳед.
+- **Каталог ё маҷаллаҳои кӯҳнаро ба даст гиред** ва дар бораи нархҳо, мӯд ва мошинҳо сӯҳбат кунед.
+- **Нақлҳои онҳоро ба телефон сабт кунед,** бо иҷозати онҳо, барои оила.
+- **Ҳангоми занги видеоӣ мубодила кунед.** Як аксро ҳангоми занги видеоӣ нишон диҳед; ба [занги телефонӣ ва видеоӣ](/activities/phone-and-video-calls/) нигаред.
+- **Ҳангоми ташриф аксе ё ашёе биёред.** Он ба ташриф маркази осон медиҳад; ба [ташриф](/activities/visiting/) нигаред.
 
-## What if a memory is painful?
+## Агар хотира дардовар бошад, чӣ?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Баъзе хотираҳо андӯҳ, пушаймонӣ ё тарс меоранд. Агар шахс ба ҳаяҷон ояд, бас кунед, ӯро тасаллӣ диҳед ва бо мулоимӣ мавзӯъ ё фаъолиятро иваз кунед. Дар бораи он ки чӣ рӯй дод, баҳс накунед. Иттифоқи нигоҳубинкунандагони оила аз кӯшиш кардан барои боварӣ додан ба шахс, ки ӯ иштибоҳ мекунад, худдорӣ карданро ва ба эҳсосоте, ки нишон медиҳад ва воқеӣ ҳастанд, ҷавоб додани маслиҳат медиҳад. Агар онҳо дар бораи касе, ки мурдааст, мисли он ки зинда аст, гап зананд, ба эҳсос ҷавоб диҳед: "Шумо ӯро пазмон мешавед. Дар бораи ӯ бигӯед."
 
-## What does the research say?
+## Тадқиқот чӣ мегӯяд?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Санҷиши Кокрейн дар бораи ёдоварӣ](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ки 22 озмоиш ва 1,972 нафарро дар бар мегирад, ёфт, ки натиҷаҳо нопайваста, хурд ва вобаста ба муҳит ва шакл гуногун буданд. Ягон далели зарар ба одамони деменсиядор ёфт нашуд. Мо ёдоварӣро ба хотири он пешниҳод мекунем, ки он метавонад вақти гарм ва маъноноке барои якҷоя гузаронидан фароҳам орад, на ҳамчун табобат. Барои бештар дар бораи сӯҳбати осон, ба [маслиҳатҳои муошират](/caregiving/communication-tips/) нигаред.
