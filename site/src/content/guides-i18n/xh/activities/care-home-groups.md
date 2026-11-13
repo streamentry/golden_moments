@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Imisebenzi Yeqela Yesifo Sokulibala: Isikhokelo Sezindlu Zokhathalelo Nezenkqubo Zemini"
+seoTitle: "Iqela Lemisebenzi Ye-Dementia: I-Bingo, Iingoma, Amabali"
+description: "Imisebenzi yeqela kwiindawo zokukhathalela nakwiinkqubo zemini: i-bingo yemifanekiso, iingoma, iinkumbulo kunye neengcebiso zokuhlela iindawo kunye nenani labantu."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Imisebenzi elungileyo yeqela kwiindawo zokukhathalela kunye nakwiinkqubo zemini
+  yabantu abadala ifutshane, iyaziwa kwaye ilula ukujoyina kuyo nangaliphi na
+  inqanaba: i-bingo yemifanekiso, ukucula kunye, iindilinga zokukhumbula, intshukumo
+  elula kunye nemidlalo emifutshane yamagama. Gcina amaqela amancinci apho
+  kunokwenzeka, uhlale abantu ukuze wonke umntu abone kwaye ive, nika inyathelo
+  elinye ngexesha, kwaye ucwangcise indima elula nokuphuma ngokuzolileyo kumntu
+  ofuna enye.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Amaqela amancinci ahlala esebenza kakuhle kunomsitho omkhulu omnye, kwaye avumela abantu abaninzi ukuba babandakanye kungekhona ukubukela nje."
+  - "Hlala abantu ngendilinga okanye ngomkhombe, besondele kumkhokeli, ngokuqwalasela iimfuno zokuva nokubona kunye nokucima ingxolo esemva."
+  - "Cwangcisa umsebenzi ngamanqanaba amabini okanye amathathu ukuze wonke umntu, nangaliphi na inqanaba lakhe, akwazi ukujoyina."
+  - "Gwema imibuzo, amanqaku kunye nabaphumeleleyo. I-bingo yemifanekiso inokudlalwa ngabo bonke bephelisa ikhadi elizaliswe ngokupheleleyo."
+  - "Ukushiya kwangethuba, ukubukela okanye ukulala kancinane kulungile. Yiba nomsebenzi weqela olungele ukuxhasa nabani na ofuna indawo ethe cwaka."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Yeyiphi inani elifanelekileyo leqela lemisebenzi yesifo sokulibala?"
+    a: "Akukho nombolo yinye echanileyo, kuxhomekeke kubahlali, kwigumbi nakwinani labasebenzi onabo. Amaqela amaninzi afumanisa ukuba amaqela amancinci avumela wonke umntu ukuba abone, avakale kwaye athathe inxaxheba, ngelixa iimeko ezinkulu zigcina abantu bebukela kuphela. Ukuba ulungiselela umsitho omkhulu, yongeza abasebenzi okanye abancedi abanokuhlala phakathi kwabahlali baze bancedise umntu omnye okanye ababini ngamnye."
+  - q: "Ndenza njani iqela elinezakhono ezahlukeneyo?"
+    a: "Cwangcisa iindlela ngaphezu kwenye zokujoyina kowo nawuphi umsebenzi. Kwingoma yokucula ndawonye, abanye bacula wonke amazwi, abanye bacombulula okanye bahlaba izandla, kwaye abanye babamba ishekeli. Kwi-bingo yemifanekiso, abanye bafumana imifanekiso yabo, ngelixa umncedi emelela abanye. Hlala abantu abafuna uncedo olungaphezulu ecaleni komsebenzi okanye umncedi."
+  - q: "Ndidlala njani i-bingo yemifanekiso ingenakukhuphisana?"
+    a: "Bizela yonke imifanekiso de ikhadi lowo nawuphi umntu lizaliswe, ukuze kungabikho mntu ushiyekileyo. Thetha ngomfanekiso nganye xa uvela, kwaye ungabi namabhaso ekhethekileyo kubaphumeleleyo okanye nika wonke umntu isiqwenga esincinci esifanayo. Injongo yokujonga kunye nencoko, kungekhona okuphela kuqala."
+  - q: "Ndingasebenzisa imidlalo yenu kwisikrini esikhulu kwiqela na?"
+    a: "Ewe. Imidlalo yethu isebenza kwisikhangeli sewebhu, ngoko ungayivula kwikhompyutha yesandla okanye kwisixhobo sedijithali esixhunywe kumabonakude okanye kwisixhobo esibonisa umfanekiso. I-bingo yemifanekiso iquka amakhadi onokuwaprinta kunye nombizi osikrinini. Gqiba izaga kunye neeIipeyari zemifanekiso nazo zisebenza kakuhle kwisikrini esikhulu, nomntu omnye echofoza ngomnye ukuze aqhubeke iqela."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Esi sikhokelo sisebenzela abaphathi bemisebenzi, amaqela ekhathalelo lwenkumbulo kunye nabaphathi beenkqubo zemini zabantu abadala. Sigubungela iifomati zamaqela ezisebenzayo, ukulungiswa kwegumbi, ukulungelelanisa umsebenzi omnye kwiinkcukacha ezahlukeneyo, kunye nokusebenzisa imidlalo yethu yemifanekiso ephrintwayo kunye neyesikrini esikhulu. Yonke into apha ijolise kwiliso, ukudibana nokhetho. Akukho nto apha yovavanyo.
 
-## What makes a group activity work in memory care?
+## Yintoni eyenza umsebenzi weqela usebenze kukhathalelo lwenkumbulo?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Umsebenzi oqhelekileyo weqela ufutshane, uyaziwa, ulula ukujoyina kuwo nangaliphi na inqanaba, kwaye akukho ngcinezelo. I-[Izincomo zokunakekela kwe-Dementia](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ye-Alzheimer's Association zichaza ukuzibandakanya okunentsingiselo njengento exhasa umdla nokukhetha komntu, ivumela ukhetho nempumelelo, nangona isifo sokulibala sisiphezulu. Eli themba lisabonisa ukuba iinkqubo zemveli zihlala zixhomekeke kwimisitho emikhulu emibini okanye emine ngemini apho abahlali bahlala bebukela kuphela.
 
-That points to a few practical rules:
+Ezi zimiselo zisebenza ngokwenzeka:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Okwaziwayo kungcono kunokutsha.** Iingoma, amagama aqhelekileyo, imifanekiso kunye nezinto ezivela kwiminyaka yabahlali yokuqala zilula ukuzijoyina.
+- **Ifutshane kungcono kunode.** Cwangcisa ixesha elifana nexesha lokugcina ingqalelo yeqela lakho, kunye nendawo yokuyeka ngokwendalo phakathi.
+- **Ukwenza kungcono kunokujonga.** Nika umntu ngamnye into abangayibamba, abayithintele, abayikhethe okanye abayithethe.
+- **Iinqanaba ezininzi, umsebenzi omnye.** Yakha iindlela ezilula nezinzima zokuthatha inxaxheba.
+- **Akukho bawinayo, akukho manqaku.** Iimbumbulo zokukhuphisana zishiya abanye abantu bezizwa ngathi bayaphulukana.
 
-## How big should the group be?
+## Iqela malibe likhulu kangakanani?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Amancinci ngokuqhelekileyo ayalula. Ukuba i-Alzheimer's Association ichaza ukuba umntu oziva engenamandla kwindibano enkulu usenokudibana ngempumelelo kwiqela elincinci. Akukho nombolo inye echanileyo. Ixhomekeke kubahlali, kwigumbi nakwinani labasebenzi kunye nabancedi abafumanekayo.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Uvavanyo oluncedayo: ingaba bonke abantu banokubona ubuso bomkhokeli, bevakalelwe ngokucacileyo kwaye bafikelelwe ngumncedi ngaphakathi kwemizuzwana embalwa? Ukuba akunjalo, yahlula iqela, yongeza abancedi okanye ufudukele kwigumbi elincinci.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Kumsitho omkhulu, njengekonsathi yeholide, beka abasebenzi nabancedi phakathi kwabahlali, kungekhona emacaleni.
 
-## How should I set up the room and seating?
+## Ndilungiselela njani igumbi kunye nezihlalo?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Umkhombe okanye indilinga.** Iingcebiso zabelwana ngokuthi indilinga yindawo elungileyo xa igumbi likhulu lokuba bonke bahlale ndilingeni, ngaphandle kwengxolo esemva.
+- **Umkhokeli esondele kwaye ekwinqanaba leliso.** Hlala xa unakho endaweni yokuma.
+- **Ukuva nokubona kuqala.** Beka abantu abanobunzima bokuva eceleni komkhokeli, kwelona cala lilungileyo. Qinisekisa ukuba iiglasi kunye nezixhobo zokuva zikhona. I-Alzheimer's Association iqaphela ukuba iingxaki zokubona nokuva zinokwenza unxibelelwano lube nzima.
+- **Ukukhanya kusuka emva kwabahlali, hayi emva kwakho.** Gwema ukubeka umntu ejongene nefestile ekhanyayo.
+- **Vala umabonakude kunye nerediyo.** I-Alzheimer's Association icebisa ukususa ingxolo ephazamisayo ngexesha lemisebenzi yomculo.
+- **Incoko enye ngexesha.** Ukuthethana okuninzi kunzima kubantu abaphila ne-dementia nakubantu abanobunzima bokuva, njengoko i-Alzheimer's Association ichaza kwi[sikhokelo sayo seholide](https://www.alz.org/help-support/caregiving/holidays).
+- **Iindlela zokuphuma ezicacileyo nekona ethe cwaka.** Nawuphi na umntu ofuna ukushiya kufuneka akwazi ukwenza oko ngokulula, kunye nomsebenzi weqela ohamba naye.
 
-## Group activity ideas
+## Iingcebiso zemisebenzi yeqela
 
-### Picture bingo
+### I-bingo yemifanekiso
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+I-bingo yemifanekiso ithatha indawo yamanani ngemifanekiso ecacileyo, njengeteyipot, inja okanye irozi, ukuze akukho mntu ufanele alandele inani elide okanye ukufunda ibhalo elincinci.
 
-**How to run it:**
+**Indlela yokuyenza:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Printa ikhadi elinye komntu ngamnye kwiphepha le-[I-Bingo yemifanekiso](/games/picture-bingo/) usebenzisa iqhosha lokuprinta. Iphepha elinzima libanjwa lula. Lugquma ngeplastiki ukuze lisetyenziswe kwakhona.
+2. Nika izinto ezinkulu, ezilula ukuzithatha zokubeka uphawu, ezinje ngeechips zepoker, iiKepisi zebhotile okanye iisikwere zekhadi ezisikiweyo.
+3. Sebenzisa umbizi osikrinini kumabonakude okanye kwisixhobo esibonisa umfanekiso ukuze wonke umntu abone umfanekiso njengoko uthi igama lawo.
+4. Yima emva komfanekiso nganye kwaye ucele ingxelo emfutshane: “Ngaba kukho umntu ofuna ukusixelela malunga nenja awayeyaziyo?” okanye “Yintoni oyiqaphelayo kulo?”
+5. Qhubeka ubizela de zonke iikhadi zizaliswe. Wonke umntu uyagqiba.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Ukulungelelanisa:** Sebenzisa iisikwere ezimbalwa kubantu abafumana ikhadi elizaliswe ngokupheleleyo lixakekile kakhulu. Umncedi angachaza umfanekiso ofanayo kumntu ofuna uncedo. Abanye abantu banokuthanda ukubamba ikhadi lomfanekiso wombizi baze babonise iqela.
 
-### Sing-alongs
+### Ukucula kunye
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Umculo ngomnye wemisebenzi yeqela eyonwabisa kakhulu. I-Alzheimer's Association ichaza ukuba nasezigqithisweni zokugqibela umntu usenokukwazi [ukubetha isingqi okanye ukucula ingoma yobuntwana](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Indlela yokuyenza:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Khetha iingoma abahlali abakhulela kuzo, kungekhona ezithandwa ngumkhokeli. Buza iintsapho ukuba ibe yintoni ekuthandwa ngumntu ngamnye.
+- Sebenzisa umculo ongenampazamiso yentengiso, eyinto ethi, ngokwe-Association, ingadida.
+- Printa amazwi ngoludwe olukhulu kwabo bayafunda, kodwa ungafuni ukuba wonke umntu afunde.
+- Nika izixhobo zokungcangcazela, iingqungquthela ezibethwayo okanye iindwangu zokuwuzisa.
+- Khuthaza ukuqhwaba izandla kunye nokuhamba, kwaye ugcine ivolumu ilungele.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Ukulungelelanisa:** Abanye abantu baya kucula wonke amazwi, abanye baya kunyana, abanye baya kubetha unyawo, kwaye abanye baya kumane bephulaphule. Zonke ezi zinto zibalulekile. Bona [isikhokelo sethu semisebenzi yomculo](/activities/music/) ukuze ufumane ngakumbi.
 
-### Reminiscence groups
+### Amaqela okukhumbula
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Iqela lokukhumbula libuthana ngokuzungeze isihloko esithile, njengeminyaka yesikolo, iimoto zokuqala, izitovu okanye ihlobo, lisebenzisa iifoto, izinto kunye nomculo. Injongo kukuthetha incoko emnandi, kungekhona ukukhumbula ngokuchanileyo.
 
-**How to run it:**
+**Indlela yokuyenza:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Khetha isihloko esinye kwaye ulethe izinto ezimbalwa abantu abanokuzibamba: umxube wesandla, igilavu yebhola, icap, iikhathalogu zembewu.
+2. Pasa into enye ngexesha. Buza imibuzo evulekileyo: “Ndixelele ngale nto,” “Yintoni oyiqaphelayo?” “Ngubani owayesebenzisa into efana nale?”
+3. Wamkela yonke impendulo. Ungalungisi umhla okanye inyani.
+4. Qhuba incoko ibe kwiinkumbulo ezifudumeleyo. Iingcebiso zesakhelo zichaza ukuba abanakekeli kufuneka bajike ukukhumbula ibe kwiinkumbulo ezintle endaweni yezo zinokubangela uxinzelelo.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Amakhadi encoko](/games/conversation-cards/) anemibuzo evulekileyo yemifanekiso enokuprintwa ngokwesihloko, ilungele njengezibekelo zencoko. Ezinye iingcebiso zikwisikhokelo sethu [sokukhumbula](/activities/reminiscence/).
 
-### Finish the saying
+### Gqiba izaga
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Izaga eziqhelekileyo (“Imali egciniweyo ...”) zibongoza wonke umntu ukuba acule isiphelo kunye. Bonisa [Gqiba izaga](/games/finish-the-saying/) kwisikrini esikhulu kwaye uvumele iqela liphendule njengelizwi elinye. Kukho umbuzo wencoko emva kwesaga nganye. Ukuba akukho mntu ocula isiphelo, bonisa kwaye uqhubeke. Akukho mpendulo ilungileyo okanye engalunganga.
 
-### Large-print word search, together
+### Ukufuna amagama amakhulu, kunye
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Bonisa [Ukufuna amagama](/games/word-search/) ngoludwe olukhulu kwisikrini kwaye ujonge amagama njengeqela, okanye uprinte iikopi zabo bayithanda ukusebenza ngokwabo etafileni. Amagama agqitha kuphela ngokuthe ngqo nasezantsi.
 
-### Gentle movement
+### Intshukumo ethambileyo
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Ukwelula kwabahleli, ukudlulisa ibhola ethambileyo okanye ibhaluni, okanye ukudanisa ngokuhleli kwisixhobo emculweni owaziwayo. Bonisa ngasinye isenzo endaweni yokusichaza.
 
-### Sorting and matching at the table
+### Ukuhlela nokudibanisa etafileni
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Iitafile ezincinci zabantu abathathu ukuya kwabane zinokuhlela imifanekiso, iisampulu zamalaphu okanye izixhobo zetafile kunye. Kwisikrini, [Iipeyari zemifanekiso](/games/picture-pairs/) zinokudlalwa ngemifanekiso ishiyiwe ibonakala, nomntu omnye ecofa ngelixa itafile ithetha ngomfanekiso nganye.
 
-## How do I use your games on a big screen?
+## Ndisebenzisa njani imidlalo yakho kwisikrini esikhulu?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Imidlalo yethu isebenza kwisikhangeli sewebhu, ngoko ungayisebenzisa kumabonakude okanye kwisixhobo esibonisa umfanekiso ngaphandle kokufaka nasiphi na isicelo.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Vula umdlalo kwikhompyutha yesandla okanye kwisixhobo sedijithali esixhunywe kwisikrini ngekhebhile okanye ngokufaka isixhobo.
+2. Yenza ifestile yonke ibonakale kwaye ulungelelanise ingxolo ibe ngqo.
+3. Nika umkhokeli inqanaba lokucofa kwaye iqela libize ukhetho. Okanye udlulisele isixhobo kumntu ofuna ixesha lakhe.
+4. Yima nangaliphi na ixesha iqela lilungele. Imidlalo ayinaxesha, amanqaku okanye ukugqitywa okuphoqelelweyo.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[I-Bingo yemifanekiso](/games/picture-bingo/), [Gqiba izaga](/games/finish-the-saying/), [Iipeyari zemifanekiso](/games/picture-pairs/) kunye [Namakhadi encoko](/games/conversation-cards/) zisebenza kakuhle kumaqela. Bona zonke ezinye ezikhoyo kwi[phepha lemidlalo](/games/) lethu.
 
-## How do I adapt one activity for mixed abilities?
+## Ndiyilungelelanisa njani imisebenzi enezakhono ezahlukeneyo?
 
-Plan at least three ways to join every activity.
+Cwangcisa indlela ezintathu okanye ngaphezulu zokujoyina kowo nawuphi umsebenzi.
 
-| Activity | More independent | Some support | Most support |
+| Umsebenzi | Eyona izimeleyo | Uncedo oluthile | Uncedo oluninzi |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| I-bingo yemifanekiso | Ifumana kwaye ibeka iimifanekiso zayo | Umncedi uchaza; umntu ubeka | Ubamba ikhadi lomfanekiso; uyaphulaphula kwaye ujonge |
+| Ukucula kunye | Ucula, akhethe ingoma elandelayo | Ucula ngobunono, usebenzisa isixhobo sokungcangcazela | Uphulaphula, ubamba ingubo, ucofa isandla |
+| Ukukhumbula | Uxelela amabali | Uphendula ewe-okanye-hayi okanye ucheba | Ubamba kwaye ujonge into |
+| Ukufuna amagama | Usebenza ngekopi yakhe eprintiweyo | Ufumana amagama kwisikrini somncedi | Uphulaphula njengoko amagama efundwa |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Kwabahlali abangqinelana nezigaba zokugqibela, i-NHS iqaphela ukuba imisebenzi ihlala ifuna ukulula kwaye igxile kakhulu kwiimvakalelo, njengomculo, izinto zokuchukumisa kunye nokuhlikihla isandla. Ixesha elinye ngasinye okanye emva kweqela linokuba lilungele kakhulu kuneqela ngokwalo. Bona [imisebenzi yenqanaba lokugqibela](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Abaphathi kufuneka bathethe njani ngexesha leqela?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Zazisa wena ngamaxesha onke, kwaye usebenzise igama elikhethwe ngumntu ngamnye.
+- Thetha ngokucotha, nika inyathelo elinye ngexesha, kwaye bonisa ngaphambi kokuchaza.
+- Mema ngemibuzo evulekileyo (“Ndixelele malunga...”) okanye ngokhetho olulula, kungekhona imibuzo yovavanyo (“Uyakhumbula...?”).
+- Musa ukulungisa. Bulela wonke umntu ngegalelo ngalinye.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Ezinye iingcebiso zikwi[ngcebiso zethu zonxibelelwano](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Ukuphelisa kakuhle, nokuvumela abantu bahambe
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Ukuyeka ngumphumo omhle. Jonga iimpawu zokuba umntu udinwe, uxinzelelekile okanye akonwabanga, kwaye yenza umncedi anike ukuhamba okanye isihlalo esithe cwaka kwenye indawo. Umntu olale ngexesha lengoma yokucula usenokuba nje ukhululekile.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Vala wonke iqela ngendlela efanayo, ngengoma eyaziwayo okanye ngombulelo olula, ukuze ukuphela kuziwe njengento ethe cwaka nelindelekileyo. Emva koko, bhala kancinci into esebenze kakuhle nokuba ngubani owonwabele into ethile. Ezo zikhumbuzo zenza iseshoni elandelayo ibe ngcono.
