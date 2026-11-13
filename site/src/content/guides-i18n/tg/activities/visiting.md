@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Ташриф ба шахси деменсиядор дар нигоҳубини хотира ё беморхона"
+seoTitle: "Ташриф ба шахси деменсиядор: чӣ кор кардан ва чиро бурдан"
+description: "Ташриф ба шахси деменсиядор дар нигоҳубини хотира ё беморхона: чӣ кор кардан, чиро бурдан, ташрифҳои кӯтоҳ ва хайрбоди ором."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Вақте ки ба шахси деменсиядор дар нигоҳубини хотира ё беморхона ташриф меоред,
+  онро содда нигоҳ доред: ҳангоми расидан номи худро гӯед, чизе барои мубодила
+  биёред, мисли аксҳо, мусиқӣ ё хӯроки дӯстдошта, ва як кори осонро якҷоя анҷом
+  диҳед. Ташрифҳои кӯтоҳ ва мунтазам аксар вақт беҳтар аз дароз ва нодир мегузаранд.
+  Хайрбодии ором ва доимиро нақша кунед, то рафтан барои ҳардуи шумо осонтар бошад.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Шахсро бо ном салом диҳед ва бигӯед, ки кистед, то ӯ ба фаҳмидан ниёз надошта бошад: «Салом, модар, ман Сюзан ҳастам, духтари ту»."
+  - "Як ё ду чизро барои мубодила биёред, мисли албоми аксҳо, мусиқии дӯстдошта, рӯйпӯши мулоим ё хӯроке, ки кормандон тасдиқ кардаанд."
+  - "Ташрифҳои кӯтоҳ ва мунтазам аксар вақт беҳтар аз дароз ва нодиранд. Ҳузури шумо аз он чи мегӯед, муҳимтар аст."
+  - "Дар беморхона ба кормандон варақаи яксаҳифагӣ дар бораи шахс диҳед ва фавран ба духтур дар бораи ҳар тағйироти ногаҳонӣ хабар диҳед."
+  - "Рафтанро нақша кунед: гӯед, ки чӣ қадар метавонед бимонед, ҳар дафъа як хайрбодии якхела гӯед ва бе дер мондан равед."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Ҳангоми ташриф ба шахси деменсиядор чиро бояд бурд?"
+    a: "Чизеро бурд, ки барои мубодила аст, на чизе, ки барои сӯҳбат дар бораи он лозим аст. Албоми хурди аксҳо, рӯйхати сурудҳои дӯстдошта, рӯйпӯши мулоим, креми даст, маҷалла дар бораи машғулияти кӯҳна ё хӯроке, ки кормандон тасдиқ кардаанд, ҳама хубанд. Дар нигоҳубинӣ аксҳои оилавӣ ва ашёи шинос метавонанд ба ҳуҷра ҳисси хона диҳанд."
+  - q: "Ҳангоми ташриф ба шахси деменсиядор чӣ қадар бимонам?"
+    a: "Дарозии дуруст вуҷуд надорад. Бисёр оилаҳо мегӯянд, ки ташрифҳои кӯтоҳ ва бештар беҳтар аз дароз ва нодиранд, зеро шахс метавонад зуд хаста шавад ва шояд ба ёд надошта бошад, ки чӣ қадар мондед. Нишонаҳои хастагиро тамошо кунед ва вақте ки ташриф ҳанӯз хуш аст, бирафтед."
+  - q: "Вақте ки мепурсанд «Ман мехоҳам ба хона равам», чӣ гӯям?"
+    a: "Ба эҳсос ҷавоб диҳед, на ба калимаҳо. «Ман мехоҳам ба хона равам» аксар вақт маънои «ман худро роҳат ё бехатар ҳис намекунам» дорад. Кӯшиш кунед, ки бигӯед: «Дар бораи хонаатон бигӯед», дар якҷоягӣ аксҳоро бинед ё сайр, нӯшокӣ ё хӯроки хурд пешниҳод кунед. Баҳс кардан ё шарҳ додан, ки чаро онҳо наметавонанд раванд, одатан нороҳатиро зиёд мекунад."
+  - q: "Агар маро нашиносад, чӣ?"
+    a: "Ин метавонад дардовар бошад, аммо кӯшиш кунед, ки онҳоро ислоҳ накунед ва напурсед: «Оё маро намешиносед?» Худро гарм ва содда муаррифӣ кунед ва аз вақти якҷоя лаззат баред. Бисёриҳо ҳатто вақте ки наметавонанд бифаҳманд, ки шумо кистед, ҳанӯз аз ҳамроҳӣ ва гармии ташриф лаззат мебаранд."
+  - q: "Ҳангоми бистарӣ шудан дар беморхона ман чӣ гуна кумак карда метавонам?"
+    a: "Ҳар вақт, ки метавонед, дар назди шахс бошед, ба хӯрдан ва нӯшидан кумак кунед ва ашёи шинос, мисли аксҳоро биёред. Ба кормандон варақае диҳед, ки тартиби рӯзона, номи мувофиқ, дӯстдоштаҳо, нафратҳо ва нишонаҳои дардро дар бар мегирад. Агар шахс ногаҳон бадтар ё дигаргун ба назар расад, фавран ба духтур гӯед, зеро гиҷшавии ногаҳонӣ метавонад нишонаи мушкилоти тиббӣ бошад."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,106 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Ташриф ба шахсе, ки дӯст медоред, дар нигоҳубини хотира, хонаи пиронсолон ё беморхона метавонад эҳсосоти зиёдро ба вуҷуд орад. Шумо шояд фикр кунед, ки чӣ гӯед, чӣ бурд, ё оё ташриф хеле муҳим аст, агар онҳо онро ба ёд надошта бошанд. Муҳим аст. Институти миллии пиронсолӣ қайд мекунад, ки одамони бо Алсгеймер зиндагикунанда [аксар вақт аз ҳамроҳӣ лаззат мебаранд](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), ҳатто вақте ки ташрифкунандаро ба ёд намеоранд. Ин роҳнамо қадамҳои амалиро барои пеш, ҳангом ва пас аз ташриф, ва маслиҳатҳои махсуси беморхона пешниҳод мекунад.
 
-## How do I get ready for a visit?
+## Чӣ тавр барои ташриф омода шавем?
 
-A little planning makes the visit easier for both of you.
+Каме нақшакашӣ ташрифро барои ҳардуи шумо осонтар мекунад.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Вақти хубро интихоб кунед.** Dementia Australia пешниҳод мекунад, ки ҳангоме ташриф кунед, ки шахс одатан ҳушёртарин аст, ки барои бисёриҳо субҳ ё тақрибан нисфирӯзӣ аст. Иттифоқи нигоҳубинкунандагони оила пешниҳод мекунад, ки ҷадвали муассисаро омӯзед ва дар [вақти озодӣ, на вақти фаъолият](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) ташриф кунед.
+- **Бо кормандон маслиҳат кунед.** Пурсед, ки шахс имрӯз чӣ гуна буд ва қоидаҳо дар бораи хӯрок, ҳайвони хонагӣ ё сайругаштро тафтиш кунед.
+- **Як халтаи хурди ташриф бигиред.** Як ё ду чиз барои мубодила кофист (ниг. рӯйхати зер).
+- **Чанд мавзӯъро нақша кунед.** Шахс шояд хабаре надошта бошад, пас худатон хабар биёред: хабарҳои оила, обу ҳаво, бозии варзишӣ, ҳикояи ханда.
+- **Интизории худро танзим кунед.** Баъзе ташрифҳо гарм ва пурсухан хоҳанд буд. Дигарон хомӯш ё душвор. Ҳардуяш одӣ аст.
 
-## What should I bring?
+## Чиро бояд бурд?
 
-Bring things to share, not things that test. Good choices include:
+Чизҳоеро бурд, ки барои мубодила аст, на онҳое, ки месанҷанд. Баъзе беҳтарин интихобҳо инҳоянд:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Албоми хурди аксҳо** бо аксҳои калон ва возеҳ. Онҳоро дар қафо барои кормандон ном гузоред.
+- **Рӯйхати мусиқии дӯстдошта** дар телефон, бо гӯшмонаки оддӣ ё садодиҳандаи хурд.
+- **Чизи мулоим барои гирифтан,** мисли пӯшиши шинос, шарф ё куртаи шинос.
+- **Креми даст** барои массажи мулоим, агар шахс ламсро дӯст дорад.
+- **Маҷалла ё китоби тасвирӣ** дар бораи машғулияти кӯҳна, мисли боғдорӣ, мошинҳо, паррандагон ё пухтупаз.
+- **Хӯроки дӯстдошта,** агар кормандон гӯянд, ки бехатар аст.
+- **Ашёи шинос барои ҳуҷра.** Иттифоқи нигоҳубинкунандагони оила гулҳо, растаниҳо, аксҳои оилавӣ ва асарҳои ҳунарӣ ё як постери калони аксҳои оилавии гузашта пешниҳод мекунад.
+- **Планшет,** барои тамошои аксҳои оилавӣ ё бозии мулоим якҷоя.
 
-## What can we do together during a visit?
+## Ҳангоми ташриф якҷоя чӣ кор кардан мумкин аст?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Иҷрои чизе якҷоя фишорро аз сӯҳбат мебардорад. Dementia Australia пешниҳод мекунад, ки аксҳоро тамошо кунед, ҳунари осон, шинондани ниҳолҳо, мусиқӣ, хӯрокҳои якҷоя ё сайр дар атрофи муассиса. Якчанд ғояи дигар:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Аксҳоро тамошо кунед.** Он чиро мебинед, нишон диҳед: "Ба он кулоҳ нигаред." "Ин соҳил хеле зебо аст." Бигузоред, ки шахс роҳнамоӣ кунад. Аз "Ин кист?" худдорӣ кунед.
+2. **Мусиқӣ садо диҳед ва суруд хонед.** Сурудҳои шинос метавонанд кайфиятро бардоранд ва лаҳзаи муштарак ба вуҷуд оранд, ҳатто вақте ки сӯҳбат душвор аст.
+3. **Сайри кӯтоҳ кунед.** Иттифоқи нигоҳубинкунандагони оила пешниҳод мекунад, ки дар атрофи муассиса сайр кунед, махсусан дар боғ, агар боғ бошад. Сайр бо аробачаи маъюбӣ ҳам ҳисоб мешавад.
+4. **Ба дастҳо массаж диҳед.** Каме креми даст ва молиши оҳиста метавонад ором кунад.
+5. **Ба ороиш кумак кунед.** Dementia Australia қайд мекунад, ки шона кардани мӯй, ороиши нохунҳо ё кумак дар пӯшидани либоси дӯстдошта, агар онҳо онро дӯст доранд.
+6. **Бозии содда.** Иттифоқи нигоҳубинкунандагони оила пешниҳод мекунад, ки корт, домино ё ҳар бозие, ки шахс пештар мебозид. Дар планшет, [Ҷуфтҳои расм](/games/picture-pairs/) бо расмҳои намоён ва бе вақтсанҷ бозӣ карда мешаванд. [Ҷуфтҳои суратӣ](/games/photo-pairs/) аксҳоеро, ки шумо интихоб мекунед, ба бозии мувофиқатӣ табдил медиҳад ва аксҳо дар браузери шумо мемонанд.
+7. **Якҷоя тамошо кунед.** Иттифоқи нигоҳубинкунандагони оила коммедия ва филмҳои кӯҳнаро пешниҳод мекунад. Ҳатто агар шахс сюжетро пайгирӣ карда натавонад, шумо метавонед наздик нишинед ва вақтро мубодила кунед.
+8. **Баланд хонед.** Шеър ё порчаи дӯстдошта, ё мактуби аъзои оила.
+9. **Танҳо якҷоя нишинед.** Дастҳоро дар даст гирифтан ё ором нишастан ташрифи воқеӣ аст. Ассотсиатсияи Алсгеймер қайд мекунад, ки нодонистани он ки чӣ гӯед, ҳеҷ мушкилӣ нест ва ҳузури шумо муҳимтарин аст.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Кортҳои сӯҳбат](/games/conversation-cards/) вақте кумак мекунанд, ки сӯҳбат тамом шавад. Ҳар корт расм ва саволи кушода дорад.
 
-## How should I talk during the visit?
+## Ҳангоми ташриф чӣ гуна сӯҳбат кунем?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Ҳар дафъа худро муаррифӣ кунед.** "Салом, падар, ман Марк, писари ту ҳастам." Институти миллии пиронсолӣ пешниҳод мекунад, ки ташрифкунандагон барои оғози сӯҳбат худро кӯтоҳ муаррифӣ кунанд.
+- **Аз пеш наздик шавед** ва дар сатҳи чашм нишинед.
+- **Ислоҳ накунед ва баҳс накунед.** Институти миллии пиронсолӣ ба ташрифкунандагон маслиҳат медиҳад, ки агар шахс иштибоҳ кунад ё чизеро фаромӯш кунад, ӯро ислоҳ накунанд.
+- **Сабр кунед,** вақте ки калимаҳо душвор ёфт мешаванд. Вақти кофӣ диҳед.
+- **Ба эҳсосот ҷавоб диҳед.** Агар шахс ғамгин ё нигаронидашуда ба назар расад, пеш аз иваз кардани мавзӯъ онро эътироф кунед.
+- **Аз саволҳои имтиҳонӣ худдорӣ кунед,** мисли "Маро ба ёд доред?" ё "Имрӯз чӣ хӯрдед?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Барои бештар, ба [маслиҳатҳои муошират](/caregiving/communication-tips/) нигаред.
 
-## What do I do when they say "I want to go home"?
+## Агар онҳо «Ман мехоҳам ба хона равам» гӯянд, чӣ кор кунам?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Ба эҳсосе, ки дар паси калимаҳо аст, ҷавоб диҳед (роҳнамои мо оид ба [вақте ки касе пайваста мепурсад, ки ба хона равад](/caregiving/asking-to-go-home/) бештар мегӯяд). Иттифоқи нигоҳубинкунандагони оила мегӯяд, ки «Ман мехоҳам ба хона равам» одатан роҳи гуфтани «ман роҳат нестам» аст ва пешниҳод мекунад, ки ҷавобҳоро, мисли «Дар бораи хонаатон бигӯед» ё «Чизи дӯстдоштаи шумо дар хона чист?» гӯед. Dementia Australia илова мекунад, ки «хона» метавонад вақт ё ҷое бошад, ки дар он шахс худро бехатар ҳис мекард, мисли кӯдакӣ.
 
-Try:
+Кӯшиш кунед:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- эҳсосотро эътироф кунед: "Ба назарам шумо хонаро пазмон мешавед."
+- тасалло тавассути ламс, агар қабул бошад
+- аксҳоро дидан ё дар бораи хонаи оилавӣ сӯҳбат кардан
+- сайр, нӯшокӣ ё хӯроки хурд пешниҳод кардан
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Аз баҳс кардан ё шарҳ додан, ки чаро онҳо наметавонанд раванд, худдорӣ кунед. Ин ба ғамгинии онҳо кумак мекунад ва одатан нороҳатиро зиёд мекунад.
 
-## How long should a visit be?
+## Ташриф чӣ қадар бояд бошад?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Кӯтоҳ ва бештар аксар вақт беҳтар кор мекунад. Иттифоқи нигоҳубинкунандагони оила қайд мекунад, ки шахс одатан ба ёд надорад, ки шумо панҷ дақиқа мондед ё панҷ соат, ва пешниҳод мекунад, ки се ташрифи кӯтоҳ дар як ҳафта метавонад аз як ташрифи дароз беҳтар бошад. Dementia Australia мегӯяд, ки шумораи дуруст ё дарозии дурусти ташриф вуҷуд надорад.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Дар ҳафтаҳои аввали пас аз кӯчидан ба нигоҳубини хотира, Иттифоқи нигоҳубинкунандагони оила пешниҳод мекунад, ки зуд-зуд ташриф кунед ва баъдан оҳиста-оҳиста ба як ҷадвали муқаррарӣ ором шавед. Аз кормандон пурсед, ки чиро мушоҳида мекунанд.
 
-## How do I leave without upsetting them?
+## Чӣ тавр бидуни ғамгин кардани онҳо рафтан мумкин аст?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Рафтан метавонад душвортарин қисм бошад. Dementia Australia пешниҳод мекунад:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Вақте ки меоед, гӯед, ки чанд вақт метавонед бимонед.** "Ман як соат метавонам бимонам, пас ба харид меравам."
+- **Фаъолиятро ҳамчун охири табиӣ истифода баред.** "Вақте ки ин сурудро тамом кунем, ман меравам."
+- **Вақтро бо хӯрок ё фаъолият ҳамоҳанг кунед,** ё аз кормандон хоҳиш кунед, ки ба шахс кумак кунанд, то ба чизи дигаре машғул шавад.
+- **Хайрбодиро кӯтоҳ ва ҳар дафъа якхела нигоҳ доред.** Дароз мондан, узр пурсидан ё "каме бештар" мондан метавонад хайрбодиҳои оянда душвортар кунад.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Пас аз рафтан, ғамгин шудан муқаррарӣ аст. Худро ором кунед. Агар шахс нороҳат шуд, кормандон одатан метавонанд ба зудӣ ба онҳо кумак кунанд, ки ором шаванд.
 
-## Visiting someone with dementia in the hospital
+## Ташриф ба шахси деменсиядор дар беморхона
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Беморхона садодор, ношинос ва пур аз ғарибон аст, ки барои шахсе, ки бо деменсия зиндагӣ мекунад, хеле душвор буда метавонад. Роҳнамои [бурдани шахси бо Алсгеймер ба беморхона](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) аз Институти миллии пиронсолӣ ин чизҳоро тавсия медиҳад:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Ба шахс кӯмак кунед,** ки ҳамеша бо касе бошад, то ҳадди имкон: аъзои оила, дӯсти боэътимод ё нигоҳубинкунандаи киро гирифташуда.
+- **Ба кормандон варақаи маълумоти шахсӣ диҳед,** бо тартиби рӯзона, номи мувофиқ, дӯстдоштаҳо ва нафратҳо, омилҳои эҳтимолии ташвиш ва нишонаҳои ғайрисухани дард. Нусхаҳоро дар ҳуҷра ва дар хонаи ҳамшираҳо гузоред.
+- **Ба хӯрдан ва нӯшидан кумак кунед.** Калонсолон дар беморхона метавонанд ба камғизоӣ гирифтор шаванд. Зарфҳоро кушоед, ба хӯрокҳо кумак кунед, якҷоя хӯрок хӯред ва нӯшокӣ пешниҳод кунед.
+- **Садоро паст кунед.** Телевизорро хомӯш кунед ва садои телефон ва интеркомро кам кунед.
+- **Одатҳои оромбахшро санҷед,** мисли мусиқии ором, хондан, дуо, сурудхонӣ ё нигоҳ кардан ба аксҳои кӯҳна.
+- **Ҳаракат кардани атрофро тавсия диҳед,** то ҳадде ки бехатар аст, бо тасдиқи кормандон.
+- **Фавран ба духтур гӯед, агар шахс ногаҳон бадтар ё дигаргун ба назар расад.** Институти миллии пиронсолӣ шарҳ медиҳад, ки гиҷшавии шадиди ногаҳонӣ, ки делирий номида мешавад, метавонад аз мушкилоте мисли сироят, таб, камобӣ ё таъсири доруҳо ба вуҷуд ояд ва ба таваҷҷуҳи тиббӣ ниёз дорад.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Ташрифи кӯтоҳ ва ором бо чеҳраи шинос ва сурудҳои дӯстдошта метавонад бузургтарин тасаллӣ дар рӯзи беморхона бошад.
 
-## Bringing children on a visit
+## Кӯдаконро ба ташриф бурдан
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Кӯдакон метавонанд гармии зиёд ба вуҷуд оваранд. Онҳоро пешакӣ бо калимаҳои содда ва самимӣ омода кунед, ташрифро кӯтоҳ нигоҳ доред ва ба онҳо вазифае диҳед, мисли нишон додани расм ё додани акс. Институти миллии пиронсолӣ пешниҳод мекунад, ки кӯдакон ва одамони бо Алсгеймер метавонанд аз фаъолиятҳои содда якҷоя лаззат баранд, мисли дидани албоми аксҳо ё гӯш кардани мусиқӣ. Dementia Australia пешниҳод мекунад, ки як халтаи хурди ширинӣ ё ашёи ором барои банд нигоҳ доштани кӯдакони хурд бурда шавад.
 
-## Take care of yourself too
+## Худатон низ нигоҳубин кунед
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ташриф метавонад хастакунанда ва эҳсосӣ бошад, махсусан агар шахс аз ҳад зиёд тағйир ёфта бошад. Агар лозим бошад, кам-кам ташриф кардан, дӯсти худро барои дастгирӣ овардан ё дар рӯзи душвор зуд рафтан ҳеҷ гуна мушкилӣ надорад. Барои ғояҳо дар бораи нигоҳубини худатон, ба [худнигоҳдории нигоҳубинкунанда](/caregiving/caregiver-self-care/) нигаред. Агар шумо дур зиндагӣ мекунед, ба роҳнамои мо оид ба [занги телефонӣ ва видеоӣ](/activities/phone-and-video-calls/) нигаред.
