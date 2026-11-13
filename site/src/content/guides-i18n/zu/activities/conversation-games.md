@@ -1,7 +1,7 @@
 ---
 title: "Imibuzo Engamashumi Amabili nemidlalo yengxoxo kubantu abane-dementia"
 seoTitle: "Imibuzo Engamashumi Amabili: Imidlalo Yengxoxo"
-description: "Imibuzo engamashumi amabili nezinye imidlalo yengxoxo kubantu abane-dementia, lapho umuntu eyisazi: akukho sikolo, akukho sikhathi, akukho ukuhlola."
+description: "Imibuzo engamashumi amabili nezinye imidlalo yengxoxo kubantu abane-dementia, lapho umuntu eyisazi: akukho amaphuzu, akukho sikhathi, akukho ukuhlola."
 section: activities
 order: 29
 updated: 2026-11-08
@@ -25,7 +25,7 @@ faq:
   - q: "Umuntu angacabanga ngani emibuzweni engamashumi amabili?"
     a: "Izinto ezilula nezijwayelekile zisebenza kangcono: isithelo, isilwane, ithuluzi, uhlobo lwembali, impahla yasendlini, noma indawo amaziyo kahle. Gwema imibono engaqondakali, amagama abantu nanoma yini engabangela usizi."
   - q: "Kuthiwani uma umuntu engakwazi ukuphendula ngeyebo noma ngecha?"
-    a: "Sebenzisa izimpawu, isandla esiphakanyisiwe noma esehliwe, noma khomba ikhadi lesithombe. Ungakwazi nokwenza izimbono ngokukhuluma ngokukhala, bese uvumela umuntu aphendule ngokunqekuza ikhanda, ukumomotheka noma ngegama."
+    a: "Sebenzisa izimpawu, isandla esiphakanyisiwe noma esehliwe, noma khomba ikhadi lesithombe. Ungakwazi nokusebenzisa izimpawu, bese uvumela umuntu aphendule ngokunqekuza ikhanda, ukumomotheka noma ngegama."
   - q: "Ikhona yini eminye imidlalo yengxoxo yabantu abadala abane-dementia?"
     a: "Yebo. “Lokhu noma lokho” ibuza ukuthi yiyiphi kwezinto ezimbili abayikhethayo. “Wawuzokhetha ini” icela umbono. Umdlalo wamakhadi anemibuzo evulekile, njengamakhadi engxoxo ye-Golden Moments, umemela izindaba zempilo yansuku zonke."
 sources:
@@ -60,7 +60,7 @@ I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-change
 2. **Vumela acabange ngento** bese eyishoyo ngokuthula, noma akhombise ikhadi lesithombe ukuze ungadingi ukuyizwa.
 3. **Buza umbuzo oyedwa wokuthi yebo noma cha ngesikhathi.** “Ingabe kuyinto oyidlayo?” “Ingabe ikhulu kunesicathulo?”
 4. **Amukele noma yimuphi umphendulo.** Ukuqhuqha ikhanda, ukuphendula, noma ukuhleka konke kubalwa.
-5. **Nikeza izimbono ngokukhala** bese ziyajabulisa. Uma ulibambile kahle, nithokoze ndawonye.
+5. **Yenza izimbono ngokujabula** bese ziyajabulisa. Uma ulibambile kahle, nithokoze ndawonye.
 6. **Nikeza izimpawu** uma umuntu eshaywa inkathazo: “Kuyinto esekhishini.”
 7. **Ungabali imibuzo** futhi ungagcini ngokubala amaphuzu.
 
@@ -82,7 +82,7 @@ Gwema amagama abantu, nanoma yini engaletha usizi, nezinto ezingaba yingozi noma
 - **Lokhu noma lokho.** Nikeza izinketho ezimbili ubuze ukuthi yiyiphi ayikhethayo: itiye noma ikhofi, izintaba noma ulwandle, ingubo ebomvu noma eluhlaza. Akukho mpendulo eyiyo.
 - **Wawuzokhetha ini.** Buza umbuzo omnene nokhanyayo: “Wawuzokhetha ipikiniki noma ukudla ngaphandle?”
 - **Phetha isisho.** Umusho ojwayelekile unesiphetho esivulekile. Zama [imidlalo yokuphetha izisho](/activities/finish-the-saying/) ukuze uthole isiqondiso.
-- **Taja indawo.** Cela umuntu achaze ikamelo, idolobha noma ukubuka ayikhethayo, bese umemela nawe ukuthi ulibone.
+- **Chaza indawo.** Cela umuntu achaze ikamelo, idolobha noma ukubuka ayikhethayo, bese umemela nawe ukuthi ulibone.
 - **Amakhadi okubuza avulekile.** [Amakhadi engxoxo](/games/conversation-cards/) ethu anikeza imibuzo evulekile ngezihloko, anokuphrintwa etafuleni.
 
 Ukuze uthole imibono eminingi esebenzisa inkumbulo nempilo yomuntu, bheka [imibuzo yokukhumbula](/activities/reminiscence-questions/). Ukuze uthole injabulo yovivinyo ngobumnene, bheka [imibuzo elula yabantu abane-dementia](/activities/trivia/), esebenzisa izinketho futhi ingaboni amaphuzu.
