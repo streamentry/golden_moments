@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Mga Aktibidad sa Labas at Paghahardin para sa Taong may Dementia"
+seoTitle: "Mga Aktibidad sa Paghahardin at Labas para sa Dementia"
+description: "Mga aktibidad sa hardin at labas para sa taong may dementia, may nakataas na kama, lalagyang paso, at paalala sa init, araw at pagala-gala."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Ang paghahardin at oras sa labas ay maaaring maging kalmado at pamilyar na aktibidad
+  para sa taong may dementia. Subukan ang pagdidilig, pagtatanim ng halamang gamot sa
+  paso, pagtanggal ng nalantang bulaklak o maikling lakad sa bakurang may bakod. Gumamit
+  ng nakataas na kama o mesa para walang kailangang lumuhod, iwasan ang matutulis na
+  kagamitan at nakalalasong halaman, lumabas sa mas malamig na bahagi ng araw, at laging
+  samahan ang tao.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Ang simpleng gawain sa hardin tulad ng pagdidilig, pagtatanim ng binhi, pag-amoy ng halamang gamot at pagpitas ng bulaklak ay magagawa nang nakatayo o nakaupo."
+  - "Ang nakataas na kama, mga lalagyang paso at mesang may takip ay nagdadala ng hardin sa antas ng baywang at nagpapababa ng panganib ng pagkahulog."
+  - "Iwasan ang matutulis na kagamitan, halamang may tinik o nakairirita, at anumang nakalalason. Bantayan na hindi mapagkamalang pagkain ang lupa."
+  - "Maaaring mapanganib ang init para sa mga nakatatanda. Lumabas nang maaga o huli sa araw, magdala ng tubig at lilim, at pumasok sa loob sa unang senyales ng hindi ginhawa."
+  - "Maraming taong may dementia ang gumagala sa isang punto. Samahan ang tao sa labas at magkaroon ng kamakailang larawan at ID."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Anong aktibidad sa paghahardin ang kayang gawin ng taong may dementia?"
+    a: "Ang pagdidilig ng halaman, pagtatanim ng binhi sa maliliit na paso, pag-amoy at paghipo ng halamang gamot, pagtanggal ng nalantang bulaklak, pagpitas ng gulay, pag-aayos ng pinutol na bulaklak at pagwawalis ng daan ay magagandang pagpipilian. Sa loob ng bahay, bagay ang paso ng halamang gamot sa bintana o tray ng lupa sa mesang may takip. Piliin ang gawain ayon sa kinagigiliwan niya noon at kaya niyang gawin ngayon."
+  - q: "Paano ko mapananatiling ligtas ang taong may dementia sa init?"
+    a: "Planuhin ang oras sa labas sa mas malamig na umaga o gabi, panatilihing maikli ito, at mag-alok ng tubig nang madalas. Pumili ng lilim, sombrerong malapad ang gilid, magaan at maluwag na damit, at sunscreen. Mas mataas ang panganib ng sakit na dulot ng init sa mga nakatatanda, at ang pagkalito, pagkahilo o pagduduwal ay maaaring maging babala, kaya pumasok agad sa loob at magpalamig kapag nakita mo ang mga ito."
+  - q: "Paano kami lalabas kung madalas gumala ang tao?"
+    a: "Samahan ang tao sa buong oras, gumamit ng bakuran o hardin na may bakod at gate na may kandado, at siguraduhing may suot siyang ID na pulseras o dala niya ang ID. Magkaroon ng kamakailang larawan. Kung mawala ang tao, makipag-ugnayan agad sa lokal na pulis o serbisyo ng emergency; huwag maghintay ng takdang bilang ng minuto. Sabihin sa rumespondeng may dementia ang tao, saan siya huling nakita, at magbigay ng kamakailang larawan."
+  - q: "Paano kung wala kaming hardin?"
+    a: "Sapat na ang ilang paso sa beranda, kahon ng bulaklak sa bintana, o tray ng halamang gamot sa mesa ng kusina. Maaari ka ring bumisita sa parke, pampublikong hardin o hardin ng komunidad. Ang pag-upo sa labas at pakikinig sa mga ibon ay bilang ding aktibidad sa labas."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Para sa maraming tao, ang hardin ang isa sa pinakapamilyar nilang lugar. Ang paghuhukay, pagdidilig at pagpitas ng bulaklak ay gumagamit ng kasanayang natutunan nila noon pa, at ang pagiging nasa labas ay nagdadala ng sariwang hangin, sikat ng araw at huni ng ibon. Binabanggit ng National Institute on Aging ang pag-aalaga ng halaman, pagtatanim ng bulaklak at gulay, at [pag-uusap tungkol sa paglaki ng mga halaman](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bilang mga aktibidad na maaaring magustuhan ng taong may Alzheimer's. Tinatalakay ng pahinang ito kung ano ang susubukan, paano gagawing mas madaling gamitin ang hardin, at paano manatiling ligtas sa init, araw at pagala-gala.
 
-## What outdoor and gardening activities work well?
+## Anong aktibidad sa labas at paghahardin ang mahusay?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Pinakamainam ang mga gawaing simple, pamilyar, at kayang gawin nang nakatayo o nakaupo. Pumili ayon sa kinagigiliwan ng tao noon.
 
-### In the garden
+### Sa hardin
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Pagdidilig.** Maliit at magaang lata ng tubig o banayad na nozzle ng hose, at ilang paso na abot niya. May malinaw na simula at katapusan ang pagdidilig at mahirap itong magawang mali.
+2. **Pagtatanim ng binhi sa paso.** Iminumungkahi ng Alzheimer's Foundation of America ang pagtatanim ng binhi sa maliliit na paso at [panonood sa paglaki nito](https://alzfdn.org/dementia-activity-gardening/). Mas madaling hawakan ang malalaking binhi gaya ng sitaw, mirasol o gisantes.
+3. **Pagtanggal ng nalantang bulaklak.** Ang pagkurot ng mga kupas na bulaklak gamit ang kamay ay banayad at paulit-ulit na gawain. Pumili ng halamang walang tinik.
+4. **Pagpitas ng gulay o halamang gamot.** Madaling pitasin ang cherry tomato, sitaw at halamang gamot, at masarap pang kainin. Dalhin sa loob para gamitin sa tanghalian.
+5. **Pag-amoy at paghipo ng halamang gamot.** Malakas at kaaya-aya ang amoy ng rosemary, mint at lavender. Kuskusin ang dahon sa pagitan ng mga daliri at ipasa ito sa kanya.
+6. **Pagwawalis ng daan o patio.** Magaang walis sa patag at tuyong ibabaw, kung matatag pa ang balanse niya.
+7. **Pagpuno ng feeder ng ibon.** Pagkatapos, umupo nang magkasama at panoorin kung sino ang dumadalaw.
 
-### Indoors, when going out is not possible
+### Sa loob, kapag hindi makalabas
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Hardin ng halamang gamot sa bintana** ng basil, parsley o chives.
+- **Pagtatanim sa mesang may takip.** Iminumungkahi ng AFA ang paggamit ng tray na pang-cafeteria para manatili sa isang lugar ang lupa, at maliliit na tasa sa paglilipat ng lupa.
+- **Pag-aayos ng bulaklak** gamit ang pinutol na bulaklak at dahon mula sa bakuran o grocery.
+- **Pinatuyong bulaklak** mula sa bouquet, na idinidikit mamaya sa card. Tingnan ang [sining at paggawa](/activities/arts-and-crafts/) para sa higit pa.
+- **Paggawa ng sachet ng lavender o rosas**, isa pang ideya ng AFA na nagdadala ng amoy ng hardin sa loob.
 
-### Getting out and about
+### Paglabas at pamamasyal
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Maikling lakad** sa paligid ng bloke, sa parke o sa tindahan ng halaman, sa mabagal na bilis at may lugar na mauupuan.
+- **Pag-upo sa labas** sa beranda o bangko para makinig sa ibon at maramdaman ang simoy ng hangin. Kumpletong aktibidad na ito sa sarili.
+- **Pagbisita sa pampublikong hardin** sa tahimik na oras ng araw. Sinasabi ng NHS na may mga lugar na may pandamdam na hardin, na may mabangong halaman, iba't ibang tekstura at mga anyong tubig.
+- **Pagpapakain sa itik o panonood ng ibon** sa lokal na lawa, habang nananatili sa ligtas na layo mula sa gilid ng tubig.
 
-## How do I make a garden easier to use?
+## Paano ko gagawing mas madaling gamitin ang hardin?
 
-Bring the garden up to the person, not the other way around.
+Dalhin ang hardin sa tao, hindi ang tao sa hardin.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Nakataas na kama o matataas na paso** na halos nasa antas ng baywang, para hindi na kailangang lumuhod o yumuko.
+- **Mga lalagyan sa mesa** na bagay sa taong gumagamit ng wheelchair o mas gustong umupo.
+- **Malapad at patag na daan** na walang maluwag na bato o nakahigang hose, para mas mababa ang panganib ng pagkatisod.
+- **Upuang may bisig at lilim** sa daan, para laging puwedeng magpahinga.
+- **Kagamitang may makapal at malambot na hawakan** na madaling hawakan. Iwasan ang pamutol ng sanga, kutsilyo at anumang matalas.
+- **Bakod na lugar na may gate na may kandado** na malayang masisiyasat ng tao habang nananatili kang malapit.
 
-## Which plants should I avoid?
+## Aling halaman ang dapat iwasan?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Pumili ng halamang ligtas hawakan at, kung maaari, ligtas kung matikman. Iminumungkahi ng AFA ang paggamit ng halamang hindi karaniwang nakairirita sa balat, pagsuri kung may allergy, at pagbabantay nang mabuti sa sinumang maaaring mapagkamalang pagkain ang lupa. Kasama sa payo ng NIA para sa kaligtasan sa bahay ang pag-alis o pag-lock ng mga nakalalasong halaman.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Iwasan ang tinikang rosas, cactus, at halamang may katas na nakairirita sa balat.
+- Suriin ang anumang halamang hindi ka sigurado sa pamamagitan ng poison control center o lokal na tindahan ng halaman bago magtanim.
+- Ang mga paboritong pamilyar na halaman ay maaaring magbalik ng magagandang damdamin. Binabanggit ng AFA ang rosas at Christmas cactus bilang halimbawa. Pumili ng rosas na walang tinik.
+- Ilagay sa lock ang pataba, pestisidyo at pamatay ng damo, at huwag gamitin ang mga ito sa lugar na abot ng tao.
 
-## How do I stay safe in the heat and sun?
+## Paano ako mananatiling ligtas sa init at araw?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planuhin ang oras sa labas ayon sa panahon. Ipinapaliwanag ng NIA na mas mataas ang panganib ng mga nakatatanda sa [sakit na dulot ng init](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), bahagyang dahil hindi gaanong nakaaangkop ang katawan sa pagbabago ng temperatura at may ilang gamot na nakaaapekto kung paano hinahawakan ng katawan ang init.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Lumabas nang maaga o huli.** Iwasan ang tanghaling tapat sa mainit na buwan. Tingnan ang heat index, hindi lang ang temperatura.
+- **Mag-alok ng tubig nang madalas.** Huwag hintaying sabihin ng tao na nauuhaw siya. Iwasan ang alak at inuming may caffeine kapag mainit.
+- **Magbihis nang angkop.** Maputlang kulay, maluwag na damit, sombrerong malapad ang gilid at salamin sa araw.
+- **Gumamit ng sunscreen.** Inirerekomenda ng NIA ang broad-spectrum na SPF 15 o mas mataas, na inuulit sa buong araw.
+- **Pumili ng lilim.** Ilagay ang mesa ng pagtatanim sa ilalim ng puno o payong.
+- **Panatilihing maikli.** Maaaring sapat na ang maikling pamamalagi sa labas, lalo na sa mainit na araw.
+- **Bantayan ang mga babala.** Inililista ng NIA ang sakit ng ulo, pagkalito, pagkahilo o pagduduwal bilang posibleng senyales ng sakit na dulot ng init. Maaaring hindi sabihin ng taong may dementia na hindi siya maayos, kaya bantayan ang mukha at kilos niya. Pumasok sa loob, magpalamig gamit ang tubig at malamig na basahan, at humingi ng tulong medikal kung hindi agad gumaling. Ang tama ng init, na may mga senyales tulad ng pagkahimatay, pagkalito, o tuyo at namumulang balat, ay medikal na emergency: tumawag sa lokal na numero ng emergency.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Mahalaga rin ang lamig. Sa taglamig, panatilihing maikli ang oras sa labas at siguraduhing mainit at tuyo ang mga kamay at paa.
 
-## How do I handle wandering when we go outside?
+## Paano ko hahawakan ang pagala-gala kapag lumalabas kami?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Samahan ang tao sa tuwing nasa labas siya. Sinasabi ng Alzheimer's Association na [anim sa 10 taong may dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ang gagala kahit isang beses, at marami ang gumagawa nito nang higit sa isang beses. Maaari itong mangyari sa anumang yugto.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Kasama sa [mga tip ng NIA sa pagala-gala at pagkawala](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ang:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Tiyaking may suot na ID o medical na pulseras ang tao na may pangalan, address at numero ng iyong telepono, o lagyan ng label ang kanyang damit.
+- Magkaroon ng kamakailang larawan o video ng tao.
+- Ipaalam sa mga kapitbahay na maaaring gumala ang tao.
+- Ikulong ang bakuran gamit ang bakod at gate na may kandado.
+- Huwag iwanang mag-isa ang taong may kasaysayan ng pagala-gala.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Iminumungkahi rin ng Alzheimer's Association ang paglikha ng loob at labas na lugar na ligtas tuklasin, at ang pagpaplano ng aktibidad sa oras ng araw kung kailan pinakamalamang ang pagkabalisa. Maaaring bagay sa pagkabalisa sa hapon ang lakad sa ligtas at nakapaloob na hardin. Tingnan ang aming gabay tungkol sa [pagkabalisa sa hapon](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Kung mawala ang tao, tingnan ang mga ligtas na lugar sa paligid habang nakikipag-ugnayan agad sa lokal na pulis o serbisyo ng emergency. Huwag maghintay ng takdang bilang ng minuto bago mag-ulat. Isang artikulo ng 2021 mula sa [U.S. Department of Justice tungkol sa imbestigasyon sa nawawalang tao](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) ang nagsasabing hindi dapat maghintay ng takdang panahon ang mga ahensya ng batas at tinutukoy ang mga sintomas na tulad ng dementia bilang mataas ang panganib. Nag-iiba ang lokal na proseso ng pag-uulat. Ibahagi kung kailan at saan huling nakita ang tao, ano ang suot niya, at isang kamakailang larawan. Sundin ang direksyon ng rumespondeng lokal; huwag maghanap sa mapanganib na lugar nang mag-isa.
 
-## How do I adapt gardening as things change?
+## Paano ko iaangkop ang paghahardin habang nagbabago ang mga bagay?
 
-| If this has become hard | Try this instead |
+| Kung naging mahirap ito | Subukan ito sa halip |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Pagtatanim sa buong kama | Pagtatanim ng isang binhi sa isang paso |
+| Pag-aalis ng damo (pagtukoy kung alin ang damo at halaman) | Pagdidilig, o pagtanggal ng malinaw na nalantang bulaklak |
+| Paglakad sa paligid ng hardin | Pag-upo sa mesa na may tray ng lupa at isang halaman |
+| Paglabas nang kahit kailan | Paso ng halamang gamot sa mesa ng kusina, o upuan sa tabi ng bukas na bintana |
+| Anumang gawain | Pag-upo sa labas nang magkasama, pakikinig at pagtingin |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Mas gusto ng ilang tao na panoorin ka na lang habang nagtatrabaho. Sinasabi ng NIA na ayos lang na hayaan ang tao na manood lamang kung iyon ang kinagigiliwan niya.
 
-## When should we head inside?
+## Kailan kami dapat pumasok sa loob?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Pumasok kapag mukhang pagod, mainit, nilalamig, balisa o handa nang matapos ang tao. Mas mabuti ang maikling, kaaya-ayang sampung minuto kaysa sa mahabang hapon na nauuwi sa pagkabagabag. Ang maagang pagtigil ay magandang resulta.
 
-## Bring the garden indoors on screen
+## Dalhin ang hardin sa loob sa screen
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Sa maulang araw, may hardin na basket ang [Pag-uri-uriin nang magkasama](/games/sort-together/) para sa pag-uuri ng larawan, at ang [Mga kard para sa usapan](/games/conversation-cards/) ay may bukas na paanyaya na maaaring humantong sa kuwento tungkol sa hardin. Kung pumasok ka mula sa init na nagmamadali pa ang pakiramdam, ang [Mahinahong paghinga](/games/calm-breathing/) ay nag-aalok ng mabagal at tahimik na pahinga na maaari ninyong pagsaluhan. Para sa higit pang ideyang nakabatay sa paghipo, amoy at tunog, tingnan ang aming [gabay sa mga aktibidad na pandama](/activities/sensory/).
