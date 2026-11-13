@@ -339,7 +339,7 @@ How to read DAU/WAU/MAU, D1/D7/D28 retention and the limits of each figure:
 | Tapping a reminder opens the day's activity | Implemented (iOS delegate + channel); Home tests simulate the tap; not yet tried on a device |
 | Reminder, Today's activity and menu strings in all 66 app languages | Machine translated, unreviewed (as with every other language) |
 
-## App languages 20 → 76 plus 10 more (2026-11-13, machine-made and unreviewed)
+## App languages 66 → 76 (2026-11-13, machine-made and unreviewed)
 
 Added Afrikaans, Bulgarian, Estonian, Lithuanian, Latvian, Belarusian, Bosnian, Welsh, Esperanto and Basque. Each has the app ARB (455 messages), picture-pack overlay, iOS `InfoPlist.strings` and project/Info.plist registration, Android locale config, store listing text (`metadata/i18n/<code>.json`) and a `release-status.json` entry (`unreviewed`). The ten are listed in the site's low-confidence illustration set, so picture-name labels stay English. Each agent reported doubts (name shortened to the 30-character limit, tile and plural wording, self-chosen UI-label terms in release notes); native review is required before any claim of quality.
 
