@@ -1,7 +1,7 @@
 ---
 title: "Activitats per la demència tardiva, al lièch o a la cadièra"
 seoTitle: "Activitats en etapa tardiva : idèias al lièch o a la cadièra"
-description: "Activitats doças per l'etapa tardiva de la demència, tanben al lièch o a la cadièra : musica, tocar, lectura en votz naut, sons e èsser ensemble, amb consèls de seguretat."
+description: "Activitats doças per l'etapa tardiva de la demència, tanben al lièch o a la cadièra : musica, tocar, lectura, sons e èsser ensemble, amb consèls de seguretat."
 section: activities
 order: 4
 updated: 2026-10-25
@@ -11,7 +11,7 @@ summary: >-
   la vòstra companhia : escotar la musica preferida, se tenir per la man, far un
   massatge doç de las mans, legir a votz naut, agachar de fòtos, escotar de sons
   de natura e s'asseire près d'una fenèstra o defòra. Aquestas idèias van al
-  lièch o a la cadièra. Gardatz de sesilhas cortas, agachatz los visatges e las
+  lièch o a la cadièra. Gardatz las sesilhas cortas, agachatz los visatges e las
   mans per lo confòrt, e recordatz-vos que èsser present es ja l'activitat.
 keyPoints:
   - "La connexion es encara possibla. A l'etapa tardiva, lo mond se viu sobretot pels sens."
@@ -72,8 +72,8 @@ L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-
 11. **Pinhar los cabèls o oferir un tovalhon caud.** Un pinhat lent e doç, e un tovalhon caud per las mans e lo visatge pòdon semblar caluroses.
 12. **Se desplaçar doçament amb la musica.** Agitar una pichona escarpa ensemble, o balancejar las mans en cadença amb una cançon. Per los estiraments e los movements de las juntas, demandatz a un kinesitèrapeuta o a una infermièra de vos mostrar de biais sècs abans.
 13. **Far d'art liure.** Espandir de pintura non tòxica sus de papièr gròs amb una esponja o una man, guidat per la vòstra. I a pas de bon resultat.
-14. **Acuélher de visitas d'animals.** Un animal calme sul lièch o sus la gauta, se la persona aimava los animals e l'environament o permet.
-15. **Respirar lentament ensemble.** Seiatz près e respiratz lentament e a votz nauta. La [respiracion calma](/games/calm-breathing/) pòt vos alinhar tots dos, e vos l'arrestatz e l'aviatz quand vulhatz.
+14. **Acuélher de visitas d'animals.** Un animal calme sul lièch o sus la gauta, se la persona aimava los animals e se l'environament o permet.
+15. **Respirar lentament ensemble.** Seiatz près e respiratz lentament e a votz nauta. La [respiracion calma](/games/calm-breathing/) pòt vos alinhar tots dos, e la podètz arrestar quand vulhatz.
 16. **Simplament èsser aquí.** Seiatz près, fredonatz, tricotatz o legissètz doçament. Èsser present basta.
 
 ## Cossí partejar una activitat a aquesta etapa
@@ -81,10 +81,10 @@ L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-
 - **Abordatz de davant.** Dire lo nom de la persona e lo vòstre, e parlatz lentament e doçament abans de tocar.
 - **Proposar una causa a la fes.** Arrestatz la television abans de jogar la musica. Un sens a la fes.
 - **Gardatz-la corta.** Qualques minutas pòdon bastar. Plusors moments corts al long del jorn valon mai qu'una sesilha longa.
-- **Mesuratz vòstre confòrt primièr.** Verificatz que la persona es ben sostenguda. Lo NIA suggerís una taula de lèit per sostenir los braces e la part de dessús del còs quand es asseguda.
+- **Installatz-vos a l'aise primièr.** Verificatz que la persona es ben sostenguda. Lo NIA suggerís una taula de lèit per sostenir los braces e la part de dessús del còs quand es asseguda.
 - **Observatz la responsa.** Mans detenduas, visatge mai doç, contacte d'uèlhs o fredon marcan lo confòrt. Lo NIA nòta que las gemiças, las grimaças, la proteccion d'una partida del còs o una agitacion subita pòdon èsser de signes de dolor. Arrestatz e dihètz-ho a l'equipa de cura.
 
-## Un guida rapida per sens
+## Una guida rapida per sens
 
 | Sens | Idèias | Atencion |
 | --- | --- | --- |
