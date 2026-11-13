@@ -21,7 +21,7 @@ keyPoints:
   - "Iiprojekthi azinyanzelekanga ukuba zigqitywe ngokuhlala kanye, kwaye ukuyeka kwangethuba kuhlala kulungile."
 faq:
   - q: "Ndiyigcina njani imisebenzi yezandla ingavakali njengeyabantwana?"
-    a: "Sebenzisa izixhobo zobugcisa zokwenyani, izihloko zabantu abadala nethoni enentlonipho. Tshintshanisa iglitha namaphepha eekhathuni ngephepha lepeyinti yamanzi, intsimbi yengubo, iintyatyambo, iifoto zemagazini namaphepha okukhulisa anobuninzi beenkcukacha. Musa ukuncoma umsebenzi ngendlela ongayincoma ngayo ukuzoba komntwana; thetha ngawo njengoko ubunokuthetha nomhlobo ongumntu omdala."
+    a: "Sebenzisa izixhobo zobugcisa zokwenyani, izihloko zabantu abadala nethoni enentlonipho. Tshintshanisa iglitha namaphepha eekhathuni ngephepha lepeyinti yamanzi, indwangu yengubo, iintyatyambo, iifoto zemagazini namaphepha okukhulisa anobuninzi beenkcukacha. Musa ukuncoma umsebenzi ngendlela ongayincoma ngayo ukuzoba komntwana; thetha ngawo njengoko ubunokuthetha nomhlobo ongumntu omdala."
   - q: "Yeyiphi imisebenzi yobugcisa esebenzayo kwi-dementia yenqanaba lokugqibela?"
     a: "Iiprojekthi ezilula, ezibandakanya izivamvo zisebenza kakuhle kamva: ukupeyinta ngemigca emikhulu ngebrashi enkulu, ukuxovula ubumba obuthambileyo, ukucwangcisa iintyatyambo ezimbalwa kwivasi, okanye ukohlela iziqwenga zentsimbi ngokuziva. Usenokufuna ukuqala intshukumo kunye. Ukukubukela upeyinta nokuthetha ngemibala nako yindlela yokuthatha inxaxheba."
   - q: "Kuthekani ukuba uthi akakwazi ukuzoba?"
@@ -57,13 +57,13 @@ Umsebenzi wobugcisa wabantu abadala usebenzisa izinto zokwenyani, izihloko zaban
 
 | Ivakala njengeyabantwana | Ivakala njengeyabantu abadala |
 | --- | --- |
-| Iglitha, izitikha zefowuni, amehlo angqukuva | Iphepha lepeyinti yamanzi, intsimbi yengubo, iintyatyambo ezicudisiweyo |
+| Iglitha, izitikha zefowuni, amehlo angqukuva | Iphepha lepeyinti yamanzi, indwangu yengubo, iintyatyambo ezicudisiweyo |
 | Amaphepha okukhulisa eekhathuni | Amaphepha okukhulisa eengadi, amaqhekeza engubo, iimoto okanye imihlaba |
 | Ukuncoma “Umsebenzi omhle” kuphawu ngalunye | Incoko yokwenyani: “Obo bumnyama obuluhlaza buhle ecaleni kobuhlaza” |
 | Umsebenzi ongenamsebenzi | Ikhadi lomhlobo, into emiswa embindini wetafile, isipho |
 | Imiyalelo efundwa njengesifundo | Isimemo: “Ungandinceda ngale nto?” |
 
-Cinga ngencasa yomntu ngokwakhe. Umntu owayethanda ukuthungela angakonwabela ukubamba intsimbi. Injineli ethathe umhlala-phantsi isenokukhetha iseti yemodeli enamacandelo amakhulu okanye ukohlela izixhobo kwiprojekthi. Utitshala wangaphambili usenokonwabela ukwenza amakhadi.
+Cinga ngencasa yomntu ngokwakhe. Umntu owayethanda ukuthungela angakonwabela ukubamba indwangu. Injineli ethathe umhlala-phantsi isenokukhetha iseti yemodeli enamacandelo amakhulu okanye ukohlela izixhobo kwiprojekthi. Utitshala wangaphambili usenokonwabela ukwenza amakhadi.
 
 ## Kutheni kufuneka sigxile kwinkqubo hayi kwimveliso?
 
@@ -103,7 +103,7 @@ Umbono ngamnye uquka indlela yokuwenza ube lula ukuba uba nzima.
 | --- | --- | --- |
 | Lokuqala | Iiklasi, ukukhulisa ngeenkcukacha, iincwadi zokugcina, ukwenza amakhadi, ukupeyinta kwifoto | Nika ukhetho lweeprojekthi; yigcine ineentlalo |
 | Eliphakathi | Ikholaji esikiweyo kwangaphambili, ukuhlamba ngepeyinti yamanzi, ukucwangcisa iintyatyambo, ukukhulisa iindawo ezinkulu | Inyathelo linye ngexesha; wena wenza ukusika nokunamathelisa |
-| Lokugqibela | Imigca emikhulu yebrashi, ukuxovula ubumba, ukuchukumisa intsimbi, ukukubukela upeyinta | Gxila kwizivamvo; hola isandla ngobunono ukuba kuyamkelekile |
+| Lokugqibela | Imigca emikhulu yebrashi, ukuxovula ubumba, ukuchukumisa indwangu, ukukubukela upeyinta | Gxila kwizivamvo; hola isandla ngobunono ukuba kuyamkelekile |
 
 I-NHS icebisa ukuba kumanqanaba amva, imisebenzi idla ngokwenziwa lula kwaye igxile kwizivamvo. Ukubukela omnye upeyinta, nokuthetha ngemibala, yindlela yokwenyani yokuthatha inxaxheba. Ukufumana izimvo ezingakumbi ngenqanaba ngalinye, jonga i-[activities for every stage](/activities/ideas/).
 
