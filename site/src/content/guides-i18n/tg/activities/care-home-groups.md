@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Фаъолияти гуруҳӣ барои деменсия: роҳнамо барои хонаҳои нигоҳубин ва барномаҳои рӯзона"
+seoTitle: "Фаъолияти гуруҳӣ барои деменсия: бинго, суруд, ҳикоя"
+description: "Фаъолияти гуруҳӣ барои нигоҳубини хотира, хонаҳои нигоҳубин ва барномаҳои рӯзонаи калонсолон: бинго бо тасвирҳо, сурудхонӣ, ёдоварӣ ва маслиҳат дар бораи нишастан."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Фаъолияти хуби гуруҳӣ дар нигоҳубини хотира ва барномаҳои рӯзонаи калонсолон кӯтоҳ,
+  шинос ва барои ҳамроҳ шудан дар ҳар сатҳ осон аст: бинго бо тасвирҳо, сурудхонӣ,
+  ҳалқаҳои ёдоварӣ, ҳаракати содда ва бозиҳои калимаи якҷоя. Гуруҳҳоро, агар
+  имконпазир бошад, хурд нигоҳ доред, одамонро тавре нишинонед, ки ҳама бинанд ва
+  шунаванд, як қадами равшан дар як вақт диҳед ва барои ҳар касе, ки лозим аст,
+  нақши осонтар ва баромадани ором нақша гиред.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Гурӯҳҳои хурд аксар вақт беҳтар аз як чорабинии калон кор мекунанд ва ба ҳар шахс имкон медиҳанд, ки фаъолона иштирок кунад, на танҳо тамошо."
+  - "Одамонро дар доира ё шакли наъл, наздик ба роҳбар нишинонед, бо назардошти ниёзҳои шунавоӣ ва бинои онҳо, ва садои атрофро хомӯш кунед."
+  - "Ҳар фаъолиятро дар ду-се сатҳ нақша гиред, то одамони бо имконоти гуногун ҳама ҳамроҳ шаванд."
+  - "Аз саволномаҳо, ҳисоб ва ғолибон худдорӣ кунед. Бинго бо тасвирҳоро тавре бозӣ кардан мумкин аст, ки ҳама варақи пурра дошта бошанд."
+  - "Баромадан пеш аз вақт, тамошо кардан ё хоб рафтан хуб аст. Як корманд омода бошад, ки ба касе, ки ҷои оромтар мехоҳад, кумак кунад."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Барои фаъолияти деменсия андозаи хуби гурӯҳ чанд нафар аст?"
+    a: "Рақами ягонаи дуруст нест ва аз сокинон, толор ва шумораи кормандони шумо вобаста аст. Бисёр гурӯҳҳо мешуморанд, ки гурӯҳҳои хурд имкон медиҳанд ҳама бинанд, шунаванд ва иштирок кунанд, дар ҳоле ки чорабиниҳои дар толорҳои калон кам аз тамошобинон бештар мегардад. Агар чорабинии калон доред, кормандон ё волонтёреро илова кунед, ки дар байни сокинон нишинанд ва ба ҳар як ё ду нафар кумак кунанд."
+  - q: "Чӣ тавр гурӯҳро бо имконоти гуногун идора кунам?"
+    a: "Барои ҳар фаъолият зиёда аз як роҳи иштирокро нақша гиред. Дар суруднахонӣ баъзеҳо ҳар калимаро мехонанд, баъзеҳо мезананд ё ҳамнаво мешаванд, ва баъзеҳо дастпаракро дар даст доранд. Дар бинго баъзеҳо расмҳои худро меёбанд, дар ҳоле ки ёвар барои дигарон ишора мекунад. Одамоне, ки бештар кумак лозим доранд, назди корманд ё волонтёр нишинонед."
+  - q: "Чӣ тавр бинго бо тасвирҳоро бе рақобат бозам?"
+    a: "Ҳар тасвирро баромад кунед, то варақи ҳамаи шумо пур шавад, пас ҳеҷ кас берун namemonad. Дар бораи ҳар тасвир ҳангоми баромад шудан сӯҳбат кунед ва ҷоизаҳо барои ғолибон надиҳед, ё ба ҳамаи шумо як тӯҳфаи хурди баробар диҳед. Ҳадаф диққати якҷоя ва сӯҳбат аст, на он ки кӣ зудтар тамом мекунад."
+  - q: "Оё ман метавонам бозиҳои шуморо дар экрани калон дар гурӯҳ истифода барам?"
+    a: "Бале. Бозиҳои мо дар браузери веб кор мекунанд, пас шумо онҳоро дар лаптоп ё планшете, ки ба телевизор ё проектор пайваст аст, кушода метавонед. Бинго бо тасвирҳо варақаҳои чопшаванда ва баромадкунандаи экрании худро дорад. Мақолро анҷом диҳед ва Ҷуфти расмҳо низ дар экрани калон бо як нафар, ки барои гурӯҳ пахш мекунад, хуб кор мекунанд."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ин роҳнамо барои роҳбарони фаъолият, гурӯҳҳои нигоҳубини хотира ва роҳбарони барномаҳои рӯзонаи калонсолон навишта шудааст. Он шаклҳои гуруҳиро, ки кор мекунанд, ороиши толор, мутобиқ кардани як фаъолият барои имконоти гуногун ва истифодаи варақаҳои бинго ва бозиҳои экрании калони мо дар бар мегирад. Ҳама чиз дар ин ҷо ба осоиштагӣ, робита ва интихоб равона шудааст. Ҳеҷ чиз дар ин ҷо санҷиш нест.
 
-## What makes a group activity work in memory care?
+## Чӣ фаъолияти гуруҳиро дар нигоҳубини хотира самарanok мекунад?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Фаъолияти хуби гуруҳӣ шинос, кӯтоҳ, барои ҳамроҳ шудан дар ҳар сатҳ осон ва бе фишор аст. [Тавсияҳои амалии нигоҳубини деменсия](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf)-и Ассотсиатсияи Алсгеймер иштироки маъно доштаро ҳамчун чизе тавсиф мекунанд, ки манфиатҳо ва афзалиятҳои шахсро дастгирӣ мекунад ва интихоб ва муваффақият имкон медиҳад, ҳатто вақте ки деменсия шадидтарин аст. Ҳамон ҳуҷҷат қайд мекунад, ки барномаҳои анъанавӣ аксар вақт ба як ё ду чорабинии калони гуруҳӣ дар як рӯз такя мекунанд, ки дар онҳо сокинон аксар вақт танҳо тамошобин ҳастанд.
 
-That points to a few practical rules:
+Ин ба чанд қоидаи амалӣ роҳнамоӣ мекунад:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Шинос беҳтар аз нав аст.** Сурудҳо, мақолҳо, тасвирҳо ва ашёи синни ҷавонии сокинон ба ҳамроҳ шудан осонтаранд.
+- **Кӯтоҳ беҳтар аз дароз аст.** Вақтро ба андозаи диққати маъмулии гурӯҳи худ нақша гиред, бо як нуқтаи табиии қатъ дар миёна.
+- **Кор кардан беҳтар аз тамошо кардан аст.** Ба ҳар кас чизе диҳед, ки нигоҳ дорад, пахш кунад, интихоб кунад ё бигӯяд.
+- **Якчанд сатҳ, як фаъолият.** Роҳҳои осонтар ва душвортар барои иштирок созед.
+- **Ғолиб ва хол нест.** Формати рақобатӣ баъзеҳоро ҳис мекунонад, ки шикаст хӯрдаанд.
 
-## How big should the group be?
+## Гурӯҳ бояд чӣ қадар бошад?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Хурдтар одатан осонтар аст. Ассотсиатсияи Алсгеймер қайд мекунад, ки шахсе, ки гирд омадани калонро ғолиб меёбад, дар гурӯҳи хурд самараноктар муошират мекунад. Рақами ягонаи дуруст нест. Он аз сокинон, толор ва шумораи кормандон ва волонтёрон вобаста аст.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Санҷиши муфид: оё ҳар кас рӯи роҳбарро дида метавонад, равшан мешунавад ва дар тӯли якчанд сония ёвар ба ӯ расида метавонад? Агар не, гурӯҳро тақсим кунед, ёварон илова кунед ё ба толори хурдтар гузаред.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Барои чорабинии калон, мисли консерти идҳо, кормандон ва волонтёронро байни сокинон нишинонед, на дар канори девор.
 
-## How should I set up the room and seating?
+## Чӣ тавр толор ва нишастро омода кунам?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Доира ё шакли наъл.** Тавсияҳои амалӣ доираи ҳамкориро беҳтарин медонанд, дар ҷое, ки барои ҳама дар доира нишастан ҷой бошад, бе садои фон.
+- **Роҳбар наздик ва дар сатҳи чашм.** Агар метавонед, нишинед, на истед.
+- **Аввал шунавоӣ ва бинои.** Одамони касалии шунавоиро наздиктарин ба роҳбар, дар тарафи беҳтари онҳо нишинонед. Мутмаин шавед, ки айнак ва сеҳмонаҳои шунавоӣ дар ҷояшон ҳастанд. Ассотсиатсияи Алсгеймер қайд мекунад, ки мушкилоти бинои ва шунавоӣ муоширатро душвортар мекунад.
+- **Рӯшноӣ аз пушти сокинон, на аз пушти шумо.** Аз нишондани касе ба тиреза рӯ ба рӯ худдорӣ кунед.
+- **Телевизор ва радиоро хомӯш кунед.** Ассотсиатсияи Алсгеймер маслиҳат медиҳад, ки садои рақобатгарро ҳангоми фаъолиятҳои мусиқӣ бардоред.
+- **Як сӯҳбат дар як вақт.** Сӯҳбати якбора барои одамони бо деменсия ва касоне, ки шунавоиашон кам аст, душвор аст, тавре ки Ассотсиатсияи Алсгеймер дар [роҳнамои идҳо](https://www.alz.org/help-support/caregiving/holidays)-и худ қайд мекунад.
+- **Баромадани равшан ва гӯшаи ором.** Ҳар кас, ки мехоҳад ба ҷои дигар равад, бояд осон барояд, бо корманде, ки ҳамроҳаш равад.
 
-## Group activity ideas
+## Ғояҳои фаъолияти гуруҳӣ
 
-### Picture bingo
+### Бинго бо тасвирҳо
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Бинго бо тасвирҳо рақамҳоро бо тасвирҳои равшан иваз мекунад, масалан чойник, саг ё гул, пас ҳеҷ кас маҷбур нест рақами дароз ё матни майдаро пайгирӣ кунад.
 
-**How to run it:**
+**Тарзи иҷро:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Аз саҳифаи [Бинго бо тасвирҳо](/games/picture-bingo/) барои ҳар кас як варақаро бо тугмаи чопкунӣ чоп кунед. Коғази ғафс барои кор осонтар аст. Барои истифодаи такрорӣ пӯшонед.
+2. Нишонаҳои калон ва осон барои гирифтан, масалан тугмачаҳои бозӣ, сарпӯши шишаҳо ё порчаҳои кесидаи картон, пешниҳод кунед.
+3. Баромадкунандаи экрании телевизор ё проекторро истифода баред, то ҳама тасвирро бубинанд, вақте ки шумо номашро мегӯед.
+4. Пас аз ҳар тасвир таваққуф кунед ва шарҳи кӯтоҳро даъват кунед: «Оё касе мехоҳад дар бораи саге, ки медонист, нақл кунад?» ё «Шумо дар ин тасвир чиро мебинед?»
+5. Баромад кардани тасвирҳоро давом диҳед, то ҳар варақа пур шавад. Ҳама ба охир мерасанд.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Мутобиқ кардан:** барои касоне, ки варақаи пурра барояшон серкор аст, хонаҳои камтар истифода баред. Ёвар метавонад барои касе, ки ба он ниёз дорад, ба тасвири мувофиқ ишора кунад. Баъзеҳо метавонанд варақаи тасвири баромадкунандаро нигоҳ доранд ва онро ба гурӯҳ нишон диҳанд.
 
-### Sing-alongs
+### Сурудхонӣ
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Мусиқӣ яке аз фаъолиятҳои гуруҳии васеъ дӯстдоштаест. Ассотсиатсияи Алсгеймер қайд мекунад, ки ҳатто дар марҳилаҳои охир шахс метавонад [ритмро бо даст ва ё сурудро аз кӯдакӣ](https://www.alz.org/help-support/caregiving/daily-care/art-music) хонад.
 
-**How to run it:**
+**Тарзи иҷро:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Сурудҳоеро интихоб кунед, ки сокинон дар онҳо калон шудаанд, на сурудҳои дӯстдоштаи роҳбар. Аз оилаҳо пурсед, ки ҳар кас чиро дӯст медошт.
+- Мусиқиро бе реклама истифода баред, ки Ассотсиатсия қайд мекунад, метавонад чалғикунанда бошад.
+- Матни сурудро бо ҳарфҳои калон чоп кунед барои онҳое, ки хонда метавонанд, аммо талаб накунед.
+- Дастпарак, барабони дастӣ ё шарфҳо барои мавҷдиҳӣ пешниҳод кунед.
+- Дастзанӣ ва ҳаракатро ташвиқ кунед ва баландии садоро мувофиқ нигоҳ доред.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Мутобиқ кардан:** баъзеҳо ҳар калимаро мехонанд, баъзеҳо ҳамнаво мешаванд, баъзеҳо пойро мезананд ва баъзеҳо танҳо гӯш медиҳанд. Ҳамаи инҳо ба ҳисоб мераванд. Барои маълумоти бештар [роҳнамои фаъолиятҳои мусиқӣ](/activities/music/)-ро бинед.
 
-### Reminiscence groups
+### Гуруҳҳои ёдоварӣ
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Гурӯҳи ёдоварӣ дар атрофи мавзӯъ, масалан солҳои мактаб, мошини аввал, ошхонаҳо ё тобистон ҷамъ мешавад ва аз аксҳо, ашё ва мусиқӣ истифода мебарад. Ҳадаф сӯҳбати хуш аст, на ба хотир овардани дақиқ.
 
-**How to run it:**
+**Тарзи иҷро:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Як мавзӯъро интихоб кунед ва чанд ашёеро биёред, ки одамон метавонанд дар даст доранд: миксери дастӣ, дастпӯшаки бейсбол, кулоҳ, каталоги тухм.
+2. Ҳар вақт як ашёро мегузаронед. Саволҳои кушод диҳед: «Дар бораи ин нақл кунед», «Чӣ мебинед?», «Кӣ чизи монанди инро истифода мебурд?»
+3. Ҳар ҷавобро хуш пазиред. Ҳеҷ гоҳ санаю далелро тафтиш накунед.
+4. Сӯҳбатро ба хотираҳои гарм роҳнамоӣ кунед. Тавсияҳои амалӣ қайд мекунанд, ки нигоҳдорон бояд ёдоварӣро ба хотираҳои мусбат роҳнамоӣ кунанд, на ба онҳое, ки шояд ташвиш оваранд.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Варақаҳои рангкорӣ](/games/conversation-cards/)-и мо ҳамчун кортҳои расмӣ бо саволҳои кушоди мавзӯъ дастрасанд, ки барои оғози мубоҳиса хуб кор мекунанд. Барои ғояҳои бештар [роҳнамои ёдоварии мо](/activities/reminiscence/)-ро бинед.
 
-### Finish the saying
+### Мақолро анҷом диҳед
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Мақолҳои шинос («Пули наҷоткардашуда пули…») ҳамаро даъват мекунанд, ки охири онро якҷоя фарьёд кунанд. [Мақолро анҷом диҳед](/games/finish-the-saying/)-ро дар экрани калон нишон диҳед ва бигзоред, ки гурӯҳ ҳамчун як овоз ҷавоб диҳад. Пас аз ҳар мақол савол барои сӯҳбат ҳаст. Агар касе охирро нагӯяд, онро нишон диҳед ва гузаред. Дуруст ё нодуруст вуҷуд надорад.
 
-### Large-print word search, together
+### Ҷустуҷӯи калима бо ҳарфҳои калон, якҷоя
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Ҷадвали [Ҷадвали калимаҳо бо ҳарфҳои калон](/games/word-search/)-ро дар экран нишон диҳед ва калимаҳоро ҳамчун гурӯҳ ҷуста кунед, ё нусхаҳои чопшударо барои онҳое, ки дӯст медоранд дар миз танҳо кор кунанд, диҳед. Калимаҳо танҳо уфуқан ва амудан ҷойгиранд.
 
-### Gentle movement
+### Ҳаракатҳои мулоим
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Кашишҳои нишаста, гузаронидани тӯби мулоим ё баллон, ё рақс бар курсӣ ба мусиқии шинос. Ҳар ҳаракатро нишон диҳед, на танҳо тавсиф кунед.
 
-### Sorting and matching at the table
+### Ҷойгир кардан ва мувофиқ кардан дар миз
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Мизҳои хурди се-чор нафар метавонанд аксҳо, намунаҳои матоъ ё қошуқу кордро якҷоя ҷудо кунанд. Дар экран, [Ҷуфти расмҳо](/games/picture-pairs/) бо расмҳои дидашаванда бозӣ карда мешавад, ки як нафар пахш мекунад, дар ҳоле ки миз дар бораи ҳар тасвир сӯҳбат мекунад.
 
-## How do I use your games on a big screen?
+## Чӣ тавр бозиҳои шуморо дар экрани калон истифода барам?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Бозиҳои мо дар браузери веб кор мекунанд, пас шумо онҳоро дар телевизор ё проектор бе насб кардани чизе истифода бурда метавонед.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Бозиро дар лаптоп ё планшете кушоед, ки бо кабел ё пахш ба экран пайваст аст.
+2. Браузерро пурра экран кунед ва садоро ба сатҳи ором танзим кунед.
+3. Як роҳбар пахш кунад, дар ҳоле ки гурӯҳ интихобҳоро фарьёд мекунад. Ё планшетро ба сокине диҳед, ки навбат мехоҳад.
+4. Ҳар вақте ки гурӯҳ омода аст, таваққуф кунед. Бозиҳо вақтсанҷ, хол ё анҷоми маҷбуриро надоранд.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Бинго бо тасвирҳо](/games/picture-bingo/), [Мақолро анҷом диҳед](/games/finish-the-saying/), [Ҷуфти расмҳо](/games/picture-pairs/) ва [Кортҳои суҳбат](/games/conversation-cards/) барои гурӯҳҳо беҳтар мувофиқанд. Ҳамаи имконотро дар [саҳифаи бозиҳои мо](/games/) бинед.
 
-## How do I adapt one activity for mixed abilities?
+## Чӣ тавр як фаъолиятро барои имконоти гуногун мутобиқ кунам?
 
-Plan at least three ways to join every activity.
+Барои ҳар фаъолият ҳадди аққал се роҳи ҳамроҳшавӣ нақша гиред.
 
-| Activity | More independent | Some support | Most support |
+| Фаъолият | Мустақилтар | Бо кумаки ками | Бо кумаки зиёд |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Бинго бо тасвирҳо | Худаш расмҳоро меёбад ва мепӯшонад | Ёвар ишора мекунад; шахс мепӯшонад | Варақаи расмро нигоҳ медорад; гӯш мекунад ва тамошо мекунад |
+| Сурудхонӣ | Сурудхонӣ мекунад, сурудҳои навбатиро интихоб мекунад | Ҳамнаво мешавад, дастзанӣ мекунад, дастпарак истифода мебарад | Гӯш мекунад, шарфро нигоҳ медорад, бар даст мезанад |
+| Ёдоварӣ | Нақл мекунад | Бо ҳа ё не ҷавоб медиҳад ё ишора мекунад | Ашёро нигоҳ медорад ва ҳис мекунад |
+| Ҷустуҷӯи калима | Варақаи чопшудаи худро кор мекунад | Калимаҳоро дар экрани калон бо кумаки ёвар меёбад | Гӯш мекунад, вақте ки калимаҳо хонда мешаванд |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Барои сокинон дар марҳилаҳои охир, Хадамоти миллии тандурустии Бритониё мегӯяд, ки фаъолиятҳо одатан бояд содатар бошанд ва ба ҳисс, мисли мусиқӣ, ашёе барои ламс ва молиши даст тамаркуз кунанд. Лаҳзаи якбаяк дар ҳин ё пас аз гурӯҳ шояд ба онҳо беҳтар мувофиқ бошад. Ба [фаъолиятҳои марҳилаи охир](/activities/late-stage/) нигаред.
 
-## How should leaders talk during a group?
+## Роҳбарон дар гурӯҳ чӣ гуна гап зананд?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Ҳар бор худро муаррифӣ кунед ва номи дӯстдоштаи ҳар касро истифода баред.
+- Оҳиста гап занед, як қадам дар як вақт диҳед ва пеш аз гуфтан нишон диҳед.
+- Даъватҳои кушод («Дар бораи ... нақл кунед») ё интихобҳои содда диҳед, на саволҳои имтиҳонӣ («Оё ба ёд доред...?»).
+- Ислоҳ накунед. Барои ҳар саҳми ҳар кас ташаккур гӯед.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Дар ин бора бештар дар [маслиҳатҳои муошират](/caregiving/communication-tips/) ҳаст.
 
-## Ending well, and letting people leave
+## Хуб хотима додан ва иҷозат додан ба баромадан
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Қатъ кардан натиҷаи хуб аст. Нишонаҳоеро пай баред, ки касе хаста, бесаброна ё ранҷида аст, ва ёвар ба ӯ сайр ё ҷои оромро дар ҷои дигар пешниҳод кунад. Касе, ки ҳангоми сурудхонӣ хоб меравад, шояд танҳо роҳат аст.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Ҳар гурӯҳро якхела ба охир расонед, бо суруди шинос ё ташаккури содда, то хотима ором ва пешбинишаванда ҳис шавад. Баъд аз он, нависед, ки чӣ кор кард ва кӣ аз чӣ лаззат бурд. Ин ёддоштҳо сессияи навбатиро беҳтар мекунанд.

@@ -71,7 +71,7 @@ Dumandate l'ore, i ghjorni, e tariffe, a presenza minima, e regule di annullamen
 
 Infurmatevi s'è u trasportu hè dispunibile, quantu custa è s'ella cunvene à a persona. Dumandate l'ore di ritirata, l'aiutu per sali è scende da a vittura, è ciò chì succede s'è l'autista tarda. S'è un membru di famiglia darà i passaghji, includete quellu tempu è quellu costu in u vostru pianu.
 
-Dumandate s'è u centru pò dà l'aiutu chì a persona hà bisognu s'è a so salute o e so capacità di ogni ghjornu cambiano. S'ellu centru ùn pò risponde à quelli bisogni, dumandate quale riferimentu o quale alternativa suggerisce. A [guida per l'assistenza in casa](/caregiving/choosing-in-home-dementia-care/) copre un altru tipu di sustegnu chì pò cunvene à qualche famiglia.
+Dumandate s'è u centru pò dà l'aiutu chì a persona hà bisognu s'è a so salute o e so capacità di ogni ghjornu cambiano. S'è u centru ùn pò risponde à quelli bisogni, dumandate quale riferimentu o quale alternativa suggerisce. A [guida per l'assistenza in casa](/caregiving/choosing-in-home-dementia-care/) copre un altru tipu di sustegnu chì pò cunvene à qualche famiglia.
 
 ## Cumu pò a persona pruvà un prugramma senza pressione?
 
@@ -81,7 +81,7 @@ S'ella hè esitante, cercate di sapè perchè. U trasportu, u rumore, persone sc
 
 Dopu qualchi visita, parlate cù a persona è cù u persunale di u centru di cumu va l'accunciu. Un bonu prugramma pò avè bisognu d'aghjustamenti di l'ore, di l'attività o di u sustegnu. S'è a persona resta angosciata o u serviziu ùn cunvene micca, hè ragiunevule di ripensà à a scelta.
 
-## Cumu pudete cuurdinà cù u centru?
+## Cumu pudete cuordinà cù u centru?
 
 Cù l'accunsentu di a persona, spartate infurmazioni chì aiutanu u persunale à sustenella: u nome preferitu, u mudu di cumunicà, e rutine, l'interessi è u tipu d'aiutu ch'ella accetta. Dumandate cumu u centru prutege sta infurmazione privata è cumu l'aghjurnamenti sò spartuti cù a famiglia.
 
