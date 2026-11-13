@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Kafshët",
+      "description": "Kafshë të ëmbla dhe miqësore nga e gjithë bota"
+    },
+    "nature": {
+      "name": "Natyra",
+      "description": "Peizazhe të bukura dhe pamje natyrore"
+    },
+    "food": {
+      "name": "Ushqimi",
+      "description": "Ushqime dhe ëmbëlsira të shijshme"
+    },
+    "vintage": {
+      "name": "Makinat",
+      "description": "Makina dhe kamionë për t’i parë dhe për të folur rreth tyre"
+    },
+    "flowers": {
+      "name": "Lulet",
+      "description": "Lule të bukura dhe pamje kopshtesh"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Kafshët e fermës",
+      "description": "Kafshë miqësore të fermës, si në një vizitë në fshat.",
+      "theme": "Jeta në fermë",
+      "images": {
+        "cow_1": "Lopë miqësore",
+        "pig_1": "Derr i qetë",
+        "chicken_1": "Gjel",
+        "buffalo_1": "Buall uji",
+        "horse_1": "Kalë i bukur",
+        "duck_1": "Familje rosash",
+        "goat_1": "Dhi kureshtare",
+        "rabbit_1": "Lepur i ëmbël"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pamje malesh",
+      "description": "Peizazhe malore mahnitëse dhe pamje të bukura",
+      "theme": "Bukuri natyrore",
+      "images": {
+        "mountain_1": "Maja me dëborë",
+        "mountain_2": "Mali Fuji",
+        "mountain_3": "Luginë alpine",
+        "mountain_4": "Kulm shkëmbor",
+        "mountain_5": "Kodra me pyje",
+        "mountain_6": "Male në mjegull"
+      }
+    },
+    "vintage_cars": {
+      "title": "Makina dhe kamionë",
+      "description": "Makina dhe kamionë të shndritshëm për t’i parë dhe për të folur rreth tyre",
+      "theme": "Në rrugë",
+      "images": {
+        "vintage_car_1": "Audi portokalli në perëndim të diellit",
+        "vintage_car_2": "Makinë sportive blu në shkretëtirë",
+        "vintage_car_3": "Bugatti i argjendtë",
+        "vintage_car_4": "Porsche i zi në rrugë",
+        "vintage_car_5": "BMW portokalli në një rrugë me palma",
+        "vintage_car_6": "Kupe blu pranë një garazhi",
+        "vintage_car_7": "Kamionçinë e gjelbër",
+        "vintage_car_8": "SUV i bardhë mes shkëmbinjve të kuq",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Makinë blu me vija të bardha"
+      }
+    },
+    "animals_safari": {
+      "title": "Kafshët e safarit",
+      "description": "Kafshë madhështore nga safaret afrikane",
+      "theme": "Jeta e egër",
+      "images": {
+        "lion_1": "Luan madhështor",
+        "elephant_2": "Elefant afrikan",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebër me vija",
+        "rhino_5": "Rinoceront i fuqishëm",
+        "cheetah_6": "Gepard i shpejtë",
+        "fox_7": "Dhelpër kafe",
+        "bear_8": "Ariu polar",
+        "turtle_9": "Breshkë kafe",
+        "squirrel_10": "Ketër kafe",
+        "macaw_11": "Papagall ara i verdhë dhe blu",
+        "tiger_12": "Tigër",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Ujk gri",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Pallua i bukur"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Ëmbëlsira të shijshme",
+      "description": "Disa ëmbëlsira të shijshme për vaktet tuaja.",
+      "theme": "Ëmbëlsira",
+      "images": {
+        "pastries_1": "Katër pasta",
+        "oreo_cookie_sandwiches_2": "Biskota Oreo me krem",
+        "crepe_3": "Krep",
+        "pancake_4": "Petulla",
+        "macarons_5": "Makarona",
+        "caramel_cake_6": "Tortë me karamel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Lule tropikale",
+      "description": "Zbuloni bukurinë e gjallë të tropikëve me këtë paketë lulesh ekzotike.",
+      "theme": "Lule tropikale",
+      "images": {
+        "hibiscus_1": "Hibisk i kuq",
+        "frangipani_2": "Frangipani i kuq e i bardhë",
+        "sunflower_3": "Luledielli",
+        "hydrangea_4": "Hortensie e bardhë",
+        "rose_5": "Trëndafil",
+        "chrysanthemum_6": "Krizantemë",
+        "anthurium_7": "Antur",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Festë e ushqimit të rrugës",
+      "description": "Eksploroni botën plot ngjyra të ushqimit të rrugës me këtë paketë ushqimesh të shijshme nga e gjithë bota.",
+      "theme": "Ushqim rruge",
+      "images": {
+        "taco_1": "Tako meksikane",
+        "ramen_2": "Ramen japonez",
+        "dumplings_3": "Petulla kineze me mbushje",
+        "samosa_4": "Samosa indiane",
+        "pizza_5": "Fetë pice italiane",
+        "crepe_6": "Krep francez",
+        "satay_7": "Hunj sate tajlandezë",
+        "burger_8": "Burger amerikan",
+        "bao_9": "Bukë bao e avulluar",
+        "takoyaki_10": "Takojaki japoneze"
+      }
+    },
+    "nature_landscape": {
+      "title": "Peizazhe natyrore",
+      "description": "Pamje natyrore të qeta dhe të bukura, për t’i parë ngadalë dhe për të folur rreth tyre së bashku.",
+      "theme": "Peizazhe natyrore",
+      "images": {
+        "mountain_1": "Varg malor",
+        "forest_2": "Pyll në mjegull",
+        "lake_3": "Liqen malor",
+        "desert_4": "Dunat e shkretëtirës",
+        "waterfall_5": "Ujëvarë",
+        "beach_6": "Plazh me rërë",
+        "river_7": "Lumë që rrjedh",
+        "canyon_8": "Kanioni i Madh",
+        "sunset_9": "Qielli në perëndim",
+        "snow_mountain_10": "Mal me dëborë",
+        "flowers_11": "Lule të egra",
+        "rainforest_12": "Pyll tropikal me shi",
+        "iceberg_13": "Ajsberg",
+        "volcano_14": "Vullkan",
+        "cliff_15": "Shkëmb buzë detit",
+        "aurora_16": "Aurora polare",
+        "savannah_17": "Savanë",
+        "coral_reef_18": "Shkëmb koralor"
+      }
+    }
+  }
+}

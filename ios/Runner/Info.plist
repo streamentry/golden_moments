@@ -88,6 +88,11 @@
 		<string>ka</string>
 		<string>kk</string>
 		<string>mk</string>
+		<string>sq</string>
+		<string>sr</string>
+		<string>gl</string>
+		<string>ga</string>
+		<string>si</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>

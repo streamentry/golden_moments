@@ -105,6 +105,11 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'ka': ((), ('ka-GE',)),
     'kk': ((), ('kk',)),
     'mk': ((), ('mk-MK',)),
+    'sq': ((), ('sq',)),
+    'sr': ((), ('sr',)),
+    'gl': ((), ('gl-ES',)),
+    'ga': ((), ()),
+    'si': ((), ('si-LK',)),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

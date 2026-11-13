@@ -70,6 +70,11 @@ const _appLocales = {
   'ka',
   'kk',
   'mk',
+  'sq',
+  'sr',
+  'gl',
+  'ga',
+  'si',
 };
 const _baseFallbacks = {'pt', 'zh'};
 
@@ -221,7 +226,7 @@ void main() {
 
     test('an unoffered language falls through, then to English', () {
       expect(
-        pick([const Locale('ga'), const Locale('es')]),
+        pick([const Locale('ie'), const Locale('es')]),
         const Locale('es'),
       );
       expect(pick([const Locale('ie')]), const Locale('en'));
