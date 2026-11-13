@@ -1,33 +1,36 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Ditiro tsa Setlhopha tsa Dementia: Kaelo ya Magae a Tlhokomelo le Mananeo a Motshegare"
+seoTitle: "Ditiro tsa Setlhopha tsa Dementia: Bingo, Dipina, Dikanelo"
+description: "Ditiro tsa setlhopha tsa dementia mo magaeng a tlhokomelo: bingo ya ditshwantsho, go opelela mmogo le go gopola, le malebela a go dudisa batho."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ditiro tse di siameng tsa setlhopha mo magaeng a tlhokomelo ya kgopolo le mo
+  mananeong a motshegare a batho ba bagolo di khutshwane, di tlwaelegile, mme
+  di bonolo go tsenela mo maemong ape: bingo ya ditshwantsho, go opelela
+  mmogo, mela ya go gopola dilo tsa bogologolo, metsamao e e bonolo le
+  metshameko ya mafoko e e tshamekiwang mmogo. Dira ditlhopha tse dinnye fa o
+  kgona, dudisa batho gore mongwe le mongwe a kgone go bona le go utlwa, neela
+  kgato e le nngwe e e totobetseng ka nako, mme o rulaganye seabe se se
+  bonolo le tsela e e kgutsitseng ya go tswa mo go mongwe le mongwe yo o
+  e tlhokang.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Ditlhopha tse dinnye gantsi di dira botoka go na le tiragalo e le nngwe e kgolo, mme di dira gore batho ba bantsi ba tsaye karolo ka mo go phelang go na le go lebelela fela."
+  - "Dudisa batho ka lediko kana sebopego sa lonao la pitse, gaufi le moeteledipele, o akanya ka dinonofo tsa go utlwa le go bona, mme o tima modumo wa kwa morago."
+  - "Rulaganya tiro nngwe le nngwe ka maemo a mabedi kana a mararo gore batho ba ba nang le bokgoni jo bo farologaneng botlhe ba kgone go tsenela."
+  - "Efoga go botsolotsa, go bala dikoro le go bua ka batho ba ba fentseng. Bingo ya ditshwantsho e ka tshamekiwa mme mongwe le mongwe a felelela a tletse karata ya gagwe."
+  - "Go tsamaya ka bonako, go lebelela kana go lala ke go siame. Nna le modiri yo o ikemiseditseng go tshegetsa mongwe le mongwe yo o batlang lefelo le le kgutsitseng."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Setlhopha se se siameng sa ditiro tsa dementia se tshwanetse go nna le batho ba le kae?"
+    a: "Ga go palo e le nngwe e e siameng, mme e ikaegile ka baagi, phaposi le palo ya badiri ba o nang le bone. Dithimi di le dintsi di fitlhela gore ditlhopha tse dinnye di dira gore mongwe le mongwe a bone, a utlwe le go tsaya karolo, fa ditiragalo tsa diphaposi tse dikgolo di tlogela batho ba bantsi ba lebelela. Fa o dira tiragalo e kgolo, oketsa badiri kana baithaopi ba ba ka nnang gareng ga baagi mme ba thusa motho a le mongwe kana ba babedi."
+  - q: "Ke tsamaisa jang setlhopha se se nang le batho ba bokgoni jo bo farologaneng?"
+    a: "Rulaganya tsela e e fetang nngwe ya go tsenela tiro nngwe le nngwe. Mo go opeleleng mmogo, bangwe ba opela mafoko otlhe, bangwe ba opa diatla kana ba opela ka molomo o tswalegileng, mme bangwe ba tshwara sedirisiwa sa go dira modumo. Mo bingong ya ditshwantsho, bangwe ba fitlhela ditshwantsho tsa bone, fa mothusi a supela ba bangwe. Dudisa batho ba ba tlhokang thuso e ntsi gaufi le modiri kana moithaopi."
+  - q: "Ke tshameka jang bingo ya ditshwantsho ntle le go dira gore e nne phenyo?"
+    a: "Bitsa setshwantsho se sengwe le se sengwe go fitlha dikarata tsa botlhe di tletse, gore go se ke ga nna le ope yo o tlogelwang. Bua ka setshwantsho se sengwe le se sengwe fa se tla, mme o seke wa nna le dipoelo tsa baphenyi, kana o neele botlhe selo se sennye se se tshwanang. Selo se se botlhokwa ke go lebelela mmogo le puisano, e seng gore ke mang yo o fetsang pele."
+  - q: "A nka dirisa metshameko ya lona mo sekirining se segolo mo setlhopheng?"
+    a: "Ee. Metshameko ya rona e dira mo browser ya web, ka jalo o ka e bula mo laptop kana tablet e e kgoneditsweng mo TV kana projeketa. Bingo ya ditshwantsho e na le dikarata tse di ka gatisiwang le motho yo o bitsang mo sekirining. Fetsa polelwana le Dipaera tsa ditshwantsho le tsone di dira sentle mo sekirining se segolo, motho a le mongwe a kgoma mo boemong jwa setlhopha."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +55,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Kaelo eno e a tlhaloganyeng batsamaisi ba ditiro, dithimi tsa tlhokomelo ya kgopolo le baeteledipele ba mananeo a motshegare a batho ba bagolo. E akaretsa mekgwa ya setlhopha e e dirang, go baakanya phaposi, go fetola tiro e le nngwe gore e siamele bokgoni jo bo farologaneng, le go dirisa dikarata tsa rona tsa bingo tse di gatisiwang le metshameko ya sekirini se segolo. Sengwe le sengwe fano se lebeletse boiketlo, kgolagano le kgetho. Ga go selo se e leng teko.
 
-## What makes a group activity work in memory care?
+## Ke eng se se dirang gore tiro ya setlhopha e dire mo tlhokomelong ya kgopolo?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Tiro e e siameng ya setlhopha e a tlwaelega, e khutshwane, e bonolo go tsenela mo maemong ape, mme ga e na kgatelelo. [Dikgothaletso tsa Tiro ya Tlhokomelo ya Dementia](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) tsa Alzheimer's Association di tlhalosa go tsaya karolo go go nang le bokao e le se se tshegetsang dikgatlhego le dilo tse motho a di ratang, mme se letla kgetho le katlego, le fa dementia e le thata thata. Lekwalo leno le bolela gape gore mananeo a tlwaelo gantsi a ikaegile ka tiragalo e le nngwe kana tse pedi tse dikgolo ka letsatsi, mo baagi gantsi ba tsayang karolo fela ka go lebelela.
 
-That points to a few practical rules:
+Seo se supa melao e mmalwa ya tiriso:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Se se itsegeng se feta se sešwa.** Dipina, dipolelwana, ditshwantsho le dilo tsa dingwaga tsa bonna jwa baagi di bonolo go di tsenela.
+- **Se se khutshwane se feta se se telele.** Rulaganya go ya ka lobaka lwa kelello le setlhopha sa gago se tlwaelang go nna le lone, ka lefelo la tlholego la go ema mo gare.
+- **Go dira go feta go lebelela.** Naya mongwe le mongwe sengwe sa go tshwara, go kgoma, go tlhopha kana go se bua.
+- **Maemo a le mantsi, tiro e le nngwe.** Aga ditsela tse di bonolo le tse di thata tsa go tsaya karolo.
+- **Ga go baphenyi, ga go dikoro.** Mekgwa ya go phenyana e tlogela bangwe ba ikutlwa e kete ba paletswe.
 
-## How big should the group be?
+## Setlhopha se tshwanetse go nna se segolo go le kae?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Se sennye gantsi se bonolo. Alzheimer's Association e bolela gore motho yo o fitlhelang pokano e kgolo e mo tlhoafatsa a ka kgona go tsaya karolo botoka mo setlhopheng se sennye. Ga go palo e le nngwe e e siameng. E ikaegile ka baagi, phaposi le palo ya badiri le baithaopi ba ba leng teng.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Teko e e thusang: A mongwe le mongwe a ka bona sefatlhego sa moeteledipele, a utlwa sentle, mme a fitlhelelwa ke mothusi mo metsotsong e mmalwa? Fa go se jalo, kgaoganya setlhopha, oketsa bathusi, kana o fetele mo phaposing e nnye.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Mo tiragalong e kgolo, jaaka konsareta ya matlhatsa, dudisa badiri le baithaopi gareng ga baagi, e seng gaufi le dibota.
 
-## How should I set up the room and seating?
+## Ke baakanya jang phaposi le go dudisa batho?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Lediko kana sebopego sa lonao la pitse.** Dikgothaletso di tlhalosa lediko la go abelana e le se se siameng mo lefelong le le lekaneng gore botlhe ba nne ka lediko, ntle le modumo wa kwa morago.
+- **Moeteledipele a le gaufi, a le mo kgolo ya matlho.** Nna fa fatshe go na le go ema fa o kgona.
+- **Go utlwa le go bona pele.** Dudisa batho ba ba nang le bothata jwa go utlwa gaufi le moeteledipele, mo letlhakoreng le le botoka. Netefatsa gore digalase le didiriswa tsa go utlwa di apeilwe. Alzheimer's Association e bolela gore mathata a go bona le go utlwa a ka dira gore puisano e nne thata.
+- **Lesedi le tswa kwa morago ga baagi, e seng kwa morago ga gago.** Efoga go dudisa mongwe a lebile fensetere e e galalelang.
+- **Tima TV le radio.** Alzheimer's Association e laela gore modumo o o kgoreletsang o tlosiwe fa go dirwa ditiro tsa mmino.
+- **Puisano e le nngwe ka nako.** Go bua ka nako e le nngwe go thata mo go batho ba ba nang le dementia le ba ba nang le bothata jwa go utlwa, jaaka Alzheimer's Association e supa mo [kaelong ya yone ya malatsi a boikhutso](https://www.alz.org/help-support/caregiving/holidays).
+- **Dikgoro tse di bulegileng le lefelo le le kgutsitseng.** Mongwe le mongwe yo o batlang go tsamaya o tshwanetse go kgona go dira jalo ka bonolo, a na le modiri wa go tsamaya le ene.
 
-## Group activity ideas
+## Dikakanyo tsa ditiro tsa setlhopha
 
-### Picture bingo
+### Bingo ya ditshwantsho
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo ya ditshwantsho e tlhomamisa dipalo ka ditshwantsho tse di totobetseng, jaaka sepitsa sa tee, ntša kana palesa ya rosa, gore ga go ope yo o tshwanetseng go latela palo e telele kana go bala mokwalo o monnye.
 
-**How to run it:**
+**Tsela ya go e tshameka:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Gatisa karata e le nngwe mo motho mongwe le mongwe go tswa mo tsebeng ya rona ya [Bingo ya ditshwantsho](/games/picture-bingo/) ka konopo ya Gatisa. Pampiri e e boima e bonolo go e tshwara. E phuthe ka polasetiki gore o e dirise gape.
+2. Naya matshwao a matona a a bonolo go a tsaya, jaaka dikota tsa pokara, dipaki tsa dibotlolo kana dikgato tse di segilweng tsa karata.
+3. Dirisa motho yo o bitsang mo sekirining mo TV kana projeketa gore mongwe le mongwe a bone setshwantsho fa o bua leina la sone.
+4. Eme morago ga setshwantsho se sengwe le se sengwe mme o laletse tshwaelo e khutshwane: "A mongwe a ka re anelela ka ntša e a e itseng?" kana "O lemoga eng ka se?"
+5. Tswelela go bitsa go fitlha dikarata tsotlhe di tletse. Botlhe ba felela.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Go e dira bonolo:** Dirisa dikwere tse dikhutshwane mo go ba ba fitlhelang karata e tletseng e le e e tshwenyang. Mothusi a ka supa setshwantsho se se tshwanang mo go yo o se tlhokang. Bangwe ba ka rata go tshwara karata ya setshwantsho ya moeteledipele mme ba e bontshe setlhopha.
 
-### Sing-alongs
+### Go opelela mmogo
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Mmino ke nngwe ya ditiro tsa setlhopha tse di ratwang thata. Alzheimer's Association e bolela gore le mo dikgatong tsa bofelo, motho a ka kgona go [opa le go opela pina ya bonnye](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Tsela ya go e tshameka:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Tlhopha dipina tse baagi ba godileng ba di itse, e seng tse moeteledipele a di ratang. Botsa malapa gore motho mongwe le mongwe o rata eng.
+- Dirisa mmino o se nang dipatalagano, tse Alzheimer's Association e bolelang gore di ka tswenya.
+- Gatisa mafoko a dipina ka mokwalo o mogolo mo go ba ba balang, mme o se ka wa e dira kgatelelo.
+- Neela dilo tsa go dira modumo, ditlhaka tsa diatla kana disekhafu tsa go di tsholetsa.
+- Kgothaletsa go opa diatla le go sisimoga, mme o tshwarelele modumo o o siameng.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Go e dira bonolo:** Bangwe ba tla opela mafoko otlhe, bangwe ba tla opela ka molomo o tswalegileng, bangwe ba tla opa lonao, mme bangwe ba tla reetsa fela. Tsotlhe di a bala. Bona [kaelo ya rona ya ditiro tsa mmino](/activities/music/) go bona tse dingwe.
 
-### Reminiscence groups
+### Setlhopha sa go gopola dilo tsa bogologolo
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Setlhopha sa go gopola se kopana ka kgang, jaaka malatsi a sekolo, dikoloi tsa ntlha, dikichine kana selemo, ka dienepe, dilo le mmino. Maikaelelo ke puisano e e monate, e seng go gopola ka tshwanelo.
 
-**How to run it:**
+**Tsela ya go e tshameka:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Tlhopha kgang e le nngwe mme o tle le dilo di le mmalwa tse batho ba ka di tshwarang: sedirisiwa sa go kgotlhelela, galabo ya bolo, kefa kana bukana ya peo.
+2. Fetisa selo se le sengwe ka nako. Botsa dipotso tse di bulegileng: "Mpolelele ka sena," "O lemoga eng?" "Ke mang yo o neng a dirisa se se tshwanang le sena?"
+3. Amogela karabo nngwe le nngwe. O se ka wa baakanya letlha kana selo se se boletsweng.
+4. Etelela puisano go dikgopolo tse di mofuthu. Dikgothaletso di bolela gore baanamisi ba tlhokomelo ba tshwanetse go isa go gopola mo dikgopolong tse di siameng, e seng tse di ka tlisang bothata.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Dikarata tsa puisano](/games/conversation-cards/) di neela dikarata tsa ditshwantsho tse di gatisiwang tse di nang le dikgang tse di bulegileng ka kgang, tse di dirang sentle go simolola puisano. Dikakanyo tse dingwe di mo [kaelong ya rona ya go gopola](/activities/reminiscence/).
 
-### Finish the saying
+### Fetsa polelwana
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Dipolelwana tse di itsegeng ("Motho ke motho ka...") di laletsa mongwe le mongwe go bitsa bofelo mmogo. Bontsha [Fetsa polelwana](/games/finish-the-saying/) mo sekirining se segolo mme o tlogele setlhopha se arabe ka lentswe le le lengwe. Go na le kgothaletso ya go bua morago ga polelwana nngwe le nngwe. Fa go se ope yo o buang bofelo, bo bontshe mme o tswelele. Ga go na tshwanelo kana phoso.
 
-### Large-print word search, together
+### Go batla mafoko ka mokwalo o mogolo, mmogo
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Bontsha [Go batla mafoko](/games/word-search/) ka mokwalo o mogolo mo sekirining mme le batle mafoko jaaka setlhopha, kana o gatise dikopi tsa ba ba ratang go dira ba le bosi mo tafoleng. Mafoko a tsamaya fela go ralala le go ya tlase.
 
-### Gentle movement
+### Metsamao e e bonolo
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Go otlolola fa o dutse, go fetisa kgwele e bothitho kana bolone, kana go bina mo setulong ka mmino o o itsegeng. Bontsha mokgwa mongwe le mongwe go na le go o tlhalosa.
 
-### Sorting and matching at the table
+### Go kgetholola le go tshwanisa mo tafoleng
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Ditafole tse dinnye tsa batho ba le bararo go ya go ba bane di ka kgetholola ditshwantsho, disele kana dikgaba mmogo. Mo sekirining, [Dipaera tsa ditshwantsho](/games/picture-pairs/) di ka tshamekiwa ka ditshwantsho tse di tlogetsweng di bonala, motho a le mongwe a kgoma fa tafole e bua ka setshwantsho se sengwe le se sengwe.
 
-## How do I use your games on a big screen?
+## Ke dirisa jang metshameko ya lona mo sekirining se segolo?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Metshameko ya rona e dira mo browser ya web, ka jalo o ka e dirisa mo TV kana projeketa ntle le go tsenya sepe.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Bula motshameko mo laptop kana tablet e e kgoneditsweng mo sekirining ka thapo kana ka go e romela.
+2. Dira browser e tlale sekirine, mme o baya modumo mo maemong a a siameng.
+3. Naya moeteledipele a le mongwe tiro ya go kgoma fa setlhopha se bitsa dikgetho. Kana o fetise tablet go motho wa moagi yo o batlang go leka.
+4. Ema fa setlhopha se setse se ipaakantse. Metshameko ga e na sebala nako, dikoro kana go tlhoma go fela.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bingo ya ditshwantsho](/games/picture-bingo/), [Fetsa polelwana](/games/finish-the-saying/), [Dipaera tsa ditshwantsho](/games/picture-pairs/) le [Dikarata tsa puisano](/games/conversation-cards/) gantsi di siametse ditlhopha thata. Bona dikgetho tsotlhe mo [tsebeng ya rona ya metshameko](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Ke fetola jang tiro e le nngwe gore e siamele bokgoni jo bo farologaneng?
 
-Plan at least three ways to join every activity.
+Rulaganya bonnye ditsela di le tharo tsa go tsenela tiro nngwe le nngwe.
 
-| Activity | More independent | Some support | Most support |
+| Tiro | Go ikemela go feta | Thuso nngwe | Thuso e ntsi go gaisa |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo ya ditshwantsho | O fitlhela le go kwala ditshwantsho tsa gagwe | Mothusi o a supa; motho o a kwala | O tshwara karata ya setshwantsho; o reetsa le go lebelela |
+| Go opelela mmogo | O a opela, o tlhopha pina e e latelang | O a opela ka molomo o tswalegileng, o opa diatla, o dirisa sedirisiwa sa modumo | O a reetsa, o tshwara sekhafu, o opa seatla |
+| Go gopola | O anela dikanelo | O araba ee kana nnyaa kana o a supa | O tshwara le go ikutlwa selo |
+| Go batla mafoko | O dira kopi ya gagwe e e gatisitsweng | O batla mafoko mo sekirining se segolo le mothusi | O reetsa fa mafoko a balwa |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Mo baaging ba kgato ya bofelo, NHS e bolela gore ditiro gantsi di tshwanetse go nna bonolo mme di lebelele thata maikutlo a mmele, jaaka mmino, dilo tsa go di tshwara le go gagabiwa diatla. Nako ya motho a le nosi ka nako kana morago ga setlhopha e ka mo siamela go feta setlhopha ka boone. Bona [ditiro tsa kgato ya bofelo](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Baeteledipele ba tshwanetse go bua jang ka nako ya setlhopha?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Itlhalose nako nngwe le nngwe, mme o dirise leina le mongwe le mongwe a le ratang.
+- Bua ka bonya, neela kgato e le nngwe ka nako, mme o bontshe pele o bolela.
+- Botsa ditlhaleletso tse di bulegileng ("Mpolelele ka...") kana dikgetho tse di bonolo, o seke wa botsa dipotso tsa teko ("A o gopola...?").
+- O se ka wa baakanya. Leboga batho ka seabe sengwe le sengwe.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Go na le tse dingwe mo [malebeleng a rona a puisano](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Go felela sentle, le go letla batho go tsamaya
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Go ema ke sephetho se se siameng. Lebelela matshwao a gore mongwe o lapile, ga a ikutlwe a le kgotsa o kgopegile, mme o nne le mothusi yo o neelang go tsamaya kana setulo se se kgutsitseng kwa gongwe. Motho yo o tshamekang a ntse a lala fa go opelelwa o ka nna a le mo boiketlong fela.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Fetsa setlhopha sengwe le sengwe ka mokgwa o le mongwe, ka pina e e itsegeng kana ka kgomotso e e bonolo, gore bofelo bo bonale bo le kgutsitse mme bo lebeletswe. Morago, kwala se se dirileng sentle le gore ke mang yo o ratileng eng. Dintlha tseo di dira kopano e e latelang go nna botoka.
