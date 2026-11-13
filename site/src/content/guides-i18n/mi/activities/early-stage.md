@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Ngā Mahi mō te Mate Wareware i te Wāhanga Timatanga"
+seoTitle: "Mahi mō te Wāhanga Timatanga o te Wareware: Whakaaro e Tika ana"
+description: "Whakaaro mahi mō te mate wareware i te wāhanga timatanga: hobi, tākaro, haerenga, tuhi me te whakamahere ngātahi, me ngā panoni iti e mau ai te pai."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  I te wāhanga timatanga o te mate wareware, ka taea e te nuinga te whai tonu i
+  ā rātou mahi pai: ngā hobi, ngā kāri me ngā tākaro papatipu, te tunu kai, te
+  māra, te hīkoi, ngā karapu, te whakapono me te mahi ā-iwi. Ko ngā panoni matua
+  he rōpū iti ake, he haerenga poto ake, he mahere tuhi māmā, me tētahi hoa e
+  tata ana. Pātaihia te tangata he āwhina e hiahia ana ia, ā, waiho kia ārahi ia.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Ko te nuinga o te tangata i te wāhanga timatanga e noho motuhake ana. Ko te nuinga o ngā mahi me urutau, kāore e whakakapia."
+  - "Pātaihia te tangata he āwhina e hiahia ana ia, ā, whakaaetia he tohu māmā mō te wā e pai ai te āwhina."
+  - "He nui te rerekē i ngā rōpū iti, i ngā wā klaka, me ngā haerenga poto."
+  - "He wā pai tēnei mō te tangata ki te arataki i ngā kaupapa mō tōna ake oranga, pēnei i te pukapuka kōrero, te pukapuka ōna ake oranga."
+  - "Me whiriwhiri tākaro mō te reka. Kaua e whiriwhiri i tētahi mea ka ahua whakamātau."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "He aha ngā mahi pai mō te mate wareware i te wāhanga timatanga?"
+    a: "Ko ngā mahi anō ka pai ai te tangata kua pai ki a ia: ngā kāri, ngā tākaro papatipu, te tunu kai, te māra, te hīkoi, te waiata, ngā mahi whakapono, ngā karapu me te mahi ā-iwi. Tērā pea me whakapoto, me whakamārie, me whakamāmā rānei. He pai hoki ēnei mahi mō tēnei wāhanga: te tuhi pukapuka, te tuhi reta, me te hanga pukapuka o tōna oranga."
+  - q: "Me pēhea e āwhina ai ahakoa kāore e whakahaere i te tangata?"
+    a: "Pātaihia he āwhina e hiahia ana te tangata, ā, whakamātau tonu. Whakaaetia he kīwaha, he tohu māmā rānei e tika ai te urunga, hei tauira ina kore e puta he kupu, he ingoa rānei. Ki te kore he tūraru haumaru, waiho kia mahi ia i tana ake huarahi, ahakoa he roa ake te wā."
+  - q: "Me whakamātau mahi hou te tangata i te wāhanga timatanga?"
+    a: "Āe, ki te hiahia ia. He māmā ake ngā hobi mōhio, engari he pai ki te nuinga te mea hou, pēnei i te rōpū hīkoi e mārama ana ki te mate wareware, he akomanga toi, he rōpū waiata rānei. Whakamātauria kotahi, kaua e akiaki, kātahi ka mātakitaki te āhua o te wheako."
+  - q: "He pai ngā taupānga whakangungu roro i te wāhanga timatanga?"
+    a: "Ka pai ētahi ki ngā pazzle me ngā tākaro kupu, ā, he take rawa taua pai. Kāore tētahi taupānga, tētahi tākaro rānei i whakaatuhia ka rongoā, ka whakaroa, ka aukati rānei i te mate wareware. Ki te whakararuraru te tākaro, ki te whakaaro kua hē te tangata, whakakāhoretia."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+I te wāhanga timatanga o te mate wareware, he rite tonu te nuinga o te oranga o mua. Ka mahi pea rātou, ka tūtaki ki ngā hoa, ka whakahaere i te nuinga o tō rātou rā. Kāore e pēhanga ngā mahi, engari me whakapai iti kia pai tonu ai. Ko tō mahi he hoa tata, ehara i te kaitiaki anake: he tangata e tautoko ana, e whakamahere ana me rātou, ā, e urunga ana ina tono rātou.
 
-## What activities are good in early-stage dementia?
+## He aha ngā mahi pai i te wāhanga timatanga o te wareware?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Ko ngā mahi pai i te wāhanga timatanga, ko te nuinga, ko ngā mea kua aroha kētia e te tangata, engari kua whakamāmāhia. Ka whakarārangi te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i ngā whakaaro pēnei i ngā kāri me ngā tākaro papatipu, ngā kimi kupu, te hīkoi, te kanikani, te māra, te whakarite puāwai, te kōrero paki, te peita, te waiata, te tuhi pukapuka, te tuhi reta, te kōpaki whakaahua, te tunu kai me ngā tikanga ā-hararei.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Ko te mea e rerekē ai, he tautau te wāhi, ehara i te mahi. Ka kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka timata pea ngā tāngata i te wāhanga timatanga ki te tāwhiti i ngā mea i pai ai rātou, ā, ka tauira mai i te tangata e pōuri ana i tētahi pāti nui, engari ka pai ake ki tētahi rōpū iti. Kōrerotia mārietia he aha te mea ka uaua ake, ā, urutau ngātahi.
 
-## Ask first, and agree on how to help
+## Pātai tuatahi, me whakaaetanga me pēhea te āwhina
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Ka kī te [Alzheimer's Association mō te wāhanga timatanga](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) he tikanga iti ēnei, e pai ana ki ngā mahi:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Pātaihia tika.** “He aha te mea ka māmā ake te karapu pukapuka mō koe?” he pai ake te whakautu i tērā i te arohaehae.
+- **Whakaaro he kaha tōna.** Ki te kore he tūraru haumaru, waiho te tangata kia ngana, ā, whakatipuria ia, kaua e tango i te mahi.
+- **Whakaaetia he tohu.** Whiriwhiria he kīwaha, he tohu ūpoko rānei e tohu ana “Kei te pai te urunga,” hei tauira ina kore e puta te ingoa i tētahi tākaro kāri.
+- **Tirohia i ngā wā katoa.** Pātaihia mēnā he pai te nui o te āwhina, he nui rawa, he iti rawa rānei.
 
-## Activity ideas for the early stage
+## Ngā whakaaro mahi mō te wāhanga timatanga
 
-### Keep up roles and hobbies
+### Pupuri i ngā tūranga me ngā hobi
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Pupuri i tētahi haepapa tūturu.** Ko tētahi wā ā-wiki mō te ratonga ārahi, te karapu waiata, te rōpū rānei e whai hanga ai te wiki. Ki te whai raru, he tūranga iti ake, he tūranga klaka ake pea te pai.
+- **Whakamahere kai ngātahi.** Ki te raru te hoko kai, e kī ana te Alzheimer's Association me pātai ki te tangata kia āwhina ki te whakarite i te rārangi kai o te wiki, ā, kia tuhi i te rārangi.
+- **Tunu, parāoa.** Whai tētahi tohutunu pai ngātahi. Whakaraupapatia ngā rōpaki i mua i te tīmata, kia kitea ai ngā hātepe.
+- **Māra.** Whakamahere he kōhanga, whiriwhiri i ngā kākano, i ngā rākau rānei, ā, mahia ngātahi te mahi. He pai te rārangi tuhituhi o ngā mahi māra o te wiki.
+- **Pupuri i tētahi mahi toi.** Ka taea te haere tonu ngā mahi whakairo rākau, ngā mahi whatu, ngā mahi rōpaki, te hanga tauira me ngā tauira māmā me te rama pai.
 
-### Games for enjoyment
+### Tākaro mō te reka
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Tākaro kāri, tākaro papatipu.** He māmā ake ngā tākaro mōhio. Tākaro i ngā tīma kia kaua tētahi e noho whakapaenga ai, ā, kaua e tuhi tatau, kāore rānei.
+- **Whakamātau kimi kupu rahi-tuhi.** Ka taea te tākaro [kimi kupu](/games/word-search/) i runga i te mata, ka taea hoki te tā, hei wā mārie.
+- **Mahi pazzle.** Whiriwhiria te maha o ngā pītaka e mārie ai, kaua e wero. He pazzle mata poto te [pazzle whakaahua](/games/picture-puzzle/), ā, ka whakamārama tā mātou arataki [pazzle mō te mate wareware](/activities/puzzles/) i te whiriwhiri.
+- **Uru ki te whakamātau ā-tīma mō te reka.** He pai ki ētahi te pātai ā-tīma. Ki te tīmata te mea hei whakamātau, whiriwhiria tētahi mea kē, ā, whakamātauria te [pātai whakamātau māmā](/activities/trivia/), he whiringa ngā whakautu, kāore he tatau.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Mō te reka anake ēnei tākaro. Kāore tētahi tākaro i whakaatuhia ka rongoā, ka whakaroa i te wareware; pānuihia i [ngā tākaro whakangungu roro: he aha te rangahau](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Tuhi, whakaaro me te rekoata
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Tuhia he pukapuka rangitaki.** Ka kī te Alzheimer's Association he tikanga tēnei hei whakaaro ki ngā whakaaro whai muri i te whakamōhiotanga. He pai ngā rārangi iti i ia rā.
+- **Arataki i tētahi pukapuka oranga.** He wā pai tēnei mō te tangata ki te kōwhiri i ōna ake whakaahua, ki te tuhi, ki te kōrero rānei i ngā kōrero o aua whakaahua. Titiro ki [ngā mahi whakamahara](/activities/reminiscence/).
+- **Tuhi reta.** He mea whai tikanga mō ngā taha e rua te reta ki te mokopuna, ki te hoa tawhito, ki te hoa mahi o mua rānei.
+- **Kōrero i ngā whakaahua.** Ka hanga [pōtaki rite](/games/photo-pairs/) i ngā whakaahua whānau he tākaro takirua mārie, ā, ka hoatu e [ngā kāri kōrero](/games/conversation-cards/) he tīmatanga māmā mō te kōrerorero.
 
-### Go out and move
+### Haere ki waho, nekeneke
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Ka whakaaro te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) me haere tonu ngā haerenga o mua mō te wā e pai ai te reo o korua. Whakamahereria mō te wā pai rawa o te tangata, ā, kaua e roa rawa.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Haerenga ahurea poto.** He whare taonga, he whakaaturanga, he whakaaturanga toi rānei, ina pai i te wā mārie.
+- **Kauhoe.** Ka kī te NIA me whai he puna i te wā iti te tangata.
+- **Rōpū hīkoi me ngā akomanga kanikani.** Ka whakarārangi te [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i te kanikani, te tai chi, te yoga, te kauhoe me ngā rōpū hīkoi, me ngā akomanga e mārama ana ki te mate wareware ina wātea.
+- **Rōpū waiata me ngā memory café.** He rōpū mārie ka taea ai e te tangata e noho ana me te mate wareware me ōna hoa te tūtaki ki ētahi kē e pēnei ana te āhua.
 
-## Small changes that keep activities enjoyable
+## Ngā panoni iti hei pupuri i te reka o ngā mahi
 
-| If this is getting harder | Try this |
+| Mēnā kei te uaua | Ngana tēnei |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| He pōkākā, he haruru ngā wāhi | Haere i ngā wā mārie, whiriwhiria ngā rōpū iti, noho i te taha o te rūma |
+| Te maumahara ki ngā ingoa hou | Whakaingoatia ia tangata i ia wā; tonoa ngā rōpū kia whakamahi i ngā kāri ingoa |
+| Te whai i ngā mahere maha-hātepe | Tuhia ngā hātepe, te whakaraupapa rānei i ngā mea katoa i mua |
+| Te ngenge | Haerenga poto ake, okiokinga i muri, kaua he mahi kē i taua rā |
+| Te whai i te tatau i tētahi tākaro | Tākaro ā-tīma, whakamāmāhia ngā ture, kaua e tuhi tatau |
+| Te kimi kupu | Whakaraua he wā; tukua he kupu anake mēnā e kī ana tō tohu kua whakaaetia |
 
-## When to slow down
+## Ina tika te whakapōturi
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Whakamutua, whakarerea rānei tētahi mahi ina nui ake te pēhanga i te reka. Ko te whakapaenga whakaharahara, te karo i tētahi hobi, te kī “Kāore e taea e au tēnei” he take mō te kōrero ātaahua, kaua e akiaki. He iti ake te putanga o te mahi rite, ā, he ngāwari tonu. Ina hiahia te tangata he āwhina nui ake ki te tīmata me te whai hātepe, ka pai pea ngā whakaaro i [ngā mahi wāhanga waenga](/activities/middle-stage/). Mō ētahi atu kōrero whaiaro, titiro ki [ngā tohutohu kōrero](/caregiving/communication-tips/), ā, mō ētahi atu whakaaro, titiro ki [101 mahi](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Me tautoko anō ngā hoa. Ko te wāhanga timatanga he wā pai ki te hanga i tō whatunga āwhina; titiro ki [te tiaki i a koe anō](/caregiving/caregiver-self-care/).
