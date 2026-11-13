@@ -1,32 +1,28 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Ngā mahi maumahara: pouaka maumahara, pukapuka o te oranga, whakaahua"
+seoTitle: "Ngā mahi maumahara mō te mate wareware: kāore he whakamātau"
+description: "Me pēhea te tiritiri maumahara ki te tangata whai mate wareware kāore he whakamātau: kōrero whakaahua, pouaka maumahara, pukapuka o te oranga."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Ko te maumahara te hari tahi i te wā o mua mā ngā whakaahua, ngā taonga, te waiata me ngā kōrero. Hangaia he pouaka maumahara, whakaritea he pukapuka o te oranga māmā, ā, titiro i ngā whakaahua i te taha o tētahi. Kaua e whakamātau: kaua e kī "Kei te maumahara koe?" me "Ko wai tēnei?", whakamahia ngā tono tuwhera pēnei i "Korerohia mai mō tēnei." He mea nui te kōrerorero mahana ki te tika o ngā kōrero.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Ko te maumahara he kōrerorero, ehara i te whakamātautanga. Kāore e nui te tika; ko te harikoa e nui ana."
+  - "Whakakapia 'Kei te maumahara koe...?' me 'Ko wai tēnei?' ki ngā kōrero me ngā tono pēnei i 'Korerohia mai mō tēnei rā.'"
+  - "He pouaka maumahara o ngā taonga o te oranga o te tangata hei pupuri ki ngā ringa me te kōrerorero."
+  - "Ka āwhina he pukapuka o te oranga i te whānau, i ngā manuhiri me ngā kaimahi tiaki ki te mōhio ki te tangata, ehara ko te whakatauranga anake."
+  - "Mēnā ka pōuri te maumahara, āwhinatia tuatahi, ā, hoki atu mārie."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "He aha te maumahara mō te hunga whai mate wareware?"
+    a: "Ko te maumahara he tiritiri i ngā maumahara me ngā wheako o mua, he auau ki te āwhina a ngā whakaahua, ngā taonga, te waiata, ngā ataata. Ka taea te mahi takitahi, ki tētahi rōpū rānei. Ko te whāinga he kōrerorero harikoa, he tikanga, ehara i te whakamātau i ngā mea ka taea e te tangata te maumahara."
+  - q: "He aha kāore e tika kia pātai au 'Kei te maumahara koe?'"
+    a: "Ko ngā pātai whakamātau mahara ka pāhekeheke, ka māharahara pea te tangata ina kore e hua mai te whakautu. Kua rārangihia e te National Institute on Aging te pātai mēnā e maumahara ana tētahi ki tētahi mea, ki tētahi tangata rānei hei mea kia karo. Me whakamārama i tāu e kite ana, ā, waiho kia tāpiri te tangata i tāna e pai ai."
+  - q: "He aha ka tāpiri ki te pouaka maumahara?"
+    a: "Kōwhiria ngā taonga haumaru, pakari e hono ana ki te oranga o te tangata: ngā mea mahi, ngā taputapu hobi, tētahi kākahu pai, ngā kāri poutāpeta, ngā kāri tohu kai, ngā taonga hākinakina, ngā ātahanga o ngā whakaahua. Karo ngā mea koi, ngā mea iti ka horomia pea, me ngā taonga kāore e whakahokia."
+  - q: "Ki te hē ngā kōrero o te tangata?"
+    a: "Waiho kia pēnei. Mēnā ka kī tōku whaea he tuahine tōna kei te whakaahua, ahakoa he whanaunga tērā, he pai tērā. Ko te whakatika ka huri i te wā mahana hei whakamātautanga. Whai i te kōrero e kōrerohia ana e rātou, ka harikoa tahi."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +37,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Ko te maumahara te hari tahi i te wā o mua. Mō te nuinga o te hunga whai mate wareware, ka mārama tonu ngā maumahara o ngā tekau tau kua pahure atu i ngā mea o te ata nei. Ka taea e ngā whakaahua, ngā taonga mōhio, te waiata me ngā kōrero te whakatuwhera i aua maumahara, ā, ka hoatu he mea mahana hei tiritiri. Tētahi ture: he kōrerorero tēnei, kaua rawa he whakamātau.
 
-## What is reminiscence, and how is it different from quizzing?
+## He aha te maumahara, ā, he rerekē pēhea i te whakamātau?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Ko te maumahara he tiritiri i ngā maumahara mā ngā whakaahua, ngā taonga, te waiata, te ataata, i te tere o te tangata. Ka whakamārama te [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i tēnei hei tiritiri i ngā wheako o mua me ngā kōrero mā ngā whakaahua, ngā taonga, ngā ataata, te waiata rānei, i roto i tētahi pukapuka, i runga i tētahi papa rorohiko. He rerekē te whakamātau: ka pātai ki te tangata kia whakahoki i te whakautu tika, ā, ka pōhēhē pea, kāore e harikoa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+Ka rārangi te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) i te pātai mēnā e maumahara ana te tangata ki tētahi mea, ki tētahi tangata rānei hei mea kia karo. Ka tūtohu te [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kia karo i ngā pātai e whakawhirinaki ana ki te mahara poto, kia kōrero mō te wā tawhiti ake o mua.
 
-| Instead of | Try |
+| Kaua e kī | Whakamātauria |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Kei te maumahara koe ki tēnei?" | "He rā harikoa tēnei pea. Korerohia mai." |
+| "Ko wai tēnei?" | "Anā a Whaea Keke Rose i te takutai. Titiro ki taua pōtae." |
+| "Ko tēhea tau tēnei?" | "He pēnei te whare tawhito. He pēhea te noho ki reira?" |
+| "Kāo, ehara a Bill tērā, ko Frank tērā." | "He pai rawa te āhua o tēnei tangata." |
+| "Kua kōrero mai koe i tērā i mua." | "He pai ki ahau tērā kōrero." |
 
-## How do you talk about photos without quizzing?
+## Me pēhea te kōrero mō ngā whakaahua kāore he whakamātau?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Tīmatahia mā te kī i tāu e kite ana, ā, waiho he wāhi hei tāpiri e te tangata mēnā ka pai ki a ia.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Noho taha ki taha.** Pupuri te pukaemi i waenga i a koe, kia titiro tahi ai koutou, kāore e whakamātau ana i tētahi tēpu.
+2. **Kōwhiria ētahi whakaahua.** Ko ngā whakaahua pai e rima he pai ake i te pouaka katoa. He nui, he mārama ngā tā pai rawa.
+3. **Ingoa i ngā tāngata mā koe anō.** "Anei koe me Pāpā i tō rā marenatanga" ka whakakore i te pehanga.
+4. **Whakamārama i ngā taipitopito.** Ngā kākahu, ngā waka, ngā kai, te rangi, ngā kanohi. "He waka pai. He ātaahua te māhorahora."
+5. **Tono, kaua e akiaki.** "Korerohia mai mō..." me "He aha tāu e kite ana?" He pai te noho puku.
+6. **Whai i tā rātou arahi.** Mēnā ka kōrero rātou mō tētahi atu kaupapa katoa, haere tahi ki reira.
+7. **Whakamutua i te wā e pai ana.** Kati te pukaemi i mua i te ngenge.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Mō ngā tohu whakaahua āwhina, whakamātauria [ngā kāri kōrero](/games/conversation-cards/). Hei huri ō whakaahua whānau ki tētahi kēmu takirua mārie, whakamātauria [ngā takirua whakaahua](/games/photo-pairs/); ka noho ngā whakaahua ka kōwhiria e koe ki tō pūtirotiro.
 
-## How do you make a memory box?
+## Me pēhea te hanga pouaka maumahara?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Ko te pouaka maumahara he ipu taonga o te oranga o te tangata hei pupuri, hei kōrero mō ērā.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Kōwhiria he pouaka pakari** he māmā te whakatuwhera, pēnei i te pouaka hū, te pouaka pōtae, te pouaka rākau iti.
+2. **Kōwhiria he kaupapa, he ranunga rānei.** Mahi, hobi, wāhi, tekau tau, he iti o ngā mea katoa rānei.
+3. **Kohia ngā taonga haumaru.** E rima ki te tekau ngā mea he tokomaha mō te tīmatanga.
+4. **Whakamahia he kāpi o ngā mea taonga.** Tuhia he kāpi o ngā whakaahua me ngā tuhinga kāore e taea te whakahoki, ā, pupuri ngā taonga taketake i te haumarutanga.
+5. **Tangohia ngā taonga kotahi i te wā.** Hoatu kotahi, kōrero mō tērā, ā, titiro ki te wāhi e heke ai te kōrerorero.
 
-Ideas to include:
+Ko ngā whakaaro hei whakauru:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Mahi:** he tohu ingoa, he taputapu iti, he tapanga kākahu mahi, he pukapuka rēkoata, he pine tapuhi, he pukapuka kai o te wharekai.
+- **Kāinga:** he kāri tohu kai i tōna ringa tuhi, he tauera horoi ipu, he kākahu pai, he here rānei.
+- **Hobi:** he rēhia ika kāore he matau, he pōro pēhiki, he pōro miro, he pēke purapura.
+- **Wāhi:** kāri poutāpeta, mahere, tētahi taonga o te haerenga, he pānui tāone i tērā pepa.
+- **Whānau:** he kāpi o ngā whakaahua, he whakaahua a tētahi tamaiti, he pānga marenatanga.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Waiho ngā mea ngoi, ngā mea iti ka horomia pea, me ngā maumahara ka pōuri pea, mēnā kāore koe e mōhio ka pai rātou ki reira.
 
-## How do you make a life-story book?
+## Me pēhea te hanga pukapuka o te oranga?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Ko te pukapuka o te oranga he pukaemi māmā o ngā whakaahua me ngā kupu poto mō te oranga o te tangata. He mea hei titiro tahi, ā, ka āwhina ki ngā manuhiri me ngā kaimahi tiaki ki te kite i te tangata katoa.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Kōwhiria he hanga.** He pinitā me ngā pānga pūkoro, he pukapuka whakaahua tāia, he whakaaturanga pūrere i runga i te papa rorohiko.
+2. **Whakaritea ētahi wāhanga.** Taiohitanga, kura, mahi, whānau, wāhi i noho ai, whakapono, hobi, kai pai me te waiata.
+3. **Tāpirihia kotahi, e rua whakaahua i te whārangi** me tētahi kupu poto, pū rahi: "Mary, 22 ōna tau, e tīmata mahi ana i te peeke."
+4. **Whakauruhia ngā mea e pai ai, ngā tikanga.** "Ka inu tī me te miraka. He pai ki a ia ngā himene Rātapu. Kāore e pai ki a ia te pouaka whakaata haruru." Ko tēnei e āwhina ai i te katoa e tiaki ana i a ia.
+5. **Whakaurua te tangata** i te rahi e pai ai ia, mā te kōwhiri whakaahua, te kōrero i ngā kōrero, te mātakitaki noa i tōna whakahiatotanga.
+6. **Hāpaina tonutia.** Kāore e tika kia oti i mua i te whai hua.
 
-## More reminiscence ideas
+## Ētahi atu whakaaro maumahara
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Whakatangihia ngā waiata o tōna taiohi** me te kōrero mō ngā wāhi e kawea ai ngā waiata ki a rātou. Tirohia [ngā mahi pūoro](/activities/music/).
+- **Mātakitaki ngā ataata kāinga, ngā wāhanga pouaka whakaata tawhito** nō ōna tau pai rawa.
+- **Tunua tētahi kai o tōna tamarikitanga**, ā, waiho ngā kakara kia arahi i te kōrerorero.
+- **Titiro ki tētahi mahere** o tōna tāone takiwā, me te whai i ngā huarahi mōhio.
+- **Pānuihia ngā rēta, ngā kōwaowao tawhito** me te kōrero mō ngā utu, ngā āhua o ngā kākahu me ngā waka.
+- **Rekoata ō rātou kōrero** ki tētahi waea, me tō whakaaetanga, mō te whānau.
+- **Tiritiri i ngā waea.** Whakaatu tētahi whakaahua i te waea ataata; tirohia [ngā waea me ngā waea ataata](/activities/phone-and-video-calls/).
+- **Kawea he whakaahua, he taonga ina toro koe.** Ka hoatu he aro māmā ki te toro; tirohia [te toro](/activities/visiting/).
 
-## What if a memory is painful?
+## Ki te pōuri tētahi maumahara?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Ko ētahi maumahara ka kawe mai i te pōuritanga, i te pōuri, i te mataku rānei. Ki te pōuri te tangata, whakamutua, awhinatia, ā, whakarerekētia mārie te kaupapa, te mahi rānei. Kaua e tautohetohe mō te mea i pā. Ka tohutohu te Family Caregiver Alliance kia kaua e whakapau kaha ki te whakapono i te tangata he hē tāna, ā, kia whakautu ki ngā kare ā-roto e whakaatuhia ana, he pono. Ina kōrero rātou mō tētahi kua mate me te mea e ora ana, whakautu ki te kare: "Kei te ngaro koe ki a ia. Korerohia mai mō ia."
 
-## What does the research say?
+## He aha ngā rangahau e kī ana?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Ko tētahi [arotake Cochrane mō te maumahara](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), e 22 ngā whakamātautanga me te 1,972 tangata, i kitea he rerekē, he iti, he rerekē hoki i runga i te wāhi me te āhua. Kāore he taunakitanga o te kino ki te hunga whai mate wareware. Ka tūtohu mātou i te maumahara nā te mea ka hanga ai te wā mahana, whai take tahi, ehara i te rongoā. Mō ētahi atu kōrerorero māmā, tirohia [ngā tohutohu kōrerorero](/caregiving/communication-tips/).

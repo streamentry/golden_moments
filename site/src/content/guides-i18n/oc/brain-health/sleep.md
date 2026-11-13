@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Son e santat del cervèl : çò que ditz la recercha e çò que ajuda"
+seoTitle: "Son e demència : çò que ditz la recercha"
+description: "Çò que ditz la recercha sus lo son e lo risc de demència, perque l'idèa del nettejatge del cervèl es encara precòça, e de bonas habituds de son."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  D'uns estudis de longa durada ligan lo son court a l'edat adulta a un mai gròs risc de demència, e la recercha de laboratòri suggerís que lo son pòt ajudar lo cervèl a evacuar los residús. Aquesta prova es encara precòça, e la Comission Lancet de 2024 a pas nomenat lo son coma factor de risc modificable. Las bonas habituds de son ajudan lo benèstar cada jorn. Los problèmas de son dins la demència son corrents e valon la pena d'en parlar amb un metge.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Un estudi britanic que seguiguèt prèp de 8,000 personas pendent 25 ans a ligat dormir sèis oras o mens al mitan de la vida a un mai gròs risc de demència."
+  - "Los cambiaments del son pòdon tanben èsser un primièr signe de demència, donc es malaisit de destriar la causa de l'efièch."
+  - "La recercha sus lo son que nettèja la beta-amiloïde del cervèl es reala mas precòça, en granda part sus de rats."
+  - "L'apnèa del son es correnta, tractabla e ligada a la demència dins los estudis ; los ronflaments fòrts e la somnolència de jorn valon la pena de verificar."
+  - "Comencetz, arrestatz ni cambiatz jamai un medicament per dormir sens l'avís d'un metge."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Lo mal dormir causa l'Alzheimer ?"
+    a: "Aquò es pas estat demostrat. D'uns estudis ligan lo son court a un mai gròs risc de demència, mas la demència mesma pertorba lo son, sovent d'annadas abans lo diagnostic. La Comission Lancet de 2024 a jutjat la prova tròp inconstanta per nomenar lo son coma factor de risc modificable."
+  - q: "Quant de son an besonh las personas agèdas ?"
+    a: "L'Institut nacional de la vielhesa ditz que las personas agèdas an besonh de quasi lo meteis que los autres adults, 7 a 9 oras per nuèch. Mantunas personas agèdas se couchan e se levan mai lèu qu'abans, çò qu'es corrent."
+  - q: "Perque una persona amb demència dorm de jorn e se desvelha de nuèch ?"
+    a: "La demència pòt afectar l'orlòg biologic, donc los moments de son e de vigília se mesclan. La doleur, l'enueg, la fam o los efièches d'un medicament pòdon tanben jogar un ròtle. La lutz del jorn, una activitat cada jorn e una vesprada calma pòdon ajudar. Un metge pòt cercar las causas que se pòdon tractar."
+  - q: "Dèvi balhar un ajut per dormir a la persona de qui me ocupi ?"
+    a: "Parlatz d'abòrd amb lo metge de la persona, inclús dels produits sens ordonança. L'Institut nacional de la vielhesa nòta que d'uns medicaments per dormir pòdon aumentar lo risc de vertigas, de caduas e de confusion dins las personas amb Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Lo son e la santat del cervèl son clarament ligats, mas la faiçon es encara en estudi. D'uns estudis ligan lo son court a un mai gròs risc de demència. La demència, a son torn, pertorba sovent lo son. Aquesta pagina explica çò que la recercha mostra e çò que mostra pas, balha de bonas habituds de son e tracta dels problèmas de son corrents dins la demència. Balha pas de conselhs sus los medicaments per dormir ; aquela discussion pertany al metge.
 
-## Is poor sleep linked with dementia?
+## Lo mal dormir es ligat a la demència ?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+D'uns estudis de longa durada ligan lo son court a un mai gròs risc de demència, mas la prova es pas establida.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Un estudi britanic de 25 ans.** Los recercaires an seguit prèp de 8,000 adults dins l'estudi [Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Las personas que dormián sèis oras o mens a 50 o 60 ans avián un mai gròs risc de demència mai tard que las que dormián sèt oras. Las que dormián sèis oras o mens a 50, 60 e 70 ans avián un risc d'environ 30% mai aut que las que dormián regularament sèt oras. Èra un estudi observacional, donc mostra un ligam, pas una causa.
+- **Lo punt de vista de la Comission Lancet.** La [Comission Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a pas ajustat lo son a sa lista de 14 factors de risc modificables. Jutgèt la prova pas pro constanta. Una rason es la « causalitat inversa » : los cambiaments del cervèl que provòca la demència comencen annadas abans lo diagnostic e pòdon pertorbar lo son. Dins un estudi grand, un ligam entre dormir long e demència desapareissiá quand los cinc primièrs ans de seguiment èran metuts a despart.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Donc una nuèch corta de temps en temps es pas un motiu d'inquietud. Un son regular e de bona qualitat val la pena d'aver, perque ajuda l'umor, la vigilança e la seguretat uèi.
 
-## What is the "brain-clearing" sleep research?
+## Qu'es la recercha sul son « nettejant » del cervèl ?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Podètz aver legit que lo son « neteja » lo cervèl. Aquesta idèa ven d'una recercha reala, mas es encara precòça.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **En rats.** Un estudi de 2013 [descrit pel NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) a trobat que l'espaci entre las cellulas del cervèl creissiá d'environ 60% quand los rats dormián. Lo fluid circulava mai facilament pel cervèl, per lo sistèma que los recercaires apelan glimfatic. La beta-amiloïde, una proteïna ligada a l'Alzheimer, s'evacuava mai lèu del cervèl dels rats que dormián.
+- **En personas.** Un pichon [estudi de 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) a explorat 20 adults sans de 22 a 72 ans après una nuèch normala e après una nuèch sens son. Après la nuèch sens son, lo senhal d'un escanèr cerebral per la beta-amiloïde a aumentat d'environ 5% dins una zòna que inclutz l'hipocampe, una region importanta per la memòria. Los autors an apelat aquò una prova preliminària. Sabián pas se lo cambiament desapareis après lo repaus, ni se reflecteis una evacuacion mai lenta o una produccion mai granda d'amiloïde.
+- **Es un camin dobles.** La Comission Lancet nòta que l'acumulacion d'amiloïde pòt ella mesma pertorbar lo son de las personas agèdas.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Aquestas trobadas ajudan a explicar perque los recercaires s'interèssan al son. Mostran pas que un melhor son previna l'Alzheimer.
 
-## What sleep habits may help?
+## Quinas habituds de son pòdon ajudar ?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Las personas agèdas an besonh de 7 a 9 oras de son per nuèch, coma los autres adults, segon l'[Institut nacional de la vielhesa (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Sas suggestions inclusan :
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Gardar un ritme regular.** Se couchar e se levar a la meteissa ora cada jorn, mesmes lo cap de setmana.
+- **Far una rotina per se calmar.** Legir, escotar una musica doça o prene un banh caud abans de dormir.
+- **Rendre la cambra confortabla,** pas tròp caud ni tròp freg.
+- **Limitar la cafeïna a la fin del jorn.** Lo café, lo tè, lo soda e lo chocolat pòdon empachar de dormir.
+- **Evitar l'alcòl,** mesmes en quantitats pichonas, aconselha la NIA.
+- **Evitar los gròssos repas dins las doas o tres oras abans de dormir,** e las grandas begudas a la fin del jorn.
+- **Far d'exercici regularament, mas pas dins las 3 oras abans de dormir.** Vejatz nòstra [guida sus l'exercici](/brain-health/exercise/).
+- **Gardar los ecrans fòra de la cambra.** La NIA suggerís de pas mirar la television ni utilizar un ordinador, un telefòn o una tablèta dins la cambra.
+- **Evitar las siestas de fin de jorn o de vesprada** se podètz.
 
-## Sleep problems in dementia
+## Los problèmas de son dins la demència
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Los cambiaments del son son corrents dins la demència. La [NIA ne lista](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) : dormir fòrça o pas pro, desvelhar-se mantun còp de nuèch e fòrça siestar de jorn. Descriu tanben lo « sundowning » : agitacion, inquietud o confusion que comença o s'agrava quand la lutz del jorn baissa.
 
-Caregiver tips from the NIA include:
+Los conselhs de la NIA per los aidants inclusan :
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Prene la lutz del jorn e de movement lèu.** Sortir a l'exterior o se sétar pròche d'una fenèstra durant lo jorn, e ajudar la persona a bolegar cada jorn. La lutz viva pòt ajudar a reajustar l'orlòg biologic.
+2. **Planificar las activitats energicas al matin.** Ensajatz de far la banhada al matin o de manjar lo repas mai important a miègjorn.
+3. **Far de siestas corlas e lèu.** Limitatz las calinas de fin de jorn.
+4. **Far una vesprada calma.** Abaissatz las lums, reduisètz lo brui e fasètz escotar una musica doça se la persona l'aprecia. Nòstra guida sus [l'inquietud de fin de jorn](/caregiving/late-day-restlessness/) n'a mai.
+5. **Gardar una rotina de dormir establa.** Legir a aut vòl a la meteissa ora cada nuèch es un exemple de la NIA. Una [rotina quotidiana establa](/activities/daily-routine/) ajuda tanben.
+6. **Limitar la cafeïna e l'alcòl.**
+7. **Utilizar de lampetas de nuèch** dins la cambra, lo corredor e la salla d'aiga.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Per los desvelhaments de nuèch, los [conselhs de seguretat a l'ostal](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) de la NIA inclusan de lampetas de nuèch o de captors de lutz automatics, de barras de sosten dins la salla d'aiga, de nastre de color viu sul bòrd de las escalièras, e de medicaments gardats dins un luec barrat.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Una activitat calma e tranquila lo vèspre pòt ajudar a vos calmar tots dos. Ensajatz una pausa de [Respiracion calma](/games/calm-breathing/) lenta o quauques [Cartas de conversa](/games/conversation-cards/) relaxadas. Evitatz tot çò que estimula près del lièit, e arrestatz quand la persona n'a pro.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Lo son trincat espuisa tanben los aidants. La [guida de cura de vos-meteis](/caregiving/caregiver-self-care/) explica de biais de se reposar e d'èsser ajudat.
 
-## What about sleep apnea?
+## E l'apnèa del son ?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+L'apnèa del son causa de pausas corlas de respiracion pendent lo son, sovent mantun còp per nuèch. La NIA ditz que, s'es pas tractada, pòt menar a de problèmas coma la tension arterial elevada, un acident vascular cerebral o de pèrdas de memòria. Los signes son los ronflaments fòrts e la somnolència de jorn, e fòrça personas o saben pas qu'o an. La Comission Lancet descriu una revisada de 11 estudis dins la qual las personas amb apnèa del son avián un risc d'environ 43% mai aut de demència. Pauc d'aquestes estudis tenon compte del pes, donc lo ligam es incert.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+L'apnèa del son pòt èsser diagnosticada e tractada. La NIA nòta que una maquina CPAP ajuda quasi sempre. Se vos o la persona que vos ocupatz ronfla fòrt, s'arresta de respirar durant lo son o es fòrça somnolenta de jorn, parlatz-ne a un metge.
 
-## A note about sleep medicines
+## Una nòta sus los medicaments per dormir
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Balhem pas de conselhs sus los medicaments ni sus los complements per dormir. La NIA nòta que los medicaments per dormir pòdon ajudar una temporada, mas son pas una guerison de l'insomnia. Nòta tanben que d'uns medicaments balhats per ajudar las personas amb Alzheimer a dormir pòdon aumentar lo risc de vertigas, de caduas e de confusion. Comencetz, arrestatz ni cambiatz jamai cap de medicament per dormir, inclús los ajuts sens ordonança, sens parlar a un metge o a un farmacian.
 
-## Talk with a doctor
+## Parlatz amb un metge
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Consultatz un metge se vos o la persona que vos ocupatz es sempre fatigat, a de mal dormir la màger part de las nuèchs, ronfla fòrt o a de pausas de respiracion de nuèch. Se los problèmas de son dins la demència duran, la [NIA aconselha](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) de demandar un avís medical. Un bilan pòt trobar de causas coma la doleur, un autre trebolh del son, una malautia o un efièch secondari d'un medicament. Una confusion subita, o un cambiament subit del son amb una confusion, demanda una cura d'urgéncia. Legissètz [quand consultar un metge](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Aquesta pagina es d'informacion generala, pas un avís medical. Vejatz nòstre [avertiment medical](/medical-disclaimer/).

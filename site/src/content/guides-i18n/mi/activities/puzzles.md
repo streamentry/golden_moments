@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Ngā panga mō te hunga whai mate wareware: panga whakaahua, panga kupu, panga ataata"
+seoTitle: "Ngā panga mō te mate wareware: panga whakaahua, kupu"
+description: "Me pēhea te kōwhiri panga mō te tangata whai mate wareware: rahi o ngā wāhanga, whakaahua, tuhi pū rahi, mahi tahi, me te whakamāmā."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Ko te panga pai rawa mō te tangata whai mate wareware, ko tētahi ka taea e ia te oti me tētahi āwhina iti, ā, ka harikoa ia i te haere. Kōwhiria he panga whakaahua he iti ngā wāhanga, he nui, me tētahi whakaahua pakeke mārama; pupuri te whakaahua o te pouaka i te tirohanga, ā, whakaritea ngā wāhanga taha i te tuatahi. Ko ngā panga kupu me ngā panga kupu whakarārangi he pai rawa ki te tuhi pū rahi. Ko ngā panga ataata māmā e whā ngā wāhanga he pai mō te wāhanga waenga. Whakamutua i te wā e harikoa ana.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Kōwhiria i runga i te āhua o te mahi, kaua i te tapanga wāhanga: ki te rite te panga ki te mahi uaua, whakamātauria tētahi me ngā wāhanga iti ake."
+  - "He pai ake ngā wāhanga nui, pakari, me te whakaahua mārama me ngā wāhanga tae motuhake, i ngā wāhanga iti, me ngā rangi nui."
+  - "He mea nui ngā whakaahua pakeke. Ngā māra, ngā kīhini, ngā waka me ngā kararehe, kāore he whakaahua tamariki."
+  - "Ko te mahi tahi te take. Tukua ngā wāhanga, whakarōpūa ngā taha, pupuri te uhi pouaka i te tirohanga."
+  - "Ko ngā rapu kupu pū rahi me ngā panga ataata māmā e 4, e 9 ngā wāhanga he koreutu i tēnei paetukutuku."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "E hia ngā wāhanga pai rawa mō te tangata whai mate wareware?"
+    a: "Kāore he tau tika kotahi. Tētahi kua mahi panga 1,000 wāhanga pea ka harikoa tonu ia ki ētahi rau i te tīmatanga, ā, ētahi ka pai rawa ki te tekau-mā-rua pea o ngā wāhanga nui. Mēnā he mahi uaua te panga, he raru rānei te hua, nukuhia ki ngā wāhanga iti ake. Ko tā mātou panga whakaahua ataata e 4, e 9 ngā wāhanga."
+  - q: "He pai ngā panga whakaahua mō te hunga whai mate wareware?"
+    a: "He maha ngā tāngata e harikoa ana, ina pai rātou ki ngā panga i mua. Ka hoatu e te panga he mahi ki ngā ringa, he whāinga mārama, he whakaahua hei kōrerohia. Kāore he panga kua whakaatuhia ka rongoā, ka whakamāhiti i te mate wareware, nō reira kōwhiria mō te harikoa me te hoa."
+  - q: "He aha taku mahi ina kore e taea e te tangata te whakahaere i te panga whakaahua?"
+    a: "Whakaitia, ā, mahia he nui ake e koe anō: hoatu tētahi wāhanga i te wā, ā, waiho ngā wāhanga whakamutunga anake mā rātou. Whakamātauria te panga ataata e 4 ngā wāhanga, te whakarōpū wāhanga ā-tae, te titiro noa ki te whakaahua kua oti te hanga tahi."
+  - q: "Ka pai ngā panga kupu whakarārangi me ngā rapu kupu mō te mate wareware?"
+    a: "Ka pai pea i te wāhanga tuatahi, i te tuhi pū rahi. He māmā ake ngā rapu kupu me ngā kupu anake i te taha, i te raro, i ngā kupu whiti, pōkai rānei. Pānuihia ngā whakamārama, te rārangi kupu ā-reo, ā, mahia tahi."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ko tētahi panga whakaahua kua horahia ki runga i te tēpu kai tētahi o ngā mahi māmā rawa atu hei tiritiri. Ka taea te noho tahi kāore he kōrero, ka hoatu te whakaahua he take kōrerorero, ā, he pai te whakaurunga o te wāhanga whakamutunga. Ahakoa, me rerekē ngā panga i te rerekētanga o te mate wareware. Ko te panga he uaua rawa ka huri te ahiahi mārie hei mea pōuri. Ka kōrero tēnei whārangi mō te kōwhiri me te whakarite i ngā panga whakaahua, ngā panga kupu me ngā panga ataata māmā, ā, me te mahi ina uaua.
 
-## Are puzzles good for people with dementia?
+## He pai ngā panga mō te hunga whai mate wareware?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+He maha ngā tāngata e harikoa ana, ina pai rātou ki ngā panga i mua. Ka rārangi te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i ngā kupu rapu, ngā tākaro kāri, ngā tākaro papa hei mahi mō te wāhanga tuatahi, ā, ka kōrero te [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mō ngā kēmu me ngā panga ataata i runga i ngā papa rorohiko hei huarahi ki te noho hihiri.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Ehara ngā panga i te rongoā. Kāore he panga kua whakaatuhia ka whakaroa, ka whakamutu rānei i te mate wareware; ko tā mātou aratohu mō [ngā kēmu hinengaro me te mate wareware](/brain-health/brain-games/) e whakamārama ana i ngā rangahau. Ko te take o te panga he hāora pai, ka mau ki a koe tahi. Ka whakarāpopoto te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i tēnei: whakaarotia te harikoa, ehara i te angitu.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Me pēhea te kōwhiri i tētahi panga whakaahua mō te tangata whai mate wareware?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Whakaarohia te mea e pai ana ki te tangata, me te āhua o tōna panga whakamutunga, ehara i te tapanga wāhanga.
 
-### Number of pieces
+### Te tatau o ngā wāhanga
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Kāore he tau tika. Ka harikoa pea tētahi tangata i mahi panga i te roa o tōna oranga ki ētahi rau wāhanga i te tīmatanga, ā, ko tētahi atu ka pai rawa ki te tekau-mā-rua. He ture ngāwari: mēnā he mahi uaua te panga whakamutunga, kōwhiria tētahi kei te hāwhe pea o ngā wāhanga. Mēnā i oti tere, ā, i hiahia ake rātou, piki kia iti ake.
 
-### Piece size and feel
+### Te rahi o ngā wāhanga me te ahua
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **He nui ake ngā wāhanga** te māmā ki te kite, ki te hopu, ki te huri.
+- **Pakari, matotoru ngā wāhanga** ka tū tonu, ka ora i te taka iho.
+- **He mata kāore e whiti** ka whakaiti i te rama i raro i ngā rama me ngā matapihi.
+- **Karo ngā wāhanga iti** mēnā ka hoatu pea e te tangata ki tōna waha, ka pā mai ki a ia i muri ake i te mate wareware.
 
-### The picture
+### Te whakaahua
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Ngā kaupapa pakeke.** Ngā māra, ngā kīhini, ngā waka tawhito, ngā kararehe o te pāmu, tētahi tāone takutai, tētahi mahi hākinakina e pai ana ki a ia. Kāore he kiriata, kāore he mea e rite ana ki te kaupapa tamariki.
+- **Ngā wāhi tae motuhake.** He pātene pai te whare whero, te poti kikorangi me te mara kākāriki, ā, kāore he rangi e kapi ana i te hauwhā o te panga.
+- **Mōhio, whaiaro.** He whakaahua o tētahi wāhi i noho ai rātou, o tētahi mahi i aroha ai rātou, he kōrero nui. Ka taea e ētahi toa tā te whakahuri i tētahi whakaahua whānau ki te panga.
 
-## How do you do a puzzle together?
+## Me pēhea te mahi panga tahi?
 
-Set it up so the person can get straight to the enjoyable part.
+Whakaritea kia taea e te tangata te tomo ki te wāhanga harikoa.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Kōwhiria he wāhi pai.** He rama pai, he tūru me ngā ringa, he tēpu, he papa rānei hei noho ai te panga.
+2. **Whakaarahia te uhi pouaka** kia kitea e tātou te rua.
+3. **Huria ngā wāhanga ki runga** i mua i te tīmata.
+4. **Whakarōpūa ngā taha** mā koe anō, mā te tīmatanga o te rite rānei, ā, waiho te waenga mā rātou.
+5. **Whakarōpūa ngā wāhanga ā-tae** ki ētahi papa, pereti māmā.
+6. **Hoatu he wāhanga kotahi i te wā** mēnā he nui rawa te pūtau. "Ki taku whakaaro he wāhanga o te whare kararehe tēnei."
+7. **Kōrerohia te whakaahua,** kaua te ahunga. "He rite tēnei ki te poti a tōku pāpā."
+8. **Waiho kia noho.** Hoki mai ki te panga i ngā rā maha. Kāore he wawe.
+9. **Whakamutua i te pai,** i muri i te tomokanga o tētahi wāhanga, ā, i te wā e pai tonu ana.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Ka tohutohu te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kia āwhina i te tangata kia tīmata, kia mātakitaki mō te pōuritanga, ā, kia waiho kia mātakitaki noa mēnā he pai atu ki a rātou. Ko te mātakitaki i a koe e tuku ana i ngā wāhanga, me te tohu mēnā ka tomo tētahi ki hea, he mahi tonu tērā.
 
-## Easy online puzzles
+## Ngā panga ataata māmā
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+He pai ake ētahi āhuatanga o te panga ataata: kāore he wāhanga ngaro, he whakaahua nui ka ki i te mata, ā, kāore he tēpu hei whakakore.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ko tā mātou [panga whakaahua](/games/picture-puzzle/) he tapahi i tētahi whakaahua ki ngā wāhanga e 4 e 9. Pāwhiri e rua wāhanga kia whakawhiti, kia oti ai te whakaahua. Ka noho te whakaahua oti ki te mata hei arahi, kāore he wā, ā, ka taea te whakamutu i ngā wā katoa. Ka pai ngā wāhanga e whā ki te tokomaha o ngā tāngata i te wāhanga waenga me tētahi tangata e noho tata ana.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Mō ngā mahi pikitia māmā ake, whakamātauria [Rapua te mea rite](/games/find-the-same/), ka pāwhiri koe i te pikitia e rite ana ki tētahi i runga, [Kōmaka tahi](/games/sort-together/), ka hoki ngā pikitia ki ngā kete pēnei i te kīhini, te māra.
 
-## Word puzzles: word searches and crosswords
+## Panga kupu: rapu kupu me ngā panga kupu whakarārangi
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+He pai ngā panga kupu mō ngā tāngata i pai tonu ki a rātou, i te wāhanga tuatahi noa iho o te mate wareware.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Rapu kupu pū rahi.** Ko tā mātou [Rapu kupu pū rahi](/games/word-search/) he reta nui, he kupu iti noa, he rere ki te taha, ki te raro, kāore rawa he kōpikopiko, he tuarā. Takaroa i runga i te mata, ā, ka taea hoki te tā.
+- **Pānuihia te rārangi.** Tētahi tangata e pānui ana i tētahi kupu, tētahi atu e rapu ana. He pai te porowhita i te reta tuatahi anake.
+- **Ngā panga kupu whakarārangi pū rahi** mai i ngā pukapuka panga ka taea i te wāhanga tuatahi. Pānuihia ngā whakamārama, tohaina te pene, whakakīa ngā whakautu tahi. He pai ake ngā panga kupu ngāwari, pūtake kaupapa i ngā mea uaua.
+- **Kōrerohia ngā kupu.** "Māra" ka arahi pea ki tekau meneti mō ngā tāmati.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Mō ētahi atu mahi pepa, me pēhea te tā hei māmā te kite me te pupuri, tirohia [ngā mahi hei tā koreutu mō te mate wareware](/activities/printable/).
 
-## Which puzzles suit each stage?
+## He aha ngā panga e tika ana mō ia wāhanga?
 
-Stages overlap, and good and hard days are normal.
+He kōwhiringa ngā wāhanga, ā, he pai ngā rā pai me ngā rā uaua.
 
-| Stage | Puzzles that often fit | Your role |
+| Wāhanga | Ngā panga e pai ana | Tō mahi |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Tīmatanga | Ngā panga whakaahua mōhio me ngā wāhanga iti ake i mua, ngā rapu kupu pū rahi, ngā panga ataata e 9 ngā wāhanga | Hoa: whakarite kia kōwhiri rātou, āwhina ina pātaihia |
+| Waenga | Ngā panga whakaahua me te tekau-mā-rua pea o ngā wāhanga nui, ngā panga ataata e 4 ngā wāhanga, te rapu kupu pānuitia tahi | Whakaritea, whakarōpūa ngā wāhanga, tukua kotahi i te wā |
+| Whakamutunga | Te titiro ki te whakaahua kua oti tahi, Rapua te mea rite me ngā whakaahua e rua, te whakahaere i ētahi wāhanga nui | Tukua ki a rātou; ko tō rātou kanohi te mahi |
 
-## When should you make a puzzle easier, or stop?
+## Kaua rānei e māmā ake te panga, e mutu rānei?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Mātakitakina te hātepe, te tuku i ngā wāhanga, te "Kāore e taea e au" e auau ana, te kanohi awangawanga. He tohu aua mea hei panonitanga, ehara i te akiaki tonu.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Whakaitia.** Ngā wāhanga iti ake, ā, waiho anake ngā wāhanga whakamutunga mā rātou.
+- **Mahia he nui ake e koe anō**, ā, tonoa rātou ki te āwhina i ngā wāhanga māmā.
+- **Huri ki tētahi mea e tata ana:** te whakarōpū wāhanga ā-tae, tētahi panga ataata e 4 ngā wāhanga, te [Whārangi tae](/games/coloring/).
+- **Whakamutua.** Whakanohoia ki tahaki, kapu tī hei inu. Ka taea te hoki mai i tētahi rā kē, kāore rānei.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ina mahara ngā panga ki ngā mea uaua, he pai te tuku atu. He maha ētahi huarahi pai ki te whakapau wā pai tahi; ko tā mātou [101 whakaaro mahi](/activities/ideas/) he wāhi pai hei titiro.

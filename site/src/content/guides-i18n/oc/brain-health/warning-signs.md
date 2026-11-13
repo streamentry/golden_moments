@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Primièrs signes de la demència e quand consultar un metge"
+seoTitle: "Primièrs signes de la demència e quand consultar"
+description: "Primièrs signes de la demència, diferéncia amb lo vielhiment normal, causas tractablas dels problèmas de memòria e cossí se preparar a la consulta medicala."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Las pèrdas de memòria que pertorban la vida de cada jorn, las dificultats amb las tascas familhièras, la confusion sus la data o lo luòc e los cambiaments d'umor o de jutjament pòdon èsser de primièrs signes de demència. D'autras afeccions, inclusi los problèmas de tiroïda, la manca de vitamina B12, los efièches secondaris de medicaments, la depression e los problèmas de son, pòdon causar de cambiaments semblants. Sonque un clinician qualificat pòt diagnosticar. Una confusion subita demanda una cura d'urgéncia.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Un pauc d'oblid es corrent amb l'edat ; los cambiaments que pertorban la vida de cada jorn valon la pena de verificar."
+  - "L'Associacion Alzheimer descriu 10 signes d'alèrta, cadun amb un cambiament tipic de l'edat per comparar."
+  - "Los problèmas de tiroïda, la manca de vitamina B12, los efièches secondaris de medicaments, la depression, las infeccions e los problèmas de son pòdon tots afectar la memòria, e d'unas son tractablas."
+  - "Sonque un clinician qualificat pòt diagnosticar la demència ; los quizs e los autotests en linha pòdon pas."
+  - "Una confusion que ven de sobte, en d'oras o de jorns, pòt èsser un delir e demanda una cura medicala d'urgéncia."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "L'oblid es una part normala del vielhiment ?"
+    a: "Un pauc, òc. L'Institut nacional de la vielhesa ditz que perdre d'objèctes de temps en temps o oblidar una factura es generalament un oblid leugièr ligat a l'edat. La demència es pas una part normala del vielhiment. Los problèmas de memòria que fan dificila la vida de cada jorn, coma conduire, utilizar lo telefòn o trobar lo camin de l'ostal, valon la pena de verificar amb un metge."
+  - q: "Los problèmas de memòria pòdon èsser causats per quicòm mai que la demència ?"
+    a: "Òc. La NIA lista los problèmas de tiroïde, de rins o de fetge, los efièches secondaris de medicaments, la depression e l'angoissa, la manca de vitamina B12, l'abús d'alcòl, los problèmas de son, las infeccions e los traumatismes del cap, entre d'autres. Unas s'amelhoran un còp tractadas, e es una de las rasons per las qualas un bilan medical es important."
+  - q: "Pòdi far un test de demència a l'ostal ?"
+    a: "Non. Sonque un clinician qualificat pòt diagnosticar la demència, en se basant sus l'istoric medical, un examen fisic, de tests de memòria e de reflexion, de las analisis de laboratòri e a vegadas d'exploracions cerebralas. Fins los tests breus que utilizan los metges son pas suficients sols per diagnosticar la demència."
+  - q: "Qué far se qualqu'un deven subitament confús ?"
+    a: "Demandatz d'ajuda medicala de seguida. La confusion subita pòt èsser un delir, que lo VA descriu coma una urgéncia medicala. Contactatz d'immediat lo professional de santat de la persona o lo servici d'urgéncia de la zòna, demorar près de la persona, e notatz tots los medicaments que pren."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Notar de cambiaments dins vòstra pròpria memòria, o dins la d'un ser estimat, pòt èsser espaventós. Aquesta pagina pòt vos ajudar a decidir quand far una cita amb un metge e cossí vos preparar. Pòt pas vos dire se qualqu'un a una demència. **Sonque un clinician qualificat pòt diagnosticar la demència**, e de nombrosas afeccions que causan de problèmas de memòria son pas de demència del tot. Fasètz pas confiança en los quizs en linha ni los autotests.
 
-## What are the early signs of dementia?
+## Quins son los primièrs signes de la demència ?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+L'[Associacion Alzheimer](https://www.alz.org/alzheimers-dementia/10_signs) descriu 10 primièrs signes. Cadun es comparat amb un cambiament tipic de l'edat. Dins nòstres mots :
 
-| Sign worth checking | More typical with age |
+| Signe a verificar | Mai tipic amb l'edat |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Pèrda de memòria que pertorba la vida de cada jorn, coma oblidar d'eveniments recents o redemandar tot lo temps la meteissa causa | De còps oblidar un nom o un rendez-vous, e s'en recordar après |
+| Dificultat a planificar o a resòlver de problèmas, coma seguir una recèpta coneguda o gerir las factura | Un error ocasional amb las factura de l'ostal |
+| Dificultat a acabar las tascas conegudas a l'ostal, al trabalh o fòra | De temps en temps aver besonh d'ajuda per un reglatge del forn a microones o per enregistrar una emission de television |
+| Perdre lo fial de las datas, de las sasons o del luòc ont sètz | Se trompar de jorn de la setmana, puèi o trobar |
+| Nòus problèmas de jutjament de distància, de lectura o de distincion dels colors | Cambiaments de vista per las cataractas |
+| Nòus problèmas amb las paraulas, coma s'arrestar al mièg d'una conversacion o nomenar las cauzas amb lo mal nom | De còps de mal trobar lo mot just |
+| Metre las cauzas en de luòcs estranhs e èsser pas capable de tornar sus sos pas | Perdre d'objèctes de temps en temps e los tornar trobar en tornant sus sos pas |
+| Mal jutjament, coma amb l'argent o l'igiena personala | Prendre una decision mala de temps en temps |
+| Se restar de las activitats, del trabalh o de las activitats socialas | De còps pas aver enveja d'anar a una festa de familha o a un ambient social |
+| Cambiaments d'umor o de personalitat, coma venir confús, suspicios, temorós o angoissat | Aver de biais fixes de far las cauzas e se sentir irritable quand una rotina es pertorbada |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Un signe sol vòl pas dire demència. L'important es un **cambiament de çò que es normal per aquela persona**, sobretot un que fa la vida de cada jorn mai dificila.
 
-## How is normal aging different from dementia?
+## Cossí l'envelhiment normal es diferent de la demència ?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+La [NIA](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ditz que de nombrosas personas agèdas notan que recordan las cauzas mai lentament, o que perdon d'objèctes o oblidan una factura de temps en temps. Son generalament de signes d'un oblid leugièr. **La demència es pas una part normala del vielhiment.** Los problèmas de memòria seriós fan dificilas las activitats de cada jorn, coma conduire, utilizar lo telefòn o trobar lo camin de l'ostal.
 
-The NIA suggests talking with a doctor if someone:
+La NIA suggerís de parlar a un metge se qualqu'un :
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Demanda sovent las mesmas questions
+- Se perd dins de luòcs qu'a ben coneguts
+- A de dificultats a seguir una recèpta o de consignas
+- Venguèt mai confús sus la data, las personas e los luòcs
+- Cessa de se ocupar de se-meteis, coma manjar mal, pas se banhar o se comportar de manièra pas segura
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Qualques personas an un **trebolh cognitiu leugièr (MCI)**. Aquò vòl dire mai de problèmas de memòria o de reflexion que los autres de lor edat, mentre que gerisson encara la vida de cada jorn. La NIA ditz que lo MCI pòt èsser un primièr signe de l'Alzheimer, mas que tot lo monde amb MCI desvolopa pas l'Alzheimer.
 
-## What else can cause memory problems?
+## Qué mai pòt causar de problèmas de memòria ?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Mantunas causas mai que la demència pòdon afectar la memòria, e d'unas s'amelhoran amb un tractament. La NIA lista :
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problèmas de tiroïde, de rins o de fetge**
+- **Efièches secondaris de medicaments**
+- **Depression e angoissa**
+- **Manca de vitamina B12** o non manjar pro d'aliments sans
+- **Problèmas de son**
+- **Abús d'alcòl o de drògas**
+- **Infeccions, caulhòts de sang o tumors** dins lo cervèl
+- **Traumatisme del cap**, coma una commocion
+- **Estrés fòrt o dòl**, coma la retirada o la pèrda d'un conjuguèt
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Los problèmas d'audicion e de vista pòdon tanben èsser confondus amb la confusion ; vejatz nòstra [guida sus l'audicion](/brain-health/hearing/). Es per aquò que un bilan medical es important. Segon l'[Associacion Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), los metges ordenan sovent d'analisis de sang per verificar los problèmas de tiroïde, las mancas de vitaminas e las infeccions. Un bon [son](/brain-health/sleep/) e lo tractament de la depression valon tanben la pena d'èsser evocats.
 
-## Sudden confusion is an emergency
+## La confusion subita es una urgéncia
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Una confusion que ven rapidament, en d'oras o de jorns, demanda una cura medicala d'urgéncia.** Pòt èsser un delir. Lo [VA descriu lo delir](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) coma una urgéncia medicala e aconselha de contactar de seguida lo professional de santat de la persona o lo servici d'urgéncia de la zòna. Los signes inclusan :
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- De moments de pensada clara e d'autres de confusion
+- Dificultat a se concentrar
+- Pensada desorganizada
+- Èsser estranhament somnolent, o estranhament inquiet e agitat
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Aquò pòt arribar a tot lo monde, inclús a las personas que viuen ja amb una demència. Segon lo [NHS](https://www.nhs.uk/symptoms/confusion/), las causas correntas inclusan las infeccions (las infeccions urinàrias son correntas amb las personas agèdas e amb las personas amb demència), l'accident vascular cerebral, una glicemia basca dins las personas diabeticas, lo traumatisme del cap e qualques medicaments. Mentre s'espèra l'ajuda, demorar près de la persona e la rassegurar amb de mots cortes e simples. Far pas tròp de questions, e notar los medicaments que pren.
 
-## How do I prepare for the doctor's appointment?
+## Cossí preparar la consulta medicala ?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Una bona consulta comença amb de bonas notas. L'[Associacion Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggerís d'aportar :
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Una lista dels cambiaments** de memòria, d'umor e de comportament, amb d'exemples precisas e quand son començats
+2. **Los problèmas de santat passats e actuals**, inclús los antecedents familials de problèmas de memòria
+3. **Totas las ordonanças e los medicaments en vent liure**
+4. **Totas las vitaminas e los complements**
+5. **Vòstras questions**, coma los tests que se faràn, quant de temps duran e quand arribaràn los resultats
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Es tanben util d'aportar un membre de la familha o un ami que coneis plan la persona. La [NIA explica](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) que los metges pòdon demandar a la persona e a un membre de la familha de la santat, dels medicaments, de las activitats de cada jorn e dels cambiaments de comportament. Los metges pòdon tanben :
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Far de tests de memòria, de resolucion de problèmas, d'atencion, de comptatge e de lenga
+- Ordenar d'analisis de sang, d'urina e d'autras per cercar d'autras causas
+- Verificar la depression o d'autras condicions de santat mentala
+- Ordenar d'exploracions cerebralas coma lo TAC o la IRM
+- Renviar a un especialista, coma un geriatra, un neurologue, un psiquiatra geriatric o un neuropsicologue
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+La NIA nòta qu'una avaluacion cognitiva fa partida de la Visita Anuala de Benestar Medicare, çò qu'es un moment natural per parlar de las inquietudes. Fins los tests breus que utilizan los metges son pas suficients sols per diagnosticar la demència. Son un primièr pas cap a una avaluacion mai completa, e lo diagnostic pòt demandar mai d'una visita. La NIA aconselha que las personas que an de problèmas de memòria tornen veire lo metge cada 6 a 12 meses.
 
-## Raising the subject kindly
+## Abordar lo subjècte amb delicadesa
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Se vos inquietatz per qualqu'un d'autre, causissètz un moment calme e privat. Parlatz de cauzas precisas qu'avètz notadas, presentadas coma una inquietud per la santat de la persona e pas coma una critica. Suggerir un bilan general pòt sembrar mens espaventós. Incluètz la persona dins las decisions e parlatz-li coma a un adult. Nòstres [conselhs de comunicacion](/caregiving/communication-tips/) pòdon ajudar.
 
-## Talk with a doctor
+## Parlar amb un metge
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Se notatz de cambiaments de memòria, de reflexion, d'umor o de capacitats de cada jorn que son nòus e que se repeteisson, fasètz una cita amb un metge de medicina generala. Per una confusion subita, apelatz lo servici d'urgéncia de la zòna o lo professional de santat de la persona de seguida. Èstre verificat lèu permet de trobar las causas tractablas e, s'es una demència, mai de temps per planificar e trobar d'ajuda. Cuidatz-vos tanben dins aquesta situacion ; vejatz nòstra [guida de cura de vos-meteis](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Aquesta pagina es d'informacion generala, pas un avís medical. Vejatz nòstre [avertiment medical](/medical-disclaimer/).

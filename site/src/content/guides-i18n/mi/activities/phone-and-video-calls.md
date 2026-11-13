@@ -52,7 +52,7 @@ Ka noho tawhiti tētahi i tētahi tangata whai mate wareware, ka pōuri pea te n
 
 Ka hoatu e te mahi he hanga ki te waea. "Kei te pēhea koe? I whakahēnga koe i tēnei rā?" ka tono i te tangata kia maumahara, kia pūrongo, he uaua pea, he kino anō hoki. "Titiro, kua pakupaku ngā tāmati" kāore e tono he mea i a rātou.
 
-Ka kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) kāore e māmā ngā kōrerorero ki ngā rōpū nui i runga i te ataata, ā, ka tūtohu i te [whakaurunga o te hanga ki te waea](https://www.alz.org/help-support/caregiving/holidays) me ngā mea pēnei i te waiata, te tohatoha whakaahua.
+Ka kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) kāore e māmā ngā kōrerorero ki ngā rōpū nui i runga i te ataata, ā, ka tūtohu i te whakaurunga o te hanga ki te waea me ngā mea pēnei i te waiata, te tohatoha whakaahua.
 
 ## He aha ngā mahi e pai ana i runga i te waea ataata?
 

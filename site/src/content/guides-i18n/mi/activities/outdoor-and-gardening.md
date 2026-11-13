@@ -50,7 +50,7 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Mō te nuinga o ngā tāngata, ko te māra tētahi o ngā wāhi mōhio rawa e mōhio ana rātou. Ko te keri, te whakauru wai me te kohi pua he pūkenga i ako mai i a rātou i mua noa atu, ā, ko te noho ki waho e kawe mai ana i te hau hou, te rā me te waiata a ngā manu. Ka whakarārangi te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i te tiaki i ngā tipu, te whakato pua me ngā huawhenua, me te [kōrero mō te whakatipu o ngā tipu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hei mahi pea e pai ai ngā tāngata e mate wareware ana. Ko tēnei whārangi e kōrero ana mō ngā mea ka taea te whakamātau, me pēhea te whakamāmā i te māra kia pai ake te whakamahi, me pēhea te noho haumaru i te wera, i te rā me te haere kore whāinga.
+Mō te nuinga o ngā tāngata, ko te māra tētahi o ngā wāhi mōhio rawa e mōhio ana rātou. Ko te keri, te whakauru wai me te kohi pua he pūkenga i ako mai i a rātou i mua noa atu, ā, ko te noho ki waho e kawe mai ana i te hau hou, te rā me te waiata a ngā manu. Ka whakarārangi te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i te tiaki i ngā tipu, te whakato pua me ngā huawhenua, me te kōrero mō te whakatipu o ngā tipu hei mahi pea e pai ai ngā tāngata e mate wareware ana. Ko tēnei whārangi e kōrero ana mō ngā mea ka taea te whakamātau, me pēhea te whakamāmā i te māra kia pai ake te whakamahi, me pēhea te noho haumaru i te wera, i te rā me te haere kore whāinga.
 
 ## He aha ngā mahi ki waho me te māra e pai ana?
 
@@ -117,7 +117,7 @@ Ko te huarere makariri he take nui hoki. I te takurua, whakapoto i te wā ki wah
 
 ## Me pēhea te whakahaere i te haere kore whāinga ina haere tātou ki waho?
 
-Noho tonu tahi ki te tangata i ngā wā katoa e ki waho ana ia. Ka kī te Alzheimer's Association, [6 i ia 10 tāngata whai mate wareware](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ka haere kore whāinga i te iti rawa kotahi, ā, he maha ka pērā i tua atu i te kotahi. Ka taea te pēnei i ngā wā katoa.
+Noho tonu tahi ki te tangata i ngā wā katoa e ki waho ana ia. Ka kī te Alzheimer's Association, [ono i ia tekau tāngata whai mate wareware](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ka haere kore whāinga i te iti rawa kotahi, ā, he maha ka pērā i tua atu i te kotahi. Ka taea te pēnei i ngā wā katoa.
 
 Ko ngā [tohutohu mō te haere kore whāinga me te ngaro](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) a te NIA e whai ake nei:
 
