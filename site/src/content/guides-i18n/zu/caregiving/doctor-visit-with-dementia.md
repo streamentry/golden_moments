@@ -47,7 +47,7 @@ Buzani umuntu ukuthi ufisa udokotela akwazi yini okubaluleke kakhulu kuye. Bhala
 
 Chazani izinguquko ngamagama acacile. Phawulani okwenzekile, kwaqala nini, kwenzeka kangakanani nokuthi kwakwenzekani ngaleso sikhathi. Isibonelo, “Usesiyekile ukuya eqenjini lomculo leviki ngenyanga edlule” usizo kakhulu kunokuthi “Uyaphela.” Faka nombono womuntu ngalolo shintsho, futhi ungathathi umbono wakho njengokuxilongwa.
 
-Letha uhlu lwemithi yamanje, okufaka imithi yokuthenga nemithi engadingiwe ngesikripthi, amavithamini nezengezo. Umuntu angase futhi afune izibuko, izinsiza zokuzwa noma amagama abanye abasebenzi bezokwelapha. Buzani ihhovisi ukuthi yimaphi amafomu noma amarekhodi adingekayo, kunokuthi niqoqe ulwazi oluningi lwangasese ngaphezu kwalokho okudingekayo ukuvakashela.
+Letha uhlu lwemithi yamanje, okufaka imithi yokuthenga ngaphandle komyalo kanye nemithi engadingiwe ngomyalo wodokotela, amavithamini nezengezo. Umuntu angase futhi afune izibuko, izinsiza zokuzwa noma amagama abanye abasebenzi bezokwelapha. Buzani ihhovisi ukuthi yimaphi amafomu noma amarekhodi adingekayo, kunokuthi niqoqe ulwazi oluningi lwangasese ngaphezu kwalokho okudingekayo ukuvakashela.
 
 ## Ngingabandakanya kanjani umuntu ngesikhathi sokuvakashela?
 
@@ -55,9 +55,9 @@ Buzani umuntu ukuthi ufuna ukuthi ungene engxoxweni yokuvakashela yini. Angase a
 
 Mvumele umuntu aphendule imibuzo kadokotela kuqala. Engeza imininingwane kuphela uma efisa lokho, noma uma udokotela ekucela ulwazi umuntu angase angakukhumbuli. Khuluma nomuntu, hhayi udokotela kuphela. Uma edinga isikhathi sokuphendula, linda kunokuthi ugcwalise zonke izikhathi zokuthula.
 
-Umuntu angase afune isikhathi sangasese nodokotela ngenkinga yakhe ayiyedwa. Hlonipha leyo cela. Uma unokukhathazeka okunzima ukukuphakamisa phambi komuntu, buza ukuthi umtholampilo ungakwabelana kanjani ngenothi elibhaliwe ngokungabonakali. Chaza ukuthi yini oyibonile futhi ugweme ukucela umtholampilo ukuthi ufihle ulwazi noma enze izinqumo ngaphandle kokubandakanya umuntu.
+Umuntu angase afune isikhathi sangasese nodokotela ngenkinga yakhe ayiyedwa. Hlonipha leyo cela. Uma unokukhathazeka okunzima ukukuphakamisa phambi komuntu, buza ukuthi umtholampilo ungakwabelana kanjani ngenothi elibhaliwe ngokungabonakali. Chaza ukuthi yini oyibonile futhi gwema ukucela umtholampilo ukuthi ufihle ulwazi noma enze izinqumo ngaphandle kokubandakanya umuntu.
 
-## Yimiphi imibuzo engasiza ukwenza uhlelo lucace?
+## Yiziphi imibuzo engasiza ukwenza uhlelo lucace?
 
 Cela incazelo ngolimi olulula uma into ingacacile. Umuntu nomsekeli wakhe bangabuza:
 
@@ -72,7 +72,7 @@ Lezi zibonelo, hhayi uhlu lokuthi kumele luqedwe kukho konke ukuvakashela. Umunt
 
 Bhala isifinyezo esifushane sencazelo kadokotela, izinyathelo ezivunyelwene nesikhathi sokulandela. Phawula ukuthi ubani ozokwenza isinyathelo ngasinye, njengokushaya ucingo ehhovisi noma ukubhukha enye indlela yokuvakashela. Uma umuntu evumelana, yabelana ngemininingwane nomndeni noma nomsizi odinga kuyo.
 
-Gcinani amanothi ezempilo eyimfihlo futhi atholakale kalula komuntu. Gwema ukuwathumela ngokwabelwana ngeakhawunti noma ngeqembu lemilayezo uma umuntu engavumelani nalokho. Uma umyalo ungacaci ufika ekhaya, shayela ihhovisi bese ucela incazelo. Ungaqali, ungemise noma ushintshe imithi ngokusekelwe kumanothi akho ngaphandle kokuhlola nomuthi wokubhalela.
+Gcinani amanothi ezempilo eyimfihlo futhi atholakale kalula komuntu. Gwema ukuwathumela ngokwabelwana ngeakhawunti noma ngeqembu lemilayezo uma umuntu engavumelani nalokho. Uma umyalo ungacaci ufika ekhaya, shayela ihhovisi bese ucela incazelo. Ungaqali, ungemise noma ushintshe imithi ngokusekelwe kumanothi akho ngaphandle kokuhlola nodokotela obhalela imithi.
 
 Ngaphambi kokuhamba, hlola ukuthi ukulandelwa noma ukuhlolwa okudingekayo kumele kuhlelwe yini nokuthi ubani okufanele uxhumane naye uma kukhona imibuzo. Umuntu angafuna ukugcina ikhophi yohlelo olubhaliwe noma akhethe omethembayo ukuthi awubambe. Buzani kunokuthi nenze isinqumo esimkhulumela.
 
@@ -80,7 +80,7 @@ Ngaphambi kokuhamba, hlola ukuthi ukulandelwa noma ukuhlolwa okudingekayo kumele
 
 Ungalindi ukuvakashela okujwayelekile uma umuntu edideka ngokuzumayo. [I-NHS incoma ukuthi kufanele kuthathwe usizo lwezokwelapha ngokushesha](https://www.nhs.uk/symptoms/confusion/), ngoba ukudideka okuzumayo kungaba nezimbangela ezidinga ukunakwa ngokushesha. Sebenzisani amasevisi ezimo eziphuthumayo endaweni yenu noma landelani inqubo yokunakekelwa okuphuthumayo endaweni ahlala kuyo.
 
-Ushintsho olungokoqobo ngokuhamba kwesikhathi nalo kungase kubonakale kubalulekile ukukhulumwa nodokotela, kodwa lihluke ekudideni okuzumayo. Uma ungaqiniseki ukuthi ushintsho luphuthumayo yini, xhumana nesevisi yezempilo eqinisekile ukuze uthole iseluleko kunokuzama ukuzixilonga wedwa.
+Ushintsho olungokoqobo ngokuhamba kwesikhathi nalo kungase kubonakale kubalulekile ukukhulunywa nodokotela, kodwa lihluke ekudideni okuzumayo. Uma ungaqiniseki ukuthi ushintsho luphuthumayo yini, xhumana nesevisi yezempilo eqinisekile ukuze uthole iseluleko kunokuzama ukuzixilonga wedwa.
 
 ## Ngingasekela kanjani umuntu uma ukuvakashela kukhathaza?
 
