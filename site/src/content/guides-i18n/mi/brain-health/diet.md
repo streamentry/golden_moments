@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Kai MIND me Mediterranean me te mate wareware: ngā taunakitanga"
+seoTitle: "Kai MIND me te mate wareware: ngā taunakitanga"
+description: "Ngā kōrero rangahau mō ngā kai MIND me Mediterranean me te mate wareware, he aha i kore ai he painga i kitea i te whakamātautau nui, me te āwhina i tētahi kai pai."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  He hono ngā rangahau mātakitaki i ngā kai ā-Mediterranean me MIND ki te tūraru
+  mate wareware iti ake, engari ehara i te mea kia rite katoa. I te whakamātautau
+  ā-matapōkere e toru tau, i whakaputaina i te 2023, kāore i kitea he rerekētanga
+  nui i te whakaaro, i ngā matawhāo roro i te kai whakahaere. Kāore tētahi kai,
+  matūkai rānei kua whakamanatia hei aukati i te mate wareware. Mō ngā tāngata e
+  noho ana me te mate wareware, ko te mea nui ko te kai, te inu i te nui e tika ana.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "He maha, ehara i te katoa, ngā rangahau e whai ana i ngā tāngata i roto i te wā e hono ana i ngā āhuatanga kai ā-Mediterranean me MIND ki te tūraru mate wareware iti ake."
+  - "I te whakamātautau 2023 o ngā pakeke e 604, kāore i pai ake ngā kai MIND i ngā whakamātautau whakaaro, ngā matawhāo roro rānei i ngā kai whakahaere i muri i ngā tau e toru."
+  - "E kī te National Institute on Aging kāore he taunakitanga ka aukati i te Alzheimer's ma te kai, ma te karo rānei i tētahi kai motuhake, ā, kāore tētahi matūkai i whakamanatia hei aukati i a ia."
+  - "Ko te kai he huawhenua, he huarākau, he pīni, he witi katoa me te ika e tautoko ana i te ora o te ngākau, ā, he āwhina pea ki ngā tūraru pērā i te pēhanga toto teitei me te mate huka."
+  - "Mō ngā tāngata e noho ana me te mate wareware, he nui ake te pai o ngā kai ringa, ngā pereti rerekē, ngā wā kai mārie me ngā inu pai i tētahi kai motuhake."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Ka aukati te kai MIND i te mate wareware?"
+    a: "Kāore anō kia kitea. I hono ngā rangahau mātakitaki te kai MIND ki te tūraru iti ake, engari i whakaputaina i te 2023 he whakamātautau ā-matapōkere e toru tau, kāore he rerekētanga nui i ngā hua whakaaro, i ngā matawhāo roro i waenga i ngā tāngata i kai MIND me ngā tāngata i kai whakahaere. I pai iti ake ngā rōpū e rua, ā, he rite te taimaha i ngaro."
+  - q: "He aha te rerekētanga i waenga i te kai MIND me te kai Mediterranean?"
+    a: "Ko te kai Mediterranean e whakanui ana i ngā huawhenua, ngā huarākau, ngā witi katoa, ngā pīni, te ika me te hinu oriwa, me te iti o te mīti whero me ngā reka. Ka whakakotahi te kai MIND i tērā ki te kai DASH mō te pēhanga toto, ā, ka whakanui i ngā huawhenua kākāriki rau me ngā rūpeke, ā, ka whakaiti i te mīti whero, ngā reka, te tīhi, te pata, me ngā kai parai."
+  - q: "He kai, he matūkai rānei e aukati i te Alzheimer's?"
+    a: "Kāo. E kī te National Institute on Aging kāore he taunakitanga ka aukati i te Alzheimer's, ka karo rānei i te heke o te whakaaro e pā ana ki te pakeke, ma te kai, ma te karo rānei i tētahi kai motuhake. Kāore tētahi huawhenua, matūkai rānei kua whakamanatia hei aukati i te Alzheimer's. Kōrerohia tētahi ringatoi hauora i mua i te inu matūkai."
+  - q: "He kai ngāwari rawa mō tētahi kei te mate wareware ki te kai?"
+    a: "He ngāwari ake te kai ka taea te kai ki ngā ringa, he iti ngā kōkiri, pērā i ngā wāhanga tihi paraoa, ngā wāhanga heihei, ngā wāhanga ōrengi, me ngā wāhanga huawhenua kōhua. Mēnā he uaua te kuku me te horomi, ka āwhina ngā kai māmā pērā i ngā hēki miri, te aporo kōhua me te tīhi ngāwari. Pātai ki te ringatoi mō te aromatawai horomi mēnā ka ūhiri, ka pāwera rānei i te kai."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,165 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Kua pānui pea koe he kai “hauora ki te hinengaro” ka pupuru i te mate Alzheimer's.
+He mārama iti ake te pikitanga pono. Ko ētahi momo kai e hono ana ki te tūraru iti
+ake i ngā rangahau e whai ana i ngā tāngata i roto i te wā, engari ko te whakamātautau
+pai rawa anō kāore i kite i tētahi painga pūmau. Ko tēnei whārangi e whakamārama i ngā
+mea e rua, ā, ka huri ki te mea e nui rawa ana mō tētahi kei te noho kē me te mate
+wareware: te kai me te inu i te nui e tika ana, me te harikoa i tērā.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+He kōrero whānui tēnei, ehara i te tohutohu hauora. Kōrerohia tētahi ringatoi hauora,
+tētahi kaitohutohu kai rēhita rānei i mua i te whakarerekē i tō kai, i te kai o tētahi
+atu rānei. Tirohia tā mātou [whakapāhatanga hauora](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## He aha ngā kai Mediterranean me MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+E whakaahua ana te National Institute on Aging (NIA) i ēnei kai pēnei
+([NIA mō te kai me te Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Kai Mediterranean:** he nui ngā huawhenua, ngā huarākau, ngā witi katoa, ngā pīni,
+  te ika me ngā mahanga moana, me te hinu oriwa, he iti ngā mīti whero, ngā hēki me ngā reka.
+- **Kai MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): he
+  whakakotahitanga o te kai Mediterranean me te kai DASH mō te pēhanga toto. He huawhenua
+  tōna āhuatanga, ina rangatira ko ngā huawhenua kākāriki rau; he rūpeke; he witi katoa;
+  he pīni; he kōwhiri; he ika i te iti rawa kotahi i te wiki; me te hinu oriwa. Ka whakaiti
+  i te mīti whero, ngā reka, te tīhi, te pata, te margarine, me ngā kai parai, ngā kai tere.
 
-## Do these diets lower dementia risk?
+## Ka iti ake te tūraru mate wareware i ēnei kai?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+He mea whakaranu te taunakitanga. E kī te NIA he maha, ehara i te katoa, ngā rangahau
+mātakitaki i hono i ngā kai Mediterranean me MIND ki te tūraru mate wareware iti ake, i
+te kai ā-Hauāuru he nui te mīti whero, te hinu kikokiko me te huka.
 
-The 2024 Lancet Commission reviewed the research in more detail
+E whakatātari ana te Lancet Commission 2024 i ngā rangahau i te taumata whānui
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Tētahi arotake o ngā rangahau kohorte i hono i te kounga teitei o te kai ki te tūraru
+  mate wareware iti ake e tata ana ki te 20%.
+- Tētahi tātaritanga nui ake o ngā kohorte e toru i hono i te whai pai ake ki te kai MIND
+  ki te tūraru iti ake.
+- Engari, tētahi rangahau Huitene i whai i te 28,025 ngā tāngata waenga-pakeke mō te
+  tata ki te 20 tau, kāore he tūraru iti ake i ngā kai i tohutohungia, i te kai momo
+  Mediterranean rānei.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Ko ngā rangahau mātakitaki e kore e taea te whakaatu i te take me te pānga. He nui ngā
+tāngata e kai pēnei ka rerekē i ētahi āhuatanga, pērā i te moni, te mātauranga, te mahi
+tinana me te whai i te hauora. I whakatau te Commission kāore he taunakitanga nui hei kī
+ka aukati tonu ngā kai hauora i te mate wareware, ahakoa he pai te kai huawhenua me te
+huarākau nui me te iti o ngā kai kua tino whakarite (ultra-processed) mō ngā āhuatanga
+hauora maha, ā, ka pā ki ngā tūraru pērā i te taumahatanga, te mate huka me te pēhanga
+toto teitei. Kāore i tāpirihia te kai ki tana rārangi [14 ngā tūraru](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## He aha ngā kitenga o te whakamātautau MIND 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Ko te whakamātautau pakari rawa atu tae noa mai ki nāianei he whakamātautau ā-matapōkere
+i whakaputaina i te New England Journal of Medicine i te 2023
+([whakamātautau kai MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Ko wai:** 604 ngā pakeke e 65 ngā tau me runga ake i ngā rohe o Chicago me Boston,
+  kāore he raruraru whakaaro, he whanaunga tata me te mate wareware tō rātou, he taimaha,
+  ā, he kai kāore i te pai rawa i te tīmatanga.
+- **He aha:** mō ngā tau e toru, ko te hawhe i whai i te kai MIND, ā, ko te hawhe i whai i
+  tā rātou kai i ia rā. I akiakihia ngā rōpū e rua kia kai iti ake e 250 ngā kaloli ia rā,
+  ā, he whakangungu tonu i ngā kaitohutohu kai rēhita.
+- **Ngā hua:** i pai iti ake ngā hua whakamātautau whakaaro i **ngā rōpū e rua**. Ko te
+  rerekētanga i waenga i ngā rōpū he iti, **ehara i te mea he tino tatau**. He rite anō
+  ngā panonitanga o ngā matawhāo roro i ngā rōpū e rua.
+- **Te taimaha:** i ngaro tata ki te 5 kiromītā (tata ki te 11 pauna) ngā rōpū e rua.
 
-### Why might the trial have found no difference?
+### He aha i kore ai he rerekētanga i kitea e te whakamātautau?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+I kī ngā kairangahau he maha ngā take. Pea kua pai ake te kai o te rōpū whakahaere anō,
+nā te mea he rite tōna ngaronga taimaha. Ka pai ake pea ngā hua i te whakamātau anōtia,
+nā te mea ka mōhio ngā tāngata ki ngā whakamātautau. Tata pea he poto rawa ngā tau e
+toru. Ko te nuinga o ngā kaiuru he mātauranga nui, he uri Uropi, nā reira kāore pea ngā
+hua e pā ana ki te katoa.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Ko te whakarāpopototanga pono: kāore i pai ake te kai MIND i te kai whakaiti kaloli e
+tika ana mō ngā tau e toru. Ehara tēnei i te kī he kore painga te kai hauora. Ko te
+tikanga, kāore tētahi e tika ana kia tūmanako ka aukati tētahi kai motuhake i te mate wareware.
 
-## What about specific foods and supplements?
+## He aha mō ngā kai motuhake me ngā matūkai?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+E kī te NIA kāore he taunakitanga ka aukati i te mate wareware te kai, te karo rānei i
+tētahi kai motuhake, i te heke o te whakaaro e pā ana ki te pakeke. Kua rangahaua ngā
+rūpeke kikorangi, ngā huawhenua kākāriki rau me te tūmeric, engari kāore anō kia
+whakamanatia. E kī anō te NIA kāore tētahi matūkai kua whakamanatia hei aukati i te
+Alzheimer's, ā, kāore he tohutohu mō taua kaupapa. E whakatupato ana te NIA, ko ngā hua
+kāore i whakamanatia e hokona ana hei aukati i te Alzheimer's he morearea pea, he moni
+pau, he rua rānei ngā mea e rua, ā, ka pōkaikaha pea ki ngā rongoā kua tohutohungia. Nā
+reira, kōrerohia tētahi ringatoi i mua i te whakamātau i tētahi ([NIA mō te aukati i te Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Me pēhea e pai ai te kai, e harikoa ai?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Mō te nuinga o ngā pakeke, ko te whāinga ko te kai e whāngai ana, e mōhio ana, e pai ana,
+ehara i te mahere kaha:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Hangahia ngā kai i pai ki a koe** nō te momo Mediterranean: ngā huawhenua, ngā
+  huarākau, ngā pīni, ngā witi katoa, te ika me te hinu oriwa.
+- **Kia whai tonu i ngā kai reka.** He mea nui te harikoa me te hiahia kai, otirā i te
+  oranga pakeke.
+- **Kainga tahi me ētahi atu** ina taea. He pai te kai tahi he hoa pai.
+- **Tahuri tahi ki te whakarite kai.** He mahi tahi pai te horoi huawhenua, te whakakorokoro
+  i te kohua; titiro ki [ngā mahi kāinga](/activities/household-tasks/). Ko tētahi tohutao
+  kai whānau pai ka taea te whakaohooho [i te maumahara](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Ko te hunga pakeke kāore e tika kia whakaiti kaloli, kia ngaro taimaha rānei me te kore
+kōrero ki tētahi ringatoi, ā, he tūraru anō tō te kore kai. Titiro ki tā mātou
+[aratohu kore kai](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Me pēhea e āwhina ai i tētahi kei te mate wareware kia pai tana kai?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Mō ngā tāngata e noho ana me te mate wareware, ko te kai me te inu **i te nui e tika ana**
+te take nui. E kī te Alzheimer's Association ka wareware pea ngā tāngata ki te kai, ka
+whakaaro kua kainga kē rānei, ka pōharatia e te nui o ngā kōwhiringa, ā, ka piki ake ngā
+tohu whanonga, ka ngaro taimaha hoki ina kore kai pai
+([Alzheimer's Association mō te kai](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Ko ēnei whakaaro nō te Alzheimer's Association, te NIA me te Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Hoatu ngā kai ringa.** Ngā wāhanga iti ka māmā te tango, pērā i ngā wāhanga tihi
+   paraoa, ngā wāhanga heihei, ngā wāhanga ika parai, ngā wāhanga ōrengi, te brokoli kōhua,
+   ka taea e te tangata te kai anō ia, kāore he kutaina.
+2. **Whakamahia te rerekētanga i runga i te tēpu.** Ka uaua pea te whakaatu i te kai i te
+   rihi ina rerekē te tirohanga. Ka āwhina ngā pereti mā i runga i tētahi takotoranga tēpu
+   rerekē. Kaua e whakamahi i ngā rihi whakairo, ngā kākahu tēpu whakairo.
+3. **Tukuna kotahi, rua ngā kai i te wā kotahi.** Ka pōharatia pea e te rihi kī.
+4. **Whakamārie ngā wā kai.** Whakakoretia te pouaka whakaata, whakamāmāa te tēpu, me te
+   tuku wā nui. E kī te NIA kaua e tere, kaua e pēhi.
+5. **Tukuna ngā kai iti, ngā kai rahi ia wā.** E kī te NIA he kai iti, he maha ngā wā, ngā
+   kai kaloli nui ina kore kai pai te tangata
+   ([NIA mō ngā tohutohu kai pai](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Āwhinatia te inu.** Tukuna ngā kapu wai iti, ētahi atu inu i te rā, tae atu ki ngā kai
+   he wai nui pērā i ngā huawhenua, te hupa, ngā miraka miriraka me ngā inu huawhenua
+   (smoothie). Mēnā kāore te tangata e pirangi ki te wai, e kī te NIA me whakamātau te wai
+   rēmana, te wai kua rōrahi (flavored water), te hupa, te miraka, te kawhe me te tī iti te
+   kawhe rānei.
+7. **Tirohia te pāmahana.** Kāore pea te tangata e mōhio ana he wera rawa te kai, te inu rānei.
+8. **Whakarite i ngā rīpene me ngā kapu.** He pai ake ngā pōkeke i ngā pereti, ngā rīpene
+   me ngā paerewa rakau nui, ngā kapu me ngā kapunga e ngāwari ai te kai. Kaua e māharahara
+   ki te ātaahua.
+9. **Whakamāmāa te kuku me te horomi.** Tapahia te kai ki ngā wāhanga iti, ā, tukuna ngā
+   kai ngōhi. Mēnā ka pāwera tētahi i te kai, kōrerohia tō ringatoi.
+10. **Kaua e pēhia te tangata kia kai.** E kī te NIA he māmā te heke o te hiahia kai i ngā
+    wā whakamutunga o te Alzheimer's.
 
-### Signs to tell the doctor about
+### Ngā tohu hei kōrero ki te ringatoi
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Ko te ngaro taimaha, te whakakahore i te kai, te ngenge, te ngoikoretanga rānei, he tohu
+pea kāore te tangata e kai ana i te nui. E kī te Alzheimer's Society ko ngā niho mamae,
+ngā niho hanga, te pōuri, te whakiki o te puku, me ngā panonitanga rongoā ka iti ai te
+hiahia kai ([Alzheimer's Society mō te hiahia kai](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Ko ngā tohu horomi kua whakarārangitia e te NIA ko te waha maroke, te pōrangi, te manawa
+tere, me ngā kitenga kore (hallucinations)
+([NIA mō ngā raruraru hauora noa](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Kōrero ki tētahi ringatoi hauora
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Mō te whakarerekē i tō kai, i te kai o tētahi atu rānei, kōrerohia tētahi ringatoi hauora,
+tētahi kaitohutohu kai rēhita rānei, otirā mēnā kei a koe te mate huka, te mate kidi, ngā
+raruraru horomi, te ngaro taimaha tata nei rānei. Mō tētahi e noho ana me te mate wareware,
+pātai he aha te nui o te kai me te inu me whāia ia rā, ā, mēnā ka āwhina tētahi kaitohutohu
+kai rēhita, ngā matūkai rānei.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+**Tonoa he āwhina ohotata** mēnā kei te pāwera tētahi, mēnā kei te pōhēhē ohorere, te
+pōrangi nui, te ngoikoretanga rānei.
