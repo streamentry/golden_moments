@@ -91,7 +91,7 @@ Los recercaires an suggerit mantuns motius. Lo grop de contraròtle a probablame
 
 Donc la responsa onèsta es : lo regime MIND a pas fach mai bèn qu'un regime rasonable de caloria redusida sus tres ans. Aquò vòl pas dire que manjar sanament es inutil. Vòl dire que degun deu esperar qu'un regime precís previna la demència.
 
-## Qué dire dels aliments e dels complements precisi ?
+## Qué dire dels aliments e dels complements especifics ?
 
 L'NIA dis que i a cap de preuva que manjar o evitar un aliment especific pòt prevenir l'Alzheimer o lo declin cognitiu ligat a l'edat. Los bluets, las verduras a fuèlhas e lo curcuma son estats estudiats, sens cap de preuva. L'NIA dis tanben que cap de vitamina o de complement es estat provat per prevenir l'Alzheimer, e que n'es recomandat per aquò. L'NIA avisa que los produchs non provats venduts per prevenir l'Alzheimer pòdon èsser pericolós, un desperdici d'argent, o los dos, e poirián interferir amb los medicaments prescrichs, donc verificatz amb un metge abans d'ensajar quicòm ([NIA sus la prevencion de l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 

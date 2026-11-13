@@ -1,7 +1,7 @@
 ---
 title: "Ukulungiselela Iimeko Ezingxamisekileyo Nedementia"
 seoTitle: "Icwangciso Yeemeko Ezingxamisekileyo Yedementia"
-description: "Lungiselela izaqhwithi, umlilo okanye ukuhanjiswa ngedementia: cwangcisa oonxibelelwano, uthutho, amayeza nezinto ezithuthuzelayo kwaye ulandele icebiso lasekuhlaleni."
+description: "Cwangcisa izaqhwithi, umlilo okanye ukuhanjiswa ngedementia: oonxibelelwano, uthutho, amayeza nezinto ezithuthuzelayo, kwaye ulandele icebiso lasekuhlaleni."
 section: caregiving
 order: 28
 updated: 2026-11-11
