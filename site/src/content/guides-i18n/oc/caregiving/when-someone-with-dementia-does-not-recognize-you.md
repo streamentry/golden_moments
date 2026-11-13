@@ -40,7 +40,7 @@ related: [caregiving/communication-tips, caregiving/repeated-questions, activiti
 health: true
 ---
 
-Se una persona amb demència vos reconeis pas mai, lo moment pot èsser dolorós e desconcertant. Vos vos demandatz çò que cal dire o se cal tornar explicar la relacion. Cada situacion es diferenta. Comencetz per çò que sembla ajudar la persona a se sentir en seguretat e a l'aise, e pas per un tèst de çò que se remembra.
+Se una persona amb demència vos reconeis pas mai, lo moment pòt èsser dolorós e desconcertant. Vos vos demandatz çò que cal dire o se cal tornar explicar la relacion. Cada situacion es diferenta. Comencetz per çò que sembla ajudar la persona a se sentir en seguretat e a l'aise, e pas per un tèst de çò que se remembra.
 
 La [guida de l'Alzheimer's Association sus la perda de memòria e la confusion](https://www.alz.org/help-support/caregiving/stages-behaviors/memory-loss-confusion) inclutz lo fait de pas reconéisser la familha entre los cambiaments que pòdon arribar. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) e l'[Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/how-dementia-changes-perception) explican que una persona pòt confondre qualqu'un qu'a conegut amb una autra persona. Aquò es una guida generala; pòt pas explicar perqué un cambiament particular se produtz.
 
@@ -65,7 +65,7 @@ La [guida sus la comunicacion](/caregiving/communication-tips/) recomanda de par
 
 ## Un indici familièr pòt-lo ajudar?
 
-De còp, un indici pòt ajudar la persona a vos situar, mas non pas per tota la monde. Ensajatz un indici gentil a la fòi e arrestatz s'aumenta la pression.
+De còp, un indici pòt ajudar la persona a vos situar, mas non pas per tot lo monde. Ensajatz un indici gentil a la fòi e arrestatz s'aumenta la pression.
 
 - **Dire vòstre nom naturalament.** Una votz familièra o una presentacion brèva pòt bastar.
 - **Utilizar una foto o un objècte partejat.** Se la persona aprecia las fotos, podètz ne mirar una amb ela sens li demandar de nomenar qualqu'un. La nòstra [guida de remembrança](/activities/reminiscence/) a d'idèas per utilizar las fotos sens interrogar.
@@ -76,11 +76,11 @@ Ensajatz pas d'ajustar mai d'indicis se la persona demòra inquieta. Una longa e
 
 ## Cossí rendre las visitas mai aisidas?
 
-Se la persona viu dins una residéncia o veses mantuns ajudants, demandatz als que coneisson sa rotina quand se senta mai a l'aise. Podètz venir a un moment mai tranquil, venir acompanhat per qualqu'un que la persona reconeis o portar un objècte familièr. Son d'opcions a considerar, pas un horari que cada familha deu seguir.
+Se la persona viu dins una residéncia o vesètz mantuns ajudants, demandatz als que coneisson sa rotina quand se senta mai a l'aise. Podètz venir a un moment mai tranquil, venir acompanhat per qualqu'un que la persona reconeis o portar un objècte familièr. Son d'opcions a considerar, pas un horari que cada familha deu seguir.
 
-Abans una visita, decidissètz çò que serà possible per vos tanben. Podètz planificar una breu activitat, portar un album de fotos o simplament s'assentar ensemble. Se la persona sembla pas saber qui sètz, podètz tot de mai respondre a sos besonhs sul moment. Fasètz pas depéner la visita de se la persona di vòstre nom.
+Abans una visita, decidissètz çò que serà possible per vos tanben. Podètz planificar una breu activitat, portar un album de fotos o simplament s'assentar ensemble. Se la persona sembla pas saber qui sètz, podètz tot de mai respondre a sos besonhs sul moment. Fasètz pas depéner la visita de se la persona dis vòstre nom.
 
-Es comprensible de se sentir tristas, rebutjats o frustrats. Parlatz amb qualqu'un de confiança, un conselhièr o un grope de sosten als aidants se l'experiéncia pesa. La [guida sus l'aisina de l'aidant](/caregiving/caregiver-self-care/) inclutz de manièras de demandar als autres d'ajudar.
+Es comprensible de se sentir tristas, rebutjats o frustrats. Parlatz amb qualqu'un de confiança, un conselhièr o un grop de sosten als aidants se l'experiéncia pesa. La [guida sus l'aisina de l'aidant](/caregiving/caregiver-self-care/) inclutz de manièras de demandar als autres d'ajudar.
 
 ## Quand demandar d'ajuda medicala?
 

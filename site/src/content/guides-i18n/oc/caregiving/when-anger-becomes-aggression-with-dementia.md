@@ -73,9 +73,9 @@ L'[Alzheimer's Society suggerís de cercar de modèls e de pensar a çò que la 
 Utilizatz çò qu'avètz observat per adaptar la següenta interaccion. Aquò pòt ajudar, mas pòt pas garantir que lo comportament tornarà pas. Cambiatz un sol punt a la fòi per veire mai aisidament se la persona sembla mai a l'aise.
 
 - **Causissètz un moment mai calme.** Se una tasca va sovent mal quand la persona es fatigada, demandatz se una autra ora convèn melhor.
-- **Rendètz l'environament mai aisit.** Atudatz lo bruch de fons, reduire lo nombre de personas dins la sala e aviatz tot çò que vos cal abans de començar.
+- **Rendètz l'environament mai aisit.** Atudatz lo bruch de fons, reduisètz lo nombre de personas dins la sala e preparatz tot çò que vos cal abans de començar.
 - **Explicatz un pas e esperatz.** Apropats-vos de front, dire çò que fasètz, demandatz abans d'ajudar e laissatz a la persona lo temps de respondre.
-- **Arrestatz als senhals de pena.** Un refús, un retirament, un vis tens o una votz mai auta pòdon indicar qu'es temps de pausar. Considerat pas que acabar la tasca importa mai que la comoditat.
+- **Arrestatz als senhals de pena.** Un refús, un retirament, un vis tens o una votz mai auta pòdon indicar qu'es temps de pausar. Pensatz pas que acabar la tasca importa mai que la comoditat.
 - **Partejatz un plan simple.** Se mantuns personas ajudan, convenètz dels senhals que vòlon dire « pausa », d'una frasa calma a utilizar e de la persona a contactar se lo modèl cambia.
 
 Per las idèas per cada tasca, vegetz nòstras guidas sul [banhar](/caregiving/bathing-with-dementia/) e sul [vestir](/caregiving/getting-dressed-with-dementia/). La guida sus los [conselhs de comunicacion](/caregiving/communication-tips/) explica las manièras de parlar e d'escotar sens pression.

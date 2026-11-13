@@ -18,7 +18,7 @@ faq:
     a: "Degun pòt respondre per tot lo monde. La decision depend de vòstres desirs, de vòstre trabalh, del sosten disponible e de las inquietuds de seguretat. Un clinician que compren vòstra salut e vòstras tascas pòt vos ajudar a considerar las questions que vos concernisson."
   - q: "Dever-ai dire a mon emplegaire que ai un diagnostic de demència?"
     a: "Aquò depend de vòstra situacion, de las règlas del luòc de trabalh e del tipe de trabalh que fasètz. Verificatz vòstre contracte e las règlas locals, sobretot se vòstre ròtle concerneix la seguretat de l'autre, e considerat de parlar amb un conselhièr qualificat en emplec abans de decidir çò que cal dire."
-  - q: "Qués cambiaments al trabalh pòdon ajudar?"
+  - q: "Quins cambiaments al trabalh pòdon ajudar?"
     a: "Podètz demandar se d'instruccions escrichas, un calendièr, mens d'interrupcions, de pausas planificadas o una tasca a la fòi pòdon convenir a vòstre ròtle. Aquestas idèas son pas adaptadas a cada trabalh, donc discutissètz-las amb vòstre emplegaire e verificatz se aquò ajuda."
   - q: "Qué prestacions verificar abans de quitar lo trabalh?"
     a: "Demandatz als RH o al contacte de las prestacions de vos parlar del congé, de las prestacions d'invaliditat o de revengut, de la cobertura de salut e dels delais que s'aplican a vòstre plan. Las règlas diferisson segon l'emplegaire e lo luòc; cercatz un conselh local qualificat abans de signar de documents o de cambiar vòstre estatut de trabalh."
@@ -55,7 +55,7 @@ Descrivètz las tascas que compren vòstre trabalh e los cambiaments que avètz 
 
 La [guida per las visitas medicalas](/caregiving/doctor-visit-with-dementia/) a de manièras de preparar las questions e las notas. Podètz demandar a vòstre clinician de explicar çò qu'el pòt avaluar e çò que deu passar per una avaluacion separada del luòc de trabalh o de medicina del trabalh. Una guida generala sus la demència pòt pas remplaçar una avaluacion individuala de salut e de seguretat.
 
-## Qués cambiaments al trabalh pòdon ajudar?
+## Quins cambiaments al trabalh pòdon ajudar?
 
 Se volètz contunhar de trabalhar, demandatz quins cambiaments son possibles dins vòstre ròtle. Dementia Australia suggerís d'opcions coma utilizar una rotina, concentrar-se sus una tasca a la fòi, prene de nòtas e far una guida pas a pas per las tascas correntas. Segon vòstre trabalh, podètz tanben demandar d'instruccions escrichas, un calendièr, mens d'interrupcions o de pausas planificadas.
 
@@ -69,7 +69,7 @@ Se causissètz de o dire a qualqu'un, pensatz a çò que volètz que sàpia e al
 
 Certans emplecs implican de tascas sensiblas a la seguretat. Se sètz incerta se fa d'aturar o de cambiar una d'aquestas tascas, contactatz vòstre clinician e un conselhièr local qualificat en emplec sens tardar. Non vos fidatz pas a una guida generala per decidir se una tasca precisa es segura.
 
-## Qués revenguts e finanças verificar?
+## Quins revenguts e finanças verificar?
 
 Abans de cambiar vòstres oraris o de quitar, revisatz las prestacions disponiblas per vòstre emplegaire. Demandatz als RH o a l'administrator de las prestacions de vos parlar del congé, de las prestacions d'invaliditat o de revengut, de la cobertura de salut e dels delais. Demandatz las règlas actualas per escrit e gardatz una còpia de las informacions recebudas.
 
