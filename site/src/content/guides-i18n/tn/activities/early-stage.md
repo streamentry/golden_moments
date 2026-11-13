@@ -1,33 +1,32 @@
 ---
-title: "Ditiro tsa Dementia ya Kgato ya Ntlha"
-seoTitle: "Ditiro tsa Dementia ya Kgato ya Ntlha: Dikakanyo"
-description: "Dikakanyo tsa ditiro tsa dementia ya kgato ya ntlha: ditiro tse a di ratang, metshameko, maeto le go kwala, ka diphetogo tse dinnye."
+title: "Activities for Early-Stage Dementia"
+seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
+description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Mo dementia ya kgato ya ntlha, batho ba bantsi ba ka tswelela ba dira se ba
-  se ratang: ditiro tsa diatla, dikarata le metshameko ya boto, go apaya, go
-  lema serapa, go tsamaya, ditlhopha, tumelo le go ithaopa. Diphetogo tse di
-  kgolo ke ditlhopha tse dinnye, maeto a a khutshwane, merero e e bonolo e e
-  kwadilweng le molekane yo o gaufi. Botsa motho gore o batla thuso efe, mme o
-  mo tlogele a eteletse pele.
+  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
+  cards and board games, cooking, gardening, walking, clubs, faith and
+  volunteering. The main changes are smaller groups, shorter outings, simple
+  written plans and a partner nearby. Ask the person what help they want,
+  and let them lead.
 keyPoints:
-  - "Batho ba bantsi mo kgatong ya ntlha ba tshela ba ikemetse thata. Gantsi ditiro di tlhoka go baakanngwa, e seng go emisediwa."
-  - "Botsa motho gore o batla tshegetso efe, mme lo dumalane ka letshwao le le bonolo la nako e thuso e amogelesegang."
-  - "Ditlhopha tse dinnye, dinako tse di kgutsitseng le maeto a a khutshwane gantsi di dira phapaano e kgolo."
-  - "Ke nako e e siameng gore motho a etelele pele merero ya botshelo jwa gagwe, jaaka buka ya ditiragalo kana buka ya kanelo ya botshelo."
-  - "Tlhopha metshameko ka ntlha ya boitumelo. Tlogela sengwe le sengwe se se simololang go ikutlwa jaaka teko."
+  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
+  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
+  - "Smaller groups, quieter times and shorter outings often make a big difference."
+  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
+  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
 faq:
-  - q: "Ke ditiro dife tse di siameng mo dementia ya kgato ya ntlha?"
-    a: "Gantsi ke tse di tshwanang tse motho a di ratang kale: dikarata, metshameko ya boto, go apaya, go lema serapa, go tsamaya, mmino, ditiro tsa tumelo, ditlhopha le go ithaopa. O ka tlhoka go di dira di le khutshwane, di le kgutsitse kana di le bonolo. Go kwala ditiragalo, go kwala dikwalo le go dira buka ya kanelo ya botshelo le tsone di siametse kgato eno."
-  - q: "Nka thusa jang ntle le go tsaya tiro yotlhe?"
-    a: "Botsa gore motho o batla thuso ya mofuta ofe, mme o mmotse gangwe le gape. Dumalanang ka polelwana kana go ineela ka tlhogo e e kayang gore go siame go tsena, jaaka fa lefoko kana leina le sa tle. Fa go se na kotsi, mo tlogele a dire ka mokgwa wa gagwe, le fa go tsaya nako e telele."
-  - q: "A motho yo o nang le dementia ya ntlha o tshwanetse go leka ditiro disešwa?"
-    a: "Ee, fa a batla. Ditiro tse di itsegeng gantsi di bonolo go gaisa, mme batho ba bantsi ba rata sengwe se sešwa, jaaka setlhopha sa go tsamaya se se siametseng dementia, sekolo sa botaki kana setlhopha sa go opela. Leka gangwe ntle le kgatelelo mme o bone gore go ikutlwisa jang."
-  - q: "A dirapa tsa go ruta bobete di bohlokwa mo kgatong ya ntlha?"
-    a: "Batho ba bangwe ba rata diphasele le metshameko ya mafoko, mme boitumelo jono bo lekane. Ga go app kana motshameko o o bontshitsweng gore o alafa, o diegisa kana o emisa dementia. Fa motshameko o tlisa kgatelelo kana o dira gore motho a ikutlwe a paletswe, o beye thoko."
+  - q: "What activities are good for early-stage dementia?"
+    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
+  - q: "How can I help without taking over?"
+    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
+  - q: "Should someone with early dementia try new activities?"
+    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
+  - q: "Are brain-training apps worth it in the early stage?"
+    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -49,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-Mo kgatong ya ntlha ya dementia, batho ba bantsi ba santse ba tshela ka mokgwa o o tshwanang le pele. Ba ka tswelela ba dira tiro, ba ithaopa, ba bona ditsala mme ba tsamaisa bontsi jwa letsatsi la bone. Gantsi ditiro ga di tlhoke go emisediwa; di tlhoka diphetogo di le mmalwa gore di nne monate. Seabe sa gago se gaufi le sa molekane go na le sa motlhokomedi: mongwe yo o tshegetsang, yo o rulaganyang le ene mme a tsena fela fa a kopiwa.
+In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
 
-## Ke ditiro dife tse di siameng mo dementia ya kgato ya ntlha?
+## What activities are good in early-stage dementia?
 
-Ditiro tse di siameng mo kgatong ya ntlha gantsi ke tse motho a di ratang kale, di dirilwe go nna bonolo go le gonnye. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e kwala dikakanyo tse di jaaka dikarata le metshameko ya boto, go batla mafoko, go tsamaya, go bina, go lema serapa, go baakanya dipalesa, go anela dikanelo, go penta, mmino, go kwala ditiragalo, go kwala dikwalo, go kopanya dibuka tsa dienepe, go apaya le ditlwaelo tsa malatsi a boikhutso.
+The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
 
-Se se fetogang gantsi ke lefelo, e seng tiro. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e bolela gore batho ba kgato ya ntlha ba ka simolola go ineela mo dilong tse ba neng ba di ratana, mme e fa sekai sa motho yo o tlhoafalang mo moketeng o mogolo yo o dirang botoka mo setlhopheng se sennye. Buang ka bophara ka se se ikutlwang se le thata, mme le baakanye mmogo.
+What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
 
-## Botsa pele, mme o dumalane ka mokgwa wa go thusa
+## Ask first, and agree on how to help
 
-[Kaelo ya Alzheimer's Association ya kgato ya ntlha](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) e kaela ditlwaelo di le mmalwa tse di dirisegang le mo ditirong:
+The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
 
-- **Botsa ka tlhamalalo.** "Ke eng se se ka dirang gore setlhopha sa dibuka se go nne bonolo?" se tlisa karabo e e botoka go na le go akanya.
-- **Akanya gore o a kgona.** Fa go se na kotsi, tlogela motho a leke, mme o mo kgothatse go na le go tsaya tiro.
-- **Dumalanang ka letshwao.** Tlhopha polelwana kana go ineela ka tlhogo e e kayang gore "go siame go tsena," jaaka fa leina le sa tle fa o tshameka dikarata.
-- **Botsa gangwe le gape.** Botsa gore tekanyo ya thuso e ikutlwa e siame, e le ntsi thata kana e le nnye.
+- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
+- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
+- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
+- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
 
-## Dikakanyo tsa ditiro tsa kgato ya ntlha
+## Activity ideas for the early stage
 
-### Tswelela ka ditiro le ditiro tsa diatla
+### Keep up roles and hobbies
 
-- **Tswelela ka boikarabelo jo bo tlwaelegileng.** Nako ya beke ya go ithaopa, koiri kana setlhopha di naya beke sebopego. Fa e tlhoafatsa, seabe se se khutshwane kana se se kgutsitseng se ka siama.
-- **Rulaganyang dijo mmogo.** Fa go reka dijo go tshwenya, Alzheimer's Association e kaela go kopa motho a thuse go rulaganya menyu ya beke le go kwala lenaneo.
-- **Apaya le go baka.** Latelang dijo tse lo di ratang mmogo. Baya dijo ka tatelano pele o simolola, gore magato a bonale.
-- **Lema serapa.** Rulaganya bete, tlhopha peo kana dimela mme le dire tiro mmogo. Lenaneo le le kwadilweng la ditiro tsa serapa tsa beke le a thusa.
-- **Tswelela ka tiro ya diatla.** Go dira ka dikgong, go roka, go ruka kana go aga dikokomana go ka tswelela ka ditsamaiso tse di bonolo le lesedi le le siameng.
+- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
+- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
+- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
+- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
+- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
 
-### Metshameko ya boitumelo
+### Games for enjoyment
 
-- **Tshameka dikarata le metshameko ya boto.** Metshameko e e itsegeng e bonolo go gaisa. Tshamekang ka dithimi gore ga go ope yo o gateletsweng, mme o boloke dikoro ka go sa tlhaela kana o se di bale gotlhelele.
-- **Leka go batla mafoko ka mokwalo o mogolo.** [Go batla mafoko](/games/word-search/) ga rona go ka tshamekiwa mo sekirining kana go gatisiwa fa go nna nako e e kgutsitseng.
-- **Dira diphasele tsa dikgetsi.** Tlhopha palo ya dikarolo e e ikutlwang e le ya go khutsa, e seng e e thata. [Pokano ya tshwantsho](/games/picture-puzzle/) ke mofuta o mokhutshwane wa mo sekirining, mme kaelo ya rona ya [diphasele tsa dementia](/activities/puzzles/) e akaretsa go tlhopha nngwe.
-- **Tsena mo dipotsong ka boitumelo.** Batho ba bangwe ba rata bosigo jwa dipotso ka dithimi. Fa bo simolola go ikutlwa bo le jaaka teko, tlhopha sengwe se sengwe, kana o leke [dipotso tsa rona tse di bonolo](/activities/trivia/), tse di nang le dikgetho tsa dikarabo mme di se na dikoro.
+- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
+- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
+- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
+- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
 
-Metshameko fano ke ya boitumelo. Ga go motshameko o o bontshitsweng gore o alafa kana o diegisa dementia; bala tse dingwe mo [metshamekong ya bobete: se patlisiso e se bolelang](/brain-health/brain-games/).
+Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
 
-### Kwala, akanya le go kwala
+### Write, reflect and record
 
-- **Boloka buka ya ditiragalo.** Alzheimer's Association e kaela go kwala ditiragalo e le tsela e le nngwe ya go dirisana le maikutlo morago ga tlhatlhobo. Mela e mmalwa ka letsatsi e lekane.
-- **Etelela pele buka ya kanelo ya botshelo.** Kgato ya ntlha ke nako e e siameng gore motho a tlhophe dienepe tsa gagwe a bo a kwala kana a bua dikanelo tse di di tshegeditseng. Bona [ditiro tsa go gopola](/activities/reminiscence/).
-- **Kwala dikwalo.** Lokwalo go setlogolo, tsala ya bogologolo kana mmogo wa tiro wa pele se ka nna le bokao mo mahatsheng a mabedi.
-- **Bua ka dienepe.** [Dipaera tsa dienepe](/games/photo-pairs/) di fetola dienepe tsa lelapa go nna motshameko o o bonolo wa go tshwanisa, mme [dikarata tsa puisano](/games/conversation-cards/) di naya dintlha tse di bonolo tsa go simolola puisano.
+- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
+- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
+- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
+- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
 
-### Tswela kwa ntle mme o tsamaye
+### Go out and move
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e kaela go tswelela maeto a a itsegeng fa fela lo ikutlwa lo le mo boiketlong. Rulaganya maeto mo nakong e motho a leng botoka ka yone, mme o se a tlogele a tsamaya nako e telele.
+The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
 
-- **Maeto a khutshwane a setso.** Musiamo, filimi ya motshegare kana pontsho ya botaki, ka mo go kgonegang mo nakong e e kgutsitseng.
-- **Go thuma.** NIA e kaela sediko sa go thuma mo nakong e e se nang batho ba bantsi ya letsatsi.
-- **Ditlhopha tsa go tsamaya le dithuto tsa go bina.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e bolela ka go bina, tai chi, yoga, go thuma le ditlhopha tsa go tsamaya, le dikopano tse di siametseng dementia fa di le teng.
-- **Ditlhopha tsa go opela le dikafe tsa kgopolo.** Ditlhopha tse di kgutsitseng mo batho ba ba nang le dementia le balekane ba bone ba ka kopanang le ba bangwe ba ba nang le seemo se se tshwanang.
+- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
+- **Swimming.** The NIA suggests a pool during a slow time of day.
+- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
+- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
 
-## Diphetogo tse dinnye tse di dirang gore ditiro di nne monate
+## Small changes that keep activities enjoyable
 
-| Fa se se thatafala | Leka se |
+| If this is getting harder | Try this |
 | --- | --- |
-| Mafelo a a tletseng kana a a modumo | Ya ka dinako tse di kgutsitseng, tlhopha ditlhopha tse dinnye, dula kwa lotlhakoreng la phaposi |
-| Go gopola mabitso a masešwa | Itsise batho ka leina nako nngwe le nngwe; kopa ditlhopha go dirisa matshwao a mabitso |
-| Go latela merero ya magato a mantsi | Kwala magato, kana o baye sengwe le sengwe ka tatelano pele |
-| Go lapa | Maeto a a khutshwane, boikhutso morago, ga go na sepe se sengwe se se rulagantsweng ka letsatsi leo |
-| Go tshwara tatelano mo motshamekong | Tshamekang ka dithimi, bonolofatsa melao, kana o tlogele go bala dikoro |
-| Go bona mafoko | Neela nako; neela lefoko fela fa letshwao le lo dumalaneng ka lone le re jalo |
+| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
+| Remembering new names | Introduce people by name each time; ask groups to use name tags |
+| Following multi-step plans | Write the steps down, or lay out everything in order first |
+| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
+| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
+| Finding words | Allow time; offer a word only if your agreed signal says to |
 
-## Ka fa o tshwanetseng go ema ka teng
+## When to slow down
 
-Ema kana o fetole tiro fa e tlisa kgatelelo e ntsi go feta boitumelo. Go tshwenyega gangwe le gape, go efoga tiro ya diatla kana go re "Ga ke sa kgona" ke dilo tse di tshwanetseng puisano e e bonolo, e seng go patelela. Gantsi karabo ke mofuta o monnye wa selo se se tshwanang. Fa motho a tlhoka thuso e ntsi go simolola le go latela magato, dikakanyo tsa [ditiro tsa kgato ya bogare](/activities/middle-stage/) di ka siama botoka. Go bona tse dingwe ka puisano e e tshegetsang, bona [malebela a puisano](/caregiving/communication-tips/), mme go bona dikakanyo tse dintsi, bona [ditiro tse 101](/activities/ideas/).
+Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
 
-Balekane le bone ba tlhoka tshegetso. Kgato ya ntlha ke nako e e siameng ya go aga letlhokwa la gago la thuso; bona [go ipabalela ga motlhokomedi](/caregiving/caregiver-self-care/).
+Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
