@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "ເມື່ອຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມຖາມຊ້ຳໆ: ຄວນເວົ້າຫຍັງ"
+seoTitle: "ໂຣກສະໝອງເສື່ອມຖາມຊ້ຳໆ: ຄວນເວົ້າຫຍັງ ແລະເຮັດຫຍັງ"
+description: "ເຫດຜົນທີ່ຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມຖາມຄຳຖາມດຽວກັນຊ້ຳໆ ວິທີຕອບຢ່າງສະຫງົບ ເຄື່ອງມືທີ່ຊ່ວຍ ແລະເວລາຄວນໂທຫາໝໍ."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  ການຖາມຄຳຖາມຊ້ຳໆເປັນເລື່ອງທົ່ວໄປໃນໂຣກສະໝອງເສື່ອມ ຜູ້ນັ້ນມັກຈື່ບໍ່ໄດ້ວ່າເຄີຍຖາມ ແລະຄຳຖາມມັກແບກຄວາມຮູ້ສຶກບາງຢ່າງໄວ້. ຕອບຢ່າງສະຫງົບ ແລະສັ້ນໆ ຄືກັບວ່າເປັນຄັ້ງທຳອິດ ຕອບຄວາມຮູ້ສຶກທີ່ຢູ່ເບື້ອງຫຼັງ ແລະຢ່າເວົ້າວ່າ “ເຈົ້າຖາມແລ້ວ”. ຂຽນຄຳຕອບໄວ້ໃຫ້ເຫັນ ບອກເລື່ອງທີ່ຈະເກີດຂຶ້ນພຽງສັ້ນໆກ່ອນເວລາ ແລະສະເໜີກິດຈະກຳທີ່ໜ້າພໍໃຈ. ການປ່ຽນແປງທີ່ກະທັນຫັນຕ້ອງໃຫ້ໝໍກວດ.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "ຜູ້ນັ້ນມັກຈື່ບໍ່ໄດ້ວ່າເຄີຍຖາມ ມັນບໍ່ແມ່ນການເຮັດໂດຍຕັ້ງໃຈ."
+  - "ຄຳຖາມມັກແບກຄວາມຮູ້ສຶກບາງຢ່າງໄວ້ ເຊັ່ນ ຄວາມກັງວົນກ່ຽວກັບນັດໝາຍ ຫຼືຢາກຮູ້ສຶກປອດໄພ."
+  - "ຕອບຢ່າງສະຫງົບ ສັ້ນ ແລະອ່ອນໂຍນ ຄືກັບວ່າເປັນຄັ້ງທຳອິດ. ຢ່າເວົ້າວ່າ “ເຈົ້າຖາມແລ້ວ”."
+  - "ໂນດ ກະດານຂຽນ ໂມງ ຫຼືປະຕິທິນທີ່ເຫັນໄດ້ ສາມາດຕອບຄຳຖາມແທນທ່ານໄດ້."
+  - "ບອກເລື່ອງທີ່ເຄັ່ງຕຶງພຽງສັ້ນໆກ່ອນເວລາທີ່ຈະເກີດຂຶ້ນ."
+  - "ພັກສັ້ນໆເມື່ອທ່ານຕ້ອງການ ແລະໂທຫາໝໍເມື່ອມີການປ່ຽນແປງກະທັນຫັນ."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "ເປັນຫຍັງພໍ່ຂອງຂ້ອຍທີ່ເປັນໂຣກສະໝອງເສື່ອມຈຶ່ງຖາມຄຳຖາມດຽວກັນຊ້ຳໆ?"
+    a: "ໂຣກສະໝອງເສື່ອມກະທົບຄວາມຈຳໄລຍະສັ້ນ ດັ່ງນັ້ນເພິ່ນອາດຈື່ບໍ່ໄດ້ຈິງໆວ່າເຄີຍຖາມ ຫຼືບໍ່ໄດ້ຍິນຄຳຕອບ. ຄຳຖາມຫຼາຍເທື່ອກໍແບກຄວາມຮູ້ສຶກໄວ້ເຊັ່ນ ຄວາມກັງວົນກ່ຽວກັບສິ່ງທີ່ຈະເກີດຂຶ້ນຕໍ່ໄປ ຫຼືຄວາມຕ້ອງການໃຫ້ໝັ້ນໃຈ. ການຕອບຄວາມຮູ້ສຶກນັ້ນມັກຊ່ວຍໄດ້ຫຼາຍກວ່າການເວົ້າຂໍ້ເທັດຈິງຊ້ຳໆ."
+  - q: "ຄວນບອກເຂົາເຈົ້າວ່າເຂົາເຈົ້າຖາມແລ້ວບໍ?"
+    a: "ບໍ່ຄວນ. ມັນບໍ່ສາມາດຊ່ວຍໃຫ້ຈື່ໄດ້ ແລະອາດຮູ້ສຶກຄືຖືກຕຳໜິ. ອົງການດ້ານໂຣກສະໝອງເສື່ອມແນະນຳໃຫ້ຕອບຢ່າງສະຫງົບທຸກເທື່ອ ຄືກັບວ່າເປັນຄັ້ງທຳອິດ ແລະຮັກສາຄຳຕອບໃຫ້ສັ້ນ."
+  - q: "ການຂຽນຄຳຕອບລົງໄວ້ຊ່ວຍໄດ້ບໍ?"
+    a: "ອາດຊ່ວຍໄດ້ ຕາບໃດທີ່ຜູ້ນັ້ນຍັງອ່ານໜັງສືໄດ້. ໂນດ ກະດານຂຽນທີ່ມີແຜນຂອງມື້ນີ້ ໂມງໃຫຍ່ ຫຼືປະຕິທິນໃນບ່ອນທີ່ເຂົາເຈົ້າມັກເບິ່ງ ຊ່ວຍໃຫ້ເຂົາເຈົ້າກວດຄຳຕອບດ້ວຍຕົນເອງໄດ້. ຊີ້ໄປທີ່ມັນຢ່າງອ່ອນໂຍນ ແທນທີ່ຈະເວົ້າວ່າ “ຂ້ອຍບອກແລ້ວ”."
+  - q: "ຄວນເວົ້າເຖິງນັດໝາຍ ຫຼືການອອກນອກບ້ານເມື່ອໃດ?"
+    a: "ໃກ້ກັບເວລາທີ່ຈະເກີດຂຶ້ນ. ການເວົ້າເຖິງການໄປພົບໝໍ ຫຼືການເດີນທາງຫຼາຍວັນລ່ວງໜ້າ ອາດກາຍເປັນຄຳຖາມທີ່ກັງວົນຫຼາຍຊົ່ວໂມງ. ບອກເຂົາເຈົ້າບໍ່ດົນກ່ອນ ຢ່າງສະຫງົບ ພ້ອມບອກວ່າຈະເກີດຫຍັງຕໍ່ໄປ."
+  - q: "ເມື່ອໃດການຖາມຊ້ຳໆເປັນເຫດຜົນໃຫ້ໂທຫາໝໍ?"
+    a: "ຖ້າຄຳຖາມ ຄວາມສັບສົນ ຫຼືພຶດຕິກຳປ່ຽນແປງຢ່າງກະທັນຫັນ ຫຼືຮ້າຍແຮງຂຶ້ນຫຼາຍໃນຫຼາຍຊົ່ວໂມງ ຫຼືຫຼາຍວັນ ໃຫ້ໂທຫາໝໍຂອງເຂົາເຈົ້າທັນທີ. ການຕິດເຊື້ອ ຢາໃໝ່ ຄວາມເຈັບປວດ ທ້ອງຜູກ ຫຼືການຂາດນ້ຳ ອາດເຮັດໃຫ້ເກີດຄວາມສັບສົນຢ່າງກະທັນຫັນທີ່ເອີ້ນວ່າ delirium ເຊິ່ງຕ້ອງໄດ້ຮັບການດູແລຢ່າງວ່ອງໄວ."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“ໂມງນີ້ໝໍນັດຕອນໃດ?” ສິບນາທີຕໍ່ມາ: “ໂມງນີ້ໝໍນັດຕອນໃດ?” ການໄດ້ຍິນຄຳຖາມດຽວກັນຊ້ຳໆແມ່ນໜຶ່ງໃນສ່ວນທີ່ເໜັດເມື່ອຍທີ່ສຸດຂອງການດູແລຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ. ມັນເປັນເລື່ອງທົ່ວໄປຫຼາຍ ບໍ່ແມ່ນການເຮັດໂດຍຕັ້ງໃຈ ແລະມີວິທີຕອບຢ່າງສະຫງົບທີ່ເຮັດໃຫ້ມື້ງ່າຍຂຶ້ນສຳລັບທັງສອງຝ່າຍ.
 
-## Why does someone with dementia ask the same question over and over?
+## ເປັນຫຍັງຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມຈຶ່ງຖາມຄຳຖາມດຽວກັນຊ້ຳໆ?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+ສ່ວນໃຫຍ່ແມ່ນເພາະຄວາມຈຳ. ໂຣກສະໝອງເສື່ອມກະທົບຄວາມຈຳໄລຍະສັ້ນ ດັ່ງນັ້ນຜູ້ນັ້ນມັກຈື່ບໍ່ໄດ້ວ່າເຄີຍຖາມ ຫຼືຈື່ຄຳຕອບບໍ່ໄດ້. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) ອະທິບາຍວ່າການຖາມຄຳຖາມຫຼາຍເທື່ອເປັນເລື່ອງທົ່ວໄປ ແລະຄາດໄດ້.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+ຄຳຖາມມັກແບກຄວາມຮູ້ສຶກໄວ້ດ້ວຍ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ອະທິບາຍວ່າຄຳຖາມທີ່ຊ້ຳກັນອາດສະແດງຄວາມກັງວົນ ການຂໍຄວາມຊ່ວຍເຫຼືອ ຫຼືຄວາມກັງວົນໃຈ ແລະຜູ້ນັ້ນມັກກຳລັງຊອກຫາຄວາມສະບາຍໃຈ ແລະຄວາມຄຸ້ນເຄີຍ. “ເມື່ອໃດຈະໄປ?” ອາດໝາຍເຖິງ “ຂ້ອຍກັງວົນກ່ຽວກັບການໄປ.” ຄວາມເບື່ອ ຄວາມຢ້ານ ສຽງລົບກວນ ແລະການປ່ຽນແປງຈັງຫວະປະຈຳວັນ ລ້ວນແຕ່ເຮັດໃຫ້ເກີດຄຳຖາມຊ້ຳໄດ້. ຄຳຖາມຊ້ຳກໍອາດບອກເຖິງຄວາມຕ້ອງການບາງຢ່າງ ເຊັ່ນ ການໄປຫ້ອງນ້ຳ ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## ຄວນເວົ້າຫຍັງ?
 
-Answer calmly and briefly, as if it were the first time.
+ຕອບຢ່າງສະຫງົບ ແລະສັ້ນໆ ຄືກັບວ່າເປັນຄັ້ງທຳອິດ.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **ຮັກສາຄຳຕອບໃຫ້ສັ້ນ ແລະຄືເກົ່າ.** “ໝໍນັດຕອນບ່າຍສອງໂມງ. ຂ້ອຍຈະຢູ່ກັບເຈົ້າ.” ຄຳຕອບທີ່ສະໝ່ຳສະເໝີຊ່ວຍໃຫ້ຮັບຮູ້ໄດ້ງ່າຍຂຶ້ນ.
+- **ຕອບຄວາມຮູ້ສຶກ.** “ເຈົ້າກຳລັງເປັນຫ່ວງກ່ຽວກັບໝໍ. ມັນຈະເປັນຕອນບ່າຍນີ້ ແລະຂ້ອຍຈະຂັບລົດພາໄປເອງ. ເຈົ້າບໍ່ຕ້ອງເຮັດຫຍັງເລີຍ.”
+- **ໃຊ້ນໍ້າສຽງອົບອຸ່ນ ແລະການສຳຜັດເບົາໆ** ຖ້າເຂົາເຈົ້າຊອບ. Alzheimer's Association ແນະນຳໃຫ້ຮັກສາຄວາມສະຫງົບ ແລະບໍ່ໃຊ້ເຫດຜົນ ຫຼືໂຕ້ແຍ້ງ.
+- **ໃຫ້ຄຳຕອບທີ່ເຂົາເຈົ້າຕ້ອງການ** ເທົ່າທີ່ຈຳເປັນ. Alzheimer's Association ເວົ້າວ່າໃຫ້ເວົ້າຊ້ຳຕາມຈຳນວນເທື່ອທີ່ເຂົາເຈົ້າຖາມ.
 
-## What should I avoid?
+## ຄວນຫຼີກເວັ້ນຫຍັງ?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“ເຈົ້າຖາມຂ້ອຍແລ້ວ.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ແນະນຳໃຫ້ຫຼີກເວັ້ນການຊີ້ໃຫ້ເຫັນວ່າເຂົາເຈົ້າຫາກໍຖາມ. ມັນບໍ່ສາມາດຊ່ວຍໃຫ້ຈື່ໄດ້ ແລະອາດຮູ້ສຶກຄືຖືກຕຳໜິ.
+- **ຄຳອະທິບາຍຍາວ.** ຄຳເວົ້າຫຼາຍເກີນໄປເຮັດໃຫ້ມີຫຼາຍສິ່ງໃຫ້ລືມ.
+- **ການຖອນຫາຍໃຈ ການກຸ້ງຕາ ຫຼືນໍ້າສຽງແຂງ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ແນະນຳໃຫ້ອົດທົນ ແລະບໍ່ສະແດງຄວາມອຸກອັ່ງ. ເລື່ອງນີ້ຍາກ ເບິ່ງສ່ວນກ່ຽວກັບການພັກຜ່ອນທີ່ຢູ່ດ້ານລຸ່ມ.
 
-## Simple tools that answer the question for you
+## ເຄື່ອງມືງ່າຍໆທີ່ຕອບຄຳຖາມແທນທ່ານ
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+ຕາບໃດທີ່ຜູ້ນັ້ນຍັງອ່ານໄດ້ ຄຳຕອບທີ່ຂຽນໃຫ້ເຫັນມັກຊ່ວຍໄດ້ຫຼາຍກວ່າຄຳເວົ້າ.
 
-| Tool | How to use it |
+| ເຄື່ອງມື | ວິທີໃຊ້ |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| ໂນດຂຽນຕົວໃຫຍ່ | “ໝໍມື້ນີ້ເວລາ 2 ໂມງ. ມາຣີຈະຂັບລົດ.” ວາງໄວ້ບ່ອນທີ່ເຂົາເຈົ້າເບິ່ງຫຼາຍທີ່ສຸດ |
+| ກະດານຂຽນ | ແຜນຂອງມື້ນີ້ສາມຫາສີ່ແຖວ ລຶບ ແລະຂຽນໃໝ່ທຸກເຊົ້າ |
+| ໂມງໃຫຍ່ທີ່ມີວັນ ແລະວັນທີ | ຊ່ວຍຕອບ “ມື້ນີ້ແມ່ນວັນອັນໃດ?” ແລະ “ເຖິງເວລາແລ້ວບໍ?” |
+| ປະຕິທິນ | ຂີດວັນທີ່ຜ່ານໄປ ວົງມົນນັດໝາຍຄັ້ງຕໍ່ໄປ |
+| ຮູບຄຸ້ນເຄີຍ | ຮູບຂອງຄົນທີ່ກຳລັງມາ ຊ່ວຍຕອບ “ໃຜມາຢ້ຽມ?” ໄດ້ |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+ແນວຄວາມຄິດເຫຼົ່ານີ້ມາຈາກ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ແລະ [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). ຊີ້ໄປທີ່ໂນດຢ່າງອ່ອນໂຍນ (“ມາເບິ່ງກະດານນຳກັນ”) ແທນທີ່ຈະເວົ້າວ່າ “ຂ້ອຍຂຽນໄວ້ໃຫ້ແລ້ວ.”
 
-## Tell them about events close to the time
+## ບອກເລື່ອງທີ່ເກີດຂຶ້ນໃກ້ກັບເວລາ
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+ການເວົ້າເຖິງນັດໝາຍ ຫຼືການອອກນອກບ້ານລ່ວງໜ້າຫຼາຍວັນ ອາດກາຍເປັນຄຳຖາມທີ່ກັງວົນຫຼາຍຊົ່ວໂມງ. Family Caregiver Alliance ແລະ Alzheimer's Los Angeles ແນະນຳໃຫ້ເວົ້າເຖິງແຜນການ ໂດຍສະເພາະແຜນທີ່ເຄັ່ງຕຶງ ເຊັ່ນ ການໄປພົບໝໍ ຫຼືການອາບນ້ຳ ພຽງບໍ່ດົນກ່ອນຈະເກີດຂຶ້ນ. ຈາກນັ້ນບອກວ່າຈະເກີດຫຍັງຕໍ່ໄປ ເທື່ອລະຂັ້ນ.
 
-## Activities that can shift attention
+## ກິດຈະກຳທີ່ຊ່ວຍປ່ຽນຄວາມສົນໃຈ
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+ເມື່ອຕອບແລ້ວ ແລະຮັບຮູ້ຄວາມຮູ້ສຶກແລ້ວ ກິດຈະກຳທີ່ສະຫງົບ ແລະໜ້າພໍໃຈອາດຊ່ວຍໄດ້ ໂດຍສະເພາະຖ້າຄວາມເບື່ອເປັນສາເຫດຂອງຄຳຖາມ. ທຸກແຫຼ່ງຂໍ້ມູນຂ້າງເທິງແນະນຳໃຫ້ປ່ຽນໄປເຮັດສິ່ງທີ່ຜູ້ນັ້ນມັກ.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **ເກມສັ້ນໆ ແລະງ່າຍນຳກັນ.** [ຈັບຄູ່ຮູບພາບ](/games/picture-pairs/) ໃຫ້ຮູບສະແດງຢູ່ສະເໝີ ດັ່ງນັ້ນບໍ່ຕ້ອງຈື່ຫຍັງ.
+2. **ວຽກທີ່ຄຸ້ນເຄີຍ.** ພັບຜ້າເຊັດຕົວ ແຍກຖົງຕີນ ຫຼືຈັດໂຕະອາຫານ. [ຈັດປະເພດນຳກັນ](/games/sort-together/) ເປັນເວີຊັນເທິງໜ້າຈໍຂອງວຽກນີ້.
+3. **ເວົ້າເຖິງສິ່ງທີ່ເຂົາເຈົ້າຮັກ.** [ບັດສົນທະນາ](/games/conversation-cards/) ໃຫ້ຄຳຖາມເປີດ ທີ່ບໍ່ມີຄຳຕອບຜິດ.
+4. **ດົນຕີ ການຍ່າງ ຫຼືຂອງວ່າງ.** National Institute on Aging ລະບຸສິ່ງເຫຼົ່ານີ້ໃນບັນດາວິທີງ່າຍໆ ເພື່ອປ່ຽນຄວາມສົນໃຈ.
+5. **ຢຸດພັກຢ່າງສະຫງົບ.** ນັ່ງນຳກັນ ເບິ່ງອອກປ່ອງຢ້ຽມ ຫຼືລອງ [ຫາຍໃຈຜ່ອນຄາຍ](/games/calm-breathing/) ນຳກັນສັກໜ້ອຍໜຶ່ງ.
 
-If they return to the question, answer it again, kindly. That is fine.
+ຖ້າເຂົາເຈົ້າກັບມາຖາມຄຳຖາມນັ້ນອີກ ໃຫ້ຕອບອີກຢ່າງອ່ອນໂຍນ. ມັນເປັນເລື່ອງປົກກະຕິ.
 
-## Look for patterns
+## ຊອກຫາຮູບແບບ
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association ແນະນຳໃຫ້ສັງເກດວ່າຄຳຖາມເກີດຂຶ້ນໃນເວລາໃດຂອງວັນ ກັບໃຜ ຫຼືຢູ່ບ່ອນໃດ. ຖ້າມັນເລີ່ມກ່ອນແຂກມາຮອດສະເໝີ ຫຼືໃນຕອນບ່າຍແກ່ ທ່ານສາມາດວາງແຜນລ່ວງໜ້າໄດ້: ໂນດກ່ຽວກັບການມາຢ້ຽມ ກິດຈະກຳທີ່ຄຸ້ນເຄີຍທີ່ພ້ອມໄວ້ ຫຼືຫ້ອງທີ່ງຽບກວ່າ. ຄູ່ມື [ກິດຈະກຳຕອນບ່າຍແກ່ທີ່ສະຫງົບ](/caregiving/late-day-restlessness/) ຂອງພວກເຮົາອາດຊ່ວຍໄດ້ ຖ້າຕອນແລງເປັນເວລາທີ່ຍາກທີ່ສຸດ.
 
-## Take care of yourself
+## ດູແລຕົວເອງດ້ວຍ
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+ການຕອບຄຳຖາມດຽວກັນເທື່ອທີ່ຊາວເປັນເລື່ອງທີ່ໝົດແຮງຫຼາຍ. ຖ້າທ່ານຮູ້ສຶກວ່າຄວາມອົດທົນໝົດລົງ ແລະຜູ້ນັ້ນປອດໄພ ໃຫ້ອອກໄປຢູ່ຫ້ອງອື່ນສັກສອງສາມນາທີ ແລະຫາຍໃຈ ດັ່ງທີ່ [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) ແນະນຳ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ສົ່ງເສີມໃຫ້ຜູ້ດູແລຂໍຄວາມຊ່ວຍເຫຼືອ ແລະພິຈາລະນາການດູແລພັກຜ່ອນ. ແນວຄິດເພີ່ມເຕີມຢູ່ໃນ [ຄູ່ມືການດູແລຕົວເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/) ຂອງພວກເຮົາ.
 
-## When should I call a doctor?
+## ຄວນໂທຫາໝໍເມື່ອໃດ?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+ໃຫ້ໂທຫາໝໍຂອງເຂົາເຈົ້າທັນທີ ຖ້າຄຳຖາມ ຄວາມສັບສົນ ຫຼືພຶດຕິກຳປ່ຽນແປງຢ່າງກະທັນຫັນ ຫຼືຮ້າຍແຮງຂຶ້ນຫຼາຍໃນຫຼາຍຊົ່ວໂມງ ຫຼືຫຼາຍວັນ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ເວົ້າວ່າການປ່ຽນແປງພຶດຕິກຳຢ່າງກະທັນຫັນ ຫຼືຢ່າງວ່ອງໄວ ໂດຍສະເພາະຫຼັງການຕິດເຊື້ອ ຫຼືການປ່ຽນຢາ ຄວນແຈ້ງໃຫ້ໝໍຮູ້ທັນທີ. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) ອະທິບາຍວ່າການຕິດເຊື້ອ ຢາ ການຂາດນ້ຳ ຄວາມເຈັບປວດ ຫຼືທ້ອງຜູກ ອາດເຮັດໃຫ້ເກີດ delirium ຊຶ່ງເປັນຄວາມສັບສົນຢ່າງກະທັນຫັນ ແລະຮຸນແຮງ ທີ່ຕ້ອງໄດ້ຮັບການຮັກສາຢ່າງວ່ອງໄວ. ຖ້າມີຄົນຢູ່ໃນອັນຕະລາຍ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນ.
