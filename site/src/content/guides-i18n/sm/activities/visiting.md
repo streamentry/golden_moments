@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Asiasi i se Tasi e Iai le Dementia i le Fale Tausi o le Mafaufau po o le Falemaʻi"
+seoTitle: "Asiasi i se Tasi e Iai le Dementia: O le a le Mea e Faia ma Aumai"
+description: "O le a le mea e faia pe a asiasi i se tasi e iai le dementia i se fale tausi, fale tausi matutua po o le falemaʻi: mea e aumai, gaoioiga faigofie, asiasiga puupuu ma le tali atu."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Pe a e asiasi i se tasi e iai le dementia i se fale tausi po o le falemaʻi, faafaigofie: taʻu atu lou igoa pe a e taunuu atu, aumai se mea e faasoa e pei o ata, musika po o se meaai e fiafia i ai, ma faia le tasi mea faigofie faatasi. E masani ona sili atu ona lelei asiasiga puupuu ma faifaipea nai lo asiasiga umi ma seasea. Fuafua se tali atu malu ma tumau ina ia faigofie le o ese mo outou uma.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Faatalofa i le tagata ma lona igoa ma taʻu atu po o ai oe, ina ia le manaʻomia ona ia mafaufau: “Talofa Tina, o Susan lea, o lau tama teine.”"
+  - "Aumai le tasi po o le lua mea e faasoa, e pei o se album ata, musika e fiafia i ai, se ie vaivai po o se meaai ua faatagaina e le aufaigaluega."
+  - "E masani ona sili atu ona lelei asiasiga puupuu ma faifaipea nai lo asiasiga umi ma seasea. E sili atu le taua o lou iai nai lo mea e te fai atu."
+  - "I le falemaʻi, avatu i le aufaigaluega se pepa e tasi e uiga i le tagata ma taʻu vave i le fomaʻi so o se suiga faafuasei."
+  - "Fuafua lou alu ese: taʻu atu pe fia le umi e mafai ona e nofo ai, faaaogā le tali atu tutusa i taimi uma, ma o ese e aunoa ma le tuai."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "O le a le mea e tatau ona ou aumai pe a asiasi i se tasi e iai le dementia?"
+    a: "Aumai se mea e faasoa nai lo se mea e talanoa i ai. O se album ata laiti, o se lisi o pese e fiafia i ai, o se ie vaivai, o se lotione mo lima, o se mekasini e uiga i se mea tuai na fiafia i ai, po o se meaai ua faatagaina e le aufaigaluega e aoga uma. I se fale tausi, e mafai foi ona avea ata o le aiga ma mea masani e foliga ai le potu e pei o le fale."
+  - q: "E fia le umi e tatau ona ou nofo ai pe a asiasi i se tasi e iai le dementia?"
+    a: "E leai se umi saʻo. E toatele aiga e iloa e sili atu ona lelei asiasiga puupuu ma faifaipea nai lo asiasiga umi ma seasea, aua e ono vave ona vaivai le tagata ma atonu e le manatua le umi na e nofo ai. Matamata i faailoga o le vaivai ma o ese a o lelei pea le asiasiga."
+  - q: "O le a le mea e fai atu ai pe a ia talosaga e alu i le fale?"
+    a: "Tali atu i le lagona, e le o upu. “Ou te manaʻo e alu i le fale” e masani ona faasino i le “Ou te le lagona le fiafia po o le saogalemu.” Taumafai e fai atu, “Taʻu mai ia te aʻu e uiga i lou fale,” vaai faatasi i ata, po o le ofoina atu o se savali po o se meaai. O le finauina po o le faamatalaina o le mafuaaga e le mafai ai ona alu e masani ona faaopoopo ai le atuatuvale."
+  - q: "Afai e le iloa aʻu e le tagata?"
+    a: "E mafai ona tiga, ae taumafai e aua le faasa'o ia te ia po o le fesili atu “E te le iloa po o ai aʻu?” Faailoa atu oe lava ma le mafanafana ma fiafia na o le taimi faatasi. E toatele tagata e fiafia pea i le faatasi ma lagona le mafanafana o se asiasiga e tusa lava pe latou te le iloa po o ai oe."
+  - q: "E faapefea ona ou fesoasoani a o i ai le tagata i le falemaʻi?"
+    a: "Nonofo ma le tagata pe a mafai, fesoasoani ia te ia e aai ma inu, ma aumai mea masani e pei o ata. Tuuina atu i le aufaigaluega se pepa o lona faasologa masani, igoa e fiafia i ai, mea e fiafia ma le fiafia i ai ma faailoga o le tiga. Taʻu vave i le fomaʻi pe a foliga mai ua faafuasei ona ino atu pe ese le tagata, aua e mafai ona avea le le mautonu faafuasei o se faailoga o se faafitauli faafomaʻi."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+O le asiasi i se tasi e te alofa i ai i se fale tausi o le mafaufau, fale tausi matutua po o le falemaʻi e mafai ona oo mai ai le tele o lagona. Atonu e te mafaufau i le mea e fai atu, le mea e aumai, po o le aoga ea o le asiasiga pe afai latou te le manatua. E aoga lava. Ua taʻua e le National Institute on Aging o tagata e iai le Alzheimer's [e masani ona fiafia i le faatasi](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e tusa lava pe latou te le manatua po o ai le tagata asiasi. O lenei itulau o loo tuuina atu ai laasaga aoga mo le taimi a o lei oo i le asiasiga, i le taimi o le asiasiga ma pe a uma, faatasi ai ma fautuaga patino mo le nofo i le falemaʻi.
 
-## How do I get ready for a visit?
+## E faapefea ona ou sauniuni mo se asiasiga?
 
-A little planning makes the visit easier for both of you.
+O sina fuafuaga e faafaigofie ai le asiasiga mo outou uma.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Filifili se taimi lelei.** Ua fautuaina e le Dementia Australia le asiasi pe a masani ona sili ona mataala le tagata, o le taeao po o le tafa o le aso mo le toatele. Ua fautuaina e le Family Caregiver Alliance le aʻoaʻoina o le faasologa o le fale tausi ma asiasi i [taimi avanoa, e le o taimi o gaoioiga](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Siaki i le aufaigaluega.** Fesili pe faapefea le tagata i le aso nei, ma siaki so o se tulafono e uiga i meaai, manu po o malaga.
+- **Faaputu se taga laitiiti mo le asiasiga.** O le tasi po o le lua mea e faasoa e lava (tagaʻi i le lisi i lalo).
+- **Fuafua ni nai mataupu.** O le tagata atonu e leai ni tala fou e faasoa, o lea aumai ou lava: tala o le aiga, le tau, se taaloga polo, se tala malie.
+- **Faatulaga ou lava faamoemoega.** O nisi asiasiga e mafanafana ma talanoa. O isi e filemu po o faigata. E masani uma nei.
 
-## What should I bring?
+## O le a le mea e tatau ona ou aumai?
 
-Bring things to share, not things that test. Good choices include:
+Aumai mea e faasoa, e le o mea e suʻe ai. O filifiliga lelei e aofia ai:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **O se album ata laitiiti** e iai ata lapopoa ma manino. Tusi igoa i tua mo le aufaigaluega.
+- **O se lisi o pese** e fiafia i ai i luga o se telefoni, ma ni faalogo faigofie po o se leo laitiiti.
+- **Se mea vaivai e uu,** e pei o se ie masani, o se solo po o se suieta.
+- **Lotione mo lima** mo se lamu lima malie, pe afai e fiafia le tagata i le pā.
+- **O se mekasini po o se tusi ata** e uiga i se mea tuai na fiafia i ai, e pei o le faatoaga, taavale, manulele po o le kuka.
+- **O se meaai e fiafia i ai,** pe afai e fai mai le aufaigaluega e saogalemu.
+- **Mea masani mo le potu.** Ua fautuaina e le Family Caregiver Alliance fugalaau, laau, ata o le aiga ma galuega faatufugaga, po o se ata tele o ata o le aiga mai aso ua mavae.
+- **O se tablet,** e vaai ai i ata o le aiga po o le taalo faatasi i se taaloga malie.
 
-## What can we do together during a visit?
+## O le a le mea e mafai ona tatou faia faatasi i le asiasiga?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+O le faia o se mea faatasi e aveʻesea ai le mamafa o le talanoaga. Ua fautuaina e le Dementia Australia le vaai i ata, o se galuega lima faigofie, o le totoina o ni fatu, musika, faasoa se meaai, po o se savalivali i le vaipanoa. O ni nai isi manatu:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Vaai i ata.** Faailoa atu mea e te vaai i ai: “Vaai i lena pulou.” “E matagofie lenei matafaga.” Tuu le tagata e taʻitaʻia. Aua le fesili “O ai lea?”
+2. **Taalo musika ma usu.** E mafai e pese masani ona siʻi aʻe le lagona ma tuu mai ai se taimi faatasi, e tusa lava pe faigata le talanoa.
+3. **Savali puupuu.** Ua fautuaina e le Family Caregiver Alliance le savali faataamilo i le fale, aemaise lava i le faatoaga pe afai e iai. O se savali i le nofoa taavale e faitau foi.
+4. **Lamu lima.** O sina lotione ma lamu malie i lima e mafai ona malū ai.
+5. **Fesoasoani i le teuteuina.** Ua taʻua e le Dementia Australia le sasa o lauulu, vali o maiuu po o le fesoasoani i le tagata e ofu i se ofu e fiafia i ai, pe afai e fiafia.
+6. **Taalo se taaloga faigofie.** Ua fautuaina e le Family Caregiver Alliance kata, domino, po o so o se mea sa masani ona taalo ai le tagata. I luga o se tablet, e mafai ona taalo [Ata Tutusa](/games/picture-pairs/) ma ata e tumau pea ona vaaia ma e leai se uati. O le [Ata o le Aiga](/games/photo-pairs/) e liliu ai ata e te filifilia i se taaloga e faafetaui ai, ma o ata e tumau i lau aloalo.
+7. **Matamata faatasi i se mea.** Ua fautuaina e le Family Caregiver Alliance tala malie ma ata tifaga tuai. E tusa lava pe le mafai e le tagata ona mulimuli i le tala, e mafai ona e nofo latalata ma faasoa le taimi.
+8. **Faitau i le leo.** O se solo puupuu, o se mau e fiafia i ai, po o se tusi mai se tasi o le aiga.
+9. **Na o le nonofo faatasi.** O le uuina o lima po o le nofo filemu o se asiasiga moni. Ua taʻua e le Alzheimer's Association e lelei le le iloa o le mea e fai atu, ma o lou iai e sili ona taua.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+E mafai e [Kata Talanoaga](/games/conversation-cards/) ona fesoasoani pe a uma mea e fai atu. O kata taʻitasi e iai se ata ma se valaaulia tatala.
 
-## How should I talk during the visit?
+## E faapefea ona ou talanoa i le taimi o le asiasiga?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Faailoa oe lava i taimi uma.** “Talofa Tama, o Mark lea, o lau tama tane.” Ua fautuaina e le NIA tagata asiasi e faailoa puupuu i latou lava e amata ai se talanoaga.
+- **Alu atu mai luma** ma nofo i le maualuga o mata.
+- **Aua le faasaʻo pe finau.** Ua fautuaina e le NIA tagata asiasi aua le faasaʻo le tagata pe a sese po galo se mea.
+- **Onosai** pe a faigata ona maua upu. Tuu le tele o taimi.
+- **Tali atu i lagona.** Afai e foliga faanoanoa po o le popole le tagata, talia muamua a o lei suia le mataupu.
+- **Aloese mai fesili suʻega** e pei o le “E te manatua aʻu?” po o le “O le a le mea na e aai i le aoauli?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Tagaʻi i a matou [fautuaga mo le fesootaiga](/caregiving/communication-tips/) mo le tele o isi mea.
 
-## What do I do when they say "I want to go home"?
+## O le a le mea e fai pe a latou fai mai “Ou te manaʻo e alu i le fale”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Tali atu i le lagona o loo i tua o upu (o la matou taʻiala i [pe a faifaipea ona talosaga se tasi e alu i le fale](/caregiving/asking-to-go-home/) e sili atu ona atoa). Ua faamatalaina e le Family Caregiver Alliance o le “Ou te manaʻo e alu i le fale” e masani ona avea ma auala e fai mai ai “Ou te le fiafia,” ma fautuaina tali e pei o le “Taʻu mai ia te aʻu e uiga i lou fale” po o le “O le a lau mea e sili ona e fiafia i ai i le fale?” Ua faaopoopo e le Dementia Australia e mafai ona uiga le “fale” i se taimi po o se nofoaga na lagona ai e le tagata le saogalemu, e pei o le tamaitiiti.
 
-Try:
+Taumafai:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- talia le lagona: “E foliga mai ua e misia le fale.”
+- ofoina atu le faamafanafanaga e ala i le pā, pe afai e talia
+- vaai i ata po o le talanoa e uiga i le fale o le aiga
+- ofoina atu se savali, se meainu po o se meaai
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Aloese mai le finauina po o le faamatalaina o le mafuaaga e le mafai ai ona alu. E seasea fesoasoani ma e masani ona faaopoopo ai le atuatuvale.
 
-## How long should a visit be?
+## E fia le umi e tatau ai ona umi se asiasiga?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+E masani ona sili atu ona lelei le puupuu ma le faifaipea. Ua taʻua e le Family Caregiver Alliance e masani lava ona le manatua e le tagata pe na e nofo mo le lima minute po o le lima itula, ma fautuaina e mafai ona sili atu ona lelei le tolu asiasiga puupuu i le vaiaso nai lo le tasi umi. Ua fai mai le Dementia Australia e leai se numera saʻo o asiasiga po o se umi saʻo.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+I vaiaso muamua pe a uma le siitia i se fale tausi, ua fautuaina e le Family Caregiver Alliance le asiasi soo, ona faasolosolo lea i se faiga masani. Fesili i le aufaigaluega po o le a le mea o loo latou vaaia.
 
-## How do I leave without upsetting them?
+## E faapefea ona ou o ese e aunoa ma le faatiga ia te ia?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+O le o ese e ono avea ma vaega e sili ona faigata. Ua fautuaina e le Dementia Australia:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Taʻu atu pe fia le umi e mafai ona e nofo ai pe a e taunuu.** “E mafai ona ou nofo mo le tasi itula, ona alu lea e faatau.”
+- **Faaaogā se gaoioiga e avea ma iuga faanatura.** “Pe a uma lenei pese, ou te alu.”
+- **Tuu i se taimi o le taumafataga po o se gaoioiga,** po o le talosaga i le aufaigaluega e fesoasoani i le tagata e nofo i se isi mea.
+- **Faapuupuu le tali atu ma faia tutusa i taimi uma.** O le faatuai, le faatoese po o le nofo “na o sina taimi toe” e mafai ona faigata ai tali atu i le lumanaʻi.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Pe a e alu ese, e masani le faanoanoa. Tuu oe lava e malolo. Afai na ita le tagata, e masani ona mafai e le aufaigaluega ona fesoasoani ia te ia e malū i se taimi puupuu mulimuli ane.
 
-## Visiting someone with dementia in the hospital
+## Asiasi i se tasi e iai le dementia i le falemaʻi
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+O le falemaʻi e pisa, e le masani ma e tumu i tagata ese, lea e mafai ona matua faigata ai mo se tagata o loo ola ma le dementia. O le taʻiala a le NIA i le [aveina o se tagata e iai le Alzheimer's i le falemaʻi](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) e fautuaina ai:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Tuu se tasi e nofo ma le tagata** pe a mafai: o se tasi o le aiga, o se uo e faatuatuaina po o se tagata tausi ua totogiina.
+- **Avatu i le aufaigaluega se pepa o faamatalaga patino** e iai le faasologa masani a le tagata, igoa e fiafia i ai, mea e fiafia ma le fiafia i ai, mea e ono faalavelave ai, ma faailoga e le o ni upu o le tiga. Tuu kopi i le potu ma le nofoaga o tausi maʻi.
+- **Fesoasoani i le aai ma le inu.** E mafai ona le lava le meaai o tagata matutua i le falemaʻi. Tatala ipu, fesoasoani i taumafataga, aai faatasi, ma ofoina atu meainu.
+- **Aumai mea e faamafanafana ai** e pei o ata po o mea faalelotu.
+- **Faaititia le pisapisa.** Tape le televise ma faaitiitia le leo o le telefoni ma le intercom.
+- **Taumafai taiala faamalu,** e pei o musika malie, faitau, tatalo, usu po o le vaai i ata tuai.
+- **Faalaeiau le feoaʻi** i le tele e saogalemu ai, ma le faatagaga a le aufaigaluega.
+- **Taʻu vave i le fomaʻi pe afai e foliga mai ua faafuasei ona ino atu pe ese le tagata.** Ua faamatalaina e le NIA o le le mautonu matuia faafuasei, e taʻua o le delirium, e mafai ona mafua mai i faafitauli e pei o le faamaʻi, le fiva, le le lava o le vai po o aafiaga o vailaau, ma e manaʻomia ai le tausiga faafomaʻi.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+O se asiasiga puupuu ma filemu ma se foliga masani ma se pese e fiafia i ai e mafai ona avea ma vaega e sili ona faamafanafana o se aso i le falemaʻi.
 
-## Bringing children on a visit
+## Aumaia tamaiti i se asiasiga
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+E mafai e tamaiti ona aumai le tele o le mafanafana. Sauniuni i latou muamua i upu faigofie ma moni, faapuupuu le asiasiga, ma tuu atu ia i latou se galuega, e pei o le faaali o se ata po o le tuuina atu o se ata. Ua fautuaina e le NIA e mafai e tamaiti ma tagata e iai le Alzheimer's ona fiafia i gaoioiga faigofie faatasi, e pei o le vaai i se album ata po o le faalogo i musika. Ua fautuaina e le Dementia Australia le faaputu o se taga laitiiti o mea suamalie po o mea filemu e faatumau ai tamaiti laiti.
 
-## Take care of yourself too
+## Tausia foi oe lava
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+E mafai ona vaivai ma lagona le asiasi, aemaise lava pe afai ua matua suia le tagata. E lelei le asiasi i le itiiti pe afai e te manaʻomia, aumai se uo mo se lagolago, po o le o ese vave i se aso faigata. Mo manatu i le tausia o oe lava, tagaʻi i le [tausiga o le tagata tausi](/caregiving/caregiver-self-care/). Afai e te nofo mamao, tagaʻi i la matou taʻiala i [valaauga telefoni ma vitio](/activities/phone-and-video-calls/).

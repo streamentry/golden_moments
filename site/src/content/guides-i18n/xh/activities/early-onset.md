@@ -77,7 +77,7 @@ Iipeyi zemifanekiso eyenziwe ngeefoto zosapho nazo zinokusebenza kakuhle, kuba i
 
 Abantu abaninzi abane-dementia eqala kwangethuba basasebenza, baqhuba okanye bayilawula imali. Ezi asizizo imisebenzi ngomqondo oqhelekileyo, kodwa zichaphazela oko umntu anokukwenza. Thetha nogqirha wakhe ngokuqhuba nokhuseleko emsebenzini, uze ucinge ukuba ufuna uncedo ngemali okanye ngeendibano. Injongo kukukhusela isidima ngoxa umntu ehlala ebandakanyekile ngangoko efuna.
 
-Ukuze ufumane isikhokelo ngemihla ngemihla nokuhlala usebenza, jonga [inkqubo yemihla ngemihla enobubele](/activities/daily-routine/) kunye nemisebenzi yasekhaya njengemisebenzi](/activities/household-tasks/).
+Ukuze ufumane isikhokelo ngemihla ngemihla nokuhlala usebenza, jonga [inkqubo yemihla ngemihla enobubele](/activities/daily-routine/) kunye [nemisebenzi yasekhaya njengemisebenzi](/activities/household-tasks/).
 
 ## Inkxaso yabalingane nabantwana abadala
 
