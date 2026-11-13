@@ -1,34 +1,36 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Te Whakarite i te Papa Rorohiko, Waea Rānei mō te Tangata Whai Mate Wareware"
+seoTitle: "Whakarite Papa Rorohiko, Waea mō te Tangata Whai Mate Wareware"
+description: "Te whakarite i te papa rorohiko me te waea mō te tangata whai mate wareware: kotahi te taupānga, kupu nui ake, kore pānui, mata kāinga māmā."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Whakamāmātia te papa rorohiko, te waea rānei i mua i te tuku atu. Raua ki te
+  kotahi taupānga mā Guided Access i runga i te iPad me te iPhone, mā te
+  whakapiri taupānga rānei i runga i a Android, whakamahia rānei te Assistive
+  Access a Apple mō te hōtaka māmā ake. Whakanuia ngā kupu, whakamutua ngā
+  pānui, waihotia ko ētahi taupānga noa iho ki te mata kāinga kotahi,
+  whakarite i te reo, whakamahia he turanga, me te whakawhāiti i ngā
+  whakaaetanga a ngā taupānga. Whakamahia tahi, i te taha o ngā mahi kāore e
+  hāngai ana ki te mata.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Mā Guided Access (iPhone, iPad) me te whakapiri taupānga (Android) e noho tonu ai te mata ki te kotahi taupānga kia tūwhera ra anō koe."
+  - "Kei te Assistive Access a Apple he hōtaka māmā ake, i hoahoatia mō ngā tāngata whai whakaraerae hinengaro."
+  - "Whakanuia ngā kupu, whakawetohia hoki ngā pānui me ngā matapihi pekepeke kia kore ai he whakararu, he whakapōrearea rānei."
+  - "Waihotia ko ētahi taupānga rongonui noa iho ki te mata kāinga kotahi, ka whakarite i te reo i mua i te tīmatanga."
+  - "Mā te turanga me tētahi wāhi tāuru kāore e neke, ka māmā ake te whakamahi me te kimi i te taputapu."
+  - "Arotakehia ngā whakaaetanga a ngā taupānga me te tuari raraunga: kāore te HIPAA e tiaki i ngā mea e penapenahia ana ki tētahi taputapu ake."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Me pēhea e kore ai te tangata whai mate wareware e puta i te taupānga i runga i te iPad?"
+    a: "Whakaweheatia a Guided Access i Settings > Accessibility > Guided Access ka whakatakoto kupuhipa. Whakatuwheratia te taupānga, patoko-toru i te pātene o runga (te pātene Home rānei i runga i ngā iPad tawhito), ka pāwhiri i Start. Ka noho te iPad ki taua taupānga kia whakauru rā anō tētahi i te kupuhipa."
+  - q: "Me pēhea te raupā i tētahi papa rorohiko Android ki te kotahi taupānga?"
+    a: "Whakaweheatia te whakapiri taupānga i te taupānga Settings, i raro i te Security te nuinga o te wā (i etahi wā Security & location) > Advanced > App pinning. Ka whakatuwhera i te taupānga, ka whakatuwhera i Overview, ka pāwhiri i te tohu o te taupānga i runga, ka pāwhiri i Pin. Me whakauru tō PIN, tō tauira, tō kupuhipa rānei hei wetemo."
+  - q: "He haumaru rānei te whakamahi i a Guided Access i runga i te waea o taua tangata?"
+    a: "Kia tūpato. E ai ki a Apple, kāore e wātea a Crash Detection me Emergency Services i a Guided Access e whakaoranga ana. Mēnā e whakawhirinaki ana te tangata ki tāna waea mō ngā waea ohotata, me whakamahi noa i a Guided Access ina noho tahi koe ki a ia, me whakaaro rānei ki a Assistive Access."
+  - q: "E hia te roa o te wā mata e pai ana mō te tangata whai mate wareware?"
+    a: "Kāore he tau tōtika. He wā poto, he wā tahi, ka honoa ki te hīkoi, te puoro, ngā mahi whare me te kōrerorero, ka kī ake te rā i te wā roa e noho ana ko te mata anake. Mēnā ka puta he pāmamae mai i te taputapu, ka whakakapi rānei i ētahi atu mahi, whakamahia iti iho."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +67,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+He huarahi pai te papa rorohiko hei tuari whakaahua, puoro me ētahi kēmu māmā. Engari ka taea hoki te whakapōrearea: ka pāwhiri hape, ka tuwhera tētahi atu taupānga, ka puta he pānui, he iti rawa ngā kupu, ka pōuri rānei te mata i waenganui i te kēmu. Mā te mahi āta whakarite iti nei i tōu taha e whakatika te nuinga o ērā.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Ka whakamahia i konei ngā tautuhinga o roto i te iPhone, te iPad me Android. Ka rerekē ētahi ingoa tahua i waenga i ngā putanga pūmanawa me ngā kaihanga taputapu, nō reira mēnā he rerekē tā koe e kite ai, whaia te whārangi tūhono a Apple, a Google rānei mō tō taputapu. Whakaritea koe anō i mua i tō noho tahi ki te tangata.
 
-## Should someone with dementia use a tablet or phone?
+## Me whakamahi rānei te tangata whai mate wareware i te papa rorohiko, i te waea rānei?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Ka whakawhirinaki ki te tangata. He maha ngā tāngata e pai ana ki te whakamahi i te papa rorohiko ki te taha o tētahi atu, ahakoa kāore e taea e rātou anake. Tīmataria ma te whakamahi tahi, ko te kotahi taupānga kua tuwhera, mō ētahi meneti. Mēnā he koa me te kōrerorero te hua, haere tonu. Mēnā he pōrearea, he pāmamae rānei te hua, tērā pea he pai ake te pukapuka whakaahua, ngā whārangi taia, te puoro rānei. Ko ā mātou [mahi taia](/activities/printable/) tētahi atu huarahi.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+He māmā ake te papa rorohiko i te waea: he rahi ake te mata me ngā whakaahua, ā, ehara hoki i te whakawhiti waea ohotata a te tangata.
 
-## How do I lock a tablet or phone to one app?
+## Me pēhea te raupā i te papa rorohiko, i te waea rānei ki te kotahi taupānga?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Whakamahia a Guided Access i te iPhone me te iPad, te whakapiri taupānga rānei i Android. Ka noho te mata ki te kotahi taupānga kia whakauru ra anō koe i tētahi tohu, nō reira e kore e tuwhera tētahi atu mea i te pāwhiri hape, i te hāparangi rānei.
 
-### iPad and iPhone: Guided Access
+### iPad me iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Mai i [ngā tohutohu Guided Access a Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Whakatuwheratia a **Settings**, pāwhiria a **Accessibility**, ā, pāwhiria a **Guided Access** ka whakaweheatia.
+2. I raro i a **Passcode Settings**, whakatakotoria he kupuhipa Guided Access. Ka taea hoki te whakaae ki a Face ID, Touch ID rānei.
+3. Kōwhiri: i raro i a **Display Auto-Lock**, whiriwhiria te tere o te raupā o te mata i te wā e whakamahia ana, kia kore ai e pōuri i waenganui i te kēmu.
+4. Whakatuwheratia te taupānga e hiahia ana koe.
+5. Patoko-toru i te pātene taha (iPhone), te pātene runga (iPad), te pātene Home rānei i ngā taputapu tawhito.
+6. Kōwhiri: porowhitahia ngā wāhi o te mata e hiahia ana koe kia kaua e urupare ki te ppā. Pāwhiria a **Options** (a **Session Settings** rānei) hei whakawetohia i ngā pātene reo, hei aukati rānei i te hurihanga o te mata.
+7. Pāwhiria a **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Hei whakamutu i te wā whakamahi, patoko-toru anō i taua pātene, whakauruhia te kupuhipa, ka pāwhiri i **End**. E ai ki a Apple, i ētahi putanga pūmanawa tawhito me patoko-rua.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Nui te take:** E ai ki a Apple, kāore e wātea a Crash Detection me Emergency Services i te wā o tētahi wā Guided Access. Kaua e waiho a Guided Access e rere ana i runga i tētahi waea e hiahiatia pea e te tangata mō ngā waea ohotata.
 
-### Android: app pinning
+### Android: te whakapiri taupānga
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Mai i [te āwhina Android a Google mō te whakapiri mata](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Whakatuwheratia te taupānga **Settings**.
+2. Pāwhiria a **Security** (a **Security & location** rānei), ā, **Advanced**, ā, **App pinning**. Mēnā kāore koe e kite, tirohia ngā whārangi āwhina a te kaihanga taputapu.
+3. Whakaweheatia a **App pinning**. Ka hiahiatia tō PIN, tō tauira, tō kupuhipa rānei hei wetemo.
+4. Whakatuwheratia te taupānga e hiahia ana koe. Hāparangihia ki runga ki waenganui o te mata ka pupuri hei whakatuwhera i a Overview (pāwhiria rānei a Overview ki te whakatere pātene-toru).
+5. Ki te runga o te tirohanga o te taupānga, pāwhiria te tohu o te taupānga, ā, pāwhiria a **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Hei wetemo mā te whakatere hāparanga, hāparangihia ki runga ka pupuri. Mā te whakatere pātene-toru, pupuri ki a Back me Overview. Mā te whakatere pātene-rua, pupuri ki a Back me Home. Ka whakauru i tō PIN, tō tauira, tō kupuhipa rānei.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## He aro māmā ake rānei mō te iPhone, iPad katoa?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Āe. Ko Assistive Access a Apple e whakakapi ana i te mata kāinga o mua ki tētahi māmā ake. [E whakaahua ana a Apple](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) i te mea i hoahoatia kia māmā ake ai te whakamahi i te iPhone e ngā tāngata whai whakaraerae hinengaro, ā-tūnoa, me ngā āhuatanga nui ake kei te mata, me ngā āhuatanga kua aro nui ake. E tuku ana a Apple i [taua āhuatanga ano i runga i te iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Ko wai te whakarite.** E kī ana a Apple me āwhina tētahi kaitautoko whakawhirinaki, pērā i tētahi o te whānau, kaitiaki rānei e mōhio ana ki te tangata, ki te kōwhiri taupānga me ngā āhuatanga.
+- **Hei tīmata.** Haere ki **Settings > Accessibility > Assistive Access**, pāwhiria a **Set Up Assistive Access**, ā, **Continue**.
+- **Ngā taupānga.** Mā koe e kōwhiri ngā taupānga ka puta. He putanga māmā ake tō ētahi taupānga Apple, ā, ka taea te tāpiri i te nuinga atu o ētahi atu i tō rātou hoahoa noa.
+- **Te hōtaka.** Kōwhiria a **Rows** (he rārangi māmā ki te pānui) a **Grid** (he mea nui ake e whakanui ana i ngā whakaahua me ngā tohu).
+- **Te kupuhipa.** Ka whakatakoto koe i tētahi kupuhipa Assistive Access motuhake hei tomo, hei puta, hei huri rānei i ngā tautuhinga. E tūtohu ana a Apple kia whakaritea he Apple Account whakaora i te wā whakarite, nā te mea mēnā kāore, ā, ka wareware te kupuhipa, me tautuhi anō te taputapu.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Tērā pea e pai a Assistive Access mō tētahi e whakamahi ana i tōna ake taputapu ia rā. He tere ake a Guided Access, te whakapiri taupānga rānei mō tētahi wā kēmu tuari.
 
-## How do I make text and pictures bigger?
+## Me pēhea te whakanui ake i ngā kupu me ngā whakaahua?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Whakanuia ngā kupu me te rahi o te mata, ā, tirohia kei te noho tonu ngā pātene ki te mata.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone me iPad.** E ai ki [ngā tohutohu rahi momotuhi a Apple](https://support.apple.com/en-us/102453), haere ki **Settings > Display & Brightness > Text Size** ā, toia te kōtaha. Mō ngā kupu nui ake anō, haere ki **Settings > Accessibility > Display & Text Size > Larger Text**. E kī ana a Apple ka uaua ake te pāwhiri i ētahi pātene i te kupu nui rawa, nō reira whakatikatikahia mēnā e hiahiatia ana.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** E ai ki [te āwhina tautuhinga kupu me te mata a Google](https://support.google.com/accessibility/android/answer/11183305?hl=en), whakatuwheratia a **Settings** ka kimi i a **Font size**, ā, nekehia te kōtaha. Kimihia a **Display size** kia nui ake ai ngā mea katoa kei te mata. Ka taea hoki te whakaweheatia a **Bold text** i raro i a **Accessibility > Display size and text**. Kāore ētahi taupānga e whai i ēnei tautuhinga.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+I ngā kēmu pērā i a [Picture Pairs](/games/picture-pairs/) me [Find the Same](/games/find-the-same/), ka taea hoki te kōwhiri i ngā taera, kōwhiringa rānei he iti iho, hei whakamāmā ake i te mata.
 
-## How do I stop notifications and pop-ups?
+## Me pēhea te aukati i ngā pānui me ngā matapihi pekepeke?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Whakawetohia ngā pānui mō ngā taupānga kāore koe e hiahia ana, ā, whakamahia a Do Not Disturb i te wā o ngā mahi.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone me iPad.** Haere ki **Settings > Notifications**, pāwhiria tētahi taupānga i raro i a **Notification Style**, ā, whakawetohia a **Allow Notifications** ([te aratohu tautuhinga pānui a Apple](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Hei whakamutu mō tētahi wā i ngā waea, ngā whakatūpato me ngā pānui, whakatuwheratia a Control Center ka whakaweheatia a **Do Not Disturb** mai i te pātene **Focus** ([te āwhina Do Not Disturb a Apple](https://support.apple.com/en-us/105112)). Ka taea te whakarite wā i raro i a **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Hāparangihia ki raro mai i te runga o te mata ka pāwhiri i a **Do Not Disturb**, haere rānei ki **Settings > Modes > Do Not Disturb** ([te āwhina Do Not Disturb a Google](https://support.google.com/android/answer/9069335?hl=en)). I raro i a **Notification filters** ka taea te kōwhiri ko ēwhea tāngata, taupānga hoki ka tae tonu mai. He rerekē ngā tautuhinga i ia kaihanga taputapu.
 
-## How do I make a simple home screen?
+## Me pēhea te hanga i tētahi mata kāinga māmā?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Waihotia ētahi taupānga rongonui ki te mata kotahi, ā, nekehia ērā atu ki wāhi huna. Kāore he tautuhinga kotahi mō tēnei; ko te tango i te kōpukupuku te take.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Kōwhiria te toru ki te ono taupānga.** Hei tauira, ngā whakaahua, te puoro, tētahi taupānga waea ataata me tētahi kēmu.
+- **Whakanōhia ki te mata tuatahi,** ki ngā wāhi ōrite i ngā wā katoa, ā, nekehia ngā mea katoa atu ki te mata tuarua, kōpaki rānei.
+- **Whakamahia he pepa pakitara mārama, whakahirahira,** pērā i te tae kotahi, i te whakaahua kotahi e mōhiotia ana, kia kitea ai ngā tohu.
+- **Mukua ngā taupānga kāore koe e hiahia ana.** Ko te iti iho o ngā taupānga, ko te iti iho o te whakapōrearea me te iti iho o te raraunga e kohia ana.
+- **Whakaarohia a Assistive Access** i ngā taputapu Apple mēnā e hiahia ana koe kia mahia tērā e te taputapu.
 
-## What about volume and sound?
+## Me pēhea te reo me te oro?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Whakaritea he reo ahuru i mua i tō tuku atu i te taputapu. Mā Guided Access, ka taea te whakawetohia ngā pātene reo kia kore e rerekē i waenga i te mahi. Tirohia kei te whakaurua, kei te mahi pai hoki ngā āwhina whakarongo.
 
-## Where should the tablet live?
+## Hei whea te noho a te papa rorohiko?
 
-Give it a stand and a permanent charging spot.
+Hoatu he turanga me tētahi wāhi tāuru pūmau.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **He turanga, he kēhi rānei** e pupuri ana i te papa rorohiko e tū ana ki te tēpu, kāore he tangata e hiahia ana ki te pupuri, ā, he māmā ake te tohu atu.
+- **Kotahi te wāhi tāuru** kāore e neke, he pai ake mēnā he turanga tāuru kei runga i tētahi tēpu i tētahi rūma e whakamahia ana ia rā. Kua tāuruhia tonu te papa rorohiko, kei te wāhi ōrite tonu hoki.
+- **Whakaitia te hiko.** Whakanōhia te mata kia tawhiti atu i tētahi matapihi tino mārama.
 
-## How much screen time is okay?
+## E hia te roa o te wā mata e pai ana?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Kāore he tau meneti tōtika. Whāia he wā poto, he wā tuari, hei wāhanga kotahi o tētahi rā ki tonu, tae atu ki te nekeneke, te puoro, ngā mahi whare, te kōrerorero me te wā i waho. I te mea ka taea e ngā ahiahi pukumahi te whakapiki i te noho pōrearea o te mutunga o te rā, whakaarohia te waiho i ngā mahi mata ki te wāhanga o mua o te rā. Tirohia [ngā mahi marie mō te ahiahi tōmuri](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Mā te whakamahi tahi i te papa rorohiko, ehara i te mea hei kaitiaki tamariki, ka noho tonu te hapori. Ko tā mātou aratohu mō te [takaro tahi i ngā kēmu](/caregiving/how-to-play-together/) e whakamārama ana i te huarahi.
 
-## How do I protect their privacy on the device?
+## Me pēhea te tiaki i tō rātou noho muna i te taputapu?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Whakawhāitihia te mea ka taea e ngā taupānga te kohi, ā, kaua e whakaaro e kapi ana e te ture noho muna hauora. E [whakamārama ana](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) te U.S. Department of Health and Human Services (HHS) kāore ngā Ture HIPAA e tiaki i te nuinga o ngā mōhiohio hauora e penapenahia ana ki ngā waea me ngā papa rorohiko ake, e tomo rānei ki reira. I te nuinga o te wā, kāore hoki te HIPAA e tiaki i ngā raraunga e whakauruhia ana ki ngā taupānga mō te whakamahi ake, ki te kore te taupānga i tae mai i tētahi kaiwhakarato tiaki hauora kua kapi, i tētahi mahere hauora, i tētahi o ō rātou hoa pakihi rānei.
 
-HHS suggests:
+E whakaaro ana a HHS:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- kia karo i ngā taupānga kāore e hiahiatia ana, ngā taupānga tupurangi rānei, ā-tūnoa ngā mea "koreutu";
+- kia kaua e hoatu ki ngā taupānga te urunga ki te wāhi, ki te kore e tino hiahiatia, pērā i ngā mahere.
 
-Also consider:
+Whakaarohia hoki:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Whakamahia he kupuhipa** i te taputapu, ā, tuhia ki tētahi wāhi haumaru.
+- **Arotakehia ngā whakaaetanga** mō ngā whakaahua, te kāmera, te hopuoro, ngā whakapā me te wāhi, ā, whakawetohia ērā e kore e hiahiatia e te taupānga.
+- **Tirohia te mea e kohia ana e te taupānga** i mua i te tāuta. Kei tā mātou aratohu mō te [kōwhiri i ngā taupānga me ngā kēmu mate wareware](/caregiving/choosing-apps-and-games/) tētahi rārangi tirotiro noho muna.
+- **Kia tūpato ki ngā whakaahua whānau.** Tuaritia noa ngā whakaahua e pai ana ki te tangata, ā, kia mōhio ki te wāhi e penapena ai te taupānga i ērā. I roto i a [Photo Pairs](/games/photo-pairs/), ka noho ngā whakaahua i kōwhiria e koe ki tō kaitirotiro.
+- **Whakawetohia ngā hokonga i roto i te taupānga** me te tango rānei i ngā taipitopito utu mai i ngā kaute e whakamahia ana e te tangata.

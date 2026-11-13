@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Нишонаҳои барвақти деменсия ва кай ба духтур муроҷиат кардан лозим"
+seoTitle: "Нишонаҳои барвақти деменсия ва кай ба духтур равед"
+description: "Нишонаҳои маъмули барвақти деменсия, фарқи онҳо аз пиршавии муқаррарӣ, сабабҳои табобатшавандаи мушкилоти хотира ва омодагӣ ба дидор бо духтур."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Гум шудани хотира, ки зиндагии ҳаррӯзаро халалдор мекунад, мушкилӣ бо корҳои шинос,
+  парешонӣ дар бораи вақт ё ҷой ва тағйироти кайфият ё доварӣ метавонанд нишонаҳои барвақти
+  деменсия бошанд. Ҳолатҳои дигари бисёр, аз ҷумла мушкилоти ғадуди сипаршакл, витамини B12-и
+  кам, таъсироти иловагии доруҳо, ғамгинӣ ва мушкилоти хоб, метавонанд тағйироти монанд
+  оваранд. Танҳо клиницисти босалоҳият метавонад ташхис гузорад. Парешонии ногаҳонӣ нигоҳубини
+  фавриро талаб мекунад.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Фаромӯшкории гоҳ-гоҳ бо синну сол маъмул аст; тағйироте, ки зиндагии ҳаррӯзаро халалдор мекунанд, арзиши санҷиш доранд."
+  - "Ассотсиатсияи Алтсгеймер 10 нишонаи огоҳкунандаро тавсиф мекунад, ки ҳар кадом бо тағйироти маъмули вобаста ба синну сол барои муқоиса оварда шудааст."
+  - "Мушкилоти ғадуди сипаршакл, витамини B12-и кам, таъсироти иловагии доруҳо, ғамгинӣ, сироятҳо ва мушкилоти хоб ҳама метавонанд ба хотира таъсир расонанд ва баъзеи онҳо табобатшавандаанд."
+  - "Танҳо клиницисти босалоҳият метавонад деменсияро ташхис диҳад; озмунҳо ва худозмоиҳои интернетӣ наметавонанд."
+  - "Парешонӣ, ки ногаҳон, дар давоми соатҳо ё рӯзҳо пайдо мешавад, метавонад делирий бошад ва нигоҳубини фаврии тиббиро талаб мекунад."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Оё фаромӯшкорӣ қисми муқаррарии пиршавист?"
+    a: "Қисме аз он ҳа. Институти миллии пиршавӣ мегӯяд, ки гоҳ-гоҳ ҷойи чизеро гум кардан ё қарзи ҳисобро фаромӯш кардан одатан фаромӯшкории сабуки вобаста ба синну сол аст. Деменсия қисми муқаррарии пиршавӣ нест. Мушкилоти хотира, ки корҳои ҳаррӯза, чун рондани мошин, истифодаи телефон ё ёфтани роҳи хонаро душвор мекунанд, арзиши бо духтур санҷидан доранд."
+  - q: "Оё мушкилоти хотираро чизи дигаре ғайр аз деменсия ба вуҷуд оварда метавонад?"
+    a: "Бале. Институти миллии пиршавӣ мушкилоти ғадуди сипаршакл, гурда ё ҷигар, таъсироти иловагии доруҳо, ғамгинӣ ва изтироб, витамини B12-и кам, суиистифода аз машрубот, мушкилоти хоб, сироятҳо ва осеби сар ва дигаронро номбар мекунад. Баъзе аз инҳо пас аз табобат беҳтар мешаванд, ки яке аз сабабҳои муҳим будани санҷиши тиббист."
+  - q: "Оё дар хона касеро барои деменсия озмоиш карда метавонам?"
+    a: "Не. Танҳо клиницисти босалоҳият метавонад деменсияро ташхис диҳад, бо истифода аз таърихи тиббӣ, муоинаи ҷисмонӣ, озмунҳои хотира ва фикркунӣ, таҳлилҳои озмоишгоҳӣ ва баъзан сканҳои майна. Ҳатто озмунҳои кӯтоҳе, ки духтурон истифода мебаранд, танҳо барои ташхиси деменсия кофӣ нестанд."
+  - q: "Агар касе ногаҳон парешон шавад, чӣ кор кунам?"
+    a: "Фавран кӯмаки тиббӣ гиред. Парешонии ногаҳонӣ метавонад делирий бошад, ки VA онро ҳолати фавқулоддаи тиббӣ тавсиф мекунад. Ба провайдери тиббии шахс фавран занг занед ё ба рақами фавқулоддаи маҳаллии худ занг занед, бо ӯ бимонед ва доруҳоеро, ки истеъмол мекунад, қайд кунед."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Мушоҳида кардани тағйирот дар хотираи худатон ё дар касе, ки дӯсташ медоред, метавонад тарсонанда бошад. Ин саҳифа метавонад ба шумо кӯмак кунад, ки бифаҳмед, кай ба духтур навбат гирифтан лозим ва чӣ тавр ба он омода шудан. Он наметавонад бигӯяд, ки оё касе деменсия дорад. **Танҳо клиницисти босалоҳият метавонад деменсияро ташхис диҳад** ва бисёр ҳолатҳое, ки мушкилоти хотираро ба вуҷуд меоранд, умуман деменсия нестанд. Лутфан ба озмунҳо ё худозмоиҳои интернетӣ такя накунед.
 
-## What are the early signs of dementia?
+## Нишонаҳои барвақти деменсия кадомҳоянд?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Ассотсиатсияи Алтсгеймер](https://www.alz.org/alzheimers-dementia/10_signs) 10 нишонаи барвақтро тавсиф мекунад. Он ҳар якро бо тағйироти маъмули вобаста ба синну сол барои муқоиса ҷуфт мекунад. Бо суханони худамон:
 
-| Sign worth checking | More typical with age |
+| Нишонае, ки арзиши санҷиш дорад | Бештар бо синну сол маъмул | 
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Гум шудани хотира, ки зиндагии ҳаррӯзаро халалдор мекунад, масалан фаромӯш кардани воқеаҳои наздик ё бор-бор пурсидани як чиз | Баъзан фаромӯш кардани ном ё мулоқот ва баъдтар ба ёд овардани он |
+| Мушкилӣ дар банақшагирӣ ё ҳалли масъалаҳо, масалан пайравӣ кардани дастурпази шинос ё пайгирии ҳисобҳо | Хатои гоҳ-гоҳ бо ҳисобҳои хона |
+| Душворӣ дар анҷом додани корҳои шинос дар хона, дар кор ё дар берун | Гоҳ-гоҳ ба кумак ниёз доштан бо танзими печи мавҷӣ ё сабти намоиши телевизионӣ |
+| Гум кардани ҳисоби санаҳо, фаслҳо ё ҷойи будубош | Нодуруст гуфтани рӯзи ҳафта ва баъд дарёфти он |
+| Мушкилии нав дар баҳо додани масофа, хондан ё фарқ кардани рангҳо | Тағйироти биноӣ аз катаракта |
+| Мушкилоти нав бо калимаҳо, чун дар миёнаи гуфтугӯ қатъ шудан ё номи нодуруст гузоштан ба чизҳо | Гоҳ-гоҳ душворӣ дар ёфтани калимаи дуруст |
+| Гузоштани чизҳо дар ҷойҳои ғайриоддӣ ва натавонистани пайгирии қадамҳо | Гоҳ-гоҳ гум кардани чизҳо ва ёфтани онҳо бо пайгирии қадамҳо |
+| Доварии бад, масалан дар бораи пул ё тозагии шахсӣ | Қарори нодурусти гоҳ-гоҳ |
+| Дур шудан аз ҳавасҳо, кор ё фаъолиятҳои иҷтимоӣ | Гоҳ-гоҳ майл надоштан ба рафтан ба маросими оилавӣ ё иҷтимоӣ |
+| Тағйирот дар кайфият ё шахсият, чун парешон, шубҳанок, тарсон ё изтиробнок шудан | Одатҳои муқарраркардашуда доштан ва ҳангоми вайрон шудани тартиб асабонӣ шудан |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Як нишона танҳо маънои деменсия надорад. Нукта **тағйир аз он чи барои он шахс муқаррарӣ аст** мебошад, хусусан чунин тағйире, ки зиндагии ҳаррӯзаро душвортар мекунад.
 
-## How is normal aging different from dementia?
+## Пиршавии муқаррарӣ аз деменсия чӣ фарқ дорад?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Институти миллии пиршавӣ (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) мегӯяд, ки бисёр пиронсолон мебинанд, ки чизҳоро оҳистатар ба ёд меоваранд ё гоҳ-гоҳ ҷойи чизеро гум мекунанд ё қарзи ҳисобро фаромӯш мекунанд. Инҳо одатан нишонаҳои фаромӯшкории сабуканд. **Деменсия қисми муқаррарии пиршавӣ нест.** Мушкилоти ҷиддии хотира фаъолиятҳои ҳаррӯзаро, аз қабили рондани мошин, истифодаи телефон ё ёфтани роҳи хонаро душвор мекунад.
 
-The NIA suggests talking with a doctor if someone:
+NIA тавсия медиҳад, ки бо духтур сӯҳбат кунед, агар касе:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Саволҳои якхеларо бори такрор мепурсад
+- Дар ҷойҳое, ки пештар хуб медонист, гум мешавад
+- Бо пайравӣ кардани дастурпаз ё нишондодҳо мушкил дорад
+- Дар бораи вақт, одамон ва ҷойҳо бештар парешон мешавад
+- Аз худ нигоҳубин карданро бас мекунад, масалан бад мехӯрад, шусту шӯй намекунад ё ба таври ноамн рафтор мекунад
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Баъзе одамон **норасоии сабуки шинохтӣ (MCI)** доранд. Ин маънои мушкилоти бештари хотира ё фикркуниро нисбат ба ҳамсолон дорад, дар ҳоле ки зиндагии ҳаррӯзаро идора мекунанд. NIA мегӯяд, ки MCI шояд нишонаи барвақти Алтсгеймер бошад, аммо на ҳар касе, ки MCI дорад, онро пайдо мекунад.
 
-## What else can cause memory problems?
+## Боз чӣ метавонад мушкилоти хотираро ба вуҷуд орад?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Бисёр чизҳо ғайр аз деменсия метавонанд ба хотира таъсир расонанд ва баъзеи онҳо бо табобат беҳтар мешаванд. NIA номбар мекунад:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Мушкилоти ғадуди сипаршакл, гурда ё ҷигар**
+- **Таъсироти иловагии доруҳо**
+- **Ғамгинӣ ва изтироб**
+- **Витамини B12-и кам** ё кофӣ нахӯрдани хӯроки солим
+- **Мушкилоти хоб**
+- **Суиистифода аз машрубот ё маводи мухаддир**
+- **Сироятҳо, лахтаҳои хун ё варамҳо** дар майна
+- **Осеби сар**, аз қабили зарбаи майна
+- **Стресси бузург ё ғам**, аз қабили ба нафақа баромадан ё аз даст додани ҳамсар
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Мушкилоти шунавоӣ ва биноӣ низ метавонанд бо парешонӣ иштибоҳ шаванд; [роҳнамои шунавоии мо](/brain-health/hearing/)-ро бинед. Бинобар ин санҷиши тиббӣ муҳим аст. Мувофиқи [Ассотсиатсияи Алтсгеймер](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), духтурон аксар таҳлили хунро барои санҷиши мушкилоти ғадуди сипаршакл, камбуди витаминҳо ва сироят таъин мекунанд. [Хоб](/brain-health/sleep/)-и хуб ва табобати ғамгинӣ низ арзиши матраҳ карданро доранд.
 
-## Sudden confusion is an emergency
+## Парешонии ногаҳонӣ ҳолати фавқулодда аст
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Парешонӣ, ки зуд, дар давоми соатҳо ё рӯзҳо пайдо мешавад, нигоҳубини фаврии тиббиро талаб мекунад.** Он метавонад делирий бошад. [VA делирийро тавсиф мекунад](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ҳамчун ҳолати фавқулоддаи тиббӣ ва тавсия медиҳад, ки фавран ба провайдери тиббии шахс занг занед ё ба рақами фавқулоддаи маҳаллӣ занг занед. Нишонаҳо инҳоянд:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Боло ва поин рафтани қобилияти равшан фикр кардан
+- Душворӣ дар таваҷҷӯҳ
+- Фикркунии бетартиб
+- Ғайриоддӣ хоболуд будан ё ғайриоддӣ беқарор ва изтиробнок будан
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Ин метавонад бо ҳар кас рӯй диҳад, аз ҷумла бо касоне, ки аллакай бо деменсия зиндагӣ мекунанд. Мувофиқи [NHS](https://www.nhs.uk/symptoms/confusion/), сабабҳои маъмул сироятҳо (сироятҳои роҳҳои пешоб дар пиронсолон ва одамони дорои деменсия маъмуланд), сакта, қанди паст дар хун дар одамони диабетдор, осеби сар ва баъзе доруҳоянд. То омадани кӯмак бо шахс бимонед ва ӯро бо калимаҳои кӯтоҳ ва оддӣ ором кунед. Саволҳои зиёд надиҳед ва доруҳоеро, ки истеъмол мекунад, қайд кунед.
 
-## How do I prepare for the doctor's appointment?
+## Чӣ тавр ба дидор бо духтур омода шавам?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Дидори хуб аз ёддоштҳои хуб оғоз мешавад. [Ассотсиатсияи Алтсгеймер](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) тавсия медиҳад, ки биёред:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Рӯйхати тағйирот** дар хотира, кайфият ва рафтор, бо мисолҳои мушаххас ва тақрибан аз кай оғоз шудани онҳо
+2. **Мушкилоти саломатии гузашта ва ҳозира**, аз ҷумла ҳама таърихи оилавии мушкилоти хотира
+3. **Ҳамаи доруҳои нусхадор ва бе нусха**
+4. **Ҳама витаминҳо ё иловаҳо**
+5. **Саволҳои шумо**, масалан кадом озмоишҳо гузаронида мешаванд, чӣ қадар вақт мегиранд ва натиҷаҳо кай меоянд
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ҳамчунин мефиди, ки узви оила ё дӯстеро, ки шахсро хуб мешиносад, бо худ биёред. [NIA шарҳ медиҳад](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), ки духтурон метавонанд ҳам аз шахс ва ҳам аз узви оила дар бораи саломатӣ, доруҳо, фаъолиятҳои ҳаррӯза ва тағйироти рафтор пурсанд. Духтурон инчунин метавонанд:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Озмунҳои хотира, ҳалли масъала, таваҷҷӯҳ, ҳисобкунӣ ва забонро гузаронанд
+- Таҳлили хун, пешоб ва дигар таҳлилҳоро барои ёфтани сабабҳои дигар таъин кунанд
+- Ғамгинӣ ё дигар ҳолатҳои саломатии равонро санҷанд
+- Сканҳои майна, чун CT ё MRI таъин кунанд
+- Ба мутахассис, чун герӣатр, невролог, равоншиноси герӣатрӣ ё нейропсихолог равон кунанд
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA қайд мекунад, ки арзёбии шинохтӣ қисми ҳатмии Дидори солонаи саломатии Medicare аст, ки метавонад вақти табиӣ барои матраҳ кардани ташвишҳо бошад. Ҳатто озмунҳои кӯтоҳе, ки духтурон истифода мебаранд, танҳо барои ташхиси деменсия кофӣ нестанд. Онҳо қадами аввал ба сӯи арзёбии пуррататар мебошанд ва ташхис шояд зиёда аз як дидор гирад. NIA тавсия медиҳад, ки одамони дорои мушкилоти хотира ҳар 6 то 12 моҳ ба духтур баргарданд.
 
-## Raising the subject kindly
+## Мавзӯъро меҳрубонона матраҳ кардан
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Агар дар бораи касе ташвиш доред, лаҳзаи ором ва хусусиро интихоб кунед. Дар бораи чизҳои мушаххасе, ки мушоҳида кардаед, сухан гӯед, ҳамчун ғамхорӣ барои саломатии онҳо, на интиқод. Пешниҳоди муоинаи умумӣ шояд камтар нигаронкунанда ҳис шавад. Шахсро дар қарорҳо иштирок диҳед ва бо ӯ чун бо калонсоле, ки ҳаст, сухан гӯед. [Маслиҳатҳои муошират](/caregiving/communication-tips/)-и мо шояд кумак кунанд.
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Агар тағйироти нав дар хотира, фикркунӣ, кайфият ё қобилиятҳои ҳаррӯза мушоҳида кунед, ки такрор мешаванд, ба духтури оилавӣ навбат гиред. Барои парешонии ногаҳонӣ ба рақами фавқулоддаи маҳаллии худ ё ба провайдери тиббии шахс фавран занг занед. Барвақт санҷонидан маънои онро дорад, ки сабабҳои табобатшаванда ёфт мешаванд ва агар деменсия бошад, барои банақшагирӣ ва ёфтани дастгирӣ вақти бештар ҳаст. Дар ин роҳ худатонро низ нигоҳубин кунед; [роҳнамои худнигоҳубинии нигоҳубинкунандагон](/caregiving/caregiver-self-care/)-ро бинед.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ин саҳифа маълумоти умумист, на маслиҳати тиббӣ. [Огоҳиномаи тиббии мо](/medical-disclaimer/)-ро бинед.
