@@ -1,35 +1,37 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Alsgeýmer bolan adamlar üçin işjeňlikler we oýunlar"
+seoTitle: "Alsgeýmer işjeňlikleri we oýunlary: tapgyra görä ideýalar"
+description: "Alsgeýmer bolan adamlar üçin tapgyr-tapgyr işjeňlik ideýalary: köplenç galýan köne başarnyklara daýanýar we bilelikde mugt oýunlar bar."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Alsgeýmer bolan adam üçin gowy işjeňlikler iň uzak galýan zatlara daýanýar:
+  uzak wagtlap ýerine ýetirilen başarnyklara, köne aýdymlara, tanyş öý
+  işlerine we duýgulara. Ilkibaşda kartoçka oýunlary, stol oýunlary, nahar
+  bişirmek we gezelençler köplenç henizem ýarayar. Orta tapgyrda
+  zatlary bukmagy, saýlamagy, aýdym aýtmagy, surat albomlaryna seretmegi we
+  ýönekeý surat oýunlaryny synap görüň. Keseliň giçki tapgyrynda
+  aýdym-saz, degmek we ýanynda bolmak iň möhümdir. Adamyň şu gün nähili
+  ýagdaýdadygyna seredip karar beriň.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alsgeýmer demensiýanyň iň ýygy sebäpleriniň biridir, şonuň üçin demensiýa işjeňlik ideýalary Alsgeýmere hem laýyk gelýär."
+  - "Täze maglumat köplenç ilki kynlaşýar, köp ýyl öň öwrenilen başarnyklar we aýdymlar bolsa köplenç uzak saklanýar. Şulara daýanyň."
+  - "Tapgyrlar biri-birine geçýär we gowy hem kyn günleriň bolmagy adaty zatdyr. Adamyň şu gün näme edip bilýändigine we nämeden hezil edýändigine görä saýlaň."
+  - "Sagat, utuk ýa-da synag soraglary bolmadyk oýunlary saýlaň we suratlar görünip dursun."
+  - "Synamak, bir zady elde saklamak ýa-da diňe ýanaşyk oturmak hem gatnaşmak hasaplanýar."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Alsgeýmer bolan adam üçin haýsy işjeňlikler ýaramly?"
+    a: "Birneme ýönekeýleşdirilen tanyş işjeňlikler: eşik bukmak, saçak ýazmak, bilelikde nahar bişirmek, aýdym-saz we aýdym aýtmak, suratlara seretmek, gezelenç etmek, bag-bakja bilen meşgullanmak we öý haýwany bilen wagt geçirmek. Ýönekeý surat oýunlary, aňsat tapmaçalar we söhbetdeşlik kartoçkalary hem köp adama ýaraýar. Adamyň hemişe ýaratýan zadyny saýlaň we ony onuň ýanynda ýerine ýetiriň."
+  - q: "Oýunlar Alsgeýmer bolan adamlar üçin ýaramlymy?"
+    a: "Adam oýnamagy halaýan bolsa, oýunlar bilelikde wagt geçirmegiň göwnejaý usuly bolup biler. Hiç bir oýunyň Alsgeýmeri bejerýändigi, haýallatýandygy ýa-da duruzýandygy görkezilmändir, şonuň üçin oýunlary hezil üçin saýlaň: uly suratlar, az saýlaw, sagat, utuk we ýalňyş jogap sesleri bolmasyn."
+  - q: "Demensiýa işjeňlikleri bilen Alsgeýmer işjeňlikleriniň arasynda tapawut barmy?"
+    a: "Esasan ýok. Alsgeýmer keseli demensiýanyň iň ýygy sebäbidir we şol bir işjeňlik ideýalary laýyk gelýär. Alsgeýmerde ýardam edýän zat, soňky ýatlamalaryň köplenç ilki solýandygyny bilmekdir, şonuň üçin köne başarnyklara, aýdymlara we gündelik tertibe daýanýan işjeňlikler köplenç ýeňil geçýär."
+  - q: "Alsgeýmeriň giçki tapgyrynda adam henizem nämeden hezil edip bilýär?"
+    a: "Halaýan aýdym-sazyndan, ýumşak el massažyndan, elde saklamak üçin ýumşak zatlardan, özüne okalmagyndan, daşarda oturmakdan we ynanýan adamynyň ýanynda bolmakdan. Muny gysga we ümsüm saklaň, näme ýaradýandygyny bolsa ýüzüne we bedenine seredip bilmäge çalşyň."
+  - q: "Alsgeýmer bolan adamyň işjeňlige gyzyklanmagyny nädip gazanyp bolar?"
+    a: "Işjeňligi yglan etmek derek ýardam sorap görüň, ilki hemme zady taýýarlap goýuň we özüňiz başlaň, şonda adam goşulyp biler. Adamyň iň gowy ýagdaýda bolýan wagtyny saýlamak uly tapawut döredýär. Ýok diýse, soňrak gaýtadan synanyşyň ýa-da has kiçi görnüşini teklip ediň."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +56,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Eger siziň söýýän adamyňyzda Alsgeýmer bolsa, käbir zatlaryň çalt ýitýändigini, käbirleriniň bolsa saklanýandygyny eýýäm görendirsiňiz. Ol şu gün irden edilen telefon jaňyny ýadyndan çykaryp biler, emma ýene-de ybadat aýdymynyň her sözüni aýdyp, polotensany hemişeki ýaly bukup ýa-da oýlanman kartoçka paýlap biler. Gowy işjeňlikler şu saklanyp galýan başarnyklara esaslanýar. Bu sahypa munuň näme üçindigini düşündirýär, soň her tapgyr üçin ideýalary we şu saýtdaky laýyk gelýän mugt oýunlary hödürleýär.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Işjeňlikler barada Alsgeýmer demensiýadan tapawutlymy?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Köp tapawutly däl. Demensiýa umumy düşünjedir, Alsgeýmer keseli bolsa onuň iň ýygy sebäbidir: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) onuň demensiýa ýagdaýlarynyň 60 bilen 80 göterimini düzýändigini aýdýar. Demensiýa üçin işjeňlikler barada ýazylan hemme diýen ýaly zat Alsgeýmere hem laýyk gelýär, şol sanda biziň [101 işjeňlik ideýamyz](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Peýdaly zat, üýtgeşmeleriň adaty yzygiderliligini bilmekdir. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) Alsgeýmeriň ilki beýniniň ýatda saklamaga gatnaşýan böleklerine zeper ýetirýändigini, soň bolsa dile, pikirlenmä we sosial özüni alyp barşa täsir edýändigini düşündirýär. Alzheimer's Association iň ýygy ilkinji alamatyň täze öwrenilen maglumaty ýada salmagyň kynlygydygyny aýdýar. Her kim tapawutlydyr we köp adamda garyşyk sebäpler bar, emma bu nagyş nämäniň ýaramlydygyny kesgitleýär.
 
-## What kinds of activities suit Alzheimer's best?
+## Alsgeýmere haýsy işjeňlikler iň gowy laýyk gelýär?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Köne, gowy öwrenilen bilimlere daýanýan işjeňlikler, täze zady öwrenip ýadyňda saklamagy talap edýän işjeňliklerden köplenç ýeňil geçýär.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Uzak wagtlap ýerine ýetirilen başarnyklar.** Alzheimer's Association adamyň ýyllar öň pianinoda öwrenen ýönekeý aýdymlaryny henizem çalyp biljekdigini bellärdir. Örmek, agaç ýylmamak, kartoçka garmak, hamyr ýugurmak we eşik bukmak şuňa meňzeýär.
+- **Köne aýdymlar we tanyş aýdym-saz.** Köp adam ýaşlyk ýyllarynyň aýdymlaryny, ybadat aýdymlaryny we toýunda aýdylan aýdymlary henizem sözme-söz bilýär. [Aýdym-saz işjeňliklerine](/activities/music/) serediň.
+- **Maksatly gündelik işler.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gap-çanak ýuwmagy, saçak ýazmagy, jorap saýlamagy we eşik bukmagy adamlaryň hezil edip biljek işjeňlikleri hökmünde sanap geçýär. Özüňi peýdaly duýmak möhümdir.
+- **Ýatdan çykarmak däl, tanamak.** Gabat gelýän suratyň üstüni görkezmek, ony ýatdan atlandyrmakdan ýeňildir. Şonuň üçin hemme zat görnüp duran surat oýunlary soraglardan has gowy işleýär.
+- **Duýgular.** Dokunma, ysy, mähribanlyk, tagam we ses söz kynlaşandan soň hem uzak wagtlap many saklaýar. [Duýgy işjeňliklerine](/activities/sensory/) serediň.
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Has erbet netije berýän zatlar: sagat bar bolan her hili zat, öwrenmeli täze düzgünler, ýatda saklamaly köp ädimler ýa-da ýadyňy synaýan soraglar, meselem “Bu kimdigini ýadyňyzdamy?” Şular Alsgeýmeriň iň kyn tarapyny öňe çykarýar.
 
-## Activities for early-stage Alzheimer's
+## Alsgeýmeriň ilkinji tapgyry üçin işjeňlikler
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Ilkinji tapgyrda [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) adamyň henizem ulag sürüp, işläp we jemgyýetçilik işjeňliklerine gatnaşyp bilýändigini, emma meşhur sözleri ýa-da zatlaryň ýerini ýatdan çykarmak ýaly ýatlama kemçiliklerini duýýandygyny aýdýar. Iň gowy usul hyzmatdaşlykdyr: näme etmegi dowam etdirmek isleýändigini we haýsy ýardamy isleýändigini sorap görüň.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Bar bolan hobbilerini dowam etdiriň.** Golf, bridž, ýorgan tikmek, hor we ybadathana toparlary, diňe kiçi toparlar we sakyn wagtlar ýaly kiçi sazlamalar bilen.
+2. **Tanyş kartoçka we stol oýunlaryny oýnaň.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ilkinji tapgyr üçin wiktorinalary, söz gözlegini, kartoçka oýunlaryny we stol oýunlaryny sanap geçýär. Hasap saklamak adamy biynjalyk edip başlasa, topar bolup oýnaň ýa-da hasaby bütinleý aýyryň.
+3. **Bilelikde nahar bişiriň.** Ol ýürekden bilýän reseptini ýerine ýetirsin, siz bolsa ädimleri okamagy öz üstüňize alyň.
+4. **Ömür hekaýasy taslamasyny başlaň.** Onuň ýolbaşçylygynda surat, resept we hekaýalar ýygnalan albom. [Ýatlama işjeňliklerine](/activities/reminiscence/) serediň.
+5. **Gezelenje çykyň.** Halaýan restoran, sakyn wagtda; muzeý, gysga saparlyk; seýilgähde gezelenç.
+6. **Özüniň saýlaýan tapmaçalaryny synap görüň.** Uly harply krossworlar, söz gözlegleri we jigsaw tapmaçalary. [Demensiýa üçin tapmaçalara](/activities/puzzles/) serediň.
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Has köp ideýa: [ilkinji tapgyr işjeňlikleri](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Alsgeýmeriň orta tapgyry üçin işjeňlikler
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association orta tapgyry adatça iň uzak tapgyr hökmünde suratlandyrýar we onuň köp ýyla çekip biljekdigini aýdýar. Sözler garyşýar, ruhdan düşmek ýeňil bolýar we adamyň has köp ideg etmegine mätäçlik döreýär. Alzheimer's Foundation of America köp adamyň işjeňlikleri başlamak ýa-da dowam etdirmek üçin ýardama mätäçdigini goşýar. Siziň roluňyz zatlary taýýarlamaga, düşündirmek derek görkezmäge we kyn böleklerini öz üstüňize almaga öwrülýär.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Buküň, saýlaň we gabat getiriň.** Polotensalar, jorap, çäýnek-çemçeler, düwmeler reňki boýunça. Ýanaşyk ýerine ýetirilýän hakyky işler.
+2. **Aýdym-saza goşulyp aýdym aýdyň we hereket ediň.** Gol çarpyň, yrgyldaň ýa-da aşhanada tans ediň. Özüňiz aýdym aýdyp başlaň we adam goşulsyn.
+3. **Surat albomlaryna serediň.** Görýän zadyňyzy suratlandyryň we hekaýalary çagyryň: “Nähili maşyn. Ol barada aýdyp beriň.” Adamyň ulanýan atlaryna goşulyşyň.
+4. **Ýönekeý surat oýunlaryny oýnaň.** Dört-alty tahta we açyk suratlar bilen [Surat jübütleri](/games/picture-pairs/) ýa-da iki-üç saýlaw bilen [Birmeňzeşini tapyň](/games/find-the-same/).
+5. **Tanyş nakyllary tamamlaň.** “Her gün bir alma ...” Köne wagtda öwrenilen nakyllar köplenç aňsat gelýär. Islendik tamamlanyşy bir dokunma bilen görkezip bilýän [Nakyly tamamla](/games/finish-the-saying/) oýnuny synap görüň.
+6. **Ösümliklere suw guýuň we ideg ediň.** Içerki gül gaplary ýa-da ýokary ýasalan düşek, kiçi suw guýujy bilen.
+7. **Maşgala suratlaryndan gabat getirme oýnuny ýasaň.** [Surat jübütleri](/games/photo-pairs/) enjamyňyzda saýlan suratlaryňyzy ulanýar we olar enjamdan çykmaýar.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Has köp ideýa: [orta tapgyr işjeňlikleri](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Alsgeýmeriň giçki tapgyry üçin işjeňlikler
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Giçki tapgyrda Alzheimer's Association adamlaryň töwerekdäki zatlara jogap bermek we söhbetdeşlik etmek ukybyny ýitirýändigini aýdýar, emma olar henizem sözleri ýa-da sözlemleri aýdyp bilerler. Indi işjeňlik ýaramlylyk we aragatnaşyk manysyny berýär we adam nirede dynç alýan bolsa, şol ýere getirilýär.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Halaýan aýdym-sazyny** telewizor päsgel bermän, ümsümje goýuň.
+2. **El massažyny ediň,** adamyň ýaraýan ysly kremi bilen.
+3. **Elde saklamak üçin ýumşak zatlary hödürläň:** ýyly ýorgan, ýumşak mata, tekiz daş.
+4. **Ýuwaşlyk bilen okaň:** zeburlary, goşgulary ýa-da tanyş hekaýany. Manydan has köp ritm möhümdir.
+5. **Daşarda oturyň,** kölegede ýa-da guşlara seredip boljak penjiräniň ýanynda.
+6. **Bir uly surata bilelikde serediň.** Planşetiň ekranyny doldurýan gün gülü ýa-da it, siz bolsa görýän zadyňyzy aýdyp durýarsyňyz.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Has köp ideýa: [giçki tapgyr işjeňlikleri](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Alsgeýmeri bolan adam üçin haýsy oýunlar ýaramly?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Hiç zadyň ýalňyş bolup bilmeýän oýunlary saýlaň. Bu saýtdaky her oýun mugtdyr, brauzerde işleýär we sagady, hasaby ýa-da hasaba alynmagy ýokdur.
 
-| Game | What you do | Often suits |
+| Oýun | Näme edilýär | Köplenç laýyk gelýär |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Surat jübütleri](/games/picture-pairs/) | Uly suratlary gabat getiriň; olar açyk galyp biler | Ilkinji we orta tapgyr |
+| [Birmeňzeşini tapyň](/games/find-the-same/) | Ýokarky suratyň gabat gelýän suratyna dokuň | Orta we giçki tapgyr, ýardam bilen |
+| [Nakyly tamamla](/games/finish-the-saying/) | Tanyş nakylyň soňky sözüni saýlaň ýa-da görkeziň | Ilkinji we orta tapgyr |
+| [Surat tapmaçasy](/games/picture-puzzle/) | 4 ýa-da 9 bölegi surat görnüp durka ýerine çalşyň | Ilkinji we orta tapgyr |
+| [Söhbetdeşlik kartoçkalary](/games/conversation-cards/) | Surat we gürrüň etmek üçin açyk çakylyk | Islendik tapgyr, gürleşjek adam bilen |
+| [Surat jübütleri](/games/photo-pairs/) | Öz suratlaryňyzdan ýasalan gabat getirme oýny | Ilkinji we orta tapgyr |
+| [Reňkleme](/games/coloring/) | Reňke, soň suratyň bir bölegine dokuň; ýa-da çap ediň | Islendik tapgyr, ýardam bilen |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Bilelikde nädip oturmalydygy, näçe ýardam bermelidigi we haçan durmalydygy barada [demensiýa bolan adam bilen oýunlary nädip oýnamaly](/caregiving/how-to-play-together/) sahypasyny okaň. “Ýat oýunlary” barada pikir edýän bolsaňyz, [demensiýa bolan garrylar üçin ýat oýunlaryna](/activities/memory-games/) serediň.
 
-## How to make any activity easier
+## Islendik işjeňligi nädip ýeňilleşdirmeli
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA-nyň maslahaty birnäçe endige syrykýar: işjeňligi adamyň edip bilýän zadyna laýyklaň, başlamaga kömek ediň, ruhdan düşmegine syn ediň, onuň üstünlik duýmagyny üpjün ediň we diňe synamagy halaýan bolsa, synap durmagyna ýol beriň.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Adamyň iň gowy ýagdaýda bolýan wagtyny saýlaň** we sessiýalary gysga saklaň.
+- **Ilki hemme zady taýýarlap goýuň,** şonda derrew başlap bilersiňiz.
+- **Çagyryň, buýruk bermäň.** “Maňa kömek edip bilermisiňiz?” diýmek “Işjeňlik wagty” diýmekden has gowy işleýär.
+- **Ilkinji ädimi özüňiz ediň** we adam goşulsyn.
+- **Bir wagtyň özünde bir ädim we bir saýlaw hödürläň.**
+- **Onuň öz usuly bilen edilsin.** Gyşyk polotensalar zyýan etmeýär.
+- **Henizem ýagşy wagtynda duruň.** Irräk bes etmek şowsuzlyk däl, gowy netijedir. Ýok diýse, [demensiýa bolan adam ýok diýende](/caregiving/when-they-say-no/) sahypasyna serediň.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) muny ýönekeý aýdýar: gazanylan netijä däl, hezile ünsi jemläň.
