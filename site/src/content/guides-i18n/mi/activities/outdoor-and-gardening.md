@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Ngā mahi ki waho me te māra mō te hunga whai mate wareware"
+seoTitle: "Mahi māra me ngā mahi ki waho mō te mate wareware"
+description: "Ngā mahi māra me ngā mahi ki waho mō te hunga whai mate wareware, me ngā tohutohu haumaru mō te wera, te rā me te haere kore whāinga."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Ko te māra me te wā ki waho he mahi mārie, mōhio mō te tangata e noho ana me te mate wareware. Whakamātauria te whakauru wai, te whakato i ngā otaota ki ngā ipu, te tango i ngā pua mātao, me tētahi hīkoi poto i te whenua kua taiapatia. Whakamahia ngā tēpu māra ara-teitei, ngā tēpu rānei kia kaua tētahi e tūtū i raro, kaua e whakamahi i ngā taputapu koi, ngā rau kino, haere ki waho i te wāhanga makariri o te rā, ā, noho tonu tahi ki te tangata.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Ko ngā mahi māra māmā, pēnei i te whakauru wai, te whakato purapura ki ngā ipu, te hongi i ngā otaota me te kohi pua, ka taea te mahi i te tū, i te noho rānei."
+  - "Ko ngā tēpu māra ara-teitei, ngā ipu me tētahi tēpu whakamaru ka tū te māra ki te teitei o te pito, ā, ka iti iho te tūpono o te hinga."
+  - "Kia karo i ngā taputapu koi, i ngā tipu tara, ngā tipu whakaoha, me ngā mea paihana katoa. Mātakitakina kei hē te oneone hei kai."
+  - "He kino pea te wera ki ngā pākeke. Haere ki waho i te wā moata, i te wā pōuri rānei, kawea he wai me he taumarutanga, ā, hoki mai ki roto i te tohu tuatahi o te kino."
+  - "He maha ngā tāngata whai mate wareware ka haere kore whāinga i tētahi wā. Noho tahi me te tangata ki waho, ā, kia rite tētahi whakaahua hou me tētahi tohu tuakiri."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "He aha ngā mahi māra ka taea e te tangata whai mate wareware?"
+    a: "Ko te whakauru wai ki ngā tipu, te whakato purapura ki ngā ipu iti, te hongi me te pā ki ngā otaota, te tango i ngā pua mātao, te kohi huawhenua, te whakarite i ngā pua tapatapahi me te tahitahi i te ara he pai katoa ēnei. I roto i te whare, he pai te ipu otaota i te taha matapihi, me tētahi papa oneone i runga i te tēpu whakamaru. Kōwhiria te mahi ki tā te tangata i pai ai i mua, ā, e taea ai e ia te mahi pai ināianei."
+  - q: "Me pēhea e haumaru ai te tangata whai mate wareware i te wera?"
+    a: "Whakamahere te wā ki waho mō te wā moata, te wā pōuri rānei, whakaputa poto, ā, hoatu he wai auau. Kōwhiria te taumarutanga, he potae whānui, he kākahu māmā, ā, he kirīmi rā. He nui ake te tūpono o ngā pākeke ki te mate wera, ā, he tohu tūpato pea te rūrū, te pōhēhē, te māuiui o te kopu; nō reira hoki ki roto, whakamātaotao koe i tēnei wā tonu ina kite koe i ēnei."
+  - q: "Me pēhea tātou e haere ai ki waho mēnā he tino haere kore whāinga rātou?"
+    a: "Noho tonu tahi ki te tangata, whakamahia he taiapa me he kūwaha kua katia, ā, whakarite kia kākahuhia e rātou he taura tohu tuakiri, he tohu tuakiri rānei. Kia rite he whakaahua hou. Mēnā ka ngaro te tangata, whakapā atu wawe ki ngā pirihimana o tō rohe, ki ngā ratonga ohotata rānei; kaua e tatari he meneti kua whakaritea. Kōrerohia ngā kaiwhakahoki ko te tangata whai mate wareware ia, te wā me te wāhi i kitea ai ia i mua, ā, homai he whakaahua hou."
+  - q: "He aha mēnā kāore he māra mātou?"
+    a: "He pai noa iho ētahi ipu i te paparanga, he pouaka matapihi, he papa otaota i runga i te tēpu kāinga. Ka taea hoki te toro ki tētahi papa, tētahi māra tūmatanui, tētahi māra hapori rānei. Ko te noho ki waho ka whakarongo ki ngā manu, he mahi ki waho anō hoki."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +39,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +50,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Mō te nuinga o ngā tāngata, ko te māra tētahi o ngā wāhi mōhio rawa e mōhio ana rātou. Ko te keri, te whakauru wai me te kohi pua he pūkenga i ako mai i a rātou i mua noa atu, ā, ko te noho ki waho e kawe mai ana i te hau hou, te rā me te waiata a ngā manu. Ka whakarārangi te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i te tiaki i ngā tipu, te whakato pua me ngā huawhenua, me te [kōrero mō te whakatipu o ngā tipu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hei mahi pea e pai ai ngā tāngata e mate wareware ana. Ko tēnei whārangi e kōrero ana mō ngā mea ka taea te whakamātau, me pēhea te whakamāmā i te māra kia pai ake te whakamahi, me pēhea te noho haumaru i te wera, i te rā me te haere kore whāinga.
 
-## What outdoor and gardening activities work well?
+## He aha ngā mahi ki waho me te māra e pai ana?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Ko ngā mahi pai rawa he māmā, mōhio, ka taea te tū, te noho rānei. Kōwhiria i runga i te mea i pai ai te tangata i mua.
 
-### In the garden
+### I roto i te māra
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Whakauru wai.** He kēne wai iti, māmā, he pūkoro wai ngāwari me ētahi ipu kei te tata. He tīmatanga, he mutunga mārama tō te whakauru wai, ā, he uaua te he.
+2. **Whakato purapura ki ngā ipu.** Ka kī te Alzheimer's Foundation of America me whakato purapura ki ngā ipu iti, me [titiro i te tipu](https://alzfdn.org/dementia-activity-gardening/). He māmā ake te whakahaere i ngā purapura nui pēnei i ngā pīni, i ngā pī, i te puawai rā.
+3. **Tango i ngā pua mātao.** Ko te tango ā-ringa i ngā pua mātao he mahi ngāwari, auau. Kōwhiria ngā tipu kāore he tara.
+4. **Kohi huawhenua, otaota rānei.** Ka māmā te kohi i ngā tōmato iti, ngā pīni me ngā otaota, he pai hoki te tātā. Kawea ki roto ki te kai awatea.
+5. **Hongi, pā ki ngā otaota.** Ko te rosemary, te mint me te lavender he kakara kaha, he pai. Miri tētahi rau ki waenga i ō maihao, ā, tukua ki te ihu o te tangata.
+6. **Tahitahi i te ara, i te papa.** Tahitahi māmā i te mata papatahi, maroke, mēnā e pai ana te toka o te tangata.
+7. **Whakakī i te kāhua manu.** Ka noho tahi, ka mātakitaki ko wai ka haere mai ki te toro.
 
-### Indoors, when going out is not possible
+### Ki roto, ina kore e taea te haere ki waho
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **He māra otaota i te taha matapihi**, pēnei i te parahi me te tiekiri.
+- **Whakato i runga i te tēpu whakamaru.** Ka kī te AFA me whakamahi ngā papa kai rite ki te wharekai hei pupuri i te oneone i tētahi wāhi, ā, me neke te oneone ki ngā kapu iti.
+- **Whakaritea ngā pua.** Ko ngā pua tapatapahi me ngā rau mai i te māra, i te toa hoko rānei.
+- **Pua pēhi, pātene rānei** mai i tētahi pihenga, ā, muri iho ka pania ki ngā kāri. Tirohia [ngā mahi toi](/activities/arts-and-crafts/) mō ētahi atu.
+- **Te hanga pēke lavender, rōhi rānei**, he whakaaro AFA anō tēnei ka pupuri i te kakara o te māra ki roto.
 
-### Getting out and about
+### Te haere ki waho
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **He haere poto** i te poraka, i te papa tākaro, i te wāhi hokohoko tipu rānei, i te tere māmā me tētahi wāhi hei noho.
+- **Noho ki waho** i te paparanga, i te nohoanga rānei, whakarongo ki ngā manu, me te rongo i te hau. He mahi tōtika anō tēnei.
+- **Toro ki tētahi māra tūmatanui** i te wā mārie o te rā. Ka kī te NHS he wāhi ētahi me ngā māra ā-rongo, he tipu kakara, he kōwhiri, he wai hoki.
+- **Whāngai pārera, mātakitaki manu** i tētahi repo ā-rohe, me te mamao haumaru mai i te tahataha wai.
 
-## How do I make a garden easier to use?
+## Me pēhea e māmā ake ai te whakamahi i te māra?
 
-Bring the garden up to the person, not the other way around.
+Kawea te māra ki te tangata, kāore ki te taha kē.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Ngā tēpu māra ara-teitei, ngā ipu teitei** i te teitei o te pito, kāore he tūtū, he piko.
+- **Ngā ipu i runga i te tēpu** e pai ana mō ngā tāngata e whakamahi ana i te tūru nekeneke, ā, e pai ana kia noho.
+- **Ngā ara whānui, papatahi** kāore he kōhatu rāhiri, he paipa wai e takoto ana, hei whakaiti i te tūpono o te taka.
+- **Ngā nohoanga me ngā ringa, me te taumarutanga** i te ara, kia taea tonu te okiokinga.
+- **Ngā taputapu me ngā kōpaki pakari, māriri** ka māmā te mau. Kaua e whakamahi i ngā kōtaha tapahi, ngā mata, me ngā mea koi.
+- **Tētahi wāhi taiapa me te kūwaha kua katia** ka taea e te tangata te tūhura me te herekore i a koe e noho tata ana.
 
-## Which plants should I avoid?
+## Ko ēhea ngā tipu me karo?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Kōwhiria ngā tipu haumaru ki te pā, ā, ki te mea he pai, haumaru ki te whakamātau. Ka tohutohu te AFA kia whakamahia ngā tipu kāore e pāngia ana te kiri, kia tirohia ngā mate ā-tinana, me te titiro pono ki te tangata ka pōhēhē ka kai oneone. Ko ngā tohutohu haumaru kāinga a te NIA he whakakore, he rokiroki i ngā tipu paihana.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Kia karo i ngā rōhi tara, ngā kākatu, me ngā tipu ka pāngia te kiri e te pūwhero.
+- Whakatūturu tētahi tipu kāore koe i mōhio ki te ahu, ki te pokapū whakamōhio paihana, ki te toa māra ā-rohe rānei i mua i te whakato.
+- Ko ngā mea mōhio pai ka whakahoki mai i ngā kare pai. Ka kōrero te AFA mō ngā rōhi me te kākatu Kirihimete hei tauira. Kōwhiria ngā momo kāore he tara.
+- Kia rokiroki ngā wai mātao, ngā patu pepeke, ngā whakamate tarutaru, kia kaua e whakamahia ki ngā wāhi ka taea e te tangata te toro.
 
-## How do I stay safe in the heat and sun?
+## Me pēhea te noho haumaru i te wera me te rā?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Whakamahere i te wā ki waho i runga i te āhua o te rangi. Ka kī te NIA he nui ake te tūpono o ngā pākeke ki te [mate i te wera](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), i tētahi wāhi nā te mea he iti te ōkiko ki ngā huringa o te pāreparehe, ā, ka pāngia te whakahaere wera a te tinana e ētahi rongoā.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Haere ki waho i te wā moata, i te wā pōuri rānei.** Karo te wāhanga awatea i ngā marama mahana. Tirohia te tohu wera, ehara i te pāreparehe anake.
+- **Hoatu wai auau.** Kaua e tatari kia kī mai te tangata he hiahia wai. Karo te waipiro me ngā inu kaapene i te wera.
+- **Kākahu mō te wā.** He kākahu mārama, māmā, he potae whānui, me ngā karaihe rā.
+- **Whakamahia te kirīmi rā.** Ka whakatakoto te NIA i te kirīmi whānui te ātahanga SPF 15 neke atu rānei, me te whakahou i te rā.
+- **Kōwhiria he taumarutanga.** Whakarite te tēpu māra i raro i te rākau, i raro i tētahi taupoki rā.
+- **Kia poto.** He roa iho he wā poto ki waho, ina pai te rā mahana.
+- **Tirohia ngā tohu tūpato.** Ka rārangi te NIA i te mamae o te upoko, te pōhēhē, te rūrū, te māuiui o te kopu hei tohu pea o te mate wera. Ka kore pea te tangata whai mate wareware e kī mai kāore ia i te pai, nō reira mātakitakina tōna kanohi me tōna whanonga. Haere ki roto, whakamātaotao ki te wai me he kākahu mākariri, ā, tonoa he āwhina hauora mēnā kāore e pai wawe ake. He mate ohotata te mate wera nui, me ngā tohu pēnei i te ngoikore, te pōhēhē, te kiri maroke, whero hoki: waea ki te nama ohotata o tō rohe.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Ko te huarere makariri he take nui hoki. I te takurua, whakapoto i te wā ki waho, ā, kia mahana, kia maroke ngā ringa me ngā waewae.
 
-## How do I handle wandering when we go outside?
+## Me pēhea te whakahaere i te haere kore whāinga ina haere tātou ki waho?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Noho tonu tahi ki te tangata i ngā wā katoa e ki waho ana ia. Ka kī te Alzheimer's Association, [6 i ia 10 tāngata whai mate wareware](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ka haere kore whāinga i te iti rawa kotahi, ā, he maha ka pērā i tua atu i te kotahi. Ka taea te pēnei i ngā wā katoa.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Ko ngā [tohutohu mō te haere kore whāinga me te ngaro](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) a te NIA e whai ake nei:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Me kākahu te tangata i tētahi tohu tuakiri, i te taura hauora rānei, kei runga ko tōna ingoa, tōna wāhi noho me tō waea, ā, tohua rānei ōna kākahu.
+- Kia rite tētahi whakaahua, ataata hou mō te tangata.
+- Whakamōhio ki ngā hoa noho tata kei te haere kore whāinga pea te tangata.
+- Haumarutia te whenua ki tētahi taiapa me tētahi kūwaha kua katia.
+- Kaua e waiho tētahi tangata kua haere kore whāinga i mua kia noho takitahi.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Ka tūtohu hoki te Alzheimer's Association kia hanga wāhi ki roto, ki waho, ka taea te tūhura haumaru, ā, kia whakamahere mahi mō te wā e nui ake ai te pōrearea. Ko te hīkoi i tētahi māra haumaru, katoa, he pai mō te pōrearea i te ahiahi. Tirohia tā mātou aratohu mō [te pōrearea i te ahiahi](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Ina ngaro te tangata, rapua ngā wāhi haumaru tata atu, ā, whakapā wawe atu ki ngā pirihimana o tō rohe, ki ngā ratonga ohotata rānei. Kaua e tatari he meneti kua whakaritea i mua i te pūrongo. He [tuhinga a te Tari Ture o te US mō ngā tirotiro tangata ngaro](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=), i te 2021, e kī ana kāore e tika kia tatari ngā ture ki te wā kua whakaritea, ā, e rārangi ana i ngā tohu pēnei i te mate wareware hei take tūpono nui. He rerekē ngā tikanga pūrongo ā-rohe. Whakaatu i te wā me te wāhi i kitea ai te tangata i mua, he aha ngā kākahu e mau ana, me tētahi whakaahua hou. Whai i ngā tohutohu a ngā kaiwhakahoki ā-rohe; kaua e rapu ā-mauri i ngā wāhi kino.
 
-## How do I adapt gardening as things change?
+## Me pēhea te whakarerekē i te māra ina huri ngā āhuatanga?
 
-| If this has become hard | Try this instead |
+| Mēnā kua uaua tēnei | Whakamātau tēnei hei utu |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Te whakato i te papa katoa | Te whakato i tētahi purapura i tētahi ipu |
+| Te tango tarutaru (te wehe i ngā tarutaru i ngā tipu) | Te whakauru wai, te tango i ngā pua mātao kitea |
+| Te haere puta noa i te māra | Te noho ki tētahi tēpu me tētahi papa oneone me tētahi tipu |
+| Te haere ki waho | Tētahi ipu otaota i te tēpu kāinga, tētahi nohoanga i te taha matapihi tuwhera |
+| Ngā mahi katoa | Te noho tahi ki waho, te whakarongo me te titiro |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+He pai ētahi tāngata ki te mātakitaki i a koe e mahi ana. Ka kī te NIA he pai te whakaae kia mātakitaki noa te tangata mēnā koia tāna e pai ai.
 
-## When should we head inside?
+## Ināianei tātou me hoki ki roto?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Hoki mai ki roto ina pōuri te tangata, ina mahana, ina makariri, ina pōhēhē rānei, ina rite rānei ki te mutu. He pai ake te tekau meneti māmā, pai, i te pō roa e mutu ana i te raruraru. Ko te whakamutu wawe he hua pai.
 
-## Bring the garden indoors on screen
+## Te whakaura i te māra ki roto i te mata
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Ina ua ana te rangi, ko [Kōmaka tahi](/games/sort-together/) he kete māra mō te whakarōpū pikitia, ā, ko [Kāri kōrero](/games/conversation-cards/) he mea kōrero tuwhera ka arahi ki ngā kōrero māra. Ina hoki mai koe i te wera me te whakawhiu, ko [Te whakangā mārie](/games/calm-breathing/) he wāhi mārie, puhoi hei tiritiri. Mō ētahi atu whakaaro e whakahangahia ana ki te pā, te haunga me te oro, tirohia tā mātou [aratohu mahi ā-rongo](/activities/sensory/).
