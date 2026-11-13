@@ -55,7 +55,7 @@ Ensajatz pas de la portar o de la levar sola. Se un plan de cura per las cutas e
 
 ## Qué far se la persona sembla poder se levar?
 
-Pressatz pas la persona. Demandatz-li coma se sent e s'a besonh d'ajuda. Se sembla pas blessada e pòt se levar amb son sosten usual sens èsser levada, donatz-li temps e restatz près. Arrestatz s'a de doloria, de vertigas o s'arriba pas a. Se sètz incertan, demandatz a un professional de santat, en lloc d'ensajar una transferéncia que vos es pas estada mostrada.
+Pressatz pas la persona. Demandatz-li coma se sent e s'a besonh d'ajuda. Se sembla pas blessada e pòt se levar amb son sosten usual sens èsser levada, donatz-li temps e restatz près. Arrestatz s'a de doloria, de vertigas o s'arriba pas a far lo movement. Se sètz incertan, demandatz a un professional de santat, en lloc d'ensajar una transferéncia que vos es pas estada mostrada.
 
 [La NHS conselha de prene temps e de se repausar après s'èsser levat](https://www.nhs.uk/conditions/falls/). Sos conselhs d'autoajuda son per una persona que se sent capabla de se levar ; son pas una rason de tirar o de portar una persona que es tombada. Los besonhs de mobilitat, d'equilibri e de santat diferisson d'una persona a l'autra.
 
@@ -75,19 +75,19 @@ Après aver respondut als besonhs urgents, notatz qualques observacions per las 
 - quina doloria, blessadura o cambiament avètz remarcat ;
 - tot cambiament recent de santat, de mobilitat, de rotina o de medicament que coneissètz.
 
-Descrivètz çò qu'avètz vist en lloc de supausar perqué la persona a tombat. Una nòta pòt ajudar una discussion ; diagnostica pas la causa. Se una blessadura greu o un cambiament sobte es possible, cal primièr d'ajuda abans d'acabar un escrit.
+Descrivètz çò qu'avètz vist en lloc de supausar perqué la persona a tombat. Una nòta pòt ajudar una discussion ; diagnostica pas la causa. Se una blessadura greu o un cambiament sobte es possible, cal d'abòrd ajudar abans d'acabar un escrit.
 
 ## Qué demandar al seguiment?
 
 Un professional de santat pòt ajudar a decidir se la persona a besonh d'una avaluacion e çò a agachar après. La [NHS nòta qu'una avaluacion de las cutas pòt revisar la força, la vista, l'audicion, los medicaments e las adaptacions de l'ostal](https://www.nhs.uk/conditions/falls/). Podètz demandar :
 
-- La persona a-la besonh d'un examen après aquesta cuta, mesme se cap de blessadura es evidenta ?
+- La persona a besonh d'un examen après aquesta cuta, mesme se cap de blessadura es evidenta ?
 - Quins cambiaments o simptòmes deurián far demandar d'ajuda urgenta ?
 - Cal revisar l'equilibri, la vista, l'audicion, la doloria o los medicaments ?
 - Un servici de cutas o un ergoterapèuta pòt-lo ajudar a avaluar la mobilitat o lo matèrial de l'ostal ?
 - Qui deu contactar la persona o la familha se una autra cuta arriba ?
 
-Dissètz al professional çò que sabètz e çò que sabètz pas. Se la cuta a pas estat vista, o dire-ho sens supausar coma es capitat. Prenguètz pas un medicament, achetetz pas un ajut a la marcha e installatz pas de matèrial sus la basa d'un site web. L'ajuda justa depend de la santat, de la mobilitat, de l'ostal e dels desirs de la persona.
+Dissètz al professional çò que sabètz e çò que sabètz pas. Se la cuta a pas estat vista, o dire-ho sens supausar coma es capitat. Prenguètz pas un medicament, achetetz pas de matèrial de mobilitat e installatz pas de matèrial sus la basa d'un site web. L'ajuda justa depend de la santat, de la mobilitat, de l'ostal e dels desirs de la persona.
 
 ## Cossí pensar a una autra cuta?
 

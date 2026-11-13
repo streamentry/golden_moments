@@ -24,7 +24,7 @@ faq:
   - q: "Kufanele ngifune usizo lwezokwelapha nini?"
     a: "Funa usizo lwezokwelapha oluphuthumayo uma umuntu edideka ngokuzumayo noma ukubona izinto kubandakanya ngaphezu kwenzwa eyodwa. Xhumana nomhlinzeki wakhe ngezinto ezintsha, eziphindayo, ezihlala isikhathi eside noma ezikhathazayo."
   - q: "Ngingashintsha umuthi uma ukubona izinto ezingekho kuqala?"
-    a: "Cha. Bhala okushintshile bese uxhumana nomnikezi womuthi noma nofakazi wemithi. Ungaqali, ungayeki noma ushintshe umuthi ngokusekelwe esiqondisweni sejwayelekile."
+    a: "Cha. Bhala okushintshile bese uxhumana nomnikezi womuthi noma nesazi semithi. Ungaqali, ungayeki noma ushintshe umuthi ngokusekelwe esiqondisweni sejwayelekile."
 sources:
   - title: "Hallucinations and dementia"
     publisher: "Alzheimer's Society"
@@ -43,7 +43,7 @@ related: [caregiving/late-day-restlessness, caregiving/when-someone-with-dementi
 health: true
 ---
 
-Ukubona, ukuzwa, ukunuka, ukunambitha noma ukuzwa into abanye abayibona kungase kube yiqiniso kumuntu. Kungase kumesabise, noma kungenzeki lutho kuye. Qala ngokuthi umuntu uzizwa kanjani nokuthi kukhona yini oyingozi, kunokuzama ukukhombisa ukuthi yini eyayenzeka noma engayenzeki.
+Ukubona, ukuzwa, ukunuka, ukunambitha noma ukuzwa into abanye abayibonile kungase kube yiqiniso kumuntu. Kungase kumesabise, noma kungenzeki lutho kuye. Qala ngokuthi umuntu uzizwa kanjani nokuthi kukhona yini oyingozi, kunokuzama ukukhombisa ukuthi yini eyenzeka noma engenzeki.
 
 Umcimbi ungaba ukubona izinto ezingekho, kodwa ungaba futhi ukuqonda kabi noma ukuchaza kabi. Isithunzi singafana nomuntu; umuntu ojwayelekile angaphoseleka abe omunye. Akudingeki unqume ukuthi yini eyenzeka. Chaza okushoyo umuntu nokuthi yini oyibonile, bese ubuza umhlinzeki wezempilo uma ukhathazekile.
 
@@ -51,22 +51,22 @@ Umcimbi ungaba ukubona izinto ezingekho, kodwa ungaba futhi ukuqonda kabi noma u
 
 Hlala uthule, buza umuntu ukuthi uzizwa kanjani, bese unikeza induduzo ngaphandle kokuphikisana. I-[Alzheimer's Association incoma ukuhlola ukuthi umcimbi uyakhathaza noma uyingozi](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations). Uma umuntu enethezekile futhi ephephile, kungenzeka ukuthi akudingeki ukuthi uvimbele.
 
-- **Vuma umzwelo.** Ungathi: “Angiboni muntu, kodwa ngiyabona ukuthi lokhu kumesabisa. Ngilapha.” Lokhu kuyiqiniso futhi kutshela umuntu ukuthi umthatha ngokungathi sína.
+- **Vuma umzwelo.** Ungathi: “Angiboni muntu, kodwa ngiyabona ukuthi lokhu kumesabisa. Ngilapha.” Lokhu kuyiqiniso futhi kutshela umuntu ukuthi uyamlalela.
 - **Gcina amazwi emfushane.** Incazelo ende noma ukulungisa okuphindaphindayo kungandisa ukucindezeleka. Vumela umuntu achaze lokho akubonayo uma efuna.
 - **Nikeza, ungaphoqi, ushintsho.** Buza ukuthi ufuna ukuhlala kwenye indawo, uvule enye ukukhanya noma ulalele iculo ajwayele ukulithanda. Ukuya endaweni ekhanyisiwe nejwayelekile kungasiza; yeka uma umuntu engafuni ukuhamba.
-- **Hlala eduze uma efuna ukuthi ube lapho.** Ungamthinti umuntu ngokuzumayo. Buza ngaphambi kokunikeza isandla noma ukumangalela.
+- **Hlala eduze uma efuna ukuthi ube lapho.** Ungamthinti umuntu ngokuzumayo. Buza ngaphambi kokunikeza isandla noma ukukhumbatha.
 
 Uma umcimbi ungenabungozi futhi ungakhathazi, landela umuntu. Ungawenzi umzuzu ube isivivinyo noma ucele ukuthi afakazele lokho akubonile.
 
-Abanye abantu bathola ukuthi umcimbi uyayaduduza noma ujwayelekile kubo. Uma umuntu ethule futhi ephephile, kungenzeka ukuthi akudingeki ukushintsha indaba noma ukumthatha endaweni enye. Buza ukuthi ufuna yini; ungawaguquli wonke amanye amaseko abe yingxoxo yezokwelapha. Uma esesabile, phendula kulowo mzwelo nokuba ungawubona lowo mbono wakhe.
+Abanye abantu bathola ukuthi umcimbi uyabaduduza noma ujwayelekile kubo. Uma umuntu ethule futhi ephephile, kungenzeka ukuthi akudingeki ukushintsha indaba noma ukumthatha endaweni enye. Buza ukuthi ufuna yini; ungaguquli konke ukubheka kube yingxoxo yezokwelapha. Uma esesabile, phendula kulowo mzwelo nakuba ungakubonanga lokho akubonile.
 
 ## Ingabe into endaweni ingase ibe umuntu noma umsindo?
 
 Hlola indawo nomuntu uma evumela lolo sekelo. I-[Alzheimer's Society ihlukanisa ukubona izinto ezingekho nokuqonda kabi](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations), lapho into noma iphethini yangempela iboniswa ngendlela engafanele.
 
 - **Thuthukisa ukukhanya.** Vula isibani bese uhlola izithunzi nokuqhamuka kokukhanya okuvela ezibukweni nasefasiteleni.
-- **Hlola imisindo ejwayelekile.** Ithelevishini, ifeni noma enye insiza ingase iyofana nezwi noma nezinyawo. Yehlisa isiqinisi noma uyicime kuphela uma umuntu enethezeka ngalokho.
-- **Bheka amaphethini.** Icarpet, ikhethini noma iphepha lodonga elinemibala eminingi lingaqondwa njengento enyakazayo noma into. Buza ukuthi umuntu ufuna yini ukubheka kwenye indawo noma ukushintsha umbono.
+- **Hlola imisindo ejwayelekile.** Ithelevishini, ifeni noma enye insiza ingase iyofana nezwi noma nezinyawo. Yehlisa ivolumu noma uyicime kuphela uma umuntu enethezeka ngalokho.
+- **Bheka amaphethini.** Ikhaphethi, ikhethini noma iphepha lodonga elinemibala eminingi lingaqondwa njengento enyakazayo noma into. Buza ukuthi umuntu ufuna yini ukubheka kwenye indawo noma ukushintsha umbono.
 - **Hlola izinsiza zezinzwa.** Uma umuntu esebenzisa izibuko noma insiza yokuzwa, buza ukuthi ufuna usizo yini ekuhloleni ukuthi itholakala futhi isebenza njengoba ijwayele.
 
 Uma umcimbi usenzeka endaweni efanayo, bheka into ephindaphindayo: ukukhanya esibukweni, uhlobo lwendwangu emgqeni wangaphansi, ithelevishini ezwakala egumbini elilandelayo noma ukukhanya okuphansi ngemva kwemini. Hlola umsindo wangempela noma into engempela ngaphambi kokucabanga ukuthi kukhona ushintsho engqondweni. Uma uzama ushintsho endaweni, chaza bese ubuza ukuthi lokho kuzizwa kangcono yini.
@@ -79,13 +79,13 @@ Xhumana nodokotela womuntu ngemicimbi emisha, eyaphindeka, ethatha isikhathi esi
 
 Ushintsho olusheshayo luhlukile. I-[NHS ithi ukudideka okungazelelwe kudinga usizo lwezokwelapha oluphuthumayo](https://www.nhs.uk/symptoms/confusion/), kanti i-[Alzheimer's Society incoma usizo lwezokwelapha oluphuthumayo uma ukubona izinto kubandakanya izingqondo ezimbalwa](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations). Xhumana namasevisi asendaweni ezokwelapha asheshayo uma umuntu edideka ngokuzumayo noma ukubona kubandakanya izingqondo ezimbalwa. Uma kukhona ingozi esheshayo, sebenzisa amasevisi ezimo eziphuthumayo asendaweni.
 
-Ungashintshi, ungayeki noma ungaqali umuthi ngokwakho. Cela umbhalisi womuthi noma ufakazi wemithi ukuthi abheke ushintsho olusanda kwenzeka nemithi yonke umuntu ayisebenzisayo, kuhlanganise nemikhiqizo yokuthengwa ngaphandle kombhalo. [Umhlahlandlela wethu wokuvakashela udokotela](/caregiving/doctor-visit-with-dementia/) ungasiza ukulungisa imibuzo.
+Ungashintshi, ungayeki noma ungaqali umuthi ngokwakho. Cela umnikezi womuthi noma isazi semithi ukuthi abheke ushintsho olusanda kwenzeka nemithi yonke umuntu ayisebenzisayo, kuhlanganise nemikhiqizo yokuthengwa ngaphandle kombhalo. [Umhlahlandlela wethu wokuvakashela udokotela](/caregiving/doctor-visit-with-dementia/) ungasiza ukulungisa imibuzo.
 
 ## Yiziphi izinkomba ezingasiza ngesikhathi sokuhlolwa?
 
 Uma umuntu evumela, bhala izinkomba ezimfushane ukuze wabelane nethimba lokunakekela:
 
-- okushoyo abekubona, abekuzwa noma abekuzwa, usebenzisa amazwi akhe uma kungenzeka;
+- okushoyo akubona, akuzwa noma akuzwile, usebenzisa amazwi akhe uma kungenzeka;
 - lapho nenkathi kwenzeka ngayo, nobude besikhathi obathathe cishe;
 - ukuthi umuntu ubonakale enesaba, ezolile noma ebhekene nengozi;
 - ukuthi igumbi lalinjani, kuhlanganise nokukhanya, izithunzi, imisindo nokuthi bekukhona bani eduze;
@@ -95,4 +95,4 @@ Sebenzisa amazwi womuntu ngokwakhe bese uchaza okubonile. Isibonelo, bhala ukuth
 
 Lezi zinkomba azichazi imbangela. Uma umcimbi uqala ngokuzumayo ngokudideka noma ngoshintsho olukhulu ekuqapheleni, funa usizo oluphuthumayo kunokulinda ukuqoqa irekhodi.
 
-[Umhlahlandlela wokudideka kwentambama](/caregiving/late-day-restlessness/) uchaza ukukhanya kwaskusihlwa nemikhuba. Ngezinsolo zezinto ezingekho, bona [lapho umuntu ophila ne-dementia enesinqe](/caregiving/when-someone-with-dementia-is-suspicious/).
+[Umhlahlandlela wokudideka kwentambama](/caregiving/late-day-restlessness/) uchaza ukukhanya kwaskusihlwa nemikhuba. Ngezinsolo zezinto ezingekho, bona [lapho umuntu ophila ne-dementia esola abanye](/caregiving/when-someone-with-dementia-is-suspicious/).

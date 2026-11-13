@@ -68,13 +68,13 @@ Respondètz a la preocupacion que es jos la question, puis donatz la responsa la
 - **« Va melhorar ? » o « Va morir ? »** Promètetz pas un resultat ni un calendièr. Dissètz a l'enfant çò que l'equipa de cura a dit, se la familha vòl o partejar, e explicatz quand vos ne tornarètz parlar.
 - **« Me vòl encara ben ? »** Fasètz pas de l'enfant lo responsable de provar la responsa. Podètz dire que la relacion compta e cercar un biais comòde de passar temps ensems ara.
 
-Es acceptable de faire una pausa se una question sembla tròp granda. Dissètz a l'enfant quand vos ne tornaretz parlar, e tenètz la paraula. Un « Ne sabi pas encara » clar e sincèr es mai util qu'una responsa segura mas falsa.
+Es acceptable de far una pausa se una question sembla tròp granda. Dissètz a l'enfant quand vos ne tornaretz parlar, e tenètz la paraula. Un « Ne sabi pas encara » clar e sincèr es mai util qu'una responsa segura mas falsa.
 
 ## Cossí ajudar sens far de l'enfant un cuidador?
 
 Prepausatz una connexion per causida. Se l'enfant e la persona vòlon, podon escotar una musica familiara, agachar de fotòs, dessenhar, legir o partejar una activitat simpla de l'ostal. La [guida sul recòrdi](/activities/reminiscence/) e la [guida sus la musica](/activities/music/) an d'idèas. Seguissètz las responsas de la persona e de l'enfant ; es bon d'arrestar, de cambiar l'activitat o de tornar mai tard.
 
-Gardatz las responsabilitats de cura e de seguretat per los adults. Un enfant pòt causir de metre un pichòt manjar o de portar un libre, mas deu pas aver la responsabilitat de la supervision, dels medicaments, de la cura personala, dels rendètz-vos o de las urgéncias. Fasètz pas creire que la visita, l'ajuda o lo fait de restar pròche es un dever de l'enfant. La [guida de Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) avisa las familhas de respectar los limits dels jovents e lor besonh de demorar enfants.
+Gardatz las responsabilitats de cura e de seguretat per los adults. Un enfant pòt causir de metre un pichòt manjar o de portar un libre, mas deu pas aver la responsabilitat de la supervision, dels medicaments, de la cura personala, dels rendètz-vos o de las urgéncias. Fasètz pas creire que la visita, l'ajuda o l'obligacion de restar pròche es un dever de l'enfant. La [guida de Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) avisa las familhas de respectar los limits dels jovents e lor besonh de demorar enfants.
 
 Protegissètz lo temps just per l'enfant. Gardatz l'escòla, las amistats, los passatemps e las rotinas familialas tan estables coma possible. Se la cura cambia aquelas activitats, explicatz perqué e cercatz un autre adult que pòt ajudar a mantenir l'activitat o la sortida de l'enfant. La [guida sul sosten dels aidants](/caregiving/caregiver-self-care/) explica cossí demandar a d'autres adults de partejar l'ajuda.
 
@@ -82,7 +82,7 @@ Abans de dire a un professor, un entrenaire o un autre adult, incluissètz l'enf
 
 ## Quand cercar mai de sosten?
 
-Demandatz coma va l'enfant dins lo temps, pas sonque aprèp lo diagnostic. Qualques enfants parlan dobèrt ; d'autres mostran lor malèstre per de cambiaments de son, a l'escòla, dins las amistats o dins lo comportament. Aquelas cambiaments pòdon aver mantuna causas e provan pas que l'enfant a besonh d'un diagnostic. Escotatz e demandatz quin sosten ajudaria.
+Demandatz coma va l'enfant dins lo temps, pas sonque aprèp lo diagnostic. Qualques enfants parlan dobèrt ; d'autres mostran lor malèstre per de cambiaments de son, a l'escòla, dins las amistats o dins lo comportament. Aquels cambiaments pòdon aver mantuna causas e provan pas que l'enfant a besonh d'un diagnostic. Escotatz e demandatz quin sosten ajudaria.
 
 Se l'enfant vòl parlar amb qualqu'un de fòra de la familha, consideratz un professor de confiança, un conselhièr d'escòla, un pediatra o un professional de la santat mentala dels enfants. Demandatz abans de contactar lo personal de l'escòla sus lo diagnostic quand podètz ; l'enfant pòt voler participar a aquela conversacion. Las familhas tocadas per una demència d'aparicion jove pòdon tanben aver besonh d'ajuda per lo trabalh, l'escòla e los ròtles de familha que cambian.
 

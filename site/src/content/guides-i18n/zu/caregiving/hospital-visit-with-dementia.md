@@ -1,7 +1,7 @@
 ---
 title: "Ukuya Esibhedlela Nge-Dementia"
 seoTitle: "Ukunakekelwa Esibhedlela Komuntu Ophila Ne-Dementia"
-description: "Lungiselela ukuhlala esibhedlela, kungaba kuhleliwe noma kuphuthumayo: yabelana ngezifiso zokunakekela, uthathe izinto ezijwayelekile nivumelane ngezinyathelo zokuphuma."
+description: "Lungiselela ukuhlala esibhedlela, kungaba kuhleliwe noma kuphuthumayo: yabelana ngezifiso zokunakekela, uthathe izinto ezijwayelekile nivumelane ngokuphuma."
 section: caregiving
 order: 21
 updated: 2026-11-11
@@ -53,7 +53,7 @@ Hlela ukuthi ubani ongahamba nomuntu nokuthi umndeni noma abasizi abathembekile 
 
 Yabelana ngemininingwane esiza abasebenzi ukuthi bakhulume nalo muntu futhi bamnakekele. Ngemvume yomuntu, bhala inothi elifushane elifaka igama alithandayo, indlela akhuluma ngayo, okumsiza ukuqonda nemikhuba noma izinto zokududuza ezibalulekile kuye. Ungakwazi futhi ukusho ukuthi ukhombisa kanjani ubuhlungu noma ukukhathazeka uma engakwazi ukukuchaza ngamazwi.
 
-Gcina inothi lifushane futhi libe yimfihlo. Libelane nalabo basebenza nomuntu obadingayo. Buza abasebenzi ukuthi bafisa ukuthola lolu lwazi kanjani nokuthi bafisa ukuligcina kuphi. Ungabeki imininingwane ebucayi ebhodini elibonakalayo noma ubelane nabavakashi abangayidingi.
+Gcina inothi lifushane futhi libe yimfihlo. Libelane nalabo basebenza nomuntu abadinga lolu lwazi. Buza abasebenzi ukuthi bafisa ukuthola lolu lwazi kanjani nokuthi bafisa ukuligcina kuphi. Ungabeki imininingwane ebucayi ebhodini elibonakalayo noma ubelane nabavakashi abangayidingi.
 
 Umuntu kufanele abe yingxenye yengxoxo uma kungenzeka. Cela abasebenzi bakhulume naye ngqo, basebenzise amazwi alula futhi banikeze isikhathi sokuphendula. Uma udinga ukungeza okuthile umuntu angase angakukhumbuli, chaza lokho obukile ngaphandle kokuqagela imbangela.
 
@@ -77,7 +77,7 @@ Gcina imikhuba ejwayelekile uma abasebenzi besho ukuthi iphephile. Letha isithom
 
 Umuntu angadinga usizo lokusebenzisa inkinobho yokubiza, ukuthola indlu yangasese noma ukuqonda uhlelo olusha. Tshela abasebenzi ukuthi yisiphi isekelo ajwayele ukusidinga, bese ubuza ukuthi ungacela kanjani usizo phakathi kwezikhathi zokuvakashela. Uma umuntu efuna ukuba nomuntu ohlala naye, buza ukuthi isibhedlela singavumela yini ukuvakashela noma usizo lwasebusuku.
 
-Ukuhlala esibhedlela kungadinga nabanakekeli. Lungisa omunye umuntu othembekile athathe isikhathi uma umuntu evumelana nalokho. Buza uxhumana naye esibhedlela noma ingoti yezenhlalakahle ngosizo lomuntu nomndeni ngenkathi kuqhubeka ukuhlala.
+Ukuhlala esibhedlela kungadinga nabanakekeli. Lungisa omunye umuntu othembekile athathe isikhathi uma umuntu evumelana nalokho. Buza uxhumana naye esibhedlela noma isisebenzi sezenhlalakahle ngosizo lomuntu nomndeni ngenkathi kuqhubeka ukuhlala.
 
 ## Yini okufanele ngiyihlole ngaphambi kokuthi umuntu aphume?
 
