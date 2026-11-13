@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Mga Aktibidad sa Pandama para sa Taong may Dementia"
+seoTitle: "Aktibidad sa Pandama para sa Dementia: Mga Ideya at Kaligtasan"
+description: "Mga aktibidad sa pandama para sa taong may dementia, mula masahe sa kamay hanggang tunog ng kalikasan, may paalala sa pagkakasamid at alerhiya."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Gumagamit ang mga aktibidad sa pandama ng paghipo, amoy, panlasa, tunog at
+  paningin: mabagal na masahe sa kamay, basket ng malambot na tela, sariwang
+  damong aamuyin, tunog ng kalikasan, o panonood ng ibon sa bintana. Angkop ang
+  mga ito sa bawat yugto at lalo na mahalaga sa huling bahagi. Tingnan muna ang
+  panganib ng pagkakasamid, alerhiya, problema sa balat at pagiging sensitibo
+  sa amoy, mag-alok ng isang bagay sa bawat pagkakataon, at huminto kung
+  mukhang hindi komportable ang tao.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Walang tamang sagot ang mga aktibidad sa pandama, kaya gumagana ang mga ito sa bawat yugto, kasama na sa kama o upuan."
+  - "Mag-alok ng isang pandama sa bawat pagkakataon sa tahimik na silid, at magtanong o magsabi muna bago humawak."
+  - "Iwasan ang maliliit na bagay at anumang mukhang o amoy ng pagkain pero hindi naman pagkain, dahil maaaring ilagay ng mga tao ang mga bagay sa bibig."
+  - "Suriin ang alerhiya, problema sa balat at paghinga bago gumamit ng losyon, pabango o pagkain."
+  - "Walang nakakukumbinsing ebidensiya na nakatutulong ang aromatherapy sa mga sintomas ng dementia; gamitin ang amoy para lang sa simpleng kasiyahan, kung gagamitin man."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Ano ang mabubuting aktibidad sa pandama para sa taong may dementia?"
+    a: "Simpleng ideya ang mabagal na masahe sa kamay gamit ang losyon, paghawak ng malambot na tela, pag-amoy ng sariwang damo o kape, pakikinig sa paboritong musika o tunog ng kalikasan, panonood ng ibon o aquarium, at pagtikim ng paboritong pagkain sa ligtas na tekstura. Mag-alok ng isang bagay sa bawat pagkakataon at bantayan kung paano tumutugon ang tao."
+  - q: "Ligtas ba ang mga aktibidad sa pandama para sa taong naglalagay ng bagay sa bibig?"
+    a: "Maaari, sa ingat. Gumamit lamang ng malalaking bagay na hindi malulunok, iwasan ang anumang maliit o madaling mabasag, at ilayo sa abot ang losyon, sabon at mga produktong may pabango pagkatapos, dahil maaaring magmukha o umamoy na pagkain ang mga ito. Manatili sa tabi ng tao sa buong panahon."
+  - q: "Nakatutulong ba ang aromatherapy sa dementia?"
+    a: "Nakahanap ang isang pagsusuri ng Cochrane ng walang nakakukumbinsing ebidensiya na nakatutulong ang aromatherapy sa mga taong may dementia, bagaman maliit at hindi pare-pareho ang mga pag-aaral. Kung nasisiyahan ang tao sa banayad at pamilyar na amoy, ayos lang iyon, pero iwasan ang malalakas na essential oil, lalo na malapit sa problema sa paghinga o alerhiya."
+  - q: "Ano ang fidget o activity apron?"
+    a: "Ito ay piraso ng tela, apron o kumot sa kandungan na may mga bagay na mahahawakan na mahigpit na tinahi, gaya ng malalaking butones, zipper, laso at may texture na patse. Nagbibigay ito ng mapaglalaruan sa mga kamay na abala. Madalas itong suriin para sa anumang maluwag na maaaring mahila."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Gumagamit ang mga aktibidad sa pandama ng limang pandama: paghipo, amoy, panlasa, tunog at paningin. Hindi nila kailangan ng alaala, hakbang o tamang sagot, kaya maaari silang gumana sa anumang yugto. Pinakamahalaga ang mga ito sa mas huling bahagi. Sinasabi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) na sa huling yugto, pangunahing nararanasan ang mundo sa pamamagitan ng mga pandama, at maipapakita ang pag-aalaga sa pamamagitan ng paghipo, tunog, paningin, panlasa at amoy. Ilang pagsusuri sa kaligtasan ang nagpapagaan ng aktibidad para sa lahat.
 
-## What are sensory activities for dementia?
+## Ano ang mga aktibidad sa pandama para sa dementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Ang mga aktibidad sa pandama ay simpleng karanasang nakatuon sa iisang pandama sa bawat pagkakataon, tulad ng paghaplos ng tela, pag-amoy ng damo, o pakikinig sa ulan. Sinasabi ng [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) na ang mga aktibidad sa huling yugto ay kadalasang kailangang tumutok sa mga pandama, at binabanggit nito ang musika, mga bagay na mahahawakan, at masahe sa kamay. Sinasabi ng [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) na maaaring malakas ang pangangailangan ng mga taong nasa huling yugto na may hawakan malapit para sa ginhawa.
 
-## Sensory ideas, sense by sense
+## Mga ideya sa pandama, bawat pandama
 
-### Touch
+### Paghipo
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Masahe sa kamay.** Painitin nang kaunti ang losyon sa mga kamay ninyo at dahan-dahang haplusin mula pulso hanggang dulo ng daliri. Binabanggit ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ang pagmamasahe gamit ang losyong walang amoy para sa ginhawa.
+- **Basket ng tela.** Malalaking piraso ng velvet, corduroy, fleece, satin at lana na hahaplusin, tutupiin at pag-uusapan.
+- **Mainit na bimpo.** Mainit at basang tela para sa mga kamay sa malamig na araw. Subukan muna ang temperatura sa sarili ninyong pulso.
+- **Activity apron o kumot sa kandungan.** Malalaking butones, zipper, laso at may texture na patse na mahigpit na tinahi.
+- **Pagtutupi at pagpapakinis.** Basket ng malilinis na bimpo o napkin na tutupiin, papatungin at muling tutupiin.
+- **May malambot na mahahawakan.** Fleece na kumot, unan o makatotohanang malambot na hayop, iniaalok nang simple, hindi kailanman bilang laruan.
 
-### Smell
+### Amoy
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Sariwang damo.** Kuskusin ang dahon ng mint, rosemary, basil o lavender sa pagitan ng mga daliri at ipasa sa tao.
+- **Amoy sa kusina.** Kapeng kumukulo, tinapay na tinutostahan, kanela, o dalandang binabalatan malapit lang.
+- **Bulaklak.** Magdala ng ilang sariwang bulaklak mula sa hardin o sa tindahan.
+- **Pamilyar na produkto.** Ang sabon o losyon na palagi nilang ginagamit, kung kayang tiisin ng kanilang balat.
 
-### Taste
+### Panlasa
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Paboritong lasa.** Isang maliit na kutsarang pagkain na gusto nila, gaya ng applesauce, pudding o ice cream, sa tekstura na ligtas nilang kayang kainin.
+- **Tulong sa pagbe-bake.** Pagtikim ng prutas o kaunting frosting habang magkasama kayong nagbe-bake.
+- **Pana-panahong pagkain.** Pakwan sa tag-init, mainit na cider sa taglagas, inihain sa ligtas na temperatura.
 
-### Sound
+### Tunog
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Paboritong musika.** Pamilyar na kanta sa mahinang volume; tingnan ang [mga aktibidad sa musika](/activities/music/).
+- **Tunog ng kalikasan.** Ulan, alon o huni ng ibon. Sinasabi ng NIA na tila nakapagpapakalma sa ilang tao ang musika, white noise at tunog ng kalikasan.
+- **Inyong boses.** Pagbabasa nang malakas, paghuni, o pagkukuwento.
+- **Simpleng instrumento.** Hand drum, shaker o kampana para tumugtog kasabay ng musika.
 
-### Sight
+### Paningin
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Pagmasdan sa bintana.** Bird feeder sa labas ng bintana, mga batang umuuwi, o umuulang niyebe.
+- **Aquarium o mabagal na video.** Banayad na galaw nang walang malakas na tunog.
+- **Malalaking larawan.** Isang malinaw na larawan sa bawat pagkakataon, hawak sa antas ng mata.
+- **Kulay at disenyo.** Pag-uuri ng maliliwanag na piraso ng tela, bulaklak o makukulay na napkin, o simpleng pahina ng pagkukulay mula sa aming [pagkukulay](/games/coloring/) na koleksyon.
+- **Sa labas.** Iminumungkahi ng NHS ang mga hardin ng pandama na may mabangong halaman, iba't ibang tekstura at tubig. Tingnan ang [mga aktibidad sa labas at paghahardin](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Paano gumawa ng kahon ng pandama
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Pumili ng temang** may kaugnayan sa buhay ng tao: dalampasigan, hardin, kusina, pagawaan, pananahi.
+2. **Pumili ng lima o anim na malalaki at ligtas na bagay,** gaya ng malaking kabibe, kahoy na sandok, malambot na bandana, supot ng pinatuyong lavender na tinahing nakasara, o makinis na kahoy na bloke.
+3. **Suriin ang bawat bagay** para sa maliliit na piyesa, matatalas na gilid, maluwag na sinulid at anumang madaling mabasag.
+4. **Ilabas ang isang bagay sa bawat pagkakataon.** Ibigay ito, ilarawan, at hayaang tuklasin ng tao.
+5. **Itabi ang kahon pagkatapos** para manatiling espesyal ito, at suriin muli ang mga bagay bago ang susunod na pagkakataon.
 
-## Safety first
+## Unang kaligtasan
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Banayad ang mga aktibidad sa pandama, pero may ilang panganib na mahalaga. May mga taong may dementia na napagkakamalang pagkain ang mga bagay na hindi pagkain, at maaaring lumala sa paglipas ng panahon ang paglunok. Binabalaan ng NIA na ang mga problema sa paglunok sa huling yugto ay nagpapataas ng panganib ng pagkakasamid.
 
-| Risk | What to do |
+| Panganib | Ang gawin |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Pagkakasamid | Gumamit lamang ng mga bagay na masyadong malaki para malunok. Walang butones, kuwintas, barya, bola ng salamin o maliit na laruan na nakalaylay sa kahon. Mag-alok ng pagkain lamang sa tekstura na sinasabi ng pangkat ng pag-aalaga na ligtas. |
+| Mga bagay na mukhang pagkain | Inirerekomenda ng NIA na ilock ang losyon, sabon, shampoo at pabango, na maaaring magmukha o umamoy na pagkain, at alisin ang artipisyal na prutas. Itabi ang mga produkto sa pandama pagkatapos gamitin. |
+| Alerhiya | Suriin ang alerhiya sa mani, latex, lana, halaman o pabango bago magsimula. |
+| Matapang na amoy | Iwasan ang matapang na pabango at essential oil, lalo na kung may hika o ibang problema sa paghinga. Mas ligtas ang banayad at natural na amoy. |
+| Balat | Suriin kung may sugat, bitak o marupok na balat bago ang masahe. Gumamit ng banayad na pagdiin, at huminto kung mapangiwi sila. |
+| Temperatura | Subukan muna sa sarili ninyong pulso ang mainit na bimpo at inumin. |
+| Matatalas o nakalalasong bagay | Walang matatalas na kasangkapan, salamin o nakalalasong supply sa paggawa. |
 
-## Does aromatherapy help?
+## Nakatutulong ba ang aromatherapy?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Malamang hindi, sa anumang masusukat na paraan. Tiningnan ng [pagsusuri ng Cochrane tungkol sa aromatherapy para sa dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ang 13 pag-aaral na may 708 katao, pawang nasa mga bahay-alagaan, at walang nakitang nakakukumbinsing benepisyo. Maliit ang mga pag-aaral, hindi nagkakatugma ang mga resulta, at mahina ang pag-uulat ng mga epekto. Kung nasisiyahan ang tao sa banayad at pamilyar na amoy, gaya ng lavender mula sa hardin, magandang dahilan iyon para ibahagi ito. Hindi ito gamot.
 
-## How to offer a sensory activity
+## Paano mag-alok ng aktibidad sa pandama
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Pumili ng tahimik na sandali** at patayin ang TV.
+- **Lumapit mula sa harapan,** banggitin ang kanilang pangalan, at magtanong o magsabi muna bago humawak: “May dala akong losyon. Gusto mo ba ng masahe sa kamay?”
+- **Mag-alok ng isang bagay sa bawat pagkakataon** para hindi ito makalula sa kanila.
+- **Bantayan ang tugon.** Ang mas malambot na mukha, nakarelaks na mga kamay o ngiti ay magandang senyales. Ang paglayo, pagkunot ng noo o pagkabalisa ay senyales na tumigil na.
+- **Panatilihing maikli.** Limang mahinahong minuto ay magandang sesyon.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Ang sabay na mabagal na paghinga, gaya ng [banayad na paghinga](/games/calm-breathing/), ay maaaring maging banayad na pagtatapos. Para sa higit pang ideya sa tabi ng kama, tingnan ang [mga aktibidad sa huling yugto](/activities/late-stage/), at para sa pagkabalisa tuwing gabi, tingnan ang [pagkabalisa sa huling bahagi ng araw](/caregiving/late-day-restlessness/).
