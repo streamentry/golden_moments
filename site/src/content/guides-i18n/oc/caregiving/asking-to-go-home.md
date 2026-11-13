@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Quand una persona amb demència vòl tornar a l'ostal"
+seoTitle: "Demència e demanda de tornar a l'ostal : que dire"
+description: "Perque una persona amb demència demanda de tornar a l'ostal, çò que li podètz dire, activitats calmantas e cossí la gardar segura se vòl partir."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Quand una persona amb demència demanda sens cesse de tornar a l'ostal, « ostal » vòl sovent dire un sentiment de seguretat o un luòc del passat, pas un edifici. Non disputetz pas qu'es a l'ostal. Reconeisseu lo sentiment, rassegurar la persona que es en seguretat, li demandar de parlar de son ostal, puèi l'amenar doçament cap a de fotos, de musica, un manjar, una promenada o una tasca simpla. Verificatz se i a quicòm a reglar : la fam, la set, la toalèta o la doleur. Se comença de sobte, apelatz lo metge.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "« Vòli tornar a l'ostal » vòl sovent dire « Me sentissi pas en seguretat », pas una demanda d'adreça."
+  - "Discutir o provar que la persona es a l'ostal fa generalament creisser la pena. Respondètz al sentiment a la plaça."
+  - "Demandatz-li de vos parlar de l'ostal, puèi ofrissètz de fotos, de musica, un manjar, una promenada o una tasca simpla."
+  - "Verificatz quicòm que se pòt reglar : la fam, la set, la toalèta, la doleur, lo caud o lo freg, lo brui, la fatiga."
+  - "Se arriba cada fin de jorn, pòt èsser una inquietud de fin de jorn ; una rotina establa e una bona lutz pòdon ajudar."
+  - "Preparatz la seguretat s'ensaian de partir, e apelatz lo metge per tot cambiament subit."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Perque ma maire amb demència demanda de tornar a l'ostal quand es a l'ostal ?"
+    a: "La demència pòt far paréisser las salas familhièras estranhas, e de personas se sentisson de còps dins una epòca mai ancianca de lor vida. « Ostal » pòt designar una maison d'enfança o simplament lo sentiment d'èsser en seguretat e a l'aise. Respondre a aqueste sentiment fonciona generalament mai ben que de li far remarcar ont es."
+  - q: "Que dire quand demandan de tornar a l'ostal ?"
+    a: "Ensajatz « Sètz en seguretat aquí, e soi amb vos », puèi « Parla-me de vòstre ostal. » Escotatz, partejatz una fòto o una cançon, e ofrissètz una beguda o una corta promenada. Evitatz de dire « Sètz a l'ostal » coma una correccion, perque pòt semblar que la persona a tòrt."
+  - q: "Es acceptable de dire qu'anarem a l'ostal mai tard ?"
+    a: "Las familhas e las organizacions de la demència son pas d'acòrd sus aquò. Mantunas comencen per un confòrt sincèr e una reconduccion, e reservan una mentida doça per de moments ont la vertat sonque causariá una pena que la persona podriá pas gerir. Quina que siá la causa, siatz doç e constant, e vos moquetz pas de sa realitat."
+  - q: "E s'ensaian de sortir de l'ostal ?"
+    a: "Demorar calme e marchar amb la persona, al luòc de la blocar. Una corta promenada aquieta sovent l'enveja. Preparar d'avança de mesuras de seguretat, coma un braçalet d'identitat, un son a la pòrta e una fòto recenta. Se la persona es desaparescuda, recercatz los endrechs segurs vesins mentre apelatz de seguida la poliça locala o los servicis d'urgéncia. Esperatz pas un nombre de minutas fixat abans de senhalar."
+  - q: "Quand dever apelar lo metge ?"
+    a: "Apelatz lo metge lèu se la demanda o la confusion comença de sobte o s'agrava fòrça en d'oras o de jorns, sustot amb de fèbre, un medicament nòu o de signes d'infeccion urinària. Una confusion subita pòt èsser un delir, que demanda una cura d'urgéncia. Apelatz lo servici d'urgéncia de la zòna se qualqu'un es en perilh."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +45,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +65,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+« Vòli tornar a l'ostal. » Per de nombrosas familhas es una de las cauzas mai doloroas d'ausir, sobretot quand la persona que vos ocupatz se tròba dins sa pròpria sala. Es corrent, pòt arribar a tota etapa de la demència, e i a de manièras calmas e practicas de respondre. Aquesta pagina explica çò que las paraulas volon sovent dire, çò que se pòt dire, las activitats que pòdon ajudar sul moment, e cossí restar en seguretat.
 
-## Why does someone with dementia keep asking to go home?
+## Perque una persona amb demència demanda sens cèssar de tornar a l'ostal ?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Sovent, « ostal » es mai un sentiment qu'un luòc. Segon la Societat Alzheimer, es un sentiment de confòrt e de seguretat, o un ostal del passat, pas l'edifici en se-meteis. La demència pòt far paréisser las salas familhièras estranhas, e una persona pòt se creire dins una epòca mai ancianca de sa vida, quand l'ostal èra la maison d'enfança o lo luòc ont avián elevat los enfants.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Las paraulas pòdon tanben signalar quicòm que se passa aquí e ara : fam, set, besonh d'anar a la toalèta, doleur, caud o freg, fatiga, o solitud, paur o brui que los desbòrda. L'[Institut nacional de la vielhesa (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) enumera la doleur, lo brui, la solitud, los cambiaments de rotina e los medicaments entre las causas de l'agitacion.
 
-## What should I say when they ask to go home?
+## Que dire quand demandan de tornar a l'ostal ?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Respondètz al sentiment, pas a las paraulas. Lo [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recomanda de pas ensajar de convéncer la persona qu'a tòrt : sos sentiments son reals, donc respondètz amb un confòrt e una rassegurança d'abòrd, puèi reconduisètz doçament.
 
-Phrases that often help:
+Expressions que fonciònan sovent :
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Nomenar lo sentiment.** « Sembla que vos manca l'ostal. »
+- **Rassegurar.** « Sètz en seguretat aquí, e soi amb vos. » L'[Associacion Alzheimer](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggerís las paraulas simplas « Sètz en seguretat aquí ».
+- **Convidar als sovenirs.** « Parla-me de vòstre ostal. Cossí èra vòstra cosina ? » Demandar del passat luenh es generalament mai confortable que de questions sul present.
+- **Ofrir quicòm ensems.** « Prenem primièr una tassa de tè ? » o « Me daratz un còp de man amb aquelas tovalhas ? »
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Un ton caud e una man sul bratç, se la persona l'aprecia, pòdon dire mai que las paraulas.
 
-## What should I avoid?
+## Que cal evitar ?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Discutir o explicar.** « Vivètz aquí ara » o « Es aquí vòstre ostal dempuèi 40 ans » li demanda d'acceptar quicòm que la demència rend dificil d'acceptar, e pòt semblar que la persona a tòrt.
+- **Interrogar.** « O vos en sovenètz pas ? » o « Quina es l'adreça ? » ajusta de pression.
+- **Blocar la pòrta amb colèra.** S'ensaian de partir, demorar calme e marchar amb la persona. Una corta promenada ensems aquieta sovent l'enveja.
+- **Se precipitar.** Balhatz a la persona lo temps de parlar de son ostal abans de cambiar de subjècte.
 
-## Activities that can help in the moment
+## Activitats que pòdon ajudar sul moment
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Après aver reconegut lo sentiment, una activitat calma e familiara pòt desplaçar l'atencion sens lo desconéisser.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Agachar de fotos de l'ostal e de la familha.** Virar las paginas e far de remarcas (« Agachatz aquel jardin ») mai que de questions. Sus un telefòn o una tablèta, [Parelhas de fotos](/games/photo-pairs/) transforma vòstras fotos de familha en un jòc d'assemblatge doç, e las fotos demoran sus vòstre aparelh.
+2. **Parlar de l'ostal.** [Cartas de conversa](/games/conversation-cards/) ofrisson de questions dubèrtas sus las maisons, las cosinas, los vesins e las fèstas, sens responsa juste.
+3. **Escotar la musica preferida.** La NIA cita la musica doça entre las manièras de calmar l'agitacion. Vejatz nòstras [activitats musicalas](/activities/music/).
+4. **Manjar o béure quicòm.** La fam e la set pòdon semblar una inquietud. Una tassa de tè o una golosina preferida es tanben una pichona ritual de se sentir a l'ostal.
+5. **Far una promenada o se sétar defòra.** Lo movement e la lutz del jorn ajudan, sustot pus lèu dins la jornada.
+6. **Balhar una tasca familiara.** Plegar lo linge, triar los coteles o arrosar las plantas pòt tornar portar lo sentiment de gerir un ostal.
+7. **Tot alentir.** Atudatz la television, reduisètz lo brui e l'esbalaument, e ensajatz una pausa de [respiracion calma](/games/calm-breathing/) partejada.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Se una idèa fonciona pas, ensajatz-ne una autra mai tard. Èstre assetats en silenci ensems es tanben un bon resultat.
 
-## Check for a cause you can fix
+## Verificar una causa que se pòt reglar
 
-| Check | What to try |
+| Verificacion | Qué ensajar |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Fam o set | Ofrissètz una beguda e una pichona colacion |
+| Besonh d'anar a la toalèta | Prepausatz una visita a la salla d'aiga, amb calma e sens far d'òrdre |
+| Doleur o malaise | Cercatz los signes coma una grimaça, la man sus una partida del còs o la constipacion, e parlatz-ne al metge |
+| Caud o freg | Ajustatz una cobèrta o la temperatura de la sala |
+| Brui o agglomeracion | Passatz dins una sala mai calma, atudatz la television |
+| Fatiga o sobrestimulacion | Repausatz-vos, abaissatz la lutz, metetz una musica doça |
+| Fin de jorn | Vejatz la seccion sul sundowning mai jos |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+La Societat Alzheimer suggerís de tenir un jornal corte de quand la demanda se produís, per exemple abans dels manjars, après las visitas o al crepuscle. Los modèls se repeteisson e ajudan a planificar a l'avança.
 
-## Is it okay to tell a white lie?
+## Es acceptable de dire una mentida blanca ?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Aquò es un debat real, e las familhas plan intencionadas arriban a de posicions diferentas. La Societat Alzheimer ditz qu'i a pas una sola bona responsa : las mentidas pòdon far mai suspicioses qualques personas, donc decidissètz çò qu'es lo melhor per la persona e siatz constants. Al Penn Memory Center, lo punt de vista del codirector es que la vertat es lo punt de partença, e qu'una mentida doça es acceptabla sonque quand la persona pòt pas gerir una vertat particulara, e que cal jamai se moquar de sa realitat.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Mantunas familhas trobon un camin mejan que fonciona : un confòrt sincèr e una reconduccion d'abòrd (« Demorarem aquí aquesta nuèch, e soi aquí amb vos »), sens se disputar sus l'ont es l'ostal.
 
-## What if it happens every afternoon or evening?
+## E s'arriba cada vesprada o cada nuèch ?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Una inquietud que comença o s'agrava a la fin de la tarda es sovent apelada « sundowning ». L'[Institut nacional de la vielhesa (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggerís una rotina establa, de lutz del jorn e d'activitat cada jorn, de siestas mens tardivas, e pas de cafeïna ni d'alcòl a la fin del jorn. Alucar las lums abans lo crepuscle pòt tanben ajudar. Nòstra guida sus [de calmas activitats de fin de tarda](/caregiving/late-day-restlessness/) n'a mai.
 
-## Keeping them safe if they try to leave
+## Garder la seguretat se la persona ensaja de partir
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Demandar l'ostal pòt menar a l'errança. L'[Associacion Alzheimer](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estima que sièis sus dètz personas que viuen amb una demència erraràn almens un còp.
 
-**Prepare ahead:**
+**Preparar d'avança :**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Un braçalet d'identitat o medical amb son nom e vòstre numèro de telefòn, e d'etiquetas dins los vestits. La [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) menciona lo MedicAlert e lo programa Safe and Found de l'Associacion Alzheimer, que pòt costar d'argent.
+- Un son o una alarma a la pòrta, e de serralhas plaçadas naut o bas. Barrar jamai la persona sola.
+- Una fòto recenta de prèp, e una lista de luòcs ont pòt anar, coma un ancian ostal o un luòc de trabalh.
+- Avisar los vesins de confiança, e lor balhar vòstre numèro.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Se la persona desapareis :** recercatz los endrechs segurs vesins mentre apelatz de seguida la poliça locala o los servicis d'urgéncia. Esperatz pas un nombre de minutas fixat abans de senhalar. Un [article de revista del Departament de Justícia dels Estats Units](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) de 2021 sus las investigacions de personas desaparescudas ditz que los servicis de polícia devon pas exigir un temps d'atenta fixat, e nòta tanben que los signes semblants a la demència son un risc important. Las proceduras de signalament locals varian. Digatz als que respondon que la persona a una demència, balhatz la darrièra posicion coneguda e una fòto recenta, e seguissètz lors instruccions. Se un autre ajudant es disponible, demandatz-li de demorar près del telefòn. Recercatz pas sol dins de luòcs insegurs.
 
-## When should I call a doctor?
+## Quand dever apelar lo metge ?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Apelatz lo metge lèu se la demanda o la confusion comença de sobte, o s'agrava fòrça en d'oras o de jorns. La [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ditz que los comportaments subits o que cambian rapidament, sustot après una infeccion o un cambiament de medicament, devon èsser verificats de seguida. La confusion subita pòt èsser un delir, que l'[NHS](https://www.nhs.uk/symptoms/confusion/) ditz qu'a besonh d'un ajut urgent ; las infeccions urinàrias son una causa corrente amb las personas agèdas.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Es tanben util de mencionar una tendéncia constanta a la consulta seguenta, perque la doleur, la tristessa, los problèmas de son o los efièches secondaris de medicaments pòdon tots jogar un ròtle.

@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Pātai whakamōhio māmā mō ngā kaumātua me te mate wareware, kāore he pēhanga"
+seoTitle: "Pātai whakamōhio mō ngā kaumātua me te mate wareware, me ngā whakautu"
+description: "50 pātai whakamōhio māmā mō ngā kaumātua me te mate wareware, me ngā whiringa whakautu, ngā kaupapa kōrero, me te whakahaere kia kore tētahi e whakamātauhia."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  He māmā ngā pātai whakamōhio mō ngā kaumātua e noho ana me te mate wareware ina he kōrerorero, ehara i te whakamātautau. Pātaihia mō ngā mea i akona i mua i te wā roa, pērā i ngā waiata tawhito, ngā kīwaha, ngā hararei me te oranga o ia rā, ā, tukua tonu ngā whiringa e rua, e toru. Tukua te whakautu ngākau tuwhera, kaua e whakaarahia tētahi tangata anake, kaua e tatau pūtanga, ā, whakamahia ia whakautu hei tīmatanga pakiwaitara. Ko ngā pātai 'tēnei, tērā' kāore he whakautu hē, he pai mō ngā wā whakamutunga.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Pātai mō ngā mea roa kua mōhiotia: ngā waiata, ngā kīwaha, ngā hararei, ngā kai me te oranga o ngā tau kua pahure."
+  - "Tukua e rua, e toru ngā whiringa kia taea ai te mōhio ki te whakautu, kaua ki te maharatanga anake."
+  - "Kīia te whakautu ngākau pai, ka whakareia atu. Ko tētahi whakaaro e tīmata ai tētahi pakiwaitara, he whakaaro pai tērā."
+  - "Kāore he piro, kāore he rōpū e whakataetae ana, kāore he karanga tētahi tangata anake. Waiho kia puta ngā whakautu i te rōpū katoa."
+  - "Ina uaua te kōwhiri i ngā whakautu, whakamahia ngā pātai 'tēnei, tērā' kāore he whakautu tika."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "He mahi pai ranei ngā pātai whakamōhio mō ngā tāngata e noho ana me te mate wareware?"
+    a: "Ka pai, ki te whakahaerehia ngāwari. Kei te rārangi a te Alzheimer's Foundation of America i ngā pātai whakamōhio hei mahi mō te wāhanga tīmatanga. Me pātai ki ngā kaupapa kua mōhiotia mō te wā roa, me tuku ngā whiringa, kaua e whakaarahia tētahi tangata ki te wāhi whakamātau, ā, me whakaaro ki ngā whakautu hei huarahi kōrero, kaua hei whakamātautau."
+  - q: "He aha ngā kaupapa e pai rawa ana mō ngā pātai whakamōhio mō te mate wareware?"
+    a: "Ko ngā mea i akona i mua i te wā roa te pai rawa: ngā waiata rongonui me ngā kaiwaiata o te taiohi o te tangata, ngā kīwaha mōhio, ngā hararei, ngā kai, ngā kēmu, me te oranga o ia rā pērā i ngā tuku miraka ki te kuaha me ngā waea e tahuri ana te porowhita. Kaua e whakamahia ngā pānui hou, me ngā mea e hiahia ai te maharatanga o tētahi mea i mua i tēnei wā."
+  - q: "Me pēhea te whakahaere i ngā pātai whakamōhio i te whare tiaki kaumātua kāore he tangata e whakama?"
+    a: "Pānuihia ia pātai ki te rōpū katoa, kōrerohia, whakaaturia rānei ngā whiringa, ā, whakaaetia ngā whakautu mai i tēnei, mai i tēnā. Kaua e karanga tētahi tangata takitahi, kaua e tatau piro. Kīia te whakautu me te kata, ahakoa he aha te whakaaro i kōrerohia, ā, pātaihia he pātai whai atu pērā i te 'Ko wai i konei i haere ki te whare pikitia ka tirohia mai i te motuka?' hei huri ai ki ngā pakiwaitara."
+  - q: "He aha tāku e mahi ai hei whakakapi i ngā pātai whakamōhio ina tae ki ngā wā whakamutunga?"
+    a: "Huri ki ngā pātai kāore he whakautu hē, pērā i te 'Kawhe, tī rānei?' me te 'Takutai, maunga rānei?', me te whakaoti ngātahi i ngā kīwaha me ngā waiata mōhio. He pai hoki te titiro ki ngā pikitia, me te whakaahua ngātahi i aua pikitia."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Ko te pātai whakamōhio tētahi o ngā mahi rōpū e tino tonoa ana i ngā whare tiaki kaumātua me ngā hōtaka ā-rā, ā, he maha ngā whānau e tākaro ana i tēnei i te tēpu kāinga hoki. Ina whakahaerehia i te tikanga noa, me ngā piro, me tētahi tangata anake e whakautu ana, ka whakaaro pea te tangata e noho ana me te mate wareware kua whakamātauhia ia. Ina whakahaerehia ngāwari, he ara ngahau hei rongo i ngā pakiwaitara. Kei raro nei ngā pātai māmā 50, me ngā whiringa whakautu, me tētahi kaupapa kōrero mō ia pātai, ā, muri atu te tikanga whakahaere i tētahi wā.
 
-## How do you make trivia work for someone with dementia?
+## Me pēhea e whai hua ai te pātai whakamōhio mō te hunga whai mate wareware?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Me whakatata te pātai ki te maharatanga o ngā mea o mua i te wā roa, ā, me whakanui ngā whakautu katoa.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Pātai mō te wā roa.** E ai ki te [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers), ko te tohu tīmatanga tino noa o te Alzheimer's ko te uaua ki te maharatanga o ngā mōhiotanga hou i akona. Ko ngā waiata, ngā kīwaha me te oranga o ngā tekau tau kua pahure he whenua māmā ake mō te nuinga.
+2. **Tukua ngā whiringa i ngā wā katoa.** He māmā ake te kōwhiri i te whakautu tika i waenga i te rua, te toru rānei, i te whakaputa mai i kore.
+3. **Pānuihia ngā pātai ā-waha, whakaaturia hoki he rahi.** Ka āwhina te papa tuhituhi, te papatipi rānei e whakaarahia ana, ki ngā tāngata e rongo iti ana.
+4. **Tukua te whakautu ngākau tuwhera.** Ki te kore tētahi e mōhio, kīia ngākau pai, ka whakareia atu. Kaua rawa e kī, "Hei aha, me mōhio koe ki tēnei."
+5. **Kāore he piro.** Kāore mō ngā tāngata takitahi, kāore hoki mō ngā tēpu. Ki te hiahia ngā tāngata ki tētahi tau, pupuri i te tapeke rōpū kotahi anake.
+6. **Kaua e karanga tētahi tangata anake.** Waiho kia puta ngā whakautu i a tātou katoa. Mēnā he kōrero takirua, whakautu tahi: "Ki taku whakaaro he piana. He aha tō whakaaro?"
+7. **Whakamahia te kaupapa kōrero.** Ko te whakautu te tīmatanga, ehara i te mutunga. Ko ngā pakiwaitara te whāinga matua.
+8. **Kia poto.** Tekau pātai me ngā pakiwaitara i waenganui he rahi noa iho.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+Ko te tikanga matua a te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) he māmā noa iho: tirohia ngā tohu pōrearea, ā, kia whai wāhi te tangata ki te angitu. E rārangi ana te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i te pātai whakamōhio hei mahi mō te wāhanga tīmatanga. I te wāhanga waenga, pupuri ki ngā whiringa e rua, ā, whakamahia ngā kaupapa kōrero. Ā muri ake, huri ki ngā pātai "tēnei, tērā" kei raro nei.
 
-## Music and entertainment trivia
+## Ngā pātai waiata me te ngahau
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Kua tuhia **mātotoru** te whakautu. Whakatika ēnei mō te tangata: ko te tangata i tupu ake me te puoro Motown ka hiahia ētahi atu kaiwaiata ki te tangata i tupu ake me ngā roopu puoro nui.
 
-| Question | Choices | Talk about |
+| Pātai | Whiringa | Kōrero mō |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Ko wai i kīia ko te Kingi o te Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | I kite koe i a Elvis i te pouaka whakaata? |
+| Ko wai te kaiwaiata i kīia ko Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Ko tēhea waiata a Sinatra e pai rawa ana ki a koe? |
+| I moemoea a Bing Crosby mō tētahi... mā | **Kirihimete**, marena, whare | Waiatatia tahi tētahi rārangi |
+| I waiata a Louis Armstrong i te "What a Wonderful..." | Rā, **Ao**, Ora | He aha ngā mea e whakamīharo ai te ao ki a koe? |
+| I waiata a Judy Garland i "Over the Rainbow" i tēhea kiriata? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | I hea koe i mātakitaki ai i ō kiriata pai? |
+| Ko wai i whakaari hei a Lucy i "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | He aha ngā whakaaturanga i mātakitaki tahi ai tō whānau? |
+| Ko wai te kaieke hōiho i eke i te hōiho ko Trigger? | **Roy Rogers**, Gene Autry, John Wayne | I tākaro koe ki te kaieke hōiho i a koe tamariki? |
+| Ko wai i whakahaere i te "The Tonight Show" mō ngā tau e 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | I noho pō roa koe ki te mātakitaki pouaka whakaata? |
+| Ko tēhea pūoru e 88 ngā ki? | Kitā, **piana**, he pū whakatangi | I tākaro tētahi o tō whānau i tētahi pūoru? |
+| Ko tēhea kanikani e tatauhia ana kotahi-rua-toru, kotahi-rua-toru? | **Waltz**, twist, tango | I hea koe i kanikani ai? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Hei kōrero anō mō te puoro, tirohia ngā [mahi puoro mō te mate wareware](/activities/music/).
 
-## Everyday life trivia
+## Ngā pātai o te ao o ia rā
 
-| Question | Choices | Talk about |
+| Pātai | Whiringa | Kōrero mō |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| I mua i ngā whare hau, he maha ngā whare i pupuri kai mākariri ki tētahi... | **Pouaka hau**, ōwena, tāhanga | Nā wai i tuku mai te hau? |
+| Nā wai i tuku te miraka ki te kuaha i roto i ngā ipu karaihe? | Te kaiwhakawhiti pukapuka, **te kaihoko miraka**, te tama tuku nūpepa | He aha atu ngā mea i tukuna ki te whare? |
+| Me pēhea tō tāngi i te waea porowhita? | Te pēhi pātene, **te hurihuri porowhita**, te kōrero ki a ia | Kōrerohia mai te waea i tō whare. |
+| Ko tēhea kamupene i hanga te motuka Model T? | **Ford**, Chevrolet, Buick | Kōrerohia mai tētahi motuka i pai ki a koe. |
+| I hea koe e kitea ai tētahi kaihanga wai kōhiti? | **He pūtaki wai kōhiti**, he wharetunu parāoa, he peeke | He aha tāu i tono ai ki te kaunita? |
+| He aha te kēmu he puna rino e taea ai te heke i ngā kaupae? | Yo-yo, **Slinky**, hula hoop | He aha ngā kēmu i aroha nui ai koe? |
+| He wāhi te drive-in hei mātakitaki i... | **Ngā kiriata mai i tō motuka**, ngā tākaro pōro, ngā hīkoi whakanui | Ko wai i haere tahi koe? |
+| Ko te kanohi o wai kei runga i te pepa tāra kotahi? | Lincoln, **George Washington**, Jefferson | He aha i taea e te tāra kotahi i tērā wā? |
+| Ko te kanohi o wai kei runga i te pēni? | **Abraham Lincoln**, Washington, Franklin | I penapena koe i ngā pēni ki roto i te oko i tērā wā? |
+| He tae aha te pāhi kura i te nuinga o te wā? | Whero, **kōwhai**, kikorangi | Me pēhea tō haere ki te kura? |
 
-## Holidays, nature and places
+## Ngā hararei, te taiao me ngā wāhi
 
-| Question | Choices | Talk about |
+| Pātai | Whiringa | Kōrero mō |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ko tēhea hararei kei te Rāpare tuawhā o Noema? | Labor Day, **Thanksgiving**, Memorial Day | He aha te mea i tino tū ai ki tō tēpu? |
+| Mō tēhea hararei i hangaia ai ngā rama Jack-o'-lantern? | **Halloween**, Aranga, Kirihimete | Kōrerohia mai te Halloween i tupu ake ai koe. |
+| Ko te Fourth of July e whakanui ana i te Whakapuakanga o te... | Ngā tika, **te Rangatiratanga**, te Herekore | I hea koe i mātakitaki ai i ngā ahi-ahi o te rangi? |
+| Ko tēhea marama te Rā o te Whaea? | Āpereira, **Mei**, Hune | I pēhea tō whānau i whakanui ai? |
+| E hia ngā whetū kei runga i te haki o Amerika? | 48, **50**, 52 | I whai 48 whetū te haki tae noa ki te 1959. He maharatanga pai ngā whakautu e rua. |
+| Ko tēhea moana kei te takutai ki te Rawhiti? | Moana-nui-a-Kiwa, **Atalāniki**, Ākitika | I haere koe ki te takutai? |
+| I roto i tēhea tāone te Whakapakoko o te Herekore? | Boston, **New York**, Philadelphia | Kua haere koe ki New York? |
+| He aha ngā mea e hanga ana e ngā pī? | Miraka, **honi**, hiraka | Honi i runga i te tōhi, i roto rānei i te tī? |
+| Ka kīia te kau iti ko te... | Hōiho iti, **kau iti**, Kōati iti | I noho tata koe ki tētahi pāmu? |
+| Ko tēhea puāwai kōwhai teitei e rongonui ana mō te huri ki te rā? | Rōhi, **pua rā**, Tiūripa | He aha ngā mea i tupu i tō māra? |
+| E hia ngā rā o tētahi tau torotoro? | 365, **366**, 360 | Kōrerohia mai tētahi rā whānau e maumahara ana koe. |
+| Ko tēhea wā o te tau e whai ana i te hōtoke? | Ngahuru, **Koanga**, Raumati | He aha tō wā pai o te tau? |
 
-## Food and sports trivia
+## Ngā kai me ngā hākinakina
 
-| Question | Choices | Talk about |
+| Pātai | Whiringa | Kōrero mō |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Ko ngā rēhia he... kua maroke | Pūrama, **uwhi**, Tiere | I pania koe i ngā rēhia ki ngā kai awatea? |
+| Ko ngā pūrama maroke he... | **Pūrama**, figi, āporo | Ko wai i tino pai ki ngā pūrama maroke i tō whānau? |
+| Te pata nati me te... | **Hēri**, tīhi, hama | Pakupaku, ngāwari rānei? |
+| Ko te guacamole he nuinga tōna i hangaia mai i... | Pī, **āwokāto**, kūkama | He aha ngā rihi i puta i ngā pāti? |
+| Ko tēhea pai e tino pai ana ki te Thanksgiving? | **Paukena**, rēmana, Tiere | Ko tēhea pai tāu i hanga ai? |
+| E hia ngā kaitākaro o tētahi roopu pōro pātene kei runga i te papa? | 7, **9**, 11 | Ko tēhea roopu i tautoko koe? |
+| E hia ngā pēhi kia wehea ai tētahi kaitākaro i te pōro pātene? | E rua, **e toru**, e whā | I tākaro pōro koe i tētahi wā? |
+| Mō tēhea hākinakina i rongonui ai a Babe Ruth? | Pakipaki, **pōro pātene**, kōfu | I haere koe ki ngā tākaro pōro? |
+| E hia ngā poka kei tētahi papa kōfu noa? | 9, **18**, 24 | Kua tākaro kōfu koe, kōfu iti rānei? |
+| I roto i tēhea hākinakina ka whiwhi koe i te touchdown? | **Whutupōro**, hakei, pōro hopu | Ko wai i mātakitaki whutupōro i tō whare? |
 
-## Familiar sayings
+## Ngā kīwaha tawhito
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Ko te whakaoti i te kīwaha e ahu mai ana i te reo i akona i mua i te wā roa, ā, he māmā pea. Kei te [Whakaotihia te kīwaha](/games/finish-the-saying/) tā mātou kēmu, he maha atu ngā kīwaha, me tētahi pēhi hei whakaatu i ngā mutunga katoa.
 
-| Saying | Choices | Talk about |
+| Kīwaha | Whiringa | Kōrero mō |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| He āporo kotahi i ia rā, ka mamao i te... | **Tākuta**, ua, ngeru | Ko wai i kī mai ki a koe i tēnei? |
+| Ka mau te manu moata ki te... | Pahi, **pepeke**, tereina | He tangata ata koe? |
+| Kaua e tatau ō heihei i mua i te... | **Pakake**, moe, waiata | I pupuri heihei tō whānau? |
+| He pēni i penapenatia, he pēni... | **Kua whiwhi**, kua ngaro, kua whakapaua | Ko wai i tino penapena i tō whānau? |
+| Ko te kāinga he wāhi kei te... | Te māra, **te ngākau**, te kīhini | He aha ngā mea ka pai ai tētahi wāhi hei kāinga mōu? |
+| He pai ake te tōmuri i te... | Moata, **kore rawa**, whakapāha | Ko wai i tino tōmuri tonu? |
+| He kapua katoa he... hiriwa | **Taha**, pune, moni | Kōrerohia mai tētahi wā i pai ai tō rā. |
+| He nui ake te kōrero ā-mahi i te... | **Kupu**, puoro, pākū | Kōrerohia mai tētahi tangata i kī i tērā. |
 
-## This-or-that questions with no wrong answer
+## Ngā pātai "tēnei, tērā" kāore he whakautu hē
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ka pai ēnei i ngā wā katoa, tae atu ki ngā wā whakamutunga, nā te mea kāore he mea hei tika. Pātaihia, whakarongo, ā, tukua hoki tō whakautu ake.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kawhe, tī rānei?
+- Takutai, maunga rānei?
+- Kuri, ngeru rānei?
+- Raumati, hōtoke rānei?
+- Pai, keke rānei?
+- Kanikani, mātakitaki rānei?
+- Te puanga o te rā, te tōnga o te rā rānei?
+- Te paepae o mua, te māra o muri rānei?
+- Reo irirangi, rekoata rānei?
+- Parakeke, hua manu rānei?
+- Rōhi, daisies rānei?
+- Haerenga tereina, haerenga rori rānei?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Mō ngā kaupapa kōrero e hono ana ki ngā pikitia, whakamātauria ā mātou [Kāri kōrero](/games/conversation-cards/) ka taea te tā.
 
-## How do you run a trivia session in a care home or group?
+## Me pēhea te whakahaere i tētahi wā pātai whakamōhio i te whare tiaki, i te rōpū rānei?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Whakanohoa te tangata kia kite, kia rongo hoki.** Kia whakauruhia ngā taputapu whakarongo, kia mau ngā karaihe kanohi, kia kati te pouaka whakaata.
+2. **Whakaatuhia he kōrerorero.** "He pātai tāku mō ngā rā o mua, ā, ki taku whakaaro he nui ake tō koutou mōhio i tāku."
+3. **Pānuihia ia pātai rua ngā wā, whakaaturia hoki ngā whiringa he rahi.**
+4. **Whakaaetia ngā whakautu mai i ngā wāhi katoa o te rūma.** Whakahokia ngā whakautu pai kia rongo katoa.
+5. **Kīia te whakautu mō te katoa,** ā, pātaihia ki te rōpū te kaupapa kōrero.
+6. **Whai i te kaha o te rōpū.** Mēnā ka tīmata tētahi pātai i ngā pakiwaitara mō tekau meneti, waiho kia pērā.
+7. **Whakamutua me tētahi waiata, me tētahi huringa "tēnei, tērā" rānei,** kia oti ai te katoa i tētahi mea māmā.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Mō ētahi atu momo rōpū, tae atu ki te pingo whakaahua me ngā waiata rōpū, tirohia ngā [mahi rōpū mō ngā whare tiaki](/activities/care-home-groups/).
 
-## When to change the plan
+## Te wā e whakarerekē ai te mahere
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Mēnā he pōrearea te titiro a tētahi, he noho puku rānei, ā, he rua ngā wā e kī ana ia "Kāore au e mōhio", whakamāmāa: tukua ngā whiringa e rua, whakautu ngātahi, rānei whakamahia ngā pātai "tēnei, tērā". Mēnā ka hiahia te rōpū ki te kōrero mō tētahi pātai mō te ahiahi katoa, he angitu tērā. Ehara i te whāinga ngā whakautu tika. Ko te whāinga te wā ki te rōpū pai.

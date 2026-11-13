@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Cossí jogar als jòcs amb una persona que a una demència"
+description: "Guida practica per jogar amb una persona que viu amb una demència : la preparacion, lo rítme, non corregir, far los jòcs mai facils e saber quand arrestar."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Considerar un jòc coma un moment ensems, pas un test. Triatz un moment calme del jorn, assetats costat a costat dins una sala tranquila, e prepausatz un sol jòc. Laissatz la persona decidir del rítme, corregissètz pas las errors inofensivas, far lo jòc mai facil al primièr signe de fatiga, e transformatz las imatges en conversacion. Arrestatz encara que tot semble plasent. Arrestar lèu, o simplament agachar ensems, es un bon resultat.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "L'objectiu es lo plaser e lo ligam, pas de terminar ni de respondre juste."
+  - "Preparar d'avança : una sala calma, una bona lutz, lunetas e aparelhs auditius metuts, la television atudada, un jòc prèst."
+  - "Corregissètz pas las errors inofensivas. Dire « Ensajem aquesta manièra » o simplament contunhar."
+  - "Far lo jòc mai facil abans que la frustracion creisse : mens d'imatges, mens de causidas, imatges laissadas visiblas."
+  - "Utilizar las imatges coma punt de partença per de istòrias amb « Parla-me de... » en luòc de « Vos sovenètz pas de... ? »"
+  - "Arrestar als primièrs signes de fatiga o d'enueg. Arrestar lèu es un succès, pas un fracàs."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Quant de temps deuriam jogar un jòc ?"
+    a: "I a pas de longor corrècta. Per mantunas personas, unas minutas bastan, e certans jorns un sol torn es pro. Agachatz la persona mai que lo relòtge, e arrestatz quand sembla encara relaxada."
+  - q: "Deuriam li laissar gasanhar o far semblant de pas remarcar las errors ?"
+    a: "Dins un jòc partejat e de pression pauca, i a pas res a gasanhar ni a perdre. Se una errada la tracassa pas, laissatz-la passar. Se sembla la tracassar, ajudatz-la discretament o fasètz lo jòc mai facil sens o far veire."
+  - q: "E se preferís agachar-vos jogar ?"
+    a: "Es plan. La NIA suggerís de laissar la persona simplament agachar se sembla gaudir mai d'aquò. Parlatz de çò que vesètz e convidatz la persona a designar o a causir quand o vòl."
+  - q: "Son aquestes jòcs una manièra de testar la memòria ?"
+    a: "Non. Nòstres jòcs son de simplas activitats partejadas per lo plaser e la conversacion. Son pas un test de memòria, mesuran pas res e son pas un tractament de la demència."
+  - q: "Quin jòc es lo melhor per començar ?"
+    a: "Començatz amb lo mai simple que convèn a la persona. Parelhas d'imatges amb quatre tuilas e las imatges visiblas, o Trobar lo meteis amb dos causidas, son de punts de partença doces. Cartas de conversa fonciona plan se la persona aima mai parlar que tocar."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,125 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Un bon jòc amb una persona que viu amb una demència a pas l'aparéncia d'un concors. Sembla a dos personas assetadas pròches, que pointan d'imatges, que rison d'un dich, e que parlan de çò que ven. Lo jòc es sonque una rason de passar de temps ensems.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Aquesta guida explica cossí preparar, cossí regular lo rítme d'un jòc, cossí reagir quand quicòm « va pas », cossí far d'un jòc mai facil o un pauc mai dificil, cossí o transformar en conversacion, e cossí saber quand arrestar. Fonciona per [nòstres jòcs](/games/) e per las cartas, los puzzles e los jòcs de taula que ja aviatz.
 
-## What is the best way to play a game with someone who has dementia?
+## Qué es la melhor manièra de jogar un jòc amb una persona que a una demència ?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Mirar lo plaser, pas la performança. Es lo conselh de fons de la [guida de l'Associacion Alzheimer sus las activitats](https://www.alz.org/help-support/caregiving/daily-care/activities) : bastir sus las competéncias que la persona a encara, l'ajudar a començar, far vos-meteis las parts dificilas, e pas critiquar ni corregir las activitats inofensivas.
 
-In practice that means:
+Dins la practica, aquò vòl dire :
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Se sétar costat, pas enfront.** Costat a costat, podètz veire ensems l'ecran o la taulada, e l'ajuda sembla un trabalh d'equipa, pas una supervision.
+- **Proposar un sol jòc a la fes.** Un menú de causidas pòt semblar un test abans que comence res.
+- **Seguir sa guida.** Se vòl tocar las imatges dins son òrdre, parlar d'una imatge pendent dètz minutas, o s'arrestar après dos torns, es lo jòc d'uèi.
+- **Comptar los bons moments, pas los torns acabats.** Un sorire, una istòria o una meja ora calma son los resultats que cal cercar.
 
-## How do I set up before we start?
+## Cossí preparar abans de començar ?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Qualques minutas de preparacion empacha la màger part de la frustracion que la gent atribuís al jòc.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Causir lo melhor moment del jorn.** La [guida de la NIA sus l'adaptacion de las activitats](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggerís de planificar las sortidas e las activitats pel moment del jorn ont la persona es al melhor. Per mantuns es lo mitan del matin. La fin de la tarda es sovent mai dificila ; vejatz [las activitats calmas de fin de tarda](/caregiving/late-day-restlessness/).
+2. **Far la sala calma.** Atudatz la television e la ràdio, e barrar la pòrta se podètz. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recomanda de limitar lo brui e las distraccions abans d'ensajar de parlar.
+3. **Verificar lo confòrt d'abòrd.** Una beguda a pròximitat, un passatge a la toalèta abans, una cadièra confortabla, e lunetas e aparelhs auditius metuts.
+4. **Aclarir l'espaci.** Una lutz viva e egala, sens reflèt sus l'ecran, fa mai facilas las imatges.
+5. **Preparar lo jòc abans de se sétar.** L'obrir, causir los paramètres e reglar lo volum vos-meteis. Puèi virar l'ecran cap a la persona. Per d'astúcias de tablèta, vejatz [configurar una tablèta o un telefòn](/caregiving/tablets-and-screens/).
+6. **Sostenir l'aparelh.** Un suport o un estui que tenga la tablèta drecha evita que degun la ten a la man, e es mai facil de pointar.
 
-## How do I invite them without pressure?
+## Cossí convidar la persona sens pression ?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Fasètz una invitacion informala e facila de refusar. Quauquas fórmulas que fonciònan sovent :
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- « Ai trobat d'imatges de jardin. Volètz las agachar amb ieu ? »
+- « Me podètz ajudar amb aqueste puzzle ? Soi blocat. »
+- « Volriatz las flors o los aucèls uèi ? » (un causit entre dos es mai facil qu'una questió dubèrta)
+- « Fau far una carta per vòstra sòrre. De quina color deu èsser aquò ? »
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+L'Associacion Alzheimer suggerís d'explicar l'objectiu d'una activitat, coma far una carta per un amic, perque una rason li dona un sens. Demandar d'ajuda fonciona tanben perque la persona se sent utila.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Se la persona dis non, acceptatz-lo. Ensajatz mai tard o prepausatz quicòm de diferent. La nòstra guida sus [çò que cal far quand disen non](/caregiving/when-they-say-no/) va mai luènh.
 
-## How long should a game last, and how fast should we go?
+## Quant de temps deu durar un jòc, e a quina velocitat anem ?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Laissatz la persona decidir del rítme, e planificatz de sessions cortas. I a pas de durada ideala basada sus la prova per un jòc partejat. Dos a cinc minutas calmas pòdon èsser una activitat complèta.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Esperar mai longtemps que sembla naturau.** La NIA conselha de laissar mai de temps per respondre e de pas interrompre. Comptatz fins a dètz dins vòstre cap abans d'ajudar.
+- **Un pas a la fes.** Balhatz una sola instruccion corta (« Tocatz una imatge »), puèi esperatz. Mostrar mai que explicar : pointatz l'endrech ont tocar.
+- **Pausar liurament.** Se s'arresta per parlar d'una imatge, lo jòc pòt esperar. Cal pas se pressar.
+- **Laissar la persona agachar.** La NIA nòta que d'unas personas prefèrisson agachar, e aquò es una causida valida.
 
-## Should I correct wrong answers?
+## Cal corregir las responsas faussas ?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Non. Corregir doçament e sovent una persona li fa creire qu'a fracassat, mesmes se volètz ben far. L'Associacion Alzheimer conselha de pas criticar ni corregir las activitats inofensivas. Dins un jòc, gaireben cada error es inofensiu.
 
-| Instead of | Try |
+| Al luòc de | Ensajatz |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| « Non, es fals. » | « Ensajem aquesta manièra. » (un exemple que dona la NIA) |
+| « Es pas una parelha. Tornatz agachar. » | Res dire e prene lo torn seguent, o « Ah, aquelas dos son roges. » |
+| « Vos sovenètz de qui es aquesta persona ? » | « Parla-me d'aquesta imatge. » |
+| « Avètz ja fach aquesta. » | « Es una bona. La tornem far. » |
+| « Vamos, la conoissètz ben. » | « Volètz que vos mostre la fin ? » |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Se una errada tracassa clarament la persona, ajudatz-la discretament. Pointatz la bona imatge, prenetz un torn vos-meteis, o fasètz lo jòc mai facil lo torn seguent. Se un dich a una fin marrida mas divertida, rietz amb la persona. La fin qu'inventan pòt èsser mai bèla.
 
-## How do I make a game easier or harder?
+## Cossí far un jòc mai facil o mai dificil ?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Adaptatz lo jòc a la persona del moment, pas a una etiqueta d'etapa. La meteissa persona pòt aver besonh d'una version mai simpla lo ser que lo matin. La primièra astúcia de la NIA es d'acordar l'activitat a çò que la persona pòt far e de s'assegurar que se sent capabla.
 
-| Game | Make it easier | Make it a little harder |
+| Jòc | Far mai facil | Far un pauc mai dificil |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Parelhas d'imatges](/games/picture-pairs/) | Començar amb 4 tuilas e laissar las imatges visiblas | Mai de tuilas, o amagar las imatges se aquò sembla confortable |
+| [Trobar lo meteis](/games/find-the-same/) | 2 causidas | Fins a 4 causidas |
+| [Triar ensems](/games/sort-together/) | Vos tenètz l'imatge, la persona pointa lo panièr | La persona tocca l'imatge e lo panièr sola |
+| [Puzzle d'imatges](/games/picture-puzzle/) | 4 pèças, parlar primièr de l'imatge completa | 9 pèças |
+| [Acabar lo dich](/games/finish-the-saying/) | Mostrar la fin, puèi la dire ensems | Laissar la persona dire la fin abans de tocar |
+| [Recèrca de mots](/games/word-search/) | Imprimir, cercar un mot ensems, pointar sa primièra letra | Laissar la persona causir lo mot seguent de trobar |
+| [Coloriatge](/games/coloring/) | Vos causissètz dos colors, la persona causís entre eles | La persona causís totes los colors |
+| [Cartas de conversa](/games/conversation-cards/) | Agachar sonque l'imatge ensems | Utilizar las incitacions dubèrtas de la carta |
+| [Parelhas de fotos](/games/photo-pairs/) | Quauquas fotos de familha ben amadas | Ajustar d'autras fotos |
+| [Bingo d'imatges](/games/picture-bingo/) | Un ajudant s'asseta amb cada jogaire | Los jogaires marcan lors pròpris cartons |
+| [Respiracion calma](/games/calm-breathing/) | Sonque se sétar e agachar ensems | Respirar al rítme, doçament |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Signes que lo jòc es tròp dificil : silenci lonc que sembla inquiet mai que reflexiu, « Pòdi pas » repetit, repelir l'aparelh, o d'errors que los contrariejan. Signes que pòt èsser tròp facil : enueg, o que disa qu'es enfantin. Se aquò arriba, respectatz-o e cambiatz per quicòm que sembla adult, coma una recèrca de mots, un puzzle d'una fotografia reala, o parlar d'una imatge de son vièlh mestièr.
 
-## How do I turn a game into a conversation?
+## Cossí far d'un jòc una conversacion ?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Utilizatz cada imatge coma una incitacion a parlar, e considerar tot çò que ditz la persona coma una bona responsa. Per mantuna familha, es la mai bona part del jòc.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Far de questions dubèrtas, sens responsa juste.** « Qué notatz ? » « Qual vos agrada ? » « Parla-me d'una cosina coma aquesta. »
+- **Partejar primièr.** « Ma grand-maire aviá un can coma aquel. » Vòstra istòria facilita lo fach que la persona ne parte tanben una.
+- **Seguir lo fial.** Se una imatge d'auto mena a una istòria de viatge, l'istòria es l'activitat. Laissatz lo jòc en pausa.
+- **Verificar pas los faits.** En remembrança, una conversacion plasenta importa mai que de detalhs exactes. Se l'istòria cambia d'un còp a l'autre, gaudissètz la nòva version.
+- **Utilizar las incitacions integradas.** [Acabar lo dich](/games/finish-the-saying/) segue cada dich d'una incitacion a parlar, e [Cartas de conversa](/games/conversation-cards/) son fèitas per aquò. [Parelhas de fotos](/games/photo-pairs/) utiliza vòstras fotos de familha, que espelhan sovent las istòrias mai riquas.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Mai d'idèas son dins nòstras guidas sus las [activitats de remembrança](/activities/reminiscence/) e los [conselhs de comunicacion](/caregiving/communication-tips/).
 
-## When should we stop?
+## Quand arrestar ?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Arrestatz als primièrs signes de fatiga o de pena, e lèu encara un pauc abans. L'Associacion Alzheimer conselha d'arrestar o de cambiar una activitat quand l'atencion se pèrd o la frustracion puja. Agachatz :
 
-Watch for:
+- badalhar, s'alongar sus la cadièra o los uèlhs que s'alunhan de l'ecran ;
+- s'agitar, se levar o demandar de partir ;
+- sospiar, respònsas curtas o « Soi pas capable per aquò » ;
+- tocar a l'azard o repelir l'aparelh ;
+- plorar, s'enervar o un cambiament subit d'umor.
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+Cossí arrestar plan :
 
-How to stop well:
+- **Acabar sus quicòm de facil.** Un darrièr parelh que pòt far, o una darrièra imatge a admirar.
+- **Parlar de vos-meteis.** « Ai besonh d'una tassa de tè. Arrestem aquí ? » evita tota alusion a un fracàs de la persona.
+- **Passar a quicòm fisic o calmant.** Una corta promenada, una colacion, plegar lo linge o la musica.
+- **Dire quicòm de caud.** « Ai aprèciat de far aquò amb vos. » Pas de lausa per aver « ben fach », mas lo plaser de la passada ensems.
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+Arrestar lèu, cambiar de projècte, o abandonar lo jòc per simplament s'asseire ensems son totes de bons resultats.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+## Se pòt jogar en grop o per video ?
 
-## Can we play in a group or over a video call?
+Òc, amb un pauc de preparacion. En grop, limitatz a qualques personas, asseguretz los ajudants près de cada persona que n'a besonh, e causissètz un jòc amb un objectiu partejat clar. [Bingo d'imatges](/games/picture-bingo/) ofrís de cartons imprimibles e un apelaire sus l'ecran per los grops. Vejatz [activitats per los grops d'establiments d'acuèlh](/activities/care-home-groups/) per mai d'idèas.
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+En visio, la persona en linha pòt descriure una imatge pendent que qualqu'un dins la sala la pointa e la tòca. Mantenètz las sesions cortas e familiaras. La nòstra guida sus [los apèls telefonics e per video](/activities/phone-and-video-calls/) n'a mai.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+## E se un jòc fonciona pas ?
 
-## What if a game just isn't working?
-
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Qualques jorns res pren, e aquò es pas un reflèxe sus vos ni sus la persona. Metetz lo jòc de cantonada e ensajatz un autre moment del jorn, un autre jòc o pas de jòc del tot. Mantunas bonas activitats an pas res a far amb los ecrans : musica, plegar de tovalhas, agachar un album de fotos o una corta promenada. Cercatz dins nòstra [lista d'idèas d'activitats](/activities/ideas/) per mai.

@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Los 14 factors se repartisson sus tota la vida : un a la primièra jovença, dètz al mitan de la vida e tres a la fin de la vida."
   - "La pèrdua auditiva e lo colesterol LDL elevat al mitan de la vida son cadun ligats a environ 7% dels cas de demència al monde, las proporcions mai grandas per un sol factor."
-  - "Aquestas percentatges son d'estimacions de populacion que supausan una relacion de causa a efièch. D'unes ligams pòdon èsser pas que parcialament causals."
+  - "Aquestas percentatges son d'estimacions de populacion que supausan una relacion de causa a efièch. D'uns ligams pòdon èsser pas que parcialament causals."
   - "L'edat e los gènes, que degun pòt cambiar, son tanben de factors de risc majors. Reduire los 14 riscs garantís pas que degun evite la demència."
   - "La màger part de las mesuras, coma verificar la tension, l'audicion e la vista, son bonas per la santat en general e valon la pena d'en parlar amb un metge."
 faq:
