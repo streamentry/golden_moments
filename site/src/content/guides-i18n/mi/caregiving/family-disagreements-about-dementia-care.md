@@ -1,7 +1,7 @@
 ---
 title: "Ina Whakaaro Rerekē Ai Te Whānau Mō Te Tiaki Mate Wareware"
 seoTitle: "Whakaaro Rerekē Whānau Mō Te Tiaki Mate Wareware"
-description: "Te kōrero mārie mō ngā whakaaro rerekē i te tiaki mate wareware: whakauru te tangata, wehea ngā korero me ngā whakaaro, tohatoha mahi, tonoa awhina."
+description: "Te kōrero mārie mō ngā whakaaro rerekē i te tiaki mate wareware: whakauru te tangata, wehea ngā kōrero me ngā whakaaro, tohatoha mahi, tonoa awhina."
 section: caregiving
 order: 33
 updated: 2026-11-11
@@ -38,7 +38,7 @@ health: false
 
 Ina whai mātua te tangata i te mate wareware, ka tautohetohe pea ngā whānau mō te haumarutanga, te tiaki, me te āpōpō. Kotahi pea te tangata e kite ana i ngā uauatanga o ia rā; kotahi atu pea e tūtaki iti ana, ā, e maumahara ana ki te tangata i mua i te mate wareware. Ko te moni, te tawhiti, ngā mahi, me ngā tūranga whānau ka whakanui i te taumahatanga. He mamae te tautohetohe, engari ehara tērā i te tohu he iti ake te aroha o tētahi.
 
-Ko te [aratohu a te Alzheimer's Association mō ngā tautohetohe whānau](https://www.alz.org/help-support/caregiving/resolving-family-conflicts) e kī ana me whakarongo kāore he whakahē, me kōrero mō ngā mahi tiaki ā-motu, ā, me hoki anō ki te kōrerorero ina rerekē ngā hiahia. E kī ana anō [Dementia Australia](https://www.dementia.org.au/news/how-do-i-navigate-changes-my-relationships) ka rerekē pea ngā whānau mō ngā whiringa tiaki, ā, ka hiahia pea ki te tautoko o waho. Ko tēnei aratohu he tikanga kōrero; kāore ia e whakatau i te mana ture, me te whakatau hoki i te tiaki tika mō tētahi tangata.
+Ko te [aratohu a te Alzheimer's Association mō ngā tautohetohe whānau](https://www.alz.org/help-support/caregiving/resolving-family-conflicts) e kī ana me whakarongo kāore he whakahē, me kōrero mō ngā mahi tiaki ā-motu, ā, me hoki anō ki te kōrerorero ina rerekē ngā hiahia. E kī anā anō [Dementia Australia](https://www.dementia.org.au/news/how-do-i-navigate-changes-my-relationships) ka rerekē pea ngā whānau mō ngā whiringa tiaki, ā, ka hiahia pea ki te tautoko o waho. Ko tēnei aratohu he tikanga kōrero; kāore ia e whakatau i te mana ture, me te whakatau hoki i te tiaki tika mō tētahi tangata.
 
 ## Me pēhea e pupuri ai te tangata hei pūtake?
 
@@ -48,7 +48,7 @@ He pai pea te [aratohu mō ngā mahi tuatahi i muri i te whakatauranga](/caregiv
 
 ## Me pēhea te tīmata i te kōrerorero whānau?
 
-Kōwhiria he wā mārie i mua i te raru, ina taea. Whakatauhia tētahi kaupapa mō te kōrerorero, pēnei i ngā tūtaki waka, te whakarite i te tūtakitanga e whai ake nei. He roa rawa te rārangi o ngā whiringa uaua ka uaua ai te whakarongo mō te katoa.
+Kōwhiria he wā mārie i mua i te raru, ina taea. Whakatauhia tētahi kaupapa mō te kōrerorero, pēnei i ngā tūtakitanga waka, te whakarite i te tūtakitanga e whai ake nei. He roa rawa te rārangi o ngā whiringa uaua ka uaua ai te whakarongo mō te katoa.
 
 I mua i te kōrerorero, tuhia he aha ngā mea kua kitea e koe, ā, he aha ngā mea e whakaaro ana koe. Hei tauira, “I warea a Pāpā i ngā tūtakitanga e rua i tēnei marama” he kitenga mārama tēnā. “Kāore e taea e Pāpā te whakahaere i tētahi mea” he whakatau whānui pea kāore e whakaatu ana i ōna pūkenga, i ōna hiahia rānei.
 
@@ -65,13 +65,13 @@ Pupuri te kōrerorero ki ngā mahi tino mārama. He hāmene poto ka āwhina i te
 | Ngā mahi me ngā herenga | He aha te āwhina e hiahia ana? Ko wai te wā me te pūkenga hei mahi i ia mahi? |
 | Ngā mahi e whai ake nei | Ko wai ka mahi i tētahi mea, āhea, ā, āhea ai te whānau e tūtaki anō ai? |
 
-Mēnā me whai tohutohu hauora tētahi take, tuhia te pātai, ā, pātai ki te rōpū tiaki. Ko te [aratohu mō te toronga ki te kaimātai](/caregiving/doctor-visit-with-dementia/) ka āwhina ki te whakarite mō taua kōrerorero. Waiho ngā tautohetohe mō ngā tuhinga ture, ngā painga, ngā kirimana rānei ki ngā kaimahi mōhio ki ngā ture o tō rohe.
+Mēnā me whai tohutohu hauora tētahi take, tuhia te pātai, ā, pātai ki te rōpū tiaki. Ko te [aratohu mō te toronga ki te tākuta](/caregiving/doctor-visit-with-dementia/) ka āwhina ki te whakarite mō taua kōrerorero. Waiho ngā tautohetohe mō ngā tuhinga ture, ngā painga, ngā kirimana rānei ki ngā kaimahi mōhio ki ngā ture o tō rohe.
 
 ## Me pēhea te wehea ngā mahi tiaki i runga i te tika?
 
-Ehara i te mea ko te tika he orite katoa. E kī ana te [Alzheimer's Association me hanga he rārangi mahi e whakaatu ana i te wā, te moni me te kaha e whai wāhi ana](https://www.alz.org/help-support/caregiving/resolving-family-conflicts). Ka pātai ai ki ia tangata he aha tāna e pai ai, ā, he aha tāna e kaha ai ki te mahi.
+Ehara i te mea ko te tika he ōrite katoa. E kī ana te [Alzheimer's Association me hanga he rārangi mahi e whakaatu ana i te wā, te moni me te kaha e whai wāhi ana](https://www.alz.org/help-support/caregiving/resolving-family-conflicts). Ka pātai ai ki ia tangata he aha tāna e pai ai, ā, he aha tāna e kaha ai ki te mahi.
 
-Akene ka āwhina pea tētahi ki ngā toronga ā-wā, ki te tiaki tinana rānei. Ko tētahi atu, he pai ake pea tāna ki te whakahaere i ngā tūtakitanga, ngā haerenga waka, te tuku kai, ngā pepa, ā, ki te toro ā-wiki. Ka taea hoki e tētahi whānau e noho tawhiti ana te whakarite waea, te rapu ratonga ā-rohe, te whakarite rauemi, mēnā e whakaae ana te tangata. Hei whakamārama anō, ko tā tātou [aratohu mō te tiaki tawhiti](/caregiving/long-distance-caregiving-with-dementia/) he mahere whānui mō ngā tūranga, ngā korero me ngā toronga.
+Akene ka āwhina pea tētahi ki ngā toronga ā-wā, ki te tiaki tinana rānei. Ko tētahi atu, he pai ake pea tāna ki te whakahaere i ngā tūtakitanga, ngā haerenga waka, te tuku kai, ngā pepa, ā, ki te toro ā-wiki. Ka taea hoki e tētahi whānau e noho tawhiti ana te whakarite waea, te rapu ratonga ā-rohe, te whakarite rauemi, mēnā e whakaae ana te tangata. Hei whakamārama anō, ko tā tātou [aratohu mō te tiaki tawhiti](/caregiving/long-distance-caregiving-with-dementia/) he mahere whānui mō ngā tūranga, ngā kōrero me ngā toronga.
 
 Tuhia ngā mahi kua whakaaetia ki tētahi maramataka tahitanga, ki tētahi rārangi tuhi rānei. Whakauruhia ko wai te kawenga, he aha te auau, ko wai hoki te whakapā atu mēnā ka rerekē ngā mahere. Arotakehia te rārangi mēnā ka rerekē te hauora, te mahi, te kaha tiaki rānei o tētahi. Ko te [aratohu mō te tiaki i a koe anō](/caregiving/caregiver-self-care/) e whakaatu ana i ngā huarahi hei tono ki ētahi atu kia tohatoha i te tautoko.
 
@@ -79,9 +79,9 @@ Tuhia ngā mahi kua whakaaetia ki tētahi maramataka tahitanga, ki tētahi rāra
 
 Hokia ki ngā mea kua mōhiotia, ki ngā hiahia o te tangata, ki te pātai e noho tonu ana. Akene kāore koe e whakaoti i ngā mea katoa i tētahi hui kotahi. Whakaaetia tētahi mahi haumaru, e whai wāhi ana mō tēnei wā, kātahi whakaritea he wā hei hoki ki te whakatau nui ake.
 
-Mēnā ka tautohetohe ngā whanaunga mō te nuku, kia kaupapa te tīmata mā te kohikohi kōrero, kaua mā te pōti āe, kāo. Pātai he aha te tautoko e ngaro ana i te kāinga, he aha te whiringa e pai ana ki te tangata, ā, ko ēhea ngā whiringa e hiahia ana te whānau ki te ako mō ērā. Ka taea te toro ki tētahi whare manaaki, ki tētahi kaiwhakarato i te kāinga hei āwhina i te kōrerorero, engari kāore e herea ai te tangata ki te nuku. Ko te [aratohu mō te manaaki noho-whare](/caregiving/choosing-residential-dementia-care/) he pātai hei whakatau i ngā whiringa.
+Mēnā ka tautohetohe ngā whanaunga mō te nuku, kia kaupapa te tīmata mā te kohi kōrero, kaua mā te pōti ā-āe, ā-kāo. Pātai he aha te tautoko e ngaro ana i te kāinga, he aha te whiringa e pai ana ki te tangata, ā, ko ēhea ngā whiringa e hiahia ana te whānau ki te ako mō ērā. Ka taea te toro ki tētahi whare manaaki, ki tētahi kaiwhakarato i te kāinga hei āwhina i te kōrerorero, engari kāore e herea ai te tangata ki te nuku. Ko te [aratohu mō te manaaki noho-whare](/caregiving/choosing-residential-dementia-care/) he pātai hei whakatau i ngā whiringa.
 
-Mēnā ka roa tonu te tautohetohe, tonoa tētahi tangata pono hei āwhina. Ahakoa he aha te take, ko te kaimātai o te tangata, tētahi kaimahi hapori, kaitohutohu, kaiwhakarite, ā, minita whakapono rānei pea. He wāhi hoki te rōpū tautoko mō ngā whanaunga ki te kōrero me ētahi e pēhi ana i ngā rerekētanga pēnei. He nui te hiahia ki te tohutohu ā-tohunga mō ngā take hauora, ture, pūtea rānei.
+Mēnā ka roa tonu te tautohetohe, tonoa tētahi tangata pono hei āwhina. Ahakoa he aha te take, ko te kaimātai hauora o te tangata, tētahi kaimahi hapori, kaitohutohu, kaiwhakarite, ā, minita whakapono rānei pea. He wāhi hoki te rōpū tautoko mō ngā whanaunga ki te kōrero me ētahi e pēhi ana i ngā rerekētanga pēnei. He nui te hiahia ki te tohutohu ā-tohunga mō ngā take hauora, ture, pūtea rānei.
 
 Mēnā ka pā te tautohetohe whānau ki te haumarutanga, ki te tiaki rānei o te tangata, whakapā atu ki tētahi ratonga pono o tō rohe hei āwhina. Kaua e waiho te tangata hei waenganui i tētahi tautohetohe. Mēnā he mōrearea tonu, whakamahia ngā ratonga ohotata o tō rohe.
 
