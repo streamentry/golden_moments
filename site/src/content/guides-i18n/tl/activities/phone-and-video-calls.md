@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Mga Aktibidad sa Tawag sa Telepono at Bidyo para sa Taong may Dementia"
+seoTitle: "Mga Aktibidad sa Tawag sa Bidyo para sa Dementia"
+description: "Aktibidad sa tawag sa telepono at bidyo para sa malayong pamilya ng taong may dementia: pagpapakita, pagbabasa, pagkanta at laro sa pantalla."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Pinakamahusay ang mga tawag sa taong may dementia kapag maikli, regular at nakasentro
+  sa isang bagay na sabay ninyong gagawin, tulad ng pagpapakita ng alaga o hardin,
+  pagtingin sa larawan, pagbabasa nang malakas, pagkanta ng paboritong kanta, o paglalaro
+  ng banayad na laro sa pinagsasaluhang pantalla. Tumawag sa parehong oras araw-araw kung
+  kaya, isang boses sa bawat pagkakataon, at humingi ng tulong sa taong nasa tabi niya.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Ang aktibidad ang nagbibigay ng hugis sa tawag at nag-aalis ng bigat sa usapan. Magplano ng isang simpleng bagay na ibabahagi."
+  - "Ang maikli at regular na tawag sa parehong oras ng araw ay kadalasang mas mabuti kaysa sa mahaba at paminsan-minsang tawag."
+  - "Isang tao ang nagsasalita sa bawat pagkakataon. Mahirap sundan ang sabay-sabay na usapan, lalo na kung may problema sa pandinig."
+  - "Ang katulong sa tabi ay makapag-aayos ng aparato, makaupo sa tabi ng tao, at maging mga kamay para sa anumang laro o larawan."
+  - "Kung hindi gumagana ang tawag ngayon, tapusin ito nang may kabaitan. Ayos lang ang subukan muli bukas."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Ano ang maaari kong gawin sa tawag sa bidyo kasama ang taong may dementia?"
+    a: "Magplano ng isang simpleng aktibidad: ipakita ang iyong hardin, alaga o kusina; tingnan nang magkasama ang lumang larawan; magbasa ng maikling tula o liham nang malakas; kumanta ng kantang gusto niya; magluto ng parehong resipe nang sabay; o maglaro ng banayad na laro ng larawan sa pinagsasaluhang pantalla. Nagbibigay ang aktibidad ng pokus sa tawag para hindi na kailangang dalhin ng tao ang usapan."
+  - q: "Gaano dapat katagal ang tawag sa bidyo?"
+    a: "Kadalasang mas maikli kaysa sa inaakala mo. Maaaring sapat na ang ilang mainit na minuto, lalo na kung mabilis mapagod ang tao. Ang regular na pagtawag sa parehong oras ng araw ay maaaring mas mahalaga kaysa sa haba ng bawat tawag."
+  - q: "Paano kung malito o mabagabag siya sa tawag sa bidyo?"
+    a: "May mga taong nalilito sa mukha sa screen. Subukan ang simpleng tawag sa telepono, isang nirekord na bidyo ng mensahe na maaaring patugtugin ng katulong sa kalmadong sandali, o mga card at larawan sa koreo. Kung nagkamali ang tawag, tapusin ito nang may kabaitan at subukan muli sa ibang araw o sa ibang oras."
+  - q: "Paano ako makatutulong sa nanay ko sa tawag sa bidyo kapag hindi niya magamit ang telepono?"
+    a: "Humingi ng tulong sa kamag-anak, katulong sa bahay o staff ng care home para simulan ang tawag at hawakan o itindig ang aparato. Maraming pasilidad ng pag-aalaga ang tumutulong sa pamilya sa mga tawag sa bidyo, kaya itanong kung ano ang kanilang inaalok. Ang tableta sa stand, nakatakda sa malaking pantalla at sapat ang lakas para marinig, ay nagpapadali para sa lahat."
+  - q: "Maaari ba kaming maglaro nang magkasama sa bidyo?"
+    a: "Oo. Ang pinakamadaling paraan ay ang isa ay magbahagi ng pantalla sa app ng bidyo habang sinasabi ng isa kung aling larawan ang i-tap. O maaaring buksan ng katulong sa tabi ang parehong laro sa tableta at i-tap para sa tao habang kayo ay nag-uusap. Pumili ng mga larong walang timer o iskor."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Nakalulungkot ang mamuhay nang malayo sa taong may dementia. Hindi mapapalitan ng tawag sa telepono o bidyo ang isang yakap, pero maaari pa rin itong magbigay ng totoong sandali ng koneksyon kapag maayos ang pagkakaayos. Ang susi ay itigil ang pagsubok na magkaroon ng normal na kumustahan at magplano ng simpleng bagay na pagsasaluhan. Tinatalakay ng pahinang ito ang mga aktibidad na gumagana sa bidyo at telepono, paano ihahanda ang tawag, at ano ang maitutulong ng taong nasa tabi niya.
 
-## Why plan an activity for a call?
+## Bakit magplano ng aktibidad para sa tawag?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Binibigyan ng aktibidad ng hugis ang tawag. Ang “Kumusta ka? Ano ang ginawa mo ngayon?” ay humihiling sa tao na alalahanin at ikuwento, na maaaring mahirap at nakaka-stress. Ang “Tingnan mo, hinog na ang kamatis” ay hindi humihingi ng kahit ano sa kanya.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Sinasabi ng Alzheimer's Association na maaaring mahirap ang usapan kasama ang malalaking grupo sa bidyo, at iminumungkahi ang [pagdaragdag ng istruktura sa tawag](https://www.alz.org/help-support/caregiving/holidays) gaya ng pagkanta o pagbabahagi ng larawan.
 
-## What activities work on a video call?
+## Anong aktibidad ang gumagana sa tawag sa bidyo?
 
-### Show and tell
+### Ipakita at ikuwento
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Dalhin ang mundo mo sa kanya. Dahan-dahang ilibot ang kamera sa iyong hardin, ipakilala ang aso, ipakita ang niluluto mo, ipakita ang drowing ng apo, o ituro ang telepono palabas ng bintana kung may niyebe. Ilarawan ang nakikita mo sa simpleng salita at mag-iwan ng pahinga para makareaksyon siya. Hindi kailangan ng tanong.
 
-### Look at photos together
+### Tingnan nang magkasama ang mga larawan
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Ipakita sa kamera ang lumang print, o ibahagi ang screen mo para ipakita ang ilang malalaking larawan nang isa-isa. Pag-usapan ang napapansin mo: “Tingnan ang sombrero ni Lolo.” Iwasan ang “Sino ito?” o “Naaalala mo ba?” Kung mali ang pagbanggit niya sa isang tao, sumang-ayon na lang. Tingnan ang aming [gabay sa pagbabalik-tanaw](/activities/reminiscence/) para sa mga banayad na paanyaya.
 
-### Read aloud
+### Magbasa nang malakas
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Magbasa ng maikling tula, awit ng pananampalataya, paboritong aklat pambata para sa apo sa parehong tawag, liham mula sa kamag-anak, o pahina mula sa aklat na minahal niya. Ang pagbabasa nang malakas ay nagbibigay sa tao ng kalmadong maririnig nang hindi kailangang sumagot.
 
-### Sing or listen to music together
+### Kumanta o makinig ng musika nang magkasama
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Kumanta ng kantang kilalang-kilala niya, o magpatugtog ng paboritong plaka sa panig mo. Mas madali para sa maraming taong sumabay sa pag-awit kaysa sa pakikipag-usap. Tingnan ang aming [gabay sa mga aktibidad sa musika](/activities/music/).
 
-### Cook or bake at the same time
+### Magluto o maghurno nang sabay
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Iminumungkahi ng Alzheimer's Association na magplano ng tawag sa bidyo para magluto o maghurno ng espesyal na resipe nang magkasama. Itakda ang tawag sa dalawang kusina. Maaaring humalo o tumikim ang taong nasa tabi niya habang sinusunod mo ang lumang kard ng resipe niya.
 
-### Watch something together
+### Manood ng isang bagay nang magkasama
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Iminumungkahi rin ng Association na manood ng paboritong pelikula nang sabay mula sa magkahiwalay na bahay habang nag-uusap sa telepono o bidyo. Para sa taong may dementia, maaaring mas gumana ang maikling klip, lumang episode sa TV o laro ng bola kaysa buong pelikula.
 
-### Play a gentle game on a shared screen
+### Maglaro ng banayad na laro sa pinagsasaluhang pantalla
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Maraming app ng bidyo ang nagpapahintulot na magbahagi ng pantalla. Buksan mo ang laro at i-tap; sasabihin o ituturo niya kung aling larawan ang pipiliin. O maaaring buksan ng katulong sa tabi ang parehong laro sa tableta at i-tap para sa kanya habang nag-uusap kayo.
 
-Games that work well this way:
+Mga larong gumagana nang maayos sa ganitong paraan:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Tapusin ang Kasabihan](/games/finish-the-saying/):** binabasa mo ang pamilyar na kasabihan, siya ang magsasabi ng dulo, at may kasunod na paanyaya sa usapan.
+- **[Pares ng Larawan](/games/picture-pairs/):** banayad na larong pagtutugma na may malalaking larawang maaaring manatiling nakikita, walang timer at walang iskor.
+- **[Mga Kard para sa Usapan](/games/conversation-cards/):** isang larawan at bukas na paanyaya na pag-usapan nang magkasama.
+- **[Mga Pares ng Larawan](/games/photo-pairs/):** larong pagtutugma mula sa mga litratong pipiliin mo sa sarili mong aparato. Nananatili sa iyong browser ang mga litrato, at nakikita ng tao ang mga ito sa pinagsasaluhang pantalla mo.
 
-### Recorded messages
+### Mga nirekord na mensahe
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Kapag mahirap ang tawag nang live, mag-record ng maikling bidyo: pagbati, kanta o paglalakad sa bakuran. Maaaring patugtugin ito ng katulong sa kalmadong sandali, ilang beses hangga't gusto ng tao. Binabanggit ng Alzheimer's Association ang pag-record at pagpapadala ng mga espesyal na sandali, gaya ng mga bata na nagbubukas ng regalo.
 
-## What about plain phone calls?
+## Paano naman ang simpleng tawag sa telepono?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Mahalaga pa rin ang tawag sa telepono. Iminumungkahi ng Dementia Australia na [tumawag sa parehong oras araw-araw](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) at huwag magmadali, dahil maaaring kailanganin ng tao ng oras bago makilahok. Sa telepono:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Sabihin agad ang pangalan mo at relasyon mo: “Kumusta, Tatay, si Jenny ito, ang anak mo.”
+- Magsalita nang mabagal, sa maikling pangungusap, isang ideya sa bawat pagkakataon.
+- Magbigay ng balita sa halip na humingi nito: “Ginawa ko ang resipe mo ng inihaw na karne kagabi.”
+- Magbasa ng maikling tula, o kumanta ng isang taludtod ng paboritong kanta.
+- Panatilihing maikli ang tawag at tapusin sa mainit na tono.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Sinasabi rin ng Dementia Australia na makatutulong ang tawag sa bidyo kapag naging mas mahirap ang pag-uusap, dahil nakikita ng tao ang mukha mo. Kung nakalilito ang tawag sa telepono, subukan ang bidyo, o kabaliktaran.
 
-## How do I set up a video call that works?
+## Paano ako maghahanda ng tawag sa bidyo na gumagana?
 
-**Before the call:**
+**Bago ang tawag:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Pumili ng regular na oras** kapag karaniwang nakapagpahinga ang tao, at manatili roon. Nakatutulong ang nakagawiang oras.
+2. **Makipag-ugnayan sa katulong sa tabi.** Ang mensahe isang araw bago ay nakatutulong sa kanila na magplano.
+3. **Suriin ang aparato.** Mas madali ang tableta sa stand kaysa telepono na hawak sa kamay. Siguraduhing may charge, maliwanag ang screen, at sapat ang lakas ng tunog. I-on ang subtitle kung may alok ang app at kaya itong basahin ng tao.
+4. **Magplano ng isang aktibidad** at ihanda ang lahat.
 
-**During the call:**
+**Habang tumatawag:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Umupo nang malapit sa kamera** sa magandang ilaw, nakaharap sa bintana at hindi may bintana sa likod mo.
+- **Ipakilala ang sarili** tuwing tatawag, sa pangalan at relasyon.
+- **Isang boses sa bawat pagkakataon.** Sinasabi ng Alzheimer's Association na mahirap ang sabay-sabay na usapan para sa mga taong may dementia at may problema sa pandinig. Kung ilang kamag-anak ang sasali, magpalitan o panatilihin sa dalawa o tatlong tao lang.
+- **Magtanong ng isa sa bawat pagkakataon.** Iminumungkahi ng Family Caregiver Alliance ang [simpleng tanong na may oo o hindi na sagot](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), at ang pagpapakita ng pagpipilian kapag posible.
+- **Payagan ang mahahabang pahinga.** Maghintay ng sagot. Ayos lang na magmungkahi ng salita kung naghahanap siya nito.
+- **Gamitin ang mukha at boses mo.** Ngumiti, tumango at panatilihing mainit ang tono. Kadalasang mas maraming sinasabi ang ekspresyon kaysa salita.
+- **Huwag itama.** Kung may sabihin siyang hindi tumpak, hayaan na lang.
 
-**Ending the call:**
+**Pagtatapos ng tawag:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Tapusin bago mapagod ang tao, mas mainam kung sa masayang sandali.
+- Gamitin ang parehong paalam tuwing tatawag: “Tatawag ulit ako bukas sa tanghali. Mahal kita.”
+- Huwag patagalin.
 
-## Tips for the helper on site
+## Mga payo para sa katulong sa tabi
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Kung ikaw ang asawa, katulong sa bahay, kapatid o staff na tumutulong sa tawag, ikaw ang nagpapagana nito.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Maghanda ng tahimik na lugar.** Patayin ang TV at isara ang pinto.
+- **Simulan mo mismo ang tawag,** saka iabot sa tao ang tableta sa stand o ihawak ito sa antas ng mata.
+- **Umupo sa tabi niya, hindi sa harap.** Nakapagpapakalma ang presensya mo. Banayad na magpaalala kung kailangan: “Tingnan mo, si Jenny ito.”
+- **Maging mga kamay niya.** Ipakita ang mga larawan, i-tap ang laro, at iikot ang tableta para ipakita ang kuwarto.
+- **Bantayan ang pagkapagod o pagkabagabag,** at sabihan ang tumatawag kung oras na para tapusin.
+- **Sabihin sa tumatawag kung ano ang gumana.** Ang “Nagustuhan niya ang aso” ay nakatutulong sa pagpaplano ng susunod na tawag.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Iminumungkahi ng NIA na matututunan ng mga kamag-anak na malayo ang nakatatandang tao kung paano gamitin ang mga feature ng telepono, gaya ng tawag sa bidyo. Sa mga huling yugto, kadalasang kailangang hawakan ng katulong ang aparato nang buo. Ayos lang iyon.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Kung nakatira ang tao sa care home, iminumungkahi ng Alzheimer's Foundation of America na itanong kung tumutulong ang pasilidad sa mga tawag sa bidyo ng pamilya. Binabanggit din ng AFA ang pagpapadala ng larawan sa pagitan ng pamilya at staff ng pag-aalaga, at ang pagpapadala ng paboritong meryenda o maliliit na kaginhawahan, matapos suriin kung ano ang pinapayagan ng pasilidad.
 
-## What if the call doesn't go well?
+## Ano ang gagawin kung hindi maganda ang tawag?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+May ilang tawag na nakalilito, mapurol o nakabibigla. Hindi iyon ang iyong kasalanan, at hindi ibig sabihing hindi sulit ang mga tawag.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Kung mukhang naguguluhan ang tao sa screen, lumipat sa tawag sa telepono o nirekord na mensahe.
+- Kung nabagabag siya, kilalanin ang damdamin, magsabi ng nakapagpapatibay na salita, at tapusin nang banayad.
+- Kung madalas na hindi maganda ang tawag sa isang oras ng araw, subukan ang ibang oras.
+- Kung inaakala ka niyang ibang tao, sumang-ayon nang may kabaitan.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ayos lang ang maagang pagtatapos. Ang maikli at mainit na tawag ay magandang resulta.
 
-## Between calls
+## Sa pagitan ng mga tawag
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Manatiling naroon sa ibang paraan. Iminumungkahi ng Dementia Australia ang pagpapadala ng card, email, larawan o maliliit na regalo. Ang lingguhang postcard na may isang malaking larawan at maikling sulat ay mababasa nang paulit-ulit. Ang mga naka-print na [kard para sa usapan](/games/conversation-cards/) na ipinadala sa katulong ay makapagbibigay sa susunod na tawag ng nakahandang paksa.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Para sa payo sa pagpili at pag-aayos ng tableta, tingnan ang [mga tableta at screen](/caregiving/tablets-and-screens/). Para sa personal na oras, tingnan ang aming gabay sa [pagdalaw](/activities/visiting/).
