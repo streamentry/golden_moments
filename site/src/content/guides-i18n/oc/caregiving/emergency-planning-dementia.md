@@ -61,7 +61,7 @@ Los melhors objectes son los que la persona utiliza vertadièrament. Un pulover 
 
 Un plan cort es mai facil de partejar amb un ajudant de relèva qu'un long jòc de nòtas. Amb l'acòrd de la persona, incluissètz :
 
-- **Qui contactar.** Listatz los ajudants principals e de relèva, los prestataris de cura de la persona e un mejan de los joniher. Dicatz qui metrà los autres a jorn se lo fogar se mòu.
+- **Qui contactar.** Listatz los ajudants principals e de relèva, los prestataris de cura de la persona e un mejan de los contactar. Dicatz qui metrà los autres a jorn se lo fogar se mòu.
 - **Coma comunicar.** Notatz lo nom preferit de la persona, coma compren melhor las informacions e las paraulas o las rotinas familiaras que pòdon ajudar a se sentir orientada.
 - **Coma se desplaçar.** Enregistratz l'opcion de transpòrt e lo material de mobilitat o de comunicacion que la persona utiliza. Demandatz al prestatari o al bureau d'urgéncia local las opcions accessiblas abans una urgéncia.
 - **Ont trobar las essencialas.** Indicatz ont son gardats lo kit e la lista de medicaments a jorn. Gardatz las fichas privadas en un luòc segur e partejatz sonque los detalhs que cada ajudant a besonh.

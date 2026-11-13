@@ -78,7 +78,7 @@ Ensajatz un itinerari o un servici ensems abans que venga l'unica opcion. Demand
 
 ## E se pensi que lo proïme desplaçament pòt èsser pas segur ?
 
-Prenètz la inquietud au serioç e organizatz una autra manièra de se desplaçar mentre cercatz un conselh rapid. Se la persona devèn subitament confusa, la [NHS recomanda una ajuda medicala immediata](https://www.nhs.uk/symptoms/confusion/) ; utilizatz los servicis d'urgéncia locals. Un cambiament subit de comportament o de santat pòt pas èsser tractat coma un simple desacòrd sus la conduita.
+Prenètz la inquietud au seriós e organizatz una autra manièra de se desplaçar mentre cercatz un conselh rapid. Se la persona devèn subitament confusa, la [NHS recomanda una ajuda medicala immediata](https://www.nhs.uk/symptoms/confusion/) ; utilizatz los servicis d'urgéncia locals. Un cambiament subit de comportament o de santat pòt pas èsser tractat coma un simple desacòrd sus la conduita.
 
 Per d'autras inquietuds seriosas, contactatz lo metge de la persona e l'autoritat de permís localas per las etapas que se pòdon aplicar dins lor region. Vos fisatz pas a una promessa familiara o a aquesta pagina per decidir las exigéncias legalas. Se possible, explicatz lo plan immediat a la persona e gardatz-la implicada dins çò que se passa après.
 
