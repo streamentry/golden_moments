@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Mga Aktibidad para sa Middle-Stage na Dementia"
+seoTitle: "Mga Aktibidad sa Middle-Stage na Dementia: Simpleng Ideya"
+description: "Simpleng aktibidad para sa middle-stage na dementia: kapaki-pakinabang na gawain, musika, larawan at madaling laro, may hakbang-hakbang na setup."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Sa middle-stage na dementia, pinakamahusay ang maiikli, pamilyar na aktibidad na
+  hinati sa iisang hakbang: pagtutupi ng labada, pag-uuri ng medyas, paghuhugas ng
+  pinggan, pagkanta, lakad na may gabay, album ng larawan at simpleng laro ng larawan.
+  Ihanda ang lahat, ipakita ang unang hakbang, gawin ang mahihirap na bahagi at bigyan
+  ng layunin ang aktibidad. Tumigil kapag hindi na ito kaaya-aya.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Kadalasang pinakamabuti ang pamilyar na gawaing bahay dahil nararamdaman nilang kapaki-pakinabang at pang-adulto."
+  - "Ipakita sa halip na sabihin, mag-alok ng isang hakbang sa bawat pagkakataon, at magbigay ng dalawang simpleng pagpipilian sa halip na bukas na tanong."
+  - "Gawin mo ang pinakamahirap na bahagi para ang tao ay makagawa ng bahaging nakasisiya."
+  - "Ang pagkabalisa ay kadalasang ibig sabihin na kailangan ng tao ng gagawin. Mag-alok ng katulad na aktibidad sa halip na sabihing hindi."
+  - "Ayos lang ang manood, tumulong nang kaunti, o tumigil nang maaga."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Anong aktibidad ang mabuti para sa middle-stage na dementia?"
+    a: "Karaniwang pinakamahusay ang maiikli, pamilyar at gawaing kamay: pagtutupi ng tuwalya, pagpapares ng medyas, paghuhugas ng pinggan, paglalatag ng mesa, pagkanta kasabay ng paboritong lumang kanta, gabay na paglalakad, pagtingin sa album ng larawan at simpleng laro ng larawan. Hatiin ang bawat isa sa iisang hakbang at gawin nang magkasama."
+  - q: "Paano ko mapasisimulan ang taong may dementia sa isang aktibidad?"
+    a: "Ihanda ang lahat, saka simulan mo mismo ang aktibidad at anyayahan siyang tumulong: “Puwede mo ba akong tulungan sa mga tuwalyang ito?” Maraming tao ang gustong makilahok pero nahihirapang magsimula. Mas epektibo ang pagpapakita ng unang hakbang kaysa sa pagpapaliwanag nito."
+  - q: "Ano ang gagawin ko kapag paulit-ulit niyang ginagawa ang isang bagay?"
+    a: "Kadalasang walang masama ang pag-uulit at maaaring senyales na gusto ng tao na maramdamang abala siya o kailangan niya ng katiyakan. Sa halip na itama siya, mag-alok ng aktibidad na akma sa galaw, tulad ng basket ng basahang tutupiin o kantang aawitin nang magkasama."
+  - q: "Paano kung mali ang gawin niya sa aktibidad?"
+    a: "Kung hindi naman nakasasama, hayaan lang. Ang tuwalyang nakatupi nang iba o kutsarang nasa maling lugar ay walang malaking epekto. Ang pagtutuwid ay maaaring maramdamang pamumuna, samantalang ang paggawa niya sa sarili niyang paraan ay nagpaparamdam sa kanyang may kakayahan at may silbi."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Ang gitnang yugto ng dementia ang kadalasang pinakamahaba, at dito nagsisimulang kailanganin ng mga aktibidad ang tunay na suporta. Mas mahirap humanap ng salita, nagkakahalo-halo ang mga hakbang, at kahit ang pagsisimula ng anuman ay maaaring mahirap. Pero kadalasang nananatili ang hangarin na maging kapaki-pakinabang at kasali. Kapag may kaunting paghahanda, marami pa ring masisiyahan ang taong nasa gitnang yugto, lalo na sa pamilyar na gawain, musika at larawan na ginagawa kasama ka.
 
-## What activities work well in middle-stage dementia?
+## Anong aktibidad ang mahusay sa middle-stage na dementia?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Pinakamahusay ang maiikli, pamilyar at gawaing kamay na hinati sa iisang hakbang. Sinasabi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) na hindi mo kailangang mag-imbento ng bagong gawain: maaaring bahagi ng pang-araw-araw na pamumuhay ang mga aktibidad, gaya ng pagluluto ng hapunan nang magkasama, paghahardin, pakikinig ng musika o paglalakad.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+Sinasabi ng [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) na kadalasang may malakas na pangangailangan ang mga tao sa yugtong ito na maramdamang may silbi o may inaalagaan, at kailangan nila ng tulong sa pagsisimula o pagpapatuloy ng aktibidad. Kasama sa listahan nila para sa gitnang yugto ang pagtutupi ng labada, paghuhugas ng pinggan, pag-uuri ng medyas, madaling ehersisyo, pagsayaw sa pamilyar na musika, lakad na may gabay, sama-samang pagkanta, simpleng pagpipinta at pagtingin sa album ng larawan.
 
-## How do you set up an activity so it works?
+## Paano ihahanda ang aktibidad para gumana ito?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Karamihan sa mga aktibidad ay nagtatagumpay o nabibigo sa paghahanda. Ang mga ugaling ito, na hango sa [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) at sa [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), ang pinakanagpapaiba:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Linisin ang espasyo.** Patayin ang TV, isara ang pinto at ilabas lamang ang kailangan ng aktibidad.
+2. **Simulan mo mismo.** Simulan ang pagtutupi o paghalo at anyayahan siya: “Puwede mo ba akong tulungan dito?”
+3. **Magpakita, saka maghintay.** Ipakita ang isang hakbang. Ituro o gabayan ng kamay, halimbawa ang paglalagyan ng plato.
+4. **Isang hakbang sa bawat pagkakataon.** “Tupiin sa kalahati” ay mas madali kaysa “tupiin ang mga ito at salansanin ayon sa kulay.”
+5. **Dalawang pagpipilian, hindi bukas na tanong.** “Ang asul na tuwalya o ang puti?” ay mas madaling sagutin kaysa “Ano ang gusto mong gawin?”
+6. **Ikaw ang gumawa ng mahirap na bahagi.** Ikaw ang sumusukat, siya ang humahalo. Ikaw ang nagsisinulid ng karayom, siya ang nagpapaikot ng sinulid.
+7. **Bigyan ito ng dahilan.** “Ang mga napkin na ito ay para sa hapunan sa Linggo” ay nagpaparamdam na totoo ang gawain.
+8. **Hayaan silang manood kung mas gusto nila.** Sinasabi ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) na nakasisiya rin ang simpleng panonood.
 
-## Activity ideas for the middle stage
+## Mga ideya ng aktibidad para sa middle stage
 
-### Useful jobs
+### Mga kapaki-pakinabang na gawain
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Magtupi ng tuwalya at basahan.** Pinakamadali ang maliliit at patag na bagay. Maaaring tupiin, plantsahin at tupiin muli ang basket ng maiinit na basahan.
+- **Pagpares ng medyas.** Magsimula sa ilang pares na lubhang magkaiba. Ayos din ang pag-uuri ayon sa kulay lamang.
+- **Maghugas o magpatuyo ng pinggang hindi nababasag.** Maligamgam at may sabon na tubig ay nakagiginhawa sa kamay. Mas madali sa binti ang pagpapatuyo habang nakaupo.
+- **Ilatag ang mesa.** Ibigay ang isang uri ng gamit sa bawat pagkakataon, at ilatag mo muna ang isang lugar bilang halimbawa.
+- **Tumulong sa hapunan.** Maghugas ng patatas, pumunit ng litsugas o humalo sa mangkok. Ikaw ang humahawak ng kutsilyo at apoy.
+- **Magwalis, magpunas ng alikabok o magpahid.** Basahan para sa mesa, magaang walis para sa beranda.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Tingnan ang [mga gawaing bahay](/activities/household-tasks/) para sa marami pang ideya.
 
-### Music and movement
+### Musika at galaw
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kumanta ng paboritong lumang kanta.** Simulan mo mismo ang pagkanta; maraming tao ang sumasabay sa mga kantang kilala nila sa loob ng mga dekada. Tingnan ang [mga aktibidad sa musika](/activities/music/).
+- **Sumayaw nang malaya.** Umindayog, pumalakpak o gumalaw ayon sa gusto. Ayos din ang nakaupo.
+- **Maghagis ng lobo.** Mabagal itong lumilipad at madaling saluhin mula sa upuan.
+- **Maglakad na may gabay.** Maglakad nang magkasama sa maikli at pamilyar na ruta, magkahawak-braso kung nakatutulong.
 
-### Pictures and stories
+### Larawan at kuwento
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Tingnan ang album ng larawan.** Magkomento sa nakikita mo sa halip na magtanong: “Tingnan mo ang kotseng iyan. Ikuwento mo sa akin.” Tingnan ang [mga aktibidad sa pagbabalik-tanaw](/activities/reminiscence/).
+- **Gumamit ng mga kard para sa usapan.** Ang [mga kard para sa usapan](/games/conversation-cards/) ay nagpapares ng larawan sa bukas na paanyaya na walang pagsusulit.
+- **Manood nang magkasama ng lumang pelikula.** Pumili ng pamilyar, manatili sa malapit at mag-pause para sa pahinga.
 
-### Simple, pressure-free games
+### Simpleng laro na walang presyon
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Pares ng larawan na nakikita ang larawan.** Ang [Pares ng larawan](/games/picture-pairs/) ay nagpapanatiling nakikita ang mga larawan, kaya ang tuon ay sa pagmamasid, hindi sa pag-alala.
+- **Hanapin ang magkapareho.** Ang [Hanapin ang magkapareho](/games/find-the-same/) ay nagpapakita ng isang larawan at dalawa hanggang apat na pagpipilian lamang.
+- **Pag-uri-uriin nang magkasama.** Ang [Pag-uri-uriin nang magkasama](/games/sort-together/) ay parang pag-aayos ng labada sa screen: i-tap ang larawan, saka ang basket nito.
+- **Bingo ng larawan.** Ang [Bingo ng larawan](/games/picture-bingo/) ay bagay sa pagtitipon ng pamilya at sa grupo.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Kung nagsimulang magdulot ng inis ang isang laro, tumigil at gumawa ng iba. Tingnan ang [paano maglaro nang magkasama](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Gawing aktibidad ang pagkabalisa
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Ang hindi mapakali o paulit-ulit na gawi ay kadalasang may dahilan. Sinasabi ng Family Caregiver Alliance na ang taong paulit-ulit na naglalabas ng laman ng aparador ay maaaring sinusubukang tugunan ang pangangailangang maramdamang abala at may silbi. Iminumungkahi ng Alzheimer's Association na ilihis ang ganitong enerhiya tungo sa katulad na aktibidad sa pagtutugma, sa halip na pigilan ito.
 
-| What you see | Something to offer |
+| Ano ang nakikita mo | Ano ang maaaring ialok |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Pagkuskos o pagkalikot sa mesa | Basang basahan at hilingin na punasan ang mesa |
+| Hindi mapakaling paa o pagtapik | Musikang may malinaw na ritmo na papalakpakan o sasabayan |
+| Paglalabas ng laman ng drawer o aparador | Basket ng damit o basahan na tutupiin at iuuri |
+| Paulit-ulit na pagtatanong | Katiyakan, saka kanta o gawaing-bahay na pagsasamahan |
+| Pabalik-balik na lakad | Lakad nang magkasama, o gawaing may pagbubuhat ng mga bagay |
+| Pagkabalisa tuwing hapon | Kalmado at pamilyar na gawain sa maliwanag na ilaw; tingnan ang [kabalisahan sa hapon](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kailan dapat tumigil o baguhin ang takbo?
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Tumigil kapag nakita mo ang senyales ng pagkapagod, pagkainis, pagkapahiya o pagkabagot, gaya ng pagkikirot, pagkunot ng noo, pagtulak palayo ng mga bagay o pagsasabing “hindi ko kaya.” Iminumungkahi ng Alzheimer's Association na subukang muli sa ibang oras ng araw o gawing mas simple ang aktibidad. Huwag pilitin. Ang pagtanggi ay maaaring galing sa takot o sa sobrang hirap ng gawain; tingnan ang [kapag tumanggi sila](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Ayos lang ang maagang pagtatapos. Ayos din ang tahimik na pag-upo nang magkasama na may tasa ng tsaa. Habang nagbabago pa ang kakayahan, maaaring mas bagay ang mga ideya sa [aktibidad sa late stage](/activities/late-stage/), at ang [101 aktibidad](/activities/ideas/) ay may marami pang puwedeng subukan.
