@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Rehefa mandà na sosotra ny olona manana dementia amin'ny hetsika"
+seoTitle: "Rehefa mandà hetsika ny olona manana dementia"
+description: "Antony mahatonga olona miaina dementia handa na ho sosotra amin'ny hetsika, ny zavatra andramana, ny tsy tokony atao, ary ny fotoana mila dokotera."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Rehefa milaza “tsia” ny olona manana dementia, ekeo amim-pilaminana ary
+  andramo indray any aoriana na omeo zavatra hafa. Matetika misy antony ny
+  fandavana: sarotra loatra na ho zaza ny asa, reraka izy, marary, noana, na
+  sahirana noho ny feo. Aza miady hevitra na mitaky. Ampihenao ny asa, omeo
+  safidy roa, na angataho ny fanampiany. Ny fihetsika mivoaka tampoka na miova
+  haingana, indrindra aorian'ny aretina na fanafody vaovao, dia mila dokotera
+  avy hatrany.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Ny “tsia” dia valinteny tokony hajaina, fa tsy olana tokony handresena."
+  - "Matetika misy antony ny fandavana: sarotra loatra, ho zaza loatra, reraka, marary, mahatezitra, na sahirana."
+  - "Miala, miandry, ary andramo indray any amin'ny fotoana hafa, na amin'ny endrika mora kokoa."
+  - "Mahomby kokoa ny mangataka fanampiana noho ny mangataka hanao fanehoana."
+  - "Aza miady hevitra, mitaky, mametraka fanontaniana na manitsy. Jereo raha mihaino haingana loatra ianao."
+  - "Ny fihetsika mivoaka tampoka na miova haingana, indrindra miaraka amin'ny aretina na fanafody vaovao, dia mila dokotera avy hatrany."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Azo atao ve ny mamela azy hiala amin'ny hetsika rehetra?"
+    a: "Eny, amin'ny andro tsirairay. Ny mipetraka miara-mipetraka, mihaino mozika na mijery ny fiainana mandeha dia ampy matetika. Raha ny olona iray mihemotra amin'ny fahafinaretana rehetra mandritra ny herinandro maro, lazao amin'ny dokotera izany, satria ny malemy fanahy, ny fanaintainana na olana ara-pahasalamana hafa dia mety ho anisan'ny sary feno."
+  - q: "Nahoana izy no mandà zavatra izay tiany taloha?"
+    a: "Ny hobby taloha dia mety ho sosotra raha mitaky fahaizana izay sarotra ankehitriny noho ny dementia, ary mety ho menatra ny olona. Andramo ny ampahany mora kokoa amin'ilay hetsika ihany, toy ny fandamina bokotra fa tsy fanaovana lamba, na fijerena sary zaridaina fa tsy fambolena."
+  - q: "Tokony hanohitra azy ve aho?"
+    a: "Tsia. Ny fanosehana olona hanao zavatra izay sarotra noho ny dementia dia antony fantatra mahatonga fahatezerana. Ekeo ny “tsia”, ovao ny lohahevitra, ary angataho indray any aoriana na amin'ny fomba hafa."
+  - q: "Oviana no fiovana fitondran-tena izay vonjy maika?"
+    a: "Antsoy ny laharana vonjy maika eo an-toerana raha misy olona mandrahona na misy famantarana fahasahiranana ara-pahasalamana mahery. Ho an'ny fahadisoam-panahy tampoka na fitondran-tena miova haingana mandritra ny ora na andro, indrindra miaraka amin'ny mari-pana, aretina na fanafody vaovao, mifandraisa avy hatrany amin'ny dokoteran'izy io."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Nanomana ny zavatra rehetra ianao, nanolotra lalao na fandeha, ary nandre hoe “Tsia.” Na dia mandeha tsara aza ny hetsika fa mifarana amin'ny tablette nosintsintaina sy teny mafy. Mahatezitra izany, ary mahazatra be. Ny fandavana sy ny fahasosotana dia matetika hafatra, fa tsy fahadisoana. Ny fahitana izay hafatra dia matetika manampy anao hahita izay andramana manaraka.
 
-## Why does someone with dementia refuse activities?
+## Maninona no mandà hetsika ny olona manana dementia?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Matetika misy antony, na dia tsy afaka hamaritra amin'ny teny aza ny olona. Ny [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) manamarika fa ny fanoherana dia mety hilaza fa tsy azon'ny olona atao ny asa, na matahotra ny handrava. Antony mahazatra:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Sarotra loatra izy.** Ny hetsika dia mitaky fahaizana izay sarotra noho ny dementia, ary mahamenatra ny very eo anatrehan'olona.
+- **Ho zaza izy.** Mahita sary mampihomehy, feo toy ny an'ny zaza, ary hetsika natao ho an'ny ankizy ny olona lehibe.
+- **Reraka.** Maro no kely hery amin'ny faramparan'ny andro. Jereo ny [hetsika mampionona amin'ny hariva](/caregiving/late-day-restlessness/).
+- **Fahasahiranana ara-batana.** Ny [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) mampiseho ny fanaintainana, tsy fahatoran-tory, tsy fahitana na tsy fandrenesana tsara, tsy mivoaka ny vatana, noana, mangetaheta, ary ny fiantraikan'ny fanafody vaovao ho toy ny antony mahatonga fahasosotana.
+- **Be loatra ny zavatra mitranga.** TV mahery, resaka maromaro, na efitrano feno olona dia mety hanjavona ny olona.
+- **Sahirana noho ny fanosehana.** Ny NIA milaza ny fanosehana hanao zavatra izay sarotra tanteraka noho ny Alzheimer, na hahatsiaro zavatra na olona, ho antony mahatonga fahasosotana.
+- **Malemy fanahy.** Ny fahaverezan'ny fahalianana dia mety ho famantarana ny fahasosotan'ny fanahy (depression), izay tokony lazaina amin'ny dokotera.
+- **Tsy tiany tanteraka.** Ny olona lehibe dia afaka mandà.
 
-## What should I try when they say no?
+## Inona no andramo rehefa milaza “tsia” izy?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Ekeo amim-pilaminana ny “tsia”, avy eo ovao zavatra iray: ny fotoana, ny hetsika, ny fahasarotana, na ny fomba fangatahanao.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Avelao izany ankehitriny.** “Tsy misy olana. Angamba any aoriana.” Avy eo mandroso amin'ny zavatra hafa, tsy misy fitsikera.
+2. **Andramo indray any aoriana.** Ny Alzheimer's Association manoro hevitra ny hanandrana indray any aoriana, na amin'ny fotoana hafa amin'ny andro.
+3. **Ataovy kely kokoa.** Lalao iray ihany fa tsy lalao manontolo. Lamba iray fa tsy ny lamban'ny andro rehetra. Sary vitsy kokoa, safidy vitsy kokoa, ary sary mbola hita.
+4. **Omeo safidy roa.** “Tiana ve ianao hijery ny sary voron-kely, na hihaino mozika?” Ny safidy dia manome fahatsapana fifehezana.
+5. **Angataho fanampiana fa tsy fanehoana.** “Afaka manampy ahy handamina ireto ve ianao?” na “Hitanao ve ny loko tsara indrindra?” Ny fahatsapana ho ilaina dia tsy mitovy amin'ny fahatsapana ho nitsapana.
+6. **Atombohy ianao manokana.** Manomboka ny hetsika eo akaikinao, tsy mangataka. Maro no mifandray rehefa efa misy zavatra mitranga, ary raha tsy manao izany kosa, mbola nandany fotoana miaraka ianareo.
+7. **Miova amin'ny zavatra mihetsika na mampionona.** Dia fohy, mozika, sakafo kely, fanangonana lamba, na fitsaharana fofonaina miaraka ([fofonaina mampionona](/games/calm-breathing/)). Ny NIA manoro ny hampiovana ny saina amin'ny mozika, boky na fandehanana.
+8. **Avelao hanao amin'ny fomba azy.** Raha te hilalao amin'ny fomba hafa noho ny fitsipika izy, manaraka izany. Ny Alzheimer's Association manoro ny fihetsika malefaka.
 
-## What should I say when they get frustrated?
+## Inona no lazaiko rehefa mahatezitra izy?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Miadana, ampidino ny feonao, ary ampanantreno. Ny [torolalana an'ny Alzheimer's Association momba ny fahasosotana](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) manoro ny hihemotra sy hangataka alalana, hampiasa teny mirary sy mampanantena, ary hanome safidy roa mitari-dalana. Teny mifanaraka amin'izany:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “Miala voly aho, tsy mahafinaritra ity. Andeha isika hijanona.”
+- “Mahay ianao, eto aho.”
+- “Manana fotoana ve ianao hanampy ahy amin'ny zavatra hafa?”
+- “Aoka isika hisotro tsaiky kely kosa?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Avy eo ajanony ny hetsika tsy ataovy ho raharaha lehibe. Ny [torohevitra momba ny fifandraisana](/caregiving/communication-tips/) dia manana bebe kokoa momba ny teny lazaina.
 
-## What should I avoid?
+## Inona no tokony hialana?
 
-Some natural reactions tend to make things worse.
+Ny fihetsika voajanahary sasany dia matetika mampitombo ny olana.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Fifandirana na fitakiana.** “Indray mandeha ihany” na “Tianao izany” dia tsy matetika manampy.
+- **Fanontaniana na fanitsiana.** “Fantatrao izay?” na “Tsia, diso io” dia mampitombo ny fanerena.
+- **Maka azy ho manokana.** Ny NIA mampahatsiahy mpitsabo fa ny aretina, fa tsy ny olona, no mahatonga ireo fiovana ireo.
+- **Fanosehana na fandrosoana haingana.** Ny Alzheimer's Association manoro tsy hampiakatra ny feo, tsy hampiseho fahatahorana, tsy hanakantsakana, tsy hanosika, tsy hanesoeso, tsy handà na hifandirana amin'ny olona, ary hialana amin'ny fihetsika mafy eo ivelan'ny fijerena azy.
+- **Fampiasana fahamenarana.** “Efa nanomana izany rehetra ho anao aho” dia mampahatsahy ny roa tonta.
+- **Fanairana.** “Mafy loha” na “sarotra” dia manafina ny antony marina ary mampisarotra ny famahana.
 
-## How can I find out what is behind repeated refusals?
+## Ahoana no hahitako izay antony manenika ny fandavana matetika?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Tazomy boky fanamarihana kely mandritra ny herinandro iray na roa. Ny NIA milaza fa ny fanarahana ny fiovana amin'ny fitondran-tena dia manampy ny mpiandraikitra ara-pahasalamana hahita ny endrika sy hahitana ny antony.
 
-Jot down:
+Soraty:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ny fotoana amin'ny andro;
+- izay natolotrao sy ny fomba nanontanianao;
+- izay nitranga teo amboniny (feo, vahiny, TV);
+- ny fomba nandriany, nihinanany, nisotroany, ary ny fotoana farany nandehany any amin'ny toilette;
+- ny fanafody vaovao na aretina vao haingana.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Matetika mipoitra haingana ny endrika: fandavana izay mitranga aorian'ny 4 p.m. ihany, amin'ny lalao iray ihany, na rehefa mandeha ny TV. Ny [torolalana momba ny fitondran-tena amin'ny dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) an'ny Family Caregiver Alliance dia milaza tsotra: tsy azontsika ovaina ny olona, fa azontsika ovaina ny fitondran-tenantsika sy ny tontolo misy azy.
 
-## When should I talk to a doctor about refusal or frustration?
+## Rahoviana no tokony hiresaka amin'ny dokotera momba ny fandavana na ny fahasosotana?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Mifandraisa amin'ny dokotera rehefa miova tampoka na haingana ny fitondran-tena, na miaraka amin'ny famantarana aretina. Ny NIA milaza fa ny fiovana tampoka na miovaova haingana amin'ny fitondran-tena, indrindra raha nisy aretina na fiovana fanafody tsy ela akory, dia tokony ampahafantarina ny dokotera avy hatrany.
 
-Contact their doctor promptly if you notice:
+Mifandraisa haingana amin'ny dokoteran'izy io raha mahita:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- fahadisoam-panahy tampoka na fiovana lehibe mandritra ny ora na andro;
+- famantarana fanaintainana, toy ny fihetsehana tsy mahafinaritra, fiarovana ampahany amin'ny vatana, na sarotra vaovao amin'ny fihetsika;
+- mari-pana na famantarana aretina hafa;
+- fanafody vaovao na novaina, ary avy eo fiovana amin'ny fitondran-tena;
+- fahaverezan'ny fahalianana amin'ny ankamaroan'ny zavatra, fitomaniana, na fihemotra mihoatra ny herinandro roa;
+- fandavana sakafo na rano.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Ny Alzheimer's Association manoro fitsapana ara-pahasalamana feno ho an'ny olona rehetra manana famantarana ara-pitondran-tena, indrindra rehefa mipoitra tampoka. Ny Family Caregiver Alliance koa manoro hanontany ny dokotera aloha, satria ny olana amin'ny fitondran-tena dia mety misy antony ara-pahasalamana. Aza manomboka, mijanona, na mamolavola fanafody raha tsy miresaka amin'ny dokotera na amin'ny mpanafody.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Raha misy olona mandrahona na misy famantarana fahasahiranana ara-pahasalamana mahery, antsoy ny laharana vonjy maika eo an-toerana. Ny NIA manoro hilaza amin'ny mpandray antso fa manana dementia ny olona. Ho an'ny fepetra fiarovana ankehitriny rehefa mivoaka ara-batana ny fahatezerana, jereo ny [torolalana momba ny fahatezerana sy ny fanaovana herisetra amin'ny dementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Azo atao ve raha tsy manao na inona na inona isika?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Azo. Ny andro sasany dia ny tsy fanaovana hetsika no hetsika tsara indrindra: mipetraka miaraka, mifampihazona tanana, mihaino rakitra tiana, na mijery vorona any ivelany amin'ny varavarana. Tsy fahadisoana izany. Ny [torolalana momba ny fifandraisana amin'ny filalaovana miaraka](/caregiving/how-to-play-together/) dia manazava ny antony mahatonga ny fijanonana aloha, na ny tsy fanombohana akory, dia mety ho safidy marina.

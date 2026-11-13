@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Fatturi ta' riskju tad-demenza: il-14 mill-Lancet Commission"
+seoTitle: "Fatturi ta' riskju tad-demenza: il-14 mill-Lancet"
+description: "Il-14 fatturi ta' riskju tad-demenza li jistgħu jinbidlu, skont l-istadju tal-ħajja, u dak li r-riċerka torbot magħhom. Tista' titkellem dwarhom ma' tabib."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Il-Lancet Commission tal-2024 semmiet 14 fattur ta' riskju tad-demenza li
+  jistgħu potenzjalment jinbidlu: inqas edukazzjoni, telf tas-smigħ, kolesterol
+  LDL għoli, depressjoni, korriment fir-ras, nuqqas ta' attività, dijabete,
+  tipjip, pressjoni għolja tad-demm, obeżità, xorb eċċessiv, iżolament soċjali,
+  tniġġis tal-arja u telf tal-vista mhux ittrattat. Flimkien huma marbuta ma'
+  madwar 45% tal-każijiet madwar id-dinja, imma ebda garanzija għal persuna
+  waħda.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Il-14 fattur jkopru ħajja sħiħa: wieħed fil-ħajja bikrija, għaxra fin-nofs tal-ħajja u tlieta fil-ħajja tard."
+  - "Telf tas-smigħ u kolesterol LDL għoli fin-nofs tal-ħajja huma marbuta kull wieħed ma' madwar 7% tal-każijiet tad-demenza madwar id-dinja, l-akbar sehem minn kwalunkwe fattur wieħed."
+  - "Dawn il-perċentwali huma stimi tal-popolazzjoni li jassumu kawża u effett. Xi rabtiet jistgħu jkunu kawżali biss f'parti."
+  - "L-età u l-ġeni, li ħadd ma jista' jbiddel, huma wkoll fatturi ta' riskju kbar. It-tnaqqis tal-14 riskju ma jiggarantixxix li ebda persuna ma tevita d-demenza."
+  - "Ħafna mill-passi involuti, bħall-iċċekkjar tal-pressjoni tad-demm, tas-smigħ u tal-vista, huma tajbin għas-saħħa b'modi oħra u jistħoqqilhom jiġu diskussi ma' tabib."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "X'huma l-14 fatturi ta' riskju tad-demenza li jistgħu jinbidlu?"
+    a: "Il-Lancet Commission tal-2024 semmiet inqas edukazzjoni, telf tas-smigħ, kolesterol LDL għoli, depressjoni, korriment traumatiku fil-moħħ, nuqqas ta' attività fiżika, dijabete, tipjip, pressjoni għolja tad-demm, obeżità, xorb eċċessiv, iżolament soċjali, tniġġis tal-arja u telf tal-vista mhux ittrattat. Flimkien huma marbuta ma' kważi nofs il-każijiet tad-demenza madwar id-dinja."
+  - q: "Liema fattur ta' riskju tad-demenza hu l-aktar importanti?"
+    a: "Madwar id-dinja, il-Commission stmat li telf tas-smigħ u kolesterol LDL għoli fin-nofs tal-ħajja huma marbuta kull wieħed ma' madwar 7% tal-każijiet, segwiti minn inqas edukazzjoni u iżolament soċjali b'madwar 5% kull wieħed. Liema fatturi huma l-aktar importanti għal persuna waħda jiddependi fuq is-saħħa tagħha stess, u għalhekk it-tabib huwa l-aħjar gwida."
+  - q: "Iż-żewġ fatturi ta' riskju l-ġodda ġew miżjuda fl-2024?"
+    a: "Iva. Ir-rapport tal-2024 żied kolesterol LDL (“ħażin”) għoli fin-nofs tal-ħajja u telf tal-vista mhux ittrattat fil-ħajja tard mal-12 fattur imsemmija fl-2020. Il-Commission torbothom ma' madwar 7% u 2% tal-każijiet rispettivament."
+  - q: "L-età hi fattur ta' riskju li jista' jinbidel?"
+    a: "Le. L-età hi l-akbar fattur ta' riskju magħruf għall-marda ta' Alzheimer, u ma tistax tinbidel. Il-ġeni wkoll għandhom sehem. Il-14 fattur f'din il-paġna huma dawk li r-riċerka tissuġġerixxi li potenzjalment jistgħu jinbidlu."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,119 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Fattur ta' riskju hu xi ħaġa marbuta ma' possibbiltà ogħla li tiżviluppa
+kundizzjoni. Mhux dejjem hu kawża, u li jkollok wieħed ma jfissirx li se
+tiżviluppa d-demenza. Din il-paġna telenka l-14-il fattur ta' riskju tad-demenza
+li l-Lancet Commission tal-2024 tgħid li jistgħu potenzjalment jinbidlu, x'tgħid
+ir-riċerka dwarhom, u x'tista' titkellem dwaru ma' tabib.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Għal-kwadru usa', inkluż dak li sabu t-tiġrib kbir, ibda minn
+[Tista' tiġi evitata d-demenza? Dak li tgħid ir-riċerka](/brain-health/can-dementia-be-prevented/).
+Din hi informazzjoni ġenerali, mhux parir mediku; ara l-
+[avviż mediku](/medical-disclaimer/) tagħna.
 
-## What are the 14 risk factors for dementia?
+## X'inhuma l-14 fattur ta' riskju għad-demenza?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Il-[Lancet Commission tal-2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+miktuba minn 27 riċerkatur tad-demenza, stmat li 14-il fattur ta' riskju li
+jistgħu potenzjalment jinbidlu flimkien jagħmlu madwar 45% tal-każijiet tad-demenza madwar id-dinja. Il-perċentwal għal kull fattur hawn taħt hu l-istima
+tal-Commission tas-sehem tal-każijiet madwar id-dinja marbut magħhom, imqarreb
+għal numri sħaħ. Il-figuri jaqgħu jingħaqdu, għax ħafna nies għandhom diversi
+riskji f'daqqa, u għalhekk jammontaw għal 45% u mhux aktar.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Fattur ta' riskju | Stadju tal-ħajja | Sehem tal-każijiet | Dak li tgħid ir-riċerka | X'tista' tagħmel |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Inqas edukazzjoni | Bikrija fil-ħajja | 5% | Snin ta' skola inqas huma marbuta ma' riskju ogħla. Li tkun attiv mentalment fin-nofs tal-ħajja jidher li jipproteġi wkoll, anke għal nies b'ftit skola. | Kompli titgħallem u tagħmel affarijiet li jeħtieġu moħħ attiv f'kull età: qari, hobbies, klassijiet, logħbiet ma' oħrajn. |
+| Telf tas-smigħ | Nofs il-ħajja | 7% | Telf tas-smigħ li ma ġiex ittrattat huwa marbut ma' riskju ogħla. Studji li jsegwu lin-nies maż-żmien jorbtu l-użu tal-għajnuniet tas-smigħ ma' riskju aktar baxx. | Iċċekkja s-smigħ tiegħek. Staqsi jekk l-għajnuniet tas-smigħ jistgħux jgħinu, u lbes dawk jekk ikunu preskritti. Ipproteġi widnejk mill-ħoss qawwi. |
+| Kolesterol LDL għoli | Nofs il-ħajja (minn madwar 40) | 7% | Kolesterol LDL (“ħażin”) għoli fin-nofs tal-ħajja hu marbut ma' riskju ogħla. Studji ta' osservazzjoni jorbtu l-użu tal-istatini ma' riskju aktar baxx, imma t-tiġrib fil-ħajja tard ma wriex dan. | Staqsi lit-tabib tiegħek jekk il-kolesterol tiegħek għandux jiġi kkontrollat u x'għandek tagħmel dwaru, jekk xejn. |
+| Depressjoni | Nofs il-ħajja | 3% | Id-depressjoni hi marbuta ma' riskju ogħla. Fil-ħajja tard, id-depressjoni tista' wkoll tkun sinjal bikri tad-demenza. | Għid lit-tabib dwar burdata baxxa jew telf ta' interess li jdum aktar minn ġimagħtejn. Id-depressjoni tista' tiġi ttrattata. |
+| Korriment traumatiku fil-moħħ | Nofs il-ħajja | 3% | Korriment fir-ras f'kull età u minn kull sors, inkluż sports ta' kuntatt, hu marbut ma' riskju ogħla. | Lbes elmu għas-siklu u sports ta' kuntatt. Staqsi dwar il-prevenzjoni tal-waqgħat. Istrieħ u iċċekkja ruħek wara korriment fir-ras. |
+| Nuqqas ta' attività fiżika | Nofs il-ħajja | 2% | In-nies li jagħmlu eżerċizzju u jilagħbu sport inqas probabbli jiżviluppaw demenza. L-evidenza mit-tiġrib għadha limitata. | Staqsi liema attività hi sigura għalik, u sib xi ħaġa li tgawdi. Ara l-[gwida tagħna dwar l-eżerċizzju](/brain-health/exercise/). |
+| Dijabete | Nofs il-ħajja | 2% | Id-dijabete, speċjalment meta tibda fin-nofs tal-ħajja jew tdum aktar, hi marbuta ma' riskju ogħla. | Iċċekkja z-zokkor fid-demm. Jekk għandek dijabete, aħdem mat-tim tal-kura tiegħek biex timmaniġġjaha b'mod sigur. |
+| Tipjip | Nofs il-ħajja | 2% | It-tipjip hu marbut ma' riskju ogħla. Studji jsibu li dawk li waqfu mit-tipjip ma jgħarrbux l-istess riskju ogħla bħal dawk li jkomplu jpejpu. | Staqsi dwar appoġġ biex tieqaf. Jiswa li tieqaf f'kull età. |
+| Pressjoni għolja tad-demm | Nofs il-ħajja | 2% | Pressjoni għolja tad-demm fin-nofs tal-ħajja hi marbuta ma' riskju ogħla. Tiġrib bil-mediċini għall-pressjoni tad-demm jissuġġerixxi riskju moderat aktar baxx ta' demenza jew ta' indebolizzjoni kognittiva. | Kun taf in-numri tiegħek. Il-Commission tissuġġerixxi numru ta' fuq ta' 130 jew inqas minn madwar l-età ta' 40; staqsi liema mira tkun tajba għalik. |
+| Obeżità | Nofs il-ħajja | 1% | L-obeżità fin-nofs tal-ħajja hi marbuta ma' riskju ogħla, u tiżdied ukoll ir-riskju tad-dijabete. | Staqsi lit-tabib tiegħek dwar piż tajjeb għalik. Nies anzjani m'għandhomx jiddieta biex jitnaqqsu l-piż mingħajr parir mediku. |
+| Xorb eċċessiv | Nofs il-ħajja | 1% | Ix-xorb qawwi hu marbut ma' riskju ogħla. It-tnaqqis mix-xorb qawwi hu marbut ma' riskju aktar baxx. | Staqsi x'inhu limitu sigur għalik, speċjalment bil-mediċini tiegħek. |
+| Iżolament soċjali | Ħajja tard | 5% | Kuntatt soċjali infrekwenti hu marbut ma' riskju ogħla. | Ibqa' f'kuntatt man-nies b'modi li tgawdi. Ara l-[gwida tagħna dwar il-konnessjoni soċjali](/brain-health/social-connection/). |
+| Tniġġis tal-arja | Ħajja tard | 3% | Li tgħix b'aktar tniġġis tal-arja hu marbut ma' riskju ogħla. Studji jorbtu arja nadifa ma' riskju aktar baxx. | Hi kwistjoni prinċipalment ta' politika pubblika. Iċċekkja l-avvisi lokali dwar il-kwalità tal-arja u illimita l-ħin barra f'ġranet ħafna mitniġġsa. |
+| Telf tal-vista mhux ittrattat | Ħajja tard | 2% | Problemi tal-vista mhux ikkoreġuti huma marbutin ma' riskju ogħla. Studju kbir fl-Istati Uniti rabat l-operazzjoni tal-katarattu ma' riskju aktar baxx. | Kun għandek eżamijiet regolari tal-għajnejn. Staqsi jekk problemi bħall-katarattu jistgħux jiġu ttrattati. |
 
-## How should I read these percentages?
+## Kif għandi naqra dawn il-perċentwali?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Bil-attenzjoni. Ir-rapport stess tal-Commission jagħmel diversi punti li
+jistħoqqilhom jinżammu f'moħħok:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Jiddeskrivu popolazzjonijiet, mhux nies.** [Is-sommarju tar-rapport mill-University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  jgħid li t-tnaqqis tar-riskju jaħdem fuq il-popolazzjoni u ma jiggarantixxix li
+  kull persuna waħda ma tiżviluppax demenza.
+- **Jassumu kawża u effett.** L-awturi użaw biss fatturi b'evidenza konvinċenti,
+  imma jgħidu li xi rabtiet jistgħu jkunu kawżali biss f'parti.
+- **Huma figuri dinjija.** Ħafna mid-dejta ġejja minn pajjiżi b'dħul għoli, u s-sehem
+  reali għal kull pajjiż jew komunità jvarja.
+- **Perċentwali żgħar jistgħu xorta jkunu importanti.** Fattur marbut ma' 2% tal-każijiet
+  madwar id-dinja xorta jaffettwa numru kbir ħafna ta' nies.
 
-## Which risk factors were added in 2024?
+## Liema fatturi ta' riskju ġew miżjuda fl-2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Ir-rapport tal-2024 żied żewġ fatturi mal-12 li semmew fl-2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Kolesterol LDL għoli fin-nofs tal-ħajja**, marbut ma' madwar 7% tal-każijiet.
+- **Telf tal-vista mhux ittrattat fil-ħajja tard**, marbut ma' madwar 2% tal-każijiet.
 
-## What risk factors cannot be changed?
+## Liema fatturi ta' riskju ma jistgħux jinbidlu?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+L-Istitut Nazzjonali dwar l-Età
+[jgħid li l-età hi l-akbar fattur ta' riskju magħruf għall-Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+u ħadd ma jista' jbiddilha. Il-ġeni wkoll għandhom sehem; gene magħruf wieħed li
+jinfluwenza r-riskju tal-Alzheimer jismu APOE. L-NIA iżid li x-xjentisti għadhom
+ma jifhmux bis-sħiħ x'jikkawża l-Alzheimer fil-biċċa l-kbira tan-nies. Il-Lancet
+Commission tgħid li r-riskji li jistgħu potenzjalment jinbidlu jistgħu jitnaqqsu
+irrispettivament mir-riskju ġenetiku ta' persuna.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Għax l-età u l-ġeni għandhom sehem kbir, ħafna nies li m'għandhom ebda wieħed
+mill-14 fattur xorta jiżviluppaw demenza. Dan mhux ħtija ta' ħadd.
 
-## What does the trial evidence say about changing these risks?
+## X'jgħid it-tiġrib dwar il-bidla ta' dawn ir-riskji?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Li torbot fattur ta' riskju ma' demenza mhix l-istess li turi li l-bidla tiegħu
+tnaqqas ir-riskju tad-demenza. Ftit eżempji ta' fejn tinsab l-evidenza mit-tiġrib:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Pressjoni tad-demm.** Fit-tiġrib SPRINT MIND, mira aktar baxxa għall-pressjoni
+  tad-demm naqqset b'mod sinifikanti l-indebolizzjoni kognittiva ħafifa. Ma
+  naqqsitx b'mod sinifikanti d-demenza probabbli, għalkemm it-tiġrib jista' kien
+  żgħir wisq biex juri dan ([SPRINT MIND fil-JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Għajnuniet tas-smigħ.** Il-Lancet Commission tiddeskrivi tiġrib ta' tliet snin
+  bl-għajnuniet tas-smigħ li ma sab l-ebda effett ġenerali fuq il-ħsieb, imma
+  benefiċċju f'sottogrupp ta' nies b'riskju ogħla. Studji li jsegwu lin-nies
+  maż-żmien jorbtu l-użu tal-għajnuniet tas-smigħ ma' riskju aktar baxx. Il-
+  [gwida tagħna dwar is-smigħ](/brain-health/hearing/) fiha aktar.
+- **Attività fiżika.** L-Istitut Nazzjonali dwar l-Età jgħid li m'hemmx biżżejjed
+  evidenza minn tiġrib kliniku biex jiġi konkluż li l-eżerċizzju jista' jipprevjeni
+  jew jirallenta indebolizzjoni kognittiva ħafifa jew l-Alzheimer, għalkemm xi
+  studji jissuġġerixxu li jista' jgħin mat-tnaqqis marbut mal-età
+  ([NIA dwar il-prevenzjoni tal-Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+It-tiġrib twil li jistenna sakemm tiżviluppa d-demenza hu bil-mod u għali, għalhekk
+għal ħafna fatturi l-aħjar evidenza jkompli ġejja minn studji li jsegwu lin-nies
+għal snin. Din l-evidenza hi utli, imma hi aktar dgħajfa minn tiġrib.
 
-## What about sleep and diet?
+## Xi ngħidu dwar l-irqad u d-dieta?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Il-Commission rat l-irqad u d-dieta imma ma żidhomx mal-lista, għax l-evidenza ma
+kinitx qawwija jew konsistenti biżżejjed. Il-gwidi tagħna dwar
+[l-irqad](/brain-health/sleep/) u [d-dieta](/brain-health/diet/) jispjegaw x'inhu magħruf.
 
-## Talk with a doctor
+## Kellem tabib
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Eżami annwali hu ħin tajjeb biex titqajjem dawn is-suġġetti. Tista' tieħu din il-lista
+u tistaqsi:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- X'inhuma n-numri tal-pressjoni tad-demm, taz-zokkor fid-demm u tal-kolesterol
+  tiegħi, u xi wħud minnhom għandhom bżonn attenzjoni?
+- Għandi nagħmel iċċekkjar tas-smigħ u tal-għajnejn?
+- L-attività li nagħmel hi sigura u biżżejjed għalija?
+- Xi mediċina tiegħi tista' taffettwa l-memorja jew il-ħsieb?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Qabel ma tibdel mediċini, dieta, sawm, eżerċizzju jew suppliementi, kellem tabib l-ewwel.
+Jekk int jew xi ħadd li tieħu ħsieb tiegħu jkollu konfużjoni f'daqqa, dgħufija f'naħa
+waħda, jew diffikultà biex jitkellem, ċempel in-numru tal-emerġenza lokali tiegħek.

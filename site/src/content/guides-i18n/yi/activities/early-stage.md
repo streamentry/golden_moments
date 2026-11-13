@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "אַקטיװיטעטן פֿאַר דעמענץ אין פֿרי-סטאַדיום"
+seoTitle: "אַקטיװיטעטן פֿאַר פֿרי-סטאַדיום דעמענץ: אידייען װאָס פּאַסן"
+description: "אידייען פֿאַר פֿרי-סטאַדיום דעמענץ: האָבִיס, שפּילן, אויספֿאָרן, שרײַבן און צוזאַמען פּלאַנען, מיט קלײנע ענדערונגען װאָס לאָזן דעם מענטש גענײַסן און בלײַבן אין שליטה."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  אין פֿרי-סטאַדיום פֿון דעמענץ קענען רובֿ מענטשן װײַטער טאָן װאָס זיי האָבן ליב:
+  האָבִיס, קאַרטן און ברעטשפּילן, קאָכן, גאַרטנאַרבעט, שפּאַצירן, קלאַבן, אמונה און
+  פֿרײַװילקער אַרבעט. די הויפּט-ענדערונגען זענען קלענערע גרופּעס, קירצערע
+  אויספֿאָרן, פּשוטע געשריבענע פּלענער און אַ פּאַרטנער אין דער נאָענט. פֿרעגט דעם
+  מענטש װאָס הילף ער װיל, און לאָזט אים פֿירן.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "רובֿ מענטשן אין פֿרי-סטאַדיום לעבן גאַנץ זעלבסט-שטענדיק. אַקטיװיטעטן דאַרפֿן געװײנלעך אָנפּאַסן, נישט אָפּלײגן."
+  - "פֿרעגט דעם מענטש װאָס הילף ער װיל, און װערט עפּעס אײנס פֿון אַ פּשוטן סיגנאַל װען הילף איז געװילקומען."
+  - "קלענערע גרופּעס, רויקערע צײַטן און קירצערע אויספֿאָרן מאַכן אָפט אַ גרױסן חילוק."
+  - "דאָס איז אַ גוטע צײַט פֿאַר דעם מענטש צו פֿירן פּראָיעקטן װעגן זײַן אייגענעם לעבן, װי אַ טאָגבוך אָדער אַ לעבנסגעשיכטע-בוך."
+  - "קלײַבט שפּילן פֿאַר פֿאַרגעניגן. לאָזט אַװעק אַלץ װאָס װערט אַ פּרוּװ."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "װאָס פֿאַר אַקטיװיטעטן זענען גוט פֿאַר פֿרי-סטאַדיום דעמענץ?"
+    a: "געװײנלעך די זעלבע װאָס דער מענטש האָט שוין ליב: קאַרטן, ברעטשפּילן, קאָכן, גאַרטנאַרבעט, שפּאַצירן, מוזיק, אמונה-אַקטיװיטעטן, קלאַבן און פֿרײַװילקער אַרבעט. מעגלעך דאַרף מען זײ מאַכן קירצער, רויקער אָדער פּשוטער. טאָגבוך, בריװ שרײַבן און אַ לעבנסגעשיכטע-בוך פּאַסן אויך זייער גוט צו דעם סטאַדיום."
+  - q: "װי קען איך העלפֿן, און נישט איבערנעמען אַלץ?"
+    a: "פֿרעגט װאָס פֿאַר הילף דער מענטש װיל, און קוקט אָפט אַרײַן. מאַכט אײַך אײַניק אויף אַ װערטל אָדער אַ קאָפּנעװ װאָס באַטײַט, אַז עס איז גוט צו אַרײַנצוגיין, למשל װען אַ װאָרט אָדער אַ נאָמען װיל נישט קומען. װען עס איז נישטאָ קײן סכנה, לאָזט אים טאָן עס אויף זײַן װעג, אַפֿילו װען עס נעמט לענגער."
+  - q: "צי זאָל אַ מענטש מיט פֿרי דעמענץ פּרוּװן נײַע אַקטיװיטעטן?"
+    a: "יאָ, אַױב ער װיל. באַקאַנטע האָבִיס זענען געװײנלעך די לײכטסטע, אָבער פֿיל מענטשן האָבן פֿרײד פֿון עפּעס נײַס, למשל אַ דעמענץ-פֿרײנדלעכע שפּאַציר-גרופּע, אַ מאָל-קלאַס אָדער אַ זינגען-גרופּע. פּרוּװט עס אײן מאָל אָן דרוק און זעט, װי עס פֿילט זיך."
+  - q: "צי איז ברײן-טרענינג-אַפּס װערט עס אין פֿרי-סטאַדיום?"
+    a: "עטלעכע מענטשן האָבן פֿרײד פֿון רעטסלען און װערטשפּילן, און דאָס פֿאַרגעניגן אַלײן איז שוין אַ גענוג סיבה. קײן אַפּ אָדער שפּיל האָט נישט געװיזן, אַז עס היילט, פֿאַרלאַנגזאַמט אָדער שטאַרט דעמענץ. װען אַ שפּיל מאַכט שטרעסס אָדער לאָזט דעם מענטש פֿילן, אַז ער טוט עס שלעכט, לײגט עס אָפּ."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+אין דער פֿרי-סטאַדיום פֿון דעמענץ לעבן פֿיל מענטשן נאָך כּמעט אָט װי פֿריִער. זיי קענען אַרבעטן, פֿרײַװיליק אַרבעטן, זען פֿרײַנד און פֿירן פֿיל פֿון זייער אייגענעם טאָג. אַקטיװיטעטן דאַרפֿן געװײנלעך נישט אַרױסגענומען װערן; זיי דאַרפֿן נאָר אַ פּאָר אַנפּאַסונגען, כּדי זיי זאָלן בלײַבן אָנגענעם. אײַער ראָלע איז נענטער צו אַ פּאַרטנער װי צו אַ זאָרגער: עמעץ װאָס שטיצט, פּלאַנט מיט דעם מענטש און טרעט אַרײַן בלױז װען מען בעט אײַך.
 
-## What activities are good in early-stage dementia?
+## װאָס פֿאַר אַקטיװיטעטן זענען גוט אין פֿרי-סטאַדיום דעמענץ?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+די בעסטע אַקטיװיטעטן אין דעם סטאַדיום זענען געװײנלעך די װאָס דער מענטש האָט שוין ליב, נאָר אַ ביסל לײכטער געמאַכט. די [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) שרײַבט אַרױס אידייען װי קאַרטן און ברעטשפּילן, װערטזוך, שפּאַצירן, טאַנצן, גאַרטנאַרבעט, בלומען-אָרדנען, דערצײלן, מאָלן, מוזיק, טאָגבוך-שרײַבן, בריװ שרײַבן, סקראַפּבוקינג, קאָכן און יום-טובֿ-טראַדיציעס.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+װאָס אַנדערט זיך אָפט איז נישט די אַקטיװיטעט, נאָר די סבֿיבֿה. די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) באַמערקט, אַז מענטשן אין דער פֿרי-סטאַדיום קענען אָנהײבן זיך צוריקצידן פֿון זאַכן װאָס זיי האָבן פֿריִער פֿאַרגעניגט, און זי גיט אַ בײשפּיל: אַ מענטש װאָס פֿילט זיך איבערװעלטיקט אויף אַ גרױסער פּאַרטיי טוט זיך בעסער אין אַ קלײנער גרופּע. רעדט אָפן װעגן װאָס װערט שװערער, און פּאַסט זיך צונױף אָן.
 
-## Ask first, and agree on how to help
+## פֿרעגט ערשט, און באַשליסט צוזאַמען װי צו העלפֿן
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+די [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) רעקאָמענדירט עטלעכע געװוינהײטן, װאָס גילטן אויך פֿאַר אַקטיװיטעטן:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **פֿרעגט גלײַך.** „װאָס װאָלט געמאַכט דעם בוך-קלוב לײכטער פֿאַר דיך?“ גיט אַ בעסערע ענטפֿער װי אַ רעירן.
+- **נעמט אָן אַז ער קען.** װען עס איז נישטאָ קײן סכנה, לאָזט דעם מענטש פּרוּװן, און גיט אים דערמוטיקונג אַנשטאָט אים אַלײן אָנצונעמען.
+- **באַשליסט אַ סיגנאַל.** קלײַבט אַ װאָרט אָדער אַ קאָפּנעװ װאָס באַטײַט „עס איז גוט, איך קום אַרײַן“, למשל װען אַ נאָמען װיל נישט קומען בעת אַ קאַרטשפּיל.
+- **קוקט אָפט אַרײַן.** פֿרעגט צי די הילף איז פּאַסיק, צו פֿיל אָדער צו װײניק.
 
-## Activity ideas for the early stage
+## אידייען פֿאַר אַקטיװיטעטן אין פֿרי-סטאַדיום
 
-### Keep up roles and hobbies
+### האַלט אויף די ראָלעס און האָבִיס
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **האַלט אַ רעגולערע פֿאַרפּליכטונג.** אַ װעכנדיקע פֿרײַװיליקע שיכט, אַ כאָר אָדער אַ קלוב גיט דער װאָך אַ פֿאָרעם. װען עס װערט שטרענג, קען אַ קלענערע אָדער רויקערע ראָלע בעסער פּאַסן.
+- **פּלאַנט מאָלצײטן צוזאַמען.** װען קויפֿן מיט אַ ליסטע איז שװער געװאָרן, שרײַבט די Alzheimer's Association פֿאָר, מע זאָל בעטן דעם מענטש העלפֿן פּלאַנירן דעם װאָכנדיקן מענו און שרײַבן די ליסטע אַנשטאָט.
+- **קאָכט און באַקט.** פֿאַלגט אַ לieblings-רעצעפּט צוזאַמען. לײגט די ראָטװעמיקײטן אין סדר אַרײַן פֿאַר איר אָנהײב, כּדי די שרױטן זאָלן זיך זען.
+- **גאַרטנט.** פּלאַנט אַ בעט, קלײַבט זאָמען אָדער פֿלאַנצן און טוט די אַרבעט צוזאַמען. אַ געשריבענע ליסטע פֿון דער װאָכנדיקער גאַרטנאַרבעט העלפֿט.
+- **האַלט אַ האַנטװערק.** האָלץ-אַרבעט, נײען, סטריקן אָדער מאָדעל-בױען קענען װײַטער גײן מיט פּשוטערע מוסטער און גוטער באַלײַכטונג.
 
-### Games for enjoyment
+### שפּילן פֿאַר פֿאַרגעניגן
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **שפּילט קאַרטן און ברעטשפּילן.** באַקאַנטע שפּילן זענען די לײכטסטע. שפּילט אין מאַנשאַפֿטן, אַזױ אַז קײנער שטײט נישט אונטער דרוק, און האַלט אַ ציפֿער לײכט אָדער גאָרנישט.
+- **פּרוּװט אַ גרױסע-דרוק װערטזוך.** אונדזער [װערטזוך](/games/word-search/) קען געשפּילט װערן אויפֿן עקראַן אָדער אױסגעדרוקט פֿאַר אַ רויק מאָמענט.
+- **מאַכט פּאַזלען.** װײַלט אַ צאָל שטיקלעך װאָס מאַכט רו, נישט אַ דרוק. [פּיקטשער־פּאַזל](/games/picture-puzzle/) איז אַ קורצע אויפֿן-עקראַן װערסיע, און אונדזער פֿירער װעגן [פּאַזלען פֿאַר דעמענץ](/activities/puzzles/) העלפֿט צו קלײַבן אײנעם.
+- **שפּילט טרײװיע פֿאַר פֿאַרגעניגן.** עטלעכע מענטשן האָבן ליב אַ מאַנשאַפֿט-טרײװיע-אָװנט. װען עס הײבט אָן צו װערן װי אַ פּרוּװ, קלײַבט עפּעס אַנדערש, אָדער פּרוּװט אונדזערע [גרינגע טרײװיע-פֿראַגעס](/activities/trivia/), װאָס האָבן ענטפֿער-ברירות און קײן ציפֿער נישט.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+שפּילן זענען דאָ פֿאַר פֿאַרגעניגן. קײן שפּיל האָט נישט געװיזן, אַז עס היילט אָדער פֿאַרלאַנגזאַמט דעמענץ; לײענט מער אין [ברײן-שפּילן: װאָס די פֿאָרשונג זאָגט](/brain-health/brain-games/).
 
-### Write, reflect and record
+### שרײַבן, באַטראַכטן און אױפֿשרײַבן
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **האַלט אַ טאָגבוך.** די Alzheimer's Association רעקאָמענדירט טאָגבוך-שרײַבן װי איין װעג צו אַרבעטן דורך געפֿילן נאָך אַ דיאַגנאָז. עטלעכע שורות אַ טאָג זענען גענוג.
+- **פֿירט אַ לעבנסגעשיכטע-בוך.** דאָס פֿרי-סטאַדיום איז אַ גוטע צײַט פֿאַר דעם מענטש צו קלײַבן זײַנע אייגענע בילדער און שרײַבן אָדער דיקטירן די געשיכטעס הינטער זײ. זעט [רעמיניסצענץ-אַקטיװיטעטן](/activities/reminiscence/).
+- **שרײַבט בריװ.** אַ בריװ צו אַ אייניקל, אַ אַלטן פֿרײַנד אָדער אַ געװעזענעם קאָלעגע קען זײַן באַטײַטנדיק פֿאַר ביידע זײַטן.
+- **רעדט װעגן בילדער.** [פּאָטאָ-פּאָרן](/games/photo-pairs/) פֿאַרװאַנדלט משפּחה-בילדער אין אַ װײַכן צוזאַמענפֿאַל-שפּיל, און [שמועס-קאַרטן](/games/conversation-cards/) געבן גרינגע הײבן פֿאַר אַ שמועס.
 
-### Go out and move
+### גײט אַרױס און באַװעגט זיך
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) רעקאָמענדירט װײַטער צו גײן אױף באַקאַנטע אױספֿאָרן, אַזױ לאַנג װי איר ביידע זענט באַקװעם. פּלאַנט זיי אין דעם בעסטן טאָגס-צײַט פֿון דעם מענטש און לאָזט זיי נישט זײַן צו לאַנג.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **קורצע קולטור-רײַזעס.** אַ מוזיי, אַ נאָכמיטאָג-פֿאָרשטעלונג אָדער אַ קונסט-אויסשטעלונג, בעסטנס אין אַ רויקערער צײַט.
+- **שװימען.** די NIA רעקאָמענדירט אַ פּול אין אַ שטילער צײַט פֿון טאָג.
+- **שפּאַציר-גרופּעס און טאַנץ-קלאַסן.** די [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) דערמאָנט טאַנץ, טײַ־טשי, יאָגאַ, שװימען און שפּאַציר-גרופּעס, און דעמענץ-פֿרײַנדלעכע זיצונגען װוּ עס איז בנמצא.
+- **זינג-גרופּעס און מעמאָרי-קאַפֿעס.** רויקע גרופּעס װוּ מענטשן מיט דעמענץ און זייערע פּאַרטנערס קענען טרעפֿן אַנדערע אין דער זעלביקער לאַגע.
 
-## Small changes that keep activities enjoyable
+## קלײנע ענדערונגען װאָס האַלטן אַקטיװיטעטן אָנגענעם
 
-| If this is getting harder | Try this |
+| אַז עס װערט שװערער | פּרוּװט דאָס |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| פֿאַרנומענע אָדער רױשיקע ערטער | גײט אין רויקע צײַטן, קלײַבט קלענערע גרופּעס, זיצט אויפֿן ראַנד פֿון צימער |
+| געדענקען נײַע נעמען | שטעלט זיך פֿאָר מיט נאָמען יעדעס מאָל; בעט אַז גרופּעס זאָלן טראָגן נאָמען-שילדלעך |
+| נאָכפֿאָלגן מערשטופֿיקע פּלענער | שרײַבט די שטאַפּלען אָפּ, אָדער לײגט אַלץ אין סדר פֿריִער |
+| װערן מיד | קירצערע אויספֿאָרן, אַ רו נאָכן, גאָרנישט אַנדערש אויף דעם טאָג |
+| נאָכגיין אַ פּאַרטיע אין אַ שפּיל | שפּילט אין מאַנשאַפֿטן, פֿאַרגרינגערט די רעגלען, אָדער לאָזט אָפּ די ציפֿערן |
+| געפֿינען װערטער | לאָזט צײַט; גיט אַ װאָרט בלױז אויב אײַער אײנגעהאַלטענער סיגנאַל זאָגט עס |
 
-## When to slow down
+## װען מען דאַרף אַראָפּגײן
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+האַלט אָן אָדער ענדערט אַ אַקטיװיטעט װען זי ברענגט מער שטרעסס װי פֿרײד. װידערהאָלטע פֿרוסטראַציע, אַװיידן אַ האָבי אָדער זאָגן „איך קען נישט מער“ פֿאַרדינען אַ װײכן שמועס, נישט דרוק. אָפט איז די ענטפֿער אַ קלענערע װערסיע פֿון דער זעלביקער זאַך. װען דער מענטש דאַרף מער הילף מיט אָנהײבן און נאָכפֿאָלגן שטאַפּלען, קען די אידייען אין [מיטל-סטאַדיום-אַקטיװיטעטן](/activities/middle-stage/) בעסער פּאַסן. װעגן אונטערשטיצנדיקע שמועסן זעט [קאָמוניקאַציע-טיפּס](/caregiving/communication-tips/), און פֿאַר נאָך פֿיל אידייען זעט [101 אַקטיװיטעטן](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+פּאַרטנערס דאַרפֿן אויך שטיצע. דער פֿרי-סטאַדיום איז אַ גוטע צײַט צו בױען אײַער אייגענעם נעץ פֿון הילף; זעט [זעלבסט-זאָרג פֿאַר זאָרגערס](/caregiving/caregiver-self-care/).
