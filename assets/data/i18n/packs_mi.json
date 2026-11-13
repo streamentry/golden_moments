@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Ngā kararehe",
+      "description": "He kararehe ngāwari, he hoa hoki, nō ngā wāhi katoa o te ao"
+    },
+    "nature": {
+      "name": "Te taiao",
+      "description": "He tirohanga whenua ātaahua me ngā whakaaturanga o te taiao"
+    },
+    "food": {
+      "name": "Ngā kai",
+      "description": "He kai reka me ētahi kai māmā"
+    },
+    "vintage": {
+      "name": "Ngā waka",
+      "description": "He waka me ngā taraka hei tiro, hei kōrero hoki"
+    },
+    "flowers": {
+      "name": "Ngā puāwai",
+      "description": "He puāwai ātaahua me ngā tirohanga māra"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Ngā kararehe pāmu",
+      "description": "He kararehe pāmu ngāwari, pēnei i te haerenga ki te taiwhenua.",
+      "theme": "Te oranga pāmu",
+      "images": {
+        "cow_1": "Kau ngāwari",
+        "pig_1": "Poaka koa",
+        "chicken_1": "Heihei toa",
+        "buffalo_1": "Pāfaro wai",
+        "horse_1": "Hōiho ātaahua",
+        "duck_1": "Whānau parera",
+        "goat_1": "Koati hiahia mōhio",
+        "rabbit_1": "Rāpeti ngāwari"
+      }
+    },
+    "nature_mountains": {
+      "title": "Ngā tirohanga maunga",
+      "description": "He tirohanga maunga mīharo me ngā tirohanga whānui ātaahua",
+      "theme": "Te ātaahua o te taiao",
+      "images": {
+        "mountain_1": "Ngā tihi kua kapi i te hukarere",
+        "mountain_2": "Maunga Fuji",
+        "mountain_3": "Raorao o ngā Alps",
+        "mountain_4": "Tihi toka",
+        "mountain_5": "Ngā puke ngahere",
+        "mountain_6": "Ngā maunga kohu"
+      }
+    },
+    "vintage_cars": {
+      "title": "Ngā waka me ngā taraka",
+      "description": "He waka me ngā taraka kanapa hei tiro, hei kōrero hoki",
+      "theme": "I te huarahi",
+      "images": {
+        "vintage_car_1": "Audi karaka i te tōnga o te rā",
+        "vintage_car_2": "Waka tākaro kahurangi i te koraha",
+        "vintage_car_3": "Bugatti hiriwa",
+        "vintage_car_4": "Porsche pango i te huarahi",
+        "vintage_car_5": "BMW karaka i tētahi tiriti rākau nīkau",
+        "vintage_car_6": "Waka kahurangi i te taha o tētahi whare waka",
+        "vintage_car_7": "Taraka kākāriki",
+        "vintage_car_8": "SUV mā i waenga i ngā toka whero",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Waka kahurangi me ngā raina mā"
+      }
+    },
+    "animals_safari": {
+      "title": "Ngā kararehe safari",
+      "description": "He kararehe rangatira nō ngā safari o Āwherika",
+      "theme": "Ngā kararehe mohoao",
+      "images": {
+        "lion_1": "Raiona rangatira",
+        "elephant_2": "Arewhana Āwherika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra whakaraina",
+        "rhino_5": "Rhino kaha",
+        "cheetah_6": "Cheetah tere",
+        "fox_7": "Pokiha parauri",
+        "bear_8": "Pea pōro",
+        "turtle_9": "Honu parauri",
+        "squirrel_10": "Kiore rākau parauri",
+        "macaw_11": "Makau kōwhai me te kahurangi",
+        "tiger_12": "Taika",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "Wuruhi hina",
+        "crocodile_15": "Korokotaera",
+        "peacock_16": "Peacock ātaahua"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Ngā kai reka",
+      "description": "He kai reka hei āpiti ki ā koutou kai.",
+      "theme": "Ngā kai reka",
+      "images": {
+        "pastries_1": "Pastry e whā",
+        "oreo_cookie_sandwiches_2": "Ngā Oreo hanawiti",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Panekeke",
+        "macarons_5": "Macaron",
+        "caramel_cake_6": "Keke karamere"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Ngā puāwai mahana",
+      "description": "Tūhuratia te ātaahua kanapa o ngā wāhi mahana me tēnei pūranga puāwai ke.",
+      "theme": "Ngā puāwai mahana",
+      "images": {
+        "hibiscus_1": "Hibiscus whero",
+        "frangipani_2": "Frangipani whero me te mā",
+        "sunflower_3": "Puāwai rā",
+        "hydrangea_4": "Hydrangea mā",
+        "rose_5": "Rōhi",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Te hākari kai tiriti",
+      "description": "Tūhuratia te ao tae-maha o te kai tiriti me tēnei pūranga o ngā kai māmā reka o te ao.",
+      "theme": "Kai tiriti",
+      "images": {
+        "taco_1": "Taco Mehikana",
+        "ramen_2": "Ramen Hapani",
+        "dumplings_3": "Ngā dumpling Hainamana",
+        "samosa_4": "Samosa Īnia",
+        "pizza_5": "Tapahi pizza Itāriana",
+        "crepe_6": "Crêpe Wīwī",
+        "satay_7": "Ngā kihu satay Tai",
+        "burger_8": "Burger Amerikana",
+        "bao_9": "Pao bao kua tōtōia",
+        "takoyaki_10": "Takoyaki Hapani"
+      }
+    },
+    "nature_landscape": {
+      "title": "Ngā tirohanga taiao",
+      "description": "He tirohanga taiao marino, ātaahua hei tiro ata haere, hei kōrero ngātahi.",
+      "theme": "Ngā tirohanga taiao",
+      "images": {
+        "mountain_1": "Ngā maunga",
+        "forest_2": "Ngahere kohu",
+        "lake_3": "Roto maunga",
+        "desert_4": "Ngā onepū koraha",
+        "waterfall_5": "Wairere",
+        "beach_6": "Takutai onepū",
+        "river_7": "Awa e rere ana",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Rangi i te tōnga o te rā",
+        "snow_mountain_10": "Maunga hukarere",
+        "flowers_11": "Puāwai mohoao",
+        "rainforest_12": "Ngahere ua",
+        "iceberg_13": "Maunga tio",
+        "volcano_14": "Puia",
+        "cliff_15": "Pari moana",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Savannah",
+        "coral_reef_18": "Toka waihona"
+      }
+    }
+  }
+}

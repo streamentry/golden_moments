@@ -102,4 +102,9 @@
     <locale android:name="lo" />
     <locale android:name="yi" />
     <locale android:name="la" />
+    <locale android:name="oc" />
+    <locale android:name="co" />
+    <locale android:name="fo" />
+    <locale android:name="mi" />
+    <locale android:name="mg" />
 </locale-config>

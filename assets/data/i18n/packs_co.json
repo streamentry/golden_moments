@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animali",
+      "description": "Animali graziosi è amichevuli di tuttu u mondu"
+    },
+    "nature": {
+      "name": "Natura",
+      "description": "Bellu paesaghji è scene di a natura"
+    },
+    "food": {
+      "name": "Cibu",
+      "description": "Pasti è dolci gustosi"
+    },
+    "vintage": {
+      "name": "Vitture",
+      "description": "Vitture è camiò da fighjà è da discorre"
+    },
+    "flowers": {
+      "name": "Fiori",
+      "description": "Bellu fiori è scene di giardinu"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animali di a splutazione",
+      "description": "Animali amichevuli di a splutazione, cum’è in una visita à a campagna.",
+      "theme": "Vita di a splutazione",
+      "images": {
+        "cow_1": "Vacca amichevule",
+        "pig_1": "Porcu cuntentu",
+        "chicken_1": "Gallu",
+        "buffalo_1": "Bufalu d’acqua",
+        "horse_1": "Cavallu bellu",
+        "duck_1": "Famiglia d’anitre",
+        "goat_1": "Capra curiosa",
+        "rabbit_1": "Cunigliu graziosu"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vedute di muntagna",
+      "description": "Paesaghji di muntagna maravigliosi è belle vedute",
+      "theme": "Bellezza di a natura",
+      "images": {
+        "mountain_1": "Cime incappucciate di neve",
+        "mountain_2": "U Monte Fuji",
+        "mountain_3": "Valle alpina",
+        "mountain_4": "Cima rocciosa",
+        "mountain_5": "Cullette di furesta",
+        "mountain_6": "Muntagne nebbiose"
+      }
+    },
+    "vintage_cars": {
+      "title": "Vitture è camiò",
+      "description": "Vitture è camiò luccicanti da fighjà è da discorre",
+      "theme": "À nantu à a strada",
+      "images": {
+        "vintage_car_1": "Audi aranciu à u tramontu",
+        "vintage_car_2": "Vittura sportiva turchina in u desertu",
+        "vintage_car_3": "Bugatti argentata",
+        "vintage_car_4": "Porsche nera nantu à a strada",
+        "vintage_car_5": "BMW aranciu nantu à una strada cù e palme",
+        "vintage_car_6": "Coupé turchinu accantu à un garage",
+        "vintage_car_7": "Camiò pick-up verde",
+        "vintage_car_8": "SUV biancu trà e rocce rosse",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Vittura turchina cù strisce bianche"
+      }
+    },
+    "animals_safari": {
+      "title": "Animali di u safari",
+      "description": "Animali maestosi di i safari africani",
+      "theme": "Vita salvatica",
+      "images": {
+        "lion_1": "Leone maestosu",
+        "elephant_2": "Elefante africanu",
+        "jaguar_3": "Giaguaru",
+        "zebra_4": "Zebra strisciata",
+        "rhino_5": "Rinoceronte putente",
+        "cheetah_6": "Ghepardu veloce",
+        "fox_7": "Volpe marrone",
+        "bear_8": "Orsu pularu",
+        "turtle_9": "Tartuca marrone",
+        "squirrel_10": "Scuiattulu marrone",
+        "macaw_11": "Ara turchinu è giallu",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Procionu",
+        "wolf_14": "Lupu grisgiu",
+        "crocodile_15": "Cocodrillu",
+        "peacock_16": "Pavone bellu"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Dolci gustosi",
+      "description": "Qualchì dolce gustosu per i vostri pasti.",
+      "theme": "Dolci",
+      "images": {
+        "pastries_1": "Quattru pasticcini",
+        "oreo_cookie_sandwiches_2": "Biscotti Oreo cù crema",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Torta à u caramellu"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Fiori tropicali",
+      "description": "Scopra a bellezza viva di i tropichi cù sta serie di fiori esotichi.",
+      "theme": "Fiori tropicali",
+      "images": {
+        "hibiscus_1": "Ibiscu rossu",
+        "frangipani_2": "Frangipani rossu è biancu",
+        "sunflower_3": "Girasole",
+        "hydrangea_4": "Ortensia bianca",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Crisantemu",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfiniu"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Cibu di strada",
+      "description": "Scopra u mondu culuritu di u cibu di strada cù sta serie di spuntini gustosi di tuttu u mondu.",
+      "theme": "Cibu di strada",
+      "images": {
+        "taco_1": "Taco messicanu",
+        "ramen_2": "Ramen giapponese",
+        "dumplings_3": "Ravioli chinesi",
+        "samosa_4": "Samosa indianu",
+        "pizza_5": "Fetta di pizza taliana",
+        "crepe_6": "Crêpe francese",
+        "satay_7": "Spiedini di satay tailandesi",
+        "burger_8": "Burger americanu",
+        "bao_9": "Bao à vapore",
+        "takoyaki_10": "Takoyaki giapponese"
+      }
+    },
+    "nature_landscape": {
+      "title": "Paesaghji di natura",
+      "description": "Scene di natura calme è belle da fighjà pianu pianu è da discorre inseme.",
+      "theme": "Paesaghji di natura",
+      "images": {
+        "mountain_1": "Catena di muntagne",
+        "forest_2": "Furesta nebbiosa",
+        "lake_3": "Lavu di muntagna",
+        "desert_4": "Dune di u desertu",
+        "waterfall_5": "Cascata",
+        "beach_6": "Piaghja sabbiosa",
+        "river_7": "Fiume chì corre",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Celu à u tramontu",
+        "snow_mountain_10": "Muntagna nevicata",
+        "flowers_11": "Fiori salvatichi",
+        "rainforest_12": "Furesta pluviale",
+        "iceberg_13": "Icebergu",
+        "volcano_14": "Vulcanu",
+        "cliff_15": "Scogliu à u mare",
+        "aurora_16": "Aurora boreale",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Scogliu di curallu"
+      }
+    }
+  }
+}

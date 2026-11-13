@@ -90,6 +90,11 @@ const _appLocales = {
   'lo',
   'yi',
   'la',
+  'oc',
+  'co',
+  'fo',
+  'mi',
+  'mg',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

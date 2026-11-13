@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Djór",
+      "description": "Vinarlig og blíð djór frá øllum heiminum"
+    },
+    "nature": {
+      "name": "Náttúra",
+      "description": "Vakrar landslagsmyndir og náttúrumyndir"
+    },
+    "food": {
+      "name": "Matur",
+      "description": "Góðir rættir og søtleikar"
+    },
+    "vintage": {
+      "name": "Bilar",
+      "description": "Bilar og lastbilar at hyggja at og tosa um"
+    },
+    "flowers": {
+      "name": "Blómur",
+      "description": "Vakrar blómur og myndir úr urtagarðinum"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Bóndagarðsdjór",
+      "description": "Vinarlig bóndagarðsdjór, sum á vitjan á bygd.",
+      "theme": "Lív á bóndagarði",
+      "images": {
+        "cow_1": "Vinarlig kúgv",
+        "pig_1": "Glað svín",
+        "chicken_1": "Hani",
+        "buffalo_1": "Vatnbøffil",
+        "horse_1": "Vakur hestur",
+        "duck_1": "Andafamilja",
+        "goat_1": "Nýsin geit",
+        "rabbit_1": "Søtur kanin"
+      }
+    },
+    "nature_mountains": {
+      "title": "Fjallasýn",
+      "description": "Fjallalandslag og vakrar útsýnir",
+      "theme": "Náttúrufegurð",
+      "images": {
+        "mountain_1": "Fjøll við snjógvi á tindunum",
+        "mountain_2": "Fujifjall",
+        "mountain_3": "Dalur í Ølpunum",
+        "mountain_4": "Grýttur tindur",
+        "mountain_5": "Skógvaðir hálsar",
+        "mountain_6": "Fjøll í mjørka"
+      }
+    },
+    "vintage_cars": {
+      "title": "Bilar og lastbilar",
+      "description": "Blikandi bilar og lastbilar at hyggja at og tosa um",
+      "theme": "Á vegnum",
+      "images": {
+        "vintage_car_1": "Appelsingulur Audi í sólarlagnum",
+        "vintage_car_2": "Blár sportsbilur í oyðimørkini",
+        "vintage_car_3": "Silvurlittur Bugatti",
+        "vintage_car_4": "Svartur Porsche á vegnum",
+        "vintage_car_5": "Appelsingulur BMW á gøtu við pálmum",
+        "vintage_car_6": "Blár coupé við eina garasju",
+        "vintage_car_7": "Grønur pickup-lastbilur",
+        "vintage_car_8": "Hvítur SUV millum reyð klettar",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blár bilur við hvítum strikum"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaridjór",
+      "description": "Stórfingin djór frá afrikanskum safariferðum",
+      "theme": "Villt djór",
+      "images": {
+        "lion_1": "Stoltur leyvi",
+        "elephant_2": "Afrikanskur elefantur",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Stripað sebra",
+        "rhino_5": "Sterkur neshyrningur",
+        "cheetah_6": "Skjótur gepard",
+        "fox_7": "Brúnur revur",
+        "bear_8": "Isbjørn",
+        "turtle_9": "Brún skjaldbøka",
+        "squirrel_10": "Brúnt ikorni",
+        "macaw_11": "Gul og blá ara",
+        "tiger_12": "Tigur",
+        "raccoon_13": "Vaskibjørn",
+        "wolf_14": "Grár úlvur",
+        "crocodile_15": "Krokodilla",
+        "peacock_16": "Vakur pávi"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Góðir eftirrættir",
+      "description": "Nakrir góðir eftirrættir til máltíðirnar.",
+      "theme": "Søtir eftirrættir",
+      "images": {
+        "pastries_1": "Fýra bakstrar",
+        "oreo_cookie_sandwiches_2": "Oreo-kexsamlokur",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pannukøka",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Karamellkøka"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Sunnanblómur",
+      "description": "Uppdaga litfagra hitabeltið við hesum pakka av ókendum blómum.",
+      "theme": "Hitabeltisblómur",
+      "images": {
+        "hibiscus_1": "Reyður hibiscus",
+        "frangipani_2": "Reyð og hvít frangipani",
+        "sunflower_3": "Sólblóma",
+        "hydrangea_4": "Hvít hortensia",
+        "rose_5": "Rósa",
+        "chrysanthemum_6": "Krysantemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Gøtumatur",
+      "description": "Kanna ein litríkan heim av gøtumati við hesum pakka av góðum føti frá øllum heiminum.",
+      "theme": "Gøtumatur",
+      "images": {
+        "taco_1": "Mexikanskur taco",
+        "ramen_2": "Japanskur ramen",
+        "dumplings_3": "Kinesiskir dumplings",
+        "samosa_4": "Indiskur samosa",
+        "pizza_5": "Italsk pitsuskeiva",
+        "crepe_6": "Fronsk crêpe",
+        "satay_7": "Thailendsk satay-spjót",
+        "burger_8": "Amerikanskur hamburgari",
+        "bao_9": "Gufusoðin bao-bolla",
+        "takoyaki_10": "Japanskur takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Náttúrulandslag",
+      "description": "Rólegar og vakrar náttúrumyndir at hyggja at í ró og tosa um saman.",
+      "theme": "Náttúrulandslag",
+      "images": {
+        "mountain_1": "Fjallaraðir",
+        "forest_2": "Skógvur í mjørka",
+        "lake_3": "Fjallavatn",
+        "desert_4": "Sandhólar í oyðimørk",
+        "waterfall_5": "Fossur",
+        "beach_6": "Sandstrond",
+        "river_7": "Streymandi á",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Himmal í sólarlagi",
+        "snow_mountain_10": "Fjall við snjógvi",
+        "flowers_11": "Villblómur",
+        "rainforest_12": "Regnskógvur",
+        "iceberg_13": "Ísfjall",
+        "volcano_14": "Eldfjall",
+        "cliff_15": "Sjóvarbergi",
+        "aurora_16": "Norðurljós",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Korallrev"
+      }
+    }
+  }
+}

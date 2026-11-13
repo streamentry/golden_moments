@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Biby",
+      "description": "Biby mahafinaritra sy mahafatratra avy any amin'ny toerana maro"
+    },
+    "nature": {
+      "name": "Natiora",
+      "description": "Tontolo sy toerana voajanahary tsara tarehy"
+    },
+    "food": {
+      "name": "Sakafo",
+      "description": "Sakafo sy zavatra mamy mahatsiaro tsara"
+    },
+    "vintage": {
+      "name": "Fiara",
+      "description": "Fiara sy kamiao hojerena sy hiresahana"
+    },
+    "flowers": {
+      "name": "Voninkazo",
+      "description": "Voninkazo tsara tarehy sy toerana misy zaridaina"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Biby fiompy",
+      "description": "Biby fiompy mahafatratra, toy ny any am-pitsidihana any ambanivohitra.",
+      "theme": "Fiainana any an-tanety",
+      "images": {
+        "cow_1": "Omby mahafatratra",
+        "pig_1": "Kisoa faly",
+        "chicken_1": "Akoho lahy",
+        "buffalo_1": "Aomby rano",
+        "horse_1": "Soavaly tsara tarehy",
+        "duck_1": "Fianakavian'ny gisa",
+        "goat_1": "Osy liana",
+        "rabbit_1": "Bitro kely mahafatratra"
+      }
+    },
+    "nature_mountains": {
+      "title": "Fahitana tendrombohitra",
+      "description": "Tendrombohitra sy toerana hita lavitra tsara tarehy",
+      "theme": "Hatsaran-tarehy voajanahary",
+      "images": {
+        "mountain_1": "Tampon-tendrombohitra misy oram-panala",
+        "mountain_2": "Tendrombohitra Fuji",
+        "mountain_3": "Lohasaha eo anelanelan'ny tendrombohitra",
+        "mountain_4": "Tampon-tendrombohitra vatolampy",
+        "mountain_5": "Havoana misy ala",
+        "mountain_6": "Tendrombohitra voasaron'ny zavona"
+      }
+    },
+    "vintage_cars": {
+      "title": "Fiara sy kamiao",
+      "description": "Fiara sy kamiao mamirapiratra hojerena sy hiresahana",
+      "theme": "Eny an-dalana",
+      "images": {
+        "vintage_car_1": "Audi voasary rehefa milentika ny masoandro",
+        "vintage_car_2": "Fiara hafainganam-pandeha manga any an'efitra",
+        "vintage_car_3": "Bugatti volafotsy",
+        "vintage_car_4": "Porsche mainty eny an-dalana",
+        "vintage_car_5": "BMW voasary eny amin'ny arabe misy rofia palmie",
+        "vintage_car_6": "Fiara coupé manga eo akaikin'ny garazy",
+        "vintage_car_7": "Kamiao pikaopy maitso",
+        "vintage_car_8": "SUV fotsy eo anelanelan'ny vatolampy mena",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Fiara manga misy tsipika fotsy"
+      }
+    },
+    "animals_safari": {
+      "title": "Biby any amin'ny safari",
+      "description": "Biby lehibe sy mahafinaritra avy any amin'ny safari afrikana",
+      "theme": "Biby ala",
+      "images": {
+        "lion_1": "Liona lehibe",
+        "elephant_2": "Elefanta afrikana",
+        "jaguar_3": "Jaguara",
+        "zebra_4": "Zebra misy tsipika",
+        "rhino_5": "Rinoseroza mahery",
+        "cheetah_6": "Cheetah faingana",
+        "fox_7": "Amboadia volomparasy",
+        "bear_8": "Orsa fotsy",
+        "turtle_9": "Sokatra volon-tany",
+        "squirrel_10": "Ekiroela volon-tany",
+        "macaw_11": "Macaw mavo sy manga",
+        "tiger_12": "Tigra",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "Amboadia volondavenona",
+        "crocodile_15": "Voay",
+        "peacock_16": "Paona tsara tarehy"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Zavatra mamy mahafinaritra",
+      "description": "Zavatra mamy mahafinaritra hatolotra aorian'ny sakafo.",
+      "theme": "Zavatra mamy",
+      "images": {
+        "pastries_1": "Mofomamy efatra",
+        "oreo_cookie_sandwiches_2": "Biskuiti Oreo roa misy famenoana",
+        "crepe_3": "Krepy",
+        "pancake_4": "Mofo lamba",
+        "macarons_5": "Macaron",
+        "caramel_cake_6": "Mofomamy karamelina"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Voninkazo tropikaly",
+      "description": "Jereo ny hatsaran'ny faritra tropikaly amin'ity fitambaran-tsary voninkazo hafahafa ity.",
+      "theme": "Voninkazo tropikaly",
+      "images": {
+        "hibiscus_1": "Hibiscus mena",
+        "frangipani_2": "Frangipani mena sy fotsy",
+        "sunflower_3": "Tournesol",
+        "hydrangea_4": "Hortensia fotsy",
+        "rose_5": "Rozy",
+        "chrysanthemum_6": "Krizantema",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Sakafo an-dalambe",
+      "description": "Jereo ny tontolo feno loko amin'ny sakafo an-dalambe amin'ity fitambaran-tsary ity, misy sakafo mahavelona avy any amin'ny toerana maro.",
+      "theme": "Sakafo an-dalambe",
+      "images": {
+        "taco_1": "Taco meksikana",
+        "ramen_2": "Ramen japoney",
+        "dumplings_3": "Dumpling sinoa",
+        "samosa_4": "Samosa indiana",
+        "pizza_5": "Silaka pizza italianina",
+        "crepe_6": "Krepy frantsay",
+        "satay_7": "Satay thailandey",
+        "burger_8": "Burger amerikana",
+        "bao_9": "Mofo bao natsetsika",
+        "takoyaki_10": "Takoyaki japoney"
+      }
+    },
+    "nature_landscape": {
+      "title": "Tontolo voajanahary",
+      "description": "Sary tontolo voajanahary milamina sy tsara tarehy hojerena miadana sy hiresahana miaraka.",
+      "theme": "Tontolo voajanahary",
+      "images": {
+        "mountain_1": "Tendrombohitra maromaro",
+        "forest_2": "Ala voasaron'ny zavona",
+        "lake_3": "Farihy eny an-tendrombohitra",
+        "desert_4": "Havoana fasika any an'efitra",
+        "waterfall_5": "Riandrano",
+        "beach_6": "Moron-dranomasina fasika",
+        "river_7": "Renirano mikoriana",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Lanitra rehefa milentika ny masoandro",
+        "snow_mountain_10": "Tendrombohitra misy oram-panala",
+        "flowers_11": "Voninkazo ala",
+        "rainforest_12": "Ala be orana",
+        "iceberg_13": "Ranomandry mitsingevana",
+        "volcano_14": "Volkano",
+        "cliff_15": "Moron-bato eo an-tsisin-dranomasina",
+        "aurora_16": "Aurora borealis",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Haran-tsokatra"
+      }
+    }
+  }
+}
