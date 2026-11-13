@@ -102,7 +102,7 @@ E mafai ona sese le leiloa o le faʻalogo mo le lē mautonu. Ua taʻua e le NIA 
 
 ## O ā masini faʻalogo e faatau e aunoa ma se tusi a le fomaʻi?
 
-Talu mai le 17 Oketopa 2022, ua faatagaina e le [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) se vaega o masini faʻalogo e faatau e aunoa ma se tusi a le fomaʻi (OTC). O le faatusatusaga ma masini e tusi e le fomaʻi:
+Talu mai le Oketopa 17, 2022, ua faatagaina e le [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) se vaega o masini faʻalogo e faatau e aunoa ma se tusi a le fomaʻi (OTC). O le faatusatusaga ma masini e tusi e le fomaʻi:
 
 | Uiga | Masini faʻalogo OTC | Masini faʻalogo e tusi e le fomaʻi |
 | --- | --- | --- |
