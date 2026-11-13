@@ -85,6 +85,11 @@ const _appLocales = {
   'ky',
   'tl',
   'ht',
+  'ku',
+  'tg',
+  'lo',
+  'yi',
+  'la',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

@@ -97,4 +97,9 @@
     <locale android:name="ky" />
     <locale android:name="tl" />
     <locale android:name="ht" />
+    <locale android:name="ku" />
+    <locale android:name="tg" />
+    <locale android:name="lo" />
+    <locale android:name="yi" />
+    <locale android:name="la" />
 </locale-config>

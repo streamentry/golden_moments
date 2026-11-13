@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animalia",
+      "description": "Animalia amica et grata ex toto orbe terrarum"
+    },
+    "nature": {
+      "name": "Natura",
+      "description": "Regiones pulchrae et res naturales"
+    },
+    "food": {
+      "name": "Cibus",
+      "description": "Cibi sapidi et dulcia"
+    },
+    "vintage": {
+      "name": "Autoraedae",
+      "description": "Autoraedae et plaustra ad spectandum et de eis loquendum"
+    },
+    "flowers": {
+      "name": "Flores",
+      "description": "Flores pulchri et horti"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animalia rustica",
+      "description": "Animalia rustica amica, quasi in visitatione ruris.",
+      "theme": "Vita rustica",
+      "images": {
+        "cow_1": "Vacca amica",
+        "pig_1": "Porcus laetus",
+        "chicken_1": "Gallus",
+        "buffalo_1": "Bubalus aquaticus",
+        "horse_1": "Equus pulcher",
+        "duck_1": "Familia anatum",
+        "goat_1": "Capra curiosa",
+        "rabbit_1": "Cuniculus gratus"
+      }
+    },
+    "nature_mountains": {
+      "title": "Prospectus montium",
+      "description": "Montes mirabiles et prospectus pulchri",
+      "theme": "Pulchritudo naturae",
+      "images": {
+        "mountain_1": "Culmina nive tecta",
+        "mountain_2": "Mons Fuji",
+        "mountain_3": "Vallis alpina",
+        "mountain_4": "Culmen saxosum",
+        "mountain_5": "Colles silvestres",
+        "mountain_6": "Montes nebulosi"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autoraedae et plaustra",
+      "description": "Autoraedae et plaustra nitida ad spectandum et de eis loquendum",
+      "theme": "In via",
+      "images": {
+        "vintage_car_1": "Audi aurantiaca in occasu solis",
+        "vintage_car_2": "Autoraeda caerulea celeris in deserto",
+        "vintage_car_3": "Bugatti argentea",
+        "vintage_car_4": "Porsche nigra in via",
+        "vintage_car_5": "BMW aurantiaca in via palmis ornata",
+        "vintage_car_6": "Autoraeda caerulea iuxta garagium",
+        "vintage_car_7": "Plaustrum viride",
+        "vintage_car_8": "Autoraeda alba inter rupes rubras",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Autoraeda caerulea cum lineis albis"
+      }
+    },
+    "animals_safari": {
+      "title": "Animalia saltuum",
+      "description": "Animalia maiestatica ex venationibus Africae",
+      "theme": "Fera",
+      "images": {
+        "lion_1": "Leo maiestaticus",
+        "elephant_2": "Elephantus Africanus",
+        "jaguar_3": "Iaguarus",
+        "zebra_4": "Zebra striata",
+        "rhino_5": "Rhinoceros validus",
+        "cheetah_6": "Cheetah celer",
+        "fox_7": "Vulpes fulva",
+        "bear_8": "Ursus albus",
+        "turtle_9": "Testudo fulva",
+        "squirrel_10": "Sciurus fulvus",
+        "macaw_11": "Ara flava et caerulea",
+        "tiger_12": "Tigris",
+        "raccoon_13": "Procyon",
+        "wolf_14": "Lupus cinereus",
+        "crocodile_15": "Crocodilus",
+        "peacock_16": "Pavo pulcher"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Dulcia sapida",
+      "description": "Dulcia sapida ad cibos tuos.",
+      "theme": "Dulcia",
+      "images": {
+        "pastries_1": "Quattuor crustula",
+        "oreo_cookie_sandwiches_2": "Crustula Oreo duplicata",
+        "crepe_3": "Crepa",
+        "pancake_4": "Placenta tenuis",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Libum caramelatum"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flores tropici",
+      "description": "Pulchritudinem vividam tropicorum cognosce cum hoc fasciculo florum exoticorum.",
+      "theme": "Flores tropici",
+      "images": {
+        "hibiscus_1": "Hibiscus ruber",
+        "frangipani_2": "Frangipani rubra et alba",
+        "sunflower_3": "Helianthus",
+        "hydrangea_4": "Hydrangea alba",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Cibus viarum",
+      "description": "Orbem coloratum cibi viarum cognosce cum hoc fasciculo escarum sapidarum ex toto orbe terrarum.",
+      "theme": "Cibus viarum",
+      "images": {
+        "taco_1": "Taco Mexicanum",
+        "ramen_2": "Ramen Iaponicum",
+        "dumplings_3": "Globuli Sinenses",
+        "samosa_4": "Samosa Indica",
+        "pizza_5": "Segmentum pizzae Italicae",
+        "crepe_6": "Crepa Gallica",
+        "satay_7": "Veruculi satay Thailandici",
+        "burger_8": "Burger Americanum",
+        "bao_9": "Panis bao vapore coctus",
+        "takoyaki_10": "Takoyaki Iaponicum"
+      }
+    },
+    "nature_landscape": {
+      "title": "Regiones naturae",
+      "description": "Loca naturae quieta et pulchra, lente spectanda et simul disserenda.",
+      "theme": "Regiones naturae",
+      "images": {
+        "mountain_1": "Series montium",
+        "forest_2": "Silva nebulosa",
+        "lake_3": "Lacus montanus",
+        "desert_4": "Dunae deserti",
+        "waterfall_5": "Cataracta",
+        "beach_6": "Litus arenosum",
+        "river_7": "Flumen fluens",
+        "canyon_8": "Canyon Magnus",
+        "sunset_9": "Caelum occidentis",
+        "snow_mountain_10": "Mons nivalis",
+        "flowers_11": "Flores agrestes",
+        "rainforest_12": "Silva pluvialis",
+        "iceberg_13": "Mons glacialis",
+        "volcano_14": "Vulcanus",
+        "cliff_15": "Rupes maritima",
+        "aurora_16": "Aurora borealis",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Scopulus coralliorum"
+      }
+    }
+  }
+}
