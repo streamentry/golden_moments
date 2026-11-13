@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "שלאָף און מוח־געזונט: װאָס די פֿאָרשונג װײַזט און װאָס העלפֿט"
+seoTitle: "שלאָף און דעמענץ: װאָס די פֿאָרשונג װײַזט"
+description: "װאָס די פֿאָרשונג װײַזט װעגן שלאָף און דעמענץ־ריזיקע, פֿאַרװאָס די מוח־רײניקונג־פֿאָרשונג איז נאָך פֿרי, און פּראַקטישע שלאָף־געװוינהײטן פֿאַר עלטערע מענטשן און זאָרגערס."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  עטלעכע לאַנגע שטודיעס פֿאַרבינדן קורצן שלאָף אין מיטן לעבן מיט אַ העכערער ריזיקע פֿאַר דעמענץ, און לאַבאָראַטאָריע־פֿאָרשונג װײַזט, אַז שלאָף קען העלפֿן דעם מוח אַרױסצוטרײַבן אָפּפֿאַל. דער באַװײַז איז נאָך פֿרי, און די 2024 Lancet Commission האָט נישט אָנגעצײכנט שלאָף װי אַ פֿאַקטאָר װאָס מען קען ענדערן. רעגולערע שלאָף־געװוינהײטן העלפֿן װי מען פֿילט זיך יעדן טאָג. שלאָף־פּראָבלעמען אין דעמענץ זענען געװײנלעך און װערט צו זאָגן צום דאָקטער.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "אַ בריטישע שטודיע װאָס האָט נאָכגעקוקט בערך 8,000 מענטשן אױף 25 יאָר האָט פֿאַרבונדן שלאָף פֿון זעקס שעה אָדער ווייניקער אין מיטן לעבן מיט אַ העכערער דעמענץ־ריזיקע."
+  - "שלאָף־ענדערונגען קענען אויך זײַן אַ פֿרי צײכן פֿון דעמענץ, דעריבער איז שװער צו זאָגן װאָס קומט פֿאַר װאָס."
+  - "פֿאָרשונג װעגן שלאָף װאָס רײניקט בעטא־אַמילאָיד פֿון מוח איז עכט, אָבער פֿרי, פֿיל פֿון דעם איז אין מײַז."
+  - "שלאָף־אַפּנײע איז געװײנלעך, קען באַהאַנדלט װערן, און איז פֿאַרבונדן מיט דעמענץ אין שטודיעס; לאַוד שנאַרכן און שלאַפֿריקײט בײַ טאָג זענען װערט צו קוקן נאָך."
+  - "קיין שלאָף־מיטל אָדער שלאָף־הילף נישט אָנהײבן, נישט אױפֿהערן און נישט ענדערן אָן אַ דאָקטער."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "צי קען שלעכטער שלאָף פֿאַרורזאַכן אַלצהײַמער?"
+    a: "דאָס איז נישט באַװיזן געװאָרן. עטלעכע שטודיעס פֿאַרבינדן קורצן שלאָף מיט אַ העכערער ריזיקע פֿאַר דעמענץ, אָבער דעמענץ אַליין שטערט דעם שלאָף, אָפֿט יאָרן פֿאַר דער דיאַגנאָז. די 2024 Lancet Commission האָט געמײנט, אַז דער באַװײַז איז צו װידערשפּרוכדיק כּדי שלאָף צו אָנצײכנען װי אַ פֿאַקטאָר װאָס מען קען ענדערן."
+  - q: "װיפֿיל שלאָף דאַרפֿן עלטערע מענטשן?"
+    a: "דער [NIA] זאָגט, אַז עלטערע מענטשן דאַרפֿן כּמעט דאָס זעלבע װי אַנדערע, 7 ביז 9 שעה אַ נאַכט. פֿיל עלטערע מענטשן גײען שלאָפֿן און װאַכן זיך אױף פֿרי װי פֿריִער, װאָס איז געװײנלעך."
+  - q: "פֿאַר װאָס שלאָפֿט אַ מענטש מיט דעמענץ בײַ טאָג און װאַכט בײַ נאַכט?"
+    a: "דעמענץ קען שטערן דעם גוף־זייגער, און שלאָף און װאַכן װערן געמישט. װײטאָג, לאַנגװײַליקײט, הונגער אָדער נעבענװירקונגען פֿון מעדיצין קענען אױך שפּילן אַ ראָלע. טאָגליכט, טעגלעכע טעטיקײט און אַ רויִיקער אָװנט־רוטין קענען העלפֿן. אַ דאָקטער קען זוכן נאָך אורזאַכן װאָס מען קען באַהאַנדלען."
+  - q: "צי זאָל איך געבן אַ שלאָף־הילף דעם מענטש װאָס איך זאָרג פֿאַר?"
+    a: "רעדט פֿריִער מיט זײַן דאָקטער, אַרײַנגערעכנט װעגן אָװער־דער־קאָונטער פּראָדוקטן. דער NIA באַמערקט, אַז עטלעכע שלאָף־מיטלען קענען פֿאַרגרעסערן די ריזיקע פֿון שװינדל, פֿאַלן און פֿאַרװירעניש בײַ מענטשן מיט אַלצהײַמער."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,75 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+שלאָף און מוח־געזונט הענגען קלאָר צונױף, אָבער װי זײ הענגען צונױף איז נאָך נישט אױסגעאַרבעט. עטלעכע שטודיעס פֿאַרבינדן קורצן שלאָף מיט אַ העכערער ריזיקע פֿאַר דעמענץ. דעמענץ װידער שטערט אָפֿט דעם שלאָף. דער דאָזיקער בלאַט דערקלערט װאָס די פֿאָרשונג װײַזט און װאָס זי װײַזט נישט, גיט פּראַקטישע שלאָף־געװוינהײטן, און באַהאַנדלט שלאָף־פּראָבלעמען װאָס זענען געװײנלעך בײַ דעמענץ. ער גיט נישט קיין עצות װעגן שלאָף־מיטלען; דאָס געהערט צו אַ דאָקטער.
 
-## Is poor sleep linked with dementia?
+## איז שלעכטער שלאָף פֿאַרבונדן מיט דעמענץ?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+עטלעכע לאַנגע שטודיעס פֿאַרבינדן קורצן שלאָף מיט אַ העכערער ריזיקע פֿאַר דעמענץ, אָבער דער באַװײַז איז נישט אױסגעקלערט.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **אַ 25־יאָריקע בריטישע שטודיע.** פֿאָרשער האָבן נאָכגעקוקט בערך 8,000 דערװאַקסענע אין [דער Whitehall II שטודיע](https://www.nature.com/articles/s41467-021-22354-2). מענטשן װאָס האָבן געשלאָפֿן זעקס שעה אָדער ווייניקער אין עלטער 50 אָדער 60 יאָר האָבן שפּעטער געהאַט אַ העכערע ריזיקע פֿאַר דעמענץ װי יענע װאָס האָבן געשלאָפֿן זיבן שעה. מענטשן װאָס האָבן געשלאָפֿן זעקס שעה אָדער ווייניקער אין עלטער 50, 60 און 70 יאָר האָבן געהאַט בערך 30% העכערע ריזיקע װי יענע װאָס האָבן רעגולער געשלאָפֿן זיבן שעה. דאָס איז געװען אַ אָבסערװאַציע־שטודיע, דעריבער װײַזט זי אַ פֿאַרבינדונג, נישט אַ סיבה.
+- **די Lancet Commission׳s מײנונג.** די [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) האָט נישט צוגעלייגט שלאָף צו איר ליסטע פֿון 14 ענדערבאַרע ריזיקע־פֿאַקטאָרן. זי האָט באַשלאָסן, אַז דער באַװײַז איז נישט שטאַרק גענוג. איין סיבה איז „רעװערס סיבה“: מוח־ענדערונגען פֿון דעמענץ הײבן זיך אָן יאָרן פֿאַר דער דיאַגנאָז און קענען שטערן דעם שלאָף. אין איין גרױסער שטודיע איז פֿאַרשװונדן די פֿאַרבינדונג צװישן לאַנגן שלאָף און דעמענץ, נאָכדעם װי מען האָט אָפּגעשטעלט די ערשטע פֿינף יאָר פֿון נאָכפֿאָלג.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+דעריבער איז אַ קורצע נאַכט פֿון צײַט צו צײַט נישט קיין סיבה צו זאָרגן. רעגולערער, גוטער שלאָף איז װערט צו שטרעבן נאָך, װײַל ער העלפֿט די שטימונג, די װאַכקײט און די זיכערקײט הײַנט.
 
-## What is the "brain-clearing" sleep research?
+## װאָס איז די „מוח־רײניקונג“־פֿאָרשונג װעגן שלאָף?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+איר קענט האָבן געלײענט, אַז שלאָף „רײניקט“ דעם מוח. די געדאַנק קומט פֿון אמתער פֿאָרשונג, אָבער זי איז נאָך פֿרי.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **בײַ מײַז.** אַ שטודיע פֿון 2013 [װאָס איז באַשריבן געװאָרן פֿון NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) האָט געפֿונען, אַז דער פּלאַץ צװישן מוח־צעלן איז געװאַקסן מיט בערך 60%, װען מײַז האָבן געשלאָפֿן. פֿליסיק האָט זיך גרינגער באַװעגט דורך דעם מוח, דורך װאָס פֿאָרשער רופֿן דאָס גלימפֿאַטישע סיסטעם. בעטא־אַמילאָיד, אַ פּראָטעין װאָס איז פֿאַרבונדן מיט אַלצהײַמער, איז שנעלער אַרױסגעגאַנגען פֿון די מוחן פֿון שלאָפֿנדיקע מײַז.
+- **בײַ מענטשן.** אַ קלײנע [שטודיע פֿון 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) האָט אָפּגעסקענירט 20 געזונטע דערװאַקסענע אין עלטער פֿון 22 ביז 72, נאָך אַ נאָרמאַלער נאַכט און נאָך אַ נאַכט אָן קיין שלאָף. נאָך דער שלאָףלאָזער נאַכט האָט דער מוח־סקאַן־סיגנאַל פֿאַר בעטא־אַמילאָיד זיך געהויבן מיט בערך 5% אין אַ געגנט װאָס כּולל דעם היפּאָקאַמפּוס, אַ טײל פֿון מוח װאָס איז װיכטיק פֿאַר זכּרון. די מחברים האָבן דאָס גערופֿן פֿאָרלויפֿיקע באַװײַזן. זײ האָבן נישט געװוּסט צי די ענדערונג גײט אַװעק נאָך רו, אָדער צי זי װײַזט אַז מען רײניקט לאַנגזאַמער, אָדער אַז מען מאַכט מער אַמיאָלאָיד.
+- **עס גײט אין ביידע ריכטונגען.** די Lancet Commission באַמערקט, אַז אַמיאָלאָיד־אָנזאַמלונג קען אַליין שטערן דעם שלאָף בײַ עלטערע מענטשן.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+די געפֿינטן העלפֿן דערקלערן פֿאַרװאָס פֿאָרשער אינטערעסירן זיך אין שלאָף. זײ װײַזן נישט, אַז בעסערער שלאָף פֿאַרהיט אַלצהײַמער.
 
-## What sleep habits may help?
+## װאָס שלאָף־געװוינהײטן קענען העלפֿן?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+עלטערע מענטשן דאַרפֿן בערך 7 ביז 9 שעה שלאָף אַ נאַכט, דאָס זעלבע װי אַנדערע דערװאַקסענע, לױט דעם [נאַציאָנאַלן אינסטיטוט פֿאַר עלטערװערן (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). זײַנע פֿאָרשלאָגן אַרײַנטרײַבן:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **האַלט אַ רעגולערע צײַט.** גײ שלאָפֿן און שטײ אױף צו דער זעלבער צײַט יעדן טאָג, אַפֿילו אױף װאָכענדן.
+- **בױ אַ אָװנט־רוטין.** לײען, הער זאַנפֿטע מוזיק אָדער נעם אַ װאַרעם באָד פֿאַר דעם שלאָפֿן.
+- **מאַך דאָס שלאָפֿצימער באַקװעם,** נישט צו הײס און נישט צו קאַלט.
+- **באַגרענעץ קאַפֿײן שפּעט אין טאָג.** קאַװע, טיי, סאָדע און שאָקאָלאַד קענען מאַכן דיך װאַך.
+- **מײַד אלכױל,** אַפֿילו קלײנע מענגעס, לױט דעם NIA.
+- **מײַד גרױסע מאָלצײַטן אין די צװײ ביז דרײַ שעה פֿאַר דער שלאָף־צײַט,** און גרױסע טרינקענישן שפּעט אין טאָג.
+- **טו רעגולער גימנאַסטיק, נאָר נישט אין די דרײַ שעה פֿאַר דער שלאָף־צײַט.** זע אונדזער [גימנאַסטיק־פֿירער](/brain-health/exercise/).
+- **האַלט עקראַנען אױס פֿון שלאָפֿצימער.** דער NIA רעקאָמענדירט נישט צו קוקן טעלעװיזיע אָדער נוצן אַ קאָמפּיוטער, טעלעפֿאָן אָדער טאַבלעט דאָרט.
+- **מײַד שפּעטע אָדער אָװנטיקע שלאָף־שלומערן,** אױב דו קענסט.
 
-## Sleep problems in dementia
+## שלאָף־פּראָבלעמען בײַ דעמענץ
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+ענדערונגען אין שלאָף זענען געװײנלעך בײַ דעמענץ. דער [NIA שרײַבט אַרױס](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) צו פֿיל אָדער צו װײניק שלאָפֿן, צו פֿיל מאָל װאַכן בײַ נאַכט, און פֿיל שלומערן בײַ טאָג. ער באַשרײַבט אױך סאַנדאַונינג: אומרו, אַגיטאַציע אָדער פֿאַרװירעניש װאָס הײבט זיך אָן אָדער װערט ערגער, װען דאָס ליכט פֿאַרגײט.
 
-Caregiver tips from the NIA include:
+די NIA־עצות פֿאַר זאָרגערס אַרײַנגערעכנט:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **קריג טאָגליכט און באַװעגונג אין דער פֿרי.** גײ אַרױס אָדער זיץ בײַ אַ פֿענצטער בײַ טאָג, און העלף דעם מענטש צו זײַן אַקטיװ יעדן טאָג. העל ליכט קען העלפֿן אָפּשטעלן דעם גוף־זייגער.
+2. **פּלאַנירט אַקטיװע טעטיקײטן פֿאַר דער פֿרי.** פּרוּװט באַדן אין דער פֿרי, אָדער האָבן די גרעסטע מאָלצײַט מיטאָג.
+3. **האַלט שלומערן קורץ און פֿרי.** באַגרענעצט דרימלען שפּעט אין טאָג.
+4. **מאַך דעם אָװנט רויִק.** פֿאַרדינגערט די ליכט, פֿאַרמינערט דעם ראַש און שפּילט זאַנפֿטע מוזיק, אױב דער מענטש האָט עס ליב. אונדזער פֿירער װעגן [שפּעט־טאָג אומרו](/caregiving/late-day-restlessness/) האָט מער אידעען.
+5. **האַלט אַ שטענדיק שלאָף־רוטין.** אױפֿלײענען אַ ביכל יעדן אָװנט אין דער זעלבער צײַט איז איין ביישפּיל פֿון NIA. אַ [שטענדיקע טאָגליכע רוטין](/activities/daily-routine/) העלפֿט אויך.
+6. **באַגרענעץ קאַפֿײן און אלכױל.**
+7. **נוצט נאַכטליכטלעך** אין שלאָפֿצימער, אין קאָרידאָר און אין באָד־צימער.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+פֿאַר נאַכטדיקן אױפֿװאַכן, די [היים־זיכערקײט־עצות פֿון NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) אַרײַנגערעכנט נאַכטליכטלעך אָדער אױטאָמאַטישע ליכט־סענסאָרן, גריפֿן אין באָד־צימער, העל געפֿאַרבטע בענדער אױף די ראַנדן פֿון טרעפּ, און מעדיצין װאָס ליגט אין אַ פֿאַרשלאָסענעם אָרט.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+אַ קורצע, שטילע טעטיקײט בײַ אָװנט קען אײַך ביידן העלפֿן זיך באַרויִקן. פּרוּװט אַ לאַנגזאַמען [Calm Breathing](/games/calm-breathing/)־אָטעם־פּאָז, אָדער עטלעכע אָפּגעשפּאַנטע [Conversation Cards](/games/conversation-cards/). פֿאַרמײַדט אַלץ װאָס איז אױפֿרעגנד נאָענט צו דער שלאָף־צײַט, און האַלט אָן װען דער מענטש האָט גענוג.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+צעבראָכן שלאָף מאַטערט אױך אָפּ די זאָרגערס. אונדזער [פֿירער װעגן זאָרגער־זעלבסטפֿלעגן](/caregiving/caregiver-self-care/) באַהאַנדלט װעגן װי מען קריגt רו און הילף.
 
-## What about sleep apnea?
+## װאָס װעגן שלאָף־אַפּנײע?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+שלאָף־אַפּנײע מאַכט קורצע פּאַװזן אין אָטעם בײַ שלאָף, אָפֿט אַ סך מאָל אין דער נאַכט. דער NIA זאָגט, אַז אױב מען באַהאַנדלt עס נישט, קען עס פֿירן צו פּראָבלעמען װי הויכער בלוט־דרוק, שלאָג אָדער פֿאַרלוסט פֿון זכּרון. צייכנס זענען לאַוד שנאַרכן און פֿילן זיך שלאַפֿריק בײַ טאָג, און פֿיל מענטשן װיסן נישט, אַז זײ האָבן עס.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+די Lancet Commission באַשרײַבt אַ איבערבליק פֿון 11 שטודיעס װו מענטשן מיט שלאָף־אַפּנײע האָבן געהאַט בערך 43% העכערע ריזיקע פֿאַר דעמענץ. װײניק פֿון די שטודיעס האָבן אָבער אָפּגערעכנט דאָס געװיכט, דעריבער איז די פֿאַרבינדונג נישט זיכער.
 
-## A note about sleep medicines
+מען קען שלאָף־אַפּנײע דיאַגנאָזירן און באַהאַנדלען. דער NIA באַמערקט, אַז אַ CPAP־מאַשין העלפֿט כּמעט תמיד. אױב איר אָדער דער מענטש װאָס איר זאָרגט פֿאַר שנאַרכט לאַוד, הערט אױף אָטעמען בײַ שלאָף, אָדער איז זייער שלאַפֿריק בײַ טאָג, זאָגט עס צום דאָקטער.
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+## אַ הערה װעגן שלאָף־מיטלען
 
-## Talk with a doctor
+מיר געבן נישט קיין עצות װעגן שלאָף־מיטלען אָדער דערהײַנטן. דער NIA באַמערקt, אַז שלאָף־מיטלען קענען העלפֿן אַ קורצע צײַט, אָבער זײ זענען נישט קײן כאַפּ פֿאַר שלאָף־לאָזיקײט. ער באַמערקt אױך, אַז עטלעכע מיטלען װאָס װערן געגעבן כּדי העלפֿן מענטשן מיט אַלצהײַמער צו שלאָפֿן, קענען פֿאַרגרעסערן די ריזיקע פֿון שװינדל, פֿאַלן און פֿאַרװירעניש. הײב נישט אָן, הער נישט אױף און ענדער נישט קיין שלאָף־מיטל, אַרײַנגערעכנט אָװער־דער־קאָונטער שלאָף־הילף, אָן רעדן מיט אַ דאָקטער אָדער אַ אַפּטײקער.
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+## רעדט מיט אַ דאָקטער
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+זעט אַ דאָקטער, אױב איר אָדער דער מענטש װאָס איר זאָרגט פֿאַר זענט שטענדיק מיד, האָט שװערקײטן צו שלאָפֿן רוב נעכט, שנאַרכט לאַוד, אָדער האָט פּאָזן אין אָטעם בײַ נאַכט. װען שלאָף־פּראָבלעמען אין דעמענץ גײען װײַטער, [רעקאָמענדירט דער NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) צו זוכן מעדיצינישע עצה. אַ בדיקה קען געפֿינען אורזאַכן װי װײטאָג, אַן אַנדער שלאָף־שטערונג, אַ קראַנקײט אָדער אַ נעבנװירקונג פֿון אַ מעדיצין. פּלוצלינגע פֿאַרװירעניש, אָדער אַ פּלוצלינגע ענדערונג אין שלאָף צוזאַמען מיט פֿאַרװירעניש, פֿאָדערט דרינגלעכע זאָרג. לײענט [װען צו זען אַ דאָקטער](/brain-health/warning-signs/).
+
+דער טעקסט איז אַ אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. זע אונדזער [מעדיצינישן דיסקלעימער](/medical-disclaimer/).

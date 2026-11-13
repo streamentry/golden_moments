@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Activitats per la demència d'estadi mejan"
+seoTitle: "Activitats per la demència d'estadi mejan: idèas simplas"
+description: "Activitats simplas per la demència d'estadi mejan: travails utils, musica, fotos e jòcs facils, amb installacion pas a pas e idèas per l'agitacion."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  A l'estadi mejan de la demència, las activitats melhors son cortas, familiaras
+  e decompausadas en de pasi simples : plegar la lenjaria, aparelhar las
+  chausetas, lavar la vaisselha, cantar, far de promenadas guidadas, agachar
+  d'albums de fotos e jogar a de jòcs simples amb imatges. Installatz las causas,
+  mostratz lo primièr pas, prenètz en carga las part doras e donatz a l'activitat
+  un objectiu. Arrestatz quand cessa d'èstre agradiva.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Los travails domestics familiars marchan sovent melhor perque semblan utils e adults."
+  - "Mostrar mai que dire, prepausar un pas a la fes e donar doas causidas simplas al lòc de questions obèrtas."
+  - "Prenètz en carga la part mai dura perque la persona puesca far la part que la satisfa."
+  - "L'agitacion vòl sovent dire que la persona a besonh de quicòm a far. Prepausatz una activitat que correspond, al lòc de dire non."
+  - "Agachar, ajudar un pauc o arrestar de primièr son totes bons."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Quinas activitats son bonas per la demència d'estadi mejan?"
+    a: "Las activitats cortas, familiaras e manualas marchan generalament melhor : plegar de tavalhons, aparelhar las chausetas, lavar la vaisselha, dressar la taula, cantar amb los vièlhs favorits, far de promenadas guidadas, agachar d'albums de fotos e jòcs simples amb imatges. Decompausatz cada activitat en de pasi simples e la faire ensemble."
+  - q: "Com far per que una persona amb demència comenci una activitat?"
+    a: "Preparatz tot, puèi començatz vos mesme l'activitat e convidatz-la a ajudar : « Me podriatz daire un còp de man amb aquestes tavalhons ? » Mai de monde vòlon participar mas trobon dur de començar. Mostrar lo primièr pas marcha generalament melhor que de l'explicar."
+  - q: "Que far quand fan la mesma causa sens cessar?"
+    a: "La repeticion es sovent inofensiva e pòt indicar que la persona vòl se sentir ocupada o a besonh d'assegurança. Al lòc de la corregir, prepausatz una activitat que correspond al movement, per exemple una fiscèla de gantets de lavatge a plegar o una cançon a cantar ensemble."
+  - q: "E se fan l'activitat de travers?"
+    a: "Se es inofensiu, laissatz-ho estar. Los tavalhons plegats d'un autre biais o las cullièiras al mal lòc son pas grèus. Corregir pòt semblar una critica, mentre que de la laissar far a son biais li permet de se sentir capabla e utila."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+L'estadi mejan de la demència es sovent lo mai long, e es lo moment ont las activitats an besonh d'un ajuda reala. Los mots venon mens aisidament, las etapas se mesclan e començar quicòm pòt semblar dur. Mas la volontat de se sentir utila e de participar demòra generalament. Amb un pauc de preparacion, una persona a l'estadi mejan pòt encara trobar un plaser important, subretot dins los travails de cada jorn, la musica e las fotos agachadas a costat de vos.
 
-## What activities work well in middle-stage dementia?
+## Quinas activitats marchan ben a l'estadi mejan de la demència?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Las activitats cortas, familiaras, manualas e decompausadas en de pasi simples marchan lo melhor. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) dis que son pas besonh d'inventar de causas novèlas : las activitats pòdon far partida de la vida de cada jorn, per exemple far lo dinnar ensemble, jardinar, escotar musica o far una promenada.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nòta que las personas d'aqueste estadi an sovent un fòrt besonh de se sentir utilas o de s'ocupar d'una causa, e an besonh d'ajuda per començar o contunhar las activitats. Sa lista per l'estadi mejan inclutz plegar la lenjaria, lavar la vaisselha, aparelhar las chausetas, un pauc d'exercici, dansar sus de musica coneguda, las promenadas guidadas, los cants collectius, la pintura simpla e agachar d'albums de fotos.
 
-## How do you set up an activity so it works?
+## Cossí installar una activitat perque reüssisca?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+La màger part de las activitats reüssisson o fracassan dins l'installacion. Aquestas practicas, tiradas de l'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e de la [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), fan la màger diferéncia :
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Liberatz l'espaci.** Atudatz la television, barratz la pòrta e metètz sonque çò que l'activitat demanda sus la taula.
+2. **Començatz vos mesme.** Començatz a plegar o a remenar e convidatz-la : « Me podriatz ajudar ? »
+3. **Mostratz, puèi esperatz.** Demostratz un pas. Indicatz o guidatz amb la man, per exemple en mostrant on va lo plat.
+4. **Donatz un pas a la fes.** « Plegatz-lo en dos » es mai aisit que « Plegatz aquestes e empilhatz-las per color ».
+5. **Prepausatz doas causidas, pas de questions obèrtas.** « Los tavalhons blaus o los blancs ? » es mai aisit a respondre que « Qual volètz far ? »
+6. **Prenètz en carga la part dura.** Vos mesuratz, la persona remena. Vos enfiletz l'agulha, la persona enrotla la lana.
+7. **Donatz-li una rason.** « Aquestas serviletas son per lo dinnar de dimenjas » fa que la tasca semble vertadièra.
+8. **Laissatz-la agachar s'o prefèr.** La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nòta que simplament agachar pòt èsser agradiu tanben.
 
-## Activity ideas for the middle stage
+## Idèas d'activitats per l'estadi mejan
 
-### Useful jobs
+### Travails utils
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Plegar de tavalhons e de gantets de lavatge.** Las pèças petitas e planas son las mai aisidas. Una fiscèla de gantets caudas pòt èsser plegada, lisada e tornar plegada.
+- **Aparelhar las chausetas.** Començatz amb qualques parelhas plan diferentas. Triar sonque per color va tanben.
+- **Lavar o eissugar la vaisselha que se pòt pas copar.** L'aiga caud amb sabon es agradiva per las mans. Eissugar assegurat es mai aisit per las camas.
+- **Dressar la taula.** Passatz un tipe d'objècte a la fes e dressatz vos mesme una plaça coma exemple.
+- **Ajudar a far lo dinnar.** Lavar de patatas, descirar de la sala o remenar un plat. Vos gerètz los cotèls e la calor.
+- **Escobar, espolsar o netejar.** Un drapèu per la taula, una escoba leugièra per la terrassa.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Vejatz [las tascas domesticas](/activities/household-tasks/) per ne trobar de mai.
 
-### Music and movement
+### Musica e movement
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Cantar los vièlhs favorits.** Començatz a cantar vos mesme ; mai de monde se junhon sus de cançons que coneisson dempuèi decenis. Vejatz [las activitats musicalas](/activities/music/).
+- **Dansar liurament.** Balancejatz, aplaudissetz o bogetz coma vos agrada. Assegut es tanben bon.
+- **Lançar un globe.** Vòla lentament e es facil de ratrapar dempuèi una cadièra.
+- **Far una promenada guidada.** Caminatz un circuit court e familiar ensemble, bras dins bras s'aquò ajuda.
 
-### Pictures and stories
+### Imatges e istòrias
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Agachar un album de fotos.** Comentatz çò que vesèm, al lòc de far de questions : « Agacha aquela veitura. Conta-me-n'. » Vejatz [las activitats de reminiscéncia](/activities/reminiscence/).
+- **Utilizar de cartas de conversacion.** Las [cartas de conversacion](/games/conversation-cards/) jonchon una imatge amb una question obèrta, sens quiz.
+- **Agachar un vièlh film ensemble.** Triatz-ne un familièr, demoratz a costat e prevèjatz de pausas.
 
-### Simple, pressure-free games
+### Jòcs simples, sens pression
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Parelhas d'imatges amb las imatges visiblas.** Lo [jòc de parelhas d'imatges](/games/picture-pairs/) lais las imatges visiblas, donc es question de notar, pas de remembrar.
+- **Trobar lo meteis.** [Trobar lo meteis](/games/find-the-same/) afichà una imatge e sonque doas a quatre causidas.
+- **Triar ensemble.** [Triar ensemble](/games/sort-together/) es coma triar la lenjaria sus l'ecran : tocatz una imatge, puèi sa fiscèla.
+- **Bingo d'imatges.** [Bingo d'imatges](/games/picture-bingo/) va plan per las reünions familiaras e los grops.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Se un jòc comença a causar de frustracion, arrestatz e fasètz quicòm d'autre. Vejatz [cossí jogar ensemble](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Transformar l'agitacion en activitat
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Las condutas agitadas o repetitivas an sovent una rason. La Family Caregiver Alliance fa remarcar que la persona que vuida sens cessar un armari pòt cercar a satisfar un besonh de se sentir ocupada e productiva. L'Alzheimer's Association suggerís de redirigir aquesta energia cap a una activitat que correspond, al lòc d'arrestar-la.
 
-| What you see | Something to offer |
+| Çò que vesètz | Çò a prepausar |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Fregar o gratar una taula | Un drapèu umide e una demanda d'essuiar la taula |
+| Pès agitats o picotar | Musica amb un ritme clar per frapar o balhar |
+| Vuidar de tiradoras o d'armaris | Un cabàs de vestits o de gantets a plegar e triar |
+| Tornar far la mesma question | Assegurança, puèi una cançon o un trabalh a partejar |
+| Anar e venir | Una promenada ensemble o un trabalh que compòrta de portar de causas |
+| Malaise de la tarda | Una tasca calma e familiara amb una bona lum ; vejatz [agitacion de la fin de jornada](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Quand arrestar o cambiar de biais
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Arrestatz quand vesètz de signes de fatiga, de frustracion, d'embarràs o d'enujament, coma de brandiment, de fronçar, de repossar las causas o de dire « Pòdi pas ». L'Alzheimer's Association suggerís d'ensajar un autre moment de la jornada o de simplificar l'activitat. Forçatz pas. Un refús pòt venir de la paur o d'una tasca tròp dura ; vejatz [quand dison non](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Arrestar de primièr es pas un problèma. Èstre ensemble amb una tassa de tè es tanben una activitat. Quand las capacitats evolucionan, las idèas de [activitats d'estadi avançat](/activities/late-stage/) pòdon melhor correspondre, e [101 activitats](/activities/ideas/) n'a de mai a ensajar.
