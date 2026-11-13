@@ -66,7 +66,7 @@ health: true
 
 Eger demensiýa bilen ýaşaýan adama ideg edýän bolsaňyz ýa-da ata-enäňiziň onuň bilen ýaşaýşyny görüp gelen bolsaňyz, onuň öňüni alyp bolarmydy we muňa özüňize düşmezlik üçin nämedir bir zat edip bolarmy diýip, ähtimal, oýlanypsyňyz. Bu sahypa barlaglaryň hakykatda näme diýýändigini ýönekeý dilde beýan edýär. Gysgaça jogap: hiç kim demensiýanyň öňüni alyp biljekdigine wada berip bilmez, ýöne barlaglar käbir töwekgelçilikleriň azaldylyp bilinjekdigini we olary bütin ilat boýunça azaltmagyň has az adamyň demensiýa duçar bolmagyna ýa-da has giç duçar bolmagyna getirip biljekdigini görkezýär.
 
-Bu umumy maglumatdyr, lukman maslahaty däl. Please [lukman bilen baglanyşykly bildirişimizi](/medical-disclaimer/) okaň we öz saglygyňyz barada lukman bilen gürleşiň.
+Bu umumy maglumatdyr, lukman maslahaty däl. [Lukmançylyk bildirişimizi](/medical-disclaimer/) okaň we öz saglygyňyz barada lukman bilen gürleşiň.
 
 ## Demensiýanyň öňüni almak mümkinmi?
 
@@ -107,7 +107,7 @@ Bu sany nädogry düşünmek aňsat, şonuň üçin takyk bolmak peýdalydyr:
 
 Barlagçylar **yza süýşürmek** hakda hem gürleýärler. Lancet Komissiýasy töwekgelçiligi azaltmagyň demensiýanyň başlanýan wagtyny yza süýşürip we adamyň erbet saglyk bilen ýaşaýan wagtyny gysgaldyp biljekdigi barada täze subutnamalary habar berýär. Birnäçe ýyllyk yza süýşürmek hem adam we onuň maşgalasy üçin örän möhüm bolup biler.
 
-Bu saýtda biz «has pes töwekgelçilik» we «bilen baglanyşykly» sözlerini aňyrdan ulanýarys. «Alsgeýmeriň öňüni alýar» diýip wada berýän önüme, goşundyra ýa-da programma duşsaňyz, ätiýaçly boluň. NIA Alsgeýmeriň öňüni almagy wada berýän islendik hapa ýa-da bejerişi synap görmezden öň lukman bilen maslahatlaşmagy maslahat berýär, sebäbi şeýle önümler howpsuz bolmazlygy, pul ýitgisi bolmagy ýa-da ikisi hem bolmagy mümkin.
+Bu saýtda biz «has pes töwekgelçilik» we «bilen baglanyşykly» sözlerini bilkastlaýyn ulanýarys. «Alsgeýmeriň öňüni alýar» diýip wada berýän önüme, goşundyra ýa-da programma duşsaňyz, ätiýaçly boluň. NIA Alsgeýmeriň öňüni almagy wada berýän islendik derman ýa-da bejerişi synap görmezden öň lukman bilen maslahatlaşmagy maslahat berýär, sebäbi şeýle önümler howpsuz bolmazlygy, pul ýitgisi bolmagy ýa-da ikisi hem bolmagy mümkin.
 
 ## Uly synaglar näme tapdy?
 
@@ -184,4 +184,4 @@ Dermanlary, iýmitlenmäni, goşundylary, agyz bekläp saklanmagy ýa-da maşkla
 
 ## Golden Moments nirede ýerleşýär
 
-Golden Moments [gürrüň kartlary](/games/conversation-cards/), [surat bingosy](/games/picture-bingo/) we [sakin dem alyş pauzasy](/games/calm-breathing/) ýaly ýönekeý bilelikdäki işleri ýasaýar. Olar lezzet we bilelikdäki wagt üçindir. Olar bejeriş däl we demensiýanyň öňüni almaýar ýa-da haýalladýar.
+Golden Moments [gürrüň kartlary](/games/conversation-cards/), [surat bingosy](/games/picture-bingo/) we [rahat dem alyş pauzasy](/games/calm-breathing/) ýaly ýönekeý bilelikdäki işleri ýasaýar. Olar lezzet we bilelikdäki wagt üçindir. Olar bejeriş däl we demensiýanyň öňüni almaýar ýa-da haýalladýar.
