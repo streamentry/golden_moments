@@ -25,7 +25,7 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 `.github/workflows/site.yaml`. The Website workflow also checks that every
 added or changed English guide has a matching copy for all registered
 non-English languages and active site locale variants. This is a file-coverage
-gate. It checks structural parity and rejects unrequested numbers. Translated SEO titles may reach 140 characters; long display widths still warn. These checks do not assess translation quality or replace native-speaker review.
+gate. It rejects added numeric details, except a localized emergency number when English names one. Translated SEO titles may reach 140 characters; long display widths still warn. These checks do not assess translation quality or replace native-speaker review.
 
 ## Layout
 
