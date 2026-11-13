@@ -1,35 +1,30 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Ngā mahi me ngā tākaro mō ngā tāngata e Alzheimer's"
+seoTitle: "Ngā mahi me ngā tākaro a Alzheimer's: He whakaaro ā-wāhanga"
+description: "Ngā mahi me ngā tākaro mō ngā tāngata e Alzheimer's i ia wāhanga, e hangai ana ki ngā pūkenga me ngā maharatanga e roa ana, me ngā tākaro koreutu hei tākaro tahi."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Ko ngā mahi pai mō tētahi e Alzheimer's e whakawhirinaki ana ki ngā mea e roa rawa ana: ngā pūkenga kua mahia mō te wā roa, ngā waiata tawhito, ngā mahi noa o te kāinga me ngā kare-a-roto. I te timatanga, he kāri, he tākaro papatipu, te kuka me ngā haerenga pea ka pai tonu. I te wāhanga waenga, whakamātauria te whakapaipai, te whakarōpū, te waiata, ngā pukaemi whakaahua me ngā tākaro whakaahua māmā. Ā, i te wāhanga whakamutunga, ko te waiata, te whakapā, me te hoa e tino whai take ana. Haere i te āhua o te tangata i tēnei rā.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Ko Alzheimer's te take matua o te mate wareware, nō reira ka pai ngā whakaaro mahi mō te mate wareware mō tēnei hoki."
+  - "Ko te mōhio hou te mea uaua rawa i te tuatahi, engari ko ngā pūkenga me ngā waiata i akohia i mua i te wā e roa ake ana. Hangaia i runga i ērā."
+  - "He whakaroa ngā wāhanga, he pai, he kino ngā rā; kōwhiria mā te mea e taea e te tangata, e pai ai ia i tēnei rā."
+  - "Kōwhiria ngā tākaro kāore he wā, he kaute, he uiui, ā, waiho kia kitea tonutia ngā whakaahua."
+  - "Ko te mātakitaki, te pupuri i tētahi taonga, te noho tahi noa iho, he wāhi katoa o te whai wāhi."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "He aha ngā mahi pai mō tētahi e Alzheimer's?"
+    a: "Ngā mahi e mōhiotia ana, he iti noa te whakamāmā: te pānui kākahu, te whakarite tēpu, te kuka tahi, te waiata me te whakarongo ki ngā waiata, te titiro ki ngā whakaahua, te hīkoi, te mahi māra, me te wā ki tētahi kararehe. He pai hoki ngā tākaro whakaahua māmā, ngā mahi whakaahua ngāwari, me ngā kāri kōrerorero mō te maha o ngā tāngata. Kōwhiria te mea kua pai tonu ki te tangata, ā, mahia tahi ki a ia."
+  - q: "He pai rānei ngā tākaro mō ngā tāngata e Alzheimer's?"
+    a: "Ka taea te whakapau wā tahi i ngā tākaro mēnā e pai ana ki te tangata. Kāore tētahi tākaro i whakaatuhia kua rongoā, kua whakaroa, kua mutu rānei a Alzheimer's, nō reira kōwhiria ngā tākaro mō te harikoa: he whakaahua nui, he whiringa iti, kāore he wā, he kaute, he haruru mō te hē."
+  - q: "He rerekē rānei ngā mahi mō te mate wareware me ngā mahi mō Alzheimer's?"
+    a: "He iti te rerekē. Ko Alzheimer's te take matua o te mate wareware, ā, ka rite ngā whakaaro mahi. Ko te mea whai hua mō Alzheimer's he mōhio ko ngā maharatanga hou te nuinga o te wā ka ngaro tuatahi, nō reira he pai ake te haere o ngā mahi e hangai ana ki ngā pūkenga tawhito, ngā waiata me ngā tikanga."
+  - q: "He aha ngā mea e taea tonu e tētahi e Alzheimer's i te wāhanga whakamutunga?"
+    a: "Ngā waiata pai, te tāra ringa mārie, ngā mea māmā hei pupuri, te pānui ki a ia, te noho ki waho, me te hoa e whakawhirinaki ana ia. Māmā, mārie ki te pēhea, ā, mātakitaki i tōna kanohi me tōna tinana mō ngā mea e pai ana ki a ia."
+  - q: "Me pēhea e whai hiahia ai tētahi e Alzheimer's ki tētahi mahi?"
+    a: "Tonoa āwhina, kaua e whakapuaki i te mahi; whakarite katoa i mua, ā, tīmatahia e koe kia uru mai ia. Te wā o te rā e pai rawa ana ia, he nui te rerekētanga. Mēnā ka kī ia kāore, ngana anō ā muri ake nei, te tuku rānei i tētahi āhua iti ake."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +49,93 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ki te mea he tangata tau e Alzheimer's, pea kua kitea e koe ētahi mea e ngaro tere ana, ā, ētahi e mau tonu ana. Tērā pea ka warewarehia e ia te waea o te ata nei engari ka waiata tonu ia i ia kupu o tētahi himene, ka whakapiri i tētahi tauera ki te āhua i mahia ai e ia i mua, ka tohatoha kāri kāore e whakaaro nui ana. He hanga ngā mahi pai i ērā pūkenga e mau tonu ana. Ka whakamārama tēnei wharangi i te take, ā, ka hoatu ngā whakaaro mō ia wāhanga me ngā tākaro koreutu o tēnei paetukutuku e tika ana mō ērā.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## He rerekē rānei a Alzheimer's i te mate wareware mō ngā mahi?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Kāore i te nui te rerekē. Ko te mate wareware te kupu whānui, ā, ko Alzheimer's te take matua o te mate wareware: e kī ana te [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) he 60 ki te 80 ōrau ngā keehi mate wareware. Ka pā ngā mea katoa i tuhia mō ngā mahi mate wareware ki a Alzheimer's, tae atu ki ā mātou [101 whakaaro mahi](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Ko te mea whai hua ki te mōhio ko te raupapa o ngā panonitanga. Ko te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) e whakamārama ana ka pāngia tuatahi e Alzheimer's ngā wāhanga o te roro e whai wāhi ana ki te maumahara, ā, i muri mai ka pā ki te reo, te whakaaro me te whanonga hāpori. E kī ana te Alzheimer's Association ko te tohu moata nui rawa he uaua ki te maumahara i ngā mōhiotanga hou. He rerekē ia tangata, ā, he maha ngā tāngata he take ngāwari, engari ko tēnei tauira e hanga ana i ngā mahi e tino pai ana.
 
-## What kinds of activities suit Alzheimer's best?
+## He aha ngā mahi e tika ana mō Alzheimer's?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Ko ngā mahi e whakawhirinaki ana ki ngā mōhiotanga tawhito, kua mahia mō te wā roa, he pai te haere o ēnei i ngā mahi e hiahia ana kia ako hou, kia mau ki te ngākau.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Ngā pūkenga kua mahia mō te wā roa.** E kī ana te Alzheimer's Association he pea ka taea tonu e te tangata te purei i ngā waiata māmā i akohia i te piana i ngā tau kua hipa. He rite ngā mahi o te toi kākahu, te whakamāmā rākau, te whakakōpani kāri, te kneading o te parāoa me te pānui kākahu.
+- **Ngā waiata tawhito me ngā waiata mōhio.** He maha ngā tāngata e mōhio tonu ana ki ia kupu o ngā waiata o ō rātou tau taiohi, o ō rātou tau tau, ngā himene, me ngā waiata o tō rātou marenatanga. Titiro ki [ngā mahi waiata](/activities/music/).
+- **Ngā mahi o ia rā he take tōna.** Ko te [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e whakarārangi ana i te horoi rīhi, te whakarite tēpu, te whakarōpū tōkena me te pānui kākahu hei mahi e pai ai ngā tāngata. He mea nui kia whai take te tangata.
+- **Te mōhio ki te mea kitea, kāore ki te maumahara.** He māmā ake te tohu i te whakaahua ōrite i te whakaingoa i te mahara. Koia ngā tākaro whakaahua me ngā mea katoa e kitea ana he pai ake i ngā whakamātau mahara.
+- **Ngā rongo.** Te pūhoro, te kakara, te mahana, te reka me te haruru e noho tonu ana he tikanga ahakoa he uaua ngā kupu. Titiro ki [ngā mahi rongo](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Ko ngā mea ka uaua ake: ngā mea he karaka, he ture hou kia ako, he maha ngā tikanga kia maumahara, me ngā pātai e whakamātau ana i te maumahara, pēnei i te, “Kei te maumahara koe ko wai tēnei?” Ka whakaatu ēnei i te wāhi uaua o Alzheimer's i mua tonu.
 
-## Activities for early-stage Alzheimer's
+## Ngā mahi mō te wāhanga moata o Alzheimer's
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+I te wāhanga moata, e kī ana te [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ka taea pea tonu te tangata te taraiwa, te mahi, te whai wāhi ki ngā mahi hāpori, ahakoa kei te kite ia i ngā hē maumahara pēnei i te warewarenga o ngā kupu mōhio, o ngā wāhi o ngā mea. Ko te huarahi pai ko te whakahoa: pātai he aha tāna e hiahia ana kia mau tonu, he aha te āwhina e pai ana ki a ia.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Haere tonu ki ngā hobi o nāianei.** Gōfa, pirihimana, te whakapaipai kākahu, te kaiwaiata, ngā rōpū karakia, me ngā whakarerekētanga iti pēnei i ngā rōpū iti me ngā wā mārie.
+2. **Tākaro i ngā tākaro kāri, ngā tākaro papatipu mōhio.** E whakarārangi ana te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i ngā uiui, ngā kimihanga kupu, ngā tākaro kāri me ngā tākaro papatipu mō te wāhanga moata. Tākaro hei tīma mēnā ka raru te tangata ki te kaute, te whakakore katoa rānei i te kaute.
+3. **Kuka tahi.** Waiho kia whakahaere ia i tētahi tohutoro kua mōhio ia ki te ngākau, ā, ko koe te tango i te pānui i ngā tikanga.
+4. **Tīmata he kaupapa tāna kōrero ora.** He whakaahua, he tohutoro, he kōrero ki tētahi pukaemi tuhi e tohutohu ana ia. Titiro ki [ngā mahi maharatanga o mua](/activities/reminiscence/).
+5. **Haere ki waho.** He wāhi kai pai i te wā mārie, he whare taonga mō te toro poto, he hīkoi ki te papa.
+6. **Whakamātau i ngā kimihanga kaute ia e kōwhiri ai.** Ngā kupu hēnehene nui, ngā kimihanga kupu me ngā kohinga papatipu. Titiro ki [ngā mahi uiui mō te maumahara](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Ētahi atu whakaaro: [ngā mahi o te wāhanga moata](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Ngā mahi mō te wāhanga waenga o Alzheimer's
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+E whakaatu ana te Alzheimer's Association i te wāhanga waenga hei wāhanga roa rawa, ā, ka roa pea ki ngā tau maha. Ka pōkākā ngā kupu, ka tere te pōrearea, ā, he nui ake te āwhina e hiahiatia ana. Ko te Alzheimer's Foundation of America e tāpiri ana he maha ngā tāngata e hiahia ana ki te āwhina ki te tīmata, ki te haere tonu rānei i ngā mahi. Ko tō mahi he whakarite i ngā mea, he whakaatu, kaua e whakamārama anake, me te tango i ngā wāhanga uaua.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Whakapaipai, whakarōpū, whakarite ōrite.** Ngā tauera, ngā tōkena, ngā ngongo, ngā pātene e ōrite ana ki te tae. He mahi tūturu, e mahia ana tahi i te taha.
+2. **Waiata, neke ki te waiata.** Pātōkia, takahia, kanikani rānei i te kāinga kai. Tīmata te waiata ā-koe, kia uru mai ia.
+3. **Titiro ki ngā pukaemi whakaahua.** Whakamāramatia ngā mea e kitea ana, me te whakaoho i ngā kōrero: “He pai te waka. Kōrerohia mai mō tērā.” Whai i ngā ingoa ka kōrerohia e ia.
+4. **Tākaro i ngā tākaro whakaahua māmā.** [Ngā whakaahua ōrite](/games/picture-pairs/) me ngā tāpui e whā ki te ono, ka whakaatu tonu ngā whakaahua, [Kimihia te ōrite](/games/find-the-same/) me ngā kōwhiringa e rua ki te toru.
+5. **Whakaoti ngā whakataukī mōhio.** “He āporo mō ia rā, hei aukati i te…” Ko ngā whakataukī i akohia i mua i te wā he māmā ki te kōrero. Whakamātauria te [Whakaoti te whakataukī](/games/finish-the-saying/), ka taea te whakaatu i tētahi mutunga mā te pāwhara kotahi.
+6. **Whakatipu, tiakina ngā tipu.** He rīhi i te whare, he māra nui, me tētahi kēnete wai iti.
+7. **Hangaia he tākaro ōrite mai i ngā whakaahua whānau.** Ka whakamahi te [Photo pairs](/games/photo-pairs/) i ngā whakaahua ka kōwhiria e koe i runga i tō taputapu, ā, kāore e puta atu i reira.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Ētahi atu whakaaro: [ngā mahi o te wāhanga waenga](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Ngā mahi mō te wāhanga whakamutunga o Alzheimer's
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+I te wāhanga whakamutunga, e kī ana te Alzheimer's Association ka ngaro te kaha ki te urupare ki te taiao, ki te whai kōrerorero, ahakoa he kupu, he kīanga pea ka kōrerohia tonu e ia. Ko te mahi i tēnei wā he mārietanga me te hononga, ka kawea ki te wāhi e okioki ana te tangata.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Tākaro i ana waiata pai** i te reo mārie, kaua e whakararu te pouaka whakaata.
+2. **Hoatu he tāra ringa mārie** ki tētahi rongoā kakara e pai ana ki a ia.
+3. **Hoatu he mea māmā hei pupuri:** he kōwaru mahana, he rēpea, he kōhatu maeneene.
+4. **Pānuihia ki a ia** he karakia, he whakaahua, he kōrero tawhito e mōhiotia ana. Ko te rerenga o te reo he mea nui atu i te tikanga.
+5. **Noho ki waho** i te taumarumarutanga, te mata whenua, te wāhi matapihi e kitea ai ngā manu.
+6. **Titiro tahi ki tētahi whakaahua nui.** He hāwea, he kurī e kapi ana i te mata pūrere, ā, kōrerohia he aha tāu e kite ana.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Ētahi atu whakaaro: [ngā mahi o te wāhanga whakamutunga](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Ko ēhea ngā tākaro e pai ana mō tētahi e Alzheimer's?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Kōwhiria ngā tākaro e kore ai e hē ana te tangata. He koreutu katoa ngā tākaro o tēnei paetukutuku, ka rere i te paraukau, kāore he wā, he kaute, he rēhitatanga.
 
-| Game | What you do | Often suits |
+| Tākaro | Me pēhea | He pai ki |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Ngā whakaahua ōrite](/games/picture-pairs/) | Hāngaihia ngā whakaahua nui; ka taea te waiho kia kitea | Wāhanga moata me te waenga |
+| [Kimihia te ōrite](/games/find-the-same/) | Pāwhiritia te whakaahua e ōrite ana ki tērā kei runga | Wāhanga waenga me te whakamutunga, me te āwhina |
+| [Whakaotia te whakataukī](/games/finish-the-saying/) | Kōwhiria te kupu whakamutunga o tētahi whakataukī mōhio, kia whakaaturia rānei | Wāhanga moata me te waenga |
+| [Tauwhiro whakaahua](/games/picture-puzzle/) | Whakahokia ngā tāpātahi 4 me 9 ki tō rātou wāhi, ka whakaatuhia te whakaahua | Wāhanga moata me te waenga |
+| [Kāri kōrerorero](/games/conversation-cards/) | He whakaahua me tētahi pātai hātepe hei kōrero | Ko ngā wāhanga katoa, me tētahi hei kōrerorero |
+| [Photo pairs](/games/photo-pairs/) | He tākaro ōrite i hangaia mai i ō whakaahua | Wāhanga moata me te waenga |
+| [Tae](/games/coloring/) | Pāwhiria he tae, ka pāwhiria tētahi wāhanga o te whakaahua; ka taea hoki te tā | Ko ngā wāhanga katoa, me te āwhina |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Mō te noho tahi, mō te nui o te āwhina me te wā e mutu ai, pānuihia [te tākaro tahi me tētahi e mate wareware ana](/caregiving/how-to-play-together/). Mēnā e whakaaro ana koe mō ngā "tākaro maharatanga", titiro ki [ngā tākaro maharatanga mō ngā kaumātua mate wareware](/activities/memory-games/).
 
-## How to make any activity easier
+## Me pēhea e māmā ai tētahi mahi
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Ko te tohutohu a te NIA he ture ngāwari: rite te mahi ki ngā mea e taea e te tangata, āwhinatia ia kia tīmata, mātakitakina te pōrearea, kia angitu ai ia, ā, waiho kia mātakitaki noa anake mēnā koia tāna e pai ana.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Kōwhiria te wā o te rā e pai rawa ana ia,** ā, māmā tonu ngā wā.
+- **Whakaritea ngā mea katoa i mua** kia tīmata koe i te wā tonu.
+- **Tono, kaua e whakahau.** “Ka pai pea ki a koe te āwhina i ahau?” he pai ake i “Me mahi tātou i tētahi mahi.”
+- **Mahia te tīmatanga ā-koe** ka uru mai ia.
+- **Hoatu tētahi mahi, tētahi kōwhiringa ia wā.**
+- **Waiho kia mahia i tana ara.** Ko ngā tāwera kōpiko he pai.
+- **Whakamutua i te wā e pai tonu ana.** Ko te mutu moata he hua pai, kaua he hinganga. Mēnā ka whakakahore ia, titiro ki [te mea ina kī mai te tangata mate wareware kāore](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+Ko te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e kī māmā ana: arohia te harikoa, kaua te whakatutuki.
+

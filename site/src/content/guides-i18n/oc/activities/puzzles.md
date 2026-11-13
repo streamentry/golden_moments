@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzles per las personas amb demència"
+seoTitle: "Puzzles per la demència: pèças gròssas e mots cachats"
+description: "Cossí causir un puzzle, un jòc de mots o un puzzle en linha per una persona amb demència: talha de las pèças, imatges, letra grossa e quand o far mai simple."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Lo melhor puzzle per una persona amb demència es un que pòt acabar amb un pauc
+  d'ajuda e que li plai al long del camin. Causissètz de puzzles amb mens de
+  pèças mas mai gròssas e una imatge adulta clara, gardatz la tapa de la bòfa a
+  la vista, e triatz primièr los bòrds. Los mots cachats e los mots cruzats
+  marchan melhor en letra grossa. Los puzzles en linha simples amb quatre pèças
+  convènon a l'estadi mejan. Arrestatz quand es encara plasent.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Causissètz segon çò que se passa, pas segon una etiqueta d'estadi : se un puzzle sembla un trabalh, ensajatz-ne un amb mens de pèças."
+  - "Las pèças gròssas e fòrtas e una imatge clara amb de zonas de color distintas son mai aisidas que de pèças minusculas e de cèls vastes."
+  - "Las imatges d'adults comptan. Jardins, cosinas, veituras e animals, pas de dessenhs animats."
+  - "Lo fin es de far ensemble. Balhatz de pèças, triatz los bòrds, gardatz la tapa de la bòfa a la vista."
+  - "Los mots cachats en letra grossa e los puzzles en linha amb 4 o 9 pèças son gratuits sus aqueste site."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Quant de pèças son las melhoras per una persona amb demència?"
+    a: "I a pas de nombre just. Qui a fach de puzzles de 1 000 pèças pòt encara aprecar qualques centenas al començament, mentre que d'autras son melhor amb una dotzena de pèças gròssas. Se un puzzle sembla un trabalh o provòca de la frustracion, passatz a mens de pèças. Nòstre puzzle d'imatges en linha a 4 o 9 pèças."
+  - q: "Los puzzles de pèças son bons per las personas amb demència?"
+    a: "Mantuns los aiman, subretot s'aiman los puzzles abans. Un puzzle balha a las mans quicòm a far, un objectiu clar e una imatge per parlar. Degun puzzle a pas demostrat de tractar o d'alentir la demència, donc causissètz-los per lo plaser e la companhia."
+  - q: "Que far quand una persona pòt pas mai menar un puzzle de pèças?"
+    a: "Lo far mai pichon e far-ne una part vos mesme : balhatz una pèça a la fes, o laissatz-lor sonque las darrièras pèças. Ensajatz un puzzle en linha a 4 pèças, triar las pèças per color, o agachar simplament la imatge acabada ensemble."
+  - q: "Los mots cruzats e los mots cachats convènon a la demència?"
+    a: "Pòdon convenir a l'estadi precòç, en letra grossa. Los mots cachats amb de mots sonque en orizontal e en vertical son mai aisits que los que an de mots en diagonala o a l'envèrs. Legissètz las pistas o la lista de mots a naut e trabalhatz ensemble."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Un puzzle estendut sus la taula de manjar es una de las activitats las mai aisidas de partejar. Podètz èstre assetats ensemble sens aver besonh de parlar, la imatge balha quicòm de conversar, e metre la darrièra pèça fa plaser. Los puzzles an pr'aquò besonh de cambiar a mesura que la demència cambia. Un puzzle tròp dur pòt transformar una tarda calma en una tarda frustrenta. Aquesta pagina cobrís cossí causir e installar de jòcs de pèças, de jòcs de mots e de puzzles en linha simples, e çò que far quand devenon dificils.
 
-## Are puzzles good for people with dementia?
+## Los puzzles son bons per las personas amb demència?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Mantuns los aprecian, subretot aquelas que los fasián abans. L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mena los mots cachats, los jòcs de cartas e de tabla entre las activitats per l'estadi precòç, e la [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menciona los jòcs e los puzzles en linha sus tablètas coma un biais de restar engatjat.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Los puzzles son pas un tractament. Degun puzzle a pas demostrat de frenar o d'arrestar la demència ; nòstra guida sus [los jòcs de cervèl e la demència](/brain-health/brain-games/) explica la recèrca. La rason de far un puzzle es qu'es una ora agradiva e absorbenta ensemble. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) lo resumís : se concentrar sul plaser, pas sus la reüssida.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Cossí causir un puzzle de pèças per una persona amb demència?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Basatz-vos sus çò que la persona aima e sus cossí s'es passat l'darrièr puzzle, pas sus una etiqueta d'estadi.
 
-### Number of pieces
+### Nombre de pèças
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+I a pas de nombre just. Una persona que fa de puzzles tota sa vida pòt encara aprecar qualques centenas de pèças al començament, mentre qu'una autra es melhor amb una dotzena. Una règla practica : se l'darrièr puzzle sembla un trabalh, causissètz-ne un amb a pauc près la mitat de las pèças. Se es estat acabat lèu e volián mai, anatz un pauc mai naut.
 
-### Piece size and feel
+### Talha e tocar de las pèças
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pèças mai gròssas** son mai aisidas de veire, de prene e de virar.
+- **Pèças espessas e fòrtas** demòran a plaça e resistisson a una caiguda.
+- **Un fin mat** redusís la reflexion jos de lampas e de fenèstras.
+- **Evitatz las pèças minusculas** se la persona pòt metre de causas dins la bocca, çò que arriba mai tard dins la demència.
 
-### The picture
+### La imatge
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Subjèctes adults.** Jardins, cosinas, veituras d'ancian temps, animals de granja, una vila de bòrd de mar, un esport preferit. Pas de dessenhs animats ni res que sembla una joguina d'enfant.
+- **Zonas de color distintas.** Una granja roja, un batèu blau e un prat verd son mai aisits qu'un cèl que ocupa la mitat del puzzle.
+- **Familiar e personal.** Una imatge d'un luòc ont visquèt o d'un passa-tems que aimava balha plan de quò de partejar. Qualques imprimeires pòdon transformar una fòto de familha en puzzle.
 
-## How do you do a puzzle together?
+## Cossí far un puzzle ensemble?
 
-Set it up so the person can get straight to the enjoyable part.
+Installatz-lo perque la persona puesca anar dreit a la part agradiva.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Triatz un bon endrech.** Una bona lum, una cadièra amb braces, e una taula o un plat ont lo puzzle pòt demorar.
+2. **Pausatz la tapa de la bòfa** ont podètz veire lo dui.
+3. **Virar las pèças cara amont** abans de començar.
+4. **Triatz los bòrds** vos mesme, o fasètz lo contorn primièr e laissatz lo mitan a la persona.
+5. **Amuntegatz las pèças per color** dins qualques plats o plats pichons.
+6. **Balhatz una pèça a la fes** se la pila es aclapanta. « Crese qu'aquesta es part de la granja. »
+7. **Parlatz de la imatge,** pas de l'avançament. « Sembla lo batèu que lo meu papà aviá. »
+8. **Laissatz-lo sus la taula.** Tornatz-hi al long de qualques jorns. Pas res de pressat.
+9. **Arrestatz sus una bona nòta,** après una pèça plaçada, quand encara es agradiu.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) conselha d'ajudar la persona a començar, de guaitar la frustracion e de la laissar simplament agachar se aquò li plai mai. Agachar vos metre las pèças e indicar on una pòt anar es encara prendre part.
 
-## Easy online puzzles
+## Puzzles en linha simples
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Un puzzle sus tablèta a qualques avantatges reals : pas de pèças perdudas, de gròssas imatges que emplenan l'ecran, e pas de taula a desbarrassar.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Nòstre [Puzzle d'imatges](/games/picture-puzzle/) gratuit talha una imatge en 4 o 9 pèças. Tocatz dos pèças per las cambiar fins que la imatge siá entièra. La imatge completa demòra sus l'ecran coma guida, i a pas de cronòmetre, e podètz arrestar en tot moment. Quatre pèças convènon a mantuns de personas a l'estadi mejan amb algú a costat.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Per un jòc d'imatges encara mai simple, ensajatz [Trobar lo meteis](/games/find-the-same/), ont tocatz l'imatge que correspond a una d'en naut, o [Triar ensemble](/games/sort-together/), ont las imatges van dins de cabàs coma la cosina o lo jardin.
 
-## Word puzzles: word searches and crosswords
+## Jòcs de mots : mots cachats e mots cruzats
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Los jòcs de mots convènon a las personas que los aimavan totjorn, generalament mai abans dins la demència.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Mots cachats en letra grossa.** Nòstre [Mots cachats](/games/word-search/) gratuit utiliza de letras grossas e sonque qualques mots, en orizontal e en vertical, jamai en diagonala ni a l'envèrs. Jogatz-lo sus l'ecran o imprimissètz-lo.
+- **Legir la lista a naut.** Una persona ditz un mot, l'autra lo cèrca. Cerclar sonque la primièra letra es plan.
+- **Mots cruzats en letra grossa** dins de libres de jòcs pòdon marchar a l'estadi precòç. Legissètz las pistas a naut, partejatz l'estilò e emplenatz las responsas ensemble. Los mots cruzats aisits e a tèma valon mai que los enigmatics.
+- **Parlatz dels mots.** « Jardin » pòt menar a dètz minutas sus las tomatas.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Per mai d'activitats de paper e per las imprimir de faiçon que siá facil de veire e de tenir, vejatz [imprimits gratuits per la demència](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Quins puzzles convènon a cada estadi?
 
-Stages overlap, and good and hard days are normal.
+Los estadis se recobrisson, e las bonas e las dificilas jornadas son normalas.
 
-| Stage | Puzzles that often fit | Your role |
+| Estadi | Puzzles que convènon sovent | Vòstre ròtle |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Precòç | Puzzles familiars amb mens de pèças qu'abans, mots cruzats e mots cachats en letra grossa, puzzles en linha de 9 pèças | Companh : la persona causís, vos l'ajudatz quand o demanda |
+| Mejan | Puzzles amb una dotzena de pèças gròssas, puzzles en linha de 4 pèças, mots cachats legits a naut ensemble | Preparar, triar las pèças, balhar una a la fes |
+| Avançat | Agachar ensemble una imatge acabada, Trobar lo meteis amb doas imatges, manejar qualques pèças gròssas | Portatz-lo-li ; vòstra companha es l'activitat |
 
-## When should you make a puzzle easier, or stop?
+## Quand far un puzzle mai simple, o l'arrestar?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Agachatz los sospirs, las pèças repulsadas, lo « Pòdi pas » repetit o los uèlhs inquiets. Son de signes per cambiar quicòm, pas per insistir.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Lo far mai pichon.** Mens de pèças, o laissar sonque las darrièras per ela.
+- **Far-ne mai vos mesme** e l'invitar a ajudar sus las parts facilas.
+- **Cambiar per quicòm a costat** : triar las pèças per color, un puzzle en linha de 4 pèças, o [colorejar](/games/coloring/).
+- **Arrestar.** Metètz-lo de costat e beguètz un cafè. Podètz tornar un altre jorn, o pas jamai.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Se los puzzles semblan un rapèl de çò qu'es dur, es plan de los daissar. I a de mantuns autres biais de passar de bons moments ensemble ; nòstra [lista de 101 idèas d'activitats](/activities/ideas/) es un bon lòc per cercar.
