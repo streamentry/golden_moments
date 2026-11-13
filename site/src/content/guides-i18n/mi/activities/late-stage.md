@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Ngā Mahi mō te Wāhanga Whakamutunga o te Mate Wareware, tae atu ki te Moenga me te Nohoanga"
+seoTitle: "Mahi Wāhanga Whakamutunga o te Wareware: Whakaaro Moenga, Nohoanga"
+description: "Ngā mahi ngāwari mō te wāhanga whakamutunga o te mate wareware, tae atu ki te tangata kei te moenga, kei te nohoanga: waiata, pā, pānui, oro, me te noho tahi."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  I te wāhanga whakamutunga o te mate wareware, he kaha ki ngā whatimanawa me tō
+  noho tata: te tākaro waiata pai, te pupuri ringa, te miri ngāwari, te pānui
+  ki te reo, te titiro whakaahua, ngā oro o te taiao, me te noho ki te matapihi
+  rānei, ki waho rānei. Ka pai ēnei i te moenga, i te nohoanga. Whakapoto ngā
+  wā, mātakitakina ngā kanohi me ngā ringa mō te mārie, ā, kia mōhio he noho
+  tahi tonu te mahi.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ka taea tonu te whakapiri. I te wāhanga whakamutunga, ka mōhio te tangata ki te ao mā ngā whatimanawa."
+  - "Te waiata, te pā ngāwari, ngā reo mōhio me ngā mea māmā hei pupuri, he mea ka tae ki te tangata ina kore e tae ngā kupu."
+  - "Ka pai te nuinga o ngā whakaaro i konei ki te tangata kei te moenga, kei te nohoanga."
+  - "Mātakitakina te mārie me te raruraru i te kanohi, i ngā ringa, i te manawa, ā, whakamutua ina kitea te mamae."
+  - "Kaua e hoatu ngā taonga iti, ā, hoatu kai, wai rānei anake i ngā tohutohu a te tira tiaki."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "He aha ngā mahi ka taea e koe te mahi me tētahi e mate wareware ana i te wāhanga whakamutunga, kei te moenga ia?"
+    a: "Tākaro i tana waiata pai, pupuri i tōna ringa, miria tōna ringa ki te hinu iti, pānuihia he kōrero, he pukapuka rānei e aroha ana ia, whakaatua he whakaahua, tākaro oro o te taiao rānei. Whakatuwheratia ngā kākaho kia kite ia i waho. He pai ngā mahi poto, mārie, kotahi te mea i te wā kotahi."
+  - q: "Ka taea tonu e te tangata i te wāhanga whakamutunga te hari ki te waiata?"
+    a: "Ka taea e te nuinga. E kī te Alzheimer's Association ka taea e te tangata te pātōtō i te rūpeke, te waiata rānei ki tētahi waiata o tōna tamarikitanga, ahakoa i te wāhanga whakamutunga. Kōwhiria ngā waiata i aroha ai ia i ōna tau tamariki, ā, whakaitia te reo."
+  - q: "Me pēhea e mōhio ai ahau kei te pai te tangata ki te mahi?"
+    a: "Titiro ki ngā tohu iti: ngā uma kore pēhanga, he mata māmā, te titiro ki a koe, te waiata iti, te pēhi ringa, te manawa puhoi. Ko te kanohi kūkume, te huri atu, te nekeneke ohotata, te aue rānei he tohu mamae pea. Ki te kitea ēnei, whakamutua, kōrerotia ki te rōpū tiaki mēnā ka roa."
+  - q: "He pai tonu te toro mēnā kāore e mōhio ana ia ki a koe?"
+    a: "Āe. E kī te National Institute on Aging he pai te noho tata, ka mārie te tangata, ā, ka taea e te pā, te waiata me ngā kōrero te whakamārie i te wareware nui. Ka mōhio pea tō reo, tō pā ahakoa kāore tō ingoa e mōhio ana ia."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+I te wāhanga whakamutunga o te mate wareware, he iti noa te kōrero a te tangata, he āwhina katoa ia i ngā mahi o ia rā, ā, he nui tōna wā i te moenga, i te nohoanga rānei. Ka rite pea ki te mea kāore he mea hei mahi tahi. Engari he mea kē. E kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) he wāhi o te tangata kei te mau tonu, ā, i tēnei wāhanga, ka mōhio te ao ki a ia mā ngā whatimanawa. Ko te waiata, te pā, te reo mōhio me tō noho mārie ka taea tonu te whakamārie me ngā wā whakapiri.
 
-## What activities help in late-stage dementia?
+## He aha ngā mahi e āwhina ana i te wāhanga whakamutunga o te wareware?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+He mahi whatimanawa māmā me te noho mārie ngā mea e pai rawa ana i te wāhanga whakamutunga. E kī te Alzheimer's Association me tākaro i ngā waiata pai, me pānui i ngā wāhanga o ngā pukapuka whai take, me miri i te hinu me te kakara pai ki te kiri, me noho ki waho tahi i te rā pai. E tāpiri ana te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) i te kōrero pūrākau, te whakaatu whakaahua, te pā māmā, te miri, te waiata, te oro ngāwari o te taiao, ā, e kī ana he mārie noa tō tōrunga.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+Ko te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e kī ana he hiahia kaha tā te tangata i te wāhanga whakamutunga ki te pupuri i tētahi mea ki tōna ngākau mō te mārie, ā, e whakaaro ana he mahi whatimanawa māmā, he whakanekeneke ngāwari, he kōrero waiata, he taiwhanga kararehe, he pā tangata, he toi kōrero hoki.
 
-## Activities for someone in bed or a chair
+## Ngā mahi mō te tangata kei te moenga, kei te nohoanga
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Tākaro i āna waiata.** Kōwhiria ngā waiata o tōna wā taiohi, tōna whakapono, tōna whānau. Whakaitia te reo, noho tata. Ahakoa i konei, he tangata e tutū tōna maihao, e hum rānei. Titiro ki [ngā mahi waiata](/activities/music/).
+2. **Pupuri ringa.** Ko te pupuri ringa, me te nekeneke māmā o te matikoke, he mahi tērā. Kīa atu tāu e mahi ana i mua.
+3. **Miri ringa puhoi.** Whakamahanatia he hinu iti ki ō ringa, ka rere mai i te kōkōrō ki ngā maihao. Kōwhiria te hinu kore kakara, mēnā ka pai tana kiri ki tētahi kakara i aroha ai ia.
+4. **Pānui ā-waha.** He pehepehe pai, he wāhanga o tētahi pukapuka pai, he karakia, he pānuitanga kaupapa hākinakina rānei. Ko te reo o tō reo he nui ake te whai take i ngā kupu.
+5. **Kōrero pūrākau.** Kōrerotia tētahi haerenga whānau, te rā i marenatia ai ia. Kāore e hiahiatia he whakautu.
+6. **Whakaatua ngā whakaahua.** Pupuria tētahi whakaahua nui i te wā, ki te taumata kanohi, ā, whakamārama mārie. Kaua e pātai ko wai tērā.
+7. **Hoatu he mea māmā hei pupuri.** He mahi horoi kākahu kua pōkia, he tōwera huruhuru, he kararehe māmā. Ka kī te NIA me hoatu he tōwera horoi ki te tangata hei pupuri i a ia e nekehia ana, kia iti ai te hopu ki a koe, ki ngā taonga rānei.
+8. **Tākaro oro o te taiao.** Te ua, ngā ngaru, te waiata a ngā manu i te oro iti ka whakamāmā i te rūma haruru.
+9. **Kawea mai te ao ki roto.** Whakatuwheratia ngā kākaho, whakatakotoria he kōpu manu ki waho o te matapihi, kawea mai he rau, he puāwai hou hei titiro, hei pā.
+10. **Haere ki waho.** Mēnā ka taea e te tangata te noho i te tūru pākahu, he hāora poto i te whāriki i te rā mārie he mea ātaahua.
+11. **Tahi he makawe, tuku he horoi mahana.** Te tahi māringa, te horoi mahana mō ngā ringa me te kanohi he mahi atawhai.
+12. **Nekeneke māmā ki te waiata.** Whakaarahia he kakahu rāwhiti māmā tahi, he kōwhiowhio ringa i runga i te waiata. Mō ngā toronga me ngā hononga, tonoa he kaimahi tinana, he kaitiaki rānei kia whakaatu i ngā huarahi haumaru i mua.
+13. **Hanga toi ā-kōrero.** Tātā i te peita kore paitini ki te pepa nui me te kainga, ko tō ringa e ārahi ana. Kāore he hua tika.
+14. **Manaakitia ngā manuhiri kararehe.** He kararehe mārie ki runga moenga, ki runga kākahu, mēnā i aroha te tangata ki ngā kararehe, ā, ka whakaaetia e te wāhi.
+15. **Hā ngāwari tahi.** Noho tata, hā ngāwari, ā, he kōhuri iti hoki. [Hā mārie](/games/calm-breathing/) ka taea te whakarite i a koutou, ā, ko koe te tīmata, te mutu.
+16. **Noho noa.** Noho tata, waiata iti, pani rānei, pānui mārie rānei. Ko tō noho tata anake he mea nui.
 
-## How to share an activity at this stage
+## Me pēhea te whakapaipai i tētahi mahi i tēnei wāhanga
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Tata mai i te mua.** Kīa tō ingoa me tō ingoa, kōrero puhoi, mārie i mua i te pā.
+- **Tuku kotahi mea i te wā.** Whakakāhoretia te pouaka whakaata i mua i te tākaro waiata. Kotahi āhua i te wā.
+- **Kia poto.** He meneti maha te nui. He pai ake ngā wā poto maha i te rā i tētahi wā roa kotahi.
+- **Whakarite tōna mārie tuatahi.** Me whai tautoko pai te tangata. E kī te NIA he papa rūma hei okioki i ngā ringa, hei tautoko i te tinana runga i te nohoanga.
+- **Mātakitaki te urupare.** Ko ngā ringa mārie, te kanohi māmā, te titiro ki a koe, te waiata iti ngā tohu mārie. E kī te NIA ko te aue, te kanohi kūkume, te tiaki i tētahi wāhanga o te tinana, te oho ohotata tūturu, he tohu mamae pea. Whakamutua, kōrerohia ki te rōpū tiaki.
 
-## A quick guide by sense
+## Tētahi arataki poto mā ia whatimanawa
 
-| Sense | Ideas | Take care |
+| Whatimanawa | Ngā whakaaro | Me aro mai |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Rongo | Ngā waiata pai, tō reo e pānui ana, ngā oro o te taiao | Whakaitia te reo; kotahi oro i te wā |
+| Pā | Te miri ringa, te pupuri ringa, te kakahu māmā, te horoi mahana | Pātai, kī atu i mua; tirohia kaua te kiri e mamae, e pakaru rānei |
+| Kanohi | Ngā whakaahua, ngā puāwai, te tirohanga mai i te matapihi, he ataata taiao puhoi | Whakapiki ngā taonga ki te taumata kanohi; he rama pai, kaua e kōhiko |
+| Kakara | He hinu pai, he puāwai hou, he kawhe e tunu ana tata | Karohia ngā kakara kaha; tirohia ngā mate ā-kai me te manawa |
+| Reka | He iti o tētahi reka pai | Ko ngā kai, ngā momo anake e kī ai te tira tiaki he haumaru |
 
-## Safety at this stage
+## Te haumaru i tēnei wāhanga
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Ka taea te uaua te horo i te wāhanga whakamutunga, ā, e kī te NIA he tūraru tēnei mō te whakatārewa. Kaua e waiho he taonga iti ki te tata, ā, hoatu anake he kai, he wai i ngā momo me ngā tūranga e whakaaro ana te tira tiaki. Tirohia te kiri mārie i ngā mahi pā, nā te mea he māmā te haehae, te pōhiti o te kiri. Mō ētahi atu whakaaro pā haumaru, titiro ki [ngā mahi ā-rongo](/activities/sensory/).
 
-## Looking after yourself too
+## Tiakina anō a koe
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+He uaua te tiaki i te wāhanga whakamutunga, ahakoa i te kāinga, ahakoa i ngā toro ki te whare maumahara. Ka āwhina ngā rōpū o te manaaki me te tiaki mārie, ā, e kī te NIA he puna āwhina ēnei. He pai ngā toro poto, mārie; titiro ki [toro ki tētahi kei te mate wareware](/activities/visiting/). Mēnā kei te arataki koe i ngā rōpū, he whakaaro mō te urutau i ngā hui kei [ngā mahi rōpū o te whare kaumātua](/activities/care-home-groups/). Tēnā, pānuihia [te tiaki i a koe anō](/caregiving/caregiver-self-care/): he wāhi nui te okiokinga ki te tiaki pai.
