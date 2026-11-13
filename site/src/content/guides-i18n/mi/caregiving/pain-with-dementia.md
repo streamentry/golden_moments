@@ -54,7 +54,7 @@ Pātai i tētahi pātai ngāwari, ka tatari. Ka tohu pea te tangata, ka whakaatu
 
 ## He aha ngā panoni hei tirotiro?
 
-Titiro ki ngā panoni mai i te tikanga noa o te tangata i te kanohi, i te nekeneke, i ngā mahi ia rā. Akene ka kōkiri ia, ka pōhēhē, ka tangi, ka tiaki i tētahi wāhanga tinana, ka nekeneke iti ake, ka moe rerekē, ka iti ake tana hiahia ki te kai. Ka tino noho puku pea ia, ka pōrangi, ka tino pōkai rānei.
+Titiro ki ngā panoni mai i te tikanga noa o te tangata i te kanohi, i te nekeneke, i ngā mahi ia rā. Akene ka kōkiri ia, ka pōhēhē, ka tangi, ka tiaki i tētahi wāhanga tinana, ka nekeneke iti ake, ka moe rerekē, ka iti ake tana hiahia ki te kai. Ka tino noho puku pea ia, ka pukuriri, ka kore e whakatā rānei.
 
 Kāore tētahi o ēnei tohu e whakaatu he mamae kei te tangata. He maha ngā take. Ko te whakakahore i te kai he hononga pea ki te mamae o te mangai, engari he whakamārama anō pea tōna. Whakaatuhia ā-kōrero ki te takuta, ki te nēehi, ā, waiho kia aromātai rātou i te take.
 

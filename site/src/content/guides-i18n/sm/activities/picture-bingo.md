@@ -38,7 +38,7 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-O le bingo o se taaloga faigofie ma sosiale mo le toatele o tagata matutua, ae e faigata ona mulimuli i numera mo se tagata o loo ola ma le dementia. Bingo ata e tumau ai le faasologa malie, ma suia numera i ata tetele ma manino. E galue i le fale, i se polokalame i aso uma, po i se fale tausi. O lenei aratohi e faamatala pe faafefea ona taalo, pe faafefea ona faafetaiai ai, ma pe faafefea ona tumau le taulaga i le fiafiaga.
+O le bingo o se taaloga faigofie ma sosiale mo le toatele o tagata matutua, ae e faigata ona mulimuli i numera mo se tagata o loo ola ma le dementia. Bingo ata e tumau ai le faasologa malie, ma suia numera i ata tetele ma manino. E galue i le fale, i se polokalame i aso uma, po i se fale tausi. O lenei aratohi e faamatala pe faafefea ona taalo, pe faafefea ona faatautaia ai, ma pe faafefea ona tumau le fiafiaga.
 
 ## Auala e galue ai bingo ata
 

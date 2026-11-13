@@ -7,18 +7,18 @@ order: 27
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Fesili manatu e valaau ai le tagata e talanoa e uiga i lona olaga ua mavae, i se auala malie ma tatala: Ia e tala mai le fale na e tupu ai, ae le E te manatua le nofoaga na e nofo ai? Faaoga ni fesili laiti e faavae i autu, mulimuli i le tagata, ma fiafia i le tala e ui lava e eseese faamatalaga. Aua lava le fesili mo se tali saʻo, aua le suega. Autu e pei o le fale, galuega, meaai, musika, aso malolo ma le aiga e fesoasoani e amata ai talanoa.
+  Fesili manatu e valaau ai le tagata e talanoa e uiga i lona olaga ua mavae, i se auala malie ma tatala: Ia e tala mai le fale na e tupu ai, ae le E te manatua le nofoaga na e nofo ai? Faaoga ni fesili laiti e faavae i autu, mulimuli i le tagata, ma fiafia i le tala e ui lava e eseese faamatalaga. Aua lava le fesili mo se tali sa'o, aua le suega. Autu e pei o le fale, galuega, meaai, musika, aso malolo ma le aiga e fesoasoani e amata ai talanoa.
 keyPoints:
   - "Fesili tatala e pei o 'Ia e tala mai...' po o 'O le a le mea...?', nai lo fesili e ioe pe leai po o le sa'o pe sese."
   - "Aua lava le fesili e suega ai, e pei o 'E te manatua...?' po 'O ai lena?'. O nei fesili e mafai ona lagona e pei o se suega ma mafua ai le faanoanoa."
   - "Mulimuli i tala a le tagata, e ui lava e suia faamatalaga. O le lagona ma le faasoa e sili atu nai lo faamatalaga."
-  - "Amata i se fesili e tasi, ma faoga se ata, se manogi po se pese e amata ai le talanoa."
+  - "Amata i se fesili e tasi, ma faaoga se ata, se manogi po se pese e amata ai le talanoa."
   - "Afai o se manatu e faanoanoa po o le tagata e faanoanoa, suia le autu malie ma toe foi i se mea e sili atu le fiafia."
 faq:
   - q: "O fesili manatu lelei fea mo tagata e ola ma le dementia?"
     a: "E sili ona lelei fesili tatala: Ia e tala mai le nofoaga na e tupu ai, O le a le mea na e fiafia ai e taumafa, O le pese fea na e siva ai pe a laiti oe, po O le a le tulaga o se aso malolo pe a laiti oe. E tele na faavae i se tala, e le o se tali sa'o e tasi."
   - q: "O le a le eseesega i le manatu ma le suega?"
-    a: "O le manatu o se tala faasoa, e leai ni tali sese. O le suega o le fesili e manao ai se faamatalaga sa'o ma siaki ai. O le suega e mafai ona lagona e le tagata e pei o le faanoanoa po le mataʻutia, o lea ua tatau ai ona talanoa tatala ma vevela."
+    a: "O le manatu o se tala faasoa, e leai ni tali sese. O le suega o le fesili e manao ai se faamatalaga sa'o ma siaki ai. O le suega e mafai ona lagona e le tagata e pei o le faanoanoa po le mata'utia, o lea ua tatau ai ona talanoa tatala ma vevela."
   - q: "E faafefea pe a sese le manatu o le tagata i le taimi ua mavae?"
     a: "Ia malie i ai, pe a le o se mea e mafua ai le faanoanoa po le mata'utia. Aua le toe faasa'o aso po igoa. Fesili e faapea o le a le lagona ia te ia po o le mea o lona uiga ia te ia."
   - q: "E umi fea se taimi o le talanoa manatu?"

@@ -79,7 +79,7 @@ Mēnā ka whakaae te tangata, tukuna anake ngā mōhiotanga ka āwhina i te kai�
 
 ## He aha ngā tohu hei kōrero ki te tohunga niho?
 
-He uaua te whakamārama i te mamae o te mangai. Ko te kumea i te kanohi, te kāo ki te horoi, ngā panoni i te kai, te moe kōhete, he tohu pea enei, engari kāore he taunakitanga he raru niho. Kōrerohia ki te tohunga niho he aha tāu i kite ai, he aha te wā i tīmata ai. Ka titiro te tohunga niho mō te mamae, ngā raruraru kiko, te pirau o te niho, me ngā niho hanga kāore e noho pai ana.
+He uaua te whakamārama i te mamae o te mangai. Ko te kumea i te kanohi, te kāo ki te horoi, ngā panoni i te kai, te moe whakararu, he tohu pea enei, engari kāore he taunakitanga he raru niho. Kōrerohia ki te tohunga niho he aha tāu i kite ai, he aha te wā i tīmata ai. Ka titiro te tohunga niho mō te mamae, ngā raruraru kiko, te pirau o te niho, me ngā niho hanga kāore e noho pai ana.
 
 Mēnā he raru hou te ngau, te horomi, whakapā ki tō kaimahi hauora, ki tō tohunga niho rānei. Kaua e panoni i te momo kai, kaua e whakamahi i ngā rongoā waha, kaua hoki e ngana ki ngā tikanga horomi mai i tētahi tuhinga whānui. Rapua āwhina tere mō te mamae nui, te whakaheke toto, te pokenga, me tētahi atu raru hauora tere tonu.
 
