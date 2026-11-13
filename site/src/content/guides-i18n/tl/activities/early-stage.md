@@ -1,32 +1,28 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Mga Aktibidad para sa Dementia sa Maagang Yugto"
+seoTitle: "Aktibidad sa Maagang Yugto ng Dementia: Mga Ideyang Angkop"
+description: "Aktibidad para sa maagang yugto ng dementia: libangan, laro, lakad at magkasamang pagpaplano, na may maliliit na pagbabago para manatili ang tao sa kontrol."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Sa maagang yugto ng dementia, karamihan ng tao ay maaari pa ring gawin ang ikinasisiya nila: libangan, baraha at larong pisara, pagluluto, paghahalaman, paglalakad, grupo, pananampalataya at pagboboluntaryo. Ang pangunahing pagbabago ay mas maliliit na grupo, mas maikling lakad, simpleng nakasulat na plano at kasamang malapit. Itanong sa tao kung anong tulong ang gusto niya, at hayaan siyang mamuno.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Karamihan ng tao sa maagang yugto ay nabubuhay nang may malaking kalayaan. Kadalasang kailangang ayusin ang mga aktibidad, hindi palitan."
+  - "Itanong sa tao kung anong suporta ang gusto niya, at magkasundo sa simpleng senyales kung kailan malugod ang tulong."
+  - "Mas maliliit na grupo, tahimik na oras at mas maikling lakad ang kadalasang malaking tulong."
+  - "Magandang panahon ito para pangunahan ng tao ang mga proyekto tungkol sa sarili niyang buhay, gaya ng journal o aklat ng buhay."
+  - "Pumili ng laro para sa kasiyahan. Iwasan ang anumang nagsisimulang maging pagsusulit."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Anong aktibidad ang mabuti para sa maagang yugto ng dementia?"
+    a: "Kadalasan ang mga ikinasisiya na ng tao: baraha, larong pisara, pagluluto, paghahalaman, paglalakad, musika, gawaing pampananampalataya, grupo at pagboboluntaryo. Maaaring kailangang gawing mas maikli, mas tahimik o mas simple. Bagay din sa yugtong ito ang pagsusulat ng journal, liham at paggawa ng aklat ng buhay."
+  - q: "Paano ako makatutulong nang hindi ako ang namamahala sa lahat?"
+    a: "Itanong kung anong uri ng tulong ang gusto ng tao, at madalas na tingnan kung kumusta siya. Magkasundo sa isang salita o tango na nangangahulugang puwede ka nang sumingit, halimbawa kapag hindi maalala ang salita o pangalan. Kung walang panganib sa kaligtasan, hayaan siyang gawin ito sa sarili niyang paraan, kahit mas matagal."
+  - q: "Dapat bang subukan ng taong may maagang dementia ang mga bagong aktibidad?"
+    a: "Oo, kung gusto niya. Kadalasang pinakamadali ang mga pamilyar na libangan, ngunit maraming tao ang nasisiyahan sa bago, gaya ng lakad na pang-dementia, klase ng sining o grupong pang-awit. Subukan ito nang isang beses, nang walang presyon, at tingnan kung paano ito pakiramdam."
+  - q: "Sulit ba ang mga brain-training app sa maagang yugto?"
+    a: "May mga taong nasisiyahan sa mga puzzle at larong salita, at sapat na ang kasiyahang iyon. Walang app o laro na napatunayang nakagagamot, nakapagpapabagal o nakapipigil sa dementia. Kung nakaiistres ang isang laro o nararamdaman ng tao na nabibigo siya, itabi muna ito."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +44,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Sa maagang yugto ng dementia, marami pa ring tao ang namumuhay nang halos katulad ng dati. Maaaring nagtatrabaho sila, nagboboluntaryo, nakikipagkita sa mga kaibigan, at sila pa rin ang namamahala sa malaking bahagi ng kanilang araw. Kadalasang hindi kailangang palitan ang mga aktibidad; kailangan lang ng ilang pagbabago para manatiling kaaya-aya ang mga ito. Ang papel mo ay higit na katuwang kaysa tagapag-alaga: isang taong sumusuporta, nagpaplano kasama nila, at sumisingit lamang kapag hinihingi.
 
-## What activities are good in early-stage dementia?
+## Anong aktibidad ang mabuti sa maagang yugto ng dementia?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Kadalasan, ang pinakamabubuting aktibidad sa maagang yugto ay ang mga gusto na ng tao, bahagyang pinagaan. Inilista ng [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ang mga ideya gaya ng baraha at larong pisara, paghahanap ng salita, paglalakad, pagsayaw, paghahalaman, pag-aayos ng bulaklak, pagkukuwento, pagpipinta, musika, pagsusulat ng journal, pagsulat ng liham, pag-scrapbook, pagluluto at tradisyon sa kapaskuhan.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Kadalasang nagbabago ang kapaligiran, hindi ang aktibidad. Sinasabi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) na maaaring unti-unting umatras ang mga tao sa maagang yugto mula sa mga bagay na dati nilang ikinasisiya, at binanggit nito ang halimbawa ng taong nalulula sa malaking party ngunit mas nagiging maayos sa maliit na grupo. Pag-usapan nang hayagan kung ano ang nagiging mas mahirap, at mag-ayos nang magkasama.
 
-## Ask first, and agree on how to help
+## Magtanong muna, at magkasundo kung paano tutulong
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Iminumungkahi ng [gabay ng Alzheimer's Association sa maagang yugto](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ang ilang gawi na naaangkop din sa mga aktibidad:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Magtanong nang tuwiran.** "Ano ang makatutulong para mas madali ang book club para sa iyo?" ay mas magandang sagot kaysa manghula.
+- **Ipagpalagay na kaya nila.** Kung walang panganib sa kaligtasan, hayaang subukan ng tao, at magbigay ng pampalakas-loob sa halip na umako ng lahat.
+- **Magkasundo sa senyales.** Pumili ng salita o tango na nangangahulugang "puwede na akong sumingit," halimbawa kapag hindi maalala ang pangalan habang naglalaro ng baraha.
+- **Mag-check in nang regular.** Itanong kung tama ang dami ng tulong, sobra ba o kulang.
 
-## Activity ideas for the early stage
+## Mga ideya sa aktibidad para sa maagang yugto
 
-### Keep up roles and hobbies
+### Panatilihin ang mga papel at libangan
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Panatilihin ang regular na pangako.** Ang lingguhang shift sa pagboboluntaryo, koro o grupo ay nagbibigay ng hugis sa linggo. Kung nagiging nakaiistres, maaaring mas bagay ang mas maikli o mas tahimik na papel.
+- **Magplano ng pagkain nang magkasama.** Kung nakakabigo na ang pamimili ng groseri, iminumungkahi ng Alzheimer's Association na hilingin sa tao na tumulong magplano ng menu ng linggo at isulat ang listahan.
+- **Magluto at maghurno.** Sundin ang paboritong resipe nang magkasama. Ilatag muna ang mga sangkap ayon sa pagkakasunod bago magsimula, para nakikita ang mga hakbang.
+- **Mag-hardin.** Magplano ng kama, pumili ng binhi o halaman, at gawin ang trabaho nang magkasama. Nakatutulong ang nakasulat na listahan ng mga gawain sa hardin para sa linggo.
+- **Ituloy ang isang sining.** Ang paggawa ng kahoy, pananahi, pagniniting o paggawa ng model ay maaaring magpatuloy gamit ang mas simpleng pattern at magandang ilaw.
 
-### Games for enjoyment
+### Mga larong ikinasisiya
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Maglaro ng baraha at larong pisara.** Ang mga pamilyar na laro ang pinakamadali. Maglaro bilang magkakampi para walang taong nasa spotlight, at panatilihing maluwag ang pagbibilang ng puntos o huwag na lang gawin.
+- **Subukan ang paghahanap ng salita na malaki ang letra.** Maaaring laruin ang aming [paghahanap ng salita](/games/word-search/) sa screen, o i-print para sa tahimik na sandali.
+- **Gumawa ng jigsaw puzzle.** Pumili ng bilang ng piyesa na nakapagpapahinga, hindi nakahihirap. Ang [puzzle ng larawan](/games/picture-puzzle/) ay maikling bersyon sa screen, at tinatalakay ng aming gabay sa [mga puzzle para sa dementia](/activities/puzzles/) kung paano pumili.
+- **Sumali sa trivia para sa saya.** May ilang taong mahilig sa team trivia night. Kung nagiging pagsusulit na ito, pumili ng iba, o subukan ang aming [madaling tanong sa trivia](/activities/trivia/), na may mga pagpipilian sa sagot at walang marka.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Para sa kasiyahan lamang ang mga laro rito. Walang larong napatunayang nakagagamot o nakapagpapabagal ng dementia; basahin pa sa [mga larong pang-utak: ang sinasabi ng pananaliksik](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Sumulat, magnilay at magtala
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Magsulat ng journal.** Iminumungkahi ng Alzheimer's Association ang pagsusulat ng journal bilang isang paraan ng pagharap sa damdamin pagkatapos ng diagnosis. Ilang linya sa isang araw ay sapat na.
+- **Pangunahan ang aklat ng buhay.** Ang maagang yugto ay magandang panahon para pumili ang tao ng sarili niyang mga larawan at isulat, o idikta, ang mga kuwento sa likod nito. Tingnan ang [mga aktibidad sa pag-alala](/activities/reminiscence/).
+- **Sumulat ng liham.** Ang liham sa apo, matandang kaibigan o dating katrabaho ay maaaring maging makabuluhan para sa dalawang panig.
+- **Pag-usapan ang mga larawan.** Ginagawang banayad na larong pagtutugma ng mga larawan ng pamilya ang [mga pares ng larawan](/games/photo-pairs/), at nagbibigay ang [mga kard para sa usapan](/games/conversation-cards/) ng madaling panimulang usapan.
 
-### Go out and move
+### Lumabas at gumalaw
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Iminumungkahi ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) na ipagpatuloy ang mga pamilyar na paglabas hangga't komportable kayong dalawa. Planuhin ang mga ito sa pinakamagandang oras ng araw ng tao, at huwag hayaang tumagal nang sobra.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Maikling kultural na biyahe.** Museo, matinee o art exhibit, mas mainam sa mas tahimik na oras.
+- **Paglangoy.** Iminumungkahi ng NIA ang pool sa mabagal na oras ng araw.
+- **Grupo ng paglalakad at klase ng sayaw.** Binabanggit ng [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ang sayaw, tai chi, yoga, paglangoy at grupo ng paglalakad, at mga sesyong pang-dementia kung mayroon.
+- **Grupo ng awit at memory café.** Mga relaks na grupo kung saan maaaring makilala ng mga taong may dementia at ng kanilang kasama ang iba na nasa katulad na sitwasyon.
 
-## Small changes that keep activities enjoyable
+## Maliliit na pagbabagong nagpapanatiling masaya ang aktibidad
 
-| If this is getting harder | Try this |
+| Kung nagiging mas mahirap ito | Subukan ito |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Maingay o matataong lugar | Pumunta sa tahimik na oras, pumili ng mas maliit na grupo, umupo sa gilid ng silid |
+| Pag-alala sa mga bagong pangalan | Ipakilala ang mga tao sa pangalan sa bawat pagkakataon; hilingin sa grupo na magsuot ng name tag |
+| Pagsunod sa mga planong maraming hakbang | Isulat ang mga hakbang, o ilatag muna ang lahat ayon sa pagkakasunod |
+| Napapagod | Mas maikling lakad, pahinga pagkatapos, walang ibang plano sa araw na iyon |
+| Pagsubaybay ng puntos sa laro | Maglaro bilang magkakampi, pasimplehin ang tuntunin, o laktawan ang pagbibilang ng puntos |
+| Paghahanap ng mga salita | Magbigay ng oras; mag-alok ng salita lamang kung sinasabi ito ng napagkasunduang senyales |
 
-## When to slow down
+## Kailan dapat magpabagal?
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Huminto o palitan ang aktibidad kapag mas maraming stress kaysa tuwa ang dulot nito. Ang paulit-ulit na pagkabigo, pag-iwas sa dating libangan, o pagsasabing "Hindi ko na talaga kaya" ay karapat-dapat pag-usapan nang banayad, hindi pilitin. Kadalasan, ang sagot ay mas maliit na bersyon ng parehong bagay. Kapag kailangan ng tao ng mas maraming tulong sa pagsisimula at pagsunod sa mga hakbang, maaaring mas bagay ang mga ideya sa [mga aktibidad sa gitnang yugto](/activities/middle-stage/). Para sa higit pa tungkol sa mapagsuportang usapan, tingnan ang [mga tip sa komunikasyon](/caregiving/communication-tips/), at para sa maraming ideya pa, tingnan ang [101 aktibidad](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Kailangan din ng suporta ng mga katuwang. Ang maagang yugto ay magandang panahon para buuin ang sarili mong network ng tulong; tingnan ang [pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/).
