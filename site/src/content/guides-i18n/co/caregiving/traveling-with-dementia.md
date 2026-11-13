@@ -1,7 +1,7 @@
 ---
 title: "Viaghjà cù una persona chì campa cù a demenza"
 seoTitle: "Viaghjà cù a demenza: guida per i parenti"
-description: "Priparate un viaghju cù una persona chì campa cù a demenza: un caminu cunfortu, abitudine cunnisciute, bagaglii essenziali è un pianu di riserva simplice."
+description: "Priparate un viaghju cù una persona chì campa cù a demenza: caminu cunfortu, abitudine cunnisciute, bagaglii essenziali è un pianu di riserva."
 section: caregiving
 order: 11
 updated: 2026-11-11

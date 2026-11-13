@@ -64,7 +64,7 @@ Avvicinatevi induve a persona vi pò vede è parlate cù una voce calma è cunni
 - **S'ella pare spaventata o vi dumanda di parte,** fate un passu in daretu è date li spaziu. Ùn furzate micca un abbracciu, ùn insistite chì vi ricunnosca è ùn ripetite micca infurmazioni chì parenu turbà la.
 - **S'ella vi chjama cù un altru nome,** pudete presentà vi una volta senza fà ne una currezzione. S'ella firma à l'agio, passate à un sughjettu o à una attività ch'ella piace.
 
-[A guida di cumunicazione](/caregiving/communication-tips/) cunsiglia un linguaghju cortu è calmu è di evità e dumande per pruvà o e discussioni. Pruvate di ùn dumandà : «Vi ramentate quale socu ?». A dumanda pò parè una prova è pò ùn aiutà micca a persona à ricunnosce vi.
+[A guida di cumunicazione](/caregiving/communication-tips/) cunsiglia un linguaghju cortu è calmu è di evità e dumande per pruvà o e discussioni. Pruvate di ùn dumandà : «Vi ramentate quale socu?». A dumanda pò parè una prova è pò ùn aiutà micca a persona à ricunnosce vi.
 
 ## Un indiziu cunnisciutu pò aiutà?
 
@@ -83,7 +83,7 @@ S'a persona stà in una casa di cura o vede parechji aiutanti, dumandate à quel
 
 Nanzu una visita, decidite ciò chì vi pare fattibule dinù per voi. Pudete priparà una attività corta, purtà un album di foto o solu pusà vi inseme. S'a persona ùn pare micca sapè quale site, pudete sempre risponde à i so bisogni in quellu mumentu. Ùn fate micca dipende a visita da u fattu ch'ella dica u vostru nome.
 
-Hè capiscibule di sente si tristu, rifiutatu o frustratu. Parlate cù qualchissia di fiducia, un cunsigliere o un gruppu di sustegnu per quelli chì curanu una persona s'è st'sperienza vi pesa. A [guida nantu à a cura di sè per quelli chì curanu](/caregiving/caregiver-self-care/) include manere di dumandà sustegnu à l'altri.
+Hè capiscibule di sente si tristu, rifiutatu o frustratu. Parlate cù qualchissia di fiducia, un cunsigliere o un gruppu di sustegnu per quelli chì curanu una persona s'è st'esperienza vi pesa. A [guida nantu à a cura di sè per quelli chì curanu](/caregiving/caregiver-self-care/) include manere di dumandà sustegnu à l'altri.
 
 ## Quandu devu dumandà aiutu medicu?
 
