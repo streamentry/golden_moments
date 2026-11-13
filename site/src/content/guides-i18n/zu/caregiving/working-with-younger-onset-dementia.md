@@ -17,7 +17,7 @@ keyPoints:
   - "Buza ophethe abasebenzi (HR) noma umeluleki wezomsebenzi wasendaweni ngokufaneleka kwezinzuzo, izinsuku zokugcina nezinqubomgomo ezibhaliwe ngaphambi kokwenza ushintsho olukhulu."
 faq:
   - q: "Ingabe ukuxilongwa kwe-dementia kusho ukuthi kufanele ngiyeke ukusebenza?"
-    a: "Cha, akukho mphendulo eyodwa ekwanele bonke. Isinqumo sincike ezifisweni zakho, emsebenzini wakho,osizo olutholakalayo nanoma yiziphi izinkinga zokuphepha. Udokotela oyaqonda impilo yakho nemisebenzi yomsebenzi wakho angakusiza ucabange ngemibuzo ethintana nawe."
+    a: "Cha, akukho mphendulo eyodwa ekwanele bonke. Isinqumo sincike ezifisweni zakho, emsebenzini wakho, osizweni olutholakalayo nanoma yiziphi izinkinga zokuphepha. Udokotela oyaqonda impilo yakho nemisebenzi yomsebenzi wakho angakusiza ucabange ngemibuzo ethintana nawe."
   - q: "Ngingamtshela yini umqashi wami ngokuxilongwa kwe-dementia?"
     a: "Lokho kuncike esimweni sakho, ezimisweni zomsebenzi nohlobo lomsebenzi owenzayo. Hlola ikhontrakhthi yakho nezidingo zendawo, ikakhulukazi uma indima yakho ithinta ukuphepha kwabanye, bese ucabanga ukukhuluma nochwepheshe wezomsebenzi ngaphambi kokunquma ukuthi yini ozoyabelana ngayo."
   - q: "Yiziphi izinguquko emsebenzini ezingasiza?"
@@ -45,9 +45,9 @@ I-[Alzheimer's Association inikeza umhlahlandlela we-younger-onset Alzheimer's](
 
 ## Ingabe ukuxilongwa kusho ukuthi kufanele ngiyeke ukusebenza?
 
-Cha. Ukuxilongwa ngokwako akunquمنqumi ukuthi ungaqhubeka yini usebenza. I-[Alzheimer's Society ithi](https://www.alzheimers.org.uk/get-support/living-with-dementia/work-dementia) isinqumo sincike ezimweni zakho, emsebenzini wakho nasesimweni sakho somuntu siqu. Abanye baqhubeka endimeni efanayo, abanye bashintsha imisebenzi noma amahora, abanye bayeka umsebenzi.
+Cha. Ukuxilongwa ngokwako akunqumi ukuthi ungaqhubeka yini usebenza. I-[Alzheimer's Society ithi](https://www.alzheimers.org.uk/get-support/living-with-dementia/work-dementia) isinqumo sincike ezimweni zakho, emsebenzini wakho nasesimweni sakho somuntu siqu. Abanye baqhubeka endimeni efanayo, abanye bashintsha imisebenzi noma amahora, abanye bayeka umsebenzi.
 
-Cabanga ngalokho okusasebenza kahle nalokho okuye kwaba nzima. Ungaqopha imisebenzi evamile, lapho uzizwa unqabe noma ukhathazekile khona, nokuthi kukhona yini amaphutha noma izinkinga zokuphepha ezithile. Izibonelo ezinqala zingasiza wena nodokotela wakho ukuxoxa ngomsebenzi ngaphandle kokuguqula usuku olunzima lube isiphetho ngokukwazi kwakho.
+Cabanga ngalokho okusasebenza kahle nalokho okuye kwaba nzima. Ungaqopha imisebenzi evamile, lapho uzizwa unqabe noma ukhathazekile khona, nokuthi kukhona yini amaphutha noma izinkinga zokuphepha ezithile. Izibonelo ezicacile zingasiza wena nodokotela wakho ukuxoxa ngomsebenzi ngaphandle kokuguqula usuku olunzima lube isiphetho ngokukwazi kwakho.
 
 Ukuphepha nakho kubalulekile. Uma umsebenzi wakho ubandakanya ukushayela, ukusebenzisa imishini, ukunakekela abanye noma omunye umsebenzi onengozi, buza udokotela wakho ukuthi ingozi ihlolwa kanjani. Imithetho yendawo, izimiso zobungcweti nezivumelwano zomsebenzi nazo zingasebenza. Leli khasi alikwazi ukukutshela ukuthi indima ethile iphephile yini noma ukuthi umqashi wakho kufanele enze ini.
 
@@ -55,7 +55,7 @@ Ukuphepha nakho kubalulekile. Uma umsebenzi wakho ubandakanya ukushayela, ukuseb
 
 Chaza imisebenzi umsebenzi wakho ufaka nezinguquko ozibonile. Buza ukuthi inkinga yezempilo ingathinta umsebenzi othile yini, yiziphi izimpawu okufanele zikhombise ukuthi kufanele ufune usizo, nokuthi ingabe elinye ichwepheshe lingahlola umsebenzi othile. Ungafuna ukuletha umuntu omthembayo, kodwa nquma ndawonye ukuthi angakusekela kanjani ngaphandle kokukhuluma ngaphezu kwakho.
 
-I-[doctor-visit guide](/caregiving/doctor-visit-with-dementia/) inemibono yokulungiselela imibuzo namanothi. Ungacela udokotela wakho ukuthi achaze ukuthi yini angayihlola nokuthi yini edinga ukuhlolwa okwehlukile komsebenzi noma kwezempilo yomsebenzi. Umhlahlandlela jikelele we-dementia awukwazi ukuthatha indawo yokuhlolwa komuntu siqu kwezempilo nokuphepha.
+[Umhlahlandlela wokuvakashela udokotela](/caregiving/doctor-visit-with-dementia/) unemibono yokulungiselela imibuzo namanothi. Ungacela udokotela wakho ukuthi achaze ukuthi yini angayihlola nokuthi yini edinga ukuhlolwa okwehlukile komsebenzi noma kwezempilo yomsebenzi. Umhlahlandlela jikelele we-dementia awukwazi ukuthatha indawo yokuhlolwa komuntu siqu kwezempilo nokuphepha.
 
 ## Yiziphi izinguquko emsebenzini ezingasiza?
 
@@ -65,22 +65,22 @@ Bheka lezi njengemibono yokuxoxa ngayo, hhayi uhlu lokuhlola abaqashi bonke aban
 
 ## Ngingatshela umqashi wami yini?
 
-Wena unquma ukuthi yiluphi ulwazi lwakho oluqu olungabelwana ngalo, ngaphandle uma umthetho wendawo, ikhontrakhthi noma isidingo sokuphepha sisebenza endimeni yakho. Izidingo zihluka ngezwe, ngesifunda nangomsebenzi. Ngaphambi kokunquma, hlola ikhontrakhthi yakho, inqubomgomo yomsebenzi nomhlahlandlela wendawo. Uma ungaqiniseki, xoxa nomeluleki womsebenzi osemthethweni, unozabalazwe noma umthetheli owazi imithetho yendawo ohlala kuyo.
+Wena unquma ukuthi yiluphi ulwazi lwakho oluqu olungabelwana ngalo, ngaphandle uma umthetho wendawo, ikhontrakhthi noma isidingo sokuphepha sisebenza endimeni yakho. Izidingo zihluka ngezwe, ngesifunda nangomsebenzi. Ngaphambi kokunquma, hlola ikhontrakhthi yakho, inqubomgomo yomsebenzi nomhlahlandlela wendawo. Uma ungaqiniseki, xoxa nomeluleki womsebenzi osemthethweni, unozabalazwe noma ummeleli owazi imithetho yendawo ohlala kuyo.
 
-Uma unquma ukutshela umuntu, cabanga ngalokho ofuna ukuthi akwazi nosizo olucelayo. Ungathanda ukukhuluma kuqala nomphathi oyedwa othembekile noma othintana naye nge-HR. Buza ukuthi ulwazi lwakho luzophathwa kanjani nokuthi ubani ozolutholayo; ungacabangi ukuthi wonke amanzi omsebenzi anenqubo efanayo yobumfihlo.
+Uma unquma ukutshela umuntu, cabanga ngalokho ofuna ukuthi akwazi nosizo olucelayo. Ungathanda ukukhuluma kuqala nomphathi oyedwa othembekile noma othintana naye nge-HR. Buza ukuthi ulwazi lwakho luzophathwa kanjani nokuthi ubani ozolutholayo; ungacabangi ukuthi wonke umsebenzi unenqubo efanayo yobumfihlo.
 
-Eminye imisebenzi ibandakanya imisebenzi enengozi ephephile. Uma ungaqiniseki ukuthi kufanele yini ume noma ushintsha omunye wemisebenzi enjalo, xhumana nodokotela wakho nomeluleki womsebenzi osemthethweni wendawo ngokushesha. Ungathembeli esiqondisweni jikelele ukuze unqume ukuthi umsebenzi othile uphephile yini.
+Eminye imisebenzi ibandakanya imisebenzi enengozi ephephile. Uma ungaqiniseki ukuthi kufanele yini ume noma ushintshe omunye wemisebenzi enjalo, xhumana nodokotela wakho nomeluleki womsebenzi osemthethweni wendawo ngokushesha. Ungathembeli esiqondisweni jikelele ukuze unqume ukuthi umsebenzi othile uphephile yini.
 
 ## Yiziphi izinzuzo nezezimali okufanele ngizihlole?
 
 Ngaphambi kokushintsha amahora akho noma ukushiya, hlola izinzuzo ezitholakala ngomqashi wakho. Buza i-HR noma umphathi wezinzuzo mayelana nokushiya umsebenzi, usizo lokukhubazeka noma imali engenayo, ukumbozwa kwezempilo nezinsuku zokugcina. Cela imithetho yamanje ngokubhalile bese ugcina ikhophi yolwazi oluthola.
 
-Ukufaneleka, izintela nesikhathi kuncike kumqashi wakho, inqubomgomo yakho yomshwalense nendawo. I-[Alzheimer's Association inikeza iseluleko sokubuyekeza izinzuzo zomqashi nokugcina ukuqinisekiswa okubhalwe phansi](https://www.alz.org/help-support/i-have-alz/younger-onset). Ukuze uthathe isinqumo sakho, khuluma nomeluleki wezinzuzo noma wezezimali osemthethweni ongabuyekeza amadokhumenti asebenza kuwe. Gwema ukusayina noma ukuyeka ukumbozwa ngokusekelwe kuphela ku-athikili jikelele.
+Ukufaneleka, izintela nesikhathi kuncike kumqashi wakho, inqubomgomo yakho yomshwalense nendawo. I-[Alzheimer's Association inikeza iseluleko sokubuyekeza izinzuzo zomqashi nokugcina ukuqinisekiswa okubhalwe phansi](https://www.alz.org/help-support/i-have-alz/younger-onset). Ukuze uthathe isinqumo sakho, khuluma nomeluleki wezinzuzo noma wezezimali osemthethweni ongabuyekeza amadokhumenti asebenza kuwe. Gwema ukusayina noma ukuyeka ukumbozwa ngokusekelwe kuphela kwi-athikili jikelele.
 
-Umndeni wakho nawo ungathinteka ngenxa yoshintsho lwemali engenayo noma lwesikhathi. Uma uthanda, khuluma nabantu obathembayo ngalokho okubaluleke kakhulu nokuthi yiziphi izinketho ofuna ukuzihlola. I-[guide to first steps after a diagnosis](/caregiving/after-dementia-diagnosis/) ihlanganisa usizo olubanzi nemibuzo yokuhlela isikhathi esizayo.
+Umndeni wakho nawo ungathinteka ngenxa yoshintsho lwemali engenayo noma lwesikhathi. Uma uthanda, khuluma nabantu obathembayo ngalokho okubaluleke kakhulu nokuthi yiziphi izinketho ofuna ukuzihlola. [Umhlahlandlela wezinyathelo zokuqala emva kokuxilongwa](/caregiving/after-dementia-diagnosis/) uhlanganisa usizo olubanzi nemibuzo yokuhlela isikhathi esizayo.
 
 ## Yini uma ngiphetha ngokunciphisa amahora noma ngishiye?
 
 Ukushiya umsebenzi kungaba yisinqumo esilungile kwabanye abantu. Akusho ukuthi uhlulekile. Ungacabanga ngemali engenayo, ukumbozwa kwezempilo, umkhuba wansuku zonke nabantu ozobaphuthelwa. Buza ngosizo lwendawo ngaphambi kokwenza ushintsho, bese unikeza isikhathi sokuqhathanisa izinketho ezibalulekile kuwe.
 
-Umsebenzi ungeyinye kuphela yengxenye yokuphila. Uma uyeka noma unciphisa amahora, khetha ezinye izinto ezenzayo noma ubudlelwano obuzwakala bubalulekile lapho usulungele. Abantu bomndeni bangasiza, kodwa isinqumo kufanele sihlanganise wena. I-[caregiver self-care guide](/caregiving/caregiver-self-care/) inemibono yokucela abanye ukuthi babelane ngosizo ngaphandle kokubeka yonke imithwalo emuntwini oyedwa.
+Umsebenzi ungeyinye kuphela yengxenye yokuphila. Uma uyeka noma unciphisa amahora, khetha ezinye izinto ezenzayo noma ubudlelwano obuzwakala bubalulekile lapho usulungele. Abantu bomndeni bangasiza, kodwa isinqumo kufanele sihlanganise wena. [Umhlahlandlela wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) unemibono yokucela abanye ukuthi babelane ngosizo ngaphandle kokubeka yonke imithwalo emuntwini oyedwa.

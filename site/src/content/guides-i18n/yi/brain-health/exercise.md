@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "באַװעגונג און מוח־געזונט: װאָס פֿאָרשונג פֿאַרבינדט און װי מען באַװעגט זיך זיכער"
+seoTitle: "באַװעגונג און דעמענץ: װאָס די פֿאָרשונג זאָגט"
+description: "װאָס די פֿאָרשונג פֿאַרבינדט צװישן גופֿיזישער טעטיקײט און דעמענץ־ריזיקע, און זיכערע, פֿריידיקע װעגן פֿאַר עלטערע מענטשן און מענטשן מיט דעמענץ זיך צו באַװעגן."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  שטודיעס פֿאַרבינדן רעגולערע גופֿיזישע טעטיקײט מיט נידעריקערער דעמענץ־ריזיקע, און די 2024 לאַנסעט־קאָמיסיע רעכנט אומבאַװעגלעכקײט צו 14 ענדערבאַרע פֿאַקטאָרן. פּרוּװן האָבן נישט באַװיזן, אַז באַװעגונג פֿאַרהיט דעמענץ. באַװעגונג העלפֿט אָבער כּוח, באַלאַנס, שטימונג און שלאָף, דעריבער זענען גיין, שטול־איבונגען און טאַנצן װערט צו טאָן פֿאַר זייער אייגענעם צװעק. רעדט מיט אַ דאָקטער פֿאַר איר הײבט אָן עפּעס נײַס.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "גופֿיזיש אַקטיװע מענטשן האָבן אין דורכשניט נידעריקערע דעמענץ־ריזיקע, אָבער דאָס קומט מערסטנס פֿון באָבאַכטונג־שטודיעס, נישט פֿון פּרוּװן."
+  - "אַ פֿינף־יאָריקער באַװעגונג־פּרוּװ בײַ עלטערע מענטשן האָט נישט געפֿונען קלאָרן חילוק אין דענק־פֿעאיקײטן צװישן די גרופּעס."
+  - "די רעקאָמענדאַציעס פֿון CDC פֿאַר דערװאַקסענע פֿון 65 יאָר און עלטער דעקן אַעראָבישע, מוסקל־שטאַרקנדיקע און באַלאַנס־טעטיקײטן, און זאָגן, אַז עטװאָס טעטיקײט איז בעסער װי קײן."
+  - "פֿאַר מענטשן װאָס לעבן מיט דעמענץ זענען קורצע, באַקאַנטע, געמײנזאַמע באַװעגונגען, װי אַ טעגלעכער שפּאַציר אָדער זיצנדיקע שפּילן, װיכטיקער װי קײן באַשטימט ציל."
+  - "מער װי איינער פֿון פֿיר עלטערע מענטשן פֿאַלט יעדן יאָר, דעריבער קומט באַלאַנס־אַרבעט און אַ זיכערער פּלאַץ צום ערשטן."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "קען באַװעגונג פֿאַרהיטן דעמענץ?"
+    a: "קײנער קען דאָס נישט צוזאָגן. פֿיל שטודיעס פֿאַרבינדן אַקטיװ זײַן מיט נידעריקערער דעמענץ־ריזיקע, אָבער קלינישע פּרוּװן האָבן נישט געװיזן, אַז באַװעגונג פֿאַרהיטט עס. באַװעגונג האָט פֿיל אַנדערע באַװיזענע נוצן, דעריבער איז עס נאָך װערט צו טאָן."
+  - q: "איז עס זיכער פֿאַר עמעצן װאָס לעבט מיט דעמענץ צו טרענירן?"
+    a: "געװײנלעך, מיט עטװאָס פּלאַנירונג. דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער רעקאָמענדירט צו פֿרעגן דעם דאָקטער פֿאַר מען הײבט אָן אַ נײַע רוטין, אָנטאָן באַקװעמע שיך, געבן װאַסער און האַלטן די איבונגען קורץ. הערט אויף, אויב דער מענטש װירקט מיד, אומזיכער אָדער אומגליקלעך."
+  - q: "װאָס פֿאַר איבונגען קען מען טאָן זיצנדיק?"
+    a: "זיצנדיקע אָפּציעס זענען שטול־שטרעקונגען אָדער שטול־יאָגא, װאַרפֿן אַ באַלאָן אָדער ווייכן באָל, װאַרפֿן מיט זעקל־באָבן, הייבן סופּ־דאָזן, שטרעקן באַנדן און פּעדאַל־איבונגען. דאָס זענען גוטע ברירות, װען גיין איז שװער."
+  - q: "װאָס אויב דער מענטש װיל זיך נישט באַװעגן?"
+    a: "דרוקט נישט. פּרוּװט שפּעטער װידער, טײלנעמט אַלײן, לײגט צו באַקאַנטע מוזיק, אָדער מאַכט די באַװעגונג אַ אַרבעט, װי פֿעגן אָדער וואַסערן בלומען. אַ קורצער שפּאַציר צום פּאָסטקאַסטן צײלט, און אַזױ אויך נאָר צוזאַמען זיצן אין דרויסן."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+טעטיקײט איז איינע פֿון די מערסט אויסגעפֿאָרשטע געװוינהײטן אין פֿאָרשונג װעגן מוח־געזונט. שטודיעס פֿאַרבינדן עס מיט נידעריקערער דעמענץ־ריזיקע, אָבער זײ האָבן נישט באַװיזן, אַז באַװעגונג פֿאַרהיט דעמענץ. װאָס קלאָר איז, איז אַז באַװעגונג העלפֿט כּוח, באַלאַנס, שטימונג און שלאָף אין קײן עלטער. דער בלאַט דעקט אָפּ װאָס די פֿאָרשונג זאָגט, װי פֿיל טעטיקײט עלטערע מענטשן װערן רעקאָמענדירט, און װי מען באַװעגט זיך זאַנפֿט מיט עמעצן װאָס לעבט מיט דעמענץ.
 
-## Does exercise lower the risk of dementia?
+## צי פֿאַרמינדערט באַװעגונג די ריזיקע פֿון דעמענץ?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+די פֿאָרשונג לאָזט פֿאַרשטײן, אַז גופֿיזיש אַקטיװע מענטשן זענען װייניקער מסתּמא צו באַקומען דעמענץ, אָבער די באַװײַזן האָבן גרענעצן. די [2024 לאַנסעט־קאָמיסיע װעגן דעמענץ](https://doi.org/10.1016/S0140-6736(24)01296-0) רעכנט אומבאַװעגלעכקײט צו איינע פֿון די 14 ענדערבאַרע ריזיקע־פֿאַקטאָרן. צוזאַמען מאַכן די 14 פֿאַקטאָרן לויט איר מאָדעל אַרום 45% פֿון דעמענץ אױף דער װעלט.
 
-Here is what the evidence looks like:
+אַזױ זעט דער באַװײַז אויס:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **באָבאַכטונג־שטודיעס װײַזן אין איין ריכטונג.** אַ איבערזיכט פֿון 58 שטודיעס, װאָס די קאָמיסיע האָט דיסקוטירט, האָט געפֿונען, אַז גופֿיזיש אַקטיװע מענטשן האָבן געהאַט אַרום 20% נידעריקערע ריזיקע פֿון דעמענץ. דער גרעסטער חילוק איז געװען צװישן מענטשן װאָס זענען כּמעט גאָר אומבאַװעגלעך און יענע װאָס האָבן װעניקסטנס עטװאָס טעטיקײט.
+- **די פֿאַרבינדונג קען לאָזן זיך אין ביידע ריכטונגען.** די קאָמיסיע באַמערקט, אַז אומבאַװעגלעכקײט קען ריזיקע העכערן. זי באַמערקט אויך, אַז די פֿרי מוח־ענדערונגען פֿון דעמענץ, װאָס הײבן זיך אָן יאָרן פֿאַר דער דיאַגנאָז, קענען מאַכן מענטשן װייניקער אַקטיװ.
+- **פּרוּװן זענען װייניקער קלאָר.** אין איין פּרוּװ זענען 945 עלטערע מענטשן מיט אַ דורכשניטלעכן עלטער פֿון 78 יאָר צוגעטיילט געװאָרן צו פֿינף יאָר פֿון צװײ מאָל װאָכנדיק אָנגעזעענע איבונגען אָדער צו אַ פֿאַרגלײַכונגס־גרופּע. אין סוף האָבן דענק־פֿעאיקײטן זיך נישט קלאָר אונטערשײדט צװישן די גרופּעס. פֿיל מענטשן אין דער פֿאַרגלײַכונגס־גרופּע זענען אויך געװען אַקטיוו, װאָס מאַכט דאָס רעזולטאַט שװערער צו לײענען.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+דער [נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) זאָגט עס פּשוט. עס איז נישט געװיזן געװאָרן קײן קלאָרע פֿאַרבינדונג צװישן גופֿיזישער טעטיקײט און פֿאַרהיטן אַלצהײמערס, און עס איז נישט גענוג פּרוּװ־באַװײַז צו זאָגן, אַז איבונג פֿאַרהיט אָדער פֿאַרלאַנגזאַמט עס. באַװעגונג פֿאַרמינדערט נאָך אַלץ די ריזיקע פֿון פֿאַלן, דעפּרעסיע, צוקערקרענק, הויכן בלוטדרוק און שלאָגן. עטלעכע פֿון יענע קרענק זענען זיך אַלײן פֿאַרבונדן מיט קאָגניטיװער ירידה.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+דער ערלעכער מסקנה איז צו באַװעגן זיך, װײַל עס העלפֿט אײַך בעסער פֿילן און פֿונקציאָנירן הײַנט. יעדער מוח־נוץ איז אַ מעגלעכער בונוס, נישט אַ צוזאָג.
 
-## How much activity do older adults need?
+## װי פֿיל טעטיקײט דאַרפֿן עלטערע מענטשן?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+די [רעקאָמענדאַציעס פֿון CDC פֿאַר דערװאַקסענע פֿון 65 יאָר און עלטער](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) רעקאָמענדירן דרײַ סאָרטן טעטיקײט יעדע װאָך:
 
-| Type | Weekly amount | Examples |
+| סאָרט | װאָכנדיקע סומע | ביישפּילן |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| אַעראָבישע | מינדסטנס 150 מינוט מיטלשטאַרקע טעטיקײט, למשל 30 מינוט אויף 5 טעג | שנעל גיין, טאַנצן, װאַסער־אַעראָביק |
+| מוסקל־שטאַרקנדיק | מינדסטנס 2 טעג, אַרבעטנדיק מיט אַלע הויפּט־מוסקלן | הייבן ליכטע געװיכטן אָדער סופּ־דאָזן, שטרעקן באַנדן |
+| באַלאַנס | רעגולער | גיין פֿערזע־צו־פֿערז, אױפֿשטײן פֿון אַ שטול |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+דאָס זענען צילן, נישט אײַנגאַנג־באַדינגונגען. די CDC זאָגט, אַז אױב איר קענט זײ נישט דערגרייכן, זאָלט איר זײַן אַזױ אַקטיוו װי אײַערע פֿעאיקײטן און געזונט דערלױבן. עטװאָס טעטיקײט איז בעסער װי קײן.
 
-## Gentle ways to move for older adults
+## זאַנפֿטע װעגן צו באַװעגן זיך פֿאַר עלטערע מענטשן
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **גײט מיט חבֿרה.** אַ טעגלעכער שפּאַציר מיט אַ פֿרײַנד, שכן אָדער אַ גײענדער גרופּע לײגט צו שמועס און זיכערקײט.
+- **שטול־איבונגען.** זיצנדיקע אָרעם־הייבן, קנעכל־קרײַזן, אָנטרעטן אויף אָרט און שטול־יאָגא בויען כּוח אָן באַלאַנס־ריזיקע.
+- **טאַנצט אין דער קיך.** שטעלט אָן מוזיק פֿון דער יוגנט פֿון מענטש און שװײַבט זיך, קלאַפּט אָדער טרעט. אונדזער [מוזיק־טעטיקײטן־גײד](/activities/music/) האָט אידייען.
+- **כּוח מיט הױזגעצײַג.** הייבט פֿולע װאַסערפֿלעשער אָדער סופּ־דאָזן װײַל איר קוקט אויף אַ באַליבטע סעריע.
+- **גאָרטן אָדער הױזאַרבעט.** װאַסערן בלומען, רעכן, פֿעגן און פֿאַלדן װעש צײלן אַלע. זעט [טעטיקײטן אין דרויסן און גאָרטנאַרבעט](/activities/outdoor-and-gardening/) און [הױזהאַלטונג־אַרבעט](/activities/household-tasks/).
+- **װאַסער־איבונגען.** דער NIA צײלט װאַסער־אַעראָביק קלאַסן ווי איינע אָפּציע פֿאַר מענטשן װאָס געפֿינען לאַנד־איבונגען שװער פֿאַר די געלענק.
 
-## How to exercise with someone living with dementia
+## װי צו טרענירן מיט עמעצן װאָס לעבט מיט דעמענץ
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+פֿאַר אַ מענטש װאָס לעבט מיט דעמענץ, איז דער ציל קאָמפֿאָרט, הנאה און האַלטן טעגלעכע פֿעאיקײטן, נישט אַ נומער דערגרייכן. דער NIA זאָגט, אַז גופֿיזישע טעטיקײט העלפֿט האַלטן די מוסקלן, געלענק און האַרץ פֿון עמעצן מיט אַלצהײמערס אין גוטן צושטאַנד, און קען אויך פֿאַרבעסערן שטימונג און שלאָף. רעדט מיט זײַן דאָקטער פֿאַר מען הייבט אָן אַ נײַע רוטין. עצות פֿון דער [פֿאַרזאָרגער־גײד פֿון NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) אַרײַנגערעכנט:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **גײט צוזאַמען יעדן טאָג.** קלײבט אויס אַ זיכער, באַקאַנט װעג אָן הינדערנישן. אױב דער מענטש גײט אַלײן, איז אַ ID אָרמבאַנד מיט אײער טעלעפֿאָן־נומער אַ גוטע אידיע.
+2. **פּרוּװט אויף װידעאָס פֿון איבונגען פֿאַר עלטערע מענטשן.** פֿאָלגט צוזאַמען, זיצנדיק אָדער שטייענדיק.
+3. **האַלט די איבונגען קורץ.** עטלעכע קורצע "מיני־טרענינגען" קענען בעסער אַרבעטן װי איינע לאַנגע.
+4. **לײגט צו מוזיק.** באַקאַנטע לידער מאַכן באַװעגונג פֿילן װי אַ טעטיקײט, נישט װי אַ אַרבעט. טאַנצט, אויב דער מענטש האָט עס ליב.
+5. **געבט װאַסער און באַקװעמע שיך.** געבט װאַסער אָדער זאַפֿט בעת און נאָך, און קלײבט באַקװעמע קלײדער און פּאַסנדיקע שיך װאָס זענען געמאַכט פֿאַר טרענירן.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+װען גיין איז שװער, רעקאָמענדירט דער [גײד פֿון NIA װעגן צו פֿאַרזאָרגן מענטשן מיט אַלצהײמערס](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) זיצנדיקע אָפּציעס. דאָס אײַנגערעכנט שטול־איבונגען אָדער יאָגא, װאַרפֿן מיט זעקל־באָבן, װאַרפֿן אַ ווייכן באָל אָדער באַלאָן, שטרעקן באַנדן, הייבן ליכטע הױזגעצײַג און פּעדאַל־איבונגען. פּשוטע אַרבעטן װי פֿעגן און שטויבן צײלן אויך.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+זײַט רעאַליסטיש װעגן װאָס באַװעגונג קען טאָן. די לאַנסעט־קאָמיסיע האָט נישט געפֿונען קײן באַװײַז, אַז איבונג פֿאַרמינדערט פֿאַרהאַלטן־ענדערונגען װי אויפֿרעגונג. באַװעגט זיך צוזאַמען װײַל עס קען זיך גוט פֿילן, נישט װי אַ װעג צו פֿאַרטיקן אַ שװערן נאָכמיטאָג. אויב דער מענטש זאָגט ניין, איז דאָס גאָר אין אָרדענונג. אונדזער גײד װעגן [װען זײ זאָגן ניין](/caregiving/when-they-say-no/) האָט זאַנפֿטע װעגן צו פּרוּװן שפּעטער װידער. אויפֿהערן פֿרי, אָדער נאָר צוזאַמען זיצן אין דרויסן, איז אויך אַ גוטער רעזולטאַט.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+נאָך באַװעגונג קען אַ שטיל אָטעמען װי [רויִק אָטעמען](/games/calm-breathing/) העלפֿן ביידע צו באַרואיקן זיך. פֿאַר אַ זיצנדיקע טעטיקײט מיט זאַנפֿטער אָרעם־באַװעגונג, אַרבעטן [זאָרטירן צוזאַמען](/games/sort-together/) און [בילדער־בינגאָ](/games/picture-bingo/) גוט בײַם טיש.
 
-## Balance and fall safety
+## באַלאַנס און זיכערקײט פֿאַר פֿאַלן
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+פֿאַלן זענען געװײנלעך און ערנסט. די [CDC באַריכטן](https://www.cdc.gov/falls/data-research/facts-stats/index.html), אַז מער װי איינער פֿון פֿיר עלטערע מענטשן פֿאַלט יעדן יאָר, אָבער װײניקער װי העלפֿט זאָגן עס צו זייער דאָקטער. איין פֿאַל פֿאַרדאָפּלט די שאַנס צו פֿאַלן װידער. די ריזיקע־פֿאַקטאָרן װאָס די CDC רעכנט אָן זענען:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- שװאַכקײט אין די פֿיס און די היפֿטן
+- שװערקײטן מיט גיין און באַלאַנס
+- עטלעכע מעדיצינען, אײַנגערעכנט בערוּהיקנדיקע און עטלעכע אַנטידעפּרעסאַנטן
+- זעונג־פּראָבלעמען
+- פֿוס־װײטיק אָדער שלעכטע שיך
+- היים־געפֿאָרן װי אומארדענונג, טעפּיכן און צעבראָכענע טרעפּ
 
-To move more safely:
+צו באַװעגן זיך זיכערער:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **ניצט אַ שטאַרקן שטול** אָן ראָדלעך, און האַלט אַ טיש אָדער שטיינדער אין דער היים בײַ דער האַנט פֿאַר שטײענדיקע איבונגען.
+- **מאַכט פּלאַץ ריין** פֿון טעפּיכן, קאַבלען און אומארדענונג, צו ערשט.
+- **גײט לאַנגזאַם** בעת אױפֿשטיין, און הערט אויף, אויב דער מענטש װערט שװינדלדיק אָדער אומזיכער.
+- **טראָגט שטיצנדיקע שיך**, נישט סאָקן אָדער לאָזע פּאַנטאָפֿלען.
+- **איבט באַלאַנס נאָענט צו אַ שטיץ.** אױפֿשטיין פֿון אַ שטול און גיין פֿערזע־צו־פֿערז זענען ביישפּילן פֿון CDC פֿון באַלאַנס־טעטיקײטן.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+די CDC רעקאָמענדירט, אַז אַ עלטערער מענטש װאָס פֿאַלט און שלאָגט דעם קאָפּ זאָל גלײַך זען אַ דאָקטער, באַזונדערס אויב ער נעמט בלוט־פֿאַרדינער.
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+פֿרעגט אַ דאָקטער פֿאַר איר הײבט אָן אַ נײַע איבונג־רוטין, באַזונדערס אויב איר אָדער עמעץ װאָס איר פֿאַרזאָרגט האָט האַרץ- אָדער לונג־פּראָבלעמען, געלענק־װײטיק, באַלאַנס־פּראָבלעמען אָדער דעמענץ. אַ דאָקטער אָדער פֿיזיאָטעראַפּעװט קען פֿאָרשלאָגן זיכערע טעטיקײטן און קאָנטראָלירן צי מעדיצינען באַאײַנפֿלוסן באַלאַנס. זאָגט דעם דאָקטער װעגן יעדן פֿאַל, אַפֿילו אַן אָן פֿאַרלעצונג. װען עפּעס װײטיקט אָדער פֿילט זיך נישט ריכטיק בעת איבונג, הערט אויף. פֿאַר פּלוצעמדיקן ברוסט־װײטיק, שװערקײט צו אָטעמען אָדער פּלוצעמדיקער צעמישונג, **רופֿט אָן אײַער לאָקאַלן נויטנומער.**
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+דער בלאַט איז אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. זעט [אונדזער מעדיצינישן אָפּזאָג](/medical-disclaimer/). פֿאַר דעם גרעסערן בילד, לײענט [װאָס די פֿאָרשונג זאָגט װעגן ריזיקע־פֿאַקטאָרן פֿון דעמענץ](/brain-health/risk-factors/) און [צי מען קען דעמענץ פֿאַרהיטן](/brain-health/can-dementia-be-prevented/).
