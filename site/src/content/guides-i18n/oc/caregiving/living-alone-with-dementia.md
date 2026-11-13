@@ -61,7 +61,7 @@ Se mantuns personas ajudan, acordatz qui gerirà cada tasca e cossí partejaràn
 
 Causissètz d'activitats e de contactes que la persona aprecia. Pòt èsser un apèl setmanièr, una visita de vesin, un repais comunautari, un club familhar o una marcha amb una persona de confiança. Demandatz quinas opcions li son agradivas; supausatz pas que mai de visitaires o de grops son totjorn melhor.
 
-Un temps social regular pòt far la setmana mai recognoissabla e donar quicòm a esperar. Se lo desplaçament a una activitat es dificil, consideratz un apèl, un transpòrt per una persona de confiança o un eveniment mai pròche de maison. Nòstra guida sus la [relacion socialà](/brain-health/social-connection/) inclutz de manièras sensiblas de restar en contacte.
+Un temps social regular pòt far la setmana mai recognoissabla e donar quicòm a esperar. Se lo desplaçament a una activitat es dificil, consideratz un apèl, un transpòrt per una persona de confiança o un eveniment mai pròche de maison. Nòstra guida sus la [relacion social](/brain-health/social-connection/) inclutz de manièras sensiblas de restar en contacte.
 
 ## Cossí saber quand lo plan deu cambiar?
 

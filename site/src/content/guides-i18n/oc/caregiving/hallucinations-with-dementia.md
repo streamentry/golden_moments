@@ -59,7 +59,7 @@ Una experiéncia pòt èsser una halucinacion, mas tanben una percepcion falsa o
 Demorar calme, demandar cossí la persona se sent e ofrir una reassegurança sens discutir. L'[Alzheimer's Association consèlha de verificar se l'experiéncia es penibla o perilhosa](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations). Se la persona es a l'aise e en seguretat, poiriá pas caldre d'interrompre.
 
 - **Reconeisser lo sentiment.** Podètz dire : « Veni pas degun, mas vesi qu'aquò es espaurós. Soi aquí. » Es honèste e fa veire a la persona que la prenètz en seriós.
-- **Gardar de mots cortes.** Una explicacion longa o una correccion repetida pòdon aumentar l'estrès. Laissatz la persona descriure çò qu'remarca s'ela vòl.
+- **Gardar de mots cortes.** Una explicacion longa o una correccion repetida pòdon aumentar l'estrès. Laissatz la persona descriure çò qu'a remarcat s'ela vòl.
 - **Prepausar, pas forçar, un cambiament.** Demandatz se vòl s'asseire ailà, alucar una autra lum o escotar una cançon familhara. Anar dins una pèça ben clara e familhara pòt ajudar; arrestatz se la persona vòl pas se desplaçar.
 - **Demorar pròche se o vòl.** Tocatz pas la persona de brusc. Demandatz abans de prepausar una man o una abrassada.
 
@@ -72,7 +72,7 @@ Qualques personas trobon una experiéncia consolanta o familhara. Se la persona 
 Verificatz l'environament amb la persona se ela vòl aquela ajuda. La [Alzheimer's Society distingís las halucinacions de las percepcions falsas](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations), ont un objècte o un motiu real es vist de faiçon errada.
 
 - **Melhorar la lum.** Alucatz una lampa e verificatz las ombras o los reflèxes dels mirals e de las fenèstras.
-- **Verificar los sons corrents.** Una television, un ventilador o un aparelh pòt semblar una votz o de passes. Lo tornatz pas baissar o atudar solament se la persona es a l'aise amb aquò.
+- **Verificar los sons corrents.** Una television, un ventilador o un aparelh pòt semblar una votz o de passes. Baissatz o atudatz lo son solament se la persona es a l'aise amb aquò.
 - **Agachar los motius.** Una catifa, una cortina o un papièr peint plen de motius pòt èsser presa per un movement o un objècte. Demandatz se la persona vòl agachar d'un autre endreit o cambiar la vista.
 - **Verificar los ajuts sensorials.** Se la persona a de lunetas o un aparelh auditiu, demandatz se vòl d'ajuda per verificar qu'es disponible e que fonciona coma d'abitud.
 

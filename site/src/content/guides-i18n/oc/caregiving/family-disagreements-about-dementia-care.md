@@ -24,7 +24,7 @@ faq:
   - q: "Cossí partir las tascas de cura?"
     a: "Escrivètz las tascas e lo temps o l'esfòrç que cada una demanda. Demandatz qui es disposat e capable de far cada una; los membres de la familha pòdon ajudar de faiçons diferentas, pels rendetz-vos, los apèls, lo transpòrt o las visitas regularas. Revisatz lo plan quand las circonstàncias cambian."
   - q: "E s'arribam pas a nos acordar?"
-    a: "Se lo desacòrd perdura, pensatz a demandar a un clinician, un trabalhador social, un conselhièr, un mediator o un guida religiós de confiança d'ajudar la familha a parlar. Per las questions legalas sus qui pòt prene una decision donada, demandatz a un professional qualificat del país."
+    a: "Se lo desacòrd perdura, pensatz a demandar a un clinician, un trabalhador social, un conselhièr, un mediator o un responsable religiós de confiança d'ajudar la familha a parlar. Per las questions legalas sus qui pòt prene una decision donada, demandatz a un professional qualificat del país."
 sources:
   - title: "Resolving Family Conflicts"
     publisher: "Alzheimer's Association"
@@ -72,7 +72,7 @@ Se una question es medicala, escrivètz-la e demandatz-la a l'equipa de cura. La
 
 Juste vòl pas totjorn dire egal. L'[Alzheimer's Association suggerís de far una lista de tascas que compren lo temps, l'argent e l'esfòrç necessaris](https://www.alz.org/help-support/caregiving/resolving-family-conflicts). Puèi demandatz çò que cada persona prefèrs e çò qu'es realament capabla de far.
 
-Unas personas pòdon ajudar per de visitas regularas o per la cura personala. D'autras sון melhor placadas per gerir los rendetz-vos, lo transpòrt, la livrason de repas, las paperassas o un contròl setmanièr. Un parent que viu luènh pòt tot de meteis coordinar los apèls, cercar de servicis locals o organizar de provisions, se la persona es d'acòrd. La nòstra [guida sus la cura a distància](/caregiving/long-distance-caregiving-with-dementia/) dona un plan mai complet per los ròtles, las nòvas e las visitas.
+Unas personas pòdon ajudar per de visitas regularas o per la cura personala. D'autras son melhor placadas per gerir los rendetz-vos, lo transpòrt, la livrason de repas, las paperassas o un contròl setmanièr. Un parent que viu luènh pòt tot de meteis coordinar los apèls, cercar de servicis locals o organizar de provisions, se la persona es d'acòrd. La nòstra [guida sus la cura a distància](/caregiving/long-distance-caregiving-with-dementia/) dona un plan mai complet per los ròtles, las nòvas e las visitas.
 
 Partejatz las tascas acordadas dins un calendièr comun o una lista escrita. Indicatz qui es responsable, a quina frequéncia e qui contactar se los plans cambian. Revisatz la lista se la santat, l'horari de trabalh o la capacitat de cura d'una persona cambia. La [guida sus l'autocura de l'aidant](/caregiving/caregiver-self-care/) explica cossí demandar a d'autras personas de partejar l'ajuda.
 
@@ -82,7 +82,7 @@ Tornatz sus çò que se sap, çò que vòl la persona e la question que demòra 
 
 Se los parents son en desacòrd sus un despreniment, fasètz d'avant tot la recèrca d'informacions mai que de far un vòte de si o non. Demandatz quina ajuda manca a maison, çò que la persona prefeririá e quinas opcions la familha vòl conéisser. Una visita a un establiment o una discussion amb un servici a domicili pòdon informar la discussion sens engatjar la persona a un despreniment. La [guida sus los establiments de cura](/caregiving/choosing-residential-dementia-care/) a de questions per comparar las opcions.
 
-Se la tensitat perdura, demandatz a una tresena persona de confiança d'ajudar. Segon la question, pot èsser lo clinician de la persona, un trabalhador social, un conselhièr, un mediator o un guida religiós. Un grop de sosten pòt tanben donar als parents un endreit per parlar amb de personas que viuen de cambiaments semblants. Los avís professionals son especialament importants per las questions medicalas, legalas o financièras.
+Se la tensitat perdura, demandatz a una tresena persona de confiança d'ajudar. Segon la question, pot èsser lo clinician de la persona, un trabalhador social, un conselhièr, un mediator o un responsable religiós. Un grop de sosten pòt tanben donar als parents un endreit per parlar amb de personas que viuen de cambiaments semblants. Los avís professionals son especialament importants per las questions medicalas, legalas o financièras.
 
 Se un conflicte de familha afecta la seguretat o la cura de la persona, contactatz un servici local qualificat per d'ajuda. Laissatz pas la persona presa al mièg d'una disputa. S'i a un perilh immediat, utilizatz los servicis d'urgéncia locals.
 

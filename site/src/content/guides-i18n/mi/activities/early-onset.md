@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Ka tīmata te mate wareware ā-moata i mua i te 65. He maha ngā wā ka rongo te tangata he rerekē tōna pakeke ki ngā mahi e tukuna ana."
   - "Waiho te tangata kia arahi i ngā kōwhiringa, mai i te hobi e whakamātau ai ki te haerenga e whakamahere ai."
-  - "Ko ngā waiata, ngā whakaahua me ngā kōrero o ōna 20 ki te 50 tau he nui ake te tikanga i ngā mahi nō te wā pakeke."
+  - "Ko ngā waiata, ngā whakaahua me ngā kōrero o ōna tau taitamariki ki ōna tau waenga pakeke he nui ake te tikanga i ngā mahi nō te wā tōmuri."
   - "Kia kaha, kia whanaunga anō mēnā e pai ana ki te tangata, ā, urutaua te tere, kaua e whakakapi i te mahi."
   - "Ka whai hua ngā kaiāwhina, otirā ngā hoa me ngā tamariki pakeke, i ngā rōpū tautoko a ngā hoa rite ki a rātou."
 faq:
@@ -41,7 +41,7 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Ko te nuinga o ngā kōrero mō te mate wareware e whakaaro ana he 70, he 80 ngā tau o te tangata. Mō tētahi i takea i āna tau 40, i āna tau 50 rānei, he rerekē te āhua o ia rā. Tērā pea he mahi tāna, he nama whare, he taitamariki kei te kāinga, he mātua hei tiaki. Me whakaae ngā mahi ki taua oranga pakeke. He aratohu tēnei whārangi mō ngā mea e rerekē ana, ngā mea hei whakamātau, me te wāhi ka taea e ngā hoa me ngā tamariki pakeke te kite tautoko.
+Ko te nuinga o ngā kōrero mō te mate wareware e whakaaro ana ki ngā pakeke o ngā tau tōmuri. Mō tētahi i takea i ōna tau waenga pakeke, he rerekē te āhua o ia rā. Tērā pea he mahi tāna, he nama whare, he taitamariki kei te kāinga, he mātua hei tiaki. Me whakaae ngā mahi ki taua oranga pakeke. He aratohu tēnei whārangi mō ngā mea e rerekē ana, ngā mea hei whakamātau, me te wāhi ka taea e ngā hoa me ngā tamariki pakeke te kite tautoko.
 
 ## He aha te mate wareware ā-moata?
 
@@ -51,7 +51,7 @@ Nō te mea he iti ake, he roa pea te wā e tatari ai te tangata mō te whakatau,
 
 ## Whakamaua te pakeke i roto i te mahi
 
-Ko ngā tangata pakeke e mate wareware ā-moata ana, kāore e pai kia whakaarahia rite tamariki. Ka tohutohu te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kia urutaua ngā mahi ki ngā mea e taea tonu e te tangata, e harikoa tonu ai ia. Mō tētahi tangata i āna tau 50, he pēnei pea:
+Ko ngā tangata pakeke e mate wareware ā-moata ana, kāore e pai kia whakaarahia rite tamariki. Ka tohutohu te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kia urutaua ngā mahi ki ngā mea e taea tonu e te tangata, e harikoa tonu ai ia. Mō tētahi tangata i ōna tau waenga pakeke, he pēnei pea:
 
 - **Whakamaua tētahi hobi mōhio,** pērā i te mahi rākau, te tākaro, ngā kāri, he karapu pukapuka, he rōpū waiata, me tētahi āwhina iti, rānei he wā poto ake.
 - **Hīkoi, paihikara rānei me tētahi hoa,** i tētahi huarahi e mōhio pai ana rātou.
@@ -64,7 +64,7 @@ Waiho te tangata kia kōwhiri. He tika ake te pātai, "He aha tāu e pai ai ki t
 
 ## Whakamahia ngā waiata me ngā maharatanga nō ō rātou ake tau
 
-Ka puta mai te whakaaro mahana me te kōrero māmā mai i ngā waiata me ngā whakaahua nō ngā tau rua tekau, toru tekau, whā tekau o te tangata. Ko tā mātou [aratohu mahi waiata](/activities/music/) e whakamārama ana me pēhea te hanga i tētahi rārangi waiata, ā, ko [ngā mahi maumahara](/activities/reminiscence/) e whakaatu ana me pēhea te tiritiri i ngā whakaahua me ngā kōrero kāore he pātai whakamātau. Hei kēmu pakeke ake, whakamātauria ngā [kāri kōrero](/games/conversation-cards/), me ngā akiaki tuwhera mō te mahi, te haerenga, ngā hoa me te whānau.
+Ka puta mai te whakaaro mahana me te kōrero māmā mai i ngā waiata me ngā whakaahua nō ōna tau taitamariki, tōna wā pakeke tīmatanga, tōna wā waenga pakeke. Ko tā mātou [aratohu mahi waiata](/activities/music/) e whakamārama ana me pēhea te hanga i tētahi rārangi waiata, ā, ko [ngā mahi maumahara](/activities/reminiscence/) e whakaatu ana me pēhea te tiritiri i ngā whakaahua me ngā kōrero kāore he pātai whakamātau. Hei kēmu pakeke ake, whakamātauria ngā [kāri kōrero](/games/conversation-cards/), me ngā akiaki tuwhera mō te mahi, te haerenga, ngā hoa me te whānau.
 
 Ka pai pea ngā [rōpū whakaahua rite](/games/photo-pairs/) i hangaia mai i ngā whakaahua whānau, nā te mea he tangata me ngā wāhi e whai take ana ki te tangata ngā whakaahua. Ka noho ngā whakaahua ki te pūtirotiro i taua taputapu.
 
