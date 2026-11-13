@@ -924,6 +924,66 @@
         "reviewer": null,
         "evidence": null,
         "date": null
+      },
+      "af": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "bg": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "et": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "lt": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "lv": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "be": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "bs": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "cy": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "eo": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "eu": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
       }
     }
   }

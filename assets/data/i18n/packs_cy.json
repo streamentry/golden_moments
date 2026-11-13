@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Anifeiliaid",
+      "description": "Anifeiliaid annwyl a chyfeillgar o bob cwr o’r byd"
+    },
+    "nature": {
+      "name": "Byd natur",
+      "description": "Tirweddau hardd a golygfeydd naturiol"
+    },
+    "food": {
+      "name": "Bwyd",
+      "description": "Prydau blasus a danteithion"
+    },
+    "vintage": {
+      "name": "Ceir",
+      "description": "Ceir a lorïau i edrych arnynt a siarad amdanynt"
+    },
+    "flowers": {
+      "name": "Blodau",
+      "description": "Blodau hardd a golygfeydd gardd"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Anifeiliaid fferm",
+      "description": "Anifeiliaid fferm cyfeillgar, fel ar ymweliad â chefn gwlad.",
+      "theme": "Bywyd fferm",
+      "images": {
+        "cow_1": "Buwch gyfeillgar",
+        "pig_1": "Mochyn bodlon",
+        "chicken_1": "Ceiliog",
+        "buffalo_1": "Byffalo dŵr",
+        "horse_1": "Ceffyl hardd",
+        "duck_1": "Teulu o hwyaid",
+        "goat_1": "Gafr chwilfrydig",
+        "rabbit_1": "Cwningen annwyl"
+      }
+    },
+    "nature_mountains": {
+      "title": "Golygfeydd mynyddig",
+      "description": "Tirweddau mynyddig syfrdanol a golygfeydd prydferth",
+      "theme": "Harddwch natur",
+      "images": {
+        "mountain_1": "Copaon dan eira",
+        "mountain_2": "Mynydd Fuji",
+        "mountain_3": "Dyffryn alpaidd",
+        "mountain_4": "Copa creigiog",
+        "mountain_5": "Bryniau coediog",
+        "mountain_6": "Mynyddoedd yn y niwl"
+      }
+    },
+    "vintage_cars": {
+      "title": "Ceir a lorïau",
+      "description": "Ceir a lorïau sgleiniog i edrych arnynt a siarad amdanynt",
+      "theme": "Ar y ffordd",
+      "images": {
+        "vintage_car_1": "Audi oren ar fachlud haul",
+        "vintage_car_2": "Car chwaraeon glas yn yr anialwch",
+        "vintage_car_3": "Bugatti arian",
+        "vintage_car_4": "Porsche du ar y ffordd",
+        "vintage_car_5": "BMW oren ar stryd â phalmwydd",
+        "vintage_car_6": "Cwpé glas wrth garej",
+        "vintage_car_7": "Tryc codi gwyrdd",
+        "vintage_car_8": "SUV gwyn ymhlith creigiau coch",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Car glas â streipiau gwyn"
+      }
+    },
+    "animals_safari": {
+      "title": "Anifeiliaid saffari",
+      "description": "Anifeiliaid urddasol o saffaris Affrica",
+      "theme": "Bywyd gwyllt",
+      "images": {
+        "lion_1": "Llew urddasol",
+        "elephant_2": "Eliffant Affricanaidd",
+        "jaguar_3": "Jagwar",
+        "zebra_4": "Sebra streipiog",
+        "rhino_5": "Rhinoseros cryf",
+        "cheetah_6": "Cheetah cyflym",
+        "fox_7": "Llwynog brown",
+        "bear_8": "Arth wen",
+        "turtle_9": "Crwban brown",
+        "squirrel_10": "Gwiwer frown",
+        "macaw_11": "Macaw melyn a glas",
+        "tiger_12": "Teigr",
+        "raccoon_13": "Racŵn",
+        "wolf_14": "Blaidd llwyd",
+        "crocodile_15": "Crocodeil",
+        "peacock_16": "Paun hardd"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Pwdinau blasus",
+      "description": "Rhai pwdinau blasus i orffen eich prydau.",
+      "theme": "Pwdinau melys",
+      "images": {
+        "pastries_1": "Pedair teisen fach",
+        "oreo_cookie_sandwiches_2": "Brechdanau bisgedi Oreo",
+        "crepe_3": "Crempog fain",
+        "pancake_4": "Crempog",
+        "macarons_5": "Macarŵns",
+        "caramel_cake_6": "Teisen garamel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Blodau trofannol",
+      "description": "Darganfyddwch harddwch bywiog y trofannau gyda’r pecyn hwn o flodau egsotig.",
+      "theme": "Blodau trofannol",
+      "images": {
+        "hibiscus_1": "Hibiscus coch",
+        "frangipani_2": "Frangipani coch a gwyn",
+        "sunflower_3": "Blodyn yr haul",
+        "hydrangea_4": "Hydrangea gwyn",
+        "rose_5": "Rhosyn",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delffiniwm"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Bwyd stryd",
+      "description": "Archwiliwch fyd lliwgar bwyd stryd gyda’r pecyn hwn o fyrbrydau blasus o bob cwr o’r byd.",
+      "theme": "Bwyd stryd",
+      "images": {
+        "taco_1": "Taco Mecsicanaidd",
+        "ramen_2": "Ramen Japaneaidd",
+        "dumplings_3": "Twmplenni Tsieineaidd",
+        "samosa_4": "Samosa Indiaidd",
+        "pizza_5": "Sleisen o pizza Eidalaidd",
+        "crepe_6": "Crempog fain Ffrengig",
+        "satay_7": "Ffyn satay Thai",
+        "burger_8": "Byrgyr Americanaidd",
+        "bao_9": "Byn bao wedi’i stemio",
+        "takoyaki_10": "Takoyaki Japaneaidd"
+      }
+    },
+    "nature_landscape": {
+      "title": "Tirwedd natur",
+      "description": "Golygfeydd natur tawel a hardd i edrych arnynt yn araf a siarad amdanynt gyda’ch gilydd.",
+      "theme": "Tirweddau natur",
+      "images": {
+        "mountain_1": "Cadwyn o fynyddoedd",
+        "forest_2": "Coedwig yn y niwl",
+        "lake_3": "Llyn mynyddig",
+        "desert_4": "Twyni anialwch",
+        "waterfall_5": "Rhaeadr",
+        "beach_6": "Traeth tywodlyd",
+        "river_7": "Afon yn llifo",
+        "canyon_8": "Y Canyon Mawr",
+        "sunset_9": "Awyr machlud haul",
+        "snow_mountain_10": "Mynydd eiraog",
+        "flowers_11": "Blodau gwyllt",
+        "rainforest_12": "Coedwig law",
+        "iceberg_13": "Mynydd iâ",
+        "volcano_14": "Llosgfynydd",
+        "cliff_15": "Clogwyn môr",
+        "aurora_16": "Goleuadau’r gogledd",
+        "savannah_17": "Safana",
+        "coral_reef_18": "Riff cwrel"
+      }
+    }
+  }
+}

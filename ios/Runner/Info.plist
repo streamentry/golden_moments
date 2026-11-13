@@ -73,6 +73,16 @@
 		<string>sl</string>
 		<string>sv</string>
 		<string>mn</string>
+		<string>af</string>
+		<string>bg</string>
+		<string>et</string>
+		<string>lt</string>
+		<string>lv</string>
+		<string>be</string>
+		<string>bs</string>
+		<string>cy</string>
+		<string>eo</string>
+		<string>eu</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>

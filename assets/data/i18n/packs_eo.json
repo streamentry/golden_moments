@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Bestoj",
+      "description": "Aminde afablaj bestoj el la tuta mondo"
+    },
+    "nature": {
+      "name": "Naturo",
+      "description": "Belaj pejzaĝoj kaj naturaj scenoj"
+    },
+    "food": {
+      "name": "Manĝaĵoj",
+      "description": "Bongustaj manĝoj kaj dolĉaĵoj"
+    },
+    "vintage": {
+      "name": "Aŭtoj",
+      "description": "Aŭtoj kaj kamionoj por rigardi kaj paroli pri ili"
+    },
+    "flowers": {
+      "name": "Floroj",
+      "description": "Belaj floroj kaj ĝardenaj scenoj"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Bienaj bestoj",
+      "description": "Afablaj bienaj bestoj, kiel dum vizito en la kamparo.",
+      "theme": "Vivo en bieno",
+      "images": {
+        "cow_1": "Afabla bovino",
+        "pig_1": "Kontenta porko",
+        "chicken_1": "Koko",
+        "buffalo_1": "Akvobubalo",
+        "horse_1": "Bela ĉevalo",
+        "duck_1": "Anasa familio",
+        "goat_1": "Scivola kapro",
+        "rabbit_1": "Ĉarma kuniklo"
+      }
+    },
+    "nature_mountains": {
+      "title": "Montaj vidoj",
+      "description": "Admirindaj montaj pejzaĝoj kaj belaj panoramoj",
+      "theme": "Natura beleco",
+      "images": {
+        "mountain_1": "Neĝkovritaj pintoj",
+        "mountain_2": "Monto Fuĵi",
+        "mountain_3": "Alpa valo",
+        "mountain_4": "Roka pinto",
+        "mountain_5": "Arbaraj montetoj",
+        "mountain_6": "Nebulaj montoj"
+      }
+    },
+    "vintage_cars": {
+      "title": "Aŭtoj kaj kamionoj",
+      "description": "Brilaj aŭtoj kaj kamionoj por rigardi kaj paroli pri ili",
+      "theme": "Sur la vojo",
+      "images": {
+        "vintage_car_1": "Oranĝkolora Audi ĉe sunsubiro",
+        "vintage_car_2": "Blua sportaŭto en la dezerto",
+        "vintage_car_3": "Arĝentkolora Bugatti",
+        "vintage_car_4": "Nigra Porsche sur la vojo",
+        "vintage_car_5": "Oranĝkolora BMW sur strato kun palmoj",
+        "vintage_car_6": "Blua kupeo apud garaĝo",
+        "vintage_car_7": "Verda kamioneto",
+        "vintage_car_8": "Blanka SUV inter ruĝaj rokoj",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blua aŭto kun blankaj strioj"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaraj bestoj",
+      "description": "Majestaj bestoj el afrikaj safaroj",
+      "theme": "Sovaĝa naturo",
+      "images": {
+        "lion_1": "Majesta leono",
+        "elephant_2": "Afrika elefanto",
+        "jaguar_3": "Jaguaro",
+        "zebra_4": "Strieca zebro",
+        "rhino_5": "Forta rinocero",
+        "cheetah_6": "Rapida gepardo",
+        "fox_7": "Bruna vulpo",
+        "bear_8": "Blanka urso",
+        "turtle_9": "Bruna testudo",
+        "squirrel_10": "Bruna sciuro",
+        "macaw_11": "Flava kaj blua arao",
+        "tiger_12": "Tigro",
+        "raccoon_13": "Huĉo",
+        "wolf_14": "Griza lupo",
+        "crocodile_15": "Krokodilo",
+        "peacock_16": "Bela pavo"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Bongustaj desertoj",
+      "description": "Kelkaj bongustaj desertoj por viaj manĝoj.",
+      "theme": "Dolĉaj desertoj",
+      "images": {
+        "pastries_1": "Kvar pastaĵoj",
+        "oreo_cookie_sandwiches_2": "Oreo-keksaj sandviĉoj",
+        "crepe_3": "Krespo",
+        "pancake_4": "Foliokuko",
+        "macarons_5": "Makaronoj",
+        "caramel_cake_6": "Karamela kuko"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropikaj floroj",
+      "description": "Malkovru la viglan belecon de la tropikoj per ĉi tiu pako de ekzotaj floroj.",
+      "theme": "Tropikaj floroj",
+      "images": {
+        "hibiscus_1": "Ruĝa hibisko",
+        "frangipani_2": "Ruĝblanka frangipano",
+        "sunflower_3": "Sunfloro",
+        "hydrangea_4": "Blanka hortensio",
+        "rose_5": "Rozo",
+        "chrysanthemum_6": "Krizantemo",
+        "anthurium_7": "Antuŭrio",
+        "plumeria_8": "Plumerio",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinio"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Stratmanĝaĵoj",
+      "description": "Esploru la kolorplenan mondon de stratmanĝaĵoj per ĉi tiu pako de bongustaj etmanĝaĵoj el la tuta mondo.",
+      "theme": "Stratmanĝaĵoj",
+      "images": {
+        "taco_1": "Meksika tako",
+        "ramen_2": "Japana rameno",
+        "dumplings_3": "Ĉinaj farĉpastaĵoj",
+        "samosa_4": "Barata samoso",
+        "pizza_5": "Itala pico-peco",
+        "crepe_6": "Franca krespo",
+        "satay_7": "Tajlandaj satajoj",
+        "burger_8": "Usona hamburgero",
+        "bao_9": "Vaporkuirita bao-bulko",
+        "takoyaki_10": "Japana takojakio"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naturaj pejzaĝoj",
+      "description": "Trankvilaj, belaj naturaj scenoj por rigardi malrapide kaj paroli pri ili kune.",
+      "theme": "Naturaj pejzaĝoj",
+      "images": {
+        "mountain_1": "Montaro",
+        "forest_2": "Nebula arbaro",
+        "lake_3": "Monta lago",
+        "desert_4": "Dezertaj dunoj",
+        "waterfall_5": "Akvofalo",
+        "beach_6": "Sabla plaĝo",
+        "river_7": "Fluanta rivero",
+        "canyon_8": "Granda Kanjono",
+        "sunset_9": "Sunsubira ĉielo",
+        "snow_mountain_10": "Neĝa monto",
+        "flowers_11": "Sovaĝaj floroj",
+        "rainforest_12": "Pluvarbaro",
+        "iceberg_13": "Glacimonto",
+        "volcano_14": "Vulkano",
+        "cliff_15": "Mara klifo",
+        "aurora_16": "Norda aŭroro",
+        "savannah_17": "Savano",
+        "coral_reef_18": "Koralaj rifoj"
+      }
+    }
+  }
+}

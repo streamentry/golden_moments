@@ -90,6 +90,16 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'sl': (('sl',), ()),
     'sv': (('sv',), ()),
     'mn': ((), ()),
+    'af': ((), ('af',)),
+    'bg': ((), ('bg',)),
+    'et': ((), ('et',)),
+    'lt': ((), ('lt',)),
+    'lv': ((), ('lv',)),
+    'be': ((), ('be',)),
+    'bs': ((), ()),
+    'cy': ((), ()),
+    'eo': ((), ()),
+    'eu': ((), ('eu',)),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

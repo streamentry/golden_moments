@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animaliak",
+      "description": "Munduko animalia atseginak eta lagunkoiak"
+    },
+    "nature": {
+      "name": "Natura",
+      "description": "Paisaia ederrak eta natur eszenak"
+    },
+    "food": {
+      "name": "Janaria",
+      "description": "Otordu goxoak eta gozokiak"
+    },
+    "vintage": {
+      "name": "Autoak",
+      "description": "Begiratzeko eta hizketan aritzeko autoak eta kamioiak"
+    },
+    "flowers": {
+      "name": "Loreak",
+      "description": "Lore ederrak eta lorategiko eszenak"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Baserriko animaliak",
+      "description": "Baserriko animalia lagunkoiak, landara egindako bisita batean bezala.",
+      "theme": "Baserriko bizitza",
+      "images": {
+        "cow_1": "Behi lagunkoia",
+        "pig_1": "Txerri alaia",
+        "chicken_1": "Oilar bat",
+        "buffalo_1": "Ur-bufaloa",
+        "horse_1": "Zaldi ederra",
+        "duck_1": "Ahate-familia",
+        "goat_1": "Ahuntz jakintsua",
+        "rabbit_1": "Untxi polita"
+      }
+    },
+    "nature_mountains": {
+      "title": "Mendiko ikuspegiak",
+      "description": "Mendiko paisaia liluragarriak eta ikuspegi ederrak",
+      "theme": "Natura ederra",
+      "images": {
+        "mountain_1": "Gailur elurtuak",
+        "mountain_2": "Fuji mendia",
+        "mountain_3": "Alpetako harana",
+        "mountain_4": "Gailur harritsua",
+        "mountain_5": "Baso-muinoak",
+        "mountain_6": "Mendi lainotsuak"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autoak eta kamioiak",
+      "description": "Begiratzeko eta hizketan aritzeko auto eta kamioi distiratsuak",
+      "theme": "Errepidean",
+      "images": {
+        "vintage_car_1": "Audi laranja ilunabarrean",
+        "vintage_car_2": "Auto kirol urdina basamortuan",
+        "vintage_car_3": "Bugatti zilarrezkoa",
+        "vintage_car_4": "Porsche beltza errepidean",
+        "vintage_car_5": "BMW laranja palmondoz betetako kalean",
+        "vintage_car_6": "Kupe urdina garaje baten ondoan",
+        "vintage_car_7": "Kamioneta berdea",
+        "vintage_car_8": "SUV zuria arroka gorrien artean",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Auto urdina marra zuriekin"
+      }
+    },
+    "animals_safari": {
+      "title": "Safarietako animaliak",
+      "description": "Afrikako safarietako animalia dotoreak",
+      "theme": "Fauna basatia",
+      "images": {
+        "lion_1": "Lehoi dotorea",
+        "elephant_2": "Afrikako elefantea",
+        "jaguar_3": "Jaguarra",
+        "zebra_4": "Zebra marradunak",
+        "rhino_5": "Errinozero indartsua",
+        "cheetah_6": "Gepardo azkarra",
+        "fox_7": "Azeri arrea",
+        "bear_8": "Hartz zuria",
+        "turtle_9": "Dortoka arrea",
+        "squirrel_10": "Katagorri arrea",
+        "macaw_11": "Ara horia eta urdina",
+        "tiger_12": "Tigrea",
+        "raccoon_13": "Mapatxea",
+        "wolf_14": "Otso grisa",
+        "crocodile_15": "Krokodiloa",
+        "peacock_16": "Pauso ederra"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Postre goxoak",
+      "description": "Zure otorduetarako postre goxo batzuk.",
+      "theme": "Postre gozoak",
+      "images": {
+        "pastries_1": "Lau pasta",
+        "oreo_cookie_sandwiches_2": "Oreo galleta-sandwichak",
+        "crepe_3": "Krepea",
+        "pancake_4": "Pankekea",
+        "macarons_5": "Makaronak",
+        "caramel_cake_6": "Karamelu-tarta"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Lore tropikalak",
+      "description": "Aurkitu tropikoetako edertasun bizia lore exotikoen pakete honekin.",
+      "theme": "Lore tropikalak",
+      "images": {
+        "hibiscus_1": "Hibisko gorria",
+        "frangipani_2": "Frangipani gorri-zuria",
+        "sunflower_3": "Ekilorea",
+        "hydrangea_4": "Hortentsia zuria",
+        "rose_5": "Arrosa",
+        "chrysanthemum_6": "Krisantemoa",
+        "anthurium_7": "Antuoa",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Eskarzuria"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Kaleko janaria",
+      "description": "Arakatu kaleko janariaren mundu koloretsua munduko hamarretako goxoen pakete honekin.",
+      "theme": "Kaleko janaria",
+      "images": {
+        "taco_1": "Taco mexikarra",
+        "ramen_2": "Ramen japoniarra",
+        "dumplings_3": "Dumpling txinatarrak",
+        "samosa_4": "Samosa indiarra",
+        "pizza_5": "Pizza zati italiarra",
+        "crepe_6": "Krep frantsesa",
+        "satay_7": "Satay brotxeta thailandiarrak",
+        "burger_8": "Hanburgesa estatubatuarra",
+        "bao_9": "Bao ogi lurrunetan egina",
+        "takoyaki_10": "Takoyaki japoniarra"
+      }
+    },
+    "nature_landscape": {
+      "title": "Natur paisaiak",
+      "description": "Natur eszena lasai eta ederrak, poliki begiratzeko eta elkarrekin hitz egiteko.",
+      "theme": "Natur paisaiak",
+      "images": {
+        "mountain_1": "Mendilerroa",
+        "forest_2": "Baso lainotsua",
+        "lake_3": "Mendiko aintzira",
+        "desert_4": "Basamortuko dunak",
+        "waterfall_5": "Ur-jauzia",
+        "beach_6": "Hondartza hareatsua",
+        "river_7": "Ibai isurkaria",
+        "canyon_8": "Koloradoko arroila handia",
+        "sunset_9": "Ilunabarreko zerua",
+        "snow_mountain_10": "Mendi elurtua",
+        "flowers_11": "Basalore",
+        "rainforest_12": "Euri-basoa",
+        "iceberg_13": "Izotz-mendia",
+        "volcano_14": "Sumendia",
+        "cliff_15": "Itsaslabarra",
+        "aurora_16": "Aurora boreala",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Koral-arrezifea"
+      }
+    }
+  }
+}
