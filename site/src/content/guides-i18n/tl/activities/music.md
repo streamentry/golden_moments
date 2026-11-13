@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Mga Aktibidad sa Musika para sa Taong may Dementia"
+seoTitle: "Mga Aktibidad sa Musika para sa Dementia: Playlist at Ideya"
+description: "Paano ibahagi ang musika sa taong may dementia: listahan ng kanta ayon sa panahon at genre, 15 simpleng aktibidad sa musika, at tips sa bawat yugto."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Isa ang musika sa pinakamadaling ibahagi sa taong may dementia. Gumawa ng personal na
+  listahan ng kanta mula sa kanyang kabataan, pananampalataya at pamilya, patugtugin ito
+  nang walang patalastas o ingay sa paligid, at kumanta, pumalakpak, umindayog o makinig
+  lang nang magkasama. Pumili ng kalmado o masiglang musika ayon sa sandali, panatilihing
+  banayad ang volume, at tumigil kung may kantang nakasasakit sa kanya.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Pinakamabisa ang personal na musika: ang mga istilong minahal niya noong bata pa siya, kasama ang musika mula sa kanyang pananampalataya, kultura at mga okasyon ng pamilya."
+  - "Isang bagay sa bawat pagkakataon ang patugtugin, walang patalastas at naka-off ang TV."
+  - "Ang pagkanta, pagpalakpak, pag-indayog at simpleng pakikinig ay mga paraan ng pakikilahok."
+  - "Gamitin ang mas kalmadong musika para magpakalma at ang mas masiglang musika para magpasigla ng mood, at bantayan kung paano tumutugon ang tao."
+  - "Limitado ang pag-aaral sa mga istrukturadong sesyon ng musika; iminumungkahi naming ang musika ay gawing kaaya-ayang pagsasamahan, hindi panggagamot."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Anong uri ng musika ang pinakamabuti para sa taong may dementia?"
+    a: "Musikang matagal na niyang kilala at minamahal, kadalasan mula sa kanyang kabataan, kasama ang musika mula sa kanyang pananampalataya, kultura at mga pagdiriwang ng pamilya. Kung posible, hayaan siyang pumili. Bantayan ang kanyang mukha at katawan para malaman kung ano ang nagugustuhan niya, at alisin ang anumang tila nakasasakit sa kanya."
+  - q: "Dapat ba akong gumamit ng headphone?"
+    a: "May ilang taong nasisiyahan sa headphone dahil hinaharangan nito ang ingay, habang may iba na hindi ito komportable o nakalilito. Subukan muna ang speaker para makinig kayong magkasama. Kung gagamit ng headphone, panatilihing mahina ang volume at manatiling malapit."
+  - q: "Nakatutulong ba ang musika sa pagkabalisa o pagkagambala?"
+    a: "Ang kalmado at pamilyar na musika ay makatutulong lumikha ng mapayapang mood, at iminumungkahi ng Alzheimer's Association na gamitin ang musika para itakda ang atmosperang gusto mo. Hindi ito laging gumagana. Kung nababalisa ang tao, tingnan din kung may sakit, gutom, ingay o pagod."
+  - q: "Nakakasiya pa rin ba ng musika ang mga taong nasa late stage ng dementia?"
+    a: "Marami pa rin. Sinasabi ng Alzheimer's Association na kahit nasa late stage, maaaring pumadyak ang tao sa ritmo o kumanta kasabay ng kanta mula pagkabata. Umupo nang malapit, patugtugin nang mahina ang musika at hawakan ang kamay niya o umindayog nang magkasama."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Isa ang musika sa pinakasimpleng bagay na maibabahagi mo sa taong may dementia. Wala itong hinihinging tamang sagot o mga hakbang na susundin. Ang pamilyar na kanta ay maaaring magpangiti, magpapaypay ng paa o makapagpakanta ng ilang salita, kahit sa araw na mahirap ang usapan. Ang kailangan lang ay ang tamang musika para sa taong ito at tahimik na sandaling patugtugin ito.
 
-## What music activities work for people with dementia?
+## Anong aktibidad sa musika ang bagay sa taong may dementia?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Mahusay ang pakikinig, pagkanta, pagpalakpak, pag-indayog at pag-uusap tungkol sa musika. Iminumungkahi ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ang pagpapatugtog ng musika, pag-uusap tungkol sa musika at sa artista, pagkanta o pagsayaw sa kilalang kanta, at pagpunta sa konsiyerto o programang musikal sa komunidad. Idinadagdag ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) na ang galaw, gaya ng pagpalakpak o pagsayaw, ay nakadaragdag sa kasiyahan, at na maaaring maging paraan ng pagkakaugnay ang musika kapag naging mahirap na ang mga salita.
 
-## How do you build a personal playlist?
+## Paano bumuo ng personal na listahan ng kanta?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Ang pinakamagagamit na bagay na maaari mong buuin ay listahan ng musikang may kahulugan sa taong ito. Binibigyang-diin din ng [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ang musikang may personal na kahulugan. Narito ang simpleng paraan para gumawa nito.
 
-### Start with their life
+### Magsimula sa kanyang buhay
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Ang kanyang kabataan.** Isipin kung ano ang tumutugtog sa radyo, sa sayawan at sa mga pelikula noong bata pa siya.
+- **Malalaking sandali.** Ang musika sa kasal niya, ang unang sayaw, o paboritong album ng pamilya sa biyahe.
+- **Pananampalataya at kultura.** Mga himno, gospel, banal na musika, o kanta sa unang wika niya.
+- **Trabaho at paglilingkod.** Mga banda ng martsa, awit sa trabaho, o musikang nakaugnay sa isang panahon sa hukbo.
+- **Ano ang naaalala ng pamilya.** Itanong sa mga kapatid, anak at matatandang kaibigan kung ano ang lagi niyang pinapatugtog o kinakanta.
 
-### Think in genres, not just songs
+### Mag-isip ayon sa genre, hindi lang ayon sa kanta
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Kung hindi ka sigurado kung saan magsisimula, subukan ang ilang minuto mula sa bawat isa at tingnan ang reaksyon: big band at swing, doo-wop, Motown at soul, maagang rock and roll, country and western, bluegrass, gospel at himno, mga tema ng Broadway, jazz standards, Latin na musika tulad ng bolero o mariachi, polka, folk at klasikal. Itira ang nagdudulot ng ngiti o pumapadyak na paa; alisin ang nagdudulot ng kunot-noo.
 
-### Make it easy to play
+### Gawing madaling patugtugin
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Walang patalastas.** Babala ng Alzheimer's Association na maaaring makalito ang mga ad. Gumamit ng na-download na musika, CD, plaka o serbisyong walang ad.
+- **Isang simpleng device.** Speaker na may isang malaking button, o listahang nakahanda na, para sinumang makapagsimula nito.
+- **Dalawang maikling listahan.** Isang kalmadong listahan para magpakalma at isang masiglang listahan para magpasigla ng mood.
+- **Lagyan ng label.** Isulat ang pangalan ng tao at “paboritong musika” sa device para magamit ito ng mga bisitang kamag-anak at staff ng pag-aalaga.
 
-## 15 music activities to try
+## 15 aktibidad sa musika na subukan
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Makinig nang magkasama.** Umupo nang magkatabi na walang ibang nangyayari. Kumpleto nang aktibidad ang pakikinig.
+2. **Kumanta kasabay niya.** Simulan mo mismo ang pagkanta. Bilang na ang paghuni o pagbigkas ng mga salita nang walang tinig.
+3. **Pumalakpak o pumadyak sa ritmo.** Hampasin ang tuhod, tapikin ang mesa, o gumamit ng maliit na tambol o shaker.
+4. **Mabagal na sayaw.** Magkahawak-kamay at umindayog sa kusina, o sumayaw nakaupo habang magkasabay ang galaw ng braso.
+5. **Sayaw na may panyo.** Iwagayway ang magagaang panyo ayon sa musika, nakatayo o nakaupo.
+6. **Pag-usapan ang musika.** Anyayahan, huwag subukin: “Parang sayawan ito. Ikuwento mo sa akin ang mga sayaw.” Huwag kailanman itanong “Naaalala mo ba ang kantang ito?”
+7. **Patugtugin ang buong album.** Ilagay ang plakang minahal niya, mula simula hanggang dulo, may kape.
+8. **Tingnan ang cover ng album.** Ang mga lumang sleeve ng plaka ay magandang paksa para sa usapan tungkol sa moda, sasakyan at mga mukha.
+9. **Manood ng musikal.** Ang pelikulang musikal o konsiyerto mula sa kanyang panahon ay magandang gabi. Mag-pause para sa pahinga.
+10. **Tumugtog ng instrumentong alam niya.** Maaaring magustuhan ng dating pianista o gitarista ang simpleng pagtugtog. Mamaya, sapat na ang pagtugtog ng ilang nota nang magkasama.
+11. **Musika habang gumagawa.** Patugtugin ang paboritong kanta habang nagtutupi ng labada o naglalatag ng mesa.
+12. **Awit sa umaga.** Simulan ang bawat araw sa parehong masayang kanta bilang bahagi ng gawain.
+13. **Kumanta ng himno o banal na musika.** Patugtugin ang musika ng kanyang pananampalataya at kumanta nang magkasama.
+14. **Sumali sa grupong umaawit.** Inilalarawan ng NHS ang mga grupong umaawit bilang nakabubuti sa mood at kagalingan. Magtanong sa lokal tungkol sa mga koro na bukas sa taong may dementia.
+15. **Pumunta sa live na musika.** Maikling konsiyerto sa komunidad o banda sa labas. Umupo malapit sa labasan at umalis anumang oras na gusto mo.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Para sa mas magaan na aktibidad sa paglalaro ng salita gamit ang pamilyar na parirala, subukan ang [Tapusin ang kasabihan](/games/finish-the-saying/), kung saan palagi mong maipapakita ang dulo.
 
-## Matching music to the moment
+## Pagtutugma ng musika sa sandali
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Iminumungkahi ng Alzheimer's Association na gamitin ang musika para lumikha ng mood na gusto mo: kalmadong musika para sa mapayapang kapaligiran, at masiglang kanta mula sa kabataan ng tao para pasiglahin ang loob-loob niya.
 
-| Moment | Try | Tip |
+| Sandali | Subukan | Tip |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Pagbangon | Pamilyar at masiglang kanta | Ang parehong kanta tuwing umaga ay nagiging banayad na senyas |
+| Mga gawaing-bahay | Masiglang paborito | Maaaring maramdamang may kasama ang trabaho dahil sa musika |
+| Pagkain | Malambot na instrumental | Panatilihing mahina para hindi makipagkumpitensya sa pagkain |
+| Hapon na | Kalmado at pamilyar na musika sa magandang ilaw | Tingnan ang [kabalisahan sa hapon](/caregiving/late-day-restlessness/) |
+| Oras ng pagtulog | Mabagal at banayad na musika | Pababain ang volume at ilaw nang sabay |
+| Late stage | Mga pinakamamahal niyang kanta, napakahina | Umupo nang malapit at hawakan ang kamay |
 
-## Tips for a good experience
+## Mga tip para sa magandang karanasan
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Patayin ang ibang ingay.** Iminumungkahi ng Alzheimer's Association na isara ang bintana at pinto at patayin ang TV para ang musika lang ang tunog.
+- **Panatilihing banayad ang volume.** Dapat komportable ang musika, hindi malakas. Kung gumagamit ng hearing aid ang tao, tiyaking nakasuot at gumagana ito; tingnan ang [pandinig](/brain-health/hearing/).
+- **Bantayan ang malulungkot na alaala.** May mga kantang nagdadala ng pighati, digmaan o pagkawala. Kung nakasasakit sa kanya ang isang kanta, aliwin siya at palitan ito.
+- **Hayaan siyang mamuno.** Kung posible, hayaang pumili ang tao ng musika, at tanggapin ang pagtanggi.
+- **Tumigil anumang oras.** Ang limang minuto ng musika ay magandang gawain. Ganoon din ang pagpatay ng musika at pag-upo nang tahimik.
 
-## What does the research say about music and dementia?
+## Ano ang sinasabi ng pananaliksik tungkol sa musika at dementia?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Limitado ang ebidensya. Tiningnan ng isang [Cochrane review noong 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ang 30 pag-aaral ng istrukturadong sesyon ng musika, karamihan ay kasama ang mga grupo sa mga nursing home. Natuklasan nitong maaaring bahagyang gumaan ang mga sintomas ng depresyon kumpara sa karaniwang pangangalaga, pero walang malinaw na epekto sa pagkabalisa, kagalingan, pag-iisip at memorya, at walang epektong nagpatuloy matapos matapos ang mga sesyon.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Ibinabahagi namin ang musika dahil ito ay kaaya-aya, mababa ang presyon na paraan ng pagsasamahan, hindi bilang panggagamot. Para sa mga pangkatang setting, tingnan ang [mga aktibidad ng grupo sa care home](/activities/care-home-groups/); para sa paggamit ng musika kasama ng mga larawan at kuwento, tingnan ang [mga aktibidad sa pagbabalik-tanaw](/activities/reminiscence/).
