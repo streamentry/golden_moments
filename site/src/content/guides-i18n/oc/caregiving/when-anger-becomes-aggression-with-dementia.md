@@ -48,7 +48,7 @@ Pausatz la tasca, reculatz e utilizatz una frasa calma e corta. La [Alzheimer's 
 
 - **Arrestatz çò que se debana se podètz.** Se lo banhar, lo vestir, una visita o una autra tasca sembla desquietar la persona, pausatz. Aquò pòt esperar, levat se i a un besonh immediat de seguretat o de santat.
 - **Donatz-li de plaça.** Reculatz e gardatz una sortida liura per cadun. Non acorralatz, non blocatz, non crosiatz e non tocatz la persona a l'improviste.
-- **Parlatz bas e en de mots brèus.** Podètz dire : « Vese que sètz pertorbat. Vos daissarai un pauc de plaça. » Argumentatz pas, menaçatz pas e demandatz pas una explicacion.
+- **Parlatz bas e en de mots brèus.** Podètz dire : « Vesi que sètz pertorbat. Vos daissarai un pauc de plaça. » Argumentatz pas, menaçatz pas e demandatz pas una explicacion.
 - **Alunhatz los autres.** Un enfant, un visitaire o un ajudant pòt anar dins una autra sala pendent que la persona se calma. Una sola persona calma parla mai facilament que mantuns que volon ajudar.
 - **Partissètz se i a de violéncia fisica.** Anatz-vos-en a un lòc mai segur e demandatz d'ajuda a un autre. Ensajatz pas de tenir la persona.
 
@@ -56,7 +56,7 @@ L'[Alzheimer's Society recomanda de reculhir, d'evitar la contencion o un tocar 
 
 ## Qué pòt contribuir al comportament?
 
-I pòt aver mai d'un factor, e un aidant pòt pas diagnosticar la causa. L'Alzheimer's Association mena la malaise fisica, lo estrés ambiental e los problèmas de comunicacion coma contribucions possiblas.
+I pòt aver mai d'un factor, e un aidant pòt pas diagnosticar la causa. L'Alzheimer's Association menciona la malaise fisica, lo estrés ambiental e los problèmas de comunicacion coma contribucions possiblas.
 
 Pensatz a çò que s'es debanat pauc abans del cambiament :
 
@@ -68,17 +68,17 @@ Pensatz a çò que s'es debanat pauc abans del cambiament :
 
 L'[Alzheimer's Society suggerís de cercar de modèls e de pensar a çò que la situacion sembla venir del punt de vista de la persona](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression). Aquestas questions son de pistas per l'observacion, pas la pròva que tal factor a causat lo comportament. Ensajatz pas d'examinar, de tenir ni de medicar la persona vos-meteis.
 
-## Coma pot-on réduire lo risc d'un autre episòdi?
+## Coma pòt-on reduire lo risc d'un autre episòdi?
 
 Utilizatz çò qu'avètz observat per adaptar la següenta interaccion. Aquò pòt ajudar, mas pòt pas garantir que lo comportament tornarà pas. Cambiatz un sol punt a la fòi per veire mai aisidament se la persona sembla mai a l'aise.
 
 - **Causissètz un moment mai calme.** Se una tasca va sovent mal quand la persona es fatigada, demandatz se una autra ora convèn melhor.
 - **Rendètz l'environament mai aisit.** Atudatz lo bruch de fons, reduire lo nombre de personas dins la sala e aviatz tot çò que vos cal abans de començar.
-- **Explicatz un pas e esperatz.** Apropats-vos de front, dire çò que fasetz, demandatz abans d'ajudar e laissatz a la persona lo temps de respondre.
+- **Explicatz un pas e esperatz.** Apropats-vos de front, dire çò que fasètz, demandatz abans d'ajudar e laissatz a la persona lo temps de respondre.
 - **Arrestatz als senhals de pena.** Un refús, un retirament, un vis tens o una votz mai auta pòdon indicar qu'es temps de pausar. Considerat pas que acabar la tasca importa mai que la comoditat.
 - **Partejatz un plan simple.** Se mantuns personas ajudan, convenètz dels senhals que vòlon dire « pausa », d'una frasa calma a utilizar e de la persona a contactar se lo modèl cambia.
 
-Per las ideas per cada tasca, vegetz nòstras guidas sul [bane](/caregiving/bathing-with-dementia/) e sul [vestir](/caregiving/getting-dressed-with-dementia/). La guida sus los [conselhs de comunicacion](/caregiving/communication-tips/) explica las manièras de parlar e d'escotar sens pression.
+Per las idèas per cada tasca, vegetz nòstras guidas sul [banhar](/caregiving/bathing-with-dementia/) e sul [vestir](/caregiving/getting-dressed-with-dementia/). La guida sus los [conselhs de comunicacion](/caregiving/communication-tips/) explica las manièras de parlar e d'escotar sens pression.
 
 ## Qué far après que la situacion se calma?
 
@@ -92,6 +92,6 @@ Se una tasca mena sovent a la pena, cambiatz l'ora o l'aproximacion, o demandatz
 
 Contactatz lo metge de la persona per una agressivitat novèla, sobtada, repetida o en progression. L'[Alzheimer's Association conselha un examen medical per los cambiaments de comportament, sobretot quand apareisson de còp](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger). La dolor, la malautiá, lo somèlh, l'environament e los medicaments pòdon tots aver besonh d'un examen. Un clinician pòt avaluar la situacion de la persona.
 
-Demandatz d'ajuda medicala urgenta se la persona vira subitament confusa, es ferida o sembla gravament malauta. Se vos o qualqu'un d'autre es en perilh immediat, contactatz los servicis d'urgéncia locals. Esperatz pas de ramassar de notas ni d'ensajar de trobar la causa abans d'agir.
+Demandatz d'ajuda medicala urgenta se la persona vira subitament confusa, es ferida o sembla gravament malauta. Se vos o qualqu'un d'autre es en perilh immediat, contactatz los servicis d'urgéncia locals. Esperatz pas de ramassar de nòtas ni d'ensajar de trobar la causa abans d'agir.
 
 La vòstra seguretat compta tanben. Parlatz a un membre de la familha de confiança, a un clinician o a un servici local de sosten per la demència se los episòdis se repeton o se vos sentissètz amenaçat. Demandatz un plan que protegís a la persona e las personas a l'entorn. Vos cal d'ajuda; gerir aquò tot sol es pas obligatòri.

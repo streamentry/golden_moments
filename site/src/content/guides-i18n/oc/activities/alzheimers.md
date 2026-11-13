@@ -22,7 +22,7 @@ faq:
   - q: "I a una diferéncia entre las activitats per la demència e las activitats per l'Alzheimer?"
     a: "Generalament non. La malautiá d'Alzheimer es la causa la mai correnta de demència, e las memes idèas d'activitats s'aplican. Çò que ajuda amb l'Alzheimer es de saber que los sovenirs recents s'esvanisson en primièr, donc las activitats fondadas sus las competéncias, las cançons e las rotinas vièlhas se debanan sovent mai aisidament."
   - q: "Qué pòt encara aprecear una persona amb Alzheimer a un estadi avançat?"
-    a: "La musica preferida, un massatge doç de las mans, de causas tendras de tenir, qu'on la legisse, s'assentar a l'exterior e la companhia d'una persona de confiança. Fasètz-lo corte e calme, e observatz son visatge e son còs per saber çò que li agrada."
+    a: "La musica preferida, un massatge doç de las mans, de causas tendras de tenir, que li legisson de tèxtes, s'assentar a l'exterior e la companhia d'una persona de confiança. Fasètz-lo corte e calme, e observatz son visatge e son còs per saber çò que li agrada."
   - q: "Cossí interessar una persona amb Alzheimer a una activitat?"
     a: "Demandatz-li d'ajuda en luòc d'anonciar una activitat, preparatz tot d'avança, e comencetz vosautres meteis per que pòsca se junher. Causir l'ora del jorn ont es a son melhor fa una granda diferéncia. Se refusa, ensajatz pus tard o ofrissètz una version mai corta."
 sources:
@@ -67,7 +67,7 @@ Las activitats que se fondan sus de coneissenças vièlhas e practicadas long te
 - **Reconéisser mai que se remembrar.** Designar l'imatge que correspond es mai facil que la nomenar de memòria. Es per aquò que los jòcs d'imatges amb tot a la vista fonciónan mai melhor que los questionaris.
 - **Los sens.** La textura, l'odor, la calor, lo gost e lo son demòran pleins de sens luènh après que los mots se fan malaisits. Vegetz las [activitats sensorialas](/activities/sensory/).
 
-Çò que va mens ben : tot çò qu'a un cronòmetre, las règlas novèlas a aprene, las longas sequéncias de pas a se remembrar, o las questions que testan la memòria, coma « Vos remembratz qui es aquò ? ». Aquestas causas plaçan la part difícila de l'Alzheimer al centre.
+Çò que va mens ben : tot çò qu'a un cronòmetre, las règlas novèlas a aprene, las longas sequéncias de pas a se remembrar, o las questions que testan la memòria, coma « Vos remembratz qui es aquò? ». Aquestas causas plaçan la part difícila de l'Alzheimer al centre.
 
 ## Activitats per l'Alzheimer a l'estadi precòç
 
@@ -87,8 +87,8 @@ Mai d'idèas : [activitats per l'estadi precòç](/activities/early-stage/).
 L'Alzheimer's Association qualifica l'estadi mejan de generalament lo mai long, e dis que pòt durar de nombroses annadas. Los mots se mesclan, la frustracion arriba mai lèu, e la persona a besonh de mai de cura. L'Alzheimer's Foundation of America ajusta que mantuns an besonh d'ajuda per començar o continuar las activitats. Lo ròtle de l'aidant cambia : es de preparar las causas, de mostrar mai que d'explicar, e de prene en carga las partidas dificilas.
 
 1. **Plegar, classar e aparièr.** De tovalhas, de chaussetas, de culhièrs, de botons segon la color. De tascas vertadièras, fachas un al costat de l'autre.
-2. **Cantar e se bolegar amb la musica.** Battre de las mans, balancejar o dansar dins la cosina. Comencetz a cantar vos meteis e laissatz-la s'i juntar.
-3. **Mirar d'albums de fotos.** Descrivètz çò que vesètz e convidatz a contar d'istòrias : « Quina auto ! Contatz-me aquò. » Seguissètz los noms que emplega.
+2. **Cantar e se bolegar amb la musica.** Battre de las mans, balancejar o dansar dins la cosina. Comencetz a cantar vosautres meteis e laissatz-la s'i juntar.
+3. **Mirar d'albums de fotos.** Descrivètz çò que vesètz e convidatz a contar d'istòrias : « Quina auto. Contatz-me aquò. » Seguissètz los noms que emplega.
 4. **Jogar de simples jòcs d'imatges.** [Parelhas d'imatges](/games/picture-pairs/) amb quatre a sièis tuiles e las imatges demorant visiblas, o [Lo meteis](/games/find-the-same/) amb dos o tres causidas.
 5. **Acabar de dichs familièrs.** « Una pòma per jorn fai doctor… » Los dichs aprenguts fa long temps venon sovent de sòn. Ensajatz [Acabar lo dicton](/games/finish-the-saying/), ont podètz mostrar cada fin amb un tòc.
 6. **Arrosar e aver cura de las plantas.** De pòts en interior o una jardiniera, amb un arrosaire pichon.
@@ -131,8 +131,8 @@ Los consèls del NIA se resumisson en qualques usatges : adaptar l'activitat a �
 
 - **Causissètz l'ora del jorn ont es a son melhor,** e gardatz de sessions cortas.
 - **Preparatz tot d'avança** per poder començar de seguida.
-- **Convidatz, non donatz d'ordres.** « Poiriatz me donar una man ? » vai mai melhor que « Es l'ora de l'activitat ! »
-- **Faites lo primièr pas vosautres** e laissatz-la s'i juntar.
+- **Convidatz, non donatz d'ordres.** « Poiriatz me donar una man? » vai mai melhor que « Es l'ora de l'activitat! »
+- **Fasetz lo primièr pas vosautres** e laissatz-la s'i juntar.
 - **Ofrissètz un pas e una causida a la fòi.**
 - **Laissatz-la far a sa faiçon.** Las tovalhas tòrtas son adequadas.
 - **Arrestatz quand es encara agradiu.** Acabar lèu es un bon resultat, pas un escap. Se refusa, vejatz [quand una persona amb demència dis non](/caregiving/when-they-say-no/).
