@@ -61,7 +61,7 @@ Abantu abadala bavame ukungathandi izithombe zezingane. Funa:
 - **Izindawo zemvelo:** igadi enezimbali ezinkulu, ichibi nesikebhe, izinyoni esihlahleni.
 - **Izinto ezijwayelekile:** ithawula lokwenza itiye, ibhayisikili, isithelo, isigqoko.
 - **Iziklamo ezinkulu nelula:** imandala nezimo zejometri ezinemibala eqinile nezingxenye ezimbalwa ezinkulu.
-- **Imidwebo yobuciko noma izindawo** umuntu angase angazi kumbe azazi esuka endaweni ayithandayo noma komdwebi athandayo.
+- **Imidwebo yobuciko noma izindawo** umuntu angazibona esuka endaweni ayithandayo noma komdwebi awuthandayo.
 
 Gwema amaphepha anezindawo ezincane nezinamathelene, ezikhathaza ukuzigcwalisa. Amaphepha abantu abadala okuphrinta angenye yezinketho ezinhle, futhi [imisebenzi ye-dementia yamahhala okuphrinta](/activities/printable/) yethu ihlanganisa namaphepha anombhalo omkhulu.
 
