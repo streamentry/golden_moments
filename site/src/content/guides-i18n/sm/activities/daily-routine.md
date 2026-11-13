@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Faiga Malū o Aso mo Se Tasi o Loo Ola ma le Dementia"
+seoTitle: "Faiga o Aso mo le Dementia: Se Aso Faataʻitaʻiga Faigofie"
+description: "Se aso faataʻitaʻiga faigofie mo se tasi o loo ola ma le dementia, ma taimi o meaʻai, gaioiga ma malologa i se faasologa mautu, ma auala e fausia ai lau lava ma faafetaiʻi."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  O se faiga malū o aso e tumau ai taimi o le ala i luga, meaʻai, tausiga o le tino ma le moe i taimi tutusa, faatu le gaioiga sili i le taimi lelei o le tagata, ma faaʻaogaina gaioiga ma malolo. Fausia mai ai o le tagata na ola ai, aua le faatumu le aso, ma suia le fuafuaga pe a manaʻo le aso.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Taimi mautu mo le ala, meaʻai, tausiga ma le moe e avea ai le aso ma se faiga masani."
+  - "Tuʻu le gaioiga sili i le taimi lelei o le tagata o le aso, e masani i le taeao."
+  - "Aua le faatumu minute taʻitasi. Malolo ma taimi filemu o se vaega o le faiga."
+  - "Malamalama i le aso, gaioiga o le tino i aso taʻitasi, ma le aloese mai moe umi ma kofe i le aso mulimuli e mafai ona fesoasoani mo le faalavelave o le afiafi."
+  - "O se faiga o se taʻiala, e le o se tulafono. Faafefe, puupuu poʻo aveese mea i aso faigata."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Aisea e aoga ai se faiga o aso mo se tasi ma le dementia?"
+    a: "O se aso e mautu ai o loo itiiti ai filifiliga ma mea e sese ai, o le mea e toatele tagata o loo ola ma le dementia e lagona ai le faamalosi. Ua taʻu mai e le Alzheimer's Association o se aso fuafuaina e mafai ai ona e faaitiitia le taimi e mafaufau ai i le mea e faia, ma faaaupu le taimi i mea e fiafia ai ia te outou uma. E fesoasoani foi i le tausiga e faʻafaigofie ai lo latou aso."
+  - q: "O le ā se faiga lelei o aso mo se tasi ma le dementia?"
+    a: "E leai se faiga saʻo e tasi. O le faiga lelei e tumau ai taimi o le ala i luga, meaʻai ma le moe e tusa lava o taimi tutusa, tuʻu le tausiga o le tino ma le gaioiga sili i taimi o le tagata e sili ai le lelei, aofia ai taimi i fafo poʻo latalata i se faamalama, ma tuʻu le avanoa mo le malolo. Fausia e faavae i le auala na ola ai le tagata."
+  - q: "E tatau ea ona moe puupuu le tagata ma le dementia i le aso?"
+    a: "O se malologa puupuu e mafai ona fesoasoani, aemaise lava pe a maeʻa le aoauli. O le National Institute on Aging fautua e aloese mai moe umi ma le moe i le afiafi, ona o le lototele poʻo le moe le lelei e mafai ona faaopoopo ai i le faalavelave o le afiafi. Afai o le moe o se faafitauli moni, talanoa ma lau fomaʻi."
+  - q: "O le ā le mea e tatau ona ou faia pe a teena e latou le faiga?"
+    a: "Tuʻu ia i le taimi ma taumafai i le isi taimi poʻo i se isi auala. Le teena e mafai ona faaalia ua latou ogaoga, ua mafatia, ua faatigaina poʻo ua le sauni lava. O le faiga o loo faia e fesoasoani i aso e sili ai le faigofie, o lea e tatau ona e faafetaiaʻi ai, aua le faamalosi."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+O se faiga malū e faaali ai le aso i se foliga masani: ala i luga, meaʻai, gaioiga laʻiti, malologa ma le moe i taimi e tutusa. E faaitiitia ai filifiliga ma mea e le mautinoa, ma e avea ai ma se fuafuaga mo taimi e te mafaufau ai i le mea e tatau ona e faia i le isi laasaga. O le faiga o loo i lalo o se faʻataʻitaʻiga, e le o se tulafono. Faaaogā e avea ma se amataga, ona fausia lea i le tagata e te tausia.
 
-## Why does a daily routine help?
+## Aisea e aoga ai se faiga masani o aso?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+O se faiga tumau e aoga aʻo faigofie ona mulimuli i auala masani nai lo auala fou. Le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) taʻu mai o se aso fuafuaina e faaitiitia ai le taimi e filifili ai le mea e faia, ma faaaupu le taimi mo gaioiga e fiafia ai. Ua taʻu foi o taimi masani mo le ala ma le moe e mafai ona fesoasoani mo faafitauli o le moe ma le faalavelave o le afiafi. O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) fautua e faamamā le tino, faafofoga ma meaʻai i taimi tutusa i aso uma e pei o se fale malū, ma le [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) fautua foi e tumau faiga tutusa.
 
-## A sample gentle day
+## Se aso malū faataʻitaʻiga
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+O taimi o se faataʻitaʻiga naʻo. Suia le aso atoatoa e vave pe tuai e fetaui ai ma le faasologa masani o le tagata.
 
-| Time | What happens | Ideas | On a harder day |
+| Taimi | O le mea e tupu | Manatu | I se aso faigata |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 i le taeao | Ala i luga, taʻi, ofu | E tutusa le faasologa i aso uma; tuʻu ʻofu i le faasologa e faaofuina ai | Faafaigofie le tausiga; se ʻofu fou e lava |
+| 8:45 i le taeao | Aʻai i le taeao | Kofe ma nusipepa faitau leo, poʻo le leitio | Aʻai faatasi i le filemu, leai se mamafa e talanoa |
+| 9:30 i le taeao | Galuega autu | Faafeu lau, kuka keke, faatoʻaga, savali puupuu poʻo malaga puupuu | Se faiga puupuu, poʻo faaali naʻo le matamata i lau faia |
+| 10:30 i le taeao | Taimi filemu | Musika, album o ata, poʻo nofo latalata i le faamalama | Malolo i le nofoa e fiafia ai |
+| 11:00 i le taeao | Fesoasoani i le meaʻai aoauli | Taʻu fualaau, seti le laulau | E e kuka; latou te nofo ma oe |
+| 12:00 i le aoauli | Meaʻai aoauli ma faamamā | Mama le laulau, faamamā ni ipu laʻititi | Aua le faia galuega |
+| 1:00 i le aoauli | Malologa puupuu | Vae i luga, musika malū | E tutusa |
+| 2:00 i le aoauli | Fafo poʻo gaioiga | Savali, taimi i le faitoto, faatoʻaga, lagaʻi se pulu | Nofo latalata i le faamalama lelei |
+| 3:00 i le aoauli | Faʻaagafesootai poʻo faiga fatafata | Asiasiga, valaau, [picture pairs](/games/picture-pairs/), kolo, taʻaloga pepa | Se inu ma se meaʻai laʻiti faatasi |
+| 4:30 i le aoauli | Taimi o le faamalolo | Faapuupuu faamalu, faamalamalama, galuega malū e pei o le faavasegaina o lau laʻiti | Musika fiafia, leo malū |
+| 5:30 i le afiafi | Meaʻai afiafi | Fesoasoani e faaliliu ipu poʻo faatulaga laulau | Meaʻai faigofie ma masani |
+| 6:30 i le afiafi | Faatasi i le afiafi | Taʻu tala anamua i le keke, taʻaloga pepa, se faaaliga masani, faamamā lima | Filemu lava e faatasi ai |
+| 8:00 i le pō | Faiga o le moe | Faamamā poʻo sasa, ofu moe, musika malū, malamalama mamaʻa | Faapuupuu mea uma; faamalolo muamua |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+O lenei faataʻitaʻiga e faasolo i le fausaga o le fuafuaga faataʻitaʻiga a le Alzheimer's Association mo laasaga muamua ma waenā, lea e alu mai le tausiga o le tino ma le aʻai i galuega faigofie, savali, musika, malolo ma asiasiga i le afiafi, taʻu tala ma sauni mo le moe.
 
-## How do you build your own routine?
+## E faapefea ona e fausia lau lava faiga?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Amata mai le auala na ola ai le tagata i aso uma, e le o se laulau. O le Alzheimer's Association fautua e mafaufau i mea nei aʻo leʻi fuafua:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ana fiafia, ana le fiafia, malosi ma tomai.**
+- **Auala na ola ai i aso uma.** O se tagata na masani ona ala vave e tatau ona savali vave i le taeao. O se tagata e moe lata e atonu le mafai ona fiafia i se amataga i le 8 i le taeao.
+- **Taimi sili o le aso.** Tuʻu ai le faamamā, malaga ma le gaioiga autu.
+- **Taimi e lava** mo meaʻai, tausiga o le tino ma le ofu, ina ia le faasaʻoloto ai le tagata.
+- **Taimi o le ala ma le moe e tumau.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+O le puna lava lea e fautua ai le aofia o galuega o le fale, meaʻai, tausiga o le tino, gaioiga faafanua, musika, malolo, faʻaagafesootai ma taimi faafiafia e pei o se tagata e asiasi mai.
 
-### Try it for a week, then adjust
+### Faataʻitaʻi mo le vaiaso, ona suia lea
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Tumau se faamatalaga puupuu i aso taʻitasi. Le Alzheimer's Association fautua e fesili pe o ā gaioiga na sili ona lelei ma aisea, pe o taimi na tele ai mea i le aso poʻo le itiiti o galuega, ma pe na fiafia poʻo faia ai le popole mo fuafuaga e le'i fuafua muamua. Tumau mea o loo lelei, ma suia mea e le lelei.
 
-### Make it visible
+### Faia ina ia vaaia
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Afai e mafai ona faitau le tagata, se laupapa poʻo se pepa tetele o le fuafuaga o le aso e mafai ona faafiafia ai. Tumau puupuu: "Aʻai. Savali faatasi ma Sarah. Meaʻai. Malolo." Nisi tagata e sili ona lelei pe a le iloa muamua; o le Family Caregiver Alliance fautua e aua le talanoa i fuafuaga seia oo ina latalata lava pe a faia, pe a faia ai le popole.
 
-## How to adapt the routine
+## E faapefea ona fetaui le faiga
 
-### Leave room to breathe
+### Tuʻu avanoa e manava ai
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Aua le faatumu minute taʻitasi. O le Alzheimer's Association faamamafa e manaʻomia e le tagata le paʻia o gaioiga ma malolo, ma e mafai ona manaʻomia malologa sili atu. Afai latou te lagona le faaleagaina, le faanoanoa poʻo le ita, suia gaioiga poʻo malolo.
 
-### Protect the late afternoon
+### Puipui le aso mulimuli
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+E toatele tagata e sili ona lototele pe a mou le malamalama o le aso. O le NIA fautua taimi i fafo poʻo latalata i le faamalama mo le malamalama o le la i aso taʻitasi, gaioiga i aso taʻitasi e aunoa ma le fuafua tele, aloese mai le kofe ma le ava malosi i le aso mulimuli, ma aloese mai moe umi i le aso mulimuli. Nisi aiga foi e maua e lelei le puipuiina o faamalu ma le tutuina o malamalama aʻo leʻi pogisa. Vaai i [faalavelave o le aso mulimuli](/caregiving/late-day-restlessness/) ma [moe](/brain-health/sleep/).
 
-### Change it as needs change
+### Suia pe a suia manaʻoga
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Laasaga muamua:** faia le fuafuaga faatasi. E mafai ona manaʻo le tagata i se faiga tusitusi e pulea e ia lava.
+- **Laasaga waenā:** e te taitaia sili atu. Gaioiga laʻiti, malolo sili atu ma galuega masani e toatele; vaai i [gaioiga o le vaega waenā](/activities/middle-stage/).
+- **Laasaga mulimuli:** o le faiga e taulaʻi i le filemu, meaʻai ma tausiga, ma taimi laʻiti o lagona e pei o musika poʻo faamasaʻi lima i le va; vaai i [gaioiga o le laasaga mulimuli](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Suia gaioiga, aua le suia le faiga
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Tumau meaʻai, malolo ma moe e tutusa, ma faasolo gaioiga i le va. O le [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fautua faaaogā gaioiga eseese i aso eseese e tumau ai le fiafia. E mafai ona e faia keke i se aso, faatoʻaga i le isi aso ma vaai i ata anamua i le isi. O aʻoa o [101 manatu o gaioiga](/activities/ideas/) ma [galuega o le fale](/activities/household-tasks/) e mafai ona faatumu ai taimi.
 
-## When the day goes sideways
+## A o le aso e le aʻafia ai le fuafuaga
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+O nisi aso e le mulimuli i se fuafuaga. Faʻalavelave, se po le lelei, se asiasiga a le fomaʻi poʻo se suiga o le tau e mafai ona faalavelave ai mea uma. Tuʻu le fuafuaga, tumau mea taua (meaʻai, vai, malolo, lagolago) ma taumafai i le aso e sosoo. Afai o le tagata e teena se mea, vaai i [pe a teena le tagata](/caregiving/when-they-say-no/). O le faamalulu o le manava faatasi, e pei o le [faafefe malū](/games/calm-breathing/), e mafai ona fesoasoani ia te outou uma e toe faʻatū.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+O lou lava faiga e taua foi. Fausia malologa mo oe lava, ma fai atu i aiga poʻo se auaunaga fesoasoani e faaʻaoga ai taimi tumau e te malolo ai. Vaai i [tausia o oe lava](/caregiving/caregiver-self-care/).
