@@ -21,7 +21,7 @@ faq:
   - q: "Kufanele sihlukanise kanjani imisebenzi yokunakekela?"
     a: "Bhala imisebenzi kanye nesikhathi noma umzamo othathayo ngayinye. Buza ukuthi ubani ofuna futhi okwazi ukuyenza ngayinye; amalungu omndeni angasiza ngezindlela ezihlukile, kufaka phakathi izinsuku zokuvakashela udokotela, izingcingo, ukuthutha noma izindwendwe ezivamile. Buyekeza uhlelo lapho izimo zishintsha."
   - q: "Yini uma sisangavumelani?"
-    a: "Uma ukungavumelani kuqhubeka, cabanga ukubuza udokotela othembekile, isisebenzi sezenhlalakahle, umeluleli, umeluleli wengxabano noma umholi wenkolo ukuthi asize umndeni ukuxoxa. Ngemibuzo yezomthetho mayelana nokuthi ubani ongenza isinqumo esithile, buza ichwepheshe elifanele endaweni."
+    a: "Uma ukungavumelani kuqhubeka, cabanga ukubuza udokotela othembekile, isisebenzi sezenhlalakahle, umeluleli, umlamuli noma umholi wenkolo ukuthi asize umndeni ukuxoxa. Ngemibuzo yezomthetho mayelana nokuthi ubani ongenza isinqumo esithile, buza ichwepheshe elifanele endaweni."
 sources:
   - title: "Resolving Family Conflicts"
     publisher: "Alzheimer's Association"
@@ -40,15 +40,15 @@ I-[Alzheimer's Association guide to family conflicts](https://www.alz.org/help-s
 
 ## Singawagcina kanjani umuntu esentweni?
 
-Buza umuntu ophila ne-dementia ukuthi yini ebalulekile kuye nokuthi ufuna ukubandakanyeka kanjani. Ukuxilongwa akususi indawo yakhe engxoxweni ngempilo yakhe yansuku zonke. Buza ukuthi ufuna ukubandakanya bani nokuthi yiluphi ulwazi alungayabelana ngalo. Uma efuna usizo lokuchaza isifiso sakhe, mnike isikhathi bese uxoxa ngesinqumo esisodwa ngesikhathi.
+Buza umuntu ophila ne-dementia ukuthi yini ebalulekile kuye nokuthi ufuna ukubandakanyeka kanjani. Ukuxilongwa akususi indawo yakhe engxoxweni ngempilo yakhe yansuku zonke. Buza ukuthi ufuna ukubandakanya bani nokuthi yiluphi ulwazi angafuni ukwabelana ngalo. Uma efuna usizo lokuchaza isifiso sakhe, mnike isikhathi bese uxoxa ngesinqumo esisodwa ngesikhathi.
 
 [Umhlahlandlela wokuqala emva kokuxilongwa](/caregiving/after-dementia-diagnosis/) unemibono yokubandakanya umuntu ekuhleleni isikhathi esizayo. Uma umuntu esekhethe omunye ukuthi amsize ngezinqumo, faka lowo muntu engxoxweni ngenkathi uhlonipha ubumfihlo nezifiso zomuntu. Uma amalungu omndeni engavumelani ngamandla omthetho wokwenza izinqumo, buza ichwepheshe elifanele endaweni kunokuqagela.
 
 ## Singaqala kanjani ingxoxo yomndeni?
 
-Khetha isikhathi esithulile ngaphambi kwenkinga uma kungenzeka. Vumelani ngodaba olulodwa lwengxoxo, njengokuthi ubani ongahambisa abantu ngezimoto noma ukuthi isikhathi esilandelayo sokuvakashela udokotela sizohlelwa kanjani. Uhlu olude lwezinqumo ezinzima lungenza kube nzima ukuthi wonke umuntu alalele.
+Khetha isikhathi esithulile ngaphambi kwenkinga uma kungenzeka. Vumelanani ngodaba olulodwa lwengxoxo, njengokuthi ubani ongahambisa abantu ngezimoto noma ukuthi isikhathi esilandelayo sokuvakashela udokotela sizohlelwa kanjani. Uhlu olude lwezinqumo ezinzima lungenza kube nzima ukuthi wonke umuntu alalele.
 
-Ngaphambi kwengxoxo, bhala okubonile nokucabangayo. Isibonelo, “UBaba ufeze izinsuku zokuvakashela udokotela ezimbili kulesi sonto” yisibonakaliso esithile. “UBaba akasakwazi ukuphatha lutho” yisiphetho esibanzi okungenzeka ukuthi asibonisi amakhono akhe noma izifiso zakhe.
+Ngaphambi kwengxoxo, bhala okubonile nokucabangayo. Isibonelo, “UBaba ufeze izinsuku zokuvakashela udokotela ezimbili kulesi sonto” yisibonakaliso esithile. “UBaba akasakwazi ukwenza lutho” yisiphetho esibanzi okungenzeka ukuthi asibonisi amakhono akhe noma izifiso zakhe.
 
 Nikeza wonke umuntu ithuba lokuchaza ukuthi ukhathazekile ngani. Lalela ungamphazamisi, ungasoli noma uqhathanise ukuthi ubani usiza kangakanani. Umuntu ohlala kude angase angaboni izidingo zansuku zonke; umuntu owenza iningi lokunakekela angase adinwe kakhulu. Zombili izinto ezibonwayo zibalulekile, noma zingaholela emibonweni ehlukile.
 
@@ -71,15 +71,15 @@ Ukulingana akusho ukuthi kufanele kube okufanayo yonke into. I-[Alzheimer's Asso
 
 Abanye bangasiza ngokuvakashela njalo noma ngokunakekela komuntu siqu. Abanye bangase babe ngcono ekuphatheni ukuhlelwa kwezikhathi zokuvakashela udokotela, ukuthutha, ukulethwa kokudla, imibhalo noma ukuhlola kwesonto. Ilungu lomndeni elihlala kude lingaqhubeka lihlela izingcingo, lisesha amasevisi asendaweni noma lihlele izinto ezidingekayo, uma umuntu evumelana nalokho. [Umhlahlandlela wokunakekela ukusuka kude](/caregiving/long-distance-caregiving-with-dementia/) unikeza uhlelo olugcwele lwezindima, izibuyekezo nokuvakashela.
 
-Beka imisebenzi evunyelwene ngayo ekhalendeni elilodwa elabelanwayo noma ohlwini olubhaliwe. Faka ukuthi ubani onesibopho, kangaki nokuthi kufanele uxhumane nobani uma izinhlelo zishintsha. Buyekeza uhlu uma impilo, isikhathi sokusebenza noma amandla okunakekela komuntu othile kushintsha. [Umhlahlandlela wokuzinakekela womnakekeli](/caregiving/caregiver-self-care/) ushumayela ngezindlela zokucela abanye ukuthi babelane ngosizo.
+Beka imisebenzi evunyelwene ngayo ekhalendeni elilodwa elabelanwayo noma ohlwini olubhaliwe. Faka ukuthi ubani onesibopho, kangaki nokuthi kufanele uxhumane nobani uma izinhlelo zishintsha. Buyekeza uhlu uma impilo, isikhathi sokusebenza noma amandla okunakekela komuntu othile kushintsha. [Umhlahlandlela wokuzinakekela womnakekeli](/caregiving/caregiver-self-care/) ukhombisa izindlela zokucela abanye ukuthi babelane ngosizo.
 
 ## Yini esingayenza uma sisangavumelani?
 
-Buyela kulokho okwaziwayo, kulokho umuntu akufunayo nombuzo osalindile. Ungase ungaxazululi konke engxoxweni eyodwa. Vumelani ngesinyathelo esisodwa esiphephile futhi esamukelekayo okwamanje, bese nimisa isikhathi sokubuyela esinqumweni esikhulu.
+Buyela kulokho okwaziwayo, kulokho umuntu akufunayo nombuzo osalindile. Ungase ungaxazululi konke engxoxweni eyodwa. Vumelanani ngesinyathelo esisodwa esiphephile futhi esamukelekayo okwamanje, bese nimisa isikhathi sokubuyela esinqumweni esikhulu.
 
-Uma izihlobo zingavumelani ngokushintsha indawo, isinyathelo sokuqala kufanele kube ukuqoqa ulwazi kunokuvotelana yebo noma cha. Buza ukuthi yisiphi isekelo esingekho ekhaya, ukuthi umuntu uyini ayifisayo nokuthi yiziphi izinketho umndeni ofuna ukuzifunda. Ukuvakashela indawo yokunakekela esikhungweni noma ukukhuluma nomhlinzeki osekhaya kungasiza ingxoxo ngaphandle kokubopha umuntu ekushintsheni. Le [nhlu lemibuzo yezinketho zokunakekela esikhungweni](/caregiving/choosing-residential-dementia-care/) iqhathanisa izinketho.
+Uma izihlobo zingavumelani ngokushintsha indawo, isinyathelo sokuqala kufanele kube ukuqoqa ulwazi kunokuvotelana yebo noma cha. Buza ukuthi yisiphi isekelo esingekho ekhaya, ukuthi umuntu uyini ayifisayo nokuthi yiziphi izinketho umndeni ofuna ukuzifunda. Ukuvakashela indawo yokunakekela esikhungweni noma ukukhuluma nomhlinzeki osekhaya kungasiza ingxoxo ngaphandle kokubopha umuntu ekushintsheni. [Umhlahlandlela wokunakekelwa esikhungweni](/caregiving/choosing-residential-dementia-care/) unemibuzo yokuqhathanisa izinketho.
 
-Uma ukungqubuzana kuqhubeka, cela umuntu wesithathu othembekile ukuthi asize. Kuya ngodaba, lowo muntu kungaba udokotela womuntu, isisebenzi sezenhlalakahle, umeluleli, umeluleli wengxabano noma umholi wenkolo. Iqembu lokweseka nalo lingaphakamisa izihlobo indawo yokukhuluma nabantu ababhekene noshintsho olufanayo. Iseluleko sochwepheshe sibalulekile ikakhulu ezindabeni zezokwelapha, zomthetho noma zezimali.
+Uma ukungqubuzana kuqhubeka, cela umuntu wesithathu othembekile ukuthi asize. Kuya ngodaba, lowo muntu kungaba udokotela womuntu, isisebenzi sezenhlalakahle, umeluleli, umlamuli noma umholi wenkolo. Iqembu lokweseka nalo lingaphakamisa izihlobo indawo yokukhuluma nabantu ababhekene noshintsho olufanayo. Iseluleko sochwepheshe sibalulekile ikakhulu ezindabeni zezokwelapha, zomthetho noma zezimali.
 
 Uma ukungqubuzana komndeni kuthinta ukuphepha noma ukunakekelwa komuntu, xhumana nesevisi elifanele endaweni ukuze uthole usizo. Ungashiyi umuntu esezinkingeni phakathi kwempikiswano. Uma kukhona ingozi esheshayo, sebenzisa amasevisi ezimo eziphuthumayo asendaweni.
 
