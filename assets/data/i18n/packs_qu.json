@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Uywakuna",
+      "description": "Kusi uywakuna, llapa pachamanta"
+    },
+    "nature": {
+      "name": "Pachamama",
+      "description": "Sumaq pampakuna hinaspa pachamama rikch'ay"
+    },
+    "food": {
+      "name": "Mikuykuna",
+      "description": "Mizqi mikuykuna hinaspa mizqikuna"
+    },
+    "vintage": {
+      "name": "Carrokuna",
+      "description": "Carrokuna hinaspa camionkuna qhawanapaq hinaspa rimanapaq"
+    },
+    "flowers": {
+      "name": "T'ikakuna",
+      "description": "Sumaq t'ikakuna hinaspa huerta rikch'aykuna"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Chakra uywakuna",
+      "description": "Llamp'u chakra uywakuna, llaqtapi watukuypi hina.",
+      "theme": "Chakra kawsay",
+      "images": {
+        "cow_1": "Llamp'u waka",
+        "pig_1": "Kusisqa khuchi",
+        "chicken_1": "Orqo wallpa",
+        "buffalo_1": "Yaku búfalo",
+        "horse_1": "Sumaq caballo",
+        "duck_1": "Pato ayllu",
+        "goat_1": "Yachayta munaq cabra",
+        "rabbit_1": "Munay quwi"
+      }
+    },
+    "nature_mountains": {
+      "title": "Urqukuna rikch'ay",
+      "description": "Sinchi sumaq urqu pampakuna hinaspa rikch'ay",
+      "theme": "Pachamama sumaqnin",
+      "images": {
+        "mountain_1": "Rit'iyuq urqu tuqukuna",
+        "mountain_2": "Fuji urqu",
+        "mountain_3": "Alpes wayq'u",
+        "mountain_4": "Rumi urqu patan",
+        "mountain_5": "Sach'a sach'a urqukuna",
+        "mountain_6": "Phuyuyuq urqukuna"
+      }
+    },
+    "vintage_cars": {
+      "title": "Carrokuna hinaspa camionkuna",
+      "description": "K'anchariq carrokuna hinaspa camionkuna qhawanapaq hinaspa rimanapaq",
+      "theme": "Ñanpi",
+      "images": {
+        "vintage_car_1": "Inti yaykuypi anaranjado Audi",
+        "vintage_car_2": "Ch'aki pampapi anyaq sport carro",
+        "vintage_car_3": "Qolqe llimphi Bugatti",
+        "vintage_car_4": "Ñanpi yana Porsche",
+        "vintage_car_5": "Palmera ñanpi anaranjado BMW",
+        "vintage_car_6": "Garage ladupi anyaq coupe",
+        "vintage_car_7": "Q'omer pickup camion",
+        "vintage_car_8": "Puka rumikuna chawpipi yuraq SUV",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Yuraq siq'iyuq anyaq carro"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari uywakuna",
+      "description": "Africa safarikunamanta hatun uywakuna",
+      "theme": "Sach'a uywakuna",
+      "images": {
+        "lion_1": "Hatun león",
+        "elephant_2": "Africa elefante",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Siq'iyuq cebra",
+        "rhino_5": "Kallpasapa rinoceronte",
+        "cheetah_6": "Usqhay guepardo",
+        "fox_7": "Ch'umpi atuq",
+        "bear_8": "Polo yuraq oso",
+        "turtle_9": "Ch'umpi charapa",
+        "squirrel_10": "Ch'umpi ardilla",
+        "macaw_11": "Q'illu anyaq guacamayo",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Mapache",
+        "wolf_14": "Uqi lobo",
+        "crocodile_15": "Cocodrilo",
+        "peacock_16": "Sumaq pavo real"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Mizqi postrekuna",
+      "description": "Mikuyniykipaq wakin mizqi postrekuna.",
+      "theme": "Mizqi postrekuna",
+      "images": {
+        "pastries_1": "Tawa pastelkuna",
+        "oreo_cookie_sandwiches_2": "Oreo galletakuna",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macaronkuna",
+        "caramel_cake_6": "Caramelo torta"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Q'uñi allpa t'ikakuna",
+      "description": "Q'uñi allpa sumaq t'ikakunata tariy, kay t'ika huñuwan.",
+      "theme": "Q'uñi allpa t'ikakuna",
+      "images": {
+        "hibiscus_1": "Puka hibisco",
+        "frangipani_2": "Puka yuraq frangipani",
+        "sunflower_3": "Inti t'ika",
+        "hydrangea_4": "Yuraq hortensia",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Crisantemo",
+        "anthurium_7": "Anturio",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Ñanpi mikuykuna",
+      "description": "Ñanpi mikuykunapa sumaq pachanta tariy, llapa pachamanta mizqi mikuykunawan.",
+      "theme": "Ñanpi mikuykuna",
+      "images": {
+        "taco_1": "Mexico taco",
+        "ramen_2": "Japón ramen",
+        "dumplings_3": "China dumplingkuna",
+        "samosa_4": "India samosa",
+        "pizza_5": "Italia pizza rakisqa",
+        "crepe_6": "Francia crepe",
+        "satay_7": "Tailandia satay",
+        "burger_8": "Estados Unidos hamburguesa",
+        "bao_9": "Q'uñichisqa bao t'anta",
+        "takoyaki_10": "Japón takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Pachamama pampakuna",
+      "description": "Llamp'u sumaq pachamama rikch'aykuna, mana usqhayaspa qhawanapaq hinaspa kuska rimanapaq.",
+      "theme": "Pachamama pampakuna",
+      "images": {
+        "mountain_1": "Urqukuna",
+        "forest_2": "Phuyuyuq sach'a",
+        "lake_3": "Urqu qocha",
+        "desert_4": "Ch'aki pampa ñuñupakuna",
+        "waterfall_5": "Paqcha",
+        "beach_6": "Aqu patapampa",
+        "river_7": "Purimuq mayu",
+        "canyon_8": "Hatun wayq'u",
+        "sunset_9": "Inti yaykuy hanaq pacha",
+        "snow_mountain_10": "Rit'i urqu",
+        "flowers_11": "Sach'a t'ikakuna",
+        "rainforest_12": "Para sach'a",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Nina urqu",
+        "cliff_15": "Mama qocha qaqa",
+        "aurora_16": "Aurora boreal",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Coral"
+      }
+    }
+  }
+}

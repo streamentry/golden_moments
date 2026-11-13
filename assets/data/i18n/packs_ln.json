@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Nyama",
+      "description": "Nyama ya kitoko mpe ya boninga uta na mokili mobimba"
+    },
+    "nature": {
+      "name": "Bozalisi",
+      "description": "Bisika ya kitoko mpe makambo ya bozalisi"
+    },
+    "food": {
+      "name": "Bilei",
+      "description": "Bilei ya elengi mpe bilei ya mwa sukali"
+    },
+    "vintage": {
+      "name": "Bamotuka",
+      "description": "Bamotuka mpe ba camion mpo na kotala mpe kosolola na ntina na yango"
+    },
+    "flowers": {
+      "name": "Bafololo",
+      "description": "Bafololo ya kitoko mpe bisika ya elanga ya bafololo"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Nyama ya elanga",
+      "description": "Nyama ya boninga ya elanga, lokola ntango ozali kotala mboka.",
+      "theme": "Bomoi na bilanga",
+      "images": {
+        "cow_1": "Ngombe ya boninga",
+        "pig_1": "Ngulu ya esengo",
+        "chicken_1": "Nsoso ya mobali",
+        "buffalo_1": "Mpakasa ya mayi",
+        "horse_1": "Mpunda ya kitoko",
+        "duck_1": "Libota ya mabata",
+        "goat_1": "Mbuli oyo ezali kotala",
+        "rabbit_1": "Lapɛ ya kitoko"
+      }
+    },
+    "nature_mountains": {
+      "title": "Bangomba",
+      "description": "Bangomba ya kitoko makasi mpe bisika ya kotala mosika",
+      "theme": "Kitoko ya bozalisi",
+      "images": {
+        "mountain_1": "Nsɔngɛ ya bangomba na neige",
+        "mountain_2": "Ngomba Fuji",
+        "mountain_3": "Esika ya nse ya bangomba, Alpes",
+        "mountain_4": "Nsɔngɛ ya mabanga",
+        "mountain_5": "Bangomba moke ya zamba",
+        "mountain_6": "Bangomba na brume"
+      }
+    },
+    "vintage_cars": {
+      "title": "Bamotuka mpe ba camion",
+      "description": "Bamotuka mpe ba camion oyo ezali kongenga mpo na kotala mpe kosolola na ntina na yango",
+      "theme": "Na nzela",
+      "images": {
+        "vintage_car_1": "Audi ya langi ya orange ntango moi ezali kokita",
+        "vintage_car_2": "Motuka ya mbangu ya langi ya bule na desɛrɛ",
+        "vintage_car_3": "Bugatti ya langi ya palata",
+        "vintage_car_4": "Porsche ya moindo na nzela",
+        "vintage_car_5": "BMW ya langi ya orange na balabala oyo ezingami na banzete ya palmier",
+        "vintage_car_6": "Motuka ya langi ya bule pene na garage",
+        "vintage_car_7": "Motuka ya mbuma ya langi ya mpɔtɔ",
+        "vintage_car_8": "SUV ya mpɛmbɛ kati na mabanga ya motane",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Motuka ya langi ya bule na milongo ya mpɛmbɛ"
+      }
+    },
+    "animals_safari": {
+      "title": "Nyama ya safari",
+      "description": "Nyama ya nkembo ya safari ya Afrika",
+      "theme": "Nyama ya zamba",
+      "images": {
+        "lion_1": "Nkosi ya nkembo",
+        "elephant_2": "Nzoku ya Afrika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebre ya milongo",
+        "rhino_5": "Rinoserɔ ya nguya",
+        "cheetah_6": "Cheetah ya mbangu",
+        "fox_7": "Renard ya langi ya mabelé",
+        "bear_8": "Urse ya mpɛmbɛ",
+        "turtle_9": "Nkamba ya langi ya mabelé",
+        "squirrel_10": "Ecureuil ya langi ya mabelé",
+        "macaw_11": "Perroquet ya langi ya jonne mpe ya bule",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Raton laveur",
+        "wolf_14": "Loup ya langi ya gris",
+        "crocodile_15": "Ngando",
+        "peacock_16": "Paon ya kitoko"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Bilei ya mwa sukali ya elengi",
+      "description": "Bilei mwa mingi ya sukali ya elengi mpo na bilei na yo.",
+      "theme": "Bilei ya sukali",
+      "images": {
+        "pastries_1": "Bagato minei",
+        "oreo_cookie_sandwiches_2": "Oreo Cookie Sandwiches",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Gato ya caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Bafololo ya mokili ya moto",
+      "description": "Mono kitoko ya mokili ya moto na liboke oyo ya bafololo ya bapaya.",
+      "theme": "Bafololo ya mokili ya moto",
+      "images": {
+        "hibiscus_1": "Hibiscus ya motane",
+        "frangipani_2": "Frangipani ya motane mpe ya mpɛmbɛ",
+        "sunflower_3": "Fololo ya moi",
+        "hydrangea_4": "Hydrangea ya mpɛmbɛ",
+        "rose_5": "Fololo ya rose",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Bilei ya balabala",
+      "description": "Tala mokili ya langi ya bilei ya balabala na liboke oyo ya bilei ya elengi uta na mokili mobimba.",
+      "theme": "Bilei ya balabala",
+      "images": {
+        "taco_1": "Taco ya Mexique",
+        "ramen_2": "Ramen ya Japon",
+        "dumplings_3": "Dumplings ya Chine",
+        "samosa_4": "Samosa ya Inde",
+        "pizza_5": "Eteni ya pizza ya Italie",
+        "crepe_6": "Crepe ya France",
+        "satay_7": "Satay ya Thaïlande",
+        "burger_8": "Burger ya Amerika",
+        "bao_9": "Bao ya vapeur",
+        "takoyaki_10": "Takoyaki ya Japon"
+      }
+    },
+    "nature_landscape": {
+      "title": "Bisika ya bozalisi",
+      "description": "Bisika ya kimya mpe ya kitoko ya bozalisi mpo na kotala malembe-malembe mpe kosolola elongo.",
+      "theme": "Bisika ya bozalisi",
+      "images": {
+        "mountain_1": "Lilongo ya bangomba",
+        "forest_2": "Zamba na brume",
+        "lake_3": "Ebale ya ngomba",
+        "desert_4": "Dunes ya desɛrɛ",
+        "waterfall_5": "Mayi ya kokweya",
+        "beach_6": "Plage",
+        "river_7": "Ebale ezali kotambola",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Likoló ntango moi ezali kokita",
+        "snow_mountain_10": "Ngomba ya neige",
+        "flowers_11": "Bafololo ya zamba",
+        "rainforest_12": "Zamba monene ya mbula",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volkano",
+        "cliff_15": "Eteni ya libanga pene na mbu",
+        "aurora_16": "Pole ya likoló ya nɔrdi",
+        "savannah_17": "Savane",
+        "coral_reef_18": "Mabanga ya corail na mbu"
+      }
+    }
+  }
+}

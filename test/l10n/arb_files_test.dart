@@ -99,6 +99,9 @@ const _appLocales = {
   'sn',
   'st',
   'ny',
+  'sa',
+  'qu',
+  'ln',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

@@ -117,6 +117,9 @@
 		<string>sn</string>
 		<string>st</string>
 		<string>ny</string>
+		<string>sa</string>
+		<string>qu</string>
+		<string>ln</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>
