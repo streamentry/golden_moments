@@ -1,33 +1,32 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Te kore kai ā-wā me te mate wareware: ngā taunakitanga"
+seoTitle: "Te kore kai ā-wā me te mate wareware"
+description: "Ko ngā taunakitanga a te tangata mō te kore kai ā-wā me te mate wareware he iti, he tīmatanga noa. Mōhio ki ngā tūraru mō ngā pakeke, me te take e nui ai te kai."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Kāore he taunakitanga pai e kī ana ka aukati, ka whakaroa rānei te kore kai ā-wā i te mate wareware.
+  He nui te rangahau i ngā kararehe, ā, he iti, he poto ngā rangahau tangata mō ngā pakeke. He tūraru
+  te kore kai mō ngā pakeke: te ngaro taimaha me te ngaro uaua, te toto huka iti i ētahi rongoā huka,
+  te horomi wai me ngā hinga. Mō ngā tāngata e noho ana me te mate wareware, ko te kai me te inu i te
+  nui e tika ana te take nui ake. Kōrerohia tētahi ringatoi i mua.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Kua kī te National Institute on Aging kāore he taunakitanga e tika ai te tohutohu i tētahi kai kore kai, kai whakaiti kaloli rānei, otirā mō ngā pakeke."
+  - "He nui te rangahau mō te kore kai me te pakeke i ngā kararehe, ā, ehara pea ngā hua i te tangata."
+  - "Ko ngā tūraru pea mō ngā pakeke ko te ngaro taimaha kāore i whāia, te ngaro uaua, te toto huka iti i ētahi rongoā mate huka, te horomi wai, te pōrangi me ngā hinga."
+  - "He maha ngā tāngata e noho ana me te mate wareware e wareware ana ki te kai, ki te inu, ā, he whakaaro pea kua kai kē rātou. Ko te āwhina ki a rātou kia kai, kia inu i te nui e tika ana, he nui rawa atu te take i te wā e kai ai."
+  - "Kaua e whakamahia te kore kai mō tētahi e noho ana me te mate wareware. Kōrerohia tētahi ringatoi, tētahi kaitohutohu kai rēhita i mua i tētahi whakarerekētanga ki ngā tikanga kai."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Ka aukati te kore kai ā-wā i te Alzheimer's?"
+    a: "Kāore he taunakitanga pai e kī ana ka aukati. He nui te rangahau i ngā kararehe, ā, ko te nuinga o ngā whakamātautau tangata he poto, mō ngā pakeke iti ake, mō ngā tāngata taimaha, ā, he aro ki te ngaro taimaha. E kī te National Institute on Aging kāore he taunakitanga hei tohutohu i ngā kai kore kai ki te iwi whānui."
+  - q: "He haumaru rānei te kore kai ā-wā mō ngā pakeke?"
+    a: "Tērā pea kāo. Ka taea e te kore kai te ngaro taimaha me te ngaro uaua kāore i whāia, te horomi wai, te pōrangi me ngā hinga, ā, ka pōhara pea te toto huka ki te taumata morearea i ngā tāngata e kai ana i te insulin, i ētahi atu rongoā mate huka rānei. E kī te Mayo Clinic kāore pea e pai ki ngā tāngata e tino morearea ana ki te ngaro o te wheua me te hinga. Kōrerohia tētahi ringatoi i mua i te whakamātau."
+  - q: "Me whakamātau te tangata e mate wareware ana i te kore kai?"
+    a: "Kāo. He uaua ki ngā tāngata e noho ana me te mate wareware te kai, te inu i te nui e tika ana, ā, ka piki pea ngā tohu whanonga, ka ngaro taimaha rānei i te kai kāore i pai. Ka tāpiri te kore kai i te tūraru kāore he painga kua whakamanatia. Me aro ki ngā kai ia rā, ngā kai pai ki a rātou, me te wai nui e tika ana."
+  - q: "He aha ngā tohu e kī ana kāore e kai, e inu ana te tangata e mate wareware ana i te nui e tika ana?"
+    a: "Tirohia mēnā kei te ngaro taimaha, kei te whānui ake ngā kākahu, kei te ngenge, kei te ngoikore, kei te whakiki o te puku, kei te whakakahore i te kai. Ko ngā tohu horomi kua whakarārangitia e te National Institute on Aging ko te waha maroke, te pōrangi, te manawa tere me ngā kitenga kore (hallucinations). Korerohia ki tō rātou ringatoi mēnā ka kite koe i ēnei."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +54,120 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Ko te kore kai ā-wā, pērā i te kai i roto i te wā e waru hāora anake, i te whakaiti kaloli nui e rua
+rā ia wiki, he nui te aro ki a ia, ā, ka kī ētahi tuhinga pea ka tiaki i te roro. Mēnā he pakeke koe,
+mēnā rānei kei te tiaki koe i tētahi kei te mate wareware, anei te mea e pono ana i te rangahau, me te
+take e nui ai te tūpato.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+He kōrero whānui tēnei, ehara i te tohutohu hauora. Kaua e tīmata i te kore kai, kaua rānei e
+whakarerekē i te kai o tētahi kei a koe, me te kore kōrero ki tētahi ringatoi, ki tētahi kaitohutohu kai
+rēhita. Tirohia tā mātou [whakapāhatanga hauora](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Ka aukati te kore kai ā-wā i te mate wareware?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Kāore he taunakitanga pai e kī ana ka aukati, ka whakaroa rānei te kore kai ā-wā i te mate wareware. E kī
+te National Institute on Aging (NIA) kāore he taunakitanga hei tohutohu i tētahi momo kai whakaiti kaloli,
+kore kai rānei, ā, me nui atu te mōhio mō tōna whai hua me tōna haumaru, otirā mō ngā pakeke
+([NIA mō te whakaiti kaloli me te kore kai](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### He aha i iti ai te taunakitanga
 
-The NIA gives several reasons:
+E whakamārama ana te NIA i ētahi take:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **He kararehe te nuinga o ngā rangahau.** He hua whakamīharo tā ngā rangahau ki ngā pokoroa, ngā rango,
+  ngā kiore me ngā makimaki, engari ehara pea ēnei kitenga i te tangata. Ahakoa i ngā kararehe, he kōrero
+  ōrite kē: i ētahi momo kiore, nā te whakaiti kaloli i poto ai te oranga.
+- **He poto ngā whakamātautau tangata.** Ko te nuinga he wiki, he marama noa iho te roa.
+- **Ko te nuinga o ngā whakamātautau tangata i aro ki te ngaro taimaha** i ngā pakeke taimaha, ehara i te
+  maharatanga, i te mate wareware.
+- **He iti rawa te whakaurunga o ngā pakeke.** He maha ngā whakamātautau i kōwhiri i ngā tāngata e 60 ngā
+  tau, iti iho rānei.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+I te 2026 i titiro tētahi arotake pūnaha ki te kore kai ā-wā i ngā pakeke e 60 ngā tau me runga ake. I kitea
+te taunakitanga i tēnei pakeke he iti tonu, he rangahau iti, he roa iho te whai, he hoahoa rerekē. Ko ngā
+kitenga mō te whakaaro me te maumahara i ahu mai i ngā rangahau takitahi, ehara i ngā hua whakamātautau i
+whakakotahitia. I kī anō te arotake, ko ētahi rangahau i hono ngā wā kai tino poto, ngā kore kai roa ki ngā
+hua kino, ā, i whakatupato ngā kaituhi mō ngā pakeke
+([arotake 2026 i te Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+He whakaaro tā ētahi kairangahau ko te huri o te tinana ki te wahie i te wā kore kai, ka pā pea ki te roro,
+engari he kaupapa e rangahaua ana tonu tēnei. E kī te NIA he kore mārama te pūtaiao.
 
-## What are the risks of fasting for older adults?
+## He aha ngā tūraru o te kore kai mō ngā pakeke?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+He mea kore-kino te kore kai mō te nuinga o ngā pakeke. Ko ngā tūraru pea:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
+- **Te ngaro taimaha kāore i whāia.** Ka iti rawa te kai i ngā mea e hiahiatia ana e te tinana, ka ngaro pea
+  te taimaha me te kaha uaua, ka pā ki te ngoikore o te tangata.
+- **Te ngaro uaua me te wheua.** I tētahi whakamātautau e rua tau i tautokohia e te NIA mō te whakaiti
+  kaloli i ngā pakeke rangatahi, waenga-pakeke rānei, he iti ngā heke o te kiato wheua me te taimaha
+  tinana kore-ngako.
+- **Te toto huka iti i ngā rongoā mate huka.** Ko ngā tangata e kai ana i te insulin, i ētahi atu rongoā mate
+  huka rānei ka pōhara pea te toto huka ina kore kai, ina roa rānei te kai, e ai ki te
   [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+  Ka pā te toto huka iti ki te pōrangi, te pōhēhē, me te riri.
+- **Te horomi wai.** Ina kōhurua ngā inu i te wā kai, ka horomi pea te tangata.
+- **Te pōrangi me ngā hinga.** E kī te
+  [Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)
+  ka taea e te kore kai ā-wā te whakaoma nui, te pōrangi, ā, kāore pea he tikanga hauora mō ngā tāngata
+  e tino morearea ana ki te ngaro o te wheua me te hinga.
+- **Ētahi atu pānga.** E kī anō te Mayo Clinic ko te mamae māhunga, ngā panonitanga o te ngākau, me te
+  whakiki o te puku, me te kī he taunakitanga ko te kore kai 16 hāora me te wā kai 8 hāora pea ka pīkiki i
+  te tūraru o te mate ngākau, i te whakataurite ki ētahi wā kai atu. Kāore anō kia whakatau taua taunakitanga.
 
-## Why is eating enough the bigger concern with dementia?
+## He aha i nui ai te kai hei tūmanako mō te mate wareware?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Mō ngā tāngata e noho ana me te mate wareware, ko te raruraru noa ko te kai me te inu **i te nui e tika ana**,
+ehara i te nui rawa. E kī te Alzheimer's Association ko ngā tāngata i te wāhanga waenga, i te wāhanga
+whakamutunga rānei ka pōharatia pea e te nui o ngā kōwhiringa kai, ka wareware pea ki te kai, ka whakaaro
+rānei kua kai kē rātou. E tāpiri ana, ko te kai hauora kino ka piki ake pea ngā tohu whanonga, ka ngaro taimaha
+hoki ([Alzheimer's Association mō te kai](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+E kī te Alzheimer's Society ka ngaro taimaha, ka iti te kaha uaua, ka ngenge, ka ngoikore te tangata i te kore
+kai e kore e tino ora i ngā mate tipu (infections), ka piki ai te whakamāmā
+([Alzheimer's Society mō te hiahia kai](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Nō reira, he kino te kore kai mō tētahi e noho ana me te mate wareware.** Ka ngāwari ngā kai kāore i kainga
+kia huri hei kai ngaro. Ko ngā whakarerekētanga katoa ki te kai a tētahi e mate wareware ana me arahia e tana
+ringatoi, e tētahi kaitohutohu kai rēhita.
 
-## What are the warning signs of poor eating or drinking?
+## He aha ngā tohu tūpato o te kai iti, o te inu iti?
 
-Watch for:
+Tirohia:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Te ngaro taimaha**, te kākahu e whānui ake ana.
+- **Te waiho kai, te whakakahore i ngā kai**, te puritia kai ki te waha.
+- **Te ngenge me te ngoikoretanga.**
+- **Te whakiki o te puku**, he hono pea ki te kai me te horomi wai.
+- **Ngā tohu horomi.** E whakarārangi ana te NIA i te waha maroke, te pōrangi, te manawa tere, me ngā kitenga
+  kore (hallucinations), ā, ka pā pea te mate wareware ake ki ēnei
+  ([NIA mō ngā raruraru hauora noa](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+He maha ngā take e pā ana ki te iti o te hiahia kai: ngā niho mamae, ngā niho hanga kāore e tau pai, ngā
+rongoā hou, te pōuri, te whakiki o te puku, te iti o te mahi, me ngā panonitanga o te reka me te hongi.
+Kōrerohia ki te ringatoi o te tangata ēnei tohu. Ka rapu rātou i te take, ā, ka kī pea i tētahi kaitohutohu
+kai, i ngā matūkai rānei.
 
-## How can you help someone eat and drink enough?
+## Me pēhea e āwhina ai i tētahi kia kai, kia inu i te nui e tika ana?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Tukuna ngā kai iti, ngā kai iti ia wā**, kaua ngā kai nui e toru.
+- **Hoatu ngā kai pai**, ā, kia ngāwari ki te rerekētanga o te reka. Ka pai pea ngā kai reka ina iti te hiahia
+  kai; pātai ki te ringatoi mēnā he take hauora e tika ai te whakaiti i te huka.
+- **Whakatata ngā inu**, ā, tukuna ngā kapu iti i te rā katoa. Ka tatau anō ngā hupa, ngā huawhenua, ngā miraka
+  miriraka (smoothie) me ngā miraka reka (milkshake).
+- **Kainga tahi** ina taea. He wā mō te hoa, ehara he mahi me te tere.
+- **Whakamātau ngā kai ringa**, pērā i ngā tihi paraoa, ngā wāhanga huawhenua, ngā wāhanga heihei, mēnā kua
+  uaua te whakamahi i ngā rīpene.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Mō ētahi atu whakaaro mō te wā kai, titiro ki tā mātou [aratohu kai](/brain-health/diet/). Ka taea hoki te
+āwhina i te whakarite kai he mahi tahi pai, titiro ki [ngā mahi kāinga](/activities/household-tasks/).
 
-## Talk with a doctor
+## Kōrero ki tētahi ringatoi hauora
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+I mua i te whakamātau i tētahi mahere kore kai, kōrerohia tō ringatoi, tētahi kaitohutohu kai rēhita rānei,
+otirā mēnā kei te kai rongoā mate huka, rongoā toto rānei, kua ngaro taimaha i tata nei, kua hinga rānei.
+Mō tētahi e noho ana me te mate wareware, pātai ki tana ringatoi he aha te nui o te kai me te inu me whāia
+ia rā, kaua ki te kore kai.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+**Tonoa he āwhina hauora ohotata** mō te pōhēhē ohorere, te ngoro, me ngā tohu o te toto huka tino iti kāore
+e pai ai te ahua tere.
