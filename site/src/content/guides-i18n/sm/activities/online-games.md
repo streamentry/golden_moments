@@ -48,7 +48,7 @@ O le toatele o aiga e suesue taaloga initaneti mo le dementia ona latou manao se
 
 ## O le a e fetaui ai se taaloga initaneti ma le dementia?
 
-E fetaui le taaloga ma le toatele o tagata e ola ma le dementia pe a manaomia ai le iloaina, e le o le manatua. Faatutusa ata e lua tutusa, pa'i le ata e tutusa ma se malu, po o le tuu o se mea i le ipu saʻo, e faalagolago uma i le mata e vaai i ai i le taimi lava lea. Taaloga e manaomia ai le manatua o se tulafono, se upu, se numera po se gaioiga ua muamua, e masani ona mafua ai le faanoanoa.
+E fetaui le taaloga ma le toatele o tagata e ola ma le dementia pe a manaomia ai le iloaina, e le o le manatua. Faatutusa ata e lua tutusa, pa'i le ata e tutusa ma se malu, po o le tuu o se mea i le ipu sa'o, e faalagolago uma i le mata e vaai i ai i le taimi lava lea. Taaloga e manaomia ai le manatua o se tulafono, se upu, se numera po se gaioiga ua muamua, e masani ona mafua ai le faanoanoa.
 
 O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) o loo fautua galuega e faavae i mea e fiafia ai ma e mafai ona faia e le tagata, ma e manuia ai i le lava o latou lava. O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) o loo fautua le faigofieina o se galuega nai lo le tuu ese pe a suia le malosi.
 
@@ -64,7 +64,7 @@ O taaloga i lalo e tatala mai le uebusaite e aunoa ma se download. O le toatele 
 - **[Taaloga faaiuga upu](/games/finish-the-saying/).** Upu masani ua leai le upu mulimuli; pa'i se filifiliga po o le faaali o le faaiuga.
 - **[Kaata talanoa](/games/conversation-cards/).** Kaata ata ma fesili tatala mo talanoa, e le o le suega. E mafai foi ona lolomi.
 - **[Ata aiga](/games/photo-pairs/).** Ata tutusa mai ata e te filifilia i lau masini. O ata e tumau i le browser i lena masini.
-- **[Manava filemu](/games/calm-breathing/).** O se taimi malie e manava ai faatasi. E e amata ai ma e e taofia.
+- **[Manava filemu](/games/calm-breathing/).** O se taimi malie e manava ai faatasi. E e amataina ma e e taofia.
 
 E mafai foi ona lolomi taaloga saunoa upu, vali ma bingo ata. Vaai i [galuega lolomi e le totogi mo le dementia](/activities/printable/) mo nisi.
 
