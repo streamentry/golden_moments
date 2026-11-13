@@ -1,7 +1,7 @@
 ---
 title: "Demensiýa bilen ýaşaýan adamlar üçin tapmaçalar: surat, söz we aňsat onlaýn tapmaçalar"
 seoTitle: "Demensiýa üçin tapmaçalar: surat we söz tapmaçalary"
-description: "Demensiýa bilen ýaşaýan adam üçin surat, söz we onlaýn tapmaçalary nädip saýlamaly: bölek ululygy, suratlar, ullakan çap, bilelikde etmek we aňsatlaşdyrmak."
+description: "Demensiýaly adam üçin surat, söz we onlaýn tapmaçalary nädip saýlamaly: bölek ululygy, suratlar, ullakan çap, bilelikde etmek we aňsatlaşdyrmak."
 section: activities
 order: 20
 updated: 2026-10-25
@@ -11,21 +11,21 @@ summary: >-
   tamamlap boljak we ýolda lezzet berýän tapmaçadyr. Bölekleri az we ullakan,
   suraty düşnükli, ulular üçin niýetlenen surat tapmaçalaryny saýlaň, gutynyň
   üstündäki suraty göz öňünde saklaň we ilki gyrasyndaky bölekleri saýlaň.
-  Söz gözlegi we krossword ullakan çapda iň oňat işleýär. 4 bölekli aňsat
+  Söz gözlegi we krossword ullakan çapda iň oňat işleýär. Dört bölekli aňsat
   onlaýn tapmaçalar orta tapgyra laýyk gelýär. Hezil edip durkaňyz, bes ediň.
 keyPoints:
   - "Tapgyr atyna däl-de, işiň nähili gidýändigine seredip saýlaň: tapmaça iş ýaly bolup duýulsa, bölegi azrak tapmaçany synap görüň."
   - "Ullakan, berk bölekler we reňk meýdanlary aýdyň bolan surat, kiçijik bölekler we uly asman bilen deňeşdirilende has aňsatdyr."
-  - "Suratlaryň ulular üçindigi möhümdir. Bagy, aşhanalary, awtoulaglary we haýwanlary saýlaň, multfilmleri däl."
+  - "Suratlaryň ulular üçindigi möhümdir. Bag, aşhana, awtoulag we haýwan saýlaň, multfilm däl."
   - "Bilelikde etmek esasy maksatdyr. Bölekleri uzadyň, gyralaryny saýlaň, gutynyň gapagyny göz öňünde saklaň."
-  - "Ullakan çaply söz gözlegi we 4 ýa-da 9 bölekli aňsat onlaýn tapmaçalar bu sahypada mugt."
+  - "Ullakan çaply söz gözlegi we 4 ýa-da 9 bölekli aňsat onlaýn tapmaçalar bu saýtda mugt."
 faq:
   - q: "Demensiýa bilen ýaşaýan adam üçin näçe bölek iň gowy?"
-    a: "Ýeke dogry san ýok. 1,000 bölekli tapmaçalary ýygnan adam ir tapgyrda ýene-de birnäçe ýüz bölegi halap biler, beýlekiler bolsa on töweregi ullakan bölek bilen iň oňat işleýär. Tapmaça iş ýaly duýulsa ýa-da ýadatsa, bölegi azrak tapmaça geçiň. Biziň onlaýn Surat tapmaçamyzda 4 ýa-da 9 bölek bar."
+    a: "Ýeke dogry san ýok. 1,000 bölekli tapmaçalary ýygnan adam ir tapgyrda ýene-de birnäçe ýüz bölegi halap biler, beýlekiler bolsa on töweregi ullakan bölek bilen iň oňat işleýär. Tapmaça iş ýaly duýulsa ýa-da gaharlandyrsa, bölegi azrak tapmaça geçiň. Biziň onlaýn Surat tapmaçamyzda 4 ýa-da 9 bölek bar."
   - q: "Surat tapmaçalary demensiýa bilen ýaşaýan adamlar üçin peýdalymy?"
-    a: "Köp adam olary halaýar, esasanam öň tapmaça ýygnamagy ýaly görýän bolsa. Tapmaça eliňe iş berýär, aýdyň maksat berýär we gürrüň etmäge surat berýär. Hiç bir tapmaçanyň demensiýany bejerýändigi ýa-da haýalladýandygy görkezilmändir, şonuň üçin ony lezzet we ýoldaşlyk üçin saýlaň."
+    a: "Köp adam olary halaýar, esasanam öň tapmaça halaýan bolsa. Tapmaça eliňe iş berýär, aýdyň maksat berýär we gürrüň etmäge surat berýär. Hiç bir tapmaçanyň demensiýany bejerýändigi ýa-da haýalladýandygy görkezilmändir, şonuň üçin ony lezzet we ýoldaşlyk üçin saýlaň."
   - q: "Biri surat tapmaçasyny ýygnap bilmeýän bolsa, nädip bolmaly?"
-    a: "Ony kiçeldiň we köpüsini özüňiz ediň: bir-bir bölek uzadyň ýa-da diňe soňky birnäçe bölegini onuň üçin goýuň. 4 bölekli onlaýn tapmaçany, bölekleri reňke görä saýlamagy ýa-da gutarylan suraty bilelikde görmegi synap görüň."
+    a: "Ony kiçeldiň we köpüsini özüňiz ediň: bir-bir bölek uzadyň ýa-da diňe soňky birnäçe bölegini olar üçin goýuň. 4 bölekli onlaýn tapmaçany, bölekleri reňke görä saýlamagy ýa-da gutarylan suraty bilelikde görmegi synap görüň."
   - q: "Krosswordlar we söz gözlegi demensiýa üçin laýykmy?"
     a: "Ullakan çapda bolsa, ir tapgyrda laýyk gelip biler. Diňe ýanlygyna we ýokaryndan aşak ýerleşen sözli söz gözlegi, çapraz ýa-da yzyna ýazylan sözli bilen deňeşdirilende has aňsatdyr. Ýol görkezijileri ýa-da söz sanawyny ses çykaryp okaň we bilelikde işläň."
 sources:
@@ -52,7 +52,7 @@ Naharhananyň stolunda ýaýylan surat tapmaçasy, bilelikde etmegiň iň aňsat
 
 Köp adam olary halaýar, esasanam öň tapmaça çözen bolsa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ir tapgyr üçin işleriň arasynda söz tapmaçalaryny, kart we stol oýunlaryny görkezýär, [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bolsa planşetdäki onlaýn oýunlary we tapmaçalary işjeň galmagyň bir ýoly hökmünde agzaýar.
 
-Tapmaçalar bejeriş däldir. Hiç bir tapmaçanyň demensiýany haýalladýandygy ýa-da duruzýandygy görkezilmändir; barlaglaryň nämäni görkezýändigini [beýni oýunlary we demensiýa](/brain-health/brain-games/) gollanmamyzda düşündirýäris. Tapmaça ýygnamagyň sebäbi, bilelikde ýakymly, özüňi unudýan bir sagat geçirip bilmegidir. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) muny şeýle jemleýär: ýetişige däl-de, lezzete üns beriň.
+Tapmaçalar bejeriş däldir. Hiç bir tapmaçanyň demensiýany haýalladýandygy ýa-da duruzýandygy görkezilmändir; barlaglaryň nämäni görkezýändigini [beýni oýunlary we demensiýa](/brain-health/brain-games/) gollanmamyzda düşündirýäris. Tapmaça çözmegiň sebäbi, bilelikde ýakymly, özüňi unudýan bir sagat geçirip bilmegidir. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) muny şeýle jemleýär: ýetişige däl-de, lezzete üns beriň.
 
 ## Demensiýa bilen ýaşaýan adam üçin surat tapmaçasyny nädip saýlamaly?
 
@@ -60,7 +60,7 @@ Tapgyr ady bilen däl-de, adamyň nämäni halaýandygyna we soňky tapmaçanyň
 
 ### Bölekleriň sany
 
-Dogry san ýok. Ömrüboýy tapmaça ýygnan adam ir tapgyrda ýene-de birnäçe ýüz bölegi halap biler, başga biri bolsa on töweregi bölek bilen iň bagtly bolar. Peýdaly düzgün: soňky tapmaça iş ýaly duýulan bolsa, bölegi ýarym töweregi azrak tapmaçany saýlaň. Çalt gutarylan bolsa we ýene isleseler, azajyk artdyryň.
+Dogry san ýok. Ömrüboýy tapmaça çözen adam ir tapgyrda ýene-de birnäçe ýüz bölegi halap biler, başga biri bolsa on töweregi bölek bilen iň bagtly bolar. Peýdaly düzgün: soňky tapmaça iş ýaly duýulan bolsa, bölegi ýarym töweregi azrak tapmaçany saýlaň. Çalt gutarylan bolsa we ýene isleseler, azajyk artdyryň.
 
 ### Bölegiň ululygy we duýgusy
 
@@ -71,7 +71,7 @@ Dogry san ýok. Ömrüboýy tapmaça ýygnan adam ir tapgyrda ýene-de birnäçe
 
 ### Surat
 
-- **Ulular üçin mowzuklar.** Bag, aşhana, köne awtoulag, ferma haýwanlary, deňiz ýakasyndaky şäher, halaýan sport. Multfilmler ýa-da çaga oýnawajyna meňzeýän zatlar däl.
+- **Ulular üçin mowzuklar.** Bag, aşhana, köne awtoulag, ferma haýwanlary, deňiz ýakasyndaky şäher, halaýan sport. Multfilm ýa-da çaga oýnawajyna meňzeýän zatlar däl.
 - **Aýdyň reňk meýdanlary.** Gyzyl ambar, gök gaýyk we ýaşyl meýdan, tapmaçanyň ýarysyny tutýan asmandan has aňsatdyr.
 - **Tanyş we şahsy.** Ýaşan ýeriniň ýa-da söýen höwesiniň suraty size gürrüň etmäge köp zat berýär. Käbir çap öýleri maşgala suratyny surat tapmaçasyna öwrüp bilýär.
 
@@ -95,7 +95,7 @@ Adam göni lezzetli bölegine geçip bilmegi üçin ony şeýle taýýarlaň.
 
 Planşet tapmaçasynyň hakyky artykmaçlyklary bar: ýitýän bölekler ýok, ekrany dolduran uly suratlar bar we stol boşatmak gerek däl.
 
-Biziň mugt [Surat tapmaçamyz](/games/picture-puzzle/) suraty 4 ýa-da 9 bölege bölýär. Surat bütin bolýança iki bölege basyp ýerlerini çalyşyň. Doly surat ekranda ýol görkeziji hökmünde galýar, sagat ýok we islendik pursatda bes edip bilersiňiz. 4 bölek, ýanynda başga biri bolan orta tapgyrdaky köp adama laýyk gelýär.
+Biziň mugt [Surat tapmaçamyz](/games/picture-puzzle/) suraty 4 ýa-da 9 bölege bölýär. Surat bütin bolýança iki bölege basyp ýerlerini çalyşyň. Doly surat ekranda ýol görkeziji hökmünde galýar, sagat ýok we islendik pursatda bes edip bilersiňiz. Dört bölek, ýanynda başga biri bolan orta tapgyrdaky köp adama laýyk gelýär.
 
 Hasam aňsat surat oýny üçin, ýokarsyndaky suratyň ýaly suratyna basýan [Meňzeşini tap](/games/find-the-same/) ýa-da suratlary aşhana ýa-da bag ýaly sebetlere salýan [Bilelikde saýla](/games/sort-together/) oýunlaryny synap görüň.
 
@@ -126,7 +126,7 @@ Içini çekmegine, bölekleri iteklemegine, gaýtalanýan «Men edip bilemok» s
 
 - **Kiçeldiň.** Bölegi azaldyň ýa-da diňe soňky birnäçesini olar üçin goýuň.
 - **Köpüsini özüňiz ediň** we aňsat ýerlerinde kömek etmäge çagyryň.
-- **Ýakyn bir zada geçiň:** bölekleri reňke görä saýlamak, 4 bölekli onlaýn tapmaça ýa-da [reňklemek](/games/coloring/).
+- **Ýakyn bir zada geçiň:** bölekleri reňke görä saýlamak, dört bölekli onlaýn tapmaça ýa-da [reňklemek](/games/coloring/).
 - **Bes ediň.** Ony bir ýana goýuň we bir käse çaý içiň. Başga gün gaýdyp gelip bilersiňiz, ýa-da hiç gaýdyp gelmersiňiz.
 
 Tapmaçalar kyn bolan zadyň ýadyna salýan bolsa, olary goýbermek mümkin. Bilelikde gowy wagt geçirmegiň başga köp ýoly bar; [101 iş pikirimiz](/activities/ideas/) seretmek üçin oňat ýerdir.
