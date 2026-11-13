@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Beýni oýunlary demensiýanyň öňüni alýarmy? Subutnamalar näme görkezýär"
+seoTitle: "Beýni oýunlary demensiýanyň öňüni alýarmy? Subutnamalar"
+description: "Barlaglar beýni oýunlary we demensiýa barada näme diýýär: kompýuter okuwy, ACTIVE synagy we FTC-niň Lumosity işi, ýönekeý düşündirilýär."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Hiç bir beýni oýnunyň demensiýanyň öňüni alýandygy görkezilmändir. Kompýuter
+  beýni okuwy köplenç adamlaryň gaýta-gaýta çözýän meselelerini gowulandyrýar.
+  ACTIVE synagyndan bir barlag, belli bir tizlik okuwynyň we goşmaça sessiýalaryň
+  20 ýylyň dowamynda has az demensiýa diagnozy bilen baglanyşykly bolandygyny
+  görkezdi, bu bolsa dar tapyndydyr. Eýýäm demensiýa bilen ýaşaýan adamlar üçin
+  topar pikirlenme höweslendirişi kiçi, gysga möhletli peýda görkezýär. Oýunlardan
+  lezzet we ýoldaşlyk üçin lezzet almak iň gowusydyr.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Beýni okuwy barlaglary adamlaryň gaýta-gaýta çözýän meselelerinde gowulaşýandygyny görkezýär, bu peýdanyň gündelik durmuşa geçýändigi barada subutnama has azdyr."
+  - "ACTIVE synagynda diňe belli bir tizlik okuwyny we goşmaça sessiýalary geçen adamlarda 20 ýylyň dowamynda demensiýa diagnozy has az boldy. Goşmaça sessiýasyz tizlik okuwy, ýat we pikirlenme okuwy muny görkezmedi."
+  - "2016-njy ýylda Lumosity-niň öndürijisi, demensiýanyň öňüni almak barada aýdýan sözleri üçin ylmy esasynyň ýoklugy sebäpli FTC aýyplamalaryny ýatyrmak üçin 2 million dollar töledi."
+  - "Ýeňil ýa-da orta derejeli demensiýaly adamlar üçin pikirlenmäni höweslendirýän toparlar pikirlenme üçin kiçi, gysga möhletli peýdany we aragatnaşykda hem sosial täsirde has aýdyň peýdany görkezýär."
+  - "Golden Moments oýunlary lezzet we bilelikdäki wagt üçindir. Olar bejeriş däl we demensiýanyň öňüni almaýar ýa-da haýalladýar."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Beýni oýunlary Alsgeýmeriň öňüni alýarmy?"
+    a: "Hiç bir beýni oýnunyň Alsgeýmeriň ýa-da başga demensiýanyň öňüni alýandygy subut edilmändir. National Institute on Aging täjirçilik beýni okuw programmalarynyň barlag synaglarynda görlen täsirleri berýändigine subutnamanyň ýeterlik däldigini aýdýar. Oýunlar entek wagt geçirmegiň ýakymly ýoly bolup biler."
+  - q: "ACTIVE synagy tizlik okuwy we demensiýa barada näme tapdy?"
+    a: "2026-njy ýyldaky bir derňew ACTIVE gatnaşyjylaryny 20 ýylyň dowamynda Medicare ýazgylary bilen baglanyşdyrdy. Işleýiş tizligi okuwyny we iň az bir goşmaça sessiýany geçen adamlarda okuwsyz topar bilen deňeşdirilende diagnoz goýlan demensiýanyň derejesi pesdi. Goşmaça sessiýasyz tizlik okuwy, ýat ýa-da pikirlenme okuwy manyly täsir görkezmedi."
+  - q: "Tapmaçalar we oýunlar eýýäm demensiýasy bar adam üçin gowumy?"
+    a: "Adam olardan lezzet alsa, bolup biler. Söz oýunlaryny, tapmaçalary, aýdym-sazy we gürrüňi öz içine alýan topar pikirlenme höweslendirişi pikirlenme üçin kiçi gysga möhletli peýdany, aragatnaşyk we sosial täsir üçin has aýdyň peýdany görkezýär. Dogry maksat synag netijesi däl-de, lezzetdir."
+  - q: "FTC näme üçin Lumosity-ni jerimelendirdi?"
+    a: "2016-njy ýylda Federal Trade Commission Lumos Labs-yň oýunlary hakda, ýaşa bagly pese gaçmagy we demensiýany haýalladýandygy barada, ylmy esaslandyrmasyz sözleri aýdandygyny aýyplady. Kompaniýa 2 million dollar tölemäge we geljekde şeýle sözleri aýtmazdan öň ygtybarly ylmy subutnamany almaga razy boldy."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Beýni oýunlary hemme ýerde we olaryň köpüsi aňyňyzy ýaş saklamagy wada berýär. Eger demensiýa bilen ýaşaýan adama ideg edýän bolsaňyz ýa-da öz ýadyňyz barada alada edýän bolsaňyz, olary oýnamagyň kömek edip biljekdigi barada pikir etmek tebigydyr. Barlaglaryň hakykatda näme görkezýändigi, şol sanda ruhlandyryjy we ruhlandyrmaýan taraplary şu ýerde.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Bu umumy maglumatdyr, lukman maslahaty däl. [Lukman bilen baglanyşykly ýazgymyza](/medical-disclaimer/) serediň.
 
-## Do brain games prevent dementia?
+## Beýni oýunlary demensiýanyň öňüni alýarmy?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Hiç bir beýni oýnunyň demensiýanyň öňüni alýandygy subut edilmändir. National Institute on Aging (NIA) kompýuter we onlaýn oýunlaryň ýady gowulandyryp biljekdigi barada aýdylýan sözlere ätiýaçly çemeleşmegi maslahat berýär we haýsydyr bir täjirçilik beýni okuw programmasynyň klinik synaglarda barlanan okuw bilen şol bir täsiri berýändigine subutnamanyň ýeterlik däldigini aýdýar ([NIA, Alsgeýmeriň öňüni almak barada](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Bu oýunlary peýdasyz etmeýär. Bu, olaryň gymmatynyň adamy demensiýadan goramakda däl-de, lezzetde, ýoldaşlykda we adat edilen tertipdedigini aňladýar.
 
-## What is "near transfer", and why does it matter?
+## «Ýakyn geçiş» näme we ol näme üçin möhüm?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Bir meseläni gaýta-gaýta çözeniňizde, adatça şol meselede gowulaşýarsyňyz. Barlagçylar muňa okuw täsiri diýýärler. Has kyn sorag, gowulaşmanyň başga zatlara **geçýändigi**: meňzeş meselelere (ýakyn geçiş) ýa-da duşuşyklary ýada salmak ýa-da pul dolandyrmak ýaly gündelik durmuşa (uzak geçiş).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016-njy ýylda geçirilen uly gözden geçiriş, beýni okuw kompaniýalarynyň iň gowy subutnama hökmünde görkezen barlaglaryny öwrendi. Ol adamlaryň okuw meselelerinde gowulaşýandygyna giň subutnama, ýakyn baglanyşykly meselelerde gowulaşýandyklaryna has az subutnama we okuwyň gündelik pikirlenmäni gowulandyrýandygyna az subutnama tapdy. Barlaglaryň köpüsinde berk netije çykarmagy mümkin däl edýän dizaýn kynçylyklary hem bardy ([Simons we kärdeşleri, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Gözden geçirişler kompýuter beýni okuwy barada näme diýýär?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Barlaglary birleşdirýän Cochrane gözden geçirişleri iň az 12 hepde dowam eden kompýuterleşdirilen okuwy gözden geçirdi:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **65 we ondan uly saglam uly adamlar:** 1,183 adamly sekiz synag. Subutnama pes ýa-da gaty pes hilidi. Okuwdan soň derrew azajyk peýda bolup biler, ýöne onuň dowam edýändigi barada aýdyň subutnama ýok ([Cochrane gözden geçirişi, saglam garrylar](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Ýeňil pikirlenme kynçylygy bolan adamlar:** 660 adamly sekiz synag. Hiç bir synag adamlaryň soňundan demensiýa ýüze çykarandygyny habar bermedi we subutnama netije çykarmak üçin aşa gowşakdy ([Cochrane gözden geçirişi, ýeňil pikirlenme kynçylygy](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ACTIVE synagy näme tapdy?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE, 1998-nji ýylda başlanan we özbaşdak ýaşaýan hem-de ýat ýa-da pikirlenme boýunça uly kynçylygy bolmadyk 65 we ondan uly 2,802 uly adamy öz içine alýan uly ABŞ synagydyr. Adamlar tötänleýin kiçi topar okuwynyň üç görnüşiniň birine (işleýiş tizligi, ýat ýa-da pikirlenme) ýa-da aragatnaşyksyz topara bellendi. Okuw bäş-alty hepdäniň dowamynda on sessiýa çenli boldy. Sessiýalaryň köpüsini gutaran käbir adamlara takmynan bir we üç ýyldan soň tötänleýin **goşmaça sessiýalar** hem hödürlendi.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Tizlik okuwy, adamlar gowulaşdygyça sazlanýan derejede, gysgalýan we gysgalýan görüş pursatlarynda wizual maglumaty tapmagy we işlemegi öz içine aldy.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026-njy ýylda barlagçylar 2,021 gatnaşyjyny 20 ýylyň dowamynda Medicare ýazgylary bilen baglanyşdyrdylar ([ACTIVE 20 ýyllyk derňew](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Olaryň takyk tapanlary şulardyr:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Tizlik okuwy we iň az bir goşmaça sessiýa:** aragatnaşyksyz topar bilen deňeşdirilende diagnoz goýlan demensiýanyň has pes derejesi (töwekgelçilik gatnaşygy 0.75, bu takmynan 25% has pes dereje diýmekdir).
+- **Goşmaça sessiýasyz tizlik okuwy:** has pes dereje ýok.
+- **Ýat ýa-da pikirlenme okuwy:** demensiýa diagnozlaryna manyly täsir ýok.
+- **Her okuw toparynyň bütin hökmünde aragatnaşyksyz topar bilen deňeşdirilmegi:** has pes derejelere meýil, ýöne statistiki taýdan manyly däl.
 
-### The limits of this finding
+### Bu tapyndynyň çäkleri
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Ol **goşmaça sessiýaly belli bir gözegçilikli tizlik okuwyna** degişlidir, umuman beýni oýunlaryna däl.
+- Manyly netije bütin tizlik toparyndan däl-de, **kiçi toparyndan** (ilkinji sessiýalaryň köpüsini gutaran we goşmaça sessiýalar hödürlenen adamlar) geldi.
+- Demensiýa her adamy barlamak bilen däl-de, **Medicare talaplaryndaky diagnoz kodlary** bilen ölçeldi. Başdaky gatnaşyjylaryň takmynan çärýegi doly talap ýazgylary bolmadyk Medicare Advantage-a ýazylany üçin çykaryldy.
+- Gatnaşyjylaryň başlanda uly pikirlenme kynçylygy ýokdy. Netijeler **eýýäm demensiýa bilen ýaşaýan** adamlar üçin oýunlar barada hiç zat aýtmaýar.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Bu has köp barlag edilmäge mynasyp gyzykly netijedir. Haýsydyr bir programmanyň demensiýanyň öňüni alýandygynyň subutnamasy däl.
 
-## What did the FTC say about Lumosity?
+## FTC Lumosity barada näme diýdi?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016-njy ýylyň Ýanwar aýynda Lumosity-niň öndürijisi Lumos Labs aldaw reklama boýunça Federal Trade Commission aýyplamalaryny ýatyrmak üçin 2 million dollar tölemäge razy boldy. FTC kompaniýanyň oýunlarynyň iş we mekdep öndürijiligini gowulandyryp biljekdigini we ýaşa bagly pese gaçmagy, ýeňil pikirlenme kynçylygyny, demensiýany we Alsgeýmeri haýalladyp biljekdigini ýeterlik ylym bolmazdan aýdandygyny aýtdy. Karar kompaniýanyň geljekde şeýle sözleri aýtmazdan öň ygtyýarly we ygtybarly ylmy subutnamasynyň bolmagyny talap edýär ([FTC metbugat beýanaty](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Maşgalalar üçin sapak: ýady goramagy ýa-da demensiýanyň öňüni almagy wada berýän islendik oýna, programma ýa-da meýilnama şübhe bilen garaň.
 
-## Can games help someone who already has dementia?
+## Oýunlar eýýäm demensiýasy bar adama kömek edip bilermi?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Olar gowy güne goşup biler, bu bolsa örän möhümdir. Iň gowy öwrenilen çemeleşme **pikirlenmäni höweslendirmekdir**: köplenç ýolbaşçy bilen kiçi toparda geçirilýän söhbetdeşlik, ýatlama, söz oýunlary, tapmaçalar we aýdym-saz ýaly lezzetli topar işleri.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023-nji ýyldaky Cochrane gözden geçirişi ýeňil ýa-da orta derejeli demensiýaly 2,766 adamly 37 synagy tapdy ([pikirlenmäni höweslendirmek barada Cochrane gözden geçirişi](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- pikirlenme synaglarynda **kiçi, gysga möhletli peýda** (orta hilli subutnama);
+- **aragatnaşykda we sosial täsirde klinik taýdan ähmiýetli gowulanmalar** (has az synagdan, ýokary hilli subutnama);
+- ýaşaýyşyň hili, keýp we özüni alyp baryş üçin **az-azajyk peýdalar**.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Peýdalar köplenç takmynan on hepdelik programmalardan derrew soň ölçeldi we az synag olaryň dowam edýändigini barlady. Pikirlenmäni höweslendirmek gurluşly topar programmasydyr, şonuň üçin bu netijeler planşetde ýeke oýnaýan adama awtomatik degişli däl.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024-nji ýyldaky Lancet Komissiýasy hem demensiýa bilen ýaşaýan adamlar üçin lezzeti we maksady saklamak üçin iş programmalarynyň möhümdigini aýdýar ([Lancet Komissiýasy](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Oýunlar hakykatda nämä peýdaly?
 
-When chosen well, games can offer:
+Gowy saýlananda, oýunlar şulary hödürläp biler:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Lezzet.** Ýakymly ýarym sagat öz-özi üçin gymmatlydyr.
+- **Baglanyşyk.** Ýanaşyp oýnamak, gürrüň kyn bolanda paýlaşmak üçin aňsat zat berýär. [Bilelikde nädip oýnamaly](/caregiving/how-to-play-together/) sahypasyna serediň.
+- **Tertip.** Her gün şol bir wagtda tanyş iş rahatlyk getirip biler.
+- **Ynam.** Adamyň henizem gowy edip biljek zatlaryna laýyk işler olara synalýan däl-de, ukyply duýmaga mümkinçilik berýär.
+- **Gürrüň.** Surat ýa-da tanyş nakyl hekaýany açyp biler. [Gürrüň kartlaryny](/games/conversation-cards/) ýa-da [nakyly tamamlamagy](/games/finish-the-saying/) synap görüň.
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Nämeden gaça durmaly: sagatlardan, utuklardan, yzygiderli utuş yzlaryndan we ýat synagy ýaly duýulýan zatlardan. Adam gaharlansa, bes ediň. Ir gutarmak ýa-da diňe ýanaşyp oturmak gowy netijedir. [Programmalary we oýunlary saýlamak](/caregiving/choosing-apps-and-games/) gollanmamyzda barlag sanawy bar.
 
-## Where Golden Moments fits
+## Golden Moments nirede ýerleşýär
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+[Surat jübütleri](/games/picture-pairs/), [surat tapmaçasy](/games/picture-puzzle/) we [ullakan çaply söz gözlegi](/games/word-search/) ýaly Golden Moments oýunlary lezzet we bilelikdäki wagt üçin ýasalýar. Olarda sagat ýok we utuk ýok. Olar bejeriş **däl** we demensiýanyň öňüni **almaýar** ýa-da haýalladýar. Hiç bir oýnuň berip bilmejek zadyny wada bermekden, muny size açyk aýtmagy has gowy görýäris.
 
-## Talk with a doctor
+## Lukman bilen gürleşiň
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Eger özüňiziň ýa-da ideg edýän adamyňyzyň ýadyndaky üýtgeşmeler barada alada edýän bolsaňyz, programma bil baglamazdan, lukmana ýüz tutuň. Lukman bejerip bolýan sebäpleri gözläp biler we gan basyşyny dolandyrmak we eşidişi barlamak ýaly iň gowy subutnamaly ädimler barada gürleşip biler. Has köp maglumat üçin [Demensiýanyň öňüni almak mümkinmi?](/brain-health/can-dementia-be-prevented/) sahypasyna serediň. Birden bolan bulaşyklyk ýa-da başga birden üýtgeşmeler üçin gyssagly lukman kömegini alyň.
