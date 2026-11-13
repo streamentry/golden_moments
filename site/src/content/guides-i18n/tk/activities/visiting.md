@@ -54,7 +54,7 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Ýat idegi edarasynda, garrylar öýünde ýa-da keselhanada söýýän adamyňyza baryp görmek köp duýgyny oýarup biler. Näme diýmelidigi, näme getirmelidigi ýa-da olar ýada saklamajak bolsalar, ziýaretiň ähmiýeti bardygy barada oýlanyp bilersiňiz. Ähmiýeti bar. National Institute on Aging, Alzheimer keseli bolan adamlaryň myhmanyň kimdigini ýada salmasalar-da, [köplenç ýoldaşlygy halaýandygyny](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) belleýär. Bu sahypada ziýaretden öň, ziýaret wagtynda we ondan soň amaly ädimler, şeýle hem keselhanada ýatmak üçin aýratyn maslahatlar berilýär.
+Ýat idegi edarasynda, garrylar öýünde ýa-da keselhanada söýýän adamyňyza baryp görmek köp duýgyny oýarup biler. Näme diýmelidigi, näme getirmelidigi ýa-da olar ýada saklamajak bolsalar, ziýaretiň ähmiýeti bardygy barada oýlanyp bilersiňiz. Ähmiýeti bar. National Institute on Aging, Alsgeýmer keseli bolan adamlaryň myhmanyň kimdigini ýada salmasalar-da, [köplenç ýoldaşlygy halaýandygyny](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) belleýär. Bu sahypada ziýaretden öň, ziýaret wagtynda we ondan soň amaly ädimler, şeýle hem keselhanada ýatmak üçin aýratyn maslahatlar berilýär.
 
 ## Ziýarete nädip taýýarlanmaly?
 
@@ -83,7 +83,7 @@ Synag edýän zatlary däl-de, paýlaşmak üçin zatlary getiriň. Gowy saýlaw
 
 Bilelikde bir zat etmek gürrüňiň basyşyny aýyrýar. Dementia Australia suratlara seretmegi, aňsat el işini, nahal ekmegi, aýdym-sazy, iýmit paýlaşmagy ýa-da meýdança gezelenjini maslahat berýär. Ýene-de birnäçe pikir:
 
-1. **Suratlara seredip.** Gören zadyňyzy görkeziň: «Şol şlýapa serediň.» «Bu kenar ajaýyp görünýär.» Adamyň ýol görkezmegine ýol beriň. «Bu kim?» sorag bermekden gaça duruň.
+1. **Suratlara seredip.** Gören zadyňyzy görkeziň: «Şol şlýapa serediň.» «Bu kenar ajaýyp görünýär.» Adamyň ýol görkezmegine ýol beriň. «Bu kim?» diýip soramakdan gaça duruň.
 2. **Aýdym-saz çalyp aýdym aýdyň.** Tanyş aýdymlar keýpi ýokarlandyryp we gürlemek kyn bolanda hem bilelikde pursat berip biler.
 3. **Gysga gezelenç ediň.** Family Caregiver Alliance edaranyň içinde, esasanam bag bar bolsa, gezmegi maslahat berýär. Tigirli oturgyçda aýlanmak hem sanalýar.
 4. **El massažy ediň.** Azajyk krem we ellerde ýuwaş sylamalar rahatlandyryp biler.
@@ -134,17 +134,17 @@ Gitmek iň kyn bölegi bolup biler. Dementia Australia şulary maslahat berýär
 - **Ony nahar ýa-da iş bilen deňeşdiriň** ýa-da işgärlerden adamyň başga bir zat bilen meşgullanmagyna kömek etmegini soraň.
 - **Hoşlaşygy gysga we her gezek şol bir saklaň.** Aýlanyp durmak, ötünç sorap durmak ýa-da «ýene azajyk» galmak indiki hoşlaşyklary kynlaşdyryp biler.
 
-Gidenden soň gynanmak adaty zatdyr. Özüňize dynç berip. Adam gaharlansa, işgärler adatça ony tiz wagtdan rahatlandyryp bilýär.
+Gidenden soň gynanmak adaty zatdyr. Özüňize dynç bermäge ýol beriň. Adam gaharlansa, işgärler adatça ony tiz wagtdan rahatlandyryp bilýär.
 
 ## Keselhanada demensiýa bilen ýaşaýan adama baryp görmek
 
-Keselhana galmagally, nätanyş we ýat adamlar bilen doly ýerdir, bu demensiýa bilen ýaşaýan adam üçin örän kyn bolup biler. NIA-nyň [Alzheimer keseli bolan adamy keselhana äkitmek](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) gollanmasy şulary maslahat berýär:
+Keselhana galmagally, nätanyş we ýat adamlar bilen doly ýerdir, bu demensiýa bilen ýaşaýan adam üçin örän kyn bolup biler. NIA-nyň [Alsgeýmer keseli bolan adamy keselhana äkitmek](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) gollanmasy şulary maslahat berýär:
 
-- **Mümkin boldugyça adamyň ýanynda kimdir biri bolsun:** maşgala agzasy, ynamly dost ýa-da ýalanan seredýän adam.
+- **Mümkin boldugyça adamyň ýanynda kimdir biri bolsun:** maşgala agzasy, ynamly dost ýa-da hakyna tutulan seredýän adam.
 - **Işgärlere şahsy maglumat sahypasyny beriň.** Onda adamyň tertibi, halaýan ady, halaýan we halamaýan zatlary, mümkin gaharlandyrýan zatlar we agyrynyň sözsüz alamatlary bolsun. Nusgalaryny otagda we şepagat uýalarynyň stolunda goýuň.
 - **Iýmäge we içmäge kömek ediň.** Garrylar keselhanada ýeterlik iýmitlenmän biler. Gaplary açyň, nahara kömek ediň, bilelikde iýiň we içgi hödürläň.
 - **Rahatlandyryjy zatlary getiriň,** mysal üçin suratlar ýa-da ruhy zatlar.
-- **Sesi peseldiň.** Telewizory öçüriň we telefon hem intерkom sesini peseldiň.
+- **Sesi peseldiň.** Telewizory öçüriň we telefon hem interkom sesini peseldiň.
 - **Rahatlandyryjy däp-dessurlary synap görüň,** mysal üçin ýuwaş aýdym-saz, okamak, doga, aýdym aýtmak ýa-da köne suratlara seretmek.
 - **Howpsuz bolsa, hereket etmäge höweslendiriň,** işgärleriň rugsady bilen.
 - **Adam birden erbetleşen ýa-da başgaça görünýän bolsa, lukmana derrew aýdyň.** NIA deliriý diýlip atlandyrylýan birden aşa bulaşyklygyň ýokanç, gyzgynlyk, suwsuzlyk ýa-da derman ýan täsirleri ýaly kynçylyklardan bolup biljekdigini we lukman ünsüni talap edýändigini düşündirýär.
@@ -153,7 +153,7 @@ Tanyş ýüz we halaýan aýdym bilen gysga, rahat ziýaret keselhana gününiň
 
 ## Çagalary ziýarete getirmek
 
-Çagalar köp mylaýymlyk getirip biler. Olary ozaldan ýönekeý, dogruçyl sözler bilen taýýarlaň, ziýareti gysga saklaň we olara bir iş beriň, mysal üçin çeken suratyny görkezmek ýa-da suraty uzatmak. NIA çagalaryň we Alzheimer keseli bolan adamlaryň surat albomyna seretmek ýa-da aýdym-saz diňlemek ýaly ýönekeý işlerden bilelikde lezzet alyp biljekdigini maslahat berýär. Dementia Australia kiçi çagalary meşgul etmek üçin kiçijik süýjüler ýa-da dymyk zatlar sumkasyny ýygnamagy maslahat berýär.
+Çagalar köp mylaýymlyk getirip biler. Olary ozaldan ýönekeý, dogruçyl sözler bilen taýýarlaň, ziýareti gysga saklaň we olara bir iş beriň, mysal üçin çeken suratyny görkezmek ýa-da suraty uzatmak. NIA çagalaryň we Alsgeýmer keseli bolan adamlaryň surat albomyna seretmek ýa-da aýdym-saz diňlemek ýaly ýönekeý işlerden bilelikde lezzet alyp biljekdigini maslahat berýär. Dementia Australia kiçi çagalary meşgul etmek üçin kiçijik süýjüler ýa-da dymyk zatlar sumkasyny ýygnamagy maslahat berýär.
 
 ## Özüňize hem ideg ediň
 
