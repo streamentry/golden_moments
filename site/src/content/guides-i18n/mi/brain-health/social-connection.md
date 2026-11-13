@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Hononga Pāpori me te Hauora Roro: Mokemoke, Noho Wehe me te Mate Wareware"
+seoTitle: "Te Mokemoke, te Noho Wehe me te Tūraru Mate Wareware"
+description: "He pēhea te hono o te mokemoke me te noho wehe ki te tūraru mate wareware, he aha tā te Tumuaki Hauora Matua o Amerika i kī, me ngā huarahi māmā ki te noho hono."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  E kī ana ngā rangahau he tūraru nui ake te mate wareware mō ngā pakeke e noho mokemoke ana, e noho wehe ana i te oranga. Tātari ana te 2024 Komihana Lancet he tata ki te 5% o ngā keehi te take ko te noho wehe, ahakoa ko ētahi o ngā hononga he wehenga nā te mate wareware timatanga. Ko te whakapā tonu, ngā hobi tahi me te āwhina ki te whakarongo he āwhina ki te hononga. Mō te tangata e noho ana me te mate wareware, he nui te painga o ngā mahi tahi mō te harikoa me te kounga o te ora.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Ko te Komihana Lancet e whakarārangi ana i te noho wehe i te pakeke hei tētahi o ngā tūraru mate wareware 14 ka taea te whakarerekē, tata ki te 5% o ngā keehi."
+  - "I kī te Tumuaki Hauora Matua o Amerika i te 2023 he tata ki te 50% te tūraru nui ake o te mate wareware mō ngā pakeke e mokemoke tonu ana, e noho wehe tonu ana."
+  - "Ko te nuinga o ēnei taunakitanga he rangahau tirohanga anake, ā, ka taea e te mate wareware timatanga te whakawehe i te tangata i ōna hoa."
+  - "Ko ngā raruraru rongo me te kite, te noho takitahi me te mahi tiaki he take e piki ai te noho wehe."
+  - "Mō te tangata e noho ana me te mate wareware, ka whai painga ngā mahi tahi harikoa ki te kounga o te ora; ko te whāinga he hononga, ehara i te mahi pai."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Ka whakatupu te mokemoke i te mate wareware?"
+    a: "Kāore anō kia whakamanahia. He maha ngā rangahau e hono ana te mokemoke me te noho wehe ki te tūraru nui ake o te mate wareware, engari ka taea hoki e ngā rerekētanga roro timatanga te whakaaro ki te tangata ki te whakahoki i a rātou ki muri i ngā tāngata kē. He maha atu ngā painga o te noho hono tonu mō te ngākau me te hauora, nō reira he mea tika te tautoko, ahakoa ko wai te take."
+  - q: "He aha te rerekētanga i waenga i te mokemoke me te noho wehe pāpori?"
+    a: "Ko te noho wehe pāpori he noho me te iti o ngā tāngata e whakapā tonu ana koe. Ko te mokemoke he kare mamae o te noho takitahi, o te wehe rānei. Ka taea te noho takitahi me te kore e mokemoke, ā, ka taea te mokemoke i waenga i te tini tangata."
+  - q: "Me pēhea e āwhina ai i tōku mātua e mate wareware ana kia noho hono tonu?"
+    a: "He pai te whakapā poto, tūturu. Whakaritea he waea, he kōrero ā-ataata rānei ia wiki; he mahi tahi i te tēpu kai; he wāhi kawhe mō te mahara; he toro ki tētahi kararehe, ki tētahi mokopuna rānei. Me iti, me mārie ngā rōpū, ā, waiho te tangata kia whakatakoto i te tere."
+  - q: "Ka kitea ngā āwhina ā-rohe mō tētahi pakeke mokemoke i hea?"
+    a: "Ka hono te Eldercare Locator, he ratonga tūmatanui, i ngā whānau ki ngā whakahaere ā-rohe mō te eke pakeke me ngā kaupapa hapori. Ka taea te waea ki te 800-677-1116, ka taea hoki te toro ki eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+He tangata tonu tātou mō te hoa, ā, ehara tērā i te mea ka rerekē ahakoa te pakeke. E kī ana ngā rangahau he tūraru nui ake te mate wareware mō te mokemoke me te noho wehe i te pakeke, tae atu ki te mate ngākau me te pōuri. Kāore anō ngā rangahau e taea te kī ko hea te take, ko hea te hua. Ko tēnei whārangi e whakaatu ana i ngā taunakitanga, ngā huarahi mahi kia noho hono tonu, me te take e nui ai ngā mahi tahi mō te hunga kua noho ana me te mate wareware.
 
-## Are loneliness and isolation linked with dementia?
+## He hono ānō te mokemoke me te noho wehe ki te mate wareware?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ae, he maha ngā rangahau e hono ana, ahakoa kāore anō kia mārama katoa te ahunga. Ko te [2024 Komihana Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0) e whakarārangi ana i te noho wehe i te pakeke hei tētahi o ngā tūraru mate wareware 14 ka taea te whakarerekē. Ko [te whakarāpopototanga a UCL mō te pūrongo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) e kī ana he tata ki te 5% o ngā keehi mate wareware puta noa i te ao.
 
-What the evidence shows:
+He aha ngā taunakitanga e whakaatu ana:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Iti te whakapā, nui ake te tūraru.** E whakaatu ana te Komihana i ngā arotake e rua i hono i te whakapā iti ki te tūraru nui ake o te mate wareware. Kitea ana tētahi he tata ki te 57% te tūraru nui ake, ā, tētahi atu he tata ki te 18%.
+- **Ko te mokemoke hoki.** Ko te mokemoke, te kare o te wehe, i hono hoki ki te tūraru nui ake o te mate wareware i ngā arotake maha.
+- **Te whakaaro a te Tumuaki Hauora Matua.** I te Haratua 2023, i tukuna e te Tumuaki Hauora Matua o Amerika tētahi [whakatūpato mō te mokemoke me te noho wehe](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). E kī ana ka piki ake pea te tūraru o te mate wareware mō ngā pakeke, ā-roa ake te mokemoke me te noho wehe, he tata ki te 50%. I hono hoki ia i te whakapā tōkino ki te tūraru nui ake o te mate ngākau he 29%, me te tūraru nui ake o te whētuki he 32%.
+- **Te kaha o te āhua.** I kitea e tētahi [pūrongo a te National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) he tata ki te 24% o ngā Amerikana kua 65 ngā tau, neke atu rānei, e noho ana i ngā hapori, he noho wehe pāpori tonu.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+He whakatūpato nui: e kī ana te Komihana Lancet ka whakaiti pea te tangata i āna mahi pāpori i te wāhanga timatanga o te mate wareware, kāore anō kia kitea. Ko te tikanga, ko tētahi wāhi o te hononga ko te mate wareware e whakatupu ana i te wehenga, ehara i te wehenga anake e piki ai te tūraru. He nui rawa ngā taunakitanga nei i ahu mai i ngā rangahau tirohanga.
 
-## What is the difference between loneliness and isolation?
+## He aha te rerekētanga i waenga i te mokemoke me te noho wehe?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+E whakamārama ana te [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) i tēnei. Ko te **noho wehe pāpori** te noho me te iti o ngā whakapā pāpori, me te iti o ngā tāngata e kōrero tonu ana koe. Ko te **mokemoke** te kare mamae o te noho takitahi, o te wehe rānei. Ka taea e tētahi te noho takitahi me te harikoa, ā, ka taea e tētahi te mokemoke i tētahi rūma kī tonu i te tangata.
 
-The NIA lists factors that raise the risk of both:
+Ka whakarārangi te NIA i ngā take e piki ai te tūraru o ēnei e rua:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Ngā raruraru rongo, kite rānei
+- Te uaua o te haere, te kore waka rānei
+- Te noho takitahi, te ngaro nui rānei, pēnei i te matenga o te hoa rangatira, te whakatā mahi rānei
+- Ngā rerekētanga o te mahara, o te whakaaro
+- Te tiaki i tētahi e mate ana
+- Ngā māharahara pūtea, ngā arakore reo rānei
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Ko te rongo tētahi take nui. E kī ana te NIA ka wehe pea ngā tāngata e uaua ana te rongo, nā te kōrerorero e pukuriri ai, e whakamā ai rānei. Ko tā mātou [aratohu rongo me te hauora roro](/brain-health/hearing/) e kōrero ana mō ngā whakamātautau rongo me ngā taputapu whakarongo ka hokona noa atu.
 
-## Practical ways to stay connected
+## Ngā huarahi mahi kia noho hono tonu
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+He maha ngā whakaaro e tūtohu ana te NIA. Whiriwhiria kotahi, e rua rānei e tika ana:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Whakaritea he whakapā tonu.** He wā tika ia rā, ia wiki hei waea, hei tuku karere, hei īmēra, hei tuku kāri rānei ki te whānau, ki ngā hoa, ki ngā hoa noho tata.
+- **Whakamahia ngā kōrero ā-ataata, ngā pūkoro atamai rānei.** Mēnā he hou te hangarau, he maha ngā whare pukapuka tūmatanui me ngā whare hapori e whai akoranga ana. Tirohia tā mātou [aratohu waea me ngā kōrero ā-ataata](/activities/phone-and-video-calls/).
+- **Uru ki tētahi mea.** He akomanga, he hapori whakapono, he rōpū hīkoi, he mahi ūkaipō rānei, ka whai whakapā koe, ka whai whāinga hoki.
+- **Whakaoti anō tētahi hobi tawhito**, ako rānei i tētahi hou me ētahi atu tāngata.
+- **Neke tahi me ētahi atu.** Mahi whakakorikori me tētahi hoa, me tētahi rōpū. Kei tā mātou [aratohu whakakorikori](/brain-health/exercise/) ngā kōwhiringa mārie.
+- **Whakaaro ki tētahi kararehe**, mēnā ka taea e koe te tiaki.
+- **Whakamahia ngā ratonga ā-rohe.** Ka taea e ngā whare kaumātua, ngā Area Agencies on Aging me te Eldercare Locator (800-677-1116) te whakaatu i ngā kaupapa me ngā waka.
 
-## Why do shared activities matter in dementia?
+## He aha te nui o ngā mahi tahi i te mate wareware?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Mō te tangata kua noho ana me te mate wareware, ko te hononga mō te harikoa, te mārie me te whai wāhi, ehara i te whakaiti i te tūraru. E kī ana te Komihana Lancet ka āwhina ngā mahi i ngā tāngata e mate wareware ana ki te pupuri i te harikoa me te whāinga. E kī ana te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ahakoa he pai ake te kounga o te ora, ka whakaiti pea ngā mahi i ngā whanonga pēnei i te haere kore whāinga, i te pōrearea. Ka tāpiri te [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) me whai kaha ngā tāngata e mate ana i te Alzheimer's, me mahi i ngā mea e harikoa ai rātou.
 
-Ideas that work well:
+Ngā whakaaro e pai ana:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Titiro whakaahua tahi.** Ko ngā [Kāri Kōrero](/games/conversation-cards/) he tohutohu tuwhera, kāore he pātai whakamātau, pēnei i te “Korerohia mai mō...”. Titiro ki tā mātou [aratohu whakamahara](/activities/reminiscence/).
+2. **Tākaro i te taha o tētahi.** Ka whakaatu tonu te [Ngā Takirua Whakaahua](/games/picture-pairs/) i ngā whakaahua, kāore he taima, he kaute hoki, nō reira kāore he pehanga. Kei tā mātou [aratohu mō te tākaro tahi](/caregiving/how-to-play-together/) ngā tohutohu.
+3. **Whakamahia ngā whakaahua whānau.** Ka huri te [Ngā Takirua Whakaahua Whānau](/games/photo-pairs/) i ngā whakaahua ka whiriwhiria e koe hei tākaro rite, ā, ka noho tonu ngā whakaahua ki tō taputapu.
+4. **Whakahuihui i te tangata.** Ka pai te [Pingo Whakaahua](/games/picture-bingo/) mō ngā hui whānau me ngā [rōpū whare manaaki](/activities/care-home-groups/).
+5. **Tuari i te waiata, i ngā mahi kāinga, i te māra.** Titiro ki ngā [mahi waiata](/activities/music/), ngā [mahi whare](/activities/household-tasks/) me tā mātou rārangi katoa o ngā [whakaaro mahi](/activities/ideas/).
+6. **Whakamāmāhia ngā toronga.** Ko tā mātou [aratohu toro](/activities/visiting/) e kōrero ana mō ngā toronga poto, mārie e pai ai mō te katoa.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Kia iti, kia mārie. He pai ake te rūma klanga me tētahi, e rua tāngata rānei, i te rōpū nui. Mēnā ka ngenge te tangata, ka mutu rānei tana hiahia, he pai. He hua pai hoki te noho tahi me te kapu tī.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Mō te tangata e noho takitahi ana me te mate wareware, e tūtohu ana te NIA kia kimihia tētahi tangata pono ka toro, ka kōrero ā-ataata hoki ā-tūturu, ka noho hei whakapā ohotata. E kōrero ana hoki mō te wāhi kawhe mō te mahara ā-rohe, he wāhi pāpori mārie mō ngā tāngata e ngaro ana te mahara me ō rātou whānau.
 
-## Caregivers get lonely too
+## Ka mokemoke hoki ngā kaitiaki
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+E whakarārangi ana te NIA i te tiaki i tētahi aroha hei tūraru noho wehe. Tiakina tētahi wā mō ō hoa whaiaro, ō rōpū tautoko me te whakatā. Kei tā mātou [aratohu tiaki whaiaro mō te kaitiaki](/caregiving/caregiver-self-care/) ngā whakaaro whaihua.
 
-## Talk with a doctor
+## Korero ki tētahi tākuta
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Mēnā ka mokemoke, ka noho wehe rānei koe, te tangata e tiakina ana e koe i te nuinga o te wā, kōrero ki tētahi tākuta. Ka whakahau te NIA i ngā tāngata ki te whakaatu i ngā rerekētanga nui o te oranga, pēnei i te matenga i roto i te whānau, kia mārama ai te tākuta ki te katoa. Ko te pōuri mō ngā wiki e hia ka taea te kī he pōuri nui, ka taea te rongoa. Mēnā kua wehe atu tētahi pakeke i ōna hoa, i ngā mahi i harikoa ai ia i mua, he mea whai take te kōrero mō tērā rerekētanga ki te tākuta. Pānuihia [ngā tohu timatanga me te wā e haere ai ki te tākuta](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+He mōhiohio whānui tēnei whārangi, ehara i te tohutohu hauora. Tirohia tā mātou [whakapūtanga hauora](/medical-disclaimer/).
