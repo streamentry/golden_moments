@@ -59,7 +59,7 @@ Galuega sili e faigofie, masani ma e mafai ona faia i le tu pe nofo. Filifili e 
 ### I le faatoaga
 
 1. **Faʻatele.** Ipu vai malulu po se ipu vai laiti ma nai ipu i le taʻavale. Faʻatele e i ai le amataga ma le iʻuga manino, ma e faigata ona faia sese.
-2. **Tanu fuaʻi i ipu laiti.** E fautua mai le [Alzheimer's Foundation of America](https://alzfdn.org/dementia-activity-gardening/) ia tanu fuaʻi i ipu laiti ma [matamata i le tupu](https://alzfdn.org/dementia-activity-gardening/) o latou. Fuaʻi tetele e pei o fa'i, fugalaau la po pese e faigofie ona faʻaoga.
+2. **Tanu fuaʻi i ipu laiti.** E fautua mai le [Alzheimer's Foundation of America](https://alzfdn.org/dementia-activity-gardening/) ia tanu fuaʻi i ipu laiti ma matamata i le tupu o latou. Fuaʻi tetele e pei o fa'i, fugalaau la po pese e faigofie ona faʻaoga.
 3. **Vavaeeseina fugalaau mamae.** Tipi fugalaau ua maeʻa e ala i le lima. O se galuega malulu, e toe faia, ma filifili laau e leai ni tuʻi.
 4. **Tipi laau po laau manogi.** Tomato laiti, fa'i ma laau manogi e faigofie ona tipi ma e lelei ona tofo. Aumai i totonu e faʻaoga i le taamilo.
 5. **Sogi ma pa'i laau manogi.** Laau manogi e pei o le rosemary, le mint ma le lavender e i ai manogi malulu. Taʻi se lau i ou matagaʻi ma faʻasolo i luga o le tagata.
@@ -117,7 +117,7 @@ O le malulu foi e taua. I le taumalulu, taumafai e puʻupuʻu taimi i fafo ma fa
 
 ## E faafefea ona ou taulimaina le alu ese pe a alu i fafo?
 
-Nofo faatasi ma le tagata pe a i fafo. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) o loo taʻua e [6 i le 10 tagata o loo ola ma le dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) o le a alu ese i le tasi taimi, ma e toatele o le faia i le tele o taimi. E mafai ona tupu i soʻo se vaitaimi.
+Nofo faatasi ma le tagata pe a i fafo. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) o loo taʻua e ono i le 10 tagata o loo ola ma le dementia o le a alu ese i le tasi taimi, ma e toatele o le faia i le tele o taimi. E mafai ona tupu i soʻo se vaitaimi.
 
 Fautua mai le [tips a le NIA mo le alu ese ma le sesē](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease):
 

@@ -50,7 +50,7 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-ສຳລັບຫຼາຍຄົນ ສວນເປັນໜຶ່ງໃນສະຖານທີ່ທີ່ຄຸ້ນເຄີຍທີ່ສຸດທີ່ເຂົາເຈົ້າຮູ້ຈັກ. ການຂຸດ ການຮົດນ້ຳ ແລະການເກັບດອກໄມ້ໃຊ້ທັກສະທີ່ຮຽນມາແຕ່ດົນແລ້ວ ແລະການຢູ່ນອກເຮືອນນຳມາເຊິ່ງອາກາດສົດ ແສງແດດ ແລະສຽງນົກ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ລະບຸການດູແລພືດ ການປູກດອກໄມ້ ແລະຜັກ ແລະ[ການລົມກັນກ່ຽວກັບການເຕີບໂຕຂອງພືດ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ໃນບັນດາກິດຈະກຳທີ່ຜູ້ທີ່ເປັນອັລໄຊເມີອາດຈະມັກ. ໜ້ານີ້ອະທິບາຍສິ່ງທີ່ຄວນລອງ ວິທີເຮັດໃຫ້ສວນໃຊ້ງ່າຍຂຶ້ນ ແລະວິທີຮັກສາຄວາມປອດໄພກັບຄວາມຮ້ອນ ແສງແດດ ແລະການຫຼົງທາງ.
+ສຳລັບຫຼາຍຄົນ ສວນເປັນໜຶ່ງໃນສະຖານທີ່ທີ່ຄຸ້ນເຄີຍທີ່ສຸດທີ່ເຂົາເຈົ້າຮູ້ຈັກ. ການຂຸດ ການຮົດນ້ຳ ແລະການເກັບດອກໄມ້ໃຊ້ທັກສະທີ່ຮຽນມາແຕ່ດົນແລ້ວ ແລະການຢູ່ນອກເຮືອນນຳມາເຊິ່ງອາກາດສົດ ແສງແດດ ແລະສຽງນົກ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ລະບຸການດູແລພືດ ການປູກດອກໄມ້ ແລະຜັກ ແລະການລົມກັນກ່ຽວກັບການເຕີບໂຕຂອງພືດ ໃນບັນດາກິດຈະກຳທີ່ຜູ້ທີ່ເປັນອັລໄຊເມີອາດຈະມັກ. ໜ້ານີ້ອະທິບາຍສິ່ງທີ່ຄວນລອງ ວິທີເຮັດໃຫ້ສວນໃຊ້ງ່າຍຂຶ້ນ ແລະວິທີຮັກສາຄວາມປອດໄພກັບຄວາມຮ້ອນ ແສງແດດ ແລະການຫຼົງທາງ.
 
 ## ກິດຈະກຳກາງແຈ້ງ ແລະການປູກສວນໃດທີ່ໄດ້ຜົນດີ?
 
@@ -117,7 +117,7 @@ health: false
 
 ## ຈະຈັດການການຫຼົງທາງເມື່ອອອກນອກເຮືອນແນວໃດ?
 
-ຢູ່ກັບຜູ້ນັ້ນສະເໝີເມື່ອເຂົາເຈົ້າຢູ່ກາງແຈ້ງ. Alzheimer's Association ລະບຸວ່າ [6 ໃນ 10 ຄົນທີ່ມີໂຣກສະໝອງເສື່ອມ](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ຈະຫຼົງທາງຢ່າງໜ້ອຍໜຶ່ງຄັ້ງ ແລະຫຼາຍຄົນເຮັດຫຼາຍກວ່າໜຶ່ງຄັ້ງ. ມັນເກີດຂຶ້ນໄດ້ໃນທຸກໄລຍະ.
+ຢູ່ກັບຜູ້ນັ້ນສະເໝີເມື່ອເຂົາເຈົ້າຢູ່ກາງແຈ້ງ. Alzheimer's Association ລະບຸວ່າ [ຫົກ ໃນ 10 ຄົນທີ່ມີໂຣກສະໝອງເສື່ອມ](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ຈະຫຼົງທາງຢ່າງໜ້ອຍໜຶ່ງຄັ້ງ ແລະຫຼາຍຄົນເຮັດຫຼາຍກວ່າໜຶ່ງຄັ້ງ. ມັນເກີດຂຶ້ນໄດ້ໃນທຸກໄລຍະ.
 
 [ຄຳແນະນຳກ່ຽວກັບການຫຼົງທາງ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ຂອງ NIA ລວມເຖິງ:
 
