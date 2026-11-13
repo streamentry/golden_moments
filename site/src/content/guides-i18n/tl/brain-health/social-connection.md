@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Pakikipag-ugnayan sa Kapwa at Kalusugan ng Utak: Kalungkutan, Pagkahiwalay at Dementia"
+seoTitle: "Kalungkutan, Pagkahiwalay sa Iba at Panganib ng Dementia"
+description: "Paano iniuugnay ang kalungkutan at pagkahiwalay sa iba sa panganib ng dementia, ano ang sinabi ng Surgeon General, at mga simpleng paraan para manatiling konektado."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Iniuugnay ng pananaliksik ang pagkahiwalay sa iba at kalungkutan sa huling bahagi ng buhay sa mas mataas na panganib ng dementia.
+  Tinatantiya ng 2024 Lancet Commission na humigit-kumulang 5% ng mga kaso ang may kinalaman sa pagkahiwalay, bagaman maaaring
+  bahagi ng ugnayan ang maagang dementia na nagpapalayo sa tao. Ang pakikipag-ugnayan, mga magkakasamang libangan at tulong sa
+  pandinig ay nakatutulong sa pagkakaroon ng koneksyon. Para sa taong may dementia, mahalaga ang mga magkakasamang aktibidad sa
+  kasiyahan at kalidad ng buhay.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Inilista ng Lancet Commission ang pagkahiwalay sa iba sa huling bahagi ng buhay bilang isa sa 14 na nababagong salik ng panganib sa dementia, na humigit-kumulang 5% ng mga kaso."
+  - "Iniugnay ng Advisory ng Surgeon General ng US noong 2023 ang talamak na kalungkutan at pagkahiwalay sa humigit-kumulang 50% na mas mataas na panganib ng dementia sa matatanda."
+  - "Karamihan ng ebidensyang ito ay obserbasyonal, at maaaring lumayo ang tao sa iba dahil sa maagang dementia mismo."
+  - "Ang problema sa pandinig at paningin, pamumuhay mag-isa at pag-aalaga sa iba ay nagpapataas ng panganib ng pagkahiwalay."
+  - "Para sa taong may dementia, sinusuportahan ng masasayang magkakasamang aktibidad ang kalidad ng buhay; ang layunin ay koneksyon, hindi pagganap."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Nagdudulot ba ng dementia ang kalungkutan?"
+    a: "Hindi pa ito napapatunayan. Maraming pag-aaral ang nag-uugnay ng kalungkutan at pagkahiwalay sa mas mataas na panganib ng dementia, pero maaari ring humantong sa paglayo ng tao sa iba ang maagang pagbabago sa utak. Maraming ibang benepisyo ang pananatiling konektado sa mood at kalusugan, kaya sulit itong suportahan sa alinmang kaso."
+  - q: "Ano ang pagkakaiba ng kalungkutan at pagkahiwalay sa iba?"
+    a: "Ang pagkahiwalay sa iba ay ang pagkakaroon ng kaunting tao na regular na nakikisalamuha. Ang kalungkutan ay ang masakit na pakiramdam ng pag-iisa o pagkaputol. Maaaring mag-isang nakatira ang isang tao nang hindi nalulungkot, o malungkot kahit napapaligiran ng maraming tao."
+  - q: "Paano ko matutulungan ang magulang kong may dementia na manatiling konektado?"
+    a: "Maayos ang maikli at regular na pakikipag-ugnayan. Subukan ang nakatakdang lingguhang tawag o video chat, isang aktibidad na magkasama sa mesa ng kusina, isang kapihan para sa alaala, o pagbisita kasama ang alagang hayop o apo. Panatilihing maliit at tahimik ang mga grupo, at hayaang ang tao ang magtakda ng bilis."
+  - q: "Saan ako makakahanap ng lokal na tulong para sa nakatatandang nahiwalay sa iba?"
+    a: "Ang Eldercare Locator, isang serbisyong pampubliko, ay nag-uugnay sa mga pamilya sa mga lokal na ahensya para sa pagtanda at mga programang pangkomunidad. Maaari itong tawagan sa 800-677-1116 o bisitahin sa eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Likas sa tao ang paghahanap ng kasama, at hindi ito nagbabago sa pagtanda. Iniuugnay ng pananaliksik ang kalungkutan at pagkahiwalay sa iba sa huling bahagi ng buhay sa mas mataas na panganib ng dementia, gayundin ng sakit sa puso at depresyon. Hindi pa masabi ng pananaliksik kung gaano kalaki sa ugnayang iyon ang sanhi at epekto. Sakop ng pahinang ito ang ipinapakita ng ebidensya, mga praktikal na paraan para manatiling konektado, at kung bakit napakahalaga ng magkakasamang aktibidad para sa mga taong may dementia na.
 
-## Are loneliness and isolation linked with dementia?
+## Nauugnay ba ang kalungkutan at pagkahiwalay sa dementia?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Oo, maraming pag-aaral ang nag-uugnay sa mga ito, bagaman hindi pa ganap na malinaw ang direksyon. Inilista ng [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ang pagkahiwalay sa iba sa huling bahagi ng buhay bilang isa sa 14 na nababagong salik ng panganib. Tinatantiya ng [buod ng UCL sa ulat](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) na humigit-kumulang 5% ng mga kaso ng dementia sa buong mundo ang may kinalaman dito.
 
-What the evidence shows:
+Ano ang ipinapakita ng ebidensya:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Kaunting pakikipag-ugnayan, mas mataas na panganib.** Inilalarawan ng Commission ang dalawang pagsusuri na nag-ugnay ng bihirang pakikipag-ugnayan sa ibang tao sa mas mataas na panganib ng dementia. Isa ang nakitang may humigit-kumulang 57% na mas mataas na panganib, at ang isa naman ay humigit-kumulang 18%.
+- **Kasama rin ang kalungkutan.** Iniugnay din ang kalungkutan, ang damdaming napuputol sa iba, sa mas mataas na panganib ng dementia sa ilang pagsusuri.
+- **Ang pananaw ng Surgeon General.** Noong Mayo 2023, naglabas ang Surgeon General ng US ng [advisory tungkol sa kalungkutan at pagkahiwalay sa iba](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Sinasabi nito na ang talamak na kalungkutan at pagkahiwalay ay maaaring magpataas ng panganib ng dementia nang humigit-kumulang 50% sa matatanda. Iniugnay din nito ang mahinang koneksyon sa kapwa sa 29% na mas mataas na panganib ng sakit sa puso at 32% na mas mataas na panganib ng stroke.
+- **Gaano ito kakaraniwan.** Natuklasan ng isang [ulat ng National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) na humigit-kumulang 24% ng mga Amerikanong edad 65 pataas na naninirahan sa komunidad ay nahihiwalay sa iba.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Isang mahalagang babala: sinasabi ng Lancet Commission na maaaring bawasan ng mga tao ang kanilang aktibidad sa lipunan sa maagang yugto ng dementia na hindi pa nadiagnose. Ibig sabihin, maaaring bahagi ng ugnayan ang dementia na nagdudulot ng paglayo, hindi lang ang paglayo na nagpapataas ng panganib. Halos lahat ng ebidensyang ito ay galing sa mga obserbasyonal na pag-aaral.
 
-## What is the difference between loneliness and isolation?
+## Ano ang pagkakaiba ng kalungkutan at pagkahiwalay?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Ipinaliliwanag ito ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) nang ganito. Ang **pagkahiwalay sa iba** ay ang pagkakaroon ng kaunting ugnayan sa kapwa o kaunting taong regular na nakakausap. Ang **kalungkutan** ay ang masakit na pakiramdam ng pag-iisa o paghihiwalay. Maaaring masaya ang isang taong mag-isang nakatira, at maaaring malungkot ang isang taong nasa maraming tao.
 
-The NIA lists factors that raise the risk of both:
+Inililista ng NIA ang mga salik na nagpapataas ng panganib ng dalawa:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Problema sa pandinig o paningin
+- Hirap sa paglilibot, o walang sasakyan
+- Pamumuhay mag-isa, o malaking pagkawala gaya ng pagkamatay ng asawa o pagreretiro
+- Pagbabago sa alaala o pag-iisip
+- Pag-aalaga sa mahal sa buhay na may karamdaman
+- Alalahanin sa pera o hadlang sa wika
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Malaking salik ang pandinig. Sinasabi ng NIA na maaaring lumayo ang mga taong hindi makarinig nang maayos dahil nakabibigo o nakahihiya ang usapan. Sinasaklaw ng aming [gabay sa pandinig at kalusugan ng utak](/brain-health/hearing/) ang pagsusuri ng pandinig at mga walang reseta na hearing aid.
 
-## Practical ways to stay connected
+## Mga praktikal na paraan para manatiling konektado
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Maraming ideya ang iminumungkahi ng NIA. Pumili ng isa o dalawang angkop sa iyo:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Magtakda ng regular na pakikipag-ugnayan.** Isang nakatakdang oras araw-araw o linggu-linggo para tumawag, mag-text, mag-email o magpadala ng kard sa pamilya, mga kaibigan o kapitbahay.
+- **Gumamit ng video call o matatalinong speaker.** Kung bago pa sa teknolohiya, maraming pampublikong aklatan at sentro ng komunidad ang nag-aalok ng klase. Tingnan ang aming [gabay sa mga tawag sa telepono at video](/activities/phone-and-video-calls/).
+- **Sumali sa isang bagay.** Ang isang klase, pamayanang panrelihiyon, grupo ng naglalakad o bilang boluntaryo ay nagbibigay ng pakikipag-ugnayan at pakiramdam ng layunin.
+- **Ibalik ang lumang libangan** o matuto ng bago kasama ang ibang tao.
+- **Gumalaw kasama ang iba.** Mag-ehersisyo kasama ang kaibigan o grupo. May banayad na mga pagpipilian ang aming [gabay sa ehersisyo](/brain-health/exercise/).
+- **Isaalang-alang ang alagang hayop** kung kaya mo itong alagaan.
+- **Gumamit ng lokal na serbisyo.** Ang mga sentro para sa nakatatanda, mga ahensya para sa pagtanda sa lugar at ang Eldercare Locator (800-677-1116) ay makatuturo sa iyo ng mga programa at sasakyan.
 
-## Why do shared activities matter in dementia?
+## Bakit mahalaga ang magkakasamang aktibidad sa dementia?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Para sa taong may dementia na, ang koneksyon ay tungkol sa kasiyahan, ginhawa at pakiramdam na kabilang, hindi tungkol sa pagbabawas ng panganib. Sinasabi ng Lancet Commission na tumutulong ang mga aktibidad sa mga taong may dementia na mapanatili ang kasiyahan at layunin. Sinasabi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) na bukod sa pagpapabuti ng kalidad ng buhay, nababawasan ng mga aktibidad ang mga asal tulad ng paglakad nang walang patutunguhan o pagkabalisa. Dagdag ng [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) na kailangan ng mga taong may Alzheimer's na kumilos at gawin ang mga bagay na kinagigiliwan nila.
 
-Ideas that work well:
+Mga ideyang maayos gumana:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Tumingin ng mga larawan nang magkasama.** Nag-aalok ang [Mga Kard para sa Usapan](/games/conversation-cards/) ng bukas na mga tanong na walang pagsusulit, gaya ng "Sabihin mo sa akin ang tungkol sa...". Tingnan ang aming [gabay sa pagbabalik-tanaw](/activities/reminiscence/).
+2. **Maglaro nang magkatabi.** Pinananatiling nakikita ng [Pares ng Larawan](/games/picture-pairs/) ang mga larawan at walang timer o marka, kaya walang presyon. May mga tip ang aming gabay tungkol sa [paano maglaro nang magkasama](/caregiving/how-to-play-together/).
+3. **Gumamit ng mga larawan ng pamilya.** Ginagawang laro ng pagtutugma ng [Photo Pairs](/games/photo-pairs/) ang mga larawang pipiliin mo, at nananatili ang mga larawan sa iyong device.
+4. **Pagsamahin ang mga tao.** Bagay ang [Bingo ng Larawan](/games/picture-bingo/) sa mga pagtitipon ng pamilya at [mga grupo sa pasilidad ng pag-aalaga](/activities/care-home-groups/).
+5. **Ibahagi ang musika, gawaing bahay o hardin.** Tingnan ang [mga aktibidad sa musika](/activities/music/), [mga gawaing bahay](/activities/household-tasks/) at ang buong listahan ng [mga ideya sa aktibidad](/activities/ideas/).
+6. **Gawing mas madali ang pagbisita.** Sakop ng aming [gabay sa pagbisita](/activities/visiting/) ang maikli at tahimik na pagbisita na maganda ang pakiramdam para sa lahat.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Panatilihing maliit at relaks. Kadalasang mas mabuti ang tahimik na silid na may isa o dalawang tao kaysa sa malaking grupo. Kung mapagod o mawalan ng interes ang tao, ayos lang ang huminto. Maganda ring resulta ang pag-upo nang magkasama na may tasa ng tsaa.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Para sa taong may dementia na nakatira mag-isa, iminumungkahi ng NIA na humanap ng mapagkakatiwalaang tao na makabisita o makatawag nang video nang regular at maging emergency contact. Binabanggit din nito ang lokal na kapihan para sa alaala, isang maluwag na lugar para sa mga taong may problema sa alaala at sa kanilang pamilya.
 
-## Caregivers get lonely too
+## Nalulungkot din ang mga tagapag-alaga
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Inililista ng NIA ang pag-aalaga sa mahal sa buhay bilang salik ng panganib sa pagkahiwalay. Maglaan ng oras para sa sarili mong pagkakaibigan, mga grupo ng suporta at pahinga. Ang aming [gabay sa pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/) ay may praktikal na ideya.
 
-## Talk with a doctor
+## Kumonsulta sa doktor
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Kung ikaw o ang inaalagaan mo ay madalas nalulungkot o nahihiwalay, sabihan ang doktor. Hinihikayat ng NIA ang mga tao na ibahagi ang malalaking pagbabago sa buhay, gaya ng pagkamatay ng kamag-anak, para maunawaan ng doktor ang buong larawan. Ang pagkalungkot nang ilang linggo ay maaaring depresyon, na nagagamot. Kung biglang lumayo ang isang nakatatanda sa mga kaibigan o aktibidad na dati niyang kinagigiliwan, sulit din itong banggitin sa doktor. Basahin ang [maagang senyales at kailan magpapatingin sa doktor](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Pangkalahatang impormasyon lamang ang pahinang ito, hindi medikal na payo. Tingnan ang aming [medical disclaimer](/medical-disclaimer/).

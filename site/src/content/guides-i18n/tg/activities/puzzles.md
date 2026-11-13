@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Пазлҳо барои одамоне, ки деменсия доранд: пазли ҷойгиркунӣ, калимаҳо ва онлайн"
+seoTitle: "Пазлҳо барои деменсия: пазли ҷойгиркунӣ ва калимаҳо"
+description: "Чӣ тавр пазли ҷойгиркунӣ, калимавӣ ва онлайнро барои шахсе бо деменсия интихоб кунед: андоза, расм, хати калон ва ҳамроҳӣ."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Беҳтарин пазл барои шахсе бо деменсия он аст, ки ӯ онро бо каме кӯмак ба охир
+  расонад ва дар роҳ аз он лаззат барад. Пазли ҷойгиркунии бо порчаҳои кам ва
+  калон ва расми возеҳи калонсолонро интихоб кунед, қуттии расмро дар назар
+  нигоҳ доред ва аввал порчаҳои канорро ҷудо кунед. Калимаҳои пинҳонӣ ва
+  кроссвордҳо бо хати калон беҳтар кор мекунанд. Пазлҳои онлайни чор порча барои
+  марҳилаи миёна мувофиқанд. Вақте ки лаззат дорад, бас кунед.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Бар асоси он интихоб кунед, ки чӣ гуна мегузарад, на бар асоси номи марҳила: агар пазл ба корӣ монанд бошад, бо порчаҳои камтар кӯшиш кунед."
+  - "Порчаҳои калон ва мустаҳкам ва расми возеҳ бо қисмҳои фарқкунандаи ранг осонтаранд аз порчаҳои хурд ва осмони калон."
+  - "Расмҳои калонсолон муҳиманд. Боғ, ошхона, мошин ва ҳайвонот, на мультфилм."
+  - "Бо ҳам кардани он асосӣ аст. Порчаҳоро дастрас кунед, канорҳоро ҷудо кунед, қуттии сарпӯшро дар назар нигоҳ доред."
+  - "Калимаҳои пинҳонӣ бо хати калон ва пазлҳои онлайни 4 ё 9 порча дар ин сайт ройгонанд."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Барои шахси деменсиядор чанд порчаи пазл беҳтар аст?"
+    a: "Адади дурусте вуҷуд надорад. Шахсе, ки пазлҳои 1,000 порчагӣ иҷро мекард, шояд аввал то чанд сад порча лаззат барад, дигарон бошад бо тақрибан дувоздаҳ порчаи калон беҳтар кор мекунанд. Агар пазл ба корӣ монанд бошад ё ноумедӣ орад, ба порчаҳои камтар гузаред. Пазли расми онлайни мо 4 ё 9 порча дорад."
+  - q: "Оё пазли ҷойгиркунӣ барои одамони деменсиядор хуб аст?"
+    a: "Бисёриҳо аз онҳо лаззат мебаранд, махсусан агар пештар пазл дӯст медоштанд. Пазл ба дастҳо корае медиҳад, ҳадафи возеҳ ва расме барои сӯҳбат. Ягон пазл нишон дода нашудааст, ки деменсияро табобат ё суст кунад, пас онро барои лаззат ва ҳамроҳӣ интихоб кунед."
+  - q: "Чӣ кор кунам, вақте ки шахс дигар пазли ҷойгиркуниро иҷро карда наметавонад?"
+    a: "Онро хурдтар кунед ва бештар худатон иҷро кунед: як порчаро дар як вақт диҳед ё барои ӯ танҳо чанд порчаи охирро гузоред. Пазли онлайни 4-порчагӣ, ҷудо кардани порчаҳо бо ранг ё танҳо тамошои расми тайёрро якҷоя кӯшиш кунед."
+  - q: "Оё калимаҳои пинҳонӣ ва кроссвордҳо барои деменсия мувофиқанд?"
+    a: "Дар марҳилаи аввал, бо хати калон, метавонанд мувофиқ бошанд. Калимаҳои пинҳонӣ, ки калимаҳояшон танҳо ба тарафи уфуқӣ ва амудӣ ҳастанд, аз онҳое ки диагоналӣ ё ба ақиб аст, осонтаранд. Рӯйхати саволҳо ё калимаҳоро баланд хонед ва якҷоя кор кунед."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Пазли ҷойгиркунӣ, ки дар мизи хӯрокхӯрӣ паҳн шудааст, яке аз осонтарин фаъолиятҳо барои якҷоя иҷро кардан аст. Шумо метавонед бе сӯҳбат дар канори ҳам нишинед, расм барои сӯҳбат мавзӯъ медиҳад ва гузоштани порчаи охирин ҳиссиёти хуб медиҳад. Аммо пазлҳо бояд бо тағйир ёфтани деменсия тағйир ёбанд. Пазли аз ҳад душвор метавонад як нимрӯзи ором ро ба ноумедӣ табдил диҳад. Ин саҳифа нишон медиҳад, ки чӣ гуна пазлҳои ҷойгиркунӣ, калимавӣ ва онлайнро интихоб ва танзим кунед ва чӣ кор кардан лозим аст, вақте ки онҳо душвор мешаванд.
 
-## Are puzzles good for people with dementia?
+## Оё пазлҳо барои одамони деменсиядор муфиданд?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Бисёриҳо аз онҳо лаззат мебаранд, махсусан онҳое, ки пештар пазл бозидаанд. [Бунёди Алсгеймер дар ИМА](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) калимаҳои пинҳонӣ, бозиҳои корт ва бозиҳои тахтаро дар байни фаъолиятҳо барои марҳилаи аввал номбар мекунад, ва [Хадамоти миллии тандурустии Бритониё](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) бозиҳо ва пазлҳои онлайнро дар планшет ҳамчун яке аз роҳҳои машғул мондан зикр мекунад.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пазлҳо табобат нестанд. Ягон пазл нишон дода нашудааст, ки деменсияро суст ё қатъ кунад; роҳнамои мо дар бораи [бозиҳои фикрӣ ва деменсия](/brain-health/brain-games/) тадқиқотро шарҳ медиҳад. Сабаби бо пазл машғул шудан ин аст, ки он метавонад як соати гуворо ва ҷолиб бо якҷоягӣ бошад. [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/daily-care/activities) инро чунин ҷамъбаст мекунад: ба лаззат диққат диҳед, на ба натиҷа.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Чӣ тавр пазли ҷойгиркуниро барои шахси деменсиядор интихоб кунед?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Бо он, ки шахс чӣ лаззат мебарад ва пазли охирин чӣ гуна гузашт, роҳнамоӣ кунед, на бо номи марҳила.
 
-### Number of pieces
+### Миқдори порчаҳо
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Адади дурусте вуҷуд надорад. Шахсе, ки умри худро пазл бозидааст, шояд то ҳол чанд сад порчаро дӯст дорад, дигарӣ бошад бо дувоздаҳ порча беҳтар аст. Қоидаи амалӣ: агар пазли охирин ба корӣ монанд буд, пазлеро бо тақрибан нисфи порчаҳо интихоб кунед. Агар тез ба охир расид ва онҳо бештар хостанд, каме бештар гиред.
 
-### Piece size and feel
+### Андоза ва ҳисси порча
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Порчаҳои калон** бинтар ва гирифтан ва гардондан осонтаранд.
+- **Порчаҳои ғафс ва мустаҳкам** дар ҷои худ мемонанд ва афтиданро тоб меоранд.
+- **Сатҳи матовӣ** аксуламалро аз чароғ ва тиреза кам мекунад.
+- **Порчаҳои хурдро канорагирӣ кунед,** агар шахс чизҳоро ба даҳон гузорад, ки дар деменсия баъдтар имконпазир аст.
 
-### The picture
+### Расм
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Мавзӯъҳои калонсолон.** Боғ, ошхона, мошинҳои кӯҳна, ҳайвоноти ферма, шаҳри соҳилӣ, варзиши дӯстдоштаи онҳо. Мультфилм ё чизе, ки ба бозичаи кӯдакона монанд аст, не.
+- **Соҳаҳои фарқкунандаи ранг.** Ҳавлии сурхи деҳқонӣ, қаиқи кабуд ва майдони сабз осонтаранд аз осмоне, ки нисфи пазлро пур мекунад.
+- **Шинос ва шахсӣ.** Расми ҷое, ки онҳо зиндагӣ кардаанд ё машғулияти дӯстдоштаашон, ба шумо мавзӯи сӯҳбати бисёр медиҳад. Баъзе чопхонаҳо метавонанд аксҳои оилавиро ба пазл табдил диҳанд.
 
-## How do you do a puzzle together?
+## Чӣ тавр пазлро якҷоя иҷро кунед?
 
-Set it up so the person can get straight to the enjoyable part.
+Ҷойро чунон омода кунед, ки шахс бевосита ба қисмати лаззатбахш биравад.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Ҷойи хуб интихоб кунед.** Нури хуб, курсии дастакдор ва миз ё табақча, ки пазл метавонад дар он бимонад.
+2. **Қуттии сарпӯшро бардоред,** то ки ҳардуи шумо онро дида тавонед.
+3. **Порчаҳоро пеш аз оғоз рӯ ба боло гузоред.**
+4. **Канорҳоро худатон ҷудо кунед,** ё аввал ҳошияро иҷро кунед ва миёнаро барои онҳо гузоред.
+5. **Порчаҳоро бо ранг ба чанд табақи паст ҷудо кунед.**
+6. **Як порчаро дар як вақт диҳед,** агар тӯдаи порчаҳо фишор оварад. "Фикр мекунам ин порча аз ҳавлии сурх аст."
+7. **Дар бораи расм сӯҳбат кунед,** на дар бораи пешрафт. "Ин ба қаиқе монанд аст, ки падарам дошт."
+8. **Онро дар ҷой гузоред.** Чанд рӯз баъд бозгардед. Шитоб лозим нест.
+9. **Дар нуқтаи хуб бас кунед,** пас аз гузоштани порча, вақте ки ҳанӯз хуш аст.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) маслиҳат медиҳад, ки ба шахс оғоз кардан кумак расонед, ба ноумедӣ нигаронед ва агар тамошо кардан ба онҳо хушнудтар бошад, иҷозат диҳед, ки танҳо тамошо кунанд. Тамошо кардани он ки шумо порчаҳоро мегузоред ва ҷои порчаро нишон медиҳед, ҳанӯз ҳам иштирок аст.
 
-## Easy online puzzles
+## Пазлҳои онлайни осон
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Пазли планшетӣ фоидаҳои воқеӣ дорад: порча гум намешавад, расмҳои калон экранро пур мекунанд ва ба миз чизе барои тоза кардан нест.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Пазли расм](/games/picture-puzzle/) -и ройгони мо расмро ба 4 ё 9 порча тақсим мекунад. Барои иваз кардани ду порча онҳоро пахш кунед, то расм пурра шавад. Расми пурра ҳамчун роҳнамо дар экран мемонад, вақтсанҷ нест ва шумо дар ҳар лаҳза метавонед бас кунед. Чор порча бисёриҳоро дар марҳилаи миёна бо шахси дар канор нишаста қонеъ мекунад.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Барои бозии ҳатто содатари расм, [Ёфтани ҳамон](/games/find-the-same/) -ро кӯшиш кунед, ки дар он шумо расмеро пахш мекунед, ки ба расми боло мувофиқ аст, ё [Якҷоя ҷудо кардан](/games/sort-together/), ки дар он расмҳо ба сабадҳо, масалан ба ошхона ё боғ, мераванд.
 
-## Word puzzles: word searches and crosswords
+## Бозиҳои калимавӣ: калимаҳои пинҳонӣ ва кроссвордҳо
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Бозиҳои калимавӣ ба одамоне мувофиқанд, ки ҳамеша онҳоро дӯст доштанд, одатан дар марҳилаи аввали деменсия.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Калимаҳои пинҳонии хати калон.** [Ҷустуҷӯи калима](/games/word-search/) -и ройгони мо ҳарфҳои калон ва танҳо чанд калима дорад, ки уфуқӣ ва амудӣ ҳастанд, ҳеҷ гоҳ диагоналӣ ё ба ақиб. Онро дар экран бозӣ кунед ё чоп кунед.
+- **Рӯйхатро баланд хонед.** Як нафар калимаро мехонад, дигаре онро ҷустуҷӯ мекунад. Доира кашидан танҳо дар ҳарфи аввал ҳам хуб аст.
+- **Кроссвордҳои хати калон** аз китобҳои пазл метавонанд дар марҳилаи аввал кор кунанд. Саволҳоро баланд хонед, қаламро якҷоя истифода баред ва ҷавобҳоро якҷоя пур кунед. Кроссвордҳои осон ва мавзӯъӣ аз рамзӣ беҳтаранд.
+- **Дар бораи калимаҳо сӯҳбат кунед.** "Боғ" метавонад даҳ дақиқа дар бораи помидор сӯҳбат кунад.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Барои фаъолиятҳои бештари коғазӣ ва чӣ гуна чоп кардани онҳо, то ки ба осонӣ дида ва дастӣ шаванд, [фаъолиятҳои ройгони чопии деменсия](/activities/printable/) -ро бинед.
 
-## Which puzzles suit each stage?
+## Кадом пазлҳо ба ҳар марҳила мувофиқанд?
 
-Stages overlap, and good and hard days are normal.
+Марҳилаҳо бо ҳам мепайванданд ва рӯзҳои хуб ва душвор муқаррарианд.
 
-| Stage | Puzzles that often fit | Your role |
+| Марҳила | Пазлҳое, ки аксар вақт мувофиқанд | Нақши шумо |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Аввал | Пазлҳои ошно бо порчаҳои камтар аз пештара, кроссвордҳо ва калимаҳои пинҳонии хати калон, пазлҳои онлайнии 9 порча | Ҳамкор: ба онҳо интихоб диҳед, вақте ки хоҳанд кумак кунед |
+| Миёна | Пазлҳо бо тақрибан дувоздаҳ порчаи калон, пазлҳои онлайнии 4 порча, калимаҳои пинҳонӣ, ки якҷоя хонда мешаванд | Омода кунед, порчаҳоро ҷудо кунед, як-як диҳед |
+| Охир | Якҷоя тамошо кардани расми тайёр, Ёфтани ҳамон бо ду расм, бардоштани якчанд порчаи калон | Онро ба онҳо наздик кунед; ҳамроҳии шумо худ фаъолият аст |
 
-## When should you make a puzzle easier, or stop?
+## Кай пазлро осонтар кардан ё бас кардан лозим аст?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Нишонаҳоро пайгирӣ кунед: нафаскашии сахт, пеш рондани порчаҳо, такрори "наметавонам" ё нигоҳи нигаронӣ. Ин нишонаҳо барои тағйир додани чизе ҳастанд, на барои пофишорӣ.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Онро хурдтар кунед.** Порчаҳои камтар, ё танҳо чанд порчаи охирро барои онҳо гузоред.
+- **Бештар худатон иҷро кунед** ва ба онҳо барои қисмҳои осон кумак пешниҳод кунед.
+- **Ба чизи наздик гузаред:** ҷудо кардани порчаҳо бо ранг, пазли онлайнии 4 порча ё [ранг кардан](/games/coloring/).
+- **Бас кунед.** Онро дур гузоред ва чойи гарм нӯшед. Шумо метавонед рӯзи дигар баргардед ё умуман не.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Агар пазлҳо ба ёдоварии он чизе, ки душвор аст, табдил ёбанд, рӯй гардондан аз онҳо ҳеҷ ишкале надорад. Роҳҳои дигари гузарондани вақти хуб бисёранд; [101 ғояи фаъолият](/activities/ideas/) ҷои хуб барои ҷустуҷӯ аст.

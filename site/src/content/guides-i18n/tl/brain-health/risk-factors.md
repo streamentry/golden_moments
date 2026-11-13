@@ -1,33 +1,31 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Mga Salik ng Panganib sa Dementia: Ang 14 na Pinangalanan ng Lancet Commission"
+seoTitle: "Mga Salik ng Panganib sa Dementia: Ang 14 na Salik ng Lancet"
+description: "Ang 14 na nababagong salik ng panganib sa dementia na pinangalanan ng 2024 Lancet Commission, ayon sa yugto ng buhay, at ano ang maaari mong pag-usapan sa doktor."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Pinangalanan ng 2024 Lancet Commission ang 14 na posibleng nababagong salik ng panganib sa dementia: kaunting edukasyon, pagkawala
+  ng pandinig, mataas na LDL cholesterol, depresyon, pinsala sa ulo, kawalan ng aktibidad, diabetes, paninigarilyo, mataas na presyon
+  ng dugo, obesidad, labis na pag-inom ng alak, pagkahiwalay sa iba, polusyon sa hangin at hindi nagagamot na pagkawala ng paningin.
+  Magkakasama, iniuugnay ang mga ito sa humigit-kumulang 45% ng mga kaso sa buong mundo, pero walang garantiya para sa sinumang tao.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Sakop ng 14 na salik ang buong buhay: isa sa maagang buhay, sampu sa gitnang bahagi ng buhay, at tatlo sa huling bahagi ng buhay."
+  - "Ang pagkawala ng pandinig at mataas na LDL cholesterol sa gitnang bahagi ng buhay ay bawat isa ay iniuugnay sa humigit-kumulang 7% ng mga kaso ng dementia sa buong mundo, ang pinakamalaking bahagi sa alinmang iisang salik."
+  - "Ang mga porsiyentong ito ay tantiya para sa populasyon na nagpapalagay ng sanhi at epekto. Maaaring bahagyang lang sanhi ang ilang ugnayan."
+  - "Malaking salik din ng panganib ang edad at genes, na hindi mababago ng sinuman. Ang pagbabawas sa 14 na panganib ay hindi garantiyang makaiiwas ang sinuman sa dementia."
+  - "Karamihan sa mga hakbang, gaya ng pagsusuri ng presyon ng dugo, pandinig at paningin, ay mabuti rin sa kalusugan sa ibang paraan at sulit pag-usapan sa doktor."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Ano ang 14 na nababagong salik ng panganib sa dementia?"
+    a: "Pinangalanan ng 2024 Lancet Commission ang kaunting edukasyon, pagkawala ng pandinig, mataas na LDL cholesterol, depresyon, pinsala sa utak dahil sa tama sa ulo, kawalan ng pisikal na aktibidad, diabetes, paninigarilyo, mataas na presyon ng dugo, obesidad, labis na pag-inom ng alak, pagkahiwalay sa iba, polusyon sa hangin at hindi nagagamot na pagkawala ng paningin. Magkakasama, iniuugnay ang mga ito sa halos kalahati ng mga kaso ng dementia sa buong mundo."
+  - q: "Aling salik ng panganib sa dementia ang pinakamahalaga?"
+    a: "Sa buong populasyon ng mundo, tinantiya ng Commission na ang pagkawala ng pandinig at mataas na LDL cholesterol sa gitnang bahagi ng buhay ay bawat isa ay iniuugnay sa humigit-kumulang 7% ng mga kaso, sinundan ng kaunting edukasyon at pagkahiwalay sa iba na humigit-kumulang 5% bawat isa. Alin sa mga salik ang pinakamahalaga para sa isang tao ay nakadepende sa sarili niyang kalusugan, kaya ang doktor ang pinakamahusay na gabay."
+  - q: "Idinagdag ba noong 2024 ang dalawang bagong salik ng panganib?"
+    a: "Oo. Dinagdagan ng ulat noong 2024 ang mataas na LDL (masamang) cholesterol sa gitnang bahagi ng buhay at hindi nagagamot na pagkawala ng paningin sa huling bahagi ng buhay sa 12 salik na pinangalanan noong 2020. Iniugnay ng Commission ang mga ito sa humigit-kumulang 7% at 2% ng mga kaso, ayon sa pagkakasunod."
+  - q: "Nababago ba ang edad bilang salik ng panganib?"
+    a: "Hindi. Ang edad ang pinakamalaking kilalang salik ng panganib sa Alzheimer's, at hindi ito mababago. May bahagi rin ang genes. Ang 14 na salik sa pahinang ito ay ang mga salik na ipinapakitang posibleng mabago ng pananaliksik."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +47,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Ang salik ng panganib ay bagay na iniuugnay sa mas mataas na tsansang magkaroon ng isang kondisyon. Hindi ito sanhi sa bawat kaso, at ang pagkakaroon nito ay hindi nangangahulugang magkakaroon ka ng dementia. Inililista ng pahinang ito ang 14 na salik ng panganib sa dementia na sinasabi ng 2024 Lancet Commission na posibleng mabago, kung ano ang iniuugnay sa mga ito ng pananaliksik, at kung ano ang maaari mong pag-usapan sa doktor.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Para sa mas malawak na larawan, kabilang ang natuklasan ng malalaking pagsubok, magsimula sa [Mapipigilan ba ang dementia? Ano ang sinasabi ng pananaliksik](/brain-health/can-dementia-be-prevented/). Pangkalahatang impormasyon lamang ito, hindi medikal na payo; tingnan ang aming [medical disclaimer](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Ano ang 14 na salik ng panganib sa dementia?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Tinantiya ng [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0), na isinulat ng 27 mananaliksik ng dementia, na ang 14 na posibleng nababagong salik ng panganib ay magkakasamang may kinalaman sa humigit-kumulang 45% ng mga kaso ng dementia sa buong mundo. Ang porsiyento para sa bawat salik sa ibaba ay tantiya ng Commission sa bahagi ng mga kaso sa buong mundo na iniuugnay dito, na binilog sa buong bilang. Nagkakapatong ang mga bilang dahil maraming tao ang may ilang panganib nang sabay, kaya nagdaragdag ang mga ito sa 45% at hindi higit pa.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Salik ng panganib | Yugto ng buhay | Bahagi ng mga kaso | Ano ang iniuugnay ng pananaliksik | Ano ang magagawa mo |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Kaunting edukasyon | Maagang buhay | 5% | Mas kaunting taon ng pag-aaral ay iniuugnay sa mas mataas na panganib. Ang pagiging aktibo ng isip sa gitnang bahagi ng buhay ay tila nagpoprotekta rin, kahit sa mga taong kaunti ang inaral. | Patuloy na matuto at gumawa ng mga bagay na nagpapaisip, sa anumang edad: pagbabasa, libangan, klase, laro kasama ang iba. |
+| Pagkawala ng pandinig | Gitnang buhay | 7% | Ang hindi nagagamot na pagkawala ng pandinig ay iniuugnay sa mas mataas na panganib. Ang mga pag-aaral na sumusubaybay sa tao sa paglipas ng panahon ay nag-uugnay ng paggamit ng hearing aid sa mas mababang panganib. | Magpasuri ng pandinig. Itanong kung makatutulong ang hearing aid, at gamitin ito kung inireseta. Protektahan ang tenga laban sa malakas na ingay. |
+| Mataas na LDL cholesterol | Gitnang buhay (mula mga 40) | 7% | Ang mataas na LDL (masamang) cholesterol sa gitnang bahagi ng buhay ay iniuugnay sa mas mataas na panganib. Iniuugnay ng mga obserbasyonal na pag-aaral ang paggamit ng statin sa mas mababang panganib, pero hindi ito ipinakita ng mga pagsubok sa huling bahagi ng buhay. | Itanong sa doktor kung dapat suriin ang cholesterol mo at kung ano, kung mayroon man, ang dapat gawin tungkol dito. |
+| Depresyon | Gitnang buhay | 3% | Iniuugnay ang depresyon sa mas mataas na panganib. Sa huling bahagi ng buhay, maaari ring maging maagang senyales ng dementia ang depresyon. | Sabihan ang doktor tungkol sa mababang mood o pagkawala ng interes na tumatagal nang higit sa dalawang linggo. Nagagamot ang depresyon. |
+| Pinsala sa utak dahil sa tama sa ulo | Gitnang buhay | 3% | Ang pinsala sa ulo sa anumang edad at mula sa anumang pinagmulan, kabilang ang mga isport na may direktang kontak, ay iniuugnay sa mas mataas na panganib. | Magsuot ng pananggalang sa ulo sa pagbibisikleta at mga isport na may direktang kontak. Magtanong tungkol sa pag-iwas sa pagkahulog. Magpahinga at magpasuri pagkatapos ng pinsala sa ulo. |
+| Kawalan ng pisikal na aktibidad | Gitnang buhay | 2% | Ang mga taong nag-eehersisyo at naglalaro ng isport ay mas malamang na magkaroon ng dementia. Limitado pa rin ang ebidensya mula sa mga pagsubok. | Itanong kung aling aktibidad ang ligtas para sa iyo, at humanap ng bagay na kinagigiliwan mo. Tingnan ang aming [gabay sa ehersisyo](/brain-health/exercise/). |
+| Diabetes | Gitnang buhay | 2% | Ang diabetes, lalo na kapag nagsimula sa gitnang bahagi ng buhay o tumagal nang mas matagal, ay iniuugnay sa mas mataas na panganib. | Magpasuri ng asukal sa dugo. Kung may diabetes ka, makipagtulungan sa iyong care team para ito ay mapamahalaan nang ligtas. |
+| Paninigarilyo | Gitnang buhay | 2% | Iniuugnay ang paninigarilyo sa mas mataas na panganib. Nakita ng mga pag-aaral na ang dating naninigarilyo ay hindi nakararanas ng parehong mas mataas na panganib gaya ng patuloy na naninigarilyo. | Magtanong tungkol sa suporta para tumigil. Sulit tumigil sa anumang edad. |
+| Mataas na presyon ng dugo | Gitnang buhay | 2% | Ang mataas na presyon ng dugo sa gitnang bahagi ng buhay ay iniuugnay sa mas mataas na panganib. Iminumungkahi ng mga pagsubok sa gamot sa presyon ng dugo ang katamtamang mas mababang panganib ng dementia o kapansanan sa pag-iisip. | Alamin ang iyong mga numero. Iminumungkahi ng Commission ang pinakamataas na numero na 130 o mas mababa mula mga edad 40; magtanong kung ano ang layuning angkop sa iyo. |
+| Obesidad | Gitnang buhay | 1% | Ang obesidad sa gitnang bahagi ng buhay ay iniuugnay sa mas mataas na panganib, at pinatataas din nito ang panganib ng diabetes. | Itanong sa doktor ang malusog na timbang para sa iyo. Hindi dapat mag-diyeta ang matatanda para pumayat nang walang payo medikal. |
+| Labis na pag-inom ng alak | Gitnang buhay | 1% | Ang matinding pag-inom ng alak ay iniuugnay sa mas mataas na panganib. Ang pagbabawas mula sa matinding pag-inom ay iniuugnay sa mas mababang panganib. | Itanong kung ano ang ligtas na limitasyon para sa iyo, lalo na kasama ng iyong mga gamot. |
+| Pagkahiwalay sa iba | Huling bahagi ng buhay | 5% | Ang bihirang pakikipag-ugnayan sa ibang tao ay iniuugnay sa mas mataas na panganib. | Manatiling nakikipag-ugnayan sa mga tao sa paraang kinagigiliwan mo. Tingnan ang aming [gabay sa pakikipag-ugnayan sa kapwa](/brain-health/social-connection/). |
+| Polusyon sa hangin | Huling bahagi ng buhay | 3% | Ang pamumuhay sa mas maruming hangin ay iniuugnay sa mas mataas na panganib. Iniuugnay ng mga pag-aaral ang mas malinis na hangin sa mas mababang panganib. | Pangunahing usapin ito ng patakaran ng pamahalaan. Bantayan ang mga abiso tungkol sa kalidad ng hangin sa lugar mo at limitahan ang oras sa labas sa mga araw na sobrang marumi ang hangin. |
+| Hindi nagagamot na pagkawala ng paningin | Huling bahagi ng buhay | 2% | Ang mga problema sa paningin na hindi naitatama ay iniuugnay sa mas mataas na panganib. Isang malaking pag-aaral sa US ang nag-ugnay ng operasyon sa katarata sa mas mababang panganib. | Magpasuri ng mata nang regular. Itanong kung maaaring gamutin ang mga problema tulad ng katarata. |
 
-## How should I read these percentages?
+## Paano ko dapat basahin ang mga porsiyento?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Maingat. May ilang puntong dapat tandaan mula sa sariling ulat ng Commission:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Para sa populasyon ang mga ito, hindi para sa bawat tao.** Sinasabi ng [buod ng University College London sa ulat](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) na ang pagbabawas ng panganib ay gumagana sa buong populasyon at hindi nagbibigay ng garantiya na makaiiwas ang sinumang tao sa dementia.
+- **Ipinapalagay nilang sanhi at epekto.** Isinama ng mga may-akda ang mga salik na may kapani-paniwalang ebidensya, pero sinasabi nilang maaaring bahagyang lang sanhi ang ilang ugnayan.
+- **Pandaigdigang bilang ang mga ito.** Karamihan ng datos ay galing sa mga bansang may mataas na kita, at magkakaiba ang tunay na bahagi para sa bawat bansa o komunidad.
+- **Maaari pa ring mahalaga ang maliliit na porsiyento.** Ang salik na iniuugnay sa 2% ng mga kaso sa buong mundo ay nakaaapekto pa rin sa napakaraming tao.
 
-## Which risk factors were added in 2024?
+## Aling mga salik ng panganib ang idinagdag noong 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Dinagdagan ng ulat noong 2024 ang dalawang salik sa 12 na pinangalanan noong 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Mataas na LDL cholesterol sa gitnang bahagi ng buhay**, na iniuugnay sa humigit-kumulang 7% ng mga kaso.
+- **Hindi nagagamot na pagkawala ng paningin sa huling bahagi ng buhay**, na iniuugnay sa humigit-kumulang 2% ng mga kaso.
 
-## What risk factors cannot be changed?
+## Anong mga salik ng panganib ang hindi mababago?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Sinasabi ng National Institute on Aging na [ang edad ang pinakamalaking kilalang salik ng panganib sa Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), at walang makapagbabago nito. May bahagi rin ang genes; isang kilalang gene na nakaiimpluwensya sa panganib ng Alzheimer's ay tinatawag na APOE. Idinagdag ng NIA na hindi pa lubos na nauunawaan ng mga siyentipiko kung ano ang sanhi ng Alzheimer's sa karamihan ng tao. Sinasabi ng Lancet Commission na maaaring mabawasan ang mga nababagong panganib anuman ang genetic na panganib ng isang tao.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Dahil malaki ang bahagi ng edad at genes, maraming taong walang kahit isa sa 14 na salik ng panganib ang nagkakaroon pa rin ng dementia. Hindi iyon kasalanan ng sinuman.
 
-## What does the trial evidence say about changing these risks?
+## Ano ang sinasabi ng ebidensya ng pagsubok tungkol sa pagbabago ng mga panganib na ito?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Ang pag-uugnay ng isang salik ng panganib sa dementia ay hindi katulad ng pagpapatunay na ang pagbabago nito ay nagpapababa ng panganib ng dementia. Narito ang ilang halimbawa kung nasaan ang ebidensya ng pagsubok:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Presyon ng dugo.** Sa pagsubok na SPRINT MIND, ang mas mababang target ng presyon ng dugo ay malaking nagpababa ng banayad na kapansanan sa pag-iisip. Hindi nito malaking nabawasan ang malamang na dementia, bagaman maaaring masyadong maliit ang pagsubok para ipakita iyon ([SPRINT MIND sa JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Hearing aid.** Inilalarawan ng Lancet Commission ang isang tatlong taong pagsubok ng hearing aid na walang kabuuang epekto sa pag-iisip, pero may benepisyo sa isang bahaging pangkat ng mga taong mas mataas ang panganib. Iniuugnay ng mga pag-aaral na sumusubaybay sa tao sa paglipas ng panahon ang paggamit ng hearing aid sa mas mababang panganib. May higit pa sa aming [gabay sa pandinig](/brain-health/hearing/).
+- **Pisikal na aktibidad.** Sinasabi ng National Institute on Aging na kulang ang ebidensya mula sa klinikal na pagsubok para tapusin na mapipigilan o mababagalan ng ehersisyo ang banayad na kapansanan sa pag-iisip o Alzheimer's, bagaman may ilang pag-aaral na nagmumungkahing maaari itong makatulong sa paghina na may kaugnayan sa edad ([NIA tungkol sa pagpigil sa Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Ang mga pangmatagalang pagsubok na naghihintay na magkaroon ng dementia ay mabagal at mahal, kaya para sa maraming salik, ang pinakamahusay na ebidensya ay magmumula pa rin sa mga pag-aaral na sumusubaybay sa tao sa loob ng maraming taon. Kapaki-pakinabang ang ebidensyang iyon, pero mas mahina ito kaysa sa pagsubok.
 
-## What about sleep and diet?
+## Ano naman ang tungkol sa tulog at diyeta?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Sinuri ng Commission ang tulog at diyeta pero hindi ito idinagdag sa listahan, dahil hindi sapat na malakas o pare-pareho ang ebidensya. Ipinaliliwanag ng aming mga gabay tungkol sa [tulog](/brain-health/sleep/) at [diyeta](/brain-health/diet/) ang alam na.
 
-## Talk with a doctor
+## Kumonsulta sa doktor
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Magandang pagkakataon ang taunang checkup para mapag-usapan ang mga paksang ito. Maaari mong dalhin ang listahang ito at itanong:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Ano ang aking presyon ng dugo, asukal sa dugo at cholesterol, at may kailangan bang bigyang pansin?
+- Dapat ba akong magpasuri ng pandinig at mata?
+- Ligtas at sapat ba para sa akin ang aktibidad na ginagawa ko?
+- May epekto ba sa alaala o pag-iisip ang alinman sa aking mga gamot?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Bago baguhin ang gamot, diyeta, pag-aayuno, ehersisyo o suplemento, kumonsulta muna sa doktor. Kung ikaw o ang inaalagaan mo ay biglang nalito, nanghina ang isang bahagi ng katawan, o nahirapang magsalita, tumawag sa lokal na numero ng emergency.
