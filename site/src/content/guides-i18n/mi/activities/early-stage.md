@@ -15,18 +15,18 @@ summary: >-
 keyPoints:
   - "Ko te nuinga o te tangata i te wāhanga timatanga e noho motuhake ana. Ko te nuinga o ngā mahi me urutau, kāore e whakakapia."
   - "Pātaihia te tangata he āwhina e hiahia ana ia, ā, whakaaetia he tohu māmā mō te wā e pai ai te āwhina."
-  - "He nui te rerekē i ngā rōpū iti, i ngā wā klaka, me ngā haerenga poto."
-  - "He wā pai tēnei mō te tangata ki te arataki i ngā kaupapa mō tōna ake oranga, pēnei i te pukapuka kōrero, te pukapuka ōna ake oranga."
+  - "He nui te rerekē i ngā rōpū iti, i ngā wā mārie, me ngā haerenga poto."
+  - "He wā pai tēnei mō te tangata ki te arataki i ngā kaupapa mō tōna ake oranga, pēnei i te pukapuka rangitaki, te pukapuka oranga."
   - "Me whiriwhiri tākaro mō te reka. Kaua e whiriwhiri i tētahi mea ka ahua whakamātau."
 faq:
   - q: "He aha ngā mahi pai mō te mate wareware i te wāhanga timatanga?"
-    a: "Ko ngā mahi anō ka pai ai te tangata kua pai ki a ia: ngā kāri, ngā tākaro papatipu, te tunu kai, te māra, te hīkoi, te waiata, ngā mahi whakapono, ngā karapu me te mahi ā-iwi. Tērā pea me whakapoto, me whakamārie, me whakamāmā rānei. He pai hoki ēnei mahi mō tēnei wāhanga: te tuhi pukapuka, te tuhi reta, me te hanga pukapuka o tōna oranga."
+    a: "Ko ngā mahi anō ka pai ai te tangata kua pai ki a ia: ngā kāri, ngā tākaro papatipu, te tunu kai, te māra, te hīkoi, te waiata, ngā mahi whakapono, ngā karapu me te mahi ā-iwi. Tērā pea me whakapoto, me whakamārie, me whakamāmā rānei. He pai hoki ēnei mahi mō tēnei wāhanga: te tuhi rangitaki, te tuhi reta, me te hanga pukapuka o tōna oranga."
   - q: "Me pēhea e āwhina ai ahakoa kāore e whakahaere i te tangata?"
-    a: "Pātaihia he āwhina e hiahia ana te tangata, ā, whakamātau tonu. Whakaaetia he kīwaha, he tohu māmā rānei e tika ai te urunga, hei tauira ina kore e puta he kupu, he ingoa rānei. Ki te kore he tūraru haumaru, waiho kia mahi ia i tana ake huarahi, ahakoa he roa ake te wā."
+    a: "Pātaihia he āwhina e hiahia ana te tangata, ā, whakamātau tonu. Whakaaetia he kīwaha, he tohu iti rānei e tika ai te urunga, hei tauira ina kore e puta he kupu, he ingoa rānei. Ki te kore he tūraru haumaru, waiho kia mahi ia i tana ake huarahi, ahakoa he roa ake te wā."
   - q: "Me whakamātau mahi hou te tangata i te wāhanga timatanga?"
     a: "Āe, ki te hiahia ia. He māmā ake ngā hobi mōhio, engari he pai ki te nuinga te mea hou, pēnei i te rōpū hīkoi e mārama ana ki te mate wareware, he akomanga toi, he rōpū waiata rānei. Whakamātauria kotahi, kaua e akiaki, kātahi ka mātakitaki te āhua o te wheako."
   - q: "He pai ngā taupānga whakangungu roro i te wāhanga timatanga?"
-    a: "Ka pai ētahi ki ngā pazzle me ngā tākaro kupu, ā, he take rawa taua pai. Kāore tētahi taupānga, tētahi tākaro rānei i whakaatuhia ka rongoā, ka whakaroa, ka aukati rānei i te mate wareware. Ki te whakararuraru te tākaro, ki te whakaaro kua hē te tangata, whakakāhoretia."
+    a: "Ka pai ētahi ki ngā tātai whakaahua me ngā tākaro kupu, ā, he take rawa taua pai. Kāore tētahi taupānga, tētahi tākaro rānei i whakaatuhia ka rongoā, ka whakaroa, ka aukati rānei i te mate wareware. Ki te whakararuraru te tākaro, ki te whakaaro kua hē te tangata, whakakāhoretia."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -52,25 +52,25 @@ I te wāhanga timatanga o te mate wareware, he rite tonu te nuinga o te oranga o
 
 ## He aha ngā mahi pai i te wāhanga timatanga o te wareware?
 
-Ko ngā mahi pai i te wāhanga timatanga, ko te nuinga, ko ngā mea kua aroha kētia e te tangata, engari kua whakamāmāhia. Ka whakarārangi te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i ngā whakaaro pēnei i ngā kāri me ngā tākaro papatipu, ngā kimi kupu, te hīkoi, te kanikani, te māra, te whakarite puāwai, te kōrero paki, te peita, te waiata, te tuhi pukapuka, te tuhi reta, te kōpaki whakaahua, te tunu kai me ngā tikanga ā-hararei.
+Ko ngā mahi pai i te wāhanga timatanga, ko te nuinga, ko ngā mea kua aroha kētia e te tangata, engari kua whakamāmāhia. E whakarārangi ana te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i ngā whakaaro pēnei i ngā kāri me ngā tākaro papatipu, ngā kimi kupu, te hīkoi, te kanikani, te māra, te whakarite puāwai, te kōrero pakiwaitara, te peita, te waiata, te tuhi rangitaki, te tuhi reta, te whakaahua pukapuka, te tunu kai me ngā tikanga ā-hararei.
 
-Ko te mea e rerekē ai, he tautau te wāhi, ehara i te mahi. Ka kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka timata pea ngā tāngata i te wāhanga timatanga ki te tāwhiti i ngā mea i pai ai rātou, ā, ka tauira mai i te tangata e pōuri ana i tētahi pāti nui, engari ka pai ake ki tētahi rōpū iti. Kōrerotia mārietia he aha te mea ka uaua ake, ā, urutau ngātahi.
+Ko te mea e rerekē ai, he tautau te wāhi, ehara i te mahi. E kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka timata pea ngā tāngata i te wāhanga timatanga ki te tāwhiti i ngā mea i pai ai rātou, ā, he tauira tērā i te tangata e pōuri ana i tētahi pāti nui, engari ka pai ake ki tētahi rōpū iti. Kōrerotia mārietia he aha te mea ka uaua ake, ā, urutau ngātahi.
 
-## Pātai tuatahi, me whakaaetanga me pēhea te āwhina
+## Pātai tuatahi, me whakaae me pēhea te āwhina
 
-Ka kī te [Alzheimer's Association mō te wāhanga timatanga](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) he tikanga iti ēnei, e pai ana ki ngā mahi:
+E kī te [Alzheimer's Association mō te wāhanga timatanga](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) he tikanga iti ēnei, e pai ana ki ngā mahi:
 
 - **Pātaihia tika.** “He aha te mea ka māmā ake te karapu pukapuka mō koe?” he pai ake te whakautu i tērā i te arohaehae.
 - **Whakaaro he kaha tōna.** Ki te kore he tūraru haumaru, waiho te tangata kia ngana, ā, whakatipuria ia, kaua e tango i te mahi.
-- **Whakaaetia he tohu.** Whiriwhiria he kīwaha, he tohu ūpoko rānei e tohu ana “Kei te pai te urunga,” hei tauira ina kore e puta te ingoa i tētahi tākaro kāri.
+- **Whakaaetia he tohu.** Whiriwhiria he kīwaha, he tohu ūpoko rānei e kī ana “Kei te pai te urunga,” hei tauira ina kore e puta te ingoa i tētahi tākaro kāri.
 - **Tirohia i ngā wā katoa.** Pātaihia mēnā he pai te nui o te āwhina, he nui rawa, he iti rawa rānei.
 
 ## Ngā whakaaro mahi mō te wāhanga timatanga
 
 ### Pupuri i ngā tūranga me ngā hobi
 
-- **Pupuri i tētahi haepapa tūturu.** Ko tētahi wā ā-wiki mō te ratonga ārahi, te karapu waiata, te rōpū rānei e whai hanga ai te wiki. Ki te whai raru, he tūranga iti ake, he tūranga klaka ake pea te pai.
-- **Whakamahere kai ngātahi.** Ki te raru te hoko kai, e kī ana te Alzheimer's Association me pātai ki te tangata kia āwhina ki te whakarite i te rārangi kai o te wiki, ā, kia tuhi i te rārangi.
+- **Pupuri i tētahi haepapa tūturu.** Ko tētahi wā ā-wiki mō te ratonga ārahi, te karapu waiata, te rōpū rānei e whai hanga ai te wiki. Ki te whai raru, he tūranga iti ake, he tūranga mārie ake pea te pai.
+- **Whakamahere kai ngātahi.** Ki te raru te hoko kai, e kī te Alzheimer's Association me pātai ki te tangata kia āwhina ki te whakarite i te rārangi kai o te wiki, ā, kia tuhi i te rārangi.
 - **Tunu, parāoa.** Whai tētahi tohutunu pai ngātahi. Whakaraupapatia ngā rōpaki i mua i te tīmata, kia kitea ai ngā hātepe.
 - **Māra.** Whakamahere he kōhanga, whiriwhiri i ngā kākano, i ngā rākau rānei, ā, mahia ngātahi te mahi. He pai te rārangi tuhituhi o ngā mahi māra o te wiki.
 - **Pupuri i tētahi mahi toi.** Ka taea te haere tonu ngā mahi whakairo rākau, ngā mahi whatu, ngā mahi rōpaki, te hanga tauira me ngā tauira māmā me te rama pai.
@@ -79,26 +79,26 @@ Ka kī te [Alzheimer's Association mō te wāhanga timatanga](https://www.alz.or
 
 - **Tākaro kāri, tākaro papatipu.** He māmā ake ngā tākaro mōhio. Tākaro i ngā tīma kia kaua tētahi e noho whakapaenga ai, ā, kaua e tuhi tatau, kāore rānei.
 - **Whakamātau kimi kupu rahi-tuhi.** Ka taea te tākaro [kimi kupu](/games/word-search/) i runga i te mata, ka taea hoki te tā, hei wā mārie.
-- **Mahi pazzle.** Whiriwhiria te maha o ngā pītaka e mārie ai, kaua e wero. He pazzle mata poto te [pazzle whakaahua](/games/picture-puzzle/), ā, ka whakamārama tā mātou arataki [pazzle mō te mate wareware](/activities/puzzles/) i te whiriwhiri.
+- **Mahi tātai whakaahua.** Whiriwhiria te maha o ngā wāhanga e mārie ai, kaua e wero. He tātai whakaahua mata poto te [tātai whakaahua](/games/picture-puzzle/), ā, ka whakamārama tā mātou arataki [tātai mō te mate wareware](/activities/puzzles/) i te whiriwhiri.
 - **Uru ki te whakamātau ā-tīma mō te reka.** He pai ki ētahi te pātai ā-tīma. Ki te tīmata te mea hei whakamātau, whiriwhiria tētahi mea kē, ā, whakamātauria te [pātai whakamātau māmā](/activities/trivia/), he whiringa ngā whakautu, kāore he tatau.
 
-Mō te reka anake ēnei tākaro. Kāore tētahi tākaro i whakaatuhia ka rongoā, ka whakaroa i te wareware; pānuihia i [ngā tākaro whakangungu roro: he aha te rangahau](/brain-health/brain-games/).
+Mō te reka anake ēnei tākaro. Kāore tētahi tākaro i whakaatuhia ka rongoā, ka whakaroa i te wareware; pānuihia [ngā tākaro whakangungu roro: he aha te rangahau](/brain-health/brain-games/).
 
 ### Tuhi, whakaaro me te rekoata
 
-- **Tuhia he pukapuka rangitaki.** Ka kī te Alzheimer's Association he tikanga tēnei hei whakaaro ki ngā whakaaro whai muri i te whakamōhiotanga. He pai ngā rārangi iti i ia rā.
+- **Tuhia he pukapuka rangitaki.** E kī te Alzheimer's Association he tikanga tēnei hei whakaaro ki ngā whakaaro whai muri i te whakamōhiotanga. He pai ngā rārangi iti i ia rā.
 - **Arataki i tētahi pukapuka oranga.** He wā pai tēnei mō te tangata ki te kōwhiri i ōna ake whakaahua, ki te tuhi, ki te kōrero rānei i ngā kōrero o aua whakaahua. Titiro ki [ngā mahi whakamahara](/activities/reminiscence/).
 - **Tuhi reta.** He mea whai tikanga mō ngā taha e rua te reta ki te mokopuna, ki te hoa tawhito, ki te hoa mahi o mua rānei.
 - **Kōrero i ngā whakaahua.** Ka hanga [pōtaki rite](/games/photo-pairs/) i ngā whakaahua whānau he tākaro takirua mārie, ā, ka hoatu e [ngā kāri kōrero](/games/conversation-cards/) he tīmatanga māmā mō te kōrerorero.
 
 ### Haere ki waho, nekeneke
 
-Ka whakaaro te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) me haere tonu ngā haerenga o mua mō te wā e pai ai te reo o korua. Whakamahereria mō te wā pai rawa o te tangata, ā, kaua e roa rawa.
+E kī te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) me haere tonu ngā haerenga o mua mō te wā e pai ai te reo o korua. Whakamahereria mō te wā pai rawa o te tangata, ā, kaua e roa rawa.
 
 - **Haerenga ahurea poto.** He whare taonga, he whakaaturanga, he whakaaturanga toi rānei, ina pai i te wā mārie.
-- **Kauhoe.** Ka kī te NIA me whai he puna i te wā iti te tangata.
+- **Kauhoe.** E kī te NIA me whai he puna i te wā iti te tangata.
 - **Rōpū hīkoi me ngā akomanga kanikani.** Ka whakarārangi te [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i te kanikani, te tai chi, te yoga, te kauhoe me ngā rōpū hīkoi, me ngā akomanga e mārama ana ki te mate wareware ina wātea.
-- **Rōpū waiata me ngā memory café.** He rōpū mārie ka taea ai e te tangata e noho ana me te mate wareware me ōna hoa te tūtaki ki ētahi kē e pēnei ana te āhua.
+- **Rōpū waiata me ngā hui maumahara.** He rōpū mārie ka taea ai e te tangata e noho ana me te mate wareware me ōna hoa te tūtaki ki ētahi kē e pēnei ana te āhua.
 
 ## Ngā panoni iti hei pupuri i te reka o ngā mahi
 

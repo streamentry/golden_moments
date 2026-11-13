@@ -1,16 +1,16 @@
 ---
 title: "Los jòcs de cervèl previenon la demència ? Çò que mostra la recèrca"
 seoTitle: "Los jòcs de cervèl previenon la demència ? Las provas"
-description: "Çò que dis la recèrca sus los jòcs de cervèl e la demència : estimulacion cognitiva, entraïnament informatizat, l'estudi ACTIVE e lo cas FTC de Lumosity, explicat simplament."
+description: "Çò que dis la recèrca sus los jòcs de cervèl e la demència : estimulacion cognitiva, entraïnament informatizat, ACTIVE e Lumosity, simplament."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Cap de jòc de cervèl a pas demostrat que previn la demència. L'entraïnament informatizat melhora sobretot las tâchas que las personas practican. Un estudi de l'ensag ACTIVE a lincat un entraïnament de velocitat precis mai de sessions de rafrescament amb mens de diagnosticas de demència sus 20 ans, una conclusion estrechs. Per las personas que viuen ja amb demència, l'estimulacion cognitiva de grop mòstra de benefícis pichons e de corta durada. Los jòcs son mai bons per lo plasir e la companhia.
+  Cap de jòc de cervèl a pas demostrat que previn la demència. L'entraïnament informatizat melhora sobretot las tâchas que las personas practican. Un estudi de l'ensag ACTIVE a ligat un entraïnament de velocitat precís mai de sessions de rafrescament amb mens de diagnosticas de demència sus 20 ans, una conclusion estrechs. Per las personas que viuen ja amb una demència, l'estimulacion cognitiva de grop mòstra de benefícis pichons e de corta durada. Los jòcs son mai bons per lo plasir e la companhia.
 keyPoints:
   - "Los estudis sus l'entraïnament cerebral mòstran que las personas melhoran en las tâchas que practican, amb pauca preuva que aquò se transferís a la vida de cada jorn."
-  - "A l'ensag ACTIVE, sonque las personas que fasián un entraïnament de velocitat precis mai de sessions de rafrescament an agut mens de diagnosticas de demència sus 20 ans. L'entraïnament de velocitat sens rafrescament, e los entraïnaments de memòria e de rasonament, non mostravan aquò."
+  - "A l'ensag ACTIVE, sonque las personas que fasián un entraïnament de velocitat precís mai de sessions de rafrescament an agut mens de diagnosticas de demència sus 20 ans. L'entraïnament de velocitat sens rafrescament, e los entraïnaments de memòria e de rasonament, non mostravan aquò."
   - "En 2016, lo fabricant de Lumosity a pagat 2 milions de dolars per reglar las acusacions de la FTC, qu'accusava l'empresa de manquar de sciéncia per sostener que retardava la demència."
   - "Per las personas amb demència lèugièra a moderada, los grops d'estimulacion cognitiva mòstran de benefícis pichons e de corta durada per la pensada, e de melhoraments mai clars per la comunicacion e las relacions socialas."
   - "Los jòcs Golden Moments son per lo plasir e lo temps partejat. Son pas un tractament e ne previenon pas ni ne frenan la demència."
@@ -22,7 +22,7 @@ faq:
   - q: "Los jòcs de mots e los trebalhs de reflexion son bons per una persona qu'a ja la demència ?"
     a: "Pòdon l'èsser, se la persona los aprecia. La estimulacion cognitiva de grop, que compren de jòcs de mots, de trebalhs de reflexion, de musica e de conversacion, mòstra de benefícis pichons e de corta durada per la pensada, e de benefícis mai clars per la comunicacion e las relacions socialas. Lo plasir, pas un resultat de tèst, es l'objectiu just."
   - q: "Perqué la FTC a condemnat Lumosity ?"
-    a: "En 2016, la Federal Trade Commission acusava Lumos Labs d'aver fach de declaracions sus sos jòcs, incluent lo retardament del declin ligat a l'edat e de la demència, sens la sciéncia per o sostener. L'empresa acceptèt de pagar 2 milions de dolars e de dispausar de provas sciéntificas fiables abans de far de declaracions del meteis tipe dins l'avenir."
+    a: "En 2016, la Federal Trade Commission acusava Lumos Labs d'aver fach de declaracions sus sos jòcs, incluent lo retardament del declin ligat a l'edat e de la demència, sens la sciéncia per o sostener. L'empresa acceptèt de pagar 2 milions de dolars e de dispausar de provas sciéntificas fiablas abans de far de declaracions del meteis tipe dins l'avenir."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -67,24 +67,24 @@ Aquò fa pas que los jòcs siá inutils. Vòl dire que lor valor es dins lo plas
 
 Quand practicatz una tâcha, vos melhoratz generalament dins aquesta tâcha. Los recercaires apelan aquò un efièch d'entraïnament. La question mai dura es se l'amelhoracion es **transferida** a d'autras causas : a de tâchas semblantas (transferiment proche) o a la vida de cada jorn, coma recordar de rendètz-vos o gerir sos dinèrs (transferiment lunhenc).
 
-Una revisada màger de 2016 a examinat los estudis que las empresas d'entraïnament cerebral citavan coma lors melhors preuvas. Trobèt de bonas preuvas que las personas melhoran sus las tâchas entraïnadas, mens de preuvas que melhoran sus de tâchas tròp semblantas, e pauca preuva que l'entraïnament melhora la pensada de cada jorn. Fòrça d'aquelas estudis aviá tanben de problèmas de concepcion que rendián impossiblas las conclusions fermas ([Simons e collegas, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Una revisada màger de 2016 a examinat los estudis que las empresas d'entraïnament cerebral citavan coma lors melhors preuvas. Trobèt de bonas preuvas que las personas melhoran sus las tâchas entraïnadas, mens de preuvas que melhoran sus de tâchas tròp semblantas, e pauca preuva que l'entraïnament melhora la pensada de cada jorn. Fòrça d'aquels estudis aviá tanben de problèmas de concepcion que rendián impossiblas las conclusions fermas ([Simons e collegas, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
 ## Qué dison las revisadas sus l'entraïnament cerebral informatizat ?
 
 Las revisadas Cochrane, que reunisson los melhors ensags disponibles, an examinat l'entraïnament informatizat d'almens 12 setmanas :
 
-- **Adultes sans de 65 ans e mai :** uèch ensags amb 1 183 personas. La preuva era de qualitat bassa o molt bassa. I a benlèu un pichon benefici just après l'entraïnament, sens preuva clara que duri ([revisada Cochrane, adultes sans de mai de 65 ans](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Adults en bona santat de 65 ans e mai :** uèch ensags amb 1,183 personas. La preuva era de qualitat bassa o molt bassa. I a benlèu un pichon benefici just après l'entraïnament, sens preuva clara que duri ([revisada Cochrane, adults en bona santat](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
 - **Personas amb un afebliment cognitiu lèugièr :** uèch ensags amb 660 personas. Cap d'ensag a dich se las personas se son après venguts amb una demència, e la preuva era tròp febla per tirar de conclusions ([revisada Cochrane, afebliment cognitiu lèugièr](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
 ## Qu'a trobat l'ensag ACTIVE ?
 
-ACTIVE es un grand ensag american que comencèt en 1998 amb 2 802 adults de 65 ans e mai, que viviá de per se e avián pas de problèmas significatius de memòria o de pensada. Las personas fasián estat tirats a la sòrt en un de tres tipes d'entraïnament en pichons grops (velocitat de tractament, memòria o rasonament) o en un grop sens contacte. L'entraïnament era de fins a dètz sessions sus cinc o sièis setmanas. Unas personas qu'avián participat a la màger part de las sessions se son vistas proposar aleatòriament de sessions de rafrescament a un an e a tres ans près.
+ACTIVE es un grand ensag american que comencèt en 1998 amb 2,802 adults de 65 ans e mai, que viviá de per se e avián pas de problèmas significatius de memòria o de pensada. Las personas fasián estat tirats a la sòrt en un de tres tipes d'entraïnament en pichons grops (velocitat de tractament, memòria o rasonament) o en un grop sens contacte. L'entraïnament era de fins a dètz sessions sus cinc o sièis setmanas. Unas personas qu'avián participat a la màger part de las sessions se son vistas proposar aleatòriament de sessions de rafrescament a un an e a tres ans près.
 
 L'entraïnament de velocitat consistissiá a reperar e tractar d'informacions visualas amb de agachadas de mai en mai cortas, a un nivèl que s'adaptava a mesura que las personas melhoravan.
 
-En 2026, los recercaires an ligat 2 021 participants als dossièrs Medicare sus 20 ans ([analisi ACTIVE de 20 ans](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Vaquí exactament çò que an trobat :
+En 2026, los recercaires an ligat 2,021 participants als dossièrs Medicare sus 20 ans ([analisi ACTIVE de 20 ans](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Vaquí exactament çò que an trobat :
 
-- **Entraïnament de velocitat mai al mens una sesson de rafrescament :** una taxa mai bassa de demència diagnosticada que lo grop sens contacte (un ratio de risc de 0,75, çò que vòl dire a pauca près una taxa 25 % mai bassa).
+- **Entraïnament de velocitat mai al mens una sesson de rafrescament :** una taxa mai bassa de demència diagnosticada que lo grop sens contacte (un ratio de risc de 0.75, çò que vòl dire a pauca près una taxa 25% mai bassa).
 - **Entraïnament de velocitat sens rafrescament :** pas de taxa mai bassa.
 - **Entraïnament de memòria o de rasonament :** pas d'efièch significatiu sus los diagnosticas de demència.
 - **Cada grop d'entraïnament presa sèparadament amb lo grop sens contacte :** una tendéncia cap a de taxas mai bassas, mas non significativa estatisticament.
@@ -108,7 +108,7 @@ La leiçon per las familhas : se mefiar de tot jòc, aplicacion o programa que p
 
 Pòdon ajustar un bon jorn, çò que compta fòrça. L'approach mai ben estudiat es l'**estimulacion cognitiva** : d'activitats de grop plasentièras, coma la discussion, la remembrança, los jòcs de mots, los trebalhs de reflexion e la musica, generalament dins un petit grop menat per un animator.
 
-Una revisada Cochrane de 2023 sus 37 ensags amb 2 766 personas amb una demència lèugièra a moderada a trobat ([revisada Cochrane de l'estimulacion cognitiva](https://pubmed.ncbi.nlm.nih.gov/39804128/)) :
+Una revisada Cochrane de 2023 sus 37 ensags amb 2,766 personas amb una demència lèugièra a moderada a trobat ([revisada Cochrane de l'estimulacion cognitiva](https://pubmed.ncbi.nlm.nih.gov/39804128/)) :
 
 - un **benefici pichon e de corta durada** sus los tèstes de pensada (preuva de qualitat moderada) ;
 - de **melhoraments clinicament pertinents per la comunicacion e las relacions socialas** (preuva de qualitat auta, venent d'un mens grand nombre d'estudis) ;
@@ -137,4 +137,5 @@ Los jòcs Golden Moments, coma [picture pairs](/games/picture-pairs/), [picture 
 ## Parlatz-ne a un metge
 
 Se vos inquietatz de cambiaments de memòria en vos o en qualqu'un que vos es car, anatz veire un metge e comptatz pas sonque sus una aplicacion. Un metge pòt cercar de causas tractablas e vos explicar los passes amb las melhors preuvas, coma gerir la tension arterial e verificar l'audicion. Vejatz [La demència se pòt prevenir ?](/brain-health/can-dementia-be-prevented/) per mai.
+
 Per de cambiaments subits de pensada o d'autres cambiaments subits, cercatz d'ajuda medicala d'urgéncia.

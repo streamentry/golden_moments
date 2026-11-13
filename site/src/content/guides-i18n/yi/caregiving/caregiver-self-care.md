@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "זאָרגער־זעלבסטפֿלעג: אָפּרו, שטיצע און צײכנס פֿון אויסגעברענקײט"
+seoTitle: "זאָרגער־זעלבסטפֿלעג פֿאַר דעמענץ: אָפּרו און שטיצע"
+description: "צײכנס פֿון זאָרגער־אויסגעברענקײט, װי צו געפֿינען אָפּרו און שטיצע־גרופּעס, און פֿרײע אַמעריקאַנישע הילף־לײנען, אַרײַנגערעכנט די אַלצהײַמער־אַסאָציאַציע און Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  דעמענץ זאָרגן איז שװער, און זיך אַליין אָפּצופּאַסן איז טײל פֿון דער אַרבעט. באַמערקט װאָרנונג־צײכנס װי דערשעפּונג, רײצבערקײט, שלעכטער שלאָף און אָפּגעשײדנקײט פֿון פֿרײַנד. בעט אום קאָנקרעטע הילף, ניצט אָפּרו־זאָרג און גײט אין אַ שטיצע־גרופּע. פֿרײע הילף אין די פֿאַרײניקטע שטאַטן אַרײַנגערעכנט די אַלצהײַמער־אַסאָציאַציע 24/7 לײן מיט 1-800-272-3900 און דער Eldercare Locator מיט 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "אויסגעברענקײט װײזט זיך אָפֿט אויס װי דערשעפּונג, רײצבערקײט, שלעכטער שלאָף, טרויער און אויפֿהערן צו זאָרגן פֿאַר אײַערע אייגענע געזונטהײט."
+  - "אָפּרו־זאָרג גיט אײַך אַ פּאָזע, פֿון אַ פּאָר שעה ביז עטלעכע װאָכן, אין שטוב אָדער אין אַ זאָרג־אָרט."
+  - "בעט אום קאָנקרעטע אַרבעטן; פֿיל מענטשן װילן העלפֿן, אָבער װייסן נישט װי."
+  - "די אַלצהײַמער־אַסאָציאַציע 24/7 לײן (1-800-272-3900) גיט פֿרײע, פֿאַרטרױלעכע שטיצע יעדע צײַט."
+  - "דער Eldercare Locator (1-800-677-1116) פֿאַרבינדט אײַך מיט לאָקאַלע דינסטן, אַרײַנגערעכנט אײַער Area Agency on Aging."
+  - "אױב איר פֿילט אײַך אין קריזיס, רופֿט אָדער שיקט אַ טעקסט צו 988. אין אַ נויטפֿאַל, רופֿט אײַער לאָקאַלע נויטנומער."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "װאָס זענען די צײכנס פֿון זאָרגער־אויסגעברענקײט?"
+    a: "געװײנלעכע צײכנס זענען פֿילן זיך מיד, איבערגעלאָדן אָדער באַזאָרגט, לײכט בײזערן זיך אָדער אומדולדיק װערן, שװערקײט צו שלאָפֿן, טרויעריקײט אָדער האָפֿנונגסלאָזקײט, אָפּגעשײדנט װערן פֿון פֿרײַנד, אָפֿט קאָפּװײטיק אָדער װײטיק, און איבערשפּרינגען אײַערע אייגענע מאָלצײטן, גימנאַסטיק אָדער מעדיצינישe זאָרג. װען אַזעלכע צײכנס קומען רעגולער, רעדט מיט אײַער דאָקטער."
+  - q: "װי געפֿין איך אָפּרו־זאָרג בײַ מיר?"
+    a: "הײבט אָן מיט דעם Eldercare Locator (1-800-677-1116 אָדער eldercare.acl.gov) כּדי צו דערגרײכן אײַער לאָקאַלע Area Agency on Aging, דעם ARCH National Respite Locator Service, אָדער די אַלצהײַמער־אַסאָציאַציע הילף־לײן מיט 1-800-272-3900. משפּחה, פֿרײַנד און פֿרײַװילליקע קענען אויך געבן אָפּרו."
+  - q: "צי צאָלט Medicare פֿאַר אָפּרו־זאָרג?"
+    a: "פֿאַר אַ מענטש װאָס באַקומט האָספּיס־זאָרג, דעקט Medicare רובֿ פֿון די קאָסטן פֿון ביז פֿינף אויפֿאײנאַנדערפֿאָלגנדיקע טאָג אָפּרו־זאָרג אין אַ שפּיטאָל אָדער אַ מומחה־פֿלעגע־הײם, לױט דעם נאַציאָנאַלן אינסטיטוט פֿאַר עלטערװערן. רוב פּריװאַטע געזונטהײט־פֿאַרזיכערונג דעקט נישט אָפּרו; Medicaid און עטלעכע לאַנג־טערמין־זאָרג־פּאָליסעס קענען העלפֿן."
+  - q: "איז די הילף־לײן פֿון דער אַלצהײַמער־אַסאָציאַציע טאַקע פֿרײ, און איז זי אָפֿן בײַ נאַכט?"
+    a: "יאָ. די אַלצהײַמער־אַסאָציאַציע זאָגט, אַז אירע הילף־לײן מיט 1-800-272-3900 איז פֿרײ, פֿאַרטרױלעך און באַמאַנט אַרום דער זײגער, 365 טעג אין יאָר, מיט הילף אין פֿיל שפּראַכן. װײַלט 711 פֿאַר אַ רעלײ־דינסט."
+  - q: "איז עס אײגנזיניק צו נעמען אַ פּאָזע פֿון זאָרגן?"
+    a: "נײן. רו העלפֿט אײַך װײַטער זאָרגן, און אָפּרו קען אויך געבן דעם מענטש װאָס איר זאָרגט פֿאַר אַ בײַטעניש פֿון געזעלשאַפֿט און טעטיקײט. פֿיל זאָרגער זאָגן שפּעטער, אַז זײ װאָלטן געװילט בעטן פֿאַר הילף פֿריִער."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+אױב איר זאָרגט פֿאַר אַ מענטש מיט דעמענץ, לײענט איר מעגלעך דאָס שפּעט, מיד, און מיט אַ רשימה פֿון זאַכן װאָס איר האָט נישט געטאָן. דאָס איז נאָרמאַל. זיך אַליין אָפּצופֿלעגן איז נישט קײן לוקסוס אָדער באַלוינונג פֿאַר דעם פֿאַרענדיקן אַלץ. עס איז דאָס װאָס לאָזט אײַך װײַטער גײן.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+דער בלאַט דעקט אָפּ די װאָרענונג־צײכנס פֿון אויסגעברענקײט, װי מען קריגט אַ ריכטיקע אָפּרו, װוּ מען געפֿינט שטיצע, און פֿרײע אַמעריקאַנישע הילף־לײנען װאָס מען קען רופֿן הײַנט.
 
-## What are the signs of caregiver burnout?
+## װאָס זענען די צײכנס פֿון זאָרגער־אויסגעברענקײט?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+אויסגעברענקײט קריכט אָפֿט לאַנגזאַם אַרײַן, דעריבער עס העלפֿט צו װיסן אײַערע אייגענע װאָרענונג־צײכנס. די [NIA](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ציילט צײכנס פֿון זאָרגער־דרוק, אַרײַנגערעכנט:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- פֿילן זיך מיד, איבערגעלאָדן אָדער באַזאָרגט;
+- װערן לײכט בײזער אָדער אומדולדיק;
+- פֿילן זיך איינזאַם אָדער אָפּגעשײדנט פֿון אַנדערע;
+- שװערקײטן מיט שלאָף, אָדער נישט גענוג שלאָף;
+- פֿילן זיך טרויעריק אָדער האָפֿנונגסלאָז, אָדער פֿאַרלירן אינטערעס אין זאַכן װאָס איר האָט פֿריִער ליב געהאַט;
+- אָפֿט קאָפּװײטיק, װײטיק אָדער אַנדערע גופֿישע פּראָבלעמען;
+- קײן צײַט צו שפּאָרטן אָדער געזונטע עסן פֿאַר זיך אַליין;
+- איבערשפּרינגען דאָס דושען אָדער אַנדערע פּערזענלעכע זאָרג;
+- מיסברויך אלכױל אָדער דראָגן, אַרײַנגערעכנט פֿאַרשרײַבונג־מעדיצינען.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) לײגט צו צײכנס װי לײַקענען אַ פּראָבלעם, בײזקײט אויף דעם מענטש („ער איז נאָר שטײפֿקעפּיק“), אַנגסט װעגן דער צוקונפֿט, שװערקײטן צו פֿאָקוסירן, און געזונטהײט־פּראָבלעמען װאָס נעמען אַ שפּור. זי רעקאָמענדירט צו רעדן מיט אײַער דאָקטער, װען איר האָט אַזעלכע צײכנס רעגולער.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+די NIA־עצה איז נישט צו װאַרטן, ביז איר זענט גאָר איבערװאָרפֿן. באַמערקט אײַערע צײכנס פֿריִער און האַנדלט אויף זיי.
 
-## What can I do today, in five minutes?
+## װאָס קען איך טאָן הײַנט, אין פֿינף מינוט?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+קלײנע פּאָזן ציילן. קײנס פֿון די זאַכן פֿאַרריכט נישט אויסגעברענקײט, אָבער זײ קענען אײַך דורכפֿירן אַ שװערן נאָכמיטאָג.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **גײט אַרױס.** זעצט אײַך אויף דעם גאַנקוועג אָדער גײט צום פּאָשטקאַסטן, װען דער מענטש איז זיכער און רויִק.
+- **אָטעמט לאַנגזאַם.** עטלעכע לאַנגזאַמע אָטעמען, איידער איר ענטפֿערט אויף אַ שװערע פֿראַגע. איר קענט אויך טיילן אַ [Calm Breathing](/games/calm-breathing/)־פּאָז מיט דעם מענטש װאָס איר זאָרגט פֿאַר.
+- **טרינקט עפּעס און עסט עפּעס.** עס איז גרינג צו פֿאַרגעסן אײַערע אייגענע מאָלצײַטן.
+- **שרײַבט איין פֿרײַנד.** נישט צו בעטן פֿאַר עפּעס, נאָר צו פֿאַרבינדן זיך.
+- **זאָגט עפּעס פֿרײַנדלעכס צו זיך אַליין.** די [NIA־גײד װעגן זיך־זאָרגן](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) רעקאָמענדירט זאַצן װי „איך טו דאָס בעסטע װאָס איך קען“, „איך בין נישט פֿאַרפֿעקט, און דאָס איז גוט“, און „איך װעל מיט פֿרײד נעמען די מאָמענטן װען מיר קענען זײַן צוזאַמען אין שלום.“
 
-## What is respite care, and how do I get it?
+## װאָס איז אָפּרו־זאָרג, און װי קריגט מען עס?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+אָפּרו־זאָרג איז קורצע־צײַט זאָרג פֿאַר דעם מענטש װאָס איר זאָרגט פֿאַר, כּדי איר זאָלט רוען. די [NIA־זײַט װעגן אָפּרו־זאָרג](https://www.nia.nih.gov/health/caregiving/what-respite-care) באַשרײַבט, אַז עס קען דויערן פֿון עטלעכע שעה ביז עטלעכע װאָכן, און קען פּאַסירן אין שטוב, אין אַ געזונטהײט־אָרט אָדער אין אַ טאָג־זאָרג צענטער פֿאַר דערװאַקסענע.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/care-options/respite-care) באַשרײַבט געװײנלעכע טײפּן:
 
-| Type | What it is |
+| טיפּ | װאָס עס איז |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| הילף אין שטוב | אַ פֿרײַנד, אַ קרוב, אַ פֿרײַװילליקער אָדער אַ באַצאָלטע געזעל אָדער העלפֿער קומט אין הױז |
+| טאָג־צענטער פֿאַר דערװאַקסענע | געפּלאַנטע טעטיקײטן װי מוזיק און קונסט אין אַ זיכער גרופּע; טראַנספּאָרט און מאָלצײטן װערן אָפֿט געגעבן |
+| איבערנאַכט אָדער קורצער אויפֿהאַלט | אַ לאַנג־טערמין־זאָרג־קהילה זאָרגט פֿאַר דעם מענטש אַ נאַכט, עטלעכע טעג אָדער עטלעכע װאָכן |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**װער צאָלט?** לױט דעם NIA קען אָפּרו פֿון משפּחה, פֿרײַנד אָדער פֿרײַװילליקע קאָסטן נישט קײן געלט. פּראָפֿעסיאָנעלע דינסטן װערן באַצאָלט לויט שעה אָדער טאָג. פֿאַר אַ מענטש װאָס באַקומט האָספּיס־זאָרג, דעקט Medicare רובֿ פֿון די קאָסטן פֿון ביז פֿינף אויפֿאײנאַנדערפֿאָלגנדיקע טעג אָפּרו אין אַ שפּיטאָל אָדער הײם. Medicaid קען העלפֿן. רוב פּריװאַטע געזונטהײט־פֿאַרזיכערונג דעקט נישט אָפּרו, כאָטש עטלעכע לאַנג־טערמין־זאָרג־פּאָליסעס טאָן דאָס.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**עצה:** די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו פּרובירן אָפּרו־פּראָװײדערס אין אַ נישט־נויטפֿאַל־סיטואַציע, כּדי זײ זאָלן גרײט זײַן, װען איר דאַרפֿט פּלוצלינג הילף.
 
-## Where can I find help near me?
+## װוּ קען איך געפֿינען הילף נאָענט בײַ מיר?
 
-Several free US services can point you to local help.
+עטלעכע פֿרײע אַמעריקאַנישע דינסטן קענען אײַך װײַזן צו לאָקאַלער הילף.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **די אַלצהײַמער־אַסאָציאַציע 24/7 הילף־לײן: 1-800-272-3900.** דער [לײן](https://www.alz.org/help-support/resources/helpline) איז פֿרײ און פֿאַרטרױלעך, באַמאַנט אַרום דער זײגער יעדן טאָג פֿון יאָר, מיט הילף אין מער װי 200 שפּראַכן דורך צװײשפּראַכיקע שטאַבן אָדער דאָלמעטשערס. װײַלט 711 פֿאַר אַ רעלײ־דינסט. איר קענט רעדן װעגן פֿאַרענדערונגען אין פֿירונג, זאָרגער־דרוק, אָפּרו־אָפּציעס, לאָקאַלע פּראָגראַמען און מער, און בעטן אַ לענגערע שמועס מיט אַ זאָרג־קאָנסולטאַנט. שטאַבן געבן נישט קײן מעדיצינישע עצה.
+- **Eldercare Locator: 1-800-677-1116.** דער [Eldercare Locator](https://eldercare.acl.gov/), אַ עפֿנטלעכער דינסט פֿון דער Administration for Community Living, פֿאַרבינדט אײַך מיט דינסטן פֿאַר עלטערע מענטשן און זייערע משפּחות. איר קענט רופֿן, שיקן אַ טעקסט, רעדן אין אָנליין־טשאַט, אָדער שיקן אַ בריוו (אימעיל) צו געשולטע שטאַבן, אָדער זוכן לויט אָרט. ער קען אײַך װײַזן צו אײַער לאָקאַלער Area Agency on Aging.
+- **ARCH National Respite Locator Service.** דער [ARCH אָפּרו־לאָקאַטאָר](https://archrespite.org/caregiver-resources/respitelocator/) העלפֿט אײַך געפֿינען אָפּרו־פּראָװײדערס לויט שטאַט, און רעקאָמענדירט צו קאָנטאַקטירן דעם State Respite Coalition אָדער דאָס Lifespan Respite פּראָגראַם ערשט, אױב אײַער שטאַט האָט אַזאַ. ARCH באַמערקט, אַז זיי קאָנטראָלירן נישט די פּראָװײדערס, דעריבער קוקט זיך אײַן אין זייער דערפֿאַרונג און הינטערגרונט אַלײן.
 
-## How do I find a support group?
+## װי געפֿין איך אַ שטיצע־גרופּע?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+פֿרעגט דעם הילף־לײן אָדער זוכט אָנליין נאָך גרופּעס נאָענט בײַ אײך. די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/community/support-groups) פֿירט שטיצע־גרופּעס פֿאַר זאָרגער און מענטשן װאָס לעבן מיט דעמענץ, אין פּערזאָן און אָנליין, געפֿירט פֿון געשולטע פֿאַסיליטאַטאָרן. פֿיל אָרטן געבן אויך ספּעציפֿישע גרופּעס, למשל פֿאַר זאָרגער פֿון דערװאַקסענע אָדער פֿאַר מענטשן מיט פֿרי־אָנהײבנדיקער אָדער פֿרי־סטאַדיום אַלצהײַמער. זי האָט אויך ALZConnected, אַ פֿרײע אָנליין־קהילה װוּ זאָרגער טיילן עצות.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+שטיצע־גרופּעס קענען זײַן אַ פּלאַץ צו װענטיליִרן אָן אַ שטרײַט, לערנען פּראַקטישe טיפּס פֿון מענטשן װאָס זענען דאָ געװען, און זיך װײניקער אײנזאַם פֿילן. אױב די ערשטע גרופּע פּאַסט נישט, פּרוּװט אַן אַנדערע.
 
-## How do I ask family and friends for help?
+## װי בעט איך פֿאַר הילף פֿון משפּחה און פֿרײַנד?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+זײַט קאָנקרעט. פֿיל מענטשן װילן העלפֿן, אָבער װײסן נישט װאָס צו פֿאָרשלאָגן. די NIA רעקאָמענדירט:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **האַלט אַ ליסטע** פֿון אַרבעטן װאָס אַנדערע קענען איבערנעמען, און לאָזט מענטשן קלײַבן.
+- **הײב אָן קליין,** אױב בעטן איז שװער.
+- **פּאַסט די אַרבעט צו דער פּערזאָן.** דער קוזין װאָס האָט ליב צו קאָכן ברענגט אַ מאָל אָװנט־עסן אויף דאָנערשטיק. דער שכן װאָס פֿאַרשטײט זיך אויף פֿאָרמולאַרן העלפֿט מיט פּאַפּירקרײַז.
+- **שרײַבט אָדער שיקט אַ טעקסט,** אױב פּנים־צו־פּנים בעטן איז אומבאַקװעם.
+- **לערנט אַ ענטפֿער** פֿאַר די מאָמענטן װען עמעץ אָפֿערט הילף: „דאַנק פֿאַר דעם פֿרעגן. דאָס קענט איר טאָן.“
+- **ערװאַרט עטלעכע ניינס** און פּרוּװט זיי נישט פּערזענלעך אויפֿנעמען.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+אַנדערע אידעען: בעט איינעם צו זיצן מיט דעם מענטש אײן נאָכמיטאָג אַ װאָך, נעמט אים אויף אַ קורצע שפּאַציר, אָדער באַזוכט און שפּילט צוזאַמען אַ שפּיל. אונדזער [פֿירער װעגן צוזאַמען שפּילן](/caregiving/how-to-play-together/) איז גרינג צו טיילן מיט באַזוכער.
 
-## What if something happened to me?
+## װאָס אױב עפּעס פּאַסירט מיר?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+מאַכט הײַנט אַ פּשוטן פּלאַן פֿאַר אָפּשטעל. די NIA רעקאָמענדירט צו באַשליסן מיט משפּחה אָדער נאָענטע פֿרײַנד, װער װעט אײַנשפּרינגען, און האַלטן אַ העפֿטל מיט נויטנומערן, מעדיצינען, װאָס פֿאַר טיפּס פֿאַר פֿירונג אַרבעטן, און באַליבטע טעטיקײטן. די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט אויך, אַז מען זאָל מאַכן גרינג צו געפֿינען די מעדיצינישע קאָנטאַקטן פֿון דעם מענטש און אַ אַקטואַלע מעדיצין־ליסטע.
 
-## When should I get professional or urgent help?
+## װאַן זאָל איך זוכן פּראָפֿעסיאָנעלע אָדער דרינגלעכע הילף?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+רעדט מיט אײַער דאָקטער, אױב שטרעס־צײכנס זענען רעגולער, אױב איר פֿילט זיך דעפּרעסיװ, אָדער אױב איר האָט שװערקײטן צו קומען אויס. זאָגט דעם דאָקטער, אַז איר זענט אַ זאָרגער. די NIA באַמערקט, אַז בעראַטער און סאָציאַלע אַרבעטערס קענען העלפֿן מיט שװערע געפֿילן און פּלאַנען, און אַז Medicare, Medicaid און עטלעכע פּריװאַטע פֿאַרזיכערונגען קענען דעקן עטלעכע מענטאַלע געזונטהײט־קאָסטן.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+אױב איר פֿילט זיך אין קריזיס אָדער האָט געדאַנקען אָן זיך אויסצושאַדן, רופֿט אָדער שיקט אַ טעקסט צו 988 אויף [988 Suicide & Crisis Lifeline](https://988lifeline.org/), פֿרײ און פֿאַראַן 24/7. אױב עמעץ איז גלײַך אין סכּנה, רופֿט אײַער לאָקאַלע נויטנומער.
 
-## Can shared activities give me a break too?
+## קענען געמײנזאַמע טעטיקײטן אויך געבן מיר אָפּרו?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+מאָל יאָ. אַ רויִיק טעטיקײט װאָס איר בײדע האָט ליב קען זײַן אַ זאַנפֿטערער טײל פֿון טאָג פֿאַר אײַך װי פֿאַר דעם מענטש װאָס איר זאָרגט פֿאַר: צוהערן צו אַלטע לידער, קוקן אויף פֿאָטאָס, אָדער אַ שפּיל װי [Conversation Cards](/games/conversation-cards/) װאָס דאַרף קײן ריכטיקע תשובות נישט. אױב דער מענטש האָט ליב חבֿרה, קען אַ גרופּע־זיצונג מיט [Picture Bingo](/games/picture-bingo/) אין אַ סעניאָר־צענטער אָדער אַ טאָג־פּראָגראַם געבן אײַך אַ שעה אָפּרו. זע [טעטיקײטן פֿאַר פֿלעגע־הײם גרופּעס](/activities/care-home-groups/) פֿאַר אידעען.
