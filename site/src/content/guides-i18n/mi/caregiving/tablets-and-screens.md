@@ -90,7 +90,7 @@ Mai i [ngā tohutohu Guided Access a Apple](https://support.apple.com/en-us/1117
 3. Kōwhiri: i raro i a **Display Auto-Lock**, whiriwhiria te tere o te raupā o te mata i te wā e whakamahia ana, kia kore ai e pōuri i waenganui i te kēmu.
 4. Whakatuwheratia te taupānga e hiahia ana koe.
 5. Patoko-toru i te pātene taha (iPhone), te pātene runga (iPad), te pātene Home rānei i ngā taputapu tawhito.
-6. Kōwhiri: porowhitahia ngā wāhi o te mata e hiahia ana koe kia kaua e urupare ki te ppā. Pāwhiria a **Options** (a **Session Settings** rānei) hei whakawetohia i ngā pātene reo, hei aukati rānei i te hurihanga o te mata.
+6. Kōwhiri: porowhitahia ngā wāhi o te mata e hiahia ana koe kia kaua e urupare ki te pā. Pāwhiria a **Options** (a **Session Settings** rānei) hei whakawetohia i ngā pātene reo, hei aukati rānei i te hurihanga o te mata.
 7. Pāwhiria a **Start**.
 
 Hei whakamutu i te wā whakamahi, patoko-toru anō i taua pātene, whakauruhia te kupuhipa, ka pāwhiri i **End**. E ai ki a Apple, i ētahi putanga pūmanawa tawhito me patoko-rua.

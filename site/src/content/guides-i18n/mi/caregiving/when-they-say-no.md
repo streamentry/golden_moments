@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Ina Whakakāhore, Ina Pōuri Rānei te Tangata Whai Mate Wareware ki tētahi Mahi"
+seoTitle: "Ina Whakakāhore te Tangata Whai Mate Wareware i tētahi Mahi"
+description: "He aha ai e whakakāhore ai, e pōuri ai rānei te tangata whai mate wareware ki tētahi mahi, he aha te mahi, he aha te karo, ā, ahea te kite rata."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Ina kī te tangata whai mate wareware ‘kāo’, whakaaetia marie, ā, ka whakamātau
+  anō i muri, ka tuku rānei i tētahi atu mea. He take tonu tō te whakakāhore:
+  he uaua rawa te mahi, he mea tamariki rānei te āhua, he ngenge, he
+  mamae, he hiakai, he nui rawa rānei te haruru. Kaua e tautohetohe, e
+  tohe rānei. Whakamāmātia, tukuna e rua ngā kōwhiringa, pātai rānei kia āwhina
+  mai. Ko te whanonga ohorere, tere huri rānei, ina koa i muri i tētahi
+  pāteko, rongoā hou rānei, me kite i te rata i te wā tonu.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Ko te ‘kāo’ he whakautu hei whakaaro nui, ehara i te raruraru hei hinga."
+  - "He take tonu tō te whakakāhore: he uaua rawa, he āhua tamariki, he ngenge, he māuiui, he whakaraerae, he nui rawa rānei te mahi."
+  - "Whakamutua, tatari, ā, whakamātauria anō i muri, i tētahi atu wā, ki tētahi putanga māmā ake rānei."
+  - "He pai ake te pātai kia āwhina mai i te pātai kia whakaatu i tōna pūkenga."
+  - "Kaua e tautohetohe, e tohe, e pātai whakamātau, e whakatika rānei. Tirohia koe anō mō te hohoro me te kapi i te tangata."
+  - "Ko te whanonga ohorere, tere huri rānei, ina koa me te pāteko, rongoā hou rānei, me kawe ki te rata i te wā tonu."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "E pai ana rānei kia waiho te tangata kia kaua e mahi i ētahi mahi?"
+    a: "Āe, i tētahi rā ahakoa te rā. Ka nui pea te noho tahi, te whakarongo ki te puoro, te mātakitaki rānei i te ao e haere ana. Mēnā ka kore te tangata e koa ki ngā mea katoa i roto i ētahi wiki, kōrerotia ki tōna rata, nā te mea ka whai wāhi pea te pōuri, te mamae, ētahi atu raruraru hauora rānei."
+  - q: "He aha ai ka whakakāhore rātou i ngā mea i aroha ai rātou i mua?"
+    a: "Ka pōuri pea tētahi mahi tawhito inaianei ka hiahia i ngā pūkenga kua uaua i te mate wareware, ā, ka whakama pea te tangata. Whakamātauria tētahi wāhanga māmā ake o taua mahi tonu, pērā i te whakarōpū pātene hei utu mō te tuitui, te titiro rānei ki ngā whakaahua māra hei utu mō te whakato."
+  - q: "Me whakamātau au ki te whakapati i a ia?"
+    a: "Kāo. Ko te akiaki i te tangata ki te mahi i tētahi mea kua uaua i te mate wareware he mea e mōhiotia ana hei whakaoho i te pōrearea. Whakaaetia te ‘kāo’, whakarerekētia te kaupapa, ā, tukuna anō i muri, i tētahi atu huarahi rānei."
+  - q: "Ahea te whanonga rerekē he ohotata?"
+    a: "Waea ki tō rohe tau waea ohotata mēnā kei te mōrearea te tangata, he tohu ohotata hauora rānei kei a ia. Mō te pōrearea ohorere, mō te whanonga e tere huri ana i roto i ētahi hāora, rā rānei, ina koa me te kirika, te pāteko, te rongoā hou rānei, whakapā atu ki tōna rata i te wā tonu."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Kua whakaritea e koe ngā mea katoa, ka tuku koe i tētahi kēmu, i tētahi hīkoi rānei, ā, ka rongo koe i te ‘Kāo.’ Ka tīmata pai rānei te mahi, ā, ka mutu me te papa rorohiko kua pehia atu me tētahi kupu pakeke. He mea whakamāharahara tēnei, he mea tino noa hoki. Ko te whakakāhore me te pōuri he karere i te nuinga o te wā, ehara i te ūpoko pakeke. Ko te mōhio he aha te karere, ka whakaatu i te nuinga o te wā he aha te mea e whai ake.
 
-## Why does someone with dementia refuse activities?
+## He aha ai e whakakāhore ai te tangata whai mate wareware i ngā mahi?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+I te nuinga o te wā he take tōna, ahakoa kāore e taea e te tangata te whakaputa ki ngā kupu. E kī ana te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) tērā pea ko te tikanga o te ātete kāore e taea e te tangata te mahi, e mataku ana rānei ki te whakamātau. Ko ētahi take noa:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **He uaua rawa te āhua.** Kei te hiahiatia inaianei ngā pūkenga kua uaua i te mate wareware, ā, he whakama te hinga i mua i tētahi tangata.
+- **He mea tamariki te āhua.** Ka kite ngā pakeke i ngā whakaahua pāhorangi, ngā reo waiata, me ngā mahi e āhua ana he mea mā ngā tamariki.
+- **Te ngenge.** He iti ake te kaha o te nuinga ki te mutunga o te rā. Tirohia [ngā mahi marie mō te ahiahi tōmuri](/caregiving/late-day-restlessness/).
+- **Te raruraru tinana.** E rārangi ana te [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i te mamae, te kore moe, te raruraru kite, whakarongo rānei, te pakeke tūtae, te hiakai, te matekai me ngā pānga o ngā rongoā hou hei take pea mō te pōrearea.
+- **He nui rawa ngā mea e haere ana.** Ka taumaha pea tētahi pouaka whakaata haruru, he maha ngā kōrero, he rūma tāwhai rānei.
+- **Te rongo i te pēhi.** E ai ki te NIA, ko te akiaki kia mahia tētahi mea kua tino uaua i a Alzheimer's, kia maumahara rānei ki ngā kaupapa, ki ngā tāngata rānei, he take mō te pōrearea.
+- **Te pōuri.** Ko te ngaro o te hiahia ki ngā mea ka noho pea hei tohu o te pōuri hohonu, he mea e tika ana kia kōrerotia ki te rata.
+- **Kāore noa rātou e pai ki te mahi.** Ka whakaaetia ngā pakeke kia kī ‘kāo’.
 
-## What should I try when they say no?
+## He aha taku e whakamātau ai ina kī rātou ‘kāo’?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Whakaaetia marie te ‘kāo’, ā, whakarerekētia tētahi mea: te wā, te mahi, te uaua, te huarahi rānei o tō pātai.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Waihotia mō tēnei wā.** ‘Pai noa. Hei muri pea.’ Ā, haere ki tētahi atu mea me te kore he mapu.
+2. **Whakamātauria anō i muri.** E tūtohu ana te Alzheimer's Association kia whakamātau anō i muri, i tētahi atu wā o te rā rānei.
+3. **Whakamāmātia.** Kotahi te ōrite hei utu mō te kēmu katoa. Kotahi te tauera hei utu mō te kete horoi. He iti ake ngā whakaahua, he iti ake ngā kōwhiringa, ā, waihotia kia kitea ngā whakaahua.
+4. **Tukuna e rua ngā kōwhiringa.** ‘Kei te hiahia koe ki te titiro ki ngā whakaahua manu, ki te whakarongo rānei ki te puoro?’ Ko te kōwhiringa ka whakahoki i te rongo o te mana.
+5. **Pātaihia he āwhina, kaua he mahi whakaatu.** ‘Ka taea e koe te āwhina i ahau ki te whakarōpū i ēnei?’ ‘Ko tēhea tae te āhua pai rawa?’ He rerekē rawa te rongo i te hiahiatia i te rongo i te whakamātautia.
+6. **Tīmataria koe anō.** Tīmataria te mahi ki tōna taha me te kore pātai. He maha ngā tāngata ka uru atu ina kua tīmata kē tētahi mea, ā, mēnā kāore rātou e uru, kua pau tonu te wā tahi.
+7. **Whakawhiti ki tētahi mea tinana, whakamārie rānei.** He hīkoi poto, he puoro, he kai māmā, he kōpiko kākahu, he wā [whakahā marie](/games/calm-breathing/) tuari rānei. E tūtohu ana te NIA ki te whakaarahi i te aro ki te puoro, ki tētahi pukapuka, ki tētahi hīkoi rānei.
+8. **Tukuna rātou kia mahi i tā rātou ake huarahi.** Mēnā e hiahia ana rātou ki te takaro rerekē i ngā ture, haere tahi. E tohutohu ana te Alzheimer's Association kia ngāwari.
 
-## What should I say when they get frustrated?
+## He aha taku e kī ai ina pōuri rātou?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Whakaroa, whakaitia tō reo, ā, tukuna he whakamārie. E whakaaro ana [te aratohu a te Alzheimer's Association mō te pōrearea](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) kia whakamuri, kia pātai whakaaetanga, kia whakamahi i ngā kōrero marie, pai hoki, kia tuku hoki i tētahi kōwhiringa arataki i waenga i ngā kōwhiringa e rua. Ko ētahi kīanga i runga i taua wairua:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- ‘Aroha mai, he whakapōrearea tēnei. Me mutu tātou.’
+- ‘E pai ana tāu mahi. Kei konei tonu au.’
+- ‘He wā tō koe hei āwhina i ahau ki tētahi atu mea?’
+- ‘Me inu tī tātou hei utu?’
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Ā, whakamutua te mahi me te kore e whakanui. He nui ake ngā kōrero mō te mea hei kī kei ā mātou [tohutohu whakawhitiwhiti kōrero](/caregiving/communication-tips/).
 
-## What should I avoid?
+## He aha taku e karo ai?
 
-Some natural reactions tend to make things worse.
+Ko ētahi urupare māori ka kino ake te take.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Te tautohetohe, te tohe rānei.** ‘Haere mai, kotahi anō’ me ‘E aroha ana koe ki tēnei’ he uaua te āwhina.
+- **Te pātai whakamātau, te whakatika rānei.** ‘Kei te mōhio koe he aha tēnei’ me ‘Kāo, he hē tērā’ ka whakaiti i te pēhi.
+- **Te kawe ki roto i a koe.** E whakamahara ana te NIA ki ngā kaitiaki ko te mate, ehara i te tangata, te take o ēnei rerekētanga.
+- **Te kapi, te hohoro rānei.** E tohutohu ana te Alzheimer's Association kia kaua e whakanui i te reo, e whakaatu i te āwangawanga, e kapi, e kōpuni, e here, e whakahē, e whakahāwea, e tautohetohe rānei ki te tangata, ā, kia karo i ngā nekeneke ohorere i waho o tā rātou kite.
+- **Te whakamahi i te hē.** ‘I whakarite au i ēnei katoa mōu’ ka pai kore ai kōrua tahi.
+- **Te tapa ingoa.** Ko te ‘ūpoko pakeke’ me te ‘uaua’ e huna ana i te take pono, ā, ka uaua ake te whakatika.
 
-## How can I find out what is behind repeated refusals?
+## Me pēhea e kitea ai te take o ngā whakakāhore auau?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Pupuritia tētahi tuhi māmā mō te wiki, e rua rānei wiki. E kī ana te NIA ka āwhina te whai i ngā rerekētanga whanonga ki ngā kaitiaki me ngā kaiwhakarato tiaki hauora ki te mōhio ki tētahi tauira, ā, ki te whakatau i te take.
 
-Jot down:
+Tuhia:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- te wā o te rā;
+- te mea i tukuna e koe me te huarahi i pātai ai koe;
+- te mea e haere ana i tō taha (haruru, manuhiri, pouaka whakaata);
+- te āhua o tā rātou moe, kai me te inu, me te wā whakamutunga i haere ai ki te wharepaku;
+- ngā rongoā hou, te māuiui tata nei rānei.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+He tere te puta o ngā tauira: ka puta noa ngā whakakāhore i muri i te 4 i te ahiahi, ki tētahi kēmu motuhake anake, ina rere ana rānei te pouaka whakaata. E kī māmā ana te [aratohu a te Family Caregiver Alliance mō ngā whanonga mate wareware](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/): kāore e taea e mātou te whakarerekē i te tangata, engari ka taea e mātou te whakarerekē i tō mātou ake whanonga me te taiao.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ahea au e kōrero ai ki te rata mō te whakakāhore, mō te pōuri rānei?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kōrerotia ki te rata ina huri ohorere te whanonga, ina tere huri, ina haere tahi rānei me ngā tohu māuiui. E kī ana te NIA ko ngā rerekētanga ohorere, tere rerekē rānei o te whanonga, ina koa mēnā kua pāteko te tangata, kua huri rānei ngā rongoā i tata nei, me kawe ki te aro o te rata i te wā tonu.
 
-Contact their doctor promptly if you notice:
+Whakapā atu ki tōna rata i te wā tonu mēnā ka kite koe i:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- te pōrearea ohorere, te rerekētanga nui rānei i roto i ētahi hāora, rā rānei;
+- ngā tohu mamae, pērā i te whakapīhoihoi, te tiaki i tētahi wāhanga o te tinana, te uaua hou rānei ki te neke;
+- te kirika, ētahi atu tohu pāteko rānei;
+- ngā rongoā hou, kua huri rānei, ā, ka whai i te rerekētanga o te whanonga;
+- te ngaro o te hiahia ki te nuinga o ngā mea katoa, te tangi, te unu rānei e roa ana i tua atu i tētahi rua wiki;
+- te whakakāhore i te kai, i te inu rānei.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+E tūtohu ana te Alzheimer's Association kia whai tirotiro hauora whānui mō te tangata e whai ana i ngā tohu whanonga, ina koa ka puta ohorere. E tohutohu ana hoki te Family Caregiver Alliance kia ui tuatahi ki te rata, nā te mea he take hauora pea tō ngā raruraru whanonga. Kaua e tīmata, e whakamutu, e huri rānei i tētahi rongoā me te kore kōrero ki tētahi rata, kaihokohoko rongoā rānei.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Mēnā kei te mōrearea tētahi, he tohu ohotata hauora rānei, waea ki tō rohe tau waea ohotata. E whakaaro ana te NIA kia kī ki te kaiwhakahaere ko te tangata he mate wareware. Mō ngā ara haumaru tonu ina huri te riri hei tūkinotanga tinana, tirohia tā mātou [aratohu mō te riri me te tūkino i te mate wareware](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## E pai ana rānei mēnā kāore mātou e mahi i tētahi mea?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Āe. I ētahi rā ko te mahi pai rawa ko te kore mahi: te noho tahi, te pupuri ringa, te whakarongo ki tētahi rekoata e aroha ana, te mātakitaki rānei i ngā manu i waho o te matapihi. Ehara tēnā i te hinganga. E whakamārama ana tā mātou [aratohu mō te takaro tahi](/caregiving/how-to-play-together/) he aha ai ka tika pea te whakamutu wawe, te kore rānei e tīmata.
