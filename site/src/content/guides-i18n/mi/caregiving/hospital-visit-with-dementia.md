@@ -9,7 +9,7 @@ translatedFrom: 2026-11-11
 summary: >-
   Whakareri mō te haerenga hōhipera mā te whakaurunga o te tangata, te tohatoha i
   ngā whakaaro tiaki whai take ki ngā kaimahi, te kawe i ngā taonga mōhio, ā, te
-  tono mahere tuhi mō te whakaputanga. Korerohia wawe mēnā ka rerekē rawa te
+  tono mahere tuhi mō te whakaputanga. Kōrerohia wawe mēnā ka rerekē rawa te
   tangata.
 keyPoints:
   - "Whakauruhia te tangata ki te whakarite, ā, pātai he aha ngā mea ka āwhina ia kia mārie."
@@ -24,7 +24,7 @@ faq:
   - q: "He aha ngā mea hei pātai i mua i te wehenga o te tangata i te hōhipera?"
     a: "Tonoa he tuhinga whakaputanga mō te tiaki whai muri, ngā rerekētanga rongoā, ngā tūtakitanga me te tangata hei whakapā mēnā he pātai. Me mārama te tangata me ngā kaiāwhina kua whakaae ki te tautoko ia ki ngā mahi whai ake."
   - q: "Me pēhea mēnā ka rerekē wawe te tangata mate wareware i te hōhipera?"
-    a: "Korerohia wawe ki te tapuhi, ki te tākuta. Ko te whakapōuri tere, ā, te rerekē nui i tōna āhua o ia rā, me whai āwhina hauora; kaua e whakaarohia he mate wareware anake."
+    a: "Kōrerohia wawe ki te tapuhi, ki te tākuta. Ko te whakapōuri tere, ā, te rerekē nui i tōna āhua o ia rā, me whai āwhina hauora; kaua e whakaarohia he mate wareware anake."
 sources:
   - title: "Hospitalization and Discharge Planning"
     publisher: "Alzheimer's Association"
@@ -70,7 +70,7 @@ Whaia ngā tohutohu a te rōpū hauora. I mua i te āwhina ki te kai, te inu, te
 
 ## He aha tāku mahi mēnā he rerekē wawe te tangata?
 
-Korerohia wawe ki te tapuhi, ki te tākuta mēnā kua rerekē wawe te tangata, kua rerekē rawa atu i tōna āhua o ia rā. Kaua e whakaaro he mate wareware anake tēnei. E kī te [aratohu NHS mō te whakapōuri tere](https://www.nhs.uk/symptoms/confusion/) me whai āwhina hauora tere mō te whakapōuri tere.
+Kōrerohia wawe ki te tapuhi, ki te tākuta mēnā kua rerekē wawe te tangata, kua rerekē rawa atu i tōna āhua o ia rā. Kaua e whakaaro he mate wareware anake tēnei. E kī te [aratohu NHS mō te whakapōuri tere](https://www.nhs.uk/symptoms/confusion/) me whai āwhina hauora tere mō te whakapōuri tere.
 
 Tohaina te wā i tīmata ai te rerekētanga, me he aha tāu i kite ai. Akene ka whakaatu te tangata i te whakahē i ōna mahi kanohi, ōna nekeneke, ōna moe, ōna kai, ahakoa kāore e taea e ia te whakamārama. Tonoa te rōpū tiaki ki te aromatawai i te rerekētanga, kaua e whakaaro ki te whakatau mōna anake.
 

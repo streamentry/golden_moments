@@ -102,7 +102,7 @@ Arotakehia te kāinga ina rerekē ngā ritenga, te nuku, te karu rānei, ā, i m
 
 Ka taea e tētahi tohunga whakaora mahi te aromatawai me pēhea te tangata e neke ai i te kāinga, ā, te tohutohu i ngā taputapu, i ngā whakarerekētanga mō ngā mahi o ia rā. Waiho e tika ana ki te take, ka taea hoki te āwhina e tētahi tohunga whakaora tinana, tētahi tapuhi tiaki ā-takiwā, tētahi kaiwhakaaro rongoā, tētahi kaimahi whare rānei. E kī te Alzheimer's Society ka wātea pea tētahi tohunga whakaora mahi mai i tētahi GP, i tētahi hōhipera, i tētahi ratonga tiaki hapori ā-rohe i te UK; he rerekē ngā ara ki ētahi atu wāhi. Mō te whakaurunga, te whakarerekē i ngā taputapu hiko, hau, hanga, ahi rānei, whakamahia tētahi tohunga pono o tō rohe.
 
-Mēnā he kaiwhakanoho whare koe, pātai ki te rangatira whare, ki te kaiwhakarato whare, i mua i ngā whakarerekētanga pūmau. Ka āwhina pea tētahi ratonga pakeke, hauātanga ā-rohe ki te whakamārama he aha ngā aromatawai, ngā tautoko e wātea ana. Mēnā he uaua tētahi raru, kia whakatika i taua mōrearea motuhake i te tuatahi, ā, tonoa āwhina ngaio mō tētahi mea e kore koe e mōhio ana ki te whakarerē haumaru.
+Mēnā he kaiwhakanoho whare koe, pātai ki te rangatira whare, ki te kaiwhakarato whare, i mua i ngā whakarerekētanga pūmau. Ka āwhina pea tētahi ratonga pakeke, hauātanga ā-rohe ki te whakamārama he aha ngā aromatawai, ngā tautoko e wātea ana. Mēnā he uaua tētahi raru, kia whakatika i taua mōrearea motuhake i te tuatahi, ā, tonoa āwhina ngaio mō tētahi mea e kore koe e mōhio ana ki te whakarerekē haumaru.
 
 ## He aha te wā e arotake ai i te kāinga?
 

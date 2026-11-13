@@ -43,17 +43,17 @@ Abantu abanesifo se-dementia bayakuzwa ubuhlungu, nakuba bengakwazi ukukuchaza k
 
 ## Ingabe umuntu onesifo se-dementia angaba nobuhlungu angakushongo?
 
-Yebo. Ubuhlungu buyisho nakuba umuntu engakwazi ukuthola amazwi alo. Angase angaqondi umbuzo mayelana nenxenye ethile yomzimba, noma angase abe nobunzima ekutshelweni ukuthi lapho nini noma kanjani kubuhlungu. Ungathathi ukuthula njengokuthi umuntu uyaphumula.
+Yebo. Ubuhlungu buyiqiniso nakuba umuntu engakwazi ukuthola amazwi alo. Angase angaqondi umbuzo mayelana nenxenye ethile yomzimba, noma angase abe nobunzima ekutshelweni ukuthi lapho nini noma kanjani kubuhlungu. Ungathathi ukuthula njengokuthi umuntu uyaphumula.
 
 Buza ngesikhathi esithulile usebenzisa amagama amaziwa umuntu. “Ukhathazekile?” noma “Lokhu kubuhlungu yini?” kungaba lula kunencazelo ende. Abanye abantu bazi amagama afana nokuthi “kuyabuhlungu”, “akukhululekile” noma “kukhathaza”. Nika isikhathi sokuphendula futhi wamukele impendulo yakhe ngaphandle kokuhlola noma ukumlungisa.
 
-Buza umbuzo oyedwa bese umisa. Umuntu angase akhombe, enze izinkomba noma asebenzise umshwana ojwayelekile esikhundleni sokubiza ingxenye yomzimba. Gwema imibuzo esheshayo noma ukumqondisa ekutheni yebo. Uma ethi cha kodwa wena usuke wabona ushintsho, yabelana ngalo nochwepheshe wezempilo esikhundleni sokuxabana ngokuthi ubuhlungu bukhona yini.
+Buza umbuzo oyedwa bese umisa. Umuntu angase akhombe, enze izinkomba noma asebenzise igama elijwayelekile esikhundleni sokubiza ingxenye yomzimba. Gwema imibuzo esheshayo noma ukumqondisa ekutheni yebo. Uma ethi cha kodwa wena usuke wabona ushintsho, yabelana ngalo nochwepheshe wezempilo esikhundleni sokuxabana ngokuthi ubuhlungu bukhona yini.
 
 ## Yiziphi izinguquko okufanele zinakwe?
 
 Qaphela izinguquko ezivela ebusweni, ekunyakazeni nasendleleni ejwayelekile yomuntu. Angase adonse ubuso, akhale, agone, anciphise ukunyakaza, alale ngendlela ehlukile noma aphelelwe yisithakazelo ekudleni. Angase abe nokuthula okungavamile, ukudangala noma ukungazinzi.
 
-Akukho lota kwalezi zimpawu okufakazela ukuthi umuntu unobuhlungu. Zingaba nezizathu eziningi. Ukwenqaba ukudla kungahlobana nobuhlungu emlonyeni, kodwa kungaba nenye incazelo. Yabelana nokubonile nodokotela noma unesi, bese bevumela bahlole imbangela.
+Akukho kwalezi zimpawu okufakazela ukuthi umuntu unobuhlungu. Zingaba nezizathu eziningi. Ukwenqaba ukudla kungahlobana nobuhlungu emlonyeni, kodwa kungaba nenye incazelo. Yabelana nokubonile nodokotela noma unesi, bese bevumela bahlole imbangela.
 
 ## Ngingachaza kanjani engikubonile?
 
@@ -61,7 +61,7 @@ Bhala amaqiniso ambalwa ukuze ukuchaze kahle lolo shintsho. Qopha okwenzekile, l
 
 Qhathanisa lolo shintsho nendlela ejwayelekile yomuntu, hhayi nomunye umuntu. Umuntu othulile angase angamemezeli uma elimele; omunye angakhombisa ukungakhululeki ngokunyakaza noma ngokukhuluma kakhulu. Gwema ukwenza isilinganiso sobuhlungu noma ukunquma ukuthi ukuziphatha kunembangela eyodwa. Injongo ukunika ochwepheshe wezempilo izinkomba ezisizayo.
 
-Uma umuntu evumile, yabelana ngamanothi nomndeni, unesi noma udokotela abayingxenye yokunakekelwa kwakhe. Gcina ulwazi luyimfihlo bese wabelana kuphela ngalokho okusiza umuntu athole ukunakekelwa. [Umhlahlandlela wethu wokuvakashela esibhedlela](/caregiving/hospital-visit-with-dementia/) uchaza kabanzi ngokwabelana ngokuthandayo kwesikhulumi nabasebenzi besibhedlela.
+Uma umuntu evumile, yabelana ngamanothi nomndeni, unesi noma udokotela abayingxenye yokunakekelwa kwakhe. Gcina ulwazi luyimfihlo bese wabelana kuphela ngalokho okusiza umuntu athole ukunakekelwa. [Umhlahlandlela wethu wokuvakashela esibhedlela](/caregiving/hospital-visit-with-dementia/) uchaza kabanzi ngokwabelana ngezintandokazi zokuxhumana nabasebenzi besibhedlela.
 
 ## Yenzenjani uma ngicabanga ukuthi umuntu unobuhlungu?
 
@@ -69,7 +69,7 @@ Xhumana nochwepheshe wezempilo bese uchaza ukuthi kushintshe kanjani. Ubuhlungu 
 
 Ungaqali umuthi wobuhlungu, ushintshe isilinganiso noma ume umuthi omunye ngokusekelwe ewebhusayithi. Ezinye izidakamizwa zingahlanganyela noma zibe yingozi kubantu abanezimo ezithile zempilo. Landela uhlelo lokunakekelwa komuntu bese ubuza umbhali wemithi noma ikhemisi uma kukhona okungacacile.
 
-Ungaphinde unciphise ingcindezi esheshayo kuyilapho ufuna iseluleko. Buza ukuthi yini engamlethela induduzo, vumela umuntu aphumule futhi ungaphoqi ukunyakaza noma umsebenzi obuhlungikayo. Hlola nochwepheshe wezempilo ngaphambi kokusebenzisa ukushisa, ukupholisa, ukuhlikihla noma enye indlela yokwelapha uma ungaqiniseki ukuthi iphephile.
+Ungaphinde unciphise ingcindezi esheshayo kuyilapho ufuna iseluleko. Buza ukuthi yini engamlethela induduzo, vumela umuntu aphumule futhi ungaphoqi ukunyakaza noma umsebenzi owenza ubuhlungu. Hlola nochwepheshe wezempilo ngaphambi kokusebenzisa ukushisa, ukupholisa, ukuhlikihla noma enye indlela yokwelapha uma ungaqiniseki ukuthi iphephile.
 
 ## Ingabe ushintsho lokuziphatha lungabangelwa okunye?
 

@@ -47,7 +47,7 @@ Ukuwa kungaba nokwesabisa komuntu nakubantu abaseduze. Hlala uzolile futhi unake
 Bheka ukuthi umuntu uphapheme yini, ubonakala elimele noma engaphilile, futhi angasabela njengoba ejwayelekile. Ungamphakamisi ngokushesha noma uzame ukumphakamisa wedwa. [I-NHS ithi usizo oluphuthumayo luyadingeka uma umuntu engase alimale ikhanda, umhlane, entanyeni noma esinqeni, enokunye ukulimala okukhulu, noma engakwazi ukuvuka](https://www.nhs.uk/conditions/falls/).
 
 - **Shayela izinsiza zezimo eziphuthumayo** uma kungenzeka kukhona enye yalezi zimpawu ezinkulu. Landela imiyalelo yomsakazi wekholi.
-- **Gcina umuntu ekhululekile futhi efudumele** kuyilaphoulindele usizo. Ungamnyakazisi uma ukhathazekile ngokulimala okukhulu noma ungaqiniseki ukuthi kuphephile.
+- **Gcina umuntu ekhululekile futhi efudumele** kuyilapho ulindele usizo. Ungamnyakazisi uma ukhathazekile ngokulimala okukhulu noma ungaqiniseki ukuthi kuphephile.
 - **Hlala naye uma ungakwazi.** Khuluma ngamagama amafushane nokuzolile. Ungambuzi ngalokho okwenzekile noma uphikise ukuthi amele.
 - **Uma umuntu enobuhlungu, ulimele noma akahle kodwa engekho ingozi esheshayo,** xhumana nosizo lwezokwelapha lwasendaweni noma nochwepheshe wakhe wezempilo ukuthola iseluleko.
 
@@ -77,13 +77,13 @@ Ngemva kokunakekelwa kwezidingo ezisheshayo, bhala izinto ezimbalwa ezibonile uk
 
 Chaza lokho obukubonile esikhundleni sokuqagela ukuthi umuntu uwele ngani. Inothi lingasekela ingxoxo; alichazi ukuthi kubangele ukuthi. Uma ukulimala okukhulu noma ushintsho olungazelelwe kungenzeka, thola usizo kuqala esikhundleni sokugcwalisa irekhodi.
 
-## Yini okufanele ngibuze ngesikhathi somuthi wokulandelela?
+## Yini okufanele ngibuze ngesikhathi sokulandelela?
 
 Udokotela angakusiza anqume ukuthi umuntu udinga ukuhlolwa yini nokuthi kufanele ubheke yini ngemva kwalokho. [I-NHS ithi ukuhlolwa kokuwa kungabheka amandla, ukubona, ukuzwa, imithi nokulungiswa kwasekhaya](https://www.nhs.uk/conditions/falls/). Ungabuza:
 
 - Umuntu udinga ukuhlolwa emva kokuwa lokhu, ngisho noma ukulimala kungabonakali?
 - Yiziphi izinguquko noma izimpawu okufanele zikhuthaze usizo oluphuthumayo?
-- Kufanele ibhalansi, ukubona, ukuzwa, ubuhlungu noma imithi kubhekwe yini?
+- Kufanele kubhekwe yini ibhalansi, ukubona, ukuzwa, ubuhlungu noma imithi?
 - Ingabe iseveni lokuwa noma ochwepheshe bezokusebenza bangasiza ukuhlola ukunyakaza noma izinto zasekhaya?
 - Ngubani umuntu okufanele axhumane naye uma kwenzeka elinye ukuwa?
 
