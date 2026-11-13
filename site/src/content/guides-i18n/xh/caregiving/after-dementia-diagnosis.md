@@ -14,7 +14,7 @@ summary: >-
 keyPoints:
   - "Akufuneki usombulule yonke imibuzo ngaxeshanye; qala ngento ebaluleke ngakumbi ngoku."
   - "Buza ukuba ngubani oza kulandela unyango, kwaye bhala imibuzo yokutyelela okulandelayo."
-  - "Fumana inkxaso kumntu oxilwe nakosapho okanye kubahlobo abafuna ukuncedisa."
+  - "Fumana inkxaso kumntu oxilongwe nakosapho okanye kubahlobo abafuna ukuncedisa."
   - "Bandakanya umntu ekhetheni nasekucwangcisweni kwexesha elizayo njengoko efuna, kwaye ufumane icebiso lasekuhlaleni malunga nemibuzo yomthetho okanye yemali."
 faq:
   - q: "Yintoni okufanele ndiyenze kuqala emva koxilongo lwe-dementia?"
@@ -60,7 +60,7 @@ Isikhokelo se-[Alzheimer's Association malunga nobomi emva kokuxilongwa](https:/
 
 Khetha umbuzo onokwenza ukuba eli veki libe lula. Unokuba ngowokufumanisa ukuba ngubani oza kulungelelanisa ukulandelwa kwempilo yomntu, ukubuza apho kufumaneka khona ulwazi oluthembekileyo malunga noxilongo lwakhe, okanye ukuchonga umntu amthembayo ukuba bathethe naye. Umntu usenokufuna ukuthatha inkokeli, acele umntu amncedise, okanye alinde ngaphambi kokugqiba.
 
-Kwisibonakaliso sokutyelela okulandelayo, bhala imibuzo embalwa kunye, ukuba umntu uyafuna oko. Ungabuza ukuba uxilongo lunentsingiselo ntoni, yintoni engakaqinisekiswa, nini kufuneka ulandele, kunye nokuba ungaxhomana nabani xa kuvela enye inkxalabo entsha. Cela ingcali yezonyango ichaze nayiphi na igama okanye isincomo esingacacanga. Isikhokelo sethu [sokutyelela udokotela](/caregiving/doctor-visit-with-dementia/) sinoluhlu olufutshane lokulungiselela.
+Ekutyeleleni okulandelayo, bhala imibuzo embalwa kunye, ukuba umntu uyafuna oko. Ungabuza ukuba uxilongo lunentsingiselo ntoni, yintoni engakaqinisekiswa, nini kufuneka ulandele, kunye nokuba ungaxhomana nabani xa kuvela enye inkxalabo entsha. Cela ingcali yezonyango ichaze nayiphi na igama okanye isincomo esingacacanga. Isikhokelo sethu [sokutyelela udokotela](/caregiving/doctor-visit-with-dementia/) sinoluhlu olufutshane lokulungiselela.
 
 Umntu akafuneki ukufunda yonke into malunga ne-dementia ngaxeshanye. Khetha ulwazi oluthembekileyo malunga noxilongo akufumeneyo, kwaye ubhale imibuzo eyakuvela kamva. Qaphela izithembiso, amabango okuphilisa okanye iingcebiso ezithi wonke umntu makulandele unyango okanye icwangciso efanayo.
 
@@ -68,7 +68,7 @@ Umntu akafuneki ukufunda yonke into malunga ne-dementia ngaxeshanye. Khetha ulwa
 
 Buza umntu ukuba luhlobo luphi uncedo oluya kumncedisa kwaye ufuna ukuba ubani abandakanyeke. Umhlobo okanye ilungu losapho elithembekileyo linokuba yincoko yokuqala elungileyo. Abanye abantu bakhetha iqela lenkxaso, umcebisi, umbutho wasekuhlaleni wedementia okanye incoko neqela labo lonyango. Ukhetho olufanelekileyo luxhomekeke kumntu nakwento efumaneka kufutshane.
 
-Inkxaso yenzelwe umntu oxilwe kunye nosapho nabahlobo. Umnakekeli usenokufuna ukuphumla okanye uncedo lwemisebenzi yemihla ngemihla; umntu usenokufuna ulwazi okanye ithuba lokudibana nabanye abaphila nedementia. Ezi mfuno zingahluka. Buza ngaphambi kokulungiselela iqela, ukwenza uthethathethwano olutsha okanye ukwabelana ngeenkcukacha zomntu.
+Inkxaso yenzelwe umntu oxilongwe kunye nosapho nabahlobo. Umnakekeli usenokufuna ukuphumla okanye uncedo lwemisebenzi yemihla ngemihla; umntu usenokufuna ulwazi okanye ithuba lokudibana nabanye abaphila nedementia. Ezi mfuno zingahluka. Buza ngaphambi kokulungiselela iqela, ukwenza uthethathethwano olutsha okanye ukwabelana ngeenkcukacha zomntu.
 
 Isikhokelo sethu [sokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) sinemibono yokucela abanye ukuba babelane ngenkxaso. Ukuba umntu ufuna uncedo oluninzi emini, izikhokelo ezichaza [iinkqubo zemini zabantu abadala](/caregiving/choosing-adult-day-program-dementia/) kunye [nenkathalo yasekhaya](/caregiving/choosing-in-home-dementia-care/) zichaza imibuzo okufanele uyibuze ngeenkonzo zasekuhlaleni.
 
@@ -87,10 +87,10 @@ Ukuba umntu efuna imibuzo engenza incoko iqhubeke, zama enye yale ilandelayo:
 - “Zeziphi iinxalenye zemihla yakho ozithanda ngakumbi ukuzigcina?”
 - “Ngubani ofuna ukuba abandakanyeke xa sithetha ngonyango lwexesha elizayo?”
 - “Yintoni ekunceda uzive ukhululekile kwaye uhlonelwe xa ufuna uncedo?”
-- “Kukho nto ofuna ukuba iqela lakho lonyangoliyazi malunga nento ebalulekileyo kuwe?”
+- “Kukho nto ofuna ukuba iqela lakho lonyango liyazi malunga nento ebalulekileyo kuwe?”
 - “Ungathanda ukuba ndibhale oko uthe wakuchaza, nokuba ngubani okufanele akubone?”
 
-Phulaphula ungacelanga isigqibo kwangoko. [Isebe lase-National Institute on Aging lichaza iincoko ezinentsingiselo malunga nexabiso neminqweno njengento ephambili kwicwangciso yonyango lwangaphambili](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). Ukuba umntu uvumile, bhala amazwi akhe, umhla kunye nabantu ababekho. Cela imvume ngaphambi kokwabelana ngale nqaku. Ezi zibhalo zinokukhokela iincoko zexesha elizayo, kodwa azisiyo amaxwebhu asemthethweni okanye iiodolo zonyango.
+Phulaphula ungacelanga isigqibo kwangoko. [Isebe lase-National Institute on Aging lichaza iincoko ezinentsingiselo malunga nexabiso neminqweno njengento ephambili kwicwangciso yonyango lwangaphambili](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). Ukuba umntu uvumile, bhala amazwi akhe, umhla kunye nabantu ababekho. Cela imvume ngaphambi kokwabelana ngalo lwazi. Ezi zibhalo zinokukhokela iincoko zexesha elizayo, kodwa azisiyo amaxwebhu asemthethweni okanye iiodolo zonyango.
 
 Musa ukwenza iingcinga ngokusekelwe kuxilongo kuphela okanye kwincoko enye. Iimfuno zomntu zinokutshintsha, kwaye angacela ukuba kuyekwe okanye ukubuyelwa kwisihloko kamva. Qhubeka umbandakanya kwizigqibo ezimchaphazelayo njengoko efuna.
 
@@ -108,7 +108,7 @@ Umntu usenokufuna indawo yokuqonda le ndaba ngaphandle kokuxoxa ngezicwangciso. 
 
 ## Nini ekufuneka sibuze ingcali?
 
-Buza udokotela womntu imibuzo engqinelana noxilongo lwakhe, impilo yakhe, amayeza okanye iimpawu. Ngeziggibo zomthetho nezemali, thetha neengcali ezinelungelo ezikwazi imithetho yasekuhlaleni apho umntu ahlala khona. Iwebhusayithi jikelele ayinakukuxelela ukuba yeyiphi na unyango, ixwebhu okanye inkonzo elungele umntu othile.
+Buza udokotela womntu imibuzo engqinelana noxilongo lwakhe, impilo yakhe, amayeza okanye iimpawu. Ngezigqibo zomthetho nezemali, thetha neengcali ezinelungelo ezikwazi imithetho yasekuhlaleni apho umntu ahlala khona. Iwebhusayithi jikelele ayinakukuxelela ukuba yeyiphi na unyango, ixwebhu okanye inkonzo elungele umntu othile.
 
 Ukudideka okungalindelwanga okanye olunye utshintsho olukhawulezayo kwimpilo kufuna uncedo lwexesha elifanelekileyo. Isikhokelo se-[NHS malunga nokudideka okungalindelwanga](https://www.nhs.uk/symptoms/confusion/) sithi kufuneka ufumane uncedo lwezonyango ngoko nangoko. Sebenzisa inkonzo yesiphuthuma okanye yonyango lwangoko yasekuhlaleni apho umntu ahlala khona; ungacingi ukuba utshintsho olukhawulezayo luyinxalenye yemeko yakhe eqhelekileyo.
 
