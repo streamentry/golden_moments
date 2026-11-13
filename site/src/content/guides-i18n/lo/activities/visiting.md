@@ -49,7 +49,7 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-ການໄປຢ້ຽມຄົນທີ່ທ່ານຮັກໃນສູນດູແລຄວາມຈຳ ບ້ານພັກຄົນສູງອາຍຸ ຫຼື ໂຮງໝໍ ອາດເຮັດໃຫ້ຮູ້ສຶກຫຼາຍຢ່າງ. ທ່ານອາດສົງໄສວ່າຈະເວົ້າຫຍັງ ຈະນຳຫຍັງໄປ ຫຼື ການມາຢ້ຽມມີຄວາມໝາຍບໍ ໃນເມື່ອເຂົາອາດຈື່ບໍ່ໄດ້. ມັນມີຄວາມໝາຍ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ລະບຸວ່າຄົນທີ່ເປັນໂຣກອັລໄຊເມີ[ມັກເພີດເພີນກັບການມີໝູ່](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ເຖິງແມ່ນຈະບໍ່ຈຳໄດ້ວ່າຜູ້ມາຢ້ຽມແມ່ນໃຜ. ໜ້ານີ້ໃຫ້ຂັ້ນຕອນປະຕິບັດສຳລັບກ່ອນ ລະຫວ່າງ ແລະ ຫຼັງການມາຢ້ຽມ ພ້ອມຄຳແນະນຳສະເພາະສຳລັບການນອນໂຮງໝໍ.
+ການໄປຢ້ຽມຄົນທີ່ທ່ານຮັກໃນສູນດູແລຄວາມຈຳ ບ້ານພັກຄົນສູງອາຍຸ ຫຼື ໂຮງໝໍ ອາດເຮັດໃຫ້ຮູ້ສຶກຫຼາຍຢ່າງ. ທ່ານອາດສົງໄສວ່າຈະເວົ້າຫຍັງ ຈະນຳຫຍັງໄປ ຫຼື ການມາຢ້ຽມມີຄວາມໝາຍບໍ ໃນເມື່ອເຂົາອາດຈື່ບໍ່ໄດ້. ມັນມີຄວາມໝາຍ. National Institute on Aging ລະບຸວ່າຄົນທີ່ເປັນໂຣກອັລໄຊເມີ[ມັກເພີດເພີນກັບການມີໝູ່](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ເຖິງແມ່ນຈະບໍ່ຈຳໄດ້ວ່າຜູ້ມາຢ້ຽມແມ່ນໃຜ. ໜ້ານີ້ໃຫ້ຂັ້ນຕອນປະຕິບັດສຳລັບກ່ອນ ລະຫວ່າງ ແລະ ຫຼັງການມາຢ້ຽມ ພ້ອມຄຳແນະນຳສະເພາະສຳລັບການນອນໂຮງໝໍ.
 
 ## ຈະກຽມຕົວສຳລັບການມາຢ້ຽມແນວໃດ?
 

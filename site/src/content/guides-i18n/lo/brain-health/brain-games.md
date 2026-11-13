@@ -36,10 +36,10 @@ sources:
   - title: "Computerised cognitive training for preventing dementia in people with mild cognitive impairment"
     publisher: "Cochrane Database of Systematic Reviews (via PubMed)"
     url: "https://pubmed.ncbi.nlm.nih.gov/30864747/"
-  - title: "Do “Brain-Training” Programs Work?"
+  - title: 'Do "Brain-Training" Programs Work?'
     publisher: "Psychological Science in the Public Interest"
     url: "https://journals.sagepub.com/doi/10.1177/1529100616661983"
-  - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its “Brain Training” Program"
+  - title: 'Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its "Brain Training" Program'
     publisher: "Federal Trade Commission"
     url: "https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program"
   - title: "Preventing Alzheimer's Disease: What Do We Know?"
