@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Вақте шахси гирифтори деменсия як саволро борҳо такрор мекунад"
+seoTitle: "Такрори саволҳо дар деменсия: чӣ гуфтан ва чӣ кор кардан"
+description: "Чаро шахси гирифтори деменсия як саволро такрор мекунад, чӣ тавр оромона посух диҳем, кадом воситаҳо кумак мекунанд ва кай ба духтур занг занем."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Такрори саволҳо дар деменсия маъмул аст: шахс одатан ба ёд намеорад, ки
+  пурсидааст, ва савол аксар вақт ташвишеро дар худ дорад. Оромона ва кӯтоҳ,
+  мисли бори аввал, посух диҳед, ба эҳсосоти паси савол ҷавоб гӯед ва ҳеҷ гоҳ
+  нагӯед «шумо аллакай пурсидед». Посухро дар ҷое нависед, ки шахс бинад,
+  рӯйдодҳоро танҳо каме пеш аз вуқӯъ ёдовар шавед ва машғулияти гуворо
+  пешниҳод кунед. Тағйири ногаҳонӣ ба духтур ниёз дорад.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Шахс одатан ба ёд намеорад, ки пурсидааст; ин қасдан нест."
+  - "Савол аксар вақт эҳсосеро пинҳон мекунад, ба монанди нигаронӣ дар бораи вохӯрӣ ё хоҳиши худро дар амният ҳис кардан."
+  - "Оромона, кӯтоҳ ва меҳрубонона, мисли бори аввал, посух диҳед. Ҳеҷ гоҳ нагӯед «шумо аллакай пурсидед»."
+  - "Ёддошт, тахтаи нависиш, соат ё тақвим дар назар метавонад ба ҷои шумо посух диҳад."
+  - "Рӯйдодҳои фишоровар дар бораи онҳо танҳо каме пеш аз вуқӯъ ёдовар шавед."
+  - "Вақте ки ба танаффус ниёз доред, танаффуси кӯтоҳ кунед ва барои ҳар тағйири ногаҳонӣ ба духтур занг занед."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Чаро падари гирифтори деменсияи ман як саволро такрор мекунад?"
+    a: "Деменсия ба хотираи кӯтоҳмуддат таъсир мерасонад, бинобар ин ӯ шояд воқеан ба ёд наорад, ки пурсидааст ё посухро шунидааст. Аксар вақт савол инчунин эҳсосеро дорад, ба монанди нигаронӣ дар бораи он чи минбаъд рӯй медиҳад ё эҳтиёҷ ба тасаллӣ. Посух додан ба он эҳсос одатан аз такрори далелҳо бештар кумак мекунад."
+  - q: "Оё ба ӯ бигӯям, ки аллакай пурсидааст?"
+    a: "Не. Ин ба ӯ барои ба ёд овардан кумак намекунад ва метавонад ба ислоҳ монанд эҳсос шавад. Созмонҳои деменсия тавсия медиҳанд, ки ҳар дафъа оромона, мисли бори аввал, посух диҳед ва посухро кӯтоҳ нигоҳ доред."
+  - q: "Оё навиштани посух кумак мекунад?"
+    a: "Метавонад, то даме ки шахс хонда тавонад. Ёддошт, тахтаи нависиш бо нақшаи имрӯза, соати калон ё тақвиме дар ҷое, ки ӯ аксар вақт менигарад, ба ӯ имкон медиҳад, ки посухро худаш санҷад. Ба он бо мулоимӣ ишора кунед, на бо гуфтани «Ман ба шумо гуфтам»."
+  - q: "Дар бораи вохӯриҳо ё сайрҳо кай гап занам?"
+    a: "Наздик ба вақти он. Зикр кардани ташрифи духтур ё сафар рӯзҳо пеш метавонад ба соатҳои саволҳои нигаронкунанда табдил ёбад. Каме пеш, оромона, ва бо он чи минбаъд рӯй медиҳад, ба ӯ бигӯед."
+  - q: "Такрор кай сабаби занг задан ба духтур аст?"
+    a: "Агар саволҳо, ошуфтагӣ ё рафтор ногаҳон тағйир ёбанд ё дар давоми соатҳо ё рӯзҳо хеле бадтар шаванд, фавран ба духтури ӯ занг занед. Сироят, доруи нав, дард, қабзият ё камобӣ метавонанд ошуфтагии ногаҳониеро, ки делирий меноманд, ба вуҷуд оранд, ки ба нигоҳубини зуд ниёз дорад."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Табиб соати чанд аст?» Даҳ дақиқа баъд: «Табиб соати чанд аст?» Шунидани як саволи ягона борҳо яке аз хастакунандатарин қисматҳои нигоҳубини шахси гирифтори деменсия аст. Ин хеле маъмул аст, қасдан нест ва роҳҳои ором барои посух додан ҳастанд, ки рӯзро барои ҳарду осонтар мекунанд.
 
-## Why does someone with dementia ask the same question over and over?
+## Чаро шахси гирифтори деменсия як саволро борҳо мепурсад?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Асосан ба сабаби хотира. Деменсия ба хотираи кӯтоҳмуддат таъсир мерасонад, бинобар ин шахс аксар вақт ба ёд намеорад, ки пурсидааст, ё посухро ба ёд намеорад. [Бунёди Алтсгеймери Амрико](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) пурсидани саволҳоро борҳо ҳамчун ҳодисаи маъмул ва интизоршаванда тавсиф мекунад.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Савол аксар вақт эҳсосеро низ дар бар мегирад. [Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) шарҳ медиҳад, ки саволи такроршаванда метавонад нигаронӣ, дархости кумак ё изтироб ва ноамниро ифода кунад ва шахс аксар вақт тасаллӣ ва ошноиро меҷӯяд. «Кай меравем?» шояд воқеан маънои «Ман аз рафтан хавотирам»-ро дошта бошад. Дилгирӣ, тарс, садо ва тағйири тартибот ҳама метавонанд онро ангезанд ва саволи такроршаванда инчунин метавонад ниёзеро, масалан ба хоҷатхона, нишон диҳад ([Эътилофи парваришгарони оилавӣ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Чӣ бояд бигӯям?
 
-Answer calmly and briefly, as if it were the first time.
+Оромона ва кӯтоҳ, мисли бори аввал, посух диҳед.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Посухро кӯтоҳ ва якхела нигоҳ доред.** «Табиб соатиду аст. Ман бо шумо ҳастам.» Посухи собит осонтар қабул мешавад.
+- **Ба эҳсос посух диҳед.** «Шумо дар бораи табиб фикр мекунед. Ин имрӯз баъд аз зӯҳр аст ва ман моро мебарам. Шумо ҳеҷ коре кардан лозим нест.»
+- **Овози гарм ва ламси мулоим истифода баред,** агар ламсро дӯст дорад. Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки ором бимонед ва мантиқ ё баҳс истифода накунед.
+- **Посухеро диҳед, ки ӯ меҷӯяд,** ҳар қадар бор, ки лозим аст. Ассотсиатсияи Алтсгеймер мегӯяд, ки онро ҳар қадар бор, ки мепурсад, такрор кунед.
 
-## What should I avoid?
+## Аз чӣ бояд худдорӣ кард?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«Шумо инро аллакай аз ман пурсидед.»** [Эътилофи парваришгарони оилавӣ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тавсия медиҳад, ки ишора накунед, ки ӯ ҳоло пурсид. Ин ба ӯ барои ба ёд овардан кумак намекунад ва метавонад ба таъна монанд эҳсос шавад.
+- **Шарҳҳои дароз.** Калимаҳои бештар чизҳои бештар барои фаромӯш кардан медиҳанд.
+- **Оҳ кашидан, чашм гардондан ё оҳанги тез.** [Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) сабр ва нишон надодани ноумедиро тавсия медиҳад. Ин душвор аст; бахши дар поён дар бораи танаффусҳоро бинед.
 
-## Simple tools that answer the question for you
+## Воситаҳои оддие, ки ба ҷои шумо посух медиҳанд
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+То даме ки шахс хонда метавонад, посухи навишташудае, ки ӯ дида метавонад, аксар вақт аз посухи шифоҳӣ бештар кумак мекунад.
 
-| Tool | How to use it |
+| Восита | Чӣ тавр истифода бурдан |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Ёддошт бо ҳарфҳои калон | «Имрӯз соати 2-и баъд аз зӯҳр назди духтур. Мария мебарад.» Онро дар ҷое гузоред, ки ӯ бештар менигарад |
+| Тахтаи нависиш | Нақшаи имрӯза дар се-чор сатр; ҳар субҳ пок кунед ва дубора нависед |
+| Соати калон бо рӯз ва сана | Ба «Имрӯз кадом рӯз аст?» ва «Оё вақташ расид?» кумак мекунад |
+| Тақвим | Ҳар рӯзро хат занед; ташрифи навбатиро давра кунед |
+| Аксҳои ошно | Акси шахсе, ки меояд, метавонад ба «Кӣ меояд?» посух диҳад |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ин ғояҳо аз [Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ва [Алтсгеймер Лос-Анҷелес](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) гирифта шудаанд. Ба ёддошт мулоимона ишора кунед («Биёед якҷоя ба тахта нигоҳ кунем»), на бо гуфтани «Ман инро барои шумо навиштам».
 
-## Tell them about events close to the time
+## Дар бораи рӯйдодҳо наздик ба вақташон хабар диҳед
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Зикр кардани вохӯрӣ ё сайр рӯзҳо пеш метавонад ба соатҳои саволҳои нигаронкунанда табдил ёбад. Эътилофи парваришгарони оилавӣ ва Алтсгеймер Лос-Анҷелес ҳарду пешниҳод мекунанд, ки дар бораи нақшаҳо, хусусан фишоровар, ба монанди ташрифи духтур ё оббозӣ, танҳо каме пеш аз вуқӯъ сухан гӯед. Баъд бигӯед, ки минбаъд чӣ рӯй медиҳад, як қадам дар як вақт.
 
-## Activities that can shift attention
+## Машғулиятҳое, ки метавонанд диққатро табдил диҳанд
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Пас аз он ки посух додед ва эҳсосро эътироф кардед, машғулияти ором ва гуворо метавонад кумак кунад, хусусан агар дилгирӣ дар паси саволҳо бошад. Ҳар манбаи боло пешниҳод мекунад, ки диққатро ба чизе равона кунед, ки шахс дӯст медорад.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Бозии кӯтоҳ ва осон якҷоя.** [Ҷуфтҳои тасвирӣ](/games/picture-pairs/) тасвирҳоро намоён нигоҳ медорад, бинобар ин чизе ба ёд овардан лозим нест.
+2. **Кори ошно.** Ҷамъ кардани сачоқҳо, ҷудо кардани ҷуробҳо ё чидани дастурхон. [Якҷоя ҷудо кардан](/games/sort-together/) варианти рӯи экрани он аст.
+3. **Дар бораи чизе, ки ӯ дӯст медорад, сӯҳбат кунед.** [Кортҳои сӯҳбат](/games/conversation-cards/) пешниҳодҳои кушод бе посухи дуруст медиҳанд.
+4. **Мусиқӣ, сайр ё газак.** Институти миллии пиронсолӣ инҳоро дар қатори роҳҳои оддии равона кардани диққат номбар мекунад.
+5. **Таваққуфи ором.** Якҷоя бинишинед, аз тиреза нигоҳ кунед ё лаҳзаи муштараки [нафаскашии ором](/games/calm-breathing/)-ро кӯшиш намоед.
 
-If they return to the question, answer it again, kindly. That is fine.
+Агар ӯ ба савол баргардад, онро боз, меҳрубонона, посух диҳед. Ин хуб аст.
 
-## Look for patterns
+## Намунаҳоро ҷустуҷӯ кунед
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Ассотсиатсияи Алтсгеймер пешниҳод мекунад, ки пайхас кунед, ки оё саволҳо дар вақтҳои муайяни рӯз, дар атрофи одамони муайян ё дар ҷойҳои муайян меоянд. Агар онҳо ҳамеша пеш аз омадани меҳмонон ё дар нимрӯзии дер оғоз шаванд, шумо метавонед пешакӣ нақша гиред: ёддошт дар бораи ташриф, машғулияти ошно омода ва ҳуҷраи оромтар. Агар бегоҳҳо душвортар бошанд, роҳнамои мо оид ба [машғулиятҳои ором дар нимрӯзии дер](/caregiving/late-day-restlessness/) шояд кумак кунад.
 
-## Take care of yourself
+## Аз худ ғамхорӣ кунед
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Бист маротиба посух додан ба як савол хастакунанда аст. Агар эҳсос кунед, ки сабри шумо тамом шуда истодааст ва шахс дар амният аст, барои чанд дақиқа ба ҳуҷраи дигар равед ва нафас кашед, чунон ки [Алтсгеймер Лос-Анҷелес](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) тавсия медиҳад. [Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) парваришгаронро ташвиқ мекунад, ки кумак пурсанд ва нигоҳубини муваққатиро баррасӣ кунанд. Ғояҳои бештар дар [роҳнамои мо оид ба нигоҳубини худи парваришгар](/caregiving/caregiver-self-care/) мавҷуданд.
 
-## When should I call a doctor?
+## Кай бояд ба духтур занг занам?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Агар саволҳо, ошуфтагӣ ё рафтор ногаҳон тағйир ёбанд ё дар давоми соатҳо ё рӯзҳо хеле бадтар шаванд, фавран ба духтури ӯ занг занед. [Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) мегӯяд, ки рафтори ногаҳонӣ ё зуд тағйирёбанда, хусусан пас аз сироят ё тағйири дору, бояд фавран ба диққати духтур расонида шавад. [Деменсия Австралия](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) шарҳ медиҳад, ки сироят, доруҳо, камобӣ, дард ё қабзият метавонанд делирийро, ошуфтагии ногаҳонӣ ва шадидро, ки ба табобати зуд ниёз дорад, ба вуҷуд оранд. Агар касе дар хатар бошад, ба рақами ёрии таъҷилии маҳаллии худ занг занед.

@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Mea e Lamatia ai le Dementia: O Mea e 14 na Taʻua e le Lancet Commission"
+seoTitle: "O Lamatiaga e 14 o le Dementia a le Lancet Commission"
+description: "O lamatiaga e 14 e mafai ona suia o le dementia a le Lancet Commission 2024, e tusa ai ma vaitau o le olaga, ma mea e talanoa ai ma se fomaʻi."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Na taʻua e le Lancet Commission o le 2024 mea e 14 e ono mafai ona suia e
+  lamatia ai le dementia: itiiti o aʻoaʻoga, leiloa o le faʻalogo, maualuga o le
+  LDL kolesitirole, le faanoanoa, manuʻa o le ulu, le gaoioi o le tino, le maʻi
+  suka, le ulaula tapaa, maualuga o le mamafa o le toto, le tino mafiafia,
+  le tele o le inu ava, le toʻatasi ma le vavae ese, le leaga o le ea, ma le
+  leiloa o le vaai e leʻi togafitia. Fesootaʻi faatasi ma le tusa ma le 45% o
+  mataupu i le lalolagi atoa, e leai se folafolaga mo se tasi tagata.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "O mea e 14 e aofia ai le olaga atoa: e tasi i le amataga o le olaga, sefulu i le ogatotonu o le olaga ma le tolu i le tuai o le olaga."
+  - "O le leiloa o le faʻalogo ma le maualuga o le LDL kolesitirole i le ogatotonu o le olaga e tasi le fesootaʻi ma le tusa ma le 7% o mataupu o le dementia i le lalolagi atoa, o vaega sili ona tetele o soo se mea e tasi."
+  - "O nei pasene o fuafuaga mo le faitau aofaʻi o tagata e manatu e i ai le mafuaʻaga ma le taunuuga. O nisi fesootaʻiga atonu e vaega naʻo le mafuaʻaga."
+  - "O le matua ma kenera, e leai se tasi e mafai ona suia, o ni mea tetele foi e lamatia ai. O le faaitiitia o mea e 14 e leai se folafolaga e aloese se tasi mai le dementia."
+  - "O le tele o laasaga e aofia ai, e pei o le siakiina o le mamafa o le toto, le faʻalogo ma le vaai, e lelei mo le soifua maloloina i isi auala ma e aoga ona talanoa i se fomaʻi."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "O ā mea e 14 e mafai ona suia e lamatia ai le dementia?"
+    a: "Na taʻua e le Lancet Commission o le 2024 le itiiti o aʻoaʻoga, leiloa o le faʻalogo, maualuga o le LDL kolesitirole, le faanoanoa, manuʻa o le ulu, le gaoioi o le tino, le maʻi suka, le ulaula tapaa, maualuga o le mamafa o le toto, le tino mafiafia, le tele o le inu ava, le toʻatasi ma le vavae ese, le leaga o le ea ma le leiloa o le vaai e leʻi togafitia. Fesootaʻi faatasi ma le toetoe afa o mataupu o le dementia i le lalolagi atoa."
+  - q: "O le ā le lamatiaga o le dementia e sili ona taua?"
+    a: "I le faitau aofaʻi o tagata i le lalolagi atoa, na faatatau e le Commission le leiloa o le faʻalogo ma le maualuga o le LDL kolesitirole i le ogatotonu o le olaga e tasi le fesootaʻi ma le tusa ma le 7% o mataupu, sosoo ai ma le itiiti o aʻoaʻoga ma le toʻatasi ma le vavae ese e tusa ma le 5% taitasi. O mea e sili ona taua mo se tagata e fia e fuafua i lona lava soifua maloloina, o lea o se fomaʻi o le taiala sili."
+  - q: "E lua ea mea fou na faaopoopoina i le 2024?"
+    a: "ʻIo. Na faaopoopo e le lipoti o le 2024 le maualuga o le LDL kolesitirole (le leaga) i le ogatotonu o le olaga ma le leiloa o le vaai e leʻi togafitia i le tuai o le olaga i mea e 12 na taʻua i le 2020. Na fesootaʻi e le Commission i latou ma le tusa ma le 7% ma le 2% o mataupu."
+  - q: "O le matua o se lamatiaga e mafai ona suia?"
+    a: "ʻE leai. O le matua o le lamatiaga sili ona tele ua iloa o le maʻi o le Alzheimer, ma e lē mafai ona suia. E i ai foi sana vaega le kenera. O mea e 14 o lenei itulau o mea ia e fai mai suʻesuʻega atonu e mafai ona suia."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,121 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+O se mea e lamatia ai o se mea e fesootaʻi ma se avanoa maualuga e maua ai se tulaga. E lē o se mafuaʻaga i tulaga uma, ma o le i ai o se tasi e lē o lona uiga o le a e maua i le dementia. O lenei itulau e lisiina ai mea e 14 e lamatia ai le dementia e fai mai le Lancet Commission o le 2024 e ono mafai ona suia, le mea e fesootaʻi ai suʻesuʻega ma i latou, ma mea e mafai ona e talanoaina ma se fomaʻi.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Mo se vaaiga sili atu, e aofia ai mea na maua i suʻesuʻega tetele, amata i le
+[E mafai ona puipuia le dementia? O le ā e taʻu e le suʻesuʻega](/brain-health/can-dementia-be-prevented/).
+O faamatalaga lenei e lautele, e lē o se fautuaga faafomaʻi; tagai i la matou
+[faamatalaga e uiga i fautuaga faafomaʻi](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## O ā mea e 14 e lamatia ai le dementia?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+O le [Lancet Commission o le 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+na tusia e tagata suʻesuʻe o le dementia e 27, na faatatau o mea e 14 e ono mafai
+ona suia e lamatia ai e tusa ma le 45% o mataupu o le dementia i le lalolagi atoa.
+O le pasene mo mea taitasi i lalo o le faatatauga a le Commission lea o le vaega o
+mataupu i le lalolagi atoa e fesootaʻi ma ia, ua faataamilo i numera atoa. E tuaoi
+numera, auā e tele tagata e i ai lamatiaga e tele i le taimi e tasi, o le mafuaʻaga lea
+e 45% ai le aofaʻi e lē sili atu.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Mea e lamatia ai | Vaitau o le olaga | Vaega o mataupu | O le ā e fesootaʻi suʻesuʻega | O le ā e mafai ona e faia |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Itiiti o aʻoaʻoga | Amataga o le olaga | 5% | O tausaga itiiti i le aʻoga e fesootaʻi ma se lamatiaga maualuga. O le galue o le mafaufau i le ogatotonu o le olaga e foliga mai foi e puipuia, e oo lava i tagata e itiiti le aʻoga. | Faaauau le aʻoaʻo ma faia mea e galue ai le mafaufau i soo se matua: faitau, mea e fiafia i ai, vasega, taaloga ma isi. |
+| Leiloa o le faʻalogo | Ogatotonu o le olaga | 7% | O le leiloa o le faʻalogo e lē togafitia e fesootaʻi ma se lamatiaga maualuga. O suʻesuʻega e mataʻituina ai tagata i le tele o tausaga e fesootaʻi ai le faʻaaogā o masini faʻalogo ma le lamatiaga maualalo. | Siaki lou faʻalogo. Fesili pe fesoasoani masini faʻalogo, ma ofuina pe afai e tusi. Puipui taliga mai leo leotele. |
+| Maualuga o le LDL kolesitirole | Ogatotonu o le olaga (mai le tusa ma le 40) | 7% | O le maualuga o le LDL kolesitirole (le leaga) i le ogatotonu o le olaga e fesootaʻi ma se lamatiaga maualuga. O suʻesuʻega e mataʻituina ai tagata e fesootaʻi ai le faʻaaogā o statin ma le lamatiaga maualalo, ae e leʻi faaalia lea e suʻesuʻega faʻataʻitaʻi i le tuai o le olaga. | Fesili i lau fomaʻi pe tatau ona siaki lau kolesitirole ma o le ā le mea e fai, pe afai e i ai. |
+| Le faanoanoa | Ogatotonu o le olaga | 3% | O le faanoanoa e fesootaʻi ma se lamatiaga maualuga. I le tuai o le olaga, e mafai foi ona avea le faanoanoa ma faailoga muamua o le dementia. | Taʻu i se fomaʻi le lagona maualalo po o le leiloa o le fiafia e sili atu i le lua vaiaso. E mafai ona togafitia le faanoanoa. |
+| Manuʻa o le ulu | Ogatotonu o le olaga | 3% | O le manuʻa o le ulu i soo se matua ma mai soo se puna, e aofia ai taaloga e feoloolo ai, e fesootaʻi ma se lamatiaga maualuga. | Ofuina se pulou puipui mo le tafaoga uila ma taaloga e feoloolo ai. Fesili e uiga i le puipuia o le paʻū. Malolo ma siaki pe a mavae se manuʻa o le ulu. |
+| Le gaoioi o le tino | Ogatotonu o le olaga | 2% | O tagata e faʻamalositino ma taaalo e itiiti le avanoa e maua ai le dementia. E tapulaʻa pea le faamaoniga mai suʻesuʻega faʻataʻitaʻi. | Fesili po o le ā le gaioiga e saogalemu mo oe, ma saili se mea e te fiafia i ai. Tagai i la matou [taiala i faʻamalositino](/brain-health/exercise/). |
+| Le maʻi suka | Ogatotonu o le olaga | 2% | O le maʻi suka, aemaise lava pe a amata i le ogatotonu o le olaga po o le umi, e fesootaʻi ma se lamatiaga maualuga. | Siaki le suka i le toto. Afai e iai ia te oe le maʻi suka, galulue ma lau vaega tausi e pulea saogalemu. |
+| Le ulaula tapaa | Ogatotonu o le olaga | 2% | O le ulaula tapaa e fesootaʻi ma se lamatiaga maualuga. O suʻesuʻega e maua ai e lē tutusa le lamatiaga o i latou ua tuu le ulaula ma i latou o loo faaauau pea. | Fesili e uiga i le lagolago e tuu ai. E aoga le tuu i soo se matua. |
+| Maualuga o le mamafa o le toto | Ogatotonu o le olaga | 2% | O le maualuga o le mamafa o le toto i le ogatotonu o le olaga e fesootaʻi ma se lamatiaga maualuga. O suʻesuʻega faʻataʻitaʻi o vailaʻau o le mamafa o le toto e faailoa mai ai sina faaitiitiga o le lamatiaga o le dementia po o le faaitiitia o le mafaufau. | Iloa ou numera. Ua fautuaina e le Commission se numera i luga o le 130 pe maualalo mai le tusa ma le 40 tausaga; fesili po o le ā le sini e fetaui ma oe. |
+| Le tino mafiafia | Ogatotonu o le olaga | 1% | O le tino mafiafia i le ogatotonu o le olaga e fesootaʻi ma se lamatiaga maualuga, ma e faateleina foi ai le lamatiaga o le maʻi suka. | Fesili i lau fomaʻi e uiga i le mamafa e lelei mo oe. E lē tatau i tagata matutua ona ʻai e faaititia ai le mamafa e aunoa ma se fautuaga faafomaʻi. |
+| Le tele o le inu ava | Ogatotonu o le olaga | 1% | O le tele o le inu e fesootaʻi ma se lamatiaga maualuga. O le faaititia mai le tele o le inu e fesootaʻi ma le lamatiaga maualalo. | Fesili po o le ā le tapulaʻa saogalemu mo oe, aemaise lava ma au vailaʻau. |
+| Le toʻatasi ma le vavae ese | Tuai o le olaga | 5% | O le seasea o fesootaʻiga ma tagata e fesootaʻi ma se lamatiaga maualuga. | Tausia le fesootaʻi ma tagata i auala e te fiafia i ai. Tagai i la matou [taiala i le fesootaʻiga faʻaagafesootaʻi](/brain-health/social-connection/). |
+| Le leaga o le ea | Tuai o le olaga | 3% | O le nofo i se ea e sili atu le leaga e fesootaʻi ma se lamatiaga maualuga. O suʻesuʻega e fesootaʻi ai se ea e sili atu le mama ma le lamatiaga maualalo. | O se mataupu tele lava o faiga faavae a le malo. Siaki lapataiga o le tulaga o le ea i lou eria ma faatapulaʻa le taimi i fafo i aso e matua leaga ai le ea. |
+| Le leiloa o le vaai e leʻi togafitia | Tuai o le olaga | 2% | O faafitauli o le vaai e leʻi faaleleia e fesootaʻi ma se lamatiaga maualuga. O se suʻesuʻega tele i Amerika na fesootaʻi ai le taotoga o kataraka ma le lamatiaga maualalo. | Faia siakiga o mata e masani ai. Fesili pe mafai ona togafitia faafitauli e pei o kataraka. |
 
-## How should I read these percentages?
+## E faapefea ona ou faauigaina nei pasene?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Ma le faaeteete. O le lipoti a le Commission lava ia e iai ni manatu e tatau ona manatua:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **E faamatala ai faitau aofaʻi o tagata, e lē o tagata taitoʻatasi.** O le
+  [aotelega a le University College London o le lipoti](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  ua taʻua ai e galue le faaitiitia o lamatiaga i se faitau aofaʻi o tagata ae e leai se
+  folafolaga e aloese se tasi tagata mai le dementia.
+- **E manatu e i ai le mafuaʻaga ma le taunuuga.** Na aofia e le au tusitala naʻo mea
+  e iai se faamaoniga e talitonu ai, ae ua latou taʻua e ono vaega naʻo le mafuaʻaga
+  nisi fesootaʻiga.
+- **O numera o le lalolagi atoa.** O le tele o faamaumauga e mai atunuʻu e maualuga
+  tupe maua, ma o le vaega moni mo se atunuʻu po o se nuu e tasi e ese.
+- **E mafai pea ona taua pasene laiti.** O se mea e fesootaʻi ma le 2% o mataupu i le
+  lalolagi atoa e aʻafia pea ai se numera matua tele o tagata.
 
-## Which risk factors were added in 2024?
+## O le ā mea na faaopoopoina i le 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Na faaopoopo e le lipoti o le 2024 mea e lua i mea e 12 na taʻua i le 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Maualuga o le LDL kolesitirole i le ogatotonu o le olaga**, e fesootaʻi ma le tusa ma le 7% o mataupu.
+- **Le leiloa o le vaai e leʻi togafitia i le tuai o le olaga**, e fesootaʻi ma le tusa ma le 2% o mataupu.
 
-## What risk factors cannot be changed?
+## O ā lamatiaga e lē mafai ona suia?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Ua fai mai le National Institute on Aging e
+[o le matua le lamatiaga sili ona tele ua iloa o le Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ma e leai se tasi e mafai ona suia. E i ai foi se vaega o kenera; o se kenera ua lauiloa
+e aafia ai le lamatiaga o le Alzheimer e igoa ia APOE. Ua faaopoopo mai e le NIA
+e leʻi malamalama atoatoa saienitisi i le mea e mafua ai le Alzheimer i le tele o
+tagata. Ua taʻua e le Lancet Commission e mafai ona faaitiitia lamatiaga e ono mafai
+ona suia, po o le ā lava le lamatiaga faakenera o se tagata.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Ona o le tele o vaega o le matua ma kenera, e toatele tagata e leai ni mea e 14
+ae maua pea i le dementia. E lē o se mea sese a se tasi.
 
-## What does the trial evidence say about changing these risks?
+## O le ā e taʻu mai e le faamaoniga o suʻesuʻega faʻataʻitaʻi e uiga i le suia o nei lamatiaga?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+O le fesootaʻi o se lamatiaga ma le dementia e lē tutusa ma le faamaonia e faaitiitia
+ai le lamatiaga o le dementia pe a suia. O ni faʻataʻitaʻiga e tulaʻi ai le faamaoniga:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Mamafa o le toto.** I le suʻesuʻega SPRINT MIND, o se sini maualalo o le mamafa
+  o le toto na matua faaitiitia ai le faaitiitia mālū o le mafaufau. E leʻi matua
+  faaitiitia ai le dementia e foliga mai, e ui atonu na laʻitiiti naua le suʻesuʻega e
+  faaalia lea ([SPRINT MIND i le JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Masini faʻalogo.** Ua faamatalaina e le Lancet Commission se suʻesuʻega e tolu
+  tausaga o masini faʻalogo na leʻi maua ai se aafiaga i le aotelega i le mafaufau,
+  ae sa i ai se aogā i se vaega laiti o tagata e sili atu le lamatiaga. O suʻesuʻega
+  e mataʻituina ai tagata e fesootaʻi ai le faʻaaogā o masini faʻalogo ma le lamatiaga
+  maualalo. E sili atu faamatalaga i la matou [taiala i le faʻalogo](/brain-health/hearing/).
+- **Gaioiga o le tino.** Ua fai mai le National Institute on Aging e leai se
+  faamaoniga lava mai suʻesuʻega faʻataʻitaʻi e faapea e mafai e le faʻamalositino ona
+  puipuia pe faatuai le faaitiitia mālū o le mafaufau po o le Alzheimer, e ui e fai atu
+  nisi suʻesuʻega e mafai ona fesoasoani i le faaitiitia o le mafaufau e mafua i le
+  matua
+  ([NIA e uiga i le puipuia o le Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+O suʻesuʻega faʻataʻitaʻi umi e faatali ai le tupu o le dementia e tuai ma taugata,
+o lea mo le tele o mea e lamatia ai, o le faamaoniga sili ona lelei e mai pea i
+suʻesuʻega e mataʻituina ai tagata i le tele o tausaga. E aoga lena faamaoniga, ae e
+vaivai atu nai lo se suʻesuʻega faʻataʻitaʻi.
 
-## What about sleep and diet?
+## Ae a le moe ma meaʻai?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Na iloilo e le Commission le moe ma meaʻai ae na te leʻi faaopoopoina i le lisi, auā
+e leʻi malosi pe tutusa le faamaoniga. O la matou taiala i le
+[moe](/brain-health/sleep/) ma [meaʻai](/brain-health/diet/) e faamatala ai le mea
+ua iloa.
 
-## Talk with a doctor
+## Talanoa i se fomaʻi
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+O se asiasiga faaletausaga o se taimi lelei e tuu ai nei mataupu. E mafai ona e
+aumai lenei lisi ma fesili:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- O ā ou numera o le mamafa o le toto, suka i le toto ma kolesitirole, ma e manaʻomia
+  ea le afaina?
+- E tatau ea ona siaki loʻu faʻalogo ma mata?
+- E saogalemu ma lava ea le gaioiga ou te faia mo aʻu?
+- E mafai ea ona aafia se vailaʻau o aʻu i le manatua po o le mafaufau?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+A o lei suia vailaʻau, meaʻai, anapogi, faʻamalositino po o vailaʻau faʻaopoopo,
+talanoa muamua i se fomaʻi. Afai o oe po o se tagata e te tausia e lē mautonu
+faafuaseʻi, vaivai i le tasi itu, po o faigata le tautala, valaʻau i le numera o
+fesoasoani faafuaseʻi i lau atunuʻu.
