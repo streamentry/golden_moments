@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Galuega Vaega mo le Dementia: Taʻiala mo Fale Tausiga ma Polokalama"
+seoTitle: "Galuega Vaega mo le Dementia: Bingo, Pese, Tala"
+description: "Galuega o vaega mo tausiga o le mafaufau, fale tausiga ma polokalama o aso: bingo ata, pese faatasi ma vaega o manatu, ma fautua mo nofoaga ma aofaʻi o vaega."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  E lelei galuega o vaega i tausiga o le mafaufau ma polokalama o aso pe a puupuu, masani ma faigofie ona auai i soʻo se tulaga: bingo ata, pese faatasi, vaega o manatu, gaioiga malū ma taʻaloga upu faatasi. Tumau vaega laʻitiiti pe a mafai, nofo tagata ina ia vaai ma faalogo uma, faia se laasaga e tasi i le taimi, ma fuafua se tulaga faigofie ma se auala filemu e alu ai le tagata pe a manaʻo.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Vaega laʻitiiti e sili ona lelei nai lo se faalavelave tele, ma latou te mafai ai ona auai i gaioiga nai lo le matamata naʻo."
+  - "Nofo i se lalaga poʻo se alavai faʻafoliga, latalata i le taʻitaʻi, ma mafaufau i manaʻoga o le faalogo ma le vaai ma le leai o leo faalavelave."
+  - "Fuafua gaioiga i tulaga e to lua poʻo tolu ina ia mafai ai ona auai tagata e ese le malosi."
+  - "Aua le fesili, faatautaia poʻo filifili manumalo. E mafai ona taʻalo bingo ata ma tagata uma e maua ai se pepa atoatoa."
+  - "E lelei le alu vave, le matamata poʻo le moe. Ia i ai se tagata faigaluega e fesoasoani i se tasi e manaʻo i se nofoaga filemu."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "O le ā se aofaʻi lelei o vaega mo galuega o le dementia?"
+    a: "E leai se numera saʻo, e faalagolago i tagata nonofo, le potu ma le aofaʻi o aufaigaluega e iai. E toatele matagaluega e iloa o vaega laʻitiiti e mafai ai ona vaai, faalogo ma auai uma tagata, ae o aoga tetele i se potu tele e masani ona faaalia ai tagata e matamata naʻo. Afai e te faia se aoga tele, faaopoopo aufaigaluega poʻo tautua e mafai ona nofo i le va o tagata nonofo ma fesoasoani i se tasi poʻo se lua i le taimi."
+  - q: "E faapefea ona ou taʻalo se vaega ma tagata e eseese le malosi?"
+    a: "Fuafua auala e sili atu ai e auai ai i gaioiga taʻitasi. I se pese faatasi, nisi tagata e pese upu uma, isi e faaoso, pa'i lima poʻo faaaoga se ipu tete'e, ma isi e faʻalogo naʻo. I bingo ata, nisi tagata e iloa a latou lava ata, ae o se fesoasoani e faaali atu i isi. Faanofo tagata e manaʻomia le fesoasoani latou i le itu o se aufaigaluega poʻo tautua."
+  - q: "E faapefea ona ou taʻalo bingo ata e aunoa ma le tauvaga?"
+    a: "Valaau ata uma seia oo ina tumu le pepa o tagata uma, ina ia leai se tasi e tuʻu ese. Talanoa e uiga i ata taʻitasi pe a sau, ma aua le tuʻuina atu o balaga mo manumalo poʻo foaʻi le mea laʻititi tutusa i tagata uma. O le mea taua o le faasoa o le manatu ma talanoa, e le o le iai muamua e faaiʻu."
+  - q: "E mafai ea ona ou faaaogā a matou taʻaloga i se faaaliga tele i se vaega?"
+    a: "Ioe. O a matou taʻaloga e tamoe i se upegatafaʻilagi, o lea e mafai ona e faaaoga i se komepiuta laptop poʻo se tablet e fesoʻotaʻi i se TV poʻo projector. Picture Bingo e aofia ai pepa bingo e mafai ona lolomi ma se valaau i luga o le ata. Finish the Saying ma Picture Pairs e lelei foi i se faaaliga tele ma se tagata e pa'i mo le vaega."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Taʻiala lenei mo taitai gaioiga, aufaigaluega o tausiga o le mafaufau ma taitai o polokalama o aso mo matua. E faamatala ai ituaiga o vaega e lelei ai, setiina o potu, faia se gaioiga e tasi mo tagata e eseese le malosi, ma le faaaogaina o pepa bingo ma taʻaloga faaaliga tele a matou. O mea uma o lenei taʻiala e taulaʻi i le filemu, le sootaga ma le filifiliga. E leai se mea o se suʻesuʻega.
 
-## What makes a group activity work in memory care?
+## O le ā e faia ai le galuega o vaega lelei i tausiga o le mafaufau?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+O se galuega o vaega lelei e masani, puupuu, faigofie ona auai i soʻo se tulaga ma e leai se mamafa. O le [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) a le Alzheimer's Association faamatala le auai taua e lagolago ai manaʻoga ma filifiliga o se tagata, ma e faatagaina ai filifiliga ma manuia, e ui lava i le mamafa o le dementia. O le tusi lava lea e taʻu foi o polokalama masani e masani ona faalagolago i le tasi poʻo le lua o galuega tetele i le aso e faaalia ai tagata nonofo e naʻo le matamata.
 
-That points to a few practical rules:
+O lea e taʻu mai ai nei tulafono faigofie:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Masani e sili atu nai lo le fou.** Pese, faasologa upu, ata ma mea mai o latou tausaga laʻiti e faigofie ona auai.
+- **Puupuu e sili atu nai lo le umi.** Fuafua mo le umi o le faamanatu o lau vaega, ma se taimi e malolo ai i le vaega.
+- **Gaioiga e sili atu nai lo matamata.** Tuʻu i tagata taitasi se mea e uuina, pa'i, filifili poʻo fai ai upu.
+- **Auala e tele, se galuega e tasi.** Fausia ni auala faigofie ma sili atu e auai ai.
+- **Leai ni manumalo, leai ni sikoa.** Taʻaloga tauvaga e lagona ai nisi tagata ua latou faaleagaina.
 
-## How big should the group be?
+## E tele le aofaʻi o le vaega?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Laʻititi e sili ona faigofie. O le Alzheimer's Association taʻu mai o se tagata e lagona ua tele le faapotopotoga e mafai ona auai sili atu i se vaega laʻititi. E leai se numera saʻo. E faalagolago i tagata nonofo, le potu ma le aofaʻi o aufaigaluega ma tagata fesoasoani e maua.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Se faataʻitaʻiga aoga: e mafai ea ona vaai tagata uma i foliga o le taʻitaʻi, faalogo manino ma faʻaoso atu i se fesoasoani i ni nai sekone? Afai leai, vaevae le vaega, faaopoopo fesoasoani, poʻo siitia i se potu laʻititi.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Mo se faʻalavelave tele, e pei o se konaseti o le Kilisimasi, nofo aufaigaluega ma tagata fesoasoani i le va o tagata nonofo, aua le nofo i itu o le puipui.
 
-## How should I set up the room and seating?
+## E faapefea ona ou setiina le potu ma nofoaga?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Taamilo poʻo alavai.** O le Practice Recommendations faamatala le sharing circle e sili ona lelei i se nofoaga e tele ina ia mafai ona nofo tagata uma i se taamilo, e leai ni leo faalavelave.
+- **Taʻitaʻi latalata ma le vaai.** Nofo nai lo le tu pe a mafai.
+- **Faalogo ma vaai muamua.** Nofo tagata e faalogo vaivai i latalata i le taʻitaʻi, i le itu e sili ai lo latou faalogo. Faamautu e i ai aisa mata ma faalogo. O le Alzheimer's Association taʻu mai e mafai ona faigata ai le fegalegaleai pe a faigata le vaai poʻo le faalogo.
+- **Malamalama mai i tua o tagata nonofo, e le o i tua o oe.** Aua le nofo tagata e vaai atu i le malamalama.
+- **Faaleaogaina le TV ma le leitio.** O le Alzheimer's Association fautua e aveese faalavelave o leo i taimi o musika.
+- **Naʻo se talanoa e tasi i le taimi.** O talanoa faatasi e faigata mo tagata ma le dementia ma tagata e faigata le faalogo, e pei ona taʻu mai e le Alzheimer's Association i lana [taʻiala o le Kilisimasi](https://www.alz.org/help-support/caregiving/holidays).
+- **Alavai saogalemu ma se tulaga filemu.** O se tagata e manaʻo e alu ese e tatau ona mafai ona alu faigofie, faatasi ma se aufaigaluega e savali faatasi ma ia.
 
-## Group activity ideas
+## Galuega o vaega ma manatu
 
-### Picture bingo
+### Bingo ata
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo ata suia numera i ata manino, e pei o se ipu tii, se taʻi poʻo se rosa, o lea e le tatau ai i se tasi ona mulimuli i se numera umi poʻo faitau tusi laʻititi.
 
-**How to run it:**
+**E faapefea ona faia:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Lolomi se pepa bingo mo tagata taitasi mai [Picture Bingo](/games/picture-bingo/) i le faatoʻaga Print. O pepa mafiafia e faigofie ona faaaogā. Faaaogā i le taimi lata mai.
+2. Tuʻu mai faʻailoga tetele e faigofie ona pulea, e pei o mea taʻalo, fa'ailoga ipu poʻo faaʻtoa laʻiti o pepa.
+3. Faaaogā le valaau i luga o le ata i se TV poʻo projector ina ia vaai uma tagata i le ata a o e taʻu le igoa.
+4. Taofi i le taimi o ata taʻitasi ma valaau se faamatalaga puupuu: "E iai se tasi o outou e mana'o e taʻu mai le tasi maile e iloa e ia?" poʻo "O le ā le mea e te iloa i lenei?"
+5. Faaauau le valaau seia oo ina tumu pepa uma. Ua faaiʻu tagata uma.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Faafetaia:** Faaaoga naʻo nai laʻuga mo tagata e faigata ona avea le pepa atoatoa. O se fesoasoani e mafai ona faaali atu le ata e tutusa mo se tasi e manaʻo ai. O nisi tagata e mafai ona filifili e uuina le ata a le valaau ma faaali atu i le vaega.
 
-### Sing-alongs
+### Pese faatasi
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+O musika o se gaioiga vaega e sili ona fiafia i ai. O le Alzheimer's Association taʻu mai e oo lava i laasaga mulimuli, o se tagata e mafai ona [tapping i se pese poʻo pese mai le tamaiti](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**E faapefea ona faia:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Filifili pese na tupu ai tagata, aua le filifili pese e fiafia ai le taitai. Fesili i aiga le mea e fiafia ai tagata taʻitasi.
+- Faaaoga musika e leai ni faʻasalalauga, o le taʻu o se mea e mafai ona faalavelave ai le Association.
+- Lolomi tusi pese i ituaiga tetele mo ē e faitau, ae aua le manaʻomia.
+- Ofo ipu tete'e, taamilo faʻaoso poʻo ie e wave.
+- Faamalosi le pa'i lima ma gaioiga, ma tumau le leo i le mamao lelei.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Faafetaia:** O nisi tagata o le a pese upu uma, isi o le a faaoso, nisi o le a pa'i le vae, ma nisi o le a faalogo naʻo. O mea uma e aofia ai. Vaai i [taʻiala o gaioiga o musika](/activities/music/) mo le sili atu.
 
-### Reminiscence groups
+### Vaega o manatu
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+O se vaega o manatu e faapotopoto i se autu, e pei o aʻoga, taʻavale muamua, kiona poʻo le taʻavaiʻā, e faaaogā ai ata, mea ma musika. O le taʻiʻiga o le talanoa lelei, e le o le toe manatua saʻo.
 
-**How to run it:**
+**E faapefea ona faia:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Filifili le autu e tasi ma aumai ni mea laʻititi e mafai ona latou faamau: se masini faʻafefiloi, se faʻapuipui pa, se pulou, se laulau faʻafanua.
+2. Tuʻu atu le mea e tasi i le taimi. Fesili fesili tatala: "Taʻu mai ia te aʻu e uiga i lenei," "O le ā le mea e te iloa?" "O ai na faaaogā se mea e pei o lenei?"
+3. Talia tali uma. Aua le toe faasaʻo se aso poʻo se mea moni.
+4. Taʻitaʻi le talanoa i manatu lelei. O taʻiala o le Practice Recommendations taʻu mai e tatau i tagata tausi ona taʻitaʻi le toe manatu i manatu lelei nai lo na mea e mafai ona faʻalavelave ai.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) o loo ofo pepa ata ma fesili tatala e tusa ma autu, e lelei e fai ai faʻamalamalamaga o talanoa. E sili atu manatu i [taʻiala o le toe manatuina](/activities/reminiscence/).
 
-### Finish the saying
+### Faaiʻu le faaupuga
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Faaupuga masani ("Le tupe ua teuina, e le tupe ua..."), e valaaulia ai tagata uma e valaau faatasi le iʻuga. Faaali [Finish the Saying](/games/finish-the-saying/) i luga o se faaaliga tele ma tuʻu i le vaega ina ia tali e pei o se leo e tasi. E i ai se fesili talanoa a le faaupuga taʻitasi. Afai e leai se tasi e taʻu le iʻuga, faaali ma alu i luma. E leai se tali saʻo poʻo se sese.
 
-### Large-print word search, together
+### Suʻesuʻega upu tetele, faatasi
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Faaali le [Word Search](/games/word-search/) tetele i luga o se faaaliga ma suʻe upu faatasi, poʻo lolomi kopi mo ē e fiafia e galue naʻo i latou i le laulau ma se peni. O upu e tafe naʻo i luga ma i lalo.
 
-### Gentle movement
+### Gaioiga malū
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Faamalolo nofoaga, tuʻu se pulu malū poʻo polone i le vaega, poʻo siva i le nofoaga i musika masani. Faʻaali gaioiga taʻitasi nai lo le faamatalaina.
 
-### Sorting and matching at the table
+### Faavasegaina ma faafetaiaʻi i le laulau
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Laulau laʻiti o tagata e tolu i le fa e mafai ona latou faavasegaina ata, lanu o le lalaga poʻo ipu faʻatasi. I luga o le ata, e mafai ona taʻalo [Picture Pairs](/games/picture-pairs/) ma ata e tuʻu i luga, ma se tagata e pa'i a o talanoa le laulau e uiga i ata taʻitasi.
 
-## How do I use your games on a big screen?
+## E faapefea ona ou faaaogā a matou taʻaloga i se faaaliga tele?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+O a matou taʻaloga e tamoe i se upegatafaʻilagi, o lea e mafai ona e faaaoga ai i se TV poʻo projector e leai se faapipiʻi.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Tatala le taʻaloga i se laptop poʻo tablet fesoʻotaʻi i le faaaliga e ala i se uaea poʻo casting.
+2. Faia le upegatafaʻilagi e atoa le faaaliga ma setiina le leo i se tulaga lelei.
+3. Tuʻu se taʻitaʻi e pa'i le taʻaloga a o valaau le vaega filifiliga. Po o tuʻu se tablet i se tagata nonofo e manaʻo i le sau.
+4. Taofi pe a sauni le vaega. O taʻaloga e leai ai se taimi, sikoa poʻo se iʻuga faamalosi.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ma [Conversation Cards](/games/conversation-cards/) e masani ona fetaui ma vaega. Vaai i uma filifiliga i [itulau o taʻaloga](/games/) a matou.
 
-## How do I adapt one activity for mixed abilities?
+## E faapefea ona ou fetaui se gaioiga mo tagata e eseese le malosi?
 
-Plan at least three ways to join every activity.
+Fuafua o leai se itiiti ifo i auala e lua e auai ai i gaioiga taʻitasi.
 
-| Activity | More independent | Some support | Most support |
+| Gaioiga | E sili atu le tutoʻatasi | Lagolago itiiti | Lagolago tele |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo ata | Su'e ma uuina ana lava ata | Fesoasoani faaali; tagata uuina | Uuina se pepa ata; faalogo ma matamata |
+| Pese faatasi | Pese, filifili le pese e sosoo | Faaoso, pa'i lima, faaaoga se ipu tete'e | Faalogo, uuina se ie, pa'i se lima |
+| Vaega o manatu | Taʻu tala | Tali ata fesili poʻo faaali | Uuina ma lagona le mea |
+| Suʻesuʻega upu | Galue i lana pepa lolomi | Suʻe upu i luga o le ata tetele ma se fesoasoani | Faalogo a o faitauina upu |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Mo tagata nonofo i laasaga mulimuli, le National Health Service taʻu mai e tatau ona sili ona faigofie gaioiga ma taulaʻi i lagona, e pei o musika, mea e taʻi ma le faamasaʻi lima. O se taimi e tasi ma se tasi i le taimi poʻo ina ua uma le vaega e sili atu ona faafetaiaʻi ai. Vaai i [gaioiga o laasaga mulimuli](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## E faapefea ona tautala taʻitaʻi i le vaega?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Faafeiloaʻi lava ia i taimi uma, ma faaaoga le igoa e manaʻo tagata taitasi.
+- Tautala faigofie, tuʻu se laasaga e tasi i le taimi, ma faaali muamua nai lo le taʻu.
+- Valaau fesili tatala ("Taʻu mai ia te aʻu e uiga i...") poʻo filifiliga faigofie, aua le fesili e pei o "E te manatua...?"
+- Aua le toe saʻo. Faafetaia tali uma.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+E sili atu manatu i [fesoʻotaʻiga](/caregiving/communication-tips/) a matou.
 
-## Ending well, and letting people leave
+## Faaiʻu lelei, ma tuʻu tagata e alu
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+O le taofi o se iʻuga lelei. Matamata mo faailoga o le vaivai, le lototele poʻo le popole, ma tuʻu se fesoasoani e ofo se savali poʻo se nofoaga filemu i se isi nofoaga. O se tasi e moe i se pese faatasi e mafai o le filemu lava ia.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Faataʻa vaega uma i le auala tutusa, faatasi ma se pese masani poʻo se faafetai laʻititi, ina ia lelei ma faigofie le iʻuga. Ina ua mavae, tusi laʻititi le mea na lelei ma o ai na fiafia i le mea. O faamatalaga ia e faafetaiaʻi ai le vaega e sili ona lelei i le isi.

@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "גרייטן אַ טאַבלעט אָדער טעלעפֿאָן פֿאַר אַ מענטש מיט דעמענטשיע"
+seoTitle: "אײַנשטעלן אַ טאַבלעט אָדער טעלעפֿאָן פֿאַר דעמענטשיע"
+description: "שריט־פֿאַר־שריט אײַנשטעלן אַ טאַבלעט אָדער טעלעפֿאָן פֿאַר אַ מענטש מיט דעמענטשיע: נאָר איין אַפּ, גרעסערע שריפֿטן, ווייניקער באַנאַכריכטיקונגען, אַ פּשוטער הויפּט־עקראַן, לאַוטקייט און פּריוואַטקייט."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  מאַכט אַ טאַבלעט אָדער טעלעפֿאָן פּשוטער, איידער איר גיט עס דעם מענטש. שפּאַרט עס צו איין אַפּ מיט Guided Access אויף iPad און iPhone אָדער מיט app pinning אויף Android, אָדער ניצט Apple's Assistive Access פֿאַר אַ פּשוטע אויסזעונג. מאַכט דעם טעקסט גרעסער, שטעלט אָפּ די באַנאַכריכטיקונגען, האַלט בלויז אײַניקע אַפּס אויף איין הויפּט־עקראַן, שטעלט די לאַוטקייט, נוצט אַ סטענדער און באַגרענעצט די אַפּ־דערלויבענישן. נוצט עס צוזאַמען, צוזאַמען מיט טעטיקייטן אָן עקראַן.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) און app pinning (Android) האַלטן דעם עקראַן אויף איין אַפּ, ביז איר שפּאַרט עס אָפּ."
+  - "Apple's Assistive Access פֿאַרשאַפֿט אַ פּשוטע אויסזעונג, געמאַכט פֿאַר מענטשן מיט באַהינדערונגען אין דענקען."
+  - "מאַכט דעם טעקסט גרעסער און שטעלט אָפּ באַנאַכריכטיקונגען און פּאָפּ־אַפּס, אַזוי אַז גאָרנישט שטערט אָדער פֿאַרװירט."
+  - "האַלט בלויז אײַניקע באַקאַנטע אַפּס אויף איין הויפּט־עקראַן, און שטעלט די לאַוטקייט איידער איר הייבט אָן."
+  - "אַ סטענדער און אַ שטענדיק לאָדן־ארט מאַכן דעם אַפּאַראַט גרינגער צו נוצן און צו געפֿינען."
+  - "קוקט אָן די אַפּ־דערלויבענישן און דאַטן־טיילונג: HIPAA שיצט בכלל ניט וואָס עס איז געשפּײכלט אויף אַ פּערזענלעכן אַפּאַראַט."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "ווי פֿאַרהיט איך, אַז אַ מענטש מיט דעמענטשיע זאָל ניט פֿאַרלאָזן אַ אַפּ אויפֿן iPad?"
+    a: "שאַלט Guided Access אָן אין Settings > Accessibility > Guided Access און שטעלט אַ פּאַראָל. עפֿנט די אַפּ, דריקט דריי מאָל דעם אויבערשטן קנעפּל (אָדער דעם Home־קנעפּל אויף עלטערע iPads), און טאַפּט Start. דער iPad בלײַבט אין יענער אַפּ, ביז עמיצער גיט אײַן דעם פּאַראָל."
+  - q: "ווי שפּאַר איך אַ Android־טאַבלעט צו איין אַפּ?"
+    a: "שאַלט app pinning אָן אין דער Settings־אַפּ, געוויינטלעך אונטער Security (מאָל Security & location) > Advanced > App pinning. דערנאָך עפֿנט די אַפּ, עפֿנט Overview, טאַפּט דעם אַפּ־ייקאָן אויבן און טאַפּט Pin. צום אָפּשפּאַרן דאַרפֿט איר אײַער PIN, מוסטער אָדער פּאַראָל."
+  - q: "איז עס זיכער צו נוצן Guided Access אויפֿן טעלעפֿאָן פֿון דעם מענטש?"
+    a: "זײַט פֿאָרזיכטיק. Apple זאָגט, אַז Crash Detection און Emergency Services זענען ניט פֿאַראַן בשעת Guided Access איז אָן. אויב דער מענטש פֿאַרלאָזט זיך אויף זײַן טעלעפֿאָן פֿאַר נויטרופֿן, ניצט Guided Access נאָר בשעת איר זענט בײַ אים, אָדער דענקט וועגן Assistive Access אַנשטאָט."
+  - q: "ווי פֿיל עקראַן־צײַט איז גוט פֿאַר אַ מענטש מיט דעמענטשיע?"
+    a: "עס איז ניטאָ קיין באַשטימטע צאָל. קורצע, געמײנזאַמע זיצונגען, געמישט מיט שפּאַציר, מוזיק, הויזאַרבעט און שמועס, מאַכן אַ פֿולערן טאָג ווי לאַנגע שטרעקעס אַליין מיטן עקראַן. אויב דער אַפּאַראַט מאַכט אומצופֿרידנקייט אָדער פֿאַרדרענגט אַנדערע טעטיקייטן, ניצט אים ווייניקער."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+אַ טאַבלעט קען זײַן אַ שיינער וועג צו טיילן בילדער, מוזיק און פּשוטע שפּילן. עס קען אויך זײַן פֿאַרװירנדיק: אַ פֿאַלש טאָפּ עפֿנט אַן אַנדערע אַפּ, אַ באַנאַכריכטיקונג פּאָפּט אויף, דער טעקסט איז קליין, אָדער דער עקראַן ווערט פֿינצטער מיטן שפּיל. אַ ביסל אײַנשטעלן פֿון אײַער זײַט לײזט דאָס רובֿ פֿון דעם.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+די שריט נוצן די איינגעבויטע אײַנשטעלונגען פֿון iPhone, iPad און Android. נעמען פֿון מענוס קענען זיך ענדערן צווישן ווערסיעס און פֿאַבריקאַנטן, אַזוי אויב עפּעס קוקט אויס אַנדערש, פֿאָלגט דעם לינק צו דער Apple- אָדער Google־זײַט פֿאַר אײַער אַפּאַראַט. מאַכט די אײַנשטעלונג אײַך אַלײן, איידער איר זעצט זיך צוזאַמען.
 
-## Should someone with dementia use a tablet or phone?
+## זאָל אַ מענטש מיט דעמענטשיע נוצן אַ טאַבלעט אָדער טעלעפֿאָן?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+עס הענגט פֿון דער פּערזאָן. פֿיל מענטשן האָבן פֿרײד צו נוצן אַ טאַבלעט מיט איינעם, וואָס זיצט לעבן זיי, אַפֿילו אויב זיי וואָלטן עס אַליין ניט געקענט. הייבט אָן מיט צוזאַמענאַרבעט, מיט איין אַפּ אָפֿן, פֿאַר עטלעכע מינוט. אויב עס ברענגט פֿרײד און שמועס, פֿאָרזעצט עס. אויב עס ברענגט פֿאַרװירונג אָדער אומצופֿרידנקייט, קען אַ פֿאָטאָ־אַלבאָם, געדרוקטע בלעטער אָדער מוזיק פּאַסן בעסער. אונזערע [פּרינטאַבלע טעטיקייטן](/activities/printable/) זענען איין אַלטערנאַטיװ.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+אַ טאַבלעט איז מערסטנס גרינגער ווי אַ טעלעפֿאָן: דער עקראַן און די בילדער זענען גרעסער, און עס איז ניט אויך דער מענטשס װעג צו רופֿן הילף אין נויט.
 
-## How do I lock a tablet or phone to one app?
+## װי שפּאַר איך אַ טאַבלעט אָדער טעלעפֿאָן צו איין אַפּ?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+נוצט Guided Access אויף iPhone און iPad, אָדער app pinning אויף Android. ביידע האַלטן דעם עקראַן אויף אַ איינציקער אַפּ, ביז איר גיט אײַן אַ קאָד, אַזוי אַז אַ פֿאַלש טאָפּ אָדער סוויפּ קען ניט עפֿענען עפּעס אַנדערש.
 
-### iPad and iPhone: Guided Access
+### iPad און iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+פֿון [Apple's Guided Access־אָנװײַזונגען](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. עפֿנט **Settings**, טאַפּט **Accessibility**, דערנאָך טאַפּט **Guided Access** און שאַלט עס אָן.
+2. אונטער **Passcode Settings**, שטעלט אַ Guided Access פּאַראָל. איר קענט אויך דערלויבן Face ID אָדער Touch ID.
+3. אָפּציע: אונטער **Display Auto-Lock**, קלײַבט ווי גיך דער עקראַן שפּאַרט זיך בשעת אַ זיצונג, אַזוי אַז ער ווערט ניט פֿינצטער מיטן שפּיל.
+4. עפֿנט די אַפּ, וואָס איר ווילט נוצן.
+5. דריקט דריי מאָל דעם זײַטיקן קנעפּל (iPhone), דעם אויבערשטן קנעפּל (iPad), אָדער דעם Home־קנעפּל אויף עלטערע אַפּאַראַטן.
+6. אָפּציע: ציִט אַ קרײַז אַרום יעדן טײל פֿון עקראַן, וואָס זאָל ניט ענטפֿערן אויף אַ טאַטש. טאַפּט **Options** (אָדער **Session Settings**), כּדי אָפּצושטעלן די לאַוטקייט־קנעפּלעך אָדער צו פֿאַרהיטן, אַז דער עקראַן זאָל ניט דרײען.
+7. טאַפּט **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+צום ענדיקן די זיצונג, דריקט דעם זעלבן קנעפּל נאָך אַ מאָל, גיט אײַן דעם פּאַראָל, און טאַפּט **End**. Apple זאָגט, אַז אויף עטלעכע עלטערע ווערסיעס דריקט מען אַנשטאָט צוויי מאָל.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**װיכטיק:** Apple זאָגט, אַז Crash Detection און Emergency Services זענען ניט פֿאַראַן בשעת אַ Guided Access־זיצונג. לאָזט Guided Access ניט לויפֿן אויף אַ טעלעפֿאָן, וואָס דער מענטש קען דאַרפֿן פֿאַר נויטרופֿן.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+פֿון [Google's Android־הילף װעגן עקראַן־פּינען](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. עפֿנט די **Settings**־אַפּ.
+2. טאַפּט **Security** (אָדער **Security & location**), דערנאָך **Advanced**, דערנאָך **App pinning**. אויב איר טרעפֿט עס ניט, קוקט אין דער הילף־זײַט פֿון אײַער אַפּאַראַט־פֿאַבריקאַנט.
+3. שאַלט **App pinning** אָן. אײַער PIN, מוסטער אָדער פּאַראָל וועט מען דאַרפֿן פֿאַר אָפּפּינען.
+4. עפֿנט די אַפּ, וואָס איר ווילט. שוויבט אַרויף צום מיטן פֿון עקראַן און האַלט, כּדי צו עפֿענען Overview (אָדער טאַפּט Overview מיט 3-קנעפּל נאַוויגאַציע).
+5. אויבן אויף דער אַפּ־פֿאָרשאָו, טאַפּט דעם אַפּ־ייקאָן, דערנאָך טאַפּט **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+צום אָפּפּינען מיט געסט־נאַוויגאַציע, שוויבט אַרויף און האַלט. מיט 3-קנעפּל נאַוויגאַציע, טאַפּט און האַלט **Back** און **Overview**. מיט 2-קנעפּל נאַוויגאַציע, טאַפּט און האַלט **Back** און **Home**. דערנאָך גיט אײַן אײַער PIN, מוסטער אָדער פּאַראָל.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## איז עס פֿאַראַן אַ פּשוטערער מאָדוס פֿאַר דעם גאַנצן iPhone אָדער iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+יאָ. Apple's Assistive Access ענדערט דעם געוויינטלעכן הויפּט־עקראַן מיט אַ פּשוטערן. [Apple באַשרײַבט עס](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ווי געמאַכט צו מאַכן iPhone גרינגער פֿאַר מענטשן מיט באַהינדערונגען אין דענקען, זיך אַליין צו נוצן, מיט גרעסערע זאַכן אויפֿן עקראַן און מער פֿאָקוסירטע פֿעיִקייטן. Apple פֿאַרשאַפֿט [דעם זעלבן פֿיטשער אויפֿן iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **װער שטעלט עס אָן.** Apple שלאָגט פֿאָר, אַז אַ פֿאַרטרויטער הילפֿער, ווי אַ משפּחה־מיטגליד אָדער אַ זאָרגער, װאָס קען דעם מענטשן, העלפֿט אויסקלײַבן די אַפּס און פֿעיִקייטן.
+- **װו צו אָנהייבן.** גײט צו **Settings > Accessibility > Assistive Access**, טאַפּט **Set Up Assistive Access**, דערנאָך **Continue**.
+- **אַפּס.** איר קלײַבט װעלכע אַפּס זאָלן דערשײנען. עטלעכע Apple־אַפּס האָבן ספּעציעלע פּשוטע ווערסיעס, און רובֿ אַנדערע אַפּס קען מען צולייגן אין זייער געוויינטלעכן דיזײן.
+- **אויסלייג.** קלײַבט **Rows** (אַ ליסטע, װאָס איז גרינג צו לייענען) אָדער **Grid** (גרעסערע זאַכן, װאָס באָנט בילדער און אייקאָנס).
+- **פּאַראָל.** איר שטעלט אַ באַזונדערן Assistive Access פּאַראָל צו אַרײַנגיין, אַרויסגיין אָדער ענדערן די אײַנשטעלונגען. Apple רעקאָמענדירט אויפֿצושטעלן אַ Apple Account אַלס װיִדערװינונג בײַם אײַנשטעלן, װײַל אָן אים מוז מען, אויב מען פֿאַרגעסט דעם פּאַראָל, דעם אַפּאַראַט צוריקשטעלן.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access קען פּאַסן פֿאַר אַ מענטש, װאָס ניצט זײַן אייגענעם אַפּאַראַט יעדן טאָג. Guided Access אָדער app pinning איז שנעלער פֿאַר אַ געמײנזאַמע שפּיל־זיצונג.
 
-## How do I make text and pictures bigger?
+## װי מאַך איך טעקסט און בילדער גרעסערע?
 
-Increase the text and display size, then check that buttons still fit on screen.
+פֿאַרגרעסערט דעם טעקסט און דעם דיספּלײ־גרײס, און קוקט דערנאָך צי די קנעפּלעך פּאַסן נאָך אויפֿן עקראַן.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone און iPad.** לויט [Apple's font size instructions](https://support.apple.com/en-us/102453), גײט צו **Settings > Display & Brightness > Text Size** און שטופּט דעם שלײדער. פֿאַר נאָך גרעסערן טעקסט, גײט צו **Settings > Accessibility > Display & Text Size > Larger Text**. Apple באַמערקט, אַז זייער גרױסער טעקסט קען מאַכן עטלעכע קנעפּלעך שװערער צו טאַפּן, אַזוי שטעלט עס צו אויב נייטיק.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** לויט [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), עפֿנט **Settings** און זוכט **Font size**, דערנאָך שטופּט דעם שלײדער. זוכט **Display size** צו מאַכן אַלץ אויפֿן עקראַן גרעסער. איר קענט אויך אָנשאַלטן **Bold text** אונטער **Accessibility > Display size and text**. עטלעכע אַפּס פֿאָלגן ניט די אײַנשטעלונגען.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+אין שפּילן װי [Picture Pairs](/games/picture-pairs/) און [Find the Same](/games/find-the-same/), קענט איר אויך קלײַבן ווייניקער קעסטלעך אָדער ברירות, װאָס מאַכט עס פּשוטער אויפֿן עקראַן.
 
-## How do I stop notifications and pop-ups?
+## װי שטעל איך אָפּ באַנאַכריכטיקונגען און פּאָפּ־אַפּס?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+שטעלט אָפּ באַנאַכריכטיקונגען פֿאַר אַפּס, װאָס איר דאַרפֿט ניט, און נוצט Do Not Disturb בשעת טעטיקייטן.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone און iPad.** גײט צו **Settings > Notifications**, טאַפּט אַ אַפּ אונטער **Notification Style**, און שטעלט אָפּ **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). צו שטילן רופֿן, אַלאַרמען און באַנאַכריכטיקונגען אויף אַ צײַט, עפֿנט Control Center און שאַלט אָן **Do Not Disturb** פֿון דעם **Focus**־קנעפּל ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). איר קענט עס פּלאַנירן אונטער **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** שװײַפֿט אַראָפּ פֿון דער שפּיץ פֿון עקראַן און טאַפּט **Do Not Disturb**, אָדער גײט צו **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). אונטער **Notification filters** קענט איר קלײַבן װעלכע מענטשן און אַפּס קענען נאָך דורכקומען. די אײַנשטעלונגען װערן פֿאַרשײדן לויט פֿאַבריקאַנט.
 
-## How do I make a simple home screen?
+## װי מאַך איך אַ פּשוטן הויפּט־עקראַן?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+האַלט עטלעכע באַקאַנטע אַפּס אויף איין עקראַן און רוקט די איבעריקע אַוועק פֿון אויג. עס איז ניטאָ קיין איין אײַנשטעלונג דערפֿאַר; עס הענגט פֿון אָפּרײַמען די אומאָרדנונג.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **קלײַבט דרײַ ביז זעקס אַפּס.** למשל, פֿאָטאָס, מוזיק, אַ ווידעאָ־רופֿ־אַפּ און איין שפּיל.
+- **שטעלט זיי אויפֿן ערשטן עקראַן,** אַלע מאָל אויף די זעלבע ערטער, און רוקט אַלץ אַנדערע אויף אַ צווייטן עקראַן אָדער אין אַ טעקע.
+- **נוצט אַ פּשוטן, הויך־קאָנטראַסטישן הינטערגרונט,** װי אַ איין פֿאַרב אָדער איין באַקאַנט פֿאָטאָ, כּדי די אייקאָנס זאָלן זיך אָפּהייבן.
+- **מעקט אַפּס, װאָס איר דאַרפֿט ניט.** ווייניקער אַפּס מיינט ווייניקער מעגלעכקייטן פֿאַר פֿאַרװירונג און ווייניקער דאַטן, װאָס װערן געזאַמלט.
+- **דענקט וועגן Assistive Access** אויף Apple־אַפּאַראַטן, אויב איר ווילט, אַז דער אַפּאַראַט זאָל דאָס פֿאַר אײַך טאָן.
 
-## What about volume and sound?
+## װאָס איז מיט לאַוטקייט און קלאַנג?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+שטעלט אַ באַקוועם לאַוטקייט, איידער איר גיט דעם אַפּאַראַט. מיט Guided Access קענט איר אָפּשטעלן די לאַוטקייט־קנעפּלעך, אַזוי אַז זיי ענדערן זיך ניט בשעת דער טעטיקייט. קוקט צי די געהער־אַפּאַראַטן זענען אַרײַן און אַרבעטן.
 
-## Where should the tablet live?
+## װוּ זאָל די טאַבלעט שטיין?
 
-Give it a stand and a permanent charging spot.
+גיט עס אַ סטענדער און אַ שטענדיקן לאָדן־ארט.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **אַ סטענדער אָדער קעיס,** װאָס האַלט די טאַבלעט אויפֿרעכט בײַם טיש, אַזוי אַז קײנער דאַרף זי ניט האַלטן, און צײַגן איז גרינגער.
+- **איין לאָדן־ארט,** װאָס רירט זיך ניט, אידעאַל אַ לאָדן־סטענדער אויף אַ טיש אין אַ צימער, אין וועלכן איר זענט יעדן טאָג. די טאַבלעט איז שטענדיק געלאָדן און שטענדיק אויף דער זעלבער אָרט.
+- **פֿאַרמינערט גלאַנץ.** שטעלט דעם עקראַן אַוועק פֿון אַ העל פֿענצטער.
 
-## How much screen time is okay?
+## װי פֿיל עקראַן־צײַט איז גוט?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+עס איז ניטאָ קיין ריכטיקע צאָל מינוטן. שטרעבט נאָך קורצע, געמײנזאַמע זיצונגען, אַלס אײנע פֿון אַ גאַנצן טאָג, װאָס כּולל אויך באַוועגונג, מוזיק, הויזאַרבעט, שמועס און צײַט אין דער פֿרישער לופֿט. װײַל די אומרו אין שפּעטן טאָג קען װאַקסן, קוקט צו האַלטן עקראַן־טעטיקייטן אין דער פֿרי פֿון טאָג. זעט [רויקע טעטיקייטן אין שפּעטן נאָכמיטאָג](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+אַ טאַבלעט צוזאַמען נוצן, און ניט װי אַ בעיביסיטער, האַלט עס געזעלשאַפֿטלעך. אונדזער גײַד װעגן [געמײנזאַמע שפּילן](/caregiving/how-to-play-together/) דערקלערט װי.
 
-## How do I protect their privacy on the device?
+## װי באַשיץ איך זייער פּריוואַטקייט אויפֿן אַפּאַראַט?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+באַגרענעצט װאָס אַפּס קענען זאַמלען, און טראַכט ניט, אַז געזונטקייט־פּריוואַטקייט־געזעץ דעקט דאָס. דער U.S. Department of Health and Human Services (HHS) [דערקלערט](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), אַז די HIPAA־רעגלן שיצן בכלל ניט די געזונטקייט־אינפֿאָרמאַציע, װאָס איז געשפּײכלט אָדער אָפּגערופֿן אויף פּערזענלעכע טעלעפֿאָנען און טאַבלעטן. אין רובֿ פֿאַלן שיצט HIPAA אויך ניט די דאַטן, װאָס מען גיט אײַן אין אַפּס פֿאַר פּערזענלעכן נוצן, אַחוץ אויב די אַפּ קומט פֿון אַ באַדעקטן געזונטקייט־פּראָװײדער, געזונטקייט־פּלאַן אָדער פֿון זייערע געשעפֿטס־שותפֿים.
 
-HHS suggests:
+HHS רעקאָמענדירט:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- זיך אויסמײַדן פֿון ניט־נייטיקע אָדער צופֿעליקע אַפּס, באַזונדערס „פֿריי“־אַפּס;
+- ניט געבן די אַפּס צוטריט צו אָרט, אַחוץ אויב זיי דאַרפֿן עס טאַקע, למשל מאַפּס.
 
-Also consider:
+אויך קוקט אויף:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **נוצט אַ פּאַראָל** אויפֿן אַפּאַראַט, און האַלט אַ נאָטיץ וווּ זיכער.
+- **קוקט איבער די דערלויבענישן** פֿאַר פֿאָטאָס, קאַמעראַ, מיקראָפֿאָן, קאָנטאַקטן און אָרט, און שטעלט אָפּ יעדן, װאָס אַ אַפּ דאַרף ניט.
+- **קוקט װאָס אַ אַפּ זאַמלט,** איידער איר אינסטאַלירט. אונדזער גײַד װעגן [װי מען קלײַבט דעמענטשיע־אַפּס און שפּילן](/caregiving/choosing-apps-and-games/) האָט אַ פּריוואַטקייט־רשימה.
+- **זײַט פֿאָרזיכטיק מיט משפּחה־פֿאָטאָס.** טײלט בלויז פֿאָטאָס, װאָס דער מענטש װאָלט זיך געפֿילט באַקוועם מיט, און װיסט װוּ די אַפּ שפּײכלט זיי. אין [Photo Pairs](/games/photo-pairs/) בלײַבן די פֿאָטאָס, װאָס איר קלײַבט, אין אײַער בלעטערער.
+- **שטעלט אָפּ קויפֿן אין דער אַפּ** אָדער מאַכט אַוועק צאָלונג־פּרטים פֿון קאָנטנס, װאָס דער מענטש ניצט.

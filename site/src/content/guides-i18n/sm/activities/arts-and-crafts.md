@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Galuega Faafanua ma Galuega Lima mo Matua ma le Dementia"
+seoTitle: "Galuega Faafanua mo le Dementia: Mo Matua, E Le Pei o Tamaiti"
+description: "Manatu galuega faafanua ma galuega lima mo tagata ma le dementia, mai le vali lanu e oo i le faaulu fugalaʻau; auala e setiina, faafetaiʻi ma le faagasologa."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  E lelei galuega faafanua ma galuega lima mo matua ma le dementia pe a faʻataʻitaʻi ma le aʻoaʻoina: vali lanu, faapipiʻi ata mekasini, faaulu fugalaʻau, palapala, poʻo itulau lanu matua. Setiina naʻo nai mea, fesoasoani i le amataga, talanoa i le galuega, ma faia le taimi faatasi le mea taua. O se oloa faamaeaina e filifilia.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Filifili mea ma manatu e foliga matua, e pei o pepa vali, fugalaʻau moni ma ata mekasini, e le o galīsi, faʻapipiʻi fua poʻo itulau tamaiti."
+  - "Taulaʻi i le faagasologa: lanu, lagona o le palapala, talanoa. O le galuega faamaeaina o se mea fiafia naʻo, e le o le iʻuga."
+  - "Foaʻi se mafuaaga pe a mafai, e pei o se kata mo se tamaʻitaʻi uo poʻo se faaulu mo le laulau."
+  - "Fesoasoani i le tagata e amata, ona tu i tua. O le amataga o se paʻu faatasi e masani ona lava."
+  - "E le manaʻomia ona faamaeaina galuega i le taimi e tasi, ma e lelei lava le tuʻu vave pe a uma."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "E faapefea ona ou aloese galuega faafanua mai le foliga tamaiti?"
+    a: "Faaaoga mea faafanua moni, mataupu matua ma se faaaloalo. Suia galīsi ma itulau tamaiti mo pepa vali, ie, fugalaʻau, ata mekasini ma itulau lanu faamatala. Aua le ofo se faamanuiaga e pei ona e faamanuia ai le ata o se tamaiti; talanoa e pei ona e talanoa ai ma se uo matua."
+  - q: "O ā galuega faafanua e aoga i le laasaga mulimuli o le dementia?"
+    a: "E sili ona lelei galuega faigofie ma lagona i taimi mulimuli: vali susu tetele i se pelu tele, faamasaʻi palapala malū, faaulu nai fugalaʻau i se ipu, poʻo faavasegaina ie lanu e ala i le lagona. E mafai ona e faamalo le faagaioiga faatasi. O le matamata i lau vali ma talanoa e uiga i lanu o se auala foi e auai ai."
+  - q: "E faapefea pe a fai mai latou e le mafai ona latou tusi?"
+    a: "Aveese le mamafa. Taumafai galuega e leai se tali saʻo, e pei o le vali susu, se faapipiʻi, poʻo le faaulu fugalaʻau. E mafai foi ona e fai atu e te manaʻo se fesoasoani e uiga i se mea patino, e pei o le filifili lanu mo se kata, ina ia lagona le galuega e pei o se alofa, ae le o se faataʻitaʻiga."
+  - q: "E matua ea itulau lanu mo tagata matua?"
+    a: "E le o le mea lea pe a faia mo tagata matua. Filifili itulau ma mataupu matua e pei o faatoaga, ie faapipiʻi, taavale poʻo laufanua, ma faaali ma le fiafia nai lo se aʻoaʻoga. O itulau lanu a matou e mafai ona lolomi poʻo lanu i luga o se masini."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Galuega faafanua ma galuega lima e foaʻi ai i tagata ma le dementia se auala e faaalia ai i latou lava e le faalagolago i le iloaina o upu saʻo. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) taʻu mai o galuega faafanua e mafai ona aumai [lagona o le manuia ma se mafuaaga](https://www.alz.org/help-support/caregiving/daily-care/art-music) ma se avanoa e faaalia ai le lava ia, mo le tagata e tausia e pei o le tagata ma le dementia. Le mea taua o le tumau o mea i se auala matua, faigofie ma e leai se faamamafa. O lenei itulau o loo tuuina atu ai galuega faapitoa, auala e setiina ai ma pe faapefea ona fetaui pe a suia mea.
 
-## What makes an art activity adult and not childish?
+## O le ā e mafai ai ona matua se galuega faafanua ae le pei o se tamaiti?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+O se galuega faafanua matua e faaaoga ai mea moni, mataupu matua ma se auala faaaloalo. Ua fautua e le Alzheimer's Association ia tumau galuega i se laasaga matua ma ia aloese mea e foliga ai o le faalumaina poʻo le tamaiti.
 
-| Feels childish | Feels adult |
+| E foliga tamaiti | E foliga matua |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Galīsi, faapipiʻi fua, mata faigofie | Pepa vali, lauga, fugalaʻau pressed |
+| Itulau lanu e foliga tamaiti | Itulau lanu o faatoaga, kuiti, taavale poʻo laufanua |
+| "Manuia" mo lau uma | Talanoa moni: "O lanu lan lea e lelei lava ma le lanu moana" |
+| O se galuega e leai se aoga | O se kata mo se uo, se mea e faaulu ai le laulau, se meaalofa |
+| Faatonuga faitauina e pei o se aʻoaʻoga | O se valaaulia: "E te fesoasoani mai ea i lenei mea?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Mafaufau i le tofi o le tagata. O se tasi na fiafia i galuega fatafata e mafai ona fiafia i le taʻalo o lauga. O se faʻainisinia ua litaea e mafai ona fiafia i se seti fausaga ma vaega tetele poʻo mea e faavasega ai mea uʻamea mo se galuega. O se faiaoga anamua e mafai ona fiafia i le faia o kata.
 
-## Why focus on the process, not the product?
+## Aisea e taulaʻi ai i le faagasologa, e le o le oloa?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Ona o le taimi faatasi o le mea taua. O le taʻiala a le Alzheimer's Association i [galuega i le fale](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) taʻu mai taulaʻi i le faagasologa, e le o le iʻuga. O se ata e na o le lanu moana e tumau ai o se ata. O se faapipiʻi e tolu ata e tumau ai o se faapipiʻi.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ua taʻu foi e le Association o se tagata faafanua matua e mafai ona lagona le faigata i suiga o lana galuega, ae o se tagata faafanua faʻafiafia e mafai ona fiafia i se avanoa fou e faaalia ai le lava ia. Afai o le tagata sa atamai i galuega faafanua, taumafai i se faiga eseese mai lea na ia atoatoa ai, ina ia lagona e pei o taʻaloga nai lo se faatusatusaga.
 
-## Arts and crafts ideas to try
+## Galuega faafanua e taumafai ai
 
-Each idea includes how to make it simpler if it becomes hard.
+O galuega taʻitasi e aofia ai le auala e faigofieina ai pe a faigata.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Vali susu.** Susu se pepa vali mafiafia ma tuʻu le tagata e tuʻu lanu i luga ma se paʻu tele. O lanu e alu ese lava ia, o lea e leai ai se taunuuga sese. *Faigofie:* ofo naʻo lanu e lua, poʻo se paʻu tele ma vai i luga o pepa pouliuli e faaali ai faailoga o le vai.
+2. **Faapipiʻi mekasini.** Tipi ata mai mekasini o faatoaga, kuka, taavale, malaga poʻo galuega muamua a le tagata. Tuʻu le tagata e filifili ma faapipiʻi ata i luga o pepa mafiafia. *Faigofie:* ofo ata e fa ua tipi muamua ma se pelu, ma faia le faapipiʻi faatasi.
+3. **Faaulu fugalaʻau.** O le Alzheimer's Foundation of America fautua e [faaulu fugalaʻau ua tipi ma lau](https://alzfdn.org/dementia-activity-gardening/) i faʻataʻitaʻiga masani o le vaitau. Faaaoga se ipu mafiafia ma tumau, ma fuaʻi ua tipi muamua. *Faigofie:* tuʻu nai fuaʻi i se ipu laʻititi, se tasi i le taimi.
+4. **Kata o fugalaʻau pressed.** Faamamafa fugalaʻau mai se fuafuaga i itulau tusi mo le vaiaso, ona faapipiʻi lea i luga o pepa kata mafiafia. *Faigofie:* e te tuʻu le paʻu, latou te faamamafa le fugalaʻau i lalo.
+5. **Itulau lanu matua.** Filifili itulau ma laina manino ma mataupu moni. O itulau lanu a matou [e mafai ona lolomi](/games/coloring/) poʻo lanu i luga o le masini e ala i le pa'i i se lanu, ona vaega lea o le ata. *Faigofie:* vaega tetele, lanu itiiti, peni tetele.
+6. **Palapala malū.** Ia faamalulu, faamamafa ma faatulaga palapala malū poʻo palapala faʻafoi. Faamamafa se laulau i le palapala ma tuʻu se lau i luga. *Faigofie:* o le faamalulu ma le faamamafa e atoatoa lava ia se galuega. Mataʻituina le tagata e aua le tuʻu le palapala i lona gutu.
+7. **Faia kata.** O le Alzheimer's Association fautua e faia se galuega moni: "Matou te auina atu se kata faamalosi i se uo. E te fesoasoani mai ea?" O pepa kata muamua ma ni faʻapipiʻi fugalaʻau poʻo ni stamp e lelei.
+8. **Faʻapipiʻi album.** Faʻapipiʻi kopi o ata anamua, kata poseta poʻo fa'ailoga tikiti i itulau album faatasi. Talanoa i tala a o faia. Vaai i [taʻiala o le toe manatuina](/activities/reminiscence/) mo auala malū e talanoa ai i le taimi ua mavae.
+9. **Laupepa lima ma faatotoʻa.** Faapipiʻi laʻau o corduroy, velvet, burlap ma silk i luga o pepa mafiafia. O le faia o le galuega o le mea taua; o le pa'i i ai ina ua uma o isi. E sili atu manatu i [taʻiala o lagona](/activities/sensory/).
+10. **Faamaeaina laau.** Mo se tasi na fiafia i galuega laau, o le faamamaina o se laupapa laau poʻo le vali o se fale manu ua sauni ua faigofie. Aveese mea tuʻia ma taʻitaʻia.
+11. **Vali i musika.** Taʻu se pese e fiafia ai ma vali faailoga poʻo lanu e fetaui ma le mafaufau. Lenei e faʻatasi ai galuega e lua e masani ona fiafia ai tagata. Vaai i [gaioiga o musika](/activities/music/).
 
-## How do I set up an art session?
+## E faapefea ona ou setiina se sauniga faafanua?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Sauni muamua.** Tipi, faamamā ma setiina mea uma aʻo leʻi valaʻau le tagata. O le faatali e suʻe ai le kasi e mafai ona e galo ai le taimi.
+2. **Tumau le laʻititi.** Lanu e to lua poʻo tolu, pelu e tasi, pepa e tasi. O le tele o filifiliga e mafai ona faalavelave ai.
+3. **Puipui le laulau.** O se pepa palasitika poʻo se ie matutu e faamautu ai e le popole i le paʻū.
+4. **Nofo itu i itu.** Galue i lau lava galuega i le itu o latou. E lagona e pei o se galuega faatasi, e le o le mataʻituina.
+5. **Fesoasoani latou e amata.** O le Alzheimer's Association taʻu mai e mafai ona e manaʻomia le amata o le gaioiga o le pelu faatasi ma le tagata. A amata, e toatele tagata e faaauau pea.
+6. **Talanoa a o galue.** Faamatala lanu ma palapala, poʻo ia taʻu mai le galuega ma tala. Aua le fesili e pei o le fesili o le suʻesuʻega, e pei o "O le ā lenei?"
+7. **Ia tuʻu le taimi e tele.** E le manaʻomia ona faamaeaina se galuega i le nofoaga e tasi.
 
-## How do I adapt art as dementia changes?
+## E faapefea ona ou fetaui galuega faafanua pe a suia le dementia?
 
-| Stage | What tends to work | What to adjust |
+| Laasaga | O le mea e masani ona lelei | O le mea e tatau ona suia |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Muamua | Aʻoaʻoga, lanu faamatala, album o ata, faia o kata, vali mai se ata | Ofo filifiliga o galuega; tumau le faʻaagafesootai |
+| Waenā | Faapipiʻi ata ua tipi muamua, vali susu, faaulu fugalaʻau, lanu i vaega tetele | Laasaga e tasi i le taimi; e e faia le tipi ma le faapipiʻi |
+| Mulimuli | Susu papae lautele, faamasaʻi palapala, pa'i lauga, matamata i lau vali | Taulaʻi i lagona; taʻitaʻia le lima malū pe a talosaga |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+O le National Health Service fautua e i laasaga mulimuli, galuega e masani ona faigofieina ma taulaʻi i lagona. O le matamata i se isi tagata e vali, ma talanoa e uiga i lanu, o se auala moni e auai ai. Mo manatu o laasaga taʻitasi, vaai i [galuega mo laasaga uma](/activities/ideas/).
 
-## Safety with art supplies
+## Saogalemu i mea faafanua
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Filifili vali, peni ma mea e faapipiʻi ai e le faatoʻilaloina i le tagata.
+- Tuʻu nai mea tipi, pelu e tipi ai ma pu faʻapipiʻi vevela i tua o le mataʻitusi. Tipi lava ia i luma ae muamua.
+- Mataʻituina afai o loo tuʻu e se tagata lanu, paʻu poʻo mea laʻititi i le gutu.
+- Faaaoga ipu vai ma ipu mafiafia ma tumau.
 
-## When should we stop?
+## O le ā le taimi e tatau ai ona taofi?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Taofi pe a le toe mataʻitusi le tagata poʻo a iloa le faigata. O le Alzheimer's Association fautua e tuʻu poʻo suia se gaioiga pe a pupuu le lototele poʻo a tuputupu le faigata. Tuu le galuega i se nofoaga saogalemu ma ofo se mea e malolo ai. E mafai ona e toe foi i le aso i le isi, poʻo le leai lava. O le mea lava lea e lelei ai.
 
-## Display the work, if the person wants
+## Faaali galuega, afai e manaʻo le tagata
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+O le tuʻu o se vali i luga o le faletupe poʻo le fa'apipi'i o se galuega i se fa'ailoga e mafai ona faaaliaina ai le faaaloalo i se auala malū. Fesili muamua. E manaʻo nisi tagata e vaai i a latou galuega i luga o le puipui; o isi latou te le manaʻo.
 
-## Pair art with our games
+## Faafesoʻotaʻi galuega lima ma taʻaloga a matou
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+A o le aso e faigata ai le setiina o vali, [Coloring](/games/coloring/) e faigofie i luga o se tablet e leai ai le paʻu. [Picture Puzzle](/games/picture-puzzle/) e tumau ai le ata atoatoa e avea ma taʻiala a o e fetuli vaega. [Conversation Cards](/games/conversation-cards/) o loo ofo ai fesili saʻoloto e mafai ona taʻitaʻia mai se ata i se tala. O taʻaloga uma e leai ai se taimi poʻo se faʻaiʻuga. E mafai foi ona e lolomi itulau mai le [galuega lolomi](/activities/printable/) a matou.
