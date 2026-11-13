@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Imisebenzi Nemidlalo Yabantu Abane-Alzheimer's"
+seoTitle: "Imisebenzi ye-Alzheimer's: Iingcebiso Ngokwenqanaba"
+description: "Imisebenzi nemidlalo yabantu abane-Alzheimer's kwinqanaba ngalinye, esekelwe kwizakhono nakwiinkumbulo ezihlala ixesha elide, kunye nemidlalo yasimahla."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Imisebenzi elungileyo yomntu one-Alzheimer's ixhomekeke kwezinto ezihlala ixesha
+  elide: izakhono ezisetyenziswe kakhulu, iingoma zakudala, imisebenzi yasekhaya
+  kunye neemvakalelo. Kwinqanaba lokuqala, amakhadi, imidlalo yebhodi, ukupheka
+  kunye nokuphuma kunokusasebenza. Kwinqanaba eliphakathi, zama ukuguqa, ukuhlela,
+  ukucula, iialbhamu zefoto kunye nemidlalo elula yemifanekiso. Kwinqanaba
+  elisekupheleni, umculo, ukuthinta kunye noqhagamshelwano lubalulekile. Jonga
+  indlela umntu anjani namhlanje.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "I-Alzheimer's yeyona nto ibangela isifo sokulibala kakhulu, ngoko iingcebiso zemisebenzi yesifo sokulibala nazo ziyasebenza kuyo."
+  - "Ulwazi olutsha luba lulula ukulibala kuqala, ngelixa izakhono neengoma zakudala zihlala ixesha elide. Yakha kwezo."
+  - "Amanqanaba aye adibane kwaye imihla emihle nemihla enzima yinto eqhelekileyo. Khetha ngokusebenza nokonwabela komntu namhlanje."
+  - "Khetha imidlalo engenaxesha, amanqaku okanye imibuzo, kwaye ushiye imifanekiso ibonakale."
+  - "Ukujonga, ukubamba into okanye ukuhlala kunye kubalwa njengokuthatha inxaxheba."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Yeziphi imisebenzi elungileyo kumntu one-Alzheimer's?"
+    a: "Imisebenzi eyaziwayo eyenziwe ibe lula kancinci: ukugoqa iimpahla, ukulungiselela itafile, ukupheka kunye, umculo nokucula, ukujonga iifoto, ukuhamba, ukulima kunye nexesha nesilwanyana. Imidlalo elula yemifanekiso, iipuzzle ezilula kunye namakhadi encoko nazo zisebenza kwabaninzi. Khetha into umntu awayesoloko ayonwabela kwaye uyenze kunye naye."
+  - q: "Ingaba imidlalo iyancedisa abantu abane-Alzheimer's?"
+    a: "Imidlalo ingaba yindlela emnandi yokuchitha ixesha kunye, ukuba umntu uyayithanda. Akukho mdlalo oke wabonakala ukuba unyanga, uyacotha okanye umise i-Alzheimer's, ngoko khetha imidlalo yonwabo: imifanekiso emikhulu, ukhetho oluncinane, kwaye akukho xesha, nqanaba okanye izandi zempendulo engachanekanga."
+  - q: "Ingaba kukho umahluko phakathi kwemisebenzi yesifo sokulibala kunye nemisebenzi ye-Alzheimer's?"
+    a: "Kancinci kakhulu. I-Alzheimer's yeyona nto ibangela isifo sokulibala kakhulu, kwaye iingcebiso zemisebenzi ziyasebenza. Into eyenzayo kube lula kukwazi ukuba iinkumbulo zamva nje zihlala zinyamalala kuqala, ngoko imisebenzi esekelwe kwizakhono zakudala, kwiingoma nakwiindlela eziqhelekileyo ihlala ihamba ngokulula."
+  - q: "Yintoni umntu one-Alzheimer's osekupheleni kwexesha angasonwabela?"
+    a: "Umculo awuthandayo, ukuhlikihla isandla ngobunono, izinto ezithambileyo zokubamba, ukufundelwa, ukuhleli phandle, kunye nokuba ngumntu omthembileyo kwakhe. Yenza kube lula kwaye kube kukhwele, kwaye ujonge ubuso nomzimba wakhe ukuze ubone into ayithandayo."
+  - q: "Ndiyenza njani umntu one-Alzheimer's ababenomdla kumsebenzi?"
+    a: "Cela uncedo endaweni yokubhengeza umsebenzi, zilungiselele zonke izinto kuqala, kwaye uqale wena ukuze bakwazi ukujoyina. Ukukhetha ixesha lemini xa esemhle kwenza umahluko omkhulu. Ukuba uthi hayi, zama kamva okanye ucele uhlobo olufutshane."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ukuba umntu omthandayo une-Alzheimer's, usenokuba selele uqaphele ukuba ezinye izinto ziyatsha ngokukhawuleza ngelixa ezinye zihlala. Usenokulibala incoko yomnxeba wasekuseni kodwa asacule wonke amagama ehymn, akwazi ukugoqa ithawuli ngendlela akhe wayenza ngayo ngaso sonke isihlandlo, okanye adlale umdlalo wamakhadi ngaphandle kokucinga. Imisebenzi elungileyo yakhiwe kwezo zakhono zihlala zisoloko zikhona. Eli phepha lichaza ukuba kutheni, emva koko linika iingcebiso zalo nqanaba ngalinye kunye nemidlalo yasimahla yale sayithi ekwanelisa lo nqanaba.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Iyahluka na i-Alzheimer's kwisifo sokulibala xa kuthethwa ngemisebenzi?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Hayi kakhulu. I-dementia ligama elibanzi, kwaye i-Alzheimer's sisona sizathu sixhaphakileyo sesifo sokulibala: i-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ithi isebenza kwiipesenti ezi-60 ukuya kwezi-80 zeenkqubo zesifo sokulibala. Pheleleyo into ebhalwe malunga nemisebenzi yesifo sokulibala isebenza ku-Alzheimer's, kubandakanya nezo [zemisebenzi engama-101](/activities/ideas/) zethu.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Into eluncedo ukuyazi yeyokuba utshintsho luhlala lulandela elo ndlela. I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ichaza ukuba i-Alzheimer's iqala ukonakalisa iinxalenye zobuchopho ezinxulumene nenkumbulo, kamva ichaphazele ulwimi, ukucinga kunye nokuziphatha kwentlalo. I-Alzheimer's Association ithi uphawu lokuqala oluqhelekileyo yingxaki yokukhumbula ulwazi olutsha. Wonke umntu uyahluka, kwaye abaninzi banezizathu ezixubeneyo, kodwa le ndlela ibumba indlela ezinokusebenza ngayo.
 
-## What kinds of activities suit Alzheimer's best?
+## Ngeyiphi imisebenzi i-Alzheimer's ihamba ngayo kakuhle?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Imisebenzi exhomekeke kwiindlela ezisetyenziswe kakuhle kwixesha elide ihamba ngokulula kunaleyo ifuna ukufunda into entsha kwaye ayigcine engqondweni.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Izakhono ezisetyenziswe kakuhle kwixesha elide.** I-Alzheimer's Association ichaza ukuba umntu usenokusangqameka ecula iingoma ezilula asezifunde kwipiyano kwiminyaka edlulileyo. Ukunyanga ilaphu, ukuthambisa ukhuni, ukuxova iintlama, ukugoqa iimpahla ziyafana nazo.
+- **Iingoma zakudala nomculo oyaziwayo.** Abaninzi bamaziyo onke amazwi eengoma zobusha babo, iivesi nezo zomtshato wabo. Jonga [imisebenzi yomculo](/activities/music/).
+- **Imisebenzi yemihla ngemihla enenjongo.** I-[NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ibala ukuhlamba izitya, ukulungiselela itafile, ukuhlela iimeko kunye nokugoqa iimpahla phakathi kwemisebenzi abantu abanokuyonwabela. Ukuziva unoncedo kubalulekile.
+- **Ukuqaphela endaweni yokukhumbula.** Ukukhomba umfanekiso ofanayo ilula kunokuwuchaza ngememori. Yiyo loo nto imidlalo yemifanekiso enayo yonke into ibonakala isebenza ngcono kunemibuzo.
+- **Iimvakalelo.** Ukuthinta, iivumba, ubushushu, incasa kunye nesandi zisenza ukuba izinto zibe nentsingiselo kade emva kokuba amazwi enzima. Jonga [imisebenzi yeemvakalelo](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Into eye yasebenza kancinci: nantoni na enesikhathi, imithetho emitsha yokufunda, amanyathelo amaninzi okukhumbula, okanye imibuzo evavanya inkumbulo, njengo “Undazi ubani lo?” Ezo zinto zibeka phambili into enzima ye-Alzheimer's.
 
-## Activities for early-stage Alzheimer's
+## Imisebenzi yenqanaba lokuqala le-Alzheimer's
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Kwinqanaba lokuqala, i-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ithi umntu usenokuqhubeka eqhuba, esebenza kwaye ethatha inxaxheba kwimisebenzi yoluntu, ngelixa ebona ukulibala okufana nokulibala amagama aqhelekileyo okanye indawo izinto ezikuyo. Indlela esebenza kakuhle yokusebenzisana: buza ukuba ufuna ukuqhubeka nantoni na aye ayenzayo kwaye uncedo afuna ukulufumana.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Qhubeka nemisebenzi yakho oyithandayo.** Igalufu, idrayithi, ukuthunga, ikwayala kunye namaqela ecawe, kunye noguquko oluncinane njengamaqela amancinci kunye nexesha elingxolo kancinci.
+2. **Dlala imidlalo yamakhadi nebhodi eyaziwayo.** I-[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) idwelisa imidlalo yokuqinisekisa, imidlalo yokufumana amagama, imidlalo yamakhadi nemidlalo yebhodi kwinqanaba lokuqala. Dlala njengeqela ukuba ukugcina amanqaku kuqala ukumchukumisa, okanye yekela amanqaku ngokupheleleyo.
+3. **Pheka kunye.** Mvumele asebenzise iresiphi asiyaziyo ngentliziyo, wena ubhekele ukufunda amanyathelo.
+4. **Qalisa iprojekthi yobomi bakhe.** Iifoto, iiresiphi kunye namabali kwilwazi-mbhali elijongwa ngumntu. Jonga [imisebenzi yokukhumbula](/activities/reminiscence/).
+5. **Yenza uhambo.** Indawo yokutyela yakhe eyaziwayo ngexesha elithe cwaka, imyuziyam yoxanduva ngexesha elifutshane, uhambo ePaki.
+6. **Zama iipuzzle azikhethele.** Iikrosiwede ezinamagama amakhulu, ukukhangela amagama kunye neepuzzle. Jonga [iipuzzle zesifo sokulibala](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Iingcebiso ezongezelelweyo: [imisebenzi yenqanaba lokuqala](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Imisebenzi yenqanaba eliphakathi le-Alzheimer's
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+I-Alzheimer's Association ichaza inqanaba eliphakathi njengelona lihlala ixesha elide, kwaye ithi lingahlala iminyaka emininzi. Amagama ayaxutyushwa, ukuphazamiseka kuza ngokulula, kwaye umntu ufuna uncedo oluninzi. I-Alzheimer's Foundation of America iyongeza ukuba abantu abaninzi bafuna uncedo ekuqaliseni okanye ekuqhubekiseni imisebenzi. Indima yakho itshintsha iye ekulungiseleni izinto, ekubonisweni endaweni yokuchazwa, nasekuthatheni imisebenzi enzima.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Goqa, hlela kwaye udibanise.** Amathawuli, iimakhe, izixhobo zetafile, iqhosha ngombala. Imisebenzi yokwenyani, yenziwa ecaleni kwakho.
+2. **Cula kwaye uhambe ngomculo.** Qhwabaza, nyikinya okanye udanise ekhitshini. Qala ukucula wena kwaye umvumele ajoyine.
+3. **Jonga ii-albhamu zefoto.** Chaza into oyibonayo kwaye umema amabali: “Yimoto enkulu. Ndixelele ngayo.” Yamkela naziphi na izigama azisebenzisayo.
+4. **Dlala imidlalo yemifanekiso elula.** [Iipeyari zemifanekiso](/games/picture-pairs/) ezinamatyhili amane ukuya kwesithandathu kunye nemifanekiso ishiyiwe ibonakala, okanye [Fumana okufanayo](/games/find-the-same/) ngokhetho olubini okanye olunathathu.
+5. **Gqiba izaga ozaziyo.** “Ithanga ngemini, lilungela..." Izaga zakudala zihlala zifika ngokulula. Zama [Gqiba izaga](/games/finish-the-saying/), apho ungabonisa nasiphi na isiphelo ngetephu enye.
+6. **Ncamisa kwaye unakekele izityalo.** Iimbiza zangaphakathi okanye ibhedi ephakamileyo, ngesiphu esincinci sokunkcenkceza.
+7. **Yenza umdlalo wokudibanisa ngeefoto zosapho.** [Iipeyari zefoto](/games/photo-pairs/) zisebenzisa imifanekiso oyikhethayo kwisixhobo sakho, kwaye azikhuphuki kuso.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Iingcebiso ezongezelelweyo: [imisebenzi yenqanaba eliphakathi](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Imisebenzi yenqanaba lokugqibela le-Alzheimer's
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Kwinqanaba lokugqibela, i-Alzheimer's Association ithi abantu balahlekelwa yikhono lokuphendula kwindawo abahlala kuyo kunye nokuthetha incoko, nangona besenokuthetha amagama okanye iintetho ezimfutshane. Ngoku umsebenzi uthetha ukonwaba nonxibelelwano, olwenziwa apho umntu ephumle khona.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Dlala umculo awuthandayo** ngokuzolileyo, ngaphandle kokuba i-TV iyaphazamisa.
+2. **Nika umsamo wesandla** ngeoli enevumba alithandayo.
+3. **Nika izinto ezithambileyo zokubamba:** ingubo efudumeleyo, ifliisi, ilitye elibushelelezi.
+4. **Funda ngokuvakalayo** iintshumayelo, iimbongo okanye ibali eliqhelekileyo. Ukuqhubeka kwezinto kubaluleke ngakumbi kunentsingiselo.
+5. **Hlala ngaphandle** emthunzini, okanye ngasefestileni enezinyoni zokujonga.
+6. **Jonga umfanekiso omkhulu omnye kunye.** Ihlamvu lelanga okanye inja egcwalisa iscreen yetablet, wena uchaza into oyibonayo.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Iingcebiso ezongezelelweyo: [imisebenzi yenqanaba lokugqibela](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Yeziphi imidlalo elungele umntu one-Alzheimer's?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Khetha imidlalo apho kungekho nto inokungaphumeleli. Yonke imidlalo kule sayithi ikhululekile, isebenza kwisikhangeli sewebhu kwaye ayinaxesha, nanqaku okanye ukubhalisa.
 
-| Game | What you do | Often suits |
+| Umdlalo | Oyenzayo | Ohlala uzuza |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Iipeyari zemifanekiso](/games/picture-pairs/) | Dibanisa imifanekiso emikhulu; ingahlala ibonakala | Inqanaba lokuqala nelingaphakathi |
+| [Fumana okufanayo](/games/find-the-same/) | Cofa umfanekiso ofana nowo ongaphezulu | Inqanaba eliphakathi nelokugqibela, ngoncedo |
+| [Gqiba izaga](/games/finish-the-saying/) | Khetha igama lokugqibela lesaga eliqhelekileyo, okanye ulibonise | Inqanaba lokuqala nelingaphakathi |
+| [Ipazili yemifanekiso](/games/picture-puzzle/) | Buyisela iziqwenga ezi-4 okanye ezi-9 endaweni yazo, umfanekiso ubonakala | Inqanaba lokuqala nelingaphakathi |
+| [Amakhadi encoko](/games/conversation-cards/) | Umfanekiso nombuzo ovulekileyo wokuthetha ngawo | Nasiphi na inqanaba, kunye nomntu othetha naye |
+| [Iipeyari zefoto](/games/photo-pairs/) | Umdlalo wokudibanisa owenziwe ngeefoto zakho | Inqanaba lokuqala nelingaphakathi |
+| [Ukupeyinta](/games/coloring/) | Cofa umbala, emva koko icandelo lomfanekiso; okanye uyiprinte | Nasiphi na inqanaba, ngoncedo |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Ukuze ufunde indlela yokuhlala kunye, uncedo oluninzi kangakanani kunye nexesha lokuyeka, funda [indlela yokudlala imidlalo nomntu one-dementia](/caregiving/how-to-play-together/). Ukuba uzibuza malunga ne-“memory games”, bona [imidlalo yenkumbulo yabantu abadala abane-dementia](/activities/memory-games/).
 
-## How to make any activity easier
+## Yindlela yokwenza nasiphi na isenzo sibe lula
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Icebiso le-NIA lihla kwizinto ezimbalwa: ukudibanisa umsebenzi nento umntu anokuyenza, ukumnceda aqalise, ukuqwalasela ukudana, ukuqinisekisa ukuba uziva ephumelele, kwaye amvumele ukuba abukele kuphela xa oko akuthandayo.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Khetha ixesha lemini xa esemhle,** kwaye gcina iiseshoni zifutshane.
+- **Lungiselela zonke izinto kuqala** ukuze uqale ngoko nangoko.
+- **Mema, ungayaleli.** “Ungandincedisa na?” isebenza ngcono kunokuthi “Lixesha lomsebenzi.”
+- **Yenza inyathelo lokuqala wena** uze umvumele ajoyine.
+- **Nika inyathelo elinye kunye nokhetho olunye ngexesha.**
+- **Mvumele ukuba kwenziwe ngendlela yakhe.** Amathawuli angalinganiyo ayalungile.
+- **Yeka xa usalonwabile.** Ukuphelisa kwangethuba yimiphumo elungileyo, akuyiyo ukusilela. Ukuba bekala, bona [xa umntu one-dementia ethi hayi](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+I-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) iyichaza ngokulula: gxila kulonwabo, kungekhona impumelelo.
