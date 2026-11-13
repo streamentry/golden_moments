@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Оё бозиҳои фикрӣ деменсияро пешгирӣ мекунанд? Далелҳо чиро нишон медиҳанд"
+seoTitle: "Оё бозиҳои фикрӣ деменсияро пешгирӣ мекунанд?"
+description: "Тадқиқот дар бораи бозиҳои фикрӣ ва деменсия: машқи компютерӣ, санҷиши ACTIVE, ҳукми FTC ва ҳақиқат, бо забони содда."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ягон бозии фикрӣ нишон дода нашудааст, ки деменсияро пешгирӣ кунад. Машқи
+  фикрии компютерӣ асосан вазифаҳоеро беҳтар мекунад, ки шахс такрор мекунад.
+  Як тадқиқот аз санҷиши ACTIVE танҳо як намуди махсуси машқи суръат бо сессияҳои
+  такрорӣ ва камтар ташхиси деменсия дар тӯли 20 сол алоқаманд кард, ки ёфтаи
+  маҳдуд аст. Барои одамоне, ки аллакай бо деменсия зиндагӣ мекунанд, стимулятсияи
+  гурӯҳии маърифатӣ беҳбудиҳои хурд ва кӯтоҳмуддат нишон медиҳад. Бозиҳоро барои
+  лаззат ва ҳамроҳӣ бозӣ кунед.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Омӯзишҳои машқи фикрӣ нишон медиҳанд, ки одамон дар вазифаҳоеро, ки машқ мекунанд, беҳтар мешаванд, аммо далели кам аст, ки ин ба ҳаёти ҳаррӯза интиқол меёбад."
+  - "Дар санҷиши ACTIVE, танҳо одамоне, ки машқи махсуси суръат ва сессияҳои такрорӣ доштанд, дар тӯли 20 сол камтар ташхиси деменсия доштанд. Машқи суръат бе такрор ва машқи хотира ё фикр ин натиҷаро нишон надод."
+  - "Соли 2016 соҳиби Люмосити барои ҳал кардани айбҳои FTC 2 миллион доллар пардохт, ки барои даъвои таъхир андохтани деменсия далели илмӣ надошт."
+  - "Барои одамони бо деменсияи сабук то миёна, гурӯҳҳои стимулятсияи маърифатӣ беҳбудиҳои хурд ва кӯтоҳмуддат барои фикр, ва беҳбудиҳои возеҳтар дар муошират ва муносибатҳои иҷтимоӣ нишон медиҳанд."
+  - "Бозиҳои Golden Moments барои лаззат ва вақти якҷоя ҳастанд. Онҳо табобат нестанд ва деменсияро пешгирӣ ё суст намекунанд."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Оё бозиҳои фикрӣ Алсгеймерро пешгирӣ мекунанд?"
+    a: "Ягон бозии фикрӣ исбот нашудааст, ки Алсгеймер ё дигар деменсияро пешгирӣ кунад. Институти миллии пиронсолӣ мегӯяд, ки барои он ки барномаҳои тиҷоратии машқи фикрӣ таъсироте доранд, ки дар озмоишҳои тадқиқотӣ дида шудааст, далели кофӣ нест. Бозиҳо метавонанд роҳи маъқули гузарондани вақт бошанд."
+  - q: "Санҷиши ACTIVE дар бораи машқи суръат ва деменсия чиро ёфт?"
+    a: "Таҳлили соли 2026 иштирокчиёни ACTIVE-ро бо сабтҳои Медикеър барои 20 сол пайваст кард. Одамоне, ки машқи суръати дарк ва ақаллан як сессияи такрорӣ доштанд, назар ба гурӯҳи бе машқ, суръати пасттари ташхиси деменсия доштанд. Машқи суръат бе такрор ва машқи хотира ё фикр таъсири назаррасе надоштанд."
+  - q: "Оё пазлҳо ва бозиҳо барои шахсе, ки аллакай деменсия дорад, хубанд?"
+    a: "Агар шахс онҳоро дӯст дорад, метавонанд хуб бошанд. Стимулятсияи маърифатии гурӯҳӣ, ки бозиҳои калимавӣ, пазлҳо, мусиқӣ ва сӯҳбатро дар бар мегирад, барои фикр беҳбудиҳои хурди кӯтоҳмуддат ва барои муошират ва мулоқот беҳбудиҳои возеҳтар нишон медиҳад. Лаззат, на натиҷаи санҷиш, ҳадафи дуруст аст."
+  - q: "Чаро FTC Люмосити-ро ҷарима кард?"
+    a: "Соли 2016 Комиссияи федералии савдо айбдор кард, ки Lumos Labs дар бораи бозиҳои худ даъвоҳо кардааст, аз ҷумла таъхир андохтани коҳишёбии марбут ба синну сол ва деменсияро, бе далели илмии кофӣ. Ширкат розӣ шуд, ки 2 миллион доллар пардохт кунад ва пеш аз чунин даъвоҳо далели илмии боэътимод дошта бошад."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,89 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Бозиҳои фикрӣ ҳама ҷост, ва бисёре аз онҳо ваъда медиҳанд, ки ақли шуморо ҷавон нигоҳ медоранд. Агар шумо шахси деменсиядорро нигоҳубин мекунед ё дар бораи хотираи худ нигаронед, табиӣ аст, ки фикр кунед, оё бозӣ кардани онҳо кӯмак карда метавонад. Ин аст он чизе, ки тадқиқот воқеан нишон медиҳад, аз ҷумла ҷанбаҳои умедбахш ва он қисмҳое, ки умедбахш нестанд.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Ин маълумоти умумӣ аст, на маслиҳати тиббӣ. Нигаред ба [эъломияи тиббии мо](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Оё бозиҳои фикрӣ деменсияро пешгирӣ мекунанд?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ягон бозии фикрӣ исбот нашудааст, ки деменсияро пешгирӣ кунад. Институти миллии пиронсолӣ одамонро огоҳ мекунад, ки аз даъвоҳо дар бораи он ки бозиҳои компютерӣ ва онлайн ҳофизаро беҳтар мекунанд, эҳтиёт шаванд, ва мегӯяд, ки барои он ки ягон барномаи тиҷоратии машқи фикрӣ таъсироти ҳамон ро дорад, ки дар озмоишҳои тадқиқотӣ дида шудааст, далели кофӣ нест ([Институти миллии пиронсолӣ дар бораи пешгирии Алсгеймер](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ин бозиҳоро беарзиш намекунад. Маънои онро дорад, ки арзиши онҳо дар лаззат, ҳамроҳӣ ва тартиб аст, на дар ҳимоя кардани касе аз деменсия.
 
-## What is "near transfer", and why does it matter?
+## «Интиқоли наздик» чист ва чаро муҳим аст?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Вақте ки вазифаеро машқ мекунед, одатан дар он беҳтар мешавед. Муҳаққиқон ин ро таъсири машқ меноманд. Саволи душвортар ин аст, ки оё беҳбудӣ ба чизҳои дигар **интиқол меёбад**: ба вазифаҳои монанд (интиқоли наздик) ё ба ҳаёти ҳаррӯза, мисли ба ёд доштани вохӯриҳо ё идораи пул (интиқоли дур).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Баррасии калони соли 2016 омӯзишҳоеро дида баромад, ки ширкатҳои машқи фикрӣ ҳамчун беҳтарин далели худ пешниҳод карда буданд. Он далели васеъро ёфт, ки одамон дар вазифаҳои машқшуда беҳтар мешаванд, далели камтаре, ки онҳо дар вазифаҳои монанди наздик беҳтар мешаванд, ва далели хеле кам, ки машқ тафаккури ҳаррӯзаро беҳтар мекунад. Бисёре аз омӯзишҳо инчунин мушкилоти тарроҳӣ доштанд, ки хулосаҳои устувор гирифтанро ғайриимкон мекард ([Симонс ва ҳамкорон, Журнали психологияи илмӣ дар манфиати ҷамъият](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Баррасиҳо дар бораи машқи фикрии компютерӣ чӣ мегӯянд?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Баррасиҳои Кокрейн, ки беҳтарин озмоишҳои мавҷударо якҷоя мекунанд, машқи компютериро, ки на кам аз 12 ҳафта давом мекунад, омӯхтаанд:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Калонсолони солим аз 65 сола ва болотар:** ҳашт озмоиш бо 1,183 нафар. Далели сифати паст ё хеле паст буд. Эҳтимолан беҳбудии каме фавран пас аз машқ ҳаст, бидуни далели равшан, ки он давом мекунад ([баррасии Кокрейн дар бораи калонсолони солим](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Одамони бо нуқсони хифифи маърифатӣ:** ҳашт озмоиш бо 660 нафар. Ягон озмоиш гузориш надод, ки оё одамон баъдан деменсия пайдо кардаанд ё не, ва далел барои хулоса кофӣ набуд ([баррасии Кокрейн дар бораи нуқсони хифифи маърифатӣ](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Озмоиши ACTIVE чиро ёфт?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE як озмоиши калони ИМА аст, ки соли 1998 бо 2,802 калонсоли аз 65 сола боло оғоз ёфт. Онҳо мустақилона зиндагӣ мекарданд ва мушкилоти назарраси хотира ё фикр надоштанд. Иштирокчиён тасодуфан ба яке аз се навъи машғулияти гурӯҳии хурд (суръати дарк, хотира ё фикр) ё ба гурӯҳи бе тамос таҳвил дода шуданд. Машғулият то даҳ сессия дар тӯли панҷ то шаш ҳафта буд. Баъзе одамоне, ки аксари сессияҳоро анҷом доданд, инчунин тасодуфан дар тақрибан як ва се сол баъд сессияҳои **такрорӣ** пешниҳод карда шуданд.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Машқи суръат дидан ва коркарди маълумоти визуалиро дар лаҳзаҳои тобиши кӯтоҳ ва кӯтоҳтар дар бар мегирифт, ки сатҳаш ҳангоми беҳтар шудани иштирокчиён мутобиқ мешуд.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Соли 2026 муҳаққиқон 2,021 иштирокчиро бо сабтҳои Медикеър барои 20 сол пайваст карданд ([таҳлили 20-солаи ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Ин аст дақиқан он чизе, ки ёфтанд:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Машқи суръат ва ақаллан як сессияи такрорӣ:** суръати пасттари ташхиси деменсия назар ба гурӯҳи бе тамос (нисбати хатар 0.75, ки тақрибан маънои суръати 25% пасттарро дорад).
+- **Машқи суръат бе сессияҳои такрорӣ:** суръати пасттар нест.
+- **Машқи хотира ё фикр:** таъсири назаррасе ба ташхиси деменсия надоштанд.
+- **Ҳар гурӯҳи машқ ба таври умумӣ бо гурӯҳи бе тамос:** тамоили суръати пасттар, аммо аз ҷиҳати оморӣ назаррас нест.
 
-### The limits of this finding
+### Маҳдудиятҳои ин ёфта
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Он ба **як навъи махсуси машқи суръати назоратшаванда бо сессияҳои такрорӣ** дахл дорад, на ба бозиҳои фикрӣ умуман.
+- Натиҷаи назаррас аз **зергурӯҳ** омад (одамоне, ки аксари сессияҳои аввалро анҷом доданд ва сессияҳои такрорӣ пешниҳод шуда буданд), на аз тамоми гурӯҳи суръат.
+- Деменсия бо истифода аз **рамзҳои ташхис дар сабтҳои Медикеър** чен карда шуд, на бо муоинаи ҳар як нафар. Тақрибан як чоряки иштирокчиёни аввалин берун монданд, зеро дар барномаи Медикеър Адвантидж ҷойгир буданд, ки сабтҳои пурраи даъвоҳоро надорад.
+- Иштирокчиён ҳангоми оғоз мушкилоти назарраси фикрӣ надоштанд. Натиҷаҳо дар бораи бозиҳо барои одамони **аллакай бо деменсия зиндагикунанда** чизе намегӯянд.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Ин натиҷаи ҷолиб аст, ки таҳқиқоти бештарро талаб мекунад. Ин далел нест, ки ягон барнома деменсияро пешгирӣ мекунад.
 
-## What did the FTC say about Lumosity?
+## Комиссияи федералии савдо дар бораи Люмосити чӣ гуфт?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Соли январи 2016 Lumos Labs, истеҳсолкунандаи Люмосити, розӣ шуд, ки 2 миллион доллар пардохт кунад, то айбҳои Комиссияи федералии савдо дар бораи таблиғи фиребгарона ҳал шаванд. Комиссия гуфт, ки ширкат бе илми кофӣ даъво кардааст, ки бозиҳояш метавонанд кор ва мактабро беҳтар кунанд ва таъхир андохтани коҳишёбии марбут ба синну сол, нуқсони хифифи маърифатӣ, деменсия ва Алсгеймерро метавонанд. Фармон талаб мекунад, ки ширкат пеш аз чунин даъвоҳо далели илмии боэътимод ва ваколатдор дошта бошад ([баёнияи матбуотии Комиссияи федералии савдо](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Дарси оилаҳо: ба ҳар бозӣ, барнома ё барномае, ки ваъда медиҳад хотираро муҳофизат мекунад ё деменсияро пешгирӣ мекунад, бо эҳтиёт нигаред.
 
-## Can games help someone who already has dementia?
+## Оё бозиҳо ба шахсе, ки аллакай деменсия дорад, кӯмак карда метавонанд?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Онҳо метавонанд ба як рӯзи хуб илова кунанд, ва ин аҳамияти калон дорад. Беҳтарин омӯхташуда ин **стимулятсияи маърифатӣ** аст: фаъолиятҳои гурӯҳии хушоянд, мисли баҳс, ёдоварӣ, бозиҳои калимавӣ, пазлҳо ва мусиқӣ, одатан дар гурӯҳи хурд бо роҳбари фаъолият.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Баррасии Кокрейн дар соли 2023 аз 37 озмоиш бо 2,766 нафар бо деменсияи сабук то миёна ёфт ([баррасии Кокрейн дар бораи стимулятсияи маърифатӣ](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **беҳбудии хурд ва кӯтоҳмуддат** дар санҷишҳои фикр (далели миёнаи сифат);
+- **беҳбудиҳои аз ҷиҳати клиникӣ муҳим дар муошират ва муносибатҳои иҷтимоӣ** (далели баландсифат, аз шумораи камтари омӯзишҳо);
+- **беҳбудиҳои хурд** барои сифати зиндагӣ, рӯҳия ва рафтор.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Беҳбудиҳо бештар пас аз барномаҳои тақрибан даҳ ҳафта чен карда шуданд ва кам омӯзишҳо санҷиданд, ки оё онҳо давом мекунанд. Стимулятсияи маърифатӣ барномаи гурӯҳии сохторӣ аст, пас ин натиҷаҳо худкор ба шахсе, ки танҳо дар планшет бозӣ мекунад, татбиқ намешаванд.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Комиссияи Ланцет дар соли 2024 низ мегӯяд, ки барномаҳои фаъолият барои одамони бо деменсия зиндагикунанда муҳиманд, то лаззат ва мақсад нигоҳ дошта шаванд ([Комиссияи Ланцет](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Бозиҳо воқеан барои чӣ хубанд?
 
-When chosen well, games can offer:
+Вақте ки дуруст интихоб шаванд, бозиҳо метавонанд инҳоро пешниҳод кунанд:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Лаззат.** Нимсоати хуш арзиши худро дорад.
+- **Пайвастагӣ.** Дар якҷоягӣ бозӣ кардан вақте ки сӯҳбат душвор аст, чизе барои мубодила медиҳад. Ба [чӣ тавр якҷоя бозӣ кардан](/caregiving/how-to-play-together/) нигаред.
+- **Тартиб.** Фаъолияти шинос дар як вақт ҳар рӯз метавонад тасаллӣ диҳад.
+- **Эътимод.** Фаъолиятҳое, ки ба он чизе мувофиқанд, ки шахс то ҳол хуб карда метавонад, ба онҳо ҳисси қобилиятнокӣ медиҳанд, на санҷиш.
+- **Сӯҳбат.** Расм ё мақоли шинос метавонад ҳикояро кушояд. Кӯшиш кунед [кортҳои сӯҳбат](/games/conversation-cards/) ё [Матални охирашро гӯед](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Чизҳоеро, ки бояд канорагирӣ шаванд: вақтсанҷ, хол, силсилаҳои пайдарпай ва ҳар чизе, ки ба санҷиши хотира монанд аст. Агар шахс ба ноумедӣ ояд, бас кунед. Қатъ кардани зуд ё оддӣ нишастан якҷоя натиҷаи хуб аст. Ба роҳнамои мо оид ба [интихоби барнома ва бозиҳо](/caregiving/choosing-apps-and-games/) бо рӯйхати тафтиш нигаред.
 
-## Where Golden Moments fits
+## Golden Moments дар куҷо ҷой дорад
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Бозиҳои Golden Moments, мисли [ҷуфтҳои расм](/games/picture-pairs/), [пазли расм](/games/picture-puzzle/) ва [Ҷустуҷӯи калима бо хати калон](/games/word-search/), барои лаззат ва вақти якҷоя сохта шудаанд. Онҳо соат ва холро надоранд. Онҳо табобат **нестанд** ва деменсияро **пешгирӣ ё суст намекунанд**. Мо беҳтар мешуморем, ки инро ошкоро бигӯем, на ин ки ваъдаи чизе диҳем, ки ҳеҷ бозӣ иҷро карда наметавонад.
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Агар шумо дар бораи тағйирёбии хотира дар худатон ё шахсе, ки ғамхорӣ мекунед, нигаронед, ба ҷои такя ба барнома, ба духтур муроҷиат кунед. Духтур метавонад сабабҳои табобатшавандаро ҷустуҷӯ кунад ва бо қадамҳои бо беҳтарин далел, мисли идораи фишори хун ва санҷиши шунавоӣ, сӯҳбат кунад. Нигаред ба [Оё деменсияро пешгирӣ кардан мумкин аст?](/brain-health/can-dementia-be-prevented/) барои бештар.
+
+Барои ногаҳон гиҷ шудан ё дигар тағйироти ногаҳонӣ, кӯмаки фаврии тиббӣ гиред.
