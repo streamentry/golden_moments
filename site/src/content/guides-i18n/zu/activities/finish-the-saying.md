@@ -53,7 +53,7 @@ Umdlalo wokuphetha umusho usebenzisa umusho ojwayelekile omisa ngaphambi kwegama
 
 Yisiseshini esifushane lapho umuntu owodwa efunda ingxenye yokuqala yomusho omunye aphethe isiphetho. Izibonelo zifaka umusho othi “Umuntu ngumuntu…” (isiphetho: “ngabantu”). Umuntu angase ashoye isiphetho ngokuzwakalayo, akhombe kuso, noma akhethe kokubili noma okuthathu onikeza. Abanye bajabulela ukuba ngulowo ofunda ingxenye yokuqala.
 
-I-Golden Moments inikeza lokhu njenge[mdlalo wokuphetha imisho mahhala](/games/finish-the-saying/) onemibhalo emikhulu. Ungawudlala futhi ngaphandle kwesikrini, ngokushilo ingxenye yokuqala bese ulinda.
+I-Golden Moments inikeza lokhu njenge-[mdlalo wokuphetha imisho mahhala](/games/finish-the-saying/) onemibhalo emikhulu. Ungawudlala futhi ngaphandle kwesikrini, ngokushilo ingxenye yokuqala bese ulinda.
 
 ## Ukudlala, sinyathelo ngesinyathelo
 
@@ -88,7 +88,7 @@ Imisho yendawo eminingi inezingxenye ezithile, ngakho sebenzisa yona eyaziwa ngu
 
 ## Yini uma umuntu engakwazi ukuphendula?
 
-Abanye abantu kwezinye izigaba abasakwazi ukuthola amagama ngitsho. Ungayeki umusho. Wufunde, ubambe ukumamatheka, bese umemela impendulo ngesimo, ngokugqugquzela ikhanda noma ngokukhetha isithombe. Ukwabelana ngomculo ofanayo kusengumzuzu wokwabelana. Hlanganisa umdlalo nomculo, isiphuzo esifudumele noma ukuhlikihla isandla, njenga[kumisebenzi yesigaba sokugcina](/activities/late-stage/).
+Abanye abantu kwezinye izigaba abasakwazi ukuthola amagama ngitsho. Ungayeki umusho. Wufunde, ubambe ukumamatheka, bese umemela impendulo ngesimo, ngokugqugquzela ikhanda noma ngokukhetha isithombe. Ukwabelana ngomculo ofanayo kusengumzuzu wokwabelana. Hlanganisa umdlalo nomculo, isiphuzo esifudumele noma ukuhlikihla isandla, njengakwi-[misebenzi yesigaba sokugcina](/activities/late-stage/).
 
 ## Ezinye izindlela zokusebenzisa imisho
 

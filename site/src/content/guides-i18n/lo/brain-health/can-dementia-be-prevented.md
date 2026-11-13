@@ -1,35 +1,30 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "ສາມາດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ? ການຄົ້ນຄວ້າບອກຫຍັງ"
+seoTitle: "ສາມາດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ? ການຄົ້ນຄວ້າບອກຫຍັງ"
+description: "ສິ່ງທີ່ການປະຊຸມ Lancet ປີ 2024 ແລະ ການທົດລອງໃຫຍ່ພົບກ່ຽວກັບການຫຼຸດຄວາມສ່ຽງຕໍ່ໂຣກສະໝອງເສື່ອມ ສິ່ງທີ່ບໍ່ພົບ ແລະ ຂັ້ນຕອນທີ່ຄວນປຶກສາກັບໝໍ."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  ບໍ່ມີໃຜສາມາດສັນຍາວ່າຈະປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້. ການປະຊຸມ Lancet ປີ 2024 ປະເມີນວ່າເກືອບເຄິ່ງໜຶ່ງຂອງກໍລະນີໂຣກສະໝອງເສື່ອມທົ່ວໂລກກ່ຽວຂ້ອງກັບ 14 ປັດໃຈສ່ຽງທີ່ອາດປ່ຽນແປງໄດ້ ເຊັ່ນ ຄວາມດັນເລືອດສູງ ການສູນເສຍການໄດ້ຍິນ ແລະ ການບໍ່ເຄື່ອນໄຫວ. ການທົດລອງສະແດງຜົນນ້ອຍໆຕໍ່ການທົດສອບການຄິດ ບໍ່ແມ່ນຫຼັກຖານວ່າມີກໍລະນີໂຣກສະໝອງເສື່ອມໜ້ອຍລົງ. ຫຼາຍຄົນທີ່ເຮັດທຸກຢ່າງ “ຖືກຕ້ອງ” ຍັງພັດທະນາໂຣກສະໝອງເສື່ອມ ແລະ ນັ້ນບໍ່ແມ່ນຄວາມຜິດຂອງໃຜ.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "ການປະຊຸມ Lancet ປີ 2024 ເຊື່ອມກໍລະນີໂຣກສະໝອງເສື່ອມປະມານ 45% ທົ່ວໂລກກັບ 14 ປັດໃຈສ່ຽງທີ່ອາດປ່ຽນແປງໄດ້. ນີ້ເປັນການປະເມີນໃນລະດັບປະຊາກອນ ບໍ່ແມ່ນການຮັບປະກັນສ່ວນບຸກຄົນ."
+  - "ການຫຼຸດຄວາມສ່ຽງໝາຍເຖິງການຫຼຸດໂອກາດໃນທົ່ວປະຊາກອນ. ມັນບໍ່ໄດ້ໝາຍຄວາມວ່າບຸກຄົນໃດໜຶ່ງຈະຫຼີກເວັ້ນໂຣກສະໝອງເສື່ອມໄດ້."
+  - "ການທົດລອງໃຫຍ່ເຊັ່ນ FINGER, US POINTER ແລະ SPRINT MIND ພົບຜົນດີນ້ອຍໆຕໍ່ການທົດສອບການຄິດ ຫຼື ການຮັບຮູ້ບົກພ່ອງເລັກນ້ອຍ ແຕ່ບໍ່ມີອັນໃດພິສູດວ່າໂຄງການວິຖີຊີວິດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້."
+  - "ອາຍຸເປັນປັດໃຈສ່ຽງທີ່ໃຫຍ່ທີ່ສຸດທີ່ຮູ້ກັນສຳລັບໂຣກອັລໄຊເມີ ແລະ ບໍ່ສາມາດປ່ຽນແປງໄດ້. ຫຼາຍຄົນທີ່ມີນິໄສສຸຂະພາບດີຍັງພັດທະນາໂຣກສະໝອງເສື່ອມ."
+  - "ຂັ້ນຕອນທີ່ຖືກສຶກສາເລື້ອຍທີ່ສຸດ ເຊັ່ນ ການຮັກສາຄວາມດັນເລືອດສູງ ການໃຊ້ເຄື່ອງຊ່ວຍຟັງ ແລະ ການເຄື່ອນໄຫວຢູ່ເລື້ອຍໆ ຄວນປຶກສາກັບໝໍ ເພາະຊ່ວຍສຸຂະພາບໃນດ້ານອື່ນດ້ວຍ."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "ສາມາດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?"
+    a: "ບໍ່ມີວິທີທີ່ພິສູດແລ້ວວ່າປ້ອງກັນໂຣກສະໝອງເສື່ອມສຳລັບບຸກຄົນໃດໜຶ່ງ. ການຄົ້ນຄວ້າແນະນຳວ່າການຫຼຸດຄວາມສ່ຽງບາງຢ່າງ ເຊັ່ນ ຄວາມດັນເລືອດສູງ ການສູນເສຍການໄດ້ຍິນທີ່ບໍ່ໄດ້ຮັກສາ ແລະ ການສູບບຸຫຼີ ອາດຊ່ວຍຫຼຸດໂອກາດໃນທົ່ວປະຊາກອນ ຫຼື ເຮັດໃຫ້ເລີ່ມເກີດຊ້າລົງ. ນີ້ແມ່ນໂອກາດ ບໍ່ແມ່ນຄຳສັນຍາ."
+  - q: "ຕົວເລກ 45% ຈາກການປະຊຸມ Lancet ໝາຍເຖິງຫຍັງ?"
+    a: "ການປະຊຸມ Lancet ປີ 2024 ປະເມີນວ່າກໍລະນີໂຣກສະໝອງເສື່ອມປະມານ 45% ທົ່ວໂລກກ່ຽວຂ້ອງກັບ 14 ປັດໃຈສ່ຽງທີ່ໃນທາງທິດສະດີສາມາດປ່ຽນແປງໄດ້. ການປະເມີນນີ້ສົມມຸດວ່າປັດໃຈເຫຼົ່ານັ້ນເປັນສາເຫດຂອງໂຣກສະໝອງເສື່ອມ ແລະ ຜູ້ຂຽນບອກວ່າບາງຄວາມສຳພັນອາດເປັນສາເຫດພຽງບາງສ່ວນ. ມັນອະທິບາຍປະຊາກອນທັງໝົດ ບໍ່ໄດ້ບອກຄວາມສ່ຽງຂອງບຸກຄົນໃດ."
+  - q: "ຖ້າພໍ່ແມ່ຂອງຂ້ອຍມີວິຖີຊີວິດສຸຂະພາບດີ ເປັນຫຍັງເຂົາຈຶ່ງເປັນໂຣກສະໝອງເສື່ອມ?"
+    a: "ອາຍຸ ພັນທຸກຳ ແລະ ປັດໃຈຫຼາຍຢ່າງທີ່ບໍ່ມີໃຜຄວບຄຸມໄດ້ ມີບົດບາດໃຫຍ່ໃນໂຣກສະໝອງເສື່ອມ. ຜູ້ຂຽນຂອງການປະຊຸມ Lancet ລະບຸວ່າການຫຼຸດຄວາມສ່ຽງໃນທົ່ວປະຊາກອນ ບໍ່ໄດ້ຮັບປະກັນວ່າບຸກຄົນໃດໜຶ່ງຈະຫຼີກເວັ້ນໂຣກສະໝອງເສື່ອມໄດ້. ການວິນິດໄສບໍ່ແມ່ນສັນຍານວ່າມີໃຜລົ້ມເຫຼວ."
+  - q: "ສາຍເກີນໄປທີ່ຈະຫຼຸດຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມຫຼັງອາຍຸ 65 ປີບໍ?"
+    a: "ການປະຊຸມ Lancet ເວົ້າວ່າບໍ່ມີຄຳວ່າເກີນໄປ ຫຼື ສາຍເກີນໄປທີ່ຈະຫຼຸດຄວາມສ່ຽງ ເຖິງແມ່ນວ່າຫຼັກຖານຫຼາຍສ່ວນແມ່ນກ່ຽວກັບໄລຍະກາງຂອງຊີວິດ. ການຮັກສາບັນຫາການໄດ້ຍິນ ແລະ ການເບິ່ງເຫັນ ການເຄື່ອນໄຫວຢູ່ ແລະ ການຕິດຕໍ່ກັບຜູ້ຄົນ ເປັນຕົວຢ່າງຂອງຂັ້ນຕອນໃນໄລຍະຫຼັງທີ່ຖືກສຶກສາ. ປຶກສາໝໍວ່າຫຍັງເໝາະກັບສຸຂະພາບຂອງທ່ານ."
+  - q: "ເກມສະໝອງ ຫຼື ອາຫານພິເສດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?"
+    a: "ບໍ່ມີເກມ ອາຫານ ອາຫານເສີມ ຫຼື ລະບຽບອາຫານໃດທີ່ພິສູດແລ້ວວ່າປ້ອງກັນໂຣກສະໝອງເສື່ອມ. ການທົດລອງ 3 ປີຂອງອາຫານ MIND ບໍ່ພົບຄວາມແຕກຕ່າງທີ່ມີນັຍສຳຄັນດ້ານການຄິດ ເມື່ອທຽບກັບອາຫານຄວບຄຸມ ແລະ ແອັບພັດທະນາສະໝອງທາງການຄ້າກໍບໍ່ໄດ້ສະແດງຜົນຄືກັບທີ່ເຫັນໃນການທົດລອງວິໄຈ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +58,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+ຖ້າທ່ານກຳລັງດູແລຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ ຫຼື ເຄີຍເຫັນພໍ່ແມ່ມີຊີວິດຢູ່ກັບມັນ ທ່ານຄົງສົງໄສວ່າມັນສາມາດຢຸດໄດ້ບໍ ແລະ ທ່ານສາມາດປ້ອງກັນບໍ່ໃຫ້ເກີດກັບຕົວເອງໄດ້ບໍ. ໜ້ານີ້ອະທິບາຍສິ່ງທີ່ການຄົ້ນຄວ້າບອກຕົວຈິງ ດ້ວຍພາສາທີ່ເຂົ້າໃຈງ່າຍ. ຄຳຕອບສັ້ນໆຄື: ບໍ່ມີໃຜສາມາດສັນຍາວ່າຈະປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ ແຕ່ການຄົ້ນຄວ້າແນະນຳວ່າບາງຄວາມສ່ຽງສາມາດຫຼຸດລົງໄດ້ ແລະ ການຫຼຸດຄວາມສ່ຽງເຫຼົ່ານີ້ໃນທົ່ວປະຊາກອນອາດໝາຍເຖິງຄົນເປັນໂຣກສະໝອງເສື່ອມໜ້ອຍລົງ ຫຼື ເປັນໃນເວລາຊ້າກວ່າ.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+ນີ້ແມ່ນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ກະລຸນາອ່ານ [ຂໍ້ປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ ແລະ ປຶກສາໝໍກ່ຽວກັບສຸຂະພາບຂອງທ່ານເອງ.
 
-## Can dementia be prevented?
+## ສາມາດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+ບໍ່ມີວິທີທີ່ພິສູດແລ້ວວ່າປ້ອງກັນໂຣກສະໝອງເສື່ອມສຳລັບບຸກຄົນໃດໜຶ່ງ. National Institute on Aging (NIA) ເວົ້າວ່າ ໃນຂະນະທີ່[ຍັງບໍ່ມີສິ່ງໃດທີ່ພິສູດວ່າປ້ອງກັນອັລໄຊເມີໄດ້](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ນັກວິໄຈໄດ້ພົບຍຸດທະສາດທີ່ໜ້າສົນໃຈ ແລະ ກຳລັງຮຽນຮູ້ວ່າອັນໃດອາດໄດ້ຜົນ ແລະ ອັນໃດອາດບໍ່ໄດ້ຜົນ.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+ສິ່ງທີ່ການຄົ້ນຄວ້າ*ສະແດງ*ແມ່ນວ່າສະພາບສຸຂະພາບ ແລະ ນິໄສບາງຢ່າງກ່ຽວຂ້ອງກັບໂອກາດເປັນໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ. ເມື່ອຄວາມສ່ຽງເຫຼົ່ານັ້ນຫຼຸດລົງໃນທົ່ວປະຊາກອນ ອາດມີຄົນເປັນໂຣກສະໝອງເສື່ອມໜ້ອຍລົງ ຫຼື ເປັນໃນເວລາຊ້າກວ່າໃນຊີວິດ. ນັ້ນແຕກຕ່າງຢ່າງຫຼວງຫຼາຍຈາກການຮັບປະກັນ.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+ສັນຍານທີ່ໜ້າຫວັງຢ່າງໜຶ່ງ: ການປະຊຸມ Lancet ປີ 2024 ລາຍງານວ່າໃນບາງປະເທດທີ່ມີລາຍໄດ້ສູງ ລວມທັງສະຫະລັດ ແລະ ອັງກິດ ສັດສ່ວນຜູ້ສູງອາຍຸທີ່ເປັນໂຣກສະໝອງເສື່ອມໄດ້ຫຼຸດລົງ. ຜູ້ຂຽນຄິດວ່ານີ້ອາດມາຈາກການສຶກສາທີ່ດີຂຶ້ນ ການດູແລສຸຂະພາບທີ່ດີຂຶ້ນ ແລະ ຄວາມເສຍຫາຍຕໍ່ເສັ້ນເລືອດໜ້ອຍລົງຕະຫຼອດຊີວິດ ຕາມ[ການສະຫຼຸບລາຍງານຂອງ University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## ການປະຊຸມ Lancet ປີ 2024 ພົບຫຍັງ?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+ການປະຊຸມ Lancet ກ່ຽວກັບການປ້ອງກັນ ການປິ່ນປົວ ແລະ ການດູແລໂຣກສະໝອງເສື່ອມ ແມ່ນກຸ່ມນັກວິໄຈໂຣກສະໝອງເສື່ອມ 27 ຄົນ ທີ່ທົບທວນຫຼັກຖານທຸກໆສອງສາມປີ. ລາຍງານປີ 2024 ຂອງພວກເຂົາລະບຸ**ປັດໃຈສ່ຽງ 14 ຢ່າງ** ທີ່ອາດປ່ຽນແປງໄດ້ ແລະ ປະເມີນວ່າເມື່ອລວມກັນແລ້ວ ມັນກ່ຽວຂ້ອງກັບ**ເກືອບເຄິ່ງໜຶ່ງ (ປະມານ 45%) ຂອງກໍລະນີໂຣກສະໝອງເສື່ອມທົ່ວໂລກ**. ຕາມຄຳເວົ້າຂອງຜູ້ຂຽນ ກໍລະນີເຫຼົ່ານີ້ອາດ*ໃນທາງທິດສະດີ* ຈະປ້ອງກັນຫຼືເລື່ອນອອກໄປໄດ້ຖ້າປັດໃຈເຫຼົ່ານັ້ນຖືກກຳຈັດ ([ລາຍງານ Lancet ປີ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+ປັດໃຈ 14 ຢ່າງ ຈັດກຸ່ມຕາມໄລຍະຊີວິດທີ່ຫຼັກຖານເຂັ້ມແຂງທີ່ສຸດ:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **ໄລຍະຕົ້ນຊີວິດ:** ການສຶກສາໜ້ອຍ.
+- **ໄລຍະກາງຊີວິດ (ປະມານອາຍຸ 40 ຫາ 65 ປີ):** ການສູນເສຍການໄດ້ຍິນ ໄຂມັນ LDL ("ບໍ່ດີ") ສູງ ຊຶມເສົ້າ ບາດເຈັບທີ່ຫົວ ການບໍ່ເຄື່ອນໄຫວ ເບົາຫວານ ການສູບບຸຫຼີ ຄວາມດັນເລືອດສູງ ອ້ວນ ແລະ ດື່ມເຫຼົ້າຫຼາຍ.
+- **ໄລຍະຫຼັງຊີວິດ:** ການໂດດດ່ຽວທາງສັງຄົມ ມົນລະພິດທາງອາກາດ ແລະ ການສູນເສຍການເບິ່ງເຫັນທີ່ບໍ່ໄດ້ຮັກສາ.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+ສອງຢ່າງທີ່ເພີ່ມເຂົ້າມາໃໝ່ໃນປີ 2024 ແມ່ນໄຂມັນ LDL ສູງ ແລະ ການສູນເສຍການເບິ່ງເຫັນທີ່ບໍ່ໄດ້ຮັກສາ. ປັດໃຈທີ່ກ່ຽວຂ້ອງກັບສັດສ່ວນກໍລະນີສູງສຸດແມ່ນການສູນເສຍການໄດ້ຍິນ ແລະ ໄຂມັນ LDL ສູງ (ປະມານ 7% ແຕ່ລະຢ່າງ) ຕາມດ້ວຍການສຶກສາໜ້ອຍ ແລະ ການໂດດດ່ຽວທາງສັງຄົມ (ປະມານ 5% ແຕ່ລະຢ່າງ).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[ໜ້າປັດໃຈສ່ຽງ](/brain-health/risk-factors/) ຂອງພວກເຮົາອະທິບາຍທັງ 14 ຢ່າງໃນຕາຕະລາງ ພ້ອມສິ່ງທີ່ການຄົ້ນຄວ້າເຊື່ອມໂຍງ ແລະ ສິ່ງທີ່ທ່ານເຮັດໄດ້.
 
-### What the 45% figure does not mean
+### ຕົວເລກ 45% ບໍ່ໄດ້ໝາຍເຖິງຫຍັງ
 
-It is easy to misread this number, so it helps to be precise:
+ຕົວເລກນີ້ເຂົ້າໃຈຜິດງ່າຍ ສະນັ້ນຄວນຊັດເຈນ:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **ມັນເປັນການປະເມີນໃນລະດັບປະຊາກອນ.** ມັນອະທິບາຍກໍລະນີໂຣກສະໝອງເສື່ອມທົ່ວໂລກ ບໍ່ແມ່ນໂອກາດຂອງທ່ານ ຫຼື ຂອງພໍ່ແມ່ທ່ານ.
+- **ມັນສົມມຸດວ່າມີຄວາມສຳພັນເປັນເຫດເປັນຜົນ.** ຜູ້ຂຽນບອກວ່າພວກເຂົາລວມພຽງປັດໃຈສ່ຽງທີ່ມີຫຼັກຖານໜັກແໜ້ນ ແຕ່ບາງຄວາມສຳພັນອາດເປັນສາເຫດພຽງບາງສ່ວນ. ຕົວຢ່າງ ຄວາມຊຶມເສົ້າໃນໄວຜູ້ໃຫຍ່ບາງເທື່ອອາດເປັນອາການຕົ້ນຂອງໂຣກສະໝອງເສື່ອມ ແທນທີ່ຈະເປັນສາເຫດ.
+- **ມັນບໍ່ຮັບປະກັນຫຍັງສຳລັບບຸກຄົນໃດໜຶ່ງ.** ສະຫຼຸບຂອງ UCL ລະບຸວ່າການຫຼຸດຄວາມສ່ຽງເຮັດວຽກໃນລະດັບປະຊາກອນ ແລະ ບໍ່ຮັບປະກັນວ່າບຸກຄົນໃດຈະຫຼີກເວັ້ນໂຣກສະໝອງເສື່ອມໄດ້.
+- **ອີກເຄິ່ງໜຶ່ງບໍ່ໄດ້ອະທິບາຍດ້ວຍປັດໃຈເຫຼົ່ານີ້.** ອາຍຸ ພັນທຸກຳ ແລະ ສາເຫດທີ່ນັກວິທະຍາສາດຍັງບໍ່ເຂົ້າໃຈ ປະກອບເປັນສ່ວນທີ່ເຫຼືອ.
 
-## What is the difference between "risk reduction" and "prevention"?
+## ຄວາມແຕກຕ່າງລະຫວ່າງ “ການຫຼຸດຄວາມສ່ຽງ” ແລະ “ການປ້ອງກັນ” ແມ່ນຫຍັງ?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**ການຫຼຸດຄວາມສ່ຽງ** ໝາຍເຖິງການຫຼຸດໂອກາດ. ຖ້າກຸ່ມຄົນຈຳນວນຫຼວງຫຼາຍຫຼຸດຄວາມດັນເລືອດຂອງຕົນລົງ ອາດມີຄົນໃນກຸ່ມເປັນໂຣກສະໝອງເສື່ອມໜ້ອຍລົງໃນຫຼາຍປີ ເມື່ອທຽບກັບທີ່ອາດເກີດຂຶ້ນ. ບາງຄົນໃນກຸ່ມນັ້ນຍັງຈະເປັນອີກ.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**ການປ້ອງກັນ** ໝາຍເຖິງການຢຸດບາງສິ່ງບໍ່ໃຫ້ເກີດຂຶ້ນເລີຍ. ສຳລັບໂຣກສະໝອງເສື່ອມ ນັ້ນເປັນສິ່ງທີ່ການຄົ້ນຄວ້າບໍ່ສາມາດສັນຍາກັບໃຜໃນປັດຈຸບັນ.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+ນັກວິໄຈຍັງເວົ້າເຖິງ**ການເລື່ອນ**. ການປະຊຸມ Lancet ລາຍງານຫຼັກຖານໃໝ່ວ່າການຫຼຸດຄວາມສ່ຽງອາດເລື່ອນເວລາທີ່ໂຣກສະໝອງເສື່ອມເລີ່ມ ແລະ ຫຼຸດເວລາທີ່ຄົນໃຊ້ຊີວິດດ້ວຍສຸຂະພາບທີ່ບໍ່ດີ. ແມ່ນແຕ່ການເລື່ອນອອກໄປບໍ່ກີ່ປີກໍມີຄວາມໝາຍຫຼາຍຕໍ່ຜູ້ນັ້ນ ແລະ ຄອບຄົວຂອງເຂົາ.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+ໃນເວັບໄຊນີ້ ພວກເຮົາໃຊ້ຄຳວ່າ “ຫຼຸດຄວາມສ່ຽງ” ແລະ “ກ່ຽວຂ້ອງກັບ” ໂດຍຕັ້ງໃຈ. ເມື່ອທ່ານເຫັນຜະລິດຕະພັນ ອາຫານເສີມ ຫຼື ໂປຣແກຣມທີ່ສັນຍາວ່າ “ປ້ອງກັນອັລໄຊເມີ” ໃຫ້ລະວັງ. NIA ແນະນຳໃຫ້ປຶກສາໝໍກ່ອນລອງຢາ ຫຼື ການປິ່ນປົວໃດທີ່ສັນຍາວ່າປ້ອງກັນອັລໄຊເມີ ເພາະຜະລິດຕະພັນເຫຼົ່ານັ້ນອາດບໍ່ປອດໄພ ເສຍເງິນໂດຍບໍ່ໄດ້ຜົນ ຫຼື ທັງສອງຢ່າງ.
 
-## What have large trials found?
+## ການທົດລອງໃຫຍ່ພົບຫຍັງແດ່?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+ການສຶກສາແບບສັງເກດການ (ທີ່ເບິ່ງວ່າເກີດຫຍັງຂຶ້ນກັບຜູ້ຄົນເມື່ອເວລາຜ່ານໄປ) ສາມາດສະແດງຄວາມສຳພັນໄດ້. ການທົດລອງແບບສຸ່ມ ເຊິ່ງຜູ້ເຂົ້າຮ່ວມຖືກມອບໝາຍໃຫ້ເຂົ້າໂຄງການ ຫຼື ກຸ່ມປຽບທຽບດ້ວຍໂອກາດ ເປັນການທົດສອບທີ່ເຂັ້ມແຂງກວ່າ. ນີ້ແມ່ນສິ່ງທີ່ການທົດລອງທີ່ໂດ່ງດັງບາງອັນພົບ.
 
-### FINGER (Finland)
+### FINGER (ຟິນແລນ)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+ການທົດລອງ FINGER ລົງທະບຽນຜູ້ໃຫຍ່ 1,260 ຄົນອາຍຸ 60 ຫາ 77 ປີ ທີ່ມີຄວາມສ່ຽງສູງກວ່າຕໍ່ໂຣກສະໝອງເສື່ອມ. ເຄິ່ງໜຶ່ງໄດ້ໂຄງການສອງປີ ທີ່ປະກອບດ້ວຍຄຳແນະນຳດ້ານອາຫານ ການອອກກຳລັງກາຍ ການອອກກຳລັງສະໝອງດ້ວຍຄອມພິວເຕີ ແລະ ການກວດສຸຂະພາບຫົວໃຈ ແລະ ເສັ້ນເລືອດ. ອີກເຄິ່ງໜຶ່ງໄດ້ຄຳແນະນຳສຸຂະພາບທົ່ວໄປ. ກຸ່ມໂຄງການໄດ້ຜົນດີກວ່າເລັກນ້ອຍໃນຊຸດການທົດສອບການຄິດ ເຊິ່ງເປັນຄວາມແຕກຕ່າງນ້ອຍແຕ່ມີນັຍສຳຄັນທາງສະຖິຕິ ([ການທົດລອງ FINGER ໃນ The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). ການທົດລອງວັດຜົນການທົດສອບ ບໍ່ແມ່ນການວິນິດໄສໂຣກສະໝອງເສື່ອມ.
 
-### US POINTER (United States)
+### US POINTER (ສະຫະລັດ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ລົງທະບຽນຜູ້ໃຫຍ່ 2,111 ຄົນອາຍຸ 60 ຫາ 79 ປີ ທີ່ບໍ່ເຄື່ອນໄຫວ ມີອາຫານທີ່ບໍ່ດີເທົ່າໃດ ແລະ ມີປັດໃຈສ່ຽງອື່ນໆ. ທັງສອງກຸ່ມໄດ້ຮັບການຊຸກຍູ້ໃຫ້ເຄື່ອນໄຫວທາງກາຍ ແລະ ສະໝອງຫຼາຍຂຶ້ນ ກິນອາຫານໃຫ້ດີຂຶ້ນ ຮັກສາການພົວພັນທາງສັງຄົມ ແລະ ຕິດຕາມສຸຂະພາບຫົວໃຈ. ກຸ່ມໜຶ່ງໄດ້ໂຄງການທີ່ມີໂຄງສ້າງ ແລະ ມີຜູ້ແນະນຳ ອີກກຸ່ມໜຶ່ງຊີ້ນຳຕົນເອງ. ໃນສອງປີ ຜົນການທົດສອບການຄິດດີຂຶ້ນໃນ**ທັງສອງ**ກຸ່ມ ແລະ ດີຂຶ້ນເລັກນ້ອຍໃນກຸ່ມທີ່ມີໂຄງສ້າງ ([ການທົດລອງ US POINTER ໃນ JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). ຜູ້ຂຽນເວົ້າວ່າຕ້ອງຕິດຕາມຕໍ່ອີກເພື່ອຮູ້ວ່າຄວາມແຕກຕ່າງນີ້ມີຄວາມໝາຍໃນຊີວິດປະຈຳວັນບໍ. ເນື່ອງຈາກບໍ່ມີກຸ່ມ “ບໍ່ເຮັດຫຍັງ” ການທົດລອງນີ້ບໍ່ສາມາດບອກໄດ້ວ່າໂຄງການໃດຊ່ວຍໄດ້ຫຼາຍປານໃດທຽບກັບການບໍ່ປ່ຽນແປງເລີຍ.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ຄວາມດັນເລືອດ)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND ສຶກສາຜູ້ໃຫຍ່ສະຫະລັດ 9,361 ຄົນອາຍຸ 50 ປີຂຶ້ນໄປ ທີ່ມີຄວາມດັນເລືອດສູງ. ພວກເຂົາຖືກມອບໝາຍໃຫ້ມີເປົ້າໝາຍຄວາມດັນທີ່ຕ່ຳກວ່າ (ຕົວເລກເທິງຕ່ຳກວ່າ 120) ຫຼື ເປົ້າໝາຍມາດຕະຖານ (ຕ່ຳກວ່າ 140). ເປົ້າໝາຍທີ່ຕ່ຳກວ່າຫຼຸດການ**ຮັບຮູ້ບົກພ່ອງເລັກນ້ອຍ** ຢ່າງມີນັຍສຳຄັນ ເຊິ່ງເປັນໄລຍະຂອງບັນຫາຄວາມຈຳ ແລະ ການຄິດທີ່ອາດເກີດກ່ອນໂຣກສະໝອງເສື່ອມ. ສຳລັບ**ໂຣກສະໝອງເສື່ອມທີ່ໜ້າຈະເປັນ** ມີກໍລະນີໜ້ອຍລົງໃນກຸ່ມເປົ້າໝາຍຕ່ຳ ແຕ່ຄວາມແຕກຕ່າງບໍ່ມີນັຍສຳຄັນທາງສະຖິຕິ. ການທົດລອງຢຸດກ່ອນກຳນົດ ແລະ ມີກໍລະນີໂຣກສະໝອງເສື່ອມໜ້ອຍກວ່າທີ່ຄາດໄວ້ ດັ່ງນັ້ນອາດນ້ອຍເກີນໄປທີ່ຈະຕອບຄຳຖາມນັ້ນ ([SPRINT MIND ໃນ JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### ການທົບທວນສະຫຼຸບວ່າຢ່າງໃດ
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+ການທົບທວນ Cochrane ປີ 2021 ລວບລວມການທົດລອງໃຫຍ່ເກົ້າອັນຂອງໂຄງການທີ່ແກ້ໄຂຄວາມສ່ຽງຫຼາຍຢ່າງພ້ອມກັນ ມີຜູ້ເຂົ້າຮ່ວມກວ່າ 18,000 ຄົນ. ມັນພົບຜົນດີເລັກນ້ອຍໃນການທົດສອບການຄິດ ແຕ່**ບໍ່ມີຄວາມແຕກຕ່າງທີ່ຊັດເຈນໃນຈຳນວນຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມ** ໃນສອງການທົດລອງທີ່ວັດຜົນນີ້ ([ການທົບທວນ Cochrane ກ່ຽວກັບໂຄງການຫຼາຍດ້ານ](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+ການທົບທວນປີ 2017 ໂດຍ National Academies of Sciences, Engineering, and Medicine ທີ່ NIA ສະຫຼຸບ ພົບຫຼັກຖານ "ໜ້າຫວັງແຕ່ຍັງບໍ່ສະຫຼຸບ" ສຳລັບສາມວິທີ: ການຄວບຄຸມຄວາມດັນເລືອດສູງ ການເພີ່ມກິດຈະກຳທາງກາຍ ແລະ ການຝຶກສະໝອງ.
 
-## Does it matter when you start?
+## ເລີ່ມເວລາໃດຈຶ່ງສຳຄັນ?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+ຄຳແນະນຳຂອງການປະຊຸມ Lancet ແມ່ນໃຫ້ຫຼຸດຄວາມສ່ຽງໃຫ້ໄວທີ່ສຸດເທົ່າທີ່ເປັນໄປໄດ້ ແລະ ຮັກສາໃຫ້ຕ່ຳໃຫ້ໄດ້ນານທີ່ສຸດ: "ໄວຂຶ້ນກໍດີຂຶ້ນ" ແລະ "ດົນຂຶ້ນກໍດີຂຶ້ນ". ມັນຍັງເວົ້າວ່າບໍ່ມີຄຳວ່າເລີ່ມໄວເກີນໄປ ຫຼື ສາຍເກີນໄປ ທີ່ຈະຫຼຸດຄວາມສ່ຽງ. ຫຼັກຖານສ່ວນໃຫຍ່ແມ່ນກ່ຽວກັບໄລຍະກາງຊີວິດ ປະມານອາຍຸ 40 ຫາ 65 ປີ ແຕ່ປັດໃຈບາງຢ່າງ ເຊັ່ນ ການສູນເສຍການເບິ່ງເຫັນ ແລະ ການໂດດດ່ຽວທາງສັງຄົມ ແມ່ນຄວາມສ່ຽງໃນໄລຍະຫຼັງຊີວິດ ທີ່ການດຳເນີນການຍັງມີເຫດຜົນ.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+ລາຍງານເວົ້າວ່າປັດຈຸບັນມີຫຼັກຖານທີ່ເຂັ້ມແຂງກວ່າວ່າການສຳຜັດກັບຄວາມສ່ຽງເປັນເວລາດົນກວ່າ ມີຜົນກະທົບໃຫຍ່ກວ່າ. ຕົວຢ່າງ ເບົາຫວານທີ່ເລີ່ມໃນໄລຍະກາງຊີວິດເບິ່ງຄືວ່າສຳຄັນກວ່າເບົາຫວານທີ່ເລີ່ມຫຼັງຈາກນັ້ນ.
 
-## Is dementia risk the same for everyone?
+## ຄວາມສ່ຽງຕໍ່ໂຣກສະໝອງເສື່ອມເທົ່າກັນສຳລັບທຸກຄົນບໍ?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+ບໍ່. ການປະຊຸມພົບວ່າຜູ້ຄົນໃນປະເທດທີ່ມີລາຍໄດ້ຕ່ຳ ແລະ ປານກາງ ກຸ່ມຊົນເຊື້ອຊາດສ່ວນນ້ອຍ ແລະ ຄົນທີ່ມີເງິນໜ້ອຍ ມັກມີຄວາມສ່ຽງເຫຼົ່ານີ້ຫຼາຍກວ່າ ສະນັ້ນໂຣກສະໝອງເສື່ອມມັກເກີດໃນອາຍຸນ້ອຍກວ່າ. ຄວາມສ່ຽງຫຼາຍຢ່າງກ່ຽວຂ້ອງກັບສະຖານະການທີ່ຄົນບໍ່ໄດ້ເລືອກ ເຊັ່ນ ຄຸນນະພາບການສຶກສາທີ່ເຂົາໄດ້ຮັບຕອນເປັນເດັກ ອາກາດໃນບ່ອນທີ່ອາໄສຢູ່ ແລະ ວ່າອາຫານທີ່ດີມີລາຄາຖືກ ແລະ ຢູ່ໃກ້ບໍ.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຄຳແນະນຳຂອງການປະຊຸມມຸ່ງໄປທີ່ລັດຖະບານເທົ່າກັບບຸກຄົນ: ການສຶກສາທີ່ດີສຳລັບເດັກທຸກຄົນ ອາກາດທີ່ສະອາດກວ່າ ມາດຕະການຫຼຸດການສູບບຸຫຼີ ນ້ຳຕານ ແລະ ເກືອໜ້ອຍລົງໃນອາຫານທີ່ຂາຍໃນຮ້ານ ແລະ ຮ້ານອາຫານ ແລະ ເຄື່ອງຊ່ວຍຟັງສຳລັບທຸກຄົນທີ່ຕ້ອງການ. ຄວາມພະຍາຍາມຂອງບຸກຄົນມີຄວາມສຳຄັນ ແຕ່ໂລກທີ່ຜູ້ຄົນອາໄສຢູ່ກໍມີຄວາມສຳຄັນເຊັ່ນກັນ. ນັ້ນເປັນເຫດຜົນອີກຢ່າງໜຶ່ງທີ່ບໍ່ຄວນຕຳໜິໃຜສຳລັບການວິນິດໄສ.
 
-## What are the honest limits of this research?
+## ຂໍ້ຈຳກັດທີ່ຊື່ສັດຂອງການຄົ້ນຄວ້ານີ້ແມ່ນຫຍັງ?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **ໂຣກສະໝອງເສື່ອມໃຊ້ເວລາຫຼາຍທົດສະວັດເພື່ອພັດທະນາ** ແຕ່ການທົດລອງສ່ວນໃຫຍ່ໃຊ້ເວລາສອງຫາຫ້າປີ. ການວັດໂຣກສະໝອງເສື່ອມເອງ ບໍ່ແມ່ນພຽງຜົນການທົດສອບ ຕ້ອງການການສຶກສາທີ່ຍາວນານ ແລະ ໃຫຍ່ຫຼາຍ.
+- **ການທົດລອງສ່ວນໃຫຍ່ວັດຜົນການທົດສອບການຄິດ.** ການປັບປຸງເລັກນ້ອຍໃນການທົດສອບບໍ່ໄດ້ໝາຍຄວາມວ່າຈະມີຄົນເປັນໂຣກສະໝອງເສື່ອມໜ້ອຍລົງ ຫຼື ຊີວິດປະຈຳວັນຈະງ່າຍຂຶ້ນ.
+- **ອາສາສະໝັກມັກມີສຸຂະພາບດີ ແລະ ມີການສຶກສາສູງກວ່າປະຊາຊົນທົ່ວໄປ.** ການປະຊຸມ Lancet ບອກວ່າຫຼັກຖານສ່ວນໃຫຍ່ຍັງມາຈາກປະເທດທີ່ມີລາຍໄດ້ສູງ ແລະ ກຸ່ມຊົນເຊື້ອຊາດສ່ວນນ້ອຍຖືກເປັນຕົວແທນໜ້ອຍ.
+- **ບາງຄວາມສຳພັນໄປທັງສອງທາງ.** ການເຄື່ອນໄຫວໜ້ອຍລົງ ຫຼື ການພົວພັນທາງສັງຄົມໜ້ອຍລົງ ອາດເປັນຜົນຕົ້ນໆຂອງໂຣກສະໝອງເສື່ອມ ບໍ່ແມ່ນພຽງສາເຫດ.
+- **ການທົດລອງອາຫານຍັງບໍ່ໜ້າຕື່ນເຕັ້ນເທົ່າໃດ.** ການທົດລອງສາມປີຂອງອາຫານ MIND ບໍ່ພົບຄວາມແຕກຕ່າງທີ່ມີນັຍສຳຄັນດ້ານການຄິດ ເມື່ອທຽບກັບອາຫານຄວບຄຸມ. ເບິ່ງ[ຄູ່ມືອາຫານຂອງພວກເຮົາ](/brain-health/diet/).
+- **ເກມສະໝອງຍັງບໍ່ໄດ້ພິສູດວ່າປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້.** ເບິ່ງຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ເກມສະໝອງ ແລະ ໂຣກສະໝອງເສື່ອມ](/brain-health/brain-games/).
+- **ການອົດອາຫານມີຫຼັກຖານຈາກມະນຸດໜ້ອຍຫຼາຍ** ແລະ ອາດມີຄວາມສ່ຽງສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ. ເບິ່ງ[ຄູ່ມືການອົດອາຫານຂອງພວກເຮົາ](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## ຖ້າຄົນໜຶ່ງເຮັດທຸກຢ່າງ “ຖືກຕ້ອງ” ເປັນຫຍັງຍັງເປັນໂຣກສະໝອງເສື່ອມ?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+ເພາະໂຣກສະໝອງເສື່ອມບໍ່ແມ່ນພຽງຜົນຂອງການເລືອກ. NIA ເວົ້າວ່າ[ອາຍຸເປັນປັດໃຈສ່ຽງທີ່ໃຫຍ່ທີ່ສຸດທີ່ຮູ້ກັນສຳລັບອັລໄຊເມີ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) ແລະ ບໍ່ມີໃຜປ່ຽນແປງມັນໄດ້. ພັນທຸກຳກໍມີສ່ວນ. ແລະ ນັກວິທະຍາສາດຍັງບໍ່ເຂົ້າໃຈຢ່າງເຕັມທີ່ວ່າອັນໃດເຮັດໃຫ້ເກີດອັລໄຊເມີໃນຄົນສ່ວນໃຫຍ່. ເຖິງແມ່ນວ່າປັດໃຈສ່ຽງ 14 ຢ່າງທັງໝົດຈະຖືກກຳຈັດ ການປະເມີນຂອງການປະຊຸມ Lancet ເອງກໍຍັງປະໄວ້ກໍລະນີຫຼາຍກວ່າເຄິ່ງໜຶ່ງໂດຍບໍ່ມີຄຳອະທິບາຍ.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+ສະນັ້ນຖ້າທ່ານກຳລັງດູແລຜູ້ທີ່ອອກກຳລັງກາຍ ກິນອາຫານດີ ບໍ່ເຄີຍສູບບຸຫຼີ ແຕ່ຍັງເປັນໂຣກສະໝອງເສື່ອມ ບໍ່ມີຫຍັງຜິດພາດຈາກເຂົາ ຫຼື ຈາກທ່ານ. ຖ້າທ່ານກຳລັງມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມເອງ ມັນບໍ່ແມ່ນຄວາມຜິດຂອງທ່ານ. ຄວາມຮູ້ສຶກຜິດແມ່ນເລື່ອງທົ່ວໄປໃນຄອບຄົວ ແຕ່ມັນບໍ່ສົມຄວນໄດ້ຮັບ. ສິ່ງທີ່ສຳຄັນດຽວນີ້ແມ່ນຄວາມສະບາຍ ການເຊື່ອມໂຍງ ແລະ ມື້ທີ່ດີ ແລະ [ແນວຄິດກິດຈະກຳ](/activities/ideas/) ກັບ[ຄູ່ມືການດູແລຕົນເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/) ເປັນບ່ອນທີ່ດີທີ່ຈະເລີ່ມ.
 
-## What steps can you talk over with a doctor?
+## ຂັ້ນຕອນໃດທີ່ຄວນປຶກສາກັບໝໍ?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+ນີ້ແມ່ນຂົງເຂດທີ່ຖືກສຶກສາເລື້ອຍທີ່ສຸດ ແລະ ຄວນຍົກຂຶ້ນໃນການກວດສຸຂະພາບປະຈຳ ເພາະສ່ວນໃຫຍ່ຊ່ວຍສຸຂະພາບຫົວໃຈ ອາລົມ ແລະ ຄວາມເປັນເອກະລາດດ້ວຍ ບໍ່ວ່າຜົນຕໍ່ໂຣກສະໝອງເສື່ອມຈະເປັນແນວໃດ.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **ຄວາມດັນເລືອດ.** ຖາມວ່າຕົວເລກຂອງທ່ານເປັນແນວໃດ ແລະ ເປົ້າໝາຍໃດເໝາະກັບທ່ານ. ການປະຊຸມ Lancet ແນະນຳໃຫ້ຕັ້ງເປົ້າໝາຍຕົວເລກເທິງ 130 ຫຼື ຕ່ຳກວ່າ ຕັ້ງແຕ່ປະມານອາຍຸ 40 ປີ ແຕ່ເປົ້າໝາຍທີ່ເໝາະສົມສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸຂຶ້ນກັບສຸຂະພາບໂດຍລວມຂອງເຂົາ.
+2. **ການໄດ້ຍິນ.** ຂໍກວດການໄດ້ຍິນ ແລະ ຖາມວ່າເຄື່ອງຊ່ວຍຟັງຈະຊ່ວຍໄດ້ບໍ. [ຄູ່ມືການໄດ້ຍິນ](/brain-health/hearing/) ຂອງພວກເຮົາອະທິບາຍການຄົ້ນຄວ້າ.
+3. **ການເບິ່ງເຫັນ.** ກວດຕາເປັນປະຈຳ ແລະ ຖາມວ່າບັນຫາເຊັ່ນ ຕ້ອກັນ ສາມາດປິ່ນປົວໄດ້ບໍ.
+4. **ໄຂມັນໃນເລືອດ.** ຖາມວ່າຄວນກວດໄຂມັນ LDL ຂອງທ່ານບໍ ແລະ ຄວນປ່ຽນແປງອັນໃດບໍ.
+5. **ນ້ຳຕານໃນເລືອດ.** ຖ້າທ່ານເປັນເບົາຫວານ ຖາມວ່າຈະຄວບຄຸມຢ່າງປອດໄພໄດ້ແນວໃດ.
+6. **ອາລົມ.** ຊຶມເສົ້າເປັນເລື່ອງທົ່ວໄປ ແລະ ປິ່ນປົວໄດ້. ບອກໝໍຖ້າທ່ານຮູ້ສຶກເສົ້າ ຫຼື ໝົດຄວາມສົນໃຈໃນສິ່ງຕ່າງໆເກີນສອງສາມອາທິດ.
+7. **ການສູບບຸຫຼີ ແລະ ເຫຼົ້າ.** ຖາມກ່ຽວກັບການສະໜັບສະໜູນເພື່ອເລີກສູບ ແລະ ຂີດຈຳກັດເຫຼົ້າທີ່ປອດໄພ.
+8. **ການເຄື່ອນໄຫວ.** ຖາມວ່າກິດຈະກຳປະເພດໃດປອດໄພສຳລັບທ່ານ. [ຄູ່ມືການອອກກຳລັງກາຍ](/brain-health/exercise/) ຂອງພວກເຮົາມີແນວຄິດ.
+9. **ການປ້ອງກັນຫົວ.** ໃສ່ໝວກກັນນ໊ອກສຳລັບການຂີ່ລົດຖີບ ແລະ ກິລາທີ່ມີການປະທະ ແລະ ຖາມກ່ຽວກັບການປ້ອງກັນການລົ້ມ.
+10. **ການຕິດຕໍ່ກັບຜູ້ຄົນ.** ເວລາກັບຄົນອື່ນເປັນສ່ວນໜຶ່ງຂອງຊີວິດທີ່ມີສຸຂະພາບດີ. ເບິ່ງ[ຄູ່ມືການເຊື່ອມໂຍງທາງສັງຄົມ](/brain-health/social-connection/) ຂອງພວກເຮົາ ແລະ[ການນອນ](/brain-health/sleep/) ເຊັ່ນກັນ.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+ກ່ອນປ່ຽນຢາ ອາຫານ ອາຫານເສີມ ການອົດອາຫານ ຫຼື ການອອກກຳລັງກາຍ ໃຫ້ປຶກສາໝໍກ່ອນ ໂດຍສະເພາະຖ້າທ່ານເປັນພະຍາດຫົວໃຈ ເບົາຫວານ ເຄີຍລົ້ມ ຫຼື ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມແລ້ວ.
 
-## Talk with a doctor
+## ປຶກສາໝໍ
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+ຖ້າທ່ານສັງເກດເຫັນການປ່ຽນແປງຄວາມຈຳ ຫຼື ການຄິດທີ່ເຮັດໃຫ້ເປັນຫ່ວງ ບໍ່ວ່າຈະໃນຕົວທ່ານເອງ ຫຼື ຄົນອື່ນ ໃຫ້ນັດໝໍ. NIA ລະບຸວ່າ[ບັນຫາຄວາມຈຳສາມາດມີສາເຫດອື່ນ](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ເຊັ່ນ ຜົນຂ້າງຄຽງຂອງຢາ ບັນຫາຕ່ອມໄທຣອຍ ຊຶມເສົ້າ ຫຼື ວິຕາມິນ B12 ຕ່ຳ ແລະ ບັນຫາບາງຢ່າງຈະຫາຍໄປເມື່ອສາເຫດຖືກປິ່ນປົວ. [ຄູ່ມືສັນຍານເຕືອນ](/brain-health/warning-signs/) ຂອງພວກເຮົາອະທິບາຍສິ່ງທີ່ຄວນລະວັງ.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**ຮັບການດູແລເຮັ່ງດ່ວນ** ສຳລັບການປ່ຽນແປງກະທັນຫັນ: ສັບສົນກະທັນຫັນ ອ່ອນແຮງ ຫຼື ຊາເຄິ່ງໜຶ່ງຂອງຮ່າງກາຍ ເວົ້າລຳບາກ ຫຼື ປວດຫົວຮຸນແຮງ ອາດເປັນສັນຍານຂອງໂຣກເສັ້ນເລືອດໃນສະໝອງ ຫຼື ເຫດສຸກເສີນອື່ນ. ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນຂອງທ່ານ.
 
-## Where Golden Moments fits
+## Golden Moments ຢູ່ຕຳແໜ່ງໃດ
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ສ້າງກິດຈະກຳງ່າຍໆທີ່ໃຊ້ຮ່ວມກັນ ເຊັ່ນ [conversation cards](/games/conversation-cards/), [picture bingo](/games/picture-bingo/) ແລະ[ການຢຸດຫາຍໃຈຢ່າງສະຫງົບ](/games/calm-breathing/). ພວກມັນເພື່ອຄວາມເພີດເພີນ ແລະ ເວລາຮ່ວມກັນ. ພວກມັນບໍ່ແມ່ນການປິ່ນປົວ ແລະ ພວກມັນບໍ່ປ້ອງກັນ ຫຼື ຊະລອໂຣກສະໝອງເສື່ອມ.
