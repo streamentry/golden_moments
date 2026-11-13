@@ -7,7 +7,7 @@ order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Ka whakakapi te pingo whakaahua i ngā tau ki ngā whakaahua nui, mārama, kia taea ai te tangata te whakarite i ana mea e kitea ana, kāore e hiahia he pānui, he maumahara. Tāutuhia ngā kāri, te kaikaranga ā-mata rānei, karangatia he whakaahua i te wā, ā, waiho kia tohu te katoa i ā rātou e kite ana. Whakaitia ngā rōpū, whakanuia ngā whakaahua, ā, kōwhiria te wini. Ko te pingo pai he hāora hāpori, ehara i te tere ki te taumata.
+  Ka whakakapi te pingo whakaahua i ngā tau ki ngā whakaahua nui, mārama, kia taea ai te tangata te whakarite i ana mea e kitea ana, kāore e hiahia he pānui, he maumahara. Whakamahia ngā kāri, te kaikaranga ā-mata rānei, karangatia he whakaahua i te wā, ā, waiho kia tohu te katoa i ā rātou e kite ana. Whakaitia ngā rōpū, whakanuia ngā whakaahua, ā, kōwhiria te wini. Ko te pingo pai he hāora hāpori, ehara i te tere ki te taumata.
 keyPoints:
   - "Whakamahia ngā whakaahua hei tauira mō ngā tau. Whakanuia ia whakaahua, māmā te mārama, he mea kotahi e mōhio ana te tangata."
   - "Karangatia mārie, whakaaturia te whakaahua, kīa tōna ingoa. Kīa anō kotahi, ā, tatari."
@@ -42,7 +42,7 @@ He kēmu hāpori, he mōhio e te nuinga o ngā pakeke te pingo, engari he uaua p
 
 ## Me pēhea te mahi o te pingo whakaahua
 
-He kāri tō ia kaitākaro he rārangi whakaahua, pērā i te tīpoti, te ngeru, te rōhi, te poti rēhia, te paihikara. Ka whakaaturia, ka kīa e te kaikaranga tētahi whakaahua i te wā. Ka tohu te kaitākaro i te whakaahua ōrite ki tana kāri. Ko te kaitākaro e tohu ana i tētahi rārangi katoa, i te huinga e whakaaetia ana e te rōpū, ka taea te karanga "Pingo!" engari he rōpū e kore e whai wini rawa.
+He kāri tō ia kaitākaro he rārangi whakaahua, pērā i te tīpoti, te ngeru, te rōhi, te poti rēhia, te paihikara. Ka whakaaturia, ka kīia e te kaikaranga tētahi whakaahua i te wā. Ka tohu te kaitākaro i te whakaahua ōrite ki tana kāri. Ko te kaitākaro e tohu ana i tētahi rārangi katoa, i te huinga e whakaaetia ana e te rōpū, ka taea te karanga "Pingo", engari he rōpū e kore e whai wini rawa.
 
 Ka taea te whakamahi i ngā kāri tā mai i ā mātou [mahi taiwhanga kore utu](/activities/printable/), rānei te [kēmu pingo whakaahua](/games/picture-bingo/), e whai kaikaranga ā-mata mō ngā rōpū. Ka pai ngā mea e rua ina whakaarahia te papaaho ki te rōpū katoa e kite ai.
 
