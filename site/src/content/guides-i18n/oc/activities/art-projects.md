@@ -17,7 +17,7 @@ keyPoints:
   - "Triatz de projèctes amb una primièra passa clara, coma trempar lo pinzèl o desfar una imatge, per que la persona pòsca començar sens dificultat."
   - "Utilizatz de matèrial non tòxic, amb de manegas grossas, sens pèças pichòtas e sens fums ni utensilis tallants."
   - "Començatz ensemble, puis recular. Fòrça personas ne an pas besonh que del primièr tràç o del primièr talh per contunhar."
-  - "Adaptatz lo projècte a mesura que las capacitats cambian, de la precision al debut a un movement larg e sensorial mai tard."
+  - "Adaptatz lo projècte a mesura que las capacitats cambian, de la precision al començament a un movement larg e sensorial mai tard."
   - "Lausatz las causidas e las tèxturas, pas la tècnica, e arrestatz quand l'activitat cessa d'èsser agradabla."
 faq:
   - q: "Quins projèctes artistics pòt apreciar una persona amb demència ?"
@@ -62,7 +62,7 @@ L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-ca
 
 Utilizatz de papièr aquarèla espés, un pinzèl larg e moll e unas colors dins de bocals pauc prigonds. Molhatz lo papièr amb d'aiga neta, puis lasatz-les far cair la color. Inclinatz doçament lo papièr per que las colors s'espandisson. Lo resultat es una imatge doça, abstracta, que demanda pas cap de plan.
 
-- **Fasa precoça :** Laissatz-los causir las colors e pintar un paisatge.
+- **Fasa precòça :** Laissatz-los causir las colors e pintar un paisatge.
 - **Fasa mejana :** Prepausatz dos o tres colors e fasètz vos la molhadura.
 - **Fasa tardiva :** Tenètz lo papièr pendent que tapotejan amb una esponja.
 
@@ -101,9 +101,9 @@ Lo matèrial importa mai per la sègurtat e lo confòrt que per la qualitat. Qua
 
 ## Adaptar segon la fasa
 
-En fasa precoça, la màger part de las personas pòdon planificar e acabar un projècte amb un pauc d'ajuda. En fasa mejana, prepausatz mens de causidas e mai de guida. En fasa tardiva, concentratz-vos sus los procèssus sensorials coma estrenhre l'argila o estampar amb una esponja, e aprigatz lo resultat mai que lo fin.
+En fasa precòça, la màger part de las personas pòdon planificar e acabar un projècte amb un pauc d'ajuda. En fasa mejana, prepausatz mens de causidas e mai de guida. En fasa tardiva, concentratz-vos sus los procèssus sensorials coma estrenhre l'argila o estampar amb una esponja, e aprigatz lo resultat mai que lo fin.
 
-Per d'idèias pròpias a cada fasa, veire [las activitats de fasa precoça](/activities/early-stage/), [de fasa mejana](/activities/middle-stage/) e [de fasa tardiva](/activities/late-stage/). Se la persona refusa o se sent frustrada, nòstra guida sus [quand qualqu'un ditz non](/caregiving/when-they-say-no/) explica coma se retirar.
+Per d'idèias pròpias a cada fasa, veire [las activitats de fasa precòça](/activities/early-stage/), [de fasa mejana](/activities/middle-stage/) e [de fasa tardiva](/activities/late-stage/). Se la persona refusa o se sent frustrada, nòstra guida sus [quand qualqu'un ditz non](/caregiving/when-they-say-no/) explica coma se retirar.
 
 ## Combinar amb un jòc
 
