@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Kapag Tumatanggi o Naiinis ang Taong may Dementia sa Isang Gawain"
+seoTitle: "Kapag Tumanggi ang Taong may Dementia sa Isang Gawain"
+description: "Bakit maaaring tumanggi o mainis ang taong may dementia sa gawain, ano ang susubukan, ano ang iiwasan, at kailan kailangan ng doktor."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Kapag sinabi ng taong may dementia na hindi, tanggapin ito nang mahinahon at subukan ulit mamaya, o mag-alok ng iba. Kadalasan may dahilan ang pagtanggi: masyadong mahirap o pambata ang gawain, pagod sila, masakit, gutom, o nalulula sa ingay. Huwag makipagtalo o magpilit. Pasimplehin ang gawain, mag-alok ng dalawang pagpipilian, o humingi ng tulong nila. Ang biglaan o mabilis na pagbabago ng asal, lalo na pagkatapos ng impeksyon o bagong gamot, ay nangangailangan ng doktor agad.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Ang “hindi” ay sagot na dapat igalang, hindi problemang dapat lampasan."
+  - "Karaniwang may dahilan ang pagtanggi: masyadong mahirap, pambata, pagod, may sakit, hindi komportable, o nalulula."
+  - "Umatras, maghintay, at subukan sa ibang oras, sa ibang paraan, o sa mas simpleng bersyon."
+  - "Mas gumagana ang paghingi ng tulong nila kaysa paghingi sa kanilang magpakitang-gilas."
+  - "Huwag makipagtalo, magpilit, magtanong nang paulit-ulit, o magtama. Suriin ang sarili kung nagmamadali ka o sumisiksik."
+  - "Ang biglaan o mabilis na pagbabago ng asal, lalo na kasama ng impeksyon o bagong gamot, ay dapat agad dalhin sa doktor."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Okay lang bang laktawan nila ang mga gawain nang tuluyan?"
+    a: "Oo, sa anumang araw. Ang pag-upo nang magkasama, pakikinig ng musika, o panonood sa paligid ay maaaring sapat na. Kung unti-unting tumigil ang isang tao sa pagkagusto sa lahat ng bagay sa loob ng ilang linggo, sabihin ito sa doktor nila, dahil ang mababang mood, sakit, o iba pang problema sa kalusugan ay maaaring bahagi ng larawan."
+  - q: "Bakit tumatanggi sila sa mga bagay na dati nilang mahal?"
+    a: "Ang lumang libangan ay maaaring maging nakakainis kapag nangangailangan na ito ng kakayahang mahirap na ngayon dahil sa dementia, at maaaring mahiya ang tao. Subukan ang mas simpleng bahagi ng parehong gawain, gaya ng pag-uuri ng butones sa halip na pananahi, o pagtingin sa mga litrato ng hardin sa halip na pagtatanim."
+  - q: "Dapat ko ba silang kumbinsihin?"
+    a: "Hindi. Ang pagpilit sa isang tao na gawin ang isang bagay na ginawang mahirap ng dementia ay kilalang nagpapasimula ng pagkabagabag. Tanggapin ang hindi, ilipat ang usapan, at mag-alok ulit mamaya o sa ibang paraan."
+  - q: "Kailan ang pagbabago ng asal ay emergency?"
+    a: "Kung may taong nasa panganib o may palatandaan ng medikal na emergency, tawagan ang lokal na numero ng emergency. Para sa biglaang pagkalito o asal na mabilis nagbabago sa loob ng mga oras o araw, lalo na kung may lagnat, impeksyon, o bagong gamot, kontakin agad ang doktor nila."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Inihanda mo ang lahat, nag-alok ng laro o lakad, at narinig ang “Hindi.” O maayos na nagsimula ang gawain at nagtapos sa tabletang naitulak palayo at sa matalim na salita. Nakakadismaya ito, at napakakaraniwan. Ang pagtanggi at pagkainis ay kadalasang mensahe, hindi katigasan ng ulo. Ang pag-alam kung ano ang mensaheng iyon ay kadalasang nagpapakita kung ano ang susubukan sa susunod.
 
-## Why does someone with dementia refuse activities?
+## Bakit tumatanggi ang taong may dementia sa mga gawain?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Kadalasan may dahilan, kahit hindi maipahayag ng tao ito sa salita. Sinasabi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) na maaaring ibig sabihin ng pagtutol na hindi kayang gawin ng tao ang gawain, o natatakot silang subukan. Kabilang sa mga karaniwang dahilan:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Masyadong mahirap.** Kailangan ng gawain ang kakayahang mahirap na ngayon dahil sa dementia, at nakakahiyang magkamali sa harap ng iba.
+- **Pakiramdam na pambata.** Napapansin ng mga adulto ang mga larawang parang cartoon, boses na pang-sanggol, at mga gawaing mukhang para sa bata.
+- **Pagod.** Maraming tao ang mas kaunti ang enerhiya sa huling bahagi ng araw. Tingnan ang [mga kalmadong gawain sa huling bahagi ng hapon](/caregiving/late-day-restlessness/).
+- **Pisikal na discomfort.** Inilista ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ang sakit, kulang na tulog, hirap makakita o makarinig, paninigas ng dumi, gutom, uhaw, at side effect ng mga bagong gamot bilang posibleng sanhi ng pagkabagabag.
+- **Sobrang dami ng nangyayari.** Ang malakas na TV, sabay-sabay na usapan, o siksikang kuwarto ay maaaring nakalulula.
+- **Pakiramdam na tinutulak.** Pinangalanan ng NIA ang pagtulak sa taong gumawa ng bagay na ginawang napakahirap ng Alzheimer's, o alalahanin ang mga pangyayari o tao, bilang sanhi ng agitasyon.
+- **Mababang mood.** Ang pagkawala ng interes sa mga bagay ay maaaring senyales ng depresyon, na dapat ipaalam sa doktor.
+- **Ayaw lang talaga nila.** May karapatan ang mga adulto na tumanggi.
 
-## What should I try when they say no?
+## Ano ang dapat kong subukan kapag tumanggi sila?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Tanggapin nang mahinahon ang hindi, saka baguhin ang isang bagay: ang oras, ang gawain, ang antas ng hirap, o ang paraan ng pag-imbita.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Pabayaan muna.** “Ayos lang. Baka mamaya.” Saka lumipat sa ibang bagay nang walang buntong-hininga.
+2. **Subukan ulit mamaya.** Iminumungkahi ng Alzheimer's Association na subukan ulit mamaya, o sa ibang oras ng araw.
+3. **Gawing mas maliit.** Isang pagtutugma sa halip na buong laro. Isang tuwalya sa halip na buong basket ng labada. Mas kaunting larawan, mas kaunting pagpipilian, at nananatiling nakikita ang mga larawan.
+4. **Mag-alok ng dalawang pagpipilian.** “Gusto mo bang tingnan ang mga larawan ng ibon o makinig ng musika?” Ang pagpili ay nagbabalik ng pakiramdam ng kontrol.
+5. **Humingi ng tulong sa halip na pagtatanghal.** “Matutulungan mo ba akong pag-uri-uriin ang mga ito?” o “Alin sa tingin mo ang pinakamagandang kulay?” Ibang-iba ang pakiramdam na kailangan ka sa pakiramdam na sinusubok ka.
+6. **Ikaw ang magsimula.** Simulan ang gawain sa tabi nila nang hindi nagtatanong. Maraming tao ang sumasali kapag may nangyayari na, at kung hindi, nakagugol pa rin kayo ng oras nang magkasama.
+7. **Lumipat sa pisikal o nakakapagpakalmang gawain.** Maikling lakad, musika, meryenda, pagtiklop ng labada, o isang sandaling [mahinahong paghinga](/games/calm-breathing/) nang magkasama. Iminumungkahi ng NIA na ilihis ang atensyon sa musika, libro, o lakad.
+8. **Hayaan silang gawin sa sarili nilang paraan.** Kung gusto nilang maglaro nang iba sa mga patakaran, sundin ito. Iminumungkahi ng Alzheimer's Association na maging flexible.
 
-## What should I say when they get frustrated?
+## Ano ang sasabihin kapag naiinis sila?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Dahan-dahan, babaan ang boses, at magpatiyak. Iminumungkahi ng [patnubay ng Alzheimer's Association tungkol sa agitasyon](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) na umatras at humingi ng permiso, gumamit ng kalmado at positibong pahayag, at mag-alok ng gabay na pagpili sa pagitan ng dalawang opsyon. Mga pariralang ganito ang diwa:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “Ikinalulungkot ko, nakakainis ito. Tigilan na natin.”
+- “Ayos ka lang. Nandito lang ako.”
+- “May oras ka pa bang tumulong sa akin sa ibang bagay?”
+- “Uminom na lang tayo ng tsaa?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Pagkatapos, tapusin ang gawain nang hindi ito ginagawang malaking bagay. Ang aming [mga tip sa komunikasyon](/caregiving/communication-tips/) ay may higit pa tungkol sa dapat sabihin.
 
-## What should I avoid?
+## Ano ang dapat kong iwasan?
 
-Some natural reactions tend to make things worse.
+Ang ilang natural na reaksyon ay madalas nagpapalala ng sitwasyon.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Pakikipagtalo o pagpipilit.** “Halika na, isa na lang” o “Gustong-gusto mo ito” ay bihirang makatulong.
+- **Pagtatanong o pagtutuwid.** “Alam mo naman kung ano ito” o “Hindi, mali ang isang iyan” ay nagdadagdag ng presyon.
+- **Pagkuha nito nang personal.** Pinapaalala ng NIA sa mga tagapag-alaga na ang sakit, hindi ang tao, ang nagdudulot ng mga pagbabagong ito.
+- **Pagsisiksik o pagmamadali.** Pinapayuhan ng Alzheimer's Association na huwag itaas ang boses, magpakita ng pagkabalisa, ipitin, pulupulin, pigilan, punahin, balewalain, o makipagtalo sa tao, at iwasan ang biglaang galaw sa labas ng paningin nila.
+- **Paggamit ng konsensya.** “Inayos ko ang lahat ng ito para sa iyo” ay nagpapasama sa pakiramdam ninyong dalawa.
+- **Paglalagay ng tatak.** Ang “matigas ang ulo” o “mahirap pakisamahan” ay nagtatago ng tunay na dahilan at nagpapahirap sa paglutas nito.
 
-## How can I find out what is behind repeated refusals?
+## Paano ko malalaman kung ano ang nasa likod ng paulit-ulit na pagtanggi?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Magtala ng simpleng tala sa loob ng isa o dalawang linggo. Sinasabi ng NIA na ang pagsubaybay sa mga pagbabago sa asal ay makakatulong sa mga tagapag-alaga at tagapagbigay ng pangangalagang pangkalusugan na makilala ang pattern at matukoy ang sanhi.
 
-Jot down:
+Isulat ang:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ang oras ng araw;
+- ano ang inalok mo at paano mo ito tinanong;
+- ano ang nangyayari sa paligid (ingay, bisita, TV);
+- paano sila natulog, kumain, at uminom, at kailan sila huling nakapunta sa banyo;
+- anumang bagong gamot o kamakailang sakit.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Madalas lumilitaw agad ang mga pattern: mga pagtanggi na nangyayari lang pagkatapos ng 4 p.m., sa isang partikular na laro lang, o kapag nakabukas ang TV. Ang [gabay ng Family Caregiver Alliance tungkol sa mga asal sa dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ay nagsasabi nang simple: hindi natin mababago ang tao, pero mababago natin ang sarili nating asal at ang paligid.
 
-## When should I talk to a doctor about refusal or frustration?
+## Kailan ako dapat kumausap ng doktor tungkol sa pagtanggi o pagkainis?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kumausap ng doktor kapag biglang nagbago ang asal, mabilis nagbabago, o kasama ng palatandaan ng sakit. Sinasabi ng NIA na ang biglaan o mabilis na nagbabagong asal, lalo na kung nagkaroon ng impeksyon o kamakailang pagbabago sa gamot, ay dapat agad dalhin sa atensyon ng doktor.
 
-Contact their doctor promptly if you notice:
+Kontakin agad ang doktor nila kung mapapansin mo ang:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- biglaang pagkalito o malaking pagbabago sa loob ng mga oras o araw;
+- palatandaan ng sakit, gaya ng pag-ngiwi, pagprotekta sa isang bahagi ng katawan, o bagong hirap sa paggalaw;
+- lagnat o iba pang palatandaan ng impeksyon;
+- bago o binagong gamot na sinundan ng pagbabago sa asal;
+- pagkawala ng interes sa halos lahat, pagluha, o pag-iwas na tumatagal ng higit sa ilang linggo;
+- pagtanggi sa pagkain o inumin.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Inirerekomenda ng Alzheimer's Association ang masusing pagsusuri sa katawan para sa sinumang may sintomas sa asal, lalo na kapag biglang lumitaw. Pinapayuhan din ng Family Caregiver Alliance na kumonsulta muna sa doktor, dahil ang problema sa asal ay maaaring may sanhi sa medikal. Huwag magsimula, huminto, o magbago ng anumang gamot nang hindi nakikipag-usap sa doktor o pharmacist.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Kung may taong nasa panganib o may palatandaan ng medikal na emergency, tawagan ang lokal na numero ng emergency. Pinapayuhan ng NIA na sabihin sa dispatcher na may dementia ang tao. Para sa agarang hakbang sa kaligtasan kapag nagiging pisikal ang galit, tingnan ang aming [gabay tungkol sa galit at karahasan sa dementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Okay lang bang wala kaming gawin?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Oo. May mga araw na ang pinakamagandang gawain ay walang gawain: pag-upo nang magkasama, paghawak ng kamay, pakikinig sa paboritong plaka ng musika, o panonood ng mga ibon sa bintana. Hindi iyon kabiguan. Ipinaliliwanag ng aming [gabay sa paglalaro nang magkasama](/caregiving/how-to-play-together/) kung bakit ang maagang pagtigil, o hindi pagsisimula, ay maaaring tamang desisyon.
