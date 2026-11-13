@@ -9,7 +9,7 @@ translatedFrom: 2026-10-25
 summary: >-
   Degun pòt prometre de previnir la demència. La Comission Lancet de 2024 estimèt qu'aquò pròche la mitat dels cas de demència dins lo mond son ligats a 14 factors de risc que pòdon èsser cambiats, coma la tension auta, la perda d'audicion e la inactivitat. Los ensages mòstran de pichons efièches sus los tèstes de pensada, pas la preuva de mens de cas de demència. Fòrça personas que fan tot çò « just » desvelopan encara la demència, e es pas la faute de degun.
 keyPoints:
-  - "La Comission Lancet de 2024 a ligat de 45 % dels cas de demència dins lo mond a 14 factors de risc pòt èsser cambiats. Es una estimacion per una populacion, pas una garantia personala."
+  - "La Comission Lancet de 2024 a ligat de 45% dels cas de demència dins lo mond a 14 factors de risc pòt èsser cambiats. Es una estimacion per una populacion, pas una garantia personala."
   - "La reduccion del risc vòl dire de baissar las chancas dins una populacion entièra. Vòl pas dire que una persona sola pòt evitar la demència."
   - "Los grands ensages coma FINGER, US POINTER e SPRINT MIND an trobat de pichons benefícis sus los tèstes de pensada o l'afebliment cognitiu lèugièr, mas cap a pas provat qu'un programa de biais de vida previn la demència."
   - "L'edat es lo factor de risc mai grand conegut de l'Alzheimer, e se pòt pas cambiar. Fòrça personas amb de bons habituds desvelopan encara la demència."
@@ -17,8 +17,8 @@ keyPoints:
 faq:
   - q: "La demència se pòt prevenir ?"
     a: "Degun biais provat per prevenir la demència per una persona sola existís. La recèrca suggerís que de reduire certains riscs, coma la tension auta, la perda d'audicion non tractada e lo tabac, pòt baissar la chança de demència dins una populacion o retardar son començament. Son de chancas, pas de promesas."
-  - q: "Qu'es lo 45 % de la Comission Lancet ?"
-    a: "La Comission Lancet de 2024 a estimat qu'aproximadament 45 % dels cas de demència dins lo mond son ligats a 14 factors de risc que podrián, en teoria, èsser cambiats. L'estimacion supausa qu'aqueles factors causan la demència, e los autors notan que d'unes ligams pòdon èsser pas qu'en partida causals. Descriu de populacions entièras e non lo risc d'una persona."
+  - q: "Qu'es lo 45% de la Comission Lancet ?"
+    a: "La Comission Lancet de 2024 a estimat qu'aproximadament 45% dels cas de demència dins lo mond son ligats a 14 factors de risc que podrián, en teoria, èsser cambiats. L'estimacion supausa qu'aqueles factors causan la demència, e los autors notan que d'unes ligams pòdon èsser pas qu'en partida causals. Descriu de populacions entièras e non lo risc d'una persona."
   - q: "Se mon paire o ma maire vivián sanament, perqué an agut la demència ?"
     a: "L'edat, los genas e fòrça factors que degun contròla jògan un ròtle important dins la demència. Los autors de la Comission Lancet notan que la baissa del risc dins una populacion garantís pas que cada persona evitarà la demència. Un diagnostic es pas un signe que qualqu'un a fracassat."
   - q: "Es tròp tard per baissar lo risc de demència après 65 ans ?"
@@ -58,7 +58,7 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-Se cuidatz d'una persona amb demència, o avètz vist un parent viure amb ela, vos sètz benlèu demandat se se podiá l'arrestar, e se podètz vos la far venir a vos. Aquesta pagina presenta çò que la recèrca dis vertadièrament, en lenga simpla. La responsa corta : degun pòt prometre de previnir la demència, mas la recèrca suggerís que de riscs pòdon èsser reduchs, e que far-ho dins una populacion entièra pòt voldre dire mens de personas que desvelopan la demència, o qu'ela venga mai tard.
+Se cuidatz d'una persona amb demència, o avètz vist un parent viure amb ela, vos sètz benlèu demandat se se podiá l'arrestar, e se podètz vos la far venir a vos. Aquesta pagina presenta çò que la recèrca dis vertadièrament, en lenga simpla. La responsa corta : degun pòt prometre de previnir la demència, mas la recèrca suggerís que de riscs pòdon èsser reduchs, e que far-ho dins una populacion entièra pòt voldre dire mens de personas que desvelopan la demència, o que la desvelopan mai tard.
 
 Aquò es d'informacion generala, pas de conselh medical. Legissètz nòstra [nòta medicala](/medical-disclaimer/) e parlatz amb un metge de vòstra pròpria santat.
 
@@ -72,7 +72,7 @@ Un signe encoratjant : la Comission Lancet de 2024 a rapòrtat que dins de país
 
 ## Qu'a trobat la Comission Lancet de 2024 ?
 
-La Comission Lancet sus la prevencion, lo tractament e la cura de la demència es un grop de 27 recercaires sus la demència que revisan las preuvas cada qualques ans. Son rapòrt de 2024 a nomenat **14 factors de risc** que pòdon èsser cambiats, e a estimat que, ensems, son responsables de **pròche la mitat (aproximadament 45 %) dels cas de demència dins lo mond**. Segon los autors, aqueles cas poirián *en teoria* èsser previstes o retardats se los riscs èran suprimits ([rapòrt Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+La Comission Lancet sus la prevencion, lo tractament e la cura de la demència es un grop de 27 recercaires sus la demència que revisan las preuvas cada qualques ans. Son rapòrt de 2024 a nomenat **14 factors de risc** que pòdon èsser cambiats, e a estimat que, ensems, son responsables de **pròche la mitat (aproximadament 45%) dels cas de demència dins lo mond**. Segon los autors, aqueles cas poirián *en teoria* èsser previstes o retardats se los riscs èran suprimits ([rapòrt Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
 Los 14 factors, classats segon l'etapa de la vida ont las preuvas son las mai fortas :
 
@@ -80,11 +80,11 @@ Los 14 factors, classats segon l'etapa de la vida ont las preuvas son las mai fo
 - **Edat mejana (aproximadament de 40 a 65 ans) :** la perda d'audicion, lo colesterol LDL (« dolent ») auta, la depression, lo tenon a la tèsta, l'inactivitat fisica, lo diabetes, lo tabac, la tension auta, l'obesitat e lo bevèire excessiu.
 - **Vida tardiva :** l'isolament social, la pollucion de l'aire e la perda de vista non tractada.
 
-Los dos ajustaments mai recents de 2024 son lo colesterol LDL auta e la perda de vista non tractada. Los factors ligats a la part mai grand dels cas son la perda d'audicion e lo colesterol LDL auta (aproximadament 7 % cadun), seguits de mens d'estudis e de l'isolament social (aproximadament 5 % cadun).
+Los dos ajustaments mai recents de 2024 son lo colesterol LDL auta e la perda de vista non tractada. Los factors ligats a la part mai grand dels cas son la perda d'audicion e lo colesterol LDL auta (aproximadament 7% cadun), seguits de mens d'estudis e de l'isolament social (aproximadament 5% cadun).
 
 Nòstra [guida sus los factors de risc](/brain-health/risk-factors/) passa en revista los 14 dins un tablèu, amb çò que la recèrca ligua e çò que podètz far.
 
-### Çò que dis pas lo 45 %
+### Çò que dis pas lo 45%
 
 Es facil de mal legir aqueste nombre, donc val la pena d'èsser precís :
 
@@ -109,25 +109,25 @@ Los estudis d'observacion (que seguisson çò que arriba a las personas amb lo t
 
 ### FINGER (Finlandia)
 
-L'ensag FINGER a enrolat 1 260 adults de 60 a 77 ans qu'èran a risc mai auta de demència. La mitat a recebut un programa de dos ans de conselhs de regime, d'exercici, d'exercicis cerebrals informatizats e de vericacions de la santat del còr e dels vasos ; l'autra mitat a recebut de conselhs generals de santat. Lo grop del programa a un pauc melhor fach sus un ensemble de tèstes de pensada, una diferéncia pichona mas estatisticament significativa ([l'ensag FINGER dins The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). L'ensag mesurava los resultats dels tèstes, pas los diagnosticas de demència.
+L'ensag FINGER a enrolat 1,260 adults de 60 a 77 ans qu'èran a risc mai auta de demència. La mitat a recebut un programa de dos ans de conselhs de regime, d'exercici, d'exercicis cerebrals informatizats e de vericacions de la santat del còr e dels vasos ; l'autra mitat a recebut de conselhs generals de santat. Lo grop del programa a un pauc melhor fach sus un ensemble de tèstes de pensada, una diferéncia pichona mas estatisticament significativa ([l'ensag FINGER dins The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). L'ensag mesurava los resultats dels tèstes, pas los diagnosticas de demència.
 
 ### US POINTER (Estats-Units)
 
-US POINTER a enrolat 2 111 adults de 60 a 79 ans que èran inactius, mangavan una alimentacion mens sana e aviá d'autres factors de risc. Los dos grops èran encoratjats a èsser mai actius fisicament e mentalament, a manjar mai bèn, a restar socials e a seguir la santat del còr. Un grop seguissiá un programa estructurat e acompanhat ; l'autre se menava sol. Sus dos ans, los resultats dels tèstes de pensada s'amelhoraron **dins los dos grops**, e un pauc mai dins lo grop estructurat ([l'ensag US POINTER dins JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Los autors dison que cal mai de sègre per saber se la diferéncia compta dins la vida de cada jorn. Perque i avia pas de grop « sens cap de cambiament », l'ensag pòt pas dire quant cadun programa a ajudat en comparason amb cap de cambiament.
+US POINTER a enrolat 2,111 adults de 60 a 79 ans que èran inactius, mangavan una alimentacion mens sana e aviá d'autres factors de risc. Los dos grops èran encoratjats a èsser mai actius fisicament e mentalament, a manjar mai bèn, a restar socials e a seguir la santat del còr. Un grop seguissiá un programa estructurat e acompanhat ; l'autre se menava sol. Sus dos ans, los resultats dels tèstes de pensada s'amelhoraron **dins los dos grops**, e un pauc mai dins lo grop estructurat ([l'ensag US POINTER dins JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Los autors dison que cal mai de sègre per saber se la diferéncia compta dins la vida de cada jorn. Perque i avia pas de grop « sens cap de cambiament », l'ensag pòt pas dire quant cadun programa a ajudat en comparason amb cap de cambiament.
 
 ### SPRINT MIND (tension arterial)
 
-SPRINT MIND a estudiat 9 361 adults americans de 50 ans e mai amb la tension auta. Foguèron atribuïts a un objectiu de tension mai bas (cifra auta sota 120) o a l'objectiu standard (sota 140). L'objectiu mai bas a clarament reduch **l'afebliment cognitiu lèugièr**, una etapa de problèmas de memòria e de pensada que pòt venir abans de la demència. Per la **demència probabla**, i aviá mens de cas dins lo grop de l'objectiu mai bas, mas la diferéncia era pas estatisticament significativa. L'ensag s'es arrestat abans lo temps e aviá mens de cas de demència que previst, donc benlèu que èra tròp pichon per respondre a aquesta question ([SPRINT MIND dins JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND a estudiat 9,361 adults americans de 50 ans e mai amb la tension auta. Foguèron atribuïts a un objectiu de tension mai bas (cifra auta sota 120) o a l'objectiu standard (sota 140). L'objectiu mai bas a clarament reduch **l'afebliment cognitiu lèugièr**, una etapa de problèmas de memòria e de pensada que pòt venir abans de la demència. Per la **demència probabla**, i aviá mens de cas dins lo grop de l'objectiu mai bas, mas la diferéncia era pas estatisticament significativa. L'ensag s'es arrestat abans lo temps e aviá mens de cas de demència que previst, donc benlèu que èra tròp pichon per respondre a aquesta question ([SPRINT MIND dins JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
 ### Çò que las revisadas ensemble mostron
 
-Una revisada Cochrane de 2021 a reunit nòu ensages màgers de programas que tractan de mantuns riscs a la fes, amb mai de 18 000 personas. Trobèt un pichon benefici sus los tèstes de pensada, mas **pas de diferéncia clara del nombre de personas qu'an desvelopat la demència** dins los dos ensages que la mesuravan ([revisada Cochrane dels interventions multidomenis](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Una revisada Cochrane de 2021 a reunit nòu ensages màgers de programas que tractan de mantuns riscs a la fes, amb mai de 18,000 personas. Trobèt un pichon benefici sus los tèstes de pensada, mas **pas de diferéncia clara del nombre de personas qu'an desvelopat la demència** dins los dos ensages que la mesuravan ([revisada Cochrane dels interventions multidomenis](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
 Una revisada de 2017 de l'Academia nacionala de sciéncias, d'enginaria e de medecina, resumida per l'NIA, a trobat de preuvas « encoratjantas mas non concludentas » per tres aproches : gerir la tension auta, aumentar l'activitat fisica, e l'entraïnament cognitiu.
 
 ## Importa-ne vèire lo comencement ?
 
-Los conselhs de la Comission Lancet son de baissar los riscs lo mai lèu possible e de los gardar baix lo mai longtemps possible : « mai lèu, mai ben » e « mai long, mai ben ». Dis tanben que jamai es tròp lèu ni tròp tard per reduire lo risc. La màger part de las preuvas concernís l'edat mejana, aproximadament de 40 a 65 ans, mas unes factors coma la perda de vista e l'isolament social son de riscs de la vida tardiva ont l'accion pòt encara far sens.
+Los conselhs de la Comission Lancet son de baissar los riscs lo mai lèu possible e de los gardar baix lo mai longtemps possible : « mai lèu, mai ben » e « mai long, mai ben ». Dis tanben que jamai es tròp lèu ni tròp tard per reduire lo risc. La màger part de las preuvas concernís l'edat mejana, aproximadament de 40 a 65 ans, mas unas factors coma la perda de vista e l'isolament social son de riscs de la vida tardiva ont l'accion pòt encara far sens.
 
 Lo rapòrt dis que i a ara de preuvas mai fòrtas que una exposicion mai longa a un risc a un efièch mai grand. Per exemple, lo diabetes que comença a l'edat mejana sembla pesar mai que lo diabetes que comença mai tard.
 
@@ -155,11 +155,11 @@ Donc se cuidatz d'algun que fasiá de l'exercici, manjava sanament, mai fumèt e
 
 ## Quins passes poiriatz discutir amb un metge ?
 
-Aquestes son las zònas mai sovent estudiadas. Valon la pena de los amenar a un controle perque la màger part ajudan lo còr, l'umor e l'autonomia tanben, quina que siá lor efièch sus la demència.
+Aquestas son las zònas mai sovent estudiadas. Valon la pena de los amenar a un controle perque la màger part ajudan lo còr, l'umor e l'autonomia tanben, quina que siá lor efièch sus la demència.
 
 1. **Tension arterial.** Demandatz quinas son vòstras cifras e quin objectiu vos convèn. La Comission Lancet suggerís de visar una cifra auta de 130 o mens a partir d'aproximadament 40 ans, mas l'objectiu just per una persona velha depend de sa santat generala.
 2. **Audicion.** Demandatz un tèst d'audicion, e s'un aparelh auditiu vos ajudaria. Nòstra [guida sus l'audicion](/brain-health/hearing/) explica la recèrca.
-3. **Vista.** Faites d'examens de vista regulars e demandatz se de problèmas coma la cataracta pòdon èsser tractats.
+3. **Vista.** Fasètz d'examens de vista regulars e demandatz se de problèmas coma la cataracta pòdon èsser tractats.
 4. **Colesterol.** Demandatz se vòstre colesterol LDL deu èsser verificat e s'una causa deu cambiar.
 5. **Glicemia.** Se avètz un diabetes, demandatz coma lo gerir amb seguretat.
 6. **Umor.** La depression es correnta e tractable. Dissètz-o a vòstre metge se vos sentissètz baish o avètz perdut l'interès per las causas dempuèi mai de qualques setmanas.

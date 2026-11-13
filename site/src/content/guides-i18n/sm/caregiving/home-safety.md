@@ -19,7 +19,7 @@ faq:
   - q: "E tatau ea ona suia le fale i le taimi e tasi?"
     a: "E sili atu ona faigofie le faaulu i le suiga e tasi e aoga. Faamatala, vaai pe faapefea ona galue i le olaga o aso uma, ma faafetai pe a faigata ai se galuega masani."
   - q: "O ai e mafai ona fautua e uiga i meafaigaluega po suiga o le fale?"
-    a: "O se foma'i galuega po se tagata poto i le soifua maloloina po tausiga lautele e mafai ona fesoasoani e fetaui meafaigaluega ma le tagata ma le fale. Auala o le fesootaiga ma auaunaga e eseese i itumalo."
+    a: "O se foma'i galuega po se tagata poto i le soifua maloloina po tausiga lautele e mafai ona fesoasoani e fetaui meafaigaluega ma le tagata ma le fale. Auala o le talanoa ma auaunaga e eseese i itumalo."
 sources:
   - title: "Alzheimer's and Dementia Home Safety Tips"
     publisher: "Alzheimer's Association"
@@ -97,10 +97,10 @@ Toe iloilo le fale pe a suia aga, malosi po vaaiga, pe a maua se faalavelave la�
 
 ## O ai e mafai ona fesoasoani i suiga o le fale?
 
-Se foma'i galuega e mafai ona iloilo auala e savali ai le tagata i le fale ma fautua meafaigaluega po suiga mo galuega masani. Pe a manaʻomia, e mafai fo'i ona fesoasoani se foma'i, se tagata galue i le soifua maloloina po se tagata poto i galuega sosaiete, se tagata faʻaaogaina vailaʻau po se tagata fale. O le Alzheimer's Society fautua e mafai ona maua se foma'i galuega e ala i se foma'i aiga, falemaʻi po auaunaga tausiga lautele i Peritania; o auala e ese i isi nofoaga. Mo faʻapipiʻi, suiga o masini kasi, eletise, faʻapipiʻi fale po afi, faaaoga se tagata poto i le itumalo.
+Se foma'i galuega e mafai ona iloilo auala e savali ai le tagata i le fale ma fautua meafaigaluega po suiga mo galuega masani. Pe a manaʻomia, e mafai fo'i ona fesoasoani se foma'i, se tagata galue i le soifua maloloina po se tagata poto i galuega sosaiete, se tagata faaaogaina vailaʻau po se tagata fale. O le Alzheimer's Society fautua e mafai ona maua se foma'i galuega e ala i se foma'i aiga, falemaʻi po auaunaga tausiga lautele i Peritania; o auala e ese i isi nofoaga. Mo faʻapipiʻi, suiga o masini kasi, eletise, faʻapipiʻi fale po afi, faaaoga se tagata poto i le itumalo.
 
 Afai e te nofo i se fale o se isi, fesili le fale-pule a o leʻi faia suiga tumau. O se auaunaga i le itumalo mo tagata matutua po tagata e aʻafia i le tino e mafai ona faamatala pe o a suiga po lagolago e avanoa. Afai o se faafitauli e vave, faia muamua le mataʻutia faapitoa ma sailia le fesoasoani faapoloaʻi mo galuega e te le iloa pe faapefea ona suia saogalemu.
 
 ## E faapefea ona iloilo le fale?
 
-Iloilo pe a faigata fou se galuega masani, pe a suia le malosi o le savali po le vaaiga, pe a i ai se faalavelave laʻititi. Amata i le potu po le aga e feso­otai ma lena suiga. E te le manaʻomia ona faia uma mea i se lisi siaki; teu mea ua aoga ma toe iloilo se suiga e tasi i le taimi e tasi. Afai ua tupu se paʻū, o lou [taʻiala o le mea e faia pe a paʻū](/caregiving/responding-after-a-fall-with-dementia/) o loo faamatala laasaga muamua ma mulimuli ai.
+Iloilo pe a faigata fou se galuega masani, pe a suia le malosi o le savali po le vaaiga, pe a i ai se faalavelave laʻititi. Amata i le potu po le aga e lata ai ma lena suiga. E te le manaʻomia ona faia uma mea i se lisi siaki; teu mea ua aoga ma toe iloilo se suiga e tasi i le taimi e tasi. Afai ua tupu se paʻū, o lou [taʻiala o le mea e faia pe a paʻū](/caregiving/responding-after-a-fall-with-dementia/) o loo faamatala laasaga muamua ma mulimuli ai.
