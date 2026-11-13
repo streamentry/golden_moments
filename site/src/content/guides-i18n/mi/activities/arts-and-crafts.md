@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Ngā toi me ngā mahi a ringa mō ngā pakeke e mate wareware ana"
+seoTitle: "Ngā toi me ngā mahi a ringa mō te mate wareware: He pakeke, ehara i te tamariki"
+description: "Whakaaro toi me mahi a ringa pakeke mō ngā tāngata e noho ana me te mate wareware, mai i te peita wai ki te whakapiri whakaahua me te whakarite pua, me ngā tohutohu whakarite."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Ko ngā mahi toi pai mō ngā pakeke e noho ana me te mate wareware he pakeke te āhua me te kara: te peita wai, te whakapiri whakaahua i ngā moheni, te whakarite pua, te uku, te hanga kāri pūngāwari, me ngā whārangi tae pakeke. Whakaritea he rauemi iti, āwhinatia te kōpiko tuatahi mēnā e hiahiatia ana, kōrerohia i a koe e mahi ana, ā, whakaarohia te wā tahi he mea matua. Ehara i te mea me oti te mahi.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Kōwhiria he rauemi me ngā kaupapa e pakeke ana te āhua, pēnei i te pepa peita wai, ngā pua pūmau me ngā whakaahua moheni, ehara i te pūrara, te kiritata, te pepa kiriata tamariki."
+  - "Arohia te tukanga: ngā tae, te āhua o te uku, te kōrero. Ko te mahi oti he pai anō, ehara i te whāinga."
+  - "Hoatu he take ina taea, pēnei i te kāri mō te mokopuna, te whakapaipai mō te tēpu."
+  - "Āwhinatia te tangata kia tīmata, kātahi ka whakamuri. He pai kē te tīmata tahi i te kōpiko peita."
+  - "Kāore e tika kia oti ngā kaupapa i te nohoanga kotahi, ā, he pai tonu te whakamutu moata."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Me pēhea e kore ai ngā mahi toi e whakaaro ki te tamariki?"
+    a: "Whakamahia ngā rauemi toi tūturu, ngā kaupapa pakeke me te reo whakaute. Whakakapia te pūrara me ngā whārangi kiriata tamariki ki te pepa peita wai, te kiri, ngā pua, ngā whakaahua moheni me ngā whārangi tae kīkī. Kaua e whakanui i te mahi pēnei i te whakanui i te tuhi a tamaiti; kōrerohia me tētahi hoa pakeke."
+  - q: "He aha ngā mahi toi e pai ana i te wāhanga whakamutunga o te mate wareware?"
+    a: "He pai ngā mahi māmā, ā, e pā ana ki ngā rongo i te wā kua pakari te mate: te peita i ngā rārangi whānui me te paraihe nui, te pēhi uku ngāwari, te whakarite ētahi pua i te ipu, te wetewete i ngā tauira kiri mā te pā. Pea ka tīmata te nekehanga tahi koe. Ko te mātakitaki i a koe e peita ana, me te kōrerorero mō ngā tae, he āhuatanga anō o te whai wāhi."
+  - q: "Ki te kī ia kāore e taea e ia te tā?"
+    a: "Hangohia te taumahatanga. Whakamātauria ngā kaupapa kāore he whakautu tika, pēnei i te peita wai, te whakapiri whakaahua, te whakarite pua. Ka taea hoki te kī kei te hiahia āwhina koe ki tētahi mea motuhake, pēnei i te kōwhiri tae mō tētahi kāri, kia rite te mahi ki te tono āwhina, ehara i te whakamātau."
+  - q: "He pakeke rawa rānei ngā whārangi tae mō ngā pakeke?"
+    a: "Kāore, mēnā kua hangaia mō ngā pakeke. Kōwhiria ngā whārangi me ngā kaupapa pakeke pēnei i ngā māra, ngā kōwaru, ngā waka, ngā whenua, ā, whakaarohia he mahi okioki, ehara i te akoranga. Ka taea te tā, te tae i tētahi papaaho i ā mātou [whārangi tae](/games/coloring/)."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Ka hoatu ngā mahi toi me ngā mahi a ringa i tētahi huarahi ki te whakaatu i a ia anō, kāore e whirinaki ana ki te kimi kupu tika. E kī ana te Alzheimer's Association ka taea e ngā mahi toi te hoatu he [rongo o te whakaoti me te take](https://www.alz.org/help-support/caregiving/daily-care/art-music), ā, he wā whakaaturanga, mō te kaitiaki me te tangata e mate wareware ana. Ko te mea matua kia pakeke, māmā, kaua e pēhia te tangata. Ka hoatu tēnei wharangi i ngā kaupapa motuhake, me pēhea te whakarite, me pēhea te urutau i a mahi ana ngā mea.
 
-## What makes an art activity adult and not childish?
+## He aha e pakeke ai te mahi toi, kāore e tamariki ana?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+He pakeke te mahi toi ina whakamahia ngā rauemi tūturu, ngā kaupapa pakeke, te reo whakaute. E tohutohu ana te Alzheimer's Association kia pakari tonu ngā kaupapa ki te taumata pakeke, kia kaua e mahia he mea he whakahāwea, he rite ki te tamariki.
 
-| Feels childish | Feels adult |
+| He āhua tamariki | He āhua pakeke |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Te kiri pirapira, ngā kiriata mōhua, ngā kanohi tēpara | Te pepa peita wai, te kiri, ngā pua kua pēhia |
+| Ngā whārangi tae kiriata | Ngā whārangi tae o ngā māra, ngā kōwaru, ngā waka, ngā whenua |
+| "Mahi pai" mō ia tohu | Kōrero tūturu: "He ātaahua te kikorangi i te taha o te kākāriki" |
+| He mahi kāore he whāinga | He kāri mō tētahi hoa, he whakapaipai, he koha |
+| Ngā tohutohu pānuitia me he akoranga | He tono: "Ka āwhina koe i ahau i tēnei?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Whakaarohia te tikanga o te tangata ake. Ko tētahi i pai ki te whakapaipai kākahu ka pai pea ki te whakamahi i te kakahu. Ko tētahi pūkenga whare rākau pea ka pai ki tētahi tauira me ngā wāhanga nui, me ngā taputapu hei whakarite. He pai pea te hanga kāri ki tētahi kaiako o mua.
 
-## Why focus on the process, not the product?
+## He aha te aro ki te tukanga, kāore ki te hua?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Nā te mea ko te wā tahi te mea matua. E kī ana te Alzheimer's Association, mā te [mahi kāinga](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) te aro ki te tukanga, kāore ki te hua. Ahakoa he kikorangi noa te peita, he peita tonu. Ahakoa he toru whakaahua te whakapiri, he whakapiri tonu.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+E kī hoki te Association, ka pōhēhē pea tētahi kaitoi ngaio ki ngā panonitanga o āna mahi, engari ka pīrangi pea tētahi kaitoi ahuareka ki tētahi huarahi hou ki te whakaatu i a ia anō. Mēnā he tohunga toi te tangata, whakamātauria tētahi momo kē i tērā i mātau ai, kia rite te mahi ki te tākaro, ehara i te whakataurite.
 
-## Arts and crafts ideas to try
+## Ngā mahi toi hei whakamātau
 
-Each idea includes how to make it simpler if it becomes hard.
+He tohutoro kiri ia kaupapa, me pēhea te māmā ake mēnā ka uaua.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Ngā horoi peita wai.** Whakamākūkū i tētahi wharangi pepa peita wai taimaha, ka tuku te tangata i te tae ki runga me te paraihe nui. Ka horapa ngā tae i a rātou anō, nō reira kāore he hua hē. *He māmā ake:* whakaratohia ngā tae e rua anake, te peita ki te wai ki te pepa pouri e kitea ai ngā tohu mākū.
+2. **Te whakapiri whakaahua moheni.** Tāpirihia ngā whakaahua mai i ngā moheni mō te māra, te kuka, ngā waka, te haerenga, ngā mahi tawhito o te tangata. Ka kōwhiri, ka whakapiri te tangata i ngā whakaahua ki te pepa kiri. *He māmā ake:* whakaratohia e whā ngā whakaahua kua tapirihia mai, me te kapa kopi, ā, tahi tātou te whakapiri.
+3. **Te whakarite pua.** Ka kī te Alzheimer's Foundation of America me [whakarite he pua me he rau ki ngā whakaaturanga ngāwari o te wā](https://alzfdn.org/dementia-activity-gardening/). Whakamahia he ipu taimaha, pūmau, me ngā kakau kua tapahia kē. *He māmā ake:* whakanohoa ētahi kakau ki tētahi kapu iti, kotahi i te wā.
+4. **Ngā kāri pua pēhi.** Pēhia ngā pua mai i tētahi pupreti i waenga i ngā whārangi pukapuka mō te wiki, kātahi ka tāpirihia ki te pepa kiri kua pōkaitia. *He māmā ake:* ko koe te whakarite i te kapia, ko rātou te pēhi i te pua.
+5. **Ngā whārangi tae pakeke.** Kōwhiria ngā whārangi he rama ngā rārangi, he kaupapa tūturu. Ka taea hoki te tae ā-papaaho i ā mātou [whārangi tae](/games/coloring/) ina pāwhiria he tae, kātahi he wāhanga o te whakaahua. *He māmā ake:* ngā wāhi nui, ngā tae iti, ngā pene matotoru.
+6. **Uku, paru ngohengohe rānei.** Rōrea, pēhia, hanga i te uku-whakamaroke, i te paru hanga. Ko te pēhi i te rau ki te uku he tāpuhi pēhi māmā. *He māmā ake:* ko te pēhi me te rōrea anake he mahi katoa. Kia mātakitaki kei kūmea e te tangata te uku ki tōna waha.
+7. **Te hanga kāri.** E kī te Alzheimer's Association me whakarite he mahi tūturu: “Kei te tuku mātou i te kāri ora ki tētahi hoa. Ka āwhina mai koe?” He pai te pepa kiri kua tāpirihia kē me ētahi whakapaipai pua, ētahi tāpunga.
+8. **Te pukaemi tuhi.** Whakapiri ngā whakaahua tawhito, ngā kāri pōtitanga, ngā tiki hei pukaemi, tahi. Kōrerohia ia mea i a koe e mahi ana. Tirohia tā mātou [aratohu maharatanga](/activities/reminiscence/) mō ngā huarahi mārie ki te kōrero mō te wā kua hipa.
+9. **Ngā papa pūkoro me ngā mea rerekē te whakarite.** Whakapiri ngā paraikāti o te koronaiti, te pūrōro, te pāpaka, te hiriki ki te kāri pakari. Ko te hanga te mahi; ko te pā, muri mai, he mahi anō. He whakaaro anō kei [te aratohu mahi rongo](/activities/sensory/).
+10. **Te whakaoti rākau māmā.** Mō te tangata i pai ki te mahi rākau, he pai te whakamāmā i tētahi poraka rākau, te peita i tētahi pouaka manu, he āhua mōhio. Tangohia ngā taputapu koi, ā, mātakitakina.
+11. **Peita ki te waiata.** Whakatākaro i tētahi puoro pai, peitahia ngā hanga, ngā tae e rite ana ki te ngākau. Ka hono tēnei i ngā mahi e rua e pai ai te nuinga. Titiro ki [ngā mahi waiata](/activities/music/).
 
-## How do I set up an art session?
+## Me pēhea e whakarite ai i tētahi wā toi?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Whakarite tuatahi.** Tapahia, whakatikatika, whakanohoa ngā mea katoa i mua i te karanga i te tangata. Ko te rapu tīhi i te wā e tatari ana koe, ka ngaro te wā.
+2. **Whakaiti.** E rua, e toru ngā tae, he paraihe kotahi, he pepa kotahi. Ka pēhia pea e te nui rawa o ngā kōwhiringa.
+3. **Tiakina te tēpu.** He kāpeti kirihou, he hukahuka tawhito, kia kore ai e manukanuka mō te paru.
+4. **Noho i te taha o tētahi.** Mahia tō mahi ake i te taha o tā rātou. He mea tahi tēnei, kāore he tirotiro.
+5. **Āwhinatia rātou kia tīmata.** E kī te Alzheimer's Association ka hiahia pea koe ki te tīmata i te nekehanga o te paraihe me te tangata. Ina tīmatatia, he maha ngā tangata ka haere tonu.
+6. **Kōrerohia i a koe e mahi ana.** Whakamārama ngā tae me ngā kiko, kōrerohia rānei he kōrero i te toi. Kia kaua e pātai ki te momo “He aha tēnei?”
+7. **Whakarite he wā nui.** Kāore e tika kia oti te kaupapa i te nohoanga kotahi.
 
-## How do I adapt art as dementia changes?
+## Me pēhea e urutau ai te toi i te panonitanga o te mate wareware?
 
-| Stage | What tends to work | What to adjust |
+| Wāhanga | He aha pai | Me pēhea te panoni |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Moata | Ngā karaehe, ngā tae kōpiko, ngā pukaemi tuhi, te hanga kāri, te peita mai i tētahi whakaahua | Hoatu te kōwhiringa o ngā kaupapa; kia pāpori tonu |
+| Waenga | Te whakapiri whakaahua kua tapahia kē, ngā horoi peita wai, te whakarite pua, te tae ki ngā wāhi whānui | Kotahi te mahi i te wā; koe e tapahi, e whakapiri ana |
+| Whakamutunga | Ngā horoi pāpaka whānui, te pēhi uku, te pā kiri, te mātakitaki i a koe e peita ana | Arotahia ngā rongo; ārahi i te ringa mārie mēnā he pai |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+E kī te NHS, i ngā wāhanga whakamutunga, he māmā ake ngā mahi, ā, he arotahi ki ngā rongo. Ko te mātakitaki i tētahi e peita ana, me te kōrerorero mō ngā tae, he huarahi pono ki te whai wāhi. Mō ētahi atu whakaaro ā-wāhanga, titiro ki [ngā mahi mō ia wāhanga](/activities/ideas/).
 
-## Safety with art supplies
+## Ngā haumarutanga mō ngā rauemi toi
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Kōwhiria ngā peita, ngā pene, ngā kiripaka kāore e kino ana.
+- Waiho ngā hakihaki, ngā mata toi, ngā pū wera ki tawhiti. Mahia tō tapahi ake, i mua tonu.
+- Mātakitakina kei kūmea e tētahi te uku, te peita, ngā mea iti ki tōna waha.
+- Whakamahia ngā ipu wai, ngā pūa pūmau, taimaha.
 
-## When should we stop?
+## Āhea me mutu ai?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Whakamutua ina rere atu te aro, ina kitea te pōrearea. E kī te Alzheimer's Association me mutu, me panoni rānei tētahi mahi ina poto te aro, ina piki te pōrearea. Tukuna te kaupapa ki tētahi wāhi haumaru, ā, hoatu tētahi mea okioki. Ka taea te hoki ki reira apōpō, kāore rānei. Ko ngā mea e rua e pai ana.
 
-## Display the work, if the person wants
+## Whakaatuhia te mahi, mēnā e hiahia ana te tangata
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Ko te whakapiri i tētahi peita ki te tepu, te whakarite i tētahi tuhinga ki te anga, he huarahi mārie hei whakaatu i te whakaiti. Pātai i mua. Ko ētahi e pai ana ki te kite i ā rātou mahi ki te pakitara; ko ētahi kāore.
 
-## Pair art with our games
+## Hono ō mātou tākaro ki ngā mahi toi
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Ina kāore e pai te whakarite i ngā peita i tērā rā, ka mahi pai te [Tae](/games/coloring/) i runga i te papaaho kāore he paru. Ka mau tonu te whakaahua katoa i te [Tauwhiro whakaahua](/games/picture-puzzle/) hei tohutoro i a koe e whakawhiti ana i ngā wāhanga. Ka hoatu ngā [Kāri kōrerorero](/games/conversation-cards/) i ngā pātai tuwhera ka taea te arahi mai i tētahi whakaahua ki tētahi kōrero. Kāore he wā, he kaute i aua mea katoa. Ka taea hoki te tā i ngā whārangi mai i tā mātou kohinga [mahi tā](/activities/printable/).

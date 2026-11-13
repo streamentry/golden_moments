@@ -88,4 +88,4 @@ Ukuze ufumane okungakumbi ngemisebenzi yobugcisa ngesigaba ngasinye, bona [ubugc
 
 ## Xa kufuneka uyeke
 
-Yeka ukuba umntu uyacaphuka, ushiya iphepha kude, okanye ubonakala ekhathele. Ukuyeka emva kwemizuzu eyi-2 kuyimpumelelo ukuba bonwabile. Ungabuya kamva, okanye uzame omnye umfanekiso okanye omnye umsebenzi onjenge[wemvakalelo](/activities/sensory/).
+Yeka ukuba umntu uyacaphuka, ushiya iphepha kude, okanye ubonakala ekhathele. Ukuyeka emva kwemizuzu emibini kuyimpumelelo ukuba bonwabile. Ungabuya kamva, okanye uzame omnye umfanekiso okanye omnye umsebenzi onjenge[wemvakalelo](/activities/sensory/).

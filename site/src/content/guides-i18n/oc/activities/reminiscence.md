@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Activitats de reminiscéncia per la demència"
+seoTitle: "Reminiscéncia per la demència: idèas sens quiz"
+description: "Cossí partejar las remembrances amb una persona que viu amb una demència sens quiz : parlar de fotos, bóstias de memòria e libres de vida, amb de frasas doças."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  La reminiscéncia vòl dire gaudir del passat ensemble per las fotos, los
+  objèctes, la musica e las istòrias. Fasètz una bóstia de memòria, bastissètz un
+  libre de vida simple, o agachatz de fotos sul meteis banc. Quizatz pas jamai :
+  evitatz « Vos remembratz ? » e « Qual es aquò ? » e utilizatz d'invitacions
+  obèrtas coma « Contatz-me d'aquò ». Una conversacion cauda compta mai que de
+  far çò just sus los faits.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "La reminiscéncia es una conversacion, pas un test. L'exactitud compta pas ; lo plaser compta."
+  - "Remplaçatz « Vos remembratz... ? » e « Qual es aquò ? » per de comentaris e d'invitacions coma « Contatz-me aquel jorn »."
+  - "Una bóstia de memòria d'objèctes de la vida de la persona balha a las mans e a la conversacion quicòm a tenir."
+  - "Un libre de vida ajuda la familha, los visitaires e lo personal a conéisser la persona, pas sonque lo diagnostic."
+  - "Se una remembrança pòrta la tristessa, consolatz d'abòrd e passatz doçament a quicòm d'autre."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Qué es la reminiscéncia per las personas amb demència?"
+    a: "La reminiscéncia es partejar de remembrances e d'experiéncias passadas, sovent amb l'ajuda de fotos, d'objèctes, de musica o de videos. Pòt se far d'un a un o en grop. L'objectiu es una conversacion agradiva e significativa, pas de verificar çò que la persona pòt remembrar."
+  - q: "Perqué degun deuriá demandar « Vos remembratz ? »"
+    a: "Las questions que testan la memòria pòdon far sentir la persona embarrassada o inquieta quand la responsa vèn pas. La National Institute on Aging (NIA) enumèra lo fait de demandar se qualqu'un se remembra d'una causa o d'un ser coma quicòm a evitar. Comentatz al lòc çò que vesètz, e laissatz la persona ajustar çò que vòl."
+  - q: "Qué metre dins una bóstia de memòria?"
+    a: "Causissètz d'objèctes solids e sècures ligats a la vida de la persona : d'aisinas de trabalh, d'equipament de passa-tems, una fular preferida, de cartas postalas, de rectas escrichas, de souvenirs d'esports o de copias de fotos. Evitatz los objèctes tallants, los pichòts que se pòdon engolir e los originals irremplaçables."
+  - q: "E se fan de faus sus los faits?"
+    a: "Laissatz-ho estar. Se vòstra maire ditz que la fòto mostra sa sòrre quand es sa cosina, es plan. Corregir fa d'un moment caud un test. Seguissètz l'istòria que contan e la gaudissètz ensemble."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+La reminiscéncia vòl simplament dire gaudir del passat ensemble. Per mantuns personas que viven amb una demència, las remembrances de decenis fan son mai claras que çò qu'es arribat aqueste matin. Las fotos, los objèctes familiars, la musica e las istòrias pòdon dubrir aquelas remembrances e balhar quicòm de caud a partejar. La regla unica : es una conversacion, jamai un quiz.
 
-## What is reminiscence, and how is it different from quizzing?
+## Qué es la reminiscéncia, e en qué es diferenta del quiz?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+La reminiscéncia es partejar de remembrances per las fotos, los objèctes, la musica o lo video, al ritme pròpri de la persona. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) la descriu coma partejar d'experiéncias e d'istòrias passadas amb l'ajuda de fotos, d'objèctes, de videos o de musica, dins un libre o sus una tablèta. Lo quiz es diferent : demanda a la persona de donar una responsa juesta, e aquò pòt portar la vergonha al lòc del plaser.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) enumèra lo fait de demandar a una persona se se remembra d'una causa o d'un ser coma quicòm a evitar. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) conselha d'evitar las questions que se bason sus la memòria a còrt tèrme e de parlar del passat mai luenh.
 
-| Instead of | Try |
+| En luòc de | Ensajatz |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| « Vos remembratz d'aquò ? » | « Sembla un jorn urós. Contatz-me-lo. » |
+| « Qual es aquò ? » | « Vaquí la tanta Rosa a la plaja. Agachatz aquel capèl. » |
+| « Quin an èra aquò ? » | « Sembla la vièlha maison. Qué èra de viure aquí ? » |
+| « Non, es pas Bill, es Frank. » | « Sembla que s'amusava plan. » |
+| « Me l'avètz ja contat. » | « Me platz plan aquesta istòria. » |
 
-## How do you talk about photos without quizzing?
+## Cossí parlar de fotos sens quizar?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Comencetz per çò que vesètz, puèi laissatz de plaça a la persona per ajustar quicòm s'o vòl.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sètz a costat.** Tenètz l'album entre vos e ela per regardar ensemble, pas per testar d'una taula a l'autra.
+2. **Causissètz qualques fotos.** Cinc bonas fotos son melhor que tota una bóstia. Las fotos grandas e clarament imprimidas marchan melhor.
+3. **Nomenatz las personas vos mesme.** « Vaquí vos e Papà lo jorn de vòstre maridatge » lèva la pression.
+4. **Comentatz los detalhs.** Vestits, veituras, manjar, temps, visatges. « Quina veitura. Sembla tant lusenta. »
+5. **Convidatz, pas demandar.** « Parlatz-me de... » o « Qu'es çò que remarcatz ? » Lo silenci va plan.
+6. **Seguissètz son fial.** Se parla de quicòm d'autre, anatz amb.
+7. **Arrestatz quand es agradiu.** Tampatz l'album abans que la fatiga arribe.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Per de fèrmas d'imatges ja prèstas, ensajatz las [cartas de conversacion](/games/conversation-cards/). Per transformar vòstras fotos de familha en jòc d'aparieiment doç, ensajatz las [parelhas de fotos](/games/photo-pairs/) ; las fotos que causissètz demoran dins vòstre navigador.
 
-## How do you make a memory box?
+## Cossí far una bóstia de memòria?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Una bóstia de memòria es un recipient d'objèctes de la vida de la persona per los tocar e parlar d'eles.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Triatz una bóstia solida** fàcil a dubrir, coma una bóstia de sabatas, una bóstia de capèl o un pichòt cofre de fusta.
+2. **Causissètz un tèma o un mesclat.** Trabalh, un passa-tems, un luòc, una decada, o un pauc de tot.
+3. **Amassatz d'objèctes sècures.** Cinc a dètz objèctes son ben per començar.
+4. **Utilizatz de copias de causas precioses.** Copiatz las fotos e los documents irremplaçables e gardatz los originals en seguretat.
+5. **Sortissètz los objèctes un per un.** Balhatz-ne un, dicatz quicòm a son subjècte, e agachatz on va la conversacion.
 
-Ideas to include:
+Idèas a inclure :
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Trabalh :** una placa de nom, un pichòt aisinament, un ecusson d'uniforma, un libre de comptes, una epingla d'infirmièra, un libre de recèptas d'un restaurant.
+- **Ostal :** una recepta escricha de sa man, un torchon, una fular o una cravata preferida.
+- **Passa-tems :** un leurre de pesca sens l'ausina, una balla de baseball, una pelota de lana, un paquet de sèmis.
+- **Luòcs :** de cartas postalas, de mapas, un souvenir de turisme, una talhada de jornal de la ciutat natala.
+- **Familha :** de copias de fotos, lo dessenh d'un enfant, una invitacion de maridatge.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Laissatz de costat los objèctes tallants, los pichòts que se pòdon engolir, e tot çò que pòt portar de remembrances dolorosas, levat se sabètz que es ben vengut.
 
-## How do you make a life-story book?
+## Cossí far un libre de vida?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Un libre de vida es un album simple de fotos e de legendas corchas sus la vida de la persona. Es quicòm a agachar ensemble, e ajuda los visitaires e lo personal a veire la persona entièra.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Causissètz un format.** Un classor amb de pochetas transparentas, un libre de fotos impremit, o un diaporama sus tablèta.
+2. **Previsètz qualques seccions.** Enfància, escòla, trabalh, familha, luòcs ont vivèt, fe, passa-tems, manjars preferits e musica.
+3. **Ajustatz una o doas fotos per pagina** amb una legenda corta e en letra grossa : « Maria, a 22 ans, que comença al banc. »
+4. **Incluèsètz los goslhs e las rotinas.** « Pren lo cafè amb lach. Aima los himnes del dimenge. Plai pas la television fòrta. » Aquò ajuda tot aidant.
+5. **Implicatz la persona** tant com vòl, en causir de fotos, en contant d'istòrias o simplament en agachant lo libre se formar.
+6. **Contunhatz d'ajustar.** Pas besonh qu'aja fin per èsser util.
 
-## More reminiscence ideas
+## Mai d'idèas de reminiscéncia
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Jogar musica de sa joinessa** e parlar de on los pòrta. Vejatz [las activitats musicalas](/activities/music/).
+- **Agachar de films d'ostal o d'emissions de television** de las decadas que preferís.
+- **Far un plat de l'enfància** e laissar las odors menar la conversacion.
+- **Agachar un mapa** de sa vila natala e seguir de carrièiras familiaras.
+- **Manejar de vièlhs catalògues o revistas** e parlar dels prètzes, de la mòda e de las veituras.
+- **Enregistrar sas istòrias** sus un telefòn, amb son acòrd, per la familha.
+- **Partejar durant los apèls.** Mostratz una fòto durant un apèl video ; vejatz [las activitats d'apèl per telefòn e video](/activities/phone-and-video-calls/).
+- **Pòrtar una fòto o un objècte quand venètz visitar.** Balha a la visita un fial aisit ; vejatz [las visitas](/activities/visiting/).
 
-## What if a memory is painful?
+## E se una remembrança es dolorosa?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Qualques remembrances pòrtan lo dòl, lo regret o la paur. Se la persona s'enquieta, arrestatz, consolatz-la e cambiatz doçament de subjècte o d'activitat. Discutissètz pas de çò qu'es arribat. La Family Caregiver Alliance desconselha de tentar de convencre una persona que a tòrt e prepausa de respondre als sentiments que mostra, que son reals. Se parla d'una persona morta coma se visquèsse, respondètz al sentiment : « Vos manca. Contatz-me d'ela. »
 
-## What does the research say?
+## Qué dis la recèrca ?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Una [revisió Cochrane de la reminiscéncia](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), que cobrís 22 essais e 1,972 personas, constatèt que los efèctes son inconstants, febles e variables segon lo context e lo format. Constatèt pas de provas de dan per las personas amb demència. Prepausam la reminiscéncia perque pòt crear de temps caud e significatiu ensemble, pas coma tractament. Per mai sus la conversacion simpla, vejatz [consèlhs de comunicacion](/caregiving/communication-tips/).

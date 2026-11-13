@@ -49,7 +49,7 @@ Iiprojekthi zobugcisa ngumsebenzi onomvuzo wokuchitha ixesha nomntu one-dementia
 2. **Bonisa inyathelo lokuqala.** Cwina ibrashi, caphula isiqwenga sokuqala, okanye cinezela umqulu omncinci wobumba, kwaye bamemele ukuba benze okufanayo.
 3. **Sebenza ecaleni.** Gcina iprojekthi yakho ikufuphi ukuze umsebenzi uziveke njengento yokwabelana, hayi ukujongwa.
 4. **Thetha ngento oyibonayo.** Chaza imibala, izinto ezichukumisayo nezimo, endaweni yokugweba umsebenzi.
-5. **Yima phambi kokuba amandla ehle.** Imizuzu eli-10 ukuya kwe-20 ihlala ilungile.
+5. **Yima phambi kokuba amandla ehle.** Imizuzu elishumi ukuya kwamashumi amabini ihlala ilungile.
 
 I-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) iqaphela ukuba ubugcisa yindlela yokuvakalisa imvakalelo nokuba nobuchule ngaphandle kokufuna isakhono sobugcisa. I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) icebisa ukwahlula imisebenzi ibe ngamanyathelo amancinci alawulekayo.
 
