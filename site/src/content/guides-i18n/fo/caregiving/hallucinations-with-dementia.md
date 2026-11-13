@@ -55,7 +55,7 @@ Ein uppliving kann vera ein synsskering, men hon kann eisini vera eitt misskilji
 
 ## Hvat skal eg gera í løtuni?
 
-Halt teg rólig, spyr, hvussu persónurin kennir seg, og tríva ikki í at kjaga. [Alzheimer's Association ráðger at meta um, hvørt upplivingin er ónøgd ella vandalig](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations). Um persónurin kennir seg væl og er trygg(ur), er kanska ikki neyðugt at avbróta.
+Halt teg rólig, spyr, hvussu persónurin kennir seg, og tríva ikki í at kjaga. [Alzheimer's Association ráðger at meta um, hvørt upplivingin er ónøgd ella vandalig](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations). Um persónurin kennir seg væl og er trygg, er kanska ikki neyðugt at avbróta.
 
 - **Viðurkenn kensluna.** Tú kanst siga: „Eg síggi ongan, men eg síggi, at hetta er ræðandi. Eg eri her.“ Hetta er ærligt og lætir persóninum vita, at tú tekur viðkomandi í álvara.
 - **Halt orðini stutt.** Ein long útgreiðing ella endurtiknar rættingar kunnu økja streingin. Lat persónin siga, hvat viðkomandi leggur til merkis, um viðkomandi vil.
@@ -64,7 +64,7 @@ Halt teg rólig, spyr, hvussu persónurin kennir seg, og tríva ikki í at kjaga
 
 Um upplivingin er meinleys og ikki ónøgd, fylg leiðslu persónsins. Ger ikki løtuna til eina royndu og spyr ikki viðkomandi um at prógva, hvat hann ella hon sá.
 
-Summi kenna eina uppliving sum friðandi ella kenda. Um persónurin er rólig(ur) og trygg(ur), er kanska ikki neyðugt at skifta evni ella at taka viðkomandi eitt annað stað. Spyr, hvat viðkomandi ynskir; ger ikki hvørja slíka løtu til eitt læknasamrøða. Um viðkomandi er ræddur, svara tí kenslu, sjálvt um tú ikki sært tað sama.
+Summi kenna eina uppliving sum friðandi ella kenda. Um persónurin er rólig og trygg, er kanska ikki neyðugt at skifta evni ella at taka viðkomandi eitt annað stað. Spyr, hvat viðkomandi ynskir; ger ikki hvørja slíka løtu til eitt læknasamrøða. Um viðkomandi er ræddur, svara tí kenslu, sjálvt um tú ikki sært tað sama.
 
 ## Kann nakað í rúminum verða tikið fyri ein persón ella eitt ljóð?
 
@@ -93,7 +93,7 @@ Um persónurin sambykkir, skriva stuttar leggingar til merkis at deila við røk
 
 - hvat viðkomandi segði seg síggja, hoyra ella kenna, um møguligt við orðum viðkomandi sjálvs;
 - nær og hvar tað hendi, og umleið hvussu leingi tað varaði;
-- um persónurin sá út til at vera ræddur, rólig(ur) ella í vanda;
+- um persónurin sá út til at vera ræddur, rólig ella í vanda;
 - hvussu rúmið var, við ljósi, skuggum, ljóðum og hvør var nær;
 - sjúka, skynsmunabroyting ella heilivágsbroyting, sum tú veitst um, nýliga.
 

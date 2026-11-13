@@ -69,7 +69,7 @@ Eingin einstakur listi avger, um ein kann búgva einsamallur. Legg heldur merki 
 
 Spyr persónin, hvat viðkomandi hevur lagt til merkis. Bjóða eina praktiska broyting og kanna, um hon hjálpir. Um endurtiknar bekymringar eru um máltíðir, heilivág, fígging, rørslu ella trygd í heiminum, spyr persónin, um viðkomandi vil tosa við lækna ella ein sosialfakpersón. Ein formlig meting kann hjálpa at finna stuðulsmøguleikar; hon krevur ikki, at persónurin tekur ímóti øllum uppskotum.
 
-Um persónurin er óviss(ur) um hjálp, byrja smátt. Viðkomandi vil kanska heldur hava eina vikuliga matvørusending enn ein røktara í heiminum, ella hjálp við pappírum men ikki við persónligari røkt. Tak viðkomandi við í at velja, hvør hjálpir, og nær vitjanirnar eru. [Trygdarleiðbeiningin fyri heimið](/caregiving/home-safety/) umfatar broytingar rúm fyri rúm, tá bekymringin snýr seg um heimið sjálvt.
+Um persónurin er óviss um hjálp, byrja smátt. Viðkomandi vil kanska heldur hava eina vikuliga matvørusending enn ein røktara í heiminum, ella hjálp við pappírum men ikki við persónligari røkt. Tak viðkomandi við í at velja, hvør hjálpir, og nær vitjanirnar eru. [Trygdarleiðbeiningin fyri heimið](/caregiving/home-safety/) umfatar broytingar rúm fyri rúm, tá bekymringin snýr seg um heimið sjálvt.
 
 ## Hvat um persónurin ikki vil hava hjálp?
 
