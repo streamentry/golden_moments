@@ -1,31 +1,31 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Telf tas-smigħ u r-riskju tad-dimenzja: X’juri r-riċerka"
+seoTitle: "Telf tas-smigħ u d-dimenzja: X’juri r-riċerka"
+description: "Għalfejn it-telf tas-smigħ huwa fattur ewlieni ta’ riskju tad-dimenzja, x’sabet verament it-trial ta’ għajnuniet għas-smigħ ACHIEVE, u kif tiċċekkja s-smigħ."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Il-Lancet Commission tal-2024 isemmi t-telf tas-smigħ bħala wieħed mill-ikbar fatturi ta’ riskju tad-dimenzja
+  li jistgħu jinbidlu. Fit-trial ACHIEVE, għajnuniet għas-smigħ ma naqqsux it-tnaqqis kognittiv b’mod ġenerali,
+  għalkemm grupp ta’ riskju ogħla wera tnaqqis inqas. L-għajnuniet għas-smigħ jgħinu fil-konverżazzjoni u fil-ħajja
+  ta’ kuljum, f’kull każ. Iċċekkja s-smigħ, ikkunsidra għajnuniet b’riċetta jew li jinbigħu mingħajr riċetta, u kellem tabib.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Il-Lancet Commission tistma li t-telf tas-smigħ jiġġib madwar 7% tad-dimenzja fid-dinja, u jaqsam l-akbar sehem fost 14-il fattur."
+  - "Fit-trial ACHIEVE ta’ 977 adult anzjan, għajnuniet għas-smigħ ma bidlux it-tnaqqis kognittiv ta’ tliet snin b’mod ġenerali."
+  - "F’grupp iżgħar ta’ riskju ogħla fi ħdan ACHIEVE, it-tnaqqis kognittiv kien 48% aktar bil-mod bl-għajnuniet; dan jeħtieġ jiġi kkonfermat."
+  - "Minn Ottubru 2022 'il quddiem, adulti fl-Istati Uniti b’telf tas-smigħ perċepit ħafif sa moderat jistgħu jixtru għajnuniet FDA-regolati mingħajr riċetta."
+  - "It-telf tal-vista mhux ittrattat ġie miżjud bħala fattur ta’ riskju tad-dimenzja fl-2024, għalhekk eżamijiet tal-għajnejn huma importanti wkoll."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "L-għajnuniet għas-smigħ jipprevjenu d-dimenzja?"
+    a: "Dan ma ntwerax. It-trial ACHIEVE ma sab l-ebda effett ġenerali fuq it-tnaqqis kognittiv matul tliet snin, għalkemm grupp wieħed b’riskju ogħla sar aħjar. L-għajnuniet għas-smigħ xorta jistħoqqilhom jiġu kkunsidrati għax jagħmlu l-konverżazzjoni, is-sikurezza u l-ħajja ta’ kuljum aktar faċli."
+  - q: "Min jista’ jixtri għajnuniet għas-smigħ mingħajr riċetta?"
+    a: "L-FDA jippermetti lil adulti ta’ 18-il sena jew aktar b’telf tas-smigħ perċepit ħafif sa moderat li jixtru għajnuniet OTC fil-ħwienet jew online mingħajr riċetta. Mhumiex maħsuba għal telf tas-smigħ sever. Kull min għandu uġigħ fil-widna, fluwidu mill-widna, tħaddid jew bidliet f’daqqa fis-smigħ għandu jara tabib l-ewwel."
+  - q: "Telf tas-smigħ jista’ jidher bħal dimenzja?"
+    a: "Xi drabi. In-National Institute on Aging jgħid li anzjani li ma jisimgħux tajjeb xi drabi jitqiesu bi żball konfużi jew mhux kooperattivi. Kontroll tas-smigħ huwa pass sensibbli meta xi ħadd jidher li qed jitneħħa jew li jitfixkel minn dak li jingħad."
+  - q: "Kemm-il darba għandhom l-adulti anzjani jiċċekkjaw għajnejhom?"
+    a: "In-National Institute on Aging jagħti parir għal eżami tal-għajnejn mifrux kull sena jew sentejn wara l-età ta’ 60, jew kif jirrakkomanda l-professjonist tal-kura tal-għajnejn. Nies bid-dijabete jew bil-pressjoni għolja tad-demm normalment jeħtieġu wieħed mill-inqas darba fis-sena."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +50,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Telf tas-smigħ huwa komuni fi tmiem il-ħajja, u r-riċerkaturi jieħdu dan bis-serjetà bħala fattur ta’ riskju tad-dimenzja. Dan ma jagħmilx l-għajnuniet għas-smigħ metodu ppruvat biex jipprevjeni d-dimenzja; l-aħjar trial s’issa kellu riżultati mħallta. Din il-paġna tispjega x’juri r-riċerka, kif tiċċekkja s-smigħ, x’inhuma l-għajnuniet OTC tal-Istati Uniti, u kif tagħmel il-konverżazzjoni aktar faċli.
 
-## Why does hearing matter for brain health?
+## Għalfejn is-smigħ jimpurta għas-saħħa tal-moħħ?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+It-telf tas-smigħ huwa marbut ma’ riskju ogħla ta’ dimenzja. [Il-Lancet Commission tal-2024](https://doi.org/10.1016/S0140-6736(24)01296-0) tistma li jġib madwar 7% tad-dimenzja fid-dinja. Dan jagħmilha marbuta flimkien mal-kolesterol LDL għoli bħala l-akbar sehem fost il-14-il fattur ta’ riskju li jistgħu jinbidlu fil-mudell tal-Commission, skont [is-sommarju tal-UCL tar-rapport](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Sejbiet ewlenin mill-Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Riskju ogħla bit-telf tas-smigħ.** Fl-analiżi magħquda tagħha ta’ sitt studji ta’ kwalità għolja, in-nies b’telf tas-smigħ kellhom madwar 37% riskju ogħla ta’ dimenzja minn nies b’smigħ normali.
+- **Iktar telf, iktar riskju.** Studji li eżaminaw is-severità sabu li r-riskju jiżdied hekk kif is-smigħ jmur għall-agħar.
+- **Raġunijiet possibbli, mhux ippruvati.** Ideat jinkludu l-waħda u t-tneħħija, id-depressjoni, inqas stimolu għall-moħħ, u l-isforz mentali addizzjonali li jieħu s-smigħ.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+It-telf tas-smigħ huwa komuni. In-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) jgħid li madwar terz tal-anzjani għandhom dan, u ċ-ċans jiżdied maż-żmien.
 
-## What did the ACHIEVE hearing aid trial find?
+## X’sab it-trial tal-għajnuniet għas-smigħ ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE kien l-ewwel trial każwali tal-għajnuniet għas-smigħ u t-tnaqqis kognittiv. Ir-riżultati spiss jiġu rrappurtati ħażin, għalhekk hawn id-dettalji mir-[rapport ippubblikat tat-trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/):
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Min ħa sehem:** 977 adult ta’ bejn 70 u 84 sena b’telf tas-smigħ mhux ittrattat u mingħajr problemi sostanzjali tal-ħsieb, f’erba’ siti komunitarji fl-Istati Uniti.
+- **X’tqabbel:** nofshom irċevew għajnuniet għas-smigħ flimkien ma’ sessjonijiet ta’ parir ma’ audjologu. In-nofs l-ieħor irċieva programm ta’ edukazzjoni tas-saħħa dwar it-tixjiħ tajjeb.
+- **Ir-riżultat ewlieni:** wara tliet snin, ma kien hemm **l-ebda differenza** fit-tnaqqis kognittiv bejn iż-żewġ gruppi b’mod ġenerali.
+- **Ir-riżultat tas-subgrupp:** it-trial irreklutta minn żewġ sorsi. 238 persuna ġew minn studju twil dwar is-saħħa tal-qalb (ARIC), u bħala grupp kienu f’riskju ogħla ta’ tnaqqis kognittiv. F’dan il-grupp, it-tnaqqis kien **48% aktar bil-mod** bl-għajnuniet għas-smigħ. Fost l-739 volontarju tal-komunità f’saħħithom, ma kien hemm l-ebda effett ċar.
 
-How to read this honestly:
+Kif taqrah b’mod onest:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- It-tweġiba ġenerali kienet li m’hemm l-ebda effett.
+- Is-sejba tas-subgrupp kienet ippjanata minn qabel, iżda ġiet minn analiżi sekondarja ta’ grupp iżgħar. Trid tiġi kkonfermata f’studji oħra.
+- Il-parteċipanti kienu jafu liema programm kienu fih, u dan jista’ jaffettwa r-riżultati.
+- Il-Lancet Commission taqra l-evidenza bħala turi li l-għajnuniet għas-smigħ jidhru partikolarment ta’ għajnuna għal nies li għandhom telf tas-smigħ flimkien ma’ fatturi oħra ta’ riskju tad-dimenzja.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Is-sommarju finali huwa li l-għajnuniet għas-smigħ mhumiex metodu ppruvat biex jipprevjeni d-dimenzja. Jgħinu lin-nies jisimgħu, jieħdu sehem fil-konverżazzjonijiet u jibqgħu konnessi, u dik hija raġuni biżżejjed biex jiġu kkunsidrati.
 
-## How do I know if hearing should be checked?
+## Kif naf jekk għandux isir kontroll tas-smigħ?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+In-NIA jissuġġerixxi li tara tabib jekk int jew xi ħadd li tieħu ħsiebu:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Għandu diffikultà biex jifhem nies fuq it-telefon
+- Isib diffiċli li jsegwi konverżazzjonijiet meta tnejn jew aktar nies ikunu qed jitkellmu
+- Spiss jitlob lin-nies jerġgħu jgħidu dak li qalu
+- Idawwar it-TV b’leħen tant għoli li oħrajn jilmentaw
+- Jitfarfar biex jifhem il-kliem meta jkun hemm storbju fl-isfond
+- Jaħseb li n-nies jidhru li qed jitkellmu b’leħen baxx
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Ibda ma’ tabib tal-kura primarja, li jista’ jirreferik lil audjologu (speċjalista tas-smigħ) jew lil tabib tal-widnejn, tal-imnieħer u tal-griżmejn. L-akkumulazzjoni tal-kerimen fil-widna hija kawża komuni ta’ telf tas-smigħ li tabib jista’ jiċċekkja. **Telf tas-smigħ f’daqqa huwa emerġenza medika**, u n-NIA jagħti parir biex wieħed jara tabib minnufih.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Telf tas-smigħ jista’ jiġi mħawwad mal-konfużjoni. In-NIA jgħid li anzjani li ma jisimgħux tajjeb xi drabi jitqiesu bi żball konfużi, mhux responsivi jew mhux kooperattivi. Jekk xi ħadd li tħobb jidher imneħħi jew jitlef dak li jingħad, kontroll tas-smigħ huwa pass tajjeb fil-bidu.
 
-## What are over-the-counter hearing aids?
+## Xi huma l-għajnuniet għas-smigħ OTC?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Minn Ottubru 17, 2022 'il quddiem, [l-FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ippermettiet kategorija ta’ għajnuniet għas-smigħ mingħajr riċetta (OTC). Hawn kif jqabblu mal-għajnuniet b’riċetta:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Karatteristika | Għajnuniet OTC | Għajnuniet b’riċetta |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Għal min huma | Adulti ta’ 18 sena jew aktar b’telf tas-smigħ perċepit ħafif sa moderat | Kwalunkwe livell ta’ telf tas-smigħ, kwalunkwe età |
+| Fejn jinxtraw | Fil-ħwienet jew online, mingħajr eżami jew riċetta | Permezz ta’ professjonist tas-smigħ liċenzjat |
+| Il-ħejjija | Taġġusta s-settings innifsek, spiss b’app | Professjonist jiprogrammahom għas-smigħ tiegħek |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+L-FDA jgħid li l-għajnuniet OTC mhumiex maħsuba għal telf tas-smigħ sever jew profond. Jagħti parir biex tara tabib, preferibbilment speċjalista tal-widnejn, tal-imnieħer u tal-griżmejn, qabel tixtri jekk għandek:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Uġigħ jew inkwiet fil-widna
+- Fluwidu, pus jew demm mill-widna fl-aħħar sitt xhur
+- Bidliet f’daqqa jew li jvarjaw fis-smigħ
+- Smigħ agħar f’widna waħda, jew ħoss ta’ tintiż f’widna waħda biss
+- Tħaddid jew vertigo
+- Ħafna kerimen fil-widna
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+It-tgħawdija mal-għajnuniet għas-smigħ teħtieġ prattika, għalhekk iċċekkja l-politika tar-ritorn qabel tixtri, kif jissuġġerixxi l-FDA. In-NIA jissuġġerixxi li tistaqsi jekk l-assigurazzjoni tkopri parti mill-ispiża. Għal xi ħadd li jgħix bid-dimenzja, audjologu jista’ jgħin jiddeċiedi liema tip ta’ għajnuna u liema settings ikunu l-aktar faċli biex jitmexxew kuljum.
 
-## How can I talk more easily with someone who has hearing loss?
+## Kif nista’ nitkellem b’aktar faċilità ma’ xi ħadd b’telf tas-smigħ?
 
-The NIA suggests:
+In-NIA jissuġġerixxi:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Ħares lejn il-persuna u żomm il-kuntatt bl-għajnejn**, f’dawl tajjeb, sabiex tara x-xufftejn u l-espressjonijiet.
+2. **Sib post kwiet.** Itfi t-TV jew imxi ’l bogħod mill-istorbju.
+3. **Kellem b’leħen ftit ogħla, imma tgħajjatx.** Tkellem b’mod naturali u b’ritmu raġonevoli.
+4. **Żomm fommok ċara.** Tiekolx, tomgħod gomma jew tgħatti fommok waqt li titkellem.
+5. **Erġa’ ffrażza aktar milli tirrepeti** meta xi ħaġa tinqabeż.
+6. **Persuna waħda kull darba.** F’grupp, agħmel punt li tinkludi l-persuna.
+7. **Kun paċenzjuż u staqsi kif tista’ tgħin.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Dawn il-pariri jaħdmu tajjeb flimkien mal-[pariri tagħna dwar il-komunikazzjoni](/caregiving/communication-tips/). Attivitajiet ibbażati fuq ritratti jneħħu wkoll il-pressjoni tas-smigħ. [Picture Pairs](/games/picture-pairs/) u [Conversation Cards](/games/conversation-cards/) jaħdmu permezz ta’ dak li tara, u [Finish the Saying](/games/finish-the-saying/) jħallik turi t-tmiem minflok ma tgħidu. Għas-sejħiet, ara l-gwida tagħna dwar [telefonati u sejħiet bil-vidjo](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Il-viżjoni hija importanti wkoll
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Fl-2024 il-Lancet Commission żiedet it-telf tal-vista mhux ittrattat bħala fattur ġdid ta’ riskju. Is-sommarju tal-UCL jqiegħdu fi madwar 2% tal-każijiet tad-dimenzja, u l-Commission tirrakkomanda li l-iskrinjar u t-trattament għall-problemi tal-vista jkunu disponibbli għal kulħadd. [In-NIA jagħti parir](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) dwar eżami mifrux tal-għajnejn kull sena jew sentejn wara l-età ta’ 60, u li wieħed jiċċekkja wkoll ir-riċetti tal-ħġieġ. Anke bidliet żgħar fil-ħarsa jistgħu jżidu r-riskju ta’ waqgħat.
 
-## Talk with a doctor
+## Kellem tabib
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Staqsi lit-tabib dwar kontrolli tas-smigħ u tal-vista jekk tinnota xi wieħed mis-sinjali ta’ hawn fuq. Ikseb kura minnufih għal telf tas-smigħ f’daqqa, uġigħ fil-widna, jew fluwidu mill-widna. Jekk tieħu ħsieb xi ħadd li jgħix bid-dimenzja, għid lit-tabib tiegħu dwar bidliet fis-smigħ jew fil-vista, li jistgħu jaffettwaw il-burdata, is-sikurezza u kemm jistgħu jipparteċipaw.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Din il-paġna hija informazzjoni ġenerali, mhux parir mediku. Ara [id-dikjarazzjoni medika tagħna](/medical-disclaimer/). Aqra iktar dwar [il-konnessjoni soċjali u s-saħħa tal-moħħ](/brain-health/social-connection/).

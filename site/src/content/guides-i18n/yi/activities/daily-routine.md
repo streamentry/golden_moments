@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "אַ זאַנפֿטער טאָגלעכער סדר־היום פֿאַר אַ מענטש וואָס לעבט מיט דעמענץ"
+seoTitle: "דעמענץ: טאָגלעכער סדר־היום, אַ מוסטער־טאָג"
+description: "אַ פֿלעקסיבלער מוסטער־טאָג פֿאַר אַ מענטש מיט דעמענץ, מיט עסן, אַקטיוויטעטן און רו אין אַ רויִקן ריטם, און ווי מען בויט אַ אייגענעם."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  אַ זאַנפֿטער טאָגלעכער סדר־היום האַלט אויפֿשטיין, עסן, פּערזענלעכע זאָרג און שלאָפֿן בערך אין דער זעלבער צײַט, לײגט די הויפּט־אַקטיוויטעט אין דער צײַט ווען דער מענטש איז אויפֿמערקזאַם אַם מערסטן, און באַלאַנסירט אַקטיוויטעט מיט רו. בויט עס פֿון די לעבנס־געוווינהייטן פֿון דער פּערזאָן, האַלט עס לאָז און נישט פֿול, קריגט טעגלעך ליכט און באַוועגונג, און ענדערט דעם פּלאַן פֿרײַ ווען דער טאָג פֿאָדערט עס.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "פֿעסטע צײַטן פֿאַר אויפֿשטיין, עסן, זאָרג און שלאָפֿן געבן דעם טאָג אַ באַקאַנטע פֿאָרעם."
+  - "לײגט די הויפּט־אַקטיוויטעט אין דער בעסטער צײַט פֿון טאָג פֿאַר דער פּערזאָן, אָפֿט אין דער פֿרי."
+  - "פֿאַרפֿאַלט נישט יעדע מינוט. רו און שטילע צײַט זײַנען אויך אַ טייל פֿון דעם סדר־היום."
+  - "ליכט, טעגלעכע באַוועגונג און פֿאַרמײַדן לאַנגע שפּעטע שלאָפֿן און שפּעט קאַפֿײן קענען העלפֿן מיט אומרו שפּעט אין טאָג."
+  - "אַ סדר־היום איז אַ הדרכה, נישט אַ כלל. ענדערט, קירצט אָדער לאָזט אויס עפּעס אין שווערע טעג."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "פֿאַר וואָס איז אַ סדר־היום נוצלעך פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "אַ פֿאָרויסזעבאַר טאָג מײנט ווײניקער באַשלוסן און יבערראַשונגען, וואָס פֿיל מענטשן וואָס לעבן מיט דעמענץ טרעפֿן באַרויִקנדיק. די אַלצהיימער־אַסאָציאַציע זאָגט אַז אַ פּלאַנירטער טאָג לאָזט אײַך ווײניקער צײַט אויסטראַכטן וואָס צו טאָן און מער צײַט פֿאַר זאַכן וואָס איר ביידע האָט ליב. עס העלפֿט אויך דעם פֿאַרזאָרגער אײַנטיילן זײַן אייגענעם טאָג."
+  - q: "וואָס איז אַ גוטער טאָגלעכער פּלאַן פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "עס איז נישטאָ קיין איין ריכטיקער פּלאַן. אַ גוטער פּלאַן האַלט אויפֿשטיין, עסן און שלאָפֿן בערך אין דער זעלבער צײַט, לײגט פּערזענלעכע זאָרג און די הויפּט־אַקטיוויטעט ווען די פּערזאָן איז אין איר בעסטער שטאַנד, כולל צײַט אין דרויסן אָדער לעבן אַ פֿענצטער, און לאָזט פּלאַץ פֿאַר רו. בויט אים אָן אויף דעם ווי די פּערזאָן האָט שטענדיק געלעבט."
+  - q: "צי זאָל אַ מענטש מיט דעמענץ שלאָפֿן בײַ טאָג?"
+    a: "אַ קורצע רו קען העלפֿן, ספּעציעל נאָך מיטאָג. דאָס נאַציאָנאַלע אינסטיטוט פֿאַר אַלטער (National Institute on Aging) רעקאָמענדירט צו פֿאַרמײַדן לאַנגע שלאָפֿן און דרימלען שפּעט אין טאָג, ווײַל צו פֿיל מידקײַט אָדער שלעכטער שלאָף קען צולײגן צו אומרו שפּעט אין טאָג. אויב שלאָף איז אַ עכטע פּראָבלעם, רעדט מיט זייער דאָקטער."
+  - q: "וואָס אויב זיי װײַגערט זיך צו פֿאָלגן דעם פּלאַן?"
+    a: "לאָזט עס אָפּ פֿאַר איצט און פּרוּװט שפּעטער אָדער אויף אַן אַנדער אופֿן. אַ װײַגערונג קען מײנען אַז זיי זײַנען מיד, קראַנק, האָבן ווייטיק אָדער זײַנען פּשוט נישט גרייט. דער פּלאַן איז דאָ צו מאַכן דעם טאָג לײַכטער, דעריבער בייגט אים, אָבער צווינגט אים נישט."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+אַ זאַנפֿטער סדר־היום גיט דעם טאָג אַ באַקאַנטע פֿאָרעם: אויפֿשטיין, עסן, אַ ביסל אַקטיוויטעט, רו און שלאָפֿן אין בערך דער זעלבער צײַט. עס פֿאַרמינערט באַשלוסן און יבערראַשונגען, און גיט אײַך אַ פּלאַן פֿאַר די מאָמענטן ווען איר וואָלט געווען אין צװײפֿל וואָס צו טאָן ווײַטער. דער פּלאַן אונטן איז אַ מוסטער, נישט אַ כלל. נוצט עס ווי אַ אָנהייב, און פּאַסט עס אָן צו דער פּערזאָן וואָס איר פֿאַרזאָרגט.
 
-## Why does a daily routine help?
+## פֿאַר וואָס העלפֿט אַ טאָגלעכער סדר־היום?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+אַ שטענדיקער סדר העלפֿט, ווײַל באַקאַנטע מוסטערן זײַנען לײַכטער צו נאָכגיין ווי נײַע. די [אַלצהיימער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) זאָגט אַז אַ פּלאַנירטער טאָג באַדײַט ווײניקער צײַט אויסטראַכטן וואָס צו טאָן און מער צײַט פֿאַר אָנגענעמע אַקטיוויטעטן, און זי באַמערקט אַז רעגולערע צײַטן פֿאַר אויפֿשטיין און שלאָפֿן קענען העלפֿן מיט שלאָף־פּראָבלעמען און שפּעטיקן אומרו. די [נאַציאָנאַלע אינסטיטוט פֿאַר אַלטער](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) רעקאָמענדירט צו באָדן, אָנטאָן און עסן אין דער זעלבער צײַט יעדן טאָג, ווי אַ טייל פֿון אַ רויִקן היים, און די [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) רעקאָמענדירט אויך צו האַלטן די זעלבע רוטינעס.
 
-## A sample gentle day
+## אַ מוסטער־טאָג מיט אַ ביסל רו
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+די צײַטן זײַנען נאָר בײַשפּילן. שיפֿט דעם גאַנצן טאָג פֿרי אָדער שפּעטער, כּדי ער זאָל צונויפֿפֿאַלן מיט דעם ריטם פֿון דער פּערזאָן.
 
-| Time | What happens | Ideas | On a harder day |
+| צײַט | וואָס געשעט | אידעען | אויף אַ שווערן טאָג |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 אין דער פֿרי | אויפֿשטיין, װאַשן, אָנטאָן | דער זעלבער סדר יעדן טאָג; לײגט די קליידער אויס אין דער סדר ווי מען טוט זיי אָן | האַלט די זאָרג פּשוט; אַ פֿרישע העמד איז גענוג |
+| 8:45 אין דער פֿרי | פֿרישטיק | קאַווע און די צײַטונג פֿאָרלייענען, אָדער דער ראַדיאָ | עסט צוזאַמען שטיל, קיין דרוק צו רעדן נישט |
+| 9:30 אין דער פֿרי | הויפּט־אַקטיוויטעט | פֿאַלדן װעש, בײקן, גאָרטנען, אַ קורצע אויספֿאָר אָדער אַ שפּאַציר | אַ קירצערע ווערסיע, אָדער לאָזט זיי זען ווי איר טוט עס |
+| 10:30 אין דער פֿרי | שטילע צײַט | מוזיק, אַ פֿאָטאָ־אַלבאָם, אָדער זיצן בײַם פֿענצטער | רו אין אַ ליבלינגסשטול |
+| 11:00 אין דער פֿרי | הילף מיט דעם מיטאָג | װאַשן גרינצייַג, דעקן דעם טיש | איר קאָכט; זיי האַלטן אײַך חבֿרה |
+| 12:00 מיטאָג | מיטאָג און אָנרײַניקן | אָפּװישן דעם טיש, אָפּטרוקענען עטלעכע כּלים | לאָזט אויס די אַרבעט |
+| 1:00 נאָכמיטאָג | קורצע רו | די פֿיס אויף אַ שטול, ווייכע מוזיק | דאָס זעלבע |
+| 2:00 נאָכמיטאָג | אין דרויסן אָדער אַקטיוו | שפּאַציר, זיצן אויפֿן פּאָרטש, באַשפּריצן בלומען, אַ באַלון צוואַרפֿן | זיצן בײַ אַ זוניק פֿענצטער |
+| 3:00 נאָכמיטאָג | געזעלשאַפֿטלעך אָדער שאַפֿערישע | אַ באַזוך, אַ רופֿן, [פּיקטשער־פּאָרן](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), קאָלאָרירן, קאַרטן | אַ טרונק און אַ סנעק צוזאַמען |
+| 4:30 נאָכמיטאָג | צײַט פֿאַר זיך פֿאַרזעצן | פֿאָרהענגען צוגעמאַכט, ליכט אָנגעצונדן, אַ רויִקע אַרבעט ווי פֿאַלדן װאַשלאַפּן | באַקאַנטע מוזיק, ווייניק ראַש |
+| 5:30 אָװנט | אָװנטברויט | העלפֿט רירן אָדער דעקן דעם טיש | פּשוטע, באַקאַנטע עסן |
+| 6:30 אָװנט | אָװנט צוזאַמען | רעדט וועגן אַלטע זאַכן בײַם דעסערט, קאַרטן, אַ ליבלינגס־סעריע, אַ האַנט־מאַסאַזש | רויִק חבֿרה |
+| 8:00 בײַ נאַכט | שלאָף־אָפּװײַכונג | באָד אָדער װאַשן, פּיזשאַמאַס, ווייכע מוזיק, ווייניק ליכט | קירצט אַלץ; קומפֿערט גײט פֿאָר |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+דער מוסטער גייט נאָך דעם פֿאָרעם פֿון דער אַלצהיימער־אַסאָציאַציע אייגענעם מוסטער־פּלאַן פֿאַר די פֿרימע און מיטלשטע סטאַדיעס, וואָס גייט פֿון פּערזענלעכער זאָרג און פֿרישטיק דורך דערהיים־אַרבעט, שפּאַצירן, מוזיק, רו און באַזוכן ביז דעם אָװנטברויט, דערצײַלן זיך פֿון פֿריער און גרײַטן זיך צום שלאָפֿן.
 
-## How do you build your own routine?
+## ווי בויט מען אַ אייגענעם פּלאַן?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+הייבט אָן פֿון ווי די פּערזאָן האָט שטענדיק געלעבט, נישט פֿון אַ טאַבעלע. די אַלצהיימער־אַסאָציאַציע רעקאָמענדירט צו טראַכטן וועגן די זאַכן פֿאַר איר פּלאַנירט:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **זייערע ליבשאפֿטן, נישט־ליבשאפֿטן, שטאַרקייטן און אינטערעסן.**
+- **ווי זיי האָבן פֿריער פֿאַרבראַכט זייער טאָג.** אַ פֿרי־אויפֿשטייער וואָס האָט שטענדיק געשפּאַצירט מיטן הונט, דאַרף נאָך אַלץ שפּאַצירן אין דער פֿרי. אַ נאַכט־מענטש וועט אפֿשר קיינמאָל נישט ליב האָבן אַן אַכט אויפֿן אינדערפֿרי.
+- **זייער בעסטע צײַט פֿון טאָג.** לײגט דאָרטן דאָס באָדן, די אויספֿאָרטן און די הויפּט־אַקטיוויטעט.
+- **גענוג צײַט** פֿאַר עסן, װאַשן און אָנטאָן, כּדי גאָר גאָרנישט זאָל זיך נישט אײַלן.
+- **רעגולערע צײַטן פֿאַר אויפֿשטיין און שלאָפֿן.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+דער זעלבער מקור רעקאָמענדירט אַ מישונג פֿון הױזהאַלטונג־אַרבעט, עסן, פּערזענלעכער זאָרג, שאַפֿערישע אַקטיוויטעטן, גופֿיזישע באַוועגונג, געזעלשאַפֿטלעכע צײַט, גײַסטלעכע טעטיקײַט און ספּאָנטאַנע מאָמענטן, ווי ווען אַ פֿרײַנד קומט אַריין אויף אַ ווײַלע.
 
-### Try it for a week, then adjust
+### פּרוּװט עס אַ וואָך, און דערנאָך פּאַסט אָן
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+האַלט אַ פּשוטע נאָטיץ יעדן טאָג. די אַלצהיימער־אַסאָציאַציע רעקאָמענדירט צו פֿרעגן וואָס פֿון די אַקטיוויטעטן האָט אַm בעסטן געארבעט און פֿאַרוואָס, צי זײַנען געווען צײַטן מיט צו פֿיל לויף אָדער צו ווײניק צו טאָן, און צי ספּאָנטאַנע פּלענער זײַנען געווען אָנגענעם אָדער האָבן געמאַכט זאָרג. האַלט װאָס עס אַרבעט און ענדערט װאָס עס ארבעט נישט.
 
-### Make it visible
+### מאַכט עס זיכטיק
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+אויב די פּערזאָן קען נאָך לײענען, קען אַ װײַסע טאָפֿל אָדער אַ גרויסע קאָרט מיטן טאָגספּלאַן זײַן באַרויִקנדיק. האַלט עס קורץ: „פֿרישטיק. שפּאַציר מיט שׂרה. מיטאָג. רו.“ עטלעכע מענטשן טוען זיך בעסער אָן צו וויסן ווײַט פֿאָרויס; די Family Caregiver Alliance רעקאָמענדירט נישט צו רעדן וועגן די פּלענער ביז ערשט פֿאַר זיי פּאַסירן, אויב עס מאַכט זאָרג.
 
-## How to adapt the routine
+## ווי מען פּאַסט דעם סדר־היום אָן
 
-### Leave room to breathe
+### לאָזט פּלאַץ צום אָטעמען
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+פֿאַרפֿאַלט נישט יעדע מינוט. די אַלצהיימער־אַסאָציאַציע שטרײַכט אונטער אַז דער מענטש דאַרף אַ באַלאַנס צווישן אַקטיוויטעט און רו, און אפֿשר מער אָפֿט פּאָזעס. אויב זיי קוקן אויס ווי זיי זײַנען צעלאַנגװײַלט, צעשטרײַט אָדער אומרויִק, ענדערט די אַקטיוויטעט אָדער נעמט אַ רו.
 
-### Protect the late afternoon
+### באַשיצט דעם שפּעטן נאָכמיטאָג
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+פֿיל מענטשן ווערן מער אומרויִק ווען דאָס ליכט פֿאַרשווינדט. די NIA רעקאָמענדירט צײַט אין דרויסן אָדער לעבן אַ פֿענצטער פֿאַר זונשײַן יעדן טאָג, זיך באַוועגן יעדן טאָג אָן צו פֿיל פּלאַנירן, פֿאַרמײַדן קאַפֿײן און אַלקאָהאָל שפּעט אין טאָג, און אָפּרעדן לאַנגע שלאָפֿן שפּעט אין טאָג. עטלעכע משפּחות געפֿינען אויך אַז עס העלפֿט צו פֿאַרמאַכן די פֿאָרהענגען און אָנצינדן דאָס ליכט איידער עס װערט פֿינצטער. זעט [אומרו שפּעט אין טאָג](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) און [שלאָף](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning).
 
-### Change it as needs change
+### ענדערט עס ווי די באַדערפֿנישן ענדערן זיך
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **פֿרימע סטאַדיע:** מאַכט דעם פּלאַן צוזאַמען. די פּערזאָן קען װאָלן אַ געשריבענעם פּלאַן וואָס זיי פֿירן אַליין.
+- **מיטלשטע סטאַדיע:** איר פֿירט מער. קירצערע אַקטיוויטעטן, מער רו און פֿיל באַקאַנטע אַרבעט; זעט [אַקטיוויטעטן אין דער מיטלשטער סטאַדיע](/activities/middle-stage/).
+- **שפּעטע סטאַדיע:** דער סדר־היום קערט זיך אום קאָמפֿערט, עסן און זאָרג, מיט קורצע סענסאָרישע מאָמענטן ווי מוזיק אָדער אַ האַנט־מאַסאַזש צווישן־אײַן; זעט [אַקטיוויטעטן אין דער שפּעטער סטאַדיע](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### ענדערט די אַקטיוויטעטן, נישט דעם ראַם
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+האַלט עסן, רו און שלאָפֿן שטענדיק, און ראָטירט די אַקטיוויטעטן צװישן זיי. די [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) רעקאָמענדירט פּרוּװט פֿאַרשײדענע אַקטיוויטעטן אויף פֿאַרשײדענע טעג, כּדי עס זאָל בלײבן אינטערעסאַנט. איר קענט בײקן אויף מאָנטיק, גאָרטנען אויף דינסטיק און קוקן אויף פֿאָטאָס מיטוואָך. אונדזערע [101 אַקטיוויטעט־אידעען](/activities/ideas/) און [הױזהאַלטונג־אַרבעט](/activities/household-tasks/) קענען אָנפֿילן די פּלעצער.
 
-## When the day goes sideways
+## ווען דער טאָג גייט שיף
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+עטלעכע טעג וועלן נישט פֿאָלגן קיין פּלאַן. קראַנקייט, אַ שלעכטע נאַכט, אַ באַזוך פֿון דעם דאָקטער אָדער אַ ענדערונג אין וועטער קענען אַלץ פֿאַרטוישן. לאָזט דעם פּלאַן אָפּ, האַלט די יסודות (עסן, טרינקען, רו, קאָמפֿערט) און פּרוּװט מאָרגן ווידער. אויב די פּערזאָן װײַגערט זיך עפּעס, זעט [ווען זיי זאָגן ניין](/caregiving/when-they-say-no/). אַ לאַנגזאַמער אָטעם־מאָמענט צוזאַמען, ווי [רויִקער אָטעם](/games/calm-breathing/), קען העלפֿן אײַך ביידן זיך אָפּשטעלן.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+אייער אייגענער סדר־היום איז אויך וויכטיק. בויט אײַך אײַן פּויזעס פֿאַר זיך, און בעט משפּחה אָדער אַ ריספּײַט־דינסט צו דעקן רעגולערע צײַט אַוועק. זעט [זעלבסט־זאָרג פֿאַר פֿאַרזאָרגערס](/caregiving/caregiver-self-care/).

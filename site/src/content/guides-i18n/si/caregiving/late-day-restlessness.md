@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "දිනයේ අවසානයේ නොසන්සුන්කම: ඩිමෙන්ශියා ඇති අය සඳහා සන්සුන් සවස් ක්‍රියාකාරකම්"
+seoTitle: "සන්ඩවුනින්: සන්සුන් සවස් ක්‍රියාකාරකම්"
+description: "ඩිමෙන්ශියාවේ දිනයේ අවසානයේ නොසන්සුන්කම ලිහිල් කළ හැකි සුමට චර්යා, කාමර වෙනස්කම් සහ සන්සුන් ක්‍රියාකාරකම්, සහ නව හෝ උග්‍ර වන රෝග ලක්ෂණ ගැන වෛද්‍යවරයා අමතන ආකාරය."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  සන්ඩවුනින් යනු දිවා ආලෝකය මැකෙන විට සවසේ හෝ රාත්‍රියේ ආරම්භ වන හෝ උග්‍ර වන නොසන්සුන්කම, ව්‍යාකූලත්වය හෝ කෝපයයි. උපකාර විය හැකි ප්‍රායෝගික පියවරුවලට ස්ථාවර දෛනික චර්යාව, දහවලේ ආලෝකය සහ ක්‍රියාකාරකම්, සවසට පෙර නින්ද අඩු කිරීම, කෝපි අඩු කිරීම, නිවස ඉහළ ආලෝකයෙන් තැබීම, නිසංසල පරිසරය සහ සංගීතය, ඡායාරූප හෝ රෙද්දක් නැමීම වැනි සන්සුන් ක්‍රියාකාරකම් ඇතුළත් වේ. නව හෝ උග්‍ර වන රෝග ලක්ෂණ සඳහා වෛද්‍යවරයාගේ පරීක්ෂාවක් අවශ්‍යයි.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "සන්ඩවුනින් යනු දිවා ආලෝකය මැකෙන විට ආරම්භ වන හෝ උග්‍ර වන නොසන්සුන්කම හෝ ව්‍යාකූලත්වයයි."
+  - "වැඩි උත්සාහය ඇති කාර්යයන්, පිටත යාම් සහ නාන කටයුතු උදෑසන හෝ දහවලේ මුල් භාගයේ තබන්න."
+  - "දිවා ආලෝකය, දිනපතා ඇවිදීම, සවස් නින්ද අඩු කිරීම සහ සවසට පසු කෝපි අඩු කිරීම සවස සුමටව ගත වීමට උදව් විය හැක."
+  - "සූර්යාස්තයට පෙර ආලෝකය දල්වා, ශබ්දය අඩු කර, සන්සුන් සහ හුරුපුරුදු ක්‍රියාකාරකම්වලට මාරු වන්න."
+  - "ඇවිස්සීමට හේතු හඳුනා ගැනීමට සටහන් තබා ගන්න, නොසන්සුන්කම ආරම්භ වන විට සන්සුන්ව සහ සහනදායීව සිටින්න."
+  - "නව හෝ උග්‍ර වන රෝග ලක්ෂණ සඳහා වෛද්‍යවරයා බලන්න: වේදනාව, ආසාදනය හෝ ඖෂධ මෙහි කොටසක් විය හැක."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "දිනයේ කුමන වේලාවේ සාමාන්‍යයෙන් සන්ඩවුනින් සිදු වේද?"
+    a: "එය සාමාන්‍යයෙන් සවසේ හෝ සවසේ මුල් භාගයේ ආරම්භ වන හෝ උග්‍ර වන අතර දිවා ආලෝකය මැකෙන විට එය වැඩි වේ. වේලාව පුද්ගලයා අනුව වෙනස් වන නිසා, සති එකක් හෝ දෙකක් කෙටි සටහනක් තැබීම උපකාරී විය හැක."
+  - q: "සන්ඩවුනින් සඳහා කුමන ක්‍රියාකාරකම් උදව් වේද?"
+    a: "සවසට අඩු වෙහෙසක් ඇති, හුරුපුරුදු, සන්සුන් ක්‍රියාකාරකම් වඩාත් හොඳින් ක්‍රියා කරයි: සන්සුන් සංගීතය, ඡායාරූප බැලීම, ප්‍රියතම රූපවාහිනී වැඩසටහනක් හෝ චිත්‍රපටයක්, රෙදි නැමීම, කෙටි ඇවිදීමක් හෝ එකට කෑමක්. අලුත් හෝ අභියෝගාත්මක ක්‍රියාකාරකම් දවසේ මුල් භාගය සඳහා තබන්න."
+  - q: "සන්ඩවුනින් වෛද්‍ය ගැටලුවක ලක්ෂණයක් විය හැකිද?"
+    a: "වේදනාව, මූත්‍ර මාර්ග ආසාදන වැනි ආසාදන, නින්ද ගැටලු හෝ ඖෂධවල අතුරු ආබාධ වැනි සෞඛ්‍ය ගැටලු නිසා එය වැඩි විය හැක. නොසන්සුන්කම අලුත් වූ, හදිසියේ ඇති වූ හෝ උග්‍ර වන්නේ නම්, පුද්ගලයාගේ වෛද්‍යවරයා අමතන්න."
+  - q: "සන්ඩවුනින් සඳහා ඖෂධ ගැන වෛද්‍යවරයාගෙන් අසන්නේ ද?"
+    a: "එය වෛද්‍යවරයා සමඟ කතා කළ යුතු කාරණයකි. ඇල්ස්හයිමර් සංගමය පවසන්නේ ඖෂධ නොවන ප්‍රවේශ සාමාන්‍යයෙන් පළමුව තැබිය යුතු බවත්, සවසේ නොසන්සුන්කම සඳහා ඕනෑම ඖෂධයක් අවදානම් සහ ප්‍රතිලාභ සලකා බැලීමෙන් පසු පමණක් සැලකිල්ලට ගත යුතු බවත්ය. මෙම පිටුව ඖෂධ විෂයෙහි උපදෙස් නොදෙයි."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,99 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+ඩිමෙන්ශියාව ඇති පුද්ගලයන් සමඟ ජීවත් වන බොහෝ පවුල්වල එකම රටාව දැකගත හැකිය: උදෑසන සාමාන්‍යයෙන් සන්සුන් වුවද, දහවල් ගෙවී යන විට පුද්ගලයා නොසන්සුන්, කලබලකාරී, ව්‍යාකූල හෝ පහසුවෙන් කෝපයට පත් වේ. ඔවුන් ඇවිදීම, නිවසේ සිටියදීත් “ගෙදර යමු” යැයි ඉල්ලීම, හෝ පහසුවෙන් කලබල වීම සිදු විය හැක. මේ බොහෝ විට සන්ඩවුනින් ලෙස හඳුන්වයි.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+එයට තනි විසඳුමක් නැත, නමුත් දවසේ රිද්මයට, කාමරයට සහ ඔබ ලබා දෙන ක්‍රියාකාරකම් වර්ගයට කරන වෙනස්කම් සවස් වේලාව සන්සුන් කළ හැක. මෙම පිටුවේ ජාතික වැඩිහිටි ආයතනයේ (National Institute on Aging) සහ ඇල්ස්හයිමර් සංගමයේ (Alzheimer's Association) වෛද්‍ය නොවන, ප්‍රායෝගික අදහස් එකතු කර ඇත. මෙය වෛද්‍ය උපදෙසක් නොවේ. රෝග ලක්ෂණ අලුත් වුවහොත්, හදිසියේ ඇති වුවහොත් හෝ උග්‍ර වුවහොත්, පුද්ගලයාගේ වෛද්‍යවරයා සමඟ කතා කරන්න.
 
-## What is sundowning?
+## සන්ඩවුනින් යනු කුමක්ද?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+සන්ඩවුනින් යනු දිවා ආලෝකය මැකෙන විට, සවසේ හෝ සන්ධ්‍යාවේ ආරම්භ වන හෝ උග්‍ර වන නොසන්සුන්කම, කලබලය, කෝපය හෝ ව්‍යාකූලත්වයයි. [ජාතික වැඩිහිටි ආයතනය (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) සටහන් කරන්නේ අධික ලෙස වෙහෙසට පත් වීම දවසේ අවසානයේ නොසන්සුන්කම වැඩි කළ හැක්කක් බවයි.
 
-## What can make late-day restlessness worse?
+## දිනයේ අවසානයේ නොසන්සුන්කම උග්‍ර කළ හැකි දේ මොනවාද?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+බොහෝ විට එකට බලපාන කරුණු කිහිපයක් තිබිය හැක. [ඇල්ස්හයිමර් සංගමය (Alzheimer's Association)](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ලැයිස්තුගත කරන සාධක අතර:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- දවසක් පුරා වෙහෙසට පත් වීම;
+- නව හෝ ව්‍යාකූල පරිසරය;
+- “අභ්‍යන්තර ජීව ඔරලෝසුව” ගැට ගැසී, දහවලට නිදිමත ඇති වී රාත්‍රියට අවදි වීම;
+- අඳුරු ආලෝකය සහ සෙවනැලි, ඒවා ව්‍යාකූල විය හැක;
+- අවට සිටින අය ගේ ආතතිය හෝ කලකිරීම දැනීම;
+- වැඩිහිටියන් අතර සාමාන්‍ය වන, අඩු නින්දට ඇති අවශ්‍යතාව.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA වඩා පුළුල් ලෙස නොසන්සුන්කමේ හේතු ලෙස වේදනාව, මානසික අවපීඩනය හෝ ආතතිය, ප්‍රමාණවත් විවේකයක් නොමැති වීම, මල බද්ධය, වැඩි ශබ්දය හෝ වැඩි මිනිසුන්, සහ සමහර ඖෂධ හෝ ඖෂධ අන්තර්ක්‍රියා ද එකතු කරයි.
 
-## How can I plan the day to make evenings calmer?
+## දිනය සැලසුම් කර සවස සන්සුන් කරන්නේ කෙසේද?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+අපහසු කාර්යයන් ඉක්මනින් සිදු කර, සවස් වේලාව සැහැල්ලුවෙන් සහ අනාවැකි කළ හැකි ලෙස තබන්න. NIA සහ ඇල්ස්හයිමර් සංගමය දෙකම නිතිපතා චර්යාවක් නිර්දේශ කරයි. ඔබේ තත්ත්වයට අනුව වෙනස් කළ හැකි නියැදි දිනයක්:
 
-| Time | What may help |
+| වේලාව | උදව් විය හැකි දේ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| උදෑසන | හමුවීම්, නාන කටයුතු, පිටත යාම් සහ වැඩි උත්සාහයක් ඇති ඕනෑම කාර්යයක්, බොහෝ දෙනා වඩාත් සජීවීව සිටින විට |
+| දහවලේ මුල් භාගය | පිටත හෝ හිරු එළියක ජනේලය අසල කාලය; ඇවිදීමක් හෝ වෙනත් ක්‍රියාකාරකමක් |
+| දහවල් | විශාල දහවල් ආහාරය (ඇල්ස්හයිමර් සංගමය විශාල දහවල් ආහාරයක් සහ සැහැල්ලු සවස් ආහාරයක් යෝජනා කරයි) |
+| දහවලේ මැද සිට පසු භාගය | අවශ්‍ය නම් විවේක ගන්න, නමුත් සවසට දිගු නින්දෙන් වළකින්න |
+| දහවලේ පසු භාගය සිට සවස | සන්සුන්, හුරුපුරුදු ක්‍රියාකාරකම්; කෙටි කෑමක් සහ පානයක්; කෝපි නැත |
+| සූර්යාස්තයට පෙර | ගෙය ඇතුළත ආලෝකය දල්වා, අඳුර වීමට පෙර තිර වසන්න |
+| සවස | සැහැල්ලු ආහාරයක්, සන්සුන් සංගීතය, අඩු උත්තේජනයක්, ස්ථාවර නින්දට යාමේ චර්යාවක් |
 
-A few specific points from the sources:
+මූලාශ්‍රවලින් ලබා ගත් නිශ්චිත කරුණු කිහිපයක්:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **දිවා ආලෝකය.** NIA යෝජනා කරන්නේ හිරු එළිය ලැබීම සඳහා දිනපතා පිටත හෝ ජනේලය අසල කාලයක් සකස් කිරීමටය.
+- **දිනපතා චලනය, නමුත් අධික නොවන.** NIA පවසන්නේ ක්‍රියාකාරකම් ගණන වැඩි කිරීමෙන් තොරව, දිනපතා ශාරීරිකව ක්‍රියාශීලී වීමට අරමුණු කරන ලෙසයි.
+- **සවස් පානයන්.** NIA අනුව, දවසේ අවසානයේ මත්පැන් සහ කෝපි හෝ කෝලා වැනි කැෆේන් ඇති පානයන් වළකින්න. ඇල්ස්හයිමර් සංගමය නිකොටින් ද සඳහන් කරයි.
+- **නින්ද.** NIA අනුව, දවසේ අවසානයේ දිගු නින්දෙන් සහ ඇඳ ගැනීමෙන් වළකින්න. රාත්‍රී නින්ද ගැටලුවක් නම්, දහවල් නින්ද සීමා කිරීමට ඇල්ස්හයිමර් සංගමය යෝජනා කරයි.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+ස්ථාවර දවසක් ගොඩනැගීම ගැන වැඩි විස්තර සඳහා, [දෛනික චර්යා ක්‍රියාකාරකම්](/activities/daily-routine/) බලන්න.
 
-## How can I make the home calmer in the late afternoon?
+## සවස් වේලාවේ නිවස සන්සුන් කරන්නේ කෙසේද?
 
-Reduce noise, add light and keep familiar things close.
+ශබ්දය අඩු කර, ආලෝකය එක් කර, හුරුපුරුදු දේවල් ළඟ තබන්න.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **දීප්තිමත්, සම ආලෝකය.** ඇල්ස්හයිමර් සංගමය සවස නිවස හොඳින් ආලෝකමත්ව තබා ගන්නා ලෙස නිර්දේශ කරයි. සෙවනැලි පෙනෙන්නට පෙර අවකාශය ආලෝකමත් කරන්න.
+- **අඩු ශබ්දය.** රූපවාහිනිය සහ ගුවන් විදුලිය ක්‍රියා විරහිත කරන්න හෝ අඩු කරන්න, මේ වේලාවේ අමුත්තන් හෝ කාර්බහුල ගෘහ වැඩ සීමා කරන්න. ඇල්ස්හයිමර් සංගමය සවස් කාලයේ රූපවාහිනිය, වැඩ සහ උස් සංගීතය වැනි උත්තේජනය අඩු කරන ලෙස යෝජනා කරයි.
+- **හුරුපුරුදු සහනයන්.** NIA සන්සුන් සංගීතය සහ ප්‍රිය කරන වස්තූන් හා ඡායාරූප නිවස තුළ තබන ලෙස යෝජනා කරයි.
+- **සුවපහසු පරීක්ෂා.** වේදනාව, කුසගින්න, පිපාසය, මල බද්ධය, පිරුණු මුත්‍රාශය, වෙහෙස, ආසාදන සහ සම කෝපය පරීක්ෂා කරන්න, සහ කාමරය සුවපහසු උෂ්ණත්වයක තබන්න යන්න ඇල්ස්හයිමර් සංගමයේ නිර්දේශයයි.
+- **ඔබේම මනෝභාවය.** මිනිසුන් ආතතිය හඳුනා ගනී. ඔබේම කරදර ආතතිය වැඩි කරන්නේ නම්, NIA යෝජනා කරන්නේ වේගය අඩු කර විවේක ගැනීමටයි.
 
-## What calm activities can we do in the late afternoon?
+## සවස් වේලාවේ කළ හැකි සන්සුන් ක්‍රියාකාරකම් මොනවාද?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+හුරුපුරුදු, කඩිමුඩියක් නොමැති, පහසුවෙන් නවත්වා ගත හැකි ක්‍රියාකාරකම් තෝරන්න. ඇල්ස්හයිමර් සංගමය සන්සුන් සංගීතය, ඡායාරූප හෝ ප්‍රිය කරන චිත්‍රපටයක් වැනි සුවදායී ක්‍රියාකාරකම් සහ නොසන්සුන්කම සමනය කිරීමට එකට ඇවිදීම යෝජනා කරයි. NIA යෝජනා කරන්නේ කෙටි කෑමක් හෝ පානයක්, ප්‍රිය කරන රූපවාහිනී වැඩසටහනක්, සංගීතය, ඇවිදීම, කියවීම, හෝ රෙදි නැමීම වැනි සරල ගෘහ කාර්යයක් ය.
 
-Ideas to try:
+උත්සාහ කළ හැකි අදහස්:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **රෙදි එකට නමන්න.** NIA යෝජනා කරන මෙවැනි සරල ගෘහ කාර්යයකි. තුවා පහසුවෙන් හසුරුවා ගත හැකි අතර, කාර්යයට පැහැදිලි අවසානයක් ඇත.
+2. **ප්‍රිය කරන සංගීතය වාදනය කරන්න.** ඔවුන් තරුණ කාලයේ හුරුපුරුදු ගීත, අඩු හඬින්. ගීතයට හඬ දීම ද ගණන් ගනී. වැඩි අදහස් [සංගීත ක්‍රියාකාරකම්](/activities/music/) හි ඇත.
+3. **ඡායාරූප බලන්න.** ඡායාරූප ඇල්බමයක්, හෝ [Photo Pairs](/games/photo-pairs/) හි පවුලේ ඡායාරූප කිහිපයක් චිත්‍ර දෘශ්‍යමානව තබා, නිශ්ශබ්ද සංවාදයකට මග පාදයි.
+4. **කෙටි ඇවිදීමක් ගන්න.** අඳුර වීමට පෙර, උයන, පාර හෝ හෝලය වටා.
+5. **කෙටි කෑමක් සහ පානයක් බෙදා ගන්න.** සරල, උණුසුම් සහ කැෆේන් රහිත දෙයක්, මේසය වටා එකට.
+6. **සිහින් ගැලපීම.** සියලු චිත්‍ර දෘශ්‍යමානව ඇති [Picture Pairs](/games/picture-pairs/) ක්‍රීඩාව ආරම්භ කිරීමටත්, නැවැත්වීමටත් පහසුය.
+7. **වර්ණ ගැන්වීම.** [Coloring](/games/coloring/) තිරය මත හෝ මුද්‍රිත පිටුවක, අවසන් කිරීමේ ඉලක්කයක් නොමැතිව.
+8. **බලමින් සහ කතා කරමින්.** [Conversation Cards](/games/conversation-cards/) චිත්‍රයක් සහ විවෘත ප්‍රශ්නයක් ලබා දේ. බලා සිටීම පමණක් ද ප්‍රමාණවත්ය.
+9. **හුස්ම ගැනීමේ විවේකයක්.** [Calm Breathing](/games/calm-breathing/) යනු ඔබ තමාම ආරම්භ කර නවතා ගන්නා මන්දගාමී, නිශ්ශබ්ද විවේකයකි.
+10. **අත් කාර්යයන්.** බොත්තම් හෝ මේස් වර්ග කිරීම, මෘදු බෙඩ්ෂීට් එකක් සමතලා කිරීම, හෝ හුරුපුරුදු වස්තුවක් අතේ තබා ගැනීම. [සංවේදක ක්‍රියාකාරකම්](/activities/sensory/) බලන්න.
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+සවස් කාලයේ අලුත් ක්‍රීඩා, කාර්බහුල පිටත යාම් සහ මතකය හෝ අවධානය වැඩියෙන් ඉල්ලන ඕනෑම දෙයකින් වළකින්න. ඒවා උදෑසනට තබන්න.
 
-## What should I do when restlessness starts?
+## නොසන්සුන්කම ආරම්භ වන විට මා කළ යුත්තේ කුමක්ද?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+සන්සුන්ව සිටින්න, සහනය දෙන්න, සහ මෘදු ලෙස අවධානය වෙනතකට හරවන්න. NIA යෝජනා කරන්නේ සන්සුන් ලෙස කතා කිරීම, පුද්ගලයාගේ කරදර සවන් දීම, තර්කවලින් වැළකීම, ඔවුන් ආරක්ෂිත බව සහතික කිරීම, සහ උදව් වේ නම් මෘදු ස්පර්ශය භාවිත කිරීමටය. ඉන්පසු කෑමක්, පානයක්, සංගීතයක් හෝ ඇවිදීමක් වැනි අවධානය වෙනතකට හරවන දෙයක් උත්සාහ කරන්න.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+ඇල්ස්හයිමර් සංගමය “ඔබ මෙහි ආරක්ෂිතයි” සහ “ඔබ කලබල වීම ගැන මට කණගාටුයි” වැනි වචන යෝජනා කරයි, සහ ආලෝකය එකතු කිරීමට, වේගය අඩු කිරීමට සහ උත්තේජනය සීමා කිරීමට උපදෙස් දෙයි. පුද්ගලයා කොනකට තල්ලු කිරීමෙන්, ගැවසීමෙන් හෝ බලෙන් තබා ගැනීමෙන් වළකින්න, සහ ඔවුන් සමඟ තර්ක නොකරන්න.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+පුද්ගලයා ආක්‍රමණශීලී වුවහොත්, NIA උපදෙස් දෙන්නේ හැසිරීම නවතින තුරු ආරක්ෂිත දුරින් සිටින ලෙසයි. හදිසි අවස්ථාවකදී, ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතා, පුද්ගලයාට ඩිමෙන්ශියාව ඇති බව පැහැදිලි කරන්න. කෝපය ශාරීරික බවට පත් වන විට ක්ෂණික ආරක්ෂාව සහ පසුව කළ යුතු දේ ගැන [කෝපය සහ ආක්‍රමණශීලීත්වය ගැන මාර්ගෝපදේශය](/caregiving/when-anger-becomes-aggression-with-dementia/) ආවරණය කරයි.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+[සන්නිවේදනය](/caregiving/communication-tips/) සහ [ඔවුන් නැත කියන විට කළ යුතු දේ](/caregiving/when-they-say-no/) පිළිබඳ අපේ මාර්ගෝපදේශවල සන්සුන් වචන ගැන වැඩි දේ ඇත.
 
-## How do I find the triggers?
+## ඇවිස්සීමට හේතු හඳුනා ගන්නේ කෙසේද?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+සති එකක් හෝ දෙකක් කෙටි සටහනක් තබන්න. ඇල්ස්හයිමර් සංගමය නිර්දේශ කරන්නේ සන්ඩවුනින් කථාංග ට පෙර සිදු වන දේ සටහන් කර හේතු හඳුනා ගන්නා ලෙසයි. නොසන්සුන්කම ආරම්භ වූ වේලාව, එයට පැය එකකට පෙර සිදු වූ දේ, නිදා ගැනීම, ආහාර සහ පාන, අමුත්තන්, ශබ්දය සහ ආලෝකය සටහන් කරන්න. සටහන වෛද්‍යවරයා වෙත රැගෙන යන්න. NIA සඳහන් කරන්නේ හැසිරීම් වෙනස්කම් ගැන සටහන් තැබීම රැකබලා ගන්නන්ට සහ සෞඛ්‍ය සේවා සපයන්නන්ට රටාවක් හඳුනා ගැනීමට උදව් විය හැකි බවයි.
 
-## When should I call a doctor about sundowning?
+## සන්ඩවුනින් ගැන වෛද්‍යවරයා කවදා අමතන්නද?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+නොසන්සුන්කම අලුත් වූ, හදිසියේ උග්‍ර වූ, හෝ වෙනත් වෙනස්කම් සමඟ පැමිණෙන්නේ නම්, පුද්ගලයාගේ වෛද්‍යවරයා අමතන්න. ඇවිස්සීමට දායක විය හැකි දේ පරීක්ෂා කරන ලෙස වෛද්‍යවරයාගෙන් ඉල්ලන්න. ඇල්ස්හයිමර් සංගමය මූත්‍ර මාර්ග ආසාදන, මූත්‍ර ධාරණයේ නොහැකියාව, නොසන්සුන් කකුල් සහ නින්දේදී හුස්ම ගැනීමේ බාධා වැනි ශාරීරික ගැටලු සඳහන් කරන අතර, සෑම ඖෂධයක්ම දවසේ කුමන වේලාවට වඩාත් හොඳ දැයි ඇසීමට යෝජනා කරයි. NIA වේදනාව, මල බද්ධය සහ ඖෂධ අතුරු ආබාධ හෝ අන්තර්ක්‍රියා නොසන්සුන්කමේ හේතු අතර ලැයිස්තුගත කරයි.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+ඇල්ස්හයිමර් සංගමය පවසන්නේ ඇල්ස්හයිමර් ආශ්‍රිත නින්ද ගැටලු සඳහා ඖෂධ නොවන ප්‍රවේශ සාමාන්‍යයෙන් වඩා සුදුසු බවත්, සවසේ නොසන්සුන්කම සඳහා ඖෂධයක් ඒවා අසාර්ථක වුවහොත් පමණක්, අවදානම් සහ ප්‍රතිලාභ සලකා බලා සැලකිය යුතු බවත්ය. ඒ තීරණය වෛද්‍යවරයාට අයිති වේ. වෛද්‍ය උපදෙසක් නොමැතිව කිසිදු ඖෂධයක්, නින්ද ඖෂධයක් හෝ අතිරේක ආහාරයක් ආරම්භ කිරීම, නැවැත්වීම හෝ වෙනස් කිරීම නොකරන්න.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+## සවස්වරුවල ඔබම මේ කාලය ගෙන යන්නේ කෙසේද?
 
-## How do I get through the evenings myself?
-
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+සවස් වේලාව බොහෝ විට රැකබලා ගන්නාගේ දවසේ දුෂ්කරම කොටස වේ. හැකි නම්, සතියේ දින කිහිපයක් පැයකට වුවද, සවස් කාලය ආවරණය කිරීමට පවුලේ සාමාජිකයෙකුට, මිත්‍රයෙකුට හෝ ගෙවීමෙන් සේවකයෙකුට ඉල්ලන්න. [රැකබලා ගන්නාගේ ස්වයං සත්කාර](/caregiving/caregiver-self-care/) මාර්ගෝපදේශය විවේක විකල්ප සහ නොමිලේ ඇල්ස්හයිමර් සංගමයේ පැය 24 උපකාර මාර්ගය ලැයිස්තුගත කරයි.
