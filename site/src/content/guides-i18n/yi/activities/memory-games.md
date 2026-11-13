@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "זכרון-שפּילן פֿאַר זקנים מיט דעמענץ: װײכע װערסיעס װאָס טעסטן נישט"
+seoTitle: "בעסטע זכרון-שפּילן פֿאַר דעמענץ: װײכע אידייען"
+description: "מאַטש-, בילד- און קאַרטן-שפּילן פֿאַר זקנים מיט דעמענץ, און װי מען שפּילט זײ אַזױ אַז קיינער פֿילט זיך נישט געטעסטעט: בילדער אָפֿן, װײניק פּאָרן, קיין ציפֿער."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  זכרון-שפּילן פֿאַר זקנים מיט דעמענץ אַרבעטן בעסטן װען זײ הענגען נישט פֿון דעם זכרון.
+  שפּילט מאַטש-שפּילן מיט די בילדער אָפֿן, ניצט פֿיר ביז זעקס קאַכלעך, שפּילט אין אַ
+  מאַנשאַפֿט און לאָזט אַװעק דעם ציפֿער. אַ בילד דערקענען איז לײכטער װי אַ בילד
+  װיסן, דעריבער קלײַבט שפּילן װוּ אַלץ בלײַבט אין זיכט. פֿאַרגעניגן, נישט אַ
+  רעזולטאַט, איז דאָס ציל.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "קלאַסישע זכרון-שפּילן פֿאַרבאַרגן די קאַרטן, און דאָס טעסט גענau דאָס װאָס דעמענץ מאַכט שװער. לאָזט די בילדער אָפֿן."
+  - "װײניקער שטיקלעך, גרעסערע בילדער און איין ברירה אויף אַ מאָל האַלטן דעם שפּיל אָנגענעם."
+  - "שפּילט אין אַ מאַנשאַפֿט, נעמט טורן העלפֿן און לאָזט אַװעק דעם ציפֿער. קײנער זאָל נישט זײַן אונטער דרוק."
+  - "קײן זכרון-שפּיל האָט נישט געװיזן, אַז עס היילט, פֿאַרלאַנגזאַמט אָדער שטעלט אָפּ דעמענץ. שפּילט װײל עס איז אַ אָנגענעם צײַט צוזאַמען."
+  - "הערט אויף װען עס איז נאָך לוסטיק. װען מען רעדט װעגן די בילדער, איז דאָס אַ גוטער רעזולטאַט."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "װאָס איז אַ גוטער זכרון-שפּיל פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "אַ מאַטש-שפּיל מיט גרױסע, באַקאַנטע בילדער װאָס קענען בלײַבן אָפֿן, אַזױ װי בילד-פּאָרן מיט פֿיר אָדער זעקס קאַכלעך. צו געפֿינען דעם צװילינג פֿון אַ בילד װאָס מען קען זען איז צופֿרידנשטעלנד, און עס טעסט נישט דאָס קורצע זכרון. געפֿינט דאָס זעלבע בילד איז נאָך פּשוטער, מיט איין בילד צו מאַטשן פֿון צװײ ביז פֿיר ברירות."
+  - q: "צי העלפֿן זכרון-שפּילן מיט דעמענץ?"
+    a: "קײן זכרון-שפּיל איז נישט געװיזן געװאָרן צו היילן, פֿאַרלאַנגזאַמען אָדער שטעלן אָפּ דעמענץ. אַ [קאָקראַין-רעװיו](https://pubmed.ncbi.nlm.nih.gov/30864747/) פֿון קאָמפּיוטערישער זכרון-טרענינג פֿאַר מענטשן מיט מילדע קאָגניטיװע שװאַכקייט האָט געפֿונען, אַז די באַװײזן זענען צו שװאַך כּדי צו זאָגן צי עס פֿאַרהיט דעמענץ. שפּילן קענען נאָך זײַן אַ װאַרעמער װעג צו פֿאַרברענגען צײַט צוזאַמען. קלײַבט זײ פֿאַר פֿאַרגעניגן און חבֿרותא."
+  - q: "צי זאָל איך שפּילן קלאַסישע קאָנצענטראַציע מיט אַ מענטש מיט דעמענץ?"
+    a: "אין פֿרי־סטאַדיום האָבן עטלעכע מענטשן נאָך פֿרײד דערפֿון, באַזונדערס מיט אַ קלײנעם צאָל קאַרטן. װען געדענקען װוּ די קאַרטן זענען װערט שװער און מאַכט פֿרוסטראַציע, דרייט די קאַרטן אָפֿן און געפֿינט די פּאָרן צוזאַמען. דאָס האַלט דעם מאַטש און נעמט אַװעק דעם זכרון-טעסט."
+  - q: "װאָס פֿאַר זכרון-שפּילן זענען גוט פֿאַר זקנים אין אַ גרופּע?"
+    a: "פּיקטשער-בינגאָ מיט אַן אויף-עקראַן אויסרופֿער, װערטער װאָס מען זאָגט אויס פֿון באַקאַנטע ספֿורים, און שמועס-קאַרטן פּאַסן אַלע פֿאַר גרופּעס. שפּילט ביז יעדע קאַרטע איז פֿול און מײַדט אויסרופֿן װער האָט געענטפֿערט, כּדי קײנער זאָל נישט פֿילן זיך אַפּגעזונדערט."
+  - q: "צי זענען פֿאַראַן פֿרײע זכרון-שפּילן פֿאַר זקנים אָנליין?"
+    a: "יאָ. די שפּילן אויף דער זײַטל, אײַנגערעכנט בילד-פּאָרן, געפֿינען דאָס זעלבע, פֿאָטאָ-פּאָרן און בילד-פּאַזל, זענען פֿרײ, דאַרפֿן נישט קײן אַנמעלדונג, און אַרבעטן אויף טעלעפֿאָנען, טאַבלעטן און קאָמפּיוטערס. קײנער האַט נישט קײן טײמער אָדער ציפֿער."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+אַ זוך נאָך "memory games for seniors" װײזט מערסטנס אויס צו מענטשן װאָס װילן אַ גײַסטיקע טרענינג: פֿאַרבאַרגענע קאַרטן, קאָונטדאַון-זײגערס, לעוועלס און ציפֿערן. פֿאַר אַ מענטש מיט דעמענץ מאַכן די זעלבע פֿיצערס פֿון אַ שפּיל אַ טעסט פֿון דעם זעלבן זאַך װאָס איז שװער געװאָרן. די זעלבע שפּילן קענען געשפּילט װערן אַ װײכערן װעג. די זײַט װײַזט װי, און װעלכע שפּילן פּאַסן צו יעדן סטאַדיום.
 
-## Why do classic memory games frustrate people with dementia?
+## פֿאַר װאָס האָבן קלאַסישע זכרון-שפּילן מענטשן מיט דעמענץ אומרויִק?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+װײַל זײ הענגען פֿון האַלטן נײַע אינפֿאָרמאַציע אין זינען, װאָס איז געװײנלעך דאָס ערשטע װאָס אַלצהײמער, די מערסט פֿאַרשפּרײטע אורזאַך פֿון דעמענץ, באַטרעפֿט. די [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) זאָגט, אַז דער מערסט פֿאַרשפּרײטער פֿרי סימפּטאָם פֿון אַלצהײמער איז שװערקייט אין געדענקען פֿריש געלערנטע אינפֿאָרמאַציע. אין קלאַסישן קאָנצענטראַציע-שפּיל דרײט מען צװײ קאַרטן, מען געדענקט װוּ זײ זענען געװען, און מען ניצט דאָס אַ מינוט שפּעטער. דאָס איז נײַע אינפֿאָרמאַציע, געהאַלטן און אָפּגעריפֿן.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+צולײגן אַ טײמער, אַ ציפֿער אָדער אַ באַזער פֿאַר פֿאַלשע ענטפֿערס, און דער מענטש װערט דערמאָנט אין דעם װאָס ער קען נישט, פֿאַר מענטשן װאָס ער האָט ליב. פֿיל מענטשן הערן שטיל אויף צו װילן שפּילן.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+זען עפּעס װאָס מען זעט איז אַ אַנדערע און געװײנלעך לײכטערע אַרבעט. צו װײַזן דעם צװײטן טעפּל װען ביידע זענען אין זיכט איז גוט. דעריבער איז דער טריק צו האַלטן דעם מאַטש און אָפּלײגן דעם זכרון-טעסט.
 
-## How do you make a memory game gentle?
+## װי מאַכט מען אַ זכרון-שפּיל װײך?
 
-These adjustments work for card games, board games and games on a screen.
+די אײַנשטעלונגען אַרבעטן פֿאַר קאַרטן-שפּילן, ברעטשפּילן און שפּילן אויפֿן עקראַן.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **לאָזט די בילדער אָפֿן.** מאַטשן פֿון בילדער װאָס מען קען זען איז נאָך אַ גע‌ענע שפּיל, און אָפט אַ צופֿרידנשטעלנדע.
+2. **ניצט װײניקער שטיקלעך.** הײבט אָן מיט צװײ אָדער דרײ פּאָרן. לײגט צו נאָר אויב עס דוכט זיך צו לײַכט און זײ װילן מער.
+3. **קלײַבט גרױסע, באַקאַנטע, דערװאַקסענע בילדער.** אַ טעפּל טי, אַ זונבלום, אַ סעגלבאָט. נישט קאַרטונען, און נישט פֿול פֿאַרנומענע סצענעס.
+4. **שפּילט אין אַ מאַנשאַפֿט.** „לאָמיר געפֿינען די הינט“ אַנשטאָט „דײַן טורן“. נעמט טורן װײַזן און העלפֿן.
+5. **לאָזט אַװעק דעם ציפֿער.** קײנער דאַרף נישט געװינען. אויב עמעץ פֿרעגט, איז אַ פּשוטע „מיר האָבן עס געטאָן“ גענוג.
+6. **קײן טײמער נישט.** קײן זײגער און קײן אײַלן צװישן די טורן.
+7. **רעדט װעגן די בילדער.** „קוקט דעם שיפֿל. האָסטו אַ מאָל געשװומען מיט אַ בױט?“ דאָס שמועסן איז אָפט דער בעסטער טייל.
+8. **הערט אויף אויף אַ גוטן פּונקט.** ענדיקט נאָך אַ מאַטש, בשעת עס איז נאָך לוסטיק.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) גיט דעם זעלבן גײסט אַלס אַ אַלגעמיינע עצה: מאַכט די אַקטיװיטעט צו דעם, װאָס דער מענטש קען טאָן, באָבאַכט פֿאַר פֿרוסטראַציע, און זאָרגט אַז ער זאָל זיך פֿילן דערפֿאָלגרײך.
 
-## Gentle memory and matching games to try
+## באַקאַנטע זכרון- און מאַטש-שפּילן צו פּרוּװן
 
-### Picture pairs (matching with pictures showing)
+### בילד-פּאָרן (מאַטשן מיט בילדער װאָס װײַזן זיך)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) איז אַ מאַטש-שפּיל מיט גרױסע בילדער און 4 ביז 12 קאַכלעך. די בילדער קענען בלײַבן זעעוודיק, אַזױ אַז עס איז װעגן געפֿינען צװילינגען, נישט װעגן געדענקען װוּ זײ זענען געװען. הײבט אָן מיט פֿיר קאַכלעך. פֿאַר אַ מענטש אין פֿרי-סטאַדיום װאָס האָט ליב אַ ביסל מער אַרױספֿאָדערונג, קען מען אַריבערגײן צו **פֿאַרבאַרגענע בילדער**, אָבער גײט צוריק צו װײַזן די בילדער װען עס הערט אויף צו זײַן לוסטיק.
 
-### Find the same
+### געפֿינט דאָס זעלבע
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) װײַזט איין בילד אויבן און צװײ ביז פֿיר ברירות אונטן. טאַפּט דעם װאָס מאַטשט. עס איז דער פּשוטסטער מאַטש-שפּיל אױף דער זײַטל, און עס פּאַסט פֿאַר מענטשן װאָס געפֿינען אַ פֿולע ריי צו פֿיל, אײַנגערעכנט פֿיל אין שפּעטע סטאַדיעס מיט עמעצן נעבן זיך.
 
-### Photo pairs (family photo memory game)
+### פֿאָטאָ-פּאָרן (משפּחה-פֿאָטאָ זכרון-שפּיל)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) פֿאַרװאַנדלט פֿאָטאָס װאָס איר קלײַבט אין אַ מאַטש-שפּיל: דער הונט, דער גאָרטן, דאָס סומערהויז בײַם טײַך. באַקאַנטע פּנימער און ערטער װעקן אָפט אַ שמועס מער װי קײן שטאַק-בילד. די פֿאָטאָס בלײַבן אין דעם בראָװזער און װערן קײנמאָל נישט אױפֿגעלאָדן.
 
-### Sort together
+### זאָרטירט צוזאַמען
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) בעט אײַך אַרײַנצולײגן יעדן בילד אין דעם קערבל װוּ ער געהערט, למשל די קיך אָדער דער גאָרטן. זאָרטירן ציט זיך אויף לאַנג-געהאַלטענע װיסן װעגן װי די װעלט פֿונקציאָנירט, נישט אויף קורצע זכרון.
 
-### Picture puzzle
+### בילד-פּאַזל
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) שניידט אַ בילד אין 4 אָדער 9 שטיקלעך. טאַפּט צװײ שטיקלעך צו טױשן זײ ביז דאָס בילד איז גאַנץ. דאָס גאַנצע בילד בלײַבט אויפֿן עקראַן ווי אַ פֿירער.
 
-### Real cards on the table
+### אמתע קאַרטן אויפֿן טיש
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+איר דאַרפֿט נישט קײן עקראַן. נעמט מאַטשנדיקע פּאָרן פֿון צװײ שטאָק קאַרטן אָדער פֿון אַ בילד-קאַרטן-זעץ. לײגט זײ אָפֿן אין צװײ רײען און געפֿינט די פּאָרן צוזאַמען. שפּעטער זאָרטירט לױט קאָליר אָדער קאָסטיום. די [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) צײלט קאַרטן-שפּילן און ברעטשפּילן צװישן די אַקטיװיטעטן פֿאַר פֿרי-סטאַדיום.
 
-## Which memory games suit each stage?
+## װאָס פּאַסט צו יעדן סטאַדיום?
 
-Stages are loose labels. Go by what the person enjoys today.
+סטאַדיעס זענען לאָזע ביכשטאָבן. גײט לױט װאָס דער מענטש האָט הײַנט ליב.
 
-| Stage | Games that often fit | How to set them up |
+| סטאַדיום | שפּילן װאָס פּאַסן אָפט | װי צו גרײטן |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| פֿרי | בילד-פּאָרן, פֿאָטאָ-פּאָרן, בילד-פּאַזל מיט 9 שטיקלעך, באַקאַנטע קאַרטן-שפּילן | לאָזט אים קלײַבן. די קאַכלעך קענען אומגעדרייט װערן אויב ער האָט פֿרײד; לאָזט אַװעק דעם ציפֿער אויב עס שטערט אים |
+| מיטל | בילד-פּאָרן מיט 4 ביז 6 קאַכלעך אָפֿן, געפֿינט דאָס זעלבע, זאָרטירט צוזאַמען | בילדער שטענדיק זעעוודיק. זיצט נאָענט און נעמט טורן העלפֿן |
+| שפּעט | געפֿינט דאָס זעלבע מיט 2 ברירות, אײן גרױס בילד צוזאַמען קוקן | זײער קורץ. איר האַלט דעם טאַבלעט; ער װײַזט אָדער קוקט און הערט נאָר צו |
 
-## Do memory games help with dementia?
+## טאָן זכרון-שפּילן העלפֿן מיט דעמענץ?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+קײן זכרון-שפּיל איז נישט געװיזן געװאָרן צו היילן, פֿאַרלאַנגזאַמען אָדער שטעלן אָפּ דעמענץ. אַ [קאָקראַין-רעװיו](https://pubmed.ncbi.nlm.nih.gov/30864747/) פֿון קאָמפּיוטערישער קאַגניטיװער טרענינג פֿאַר מענטשן מיט מילדע קאַגניטיװע שװאַכקייט האָט געפֿונען, אַז די באַװײזן זענען צו באַגרענעצט כּדי צו זאָגן צי עס פֿאַרהיט דעמענץ. אונדזער פֿירער װעגן [ברײן-שפּילן און דעמענץ](/brain-health/brain-games/) עקספּלאַנירט װאָס שטודיעס װײַזן און װאָס נישט.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+דאָס איז נישט קײן סיבה צו פֿאַרמײַדן שפּילן. די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) רעקאָמענדירט צו פֿאָקוסירן אויף פֿאַרגעניגן, נישט אויף דערגרײכונג. צען מינוט בילדער מאַטשן און װעגן זײ רעדן קען אַ טאַקע גוטער טייל פֿון דעם טאָג זײַן.
 
-## What about memory games for seniors without dementia?
+## װאָס װעגן זכרון-שפּילן פֿאַר זקנים אָן דעמענץ?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+אויב אַ עלטערער מענטש אָהן געדעכטניש-פּראָבלעמען האָט ליב צײטירטע פּאַזלען, ציפֿערן און שװערערע לעוועלס, איז דערביי גאָר נישטאָ קײן פֿעלער. נאָר רעכנט נישט דערויף אַז עס װעט אים באַשיצן פֿאַר דעמענץ; קײן שפּיל איז נישט געװיזן געװאָרן צו טאָן דאָס. די װײכע װערסיעס װאָס שטײען אויבן אַרבעטן אויך גוט װען דורות שפּילן צוזאַמען: אַ באָבע מיט דעמענץ און אַ יונגער אײניקל קענען מאַטשן בילדער אַלס אַ מאַנשאַפֿט, אָן אײנער װערט געטעסטעט.
 
-## When should you stop or change the game?
+## װען זאָל מען אויפֿהערן אָדער װעקסלען דעם שפּיל?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+זיפֿצן, דאָס טאַבלעט װײַטער שטופּן, זאָגן „איך קען דאָס נישט טאָן“ אָדער אויסזען אומרויִק זענען אַלע סימנים צו מאַכן עס לײכטער אָדער אויפֿהערן. פּרוּװט װײניקער קאַכלעך, דרײט די בילדער אָפֿן, װעקסלט צו [געפֿינט דאָס זעלבע](/games/find-the-same/), אָדער קוקט פּשוט אויף די בילדער און רעדט. אויב זײ װילן גאָר נישט שפּילן, איז דאָס אויך גוט. אונדזער פֿירער װעגן [װי צו שפּילן צוזאַמען](/caregiving/how-to-play-together/) האָט מער װעגן טעמפּאָ און הילף.
