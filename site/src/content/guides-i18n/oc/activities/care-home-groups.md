@@ -1,13 +1,13 @@
 ---
 title: "Activitats de grop per la demència: guida per las residéncias e los centres de jorn"
 seoTitle: "Activitats de grop per la demència: bingo, cançons, istòrias"
-description: "Activitats de grop per las unitats de memòria, las residéncias e los centres de jorn: bingo d'imatges, cançons e grops de remembrança, amb consèls de placement e de talha."
+description: "Activitats de grop per las unitats de memòria e los centres de jorn: bingo d'imatges, cançons, grops de remembrança, placement e talha dels grops."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Las bonas activitats de grop dins las unitats de memòria e los centres de jorn son cortas, familièras e facilas de rejónher a tot nivèl : bingo d'imatges, cançons cantadas en grop, grops de remembrança, movement simple e jòcs de mots partejats. Gardatz los grops pichons se podètz, plaçatz las personas per que tot lo monde vegue e ausa, donatz un pas a la fòi, e prevesètz un ròtle mai leugièr e una sortida tranquila per quin cal.
+  Las bonas activitats de grop dins las unitats de memòria e los centres de jorn son cortas, familièras e facilas de rejónher a tot nivèl : bingo d'imatges, cançons cantadas en grop, grops de remembrança, movement simple e jòcs de mots partejats. Gardatz los grops pichons se podètz, plaçatz las personas per que tot lo monde vegue e ausa, donatz un pas a la fòi, e prevesetz un ròtle mai leugièr e una sortida tranquila per quin cal.
 keyPoints:
   - "Los grops pichons fonciónan sovent melhor qu'un gròs eveniment, e laissan mai de monde participar activament e pas sonque agachar."
   - "Plaçatz las personas en cercle o en fer de cavalet, près del menaire, en pensant a l'audicion e a la vista, e amb lo brut de fons atudat."
@@ -47,7 +47,7 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-Aquesta guida s'adreça als directors d'activitats, a las equipas de unitats de memòria e als menaires de centres de jorn per adults. Ensenha de formats de grop que foncionan, l'amenatgi de la sala, l'adaptacion d'una activitat per de capacitats mescladas, e l'utilizacion de nòstres cartas de bingo imprimiblas e de jòcs sus gròs ecran. Tot çò qu'es aquí vis lo confòrt, la relacion e la causida. Res d'aquí es un tèst.
+Aquesta guida s'adreça als directors d'activitats, a las equipas de unitats de memòria e als menaires de centres de jorn per adults. Ensenha de formats de grop que foncionan, l'amenatgi de la sala, l'adaptacion d'una activitat per de capacitats mescladas, e l'utilizacion de nòstras cartas de bingo imprimiblas e de jòcs sus gròs ecran. Tot aquò se concentra sul confòrt, la relacion e la causida. Res d'aquí es un tèst.
 
 ## Qué fa qu'una activitat de grop reussisse dins las unitats de memòria?
 
@@ -65,7 +65,7 @@ Aquò indica qualques règlas practicas :
 
 Lo pichon es generalament mai aisit. L'Alzheimer's Association nòta qu'una persona que tròba un gròs ajonchament aclaparant pòt interagir melhor dins un grop mai pichon. I a pas de nombre juste unic. Depen dels residents, de la sala e del nombre de personal e de volontaris disponibles.
 
-Una prova utila : cada persona pòt-la veire lo visatge del menaire, ausir clarament e èsser atenguda per un ajudant dins qualques segondas ? Se non, partissètz lo grop, ajustatz de personal o passatz a una sala mai pichona.
+Una prova utila : cada persona pòt-la veire lo visatge del menaire, ausir clarament e èsser atenguda per un ajudant dins qualques segondas? Se non, partissètz lo grop, ajustatz de personal o passatz a una sala mai pichona.
 
 Per un gròs eveniment, coma un concèrt de fèstas, plaçatz lo personal e los volontaris entre los residents, pas al long dels murs.
 
@@ -90,7 +90,7 @@ Lo bingo d'imatges remplaça los nombres per d'imatges clarament identificablas,
 1. Imprimissètz una carta per persona a partir de nòstra pagina [Bingo d'imatges](/games/picture-bingo/) amb lo boton Imprimir. Un papièr espés es mai facil a manejar. Plastificatz per la reütilizacion.
 2. Balhatz de marcadors grands e facils a tomar, coma de jetons de poker, de capsuls de botelha o de tòcs de cartolina talhats.
 3. Utilizatz l'apelaire sus l'ecran d'una television o d'un projector per que tot lo monde vegue l'imatge quand diguetz son nom.
-4. Arrestatz-vos après cada imatge e convidatz a un breu comentari : « Qualqu'un vòl nos parlar d'un chin qu'a conegut ? » o « Qu'es çò que remarcatz sus aquesta ? »
+4. Arrestatz-vos après cada imatge e convidatz a un breu comentari : « Qualqu'un vòl nos parlar d'un chin qu'a conegut? » o « Qu'es çò que remarcatz sus aquesta? »
 5. Continuatz d'apelar fins que cada carta siá plena. Tot lo monde acaba.
 
 **Adaptacion :** Utilizatz mens de cases per las personas que trobon una carta plena tròp embrolhada. Un ajudant pòt montrar l'imatge correspondenta a qualqu'un que n'a besonh. Qualques personas preferisson tenir la carta d'imatge del menaire e la mostrar al grop.
@@ -116,7 +116,7 @@ Un grop de remembrança se rassembla al voltant d'un tèma, coma los jorns d'esc
 **Coma lo menar :**
 
 1. Triatz un tèma e menatz quelques objèctes que las personas pòdon tenir : un batedor a man, un gant de baseball, un chapèu, un catalògue de semenças.
-2. Passatz un objècte a la fòi. Demandatz de questions dubèrtas : « Contatz-me aquò », « Qu'es çò que remarcatz ? », « Qual utilizava quicòm parièr ? »
+2. Passatz un objècte a la fòi. Demandatz de questions dubèrtas : « Contatz-me aquò », « Qu'es çò que remarcatz? », « Qual utilizava quicòm parièr? »
 3. Acceptatz cada respònsa. Corregissètz jamai una data o un fach.
 4. Menatz la conversacion cap als sovenirs calds. La practica recomanda que los prestatari de cura orientan la remembrança cap als sovenirs positius mai que cap a aquels que pòdon causar de pena.
 
