@@ -93,6 +93,11 @@
 		<string>gl</string>
 		<string>ga</string>
 		<string>si</string>
+		<string>nn</string>
+		<string>no</string>
+		<string>lb</string>
+		<string>mt</string>
+		<string>gd</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>

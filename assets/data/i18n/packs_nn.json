@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Dyr",
+      "description": "Søte og venlege dyr frå heile verda"
+    },
+    "nature": {
+      "name": "Natur",
+      "description": "Vakre landskap og naturscener"
+    },
+    "food": {
+      "name": "Mat",
+      "description": "Gode måltid og godsaker"
+    },
+    "vintage": {
+      "name": "Bilar",
+      "description": "Bilar og lastebilar å sjå på og snakke om"
+    },
+    "flowers": {
+      "name": "Blomar",
+      "description": "Vakre blomar og hagescener"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Dyr på garden",
+      "description": "Venlege husdyr, som på eit besøk på bygda.",
+      "theme": "Livet på garden",
+      "images": {
+        "cow_1": "Venleg ku",
+        "pig_1": "Nøgd gris",
+        "chicken_1": "Hane",
+        "buffalo_1": "Vassbøffel",
+        "horse_1": "Vakker hest",
+        "duck_1": "Andefamilie",
+        "goat_1": "Nysgjerrig geit",
+        "rabbit_1": "Søt kanin"
+      }
+    },
+    "nature_mountains": {
+      "title": "Utsikt over fjell",
+      "description": "Praktfulle fjellandskap og vakker utsikt",
+      "theme": "Skjønnheita i naturen",
+      "images": {
+        "mountain_1": "Snødekte toppar",
+        "mountain_2": "Fujisan",
+        "mountain_3": "Alpedal",
+        "mountain_4": "Bratt fjelltopp",
+        "mountain_5": "Skogkledde åsar",
+        "mountain_6": "Fjell i tåke"
+      }
+    },
+    "vintage_cars": {
+      "title": "Bilar og lastebilar",
+      "description": "Blanke bilar og lastebilar å sjå på og snakke om",
+      "theme": "På vegen",
+      "images": {
+        "vintage_car_1": "Oransje Audi i solnedgangen",
+        "vintage_car_2": "Blå sportsbil i ørkenen",
+        "vintage_car_3": "Sølvgrå Bugatti",
+        "vintage_car_4": "Svart Porsche på vegen",
+        "vintage_car_5": "Oransje BMW på ein gate med palmar",
+        "vintage_car_6": "Blå kupé ved eit garasjeanlegg",
+        "vintage_car_7": "Grøn pickup",
+        "vintage_car_8": "Kvit SUV mellom raude berg",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blå bil med kvite striper"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaridyr",
+      "description": "Staselege dyr frå safari i Afrika",
+      "theme": "Ville dyr",
+      "images": {
+        "lion_1": "Staseleg løve",
+        "elephant_2": "Afrikansk elefant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Stripete sebra",
+        "rhino_5": "Sterk neshorn",
+        "cheetah_6": "Rask gepard",
+        "fox_7": "Brun rev",
+        "bear_8": "Isbjørn",
+        "turtle_9": "Brun skjelpadde",
+        "squirrel_10": "Brun ekorn",
+        "macaw_11": "Gul og blå ara",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Vaskebjørn",
+        "wolf_14": "Grå ulv",
+        "crocodile_15": "Krokodille",
+        "peacock_16": "Vakker påfugl"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Gode desserter",
+      "description": "Nokre gode desserter til måltida dine.",
+      "theme": "Søte desserter",
+      "images": {
+        "pastries_1": "Fire bakverk",
+        "oreo_cookie_sandwiches_2": "Oreo-kjeksar",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pannekake",
+        "macarons_5": "Makronar",
+        "caramel_cake_6": "Karamellkake"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropiske blomar",
+      "description": "Opplev den sterke skjønnheita i tropane med denne pakken av eksotiske blomar.",
+      "theme": "Tropiske blomar",
+      "images": {
+        "hibiscus_1": "Raud hibiskus",
+        "frangipani_2": "Raud og kvit frangipani",
+        "sunflower_3": "Soleikje",
+        "hydrangea_4": "Kvit hortensia",
+        "rose_5": "Rose",
+        "chrysanthemum_6": "Krysantemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Ridderspore"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Gatemat frå heile verda",
+      "description": "Utforsk den fargerike verda av gatemat med denne pakken av gode snacks frå heile verda.",
+      "theme": "Gatemat",
+      "images": {
+        "taco_1": "Meksikansk taco",
+        "ramen_2": "Japansk ramen",
+        "dumplings_3": "Kinesiske dumplings",
+        "samosa_4": "Indisk samosa",
+        "pizza_5": "Italiensk pizzastykke",
+        "crepe_6": "Fransk crêpe",
+        "satay_7": "Thailandske satayspyd",
+        "burger_8": "Amerikansk hamburgar",
+        "bao_9": "Dampa baobolle",
+        "takoyaki_10": "Japansk takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naturlandskap",
+      "description": "Rolege, vakre naturscener å sjå sakte på og snakke om saman.",
+      "theme": "Naturlandskap",
+      "images": {
+        "mountain_1": "Fjellkjede",
+        "forest_2": "Skog i tåke",
+        "lake_3": "Fjellvatn",
+        "desert_4": "Sanddyner i ørkenen",
+        "waterfall_5": "Foss",
+        "beach_6": "Sandstrand",
+        "river_7": "Elv i rørsle",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Solnedgang på himmelen",
+        "snow_mountain_10": "Snøfjell",
+        "flowers_11": "Viltveksande blomar",
+        "rainforest_12": "Regnskog",
+        "iceberg_13": "Isfjell",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Havklippe",
+        "aurora_16": "Nordlys",
+        "savannah_17": "Savanne",
+        "coral_reef_18": "Korallrev"
+      }
+    }
+  }
+}

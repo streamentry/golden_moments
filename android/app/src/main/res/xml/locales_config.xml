@@ -87,4 +87,9 @@
     <locale android:name="gl" />
     <locale android:name="ga" />
     <locale android:name="si" />
+    <locale android:name="nn" />
+    <locale android:name="no" />
+    <locale android:name="lb" />
+    <locale android:name="mt" />
+    <locale android:name="gd" />
 </locale-config>

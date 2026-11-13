@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Déieren",
+      "description": "Léif a frëndlech Déieren aus der ganzer Welt"
+    },
+    "nature": {
+      "name": "Natur",
+      "description": "Schéi Landschaften an Naturszenen"
+    },
+    "food": {
+      "name": "Iessen",
+      "description": "Gutt Molzechten a séiss Liewensmëttel"
+    },
+    "vintage": {
+      "name": "Autoen",
+      "description": "Autoen a Camionetten zum Kucken a Schwätzen"
+    },
+    "flowers": {
+      "name": "Blummen",
+      "description": "Schéi Blummen a Gaardeszenen"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Béischten um Bauerenhaff",
+      "description": "Frëndlech Béischten um Bauerenhaff, wéi bei engem Besuch um Land.",
+      "theme": "Liewen um Bauerenhaff",
+      "images": {
+        "cow_1": "Frëndlech Kou",
+        "pig_1": "Zefriddene Schwäin",
+        "chicken_1": "Hunn",
+        "buffalo_1": "Waasserbüffel",
+        "horse_1": "Schéint Päerd",
+        "duck_1": "Entefamill",
+        "goat_1": "Neigéiereg Geess",
+        "rabbit_1": "Léiwt Kanéngchen"
+      }
+    },
+    "nature_mountains": {
+      "title": "Biergbléck",
+      "description": "Beandrockend Berglandschaften a schéin Aussiichten",
+      "theme": "Natierlech Schéinheet",
+      "images": {
+        "mountain_1": "Bierger mat Schnéi um Gipfel",
+        "mountain_2": "De Fuji",
+        "mountain_3": "Alpentaal",
+        "mountain_4": "Fielsegen Gipfel",
+        "mountain_5": "Bewaldte Hiwwelen",
+        "mountain_6": "Bierger am Niwwel"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autoen a Camionetten",
+      "description": "Blénkeg Autoen a Camionetten zum Kucken a Schwätzen",
+      "theme": "Ënnerwee",
+      "images": {
+        "vintage_car_1": "Orange Audi am Sonnenënnergang",
+        "vintage_car_2": "Blo Sportsauto an der Wüst",
+        "vintage_car_3": "Sëlwere Bugatti",
+        "vintage_car_4": "Schwaarze Porsche op der Strooss",
+        "vintage_car_5": "Orange BMW op enger Strooss mat Palmen",
+        "vintage_car_6": "Blot Coupé bei enger Garage",
+        "vintage_car_7": "Gréngen Pick-up",
+        "vintage_car_8": "Wäisse SUV tëscht roude Fielsen",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blot Auto mat wäisse Sträifen"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari-Déieren",
+      "description": "Majestéitesch Déieren aus afrikanesche Safaris",
+      "theme": "Wëll Déieren",
+      "images": {
+        "lion_1": "Majestéitesche Léiw",
+        "elephant_2": "Afrikanesche Elefant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Gesträifte Zebra",
+        "rhino_5": "Staarke Rhinoceros",
+        "cheetah_6": "Séieren Gepard",
+        "fox_7": "Bronge Fuuss",
+        "bear_8": "Äisbier",
+        "turtle_9": "Brong Schildkröt",
+        "squirrel_10": "Brongt Eechhäerchen",
+        "macaw_11": "Giel a blo Ara",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Wäschbier",
+        "wolf_14": "Gro Wollef",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Schéine Pau"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Gutt Desserten",
+      "description": "E puer gutt Desserten fir Är Molzechten.",
+      "theme": "Séiss Desserten",
+      "images": {
+        "pastries_1": "Véier Stécker Gebäck",
+        "oreo_cookie_sandwiches_2": "Oreo-Plätzercher",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pannekuch",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Karamellkuch"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropesch Blummen",
+      "description": "Entdeckt déi liewendeg Schéinheet vun den Tropen mat dësem Pak exotesche Blummen.",
+      "theme": "Tropesch Blummen",
+      "images": {
+        "hibiscus_1": "Roude Hibiskus",
+        "frangipani_2": "Rout-wäisse Frangipani",
+        "sunflower_3": "Sonnenblum",
+        "hydrangea_4": "Wäisshortensie",
+        "rose_5": "Ros",
+        "chrysanthemum_6": "Chrysantheem",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Stroossiesse-Fest",
+      "description": "Entdeckt déi bunt Welt vum Stroossiesse mat dësem Pak gudde Snacks aus der ganzer Welt.",
+      "theme": "Stroossiesse",
+      "images": {
+        "taco_1": "Mexikanesche Taco",
+        "ramen_2": "Japanesch Ramen",
+        "dumplings_3": "Chinesesch Dumplings",
+        "samosa_4": "Indesche Samosa",
+        "pizza_5": "Italienescht Stéck Pizza",
+        "crepe_6": "Franséisch Crêpe",
+        "satay_7": "Thailänneschen Satay-Spéiss",
+        "burger_8": "Amerikanesche Burger",
+        "bao_9": "Gedämpfte Bao-Brout",
+        "takoyaki_10": "Japanesch Takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naturlandschaft",
+      "description": "Roueg, schéi Naturszenen, fir se lues unzekucken an zesumme doriwwer ze schwätzen.",
+      "theme": "Naturlandschaften",
+      "images": {
+        "mountain_1": "Bierggebitt",
+        "forest_2": "Niwwelege Bësch",
+        "lake_3": "Bierg-Séi",
+        "desert_4": "Wüstendünen",
+        "waterfall_5": "Waasserfall",
+        "beach_6": "Sandstrand",
+        "river_7": "Fléissende Floss",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Himmel beim Sonnenënnergang",
+        "snow_mountain_10": "Verschneite Bierg",
+        "flowers_11": "Wëllblummen",
+        "rainforest_12": "Reebësch",
+        "iceberg_13": "Äisbierg",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Fielsen um Mier",
+        "aurora_16": "Nordliicht",
+        "savannah_17": "Savann",
+        "coral_reef_18": "Korallerif"
+      }
+    }
+  }
+}

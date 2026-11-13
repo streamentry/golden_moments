@@ -75,6 +75,11 @@ const _appLocales = {
   'gl',
   'ga',
   'si',
+  'nn',
+  'no',
+  'lb',
+  'mt',
+  'gd',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

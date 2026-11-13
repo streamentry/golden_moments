@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Beathaichean",
+      "description": "Beathaichean snog càirdeil o air feadh an t-saoghail"
+    },
+    "nature": {
+      "name": "Nàdar",
+      "description": "Tìrean brèagha agus seallaidhean nàdarra"
+    },
+    "food": {
+      "name": "Biadh",
+      "description": "Biadh blasta agus milsean"
+    },
+    "vintage": {
+      "name": "Càraichean",
+      "description": "Càraichean agus làraidhean airson coimhead orra agus bruidhinn mun deidhinn"
+    },
+    "flowers": {
+      "name": "Flùraichean",
+      "description": "Blàthan brèagha agus seallaidhean gàrraidh"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Beathaichean tuathanais",
+      "description": "Beathaichean tuathanais càirdeil, mar air tadhal air an dùthaich.",
+      "theme": "Beatha an tuathanais",
+      "images": {
+        "cow_1": "Bò chàirdeil",
+        "pig_1": "Muc thoilichte",
+        "chicken_1": "Coileach",
+        "buffalo_1": "Damh-uisge",
+        "horse_1": "Each brèagha",
+        "duck_1": "Teaghlach lachan",
+        "goat_1": "Gobhar fiosrach",
+        "rabbit_1": "Coineanach beag"
+      }
+    },
+    "nature_mountains": {
+      "title": "Seallaidhean beinne",
+      "description": "Tìrean-beinne iongantach agus seallaidhean brèagha",
+      "theme": "Bòidhchead nàdair",
+      "images": {
+        "mountain_1": "Stucan còmhdaichte le sneachda",
+        "mountain_2": "Beinn Fuji",
+        "mountain_3": "Gleann nan Alps",
+        "mountain_4": "Mullach creagach",
+        "mountain_5": "Cnuic le coille",
+        "mountain_6": "Beanntan ceòthach"
+      }
+    },
+    "vintage_cars": {
+      "title": "Càraichean agus làraidhean",
+      "description": "Càraichean is làraidhean lìomharra airson coimhead orra agus bruidhinn mun deidhinn",
+      "theme": "Air an rathad",
+      "images": {
+        "vintage_car_1": "Audi orains aig dol fodha na grèine",
+        "vintage_car_2": "Càr spòrs gorm san fhàsach",
+        "vintage_car_3": "Bugatti airgid",
+        "vintage_car_4": "Porsche dubh air an rathad",
+        "vintage_car_5": "BMW orains air sràid le craobhan-pàirme",
+        "vintage_car_6": "Càr coupé gorm ri taobh garaids",
+        "vintage_car_7": "Làraidh-bheag uaine",
+        "vintage_car_8": "SUV geal am measg chreagan dearga",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Càr gorm le strìopan geala"
+      }
+    },
+    "animals_safari": {
+      "title": "Beathaichean safari",
+      "description": "Beathaichean mòrdha bho safaris Afraganach",
+      "theme": "Beatha fhiadhaich",
+      "images": {
+        "lion_1": "Leòmhann mòrdha",
+        "elephant_2": "Ailbhean Afraganach",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Sebra stiallach",
+        "rhino_5": "Srònbheannach làidir",
+        "cheetah_6": "Cìtah luath",
+        "fox_7": "Sionnach donn",
+        "bear_8": "Bèar bàn",
+        "turtle_9": "Turtar donn",
+        "squirrel_10": "Feòrag dhonn",
+        "macaw_11": "Macaw buidhe is gorm",
+        "tiger_12": "Tìgear",
+        "raccoon_13": "Racùn",
+        "wolf_14": "Madadh-allaidh glas",
+        "crocodile_15": "Crogall",
+        "peacock_16": "Peucag bhrèagha"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Milseanan blasta",
+      "description": "Beagan mhilseanan blasta airson na biadh agad.",
+      "theme": "Milseanan",
+      "images": {
+        "pastries_1": "Ceithir pastraidhean",
+        "oreo_cookie_sandwiches_2": "Briosgaidean ceapaire Oreo",
+        "crepe_3": "Crèap",
+        "pancake_4": "Foileag",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Cèic charamail"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flùraichean tropaigeach",
+      "description": "Faic bòidhchead bheothail nan tropaigean leis a’ phasgan seo de dh’fhlùraichean annasach.",
+      "theme": "Flùraichean tropaigeach",
+      "images": {
+        "hibiscus_1": "Hibiscus dearg",
+        "frangipani_2": "Frangipani dearg is geal",
+        "sunflower_3": "Neòinean-grèine",
+        "hydrangea_4": "Hydrangea geal",
+        "rose_5": "Ròs",
+        "chrysanthemum_6": "Crysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Biadh sràide",
+      "description": "Rannsaich saoghal dathte a’ bhidhe sràide leis a’ phasgan seo de shnaiceichean blasta o air feadh an t-saoghail.",
+      "theme": "Biadh sràide",
+      "images": {
+        "taco_1": "Taco Mheagsagach",
+        "ramen_2": "Ramen Seapanach",
+        "dumplings_3": "Dumplings Sìneach",
+        "samosa_4": "Samosa Innseanach",
+        "pizza_5": "Sliseag piotsa Eadailteach",
+        "crepe_6": "Crèap Frangach",
+        "satay_7": "Slatan satay Tàidheach",
+        "burger_8": "Burgair Ameireaganach",
+        "bao_9": "Bao bruich le smùid",
+        "takoyaki_10": "Takoyaki Seapanach"
+      }
+    },
+    "nature_landscape": {
+      "title": "Tìrean nàdarra",
+      "description": "Seallaidhean nàdarra socair is brèagha airson coimhead orra gu slaodach agus bruidhinn mun deidhinn còmhla.",
+      "theme": "Tìrean nàdarra",
+      "images": {
+        "mountain_1": "Sreath bheanntan",
+        "forest_2": "Coille cheòthach",
+        "lake_3": "Loch beinne",
+        "desert_4": "Dùintean-gainmhich san fhàsach",
+        "waterfall_5": "Eas",
+        "beach_6": "Tràigh ghainmhich",
+        "river_7": "Abhainn a’ sruthadh",
+        "canyon_8": "An Canyon Mòr",
+        "sunset_9": "Adhar dol fodha na grèine",
+        "snow_mountain_10": "Beinn shneachdach",
+        "flowers_11": "Flùraichean fiadhaich",
+        "rainforest_12": "Coille-uisge",
+        "iceberg_13": "Beinn-deighe",
+        "volcano_14": "Beinn-theine",
+        "cliff_15": "Aill mhara",
+        "aurora_16": "Na Fir-chlis",
+        "savannah_17": "Savannah",
+        "coral_reef_18": "Sgeir chorail"
+      }
+    }
+  }
+}

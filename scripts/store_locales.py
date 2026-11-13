@@ -110,6 +110,11 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'gl': ((), ('gl-ES',)),
     'ga': ((), ()),
     'si': ((), ('si-LK',)),
+    'nn': ((), ()),
+    'no': ((), ('no-NO',)),
+    'lb': ((), ()),
+    'mt': ((), ('mt',)),
+    'gd': ((), ()),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

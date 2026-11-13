@@ -19,6 +19,7 @@ const LOW_CONFIDENCE_LOCALES = new Set([
   'af', 'bg', 'et', 'lt', 'lv', 'be', 'bs', 'cy', 'eo', 'eu',
   'hy', 'is', 'ka', 'kk', 'mk',
   'sq', 'sr', 'gl', 'ga', 'si',
+  'nn', 'no', 'lb', 'mt', 'gd',
 ]);
 
 const quoteDart = (value: string) => `'${value.replaceAll('\\', '\\\\').replaceAll("'", "\\'").replaceAll('$', '\\$')}'`;
