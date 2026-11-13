@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Фаъолиятҳо барои деменсияи марҳилаи миёна"
+seoTitle: "Фаъолиятҳо барои деменсияи марҳилаи миёна: ғояҳои содда"
+description: "Фаъолиятҳои содда барои деменсияи марҳилаи миёна: корҳои судманд, мусиқӣ, аксҳо ва бозиҳои осон бо роҳҳои ором кардани беқароронӣ."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Дар деменсияи марҳилаи миёна беҳтарин фаъолиятҳо кӯтоҳ, ошно ва ба қадамҳои ягона тақсимшуда ҳастанд: тох кардани ҷома, ҷудо кардани ҷуробҳо, шустани зарфҳо, суруд хондан, роҳ рафтани роҳнамоӣ, албомҳои аксӣ ва бозиҳои содаи тасвирӣ. Ҳама чизро танзим кунед, қадами аввалро нишон диҳед, қисмҳои душворро худатон гиред ва фаъолиятро мақсад диҳед. Вақте хуш нест, қатъ кунед.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Корҳои ошнаи хонагӣ аксар вақт беҳтарин кор мекунанд, зеро судманд ва калонсолона ба назар мерасанд."
+  - "Нишон диҳед, на шарҳ; як қадам дар як вақт пешниҳод кунед ва ба ҷои саволҳои кушод ду интихоби содда диҳед."
+  - "Қисми душвортаринро гиред, то шахс қисми қаноатбахшро иҷро кунад."
+  - "Рафтори бекарор аксар вақт маънои онро дорад, ки шахс ба коре ниёз дорад. Ба ҷои «не» фаъолияти мувофиқ пешниҳод кунед."
+  - "Тамошо кардан, каме кумак кардан ё пеш аз вақт қатъ кардан ҳама хуб аст."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Барои деменсияи марҳилаи миёна кадом фаъолиятҳо хуб аст?"
+    a: "Фаъолиятҳои кӯтоҳ, ошно ва бо дастҳо одатан беҳтар кор мекунанд: тох кардани дастрӯймол, ҷудо кардани ҷуробҳо, шустани зарфҳо, гузоштани дастархон, суруд хондан бо дӯстдоштаҳои кӯҳна, роҳ рафтани роҳнамоӣ, тамошои албомҳои аксӣ ва бозиҳои содаи тасвирӣ. Ҳар фаъолиятро ба қадамҳои ягона тақсим кунед ва якҷоя иҷро кунед."
+  - q: "Чӣ тавр шахси бо деменсияро ба оғози фаъолият водор кунам?"
+    a: "Ҳама чизро пеш аз ҳад омода кунед, сипас худатон фаъолиятро оғоз кунед ва ба кумак даъват кунед: «Метавонед бо ин дастрӯймолҳо ба ман кумак кунед?» Бисёриҳо мехоҳанд иштирок кунанд, аммо оғоз кардан барояшон душвор аст. Нишон додани қадами аввал одатан аз шарҳ додан беҳтар аст."
+  - q: "Агар онҳо чизеро пайваста такрор кунанд, чӣ кор кунам?"
+    a: "Такрор аксар вақт зарар надорад ва шояд нишонаи он бошад, ки шахс мехоҳад худро банд ҳис кунад ё тасаллӣ лозим дорад. Ба ҷои ислоҳ кардан, фаъолиятеро пешниҳод кунед, ки ба ҳамон ҳаракат мувофиқ аст, мисли сабади дастрӯймолҳо барои тох кардан ё суруде барои якҷоя хондан."
+  - q: "Агар онҳо фаъолиятро нодуруст иҷро кунанд, чӣ?"
+    a: "Агар зарар надошта бошад, бигузоред. Дастрӯймолҳое, ки ба тарзи дигар тох шудаанд ё қошуқҳо дар ҷои нодуруст, аҳамият надоранд. Ислоҳ кардан мумкин аст ҳамчун интиқод ҳис шавад, дар ҳоле ки иҷро кардан ба тарзи худашон ба онҳо ҳис медиҳад, ки қобил ва судманданд."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Марҳилаи миёнаи деменсия аксар вақт дарозтарин аст ва вақте фаъолиятҳо ба кумаки воқеӣ ниёз доранд. Калимаҳо осонтар намеоянд, қадамҳо омехта мешаванд ва оғоз кардани чизе душвор ба назар мерасад. Аммо хоҳиши судманд ва иштирок кардан одатан боқӣ мемонад. Бо як танзими кам, шахс дар марҳилаи миёна метавонад миқдори ҳайратовари чизҳоро лаззат барад, хусусан корҳои ошно, мусиқӣ ва аксҳоро, ки бо шумо паҳлӯ ба паҳлӯ иҷро мешаванд.
 
-## What activities work well in middle-stage dementia?
+## Кадом фаъолиятҳо дар деменсияи марҳилаи миёна хуб кор мекунанд?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Фаъолиятҳои кӯтоҳ, ошно ва бо дастҳо, ки ба қадамҳои ягона тақсим шудаанд, беҳтар кор мекунанд. [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) мегӯяд, ки лозим нест чизҳои нав ихтиро кунед: фаъолиятҳо метавонанд қисми зиндагии оддӣ бошанд, мисли тайёр кардани шом якҷоя, боғдорӣ, гӯш кардани мусиқӣ ё рафтан ба гашт.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Бунёди Алсгеймер дар Амрико](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) қайд мекунад, ки одамон дар ин марҳила аксар вақт ниёзи қавӣ доранд, ки худро судманд ҳис кунанд ё чизеро парасторӣ кунанд ва ба кумак барои оғоз ё давом додани фаъолият ниёз доранд. Рӯйхати марҳилаи миёнаи онҳо тох кардани ҷома, шустани зарфҳо, ҷудо кардани ҷуробҳо, машқи осон, рақс ба мусиқии ошно, роҳ рафтани роҳнамоӣ, сурудхонии якҷоя, рассомии содда ва тамошои албомҳои аксиро дар бар мегирад.
 
-## How do you set up an activity so it works?
+## Чӣ гуна фаъолиятро барпо кунем, ки кор кунад?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Аксари фаъолиятҳо дар танзим муваффақ ё ноком мешаванд. Ин одатҳо, аз [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/daily-care/activities) ва [Иттифоқи парасторони оила](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) гирифташуда, бештар фарқ мекунанд:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Фазоро холӣ кунед.** Телевизорро хомӯш кунед, дарро пушед ва танҳо чизеро гузоред, ки фаъолият лозим дорад.
+2. **Худатон оғоз кунед.** Тох кардан ё ҳамзадани хамирро оғоз кунед ва онҳоро даъват кунед: «Метавонед ба ман дар ин кор кумак кунед?»
+3. **Нишон диҳед, сипас интизор шавед.** Як қадамро намоиш диҳед. Бо дастатон ишора кунед ё роҳнамоӣ кунед, масалан нишон диҳед, ки табақ дар куҷо меравад.
+4. **Як қадам дар як вақт пешниҳод кунед.** «Онро ду тоя кунед» осонтар аз «инҳоро тох кунед ва ба ранг ҷойгир кунед» аст.
+5. **Ду интихоб диҳед, на саволҳои кушод.** «Дастрӯймолҳои кабуд ё сафедро?» ба ҷавоб додан осонтар аз «Шумо кадомашро мехоҳед?» аст.
+6. **Қисми душворро худатон гиред.** Шумо андоза мекунед, онҳо ҳаракат медиҳанд. Шумо риштаро мегузаронед, онҳо гулӯларо печонанд.
+7. **Барояш сабаб диҳед.** «Ин дастмолҳо барои зиёфати якшанбе ҳастанд» корро ҳақиқӣ ҳис мекунонад.
+8. **Иҷозат диҳед, ки агар хоҳанд, тамошо кунанд.** [Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) қайд мекунад, ки танҳо тамошо кардан ҳам метавонад лаззатбахш бошад.
 
-## Activity ideas for the middle stage
+## Ғояҳои фаъолият барои марҳилаи миёна
 
-### Useful jobs
+### Корҳои судманд
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Дастрӯймол ва дастмолҳоро тох кунед.** Ашёи хурд ва ҳамвор осонтарин аст. Сабади дастрӯймолҳои гармро тох кардан, ҳамвор кардан ва аз нав тох кардан мумкин аст.
+- **Ҷуробҳоро ҷуфт кунед.** Бо якчанд ҷуфти хеле гуногун оғоз кунед. Танҳо ранг ҷудо кардан ҳам хуб аст.
+- **Зарфҳои шикастанашавандаро шӯед ё хушк кунед.** Оби гарм бо собун ба дастҳо хуш аст. Хушк кардан нишаста барои пойҳо осонтар аст.
+- **Дастархонро гузоред.** Як намуди ашёро дар як вақт диҳед ва як ҷойро ҳамчун намуна худатон гузоред.
+- **Ба тайёр кардани шом кумак кунед.** Шустани картошка, канда кардани баргҳои салат ё ҳаракат додани косаро. Корд ва оташро шумо назорат кунед.
+- **Ҷорӯб кунед, гард ҷудо кунед ё пок кунед.** Дастмол барои миз, ҷорӯби сабук барои айвон.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Барои бисёр бештар нигаред ба [корҳои рӯзғорӣ](/activities/household-tasks/).
 
-### Music and movement
+### Мусиқӣ ва ҳаракат
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Суруди кӯҳнаро хонед.** Худатон сурудхониро оғоз кунед; бисёриҳо дар сурудҳое, ки даҳсолаҳо медонанд, ҳамроҳ мешаванд. Нигаред ба [фаъолиятҳои мусиқӣ](/activities/music/).
+- **Озодона рақсед.** Ҷунбонед, дастпафа занед ё ҳаракат кунед, чунон ки хуш аст. Нишаста низ хуб аст.
+- **Тӯбро партоед.** Он оҳиста ҳаракат мекунад ва аз курсӣ гирифтан осон аст.
+- **Гаштро роҳнамоӣ кунед.** Як ҳалқаи кӯтоҳ ва ошноро якҷоя пиёда равед, агар кӯмак кунад, дасти якдигарро гирифта.
 
-### Pictures and stories
+### Тасвирҳо ва ҳикоя
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Албоми аксро варақ занед.** Ба он чизе, ки мебинед, шарҳ диҳед, на саволҳо: «Он мошинро бинед. Дар бораи он нақл кунед.» Нигаред ба [фаъолиятҳои хотирот](/activities/reminiscence/).
+- **Кортҳои сӯҳбатро истифода баред.** [Кортҳои сӯҳбат](/games/conversation-cards/) тасвирро бо даъвати кушод ва бе саволномаи санҷиш ҷуфт мекунанд.
+- **Филми кӯҳнаро якҷоя тамошо кунед.** Филми ошноро интихоб кунед, наздик нишинед ва барои истироҳат таваққуф кунед.
 
-### Simple, pressure-free games
+### Бозиҳои содда ва бе фишор
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Ҷуфтҳои тасвир бо тасвирҳои намоён.** [Ҷуфтҳои тасвир](/games/picture-pairs/) имкон медиҳад, ки тасвирҳо намоён бимонанд, пас ин дидан аст, на ба ёд овардан.
+- **Ёфтани монанд.** [Ёфтани монанд](/games/find-the-same/) як тасвир ва танҳо ду то чор интихобро нишон медиҳад.
+- **Якҷоя ҷудо кунед.** [Якҷоя ҷудо кардан](/games/sort-together/) мисли ҷудо кардани корҳои шустан дар экран аст: тасвирро пахш кунед, сипас сабади онро.
+- **Бинго бо тасвирҳо.** [Бинго бо тасвирҳо](/games/picture-bingo/) барои маҷлисҳои оилавӣ ва гурӯҳҳо хуб кор мекунад.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Агар бозӣ ба ноумедӣ оварад, қатъ кунед ва коре дигар кунед. Нигаред ба [чӣ гуна якҷоя бозӣ кардан](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Баргардондани беқароронӣ ба фаъолият
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Рафтори бекарор ё такроршаванда аксар вақт сабаб дорад. Иттифоқи парасторони оила нишон медиҳад, ки шахсе, ки доимо ҷевонро холӣ мекунад, шояд ниёз дорад худро банд ва судманд ҳис кунад. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки ин энергияро ба фаъолияти мувофиқ равона кунед, на ки онро қатъ кунед.
 
-| What you see | Something to offer |
+| Чизе, ки мебинед | Чизе, ки пешниҳод кунед |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Молидан ё канда кардани миз | Дастмоли намдор ва дархост барои пок кардани миз |
+| Беқароронии пойҳо ё тақ-тақ задан | Мусиқӣ бо ритми равшан барои задан ё дастпафа |
+| Холӣ кардани кашолаҳо ё ҷевонҳо | Сабад бо либос ё дастрӯймол барои тох ва ҷудо кардан |
+| Бо ҳамон савол боз пурсидан | Тасаллӣ, сипас суруд ё корро барои якҷоя |
+| Қадам задан | Пиёдагардии якҷоя, ё корҳое, ки бурдани чизҳоро дар бар мегиранд |
+| Беқароронии баъди нисфирӯзӣ | Вазифаи ором ва ошно дар рӯшноии хуб; нигаред ба [беқароронии бегоҳӣ](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Кай қатъ ё тағйир додани роҳ
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Қатъ кунед, вақте хастагӣ, ноумедӣ, шармсорӣ ё дилгирӣ мебинед, масалан беқароронӣ, чинбаррӯ, тела додани чизҳо ё гуфтани «наметавонам». Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки дар вақти дигари рӯз кӯшиш кунед ё фаъолиятро содатар кунед. Маҷбур накунед. Рад кардан метавонад аз тарс ё вазифаи душвор бошад; нигаред ба [вақте ки «не» мегӯянд](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Зуд қатъ кардан хуб аст. Ин ҳам хуб аст, ки танҳо бо як пиёла чой нишинед. Вақте қобилиятҳо бештар тағйир меёбанд, ғояҳои [фаъолиятҳои марҳилаи охир](/activities/late-stage/) метавонанд мувофиқтар бошанд ва [101 фаъолият](/activities/ideas/) бисёр бештар дорад.

@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Бозиҳои хотира барои пиронсолони бо деменсия: варианти мулоим, ки санҷиш нест"
+seoTitle: "Беҳтарин бозиҳои хотира барои деменсия, ғояҳои мулоим"
+description: "Бозиҳои мувофиқат, тасвир ва корт барои пиронсолони бо деменсия, бе санҷиш: тасвирҳо рӯ ба боло, сода ва бе холгузорӣ."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Бозиҳои хотира барои пиронсолони бо деменсия беҳтар кор мекунанд, вақте ки ба хотира вобаста набошанд. Бозиҳои мувофиқатро бо тасвирҳои рӯ ба боло, аз чор то шаш тахтача бозед, якҷоя бозед ва холгузориро партоед. Шинохтани тасвир аз ба ёд овардани он осонтар аст, пас бозиеро интихоб кунед, ки ҳама чиз дар назар бошад. Лаззат, на натиҷа, ҳадаф аст.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Бозиҳои классикии хотира кортҳоро пинҳон мекунанд, ки дақиқан он чизеро месанҷанд, ки деменсия душвор мекунад. Ба ҷои он тасвирҳоро рӯ ба боло гузоред."
+  - "Қисмҳои камтар, тасвирҳои калонтар ва як интихоб дар як вақт бозиро хуш нигоҳ медоранд."
+  - "Якҷоя бозед, навбатҳоро кумак кунед ва холро партоед. Касе набояд дар вазъи нороҳат гузошта шавад."
+  - "Ягон бозии хотира исбот нашудааст, ки деменсияро табобат, суст ё қатъ кунад. Барои вақти хуши якҷоя бозед."
+  - "Ҳангоме қатъ кунед, ки ҳанӯз хуш аст. Сӯҳбат дар бораи тасвирҳо натиҷаи хуб аст."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Барои шахси бо деменсия кадом бозии хотира хуб аст?"
+    a: "Бозии мувофиқат бо тасвирҳои калон ва ошно, ки рӯ ба боло монда метавонанд, мисли Ҷуфтҳои тасвир бо чор ё шаш тахтача. Ёфтани ҷуфти тасвире, ки мебинед, қаноатбахш аст ва хотираи кӯтоҳмуддатро намесанҷад. Ёфтани монанд ҳатто содатар аст: як тасвирро аз ду то чор интихоб мувофиқ кунед."
+  - q: "Оё бозиҳои хотира ба деменсия кӯмак мекунанд?"
+    a: "Ягон бозии хотира исбот нашудааст, ки деменсияро табобат, суст ё қатъ кунад; баррасии Кокрейн далелҳоро оид ба машқи компютерии мағз барои пешгирии деменсия кофӣ надонист. Бозиҳо метавонанд ҳамчун роҳи гарм барои гузаронидани вақт якҷоя бошанд. Онҳоро барои лаззат ва ҳамроҳӣ интихоб кунед."
+  - q: "Оё бо шахси деменсия бозии классикии Концентрейшнро бозам?"
+    a: "Дар аввал баъзеҳо ҳанӯз онро дӯст медоранд, хусусан бо шумораи кам корт. Агар ба ёд овардани ҷойи кортҳо ба ноумедӣ сабаб шавад, кортҳоро рӯ ба боло гузоред ва танҳо ҷуфтҳоро якҷоя ёбед. Ин мувофиқатро нигоҳ медорад ва санҷиши хотираро партофта мешавад."
+  - q: "Кадом бозиҳои хотира барои пиронсолон дар гурӯҳ хуб аст?"
+    a: "Бинго бо тасвирҳо бо эълонкунандаи дар экран, пурра кардани зарбулмасалҳои ошно бо овоз ва кортҳои сӯҳбат ҳама барои гурӯҳҳо мувофиқанд. Бозӣ кунед то пур шудани ҳар корт ва аз эълон кардани он, ки ким ҷавоб дод, худдорӣ кунед, то касе ҷудо ҳис накунад."
+  - q: "Оё бозиҳои хотираи ройгон барои пиронсолон онлайн ҳастанд?"
+    a: "Бале. Бозиҳои ин сайт, аз ҷумла Ҷуфтҳои тасвир, Ёфтани монанд, Ҷуфтҳои акс ва Пазли тасвирӣ ройгон ҳастанд, сабти ном лозим нест ва дар телефон, планшет ва компютер кор мекунанд. Ҳеҷ кадом таймер ё холгузорӣ надорад."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Ҷустуҷӯи «бозиҳои хотира барои пиронсолон» кунед ва бештари чизҳоеро мебинед, ки барои шахсоне сохта шудаанд, ки машқи мағзи сар мехоҳанд: кортҳои пинҳон, соатҳои шумор, сатҳҳо ва холҳо. Барои шахси бо деменсия ин хусусиятҳо бозиро ба санҷиши чизе табдил медиҳанд, ки аллакай душвор шудааст. Ҳамон бозиҳоро бо тарзи мулоимтар бозидан мумкин аст. Ин саҳифа нишон медиҳад, ки чӣ гуна ва бозиҳоеро номбар мекунад, ки дар ҳар марҳила хуб кор мекунанд.
 
-## Why do classic memory games frustrate people with dementia?
+## Чаро бозиҳои классикии хотира шахси деменсияро хашмгин мекунанд?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Зеро онҳо ба нигоҳ доштани маълумоти нав вобастаанд, ки аксар вақт аввалин чизест, ки Алсгеймер, маъмултарин сабаби деменсия, таъсир мерасонад. [Ассотсиатсияи Алсгеймер](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) мегӯяд, ки маъмултарин нишонаи аввалини Алсгеймер душворӣ дар ба ёд овардани маълумоти навомӯхта аст. Дар «Концентрейшн»-и классикӣ шумо ду корт мепартоед, ҷойи онҳоро ба ёд меоред ва як дақиқа баъд аз он истифода мебаред. Ин маълумоти нав аст, ки нигоҳ дошта ва ба ёд оварда мешавад.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Агар вақтсанҷ, холгузорӣ ё садои хатогии ҷавоб илова кунед, шахс ба чизҳое, ки наметавонад, дар пеши касе, ки дӯсташ медорад, хотиррасон мешавад. Бисёриҳо оромона бозиро қатъ мекунанд.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Шинохтани чизе, ки мебинед, вазифаи дигар ва одатан осонтар аст. Ишора ба ҷоми дуюм, вақте ки ҳар ду дар назар аст, хуш ба назар мерасад. Аз ин рӯ ҳила ин аст, ки мувофиқатро нигоҳ доред ва санҷиши хотираро партоед.
 
-## How do you make a memory game gentle?
+## Чӣ гуна бозии хотираро мулоим кардан мумкин аст?
 
-These adjustments work for card games, board games and games on a screen.
+Ин танзимҳо барои бозиҳои корт, бозиҳои тахтавӣ ва бозиҳо дар экран кор мекунанд.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Тасвирҳоро рӯ ба боло гузоред.** Мувофиқат кардани тасвирҳое, ки мебинед, ҳанӯз бозии воқеӣ аст ва аксар вақт қаноатбахш.
+2. **Қисмҳои камтар истифода баред.** Бо ду ё се ҷуфт оғоз кунед. Танҳо агар хеле осон ба назар расад ва онҳо бештар хоҳанд, илова кунед.
+3. **Тасвирҳои калон, ошно ва калонсолона интихоб кунед.** Ҷоми чой, офтобпараст, киштии бодбонӣ. На мултфилм ва на саҳнаҳои пурҷӯш.
+4. **Якҷоя бозед.** «Биёед сагҳоро ёбем» ба ҷои «навбати шумо». Навбатҳоро бо ишора ва кумак гиред.
+5. **Холро партоед.** Ҳеҷ кас набояд ғолиб шавад. Агар касе пурсад, гуфтани «мо ин корро кардем» кифоя аст.
+6. **Ҳеҷ гоҳ бо соат мусобиқа накунед.** Таймер набошад ва байни навбатҳо шитоб накунед.
+7. **Дар бораи тасвирҳо сӯҳбат кунед.** «Ба он киштӣ нигоҳ кунед. Оё ҳеҷ гоҳ бодбонӣ кардаед?» Сӯҳбат аксар вақт беҳтарин қисм аст.
+8. **Дар хуб қатъ кунед.** Пас аз мувофиқат, вақте ки ҳанӯз хуш аст, бозиро ба охир расонед.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ҳамон руҳро ҳамчун маслиҳати умумӣ медиҳад: фаъолиятро ба он чизе мувофиқ кунед, ки шахс карда метавонад, ба ноумедӣ нигаред ва боварӣ ҳосил кунед, ки ӯ худро муваффақ ҳис мекунад.
 
-## Gentle memory and matching games to try
+## Бозиҳои мулоими хотира ва мувофиқат барои кӯшиш
 
-### Picture pairs (matching with pictures showing)
+### Ҷуфтҳои тасвир (мувофиқат бо тасвирҳои намоён)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Ҷуфтҳои тасвир](/games/picture-pairs/) бозии мувофиқат бо тасвирҳои калон ва 4 то 12 тахтача аст. Тасвирҳо метавонанд намоён бошанд, пас ин ёфтани дугоникҳост, на ба ёд овардани ҷойашон. Бо чор тахтача оғоз кунед. Барои шахсе, ки дар марҳилаи аввал аст ва як каме душворӣ мехоҳад, метавонед ба **Тасвирҳои пинҳон** гузаред, аммо дар лаҳзае, ки хуш нест, ба нишон додани тасвирҳо баргардед.
 
-### Find the same
+### Ёфтани монанд
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Ёфтани монанд](/games/find-the-same/) як тасвирро дар боло ва ду то чор интихобро дар поён нишон медиҳад. Тасвири мувофиқро ламс кунед. Ин соддатарин бозии мувофиқат дар сайт аст ва ба онҳое мувофиқ аст, ки ҷадвали пурраро барзиёд мешуморанд, аз ҷумла бисёриҳо дар марҳилаҳои охир бо касе дар паҳлӯ.
 
-### Photo pairs (family photo memory game)
+### Ҷуфтҳои акс (бозии мувофиқат бо аксҳои оилавӣ)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Ҷуфтҳои акс](/games/photo-pairs/) аксҳоеро, ки интихоб мекунед, ба бозии мувофиқат табдил медиҳад: саг, боғ, хонаи кӯли тобистонӣ. Чеҳраҳо ва ҷойҳои ошно аксар вақт аз ҳама тасвирҳои стандартӣ сӯҳбатро барангезанд. Аксҳо дар браузери шумо мемонанд ва ҳеҷ гоҳ бор карда намешаванд.
 
-### Sort together
+### Якҷоя ҷудо кардан
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Якҷоя ҷудо кардан](/games/sort-together/) аз шумо мехоҳад, ки ҳар тасвирро ба сабадаш гузоред, масалан ошхона ё боғ. Ҷудокунӣ ба дониши дарозмуддати ҷаҳон такя мекунад, на хотираи кӯтоҳмуддат.
 
-### Picture puzzle
+### Пазли тасвирӣ
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Пазли тасвирӣ](/games/picture-puzzle/) тасвирро ба 4 ё 9 порча мебурад. Ду порчаро пахш кунед, то онҳо иваз шаванд, то тасвир пурра шавад. Тасвири пурра ҳамчун роҳнамо дар экран мемонад.
 
-### Real cards on the table
+### Кортҳои воқеӣ дар миз
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ба экран ниёз нест. Ҷуфтҳои мувофиқро аз ду дастаи кортҳо ё аз маҷмӯаи кортҳои тасвирӣ баред. Онҳоро рӯ ба боло дар ду қатор гузоред ва ҷуфтҳоро якҷоя ёбед. Баъдтар бо ранг ё масть ҷудо кунед. [Бунёди Алсгеймер дар Амрико](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) бозиҳои корт ва бозиҳои тахтавиро дар байни фаъолиятҳои марҳилаи аввал номбар мекунад.
 
-## Which memory games suit each stage?
+## Кадом бозиҳои хотира барои кадом марҳила мувофиқанд?
 
-Stages are loose labels. Go by what the person enjoys today.
+Марҳилаҳо тахминӣ ҳастанд. Аз рӯи он чизе, ки шахс имрӯз мепазирад, равед.
 
-| Stage | Games that often fit | How to set them up |
+| Марҳила | Бозиҳое, ки аксар мувофиқанд | Чӣ гуна танзим кардан |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Аввал | Ҷуфтҳои тасвир, Ҷуфтҳои акс, Пазли тасвирӣ бо 9 порча, бозиҳои маъмули корт | Бигзоред онҳо интихоб кунанд. Тахтачаҳо метавонанд гардонда шаванд, агар онҳо дӯст доранд; холро партоед, агар ноором кунад |
+| Миёна | Ҷуфтҳои тасвир бо 4 то 6 тахтача рӯ ба боло, Ёфтани монанд, Якҷоя ҷудо кардан | Тасвирҳо ҳамеша намоён. Дар паҳлӯяшон нишинед ва навбатҳоро кумак кунед |
+| Охир | Ёфтани монанд бо 2 интихоб, дидани як тасвири калон якҷоя | Хеле кӯтоҳ. Шумо планшетро нигоҳ доред; онҳо ишора мекунанд ё танҳо тамошо ва гӯш мекунанд |
 
-## Do memory games help with dementia?
+## Оё бозиҳои хотира ба деменсия кӯмак мекунанд?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ягон бозии хотира исбот нашудааст, ки деменсияро табобат, суст ё қатъ кунад. [Баррасии Кокрейн](https://pubmed.ncbi.nlm.nih.gov/30864747/) дар бораи машқи маърифатии компютерӣ барои шахсон бо нуқсони маърифатии ҳафиф нишон дод, ки далелҳо барои гуфтани он ки оё деменсияро пешгирӣ мекунад, кофӣ нестанд. Роҳнамои мо дар бораи [бозиҳои мағзи сар ва деменсия](/brain-health/brain-games/) нишон медиҳад, ки тадқиқот чиро нишон медиҳад ва чиро не.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ин сабаби рад кардани бозиҳо нест. [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/daily-care/activities) маслиҳат медиҳад, ки ба лаззат диққат диҳед, на ба дастовард. Даҳ дақиқа мувофиқ кардани тасвирҳо ва сӯҳбат дар бораи онҳо метавонад қисми воқеан хуби рӯз бошад.
 
-## What about memory games for seniors without dementia?
+## Бозиҳои хотира барои пиронсолон бе деменсия?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Агар калонсоле бе мушкилоти хотира бозиҳои вақтдорро, холҳоро ва сатҳҳои душворро дӯст дорад, дар ин ҷо ҳеҷ чиз нодуруст нест. Танҳо ба он такя накунед, ки аз деменсия муҳофизат мекунад; ягон бозӣ ин тавр исбот нашудааст. Варианти мулоими дар боло тавсифшуда низ дар вақти якҷоя бозидани наслҳо хуб кор мекунад: бобо ё бибӣ бо деменсия ва набераи хурдсол метавонанд ҳамчун гурӯҳ тасвирҳоро мувофиқ кунанд ва ҳеҷ кадом санҷида намешаванд.
 
-## When should you stop or change the game?
+## Кай бозиро қатъ кардан ё иваз кардан лозим аст?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Нафас кашидан, дур тела додани планшет, гуфтани «наметавонам ин корро кунам» ё ба нигаронӣ монанд шудан нишонаҳо ҳастанд, ки онро осонтар кунед ё қатъ кунед. Тахтачаҳои камтар кӯшиш кунед, тасвирҳоро рӯ ба боло гузоред, ба [Ёфтани монанд](/games/find-the-same/) гузаред ё танҳо тасвирҳоро тамошо карда, сӯҳбат кунед. Агар онҳо умуман бозӣ кардан намехоҳанд, ин ҳам хуб аст. Роҳнамои мо дар бораи [чӣ гуна якҷоя бозӣ кардан](/caregiving/how-to-play-together/) бештар дар бораи суръат ва кумак дорад.

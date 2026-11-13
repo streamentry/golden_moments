@@ -1,32 +1,28 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Фаъолиятҳо барои деменсияи марҳилаи охир, аз ҷумла дар бистар ё кресло"
+seoTitle: "Фаъолиятҳо барои деменсияи марҳилаи охир: ғояҳо барои бистар ва кресло"
+description: "Фаъолиятҳои мулоим барои деменсияи марҳилаи охир, ҳатто барои шахс дар бистар ё кресло: мусиқӣ, ламс, хондан, садоҳо ва ҳамроҳӣ."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Дар марҳилаи охири деменсия фаъолиятҳо ба ҳисс ва ҳамроҳии шумо тамаркуз мекунанд: мусиқии дӯстдошта, дастгирии дастҳо, массажи оҳистаи дастҳо бо равған, хондани баланд, тамошои аксҳо, садоҳои табиат ва нишастан дар назди тиреза ё берун. Инҳо дар бистар ё кресло кор мекунанд. Сессияҳоро кӯтоҳ нигоҳ доред, рӯй ва дастҳоро барои осоиш тамошо кунед ва ба ёд доред, ки ҳузур худ фаъолият аст.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ҳамроҳӣ ҳанӯз имкон дорад. Дар марҳилаи охир ҷаҳонро асосан тавассути ҳисҳо эҳсос мекунанд."
+  - "Мусиқӣ, ламси мулоим, овозҳои ошно ва чизҳои нарм аксар вақт вақте калимаҳо дигар намерасанд, ба одамон мерасанд."
+  - "Қариб ҳамаи ғояҳои ин ҷо барои шахс дар бистар ё кресло кор мекунанд."
+  - "Аломатҳои бароҳатӣ ва ноароматро дар чеҳра, дастҳо ва нафас назорат кунед ва ба ҳар нишонаи озор қатъ кунед."
+  - "Ашёи хурдро дур нигоҳ доред ва хӯрок ё нӯшокиро танҳо тавре пешниҳод кунед, ки гурӯҳи нигоҳубин маслиҳат медиҳад, зеро фурӯ бурдан метавонад бехатар набошад."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Бо шахсе, ки деменсияи марҳилаи охир дорад ва дар бистар аст, кадом фаъолиятҳо кардан мумкин аст?"
+    a: "Мусиқии дӯстдоштаашонро бозед, дасташонро гиред, массажи оҳистаи дастро бо равған кунед, аз китоб ё дуое, ки дӯст медоранд, баланд хонед, аксҳо нишон диҳед ё садоҳои мулоими табиатро пахш кунед. Пардаҳоро кушоед, то онҳо берунро бубинанд. Сессияҳои кӯтоҳ ва ором, ки як чиз дар як вақт доранд, одатан беҳтар кор мекунанд."
+  - q: "Оё шахсони деменсияи марҳилаи охир ҳанӯз аз мусиқӣ лаззат мебаранд?"
+    a: "Бисёриҳо бале. Ассотсиатсияи Алсгеймер қайд мекунад, ки ҳатто дар марҳилаи охир шахс метавонад ба ритм бо ангушт занад ё суруди кӯдакиро хонад. Мусиқиро интихоб кунед, ки онро дар ҷавонӣ дӯст медоштанд ва овозро мулоим нигоҳ доред."
+  - q: "Чӣ тавр бидонам, ки онҳо аз фаъолият лаззат мебаранд?"
+    a: "Нишонаҳои хурдро тамошо кунед: китфҳои ором, чеҳраи нарм, тамос бо чашм, хиргӣ, фишор додани дасти шумо ё нафаси оҳистатар. Чеҳраи дарднок, рӯгардонӣ, беқароронӣ ё нола метавонад маънои ноороми ё дардро дошта бошад. Агар инҳоро мебинед, қатъ кунед ва агар идома ёбанд, ба гурӯҳи нигоҳубин хабар диҳед."
+  - q: "Оё арзиш дорад, ки ба диданашон равам, агар дигар маро нашиносанд?"
+    a: "Бале. Институти миллии пиршавӣ қайд мекунад, ки танҳо ҳузур доштан метавонад ором кунад ва ламс, мусиқӣ ва ҳикояҳо метавонанд дар деменсияи пешрафта тасалло диҳанд. Овоз ва ламси шумо шояд ошно бошанд, ҳатто вақте ки ном не."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +44,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Дар марҳилаи охири деменсия шахс шояд каме гап занад, дар тамоми нигоҳдории ҳаррӯза кумак лозим дошта бошад ва бештари рӯз дар бистар ё кресло гузаронад. Ба назар метавонад, ки ҳеҷ чиз барои якҷоя кардан намондааст. Ҳаст. [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) қайд мекунад, ки баъзе асоси шахсияти ӯ метавонад боқӣ бимонад ва дар ин марҳила ҷаҳон асосан тавассути ҳисҳо эҳсос мешавад. Мусиқӣ, ламс, овози ошно ва ҳамроҳии ороми шумо метавонанд ҳанӯз тасалло ва лаҳзаҳои пайвастшавӣ диҳанд.
 
-## What activities help in late-stage dementia?
+## Кадом фаъолиятҳо дар деменсияи марҳилаи охир кӯмак мекунанд?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Фаъолиятҳои содаи ҳиссӣ ва ҳамроҳии ором дар марҳилаи охир беш аз ҳама кумак мекунанд. Ассотсиатсияи Алсгеймер мусиқии дӯстдошта, хондани қисмҳои китобҳои маънодор, молидани равғани бӯйи дӯстдошта ба пӯст ва нишастан берун дар рӯзи хуб пешниҳод мекунад. [Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ҳикоя нақл кардан, нишон додани аксҳо, ламси мулоим ё массаж ва мусиқӣ, садои сафед ё садоҳои табиатро илова мекунад ва мегӯяд, ки ҳузури шумо танҳо метавонад ороманд бошад.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Бунёди Алсгеймер дар Амрико](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) қайд мекунад, ки одамон дар марҳилаи охир аксар вақт ниёзи қавӣ доранд, ки чизеро барои тасалло наздик нигоҳ доранд, ва пешниҳод мекунад: фаъолиятҳои содаи ҳиссӣ, кашишҳои мулоим, ҳаракати шарф, мусиқӣ, боздиди ҳайвонот, ламси инсонӣ ва санъати озод.
 
-## Activities for someone in bed or a chair
+## Фаъолиятҳо барои шахсе, ки дар бистар ё кресло аст
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Мусиқии онҳоро бозед.** Суруд аз солҳои ҷавонии онҳо, эътиқод ё оилаашон интихоб кунед. Овозро паст нигоҳ доред ва наздик нишинед. Ҳатто ҳоло, баъзеҳо ангуштро ба ритм мезананд ё хиргӣ мекунанд. Нигаред ба [фаъолиятҳои мусиқӣ](/activities/music/).
+2. **Дастҳоро гиред.** Танҳо гирифтани даст, бо ҳаракати мулоими нӯги ангушт, фаъолият аст. Аввал гӯед, ки чӣ кор мекунед.
+3. **Массажи оҳистаи дастро анҷом диҳед.** Каме равғанро дар кафи дастатон гарм кунед ва аз банди даст то нӯги ангуштон молед. Равғани бебӯй интихоб кунед ё бӯйе, ки онҳо ҳамеша дӯст медоштанд, агар пӯсташон қабул кунад.
+4. **Баланд хонед.** Шеъри дӯстдошта, порчае аз китоби маъруф, оят аз китоби муқаддас ё саҳифаи варзиш. Оҳанги овози шумо аз калимаҳо муҳимтар аст.
+5. **Ҳикоя нақл кунед.** Дар бораи сафари оилавӣ ё рӯзе, ки издивоҷ карданд, гап занед. Ҷавоб лозим нест.
+6. **Аксҳоро нишон диҳед.** Як аксро дар як вақт дар сатҳи чашм нигоҳ доред ва бо меҳрубонӣ тавсиф кунед. Аз пурсидан дар бораи он ки дар акс кист, худдорӣ кунед.
+7. **Чизи нармро пешниҳод кунед.** Дастрӯймоли тох шуда, мураббаъи пашмин ё ҳайвони нарм. Институти миллии пиршавӣ пешниҳод мекунад, ки ҳангоми ҷойивазкунӣ ба шахс дастрӯймол диҳед, то ки камтар ба шумо ё мебел чанг занад.
+8. **Садоҳои табиатро пахш кунед.** Борон, мавҷ ё навои паррандагон бо овози паст метавонад ҳуҷраи шӯрро мулоим кунад.
+9. **Табиатро ба дарун оред.** Пардаҳоро кушоед, хӯрокдони паррандагонро назди тиреза гузоред ё якчанд гули тоза ё барг барои дидан ва ламс оред.
+10. **Берун баред.** Агар шахс бо аробачаи маъюбӣ нишаста тавонад, якчанд дақиқа дар соя дар рӯзи мулоим метавонад зебо бошад.
+11. **Мӯйи онҳоро шона кунед ё дастмоли гарм пешниҳод кунед.** Ороишаи оҳиста ва мулоим ва дастмоли гарм барои дастҳо ва рӯй метавонад ғамхорӣ ҳис кунонад.
+12. **Бо мусиқӣ мулоим ҳаракат кунед.** Шарфи сабукро якҷоя ҷунбонед ё дастҳоро мувофиқи суруд ҷунбонед. Барои кашишҳо ва ҳаракати буғумҳо, аввал аз физиотерапевт ё ҳамшира хоҳиш кунед, ки роҳҳои бехатарро нишон диҳанд.
+13. **Санъати озод эҷод кунед.** Рангҳои ғайритоксикӣ дар коғази калон бо исфанҷ ё дасти худ, таҳти роҳнамоии шумо. Натиҷаи дуруст вуҷуд надорад.
+14. **Ба ҳайвонҳои меҳмон хуш омад гӯед.** Ҳайвони ором дар бистар ё зону, агар шахс ҳайвонҳоро дӯст медошт ва ҷой имкон медиҳад.
+15. **Якҷоя оҳиста нафас гиред.** Наздик нишинед ва оҳиста ва шунаво нафас кашед. [Нафаскашии ором](/games/calm-breathing/) шуморо ҳарду метавонад ба суръат оварад ва шумо онро оғоз ва қатъ мекунед.
+16. **Танҳо ҳузур дошта бошед.** Наздик нишинед, хиргӣ кунед, бофтан ё ором хонед. Ҳузур кофист.
 
-## How to share an activity at this stage
+## Чӣ гуна фаъолиятро дар ин марҳила мубодила кардан
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Аз пеш наздик шавед.** Номи онҳо ва номи худро гӯед ва пеш аз ламс оҳиста ва мулоим гап занед.
+- **Як чиз дар як вақт пешниҳод кунед.** Пеш аз бозии мусиқӣ телевизорро хомӯш кунед. Як ҳисро дар як вақт кор кунед.
+- **Кӯтоҳ нигоҳ доред.** Чанд дақиқа кифоя аст. Якчанд лаҳзаи кӯтоҳ дар тӯли рӯз аз як сессияи дароз беҳтар аст.
+- **Аввал бароҳат шавед.** Санҷед, ки шахс хуб дастгирӣ шудааст. Институти миллии пиршавӣ тахтаи дастгирӣ барои истироҳати дастҳо ва дастгирии қисми болоии бадан ҳангоми нишастан пешниҳод мекунад.
+- **Ҷавобро тамошо кунед.** Дастҳои ором, чеҳраи мулоим, тамос бо чашм ё хиргӣ ба бароҳатӣ ишора мекунанд. Институти миллии пиршавӣ қайд мекунад, ки нолаҳо, чеҳраи дарднок, нигоҳдории қисми бадан ё беқароронии ногаҳонӣ метавонанд нишонаи дард бошанд. Қатъ кунед ва ба гурӯҳи нигоҳубин хабар диҳед.
 
-## A quick guide by sense
+## Ҷадвали тез аз рӯи ҳис
 
-| Sense | Ideas | Take care |
+| Ҳис | Ғояҳо | Эҳтиёт шавед |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Шунавоӣ | Мусиқии дӯстдошта, овози шумо дар хондан, садоҳои табиат | Овозро паст нигоҳ доред; як садо дар як вақт |
+| Ламс | Массажи дастҳо, гирифтани даст, матои нарм, дастрӯймоли гарм | Пеш пурсед ё эълон кунед; санҷед, ки пӯст дард накунад ё наканда |
+| Биниш | Аксҳо, гулҳо, манзара аз тиреза, видеои оҳистаи табиат | Чизҳоро дар сатҳи чашм нигоҳ доред; рӯшноии хуб, бе инъикоси рӯшноӣ |
+| Бӯй | Равғани дӯстдошта, гули тоза, қаҳва, ки дар наздикӣ дам мешавад | Бӯйҳои қавиро нагузоред; аллергия ва нафасро санҷед |
+| Таъм | Каме чашидани таъми дӯстдоштаашон | Танҳо хӯрок ва бофтаҳоеро, ки гурӯҳи нигоҳубин бехатар мегӯяд |
 
-## Safety at this stage
+## Бехатарӣ дар ин марҳила
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Фурӯ бурдан дар марҳилаи охир душвор шуда метавонад ва Институти миллии пиршавӣ огоҳ мекунад, ки ин хатари хафагиро зиёд мекунад. Ашёи хурдро дар дасраси онҳо нагузоред ва хӯрок ё нӯшокиро танҳо бо бофтаҳо ва ҳолатҳое пешниҳод кунед, ки гурӯҳи нигоҳубин тавсия медиҳад. Ҳангоми фаъолиятҳои ламс пӯстро оҳиста санҷед, зеро пӯст осон канда ё кабуд шуда метавонад. Барои бештар дар бораи ғояҳои бехатари ҳиссӣ, нигаред ба [фаъолиятҳои ҳиссӣ](/activities/sensory/).
 
-## Looking after yourself too
+## Худатонро низ нигоҳубин кунед
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Парасторӣ дар марҳилаи охир ҷисмонӣ ва эмотсионалӣ сахт аст, хоҳ дар хона ё ҳангоми боздид аз хонаи нигоҳубин. Дастаҳои ҳоспис ва табобати паллиативӣ дар ороми, дастгирӣ ва нақшакашӣ кумак карда метавонанд ва Институти миллии пиршавӣ онҳоро ҳамчун манбаи кумак номбар мекунад. Боздидҳои кӯтоҳ ва ором арзанда ҳастанд; нигаред ба [боздид аз шахси бо деменсия](/activities/visiting/). Агар гурӯҳҳоро роҳбарӣ мекунед, [фаъолиятҳои гурӯҳӣ дар хонаи нигоҳубин](/activities/care-home-groups/) ғояҳо барои мутобиқ кардани ҷаласаҳо дорад. Ва лутфан [худпарастии парастор](/caregiving/caregiver-self-care/)-ро хонед: истироҳат ҳам қисми нигоҳубини дуруст аст.
