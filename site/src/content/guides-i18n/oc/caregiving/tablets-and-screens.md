@@ -162,7 +162,7 @@ Utilizar una tablet ensemble, mai que de la laissar sola amb, la manten sociala.
 
 ## Cossí protegir la vida privada de la persona sus l'aparelh?
 
-Limitatz çò que las aplicacions pòdon recampar, e pensatz pas que las leis de proteccion de las donadas de salut cobrisson automaticament aquò. Lo Departament de la Salut e dels Servicis Umans dels Estats Units (HHS) [explica](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) que las Règlas HIPAA protegisson generalament pas las informacions de salut gardadas o consultadas sus de telefons e tablets personals. En la màger part dels casses, la HIPAA protegís pas tanben las donadas entradas dins las aplicacions d'usatge personal, sauf se l'aplicacion ven d'un fornisseire de cura cobèrt, d'un plan de salut o d'un dels sòs socis comercials.
+Limitatz çò que las aplicacions pòdon recampar, e pensatz pas que las leis de proteccion de las donadas de salut cobrisson automaticament aquò. Lo Departament de la Salut e dels Servicis Umans dels Estats Units (HHS) [explica](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) que las Reglas HIPAA protegisson generalament pas las informacions de salut gardadas o consultadas sus de telefons e tablets personals. En la màger part dels cas, la HIPAA protegís pas tanben las donadas entradas dins las aplicacions d'usatge personal, sauf se l'aplicacion ven d'un fornisseire de cura cobèrt, d'un plan de salut o d'un dels sòs socis comercials.
 
 L'HHS suggerís :
 
