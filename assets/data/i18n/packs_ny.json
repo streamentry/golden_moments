@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Nyama",
+      "description": "Nyama zokongola ndi zaubwenzi zochokera padziko lonse"
+    },
+    "nature": {
+      "name": "Chilengedwe",
+      "description": "Malo okongola ndi zinthu zachilengedwe"
+    },
+    "food": {
+      "name": "Chakudya",
+      "description": "Zakudya zokoma ndi zotsekemera"
+    },
+    "vintage": {
+      "name": "Magalimoto",
+      "description": "Magalimoto oti tiwayang’ane ndi kukambirana"
+    },
+    "flowers": {
+      "name": "Maluwa",
+      "description": "Maluwa okongola ndi malo a munda"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Nyama za pa famu",
+      "description": "Nyama zaubwenzi za pa famu, ngati mukuchezera kumudzi.",
+      "theme": "Moyo wa pa famu",
+      "images": {
+        "cow_1": "Ng’ombe yofatsa",
+        "pig_1": "Nkhumba yosangalala",
+        "chicken_1": "Tambala",
+        "buffalo_1": "Njati",
+        "horse_1": "Kavalo wokongola",
+        "duck_1": "Banja la abakha",
+        "goat_1": "Mbuzi yofuna kudziwa",
+        "rabbit_1": "Kalulu wokongola"
+      }
+    },
+    "nature_mountains": {
+      "title": "Zithunzi za mapiri",
+      "description": "Mapiri aakulu okongola ndi malo owoneka bwino",
+      "theme": "Kukongola kwa chilengedwe",
+      "images": {
+        "mountain_1": "Nsonga zokutidwa ndi chipale chofewa",
+        "mountain_2": "Phiri la Fuji",
+        "mountain_3": "Chigwa cha m’mapiri a Alps",
+        "mountain_4": "Nsonga yamiyala",
+        "mountain_5": "Zitunda za m’nkhalango",
+        "mountain_6": "Mapiri a chifunga"
+      }
+    },
+    "vintage_cars": {
+      "title": "Magalimoto ndi malole",
+      "description": "Magalimoto ndi malole owala oti tiwayang’ane ndi kukambirana",
+      "theme": "Pamsewu",
+      "images": {
+        "vintage_car_1": "Audi ya lalanje dzuwa likulowa",
+        "vintage_car_2": "Galimoto yamasewera ya buluu m’chipululu",
+        "vintage_car_3": "Bugatti ya siliva",
+        "vintage_car_4": "Porsche yakuda pamsewu",
+        "vintage_car_5": "BMW ya lalanje pamsewu wa mitengo ya kanjedza",
+        "vintage_car_6": "Galimoto ya buluu pafupi ndi garaji",
+        "vintage_car_7": "Pikapu yobiriwira",
+        "vintage_car_8": "SUV yoyera pakati pa miyala yofiira",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Galimoto ya buluu yokhala ndi mizere yoyera"
+      }
+    },
+    "animals_safari": {
+      "title": "Nyama zakutchire",
+      "description": "Nyama zaulemerero za m’mapaki a ku Africa",
+      "theme": "Nyama zakuthengo",
+      "images": {
+        "lion_1": "Mkango waulemerero",
+        "elephant_2": "Njovu ya ku Africa",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Mbidzi ya mizere",
+        "rhino_5": "Chipembere champhamvu",
+        "cheetah_6": "Cheetah wothamanga",
+        "fox_7": "Nkhandwe yofiirira",
+        "bear_8": "Chimbalangondo choyera cha kumpoto",
+        "turtle_9": "Kamba wofiirira",
+        "squirrel_10": "Gologolo wofiirira",
+        "macaw_11": "Macaw yachikasu ndi ya buluu",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "Mmbulu wotuwa",
+        "crocodile_15": "Ng’ona",
+        "peacock_16": "Pikoko wokongola"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Zotsekemera zokoma",
+      "description": "Zotsekemera zokoma zotsiriza chakudya chanu.",
+      "theme": "Zotsekemera",
+      "images": {
+        "pastries_1": "Makeke anayi",
+        "oreo_cookie_sandwiches_2": "Mabisiketi a Oreo",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pankeki",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Keke ya caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Maluwa a kumadera otentha",
+      "description": "Onani kukongola kwa madera otentha ndi gulu ili la maluwa achilendo.",
+      "theme": "Maluwa a kumadera otentha",
+      "images": {
+        "hibiscus_1": "Hibiscus yofiira",
+        "frangipani_2": "Frangipani yofiira ndi yoyera",
+        "sunflower_3": "Duwa la mpendadzuwa",
+        "hydrangea_4": "Hydrangea yoyera",
+        "rose_5": "Duwa la rozi",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Zakudya za mumsewu",
+      "description": "Onani dziko lokongola la zakudya za mumsewu ndi gulu ili la zakudya zokoma zochokera padziko lonse.",
+      "theme": "Zakudya za mumsewu",
+      "images": {
+        "taco_1": "Taco ya ku Mexico",
+        "ramen_2": "Ramen ya ku Japan",
+        "dumplings_3": "Madumplings a ku China",
+        "samosa_4": "Samosa ya ku India",
+        "pizza_5": "Kachidutswa ka pitsa ya ku Italy",
+        "crepe_6": "Crepe ya ku France",
+        "satay_7": "Ndodo za satay za ku Thailand",
+        "burger_8": "Burger ya ku America",
+        "bao_9": "Bao yowotchedwa ndi nthunzi",
+        "takoyaki_10": "Takoyaki ya ku Japan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Malo achilengedwe",
+      "description": "Malo achilengedwe odekha komanso okongola oti muwayang’ane pang’onopang’ono ndi kukambirana pamodzi.",
+      "theme": "Malo achilengedwe",
+      "images": {
+        "mountain_1": "Mzere wa mapiri",
+        "forest_2": "Nkhalango ya chifunga",
+        "lake_3": "Nyanja ya m’phiri",
+        "desert_4": "Milu ya mchenga ya m’chipululu",
+        "waterfall_5": "Mathithi",
+        "beach_6": "Gombe lamchenga",
+        "river_7": "Mtsinje woyenda",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Thambo dzuwa likulowa",
+        "snow_mountain_10": "Phiri la chipale chofewa",
+        "flowers_11": "Maluwa akuthengo",
+        "rainforest_12": "Nkhalango yamvula",
+        "iceberg_13": "Phiri la madzi oundana",
+        "volcano_14": "Phiri lamoto",
+        "cliff_15": "Mphepete mwa nyanja",
+        "aurora_16": "Kuwala kwa kumpoto",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Matanthwe a korali"
+      }
+    }
+  }
+}

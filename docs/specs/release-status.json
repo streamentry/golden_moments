@@ -1164,6 +1164,30 @@
         "reviewer": null,
         "evidence": null,
         "date": null
+      },
+      "ug": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "sn": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "st": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ny": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
       }
     }
   }

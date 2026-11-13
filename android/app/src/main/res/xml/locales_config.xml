@@ -107,4 +107,8 @@
     <locale android:name="fo" />
     <locale android:name="mi" />
     <locale android:name="mg" />
+    <locale android:name="ug" />
+    <locale android:name="sn" />
+    <locale android:name="st" />
+    <locale android:name="ny" />
 </locale-config>

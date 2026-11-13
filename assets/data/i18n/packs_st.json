@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Liphoofolo",
+      "description": "Liphoofolo tse monate le tse mosa tsa lefatše lohle"
+    },
+    "nature": {
+      "name": "Tlhaho",
+      "description": "Libaka tse ntle tsa tlhaho le litšoantšo tsa tlhaho"
+    },
+    "food": {
+      "name": "Lijo",
+      "description": "Lijo tse monate le lintho tse monate"
+    },
+    "vintage": {
+      "name": "Likoloi",
+      "description": "Likoloi le litraka tsa ho sheba le ho qoqa ka tsona"
+    },
+    "flowers": {
+      "name": "Lipalesa",
+      "description": "Lipalesa tse ntle le litšoantšo tsa serapa"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Liphoofolo tsa Polasing",
+      "description": "Liphoofolo tse mosa tsa polasi, joaloka ha u etetse mahaeng.",
+      "theme": "Bophelo ba Polasi",
+      "images": {
+        "cow_1": "Khomo e mosa",
+        "pig_1": "Kolobe e thabileng",
+        "chicken_1": "Khoho e tona",
+        "buffalo_1": "Nare ea metsing",
+        "horse_1": "Pere e ntle",
+        "duck_1": "Lelapa la matata",
+        "goat_1": "Poli e batlang ho tseba",
+        "rabbit_1": "Mmutla o motle"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pono ea Lithaba",
+      "description": "Libaka tsa lithaba tse hlollang le maralla a matle",
+      "theme": "Botle ba Tlhaho",
+      "images": {
+        "mountain_1": "Litlhoro tse nang le lehloa",
+        "mountain_2": "Thaba ea Fuji",
+        "mountain_3": "Phula ea lithaba",
+        "mountain_4": "Tlhoro e majoe",
+        "mountain_5": "Maralla a morung",
+        "mountain_6": "Lithaba tse nang le moholi"
+      }
+    },
+    "vintage_cars": {
+      "title": "Likoloi le Litraka",
+      "description": "Likoloi le litraka tse benyang tsa ho sheba le ho qoqa ka tsona",
+      "theme": "Tseleng",
+      "images": {
+        "vintage_car_1": "Audi e mmala oa lamunu ha letsatsi le likela",
+        "vintage_car_2": "Koloi e putsoa ea lipapali lehoatateng",
+        "vintage_car_3": "Bugatti e silevera",
+        "vintage_car_4": "Porsche e ntšo tseleng",
+        "vintage_car_5": "BMW e mmala oa lamunu seterateng se nang le lifate tsa palema",
+        "vintage_car_6": "Koloi e putsoa pela karache",
+        "vintage_car_7": "Bakkie e tala",
+        "vintage_car_8": "SUV e tšoeu har’a majoe a khubelu",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Koloi e putsoa e nang le mela e tšoeu"
+      }
+    },
+    "animals_safari": {
+      "title": "Liphoofolo tsa Safari",
+      "description": "Liphoofolo tse hlollang tsa safari ea Afrika",
+      "theme": "Liphoofolo tsa naheng",
+      "images": {
+        "lion_1": "Tau e hlollang",
+        "elephant_2": "Tlou ea Afrika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra e nang le mela",
+        "rhino_5": "Tšukudu e matla",
+        "cheetah_6": "Cheetah e potlakileng",
+        "fox_7": "Phokojoe e sootho",
+        "bear_8": "Bere e tšoeu",
+        "turtle_9": "Phoofolo e nang le khetla, e sootho",
+        "squirrel_10": "Squirrel e sootho",
+        "macaw_11": "Macaw e mosehla le e putsoa",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "Phiri e putsoa",
+        "crocodile_15": "Koena",
+        "peacock_16": "Pikoko e ntle"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Lijo tse Monate",
+      "description": "Lijo tse monate tsa ho qeta lijo tsa hau.",
+      "theme": "Lijo tse monate",
+      "images": {
+        "pastries_1": "Likuku tse nne tse nyane",
+        "oreo_cookie_sandwiches_2": "Likuku tsa Oreo tse kopaneng",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Kuku ea caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Lipalesa tsa Tropike",
+      "description": "Fumana botle bo benyang ba tropike ka sehlopha sena sa lipalesa tse sa tloaelehang.",
+      "theme": "Lipalesa tsa tropike",
+      "images": {
+        "hibiscus_1": "Hibiscus e khubelu",
+        "frangipani_2": "Frangipani e khubelu le e tšoeu",
+        "sunflower_3": "Palesa ea letsatsi",
+        "hydrangea_4": "Hydrangea e tšoeu",
+        "rose_5": "Rose",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Lijo tsa Seterata",
+      "description": "Hlahloba lefatše le mebala-bala la lijo tsa seterata ka sehlopha sena sa lijo tse monate tsa lefatše lohle.",
+      "theme": "Lijo tsa seterata",
+      "images": {
+        "taco_1": "Taco ea Mexico",
+        "ramen_2": "Ramen ea Japane",
+        "dumplings_3": "Dumplings tsa China",
+        "samosa_4": "Samosa ea India",
+        "pizza_5": "Selae sa pizza ea Italy",
+        "crepe_6": "Crepe ea Fora",
+        "satay_7": "Lithupa tsa satay tsa Thailand",
+        "burger_8": "Burger ea Amerika",
+        "bao_9": "Bao e besitsoeng ka mouoane",
+        "takoyaki_10": "Takoyaki ea Japane"
+      }
+    },
+    "nature_landscape": {
+      "title": "Libaka tsa Tlhaho",
+      "description": "Libaka tse khutsitseng, tse ntle tsa tlhaho tseo u ka li shebang butle le ho qoqa ka tsona hammoho.",
+      "theme": "Libaka tsa tlhaho",
+      "images": {
+        "mountain_1": "Letoto la lithaba",
+        "forest_2": "Moru o nang le moholi",
+        "lake_3": "Letša la thabeng",
+        "desert_4": "Liqhubu tsa lehlabathe lehoatateng",
+        "waterfall_5": "Sekhahla",
+        "beach_6": "Lebopo le nang le lehlabathe",
+        "river_7": "Noka e phallang",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Leholimo ha letsatsi le likela",
+        "snow_mountain_10": "Thaba e nang le lehloa",
+        "flowers_11": "Lipalesa tsa naheng",
+        "rainforest_12": "Moru o mongata oa pula",
+        "iceberg_13": "Sehlaba sa leqhoa",
+        "volcano_14": "Thaba-mollo",
+        "cliff_15": "Lefika le lebopong la leoatle",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Lefika la coral"
+      }
+    }
+  }
+}

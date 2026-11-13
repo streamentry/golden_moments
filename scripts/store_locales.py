@@ -130,6 +130,10 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'fo': ((), ()),
     'mi': ((), ()),
     'mg': ((), ()),
+    'ug': ((), ()),
+    'sn': ((), ()),
+    'st': ((), ()),
+    'ny': ((), ()),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

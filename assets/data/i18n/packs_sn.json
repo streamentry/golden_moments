@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Mhuka",
+      "description": "Mhuka dzakanaka dzine hushamwari dzepasi rose"
+    },
+    "nature": {
+      "name": "Chisikigo",
+      "description": "Nzvimbo dzakanaka nezvinhu zvechisikigo"
+    },
+    "food": {
+      "name": "Chikafu",
+      "description": "Zvokudya zvinonaka nezvinotapira"
+    },
+    "vintage": {
+      "name": "Mota",
+      "description": "Mota nematraka ekutarisa nekutaurira"
+    },
+    "flowers": {
+      "name": "Maruva",
+      "description": "Maruva akanaka nenzvimbo dzemaruva"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Mhuka dzepafamu",
+      "description": "Mhuka dzepafamu dzine hushamwari, sekushanyira kumaruwa.",
+      "theme": "Hupenyu hwepafamu",
+      "images": {
+        "cow_1": "Mombe ine hushamwari",
+        "pig_1": "Nguruve inofara",
+        "chicken_1": "Jongwe",
+        "buffalo_1": "Njati yemvura",
+        "horse_1": "Bhiza rakanaka",
+        "duck_1": "Mhuri yemadhadha",
+        "goat_1": "Mbudzi inoda kuziva",
+        "rabbit_1": "Tsuro yakanaka"
+      }
+    },
+    "nature_mountains": {
+      "title": "Mawonero emakomo",
+      "description": "Makomo akanaka nenzvimbo dzinoyevedza dzekutarisa",
+      "theme": "Runako rwechisikigo",
+      "images": {
+        "mountain_1": "Makomo akafukidzwa nechando",
+        "mountain_2": "Gomo reFuji",
+        "mountain_3": "Mupata wemakomo eAlps",
+        "mountain_4": "Pamusoro pegomo rine matombo",
+        "mountain_5": "Makomo ane masango",
+        "mountain_6": "Makomo ane gore"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mota nematraka",
+      "description": "Mota nematraka anopenya ekutarisa nekutaurira",
+      "theme": "Mugwagwa",
+      "images": {
+        "vintage_car_1": "Audi yeorenji pakuvira kwezuva",
+        "vintage_car_2": "Mota yebhuruu yekumhanya mugwenga",
+        "vintage_car_3": "Bugatti yesirivheri",
+        "vintage_car_4": "Porsche nhema mugwagwa",
+        "vintage_car_5": "BMW yeorenji mugwagwa une mapalm",
+        "vintage_car_6": "Mota yebhuruu padyo negaraji",
+        "vintage_car_7": "Traka girini",
+        "vintage_car_8": "SUV chena pakati pematombo matsvuku",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Mota yebhuruu ine mitsetse chena"
+      }
+    },
+    "animals_safari": {
+      "title": "Mhuka dzesafari",
+      "description": "Mhuka dzine ukuru dzemusafari yeAfrica",
+      "theme": "Mhuka dzesango",
+      "images": {
+        "lion_1": "Shumba ine ukuru",
+        "elephant_2": "Nzou yeAfrica",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Mbizi ine mitsetse",
+        "rhino_5": "Chipembere chine simba",
+        "cheetah_6": "Chita inomhanya",
+        "fox_7": "Fokisi yakatsvukuruka",
+        "bear_8": "Bhiya yechando",
+        "turtle_9": "Dendere rakatsvukuruka",
+        "squirrel_10": "Skwiro yakatsvukuruka",
+        "macaw_11": "Makaw yeyero nebhuruu",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Rakuni",
+        "wolf_14": "Wolfu girei",
+        "crocodile_15": "Garwe",
+        "peacock_16": "Pikoko yakanaka"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Zvinotapira zvinonaka",
+      "description": "Zvimwe zvinotapira zvinonaka zvekudya.",
+      "theme": "Zvinotapira",
+      "images": {
+        "pastries_1": "Mapeistri mana",
+        "oreo_cookie_sandwiches_2": "Mabhisikiti eOreo",
+        "crepe_3": "Krepe",
+        "pancake_4": "Pankeke",
+        "macarons_5": "Makaroni",
+        "caramel_cake_6": "Keke yekaramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Maruva etropiki",
+      "description": "Tarisa runako rwetropiki nepakeji iyi yemaruva akasiyana.",
+      "theme": "Maruva etropiki",
+      "images": {
+        "hibiscus_1": "Hibhiskasi tsvuku",
+        "frangipani_2": "Furanjipani tsvuku nechena",
+        "sunflower_3": "Ruva remuzuva",
+        "hydrangea_4": "Hidhurenja chena",
+        "rose_5": "Rozi",
+        "chrysanthemum_6": "Krisantemu",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Pulumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Chikafu chemumigwagwa",
+      "description": "Tarisa nyika yezvokudya zvemumigwagwa nepakeji iyi yezvinonaka zvekunyika dzakasiyana.",
+      "theme": "Chikafu chemumigwagwa",
+      "images": {
+        "taco_1": "Taco yeMexico",
+        "ramen_2": "Ramen yeJapan",
+        "dumplings_3": "Madhamplingi eChina",
+        "samosa_4": "Samosa yeIndia",
+        "pizza_5": "Chidimbu chepizza yeItaly",
+        "crepe_6": "Krepe yeFrance",
+        "satay_7": "Satay yeThailand",
+        "burger_8": "Bhega yeAmerica",
+        "bao_9": "Bao yakabikwa nemhepo",
+        "takoyaki_10": "Takoyaki yeJapan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Nzvimbo dzechisikigo",
+      "description": "Nzvimbo dzakanaka dzakanyarara dzechisikigo dzekutarisa zvishoma nezvishoma nekutaurirana pamwe chete.",
+      "theme": "Nzvimbo dzechisikigo",
+      "images": {
+        "mountain_1": "Makomo akarongeka",
+        "forest_2": "Sango rine gore",
+        "lake_3": "Dziva pagomo",
+        "desert_4": "Madhune egwenga",
+        "waterfall_5": "Mvura inowira",
+        "beach_6": "Mhenderekedzo yejecha",
+        "river_7": "Rwizi runoyerera",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Denga rekuvira kwezuva",
+        "snow_mountain_10": "Gomo rine chando",
+        "flowers_11": "Maruva esango",
+        "rainforest_12": "Sango rine mvura yakawanda",
+        "iceberg_13": "Chando chakakura mugungwa",
+        "volcano_14": "Gomo rinoputika",
+        "cliff_15": "Dombo rakatarisana negungwa",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Savhana",
+        "coral_reef_18": "Korari mugungwa"
+      }
+    }
+  }
+}
