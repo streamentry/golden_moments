@@ -1,7 +1,7 @@
 ---
 title: "Activitats de fèstas per la demència, de Thanksgiving en çà"
 seoTitle: "Idèias de fèstas e de Thanksgiving per la demència"
-description: "Activitats de fèstas simplas per una persona amb demència : travalhs de cosina, decoracion, musica, fòtos e apèls vidèo, e coma organizar un Thanksgiving o un Nadal mai calme."
+description: "Activitats de fèstas simplas per una persona amb demència : cosina, decoracion, musica, fòtos e apèls vidèo, e coma far un Thanksgiving o un Nadal mai calme."
 section: activities
 order: 21
 updated: 2026-10-30
@@ -25,10 +25,10 @@ faq:
     a: "Li donar un trabalh simple e segur que correspond a çò que pòt far uèi : rentar de legums, remenar la sauça de canneberga, metre la taula, plegar de servietas o metre de dessèrts dins un plat. Aprèp, agachatz de vièlhas fòtos de familha o cantatz ensemble de cançons familiaras. Èsser part de la jornada compta mai que lo resultat del trabalh."
   - q: "Deuriam far una granda reünion familiala ?"
     a: "Sonque se es gerable. Lo bruch e la fòrça de monde pòdon èsser aclaparants, donc fòrça familhas passan a una reünion mai pichona e mai informala, un repas mai aviat, o de visitaires que venon per de pichons grops. L'Alzheimer's Association encoratja los aidants a far sonque çò que pòdon gerir amb rason e sens risc."
-  - q: "Cossí preparar la familha que venguèt pas de temps ?"
+  - q: "Cossí preparar la familha que an pas vist de temps ?"
     a: "Dire-lor abans qu'arribon de cambiaments que pòdon notar, e que venon de la malautia, pas de la persona. Demandatz-lor de pas corregir ni interrogar, de parlar un per un e de daissar lo temps per respondre. Mostrar a la persona de fòtos dels convidats d'avança ajuda tanben."
   - q: "Quins cadeaus convenon a una persona que viu amb la demència ?"
-    a: "De causas simplas e segures que pòt gaudir uèi : un gost preferit, una cobèrta o un pulover tebe, una musica familiara, o un album de fòtos de familha. Evitatz los aparelhs electronics complicats, los outils e los jòcs de taula dificils. Participar a l'ofrenda, per exemple empacar un cadeu o empacar de galetas que an ajudat a far, pòt èsser un cadeu en se."
+    a: "De causas simplas e segures que pòt gaudir uèi : un gost preferit, una cobèrta o un pulover tebe, una musica familiara, o un album de fòtos de familha. Evitatz los aparelhs electronics complicats, los outils e los jòcs de taula dificils. Participar a l'ofrenda, per exemple empacar un cadeu o de galetas que an ajudat a far, pòt èsser un cadeu en se."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -73,17 +73,17 @@ Se la cosina èra una granda part de la vida de la persona, nòstra guida sus [l
 
 ## Cossí preparar los convidats ?
 
-Dire als convidats a qué s'aténer abans que venon, sobretot los parents que venguèron pas de temps. L'Alzheimer's Association suggerís d'explicar que los cambiaments de memòria e de comportament venon de la malautia, pas de la persona.
+Dire als convidats a qué s'aténer abans que venon, sobretot los parents que an pas vist de temps. L'Alzheimer's Association suggerís d'explicar que los cambiaments de memòria e de comportament venon de la malautia, pas de la persona.
 
 - **Partejar qualques consèls simples :** parlar un per un, daissar lo temps de finir una pensada, pas corregir ni interrogar, e respondre al ton de la persona se las paraulas son dificilas de seguir.
-- **Dire çò que ajuda e çò que tarabusta.** Se lo bruch fòrt, la preissa o certans subjèctes causan de pena, o dire.
+- **Dire çò que ajuda e çò que tarabusta.** Se lo bruch fòrt, la preissa o certans subjèctes causan de pena, o digatz-lo.
 - **Presentar los convidats d'avança.** Mostrar a la persona de fòtos de qui ven e contar-li una o doas istòrias, o organizar un pichon apèl telefonic o vidèo abans lo jorn.
 
 Nòstres [consèls de comunicacion](/caregiving/communication-tips/) van mai luènh.
 
 ## Qué far s'es tròp ?
 
-Preparatz una sala calma abans l'arribada dels convidats, a l'escart del bruch, amb d'objèctes de confòrt familiars coma una cobèrta o un pulover preferit, o una activitat simpla. Ofrissètz-la de bon començament e sovent : « Anèm nos seire en un endrech mai calme un moment ? »
+Preparatz una sala calma abans l'arribada dels convidats, a l'escart del bruch, amb d'objèctes de confòrt familiars coma una cobèrta o un pulover preferit, o una activitat simpla. Ofrissètz-la de bon començament e sovent : « Anèm nos asseire en un endrech mai calme un moment ? »
 
 Quitar la taula, anar al lièch de bon matin o sautar una part de la jornada es un bon resultat, pas un escai. Se la persona se tarabusta, una votz calma, una cançon familiara o una passejada dins una autra sala ajuda sovent mai qu'un raisonament. Nòstra guida sus [l'agitacion del vèspre](/caregiving/late-day-restlessness/) a mai d'idèias pels vèspres.
 
@@ -97,7 +97,7 @@ Se la persona viu en centre de memòria, verificatz la politica de visitas e dem
 
 De cadeaus simples e segurs que pòt gaudir uèi son generalament los melhors : un gost preferit, una cobèrta o un cardigan mòl, una musica familiara, un calendari en grossa lectura, o un album de fòtos de familha. L'Alzheimer's Association recomanda d'evitar los outils perilhoses, los aparelhs electronics complicats e los jòcs de taula dificils.
 
-Donar pòt comptar tant coma recebre. Empacar de galetas que la persona a ajudat a far, o li far empacar un cadeu que vos aviatz comprat, la fa participar a la fèsta. Una idèia de jòc familiar es tanben [Parelhs de fòtos](/games/photo-pairs/), que transforma quauqueas fòtos triadas en un jòc de parelhs doç dins lo navigador.
+Donar pòt comptar tant coma recebre. Empacar de galetas que la persona a ajudat a far, o li far empacar un cadeu que vos aviatz comprat, la fa participar a la fèsta. Una idèia de jòc familiar es tanben [Parelhs de fòtos](/games/photo-pairs/), que transforma quauquas fòtos triadas en un jòc de parelhs doç dins lo navigador.
 
 ## Vos ocupar tanben de vos-meteis
 

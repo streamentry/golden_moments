@@ -1,7 +1,7 @@
 ---
 title: "Te āwhina i te rongoā mō te tangata e mate wareware ana"
 seoTitle: "Haumarutanga rongoā mō ngā kaitiaki o te mate wareware"
-description: "Tautokohia ngā tikanga rongoā me te rārangi mārama, me te aratohu a te tohunga rongoā. Kaua e panoni i te rahi rongoā mā ngā kōrero ipurangi anake."
+description: "Tautokohia ngā tikanga rongoā me te rārangi mārama me te aratohu a te tohunga rongoā. Kaua e panoni i te rahi rongoā mā ngā kōrero ipurangi anake."
 section: caregiving
 order: 26
 updated: 2026-11-11
@@ -22,7 +22,7 @@ faq:
   - q: "Ka taea te pāoi i te pire, te whakauru ki te kai rānei?"
     a: "Kaua e pāoi, e whakauru rānei i te rongoā ki te kai, mēnā kāore te kaituku tohutohu, te tohunga rongoā rānei e kī he haumaru mō taua rongoā. Pātai mēnā he momo kē e wātea ana mēnā he uaua te horomi."
   - q: "He aha taku mahi mēnā ka pāngia te tangata e ngā pānga kino o tētahi rongoā?"
-    a: "Tuhia he aha i rerekē, nō hea te tīmatanga, ā, whakapā atu ki te kaituku tohutohu, ki te tohunga rongoā rānei. Kaua e whakamutu, e whakarerekē rānei i te rahi me te tohutohu me te kore tā rātou tohutohu."
+    a: "Tuhia he aha i rerekē, nō hea te tīmatanga, ā, whakapā atu ki te kaituku tohutohu, ki te tohunga rongoā rānei. Kaua e whakamutu, e whakarerekē rānei i te rahi, kaua hoki e mahi me te kore tohutohu mai i a rātou."
   - q: "Ka whakapae au kua inu rawa te tangata i te rongoā, me pēhea?"
     a: "Whakapā tere atu ki te ratonga tautoko paitini o tō rohe, ki ngā ratonga ohotata rānei. Kaua e tatari mō ngā tohu, kaua hoki e ngana ki te whakaora i te inu rawa atu mā koe anake."
 sources:
@@ -37,15 +37,15 @@ related: [caregiving/doctor-visit-with-dementia, caregiving/hospital-visit-with-
 health: true
 ---
 
-Ka panoni pea ngā tikanga rongoā ina panoni ngā hiahia. Ka hiahia pea te tangata i te āwhina ki te maumahara i tētahi rahi, ki te pānui i tētahi tapanga, ki te whakakī anō i tētahi tuhinga rongoā, ahakoa e pīrangi ana ia ki te whakahaere i ētahi atu wāhanga anō. Ko te whāinga he tautoko i te whakamahi haumaru, kaua e tango atu i te katoa.
+Ka panoni pea ngā tikanga rongoā ina panoni ngā hiahia. Ka hiahia pea te tangata i te āwhina ki te maumahara i tētahi rahi, ki te pānui i tētahi tapanga, ki te whakakī anō i tētahi kōpaki rongoā, ahakoa e pīrangi ana ia ki te whakahaere i ētahi atu wāhanga anō. Ko te whāinga he tautoko i te whakamahi haumaru, kaua e tango atu i te katoa o ngā mahi.
 
 Ko te [aratohu haumarutanga rongoā a te Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/medication-safety) e tohutohu ana kia mahi tahi ki ngā takuta me ngā tohunga rongoā, kia pupuri i tētahi rārangi hou tonu, kia whakaae ki tētahi tikanga. He tohutohu whānui tēnei whārangi. Whai i ngā tohutohu a te kaituku tohutohu me te tohunga rongoā mō ngā rongoā a te tangata.
 
 ## Me pēhea e whai wāhi ai te tangata ki te tikanga rongoā?
 
-Pātai he aha te āwhina e hiahia ana te tangata. Akene he whakamahara tana e pai ana ki a ia, he āwhina ki te whakatuwhera i te kōpaki, he whānau hei tirotiro i te rārangi. Mēnā ka taea e te tangata te whakahaere i ētahi rongoā ake, pupuri i taua kaha. Me kōrero tahi te pūnaha whakamahara hou ki a ia, ā, me panoni mēnā ka raru, ka pōhara rānei.
+Pātai he aha te āwhina e hiahia ana te tangata. Akene he whakamahara tana e pai ana ki a ia, he āwhina ki te whakatuwhera i te kōpaki, he whānau hei tirotiro i te rārangi. Mēnā ka taea e te tangata te whakahaere i ētahi rongoā ake, pupuri i taua kaha. Me kōrero tahi te pūnaha whakamahara hou ki a ia, ā, me panoni mēnā ka raru, ka whakararu rānei.
 
-Whakamahia he reo mārama, he reo pakeke. Mēnā he wā tika tāna mō tētahi rongoā, hono te whakamahara ki tētahi tikanga mōhio anake mēnā e rite ana ki ngā tohutohu a te tohunga rongoā. Hoatu ki te tangata he wā ki te whakautu. Kaua e whakamātau tana mōhio, kaua e whakamā mō te wareware, kaua e tautohe mēnā kua inu kē ia i tētahi rahi.
+Whakamahia he reo mārama, he reo pakeke. Mēnā he wā tika tāna mō tētahi rongoā, hono te whakamahara ki tētahi tikanga mōhio anake mēnā e rite ana ki ngā tohutohu a te tohunga rongoā. Hoatu ki te tangata he wā ki te whakautu. Kaua e whakamātau i tana maumahara, kaua e whakamā ia mō te wareware, kaua e tautohe mēnā kua inu kē ia i tētahi rahi.
 
 Mēnā kāore e mahi te whakamahara, pātai he aha te wāhanga e uaua ana. He uaua pea te tapanga ki te pānui, he uaua pea te kōpaki ki te whakatuwhera, he pōuri pea te rongoā ki te tangata. Ka āwhina te takuta, te tohunga rongoā ki te kimi i ngā kōwhiringa. Kaua e panoni i te tikanga rongoā mā te arotahi.
 
@@ -53,7 +53,7 @@ Mēnā kāore e mahi te whakamahara, pātai he aha te wāhanga e uaua ana. He ua
 
 Pupuri i tētahi rārangi kotahi, hou tonu, me te ingoa o ia rongoā tuhi, tana rahi me tana wā, me te take i tuhia ai, mēnā e mōhio ana. Tāpirihia ngā rongoā kore tuhi, ngā rongoā huawhenua, ngā tāpiri me ngā rongoā otaota. Tuhia ngā mate ka pā ki te tangata, ngā pānga kino o mua, me ngā ingoa o ngā kaimahi hauora e whakahaere ana i tana tiaki.
 
-Kawea te rārangi ki ngā hui tākuta, whakahōunutia ina panoni tētahi kaituku tohutohu i tētahi mea. Mēnā he maha ngā takuta e kite ana te tangata, tohatohea te rārangi ki ia mema o te tīma tiaki anake ina whakaae te tangata. Tiakina te rārangi ki tētahi wāhi ka kitea e te tangata me ngā kaiāwhina kua whakaaetia, ā, tiakina hei mōhiotanga hauora motuhake.
+Kawea te rārangi ki ngā hui takuta, whakahōunutia ina panoni tētahi kaituku tohutohu i tētahi mea. Mēnā he maha ngā takuta e kite ana te tangata, tohatohea te rārangi ki ia mema o te tīma tiaki anake ina whakaae te tangata. Tiakina te rārangi ki tētahi wāhi ka kitea e te tangata me ngā kaiāwhina kua whakaaetia, ā, tiakina hei mōhiotanga hauora motuhake.
 
 Pātai ki te takuta, ki te tohunga rongoā kia tirohia ngā tauhohenga tōrunga ina tuhia he rongoā hou. Mēnā he raru hou i muri i tētahi panoni rongoā, tuhia nō hea te tīmatanga, whakapā atu ki te kaituku tohutohu. He maha ngā take o te panoni whanonga, nō reira kaua e whakaaro he rongoā te take mēnā kāore he tohutohu ngaio.
 
@@ -75,13 +75,13 @@ Kaua e tapahia he pire, kaua e wehea he kapuseru, kaua e whakauru rongoā ki te 
 
 Rokohanga ngā rongoā e ai ki te tapanga me ngā tohutohu a te tohunga rongoā. Mēnā ka taea te tangata te tango i tētahi rahi anō kāore i te mōhio, pātai ki te tangata me te tīma tiaki he aha te rokohanga, te tautoko e tika ana. Ka āwhina pea he kabineti kua raka i ētahi āhuatanga, engari he nui hoki te uru me te motuhake. Arotahia te mahere ina panoni ngā kaha o te tangata.
 
-Tiakina ngā rongoā kua pau, kua mutu rānei ki te wehe, pātai ki tētahi tohunga rongoā me pēhea te whakakore haumaru. Kaua e pupuri rongoā tuaruru hei rongoā tuarua, kaua e tiritiri rongoā i waenga i ngā tāngata. Mēnā kua ngaro tētahi rongoā, mēnā kua tangohia tētahi rahi anō pea, whakapā ki tētahi tohunga rongoā, ki te ratonga tautoko paitini, ki te ratonga ohotata rānei mō te tohutohu tere.
+Tiakina ngā rongoā kua pau, kua mutu rānei te whakamahi, ā, pātai ki tētahi tohunga rongoā me pēhea te whakakore haumaru. Kaua e pupuri i ngā rongoā tawhito hei rongoā mō ngā wā e hiahiatia ai, kaua hoki e tuku rongoā ki ētahi atu tāngata. Mēnā kua ngaro tētahi rongoā, mēnā kua tangohia tētahi rahi anō pea, whakapā ki tētahi tohunga rongoā, ki te ratonga tautoko paitini, ki te ratonga ohotata rānei mō te tohutohu tere.
 
 ## Āhea me rapu āwhina hauora?
 
 Whakapā ki te takuta, ki te tohunga rongoā mēnā he pānga kino raru, he uaua te horomi, he maha ngā rahi kāore i tangohia, he panoni ohorere i muri i tētahi rongoā hou. Tonoa he tohutohu tuhi mārama. Kaua e mutu, e whakaiti rānei i tētahi rongoā mā tō ringa anake.
 
-Mēnā e whakaaro ana koe kua inu rawa te tangata i te rongoā, karangatia te ratonga tautoko paitini o tō rohe, te ratonga ohotata rānei i taua wā tonu. Mēnā kua pōuri ohorere te tangata, kua tino rerekē rānei, ko te [aratohu a te NHS](https://www.nhs.uk/symptoms/confusion/) e kī ana me tono āwhina hauora tere. Whakamahia ngā ratonga ohotata, ngā tukanga āwhina ohotata o tō rohe.
+Mēnā e whakaaro ana koe kua inu rawa te tangata i te rongoā, karangatia te ratonga tautoko paitini o tō rohe, te ratonga ohotata rānei i taua wā tonu. Mēnā kua pōuri ohorere te tangata, kua tino rerekē rānei i tōna āhua noa, ko te [aratohu a te NHS](https://www.nhs.uk/symptoms/confusion/) e kī ana me tono āwhina hauora tere. Whakamahia ngā ratonga ohotata, ngā tukanga āwhina ohotata o tō rohe.
 
 Mō ngā toro tūturu, ko te [aratohu toro takuta](/caregiving/doctor-visit-with-dementia/) ka āwhina ki te whakarite pātai me te rārangi rongoā. Ko te [aratohu toro hōhipera](/caregiving/hospital-visit-with-dementia/) e whakaatu ana i te tuku mōhiotanga rongoā ki te tīma tiaki.
 

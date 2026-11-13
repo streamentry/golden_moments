@@ -1,7 +1,7 @@
 ---
 title: "Activitats per la demència en etapa precòcia"
 seoTitle: "Activitats en etapa precòcia : idèias que van ben"
-description: "Idèias d'activitats per l'etapa precòcia de la demència : passa-temps, jòcs, sortidas, escritura e planificacion ensemble, amb de cambiaments pichons per la gardar al comand."
+description: "Idèias d'activitats per l'etapa precòcia de la demència : passa-temps, jòcs, sortidas e escritura, amb de petits cambiaments per que siá agradivla."
 section: activities
 order: 2
 updated: 2026-10-25
@@ -106,7 +106,7 @@ Lo [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-careg
 | --- | --- |
 | Lòcs ocupats o brusucs | Anatz a de moments calmes, causissètz de grops mai pichons, sètz al bord de la sala |
 | Remembrar de noms novèls | Presentatz las personas pel nom cada còp ; demandatz als grops de portar d'etiquetas |
-| Seguir de plans de mantuns passes | Escrivètz los passes, o disposatz tot per òrdre abans |
+| Seguir de plans amb mantuns passes | Escrivètz los passes, o disposatz tot per òrdre abans |
 | Venir fatigat | Sortidas mai cortas, un repaus aprèp, pas res d'autre planificat aquel jorn |
 | Seguir lo compte dins un jòc | Jogatz per equipas, simplificatz las règlas o laissatz lo comptatge |
 | Trobar de mots | Daissatz lo temps ; ofrissètz un mot sonque se lo senhal convengut o demanda |

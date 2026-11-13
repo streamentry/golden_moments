@@ -1,7 +1,7 @@
 ---
 title: "Activitats per los òmes amb demència"
 seoTitle: "Activitats per los òmes amb demència : idèias concretas"
-description: "Idèias d'activitats per los òmes que viuon amb la demència, basadas sus lor trabalh, lors passa-temps e lors abituds mai que sus d'estereotips, amb consèls per las adaptar."
+description: "Idèias d'activitats per los òmes amb demència, basadas sus lor trabalh, lors passa-temps e lors abituds mai que sus d'estereotips, amb consèls per las adaptar."
 section: activities
 order: 11
 updated: 2026-10-25
@@ -25,7 +25,7 @@ faq:
   - q: "Mon paire refusa las activitats de grop. Qué far ?"
     a: "Plan de personas, òmes e femnas, refusan las activitats que semblan una classa o que semblan enfantinas. Ensajatz d'ofrir un trabalh : « Me poiriatz ajudar a triar aquestas pèças ? » Los grops pichons o un temps d'un a un pòdon tanben sembrar mai confortables qu'una sala grand."
   - q: "Es segur de lo laissar utilizar d'outils ?"
-    a: "Sonque amb una supervision e d'outils segurs. Levatz los outils electrics, las lamas e tot çò que tranca, e ofrissètz de tascas coma ponçar un blòc de fusta, triar de quincalha netja o estrènher a la man de bolts grands. L'Alzheimer's Association suggerís de levar los objèctes perilhoses d'un atelier, perque una tasca coma ponçar pòsca quand meteis èsser aprecidada sens risc."
+    a: "Sonque amb una supervision e d'outils segurs. Levatz los outils electrics, las lamas e tot çò que tranca, e ofrissètz de tascas coma ponçar un blòc de fusta, triar de quincalha netja o estrènher a la man de bolts grands. L'Alzheimer's Association suggerís de levar los objèctes perilhoses d'un atelier, perque una tasca coma ponçar pòsca èsser aprecidada sens risc."
   - q: "Èra un professional. De tascas simplas li semblaràn pas umiliantas ?"
     a: "Pòdon aquò se son presentadas coma de tascas de rebut. Presentatz la tasca coma una ajuda reala, utilizatz de materiaus d'adult, e causissètz quicòm pròche de son ancian ròtle, coma revisar una lista, classar un dossièr o ajudar a preparar un envòi postal. Se èra de grand talent dins una activitat, una activitat aparentada mas diferenta pòt semblar mens una comparason."
 sources:
@@ -50,7 +50,7 @@ Las personas cèrcan sovent « activitats per los òmes amb demència » perque 
 
 ## Cossí trobar las activitats que li agradaràn vertadièrament ?
 
-Comencetz per l'istòria de la persona. L'Alzheimer's Association suggerís de bastir un [plan quotidian](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) segon los goses, las mancas, las fortas e los interèsses de la persona, e segon la faiçon dont organizava sa jornada. Demandatz-vos :
+Comencetz per l'istòria de la persona. L'Alzheimer's Association suggerís de bastir un [plan quotidian](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) segon los goses, las mancas, las fortas e los interèsses de la persona, e segon la faiçon de sa jornada. Demandatz-vos :
 
 - **Qué èra son trabalh ?** Burèu, camp, usina, metièr, armada, vendas, ensenhament, conducción, l'ostal ?
 - **Qué fasiá de temps liure ?** La pesca, las cartas, la fusta, l'esport, la gleisa, la musica, la cosina, un auto dins lo garatge ?
