@@ -43,7 +43,7 @@ related: [caregiving/communication-tips, caregiving/repeated-questions, activiti
 health: true
 ---
 
-Uma umuntu onedementia engasakukhumbuli, lesi sikhathi singaba buhlungu futhi sidide. Ungase uzibuze ukuthi yini okufanele uyisho noma ukuthi kufanele uchaze ubudlelwano futhi. Imimo ihlukile. Qala ngalokho okwenza umuntu azizwe ephephile futhi ekhululekile, hhayi ngokuhlola ukuthi yini ayikhumbulayo.
+Uma umuntu onedementia engasakukhumbuli, lesi sikhathi singaba buhlungu futhi sidide. Ungase uzibuze ukuthi yini okufanele uyisho noma ukuthi kufanele uchaze ubudlelwano futhi. Izimo zihlukile. Qala ngalokho okwenza umuntu azizwe ephephile futhi ekhululekile, hhayi ngokuhlola ukuthi yini ayikhumbulayo.
 
 I-[Alzheimer's Association inikeza umhlahlandlela wokukhohlwa nokudideka](https://www.alz.org/help-support/caregiving/stages-behaviors/memory-loss-confusion) ohlanganisa ukungakhumbuli umndeni njengoshintsho olungenzeka. I-[Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) ne-[Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/how-dementia-changes-perception) zichaza ukuthi umuntu angase amphazamise omunye umuntu ayaziyo ngomunye. Lokhu yisiqondiso jikelele; angeke kuchaze ukuthi kungani kwenzeka ushintsho oluthile.
 
@@ -64,14 +64,14 @@ Sondela lapho umuntu angakubona khona bese ukhuluma ngezwi elithulile nelijwayel
 - **Uma ezwa esaba noma eceli ukuthi uhambe,** shiya indawo bese umnika isikhala. Ungamphoqi ukuthi akugonde, ungaphikisi ukuthi akukhumbule noma uphinde imininingwane ebonakala imkhathaza.
 - **Uma ekubiza ngegama elihlukile,** ungazethula kanye ngaphandle kokukulungisa ngokuqinile. Uma esasizwa kahle, dlulela esihlokweni noma emsebenzini ajabulela.
 
-I-[communication guide](/caregiving/communication-tips/) incoma ukukhuluma ngokufushane nangokuthula nokugwema imibuzo nokuphikisana. Gwema ukubuza ukuthi, “Uyakhumbula ukuthi ngubani mina?” Lombuzo ungazwakala njengokuhlolwa futhi ungasize umuntu ukuthi akubone.
+[Umhlahlandlela wokuxhumana](/caregiving/communication-tips/) incoma ukukhuluma ngokufushane nangokuthula nokugwema imibuzo nokuphikisana. Gwema ukubuza ukuthi, “Uyakhumbula ukuthi ngubani mina?” Lombuzo ungazwakala njengokuhlolwa futhi ungasize umuntu ukuthi akubone.
 
 ## Ingabe inkomba ejwayelekile ingasiza?
 
 Ngezikhathi ezithile inkomba ingasiza umuntu akubeke endaweni, kodwa ayisebenzi kubo bonke. Zama inkomba eyodwa elula ngesikhathi, bese uyeka uma iletha uxinezeleo.
 
 - **Sho igama lakho ngokwemvelo.** Izwi elijwayelekile noma ukuzethula okufushane kungase kwanele.
-- **Sebenzisa isithombe noma into eyabiwe.** Uma umuntu ethanda izithombe, ningase niphenye eyodwa ndawonye ngaphandle kokumcela ukuthi aqamba umuntu. I-[reminiscence guide](/activities/reminiscence/) inemibono yokusebenzisa izithombe ngaphandle kokubuza imibuzo.
+- **Sebenzisa isithombe noma into eyabiwe.** Uma umuntu ethanda izithombe, ningase niphenye eyodwa ndawonye ngaphandle kokumcela ukuthi aqamba umuntu. [Umhlahlandlela wokukhumbula](/activities/reminiscence/) unemibono yokusebenzisa izithombe ngaphandle kokubuza imibuzo.
 - **Zama umsebenzi ojwayelekile abelana ngawo.** Iculo, isiphuzo noma umsebenzi ojwayelekile kungenza umzuzu ube lula. Landela impendulo yomuntu; kulungile ukushintsha isihloko noma uphele ukuvakashela.
 - **Nciphisa ukudideka ozungezwe yikho.** Hlola ukuthi igumbi linokukhanya okwanele nokuthi umuntu unezibuko zakhe noma izinsizakalo zokuzwa uma azisebenzisa. Indawo ethule ingasiza uma abantu abaningi bekhuluma.
 
@@ -83,12 +83,12 @@ Uma umuntu ehlala endaweni yokunakekelwa noma ebona abasizi abaningi, buza abant
 
 Ngaphambi kokuvakasha, nquma ukuthi yini ezokwenza isikhathi silawuleke nawe. Ungahlela umsebenzi omfushane oyodwa, ulethe i-albhamu yezithombe noma nje uhlale ndawonye. Uma umuntu engabonakali eyazi ukuthi ungubani, ungasabela esidingweni sakhe ngalesi sikhathi. Ungenzi ukuvakashela kuncike ekutheni asho igama lakho yini.
 
-Kuyanqabeka ukuzwa usizi, ukwenqatshwa noma ukuphazamiseka. Khuluma nomuntu omthembayo, umeluleki noma iqembu lokusekela abanakekeli uma lesi simo sikulimaza. I-[caregiver self-care guide](/caregiving/caregiver-self-care/) ifaka imibono yokucela abanye ukuthi bakusekele.
+Kuqondakala ukuzwa usizi, ukwenqatshwa noma ukuphazamiseka. Khuluma nomuntu omthembayo, umeluleki noma iqembu lokusekela abanakekeli uma lesi simo sikulimaza. [Umhlahlandlela wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) ufaka imibono yokucela abanye ukuthi bakusekele.
 
 ## Ngifuna usizo lwezokwelapha nini?
 
 Uma ukungaziwa kuba yisimo esisha, kwenzeka kaningi noma kubangela ukukhathazeka, tshela udokotela womuntu. Qopha lapho kwenzeka khona nokuthi yini eyayenzeka ngaleso sikhathi, njengoshintsho empilweni, ekulaleni, ekukhanyeni, ekuzweni, emithini noma endaweni. Ungamisi noma ushintshe umuthi ngokusekelwe kusihloko esijwayelekile.
 
-Ukudideka okungazelelwe noma ushintsho olungazelelwe ekuziphatheni noma empilweni kudinga usizo lwezokwelapha oluphuthumayo. I-[NHS guidance on sudden confusion](https://www.nhs.uk/symptoms/confusion/) ithi kufanele uthole usizo lwezokwelapha ngokushesha. Sebenzisa uhlelo lwezimo eziphuthumayo nezokwelapha oluphuthumayo lapho umuntu ahlala khona.
+Ukudideka okungazelelwe noma ushintsho olungazelelwe ekuziphatheni noma empilweni kudinga usizo lwezokwelapha oluphuthumayo. I-[NHS ithi ngokudideka okungazelelwe](https://www.nhs.uk/symptoms/confusion/) kufanele uthole usizo lwezokwelapha ngokushesha. Sebenzisa uhlelo lwezimo eziphuthumayo nezokwelapha oluphuthumayo lapho umuntu ahlala khona.
 
 Ukungaziwa kungaba nzima kubantu bobabili. Gcina amagama akho elula, nikeza inkomba kuphela lapho isiza, bese uvumela induduzo yomuntu ikuqondise ukuthi kuzolandela yini.

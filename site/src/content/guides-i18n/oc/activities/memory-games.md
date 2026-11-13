@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Jòcs de memòria doces per las personas amb demència"
+seoTitle: "Jòcs de memòria per la demència : idèias doças"
+description: "Jòcs d'associacion, d'imatges e de cartas per las personas amb demència, e coma los jogar sens far sentir testadas : imatges visiblas, mens de parelhs, sens punt, en equipa."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Los jòcs de memòria per las personas amb demència van melhor quand dependon
+  pas de la memòria. Jogatz d'associacions amb las imatges dobèrtas, quatre a
+  sièis cartas, en equipa e sens punt. Recnoisser una imatge es mai aisit que la
+  remembrar, donc causissètz de jòcs ont tot demòra a la vista. L'agrèment, pas
+  un resultat, es l'objectiu.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Los jòcs de memòria classics amagan las cartas, çò que testa exactament çò que la demència rend dificil. Laissatz las imatges dobèrtas."
+  - "Mens de pèças, imatges mai grandas e una causida a la fes mantenon lo jòc agradivel."
+  - "Jogatz en equipa, alternatz per ajudar e levatz lo punt. Degun deu èsser mes en pression."
+  - "Cap de jòc de memòria a pas mostrat que trata, alenteis o arrèsta la demència. Jogatz perque es un temps agradivel ensemble."
+  - "Arrestatz quand encara es divertent. Parlar de las imatges es un bon resultat."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Qual jòc de memòria es bon per una persona amb demència ?"
+    a: "Un jòc d'associacion amb de grandas imatges familiaras que pòdon demorar dobèrtas, coma [Parelhs d'imatges] a quatre o sièis cartas. Trobar lo parelh d'una imatge que vesèm es satisfasent sens testar la memòria a còrt tèrme. [Trobar lo meteis] es encara mai simple, amb una imatge a far correspondre entre dos e quatre causidas."
+  - q: "Los jòcs de memòria ajudan la demència ?"
+    a: "Cap de jòc de memòria a pas mostrat que tracte, alenteis o arrèsta la demència ; una revisa Cochrane a trobat que las probas sus l'entraïnament cognitiu informatizat son tròp febles per dire s'empacha la demència. Los jòcs pòdon restar una faiçon doça de passar temps ensemble. Causissètz-los per lo plaser e la companhia."
+  - q: "Dèu jogar a Concentration classica amb una persona amb demència ?"
+    a: "Al començament, qualques personas l'aiman encara, sobretot amb pauc de cartas. Se remembrar ont son las cartas comença de far frustracion, virar las cartas dobèrtas e trobar los parelhs ensemble. Aquò garda l'associacion e levar lo test de memòria."
+  - q: "Quins jòcs de memòria son bons per de personas grandas en grop ?"
+    a: "[Bingo d'imatges] amb un animador a l'ecran, dire ensemble de dichs familiars e las [cartas de conversa] marchan totes per de grops. Jogatz tant que cada carta es plena e evitatz d'anóncia qui a trobat la responsa, per que degun siá pas en evidéncia."
+  - q: "I a de jòcs de memòria gratuits per las personas grandas en linha ?"
+    a: "Òc. Los jòcs d'aqueste site, [Parelhs d'imatges], [Trobar lo meteis], [Parelhs de fòtos] e [Puzzle d'imatge], son gratuits, demandan pas d'inscripcion e fonccionan sus telefòn, tablèta e ordenador. Cap a pas de cronomètre ni de punt."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Quand cercatz « jòcs de memòria per las personas grandas », la màger part de çò qu'aparéis es fach per las personas que vòlon un exercici mental : cartas amagadas, cronomètres, nivèls e punts. Per una persona que viu amb la demència, aquestas caracteristicas fan d'un jòc un test de çò que es ja dur. Los memes jòcs pòdon se jogar d'una faiçon mai doça. Aquesta pagina ensenha coma far, e tria de jòcs que van ben a cada etapa.
 
-## Why do classic memory games frustrate people with dementia?
+## Perqué los jòcs de memòria classics frustran las personas amb demència ?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Perque se basan sus la capacitat de tenir d'informacions novèlas en cap, çò que es generalament lo primièr aspècte que l'Alzheimer, la causa la mai correnta de la demència, afècta. L'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dis que lo signe precòç lo mai corrent de l'Alzheimer es la dificultat de remembrar d'informacions aprenguas recentament. Dins lo Concentration classic, virèz doas cartas, remembratz ont èran e la mobilizatz un minut pus tard. Es una informacion novèla, tenguda e remembrada.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Ajustatz un cronomètre, un punt o un senhal d'error, e la persona se fa remembrar çò qu'a pas mai, davant qualqu'un qu'aima. Fòrça personas arrestan pauc a pauc de voler jogar.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Recnoisser quicòm que vesèm es una tasca diferenta, e generalament mai aisida. Desinhar la segonda tassa quand las doas son a la vista es plasent. Donc lo secret es de gardar l'associacion e de levar lo test de memòria.
 
-## How do you make a memory game gentle?
+## Cossí rendre un jòc de memòria doç ?
 
-These adjustments work for card games, board games and games on a screen.
+Aquestas adaptacions valon per los jòcs de cartas, los jòcs de taula e los jòcs sus ecran.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Laissatz las imatges dobèrtas.** Assocear d'imatges que se vesèn es un jòc vertadièr, e sovent satisfasent.
+2. **Utilizatz mens de pèças.** Comencetz amb dos o tres parelhs. N'ajustatz pas que se semblan tròp facils e qu'o vòlon.
+3. **Causissètz d'imatges grandas, familiaras e d'adults.** Una tassa, un tornesòl, una barca a vela. Pas de dessenhs animats, ni de scèna complexa.
+4. **Jogatz en equipa.** « Trobam los cans » al luòc de « Tos torns ». Alternatz per indicar e ajudar.
+5. **Levar lo punt.** Degun a besonh de guanhar. Se qualqu'un o demanda, un simple « avèm reüssit » basta.
+6. **Jamai corsa lo cronomètre.** Pas de cronomètre, e pas de precipitacion entre los torns.
+7. **Parlatz de las imatges.** « Agachatz aquela barca. Anèt jamai a la vela ? » La conversa es sovent la melhor part.
+8. **Arrestatz sus una bona nòta.** Acabatz aprèp un parelh, pendent que encara es agradivel.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Lo [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) balha lo meteis esperit coma consèl general : adaptar l'activitat a çò que la persona pòt far, observar la frustracion e i assegurar que se sente capabla.
 
-## Gentle memory and matching games to try
+## Jòcs de memòria e d'associacion doç per ensajar
 
-### Picture pairs (matching with pictures showing)
+### Parelhs d'imatges (associacion amb las imatges visiblas)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Parelhs d'imatges](/games/picture-pairs/) es un jòc d'associacion amb grandas imatges e 4 a 12 cartas. Las imatges pòdon demorar visiblas, donc es de trobar los parelhs, pas de remembrar ont èran. Comencetz amb quatre cartas. Per una persona en etapa precòcia que aima un pauc mai de defís, podètz passar al mòde **Imatges amagadas**, mas tornatz als imatges visiblas lèu com aquò cessa d'èsser divertent.
 
-### Find the same
+### Trobar lo meteis
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Trobar lo meteis](/games/find-the-same/) mòstra una imatge en naut e de dos a quatre causidas embàs. Tocatz aquela que correspond. Es lo jòc d'associacion lo mai simple del site e convén a las personas que trobon una grasilha pleina tròp ocupada, incluent fòrça personas en etapa tardiva amb quaucun a costat.
 
-### Photo pairs (family photo memory game)
+### Parelhs de fòtos (jòc de memòria de fòtos de familha)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Parelhs de fòtos](/games/photo-pairs/) transforma las fòtos que triatz en un jòc d'associacion : lo can, lo jardin, la maison del lac. Los visatges e los lòcs familiars fan sovent mai de conversa qu'una imatge estocada. Las fòtos demoran dins vòstre navigador e son jamai enviadas.
 
-### Sort together
+### Triar ensemble
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Triar ensemble](/games/sort-together/) vos demanda de metre cada imatge dins lo panièr que li correspond, coma la cosina o lo jardin. Triar fa apèl a de coneissença de lonc tèrme sus cossí va lo mond, pas a la memòria a còrt tèrme.
 
-### Picture puzzle
+### Puzzle d'imatge
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Puzzle d'imatge](/games/picture-puzzle/) talha una imatge en 4 o 9 pèças. Tocatz doas pèças per las cambiar fins que l'imatge siá completa. L'imatge complèta demòra a l'ecran coma guida.
 
-### Real cards on the table
+### Cartas reialas sus la taula
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Avètz pas besonh d'ecran. Tiratz de parelhs de dos jòcs de cartas o d'un jòc de cartas imatgèsas. Estendètz-las a la vista sus dos rengs e trobatz los parelhs ensemble. Mai tard, triatz per color o per pal. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) menciona los jòcs de cartas e de taula entre las activitats de l'etapa precòcia.
 
-## Which memory games suit each stage?
+## Quins jòcs de memòria convenon a cada etapa ?
 
-Stages are loose labels. Go by what the person enjoys today.
+Las etapas son etiquetas lòsas. Guidatz-vos segon çò que la persona aima uèi.
 
-| Stage | Games that often fit | How to set them up |
+| Etapa | Jòcs que convenon sovent | Cossí los mestre en plaça |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Precòcia | Parelhs d'imatges, Parelhs de fòtos, Puzzle d'imatge amb 9 pèças, vièlhs jòcs de cartas | Laissatz-la causir. Las cartas pòdon se virar se o aiman ; levatz lo punt se la preocupa |
+| Mejana | Parelhs d'imatges amb 4 a 6 cartas dobèrtas, Trobar lo meteis, Triar ensemble | Imatges totjorn visiblas. Seiatz-vos a costat e alternatz per ajudar |
+| Tardiva | Trobar lo meteis amb dos causidas, agachar ensemble una imatge grand | Tràs corta. Vos tenètz la tablèta ; ela indica, o agacha e escota |
 
-## Do memory games help with dementia?
+## Los jòcs de memòria ajudan la demència ?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Cap de jòc de memòria a pas mostrat que tracte, alenteis o arrèsta la demència. Una [revisa Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) de l'entraïnament cognitiu informatizat per las personas amb un deficit cognitiu leugièr a trobat las probas tròp febles per dire s'empacha la demència. Nòstra guida sus [los jòcs de cervèl e la demència](/brain-health/brain-games/) explica çò que los estudis mostran e çò que mostran pas.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Aquò es pas una rason de se privar dels jòcs. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) conselha de se concentrar sus lo plaser, pas sus la reüssita. Detz minutas d'imatges d'associacion e de parlar d'elas pòdon èsser una bona part de la jornada.
 
-## What about memory games for seniors without dementia?
+## E per las personas grandas sens demència ?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Se un adult ancian sens problèmas de memòria aima los jòcs cronometrats, los punts e los nivèls mai alts, i a pas res de mal. Comptatz pas sus aquò per se protegir de la demència ; cap de jòc a pas mostrat que o fasa. Las versions doças mai amont tanben marchan ben quand las generacions jògan ensemble : una granda-maire amb demència e un pichon nèt pòdon associar las imatges en equipa, sens que degun siá testat.
 
-## When should you stop or change the game?
+## Quand arrestar o cambiar lo jòc ?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Los sospirs, lo repossar de la tablèta, dire « posi pas far aquò » o aver l'aire anguissós son de signes per o far mai aisit o arrestar. Ensajatz mens de cartas, virar las imatges dobèrtas, passar a [Trobar lo meteis](/games/find-the-same/), o simplament agachar las imatges e parlar. Se volon pas jogar del tot, es tanben correcte. Nòstra guida [jogar ensemble](/caregiving/how-to-play-together/) a mai sus lo ritme e l'ajuda.

@@ -44,7 +44,7 @@ health: true
 
 Isimangalo sokuthi uthathe ikhwelo, uhlele into yemali noma uguqule imininingwane yebhange singaba buhlungu. Umuntu onedementia angalahla into, akhohlwe lapho ayibeke khona noma aqonde kabi okwenzeke. Kodwa i-dementia ayikhombisi ukuthi isimangalo sinamanga. Qala ngokulalela nangokuhlola izimo.
 
-I-[Alzheimer's Association inikeza umhlahlandlela wokungethembi nemibono eyiphutha](https://www.alz.org/help-support/caregiving/stages-behaviors/suspicions-delusions) ecebisa ukuhlala uzolile, ukunikeza impendulo emfushane nokugwema ukuphikisana. I-[Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) futhi ikhuthaza ukuphenya ukukhathazeka kunokuyilahla ngoba umuntu unedementia. Leli khasi linikeza imibono jikelele yokuxhumana, hhayi indlela yokunquma ukuthi isimangalo esithile siyiqiniso yini. Ngeziqondiso ezihlukile zokubona noma ukuzwa izinto abanye abangazibonile, bheka i-[hallucinations and dementia guide](/caregiving/hallucinations-with-dementia/).
+I-[Alzheimer's Association inikeza umhlahlandlela wokungethembi nemibono eyiphutha](https://www.alz.org/help-support/caregiving/stages-behaviors/suspicions-delusions) ecebisa ukuhlala uzolile, ukunikeza impendulo emfushane nokugwema ukuphikisana. I-[Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) futhi ikhuthaza ukuphenya ukukhathazeka kunokuyilahla ngoba umuntu unedementia. Leli khasi linikeza imibono jikelele yokuxhumana, hhayi indlela yokunquma ukuthi isimangalo esithile siyiqiniso yini. Ngeziqondiso ezihlukile zokubona noma ukuzwa izinto abanye abangazibonile, bheka [umhlahlandlela wokubona nokuzwa izinto](/caregiving/hallucinations-with-dementia/).
 
 ## Yini ngingayisho uma umuntu enokungethembi?
 
@@ -62,11 +62,11 @@ Isimangalo singazwakala sengathi sisondela kakhulu kuwe. Zama ukwahlula ukwesaba
 
 Yebo. Qala ngokuhlola ukuthi into ngempela ishoweke yini. Umuntu angase ayibeke endaweni engavamile, omunye umuntu angase ayihambise noma into ingase ibe yithathwe. Ungayilahli imbiko yokweba, ukunakekelwa kabi noma ukuhlukumezeka ngoba umuntu unedementia.
 
-Ngento eshoweke ebekwe kabi, sesha ndawonye uma umuntu efuna. Hlola izindawo ajwayele ukugcina kuzo bese uhlola kabusha imikhuba yakamuva. Uma into ibaluleke kakhulu, ibalulekile ekuphepheni noma isashoweke, tshela umuntu okwaziyo ngokwenzeka bese ubandakanya ochwepheshe abathembekile noma elinye ilungu lomndeni.
+Ngento eshoweke ebekwe kabi, sesha ndawonye uma umuntu efuna. Hlola izindawo ajwayele ukugcina kuzo bese uhlola kabusha imikhuba yakamuva. Uma into ibaluleke kakhulu, ibalulekile ekuphepheni noma isashoweka, tshela umuntu okwaziyo ngokwenzeka bese ubandakanya ochwepheshe abathembekile noma elinye ilungu lomndeni.
 
 Uma imali noma imisebenzi yasekhaya yabelwana, sebenzisa amarekhodi acacile umuntu awamukelayo. Gcina izikhumbuzo noma amanothi wokuthengiswa okuvunyelwene ngakho bese uyachaza ngamagama alula. Buza umsebenzi osemthethweni wendawo mayelana nezinhlelo zezezimali noma ezomthetho; lesi sihloko asikwazi ukuhlola lezi zindaba.
 
-Uma ungaqiniseki ukuthi ukukhathazeka kulungile yini, cela umuntu ongakhethile ukuthi asize ahlole. Khetha umuntu umuntu ayethembayo bese wabelana kuphela ngolwazi oludingekayo ukuze kuqondwe okwenzekile.
+Uma ungaqiniseki ukuthi ukukhathazeka kulungile yini, cela umuntu ongakhethile ukuthi asize ahlole. Khetha umuntu othembekile kumuntu bese wabelana kuphela ngolwazi oludingekayo ukuze kuqondwe okwenzekile.
 
 ## Izinkambo ezijwayelekile zingasiza kanjani ngezinto ezilahlekile?
 
@@ -80,12 +80,12 @@ Qiniseka ukuthi umuntu uyakwazi ukubona nokuzwa ngokunethezeka ngangokunokwenzek
 
 Tshela udokotela womuntu uma ukungethembi kuba yinto entsha, kukhuphuka noma kubangela ukukhathazeka. Qopha lapho kwenzeka khona nokuthi yini eyayenzeka ngaleso sikhathi, nokuthi ngabe kukhona okushintshile empilweni, emkhubeni, endaweni noma emithini. Ungaqali, unqamule noma ushintshe umuthi ngokusekelwe kusihloko esijwayelekile.
 
-Ukudideka okungazelelwe noma ushintsho olungazelelwe ekuziphatheni noma empilweni kudinga usizo lwezokwelapha oluphuthumayo. I-[NHS guidance on sudden confusion](https://www.nhs.uk/symptoms/confusion/) ithi kufanele uthole usizo lwezokwelapha ngokushesha. Sebenzisa uhlelo lwezimo eziphuthumayo nezokwelapha oluphuthumayo lapho umuntu ahlala khona.
+Ukudideka okungazelelwe noma ushintsho olungazelelwe ekuziphatheni noma empilweni kudinga usizo lwezokwelapha oluphuthumayo. I-[NHS ithi ngokudideka okungazelelwe](https://www.nhs.uk/symptoms/confusion/) kufanele uthole usizo lwezokwelapha ngokushesha. Sebenzisa uhlelo lwezimo eziphuthumayo nezokwelapha oluphuthumayo lapho umuntu ahlala khona.
 
 Uma isimangalo singabandakanya ukweba, ukunakekelwa kabi noma ukuhlukumezeka, qiniseka ukuthi umuntu uphephile bese ufuna iseluleko kochwepheshe abathembekile bendawo noma isevisi yokuvikela abadala yasendaweni. Uma kukhona umuntu oseyingozini esheshayo, xhumana nezinsiza zezimo eziphuthumayo zendawo. Ungaphenyi udaba olunzima wedwa uma lokho kungabeka wena noma umuntu engozini.
 
 ## Ngingazinakekela kanjani?
 
-Izimangalo eziphindaphindayo zingacindezela ubudlelwano. Khuluma nomuntu omthembayo noma umeluleki, bese ucela usizo emisebenzini yokunakekela uma uzizwa ulemukile. I-[family disagreement guide](/caregiving/family-disagreements-about-dementia-care/) ichaza indlela yokwabelana ngemithwalo, kanti i-[caregiver self-care guide](/caregiving/caregiver-self-care/) ihlanganisa ukuphumula nosizo.
+Izimangalo eziphindaphindayo zingacindezela ubudlelwano. Khuluma nomuntu omthembayo noma umeluleki, bese ucela usizo emisebenzini yokunakekela uma uzizwa ulemukile. [Umhlahlandlela wokuxazulula ukungezwani komndeni](/caregiving/family-disagreements-about-dementia-care/) uchaza indlela yokwabelana ngemithwalo, kanti [umhlahlandlela wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) uhlanganisa ukuphumula nosizo.
 
 Gcina ukugxila ezintweni ezingahlolwa, endleleni umuntu azizwa ngayo nasekusizeni okudingekayo. Akudingeki ukufakazela ukunakekela kwakho kuyo yonke ingxoxo. Uma ukukhathazeka kubuya njalo, cela umuntu wokunakekela ukuthi akusize uthole indlela ehlonipha umuntu futhi evikela bonke abahileliwe.
