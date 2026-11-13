@@ -984,6 +984,36 @@
         "reviewer": null,
         "evidence": null,
         "date": null
+      },
+      "hy": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "is": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ka": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "kk": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "mk": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
       }
     }
   }

@@ -100,6 +100,11 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'cy': ((), ()),
     'eo': ((), ()),
     'eu': ((), ('eu',)),
+    'hy': ((), ('hy-AM',)),
+    'is': ((), ('is-IS',)),
+    'ka': ((), ('ka-GE',)),
+    'kk': ((), ('kk',)),
+    'mk': ((), ('mk-MK',)),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

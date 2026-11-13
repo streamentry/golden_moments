@@ -65,6 +65,11 @@ const _appLocales = {
   'cy',
   'eo',
   'eu',
+  'hy',
+  'is',
+  'ka',
+  'kk',
+  'mk',
 };
 const _baseFallbacks = {'pt', 'zh'};
 
@@ -219,7 +224,7 @@ void main() {
         pick([const Locale('ga'), const Locale('es')]),
         const Locale('es'),
       );
-      expect(pick([const Locale('ka')]), const Locale('en'));
+      expect(pick([const Locale('ie')]), const Locale('en'));
       expect(pick([]), const Locale('en'));
     });
   });
