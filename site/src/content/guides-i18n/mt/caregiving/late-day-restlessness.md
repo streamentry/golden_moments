@@ -119,7 +119,7 @@ Evita logħbiet ġodda, ħrġiet kbar u kull ħaġa li titlob ħafna memorja jew
 
 Ibqa' kalm, irassura u erġa' ddirrieġi b'mod ġentili. In-NIA jissuġġerixxi li titkellem b'kalma, tisma' t-tħassib tal-persuna, tevita argumenti, tgħidilha li hija sigura, u tuża tmiss ġentili jekk jgħin. Imbagħad ipprova distrazzjoni: spuntin, xorb, mużika jew mixja.
 
-L-Alzheimer's Association jissuġġerixxi frażijiet bħal «Inti sigur hawn» u «Jiddispjacini li inti inkwetat», u jirrakkomanda li wieħed iżid id-dawl, jirrilassa l-pass u jnaqqas l-istimolu. Tagħlaqx lill-persuna f'kantuniera, tagħfasx fuqha, ma tżommhiex bil-forza, u lanqas targumenta magħha.
+L-Alzheimer's Association jissuġġerixxi frażijiet bħal «Int sigur hawn» u «Jiddispjaċini li int inkwetat», u jirrakkomanda li wieħed iżid id-dawl, jirrilassa l-pass u jnaqqas l-istimolu. Tagħlaqx lill-persuna f'kantuniera, tagħfasx fuqha, ma tżommhiex bil-forza, u lanqas targumenta magħha.
 
 Jekk il-persuna ssir aggressiva, in-NIA jagħti parir li tibqa' f'distanza sigura sakemm l-imġieba tieqaf. F'emerġenza, ċempel in-numru tal-emerġenza lokali tiegħek u spjega li l-persuna għandha demenzja. Il-gwida tagħna dwar [kif twieġeb għar-rabja u l-aggressjoni](/caregiving/when-anger-becomes-aggression-with-dementia/) tkopri s-sigurtà immedjata u x'għandek tagħmel wara.
 
