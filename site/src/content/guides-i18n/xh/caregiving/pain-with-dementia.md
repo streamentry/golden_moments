@@ -72,7 +72,7 @@ Qhagamshelana nengcali yezempilo uze uchaze oko kutshintshileyo. Intlungu inokub
 
 Musa ukuqala iyeza lentlungu, ukutshintsha umthamo okanye ukuyeka elinye iyeza ngokwewebhusayithi. Amanye amayeza anokuxubana okanye abengakhuselekanga kumntu onemeko ethile yempilo. Landela icebo lokhathalelo lomntu uze ubuze ugqirha obhale iyeza okanye ugqirha wamayeza xa kukho into engacacanga.
 
-Ungancitshisa uxinzelelo ngoko nangoko ngoxa ufuna icebiso. Buza ukuba yintoni eya kumenza akhululeke ngakumbi, vumela umntu aphumle uze ungaNyanzeli ukushukuma okanye umsebenzi owenzakalisayo. Buza ingcali yezempilo phambi kokusebenzisa ubushushu, umkhenkce, ukuxovula okanye elinye unyango ukuba awuqinisekanga ukuba kukhuselekile.
+Ungancitshisa uxinzelelo ngoko nangoko ngoxa ufuna icebiso. Buza ukuba yintoni eya kumenza akhululeke ngakumbi, vumela umntu aphumle uze ungamnyanzeli ukushukuma okanye umsebenzi owenzakalisayo. Buza ingcali yezempilo phambi kokusebenzisa ubushushu, umkhenkce, ukuxovula okanye elinye unyango ukuba awuqinisekanga ukuba kukhuselekile.
 
 ## Ingaba utshintsho lokuziphatha lunokubangelwa yenye into?
 

@@ -84,7 +84,7 @@ Her ideýa kynlaşsa, ony nädip ýönekeýleşdirmelidigini öz içine alýar.
 7. **Açyk hat ýasamak.** Alzheimer's Association muny hakyky iş hökmünde hödürlemegi maslahat berýär: “Dosta ýagşylyk arzuw açyk haty iberýäris. Kömek edersiňmi?” Öňünden kesilen karton we birnäçe gül ýa-da marka stikerleri gowy işleýär.
 8. **Albom ýasamak.** Köne suratlaryň, açyk hatlaryň ýa-da bilet galyndylarynyň nusgalaryny albom sahypalaryna bilelikde goýuň. Ýöräp barýarkaňyz her biri hakda gürleşiň. Geçmiş hakda mylaýym gürleşmegiň ýollary üçin biziň [ýatlama gollanmamyza](/activities/reminiscence/) serediň.
 9. **Mata we dokunma tagtalary.** Dükdürgi, barhyt, çuwal we ýüpek mata böleklerini gaty kartona ýelimläň. Ony ýasamak bir işjeňlik, soň oňa degmek başga işjeňlik. Has köp ideýa biziň [duýgy işjeňlikleri gollanmamyzda](/activities/sensory/).
-10. **Ýönekeý agaç işi.** Agaç işini söýen adam üçin tekiz agaç bölegini ýylmak ýa-da guş öýi toplumyny reňklemek tanyş duýulyp biler. Ýtitle gurallary aýyryň we gözegçilik ediň.
+10. **Ýönekeý agaç işi.** Agaç işini söýen adam üçin tekiz agaç bölegini ýylmak ýa-da guş öýi toplumyny reňklemek tanyş duýulyp biler. Ýiti gurallary aýyryň we gözegçilik ediň.
 11. **Aýdym-saz bilen surat çekmek.** Halaýan plastinkany goýuň we keýpe laýyk şekilleri ýa-da reňkleri çekiň. Bu köp adamyň ýaraýan iki işjeňligini birleşdirýär. [Aýdym-saz işjeňliklerine](/activities/music/) serediň.
 
 ## Sungat sessiýasyny nädip taýýarlamaly?

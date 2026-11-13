@@ -1,7 +1,7 @@
 ---
 title: "Uncedo Lokuya Ngasese Nokungabambi Ngamanzi Kwabantu Abane-Dementia"
 seoTitle: "Dementia Nokungabambi: Inkxaso Yabanyamekeli"
-description: "Xhasa utyelelo lwangasese ngemfihlo, inkqubo eqhelekileyo nezikhumbuzo ezilula. Buza ngeengxaki ezintsha, ungabeki umkhawulo kwiziselo ngaphandle kwecebiso."
+description: "Xhasa utyelelo lwangasese ngemfihlo, inkqubo eqhelekileyo nezikhumbuzo ezilula. Buza ngeengxaki ezintsha, ungabeki umkhawulo kweziselo."
 section: caregiving
 order: 18
 updated: 2026-11-11

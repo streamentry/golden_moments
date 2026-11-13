@@ -78,7 +78,7 @@ Has erbet netije berýän zatlar: sagat bar bolan her hili zat, öwrenmeli täze
 
 ## Alsgeýmeriň ilkinji tapgyry üçin işjeňlikler
 
-Ilkinji tapgyrda [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) adamyň henizem ulag sürüp, işläp we jemgyýetçilik işjeňliklerine gatnaşyp bilýändigini, emma meşhur sözleri ýa-da zatlaryň ýerini ýatdan çykarmak ýaly ýatlama kemçiliklerini duýýandygyny aýdýar. Iň gowy usul hyzmatdaşlykdyr: näme etmegi dowam etdirmek isleýändigini we haýsy ýardamy isleýändigini sorap görüň.
+Ilkinji tapgyrda [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) adamyň henizem ulag sürüp, işläp we jemgyýetçilik işjeňliklerine gatnaşyp bilýändigini, emma tanyş sözleri ýa-da zatlaryň ýerini ýatdan çykarmak ýaly ýatlama kemçiliklerini duýýandygyny aýdýar. Iň gowy usul hyzmatdaşlykdyr: näme etmegi dowam etdirmek isleýändigini we haýsy ýardamy isleýändigini sorap görüň.
 
 1. **Bar bolan hobbilerini dowam etdiriň.** Golf, bridž, ýorgan tikmek, hor we ybadathana toparlary, diňe kiçi toparlar we sakyn wagtlar ýaly kiçi sazlamalar bilen.
 2. **Tanyş kartoçka we stol oýunlaryny oýnaň.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ilkinji tapgyr üçin wiktorinalary, söz gözlegini, kartoçka oýunlaryny we stol oýunlaryny sanap geçýär. Hasap saklamak adamy biynjalyk edip başlasa, topar bolup oýnaň ýa-da hasaby bütinleý aýyryň.

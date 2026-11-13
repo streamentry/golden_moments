@@ -1,7 +1,7 @@
 ---
 title: "Ukuthetha Nabantwana Ngedementia"
 seoTitle: "Ungathetha Njani Nabantwana Ngedementia"
-description: "Chazela umntwana ngedementia ngeempendulo eziyinyaniso ezilingene nobudala. Khusela inkqubo yakhe nemfihlo, wamkele imibuzo, ushiye ukhathalelo kubantu abadala."
+description: "Chazela umntwana ngedementia ngeempendulo eziyinyaniso ezilingene nobudala. Khusela inkqubo yakhe nemfihlo, wamkele imibuzo yakhe."
 section: caregiving
 order: 29
 updated: 2026-11-11
