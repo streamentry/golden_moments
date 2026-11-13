@@ -58,7 +58,7 @@ Demanda al medico o pharmacista verificar interactiones possibile quando un nove
 
 Un calendario, un tabella scripte o un organisator de pilulas pote adjutar alcun personas. Le instrumento juste depende de medicamentos e capacitates del persona. Demanda al pharmacista si un organisator de pilulas es appropriate ante de transferer medicamento ex su emballage original. Alcun medicamentos require manipulation o conservation special.
 
-Convenir qui va plenar o verificar le organisator e como evitar dosas omittite o duplicate. Si plure personas adjuta, usa un sol methodo condivise pro registrar que ha essite date. Si le persona vole gerer le organisator per se mesme, demanda al pharmacista como render isto secur e practic.
+Convenir qui va plenar o verificar le organisator e como evitar doses omittite o duplicate. Si plure personas adjuta, usa un sol methodo condivise pro registrar que ha essite date. Si le persona vole gerer le organisator per se mesme, demanda al pharmacista como render isto secur e practic.
 
 Si un dose es omittite, consulta le instructiones scripte de iste medicamento o telephona al pharmacista ante de decider que facer. Non suppone e non duplica un dose basate super un guida general.
 

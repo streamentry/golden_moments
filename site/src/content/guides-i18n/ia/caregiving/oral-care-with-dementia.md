@@ -40,13 +40,13 @@ Le [guida de Alzheimer's Association super cura dental](https://www.alz.org/help
 
 ## Como pote io mantener le cura quotidian familiar?
 
-Usa le tempore e le loco usual del persona, si illos functiona ancora. Pone le brossa de dentes, le pasta de dentes e le tovalia li ubi le persona los expecta. Explica lo que tu face ante de comenciar, pois offere un signal simple a la vice. “Prende le brossa de dentes” es plus facile a sequer que un longe serie de instructiones.
+Usa le tempore e le loco usual del persona, si illos functiona ancora. Pone le brossa de dentes, le pasta de dentes e le tovalia ubi le persona los expecta. Explica lo que tu face ante de comenciar, pois offere un signal simple a la vice. “Prende le brossa de dentes” es plus facile a sequer que un longe serie de instructiones.
 
 Da al persona tempore pro facer cata passo. Si illa pote brossar per se mesme, lassa lo facer. Si un recordatorio es sufficiente, attende ante de offerer plus adjuta. Alcun personas trova plus facile brossar se a un lavabo, o usar un brossa con manico que illes pote tener comfortabilemente. Demanda al dentista super optiones si le brossa usual es difficile a usar.
 
 Non transforma le brossar in un test o un competition. Si le persona dice non, se retira o deveni turbate, pausa. Tenta de novo plus tarde, cambia le contexto o demanda al dentista consilio. Non força un brossa in le bucca de un persona, nec tene le capite fixe pro finir le labor.
 
-Si un routina que functionava ante deveni difficile, nota qual passo es difficile. Le persona pote non saper que facer con le brossa, pote non apprecia un nove pasta de dentes, pote esser fatigate o pote haber incomoditate in le bucca. Istes es possibilitates, non un diagnosis. Un breve nota super quando le difficultate occurre pote adjutar le dentista a discutir passos sequente. Cambia un parte del routina a la vice, pro que sia clar quo le persona prefere.
+Si un routina que functionava ante deveni difficile, nota qual passo es difficile. Le persona pote non saper que facer con le brossa, pote non apprecia un nove pasta de dentes, pote esser fatigate o pote haber incomoditate in le bucca. Illos es possibilitates, non un diagnosis. Un breve nota super quando le difficultate occurre pote adjutar le dentista a discutir passos sequente. Cambia un parte del routina a la vice, pro que sia clar que le persona prefere.
 
 ## Como pote io adjutar protegente le privacitate?
 

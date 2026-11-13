@@ -53,7 +53,7 @@ Pone un sol question, pois pausa. Le persona pote indicar, facer gestos o usar u
 
 Observa cambiamentos del expression, movimento e routina usual del persona. Illa pote grimacar, frunciar le fronte, plorar, gemer, proteger un parte del corpore, mover se minus, dormir differentemente o perder interesse in le manjar. Illa pote etiam devenir insolitamente silente, frustrate o agitate.
 
-Nulle de iste signos prova que le persona ha dolor. Illos pote haber multe causas. Un cambiamento como refusar un repasto pote esser relationate con dolor in le bucca, ma pote etiam haber un altere explication. Condivide lo que tu vide con un medico o un infermero, e lassa les evaluar le causa.
+Nulle de iste signos prova que le persona ha dolor. Illos pote haber multe causas. Un cambiamento como refusar un repasto pote esser relationate con dolor in le bucca, ma pote etiam haber un altere explication. Condivide lo que tu vide con un medico o un infermero, e lassa illos evaluar le causa.
 
 ## Como pote io describer lo que io ha notate?
 
