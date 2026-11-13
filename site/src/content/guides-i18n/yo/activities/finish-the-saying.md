@@ -1,7 +1,7 @@
 ---
 title: "Eré Parí Òwe fún Àwọn Àgbàlagbà Tó Ní Dementia"
 seoTitle: "Eré Parí Òwe fún Àwọn Àgbàlagbà Tó Ní Dementia"
-description: "Eré parí òwe fún àwọn àgbàlagbà tó ní dementia: bí a ṣe ń ṣe é pẹ̀lú òwe tí wọ́n mọ̀, fífúnni ní yíyàn, láìsí ìdánwò, àti bí a ṣe ń sọ̀rọ̀ lórí ìdáhùn."
+description: "Eré parí òwe fún àwọn àgbàlagbà tó ní dementia: bí a ṣe ń ṣe é pẹ̀lú òwe tí wọ́n mọ̀, fífúnni ní yíyàn, láìsí ìdánwò, àti ìjíròrò lórí ìdáhùn."
 section: activities
 order: 23
 updated: 2026-11-08
