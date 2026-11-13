@@ -83,7 +83,7 @@ Para sa malaking pagtitipon, gaya ng konsiyerto tuwing kapaskuhan, iupo ang staf
 
 ### Bingo ng larawan
 
-Pinapalitan ng bingo ng larawan ang mga numero ng malinaw na larawan, gaya ng teapot, aso o rosas, para walang kailangang sundan na mahabang numero o basahin na maliit na print.
+Pinapalitan ng bingo ng larawan ang mga numero ng malinaw na larawan, gaya ng tsarera, aso o rosas, para walang kailangang sundan na mahabang numero o basahin na maliit na print.
 
 **Paano ito patakbuhin:**
 

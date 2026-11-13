@@ -54,7 +54,7 @@ Ang aktibidad sa sining na pang-adulto ay gumagamit ng totoong materyales, mga p
 | --- | --- |
 | Kislap, foam na sticker, pandikit na mata | Watercolor paper, tela, pinatuyong bulaklak |
 | Cartoon na pahinang kukulayan | Pahinang kukulayan ng hardin, kumot, kotse o tanawin |
-| Papuring "Ang galing!" sa bawat guhit | Totoong usapan: "Bagay na bagay ang asul na iyan sa berde" |
+| Papuring "Ang galing." sa bawat guhit | Totoong usapan: "Bagay na bagay ang asul na iyan sa berde" |
 | Gawaing walang silbi | Kard para sa kaibigan, palamuti sa mesa, regalo |
 | Mga tagubiling parang aralin | Isang paanyaya: "Puwede mo ba akong tulungan dito?" |
 
