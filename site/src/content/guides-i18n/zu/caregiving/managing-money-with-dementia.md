@@ -69,7 +69,7 @@ Buza umuntu ukuthi ufuna usizo ngiphi umsebenzi wezimali. Angase afune ukubheka 
 - **Buza ibhange ngezinketho zalo.** Lingase linikeze izindlela zokwenza izinkokhelo noma zokuhlola umsebenzi kube lula. Buza ukuthi yiyiphi inketho ngayinye ivumela ngaphambi kokushintsha i-akhawunti.
 - **Hlola futhi kamuva.** Izintandokazi zomuntu zingashintsha. Gcina usizo lukhawulelwe kokufunayo nokudingayo manje.
 
-I-CFPB ichaza usizo olungokwesiko njengokubuyekeza amabhili nokuhlela isabelomali nomuntu ngenkathi lowo muntu esagunyaza izimali. Lokho kungahluka ekuvumeleni omunye umuntu ukuthi athathe imali noma enze izinkokhelo. Ungabelani amaphasiwedi, ama-PIN noma amakhodi okuphepha angasetshenziswa kanye kanye njengendlela emfushane.
+I-CFPB ichaza usizo olungokwesiko njengokubuyekeza amabhili nokuhlela imali nomuntu ngenkathi lowo muntu esagunyaza izimali. Lokho kungahluka ekuvumeleni omunye umuntu ukuthi athathe imali noma enze izinkokhelo. Ungabelani amaphasiwedi, ama-PIN noma amakhodi okuphepha angasetshenziswa kanye kanye njengendlela emfushane.
 
 ## Yini ukuthi umuntu othembekile akuvumele ukuyenza?
 
@@ -87,7 +87,7 @@ Ngaphambi kokushintsha ukufinyelela ku-akhawunti noma ukuba umnikazi wayo, buza 
 
 Isikweletu esiphuthelwe noma ukuthenga okungajwayelekile kungaba nezincazelo ezahlukene. Akukhombisi ukuthi umuntu akakwazi ukuphatha imali noma ukuthi ukhohliswe. Buza ukuthi kwenzekeni futhi, uma umuntu evumelana, bhekani isitatimende noma isikweletu esihlobene ndawonye.
 
-I-[CFPB ihlu izimpawu ezingaba khona zokuxhashazwa ngezimali](https://www.consumerfinance.gov/ask-cfpb/how-can-i-tell-if-a-friend-neighbor-or-family-member-is-a-victim-of-financial-exploitation-en-1933/), kufaka phakathi imali noma impahla enyamalala, ukuhoshwa okungajwayelekile kwemali, izikweletu ezingakhokhiwe, abantu abangaziwa abengezwa kuma-akhawunti, noma umuntu olinganisela izingcingo nezindwendwe zomuntu. Qaphela izinkombandlela nezinguquko ezihlukile kulokho okuvamile kulowo muntu; ungathathi isimpawu esisodwa njengobufakazi.
+I-[CFPB ichaza izimpawu ezingaba khona zokuxhashazwa ngezimali](https://www.consumerfinance.gov/ask-cfpb/how-can-i-tell-if-a-friend-neighbor-or-family-member-is-a-victim-of-financial-exploitation-en-1933/), kufaka phakathi imali noma impahla enyamalala, ukuhoshwa okungajwayelekile kwemali, izikweletu ezingakhokhiwe, abantu abangaziwa abengezwa kuma-akhawunti, noma umuntu olinganisela izingcingo nezindwendwe zomuntu. Qaphela iphethini nezinguquko ezihluka kulokho okuvamile kulowo muntu; ungathathi isimpawu esisodwa njengobufakazi.
 
 Uma umuntu ethi imali ilahlekile, thatha ukukhathazeka ngokungathi sína. [Umhlahlandlela wethu wokuphendula ukusolwa](/caregiving/when-someone-with-dementia-is-suspicious/) unikeza izindlela zokuhlola ukukhathazeka ngaphandle kokukudela. Buza umuntu ngasese ukuthi wakubona yini nokuthi ufuna kwenzeke yini okulandelayo. Gwema ukusola umndeni, umnakekeli noma osebenza ebhange ngaphambi kokuhlola izimo. Uma usola ukuthi umsizi othembekile angaba nesandla kulokho, cela iseluleko kochwepheshe ohlukile noma kwisevisi yasendaweni.
 
@@ -106,7 +106,7 @@ Xhumana nebhange, inkampani yekhadi, umhlinzeki wesikweletu noma inkampani esets
 
 Gcina imilayezo, amarisidi, izinsuku nezaziso ze-akhawunti. Ku-United States, ungabika ukukhwabanisa ku-[FTC](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed). Uma usola ukuthi umuntu uxhashazela umuntu omdala, i-[Administration for Community Living](https://acl.gov/programs/protection-and-advocacy-systems/what-if-i-suspect-abuse-neglect-or-exploitation) ithi xhumana ne-Adult Protective Services esifundazweni somuntu. Uma kukhona ingozi esheshayo kumuntu, xhumana namasevisi ezimo eziphuthumayo asendaweni. Ngaphandle kwe-United States, sebenzisa amasevisi asendaweni okuvikela abathengi nokuphepha.
 
-Khuluma ngaphandle kokusola. Ukukhwabanisa kuklelwe ukudukisa abantu. I-[CFPB's guide to scam and fraud help](https://www.consumerfinance.gov/ask-cfpb/who-do-i-contact-for-help-with-a-scam-or-fraud-en-1777/) ihlu izindlela zokubika e-U.S. futhi icebisa ukusebenzisa amawebhusayithi nezinombolo zocingo ezithembekile.
+Khuluma ngaphandle kokusola. Ukukhwabanisa kuklelwe ukudukisa abantu. I-[CFPB's guide to scam and fraud help](https://www.consumerfinance.gov/ask-cfpb/who-do-i-contact-for-help-with-a-scam-or-fraud-en-1777/) ichaza izindlela zokubika e-U.S. futhi icebisa ukusebenzisa amawebhusayithi nezinombolo zocingo ezithembekile.
 
 ## Ngingathola kuphi usizo ngesinqumo esithile sezezimali?
 
