@@ -73,7 +73,7 @@ I-[Alzheimer's Society incoma ukubheka amaphethini nokucabanga ukuthi isimo sizw
 
 ## Ngingakunciphisa kanjani ukuphinda kwesehlakalo?
 
-Sebenzisa lokho owubonile ukulungisa ukuxhumana okulandelayo. Lokhu kungasiza, kodwa akukwazi ukuqinisekisa ukuthi ukuziphatha kwesi-sine ngeke kuphinde. Zama ukushintsha okukodwa ngesikhathi ukuze kube lula ukubona ukuthi umuntu uzizwa ekhululekile yini.
+Sebenzisa lokho owubonile ukulungisa ukuxhumana okulandelayo. Lokhu kungasiza, kodwa akukwazi ukuqinisekisa ukuthi ukuziphatha kwalo ngeke kuphinde. Zama ukushintsha okukodwa ngesikhathi ukuze kube lula ukubona ukuthi umuntu uzizwa ekhululekile yini.
 
 - **Khetha isikhathi esithulile.** Uma umsebenzi ujwayelekile ukuhamba kabi lapho umuntu ekhathele, buza ukuthi isikhathi esihlukile asiphumelela kangcono yini.
 - **Yenza isimo sibe lula.** Vala umsindo ongemuva, nciphisa inani labantu egumbini bese uqoqa lokho okudingayo ngaphambi kokuqala.
@@ -81,7 +81,7 @@ Sebenzisa lokho owubonile ukulungisa ukuxhumana okulandelayo. Lokhu kungasiza, k
 - **Ima uma kuba khona izimpawu zokukhathazeka.** Ukwenqaba, ukuhoxa, ubuso obuqinile noma izwi eliphakeme kungaba isignali yokuthi kufanele uyeke. Ungabheka ukuqeda umsebenzi njengokubaluleke kunenduduzo.
 - **Yabelana ngohlelo oluyisimo.** Uma abantu abaningi benakekela umuntu, vumelanani ngezimpawu ezisho ukuthi “ima,” igama elithulile okufanele lisetshenziswe nokuthi ubani ozobizwa uma iphethini ishintsha.
 
-Ngemisebenzi ethile, bheka imibono yethu yemihlahlandlela yokugeza no[kugqoka](/caregiving/getting-dressed-with-dementia/) nokugeza [ku-dementia](/caregiving/bathing-with-dementia/). [Umhlahlandlela wemibono yokuxhumana](/caregiving/communication-tips/) umboza indlela yokukhuluma nokulalela ngaphandle kokwengeza uxinezeleo.
+Ngemisebenzi ethile, bheka imibono yokugeza [ku-dementia](/caregiving/bathing-with-dementia/) nokugqoka [kwemihlahlandlela](/caregiving/getting-dressed-with-dementia/). [Umhlahlandlela wemibono yokuxhumana](/caregiving/communication-tips/) umboza indlela yokukhuluma nokulalela ngaphandle kokwengeza uxinezeleo.
 
 ## Yini ngingayenza ngemva kokuthi isimo sizole?
 
