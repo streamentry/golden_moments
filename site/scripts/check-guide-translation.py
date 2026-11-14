@@ -7,10 +7,11 @@ Checks every `src/content/guides-i18n/<code>/**.md` (or only the named
 guides) against `src/content/guides/<section>/<slug>.md`. Errors: fixed
 frontmatter that changed (section, order, dates, sources, related lists,
 health), a missing or wrong `translatedFrom`, a different number of key
-points or FAQ entries, different heading levels, or different link targets.
-Warnings: numbers that differ, exclamation marks, and long titles or
-descriptions. It runs without a site build, so several translators can check
-their own files at once; `pnpm exec astro build` still validates the schema.
+points or FAQ entries, different heading levels, different link targets, or
+numbers added without an emergency number in English. Warnings: other
+number differences, exclamation marks, and long titles or descriptions. It
+runs without a site build, so several translators can check their own files
+at once; `pnpm exec astro build` still validates the schema.
 """
 
 from __future__ import annotations
@@ -93,7 +94,7 @@ def visible_numbers(text: str) -> list[str]:
 
 
 def unsafe_number_additions(source: str, translated: str) -> bool:
-    source_numbers, translated_numbers = numbers(source), numbers(translated)
+    source_numbers, translated_numbers = visible_numbers(source), visible_numbers(translated)
     remaining = source_numbers.copy()
     added = []
     for number in translated_numbers:
@@ -108,6 +109,22 @@ def unsafe_number_additions(source: str, translated: str) -> bool:
     source_emergency = [number for number in visible_numbers(source) if number in EMERGENCY_NUMBERS]
     translated_emergency = [number for number in visible_numbers(translated) if number in EMERGENCY_NUMBERS]
     return not source_emergency or len(translated_emergency) > len(source_emergency)
+
+
+def visible_copy(front: dict, body: str) -> str:
+    parts = []
+    for key in ('title', 'seoTitle', 'description', 'summary'):
+        value = front.get(key)
+        if value is not None:
+            parts.append(str(value))
+    parts.extend(str(value) for value in front.get('keyPoints') or [])
+    for item in front.get('faq') or []:
+        if isinstance(item, dict):
+            parts.extend(str(item.get(key, '')) for key in ('q', 'a'))
+        else:
+            parts.append(str(item))
+    parts.append(body)
+    return '\n'.join(parts)
 
 
 def links(body: str) -> list[str]:
@@ -139,11 +156,12 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
     if links(src_body) != links(body):
         errors.append('link targets differ from English (same links, same order)')
 
-    source_numbers, translated_numbers = numbers(src_body), numbers(body)
-    if unsafe_number_additions(src_body, body):
+    source_copy = visible_copy(src_front, src_body)
+    translated_copy = visible_copy(front, body)
+    if unsafe_number_additions(source_copy, translated_copy):
         errors.append('numbers added without an explicit emergency number in English')
-    elif source_numbers != translated_numbers:
-        warnings.append('numbers in the body differ from English')
+    elif visible_numbers(source_copy) != visible_numbers(translated_copy):
+        warnings.append('numbers in visible text differ from English')
     shown = ' '.join(str(front.get(k, '')) for k in ('title', 'seoTitle', 'description', 'summary')) + body
     if '!' in shown or '！' in shown:
         warnings.append('exclamation mark')

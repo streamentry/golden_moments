@@ -109,6 +109,8 @@ health: false                # true shows the health-information notice
 ---
 ```
 
+Translated guides allow titles and search titles up to 140 characters; preserve complete local wording. The translation checker warns when a search title exceeds 64 display-width units, but this is not a schema error.
+
 Body rules:
 
 - Do **not** repeat the title as an H1. Start with a short intro paragraph,

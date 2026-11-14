@@ -340,3 +340,7 @@ This content-only guide and internal link add no app behavior. Automated schema,
 ## Round 91 score note (2026-11-12)
 
 This content-only guide adds no app behavior. The unit tests and TypeScript check cannot show whether multilingual readers or a person with dementia understand the guidance, and the static site build did not finish locally. No multilingual reader, caregiver, clinician, interpreter, native-speaker or live-browser review was done. Keep the latest measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this round.
+
+## Round 92 score note (2026-11-12)
+
+The changed-guide coverage gate and translated search-title schema adjustment add no participant-facing strings or interactions. Website tests, type checks, static generation and page checks pass locally. No device, reader or native-language review was done. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this engineering change.
