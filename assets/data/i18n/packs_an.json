@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animals",
+      "description": "Animals simpáticos y amigables de tot o mundo"
+    },
+    "nature": {
+      "name": "Natura",
+      "description": "Paisaches y escenas naturals bellas"
+    },
+    "food": {
+      "name": "Minchar",
+      "description": "Minchas y dulzes buenos"
+    },
+    "vintage": {
+      "name": "Coches",
+      "description": "Coches y camions ta mirar y charrar"
+    },
+    "flowers": {
+      "name": "Flors",
+      "description": "Flors bellas y escenas de chardín"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animals de granja",
+      "description": "Animals de granja amigables, como en una visita a o campo.",
+      "theme": "Vida de granja",
+      "images": {
+        "cow_1": "Vaca amigable",
+        "pig_1": "Puerco contento",
+        "chicken_1": "Gallo",
+        "buffalo_1": "Búfalo d’augua",
+        "horse_1": "Caballo bello",
+        "duck_1": "Familia d’anedas",
+        "goat_1": "Cabra curiosa",
+        "rabbit_1": "Conello simpático"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vistas de montanya",
+      "description": "Paisaches de montanya preciosos y vistas bellas",
+      "theme": "Belleza natural",
+      "images": {
+        "mountain_1": "Picos con nieu",
+        "mountain_2": "Monte Fuji",
+        "mountain_3": "Val alpina",
+        "mountain_4": "Cumbre rocosa",
+        "mountain_5": "Calbas con bosque",
+        "mountain_6": "Montanyas con brumas"
+      }
+    },
+    "vintage_cars": {
+      "title": "Coches y camions",
+      "description": "Coches y camions lucients ta mirar y charrar",
+      "theme": "En a carretera",
+      "images": {
+        "vintage_car_1": "Audi narancha a la posta de sol",
+        "vintage_car_2": "Coche deportivo azul en o desierto",
+        "vintage_car_3": "Bugatti de color plata",
+        "vintage_car_4": "Porsche negro en a carretera",
+        "vintage_car_5": "BMW narancha en una carrera con palmeras",
+        "vintage_car_6": "Coche azul cabo d’un garache",
+        "vintage_car_7": "Camioneta verde",
+        "vintage_car_8": "Todoterreno blanco entre rocas royas",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Coche azul con barras blancas"
+      }
+    },
+    "animals_safari": {
+      "title": "Animals de safari",
+      "description": "Animals majestuosos d’os safaris africanos",
+      "theme": "Fauna salvache",
+      "images": {
+        "lion_1": "Leyón majestuoso",
+        "elephant_2": "Elefant africano",
+        "jaguar_3": "Chaguar",
+        "zebra_4": "Cebra con barras",
+        "rhino_5": "Rinoceronte poderoso",
+        "cheetah_6": "Guepardo rapido",
+        "fox_7": "Rabosa marrón",
+        "bear_8": "Uso polar",
+        "turtle_9": "Tortuga marrón",
+        "squirrel_10": "Esquiruelo marrón",
+        "macaw_11": "Guacamayo amarillo y azul",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Mapache",
+        "wolf_14": "Lobo gris",
+        "crocodile_15": "Cocodrilo",
+        "peacock_16": "Pavo real bello"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Dulzes buenos",
+      "description": "Bellos dulzes buenos ta las tuyas comidas.",
+      "theme": "Dulzes",
+      "images": {
+        "pastries_1": "Quatre pastels",
+        "oreo_cookie_sandwiches_2": "Galletas Oreo con crema",
+        "crepe_3": "Crepe",
+        "pancake_4": "Tortita",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Pastel de caramelo"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flors tropicals",
+      "description": "Descubre a belleza viva d’os trópicos con iste paquete de flors esoticas.",
+      "theme": "Flors tropicals",
+      "images": {
+        "hibiscus_1": "Hibisco royo",
+        "frangipani_2": "Frangipani royo y blanco",
+        "sunflower_3": "Chirasol",
+        "hydrangea_4": "Hortensia blanca",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Crisantemo",
+        "anthurium_7": "Antúrio",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinio"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Minchar de carrera",
+      "description": "Esplora o mundo colorista d’o minchar de carrera con iste paquete de bocatas buenos de tot o mundo.",
+      "theme": "Minchar de carrera",
+      "images": {
+        "taco_1": "Taco mexicano",
+        "ramen_2": "Ramen chaponés",
+        "dumplings_3": "Dumplings chinos",
+        "samosa_4": "Samosa indiano",
+        "pizza_5": "Troz de pizza italiana",
+        "crepe_6": "Crepe franceso",
+        "satay_7": "Pinchos de satay tailandeses",
+        "burger_8": "Hamburguesa americana",
+        "bao_9": "Bao al vapor",
+        "takoyaki_10": "Takoyaki chaponés"
+      }
+    },
+    "nature_landscape": {
+      "title": "Paisaches naturals",
+      "description": "Escenas naturals tranquilas y bellas ta mirar a o suyo ritmo y charrar chuntos.",
+      "theme": "Paisaches naturals",
+      "images": {
+        "mountain_1": "Cadena de montanyas",
+        "forest_2": "Bosque con brumas",
+        "lake_3": "Lago de montanya",
+        "desert_4": "Dunas d’o desierto",
+        "waterfall_5": "Cascada",
+        "beach_6": "Playa d’arena",
+        "river_7": "Río que corre",
+        "canyon_8": "Gran Canyón",
+        "sunset_9": "Cielo a la posta de sol",
+        "snow_mountain_10": "Montanya con nieu",
+        "flowers_11": "Flors salvaches",
+        "rainforest_12": "Selva tropical",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volcán",
+        "cliff_15": "Acantilato sobre o mar",
+        "aurora_16": "Aurora boreal",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Arrecife de coral"
+      }
+    }
+  }
+}

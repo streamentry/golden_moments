@@ -103,6 +103,9 @@ const _appLocales = {
   'qu',
   'ln',
   'ba',
+  'ia',
+  'io',
+  'an',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

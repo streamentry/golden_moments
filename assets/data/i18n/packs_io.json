@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animali",
+      "description": "Charmanta e amikala animali de omna parti di la mondo"
+    },
+    "nature": {
+      "name": "Naturo",
+      "description": "Bela pejzaji e naturala skeni"
+    },
+    "food": {
+      "name": "Manjajo",
+      "description": "Bongusta manji e dolcajo"
+    },
+    "vintage": {
+      "name": "Automobili",
+      "description": "Automobili e kamioni por regardar e parolar pri"
+    },
+    "flowers": {
+      "name": "Flori",
+      "description": "Bela flori e gardeno-skeni"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Farmo-animali",
+      "description": "Amikala farmo-animali, quale dum vizito a la kamparo.",
+      "theme": "Vivo en farmo",
+      "images": {
+        "cow_1": "Amikala vacho",
+        "pig_1": "Joyoza porko",
+        "chicken_1": "Galo",
+        "buffalo_1": "Aquo-bufalo",
+        "horse_1": "Bela equo",
+        "duck_1": "Familio di anasi",
+        "goat_1": "Kuriozoza kapro",
+        "rabbit_1": "Charmanta kunilo"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vidi di montari",
+      "description": "Impresanta montaro-pejzaji e bela vidi",
+      "theme": "Natural beleso",
+      "images": {
+        "mountain_1": "Montarkimi kovrita da nivo",
+        "mountain_2": "Monto Fuji",
+        "mountain_3": "Alpina valo",
+        "mountain_4": "Roka sumito",
+        "mountain_5": "Foresto-kolini",
+        "mountain_6": "Montari en nebulo"
+      }
+    },
+    "vintage_cars": {
+      "title": "Automobili e kamioni",
+      "description": "Brilanta automobili e kamioni por regardar e parolar pri",
+      "theme": "Sur la voyo",
+      "images": {
+        "vintage_car_1": "Oranjkolora Audi ye sunsubiro",
+        "vintage_car_2": "Blua sporto-automobilo en la dezerto",
+        "vintage_car_3": "Arjentkolora Bugatti",
+        "vintage_car_4": "Nigra Porsche sur la voyo",
+        "vintage_car_5": "Oranjkolora BMW en strado kun palmi",
+        "vintage_car_6": "Blua kupeo apud garajo",
+        "vintage_car_7": "Verda kamioneto",
+        "vintage_car_8": "Blanka SUV inter ruja roki",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blua automobilo kun blanka strii"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari-animali",
+      "description": "Majestoza animali de la safari en Afrika",
+      "theme": "Sovaja animali",
+      "images": {
+        "lion_1": "Majestoza leono",
+        "elephant_2": "Afrikana elefanto",
+        "jaguar_3": "Jaguaro",
+        "zebra_4": "Striita zebro",
+        "rhino_5": "Forta rinocero",
+        "cheetah_6": "Rapida gepardo",
+        "fox_7": "Bruna volpo",
+        "bear_8": "Polara urso",
+        "turtle_9": "Bruna tortugo",
+        "squirrel_10": "Bruna sciuro",
+        "macaw_11": "Flava e blua aro",
+        "tiger_12": "Tigro",
+        "raccoon_13": "Prokiono",
+        "wolf_14": "Griza lupo",
+        "crocodile_15": "Krokodilo",
+        "peacock_16": "Bela pavo"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Bongusta dolcajo",
+      "description": "Kelka bongusta dolcajo por vua manji.",
+      "theme": "Dolca dolcajo",
+      "images": {
+        "pastries_1": "Quar pastaji",
+        "oreo_cookie_sandwiches_2": "Oreo-biskviti kun plenajo",
+        "crepe_3": "Krepo",
+        "pancake_4": "Pankeko",
+        "macarons_5": "Makaroni",
+        "caramel_cake_6": "Karamel-kuko"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropikala flori",
+      "description": "Deskovrez la vivoza beleso di la tropiki per ca pakajo di exotika flori.",
+      "theme": "Tropikala flori",
+      "images": {
+        "hibiscus_1": "Ruja hibisko",
+        "frangipani_2": "Ruja e blanka frangipano",
+        "sunflower_3": "Sunfloro",
+        "hydrangea_4": "Blanka hidrangeo",
+        "rose_5": "Rozo",
+        "chrysanthemum_6": "Krizantemo",
+        "anthurium_7": "Anturio",
+        "plumeria_8": "Plumerio",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinio"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Strado-manjajo",
+      "description": "Explorez la kolorplena mondo di strado-manjajo per ca pakajo di bongusta snaki de omna parti di la mondo.",
+      "theme": "Strado-manjajo",
+      "images": {
+        "taco_1": "Mexikana tako",
+        "ramen_2": "Japoniana ramen",
+        "dumplings_3": "Chiniana pastaketi",
+        "samosa_4": "Hindiana samoso",
+        "pizza_5": "Peco di italiana pico",
+        "crepe_6": "Franca krepo",
+        "satay_7": "Tailandana satey-broketi",
+        "burger_8": "Amerikana hamburgero",
+        "bao_9": "Vaporkuktita bao-pano",
+        "takoyaki_10": "Japoniana takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naturala pejzaji",
+      "description": "Kalma, bela naturo-skeni por regardar lente e parolar pri kune.",
+      "theme": "Naturala pejzaji",
+      "images": {
+        "mountain_1": "Montaro",
+        "forest_2": "Foresto en nebulo",
+        "lake_3": "Monto-lago",
+        "desert_4": "Dezerto-dunei",
+        "waterfall_5": "Kaskado",
+        "beach_6": "Sabla plajo",
+        "river_7": "Fluanta rivero",
+        "canyon_8": "Granda kanyono",
+        "sunset_9": "Ciel ye sunsubiro",
+        "snow_mountain_10": "Nivoza monto",
+        "flowers_11": "Sovaja flori",
+        "rainforest_12": "Pluvo-foresto",
+        "iceberg_13": "Glacimonto",
+        "volcano_14": "Vulkano",
+        "cliff_15": "Mar-klifo",
+        "aurora_16": "Polara aurora",
+        "savannah_17": "Savano",
+        "coral_reef_18": "Korala rifo"
+      }
+    }
+  }
+}
