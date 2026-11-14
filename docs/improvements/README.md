@@ -15,7 +15,7 @@ Maintainer decision (2026-11-12): an improvement counts toward the 500 only when
 
 | Item | Status |
 | --- | --- |
-| Research: clinical-condition guidance, interface design and competitor apps | Sources read so far include Alzheimer's Association, Alzheimer's Society, Lewy Body Dementia Association, Parkinson's Foundation, AFTD, Alzheimer's Australia Vic 2015, AbilityNet 2025, W3C COGA and Smart Interface Design Patterns. Coverage of the full condition list remains ongoing. |
+| Research: clinical-condition guidance, interface design and competitor apps | Sources read so far include Alzheimer's Association, Alzheimer's Society, Lewy Body Dementia Association, Parkinson's Foundation, Association for Frontotemporal Degeneration, Alzheimer's Australia Vic 2015, AbilityNet 2025, W3C COGA and Smart Interface Design Patterns. Coverage of the full condition list remains ongoing. |
 | Audit of app and web | Done by reading code, tokens and copy; no device or assistive-technology run |
 | Code change 1: secondary text contrast (G2) | Done: walnut `#5C5346` to `#4F4539` in `DESIGN.md`, `lib/design_system.dart` and `site/src/styles/tokens.css`. Secondary text is now 8.1:1 on surface, 7.1:1 on surface-sunken, 9.4:1 on print white. Full Flutter suite passes (665 tests); strict analysis clean |
 | Attempt: labelled help and comfort actions (G1) | Prototyped and reverted. A labelled row under the board, and then in the bottom bar, broke the 200% small-phone layout (a 168 px overflow in the bottom bar) and pushed the board or the comfort button off screen with eight tiles. The tested layout needs a redesign, not a row |

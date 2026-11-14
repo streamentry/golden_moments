@@ -137,7 +137,7 @@ void main() {
     ) async {
       SharedPreferences.setMockInitialValues({
         GentlePreferences.storageKey: jsonEncode(
-          const GentlePreferences(keepVisible: true).toJson(),
+          const GentlePreferences().toJson(),
         ),
       });
       final handle = tester.ensureSemantics();
