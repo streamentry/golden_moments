@@ -20,6 +20,9 @@ The store draft needs the language in `scripts/store_locales.py` first, so run
 `app` once, review, register, then run `app` again for the store draft (the
 other files are rewritten).
 
+To run the whole job as a Claude Code `/goal`, paste the text in
+[OpenCode translation goal](opencode-goal.md).
+
 ## Per language, in order
 
 1. **Translate the app text:** `python3 scripts/opencode_translate.py app <code> "<Language (script)>" -m <model>`.
