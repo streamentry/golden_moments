@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Ny lalao atidoha dia misakana ny dementia ve? Izay asehon’ny porofo"
+seoTitle: "Misakana ny dementia ve ny lalao atidoha? Ny porofo"
+description: "Izay lazain’ny fikarohana momba ny lalao atidoha sy dementia: fanofanana ny fahaiza-manao, fanofanana atidoha amin’ny ordinatera, fitsapana ACTIVE ary tranga FTC."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Tsy misy lalao atidoha naseho fa misakana ny dementia. Ny fanofanana atidoha
+  amin’ny ordinatera matetika manatsara ireo asa ampiharina ihany. Fianarana
+  iray avy amin’ny fitsapana ACTIVE dia nampifandraisina amin’ny fanofanana
+  hafainganam-panazavana manokana miaraka amin’ny fivoriana fanamafisana, miaraka
+  amin’ny diagnosis dementia vitsy kokoa nandritra ny 20 taona, hita fa vitsy
+  ihany. Ho an’ny olona efa manana dementia, ny fanofanana ara-tsaina amin’ny
+  vondrona dia misy fahasoavana kely, fohy. Ny lalao dia tsara indrindra
+  ho fahafinaretana sy fiaraha-monina.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Ny fianarana momba ny fanofanana atidoha dia mampiseho fa ny olona manatsara amin’ny asa ampiharina, fa kely kokoa ny porofo fa mivoaka amin’ny fiainana andavanandro."
+  - "Tao amin’ny fitsapana ACTIVE, ny olona izay nanao fanofanana hafainganam-panazavana manokana miaraka amin’ny fivoriana fanamafisana ihany no nanana diagnosis dementia vitsy kokoa nandritra ny 20 taona. Ny fanofanana hafainganam-panazavana tsy misy fanamafisana, ary ny fanofanana fahatsiarovana na fahaiza-manavakavaka tsy naneho izany."
+  - "Tamin’ny 2016, nandoa dolara 2 tapitrisa ny mpamorona Lumosity mba hanafahana ny fiampangana FTC, satria tsy nisy siansa ampy ny fanambarany momba ny fanemoran-dementia."
+  - "Ho an’ny olona manana dementia maivana ka mahamaro, ny vondrona fanofanana ara-tsaina dia mampiseho fahasoavana kely fohy amin’ny fisainana, ary fahasoavana mazava kokoa amin’ny fifandraisana sy ny fifanerasera."
+  - "Ny lalao Golden Moments dia ho fahafinaretana sy fotoana iraisana. Tsy fitsaboana izy, ary tsy misakana na mampiadana ny dementia."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Misakana ny Alzheimer ve ny lalao atidoha?"
+    a: "Tsy misy lalao atidoha naporofo fa misakana ny Alzheimer na ny dementia hafa. Ny National Institute on Aging dia milaza fa tsy ampy porofo fa ny app fanofanana atidoha ara-barotra dia manana ny vokatra hita tao amin’ny fitsapana ara-pitsaboana. Mety ho fomba mahafinaritra handanianana fotoana ny lalao."
+  - q: "Inona no hitan’ny fitsapana ACTIVE momba ny fanofanana hafainganam-panazavana sy ny dementia?"
+    a: "Ny fanadihadiana 2026 dia nampifandraisina ny mpandray anjara ACTIVE tamin’ny rakitra Medicare nandritra ny 20 taona. Ny olona izay nanao fanofanana hafainganam-pahatakarana sy farafahakeliny fivoriana fanamafisana iray dia nanana tahan’ny dementia voamarina ambany noho ny vondrona tsy nanao fanofanana. Ny fanofanana hafainganam-panazavana tsy misy fanamafisana, ary ny fanofanana fahatsiarovana na fahaiza-manavakavaka, dia tsy naneho fiantraikany mahatsikaiky."
+  - q: "Tsara ve ny puzzle sy lalao ho an’ny olona efa manana dementia?"
+    a: "Mety izany, raha tian’ny olona izany. Ny fanofanana ara-tsaina amin’ny vondrona, izay misy lalao teny, puzzle, mozika ary resaka, dia mampiseho fahasoavana kely fohy amin’ny fisainana, ary fahasoavana mazava kokoa amin’ny fifandraisana sy ny fifanerasera. Ny fahafinaretana, fa tsy ny valin’ny fitsapana, no tanjona marina."
+  - q: "Nahoana no nampandoavin’ny FTC ny Lumosity?"
+    a: "Tamin’ny 2016, ny Federal Trade Commission dia nampiana fiampangana fa ny Lumos Labs dia nanao fanambarana momba ny lalaony, anisan’izany ny fanemorana ny fihenan’ny taona sy ny dementia, nefa tsy nisy siansa hanohanana azy. Nanaiky ny orinasa ny handoa dolara 2 tapitrisa ary hanana porofo siantifika azo itokisana alohan’ny hanaovana fanambarana toy izany any aoriana."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,89 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Lalao atidoha dia eo ihany ary maro no maneho fa hitazona ny saina ho tanora. Raha miandraikitra olona manana dementia ianao, na manahy momba ny fahatsiarovanao, dia mahazatra ny manontany raha afaka manampy ny milalao azy ireo. Ito ny izay tena asehon’ny fikarohana, anisan’izany ny ampahany mampaminono sy ny ampahany tsy izany.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Vaovao ankapobeny ity, fa tsy torolalana ara-pitsaboana. Jereo ny [fampitandremana ara-pitsaboana](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Ny lalao atidoha dia misakana ny dementia ve?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Tsy misy lalao atidoha naporofo fa misakana ny dementia. Ny National Institute on Aging (NIA) dia manoro hevitra ny hitandrina amin’ny fanambarana fa ny lalao ordinatera na an-tserasera dia afaka manatsara ny fahatsiarovana, ary milaza fa tsy ampy porofo fa ny app fanofanana atidoha ara-barotra manana ny vokatra mitovy amin’ny fanofanana nodinihina tamin’ny fitsapana ara-pitsaboana ([NIA momba ny fisorohana ny Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Tsy midika izany fa tsy misy tombony ny lalao. Midika izany fa ny sandany dia amin’ny fahafinaretana, fiaraha-monina ary fomba andavanandro, fa tsy amin’ny fiarovana olona amin’ny dementia.
 
-## What is "near transfer", and why does it matter?
+## Inona no “findramana akaiky”, ary nahoana no zava-dehibe?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Rehefa manao asa iray ianao, matetika dia mihatsara amin’izany asa izany. Antsoin’ny mpikaroka hoe vokatry ny fanofanana izany. Ny fanontaniana sarotra kokoa dia raha ny fanatsarana dia **mifindra** amin’ny zavatra hafa: amin’ny asa mitovy (findramana akaiky) na amin’ny fiainana andavanandro, toy ny fahatsiarovana fotoam-pitsidihana na fitantanana vola (findramana lavitra).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Ny famerenana lehibe tamin’ny 2016 dia nandinika ireo fianarana izay nalaina ho porofo tsara indrindra nasehon’ireo orinasa fanofanana atidoha. Hitany ny porofo betsaka fa mihatsara ny olona amin’ny asa nofanina, porofo kely kokoa fa mihatsara amin’ny asa mifandray akaiky, ary porofo vitsy fa manatsara ny fisainana andavanandro ny fanofanana. Maro koa amin’ireo fianarana ireo no nanana olana momba ny fandaharana izay tsy nahafahana nanana fanatsoahan-kevitra mafy ([Simons sy mpiara-miasa, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Inona no lazain’ny famerenana momba ny fanofanana atidoha amin’ny ordinatera?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Ny famerenana Cochrane, izay manangona ny fitsapana tsara indrindra hita, dia nijery fanofanana amin’ny ordinatera izay mandeha 12 herinandro farafahakeliny:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Olona salama antitra 65 taona ka mihoatra:** fitsapana valo misy olona 1,183. Ny porofo dia ambany kalitao na ambany indrindra. Mety misy tombony kely eo akaikin’ny fanofanana, nefa tsy misy porofo mazava fa mitoetra izany
+  ([famerenana Cochrane, olona antitra salama](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Olona manana fahasembanana fahatsiarovana maivana:** fitsapana valo misy olona 660. Tsy nitatitra ny fitsapana rehetra raha nandroso ho dementia ireo olona, ary tsy nahamafy ny porofo mba hahatongavana amin’ny famaranana
+  ([famerenana Cochrane, fahasembanana fahatsiarovana maivana](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Inona no hitan’ny fitsapana ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE dia fitsapana lehibe any Etazonia izay nanomboka tamin’ny 1998 tamin’ny olona lehibe 2,802 izay 65 taona ka mihoatra, izay mipetraka tsy miankina ary tsy nanana olana lehibe amin’ny fahatsiarovana na ny fisainana. Ny olona nosintonina tamin’ny fomba fofona amin’ny iray amin’ny karazana fanofanana vondrona kely telo (hafainganam-pahatakarana, fahatsiarovana, na fahaiza-manavakavaka), na tamin’ny vondrona tsy nifandray. Ny fanofanana dia fivoriana hatramin’ny folo nandritra ny dimy ka hatramin’ny enina herinandro. Ny olona sasany izay nahavita ny ankamaroan’ny fivoriana dia nanolorana koa **fivoriana fanamafisana** tamin’ny manodidina ny herintaona sy telo taona aorian’izay.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Ny fanofanana hafainganam-panazavana dia nahitana ny fijerena sy ny fandrafetana vaovao an-tsary amin’ny fibanjinana fohy kokoa sy fohy kokoa, amin’ny haavo izay niova araka ny nandrosoan’ny olona.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Tamin’ny 2026, nampifandraisina ireo mpandray anjara 2,021 tamin’ny rakitra Medicare-n’izy ireo nandritra ny 20 taona ny mpikaroka ([fanadihadiana ACTIVE 20 taona](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Ito ny hitany mazava:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Fanofanana hafainganam-panazavana sy farafahakeliny fivoriana fanamafisana iray:** tahan’ny dementia voamarina ambany noho ny vondrona tsy nifandray (hazard ratio 0.75, izay midika eo ho eo fa tahan’ny ambany 25%).
+- **Fanofanana hafainganam-panazavana tsy misy fanamafisana:** tsy misy tahan’ny ambany.
+- **Fanofanana fahatsiarovana na fahaiza-manavakavaka:** tsy misy fiantraikany mahatsikaiky amin’ny diagnosis dementia.
+- **Ny vondrona fanofanana tanteraka raha oharina amin’ny vondrona tsy nifandray:** fironana ho amin’ny tahan’ny ambany, fa tsy mahatsikaiky araka ny statistika.
 
-### The limits of this finding
+### Ny fetra amin’ity hitatra ity
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Mihatra amin’ny **karazana fanofanana hafainganam-panazavana iray manokana miaraka amin’ny fivoriana fanamafisana**, fa tsy amin’ny lalao atidoha amin’ny ankapobeny.
+- Ny valiny mahatsikaiky dia tsy avy amin’ny vondrona manontolo amin’ny fanofanana hafainganam-panazavana, fa avy amin’ny **vondrona kely** (olona izay nahavita ny ankamaroan’ny fivoriana voalohany ary nomena fanamafisana).
+- Ny dementia dia nandrefesana tamin’ny **kaody diagnosis ao amin’ny rakitra Medicare**, fa tsy tamin’ny fanadihadiana tsirairay. Manodidina ny ampahefatry ny mpandray anjara tany am-piandohana no nesorina satria voasoratra ao amin’ny Medicare Advantage, izay tsy manana rakitra fanamarinana feno.
+- Tsy nanana olana mahatsikaiky ara-pisainana ny mpandray anjara tamin’ny voalohany. Ny valiny dia tsy milaza na inona na inona momba ny lalao ho an’ny olona **efa manana dementia**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Hitany mahaliana izany ary mendrika fikarohana bebe kokoa. Tsy porofo izany fa misakana ny dementia ny app iray na inona na inona.
 
-## What did the FTC say about Lumosity?
+## Inona no nolazain’ny FTC momba ny Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Tamin’ny Janoary 2016, ny Lumos Labs, mpamorona ny Lumosity, dia nanaiky ny handoa dolara 2 tapitrisa mba hanafahana ny fiampangana ataon’ny Federal Trade Commission momba ny fampielezan-kevitra mamitaka. Nilaza ny FTC fa nanambara ny orinasa, nefa tsy nisy siansa ampy, fa mety hanatsara ny fahombiazana amin’ny asa sy ny sekoly ny lalaony, ary mety hanemotra ny fihenan’ny taona, fahasembanana fahatsiarovana maivana, dementia ary Alzheimer. Ny baiko dia mitaky amin’ny orinasa hanana porofo siantifika mendrika sy azo itokisana alohan’ny hanaovana fanambarana toy izany any aoriana ([fanambarana an-gazety FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Ny lesona ho an’ny fianakaviana: aza mino mafy lalao, app na programa rehetra izay maneho fa hiaro ny fahatsiarovana na hisakana ny dementia.
 
-## Can games help someone who already has dementia?
+## Afaka manampy olona efa manana dementia ve ny lalao?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Mety hanampy amin’ny andro tsara izany, ary zava-dehibe be izany. Ny fomba voadinika tsara indrindra dia ny **fanofanana ara-tsaina**: hetsika mahafinaritra amin’ny vondrona, toy ny resaka, fifandraisana amin’ny fahatsiarovana, lalao teny, puzzle ary mozika, matetika ao amin’ny vondrona kely izay itarihan’ny mpitari-dalana.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ny famerenana Cochrane tamin’ny 2023 momba ny fitsapana 37 misy olona 2,766 manana dementia maivana ka mahamaro dia nahita ([famerenana Cochrane momba ny fanofanana ara-tsaina](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **fahasoavana kely fohy** amin’ny fitsapana fisainana (porofo kalitao antonony);
+- **fanatsarana mazava amin’ny fifandraisana sy ny fifanerasera** (porofo kalitao avo, avy amin’ny fianarana vitsivitsy kokoa);
+- **fahasoavana kely** amin’ny kalitaon’ny fiainana, ny toe-tsaina ary ny fitondran-tena.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Ny fahasoavana dia refesina indrindra mihitsy aorian’ny fandaharana mandritra ny herinandro folo eo ho eo, ary fianarana vitsivitsy no nijery raha mitoetra izany. Ny fanofanana ara-tsaina dia fandaharana vondrona voarindrina, ka ireo valiny ireo dia tsy mihatra ho azy rehefa milalao lalao irery ny olona amin’ny tablet.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ny Lancet Commission tamin’ny 2024 koa dia milaza fa ny fandaharana hetsika dia zava-dehibe ho an’ny olona manana dementia, mba hitazomana ny fahafinaretana sy ny tanjona ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Inona marina no tsara amin’ny lalao?
 
-When chosen well, games can offer:
+Rehefa safidina tsara, ny lalao dia afaka manome:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Fahafinaretana.** Adiny tsy ampy sasany mahafinaritra dia tsara amin’ny maha-azy.
+- **Fifandraisana.** Ny milalao mifanandrify dia manome zavatra mora zarainao rehefa sarotra ny resaka. Jereo ny [ahoana no fomba hilalaovana miaraka](/caregiving/how-to-play-together/).
+- **Fomba andavanandro.** Hetsika mahazatra amin’ny fotoana mitovy isan’andro dia afaka mampionona.
+- **Fahatokisan-tena.** Hetsika mifanaraka amin’izay azon’ny olona atao tsara dia mahatonga azy ho mahay, fa tsy ho voafitsapa.
+- **Resaka.** Sary na ohabolana mahazatra dia afaka mamoha tantara. Andramo ny [karatra fifampiresahana](/games/conversation-cards/) na ny [mamita ny ohabolana](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Ny tsy tokony ho ampiasaina: minitra, isa, lamba mahazo fahombiazana, na zavatra rehetra toy ny fitsapana fahatsiarovana. Raha tezitra ny olona, ajanony. Ny fanapahana aloha, na ny fipetrahana miaraka fotsiny, dia valiny tsara. Ny torolalanay momba ny [fifidianana app sy lalao](/caregiving/choosing-apps-and-games/) dia misy lisitra fanamarinana.
 
-## Where Golden Moments fits
+## Ny toerana misy an’ny Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Ny lalao Golden Moments, toy ny [fitambarana sary](/games/picture-pairs/), [puzzle sary](/games/picture-puzzle/) ary [fitadiavana teny soratra lehibe](/games/word-search/), dia natao ho fahafinaretana sy fotoana iraisana. Tsy misy famaranana fotoana na isa. Tsy **fitsaboana** izy, ary tsy **misakana na mampiadana** ny dementia. Tsara kokoa ny milaza izany mazava toy izany noho ny hampanantena zavatra tsy azon’ny lalao rehetra atao.
 
-## Talk with a doctor
+## Miresaha amin’ny dokotera
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Raha manahy momba ny fiovan’ny fahatsiarovana ianao, na ny olona izay tianao, dia jereo dokotera fa aza miantehy app. Ny dokotera dia afaka mitady antony azo sitrana, ary miresaka momba ny dingana miorina amin’ny porofo tsara indrindra, toy ny fitantanana ny tosidra ra sy ny fanamarinana ny fihainoana. Jereo ny [azo atao ve ny misakana ny dementia?](/brain-health/can-dementia-be-prevented/) ho an’ny fanazavana bebe kokoa. Ho an’ny fikorontanana tampoka na fiovana tampoka hafa, mila fitsaboana haingana.

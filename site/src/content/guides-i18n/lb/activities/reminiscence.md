@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Erënnerungsaktivitéiten: Erënnerungskëschten, Liewensgeschichten a Fotoen"
+seoTitle: "Erënnerungsaktivitéiten bei Demenz: Iddien ouni Quiz"
+description: "Wéi Dir Erënnerungen mat enger Persoun mat Demenz ouni Quiz deelt: Fotoen beschwätzen, Erënnerungskëschten a Liewensbicher, mat Sätz, déi entspaant bleiwen."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Erënnerung heescht, d'Vergaangenheet zesummen ze genéisse, mat Fotoen,
+  Geigenstänn, Musek a Geschichten. Maacht eng Erënnerungskëscht, baut e einfach
+  Liewensbuch oder kuckt Fotoen zesumme niewent. Quizt ni: loosst „Erënnert Der
+  Iech?“ an „Wien ass dat?“ weg a benotzt oppen Aluedungen wéi „Erzielt mir
+  dorunner.“ E waarmt Gespréich ass méi wichteg, wéi d'Fakte richteg ze hunn.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Erënnerung ass e Gespréich, kee Test. Richtegkeet zielt net; de Genoss zielt."
+  - "Ersetzt „Erënnert Dir Iech...?“ an „Wien ass dat?“ duerch Kommentaren an Aluedungen wéi „Erzielt mir iwwer dësen Dag.“"
+  - "E Kascht mat Geigenstänn aus dem Liewen vun der Persoun gëtt Hänn a Gespréich eppes, wat se festhale kënnen."
+  - "E Liewensbuch hëlleft der Famill, Besucher a Pflegepersonal, d'Persoun ze kennen, net nëmmen d'Diagnos."
+  - "Wann eng Erënnerung Traueg bréngt, trëschtt fir d'éischt a geet dann sanft weider."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Wat ass Erënnerung fir Leit mat Demenz?"
+    a: "Erënnerung heescht, Erënnerungen an Erfarungen aus der Vergaangenheet ze deelen, dacks mat Hëllef vu Fotoen, Geigenstänn, Musek oder Videoen. Et kann eent zu eent oder an enger Gruppe geschéien. D'Ziel ass e agreabelt, sënnvollt Gespréich, net ze testen, wat d'Persoun sech erënnert."
+  - q: "Firwat soll ech net „Erënnert Dir Iech?“ freeën?"
+    a: "Froen, déi d'Erënnerung testen, kënnen eng Persoun verlee oder ängschtlech maachen, wann d'Äntwert net kënnt. Den National Institute on Aging nennt et ënner de Saachen, déi ee vermeiden soll, ob eng Persoun sech un eppes oder jidderee erënnert. Kommentéiert léiwer dat, wat Dir gesitt, a loosst d'Persoun dobäisetzen, wat si wëllt."
+  - q: "Wat soll ech an eng Erënnerungskëscht leeën?"
+    a: "Wielt sécher, stabil Geigenstänn aus dem Liewen vun der Persoun: Saachen aus der Aarbecht, Hobbyausrüstung, e Liiblingsschal, Postkaarten, Rezeptkaarten, Sportandenken oder Kopien vu Fotoen. Vermeit schaarf Saachen, kleng Géigestänn, déi verschluecht ka ginn, an onersetzlech Originalen."
+  - q: "Wat, wann si Fakten falsch erënneren?"
+    a: "Loosst et sinn. Wann Är Mamm seet, datt d'Foto hir Schwëster weist, wann et hir Kusine ass, ass dat a Rutsch. Korrigéieren mécht aus engem waarmen Moment e Test. Follegt der Geschicht, déi si erzielt, a genéisst se zesummen."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Erënnerung heescht einfach, d'Vergaangenheet zesummen ze genéisse. Fir vill Leit mat Demenz bleiwe Erënnerungen, déi Joerzéngte al sinn, méi kloer wéi dat, wat de Moien passéiert ass. Fotoen, vertraut Geigenstänn, Musek a Geschichten kënnen dës Erënnerungen opmaachen an Iech eppes Waarmes ginn, wat Dir deele kënnt. Eng Regel gëtt et: et ass e Gespréich, ni e Quiz.
 
-## What is reminiscence, and how is it different from quizzing?
+## Wat ass Erënnerung, a wéi ënnerscheet se sech vum Quiz?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Erënnerung ass d'Deelen vun Erënnerungen duerch Fotoen, Geigenstänn, Musek oder Video, am eegene Tempo vun der Persoun. Den [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) beschreift et als Deele vu Erfarungen an Geschichten aus der Vergaangenheet mat Hëllef vu Fotoen, Geigenstänn, Videoen oder Musek, a engem Buch oder op engem Tablet. E Quiz ass anescht: et freet d'Persoun, eng richteg Äntwert ze ginn, a dat kann Verlee bréngen amplaz Genoss.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+Den [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) nennt et ënner de Saachen, déi ee vermeide soll, eng Persoun ze froen, ob si sech un eppes oder jidderee erënnert. D'[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) schléit vir, Froen ze vermeiden, déi op dem Kuerzzäitgedächtnis beruhen, a stattdiss iwwer déi méi wäit Vergaangenheet ze schwätzen.
 
-| Instead of | Try |
+| Amplaz | Probéiert |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „Erënnert Dir Iech un dat?“ | „Dat gesäit no engem glécklechen Dag aus. Erzielt mir dorunner.“ |
+| „Wien ass dat?“ | „Hei ass d'Tatta Rose um Strand. Kuckt dee Hutt.“ |
+| „A wéi engem Joer war dat?“ | „Dat gesäit no dem ale Haus aus. Wéi war et, do ze wunnen?“ |
+| „Nee, dat ass net de Bill, dat ass de Frank.“ | „Hien gesäit no vill Spaass aus.“ |
+| „Dir hutt mir dat schonn eemol gesot.“ | „Ech hunn déi Geschicht gär.“ |
 
-## How do you talk about photos without quizzing?
+## Wéi schwätzt een iwwer Fotoen ouni Quiz?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Fänkt un mat deem, wat Dir gesitt, a loosst dann der Persoun Plaz, wann si eppes dobäisetze wëll.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sëtzt niewent Eenaner.** Hält d'Album tëscht Iech, sou datt Dir zesummen kuckt an net iwwer en Desch hinweg testt.
+2. **Wielt e puer Fotoen.** Fënnef gutt Fotoen si besser wéi eng ganz Këscht. Grouss, kloer Drécker funktionéiere am beschte.
+3. **Nennt d'Leit selwer.** „Hei sidd Dir an de Papp um Dag vun Ärer Hochzäit.“ Dat hëlt den Drock eraus.
+4. **Kommentéiert d'Detailer.** Kleeder, Autoen, Iessen, Wieder, Gesiichter. „Wat en Auto. Deen gesäit ganz blénk aus.“
+5. **Ladet an, verlaangt net.** „Erzielt mir iwwer...“ oder „Wat fält Iech op?“ Stëll ass a Rutsch.
+6. **Follegt hirer Féierung.** Wann si ganz iwwer eppes anescht schwätzt, geht mat.
+7. **Hält op, wann et nach agreabel ass.** Maacht d'Album zou, ier d'Midegkeet kënnt.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Fir fäerdeg Bild-Impulser probéiert [Gespréichskaarten](/games/conversation-cards/). Fir Är eege Familljefotoen an en sanften Zuerdnungsspill ëmzewandelen, probéiert [Fotopaarer](/games/photo-pairs/); d'Fotoen, déi Dir wielt, bleiwen an Ärem Browser.
 
-## How do you make a memory box?
+## Wéi maacht een eng Erënnerungskëscht?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Eng Erënnerungskëscht ass e Behälter mat Geigenstänn aus dem Liewen vun der Persoun, fir se unzefaassen an driwwer ze schwätzen.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Wielt eng stabil Këscht**, déi einfach opgeet, wéi eng Schëschtchen, eng Hutschachtel oder eng kleng Holztrauhe.
+2. **Wielt e Thema oder e Mix.** Aarbecht, e Hobby, e Pläi, e Joerzéngt oder e bësse vun allem.
+3. **Sammelt sécher Saachen.** Fënnef bis zéng Stécker reechen fir unzefänken.
+4. **Benotzt Kopien vun onersetzleche Saachen.** Kopéiert onersetzlech Fotoen a Dokumenter a bewahrt d'Originalen sécher.
+5. **Hëlt d'Saachen eent nom anere eraus.** Gitt eng Saach hin, sot eppes doriwwer, a kuckt, wouhin de Gespréich geet.
 
-Ideas to include:
+Ideen, déi dran kënne sinn:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Aarbecht:** en Nummebadge, e klengt Werkzeug, en Uniformabzeechen, e Kassebuch, eng Nurse-Nol, en Kachbuch vun engem Diner.
+- **Doheem:** eng Rezeptkaart a senger Handschrëft, en Tëschtuch, en Liiblingsschal oder eng Krawatt.
+- **Hobbyen:** e Fëschköder ouni Haken, e Baseball, e Knäuel Woll, e Samepak.
+- **Plazen:** Postkaarten, Kaarten, e Touristesouvenir, en Ausschnëtt aus der Heemechtszeitung.
+- **Famill:** Kopien vu Fotoen, eng Zeechnung vun engem Kand, eng Hochzäitseinladung.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Loosst schaarf Saachen, kleng Stécker, déi verschluecht kënne ginn, an alles, wat schmerzhaft Erënnerungen bréngen kéint, ewech, ausser Dir wësst, datt et gewollt ass.
 
-## How do you make a life-story book?
+## Wéi maacht een en Liewensbuch?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+E Liewensbuch ass en einfacht Album mat Fotoen a kuerzen Ënnerschrëften iwwer d'Liewen vun der Persoun. Et ass eppes, wat Dir zesumme ukucke kënnt, a et hëlleft Besucher a Pflegepersonal, déi ganz Persoun ze gesinn.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Wielt e Format.** E Ordner mat Schutzhüllen, e gedréckte Fotobuch oder eng Diashow op engem Tablet.
+2. **Plangt e puer Kapitelen.** Kandheet, Schoul, Aarbecht, Famill, Plazen, déi si bewunt huet, Glaube, Hobbyen, Liiblingsiessen a Musek.
+3. **Setzt ee bis zwee Fotoen pro Säit** mat enger kuerzer Ënnerschrëft a grousser Schrëft: „Maria, 22 Joer, fänkt bei der Bank un.“
+4. **Nennt Gär an Gewunnechten.** „Drénkt Kaffi mat Mëllech. Hält vill vun de Sonndesi-Kierchelidder. Huet laut Fernseh net gär.“ Dat hëlleft jiddereem, deen fir si suergt.
+5. **Bezitt d'Persoun an.** Sou vill wéi si wëllt, mat Fotoen auswielen, Geschichte erzielen oder just zoukucken, wéi alles zesummekënnt.
+6. **Ergänzt weider.** Et muss net fäerdeg sinn, fir nëtzlech ze sinn.
 
-## More reminiscence ideas
+## Méi Erënnerungsiddien
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Musek aus hirer Jugend spillen** a driwwer schwätzen, wou se eng bréngt. Kuckt [Musek-Aktivitéiten](/activities/music/).
+- **Heemfilmer oder Fernsehsendungen** aus hiren Liiblingsjoerzéngten kucken.
+- **En Kandheetsgeriicht kachen** a loossen d'Gerécher de Gespréich féieren.
+- **Eng Kaart** vun hirer Heemechtsstad kucken a bekannte Stroossen nofueren.
+- **Al Kataloger oder Zäitschrëften** ukucken a iwwer Präisser, Modes an Autoen schwätzen.
+- **Hir Geschichten opnéieren** mam Telefon, mat hirer Erlaabnis, fir d'Famill.
+- **Beim Opruff deelen.** Hält beim Videoopruff ee Foto an d'Luucht; kuckt [Telefons- an Videoopruffen](/activities/phone-and-video-calls/).
+- **E Foto oder e Geigestand matbréngen, wann Dir besicht.** Dat gëtt dem Besuch e klore Fokus; kuckt [Besuchen](/activities/visiting/).
 
-## What if a memory is painful?
+## Wat, wann eng Erënnerung schmerzhaft ass?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+E puer Erënnerungen bréngen Traueg, Bedaueren oder Angscht. Wann d'Persoun opgereegt gëtt, hält op, tréischt se a wiesselt sanft den Thema oder d'Aktivitéit. Streit iwwer dat, wat geschitt ass, net. D'Family Caregiver Alliance rooden of, d'Persoun ze iwwerzeegen, datt si falsch läit, a schléit vir, op d'Gefiller ze reagéieren, déi si weist, well se real sinn. Wann si iwwer eng Persoun schwätzt, déi gestuerwen ass, a wéi wann se nach liewt, reagéiert op d'Gefill: „Dir vermësst hatt. Erzielt mir iwwer hatt.“
 
-## What does the research say?
+## Wat seet d'Fuerschung?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Ee [Cochrane-Iwwerbléck iwwer Erënnerungen](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), deen 22 Studien an 1.972 Leit ëmfaasst, huet fonnt, datt d'Effekter widderspréchlech, kleng waren a vun Ëmfeld a Form ofhänkeg hunn. Et huet keng Evidenz fir Schued bei Mënschen mat Demenz fonnt. Mir schloen Erënnerung vir, well se eng waarm, sënnvoll Zäit zesummen kann bréngen, net als Behandlung. Fir méi iwwer einfach Gespréicher kuckt [Kommunikatiounsdipps](/caregiving/communication-tips/).

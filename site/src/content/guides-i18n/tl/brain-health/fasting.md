@@ -1,33 +1,31 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Pag-aayuno nang Paminsan-minsan at Dementia: Ano ang Sinasabi ng Pananaliksik"
+seoTitle: "Pag-aayuno nang Paminsan-minsan at Dementia: Ano ang Sinasabi ng Pananaliksik"
+description: "Limitado at maaga pa ang ebidensya ng tao tungkol sa pag-aayuno at dementia. Alamin ang mga panganib para sa matatanda at bakit mas mahalagang kumain nang sapat."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Walang magandang ebidensya na napipigilan o nababagalan ng pag-aayuno nang paminsan-minsan ang dementia. Karamihan ng pananaliksik
+  ay nasa mga hayop, at maliit at maikli ang mga pag-aaral sa tao na may edad na matatanda. Maaaring mapanganib ang pag-aayuno para sa
+  matatanda: pagkawala ng timbang at kalamnan, mababang asukal sa dugo dahil sa ilang gamot sa diabetes, pagkatuyo ng katawan at
+  pagkahulog. Para sa taong may dementia, kadalasang mas malaking alalahanin ang sapat na pagkain at pag-inom. Kumonsulta muna sa doktor.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Sinasabi ng National Institute on Aging na kulang ang ebidensya para magrekomenda ng anumang diyeta na pag-aayuno o pagbabawas ng kaloriya, lalo na para sa matatanda."
+  - "Karamihan ng pananaliksik tungkol sa pag-aayuno at pagtanda ay galing sa mga hayop, at hindi basta nalalapat ang mga resultang iyon sa tao."
+  - "Kabilang sa posibleng panganib para sa matatanda ang hindi sinasadyang pagbaba ng timbang, pagkawala ng kalamnan, mababang asukal sa dugo dahil sa ilang gamot sa diabetes, pagkatuyo ng katawan, pagkahilo at pagkahulog."
+  - "Madalas makalimutan ng taong may dementia ang kumain o uminom, o akalain nilang kumain na sila. Mas mahalaga ang pagtulong sa kanilang kumain at uminom nang sapat kaysa kung kailan sila kumakain."
+  - "Huwag gumamit ng pag-aayuno para sa taong may dementia. Kumonsulta sa doktor o rehistradong dietitian bago ang anumang pagbabago sa gawi sa pagkain."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Napipigilan ba ng intermittent fasting ang Alzheimer's?"
+    a: "Walang magandang ebidensya na nagpapatunay niyan. Karamihan ng pananaliksik ay nasa mga hayop, at ang mga pagsubok sa tao ay kadalasang maikli, isinagawa sa mas batang o sobra sa timbang na matatanda, at nakatuon sa pagbaba ng timbang. Sinasabi ng National Institute on Aging na kulang ang ebidensya para irekomenda sa publiko ang mga diyeta na pag-aayuno."
+  - q: "Ligtas ba ang intermittent fasting para sa matatanda?"
+    a: "Maaaring hindi. Maaaring humantong ang pag-aayuno sa hindi sinasadyang pagbaba ng timbang at kalamnan, pagkatuyo ng katawan, pagkahilo at pagkahulog, at maaari nitong gawing mapanganib na mababa ang asukal sa dugo sa mga umiinom ng insulin o ilang iba pang gamot sa diabetes. Sinasabi ng Mayo Clinic na maaaring hindi ito angkop sa mga may mataas na panganib ng pagkawala ng density ng buto at pagkahulog. Kumonsulta sa doktor bago subukan ito."
+  - q: "Dapat bang subukan ng taong may dementia ang pag-aayuno?"
+    a: "Hindi. Madalas nahihirapan ang taong may dementia na kumain at uminom nang sapat, at maaaring lumala ang mga sintomas ng asal at magdulot ng pagbaba ng timbang ang mahinang nutrisyon. Nagdadagdag ng panganib ang pag-aayuno nang walang napatunayang benepisyo. Sa halip, tumuon sa regular na pagkain, mga meryenda na gusto nila, at sapat na maiinom."
+  - q: "Ano ang mga senyales na hindi sapat ang kinakain o iniinom ng taong may dementia?"
+    a: "Bantayan ang pagbaba ng timbang, mas maluwag na damit, pagod, panghihina, paninigas ng dumi, o pagtanggi sa pagkain. Kabilang sa mga senyales ng pagkatuyo ng katawan na nakalista ng National Institute on Aging ang tuyong bibig, pagkahilo, mabilis na tibok ng puso at guni-guni. Sabihin sa doktor nila kapag napansin mo ang mga ito."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +53,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Ang intermittent fasting, gaya ng pagkain lamang sa loob ng walong oras o matinding pagbabawas ng kaloriya nang dalawang araw sa isang linggo, ay maraming napapansin, at may ilang artikulong nagsasabing maaari nitong protektahan ang utak. Kung ikaw ay matanda, o nag-aalaga ng taong may dementia, narito ang talagang ipinakita ng pananaliksik, at kung bakit mahalaga ang pag-iingat.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Pangkalahatang impormasyon lamang ito, hindi medikal na payo. Huwag magsimula ng pag-aayuno, o baguhin ang kinakain ng taong inaalagaan mo, nang hindi kumokonsulta sa doktor o rehistradong dietitian. Tingnan ang aming [medical disclaimer](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Napipigilan ba ng pag-aayuno nang paminsan-minsan ang dementia?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Walang magandang ebidensya na napipigilan o nababagalan ng intermittent fasting ang dementia. Sinasabi ng National Institute on Aging (NIA) na kulang ang ebidensya para irekomenda ang anumang uri ng diyeta na pagbabawas ng kaloriya o pag-aayuno, at kailangan pang malaman nang husto ang bisa at kaligtasan nito, lalo na sa matatanda ([NIA tungkol sa pagbabawas ng kaloriya at pag-aayuno](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Bakit napakalimitado ng ebidensya
 
-The NIA gives several reasons:
+Ilan ang dahilan na binanggit ng NIA:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Karamihan ng pag-aaral ay nasa mga hayop.** Nakapagbigay ng kawili-wiling resulta ang pananaliksik sa mga uod, langaw, daga at unggoy, pero hindi basta nalalapat ang mga natuklasang ito sa tao. Kahit sa mga hayop, halo-halo ang resulta; sa ilang uri ng daga, pinaikli ng pagbabawas ng kaloriya ang buhay.
+- **Maikli ang mga pagsubok sa tao.** Karamihan ay tumagal ng ilang linggo o buwan lamang.
+- **Karamihan ng pagsubok sa tao ay nakatuon sa pagbaba ng timbang** ng mga sobra sa timbang na matatanda, hindi sa alaala o dementia.
+- **Bihirang isama ang matatanda.** Maraming pagsubok ang kumuha ng mga taong edad 60 pababa.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Partikular na tiningnan ng isang sistematikong pagsusuri noong 2026 ang intermittent fasting sa mga adultong edad 60 pataas. Nakita nitong nananatiling limitado ang ebidensya sa pangkat na ito, na may maliliit na pag-aaral, maikling pagsubaybay at magkakaibang disenyo. Ang mga natuklasan tungkol sa pag-iisip at alaala ay galing sa mga indibidwal na pag-aaral, hindi sa pinagsamang resulta ng mga pagsubok. Binanggit din ng pagsusuri na iniugnay ng ilang pag-aaral ang napakaikling palugit sa pagkain o mahahabang pag-aayuno sa mas masamang resulta, at hinimok ng mga may-akda ang pag-iingat para sa matatanda ([pagsusuri noong 2026 sa Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+May ilang mananaliksik na nag-iisip na maaaring makaapekto sa utak ang paglipat ng katawan sa pagsunog ng taba habang nag-aayuno, pero teorya pa lang ito na pinag-aaralan. Sinasabi ng NIA na hindi pa tiyak ang siyensya.
 
-## What are the risks of fasting for older adults?
+## Ano ang mga panganib ng pag-aayuno para sa matatanda?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Hindi ligtas na eksperimento ang pag-aayuno para sa maraming matatanda. Kabilang sa posibleng panganib ang:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Hindi sinasadyang pagbaba ng timbang.** Ang pagkain ng mas kaunti kaysa kailangan ng katawan ay maaaring humantong sa pagbaba ng timbang at lakas ng kalamnan, na maaaring magpahina pa sa tao.
+- **Pagkawala ng kalamnan at buto.** Sa isang dalawang taong pagsubok na suportado ng NIA tungkol sa pagbabawas ng kaloriya sa mga batang at kalagitnaang edad na adulto, bahagyang bumaba ang density ng buto at lean body mass ng mga kalahok.
+- **Mababang asukal sa dugo dahil sa gamot sa diabetes.** Maaaring bumaba nang sobra ang asukal sa dugo ng mga umiinom ng insulin o ilang iba pang gamot sa diabetes kung lalaktawan o ipagpapaliban nila ang pagkain, ayon sa [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Maaaring magdulot ng pagkahilo, pagkalito at iritabilidad ang mababang asukal sa dugo.
+- **Pagkatuyo ng katawan.** Kung nilalaktawan ang inumin kasabay ng pagkain, maaaring matuyo ang katawan ng tao.
+- **Pagkahilo at pagkahulog.** Sinasabi ng Mayo Clinic na maaaring makaramdam ng matinding pagod at pagkahilo ang mga taong nag-aayuno nang paminsan-minsan, at maaaring hindi ito malusog na gawi para sa mga may mataas na panganib ng pagkawala ng buto at pagkahulog ([Mayo Clinic tungkol sa intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Iba pang epekto.** Binabanggit din ng Mayo Clinic ang sakit ng ulo, pagbabago ng mood at paninigas ng dumi, at may ilang ebidensyang nagsasabing ang 16 na oras na pag-aayuno na may 8 na oras na palugit sa pagkain ay maaaring magpataas ng panganib ng sakit sa puso kumpara sa ibang palugit sa pagkain. Hindi pa tiyak ang ebidensyang iyon.
 
-## Why is eating enough the bigger concern with dementia?
+## Bakit mas malaking alalahanin ang sapat na pagkain sa dementia?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Para sa taong may dementia, kadalasang problema ang pagkakaroon ng **sapat** na pagkain at inumin, hindi ang sobra. Ipinaliliwanag ng Alzheimer's Association na maaaring malito ang mga taong nasa katamtaman at huling yugto dahil sa dami ng pagpipilian sa pagkain, makalimutang kumain, o akalain nilang kumain na sila. Dagdag pa nito, maaaring lumala ang mga sintomas ng asal at magdulot ng pagbaba ng timbang ang mahinang nutrisyon ([Alzheimer's Association tungkol sa pagkain at pagkain](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Sinasabi ng Alzheimer's Society na ang hindi sapat na pagkain ay maaaring humantong sa pagbaba ng timbang, mas kaunting lakas ng kalamnan, pagod at panghihina, na nagpapahina pa sa tao at nagpapahirap sa paggaling mula sa impeksyon ([Alzheimer's Society tungkol sa gana sa pagkain](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Dahil sa mga ito, hindi magandang ideya ang pag-aayuno para sa taong may dementia.** Madaling maging nalaktawang pagkain ang nalaktawang pagkain. Anumang pagbabago sa paraan ng pagkain ng taong may dementia ay dapat gabayan ng kanilang doktor o ng rehistradong dietitian.
 
-## What are the warning signs of poor eating or drinking?
+## Ano ang mga babalang senyales ng mahinang pagkain o pag-inom?
 
-Watch for:
+Bantayan ang:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Pagbaba ng timbang**, o mas maluwag na damit.
+- **Pag-iwan ng pagkain o pagtanggi sa mga pagkain**, o pagtatago ng pagkain sa bibig.
+- **Pagod o panghihina.**
+- **Paninigas ng dumi**, na maaaring may kaugnayan sa diyeta at pagkatuyo ng katawan.
+- **Mga senyales ng pagkatuyo ng katawan.** Nakalista ng NIA ang tuyong bibig, pagkahilo, mabilis na tibok ng puso, at guni-guni, na maaari ring dulot ng mismong dementia ([NIA tungkol sa mga karaniwang problemang medikal](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Maraming posibleng dahilan ang mahinang gana sa pagkain: masakit na ngipin o maluwag na pustiso, bagong gamot, depresyon, paninigas ng dumi, mas kaunting aktibidad, o pagbabago sa panlasa at pang-amoy. Sabihin sa doktor ng tao ang alinman sa mga senyales na ito. Maaari silang maghanap ng sanhi at magmungkahi ng dietitian o suplemento.
 
-## How can you help someone eat and drink enough?
+## Paano ka makatutulong sa taong kumain at uminom nang sapat?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Mag-alok ng maliliit na pagkain at meryenda nang madalas**, sa halip na tatlong malalaking pagkain.
+- **Ihain ang mga paboritong pagkain**, at maging flexible habang nagbabago ang panlasa. Maaaring tanggapin ang matatamis na pagkain kung mababa ang gana; magtanong sa doktor kung may dahilang medikal para limitahan ang asukal.
+- **Ilagay ang mga inumin sa abot-kamay** at mag-alok ng maliliit na tasa sa buong araw. Binibilang din ang sopas, prutas, smoothie at milkshake.
+- **Kumain nang magkasama** kapag kaya. Ang pagkain ay pagkakataon para sa kasama, hindi gawaing dapat madaliin.
+- **Subukan ang mga pagkaing puwedeng kamayin**, tulad ng sandwich, hiwa ng prutas o piraso ng manok, kung nahihirapan na sa kutsara at tinidor.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+May higit pang ideya sa pagkain ang aming [gabay sa diyeta](/brain-health/diet/). Maaari ring maging masayang gawaing magkasama ang pagtulong sa paghahanda ng pagkain; tingnan ang [mga gawaing bahay](/activities/household-tasks/).
 
-## Talk with a doctor
+## Kumonsulta sa doktor
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Bago subukan ang anumang plano ng pag-aayuno, kumonsulta sa doktor o rehistradong dietitian, lalo na kung umiinom ka ng gamot para sa diabetes o presyon ng dugo, kamakailan lang pumayat, o nahulog. Para sa taong may dementia, magtanong sa doktor nila kung ilan ang dapat kainin at inumin nila araw-araw, sa halip na tungkol sa pag-aayuno.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Humingi agad ng medikal na tulong para sa biglaang pagkalito, pagkahimatay, o mga senyales ng napakababang asukal sa dugo na hindi bumubuti agad.

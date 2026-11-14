@@ -1,33 +1,32 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Il-logħbiet tal-moħħ jipprevjenu d-dimenzja? X’juri l-evidenza"
+seoTitle: "Il-logħbiet tal-moħħ jipprevjenu d-dimenzja? L-evidenza"
+description: "X’tgħid ir-riċerka dwar logħbiet tal-moħħ u d-dimenzja: stimulazzjoni kognittiva, taħriġ bil-kompjuter, it-trial ACTIVE u l-każ tal-FTC dwar Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ebda logħba tal-moħħ ma ntwera li tipprevjeni d-dimenzja. It-taħriġ tal-moħħ bil-kompjuter
+  jtejjeb prinċipalment il-kompiti li n-nies jipprattikaw. Studju wieħed mit-trial ACTIVE rabat
+  taħriġ speċifiku tal-veloċità ma’ sessjonijiet ta’ tisħiħ ma’ inqas dijanjosi ta’ dimenzja matul 20
+  sena, sejbien dejjaq. Għal nies li diġà jgħixu bid-dimenzja, stimulazzjoni kognittiva f’grupp turi
+  benefiċċji żgħar u qosra. Il-logħbiet jaqblu l-aħjar għall-pjaċir u l-kumpanija.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Studji dwar it-taħriġ tal-moħħ juru li n-nies jitjiebu fil-kompiti li jipprattikaw, b’evidenza ferm inqas li dan jgħodd fil-ħajja ta’ kuljum."
+  - "Fit-trial ACTIVE, nies biss li għamlu taħriġ speċifiku tal-veloċità flimkien ma’ sessjonijiet ta’ tisħiħ kellhom inqas dijanjosi ta’ dimenzja matul 20 sena. It-taħriġ tal-veloċità mingħajr tisħiħ, u t-taħriġ tal-memorja u tar-raġunament, ma wrewx dan."
+  - "Fl-2016, il-produttur ta’ Lumosity ħallas $2 miljun biex jissetta akkużi tal-FTC li ma kellux ix-xjenza għal pretensjonijiet dwar it-tfixkil tad-dimenzja."
+  - "Għal nies bi dimenzja ħafifa sa moderata, gruppi ta’ stimulazzjoni kognittiva juru benefiċċji żgħar u qosra għall-ħsieb, u titjib iktar ċar fil-komunikazzjoni u l-interazzjoni soċjali."
+  - "Il-logħbiet ta’ Golden Moments huma għall-pjaċir u l-ħin maqsum. Mhumiex trattament u ma jipprevjenux jew jgħaffu d-dimenzja."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Il-logħbiet tal-moħħ jipprevjenu l-Alzheimer?"
+    a: "Le. Ebda logħba tal-moħħ ma ntwera li tipprevjeni l-Alzheimer jew xi forma oħra ta’ dimenzja. In-National Institute on Aging jgħid li m’hemmx biżżejjed evidenza li xi app kummerċjali tat-taħriġ tal-moħħ għandha l-effetti li jidhru f’triali ta’ riċerka. Il-logħbiet xorta jistgħu jkunu mod pjaċevoli kif tgħaddi l-ħin."
+  - q: "X’sab it-trial ACTIVE dwar it-taħriġ tal-veloċità u d-dimenzja?"
+    a: "Analiżi tal-2026 qabbdet parteċipanti ta’ ACTIVE mar-rekords tal-Medicare matul 20 sena. Nies li għamlu taħriġ tal-veloċità tal-ipproċessar u mill-inqas sessjoni ta’ tisħiħ kellhom rata iktar baxxa ta’ dimenzja dijanjostikata minn dik tal-grupp ta’ ebda taħriġ. It-taħriġ tal-veloċità mingħajr tisħiħ, u t-taħriġ tal-memorja jew tar-raġunament, ma wrewx effett sinifikanti."
+  - q: "Il-logħbiet u l-puzzles huma tajbin għal persuna li diġà għandha d-dimenzja?"
+    a: "Jistgħu jkunu, jekk il-persuna tgawdihom. Stimulazzjoni kognittiva f’grupp, li tinkludi logħbiet tal-kliem, puzzles, mużika u konverżazzjoni, turi benefiċċji żgħar u qosra għall-ħsieb u benefiċċji iktar ċari għall-komunikazzjoni u l-interazzjoni soċjali. Il-pjaċir, mhux ir-riżultat tat-test, huwa l-għan it-tajjeb."
+  - q: "Għalfejn il-FTC immultat lil Lumosity?"
+    a: "Fl-2016 il-Federal Trade Commission akkuża lil Lumos Labs li għamlet pretensjonijiet dwar il-logħbiet tagħha, inklużi li jdewmu t-tnaqqis relatat mal-età u d-dimenzja, mingħajr ix-xjenza biex isostnuhom. Il-kumpanija qablet li tħallas $2 miljun u li jkollha evidenza xjentifika affidabbli qabel tagħmel pretensjonijiet bħal dawn fil-futur."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +57,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Logħbiet tal-moħħ jinsabu kullfejn, u ħafna jwiegħdu li jżommu l-moħħ żagħżugħ. Jekk tieħu ħsieb lil xi ħadd bid-dimenzja, jew tinkwieta dwar il-memorja tiegħek, huwa naturali li tistaqsi jekk il-logħbiet jistgħux jgħinu. Hawn x’juri r-riċerka verament, inklużi l-partijiet inkoraġġanti u dawk li ma jagħmlux dan.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Din hi informazzjoni ġenerali, mhux parir mediku. Ara [id-dikjarazzjoni medika tagħna](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Il-logħbiet tal-moħħ jipprevjenu d-dimenzja?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ebda logħba tal-moħħ ma ntwera li tipprevjeni d-dimenzja. In-National Institute on Aging (NIA) jagħti parir lin-nies biex joqogħdu attenti minn pretensjonijiet li logħbiet tal-kompjuter u online jtejbu l-memorja, u jgħid li m’hemmx biżżejjed evidenza li kwalunkwe app kummerċjali tat-taħriġ tal-moħħ għandha l-istess effett bħat-taħriġ ittestjat f’triali kliniċi ([NIA dwar il-prevenzjoni tal-Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Dan ma jagħmilx il-logħbiet inutli. Ifisser li l-valur tagħhom huwa fil-pjaċir, fil-kumpanija u fir-rutina, mhux fil-protezzjoni ta’ ħadd mid-dimenzja.
 
-## What is "near transfer", and why does it matter?
+## X’inhu “transfer” qrib, u għalfejn jimpurta?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Meta tipprattika kompitu, normalment titjieb fih. Ir-riċerkaturi jsejħu dan effett ta’ taħriġ. Il-mistoqsija iebsa hija jekk it-titjib jgħaddix għal affarijiet oħra: għal kompiti simili (transfer qrib) jew għall-ħajja ta’ kuljum, bħal tfakkir ta’ appuntamenti jew it-tmexxija tal-flus (transfer ’il bogħod).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Reviżjoni maġġuri tal-2016 eżaminat l-istudji li kumpaniji tat-taħriġ tal-moħħ issemmew bħala l-aħjar evidenza tagħhom. Sabet evidenza estensiva li n-nies jitjiebu fil-kompiti mħarrġa, inqas evidenza li jitjiebu f’kompiti relatati mill-qrib, u ftit evidenza li t-taħriġ itejjeb il-ħsieb ta’ kuljum. Ħafna mill-istudji kellhom ukoll problemi fid-disinn li għamlu konklużjonijiet solidi impossibbli ([Simons u kollegi, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## X’jgħidu r-reviżjonijiet dwar it-taħriġ tal-moħħ bil-kompjuter?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Reviżjonijiet ta’ Cochrane, li jgħaqqdu l-aħjar triali disponibbli, ħarsu lejn taħriġ bil-kompjuter li jdum mill-inqas 12-il ġimgħa:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Adulti f’saħħithom ta’ 65 sena jew aktar:** tmien triali b’1,183 persuna. L-evidenza kienet ta’ kwalità baxxa jew baxxa ħafna. Jista’ jkun hemm benefiċċju ftit wara t-taħriġ, b’ebda evidenza ċara li jdum ([reviżjoni ta’ Cochrane, adulti anzjani f’saħħithom](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Nies b’indebboliment kognittiv ħafif:** tmien triali b’660 persuna. Ebda trial ma rrapporta jekk in-nies komplewx jiżviluppaw dimenzja, u l-evidenza kienet dgħajfa wisq biex issir konklużjoni ([reviżjoni ta’ Cochrane, indebboliment kognittiv ħafif](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## X’sab it-trial ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE huwa trial kbir fl-Istati Uniti li beda fl-1998 b’2,802 adult ta’ 65 sena jew aktar li kienu jgħixu waħedhom u ma kellhomx problemi sinifikanti tal-memorja jew tal-ħsieb. In-nies inqasmu b’mod każwali f’wieħed minn tliet tipi ta’ taħriġ f’gruppi żgħar (veloċità tal-ipproċessar, memorja jew raġunament) jew f’grupp ta’ ebda kuntatt. It-taħriġ kien sa għaxar sessjonijiet fuq ħames sa sitt ġimgħat. Xi nies li temmew ħafna mis-sessjonijiet ġew offruti wkoll b’mod każwali sessjonijiet ta’ tisħiħ madwar sena u tlieta wara.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+It-taħriġ tal-veloċità kien jinvolvi li tara u tipproċessa informazzjoni viżwali f’daqqiet ta’ ħarsa dejjem iqsar, f’livell li jaggusta mal-progress tan-nies.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Fl-2026, ir-riċerkaturi qabbdu 2,021 parteċipant mar-rekords tal-Medicare għal 20 sena ([analiżi ta’ 20 sena ta’ ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Dan hu eżatt dak li sabu:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Taħriġ tal-veloċità flimkien ma’ mill-inqas sessjoni ta’ tisħiħ:** rata iktar baxxa ta’ dimenzja dijanjostikata mill-grupp ta’ ebda kuntatt (hazard ratio ta’ 0.75, li b’mod approssimattiv ifisser rata 25% iktar baxxa).
+- **Taħriġ tal-veloċità mingħajr tisħiħ:** l-ebda rata iktar baxxa.
+- **Taħriġ tal-memorja jew tar-raġunament:** l-ebda effett sinifikanti fuq id-dijanjosi tad-dimenzja.
+- **Kull grupp ta’ taħriġ kollettivament imqabbel mal-grupp ta’ ebda kuntatt:** tendenza għal rati iktar baxxi, iżda mhux sinifikanti statistikament.
 
-### The limits of this finding
+### Il-limiti ta’ din is-sejba
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Japplika għal **tip speċifiku wieħed ta’ taħriġ tal-veloċità supervizzat b’sessjonijiet ta’ tisħiħ**, mhux għal logħbiet tal-moħħ b’mod ġenerali.
+- Ir-riżultat sinifikanti ġie minn **subgrupp** (nies li temmew ħafna mill-ewwel sessjonijiet u ġew offruti tisħiħ), mhux mill-grupp tal-veloċità kollu.
+- Id-dimenzja kienet imkejla bl-**użu tal-kodiċi tad-dijanjosi fir-rekords tal-Medicare**, mhux billi eżaminaw lil kull persuna. Madwar kwart tal-parteċipanti oriġinali tħalla barra għax kienu rreġistrati fil-Medicare Advantage, li ma jkollux rekords sħaħ tat-talbiet.
+- Il-parteċipanti ma kellhomx problemi sinifikanti tal-ħsieb meta bdew. Ir-riżultati ma jgħidu xejn dwar logħbiet għal nies **li diġà jgħixu bid-dimenzja**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Hija sejba interessanti li tistħoqqilha aktar riċerka. Mhix evidenza li xi app tipprevjeni d-dimenzja.
 
-## What did the FTC say about Lumosity?
+## X’qal il-FTC dwar Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Fi Jannar 2016, Lumos Labs, il-produttur ta’ Lumosity, qabel li jħallas $2 miljun biex jissetta akkużi tal-Federal Trade Commission ta’ reklamar qarrieq. Il-FTC qal li l-kumpanija pretendiet, bla xjenza adegwata, li l-logħbiet tagħha jistgħu jtejbu l-prestazzjoni fuq il-post tax-xogħol u fl-iskola u jdewmu t-tnaqqis relatat mal-età, l-indebboliment kognittiv ħafif, id-dimenzja u l-Alzheimer. L-ordni jeħtieġ lill-kumpanija jkollha evidenza xjentifika kompetenti u affidabbli qabel ma tagħmel pretensjonijiet bħal dawn fil-futur ([dikjarazzjoni tal-FTC għall-istampa](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Il-lezzjoni għall-familji: kun skettiku ma’ kull logħba, app jew programm li jwiegħed li jipproteġi l-memorja jew jipprevjeni d-dimenzja.
 
-## Can games help someone who already has dementia?
+## Jistgħu l-logħbiet jgħinu lil xi ħadd li diġà għandu d-dimenzja?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Jistgħu jżidu ma’ ġurnata tajba, u dan jimpurta ħafna. L-aktar approċċ studjat sew huwa **stimulazzjoni kognittiva**: attivitajiet pjaċevoli f’grupp, bħal diskussjoni, tfakkir, logħbiet tal-kliem, puzzles u mużika, ġeneralment f’grupp żgħir immexxi minn facilitatur.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Reviżjoni ta’ Cochrane tal-2023 ta’ 37 trial b’2,766 persuna bi dimenzja ħafifa sa moderata sabet ([reviżjoni ta’ Cochrane dwar stimulazzjoni kognittiva](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **benefiċċju ftit u qasir** fuq it-testijiet tal-ħsieb (evidenza ta’ kwalità moderata);
+- **titjib klinikament rilevanti fil-komunikazzjoni u l-interazzjoni soċjali** (evidenza ta’ kwalità għolja, minn numru iżgħar ta’ studji);
+- **benefiċċji ftit** għall-kwalità tal-ħajja, il-burdata u l-imġiba.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Il-benefiċċji tkejlu l-aktar immedjatament wara programmi ta’ madwar għaxar ġimgħat, u ftit studji kkontrollaw jekk damux. L-istimulazzjoni kognittiva hija programm strutturat f’grupp, allura dawn ir-riżultati mhux awtomatikament japplikaw għal persuna li tilgħab waħedha logħba fuq tablet.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Il-Lancet Commission tal-2024 jgħid ukoll li programmi ta’ attività huma importanti għal nies li qed jgħixu bid-dimenzja, biex jinżammu l-pjaċir u l-iskop ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## X’inhuma verament tajbin il-logħbiet?
 
-When chosen well, games can offer:
+Meta jintgħażlu sew, il-logħbiet jistgħu joffru:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Pjaċir.** Nofs siegħa pjaċevoli tiswa għalih innifsu.
+- **Konnessjoni.** Li tilgħab ġenb ġenb tagħti xi ħaġa sempliċi li tqsmu meta t-taħdit ikun diffiċli. Ara [kif tilgħab flimkien](/caregiving/how-to-play-together/).
+- **Rutina.** Attività familjari fl-istess ħin kull jum tista’ tagħti kumdità.
+- **Kunfidenza.** Attivitajiet imqabbla ma’ dak li persuna għadha tagħmel sew jagħtuha ħila tħoss kapaċi, mhux ittestjata.
+- **Taħdit.** Ritratt jew proverbju familjari jista’ jiftaħ storja. Ipprova [conversation cards](/games/conversation-cards/) jew [finish the saying](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+X’għandek tevita: timers, punteġġi, serje u kull ħaġa li tħoss bħal test tal-memorja. Jekk il-persuna tiddejjaq, waqqaf. Li tispiċċa kmieni, jew sempliċiment toqgħod flimkien, huwa riżultat tajjeb. Il-gwida tagħna dwar [għażla ta’ apps u logħbiet](/caregiving/choosing-apps-and-games/) fiha lista ta’ kontroll.
 
-## Where Golden Moments fits
+## Fejn jaqa’ Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Logħbiet ta’ Golden Moments, bħal [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) u [word search b’ittri kbar](/games/word-search/), huma magħmula għall-pjaċir u l-ħin maqsum. M’għandhomx arloġġ u lanqas punteġġ. **Mhumiex** trattament, u **ma jipprevjenux** u lanqas ma jgħaffu d-dimenzja. Nippreferu ngħidulek dan b’mod ċar milli nwiegħdu xi ħaġa li l-ebda logħba ma tista’ tagħti.
 
-## Talk with a doctor
+## Kellem tabib
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Jekk qed tinkwieta dwar bidliet fil-memorja fik innifsek jew f’xi ħadd li tieħu ħsiebu, ara tabib aktar milli tistrieħ fuq app. Tabib jista’ jfittex kawżi li jistgħu jiġu ttrattati u jiddiskuti l-passi bl-aħjar evidenza, bħall-immaniġġjar tal-pressjoni tad-demm u l-iċċekkjar tas-smigħ. Ara [Tista’ tiġi prevenuta d-dimenzja?](/brain-health/can-dementia-be-prevented/) għal aktar. Għal konfużjoni f’daqqa jew bidliet oħra f’daqqa, ikseb għajnuna medika urġenti.

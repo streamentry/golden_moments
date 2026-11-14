@@ -39,7 +39,7 @@ health: false
 
 Lavatio res privata est. Persona cum dementia dum in balneum vel in cubiculum lavationis intrat, aqua frigida, nudatio, confusio vel periculum fortasse ei sentiri possunt. Primum roga quid lavationem commodiorem reddat, deinde cubiculum para antequam auxilium offeras. Propositum est ut consuetudinem personae sustineas, non ut recusationem in certamen vertas.
 
-[Consilium Alzheimer's Association de lavatione](https://www.alz.org/help-support/caregiving/daily-care/bathing) notat auxilium in re intima accipere incommodum esse posse. [Consilium Dementia Australia de mundit ia](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) suadet ut praeferentias personae sequaris, gradus simplices adhibeas et roges quod auxilium velit. Homines differunt; tantum ea muta quae huic personae conveniunt.
+[Consilium Alzheimer's Association de lavatione](https://www.alz.org/help-support/caregiving/daily-care/bathing) notat auxilium in re intima accipere incommodum esse posse. [Consilium Dementia Australia de hygiene](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) suadet ut praeferentias personae sequaris, gradus simplices adhibeas et roges quod auxilium velit. Homines differunt; tantum ea muta quae huic personae conveniunt.
 
 ## Quomodo me parare debeo antequam auxilium offero?
 

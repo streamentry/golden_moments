@@ -1,34 +1,33 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Korleis du kan spele spel saman med nokon som har demens"
+description: "Ei praktisk rettleiing for å spele spel saman med nokon som lever med demens: oppsett, tempo, å aldri korrigere, å gjere spel enklare, og å vite når du bør stoppe."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Sjå på eit spel som tid saman, ikkje ein test. Vel eit roleg tidspunkt på dagen, sit ved sidan av
+  kvarandre i eit stille rom, og tilby eitt enkelt spel. La personen bestemme tempoet, korriger aldri
+  harmlause feil, gjer spelet enklare ved det første teiknet på press, og gjer bileta til samtale. Stopp
+  medan det framleis kjennest bra. Å avslutte tidleg, eller berre sjå saman, er eit godt resultat.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Målet er glede og kontakt, ikkje å fullføre eller få riktige svar."
+  - "Set opp først: stille rom, godt lys, briller og høyrselsapparat på, fjernsynet av, eitt spel klart."
+  - "Korriger ikkje harmlause feil. Seie «La oss prøve det på denne måten», eller hald fram roleg."
+  - "Gjer eit spel enklare før frustrasjonen veks: færre bilete, færre val, bilete som blir verande synlege."
+  - "Bruk bilete som utgangspunkt for historier med «Fortel meg om …» i staden for «Hugsar du …?»"
+  - "Stopp ved dei første teikna på trøytheit eller uro. Å stoppe tidleg er ein suksess, ikkje eit nederlag."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Kor lenge bør vi spele eit spel?"
+    a: "Det finst ingen rett lengd. For mange er nokre få minutt nok, og somme dagar held éin runde. Følg med på personen i staden for klokka, og stopp medan dei framleis verkar avslappa."
+  - q: "Bør eg la dei vinne, eller late som eg ikkje merkar feil?"
+    a: "I eit felles spel med lågt press er det ingenting å vinne eller tape. Viss ein feil ikkje plagar personen, la han gå. Viss han ser ut til å plage dei, hjelp stille, eller gjer spelet enklare utan å peike på det."
+  - q: "Kva om dei heller vil sjå på at eg speler?"
+    a: "Det er fint. National Institute on Aging foreslår å la personen berre sjå på viss dei ser ut til å like det betre. Snakk om det du ser, og inviter dei til å peike eller velje når dei har lyst."
+  - q: "Er desse spela ein måte å teste minnet på?"
+    a: "Nei. Spela våre er enkle felles aktivitetar for glede og samtale. Dei er ikkje ein minnetest, dei måler ingenting, og dei er ikkje ei behandling av demens."
+  - q: "Kva spel er best å starte med?"
+    a: "Start med det enklaste som passar personen. Picture Pairs med fire felt og bilete som blir synlege, eller Find the Same med to val, er milde startpunkt. Conversation Cards fungerer godt viss personen likar å snakke meir enn å trykke."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +46,168 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Eit godt spel saman med nokon som lever med demens, ser ikkje ut som ein konkurranse. Det ser ut som to
+personar som sit tett, peikar på bilete, ler av eit ordtak, og snakkar om det som kjem opp. Spelet er berre
+ei grunngiving for å bruke tid saman.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Denne rettleiinga tek for seg korleis du set opp, korleis du legg tempoet i eit spel, kva du seier når noko
+blir «gale», korleis du gjer eit spel enklare eller litt vanskelegare, korleis du gjer det om til samtale, og
+korleis du veit når du bør stoppe. Ho fungerer for [spela våre](/games/) og for kort, puslespel og brettspel du
+allereie har.
 
-## What is the best way to play a game with someone who has dementia?
+## Kva er den beste måten å spele eit spel på med nokon som har demens?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Fokuser på glede, ikkje prestasjon. Det er kjerneråda frå [retningslinene til Alzheimer's Association om aktivitetar](https://www.alz.org/help-support/caregiving/daily-care/activities):
+bygg på evnene personen framleis har, hjelp dei å kome i gang, gjer dei vanskelege delane sjølv, og kritiser
+ikkje eller korriger harmlause aktivitetar.
 
-In practice that means:
+I praksis tyder det:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Sit ved sidan av dei, ikkje rett over.** Side om side kan de begge sjå skjermen eller bordet, og hjelpe
+  kjennest som lagarbeid, ikkje tilsyn.
+- **Tilby eitt spel om gongen.** Ein meny med val kan kjennast som ein test før noko i det heile har starta.
+- **Følg deira leiing.** Viss dei vil trykke på bileta i si eiga rekkjefølgje, snakke om eitt bilete i ti minutt,
+  eller stoppe etter to omgangar, er det spelet for i dag.
+- **Tel dei gode augeblikka, ikkje dei fullførte rundane.** Eit smil, ei historie eller ei roleg halvtime er resultatet
+  du ser etter.
 
-## How do I set up before we start?
+## Korleis set eg opp før vi startar?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Nokre minutt med oppsett hindrar mesteparten av frustrasjonen som folk skuldar på sjølve spelet.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Vel det beste tidspunktet på dagen for dei.** [Retningslinene til National Institute on Aging (NIA) om tilpassing av aktivitetar](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)
+   rår til å planleggje turar og aktivitetar til den tida på dagen då personen er på sitt beste. For mange er det
+   midt på formiddagen. Seint på ettermiddagen er ofte vanskelegare; sjå [roande aktivitetar seint på ettermiddagen](/caregiving/late-day-restlessness/).
+2. **Gjer rommet stille.** Slå av fjernsyn og radio, og lukk døra viss du kan. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+   anbefaler å avgrense støy og forstyrringar før du prøver å snakke.
+3. **Sjekk komforten først.** Ein drikk innan rekkevidd, eit toalettbesøk på førehand, ein god stol, og briller og
+   høyrselsapparat på plass.
+4. **Lys opp rommet godt.** Klart, jamt lys utan blending på skjermen gjer bileta lettare å sjå.
+5. **Gjer spelet klart før du set deg.** Opne det, vel innstillingane og still volumet sjølv. Snu så skjermen mot
+   dei. For tips om nettbrett, sjå [oppsett av nettbrett eller mobil](/caregiving/tablets-and-screens/).
+6. **Støtt eininga.** Eit stativ eller eit deksel som held nettbrettet oppreist, gjer at ingen treng halde det, og
+   det er lettare å peike.
 
-## How do I invite them without pressure?
+## Korleis inviterer eg dei utan press?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Gjer invitasjonen uformell og lett å seie nei til. Nokre setningar som ofte fungerer godt:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Eg fann nokre hagebilete. Vil du sjå på dei saman med meg?»
+- «Kan du hjelpe meg med dette puslespelet? Eg sit fast.»
+- «Vil du ha blomane eller fuglane i dag?» (eit val mellom to er lettare enn eit opent spørsmål)
+- «Eg lagar eit kort til søstera di. Kva farge skal dette vere?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association rår til å forklare føremålet med ein aktivitet, til dømes at du lagar eit kort til ein venn,
+fordi ein grunn gir han meining. Å be om hjelp fungerer òg, fordi det lèt personen kjenne seg nyttig.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Viss dei seier nei, aksepter det. Prøv igjen seinare, eller tilby noko anna. Vår rettleiing om
+[kva du gjer når dei seier nei](/caregiving/when-they-say-no/) går lenger.
 
-## How long should a game last, and how fast should we go?
+## Kor lenge bør eit spel vare, og kor fort bør vi gå?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+La personen bestemme tempoet, og planlegg korte økter. Det finst ingen forskingsbasert ideell lengd for eit
+felles spel. To til fem roleg minutt kan vere ein heil aktivitet.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Vent lenger enn det verkar naturleg.** NIA rår til å gi meir tid til å svare og å prøve å ikkje avbryte. Tel
+  til ti i hovudet før du hjelper.
+- **Eitt steg om gongen.** Gi éin kort instruks («Trykk på eit bilete»), og vent. Vis heller enn å forklare: peik
+  på kvar dei skal trykke.
+- **Pause fritt.** Viss dei stoppar for å snakke om eit bilete, kan spelet vente. Det er ingen grunn til å haste.
+- **La dei sjå på.** NIA påpeikar at somme føretrekkjer å sjå på, og det er eit gyldig val.
 
-## Should I correct wrong answers?
+## Skal eg korrigere feil svar?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Nei. Å rette på nokon gong på gong fortel dei at dei feilar, sjølv om du meiner det godt. Alzheimer's Association
+rår til å ikkje kritisere eller korrigere harmlause aktivitetar. I eit spel er nesten kvar feil harmlaus.
 
-| Instead of | Try |
+| I staden for | Prøv |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Nei, det er feil.» | «La oss prøve det på denne måten.» (eit døme NIA gir) |
+| «Det er ikkje ein match. Sjå igjen.» | Seie ingenting og ta neste tur, eller «Å, dei to er jo raude.» |
+| «Hugsar du kven dette er?» | «Fortel meg om dette biletet.» |
+| «Det har du gjort før.» | «Det var eit godt eitt. La oss gjere det igjen.» |
+| «Kom igjen, du kan dette.» | «Vil du at eg skal vise slutten?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Viss ein feil tydeleg frustrerer dei, hjelp stille. Peik på rett bilete, ta ein tur sjølv, eller gjer spelet enklare
+neste runde. Viss eit ordtak får ein morosam feil slutt, le med. Slutten dei fann på, kan vere betre.
 
-## How do I make a game easier or harder?
+## Korleis gjer eg eit spel enklare eller vanskelegare?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Juster spelet etter personen den dagen, ikkje etter eit stadiumsnamn. Den same personen kan trenge ei enklare
+utgåve om kvelden enn om morgonen. Det første rådet frå NIA er å tilpasse aktiviteten til det personen kan gjere,
+og sørgje for at dei kjenner seg vellukka.
 
-| Game | Make it easier | Make it a little harder |
+| Spel | Gjer det enklare | Gjer det litt vanskelegare |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Start med 4 felt og la bileta vere synlege | Fleire felt, eller gøym bileta viss det kjennest greitt |
+| [Find the Same](/games/find-the-same/) | 2 val | Opptil 4 val |
+| [Sort Together](/games/sort-together/) | Du held biletet, dei peikar på kurven | Dei trykker både på bilete og kurv av seg sjølv |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 brikker, snakk om heile biletet først | 9 brikker |
+| [Finish the Saying](/games/finish-the-saying/) | Vis slutten, og seie den saman | La dei seie slutten før dei trykker |
+| [Word Search](/games/word-search/) | Skriv det ut, og leit etter eitt ord saman, peik på førstebokstaven | La dei velje neste ord å leite etter |
+| [Coloring](/games/coloring/) | Du vel to fargar, dei vel mellom dei | Dei vel alle fargane |
+| [Conversation Cards](/games/conversation-cards/) | Berre sjå på biletet saman | Bruk dei opne spørsmåla på kortet |
+| [Photo Pairs](/games/photo-pairs/) | Nokre få kjære familiebilete | Legg til fleire bilete |
+| [Picture Bingo](/games/picture-bingo/) | Ein hjelpar sit saman med kvar spelar | Spelarane merkar sine eigne kort |
+| [Calm Breathing](/games/calm-breathing/) | Berre sit og sjå på det saman | Pust med, sakte |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Teikn på at spelet er for vanskeleg: lange pausar som ser bekymra ut heller enn gjennomtenkte, gjentekne «Eg klarer
+ikkje», at dei skyv eininga bort, eller feil som gjer dei opprørte. Teikn på at det kan vere for enkelt: kjedsomheit,
+eller at dei seier at det er barnsleg. Viss det skjer, respekter det og byt til noko som kjennest vaksent, til dømes eit
+ordsøk, eit puslespel av eit ekte fotografi, eller å snakke om eit bilete frå yrket dei hadde.
 
-## How do I turn a game into a conversation?
+## Korleis gjer eg eit spel om til ein samtale?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Bruk kvart bilete som ein invitasjon til å snakke, og sjå på alt dei seier som eit godt svar. For mange familiar er dette
+den beste delen av å spele.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Still opne spørsmål utan rette svar.** «Kva legg du merke til?» «Kva liker du best?» «Fortel meg om eit kjøkken som dette.»
+- **Del først.** «Bestemora mi hadde ein hund som denne.» Historien din gjer det lettare for dei å dele ei sjølv.
+- **Følg sidesporet.** Viss eit bilete av ein bil fører til ei historie frå ein biltur, er historien aktiviteten. Late spelet
+  stå på pause.
+- **Ikkje kontroller fakta.** I minnearbeid betyr ein triveleg samtale meir enn nøyaktige detaljar. Viss historia er endra frå sist,
+  nyt den nye versjonen.
+- **Bruk dei innebygde spørsmåla.** [Finish the Saying](/games/finish-the-saying/) følgjer kvart ordtak med eit samtalespørsmål, og
+  [Conversation Cards](/games/conversation-cards/) er laga nettopp for dette. [Photo Pairs](/games/photo-pairs/) bruker dine eigne
+  familiebilete, som ofte set i gang dei rikaste historiene.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Fleire idear finn du i rettleiingane våre om [minneaktivitetar](/activities/reminiscence/) og
+[kommunikasjonstips](/caregiving/communication-tips/).
 
-## When should we stop?
+## Når bør vi stoppe?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Stopp ved dei første teikna på trøytheit eller uro, helst litt før. Alzheimer's Association rår til å stoppe eller endre
+aktiviteten når merksemda blir borte eller frustrasjonen aukar.
 
-Watch for:
+Sjå etter:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- gjespingar, at dei sig saman, eller at blikket glid bort frå skjermen;
+- rastløyse, at dei reiser seg, eller at dei spør om å gå;
+- sukk, korte svar, eller «Eg er ikkje god til dette»;
+- tilfeldig trykking eller at dei skyv eininga bort;
+- tårer, irritasjon eller ei brå endring i humøret.
 
-How to stop well:
+Korleis du stoppar godt:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Avslutt med noko lett.** Eitt siste par dei kan finne, eller eit siste bilete å beundre.
+- **Gjer det til noko om deg.** «Eg kunne tenkt meg ein kopp te. Skal vi stoppe her?» unngår at det høyrest ut som om dei
+  gjorde det dårleg.
+- **Gå over til noko fysisk eller roande.** Ein kort spasertur, ein matbit, å brette klede eller musikk.
+- **Seie noko varmt.** «Eg likte å gjere det saman med deg.» Ingen ros for å «få det rett», berre glede over tida saman.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Å avslutte tidleg, endre planar, eller gi opp spelet og berre sitje saman er alle gode resultat.
 
-## Can we play in a group or over a video call?
+## Kan vi spele i gruppe eller på videosamtale?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ja, med litt ekstra oppsett. I ei gruppe, hald det til nokre få personar, sett hjelparar ved sidan av dei som treng det,
+og vel eit spel med eit tydeleg felles fokus. [Picture Bingo](/games/picture-bingo/) har utskrivbare kort og ein oppringjar
+på skjermen for grupper. Sjå [aktivitetar for grupper på sjukeheim](/activities/care-home-groups/) for meir.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Ved ein videosamtale kan personen på samtalen beskrive eit bilete, medan nokon i rommet peikar og trykker. Hald samtalane
+korte og kjende. Vår rettleiing om [telefon- og videosamtalar](/activities/phone-and-video-calls/) har fleire tips.
 
-## What if a game just isn't working?
+## Kva om eit spel berre ikkje fungerer?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Somme dagar slår ingenting an, og det er ikkje ein kommentar til deg eller dei. Legg spelet bort, og prøv ei anna
+tid på dagen, eit anna spel, eller ingen spel i det heile. Mange gode aktivitetar har ingenting med skjermar å gjere:
+musikk, å brette handkle, å sjå i eit fotoalbum, eller ein kort tur. Sjå vår [liste over aktivitetsidéar](/activities/ideas/) for meir.

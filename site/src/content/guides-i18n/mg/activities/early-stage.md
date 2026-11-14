@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Hetsika ho an’ny dementia amin’ny sehatra voalohany"
+seoTitle: "Hetsika dementia amin’ny sehatra voalohany: hevitra mety"
+description: "Hevitra hetsika ho an’ny dementia amin’ny sehatra voalohany: fitiavana, lalao, dia any ivelany, fanoratana, miaraka amin’ny fanovana kely."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Amin’ny dementia amin’ny sehatra voalohany, betsaka ny olona mbola afaka
+  manohy izay tiany: fitiavana, karatra sy lalao an-tabilao, sakafo, zaridaina,
+  fandehanana an-tongotra, fikambanana, finoana ary fanampiana an-tsitrapo. Ny
+  fanovana lehibe dia vondrona kely kokoa, dia fohy kokoa, drafitra soratra
+  tsotra ary mpiara-monina akaiky. Anontanio ny olona hoe inona no fanampiana
+  tiany, ary avelao izy hitarika.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Ny olona betsaka amin’ny sehatra voalohany dia mbola miaina tsy miankina be. Ny hetsika matetika dia ilaina ovaina, fa tsy soloina."
+  - "Anontanio ny olona hoe inona no fanohanana tiany, ary ifampiresaho famantarana tsotra hoe rehefa tsara ny hanampy."
+  - "Vondrona kely, fotoana mangina ary dia fohy matetika dia manova be."
+  - "Mety ho fotoana tsara ho an’ny olona ny mitarika tetikasa momba ny fiainany, toy ny gazety manokana na boky tantaram-piainana."
+  - "Misafidiana lalao ho fahafinaretana. Esory izay mety ho toy ny fitsapana."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Inona no hetsika tsara amin’ny dementia amin’ny sehatra voalohany?"
+    a: "Matetika dia ireo izay efa tiany ihany: karatra, lalao an-tabilao, sakafo, zaridaina, fandehanana an-tongotra, mozika, hetsika ara-finoana, fikambanana ary fanampiana an-tsitrapo. Mety hilaina ho fohy kokoa, mangina kokoa na tsotra kokoa izany. Ny gazety manokana, ny fanoratana ittera ary ny boky tantaram-piainana dia mety amin’ity sehatra ity koa."
+  - q: "Ahoana no fomba hanampiako nefa tsy mandray ny asany?"
+    a: "Anontanio ny olona hoe karazana fanampiana inona no tiany, ary mijereza matetika. Ifampiresaho teny na fanekena izay midika fa azo atao ny miditra, ohatra rehefa tsy tonga ny teny na ny anarana. Raha tsy misy loza ara-pitsarana, avelao izy hanao izany amin’ny fomba azony, na dia ela aza."
+  - q: "Tokony hanandrana hetsika vaovao ve ny olona manana dementia amin’ny sehatra voalohany?"
+    a: "Eny, raha tiany. Ny hobby efa fantatra no matetika mora indrindra, fa maro no mahafinaritra amin’ny zavatra vaovao, toy ny fandeha an-tongotra ho an’ny vondrona mety ho an’ny dementia, kilasy hosodoko na vondrona hihira. Andramo indray mandeha tsy misy fanerena ary jereo ny fahatsapana."
+  - q: "Mahasoa ve ny lalao fanofanana ny atidoha amin’ny sehatra voalohany?"
+    a: "Olona sasany mahafinaritra amin’ny puzzle sy lalao teny, ary izany fahafinaretana irery dia antony ampy. Tsy misy lalao na app naseho fa mitsabo, miadana na mampijanona ny dementia. Raha mahatonga fahatsorana na mahatonga ny olona ho toy ny very ny lalao, esory izany."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Amin’ny sehatra voalohany amin’ny dementia, betsaka ny olona mbola mipetraka tahaka ny taloha. Mety miasa, manao asa an-tsitrapo, mifankahita amin’ny namana ary mitantana ny ankamaroan’ny andro. Matetika tsy ilaina ny soloina ny hetsika; ilaina kely ny fanovana mba hitazonana azy ho mahafinaritra. Ny anjaranao dia akaiky kokoa amin’ny mpiara-miasa noho ny mpikarakara: mpanohana, mifampiresaka amin’izy ireo ary mandray anjara raha angatahina ihany.
 
-## What activities are good in early-stage dementia?
+## Inona no hetsika tsara amin’ny sehatra voalohany amin’ny dementia?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Ny hetsika tsara indrindra amin’ny sehatra voalohany dia matetika ireo izay efa tiany, fa noho ny fanampiana kely. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) dia manome hevitra toy ny lalao karatra sy lalao an-tabilao, fitadiavana teny, fandeha an-tongotra, dihy, zaridaina, fanamboarana voninkazo, fanaovana tantara, hosodoko, mozika, fanoratana gazety, fanoratana ittera, fanaovana scrapbook, fandrahoana sakafo ary fomban-drazana amin’ny fetibe.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Matetika ny toerana no miova, fa tsy ny hetsika. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dia milaza fa ny olona amin’ny sehatra voalohany dia mety hiala amin’ny zavatra tiany taloha, ary manome ohatra ny olona tezitra amin’ny fety lehibe fa mahomby kokoa ao amin’ny vondrona kely. Miresaha malalaka momba izay sarotra kokoa, ary ovao miaraka.
 
-## Ask first, and agree on how to help
+## Anontanio aloha, ary ifampiraharaha ny fomba fanampiana
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Ny [torolalana momba ny sehatra voalohany avy amin’ny Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) dia manoro hevitra fomba vitsivitsy izay mihatra amin’ny hetsika koa:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Anontanio mivantana.** “Inona no hanamora ny vondrona bokiko ho anao?” dia mamaly tsara kokoa noho ny fanombanana.
+- **Heveriko fa afaka izy.** Raha tsy misy loza ara-pitsarana, avelao ny olona handramana, ary omeo fanentanana fa aza mitantana ny zavatra rehetra.
+- **Ifanaraho famantarana.** Misafidiana teny na fanekena izay midika hoe “azo atao ny miditra”, ohatra rehefa tsy tonga ny anarana mandritra ny lalao karatra.
+- **Mijereza matetika.** Anontanio raha mety ny habetsaky ny fanampiana: be loatra na kely loatra.
 
-## Activity ideas for the early stage
+## Ideam-pihetsika ho an’ny sehatra voalohany
 
-### Keep up roles and hobbies
+### Tazomina ny andraikitra sy ny hobby
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Tazomina ny fanolorana tsy tapaka.** Ny asa an-tsitrapo isan’herinandro, kôra na fikambanana dia manome endrika ny herinandro. Raha lasa mampisahotra, andraikitra fohy kokoa na mangina kokoa no mety kokoa.
+- **Mandrindrà sakafo miaraka.** Raha lasa mampisaraka ny fividianana sakafo, ny Alzheimer’s Association dia manoro hevitra ny hangatahana ny olona hanampy mandrindra ny sakafo herinandro ary manoratra ny lisitra kosa.
+- **Mahandro sy mamonjy mofo.** Arahina miaraka ny fomba mahafinaritra. Apetraho ao amin’ny filaharana ny akora alohan’ny hanombohana, mba hahitana ny dingana.
+- **Mikarakara zaridaina.** Mandrafitra tanimboaloboaka, misafidy voaloboka na zavamaniry ary miara-miasa amin’ny asa. Lisitra voasoratra momba ny asa zaridaina isan’herinandro dia manampy.
+- **Tazomina ny asa fanamboarana.** Asa an-tanana toy ny fanamboarana zavatra amin’ny hazo, fanjaitra, fanenjehana na fanamboarana modely dia afaka mitohy amin’ny endrika tsotra kokoa sy mazava tsara.
 
-### Games for enjoyment
+### Lalao ho fahafinaretana
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Milalao karatra sy lalao an-tabilao.** Ny lalao efa fantatra no mora indrindra. Milalà amin’ny ekipa mba tsy hisy olona ho eo amin’ny toerana mafy, ary tazomina ny isa malalaka na aza tsy atao isa akory.
+- **Andramo fitadiavana teny lehibe.** Ny [fitadiavana teny](/games/word-search/) nataonay dia azo lalaovina amin’ny efijery na atao sary soratra mba hanaovana amin’ny fotoana mangina.
+- **Manao puzzle.** Misafidiana isa ampy ahafinaretana fa tsy mahasarotra. Ny [puzzle sary](/games/picture-puzzle/) dia version fohy ao amin’ny efijery, ary ny torolalanay momba ny [puzzle ho an’ny dementia](/activities/puzzles/) dia manampy amin’ny fisafidianana iray.
+- **Mifaninana trivia ho fifaliana.** Misy olona tia lalao trivia ekipa amin’ny alina. Raha mihatra fitsapana izany, misafidiana zavatra hafa, na andramo ny [fanontaniana trivia mora](/activities/trivia/), izay misy safidy valiny ary tsy misy isa.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Ho fifaliana no lalao eto. Tsy misy lalao naseho fa mitsabo na miadana ny dementia; vakio bebe kokoa ao amin’ny [lalao atidoha: izay hitan’ny fikarohana](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Manoratra, mieritreritra ary mitahiry
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Mitazona gazety.** Ny Alzheimer’s Association dia manoro ny gazety ho fomba iray hanaovana fisainana momba ny fihetseham-po aorian’ny fanamarinana. Andalana vitsivitsy isan’andro dia ampy.
+- **Mitarika boky tantaram-piainana.** Ny sehatra voalohany dia fotoana tsara ho an’ny olona hifidy ny sarin-tenany sy hanoratra na hanazava ny tantara ao aoriana. Jereo ny [hetsika fahatsiarovana](/activities/reminiscence/).
+- **Manoratra ittera.** Ittera ho an’ny zafikely, namana taloha na mpiara-miasa taloha dia mety ho zava-dehibe ho an’ny roa tonta.
+- **Mifampiresaka amin’ny sary.** [Fitambarana sary](/games/photo-pairs/) dia mampiova sary ao amin’ny fianakaviana ho lalao mifanaraka mangina, ary [karatra fifampiresahana](/games/conversation-cards/) dia manome teny fanombohana mora ho an’ny resaka.
 
-### Go out and move
+### Mivoaka sy mihetsika
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manoro hevitra ny hitohizan’ny dia efa mahazatra raha mbola mahafinaritra ho anareo roa. Ataovy amin’ny fotoana tsara indrindra ho an’ny olona ary aza avela hitohy ela loatra.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Dia fohy ara-kolontsaina.** Trano fanaovana sarin-kanto, horonan-tsary na fampisehoana sary amin’ny fotoana tsy be olona.
+- **Fanomanana an-dranomasina.** Ny NIA dia manoro hevitra ny piscine amin’ny fotoana tsy be olona amin’ny andro.
+- **Fandehanana an-tongotra sy kilasy dihy.** Ny [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dia milaza dihy, tai chi, yoga, fanomanana ary vondrona fandehanana an-tongotra, ary fivoriana mety ho an’ny dementia rehefa misy.
+- **Vondrona hihira sy “memory café”.** Vondrona mangina izay ahafahan’ny olona manana dementia sy ny mpiara-monina aminy mihaona amin’ny hafa mitovy toe-javatra.
 
-## Small changes that keep activities enjoyable
+## Fanovana kely mba hahafinaretan’ny hetsika
 
-| If this is getting harder | Try this |
+| Raha mihamafy izany | Andramo izao |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Toerana be sy be feo | Mandeha amin’ny fotoana mangina, misafidiana vondrona kely, mipetraka eny amoron’ny efitrano |
+| Mahatsiaro anarana vaovao sulady | Mampahafantatra ny anarana isaky ny fotoana; mangataha ny vondrona hitafy takelaka anarana |
+| Manaraka dingana maro | Soraty ny dingana, na apetraho ao amin’ny filaharana ny zavatra rehetra alohan’ny hanombohana |
+| Reraka | Dia fohy kokoa, fitsaharana aorian’izany, tsy misy hafa natoro andro hafa |
+| Mitazona isa amin’ny lalao | Milalà amin’ny ekipa, ataovy tsotra ny fitsipika, na aza atao isa |
+| Mitady teny | Omeo fotoana; omeo teny raha lazain’ny famantarana nifanaovanareo ihany |
 
-## When to slow down
+## Rehefa tokony hampihaino
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ajanony na ovao ny hetsika rehefa mahatonga fahatsorana bebe kokoa noho ny fahafinaretana. Ny fahatezerana matetika, ny fialana amin’ny hobby na ny teny hoe “tsy afaka intsony aho” dia mendrika resaka malemy, fa tsy fanerena. Matetika valiny azo dia version kely kokoa amin’ny zavatra mitovy. Rehefa mila fanampiana bebe kokoa ny olona hanomboka sy hanaraka dingana, mety mifanaraka kokoa ny hevitra ao amin’ny [hetsika amin’ny sehatra antonony](/activities/middle-stage/). Ho an’ny resaka mampiana, jereo ny [fifampiresahana](/caregiving/communication-tips/), ary ho an’ny hevitra maro kokoa, jereo ny [hetsika 101](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Mila fanohanana koa ny mpiara-monina. Ny sehatra voalohany dia fotoana tsara hanorenana ny tambajotran’ny fanampianao; jereo ny [fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/).

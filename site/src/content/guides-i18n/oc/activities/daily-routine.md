@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Una rotina quotidiana doça per las personas amb demència"
+seoTitle: "Rotina quotidiana per la demència : una jornada d'exemple"
+description: "Una jornada d'exemple flexibla per una persona amb demència, amb repas, activitats e repaus, e coma far la vòstra e l'adaptar als jorns mai difícils."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Una rotina doça manten lo lever, los repas, las curas personalas e l'ora de
+  dormir a pauc près a las mêmas oras, pausa l'activitat principala quand la
+  personna es lo mai vigilanta e equilibra activitat e repaus. Bastissètz-la a
+  partir de las abituds de tota la vida, la gardatz pas rigida, prenètz de lutz
+  e de movement cada jorn e cambiatz lo plan quand lo jorn o demanda.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Las oras fixas per se lever, per los repas, las curas e per dormir donan al jorn una forma familiara."
+  - "Metètz l'activitat principala al melhor moment del jorn per la personna, sovent lo matin."
+  - "Non cal pas omplir cada minuta. Lo repaus e lo temps calme fan partida de la rotina."
+  - "La lutz del jorn, lo movement cada jorn e l'evitament de las sèstas longas e de la cafeïna tardiva pòdon ajudar contra l'agitacion del vèspre."
+  - "La rotina es una guida, pas una règla. Cambiatz, escorçatz o suprimissètz çò que cal sus los jorns mai difícils."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Perqué una rotina ajuda una persona amb demència?"
+    a: "Una jornada previsibla vòl dire mens de decisions e de surprisas, çò que plan de personas amb demència trobon tranquilizant. L'Alzheimer's Association nòta que un jorn planificat vos permet de passar mens de temps a trobar qué far e mai de temps als jòcs e a las activitats que vos agradan tots dos. Ajuda tanben l'aidant a organizar son pròpri jorn."
+  - q: "Quina es una bona organizacion del jorn per una persona amb demència?"
+    a: "Existís pas un sol emplec just. Una bona organizacion manten lo lever, los repas e l'ora de dormir a pauc près a las mêmas oras, planifica las curas personalas e l'activitat principala quand la personna es en melhor forma, inclutz de temps a l'exterior o près d'una fenèstra e laissa lo lòc al repaus. Bastissètz-la segon la faiçon de viure de la personna, practicada tota la vida."
+  - q: "Una persona amb demència deu far de sèstas de jorn?"
+    a: "Un repaus corte pòt ajudar, sobretot aprèp lo dinnar. Lo National Institute on Aging suggerís de desencoratjar las sèstas longas e las somnolèncias tardivas, perque èsser tròp fatigat o mal repausat pòt aumentar l'agitacion del vèspre. Se lo someil es un problèma real, parlatz-ne amb lo metge."
+  - q: "Qué far se refusan de seguir la rotina?"
+    a: "Lassatz-ho per l'instant e tornatz ensajar pus tard o d'una autra faiçon. Lo refús pòt voler dire que son fatigats, malauts, en dolor o pas encara prèsts. La rotina es aquí per facilitar lo jorn, donc plegatz-la, pas la forçatz."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Una rotina doça dona al jorn una forma familiara : se lever, los repas, una petita activitat, lo repaus e lo lièch a pauc près a las mêmas oras. Fa mens de decisions e de surprisas, e vos dona un plan pels moments ont vos demandariatz çò que cal far aprèp. La rotina d'aquesta pagina es un exemple, pas una règla. Utilizatz-la coma punt de partença, puèi formatz-la segon la personna de qui vos ocupatz.
 
-## Why does a daily routine help?
+## Perqué una rotina quotidiana ajuda ?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Una rotina estable ajuda perque las abituds familiaras son mai aisidas de seguir que las novèlas. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) dis qu'un jorn planificat vòl dire mens de temps a decidir çò que cal far e mai de temps per las activitats agradivas, e nòta que de moments regulars per se lever e per anar al lièch pòdon ajudar contra los problèmas de someil e l'agitacion del vèspre. Lo [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggerís de se banhar, s'abilhar e manjar a las mêmas oras cada jorn, dins un ostal calme, e la [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recomanda tanben de gardar las mêmas rotinas.
 
-## A sample gentle day
+## Una jornada doça d'exemple
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Las oras son pas que d'exemples. Desplaçatz tota la jornada mai aviat o mai tard per correspondre al ritme de la personna.
 
-| Time | What happens | Ideas | On a harder day |
+| Ora | Qué se debanha | Idèias | Sus un jorn mai difícil |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Se lever, se rentar, s'abilhar | Lo meteis òrdre cada jorn ; las pròprias rauba preparadas dins l'òrdre de se vestir | Gardar las curas simplas ; una camisa fresca ja basta |
+| 8:45 a.m. | Desdejun | Café e lo jornal legit a votz naut, o la ràdio | Manjar ensemble en silenci, sens pression de parlar |
+| 9:30 a.m. | Activitat principala | Plegar la lenjaria, far de pastissariá, jardinar, una sortida corta o una passejada | Una version mai corta, o la laissar vos agachar |
+| 10:30 a.m. | Temps calme | Musica, un album de fòtos, o s'asseire près d'una fenèstra | Repausar dins un fauteuil preferit |
+| 11:00 a.m. | Ajuda pel dinnar | Rentar los legums, mestre la taula | Vos cuizinatz ; ela vos fa companhia |
+| 12:00 p.m. | Dinnar e rangament | Netejar la taula, sugar qualques plats | Sautar las tascas |
+| 1:00 p.m. | Repaus corte | Pès sus un escabèl, musica doça | Lo meteis |
+| 2:00 p.m. | Defòra o activa | Passejada, temps sus la veranda, arrosar las plantas, lançar un balon | S'asseire près d'una fenèstra ensolelhada |
+| 3:00 p.m. | Social o creatiu | Una visita, un apèl, [parelhs d'imatges](/games/picture-pairs/), colorejar, cartas | Un vèrre e una colacion ensemble |
+| 4:30 p.m. | Temps de calma | Rideaus barrats, lutz alumadas, una tasca calma coma plegar de pichòtas tolhas | Musica familiara, pauc de bruch |
+| 5:30 p.m. | Sopar | Ajudar a remenar o a mestre la taula | Un manjar simple e familiar |
+| 6:30 p.m. | Lo vèspre en familha | Remembrar al dessèrt, cartas, una emission preferida, un massatge de las mans | Companhia calma |
+| 8:00 p.m. | Rotina del lièch | Banh o lavatge, pijama, musica doça, lutz febla | Tot escorçar ; lo confòrt abans tot |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Aquesta jornada segueix la forma del plan d'exemple de l'Alzheimer's Association per las etapas precòcias e mejanas, que va de las curas personalas e del desdejun als trabalhs de casa, las passejadas, la musica, lo repaus e las visitas, fins al sopar, al remembrar e a la preparacion pel lièch.
 
-## How do you build your own routine?
+## Cossí bastir la vòstra pròpria rotina ?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Partissètz de la faiçon de viure de la personna, pas d'un tablèu. L'Alzheimer's Association suggerís de pensar a aquestas causas abans de planificar :
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Sas preferéncias, sos goses, sas fortas e sos interèsses.**
+- **Coma passava sa jornada.** Un matinal que marchava totjorn lo ca deu encara marchar de bon matin. Un noctambul poiriá pas jamai apreciar un lever a 8 oras del matin.
+- **Son melhor moment del jorn.** Metètz-hi lo banh, las sortidas e l'activitat principala.
+- **Pro de temps** pels repas, la rentada e l'abilhament, perque res se fagatz a la pressa.
+- **De ores regulars per se lever e per anar dormir.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+La meteissa font suggerís d'inclure un mélange de trabalhs de casa, de repas, de curas personalas, d'activitats creativas, d'activitat fisica, de temps social, d'activitat espirituala e de moments espontanèus, coma una amiga que passa.
 
-### Try it for a week, then adjust
+### Ensajatz-la una setmana, puèi adaptatz
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Gardatz una nòta simpla cada jorn. L'Alzheimer's Association suggerís de demandar quinas activitats an melhor marchat e perqué, se i aguèt de moments amb tròp de causas o pas pro a far, e se los plans espontanèus èron agradivels o causèron de l'inquietud. Gardatz çò que marcha e cambiatz çò que marcha pas.
 
-### Make it visible
+### La faire visibla
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Se la personna sap encara legir, un tablèu blanc o una carta en grossa lectura amb lo plan del jorn pòt rassegurar. Restatz court : « Desdejun. Passejada amb Sarah. Dinnar. Repaus. » Qualques personas se pòrtan melhor sens saber ben a l'avança ; la Family Caregiver Alliance suggerís de pas parlar del plan que just abans qu'arribe, s'aquò causa d'inquietud.
 
-## How to adapt the routine
+## Cossí adaptar la rotina
 
-### Leave room to breathe
+### Daissar d'espaci
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Non emplegatz pas tot lo temps. L'Alzheimer's Association insistís que la personna a besonh d'un equilibri entre activitat e repaus, e pòt aver besonh de pausas mai frequentas. Se sembla empegassada, distreta o irritabla, cambiatz d'activitat o reposatz-vos.
 
-### Protect the late afternoon
+### Protegir la fin de la jornada
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Plan de personas se fan mai agitadas quand la lutz minva. Lo NIA suggerís de temps a l'exterior o près d'una fenèstra per aver de lutz cada jorn, d'èsser activa cada jorn sens planificar tròp, d'evitar la cafeïna e l'alcòl tard dins la jornada e de desencoratjar las sèstas longas tard. Unas familhas trobon tanben que barrar los rideaus e alumar abans la nuèch ajuda. Vejatz [l'agitacion del vèspre](/caregiving/late-day-restlessness/) e [lo someil](/brain-health/sleep/).
 
-### Change it as needs change
+### Cambiar segon los besonhs
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Etapa precòcia :** planificatz la rotina ensemble. La personna pòt voler un escrich que gerís ela-meteissa.
+- **Etapa mejana :** vos menatz mai. Activitats mai cortas, mai de repaus e de bons trabalhs familiars ; vejatz [las activitats de l'etapa mejana](/activities/middle-stage/).
+- **Etapa tardiva :** la rotina se centra sul confòrt, los repas e las curas, amb de brèus moments sensorials coma la musica o un massatge de las mans ; vejatz [las activitats de l'etapa tardiva](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Variar las activitats, pas lo cadre
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Gardatz los repas, lo repaus e l'ora de dormir fixes, e alternatz las activitats entre aquestes moments. Lo [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggerís d'ensajar de activitats diferentas segon los jorns per que tot siá interessant. Podètz far de pastissariá lo diluns, jardinar lo dimars e agachar de fòtos lo dimècres. Nòstras [101 idèias d'activitats](/activities/ideas/) e las [tascas de casa](/activities/household-tasks/) pòdon emplenar las plaças.
 
-## When the day goes sideways
+## Quand la jornada parte de travèrs
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Qualques jorns seguiràn pas res de planificat. La malautia, una nuèch dolenta, una visita del metge o un cambi de temps pòdon tot desreglar. Laissatz lo plan, gardatz lo necessari (manjar, beure, repaus, confòrt) e tornatz ensajar deman. Se la personna refusa quicòm, vejatz [quand dison non](/caregiving/when-they-say-no/). Una pausa de respiracion lenta ensemble, coma [la respiracion calma](/games/calm-breathing/), pòt ajudar a vos tornar calmar tots dos.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+La vòstra pròpria rotina compta tanben. Metètz de pausas per vos-meteis e demandatz a la familha o a un servici de relèu de vos cobrir un temps de liura regulièr. Vejatz [l'autocura de l'aidant](/caregiving/caregiver-self-care/).

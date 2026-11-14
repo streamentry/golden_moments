@@ -1,0 +1,151 @@
+{
+  "categories": {
+    "animals": {"name": "Annimali", "description": "Annimali sbieħ u ħbieb minn madwar id-dinja"},
+    "nature": {"name": "In-natura", "description": "Pajsaġġi sbieħ u xeni naturali"},
+    "food": {"name": "Ikel", "description": "Ikliet u ħlewwiet tajbin"},
+    "vintage": {"name": "Karozzi", "description": "Karozzi u trakkijiet biex tħares lejhom u titkellem dwarhom"},
+    "flowers": {"name": "Fjuri", "description": "Fjuri sbieħ u xeni ta' ġnien"}
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Annimali tar-razzett",
+      "description": "Annimali ħbieb tar-razzett, bħal waqt żjara fil-kampanja.",
+      "theme": "Ħajja tar-razzett",
+      "images": {
+        "cow_1": "Baqra ħabiba",
+        "pig_1": "Ħanzir kuntent",
+        "chicken_1": "Serduq",
+        "buffalo_1": "Buflu tal-ilma",
+        "horse_1": "Żiemel sabiħ",
+        "duck_1": "Familja ta' papri",
+        "goat_1": "Mogħża kurjuża",
+        "rabbit_1": "Fenek sabiħ"
+      }
+    },
+    "nature_mountains": {
+      "title": "Veduti tal-muntanji",
+      "description": "Pajsaġġi tal-muntanji li jkaxkru n-nifs u veduti sbieħ",
+      "theme": "Ġmiel naturali",
+      "images": {
+        "mountain_1": "Qċaċet bis-silġ",
+        "mountain_2": "Il-Muntanja Fuji",
+        "mountain_3": "Wied alpin",
+        "mountain_4": "Quċċata tal-blat",
+        "mountain_5": "Għoljiet bil-foresta",
+        "mountain_6": "Muntanji fid-dbieb"
+      }
+    },
+    "vintage_cars": {
+      "title": "Karozzi u trakkijiet",
+      "description": "Karozzi u trakkijiet jleqqu biex tħares lejhom u titkellem dwarhom",
+      "theme": "Fit-triq",
+      "images": {
+        "vintage_car_1": "Audi oranġjo mal-għeluq tax-xemx",
+        "vintage_car_2": "Karozza sportiva blu fid-deżert",
+        "vintage_car_3": "Bugatti fidda",
+        "vintage_car_4": "Porsche sewda fit-triq",
+        "vintage_car_5": "BMW oranġjo fi triq bil-palmi",
+        "vintage_car_6": "Kupè blu ħdejn garaxx",
+        "vintage_car_7": "Pick-up ħadra",
+        "vintage_car_8": "SUV bajda fost blat aħmar",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Karozza blu bi strixxi bojod"
+      }
+    },
+    "animals_safari": {
+      "title": "Annimali tas-safari",
+      "description": "Annimali maestużi mis-safari tal-Afrika",
+      "theme": "Annimali selvaġġi",
+      "images": {
+        "lion_1": "Iljun maestuż",
+        "elephant_2": "Iljunfant Afrikan",
+        "jaguar_3": "Ġagwar",
+        "zebra_4": "Żebra bi strixxi",
+        "rhino_5": "Rinoċeronti qawwi",
+        "cheetah_6": "Ċita mgħaġġel",
+        "fox_7": "Volpi kannella",
+        "bear_8": "Ors polari",
+        "turtle_9": "Fekruna kannella",
+        "squirrel_10": "Skojjattlu kannella",
+        "macaw_11": "Makaw isfar u blu",
+        "tiger_12": "Tigra",
+        "raccoon_13": "Raguni",
+        "wolf_14": "Lupu griż",
+        "crocodile_15": "Kukkudrill",
+        "peacock_16": "Pavun sabiħ"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Deżerti tajbin",
+      "description": "Xi deżerti tajbin għall-ikliet tiegħek.",
+      "theme": "Deżerti ħelwin",
+      "images": {
+        "pastries_1": "Erba' ġwejjed tal-pastizzerija",
+        "oreo_cookie_sandwiches_2": "Sandwiches tal-biskuttini Oreo",
+        "crepe_3": "Krep",
+        "pancake_4": "Pancake",
+        "macarons_5": "Makarun",
+        "caramel_cake_6": "Torta tal-karamell"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Fjuri tropikali",
+      "description": "Skopri l-ġmiel ħaj tat-tropiċi b'dan il-pakkett ta' fjuri eżotiċi.",
+      "theme": "Fjuri tropikali",
+      "images": {
+        "hibiscus_1": "Ibiskus aħmar",
+        "frangipani_2": "Frangipani aħmar u abjad",
+        "sunflower_3": "Ġirasol",
+        "hydrangea_4": "Ortensja bajda",
+        "rose_5": "Warda",
+        "chrysanthemum_6": "Krisantemu",
+        "anthurium_7": "Antorju",
+        "plumeria_8": "Plumerja",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinju"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Ikel tat-triq",
+      "description": "Esplora d-dinja kkulurita tal-ikel tat-triq b'dan il-pakkett ta' snacks tajbin minn madwar id-dinja.",
+      "theme": "Ikel tat-triq",
+      "images": {
+        "taco_1": "Taco Messikan",
+        "ramen_2": "Ramen Ġappuniż",
+        "dumplings_3": "Dumplings Ċiniżi",
+        "samosa_4": "Samosa Indjana",
+        "pizza_5": "Biċċa pizza Taljana",
+        "crepe_6": "Krep Franċiż",
+        "satay_7": "Xlukxlejjet satay Tajlandiżi",
+        "burger_8": "Burger Amerikan",
+        "bao_9": "Bao bil-fwar",
+        "takoyaki_10": "Takoyaki Ġappuniż"
+      }
+    },
+    "nature_landscape": {
+      "title": "Pajsaġġ naturali",
+      "description": "Xeni naturali kalmi u sbieħ biex tħares lejhom bil-mod u titkellmu dwarhom flimkien.",
+      "theme": "Pajsaġġi naturali",
+      "images": {
+        "mountain_1": "Katina ta' muntanji",
+        "forest_2": "Foresta fid-dbieb",
+        "lake_3": "Lag tal-muntanji",
+        "desert_4": "Dune tad-deżert",
+        "waterfall_5": "Ilma li jinżel",
+        "beach_6": "Bajja bir-ramel",
+        "river_7": "Xmara li tgħaddi",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Sema tal-għeluq tax-xemx",
+        "snow_mountain_10": "Muntanja bis-silġ",
+        "flowers_11": "Fjuri selvaġġi",
+        "rainforest_12": "Foresta tropikali",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Irdum fuq il-baħar",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Sikka tal-qroll"
+      }
+    }
+  }
+}

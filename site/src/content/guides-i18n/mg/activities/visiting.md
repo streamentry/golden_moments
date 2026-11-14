@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Mitsidika olona manana dementia any amin’ny fikarakarana memoria na hopitaly"
+seoTitle: "Mitsidika olona manana dementia: inona no atao sy entina"
+description: "Inona no atao rehefa mitsidika olona manana dementia any amin’ny fikarakarana memoria, trano fikarakarana na hopitaly: entina, hetsika malemy, fialana tsara."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Rehefa mitsidika olona manana dementia any amin’ny fikarakarana memoria na
+  hopitaly, tazomina ho tsotra: lazao ny anaranao rehefa tonga, entano zavatra
+  hizarana toy ny sary, mozika na sakafo tiana, ary atao hetsika mora iray
+  miaraka. Ny fitsidihana fohy sy matetika matetika mahomby kokoa noho ny lava
+  sy tsy matetika. Mamolavola veloma mangina sy mitovy, mba ho mora kokoa ny
+  fialana ho anareo roa.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Miarahaba ny olona amin’ny anarany ary lazao hoe iza ianao, mba tsy hanandrana hahafantatra izany: ‘Salama Reny, Susan ity, zanakao vavy.’"
+  - "Entano zavatra iray na roa hizarana, toy ny album sary, mozika tiana, kobaka malemy na sakafo nekena nataon’ny mpiasa."
+  - "Fitsidihana fohy sy matetika mahomby kokoa noho ny fitsidihana lava sy tsy matetika. Ny fisian’ny tenanao no zava-dehibe kokoa noho izay lazainao."
+  - "Any amin’ny hopitaly, omeo ny mpiasa pejy iray momba ny olona ary lazao ny dokotera vetivety raha misy fiovana tampoka."
+  - "Drafito ny fialanao: lazao hatramin’ny firy no azonao zakaina, ampiasao ny veloma mitovy isaky ny fotoana, ary aza mandany fotoana be."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Inona no entina rehefa mitsidika olona manana dementia?"
+    a: "Entano zavatra hizarana fa tsy zavatra hiresahana. Album sary kely, lisitra hira tiany, kobaka malemy, crème tanana, gazety momba ny hobby taloha, na sakafo nekena nataon’ny mpiasa dia mety tsara. Any amin’ny trano fikarakarana, sary fianakaviana sy zavatra mahazatra dia afaka manampy hahatonga ny efitra ho toy ny trano."
+  - q: "Firy ny fotoana tokony hijanonako rehefa mitsidika olona manana dementia?"
+    a: "Tsy misy halavan’ny marina. Fianakaviana maro mahita fa mety kokoa ny fitsidihana fohy sy matetika noho ny lava sy tsy matetika, satria mety ho reraka haingana ny olona ary mety tsy handre intsony hoe firy ny fotoana nijanonanao. Jereo ny famantarana fahasosorana ary mialà raha mbola tsara ny fitsidihana."
+  - q: "Inona no lazaiko rehefa mangataka ho any an-trano izy?"
+    a: "Valio ny fahatsapana, fa tsy ny teny. ‘Te hiverina any an-trano aho’ matetika midika hoe ‘tsy mahafinaritra na tsy azo antoka ahy’. Andramo manao hoe ‘Lazao ahy momba ny tranonao’, mijery sary miaraka, na manolotra fandeha an-tongotra na sakafo kely. Ny fifanakalozan-kevitra na ny fanazavana ny antony tsy azony mialà matetika manampy ny fahasosorana."
+  - q: "Inona raha tsy mahafantatra ahy intsony izy?"
+    a: "Mety hanaintaina izany, fa andramo tsy hanitsy azy na hanontany hoe ‘Tsy fantatrao ve ny olona aho?’ Miarahaba mafana sy malalaka, ary mahafinaritra ny fotoana miaraka. Olona maro mbola mahafinaritra ny fiaraha-monina ary mahatsapa ny hafanan’ny fitsidihana na dia tsy afaka mahatsiaro hoe iza ianao aza."
+  - q: "Ahoana no fomba hanampiana mandritra ny fizaran’ny hopitaly?"
+    a: "Mijanona miaraka amin’ny olona rehefa azo atao, anampy azy hihinana sy hisotro, ary entano zavatra mahazatra toy ny sary. Omeo ny mpiasa pejy misy ny fomba andavanandro, anarana tiana, ny tiany sy tsy tiany, ary famantarana fanaintainana. Lazao ny dokotera vetivety raha toa ka tena ratsy kokoa na hafa ny olona tampoka, satria ny fikorontanana tampoka dia mety hanamarika olana ara-pitsaboana."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Ny fitsidihana olona tianao any amin’ny fikarakarana memoria, trano fikarakarana na hopitaly dia mety hampiditra fihetseham-po maro. Mety hieritreritra ianao hoe inona no lazaina, inona no entina, na mahasoa ve ny fitsidihana raha tsy tadidin’ny olona izany. Mahasoa izany. Ny National Institute on Aging dia manamarika fa ny olona manana Alzheimer [matetika mahafinaritra azy ny fiaraha-monina](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) na dia tsy tadidiny aza hoe iza ny mpitsidika. Ity pejy ity dia manome dingana azo ampiharina alohan’ny, mandritra ny ary aorian’ny fitsidihana, ary toro-hevitra manokana ho an’ny fijanonana hopitaly.
 
-## How do I get ready for a visit?
+## Ahoana no fomba hiomanana amin’ny fitsidihana?
 
-A little planning makes the visit easier for both of you.
+Fandrafetana kely dia manamora ny fitsidihana ho an’ny roa tonta.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Misafidiana fotoana tsara.** Ny Dementia Australia dia manoro hevitra ny hitsidika rehefa matetika mahatsiaro tena indrindra ny olona, izay ho an’ny olona maro dia maraina na antsasak’andro. Ny Family Caregiver Alliance dia manoro hevitra ny hianatra ny fandaharan’ny toerana ary hitsidika mandritra ny [fotoana malalaka fa tsy fotoana asa](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Mifampiresaka amin’ny mpiasa.** Anontanio ny fomba niainan’ny olona androany, ary jereo ny fitsipika momba ny sakafo, biby fiompy na fivoahana.
+- **Mametraka kitapo fitsidihana kely.** Zavatra iray na roa hizarana no ampy (jereo ny lisitra etsy ambany).
+- **Mandrafitra lohahevitra vitsivitsy.** Mety tsy misy vaovao hizarana ny olona, ka entano ny anao: vaovao an’ny fianakaviana, toetr’andro, lalao baolina, tantara mahatsiky.
+- **Mametraha ny fanantenanao.** Misy fitsidihana mafana sy mitsiriritra, misy kosa mangina na sarotra. Samy mahazatra izy roa.
 
-## What should I bring?
+## Inona no entina?
 
-Bring things to share, not things that test. Good choices include:
+Entano zavatra hizarana, fa tsy zavatra mitaky fanandramana. Safidy tsara ireto:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Album sary kely** misy sary lehibe sy mazava. Ataovy marika ny aoriany mba ahafantaran’ny mpiasa.
+- **Lisitra hira** misy hira tiana amin’ny finday, miaraka amin’ny headphone tsotra na speaker kely.
+- **Zavatra malemy azo tazonina,** toy ny lamba mahazatra, tie-kravatra na akanjo mafana.
+- **Crème tanana** ho an’ny fanosotra tanana malemy, raha tia fikasihana ny olona.
+- **Gazety na boky sary** momba ny hobby taloha, toy ny zaridaina, fiara, vorona na sakafo.
+- **Sakafo tiana kely,** raha lazain’ny mpiasa fa azo antoka izy.
+- **Zavatra mahazatra ho an’ny efitra.** Ny Family Caregiver Alliance dia manoro hevitra ny voninkazo, zavamaniry, sary fianakaviana ary zavatra sary, na affiche lehibe misy sary fianakaviana taloha.
+- **Tablet**, hijerena sary fianakaviana na hilalaovana lalao malemy miaraka.
 
-## What can we do together during a visit?
+## Inona no azonay atao miaraka mandritra ny fitsidihana?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Ny fanaovana zavatra miaraka dia mampihena ny fanerena amin’ny resaka. Ny Dementia Australia dia manoro hevitra ny hijery sary, asa-tanana malemy, famafiana ny zanaka voaloboka, mozika, fizarana sakafo kely, na fandehanana malemy manodidina ny toerana. Hevitra vitsivitsy hafa:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Mijery sary.** Asehoy izay hitanao: “Jereo ilay satroka.” “Tsara ilay tabataba.” Avelao ny olona hitarika. Aza manontany hoe “Iza ity?”
+2. **Milalao mozika sy mihira.** Ny hira mahazatra dia mety hampitsiky ny olona ary hitondra fotoana iraisana, na dia sarotra aza ny resaka.
+3. **Mandeha an-tongotra fohy.** Ny Family Caregiver Alliance dia manoro hevitra ny hitety ny toerana, indrindra any amin’ny zaridaina raha misy. Mandeha amin’ny seza fiaraha-mandeha koa mahasoa.
+4. **Manosotra tanana.** Crème kely sy fikasihana miadana eo amin’ny tanana dia mety hampionona.
+5. **Manampy amin’ny fikarakarana.** Ny Dementia Australia dia milaza ny fanamafisana volo, fanokafana ongles na fanampiana amin’ny fitafiana tiana, raha tiany izany.
+6. **Milalao lalao tsotra.** Ny Family Caregiver Alliance dia manoro hevitra ny karatra, domino, na izay nilalaony taloha. Amin’ny tablet, [fitambarana sary](/games/picture-pairs/) azo lalaovina miaraka amin’ny sary miseho sy tsy misy minitra. [Fitambarana sary an-tokantrano](/games/photo-pairs/) dia mampiova sary safidinao ho lalao fitambarana, ary mijanona ao amin’ny browser-nao ny sary.
+7. **Mijery zavatra miaraka.** Ny Family Caregiver Alliance dia manoro hevitra ny sarimihetsika mahatsiaro sy sarimihetsika taloha. Na dia tsy afaka manaraka ny tantara aza ny olona, azonao atao ny mipetraka akaiky sy mizara ny fotoana.
+8. **Mamaky mafy.** Tononkalo fohy, andalana tiana, na ittera avy amin’ny mpianakaviana.
+9. **Mipetraka miaraka fotsiny.** Mihazona tanana na mipetraka mangina dia fitsidihana marina. Ny Alzheimer’s Association dia milaza fa tsy olana ny tsy fahalalana izay lazaina, ary ny fisian’ny tenanao no zava-dehibe indrindra.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Ny [karatra fifampiresahana](/games/conversation-cards/) dia afaka manampy rehefa tapitra ny zavatra lazaina. Ny karatra tsirairay dia misy sary sy fanentanana malalaka.
 
-## How should I talk during the visit?
+## Ahoana no fomba hiresahana mandritra ny fitsidihana?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Lazao ny anaranao isaky ny fotoana.** “Salama Ray, Mark ity, zanakao lahy.” Ny NIA dia manoro hevitra ny mpitsidika hanolotra tena fohy hanombohana resaka.
+- **Miatrika avy any anoloany** ary mipetraha eo amin’ny haavon’ny maso.
+- **Aza manitsy na mifanandrina.** Ny NIA dia manoro hevitra ny mpitsidika tsy hanitsy ny olona raha diso izy na adino zavatra.
+- **Miezaha ho mahari-po** rehefa sarotra ny hitady teny. Omeo fotoana ampy.
+- **Valio ny fahatsapana.** Raha toa malahelo na manahy ny olona, ekeo izany alohan’ny hanovana ny lohahevitra.
+- **Aza mametraka fanontaniana fitsapana** toy ny “Tadidinao ve aho?” na “Inona no nohaninao antoandro?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Jereo ny [torolalana momba ny fifandraisana](/caregiving/communication-tips/) ho an’ny hafa.
 
-## What do I do when they say "I want to go home"?
+## Inona no atao rehefa milaza ‘Te hiverina any an-trano aho’ izy?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Valio ny fahatsapana eo ambadiky ny teny (ny torolalanay momba ny [rehefa mangataka matetika ho any an-trano ny olona](/caregiving/asking-to-go-home/) dia mandroso kokoa). Ny Family Caregiver Alliance dia manazava fa ny ‘Te hiverina any an-trano aho’ dia matetika fomba hilazana hoe ‘tsy mahafinaritra ahy’, ary manoro valiny toy ny ‘Lazao ahy momba ny tranonao’ na ‘Inona no tianao indrindra ao an-trano?’ Ny Dementia Australia dia manampy fa ny ‘trano’ dia mety midika fotoana na toerana nahatsapan’ny olona fiarovana, toy ny fahazazana.
 
-Try:
+Andramo:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- ny fanaporofoana ny fahatsapana: “Toa nalahelo ny tranonao ianao.”
+- fampionona amin’ny fikasihana, raha ekena
+- fijerena sary na resaka momba ny trano fianakaviana
+- fanolorana fandeha an-tongotra, zava-pisotro na sakafo kely
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Aza miady hevitra na manazava ny antony tsy azony mialà. Matetika tsy manampy izany ary mahatonga fahasosorana bebe kokoa.
 
-## How long should a visit be?
+## Firy ny fotoana tokony ho an’ny fitsidihana?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Fohy sy matetika matetika no mahomby kokoa. Ny Family Caregiver Alliance dia milaza fa matetika tsy tadidin’ny olona raha nijanona dimy minitra ianao na dimy ora, ary manoro hevitra fa fitsidihana fohy telo isan-kerinandro dia mety ho tsara kokoa noho iray lava. Ny Dementia Australia dia milaza fa tsy misy isan’ny fitsidihana tsara na halavan’ny marina.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Amin’ny herinandro voalohany aorian’ny fifindrana any amin’ny fikarakarana memoria, ny Family Caregiver Alliance dia manoro hevitra ny hitsidika matetika, avy eo mihoatra ny fandaharana mahazatra. Anontanio ny mpiasa izay hitany.
 
-## How do I leave without upsetting them?
+## Ahoana no fialana tsy hanaintainana azy?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Ny fialana no mety ho ampahany sarotra indrindra. Ny Dementia Australia dia manoro hevitra:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Lazao hatramin’ny firy no azonao zakaina rehefa tonga.** “Afaka mijanona adiny iray aho, avy eo handeha hividy izaho.”
+- **Ampiasao hetsika ho fifarana voajanahary.** “Rehefa vita ity hira ity, handeha aho.”
+- **Ampifanaraho amin’ny sakafo na hetsika,** na angataho ny mpiasa hanampy ny olona hiditra amin’zavatra hafa.
+- **Tazomina fohy ny veloma, ary mitovy isaky ny fotoana.** Ny fanemotra, fangatahana famelan-kela, na ‘fotoana kely fotsiny’ dia mety hahasarotra ny veloma ho avy.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Aorian’ny fialanao, mahazatra ny tsy faly. Avelao ho an’ny tenanao ny fitsaharana. Raha nahatezitra ny olona, ny mpiasa matetika afaka manampy azy ho milamina vetivety.
 
-## Visiting someone with dementia in the hospital
+## Ny fitsidihana olona manana dementia any amin’ny hopitaly
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Ny hopitaly dia midina ary tsy mahazatra ary feno olona tsy fantatra, izay mety ho sarotra indrindra ho an’ny olona manana dementia. Ny torolalana NIA momba ny [fitondrana olona manana Alzheimer any amin’ny hopitaly](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) dia manoro hevitra:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Misy olona mijanona miaraka amin’ny olona** raha azo atao: mpianakaviana, namana azo itokisana, na mpikarakara voalohany.
+- **Omeo ny mpiasa taratasy fampahalalana manokana** misy ny fomba andavanandro, ny anarana tiana, ny tiany sy tsy tiany, ny antony mety hampisintona, ary ny famantarana fanaintainana tsy miteny. Apetraho kopia ao amin’ny efitra sy eo amin’ny toerana mpitsabo.
+- **Fanampiana amin’ny fihinanana sy fisotroana.** Ny olona antitra dia mety ho tsy mahazo sakafo ampy any amin’ny hopitaly. Sokafo ny fonosana, anampy amin’ny sakafo, mihinana miaraka, ary omeo zava-pisotro.
+- **Entano zavatra mampionona,** toy ny sary na zavatra ara-panahy.
+- **Ampidino ny feo.** Akatony ny TV ary ampidino ny feon’ny finday sy ny intercom.
+- **Andramo fomba fampionana,** toy ny mozika malemy, famakiana, fivavahana, fihirana na fijerena sary taloha.
+- **Mandrisika fihetsika** raha azo atao amin’ny fahatokisana, miaraka amin’ny fankatoavan’ny mpiasa.
+- **Lazao ny dokotera vetivety raha toa ka tena ratsy kokoa na hafa ny olona tampoka.** Ny NIA dia manazava fa ny fikorontanana mafy tampoka, antsoina hoe delirium, dia mety ho vokatry ny olana toy ny aretina, hafanana, tsy fahampian’ny rano na vokatry ny fanafody, ary mila fitsaboana.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Fitsidihana fohy sy mangina miaraka amin’ny endrika mahazatra sy hira tiana dia mety ho ampahany mampionona indrindra amin’ny andron’ny hopitaly.
 
-## Bringing children on a visit
+## Mitondra zaza amin’ny fitsidihana
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Ny zaza dia afaka mitondra fahamafanana be. Ampiomano aloha amin’ny teny tsotra sy marina, tazomina fohy ny fitsidihana, ary omeo asa, toy ny fampisehoana sary na fanolorana sary. Ny NIA dia manoro hevitra fa ny zaza sy ny olona manana Alzheimer dia afaka mankafy hetsika tsotra miaraka, toy ny famakiana album sary na fihainoana mozika. Ny Dementia Australia dia manoro hevitra ny hanampy kitapo kely misy zavatra hanina na zavatra mangina hitazomana ny zaza kely.
 
-## Take care of yourself too
+## Atiavo koa ny tenanao
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ny fitsidihana dia mety hahatonga reraka sy fihetseham-po, indrindra raha efa niova be ny olona. Tsara ihany ny mitsidika matetika kely raha ilaina, ny mitondra namana hanohana, na ny mialà aloha amin’ny andro sarotra. Ho an’ny hevitra momba ny fitazomana ny tenanao, jereo ny [fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/). Raha miaina lavitra ianao, jereo ny torolalanay momba ny [antso telefaona sy video](/activities/phone-and-video-calls/).

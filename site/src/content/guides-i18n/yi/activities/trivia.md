@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "לײכטע טריװיע פֿאַר עלטערע מענטשן מיט דעמענץ, אָן דרוק"
+seoTitle: "טריװיע-פֿראַגעס פֿאַר עלטערע מענטשן מיט דעמענץ, מיט ענטפֿערן"
+description: "50 לײכטע טריװיע-פֿראַגעס פֿאַר עלטערע מענטשן מיט דעמענץ, מיט ענטפֿער-ברירות און רעדטעמעס, און װי מען לויפֿט אַ סעסיע אָן צו פֿילן געטעסטן."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  לײכטע טריװיע פֿאַר עלטערע מענטשן מיט דעמענץ אַרבעט אויס װען עס פֿילט זיך װי אַ
+  שמועס, נישט װי אַ טעסט. פֿרעגט װעגן זאַכן װאָס מען האָט לאַנג צוריק געלערנט, װי
+  אַלטע לידער, רעדעװנדונגען, יום-טובים און טעגלעכע לעבן, און גיט שטענדיק צװײ אָדער
+  דרײ ברירות. גיט די ענטפֿער פֿרײ, לאָזט קײנעם נישט אַרױסשטעלן, לאָזט אַװעק פּונקטן,
+  און ניצט יעדע ענטפֿער אַלס אָנהײב פֿון אַ געשיכטע. „דאָס אָדער יענץ“-פֿראַגעס אָן
+  קײן פֿאַלשע ענטפֿער פּאַסן פֿאַר די שפּעטערע סטאַדיעס.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "פֿרעגט װעגן לאַנג-באַקאַנטע זאַכן: לידער, רעדעװנדונגען, יום-טובים, עסן און טעגלעכן לעבן פֿון יאָרן צוריק."
+  - "גיט צװײ אָדער דרײ ברירות, אַזױ אַז די ענטפֿער קען מען דערקענען און נישט געדענקען."
+  - "זאָגט די ענטפֿער מיט װאַרעמקייט און גייט װײַטער. יעדער פֿאַרמוט װאָס הײבט אָן אַ געשיכטע איז אַ גוטער פֿאַרמוט."
+  - "קײן פּונקטן, קײן קאָנקורענץ-מאַנשאַפֿטן און קײן רופֿן איינעם אויס. לאָזט די ענטפֿער קומען פֿון דעם גאַנצן צימער."
+  - "װען עס װערט שװער צו קלײבן צװישן ענטפֿערן, גײט אַריבער צו „דאָס אָדער יענץ“-פֿראַגעס אָן ריכטיקע ענטפֿער."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "איז טריװיע אַ גוטע אַקטיװיטעט פֿאַר מענטשן מיט דעמענץ?"
+    a: "עס קען זײַן, אויב מען פֿירט עס זאַנפֿט. די Alzheimer's Foundation of America ציילט טריװיע צװישן די אַקטיװיטעטן פֿאַר דער פֿרי-סטאַדיום. האַלט די פֿראַגעס װעגן לאַנג-באַקאַנטע טעמעס, גיט ברירות, שטעלט קײנעם נישט אויף דער שטעל, און באַהאַנדלט די ענטפֿער װי אַ װעג צו אַ שמועס, נישט װי אַ בחינה."
+  - q: "װאָס זענען די בעסטע טעמעס פֿאַר דעמענץ-טריװיע?"
+    a: "זאַכן װאָס מען האָט לאַנג צוריק געלערנט פֿונקציאָנירן בעסט: פּאָפּולערע לידער און זינגערס פֿון זײער יוגנט, באַקאַנטע רעדעװנדונגען, יום-טובים, עסן, ספּאָרט און טעגלעכע לעבן װי מילך-פֿירן און דרײענדיקע טעלעפֿאָנען. פֿאַרמײַדט לעצטע נײעס און אַלץ װאָס דאַרף מען געדענקען פֿון פֿריער אין דער סעסיע."
+  - q: "װי פֿירט מען טריװיע אין אַ פֿלעגע-הײם אָן צו שעמען קײנעם?"
+    a: "לייענט יעדע פֿראַגע צו דער גאַנצער גרופּע, זאָגט אָדער װײַזט די ברירות, און באַגריסט ענטפֿערס פֿון קײנעם. רופֿט נישט איינעם אויס און האַלט קײן פּונקטן. זאָגט די ענטפֿער מיט אַ שמייכל, און פֿרעגט אַ נאָך-פֿראַגע װי „װער פֿון אײַך איז אַ מאָל געװען אין אַ דרײוו-אין?“ כּדי צו מאַכן עס אין געשיכטעס."
+  - q: "װאָס קען איך טאָן אַנשטאָט טריװיע אין שפּעטערע סטאַדיעס?"
+    a: "שטעלט פֿראַגעס מיט קײן פֿאַלשע ענטפֿער, װי „קאַװע אָדער טיי?“ אָדער „ים-ברעג אָדער בערג?“, און פֿאַרענדיקט צוזאַמען באַקאַנטע רעדעװנדונגען אָדער לידער. קוקן אויף בילדער און באַשרײַבן זײ צוזאַמען אַרבעט אויך גוט."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+טריװיע איז איינע פֿון די מערסט געבעטענע גרופּע-אַקטיװיטעטן אין פֿלעגע-הײמען און טאָג-פּראָגראַמען, און פֿיל משפּחות שפּילן עס אויך בײַם קיכן-טיש. אויף דעם געװײנטלעכן אופֿן, מיט פּונקטן און איינער װאָס ענטפֿערט, קען עס לאָזן אַ מענטש מיט דעמענץ מיט אַ געפֿיל פֿון פֿאַרשעמונג. אַנדערש געפֿירט, איז עס אַ לעבעדיקע װײַז צו הערן געשיכטעס. אונטן זענען 50 לײכטע פֿראַגעס מיט ענטפֿער-ברירות און עפּעס צו רעדן װעגן יעדע, און דערנאָך װי מען פֿירט אַ סעסיע.
 
-## How do you make trivia work for someone with dementia?
+## װי מאַכט מען טריװיע אַרבעטן פֿאַר אַ מענטש מיט דעמענץ?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+מאַכט עס װעגן דערקענען און געדענקען לאַנג-צוריקדיקע זאַכן, און מאַכט יעדע ענטפֿער װילקאָמען.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **פֿרעגט װעגן דער װײַטער פֿאַרגאַנגענהייט.** די [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) זאָגט אַז דער מערסט געװײנטלעכער פֿרי-סימפּטאָם פֿון אַלצהיימער איז שװערקייט צו געדענקען נײ-געלערנטע אינפֿאָרמאַציע. לידער, רעדעװנדונגען און דאָס טעגלעכע לעבן פֿון יאָרצענדליקן צוריק זענען אָפֿט לײכטערער באָדן.
+2. **שטעלט שטענדיק צװײ אָדער דרײ ברירות.** אַ ריכטיקע ענטפֿער פֿון צװײ אָדער דרײ איז פֿיל גרינגער װי פֿון גאָרנישט צו פּראָדוצירן.
+3. **לייענט די פֿראַגעס אויס און װײַזט זײ גרױס.** אַ װײַסבאָרד אָדער אַ טאַבלעט װאָס מען הײבט אויף העלפֿט מענטשן װאָס הערן װײניקער גוט.
+4. **גיט די ענטפֿער פֿרײ.** װײסט קײנער נישט, זאָגט עס װאַרעם און גייט װײַטער. קײנמאָל נישט „קומט שױן, איר װײסט דאָס.“
+5. **קײן פּונקטן.** נישט פֿאַר יחידים און נישט פֿאַר טישן. װילט מען אַ נומער, האַלט איין גרופּע-סך.
+6. **רופֿט קײנעם נישט אויס.** לאָזט ענטפֿערס קומען פֿון יעדן. אין אַ איינס-אויף-איינס, ענטפֿערט צוזאַמען: „איך טראַכט עס איז דער פּיאַנע. װאָס מײנט איר?“
+7. **ניצט דעם רעדטעמע.** דער ענטפֿער איז דער אָנהייב, נישט דאָס סוף. געשיכטעס זענען דאָס אמתע ציל.
+8. **האַלט עס קורץ.** צען פֿראַגעס מיט געשיכטעס צװישן זײ זענען גענוג.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) פֿאַסט דעם הױפּט-כּלל צוזאַמען: באַמערקט פֿרוסטראַציע און מאַכט זיכער אַז דער מענטש פֿילט זיך דערפֿאָלגרײך. די [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ציילט טריװיע צװישן די אַקטיװיטעטן פֿאַר דער פֿרי-סטאַדיום. אין דער מיטלערער סטאַדיום, האַלט בײַ צװײ ברירות און פֿאַרלאָז זיך אויף די רעדטעמעס. שפּעטער, גײט איבער צו די „דאָס אָדער יענץ“-פֿראַגעס װײַטער אונטן.
 
-## Music and entertainment trivia
+## מוזיק- און אונטערהאַלטונגס-טריװיע
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+די ענטפֿער איז **פֿעט** געדרוקט. פּאַסט די פֿראַגעס פֿאַר דעם מענטש: עמעץ װאָס איז אויפֿגעװאַקסן מיט מאָטאַון װעט האָבן ליב אַנדערע זינגער װי עמעץ װאָס איז אויפֿגעװאַקסן מיט ביג באַנד.
 
-| Question | Choices | Talk about |
+| פֿראַגע | ברירות | רעדט װעגן |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| װער איז גערופֿן דער קעניג פֿון ראָק און ראָל? | **עלװיס פּרעסלי**, פֿראַנק סינאַטרא, בינג קראָסבי | האָט איר אַ מאָל געזען עלװיס אויפֿן טעלעװיזאָר? |
+| װער זינגער איז געװען גערופֿן „אָל' בלו איִז“? | דין מאַרטין, **פֿראַנק סינאַטרא**, פּערי קאָמאָ | װעלכער סינאַטרא-לידל האָט איר די מערסטע ליב? |
+| בינג קראָסבי האָט געחלומט װעגן אַ װײַסן... | **קריסמאַס**, חתונה, הױז | זינגט צוזאַמען אַ שורה |
+| לוי אַרמסטראָנג האָט געזונגען „װאָס פֿאַר אַ װוּנדערלעכע...“ | טאָג, **װעלט**, לעבן | װאָס מאַכט די װעלט װוּנדערלעך פֿאַר אײַך? |
+| „Over the Rainbow“ האָט דזשודי גאַרלאַנד געזונגען אין װעלכן פֿילם? | **דער װיזאַרד פֿון אָז**, אַװעק מיטן װינט, זינגען אין רעגן | װוּ האָט איר געזען אײַערע ליב-געהאַטע פֿילמען? |
+| װער האָט געשפּילט לוסי אין „I Love Lucy“? | **לוסיל באַל**, דאָריס דיי, בעטי װײַט | װאָס פֿאַר שאָװען האָט אײַער משפּחה צוזאַמען געקוקט? |
+| װעלכער קאָװבױ האָט גערײַטן אויף אַ פֿערד מיטן נאָמען טריגער? | **רױ ראָגערס**, דזשין אָטרי, דזשאָן װײַן | האָט איר אַ קינד געשפּילט קאָװבױס? |
+| װער האָט געהאָסטעט „The Tonight Show“ 30 יאָר? | עד סאָליװאַן, **דזשאָני קאַרסאָן**, באָב האָפּ | האָט איר אַ מאָל שפּעט געזעסן און געקוקט טעלעװיזיע? |
+| װעלכער אינסטרומענט האָט 88 קלאַװישן? | גיטאַרע, **פּיאַנע**, טרומעט | האָט עמעץ פֿון אײַער משפּחה געשפּילט? |
+| װעלכער טאַנץ צײלט זיך אײנס-צװײ-דרײ, אײנס-צװײ-דרײ? | **װאַלס**, טװיסט, טאַנגאָ | װוּ זענט איר געגאַנגען טאַנצן? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+פֿאַר מער װעגן מוזיק, זעט [מוזיק-אַקטיװיטעטן פֿאַר דעמענץ](/activities/music/).
 
-## Everyday life trivia
+## טעגלעכע לעבן-טריװיע
 
-| Question | Choices | Talk about |
+| פֿראַגע | ברירות | רעדט װעגן |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| פֿאַר קילשאַפֿן האָבן פֿיל הײזער געהאַלטן עסן קאַלט אין אַ... | **אײַזקעסטל**, אויוון, בוידעם | װער האָט געבראַכט דאָס אײַז? |
+| װער האָט געבראַכט מילך צו דער טיר אין גלאָזענע פֿלעשלעך? | דער פּאָסטמאַן, **דער מילכמאַן**, דער צײַטונג-ייִנגל | װאָס האָט מען נאָך געבראַכט צום הױז? |
+| װי האָט מען געדרײט אַ דרײענדיקן טעלעפֿאָן? | קנעפּלעך דרוקן, **אַ ראָד דרײען**, צו אים רעדן | דערצײלט מיר װעגן דעם טעלעפֿאָן אין אײַער הױז |
+| װעלכע פֿירמע האָט געמאַכט דעם „מאָדעל T“-אויטאָ? | **פֿאָרד**, שעוראָלעט, בוּיק | דערצײלט מיר װעגן אַ אויטאָ װאָס איר האָט ליב געהאַט |
+| װוּ װאָלט מען געפֿונען אַ סאָדע-דזשערק? | **אַ סאָדע-פֿאָנטאַן**, אַ בעקערײַ, אַ באַנק | װאָס האָט איר באַשטעלט בײַם קאָנטער? |
+| װאָס פֿאַר אַ שפּילזאַך איז אַ מעטאַל-פֿעדער װאָס קען גײן אַראָפּ פֿון טרעפּ? | יאָ-יאָ, **סלינקי**, הולא-הופּ | װאָס פֿאַר שפּילזאַכן האָט איר ליב געהאַט? |
+| אַ דרײװ-אין איז געװען אַ אָרט צו קוקן... | **פֿילמען פֿון אײַער אויטאָ**, בײסבאָל-שפּילן, פּאַראַדעס | מיט װעמען זענט איר געפֿאָרן? |
+| װעמענס פּנים איז אויף דער איין-דאָלאַר-נאָטע? | לינקאָלן, **דזשאָרדזש װאַשינגטאָן**, דזשעפֿערסאָן | װאָס האָט מען געקענט קויפֿן פֿאַר אַ דאָלאַר דעמאָלט? |
+| װעמענס פּנים איז אויפֿן פּעני? | **אַבֿרהם לינקאָלן**, װאַשינגטאָן, פֿראַנקלין | האָט איר געשפּאָרט פּעניס אין אַ גלאָז דעמאָלט? |
+| װאָס פֿאַר אַ קאָליר איז געװײנטלעך אַ שולבוס? | רױט, **געל**, בלוי | װי זענט איר געקומען צו שול? |
 
-## Holidays, nature and places
+## יום-טובים, נאַטור און ערטער
 
-| Question | Choices | Talk about |
+| פֿראַגע | ברירות | רעדט װעגן |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| װעלכער יום-טוב פֿאַלט אויפֿן פֿערטן דאָנערשטיק אין נאָװעמבער? | לײבאָר-טאָג, **טענקסגיװינג**, מעמאָריאַל-טאָג | װאָס איז געװען אַלץ אויף אײַער טיש? |
+| פֿאַר װעלכן יום-טוב מאַכט מען דזשעק-אָ-לאַנטערנס? | **האַלאָװין**, אָסטערן, קריסמאַס | דערצײלט מיר װעגן האַלאָװין, װוּ איר זענט אויפֿגעװאַקסן |
+| דער פֿערטער יולי פֿײערט די דערקלערונג פֿון... | רעכטן, **אומאָפּהענגיקײט**, פֿרײהײט | װוּ האָט איר געקוקט פֿײַערװערק? |
+| אין װעלכן חודש איז מוטערס-טאָג? | אַפּריל, **מײ**, יוני | װי האָט אײַער משפּחה עס געפֿײַערט? |
+| װי פֿיל שטערן זענען אויפֿן אַמעריקאַנער פֿאָן? | 48, **50**, 52 | דער פֿאָן האָט געהאַט 48 שטערן ביז 1959. ביידע ענטפֿערס זענען אַ גוט זכּרון |
+| װעלכער ים איז אויפֿן מיזרח-ברעג? | פּאַציפֿיק, **אַטלאַנטיק**, אַרקטיש | זענט איר אַ מאָל געװען אויפֿן ים-ברעג? |
+| אין װעלכער שטאָט שטײט די פֿרײהײט-סטאַטוע? | באָסטאָן, **ניו יאָרק**, פֿילאַדעלפֿיע | זענט איר געװען אין ניו יאָרק? |
+| װאָס מאַכן ביען? | מילך, **האָניק**, זײַד | האָניק אויפֿן ברױט אָדער אין טײ? |
+| אַ קלײנע קו הײסט אַ... | פֿוילן, **קאַלף**, ציגעלע | האָט איר אַ מאָל געלעבט לעבן אַ פֿאַרם? |
+| װעלכע הױכע געלע בלום איז באַרימט פֿאַר צו דרײען זיך צו דער זון? | ראָז, **זונבלום**, טולפּאַן | װאָס האָט געװאַקסן אין אײַער גאָרטן? |
+| װי פֿיל טעג זענען אין אַ שאָלטיאָר? | 365, **366**, 360 | דערצײלט מיר װעגן אַ געבורטסטאָג װאָס איר געדענקט |
+| װעלכע יאָרצײַט קומט נאָך װינטער? | האַרבסט, **פֿרילינג**, זומער | װאָס איז אײַער ליב-געהאַטע יאָרצײַט? |
 
-## Food and sports trivia
+## עסן און ספּאָרט
 
-| Question | Choices | Talk about |
+| פֿראַגע | ברירות | רעדט װעגן |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| ראָזשינקעס זענען געטריקנטע... | פּלומעס, **װײַנטרױבן**, קערשן | האָט איר אין אײערע לאָנטשן געפּאַקט ראָזשינקעס? |
+| פּרונעס זענען געטריקנטע... | **פּלומעס**, פֿײַגן, עפּל | װער אין אײַער משפּחה האָט פּרונעס ליב געהאַט? |
+| ערדנוס-בוטער און... | **דזשעלי**, קעז, שינקע | קרעמיק אָדער גלאַט? |
+| גװאַקאַמאָלע איז מערסטנס געמאַכט פֿון... | ערבעס, **אַװאָקאַדאָס**, גורקעס | װאָס פֿאַר דיפּס זענען געװען אויף פּאַרטיס? |
+| װעלכער פּאַשטעט איז אַ ליב-געהאַטער טענקסגיװינג-פּאַשטעט? | **קירבעס**, לימענע, קערשן | װעלכן פּאַשטעט האָט איר געמאַכט? |
+| װי פֿיל שפּילער האָט אַ בײסבאָל-מאַנשאַפֿט אויפֿן פֿעלד? | 7, **9**, 11 | װעלכע מאַנשאַפֿט האָט איר אונטערשטיצט? |
+| װי פֿיל סטרײַקס מאַכן אַן אויסגאַנג אין בײסבאָל? | צװײ, **דרײ**, פֿיר | האָט איר אַ מאָל געשפּילט מיט אַ באַלל? |
+| װעלכן ספּאָרט איז בײב רוט באַרימט? | באָקסן, **בײסבאָל**, גאָלף | זענט איר געגאַנגען צו בײסבאָל-שפּילן? |
+| װי פֿיל לעכער זענען אויף אַ סטאַנדאַרטן גאָלף-פּלאַץ? | 9, **18**, 24 | האָט איר אַ מאָל געשפּילט גאָלף, אָדער מיני-גאָלף? |
+| אין װעלכן ספּאָרט מאַכט מען אַ טאָטשדאָון? | **פֿוטבאָל**, הוקי, באַסקעטבאָל | װער האָט אין אײַער הױז געקוקט פֿוטבאָל? |
 
-## Familiar sayings
+## באַקאַנטע רעדעװנדונגען
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+ענדיקן אַ רעדעװנדונג צאַפּט אַרױס שפּראַך װאָס מען האָט לאַנג צוריק געלערנט, און עס קומט אָפֿט לײכט. אונדזער [ענדיקט די רעדעװנדונג](/games/finish-the-saying/)-שפּיל האָט נאָך פֿיל מער, מיט אַ טאַפּ צו װײַזן יעדן ענדע.
 
-| Saying | Choices | Talk about |
+| רעדעװנדונג | ברירות | רעדט װעגן |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| אַ עפּל אַ טאָג האַלט דעם... | **דאָקטער** װײַט, רעגן װײַט, קאַץ װײַט | װער האָט אײַך דאָס אַ מאָל געזאָגט? |
+| דער פֿריער פֿױגל כאַפּט דעם... | אויטאָבוס, **װאָרעם**, באַן | זענט איר אַ מאָרגן-מענטש? |
+| צײלט נישט אײַערע הינער איידער זײ... | **אויסקריכן**, שלאָפֿן, זינגען | האָט אײַער משפּחה געהאַלטן הינער? |
+| אַ פּעני געשפּאָרט איז אַ פּעני... | **פֿאַרדינט**, פֿאַרלוירן, אויסגעגעבן | װער איז געװען דער שפּאָרער אין אײַער משפּחה? |
+| היים איז װוּ דאָס... | גאָרטן איז, **האַרץ איז**, קיך איז | װאָס מאַכט אַ אָרט פֿילן װי היים? |
+| בעסער שפּעט װי... | פֿריה, **קײנמאָל**, אַנטשולדיק | װער איז שטענדיק שפּעט געװען? |
+| יעדער װאָלקן האָט אַ זילבערנעם... | **פֿוטער**, לעפֿל, מטבע | דערצײלט מיר װעגן אַ גליקלעכן צופֿאַל |
+| מעשים רעדן לויטער װי... | **װערטער**, מוזיק, דונער | דערצײלט מיר װעגן עמעצן װאָס האָט דאָס געזאָגט |
 
-## This-or-that questions with no wrong answer
+## דאָס-אָדער-יענץ-פֿראַגעס אָן קײן פֿאַלשע ענטפֿער
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+די פּאַסן פֿאַר יעדן שטאַדיום, אַפֿילו שפּעטער, װײַל עס איז נישטאָ װאָס צו טרעפֿן. פֿרעגט, הערט צו, און טיילט אויך אײער אייגענע ענטפֿער.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- קאַװע אָדער טיי?
+- ים-ברעג אָדער בערג?
+- הינט אָדער קעצער?
+- זומער אָדער װינטער?
+- פּאַשטעט אָדער קוכן?
+- טאַנצן אָדער קוקן?
+- זונאויפֿגאַנג אָדער זונאונטערגאַנג?
+- פֿראָנט-פּאָרטש אָדער הינטער-הויף?
+- ראַדיאָ אָדער פּלאַטן?
+- פּענקייקס אָדער אייער?
+- ראָזן אָדער געלע בלומען?
+- באַן-נסיעה אָדער אויטאָ-נסיעה?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+פֿאַר שמועס-פּראָמפּטן װאָס גײען מיט בילדער, פּרוּװט אונדזערע דרוקבאַרע [שמועס-קאַרטלעך](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## װי פֿירט מען אַ טריװיע-סעסיע אין אַ פֿלעגע-הײם אָדער גרופּע?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **זעצט מענטשן אַזױ אַז זײ זאָלן זען און הערן.** מיט הערן-אַפּאַראַטן אין, בריל אױף, דער טעלעװיזאָר אױס.
+2. **שטעלט עס פֿאָר װי אַ שמועס.** „איך האָב עטלעכע פֿראַגעס װעגן די אַלטע צײטן, און איך װעט װעטן אַז איר װייסט מער װי איך.“
+3. **לייענט יעדע פֿראַגע צװײ מאָל און װײַזט די ברירות גרױס.**
+4. **באַגריסט ענטפֿערס פֿון אָרט אין צימער.** װידערהאָלט גוטע ענטפֿערס, כּדי אַלעמען זאָל זײ הערן.
+5. **זאָגט דעם ענטפֿער פֿאַר אַלעמען,** און דערנאָך פֿרעגט דעם רעדטעמע צום צימער.
+6. **פֿאָלגט דער ענערגיע.** אויב איין פֿראַגע הײבט אָן צען מינוט געשיכטעס, לאָזט עס.
+7. **ענדיקט מיט אַ ליד אָדער אַ דאָס-אָדער-יענץ-רונד,** כּדי אַלעמען זאָל ענדיקן מיט עפּעס לײכטס.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+פֿאַר אַנדערע גרופּע-פֿאָרמאַטן, אַרײַנגערעכנט בילד-ביאַנגאָ און זינג-צוזאַמען, זעט [גרופּע-אַקטיװיטעטן פֿאַר פֿלעגע-הײמען](/activities/care-home-groups/).
 
-## When to change the plan
+## װען צו ענדערן דעם פּלאַן
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+אויב עמעץ קוקט באַזאָרגט, װערט שטיל אָדער זאָגט „איך װייס נישט“ מער װי איין מאָל, מאַכט עס גרינגער: לאָזט נאָר צװײ ברירות, ענטפֿערט צוזאַמען, אָדער גײט איבער צו דאָס-אָדער-יענץ-פֿראַגעס. אויב די גרופּע װיל ליבער רעדן װעגן איין פֿראַגע די גאַנצע נאָכמיטאָג, איז דאָס אַ הצלחה. דער ציל איז קײנמאָל געװען די רעכטע ענטפֿער. עס איז געװען צײַט אין גוטער חבֿרותא.

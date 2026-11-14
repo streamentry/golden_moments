@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Bisten",
+      "description": "Freonlike bisten fan oer de hiele wrâld"
+    },
+    "nature": {
+      "name": "Natuer",
+      "description": "Moaie lânskippen en natuerbyldsjes"
+    },
+    "food": {
+      "name": "Iten",
+      "description": "Lekkere miel en traktaasjes"
+    },
+    "vintage": {
+      "name": "Auto's",
+      "description": "Auto's en frachtweinen om nei te sjen en oer te praten"
+    },
+    "flowers": {
+      "name": "Blommen",
+      "description": "Moaie blommen en túnbyldsjes"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Boerkerijbisten",
+      "description": "Freonlike boerkerijbisten, lykas by in besite oan it plattelân.",
+      "theme": "Libben op de boerkerij",
+      "images": {
+        "cow_1": "Freonlike ko",
+        "pig_1": "Baarch",
+        "chicken_1": "Hoanne",
+        "buffalo_1": "Wetterbuffel",
+        "horse_1": "Moai hynder",
+        "duck_1": "Aenfamylje",
+        "goat_1": "Nijsgjirrige geit",
+        "rabbit_1": "Skattich knyn"
+      }
+    },
+    "nature_mountains": {
+      "title": "Berchsichten",
+      "description": "Yndrukwekkende berchlânskippen en moaie útsichten",
+      "theme": "Natuerlike skientme",
+      "images": {
+        "mountain_1": "Beskniede berchtoppen",
+        "mountain_2": "De berch Fuji",
+        "mountain_3": "Alpindal",
+        "mountain_4": "Rotsige top",
+        "mountain_5": "Boskrike heuvels",
+        "mountain_6": "Mistige bergen"
+      }
+    },
+    "vintage_cars": {
+      "title": "Auto's en frachtweinen",
+      "description": "Glânzjende auto's en frachtweinen om nei te sjen en oer te praten",
+      "theme": "Ûnderweis",
+      "images": {
+        "vintage_car_1": "Oranje Audi by sinne-ûndergong",
+        "vintage_car_2": "Blauwe sportwein yn de woastyn",
+        "vintage_car_3": "Sulveren Bugatti",
+        "vintage_car_4": "Swarte Porsche op de dyk",
+        "vintage_car_5": "Oranje BMW yn in strjitte mei palmbeammen",
+        "vintage_car_6": "Blauwe coupé by in garaazje",
+        "vintage_car_7": "Griene pick-up",
+        "vintage_car_8": "Wite SUV tusken reade rotsen",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blauwe auto mei wite streken"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaribisten",
+      "description": "Weardige bisten fan Afrikaanske safary's",
+      "theme": "Wylde natuer",
+      "images": {
+        "lion_1": "Weardige liuw",
+        "elephant_2": "Afrikaanske oaljefant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Streepte sebra",
+        "rhino_5": "Sterke neushoarn",
+        "cheetah_6": "Flugge jachtluipaard",
+        "fox_7": "Brune foks",
+        "bear_8": "Iisbear",
+        "turtle_9": "Brune skylpod",
+        "squirrel_10": "Brune ikkerne",
+        "macaw_11": "Giel en blau araka",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Waskbear",
+        "wolf_14": "Grize wolf",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Moaie pau"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Lekkere neigerjochten",
+      "description": "Wat lekkere neigerjochten by jo miel.",
+      "theme": "Swiete neigerjochten",
+      "images": {
+        "pastries_1": "Fjouwer gebakjes",
+        "oreo_cookie_sandwiches_2": "Oreo-koekjes",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pankoek",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Karamelkoeke"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropyske blommen",
+      "description": "Ûntdek de libbene skientme fan de tropen mei dit pakket eksoatyske blommen.",
+      "theme": "Tropyske blommen",
+      "images": {
+        "hibiscus_1": "Read hibiskus",
+        "frangipani_2": "Read-wite frangipani",
+        "sunflower_3": "Sinneblom",
+        "hydrangea_4": "Wite hortensia",
+        "rose_5": "Roas",
+        "chrysanthemum_6": "Chrysant",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Ridderspoar"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Strjititen",
+      "description": "Ferken de kleurrike wrâld fan strjititen mei dit pakket lekkere hapkes fan oer de hiele wrâld.",
+      "theme": "Strjititen",
+      "images": {
+        "taco_1": "Meksikaanske taco",
+        "ramen_2": "Japanske ramen",
+        "dumplings_3": "Sineeske dumplings",
+        "samosa_4": "Yndiaanske samosa",
+        "pizza_5": "Italjaanske pizzapunt",
+        "crepe_6": "Frânske crêpe",
+        "satay_7": "Thaise satésteekjes",
+        "burger_8": "Amerikaanske hamburger",
+        "bao_9": "Steamde baobroadsje",
+        "takoyaki_10": "Japanske takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Natuerlânskip",
+      "description": "Rêstige, moaie natuerbyldsjes om stadich nei te sjen en tegearre oer te praten.",
+      "theme": "Natuerlânskippen",
+      "images": {
+        "mountain_1": "Berchketen",
+        "forest_2": "Mistich bosk",
+        "lake_3": "Berchmar",
+        "desert_4": "Woastynduorren",
+        "waterfall_5": "Wetterfal",
+        "beach_6": "Sânstrân",
+        "river_7": "Streamende rivier",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Loft by sinne-ûndergong",
+        "snow_mountain_10": "Snieberch",
+        "flowers_11": "Wylde blommen",
+        "rainforest_12": "Reinwâld",
+        "iceberg_13": "Iisberch",
+        "volcano_14": "Fulkaan",
+        "cliff_15": "Seekliff",
+        "aurora_16": "Noarderljocht",
+        "savannah_17": "Savanne",
+        "coral_reef_18": "Koraalrif"
+      }
+    }
+  }
+}

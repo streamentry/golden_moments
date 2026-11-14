@@ -1,33 +1,28 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "නොමිලේ මුද්‍රණය කළ හැකි ඩිමෙන්ශියා ක්‍රියාකාරකම්"
+seoTitle: "නොමිලේ මුද්‍රණය කළ හැකි ඩිමෙන්ශියා ක්‍රියාකාරකම්: විශාල අකුරු"
+description: "නොමිලේ මුද්‍රණය කළ හැකි ඩිමෙන්ශියා ක්‍රියාකාරකම්: විශාල අකුරු වචන සෙවීම, වර්ණ තීන්ත, සංවාද කාඩ්පත් සහ පින්තූර බින්ගෝ, මුද්‍රණ ඉඟි සමඟ."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments නොමිලේ මුද්‍රණය කළ හැකි ඩිමෙන්ශියා ක්‍රියාකාරකම් ලබා දෙයි: විශාල අකුරු වචන සෙවීමක්, වර්ණ තීන්ත පිටු, පින්තූර සංවාද කාඩ්පත් සහ පින්තූර බින්ගෝ කාඩ්පත්. ඕනෑම ක්‍රීඩා පිටුවක් විවෘත කර එහි මුද්‍රණ බොත්තම භාවිත කරන්න. විශාල, සරල අකුරින් ඝන කඩදාසි මත මුද්‍රණය කර, එක් පිටුවකට එක් කාර්යයක් තබන්න, නැවත භාවිත කිරීමට ඔබට අවශ්‍ය පිටු ආවරණය කරන්න. ජීවිත කථා පිටුවක් හෝ දෛනික කාලසටහනක් වැනි සරල නිවසේදී සාදන ලද මුද්‍රණ ද උදව් වේ.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "අපේ මුද්‍රණය කළ හැකි ක්‍රියාකාරකම් නොමිලේය: වචන සෙවීම, වර්ණ තීන්ත, සංවාද කාඩ්පත් සහ පින්තූර බින්ගෝ. සෑම ක්‍රීඩා පිටුවකම මුද්‍රණ බොත්තමක් ඇත."
+  - "විශාල, සරල අකුරින් සහ ශක්තිමත් වෙනසක් සහිතව මුද්‍රණය කර, එක් පිටුවකට එක් කාර්යයක් තබන්න."
+  - "ඝන කඩදාසි හෝ කාඩ් ස්ටොක් අතින් ගැනීමට පහසුය සහ පහසුවෙන් නොකැඩේ. නැවත භාවිත කිරීමට පිටු ආවරණය කර, වියළි-මැකීමේ පෑන් සමඟ භාවිත කරන්න."
+  - "ජීවිත කථා පිටුවක්, දෛනික කාලසටහනක් හෝ දොරවල් සඳහා පින්තූර ලේබල් වැනි නිවසේදී සාදන ලද මුද්‍රණ සරල සහ ප්‍රයෝජනවත් ය."
+  - "මුද්‍රණය කළ පිටුවක් ආරාධනයකි, ගෘහ කාර්යයක් නොවේ. එහි කොටසක් හෝ කිසිවක් නොකිරීමද හොඳය."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "ඔබේ මුද්‍රණය කළ හැකි ඩිමෙන්ශියා ක්‍රියාකාරකම් නොමිලේද?"
+    a: "ඔව්. මෙම අඩවියේ වචන සෙවීම, වර්ණ තීන්ත, සංවාද කාඩ්පත් සහ පින්තූර බින්ගෝ පිටු නොමිලේ භාවිත කර මුද්‍රණය කළ හැක. ක්‍රීඩා පිටුව විවෘත කර මුද්‍රණ බොත්තම භාවිත කරන්න."
+  - q: "ඩිමෙන්ශියාව සඳහා වඩාත් හොඳ මුද්‍රණය කළ හැකි ක්‍රියාකාරකම් කුමක්ද?"
+    a: "හොඳම මුද්‍රණ සරල, පැහැදිලි සහ වැඩිහිටි ගතියෙන් යුක්තය: එක් එක් දිශාවට සහ පහළට පමණක් වචන ඇති විශාල අකුරු වචන සෙවීමක්, පැහැදිලි රූප රේඛා සහිත වර්ණ තීන්ත පිටු, සංවාදයක් ආරම්භ කරන පින්තූර කාඩ්පත්, සහ කණ්ඩායම් සඳහා පින්තූර බින්ගෝ. පුද්ගලයා ප්‍රිය කරන දේවලට සහ වර්තමාන හැකියාවන්ට ක්‍රියාකාරකම ගළපා, එක් පිටුවකට එක් කාර්යයක් තබන්න."
+  - q: "මුද්‍රණය කළ දේවල් වඩාත් පහසුවෙන් බැලීමට සහ භාවිත කිරීමට මම කෙසේද කරන්නේ?"
+    a: "විශාල, සරල අකුරු, සුදු හෝ ක්‍රීම් පැහැති කඩදාසි මත තද තීන්ත, සහ ඉඩ පුෂ්කලව භාවිත කරන්න. පිටුව නිසල තබා ගැනීමට ඝන කඩදාසි හෝ කාඩ් ස්ටොක් මත මුද්‍රණය කර, දීප්තිය අඩු කිරීමට මැට් කඩදාසි තෝරන්න, සහ ක්ලිප්බෝඩ් හෝ නොලිස්සන මැට් එකක් භාවිත කරන්න. ලැමිනේට් කිරීම පිටු දිගු කාලයක් පවතී."
+  - q: "රැකවරණ නිවසකට හෝ දින වැඩසටහනකට ඔබේ ක්‍රියාකාරකම් මුද්‍රණය කළ හැකිද?"
+    a: "ඔව්. ක්‍රියාකාරකම් කාර්ය මණ්ඩලයට අපේ පිටු නවාතැන් ගන්නන් සහ කණ්ඩායම් සඳහා මුද්‍රණය කිරීමට සාදරයෙන් ඉඩ දෙයි. පින්තූර බින්ගෝ කණ්ඩායම් සඳහා නිර්මාණය කර ඇති අතර, රූපවාහිනියේ හෝ ප්‍රක්ෂේපකයේ පෙන්විය හැකි තිරය මත කතා කරන්නෙකු ඇතුළත් වේ."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +47,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+සමහර විට හොඳම ක්‍රියාකාරකම වන්නේ මුළුතැන්ගෙයි මේසය මත කඩදාසි කැබැල්ලක් සහ පෑනක් තිබීමයි. මුද්‍රිත ද්‍රව්‍ය වලට ආරෝපණයක් අවශ්‍ය නැත, මුරපද අවශ්‍ය නැත, සහ තිරයක් අවශ්‍ය නැත, සහ ඒවා සංචාරයකට හෝ කණ්ඩායමකට රැගෙන යාමට පහසුය. මෙම පිටුව අපේ අඩවියේ ඇති නොමිලේ මුද්‍රණය කළ හැකි ක්‍රියාකාරකම්, ඒවා පහසුවෙන් බැලිය හැකි සහ අතින් ගත හැකි ලෙස මුද්‍රණය කරන ආකාරය, සහ පවුල් සහ ක්‍රියාකාරකම් කාර්ය මණ්ඩලය ප්‍රයෝජනවත් යැයි සලකන සරල නිවසේදී සාදන ලද මුද්‍රණ කිහිපයක් විස්තර කරයි.
 
-## What free printable activities do you offer?
+## අපේ නොමිලේ මුද්‍රණය කළ හැකි ක්‍රියාකාරකම් මොනවාද?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+අපි නොමිලේ මුද්‍රණය කළ හැකි ක්‍රියාකාරකම් හතරක් ලබා දෙමු. මෙම ක්‍රීඩා පිටුවලින් ඕනෑමක් විවෘත කර, මුද්‍රණයට හිතකර අනුවාදයක් ලබා ගැනීමට **මුද්‍රණය** බොත්තම භාවිත කරන්න.
 
-| Printable | What it is | Good for |
+| මුද්‍රණය | එය කුමක්ද | ගැලපෙන්නේ |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [වචන සෙවීම](/games/word-search/) | එක් එක් දිශාවට සහ පහළට පමණක් වචන ධාවනය වන විශාල අකුරු වචන සෙවීමක් | පෑනක් සහිත නිශ්චල වේලාව; ප්‍රහේලිකා ප්‍රියකළ අය |
+| [වර්ණ තීන්ත](/games/coloring/) | මුද්‍රණය කිරීමට හෝ තිර මත වර්ණ තැවීමට වර්ණ තීන්ත පිටු | සන්සුන්, නිර්මාණශීලී වේලාව; ඕනෑම අවධියක උදව් සහිතව |
+| [සංවාද කාඩ්පත්](/games/conversation-cards/) | විවෘත, ප්‍රශ්න-නොවන සංවාද ප්‍රේරණ සහිත මාතෘකා අනුව පින්තූර කාඩ්පත් | බැලීම්, ඇමතුම්, පවුල් ආහාර වේලා, මතකය අවදි කරන කණ්ඩායම් |
+| [පින්තූර බින්ගෝ](/games/picture-bingo/) | අංක වෙනුවට පින්තූර සහිත බින්ගෝ කාඩ්පත්, තිරය මත කතා කරන්නෙකු සමඟ | රැකවරණ නිවාස, දින වැඩසටහන්, පවුල් එකතු වීම් |
 
-### Large-print word search
+### විශාල අකුරු වචන සෙවීම
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[වචන සෙවීම](/games/word-search/) විශාල අක්ෂර භාවිත කරන අතර වචන එක් එක් දිශාවට සහ පහළට පමණක් ධාවනය වන ලෙස තබයි, කර්ණාන්තර හෝ පසුපසට වචන නැත. එය එකට කරන්න: එක් අයෙක් ලැයිස්තුවෙන් වචනයක් කියවයි, අනෙකා එය සොයයි. වචන සොයා ගැනීම අමාරු වුවහොත්, එක් එක් වචනයේ පළමු අකුර එකට කව කරන්න, නැතහොත් වචන ලැයිස්තුව හඬ නගා කියවා, එක් එක් වචනය ගැන කතා කරන්න.
 
-### Coloring pages
+### වර්ණ තීන්ත පිටු
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[වර්ණ තීන්ත](/games/coloring/) පිටු මාකර් හෝ වර්ණ පැන්සල් සඳහා මුද්‍රණය කළ හැක, හෝ ටැබ්ලට් එකක වර්ණයක් තට්ටු කර, පසුව චිත්‍රයේ කොටසක් තට්ටු කර තීන්ත ගැන්විය හැක. මුද්‍රිත පිටු සඳහා, ඝන මාකර් සහ එකවර වර්ණ කිහිපයක් ඉදිරිපත් කරන්න. වර්ණ තීන්ත වැඩිහිටි සහ සන්සුන් ලෙස තබා ගැනීමේ ක්‍රම සඳහා අපේ [කලා සහ කර්මාන්ත මාර්ගෝපදේශය](/activities/arts-and-crafts/) බලන්න.
 
-### Conversation cards
+### සංවාද කාඩ්පත්
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[සංවාද කාඩ්පත්](/games/conversation-cards/) පැහැදිලි චිත්‍රයක් විවෘත ප්‍රේරණයක් සමඟ යුගල කරයි, එමගින් “මට ... ගැන කියන්න” හෝ “ඔබ කුමක් දකිනවාද?” වැනි. ඒවා පරීක්ෂණ ප්‍රශ්න නොව, විවෘත ආරාධනා ලෙස ලියා ඇත. කට්ටලයක් මුද්‍රණය කර, කපා වෙන් කර, බැලීම් සඳහා බෑගයක් තුළ කිහිපයක් තබා ගන්න, නැතහොත් ඇමතුම් සඳහා දුරකථනය අසල තබන්න. ඒවා [මතකය අවදි කිරීමේ](/activities/reminiscence/) කණ්ඩායම්වලටද හොඳින් වැඩ කරයි.
 
-### Picture bingo cards
+### පින්තූර බින්ගෝ කාඩ්පත්
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[පින්තූර බින්ගෝ](/games/picture-bingo/) කාඩ්පත් අංක වෙනුවට පින්තූර භාවිත කරයි. ක්‍රීඩකයෙකුට එක් කාඩ්පතක් මුද්‍රණය කර, ලැප්ටොප්, රූපවාහිනිය හෝ ප්‍රක්ෂේපකය මත තිරය මත කතා කරන්නා භාවිත කරන්න. සෑම කෙනෙකුගේම කාඩ්පත පිරෙන තුරු කතා කරන ලෙස අප යෝජනා කරමු, එවිට කිසිවෙක් ඉවත් නොවේ. සැසියක් කළමනාකරණය කරන ආකාරය සඳහා [රැකවරණ නිවාස සඳහා කණ්ඩායම් ක්‍රියාකාරකම්](/activities/care-home-groups/) බලන්න.
 
-## How do I print activities so they are easy to use?
+## මුද්‍රණ පිටු පහසුවෙන් භාවිත කරන්නේ කෙසේද?
 
-Small changes in how you print make a big difference.
+ඔබ මුද්‍රණය කරන ආකාරයේ කුඩා වෙනස්කම් විශාල වෙනසක් ඇති කරයි.
 
-### Make it easy to see
+### පහසුවෙන් බැලීමට
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **විශාල, සරල අකුරු.** පිටුවට තවමත් ගැලපෙන විශාලතම මුද්‍රණ සැකසුම භාවිත කරන්න. අලංකාර හෝ අත් අකුරු වළකින්න.
+- **ශක්තිමත් වෙනස.** සුදු හෝ ක්‍රීම් කඩදාසි මත තද තීන්ත. ලා අළු හෝ වර්ණ පසුබිම් මඟ හරින්න.
+- **මැට් කඩදාසි** දීප්තිමත් ආලෝකය යටතේ දීප්තිය අඩු කරයි.
+- **කණ්ණාඩි සහ ආලෝකය පරීක්ෂා කරන්න.** Alzheimer's Association සඳහන් කරන්නේ දෘෂ්ටි සහ ශ්‍රවණ ගැටලු සන්නිවේදනය දුෂ්කර කළ හැකි බවත්, ඒවා නිතර පරීක්ෂා කරන ලෙසත්ය. දීප්තිමත්, ඒකාකාර ආලෝකයක් ද උදව් කරයි.
 
-### Make it easy to hold
+### අතින් ගැනීමට පහසුවෙන්
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **ඝන කඩදාසි හෝ කාඩ් ස්ටොක්** පැතලිව පවතින අතර, ගැනීමට පහසු වන අතර, නැවත නැවත භාවිතයට ඔරොත්තු දෙයි.
+- **ක්ලිප්බෝඩ් එකක්** හෝ නොලිස්සන ස්ථානීය මැට් එකක් පිටුව ලිස්සා යාම වළකයි.
+- **ඝන මාකර් හෝ ගනකම් පැන්සල්** තුනී පෑන්වලට වඩා අල්ලා ගැනීමට පහසුය.
 
-### Make it reusable
+### නැවත භාවිත කළ හැකි ලෙස
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **පිටු ලැමිනේට් කරන්න** හෝ පැහැදිලි ෂීට් ප්‍රොටෙක්ටර් වලට ලිස්සා දමන්න. වචන සෙවීම් සහ බින්ගෝ කාඩ්පත් මත වියළි-මැකීමේ මාකර් භාවිත කර, පසුව පිස දමන්න.
+- **දීප්තිය ගැටලුවක් නම් මැට් පවුච් තෝරන්න**, සහ ලැමිනේට් කළ කාඩ්පත්වල කොන් කපුරෙන් කපා **වටකුරු කරන්න**, එවිට ඒවා භාවිත කිරීමට සුවපහසුය.
+- **ප්‍රිය කරන දේවල් ගොනුවක් තබා ගන්න**, එවිට ඔබ සෑම සතියකම එකම පිටුව නැවත මුද්‍රණය නොකරන්න.
 
-### Keep it simple
+### සරලව තබන්න
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **එක් පිටුවකට එක් කාර්යයක්.** එක් වචන සෙවීමක් හෝ එක් පින්තූරයක්, එකට අවුල් වූ ක්‍රියාකාරකම් කිහිපයක් නොවේ.
+- **බොහෝ සුදු ඉඩ.** කාර්යබහුල පිටුවක් අධික ලෙස දැනිය හැක.
+- **කියවීමට උපදෙස් නැත, හැකි තැනක.** ඔබම කරන්නේ කෙසේදැයි පුද්ගලයාට පෙන්වන්න.
+- **පත්‍ර කපන්න.** සම්පූර්ණ පිටුවක් වැඩි නම්, එය අඩකට කපන්න හෝ කොටසක් පමණක් පෙනෙන පරිදි නමන්න.
 
-## Other useful printables you can make at home
+## ඔබට ගෙදර සෑදිය හැකි තවත් ප්‍රයෝජනවත් මුද්‍රණ
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+සෑම ප්‍රයෝජනවත් මුද්‍රණයක්ම ක්‍රීඩාවක් නොවේ. මේවා වචන සැකසුම් වැඩසටහනක් සහ මුද්‍රකයක් සමඟ පහසුවෙන් සෑදිය හැක.
 
-### A life-story page
+### ජීවිත කථා පිටුවක්
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+ඡායාරූපයක්, පුද්ගලයා කැමති ලෙස ඇමතෙන නම, ඔවුන් හැදී වැඩුණු ස්ථානය, ඔවුන්ගේ වෘත්තිය, පවුල, ප්‍රිය ආහාර, සංගීතය සහ සැනසීම හෝ කලබල කරන දේවල් සහිත “මගේ ගැන” එක් පිටුවක්. Dementia Australia පුද්ගලයාගේ ජීවිතය, රුචි අරුචි සහ වැදගත් පුද්ගලයන් ගැන විස්තර සහිත [මතක පොතක්](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) යෝජනා කරන්නේ, අමුත්තන්ට සහ රැකබලා ගන්නන්ට උදව් කිරීමට සහ සංවාදය ඇති කිරීමට ය.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+රෝහල්වලට සහ නව රැකවරණ සැකසුම්වලට එය විශේෂයෙන් ප්‍රයෝජනවත්ය. NIA රෝහල් කාර්ය මණ්ඩලයට [පුද්ගලික තොරතුරු පත්‍රිකාවක්](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ලබා දෙන ලෙස නිර්දේශ කරන්නේ, එය පුද්ගලයාගේ දින චර්යාව, කැමති නම, රුචි අරුචි, හැකි උත්තේජක සහ වේදනාවේ නොවචනාත්මක ලකුණු ආවරණය කරයි.
 
-### A daily schedule
+### දෛනික කාලසටහනක්
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+කාලයන්, වචන කිහිපයක් සහ සෑම කොටසකටම කුඩා පින්තූරයක් සහිත විශාල, සරල දින කාලසටහනක්: උදෑසන ආහාරය, ඇවිදීම, දහවල් ආහාරය, විවේකය, සංගීතය, රාත්‍රී ආහාරය. Alzheimer's Association හි [දෛනික රැකබලා ගැනීමේ සැලැස්ම](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) පුද්ගලයාගේ හොඳම දින වේලාවන් වටා සැලසුම් කිරීමට යෝජනා කරයි, නිත්‍ය අවදි වීම් සහ නිදා යාම් වේලා සහ ක්‍රියාකාරකම් සහ විවේකය අතර සමතුලිතතාවයක් සමඟ. එය ඇස් මට්ටමේ, උදාහරණයක් ලෙස ශීතකරණය මත, එල්ලන්න, සහ නම්‍යශීලීව තබා ගන්න. වැඩි විස්තර සඳහා අපේ [දෛනික චර්යා මාර්ගෝපදේශය](/activities/daily-routine/) බලන්න.
 
-### Picture labels for rooms and drawers
+### කාමර සහ ලාච්චු සඳහා පින්තූර ලේබල්
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA [නාන කාමරය, නිදන කාමරය සහ මුළුතැන්ගෙය ලේබල් කිරීමට](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) දීප්තිමත් වර්ණ සලකුණු හෝ සරල පින්තූර භාවිත කරන ලෙස යෝජනා කරයි. එම අදහසම ලාච්චු සහ අලමාරු සඳහාද ක්‍රියා කරයි: මේස් ලාච්චුවේ මේස් පින්තූරයක්, කෝප්ප අලමාරුවේ කෝප්ප පින්තූරයක්. මුද්‍රණය කර, ලැමිනේට් කර, ඇලවීම.
 
-### A sorting set
+### වර්ග කිරීමේ කට්ටලයක්
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+ඵල සහ මල්, හෝ මෙවලම් සහ මුළුතැන්ගෙයි භාණ්ඩ වැනි සරල කාණ්ඩ දෙකකින් පින්තූර ඝන කඩදාසි මත මුද්‍රණය කරන්න. ඒවා කපා වෙන් කර, කූඩ දෙකකට එකට වර්ග කරන්න. මෙහි තිර මත ඇති අනුවාදය [එකට වර්ග කරන්න](/games/sort-together/) වේ.
 
-### Song lyric sheets
+### ගීත පද පත්‍ර
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+ප්‍රිය ගීත කිහිපයක වචන ඉතා විශාල අකුරින් ගායනා කිරීම සඳහා මුද්‍රණය කරන්න. තවමත් වැඩි වශයෙන් කියවන්නේ නැති අයද පත්‍රය අතේ තබා ගැනීමෙන් රසවිඳිය හැක.
 
-### A family photo page
+### පවුල් ඡායාරූප පිටුවක්
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+විශාල පවුල් ඡායාරූප හතරක් හෝ හයක්, සෑම එකක් යටම මුල් නමක් සහිතව, එක් පිටුවක. එය ඕනෑම කෙනෙකුට ගෙන කතා කිරීමට මේසය මත තැබිය හැක. ලේබල් අමුත්තන්ට සහ කාර්ය මණ්ඩලයට සංවාදයට එක් වීමට උදව් කරයි, සහ කිසිවෙකුට “මේ කව්ද?” යැයි ඇසීමට අවශ්‍ය නොවේ.
 
-### A recipe card
+### රෙසිපි කාඩ්පතක්
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+ප්‍රිය පවුල් රෙසිපියක් විශාල අකුරින් මුද්‍රණය කරන්න. එය සමඟ එකට උයන්න, හෝ අතීතයේ ආහාර ගැන කතා කිරීමට පමණක් භාවිත කරන්න.
 
-## How do I offer a printable without it feeling like homework?
+## මුද්‍රිත ක්‍රියාකාරකමක් වැඩ කිරීමක් ලෙස නොපෙනෙන ලෙස ඉදිරිපත් කරන්නේ කෙසේද?
 
-Present it as something to share, not a test.
+එය පරීක්ෂණයක් ලෙස නොව, බෙදා ගැනීමට දෙයක් ලෙස ඉදිරිපත් කරන්න.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **වාඩි වී එය ඔබම ආරම්භ කරන්න.** “මම මේ වචන සෙවීම කරනවා. ‘උයන’ සොයන්න මට උදව් කරන්නද?”
+- **එකට වැඩ කරන්න.** මාරුවෙන් මාරුවට කරන්න, හෝ එක් අයෙක් සොයා ගන්නා අතර අනෙකා වට කරයි.
+- **කිසි විටෙක හරි හෝ වැරදි ලෙස ලකුණු නොකරන්න.** [ගෙදර ක්‍රියාකාරකම්](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) පිළිබඳ Alzheimer's Association මාර්ගෝපදේශය ප්‍රතිඵලය වෙනුවට ක්‍රියාවලිය, සහ ජයග්‍රහණය වෙනුවට රසවිඳීම කෙරෙහි අවධානය යොමු කරන ලෙස උපදෙස් දෙයි.
+- **පිටු ඉවත තබන්න.** එම මාර්ගෝපදේශය ස්ක්‍රැප්බුක්, ඡායාරූප ඇල්බම හෝ පැරණි සඟරා පහසුවෙන් ළඟා විය හැකි ස්ථානවල තැබීමට යෝජනා කරයි. මුද්‍රිත කාඩ්පත් සහ ඡායාරූප පිටු ද ඒ ආකාරයටම පැත්තේ මේසයක තැබිය හැක.
+- **ඔබට අවශ්‍ය විට නවතන්න.** අඩක් වර්ණ තීන්ත පිටුවක් හොඳ දවසකි. පිටුව ඉවත් කර තේ කෝප්පයක් ගෙන සිටීමද එසේමය.
 
-## Where to find more
+## තවත් සොයා ගන්නේ කොහේද
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+අපේ [ක්‍රීඩා සහ මුද්‍රණ](/games/) සියල්ල පිරික්සන්න, හෝ කඩදාසි සමඟ සහ නැතිව වැඩි අදහස් සඳහා [සෑම අවධියක් සඳහාම ක්‍රියාකාරකම්](/activities/ideas/) බලන්න.

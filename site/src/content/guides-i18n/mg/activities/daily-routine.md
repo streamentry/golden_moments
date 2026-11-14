@@ -1,32 +1,34 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Fandaharam-andro malefaka ho an’ny olona manana dementia"
+seoTitle: "Fandaharam-andro dementia: andro ohatra mora ampiharina"
+description: "Andro ohatra mora ampiharina ho an’ny olona manana dementia: sakafo, hetsika, fitsaharana amin’ny rafitra mitovy, ary fomba hanaovana sy hanovana ny anao."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Ny fandaharam-andro malefaka dia mitazona ny fifohazana, ny sakafo, ny
+  fikarakarana tena ary ny fandriana amin’ny fotoana mitovy eo ho eo, mametraka
+  ny hetsika lehibe amin’ny fotoana izay mahatonga ny olona tsara fahatsiarovana
+  indrindra, ary mampifandanja ny hetsika sy ny fialam-boly. Hamboarina avy amin’ny
+  fomba fiainan’ny olona mandritra ny androm-piainany, tazomina malalaka fa tsy
+  feno, mahazo masoandro sy fihetsika isan’andro, ary ovaina malalaka ny drafitra
+  rehefa mitaky izany ny andro.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ny fotoana mitovy amin’ny fifohazana, sakafo, fikarakarana ary fandriana dia manome endrika mahazatra ny andro."
+  - "Apetraho ny hetsika lehibe amin’ny fotoana tsara indrindra ho an’ny olona, matetika ny maraina."
+  - "Aza mameno minitra rehetra. Ny fitsaharana sy ny fotoana mangina dia ampahany amin’ny fandaharana."
+  - "Ny masoandro, ny fihetsika isan’andro ary ny fisoroana ny torimaso ela sy ny kafe alina dia mety manampy amin’ny fahatsorana andro-hariva."
+  - "Fandaharana fitarihana izy, fa tsy lalàna. Soloy, fohezy na esory izay tsy ilaina amin’ny andro sarotra."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Nahoana no ilaina ny fandaharam-andro ho an’ny olona manana dementia?"
+    a: "Andro azo antenaina dia mihena ny fanapahan-kevitra sy ny fanamarihana tsy ampoizina, ary izany dia mampanantitra olona maro manana dementia. Ny Alzheimer’s Association dia milaza fa andro voalamina dia mampihena ny fotoana lany amin’ny fisafidianana ny hatao ary mamela fotoana bebe kokoa ho an’ny zavatra mahafinaritra ho anareo roa. Manampy koa izany amin’ny mpikarakara mba hirindrina ny andro manokana."
+  - q: "Inona no fandaharam-potoana tsara ho an’ny olona manana dementia?"
+    a: "Tsy misy fandaharana iray marina. Ny tsara dia ny mitazona ny fifohazana, ny sakafo ary ny fandriana amin’ny fotoana mitovy eo ho eo, mametraka ny fikarakarana tena sy ny hetsika lehibe amin’ny fotoana izay tsara indrindra ho an’ny olona, misy fotoana any ivelany na eo akaiky varavarankely, ary mamela fotoana ho an’ny fitsaharana. Hamboarina araka ny fomba nipetrahan’ny olona mandritra ny androm-piainany."
+  - q: "Mila matory amin’ny andro ve ny olona manana dementia?"
+    a: "Fitsaharana fohy dia mety manampy, indrindra aorian’ny sakafo antoandro. Ny National Institute on Aging dia manoro hevitra fa aza mamela matory ela na mitsaka-matory ela tokony ho amin’ny andro-hariva, satria ny hoe reraka loatra na tsy matory tsara dia mety manampy amin’ny fahatsorana andro-hariva. Raha olana lehibe ny matory, miresaha amin’ny dokotera azy."
+  - q: "Inona no ataoko raha tsy manaiky ny fandaharana izy?"
+    a: "Avelao izany amin’ny fotoana ankehitriny ary andramo indray any aoriana na amin’ny fomba hafa. Ny fandavana dia mety midika fa reraka izy, marary, mijaly na tsy mbola vonona. Ny fandaharana dia ho fanampiana ny andro, ka ampifanaraho izany fa aza mampiditra an-keriny."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +47,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ny fandaharam-andro malefaka dia manome endrika mahazatra ny andro: ny fifohazana, ny sakafo, hetsika kely, fitsaharana, ary ny fandriana amin’ny fotoana mitovy eo ho eo. Izany dia mampihena ny fanapahan-kevitra sy ny fanamarihana tsy ampoizina, ary manome drafitra ho an’ireo fotoana izay hieritreretanao hoe inona no hatao manaraka. Ny fandaharana eto ambany dia ohatra fotsiny, tsy lalàna. Ampiasao ho toerana fanombohana, avy eo ampifanaraho amin’ny olona ataonao fikarakarana.
 
-## Why does a daily routine help?
+## Nahoana no manampy ny fandaharam-andro mahazatra?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Manampy ny fandaharana mahazatra satria mora araka ny endrika efa fantatra noho ny vaovao. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) dia milaza fa andro voalamina dia midika fotoana kely kokoa lany amin’ny fisafidianana ny hatao, ary fotoana bebe kokoa ho an’ny hetsika mahafinaritra; ary manamarika koa fa ny fotoana mitovy amin’ny fifohazana sy ny fandriana dia mety manampy amin’ny olana matory sy ny fahatsorana andro-hariva. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) dia manoro hevitra ny fanasana, fanasan-tena ary fihinanana amin’ny fotoana mitovy isan’andro ho ampahany amin’ny trano milamina, ary ny [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) koa dia manoro hevitra ny fitazonana ny fomba mahazatra mitovy.
 
-## A sample gentle day
+## Andro ohatra malefaka
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Ny fotoana dia ohatra fotsiny. Ampandrosoy na ampidiro aoriana ny andro manontolo mba hifanaraka amin’ny rafitry ny olona.
 
-| Time | What happens | Ideas | On a harder day |
+| Ora | Inona no misy | Hevitra | Amin’ny andro sarotra |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 maraina | Mifoha, manasa, mitafy | Filaharana mitovy isan’andro; apetraho ny akanjo araka ny filaharan’ny fitafiana | Tazomina tsotra ny fikarakarana; lamba vaovao ihany no ampy |
+| 8:45 maraina | Sakafo maraina | Kafe sy gazety vakiana mafy, na radio | Mihinana miaraka mangina, tsy misy fanerena hiteny |
+| 9:30 maraina | Hetsika lehibe | Mamelatra lamba, mikarakara mofo, mikarakara zaridaina, fitsangatsanganana fohy na dia | Version fohy kokoa, na ataovy fijery ny hijerena anao manao izany |
+| 10:30 maraina | Fotoana mangina | Mozika, album sary, na mipetraka eo akaiky varavarankely | Mialà amin’ny seza tiana indrindra |
+| 11:00 maraina | Fanampiana amin’ny sakafo antoandro | Manasa legioma, mametraka ny latabatra | Ianao no mahandro; izy mifanaraka aminao |
+| 12:00 antoandro | Sakafo antoandro sy fanadiovana | Mamafa ny latabatra, mampimaina vilia vitsivitsy | Esorina ny asa an-trano |
+| 1:00 tolakandro | Fitsaharana fohy | Tongotra ambony, mozika malefaka | Toy ny teo |
+| 2:00 tolakandro | Any ivelany na mavitrika | Dia an-tongotra, fotoana eny amin’ny lapan-tsasatra, manintona rano ho an’ny zavamaniry, mitondra baolina | Mipetraka eo akaiky varavarankely misy masoandro |
+| 3:00 tolakandro | Fifandraisana na asa famoronana | Fitsidihana, antso, [fitambarana sary](/games/picture-pairs/), loko, karatra | Rano sy voatsindry kely miaraka |
+| 4:30 tolakandro | Fotoana fitoerana | Hidin’ny lamba ny varavarankely, mazava amin’ny jiro, asa kely toy ny fanaovana lamba fanasana | Mozika mahazatra, feo malemy |
+| 5:30 hariva | Sakafo hariva | Manampy amin’ny fampiharana na fametrahana ny latabatra | Sakafo tsotra sy mahazatra |
+| 6:30 hariva | Hariva miaraka | Fitadidiana tantara taloha nandritra ny dessert, karatra, fampisehoana tiana, fanosotra tanana | Fiaraha-monina mangina |
+| 8:00 alina | Fomba fandriana | Fanasana na fanasan-tena, akanjo fandriana, mozika malefaka, mazava kely | Fohezy ny zavatra rehetra; ny fampiononana no alohaloha |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ity andro ohatra ity dia manaraka ny endrikin’ny drafitra ohatra an’ny Alzheimer’s Association ho an’ny sehatra voalohany sy maharitra, izay mandroso avy amin’ny fikarakarana tena sy sakafo maraina ho any amin’ny asa an-trano, dia lalana, mozika, fitsaharana ary fitsidihana ka hatramin’ny sakafo hariva, fitadiavana tantara taloha ary fomba fiomanana handriana.
 
-## How do you build your own routine?
+## Ahoana no fomba hanaovana ny anao?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Atombohy amin’ny fomba nipetrahan’ny olona mandritra ny androm-piainany, fa tsy amin’ny tabilao. Ny Alzheimer’s Association dia manoro hevitra ny hieritreretana ireto zavatra alohan’ny hamaritana ny drafitra:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ny tiany sy ny tsy tiany, ny heriny ary ny liany.**
+- **Ny fomba nampiasany ny andro teo aloha.** Mpifoha aloha izay nandeha nitondra ny alika isan-kariva dia mety mbola tiany ny mandeha aloha. Mpandry alina dia mety tsy mahafinaritra azy mihitsy ny fanombohana amin’ny 8 maraina.
+- **Ny fotoana tsara indrindra amin’ny andro.** Apetraho ao ny fanasana, ny dia any ivelany ary ny hetsika lehibe.
+- **Fotoana ampy** ho an’ny sakafo, fanasana sy fitafiana, mba tsy ho haingana loatra ny zavatra rehetra.
+- **Fifohazana sy fandriana mitovy.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ilaina koa ny mampiditra fifangaroana ny asa an-trano, ny sakafo, ny fikarakarana tena, ny hetsika famoronana, ny fihetsika ara-batana, ny fifandraisana sosialy, ny hetsika ara-panahy ary ny fotoana tsy voalamina, toy ny namana iray manatona.
 
-### Try it for a week, then adjust
+### Andramo mandritra ny herinandro iray, avy eo ampifanaraho
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Tazomina kely isan’andro ny zavatra hitanao. Ny Alzheimer’s Association dia manoro hevitra ny hanontanianao hoe inona no nahomby indrindra sy nahoana, raha nisy andro nisy hetsika be loatra na tsy nisy hetsika ampy, ary raha mahafinaritra sy tsy nahatonga fahatsorana ny drafitra tsy voalamina. Tazomina izay mahomby, ary ovaina izay tsy mahomby.
 
-### Make it visible
+### Ataovy hita
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Raha mbola mamaky teny ny olona, mety ho fampiononana ny takelaka fotsy na karatra lehibe misy ny drafitra isan’andro. Tazomina fohy: “Sakafo maraina. Dia miaraka amin’i Sarah. Sakafo antoandro. Fitsaharana.” Misy olona tsara kokoa raha tsy mahalala ho aloha; ny Family Caregiver Alliance dia manoro hevitra fa aza miresaka momba ny drafitra mandra-pandrosoan’ny fotoana, raha mahatonga ahiahy izany.
 
-## How to adapt the routine
+## Ahoana no fomba hampifanarahana ny fandaharana?
 
-### Leave room to breathe
+### Avelao toerana hihemotra
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Aza mameno minitra rehetra. Ny Alzheimer’s Association dia manamarika fa ilain’ny olona ny fifandanjana eo amin’ny hetsika sy ny fitsaharana, ary mety ilaina ny fitsaharana matetika kokoa. Raha toa ka tsy liana, very saina, na manjo izy, ovao ny hetsika na mitsahara.
 
-### Protect the late afternoon
+### Arovy ny ariva tolakandro
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Maro no tonga fahatsorana kokoa rehefa mirenireny ny andro. Ny NIA dia manoro hevitra ny fotoana any ivelany na eo akaiky varavarankely mba hahazoana masoandro isan’andro, ny fihetsika isan’andro nefa tsy drafitra be loatra, ny fisorohana ny kafe sy ny alikaola andro-hariva, ary ny fisorohana ny torimaso ela andro-hariva. Misy fianakaviana mahita fa mahasoa ny mikatona ny lamba varavarankely sy mampiasa ny jiro alohan’ny hariva. Jereo ny [fahatsorana andro-hariva](/caregiving/late-day-restlessness/) sy ny [torimaso](/brain-health/sleep/).
 
-### Change it as needs change
+### Ovao rehefa miova ny filàna
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Sehatra voalohany:** mandrafitra ny fandaharana miaraka. Mety hilaina ho an’ny olona ny fandaharana voasoratra izay tompony ihany.
+- **Sehatra antonony:** ianao no betsaka mitarika. Hetsika fohy kokoa, fitsaharana bebe kokoa ary asa mahazatra maro; jereo ny [hetsika amin’ny sehatra antonony](/activities/middle-stage/).
+- **Sehatra farany:** ny fandaharana dia mifantoka amin’ny fampiononana, sakafo ary fikarakarana, miaraka amin’ny fotoana fohy famporisihana fahatsapana toy ny mozika na fanosotra tanana eo anelanelany; jereo ny [hetsika amin’ny sehatra farany](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Ovao ny hetsika, fa aza ny rafitra
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Tazomina ny sakafo, ny fitsaharana ary ny fandriana amin’ny endrika mitovy, ary ovao ny hetsika eo anelanelany. Ny [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manoro hevitra ny fanandramana hetsika samy hafa andro samy hafa mba hitazonana ny zavatra ho mahaliana. Ohatra: mamonjy mofo alatsinainy, mikarakara zaridaina talata, ary mijery sary alarobia. Ny [hevitra hetsika 101](/activities/ideas/) sy [asa an-trano](/activities/household-tasks/) dia afaka mameno ireo fotoana ireo.
 
-## When the day goes sideways
+## Rehefa tsy mandeha araka ny drafitra ny andro
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Misy andro tsy hanaraka drafitra akory. Ny aretina, alina tsy nandry tsara, fitsidihana avy amin’ny dokotera na fiovan’ny toetrandro dia mety hanakorontana ny zavatra rehetra. Ataovy ambanin-javatra ny drafitra, tazomina ny fototra (sakafo, rano, fitsaharana, fampiononana) ary andramo indray rahampitso. Raha tsy manaiky zavatra ny olona, jereo ny [rehefa manao “tsia” izy](/caregiving/when-they-say-no/). Fisefoana miadana miaraka, toy ny [fisefoana mangina](/games/calm-breathing/), dia afaka manampy anareo roa hiverina indray.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ny fandaharam-potoanan’ny tenanao dia zava-dehibe koa. Ampidiro ny fialan-tsasatra ho anao, ary angataho ny fianakaviana na serivisy fanampiana mba handray ny andro fialana mahazatra. Jereo ny [fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/).

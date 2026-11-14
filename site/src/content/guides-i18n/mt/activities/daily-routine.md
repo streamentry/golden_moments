@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Rutina ta’ kuljum ġentili għal persuna bid-dimenzja"
+seoTitle: "Rutina tad-dimenzja: Jum kampjun flessibbli"
+description: "Jum kampjun flessibbli għal persuna bid-dimenzja, bl-ikel, l-attivitajiet u l-mistrieħ f’ritmu stabbli, u kif tibni r-rutina tiegħek u taddattaha f’jiem iebsin."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Rutina ġentili żżomm il-qawmien, l-ikel, il-kura personali u l-irqad fl-istess
+  ħinijiet bejn wieħed u ieħor, tqiegħed l-attività prinċipali meta l-persuna
+  tkun l-aktar sveglia, u tibbilanċja l-attività mal-mistrieħ. Ibnieha skont l-
+  abitudini tul il-ħajja tal-persuna, żommha flessibbli aktar milli mimlija,
+  oħloq ħin fid-dawl tax-xemx u moviment kuljum, u ibdel il-pjan kif teħtieġ il-ġurnata.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ħinijiet stabbli għall-qawmien, l-ikel, il-kura u l-irqad jagħtu lill-ġurnata forma familjari."
+  - "Poġġi l-attività prinċipali fl-aħjar ħin tal-ġurnata tal-persuna, ta’ spiss filgħodu."
+  - "Timlix kull minuta. Il-mistrieħ u l-ħin ta’ kwiet huma parti mir-rutina."
+  - "Id-dawl tax-xemx, il-moviment kuljum, u li tevita sieqi twal tard fil-ġurnata u kafeina tard jistgħu jgħinu bl-inkwiet tal-aħħar tal-ġurnata."
+  - "Ir-rutina hija gwida, mhux regola. Ibdel, qassar jew aħżel kull ħaġa f’jiem iebsin."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Għala tgħin rutina lil persuna bid-dimenzja?"
+    a: "Jum prevedibbli jfisser inqas deċiżjonijiet u sorpriżi, u ħafna persuni bid-dimenzja jsibuh rassikuranti. L-Alzheimer’s Association jgħid li jum ippjanat jippermetti li tqattgħu inqas ħin tiddiskutu x’għandkom tagħmlu u aktar ħin f’affarijiet li tgawdu t-tnejn. Tgħin ukoll lil dawk li jieħdu ħsieb jiddistribwixxu l-jum tagħhom."
+  - q: "X’inhi skeda ta’ kuljum tajba għal persuna bid-dimenzja?"
+    a: "M’hemm l-ebda skeda waħda t-tajba. Waħda tajba żżomm il-qawmien, l-ikel u l-irqad fl-istess ħinijiet bejn wieħed u ieħor, tqiegħed il-kura personali u l-attività prinċipali meta l-persuna tkun fl-aħjar forma tagħha, tinkludi ħin barra jew qrib tieqa, u tħalli spazju għall-mistrieħ. Ibnieha madwar kif il-persuna dejjem għaxet."
+  - q: "Għandha persuna bid-dimenzja tieħu rqad matul il-ġurnata?"
+    a: "Mistrieħ qasir jista’ jgħin, speċjalment wara l-ikel tan-nofsinhar. L-National Institute on Aging jissuġġerixxi li wieħed jiskoraġġixxi rqad twil u ħorriq tard fil-ġurnata, għax li tkun għajjien wisq jew torqod ħażin jista’ jżid mal-inkwiet tal-aħħar tal-ġurnata. Jekk l-irqad ikun problema reali, kellem it-tabib tagħhom."
+  - q: "X’jiġri jekk jirrifjutaw li jsegwu r-rutina?"
+    a: "Ħalli tgħaddi għalissa u erġa’ pprova aktar tard jew b’mod ieħor. Ir-rifjut jista’ jfisser li huma għajjenin, morda, qed ibatu minn uġigħ jew sempliċiment mhux lesti. Ir-rutina teżisti biex tagħmel il-ġurnata aħjar, allura aqlibha, u tiforzahiex."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Rutina ġentili tagħti lill-ġurnata forma familjari: li tqum, l-ikel, ftit attività, mistrieħ, u l-irqad fl-istess ħinijiet bejn wieħed u ieħor. Tnaqqas id-deċiżjonijiet u s-sorpriżi, u tagħtik pjan għall-mumenti meta kieku tibqa’ tistaqsi x’għandek tagħmel sussegwentement. Ir-rutina hawn taħt hija eżempju, mhux regola. Użaha bħala bidu, imbagħad ifformaha madwar il-persuna li tieħu ħsiebha.
 
-## Why does a daily routine help?
+## Għala tgħin rutina ta’ kuljum?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Rutina stabbli tgħin għax il-mudelli familjari huma aktar faċli biex jiġu segwiti minn dawk ġodda. L-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) jgħid li jum ippjanat ifisser inqas ħin ta’ deċiżjoni dwar x’tagħmel u aktar ħin għal attivitajiet pjaċevoli, u jsemmi li ħinijiet regolari għall-qawmien u għall-irqad jistgħu jgħinu b’problemi tal-irqad u bl-inkwiet tal-aħħar tal-ġurnata. L-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) jissuġġerixxi li tagħmel il-ħasil, l-ilbies u l-ikel fl-istess ħinijiet kuljum bħala parti minn dar kalma, u l-[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) jirrakkomanda wkoll li r-rutini jibqgħu l-istess.
 
-## A sample gentle day
+## Jum ġentili kampjun
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Il-ħinijiet huma biss eżempji. Ibdel il-jum kollu kmieni jew tard biex jaqbel mar-ritmu tal-persuna tiegħek stess.
 
-| Time | What happens | Ideas | On a harder day |
+| Ħin | Dak li jiġri | Ideat | F’jum iebes |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Qawmien, ħasil, ilbies | L-istess ordni kuljum; poġġi l-ħwejjeġ lesti fl-ordni li jitilbsu | Ikun sempliċi; qmis nadif huwa biżżejjed |
+| 8:45 a.m. | Kolazzjon | Kafè u l-gazzetta moqrija b’leħen għoli, jew ir-radju | Ikolu flimkien bil-kwiet, mingħajr pressjoni biex titkellmu |
+| 9:30 a.m. | Attività prinċipali | Tqaxxir il-ħwejjeġ, għaġin, ġnien, ħarġa qasira jew mixja | Verżjoni iqsar, jew ħalli jarawk tagħmlu |
+| 10:30 a.m. | Ħin ta’ kwiet | Mużika, album ta’ ritratti, jew joqogħdu bilqiegħda qrib it-tieqa | Mistrieħ f’siġġu favorit |
+| 11:00 a.m. | Għin fl-ikel tan-nofsinhar | Aħsel il-ħxejjex, ħejji l-mejda | Int tagħmel it-tisjir; huma jkunu miegħek |
+| 12:00 p.m. | Ikel tan-nofsinhar u tindif | Ineħħi l-mejda, nixxef ftit platti | Aqbeż ix-xogħlijiet tad-dar |
+| 1:00 p.m. | Mistrieħ qasir | Saqajn fuq xi ħaġa, mużika ħafifa | L-istess |
+| 2:00 p.m. | Barra jew attiv | Mixja, ħin fuq il-bsatan, sqi l-pjanti, ħawwad ballun | Joqogħdu bilqiegħda qrib tieqa xemxija |
+| 3:00 p.m. | Soċjali jew kreattiv | Żjara, telefonata, [Picture Pairs](/games/picture-pairs/), kulur, kartolini | Xarba u ħafifa flimkien |
+| 4:30 p.m. | Ħin ta’ tqegħid lura | Tendini magħluqa, dwal mixgħula, xogħol kalm bħal tqaxxir tal-ħwejjeġ tal-wiċċ | Mużika familjari, storbju baxx |
+| 5:30 p.m. | Pranzu | Għin fit-tħawwid jew fit-tqegħid tal-mejda | Ikel sempliċi u familjari |
+| 6:30 p.m. | Ħin flimkien filgħaxija | Ftakru flimkien mal-ħelu, kards, serje favorita, massaġġ tal-idejn | Kumpanija kwieta |
+| 8:00 p.m. | Rutina tal-irqad | Banju jew ħasil, ilbies tal-lejl, mużika ħafifa, dwal baxxi | Qassar kollox; il-kumdità l-ewwel |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Dan il-jum jirrifletti l-forma tal-pjan kampjun tal-Alzheimer’s Association għall-istadji bikrija u ta’ nofs, li jgħaddi mill-kura personali u l-kolazzjon, mix-xogħlijiet tad-dar, il-mixjiet, il-mużika u l-mistrieħ, sa ż-żjarat, il-ftakar flimkien u t-tħejjija għall-irqad.
 
-## How do you build your own routine?
+## Kif tibni r-rutina tiegħek?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Ibda minn kif il-persuna dejjem għaxet, mhux minn tabella. L-Alzheimer’s Association jissuġġerixxi li taħseb dwar dawn l-affarijiet qabel tippjana:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Il-preferenzi, dak li ma jogħġobhomx, il-qawwiet u l-interessi tagħhom.**
+- **Kif qattgħu l-ġurnata qabel.** Min dejjem qam kmieni u mexa l-kelb għandu jibqa’ jimxi kmieni. Min kien jistrieħ tard bil-lejl ma jkunx lest għal bidu fit-8 a.m.
+- **L-aħjar ħin tal-ġurnata tagħhom.** Poġġi hemm il-banju, il-ħarġiet u l-attività prinċipali.
+- **Ħin biżżejjed** għall-ikel, il-ħasil u l-ilbies, biex ħadd ma jkun bil-għaġla.
+- **Ħinijiet regolari għall-qawmien u għall-irqad.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+L-istess sors jissuġġerixxi li tinkludi taħlita ta’ xogħlijiet tad-dar, ikel, kura personali, attivitajiet kreattivi, attività fiżika, ħin soċjali, attività spiritwali u mumenti spontanji, bħal ħabib li jgħaddi biex jara.
 
-### Try it for a week, then adjust
+### Ipprova għal ġimgħa, imbagħad aġġusta
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Żomm nota sempliċi kuljum. L-Alzheimer’s Association jissuġġerixxi li tistaqsi liema attivitajiet ħadmu l-aħjar u għala, jekk kienx hemm ħinijiet b’ħafna affarijiet jew b’xejn x’tagħmel, u jekk il-pjanijiet spontanji kinux pjaċevoli jew ġabu ansjetà. Żomm dak li jaħdem u ibdel dak li ma jaħdimx.
 
-### Make it visible
+### Agħmel it-tabella viżibbli
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Jekk il-persuna għadha taqra, bord bil-kitba jew kartolina b’ittri kbar bil-pjan tal-ġurnata tista’ tkun rassikuranti. Żommha qasira: “Kolazzjon. Mixja ma’ Sarah. Ikel tan-nofsinhar. Mistrieħ.” Xi nies jaħdmu aħjar meta ma jkunux jafu bil-quddiem; il-Family Caregiver Alliance jissuġġerixxi li ma tiddiskutix il-pjani sakemm ma jkunux qrib, jekk dan iqajjem l-ansjetà.
 
-## How to adapt the routine
+## Kif taddatta r-rutina
 
-### Leave room to breathe
+### Ħalli spazju biex tieħu n-nifs
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Timlix kull minuta. L-Alzheimer’s Association jenfasizza li l-persuna teħtieġ bilanċ bejn l-attività u l-mistrieħ, u tista’ teħtieġ waqfiet aktar ta’ spiss. Jekk jidhru mdejqin, distratti jew irritati, aqleb l-attività jew ħalli jistrieħu.
 
-### Protect the late afternoon
+### Ipproteġi l-aħħar tal-ħin ta’ wara n-nofsinhar
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Ħafna nies isiru aktar inkwieti hekk kif id-dawl jonqos. L-NIA jissuġġerixxi ħin barra jew qrib tieqa għad-dawl tax-xemx kuljum, attività kuljum mingħajr ma tippjana wisq, li tevita l-kafeina u l-alkoħol tard fil-ġurnata, u li tiskoraġġixxi rqad twil tard fil-ġurnata. Xi familji jsibu wkoll li jagħlqu l-kurtini u jixegħlu d-dwal qabel ma jaqa’ l-lejl. Ara [l-inkwiet tal-aħħar tal-ġurnata](/caregiving/late-day-restlessness/) u [l-irqad](/brain-health/sleep/).
 
-### Change it as needs change
+### Ibdel meta jinbidlu l-bżonnijiet
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Stadju bikri:** ippjanaw ir-rutina flimkien. Il-persuna tista’ tixtieq skeda bil-miktub li tmexxi hi nnifisha.
+- **Stadju ta’ nofs:** int tmexxi aktar. Attivitajiet iqsar, aktar mistrieħ u ħafna xogħlijiet familjari; ara [attivitajiet għall-istadju ta’ nofs](/activities/middle-stage/).
+- **Stadju tardiv:** ir-rutina tiffoka fuq il-kumdità, l-ikel u l-kura, b’mumenti sensorji qosra bħal mużika jew massaġġ tal-idejn bejniethom; ara [attivitajiet għall-istadju tardiv](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Ibdel l-attivitajiet, mhux il-qafas
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Żomm l-ikel, il-mistrieħ u l-irqad stabbli, u ddawwar l-attivitajiet bejniethom. L-[NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jissuġġerixxi li tipprova attivitajiet differenti f’jiem differenti biex tibqa’ interessanti. Tista’ tagħmel il-ħobż nhar it-Tnejn, taħdem fil-ġnien nhar it-Tlieta u tara ritratti nhar l-Erbgħa. Il-[101 ideat għal attivitajiet](/activities/ideas/) tagħna u [ix-xogħlijiet tad-dar](/activities/household-tasks/) jistgħu jimlew il-ħinijiet vojta.
 
-## When the day goes sideways
+## Meta l-ġurnata tmur ħażin
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Xi jiem ma jsegwu l-ebda pjan. Marda, lejla ħażina, żjara mit-tabib jew bidla fit-temp jistgħu jaqilbu kollox. Itlaq il-pjan, żomm l-essenzjali (ikel, xorb, mistrieħ, kumdità) u erġa’ pprova għada. Jekk il-persuna tirrifjuta xi ħaġa, ara [meta jgħidu le](/caregiving/when-they-say-no/). Nifs bil-mod flimkien, bħal [nifs kalm](/games/calm-breathing/), jista’ jgħinkom tgħaddu minn mument iebes u tibdew mill-ġdid.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ir-rutina tiegħek tgħodd ukoll. Ibni waqfiet għalik innifsek, u itlob lill-familja jew lil servizz ta’ sostenn biex jieħdu ħsieb xi ħin regolari ta’ mistrieħ. Ara [il-kura tal-ħajja tiegħek innifsek](/caregiving/caregiver-self-care/).

@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Loomad",
+      "description": "Armsad ja sõbralikud loomad üle maailma"
+    },
+    "nature": {
+      "name": "Loodus",
+      "description": "Kaunid maastikud ja loodusvaated"
+    },
+    "food": {
+      "name": "Toit",
+      "description": "Maitsvad road ja maiused"
+    },
+    "vintage": {
+      "name": "Autod",
+      "description": "Autod ja veokid, mida koos vaadata ja millest rääkida"
+    },
+    "flowers": {
+      "name": "Lilled",
+      "description": "Kaunid õied ja aiavaated"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Talu loomad",
+      "description": "Sõbralikud talu loomad, nagu külaskäigul maal.",
+      "theme": "Elu talus",
+      "images": {
+        "cow_1": "Sõbralik lehm",
+        "pig_1": "Rõõmus siga",
+        "chicken_1": "Kukk",
+        "buffalo_1": "Vesipühvel",
+        "horse_1": "Kaunis hobune",
+        "duck_1": "Pardiperekond",
+        "goat_1": "Uudishimulik kits",
+        "rabbit_1": "Armas jänes"
+      }
+    },
+    "nature_mountains": {
+      "title": "Mäevaated",
+      "description": "Kaunid mäemaastikud ja avarad vaated",
+      "theme": "Looduse ilu",
+      "images": {
+        "mountain_1": "Lumised tipud",
+        "mountain_2": "Fuji mägi",
+        "mountain_3": "Alpi org",
+        "mountain_4": "Kivine mäetipp",
+        "mountain_5": "Metsased künkad",
+        "mountain_6": "Udused mäed"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autod ja veokid",
+      "description": "Läikivad autod ja veokid, mida koos vaadata ja millest rääkida",
+      "theme": "Teel",
+      "images": {
+        "vintage_car_1": "Oranž Audi päikeseloojangul",
+        "vintage_car_2": "Sinine sportauto kõrbes",
+        "vintage_car_3": "Hõbedane Bugatti",
+        "vintage_car_4": "Must Porsche teel",
+        "vintage_car_5": "Oranž BMW palmidega tänaval",
+        "vintage_car_6": "Sinine kupee garaaži juures",
+        "vintage_car_7": "Roheline pikap",
+        "vintage_car_8": "Valge linnamaastur punaste kaljude vahel",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Sinine auto valgete triipudega"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari loomad",
+      "description": "Majesteetlikud loomad Aafrika safaridelt",
+      "theme": "Metsloomad",
+      "images": {
+        "lion_1": "Majesteetlik lõvi",
+        "elephant_2": "Aafrika elevant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Triibuline sebra",
+        "rhino_5": "Võimas ninasarvik",
+        "cheetah_6": "Kiire gepard",
+        "fox_7": "Pruun rebane",
+        "bear_8": "Jääkaru",
+        "turtle_9": "Pruun kilpkonn",
+        "squirrel_10": "Pruun orav",
+        "macaw_11": "Kollane ja sinine ara",
+        "tiger_12": "Tiiger",
+        "raccoon_13": "Pesukaru",
+        "wolf_14": "Hall hunt",
+        "crocodile_15": "Krokodill",
+        "peacock_16": "Kaunis paabulind"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Maitsvad magustoidud",
+      "description": "Mõned maitsvad magustoidud söögilaua juurde.",
+      "theme": "Magusad road",
+      "images": {
+        "pastries_1": "Neli saiakest",
+        "oreo_cookie_sandwiches_2": "Oreo küpsisevõileivad",
+        "crepe_3": "Krepp",
+        "pancake_4": "Pannkook",
+        "macarons_5": "Makroonid",
+        "caramel_cake_6": "Karamellikook"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Troopilised õied",
+      "description": "Avasta troopika erksat ilu selle eksootiliste lillede kogumiku abil.",
+      "theme": "Troopilised lilled",
+      "images": {
+        "hibiscus_1": "Punane hibisk",
+        "frangipani_2": "Punakasvalge frangipani",
+        "sunflower_3": "Päevalill",
+        "hydrangea_4": "Valge hortensia",
+        "rose_5": "Roos",
+        "chrysanthemum_6": "Krüsanteem",
+        "anthurium_7": "Anturium",
+        "plumeria_8": "Pluumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Hundirohi"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Tänavatoidu pidu",
+      "description": "Avasta tänavatoidu värvikat maailma selle kogumikuga maitsvaid suupisteid üle maailma.",
+      "theme": "Tänavatoit",
+      "images": {
+        "taco_1": "Mehhiko takod",
+        "ramen_2": "Jaapani ramen",
+        "dumplings_3": "Hiina pelmeenid",
+        "samosa_4": "India samosa",
+        "pizza_5": "Itaalia pitsalõik",
+        "crepe_6": "Prantsuse krepp",
+        "satay_7": "Tai satee vardad",
+        "burger_8": "Ameerika burger",
+        "bao_9": "Aurutatud bao-sai",
+        "takoyaki_10": "Jaapani takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Loodusmaastik",
+      "description": "Rahulikud ja kaunid loodusvaated, mida aeglaselt vaadata ja koos arutada.",
+      "theme": "Loodusmaastikud",
+      "images": {
+        "mountain_1": "Mäeahelik",
+        "forest_2": "Udune mets",
+        "lake_3": "Mägijärv",
+        "desert_4": "Kõrbeluited",
+        "waterfall_5": "Juga",
+        "beach_6": "Liivarand",
+        "river_7": "Voolav jõgi",
+        "canyon_8": "Suur kanjon",
+        "sunset_9": "Loojangutaevas",
+        "snow_mountain_10": "Lumine mägi",
+        "flowers_11": "Aasalilled",
+        "rainforest_12": "Vihmamets",
+        "iceberg_13": "Jäämägi",
+        "volcano_14": "Vulkaan",
+        "cliff_15": "Mereäärne kalju",
+        "aurora_16": "Virmalised",
+        "savannah_17": "Savann",
+        "coral_reef_18": "Korallrahu"
+      }
+    }
+  }
+}

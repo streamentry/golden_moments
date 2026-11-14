@@ -1,32 +1,28 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "ඩිමෙන්ශියා ඇති අය සඳහා සංගීත ක්‍රියාකාරකම්"
+seoTitle: "ඩිමෙන්ශියාවට සංගීත ක්‍රියාකාරකම්: ප්ලේලිස්ට් සහ අදහස්"
+description: "ඩිමෙන්ශියාව සමඟ ජීවත් වන අයත් සමඟ සංගීතය බෙදා ගන්නේ කෙසේද: පුද්ගලික ප්ලේලිස්ට්, සංගීත ක්‍රියාකාරකම් 15ක් සහ සෑම අවධියකටම ඉඩ දෙන ඉඟි."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  ඩිමෙන්ශියාව සමඟ ජීවත් වන කෙනෙකු සමඟ බෙදා ගැනීමට පහසුම ක්‍රියාකාරකම් අතරින් සංගීතය එකකි. ඔවුන්ගේ තරුණ කාලයේ, ඇදහිල්ලේ සහ පවුලේ සංගීතයෙන් පුද්ගලික ප්ලේලිස්ට් එකක් සාදා, වාණිජ දැන්වීම් හෝ පසුබිම් ශබ්දයකින් තොරව වාදනය කරන්න. ගායනා කරන්න, අත් පහරන්න, සෙලවෙන්න, හෝ එකට ඇසීම පමණක් කරන්න. මොහොතට ගැලපෙන සන්සුන් හෝ ජීවමාන සංගීතය තෝරා, ශබ්දය මෘදුව තබා, ගීතයක් ඔවුන්ව කලබල කළොත් නවත්වන්න.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "පුද්ගලික සංගීතය වඩාත් හොඳින් වැඩ කරයි: ඔවුන් තරුණ වියේදී ප්‍රිය කළ ශෛලි, සහ ඔවුන්ගේ ඇදහිල්ල, සංස්කෘතිය සහ පවුල් උත්සව වලින් සංගීතය."
+  - "එක වරකට එක දෙයක් වාදනය කරන්න, වාණිජ දැන්වීම් නැතිව සහ රූපවාහිනිය නවතා."
+  - "ගායනා කිරීම, අත් පහරීම, සෙලවීම සහ සරලව ඇසීම ඒ සියල්ල සහභාගී වීමේ ක්‍රම වේ."
+  - "සන්සුන් කිරීමට සන්සුන් සංගීතයත්, මනෝභාවය ඔසවන්නට ජීවමාන සංගීතයත් භාවිත කර, පුද්ගලයා ප්‍රතික්‍රියා කරන ආකාරය බලන්න."
+  - "ව්‍යුහගත සංගීත සැසි පිළිබඳ පර්යේෂණ සීමිතය; අප යෝජනා කරන්නේ සංගීතය බෙදා ගැනීමට සුවපහසු දෙයක් ලෙස, ප්‍රතිකාරයක් ලෙස නොව."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "ඩිමෙන්ශියාව ඇති කෙනෙකුට කුමන සංගීතය වඩාත් හොඳද?"
+    a: "පුද්ගලයා දීර්ඝ කාලයක් දැන සිටි සහ ආදරය කළ සංගීතය, බොහෝ විට ඔවුන්ගේ නව යොවුන් හා විසි ගණන් වයසේ, ඇදහිල්ලේ, සංස්කෘතියේ සහ පවුල් සැමරුම්වල සංගීතය සමඟ. හැකි නම්, ඔවුන්ට තෝරා ගැනීමට ඉඩ දෙන්න. ඔවුන් රස විඳින දේ දැන ගැනීමට ඔවුන්ගේ මුහුණ සහ ශරීරය නිරීක්ෂණය කරන්න, සහ ඔවුන්ව කලබල කරන ඕනෑම දෙයක් ඉවත් කරන්න."
+  - q: "හෙඩ්ෆෝන් භාවිත කළ යුතුද?"
+    a: "සමහරුන්ට හෙඩ්ෆෝන් රස විඳිය හැක්කේ ඒවා ශබ්දය වසන නිසාය, අනෙක් අය ඒවා අපහසු හෝ ව්‍යාකූල ලෙස දකී. මුලින් ස්පීකරයක් උත්සාහ කරන්න, එවිට එකට ඇසිය හැක. හෙඩ්ෆෝන් භාවිත කරන්නේ නම්, ශබ්දය අඩුව තබා ආසන්නයේ සිටින්න."
+  - q: "සංගීතයෙන් නොසන්සුන්තාව හෝ කලබලය සන්සුන් කළ හැකිද?"
+    a: "සන්සුන්, හුරු පුරුදු සංගීතයට සාමකාමී වාතාවරණයක් ඇති කළ හැක, සහ Alzheimer's Association යෝජනා කරන්නේ ඔබට අවශ්‍ය වාතාවරණය සැකසීමට සංගීතය භාවිත කරන ලෙසයි. එය සෑම විටම ක්‍රියා නොකරයි. පුද්ගලයා දුක් වින්දනයේ සිටී නම්, වේදනාව, කුසගින්න, ශබ්දය හෝ වෙහෙසකම ද පරීක්ෂා කරන්න."
+  - q: "ප්‍රමාද අවධියේ ඩිමෙන්ශියාව ඇති අයට තවමත් සංගීතය රස විඳිය හැකිද?"
+    a: "බොහෝ දෙනකුට හැක. Alzheimer's Association සඳහන් කරන්නේ ප්‍රමාද අවධියේ සිටින පුද්ගලයෙකුට තවමත් තාලයට තට්ටු කිරීමට, හෝ ළමා කාලයේ ගීතයකට ගායනා කිරීමට හැකි විය හැකි බවයි. ළඟ වාඩි වී, සංගීතය මෘදුව වාදනය කර, ඔවුන්ගේ අත අල්ලන්න හෝ එකට සෙලවෙන්න."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +41,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+සංගීතය ඩිමෙන්ශියාව ඇති කෙනෙකු සමඟ බෙදා ගත හැකි සරලම දේවලින් එකකි. එයට කිසිවක් ඉල්ලන්නේ නැත: නිවැරදි පිළිතුරු නැත, අනුගමනය කළ යුතු පියවර නැත. හුරු ගීතයක් වචන කිහිපයක් ගායනා කරන විට, මුහුණේ සිනහවක්, තාලයට හෙලවෙන පාදයක් ගෙන ඒ හැකිය, සංවාදය දුෂ්කර දවසකද. ඔබට අවශ්‍ය සියල්ලම වන්නේ මෙම විශේෂිත පුද්ගලයා සඳහා නිවැරදි සංගීතය සහ එය වාදනය කිරීමට නිසොරොත්තු මොහොතකි.
 
-## What music activities work for people with dementia?
+## ඩිමෙන්ශියා ඇති අය සඳහා කුමන සංගීත ක්‍රියාකාරකම් හොඳින් වැඩ කරයිද?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+සවන් දීම, ගායනා කිරීම, අත් පහරීම, සෙලවීම සහ සංගීතය ගැන කතා කිරීම හොඳින් වැඩ කරයි. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) යෝජනා කරන්නේ සංගීතය වාදනය කිරීම, සංගීතය සහ ශිල්පියා ගැන කතා කිරීම, හොඳින් දන්නා ගීතවලට ගායනා කිරීම හෝ නැටීම, සහ ප්‍රජාව තුළ ප්‍රසංග හෝ සංගීත වැඩසටහන්වලට යාමයි. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) එකතු කරන්නේ අත් පහරීම හෝ නැටීම වැනි චලනය රස විඳීම වැඩි කළ හැකි බවත්, වචන දුෂ්කර වූ පසු සංගීතය සම්බන්ධ වීමේ ක්‍රමයක් විය හැකි බවත්ය.
 
-## How do you build a personal playlist?
+## පුද්ගලික ප්ලේලිස්ට් එකක් සාදන්නේ කෙසේද?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+ඔබට සෑදිය හැකි වඩාත්ම ප්‍රයෝජනවත් දේ වන්නේ මෙම පුද්ගලයාට අර්ථයක් ඇති සංගීතයෙන් සෑදූ ප්ලේලිස්ට් එකකි. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ද පුද්ගලික අර්ථයක් ඇති සංගීතය ඉස්මතු කරයි. ඒ සඳහා සරල ක්‍රමයක් මෙයයි.
 
-### Start with their life
+### ඔවුන්ගේ ජීවිතයෙන් ආරම්භ කරන්න
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **ඔවුන්ගේ නව යොවුන් හා විසි ගණන් වයස.** ඔවුන් තරුණව සිටි කාලයේ ගුවන් විදුලියේ, නැටුම් සාලවල සහ චිත්‍රපටිවල කුමක් තිබුණාද කියා සිතන්න.
+- **විශාල මොහොත්.** ඔවුන්ගේ මංගල්‍යයේ සංගීතය, පළමු නැටුම, හෝ පවුල් ගමනක ප්‍රිය ඇල්බමය.
+- **ඇදහිල්ල සහ සංස්කෘතිය.** ආගමික ගීත, ගොස්පල් සංගීතය, හෝ ඔවුන්ගේ මව් භාෂාවේ ගීත.
+- **වැඩ සහ සේවය.** මාර්චින් බෑන්ඩ්, වැඩ ගීත, හෝ හමුදා කාලයකට බැඳුණු සංගීතය.
+- **පවුල මතක තබා ගන්නා දේ.** සහෝදර සහෝදරියන්, දරුවන් සහ පැරණි මිතුරන්ගෙන් ඔවුන් සැමවිටම වාදනය කළ හෝ ගායනා කළ දේ විමසන්න.
 
-### Think in genres, not just songs
+### ගීත පමණක් නොව ප්‍රභේද ගැන සිතන්න
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+කොහෙන් ආරම්භ කරන්නදැයි නොදන්නේ නම්, මේ එක් එකකින් මිනිත්තු කිහිපයක් උත්සාහ කර ප්‍රතිචාරය බලන්න: බිග් බෑන්ඩ් සහ ස්විං, ඩූ-වොප්, මෝටවුන් සහ සෝල්, මුල් රොක් ඇන්ඩ් රෝල්, කන්ට්‍රි ඇන්ඩ් වෙස්ටර්න්, බ්ලූග්‍රාස්, ගොස්පල් සහ ආගමික ගීත, බ්‍රෝඩ්වේ නාට්‍ය ගීත, ජෑස් ප්‍රමිතීන්, ලතින් සංගීතය (බොලෙරෝ හෝ මරියාචි වැනි), පොල්කා, ජන ගීත සහ සම්භාව්‍ය සංගීතය. සිනහවක් හෝ තට්ටු කරන පාදයක් ගෙන එන දේ තබා ගන්න; මුහුණ රැළි කරවන දේ ඉවත් කරන්න.
 
-### Make it easy to play
+### වාදනය කිරීම පහසු කරන්න
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **වාණිජ දැන්වීම් නැත.** Alzheimer's Association අනතුරු ඇඟවීමක් කරන්නේ දැන්වීම් ව්‍යාකූලත්වයට හේතු විය හැකි බවයි. බාගත් සංගීතය, සීඩී, රෙකෝඩ් හෝ දැන්වීම් රහිත සේවාවක් භාවිත කරන්න.
+- **එක් සරල උපාංගයක්.** එක් විශාල බොත්තමක් සහිත ස්පීකරයක්, හෝ සූදානම් වූ සුරැකි ප්ලේලිස්ට් එකක්, එවිට ඕනෑම කෙනෙකුට එය ආරම්භ කළ හැක.
+- **කෙටි ලැයිස්තු දෙකක්.** සන්සුන් වීමට සන්සුන් ලැයිස්තුවක් සහ මනෝභාවය ඔසවන්නට ජීවමාන ලැයිස්තුවක්.
+- **ලේබල් කරන්න.** උපාංගය මත පුද්ගලයාගේ නම සහ “ප්‍රිය සංගීතය” ලියන්න, එවිට පැමිණෙන පවුලේ අයට සහ රැකබලා ගන්නා කාර්ය මණ්ඩලයටද එය භාවිත කළ හැක.
 
-## 15 music activities to try
+## ක්‍රියා කිරීමට සංගීත ක්‍රියාකාරකම් 15ක්
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **එකට ඇසීම.** අනෙක් කිසිවක් සිදු නොවන විට අසල අසුන් ගන්න. ඇසීම ම සම්පූර්ණ ක්‍රියාකාරකමකි.
+2. **එකට ගායනා කරන්න.** ඔබ ම ගායනා කිරීම ආරම්භ කරන්න. හූම්කාරය හෝ වචන මුමුණීම ද ගණනට ගැනේ.
+3. **තාලයට තට්ටු කරන්න හෝ අත් පහරන්න.** දණහිස් තට්ටු කරන්න, මේසය තට්ටු කරන්න, හෝ කුඩා අත් බෙර හෝ කුඩා රැට්ල් එකක් භාවිත කරන්න.
+4. **මෘදු නැටුම.** මුළුතැන්ගෙයේ අත් අල්ලාගෙන සෙලවෙන්න, හෝ අත් එකට චලනය කරමින් හිඳගෙන නටන්න.
+5. **ස්කාර්ෆ් නැටුම.** සැහැල්ලු ස්කාර්ෆ් සංගීතයේ තාලයට වනන්න, සිටගෙන හෝ හිඳගෙන.
+6. **සංගීතය ගැන කතා කරන්න.** ආරාධනා කරන්න, පරීක්ෂා නොකරන්න: “මේක නැටුම් ශාලාවක සද්දයක් වගේ. ඒ නැටුම් ගැන මට කියන්න.” කිසිවිටෙක “මේ ගීතය මතකද?” යැයි නොඇසන්න.
+7. **මුළු ඇල්බමයක් වාදනය කරන්න.** ඔවුන් ප්‍රිය කළ රෙකෝඩ් එකක්, ආරම්භයේ සිට අවසානය දක්වා, කෝපි සමඟ.
+8. **ඇල්බම කවර බලන්න.** පැරණි රෙකෝඩ් කවර විලාසිතා, මෝටර් රථ සහ මුහුණු ගැන කතා කිරීමට විශිෂ්ටයි.
+9. **සංගීත නාට්‍යයක් බලන්න.** ඔවුන්ගේ යුගයේ පටිගත කළ සංගීත නාට්‍යයක් හෝ ප්‍රසංගයක් හොඳ සවසක්. විවේක සඳහා නවත්වන්න.
+10. **ඔවුන් දන්නා උපකරණයක් වාදනය කරන්න.** පෙර පියානෝ වාදකයෙක් හෝ ගිටාර් වාදකයෙක් සරල වාදනයෙන් සතුටු විය හැක. පසුව, එකට කිහිප නෝට්ටුවක් ගැසීම ප්‍රමාණවත්ය.
+11. **වැඩ කරන අතරේ සංගීතය.** රෙදි නවන විට හෝ මේසය සකස් කරන විට ප්‍රිය ගීත වාදනය කරන්න.
+12. **උදෑසන ගීතය.** සෑම දිනකම එකම ප්‍රීතිමත් ගීතයෙන් දිනය ආරම්භ කරන්න, එය චර්යාවේ කොටසක් ලෙස.
+13. **ආගමික ගීත හෝ ශුද්ධ සංගීතය ගායනා කරන්න.** ඔවුන්ගේ ඇදහිල්ල සම්ප්‍රදායෙන් සංගීතය වාදනය කර එකට ගායනා කරන්න.
+14. **ගායන කණ්ඩායමකට එක් වන්න.** NHS ගායන කණ්ඩායම් මනෝභාවයට සහ සුවපහසුවට හිතකර ලෙස විස්තර කරයි. ප්‍රාදේශීය ඩිමෙන්ශියා-හිතකර ගායන කණ්ඩායම් ගැන දේශීයව විමසන්න.
+15. **සජීවී සංගීතයට යන්න.** කෙටි ප්‍රජා ප්‍රසංගයක් හෝ පිටත බෑන්ඩ් එකක්. පිටවීමට ආසන්නව වාඩි වන්න, ඕනෑම වේලාවක යා හැක.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+වචන-ක්‍රීඩා ක්‍රියාකාරකමක් සඳහා, හුරු වාක්‍ය සමඟ, [වාක්‍යය අවසන් කරන්න](/games/finish-the-saying/) උත්සාහ කරන්න, එහිදී ඔබට සැමවිටම අවසානය පෙන්විය හැක.
 
-## Matching music to the moment
+## මොහොතට සංගීතය ගැලපීම
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association යෝජනා කරන්නේ ඔබට අවශ්‍ය වාතාවරණය ඇති කිරීමට සංගීතය භාවිත කරන ලෙසයි: සාමකාමී වායුගෝලයක් සඳහා සන්සුන් සංගීතය, සහ යමෙකුගේ තරුණ කාලයේ ප්‍රීතිමත් ගීතයක් සිත ඔසවන්නට.
 
-| Moment | Try | Tip |
+| මොහොත | උත්සාහ කරන්න | ඉඟිය |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| අවදි වීම | හුරු, ප්‍රීතිමත් ගීතයක් | සෑම උදෑසනම එකම ගීතය මෘදු සංඥාවක් බවට පත් වේ |
+| ගෘහ කටයුතු | ජීවමාන ප්‍රිය ගීත | සංගීතය වැඩට සහකරුවෙකු සේ දැනිය හැක |
+| ආහාර වේලා | මෘදු උපකරණ සංගීතය | ආහාර ගැනීමට තරඟ නොකරන පරිදි නිහඬව තබන්න |
+| දහවල් අවසානය | හොඳ ආලෝකයේ සන්සුන්, හුරු පුරුදු සංගීතය | [දවස අවසානයේ නොසන්සුන්තාව](/caregiving/late-day-restlessness/) බලන්න |
+| නිදා යාමේ වේලාව | මන්දගාමී, මෘදු සංගීතය | ශබ්දය සහ ආලෝකය එකට අඩු කරන්න |
+| ප්‍රමාද අවධිය | ඔවුන්ගේ වඩාත්ම ප්‍රිය ගීත, ඉතා මෘදුව | ළඟ වාඩි වී අතක් අල්ලන්න |
 
-## Tips for a good experience
+## හොඳ අත්දැකීමක් සඳහා ඉඟි
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **අනෙකුත් ශබ්ද නවත්වන්න.** Alzheimer's Association යෝජනා කරන්නේ ජනේල සහ දොරවල් වසා, රූපවාහිනිය නවතා, සංගීතය පමණක් ශබ්දය වන ලෙස කරන ලෙසයි.
+- **ශබ්දය මෘදුව තබන්න.** සංගීතය සුවපහසු විය යුතුය, උස් නොවිය යුතුය. පුද්ගලයා ශ්‍රවණ උපකරණ භාවිත කරන්නේ නම්, ඒවා ඇතුළත සහ ක්‍රියාකාරීව ඇති බවට වග බලා ගන්න; [ශ්‍රවණය](/brain-health/hearing/) බලන්න.
+- **දුක් ගෙන දෙන සම්බන්ධතා ගැන සැලකිලිමත් වන්න.** සමහර ගීත ශෝකය, යුද්ධය හෝ අහිමි වීම මතකයට ගෙන එයි. ගීතයක් ඔවුන්ව කලබල කළොත්, ඔවුන්ට සහනදායක වී ගීතය වෙනස් කරන්න.
+- **ඔවුන්ට මෙහෙයවන්න ඉඩ දෙන්න.** හැකි නම්, පුද්ගලයාට සංගීතය තෝරා ගැනීමට ඉඩ දී, “නැත” යන පිළිතුරද පිළිගන්න.
+- **ඕනෑම වේලාවක නවත්වන්න.** මිනිත්තු පහක සංගීතය හොඳ ක්‍රියාකාරකමකි. සංගීතය නවතා නිහඬව වාඩි වී සිටීමද එසේමය.
 
-## What does the research say about music and dementia?
+## ඩිමෙන්ශියාව සහ සංගීතය ගැන පර්යේෂණ කියන්නේ කුමක්ද?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+සාක්ෂි සීමිතයි. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ප්‍රධාන වශයෙන් වෘද්ධාශ්‍රම වල කණ්ඩායම් සමඟ, ව්‍යුහගත සංගීත සැසි පිළිබඳ අධ්‍යයන 30ක් බැලූවේය. එය සොයා ගත්තේ මෙම සැසි බොහෝ විට සාමාන්‍ය සත්කාරයට සාපේක්ෂව අවපීඩන රෝග ලක්ෂණ මදක් සැහැල්ලු කළ බවයි, නමුත් නොසන්සුන්තාව, සුවපහසුව, හෝ චින්තනය සහ මතකය කෙරෙහි පැහැදිලි බලපෑමක් නොමැති බවත්, සැසි අවසන් වූ පසු පවතින බලපෑමක් නොමැති බවත්ය.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+අප සංගීතය බෙදා ගන්නේ එය සුවපහසු, පීඩනය අඩු ආකාරයෙන් එකට කාලය ගත කිරීමට ඇති ක්‍රමයක් නිසාය, ප්‍රතිකාරයක් ලෙස නොවේ. කණ්ඩායම් සැකසුම් සඳහා, [වෘද්ධාශ්‍රම කණ්ඩායම් ක්‍රියාකාරකම්](/activities/care-home-groups/) බලන්න; ඡායාරූප සහ කථා සමඟ සංගීතය භාවිත කිරීමට, [මතකය අවදි කරන ක්‍රියාකාරකම්](/activities/reminiscence/) බලන්න.

@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Hausaufgaben als Aktivitéiten fir Mënsche mat Demenz"
+seoTitle: "Hausaktivitéiten bei Demenz: Alldeeglech Aufgaben"
+description: "Falen, Sortéieren, den Dësch decken an eifach Kachen kënnen fir Mënsche mat Demenz bedeitungsvoll sinn. Wéi Dir se virbereet, upasst a sécher hält."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Alldeeglech Hausaufgaben wéi Handticher falen, Socke sortéieren, den Dësch decken,
+  Tëschen oofwëschen, Planzen gitzen an einfach Kachen kënnen enger Persoun mat Demenz
+  eng richteg Méiglechkeet ginn fir ze hëllefen. Wielt Aufgaben, déi si kennt, brécht
+  se a Schrëtt op eemol, huelt Hëtzt- a Schnëtzgefor wéi Messer ewech a schätzt,
+  mat ze maachen, méi wéi wéi et „richteg“ gemaach gëtt.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Vertraut Hausaufgaben kënnen d'Persoun nëtzlech fillen loossen an zum Haushalt gehéieren, wat dacks méi zielt wéi wéi gutt d'Aufgab ausgeet."
+  - "Brécht all Aufgab a eenzel Schrëtt, weist et, anstatt et ze erklären, a iwwerhuelt roueg all Schrëtt, deen schwéier ginn ass."
+  - "Schléisst Messer, Botzmëttel an Waschmëttel-Pads weg, a setzt Herdknëpp-Schützer oder eng automatesch Ofschalt bevor Dir zesumme kacht."
+  - "Gefalten Handticher mussen net virun der Persoun nach eng Kéier gefalt ginn. Wann Dir eppes muss nach eng Kéier maachen, da méi spéit a ausser Siicht."
+  - "Wann eng Aufgab Frustratioun bréngt, wiesselt op e méi einfache Schrëtt, probéiert et en anere Kéier oder setzt Iech einfach zesummen."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Wéi Hausaufgaben kann eng Persoun mat Demenz nach hëllefen?"
+    a: "Vill Leit kënnen nach Wäsch falen, Socke passen, Besteck sortéieren, den Dësch decken, eng Kaarte ofwëschen, ofstauben, fegen, Planzen gitzen oder en Teig réieren. Wielt Aufgaben, déi d'Persoun fréier gemaach huet, a passt se un dat un, wat se haut kann. An spéiderer Phase kann eng eenzeg widderhuelend Bewegung, wéi Servietten gläichmaachen, duergaang."
+  - q: "Ass et sécher, dass eng Persoun mat Demenz an der Kichen hëlleft?"
+    a: "Dat kann et sinn, mat enger genee Opsiicht a richtegem Opriichten. Hält Messer, Botzmëttel a alles Heeges ausser Rei, benotzt Herdknëpp-Schützer oder eng automatesch Ofschalt, a gitt der Persoun eng sécher Aufgab, wéi Geméis wäschen, réieren oder Teller setzen. Loosst se ni eleng beim Herd mat der Hëtzt un."
+  - q: "Wat wann se eppes falsch falen oder eng Suerebei maachen?"
+    a: "Loosst et sinn. Ziel ass d'Zäit zesummen an dat Gefill, gebraucht ze ginn, net e perfekte Resultat. Wann eppes wierklech nach eng Kéier muss gemaach ginn, waart bis méi spéit a maacht et, wann d'Persoun net kuckt, sou datt se sech net korrigéiert fillt."
+  - q: "Wat wann se sech weigert ze hëllefen?"
+    a: "E Nee kann heeschen, dass d'Aufgab grad ze schwéier, ze verwierend oder ze midd mécht. Drängt net. Probéiert eng méi einfach Versioun, bieft hinnen un, Iech just Gesellschaft ze leeschten, oder frot en anere Kéier zu enger méi gënschtegerer Zäit vum Dag."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Vill Leit mat Demenz hunn Joerzéngte laang en Haushalt geféiert, Famill gro gezunn oder e Büro organiséiert. Wann een se bieden, bei richtegen Hausaufgaben ze hëllefen, kann dat méi wéi all aner Aktivitéit soen: „Dir sidd nach ëmmer e Stéck vun dësem Haushalt.“ Dës Säit weist, wéi Aufgaben am beschte klappen, wéi Dir se virbereet, wéi Dir se upasst, wann sech Saachen änneren, an wéi Dir d'Kichen a Wäschkummer sécher haalt.
 
-## Why do everyday chores work well as activities?
+## Firwat funktionéiere Alldeeglech Hausaufgaben gutt als Aktivitéiten?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Hausaufgaben klappen, well se vertraut sinn an e kloren Zweck hunn. D'National Institute on Aging zielt Geschir wäschen, den Dësch decken, fegen, ofstauben, Post sortéieren, Wäsch falen an Recycling sortéieren ënnert den [Alldeeglechen Aktivitéiten, déi Leit mat Alzheimer gär hunn kënnen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). D'Alzheimer's Association mierkt un, dass Aufgaben wéi den Dësch decken hëllefen, dass sech eng Persoun [als wäertvollen Deel vum Haushalt](https://www.alz.org/help-support/caregiving/daily-care/activities) fillt.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Eng Hausaufgab huet och en eegene Grond unzefänken. „Kënnt Dir mir mat dësen Handtiche hëllefen?“ ass méi einfach mat Jo ze beäntweren wéi „Wëllt Dir eng Aktivitéit maachen?“
 
-## Which household tasks are good to try?
+## Wéi eng Hausaufgaben si gutt fir ze probéieren?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Fänkt mat Aufgaben un, déi d'Persoun fréier gemaach huet, a passt se dann un dat un, wat se haut kann.
 
-### Laundry and linens
+### Wäsch a Bettwäsch
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Handticher a Wäschlappen falen.** Gitt hir e Kuerf mat klenge, flaache Stécker. Handticher sinn tolerant: et gëtt kee falsche Wee fir ee ze falen.
+- **Socke passen.** Leet e gemëschten Haufen op den Dësch. Wann Paren schwéier ze fannen sinn, benotzt nëmmen zwou oder dräi ganz verschidde Faarwen.
+- **Gläichmaachen a stapelen.** Servietten, Këssenbezich oder Téischtichen kënnen flaach gestréch an op eng Rei geluecht ginn. Dat hëlleft spéider, wann Falen zu vill Schrëtt ginn ass.
 
-### Table and kitchen
+### Dësch a Kuch
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Den Dësch decken.** Leet ee Plaz als Virbild hin an loosst d'Persoun dat kopéieren. Wann dat ze vill ass, gitt een Artikel no deem anere: „Hei ass eng Gabel fir all Teller.“
+- **Besteck sortéieren.** Mëscht propper Gabelen, Léffel a Botermesser an enger Schossel a sortéiert se an e geedelten Tablett. Schaarf Messer loosst Dir draussen.
+- **Tëscht oofdréchnen.** Plastik- oder onbriechbar Teller an e weiche Handtuch maachen dat sécher.
+- **Den Dësch oder d'Kuchenaarbechtsplatt wëschen.** E fiichte Lappen a eng kloer Uewerfläch. D'Alzheimer's Association rät, en Lappen unzebidden, wann eng Persoun schonn mat der Hand um Dësch reift, a sou eng onrouteg Bewegung an eng nëtzlech ze verwandelen.
 
-### Around the house
+### Ronderëm d'Haus
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Ofstauben.** E weiche Plumeau an e puer fest Flächen, wéi e Salontisch oder e Bicherregal.
+- **Post sortéieren.** Gitt hir Reklammen a Kataloger fir an Stapelen ze sortéieren: behalen, recyclen, méi spéit opmaachen. Richteg Rechnungen a Scheck hält Dir anescht.
+- **Recycling sortéieren.** Propper Dosen, Fläschen a Pabeier an getrennte Container.
+- **Fegen.** En klenge Besen op der Terrass oder an der Kichen, wann d'Balance stabil ass.
+- **Planzen gitzen.** Eng kleng, liicht Gitskanne a e puer Planzen an einfach Rei.
 
-### Simple cooking with supervision
+### Einfach Kachen mat Opsiicht
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Kachen kann staark, schéin Gefiller zréckbréngen. D'NIA rät, der Persoun ze erlaben, d'Zutate ze sammelen, ofzemiessen, ze mëschen an ze gießen, oder einfach enger anerer Persoun ze soen, wéi ee sengt Liiblingsrezept mécht. Gutt Aufgaben sinn:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- Obst oder Geméis wäschen
+- E Teig oder e kale Salat réieren
+- Salat zerräissen
+- Brout mat engem stompe Messer beschmaieren
+- Keksdeeg op e Blech leeën
+- Belag op eng Pizza leeën
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Wann d'Miessen schwéier gëtt, schléit d'Alzheimer's Association vir, datt Dir d'Miessen selwer fäerdeg maacht an dann eng aner Aufgab gitt, wéi zum Beispill réieren.
 
-## How do I set up a chore so it goes well?
+## Wéi richte ech eng Aufgab sou an, datt et gutt leeft?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Wielt déi richteg Zäit.** Sicht e Moment vum Dag aus, an deem d'Persoun normalerweis ausgeruecht a roueg ass. Fir vill Leit ass dat de Moien.
+2. **Maacht de Plaz frei.** Eng Aufgab, eng Uewerfläch, näischt Anescht um Dësch.
+3. **Fuerdert net. Lued an.** „Ech kéint Hëllef mat dësen bruchen“ funktionéiert besser wéi „Et ass Zäit, d'Wäsch ze falen.“
+4. **Weist déi éischt.** Falt een Handtuch lues vir, a gitt dann dat nächst. Weisen ass méi kloer wéi Erklären.
+5. **Ee Schrëtt op eemol.** Ze vill Uweisunge gläichzäiteg kënnen iwwerfuerderen. Waart, bis een Schrëtt fäerdeg ass, ier Dir de nächsten nennt.
+6. **Schafft Säit u Säit.** Dee selwechte Job nieft-enee ze maachen fillt sech wéi Gesellschaft un, net wéi Opsiicht.
+7. **Schwätzt iwwer d'Aufgab, net d'Resultat.** „Dës sinn ganz weich“ oder „Erzielt mir, wéi Dir d'Wäschkëscht gär organiséiert hutt“ lued zum Gespréich an, ouni iergendeen ze testen.
 
-## How do I adapt chores as abilities change?
+## Wéi passe mir Hausaufgaben un, wann sech d'Fäegkeete änneren?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+D'Fäegkeeten änneren sech mat der Zäit an och vun engem Dag zum aneren. D'Alzheimer's Association rät, mat fortschreitender Demenz op méi einfach, méi widderhuelend Aufgaben iwwerzegoen.
 
-| If this has become hard | Try this instead |
+| Wann dat schwéier ginn ass | Probéiert dat amplaz |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Grouss Blieder falen | Waschlappen falen oder Servietten gläichmaachen |
+| En ganzen Dësch decken | Ee Stoffservietten pro Plaz leeën |
+| Post a Kategorien sortéieren | Enveloppe an ee Stapel leeën |
+| Engem Rezept nofolgen | Réieren, oder zoekucken an dogesteet, wann Dir kacht |
+| Eng ganz Flouer fegen | Ee klenge Dësch wëschen |
+| D'Aufgab iwwerhaapt maachen | Bei Iech sëtzen a Gesellschaft leeschten, während Dir et maacht |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Zoekucken zielt. D'NIA mierkt un, dass e puer Leit einfach gär zoekucken, a dat ass eng gutt Manéier fir matzemaachen.
 
-## How do I keep household tasks safe?
+## Wéi halen ech Hausaufgaben sécher?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Sécherheet kënnt als Éischt, besonnesch an der Kichen. D'[Haussécherheetstipps vun der NIA fir Alzheimer-Betreier](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) enthalen:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Botzmëttel, och Pads fir d'Wäsch, déi wéi Séissegkeeten ausgesinn, ewech- oder ofschléissen.
+- Messer, Scheren an Elektrowerkzeug an engem ofgeschloosse Raum opbewaren.
+- Sécherheetsknëpp an eng automatesch Ofschalt um Herd installéieren.
+- „Stop“- oder „Ganz heess“-Schëlder bei Uewen, Toaster a Bügeleisen uebruechen, sou datt se keng Feier fänken.
+- De Waasserbaach op 120 °F setzen, fir d'Risiko vu Verbrennungen ze reduzéieren.
+- Kënschtlech Uebst a Magnéiten a Form vu Iessen ewechhuelen, well se iessbar ausgesinn kënnen.
 
-A few more practical habits help:
+E puer méi praktesch Gewunnechten hëllefen zousätzlech:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Bleift am Zëmmer, wann de Herd, de Backuewen oder e schaarfe Werkzeug am Gebrauch ass.
+- Benotzt onbriechbar Teller fir Oofdréchnen a fir den Dësch.
+- Hält d'Böden trocken a fräi, wann Dir fegt oder wëscht.
+- Wann d'Persoun fréier Werkzeuge benotzt huet, schléit d'Alzheimer's Association vir, gefährlech Saachen aus der Werkstatt ewechzehuelen, sou datt eng sécher Aufgab, wéi Holz schleifen, nach ëmmer genoss ka ginn.
 
-## What if they do it "wrong"?
+## Wat maachen ech, wann se et „falsch“ maachen?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Loosst et goen. E Handtuch, dat an Drëtteler amplaz Halleften gefalt ass, ass nach ëmmer e gefalt Handtuch. D'Alzheimer's Association mécht et kloer: wichteg ass, datt Dir Zäit zesumme verbréngt an d'Persoun sech nëtzlech fillt, net ob d'Handticher richteg gefalt sinn. Wann eppes wierklech nach eng Kéier muss gemaach ginn, waart bis méi spéit a maacht et, wann d'Persoun net kuckt.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Korrektur an deem Moment kann eng schéi Aufgab an eng Erënnerung u dat verwandelen, wat verluer gaangen ass. „Merci, dat hëlleft mir ganz vill“ ass bal ëmmer déi richteg Äntwert.
 
-## When should we stop?
+## Wann sollte mir stoppen?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Stoppt oder wiesselt, wann Dir Frustratioun, Middegkeet oder verluerent Interesse gesitt. Fréi opzehalen ass e gudde Resultat, kee Versoen. Dir kënnt:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- op en einfachen Schrëtt wiesselen
+- zu eppes Rouegem iwwergoen, wéi Musek oder enger Taass Kaffi
+- en anere Kéier oder en anere Dag nees probéieren
+- einfach zesumme sëtzen
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Wann d'Persoun Nee seet, drängt net. Kuckt [wat ze maachen ass, wann se nee soen](/caregiving/when-they-say-no/) fir sanfte Weeër, drop ze reagéieren.
 
-## Low-effort extras for a quieter moment
+## Kleng Extraen fir en roueg Moment
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Wann kierperlech Aufgaben net méiglech sinn, kann een Sortéieren an Zouerdnen och sëtzend maachen. [Zesumme sortéieren](/games/sort-together/) léisst Iech Biller a Kichen- oder Gaart-Kierf tippen, an [Billerpuerer](/games/picture-pairs/) ass e gentille Matching-Spill mat grousse Biller ouni Timer. [Gespréichskaarten](/games/conversation-cards/) huet oppen Froen iwwer Doheem a Famill, déi gutt zu engem Kaffi no der Aarbecht passen.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Fir Hëllef, Hausaufgaben an den Dag ze passen, kuckt eise Guide zu enger [sanfter Dagesroutine](/activities/daily-routine/). Fir méi Iddien no Phase kuckt [Aktivitéiten an der mëttlerer Phase](/activities/middle-stage/).

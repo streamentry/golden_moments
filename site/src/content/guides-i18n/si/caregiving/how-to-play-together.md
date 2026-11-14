@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "ඩිමෙන්ශියාව ඇති කෙනෙකු සමඟ ක්‍රීඩා කරන්නේ කෙසේද"
+description: "ඩිමෙන්ශියාව ඇති කෙනෙකු සමඟ ක්‍රීඩා කිරීමට ප්‍රායෝගික මාර්ගෝපදේශය: සකස් කිරීම, වේගය, කිසිවිට නිවැරදි නොකිරීම, ක්‍රීඩා පහසු කිරීම සහ නැවතිය යුතු වේලාව දැන සිටීම."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  ක්‍රීඩාවක් පරීක්ෂණයක් ලෙස නොව, එකට ගත කරන කාලයක් ලෙස සලකන්න. දවසේ සන්සුන් වේලාවක් තෝරා, නිශ්ශබ්ද කාමරයක යාබදව වාඩි වී, එක් සරල ක්‍රීඩාවක් ඉදිරිපත් කරන්න. පුද්ගලයාට වේගය තීරණය කර ඉඩ දෙන්න, හානිකර වැරදි කිසිවිට නිවැරදි නොකරන්න, ආතතියේ පළමු සං‍ඥාවේදීම ක්‍රීඩාව පහසු කරන්න, සහ පින්තූර සංවාදයක් බවට හරවන්න. හොඳ හැඟීමක් ඇති විට නවත්වන්න. කලින් අවසන් කිරීම හෝ එකට බලා සිටීම හොඳ ප්‍රතිඵලයකි.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "ඉලක්කය වන්නේ විනෝදය සහ සම්බන්ධතාවයයි, අවසන් කිරීම හෝ නිවැරදි පිළිතුරු ලබා ගැනීම නොවේ."
+  - "පළමුව සකසන්න: නිශ්ශබ්ද කාමරය, හොඳ ආලෝකය, කණ්ණාඩි සහ ශ්‍රවණ උපකරණ පළඳා, රූපවාහිනිය නවත්වා, එක් ක්‍රීඩාවක් සූදානම්ව."
+  - "හානිකර වැරදි නිවැරදි නොකරන්න. “මේක මෙහෙමත් උත්සාහ කරමු” කියන්න, නැතහොත් හුදෙක් ඉදිරියට යන්න."
+  - "කලකිරීම වැඩි වීමට පෙර ක්‍රීඩාව පහසු කරන්න: අඩු රූප, අඩු තේරීම්, රූප දෘශ්‍යමානව තබන්න."
+  - "රූප “කියන්න ... ගැන” යන ආරම්භක ලක්ෂ්‍යයක් ලෙස භාවිතා කරන්න, “ඔබට මතකද ...?” වෙනුවට."
+  - "තෙහෙට්ටුව හෝ කලකිරීමේ පළමු සං‍ඥා දැකීමේදී නවත්වන්න. කලින් නැවතීම සාර්ථකත්වයකි, අසාර්ථකත්වයක් නොවේ."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "අපි ක්‍රීඩාවක් කොපමණ වේලාවක් කළ යුතුද?"
+    a: "නිශ්චිත කාලයක් නැත. බොහෝ අය සඳහා මිනිත්තු කිහිපයක් ප්‍රමාණවත්, සමහර දිනවල එක් වටයක් ද ප්‍රමාණවත් වේ. ඔරලෝසුව නොව පුද්ගලයා නිරීක්ෂණය කරන්න, සහ ඔවුන් තවමත් සැහැල්ලුව පෙනෙන විට නවත්වන්න."
+  - q: "මම ඔවුන්ට දිනීමට ඉඩ දිය යුතුද, නැතහොත් වැරදි නොදුටු ලෙස හැසිරිය යුතුද?"
+    a: "බෙදා ගන්නා, අඩු පීඩනයේ ක්‍රීඩාවක දිනීමට හෝ පරාජය වීමට කිසිවක් නැත. වැරදියක් පුද්ගලයාට බලපාන්නේ නැත්නම්, එය ඉඩ දෙන්න. එය ඔවුන්ට කරදරයක් වන බවක් පෙනුනොත්, එය දක්වා නොසිට නිශ්ශබ්දව උදව් කරන්න, නැතහොත් ක්‍රීඩාව පහසු කරන්න."
+  - q: "ඔවුන් මා ක්‍රීඩා කරන බලා සිටීමට කැමති නම් කුමක් කළ යුතුද?"
+    a: "ඒක හරි. ජාතික වයෝවෘද්ධ ආයතනය (National Institute on Aging) යෝජනා කරන්නේ පුද්ගලයා එය වඩා රසවිඳින බවක් පෙනුනොත් ඔවුන්ට හුදෙක් බලා සිටීමට ඉඩ දෙන ලෙසයි. ඔබ දකින දේ ගැන කතා කර, ඔවුන්ට කැමති විටක සඳහන් කිරීමට හෝ තේරීමට ආරාධනා කරන්න."
+  - q: "මේ ක්‍රීඩා මතකය පරීක්ෂා කිරීමේ ක්‍රමයක්ද?"
+    a: "නැත. අපගේ ක්‍රීඩා විනෝදය සහ සංවාදය සඳහා සරල, බෙදා ගන්නා ක්‍රියාකාරකම්. ඒවා මතක පරීක්ෂණයක් නොවන අතර, කිසිවක් මනින්නේ නැත, සහ ඩිමෙන්ශියාවට ප්‍රතිකාරයක් නොවේ."
+  - q: "ආරම්භ කිරීමට හොඳම ක්‍රීඩාව කුමක්ද?"
+    a: "පුද්ගලයාට ගැළපෙන සරලම එකෙන් ආරම්භ කරන්න. ටයිල් හතරක් සහ දෘශ්‍යමාන රූප සහිත Picture Pairs, හෝ තේරීම් දෙකක් සහිත Find the Same, මෘදු ආරම්භක ලක්ෂ්‍ය වේ. පුද්ගලයා තට්ටු කිරීමට වඩා කතා කිරීම රසවිඳින්නේ නම් Conversation Cards හොඳින් ක්‍රියා කරයි."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+ඩිමෙන්ශියාව ඇති කෙනෙකු සමඟ හොඳ ක්‍රීඩාවක් තරඟයක් ලෙස පෙනෙන්නේ නැත. එය පෙනෙන්නේ ආසන්නව වාඩි වී සිටින දෙදෙනෙකු, රූප වෙත ඇඟිලි දිගු කරන, වචන කියමනකට සිනාසෙන, සහ ඒ මොහොතේ ඇති වන ඕනෑම දෙයක් ගැන කතා කරන ආකාරයකින්. ක්‍රීඩාව එකට කාලය ගත කිරීමට හේතුවක් පමණි.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+මෙම මාර්ගෝපදේශය සකස් කරන ආකාරය, ක්‍රීඩාවක වේගය, “වැරදි” දෙයක් සිදුවූ විට කීමට ඇති දේ, ඕනෑම ක්‍රීඩාවක් පහසු හෝ තව ටිකක් දුෂ්කර කරන ආකාරය, එය සංවාදයක් බවට හරවන ආකාරය, සහ කවදා නවත්විය යුතුද යන්න දැන ගැනීම ආවරණය කරයි. එය අපගේ [ක්‍රීඩා](/games/) සඳහාත්, ඔබ දැනටමත් ඇති කාඩ්, ප්‍රහේලිකා සහ ලෝකඩ ක්‍රීඩා සඳහාත් ක්‍රියා කරයි.
 
-## What is the best way to play a game with someone who has dementia?
+## ඩිමෙන්ශියාව ඇති කෙනෙකු සමඟ ක්‍රීඩාවක් කිරීමට හොඳම ක්‍රමය කුමක්ද?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+ජයග්‍රහණයට නොව, විනෝදයට අවධානය යොමු කරන්න. [Alzheimer's Association ක්‍රියාකාරකම් පිළිබඳ මාර්ගෝපදේශයෙන්](https://www.alz.org/help-support/caregiving/daily-care/activities) එය මූලික උපදෙසයි: පුද්ගලයා තවමත් ඇති කුසලතා මත ගොඩනඟන්න, ආරම්භ කිරීමට උදව් කරන්න, දුෂ්කර කොටස් ඔබම අවසන් කරන්න, සහ හානිකර ක්‍රියාකාරකම් විවේචනය හෝ නිවැරදි නොකරන්න.
 
-In practice that means:
+ප්‍රායෝගිකව එයින් අදහස් වන්නේ:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **ඔවුන් අසලින් වාඩි වන්න, ඉදිරියෙන් නොව.** යාබදව, දෙදෙනාම තිරය හෝ මේසය දැක ගත හැකි අතර, උදව් කිරීම අධීක්ෂණයක් වෙනුවට කණ්ඩායම් වැඩක් ලෙස දැනේ.
+- **එකවර එක් ක්‍රීඩාවක් පමණක් පිරිනමන්න.** තේරීම් ලැයිස්තුවක් ආරම්භ වීමට පෙර පරීක්ෂණයක් ලෙස දැනිය හැක.
+- **ඔවුන්ගේ මෙහෙයවීම අනුගමනය කරන්න.** ඔවුන් රූප තම අනුපිළිවෙලින් තට්ටු කිරීමට, එක් රූපයක් ගැන මිනිත්තු දහයක් කතා කිරීමට, හෝ වාර දෙකකින් පසු නැවතීමට කැමති නම්, අද ක්‍රීඩාව එයයි.
+- **සම්පූර්ණ වටවල් නොව, හොඳ මොහොත් ගණන් කරන්න.** සිනාසීමක්, කථාවක් හෝ සන්සුන් අඩ පැයක් ඔබ සොයන ප්‍රතිඵලයයි.
 
-## How do I set up before we start?
+## ආරම්භ කිරීමට පෙර මා සකස් කරන්නේ කෙසේද?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+විනාඩි කිහිපයක සැකසුම් ක්‍රීඩාව මත දොස් පවරන බොහෝ කලකිරීම් වළක්වයි.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **ඔවුන්ගේ හොඳම දවසේ වේලාව තෝරන්න.** [ජාතික වයෝවෘද්ධ ආයතනයේ (NIA) ක්‍රියාකාරකම් අනුවර්තනය කිරීම පිළිබඳ මාර්ගෝපදේශය](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) පුද්ගලයා ඔවුන්ගේ හොඳම අවස්ථාවේ සිටින දවසේ වේලාවට ගමන් සහ ක්‍රියාකාරකම් සැලසුම් කරන ලෙස යෝජනා කරයි. බොහෝ අය සඳහා එය දහවල් පෙර කාලයයි. හවස් වරු බොහෝ විට දුෂ්කරයි; [දවසේ පසු කොටසේ සන්සුන් ක්‍රියාකාරකම්](/caregiving/late-day-restlessness/) බලන්න.
+2. **කාමරය නිශ්ශබ්ද කරන්න.** හැකි නම් රූපවාහිනිය සහ ගුවන්විදුලිය නවත්වා දොර වසන්න. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) කතා කිරීමට පෙර ශබ්දය සහ බාධා සීමා කරන ලෙස නිර්දේශ කරයි.
+3. **පළමුව සුවපහසුව පරීක්ෂා කරන්න.** ළඟ පානයක්, කලින් වැසිකිලි ගමනක්, සුවපහසු පුටුවක්, සහ කණ්ණාඩි සහ ශ්‍රවණ උපකරණ පළඳා සිටීම.
+4. **ඉඩ හොඳින් ආලෝකමත් කරන්න.** තිරයේ දීප්තියක් නැති, සමාන දීප්තිමත් ආලෝකය රූප දැකීමට පහසු කරයි.
+5. **ඔබ වාඩි වීමට පෙර ක්‍රීඩාව සූදානම් කරන්න.** එය විවෘත කර, සැකසුම් තෝරා, හඬ ඔබම සකසන්න. ඉන්පසු තිරය ඔවුන් වෙත හරවන්න. ටැබ්ලට් ඉඟි සඳහා, [ටැබ්ලට් හෝ දුරකථනයක් සකසන්න](/caregiving/tablets-and-screens/) බලන්න.
+6. **උපාංගය ආධාරකයක තබන්න.** ටැබ්ලට් එක සිරස්ව තබන ආධාරකයක් හෝ කවරයක් මගින් කිසිවෙකුට එය අල්ලා ගැනීමට අවශ්‍ය නොවන අතර, එය දැක්වීමට පහසුය.
 
-## How do I invite them without pressure?
+## පීඩනයකින් තොරව ඔවුන්ට ආරාධනා කරන්නේ කෙසේද?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+ආරාධනය සාමාන්‍ය සහ ප්‍රතික්ෂේප කිරීමට පහසු කරන්න. හොඳින් ක්‍රියා කරන වාක්‍ය කිහිපයක්:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “මට උයනේ රූප කිහිපයක් හමු වුණා. ඒවා මා සමඟ බලන්න ඕනෑද?”
+- “මේ ප්‍රහේලිකාව ගැන මට උදව් කරන්න පුළුවන්ද? මම නැවතිලා ඉන්නේ.”
+- “අද ඔබට මල් ද නැතහොත් කුරුල්ලන් ද කැමති?” (විවෘත ප්‍රශ්නයකට වඩා දෙකෙන් එකක් තේරීම පහසුයි)
+- “මම ඔබේ සහෝදරියට කාඩ්පතක් සාදනවා. මේකට කුමන වර්ණයද හොඳ?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association ක්‍රියාකාරකමක අරමුණ පැහැදිලි කරන ලෙස යෝජනා කරයි, උදාහරණයක් ලෙස මිතුරෙකුට කාඩ්පතක් සෑදීම, මන්ද හේතුවක් එයට අර්ථයක් ලබා දෙයි. උදව් ඉල්ලීමද ක්‍රියා කරයි, මන්ද එය පුද්ගලයාට ප්‍රයෝජනවත් යයි හැඟීමට ඉඩ දෙයි.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+ඔවුන් නැත යැයි කියන්නේ නම්, එය පිළිගන්න. පසුව නැවත උත්සාහ කරන්න, නැතහොත් වෙනස් දෙයක් ඉදිරිපත් කරන්න. [ඔවුන් නැත යැයි කියන විට කුමක් කළ යුතුද](/caregiving/when-they-say-no/) ගැන අපගේ මාර්ගෝපදේශය වැඩි දුරට යයි.
 
-## How long should a game last, and how fast should we go?
+## ක්‍රීඩාවක් කොපමණ කල් පැවතිය යුතුද, සහ අපි කොපමණ වේගයෙන් යා යුතුද?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+වේගය පුද්ගලයා තීරණය කිරීමට ඉඩ දෙන්න, සහ කෙටි සැසි සැලසුම් කරන්න. බෙදා ගන්නා ක්‍රීඩාවක සාක්ෂි මත පදනම් වූ පරිපූර්ණ කාල දිගක් නැත. සන්සුන් මිනිත්තු දෙකේ සිට පහ දක්වා ක්‍රියාකාරකමක් සම්පූර්ණ විය හැක.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **ස්වභාවිකව දැනෙන්නට වඩා වැඩි වේලාවක් රැඳී සිටින්න.** NIA උපදෙස් දෙන්නේ පුද්ගලයාට පිළිතුරු දීමට වැඩි කාලයක් ඉඩ දී, බාධා නොකිරීමට උත්සාහ කරන ලෙසයි. උදව් කිරීමට පෙර ඔබේ හිතේ දහය දක්වා ගණන් කරන්න.
+- **එකවර එක පියවරක්.** එක් කෙටි උපදෙසක් (“රූපයක් තට්ටු කරන්න”) දෙන්න, ඉන්පසු රැඳී සිටින්න. පැහැදිලි කිරීමට වඩා පෙන්වන්න: තට්ටු කළ යුතු ස්ථානයට ඇඟිලි දිගු කරන්න.
+- **නිදහසේ විරාම කරන්න.** ඔවුන් රූපයක් ගැන කතා කිරීමට නවතින්නේ නම්, ක්‍රීඩාව බලා සිටිය හැක. ඉක්මන් වීමට අවශ්‍යතාවක් නැත.
+- **ඔවුන්ට බලා සිටීමට ඉඩ දෙන්න.** සමහර අය බලා සිටීමට කැමති බව NIA සටහන් කරන අතර, එය වලංගු තේරීමකි.
 
-## Should I correct wrong answers?
+## වැරදි පිළිතුරු නිවැරදි කළ යුතුද?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+නැත. කරුණාවෙන් නැවත නැවත යමෙකු නිවැරදි කිරීම, ඔබ හොඳ අරමුණින් සිටියත්, ඔවුන් අසමත් වන බව ඔවුන්ට කියයි. Alzheimer's Association හානිකර ක්‍රියාකාරකම් විවේචනය හෝ නිවැරදි නොකිරීමට උපදෙස් දෙයි. ක්‍රීඩාවක, ඉතා බොහෝ වැරදි හානිකර වේ.
 
-| Instead of | Try |
+| ඒ වෙනුවට | උත්සාහ කරන්න |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “නැහැ, ඒක වැරදියි.” | “මේක මෙහෙමත් උත්සාහ කරමු.” (NIA දෙන උදාහරණයක්) |
+| “ඒක ගැළපෙන්නේ නැහැ. නැවත බලන්න.” | කිසිවක් නොකියා ඊළඟ වාරය ගන්න, නැතහොත් “ඔහ්, ඒ දෙක දෙකම රතුයි.” |
+| “මේ කවුද කියා ඔබට මතකද?” | “මේ රූපය ගැන මට කියන්න.” |
+| “ඒක ඔයා දැනටමත් කළා.” | “ඒක හොඳ එකක්. අපි නැවත කරමු.” |
+| “එහෙම එන්න, ඔයා මේක දන්නවා.” | “අවසානය පෙන්වන්න ඕනෑද?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+වැරැද්දක් පැහැදිලිවම ඔවුන්ව කලකිරවන්නේ නම්, නිශ්ශබ්දව උදව් කරන්න. නිවැරදි රූපය වෙත ඇඟිලි දිගු කරන්න, ඔබම වාරයක් ගන්න, නැතහොත් ඊළඟ වටයේ ක්‍රීඩාව පහසු කරන්න. කියමනකට විහිළු වැරදි අවසානයක් ලැබුණහොත්, ඔවුන් සමඟ සිනාසෙන්න. ඔවුන්ගේ අවසානය වඩා හොඳ විය හැක.
 
-## How do I make a game easier or harder?
+## ක්‍රීඩාවක් පහසු හෝ තව ටිකක් දුෂ්කර කරන්නේ කෙසේද?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+ක්‍රීඩාව දින ලේබලයකට නොව, එදින පුද්ගලයාට ගැළපෙන පරිදි සීරුමාරු කරන්න. එම පුද්ගලයාට උදෑසන වඩා සරල අනුවාදයක් සවසට අවශ්‍ය විය හැක. NIA හි පළමු ඉඟිය වන්නේ ක්‍රියාකාරකම පුද්ගලයාට කළ හැකි දේ හා ගැළපීම සහ ඔවුන් සාර්ථක බව දැනෙන බව සහතික කිරීමයි.
 
-| Game | Make it easier | Make it a little harder |
+| ක්‍රීඩාව | පහසු කරන්න | තව ටිකක් දුෂ්කර කරන්න |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | ටයිල් 4කින් ආරම්භ කර රූප දෘශ්‍යමානව තබන්න | වැඩි ටයිල්, හෝ එය සුවපහසු නම් රූප සඟවන්න |
+| [Find the Same](/games/find-the-same/) | තේරීම් 2 | තේරීම් 4 දක්වා |
+| [Sort Together](/games/sort-together/) | ඔබ රූපය අල්ලා ගන්න, ඔවුන් කූඩය වෙත ඇඟිලි දිගු කරයි | ඔවුන් රූපය සහ කූඩය දෙකම තමාම තට්ටු කරයි |
+| [Picture Puzzle](/games/picture-puzzle/) | කොටස් 4, පළමුව සම්පූර්ණ රූපය ගැන කතා කරන්න | කොටස් 9 |
+| [Finish the Saying](/games/finish-the-saying/) | අවසානය පෙන්වා, ඉන්පසු එකට කියන්න | තට්ටු කිරීමට පෙර ඔවුන් අවසානය කියන්න |
+| [Word Search](/games/word-search/) | මුද්‍රණය කර, එක් වචනයක් එකට සොයන්න, එහි පළමු අකුර වෙත ඇඟිලි දිගු කරන්න | ඊළඟට සොයන වචනය ඔවුන්ට තෝරන්න දෙන්න |
+| [Coloring](/games/coloring/) | වර්ණ දෙකක් ඔබ තෝරන්න, ඔවුන් ඒ දෙක අතරින් තෝරයි | ඔවුන් සියලු වර්ණ තෝරයි |
+| [Conversation Cards](/games/conversation-cards/) | රූපය එකට බලන්න පමණි | කාඩ්පතේ විවෘත ඉඟි භාවිතා කරන්න |
+| [Photo Pairs](/games/photo-pairs/) | ඔවුන් ආදරය කරන පවුලේ ඡායාරූප කිහිපයක් | තව ඡායාරූප එකතු කරන්න |
+| [Picture Bingo](/games/picture-bingo/) | උදව්කරුවෙක් එක් එක් ක්‍රීඩකයා සමඟ වාඩි වේ | ක්‍රීඩකයන් තමන්ගේම කාඩ්පත් ලකුණු කරයි |
+| [Calm Breathing](/games/calm-breathing/) | එකට වාඩි වී බලා සිටින්න පමණි | මන්දගාමීව එකට හුස්ම ගන්න |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+ක්‍රීඩාව දුෂ්කර බවේ සං‍ඥා: චින්තනශීලී ලෙස නොව, කරදර වන බව පෙනෙන දිගු විරාම, නිතර “මට බැහැ” කීම, උපාංගය දුරට තල්ලු කිරීම, හෝ වැරදි ඔවුන්ව කලකිරවීම. එය පහසු වැඩිද යන්නේ සං‍ඥා: කම්මැලිකම, හෝ එය ළමයින්ගේ දෙයක් බව ඔවුන් කීම. එය එසේ වූ විට, ඒ ගෞරව කර, වැඩිහිටි බවක් දැනෙන දෙයකට මාරු වන්න, උදාහරණයක් ලෙස වචන සෙවීමක්, සැබෑ ඡායාරූපයක ප්‍රහේලිකාවක්, හෝ ඔවුන්ගේ පැරණි රැකියාවේ ඡායාරූපයක් ගැන කතා කිරීම.
 
-## How do I turn a game into a conversation?
+## ක්‍රීඩාවක් සංවාදයක් බවට හරවන්නේ කෙසේද?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+සෑම රූපයක්ම කතා කිරීමට ආරාධනයක් ලෙස භාවිතා කරන්න, සහ ඔවුන් කියන ඕනෑම දෙයක් හොඳ පිළිතුරක් ලෙස සලකන්න. බොහෝ පවුල් සඳහා ක්‍රීඩා කිරීමේ හොඳම කොටස එයයි.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **විවෘත ප්‍රශ්න අසන්න, වැරදි පිළිතුරක් නැත.** “ඔබ කුමක් දකිනවාද?” “ඔබට කුමක් වඩාත් කැමතිද?” “මේ වගේ මුළුතැන්ගෙයක් ගැන මට කියන්න.”
+- **පළමුව බෙදා ගන්න.** “මගේ ආච්චිට මේ වගේ බල්ලෙක් හිටියා.” ඔබේ කතාව ඔවුන්ට එකක් බෙදා ගැනීම පහසු කරයි.
+- **අනුගමනය කරන්න.** මෝටර් රථයක රූපයක් ගමනක් ගැන කතාවකට යන්නේ නම්, කතාවම ක්‍රියාකාරකමයි. ක්‍රීඩාව විරාම කර තබන්න.
+- **කරුණු පරීක්ෂා නොකරන්න.** සිහිකිරීමේදී, සුඛදායී සංවාදය නිරවද්‍ය විස්තරවලට වඩා වැදගත්ය. අවසන් වාරයට වඩා කතාව වෙනස් වුවහොත්, නව අනුවාදය රසවිඳින්න.
+- **ගොඩනඟා ඇති ඉඟි භාවිතා කරන්න.** [Finish the Saying](/games/finish-the-saying/) සෑම කියමනකටම පසුව කතා කිරීමේ ඉඟියක් අනුගමනය කරයි, සහ [Conversation Cards](/games/conversation-cards/) හරියටම මෙම අරමුණ සඳහා සැලසුම් කර ඇත. [Photo Pairs](/games/photo-pairs/) ඔබේම පවුලේ ඡායාරූප භාවිතා කරයි, ඒවා බොහෝ විට වඩාත්ම පොහොසත් කථා ඇති කරයි.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+තව අදහස් අපගේ [සිහිකිරීමේ ක්‍රියාකාරකම්](/activities/reminiscence/) සහ [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) මාර්ගෝපදේශවල ඇත.
 
-## When should we stop?
+## අපි කවදා නවතිය යුතුද?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+වෙහෙසේ හෝ කලකිරීමේ පළමු සං‍ඥා දැකීමේදී නවත්වන්න, පුළුවන් නම් ටිකක් කලින්. Alzheimer's Association අවධානය දුර්වල වූ විට හෝ කලකිරීම වැඩි වූ විට ක්‍රියාකාරකම නවත්වන හෝ වෙනස් කරන ලෙස උපදෙස් දෙයි.
 
-Watch for:
+මේවා සඳහා බලන්න:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- දහගාන්නේ, සිරුර වැටීම, හෝ ඇස් තිරයෙන් ඈත් වීම;
+- නොසන්සුන් වීම, නැගිටීම, හෝ යාමට ඉල්ලීම;
+- සුසුම් ලීම, කෙටි පිළිතුරු, හෝ “මම මේකට හොඳ නැහැ”;
+- අහඹු ලෙස තට්ටු කිරීම හෝ උපාංගය තල්ලු කිරීම;
+- ඇස්වලට කඳුළු, කෝපය, හෝ මනෝභාවයේ හදිසි වෙනසක්.
 
-How to stop well:
+හොඳින් නැවතීමේ ක්‍රමය:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **පහසු දෙයකින් අවසන් කරන්න.** ඔවුන්ට කළ හැකි අවසාන එක ගැළපීමක්, හෝ අගය කිරීමට අවසන් රූපයක්.
+- **එය ඔබ ගැන බවට පත් කරන්න.** “මට තේ කෝප්පයක් ගන්න පුළුවන් නම් හොඳයි. මෙතනින් නවතිමුද?” එය ඔවුන් නරකට කළා යන ඕනෑම ඉඟියක් වළක්වයි.
+- **ශාරීරික හෝ සහනදායී දෙයකට යන්න.** කෙටි ඇවිදීමක්, කෑමක්, රෙදි නැමීම, හෝ සංගීතය.
+- **උණුසුම් දෙයක් කියන්න.** “ඒක ඔයා එක්ක කරන එක මට ආසයි.” “නිවැරදිව කිරීම” සඳහා ප්‍රශංසාවක් නැතිව, එකට ගත කළ කාලය ගැන සතුට පමණි.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+ඉක්මනින් නැවතීම, සැලසුම් වෙනස් කිරීම, හෝ ක්‍රීඩාව අත්හැර එකට බලා සිටීම සියල්ල හොඳ ප්‍රතිඵල වේ.
 
-## Can we play in a group or over a video call?
+## අපට කණ්ඩායමක් වශයෙන් හෝ වීඩියෝ ඇමතුමක් මගින් ක්‍රීඩා කළ හැකිද?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+ඔව්, තව ටිකක් අමතර සැකසුමක් සමඟ. කණ්ඩායමක, මිනිසුන් කිහිප දෙනෙකුට සීමා කර, උදව් අවශ්‍ය ඕනෑම කෙනෙකුට අසලින් උදව්කරුවන් වාඩි කර, පැහැදිලි බෙදා ගන්නා අවධානයක් සහිත ක්‍රීඩාවක් තෝරන්න. [Picture Bingo](/games/picture-bingo/) කණ්ඩායම් සඳහා මුද්‍රණය කළ හැකි කාඩ්පත් සහ තිරයේ ඇමතුම්කරුවෙකු ඇත. වැඩි විස්තර සඳහා [සත්කාර නිවාස කණ්ඩායම් සඳහා ක්‍රියාකාරකම්](/activities/care-home-groups/) බලන්න.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+වීඩියෝ ඇමතුමක, ඇමතුමේ සිටින පුද්ගලයා කාමරයේ සිටින අයෙකු ඇඟිලි දිගු කර තට්ටු කරන අතරතුර රූපයක් විස්තර කළ හැක. ඇමතුම් කෙටි සහ හුරුපුරුදු ලෙස තබන්න. අපගේ [දුරකථන සහ වීඩියෝ ඇමතුම් මාර්ගෝපදේශය](/activities/phone-and-video-calls/) වැඩි ඉඟි ඇත.
 
-## What if a game just isn't working?
+## ක්‍රීඩාවක් ක්‍රියා නොකරන්නේ නම් කුමක් ද?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+සමහර දිනවල කිසිවක් හොඳට නොයයි, එය ඔබ හෝ ඔවුන් ගැන පිළිබිඹුවක් නොවේ. ක්‍රීඩාව බහා තබා, දවසේ වෙනත් වේලාවක්, වෙනත් ක්‍රීඩාවක්, හෝ කිසිම ක්‍රීඩාවක් නොමැතිව උත්සාහ කරන්න. හොඳ ක්‍රියාකාරකම් බොහෝමයක් තිර සමඟ කිසිම සම්බන්ධයක් නැත: සංගීතය, තුවායන් නැමීම, ඡායාරූප ඇල්බමයක් බැලීම, හෝ කෙටි ඇවිදීම. තව දේ සඳහා අපගේ [ක්‍රියාකාරකම් අදහස්](/activities/ideas/) පිටු පරිලෝකනය කරන්න.

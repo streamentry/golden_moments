@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "סאַנדאַונינג: רויִיקע טעטיקײטן אין שפּעטן נאָכמיטאָג פֿאַר מענטשן מיט דעמענץ"
+seoTitle: "סאַנדאַונינג: רויִיקע שפּעטע נאָכמיטאָג־טעטיקײטן"
+description: "זאַנפֿטע רוטינען, צימער־ענדערונגען און רויִיקע טעטיקײטן װאָס קענען מילדערן שפּעטן נאָכמיטאָגדיקן אומרו בדעמענץ, און װען צו רופֿן אַ דאָקטער װעגן נײַע אָדער ערגער װערנדיקע צײכנס."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  סאַנדאַונינג איז אומרו, פֿאַרװירעניש אָדער רײצבערקײט װאָס הײבט זיך אָן אָדער װערט ערגער אין שפּעטן נאָכמיטאָג אָדער אָװנט. נוצלעכע שריט װאָס קענען העלפֿן אַרײַנגערעכנט אַ שטענדיקן טאָגליכן רוטין, טאָגליכט און טעטיקײט פֿריִער אין טאָג, װייניקער שפּעטע שלומערן, װייניקער קאַפֿײן, העל ליכט אין שטוב פֿאַר דער דעמערונג, אַ רויִיקערן הױז, און רויִיקע טעטיקײטן װי מוזיק, פֿאָטאָס אָדער װעש פֿאַלדן. נײַע אָדער ערגער װערנדיקע צײכנס דאַרפֿן אַ דאָקטערס אונטערזוכונג.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "סאַנדאַונינג מיינט אומרו אָדער פֿאַרװירעניש װאָס הײבט זיך אָן אָדער װערט ערגער װען דאָס ליכט פֿאַרגײט."
+  - "שטעלט שװערע אַרבעטן, אויספֿאָרן און באָדן אין דער פֿרי אָדער פֿרי נאָכמיטאָג."
+  - "טאָגליכט, אַ טעגלעכער שפּאַציר, װייניקער שפּעטע שלומערן און װייניקער קאַפֿײן קענען העלפֿן די אָװנטן גײן גלאַטער."
+  - "שטעלט די ליכט אָן פֿאַר דער דעמערונג, מילדערט דעם ראַש, און גייט איבער צו רויִיקע, באַקאַנטע טעטיקײטן."
+  - "האַלט אַ לאָג צו זען די טריגערס, און בלײַבט רויִק און באַרויִקנדיק װען אומרו הײבט זיך אָן."
+  - "זעט אַ דאָקטער װעגן נײַע אָדער ערגער װערנדיקע צײכנס: װײטיק, אינפֿעקציע אָדער מעדיצינען קענען שפּילן אַ ראָלע."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "װאַן אין טאָג פּאַסירט סאַנדאַונינג געװײנלעך?"
+    a: "עס הײבט זיך געװײנלעך אָן אָדער װערט ערגער שפּעט אין נאָכמיטאָג אָדער אין אָנהײב אָװנט, װען דאָס ליכט פֿאַרגײט. די גענױע צײַט װעקסלט פֿון מענטש צו מענטש, דעריבער העלפֿט אַ קורצער לאָג פֿאַר אַ װאָך אָדער צװײ."
+  - q: "װאָס העלפֿט מיט סאַנדאַונינג?"
+    a: "רויִיקע, באַקאַנטע טעטיקײטן מיט װעניק פּרוּװ אַרבעטן מערסטנס בעסטן שפּעט אין נאָכמיטאָג: זאַנפֿטע מוזיק, קוקן אויף פֿאָטאָס, אַ ליבע סעריע אָדער פֿילם, װעש פֿאַלדן, אַ קורצער שפּאַציר, אָדער אַ שניטקע צוזאַמען. שפּאָר נײַע אָדער שװערע טעטיקײטן פֿאַר דער פֿרי."
+  - q: "צי קען סאַנדאַונינג זײַן אַ צײכן פֿון עפּעס מעדיצינישס?"
+    a: "עס קען ערגער װערן פֿון געזונטהײט־פּראָבלעמען װי װײטיק, אינפֿעקציעס, אורין־אינפֿעקציעס, שלאָף־פּראָבלעמען אָדער נעבענװירקונגען פֿון מעדיצין. אױב אומרו איז נײַ, פּלוצלינג אָדער װערט ערגער, רופֿט דעם מענטשס דאָקטער."
+  - q: "זאָל איך פֿרעגן דעם דאָקטער װעגן מעדיצין פֿאַר סאַנדאַונינג?"
+    a: "דאָס איז אַ געשפּרעך צו האָבן מיט דעם דאָקטער. די אַלצהײַמער־אַסאָציאַציע זאָגט, אַז צוגאַנגען אָן מעדיצין װערן געװײנלעך פֿריִער פֿאָרגעצויגן, און אַז קײן מעדיצין פֿאַר אָװנט־אַגיטאַציע זאָל מען נאָר באַטראַכטן, נאָך דעם װי די ריזיקעס זענען געװאָגן. דער בלאַט גיט נישט קײן עצות װעגן מעדיצין."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+אַ סך משפּחות באַמערקן דאָס זעלבע מוסטער: מאָרגנס איז עס גאַנץ רויִק, אָבער ווען דער נאָכמיטאָג גייט װײַטער, װערט דער מענטש מיט דעמענץ אומרויִק, דערשראָקן, פֿאַרװירט אָדער רײצבאַר. זײ קענען גײן הין און צוריק, פֿרעגן װעגן „אַהײם גײן“ אַפֿילו װען זײ זענען שױן אַהײם, אָדער װערן לײכט איבערגעריסן. דאָס ווערט אָפֿט גערופֿן סאַנדאַונינג.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+עס איז נישט קײן איינציקער תּיקון, אָבער ענדערונגען אין דעם טאָגליכן ריטם, אין צימער און אין די סאָרטן טעטיקײטן װאָס מען בעט אָן, קענען מאַכן די שפּעטע נאָכמיטאָגס רויִיקער. דער בלאַט פֿאַרזאַמלט נוצלעכע אידעען פֿון דעם נאַציאָנאַלן אינסטיטוט פֿאַר עלטערװערן און דער אַלצהײַמער־אַסאָציאַציע, װאָס זענען נישט קײן מעדיצינישע עצה. װען די סימפּטאָמען זענען נײַ, פּלוצלינג אָדער װערן ערגער, רעדט מיט דעם מענטשס דאָקטער.
 
-## What is sundowning?
+## װאָס איז סאַנדאַונינג?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+סאַנדאַונינג איז אומרו, אַגיטאַציע, רײצבערקײט אָדער פֿאַרװירעניש װאָס הײבט זיך אָן אָדער װערט ערגער װען דאָס ליכט פֿאַרגײט, שפּעט אין נאָכמיטאָג אָדער אין אָנהײב אָװנט. דער [נאַציאָנאַלער אינסטיטוט פֿאַר עלטערװערן (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) באַמערקט, אַז גאַנץ צו מיד זײַן קען פֿאַרגרעסערן שפּעט־טאָגדיקן אומרו.
 
-## What can make late-day restlessness worse?
+## װאָס קען שפּעט־טאָגדיקן אומרו ערגער מאַכן?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+עטלעכע זאַכן קענען צונױפֿװירקן, אָפֿט צוזאַמען. די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ציילט פֿאַקטאָרן װי:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- מידקײט נאָך אַ גאַנצן טאָג;
+- נײַע אָדער פֿאַרװירנדיקע סביבה;
+- אַ „אינערלעכער גוף־זייגער“ װאָס איז אויסער טריט, װאָס לאָזט דעם מענטש שלאַפֿריק בײַ טאָג און װאַך בײַ נאַכט;
+- נידעריק ליכט און שאָטנס, װאָס קענען זײַן פֿאַרװירנדיק;
+- אויפֿכאַפּן שפּאַנונג אָדער פֿראַסטראַציע פֿון מענטשן אַרום זיי;
+- װעניקער שלאָף דאַרפֿן, װאָס איז געװײנלעך בײַ עלטערע מענטשן.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+דער NIA ציילט צו מער אַלגעמיינע סיבות פֿון אַגיטאַציע, אַרײַנגערעכנט װײטיק, דעפּרעסיע אָדער שטרעס, צו װײניק רו, פֿאַרשטאָפּונג, צו פֿיל ראַש אָדער צו פֿיל מענטשן, און געװיסע מעדיצינען אָדער מעדיצין־צונױפֿװירקונגען.
 
-## How can I plan the day to make evenings calmer?
+## װי קען איך פּלאַנירן דעם טאָג כּדי אָװנטן זאָלן זײַן רויִקער?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+שטעלט שװערע זאַכן פֿריִער און האַלט דעם שפּעטן נאָכמיטאָג זאַנפֿט און פֿאָרױסזאָגלעך. ביידע דער NIA און די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירן אַ רעגולערע רוטין. אַ בײַשפּיל־טאָג, צו אַדאַפּטירן צו אײַער אייגענעם:
 
-| Time | What may help |
+| צײַט | װאָס קען העלפֿן |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| פֿאָרמיטאָג | טערמינען, באָדן, אויספֿאָרן און יעדע אַרבעט װאָס פֿאָדערט כּוח, װען פֿיל מענטשן זענען מערסט אויפֿמערקזאַם |
+| שפּעט פֿאָרמיטאָג | צײַט אין דרױסן אָדער בײַ אַ זוניק פֿענצטער; אַ שפּאַציר אָדער אַן אַנדער טעטיקײט |
+| מיטאָג | אַ גרעסערע מאָלצײַט (די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט אַ גרעסערן מיטאָג און אַ לײכטערן אָװנטעסן) |
+| פֿרי נאָכמיטאָג | רו אויב נייטיק, אָבער פֿאַרמײַדט לאַנגע שלומערן שפּעט אין טאָג |
+| פֿון מיטן ביז שפּעט נאָכמיטאָג | רויִיקע, באַקאַנטע טעטיקײטן; אַ שניטקע און אַ טרונק; קײן קאַפֿײן |
+| פֿאַר דער דעמערונג | שטעלט אָן די ליכט אין שטוב און צוציט די פֿאָרהענגען איידער עס װערט פֿינצטער |
+| אָװנט | אַ לײכטערע מאָלצײַט, שטילע מוזיק, װעניק סטימולאַציע, אַ שטענדיקע שלאָף־רוטין |
 
-A few specific points from the sources:
+עטלעכע באַזונדערע פּונקטן פֿון די מקורות:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **טאָגליכט.** דער NIA רעקאָמענדירט צו אָרגאַניזירן צײַט דרױסן אָדער בײַ אַ פֿענצטער פֿאַר זונשײַן יעדן טאָג.
+- **טעגלעכע באַװעגונג, אָבער נישט צו פֿיל.** שטרעבט צו זײַן קערפּערלעך אַקטיװ יעדן טאָג אָן צו פּלאַנען צו פֿיל טעטיקײטן, זאָגט דער NIA.
+- **שפּעט־טאָג טרינקען.** מײַדט אלכױל און טרינקענישן מיט קאַפֿײן, װי קאַװע אָדער קאָלא, שפּעט אין טאָג (NIA). די אַלצהײַמער־אַסאָציאַציע דערמאָנט אויך ניקאָטין.
+- **שלומערן.** ראָט אָפּ פֿון לאַנגע שלומערן און דרימלען שפּעט אין טאָג (NIA). די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו באַגרענעצן טאָגיקע שלומערן, אויב נאַכטיקער שלאָף איז אַ פּראָבלעם.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+פֿאַר מער װעגן אַ שטענדיקן טאָג, זע [טעגלעכע רוטין־טעטיקײטן](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## װי קען איך דאָס הױז מאַכן רויִקער אין שפּעטן נאָכמיטאָג?
 
-Reduce noise, add light and keep familiar things close.
+פֿאַרמינערט ראַש, צוגעבט ליכט און האַלט באַקאַנטע זאַכן נאָענט.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **העל, גלײַכמעסיק ליכט.** די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו האַלטן דאָס הױז גוט באַלויכטן אין אָװנט. באַלײַכט דעם פּלאַץ פֿריִער איידער שאָטנס דערשײנען.
+- **װייניקער ראַש.** שלאָגט אָפּ אָדער נידערט דעם טעלעװיזיע און דעם ראַדיאָ, און באַגרענעצט באַזוכער אָדער הױזאַרבעט אין דער צײַט. די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט אָפּצושטעלן אָװנט־סטימולאַציע װי טעלעװיזיע, אַרבעט און לאַוטע מוזיק.
+- **באַקאַנטע טרייסטן.** דער NIA רעקאָמענדירט באַרויִקנדיקע מוזיק און צו האַלטן ליב געהאַלטענע זאַכן און פֿאָטאָס אַרום דעם הױז.
+- **קאָנטראָלירן קאָמפֿאָרט.** די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו קאָנטראָלירן װעגן װײטיק, הונגער, דאָרשט, פֿאַרשטאָפּונג, פֿולן בלאָז, מידקײט, אינפֿעקציעס און הױט־אַרגערניש, און דאָס צימער אויף אַ באַקװעמער טעמפּעראַטור האַלטן.
+- **דײַן אייגענע שטימונג.** מענטשן כאַפּן שטרעס. דער NIA רעקאָמענדירט צו פּאַמעלן און פּרוּװן זיך אָפּצורוען, אױב אײַערע אייגענע זאָרגן קענען צוגעבן צו דער שפּאַנונג.
 
-## What calm activities can we do in the late afternoon?
+## װאָס פֿאַר רויִיקע טעטיקײטן קענען מיר טאָן שפּעט אין נאָכמיטאָג?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+קלײבט טעטיקײטן װאָס זענען באַקאַנט, אָן האַסטיקײט, און גרינג צו אויפֿהערן. די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט זאַנפֿטע טעטיקײטן װי רויִיקע מוזיק, פֿאָטאָס אָדער אַ ליבע פֿילם, און אַ שפּאַציר צוזאַמען צו מילדערן אומרו. דער NIA רעקאָמענדירט אַ שניטקע אָדער אַ טרונק, אַ ליבע טעלעװיזיע־סעריע, מוזיק, אַ שפּאַציר, לײענען, אָדער אַ פּשוטע הױזאַרבעט װי װעש פֿאַלדן.
 
-Ideas to try:
+אידעען צו פּרוּװן:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **פֿאַלדט װעש צוזאַמען.** דער NIA רעקאָמענדירט אַזאַ פּשוטע הױזאַרבעט. האָנטוכער זענען גרינג צו האַנדלען, און די אַרבעט האָט אַ קלאָרן ענד.
+2. **שפּילט ליבע לידער.** באַקאַנטע לידער פֿון זייער יונגערע יאָרן, אין אַ נידעריקער לאַוטקײט. מיטברומען ציילט אויך. מער אידעען אין [מוזיק־טעטיקײטן](/activities/music/).
+3. **קוקט אויף פֿאָטאָס.** אַ פֿאָטאָ־אַלבאָם, אָדער עטלעכע משפּחה־בילדער אין [Photo Pairs](/games/photo-pairs/) מיט די בילדער זעבאַר, קענען פֿירן צו אַ רויִיק שמועס.
+4. **מאַכט אַ קורצן שפּאַציר.** אַרום דעם גאָרטן, דעם בלאָק אָדער אַ קאָרידאָר, פֿאַר עס װערט פֿינצטער.
+5. **טײלט אַ שניטקע און אַ טרונק.** עפּעס פּשוטס, װאַרעמס און אָן קאַפֿײן, בײַם טיש צוזאַמען.
+6. **זאַנפֿט צוזאַמענפּאַס.** [Picture Pairs](/games/picture-pairs/) מיט פֿיר פּליטקעס און זעבאַרע בילדער איז גרינג צו אָנהײבן און גרינג צו אויפֿהערן.
+7. **פֿאַרבן.** [Coloring](/games/coloring/) אויף דעם עקראַן אָדער אויף אַ געדרוקטער בלאַט, אָן קײן ציל צו פֿאַרענדיקן.
+8. **קוקן און רעדן.** [Conversation Cards](/games/conversation-cards/) געבן אַ בילד און אַן אָפֿענע פּראָמפּט. בלויז קוקן איז גענוג.
+9. **אַן אָטעם־פּאָז.** [Calm Breathing](/games/calm-breathing/) איז אַ לאַנגזאַמער, שטילער פּאָז װאָס איר הײבט אָן און האַלט אָן אַליין.
+10. **האַנט־אַרבעט.** סאָרטירן קנעפּ אָדער זאָקן, גלעטן אַ װײכע דעק, אָדער האַלטן אַ באַקאַנטן געגענשטאַנד. זע [טעטיקײטן פֿאַר די זינען](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+מײַדט נײַע שפּילן, פֿאַרנומענע אויספֿאָרן און עפּעס װאָס פֿאָדערט פֿיל זכּרון אָדער קאָנצענטראַציע שפּעט אין טאָג. שפּאָרט זיי פֿאַר דער פֿרי.
 
-## What should I do when restlessness starts?
+## װאָס זאָל איך טאָן, װען אומרו הײבט זיך אָן?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+בלײַבט רויִק, באַרויִקט, און פֿירט זאַנפֿט אָפּ. דער NIA רעקאָמענדירט צו רעדן שטיל, צו הערן צו די זאָרגן פֿון מענטש, צו מײַדן מחלוקות, צו באַרויִקן אים אַז ער איז זיכער, און אויב עס העלפֿט, זאַנפֿט צו נוצן אַ זאַנפֿטן טאַטש. דערנאָך פּרוּװט אַ ענדערונג: אַ שניטקע, אַ טרונק, מוזיק אָדער אַ שפּאַציר.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט זאַצן װי „איר זענט זיכער דאָ“ און „עס טוט מיר לײד אַז איר זענט פֿאַרשטערט“, און צוגעבן ליכט, פּאַמעלן און באַגרענעצן סטימולאַציע. שטעלט דעם מענטש נישט אין אַ ווינקל, דרענגט נישט, האַלט נישט צוריק, און שטרײַט נישט מיט אים.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+װען דער מענטש װערט אַגרעסיװ, רעקאָמענדירט דער NIA צו בלײַבן אין אַ זיכער װײַטקײט ביז דאָס הערט אויף. אין אַ נויטפֿאַל, רופֿט אײַער לאָקאַלע נויטנומער און דערקלערט, אַז דער מענטש האָט דעמענץ. אונדזער [פֿירער װעגן ענטפֿערן אויף כּעס און אַגרעסיע](/caregiving/when-anger-becomes-aggression-with-dementia/) דעקט גלײַכע זיכערקײט און װאָס צו טאָן דערנאָך.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+אונדזערע [פֿירערס װעגן קאָמוניקאַציע](/caregiving/communication-tips/) און [װאָס צו טאָן ווען זײ זאָגן ניין](/caregiving/when-they-say-no/) האָבן מער װעגן באַרויִקנדיקע װערטער.
 
-## How do I find the triggers?
+## װי געפֿין איך די טריגערס?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+האַלט אַ קורצן לאָג פֿאַר אַ װאָך אָדער צװײ. די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו נאָכפֿאָלגן װאָס פּאַסירט פֿאַר סאַנדאַונינג־אָנפֿאַלן צו אידענטיפֿיצירן טריגערס. שרײַבט אויף די צײַט װען דער אומרו הײבט זיך אָן, װאָס איז געשען אין דער שעה פֿאַרױס, שלומערן, מאָלצײטן און טרונקען, באַזוכער, ראַש און ליכט. ברענגט דעם לאָג צום דאָקטער. דער NIA באַמערקט, אַז נאָכפֿאָלגן ענדערונגען אין פֿירונג קען העלפֿן זאָרגערס און געזונטהײט־פֿאָרזאָרגער דערקענען אַ מוסטער.
 
-## When should I call a doctor about sundowning?
+## װאַן זאָל איך רופֿן אַ דאָקטער װעגן סאַנדאַונינג?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+רופֿט דעם מענטשס דאָקטער, אױב אומרו איז נײַ, פּלוצלינג אָדער ערגער. דער NIA זאָגט, אַז פּלוצלינגע אָדער שנעל־ענדערנדיקע פֿירונג־ענדערונגען, באַזונדערס נאָך אַ אינפֿעקציע אָדער נײַע מעדיצין־ענדערונגען, זאָלן גלײַך אַרױפֿגעבראַכט װערן צו דער דאָקטערס אויפֿמערקזאַמקײט.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+בעט דעם דאָקטער צו קוקן פֿאַר זאַכן װאָס קענען מאַכן אָװנטן שװערער. די אַלצהײַמער־אַסאָציאַציע דערמאָנט קערפּערלעכע פּראָבלעמען װי אורין־אינפֿעקציעס, אומקאָנטראָל פֿון בלאָז, רעסטלאָזע פֿיס און שלאָף־אַפּנײע, און רעקאָמענדירט צו פֿרעגן װעלכע צײַט פֿון טאָג איז בעסטן פֿאַר יעדער מעדיצין. דער NIA ציילט װײטיק, פֿאַרשטאָפּונג און מעדיצין־נעבענװירקונגען צװישן מעגלעכע סיבות פֿון אַגיטאַציע.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+די אַלצהײַמער־אַסאָציאַציע זאָגט, אַז צוגאַנגען אָן מעדיצין װערן געװײנלעך פֿריִער פֿאָרגעצויגן פֿאַר שלאָף־פּראָבלעמען װאָס זענען פֿאַרבונדן מיט אַלצהײַמער, און אַז מעדיצין פֿאַר אָװנט־אַגיטאַציע זאָל מען נאָר באַטראַכטן, נאָך דעם װי די ריזיקעס זענען געװאָגן. דעם באַשלוס האָט דער דאָקטער. הײבט נישט אָן, הערט נישט אויף, און ענדערט נישט קײן מעדיצין, שלאָף־הילף אָדער צוגאַב אָן מעדיצינישע עצה.
 
-## How do I get through the evenings myself?
+## װי קען איך דורכקומען די אָװנטן אַליין?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+שפּעטע נאָכמיטאָגס קענען זײַן דער שװערסטער טײל פֿון אַ זאָרגערס טאָג. אַז איר קענט, בעט אַ משפּחה־מיטגליד, אַ פֿרײַנד אָדער אַ באַצאָלטן העלפֿער צו פֿאַרטרעטן דעם שפּעטן נאָכמיטאָג אַ פּאָר טעג אַ װאָך, אפֿילו אויף אַ שעה. אונדזער [זאָרגער־זעלבסטפֿלעגן־פֿירער](/caregiving/caregiver-self-care/) צײלט אויף אָפּרו־אָפּציעס און די פֿרײע אַלצהײַמער־אַסאָציאַציע 24/7 הילף־לײן.

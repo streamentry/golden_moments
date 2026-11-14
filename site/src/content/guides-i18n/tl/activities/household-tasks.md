@@ -1,32 +1,28 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Mga Gawaing-bahay bilang Aktibidad para sa Taong may Dementia"
+seoTitle: "Aktibidad sa Bahay para sa Dementia: Pang-araw-araw na Gawain"
+description: "Pagtutupi, pag-uuri, paglalatag ng mesa at simpleng pagluluto ay makabuluhang aktibidad para sa taong may dementia, may tips sa paghanda at kaligtasan."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Ang pang-araw-araw na gawaing-bahay, gaya ng pagtutupi ng tuwalya, pag-uuri ng medyas, paglalatag ng mesa, pagpupunas ng counter, pagdidilig ng halaman at simpleng pagluluto, ay maaaring magbigay sa taong may dementia ng totoong paraan para makatulong. Pumili ng gawaing kilala na niya, hatiin sa isang hakbang sa bawat pagkakataon, alisin ang matatalim o mainit na panganib, at pahalagahan ang pakikilahok higit sa tamang paggawa.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Ang pamilyar na gawaing-bahay ay nakatutulong sa tao na makaramdam na may silbi at bahagi ng sambahayan, na kadalasang mas mahalaga kaysa sa husay ng gawa."
+  - "Hatiin ang bawat gawain sa isang hakbang, ipakita sa halip na sabihin, at tahimik na akuin ang anumang hakbang na naging mahirap."
+  - "I-lock ang kutsilyo, panlinis at detergent pods, at maglagay ng takip sa knob ng kalan o automatic shut-off bago magluto nang magkasama."
+  - "Hindi kailangang tupiin ulit sa harap ng tao ang tinupi na tuwalya. Kung kailangang ulitin ang isang bagay, gawin ito mamaya at hindi nakikita."
+  - "Kung nagdudulot ng pagkabigo ang gawain, lumipat sa mas madaling hakbang, subukan sa ibang oras, o umupo lamang nang magkasama."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Anong gawaing-bahay ang maaari pa ring tulungan ng taong may dementia?"
+    a: "Marami ang kaya pa ring magtupi ng labada, magpares ng medyas, mag-uri ng kubyertos, maglatag ng mesa, magpunas ng counter, magwalis, magdilig ng halaman o paghaluin ang batter. Piliin ang gawaing ginawa ng tao noon at itugma sa kaya niya ngayon. Sa huling yugto, maaaring sapat na ang isang paulit-ulit na galaw, gaya ng pagpapakinis ng napkin."
+  - q: "Ligtas ba para sa taong may dementia na tumulong sa kusina?"
+    a: "Maaari, sa ilalim ng malapitang pagbabantay at tamang ayos. Ilayo sa abot ang kutsilyo, panlinis at anumang mainit, gumamit ng takip sa knob ng kalan o automatic shut-off, at bigyan ang tao ng ligtas na gawain gaya ng paghuhugas ng gulay, paghalo o paglalatag ng plato. Huwag siyang iwan nang mag-isa habang nakabukas ang kalan."
+  - q: "Paano kung mali ang pagkakatupi nila o magulo ang gawa nila?"
+    a: "Hayaan lamang. Ang layunin ay oras na magkasama at pakiramdam na may silbi, hindi perpektong resulta. Kung talagang kailangang ulitin, maghintay hanggang mamaya at gawin ito kapag hindi nakatingin ang tao, para hindi siya makaramdam na itinatama."
+  - q: "Paano kung ayaw nilang tumulong?"
+    a: "Maaaring ang ibig sabihin ng hindi ay napakahirap, nakalilito o nakapapagod ang gawain sa ngayon. Huwag pilitin. Subukan ang mas simpleng bersyon, anyayahan silang samahan ka na lang, o magtanong muli sa mas magandang oras ng araw."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +41,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Maraming taong may dementia ang dekada nang namahala sa tahanan, nagpalaki ng pamilya o nag-ayos ng lugar ng trabaho. Ang paghingi ng tulong sa totoong gawaing-bahay ay maaaring magsabi ng "bahagi ka pa rin ng tahanang ito" sa paraang kakaunting ibang aktibidad ang nakagagawa. Sakop ng pahinang ito kung aling gawain ang kadalasang gumagana, paano ihahanda ang mga ito, paano iaangkop habang nagbabago ang kalagayan, at paano panatilihing ligtas ang kusina at silid-labahan.
 
-## Why do everyday chores work well as activities?
+## Bakit gumagana ang pang-araw-araw na gawaing-bahay bilang aktibidad?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Gumagana ang gawaing-bahay dahil pamilyar ito at may malinaw na layunin. Inilista ng National Institute on Aging ang paghuhugas ng pinggan, paglalatag ng mesa, pagwawalis, pagpupunas ng alikabok, pag-uuri ng sulat, pagtutupi ng labada at pag-uuri ng recycling bilang mga [pang-araw-araw na aktibidad na maaaring ikasiya ng mga taong may Alzheimer's](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Sinasabi ng Alzheimer's Association na ang mga gawain tulad ng paglalatag ng mesa ay makatutulong sa tao na [maramdamang mahalagang bahagi ng tahanan](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Mayroon ding sariling dahilan ang gawain para magsimula. "Puwede mo ba akong tulungan sa mga tuwalyang ito?" ay mas madaling sagutin ng oo kaysa "Gusto mo bang gumawa ng aktibidad?"
 
-## Which household tasks are good to try?
+## Anong gawaing-bahay ang magandang subukan?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Simulan sa mga gawaing ginawa ng tao noon, saka itugma sa kaya niya ngayon.
 
-### Laundry and linens
+### Labada at linen
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Pagtutupi ng tuwalya at maliliit na tela.** Iabot ang basket ng maliliit at patag na bagay. Mapagpatawad ang mga tuwalya: walang maling paraan ng pagtutupi nito.
+- **Pagpapares ng medyas.** Maglagay ng halo-halong tumpok sa mesa. Kung nahihirapang makita ang magkapares, gumamit lamang ng dalawa o tatlong magkakaibang kulay.
+- **Pagpapakinis at pagsasalansan.** Ang napkin, punda o tuwalya ng pinggan ay maaaring pakinisin at ayusin. Mahusay ito sa mas huling yugto, kapag naging napakaraming hakbang na ang pagtutupi.
 
-### Table and kitchen
+### Mesa at kusina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Paglalatag ng mesa.** Ilatag ang isang set bilang modelo at hayaang kopyahin ito ng tao. Kung sobra iyon, iabot ang isang bagay sa bawat pagkakataon: "Narito ang tinidor para sa bawat plato."
+- **Pag-uuri ng kubyertos.** Paghaluin ang malinis na tinidor, kutsara at kutsilyong pang-mantikilya sa lalagyan, at ayusin ito sa tray na may hati-hati. Huwag isama ang matatalas na kutsilyo.
+- **Pagpapatuyo ng pinggan.** Ang plastik o hindi nababasag na pinggan at malambot na tuwalya ay ginagawang ligtas na gawain ito.
+- **Pagpupunas ng mesa o counter.** Basang tela at malinis na ibabaw. Iminumungkahi ng Alzheimer's Association na mag-alok ng tela kung kinakamot na ng tao ang mesa gamit ang kamay, para maging kapaki-pakinabang ang galaw na hindi mapakali.
 
-### Around the house
+### Sa paligid ng bahay
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Pagpupunas ng alikabok.** Malambot na pamunas at ilang matibay na ibabaw, gaya ng coffee table o bookshelf.
+- **Pag-uuri ng sulat.** Iabot ang junk mail at mga katalogo para pag-uriin sa mga tumpok: itago, i-recycle, buksan mamaya. Ilayo ang mga totoong bayarin at tseke.
+- **Pag-uuri ng recycling.** Malinis na lata, bote at papel sa magkakahiwalay na bin.
+- **Pagwawalis.** Maliit na walis sa patio o sahig ng kusina, kung matatag pa ang balanse.
+- **Pagdidilig ng halaman.** Maliit at magaan na pandilig at ilang halamang madaling abutin.
 
-### Simple cooking with supervision
+### Simpleng pagluluto na may pagbabantay
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Maaaring pukawin ng pagluluto ang malalakas at kaaya-ayang damdamin. Iminumungkahi ng NIA na hayaan ang tao na mamili ng sangkap, sumukat, humalo at magbuhos, o simpleng sabihin sa iba kung paano lutuin ang paboritong resipe. Kabilang sa magagandang gawain:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- paghuhugas ng gulay o prutas
+- paghalo ng batter o malamig na salad
+- pagpunit ng lettuce
+- pagmamantikilya ng tinapay gamit ang mapurol na kutsilyo
+- paglalagay ng cookie dough sa tray
+- paglalagay ng toppings sa pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Kung naging mahirap ang pagsukat, iminumungkahi ng Alzheimer's Association na ikaw na ang tapusin ang pagsukat at ibigay sa kanya ang ibang hakbang, gaya ng paghalo.
 
-## How do I set up a chore so it goes well?
+## Paano ko ihahanda nang maayos ang isang gawain?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Piliin ang tamang oras.** Pumili ng bahagi ng araw na karaniwang pahinga at kalmado ang tao. Para sa maraming tao, ito ang umaga.
+2. **Linisin ang espasyo.** Isang gawain, isang ibabaw, walang dagdag sa mesa.
+3. **Anyayahan, huwag italaga.** "Kailangan ko ng tulong dito" ay mas mabisa kaysa "Oras na para magtupi ng labada."
+4. **Ipakita ang una.** Itupi nang dahan-dahan ang isang tuwalya, saka iabot ang susunod. Mas malinaw ang pagpapakita kaysa pagpapaliwanag.
+5. **Isang hakbang sa bawat pagkakataon.** Ang sobrang tagubilin nang sabay-sabay ay nakalilito. Maghintay na matapos ang isang hakbang bago banggitin ang susunod.
+6. **Magtrabaho nang magkatabi.** Ang paggawa ng parehong gawain sa tabi ng isa't isa ay parang pagsasama, hindi pangangasiwa.
+7. **Pag-usapan ang gawain, hindi ang resulta.** "Ang lambot ng mga ito" o "Ikuwento mo sa akin kung paano mo inaayos ang aparador ng linen" ay nag-aanyaya ng usapan nang hindi sinusubok ang sinuman.
 
-## How do I adapt chores as abilities change?
+## Paano ko iaangkop ang gawain habang nagbabago ang kakayahan?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Nagbabago ang kakayahan sa paglipas ng panahon, at kahit araw-araw. Iminumungkahi ng Alzheimer's Association na lumipat sa mas simple at mas paulit-ulit na gawain habang umuusad ang sakit.
 
-| If this has become hard | Try this instead |
+| Kung naging mahirap ito | Subukan ito sa halip |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Pagtutupi ng malalaking kumot | Pagtutupi ng maliliit na tuwalya o pagpapakinis ng napkin |
+| Paglalatag ng buong mesa | Paglalagay ng isang napkin sa bawat upuan |
+| Pag-uuri ng sulat sa mga kategorya | Pagsasalansan ng sobre sa isang tumpok |
+| Pagsunod sa resipe | Paghahalo, o panonood at pagtikim habang nagluluto ka |
+| Pagwawalis ng buong sahig | Pagpupunas ng isang maliit na mesa |
+| Paggawa ng gawain mismo | Pag-upo sa tabi mo at pagsama sa iyo habang ginagawa mo ito |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Mahalaga ang panonood. Sinasabi ng NIA na may mga taong nasisiyahan lamang manood, at magandang paraan iyon ng pakikilahok.
 
-## How do I keep household tasks safe?
+## Paano ko pananatiling ligtas ang mga gawaing-bahay?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Nauuna ang kaligtasan, lalo na sa kusina. Kabilang sa [mga tip sa kaligtasan sa bahay para sa tagapag-alaga ng Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ng NIA ang:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- I-lock o alisin ang mga panlinis, kasama ang detergent pods sa labada na maaaring magmukhang kendi.
+- Itago ang kutsilyo, gunting at de-kuryenteng kagamitan sa naka-lock na lugar.
+- Maglagay ng safety knob at automatic shut-off switch sa kalan.
+- Maglagay ng karatulang "Stop" o "Napakainit" malapit sa oven, toaster at plantsa, sa lugar na hindi maaaring pagsimulan ng apoy.
+- Itakda ang water heater sa 120°F para mabawasan ang panganib ng pagkapaso.
+- Alisin ang artipisyal na prutas at magnet na hugis-pagkain, dahil maaaring mukhang nakakain ang mga ito.
 
-A few more practical habits help:
+Nakatutulong din ang ilan pang praktikal na gawi:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Manatili sa silid tuwing may gamit ang kalan, oven o matalas na kasangkapan.
+- Gumamit ng hindi nababasag na pinggan sa pagpapatuyo at paglalatag ng mesa.
+- Panatilihing tuyo at malinis ang sahig habang nagwawalis o nagmamop.
+- Kung dating gumamit ng kasangkapan ang tao, iminumungkahi ng Alzheimer's Association na alisin ang mapanganib na bagay sa workshop, para ligtas pa ring masiyahan ang tao sa gawain, gaya ng pagpapakinis ng kahoy.
 
-## What if they do it "wrong"?
+## Paano kung "mali" ang ginagawa nila?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Hayaan. Ang tuwalyang tinupi sa tatlo sa halip na kalahati ay tuwalya pa rin na nakatupi. Malinaw na sinabi ng Alzheimer's Association: ang mahalaga ay ang oras na magkasama at ang pakiramdam ng tao na may silbi, hindi kung tama ang pagtutupi ng tuwalya. Kung talagang kailangang ulitin, maghintay hanggang mamaya at gawin ito nang wala sa paningin.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Ang pagtatama sa sandaling iyon ay maaaring gawing paalala ng nawala ang kaaya-ayang gawain. Ang "Salamat, malaking tulong iyan" ang halos laging tamang sabihin.
 
-## When should we stop?
+## Kailan dapat huminto?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Huminto o lumipat kapag nakita mo ang pagkabigo, pagod o pagkawala ng interes. Ang pagtigil nang maaga ay magandang resulta, hindi kabiguan. Maaari kang:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- lumipat sa mas madaling hakbang
+- umupo sa mas nakapagpapahingang gawain, gaya ng musika o isang tasa ng kape
+- subukan ulit mamaya o sa ibang araw
+- umupo lang nang magkasama
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Kung sinabi ng tao na hindi, huwag pilitin. Tingnan ang [kapag sinabi nilang hindi](/caregiving/when-they-say-no/) para sa mga banayad na paraan ng pagtugon.
 
-## Low-effort extras for a quieter moment
+## Mga magagaan na gawain para sa tahimik na sandali
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Kapag hindi na posible ang pisikal na gawain, maaari pa ring gawin nang nakaupo ang pag-uuri at pagtutugma. Hinahayaan ka ng [pag-uri-uriin nang magkasama](/games/sort-together/) na i-tap ang mga larawan papunta sa basket ng kusina o hardin, at ang [pares ng larawan](/games/picture-pairs/) ay banayad na larong pagtutugma na may malalaking larawan at walang timer. Ang [mga kard para sa usapan](/games/conversation-cards/) ay may bukas na tanong tungkol sa bahay at pamilya, na bagay sa kape pagkatapos ng gawain.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Para sa tulong sa pagsasama ng gawain sa araw, tingnan ang aming gabay sa [banayad na pang-araw-araw na gawain](/activities/daily-routine/). Para sa mas maraming ideya ayon sa yugto, tingnan ang [mga aktibidad sa gitnang yugto](/activities/middle-stage/).

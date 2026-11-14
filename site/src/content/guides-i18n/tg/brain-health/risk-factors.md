@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Омилҳои хатари деменсия: 14 омиле, ки Комиссияи Лансет номбар кардааст"
+seoTitle: "Омилҳои хатари деменсия: 14 омили Лансет"
+description: "14 омили тағйирпазири хатари деменсия, ки Комиссияи Лансет дар соли 2024 номбар кардааст, аз рӯи марҳилаи зиндагӣ ва он чи метавон бо духтур баррасӣ кард."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Комиссияи Лансет дар соли 2024 14 омили эҳтимолан тағйирпазири хатари деменсияро
+  номбар кард: таҳсилоти камтар, норасоии шунавоӣ, холестерини баланди LDL, ғамгинӣ,
+  осеби сар, камфаъолӣ, диабет, тамокукашӣ, фишори баланди хун, фарбеҳӣ, нӯшидани
+  зиёди машрубот, танҳоии иҷтимоӣ, ифлосии ҳаво ва аз даст додани биноии табобатнашуда.
+  Онҳо якҷоя бо тақрибан 45% ҳолатҳо дар саросари ҷаҳон алоқаманданд, бидуни кафолат
+  барои ягон шахси алоҳида.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 омил тамоми умрро фаро мегиранд: яке дар аввали зиндагӣ, даҳто дар миёнсолӣ ва сето дар синни калон."
+  - "Норасоии шунавоӣ ва холестерини баланди LDL дар миёнсолӣ ҳар кадом бо тақрибан 7% ҳолатҳои деменсия дар ҷаҳон алоқаманданд, ки бузургтарин ҳиссаи ягон омили алоҳида аст."
+  - "Ин фоизҳо тахминҳои аҳолианд, ки сабабу натиҷаро фарз мекунанд. Баъзе алоқаҳо шояд танҳо қисман сабабӣ бошанд."
+  - "Синну сол ва генҳо, ки касе наметавонад онҳоро тағйир диҳад, низ омилҳои бузурги хатаранд. Кам кардани 14 хатар кафолат намедиҳад, ки касе аз деменсия эмин мемонад."
+  - "Бисёр қадамҳои марбута, чун санҷиши фишори хун, шунавоӣ ва биноӣ, аз ҷиҳатҳои дигар низ барои саломатӣ хубанд ва арзиши бо духтур баррасӣ карданро доранд."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "14 омили тағйирпазири хатари деменсия кадомҳоянд?"
+    a: "Комиссияи Лансет дар соли 2024 таҳсилоти камтар, норасоии шунавоӣ, холестерини баланди LDL, ғамгинӣ, осеби мағзи сар, камфаъолии ҷисмонӣ, диабет, тамокукашӣ, фишори баланди хун, фарбеҳӣ, машруботи аз ҳад зиёд, танҳоии иҷтимоӣ, ифлосии ҳаво ва аз даст додани биноии табобатнашударо номбар кард. Онҳо якҷоя бо қариб нисфи ҳолатҳои деменсия дар саросари ҷаҳон алоқаманданд."
+  - q: "Кадом омили хатари деменсия аз ҳама муҳимтар аст?"
+    a: "Дар байни аҳолии ҷаҳон Комиссия ҳисоб кард, ки норасоии шунавоӣ ва холестерини баланди LDL дар миёнсолӣ ҳар кадом бо тақрибан 7% ҳолатҳо алоқаманданд ва баъд таҳсилоти камтар ва танҳоии иҷтимоӣ бо тақрибан 5% ҳар кадом. Кадом омилҳо барои як шахс муҳимтаранд, аз саломатии худи ӯ вобаста аст, бинобар ин духтур беҳтарин роҳнамост."
+  - q: "Оё ду омили хатар дар соли 2024 нав илова шуданд?"
+    a: "Бале. Гузориши соли 2024 холестерини баланди LDL (бад) дар миёнсолӣ ва аз даст додани биноии табобатнашударо дар синни калон ба 12 омиле, ки дар соли 2020 номбар шуда буданд, илова кард. Комиссия онҳоро мутаносибан бо тақрибан 7% ва 2% ҳолатҳо алоқаманд кард."
+  - q: "Оё синну сол омили тағйирпазири хатар аст?"
+    a: "Не. Синну сол бузургтарин омили маълуми хатари бемории Алтсгеймер аст ва онро тағйир додан мумкин нест. Генҳо низ нақш доранд. 14 омили ин саҳифа онҳое мебошанд, ки тадқиқот нишон медиҳад, эҳтимолан тағйир додани онҳо мумкин аст."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Омили хатар чизест, ки бо эҳтимоли баландтари пайдо шудани як ҳолат алоқаманд аст. Ин дар ҳар ҳолат сабаб нест ва доштани як омил маънои онро надорад, ки шумо ба деменсия гирифтор мешавед. Ин саҳифа 14 омили хатари деменсияро номбар мекунад, ки Комиссияи Лансет дар соли 2024 мегӯяд, эҳтимолан тағйир додани онҳо мумкин аст, он чи тадқиқот онҳоро бо он алоқаманд мекунад ва он чи шумо метавонед бо духтур баррасӣ кунед.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Барои тасвири васеътар, аз ҷумла он чи озмоишҳои калон ёфтанд, аз [Оё деменсияро пешгирӣ кардан мумкин аст? Тадқиқот чӣ мегӯяд](/brain-health/can-dementia-be-prevented/) оғоз кунед. Ин маълумоти умумист, на маслиҳати тиббӣ; [огоҳиномаи тиббии мо](/medical-disclaimer/)-ро бинед.
 
-## What are the 14 risk factors for dementia?
+## 14 омили хатари деменсия кадомҳоянд?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Комиссияи Лансет дар соли 2024](https://doi.org/10.1016/S0140-6736(24)01296-0), ки 27 тадқиқотчии деменсия навиштаанд, ҳисоб кард, ки 14 омили эҳтимолан тағйирпазири хатар якҷоя тақрибан 45% ҳолатҳои деменсияро дар саросари ҷаҳон фаро мегиранд. Фоизи ҳар як омили зерин тахмини Комиссия дар бораи ҳиссаи ҳолатҳои ҷаҳонист, ки бо он алоқаманданд ва ба ададҳои бутун яклухт карда шудааст. Рақамҳо ҳамдигарро мепӯшонанд, зеро бисёр одамон якбора якчанд хатар доранд, барои ҳамин онҳо ба 45% меоянд, на бештар.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Омили хатар | Марҳилаи зиндагӣ | Ҳиссаи ҳолатҳо | Тадқиқот чиро алоқаманд мекунад | Шумо чӣ кор карда метавонед |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Таҳсилоти камтар | Аввали зиндагӣ | 5% | Солҳои камтари мактабхонӣ бо хатари баландтар алоқаманд аст. Аз ҷиҳати зеҳнӣ фаъол будан дар миёнсолӣ низ муҳофизатӣ менамояд, ҳатто барои одамони дорои мактабхонии кам. | Дар ҳар синну сол омӯзиш ва корҳои зеҳнро идома диҳед: хондан, ҳавасҳо, дарсҳо, бозиҳо бо дигарон. |
+| Норасоии шунавоӣ | Миёнсолӣ | 7% | Норасоии шунавоии табобатнашуда бо хатари баландтар алоқаманд аст. Тадқиқотҳое, ки одамонро дар вақт пайгирӣ мекунанд, истифодаи дастгоҳи шунавоиро бо хатари камтар алоқаманд мекунанд. | Шунавоиатонро санҷонед. Пурсед, ки оё дастгоҳи шунавоӣ кӯмак мекунад ва агар таъин шавад, онро истифода баред. Гӯшҳоро аз садои баланд муҳофизат кунед. |
+| Холестерини баланди LDL | Миёнсолӣ (аз тақрибан 40-солагӣ) | 7% | Холестерини баланди LDL («бад») дар миёнсолӣ бо хатари баландтар алоқаманд аст. Тадқиқотҳои мушоҳидавӣ истифодаи статинҳоро бо хатари камтар алоқаманд мекунанд, аммо озмоишҳо дар синни калон инро нишон надодаанд. | Аз духтур пурсед, ки оё холестеринатонро санҷидан лозим аст ва агар лозим бошад, чӣ кор кардан мумкин. |
+| Ғамгинӣ | Миёнсолӣ | 3% | Ғамгинӣ бо хатари баландтар алоқаманд аст. Дар синни калон ғамгинӣ метавонад нишонаи барвақти деменсия низ бошад. | Дар бораи кайфияти паст ё аз даст додани таваҷҷӯҳ, ки зиёда аз ду ҳафта давом мекунад, ба духтур бигӯед. Ғамгинӣ табобатшаванда аст. |
+| Осеби мағзи сар | Миёнсолӣ | 3% | Осеби сар дар ҳар синну сол ва аз ҳар манбаъ, аз ҷумла варзишҳои тамосӣ, бо хатари баландтар алоқаманд аст. | Барои дучархасаворӣ ва варзишҳои тамосӣ тоскулоҳ пӯшед. Дар бораи пешгирии афтодан пурсед. Пас аз осеби сар истироҳат кунед ва ташхис гузаронед. |
+| Камфаъолии ҷисмонӣ | Миёнсолӣ | 2% | Одамоне, ки машқ ва варзиш мекунанд, камтар ба деменсия гирифтор мешаванд. Далелҳои озмоишӣ ҳанӯз маҳдуданд. | Пурсед, ки кадом фаъолият барои шумо бехатар аст ва чизеро, ки ба шумо маъқул аст, ёбед. [Роҳнамои машқи мо](/brain-health/exercise/)-ро бинед. |
+| Диабет | Миёнсолӣ | 2% | Диабет, хусусан вақте дар миёнсолӣ оғоз мешавад ё дарозтар давом мекунад, бо хатари баландтар алоқаманд аст. | Қанди хунро санҷонед. Агар диабет дошта бошед, бо гурӯҳи нигоҳубинатон оид ба бехатар идора кардани он кор кунед. |
+| Тамокукашӣ | Миёнсолӣ | 2% | Тамокукашӣ бо хатари баландтар алоқаманд аст. Тадқиқотҳо мебинанд, ки тамокукашони собиқ ҳамон хатари афзударо надоранд, ки касоне, ки тамоку кашиданро давом медиҳанд. | Дар бораи дастгирӣ барои тарк кардан пурсед. Тарк кардан дар ҳар синну сол арзиш дорад. |
+| Фишори баланди хун | Миёнсолӣ | 2% | Фишори баланди хун дар миёнсолӣ бо хатари баландтар алоқаманд аст. Озмоишҳои доруҳои фишори хун хатари каме камтари деменсия ё норасоии шинохтиро нишон медиҳанд. | Рақамҳои худро донед. Комиссия адади болоии 130 ё камтарро аз тақрибан 40-солагӣ пешниҳод мекунад; пурсед, ки кадом ҳадаф барои шумо мувофиқ аст. |
+| Фарбеҳӣ | Миёнсолӣ | 1% | Фарбеҳӣ дар миёнсолӣ бо хатари баландтар алоқаманд аст ва он хатари диабетро низ афзоиш медиҳад. | Аз духтур дар бораи вазни солим барои шумо пурсед. Пиронсолон бояд бе маслиҳати тиббӣ барои паст кардани вазн парҳез нагиранд. |
+| Машруботи аз ҳад зиёд | Миёнсолӣ | 1% | Нӯшидани зиёд бо хатари баландтар алоқаманд аст. Кам кардани нӯшидани зиёд бо хатари камтар алоқаманд аст. | Пурсед, ки ҳадди бехатар барои шумо чист, хусусан бо доруҳоятон. |
+| Танҳоии иҷтимоӣ | Синни калон | 5% | Тамоси иҷтимоии кам бо хатари баландтар алоқаманд аст. | Бо одамон ба тарзе, ки ба шумо маъқул аст, дар тамос бошед. [Роҳнамои алоқаи иҷтимоии мо](/brain-health/social-connection/)-ро бинед. |
+| Ифлосии ҳаво | Синни калон | 3% | Зиндагӣ дар ҳавои ифлостар бо хатари баландтар алоқаманд аст. Тадқиқотҳо ҳавои тозаро бо хатари камтар алоқаманд мекунанд. | Бештар масъалаи сиёсати давлатист. Огоҳиҳои сифати ҳавои маҳаллиро санҷед ва дар рӯзҳои хеле ифлос вақти берунро маҳдуд кунед. |
+| Аз даст додани биноии табобатнашуда | Синни калон | 2% | Мушкилоти ислоҳнашудаи биноӣ бо хатари баландтар алоқаманд аст. Як тадқиқоти калони ИМА ҷарроҳии катарактаро бо хатари камтар алоқаманд кард. | Мунтазам чашмро санҷонед. Пурсед, ки оё мушкилот, аз қабили катаракта, табобатшаванда аст. |
 
-## How should I read these percentages?
+## Ин фоизҳоро чӣ тавр хондан лозим?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Эҳтиёткорона. Гузориши худи Комиссия якчанд нуктаро дорад, ки дар хотир доштан арзанд:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Онҳо аҳолиро тавсиф мекунанд, на одамонро.** [Хулосаи гузориши](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) Коллеҷи университетии Лондон қайд мекунад, ки кам кардани хатар дар сатҳи аҳолӣ кор мекунад ва кафолат намедиҳад, ки ягон шахси алоҳида аз деменсия эмин мемонад.
+- **Онҳо сабабу натиҷаро фарз мекунанд.** Муаллифон танҳо омилҳоро бо далели боварибахш дохил карданд, аммо мегӯянд, ки баъзе алоқаҳо шояд танҳо қисман сабабӣ бошанд.
+- **Инҳо рақамҳои ҷаҳонианд.** Аксари маълумот аз кишварҳои дорои даромади баланд меояд ва ҳиссаи воқеӣ барои ҳар кишвар ё ҷамоа фарқ хоҳад кард.
+- **Фоизҳои хурд низ метавонанд муҳим бошанд.** Омиле, ки бо 2% ҳолатҳо дар ҷаҳон алоқаманд аст, ба ҳар ҳол ба шумораи хеле зиёди одамон таъсир мерасонад.
 
-## Which risk factors were added in 2024?
+## Кадом омилҳо дар соли 2024 илова шуданд?
 
-The 2024 report added two factors to the 12 named in 2020:
+Гузориши соли 2024 ду омилро ба 12 омиле, ки дар соли 2020 номбар шуда буданд, илова кард:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Холестерини баланди LDL дар миёнсолӣ**, ки бо тақрибан 7% ҳолатҳо алоқаманд аст.
+- **Аз даст додани биноии табобатнашуда дар синни калон**, ки бо тақрибан 2% ҳолатҳо алоқаманд аст.
 
-## What risk factors cannot be changed?
+## Кадом омилҳои хатарро тағйир додан мумкин нест?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Институти миллии пиршавӣ мегӯяд, ки [синну сол бузургтарин омили маълуми хатари Алтсгеймер аст](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) ва касе наметавонад онро тағйир диҳад. Генҳо низ нақш доранд; як гени маъруф, ки ба хатари Алтсгеймер таъсир мерасонад, APOE ном дорад. NIA илова мекунад, ки олимон ҳанӯз пурра намефаҳманд, ки Алтсгеймер дар аксари одамон аз чӣ ба вуҷуд меояд. Комиссияи Лансет қайд мекунад, ки хатарҳои эҳтимолан тағйирпазирро новобаста аз хатари генетикии шахс паст кардан мумкин аст.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Азбаски синну сол ва генҳо чунин нақши бузург доранд, бисёр одамоне, ки ягон аз 14 омили хатарро надоранд, ба ҳар ҳол ба деменсия гирифтор мешаванд. Ин гуноҳи ҳеҷ касе нест.
 
-## What does the trial evidence say about changing these risks?
+## Далелҳои озмоишӣ дар бораи тағйири ин хатарҳо чӣ мегӯянд?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Алоқаманд кардани омили хатар бо деменсия ҳамон исбот кардан нест, ки тағйири он хатари деменсияро кам мекунад. Чанд мисол дар бораи он, ки далелҳои озмоишӣ дар куҷо истодаанд:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Фишори хун.** Дар озмоиши SPRINT MIND ҳадафи фишори пасттар норасоии сабуки шинохтиро ба таври назаррас кам кард. Он деменсияи эҳтимолиро ба таври назаррас кам накард, гарчанде озмоиш шояд барои нишон додани ин хеле хурд буд ([SPRINT MIND дар JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Дастгоҳҳои шунавоӣ.** Комиссияи Лансет озмоиши сесолаи дастгоҳи шунавоиро тавсиф мекунад, ки дар маҷмӯъ ягон таъсир ба фикркунӣ наёфт, аммо фоидаро дар зергурӯҳи одамони хатараш баландтар ёфт. Тадқиқотҳое, ки одамонро дар вақт пайгирӣ мекунанд, истифодаи дастгоҳи шунавоиро бо хатари камтар алоқаманд мекунанд. [Роҳнамои шунавоии мо](/brain-health/hearing/) бештар дорад.
+- **Фаъолияти ҷисмонӣ.** Институти миллии пиршавӣ мегӯяд, ки барои хулоса баровардан, ки машқ метавонад норасоии сабуки шинохтӣ ё Алтсгеймерро пешгирӣ ё суст кунад, далелҳои озмоишии клиникӣ кофӣ нест, гарчанде баъзе тадқиқотҳо нишон медиҳанд, ки он шояд ба коҳиши вобаста ба синну сол кӯмак кунад ([NIA дар бораи пешгирии Алтсгеймер](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Озмоишҳои дароз, ки пайдо шудани деменсияро интизор мешаванд, суст ва гаронанд, бинобар ин барои бисёр омилҳо беҳтарин далел аз тадқиқотҳое хоҳад омад, ки одамонро дар тӯли солҳо пайгирӣ мекунанд. Ин далел муфид аст, аммо аз озмоиш заифтар аст.
 
-## What about sleep and diet?
+## Хоб ва парҳез чӣ мешаванд?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Комиссия хоб ва парҳезро баррасӣ кард, аммо онҳоро ба рӯйхат илова накард, зеро далелҳо кофӣ қавӣ ё мувофиқ набуданд. Роҳнамоҳои мо оид ба [хоб](/brain-health/sleep/) ва [парҳез](/brain-health/diet/) шарҳ медиҳанд, ки чӣ маълум аст.
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Муоинаи солона вақти хуб барои матраҳ кардани ин мавзӯъҳост. Шумо метавонед ин рӯйхатро биёред ва пурсед:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Рақамҳои фишори хун, қанди хун ва холестерини ман чандтоянд ва оё ягонаи онҳо диққат мехоҳад?
+- Оё бояд шунавоӣ ва чашмонамро санҷонам?
+- Оё фаъолияте, ки мекунам, барои ман бехатар ва кофист?
+- Оё ягон доруи ман метавонад ба хотира ё фикркунӣ таъсир расонад?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Пеш аз тағйири доруҳо, парҳез, рӯза, машқ ё иловаҳо аввал бо духтур сӯҳбат кунед. Агар шумо ё касе, ки нигоҳубин мекунед, парешонии ногаҳонӣ, сустии як тараф ё душвории гуфторро дошта бошед, ба рақами фавқулоддаи маҳаллии худ занг занед.

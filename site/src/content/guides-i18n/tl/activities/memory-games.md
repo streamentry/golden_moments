@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Mga Laro ng Memorya para sa Nakatatandang may Dementia: Banayad na Bersyon na Hindi Nagsusubok"
+seoTitle: "Pinakamahusay na Laro ng Memorya para sa Dementia, Banayad na Ideya"
+description: "Laro ng pagtutugma, larawan at card para sa nakatatandang may dementia, paano ito laruin nang walang pressure: nakalantad ang larawan, walang iskor."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Ang mga laro ng memorya para sa nakatatandang may dementia ay pinakamahusay kapag
+  hindi nakadepende sa memorya. Maglaro ng pagtutugma na nakalantad ang mga larawan,
+  gumamit ng apat hanggang anim na tile, maglaro bilang magkakampi at iwasan ang iskor.
+  Mas madali ang pagkilala sa larawan kaysa sa pag-alala nito, kaya pumili ng larong
+  nakikita ang lahat. Ang kasiyahan, hindi ang resulta, ang layunin.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Ang klasikong laro ng memorya ay nagtatago ng mga card, at iyon mismo ang nahihirapan ang dementia. Itira ang mga larawang nakalantad sa halip."
+  - "Mas kaunting piyesa, mas malalaking larawan at isang pagpili sa bawat pagkakataon ang nagpapanatiling kaaya-aya ang laro."
+  - "Maglaro bilang magkakampi, magpalitan sa pagtulong at alisin ang iskor. Walang dapat mailagay sa alanganin."
+  - "Walang laro ng memorya ang napatunayang nakagagamot, nakapagpapabagal o nakapipigil sa dementia. Maglaro dahil kaaya-aya itong oras na magkasama."
+  - "Tumigil habang masaya pa. Ang pag-uusap tungkol sa mga larawan ay magandang resulta."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Ano ang magandang laro ng memorya para sa taong may dementia?"
+    a: "Isang laro ng pagtutugma na may malalaki at pamilyar na larawang maaaring manatiling nakalantad, gaya ng Pares ng larawan na apat o anim na tile ang setting. Ang paghahanap ng kambal ng larawang nakikita mo ay nakasisiya nang hindi sinusubok ang panandaliang memorya. Ang Hanapin ang magkapareho ay mas simple pa, na may isang larawang itutugma sa dalawa hanggang apat na pagpipilian."
+  - q: "Nakatutulong ba ang mga laro ng memorya sa dementia?"
+    a: "Hindi. Walang laro ng memorya ang napatunayang nakagagamot, nakapagpapabagal o nakapipigil sa dementia. Natuklasan ng isang Cochrane review na limitado ang ebidensya sa computer brain training para masabing nakapipigil ito sa dementia. Maaari pa rin itong maging mainit na paraan ng pagsasama. Piliin ang mga ito para sa kasiyahan at samahan."
+  - q: "Dapat ko bang laruin ang klasikong Concentration kasama ang taong may dementia?"
+    a: "Sa simula, may ilang taong nasisiyahan pa rin dito, lalo na kung kaunti ang card. Kung nagsisimulang magdulot ng inis ang pag-alala kung nasaan ang mga card, ilantad na lang ang mga card at magkasamang hanapin ang mga pares. Napapanatili nito ang pagtutugma at inaalis ang pagsusulit sa memorya."
+  - q: "Anong laro ng memorya ang mabuti para sa nakatatanda sa grupo?"
+    a: "Gumagana para sa grupo ang bingo ng larawan na may tagatawag sa screen, pagtatapos ng pamilyar na kasabihan nang malakas, at mga kard para sa usapan. Maglaro hanggang mapuno ang bawat kard at iwasang banggitin kung sino ang nakasagot, para walang makaramdam na napansin nang mag-isa."
+  - q: "May libreng laro ba ng memorya para sa nakatatanda online?"
+    a: "Mayroon. Ang mga laro sa site na ito, kasama ang Pares ng larawan, Hanapin ang magkapareho, Mga pares ng larawan at Puzzle ng larawan, ay libre, hindi nangangailangan ng pagpaparehistro, at gumagana sa telepono, tableta at kompyuter. Wala sa mga ito ang may timer o iskor."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Kapag naghanap ka ng “memory games for seniors,” karamihan sa makikita mo ay ginawa para sa taong gustong magsanay ng isip: nakatagong card, orasang nagbibilang pababa, antas at iskor. Para sa taong may dementia, ginagawang pagsusulit ng mga katangiang ito ang laro sa mismong bagay na naging mahirap na para sa kanya. Maaaring laruin ang parehong mga laro sa mas banayad na paraan. Ipinapakita ng pahinang ito kung paano, at naglilista ng mga larong bagay sa bawat yugto.
 
-## Why do classic memory games frustrate people with dementia?
+## Bakit nakabibigo sa mga tao na may dementia ang klasikong laro ng memorya?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Dahil nakadepende ang mga ito sa paghawak ng bagong impormasyon sa isip, na kadalasang unang naaapektuhan ng Alzheimer's, ang pinakakaraniwang sanhi ng dementia. Sinasabi ng [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) na ang pinakakaraniwang maagang sintomas ng Alzheimer's ay ang kahirapang tandaan ang bagong natutunang impormasyon. Sa klasikong Concentration, ibinabaling mo ang dalawang card, tinatandaan kung nasaan ang mga ito, at ginagamit iyon makalipas ang isang minuto. Bagong impormasyon iyon, hawak at inaalala.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Magdagdag ng timer, iskor o buzzer sa maling sagot, at naaalala sa tao ang mga bagay na hindi na niya kaya, sa harap ng taong mahal niya. Maraming tao ang tahimik na tumitigil sa paglalaro.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Iba at kadalasang mas madali ang pagkilala sa bagay na nakikita mo. Nakasisiya ang ituro ang ikalawang tasa kapag nakikita nang dalawa. Kaya ang susi ay panatilihin ang pagtutugma at alisin ang pagsusulit sa memorya.
 
-## How do you make a memory game gentle?
+## Paano gawing banayad ang laro ng memorya?
 
-These adjustments work for card games, board games and games on a screen.
+Gumagana ang mga pagbabagong ito sa mga laro ng card, board game at laro sa screen.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Panatilihing nakalantad ang mga larawan.** Ang pagtutugma ng larawang nakikita ay tunay pa ring laro, at kadalasan ay nakasisiya.
+2. **Gumamit ng mas kaunting piyesa.** Magsimula sa dalawa o tatlong pares. Dagdagan lamang kung parang sobrang dali na at gusto pa niya.
+3. **Pumili ng malalaki, pamilyar, pang-adultong larawan.** Tasa ng tsaa, bulaklak na mirasol, bangkang de-layag. Hindi cartoon, at hindi abalang eksena.
+4. **Maglaro bilang magkakampi.** “Hanapin natin ang mga aso” sa halip na “ikaw ang may turn.” Magpalitan sa pagturo at pagtulong.
+5. **Alisin ang iskor.** Hindi kailangang manalo ang sinuman. Kung may magtanong, sapat na ang simpleng “nagawa natin.”
+6. **Huwag habulin ang orasan.** Walang timer, at walang pagmamadali sa pagitan ng mga turn.
+7. **Pag-usapan ang mga larawan.** “Tingnan mo ang bangkang iyan. Nakapaglayag ka na ba?” Kadalasan, ang usapan ang pinakamagandang bahagi.
+8. **Tumigil sa magandang sandali.** Tapusin pagkatapos ng isang pagtutugma, habang kaaya-aya pa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Iminumungkahi rin ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ang parehong diwa bilang pangkalahatang payo: itugma ang aktibidad sa kaya ng tao, bantayan ang pagkainis, at tiyaking nakararamdam siya ng tagumpay.
 
-## Gentle memory and matching games to try
+## Banayad na laro ng memorya at pagtutugma na subukan
 
-### Picture pairs (matching with pictures showing)
+### Pares ng larawan (pagtutugma na nakikita ang mga larawan)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+Ang [Pares ng larawan](/games/picture-pairs/) ay larong pagtutugma na may malalaking larawan at 4 hanggang 12 tile. Maaaring manatiling nakikita ang mga larawan, kaya ang tungkulin ay humanap ng kambal, hindi tandaan kung nasaan ang mga ito. Magsimula sa apat na tile. Para sa taong nasa maagang yugto na gusto ng kaunting hamon, maaari kang lumipat sa **Nakatagong larawan**, pero bumalik sa pagpapakita ng larawan sa sandaling hindi na ito masaya.
 
-### Find the same
+### Hanapin ang magkapareho
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+Ang [Hanapin ang magkapareho](/games/find-the-same/) ay nagpapakita ng isang larawan sa itaas at dalawa hanggang apat na pagpipilian sa ibaba. I-tap ang tumutugma. Ito ang pinakasimpleng laro ng pagtutugma sa site at bagay sa mga taong nahihirapan sa buong grid, kabilang ang marami sa huling yugto na may kasama sa tabi.
 
-### Photo pairs (family photo memory game)
+### Mga pares ng larawan (laro ng memorya na gawa sa larawan ng pamilya)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+Ginagawang laro ng pagtutugma ng [Mga pares ng larawan](/games/photo-pairs/) ang mga litratong pipiliin mo: ang aso, ang hardin, ang bahay sa lawa. Ang mga pamilyar na mukha at lugar ay kadalasang mas nagpapasiklab ng usapan kaysa anumang stock na larawan. Nananatili ang mga litrato sa iyong browser at hindi kailanman ina-upload.
 
-### Sort together
+### Pag-uri-uriin nang magkasama
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+Hinihiling ng [Pag-uri-uriin nang magkasama](/games/sort-together/) na ilagay mo ang bawat larawan sa basket na nararapat dito, gaya ng kusina o hardin. Ang pag-uuri ay gumagamit ng matagal nang kaalaman kung paano gumagana ang mundo, hindi ng panandaliang memorya.
 
-### Picture puzzle
+### Puzzle ng larawan
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+Hinahati ng [Puzzle ng larawan](/games/picture-puzzle/) ang larawan sa 4 o 9 na piraso. I-tap ang dalawang piraso para magpalitan hanggang mabuo ang larawan. Nananatili sa screen ang buong larawan bilang gabay.
 
-### Real cards on the table
+### Totoong card sa mesa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Hindi mo kailangan ng screen. Kumuha ng magkatugmang pares mula sa dalawang deck ng card o sa set ng larawang card. Ilatag ang mga ito nang nakalantad sa dalawang hanay at magkasamang hanapin ang mga pares. Mamaya, pag-uri-uriin ayon sa kulay o suit. Inilista ng [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ang mga card game at board game bilang aktibidad para sa maagang yugto.
 
-## Which memory games suit each stage?
+## Aling laro ng memorya ang bagay sa bawat yugto?
 
-Stages are loose labels. Go by what the person enjoys today.
+Maluwag na tawag ang mga yugto. Tingnan kung ano ang gusto ng tao ngayon.
 
-| Stage | Games that often fit | How to set them up |
+| Yugto | Mga laro na kadalasang angkop | Paano ihanda |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Maaga | Pares ng larawan, Mga pares ng larawan, Puzzle ng larawan na siyam na piraso, pamilyar na card game | Hayaang pumili siya. Maaaring baligtarin ang tile kung gusto niya; alisin ang iskor kung nakaiinis ito |
+| Gitna | Pares ng larawan na apat hanggang anim na tile na nakalantad, Hanapin ang magkapareho, Pag-uri-uriin nang magkasama | Laging nakikita ang mga larawan. Umupo sa tabi niya at magpalitan sa pagtulong |
+| Huli | Hanapin ang magkapareho na dalawang pagpipilian, pagtingin sa isang malaking larawan nang magkasama | Napakaikli. Ikaw ang humahawak ng tableta; siya ang tuturo, o titingin at makikinig lang |
 
-## Do memory games help with dementia?
+## Nakatutulong ba ang mga laro ng memorya sa dementia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Walang laro ng memorya ang napatunayang nakagagamot, nakapagpapabagal o nakapipigil sa dementia. Natuklasan ng isang [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) sa computerized cognitive training para sa mga taong may mild cognitive impairment na limitado ang ebidensya para masabing nakapipigil ito sa dementia. Ipinapaliwanag ng aming gabay tungkol sa [mga laro para sa utak at dementia](/brain-health/brain-games/) ang ipinapakita at hindi ipinapakita ng mga pag-aaral.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Hindi ito dahilan para hindi maglaro. Iminumungkahi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) na tumutok sa kasiyahan, hindi sa tagumpay. Ang sampung minuto ng pagtutugma ng larawan at pag-uusap tungkol sa mga ito ay maaaring tunay na magandang bahagi ng araw.
 
-## What about memory games for seniors without dementia?
+## Ano naman ang mga laro ng memorya para sa nakatatanda na walang dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Kung ang isang nakatatandang walang problema sa memorya ay nasisiyahan sa mga puzzle na may oras, iskor at mas mahihirap na antas, walang mali roon. Huwag lang umasa rito bilang proteksyon laban sa dementia; wala pang laro na napatunayang nakapagpoprotekta. Gumagana rin nang maayos ang mga banayad na bersyon sa itaas kapag magkakasamang naglalaro ang iba't ibang henerasyon: maaaring magtugma ng larawan bilang magkakampi ang lolo o lola na may dementia at ang batang apo, at walang sinuman sa kanila ang sinusubok.
 
-## When should you stop or change the game?
+## Kailan dapat tumigil o baguhin ang laro?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ang pagbuntong-hininga, pagtulak palayo ng tableta, pagsasabing “hindi ko kaya” o pagmukhang balisa ay mga senyales na gawing mas madali o tumigil. Subukan ang mas kaunting tile, ilantad ang mga larawan, lumipat sa [Hanapin ang magkapareho](/games/find-the-same/), o tingnan na lang ang mga larawan at mag-usap. Kung ayaw na niyang maglaro, ayos lang din iyon. Tingnan ang aming gabay tungkol sa [paano maglaro nang magkasama](/caregiving/how-to-play-together/) para sa higit pa tungkol sa bilis at pagtulong.

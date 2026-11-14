@@ -1,33 +1,28 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "ເກມພັດທະນາສະໝອງປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ? ຫຼັກຖານບອກຫຍັງແດ່"
+seoTitle: "ເກມພັດທະນາສະໝອງປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ? ຫຼັກຖານ"
+description: "ການຄົ້ນຄວ້າບອກຫຍັງກ່ຽວກັບເກມພັດທະນາສະໝອງ ແລະ ໂຣກສະໝອງເສື່ອມ: ການກະຕຸ້ນດ້ານການຮັບຮູ້ ການຝຶກສະໝອງດ້ວຍຄອມພິວເຕີ ການທົດລອງ ACTIVE ແລະ ຄະດີ FTC ກ່ຽວກັບ Lumosity ອະທິບາຍແບບງ່າຍ."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  ຍັງບໍ່ມີເກມສະໝອງໃດທີ່ພິສູດໄດ້ວ່າປ້ອງກັນໂຣກສະໝອງເສື່ອມ. ການຝຶກສະໝອງດ້ວຍຄອມພິວເຕີສ່ວນໃຫຍ່ເຮັດໃຫ້ຄົນເກັ່ງຂຶ້ນໃນວຽກທີ່ຝຶກ. ການສຶກສາໜຶ່ງຈາກການທົດລອງ ACTIVE ພົບວ່າການຝຶກຄວາມໄວໃນການປະມວນຜົນພ້ອມການຝຶກເສີມ ກ່ຽວຂ້ອງກັບການວິນິດໄສໂຣກສະໝອງເສື່ອມທີ່ໜ້ອຍລົງໃນຮອບ 20 ປີ ແຕ່ເປັນຜົນທີ່ແຄບ. ສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມແລ້ວ ການກະຕຸ້ນດ້ານການຮັບຮູ້ແບບກຸ່ມໃຫ້ຜົນນ້ອຍໆ ໄລຍະສັ້ນ. ເກມເໝາະທີ່ສຸດສຳລັບຄວາມສຸກ ແລະ ການຢູ່ນຳກັນ.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "ການສຶກສາການຝຶກສະໝອງສະແດງວ່າຄົນເກັ່ງຂຶ້ນໃນວຽກທີ່ຝຶກ ແຕ່ມີຫຼັກຖານໜ້ອຍວ່າຄວາມສາມາດນີ້ຈະຖ່າຍທອດໄປສູ່ຊີວິດປະຈຳວັນ."
+  - "ໃນການທົດລອງ ACTIVE ມີພຽງຄົນທີ່ໄດ້ຝຶກຄວາມໄວໃນການປະມວນຜົນແບບສະເພາະ ພ້ອມການຝຶກເສີມ ທີ່ມີການວິນິດໄສໂຣກສະໝອງເສື່ອມໜ້ອຍລົງໃນຮອບ 20 ປີ. ການຝຶກຄວາມໄວໂດຍບໍ່ມີການຝຶກເສີມ ແລະ ການຝຶກຄວາມຈຳ ຫຼື ການໃຊ້ເຫດຜົນ ບໍ່ສະແດງຜົນແບບນີ້."
+  - "ໃນປີ 2016 ບໍລິສັດຜູ້ຜະລິດ Lumosity ຈ່າຍເງິນ 2 ລ້ານໂດລາ ເພື່ອຍຸຕິຂໍ້ກ່າວຫາຂອງ FTC ວ່າຂາດຫຼັກວິທະຍາສາດສຳລັບການອ້າງວ່າຊ່ວຍຊະລອການເສື່ອມຂອງສະໝອງ."
+  - "ສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມລະດັບອ່ອນຫາປານກາງ ກຸ່ມການກະຕຸ້ນດ້ານການຮັບຮູ້ໃຫ້ຜົນນ້ອຍໆ ໄລຍະສັ້ນດ້ານການຄິດ ແລະ ການປັບປຸງທີ່ຊັດເຈນກວ່າໃນການສື່ສານ ແລະ ການພົວພັນທາງສັງຄົມ."
+  - "ເກມຂອງ Golden Moments ໃຊ້ເພື່ອຄວາມເພີດເພີນ ແລະ ເວລາຮ່ວມກັນ. ມັນບໍ່ແມ່ນການປິ່ນປົວ ແລະ ບໍ່ປ້ອງກັນ ຫຼື ຊະລອໂຣກສະໝອງເສື່ອມ."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "ເກມສະໝອງປ້ອງກັນໂຣກອັລໄຊເມີໄດ້ບໍ?"
+    a: "ບໍ່ມີເກມສະໝອງໃດທີ່ພິສູດໄດ້ວ່າປ້ອງກັນໂຣກອັລໄຊເມີ ຫຼື ໂຣກສະໝອງເສື່ອມອື່ນໆໄດ້. National Institute on Aging ເວົ້າວ່າມີຫຼັກຖານບໍ່ພຽງພໍວ່າແອັບພັດທະນາສະໝອງທາງການຄ້າມີຜົນຄືກັບທີ່ເຫັນໃນການທົດລອງວິໄຈ. ເກມຍັງເປັນວິທີໃຊ້ເວລາທີ່ໜ້າພໍໃຈໄດ້."
+  - q: "ການທົດລອງ ACTIVE ພົບຫຍັງກ່ຽວກັບການຝຶກຄວາມໄວ ແລະ ໂຣກສະໝອງເສື່ອມ?"
+    a: "ການວິເຄາະໃນປີ 2026 ເຊື່ອມຜູ້ເຂົ້າຮ່ວມ ACTIVE ກັບບັນທຶກ Medicare ໃນຮອບ 20 ປີ. ຄົນທີ່ໄດ້ຝຶກຄວາມໄວໃນການປະມວນຜົນ ແລະ ໄດ້ເຂົ້າຮ່ວມການຝຶກເສີມຢ່າງໜ້ອຍໜຶ່ງຄັ້ງ ມີອັດຕາການວິນິດໄສໂຣກສະໝອງເສື່ອມຕ່ຳກວ່າກຸ່ມທີ່ບໍ່ໄດ້ຝຶກ. ການຝຶກຄວາມໄວໂດຍບໍ່ມີການຝຶກເສີມ ແລະ ການຝຶກຄວາມຈຳ ຫຼື ການໃຊ້ເຫດຜົນ ບໍ່ສະແດງຜົນທີ່ມີນັຍສຳຄັນ."
+  - q: "ເກມ ແລະ ປິດສະໜາ ເໝາະກັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມແລ້ວບໍ?"
+    a: "ໄດ້ ຖ້າຜູ້ນັ້ນມັກ. ການກະຕຸ້ນດ້ານການຮັບຮູ້ແບບກຸ່ມ ເຊິ່ງລວມເກມຄຳ ປິດສະໜາ ດົນຕີ ແລະ ການສົນທະນາ ໃຫ້ຜົນນ້ອຍໆໄລຍະສັ້ນດ້ານການຄິດ ແລະ ການປັບປຸງທີ່ຊັດເຈນກວ່າໃນການສື່ສານ ແລະ ການພົວພັນທາງສັງຄົມ. ຄວາມເພີດເພີນ ບໍ່ແມ່ນຜົນການທົດສອບ ເປັນເປົ້າໝາຍທີ່ຖືກຕ້ອງ."
+  - q: "ເປັນຫຍັງ FTC ຈຶ່ງປັບ Lumosity?"
+    a: "ໃນປີ 2016 Federal Trade Commission ກ່າວຫາວ່າ Lumos Labs ອ້າງກ່ຽວກັບເກມຂອງຕົນ ລວມທັງການຊະລອການເສື່ອມທີ່ກ່ຽວກັບອາຍຸ ແລະ ໂຣກສະໝອງເສື່ອມ ໂດຍບໍ່ມີວິທະຍາສາດຮອງຮັບ. ບໍລິສັດຕົກລົງຈ່າຍ 2 ລ້ານໂດລາ ແລະ ຕ້ອງມີຫຼັກຖານວິທະຍາສາດທີ່ເຊື່ອຖືໄດ້ກ່ອນອ້າງເຖິງແບບນັ້ນໃນອະນາຄົດ."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -41,10 +36,10 @@ sources:
   - title: "Computerised cognitive training for preventing dementia in people with mild cognitive impairment"
     publisher: "Cochrane Database of Systematic Reviews (via PubMed)"
     url: "https://pubmed.ncbi.nlm.nih.gov/30864747/"
-  - title: "Do \"Brain-Training\" Programs Work?"
+  - title: 'Do "Brain-Training" Programs Work?'
     publisher: "Psychological Science in the Public Interest"
     url: "https://journals.sagepub.com/doi/10.1177/1529100616661983"
-  - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
+  - title: 'Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its "Brain Training" Program'
     publisher: "Federal Trade Commission"
     url: "https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program"
   - title: "Preventing Alzheimer's Disease: What Do We Know?"
@@ -58,166 +53,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+ເກມສະໝອງມີທົ່ວໄປ ແລະ ຫຼາຍເກມສັນຍາວ່າຈະຮັກສາຈິດໃຈໃຫ້ໜຸ່ມ. ຖ້າທ່ານດູແລຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ ຫຼື ເປັນຫ່ວງຄວາມຈຳຂອງຕົນເອງ ມັນເປັນເລື່ອງທຳມະຊາດທີ່ຈະສົງໄສວ່າການຫຼິ້ນອາດຊ່ວຍໄດ້ບໍ. ນີ້ແມ່ນສິ່ງທີ່ການຄົ້ນຄວ້າບອກຕົວຈິງ ທັງສ່ວນທີ່ໃຫ້ກຳລັງໃຈ ແລະ ສ່ວນທີ່ບໍ່ເປັນແບບນັ້ນ.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+ນີ້ແມ່ນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ເບິ່ງ [ຂໍ້ປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ.
 
-## Do brain games prevent dementia?
+## ເກມສະໝອງປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+ຍັງບໍ່ມີເກມສະໝອງໃດທີ່ພິສູດໄດ້ວ່າປ້ອງກັນໂຣກສະໝອງເສື່ອມ. National Institute on Aging (NIA) ແນະນຳໃຫ້ລະວັງການອ້າງວ່າເກມຄອມພິວເຕີ ແລະ ເກມອອນລາຍຊ່ວຍປັບປຸງຄວາມຈຳ ແລະ ເວົ້າວ່າມີຫຼັກຖານບໍ່ພຽງພໍວ່າແອັບພັດທະນາສະໝອງທາງການຄ້າໃດມີຜົນຄືກັບການຝຶກທີ່ທົດສອບໃນການທົດລອງວິໄຈ ([NIA ກ່ຽວກັບການປ້ອງກັນອັລໄຊເມີ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+ນັ້ນບໍ່ໄດ້ໝາຍຄວາມວ່າເກມບໍ່ມີປະໂຫຍດ. ມັນໝາຍຄວາມວ່າຄຸນຄ່າຂອງເກມຢູ່ທີ່ຄວາມເພີດເພີນ ການຢູ່ນຳກັນ ແລະ ຄວາມເປັນປະຈຳ ບໍ່ແມ່ນການປົກປ້ອງໃຜຈາກໂຣກສະໝອງເສື່ອມ.
 
-## What is "near transfer", and why does it matter?
+## “ການຖ່າຍທອດໃກ້” ແມ່ນຫຍັງ ແລະ ເປັນຫຍັງຈຶ່ງສຳຄັນ?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+ເວລາທ່ານຝຶກວຽກໃດໜຶ່ງ ທ່ານມັກຈະເກັ່ງຂຶ້ນໃນວຽກນັ້ນ. ນັກວິໄຈເອີ້ນນີ້ວ່າຜົນຈາກການຝຶກ. ຄຳຖາມທີ່ຍາກກວ່າແມ່ນວ່າການປັບປຸງນັ້ນ**ຖ່າຍທອດ**ໄປສູ່ສິ່ງອື່ນບໍ: ໄປສູ່ວຽກທີ່ຄ້າຍກັນ (ການຖ່າຍທອດໃກ້) ຫຼື ໄປສູ່ຊີວິດປະຈຳວັນ ເຊັ່ນ ການຈື່ນັດໝາຍ ຫຼື ການຈັດການເງິນ (ການຖ່າຍທອດໄກ).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+ການທົບທວນໃຫຍ່ໃນປີ 2016 ໄດ້ກວດການສຶກສາທີ່ບໍລິສັດຝຶກສະໝອງອ້າງວ່າເປັນຫຼັກຖານທີ່ດີທີ່ສຸດຂອງພວກເຂົາ. ມັນພົບຫຼັກຖານຫຼາຍວ່າຄົນເກັ່ງຂຶ້ນໃນວຽກທີ່ຝຶກ ຫຼັກຖານໜ້ອຍກວ່າວ່າເຂົາເກັ່ງຂຶ້ນໃນວຽກທີ່ກ່ຽວຂ້ອງກັນ ແລະ ມີຫຼັກຖານໜ້ອຍຫຼາຍວ່າການຝຶກປັບປຸງການຄິດໃນຊີວິດປະຈຳວັນ. ການສຶກສາຫຼາຍອັນຍັງມີຂໍ້ບົກພ່ອງດ້ານການອອກແບບ ເຊິ່ງເຮັດໃຫ້ສະຫຼຸບແນ່ນອນບໍ່ໄດ້ ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## ການທົບທວນເວົ້າຫຍັງກ່ຽວກັບການຝຶກສະໝອງດ້ວຍຄອມພິວເຕີ?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+ການທົບທວນຂອງ Cochrane ເຊິ່ງລວບລວມການທົດລອງທີ່ດີທີ່ສຸດທີ່ມີຢູ່ ໄດ້ເບິ່ງການຝຶກດ້ວຍຄອມພິວເຕີທີ່ໃຊ້ເວລາຢ່າງໜ້ອຍ 12 ອາທິດ:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **ຜູ້ໃຫຍ່ທີ່ແຂງແຮງອາຍຸ 65 ປີຂຶ້ນໄປ:** ການທົດລອງແປດອັນ ມີ 1,183 ຄົນ. ຫຼັກຖານເປັນຄຸນນະພາບຕ່ຳຫຼືຕ່ຳຫຼາຍ. ອາດມີຜົນດີເລັກນ້ອຍທັນທີຫຼັງການຝຶກ ໂດຍບໍ່ມີຫຼັກຖານຊັດເຈນວ່າຈະຍືນຍົງ ([ການທົບທວນ Cochrane ສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸທີ່ແຂງແຮງ](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **ຜູ້ທີ່ມີການຮັບຮູ້ບົກພ່ອງເລັກນ້ອຍ:** ການທົດລອງແປດອັນ ມີ 660 ຄົນ. ບໍ່ມີການທົດລອງໃດລາຍງານວ່າຜູ້ເຂົ້າຮ່ວມພັດທະນາເປັນໂຣກສະໝອງເສື່ອມຫຼືບໍ່ ແລະ ຫຼັກຖານອ່ອນເກີນໄປທີ່ຈະສະຫຼຸບໄດ້ ([ການທົບທວນ Cochrane ສຳລັບການຮັບຮູ້ບົກພ່ອງເລັກນ້ອຍ](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ການທົດລອງ ACTIVE ພົບຫຍັງ?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ແມ່ນການທົດລອງໃຫຍ່ຂອງສະຫະລັດ ເລີ່ມໃນປີ 1998 ມີຜູ້ໃຫຍ່ 2,802 ຄົນອາຍຸ 65 ປີຂຶ້ນໄປ ທີ່ອາໄສຢູ່ດ້ວຍຕົນເອງ ແລະ ບໍ່ມີບັນຫາຄວາມຈຳ ຫຼື ການຄິດທີ່ສຳຄັນ. ຜູ້ເຂົ້າຮ່ວມຖືກສຸ່ມໃຫ້ຢູ່ໃນໜຶ່ງໃນສາມປະເພດການຝຶກກຸ່ມນ້ອຍ (ຄວາມໄວໃນການປະມວນຜົນ ຄວາມຈຳ ຫຼື ການໃຊ້ເຫດຜົນ) ຫຼື ກຸ່ມທີ່ບໍ່ໄດ້ຝຶກ. ການຝຶກມີເຖິງສິບຄັ້ງໃນຫ້າຫາຫົກອາທິດ. ຄົນບາງຄົນທີ່ເຂົ້າຮ່ວມເກືອບທຸກຄັ້ງ ຍັງຖືກສຸ່ມໃຫ້ມີ**ການຝຶກເສີມ** ປະມານໜຶ່ງປີແລະສາມປີຕໍ່ມາ.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+ການຝຶກຄວາມໄວໃນການປະມວນຜົນກ່ຽວຂ້ອງກັບການສັງເກດ ແລະ ປະມວນຂໍ້ມູນພາບໃນເວລາທີ່ສັ້ນລົງເລື້ອຍໆ ໃນລະດັບທີ່ປັບຕາມຄວາມຄືບໜ້າ.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+ໃນປີ 2026 ນັກວິໄຈເຊື່ອມຜູ້ເຂົ້າຮ່ວມ 2,021 ຄົນກັບບັນທຶກ Medicare ໃນຮອບ 20 ປີ ([ການວິເຄາະ ACTIVE 20 ປີ](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). ນີ້ແມ່ນສິ່ງທີ່ພວກເຂົາພົບແທ້ໆ:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **ການຝຶກຄວາມໄວພ້ອມການຝຶກເສີມຢ່າງໜ້ອຍໜຶ່ງຄັ້ງ:** ອັດຕາການວິນິດໄສໂຣກສະໝອງເສື່ອມຕ່ຳກວ່າກຸ່ມທີ່ບໍ່ໄດ້ຮັບການຕິດຕໍ່ (hazard ratio 0.75 ເຊິ່ງໂດຍປະມານໝາຍເຖິງອັດຕາຕ່ຳກວ່າ 25%).
+- **ການຝຶກຄວາມໄວໂດຍບໍ່ມີການຝຶກເສີມ:** ອັດຕາບໍ່ຕ່ຳລົງ.
+- **ການຝຶກຄວາມຈຳ ຫຼື ການໃຊ້ເຫດຜົນ:** ບໍ່ມີຜົນທີ່ມີນັຍສຳຄັນຕໍ່ການວິນິດໄສໂຣກສະໝອງເສື່ອມ.
+- **ແຕ່ລະກຸ່ມການຝຶກໂດຍລວມທຽບກັບກຸ່ມທີ່ບໍ່ໄດ້ຕິດຕໍ່:** ມີແນວໂນ້ມອັດຕາຕ່ຳກວ່າ ແຕ່ບໍ່ມີນັຍສຳຄັນທາງສະຖິຕິ.
 
-### The limits of this finding
+### ຂໍ້ຈຳກັດຂອງການຄົ້ນພົບນີ້
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- ມັນໃຊ້ກັບ**ການຝຶກຄວາມໄວແບບມີຜູ້ຊີ້ນຳ ແບບສະເພາະເຈາະຈົງ ພ້ອມການຝຶກເສີມ** ບໍ່ແມ່ນກັບເກມສະໝອງທົ່ວໄປ.
+- ຜົນທີ່ມີນັຍສຳຄັນມາຈາກ**ກຸ່ມຍ່ອຍ** (ຄົນທີ່ເຂົ້າຮ່ວມເກືອບທຸກຄັ້ງໃນຊ່ວງແຮກ ແລະ ໄດ້ຮັບການຝຶກເສີມ) ບໍ່ແມ່ນຈາກກຸ່ມຄວາມໄວທັງໝົດ.
+- ໂຣກສະໝອງເສື່ອມຖືກວັດດ້ວຍ**ລະຫັດວິນິດໄສໃນບັນທຶກ Medicare** ບໍ່ແມ່ນດ້ວຍການກວດແຕ່ລະຄົນ. ປະມານໜຶ່ງສ່ວນສີ່ຂອງຜູ້ເຂົ້າຮ່ວມເດີມຖືກຕັດອອກ ເພາະລົງທະບຽນໃນ Medicare Advantage ທີ່ບໍ່ມີບັນທຶກການຮຽກເກັບເງິນເຕັມຮູບແບບ.
+- ຜູ້ເຂົ້າຮ່ວມບໍ່ມີບັນຫາການຄິດທີ່ສຳຄັນເມື່ອເລີ່ມ. ຜົນເຫຼົ່ານີ້ບໍ່ໄດ້ບອກຫຍັງກ່ຽວກັບເກມສຳລັບຜູ້ທີ່**ເປັນໂຣກສະໝອງເສື່ອມແລ້ວ**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+ມັນເປັນຜົນທີ່ໜ້າສົນໃຈ ແລະ ສົມຄວນໄດ້ຮັບການຄົ້ນຄວ້າເພີ່ມເຕີມ. ແຕ່ມັນບໍ່ແມ່ນຫຼັກຖານວ່າແອັບໃດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້.
 
-## What did the FTC say about Lumosity?
+## FTC ເວົ້າຫຍັງກ່ຽວກັບ Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+ໃນເດືອນມັງກອນປີ 2016 Lumos Labs ຜູ້ຜະລິດ Lumosity ຕົກລົງຈ່າຍ 2 ລ້ານໂດລາ ເພື່ອຍຸຕິຂໍ້ກ່າວຫາການໂຄສະນາທີ່ຫຼອກລວງຂອງ Federal Trade Commission. FTC ເວົ້າວ່າບໍລິສັດອ້າງໂດຍບໍ່ມີວິທະຍາສາດທີ່ພຽງພໍວ່າເກມຂອງຕົນສາມາດປັບປຸງຜົນງານໃນການເຮັດວຽກ ແລະ ໂຮງຮຽນ ແລະ ສາມາດຊະລອການເສື່ອມທີ່ກ່ຽວກັບອາຍຸ ການຮັບຮູ້ບົກພ່ອງເລັກນ້ອຍ ໂຣກສະໝອງເສື່ອມ ແລະ ໂຣກອັລໄຊເມີ. ຄຳສັ່ງກຳນົດໃຫ້ບໍລິສັດຕ້ອງມີຫຼັກຖານວິທະຍາສາດທີ່ເໝາະສົມ ແລະ ເຊື່ອຖືໄດ້ ກ່ອນອ້າງເຖິງແບບນັ້ນໃນອະນາຄົດ ([ແຖລງຂ່າວ FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+ບົດຮຽນສຳລັບຄອບຄົວ: ຈົ່ງລະວັງເກມ ແອັບ ຫຼື ໂປຣແກຣມໃດໆທີ່ສັນຍາວ່າຈະປົກປ້ອງຄວາມຈຳ ຫຼື ປ້ອງກັນໂຣກສະໝອງເສື່ອມ.
 
-## Can games help someone who already has dementia?
+## ເກມຊ່ວຍຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມແລ້ວໄດ້ບໍ?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+ເກມສາມາດເພີ່ມຄວາມສຸກໃຫ້ມື້ໜຶ່ງ ແລະ ນັ້ນສຳຄັນຫຼາຍ. ວິທີທີ່ຖືກສຶກສາດີທີ່ສຸດແມ່ນ**ການກະຕຸ້ນດ້ານການຮັບຮູ້**: ກິດຈະກຳກຸ່ມທີ່ໜ້າເພີດເພີນ ເຊັ່ນ ການສົນທະນາ ການຈື່ຄືນ ເກມຄຳ ປິດສະໜາ ແລະ ດົນຕີ ໂດຍປົກກະຕິໃນກຸ່ມນ້ອຍທີ່ມີຜູ້ນຳ.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+ການທົບທວນ Cochrane ໃນປີ 2023 ຂອງ 37 ການທົດລອງ ມີ 2,766 ຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມລະດັບອ່ອນຫາປານກາງ ພົບວ່າ ([ການທົບທວນ Cochrane ກ່ຽວກັບການກະຕຸ້ນດ້ານການຮັບຮູ້](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- ຜົນດີ**ນ້ອຍໆໄລຍະສັ້ນ**ໃນການທົດສອບການຄິດ (ຫຼັກຖານຄຸນນະພາບປານກາງ);
+- **ການປັບປຸງທີ່ມີຄວາມໝາຍທາງການແພດໃນການສື່ສານ ແລະ ການພົວພັນທາງສັງຄົມ** (ຫຼັກຖານຄຸນນະພາບສູງ ຈາກການສຶກສາຈຳນວນໜ້ອຍກວ່າ);
+- **ຜົນດີເລັກນ້ອຍ** ຕໍ່ຄຸນນະພາບຊີວິດ ອາລົມ ແລະ ພຶດຕິກຳ.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+ຜົນຖືກວັດສ່ວນຫຼາຍທັນທີຫຼັງໂຄງການປະມານສິບອາທິດ ແລະ ມີການສຶກສາໜ້ອຍທີ່ກວດວ່າຜົນເຫຼົ່ານີ້ຍືນຍົງບໍ. ການກະຕຸ້ນດ້ານການຮັບຮູ້ແມ່ນໂຄງການກຸ່ມທີ່ມີໂຄງສ້າງ ສະນັ້ນຜົນເຫຼົ່ານີ້ບໍ່ໄດ້ໃຊ້ໄດ້ໂດຍອັດຕະໂນມັດກັບຜູ້ທີ່ຫຼິ້ນເກມຄົນດຽວໃນແທັບເລັດ.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+ການປະຊຸມ Lancet ປີ 2024 ກໍເວົ້າວ່າໂຄງການກິດຈະກຳມີຄວາມສຳຄັນສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ ເພື່ອຮັກສາຄວາມເພີດເພີນ ແລະ ຄຸນຄ່າ ([ການປະຊຸມ Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## ເກມໃຫ້ປະໂຫຍດຫຍັງແທ້ໆ?
 
-When chosen well, games can offer:
+ເມື່ອເລືອກດີ ເກມສາມາດໃຫ້:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **ຄວາມເພີດເພີນ.** ເຄິ່ງຊົ່ວໂມງທີ່ໜ້າພໍໃຈກໍມີຄຸນຄ່າໃນຕົວຂອງມັນເອງ.
+- **ການເຊື່ອມໂຍງ.** ການຫຼິ້ນນັ່ງຄຽງຂ້າງກັນໃຫ້ສິ່ງທີ່ງ່າຍຕໍ່ການແບ່ງປັນເມື່ອການສົນທະນາຍາກ. ເບິ່ງ [ວິທີຫຼິ້ນນຳກັນ](/caregiving/how-to-play-together/).
+- **ຄວາມເປັນປະຈຳ.** ກິດຈະກຳທີ່ຄຸ້ນເຄີຍໃນເວລາດຽວກັນທຸກໆມື້ສາມາດນຳຄວາມສະບາຍໃຈ.
+- **ຄວາມໝັ້ນໃຈ.** ກິດຈະກຳທີ່ເໝາະກັບສິ່ງທີ່ຜູ້ນັ້ນຍັງເຮັດໄດ້ດີ ເຮັດໃຫ້ເຂົາຮູ້ສຶກວ່າສາມາດ ບໍ່ແມ່ນຖືກທົດສອບ.
+- **ການສົນທະນາ.** ຮູບ ຫຼື ຄຳເວົ້າທີ່ຄຸ້ນເຄີຍສາມາດເປີດເລື່ອງເລົ່າໄດ້. ລອງ [conversation cards](/games/conversation-cards/) ຫຼື [finish the saying](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+ສິ່ງທີ່ຄວນຫຼີກລ່ຽງ: ໂມງຈັບເວລາ ຄະແນນ ການຊະນະຕິດຕໍ່ກັນ ແລະ ສິ່ງໃດກໍຕາມທີ່ຮູ້ສຶກຄືການທົດສອບຄວາມຈຳ. ຖ້າຜູ້ນັ້ນຫງຸດຫງິດ ໃຫ້ຢຸດ. ການຢຸດກ່ອນ ຫຼື ການນັ່ງນຳກັນເງຽບໆ ເປັນຜົນທີ່ດີ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ການເລືອກແອັບ ແລະ ເກມ](/caregiving/choosing-apps-and-games/) ມີບັນຊີກວດສອບ.
 
-## Where Golden Moments fits
+## Golden Moments ຢູ່ຕຳແໜ່ງໃດ
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+ເກມຂອງ Golden Moments ເຊັ່ນ [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) ແລະ [word search ຕົວພິມໃຫຍ່](/games/word-search/) ຖືກສ້າງຂຶ້ນເພື່ອຄວາມເພີດເພີນ ແລະ ເວລາຮ່ວມກັນ. ມັນບໍ່ມີໂມງຈັບເວລາ ແລະ ບໍ່ມີຄະແນນ. ມັນ**ບໍ່ແມ່ນ**ການປິ່ນປົວ ແລະ ມັນ**ບໍ່**ປ້ອງກັນ ຫຼື ຊະລອໂຣກສະໝອງເສື່ອມ. ພວກເຮົາຢາກບອກຢ່າງກົງໄປກົງມາ ແທນທີ່ຈະສັນຍາສິ່ງທີ່ບໍ່ມີເກມໃດໃຫ້ໄດ້.
 
-## Talk with a doctor
+## ປຶກສາໝໍ
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+ຖ້າທ່ານເປັນຫ່ວງກ່ຽວກັບການປ່ຽນແປງຄວາມຈຳໃນຕົວທ່ານເອງ ຫຼື ຜູ້ທີ່ທ່ານດູແລ ໃຫ້ປຶກສາໝໍ ແທນທີ່ຈະພຶ່ງພາແອັບ. ໝໍສາມາດຊອກຫາສາເຫດທີ່ປິ່ນປົວໄດ້ ແລະ ອະທິບາຍຂັ້ນຕອນທີ່ມີຫຼັກຖານດີທີ່ສຸດ ເຊັ່ນ ການຄວບຄຸມຄວາມດັນເລືອດ ແລະ ການກວດການໄດ້ຍິນ. ເບິ່ງ [ສາມາດປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?](/brain-health/can-dementia-be-prevented/) ເພີ່ມເຕີມ. ສຳລັບອາການສັບສົນກະທັນຫັນ ຫຼື ການປ່ຽນແປງກະທັນຫັນອື່ນໆ ໃຫ້ຮັບການດູແລທາງການແພດເຮັ່ງດ່ວນ.

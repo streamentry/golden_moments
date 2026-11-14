@@ -1,33 +1,28 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "צי פֿאַרהיטן מוח־שפּילן דעמענץ? װאָס די באַװײַזן װײַזן"
+seoTitle: "צי פֿאַרהיטן מוח־שפּילן דעמענץ? די באַװײַזן"
+description: "װאָס די פֿאָרשונג זאָגט װעגן מוח־שפּילן און דעמענץ: קאָגניטיװע סטימולאַציע, קאָמפּיוטער־מוח־טרענירונג, דער פּרוּװ ACTIVE און דער FTC פֿאַל װעגן לומאָסיטי, קלאָר דערקלערט."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  קײן מוח־שפּיל איז נישט באַװיזן געװאָרן פֿאַרצוהאַלטן דעמענץ. קאָמפּיוטער־מוח־טרענירונג פֿאַרבעסערט מערסטנס די אויפֿגאַבעס װאָס מען איבט. איין שטודיע פֿון דעם פּרוּװ ACTIVE האָט פֿאַרבונדן אַ באַשטימטן געשװינדקײט־טרענינג פּלוס אָפּפֿריש־זיצונגען מיט װייניקער דיאַגנאָזן פֿון דעמענץ איבער 20 יאָר, אַ שמאָלע געפֿינונג. פֿאַר מענטשן װאָס לעבן שױן מיט דעמענץ, װײַזט גרופּע קאָגניטיװע סטימולאַציע קלײנע, קורצפֿריסטיקע נוצן. שפּילן זענען בעסטנס צו נײסן פֿאַר שפּאַס און געזעלשאַפֿט.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "מוח־טרענינג־שטודיעס װײַזן, אַז מענטשן װערן בעסער אין די אויפֿגאַבעס װאָס זיי איבן, מיט פֿיל װייניקער באַװײַז, אַז דאָס װערט איבערגעטראָגן אויף דאָס טאָגליכע לעבן."
+  - "אין דעם פּרוּװ ACTIVE האָבן נאָר מענטשן װאָס האָבן געמאַכט אַ באַשטימטן געשװינדקײט־טרענינג פּלוס אָפּפֿריש־זיצונגען, װייניקער דיאַגנאָזן פֿון דעמענץ איבער 20 יאָר. געשװינדקײט־טרענינג אָן אָפּפֿרישן, זכרון־ און דענק־טרענינג האָבן דאָס נישט געװיזן."
+  - "אין 2016 האָט דער מאַכער פֿון לומאָסיטי באַצאָלט 2 מיליאָן דאָלאַר צו באַשטײַערן באַשולדיקונגען פֿון FTC, אַז ער האָט נישט געהאַט די װיסנשאַפֿט פֿאַר זײַנע באַהויפּטונגען װעגן פֿאַרצײַטן דעמענץ."
+  - "פֿאַר מענטשן מיט מילדן ביז מיטלשטאַרקן דעמענץ װײַזן גרופּעס פֿון קאָגניטיװער סטימולאַציע קלײנע, קורצפֿריסטיקע נוצן פֿאַר דענקען, און קלאָרערע פֿאָרשריט אין קאָמוניקאַציע און געזעלשאַפֿטלעכער באַציִונג."
+  - "Golden Moments שפּילן זענען פֿאַר שפּאַס און געמײנזאַמע צײַט. זײ זענען נישט קײן באַהאַנדלונג און פֿאַרהיטן אָדער פֿאַרלאַנגזאַמען נישט דעמענץ."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "פֿאַרהיטן מוח־שפּילן אַלצהײמערס?"
+    a: "קײן מוח־שפּיל איז נישט באַװיזן געװאָרן צו פֿאַרהיטן אַלצהײמערס אָדער אַנדערע דעמענץ. דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA) זאָגט, אַז עס איז נישט גענוג באַװײַז, אַז קאָמערציעלע מוח־טרענינג־אַפּלײקאַציעס האָבן די װירקונגען װאָס מע זעט אין פּרוּװ־שטודיעס. שפּילן קענען נאָך אַלץ זײַן אַ אָנגענעמער װעג צו פֿאַרברענגען צײַט."
+  - q: "װאָס האָט דער פּרוּװ ACTIVE געפֿונען װעגן געשװינדקײט־טרענינג און דעמענץ?"
+    a: "אַ אַנאַליז פֿון 2026 האָט פֿאַרבונדן טיילנעמער פֿון ACTIVE מיט מעדיקער־רעקאָרדס איבער 20 יאָר. מענטשן װאָס האָבן געטאָן געשװינדקײט־פֿאַרשטאַנד־טרענינג און מינדסטנס איין אָפּפֿריש־זיצונג, האָבן געהאַט אַ נידעריקערן צײַן פֿון דיאַגנאָזירטן דעמענץ װי די גרופּע אָן טרענינג. געשװינדקײט־טרענינג אָן אָפּפֿרישן, און זכרון־ אָדער דענק־טרענינג, האָבן נישט געװיזן קײן באַטײַטנדע װירקונג."
+  - q: "זענען פּאַזלן און שפּילן גוט פֿאַר עמעצן װאָס האָט שױן דעמענץ?"
+    a: "זײ קענען זײַן, אויב דער מענטש הנאה האָט פֿון זײ. קאָגניטיװע סטימולאַציע אין אַ גרופּע, װאָס כּולל װאָרט־שפּילן, פּאַזלן, מוזיק און שמועס, װײַזט קלײנע קורצפֿריסטיקע נוצן פֿאַר דענקען, און קלאָרערע נוצן פֿאַר קאָמוניקאַציע און געזעלשאַפֿטלעכער באַציִונג. הנאה, נישט אַ טעסט־רעזולטאַט, איז דער ריכטיקער ציל."
+  - q: "פֿאַרװאָס האָט די FTC געשטראָפֿט לומאָסיטי?"
+    a: "אין 2016 האָט די פֿעדעראַלע האַנדלס־קאָמיסיע (FTC) באַשולדיקט, אַז Lumos Labs האָט געמאַכט באַהויפּטונגען װעגן זײַנע שפּילן, אײַנגערעכנט פֿאַרצײַטן עלטער־פֿאַרבונדענע ירידה און דעמענץ, אָן די װיסנשאַפֿט צו שטיצן זײ. די פֿירמע האָט מסכּים געװען צו באַצאָלן 2 מיליאָן דאָלאַר און צו האָבן פֿאַרלאָזלעכע װיסנשאַפֿטלעכע באַװײַזן פֿאַר אַזעלכע באַהויפּטונגען אין דער צוקונפֿט."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +53,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+מוח־שפּילן זענען אומעטום, און פֿיל פֿון זײ צוזאָגן צו האַלטן דעם מוח יונג. אױב איר פֿאַרזאָרגט עמעצן מיט דעמענץ, אָדער זאָרגט זיך װעגן אײער אײגענעם זכרון, איז עס נאַטירלעך צו װוּנדערן זיך צי שפּילן זײ קענען העלפֿן. דאָ איז װאָס די פֿאָרשונג טאַקע װײַזט, אײַנגערעכנט די טײלן װאָס זענען מוטיקנדיק און די װאָס זענען נישט.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+דאָס איז אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. זעט [אונדזער מעדיצינישן אָפּזאָג](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## צי פֿאַרהיטן מוח־שפּילן דעמענץ?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+קײן מוח־שפּיל איז נישט באַװיזן געװאָרן צו פֿאַרהיטן דעמענץ. דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA) רעקאָמענדירט מענטשן צו זײַן װאַכזאַם קעגן באַהויפּטונגען, אַז קאָמפּיוטער־ און אָנליין־שפּילן קענען פֿאַרבעסערן דעם זכרון, און זאָגט, אַז עס איז נישט גענוג באַװײַז, אַז קײן קאָמערציעלע מוח־טרענינג־אַפּלײקאַציע האָט דעם זעלבן עפֿעקט װי די טרענינג װאָס איז געטעסטעט געװאָרן אין קליניש פּרוּװ ([NIA װעגן פֿאַרהיטן אַלצהײמערס](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+דאָס מאַכט שפּילן נישט אומנוצלעך. עס הײסט, אַז זייער װערט איז אין הנאה, געזעלשאַפֿט און רוטין, נישט אין אַ שיץ פֿאַר קײנעם קעגן דעמענץ.
 
-## What is "near transfer", and why does it matter?
+## װאָס איז „נאָענט אַריבערפֿיר“, און פֿאַרװאָס איז עס װיכטיק?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+װען איר איבט אַ אויפֿגאַבע, װערט איר געװײנלעך בעסער אין יענער אויפֿגאַבע. פֿאָרשער רופֿן דאָס אַ טרענינג־עפֿעקט. די שװערערע פֿראַגע איז, צי די פֿאַרבעסערונג װערט איבערגעטראָגן אויף אַנדערע זאַכן: אויף ענלעכע אויפֿגאַבעס (נאָענט אַריבערפֿיר) אָדער אויף דאָס טאָגליכע לעבן, װי געדענקען אַפּוינטמענטס אָדער פֿירן געלט (װײַט אַריבערפֿיר).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+אַ גרױסע רעװיזיע פֿון 2016 האָט אָנגעקוקט די שטודיעס װאָס מוח־טרענינג־פֿירמעס האָבן געציטירט אלס זייער בעסטן באַװײַז. זי האָט געפֿונען פֿיל באַװײַז, אַז מענטשן װערן בעסער אין די געטרענירטע אויפֿגאַבעס, װייניקער באַװײַז, אַז זײ װערן בעסער אין נאָענט פֿאַרבונדענע אויפֿגאַבעס, און קלײן באַװײַז, אַז טרענינג פֿאַרבעסערט טאָגליכע דענקען. פֿיל פֿון די שטודיעס האָבן אויך געהאַט פּלאַן־פּראָבלעמען, װאָס האָבן געמאַכט פֿעסטע שלוסן אוממעגלעך ([Simons און קאָלעגן, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## װאָס זאָגן די רעװיזיעס װעגן קאָמפּיוטער־מוח־טרענירונג?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+קאָקראַן־רעװיזיעס, װאָס צונױפֿנעמען די בעסטע צוגענגלעכע פּרוּװן, האָבן אָנגעקוקט קאָמפּיוטערישע טרענירונג װאָס דויערט מינדסטנס 12 װאָכן:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **געזונטע עלטערע אַדולטן 65 און עלטער:** אַכט פּרוּװן מיט 1,183 מענטשן. דער באַװײַז איז געװען נידעריק אָדער זייער נידעריק. עס קען זײַן אַ קלײנע פֿאַרבעסערונג גלײך נאָך דער טרענינג, אָן קײן קלאָרער באַװײַז, אַז זי דויערט ([קאָקראַן־רעװיו, געזונטע עלטערע מענטשן](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **מענטשן מיט מילדער קאָגניטיװער שװאַכקײט:** אַכט פּרוּװן מיט 660 מענטשן. קײן פּרוּװ האָט נישט געמאָלדן, צי די מענטשן זענען שפּעטער געװאָרן דעמענץ־קראַנק, און דער באַװײַז איז געװען צו שװאַך צו מאַכן שלוסן ([קאָקראַן־רעװיו, מילדע קאָגניטיװע שװאַכקײט](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## װאָס האָט דער פּרוּװ ACTIVE געפֿונען?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE איז אַ גרױסער אַמעריקאַנישער פּרוּװ װאָס האָט זיך אָנגעהויבן אין 1998 מיט 2,802 דערװאַקסענע פֿון 65 יאָר און עלטער װאָס האָבן געלעבט אומאָפּהענגיק און נישט געהאַט װעזנטלעכע פּראָבלעמען מיט דענקען אָדער זכרון. מענטשן זענען צופֿעליק צוגעטיילט געװאָרן צו איינעם פֿון דרײַ טײפּן קלײן־גרופּע טרענינג (געשװינדקײט פֿון פֿאַרשטאַנד, זכרון אָדער דענקען) אָדער צו אַ גרופּע אָן קאָנטאַקט. די טרענינג איז געװען ביז צען זיצונגען איבער פֿינף ביז זעקס װאָכן. עטלעכע מענטשן װאָס האָבן פֿאַרענדיקט די מערסטע זיצונגען, זענען אויך צופֿעליק פֿאַרבעטן געװאָרן צו **אָפּפֿריש־זיצונגען** װעגן אײן און דרײַ יאָר שפּעטער.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+די געשװינדקײט־טרענינג האָט געהאַט אײַנשטעלן און פֿאַרארבעטן װיזועלע אינפֿאָרמאַציע, װאָס מע זעט אין קירצערע און קירצערע בליקן, אויף אַ מדרגה װאָס האָט זיך אָנגעפּאַסט װי מענטשן האָבן זיך פֿאַרבעסערט.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+אין 2026 האָבן פֿאָרשער פֿאַרבונדן 2,021 טיילנעמער מיט זייערע מעדיקער־רעקאָרדס איבער 20 יאָר ([אַנאַליז פֿון 20 יאָר (ACTIVE)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). דאָ איז גענוי װאָס זײ האָבן געפֿונען:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **געשװינדקײט־טרענינג פּלוס מינדסטנס איין אָפּפֿריש־זיצונג:** אַ נידעריקערער צײַן פֿון דיאַגנאָזירטן דעמענץ װי די גרופּע אָן קאָנטאַקט (אַ hazard ratio פֿון 0.75, װאָס באַטײַט גראָב געשאַצט אַ 25% נידעריקערער צײַן).
+- **געשװינדקײט־טרענינג אָן אָפּפֿרישן:** קײן נידעריקערער צײַן.
+- **זכרון־ אָדער דענק־טרענינג:** קײן באַטײַטנדע װירקונג אויף דיאַגנאָזעס פֿון דעמענץ.
+- **יעדע טרענינג־גרופּע אין גאַנצן פֿאַרגליכן מיט דער גרופּע אָן קאָנטאַקט:** אַ נייגונג צו נידעריקערע צײַנס, אָבער נישט סטאַטיסטיש באַטײַטנד.
 
-### The limits of this finding
+### די גרענעצן פֿון דעם באַפֿונד
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- עס גילט פֿאַר **איין באַשטימטער זאָרט איבערװאַכטער געשװינדקײט־טרענינג מיט אָפּפֿריש־זיצונגען**, נישט פֿאַר מוח־שפּילן אין אַלגעמיין.
+- דאָס באַטײַטנדע רעזולטאַט איז געקומען פֿון אַ **אונטערגרופּע** (מענטשן װאָס האָבן פֿאַרענדיקט די מערסטע פֿון די ערשטע זיצונגען און זענען פֿאַרבעטן געװאָרן צו אָפּפֿרישן), נישט פֿון דער גאַנצער געשװינדקײט־גרופּע.
+- דעמענץ איז געמעסטן געװאָרן דורך **דיאַגנאָזע־קאָדעס אין מעדיקער־פֿאָדערונגען**, נישט דורך אײנעם־פֿאַר־אײנעם אונטערזוך. אַ פֿערטל פֿון די אָריגינעלע טיילנעמער זענען אַרױסגעלאָזט געװאָרן, װײַל זײ זענען געװען אײַנגעשריבן אין מעדיקער אַדװאַנטידזש, װאָס האָט נישט קאָמפּלעטע פֿאָדערונג־רעקאָרדס.
+- טיילנעמער האָבן נישט געהאַט קײן באַטײַטנדע דענק־פּראָבלעמען אין אָנהייב. די רעזולטאַטן זאָגן נישט װעגן שפּילן פֿאַר מענטשן **װאָס לעבן שױן מיט דעמענץ**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+עס איז אַ אינטערעסאַנט רעזולטאַט װאָס פֿאַרדינט מער פֿאָרשונג. עס איז נישט קײן באַװײַז, אַז קײן אַפּ פֿאַרהיט דעמענץ.
 
-## What did the FTC say about Lumosity?
+## װאָס האָט די FTC געזאָגט װעגן לומאָסיטי?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+אין יאַנואַר 2016 האָט Lumos Labs, דער מאַכער פֿון לומאָסיטי, מסכּים געװען צו באַצאָלן 2 מיליאָן דאָלאַר צו באַשטײַערן באַשולדיקונגען פֿון דער פֿעדעראַלער האַנדלס־קאָמיסיע (FTC) פֿאַר טעויש רעקלאַמע. די FTC האָט געזאָגט, אַז די פֿירמע האָט באַהויפּטעט, אָן גענוגע װיסנשאַפֿט, אַז אירע שפּילן קענען פֿאַרבעסערן די אַרבעט און שול־פֿאָרשטעלונג און פֿאַרצײַטן עלטער־פֿאַרבונדענע ירידה, מילדע קאָגניטיװע שװאַכקײט, דעמענץ און אַלצהײמערס. דער באַפֿעל פֿאָדערט, אַז די פֿירמע זאָל האָבן קאָמפּעטענטע און פֿאַרלאָזלעכע װיסנשאַפֿטלעכע באַװײַזן, פֿריִער װי זי מאַכט אַזעלכע באַהויפּטונגען אין דער צוקונפֿט ([FTC פּרעס־רעליעז](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+די לעקציע פֿאַר משפּחות: זײַט סקעפּטיש קעגן יעדן שפּיל, אַפּ אָדער פּראָגראַם װאָס צוזאָגט צו שיצן דעם זכרון אָדער פֿאַרהיטן דעמענץ.
 
-## Can games help someone who already has dementia?
+## קענען שפּילן העלפֿן עמעצן װאָס האָט שױן דעמענץ?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+זײ קענען צולײגן צו אַ גוטן טאָג, װאָס איז זייער װיכטיק. די בעסט־אויסגעפֿאָרשטע צוגאַנג איז **קאָגניטיװע סטימולאַציע**: הנאה־פֿולע גרופּע־טעטיקײטן װי דיסקוסיע, דערצײלונג פֿון פֿריִער, װאָרט־שפּילן, פּאַזלן און מוזיק, געװײנלעך אין אַ קלײנער גרופּע װאָס װערט געפֿירט פֿון אַ מאָדעראַטאָר.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+אַ 2023 קאָקראַן־רעװיו פֿון 37 פּרוּװן מיט 2,766 מענטשן מיט מילדן ביז מיטלשטאַרקן דעמענץ האָט געפֿונען ([קאָקראַן־רעװיו פֿון קאָגניטיװער סטימולאַציע](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- אַ **קלײנע, קורצפֿריסטיקע נוץ** בײַם טעסטן פֿון דענקען (מיטלגוטער באַװײַז);
+- **קלאָר װיכטיקע פֿאַרבעסערונגען אין קאָמוניקאַציע און געזעלשאַפֿטלעכער באַציִונג** (הויך־גוטער באַװײַז, פֿון אַ קלענערער צאָל שטודיעס);
+- **קלײנע נוצן** פֿאַר לעבנס־קוואַליטעט, שטימונג און פֿאַרהאַלטן.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+די נוצן זענען מערסטנס געמעסטן געװאָרן גלײַך נאָך פּראָגראַמען פֿון אַרום צען װאָכן, און װײניק שטודיעס האָבן געקוקט צי זײ האָבן געדויערט. קאָגניטיװע סטימולאַציע איז אַ סטרוקטורירטע גרופּע־פּראָגראַם, דעריבער גילטן די רעזולטאַטן נישט אויטאָמאַטיש פֿאַר אַ מענטש װאָס שפּילט אַליין אַ שפּיל אויף אַ טאַבלעט.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+די לאַנסעט־קאָמיסיע פֿון 2024 זאָגט אויך, אַז אַקטיװיטעט־פּראָגראַמען זענען װיכטיק פֿאַר מענטשן װאָס לעבן מיט דעמענץ, כּדי צו האַלטן הנאה און צװעק ([לאַנסעט־קאָמיסיע](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## װאָס זענען שפּילן טאַקע גוט פֿאַר?
 
-When chosen well, games can offer:
+װען מען קלײבט זײ גוט אויס, קענען שפּילן געבן:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **הנאה.** אַ אָנגענעמע האַלבע שעה איז װערט פֿאַר זיך אַלײן.
+- **פֿאַרבינדונג.** צוזאַמען שפּילן נעבן־אײנעם גיט אײַך עפּעס לײכט צו טיילן װען שמועס איז שװער. זעט [װי צו שפּילן צוזאַמען](/caregiving/how-to-play-together/).
+- **רוטין.** אַ באַקאַנטע טעטיקײט צו דער זעלבער צײַט יעדן טאָג קען ברענגען טרייסט.
+- **זיכערקײט.** טעטיקײטן װאָס פּאַסן צו װאָס אַ מענטש קען נאָך גוט טאָן, לאָזן אים פֿילן זיך פֿײִק, נישט געטעסטעט.
+- **שמועס.** אַ בילד אָדער אַ באַקאַנטע רעדע קען עפֿענען אַ מעשׂה. פּרוּװט [שמועס־קאַרטלעך](/games/conversation-cards/) אָדער [פֿאַרענדיקן דאָס שפּריכוואָרט](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+װאָס צו פֿאַרמײַדן: טיימערס, רעזולטאַטן, סטריקס און יעדעס װאָס פֿילט זיך װי אַ זכרון־טעסט. אױב דער מענטש װערט פֿראַסטרירט, הערט אויף. אויפֿהערן פֿרי, אָדער סתם צוזאַמען זיצן, איז אַ גוטער רעזולטאַט. אונדזער גײד װעגן [אויסקלײבן אַפּס און שפּילן](/caregiving/choosing-apps-and-games/) האָט אַ רשימה.
 
-## Where Golden Moments fits
+## װוּ Golden Moments פּאַסט אײַן
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments שפּילן, אַזױ װי [בילדער־פּאָרלעך](/games/picture-pairs/), [בילדער־פּאַזל](/games/picture-puzzle/) און [װאָרט־זוך מיט גרױסן דרוק](/games/word-search/), זענען געמאַכט פֿאַר הנאה און געמײנזאַמע צײַט. זײ האָבן קײן זייגער און קײן רעזולטאַט. זײ זענען **נישט** קײן באַהאַנדלונג, און זײ **פֿאַרהיטן נישט** און פֿאַרלאַנגזאַמען נישט דעמענץ. מיר װילן אײַך דאָס קלאָר זאָגן, אַנשטאָט צו צוזאָגן עפּעס װאָס קײן שפּיל קען נישט ליפֿערן.
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+אױב איר זענט באַזאָרגט װעגן זכרון־ענדערונגען בײַ אײַך אָדער בײַ עמעצן װאָס איר פֿאַרזאָרגט, זעט אַ דאָקטער אַנשטאָט צו פֿאַרלאָזן זיך אויף אַ אַפּ. אַ דאָקטער קען זוכן נאָך באַהאַנדלבאַרע סיבות און רעדן דורך די שריטן מיט דעם בעסטן באַװײַז, אַזױ װי בלוטדרוק־קאָנטראָל און געהער־בדיקה. זעט [קען מען דעמענץ פֿאַרהיטן?](/brain-health/can-dementia-be-prevented/) פֿאַר מער. בײַ פּלוצעמדיקער צעמישונג אָדער אַנדערע פּלוצעמדיקע ענדערונגען, זוכט דרינגענדיקע מעדיצינישע הילף.

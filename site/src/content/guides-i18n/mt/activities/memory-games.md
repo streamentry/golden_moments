@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Logħbiet tal-memorja ġentili għal anzjani bid-dimenzja"
+seoTitle: "Logħbiet tal-memorja tad-dimenzja: Ideat ġentili"
+description: "Logħbiet tat-tqabbil, tar-ritratti u tal-karti għal anzjani bid-dimenzja, mingħajr ma jħossu li qed jiġu ttestjati: ritratti miftuħa, inqas pari, bla punteġġ."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Logħbiet tal-memorja għal anzjani bid-dimenzja jaħdmu l-aħjar meta ma jiddependux
+  fuq il-memorja. Ilagħbu logħbiet tat-tqabbil bir-ritratti miftuħa, uża erba’ sa sitt
+  biċċiet, ilagħbu bħala tim u itfa’ l-punteġġ. Li tagħraf ritratt huwa aktar faċli
+  milli tiftakru, għalhekk agħżel logħbiet fejn kollox jibqa’ viżibbli. Il-pjaċir,
+  mhux ir-riżultat, huwa l-għan.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Logħbiet klassiċi tal-memorja jaħbu l-karti, u dan jittestja eżattament dak li d-dimenzja tagħmel diffiċli. Ħalli r-ritratti miftuħa minflok."
+  - "Inqas biċċiet, ritratti akbar u għażla waħda kull darba jagħmlu l-logħba pjaċevoli."
+  - "Ilagħbu bħala tim, ħudu t-turn fl-għajnuna, u itfa’ l-punteġġ. Ħadd m’għandu jitqiegħed fuq il-post."
+  - "L-ebda logħba tal-memorja ma ntwerat li tikkura, tgħaffi jew twaqqaf id-dimenzja. Ilagħbu għax huma ħin pjaċevoli flimkien."
+  - "Waqqaf meta tkun għadha pjaċevoli. Li titkellmu dwar ir-ritratti huwa riżultat tajjeb."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "X’inhi logħba tajba tal-memorja għal persuna bid-dimenzja?"
+    a: "Logħba tat-tqabbil b’ritratti kbar u familjari li jistgħu jibqgħu miftuħa, bħal Picture Pairs imqiegħda għal erba’ jew sitt biċċiet. Li ssib it-tewmijiet ta’ ritratt li qed tara hija sodisfaċenti mingħajr ma tittestja l-memorja fuq terminu qasir. Find the Same hija saħansitra aktar sempliċi, b’ritratt wieħed biex taqbel minn tnejn sa erba’ għażliet."
+  - q: "Il-logħbiet tal-memorja jgħinu d-dimenzja?"
+    a: "L-ebda logħba tal-memorja ma ntwerat li tikkura, tgħaffi jew twaqqaf id-dimenzja. Review ta’ Cochrane sab l-evidenza dwar it-taħriġ kognittiv permezz tal-kompjuter limitata wisq biex ngħidu jekk jipprevjenix id-dimenzja. Il-logħbiet xorta jistgħu jkunu mod sabiħ kif tqattgħu l-ħin flimkien. Agħżluhom għall-pjaċir u għall-kumpanija."
+  - q: "Għandi nilgħab Concentration klassika ma’ persuna bid-dimenzja?"
+    a: "Fil-bidu, xi nies xorta jgawduha, speċjalment b’numru żgħir ta’ karti. Jekk it-tfakkir fejn jinsabu l-karti jibda jikkawża frustrazzjoni, qalleb il-karti miftuħa u sempliċiment sibu flimkien il-pari. Dan iżomm it-tqabbil u jneħħi t-test tal-memorja."
+  - q: "Liema logħbiet tal-memorja jaqblu għal anzjani f’grupp?"
+    a: "Il-bingo tar-ritratti b’min jgħajjat fuq l-iskrin, it-tlestija ta’ kliem familjari b’leħen għoli, u l-conversation cards kollha jaqblu għal gruppi. Ilagħbu sakemm kull karta timtela, u evita li tgħid min laħaq it-tweġiba, sabiex ħadd ma jħoss li qed jiġi magħżul waħdu."
+  - q: "Hemm logħbiet tal-memorja b’xejn għal anzjani online?"
+    a: "Iva. Il-logħbiet f’dan is-sit, inkluż Picture Pairs, Find the Same, Photo Pairs u Picture Puzzle, huma b’xejn, ma jeħtieġu l-ebda reġistrazzjoni u jaħdmu fuq it-telefowns, it-tabelli u l-kompjuters. Ebda waħda minnhom m’għandha timer jew punteġġ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Fittex “logħbiet tal-memorja għal anzjani” u ħafna minn dak li ssib kien magħmul għal nies li jridu eżerċizzju mentali: karti moħbija, arloġġi tal-għadd lura, livelli u punteġġi. Għal persuna li qed tgħix bid-dimenzja, dawk l-affarijiet iduru l-logħba f’test ta’ dak li sar iebes. L-istess logħbiet jistgħu jitlagħbu b’mod iktar ġentili. Din il-paġna turi kif, u tilista logħbiet li jaħdmu tajjeb f’kull stadju.
 
-## Why do classic memory games frustrate people with dementia?
+## Għaliex il-logħbiet klassiċi tal-memorja jfixklu lin-nies bid-dimenzja?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Għax jiddependu fuq li jżommu informazzjoni ġdida f’moħħhom, u dan spiss huwa l-ewwel ħaġa li l-Alzheimer’s, l-iktar kawża komuni tad-dimenzja, taffettwa. L-[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) jgħid li l-iktar sintomu bikri komuni tal-Alzheimer huwa d-diffikultà biex titfakkar informazzjoni li għadha kemm tgħallimt. Fil-Concentration klassika, tqallab żewġ karti, tiftakar fejn kienu, u tuża dik l-informazzjoni ftit aktar tard. Dik hija informazzjoni ġdida, miżmuma u mfakkra.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Iżid arloġġ tal-għadd lura, punteġġ jew ċanfira għal tweġibiet ħżiena, u l-persuna tiġi mfakkra b’dak li ma tistax tagħmel, quddiem xi ħadd li tħobb. Ħafna nies iwaqqfu jridu jilagħbu.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Li tara xi ħaġa u tagħrafha huwa kompitu differenti u ġeneralment iktar faċli. Li tindika t-tazza t-tieni meta t-tnejn ikunu viżibbli tħoss tajjeb. Għalhekk it-trick huwa li żżomm it-tqabbil u titlef it-test tal-memorja.
 
-## How do you make a memory game gentle?
+## Kif tagħmel logħba tal-memorja ġentili?
 
-These adjustments work for card games, board games and games on a screen.
+Dawn l-aġġustamenti jaħdmu għal logħbiet bil-karti, logħbiet tal-bord u logħbiet fuq skrin.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Ħalli r-ritratti miftuħa.** Tqabbil ta’ ritratti li tista’ tara għadu logħba vera, u ta’ spiss waħda sodisfaċenti.
+2. **Uża inqas biċċiet.** Ibda b’tnejn jew tlieta pari. Żid aktar biss jekk jidher faċli wisq u jridu iktar.
+3. **Agħżel ritratti kbar, familjari u għall-adulti.** Tazza tè, girasole, dgħajsa bil-qlugħ. Mhux karikaturi, u mhux xeni mimlija.
+4. **Ilagħbu bħala tim.** “Ejja nsibu l-klieb” minflok “it-turn tiegħek.” Ikunu jdawru u jgħinu lil xulxin.
+5. **Itfa’ l-punteġġ.** Ħadd m’għandu bżonn jirbaħ. Jekk xi ħadd jistaqsi, “konna kollna” jkun biżżejjed.
+6. **Qatt tiġri mal-arloġġ.** L-ebda timer, u l-ebda għaġla bejn turn u ieħor.
+7. **Itkellmu dwar ir-ritratti.** “Ara dik id-dgħajsa. Qatt mort bil-qlugħ?” Il-konverżazzjoni spiss hija l-aħjar parti.
+8. **Waqqaf b’nota tajba.** Spiċċa wara tqabbil, waqt li għadu jidher pjaċevoli.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Il-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jagħti l-istess spirtu bħala parir ġenerali: aqbel l-attività ma’ dak li l-persuna tista’ tagħmel, oqgħod attent għall-frustrazzjoni, u assigura li tħossha li rnexxielha.
 
-## Gentle memory and matching games to try
+## Logħbiet ġentili tal-memorja u tat-tqabbil biex tipprova
 
-### Picture pairs (matching with pictures showing)
+### Picture Pairs (tqabbil b’ritratti li jidhru)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) hija logħba tat-tqabbil b’ritratti kbar u minn 4 sa 12-il biċċa. Ir-ritratti jistgħu jibqgħu viżibbli, allura hija dwar li ssib it-tewmijiet, mhux li tiftakar fejn kienu. Ibda b’erba’ biċċiet. Għal persuna fl-istadju bikri li tgawdi ftit aktar sfida, tista’ tibdel għal **Hidden pictures**, imma erġa’ lura għal ritratti miftuħa minnufih kmieni li jieqaf ikun pjaċevoli.
 
-### Find the same
+### Find the Same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) turi ritratt wieħed fil-quċċata u tnejn sa erba’ għażliet taħtu. Ħu dak li jaqbel. Hija l-aktar logħba tat-tqabbil sempliċi fuq is-sit, u tgħodd għal nies li jsibu grilja sħiħa tqila wisq, inklużi ħafna fl-istadji aħħar b’xi ħadd biswit.
 
-### Photo pairs (family photo memory game)
+### Photo Pairs (logħba tal-memorja b’ritratti tal-familja)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) tqallib ritratti li tagħżel f’logħba tat-tqabbil: il-kelb, il-ġnien, id-dar tal-bajja. Uċuħ u postijiet familjari spiss iqajmu konverżazzjoni aktar minn kwalunkwe stampa ġenerika. Ir-ritratti jibqgħu fil-browser tiegħek u ma jintbagħtux qatt lil ħadd.
 
-### Sort together
+### Sort Together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) jistaqsik tpoġġi kull ritratt fil-kexxun fejn jappartjeni, bħall-kuċina jew il-ġnien. Is-sortjar jiddependi fuq għarfien miżmum fit-tul dwar kif id-dinja taħdem, mhux fuq memorja fuq terminu qasir.
 
-### Picture puzzle
+### Picture Puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) taqsam ritratt f’4 jew 9 biċċiet. Ikklikkja żewġ biċċiet biex tbiddilhom sakemm ir-ritratt jiġi sħiħ. Ir-ritratt kollu jibqa’ fuq l-iskrin bħala gwida.
 
-### Real cards on the table
+### Karti reali fuq il-mejda
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+M’intix teħtieġ skrin. Ħu pari tat-tqabbil minn żewġ dekks ta’ karti jew minn sett ta’ karti bi stampi. Poġġihom miftuħa f’żewġ ringieli u sibu flimkien il-pari. Aktar tard, sortjahom bil-kulur jew bis-seme minflok. L-[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) jelenka logħbiet bil-karti u tal-bord fost l-attivitajiet għall-istadju bikri.
 
-## Which memory games suit each stage?
+## Liema logħbiet tal-memorja jaqblu ma’ kull stadju?
 
-Stages are loose labels. Go by what the person enjoys today.
+L-istadji huma tikketti ftit flessibbli. Imxi skont dak li l-persuna tgawdi llum.
 
-| Stage | Games that often fit | How to set them up |
+| Stadju | Logħbiet li spiss jaqblu | Kif tiffissahom |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Bikri | Picture Pairs, Photo Pairs, Picture Puzzle b’9 biċċiet, logħbiet tal-karti familjari | Ħalliha tagħżel. Il-biċċiet jistgħu jinqalbu jekk jgawduha; itfa’ l-punteġġ jekk jidjaqlilha |
+| Nofs | Picture Pairs b’4 sa 6 biċċiet miftuħa, Find the Same, Sort Together | Ritratti dejjem viżibbli. Oqgħod ħdejha u ħudu t-turn fl-għajnuna |
+| Tardiv | Find the Same b’żewġ għażliet, tħarsu flimkien ritratt kbir wieħed | Qasir ħafna. Int żżomm it-tablet; hija tindika, jew tħares u tisma’ biss |
 
-## Do memory games help with dementia?
+## Il-logħbiet tal-memorja jgħinu d-dimenzja?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+L-ebda logħba tal-memorja ma ntwerat li tikkura, tgħaffi jew twaqqaf id-dimenzja. [Review ta’ Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) dwar taħriġ kognittiv permezz tal-kompjuter għal persuni b’indebboliment kognittiv ħafif sab l-evidenza limitata wisq biex ngħidu jekk jipprevjenix id-dimenzja. Il-gwida tagħna dwar [logħbiet tal-moħħ u d-dimenzja](/brain-health/brain-games/) tispjega dak li l-istudji juru u dak li ma jurux.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Dan m’huwiex raġuni biex titlef il-logħbiet. L-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) jirrakkomanda li tiffoka fuq il-pjaċir, mhux fuq il-prestazzjoni. Għaxar minuti ta’ tqabbil ta’ ritratti u diskussjoni dwarhom jistgħu jkunu parti vera tajba mill-ġurnata.
 
-## What about memory games for seniors without dementia?
+## Għal anzjani mingħajr dimenzja, x’inhu?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Jekk anzjan mingħajr problemi tal-memorja jgawdi logħbiet b’ħin, punteġġi u livelli iebsin, m’hemm xejn ħażin f’dan. Biss ma tafdax fuqhom biex jipproteġuk mid-dimenzja; ebda logħba ma ntwerat li tagħmel dan. Il-verżjonijiet ġentili hawn fuq jaħdmu tajjeb ukoll meta ġenerazzjonijiet jilagħbu flimkien: nannu jew nanna bid-dimenzja u neputi żgħir jistgħu jqabblu ritratti bħala tim, u ħadd minnhom ma jkun qed jiġi ttestjat.
 
-## When should you stop or change the game?
+## Meta tieqaf jew tibdel il-logħba?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+It-tnikkir, it-tbegħid tat-tablet, li tgħid “ma nistax nagħmel dan” jew li tidher ansjuża huma kollha sinjali biex tagħmilha aktar faċli jew tieqaf. Ipprova inqas biċċiet, qalleb ir-ritratti miftuħa, aqleb għal [Find the same](/games/find-the-same/), jew sempliċiment ħares lejn ir-ritratti u tkellem. Jekk ma jridux jilagħbu xejn, ukoll dan huwa tajjeb. Il-gwida tagħna dwar [kif tilagħbu flimkien](/caregiving/how-to-play-together/) fiha aktar dwar il-ħin u l-għajnuna.

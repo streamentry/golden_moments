@@ -1,35 +1,30 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "קען מען דעמענץ פֿאַרהיטן? װאָס די פֿאָרשונג זאָגט"
+seoTitle: "קען מען דעמענץ פֿאַרהיטן? װאָס די פֿאָרשונג זאָגט"
+description: "װאָס די 2024 לאַנסעט־קאָמיסיע און גרױסע פּרוּװן האָבן געפֿונען װעגן פֿאַרמינדערן דעמענץ־ריזיקע, װאָס זײ האָבן נישט געפֿונען, און שריטן צו באַשפּרעכן מיט אַ דאָקטער."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  קײנער קען נישט צוזאָגן צו פֿאַרהיטן דעמענץ. די 2024 לאַנסעט־קאָמיסיע האָט געשאַצט, אַז כּמעט העלפֿט פֿון די דעמענץ־פֿאַלן אױף דער װעלט זענען פֿאַרבונדן מיט 14 ענדערבאַרע ריזיקע־פֿאַקטאָרן, אַזױ װי הויכער בלוטדרוק, געהער־פֿאַרלוסט און אומבאַװעגלעכקײט. פּרוּװן װײַזן קלײנע װירקונגען אויף דענק־טעסטן, נישט באַװײַז פֿון װייניקער דעמענץ־פֿאַלן. פֿיל מענטשן װאָס טוען אַלץ „ריכטיק“ באַקומען נאָך אַלץ דעמענץ, און עס איז קײנעמס שולד.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "די 2024 לאַנסעט־קאָמיסיע האָט פֿאַרבונדן אַרום 45% פֿון דעמענץ־פֿאַלן אױף דער װעלט מיט 14 פּאָטענציעל ענדערבאַרע ריזיקע־פֿאַקטאָרן. דאָס איז אַ באַפֿעלקערונגס־שאַצונג, נישט אַ פּערזענלעכע גאַראַנטיע."
+  - "ריזיקע־פֿאַרמינדערונג מײנט צו פֿאַרמינדערן די שאַנסן איבער אַ גאַנצע באַפֿעלקערונג. עס מײנט נישט, אַז קײן איינציקער מענטש קען פֿאַרמײַדן דעמענץ."
+  - "גרױסע פּרוּװן װי FINGER, US POINTER און SPRINT MIND האָבן קלײנע נוצן געפֿונען אויף דענק־טעסטן אָדער מילדע קאָגניטיװע שװאַכקײט, אָבער קײנער האָט נישט באַװיזן, אַז אַ לעבנסשטײגער־פּראָגראַם פֿאַרהיט דעמענץ."
+  - "עלטער איז דער גרעסטער באַקאַנטער ריזיקע־פֿאַקטאָר פֿאַר אַלצהײמערס, און מען קען אים נישט ענדערן. פֿיל מענטשן מיט געזונטע געװוינהײטן באַקומען נאָך אַלץ דעמענץ."
+  - "די שריטן װאָס מען לערנט מערסטנס, װי באַהאַנדלען הויכן בלוטדרוק, נוצן געהער־אַפּאַראַטן און בלײַבן אַקטיװ, זענען װערט צו באַשפּרעכן מיט אַ דאָקטער, װײַל זײ העלפֿן די געזונט אויך אויף אַנדערע אופֿנים."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "קען מען דעמענץ פֿאַרהיטן?"
+    a: "עס איז נישט קײן באַװיזענער װעג צו פֿאַרהיטן דעמענץ פֿאַר קײן איינציקן מענטש. פֿאָרשונג לאָזט פֿאַרשטײן, אַז פֿאַרמינדערן באַשטימטע ריזיקעס, אַזױ װי הויכער בלוטדרוק, אומבאַהאַנדלטער געהער־פֿאַרלוסט און רױכערן, קען פֿאַרמינדערן די שאַנס פֿון דעמענץ איבער אַ באַפֿעלקערונג אָדער פֿאַרצײַטן ווען עס הײבט זיך אָן. דאָס זענען שאַנסן, נישט צוזאָגן."
+  - q: "װאָס מײנט די 45% שאַצונג פֿון דער לאַנסעט־קאָמיסיע?"
+    a: "די 2024 לאַנסעט־קאָמיסיע האָט געשאַצט, אַז אַרום 45% פֿון דעמענץ־פֿאַלן אױף דער װעלט זענען פֿאַרבונדן מיט 14 ריזיקע־פֿאַקטאָרן, װאָס קענען טעאָרעטיש געענדערט װערן. די שאַצונג נעמט אָן, אַז די פֿאַקטאָרן פֿאַרורזאַכן דעמענץ, און די מחברים באַמערקן, אַז עטלעכע פֿאַרבינדונגען קענען נאָר טײלװײַז קאָזאַל זײַן. זי באַשרײַבט גאַנצע באַפֿעלקערונגען און זאָגט אײַך נישט קײן איינציקן מענטשנס ריזיקע."
+  - q: "אױב מײַן עלטערן האָבן געלעבט אַ געזונטן לעבנסשטײל, פֿאַרװאָס האָבן זײ דעמענץ באַקומען?"
+    a: "עלטער, גענעס און פֿיל פֿאַקטאָרן װאָס קײנער קאָנטראָלירט שפּילן אַ גרױסע ראָלע בײַ דעמענץ. די מחברים פֿון דער לאַנסעט־קאָמיסיע באַמערקן, אַז צו פֿאַרמינדערן די ריזיקע איבער אַ באַפֿעלקערונג גאַראַנטירט נישט, אַז קײן איינציקער מענטש װעט נישט האָבן דעמענץ. אַ דיאַגנאָז איז נישט קײן צײכן, אַז עמעץ האָט פֿאַרפֿעלט."
+  - q: "איז צו שפּעט צו פֿאַרמינדערן דעמענץ־ריזיקע נאָך 65 יאָר?"
+    a: "די לאַנסעט־קאָמיסיע זאָגט, אַז עס איז קיינמאָל נישט צו פֿרי און נישט צו שפּעט צו פֿאַרמינדערן ריזיקע, כאָטש פֿיל פֿון די באַװײַזן באַטרעפֿן מיטן לעבן. באַהאַנדלען הערן־ און זעונג־פּראָבלעמען, בלײַבן אַקטיװ און האַלטן קאָנטאַקט מיט מענטשן זענען ביישפּילן פֿון שפּעטערע שריטן װאָס זענען געלערנט געװאָרן. רעדט מיט אַ דאָקטער װעגן װאָס פּאַסט צו אײַער געזונט."
+  - q: "צי פֿאַרהיטן מוח־שפּילן אָדער ספּעציעלע דיעטן דעמענץ?"
+    a: "קײן שפּיל, עסן, דערנערונג־צוגאָבן אָדער דיעט איז נישט באַװיזן געװאָרן צו פֿאַרהיטן דעמענץ. אַ דרײ־יאָריקער פּרוּװ פֿון דער MIND דיעט האָט נישט געפֿונען קײן באַטײַטנדן חילוק אין דענקען אין פֿאַרגלײַך מיט אַ קאָנטראָל־דיעט, און קאָמערציעלע מוח־טרענינג־אַפּלײקאַציעס זענען נישט באַװיזן געװאָרן צו האָבן די װירקונגען װאָס מען זעט אין פּרוּװ־שטודיעס."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +58,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+אױב איר פֿאַרזאָרגט עמעצן מיט דעמענץ, אָדער האָט געזען אַ עלטערן לעבן מיט דעם, האָט איר װאָרשײנלעך געװוּנדערט זיך צי מען קען עס האָבן אָפּגעשטעלט, און צי איר קענט עס פֿאַרהיטן בײַ אײַך. דער בלאַט זעצט אַרױס װאָס די פֿאָרשונג זאָגט טאַקע, אין פּשוטע װערטער. די קורצע תשובה: קײנער קען נישט צוזאָגן צו פֿאַרהיטן דעמענץ, אָבער פֿאָרשונג לאָזט פֿאַרשטײן, אַז מען קען עטלעכע ריזיקעס פֿאַרמינדערן, און אַז פֿאַרמינדערן זײ איבער אַ באַפֿעלקערונג קען מיינען װײניקער מענטשן װאָס באַקומען דעמענץ, אָדער אַז ער קומט שפּעטער.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+דאָס איז אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. זעט ביטע [אונדזער מעדיצינישן אָפּזאָג](/medical-disclaimer/) און רעדט מיט אַ דאָקטער װעגן אײער אײגענער געזונט.
 
-## Can dementia be prevented?
+## קען מען דעמענץ פֿאַרהיטן?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+עס איז נישט קײן באַװיזענער װעג צו פֿאַרהיטן דעמענץ פֿאַר קײן איינציקן מענטש. דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA) זאָגט, אַז כאָטש [נאָך קײנס איז נישט באַװיזן געװאָרן צו פֿאַרהיטן אַלצהײמערס](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), האָבן פֿאָרשער געפֿונען הבטחהדיקע שטרעבונגען און לערנען, װאָס קען אָדער קען נישט אַרבעטן.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+װאָס די פֿאָרשונג *װײַזט* איז, אַז געװיסע געזונט־צושטאַנדן און געװוינהײטן זענען פֿאַרבונדן מיט אַ העכערער שאַנס פֿון דעמענץ. װען די ריזיקעס זענען נידעריקער איבער אַ גאַנצע באַפֿעלקערונג, קענען װײניקער מענטשן באַקומען דעמענץ, אָדער זײ קענען עס באַקומען שפּעטער אין לעבן. דאָס איז זייער אַנדערש פֿון אַ גאַראַנטיע.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+אײן האָפֿענונג־פֿולע צײכן: די 2024 לאַנסעט־קאָמיסיע האָט באַריכטעט, אַז אין עטלעכע הויך־איינקומענדיקע לענדער, אײַנגערעכנט די פֿאַרײניקטע שטאַטן און בריטאַניע, איז דער טייל עלטערע מענטשן מיט דעמענץ געפֿאַלן. די מחברים מײנען, אַז דאָס איז מסתּמא טײלװײַז צוליב בעסערער בילדונג, בעסערער געזונט־זאָרג און װייניקער שאָדן פֿאַר די בלוט־געפֿעס איבער אַ לעבן, לויט [דער זאַמענפֿאַסונג פֿון דעם באַריכט פֿון University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## װאָס האָט די 2024 לאַנסעט־קאָמיסיע געפֿונען?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+די לאַנסעט־קאָמיסיע װעגן דעמענץ־פֿאַרהיטונג, באַהאַנדלונג און זאָרג איז אַ גרופּע פֿון 27 דעמענץ־פֿאָרשער װאָס איבערקוקן די באַװײַזן אַלע עטלעכע יאָר. זײער באַריכט פֿון 2024 האָט באַצײכנט **14 ריזיקע־פֿאַקטאָרן** װאָס קענען פּאָטענציעל געענדערט װערן, און געשאַצט, אַז זײ צוזאַמען מאַכן **כּמעט העלפֿט (אַרום 45%) פֿון דעמענץ־פֿאַלן אױף דער װעלט**. לױט די מחברים קענען די פֿאַלן טעאָרעטיש פֿאַרהיט אָדער פֿאַרצײַטן װערן, אויב די ריזיקעס װאָלטן געװען אַװעקגענומען ([באַריכט פֿון דער לאַנסעט־קאָמיסיע פֿון 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+די 14 פֿאַקטאָרן, געגרופּירט לױט דעם לעבנס־שטאַפּל װו די באַװײַזן זענען שטאַרקסטע:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **פֿרי־יוגנט:** װייניק בילדונג.
+- **מיטן לעבן (אַרום די יאָרן 40 ביז 65):** געהער־פֿאַרלוסט, הויכער שלעכטער כאָלעסטערין (LDL), דעפּרעסיע, קאָפּ־פֿאַרלעצונג, פֿיזישע אומבאַװעגלעכקײט, צוקערקרענק, רױכערן, הויכער בלוטדרוק, אַדיפּאָזיטעט און שװער טרינקען.
+- **שפּעטערע יאָרן:** געזעלשאַפֿטלעכע איינזאַמקײט, לופֿט־פֿאַרפּעסטיקונג און נישט־באַהאַנדלטער זעונג־פֿאַרלוסט.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+די צװײ נײַסטע צוגאָבן אין 2024 זענען הויכער שלעכטער כאָלעסטערין (LDL) און נישט־באַהאַנדלטער זעונג־פֿאַרלוסט. די פֿאַקטאָרן װאָס זענען פֿאַרבונדן מיט דעם גרעסטן טייל פֿון פֿאַלן זענען געװען געהער־פֿאַרלוסט און הויכער שלעכטער כאָלעסטערין (LDL), יעדער אַרום 7%, נאָכגעפֿאָלגט פֿון װייניק בילדונג און געזעלשאַפֿטלעכער איינזאַמקײט, יעדער אַרום 5%.
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+אונדזער [ריזיקע־פֿאַקטאָרן־גײד](/brain-health/risk-factors/) גײט דורך אַלע 14 אין אַ טאַבעלע, מיט װאָס פֿאָרשונג פֿאַרבינדט און װאָס איר קענט טאָן.
 
-### What the 45% figure does not mean
+### װאָס די 45% שאַצונג באַטײט נישט
 
-It is easy to misread this number, so it helps to be precise:
+עס איז גרינג צו מיסװערשטײן די צאָל, דעריבער איז עס נוציק צו זײַן גענױ:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **עס איז אַ באַפֿעלקערונגס־שאַצונג.** עס באַשרײַבט דעמענץ־פֿאַלן איבער דער גאַנצער װעלט, נישט אײַערע שאַנסן אָדער די שאַנסן פֿון אײַער עלטערן.
+- **עס נעמט אָן סיבה און װירקונג.** די מחברים זאָגן, אַז זײ האָבן נאָר אַרײַנגענומען ריזיקע־פֿאַקטאָרן מיט איבערצײגנדע באַװײַזן, אָבער אַז עטלעכע פֿאַרבינדונגען קענען נאָר טײלװײַז קאָזאַל זײַן. למשל, דעפּרעסיע אין שפּעטערע יאָרן קען מאָל זײַן אַ פֿרי סימפּטאָם פֿון דעמענץ און נישט אַ סיבה.
+- **עס גאַראַנטירט נישט עפּעס פֿאַר איינעם.** די זאַמענפֿאַסונג פֿון UCL באַמערקט, אַז ריזיקע־פֿאַרמינדערונג אַרבעט אויף דער מדרגה פֿון אַ באַפֿעלקערונג און גאַראַנטירט נישט, אַז קײן איינציקער מענטש װעט נישט האָבן דעמענץ.
+- **דער אַנדערער האַלב איז נישט דערקלערט דורך די פֿאַקטאָרן.** עלטער, גענעס און סיבות װאָס װיסנשאַפֿטלער פֿאַרשטײן נאָך נישט, מאַכן דעם רעשט.
 
-## What is the difference between "risk reduction" and "prevention"?
+## װאָס איז דער חילוק צװישן „ריזיקע־פֿאַרמינדערונג“ און „פֿאַרהיטונג“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**ריזיקע־פֿאַרמינדערונג** מײנט צו פֿאַרמינדערן די שאַנסן. אױב אַ גרױסע גרופּע מענטשן פֿאַרמינדערט איר בלוטדרוק, װעלן װײניקער פֿון זײ מסתּמא באַקומען דעמענץ איבער פֿיל יאָרן, װי אויב זײ װאָלטן עס נישט געטאָן. עטלעכע יחידים אין דער גרופּע װעלן נאָך אַלץ עס באַקומען.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**פֿאַרהיטונג** מײנט צו פֿאַרהיטן, אַז עפּעס זאָל גאָר נישט פּאַסירן. בײַ דעמענץ איז דאָס נישט עפּעס װאָס פֿאָרשונג קען הײַנט צוזאָגן קײנעם.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+פֿאָרשער רעדן אויך װעגן **פֿאַרצײַטן**. די לאַנסעט־קאָמיסיע באַריכטעט נײַע באַװײַזן, אַז פֿאַרמינדערן דעם ריזיקע קען פֿאַרשיבן ווען דעמענץ הײבט זיך אָן און פֿאַרקירצן די צײַט װאָס אַ מענטש לעבט מיט שלעכט געזונט. אפֿילו אַ פֿאַרצײַט פֿון עטלעכע יאָר קען פֿיל באַטײַטן פֿאַר אַ מענטש און זײַן משפּחה.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+אױף דער זײַט װעגן מיר נוצן מיר „פֿאַרמינדערן ריזיקע“ און „פֿאַרבונדן מיט“ בכּװנה. װען איר זעט אַ פּראָדוקט, אַ דערנערונג־צוגאָב אָדער אַ פּראָגראַם װאָס צוזאָגט צו „פֿאַרהיטן אַלצהײמערס“, באַהאַנדלט עס מיט פֿאָרזיכטיקײט. די NIA רעקאָמענדירט צו פֿרעגן אַ דאָקטער פֿאַר דעם נעמען פֿון קײן פּיל אָדער באַהאַנדלונג װאָס צוזאָגט צו פֿאַרהיטן אַלצהײמערס, װײַל אַזעלכע פּראָדוקטן קענען זײַן אומזיכער, אַ פֿאַרשװענדונג פֿון געלט, אָדער ביידע.
 
-## What have large trials found?
+## װאָס האָבן גרױסע פּרוּװן געפֿונען?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+אָבסערװאַציע־שטודיעס (װאָס קוקן װאָס פּאַסירט מיט מענטשן איבער צײַט) קענען װײַזן פֿאַרבינדונגען. רענדאָמיזירטע פּרוּװן, װו מענטשן װערן צוגעטיילט צו אַ פּראָגראַם אָדער אַ פֿאַרגלײַכונגס־גרופּע דורך צופֿאַל, זענען דער שטאַרקערער טעסט. דאָ איז װאָס עטלעכע פֿון די בעסטבאַקאַנטע פּרוּװן האָבן געפֿונען.
 
-### FINGER (Finland)
+### FINGER (פֿינלאַנד)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+דער פּרוּװ FINGER האָט אײַנגעשריבן 1,260 דערװאַקסענע פֿון 60 ביז 77 יאָר װאָס זענען געװען אין העכערער ריזיקע פֿון דעמענץ. די האַלבע האָט באַקומען אַ צװײ־יאָריקע פּראָגראַם פֿון דיעטע־באַראַטונג, טעטיקײט, קאָמפּיוטער־געהירן־איבונגען און קאָנטראָלן פֿון האַרץ און בלוטגעפֿעס; די אַנדערע האַלבע האָט באַקומען אַלגעמיינע געזונט־באַראַטונג. די פּראָגראַם־גרופּע האָט זיך אַ ביסל בעסער געהאַלטן אויף אַ סעט דענק־טעסטן, אַ קלײן אָבער סטאַטיסטיש באַטײַטנדיק חילוק ([פּרוּװ FINGER אין The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). דער פּרוּװ האָט געמעסטן טעסט־רעזולטאַטן, נישט דעמענץ־דיאַגנאָזעס.
 
-### US POINTER (United States)
+### US POINTER (פֿאַרײניקטע שטאַטן)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER האָט אײַנגעשריבן 2,111 דערװאַקסענע פֿון 60 ביז 79 יאָר װאָס זענען געװען אומבאַװעגלעך, האָבן געהאַט אַ װייניקער געזונטע דיעטע און אנדערע ריזיקע־פֿאַקטאָרן. ביידע גרופּעס זענען געװען אײַנגעלאַדן צו זײַן מער פֿיזיש און גײַסטיק אַקטיװ, בעסער עסן, געזעלשאַפֿטלעך בלײַבן און קאָנטראָלירן די געזונט פֿון האַרץ. איינע גרופּע האָט באַקומען אַ סטרוקטורירטע, מיט טרענער באַגלײט פּראָגראַם; די אַנדערע האָט זיך אַליין געפֿירט. אין צװײ יאָר האָבן די דענק־טעסטן זיך פֿאַרבעסערט אין **ביידע** גרופּעס, און עטװאָס מער אין דער סטרוקטורירטער גרופּע ([פּרוּװ US POINTER אין JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). די מחברים זאָגן, אַז מען דאַרף מער נאָכפֿאָלג צו װיסן צי דער חילוק טוט אַ ראָלע אין טאָגליכן לעבן. װײַל עס איז נישט געװען קײן „טו גאָרנישט“ גרופּע, קען דער פּרוּװ נישט זאָגן, װי פֿיל יעדע פּראָגראַם האָט געהאָלפֿן פֿאַרגלײַכנדיק מיט קײן ענדערונג.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (בלוטדרוק)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND האָט געלערנט 9,361 אַמעריקאַנישע דערװאַקסענע פֿון 50 יאָר און עלטער מיט הויכן בלוטדרוק. זײ זענען צוגעטיילט געװאָרן צו אַ נידעריקערן בלוטדרוק־ציל (דער אױבערער נומער אונטער 120) אָדער צום סטאַנדאַרד־ציל (אונטער 140). דער נידעריקערער ציל האָט באַטײַטנד פֿאַרמינדערט **מילדע קאָגניטיװע שװאַכקײט**, אַ שטאָפֿל פֿון דענק־ און זכרון־פּראָבלעמען װאָס קען קומען פֿאַר דעמענץ. פֿאַר **װאַרשײנלעכער דעמענץ** זענען געװען װײניקער פֿאַלן אין דער נידעריקערער גרופּע, אָבער דער חילוק איז נישט סטאַטיסטיש באַטײַטנד געװען. דער פּרוּװ איז פֿרי אָפּגעשטעלט געװאָרן און האָט געהאַט װײניקער דעמענץ־פֿאַלן װי ערװאַרט, און דעריבער קען ער געװען צו קלײן געװען זײַן, כּדי די פֿראַגע צו ענטפֿערן ([SPRINT MIND אין JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### װאָס די רעװיזיעס לײגן צוזאַמען
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+אַ 2021 קאָקראַן־רעװיו האָט צונױפֿגענומען נײן גרױסע פּרוּװן פֿון פּראָגראַמען װאָס באַהאַנדלען עטלעכע ריזיקעס אויף אײַנמאָל, מיט מער װי 18,000 מענטשן. עס האָט געפֿונען אַ קלײנע נוץ אויף דענק־טעסטן, אָבער **קײן קלאָרן חילוק װעגן װי פֿיל מענטשן האָבן דעמענץ באַקומען** אין די צװײ פּרוּװן װאָס האָבן עס געמעסטן ([קאָקראַן־רעװיו פֿון מולטי־געביט־פּראָגראַמען](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+אַ 2017 רעװיו פֿון דער נאַציאָנאַלער אַקאַדעמיע פֿון װיסנשאַפֿטן, אינזשעניריע און מעדיצין, װאָס איז פֿון דער NIA פֿאַרקירצט געװאָרן, האָט געפֿונען „אַנקוראַזשירנדיקע אָבער נישט אָפּגעשלאָסענע“ באַװײַזן פֿאַר דרײַ צוגאַנגען: הויכן בלוטדרוק פֿירן, פֿיזישע טעטיקײט פֿאַרגרעסערן, און קאָגניטיװע טרענינג.
 
-## Does it matter when you start?
+## צי איז עס װיכטיק װען מען הײבט אָן?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+די לאַנסעט־קאָמיסיע רעקאָמענדירט צו פֿאַרמינדערן ריזיקעס אַזױ פֿרי װי מעגלעך און האַלטן זײ נידעריק אַזױ לאַנג װי מעגלעך: „װאָס פֿריִער, אַלץ בעסער“ און „װאָס לענגער, אַלץ בעסער“. זי זאָגט אויך, אַז עס איז קיינמאָל נישט צו פֿרי און נישט צו שפּעט צו פֿאַרמינדערן ריזיקע. פֿיל פֿון די באַװײַזן באַטרעפֿן מיטן לעבן, אַרום די יאָרן 40 ביז 65, אָבער עטלעכע פֿאַקטאָרן, אַזױ װי זעונג־פֿאַרלוסט און געזעלשאַפֿטלעכע איינזאַמקײט, זענען ריזיקעס פֿון שפּעטערע יאָרן, װוּ אַקציע קען נאָך מאַכן זינען.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+דער באַריכט זאָגט, אַז עס איז איצט שטאַרקער באַװײַז, אַז לענגערע אויסגעשטעלטקײט צו אַ ריזיקע האָט אַ גרעסערן אײַנפֿלוס. למשל, דיאַבעטעס װאָס הײבט זיך אָן אין מיטן לעבן װײַזט זיך צו זײַן װיכטיקער װי דיאַבעטעס װאָס הײבט זיך שפּעטער אָן.
 
-## Is dementia risk the same for everyone?
+## צי איז די דעמענץ־ריזיקע די זעלבע פֿאַר יעדן?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+נײן. די קאָמיסיע האָט געפֿונען, אַז מענטשן אין נידעריק- און מיטל־איינקומענדיקע לענדער, מענטשן פֿון מינאָריטעטן־גרופּעס און מענטשן מיט װייניק געלט טראָגן אָפֿט מער פֿון די ריזיקעס, אַזױ אַז דעמענץ נײגט זיך צו אָנהײבן אין אַ יינגערן עלטער. פֿיל ריזיקעס זענען פֿאַרבונדן מיט אומשטענדן װאָס מענטשן האָבן נישט אויסגעקליבן, אַזױ װי די קװאַליטעט פֿון שולע װאָס זײ האָבן געהאַט װי קינדער, די לופֿט אין זייער װוינאָרט, און צי געזונטע עסן איז באַצאָלבאַר און נאָענט.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+דעריבער זענען די רעקאָמענדאַציעס פֿון דער קאָמיסיע אָנגעריכט צו רעגירונגען אַזױ פֿיל װי אויף יחידים: גוטע בילדונג פֿאַר אַלע קינדער, ריינערע לופֿט, מאַסנאַמעס צו פֿאַרמינדערן רױכערן, װייניקער צוקער און זאַלץ אין עסן װאָס מען פֿאַרקויפֿט אין געשעפֿטן און רעסטאָראַנען, און געהער־אַפּאַראַטן פֿאַר יעדן װאָס דאַרף זײ. פּערזענלעכע השתדלות איז װיכטיק, אָבער אַזױ איז אויך די װעלט װאָס מענטשן לעבן אין. דאָס איז נאָך אײן סיבה נישט צו באַשולדיקן קײנעם פֿאַר אַ דיאַגנאָז.
 
-## What are the honest limits of this research?
+## װאָס זענען די ערלעכע גרענעצן פֿון דער פֿאָרשונג?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **דעמענץ נעמט יאָרצענדליקן צו אַנטװיקלען זיך**, אָבער רובֿ פּרוּװן דויערן צװײ ביז פֿינף יאָר. דעמענץ זיך אַליין צו מעסטן, נישט נאָר טעסט־רעזולטאַטן, פֿאַדערט זייער לאַנגע און זייער גרױסע שטודיעס.
+- **רובֿ פּרוּװן מעסטן דענק־טעסטן.** אַ קלײנע פֿאַרבעסערונג אויף אַ טעסט מײנט נישט דאַוװען, אַז װײניקער מענטשן װעלן באַקומען דעמענץ אָדער אַז טאָגליך לעבן װעט זײַן גרינגער.
+- **פֿרײַװיליקע זענען אָפֿט געזונטער** און בעסער געבילדעט װי דער אַלגעמיינער ציבור. די לאַנסעט־קאָמיסיע באַמערקט, אַז רובֿ באַװײַז קומט נאָך פֿון הויך־איינקומענדיקע לענדער, און אַז מינאָריטעטן־גרופּעס זענען נישט גענוג פֿאַרטראָטן.
+- **עטלעכע פֿאַרבינדונגען גיין אין ביידע ריכטונגען.** װײניקער אַקטיוו צו זײַן אָדער װייניקער געזעלשאַפֿטלעך קען אַ פֿרי װירקונג פֿון דעמענץ זײַן, און נישט נאָר אַ סיבה.
+- **דיעטע־פּרוּװן זענען ביז איצט אַנטוישנד.** אַ דרײ־יאָריקער פּרוּװ פֿון דער MIND דיעט האָט נישט געפֿונען קײן באַטײַטנדן חילוק אין דענקען אין פֿאַרגלײַך מיט אַ קאָנטראָל־דיעט. זעט [אונדזער דיעט־גײד](/brain-health/diet/).
+- **מוח־שפּילן זענען נישט באַװיזן צו פֿאַרהיטן דעמענץ.** זעט אונדזער גײד װעגן [מוח־שפּילן און דעמענץ](/brain-health/brain-games/).
+- **פֿאַסטן האָט זייער באַגרענעצטע מענטשלעכע באַװײַזן**, און עס קען זײַן געפֿערלעך פֿאַר עלטערע מענטשן. זעט אונדזער [פֿאַסט־גײד](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## אַז עמעץ האָט אַלץ „ריכטיק“ געטאָן, פֿאַרװאָס האָט ער דאָך באַקומען דעמענץ?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+װײַל דעמענץ איז נישט פּשוט דער רעזולטאַט פֿון ברירות. דער NIA זאָגט, אַז [עלטער איז דער גרעסטער באַקאַנטער ריזיקע־פֿאַקטאָר פֿאַר אַלצהײמערס](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), און קײנער קען עס נישט ענדערן. גענעס שפּילן אַ ראָלע. און װיסנשאַפֿטלער פֿאַרשטײן נאָך נישט גאַנץ װאָס פֿאַרורזאַכט אַלצהײמערס בײַ רובֿ מענטשן. אַפֿילו אױב יעדער פֿון די 14 ריזיקע־פֿאַקטאָרן װאָלט אַװעקגענומען געװאָרן, לאָזט די אײגענע שאַצונג פֿון דער לאַנסעט־קאָמיסיע מער װי העלפֿט פֿון די פֿאַלן אָן דערקלערונג.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+אַזױ, אױב איר פֿאַרזאָרגט עמעצן װאָס האָט געטורנט, געגעסן גוט, קײן מאָל נישט גערױכערט און טראָץ דעם דעמענץ באַקומען, איז נישט קײן שולד פֿון זײַן זײַט אָדער פֿון אײַער. אױב איר לעבט אַליין מיט דעמענץ, איז עס נישט אײַער שולד. שולד־געפֿיל איז געװײנלעך צװישן משפּחות, אָבער עס איז נישט פֿאַרדינט. װאָס װיכטיק איז איצט, איז טרייסט, קאָנטאַקט און גוטע טעג, און אונדזערע [טעטיקײט־אידייעס](/activities/ideas/) און [זעלבסט־זאָרג־גײד פֿאַר פֿאַרזאָרגערס](/caregiving/caregiver-self-care/) זענען אַ גוטער אָנהײב.
 
-## What steps can you talk over with a doctor?
+## װאָס שריטן קענט איר באַשפּרעכן מיט אַ דאָקטער?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+דאָס זענען די געביטן װאָס מען לערנט מערסטנס. זײ זענען װערט צו באַשפּרעכן אין אַ קאָנטראָל־באַזוך, װײַל רובֿ פֿון זײ העלפֿן אויך דעם האַרץ, דער שטימונג און דער אומאָפּהענגיקײט, װאָס זאָל די װירקונג אויף דעמענץ זײַן.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **בלוטדרוק.** פֿרעגט װאָס זענען אײַערע נומערן און װאָס פֿאַר אַ ציל פּאַסט פֿאַר אײַך. די לאַנסעט־קאָמיסיע רעקאָמענדירט צו צילן אויף אַן אױבערן נומער פֿון 130 אָדער נידעריקער פֿון אַרום 40 יאָר, אָבער דער רעכטער ציל פֿאַר אַ עלטערן מענטש הענגט פֿון זײַן אַלגעמײנער געזונט אָפּ.
+2. **געהער.** פֿרעגט פֿאַר אַ געהער־בדיקה, און צי געהער־אַפּאַראַטן װאָלטן געהאָלפֿן. אונדזער [געהער־גײד](/brain-health/hearing/) דערקלערט די פֿאָרשונג.
+3. **זעונג.** האָט רעגולערע אױגן־בדיקות און פֿרעגט צי פּראָבלעמען װי קאַטאַראַקטן קענען באַהאַנדלט װערן.
+4. **כאָלעסטערין.** פֿרעגט צי אײער שלעכטער כאָלעסטערין (LDL) דאַרף בדיקן װערן און צי עפּעס דאַרף זיך ענדערן.
+5. **בלוט־צוקער.** אױב איר האָט צוקערקרענק, פֿרעגט װי מען קען עס זיכער פֿירן.
+6. **שטימונג.** דעפּרעסיע איז געװײנלעך און באַהאַנדלבאַר. זאָגט אײַם דאָקטער, אויב איר האָט זיך געפֿילט אַראָפּגעדריקט אָדער פֿאַרלױרן אינטערעס אין זאַכן מער װי צװײ װאָכן.
+7. **רױכערן און אַלקאָהאָל.** פֿרעגט װעגן שטיצע צו אױפֿהערן צו רױכערן און װעגן זיכערע גרענעצן פֿאַר אַלקאָהאָל.
+8. **באַװעגונג.** פֿרעגט װאָס פֿאַר אַ טיפּ טעטיקײט איז זיכער פֿאַר אײַך. אונדזער [באַװעגונג־גײד](/brain-health/exercise/) האָט אידייעס.
+9. **קאָפּ־שוץ.** טראָגט אַ העלם בײַם רײַטן אױף אַ פֿאַר־ראָד און בײַ קאָנטאַקט־ספּאָרטן, און פֿרעגט װעגן פֿאַלן־פֿאַרהיטן.
+10. **בלײַבן פֿאַרבונדן.** צײַט מיט אַנדערע מענטשן איז אַ טייל פֿון אַ געזונט לעבן. זעט אונדזער גײד װעגן [געזעלשאַפֿטלעכער פֿאַרבינדונג](/brain-health/social-connection/), און אויך [שלאָף](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+בעװאָר איר ענדערט מעדיצינען, דיעטע, דערנערונג־צוגאָבן, פֿאַסטן אָדער טעטיקײט, רעדט ערשט מיט אײַער דאָקטער, באַזונדערס אױב איר האָט האַרץ־קרענק, צוקערקרענק, אַ געשיכטע פֿון פֿאַלן, אָדער איר לעבט שױן מיט דעמענץ.
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+אױב איר באַמערקט זכרון־ אָדער דענק־ענדערונגען װאָס זאָרגן אײַך, בײַ אײַך אָדער בײַ עמעצן אַנדערש, מאַכט אַ טערמין. די NIA באַמערקט, אַז [זכרון־פּראָבלעמען קענען האָבן אַנדערע סיבות](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), אַזױ װי מעדיצין־נעבנװירקונגען, שילדריז־פּראָבלעמען, דעפּרעסיע אָדער נידעריק װיטאַמין B12, און אַז עטלעכע פֿון די פּראָבלעמען גײען אַװעק װען די סיבה װערט באַהאַנדלט. אונדזער [װאָרנונג־צײכנס־גײד](/brain-health/warning-signs/) דערקלערט װאָס צו קוקן אויף.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**זוכט דרינגענדיקע הילף** פֿאַר פּלוצעמדיקע ענדערונגען: פּלוצעמדיקע צעמישונג, שװעכקײט אָדער נישט־שפּירן אױף איין זײַט, שװערקײט צו רעדן, אָדער אַ שטאַרקער קאָפּװײטאָג קענען זײַן צײכנס פֿון אַ שלאָג אָדער אַן אַנדער נויטפֿאַל. רופֿט אָן אײַער לאָקאַלן נויטנומער.
 
-## Where Golden Moments fits
+## װו Golden Moments פּאַסט אײַן
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments מאַכט פּשוטע געמײנזאַמע טעטיקײטן, אַזױ װי [שמועס־קאַרטלעך](/games/conversation-cards/), [בילדער־בינגאָ](/games/picture-bingo/) און אַ [רויִקע אָטעם־פּױזע](/games/calm-breathing/). זײ זענען פֿאַר הנאה און צײַט צוזאַמען. זײ זענען נישט קײן באַהאַנדלונג, און זײ פֿאַרהיטן נישט און פֿאַרלאַנגזאַמען נישט דעמענץ.

@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Meta Persuna b'Demenzja Terġa' Tistaqsi l-Istess Mistoqsija"
+seoTitle: "Demenzja: Mistoqsijiet Ripetuti u Kif Twieġeb"
+description: "Għaliex persuna li tgħix bid-demenzja terġa' tistaqsi l-istess mistoqsija, modi kalmi biex twieġeb, għodod sempliċi li jgħinu, u meta bidla f'daqqa teħtieġ tabib."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Mistoqsijiet ripetuti huma komuni fid-demenzja: il-persuna normalment ma tiftakarx li staqsiet, u l-mistoqsija spiss iġġib tħassib magħha. Wieġeb b'kalma u b'mod qasir bħallikieku kienet l-ewwel darba, irrispondi għas-sentiment li hemm wara, u qatt ma tgħid «diġà staqsejt». Ikteb it-tweġiba fejn jistgħu jarawha, semmi avvenimenti ftit qabel ma jiġru biss, u offri attività pjaċevoli. Bidla f'daqqa teħtieġ tabib.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Il-persuna normalment ma tiftakarx li staqsiet; mhux b'intenzjoni."
+  - "Il-mistoqsija spiss taħbi sentiment, bħal tħassib dwar appuntament jew il-bżonn li tħossha sigura."
+  - "Wieġeb b'kalma, b'mod qasir u ġentili, bħallikieku kienet l-ewwel darba. Qatt tgħid «diġà staqsejt»."
+  - "Nota, lawħ tal-kitba, arloġġ jew kalendarju viżibbli jistgħu jwieġbu l-mistoqsija għalik."
+  - "Semmi avvenimenti stressanti ftit qabel ma jiġru biss."
+  - "Ħu waqfa qasira meta jkollok bżonn, u ikkuntattja t-tabib għal kull bidla f'daqqa."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Għaliex missieri b'demenzja jibqa' jistaqsi l-istess mistoqsija?"
+    a: "Id-demenzja taffettwa l-memorja qasira, għalhekk hu jista' verament ma jiftakarx li staqsa jew li sema' t-tweġiba. Spiss il-mistoqsija tiġi wkoll b'sentiment, bħal tħassib dwar x'jiġri wara jew il-bżonn ta' rassigurazzjoni. Twieġeb dak is-sentiment normalment jgħin aktar milli tirrepeti l-fatti."
+  - q: "Għandi ngħidilhom li diġà staqsew?"
+    a: "Le. Ma jistax jgħinhom jiftakru, u jista' jħossu bħal korrezzjoni. Organizzazzjonijiet tad-demenzja jagħtu parir li twieġeb b'kalma kull darba, bħallikieku kienet l-ewwel darba, u żżomm it-tweġiba qasira."
+  - q: "Il-kitba tat-tweġiba tgħin?"
+    a: "Tista' tgħin, sakemm il-persuna għadha tista' taqra. Nota, lawħ bil-pjan tal-ġurnata, arloġġ kbir jew kalendarju fejn jaraw spiss jippermettilhom jivverifikaw it-tweġiba huma stess. Ħalli tara n-nota bil-mod, minflok tgħid «diġà għidtilek»."
+  - q: "Meta għandi nitkellem dwar appuntamenti jew ħrġiet?"
+    a: "Qrib il-ħin. Tkellem dwar żjara tat-tabib jew vjaġġ ġranet qabel jista' jiġi f'sigħat ta' mistoqsijiet imħassba. Għidilhom ftit qabel, b'kalma, u b'x'se jiġri sussegwentement."
+  - q: "Meta r-repetizzjoni hija raġuni biex nikkuntattja t-tabib?"
+    a: "Jekk il-mistoqsijiet, il-konfużjoni jew l-imġieba jinbidlu f'daqqa jew isiru ħafna agħar matul sigħat jew jiem, ikkuntattja t-tabib tagħhom malajr. Infezzjoni, mediċina ġdida, uġigħ, stitikezza jew deidrazzjoni jistgħu jikkawżaw konfużjoni f'daqqa msejħa delirju, li teħtieġ kura malajr."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Fejn jiġi t-tabib?» Għaxar minuti wara: «Fejn jiġi t-tabib?» Li tisma' l-istess mistoqsija mill-ġdid u mill-ġdid huwa wieħed mill-aspetti l-aktar għajenin fil-kura ta' persuna li tgħix bid-demenzja. Huwa komuni ħafna, mhux isir apposta, u hemm modi kalmi biex twieġeb li jagħmlu l-ġurnata aktar faċli għaż-żewġ naħat.
 
-## Why does someone with dementia ask the same question over and over?
+## Għaliex persuna b'demenzja tistaqsi l-istess mistoqsija mill-ġdid u mill-ġdid?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+L-aktar minħabba l-memorja. Id-demenzja taffettwa l-memorja qasira, għalhekk il-persuna spiss ma tiftakarx li staqsiet, jew ma tiftakarx it-tweġiba. L-[Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) jiddeskrivi l-mistoqsijiet li jsiru ħafna drabi bħala ħaġa komuni u mistennija.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Il-mistoqsija spiss iġġib ukoll sentiment magħha. L-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) jispjega li mistoqsija ripetuta tista' tesprimi tħassib, talba għall-għajnuna, jew ansjetà u nuqqas ta' sigurtà, u li l-persuna spiss tfittex kumdità u familjarità. «Meta se mmorru?» jista' fil-fatt ifisser «jien nervuża dwar li nmorru». Il-boredom, il-biża', il-ħoss u bidliet fir-rutina kollha jistgħu jqanqlu dan, u mistoqsija ripetuta tista' wkoll tindika bżonn, bħall-bżonn li tmur it-toilet ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## X'għandi ngħid?
 
-Answer calmly and briefly, as if it were the first time.
+Wieġeb b'kalma u b'mod qasir, bħallikieku kienet l-ewwel darba.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Żomm it-tweġiba qasira u l-istess.** «It-tabib huwa fit-tnejn ta' wara nofsinhar. Jien nkun miegħek.» Tweġiba konsistenti hija aktar faċli biex tinftiehem.
+- **Wieġeb is-sentiment.** «Qed taħseb dwar it-tabib. Se jkun dalwaqt wara nofsinhar, u jien insuq. Ma għandek xejn x'tagħmel.»
+- **Uża leħen sħun u tmiss ġentili,** jekk jogħġbhom it-tmiss. L-Alzheimer's Association jagħti parir biex tibqa' kalm u ma tużax loġika jew targumenti.
+- **Agħti t-tweġiba li qed ifittxu,** kemm-il darba jkun meħtieġ. L-Alzheimer's Association jgħid li għandek tirrepeti t-tweġiba kemm-il darba jistaqsu.
 
-## What should I avoid?
+## X'għandi nevita?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«Diġà staqsejt dan.»** Il-[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) jagħti parir kontra li tgħid li għadhom kemm staqsew. Ma jistax jgħinhom jiftakru, u jista' jagħmilhom iħossu li qed jiġu rimproverati.
+- **Spjegazzjonijiet twal.** Aktar kliem ifisser aktar x'jinsew.
+- **Nifs frustrat, dawran ta' għajnejn jew ton iebes.** Il-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) jagħti parir biex tkun paċenzjuż u ma turix frustrazzjoni. Dan huwa diffiċli; ara t-taqsima dwar il-waqfiet hawn taħt.
 
-## Simple tools that answer the question for you
+## Għodod sempliċi li jwieġbu l-mistoqsija għalik
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Waqt li l-persuna għadha tista' taqra, tweġiba miktuba li jistgħu jaraw spiss tgħin aktar minn waħda mitkellma.
 
-| Tool | How to use it |
+| Għodda | Kif tuża |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Nota b'ittri kbar | «Tabib illum fit-2 pm. Mary se ssuq.» Poġġiha fejn jaraw l-aktar |
+| Lawħ tal-kitba | Il-pjan tal-ġurnata f'tliet jew erba' linji; ħassarha u erġa' ikteb kull filgħodu |
+| Arloġġ kbir bil-ġurnata u d-data | Jgħin b'«X'inhu l-ġurnata?» u «Wasal il-ħin?» |
+| Kalendarju | Ħassar kull ġurnata; iċċirkonda ż-żjara li jmiss |
+| Ritratti familjari | Ritratt tal-persuna li ġejja jista' jwieġeb «Min qed jiġi?» |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Dawn l-ideat ġejjin mill-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) u mill-[Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Ippuntaha bil-mod («Ejja nħarsu lejn il-lawħ flimkien») minflok tgħid «Ktibtha għalik».
 
-## Tell them about events close to the time
+## Semmi avvenimenti ftit qabel ma jiġru
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Li ssemmi appuntament jew ħrġa ġranet qabel jista' jiġi f'sigħat ta' mistoqsijiet imħassba. Il-Family Caregiver Alliance u l-Alzheimer's Los Angeles it-tnejn jissuġġerixxu li titkellem dwar il-pjanijiet, speċjalment dawk stressanti bħal żjarat tat-tabib jew il-ħasil, biss ftit qabel ma jiġru. Imbagħad semmi x'se jiġri sussegwentement, pass pass.
 
-## Activities that can shift attention
+## Attivitajiet li jistgħu jiddevjaw l-attenzjoni
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Wara li twieġeb u tirrikonoxxi s-sentiment, attività kalma u pjaċevoli tista' tgħin, speċjalment jekk il-boredom ikun wara l-mistoqsijiet. Kull sors hawn fuq jissuġġerixxi li tiddevja lejn xi ħaġa li l-persuna togħġobha.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Logħba qasira u sempliċi flimkien.** [Picture pairs](/games/picture-pairs/) iżomm ir-ritratti viżibbli, għalhekk ebda ħaġa ma jeħtieġ tiftakar.
+2. **Xogħol familjari.** It-tpaqqigħ tal-kutri, it-tqassim tal-kalzetti jew it-tqegħid tal-mejda. [Sort together](/games/sort-together/) hija versjoni fuq l-iskrin.
+3. **Tkellem dwar xi ħaġa li jħobbu.** [Conversation cards](/games/conversation-cards/) joffru mistoqsijiet miftuħa, b'ebda tweġiba korretta.
+4. **Mużika, mixja jew spuntin.** In-NIA jelenka dawn fost modi sempliċi biex tiddevja l-attenzjoni.
+5. **Waqfa kwieta.** Oqgħod flimkien, ħares lejn it-tieqa, jew ipprova moment ta' [calm breathing](/games/calm-breathing/) flimkien.
 
-If they return to the question, answer it again, kindly. That is fine.
+Jekk jerġgħu jirritornaw għall-mistoqsija, wieġeb għaliha mill-ġdid, b'ġentilezza. Dan huwa normali.
 
-## Look for patterns
+## Ara għall-mudelli
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+L-Alzheimer's Association jissuġġerixxi li tinnota jekk il-mistoqsijiet jiġu f'ċerti ħinijiet tal-ġurnata, madwar ċerti nies jew f'ċerti postijiet. Jekk dejjem jibdew qabel ma jaslu viżitaturi, jew fil-bidu ta' wara nofsinhar, tista' tippjana qabel: nota dwar iż-żjara, attività familjari lesta, kamra aktar kwieta. Il-gwida tagħna dwar [attivitajiet kalmi ta' wara nofsinhar](/caregiving/late-day-restlessness/) tista' tgħin jekk il-filgħaxijiet huma l-aktar iebsa.
 
-## Take care of yourself
+## Ieħu ħsieb ruħek
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Li twieġeb l-istess mistoqsija għall-ħdax-il darba, jew għall-għoxrin darba, huwa eżawrenti. Jekk tħoss li l-pazjenza tiegħek qed tispiċċa u l-persuna hija sigura, idħol f'kamra oħra għal ftit minuti u ieħu nifs, kif jissuġġerixxi l-[Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) iħeġġeġ lill-persuni li jieħdu ħsieb biex jitolbu għall-għajnuna u jikkunsidraw il-kura ta' sollievu. Aktar ideat jinsabu fil-[gwida tagħna dwar kura personali](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Meta għandi nikkuntattja t-tabib?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Ikkuntattja t-tabib tagħhom malajr jekk il-mistoqsijiet, il-konfużjoni jew l-imġieba jinbidlu f'daqqa jew isiru ħafna agħar matul sigħat jew jiem. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) jgħid li bidliet f'daqqa jew malajr fl-imġieba, speċjalment wara infezzjoni jew bidla fil-mediċini, għandhom jiġu notifikati lit-tabib minnufih. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) jispjega li infezzjoni, mediċini, deidrazzjoni, uġigħ jew stitikezza jistgħu jikkawżaw delirju, konfużjoni severa u f'daqqa li teħtieġ kura malajr. Ċempel in-numru tal-emerġenza lokali tiegħek jekk xi ħadd ikun fil-periklu.

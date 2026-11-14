@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Heywan",
+      "description": "Heywanên nazik û dostane ji seranserê cîhanê"
+    },
+    "nature": {
+      "name": "Xwezayî",
+      "description": "Dîmenên xwezayê yên bedew"
+    },
+    "food": {
+      "name": "Xwarin",
+      "description": "Xwarin û şîraniyên xweş"
+    },
+    "vintage": {
+      "name": "Erebe",
+      "description": "Erebe û kamyonên ku mirov lê binêre û li ser bipeyive"
+    },
+    "flowers": {
+      "name": "Kulîlk",
+      "description": "Kulîlkên bedew û dîmenên baxçeyê"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Heywanên Gundî",
+      "description": "Heywanên dostane yên gundî, mîna serdaneke li gund.",
+      "theme": "Jiyana Gund",
+      "images": {
+        "cow_1": "Çêlekeke Dostane",
+        "pig_1": "Berazekî Dilxweş",
+        "chicken_1": "Dîk",
+        "buffalo_1": "Gamêş",
+        "horse_1": "Hespekî Bedew",
+        "duck_1": "Malbata Werdekan",
+        "goat_1": "Bizineke Meraqdar",
+        "rabbit_1": "Kêvroşkekî Delal"
+      }
+    },
+    "nature_mountains": {
+      "title": "Dîmenên Çiyayan",
+      "description": "Dîmenên çiyayan ên bi heybet û cihên bedew",
+      "theme": "Bedewiya Xwezayê",
+      "images": {
+        "mountain_1": "Lûtkeyên bi Berf",
+        "mountain_2": "Çiyayê Fuji",
+        "mountain_3": "Geliyê Alpan",
+        "mountain_4": "Lûtkeya Zinar",
+        "mountain_5": "Girên Daristanê",
+        "mountain_6": "Çiyayên Mijdar"
+      }
+    },
+    "vintage_cars": {
+      "title": "Erebe û Kamyon",
+      "description": "Erebe û kamyonên geş ku mirov lê binêre û li ser bipeyive",
+      "theme": "Li Ser Rê",
+      "images": {
+        "vintage_car_1": "Audiyeke porteqalî di ristina rojê de",
+        "vintage_car_2": "Erebeya werzîşê ya şîn li çolê",
+        "vintage_car_3": "Bugattiyeke zîvîn",
+        "vintage_car_4": "Porscheyeke reş li ser rê",
+        "vintage_car_5": "BMWyeke porteqalî li kolaneke bi darên xurmeyê",
+        "vintage_car_6": "Coupeyeke şîn li tenişta garajekê",
+        "vintage_car_7": "Kamyoneta kesk",
+        "vintage_car_8": "SUVyeke spî di nav zinarên sor de",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Erebeyeke şîn bi xetên spî"
+      }
+    },
+    "animals_safari": {
+      "title": "Heywanên Safarî",
+      "description": "Heywanên bi heybet ên safariyên Afrîkayê",
+      "theme": "Jiyana Çolê",
+      "images": {
+        "lion_1": "Şêrekî Bi Heybet",
+        "elephant_2": "Fîlê Afrîkî",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebraya Xêzkirî",
+        "rhino_5": "Kerkedanê Bi Hêz",
+        "cheetah_6": "Çîtayê Bilez",
+        "fox_7": "Rovîyê Qehweyî",
+        "bear_8": "Hirça Polar",
+        "turtle_9": "Kûsiya Qehweyî",
+        "squirrel_10": "Sincabê Qehweyî",
+        "macaw_11": "Makawê Zer û Şîn",
+        "tiger_12": "Piling",
+        "raccoon_13": "Rakûn",
+        "wolf_14": "Gurê Gewr",
+        "crocodile_15": "Tîmsah",
+        "peacock_16": "Tawisê Bedew"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Şîraniyên Xweş",
+      "description": "Çend şîraniyên xweş ji bo xwarinên we.",
+      "theme": "Şîraniyên Şîrîn",
+      "images": {
+        "pastries_1": "Çar Pastayên",
+        "oreo_cookie_sandwiches_2": "Sandwîçên Bîskuîta Oreo",
+        "crepe_3": "Krêp",
+        "pancake_4": "Pankek",
+        "macarons_5": "Makaron",
+        "caramel_cake_6": "Kêka Karamelê"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Kulîlkên Tropîkal",
+      "description": "Bedewiya geş a tropîkan bi vê pakêta kulîlkên egzotîk keşf bikin.",
+      "theme": "Kulîlkên Tropîkal",
+      "images": {
+        "hibiscus_1": "Hîbîskusa Sor",
+        "frangipani_2": "Frangipaniya Sor û Spî",
+        "sunflower_3": "Kulîlka Rojê",
+        "hydrangea_4": "Hortensiyaya Spî",
+        "rose_5": "Gul",
+        "chrysanthemum_6": "Krîzantem",
+        "anthurium_7": "Anturyûm",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfînyûm"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Cejna Xwarina Kolanê",
+      "description": "Dinyaya rengîn a xwarina kolanê bi vê pakêta xwarinên sivik ên xweş ji seranserê cîhanê keşf bikin.",
+      "theme": "Xwarina Kolanê",
+      "images": {
+        "taco_1": "Tacoya Meksîkî",
+        "ramen_2": "Ramenê Japonî",
+        "dumplings_3": "Mantiyên Çînî",
+        "samosa_4": "Samosaya Hindî",
+        "pizza_5": "Perçeyek Pîtzaya Îtalî",
+        "crepe_6": "Krêpa Fransî",
+        "satay_7": "Şîşên Satay ên Tayî",
+        "burger_8": "Hamburgera Amerîkî",
+        "bao_9": "Nanê Bao yê Bi Buhar",
+        "takoyaki_10": "Takoyakiya Japonî"
+      }
+    },
+    "nature_landscape": {
+      "title": "Dîmenên Xwezayê",
+      "description": "Dîmenên xwezayê yên aram û bedew ku bi hêdî lê binêrin û bi hev re li ser bipeyivin.",
+      "theme": "Dîmenên Xwezayê",
+      "images": {
+        "mountain_1": "Zincîra Çiyayan",
+        "forest_2": "Daristana Mijdar",
+        "lake_3": "Gola Çiyayî",
+        "desert_4": "Kumên Çolê",
+        "waterfall_5": "Şelal",
+        "beach_6": "Peravê Qûmî",
+        "river_7": "Çemê Herikî",
+        "canyon_8": "Kanyona Mezin",
+        "sunset_9": "Ezmanê Rojavabûnê",
+        "snow_mountain_10": "Çiyayê Bi Berf",
+        "flowers_11": "Kulîlkên Çolê",
+        "rainforest_12": "Daristana Baranê",
+        "iceberg_13": "Çiyayê Qeşayê",
+        "volcano_14": "Volkan",
+        "cliff_15": "Zinarê Peravê",
+        "aurora_16": "Şefeqa Bakur",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Rifa Mercanan"
+      }
+    }
+  }
+}

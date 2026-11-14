@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "ການເຊື່ອມຕໍ່ທາງສັງຄົມ ແລະສຸຂະພາບສະໝອງ: ຄວາມໂດດດ່ຽວ ການຖືກຕັດຂາດ ແລະໂຣກສະໝອງເສື່ອມ"
+seoTitle: "ຄວາມໂດດດ່ຽວ ການຖືກຕັດຂາດທາງສັງຄົມ ແລະຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມ"
+description: "ຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດທາງສັງຄົມເຊື່ອມໂຍງກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມແນວໃດ ຄຳແນະນຳຂອງແພດສູງສຸດສະຫະລັດ ແລະວິທີຕິດຕໍ່ກັນແບບງ່າຍໆ."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  ງານວິໄຈເຊື່ອມໂຍງຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດທາງສັງຄົມໃນໄລຍະປາຍຊີວິດກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ. ຄະນະກຳມະການ Lancet ປີ 2024 ປະເມີນວ່າການຖືກຕັດຂາດກ່ຽວຂ້ອງກັບປະມານ 5% ຂອງກໍລະນີ ແຕ່ບາງສ່ວນຂອງການເຊື່ອມໂຍງອາດເປັນໂຣກສະໝອງເສື່ອມທີ່ເຮັດໃຫ້ຄົນຖອຍຫຼັງ. ການຕິດຕໍ່ກັນ ງານອະດິເລກຮ່ວມກັນ ແລະການຊ່ວຍເຫຼືອດ້ານການໄດ້ຍິນ ລ້ວນສະໜັບສະໜູນການເຊື່ອມຕໍ່. ສຳລັບຄົນທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ ກິດຈະກຳຮ່ວມກັນສຳຄັນສຳລັບຄວາມສຸກ ແລະຄຸນນະພາບຊີວິດ.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "ຄະນະກຳມະການ Lancet ລະບຸການຖືກຕັດຂາດທາງສັງຄົມໃນໄລຍະປາຍຊີວິດເປັນໜຶ່ງໃນ 14 ປັດໄຈສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ປ່ຽນແປງໄດ້ ທີ່ປະມານ 5% ຂອງກໍລະນີ."
+  - "ຄຳແນະນຳດ້ານສຸຂະພາບຂອງສະຫະລັດປີ 2023 ເຊື່ອມໂຍງຄວາມໂດດດ່ຽວເຮື້ອລັງ ແລະການຖືກຕັດຂາດ ກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນປະມານ 50% ໃນຜູ້ໃຫຍ່ອາຍຸຫຼາຍ."
+  - "ຫຼັກຖານສ່ວນໃຫຍ່ນີ້ເປັນການສຶກສາແບບສັງເກດການ ແລະໂຣກສະໝອງເສື່ອມໄລຍະເບື້ອງຕົ້ນທີ່ຍັງບໍ່ໄດ້ວິນິດໄສ ກໍສາມາດເຮັດໃຫ້ຄົນຖອຍຫຼັງໄດ້ເອງ."
+  - "ບັນຫາການໄດ້ຍິນ ແລະສາຍຕາ ການອາໄສຢູ່ຄົນດຽວ ແລະການດູແລຄົນອື່ນ ລ້ວນເພີ່ມຄວາມສ່ຽງຂອງການຖືກຕັດຂາດ."
+  - "ສຳລັບຄົນທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ ກິດຈະກຳຮ່ວມກັນທີ່ໜ້າພໍໃຈຊ່ວຍຄຸນນະພາບຊີວິດ ເປົ້າໝາຍແມ່ນການເຊື່ອມຕໍ່ ບໍ່ແມ່ນການປະຕິບັດໃຫ້ດີ."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "ຄວາມໂດດດ່ຽວເປັນສາເຫດຂອງໂຣກສະໝອງເສື່ອມບໍ?"
+    a: "ຍັງບໍ່ໄດ້ພິສູດ. ການສຶກສາຫຼາຍອັນເຊື່ອມໂຍງຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ ແຕ່ການປ່ຽນແປງໃນສະໝອງໄລຍະເບື້ອງຕົ້ນກໍສາມາດເຮັດໃຫ້ຄົນຖອຍອອກຈາກຄົນອື່ນໄດ້ເຊັ່ນກັນ. ການຮັກສາການຕິດຕໍ່ກັນມີປະໂຫຍດຫຼາຍຢ່າງຕໍ່ອາລົມ ແລະສຸຂະພາບ ດັ່ງນັ້ນຈຶ່ງຄຸ້ມຄ່າທີ່ຈະສົ່ງເສີມ ບໍ່ວ່າຈະມີການພິສູດຫຼືບໍ່."
+  - q: "ຄວາມແຕກຕ່າງລະຫວ່າງຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດທາງສັງຄົມແມ່ນຫຍັງ?"
+    a: "ການຖືກຕັດຂາດທາງສັງຄົມໝາຍເຖິງການມີຄົນໜ້ອຍທີ່ໄດ້ພົບປະພົວພັນເປັນປະຈຳ. ຄວາມໂດດດ່ຽວແມ່ນຄວາມຮູ້ສຶກເຈັບປວດຂອງການຢູ່ຄົນດຽວ ຫຼືຖືກແຍກອອກ. ທ່ານອາດອາໄສຢູ່ຄົນດຽວໂດຍບໍ່ຮູ້ສຶກໂດດດ່ຽວ ຫຼືອາດຮູ້ສຶກໂດດດ່ຽວທັງທີ່ອ້ອມຮອບດ້ວຍຜູ້ຄົນ."
+  - q: "ຂ້ອຍຈະຊ່ວຍພໍ່ ຫຼືແມ່ທີ່ເປັນໂຣກສະໝອງເສື່ອມໃຫ້ຕິດຕໍ່ກັບຄົນອື່ນໄດ້ແນວໃດ?"
+    a: "ການຕິດຕໍ່ສັ້ນໆ ແລະເປັນປະຈຳໄດ້ຜົນດີ. ລອງໂທ ຫຼືວິດີໂອແຊັດປະຈຳອາທິດ ກິດຈະກຳຮ່ວມກັນທີ່ໂຕະອາຫານ ກຸ່ມຄວາມຊົງຈຳ ຫຼືການມາຢ້ຽມຢາມພ້ອມສັດລ້ຽງ ຫຼືລູກຫຼານ. ໃຫ້ກຸ່ມນ້ອຍ ງຽບສະຫງົບ ແລະໃຫ້ຜູ້ນັ້ນເປັນຜູ້ກຳນົດຈັງຫວະ."
+  - q: "ຈະຊອກຄວາມຊ່ວຍເຫຼືອໃນທ້ອງຖິ່ນສຳລັບຜູ້ສູງອາຍຸທີ່ໂດດດ່ຽວໄດ້ຢູ່ໃສ?"
+    a: "Eldercare Locator ເປັນບໍລິການສາທາລະນະ ເຊື່ອມຕໍ່ຄອບຄົວກັບອົງການດ້ານຜູ້ສູງອາຍຸ ແລະໂຄງການຊຸມຊົນໃນທ້ອງຖິ່ນ. ສາມາດຕິດຕໍ່ໄດ້ທີ່ 800-677-1116 ຫຼືທີ່ eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+ມະນຸດຖືກສ້າງມາເພື່ອຢູ່ກັບຄົນອື່ນ ແລະສິ່ງນີ້ບໍ່ປ່ຽນແປງຕາມອາຍຸ. ງານວິໄຈເຊື່ອມໂຍງຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດທາງສັງຄົມໃນໄລຍະປາຍຊີວິດ ກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ ແລະຍັງກັບໂຣກຫົວໃຈ ແລະໂຣກຊຶມເສົ້າອີກດ້ວຍ. ງານວິໄຈຍັງບໍ່ສາມາດບອກໄດ້ວ່າການເຊື່ອມໂຍງນັ້ນເປັນເຫດເປັນຜົນຫຼາຍປານໃດ. ໜ້ານີ້ກວມເອົາສິ່ງທີ່ຫຼັກຖານສະແດງ ວິທີຕິດຕໍ່ກັນແບບປະຕິບັດໄດ້ ແລະເຫດໃດກິດຈະກຳຮ່ວມກັນຈຶ່ງສຳຄັນຫຼາຍສຳລັບຄົນທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມຢູ່ແລ້ວ.
 
-## Are loneliness and isolation linked with dementia?
+## ຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດ ເຊື່ອມໂຍງກັບໂຣກສະໝອງເສື່ອມບໍ?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+ແມ່ນ, ການສຶກສາຫຼາຍອັນເຊື່ອມໂຍງມັນ ເຖິງແມ່ນທິດທາງຂອງການເຊື່ອມໂຍງຍັງບໍ່ຊັດເຈນທັງໝົດ. [ຄະນະກຳມະການ Lancet ປີ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ລະບຸການຖືກຕັດຂາດທາງສັງຄົມໃນໄລຍະປາຍຊີວິດ ເປັນໜຶ່ງໃນ 14 ປັດໄຈສ່ຽງທີ່ປ່ຽນແປງໄດ້. [ສະຫຼຸບລາຍງານຂອງ UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ປະເມີນວ່າມັນກ່ຽວຂ້ອງກັບປະມານ 5% ຂອງກໍລະນີໂຣກສະໝອງເສື່ອມທົ່ວໂລກ.
 
-What the evidence shows:
+ຫຼັກຖານທີ່ສະແດງ:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **ການຕິດຕໍ່ໜ້ອຍ ຄວາມສ່ຽງສູງ.** ຄະນະກຳມະການອະທິບາຍການທົບທວນສອງຊິ້ນທີ່ເຊື່ອມໂຍງການຕິດຕໍ່ທາງສັງຄົມທີ່ເກີດຂຶ້ນໜ້ອຍຄັ້ງ ກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ. ໜຶ່ງໃນນັ້ນພົບຄວາມສ່ຽງສູງຂຶ້ນປະມານ 57% ແລະອີກອັນໜຶ່ງປະມານ 18%.
+- **ຄວາມໂດດດ່ຽວກໍເຊັ່ນກັນ.** ຄວາມໂດດດ່ຽວ ເຊິ່ງເປັນຄວາມຮູ້ສຶກຖືກຕັດຂາດ ກໍກ່ຽວຂ້ອງກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ ໃນການທົບທວນຫຼາຍຊິ້ນ.
+- **ທັດສະນະຂອງແພດສູງສຸດ.** ໃນເດືອນພຶດສະພາ 2023 ແພດສູງສຸດຂອງສະຫະລັດອອກ[ຄຳແນະນຳກ່ຽວກັບຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດ](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). ມັນລະບຸວ່າຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດເຮື້ອລັງ ສາມາດເພີ່ມຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມປະມານ 50% ໃນຜູ້ໃຫຍ່ອາຍຸຫຼາຍ. ມັນຍັງເຊື່ອມໂຍງການເຊື່ອມຕໍ່ທາງສັງຄົມທີ່ບໍ່ດີກັບຄວາມສ່ຽງໂຣກຫົວໃຈທີ່ສູງຂຶ້ນ 29% ແລະຄວາມສ່ຽງໂຣກເສັ້ນເລືອດສະໝອງທີ່ສູງຂຶ້ນ 32%.
+- **ມັນພົບເລື້ອຍປານໃດ.** [ລາຍງານຂອງ National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) ພົບວ່າປະມານ 24% ຂອງຊາວອາເມຣິກັນອາຍຸ 65 ປີຂຶ້ນໄປ ທີ່ອາໄສຢູ່ໃນຊຸມຊົນ ຖືກຕັດຂາດທາງສັງຄົມ.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+ຂໍ້ຄວນລະວັງສຳຄັນ: ຄະນະກຳມະການ Lancet ລະບຸວ່າຄົນອາດຫຼຸດກິດຈະກຳທາງສັງຄົມໃນໄລຍະເບື້ອງຕົ້ນຂອງໂຣກສະໝອງເສື່ອມທີ່ຍັງບໍ່ໄດ້ວິນິດໄສ. ນັ້ນໝາຍຄວາມວ່າບາງສ່ວນຂອງການເຊື່ອມໂຍງອາດເປັນໂຣກສະໝອງເສື່ອມທີ່ເຮັດໃຫ້ຄົນຖອຍຫຼັງ ບໍ່ແມ່ນພຽງແຕ່ການຖອຍຫຼັງທີ່ເຮັດໃຫ້ຄວາມສ່ຽງເພີ່ມຂຶ້ນ. ເກືອບທັງໝົດຂອງຫຼັກຖານນີ້ມາຈາກການສຶກສາແບບສັງເກດການ.
 
-## What is the difference between loneliness and isolation?
+## ຄວາມແຕກຕ່າງລະຫວ່າງຄວາມໂດດດ່ຽວ ແລະການຖືກຕັດຂາດແມ່ນຫຍັງ?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ອະທິບາຍດັ່ງນີ້. **ການຖືກຕັດຂາດທາງສັງຄົມ** ໝາຍເຖິງການມີການຕິດຕໍ່ທາງສັງຄົມໜ້ອຍ ຫຼືມີຄົນໜ້ອຍທີ່ໄດ້ພົວພັນເປັນປະຈຳ. **ຄວາມໂດດດ່ຽວ** ແມ່ນຄວາມຮູ້ສຶກທີ່ເຈັບປວດຂອງການຢູ່ຄົນດຽວ ຫຼືຖືກແຍກອອກ. ຄົນໜຶ່ງອາດອາໄສຢູ່ຄົນດຽວຢ່າງມີຄວາມສຸກ ແລະອີກຄົນອາດຮູ້ສຶກໂດດດ່ຽວໃນຫ້ອງທີ່ເຕັມໄປດ້ວຍຜູ້ຄົນ.
 
-The NIA lists factors that raise the risk of both:
+NIA ລາຍການປັດໄຈທີ່ເພີ່ມຄວາມສ່ຽງຂອງທັງສອງຢ່າງ:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- ບັນຫາການໄດ້ຍິນ ຫຼືສາຍຕາ
+- ການເດີນທາງຍາກ ຫຼືບໍ່ມີການຂົນສົ່ງ
+- ການອາໄສຢູ່ຄົນດຽວ ຫຼືການສູນເສຍຄັ້ງໃຫຍ່ ເຊັ່ນການເສຍຄູ່ສົມລົດ ຫຼືການອອກຈາກວຽກ
+- ການປ່ຽນແປງຄວາມຈຳ ຫຼືການຄິດ
+- ການດູແລຄົນທີ່ທ່ານຮັກທີ່ປ່ວຍ
+- ຄວາມກັງວົນດ້ານເງິນ ຫຼືອຸປະສັກດ້ານພາສາ
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+ການໄດ້ຍິນເປັນເລື່ອງໃຫຍ່. NIA ລະບຸວ່າຄົນທີ່ໄດ້ຍິນບໍ່ຊັດອາດຖອຍອອກ ເພາະການສົນທະນາກາຍເປັນເລື່ອງອຸກອັ່ງ ຫຼືອາຍ. [ຄູ່ມືການໄດ້ຍິນ ແລະສຸຂະພາບສະໝອງ](/brain-health/hearing/) ຂອງພວກເຮົາ ກວມເຖິງການກວດການໄດ້ຍິນ ແລະເຄື່ອງຊ່ວຍຟັງທີ່ຊື້ໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ໃບສັ່ງຢາ.
 
-## Practical ways to stay connected
+## ວິທີປະຕິບັດເພື່ອຕິດຕໍ່ກັນ
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA ແນະນຳຫຼາກຫຼາຍແນວຄິດ. ເລືອກໜຶ່ງຫຼືສອງຢ່າງທີ່ເໝາະ:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **ກຳນົດການຕິດຕໍ່ເປັນປະຈຳ.** ມີເວລາທີ່ແນ່ນອນທຸກວັນ ຫຼືທຸກອາທິດ ເພື່ອໂທ ສົ່ງຂໍ້ຄວາມ ອີເມວ ຫຼືສົ່ງບັດຫາຄອບຄົວ ໝູ່ເພື່ອນ ຫຼືເພື່ອນບ້ານ.
+- **ໃຊ້ວິດີໂອແຊັດ ຫຼືລຳໂພງອັດສະລິຍະ.** ຖ້າເທັກໂນໂລຊີເປັນເລື່ອງໃໝ່ ຫໍສະໝຸດສາທາລະນະ ແລະສູນຊຸມຊົນຫຼາຍແຫ່ງມີຫ້ອງຮຽນໃຫ້. ເບິ່ງ[ຄູ່ມືການໂທ ແລະວິດີໂອແຊັດ](/activities/phone-and-video-calls/) ຂອງພວກເຮົາ.
+- **ເຂົ້າຮ່ວມກິດຈະກຳ.** ຫ້ອງຮຽນ ຊຸມຊົນສາດສະໜາ ກຸ່ມຍ່າງ ຫຼືບົດບາດອາສາສະໝັກ ໃຫ້ການຕິດຕໍ່ ແລະຄວາມຮູ້ສຶກວ່າມີຈຸດໝາຍ.
+- **ເລີ່ມງານອະດິເລກເກົ່າຄືນ** ຫຼືຮຽນສິ່ງໃໝ່ກັບຄົນອື່ນ.
+- **ເຄື່ອນໄຫວຮ່ວມກັບຄົນອື່ນ.** ອອກກຳລັງກາຍກັບເພື່ອນ ຫຼືກຸ່ມ. ເບິ່ງ[ຄູ່ມືການອອກກຳລັງກາຍ](/brain-health/exercise/) ຂອງພວກເຮົາ ທີ່ມີທາງເລືອກອ່ອນໂຍນ.
+- **ພິຈາລະນາລ້ຽງສັດ** ຖ້າທ່ານສາມາດດູແລໄດ້.
+- **ໃຊ້ບໍລິການທ້ອງຖິ່ນ.** ສູນຜູ້ສູງອາຍຸ ອົງການດ້ານຜູ້ສູງອາຍຸໃນພື້ນທີ່ ແລະ Eldercare Locator (800-677-1116) ສາມາດຊີ້ທາງໃຫ້ທ່ານຫາໂຄງການ ແລະການຂົນສົ່ງ.
 
-## Why do shared activities matter in dementia?
+## ເຫດໃດກິດຈະກຳຮ່ວມກັນຈຶ່ງສຳຄັນໃນໂຣກສະໝອງເສື່ອມ?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+ສຳລັບຄົນທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມຢູ່ແລ້ວ ການເຊື່ອມຕໍ່ກ່ຽວກັບຄວາມສຸກ ຄວາມສະບາຍ ແລະການຮູ້ສຶກວ່າຖືກລວມເຂົ້າ ບໍ່ແມ່ນການຫຼຸດຄວາມສ່ຽງ. ຄະນະກຳມະການ Lancet ລະບຸວ່າກິດຈະກຳຊ່ວຍໃຫ້ຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມຮັກສາຄວາມສຸກ ແລະຄວາມໝາຍໃນຊີວິດໄວ້ໄດ້. [ສະມາຄົມອາການອັລໄຊເມີ (Alzheimer's Association)](https://www.alz.org/help-support/caregiving/daily-care/activities) ແຈ້ງວ່າ ນອກຈາກການເພີ່ມຄຸນນະພາບຊີວິດແລ້ວ ກິດຈະກຳຍັງຊ່ວຍຫຼຸດພຶດຕິກຳເຊັ່ນການຍ່າງຫຼົງ ຫຼືຄວາມກະວົນກະວາຍໄດ້. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ເພີ່ມວ່າຄົນທີ່ເປັນໂຣກອັລໄຊເມີຕ້ອງເຄື່ອນໄຫວ ແລະເຮັດສິ່ງທີ່ເຂົາເຈົ້າມັກ.
 
-Ideas that work well:
+ແນວຄິດທີ່ໄດ້ຜົນດີ:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **ເບິ່ງຮູບນຳກັນ.** [ບັດສົນທະນາ](/games/conversation-cards/) ໃຫ້ຄຳຖາມເປີດແບບບໍ່ມີການທົດສອບ ເຊັ່ນ "ເລົ່າໃຫ້ຟັງກ່ຽວກັບ..." ເບິ່ງ[ຄູ່ມືການລະນຶກເຖິງຄວາມຊົງຈຳ](/activities/reminiscence/) ຂອງພວກເຮົາ.
+2. **ຫຼິ້ນນຳກັນ ນັ່ງຄຽງຂ້າງ.** [Picture Pairs](/games/picture-pairs/) ເຮັດໃຫ້ຮູບເບິ່ງເຫັນຕະຫຼອດ ແລະບໍ່ມີເວລາຈຳກັດ ຫຼືຄະແນນ ດັ່ງນັ້ນຈຶ່ງບໍ່ມີຄວາມກົດດັນ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ[ວິທີຫຼິ້ນນຳກັນ](/caregiving/how-to-play-together/) ມີຄຳແນະນຳ.
+3. **ໃຊ້ຮູບຄອບຄົວ.** [Photo Pairs](/games/photo-pairs/) ປ່ຽນຮູບທີ່ທ່ານເລືອກໃຫ້ເປັນເກມຈັບຄູ່ ແລະຮູບຍັງຢູ່ໃນອຸປະກອນຂອງທ່ານ.
+4. **ນຳຜູ້ຄົນມາຢູ່ນຳກັນ.** [Picture Bingo](/games/picture-bingo/) ເໝາະກັບງານລວມຄອບຄົວ ແລະ[ກຸ່ມໃນສູນດູແລ](/activities/care-home-groups/).
+5. **ແບ່ງປັນດົນຕີ ວຽກບ້ານ ຫຼືສວນ.** ເບິ່ງ[ກິດຈະກຳດົນຕີ](/activities/music/), [ວຽກເຮືອນ](/activities/household-tasks/) ແລະ[ລາຍການແນວຄິດກິດຈະກຳ](/activities/ideas/) ທັງໝົດຂອງພວກເຮົາ.
+6. **ເຮັດໃຫ້ການມາຢ້ຽມຢາມງ່າຍຂຶ້ນ.** [ຄູ່ມືການມາຢ້ຽມຢາມ](/activities/visiting/) ຂອງພວກເຮົາກວມເຖິງການຢ້ຽມຢາມສັ້ນໆ ທີ່ສະຫງົບ ເຊິ່ງເຮັດໃຫ້ທຸກຄົນຮູ້ສຶກດີ.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+ຮັກສາໃຫ້ມັນນ້ອຍ ແລະຜ່ອນຄາຍ. ຫ້ອງງຽບໆທີ່ມີຄົນໜຶ່ງຫຼືສອງຄົນມັກຈະດີກວ່າກຸ່ມໃຫຍ່. ຖ້າຜູ້ນັ້ນເມື່ອຍ ຫຼືໝົດຄວາມສົນໃຈ ການຢຸດກໍດີ. ການນັ່ງດື່ມຊາຮ່ວມກັນກໍເປັນຜົນທີ່ດີເຊັ່ນກັນ.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+ສຳລັບຄົນທີ່ອາໄສຢູ່ຄົນດຽວ ແລະເປັນໂຣກສະໝອງເສື່ອມ NIA ແນະນຳໃຫ້ຫາຄົນທີ່ໄວ້ວາງໃຈໄດ້ ຜູ້ທີ່ສາມາດມາຢ້ຽມຢາມ ຫຼືວິດີໂອແຊັດເປັນປະຈຳ ແລະເປັນຜູ້ຕິດຕໍ່ສຸກເສີນ. ມັນຍັງກ່າວເຖິງກຸ່ມຄວາມຊົງຈຳໃນທ້ອງຖິ່ນ ເຊິ່ງເປັນພື້ນທີ່ສັງຄົມທີ່ຜ່ອນຄາຍສຳລັບຜູ້ທີ່ສູນເສຍຄວາມຊົງຈຳ ແລະຄອບຄົວຂອງເຂົາເຈົ້າ.
 
-## Caregivers get lonely too
+## ຜູ້ດູແລກໍໂດດດ່ຽວເຊັ່ນກັນ
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA ລາຍການການດູແລຄົນທີ່ທ່ານຮັກເປັນປັດໄຈສ່ຽງຂອງການຖືກຕັດຂາດ. ຈົ່ງສະຫງວນເວລາບາງສ່ວນໄວ້ສຳລັບມິດຕະພາບ ກຸ່ມສະໜັບສະໜູນ ແລະການພັກຜ່ອນຂອງທ່ານເອງ. [ຄູ່ມືການດູແລຕົນເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/) ຂອງພວກເຮົາ ມີແນວຄິດປະຕິບັດໄດ້.
 
-## Talk with a doctor
+## ປຶກສາກັບໝໍ
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+ຖ້າທ່ານ ຫຼືຜູ້ທີ່ທ່ານດູແລ ຮູ້ສຶກໂດດດ່ຽວ ຫຼືຖືກຕັດຂາດສ່ວນໃຫຍ່ຂອງເວລາ ໃຫ້ບອກໝໍ. NIA ສົ່ງເສີມໃຫ້ຄົນແບ່ງປັນການປ່ຽນແປງໃຫຍ່ໃນຊີວິດ ເຊັ່ນການເສຍຊີວິດໃນຄອບຄົວ ເພື່ອໃຫ້ໝໍເຂົ້າໃຈພາບລວມຢ່າງຄົບຖ້ວນ. ຮູ້ສຶກຕ່ຳຫຼາຍອາທິດຕິດຕໍ່ກັນອາດເປັນໂຣກຊຶມເສົ້າ ເຊິ່ງສາມາດປິ່ນປົວໄດ້. ຖ້າຜູ້ໃຫຍ່ອາຍຸຫຼາຍເລີ່ມຖອຍຫ່າງຈາກໝູ່ເພື່ອນ ຫຼືກິດຈະກຳທີ່ເຄີຍມັກ ການປ່ຽນແປງນັ້ນກໍຄວນບອກໝໍເຊັ່ນກັນ. ອ່ານ[ສັນຍານເບື້ອງຕົ້ນ ແລະເວລາທີ່ຄວນໄປພົບໝໍ](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ໜ້ານີ້ເປັນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ເບິ່ງ[ຄຳປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ.

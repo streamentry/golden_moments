@@ -16,6 +16,16 @@ const APP_LOCALES = [...new Set([
 const LOW_CONFIDENCE_LOCALES = new Set([
   'am', 'as', 'az', 'ha', 'ig', 'jv', 'mn', 'my', 'ne', 'om',
   'or', 'pa', 'ps', 'sd', 'so', 'su', 'sw', 'uz', 'yo', 'zu',
+  'af', 'bg', 'et', 'lt', 'lv', 'be', 'bs', 'cy', 'eo', 'eu',
+  'hy', 'is', 'ka', 'kk', 'mk',
+  'sq', 'sr', 'gl', 'ga', 'si',
+  'nn', 'no', 'lb', 'mt', 'gd',
+  'fy', 'km', 'ky', 'tl', 'ht',
+  'ku', 'tg', 'lo', 'yi', 'la',
+  'oc', 'co', 'fo', 'mi', 'mg',
+  'ug', 'sn', 'st', 'ny',
+  'sa', 'qu', 'ln',
+  'ba',
 ]);
 
 const quoteDart = (value: string) => `'${value.replaceAll('\\', '\\\\').replaceAll("'", "\\'").replaceAll('$', '\\$')}'`;

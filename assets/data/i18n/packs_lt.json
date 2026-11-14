@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Gyvūnai",
+      "description": "Mieli ir draugiški gyvūnai iš viso pasaulio"
+    },
+    "nature": {
+      "name": "Gamta",
+      "description": "Gražūs kraštovaizdžiai ir gamtos vaizdai"
+    },
+    "food": {
+      "name": "Maistas",
+      "description": "Skanūs patiekalai ir skanėstai"
+    },
+    "vintage": {
+      "name": "Automobiliai",
+      "description": "Automobiliai ir sunkvežimiai, kuriuos malonu apžiūrėti ir aptarti"
+    },
+    "flowers": {
+      "name": "Gėlės",
+      "description": "Gražūs žiedai ir sodo vaizdai"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Ūkio gyvūnai",
+      "description": "Draugiški ūkio gyvūnai, tarsi apsilankius kaime.",
+      "theme": "Gyvenimas ūkyje",
+      "images": {
+        "cow_1": "Rami karvė",
+        "pig_1": "Linksmas paršelis",
+        "chicken_1": "Gaidys",
+        "buffalo_1": "Vandens buivolas",
+        "horse_1": "Gražus arklys",
+        "duck_1": "Ančių šeima",
+        "goat_1": "Smalsi ožka",
+        "rabbit_1": "Mielas triušis"
+      }
+    },
+    "nature_mountains": {
+      "title": "Kalnų vaizdai",
+      "description": "Įspūdingi kalnų kraštovaizdžiai ir gražūs vaizdai",
+      "theme": "Gamtos grožis",
+      "images": {
+        "mountain_1": "Sniegu pasidengusios viršūnės",
+        "mountain_2": "Fudžio kalnas",
+        "mountain_3": "Alpių slėnis",
+        "mountain_4": "Uolėta viršukalnė",
+        "mountain_5": "Miškingos kalvos",
+        "mountain_6": "Rūkuose skendintys kalnai"
+      }
+    },
+    "vintage_cars": {
+      "title": "Automobiliai ir sunkvežimiai",
+      "description": "Blizgantys automobiliai ir sunkvežimiai, kuriuos malonu apžiūrėti ir aptarti",
+      "theme": "Kelyje",
+      "images": {
+        "vintage_car_1": "Oranžinis „Audi“ saulėlydyje",
+        "vintage_car_2": "Mėlynas sportinis automobilis dykumoje",
+        "vintage_car_3": "Sidabrinis „Bugatti“",
+        "vintage_car_4": "Juodas „Porsche“ kelyje",
+        "vintage_car_5": "Oranžinis „BMW“ palmėmis apsodintoje gatvėje",
+        "vintage_car_6": "Mėlynas kupė prie garažo",
+        "vintage_car_7": "Žalias pikapas",
+        "vintage_car_8": "Baltas visureigis tarp raudonų uolų",
+        "vintage_car_9": "„Aston Martin“",
+        "vintage_car_10": "Mėlynas automobilis su baltomis juostomis"
+      }
+    },
+    "animals_safari": {
+      "title": "Safario gyvūnai",
+      "description": "Didingi gyvūnai iš Afrikos safarių",
+      "theme": "Laukinė gamta",
+      "images": {
+        "lion_1": "Didingas liūtas",
+        "elephant_2": "Afrikinis dramblys",
+        "jaguar_3": "Jaguaras",
+        "zebra_4": "Dryžuotas zebras",
+        "rhino_5": "Galingas raganosis",
+        "cheetah_6": "Greitas gepardas",
+        "fox_7": "Rudoji lapė",
+        "bear_8": "Baltasis lokys",
+        "turtle_9": "Rudasis vėžlys",
+        "squirrel_10": "Rudoji voverė",
+        "macaw_11": "Geltonai mėlyna ara papūga",
+        "tiger_12": "Tigras",
+        "raccoon_13": "Meškėnas",
+        "wolf_14": "Pilkasis vilkas",
+        "crocodile_15": "Krokodilas",
+        "peacock_16": "Gražus povas"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Skanūs desertai",
+      "description": "Keli skanūs desertai prie stalo.",
+      "theme": "Saldūs desertai",
+      "images": {
+        "pastries_1": "Keturi pyragaičiai",
+        "oreo_cookie_sandwiches_2": "Sausainiai „Oreo“",
+        "crepe_3": "Plonas blynas",
+        "pancake_4": "Blynas",
+        "macarons_5": "Makaronsai",
+        "caramel_cake_6": "Karamelinis tortas"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Atogrąžų žiedai",
+      "description": "Atraskite ryškų atogrąžų grožį su šiuo egzotinių gėlių rinkiniu.",
+      "theme": "Atogrąžų gėlės",
+      "images": {
+        "hibiscus_1": "Raudonoji kinrožė",
+        "frangipani_2": "Raudonai baltas frangipanas",
+        "sunflower_3": "Saulėgrąža",
+        "hydrangea_4": "Baltoji hortenzija",
+        "rose_5": "Rožė",
+        "chrysanthemum_6": "Chrizantema",
+        "anthurium_7": "Antūriumas",
+        "plumeria_8": "Plumerija",
+        "kodom_9": "Kodomas",
+        "delphinium_10": "Dedešva"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Gatvės maisto šventė",
+      "description": "Susipažinkite su spalvingu gatvės maisto pasauliu per šį skanių užkandžių iš viso pasaulio rinkinį.",
+      "theme": "Gatvės maistas",
+      "images": {
+        "taco_1": "Meksikietiškas tako",
+        "ramen_2": "Japoniški ramenai",
+        "dumplings_3": "Kiniški koldūnai",
+        "samosa_4": "Indiška samosa",
+        "pizza_5": "Itališka picos riekė",
+        "crepe_6": "Prancūziškas blynas",
+        "satay_7": "Tailandietiški satė iešmeliai",
+        "burger_8": "Amerikietiškas mėsainis",
+        "bao_9": "Garuose virta bao bandelė",
+        "takoyaki_10": "Japoniški takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Gamtos kraštovaizdis",
+      "description": "Ramūs, gražūs gamtos vaizdai, kuriuos malonu žiūrėti neskubant ir aptarti kartu.",
+      "theme": "Gamtos kraštovaizdžiai",
+      "images": {
+        "mountain_1": "Kalnų grandinė",
+        "forest_2": "Miškas rūke",
+        "lake_3": "Kalnų ežeras",
+        "desert_4": "Dykumos kopos",
+        "waterfall_5": "Krioklys",
+        "beach_6": "Smėlėtas paplūdimys",
+        "river_7": "Tekanti upė",
+        "canyon_8": "Didysis kanjonas",
+        "sunset_9": "Saulėlydžio dangus",
+        "snow_mountain_10": "Kalnas po sniegu",
+        "flowers_11": "Pievų gėlės",
+        "rainforest_12": "Atogrąžų miškas",
+        "iceberg_13": "Ledkalnis",
+        "volcano_14": "Ugnikalnis",
+        "cliff_15": "Jūros skardis",
+        "aurora_16": "Šiaurės pašvaistė",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Koralų rifas"
+      }
+    }
+  }
+}

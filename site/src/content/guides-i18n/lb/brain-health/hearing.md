@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Gehéiersverloscht a Risiko fir Demenz: wat d'Fuerschung weist"
+seoTitle: "Gehéiersverloscht a Demenz: wat d'Fuerschung weist"
+description: "Firwat Gehéiersverloscht ee féierende Risikofaktor fir Demenz ass, wat d'ACHIEVE-Gehéiergerätstudie wierklech fond an wéi een d'Gehéier iwwerpréift."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  D'Lancet-Commission vun 2024 nennt Gehéiersverloscht ee vun de gréisste änneraren
+  Risikofaktoren fir Demenz. An der ACHIEVE-Studie hunn Gehéiergeräter de Réckgang
+  vun de Denkfäegkeeten insgesamt net gebremst, awer eng Ënnergrupp mat engem
+  méi héijen Risiko huet manner Réckgang gewisen. Gehéiergeräter hëllefen
+  am Gespréich an am Alldag sou oder sou. Loosst d'Gehéier iwwerpréiwen, denkt
+  un Geräter mat oder ouni Rezept, a sprecht mam Dokter.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "D'Lancet-Commission schätzt, datt Gehéiersverloscht ongeféier 7 % vun der Demenz weltwäit ausmécht, op d'selwecht Niveau wéi déi gréisste Quote vun de 14 Faktoren."
+  - "An der ACHIEVE-Studie mat 977 eeleren Erwuessenen hunn Gehéiergeräter de Réckgang vun de Denkfäegkeeten iwwer dräi Joer insgesamt net verännert."
+  - "An enger klenger Grupp mat engem méi héijen Risiko bannent ACHIEVE ass de Réckgang mat Gehéiergeräter 48 % lues verlaf; dat muss nach bestätegt ginn."
+  - "Zënter Oktober 2022 kënnen US-Erwuessener mat wahrgeholl mëllecher bis mëttlerer Gehéiersverloscht FDA-reguléiert Gehéiergeräter oni Rezept kafen."
+  - "Onbehandelte Visiounsverloscht gouf 2024 als Demenz-Risikofaktor dobäigesat, dofir sinn Aueschtcheck och wichteg."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Verhënneren Gehéiergeräter Demenz?"
+    a: "Dat ass net bewisen. D'ACHIEVE-Studie fonnt iwwer dräi Joer kee gesamten Effekt op den Denkreckgang, obwuel eng Gruppe mat engem méi héijen Risiko besser ofgeschnidde huet. Gehéiergeräter sinn trotzdeem ëmmer wäert, a Betracht ze zéien, well se Gespréicher, Sécherheet an de Alldag erliichteren."
+  - q: "Wien kann Gehéiergeräter oni Rezept kafen?"
+    a: "D'FDA erlaabt Erwuessenen ab 18 Joer mat wahrgeholl mëllecher bis mëttlerer Gehéiersverloscht, Gehéiergeräter oni Rezept an Geschäfter oder online ze kafen. Si sinn net fir schwéier Gehéiersverloscht gemaach. Wien Ouweschmerzen, Flëssegkeet aus dem Ouer, Schwindel oder plëtzlech Gehéiersännerungen huet, sollt fir d'Éischt zum Dokter goen."
+  - q: "Kann Gehéiersverloscht wéi Demenz ausgesinn?"
+    a: "Heiansdo. Den National Institute on Aging hält fest, datt eeler Leit, déi schlecht héieren, heiansdo falsch fir verwierrt oder net kooperativ gehal ginn. Eng Gehéierkontroll ass e vernünftege Schrëtt, wann eng Persoun sech zréckzitt oder net mat kritt, wat gesot gëtt."
+  - q: "Wéi oft sollen eeler Leit hir Aen iwwerpréiwe loossen?"
+    a: "Den National Institute on Aging rät, all Joer oder all zwee Joer no 60 Joer eng Aenuewersuchung mat erweideten Pupillen ze maachen, oder wéi Ären Aenaarzt empfeelt. Leit mat Diabetes oder héijem Bluttdrock brauchen dat meeschtens op d'mannst eemol d'Joer."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Gehéiersverloscht ass am spéiden Liewen heefeg, a Fuerscher huelen se ernst als Demenz-Risikofaktor. Dat mécht Gehéiergeräter awer net zu enger bewisener Method, Demenz ze verhënneren; déi bis elo beschten Studie hat gemëschte Resultater. Dës Säit erkläert, wat d'Fuerschung weist, wéi ee sech d'Gehéier iwwerpréift, wat iwwer de Comptoir verkaaft Gehéiergeräter an den USA sinn, a wéi ee Gespréicher méi einfach kann maachen.
 
-## Why does hearing matter for brain health?
+## Firwat ass d'Gehéier wichteg fir d'Gehirngesondheet?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Gehéiersverloscht ass mat engem méi héijen Demenz-Risiko verbonnen. D'[Lancet-Commission vun 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) schätzt, datt se ongeféier 7 % vun der Demenz weltwäit ausmécht. Dat setzt se mat héijem LDL-Cholesterin un d'Spëtzt vun de 14 änneraren Risikofaktoren am Modell vun der Commission, laut der [Zesummefassung vum Rapport vun UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Dat sinn d'Haaptpunkte vun der Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Méi héijt Risiko bei Gehéiersverloscht.** An hirer gemeinsamer Analyse vu sechs qualitativ gudden Studien hate Leit mat Gehéiersverloscht ongeféier 37 % méi héicht Risiko fir Demenz wéi Leit mat normalem Gehéier.
+- **Méi Verloscht, méi Risiko.** Studien, déi d'Schwéierkeet ënnersicht hunn, hunn festgestallt, datt de Risiko eropgeet, wann d'Gehéier schlechter gëtt.
+- **Mméiglech Grënn, awer nach net bewisen.** Iddien sinn Einsamkeet an Zréckzuch, Depressioun, manner Reiz fir d'Gehir an déi zousätzlech mental Ustrengung, déi d'Lauschteren brauch.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Gehéiersverloscht ass heefeg. Den [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) seet, datt ongeféier een Drëttel vun den eeleren Erwuessenen se huet, an d'Chance klëmmt mat dem Alter.
 
-## What did the ACHIEVE hearing aid trial find?
+## Wat huet d'ACHIEVE-Gehéiergerätstudie erausfonnt?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE war déi éischt randomiséiert Studie zu Gehéiergeräter a Denkreckgang. Hir Resultater ginn dacks falsch weiderginn, dofir sinn hei d'Detailer aus dem [publizéierte Studienrapport](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Wien huet matgemaach:** 977 Erwuessener vun 70 bis 84 Joer mat onbehandelter Gehéiersverloscht an ouni grouss Denkprobleemer, an véier Gemeinschaftszentren an den USA.
+- **Wat verglach gouf:** Eng Halschent krut Gehéiergeräter plus Berodungssitzungen bei engem Audiologe. Déi aner Halschent krut e Gesondheetsprogramm iwwer gesond Alterung.
+- **Haaptresultat:** No dräi Joer gouf et tëscht den zwou Gruppen insgesamt **keen Ënnerscheed** beim Denkreckgang.
+- **Resultat vun der Ënnergrupp:** D'Studie huet aus zwou Quellen rekrutéiert. 238 Leit kamen aus enger laanger Häerzgesondheetsstudie (ARIC), a als Grupp haten se e méi héijen Risiko fir Denkreckgang. Bei dëser Grupp ass de Reckgang mat Gehéiergeräter **48 % lues verlaf**. Ënner den 739 gesonde Gemeinschaftsfrëiwëllegen gouf et keen kloren Effekt.
 
-How to read this honestly:
+Wéi een dat éierlech liest:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- De Gesamtresultat war keen Effekt.
+- D'Ënnergruppen-Erkenntnis war am Viraus geplangt, si kënnt awer aus enger sekundärer Analyse vun enger méi klenger Grupp. Si muss a anere Studien bestätegt ginn.
+- D'Participanten hu gewosst, a wéi engem Programm si waren, wat d'Resultater beaflosse kann.
+- D'Lancet-Commission liest d'Beweiser sou, datt Gehéiergeräter besonnesch hëllefe kënnen bei Leit, déi Gehéiersverloscht a och aner Demenz-Risikofaktoren hunn.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+D'Schlussfolgerung ass: Gehéiergeräter sinn kee bewisene Wee, Demenz ze verhënneren. Si hëllefen Leit awer ze héieren, un Gespréicher deel ze huelen a verbonnen ze bleiwen, a dat ass Grond genuch, se ze bedenken.
 
-## How do I know if hearing should be checked?
+## Wéi weess ech, ob d'Gehéier solle kontrolléiert ginn?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Den NIA rät, bei engem Dokter ze goen, wann Dir oder eng Persoun, déi Dir betreit:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Schwieregkeeten huet, am Telefon Leit ze verstoen
+- Et schwéier fënnt, Gespréicher ze verfollegen, wann zwee oder méi Leit schwätzen
+- dacks Leit bieden, sech ze widderhuelen
+- den Fernseh esou haart stellt, datt anerer sech beschwéieren
+- Schwieregkeeten huet, Sprooch mat Hannergrondgeräischer ze verstoen
+- mengt, datt aner Leit ginn nuscheleg schwätzen
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Fänkt beim Haus-Dokter un, deen Iech un eng Audiologin oder en Audiologe (e Gehéierspezialist) oder un en HNO-Dokter verweise kann. Ouerschmalz ass eng heefeg Ursaach vu Gehéiersverloscht, déi en Dokter iwwerpréiwe kann. **Plëtzlech Gehéiersverloscht ass en medizinesche Notfall**, an den NIA rät, sofort zum Dokter ze goen.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Gehéiersverloscht kann mat Verwierrung verwiesselt ginn. Den NIA hält fest, datt eeler Leit, déi schlecht héieren, heiansdo falsch fir verwierrt, net reagéierend oder net kooperativ gehal ginn. Wann eng Persoun, déi Dir gär hutt, sech zréckzitt oder net mat kritt, wat gesot gëtt, ass eng Gehéierkontroll e gudden éischten Schrëtt.
 
-## What are over-the-counter hearing aids?
+## Wat sinn iwwer de Comptoir verkaaft Gehéiergeräter?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Zënter dem Oktober 17, 2022 erlaabt d'[FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) eng Kategorie vu Gehéiergeräter, déi iwwer de Comptoir verkaaft ginn. Hei ass, wéi se mat Gehéiergeräter op Rezept vergläichbar sinn:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Merkmol | Gehéiergeräter oni Rezept | Gehéiergeräter op Rezept |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Fir wen se sinn | Erwuessener ab 18 Joer mat wahrgeholl mëllecher bis mëttlerer Gehéiersverloscht | All Gehéiersverloscht, all Alter |
+| Wou ee se kritt | An Geschäfter oder online, keng Untersuchung oder Rezept néideg | Iwwer e lizenzéierte Gehéierspezialist |
+| Upassung | Dir stellt d'Astellungen selwer an, dacks mat enger App | E Fachmann programméiert se op Äert Gehéier |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+D'FDA seet, datt Gehéiergeräter oni Rezept net fir schwéier oder staark Gehéiersverloscht gemaach sinn. Si rät, virum Kaf en Dokter ze consultéieren, am beschte e HNO-Spezialist, wann Dir:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Ouweschmerzen oder Onbequemlechkeet hutt
+- Flëssegkeet, Eiter oder Blutt aus dem Ouer an de leschte sechs Méint hutt
+- plëtzlech oder schwankend Gehéiersännerungen hutt
+- schlechter Gehéier an engem Ouer hutt oder Klingen nëmmen an engem Ouer
+- Schwindel oder Drehschwindel hutt
+- vill Ouerschmalz hutt
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Gehéiergeräter ze gewinnen brauch Iwwung, dofir kuckt d'Rückgaberichtlinn, ier Dir kaaft, wéi d'FDA rät. Den NIA rät, ze froen, ob Är Versécherung en Deel vun de Käschte iwwerhëlt. Fir eng Persoun, déi mat Demenz lieft, kann eng Audiologin hëllefen auszesuchen, wéi e Gerät an d'Upassung am Alldag am einfachsten ze handhaben sinn.
 
-## How can I talk more easily with someone who has hearing loss?
+## Wéi kann ech méi einfach mat enger Persoun mat Gehéiersverloscht schwätzen?
 
-The NIA suggests:
+Den NIA rät:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Dréint Iech der Persoun zou a halt Aenkontakt**, bei gudder Beliichtung, sou datt si Är Lippen an Ären Ausdrock gesäit.
+2. **Fannt eng roueg Plaz.** Mécht den Fernseh aus oder geet vum Kaméidi fort.
+3. **Sprecht e bësse méi laut, awer schreit net.** Sprecht natierlech an a engem vernünftege Tempo.
+4. **Hält Ären Mond fräi.** Iesst net, kaut kee Kaugummi a bedeckt Äre Mond net beim Schwätzen.
+5. **Formuléiert ëm amplaz ze widderhuelen**, wann eppes net ukomm ass.
+6. **Ee Mënsch op eemol.** An enger Grupp sollt Dir d'Persoun gezielt mat abannen.
+7. **Sidd gedëlleg a frot, wéi Dir hëllefe kënnt.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Dës Tipps funktionéieren gutt zesumme mat eise [Kommunikatiounstipps bei Demenz](/caregiving/communication-tips/). Bildbaséiert Aktivitéiten huelen och Drock vum Lauschteren. [Bildpaueren](/games/picture-pairs/) an [Gesprächskaarten](/games/conversation-cards/) schaffen iwwer dat, wat een gesäit, an [Spréch fäerdeg maachen](/games/finish-the-saying/) léisst Iech d'Enn weisen, amplaz et ze soen. Fir Uruffen kuckt eisen Guide zu [Telefons- a Videoopruff](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Visioun ass och wichteg
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 huet d'Lancet-Commission onbehandelte Visiounsverloscht als neie Risikofaktor dobäigesat. D'Zesummefassung vun UCL setzt se op ongeféier 2 % vun de Demenz-Fäll, an d'Commission empfeelt, datt Screening a Behandlung fir Visiounsproblemer fir jiddereen zougänglech sollen ginn. Den [NIA rät](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) all Joer oder all zwee Joer no 60 Joer eng Aenuewersuchung mat erweideten Pupillen, a och d'Brëllesrezepter nozekucken. Och kleng Ännerungen am Siicht kënnen d'Stierzrisiko erhéijen.
 
-## Talk with a doctor
+## Mat engem Dokter schwätzen
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Frot en Dokter no Gehéier- a Visiounskontrollen, wann Dir ee vun den uewe genannte Zeechen beobachtet. Sicht direkt Hëllef bei plëtzlecher Gehéiersverloscht, Ouweschmerzen oder Flëssegkeet aus dem Ouer. Wann Dir eng Persoun mat Demenz betreit, sot hirem Dokter Bescheed iwwer Gehéiers- oder Visiounsännerungen, well se d'Stëmmung, d'Sécherheet a wéi gutt d'Persoun matmaache kann beaflussen.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Dës Säit ass allgemeng Informatioun, keng medizinesch Berodung. Kuckt eisen [medizinesche Virbehalt](/medical-disclaimer/). Liest méi iwwer [Gesellschaft a Gehirngesondheet](/brain-health/social-connection/).

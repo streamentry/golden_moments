@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Activitats musicalas per las personas amb demència"
+seoTitle: "Activitats musicalas per la demència: listas e idèas"
+description: "Cossí partejar la musica amb una persona que viu amb una demència: una lista personala, 15 activitats simplas e conselhs per cada estadi."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  La musica es una de las activitats las mai aisidas de partejar amb una persona
+  que viu amb una demència. Fasètz una lista personala a partir de la musica de
+  sa joinessa, de sa fe e de la familha, jogatz-la sens publicitats ni bruch de
+  fons, e cantatz, frapatz, balancejatz o escotatz simplament ensemble. Causissètz
+  una musica calma o animada segon lo moment, mantenètz lo volum doç e arrestatz
+  s'una cançon la pertorba.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "La musica personala marcha lo melhor : los estils que aimavan de joves adults, mai la musica de la fe, de la cultura e dels eveniments familiaus."
+  - "Jogatz una causa a la fes, sens publicitats e amb la television atudada."
+  - "Cantar, frapar, balancejar e escotar simplament son totas de vias de participar."
+  - "Utilizatz una musica mai calma per se calmar e una musica mai animada per levar l'umor, e agachatz cossí la persona reagís."
+  - "Las recercas sus las sessions de musica estructuradas son limitadas ; prepausam la musica coma quicòm de plasent a partejar, pas coma un tractament."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Quin tipe de musica es lo melhor per una persona amb demència?"
+    a: "La musica que la persona coneis e aima de long temps, sovent de sa joinessa, mai la musica de sa fe, de sa cultura e de las festas de familha. Se se pòt, laissatz-la causir. Agachatz son visatge e son còs per saber çò qu'aima, e daissatz çò que sembla la pertorbar."
+  - q: "Cal utilizar d'auriculars?"
+    a: "Qualques personas aiman los auriculars perque blòcan lo bruch, mentre que d'autras los trobon incomòds o confusius. Ensajatz un altaparlant d'abòrd per poder escotar ensemble. Se utilizatz d'auriculars, gardatz lo volum bas e demoratz a prèp."
+  - q: "La musica pòt ajudar a l'agitacion o a la pena?"
+    a: "La musica calma e familiara pòt ajudar a crear una ambiança pacifica, e l'Alzheimer's Association suggerís d'utilizar la musica per far l'atmosfèra desirada. Pas totjorn. Se la persona es tribolada, verificatz tanben la dolor, la fam, lo bruch o la lassitud."
+  - q: "Las personas a l'estadi avançat pòdon encara aprecar la musica?"
+    a: "Mantuns ne son capablas. L'Alzheimer's Association nòta qu'una persona a l'estadi avançat pòt encara batre lo ritme o cantar amb una cançon de l'enfància. Sètz a prèp, jogatz la musica doçament e tenètz-li la man o balancejatz ensemble."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+La musica es una de las causas las mai simplas de partejar amb una persona que viu amb una demència. Demanda pas res : pas de bonas respostas, pas de pas a seguir. Una cançon familiara pòt far venir un sorrire, un pè que bat o qualques mots cantats ensemble, fins un jorn ont la conversacion es dura. Tot çò que vos cal es la musica justa per aquesta persona e un moment calme per la jogar.
 
-## What music activities work for people with dementia?
+## Quinas activitats musicalas marchan per las personas amb demència?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Escotar, cantar, frapar, balancejar e parlar de musica marchan ben. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) prepausa de jogar de musica, de parlar de la musica e de l'artista, de cantar o de dansar sus de cançons conegudas, e d'anar a de concèrts o de programas musicals dins la comunautat. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ajusta que lo movement coma frapar o dansar pòt aumentar lo plaser, e que la musica pòt èsser un biais de se tornar connectar quand las paraulas venon dificilas.
 
-## How do you build a personal playlist?
+## Cossí bastir una lista personala?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+La mai utila causa que podètz far es una lista de musicas que vòl dire quicòm per aquesta persona. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) met tanben en valor la musica amb una significacion personala. Vaquí una manièra simpla de n'en far una.
 
-### Start with their life
+### Partir de sa vida
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Sa joinessa.** Pensatz a çò qu'èra a la ràdio, als bals e al cinèma quand èra joena.
+- **Los moments grands.** La musica de son maridatge, un primièr bal, un album de viatges en familha preferit.
+- **La fe e la cultura.** Himnes, gospel, musica sacrada o cançons de sa lenga materna.
+- **Lo trabalh e lo servici.** Bandas marciaus, cants de trabalh o musica ligada a una epòca del servici militar.
+- **So que la familha se remembra.** Demandatz als fraires e sòrres, als enfants e als vièlhs amics çò que jogavan o cantavan sempre.
 
-### Think in genres, not just songs
+### Pensar en genres, pas sonque en cançons
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Se sètz pas segur per on començar, ensajatz qualques minutas de cadun d'aquestes : big band e swing, doo-wop, Motown e soul, primièr rock and roll, country e western, bluegrass, gospel e himnes, musicals de Broadway, jazz standard, musica latina coma los boleros o los mariachis, polka, folk e classica. Gardatz çò que fa venir un sorrire o un pè que bat ; daissatz çò que fa venir un frònc.
 
-### Make it easy to play
+### Far que siá facil de jogar
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Pas de publicitat.** L'Alzheimer's Association avertís que las publicitats pòdon crear de la confusion. Utilizatz de musica telecargada, de CD, de disques o un servici sens publicitat.
+- **Un aparelh simple.** Un altaparlant amb un gròs boton, o una lista salvada e prèsta, per que cadun la puesca lançar.
+- **Doas listas cortas.** Una lista calma per se calmar e una lista animada per levar l'umor.
+- **Etiquetatz-la.** Escrivètz lo nom de la persona e « musica preferida » sus l'aparelh, per que la familha que ven en visita e lo personal puesca tanben l'utilizar.
 
-## 15 music activities to try
+## 15 activitats musicalas per ensajar
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Escotar ensemble.** Sètz a costat, sens autra causa en cors. Escotar es una activitat complèta.
+2. **Cantar amb.** Començatz a cantar vos mesme. Fredonar o sonque bolegar las lèvres compta tanben.
+3. **Frapar o batre lo ritme.** Tocatz los genolhs, frapatz sus la taula o utilizatz un pichòt tambor a man o un maraca.
+4. **Dansa lenta.** Tenètz-vos las mans e balancejatz dins la cosina, o dansatz assegut, en bolegant los braces ensemble.
+5. **Dansa amb escarpas.** Agitatz de leugièras escarpas al ritme de la musica, de pè o assegut.
+6. **Parlar de la musica.** Convidatz, pas testar : « Aquò sembla un bal. Contatz-me los bals. » Demandatz pas jamai « Vos remembratz d'aquesta cançon ? »
+7. **Jogar un album complet.** Metètz un disc que aimava, del començament a la fin, amb un cafè.
+8. **Agachar las cubèrtas d'albums.** Las vièlhas pochetas de disc son bonas per parlar de la mòda, de las veituras e dels visatges.
+9. **Agachar un musical.** Un musical o un concèrt filmat de sa epòca fa una bona vesprada. Fasètz de pausas.
+10. **Jogar d'un instrument que coneis.** Un ancian pianista o guitarrista pòt aprecar de jogar simplament. Mai tard, lo fait de trobar quauques notas ensemble basta.
+11. **Musica mentre trabalhatz.** Jogatz las cançons preferidas en plegar la lenjaria o en dressar la taula.
+12. **Cançon del matin.** Començatz cada jorn amb la meteissa cançon alegra, coma part de la rotina.
+13. **Cantar d'himnes o de musica sacrada.** Jogatz de musica de sa tradicion religiosa e cantatz ensemble.
+14. **Rejónher un grop de cant.** La NHS descriu los grops de cant coma bons per l'umor e lo ben-èsser. Demandatz localament se i a de cors favorables a la demència.
+15. **Anar a la musica viva.** Un concèrt corte comunautari o una banda a l'aire liure. Sètz près de la sortida e partissètz quand volètz.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Per una activitat mai leugièra amb de frasas familiaras, ensajatz [acabar lo dicton](/games/finish-the-saying/), ont podètz totjorn mostrar la fin.
 
-## Matching music to the moment
+## Adaptar la musica al moment
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+L'Alzheimer's Association suggerís d'utilizar la musica per crear l'ambiança desirada : musica calma per una atmosfèra pacifica, e una cançon animada de la joinessa per levar l'esperit.
 
-| Moment | Try | Tip |
+| Moment | Ensajar | Conselh |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Lo levar | Una cançon familiara e alegra | La meteissa cançon cada matin venon un senhal doç |
+| Los trabalhs | Preferits animats | La musica pòt far que lo trabalh semble una companha |
+| Los repas | Musica instrumentala doça | La mantenir bassa per que concorrencia pas lo manjar |
+| Fin de tarda | Musica calma e familiara amb una bona lum | Vejatz [agitacion de la fin de jornada](/caregiving/late-day-restlessness/) |
+| Lo moment de dormir | Musica lenta e doça | Baissar lo volum e la lum en meteis temps |
+| Estadi avançat | Sas cançons las mai aimadas, molt doças | Sètz a prèp e tenètz una man |
 
-## Tips for a good experience
+## Conselhs per una bona experiéncia
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Arrestar los autres bruches.** L'Alzheimer's Association suggerís de barrar las fenèstras e las pòrtas e d'atudar la television per que la musica siá lo sol son.
+- **Mantenir lo volum doç.** La musica deu èsser confortabla, pas fòrta. Se la persona utiliza d'auditius, verificatz que son ben metuts e en foncionament ; vejatz [l'audicion](/brain-health/hearing/).
+- **Agachar las associacions tristas.** Qualques cançons fan pujar lo dòl, la guèrra o la perda. Se una cançon la pertorba, consolatz-la e cambiatz.
+- **Laissar-la menar.** Se se pòt, laissatz la persona causir la musica, e acceptatz un non.
+- **Arrestar quand volètz.** Cinc minutas de musica son una activitat plan. Ne son tanben de l'atudar e de s'assegar en silenci.
 
-## What does the research say about music and dementia?
+## Qué dis la recèrca sus la musica e la demència?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Las provas son limitadas. Una [revisió Cochrane de 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) a analisat 30 estudis de sessions de musica estructuradas, sovent amb de grops dins los centres d'ancians. Constatèt que aquestas sessions an probablament un pauc alleujat los simptòmas depressius en comparason a las cures ordinàrias, mas constatèt pas d'efèct clar sus l'agitacion, lo ben-èsser o la pensada e la memòria, e pas d'efèctes que duren après la fin de las sessions.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Partejam la musica perque es un temps agradiu e pauc estressant passat ensemble, pas coma tractament. Per los cadres de grop, vejatz [las activitats de grop en centre](/activities/care-home-groups/) ; per utilizar la musica amb las fotos e las istòrias, vejatz [las activitats de reminiscéncia](/activities/reminiscence/).

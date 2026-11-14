@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "פֿרי צײכנס פֿון דעמענץ און װען צו זען אַ דאָקטער"
+seoTitle: "פֿרי צײכנס פֿון דעמענץ און װען צו זען אַ דאָקטער"
+description: "געװײנלעכע פֿרי צײכנס פֿון דעמענץ, װי זײ אונטערשיידן זיך פֿון נאָרמאַלער עלטער־ענדערונג, באַהאַנדלבאַרע סיבות פֿון זכּרון־פּראָבלעמען, און װי צו גרײטן זיך צום דאָקטער־באַזוך."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  זכּרון־פֿאַרלוסט װאָס שטערט דעם טאָגליכן לעבן, שװערקײטן מיט באַקאַנטע אַרבעטן, פֿאַרװירעניש װעגן צײַט אָדער אָרט, און ענדערונגען אין שטימונג אָדער אין אומטײל קענען זײַן פֿרי צײכנס פֿון דעמענץ. פֿיל אַנדערע צושטאַנדן, אַרײַנגערעכנט שילד־דריז־פּראָבלעמען, נידעריק װיטאַמין B12, נעבענװירקונגען פֿון מעדיצין, דעפּרעסיע און שלאָף־פּראָבלעמען, קענען מאַכן ענלעכע ענדערונגען. נאָר אַ קװאַליפֿיצירטער דאָקטער קען דיאַגנאָזירן. פּלוצלינגע פֿאַרװירעניש דאַרף דרינגלעכע זאָרג.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "צופֿעליקע פֿאַרגעסנדיקײט איז געװײנלעך מיט די יאָרן; ענדערונגען װאָס שטערן דעם טעגלעכן לעבן זענען װערט צו קוקן נאָך."
+  - "די אַלצהײַמער־אַסאָציאַציע באַשרײַבט 10 װאַרענונג־צײכנס, און פֿאַר יעדן אַ געװײנלעכע עלטער־ענדערונג פֿאַר פֿאַרגלײַך."
+  - "שילד־דריז־פּראָבלעמען, נידעריק װיטאַמין B12, נעבענװירקונגען פֿון מעדיצין, דעפּרעסיע, אינפֿעקציעס און שלאָף־פּראָבלעמען קענען אַלע השפּעה האָבן אויף דעם זכּרון, און עטלעכע זענען באַהאַנדלבאַר."
+  - "נאָר אַ קװאַליפֿיצירטער דאָקטער קען דיאַגנאָזירן דעמענץ; אָנליין קװיזן און זעלבסט־טעסטן קענען נישט."
+  - "פֿאַרװירעניש װאָס קומט פּלוצלינג, אין שעה אָדער טעג, קען זײַן דעליריום און פֿאָדערט דרינגלעכע מעדיצינישע זאָרג."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "איז פֿאַרגעסנדיקײט אַ נאָרמאַלער טײל פֿון עלטער?"
+    a: "אַ טײל יאָ. דער NIA זאָגט, אַז צופֿעליק פֿאַרלייגן זאַכן אָדער פֿאַרגעסן אַ רעכענונג איז געװײנלעך אַ מילדע, עלטער־פֿאַרבונדענע פֿאַרגעסנדיקײט. דעמענץ איז נישט קײן נאָרמאַלער טײל פֿון עלטער. זכּרון־פּראָבלעמען װאָס מאַכן טעגלעכע זאַכן װי פֿאָרן, טעלעפֿאָן ניצן אָדער דעם װעג אַהײם געפֿינען שװער, זענען װערט צו קוקן מיט אַ דאָקטער."
+  - q: "קענען זכּרון־פּראָבלעמען זײַן פֿאַרורזאַכט דורך עפּעס אַנדערש װי דעמענץ?"
+    a: "יאָ. דער NIA ציילט אָן שילד־דריז, ניערן־ אָדער לעבער־פּראָבלעמען, נעבענװירקונגען פֿון מעדיצין, דעפּרעסיע און דאַגות, נידעריק װיטאַמין B12, מיסברויך פֿון אלכױל, שלאָף־פּראָבלעמען, אינפֿעקציעס און קאָפּ־פֿאַרלעצונגען, צװישן אַנדערע. עטלעכע פֿון זײ װערן בעסער נאָכדעם װי מען באַהאַנדלט זײ, און דעריבער איז אַ מעדיצינישע בדיקה װיכטיק."
+  - q: "קען איך טעסטן אַ מענטש אױף דעמענץ אין שטוב?"
+    a: "נײן. נאָר אַ קװאַליפֿיצירטער דאָקטער קען דיאַגנאָזירן דעמענץ, דורך אַ מעדיצינישע געשיכטע, אַ גופֿישע בדיקה, זכּרון־ און טראַכטונג־טעסטן, לאַבאָראַטאָריע־טעסטן און מאָל מוח־סקאַנען. אַפֿילו די קורצע טעסטן װאָס דאָקטוירים ניצן זענען נישט גענוג אַליין צו דיאַגנאָזירן דעמענץ."
+  - q: "װאָס זאָל איך טאָן, אױב אַ מענטש װערט פּלוצלינג פֿאַרװירעט?"
+    a: "קריגט מעדיצינישע הילף גלײַך. פּלוצלינגע פֿאַרװירעניש קען זײַן דעליריום, װאָס דער VA באַשרײַבט װי אַ מעדיצינישן נויטפֿאַל. רופֿט גלײַך דעם מענטשס געזונטהײט־צושטעלער אָדער רופֿט אײַער לאָקאַלע נויטנומער, בלײַבט מיט אים, און שרײַבט אָן אַלע מעדיצינען װאָס ער נעמט."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+צו באַמערקן ענדערונגען אין אײַער אייגענעם זכּרון, אָדער אין דעם מענטש װאָס איר האָט ליב, קען זײַן שרעקלעך. דער בלאַט קען העלפֿן אײַך באַשליסן װען צו מאַכן אַ דאָקטער־אַפּוינטמענט, און װי צו גרײטן זיך דערצו. ער קען נישט זאָגן צי ערגעץ אײנער האָט דעמענץ. **נאָר אַ קװאַליפֿיצירטער דאָקטער קען דיאַגנאָזירן דעמענץ**, און פֿיל צושטאַנדן װאָס מאַכן זכּרון־פּראָבלעמען זענען גאָר נישט דעמענץ. ביטע פֿאַרלאָזט זיך נישט אױף אָנליין קװיזן אָדער זעלבסט־טעסטן.
 
-## What are the early signs of dementia?
+## װאָס זענען די פֿרי צײכנס פֿון דעמענץ?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/alzheimers-dementia/10_signs) באַשרײַבט 10 פֿרי צײכנס. זי פּאָרט יעדן איינעם מיט אַ געװײנלעכער עלטער־ענדערונג פֿאַר פֿאַרגלײַך. אין אונדזערע אייגענע װערטער:
 
-| Sign worth checking | More typical with age |
+| צײכן װאָס װערט צו קוקן | מער געװײנלעך מיט די יאָרן |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| זכּרון־פֿאַרלוסט װאָס שטערט דעם טאָגליכן לעבן, װי פֿאַרגעסן לעצטע געשעענישן אָדער פֿרעגן דאָס זעלבע איבער און איבער | צופֿעליק פֿאַרגעסן אַ נאָמען אָדער אַ טערמין און געדענקען עס שפּעטער |
+| שװערקײטן מיט פּלאַנירן אָדער לײזן פּראָבלעמען, װי נאָכפֿאָלגן אַ באַקאַנטן רעצעפּט אָדער האַלטן שפּור פֿון רעכענונגען | אַ צופֿעליקער טעות מיט די הױזרעכענונגען |
+| שװערקײט צו פֿאַרענדיקן באַקאַנטע אַרבעטן אין שטוב, אין דער אַרבעט אָדער אַרױס | פֿון צײַט צו צײַט דאַרפֿן הילף מיט אַ מיקראָװעלע־אײַנשטעלונג אָדער מיט אויפֿנעמען אַ טעלעװיזיע־פּראָגראַם |
+| פֿאַרלירן די שפּור פֿון טאָגן, סעזאָנען אָדער װוּ מען איז | דעם טאָג פֿון דער װאָך פֿאַרטוען, און דערקענען עס שפּעטער |
+| נײַע שװערקײט צו שאַצן דיסטאַנץ, לײענען אָדער אונטערשײדן קאָלירן | זעונג־ענדערונגען פֿון אַ גרױער שטאָר |
+| נײַע פּראָבלעמען מיט װערטער, װי אױפֿהערן אין מיטן אַ שמועס אָדער רופֿן זאַכן מיט אַ פֿאַלשן נאָמען | צופֿעליק שװער צו געפֿינען דאָס ריכטיקע װאָרט |
+| זאַכן שטעלן אין אומגעװײנלעכע ערטער און נישט קענען צוריקגײן די טריט | זאַכן פֿאַרלייגן פֿון צײַט צו צײַט און טרעפֿן זײ דורך צוריקגײן די טריט |
+| שלעכטע אומטײל, װי מיט געלט אָדער פּערזענלעכער רײניקײט | אַ צופֿעליקער שלעכטער באַשלוס |
+| זיך צוריקציִען פֿון האָבִיס, אַרבעט אָדער געזעלשאַפֿטלעכע טעטיקײטן | מאָל נישט האָבן קײן לוסט צו גײן צו אַ משפּחה־געשעעניש אָדער צו אַ געזעלשאַפֿטלעכן געשעעניש |
+| ענדערונגען אין שטימונג אָדער פּערזענלעכקײט, װי פֿאַרװירט װערן, מיסטרױיש װערן, שרעקן זיך אָדער זיך דאָגן | האָבן פֿעסטע װעגן פֿון טאָן זאַכן און זיך צאָרנדיק פֿילן װען אַ רוטין װערט צעשטערט |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+איין צײכן אַלײן מיינט נישט דעמענץ. דער פֿונקט איז אַ **ענדערונג פֿון דעם װאָס איז נאָרמאַל פֿאַר יענעם מענטש**, באַזונדערס אַ ענדערונג װאָס מאַכט דעם טעגלעכן לעבן שװערער.
 
-## How is normal aging different from dementia?
+## װי אונטערשיידט זיך נאָרמאַלע עלטער פֿון דעמענץ?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+דער [נאַציאָנאַלער אינסטיטוט פֿאַר עלטערװערן (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) זאָגט, אַז פֿיל עלטערע מענטשן באַמערקן, אַז זײ דערמאָנען זיך אין זאַכן לאַנגזאַמער, אָדער מאָל פֿאַרלייגן זאַכן אָדער פֿאַרגעסן אַ רעכענונג. דאָס זענען געװײנלעכע צײכנס פֿון אַ מילדער פֿאַרגעסנדיקײט. **דעמענץ איז נישט קײן נאָרמאַלער טײל פֿון עלטער.** ערנסטע זכּרון־פּראָבלעמען מאַכן טעגלעכע טעטיקײטן שװער, װי פֿאָרן, טעלעפֿאָן ניצן אָדער דעם װעג אַהײם געפֿינען.
 
-The NIA suggests talking with a doctor if someone:
+דער NIA רעקאָמענדירט צו רעדן מיט אַ דאָקטער, אױב אַ מענטש:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- פֿרעגט דאָס זעלבע איבער און איבער
+- פֿאַרלירט זיך אין ערטער װוּ ער האָט פֿריִער גוט געקענט
+- האָט שװערקײטן נאָכצופֿאָלגן רעצעפּטן אָדער אָנװײזונגען
+- װערט מער צעמישט װעגן צײַט, מענטשן און ערטער
+- הערט אױף זיך צו זאָרגן פֿאַר זיך, װי שלעכט עסן, נישט באָדן זיך אָדער זיך אונזיכער פֿירן
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+עטלעכע מענטשן האָבן **מילדע קאָגניטיװע שװאַכקײט (MCI)**. דאָס מיינט מער זכּרון־ אָדער טראַכטונג־פּראָבלעמען װי אַנדערע אין זייער עלטער, בשעת מען פֿירט נאָך דעם טעגלעכן לעבן. דער NIA זאָגט, אַז MCI קען זײַן אַ פֿרי צײכן פֿון אַלצהײַמער, אָבער נישט יעדער מיט MCI װערט עס.
 
-## What else can cause memory problems?
+## װאָס קען נאָך מאַכן זכּרון־פּראָבלעמען?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+פֿיל זאַכן אַחוץ דעמענץ קענען זיך אַרײַנמישן אין זכּרון, און עטלעכע װערן בעסער מיט באַהאַנדלונג. דער NIA ציילט:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **שילד־דריז, ניערן־ אָדער לעבער־פּראָבלעמען**
+- **נעבענװירקונגען פֿון מעדיצין**
+- **דעפּרעסיע און דאַגות**
+- **נידעריק װיטאַמין B12** אָדער נישט גענוג געזונטע עסן
+- **שלאָף־פּראָבלעמען**
+- **מיסברויך פֿון אלכױל אָדער דראָגן**
+- **אינפֿעקציעס, בלוט־קלאָטן אָדער טומאָרן** אינעם מוח
+- **קאָפּ־פֿאַרלעצונג**, װי אַ געהירן־דערשיטערונג
+- **שװערע שטרעס אָדער טרויער**, װי ראַטירונג אָדער פֿאַרלוסט פֿון אַ פּאָרטנער
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+געהער־ און זעונג־פּראָבלעמען קענען אױך פֿאַרטוען װערן פֿאַר פֿאַרװירעניש; זע אונדזער [געהער־פֿירער](/brain-health/hearing/). דעריבער איז אַ מעדיצינישע בדיקה װיכטיק. לױט דער [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) באַשטעלן דאָקטוירים אָפֿט בלוט־אַרבעט צו קוקן נאָך שילד־דריז־פּראָבלעמען, װיטאַמין־מאַנגל און אינפֿעקציע. גוטער [שלאָף](/brain-health/sleep/) און באַהאַנדלען דעפּרעסיע זענען אױך װערט צו דערמאָנען.
 
-## Sudden confusion is an emergency
+## פּלוצלינגע פֿאַרװירעניש איז אַ נויטפֿאַל
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**פֿאַרװירעניש װאָס קומט אָן שנעל, אין שעה אָדער טעג, דאַרף דרינגלעכע מעדיצינישע זאָרג.** עס קען זײַן דעליריום. דער [VA באַשרײַבט דעליריום](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) װי אַ מעדיצינישן נויטפֿאַל און רעקאָמענדירט צו רופֿן דעם מענטשס געזונטהײט־צושטעלער גלײַך, אָדער רופֿן אײַער לאָקאַלע נויטנומער. צײכנס אַרײַנגערעכנט:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- שװאַנקען אין דער פֿיִיקײט קלאָר צו טראַכטן
+- שװערקײט צו פֿאַרנעמען אויפֿמערקזאַמקײט
+- אומאָרגאַניזירט טראַכטן
+- אומגעװײנלעך שלאַפֿריק, אָדער אומגעװײנלעך אומרויִק און אַגיטירט
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+דאָס קען פּאַסירן צו ערגעץ, אַרײַנגערעכנט מענטשן װאָס לעבן שױן מיט דעמענץ. לױט דעם [NHS](https://www.nhs.uk/symptoms/confusion/) זענען געװײנלעכע סיבות אינפֿעקציעס (אורין־אינפֿעקציעס זענען געװײנלעך בײַ עלטערע מענטשן און מענטשן מיט דעמענץ), שלאָגן, נידעריקער בלוט־צוקער בײַ מענטשן מיט דיאַבעטעס, קאָפּ־פֿאַרלעצונג און עטלעכע מעדיצינען. בשעת איר װאַרט אויף הילף, בלײַבט מיט דעם מענטש און באַרויִקט אים מיט קורצע, פּשוטע װערטער. פֿרעגט נישט אַ סך פֿראַגן, און שרײַבט אָן אַלע מעדיצינען װאָס ער נעמט.
 
-## How do I prepare for the doctor's appointment?
+## װי צו גרײטן זיך צום דאָקטער־באַזוך?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+אַ גוטער באַזוך הײבט זיך אָן מיט גוטע נאָטיצן. די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) רעקאָמענדירט צו ברענגען:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **אַ רשימה פֿון ענדערונגען** אין זכּרון, שטימונג און פֿירונג, מיט קאָנקרעטע ביישפּילן און אַרום װען זײ האָבן זיך אָנגעהױבן
+2. **פֿריִערדיקע און איצטיקע געזונטהײט־פּראָבלעמען**, אַרײַנגערעכנט די משפּחה־געשיכטע פֿון זכּרון־פּראָבלעמען
+3. **אַלע רעצעפּטן און אָװער־דער־קאָונטער מעדיצינען**
+4. **װיטאַמינען אָדער דיעטע־צוגאַבן**
+5. **אײַערע שאלות**, װי װאָס פֿאַר בדיקות װעלן געטאָן װערן, װי לאַנג זײ נעמען און װען די רעזולטאַטן װעלן קומען
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+עס העלפֿט אויך צו ברענגען אַ משפּחה־מיטגליד אָדער פֿרײַנד װאָס קען דעם מענטש גוט. דער [NIA דערקלערט](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), אַז דאָקטוירים קענען פֿרעגן ביידע דעם מענטש און אַ משפּחה־מיטגליד װעגן געזונטהײט, מעדיצינען, טעגלעכע טעטיקײטן און ענדערונגען אין פֿירונג. דאָקטוירים קענען אױך:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- געבן בדיקות פֿון זכּרון, פּראָבלעמען־לײזן, אויפֿמערקזאַמקײט, צײלן און שפּראַך
+- באַשטעלן בלוט־, אורין־ און אַנדערע בדיקות כּדי צו קוקן נאָך אַנדערע סיבות
+- קוקן נאָך דעפּרעסיע אָדער אַנדערע געמיטס־צושטאַנדן
+- באַשטעלן מוח־סקאַנען װי CT אָדער MRI
+- שיקן צו אַ ספּעציאַליסט, װי אַ געריאַטער, נײראָלאָג, געריאַטרישן פּסיכיאַטער אָדער נײראָ־פּסיכאָלאָג
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+דער NIA באַמערקט, אַז אַ קאָגניטיװע באַװערטונג איז אַ פֿאָרגעשריבענער טײל פֿון דעם Medicare Annual Wellness Visit, װאָס קען זײַן אַ נאַטירלעכע צײַט צו אױפֿצוברענגען זאָרגן. אַפֿילו די קורצע טעסטן װאָס דאָקטוירים ניצן זענען נישט גענוג אַליין צו דיאַגנאָזירן דעמענץ. זײ זענען אַ ערשטער שריט צו אַ ברײטערער איבערקוק, און די דיאַגנאָז קען נעמען מער װי איין באַזוך. דער NIA רעקאָמענדירט, אַז מענטשן מיט זכּרון־פּראָבלעמען זאָלן זיך אומקערן צום דאָקטער יעדע 6 ביז 12 חדשים.
 
-## Raising the subject kindly
+## װי צו אָנהײבן דאָס געשפּרעך מיט פֿרײַנדלעכקײט
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+אױב איר זענט באַזאָרגט װעגן אַ צװײטן מענטש, קלײבט אַ רויִיקן, פּריװאַטן מאָמענט. רעדט װעגן באַשטימטע זאַכן װאָס איר האָט באַמערקט, אָנגעשטעלט אַלס זאָרג פֿאַר זײַן געזונט און נישט אַלס קריטיק. אַ אַלגעמיינע געזונטהײט־באַדיקונג צו פֿאָרשלאָגן קען זײַן װײניקער אַלאַרמירנד. אַרײַנשטעלן דעם מענטש אין די באַשלוסן און רעדן צו אים װי צו דעם דערװאַקסענעם װאָס ער איז. אונדזער [קאָמוניקאַציע־עצות](/caregiving/communication-tips/) קענען העלפֿן.
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+װען איר באַמערקט ענדערונגען אין זכּרון, טראַכטן, שטימונג אָדער טעגלעכע פֿעיקײטן װאָס זענען נײַ און הערן נישט אױף, מאַכט אַ אַפּוינטמענט מיט אַ פּרימערי־קעיר דאָקטער. פֿאַר פּלוצלינגע פֿאַרװירעניש, רופֿט אײַער לאָקאַלע נויטנומער אָדער דעם מענטשס געזונטהײט־צושטעלער גלײַך. פֿרי אונטערזוכט װערן הײסט, אַז באַהאַנדלבאַרע סיבות קענען געפֿונען װערן, און אױב עס איז דעמענץ, איז מער צײַט צו פּלאַנען און צו געפֿינען שטיצע. זאָרגט אױך פֿאַר זיך אין דעם; זע אונדזער [זאָרגער־זעלבסטפֿלעגן־פֿירער](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+דער טעקסט איז אַ אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. זע אונדזער [מעדיצינישן דיסקלעימער](/medical-disclaimer/).

@@ -1,32 +1,28 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "ກິດຈະກຳສຳລັບສະໝອງເສື່ອມໄລຍະທ້າຍ ລວມທັງຢູ່ເທິງຕຽງ ຫຼືເກົ້າອີ້"
+seoTitle: "ກິດຈະກຳສະໝອງເສື່ອມໄລຍະທ້າຍ: ແນວຄວາມຄິດສຳລັບຕຽງ ແລະເກົ້າອີ້"
+description: "ກິດຈະກຳອ່ອນໂຍນສຳລັບສະໝອງເສື່ອມໄລຍະທ້າຍ ລວມທັງຜູ້ທີ່ຢູ່ເທິງຕຽງ ຫຼືເກົ້າອີ້: ດົນຕີ ການສຳຜັດ ການອ່ານອອກສຽງ ສຽງ ແລະການຢູ່ນຳກັນ ພ້ອມຂໍ້ຄວນລະວັງດ້ານຄວາມປອດໄພ."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  ໃນໄລຍະທ້າຍຂອງສະໝອງເສື່ອມ ກິດຈະກຳເນັ້ນປະສາດສຳຜັດ ແລະການຢູ່ນຳຂອງທ່ານ: ຟັງດົນຕີທີ່ມັກ ຈັບມື ນວດມືຊ້າໆ ອ່ານອອກສຽງ ເບິ່ງຮູບ ສຽງທຳມະຊາດ ແລະນັ່ງໃກ້ປ່ອງຢ້ຽມ ຫຼືນອກບ້ານ. ສິ່ງເຫຼົ່ານີ້ໃຊ້ໄດ້ເມື່ອຢູ່ເທິງຕຽງ ຫຼືເກົ້າອີ້. ໃຫ້ການນັດພົບສັ້ນໆ ສັງເກດໜ້າ ແລະມືເພື່ອຄວາມສະບາຍ ແລະຈື່ໄວ້ວ່າການຢູ່ຢ່າງເຕັມທີ່ກໍເປັນກິດຈະກຳໃນຕົວມັນເອງ.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "ການເຊື່ອມຕໍ່ຍັງເປັນໄປໄດ້. ໃນໄລຍະທ້າຍ ໂລກຖືກສຳຜັດສ່ວນໃຫຍ່ຜ່ານປະສາດສຳຜັດ."
+  - "ດົນຕີ ການສຳຜັດທີ່ອ່ອນໂຍນ ສຽງທີ່ຄຸ້ນເຄີຍ ແລະສິ່ງນຸ້ມໆໃຫ້ຖື ມັກເຂົ້າເຖິງຄົນໄດ້ ເມື່ອຄຳເວົ້າບໍ່ສາມາດເຮັດໄດ້ອີກແລ້ວ."
+  - "ແນວຄວາມຄິດເກືອບທັງໝົດໃນທີ່ນີ້ໃຊ້ໄດ້ກັບຜູ້ທີ່ຢູ່ເທິງຕຽງ ຫຼືເກົ້າອີ້."
+  - "ສັງເກດຄວາມສະບາຍ ແລະຄວາມບໍ່ສະບາຍຢູ່ໃບໜ້າ ມື ແລະການຫາຍໃຈ ແລະຢຸດເມື່ອເຫັນສັນຍານຄວາມທຸກລຳບາກ."
+  - "ຫຼີກລ່ຽງວັດຖຸນ້ອຍໆ ແລະສະເໜີອາຫານ ຫຼືນ້ຳພຽງເທົ່າທີ່ທີມດູແລແນະນຳ ເພາະການກືນອາດກາຍເປັນອັນຕະລາຍ."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "ມີກິດຈະກຳໃດທີ່ເຮັດກັບຜູ້ທີ່ມີສະໝອງເສື່ອມໄລຍະທ້າຍ ທີ່ຢູ່ເທິງຕຽງໄດ້ແດ່?"
+    a: "ເປີດເພງທີ່ເຂົາມັກ ຈັບມື ນວດມືດ້ວຍຄຣີມຊ້າໆ ອ່ານອອກສຽງຈາກປຶ້ມ ຫຼືບົດສວດທີ່ເຂົາຮັກ ສະແດງຮູບ ຫຼືເປີດສຽງທຳມະຊາດເບົາໆ. ເປີດມ່ານໃຫ້ເຂົາເຫັນຂ້າງນອກ. ການນັດພົບສັ້ນໆ ສະຫງົບ ແລະເທື່ອລະຢ່າງ ມັກໄດ້ຜົນດີທີ່ສຸດ."
+  - q: "ຜູ້ທີ່ມີສະໝອງເສື່ອມໄລຍະທ້າຍຍັງເພີດເພີນກັບດົນຕີໄດ້ບໍ?"
+    a: "ຫຼາຍຄົນເຮັດໄດ້. Alzheimer's Association ໃຫ້ຂໍ້ສັງເກດວ່າແມ່ນໃນໄລຍະທ້າຍ ຜູ້ນັ້ນອາດຍັງຕີຈັງຫວະ ຫຼືຮ້ອງຕາມເພງຈາກໄວເດັກໄດ້. ເລືອກດົນຕີທີ່ເຂົາຮັກຕອນຍັງໜຸ່ມ ແລະຮັກສາລະດັບສຽງໃຫ້ນຸ່ມ."
+  - q: "ຂ້ອຍຈະຮູ້ໄດ້ແນວໃດວ່າເຂົາເພີດເພີນກັບກິດຈະກຳ?"
+    a: "ສັງເກດສັນຍານນ້ອຍໆ: ບ່າທີ່ຜ່ອນຄາຍ ໃບໜ້າທີ່ນຸ່ມຂຶ້ນ ການສົບຕາ ການຮ້ອງຄຸ່ນ ການບີບມື ຫຼືການຫາຍໃຈທີ່ຊ້າລົງ. ການເຈັບໜ້າ ການດຶງໜີ ຄວາມກະວົນກະວາຍ ຫຼືການຄາງ ອາດໝາຍເຖິງຄວາມບໍ່ສະບາຍ ຫຼືຄວາມເຈັບ. ຖ້າເຫັນສິ່ງເຫຼົ່ານີ້ ໃຫ້ຢຸດ ແລະບອກທີມດູແລຖ້າຍັງຄົງຢູ່."
+  - q: "ຖ້າເຂົາບໍ່ຈຳຂ້ອຍໄດ້ແລ້ວ ການມາຢ້ຽມຍັງມີຄຸນຄ່າບໍ?"
+    a: "ມີ. National Institute on Aging ໃຫ້ຂໍ້ສັງເກດວ່າການຢູ່ນຳກັນເອງກໍສາມາດເຮັດໃຫ້ສະຫງົບ ແລະການສຳຜັດ ດົນຕີ ແລະເລື່ອງລາວຍັງສາມາດໃຫ້ຄວາມສະບາຍໃຈໄດ້ໃນສະໝອງເສື່ອມຂັ້ນສູງ. ສຽງແລະການສຳຜັດຂອງທ່ານອາດຍັງຄຸ້ນເຄີຍ ເຖິງແມ່ນຊື່ຂອງທ່ານຈະບໍ່ຄຸ້ນແລ້ວ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +44,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+ໃນໄລຍະທ້າຍຂອງສະໝອງເສື່ອມ ຜູ້ນັ້ນອາດເວົ້າໜ້ອຍລົງຫຼາຍ ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການດູແລປະຈຳວັນທຸກຢ່າງ ແລະໃຊ້ເວລາສ່ວນໃຫຍ່ຂອງມື້ຢູ່ເທິງຕຽງ ຫຼືເກົ້າອີ້. ມັນອາດຮູ້ສຶກຄືວ່າບໍ່ມີຫຍັງເຫຼືອໃຫ້ເຮັດນຳກັນ. ແຕ່ຍັງມີ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ໃຫ້ຂໍ້ສັງເກດວ່າແກນກາງບາງຢ່າງຂອງຕົວຕົນຂອງຜູ້ນັ້ນອາດຍັງຢູ່ ແລະໃນໄລຍະນີ້ ໂລກຖືກສຳຜັດສ່ວນໃຫຍ່ຜ່ານປະສາດສຳຜັດ. ດົນຕີ ການສຳຜັດ ສຽງທີ່ຄຸ້ນເຄີຍ ແລະການຢູ່ນຳກັນຢ່າງສະຫງົບຂອງທ່ານ ຍັງສາມາດນຳຄວາມສະບາຍ ແລະຊ່ວງເວລາແຫ່ງການເຊື່ອມຕໍ່ມາໄດ້.
 
-## What activities help in late-stage dementia?
+## ກິດຈະກຳໃດຊ່ວຍໃນສະໝອງເສື່ອມໄລຍະທ້າຍ?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+ກິດຈະກຳປະສາດສຳຜັດທີ່ງ່າຍໆ ແລະການຢູ່ນຳກັນຢ່າງງຽບໆ ຊ່ວຍຫຼາຍທີ່ສຸດໃນໄລຍະທ້າຍ. Alzheimer's Association ແນະນຳໃຫ້ເປີດເພງທີ່ມັກ ອ່ານບາງສ່ວນຂອງປຶ້ມທີ່ມີຄວາມໝາຍ ທາຄຣີມທີ່ມີກິ່ນທີ່ຊອບໃສ່ຜິວ ແລະນັ່ງນອກບ້ານນຳກັນໃນມື້ອາກາດດີ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ເພີ່ມການເລົ່າເລື່ອງ ການສະແດງຮູບ ການສຳຜັດ ຫຼືນວດເບົາໆ ແລະດົນຕີ ສຽງຂາວ ຫຼືສຽງທຳມະຊາດ ແລະກ່າວວ່າການມີຢູ່ຂອງທ່ານເອງກໍສາມາດສ້າງຄວາມສະຫງົບໄດ້.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ໃຫ້ຂໍ້ສັງເກດວ່າຄົນໃນໄລຍະທ້າຍມັກມີຄວາມຕ້ອງການອັນແຮງກ້າທີ່ຈະຖືສິ່ງໃດໜຶ່ງໄວ້ໃກ້ຕົວເພື່ອຄວາມສະບາຍ ແລະແນະນຳກິດຈະກຳປະສາດສຳຜັດງ່າຍໆ ການຍືດເບົາໆ ການເຄື່ອນໄຫວດ້ວຍຜ້າພັນຄໍ ດົນຕີ ການໄປຢ້ຽມສັດ ການສຳຜັດຂອງມະນຸດ ແລະສິລະປະແບບເສລີ.
 
-## Activities for someone in bed or a chair
+## ກິດຈະກຳສຳລັບຜູ້ທີ່ຢູ່ເທິງຕຽງ ຫຼືເກົ້າອີ້
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **ເປີດດົນຕີຂອງເຂົາ.** ເລືອກເພງຈາກຊ່ວງໄວໜຸ່ມ ຄວາມເຊື່ອ ຫຼືຄອບຄົວ. ຮັກສາລະດັບສຽງໃຫ້ນຸ່ມ ແລະນັ່ງໃກ້ໆ. ເຖິງຕອນນີ້ບາງຄົນຍັງຕີນິ້ວ ຫຼືຮ້ອງຄຸ່ນໄດ້. ເບິ່ງ [ກິດຈະກຳດົນຕີ](/activities/music/).
+2. **ຈັບມື.** ພຽງແຕ່ຖືມືດ້ວຍນິ້ວໂປ້ລູບເບົາໆ ກໍເປັນກິດຈະກຳແລ້ວ. ບອກກ່ອນວ່າທ່ານກຳລັງເຮັດຫຍັງ.
+3. **ນວດມືຊ້າໆ.** ອຸ່ນຄຣີມເລັກນ້ອຍໃນຝ່າມື ແລ້ວລູບຈາກຂໍ້ມືໄປປາຍນິ້ວ. ເລືອກຄຣີມທີ່ບໍ່ມີກິ່ນ ຫຼືກິ່ນທີ່ເຂົາມັກສະເໝີ ຖ້າຜິວຂອງເຂົາຮັບໄດ້.
+4. **ອ່ານອອກສຽງ.** ບົດກະວີທີ່ມັກ ຂໍ້ຄວາມຈາກປຶ້ມທີ່ຮັກ ພະຄຳພີ ຫຼືໜ້າກີລາໃນໜັງສືພິມ. ຈັງຫວະສຽງຂອງທ່ານສຳຄັນກວ່າຄຳເວົ້າ.
+5. **ເລົ່າເລື່ອງ.** ເວົ້າກ່ຽວກັບການເດີນທາງຂອງຄອບຄົວ ຫຼືມື້ທີ່ເຂົາແຕ່ງງານ. ທ່ານບໍ່ຈຳເປັນຕ້ອງໄດ້ຄຳຕອບ.
+6. **ສະແດງຮູບ.** ຖືຮູບໃຫຍ່ໜຶ່ງຮູບໃນເວລາ ໃນລະດັບສາຍຕາ ແລະບັນຍາຍດ້ວຍນ້ຳສຽງທີ່ອົບອຸ່ນ. ຫຼີກລ່ຽງການຖາມວ່າແມ່ນໃຜ.
+7. **ໃຫ້ຂອງນຸ້ມໆໃຫ້ຖື.** ຜ້າເຊັດໜ້າພັບ ແຜ່ນຜ້າຟລີສ ຫຼືສັດນຸ່ມ. NIA ແນະນຳໃຫ້ໃຫ້ຜູ້ນັ້ນຖືຜ້າເຊັດໜ້າໃນຂະນະທີ່ຖືກຍ້າຍ ເພື່ອໃຫ້ມີໂອກາດໜ້ອຍລົງທີ່ຈະຈັບທ່ານ ຫຼືເຟີນີເຈີ.
+8. **ຫຼິ້ນສຽງທຳມະຊາດ.** ສຽງຝົນ ຄື້ນ ຫຼືສຽງນົກໃນລະດັບເບົາ ສາມາດເຮັດໃຫ້ຫ້ອງທີ່ມີສຽງດັງອ່ອນລົງ.
+9. **ເອົາຂ້າງນອກເຂົ້າມາ.** ເປີດມ່ານ ວາງທີ່ໃຫ້ອາຫານນົກນອກປ່ອງຢ້ຽມ ຫຼືນຳດອກໄມ້ສົດ ຫຼືໃບໄມ້ເຂົ້າມາໃຫ້ເບິ່ງ ແລະສຳຜັດ.
+10. **ອອກໄປນອກບ້ານ.** ຖ້າຜູ້ນັ້ນນັ່ງລໍ້ເຂັນໄດ້ ສອງສາມນາທີໃນຮົ່ມໃນມື້ອາກາດອ່ອນໆກໍສວຍງາມ.
+11. **ແປງຜົມ ຫຼືໃຫ້ຜ້າອຸ່ນ.** ການດູແລຊ້າໆ ນຸ່ມນວນ ແລະຜ້າເຊັດໜ້າອຸ່ນສຳລັບມືແລະໜ້າ ອາດຮູ້ສຶກວ່າເປັນການເອົາໃຈໃສ່.
+12. **ເຄື່ອນໄຫວເບົາໆໄປກັບດົນຕີ.** ໂບກຜ້າພັນຄໍບາງໆນຳກັນ ຫຼືແກວ່ງມືຕາມຈັງຫວະເພງ. ສຳລັບການຍືດ ແລະການເຄື່ອນຂໍ້ ໃຫ້ຂໍໃຫ້ນັກກາຍະບຳບັດ ຫຼືພະຍາບານສະແດງວິທີທີ່ປອດໄພກ່ອນ.
+13. **ເຮັດສິລະປະແບບເສລີ.** ທາສີທີ່ບໍ່ເປັນພິດເທິງເຈ້ຍໃຫຍ່ດ້ວຍຟອງນ້ຳ ຫຼືດ້ວຍມື ໂດຍມີມືຂອງທ່ານນຳ. ບໍ່ມີຜົນທີ່ຖືກຕ້ອງ.
+14. **ຕ້ອນຮັບການມາຢ້ຽມຂອງສັດ.** ສັດລ້ຽງທີ່ສະຫງົບຢູ່ເທິງຕຽງ ຫຼືຕັກ ຖ້າຜູ້ນັ້ນເພີດເພີນກັບສັດ ແລະສະພາບແວດລ້ອມເຮັດໄດ້.
+15. **ຫາຍໃຈຊ້າໆນຳກັນ.** ນັ່ງໃກ້ໆ ແລ້ວຫາຍໃຈຊ້າໆໃຫ້ເຫັນໄດ້ຍິນ. [ຫາຍໃຈຜ່ອນຄາຍ](/games/calm-breathing/) ສາມາດກຳນົດຈັງຫວະໃຫ້ທ່ານທັງສອງ ແລະທ່ານເປັນຜູ້ເລີ່ມ ແລະຢຸດ.
+16. **ພຽງແຕ່ຢູ່ນຳ.** ນັ່ງໃກ້ໆ ຮ້ອງຄຸ່ນ ຖັກ ຫຼືອ່ານຢ່າງງຽບໆ. ການຢູ່ຢ່າງເຕັມທີ່ກໍພຽງພໍແລ້ວ.
 
-## How to share an activity at this stage
+## ວິທີແບ່ງປັນກິດຈະກຳໃນໄລຍະນີ້
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **ເຂົ້າຫາຈາກດ້ານໜ້າ.** ບອກຊື່ຂອງເຂົາ ແລະຊື່ຂອງທ່ານ ແລະເວົ້າຊ້າໆ ນຸ່ມນວນກ່ອນແຕະຕ້ອງ.
+- **ສະເໜີເທື່ອລະຢ່າງ.** ປິດໂທລະທັດກ່ອນເປີດດົນຕີ. ເຮັດເທື່ອລະປະສາດສຳຜັດ.
+- **ເຮັດໃຫ້ສັ້ນ.** ສອງສາມນາທີອາດພຽງພໍ. ຫຼາຍຊ່ວງເວລາສັ້ນໆຕະຫຼອດມື້ດີກວ່າການນັດພົບດົນດຽວ.
+- **ເຮັດໃຫ້ສະບາຍກ່ອນ.** ກວດວ່າຜູ້ນັ້ນໄດ້ຮັບການຮອງຮັບດີ. NIA ແນະນຳແຜ່ນວາງຕັກເພື່ອພັກແຂນ ແລະຮອງຮັບລຳຕົວເທິງເມື່ອນັ່ງຂຶ້ນ.
+- **ສັງເກດການຕອບສະໜອງ.** ມືທີ່ຜ່ອນຄາຍ ໃບໜ້າທີ່ນຸ່ມຂຶ້ນ ການສົບຕາ ຫຼືການຮ້ອງຄຸ່ນ ບົ່ງບອກວ່າສະບາຍ. NIA ໃຫ້ຂໍ້ສັງເກດວ່າການຄາງ ການເຈັບໜ້າ ການປ້ອງກັນສ່ວນໃດໜຶ່ງຂອງຮ່າງກາຍ ຫຼືຄວາມກະວົນກະວາຍກະທັນຫັນ ອາດເປັນສັນຍານຂອງຄວາມເຈັບ. ໃຫ້ຢຸດ ແລະບອກທີມດູແລ.
 
-## A quick guide by sense
+## ຄູ່ມືສັ້ນຕາມປະສາດສຳຜັດ
 
-| Sense | Ideas | Take care |
+| ປະສາດສຳຜັດ | ແນວຄວາມຄິດ | ຂໍ້ຄວນລະວັງ |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| ການໄດ້ຍິນ | ດົນຕີທີ່ມັກ ສຽງເວົ້າຂອງທ່ານອ່ານ ສຽງທຳມະຊາດ | ຮັກສາລະດັບສຽງໃຫ້ຕ່ຳ; ສຽງດຽວໃນແຕ່ລະເທື່ອ |
+| ການສຳຜັດ | ນວດມື ຈັບມື ຜ້ານຸ້ມ ຜ້າເຊັດໜ້າອຸ່ນ | ບອກກ່ອນ; ກວດວ່າຜິວບໍ່ເຈັບ ຫຼືບໍ່ແຕກ |
+| ການເບິ່ງ | ຮູບ ດອກໄມ້ ທັດສະນີຍະພາບຈາກປ່ອງຢ້ຽມ ວີດີໂອທຳມະຊາດທີ່ເຄື່ອນຊ້າ | ຖືສິ່ງຕ່າງໆໃນລະດັບສາຍຕາ; ແສງດີ ບໍ່ແຍງຕາ |
+| ການດົມກິ່ນ | ຄຣີມທີ່ມັກ ດອກໄມ້ສົດ ກາເຟທີ່ກຳລັງຕົ້ມຢູ່ໃກ້ໆ | ຫຼີກລ່ຽງກິ່ນແຮງ; ກວດການແພ້ ແລະການຫາຍໃຈ |
+| ການລົດຊາດ | ລົດຊາດທີ່ມັກໃນປະລິມານໜ້ອຍ | ສະເພາະອາຫານແລະເນື້ອສຳຜັດທີ່ທີມດູແລບອກວ່າປອດໄພ |
 
-## Safety at this stage
+## ຄວາມປອດໄພໃນໄລຍະນີ້
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+ການກືນອາດກາຍເປັນເລື່ອງຍາກໃນໄລຍະທ້າຍ ແລະ NIA ເຕືອນວ່າສິ່ງນີ້ເພີ່ມຄວາມສ່ຽງຕໍ່ການສຳລັກ. ຢ່າປ່ອຍວັດຖຸນ້ອຍໆໄວ້ໃນບ່ອນທີ່ເອື້ອມເຖິງ ແລະສະເໜີອາຫານ ຫຼືນ້ຳພຽງໃນເນື້ອສຳຜັດ ແລະທ່າທີ່ທີມດູແລແນະນຳ. ກວດຜິວຢ່າງນຸ່ມນວນໃນຂະນະທີ່ເຮັດກິດຈະກຳການສຳຜັດ ເພາະຜິວອາດຂາດ ຫຼືຊ້ຳງ່າຍ. ສຳລັບແນວຄວາມຄິດປະສາດສຳຜັດທີ່ປອດໄພເພີ່ມເຕີມ ເບິ່ງ [ກິດຈະກຳປະສາດສຳຜັດ](/activities/sensory/).
 
-## Looking after yourself too
+## ດູແລຕົວເອງນຳດ້ວຍ
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+ການດູແລໃນໄລຍະທ້າຍຕ້ອງໃຊ້ແຮງກາຍ ແລະອາລົມ ບໍ່ວ່າຈະເຮັດຢູ່ເຮືອນ ຫຼືໃນລະຫວ່າງການໄປຢ້ຽມຢາມສູນດູແລ. ທີມດູແລຜູ້ປ່ວຍໃນໄລຍະສຸດທ້າຍ ແລະການດູແລແບບບັນເທົາອາການສາມາດຊ່ວຍດ້ານຄວາມສະບາຍ ການສະໜັບສະໜູນ ແລະການວາງແຜນ ແລະ NIA ລະບຸພວກເຂົາເປັນແຫຼ່ງຊ່ວຍເຫຼືອ. ການມາຢ້ຽມສັ້ນໆແບບສະຫງົບກໍມີຄຸນຄ່າ; ເບິ່ງ [ການໄປຢ້ຽມຜູ້ທີ່ເປັນສະໝອງເສື່ອມ](/activities/visiting/). ຖ້າທ່ານນຳກຸ່ມ [ກິດຈະກຳກຸ່ມໃນສູນດູແລ](/activities/care-home-groups/) ມີແນວຄວາມຄິດສຳລັບການປັບກິດຈະກຳ. ແລະກະລຸນາອ່ານ [ການດູແລຕົວເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/): ການພັກຜ່ອນເປັນສ່ວນໜຶ່ງຂອງການດູແລໃຫ້ດີ.

@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Palaisipan para sa Taong may Dementia: Jigsaw, Palaisipang Salita at Madaling Online na Palaisipan"
+seoTitle: "Palaisipan para sa Dementia: Jigsaw at Palaisipang Salita"
+description: "Paano pumili ng jigsaw, palaisipang salita at online na palaisipan para sa taong may dementia, at kailan ito gawing mas madali."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Ang pinakamainam na palaisipan para sa taong may dementia ay yaong matatapos
+  niya nang kaunting tulong at masisiyahan habang ginagawa. Pumili ng jigsaw na
+  may mas kaunti at mas malalaking piyesa at malinaw na larawang para sa mga
+  adulto, panatilihing nakikita ang larawan sa takip ng kahon, at unahin ang mga
+  piyesa sa gilid. Mas mainam ang palaisipang salita sa malalaking titik. Ang
+  madaling online na palaisipang may apat na piyesa ay angkop sa gitnang yugto.
+  Tumigil habang masaya pa.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Pumili ayon sa karanasan, hindi sa label ng yugto: kung parang trabaho ang palaisipan, subukan ang may mas kaunting piyesa."
+  - "Ang malalaki at matitibay na piyesa, at malinaw na larawang may magkakaibang bahagi ng kulay, ay mas madali kaysa maliliit na piyesa at malalaking kalangitan."
+  - "Mahalaga ang larawang pang-adulto. Hardin, kusina, kotse at hayop, hindi cartoon."
+  - "Ang pagsasama ang mismong layunin. Ibigay ang mga piyesa, ayusin ang mga gilid, at panatilihing nakikita ang takip ng kahon."
+  - "Ang malalaking-titik na palaisipang salita at madaling online na palaisipang may 4 o 9 na piyesa ay libre sa site na ito."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Ilang piyesa ng palaisipan ang pinakamainam para sa taong may dementia?"
+    a: "Walang iisang tamang bilang. Ang taong dating gumagawa ng palaisipang 1,000 piyesa ay maaaring masiyahan pa rin sa ilang daang piyesa sa simula, habang ang iba ay mas nakabubuti sa isang dosenang malalaking piyesa. Kung parang trabaho o nakakabigo ang palaisipan, lumipat sa mas kaunting piyesa. Ang aming online na palaisipang larawan ay may 4 o 9 na piyesa."
+  - q: "Nakabubuti ba ang jigsaw puzzle sa taong may dementia?"
+    a: "Marami ang nasisiyahan dito, lalo na kung mahilig sila sa palaisipan noon. Nabibigyan ng palaisipan ng gawain ang mga kamay, malinaw na layunin, at larawang mapag-uusapan. Walang palaisipang napatunayang nakagagamot o nakapagpapabagal ng dementia, kaya piliin ito para sa kasiyahan at samahan."
+  - q: "Ano ang maaari kong gawin kapag hindi na kayang harapin ng isang tao ang jigsaw?"
+    a: "Gawing mas maliit at gawin ninyo ang mas malaking bahagi: ibigay ang isang piyesa sa bawat pagkakataon, o iwanan sa kanila ang huling ilang piyesa. Subukan ang online na palaisipang may 4 na piyesa, pag-uri-uriin ang mga piyesa ayon sa kulay, o tingnan na lang nang magkasama ang tapos na larawan."
+  - q: "Angkop ba ang krosword at palaisipang salita para sa dementia?"
+    a: "Maaari ang mga ito sa maagang yugto, sa malalaking titik. Mas madali ang palaisipang salita na salita lamang ang pahalang at patayo kaysa may pahilis o pabaligtad na salita. Basahin nang malakas ang mga pahiwatig o listahan ng salita at gawin ito nang magkasama."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ang jigsaw na nakalatag sa mesa ng kainan ay isa sa pinakamadaling aktibidad na maibahagi. Maaari kayong umupo nang magkasama nang hindi kailangang mag-usap, nagbibigay ang larawan ng mapag-uusapan, at masarap sa pakiramdam ang paglalagay ng huling piyesa. Kailangan namang magbago ang mga palaisipan habang nagbabago ang dementia. Ang palaisipang masyadong mahirap ay maaaring gawing nakakainis ang tahimik na hapon. Tinatalakay ng pahinang ito kung paano pipili at maghahanda ng mga jigsaw, palaisipang salita at madaling online na palaisipan, at kung ano ang gagawin kapag nahirapan na.
 
-## Are puzzles good for people with dementia?
+## Nakabubuti ba ang mga palaisipan sa taong may dementia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Marami ang nasisiyahan sa mga ito, lalo na ang mga dating mahilig sa palaisipan. Inililista ng [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ang mga palaisipang salita, card game at board game sa mga aktibidad para sa maagang yugto, at binabanggit ng [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ang mga online na laro at palaisipan sa tablet bilang isang paraan upang manatiling aktibo.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Hindi gamot ang palaisipan. Walang palaisipang napatunayang nakapagpapatigil o nakapagpapabagal ng dementia; ipinaliliwanag ng aming gabay tungkol sa [mga larong pang-utak at dementia](/brain-health/brain-games/) ang pananaliksik. Ang dahilan ng paggawa ng palaisipan ay maaari itong maging kaaya-aya at nakakaaliw na oras na magkasama. Ganito ito inilalarawan ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities): tumuon sa kasiyahan, hindi sa pagkamit ng layunin.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Paano pumili ng jigsaw puzzle para sa taong may dementia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Pumili ayon sa gusto ng tao at kung paano natapos ang huling palaisipan, hindi ayon sa label ng yugto.
 
-### Number of pieces
+### Bilang ng piyesa
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Walang tamang bilang. Ang taong mahilig sa palaisipan habang buhay ay maaari pa ring masiyahan sa ilang daang piyesa sa simula, habang ang iba ay pinakamasaya sa isang dosena. Isang praktikal na tuntunin: kung parang trabaho ang huling palaisipan, pumili ng may halos kalahating bilang ng piyesa. Kung mabilis itong natapos at gusto pa nila, dagdagan nang kaunti.
 
-### Piece size and feel
+### Laki at pakiramdam ng piyesa
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Mas malalaking piyesa** ay mas madaling makita, kunin at paikutin.
+- **Makapal at matitibay na piyesa** ay nananatili sa lugar at hindi nasisira kapag nahulog.
+- **Matte na tapos** ay nakababawas ng silaw mula sa lampara at bintana.
+- **Iwasan ang maliliit na piyesa** kung maaaring ilagay ng tao sa bibig ang mga bagay, na maaaring mangyari sa mas huling yugto ng dementia.
 
-### The picture
+### Ang larawan
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Paksang pang-adulto.** Hardin, kusina, lumang kotse, hayop sa bukid, bayang tabing-dagat, paboritong isport. Hindi cartoon o anumang mukhang laruan ng bata.
+- **Magkakaibang bahagi ng kulay.** Pulang kamalig, asul na bangka at berdeng bukid ay mas madali kaysa langit na sumasakop sa kalahati ng palaisipan.
+- **Pamilyar at personal.** Ang larawan ng lugar na tinirhan nila o libangang minahal nila ay nagbibigay ng maraming mapag-uusapan. Ang ilang print shop ay kayang gawing jigsaw ang larawan ng pamilya.
 
-## How do you do a puzzle together?
+## Paano gawin nang magkasama ang palaisipan?
 
-Set it up so the person can get straight to the enjoyable part.
+Ihanda ito upang agad makarating ang tao sa masayang bahagi.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Pumili ng magandang lugar.** Maliwanag na ilaw, upuang may sandalan sa braso, at mesa o tray kung saan puwedeng manatili ang palaisipan.
+2. **Ipatong ang takip ng kahon** kung saan kayong dalawa ay makakakita nito.
+3. **Ihanay nang nakaharap ang mga piyesa** bago magsimula.
+4. **Ayusin ninyo ang mga gilid,** o gawin ang hangganan at iwan sa kanila ang gitna.
+5. **Pagsama-samahin ang mga piyesa ayon sa kulay** sa ilang mababaw na tray o plato.
+6. **Ibigay ang isang piyesa sa bawat pagkakataon** kung nakakalito ang tumpok. “Sa tingin ko, bahagi ito ng kamalig.”
+7. **Pag-usapan ang larawan,** hindi ang progreso. “Mukhang bangka iyan ng tatay ko.”
+8. **Iwanan itong nakalatag.** Balikan ito sa loob ng ilang araw. Walang pagmamadali.
+9. **Huminto sa magandang punto,** pagkatapos ng isang piyesang nailagay, habang kaaya-aya pa ang pakiramdam.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Pinapayuhan ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) na tulungan ang tao sa pagsisimula, bantayan ang pagkainis, at hayaan silang manood lamang kung mas gusto nila iyon. Ang panonood habang inilalagay mo ang mga piyesa at itinuturo kung saan maaaring pumunta ang isa ay bahagi pa rin ng pakikilahok.
 
-## Easy online puzzles
+## Madaling online na palaisipan
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Ang palaisipan sa tablet ay may tunay na bentahe: walang nawawalang piyesa, malalaking larawang pumupuno sa screen, at walang mesang kailangang linisin.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ang aming libreng [palaisipang larawan](/games/picture-puzzle/) ay pinuputol ang larawan sa 4 o 9 na piyesa. I-tap ang dalawang piyesa para magpalitan ng puwesto hanggang mabuo ang larawan. Nananatili sa screen ang buong larawan bilang gabay, walang timer, at maaari kayong huminto anumang oras. Angkop ang apat na piyesa sa maraming taong nasa gitnang yugto kapag may katabing kasama.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Para sa mas simpleng laro ng larawan, subukan ang [Hanapin ang pareho](/games/find-the-same/), kung saan i-tap ang larawang kapareho ng nasa itaas, o ang [Magsama-samang pag-uri-uriin](/games/sort-together/), kung saan inilalagay ang mga larawan sa basket gaya ng kusina o hardin.
 
-## Word puzzles: word searches and crosswords
+## Palaisipang salita: paghahanap ng salita at krosword
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Angkop ang palaisipang salita sa mga taong palaging nasisiyahan dito, kadalasan sa mas maagang bahagi ng dementia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Paghahanap ng salita sa malalaking titik.** Ang aming libreng [paghahanap ng salita](/games/word-search/) ay gumagamit ng malalaking letra at iilang salita lamang, pahalang at patayo, hindi kailanman pahilis o pabaligtad. Maaari itong laruin sa screen o i-print.
+- **Basahin nang malakas ang listahan.** Isa ang bumabasa ng salita, ang isa ay naghahanap nito. Ayos lang na bilugan lamang ang unang letra.
+- **Mga krosword sa malalaking titik** mula sa aklat ng palaisipan ay maaaring gumana sa simula. Basahin nang malakas ang mga pahiwatig, pagsaluhan ang lapis, at punan nang magkasama ang mga sagot. Mas mainam ang madali at may temang krosword kaysa sa cryptic.
+- **Pag-usapan ang mga salita.** Ang “hardin” ay maaaring humantong sa sampung minutong usapan tungkol sa kamatis.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Para sa iba pang aktibidad sa papel at kung paano ito i-print nang madaling makita at mahawakan, tingnan ang [libreng aktibidad para sa dementia na maaaring i-print](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Aling palaisipan ang angkop sa bawat yugto?
 
-Stages overlap, and good and hard days are normal.
+Nagkakapatong ang mga yugto, at normal ang mabuti at mahihirap na araw.
 
-| Stage | Puzzles that often fit | Your role |
+| Yugto | Mga palaisipang madalas angkop | Ang iyong papel |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Maaga | Pamilyar na jigsaw na may mas kaunting piyesa kaysa dati, malalaking-letrang krosword at palaisipang salita, online na palaisipang may 9 na piyesa | Katuwang: hayaan silang pumili, tumulong kapag hiniling |
+| Gitna | Jigsaw na may isang dosenang malalaking piyesa, online na palaisipang may 4 na piyesa, palaisipang salita na binabasa nang magkasama | Ihanda, ayusin ang mga piyesa, ibigay isa-isa |
+| Huli | Pagtingin nang magkasama sa tapos na larawan, Hanapin ang pareho na may dalawang larawan, paghawak ng ilang malalaking piyesa | Dalhin sa kanila; ang inyong samahan ang aktibidad |
 
-## When should you make a puzzle easier, or stop?
+## Kailan dapat gawing mas madali ang palaisipan, o itigil?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Bantayan ang buntong-hininga, pagtulak palayo sa mga piyesa, paulit-ulit na “Hindi ko kaya,” o nag-aalalang tingin. Mga senyales ang mga ito na may dapat baguhin, hindi dapat ipagpilitan.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Gawing mas maliit.** Mas kaunting piyesa, o iwanan sa kanila ang huling ilan.
+- **Gawin ninyo ang mas malaking bahagi** at anyayahan silang tumulong sa madaling bahagi.
+- **Lumipat sa malapit na aktibidad:** pag-uri-uri ng piyesa ayon sa kulay, online na palaisipang may 4 na piyesa, o [pagkukulay](/games/coloring/).
+- **Huminto.** Itabi ito at magtimpla ng tsaa. Maaari kayong bumalik sa ibang araw, o hindi na.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Kung nagiging paalala na lang ng mga bagay na mahirap ang palaisipan, ayos lang na bitawan ito. Maraming ibang paraan para magugol ang magandang oras na magkasama; ang aming [101 ideya sa aktibidad](/activities/ideas/) ay magandang tingnan.

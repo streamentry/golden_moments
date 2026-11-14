@@ -1,33 +1,28 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Ngā mahi hei tā koreutu mō te mate wareware"
+seoTitle: "Ngā mahi hei tā koreutu mō te mate wareware: pū rahi"
+description: "Ngā mahi hei tā koreutu mō te mate wareware: rapu kupu pū rahi, whārangi tae, kāri kōrero me te pingo whakaahua, me ngā tohutohu tā pai."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Ka tuku a Golden Moments i ngā mahi hei tā koreutu mō te mate wareware: he rapu kupu pū rahi, he whārangi tae, he kāri kōrero whakaahua me ngā kāri pingo whakaahua. Whakatuwhera i tētahi whārangi kēmu, ā, whakamahia tana pātene Tā. Tāia ki te reo pū rahi, māmā, ki te pepa taumaha, kotahi mahi ia whārangi, ā, whakamaherehia ngā whārangi ka whakamahia anō. Ko ngā mea tā ā-kāinga māmā, pēnei i te whārangi kōrero o te oranga, i te hōtaka ia rā, he āwhina anō hoki.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Ko ā mātou mahi hei tā he koreutu: Rapu kupu, Whārangi tae, Kāri kōrero me Pingo whakaahua. He pātene Tā kei ia whārangi kēmu."
+  - "Tāia ki te momo pū rahi, māmā, me te rerekētanga kaha, ā, kotahi mahi ia whārangi."
+  - "He pai ake te pepa taumaha, te kāri taumaha hei pupuri, ā, kāore e māhua ngāwari. Whakamaherehia ngā whārangi kia whakamahia anō me ngā pene ka taea te horoi."
+  - "Ko ngā mea tā ā-kāinga pēnei i te whārangi kōrero o te oranga, i te hōtaka ia rā, i ngā tapanga whakaahua ki ngā tatau, he māmā, he whaihua."
+  - "He karere te whārangi tā, ehara i te mahi kura. He pai te mahi i tētahi wāhanga, i te kore rānei."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "He koreutu ō mahi hei tā mō te mate wareware?"
+    a: "Ae. Ko ngā whārangi Rapu kupu pū rahi, Whārangi tae, Kāri kōrero me Pingo whakaahua i tēnei paetukutuku he koreutu te whakamahi me te tā. Tuwhera te whārangi kēmu, whakamahia te pātene Tā."
+  - q: "He aha ngā mahi hei tā e pai rawa ana mō te mate wareware?"
+    a: "Ko ngā mea tā pai rawa he māmā, mārama, he pakeke: he rapu kupu pū rahi me ngā kupu anake i te taha, i te raro; he whārangi tae me ngā rārangi mārama; he kāri pikitia hei tīmata kōrerorero; he pingo whakaahua mō ngā rōpū. Whakahoatia te mahi ki ngā hiahia me ngā kaha o te tangata i tēnei wā, ā, kotahi mahi ia whārangi."
+  - q: "Me pēhea e māmā ake ai te kite me te whakamahi i ngā mea tā?"
+    a: "Whakamahia he momo pū rahi, māmā, he tohu pōuri ki runga i te pepa mā, te kirīmi rānei, me te wāhi nui. Tāia ki te pepa taumaha, ki te pepa kāri rānei kia papatahi tonu te whārangi, kōwhiria te pepa kāore e whiti hei whakaiti i te rama, ā, whakamahia te papa kōhatu, te whāriki kāore e tahuri hei pupuri i te whārangi. He āwhina te whakamaherehia kia roa ai ngā whārangi."
+  - q: "Ka taea e au te tā i ā mātou mahi mō tētahi whare kaumātua, mō tētahi hōtaka ia rā?"
+    a: "Ae. He pai ki ngā kaimahi mahi te tā i ā mātou whārangi mō ngā kainoho me ngā rōpū. Kua hangaia te Pingo whakaahua mō ngā rōpū, ā, he kaiwhakaatu i runga i te mata e taea ai te whakaatu i runga i te pouaka whakaata, i te kaiwhakaatu rāhui rānei."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +47,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+I ētahi wā, ko te mahi pai rawa he pepa, he pene i te tēpu kāinga. Kāore e hiahia te hiko, te kupuhipa, te mata ngā mea tā, he māmā te kawe ki te toro, ki te rōpū rānei. Ko tēnei whārangi e kōrero ana mō ngā mahi hei tā koreutu i tā mātou paetukutuku, me pēhea te tā kia māmā te kite me te pupuri, ā, ētahi mea tā ā-kāinga māmā e whaihua ana ki ngā whānau me ngā kaimahi mahi.
 
-## What free printable activities do you offer?
+## He aha ngā mahi hei tā koreutu e tuku ana mātou?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Ka tuku mātou i whā mea tā koreutu. Tuwhera tētahi o ēnei whārangi kēmu, whakamahia te pātene **Tā** hei whiwhi i te putanga pai mō te pirinita.
 
-| Printable | What it is | Good for |
+| Mea tā | He aha | He pai mō |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Rapu kupu pū rahi](/games/word-search/) | He rapu kupu pū rahi me ngā kupu e rere ana i te taha, i te raro anake | He wā mārie me tētahi pene; tētahi i pai ki ngā tākaro whakaaro |
+| [Whārangi tae](/games/coloring/) | Whārangi tae hei tā, hei tae i runga i te mata | He wā mārie, auaha; ia wāhanga me te āwhina |
+| [Kāri kōrero](/games/conversation-cards/) | Kāri pikitia me ngā tohu kōrero tuwhera, kāore he whakamātau, ā, ia kaupapa | Ngā toro, ngā waea, ngā kai whānau, ngā rōpū mahara o mua |
+| [Pingo whakaahua](/games/picture-bingo/) | Kāri pingo me ngā pikitia kāore he tau, me tētahi kaiwhakaatu i runga i te mata | Ngā whare kaumātua, ngā hōtaka ia rā, ngā hui whānau |
 
-### Large-print word search
+### Rapu kupu pū rahi
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Ko te [Rapu kupu pū rahi](/games/word-search/) he pū rahi ngā reta, ā, ka noho ngā kupu ki te taha, ki te raro anake, kāore he kōpikopiko, he kupu hoki. Mahia tahi: ka pānui tētahi i tētahi kupu i te rārangi, ka rapu tētahi atu. Ina uaua te kimi kupu, whakamātauria te porowhita i te reta tuatahi o ia kupu tahi, ā, te pānui ā-reo i te rārangi kupu, te kōrero mō ia kupu.
 
-### Coloring pages
+### Whārangi tae
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Ka taea te tā i ngā [whārangi tae](/games/coloring/) mō ngā pene, mō ngā pensala tae; ka taea hoki te tae i runga i te papa rorohiko mā te pāwhiri i tētahi tae, ka pāwhiri i tētahi wāhi o te whakaahua. Mō ngā whārangi tā, hoatu ngā pene matotoru me ētahi tae iti i te wā kotahi. Tirohia tā mātou [aratohu toi](/activities/arts-and-crafts/) mō ngā huarahi ki te pupuri i te tae pakeke, mārie.
 
-### Conversation cards
+### Kāri kōrero
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+He pikitia mārama, he tohu tuwhera ngā [kāri kōrero](/games/conversation-cards/), pēnei i "Kōrerohia mai mō..." me "He aha tāu e kite ana?" He tuhinga ērā hei pōhi tuwhera, kāore he pātai whakamātau. Tāia he huinga, whakawehea, ā, pupuri ētahi ki te pēke mō ngā toro, ki te taha o te waea mō ngā waea. He pai hoki ēnei ki ngā rōpū [mahara o mua](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kāri pingo whakaahua
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Ka whakamahia e te [Pingo whakaahua](/games/picture-bingo/) ngā pikitia hei tohu, hei nama. Tāia he kāri mō ia kaitākaro, ā, whakamahia te kaiwhakaatu i runga i te mata i runga i te rorohiko, te pouaka whakaata, te pūtahi rānei. Ka tūtohu mātou kia kī tonu i ngā pikitia kia ki katoa ngā kāri, kia kore ai tētahi e noho takitahi. Tirohia [ngā mahi rōpū mō ngā whare kaumātua](/activities/care-home-groups/) mō te whakahaere i tētahi huihuinga.
 
-## How do I print activities so they are easy to use?
+## Me pēhea e tā pai ai i ngā mahi kia māmā te whakamahi?
 
-Small changes in how you print make a big difference.
+He iti ngā panonitanga o te tā ka nui te rerekētanga.
 
-### Make it easy to see
+### Me māmā te kite
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Momo pū rahi, māmā.** Whakamahia te tautuhinga tā pū rahi rawa e uru ana ki te whārangi. Kaua e whakamahi i ngā momo tuhi whakapaipai, pūtautau rānei.
+- **Rerekē kaha.** He kirīmi pouri ki runga i te pepa mā, te pepa kirīmi rānei. Kaua e whakamahi i ngā tae pāpaku, i ngā papamuri tae.
+- **Kōwhiria te pepa kāore e whiti** hei whakaiti i te rama i raro i ngā rama kanapa.
+- **Tirohia ngā karaihe me te rama.** Ka kī te Alzheimer's Association ka uaua te kōrero ina raru te kite, te rongo rānei, ā, me tirotiro i a rātou i ia wā. He pai hoki te rama kanapa, rite.
 
-### Make it easy to hold
+### Me māmā te pupuri
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Pepa taumaha, pepa kāri** ka papatahi tonu, ka māmā te hopu, ka pai ki te whakamahi auau.
+- **Papa kōhatu, whāriki kāore e tahuri** kia kaua e neke te whārangi.
+- **Pene matotoru, pensala matotoru** he māmā ake te pupuri i ngā pene angiangi.
 
-### Make it reusable
+### Me whakamahi anō
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Whakamaherehia ngā whārangi**, kiriata mārama rānei ki ngā kiriata whakamaru. Whakamahia ngā pene ka taea te horoi ki ngā rapu kupu me ngā kāri pingo, ā, muku ai.
+- **Kōwhiria ngā pūkoro kāore e whiti** mēnā he raru te rama, ā, **tapahia ngā koki** o ngā kāri kua whakamaherehia kia māmā te pupuri.
+- **Pupuri he kōpaki** o ngā mea pai kia kaua koe e tā i te whārangi ōrite ia wiki.
 
-### Keep it simple
+### Me māmā te mahi
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Mahi kotahi i te whārangi.** Tētahi rapu kupu kotahi, tētahi pikitia kotahi, kāore he mahi maha kua huihuia.
+- **He wāhi mātaotao nui.** He whārangi tino nui ka pōhēhē pea te tangata.
+- **Kāore he tohutohu hei pānui, ina taea.** Whakaatua te tangata he aha te mahi.
+- **Tapahia ngā whārangi.** Mēnā he nui rawa te whārangi katoa, tapahia kia rua, pōtia rānei kia kitea he wāhanga anake.
 
-## Other useful printables you can make at home
+## Ētahi atu mea tā whaihua ka taea e koe te hanga i te kāinga
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ehara ngā mea tā whaihua katoa i te kēmu. Ngāwari ēnei ki te hanga me tētahi kaiwhakarite kupu me tētahi tā.
 
-### A life-story page
+### He whārangi kōrero o te oranga
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+He whārangi kotahi "mō au" me tētahi whakaahua, te ingoa e pai ana te tangata kia kīia ai ia, te wāhi i tipu ake ai, ana mahi, whānau, kai pai, waiata me ngā mea e whakamarie ai, e pōuri ai rānei. Ka kī te Dementia Australia me hanga he [pukapuka maumahara](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) me ngā taipitopito mō te oranga o te tangata, ana mea pai, me ngā tāngata whakahirahira, hei āwhina i ngā manuhiri me ngā kaitiaki, hei whakaoho i te kōrerorero.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+He tino whaihua ā ngā hōhipera me ngā whakatū hou. Ka tūtohu te NIA me hoatu ki ngā kaimahi hōhipera he [pepa kōrero whaiaro](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) e whakaatu ana i te ritenga o te tangata, tōna ingoa e pai ana, ana mea pai me ngā mea kāore ia e pai ai, ngā mea ka whakaoho pea i a ia, ngā tohu kāore he kupu o te mamae.
 
-### A daily schedule
+### He hōtaka ia rā
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+He hōtaka nui, māmā mō te rā, me ngā wā, he kupu iti, he whakaahua iti mō ia wāhanga: parakuihi, hīkoi, kai awatea, okioki, waiata, kai ahiahi. Ka kī te [mahere tiaki ia rā](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) a te Alzheimer's Association me whakamahere i te wā pai rawa o te tangata, me ngā wā oho me ngā moenga auau, me te taurite o te mahi me te okioki. Tāpiria ki te taumata kanohi, pēnei i te aata, ā, kia whakapaitia tonu. Tirohia tā mātou [aratohu hōtaka ia rā](/activities/daily-routine/) mō ētahi atu.
 
-### Picture labels for rooms and drawers
+### Ngā tapanga ki ngā rūma me ngā kāpata
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Ka kī te NIA me whakamahi ngā tohu tae kanapa, ngā whakaahua māmā [hei tapa i te wharepaku, i te rūma moe, i te kīhini](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ka mahi anō te whakaaro ki ngā tarāwaho me ngā kāpata: he whakaahua tōkena ki te tarāwaho tōkena, he kapu ki te kāpata kapu. Tāia, whakamaherehia, whakapiri ki runga.
 
-### A sorting set
+### He huinga whakarōpūtanga
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Tāia ngā whakaahua o ngā kaiwhakarōpū māmā e rua, pēnei i ngā hua me ngā putiputi, ngā taputapu me ngā mea kīhini, ki te pepa kāri. Tapahia, whakarōpūa ki ngā kete e rua tahi. Ko te putanga i runga i te mata o tēnei ko [Kōmaka tahi](/games/sort-together/).
 
-### Song lyric sheets
+### Ngā whārangi kupu waiata
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Tāia ngā kupu o ētahi waiata pai ki te momo tuhi tino pū rahi mō te waiata tahi. Ahakoa ngā tāngata kāore e tino pānui ana, ka pai pea ki a rātou te pupuri i te whārangi.
 
-### A family photo page
+### He whārangi whakaahua whānau
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+He whārangi kotahi me ngā whakaahua whānau pū rahi e whā ki te ono, ā, he ingoa tuatahi kei raro i ia whakaahua. Ka taea te noho ki runga i te tēpu hei tango e te katoa, hei kōrero mō ngā whakaahua. Ka āwhina ngā tapanga i ngā manuhiri me ngā kaimahi ki te uru ki te kōrerorero, ā, kāore he tangata e uaua ki te pātai "Ko wai tēnei?"
 
-### A recipe card
+### He kāri tohu kai
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Tāia he tohu kai whānau pai i te momo pū rahi. Whakamahia hei tunu tahi, hei kōrero noa rānei mō ngā kai o mua.
 
-## How do I offer a printable without it feeling like homework?
+## Me pēhea te tuku i te tā kia kore e rite ki te mahi kura?
 
-Present it as something to share, not a test.
+Whakaatua hei mea hei tiritiri, ehara i te whakamātautanga.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Noho iho, tīmatahia mā koe anō.** "Kei te mahi ahau i tēnei rapu kupu. Ka pai ki a koe te āwhina ki te kimi i 'māra'?"
+- **Mahi tahi.** Tahuri ki te taha, ko tētahi ka kimi, ko tētahi ka porowhita.
+- **Kaua e tohu tika, he hē.** Ko te aratohu a te Alzheimer's Association mō [ngā mahi i te kāinga](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) e kī ana me titiro ki te tukanga, kaua ki te otinga, ā, ki te harikoa, kaua ki te angitu.
+- **Waiho ngā whārangi kia kitea.** Ko taua aratohu anō e kī ana me whakatakoto ngā pukapuka mahara, ngā pukaemi whakaahua, ngā kōwharawhara tawhito ki ngā wāhi ka taea te toro. Ka pēnei anō ngā kāri tā me ngā whārangi whakaahua ki te tēpu taha.
+- **Whakamutua i ngā wā katoa.** He pai te haurua o te whārangi tae hei ahiahi. Ka pai anō te whakapaki i te whārangi, te tī me te kapu tī.
 
-## Where to find more
+## Ngā mea atu
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Tirohia katoa ō mātou [kēmu me ngā mea tā](/games/), ā, tirohia [ngā mahi mō ia wāhanga](/activities/ideas/) mō ētahi atu whakaaro, me ngā mea ka mahia i runga i te pepa, me ngā kore pepa.

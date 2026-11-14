@@ -1,32 +1,28 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "ඇඳේ හෝ පුටුවේ සිටින අය ඇතුළුව අවසාන අවධියේ ඩිමෙන්ශියා ක්‍රියාකාරකම්"
+seoTitle: "අවසාන අවධියේ ඩිමෙන්ශියා ක්‍රියාකාරකම්: ඇඳ සහ පුටු අදහස්"
+description: "අවසාන අවධියේ ඩිමෙන්ශියාව සඳහා මෘදු ක්‍රියාකාරකම්, ඇඳේ හෝ පුටුවේ සිටින අය ඇතුළුව: සංගීතය, ස්පර්ශය, ශබ්දයෙන් කියවීම, ආරක්ෂණ සටහන් සමඟ."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  ඩිමෙන්ශියාවේ අවසාන අවධියේදී ක්‍රියාකාරකම් ඉන්ද්‍රියයන් සහ ඔබේ සහකාරිත්වය වටා මධ්‍යගත වේ: ප්‍රිය සංගීතය වාදනය කිරීම, අත් අල්ලා ගැනීම, මන්දගාමී අත් මර්දනය, ශබ්දයෙන් කියවීම, ඡායාරූප බැලීම, ස්වභාවික ශබ්ද සහ ජනේලය අසල හෝ පිටත වාඩි වීම. මේවා ඇඳේ හෝ පුටුවේ ක්‍රියා කරයි. සැසි කෙටිව තබා, සුවය සඳහා මුහුණු සහ අත් නිරීක්ෂණය කරන්න, සහ ඔබ එහි සිටීම ම ක්‍රියාකාරකමක් බව මතක තබා ගන්න.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "සම්බන්ධතාවය තවමත් හැකිය. අවසාන අවධියේ, ලෝකය ප්‍රධාන වශයෙන් ඉන්ද්‍රියයන් හරහා අත්විඳී."
+  - "වචන තවදුරටත් ළඟා නොවන විට සංගීතය, මෘදු ස්පර්ශය, හුරුපුරුදු හඬ සහ මෘදු දේවල් අතේ තබා ගැනීම බොහෝ විට අයට ළඟා වේ."
+  - "මෙහි පාහේ සෑම අදහසක්ම ඇඳේ හෝ පුටුවේ සිටින අයෙකු සඳහා ක්‍රියා කරයි."
+  - "මුහුණ, අත් සහ හුස්ම ගැනීමේ සුවය සහ අසුවය සඳහා බලන්න, සහ ඕනෑම වේදනා සංඥාවකදී නවත්වන්න."
+  - "කුඩා අයිතම වළක්වන්න, සහ ගිලීම අනාරක්ෂිත විය හැකි බැවින්, සත්කාර කණ්ඩායම උපදෙස් දෙන පරිදි පමණක් ආහාර හෝ පානීය දෙන්න."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "ඇඳේ සිටින අවසාන අවධියේ ඩිමෙන්ශියා ඇති කෙනෙකු සමඟ කුමන ක්‍රියාකාරකම් කළ හැකිද?"
+    a: "ඔවුන්ගේ ප්‍රිය සංගීතය වාදනය කරන්න, ඔවුන්ගේ අත අල්ලා ගන්න, ලෝෂන් සමඟ මන්දගාමී අත් මර්දනයක් දෙන්න, ඔවුන් ආදරය කළ පොතකින් හෝ යාච්ඤාවකින් ශබ්දයෙන් කියවන්න, ඡායාරූප පෙන්වන්න, හෝ මෘදු ස්වභාවික ශබ්ද වාදනය කරන්න. ඔවුන්ට පිටත බැලිය හැකි වන පරිදි තිර විවෘත කරන්න. එක් දෙයක් පමණක් සහිත කෙටි, සන්සුන් සැසි සාමාන්‍යයෙන් වඩාත් හොඳින් ක්‍රියා කරයි."
+  - q: "අවසාන අවධියේ ඩිමෙන්ශියා ඇති අයට තවමත් සංගීතයෙන් භුක්ති විඳිය හැකිද?"
+    a: "බොහෝ දෙනෙකුට හැක. ඇල්සයිමර් සංගමය සටහන් කරන්නේ අවසාන අවධියේදීවත්, පුද්ගලයෙකුට රිද්මයට තට්ටු කිරීමට හෝ ළමා කාලයේ ගීතයකට එකතු වී ගායනා කිරීමට හැකි විය හැකි බවයි. ඔවුන් තරුණ වියේදී ප්‍රිය කළ සංගීතය තෝරා, හඬ මෘදුව තබන්න."
+  - q: "ඔවුන් ක්‍රියාකාරකමක් භුක්ති විඳිනවාදැයි මම කෙසේ දැනගන්නද?"
+    a: "කුඩා සංඥා බලන්න: ලිහිල් උරහිස්, මෘදු මුහුණ, ඇස් සම්බන්ධය, ගුනගුනාවීම, අත් තදකිරීමක් හෝ මන්දගාමී හුස්ම ගැනීම. මුහුණ ඇඹරීම, ඈත් වීම, නොසන්සුන්කම හෝ කෑගැසීම අසුවයක් හෝ වේදනාවක් අදහස් කළ හැක. මේවා ඔබ දුටුවොත්, නවත්වා, ඒවා දිගටම පැවතියහොත් සත්කාර කණ්ඩායමට කියන්න."
+  - q: "ඔවුන් මා හඳුනා ගන්නේ නැති වුවද, බැලීමට යාම වටීද?"
+    a: "ඔව්. ජාතික වයෝවෘද්ධ ආයතනය සටහන් කරන්නේ සරලව එහි සිටීම සන්සුන් කළ හැකි බවත්, ඉහළ ඩිමෙන්ශියාවේදීවත් ස්පර්ශය, සංගීතය සහ කතා සැනසීම ලබා දිය හැකි බවත්ය. ඔබේ නම හුරුපුරුදු නොවුවත්, ඔබේ හඬ සහ ස්පර්ශය හුරුපුරුදු විය හැක."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +44,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+ඩිමෙන්ශියාවේ අවසාන අවධියේදී, පුද්ගලයා ඉතා අඩුවෙන් කතා කළ හැක, සියලු දෛනික සත්කාර සඳහා උදව් අවශ්‍ය විය හැක, සහ දිනයේ බොහෝ කාලය ඇඳේ හෝ පුටුවේ ගත කරයි. එකට කළ හැකි දෙයක් ඉතිරි නැති බව දැනිය හැක. නමුත් ඇත. [ඇල්සයිමර් සංගමය](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) සටහන් කරන්නේ පුද්ගලයාගේ අත්තිවාරම වන යම් කොටසක් ඉතිරි විය හැකි බවත්, මෙම අවධියේදී ලෝකය ප්‍රධාන වශයෙන් ඉන්ද්‍රියයන් හරහා අත්විඳින බවත්ය. සංගීතය, ස්පර්ශය, හුරුපුරුදු හඬ සහ ඔබේ සන්සුන් සහකාරිත්වය තවමත් සැනසීම සහ සම්බන්ධතාවයේ මොහොත් ගෙන දිය හැක.
 
-## What activities help in late-stage dementia?
+## අවසාන අවධියේ ඩිමෙන්ශියාවට උදව් වන ක්‍රියාකාරකම් මොනවාද?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+සරල ඉන්ද්‍රිය ක්‍රියාකාරකම් සහ නිශ්ශබ්ද සහකාරිත්වය අවසාන අවධියේ වැඩිම උපකාර කරයි. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ ප්‍රිය සංගීතය වාදනය කිරීම, අර්ථවත් පොත්වල කොටස් කියවීම, ප්‍රිය සුවඳ සහිත ලෝෂන් සම මත ගා ගැනීම, සහ හොඳ දිනක එකට පිටත වාඩි වී සිටීම බවයි. [ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) කතා කීම, ඡායාරූප පෙන්වීම, මෘදු ස්පර්ශය හෝ මර්දනය, සහ සංගීතය, සුදු ශබ්දය හෝ ස්වභාවික ශබ්ද එකතු කරන අතර, ඔබේ පැවැත්ම පමණක් සන්සුන් කළ හැකි බව කියයි.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[ඇමරිකානු ඇල්සයිමර් පදනම](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) සටහන් කරන්නේ අවසාන අවධියේ අයට බොහෝ විට සැනසීම සඳහා යමක් ළඟ තබා ගැනීමට ප්‍රබල අවශ්‍යතාවයක් ඇති බවයි, සහ සරල ඉන්ද්‍රිය ක්‍රියාකාරකම්, මෘදු දිගු කිරීම්, ස්කාෆ් චලනය, සංගීතය, සත්ව බැලීම්, මිනිස් ස්පර්ශය සහ නිදහස් ස්වරූපයේ කලාව යෝජනා කරයි.
 
-## Activities for someone in bed or a chair
+## ඇඳේ හෝ පුටුවේ සිටින අයෙකු සඳහා ක්‍රියාකාරකම්
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **ඔවුන්ගේ සංගීතය වාදනය කරන්න.** ඔවුන්ගේ තරුණ වියේ, ඔවුන්ගේ විශ්වාසය හෝ ඔවුන්ගේ පවුලෙන් ගීත තෝරන්න. හඬ මෘදුව තබා ළඟ වාඩි වන්න. දැනට පවා, සමහර අය ඇඟිල්ලකින් තට්ටු කරයි හෝ ගුනගුනාවයි. [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
+2. **අත් අල්ලා ගන්න.** මෘදු මාපටාංගුවේ පහරක් සමඟ අතක් අල්ලා ගැනීම පවා ක්‍රියාකාරකමකි. පළමුව ඔබ කරන දේ කියන්න.
+3. **මන්දගාමී අත් මර්දනයක් දෙන්න.** ඔබේ අත්ලේ ලෝෂන් ටිකක් උණුසුම් කර, මැණික් කටුවේ සිට ඇඟිලි තුඩු දක්වා අතුල්ලන්න. සුවඳ නැති ලෝෂන් තෝරන්න, නැතහොත් ඔවුන්ගේ සම ඉඩ දෙන්නේ නම් ඔවුන් සැමවිටම ආදරය කළ සුවඳක්.
+4. **ශබ්දයෙන් කියවන්න.** ප්‍රිය කවියක්, ආදරය කළ පොතක කොටසක්, ශුද්ධ ලියවිල්ල හෝ ක්‍රීඩා පිටුව. ඔබේ හඬේ රිද්මය වචනවලට වඩා වැදගත් ය.
+5. **කතාවක් කියන්න.** පවුල් සංචාරයක් හෝ ඔවුන් විවාහ වූ දිනය ගැන කතා කරන්න. ඔබට පිළිතුරු අවශ්‍ය නැත.
+6. **ඡායාරූප පෙන්වන්න.** එක වරකට එක විශාල ඡායාරූපයක් ඇස් මට්ටමින් තබා, උණුසුම් ලෙස විස්තර කරන්න. ඇතුළේ කවුද යන්න ඇසීම වළක්වන්න.
+7. **අතේ තබා ගැනීමට මෘදු දෙයක් දෙන්න.** නැමූ රෙදි කඩදාසියක්, ෆ්ලීස් වර්ගයේ කෑල්ලක් හෝ මෘදු සත්වයෙක්. ගෙන යන අතරතුර ඔවුන්ට රෙදි කඩදාසියක් අල්ලා ගැනීමට දීමෙන්, ඔවුන් ඔබ හෝ ගෘහ භාණ්ඩ අල්ලා ගැනීමේ අවදානම අඩු වන බව NIA යෝජනා කරයි.
+8. **ස්වභාවික ශබ්ද වාදනය කරන්න.** අඩු හඬින් වැසි, රළ හෝ කුරුල්ලන්ගේ ගායනය ශබ්දකාරී කාමරයක් මෘදු කළ හැක.
+9. **පිටත ඇතුළට ගෙන එන්න.** තිර විවෘත කරන්න, ජනේලයෙන් පිටත කුරුල්ලන්ගේ ආහාර බඳුනක් තබන්න, හෝ බැලීමට සහ ස්පර්ශ කිරීමට නැවුම් මල් හෝ කොළ කිහිපයක් ගෙන එන්න.
+10. **පිටතට යන්න.** පුද්ගලයාට රෝද පුටුවක වාඩි විය හැකි නම්, මෘදු දිනක සෙවණේ මිනිත්තු කිහිපයක් අලංකාර විය හැක.
+11. **කෙස් බුරුසු කරන්න හෝ උණුසුම් රෙදි කඩදාසියක් දෙන්න.** මන්දගාමී, මෘදු සැරසීම සහ අත් හා මුහුණ සඳහා උණුසුම් රෙදි කඩදාසියක් සැලකිලිමත් ලෙස දැනේ.
+12. **සංගීතයට සාවධානව චලනය වන්න.** එකට සැහැල්ලු ස්කාෆ් සලන්න, හෝ ගීතයක් සමඟ කාලයට අත් සලන්න. දිගු කිරීම් සහ සන්ධි චලනය සඳහා, පළමුව ආරක්ෂිත ක්‍රම පෙන්වන්නැයි භෞතික චිකිත්සකයෙකුගෙන් හෝ හෙදියකගෙන් ඉල්ලන්න.
+13. **නිදහස් ස්වරූපයේ කලාවක් සාදන්න.** විශාල කඩදාසියක් මත විෂ නොවන තීන්ත ස්පොන්ජයකින් හෝ අතකින් ව්‍යාප්ත කරන්න, ඔබේ මඟ පෙන්වීමට අනුව. නිවැරදි ප්‍රතිඵලයක් නැත.
+14. **සත්ව බැලීම් පිළිගන්න.** ඔවුන් සත්වයන් ප්‍රිය කළේ නම් සහ පරිසරය ඉඩ දෙන්නේ නම්, ඇඳ හෝ උකුලේ සන්සුන් සුරතලෙක්.
+15. **එකට මන්දගාමීව හුස්ම ගන්න.** ළඟ වාඩි වී මන්දගාමීව සහ ඇසෙන පරිදි හුස්ම ගන්න. [සන්සුන් හුස්ම ගැනීම](/games/calm-breathing/) ඔබ දෙදෙනාගේම වේගය සකස් කළ හැක, සහ ඔබ එය ආරම්භ කර නවත්වයි.
+16. **සරලව එහි සිටින්න.** ළඟ වාඩි වන්න, ගුනගුනා වන්න, ගෙතන්න හෝ නිශ්ශබ්දව කියවන්න. එහි සිටීම ප්‍රමාණවත් ය.
 
-## How to share an activity at this stage
+## මෙම අවධියේ ක්‍රියාකාරකමක් බෙදා ගන්නේ කෙසේද?
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **ඉදිරියෙන් ළඟා වන්න.** ඔවුන්ගේ නම සහ ඔබේ නම කියන්න, සහ ස්පර්ශ කිරීමට පෙර මන්දගාමීව සහ මෘදුව කතා කරන්න.
+- **එක වරකට එක දෙයක් ඉදිරිපත් කරන්න.** සංගීතය වාදනය කිරීමට පෙර රූපවාහිනිය නිවන්න. එක් වරකට එක ඉන්ද්‍රියයක් කරන්න.
+- **කෙටිව තබන්න.** මිනිත්තු කිහිපයක් ප්‍රමාණවත් විය හැක. දවස පුරා කෙටි මොහොත් කිහිපයක් එක දිගු සැසියකට වඩා හොඳය.
+- **පළමුව සුවපහසු වන්න.** පුද්ගලයා හොඳින් සහාය ලබා ඇති බව පරීක්ෂා කරන්න. NIA යෝජනා කරන්නේ වාඩි වී සිටින විට අත් විවේක ගැන්වීමට සහ ඉහළ ශරීරය සහාය දීමට උකුල් පුවරුවක් භාවිතා කරන ලෙසයි.
+- **ප්‍රතිචාරය නිරීක්ෂණය කරන්න.** ලිහිල් අත්, මෘදු මුහුණ, ඇස් සම්බන්ධය හෝ ගුනගුනාවීම සැනසීම යෝජනා කරයි. NIA සටහන් කරන්නේ කෑගැසීම, මුහුණ ඇඹරීම, ශරීර කොටසක් ආරක්ෂා කිරීම හෝ හදිසි නොසන්සුන්කම වේදනාවේ සංඥා විය හැකි බවයි. නවත්වා, සත්කාර කණ්ඩායමට කියන්න.
 
-## A quick guide by sense
+## ඉන්ද්‍රියයන් අනුව ඉක්මන් මාර්ගෝපදේශයක්
 
-| Sense | Ideas | Take care |
+| ඉන්ද්‍රියය | අදහස් | සැලකිලිමත් වන්න |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| ශ්‍රවණය | ප්‍රිය සංගීතය, ඔබේ හඬ කියවීම, ස්වභාවික ශබ්ද | හඬ අඩුව තබන්න; එක් වරකට එක ශබ්දයක් |
+| ස්පර්ශය | අත් මර්දනය, අත් අල්ලා ගැනීම, මෘදු රෙදි, උණුසුම් රෙදි කඩදාසිය | පළමුව ඉල්ලන්න හෝ දන්වන්න; සම රිදී හෝ තුවාල නැති බව පරීක්ෂා කරන්න |
+| දෘෂ්ටිය | ඡායාරූප, මල්, ජනේලයෙන් දසුන, මන්දගාමී ස්වභාවික වීඩියෝ | දේවල් ඇස් මට්ටමේ තබන්න; හොඳ ආලෝකය, දීප්තිය නැති |
+| ආඝ්‍රාණය | ප්‍රිය ලෝෂන්, නැවුම් මල්, ළඟ තම්බන කෝපි | ශක්තිමත් සුවඳ වළක්වන්න; අසාත්මිකතා සහ හුස්ම ගැනීම පරීක්ෂා කරන්න |
+| රසය | ප්‍රිය රසයේ කුඩා රසයක් | සත්කාර කණ්ඩායම ආරක්ෂිත යැයි කියන ආහාර සහ ටෙක්ස්චර් පමණි |
 
-## Safety at this stage
+## මෙම අවධියේ ආරක්ෂාව
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+අවසාන අවධියේ ගිලීම දුෂ්කර විය හැක, සහ NIA අනතුරු අඟවන්නේ මෙය හුස්ම හිරවීමේ අවදානම වැඩි කරන බවයි. කුඩා අයිතම ළඟා විය හැකි ස්ථානවල නොතබන්න, සහ සත්කාර කණ්ඩායම නිර්දේශ කරන ටෙක්ස්චර් සහ ස්ථානවලින් පමණක් ආහාර හෝ පානීය දෙන්න. ස්පර්ශ ක්‍රියාකාරකම් අතරතුර සම මෘදුව පරීක්ෂා කරන්න, මන්ද සම පහසුවෙන් ඉරී හෝ නිල් වර්ණ වේ. ආරක්ෂිත ඉන්ද්‍රිය ඉඟි සඳහා, [ඉන්ද්‍රිය ක්‍රියාකාරකම්](/activities/sensory/) බලන්න.
 
-## Looking after yourself too
+## ඔබම ගැනද සැලකිලිමත් වන්න
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+අවසාන අවධියේ රැකබලා ගැනීම නිවසේ වුවත්, රැකවරණ නිවාසයකට ගමන් කිරීමේදී වුවත්, ශාරීරිකව සහ චිත්තවේගීයව ඉල්ලුම් සහිතය. රෝගී සත්කාර සහ පලියේටිව් සත්කාර කණ්ඩායම් සැනසීම, සහාය සහ සැලසුම් කිරීමට උදව් කළ හැකි අතර, NIA ඒවා උදව් ප්‍රභවයක් ලෙස ලැයිස්තුගත කරයි. කෙටි, සන්සුන් සංචාර වටී; [ඩිමෙන්ශියා ඇති අයෙකු බැලීම](/activities/visiting/) බලන්න. ඔබ කණ්ඩායම් මෙහෙයවන්නේ නම්, [රැකවරණ නිවාස කණ්ඩායම් ක්‍රියාකාරකම්](/activities/care-home-groups/) හි සැසි අනුවර්තනය කිරීමට අදහස් ඇත. සහ කරුණාකර [රැකබලා ගන්නන්ගේ ස්වයං සත්කාරය](/caregiving/caregiver-self-care/) කියවන්න: විවේකය හොඳින් රැකබලා ගැනීමේ කොටසකි.

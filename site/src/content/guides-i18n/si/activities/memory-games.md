@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "ඩිමෙන්ශියා ඇති ජ්‍යෙෂ්ඨයින් සඳහා මතක ක්‍රීඩා: පරීක්ෂා නොකරන මෘදු අනුවාද"
+seoTitle: "ඩිමෙන්ශියාව සඳහා හොඳම මතක ක්‍රීඩා, මෘදු අදහස්"
+description: "ඩිමෙන්ශියා ඇති ජ්‍යෙෂ්ඨයින් සඳහා ගැලපීම, චිත්‍ර සහ කාඩ් ක්‍රීඩා, කිසිවෙකුට පරීක්ෂා වන බවක් නොදැනෙන ලෙස ක්‍රීඩා කරන ආකාරය."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  ඩිමෙන්ශියා ඇති ජ්‍යෙෂ්ඨයින් සඳහා මතක ක්‍රීඩා හොඳින් ක්‍රියා කරන්නේ ඒවා මතකය මත රඳා නොසිටින විටය. ගැලපීමේ ක්‍රීඩා චිත්‍ර ඉහළට හරවා, ටයිල් හතර සිට හය දක්වා භාවිතා කර, කණ්ඩායමක් ලෙස ක්‍රීඩා කර, ලකුණු මඟ හරින්න. චිත්‍රයක් හඳුනා ගැනීම එය සිහිපත් කිරීමට වඩා පහසු බැවින්, සියල්ල දෘශ්‍යමාන වන ක්‍රීඩා තෝරන්න. භුක්තිය, ප්‍රතිඵලය නොව, ඉලක්කයයි.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "සම්භාව්‍ය මතක ක්‍රීඩා කාඩ් සඟවයි, එය ඩිමෙන්ශියාව දුෂ්කර කරන දේම පරීක්ෂා කරයි. ඒ වෙනුවට චිත්‍ර ඉහළට තබන්න."
+  - "අඩු කොටස්, විශාල චිත්‍ර සහ එක වරකට එක තේරීමක් ක්‍රීඩාව සුවපහසු තබයි."
+  - "කණ්ඩායමක් ලෙස ක්‍රීඩා කරන්න, මාරුවෙන් මාරුවට උදව් කරන්න, සහ ලකුණු අත්හරින්න. කිසිවෙකු අසීරු තත්ත්වයට දැමිය යුතු නැත."
+  - "කිසිදු මතක ක්‍රීඩාවක් ඩිමෙන්ශියාව ප්‍රතිකාර කිරීමට, මන්දගාමී කිරීමට හෝ නවත්වීමට පෙන්වා දී නැත. ඒවා සතුටුදායක එකට කාලය නිසා ක්‍රීඩා කරන්න."
+  - "එය තවමත් විනෝදජනකව තිබියදී නවත්වන්න. චිත්‍ර ගැන කතා කිරීම හොඳ ප්‍රතිඵලයකි."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා හොඳ මතක ක්‍රීඩාවක් කුමක්ද?"
+    a: "විශාල, හුරුපුරුදු චිත්‍ර සහිත ගැලපීමේ ක්‍රීඩාවක්, චිත්‍ර ඉහළට තබා ගත හැකි, උදාහරණයක් ලෙස ටයිල් හතර හෝ හය ලෙස සකසන ලද චිත්‍ර යුගල. ඔබට දකින චිත්‍රයක ගැලපෙන එක සොයා ගැනීම කෙටි කාලීන මතකය පරීක්ෂා නොකර තෘප්තිමත් වේ. එකම එක සොයන්න තවත් සරල වන්නේ, දෙක සිට හතර දක්වා තේරීම් අතරින් ගැලපීමට එක් චිත්‍රයක් ඇති නිසාය."
+  - q: "මතක ක්‍රීඩා ඩිමෙන්ශියාවට උපකාරී වේද?"
+    a: "කිසිදු මතක ක්‍රීඩාවක් ඩිමෙන්ශියාව ප්‍රතිකාර කිරීමට, මන්දගාමී කිරීමට හෝ නවත්වීමට පෙන්වා දී නැත; Cochrane සමාලෝචනයක් පරිගණක මොළ පුහුණුව ඩිමෙන්ශියාව වළක්වයිද යන්න කීමට සාක්ෂි අතිශය සීමිත බව සොයා ගත්තේය. ක්‍රීඩා තවමත් එකට කාලය ගත කිරීමට උණුසුම් ක්‍රමයක් විය හැක. ඒවා භුක්තිය සහ සහකාරිත්වය සඳහා තෝරන්න."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකු සමඟ සම්භාව්‍ය කොන්සන්ට්‍රේෂන් ක්‍රීඩා කළ යුතුද?"
+    a: "ආරම්භයේදී, සමහර අයට තවමත් එය භුක්ති විඳිය හැක, විශේෂයෙන් කාඩ් ගණන අඩු නම්. කාඩ් කොහේද යන්න මතක තබා ගැනීම කලකිරීමට හේතු වීමට පටන් ගත්තොත්, කාඩ් ඉහළට හරවා එකට යුගල සොයන්න. එයින් ගැලපීම තබා ගෙන මතක පරීක්ෂාව ඉවත් වේ."
+  - q: "කණ්ඩායමක ජ්‍යෙෂ්ඨයින් සඳහා ගැලපෙන මතක ක්‍රීඩා මොනවාද?"
+    a: "තිර මත කථකයෙකු සමඟ චිත්‍ර බින්ගෝ, හුරුපුරුදු කියමන් ශබ්දයෙන් සම්පූර්ණ කිරීම, සහ සංවාද කාඩ්පත් කණ්ඩායම් සඳහා ක්‍රියා කරයි. සෑම කාඩ්පතක්ම පිරෙන තුරු ක්‍රීඩා කර, කාගේ පිළිතුර නිවැරදිද යන්න ශබ්දයෙන් නොකියන්න, එවිට කිසිවෙකුට වෙන් වී ඇතැයි නොදැනේ."
+  - q: "ජ්‍යෙෂ්ඨයින් සඳහා මොනවා නොමිලේ මතක ක්‍රීඩා ඔන්ලයින් තිබේද?"
+    a: "ඔව්. මෙම අඩවියේ ක්‍රීඩා, චිත්‍ර යුගල, එකම එක සොයන්න, ඡායාරූප යුගල සහ පින්තූර ප්‍රහේලිකාව ඇතුළුව, නොමිලේ, ලියාපදිංචිය අවශ්‍ය නොවන අතර දුරකථන, ටැබ්ලට් සහ පරිගණක මත ක්‍රියා කරයි. එකකටවත් කාල ගණකයක් හෝ ලකුණු නොමැත."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+“මතක ක්‍රීඩා වැඩිහිටියන් සඳහා” ලෙස සොයන විට, බොහෝ දේ නිර්මාණය වී ඇත්තේ මානසික ව්‍යායාමයක් ඉල්ලන අය සඳහාය: සඟවන ලද කාඩ්, කාල ගණන් කිරීමේ ඔරලෝසු, මට්ටම් සහ ලකුණු. ඩිමෙන්ශියාව ඇති පුද්ගලයෙකුට, එම ලක්ෂණ ක්‍රීඩාව දුෂ්කර වී ඇති දේම පරීක්ෂා කරන පරීක්ෂණයක් බවට පත් කරයි. එම ක්‍රීඩා මෘදු ක්‍රමයකින් ක්‍රීඩා කළ හැක. මෙම පිටුව ඒ ගැන පෙන්වන අතර, එක් එක් අවධියේදී හොඳින් ක්‍රියා කරන ක්‍රීඩා ලැයිස්තුගත කරයි.
 
-## Why do classic memory games frustrate people with dementia?
+## සම්භාව්‍ය මතක ක්‍රීඩා ඩිමෙන්ශියා ඇති අයට කලකිරීමක් ගෙන දෙන්නේ ඇයි?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+ඒවා නව තොරතුරු මනසේ තබා ගැනීම මත රඳා පවතින බැවින්, එය සාමාන්‍යයෙන් ඩිමෙන්ශියාවේ වඩාත් පොදු හේතුව වන ඇල්සයිමර් පළමුව බලපාන දෙයයි. [ඇල්සයිමර් සංගමය](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) පවසන්නේ ඇල්සයිමර්හි වඩාත් පොදු ආරම්භක රෝග ලක්ෂණය අලුතින් ඉගෙන ගත් තොරතුරු මතක තබා ගැනීමේ අපහසුවයි. සම්භාව්‍ය කොන්සන්ට්‍රේෂන් ක්‍රීඩාවේ, ඔබ කාඩ් දෙකක් හරවා, ඒවා කොහේද යන්න මතක තබා ගෙන, මිනිත්තුවකට පසු එය භාවිතා කරයි. එය නව තොරතුරු, තබා ගෙන සිහිපත් කරන ලද දෙයකි.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+කාල ගණකයක්, ලකුණු හෝ වැරදි පිළිතුරක් සඳහා සීනුවක් එකතු කරන්න, එවිට පුද්ගලයා ආදරය කරන අය ඉදිරියේ තමන්ට කළ නොහැකි දේ ගැන මතක් කරයි. බොහෝ අය නිශ්ශබ්දව ක්‍රීඩා කිරීම නවතා දමයි.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+ඔබට දකින දෙයක් හඳුනා ගැනීම වෙනස් සහ සාමාන්‍යයෙන් පහසු කාර්යයකි. තේ කෝප්ප දෙකම දෘශ්‍යමාන වන විට දෙවන කෝප්පය වෙත අඟල් කිරීම සුඛදායක ලෙස දැනේ. එබැවින් උපක්‍රමය වන්නේ ගැලපීම තබා ගෙන මතක පරීක්ෂාව ඉවත් කිරීමයි.
 
-## How do you make a memory game gentle?
+## මතක ක්‍රීඩාවක් මෘදු කරන්නේ කෙසේද?
 
-These adjustments work for card games, board games and games on a screen.
+මෙම වෙනස්කම් කාඩ් ක්‍රීඩා, පුවරු ක්‍රීඩා සහ තිරයේ ක්‍රීඩා සඳහා ක්‍රියා කරයි.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **චිත්‍ර ඉහළට තබන්න.** ඔබට දැකිය හැකි චිත්‍ර ගැලපීම තවමත් සැබෑ ක්‍රීඩාවකි, බොහෝ විට තෘප්තිදායක එකකි.
+2. **අඩු කොටස් භාවිතා කරන්න.** යුගල දෙකක් හෝ තුනකින් ආරම්භ කරන්න. එය ඉතා පහසු යැයි හැඟී ඔවුන් වැඩි ඉල්ලන්නේ නම් පමණක් එකතු කරන්න.
+3. **විශාල, හුරුපුරුදු, වැඩිහිටි චිත්‍ර තෝරන්න.** තේ කෝප්පයක්, සූර්යකාන්තයක්, යාත්‍රා බෝට්ටුවක්. කාටූන් නොව, සහ කාර්යබහුල දර්ශන නොව.
+4. **කණ්ඩායමක් ලෙස ක්‍රීඩා කරන්න.** “ඔබේ හැරීම” වෙනුවට “අපි බල්ලන් සොයමු”. මාරුවෙන් මාරුවට දක්වමින් සහ උදව් කරමින්.
+5. **ලකුණු අත්හරින්න.** කිසිවෙකුට දිනීමට අවශ්‍ය නැත. කවුරුහරි ඇසුවොත්, සරල “අපි එය කළා” ප්‍රමාණවත් ය.
+6. **කිසි විටෙකත් ඔරලෝසුව සමඟ තරග නොකරන්න.** කාල ගණක නැත, සහ හැරීම් අතර හදිසි නැත.
+7. **චිත්‍ර ගැන කතා කරන්න.** “ඒ බෝට්ටුව බලන්න. ඔබ කවදා හෝ යාත්‍රා ගමනක් ගියාද?” සංවාදය බොහෝ විට හොඳම කොටසයි.
+8. **හොඳ ස්වරයකින් නවත්වන්න.** ගැලපීමකින් පසු අවසන් කරන්න, එය තවමත් සුඛදායක ලෙස දැනෙන විට.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) සාමාන්‍ය උපදෙස් ලෙස එම ආත්මයම ලබා දෙයි: ක්‍රියාකාරකම පුද්ගලයා කළ හැකි දේට ගළපන්න, කලකිරීම නිරීක්ෂණය කරන්න, සහ ඔවුන් සාර්ථක යැයි හැඟෙන බව සහතික කරන්න.
 
-## Gentle memory and matching games to try
+## උත්සාහ කිරීමට මෘදු මතක සහ ගැලපීමේ ක්‍රීඩා
 
-### Picture pairs (matching with pictures showing)
+### චිත්‍ර යුගල (චිත්‍ර පෙන්වමින් ගැලපීම)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[චිත්‍ර යුගල](/games/picture-pairs/) යනු විශාල චිත්‍ර සහ ටයිල් 4 සිට 12 දක්වා ඇති ගැලපීමේ ක්‍රීඩාවකි. චිත්‍ර දෘශ්‍යමාන ව තබා ගත හැකි බැවින්, එය ඒවා කොහේ තිබුණාද යන්න මතක තබා ගැනීම නොව, ගැලපෙන යුගල සෙවීම ගැනයි. ටයිල් හතරකින් ආරම්භ කරන්න. ආරම්භක අවධියේ සිටින, තව ටිකක් අභියෝගයක් ප්‍රිය කරන අයෙකු සඳහා, **සඟවන ලද චිත්‍ර** වෙත මාරු විය හැක, නමුත් එය විනෝදජනක නොවන මොහොතේම චිත්‍ර පෙන්වීමට ආපසු යන්න.
 
-### Find the same
+### එකම එක සොයන්න
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[එකම එක සොයන්න](/games/find-the-same/) ඉහළ එක් චිත්‍රයක් සහ පහළ දෙක සිට හතර දක්වා තේරීම් පෙන්වයි. ගැලපෙන එක තට්ටු කරන්න. එය අඩවියේ ඇති සරලතම ගැලපීමේ ක්‍රීඩාව වන අතර, පූර්ණ දැලක් ඉතා කාර්යබහුල යැයි දකින අයට ගැලපේ, ඔවුන් අසල කෙනෙකු සිටින විට, අවසාන අවධියේ බොහෝ අයද ඇතුළුව.
 
-### Photo pairs (family photo memory game)
+### ඡායාරූප යුගල (පවුලේ ඡායාරූප මතක ක්‍රීඩාව)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[ඡායාරූප යුගල](/games/photo-pairs/) ඔබ තෝරන ඡායාරූප ගැලපීමේ ක්‍රීඩාවක් බවට පත් කරයි: බල්ලා, උද්‍යානය, විල් නිවස. හුරුපුරුදු මුහුණු සහ ස්ථාන, ඕනෑම ස්ටොක් චිත්‍රයකට වඩා බොහෝ විට සංවාදය ඇවිස්සයි. ඡායාරූප ඔබේ බ්‍රව්සරයේ පවතී, කිසි විටෙකත් උඩුගත කරනු නොලැබේ.
 
-### Sort together
+### එකට වර්ග කරන්න
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[එකට වර්ග කරමු](/games/sort-together/) ඔබට එක් එක් චිත්‍රය එය අයත් කූඩය තුළ, උදාහරණයක් ලෙස මුළුතැන්ගෙය හෝ උද්‍යානය තුළ තැබීමට ඉල්ලයි. වර්ග කිරීම ලෝකය ක්‍රියා කරන ආකාරය පිළිබඳ දිගු කලක් තබා ගත් දැනුම මත පදනම් වන අතර, කෙටි කාලීන මතකය මත නොවේ.
 
-### Picture puzzle
+### පින්තූර ප්‍රහේලිකාව
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[පින්තූර ප්‍රහේලිකාව](/games/picture-puzzle/) චිත්‍රයක් කොටස් 4 හෝ 9 කට කපයි. චිත්‍රය සම්පූර්ණ වන තෙක් කොටස් දෙකක් මාරු කිරීමට ඒවා දෙවරක් තට්ටු කරන්න. සම්පූර්ණ චිත්‍රය මාර්ගෝපදේශයක් ලෙස තිරය මත පවතී.
 
-### Real cards on the table
+### සැබෑ කාඩ් මේසය මත
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+ඔබට තිරයක් අවශ්‍ය නැත. කාඩ් ඩෙක් දෙකකින් හෝ චිත්‍ර කාඩ් කට්ටලයකින් ගැලපෙන යුගල ගන්න. ඒවා පේළි දෙකකට ඉහළට හරවා තබා, යුගල එකට සොයන්න. පසුව, ඒ වෙනුවට වර්ණය හෝ සූට් අනුව වර්ග කරන්න. [ඇමරිකානු ඇල්සයිමර් පදනම](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ආරම්භක අවධිය සඳහා ක්‍රියාකාරකම් අතර කාඩ් ක්‍රීඩා සහ පුවරු ක්‍රීඩා ලැයිස්තුගත කරයි.
 
-## Which memory games suit each stage?
+## කුමන මතක ක්‍රීඩා එක් එක් අවධියට ගැලපේද?
 
-Stages are loose labels. Go by what the person enjoys today.
+අවධි ලිහිල් ලේබල් ය. අද පුද්ගලයා භුක්ති විඳින දේ අනුව යන්න.
 
-| Stage | Games that often fit | How to set them up |
+| අවධිය | බොහෝ විට ගැලපෙන ක්‍රීඩා | ඒවා සකස් කරන ආකාරය |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| ආරම්භක | චිත්‍ර යුගල, ඡායාරූප යුගල, කොටස් 9ක් සහිත පින්තූර ප්‍රහේලිකාව, හුරුපුරුදු කාඩ් ක්‍රීඩා | ඔවුන්ට තෝරා ගන්න දෙන්න. භුක්ති විඳිනවා නම් ටයිල් හරවන්න පුළුවන්; කරදර වන්නේ නම් ලකුණු අත්හරින්න |
+| මධ්‍ය | ටයිල් 4 සිට 6 දක්වා ඉහළට හරවන ලද චිත්‍ර යුගල, එකම එක සොයන්න, එකට වර්ග කරමු | චිත්‍ර සැමවිටම දෘශ්‍යමාන. ඔවුන් අසල වාඩි වී මාරුවෙන් මාරුවට උදව් කරන්න |
+| අවසාන | තේරීම් 2 සහිත එකම එක සොයන්න, විශාල එක් චිත්‍රයක් එකට බැලීම | ඉතා කෙටියි. ඔබ ටැබ්ලට් එක අල්ලා සිටින්න; ඔවුන් දක්වයි, නැතහොත් සරලව බලා සවන් දෙයි |
 
-## Do memory games help with dementia?
+## මතක ක්‍රීඩා ඩිමෙන්ශියාවට උදව් කරයිද?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+කිසිදු මතක ක්‍රීඩාවක් ඩිමෙන්ශියාව ප්‍රතිකාර කිරීමට, මන්දගාමී කිරීමට හෝ නවත්වීමට පෙන්වා දී නැත. මෘදු සංජානන දුර්වලතාවයක් ඇති අයට පරිගණක මත පදනම් වූ මොළ පුහුණුව පිළිබඳ [Cochrane සමාලෝචනය](https://pubmed.ncbi.nlm.nih.gov/30864747/) ඩිමෙන්ශියාව වළක්වයිද යන්න කීමට සාක්ෂි අතිශය සීමිත බව සොයා ගත්තේය. [මොළ ක්‍රීඩා සහ ඩිමෙන්ශියාව](/brain-health/brain-games/) පිළිබඳ අපගේ මාර්ගෝපදේශය, අධ්‍යයනවල පෙන්වන සහ නොපෙන්වන දේ පැහැදිලි කරයි.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+එය ක්‍රීඩා මඟ හැරීම සඳහා හේතුවක් නොවේ. [ඇල්සයිමර් සංගමය](https://www.alz.org/help-support/caregiving/daily-care/activities) ජයග්‍රහණය නොව, භුක්තියට අවධානය යොමු කරන ලෙස උපදෙස් දෙයි. චිත්‍ර ගැලපීමේ මිනිත්තු දහයක් සහ ඒවා ගැන කතා කිරීම දිනයේ සැබවින්ම හොඳ කොටසක් විය හැක.
 
-## What about memory games for seniors without dementia?
+## මතක ගැටලු නැති ජ්‍යෙෂ්ඨයින් සඳහා මතක ක්‍රීඩා ගැන කුමක් ද?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+මතක ගැටලු නැති වැඩිහිටියෙකු කාලානුරූප ප්‍රහේලිකා, ලකුණු සහ දුෂ්කර මට්ටම් භුක්ති විඳින්නේ නම්, ඒ ගැන වැරදි කිසිවක් නැත. ඩිමෙන්ශියාවෙන් ආරක්ෂා වීමට ඒවා මත රඳා නොසිටින්න; කිසිදු ක්‍රීඩාවක් එයට පෙන්වා දී නැත. ඉහත මෘදු අනුවාදයන් පරම්පරාවන් එකට ක්‍රීඩා කරන විටද හොඳින් ක්‍රියා කරයි: ඩිමෙන්ශියාව ඇති සීයා-ආච්චියෙකුට සහ කුඩා මුනුපුරෙකුට කණ්ඩායමක් ලෙස චිත්‍ර ගැලපිය හැක, කිසිවෙකුත් පරීක්ෂා නොවී.
 
-## When should you stop or change the game?
+## ක්‍රීඩාව නවත්වන්නේ හෝ වෙනස් කරන්නේ කවදාද?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+සුසුම් හෙලීම, ටැබ්ලට් එක ඉවතට තල්ලු කිරීම, “මට මේක කරන්න බැහැ” යැයි කීම හෝ කලබලයට පත් වී පෙනීම ඒවා පහසු කිරීමට හෝ නවත්වීමට සංඥා ය. ටයිල් අඩු කර බලන්න, චිත්‍ර ඉහළට හරවන්න, [එකම එක සොයන්න](/games/find-the-same/) වෙත මාරු වන්න, හෝ සරලව චිත්‍ර බලා සංවාද කරන්න. ඔවුන් කිසිවක් ක්‍රීඩා කිරීමට අවශ්‍ය නැත්නම් එයද ඒ ආකාරයටම හරි ය. [එකට ක්‍රීඩා කරන ආකාරය](/caregiving/how-to-play-together/) පිළිබඳ අපගේ මාර්ගෝපදේශයේ වේගය සහ උදව් කිරීම ගැන වැඩි දේ ඇත.

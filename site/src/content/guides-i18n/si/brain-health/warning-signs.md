@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "ඩිමෙන්ශියාවේ මුල් සං‍ඥා සහ කවදා වෛද්‍යවරයා බැලිය යුතුද"
+seoTitle: "ඩිමෙන්ශියාවේ මුල් සං‍ඥා සහ වෛද්‍යවරයා බැලිය යුතු වේලාව"
+description: "ඩිමෙන්ශියාවේ පොදු මුල් සං‍ඥා, ඒවා සාමාන්‍ය වයස්ගත වීමෙන් වෙනස් වන ආකාරය, මතක ගැටළුවල ප්‍රතිකාර කළ හැකි හේතු, සහ වෛද්‍ය හමුවට සූදානම් වන ආකාරය."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  දෛනික ජීවිතයට බාධා කරන මතක අලාභය, හුරුපුරුදු කාර්යයන්හි අපහසුතාව, කාලය හෝ ස්ථානය ගැන ව්‍යාකූලත්වය, සහ මනෝභාවයේ හෝ විනිශ්චයේ වෙනස්කම් ඩිමෙන්ශියාවේ මුල් සං‍ඥා විය හැක. තයිරොයිඩ් ගැටළු, අඩු විටමින් B12, ඖෂධවල අතුරු ඵල, විෂාදය සහ නින්දේ ගැටළු ඇතුළු බොහෝ වෙනත් තත්ත්වයන් සමාන වෙනස්කම් ඇති කළ හැක. රෝග විනිශ්චය කළ හැක්කේ සුදුසුකම් ලත් වෛද්‍යවරයෙකුට පමණි. හදිසි ව්‍යාකූලත්වයට ඉක්මන් සත්කාර අවශ්‍යයි.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "වයස සමඟ සමහර විට අමතක වීම සාමාන්‍ය ය; දෛනික ජීවිතයට බාධා කරන වෙනස්කම් පරීක්ෂා කිරීම වටී."
+  - "Alzheimer's Association සංසන්දනය සඳහා වයසට අදාළ සාමාන්‍ය වෙනසක් සමඟ, අනතුරු ඇඟවීමේ සං‍ඥා 10ක් විස්තර කරයි."
+  - "තයිරොයිඩ් ගැටළු, අඩු විටමින් B12, ඖෂධවල අතුරු ඵල, විෂාදය, ආසාදන සහ නින්දේ ගැටළු සියල්ල මතකයට බලපෑ හැක, සහ සමහරක් ප්‍රතිකාර කළ හැකිය."
+  - "සුදුසුකම් ලත් වෛද්‍යවරයෙකුට පමණක් ඩිමෙන්ශියාව රෝග විනිශ්චය කළ හැක; අන්තර්ජාල ප්‍රශ්නාවලි සහ ස්වයං පරීක්ෂා එය කළ නොහැක."
+  - "පැය හෝ දින ගණනකින් හදිසියේ පැමිණෙන ව්‍යාකූලත්වය delirium විය හැක, එයට ඉක්මන් වෛද්‍ය සත්කාර අවශ්‍යයි."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "අමතක වීම වයස්ගත වීමේ සාමාන්‍ය කොටසක්ද?"
+    a: "යම් ප්‍රමාණයකට ඔව්. ජාතික වයෝවෘද්ධ ආයතනය (National Institute on Aging) පවසන්නේ කලාතුරකින් දේවල් වැරදි තැන තැබීම හෝ බිලක් අමතක වීම සාමාන්‍යයෙන් මෘදු, වයසට අදාළ අමතක වීමක් බවයි. ඩිමෙන්ශියාව වයස්ගත වීමේ සාමාන්‍ය කොටසක් නොවේ. රිය පැදවීම, දුරකථනය භාවිතා කිරීම හෝ නිවසට මාර්ගය සොයා ගැනීම වැනි දෛනික කාර්යයන් දුෂ්කර කරන මතක ගැටළු වෛද්‍යවරයා සමඟ පරීක්ෂා කිරීම වටී."
+  - q: "ඩිමෙන්ශියාවට වෙනත් දෙයකින් මතක ගැටළු ඇති විය හැකිද?"
+    a: "ඔව්. ජාතික වයෝවෘද්ධ ආයතනය තයිරොයිඩ්, වකුගඩු හෝ අක්මාවේ ගැටළු, ඖෂධවල අතුරු ඵල, විෂාදය සහ කරකැවිල්ල, අඩු විටමින් B12, මත්පැන් අවභාවිතය, නින්දේ ගැටළු, ආසාදන සහ හිසට තුවාල අනෙක් ඒවා අතර ලැයිස්තු කරයි. මේවායින් සමහරක් ප්‍රතිකාර කළ පසු වැඩි දියුණු වේ, එය වෛද්‍ය පරීක්ෂණය වැදගත් වීමට එක් හේතුවකි."
+  - q: "මම නිවසේදී කෙනෙකුට ඩිමෙන්ශියාව සඳහා පරීක්ෂා කළ හැකිද?"
+    a: "නැත. සුදුසුකම් ලත් වෛද්‍යවරයෙකුට පමණක් වෛද්‍ය ඉතිහාසය, ශාරීරික පරීක්ෂාව, මතක සහ චින්තන පරීක්ෂා, රසායනාගාර පරීක්ෂා සහ සමහර විට මොළ ස්කෑන් භාවිතා කර ඩිමෙන්ශියාව රෝග විනිශ්චය කළ හැක. වෛද්‍යවරුන් භාවිතා කරන කෙටි පරීක්ෂාවලට පවා ඩිමෙන්ශියාව රෝග විනිශ්චය කිරීමට ඒවා පමණක් ප්‍රමාණවත් නොවේ."
+  - q: "කෙනෙක් හදිසියේ ව්‍යාකූල වුවහොත් මම කුමක් කළ යුතුද?"
+    a: "වහාම වෛද්‍ය උදව් ලබා ගන්න. හදිසි ව්‍යාකූලත්වය delirium විය හැක, එය VA විසින් වෛද්‍ය හදිසි අවස්ථාවක් ලෙස විස්තර කරයි. පුද්ගලයාගේ සෞඛ්‍ය සත්කාර සපයන්නාට වහාම අමතන්න හෝ ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න, ඔවුන් සමඟ සිටින්න, සහ ඔවුන් ගන්නා ඖෂධ සටහන් කරන්න."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+ඔබේම මතකයේ හෝ ඔබ ආදරය කරන කෙනෙකුගේ මතකයේ වෙනස්කම් දැකීම බියජනකය. මෙම පිටුව වෛද්‍ය හමුවක් ලබා ගැනීමට කාලය තීරණය කිරීමටත්, ඒ සඳහා සූදානම් වීමටත් උදව් කළ හැක. කෙනෙකුට ඩිමෙන්ශියාව ඇත්දැයි එය කිව නොහැක. **රෝග විනිශ්චය කළ හැක්කේ සුදුසුකම් ලත් වෛද්‍යවරයෙකුට පමණි**, සහ මතක ගැටළු ඇති කරන බොහෝ තත්ත්වයන් ඩිමෙන්ශියාව නොවේ. කරුණාකර අන්තර්ජාල ප්‍රශ්නාවලි හෝ ස්වයං පරීක්ෂාවලට විශ්වාසය තබන්න එපා.
 
-## What are the early signs of dementia?
+## ඩිමෙන්ශියාවේ මුල් සං‍ඥා මොනවාද?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) මුල් සං‍ඥා 10ක් විස්තර කරයි. එය සංසන්දනය සඳහා එක් එකක් වයසට අදාළ සාමාන්‍ය වෙනසක් සමඟ යුගල කරයි. අපගේම වචනවලින්:
 
-| Sign worth checking | More typical with age |
+| පරීක්ෂා කිරීමට වටින සං‍ඥාව | වයස සමඟ වැඩි වශයෙන් දකින දේ |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| දෛනික ජීවිතයට බාධා කරන මතක අලාභය, උදාහරණයක් ලෙස මෑත සිදුවීම් අමතක වීම හෝ එකම දේ නැවත නැවත අසීම | සමහර විට නමක් හෝ හමුවීමක් අමතක වී පසුව මතක් වීම |
+| සැලසුම් කිරීමේ හෝ ගැටළු විසඳීමේ අපහසුතාව, උදාහරණයක් ලෙස හුරුපුරුදු වට්ටෝරුවක් අනුගමනය කිරීම හෝ බිල්පත් ලුහුබැඳ යාම | ගෘහස්ථ බිල්පත්වල කලාතුරකින් සිදුවන වැරැද්දක් |
+| නිවසේ, වැඩ කරන තැනේ හෝ පිටතදී හුරුපුරුදු කාර්යයන් අවසන් කිරීමේ අපහසුතාව | ඉඳහිට මයික්‍රොවේව් සැකසුමක් හෝ රූපවාහිනී වැඩසටහනක් පටිගත කිරීමට උදව් අවශ්‍ය වීම |
+| දින, වාර හෝ ඔබ සිටින ස්ථානය නැති වීම | සතියේ දිනය වැරදි ලෙස කීම, පසුව එය නිවැරදි කර ගැනීම |
+| දුර තක්සේරු කිරීමේ, කියවීමේ හෝ වර්ණ වෙන්කර දැකීමේ නව අපහසුතාව | cataract නිසා දෘෂ්ටියේ වෙනස්කම් |
+| වචන සමඟ නව ගැටළු, උදාහරණයක් ලෙස සංවාදයක මැදදී නතර වීම හෝ දේවල් වැරදි නමකින් හැඳින්වීම | සමහර විට නිවැරදි වචනය සෙවීමට අරගල කිරීම |
+| දේවල් අසාමාන්‍ය ස්ථානවල තැබීම සහ පියවර නැවත ලුහුබැඳ යාමට නොහැකි වීම | ඉඳහිට දේවල් වරදවා තැබීම සහ පියවර නැවත ගෙන ඒමෙන් ඒවා සොයා ගැනීම |
+| දුර්වල විනිශ්චය, උදාහරණයක් ලෙස මුදල් හෝ පෞද්ගලික සැරසීම ගැන | කලාතුරකින් දුර්වල තීරණයක් ගැනීම |
+| විනෝදාංශ, රැකියාව හෝ සමාජ ක්‍රියාකාරකම්වලින් ඈත් වීම | සමහර විට පවුල් හෝ සමාජ උත්සවයකට යාමට උනන්දුවක් නැති වීම |
+| මනෝභාවයේ හෝ පෞරුෂයේ වෙනස්කම්, උදාහරණයක් ලෙස ව්‍යාකූල, සැක සහිත, භීතියට පත් හෝ කලබල වීම | දේවල් කිරීමට ස්ථාවර ක්‍රම තිබීම සහ චර්යාව බිඳ වැටුණු විට කෝපයට පත් වීම |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+සං‍ඥාවක් පමණක් ඩිමෙන්ශියාව ලෙස අර්ථ නොදක්වයි. කරුණ වන්නේ **එම පුද්ගලයා සඳහා සාමාන්‍ය දේ වෙනස් වීම**, විශේෂයෙන් දෛනික ජීවිතය දුෂ්කර කරන වෙනසක්.
 
-## How is normal aging different from dementia?
+## සාමාන්‍ය වයස්ගත වීම ඩිමෙන්ශියාවෙන් වෙනස් වන්නේ කෙසේද?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[ජාතික වයෝවෘද්ධ ආයතනය (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) පවසන්නේ බොහෝ වැඩිහිටියන් දේවල් වඩා සෙමින් සිහිපත් කරන බව, හෝ සමහර විට දේවල් වරදවා තැබීම හෝ බිලක් අමතක වීම ගැන දන්නා බවයි. මේවා සාමාන්‍යයෙන් මෘදු අමතක වීමේ සං‍ඥා වේ. **ඩිමෙන්ශියාව වයස්ගත වීමේ සාමාන්‍ය කොටසක් නොවේ.** බරපතල මතක ගැටළු රිය පැදවීම, දුරකථනය භාවිතා කිරීම, හෝ නිවසට මාර්ගය සොයා ගැනීම වැනි දෛනික ක්‍රියාකාරකම් දුෂ්කර කරයි.
 
-The NIA suggests talking with a doctor if someone:
+කෙනෙකු පහත දේ කරන්නේ නම් වෛද්‍යවරයා සමඟ කතා කරන ලෙස NIA යෝජනා කරයි:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- එකම ප්‍රශ්න නැවත නැවත අසයි
+- ඔවුන් හොඳින් දැන සිටි ස්ථානවල මං මුළා වේ
+- වට්ටෝරු හෝ උපදෙස් අනුගමනය කිරීමට අපහසු වේ
+- කාලය, මිනිසුන් සහ ස්ථාන ගැන වැඩි ව්‍යාකූල වේ
+- තමන් ගැන සැලකිලිමත් වීම නවතී, උදාහරණයක් ලෙස දුර්වල ලෙස ආහාර ගැනීම, නාන්නේ නැතිවීම, හෝ අනාරක්ෂිතව හැසිරීම
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+සමහර අයට **මෘදු සං‍ජානන දුර්වලතාව (MCI)** ඇත. එයින් අදහස් කරන්නේ, ඔවුන්ගේ වයසේ අනෙකුන්ට වඩා වැඩි මතක හෝ චින්තන ගැටළු ඇති නමුත්, තවමත් දෛනික ජීවිතය කළමනාකරණය කරන බවයි. MCI Alzheimer's හි මුල් සං‍ඥාවක් විය හැකි බව NIA පවසන නමුත්, MCI ඇති සියල්ලටම එය ඇති නොවේ.
 
-## What else can cause memory problems?
+## මතක ගැටළු ඇති කළ හැකි වෙනත් දේ මොනවාද?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+ඩිමෙන්ශියාවට අමතරව මතකයට බලපාන බොහෝ දේවල් ඇති අතර, සමහරක් ප්‍රතිකාරයෙන් වැඩි දියුණු වේ. NIA ලැයිස්තු කරන්නේ:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **තයිරොයිඩ්, වකුගඩු හෝ අක්මාවේ ගැටළු**
+- **ඖෂධවල අතුරු ඵල**
+- **විෂාදය සහ කලබලය**
+- **අඩු විටමින් B12** හෝ සෞඛ්‍ය සම්පන්න ආහාර ප්‍රමාණවත් ලෙස නොගැනීම
+- **නින්දේ ගැටළු**
+- **මත්පැන් හෝ මත්ද්‍රව්‍ය අවභාවිතය**
+- **ආසාදන, රුධිර කැටි හෝ මොළයේ ගෙඩි**
+- **හිසට තුවාලය**, උදාහරණයක් ලෙස concussion
+- **විශාල ආතතිය හෝ ශෝකය**, උදාහරණයක් ලෙස විශ්‍රාම ගැනීම හෝ සැමියා/බිරිඳ අහිමි වීම
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+ශ්‍රවණ සහ දෘෂ්ටි ගැටළු ද ව්‍යාකූලත්වය ලෙස වරදවා තේරුම් ගත හැක; අපගේ [ශ්‍රවණ මාර්ගෝපදේශය](/brain-health/hearing/) බලන්න. මෙය වෛද්‍ය පරීක්ෂාව වැදගත් වීමට හේතුවයි. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) අනුව, වෛද්‍යවරුන් බොහෝ විට තයිරොයිඩ් ගැටළු, විටමින් ඌනතා සහ ආසාදන පරීක්ෂා කිරීමට රුධිර පරීක්ෂා නියම කරයි. හොඳ [නින්ද](/brain-health/sleep/) සහ විෂාදයට ප්‍රතිකාර කිරීම ද මතු කිරීම වටී.
 
-## Sudden confusion is an emergency
+## හදිසි ව්‍යාකූලත්වය හදිසි අවස්ථාවකි
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**පැය හෝ දින ගණනකින් ඉක්මනින් පැමිණෙන ව්‍යාකූලත්වයට ඉක්මන් වෛද්‍ය සත්කාර අවශ්‍යයි.** එය delirium විය හැක. [VA විසින් delirium විස්තර කරන්නේ](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) වෛද්‍ය හදිසි අවස්ථාවක් ලෙසයි, සහ පුද්ගලයාගේ සෞඛ්‍ය සත්කාර සපයන්නාට වහාම අමතන ලෙසත්, හෝ ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන ලෙසත් උපදෙස් දෙයි. සං‍ඥා අතර:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- පැහැදිලිව සිතීමේ හැකියාවේ ඉහළ පහළ යාම
+- අවධානය යොමු කිරීමේ අපහසුතාව
+- චින්තනය අවුල් වීම
+- අසාමාන්‍ය ලෙස නිදිමත වීම, හෝ අසාමාන්‍ය ලෙස නොසන්සුන් සහ කලබල වීම
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+මෙය ඩිමෙන්ශියාව දැනටමත් ඇති අය ඇතුළුව ඕනෑම කෙනෙකුට සිදුවිය හැක. [NHS](https://www.nhs.uk/symptoms/confusion/) අනුව, පොදු හේතූන් අතර ආසාදන (මුත්‍රා මාර්ග ආසාදන වැඩිහිටියන් සහ ඩිමෙන්ශියාව ඇති අය අතර පොදුය), ස්ට්‍රෝක්, දියවැඩියාව ඇති අයගේ රුධිර සීනි අඩුවීම, හිසට තුවාල සහ සමහර ඖෂධ ඇතුළත් වේ. උදව් එන තෙක් බලා සිටින අතරතුර, පුද්ගලයා සමඟ සිටින්න සහ කෙටි, සරල වචනවලින් සහනය දෙන්න. බොහෝ ප්‍රශ්න අසන්න එපා, සහ ඔවුන් ගන්නා ඕනෑම ඖෂධයක් සටහන් කරන්න.
 
-## How do I prepare for the doctor's appointment?
+## වෛද්‍ය හමුවට සූදානම් වන්නේ කෙසේද?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+හොඳ හමුවක් ආරම්භ වන්නේ හොඳ සටහන් වලිනි. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ගෙන එන ලෙස යෝජනා කරන්නේ:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **වෙනස්කම්වල ලැයිස්තුවක්** මතකය, මනෝභාවය සහ හැසිරීම තුළ, නිශ්චිත උදාහරණ සහ ඒවා ආරම්භ වූ විට ආසන්න වශයෙන්
+2. **අතීත සහ වර්තමාන සෞඛ්‍ය ගැටළු**, මතක ගැටළු පිළිබඳ පවුලේ ඉතිහාසය ඇතුළුව
+3. **සියලු වට්ටෝරු සහ බලපත්‍රය නොමැති ඖෂධ**
+4. **ඕනෑම විටමින් හෝ අතිරේක ද්‍රව්‍ය**
+5. **ඔබේ ප්‍රශ්න**, උදාහරණයක් ලෙස කුමන පරීක්ෂා කරනු ඇත්ද, ඒවාට කොපමණ කාලයක් ගත වේද, සහ ප්‍රතිඵල කවදා ලැබේද
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+පුද්ගලයා හොඳින් දන්නා පවුලේ සාමාජිකයෙකු හෝ මිතුරෙකු ගෙන ඒමද උදව් වේ. [NIA පැහැදිලි කරන්නේ](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) වෛද්‍යවරුන් සෞඛ්‍ය, ඖෂධ, දෛනික ක්‍රියාකාරකම් සහ හැසිරීම් වෙනස්කම් ගැන පුද්ගලයාගෙන් සහ පවුලේ සාමාජිකයෙකුගෙන් ඇසිය හැක. වෛද්‍යවරුන් මේවාද කළ හැක:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- මතකය, ගැටළු විසඳීම, අවධානය, ගණන් කිරීම සහ භාෂාව පිළිබඳ පරීක්ෂා දීම
+- වෙනත් හේතු සෙවීමට රුධිර, මුත්‍රා සහ වෙනත් පරීක්ෂා නියම කිරීම
+- විෂාදය හෝ වෙනත් මානසික සෞඛ්‍ය තත්ත්වයන් පරීක්ෂා කිරීම
+- CT හෝ MRI වැනි මොළ ස්කෑන් නියම කිරීම
+- විශේෂඥයෙකුට යොමු කිරීම, උදාහරණයක් ලෙස geriatrician, neurologist, geriatric psychiatrist හෝ neuropsychologist
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Medicare Annual Wellness Visit හි සං‍ජානන තක්සේරුව අවශ්‍ය කොටසක් බව NIA සටහන් කරන අතර, එය කරදර ඉස්මතු කිරීමට ස්වභාවික කාලයක් විය හැක. වෛද්‍යවරුන් භාවිතා කරන කෙටි පරීක්ෂාවලට පවා ඩිමෙන්ශියාව රෝග විනිශ්චය කිරීමට ඒවා පමණක් ප්‍රමාණවත් නොවේ. ඒවා සම්පූර්ණ තක්සේරුවකට පළමු පියවරකි, සහ රෝග විනිශ්චයට එක් හමුවකට වඩා ගත විය හැක. මතක ගැටළු ඇති අය මාස 6 සිට 12 දක්වා සෑම වාරයකම වෛද්‍යවරයා වෙත නැවත පැමිණෙන ලෙස NIA උපදෙස් දෙයි.
 
-## Raising the subject kindly
+## මෘදුවට කරුණ ඉස්මතු කිරීම
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+වෙනත් කෙනෙකු ගැන ඔබ කරදර වන්නේ නම්, සන්සුන්, පෞද්ගලික මොහොතක් තෝරා ගන්න. ඔබ දැක ඇති නිශ්චිත දේවල් ගැන කතා කරන්න, විවේචනයක් ලෙස නොව ඔවුන්ගේ සෞඛ්‍යය ගැන සැලකිල්ලක් ලෙස ඉදිරිපත් කරන්න. සාමාන්‍ය සෞඛ්‍ය පරීක්ෂණයක් යෝජනා කිරීම අඩු බියජනක ලෙස දැනිය හැක. තීරණවල පුද්ගලයා ඇතුළත් කර, ඔවුන් වැඩිහිටියෙකු ලෙස ඔවුන්ට කතා කරන්න. අපගේ [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) උදව් විය හැක.
 
-## Talk with a doctor
+## වෛද්‍යවරයා සමඟ කතා කරන්න
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+මතකයේ, චින්තනයේ, මනෝභාවයේ හෝ දෛනික හැකියාවල නව සහ නිරන්තරව පවතින වෙනස්කම් ඔබ දකින්නේ නම්, ප්‍රාථමික සත්කාර වෛද්‍යවරයෙකු සමඟ හමුවක් ලබා ගන්න. හදිසි ව්‍යාකූලත්වයක් සඳහා, ඔබේ ප්‍රදේශයේ හදිසි අංකයට හෝ පුද්ගලයාගේ සෞඛ්‍ය සත්කාර සපයන්නාට වහාම අමතන්න. ප්‍රථමයෙන් පරීක්ෂා කරවා ගැනීමෙන් ප්‍රතිකාර කළ හැකි හේතු සොයා ගත හැකි අතර, ඩිමෙන්ශියාව නම්, සැලසුම් කිරීමට සහ සහාය සොයා ගැනීමට වැඩි කාලයක් ලැබේ. මේ හරහා ඔබ ගැනද සැලකිලිමත් වන්න; අපගේ [සැලකිලිමත් වන අයගේ ස්වයං සත්කාර මාර්ගෝපදේශය](/caregiving/caregiver-self-care/) බලන්න.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+මෙය සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. අපගේ [වෛද්‍ය වියරු ප්‍රකාශය](/medical-disclaimer/) බලන්න.

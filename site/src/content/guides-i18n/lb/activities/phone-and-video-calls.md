@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefons- an Videoopruff-Aktivitéiten fir eng Persoun mat Demenz"
+seoTitle: "Videoopruff-Aktivitéiten bei Demenz"
+description: "Videoopruff- a Telefon-Aktivitéiten fir Famill, déi weit ewech wunnt: weisen a verzielen, virliesen, singen, Spiller um gedeelten Bildschierm a Tipps fir Hëllefer."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Opruffe mat enger Persoun mat Demenz klappen am beschten, wann se kuerz, regelméisseg sinn a sech ëm eppes dréien, wat Dir zesumme maacht, wéi e Hond
+  oder en Gaart weisen, Fotoen ukucken, virliesen, e Liiblingslidd singen oder
+  e sanft Spill um gedeelten Bildschierm spillen. Ruff zu der selwechter Zäit all
+  Dag un, wann Dir kënnt, hält et bei enger Stëmm op eng Kéier, a bieden jeemand
+  um Ort, mat ze hëllefen.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Eng Aktivitéit gëtt dem Opruff eng Form an hëlleft, de Drock vum Gespréich ewechzehuelen. Plangt eng einfach Saach, déi Dir deele kënnt."
+  - "Kuerz, regelméisseg Opruffe zu der selwechter Zäit vum Dag funktionéieren dacks besser wéi laang, sporadesch Opruffe."
+  - "Eng Persoun schwätzt op eng Kéier. Gruppenopruffe mat duerchenee Schwätzen sinn schwéier ze verfollegen, besonnesch bei Gehéierverloscht."
+  - "Eng Hëllefer um Ort kann de Gerät astellen, bei der Persoun sëtzen a fir Spiller oder Fotoen d'Hänn sinn."
+  - "Wann e Gespréich haut net klappt, endegt en frëndlech. Muergen nach eng Kéier ze probéieren ass a Rutsch."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Wat kann ech bei engem Videoopruff mat enger Persoun mat Demenz maachen?"
+    a: "Plangt eng einfach Aktivitéit: Weist Ären Gaart, Äre Hond oder Är Kich; kuckt zesummen al Fotoen un; liest e kuerzt Gedicht oder e Bréif vir; singt e Lidd, dat si gär huet; kacht zu der selwechter Zäit dat selwecht Rezept oder spillt e sanftes Bildspill um gedeelten Bildschierm. Aktivitéiten ginn dem Opruff e Fokus, sou datt d'Persoun d'Gespréich net allee droe muss."
+  - q: "Wéi laang soll en Videoopruff dauere?"
+    a: "Normalerweis méi kuerz, wéi Dir denkt. E puer warm Minutten kënne genuch sinn, besonnesch wann d'Persoun séier middeg gëtt. Regelméisseg zu der selwechter Zäit vum Dag ze ruffen kann méi wichteg sinn wéi wéi laang all Opruff dauert."
+  - q: "Wat, wann si duercherneen oder opgereegt gëtt vu Videoopruffen?"
+    a: "E puer Leit fannen e Gesiicht um Bildschierm verwierrend. Probéiert en einfachen Telefonsopruff, eng opgeholl Videobotschaft, déi d'Hëllefer an engem roueg Moment kann oflafen, oder Kaarten a Fotoen per Post. Wann e Gespréich schief leeft, endegt en frëndlech a probéiert en en anere Dag oder zu enger anerer Zäit nach eng Kéier."
+  - q: "Wéi kann ech Mamm hëllefen, wann si den Telefon net benotze kann, fir mat Video ze schwätzen?"
+    a: "Bieden e Familljemember, eng Heemhëllefer oder e Mataarbechter vum Pflegeheem un, de Ruff ze starten an d'Gerät ze halen oder ofzestellen. Vill Pflegeeinrichtungen hëllefen Familljen mat Videoopruffen, dofir freet no, wat si uebidden. E Tablet op engem Stänner, mat engem grousse Bildschierm a laut genuch zum Héieren, mécht et fir jiddereen méi einfach."
+  - q: "Kënne mir zesumme per Video e Spill spillen?"
+    a: "Jo. Am einfachste ass et, wann eng Persoun hire Bildschierm an der Video-App deelt, während déi aner Persoun sot, op wéi e Bild ze tippen ass. Oder d'Hëllefer um Ort mécht dat selwecht Spill op engem Tablet op a tippt fir d'Persoun, während Dir hir dorduercher hëlleft. Wielt Spiller ouni Auer oder Punktzuel."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Wann Dir wäit vun enger Persoun mat Demenz wunnt, kann dat sech hëllefluos ufillen. En Telefons- oder Videoopruff ersetzt keng Ëmaarmung, awer si kënnen trotzdem echt Momenter vun Verbonnenheet bréngen, wann Dir se gutt virbereet. De Trick ass, net méi probéieren, e normalt Gespréich ze féieren, a stattdessen eppes Einfaches ze plangen, wat Dir deele kënnt. Dës Säit beschreift Aktivitéiten, déi per Video a Telefon funktionéieren, wéi Dir den Opruff opbaut a wat d'Persoun um Ort maache kann, fir ze hëllefen.
 
-## Why plan an activity for a call?
+## Firwat eng Aktivitéit fir en Opruff plangen?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Eng Aktivitéit gëtt dem Opruff eng Form. „Wéi geet et dir? Wat hues de haut gemaach?“ freet d'Persoun, sech ze erënneren an ze berichten, wat schwéier an belaastend ka sinn. „Kuckt, d'Tomaten si reif“ freet hir guer näischt.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+D'Alzheimer's Association bemierkt, datt Gespréicher mat méi grousse Gruppen per Video schwéier kënne sinn, an schléit vir, [de Gespréich mat Struktur ze versoen](https://www.alz.org/help-support/caregiving/holidays), mat Saachen wéi Lidder singen oder Biller weisen.
 
-## What activities work on a video call?
+## Wéi Aktivitéiten funktionéieren op engem Videoopruff?
 
-### Show and tell
+### Weisen a verzielen
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Bréngt hinnen Är Welt. Dréint d'Kamera lues duerch Äre Gaart, stellt den Hond vir, weist, wat Dir kacht, hält d'Zeechnung vun engem Enkelkand an d'Luucht oder hält den Telefon zum Fënster fir de Schnéi ze weisen. Beschreift, wat Dir gesitt, a flaach Wierder a loosst Paus, fir datt si reagéiere kënnen. Keng Froen néideg.
 
-### Look at photos together
+### Zesummen Fotoen ukucken
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Hält en ale Print vir d'Kamera, oder deelt Ären Bildschierm, fir e puer grouss Fotoen ee nom anere ze weisen. Schwätzt driwwer, wat Dir gesitt: „Kuckt de Grousspapp sengen Hutt.“ Vermeit „Wien ass dat?“ oder „Erënnert Der Iech?“ Wann d'Persoun iergendeen falsch benennt, geet dorop an. Kuckt eisen [Erënnerungs-Guide](/activities/reminiscence/) fir sanft Impulser.
 
-### Read aloud
+### Virliesen
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Liest e kuerzt Gedicht, e Psalm, e Liiblingskanderbuch fir e Enkelkand um selwechte Opruff, e Bréif vun engem Verwandten oder eng Säit aus engem Buch, dat si gär hat. Virliesen gëtt der Persoun eppes Ruiegs zum Lauschteren, ouni datt si mussen äntwerten.
 
-### Sing or listen to music together
+### Zesumme singen oder Musek lauschteren
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Sing e Lidd, dat si gutt kennt, oder spillt op Ärer Säit eng Liiblingsplack. Mat ze singen fält vill Leit méi einfach wéi ze schwätzen. Kuckt eisen [Musek-Guide](/activities/music/).
 
-### Cook or bake at the same time
+### Zesumme kachen oder backen
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+D'Alzheimer's Association schléit vir, e Videoopruff ze plangen, fir zesummen e besonnescht Rezept ze kachen oder ze backen. Riicht de Gespréich a béiden Kichen an. D'Persoun um Ort kann réieren oder probéieren, während Dir hirem ale Rezeptkaart follegt.
 
-### Watch something together
+### Zesumme e Film kucken
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+D'Association schléit och vir, en Liiblingsfilm zur selwechter Zäit aus getrennten Heemer ze kucken, während Dir per Telefon oder Video schwätzt. Fir eng Persoun mat Demenz funktionéiert eng kuerz Szen, eng al Fernseh-Episod oder en Ballspill dacks besser wéi e ganze Film.
 
-### Play a gentle game on a shared screen
+### Ee sanfte Spill um gedeelten Bildschierm spillen
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Vill Video-Apps erlaben et, den Bildschierm ze deelen. Dir maacht d'Spill op a tippt; d'Persoun seet Iech oder weist, wat Dir wielen sollt. Oder d'Hëllefer um Ort mécht dat selwecht Spill op engem Tablet op a tippt fir d'Persoun, während Dir mat hinnen schwätzt.
 
-Games that work well this way:
+Spiller, déi sou gutt funktionéieren:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Saz fäerdeg maachen](/games/finish-the-saying/):** Dir liest en bekannte Saz vir, si seet de Schluss, an dann kënnt eng Gesprächsfro.
+- **[Bildpaare](/games/picture-pairs/):** E sanft Zuerdnungsspill mat grousse Biller, déi sichtbar bleiwe kënnen, ouni Auer a ouni Punktzuel.
+- **[Gespréichskaarten](/games/conversation-cards/):** E Bild an eng oppe Fro fir zesummen driwwer ze schwätzen.
+- **[Fotopaarer](/games/photo-pairs/):** E Zuerdnungsspill aus Fotoen, déi Dir selwer op Ärem Gerät wielt. D'Fotoen bleiwen an Ärem Browser, an d'Persoun gesäit se iwwer Ären gedeelten Bildschierm.
 
-### Recorded messages
+### Opgeholl Noriichten
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Wann Live-Opruffe schwéier sinn, nemmt e kuerzt Video op: e Gréiss, e Lidd, e Spadséiergang duerch Äre Gaart. D'Hëllefer kann et an engem roueg Moment oflafen, sou oft wéi d'Persoun et genéisst. D'Alzheimer's Association erwänt, datt Dir besonnesch Momenter opnéime kënnt an d'Persoun schéckt, wéi Kanner, déi Kaddoen opmaachen.
 
-## What about plain phone calls?
+## Wéi ass et mat klassesche Telefonsopruffe?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Telefonsopruff sinn nach ëmmer wichteg. Dementia Australia schléit vir, [zu der selwechter Zäit all Dag ze ruffen](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) an sech net ze hetzen, well Leit mat Demenz Zäit brauchen, bis si sech bedeelegen. Um Telefon:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Sot direkt Ären Numm an Är Bezéiung: „Hallo Papa, hei ass d'Jenny, Är Duechter.“
+- Sprecht lues, a kuerze Sätz, ëmmer eng Iddi op eng Kéier.
+- Gitt Neiegkeeten, anstatt se ze froen: „Ech hunn gëschter Owend Äert Rezept fir de Rindsbrooden gemaach.“
+- Liest e kuerzt Gedicht oder sangt e Vers vun engem Liiblingslidd.
+- Hält et kuerz a endegt waarm.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia bemierkt och, datt Videoopruffe hëllefe kënnen, wann Schwätze schwéiere gëtt, well d'Persoun Äert Gesiicht gesäit. Wann Telefonsopruff verwierrend ginn, probéiert Video, oder ëmgedréint.
 
-## How do I set up a video call that works?
+## Wéi riicht ech en Videoopruff ee, deen klappt?
 
-**Before the call:**
+**Virun dem Opruff:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Wielt eng reegelméisseg Zäit**, wann d'Persoun normalerweis ausgeruecht ass, a bleift dobäi. Routine hëlleft.
+2. **Sprecht Iech mat der Hëllefer um Ort of.** Eng SMS den Dag virdrun hëlleft hinnen bei der Planung.
+3. **Kontrolléiert d'Gerät.** E Tablet op engem Stänner ass méi einfach wéi e Telefon an der Hand. Vergewëssert Iech, datt et gelueden ass, de Bildschierm hell ass an de Ton laut genuch ass. Schalt Ënnerschrëften an, wann d'App se bitt an d'Persoun gutt liest.
+4. **Plangt eng Aktivitéit** an hutt alles prett.
 
-**During the call:**
+**Während dem Opruff:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sëtzt no bei der Kamera** bei gudder Luucht, mat dem Gesiicht zum Fënster, net mat dem Fënster am Réck.
+- **Stellt Iech all Kéier vir**, mam Numm an der Bezéiung.
+- **Eng Stëmm op eng Kéier.** D'Alzheimer's Association bemierkt, datt duerchenee Schwätzen fir Leit mat Demenz an Leit mat Gehéierverloscht schwéier ass. Wann méi Verwandter derbäi sinn, wiesselt Iech of oder hält et bei zwou oder dräi Leit.
+- **Stellt jeeweils eng Fro.** D'Family Caregiver Alliance schléit [einfach Froen mat Jo-oder-Nee-Äntwerten](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) vir, a wann méiglech Wiel ze weisen.
+- **Gitt laang Paus.** Waart op eng Äntwert. Et ass a Rutsch, e Wuert virzeschloen, wann si sicht.
+- **Benotzt Äre Gesiicht an Är Stëmm.** Laacht, nickt a bleift mat engem warmen Toun. De Gesiicht seet dacks méi wéi d'Wierder.
+- **Korrigéiert net.** Wann d'Persoun eppes seet, wat net stëmmt, loosst et sinn.
 
-**Ending the call:**
+**Den Opruff beenden:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Endegt, ier d'Persoun middeg gëtt, am beschte mat engem gudden Moment.
+- Benotzt all Kéier dee selwechte Ofschied: „Ech ruffen dech muer um Mëttegiessen un. Ech hunn dech gäer.“
+- Zéift et net an d'Längt.
 
-## Tips for the helper on site
+## Tipps fir d'Hëllefer um Ort
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Wann Dir de Partner, d'Hëllefer, de Bridder oder d'Schwëster sidd oder e Mataarbechter, deen beim Opruff hëlleft, da maacht Dir et méiglech.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Richt eng roueg Plaz an.** Schalt de Fernseh aus a mecht d'Dier zou.
+- **Start den Opruff selwer**, an dann gitt der Persoun en Tablet op engem Stänner an d'Hand oder hält et op Aaghéicht.
+- **Sëtzt nieft hinnen, net virun hinnen.** Är Präsenz ass beruhegend. Gitt bei Bedarf sanft e Gedanken: „Kuck, dat ass d'Jenny.“
+- **Sidd d'Hänn.** Hält Biller an d'Luucht, tippt d'Spill oder dréint den Tablet, fir de Raum ze weisen.
+- **Passt op Middegkeet oder Opreegung op**, a sot dem Opruffer, wann et Zäit ass fir ofzeschléissen.
+- **Sot dem Opruffer, wat geklappt huet.** „Si huet den Hond gär gehat“ hëlleft, den nächste Opruff ze plangen.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+D'NIA schléit vir, datt Verwandte aus der Distanz enger eleterer Persoun hëllefe kënnen, [d'Funktiounen vum Telefon ze léieren](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), wéi Videoopruffe. An de spéideren Stadien muss d'Hëllefer normalerweis d'ganzt Gerät iwwerhuelen. Dat ass a Rutsch.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Wann d'Persoun an engem Pflegeheem wunnt, schléit d'Alzheimer's Foundation of America vir, ze froen, ob d'Institutioun Familljen mat Videoopruffen hëlleft. D'AFA erwänt och, datt Familljen Fotoen hin an hier mat dem Pflegepersonal schécke kënnen, an Liiblingsgeméiss oder kleng Trësterchen, nodeem se gekuckt hunn, wat d'Institutioun erlaabt.
 
-## What if the call doesn't go well?
+## Wat, wann de Gespréich net gutt leeft?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+E puer Gespréicher ginn duercherneen, flach oder opreegend sinn. Dat ass net Är Schold, an et heescht net, datt d'Opruffe sech net lounen.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Wann d'Persoun um Bildschierm verwierrt schéngt, wiesselt op e Telefonsopruff oder eng opgeholl Botschaft.
+- Wann si opgereegt gëtt, unerkennt d'Gefill, sot eppes Berouegends a beendegt sanft.
+- Wann d'Opruffe bei enger bestëmmter Zäit vum Dag ëmmer schwéier sinn, probéiert eng anerer Zäit.
+- Wann si mengt, datt Dir jiddereen anescht sidd, geet dorop an, frëndlech.
 
-It is fine to end early. A short, warm call is a good outcome.
+Et ass a Rutsch, fréi opzehalen. E kuerzt, waarmt Gespréich ass e gutt Resultat.
 
-## Between calls
+## Tëscht den Opruffen
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Bleift op anere Manéieren präsent. Dementia Australia schléit vir, Kaarten, E-Mailen, Fotoen oder kleng Kaddoe ze schécken. Eng wëchentlech Postkaart mat engem grousse Foto an enger kuerzer Notiz kann ëmmer erëm gelies ginn. Gedréckte [Gespréichskaarten](/games/conversation-cards/), déi der Hëllefer geschéckt ginn, kënnen dem nächste Gespréich e fäerdegt Thema ginn.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Fir Tipps zur Auswiel an Abriichtung vun engem Tablet kuckt [Tablets an Écrans](/caregiving/tablets-and-screens/). Fir perséinlech Zäit kuckt eise Guide zu [Besuchen](/activities/visiting/).

@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "װי צו קלײַבן דעמענץ־אַפּס און שפּילן"
+seoTitle: "װי צו קלײַבן דעמענץ־אַפּס און שפּילן: אַ רשימה"
+description: "אַ זאָרגער־רשימה פֿאַר קלײַבן דעמענץ־אַפּס און שפּילן: הײבט אָן מיט אײַער ציל, מײַדט טײמערס און רעקלאַמעס, קוקט נאָך פּריװאַטקײט, און לייענט באַװײַז־טענות מיט זאָרג."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  הײבט אָן מיט דעם, װאָס איר װילט, אַז די אַפּ זאָל טאָן: זאַנפֿטע סטימולאַציע, דערמאָנונגען, רו אָדער קאָנטאַקט. דערנאָך קלײַבט איינע װאָס פּאַסט צו דעם מענטשס פֿעיִקײטן הײַנט, מיט גרױסע בילדער, אָן טײמערס, פּונקטן אָדער רעקלאַמעס, און אַ גרינגן װעג אויפֿצוהערן. קוקט װאָס די דאַטן זי זאַמלט און צי איר קענט זיי מעקן. זײַט אָפּגעהיט פֿון טענות אַז אַ אַפּ פֿאַרהיט אָדער באַהאַנדלט דעמענץ; איין שטודיע איז נישט קײן באַװײַז.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "באַשטימט ערשט דעם ציל: סטימולאַציע, דערמאָנונגען, רו אָדער קאָנטאַקט פֿאָדערן פֿאַרשײדענע אַפּס."
+  - "פּאַסט דעם מענטשס פֿעיִקײטן פֿון הײַנטיקן טאָג, נישט אַ סטאַדיום־עטיקעט, און האַלט די קאָנטראָלן פּשוט."
+  - "מײַדט אַפּס מיט טײמערס, פּונקטן, לעבנס, סטרײַפֿן אָדער רעקלאַמעס."
+  - "קוקט נאָך װאָס מען זאַמלט, טיילט און מעקט. HIPAA דעקט געװײנלעך נישט קאָנסומער־אַפּס."
+  - "זײַט סקעפּטיש צו „פֿאַרהיט דעמענץ“־טענות. איין פּרובירונג, אָדער בעסערע פּונקטן אין דער אַפּ, איז נישט קײן באַװײַז."
+  - "Golden Moments איז אַ דערהאַלטונגס־טעטיקײט. עס מאַכט קײן קליניש טענות."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "קענען מוח־שפּילן פֿאַרהיטן דעמענץ?"
+    a: "עס איז נישט קײן גוטער באַװײַז, אַז קאָמערשעלע מוח־שפּיל־אַפּס פֿאַרהיטן אָדער פּאַמעלן דעמענץ. דער NIA זאָגט, אַז עס איז נישט גענוג באַװײַז, אַז די אַפּס װאָס מען קען קױפֿן האָבן די זעלבע װירקונג װי די סטרוקטורירטע טרענינג װאָס איז געפּרוּװט געװאָרן אין אַ גרױסער פֿאָרשונג־פּרובירונג. קלײַבט אַפּס פֿאַר פֿרײד און קאָנטאַקט, נישט װי מעדיצין."
+  - q: "צי איז אַ דעמענץ־אַפּ באַדעקט פֿון HIPAA?"
+    a: "געװײנלעך נישט. HIPAA גילט בדרך־כלל פֿאַר געזונטהײט־פּראָװײדערס, געזונטהײט־פּלענער און זייערע געשעפֿטס־שותּפֿים. אַן אַפּ װאָס איר לאָדט אַראָפּ אַליין איז געװײנלעך נישט באַדעקט, אַחוץ אױב עס װערט צוגעשטעלט פֿון איינעם פֿון זײ. די Health Breach Notification Rule פֿון דער FTC דעקט פֿיל געזונטהײט־אַפּס װאָס HIPAA דעקט נישט."
+  - q: "װאָס זאָל אַ גוטער דעמענץ־שפּיל אויסקוקן?"
+    a: "גרױסע, קלאָרע בילדער און טעקסט, איין אָפֿנזיכטיקע זאַך צו טאָן אויף יעדן עקראַן, קײן טײמער אָדער פּונקטן, קײן זומערס פֿאַר פֿעלערן, קײן רעקלאַמעס, און אַן אײַנפֿאַכער װעג צו פּאָזירן אָדער אויפֿהערן. עס זאָל אויסזען װי פֿאַר דערװאַקסענע געמאַכט און זיך גרינג לאָזן פֿאַר אַן צװײטן מענטש צו פֿאַרבינדן."
+  - q: "צי טענהט Golden Moments, אַז עס העלפֿט דעם זכּרון?"
+    a: "נײן. Golden Moments גיט פּשוטע געמײנזאַמע טעטיקײטן פֿאַר פֿרײד און שמועס. עס דיאַגנאָזירט נישט, באַהאַנדלט נישט, פֿאַרהיט נישט און מעסט נישט דעמענץ, און מיר מאַכן קײן טענות װעגן זכּרון אָדער דענקען."
+  - q: "צי זאָל איך באַצאָלן פֿאַר אַ דעמענץ־אַפּ?"
+    a: "פּרוּװט ערשט פֿרײע אָפּציעס אָדער פֿרײע פּרובֿ־צײַט, און באַמערקט װי די פּערזאָן רעאַגירט איבער אַ פּאָר װאָכן. באַצאָלן פֿאַר אַן אַפּ מאַכט זי נישט עפֿעקטיװער. קוקט װי מען קען אָפּזאָגן, איידער איר אָבאָנירט."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+אַפּ־סטאָרס זענען פֿול מיט שפּילן װאָס זענען געלייבלט פֿאַר עלטערע מענטשן, זכּרון אָדער דעמענץ. עטלעכע זענען זאָרגפֿעלדיק געמאַכט. אַנדערע לייגן צו מעדיצינישע הבטחות, טײמערס װאָס מאַכן דעם שפּיל צו אַ פּרוּװ, אָדער רעקלאַמעס און דאַטן־זאַמלונג. דער בלאַט גיט אײַך אַ װעג צו משפּטן יעדע אַפּ אַליין. מיר ריינקירן אָדער באַשפּרעכן נישט אַנדערע פּראָדוקטן.
 
-## What should I decide before choosing a dementia app?
+## װאָס זאָל איך באַשליסן פֿאַר איך קלײַב אַ דעמענץ־אַפּ?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+באַשטימט װאָס איר װילט, אַז די אַפּ זאָל טאָן. „אַ שפּיל פֿאַר מאַמע“ קען מיינען זייער פֿאַרשײדענע זאַכן, און די בעסטע װאָל פֿאַר איין ציל איז אָפֿט אַ שלעכטע װאָל פֿאַר אַ צװײטן.
 
-| Goal | What it looks like | What to look for |
+| ציל | װי עס קוקט אויס | װאָס צו קוקן נאָך |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| זאַנפֿטע סטימולאַציע | צוזאַמענפּאַסן, סאָרטירן, פּשוטע פּאַזלן, װערטשפּילן | אײַנשטעלבאַרע שװערקײט, בילדער װאָס בלײַבן זעבאַר, קײן צײַט־דרוק |
+| דערמאָנונגען | אַלטע פֿאָטאָס, באַקאַנטע שפּרי־װערטער, מוזיק פֿון זייער יוגנט | אײַערע אייגענע פֿאָטאָס, אָפֿענע פֿראַגן, קײן קװיז־פֿראַגן |
+| רו | פּאַמעלע בילדער, שטילע קלאַנגען, אָטעמען, נאַטור | לײכט צו הײבן און אויפֿהערן, קײן בליצנדיקע זאַכן, קײן איבעראַשונגען |
+| קאָנטאַקט | צוזאַמען שפּילן אָדער רעדן, פּנים־צו־פּנים אָדער דורך װידעאָ | פֿאַר צװײ מענטשן געמאַכט, פּראָמפּטן פֿאַר שמועס |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+די פֿאָרשונג װעגן סטרוקטורירטער „קאָגניטיװער סטימולאַציע“ פֿאַר מענטשן מיט דעמענץ באַשטײט מערסטנס פֿון גרופּע־זיצונגען װאָס װערן געפֿירט פֿון געשולטע שטאַבן, מיט דיסקוסיע, װערטשפּילן, פּאַזלן, מוזיק און שעפֿערישע טעטיקײטן. אַ [Cochrane איבערבליק](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) האָט געפֿונען קלײנע נוצן אויפֿן דורכשניט, װאָס װאַרירט צװישן די שטודיעס. אַזאַ סאָציאַל, פֿאַרשײדנאַרטיק פּראָגראַם איז נישט דאָס זעלבע װי אַן אַפּ פֿאַר איינעם, דעריבער זעט יעדע אַפּ װי איין געמײנזאַמע טעטיקײט צװישן פֿיל אַנדערע.
 
-## How do I know if an app fits the person's abilities?
+## װי װייס איך צי אַן אַפּ פּאַסט דעם מענטש?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+קוקט װי זײ רעאַגירן, אַנשטאָט צו פֿאַרלאָזן זיך אויף אַ דיאַגנאָז אָדער אַ סטאַדיום־עטיקעט. צװײ מענטשן אויף „דער זעלבער סטאַדיום“ קענען זייער אונטערשײדן אין זעונג, געהער, האַנט־קאָנטראָל, שפּראַך און קאָמפֿאָרט מיט עקראַנען. די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/daily-care/activities) רעקאָמענדירט צו האַלטן אין זינען פֿריִערדיקע אינטערעסן און היינטיקע פֿעיִקײטן, און צו פֿאָקוסירן אויף פֿרײד נישט אויף דערגרײכן.
 
-Signs of a good fit:
+צײכנס פֿון אַ גוטן פּאַס:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- זײ הײבן אָן אָדער דערנעמען זיך אָן פֿיל איבערצײַרעדן;
+- זײ לאַכן, קומען אָן מיט אַ קאָמענטאַר אָדער דערצײלן אַ מעשה;
+- פֿעלערס שטערן זיי נישט;
+- זײ זענען צופֿרידן צו אויפֿהערן, װען עס איז צײַט.
 
-Signs it is a poor fit:
+צײכנס פֿון אַ שלעכטן פּאַס:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- אָפֿט װידערהאָלט „איך קען נישט“ אָדער „דאָס איז נאַריש“;
+- צעמישונג װעגן װאָס צו טאַפּן;
+- פֿראַסטראַציע, פֿאַרלעגנהײט אָדער שטופּן דעם אַפּאַראַט װעג;
+- עס אַרבעט נאָר אויב איר טוט כּמעט אַלץ.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+נויט איז אַ סיגנאַל, נישט עפּעס צו דורכדרינגען. זע [װאָס צו טאָן ווען זײ זאָגן ניין](/caregiving/when-they-say-no/). פֿאַר אַפּס אַחוץ, זע [פֿרי־סטאַדיום](/activities/early-stage/) און [שפּעט־סטאַדיום](/activities/late-stage/) טעטיקײטן.
 
-## What design features should I look for or avoid?
+## װאָס פֿאַר פּלאַנען פּאַסן צו דיזיין, און װאָס צו פֿאַרמײַדן?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+קוקט נאָך אַ רויִיק, פּשוט, דערװאַקסענע דיזיין, און מײַדט אַלעס װאָס מאַכט דרוק.
 
-| Look for | Be wary of |
+| קוקט נאָך | זײ זאָלן זיך היטן פֿאַר |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| גרױסע בילדער און טעקסט, הויכע קאָנטראַסט | קלײנע איקאָנס, פֿאַרשטעלטע עקראַנען |
+| איין קלאָרע אַקציע אויף יעדן עקראַן | פֿיל קנעפּלעך, מענוס, אָדער מאַרשרוטן פֿון מערערע שריט |
+| קײן טײמער, אָדער אַ טײמער וואָס מען קען אָפּשטעלן | צוריק־צײלן, שנעלקײט־בונוסן, „שלאָג דײַן אייגענע צײַט“ |
+| קײן פּונקט, אָדער זאַנפֿטע קאָמענטאַרן | פּונקטן, לעבן, שטרײַפֿן, רייטינגען, „מוח־עלטער“ |
+| פֿעלערס װערן שטיל באַהאַנדלט | זומערס, רויטע X מאַרקעס, „פֿאַלש“־מעלדונגען |
+| מענטשלעכע, פֿאַקטישע בילדער פֿאַר דערװאַקסענע | קאַרטונע אָדער קינדישע טעמעס |
+| אַרבעט אָפֿליין, אַן אַקאַונט איז נישט נייטיק צו הײבן | מוז זיך אָנשרײבן, אַרײַנלאָגן אָדער אַראָפּלאָדן אינהאַלט פֿריִער |
+| גרינגע פּאָזע און אויפֿהער | פּאָפּ־אַפּס װאָס פֿרעגן צו װײטער שפּילן אָדער ראַטירן די אַפּ |
+| קײן רעקלאַמעס, אָדער קלאָר אײן מאָל אָדער אָבאָנעמענט פּרײַז | רעקלאַמעס, לוט־קעסטלעך, אָפֿט אָנריפֿן צו קױפֿן |
+| לײכט פֿאַר אַ צװײטער מענטש צו קומען אַרײַן | נאָר איין־שפּילער, קאָנקורענטישע דיזיין |
 
-Ads and purchase prompts are easy to tap by accident.
+רעקלאַמעס און קױפֿ־פּראָמפּטן זענען לײכט צו טאַפּן דורך אַ טעות.
 
-## How do I check an app's privacy?
+## װי קאָנטראָלירט איך אַן אַפּס פּריװאַטקײט?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+קוקט װאָס די אַפּ זאַמלט, װעמען זי טיילט עס מיט, און צי איר קענט עס מעקן. איידער איר אינסטאַלירט:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **לייענט דעם סטאָר־פּריװאַטקײט־איבערבליק.** [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) פֿון Google Play און [privacy information section](https://support.apple.com/en-us/102399) פֿון דעם App Store ציילן די טיפּן דאַטן װאָס אַן אַפּ קען זאַמלען און טיילן. ביידע פֿירמעס באַמערקן, אַז דעוועלאָפּערס גיבן דעם אַליין, דעריבער איז עס אַ אָנהײב, נישט אַ אַודיט.
+2. **פֿרעגט צי עס דאַרף אַן אַקאַונט.** װען אַן אַפּ האָט נאָר בילדער אָדער פּשוטע שפּילן, קען עס זײַן קײן סיבה נישט, אַז זי זאָל װיסן אײַער נאָמען, אימעיל אָדער געבורטסטאָג.
+3. **קוקט די דערלויבענישן.** דאַרף אַ צוזאַמענפּאַס־שפּיל טאַקע לאָקאַציע, קאָנטאַקטן, מיקראָפֿאָן אָדער דאָס גאַנצע פֿאָטאָ־ביבליאָטעק? שלאָגט אָפּ אַלץ װאָס עס דאַרף נישט.
+4. **קוקט אויף רעקלאַמעס און אַנאַליטיק.** רעקלאַמע־ און נאָכפֿאָלגונג־מיטלען קענען שיקן דאַטן װעגן װי די אַפּ װערט ניצט צו אַנדערע פֿירמעס.
+5. **פֿאַרשטײט װוּ די פֿאָטאָס גייען.** אויב איר לייגט צו משפּחה־פֿאָטאָס, בלײַבן זיי אויף דעם געצײַג אָדער װערן זיי אַרױפֿגעלאָדן אויף אַ סערװער? קען מען זיי אַרױסנעמען?
+6. **קוקט נאָך מעקן.** קוקט אין דער פּריװאַטקײט־פּאָליטיק אָדער דעם דאַטן־איבערבליק, װי מען מעקט דאַטן און דעם אַקאַונט. אַן אַפּ װאָס זאָגט, אַז דאַטן קען מען נישט מעקן, פֿאַרדינט עקסטרע פֿאָרזיכטיקײט, באַזונדערס אויב זי האַלט פֿאָטאָס אָדער געזונטהײט־פּרטים.
+7. **לייענט די פּריװאַטקײט־פּאָליטיק** פֿאַר פּשוטע ענטפֿערס װעגן װאָס עס װערט געזאַמלט, פֿאַר װאָס, פֿאַר װי לאַנג, און מיט װעמען עס װערט געטיילט.
 
-### Does HIPAA protect information in dementia apps?
+### שיצט HIPAA אינפֿאָרמאַציע אין דעמענץ־אַפּס?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+געװײנלעך נישט, װאָס איז פֿאַר פֿיל מענטשן אַ יבערראַשונג. דער אמעריקאַנישער דעפּאַרטמענט פֿון געזונטהײט און מענטשלעכע דינסטן [דערקלערט](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), אַז HIPAA גילט פֿאַר געזונטהײט־פּלענער, די רובֿ געזונטהײט־פּראָװײדערס, געזונטהײט־אָפּרעכענונג־צענטערן און זייערע געשעפֿטס־שותּפֿים. אין רוב פֿאַלן שיצט עס נישט די דאַטן װאָס איר גיט אַרײַן אין אַן אַפּ פֿאַר פּערזענלעכן געברויך, אַחוץ אויב אַ באַדעקטע איינהײט אָדער זייער געשעפֿטס־שותּף האָט די אַפּ צוגעשטעלט. אַ „דעמענץ־אַפּ“ פֿון אַן אַפּ־סטאָר איז אָפֿט אַרױס פֿון HIPAA, אַפֿילו אויב זי רעדט װעגן געזונטהײט.
 
-### What protects health data in apps that HIPAA does not cover?
+### װאָס שיצט געזונטהײט־דאַטן אין אַפּס װאָס HIPAA דעקט נישט?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+די Health Breach Notification Rule פֿון דער Federal Trade Commission דעקט פֿיל פֿון זיי. אין 2024 האָט די FTC [פֿאַרענדיקט ענדערונגען](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), װאָס מאַכן קלאָר, אַז די כּלל גילט פֿאַר געזונטהײט־אַפּס און ענלעכע טעכנאָלאָגיעס װאָס HIPAA דעקט נישט. אַ „ברעך“ אַרײַנגערעכנט אומבאַרעכטיקטע אָנװײזונגען, נישט בלױז האַקינג, און פֿירמעס מוזן אַנאָנסירן די באַטראָפֿענע מענטשן און די FTC. דאָס איז אַ זיכערהײט־נעץ נאָך אַ זאַך װאָס איז שלעכט געגאַנגען, נישט אַ צוזאָג אַז אַן אַפּ זאַמלט בלױז װאָס עס דאַרף.
 
-## How should I read claims about research and evidence?
+## װי זאָל איך לייענען טענות װעגן פֿאָרשונג און באַװײַז?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+לייענט באַװײַז־טענות לאַנגזאַם, און זײַט מערסטנס סקעפּטיש צו די גרעסטע הבטחות. פֿראַגן צו פֿרעגן:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **װאָס איז טאַקע געלערנט געװאָרן?** אַ שטודיע פֿון איין טרענינג־פּראָגראַם באַװײַזט נישט, אַז יעדער שפּיל אין אַ אַפּ אַרבעט אויף דער זעלבער אופֿן.
+- **װער איז געשטודירט געװאָרן?** רעזולטאַטן בײַ געזונטע עלטערע מענטשן קענען נישט אָנװענדן אויף עמעץ װאָס לעבט מיט דעמענץ.
+- **װאָס איז געמעסטן געװאָרן?** בעסער װערן אין דעם שפּיל אַליין איז נישט דאָס זעלבע װי ענדערונגען אין טאָגליכן לעבן, שמועס, שטימונג אָדער זעלבסטשטענדיקײט.
+- **װי שטאַרק איז די שטודיע?** אַ RCT פֿאַרגלײַכט אַ גרופּע װאָס ניצט די אַפּ מיט אַ גרופּע װאָס ניצט נישט. עס איז אַ גוט דיזיין, אָבער איין קלײן אָדער קורץ RCT איז נישט קײן באַװײַז. זוכט עטלעכע שטודיעס, פֿון אומאָפּהענגיקע פֿאָרשער, װאָס שטימען איבערײן.
+- **טענהט עס, אַז עס ענדערט די קרענקײט?** אַ שטודיע װאָס װײַזט קלײנע פֿאָרשריט אויף אַ טעסט איז נישט קײן באַװײַז, אַז אַן אַפּ פֿאַרלאַנגזאַמט, פֿאַרהיט אָדער באַהאַנדלט דעמענץ.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+די NIA־זײַט װעגן [קאָגניטיװער געזונטהײט און עלטערע מענטשן](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) באַשרײַבט אַ גרױסע NIH געפֿינאַנצירטע פּרובירונג פֿון סטרוקטורירטער קאָגניטיװער טרענינג, און װאָרנט דערנאָך לייענערס צו היטן זיך פֿאַר טענות אַז געװיסע קאָמפּיוטער־ און אָנליין־שפּילן פֿאַרבעסערן זכּרון און דענקען. עס זאָגט, אַז עס איז נאָך נישט גענוג באַװײַז, אַז קאָמערשעלע מוח־טרענינג־אַפּס האָבן די זעלבע װירקונג װי די טרענינג װאָס איז געפּרוּװט געװאָרן אין יענער פּרובירונג. איר קענט מער לייענען אין אונדזער פֿירער װעגן [מוח־שפּילן און די באַװײַזן](/brain-health/brain-games/) און [װאָס די פֿאָרשונג זאָגט װעגן פֿאַרהיטן דעמענץ](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### װאָס איז אַ עפֿנטלעכער ביישפּיל פֿון אַ מיסלידנדיקער טענה?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+אין יאַנואַר 2016 האָט די FTC [אָנגעקינדיקט אַ פֿאַרגלײַך](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) מיט די מאַכערס פֿון Lumosity, אַ „מוח־טרענינג“־פּראָגראַם. די FTC האָט געטענהט, אַז די פֿירמע האָט אָנגעזאָגט, אָן גענוגיקע באַװײַזן, אַז אירע שפּילן קענען פֿאַרצײַטיקן עלטער־באַדינגטע קאָגניטיװע ירידה און באַשיצן קעגן מילדע קאָגניטיװע שװאַכקײט, דעמענץ און אַלצהײַמער. די פֿירמע האָט אײַנגעשטימט צו צאָלן 2 מיליאָן דאָלאַר און מוז האָבן קאָמפּעטענטע און פֿאַרלאָזלעכע װיסנשאַפֿטלעכע באַװײַזן פֿאַר אַזעלכע טענות אין דער צוקונפֿט. דער פֿאַל איז אַ נוצלעכע דערמאָנונג, אַז מאַרקעטינג־שפּראַך איז נישט קײן באַװײַז.
 
-### Which words are red flags?
+### װעלכע װערטער זענען רויטע פֿאָנען?
 
-Be cautious when an app or ad says it:
+זײַט פֿאָרזיכטיק, װען אַן אַפּ אָדער רעקלאַמע זאָגט, אַז זי:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- „פֿאַרהיט“, „קערט אום“, „האַלט אָן“ אָדער „היילט“ דעמענץ אָדער אַלצהײַמער;
+- איז „קליניש באַװיזן“ אָן צו נאָמען די שטודיע, װער איז געװען אין איר, און װאָס איז געמעסטן געװאָרן;
+- גיט אַ „מוח־עלטער“ אָדער אַ זכּרון־פּונקט װאָס מײנט אַ דיאַגנאָז;
+- װעט „שאַרפֿן“, „באָסטן“ אָדער „טרענירן“ דעם מוח;
+- ניצט עדות װי באַװײַז.
 
-If you are unsure about a claim, ask the person's doctor.
+אױב איר זענט נישט זיכער װעגן אַ טענה, פֿרעגט דעם דאָקטער פֿון דער פּערזאָן.
 
-## Where does Golden Moments fit?
+## װוּ פּאַסט Golden Moments אַריין?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments גיט פּשוטע געמײנזאַמע טעטיקײטן, נישט אַ זכּרון־טעסט, טעראַפּיע אָדער מעדיצינישע עצה. אונדזערע שפּילן, אַזױ װי [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) און [Calm Breathing](/games/calm-breathing/), זענען געמאַכט פֿאַר פֿרײד און שמועס. זײ דיאַגנאָזירן נישט, באַהאַנדלען נישט, פֿאַרהיטן נישט און מעסן נישט דעמענץ, און מיר מאַכן קײן טענות װעגן זכּרון אָדער דענקען.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+מיר האָבן אויך אַ פֿרײע אַפּ, [Golden Moments פֿאַר iPhone, iPad און Android](/app/). עס האָט זאַנפֿטע בילד־צוזאַמענפּאַס מיט גרױסע קעסטלעך, שפּילן מיט משפּחה־פֿאָטאָס װאָס איר קלײַבט, און בילד־פּעקלעך װאָס אַרבעטן אָפֿליין, אָן אַקאַונט, אָן רעקלאַמעס, טײמער אָדער פּונקטן. די זעלבע רשימה גילט דאָ אויך: דער App Store פּריװאַטקײט־שילד לייענט „Data Not Collected“, און די [אַפּ־פּריװאַטקײט־פּאָליטיק](/app-privacy/) דערקלערט, װוּ קאָפּיעס פֿון פֿאָטאָס װערן געהאַלטן.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+מיר װילן, אַז איר זאָל אונדז באַשטימען אַנשטאָט צו טרױען אונדז. נוצט די רשימה אויף דעם בלאַט, לייענט אונדזער [פּריװאַטקײט־זײַט](/privacy/) און [מעדיצינישן דיסקלעימער](/medical-disclaimer/), און הערט אויף צו ניצן עפּעס, אַרײַנגערעכנט אונדזערס, װאָס פּאַסט נישט פֿאַר דעם מענטש װאָס איר זאָרגט פֿאַר.
 
-## What is a sensible way to try a new app?
+## װאָס איז אַ פֿאַרנונפֿטיקער װעג צו פּרוּװן אַ נײַע אַפּ?
 
-Try it together for a couple of weeks and watch what happens.
+פּרוּװט עס צוזאַמען אויף עטלעכע װאָכן, און קוקט װאָס פּאַסירן.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **שטעלט עס אײַן ערשט** מיט אונדזער [טאַבלעט און טעלעפֿאָן אײַנשטעלונג־פֿירער](/caregiving/tablets-and-screens/), און הײבט אָן אויף דער לײַכטסטער מדרגה.
+2. **האַלט סעסיעס קורץ,** באַמערקט שמייכלען, שמועס און רו, און ענדיקט אויף אַ גוטן מאָמענט.
+3. **לאָזט עס פֿאַלן, אויב עס ברענגט פֿרוסטראַציע,** אַפֿילו אויב עס איז הויך באַװערטעט.

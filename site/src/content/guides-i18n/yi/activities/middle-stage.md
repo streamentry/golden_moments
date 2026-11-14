@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "אַקטיװיטעטן פֿאַר מיטל-סטאַדיום דעמענץ"
+seoTitle: "מיטל-סטאַדיום דעמענץ: פּשוטע אידייען"
+description: "פּשוטע אַקטיװיטעטן פֿאַר מיטל-סטאַדיום דעמענץ: נוצלעכע אַרבעטן, מוזיק, בילדער און לײכטע שפּילן, מיט שריט-פֿאַר-שריט אײַנשטעלן און אומרו אין אַ אַקטיװיטעט."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  אין מיטל-סטאַדיום פֿון דעמענץ זענען די בעסטע אַקטיװיטעטן קורץ, באַקאַנט און צעטײלט
+  אין איין שטאַפּל נאָכן אַנדערן: פֿאַלטן טאָװלען, סאָרטירן סאָקן, װאַשן געשירר, זינגען,
+  געפֿירטע שפּאַצירן, פֿאָטאָ-אַלבאָמס און פּשוטע בילד-שפּילן. שטעלט עס אײַן, װײַזט דעם
+  ערשטן שטאַפּל, נעמט איבער די שװערע טיילן און גיט דער אַקטיװיטעט אַ ציל. הערט אויף
+  װען עס הערט אויף צו זײַן אָנגענעם.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "באַקאַנטע הױזאַרבעטן זענען אָפט די בעסטע, װײַל זײ פֿילן זיך נוצלעך און דערװאַקסן."
+  - "װײַזט אָן אַנשטאָט דערקלערן, גיט איין שטאַפּל אַ מאָל, און גיט צװײ פּשוטע ברירות אַנשטאָט אָפֿענע פֿראַגעס."
+  - "נעמט איבער דעם שװערסטן טײל, כּדי דער מענטש זאָל קענען טאָן דעם צופֿרידנשטעלנדיקן טייל."
+  - "אומרויִקע פֿירונג מיינט אָפט, אַז דער מענטש דאַרף עפּעס צו טאָן. גיט אים אַ אַקטיװיטעט װאָס פּאַסט צו דער באַװעגונג, אַנשטאָט צו זאָגן ניין."
+  - "װאַטשן איז אויך טייל נעמען, און אַ ביסל העלפֿן אָדער פֿרי אױפֿהערן זענען אַלע גוט."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "װאָס פֿאַר אַקטיװיטעטן זענען גוט פֿאַר מיטל-סטאַדיום דעמענץ?"
+    a: "קורצע, באַקאַנטע, האַנט-אַרבעטן װאָס זענען צעטיילט אין איין שטאַפּל אַ מאָל זענען מערסטנס די בעסטע: פֿאַלטן טאָװלען, פּאָר סאָקן, װאַשן געשירר, דעם טיש דעקן, זינגען מיט באַקאַנטע לידער, געפֿירטע שפּאַצירן, פֿאָטאָ-אַלבאָמס און פּשוטע בילד-שפּילן. צעטײלט יעדע איינע אין איינצעלנע שטאַפּלען און טוט עס צוזאַמען."
+  - q: "װי קריג איך אַ מענטש מיט דעמענץ צו אָנהײבן אַ אַקטיװיטעט?"
+    a: "גרײט אַלץ פֿריִער, און הײבט דאַן דער אַקטיװיטעט אָן אַלײן און לאָדט אים אײַן צו העלפֿן: „קענסטו מיר אַ האַנט געבן מיט די דאָזיקע טאָװלען?“ פֿיל מענטשן װילן נאָך טייל נעמען, אָבער זיי האָבן שװער מיט אָנהײבן. װײַזן דעם ערשטן שטאַפּל איז אָפט בעסער װי עס דערקלערן."
+  - q: "װאָס טו איך, װען ער טוט דאָס זעלבע איבער און איבער?"
+    a: "װידערהאָלונג איז אָפט אומשעדלעך און קען מיינען, אַז דער מענטש װיל זיך פֿילן פֿאַרנומען אָדער דאַרף אַ באַרויִקונג. אַנשטאָט קערעקטירן, גיט אַ אַקטיװיטעט װאָס פּאַסט צו דער באַװעגונג, למשל אַ קאָרב װאַשלעפּלעך צום פֿאַלטן אָדער אַ לידל צום זינגען צוזאַמען."
+  - q: "װאָס אױב זײ טוען די אַקטיװיטעט „פֿאַלש“?"
+    a: "אױב עס איז אומשעדלעך, לאָזט עס זײַן. טאָװלען װאָס זענען אָנדערש געפֿאַלטן אָדער לעפֿלען אין דער פֿאַלשער אָרט מאַכן נישט אויס. קערעקטירן קען אויסזען װי קריטיק, בשעת װען מען לאָזט עס טאָן אױף זײַן אַרט, פֿילט ער זיך פֿעיִק און נוצלעך."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+מיטל-סטאַדיום פֿון דעמענץ איז אָפט דער לענגסטער, און דאָ דאַרפֿן אַקטיװיטעטן שױן װירקלעכע הילף. װערטער קומען שװערער, שטאַפּלען װערן פֿאַרמישט, און אָנהײבן עפּעס קען פֿילן זיך שװער. אָבער דער װונטש צו זײַן נוצלעך און מיטנעמען בלײַבט אָפט. מיט אַ ביסל צוגרײטן קען אַ מענטש אין מיטל-סטאַדיום נאָך האָבן פֿרײד פֿון אַ יבערראַשנד סך, בפֿרט פֿון באַקאַנטע אַרבעטן, מוזיק און בילדער װאָס מען טוט זײ זײַט אין זײַט מיט אײַך.
 
-## What activities work well in middle-stage dementia?
+## װאָס פֿאַר אַקטיװיטעטן װערקן גוט אין מיטל-סטאַדיום דעמענץ?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+קורצע, באַקאַנטע, האַנט-אַרבעטן װאָס זענען צעטיילט אין איינצעלנע שטאַפּלען, אַרבעטן דאָס בעסטע. די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) זאָגט, אַז איר דאַרפֿט נישט דערפֿינדן נײַע זאַכן צו טאָן: אַקטיװיטעטן קענען זײַן אַ טייל פֿון געװײנלעכן לעבן, למשל צוזאַמען קאָכן אַ מאָלצײט, גאַרטנען, מוזיק הערן אָדער שפּאַצירן.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+די [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) באַמערקט, אַז מענטשן אין דעם סטאַדיום האָבן אָפט אַ שטאַרקע באַדערפֿעניש צו פֿילן זיך נוצלעך אָדער צו זאָרגן פֿאַר עפּעס, און דאַרפֿן הילף צו אָנהײבן אָדער פֿאַרזעצן אַקטיװיטעטן. איר מיטל-סטאַדיום-רשימה כּולל פֿאַלטן װעש, אָרדנען סאָקן, לײכטע געשמיידיקייט, טאַנצן צו באַקאַנטע מוזיק, געפֿירטע שפּאַצירן, זינגען-פֿאַרזאַמלונגען, פּשוטע מאָלעריי און קוקן אין פֿאָטאָ-אַלבאָמס.
 
-## How do you set up an activity so it works?
+## װי שטעלט מען אַן אַקטיװיטעט אײַן, כּדי עס זאָל װערקן?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+מערסטנס אַקטיװיטעטן הצלחה אָדער נישט-הצלחה ליגט אין דער אײנשטעלונג. די רעקאָמענדאַציעס װאָס קומען פֿון דער [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) און פֿון דער [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) מאַכן דעם גרעסטן חילוק:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **רײמט דעם אָרט.** שטעלט אָפּ דעם טעלעװיזאָר, מאַכט די טיר צו און לײגט אויס בלויז װאָס די אַקטיװיטעט דאַרף.
+2. **הײבט עס אָן אַלײן.** הײבט אָן צו פֿאַלטן אָדער רירן און לאָדט אים אײַן: „קענסטו מיר העלפֿן מיט דעם?“
+3. **װײַזט, און װאַרט דערנאָך.** דעמאָנסטרירט איין שטאַפּל. װײַזט מיט דער האַנט אָדער פֿירט אים, למשל װײַזן װוּ דער טעלער קומט.
+4. **גיט איין שטאַפּל אויף אַ מאָל.** „פֿאַלט עס האַלב“ איז לײכטער װי „פֿאַלט די דאָזיקע און לייגט זײ אַרײַן לױט פֿאַרב.“
+5. **גיט צװײ ברירות, נישט אָפֿענע פֿראַגעס.** „די בלאָע טאָװלען אָדער די װײסע?“ איז לײכטער צו ענטפֿערן װי „װאָס װילסטו טאָן?“
+6. **טוט דעם שװערסטן טייל אַלײן.** איר מעסט, ער רירט. איר פֿאַדעמט דעם נאָדל, ער װיקלט דאָס גאָרן.
+7. **גיט אַ סיבה.** „די סערװעטן זענען פֿאַר דעם זונטיק-מאָלצײט“ מאַכט די אַרבעט אמתיק.
+8. **לאָזט אים קוקן, אויב ער װיל.** די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) באַמערקט, אַז אַפֿילו צו קוקן קען זײַן אַ פֿרײלעכע צײַט.
 
-## Activity ideas for the middle stage
+## אידייען פֿאַר אַקטיװיטעטן אין מיטל-סטאַדיום
 
-### Useful jobs
+### נוצלעכע אַרבעטן
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **פֿאַלט טאָװלען און װאַשלעפּלעך.** קלײנע, פֿלאַכע זאַכן זענען לײכטסטע. אַ קױב מיט װאַרעמע װאַשלעפּלעך קען געפֿאַלטן, געגלעט און װידער געפֿאַלטן װערן.
+- **פּאָר סאָקן.** הײבט אָן מיט עטלעכע זייער אונטערשײדלעכע פּאָרן. סאָרטירן לױט פֿאַרב אַלײן איז אויך גוט.
+- **װאַשט אָדער טרוקנט אומצעברעכלעכע געשירר.** װאַרעמע זײפֿן-װאַסער איז אָנגענעם פֿאַר די הענט. טרוקענען בשעת מע זיצט איז לײכטער פֿאַר די פֿיס.
+- **דעקט דעם טיש.** גיט איין סאָרט זאַך אַ מאָל, און לײגט איין אָרט אַלס מוסטער.
+- **העלפֿט מיט דעם מיטאָג.** װאַשן קאַרטאָפֿל, רײַסן זײַװל אָדער רירן אַ שיסל. איר האַנדלט מיט די מעסערס און דער היץ.
+- **פֿעגט, שטײבט אָדער װישט אָפּ.** אַ שמאַטע פֿאַר דעם טיש, אַ לײכטער בעזעם פֿאַר דער פּאַטיאָ.
 
-See [household tasks](/activities/household-tasks/) for many more.
+זעט [הױזהאַלטונג-אַרבעטן](/activities/household-tasks/) פֿאַר פֿיל מער.
 
-### Music and movement
+### מוזיק און באַװעגונג
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **זינגט די באַקאַנטע לידער.** הײבט אָן צו זינגען אַלײן; פֿיל מענטשן װערן מיטזינגען בײַ לידער װאָס זיי קענען שױן יאָרצענדליק. זעט [מוזיק-אַקטיװיטעטן](/activities/music/).
+- **טאַנצט פֿרײ.** װיגן זיך, קלאַפּן אָדער זיך באַװעגן װי עס פֿילט זיך גוט. זיצנדיק איז אויך גוט.
+- **װאַרפֿט אַ באַלאָן.** ער פֿליט לאַנגזאַם און איז לײכט צו כאַפּן פֿון אַ שטול.
+- **נעמט אַ געפֿירטע שפּאַציר.** גײט אַ קורצע, באַקאַנטע שלײפֿע צוזאַמען, אַרום-אַרום אָרעם אין אָרעם, אויב דאָס העלפֿט.
 
-### Pictures and stories
+### בילדער און געשיכטעס
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **קוקט אַ פֿאָטאָ-אַלבאָם.** קאָמענטירט װאָס איר זעט, נישט פֿרעגט פֿראַגעס: „קוק אויף יענעם אויטאָ. דערצײל מיר װעגן אים.“ זעט [רעמיניסצענץ-אַקטיװיטעטן](/activities/reminiscence/).
+- **ניצט שמועס-קאַרטן.** [שמועס-קאַרטן](/games/conversation-cards/) פּאָרן אַ בילד מיט אַן אָפּענע פֿראַגע, אָן טעסט.
+- **קוקט אַ אַלטן פֿילם צוזאַמען.** קלײַבט אײנעם װאָס ער קען, בלײַבט נאָענט און מאַכט פּױזעס פֿאַר רו.
 
-### Simple, pressure-free games
+### פּשוטע שפּילן אָן דרוק
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **בילד-פּאָרן מיט די בילדער זעעוודיק.** [בילד-פּאָרן](/games/picture-pairs/) לאָזט די בילדער זיך זען, אַזוי אַז עס איז װעגן באַמערקן, נישט װעגן געדענקען.
+- **געפֿינט דאָס זעלבע.** [געפֿינט דאָס זעלבע](/games/find-the-same/) װײזט איין בילד און נאָר צװײ ביז פֿיר ברירות.
+- **זאָרטירט צוזאַמען.** [זאָרטירט צוזאַמען](/games/sort-together/) איז װי סאָקן זאָרטירן מיט װעש, אויפֿן עקראַן: טאַפּט אַ בילד, דאַן זײַן קערבל.
+- **בילד-בינגאָ.** [בילד-בינגאָ](/games/picture-bingo/) פּאַסט גוט פֿאַר משפּחה-צונױפֿקונפֿטן און גרופּעס.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+אױב אַ שפּיל הײבט אָן צו מאַכן פֿרוסטראַציע, הערט אויף און טוט עפּעס אַנדערס. זעט [װי צו שפּילן צוזאַמען](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## װאָס צו טאָן מיט אומרו
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+אומרויִק פֿירונג און װידערהאָלטע באַװעגונגען האָבן אָפט אַ סיבה. די Family Caregiver Alliance באַמערקט, אַז אַ מענטש װאָס שטענדיק אויסלײַערט אַ שאַפֿע קען זײַן אין אַ באַדערפֿעניש צו פֿילן זיך פֿאַרנומען און נוצלעך. די Alzheimer's Association רעקאָמענדירט צו װענדן די ענערגיע צו אַ צונױפֿשטעלנדיקער אַקטיװיטעט, נישט צו אָפּשטעלן זי.
 
-| What you see | Something to offer |
+| װאָס איר זעט | עפּעס צו געבן |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| רײַבן אָדער קראַצן אויף אַ טיש | אַ נאַסע שמאַטע און אַ בקשה צו װישן דעם טיש |
+| אומרויקע פֿיס אָדער קלאַפּן | מוזיק מיט אַ קלאָרן ביט צו קלאַפּן אָדער טאַפּן צו |
+| אויסלײרן שאַפֿעס אָדער שאַפֿן | אַ קאָרב װאַשלעפּלעך אָדער קלײדער צו פֿאַלטן און סאָרטירן |
+| װידער און װידער פֿרעגן דעם זעלבן פֿראַגע | באַרויִקונג, און דערנאָך אַ לידל אָדער אַ ענין צו טיילן |
+| אַרומגײן | אַ שפּאַציר צוזאַמען, אָדער אַ אַרבעט װאָס האָט מיט טראָגן זאַכן צו טאָן |
+| שפּעטע-נאָכמיטאָג-אומרו | אַ רויקע, באַקאַנטע אַרבעט אין גוטער באַלײַכטונג; זעט [שפּעטע אומרו](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## װען צו אױפֿהערן אָדער װעקסלען קורס
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+הערט אויף װען איר זעט סימנים פֿון מידקייט, פֿרוסטראַציע, פֿאַרדרױס אָדער לאַנגװײַל, אַזױ װי צאַפּלען, פֿרוינצן, אַװעקשטופּן זאַכן אָדער זאָגן „איך קען נישט.“ די Alzheimer's Association רעקאָמענדירט צו פּרוּװן װידער אין אַן אַנדער צײַט פֿון טאָג אָדער צו מאַכן די אַקטיװיטעט פּשוטער. צװינגט נישט. אַ ניין קען קומען פֿון מורא אָדער פֿון דעם װאָס די אַרבעט איז צו שװער; זעט [װען זיי זאָגן ניין](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+פֿרי אױפֿהערן איז אָנגענעם. אויך נאָר צוזאַמען זיצן מיט אַ גלאָז טיי. אַז די פֿעיִקײטן װערן נאָך װײַטער שװערער, קענען די אידייען אין [שפּעט-סטאַדיום-אַקטיװיטעטן](/activities/late-stage/) בעסער פּאַסן, און [101 אַקטיװיטעטן](/activities/ideas/) האָט נאָך פֿיל צו פּרוּװן.

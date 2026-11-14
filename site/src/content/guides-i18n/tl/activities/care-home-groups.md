@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Mga Aktibidad sa Grupo para sa Dementia: Gabay para sa mga Tahanan ng Pag-aalaga at Programa sa Araw"
+seoTitle: "Mga Aktibidad sa Grupo para sa Dementia: Bingo, Awit, Kuwento"
+description: "Aktibidad sa grupo para sa memory care at adult day program: bingo ng larawan, awitan, pag-alala, at tips sa upuan at laki ng grupo."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ang mabubuting aktibidad sa grupo sa memory care at adult day program ay maikli, pamilyar at madaling salihan sa anumang antas: bingo ng larawan, awitan, bilog ng pag-alala, simpleng galaw at pinagsasaluhang larong salita. Panatilihing maliit ang grupo kung kaya, ayusin ang upuan para makita at marinig ng lahat, magbigay ng isang malinaw na hakbang sa bawat pagkakataon, at maghanda ng mas madaling papel at tahimik na paglabas para sa sinumang nangangailangan.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Kadalasang mas mabuti ang maliliit na grupo kaysa sa isang malaking pagtitipon, dahil mas maraming tao ang aktibong nakikilahok sa halip na nanonood lamang."
+  - "Iupo ang mga tao sa bilog o hugis-U, malapit sa lider, isinasaalang-alang ang pandinig at paningin, at patayin ang ingay sa paligid."
+  - "Magplano ng bawat aktibidad sa dalawa o tatlong antas upang maisali ang mga taong may iba't ibang kakayahan."
+  - "Iwasan ang pagsusulit, pagmamarka at mga nanalo. Maaaring laruin ang bingo ng larawan na lahat ay natatapos ang card."
+  - "Ayos lang ang umalis nang maaga, manood lamang, o makatulog. Maghanda ng isang staff na handang sumuporta sa sinumang nais ng tahimik na lugar."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Ano ang magandang laki ng grupo para sa aktibidad sa dementia?"
+    a: "Walang iisang tamang bilang, at nakadepende ito sa mga residente, sa silid at sa dami ng staff. Maraming koponan ang nakatuklas na pinapayagan ng maliliit na grupo ang lahat na makita, marinig at makilahok, habang sa malalaking pagtitipon ay mas maraming tao ang nanonood lamang. Kung magdaraos ka ng malaking pagtitipon, magdagdag ng staff o boluntaryong makaupo sa gitna ng mga residente at makatulong sa isa o dalawang tao bawat isa."
+  - q: "Paano ko pamamahalaan ang grupo na may magkakaibang kakayahan?"
+    a: "Magplano ng higit sa isang paraan ng pagsali sa bawat aktibidad. Sa sabayang awit, may kumakanta ng bawat salita, may humihimig o pumapalakpak, at may may hawak na shaker. Sa bingo ng larawan, may nakahahanap ng sarili niyang larawan habang may katulong na tumuturo para sa iba. Iupo ang mga nangangailangan ng mas maraming tulong sa tabi ng staff o boluntaryo."
+  - q: "Paano ko lalaruin ang bingo ng larawan nang hindi mapagkumpitensya?"
+    a: "Tawagin ang bawat larawan hanggang mapuno ang card ng lahat, para walang maiwan. Pag-usapan ang bawat larawan habang lumalabas ito, at huwag magbigay ng premyo sa mga nanalo, o bigyan ang lahat ng parehong maliit na regalo. Ang layunin ay pinagsasaluhang atensyon at usapan, hindi kung sino ang unang matatapos."
+  - q: "Maaari ko bang gamitin ang inyong mga laro sa malaking screen para sa grupo?"
+    a: "Oo. Tumatakbo ang aming mga laro sa web browser, kaya mabubuksan ang mga ito sa laptop o tablet na nakakonekta sa TV o projector. May kasamang naiimprentang card at tagatawag sa screen ang Bingo ng Larawan. Mabuti ring gumana sa malaking screen ang Tapusin ang Kasabihan at Pares ng Larawan, na may isang taong nagta-tap para sa grupo."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ang gabay na ito ay para sa mga direktor ng aktibidad, koponan ng memory care at lider ng adult day program. Tinatalakay nito ang mga format ng grupo na gumagana, pag-aayos ng silid, pag-angkop ng isang aktibidad para sa magkakaibang kakayahan, at paggamit ng aming mga naiimprentang bingo card at mga laro sa malaking screen. Ang lahat dito ay tungkol sa ginhawa, koneksyon at pagpili. Walang pagsusulit dito.
 
-## What makes a group activity work in memory care?
+## Ano ang nagpapagana ng aktibidad sa grupo sa memory care?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Ang magandang aktibidad sa grupo ay pamilyar, maikli, madaling salihan sa anumang antas, at walang presyon. Inilalarawan ng [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ng Alzheimer's Association ang makabuluhang pakikilahok bilang bagay na sumusuporta sa interes at kagustuhan ng tao, at nagbibigay ng pagpipilian at tagumpay, kahit malubha na ang dementia. Sinasabi rin ng parehong dokumento na madalas umaasa ang tradisyonal na programa sa isa o dalawang malalaking pagtitipon bawat araw kung saan ang mga residente ay kadalasang nanonood lamang.
 
-That points to a few practical rules:
+Ito ang ilang praktikal na tuntunin:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Ang pamilyar ay mas mabuti kaysa bago.** Mas madaling salihan ang mga kanta, kasabihan, larawan at bagay mula sa kabataan ng mga residente.
+- **Ang maikli ay mas mabuti kaysa mahaba.** Magplano para sa haba ng atensyong karaniwang kaya ng grupo, na may natural na hintuan sa gitna.
+- **Ang paggawa ay mas mabuti kaysa panonood.** Bigyan ang bawat tao ng bagay na hahawakan, tatapikin, pipiliin o sasabihin.
+- **Maraming antas, isang aktibidad.** Maglagay ng mas madali at mas mahirap na paraan ng pakikilahok.
+- **Walang nanalo, walang marka.** Nag-iiwan ng pakiramdam ng kabiguan sa ilang tao ang mapagkumpitensyang format.
 
-## How big should the group be?
+## Gaano kalaki dapat ang grupo?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Kadalasang mas madali ang mas maliit. Sinasabi ng Alzheimer's Association na ang taong nalulula sa malaking pagtitipon ay maaaring mas mahusay makipag-ugnayan sa mas maliit na grupo. Walang iisang tamang bilang. Nakadepende ito sa mga residente, sa silid, at sa dami ng staff at boluntaryong available.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Isang kapaki-pakinabang na pagsubok: nakikita ba ng bawat tao ang mukha ng lider, malinaw ba nilang naririnig ito, at maaabot ba sila ng katulong sa loob ng ilang segundo? Kung hindi, hatiin ang grupo, magdagdag ng katulong, o lumipat sa mas maliit na silid.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Para sa malaking pagtitipon, gaya ng konsiyerto tuwing kapaskuhan, iupo ang staff at boluntaryo sa gitna ng mga residente, hindi sa tabi ng mga dingding.
 
-## How should I set up the room and seating?
+## Paano ko ihahanda ang silid at upuan?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Bilog o hugis-U.** Inilalarawan ng mga rekomendasyon sa pagsasanay ang bilog na pagbabahagian bilang pinakamainam sa espasyong sapat para maupo ang lahat nang pabilog, na walang ingay sa paligid.
+- **Malapit ang lider at nasa antas ng mata.** Umupo kaysa tumayo kung kaya.
+- **Pandinig at paningin muna.** Iupo ang mga may problema sa pandinig na pinakamalapit sa lider, sa mas mahusay nilang tainga. Tiyaking nakasuot ang salamin at hearing aid. Sinasabi ng Alzheimer's Association na maaaring pahirapan ng problema sa paningin at pandinig ang komunikasyon.
+- **Ilaw mula sa likod ng mga residente, hindi sa likod mo.** Iwasang iupo ang sinuman na nakaharap sa maliwanag na bintana.
+- **Patayin ang TV at radyo.** Pinapayuhan ng Alzheimer's Association na alisin ang nakikipagkompetensyang ingay sa mga aktibidad sa musika.
+- **Isang usapan sa isang pagkakataon.** Mahirap sundan ang sabay-sabay na usapan para sa mga taong may dementia at may problema sa pandinig, ayon sa Alzheimer's Association sa [gabay nito tungkol sa holiday](https://www.alz.org/help-support/caregiving/holidays).
+- **Malinaw na labasan at tahimik na sulok.** Dapat madali para sa sinumang gustong umalis ang paglabas, may staff na sasamahan sila.
 
-## Group activity ideas
+## Mga ideya sa aktibidad sa grupo
 
-### Picture bingo
+### Bingo ng larawan
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Pinapalitan ng bingo ng larawan ang mga numero ng malinaw na larawan, gaya ng tsarera, aso o rosas, para walang kailangang sundan na mahabang numero o basahin na maliit na print.
 
-**How to run it:**
+**Paano ito patakbuhin:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Mag-print ng isang card bawat tao mula sa aming pahinang [Bingo ng Larawan](/games/picture-bingo/), gamit ang Print na button. Mas madaling hawakan ang makapal na papel. I-laminate para magamit nang paulit-ulit.
+2. Magbigay ng malalaki at madaling damputing marker, gaya ng poker chips, takip ng bote o gupit na card.
+3. Gamitin ang tagatawag sa screen sa TV o projector para makita ng lahat ang larawan habang binibigkas mo ang pangalan nito.
+4. Huminto pagkatapos ng bawat larawan at mag-anyaya ng maikling komento: "May gustong magkuwento tungkol sa asong nakilala niya?" o "Ano ang napapansin ninyo sa isang ito?"
+5. Ituloy ang pagtawag hanggang mapuno ang bawat card. Lahat ay matatapos.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Pag-aangkop:** Gumamit ng mas kaunting kahon para sa taong nalilito sa punô nang card. Maaaring ituro ng katulong ang katugmang larawan para sa sinumang nangangailangan nito. May ilang taong mas gustong hawakan ang card ng larawan ng tagatawag at ipakita ito sa grupo.
 
-### Sing-alongs
+### Sabayang awit
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Isa ang musika sa pinakamalawak na tinatamasang aktibidad sa grupo. Sinasabi ng Alzheimer's Association na kahit sa huling yugto, maaaring [maipadyak ng tao ang beat o makakanta ng awit mula pagkabata](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Paano ito patakbuhin:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Pumili ng mga kantang kinalakhan ng mga residente, hindi ng paborito ng lider. Itanong sa pamilya kung ano ang gusto ng bawat tao.
+- Gumamit ng musikang walang patalastas, na sinasabi ng Association na maaaring nakalilito.
+- Mag-print ng liriko sa malaking titik para sa mga nakababasa, pero huwag itong gawing kailangan.
+- Mag-alok ng shaker, hand drum o scarf na iwawagayway.
+- Hikayatin ang pagpalakpak at galaw, at panatilihing komportable ang lakas ng tunog.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Pag-aangkop:** May ilang taong kakanta ng bawat salita, may hihimig, may papadyak ng paa, at may makikinig lamang. Lahat ng ito ay mahalaga. Tingnan ang aming [gabay sa mga aktibidad sa musika](/activities/music/) para sa higit pa.
 
-### Reminiscence groups
+### Mga grupo ng pag-alala
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Ang grupo ng pag-alala ay nagtitipon sa paligid ng isang tema, gaya ng mga araw sa paaralan, unang kotse, kusina o tag-araw, gamit ang larawan, bagay at musika. Ang layunin ay magandang usapan, hindi tumpak na pag-alala.
 
-**How to run it:**
+**Paano ito patakbuhin:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Pumili ng isang tema at magdala ng ilang bagay na mahahawakan ng mga tao: hand mixer, guwantes sa baseball, sombrero, katalogo ng binhi.
+2. Ipasa ang isang bagay sa bawat pagkakataon. Magtanong ng bukas na tanong: "Ikuwento mo sa akin ito," "Ano ang napapansin mo?" "Sino ang gumamit ng ganito?"
+3. Tanggapin ang bawat sagot. Huwag itama ang petsa o katotohanan.
+4. Igiya ang usapan tungo sa masasayang alaala. Sinasabi ng mga rekomendasyon sa pagsasanay na dapat itulak ng mga tagapagbigay ng pag-aalaga ang pag-alala tungo sa positibong alaala, hindi sa mga maaaring magdulot ng pagkabalisa.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Nag-aalok ang [Mga Kard para sa Usapan](/games/conversation-cards/) ng naiimprentang picture card na may bukas na tanong ayon sa tema, na mahusay na panimulang usapan. Mas maraming ideya ang nasa aming [gabay sa pag-alala](/activities/reminiscence/).
 
-### Finish the saying
+### Tapusin ang kasabihan
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Ang mga pamilyar na kasabihan (halimbawa, "Kapag may tiyaga, may ...") ay nag-iimbita sa lahat na sabay-sabay na sambitin ang dulo. Ipakita ang [Tapusin ang Kasabihan](/games/finish-the-saying/) sa malaking screen at hayaang sumagot ang grupo nang iisang tinig. May talking prompt pagkatapos ng bawat kasabihan. Kung walang nagsabi ng dulo, ipakita ito at lumipat. Walang tama o mali.
 
-### Large-print word search, together
+### Malaking-letrang paghahanap ng salita, nang magkasama
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+I-project ang malaking-letrang [Paghahanap ng Salita](/games/word-search/) sa screen at maghanap ng mga salita bilang grupo, o mag-print ng kopya para sa mga mas gustong magtrabaho nang mag-isa sa mesa gamit ang panulat. Pahalang at patayo lamang ang mga salita.
 
-### Gentle movement
+### Mahinahong galaw
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Mga stretch habang nakaupo, pagpasa ng malambot na bola o lobo, o sayaw sa upuan sa pamilyar na musika. Ipakita ang bawat galaw sa halip na ilarawan lamang.
 
-### Sorting and matching at the table
+### Pag-uuri at pagtutugma sa mesa
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Ang maliliit na mesa na may tatlo hanggang apat na tao ay maaaring mag-uri ng larawan, piraso ng tela o kubyertos nang magkasama. Sa screen, puwedeng laruin ang [Pares ng Larawan](/games/picture-pairs/) habang nakikita pa ang mga larawan, na may isang taong nagta-tap habang nag-uusap ang mesa tungkol sa bawat larawan.
 
-## How do I use your games on a big screen?
+## Paano ko gagamitin ang aming mga laro sa malaking screen?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Tumatakbo ang aming mga laro sa web browser, kaya magagamit ang mga ito sa TV o projector nang hindi nag-iinstall ng anuman.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Buksan ang laro sa laptop o tablet na nakakonekta sa screen sa pamamagitan ng kable o casting.
+2. Gawing full screen ang browser at itakda ang tunog sa komportableng antas.
+3. Hayaan ang isang lider na mag-tap habang sinasabi ng grupo ang kanilang pagpili. O ipasa ang tablet sa residenteng gustong sumubok.
+4. Huminto kapag handa na ang grupo. Walang timer, marka o sapilitang pagtatapos ang mga laro.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+Ang [Bingo ng Larawan](/games/picture-bingo/), [Tapusin ang Kasabihan](/games/finish-the-saying/), [Pares ng Larawan](/games/picture-pairs/) at [Mga Kard para sa Usapan](/games/conversation-cards/) ang kadalasang bagay sa mga grupo. Tingnan ang lahat ng pagpipilian sa aming [pahina ng mga laro](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Paano ko iaangkop ang isang aktibidad para sa magkakaibang kakayahan?
 
-Plan at least three ways to join every activity.
+Magplano ng hindi bababa sa tatlong paraan ng pagsali sa bawat aktibidad.
 
-| Activity | More independent | Some support | Most support |
+| Aktibidad | Mas nakapagsasarili | May kaunting suporta | Pinakamaraming suporta |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo ng larawan | Hinahanap at tinatakpan ang sariling larawan | Itinuturo ng katulong; tinatakpan ng tao | Hawak ang card ng larawan; nakikinig at nanonood |
+| Sabayang awit | Kumakanta, pumipili ng susunod na kanta | Humihimig, pumapalakpak, gumagamit ng shaker | Nakikinig, humahawak ng scarf, tinatapik ang kamay |
+| Pag-alala | Nagkukuwento | Sumasagot ng oo o hindi, o nagtuturo | Hawak at nararamdaman ang bagay |
+| Paghahanap ng salita | Gumagawa sa sariling naimprentang kopya | Naghahanap ng salita sa malaking screen kasama ang katulong | Nakikinig habang binabasa ang mga salita |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Para sa mga residenteng nasa huling yugto, sinasabi ng NHS na kadalasang kailangang maging mas simple ang mga aktibidad at mas tumuon sa mga pandama, gaya ng musika, mga bagay na mahahawakan at masahe sa kamay. Maaaring mas bagay sa kanila ang isang sandaling isa-sa-isa sa gitna o pagkatapos ng grupo kaysa sa mismong grupo. Tingnan ang [mga aktibidad para sa huling yugto](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Paano dapat magsalita ang mga lider sa grupo?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Magpakilala sa bawat pagkakataon, at gamitin ang gustong pangalan ng bawat tao.
+- Magsalita nang dahan-dahan, magbigay ng isang hakbang sa bawat pagkakataon, at ipakita bago ipaliwanag.
+- Mag-anyaya nang bukas ("Ikuwento mo sa akin ang...") o pumili nang simple. Huwag magtanong na parang pagsusulit ("Naaalala mo ba...?").
+- Huwag itama. Pasalamatan ang bawat ambag.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Higit pa rito sa aming [mga tip sa komunikasyon](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Pagtatapos nang maayos, at pagpapaalam sa mga taong aalis
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Ang paghinto ay magandang resulta. Bantayan ang mga palatandaang pagod, balisa o nagagalit ang isang tao, at ipasamahan sila sa katulong para sa lakad o tahimik na upuan sa ibang lugar. Ang taong nakatulog habang kumakanta ay maaaring komportable lamang.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Isara ang bawat grupo sa parehong paraan, sa isang pamilyar na kanta o simpleng pasasalamat, para maging kalmado at inaasahan ang pagtatapos. Pagkatapos, isulat kung ano ang gumana at sino ang nasiyahan sa alin. Nakatutulong ang mga tala na iyon para mas maging maayos ang susunod na sesyon.

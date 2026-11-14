@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "ඩිමෙන්ශියාව ඇති කෙනෙක් නිතරම ගෙදර යන්න ඉල්ලන විට"
+seoTitle: "ඩිමෙන්ශියා: ගෙදර යන්න ඉල්ලන විට කුමක් කිව යුතුද"
+description: "ගෙදර සිටියදීත් ඩිමෙන්ශියාව ඇති අය ගෙදර යන්න ඉල්ලන්නේ ඇයි, ඔබ කුමක් කිව හැකිද, උදව් වන සන්සුන් ක්‍රියාකාරකම් සහ ඔවුන් ආරක්ෂිතව තබා ගන්නා ආකාරය."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  ඩිමෙන්ශියාව ඇති කෙනෙක් නිතරම ගෙදර යන්න ඉල්ලන විට, “ගෙදර” බොහෝ විට ගොඩනැගිල්ලක් නොව ආරක්ෂිත බවේ හැඟීමක් හෝ අතීතයේ ස්ථානයක් අදහස් කරයි. ඔවුන් ගෙදර සිටින බව තර්ක නොකරන්න. හැඟීම පිළිගෙන, ඔවුන් ආරක්ෂිත බව සහතික කර, ගෙදර ගැන අසා, පසුව මෘදුවට ඡායාරූප, සංගීතය, කෙටි කෑමක්, ඇවිදීමක් හෝ සරල කාර්යයකට යොමු වන්න. කුසගින්න, තිබිය යුතු ජලය, වැසිකිළිය හෝ වේදනාව පරීක්ෂා කරන්න. හදිසියේ ආරම්භ වුවහොත් වෛද්‍යවරයා අමතන්න.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "“මට ගෙදර යන්න ඕනේ” යන්නෙන් බොහෝ විට අදහස් කරන්නේ “මම ආරක්ෂිත හෝ සන්සුන් නොවෙමි” යන්නයි, ලිපිනයක් ඉල්ලීමක් නොවේ."
+  - "තර්ක කිරීම හෝ ඔවුන් ගෙදර සිටින බව ඔප්පු කිරීම සාමාන්‍යයෙන් කලබලය වැඩි කරයි. ඒ වෙනුවට හැඟීමට පිළිතුරු දෙන්න."
+  - "ගෙදර ගැන ඔවුන්ට කියන්න කියා අසන්න, ඉන්පසු ඡායාරූප, සංගීතය, කෙටි කෑමක්, ඇවිදීමක් හෝ සරල කාර්යයක් ලබා දෙන්න."
+  - "ප්‍රතිකාර කළ හැකි දේ පරීක්ෂා කරන්න: කුසගින්න, තිබිය යුතු ජලය, වැසිකිළිය, වේදනාව, අධික උණුසුම හෝ සීතල, ශබ්දය, තෙහෙට්ටුව."
+  - "එය සෑම හවස්වරුවකම සිදුවන්නේ නම්, එය sundowning විය හැක; ස්ථාවර චර්යාවක් සහ හොඳ ආලෝකය උදව් විය හැක."
+  - "ඔවුන් පිටව යාමට උත්සාහ කළහොත් ආරක්ෂාව සැලසුම් කරන්න, සහ හදිසි වෙනසක් ගැන වෛද්‍යවරයා අමතන්න."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "මගේ අම්මා ගෙදර සිටියදීත් ඩිමෙන්ශියාව ඇති නිසා නිතරම ගෙදර යන්න ඉල්ලන්නේ ඇයි?"
+    a: "ඩිමෙන්ශියාව හුරුපුරුදු කාමර ආගන්තුක ලෙස හැඟවිය හැක, සහ මිනිසුන් සමහර විට ජීවිතයේ මීට පෙර කාලයක සිටින බව දැනේ. “ගෙදර” යන්නෙන් දරුකාලයේ ගෙදර හෝ හුදෙක් ආරක්ෂිත හා සුවපහසු බවේ හැඟීම අදහස් විය හැක. ඇය කොහේ සිටිනවාද යන්න පෙන්වීමට වඩා, ඒ හැඟීමට පිළිතුරු දීම සාමාන්‍යයෙන් වඩා හොඳින් ක්‍රියා කරයි."
+  - q: "ඔවුන් ගෙදර යන්න ඉල්ලන විට මා කුමක් කිව යුතුද?"
+    a: "“ඔයා මෙහි ආරක්ෂිතයි, මම ඔයා එක්ක ඉන්නවා” කියා බලන්න, ඉන්පසු “ඔයාගේ ගෙදර ගැන මට කියන්න.” සවන් දෙන්න, ඡායාරූපයක් හෝ ගීතයක් බෙදා ගන්න, පාන යමක් හෝ කෙටි ඇවිදීමක් ලබා දෙන්න. “ඔයා ගෙදරමයි” යන්න නිවැරදි කිරීමක් ලෙස කීමෙන් වළකින්න, එය ඔවුන් වැරදියි කියා කියනවා වැනි හැඟිය හැක."
+  - q: "“අපි පසුව ගෙදර යමු” කියා කීම හරිද?"
+    a: "පවුල් සහ ඩිමෙන්ශියා සංවිධාන මේ ගැන එකඟ නොවේ. බොහෝ දෙනෙක් අවංක සහනය සහ දිශා වෙනස් කිරීමෙන් ආරම්භ කරති, සහ සත්‍යය පුද්ගලයාට හැසිරවිය නොහැකි දුක පමණක් ඇති කරන අවස්ථාවලට පමණක් මෘදු අසත්‍යයක් තබා ගනිති. ඔබ කුමක් තෝරා ගත්තත්, කරුණාවන්ත හා එකසේ සිටින්න, සහ ඔවුන්ගේ යථාර්ථ හැඟීම කිසිවිට උපහාස නොකරන්න."
+  - q: "ඔවුන් නිවසින් පිටව යාමට උත්සාහ කළහොත් කුමක් කළ යුතුද?"
+    a: "සන්සුන්ව සිටින්න, ඔවුන් වළක්වනවා වෙනුවට ඔවුන් සමඟ ඇවිදින්න; කෙටි ඇවිදීමකින් බොහෝ විට ආශාව සන්සුන් වේ. කලින්ම ආරක්ෂිත පියවර සකස් කරන්න, උදාහරණයක් ලෙස ID පට්ටියක්, දොරට ශබ්දයක් සහ මෑත ඡායාරූපයක්. පුද්ගලයා අතුරුදහන් වුවහොත්, ආසන්නයේ ආරක්ෂිත ස්ථාන පරීක්ෂා කරන අතර ප්‍රදේශයේ පොලිසියට හෝ හදිසි සේවාවන්ට වහාම දන්වන්න. වාර්තා කිරීමට පෙර නිශ්චිත මිනිත්තු ගණනක් බලා නොසිටින්න."
+  - q: "මම කවදා වෛද්‍යවරයා අමතන්නද?"
+    a: "ඉල්ලීම හෝ ව්‍යාකූලත්වය හදිසියේ ආරම්භ වුවහොත්, හෝ පැය හෝ දින ගණනකින් බෙහෙවින් නරක් වුවහොත්, විශේෂයෙන් උණ, නව ඖෂධයක් හෝ මුත්‍රා මාර්ග ආසාදනයේ සං‍ඥා සමඟ, වහාම ඔවුන්ගේ වෛද්‍යවරයා අමතන්න. හදිසි ව්‍යාකූලත්වය delirium විය හැක, එයට ඉක්මන් සත්කාර අවශ්‍යයි. යම් කෙනෙක් අනතුරේ සිටී නම් ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +45,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +65,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“මට ගෙදර යන්න ඕනේ.” බොහෝ පවුල්වලට මෙය ඇසීමට දුෂ්කරම දේවල් අතරින් එකකි, විශේෂයෙන් ඔබ සැලකිලිමත් වන පුද්ගලයා තම නිජ නිවසේ වාඩි වී සිටින විට. එය පොදු දෙයකි, ඩිමෙන්ශියාවේ ඕනෑම අවධියක සිදුවිය හැක, සහ සන්සුන්, ප්‍රායෝගික ආකාරවලින් ප්‍රතිචාර දැක්විය හැක. මෙම පිටුව එම වචනවලින් බොහෝ විට අදහස් වන දේ, කුමක් කිව යුතුද, මේ මොහොතේ උදව් විය හැකි ක්‍රියාකාරකම්, සහ ආරක්ෂිතව සිටින ආකාරය ආවරණය කරයි.
 
-## Why does someone with dementia keep asking to go home?
+## ඩිමෙන්ශියාව ඇති කෙනෙක් නිතරම ගෙදර යන්න ඉල්ලන්නේ ඇයි?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+සාමාන්‍යයෙන්, “ගෙදර” යනු ස්ථානයකට වඩා හැඟීමකි. Alzheimer's Society එය විස්තර කරන්නේ, නිවස තමාම නොව, සුවපහසුව සහ ආරක්ෂාව පිළිබඳ හැඟීමක් හෝ අතීතයේ ගෙදරක් ලෙසයි. ඩිමෙන්ශියාව හුරුපුරුදු කාමර ආගන්තුක ලෙස පෙනෙන්නට සැලැස්විය හැකි අතර, පුද්ගලයෙකුට ජීවිතයේ මීට පෙර කාලයක ජීවත් වන බව දැනිය හැක, ගෙදර ළමා කාලයේ නිවස හෝ ඔවුන් දරුවන් හදා වඩාගත් තැන වූ විට.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+මෙම වචන දැන් වෙනත් යමක් වැරදි බවේ සං‍ඥාවක් ද විය හැක: ඔවුන් කුසගින්නෙන්, තිබිය යුතු ජලය, වැසිකිළිය අවශ්‍ය, වේදනාවක්, අධික උණුසුම් හෝ සීතල, තෙහෙට්ටුව, තනිකම, භීතිය, හෝ ශබ්දයෙන් මුළුමනින් බරවී සිටී. [ජාතික වයෝවෘද්ධ ආයතනය (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) කලබලයේ හේතූන් අතර වේදනාව, ශබ්දය, තනිකම, චර්යාවේ වෙනස්කම් සහ ඖෂධ ලැයිස්තු කරයි.
 
-## What should I say when they ask to go home?
+## ඔවුන් ගෙදර යන්න ඉල්ලන විට මා කුමක් කිව යුතුද?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+වචන වලට නොව, හැඟීමට ප්‍රතිචාර දක්වන්න. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) උපදෙස් දෙන්නේ පුද්ගලයා වැරදි බව ඔවුන්ට විශ්වාස කරවීමට උත්සාහ නොකරන ලෙසයි: ඔවුන්ගේ හැඟීම සත්‍ය ය, එබැවින් පළමුව සහනය සහ සහතිකය සමඟ පිළිතුරු දෙන්න, ඉන්පසු මෘදුවට දිශා වෙනස් කරන්න.
 
-Phrases that often help:
+බොහෝ විට උදව් වන වාක්‍ය:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **හැඟීමට නම දෙන්න.** “ඔබට ගෙදර අමතක වෙනවා වගේ පේනවා.”
+- **සහතික කරන්න.** “ඔයා මෙහි ආරක්ෂිතයි, මම ඔයා එක්ක ඉන්නවා.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) “ඔයා මෙහි ආරක්ෂිතයි” යන සරල වචන යෝජනා කරයි.
+- **මතකයන් ආරාධනා කරන්න.** “ඔයාගේ ගෙදර ගැන මට කියන්න. ඔයාගේ මුළුතැන්ගෙය කොහොමද තිබුණේ?” දුරස් අතීතය ගැන ඇසීම සාමාන්‍යයෙන් අද ගැන ප්‍රශ්නවලට වඩා සුවපහසුයි.
+- **එකට යමක් ලබා දෙන්න.** “පළමුව තේ කෝප්පයක් බොමු,” හෝ “මේ තුවායන් මට මැදීමට උදව් කරන්නේ ද?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+උණුසුම් ස්වරයක් සහ ඔවුන් ස්පර්ශය කැමති නම් අතේ තබා ගැනීම, වචනවලට වඩා වැඩි දේ කිව හැක.
 
-## What should I avoid?
+## මා වළකින්නේ කුමක් ගැනද?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **තර්ක කිරීම හෝ පැහැදිලි කිරීම.** “ඔයා දැන් මෙහි ජීවත් වෙනවා” හෝ “මේක වසර 40ක් ඔයාගේ ගෙදර වෙලා තියෙනවා” කීම, ඩිමෙන්ශියාව දුෂ්කර කරන දෙයක් පිළිගැනීමට ඔවුන්ගෙන් ඉල්ලයි, සහ එය ඔවුන් වැරදියි කියා කීමක් ලෙස හැඟිය හැක.
+- **ප්‍රශ්න කිරීම.** “ඔයාට මතකද නැද්ද?” හෝ “ලිපිනය මොකක්ද?” කීම පීඩනය එකතු කරයි.
+- **කෝපයෙන් දොර අවහිර කිරීම.** ඔවුන් පිටව යාමට යන්නේ නම්, සන්සුන්ව සිටින්න සහ ඔවුන් සමඟ ඇවිදින්න. එකට කෙටි ඇවිදීමකින් බොහෝ විට ආශාව සන්සුන් වේ.
+- **ඉක්මන් වීම.** මාතෘකාව වෙනස් කිරීමට පෙර ගෙදර ගැන කතා කිරීමට ඔවුන්ට කාලය දෙන්න.
 
-## Activities that can help in the moment
+## මොහොතේ උදව් විය හැකි ක්‍රියාකාරකම්
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+හැඟීම පිළිගත් පසු, සන්සුන්, හුරුපුරුදු ක්‍රියාකාරකමක් එය නොසලකා හැරීමකින් තොරව අවධානය වෙනස් කළ හැක.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **ගෙදර සහ පවුලේ ඡායාරූප බලන්න.** පිටු හරවා ප්‍රශ්න අසනවා වෙනුවට අදහස් දක්වන්න (“ඒ උයන බලන්න”). දුරකථනයක් හෝ ටැබ්ලට් එකක, [Photo pairs](/games/photo-pairs/) ඔබේම පවුලේ ඡායාරූප මෘදු ගැලපීමේ ක්‍රීඩාවක් බවට පරිවර්තනය කරයි, සහ ඡායාරූප ඔබේ උපාංගයේ පවතී.
+2. **ගෙදර ගැන කතා කරන්න.** [Conversation cards](/games/conversation-cards/) නිවාස, මුළුතැන්ගෙය, අසල්වැසියන් සහ උත්සව ගැන විවෘත ඉඟි ලබා දෙයි, නිවැරදි පිළිතුරු නැතිව.
+3. **ඔවුන් ආදරය කරන සංගීතය වාදනය කරන්න.** ජාතික වයෝවෘද්ධ ආයතනය කලබලය සන්සුන් කිරීමේ ක්‍රම අතරින් සුවදායක සංගීතය ලැයිස්තු කරයි. අපගේ [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
+4. **කෑමක් හෝ පානයක් ගන්න.** කුසගින්න සහ තිබිය යුතු ජලය නොසන්සුන්කමක් ලෙස පෙනිය හැක. තේ කෝප්පයක් හෝ ප්‍රිය රසවත් දෙයක් ද ගෙදර සිටීමේ කුඩා චාරිත්‍රයකි.
+5. **ඇවිදින්න හෝ පිටත වාඩි වන්න.** චලනය සහ හිරු එළිය උදව් වේ, විශේෂයෙන් දවසේ මුල් කාලයේදී.
+6. **හුරුපුරුදු කාර්යයක් ලබා දෙන්න.** රෙදි නැමීම, හැඳි-පිහි වර්ග කිරීම, හෝ ශාක වාරි කිරීම, ගෙදර පාලනය කිරීමේ හැඟීම ආපසු ගෙන ඒමට හැක.
+7. **සියල්ල මන්දගාමී කරන්න.** රූපවාහිනිය නවත්වන්න, ශබ්දය සහ දීප්තිය අඩු කරන්න, සහ එකට [calm breathing](/games/calm-breathing/) විරාමයක් උත්සාහ කරන්න.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+එක් අදහසක් ක්‍රියා නොකළොත්, පසුව වෙනත් එකක් උත්සාහ කරන්න. එකට නිශ්ශබ්දව වාඩි වී සිටීමද හොඳ ප්‍රතිඵලයකි.
 
-## Check for a cause you can fix
+## ප්‍රතිකාර කළ හැකි හේතුවක් පරීක්ෂා කරන්න
 
-| Check | What to try |
+| පරීක්ෂා කරන්න | උත්සාහ කළ යුතු දේ |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| කුසගින්න හෝ තිබිය යුතු ජලය | පානයක් සහ කුඩා කෑමක් දෙන්න |
+| වැසිකිළිය අවශ්‍ය වීම | සන්සුන්ව, ගැටළුවක් නොමැතිව වැසිකිලි ගමනක් දෙන්න |
+| වේදනාව හෝ අපහසුතාව | මුහුණ හකුළීම, ශරීර කොටසක් අල්ලා ගැනීම, හෝ මලබද්ධය වැනි සං‍ඥා බලා, ඔවුන්ගේ වෛද්‍යවරයාට කියන්න |
+| අධික උණුසුම් හෝ අධික සීතල | එක් ස්තරයක් හෝ කාමරයේ උෂ්ණත්වය සකසන්න |
+| ශබ්දය හෝ අධික ජනාකීර්ණය | නිශ්ශබ්ද කාමරයකට යන්න, රූපවාහිනිය නවත්වන්න |
+| තෙහෙට්ටුව හෝ අධික උත්තේජනය | විවේක ගන්න, කාමරය මඳ කරන්න, මෘදු සංගීතය වාදනය කරන්න |
+| හවස් වරු | පහත sundowning කොටස බලන්න |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society යෝජනා කරන්නේ ඉල්ලීම සිදුවන වේලාවන්හි කෙටි සටහනක් තබා ගන්න ලෙසයි, උදාහරණයක් ලෙස ආහාරවලට පෙර, අමුත්තන්ගෙන් පසු, හෝ සන්ධ්‍යාවේදී. රටා හඳුනා ගැනීම කල්තියා සැලසුම් කිරීම පහසු කරයි.
 
-## Is it okay to tell a white lie?
+## සුදු බොරුවක් කීම හරිද?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+මෙය සැබෑ විවාදයකි, සහ කරුණාවන්ත පවුල් විවිධ ස්ථානවල සිටී. Alzheimer's Society පවසන්නේ තනි නිවැරදි පිළිතුරක් නොමැති බවයි: අසත්‍යයන් සමහර අයට වැඩි සැකයක් ඇති කළ හැකි නිසා, පුද්ගලයාගේ වඩාත් හොඳ යහපත කුමක්දැයි තීරණය කර, එකසේ සිටින්න. Penn Memory Center හි සහ-අධ්‍යක්ෂකයාගේ අදහස වන්නේ සත්‍යය පෙරනිමිය වන බවත්, පුද්ගලයා එක් විශේෂිත සත්‍යයක් සැකසිය නොහැකි විට පමණක් මෘදු අසත්‍යයක් පිළිගත හැකි බවත්, සහ ඔවුන්ගේ යථාර්ථය කිසිවිට උපහාස නොකළ යුතු බවත්ය.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+බොහෝ සැලකිලිමත් වන අය මැද මාර්ගයක් ක්‍රියා කරන බව සොයා ගනී: පළමුව අවංක සහනය සහ දිශා වෙනස් කිරීම (“අපි අද රෑ මෙහි නවතිමු, මම ඔයා ළඟම ඉන්නවා”), ගෙදර කොහේද යන්න ගැන තර්ක නොකර.
 
-## What if it happens every afternoon or evening?
+## එය සෑම දවල් හෝ සවසකම සිදුවේ නම් කුමක් ද?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+දවසේ පසු කොටසේ ආරම්භ වන හෝ නරක් වන නොසන්සුන්කම බොහෝ විට sundowning ලෙස හැඳින්වේ. [ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ස්ථාවර කාලසටහනක්, දෛනික හිරු එළිය සහ ක්‍රියාකාරකම්, දවසේ පසු කොටසේ නිදාගැනීම අඩු කිරීම, සහ දවසේ පසු කොටසේ කැෆේන් හෝ මත්පැන් නොමැතිකම යෝජනා කරයි. හිරු බැස යාමට පෙර ආලෝක දැල්වීමද උදව් විය හැක. [දවසේ පසු කොටසේ සන්සුන් ක්‍රියාකාරකම්](/caregiving/late-day-restlessness/) ගැන අපගේ මාර්ගෝපදේශයේ තව දේ ඇත.
 
-## Keeping them safe if they try to leave
+## ඔවුන් පිටව යාමට උත්සාහ කළහොත් ආරක්ෂිතව තබා ගන්නේ කෙසේද?
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+ගෙදර යන්න ඉල්ලීම නිසා සැරිසැරීමට හේතු විය හැක. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ඇස්තමේන්තු කරන්නේ ඩිමෙන්ශියාව සහිත පුද්ගලයන් දස දෙනාගෙන් හය දෙනෙක් අවම වශයෙන් එක් වරක්වත් සැරිසරන බවයි.
 
-**Prepare ahead:**
+**කල්තියා සූදානම් වන්න:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ඔවුන්ගේ නම සහ ඔබේ දුරකථන අංකය සහිත ID හෝ වෛද්‍ය පට්ටියක්, සහ ඇඳුම්වල ලේබල්. [ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert සහ Alzheimer's Association Safe and Found වැඩසටහන සඳහන් කරයි, එයට මුදල් වැය විය හැක.
+- දොර ශබ්දයක් හෝ එළිසමයක්, සහ අගුළු උසින් හෝ පහතින්. පුද්ගලයා තනිව කිසිවිට අගුලු නොදමන්න.
+- මෑත ළඟින් ගත් ඡායාරූපයක්, සහ ඔවුන් යා හැකි ස්ථාන ලැයිස්තුවක්, උදාහරණයක් ලෙස පැරණි ගෙදර හෝ වැඩ කළ ස්ථානය.
+- විශ්වාසවන්ත අසල්වැසියන්ට කියන්න, සහ ඔවුන්ට ඔබේ අංකය දෙන්න.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**ඔවුන් අතුරුදහන් වුවහොත්:** ආසන්නයේ ආරක්ෂිත ස්ථාන පරීක්ෂා කරන අතර ප්‍රදේශයේ පොලිසියට හෝ හදිසි සේවාවන්ට වහාම දන්වන්න. වාර්තා කිරීමට පෙර නිශ්චිත මිනිත්තු ගණනක් බලා නොසිටින්න. 2021 [U.S. Department of Justice සඟරා ලිපිය අතුරුදහන් වූ පුද්ගල විමර්ශන ගැන](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) පවසන්නේ නීති ක්‍රියාත්මක කිරීමේ ආයතන නිශ්චිත රැඳී සිටීමේ කාලයක් අවධාරණය නොකළ යුතු බවයි; එය ඩිමෙන්ශියා වැනි සං‍ඥා ඉහළ අවදානම් කරුණක් ලෙසද ලැයිස්තු කරයි. දේශීය වාර්තා කිරීමේ ක්‍රියාපටිපාටි වෙනස් වේ. පුද්ගලයාට ඩිමෙන්ශියාව ඇති බව ප්‍රතිචාර දෙන්නන්ට කියන්න, අවසාන දන්නා ස්ථානය සහ මෑත ඡායාරූපයක් බෙදා ගන්න, සහ ඔවුන්ගේ උපදෙස් අනුගමනය කරන්න. වෙනත් උදව්කරුවෙකු සිටී නම්, දුරකථනය අසල සිටින ලෙස ඔවුන්ගෙන් ඉල්ලන්න. අනාරක්ෂිත ස්ථානවල තනිව සොයන්න එපා.
 
-## When should I call a doctor?
+## මම කවදා වෛද්‍යවරයා අමතන්නද?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+ඉල්ලීම හෝ ව්‍යාකූලත්වය හදිසියේ ආරම්භ වුවහොත්, හෝ පැය හෝ දින ගණනකින් බෙහෙවින් නරක් වුවහොත්, ඔවුන්ගේ වෛද්‍යවරයා වහාම අමතන්න. [ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) පවසන්නේ හදිසි හෝ වේගයෙන් වෙනස් වන චර්යාව, විශේෂයෙන් ආසාදනයකින් හෝ ඖෂධ වෙනසකින් පසුව, වහාම පරීක්ෂා කළ යුතු බවයි. හදිසි ව්‍යාකූලත්වය delirium විය හැක, [NHS](https://www.nhs.uk/symptoms/confusion/) පවසන්නේ එයට ඉක්මන් උදව් අවශ්‍ය බවයි; මුත්‍රා මාර්ග ආසාදන වැඩිහිටියන් අතර පොදු හේතුවකි.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+ඊළඟ හමුවේදී ස්ථාවර රටාවක් සඳහන් කිරීමද උදව් වේ, මන්ද වේදනාව, අඩු මනෝභාවය, නින්දේ ගැටළු හෝ ඖෂධ අතුරු ඵල සියල්ලම භූමිකාවක් ඉටු කළ හැක.

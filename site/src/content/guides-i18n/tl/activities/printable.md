@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Mga Libreng Aktibidad sa Dementia na Maaaring Ilimbag"
+seoTitle: "Mga Libreng Aktibidad na Maaaring Ilimbag para sa Dementia: Malaking Letra"
+description: "Libreng aktibidad na maaaring ilimbag para sa dementia: paghahanap ng salita na malalaking letra, kulayan, kard ng usapan at bingo ng larawan."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Nag-aalok ang Golden Moments ng libreng aktibidad sa dementia na maaaring ilimbag: paghahanap
+  ng salita na malalaking letra, mga pahinang kukulayan, kard ng larawan para sa usapan at
+  bingo ng larawan. Buksan ang alinmang pahina ng laro at gamitin ang pindutang Ilimbag.
+  Mag-print nang malaki at malinaw ang letra sa makapal na papel, isang gawain sa bawat
+  pahina, at ilagay sa plastik na pabalat ang mga pahinang nais mong gamitin muli. Nakatutulong
+  din ang simpleng gawang-bahay na mga pahina, gaya ng pahina ng buhay o pang-araw-araw na iskedyul.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Libre ang aming mga aktibidad na maaaring ilimbag: Paghahanap ng salita, Pagkukulay, Mga kard para sa usapan at Bingo ng larawan. May pindutang Ilimbag ang bawat pahina ng laro."
+  - "Mag-print nang malaki at malinaw ang letra na may matibay na kaibahan, at isang gawain sa bawat pahina."
+  - "Mas madaling hawakan at mas hindi madaling mapunit ang makapal na papel o card stock. Ilagay sa plastik na pabalat para magamit muli kasama ng pang-marker na mabubura."
+  - "Simple at kapaki-pakinabang ang mga gawang-bahay na pahina, tulad ng pahina ng buhay, pang-araw-araw na iskedyul o label ng larawan sa pinto."
+  - "Ang naka-print na pahina ay paanyaya, hindi takdang-aralin. Ayos lang na gawin ang bahagi nito, o wala."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Libre ba ang inyong mga aktibidad na maaaring ilimbag para sa dementia?"
+    a: "Oo. Ang mga pahina ng Paghahanap ng salita, Pagkukulay, Mga kard para sa usapan at Bingo ng larawan sa site na ito ay libre para gamitin at ilimbag. Buksan ang pahina ng laro at gamitin ang pindutang Ilimbag."
+  - q: "Anong naka-print na aktibidad ang pinakamabuti para sa dementia?"
+    a: "Ang pinakamahusay na mga pahinang maaaring ilimbag ay simple, malinaw at pang-adulto: paghahanap ng salita na malalaking letra na may mga salitang pahalang at patayo lamang, mga pahinang kukulayan na may malinaw na balangkas, mga kard ng larawan na nagsisimula ng usapan, at bingo ng larawan para sa grupo. Itugma ang aktibidad sa interes at kasalukuyang kakayahan ng tao, at panatilihin ang isang gawain sa bawat pahina."
+  - q: "Paano ko gagawing mas madaling makita at gamitin ang mga pahina?"
+    a: "Gumamit ng malaki at simpleng letra, maitim na tinta sa puti o cream na papel, at maraming espasyo. Mag-print sa makapal na papel o card stock para manatiling patag ang pahina, pumili ng papel na matte para mabawasan ang silaw, at gumamit ng clipboard o hindi madulas na alpombra para hindi gumalaw ang pahina. Nakatutulong ang plastik na pabalat para tumagal ang mga pahina."
+  - q: "Maaari ko bang ilimbag ang inyong mga aktibidad para sa care home o programa sa araw?"
+    a: "Oo. Malugod na tinatanggap ang staff ng aktibidad na ilimbag ang aming mga pahina para sa mga residente at grupo. Ang Bingo ng larawan ay dinisenyo para sa grupo at may tagatawag sa screen na maipapakita sa TV o projector."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Minsan, ang pinakamagandang aktibidad ay isang papel at panulat sa mesa ng kusina. Hindi kailangan ng pagkakarga, password o screen ang mga naka-print na pahina, at madaling dalhin sa pagbisita o sa grupo. Inilalarawan ng pahinang ito ang mga libreng naka-print na aktibidad sa aming site, kung paano ito ilimbag para madaling makita at hawakan, at ilang simpleng gawang-bahay na pahina na kapaki-pakinabang sa mga pamilya at staff ng aktibidad.
 
-## What free printable activities do you offer?
+## Anong libreng naka-print na aktibidad ang inaalok ninyo?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Nag-aalok kami ng apat na libreng pahinang maaaring ilimbag. Buksan ang alinman sa mga pahina ng laro at gamitin ang pindutang **Ilimbag** para makuha ang bersyong handa sa printer.
 
-| Printable | What it is | Good for |
+| Naka-print na pahina | Ano ito | Mabuti para sa |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Paghahanap ng salita](/games/word-search/) | Paghahanap ng salita na malalaking letra, na may mga salitang pahalang at patayo lamang | Tahimik na oras na may panulat; taong nasiyahan sa mga puzzle |
+| [Pagkukulay](/games/coloring/) | Mga pahinang kukulayan na maaaring ilimbag, o kulayan sa screen | Nakakarelaks at malikhaing oras; anumang yugto na may tulong |
+| [Mga kard para sa usapan](/games/conversation-cards/) | Mga kard ng larawan na may bukas na paanyaya sa usapan ayon sa tema, walang pagsusulit | Mga pagbisita, tawag, salu-salong pagkain, pangkat ng pagbabalik-tanaw |
+| [Bingo ng larawan](/games/picture-bingo/) | Mga kard ng bingo na may larawan sa halip na numero, may tagatawag sa screen | Care home, programa sa araw, pagtitipon ng pamilya |
 
-### Large-print word search
+### Paghahanap ng salita na malalaking letra
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Gumagamit ang [Paghahanap ng salita](/games/word-search/) ng malalaking letra at mga salitang pahalang at patayo lamang, na walang pahilis o pabaliktad na salita. Magtrabaho nang magkasama: binabasa ng isa ang salita sa listahan, hinahanap ito ng isa. Kung nahihirapan sa paghahanap, subukang bilugan nang magkasama ang unang letra ng bawat salita, o basahin nang malakas ang listahan ng salita at pag-usapan ang bawat isa.
 
-### Coloring pages
+### Mga pahinang kukulayan
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Maaaring ilimbag ang mga [pahinang kukulayan](/games/coloring/) para sa marker o colored pencil, o kulayan sa tableta sa pamamagitan ng pag-tap sa kulay at saka sa bahagi ng larawan. Para sa naka-print na pahina, mag-alok ng makakapal na marker at ilang kulay lamang sa bawat pagkakataon. Tingnan ang aming [gabay sa sining at paggawa](/activities/arts-and-crafts/) para sa mga paraan ng pagpapanatiling pang-adulto at nakakarelaks ang pagkukulay.
 
-### Conversation cards
+### Mga kard para sa usapan
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+Ang [Mga kard para sa usapan](/games/conversation-cards/) ay nagpapares ng malinaw na larawan sa bukas na paanyaya, gaya ng “Ikuwento mo sa akin ang...” o “Ano ang napapansin mo?” Isinulat ang mga ito bilang bukas na paanyaya, hindi tanong ng pagsusulit. Ilimbag ang isang set, gupitin, at itago ang ilan sa bag para sa pagbisita o malapit sa telepono para sa tawag. Mahusay din ang mga ito sa mga pangkat ng [pagbabalik-tanaw](/activities/reminiscence/).
 
-### Picture bingo cards
+### Mga kard ng bingo ng larawan
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Ang mga kard ng [Bingo ng larawan](/games/picture-bingo/) ay gumagamit ng larawan sa halip na numero. Mag-print ng isang kard bawat manlalaro at gamitin ang tagatawag sa screen sa laptop, TV o projector. Iminumungkahi naming tumawag hanggang mapuno ang kard ng lahat, para walang maiwan. Tingnan ang [mga aktibidad ng grupo para sa care home](/activities/care-home-groups/) para sa kung paano magpatakbo ng sesyon.
 
-## How do I print activities so they are easy to use?
+## Paano ko ilimbag ang mga aktibidad para madaling gamitin?
 
-Small changes in how you print make a big difference.
+Maliliit na pagbabago sa paraan ng pag-print ay malaki ang pagkakaiba.
 
-### Make it easy to see
+### Gawing madaling makita
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Malaki at simpleng letra.** Gamitin ang pinakamalaking setting ng print na kasya pa sa pahina. Iwasan ang mga magarbo o script na font.
+- **Matibay na kaibahan.** Maitim na tinta sa puti o cream na papel. Iwasan ang maputlang abuhin o may kulay na background.
+- **Papel na matte** ay nakababawas ng silaw sa ilalim ng maliwanag na ilaw.
+- **Suriin ang salamin at ilaw.** Iminumungkahi ng Alzheimer's Association na ipasuri nang regular ang problema sa paningin at pandinig, dahil maaari itong maging dahilan ng mas mahirap na komunikasyon. Nakatutulong din ang maliwanag at pantay na lampara.
 
-### Make it easy to hold
+### Gawing madaling hawakan
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Makapal na papel o card stock** na nananatiling patag, mas madaling kunin, at tumatagal sa paulit-ulit na gamit.
+- **Clipboard** o hindi madulas na placemat na pumipigil sa pagdulas ng pahina.
+- **Makapal na marker o malalaking lapis** na mas madaling hawakan kaysa manipis na panulat.
 
-### Make it reusable
+### Gawing magagamit muli
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Ilagay sa plastik na pabalat** ang mga pahina o isingit sa malinaw na sheet protector. Gumamit ng pang-marker na mabubura sa paghahanap ng salita at bingo card, at punasan pagkatapos.
+- **Pumili ng matte na pouch** kung problema ang silaw, at **bilugan ang mga sulok** ng plastik na kard gamit ang gunting para komportable hawakan.
+- **Magtabi ng folder** ng mga paborito para hindi mo inuulit na ilimbag ang parehong pahina tuwing linggo.
 
-### Keep it simple
+### Panatilihing simple
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Isang gawain sa bawat pahina.** Isang paghahanap ng salita o isang larawan lamang, hindi ilang aktibidad na nagsisiksikan.
+- **Maraming puting espasyo.** Ang abalang pahina ay maaaring makalula.
+- **Walang instruksiyong babasahin kung posible.** Ipakita sa tao kung ano ang gagawin sa halip.
+- **Bawasan ang laki ng pahina.** Kung sobra ang buong pahina, gupitin sa kalahati o tupiin para isang bahagi lamang ang nakikita.
 
-## Other useful printables you can make at home
+## Iba pang kapaki-pakinabang na pahinang maaari mong gawin sa bahay
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Hindi lahat ng kapaki-pakinabang na pahina ay laro. Madali itong gawin gamit ang word processor at printer.
 
-### A life-story page
+### Pahina ng buhay
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Isang pahinang “tungkol sa akin” na may larawan, pangalang gusto ng tao na tawagin siya, kung saan siya lumaki, trabaho, pamilya, paboritong pagkain, musika at mga bagay na nagpapaginhawa o nagpapabagabag sa kanya. Iminumungkahi ng Dementia Australia ang isang [aklat ng alaala](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) na may detalye tungkol sa buhay, mga gusto at mahahalagang tao ng tao, para makatulong sa mga bisita at tagapag-alaga at makapagbukas ng usapan.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Lalo itong kapaki-pakinabang sa mga ospital at bagong setting ng pag-aalaga. Inirerekomenda ng NIA na bigyan ang staff ng ospital ng [personal na sheet ng impormasyon](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) na naglalaman ng routine ng tao, gustong pangalan, mga gusto at ayaw, posibleng nag-uudyok ng pagkabalisa, at mga di-verbal na senyales ng sakit.
 
-### A daily schedule
+### Pang-araw-araw na iskedyul
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Isang malaki at simpleng iskedyul ng araw na may oras, ilang salita at maliit na larawan para sa bawat bahagi: almusal, lakad, tanghalian, pahinga, musika, hapunan. Iminumungkahi ng [pang-araw-araw na plano sa pag-aalaga](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ng Alzheimer's Association ang pagplano ayon sa pinakamabuting oras ng tao, na may regular na oras ng paggising at pagtulog at balanse ng gawain at pahinga. Ilagay ito sa antas ng mata, marahil sa ref, at panatilihing nababaluktot. Tingnan ang aming [gabay sa pang-araw-araw na gawain](/activities/daily-routine/) para sa higit pa.
 
-### Picture labels for rooms and drawers
+### Label ng larawan para sa kuwarto at drawer
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Iminumungkahi ng NIA ang paggamit ng maliwanag na kulay na palatandaan o simpleng larawan para [lagyan ng label ang banyo, kuwarto at kusina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ganoon din ang gamit sa drawer at aparador: larawan ng medyas sa drawer ng medyas, tasa sa aparador ng tasa. Ilimbag, ilagay sa plastik, at idikit.
 
-### A sorting set
+### Set ng pag-uuri
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Mag-print ng larawan mula sa dalawang simpleng kategorya, gaya ng prutas at bulaklak o kagamitan at gamit sa kusina, sa card stock. Gupitin at pag-uri-uriin sa dalawang basket nang magkasama. Ang bersyon sa screen nito ay ang [Pag-uri-uriin nang magkasama](/games/sort-together/).
 
-### Song lyric sheets
+### Pahina ng liriko ng kanta
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Ilimbag ang mga salita ng ilang paboritong kanta sa napakalaking letra para sa sabayang pag-awit. Kahit ang mga taong hindi na masyadong nagbabasa ay maaaring masiyahan sa paghawak ng pahina.
 
-### A family photo page
+### Pahina ng larawan ng pamilya
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Isang pahinang may apat hanggang anim na malalaking larawan ng pamilya, bawat isa ay may pangalan sa ilalim. Maaari itong nasa mesa para sinuman ang makapulot at mapag-usapan. Nakatutulong ang mga label sa mga bisita at staff na makasali sa usapan, at walang kailangang magtanong ng “Sino ito?”
 
-### A recipe card
+### Kard ng resipe
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Ilimbag ang paboritong resipe ng pamilya sa malalaking letra. Gamitin ito sa pagluluto nang magkasama, o pag-usapan lang ang mga pagkain noong nakaraan.
 
-## How do I offer a printable without it feeling like homework?
+## Paano ko iaalok ang naka-print na pahina nang hindi ito parang takdang-aralin?
 
-Present it as something to share, not a test.
+Ipakita ito bilang bagay na pagsasaluhan, hindi pagsusulit.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Umupo at simulan mo mismo.** “Ginagawa ko ang paghahanap ng salitang ito. Gusto mo bang tumulong sa akin na hanapin ang ‘hardin’?”
+- **Magtulungan.** Magpalitan, o ang isa ang humahanap at ang isa ang bumibilog.
+- **Huwag markahan kung tama o mali.** Pinapayuhan ng gabay ng Alzheimer's Association tungkol sa [mga aktibidad sa bahay](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) na tumutok sa proseso, hindi sa resulta, at sa kasiyahan sa halip na tagumpay.
+- **Mag-iwan ng mga pahina sa paligid.** Ang parehong gabay ay nagmumungkahi na ilagay ang scrapbook, album ng larawan o lumang magasin sa mga lugar na madaling abutin. Ang mga naka-print na kard at pahina ng larawan ay maaaring nasa side table sa parehong paraan.
+- **Tumigil kailan mo gusto.** Ang kalahating pahina ng pagkukulay ay magandang hapon na. Ganoon din ang pag-aayos ng pahina at pag-inom ng tsaa.
 
-## Where to find more
+## Iba pang mapagkukunan
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Tingnan ang lahat ng aming [laro at naka-print na aktibidad](/games/), o tingnan ang [mga aktibidad para sa bawat yugto](/activities/ideas/) para sa mas maraming ideya, may papel man o wala.

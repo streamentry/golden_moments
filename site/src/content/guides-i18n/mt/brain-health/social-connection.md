@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Il-konnessjoni soċjali u s-saħħa tal-moħħ: solitudni, iżolament u demenza"
+seoTitle: "Solitudni, iżolament soċjali u riskju tad-demenza"
+description: "Kif is-solitudni u l-iżolament soċjali huma marbutin mar-riskju tad-demenza, x'qal l-avviż tal-Surgeon General, u modi sempliċi biex tibqgħu konnessi flimkien."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Ir-riċerka torbot l-iżolament soċjali u s-solitudni fil-ħajja tard ma' riskju ogħla ta' demenza.
+  Il-Lancet Commission tal-2024 tistma li l-iżolament jammonta għal madwar 5% tal-każijiet, għalkemm
+  xi parti mir-rabta tista' tkun demenza bikrija li twassal għall-irtirar. Li tibqa' f'kuntatt, hobbies
+  maqsuma u għajnuna bis-smigħ kollha jgħinu l-konnessjoni. Għal nies li jgħixu bid-demenza, attivitajiet
+  maqsuma huma importanti għall-pjaċir u għall-kwalità tal-ħajja.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Il-Lancet Commission telenka l-iżolament soċjali fil-ħajja tard bħala wieħed minn 14-il fattur ta' riskju tad-demenza li jistgħu jinbidlu, b'madwar 5% tal-każijiet."
+  - "L-avviż tal-Surgeon General tal-Istati Uniti tal-2023 rabat is-solitudni kronika u l-iżolament ma' riskju ta' demenza madwar 50% ogħla fl-anzjani."
+  - "Biċċa kbira minn din l-evidenza hi ta' osservazzjoni, u d-demenza bikrija tista' tagħmel lin-nies jirtiraw minnha nfushom."
+  - "Problemi fis-smigħ u fil-vista, li tgħix waħdek u l-kura ta' xi ħadd jiżdiedu r-riskju ta' iżolament."
+  - "Għal nies li jgħixu bid-demenza, attivitajiet maqsuma li jogħġbu jappoġġjaw il-kwalità tal-ħajja; l-għan hu l-konnessjoni, mhux il-prestazzjoni."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Is-solitudni tikkawża d-demenza?"
+    a: "Dan ma ġiex ippruvat. Ħafna studji jorbtu s-solitudni u l-iżolament ma' riskju ogħla ta' demenza, imma bidliet bikrija fil-moħħ jistgħu wkoll iwasslu lin-nies biex jirtiraw minn ħaddieħor. Li tibqa' konness għandu ħafna benefiċċji oħra għall-burdata u għas-saħħa, u għalhekk jiswa li tiġi appoġġjata f'kull każ."
+  - q: "X'inhi d-differenza bejn is-solitudni u l-iżolament soċjali?"
+    a: "L-iżolament soċjali tfisser li jkollok ftit nies li tinteraġixxi magħhom b'mod regolari. Is-solitudni hi s-sensazzjoni mweġġga li tkun waħdek jew maqtugħ. Tista' tgħix waħdek u ma tħossx waħdek, jew tħoss waħdek filwaqt li tkun mdawwar bin-nies."
+  - q: "Kif nista' ngħin lil ġenitur bid-demenza jibqa' konness?"
+    a: "Kuntatt qasir u regolari jaħdem tajjeb. Ipprova sejħa jew videochat ġimgħatija fissa, attività maqsuma fuq il-mejda tal-kċina, café tal-memorja, jew żjara ma' annimal domestiku jew ma' neputi. Żomm il-gruppi żgħar u kalmi, u ħalli l-persuna tistabbilixxi l-ħeffa."
+  - q: "Fejn nista' nsib għajnuna lokali għal anzjan iżolat?"
+    a: "L-Eldercare Locator, servizz pubbliku, jgħaqqad lill-familji ma' aġenziji lokali għall-anzjani u programmi komunitarji. Jista' jiġi kkuntattjat fuq 800-677-1116 jew fuq eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+In-nies huma mibnija għall-kumpanija, u dan ma jinbidilx maż-żmien. Ir-riċerka torbot is-solitudni u l-iżolament soċjali fil-ħajja tard ma' riskju ogħla ta' demenza, kif ukoll ma' mard tal-qalb u depressjoni. Ir-riċerka għadha ma tistax tgħid kemm minn din ir-rabta hi kawża u effett. Din il-paġna tkopri dak li turi l-evidenza, modi prattiċi biex tibqa' konness, u għaliex l-attivitajiet maqsuma huma tant importanti għal nies li diġà jgħixu bid-demenza.
 
-## Are loneliness and isolation linked with dementia?
+## Is-solitudni u l-iżolament huma marbuta mad-demenza?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Iva, ħafna studji jorbtuhom, għalkemm id-direzzjoni mhix ċara kompletament. Il-[Lancet Commission tal-2024](https://doi.org/10.1016/S0140-6736(24)01296-0) telenka l-iżolament soċjali fil-ħajja tard bħala wieħed minn 14-il fattur ta' riskju li jistgħu jinbidlu. [Is-sommarju tar-rapport mill-UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) jqiegħdu f'madwar 5% tal-każijiet tad-demenza madwar id-dinja.
 
-What the evidence shows:
+L-evidenza turi dan:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Inqas kuntatt, riskju ogħla.** Il-Commission tiddeskrivi żewġ reviżjonijiet li rabtu kuntatt soċjali inqas frekwenti ma' riskju ogħla ta' demenza. Waħda sabet madwar 57% riskju ogħla, u l-oħra madwar 18%.
+- **Anke s-solitudni.** Is-solitudni, is-sensazzjoni li tkun maqtugħ, kienet marbuta wkoll ma' riskju ogħla ta' demenza f'diversi reviżjonijiet.
+- **Il-fehma tal-Surgeon General.** F'Mejju 2023, il-Surgeon General tal-Istati Uniti ħareġ [avviż dwar is-solitudni u l-iżolament](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Jgħid li s-solitudni u l-iżolament kroniċi jistgħu jżidu r-riskju tad-demenza b'madwar 50% fl-anzjani. Irabat ukoll il-konnessjoni soċjali fqira ma' riskju ogħla b'29% ta' mard tal-qalb u riskju ogħla b'32% ta' puplesija.
+- **Kemm hi komuni.** [Rapport tal-Akkademji Nazzjonali](https://www.ncbi.nlm.nih.gov/books/NBK557972/) sab li madwar 24% tal-Amerikani ta' 65 sena jew aktar li jgħixu fil-komunità huma iżolati soċjalment.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Twissija importanti: il-Lancet Commission tgħid li n-nies jistgħu jnaqqsu l-attivitajiet soċjali matul il-fażi bikrija u mhux dijanjostikata tad-demenza. Dan ifisser li xi parti mir-rabta tista' tkun demenza li tikkawża l-irtirar, mhux biss irtirar li jżid ir-riskju. Kważi l-evidenza kollha ġejja minn studji ta' osservazzjoni.
 
-## What is the difference between loneliness and isolation?
+## X'inhi d-differenza bejn is-solitudni u l-iżolament?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+L-[Istitut Nazzjonali dwar l-Età (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) jispjegaha b'dan il-mod. **L-iżolament soċjali** tfisser li jkollok ftit kuntatti soċjali jew ftit nies li tinteraġixxi magħhom b'mod regolari. **Is-solitudni** hi s-sensazzjoni mdejqa li tkun waħdek jew separat. Xi ħadd jista' jgħix waħdu u jkun kuntent, u xi ħadd ieħor jista' jħoss waħdu f'kamra mimlija nies.
 
-The NIA lists factors that raise the risk of both:
+In-NIA jelenka fatturi li jżidu r-riskju taż-żewġ affarijiet:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Problemi fis-smigħ jew fil-vista
+- Diffikultà biex tiċċaqlaq, jew nuqqas ta' trasport
+- Li tgħix waħdek, jew telf kbir bħal mewt ta' mart jew ta' raġel, jew l-irtirar mix-xogħol
+- Bidliet fil-memorja jew fil-ħsieb
+- Il-kura ta' xi ħadd maħbub li mhux tajjeb
+- Thassib dwar il-flus jew ostakli tal-lingwa
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Is-smigħ hu fattur kbir. In-NIA jgħid li n-nies li ma jisimgħux tajjeb jistgħu jirtiraw minħabba li l-konverżazzjoni ssir iffrustrata jew imbarazzanti. Il-[gwida tagħna dwar is-smigħ u s-saħħa tal-moħħ](/brain-health/hearing/) tkopri l-iċċekkjar tas-smigħ u l-għajnuniet tas-smigħ li tista' tixtri mingħajr riċetta.
 
-## Practical ways to stay connected
+## Modi prattiċi biex tibqa' konness
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+In-NIA jissuġġerixxi firxa ta' ideat. Agħżel wieħed jew tnejn li jaqblu magħek:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Ippjana kuntatt regolari.** Ħin fiss kuljum jew kull ġimgħa biex issejjaħ, tibgħat messaġġ, tibgħat email jew tibgħat kartolina lill-familja, lill-ħbieb jew lill-ġirien.
+- **Uża videochats jew speakers intelliġenti.** Jekk it-teknoloġija hi ġdida, ħafna libreriji pubbliċi u ċentri komunitarji joffru klassijiet. Ara [il-gwida tagħna dwar sejħiet bit-telefon u bil-video](/activities/phone-and-video-calls/).
+- **Ingħaqad ma' xi ħaġa.** Klassi, komunità reliġjuża, grupp tal-mixi jew rwol ta' volontarjat jagħtuk kuntatt u sens ta' skop.
+- **Erġa' ibda hobby qadim** jew tgħallem wieħed ġdid ma' nies oħra.
+- **Imxi ma' oħrajn.** Agħmel eżerċizzju ma' ħabib jew ma' grupp. Il-[gwida tagħna dwar l-eżerċizzju](/brain-health/exercise/) fiha għażliet ħfief.
+- **Ikkunsidra annimal domestiku** jekk tista' tieħu ħsieb tiegħu.
+- **Uża servizzi lokali.** Ċentri għall-anzjani, l-Aġenziji Reġjonali għall-Anzjani u l-Eldercare Locator (800-677-1116) jistgħu jwasslukom għal programmi u trasport.
 
-## Why do shared activities matter in dementia?
+## Għaliex l-attivitajiet maqsuma huma importanti fid-demenza?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Għal xi ħadd li diġà jgħix bid-demenza, il-konnessjoni tirrigwarda l-pjaċir, il-kumdità u s-sensazzjoni li tkun inkluż, mhux it-tnaqqis tar-riskju. Il-Lancet Commission tgħid li l-attivitajiet jgħinu lin-nies bid-demenza jibqgħu jgawdu u jkollhom skop. [L-Assoċjazzjoni tal-Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) tgħid li, minbarra t-titjib tal-kwalità tal-ħajja, l-attivitajiet jistgħu jnaqqsu mġiba bħal l-mixi bla skop jew l-aġitazzjoni. [In-NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) iżid li n-nies bl-Alzheimer iridu jkunu attivi u jagħmlu affarijiet li jgawdu.
 
-Ideas that work well:
+Ideat li jaħdmu tajjeb:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Ħares lejn ritratti flimkien.** [Karti tal-Konversazzjoni](/games/conversation-cards/) joffru mistoqsijiet miftuħa, mingħajr kwiz, bħal “Għidli dwar...” Ara [il-gwida tagħna dwar ir-reminiscenza](/activities/reminiscence/).
+2. **Ilagħbu wieħed ħdejn l-ieħor.** [Pari ta' Ritratti](/games/picture-pairs/) iżomm ir-ritratti viżibbli u m'għandux timer jew punteġġ, għalhekk ma hemm ebda pressjoni. Il-gwida tagħna dwar [kif tilagħab flimkien](/caregiving/how-to-play-together/) fiha pariri.
+3. **Uża ritratti tal-familja.** [Pari ta' Ritratti tal-Familja](/games/photo-pairs/) iqallbu r-ritratti li tagħżel f'logħba ta' tqabbil, u r-ritratti jibqgħu fuq l-apparat tiegħek.
+4. **Ġib lin-nies flimkien.** [Bingo bir-Ritratti](/games/picture-bingo/) jaħdem għal laqgħat tal-familja u għal [gruppi f'djar tal-kura](/activities/care-home-groups/).
+5. **Aqsam il-mużika, ix-xogħlijiet tad-dar jew il-ġnien.** Ara [attivitajiet tal-mużika](/activities/music/), [xogħlijiet domestiċi](/activities/household-tasks/) u l-lista sħiħa tagħna ta' [ideat għal attivitajiet](/activities/ideas/).
+6. **Agħmel iż-żjarat aktar faċli.** Il-[gwida tagħna dwar iż-żjarat](/activities/visiting/) tkopri żjarat qosra u kalmi li jħossu tajjeb għal kulħadd.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Żomm kollox żgħir u rilassat. Kamra kwieta b'persuna jew tnejn spiss taħdem aħjar minn grupp kbir. Jekk il-persuna tgħaja jew titlef l-interess, l-waqfien hu tajjeb. Qgħod flimkien b'tazza te hu riżultat tajjeb ukoll.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Għal xi ħadd li jgħix waħdu bid-demenza, in-NIA jissuġġerixxi li ssib persuna fdata li tista' tiżur jew tagħmel videochat regolari u taqdi bħala kuntatt ta' emerġenza. Isemmi wkoll café tal-memorja lokali, spazju soċjali rilassat għal nies b'telf tal-memorja u għall-familji tagħhom.
 
-## Caregivers get lonely too
+## Il-kuraturi wkoll iħossuhom solitarji
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+In-NIA jelenka l-kura ta' xi ħadd maħbub bħala fattur ta' riskju għall-iżolament. Ipproteġi xi ħin għall-ħbiberiji tiegħek stess, għal gruppi ta' appoġġ u għall-mistrieħ. Il-[gwida tagħna dwar il-kura tal-kuratur](/caregiving/caregiver-self-care/) fiha ideat prattiċi.
 
-## Talk with a doctor
+## Kellem tabib
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Jekk int jew xi ħadd li tieħu ħsieb tiegħu tħossu solitarju jew iżolat ħafna mill-ħin, għid lit-tabib. In-NIA jħeġġeġ lin-nies jaqsmu bidliet kbar fil-ħajja, bħal mewt fil-familja, sabiex it-tabib jifhem il-pittura sħiħa. Li tħossok imdejjaq għal ġimgħat sħaħ jista' jkun depressjoni, u din tista' tiġi ttrattata. Jekk adult anzjan irtira minn ħbieb jew minn attivitajiet li kien jgawdi, dik il-bidla tistħoqqilha tiġi msemmija wkoll lit-tabib. Aqra [sinjali bikrija u meta għandek tara tabib](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Din il-paġna hi informazzjoni ġenerali, mhux parir mediku. Ara l-[avviż mediku](/medical-disclaimer/) tagħna.

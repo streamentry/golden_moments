@@ -1,32 +1,34 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Hetsika any ivelany sy zaridaina ho an’ny olona manana dementia"
+seoTitle: "Hetsika zaridaina sy any ivelany ho an’ny dementia"
+description: "Hevitra hetsika zaridaina sy any ivelany ho an’ny olona manana dementia: tanimboaloboaka ambony, vata, fiarovana amin’ny hafanana, ny masoandro ary ny fandehanana very."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Ny fambolena zaridaina sy ny fotoana any ivelany dia afaka ho hetsika mangina
+  sy mahazatra ho an’ny olona manana dementia. Andramo ny fanorana rano, fanorana
+  tanimboaloboaka ho an’ny ravina, fanesorana voninkazo maina na fandeha fohy
+  amin’ny zaridaina voarindrina. Ampiasao tanimboaloboaka ambony na latabatra
+  mba tsy hisy hiankohoka, aza ampiasa fitaovana mahamaina na zavamaniry
+  mampidi-doza, mivoaka amin’ny ampahany mangatsiaka amin’ny andro, ary mijanona
+  miaraka amin’ny olona foana.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Asa zaridaina tsotra toy ny fanorana rano, famafiana voaloboka, fofonana ravina sy fanangonana voninkazo dia azo atao mijoro na mipetraka."
+  - "Tanimboaloboaka ambony, vata ary latabatra misy tarana dia mampiakatra ny zaridaina ho amin’ny sehatra midina ary mampihena ny loza fianjerana."
+  - "Aza ampiasa fitaovana mahamaina, zavamaniry mihitsy na mampidi-doza, na zavatra mampahafaty. Jereo fa tsy ho heverina ho sakafo ny tany."
+  - "Mety ho loza ny hafanana ho an’ny olona antitra. Mivoaka aloha na ariva, entano rano sy aloka, ary miverena anaty trano raha misy famantarana fahatsorana voalohany."
+  - "Olona maro manana dementia dia mety handeha very amin’ny fotoana sasany. Mijanona miaraka amin’ny olona any ivelany ary tazomina sary vaovao sy karatra famantarana eo akaiky."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Inona no hetsika zaridaina azon’ny olona manana dementia atao?"
+    a: "Fanorana zavamaniry, famafiana voaloboka amin’ny vata kely, fofonana sy fikasihana ravina, fanesorana voninkazo maina, fanangonana legioma, fanamboarana voninkazo nodiovina ary fanafenana lalana dia safidy tsara. Ao an-trano, vata ravina eo amin’ny varavarankely na sahan’ny tany eo ambonin’ny latabatra misy tarana mety. Safidio ny asa araka izay tian’ny olona teo aloha sy azony atao androany mora."
+  - q: "Ahoana no fomba hiarovana olona manana dementia amin’ny hafanana?"
+    a: "Drafito ny fotoana any ivelany amin’ny maraina mangatsiaka na ariva, ataovy fohy, ary omeo rano matetika. Safidio aloka, satroka lapa-lehibe, akanjo maivana sy malalaka ary crème fiarovana amin’ny masoandro. Ny olona antitra dia mety ho tratry ny aretin’ny hafanana, ka raha hitanao ny fikorontanana, fanilo na fanaintainan-kibo, mivoaka ao anaty trano ary mangatsiaha avy hatrany."
+  - q: "Ahoana no ataonay hivoahana any ivelany raha mety handeha very izy?"
+    a: "Mijanona miaraka amin’ny olona mandritra ny fotoana rehetra, ampiasao zaridaina voarindrina misy varavarana mihidy, ary ampiasao tadin-kitapo misy famantarana vaovao. Tazomina sary vaovao. Raha very ny olona, antsoy haingana ny polisy eo an-toerana na serivisy fanampiana vonjy maika; aza miandry minitra voafaritra. Lazao amin’ny mpanampy fa manana dementia izy, izay nisy azy farany nohitana ary omeo sary vaovao."
+  - q: "Inona raha tsy manana zaridaina isika?"
+    a: "Vata vitsivitsy eo amin’ny varavarankely, boaty vata eo amin’ny varavarankely, na vata ravina eo ambonin’ny latabatra any an-trano fihinanana dia ampy. Afaka mitsidika toerana fandriana, zaridaina fiarahamonina na zaridaina mpiray tanàna koa ianao. Ny fipetrahana any ivelany sy ny fihainoana ny vorona dia hetsika any ivelany ihany koa."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +45,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +56,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Ho an’ny olona maro, ny zaridaina dia iray amin’ny toerana mahazatra indrindra fantany. Ny fandavaka tany, ny fanorana rano ary ny fanangonana voninkazo dia mampiasa fahaizana efa nianarana taloha, ary ny fivoahana any ivelany dia manome rivotra madio, masoandro ary feon’ny vorona. Ny National Institute on Aging dia milaza ny fikarakarana zavamaniry, famafiana voninkazo sy legioma, ary [ny fanazavana ny fomba fitomboan’ny zavamaniry](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ho anisan’ny hetsika mety ho tian’ny olona manana Alzheimer. Ity pejy ity dia mampiseho izay andramana, ny fomba hanamorana ny zaridaina, ary ny fomba fiarovana amin’ny hafanana, ny masoandro ary ny fandehanana very.
 
-## What outdoor and gardening activities work well?
+## Inona no hetsika any ivelany sy zaridaina mandeha tsara?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Ny asa tsara indrindra dia tsotra, mahazatra ary azo atao mijoro na mipetraka. Misafidiana araka izay tian’ny olona teo aloha.
 
-### In the garden
+### Ao amin’ny zaridaina
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Fanorana rano.** Vata kely maivana na tadin-rano malemy sy vata zavamaniry vitsivitsy eo akaiky. Ny fanorana rano dia manana fiandohana sy fiafarana mazava ary sarotra ny manao diso amin’izany.
+2. **Famafiana voaloboka amin’ny vata.** Ny Alzheimer’s Foundation of America dia manoro hevitra ny hamafy voaloboka amin’ny vata kely ary [hijery ny fitomboany](https://alzfdn.org/dementia-activity-gardening/). Ny voaloboka lehibe toy ny voanio, tamba-kiraro na voanjo dia mora kokoa ny mikasika.
+3. **Fanesorana voninkazo maina.** Ny fanatsindrana voninkazo efa maina amin’ny tanana dia asa malemy sy averina. Misafidiana zavamaniry tsy misy hazo maranitra.
+4. **Fanangonana legioma na ravina.** Tomatitra kely, voanio ary ravina dia mora ny manangona sy mahafinaritra ny mihinana. Entina anaty trano hampiasaina amin’ny sakafo antoandro.
+5. **Fofonana sy fikasihana ravina.** Rosemary, menta ary lavanda dia manana fofona mahery sy mahafinaritra. Mikosoka ravina eo anelanelan’ny rantsantanana ary ampitaovy izany.
+6. **Fanafenana lalana na patio.** Balai maivana eo amin’ny toerana maitso sy maina, raha mijanona ny fifandanjana.
+7. **Fameno vata vorona.** Dia mipetraka miaraka ary jereo izay tonga mitsidika.
 
-### Indoors, when going out is not possible
+### Ao anatiny, rehefa tsy azo atao ny mivoaka
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Zaridaina ravina eo amin’ny varavarankely**, toy ny basilika, persila na chives.
+- **Fametrahana vata eo ambonin’ny latabatra misy tarana.** Ny AFA dia manoro hevitra ny fampiasana tavoahangy toy ny an’ny cafeteria mba hitazomana ny tany eo amin’ny toerana iray, ary ny fihetsehana ny tany amin’ny kapoka kely.
+- **Fanamboarana voninkazo** amin’ny voninkazo voaroy sy ravina avy any an-tanimbary na amin’ny fivarotana sakafo.
+- **Voninkazo nodiovina** avy amin’ny vodi-boky, ary avy eo atao amin’ny karatra. Jereo ny [asa-tanana sy fanamboarana](/activities/arts-and-crafts/) hevitra bebe kokoa.
+- **Fanamboarana kitapo lavanda na rosy**, hevitra iray hafa avy amin’ny AFA izay mitazona ny fofon’ny zaridaina ao anatiny.
 
-### Getting out and about
+### Mivoaka sy mandeha
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Dia fohy** manodidina ny kianja, park na toerana fivarotana zavamaniry, amin’ny hafainganana miadana misy toerana hipetrahana.
+- **Mipetraka any ivelany** eo amin’ny terasa na seza fipetrahana mba hihaino ny vorona sy hahatsapa ny rivotra. Hetsika feno izany amin’ny maha-izy azy.
+- **Mitsidika zaridaina iraisam-pirenena** amin’ny fotoana mangina amin’ny andro. Ny NHS dia milaza fa misy toerana manana zaridaina fahatsapana misy zavamaniry mahamarina, rafitra samy hafa ary rano.
+- **Mamelona bibi-drano na mijery vorona** any amin’ny farihy eo an-toerana, mitazona lavitra tsara amin’ny sisin’ny rano.
 
-## How do I make a garden easier to use?
+## Ahoana no fomba hanamorana ny zaridaina ho azo ampiasaina?
 
-Bring the garden up to the person, not the other way around.
+Ento amin’ny olona ny zaridaina, fa tsy ny olona no hiakatra amin’ny zaridaina.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Tanimboaloboaka ambony na vata avo** eo amin’ny haavon’ny valahany, mba tsy hisy hiankohoka na hitoetra ambany.
+- **Vata eo ambonin’ny latabatra** mety amin’ny olona mampiasa seza fiaraha-mandeha na tia mipetraka.
+- **Lalana midadasika sy miendrika lefona** tsy misy vato miparitaka na tadin-rano mandry eo aminy, mba hampihenana ny loza fianjerana.
+- **Seza misy tanana sy aloka** eny an-dalana, mba ho azo atao foana ny fitsaharana.
+- **Fitaovana misy andriky matevina sy malemy** azo tanana mora. Aza ampiasa fitaovana fanaparitahana, antsy na zavatra rehetra maranitra.
+- **Faritra voarindrina misy varavarana mihidy** izay ahafahan’ny olona mandinika malalaka raha mijanona akaiky ianao.
 
-## Which plants should I avoid?
+## Inona no zavamaniry tokony hosorohana?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Misafidiana zavamaniry azo tanana tsy misy loza, ary raha azo atao, azo ampiasaina raha tsindrin-tsakaiza ihany koa. Ny AFA dia manoro hevitra ny hampiasana zavamaniry tsy mahatonga fanaintainan-koditra matetika, ny fijerena ny allergie, ary ny fijery mazava amin’ny olona izay mety hihevitra ny tany ho sakafo. Ny torolalana momba ny fiarovana ao an-trano avy amin’ny NIA dia misy ny fanesorana na fanakatonana ny zavamaniry mampidi-doza.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Sorohy ny roses misy hazo maranitra, cactus, ary zavamaniry misy sève mahatonga fanaintainan-koditra.
+- Jereo ny zavamaniry tsy azonao antoka aloha amin’ny foibe fanaraha-maso ny poizina na amin’ny fivarotana zaridaina eo an-toerana alohan’ny hamafiana azy.
+- Ny zavamaniry tiana mahazatra dia afaka manampy hahatsiaro fahatsapana mahafinaritra. Ny AFA dia milaza roses sy Christmas cactus ho ohatra. Misafidiana karazana tsy misy hazo.
+- Tazomina ho takatry ny tànana ny sakafo zavamaniry, pesticide ary fanafanana ahitra, ary aza ampiasaina amin’ny faritra azo hatrehin’ny olona.
 
-## How do I stay safe in the heat and sun?
+## Ahoana no fomba hiarovana ny hafanana sy ny masoandro?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Drafito ny fotoana any ivelany araka ny toetr’andro. Ny NIA dia manazava fa ny olona antitra dia ambony ny loza amin’ny [aretin’ny hafanana](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), noho ny fahasarotan’ny vatana amin’ny fiovan’ny mari-pana sy ny fanafody sasany izay manova ny fomba fitantanan’ny vatana ny hafanana.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Mivoaha aloha na ariva.** Aza mivoaka amin’ny antsasak’andro amin’ny volana mafana. Jereo ny habetsaky ny hafanana, tsy ny mari-pana fotsiny.
+- **Omeo rano matetika.** Aza miandry hilaza ny olona fa mangetaheta izy. Aza mampiasa toaka na zavatra misy kafeinina amin’ny hafanana.
+- **Mitafy mifanaraka.** Akanjo maivana loko mazava, satroka lapa-lehibe ary lendoha fiarovana masoandro.
+- **Ampiasao crème fiarovana amin’ny masoandro.** Ny NIA dia manoro hevitra ny SPF 15 na ambony, ampiasaina indray mandritra ny andro.
+- **Misafidiana aloka.** Apetraho ny latabatra fambolena ambanin’ny hazo na satroka.
+- **Ataovy fohy.** Fitaterana kely any ivelany dia ampy matetika, indrindra amin’ny andro mafana.
+- **Jereo ny famantarana loza.** Ny NIA dia milaza ny loha-marary, fikorontanana, fanilo na fanaintainan-kibo ho famantarana mety amin’ny aretin’ny hafanana. Ny olona manana dementia mety tsy hilaza fa tsy mahasalama izy, ka jereo ny endriky ny tavany sy ny fitondran-tenany. Mivoaha ao anaty trano, mangatsiaha amin’ny rano sy lamba mangatsiaka, ary mangataha fanampiana ara-pitsaboana raha tsy mihatsara haingana. Ny hamehan’ny hafanana, miaraka amin’ny famantarana toy ny fianjerana, fikorontanana, na hoditra maina sy mena, dia loza ara-pitsaboana: antsoy ny laharana fanampiana vonjy maika eo an-toerana.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Ny toetr’andro mangatsiaka koa manan-danja. Amin’ny ririnina, tazomina fohy ny fotoana any ivelany ary ataovy mahazo mafana sy maina ny tanana sy ny tongotra.
 
-## How do I handle wandering when we go outside?
+## Ahoana no fomba hiatrehana ny fandehanana very rehefa mivoaka isika?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Mijanona miaraka amin’ny olona isaky ny any ivelany izy. Ny Alzheimer’s Association dia milaza fa [enina amin’ny 10 olona manana dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) no handeha very indray mandeha farafahakeliny, ary maro no manao izany indray mandeha mihoatra. Mety hitranga amin’ny sehatra rehetra izany.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Ny [torolalana momba ny fandehanana very sy ho very](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) avy amin’ny NIA dia misy:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Ataovy mahazo famantarana na kofehy fitsaboana misy ny anarany, adiresy ary laharan-telefaonao, na marihy ny akanjony.
+- Tazomina sary na horonan-tsary vaovao momba ny olona.
+- Ampahafantaro ny mpifanolobo fa mety handeha very ny olona.
+- Arovy ny zaridaina amin’ny tamba-tanimboaloboaka sy varavarana mihidy.
+- Aza mamela olona manana tantara fandehanana very tsy misy mpiambina.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Ny Alzheimer’s Association dia manoro hevitra koa ny hamoronana faritra ao anatiny sy any ivelany izay azo sivanina amin’ny fomba azo antoka, ary ny fandrafetana hetsika amin’ny fotoana tena mety hisy ny fikorontanana. Ny fandehanana an-tongotra any amin’ny zaridaina azo antoka sy voarindrina dia mety mifanaraka tsara amin’ny [fahatsorana andro-hariva](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Raha very ny olona, jereo ny toerana azo antoka akaiky, ary mifandraisa haingana amin’ny polisy eo an-toerana na serivisy fanampiana vonjy maika. Aza miandry minitra voafaritra alohan’ny hitatitra. [Lahatsoratra an’ny Departemantin’ny Justisin’i Etazonia (2021) momba ny fanadihadiana ny olona very](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) dia milaza fa tsy tokony hisy fotoana fiandrasana voafaritra ny sampana fanjakana, ary milaza ny famantarana toy ny an’ny dementia ho olana ambony loza. Samy hafa ny fomba fitatitra eo an-toerana. Zarao ny fotoana sy ny toerana nisy azy farany nohitana, ny akanjony ary sary vaovao. Arahy ny toro-lalan’ny mpanampy eo an-toerana; aza mitady any amin’ny toerana mampidi-doza irery.
 
-## How do I adapt gardening as things change?
+## Ahoana no fomba hanovana ny zaridaina rehefa miova ny zavatra?
 
-| If this has become hard | Try this instead |
+| Raha efa sarotra izao | Andramo izao ho solony |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Famafiana tanimboaloboaka iray manontolo | Famafiana voaloboka iray ao amin’ny vata iray |
+| Fanesorana ahitra (fanavahana ahitra sy zavamaniry) | Fanorana rano, na fanesorana voninkazo maina izay mazava |
+| Mandeha manodidina ny zaridaina | Mipetraka eo amin’ny latabatra misy tavoahangy tany sy zavamaniry iray |
+| Mivoaka any ivelany mihitsy | Vata ravina eo amin’ny latabatra any an-trano fihinanana, na seza eo akaiky varavarankely misokatra |
+| Asa rehetra | Mipetraka any ivelany miaraka, mihaino sy mijery |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Ny olona sasany mahafinaritra ny mijery anao miasa. Ny NIA dia milaza fa azo ekena ny avelana ny olona hijery fotsiny raha izany no mahafinaritra azy.
 
-## When should we head inside?
+## Rehefa tokony hiverina ao anaty trano?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Miverena rehefa toa reraka, mafana loatra, mangatsiaka, tsy afa-po na vonona ho vita ny olona. Ny minitra folo mahafinaritra fohy dia tsara kokoa noho ny tolakandro lava izay miafara amin’ny fahoriana. Ny fanapahana aloha dia valiny tsara.
 
-## Bring the garden indoors on screen
+## Ampidiro ao anaty trano ny zaridaina amin’ny efijery
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Amin’ny andro orana, [Mandamina miaraka](/games/sort-together/) dia manana vata zaridaina ho an’ny fandamina sary, ary [Karatra fifampiresahana](/games/conversation-cards/) dia misy fanontaniana malalaka izay mety hitarika tantara momba ny zaridaina. Raha tonga avy amin’ny hafanana ianao ka mahatsapa fanamiginana, [Fisefoana mangina](/games/calm-breathing/) dia manome fitsaharana miadana ho an’ny roa tonta. Ho an’ny hevitra maro kokoa mifototra amin’ny fikasihana, ny fofona ary ny feo, jereo ny [torolalana momba ny hetsika fahatsapana](/activities/sensory/).

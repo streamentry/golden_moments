@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Беқарории бегоҳӣ: машғулиятҳои ором дар нимрӯзии дер барои одамони гирифтори деменсия"
+seoTitle: "Беқарории бегоҳӣ: машғулиятҳои ором дар нимрӯзии дер"
+description: "Тартиботи мулоим ва машғулиятҳои ором, ки шояд беқарории бегоҳиро дар деменсия сабук кунанд, ва кай барои нишонаҳои нав ба духтур рафтан лозим."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Беқарории бегоҳӣ (синдроми ғуруб) беқарорӣ, ошуфтагӣ ё асабоният аст, ки дар
+  нимрӯзии дер ё бегоҳ оғоз мешавад ё шиддат мегирад. Қадамҳои амалӣ, ки шояд
+  кумак кунанд: тартиботи собити рӯзона, рӯшноии рӯз ва фаъолият дар аввали
+  рӯз, хоби рӯзонаи дертар камтар, кофеини камтар, чароғҳои равшани дарунӣ пеш
+  аз шом, хонаи оромтар ва машғулиятҳои ором, ба монанди мусиқӣ, аксҳо ё
+  ҷамъ кардани либосҳои шуста. Нишонаҳои нав ё бадтаршаванда санҷиши духтурро
+  талаб мекунанд.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Беқарории бегоҳӣ маънои беқарорӣ ё ошуфтагиро дорад, ки бо торик шудани рӯз оғоз мешавад ё шиддат мегирад."
+  - "Корҳои душвор, сайрҳо ва оббозиро ба субҳ ё аввали нимрӯз гузоред."
+  - "Рӯшноии рӯз, сайри ҳаррӯза, хоби рӯзонаи камтар дар нимрӯзии дер ва кофеини камтар шояд ба гузаштани бегоҳҳо осонтар кумак кунанд."
+  - "Пеш аз шом чароғҳоро фурӯзон кунед, садоро паст кунед ва ба машғулиятҳои ором ва ошно гузаред."
+  - "Дафтарчаи қайд нигоҳ доред, то омилҳои ангезандаро пайхас кунед, ва вақте беқарорӣ оғоз мешавад, ором ва тасаллибахш бошед."
+  - "Барои нишонаҳои нав ё бадтаршаванда ба духтур муроҷиат кунед: дард, сироят ё доруҳо метавонанд нақш дошта бошанд."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Беқарории бегоҳӣ одатан дар кадом вақти рӯз рух медиҳад?"
+    a: "Он одатан дар нимрӯзии дер ё аввали бегоҳ, бо торик шудани рӯз, оғоз мешавад ё шиддат мегирад. Вақти дақиқ аз шахс ба шахс фарқ мекунад ва аз ин рӯ як-ду ҳафта нигоҳ доштани дафтарчаи кӯтоҳи қайд метавонад муфид бошад."
+  - q: "Кадом машғулиятҳо ба беқарории бегоҳӣ кумак мекунанд?"
+    a: "Машғулиятҳои ором, ошно ва кӯшиши кам, одатан дар нимрӯзии дер беҳтар кор мекунанд: мусиқии оромбахш, дидани аксҳо, барномаи дӯстдошта ё филм, ҷамъ кардани либосҳои шуста, сайри кӯтоҳ ё газаки якҷоя. Машғулиятҳои нав ё душворро барои аввали рӯз гузоред."
+  - q: "Оё беқарории бегоҳӣ метавонад нишонаи чизи тиббӣ бошад?"
+    a: "Онро мушкилоти саломатӣ, ба монанди дард, сироятҳо чун сирояти роҳҳои пешоб, мушкилоти хоб ё таъсири иловагии доруҳо бадтар карда метавонанд. Агар беқарорӣ нав, ногаҳонӣ ё бадтаршаванда бошад, ба духтури шахс муроҷиат кунед."
+  - q: "Оё дар бораи дору барои беқарории бегоҳӣ аз духтур бипурсам?"
+    a: "Ин сӯҳбатест, ки бояд бо духтур гузарад. Ассотсиатсияи Алтсгеймер мегӯяд, ки равишҳои бе дору одатан аввал афзалиятнок мебошанд ва ҳар дорое барои изтироби бегоҳӣ бояд танҳо пас аз баҳо додан ба хатарҳо ва фоидаҳо баррасӣ шавад. Ин саҳифа маслиҳати дорувор намедиҳад."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Бисёр оилаҳо як намунаро пайхас мекунанд: субҳҳо ба қадри кофӣ ором мебошанд, аммо бо гузашти нимрӯз шахси гирифтори деменсия беқарор, ташвишнок, ошуфта ё асабонӣ мешавад. Ӯ шояд қадам занад, хоҳиш кунад, ки «ба хона равад», ҳатто вақте ки дар хона аст, ё зуд ранҷад. Инро аксар вақт беқарории бегоҳӣ меноманд.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Як чораи ягона вуҷуд надорад, аммо тағйир додани ритми рӯз, ҳуҷра ва навъи машғулиятҳое, ки пешниҳод мекунед, шояд нимрӯзиҳои дерро оромтар кунад. Ин саҳифа ғояҳои амалӣ ва ғайритиббиро аз Институти миллии пиронсолӣ ва Ассотсиатсияи Алтсгеймер ҷамъ мекунад. Ин маслиҳати тиббӣ нест. Агар нишонаҳо нав, ногаҳонӣ ё бадтаршаванда бошанд, бо духтури шахс сӯҳбат кунед.
 
-## What is sundowning?
+## Беқарории бегоҳӣ чист?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Беқарории бегоҳӣ беқарорӣ, ташвиш, асабоният ё ошуфтагӣ аст, ки бо торик шудани рӯз, дар нимрӯзии дер ё аввали бегоҳ, оғоз мешавад ё шиддат мегирад. [Институти миллии пиронсолӣ (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) қайд мекунад, ки аз ҳад зиёд хаста будан метавонад беқарории нимрӯзии дерро афзоиш диҳад.
 
-## What can make late-day restlessness worse?
+## Чӣ метавонад беқарории нимрӯзии дерро бадтар кунад?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Якчанд чиз метавонад таъсир расонад, аксар вақт якҷоя. [Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) омилҳоеро номбар мекунад, ба монанди:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- хастагӣ пас аз рӯзи пурра;
+- муҳити нав ё ошуфтакунанда;
+- «соати дарунии бадан», ки бо вақт мувофиқат намекунад ва шахс рӯзона хобовар ва шабона бедор мемонад;
+- рӯшноии кам ва сояҳо, ки метавонанд ошуфта кунанд;
+- гирифтани фишор ё ноумедӣ аз одамони атроф;
+- ба хоби камтар ниёз доштан, ки дар калонсолон маъмул аст.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA сабабҳои умумии изтиробро илова мекунад, аз ҷумла дард, афсурдагӣ ё фишор, истироҳати кам, қабзият, садо ё одамони аз ҳад зиёд ва баъзе доруҳо ё таъсири мутақобилаи доруҳо.
 
-## How can I plan the day to make evenings calmer?
+## Рӯзро чӣ тавр банақша гирам, ки бегоҳҳо оромтар шаванд?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Корҳои душворро ба пештар гузаронед ва нимрӯзии дерро мулоим ва пешбинишаванда нигоҳ доред. Ҳам NIA ва ҳам Ассотсиатсияи Алтсгеймер тартиботи доимиро тавсия медиҳанд. Рӯзи намунавӣ, ки онро ба рӯзи худ мутобиқ мекунед:
 
-| Time | What may help |
+| Вақт | Чӣ метавонад кумак кунад |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Субҳ | Вохӯриҳо, оббозӣ, сайрҳо ва ҳар кори кӯшишталаб, вақте ки бисёр одамон ҳушёртаринанд |
+| Охири субҳ | Вақт дар беруни хона ё назди тирезаи офтобӣ; сайр ё машғулияти дигар |
+| Нисфирӯзӣ | Хӯроки нисфирӯзии пуртар (Ассотсиатсияи Алтсгеймер хӯроки нисфирӯзии калонтар ва хӯроки шоми сабуктарро тавсия медиҳад) |
+| Аввали нимрӯз | Агар лозим бошад, истироҳат, аммо аз хоби рӯзонаи дароз дар охири рӯз худдорӣ кунед |
+| Нимрӯзии миёна то дер | Машғулиятҳои ором ва ошно; газак ва нӯшокӣ; бе кофеин |
+| Пеш аз шом | Чароғҳои даруниро фурӯзон кунед ва пеш аз торик шудан пардаҳоро кашед |
+| Бегоҳ | Хӯроки сабуктар, мусиқии ором, ҳавасмандии кам, тартиботи собити хоб |
 
-A few specific points from the sources:
+Чанд нуктаи мушаххас аз манбаҳо:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Рӯшноии рӯз.** NIA пешниҳод мекунад, ки ҳар рӯз барои офтоб вақтро дар беруни хона ё назди тиреза ташкил кунед.
+- **Ҳаракати ҳаррӯза, аммо на аз ҳад зиёд.** Мувофиқи NIA, ҳадаф ин аст, ки ҳар рӯз ҷисмонӣ фаъол бошед, бе он ки машғулиятҳои аз ҳад зиёд банақша гиред.
+- **Нӯшокиҳои нимрӯзии дер.** Аз спирт ва нӯшокиҳои кофеиндор, ба монанди қаҳва ё кола, дар охири рӯз худдорӣ кунед (NIA). Ассотсиатсияи Алтсгеймер низ никотинро зикр мекунад.
+- **Хоби рӯзона.** Хоби дароз ва пинакро дар охири рӯз манъ кунед (NIA). Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки агар хоби шабона мушкил бошад, хоби рӯзонаро маҳдуд кунед.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Барои маълумоти бештар дар бораи сохтани рӯзи собит [машғулиятҳои тартиботи рӯзона](/activities/daily-routine/)-ро бинед.
 
-## How can I make the home calmer in the late afternoon?
+## Хонаро дар нимрӯзии дер чӣ тавр оромтар кунам?
 
-Reduce noise, add light and keep familiar things close.
+Садоро кам кунед, рӯшноӣ илова намоед ва чизҳои ошноро наздик нигоҳ доред.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Рӯшноии равшан ва ҳамвор.** Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки хона бегоҳӣ хуб равшан бошад. Пеш аз пайдо шудани сояҳо фазоро равшан кунед.
+- **Садои камтар.** Телевизор ва радиоро хомӯш ё паст кунед ва дар ин вақт меҳмонон ё корҳои серкори хонаро маҳдуд намоед. Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки ҳавасмандии бегоҳиро, ба монанди телевизор, корҳои хона ва мусиқии баланд, кам кунед.
+- **Роҳатиҳои ошно.** NIA мусиқии оромбахшро ва нигоҳ доштани ашё ва аксҳои азизро дар хона пешниҳод мекунад.
+- **Санҷиши роҳатӣ.** Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки дард, гуруснагӣ, ташнагӣ, қабзият, масонаи пур, хастагӣ, сироятҳо ва асабоният дар пӯстро санҷед ва ҳуҷраро дар ҳарорати мувофиқ нигоҳ доред.
+- **Кайфияти худи шумо.** Одамон фишорро ҳис мекунанд. NIA тавсия медиҳад, ки суръати худро суст кунед ва кӯшиш намоед ором шавед, агар ташвишҳои худи шумо ба шиддат илова кунанд.
 
-## What calm activities can we do in the late afternoon?
+## Кадом машғулиятҳои ором дар нимрӯзии дер карда метавонем?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Машғулиятҳоеро интихоб кунед, ки ошно, бе шитоб ва қатъ кардани онҳо осон бошад. Ассотсиатсияи Алтсгеймер машғулиятҳои оромбахш, ба монанди мусиқии ором, аксҳо ё филми дӯстдошта, ва сайри якҷоя барои сабук кардани беқарориро пешниҳод мекунад. NIA газак ё нӯшокӣ, барномаи телевизионии дӯстдошта, мусиқӣ, сайр, хондан ё кори оддии хона, ба монанди ҷамъ кардани либосҳои шустаро пешниҳод мекунад.
 
-Ideas to try:
+Ғояҳо барои кӯшиш:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Якҷоя либосҳои шустаро ҷамъ кунед.** NIA чунин кори оддии хонаро пешниҳод мекунад. Сачоқҳоро кор кардан осон аст ва кор охири равшан дорад.
+2. **Мусиқии дӯстдоштаро гузоред.** Сурудҳои ошно аз солҳои ҷавонии ӯ, бо садои паст. Ҳамовозӣ ҳам ҳисоб мешавад. Ғояҳои бештар дар [машғулиятҳои мусиқӣ](/activities/music/).
+3. **Аксҳоро бубинед.** Албоми акс, ё чанд акси оилавӣ дар [Ҷуфтҳои акс](/games/photo-pairs/) бо тасвирҳои намоён метавонад ба сӯҳбати ором оварад.
+4. **Сайри кӯтоҳ кунед.** Гирду атрофи боғ, кӯча ё долон, пеш аз торик шудан.
+5. **Газак ва нӯшокиро якҷоя хӯред.** Чизи оддӣ, гарм ва бе кофеин, дар сари миз якҷоя.
+6. **Мувофиқкунии мулоим.** [Ҷуфтҳои тасвирӣ](/games/picture-pairs/) бо чор плитка ва тасвирҳои намоён оғоз кардан ва қатъ кардан осон аст.
+7. **Ранг кардан.** [Ранг кардан](/games/coloring/) дар экран ё саҳифаи чопшуда, бе ҳадафи анҷом додан.
+8. **Дидан ва сӯҳбат.** [Кортҳои сӯҳбат](/games/conversation-cards/) тасвир ва пешниҳоди кушод медиҳанд. Танҳо нигоҳ кардан кофист.
+9. **Таваққуфи нафаскашӣ.** [Нафаскашии ором](/games/calm-breathing/) таваққуфи оҳиста ва ором аст, ки худатон оғоз ва қатъ мекунед.
+10. **Корҳои даст.** Ҷудо кардани тугмаҳо ё ҷуроб, ҳамвор кардани кӯрпаи нарм ё доштани ашёи ошно. Нигаред: [машғулиятҳои ҳиссӣ](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Бозиҳои нав, сайрҳои серкор ва ҳар чизеро, ки хотира ё тамаркузи зиёд талаб мекунад, дар охири рӯз аз миён бардоред. Онҳоро барои субҳ гузоред.
 
-## What should I do when restlessness starts?
+## Вақте беқарорӣ оғоз мешавад, чӣ кор кунам?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Ором бошед, тасаллӣ диҳед ва бо мулоимӣ диққатро ба чизи дигар равона кунед. NIA пешниҳод мекунад, ки ором сухан гӯед, ба нигарониҳои шахс гӯш диҳед, аз баҳс худдорӣ кунед, ба ӯ боварӣ диҳед, ки дар амният аст, ва агар кумак кунад, аз ламси мулоим истифода баред. Баъд гардонидани диққатро кӯшиш кунед: газак, нӯшокӣ, мусиқӣ ё сайр.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Ассотсиатсияи Алтсгеймер ибораҳоеро, ба монанди «Шумо дар ин ҷо дар амнияти» ва «Мебахшед, ки шумо ранҷидед» пешниҳод мекунад ва тавсия медиҳад, ки рӯшноӣ илова кунед, суръатро суст намоед ва ҳавасмандиро маҳдуд кунед. Шахсро ба кунҷ набарон, ба вай ҳуҷум накунед, ӯро маҳдуд накунед ва бо ӯ баҳс накунед.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Агар шахс таҷовузкор шавад, NIA тавсия медиҳад, ки то қатъ шудани рафтор дар масофаи бехатар бимонед. Дар ҳолати фавқуллода ба рақами ёрии таъҷилии маҳаллии худ занг занед ва шарҳ диҳед, ки шахс деменсия дорад. [Роҳнамои мо оид ба посух ба хашм ва таҷовуз](/caregiving/when-anger-becomes-aggression-with-dementia/) бехатарии фаврӣ ва корҳои баъдиро фаро мегирад.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Роҳнамоҳои мо дар бораи [муошират](/caregiving/communication-tips/) ва [чӣ кор кардан, вақте ки шахс «не» мегӯяд](/caregiving/when-they-say-no/) дар бораи суханони оромбахш бештар маълумот доранд.
 
-## How do I find the triggers?
+## Омилҳои ангезандаро чӣ тавр ёбам?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Як-ду ҳафта дафтарчаи кӯтоҳи қайд нигоҳ доред. Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки барои ёфтани омилҳои ангезанда он чиро, ки пеш аз эпизодҳои беқарории бегоҳӣ рух медиҳад, пайгирӣ кунед. Вақти оғози беқарорӣ, он чи дар соати пеш рух дод, хоби рӯзона, хӯрокҳо ва нӯшокиҳо, меҳмонон, садо ва рӯшноиро қайд кунед. Дафтарчаро назди духтур баред. NIA қайд мекунад, ки пайгирии тағйироти рафтор метавонад ба парваришгарон ва провайдерҳои тиббӣ барои шинохтани намуна кумак кунад.
 
-## When should I call a doctor about sundowning?
+## Кай бояд дар бораи беқарории бегоҳӣ ба духтур муроҷиат кунам?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Агар беқарорӣ нав, ногаҳон бадтар шуда бошад ё бо тағйироти дигар ҳамроҳ бошад, ба духтури шахс муроҷиат кунед. NIA мегӯяд, ки тағйироти ногаҳонӣ ё зуд-зуд тағйирёбандаи рафтор, хусусан пас аз сироят ё тағйири охирини доруҳо, бояд фавран ба диққати духтур расонида шавад.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Аз духтур хоҳиш кунед, ки чизҳоеро, ки бегоҳҳоро душвортар мекунанд, санҷад. Ассотсиатсияи Алтсгеймер мушкилоти ҷисмониро, ба монанди сироятҳои роҳҳои пешоб, беихтиёрии пешоб, пойҳои беқарор ва апнои хобро зикр мекунад ва тавсия медиҳад, ки пурсед, ки кадом вақтҳои рӯз барои ҳар дору беҳтарин аст. NIA дард, қабзият ва таъсири иловагӣ ё мутақобилаи доруҳоро дар қатори сабабҳои эҳтимолии изтироб номбар мекунад.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Ассотсиатсияи Алтсгеймер мегӯяд, ки равишҳои бе дору барои мушкилоти хоби алоқаманд бо Алтсгеймер одатан афзалиятнок аст ва дору барои изтироби нимрӯзии дер бояд танҳо дар сурате баррасӣ шавад, ки онҳо кор накунанд, пас аз баҳо додан ба хатарҳо ва фоидаҳо. Ин қарор ба духтур тааллуқ дорад. Бе маслиҳати тиббӣ ягон дору, воситаи хоб ё иловаро оғоз, қатъ ё тағйир надиҳед.
 
-## How do I get through the evenings myself?
+## Худам бегоҳҳоро чӣ тавр паси сар кунам?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Нимрӯзиҳои дер метавонанд душвортарин қисми рӯзи парваришгар бошанд. Агар тавонед, аз аъзои оила, дӯст ё ёрдамчии музднок хоҳиш кунед, ки чанд рӯз дар як ҳафта нимрӯзии дерро ба зимма гирад, ҳатто як соат. [Роҳнамои мо оид ба нигоҳубини худи парваришгар](/caregiving/caregiver-self-care/) имконоти нигоҳубини муваққатӣ ва Хати ройгони 24/7-и Ассотсиатсияи Алтсгеймерро номбар мекунад.

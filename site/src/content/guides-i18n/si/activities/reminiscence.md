@@ -1,32 +1,28 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "මතකය අවදි කිරීමේ ක්‍රියාකාරකම්: මතක පෙට්ටි, ජීවිත කථා සහ ඡායාරූප"
+seoTitle: "ඩිමෙන්ශියාව සඳහා මතකය අවදි කිරීමේ ක්‍රියාකාරකම්: ප්‍රශ්න නොවන අදහස්"
+description: "පරීක්ෂණයක් නොව, ඩිමෙන්ශියා ඇති කෙනෙකු සමඟ මතක බෙදා ගන්නේ කෙසේද: ඡායාරූප කතා, මතක පෙට්ටි සහ ජීවිත කථා පොත්."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  මතකය අවදි කිරීම යනු අතීතය එකට රසවිඳීමයි: ඡායාරූප, වස්තු, සංගීතය සහ කථා හරහා. මතක පෙට්ටියක්, සරල ජීවිත කථා පොතක් හෝ ඡායාරූප එකට බැලීම උත්සාහ කරන්න. කිසි විටෙක ප්‍රශ්න නොකරන්න: “ඔයාට මතකද?” සහ “මේ කව්ද?” වළකින්න, සහ “මට මේ ගැන කියන්න” වැනි විවෘත ආරාධනා භාවිත කරන්න. උණුසුම් සංවාදය නිවැරදි කරුණු ලබා ගැනීමට වඩා වැදගත්ය.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "මතකය අවදි කිරීම සංවාදයකි, පරීක්ෂණයක් නොවේ. නිවැරදිභාවය නොව, රසවිඳීම වැදගත්ය."
+  - "“ඔයාට මතකද...?” සහ “මේ කව්ද?” වෙනුවට අදහස් සහ “ඒ දවස ගැන මට කියන්න” වැනි ආරාධනා භාවිත කරන්න."
+  - "පුද්ගලයාගේ ජීවිතයෙන් වස්තු සහිත මතක පෙට්ටියක් අත්වලට සහ සංවාදයට රඳා සිටීමට යමක් ලබා දෙයි."
+  - "ජීවිත කථා පොතක් පවුලට, අමුත්තන්ට සහ රැකබලා ගන්නා කාර්ය මණ්ඩලයට රෝග විනිශ්චයට වඩා පුද්ගලයා දැන ගැනීමට උදව් කරයි."
+  - "මතකයක් දුකක් ගෙන ආවොත්, පළමුව සහනදායක වන්න, ඉන්පසු මෘදුව ඉදිරියට යන්න."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "ඩිමෙන්ශියා ඇති අයට මතකය අවදි කිරීම යනු කුමක්ද?"
+    a: "මතකය අවදි කිරීම යනු මතක සහ අතීත අත්දැකීම් බෙදා ගැනීමයි, බොහෝ විට ඡායාරූප, වස්තු, සංගීතය හෝ වීඩියෝ උදව් කර ගැනීමෙන්. එය එක් අයෙක් සමඟ හෝ කණ්ඩායමකින් සිදුවිය හැක. අරමුණ වන්නේ සුඛදායී, අර්ථවත් සංවාදයක් ඇති කිරීමයි, පුද්ගලයා මතක තබා ගත හැකි දේ පරීක්ෂා කිරීම නොවේ."
+  - q: "“ඔයාට මතකද?” කියා මම ඇසිය යුත්තේ ඇයි?"
+    a: "මතකය පරීක්ෂා කරන ප්‍රශ්න පුද්ගලයා ලජ්ජාවට හෝ කනස්සල්ලට පත් කළ හැක, පිළිතුර නොඑන විට. National Institute on Aging කෙනෙකු යමක් හෝ යමෙකු මතක තබා ගන්නේද කියා ඇසීම වළකින දේ අතර ලැයිස්තුගත කරයි. ඒ වෙනුවට දේ ගැන සටහන් කර, පුද්ගලයාට අවශ්‍ය ඕනෑම දෙයක් එකතු කිරීමට ඉඩ දෙන්න."
+  - q: "මතක පෙට්ටියේ මොනවා තිබිය යුතුද?"
+    a: "පුද්ගලයාගේ ජීවිතයට සම්බන්ධ ආරක්ෂිත, ශක්තිමත් වස්තු තෝරන්න: වැඩ භාණ්ඩ, විනෝද උපකරණ, ප්‍රිය ගෙල රෙදි, පෝස්ට්කාඩ්, රෙසිපි කාඩ්පත්, ක්‍රීඩා සිහිවටන හෝ ඡායාරූපවල පිටපත්. තියුණු වස්තු, ගිලීමට හැකි කුඩා දේවල් සහ ප්‍රතිස්ථාපනය කළ නොහැකි මුල් දේවල් වළකින්න."
+  - q: "ඔවුන් කරුණු වැරදියට කීවොත් කුමක් කළ යුතුද?"
+    a: "එය මගහරින්න. ඔබේ අම්මා ඡායාරූපයේ සිටින්නේ ඇගේ සහෝදරිය යැයි කීවොත්, ඇය සැබවින් ඇගේ මාමාගේ දුව වුවද, එය හොඳය. නිවැරදි කිරීම උණුසුම් මොහොතක් පරීක්ෂණයක් බවට පත් කරයි. ඔවුන් කියන කථාව අනුගමනය කර එය එකට රසවිඳින්න."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +37,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+මතකය අවදි කිරීම සරලව අතීතය එකට රසවිඳීමයි. ඩිමෙන්ශියාව ඇති බොහෝ දෙනා සඳහා, දශක ගණනකට පෙර මතක, අද උදේ සිදු වූ දේට වඩා පැහැදිලිව පවතී. ඡායාරූප, හුරු වස්තු, සංගීතය සහ කථා එම මතක විවෘත කර, ඔබට බෙදා ගත හැකි උණුසුම් දෙයක් ලබා දිය හැක. එක් නීතියක් පමණි: එය සංවාදයකි, කිසිවිටෙක ප්‍රශ්නාවලියක් නොවේ.
 
-## What is reminiscence, and how is it different from quizzing?
+## මතකය අවදි කිරීම කුමක්ද, සහ එය ප්‍රශ්න කිරීමෙන් වෙනස් වන්නේ කෙසේද?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+මතකය අවදි කිරීම යනු ඡායාරූප, වස්තු, සංගීතය හෝ වීඩියෝ හරහා මතක බෙදා ගැනීමයි, පුද්ගලයාගේම වේගයෙන්. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) එය විස්තර කරන්නේ ඡායාරූප, වස්තු, වීඩියෝ හෝ සංගීතයේ උදව් ඇතිව, පොතකින් හෝ ටැබ්ලට් එකකින්, අතීත අත්දැකීම් සහ කථා බෙදා ගැනීමක් ලෙසය. ප්‍රශ්න කිරීම වෙනස්ය: එය පුද්ගලයාගෙන් නිවැරදි පිළිතුරක් නිපදවීමට ඉල්ලයි, සහ එය ලජ්ජාවක් ඇති කළ හැක, රසවිඳීමට වඩා.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) කෙනෙකු යමක් හෝ යමෙකු මතක තබා ගන්නේද කියා ඇසීම වළකින දේ ලෙස ලැයිස්තුගත කරයි. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) කෙටිකාලීන මතකය මත රඳා පවතින ප්‍රශ්න වළකින ලෙසත්, ඒ වෙනුවට දුරස්ථ අතීතය ගැන කතා කරන ලෙසත් යෝජනා කරයි.
 
-| Instead of | Try |
+| ඒ වෙනුවට | මේක උත්සාහ කරන්න |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “මේක ඔයාට මතකද?” | “මේක සතුටු දවසක් වගේ. ඒ ගැන මට කියන්න.” |
+| “මේ කව්ද?” | “මෙන්න ඇන්ටි රෝස වෙරළේදී. ඒ තොප්පිය බලන්න.” |
+| “ඒක කුමන අවුරුද්දේද?” | “මේක පැරණි ගෙදර වගේ. එහි ජීවත් වීම කෙසේද වුණේ?” |
+| “නෑ, ඒ බිල් නෙවෙයි, ෆ්‍රෑන්ක්.” | “ඔහු ගොඩාක් විනෝදජනක පෙනෙනවා.” |
+| “ඔයා ඒක මට දැනටමත් කියලා තියෙනවා.” | “ඒ කතාව මට ගොඩාක් ආදරයි.” |
 
-## How do you talk about photos without quizzing?
+## ඡායාරූප ගැන ප්‍රශ්න නොකර කතා කරන්නේ කෙසේද?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+ඔබ දකින දේ සමඟ ආරම්භ කර, පසුව පුද්ගලයාට ඕනෑම දෙයක් එකතු කිරීමට ඉඩක් තබන්න.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **එක පැත්තට පැත්තට වාඩි වන්න.** ඇල්බමය ඔබ දෙදෙනා අතර තබා, මේසයක් හරහා පරීක්ෂා නොකර එකට බලන්න.
+2. **ඡායාරූප කිහිපයක් තෝරන්න.** හොඳ ඡායාරූප පහක් ම මුළු පෙට්ටියටම වඩා හොඳය. විශාල, පැහැදිලි මුද්‍රණ හොඳින් වැඩ කරයි.
+3. **මිනිසුන් ඔබම නම් කරන්න.** “මෙන්න ඔයයි තාත්තයි ඔයාගේ මංගල දවසේදී” යැයි කීම පීඩනය ඉවත් කරයි.
+4. **විස්තර ගැන අදහස් දක්වන්න.** ඇඳුම්, මෝටර් රථ, ආහාර, කාලගුණය, මුහුණු. “මොන මෝටර් රථයක්ද. දිලිසෙනවා වගේ.”
+5. **ආරාධනා කරන්න, ඉල්ලන්න නොව.** “මට කියන්න...” හෝ “ඔයාට මොනවා පේනවාද?” නිහඬතාව හොඳය.
+6. **පුද්ගලයාගේ මඟ අනුගමනය කරන්න.** ඔවුන් සම්පූර්ණයෙන් වෙනත් දෙයක් ගැන කතා කළොත්, ඒ සමඟ යන්න.
+7. **රසවිඳින අතරේ නවතන්න.** වෙහෙසට පෙර ඇල්බමය වසා දමන්න.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+ප්‍රකට චිත්‍ර ඉඟි සඳහා, [සංවාද කාඩ්පත්](/games/conversation-cards/) උත්සාහ කරන්න. ඔබේම පවුල් ඡායාරූප මෘදු ගැලපීමේ ක්‍රීඩාවක් බවට පත් කිරීමට, [ඡායාරූප යුගල](/games/photo-pairs/) උත්සාහ කරන්න; ඔබ තෝරන ඡායාරූප ඔබේ බ්‍රවුසරයේම පවතී.
 
-## How do you make a memory box?
+## මතක පෙට්ටියක් සාදන්නේ කෙසේද?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+මතක පෙට්ටියක් යනු පුද්ගලයාගේ ජීවිතයෙන් ලබාගත් වස්තූන් අඩංගු බඳුනක් වන අතර, ඒවා අතට ගෙන ඒ ගැන කතා කළ හැක.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **ශක්තිමත් පෙට්ටියක් තෝරන්න** විවෘත කිරීමට පහසු, උදාහරණයක් ලෙස සපත්තු පෙට්ටියක්, තොප්පි පෙට්ටියක් හෝ කුඩා දැව පෙට්ටියක්.
+2. **තේමාවක් හෝ මිශ්‍රණයක් තෝරන්න.** වැඩ, විනෝදයක්, ස්ථානයක්, දශකයක්, හෝ ඒවා සියල්ලම එක් කරන්න.
+3. **ආරක්ෂිත වස්තු එකතු කරන්න.** ආරම්භ කිරීමට අයිතම පහක් හෝ දහයක් ප්‍රමාණවත්ය.
+4. **ප්‍රතිස්ථාපනය කළ නොහැකි දේවල්වල පිටපත් භාවිත කරන්න.** ප්‍රතිස්ථාපනය කළ නොහැකි ඡායාරූප සහ ලේඛන පිටපත් කර, මුල් දේවල් ආරක්ෂිතව තබා ගන්න.
+5. **වස්තූන් එක වරකට එකක් බැගින් ඉවත් කරන්න.** එකක් ලබා දී, ඒ ගැන යමක් කියා, සංවාදය යන දිශාව බලන්න.
 
-Ideas to include:
+ඇතුළත් කළ හැකි අදහස්:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **වැඩ:** නම් ටැග් එකක්, කුඩා මෙවලමක්, නිල ඇඳුමේ ලාංඡනයක්, ලෙජරයක්, හෙදියකගේ පින්, ආහාර ශාලාවක පිහුම් පොතක්.
+- **නිවස:** ඔවුන්ගේ අතකුරින් ලියූ රෙසිපි කාඩ්පතක්, ටී ටවල් එකක්, ප්‍රිය ගෙල රෙදි හෝ ටයි එකක්.
+- **විනෝද:** කොක්ක නැති මසුන් ඇල්ලීමේ ලූර් එකක්, බේස්බෝල් එකක්, නූල් බෝලයක්, මල් බීජ පැකට් එකක්.
+- **ස්ථාන:** පෝස්ට්කාඩ්, සිතියම්, සංචාරක සිහිවටනයක්, ගම්මානයේ පුවත්පත් කැපුමක්.
+- **පවුල:** ඡායාරූපවල පිටපත්, දරුවෙකුගේ චිත්‍රයක්, විවාහ ආරාධනාවක්.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+තියුණු වස්තු, ගිලීමට හැකි කුඩා දේවල්, සහ ඒවා සාදරයෙන් පිළිගන්නා බව ඔබ දන්නේ නැත්නම්, වේදනාකාරී මතක ගෙන එන ඕනෑම දෙයක් ඉවත් කරන්න.
 
-## How do you make a life-story book?
+## ජීවිත කථා පොතක් සාදන්නේ කෙසේද?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+ජීවිත කථා පොතක් යනු පුද්ගලයාගේ ජීවිතය ගැන කෙටි සටහන් සහිත ඡායාරූප සරල ඇල්බමයකි. එය එකට බැලීමට දෙයක් වන අතර, අමුත්තන්ට සහ රැකබලා ගන්නා කාර්ය මණ්ඩලයට සම්පූර්ණ පුද්ගලයා දැකීමට උදව් කරයි.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **ආකෘතියක් තෝරන්න.** ෂීට් ප්‍රොටෙක්ටර් සහිත බයින්ඩරයක්, මුද්‍රිත ඡායාරූප පොතක්, හෝ ටැබ්ලට් එකක ස්ලයිඩ්ෂෝවක්.
+2. **කොටස් කිහිපයක් සැලසුම් කරන්න.** ළමා කාලය, පාසල, වැඩ, පවුල, ජීවත් වූ ස්ථාන, ඇදහිල්ල, විනෝද, ප්‍රිය ආහාර සහ සංගීතය.
+3. **පිටුවකට ඡායාරූප එකක් හෝ දෙකක්** කෙටි, විශාල අකුරු සහිත සටහනක් සමඟ: “මේරි, වයස 22, බැංකුවේ වැඩට පටන් ගන්නේ.”
+4. **කැමැත්ත සහ චර්යා ඇතුළත් කරන්න.** “කිරි සහිත කෝපි ගන්නවා. ඉරිදා ගීතිකා ආදරයි. හයියෙන් කරන රූපවාහිනිය අප්‍රිය.” මෙය ඔවුන් රැකබලා ගන්නා ඕනෑම කෙනෙකුට උදව් කරයි.
+5. **පුද්ගලයා ඔවුන්ට අවශ්‍ය තරම් සම්බන්ධ කරන්න,** ඡායාරූප තෝරා, කථා කියා, හෝ පොත එකට එකතු වනු බලමින්.
+6. **දිගටම එකතු කරන්න.** ප්‍රයෝජනවත් වීමට එය සම්පූර්ණ විය යුතු නැත.
 
-## More reminiscence ideas
+## තවත් මතකය අවදි කිරීමේ අදහස්
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **ඔවුන්ගේ තරුණ කාලයේ සංගීතය වාදනය කර** එය ඔවුන් ගෙන යන තැන ගැන කතා කරන්න. [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
+- **ප්‍රිය දශකවල ගෙදර වීඩියෝ හෝ රූපවාහිනී වැඩසටහන් බලන්න.**
+- **ළමා කාලයේ ආහාරයක් පිසින්න** සහ සුවඳ සංවාදයට මඟ පෙන්වන්න.
+- **ඔවුන්ගේ ගම්මානයේ සිතියමක් බලා** හුරු වීදි රේඛා කරන්න.
+- **පැරණි කැට්ලොග් හෝ සඟරා ගෙන** මිල, විලාසිතා සහ මෝටර් රථ ගැන කතා කරන්න.
+- **ඔවුන්ගේ කථා දුරකථනයෙන් පටිගත කරන්න,** ඔවුන්ගේ අවසරයෙන්, පවුලට.
+- **ඇමතුම්වලදී බෙදා ගන්න.** වීඩියෝ ඇමතුමකදී එක් ඡායාරූපයක් ඔසවන්න; [වීඩියෝ සහ දුරකථන ඇමතුම්](/activities/phone-and-video-calls/) බලන්න.
+- **ඔබ බැලීමට යන විට ඡායාරූපයක් හෝ වස්තුවක් ගෙන යන්න.** එය බැලීමට පහසු අවධානයක් ලබා දෙයි; [බැලීමට යාම](/activities/visiting/) බලන්න.
 
-## What if a memory is painful?
+## මතකයක් වේදනාකාරී නම් කුමක් කළ යුතුද?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+සමහර මතක ශෝකය, පසුතැවිල්ල හෝ බිය ගෙන එයි. පුද්ගලයා කලබල වුවහොත්, නවතා, ඔවුන්ව සහනදායී කර, මෘදුව මාතෘකාව හෝ ක්‍රියාකාරකම වෙනස් කරන්න. සිදු වූ දේ ගැන තර්ක නොකරන්න. Family Caregiver Alliance උපදෙස් දෙන්නේ පුද්ගලයාට ඔවුන් වැරදි බව ඒත්තු ගැන්වීමට උත්සාහ නොකර, ඔවුන් පෙන්වන හැඟීම්වලට ප්‍රතිචාර දක්වන ලෙසයි, ඒවා සැබෑ ය. ඔවුන් මිය ගිය කෙනෙකු ගැන ජීවතුන් මෙන් කතා කළොත්, හැඟීමට ප්‍රතිචාර දක්වන්න: “ඔබට ඇය මිස් වෙනවා. ඇය ගැන මට කියන්න.”
 
-## What does the research say?
+## පර්යේෂණ කියන්නේ කුමක්ද?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[මතකය අවදි කිරීම පිළිබඳ Cochrane review එකක්](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), අත්හදා බැලීම් 22ක් සහ පුද්ගලයන් 1,972ක් ආවරණය කරමින්, බලපෑම් අසමාන, කුඩා සහ පරිසරය හා ආකෘතිය අනුව වෙනස් වන බව සොයා ගත්තේය. ඩිමෙන්ශියාව ඇති අයට හානියක් ඇති බවට සාක්ෂි නොමැති බව එය සොයා ගත්තේය. අපි මතකය අවදි කිරීම යෝජනා කරන්නේ එය උණුසුම්, අර්ථවත් එකට කාලය ගත කිරීමට හැකි නිසාය, ප්‍රතිකාරයක් ලෙස නොව. සරල සංවාදය ගැන වැඩි විස්තර සඳහා, [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) බලන්න.

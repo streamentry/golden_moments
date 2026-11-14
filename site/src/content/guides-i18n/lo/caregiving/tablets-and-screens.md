@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "ການຕັ້ງແທັບເລັດ ຫຼືໂທລະສັບໃຫ້ຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ"
+seoTitle: "ຕັ້ງແທັບເລັດ ຫຼືໂທລະສັບສຳລັບຜູ້ເປັນໂຣກສະໝອງເສື່ອມ"
+description: "ຂັ້ນຕອນຕັ້ງແທັບເລັດ ຫຼືໂທລະສັບໃຫ້ງ່າຍ: ລັອກໃຫ້ໃຊ້ແອັບດຽວ ຕົວໜັງສືໃຫຍ່ ແຈ້ງເຕືອນໜ້ອຍລົງ ໜ້າຈໍງ່າຍ ແລະປັບສຽງ."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  ເຮັດໃຫ້ແທັບເລັດ ຫຼືໂທລະສັບງ່າຍຂຶ້ນກ່ອນສົ່ງໃຫ້ຜູ້ນັ້ນໃຊ້. ລັອກໃຫ້ຢູ່ໃນແອັບດຽວດ້ວຍ Guided Access ເທິງ iPad ແລະ iPhone ຫຼືການປັກໝຸດແອັບບົນ Android ຫຼືໃຊ້ Assistive Access ຂອງ Apple ສຳລັບໜ້າຈໍທີ່ງ່າຍກວ່າ. ເຮັດໃຫ້ຕົວໜັງສືໃຫຍ່ຂຶ້ນ ປິດການແຈ້ງເຕືອນ ເກັບໄວ້ພຽງບໍ່ກີ່ແອັບໃນໜ້າຫຼັກດຽວ ຕັ້ງສຽງ ໃຊ້ຂາຕັ້ງ ແລະຈຳກັດສິດຂອງແອັບ. ໃຊ້ນຳກັນ ຄຽງຄູ່ກັບກິດຈະກຳທີ່ບໍ່ໃຊ້ໜ້າຈໍ.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ແລະການປັກໝຸດແອັບ (Android) ຈະຢູ່ໃນແອັບດຽວຈົນກວ່າທ່ານຈະປົດລັອກ."
+  - "Assistive Access ຂອງ Apple ມີໜ້າຈໍທີ່ງ່າຍກວ່າ ອອກແບບສຳລັບຜູ້ທີ່ມີຄວາມພິການທາງດ້ານການຮັບຮູ້."
+  - "ເຮັດໃຫ້ຕົວໜັງສືໃຫຍ່ຂຶ້ນ ແລະປິດການແຈ້ງເຕືອນ ແລະປ໊ອບອັບ ເພື່ອບໍ່ໃຫ້ລົບກວນ ຫຼືເຮັດໃຫ້ສັບສົນ."
+  - "ເກັບໄວ້ພຽງບໍ່ກີ່ແອັບທີ່ຄຸ້ນເຄີຍໃນໜ້າຈໍຫຼັກດຽວ ແລະຕັ້ງສຽງກ່ອນເລີ່ມ."
+  - "ຂາຕັ້ງ ແລະບ່ອນສາກໄຟທີ່ບໍ່ຍ້າຍ ເຮັດໃຫ້ໃຊ້ງ່າຍ ແລະຊອກຫາໄດ້ງ່າຍ."
+  - "ກວດສິດຂອງແອັບ ແລະການແບ່ງປັນຂໍ້ມູນ: ກົດໝາຍ HIPAA ໂດຍທົ່ວໄປບໍ່ຄຸ້ມຄອງຂໍ້ມູນທີ່ເກັບໄວ້ໃນອຸປະກອນສ່ວນຕົວ."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "ຈະຢຸດຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມບໍ່ໃຫ້ອອກຈາກແອັບໃນ iPad ໄດ້ແນວໃດ?"
+    a: "ເປີດ Guided Access ໃນ Settings > Accessibility > Guided Access ແລ້ວຕັ້ງລະຫັດຜ່ານ. ເປີດແອັບ ກົດປຸ່ມເທິງສາມຄັ້ງ (ຫຼືປຸ່ມ Home ໃນ iPad ລຸ້ນເກົ່າ) ແລ້ວກົດ Start. iPad ຈະຢູ່ໃນແອັບນັ້ນຈົນກວ່າຈະໃສ່ລະຫັດຜ່ານ."
+  - q: "ຈະລັອກແທັບເລັດ Android ໃຫ້ຢູ່ໃນແອັບດຽວໄດ້ແນວໃດ?"
+    a: "ເປີດການປັກໝຸດແອັບໃນແອັບການຕັ້ງຄ່າ ມັກຢູ່ພາຍໃຕ້ Security (ບາງເທື່ອ Security & location) > Advanced > App pinning. ຈາກນັ້ນເປີດແອັບ ເປີດ Overview ກົດໄອຄອນຂອງແອັບເທິງສຸດ ແລ້ວກົດ Pin. ຕ້ອງໃຊ້ PIN ລາຍນິ້ວມື ຫຼືລະຫັດຜ່ານເພື່ອປົດ."
+  - q: "ການໃຊ້ Guided Access ໃນໂທລະສັບຂອງຜູ້ນັ້ນປອດໄພບໍ?"
+    a: "ໃຫ້ລະມັດລະວັງ. Apple ລະບຸວ່າ Crash Detection ແລະ Emergency Services ບໍ່ສາມາດໃຊ້ໄດ້ໃນຂະນະທີ່ Guided Access ເປີດຢູ່. ຖ້າຜູ້ນັ້ນພຶ່ງພາໂທລະສັບເພື່ອໂທຫາຄວາມຊ່ວຍເຫຼືອສຸກເສີນ ໃຫ້ໃຊ້ Guided Access ພຽງຕອນທ່ານຢູ່ນຳ ຫຼືພິຈາລະນາ Assistive Access ແທນ."
+  - q: "ໃຊ້ໜ້າຈໍຫຼາຍປານໃດຈຶ່ງເໝາະສຳລັບຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ?"
+    a: "ບໍ່ມີຕົວເລກກຳນົດໄວ້. ການໃຊ້ສັ້ນໆແບບນຳກັນ ສະລັບກັບການຍ່າງ ດົນຕີ ວຽກບ້ານ ແລະການສົນທະນາ ໃຫ້ມື້ທີ່ອຸດົມກວ່າການຢູ່ຄົນດຽວກັບໜ້າຈໍເປັນເວລາດົນ. ຖ້າອຸປະກອນເຮັດໃຫ້ອຸກອັ່ງ ຫຼືແທນທີ່ກິດຈະກຳອື່ນ ໃຫ້ໃຊ້ໜ້ອຍລົງ."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+ແທັບເລັດສາມາດເປັນວິທີທີ່ສວຍງາມໃນການແບ່ງປັນຮູບ ດົນຕີ ແລະເກມງ່າຍໆ. ແຕ່ມັນກໍອາດເຮັດໃຫ້ສັບສົນໄດ້: ການແຕະພາດໜ້ອຍດຽວອາດເປີດແອັບອື່ນ ມີການແຈ້ງເຕືອນເດັ້ງຂຶ້ນມາ ຕົວໜັງສືນ້ອຍເກີນໄປ ຫຼືໜ້າຈໍດັບໄປກາງເກມ. ການຕັ້ງຄ່າເລັກນ້ອຍຈາກທ່ານຈະແກ້ໄດ້ສ່ວນໃຫຍ່.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+ຂັ້ນຕອນເຫຼົ່ານີ້ໃຊ້ການຕັ້ງຄ່າທີ່ມີໃນຕົວຂອງ iPhone, iPad ແລະ Android. ຊື່ເມນູອາດປ່ຽນໄປຕາມເວີຊັນຂອງຊອບແວ ແລະຍີ່ຫໍ້ອຸປະກອນ ດັ່ງນັ້ນຖ້າເບິ່ງຕ່າງໄປ ໃຫ້ເປີດໜ້າຊ່ວຍເຫຼືອຂອງ Apple ຫຼື Google ທີ່ລິ້ງໄວ້ສຳລັບອຸປະກອນຂອງທ່ານ. ໃຫ້ທ່ານຕັ້ງຄ່າເອງ ກ່ອນນັ່ງລົງນຳກັນ.
 
-## Should someone with dementia use a tablet or phone?
+## ຄວນໃຫ້ຜູ້ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມໃຊ້ແທັບເລັດ ຫຼືໂທລະສັບບໍ?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+ແລ້ວແຕ່ຄົນ. ຫຼາຍຄົນມັກໃຊ້ແທັບເລັດເມື່ອມີຄົນນັ່ງຢູ່ຂ້າງ ເຖິງແມ່ນວ່າເຂົາເຈົ້າຈະບໍ່ສາມາດໃຊ້ດ້ວຍຕົນເອງກໍຕາມ. ເລີ່ມດ້ວຍການໃຊ້ນຳກັນ ໂດຍເປີດພຽງແອັບດຽວ ສອງສາມນາທີ. ຖ້າມັນນຳຄວາມສຸກ ແລະການສົນທະນາ ໃຫ້ໃຊ້ຕໍ່ໄປ. ຖ້າມັນເຮັດໃຫ້ສັບສົນ ຫຼືອຸກອັ່ງ ອາລະບັ້ມຮູບ ໜ້າທີ່ພິມອອກ ຫຼືດົນຕີອາດເໝາະກວ່າ. [ກິດຈະກຳທີ່ພິມອອກ](/activities/printable/) ເປັນທາງເລືອກໜຶ່ງ.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+ແທັບເລັດມັກງ່າຍກວ່າໂທລະສັບ ເພາະໜ້າຈໍ ແລະຮູບໃຫຍ່ກວ່າ ແລະມັນບໍ່ແມ່ນເສັ້ນທາງຊ່ວຍເຫຼືອສຸກເສີນຂອງຜູ້ນັ້ນນຳ.
 
-## How do I lock a tablet or phone to one app?
+## ຈະລັອກແທັບເລັດ ຫຼືໂທລະສັບໃຫ້ຢູ່ໃນແອັບດຽວໄດ້ແນວໃດ?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+ໃຊ້ Guided Access ເທິງ iPhone ແລະ iPad ຫຼືການປັກໝຸດແອັບເທິງ Android. ທັງສອງຢ່າງຈະເຮັດໃຫ້ໜ້າຈໍຢູ່ໃນແອັບດຽວຈົນກວ່າທ່ານຈະໃສ່ລະຫັດ ສະນັ້ນການແຕະ ຫຼືປັດພາດໜ້ອຍດຽວຈະບໍ່ເປີດສິ່ງອື່ນ.
 
-### iPad and iPhone: Guided Access
+### iPad ແລະ iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+ຕາມ [ຄຳແນະນຳ Guided Access ຂອງ Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. ເປີດ **Settings** ກົດ **Accessibility** ແລ້ວກົດ **Guided Access** ແລະເປີດມັນ.
+2. ພາຍໃຕ້ **Passcode Settings** ໃຫ້ຕັ້ງລະຫັດ Guided Access. ທ່ານສາມາດອະນຸຍາດໃຫ້ໃຊ້ Face ID ຫຼື Touch ID ໄດ້ນຳ.
+3. ທາງເລືອກ: ພາຍໃຕ້ **Display Auto-Lock** ເລືອກວ່າໜ້າຈໍຈະລັອກໄວປານໃດໃນລະຫວ່າງການໃຊ້ງານ ເພື່ອບໍ່ໃຫ້ດັບກາງເກມ.
+4. ເປີດແອັບທີ່ທ່ານຕ້ອງການໃຊ້.
+5. ກົດປຸ່ມຂ້າງສາມຄັ້ງ (iPhone), ປຸ່ມເທິງສາມຄັ້ງ (iPad), ຫຼືປຸ່ມ Home ໃນອຸປະກອນລຸ້ນເກົ່າ.
+6. ທາງເລືອກ: ວົງມົນສ່ວນຂອງໜ້າຈໍທີ່ທ່ານຢາກໃຫ້ບໍ່ຕອບສະໜອງການແຕະ. ກົດ **Options** (ຫຼື **Session Settings**) ເພື່ອປິດປຸ່ມສຽງ ຫຼືຢຸດການໝຸນຂອງໜ້າຈໍ.
+7. ກົດ **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+ເພື່ອຢຸດການໃຊ້ງານ ໃຫ້ກົດປຸ່ມເດີມສາມຄັ້ງອີກຄັ້ງ ໃສ່ລະຫັດ ແລ້ວກົດ **End**. Apple ລະບຸວ່າໃນເວີຊັນຊອບແວເກົ່າບາງລຸ້ນ ໃຫ້ກົດສອງຄັ້ງແທນ.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**ສຳຄັນ:** Apple ລະບຸວ່າ Crash Detection ແລະ Emergency Services ບໍ່ສາມາດໃຊ້ໄດ້ໃນລະຫວ່າງການໃຊ້ Guided Access. ຢ່າປ່ອຍໃຫ້ Guided Access ເຮັດວຽກຢູ່ໃນໂທລະສັບທີ່ຜູ້ນັ້ນອາດຕ້ອງໃຊ້ໂທຫາຄວາມຊ່ວຍເຫຼືອສຸກເສີນ.
 
-### Android: app pinning
+### Android: ການປັກໝຸດແອັບ
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+ຕາມ [ຄຳແນະນຳຂອງ Google ກ່ຽວກັບການປັກໝຸດໜ້າຈໍ](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. ເປີດແອັບ **Settings**.
+2. ກົດ **Security** (ຫຼື **Security & location**) ແລ້ວ **Advanced** ແລ້ວ **App pinning**. ຖ້າຊອກບໍ່ພົບ ໃຫ້ກວດໜ້າຊ່ວຍເຫຼືອຂອງຜູ້ຜະລິດອຸປະກອນ.
+3. ເປີດ **App pinning**. ຕ້ອງໃຊ້ PIN ລາຍແບບ ຫຼືລະຫັດຜ່ານເພື່ອປົດ.
+4. ເປີດແອັບທີ່ທ່ານຕ້ອງການ. ປັດຂຶ້ນເຖິງກາງໜ້າຈໍ ແລ້ວກົດຄ້າງເພື່ອເປີດ Overview (ຫຼືກົດ Overview ດ້ວຍການນຳທາງ 3 ປຸ່ມ).
+5. ເທິງສຸດຂອງການສະແດງແອັບ ໃຫ້ກົດໄອຄອນຂອງແອັບ ແລ້ວກົດ **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+ເພື່ອປົດດ້ວຍການນຳທາງແບບປັດ ໃຫ້ປັດຂຶ້ນແລ້ວກົດຄ້າງ. ດ້ວຍການນຳທາງ 3 ປຸ່ມ ໃຫ້ກົດຄ້າງທີ່ Back ແລະ Overview. ດ້ວຍການນຳທາງ 2 ປຸ່ມ ໃຫ້ກົດຄ້າງທີ່ Back ແລະ Home. ຈາກນັ້ນໃສ່ PIN ລາຍແບບ ຫຼືລະຫັດຜ່ານ.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## ມີໂໝດທີ່ງ່າຍກວ່າສຳລັບ iPhone ຫຼື iPad ທັງໝົດບໍ?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+ມີ. Assistive Access ຂອງ Apple ປ່ຽນໜ້າຫຼັກປົກກະຕິໄປເປັນໜ້າທີ່ງ່າຍກວ່າ. [Apple ອະທິບາຍມັນ](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ວ່າອອກແບບເພື່ອໃຫ້ຜູ້ທີ່ມີຄວາມພິການທາງດ້ານການຮັບຮູ້ໃຊ້ iPhone ໄດ້ດ້ວຍຕົນເອງງ່າຍຂຶ້ນ ດ້ວຍລາຍການທີ່ໃຫຍ່ຂຶ້ນ ແລະຄຸນສົມບັດທີ່ເນັ້ນໜັກ. Apple ມີ [ຄຸນສົມບັດດຽວກັນນີ້ສຳລັບ iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) ເຊັ່ນກັນ.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **ຜູ້ຕັ້ງຄ່າ.** Apple ແນະນຳໃຫ້ຜູ້ສະໜັບສະໜູນທີ່ໄວ້ວາງໃຈ ເຊັ່ນ ສະມາຊິກໃນຄອບຄົວ ຫຼືຜູ້ດູແລທີ່ຮູ້ຈັກຜູ້ນັ້ນ ຊ່ວຍເລືອກແອັບ ແລະຄຸນສົມບັດ.
+- **ບ່ອນເລີ່ມ.** ໄປທີ່ **Settings > Accessibility > Assistive Access** ກົດ **Set Up Assistive Access** ແລ້ວກົດ **Continue**.
+- **ແອັບ.** ທ່ານເລືອກວ່າແອັບໃດຈະປາກົດ. ແອັບ Apple ບາງຕົວມີເວີຊັນທີ່ງ່າຍກວ່າ ແລະແອັບອື່ນສ່ວນໃຫຍ່ສາມາດເພີ່ມໄດ້ດ້ວຍການອອກແບບປົກກະຕິ.
+- **ການຈັດວາງ.** ເລືອກ **Rows** (ລາຍການທີ່ອ່ານງ່າຍ) ຫຼື **Grid** (ລາຍການທີ່ໃຫຍ່ກວ່າ ເນັ້ນຮູບ ແລະໄອຄອນ).
+- **ລະຫັດຜ່ານ.** ທ່ານຕັ້ງລະຫັດ Assistive Access ແຍກຕ່າງຫາກເພື່ອເຂົ້າ ອອກ ຫຼືປ່ຽນການຕັ້ງຄ່າ. Apple ແນະນຳໃຫ້ຕັ້ງ Apple Account ສຳລັບການກູ້ຄືນໃນຂັ້ນຕອນຕັ້ງຄ່າ ເພາະຖ້າບໍ່ມີ ການລືມລະຫັດອາດໝາຍເຖິງການຕັ້ງຄ່າອຸປະກອນໃໝ່ທັງໝົດ.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ອາດເໝາະກັບຜູ້ທີ່ໃຊ້ອຸປະກອນຂອງຕົນທຸກມື້. Guided Access ຫຼືການປັກໝຸດແອັບໄວກວ່າສຳລັບການໃຊ້ເກມນຳກັນ.
 
-## How do I make text and pictures bigger?
+## ຈະເຮັດໃຫ້ຕົວໜັງສື ແລະຮູບໃຫຍ່ຂຶ້ນໄດ້ແນວໃດ?
 
-Increase the text and display size, then check that buttons still fit on screen.
+ເພີ່ມຂະໜາດຕົວໜັງສື ແລ້ວກວດວ່າປຸ່ມຍັງພໍດີໃນໜ້າຈໍ.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ແລະ iPad.** ຕາມ [ຄຳແນະນຳຂະໜາດຕົວໜັງສືຂອງ Apple](https://support.apple.com/en-us/102453) ໄປທີ່ **Settings > Display & Brightness > Text Size** ແລ້ວລາກແຖບເລື່ອນ. ເພື່ອໃຫ້ຕົວໜັງສືໃຫຍ່ກວ່ານັ້ນ ໄປທີ່ **Settings > Accessibility > Display & Text Size > Larger Text**. Apple ລະບຸວ່າຕົວໜັງສືໃຫຍ່ຫຼາຍອາດເຮັດໃຫ້ປຸ່ມບາງອັນແຕະຍາກຂຶ້ນ ໃຫ້ປັບຕາມຄວາມຈຳເປັນ.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** ຕາມ [ຄຳແນະນຳຂອງ Google ກ່ຽວກັບການຕັ້ງຄ່າຕົວໜັງສື ແລະການສະແດງຜົນ](https://support.google.com/accessibility/android/answer/11183305?hl=en) ເປີດ **Settings** ແລ້ວຄົ້ນຫາ **Font size** ແລ້ວເລື່ອນແຖບ. ຄົ້ນຫາ **Display size** ເພື່ອເຮັດໃຫ້ທຸກຢ່າງເທິງໜ້າຈໍໃຫຍ່ຂຶ້ນ. ທ່ານຍັງເປີດ **Bold text** ໄດ້ທີ່ **Accessibility > Display size and text**. ບາງແອັບອາດບໍ່ເຮັດຕາມການຕັ້ງຄ່າເຫຼົ່ານີ້.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+ໃນເກມເຊັ່ນ [Picture Pairs](/games/picture-pairs/) ແລະ [Find the Same](/games/find-the-same/) ທ່ານຍັງເລືອກໃຫ້ມີຈຳນວນຊິ້ນ ຫຼືຕົວເລືອກໜ້ອຍລົງໄດ້ ເຊິ່ງເຮັດໃຫ້ໜ້າຈໍງ່າຍຂຶ້ນ.
 
-## How do I stop notifications and pop-ups?
+## ຈະປິດການແຈ້ງເຕືອນ ແລະປ໊ອບອັບໄດ້ແນວໃດ?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+ປິດການແຈ້ງເຕືອນຂອງແອັບທີ່ທ່ານບໍ່ຕ້ອງການ ແລະໃຊ້ Do Not Disturb ໃນລະຫວ່າງກິດຈະກຳ.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ແລະ iPad.** ໄປທີ່ **Settings > Notifications** ກົດແອັບທີ່ຢູ່ລຸ່ມ **Notification Style** ແລ້ວປິດ **Allow Notifications** ([ຄູ່ມືການຕັ້ງຄ່າການແຈ້ງເຕືອນຂອງ Apple](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). ເພື່ອປິດສາຍໂທ ການແຈ້ງເຕືອນ ແລະສຽງເຕືອນຊົ່ວຄາວ ໃຫ້ເປີດສູນຄວບຄຸມ ແລ້ວເປີດ **Do Not Disturb** ຈາກປຸ່ມ **Focus** ([ຄວາມຊ່ວຍເຫຼືອ Do Not Disturb ຂອງ Apple](https://support.apple.com/en-us/105112)). ທ່ານສາມາດກຳນົດເວລາໄດ້ທີ່ **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** ປັດລົງຈາກເທິງສຸດຂອງໜ້າຈໍ ແລ້ວກົດ **Do Not Disturb** ຫຼືໄປທີ່ **Settings > Modes > Do Not Disturb** ([ຄວາມຊ່ວຍເຫຼືອ Do Not Disturb ຂອງ Google](https://support.google.com/android/answer/9069335?hl=en)). ພາຍໃຕ້ **Notification filters** ທ່ານເລືອກໄດ້ວ່າຄົນ ແລະແອັບໃດຍັງສົ່ງເຂົ້າມາໄດ້. ການຕັ້ງຄ່າອາດແຕກຕ່າງກັນຕາມຜູ້ຜະລິດອຸປະກອນ.
 
-## How do I make a simple home screen?
+## ຈະເຮັດໜ້າຫຼັກແບບງ່າຍໄດ້ແນວໃດ?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+ເກັບແອັບທີ່ຄຸ້ນເຄີຍບໍ່ກີ່ແອັບໄວ້ໃນໜ້າດຽວ ແລະຍ້າຍສ່ວນທີ່ເຫຼືອອອກໄປບ່ອນທີ່ບໍ່ເຫັນ. ບໍ່ມີການຕັ້ງຄ່າດຽວສຳລັບເລື່ອງນີ້ ມັນແມ່ນການຕັດສິ່ງທີ່ລົບກວນອອກ.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **ເລືອກສາມຫາຫົກແອັບ.** ຕົວຢ່າງ ຮູບ ດົນຕີ ແອັບໂທວິດີໂອ ແລະເກມໜຶ່ງເກມ.
+- **ວາງໄວ້ໃນໜ້າທຳອິດ** ໃນຕຳແໜ່ງດຽວກັນທຸກຄັ້ງ ແລ້ວຍ້າຍອັນອື່ນໄປໜ້າທີສອງ ຫຼືໂຟນເດີ.
+- **ໃຊ້ພື້ນຫຼັງທີ່ເລຽບງ່າຍ ແລະຄອນຕຣາສສູງ** ເຊັ່ນ ສີດຽວ ຫຼືຮູບທີ່ຄຸ້ນເຄີຍຮູບໜຶ່ງ ເພື່ອໃຫ້ໄອຄອນເດັ່ນ.
+- **ລຶບແອັບທີ່ບໍ່ຕ້ອງການອອກ.** ແອັບໜ້ອຍລົງໝາຍເຖິງໂອກາດສັບສົນໜ້ອຍລົງ ແລະຂໍ້ມູນທີ່ຖືກເກັບໜ້ອຍລົງ.
+- **ພິຈາລະນາ Assistive Access** ໃນອຸປະກອນ Apple ຖ້າທ່ານຢາກໃຫ້ອຸປະກອນຈັດການເລື່ອງນີ້ໃຫ້.
 
-## What about volume and sound?
+## ສຽງ ແລະສຽງດັງເປັນແນວໃດ?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+ຕັ້ງລະດັບສຽງທີ່ສະບາຍກ່ອນສົ່ງອຸປະກອນໃຫ້. ດ້ວຍ Guided Access ທ່ານສາມາດປິດປຸ່ມສຽງເພື່ອບໍ່ໃຫ້ມັນປ່ຽນກາງກິດຈະກຳ. ກວດວ່າເຄື່ອງຊ່ວຍຟັງຢູ່ໃນຫູ ແລະເຮັດວຽກຢູ່.
 
-## Where should the tablet live?
+## ຈະວາງແທັບເລັດໄວ້ບ່ອນໃດ?
 
-Give it a stand and a permanent charging spot.
+ໃຫ້ມີຂາຕັ້ງ ແລະບ່ອນສາກໄຟຖາວອນ.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **ຂາຕັ້ງ ຫຼືເຄສ** ທີ່ຢຶດແທັບເລັດໃຫ້ຕັ້ງຢູ່ເທິງໂຕະ ເຊິ່ງບໍ່ຕ້ອງໃຫ້ຜູ້ໃດຖືໄວ້ ແລະການຊີ້ເຮັດໄດ້ງ່າຍຂຶ້ນ.
+- **ບ່ອນສາກໄຟດຽວທີ່ບໍ່ຍ້າຍ** ດີທີ່ສຸດແມ່ນຂາຕັ້ງສາກໄຟເທິງໂຕະໃນຫ້ອງທີ່ໃຊ້ທຸກມື້. ແທັບເລັດຈະມີໄຟເຕັມສະເໝີ ແລະຢູ່ບ່ອນດຽວກັນສະເໝີ.
+- **ຫຼຸດແສງສະທ້ອນ.** ວາງໜ້າຈໍໃຫ້ຫ່າງຈາກປ່ອງຢ້ຽມທີ່ສະຫວ່າງ.
 
-## How much screen time is okay?
+## ໜ້າຈໍຫຼາຍປານໃດຈຶ່ງເໝາະ?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+ບໍ່ມີຈຳນວນນາທີທີ່ຖືກຕ້ອງ. ໃຫ້ເນັ້ນການໃຊ້ສັ້ນໆນຳກັນເປັນສ່ວນໜຶ່ງຂອງມື້ເຕັມທີ່ມີການເຄື່ອນໄຫວ ດົນຕີ ວຽກບ້ານ ການສົນທະນາ ແລະເວລາຢູ່ນອກບ້ານ. ເນື່ອງຈາກຕອນແລງທີ່ວຸ່ນວາຍອາດເພີ່ມຄວາມກະວົນກະວາຍຕອນບ່າຍແກ່ ໃຫ້ພິຈາລະນາຈຳກັດກິດຈະກຳໜ້າຈໍໄວ້ໃນຕອນເຊົ້າ. ເບິ່ງ [ກິດຈະກຳຕອນບ່າຍແກ່ທີ່ສະຫງົບ](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+ການໃຊ້ແທັບເລັດນຳກັນ ແທນທີ່ຈະປ່ອຍໃຫ້ຜູ້ນັ້ນດູໜ້າຈໍຢ່າງດຽວ ເຮັດໃຫ້ມັນເປັນການສັງສັນ. ຄູ່ມື [ການຫຼິ້ນເກມນຳກັນ](/caregiving/how-to-play-together/) ຂອງພວກເຮົາອະທິບາຍວິທີການ.
 
-## How do I protect their privacy on the device?
+## ຈະປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງເຂົາເຈົ້າໃນອຸປະກອນໄດ້ແນວໃດ?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+ຈຳກັດສິ່ງທີ່ແອັບເກັບໄດ້ ແລະຢ່າສົມມຸດວ່າກົດໝາຍຄວາມເປັນສ່ວນຕົວດ້ານສຸຂະພາບຈະຄຸ້ມຄອງເລື່ອງນີ້. ກະຊວງສາທາລະນະສຸກ ແລະບໍລິການມະນຸດຂອງສະຫະລັດ (HHS) [ອະທິບາຍ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ວ່າກົດ HIPAA ໂດຍທົ່ວໄປບໍ່ຄຸ້ມຄອງຂໍ້ມູນສຸຂະພາບທີ່ເກັບໄວ້ ຫຼືເຂົ້າເຖິງຜ່ານໂທລະສັບ ແລະແທັບເລັດສ່ວນຕົວ. ໃນຫຼາຍກໍລະນີ HIPAA ກໍບໍ່ຄຸ້ມຄອງຂໍ້ມູນທີ່ປ້ອນເຂົ້າແອັບເພື່ອໃຊ້ສ່ວນຕົວ ເວັ້ນແຕ່ແອັບນັ້ນມາຈາກຜູ້ໃຫ້ບໍລິການສຸຂະພາບທີ່ຖືກຄຸ້ມຄອງ ແຜນສຸຂະພາບ ຫຼືຄູ່ຄ້າທາງທຸລະກິດຂອງເຂົາເຈົ້າ.
 
-HHS suggests:
+HHS ແນະນຳ:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- ຫຼີກເວັ້ນແອັບທີ່ບໍ່ຈຳເປັນ ຫຼືແອັບສຸ່ມ ໂດຍສະເພາະແອັບ “ຟຣີ”;
+- ບໍ່ໃຫ້ແອັບເຂົ້າເຖິງຕຳແໜ່ງ ເວັ້ນແຕ່ມັນຈຳເປັນແທ້ໆ ເຊັ່ນ ແຜນທີ່.
 
-Also consider:
+ນອກຈາກນີ້ ໃຫ້ພິຈາລະນາ:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **ໃຊ້ລະຫັດຜ່ານ** ໃນອຸປະກອນ ແລະເກັບບັນທຶກໄວ້ໃນບ່ອນທີ່ປອດໄພ.
+- **ກວດສິດ** ສຳລັບຮູບ ກ້ອງ ໄມໂຄຣໂຟນ ລາຍຊື່ຜູ້ຕິດຕໍ່ ແລະຕຳແໜ່ງ ແລະປິດສິ່ງທີ່ແອັບບໍ່ຕ້ອງການ.
+- **ກວດວ່າແອັບເກັບຫຍັງ** ກ່ອນຕິດຕັ້ງ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ການເລືອກແອັບ ແລະເກມສຳລັບໂຣກສະໝອງເສື່ອມ](/caregiving/choosing-apps-and-games/) ມີລາຍການກວດສອບດ້ານຄວາມເປັນສ່ວນຕົວ.
+- **ລະມັດລະວັງກັບຮູບຄອບຄົວ.** ແບ່ງປັນສະເພາະຮູບທີ່ຜູ້ນັ້ນຈະສະບາຍໃຈ ແລະຮູ້ວ່າແອັບເກັບຮູບໄວ້ບ່ອນໃດ. ໃນ [Photo Pairs](/games/photo-pairs/) ຮູບທີ່ທ່ານເລືອກຈະຢູ່ໃນບຣາວເຊີຂອງທ່ານ.
+- **ປິດການຊື້ໃນແອັບ** ຫຼືເອົາຂໍ້ມູນການຊຳລະອອກຈາກບັນຊີທີ່ຜູ້ນັ້ນໃຊ້.

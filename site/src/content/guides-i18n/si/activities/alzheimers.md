@@ -1,35 +1,30 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "ඇල්සයිමර් ඇති අය සඳහා ක්‍රියාකාරකම් සහ ක්‍රීඩා"
+seoTitle: "ඇල්සයිමර් ක්‍රියාකාරකම් සහ ක්‍රීඩා: අවස්ථා අනුව අදහස්"
+description: "ඇල්සයිමර් ඇති අයට සෑම අවස්ථාවකම ක්‍රියාකාරකම් සහ ක්‍රීඩා: දිගුකාලීනව පවතින කුසලතා සහ මතක මත ගොඩනඟා, එකට ක්‍රීඩා කළ හැකි නොමිලේ ක්‍රීඩා සමඟ."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  ඇල්සයිමර් ඇති කෙනෙකුට හොඳ ක්‍රියාකාරකම් වඩාත්ම කාලය පවතින දේ මත රඳා පවතී: දිගු කලක් පුහුණු කළ කුසලතා, පැරණි ගීත, හුරු ගෘහ කටයුතු සහ ඉන්ද්‍රිය. මුල් අවධියේදී පත්, මේස ක්‍රීඩා, ආහාර පිසීම සහ පිටත යාම බොහෝ විට ක්‍රියා කරයි. මධ්‍ය අවධියේදී නැවීම, වර්ග කිරීම, ගායනා, ඡායාරූප ඇල්බම සහ සරල චිත්‍ර ක්‍රීඩා උත්සාහ කරන්න. ප්‍රමාද අවධියේදී සංගීතය, ස්පර්ශය සහ සහවාසය වැදගත්ම වේ. පුද්ගලයා අද කෙසේද කියා බලා තීරණය කරන්න.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "ඇල්සයිමර් ඩිමෙන්ශියාවේ වඩාත් පොදු හේතුවයි, එබැවින් ඩිමෙන්ශියා ක්‍රියාකාරකම් අදහස් එයටද අදාළ වේ."
+  - "නව තොරතුරු සාමාන්‍යයෙන් පළමුව දුෂ්කරම වේ, නමුත් දිගු කලට පෙර ඉගෙන ගත් කුසලතා සහ ගීත දිගටම පවතී. ඒවා මත ගොඩනඟන්න."
+  - "අවස්ථා එකිනෙක අතිච්ඡාදනය වන අතර හොඳ සහ අමාරු දින සාමාන්‍ය ය. පුද්ගලයාට අද කළ හැකි සහ රසවිඳිය හැකි දේ අනුව තෝරන්න."
+  - "කාල මානකයක්, ලකුණු හෝ ප්‍රශ්න නොමැති ක්‍රීඩා තෝරන්න, සහ පින්තූර දෘශ්‍යමානව තබන්න."
+  - "නරඹීම, යමක් අතේ තබා ගැනීම, හෝ එකට වාඩි වී සිටීම ද සහභාගී වීමක් ලෙස ගණනට ගැනේ."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "ඇල්සයිමර් ඇති කෙනෙකුට හොඳ ක්‍රියාකාරකම් මොනවාද?"
+    a: "හුරු ක්‍රියාකාරකම් ටිකක් සරල කර: රෙදි නැවීම, මේසය සැකසීම, එකට ආහාර පිසීම, සංගීතය සහ ගායනය, ඡායාරූප බැලීම, ඇවිදීම, වත්තේ වැඩ සහ සුරතලුන් සමඟ කාලය. සරල පින්තූර ක්‍රීඩා, පහසු ජිග්සෝ සහ සංවාද කාඩ්පත් ද බොහෝ දෙනාට ක්‍රියා කරයි. පුද්ගලයා සැමවිටම ප්‍රිය කළ දේ තෝරා, ඔවුන් සමඟ එය කරන්න."
+  - q: "ක්‍රීඩා ඇල්සයිමර් ඇති අයට හොඳද?"
+    a: "පුද්ගලයා ඒවා රස කරන්නේ නම්, ක්‍රීඩා එකට කාලය ගත කිරීමට සුන්දර ක්‍රමයක් විය හැක. ඇල්සයිමර් සුව කිරීමට, මන්දගාමී කිරීමට හෝ නවත්වීමට බව පෙන්වා දී ඇති ක්‍රීඩාවක් නැත, එබැවින් රසවිඳීම සඳහා ක්‍රීඩා තෝරන්න: විශාල පින්තූර, අල්ප තේරීම් සහ කාල මානකයක්, ලකුණු හෝ වැරදි පිළිතුරක ශබ්දයක් නොමැතිව."
+  - q: "ඩිමෙන්ශියා ක්‍රියාකාරකම් සහ ඇල්සයිමර් ක්‍රියාකාරකම් අතර වෙනසක් තිබේද?"
+    a: "බොහෝ විට නැත. ඇල්සයිමර් රෝගය ඩිමෙන්ශියාවේ වඩාත් පොදු හේතුව වන අතර, එම ක්‍රියාකාරකම් අදහස් එකම ලෙස අදාළ වේ. ඇල්සයිමර් සමඟ උපකාර වන්නේ මෑත මතක සාමාන්‍යයෙන් පළමුව මැකී යන බව දැනගැනීමයි, එබැවින් පැරණි කුසලතා, ගීත සහ චර්යා මත ගොඩනඟන ක්‍රියාකාරකම් බොහෝ විට සුමටව යයි."
+  - q: "පශ්චාත් අවධියේ ඇල්සයිමර් ඇති කෙනෙකුට තවමත් රසවිඳිය හැක්කේ මොනවාද?"
+    a: "ප්‍රිය සංගීතය, මෘදු අත් මර්දනය, අතේ තැබීමට මෘදු දේවල්, කියවා දීම, පිටත වාඩි වීම, සහ ඔවුන් විශ්වාස කරන කෙනෙකුගේ සහවාසය. එය කෙටි සහ සන්සුන්ව තබා, ඔවුන් ප්‍රිය කරන දේ සඳහා ඔවුන්ගේ මුහුණ සහ ශරීරය නිරීක්ෂණය කරන්න."
+  - q: "ඇල්සයිමර් ඇති කෙනෙකු ක්‍රියාකාරකමකට උනන්දු කරවන්නේ කෙසේද?"
+    a: "ක්‍රියාකාරකම ප්‍රකාශ කරනවා වෙනුවට උදව් ඉල්ලන්න, සියල්ල කලින් සකස් කර, ඔවුන්ට එක් වීමට ඔබම ආරම්භ කරන්න. ඔවුන් හොඳින් සිටින දවසේ වේලාව තෝරා ගැනීම විශාල වෙනසක් කරයි. ඔවුන් නැත කිව්වොත්, පසුව නැවත උත්සාහ කරන්න හෝ කුඩා අනුවාදයක් ඉදිරිපත් කරන්න."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +49,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+ඔබ ආදරය කරන කෙනෙකුට ඇල්සයිමර් ඇත්නම්, සමහර දේවල් ඉක්මනින් ගිලිහී යන බවත් අනෙක් ඒවා රඳා පවතින බවත් ඔබ දැනටමත් දැක ඇතිය හැක. උදෑසන ලැබුණු දුරකථන ඇමතුම ඔවුන් අමතක කළත්, හිමිනුත් ගීතයක් වචනයෙන් වචනය ගයන්න පුළුවන්; තුවායක් ඔවුන් සැමවිටම නවන ආකාරයටම නවයි, නැතහොත් ඔවුන් චින්තනයක් නැතිව පත් ක්‍රීඩා කරයි. හොඳ ක්‍රියාකාරකම් ගොඩනැගෙන්නේ ඒ දිගුකාලීන කුසලතා මතය. මෙම පිටුව එය ඇයි කියා පැහැදිලි කර, එක් එක් අවස්ථාව සඳහා අදහස් සහ මෙම අඩවියේ ඒවාට ගැළපෙන නොමිලේ ක්‍රීඩා ලබා දෙයි.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## ක්‍රියාකාරකම් සම්බන්ධයෙන් ඇල්සයිමර් ඩිමෙන්ශියාවට වඩා වෙනස්ද?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+එතරම් නැත. ඩිමෙන්ශියාව යනු සර්වප්‍රාණ පදයයි, ඇල්සයිමර් රෝගය එහි වඩාත් පොදු හේතුවයි: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) පවසන්නේ එය ඩිමෙන්ශියා අවස්ථාවලින් සියයට 60 සිට 80 දක්වා ගණනය වන බවයි. ඇල්සයිමර් ක්‍රියාකාරකම් ගැන ලියා ඇති පාහේ සියල්ලම, අපගේ [ක්‍රියාකාරකම් අදහස් 101](/activities/ideas/) ඇතුළුව, ඇල්සයිමර්ටද අදාළ වේ.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+ප්‍රයෝජනවත් වන්නේ සාමාන්‍ය වෙනස් වීමේ අනුපිළිවෙල දැන ගැනීමයි. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) පැහැදිලි කරන්නේ ඇල්සයිමර් පළමුව මතකය සම්බන්ධ මොළයේ කොටස් හානි කර, පසුව භාෂාව, තර්කනය සහ සමාජ හැසිරීම කෙරෙහි බලපාන බවයි. Alzheimer's Association පවසන්නේ වඩාත් පොදු මුල් රෝග ලක්ෂණය අලුතින් ඉගෙන ගත් තොරතුරු මතක තබා ගැනීමේ අපහසුතාවයි. සෑම කෙනෙක්ම වෙනස් වන අතර බොහෝ දෙනෙකුට මිශ්‍ර හේතු ඇත, නමුත් මෙම රටාව ක්‍රියා කරන දේ හැඩ ගසයි.
 
-## What kinds of activities suit Alzheimer's best?
+## ඇල්සයිමර් සඳහා ක්‍රියාකාරකම් වඩාත් ගැලපෙන්නේ කුමන ඒවාද?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+පැරණි, හොඳින් පුහුණු වූ දැනුම මත රඳා පවතින ක්‍රියාකාරකම් අලුතින් ඉගෙන ගෙන මතකයේ තබා ගැනීම අවශ්‍ය ඒවාට වඩා සාමාන්‍යයෙන් සුමටව යයි.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **දිගු කලක් පුහුණු කළ කුසලතා.** Alzheimer's Association සටහන් කරන්නේ, වසර ගණනකට පෙර පියානෝවෙන් ඉගත් සරල ගීත තවමත් වාදනය කළ හැකි බවයි. අත්කම්, ලී ඔප දැමීම, කාඩ් මිශ්‍ර කිරීම, පිටි සෝදීම සහ රෙදි නැවීම ද ඊට සමාන ය.
+- **පැරණි ගීත සහ හුරු සංගීතය.** බොහෝ දෙනා තම වයස් විසි ගණන්වල, ගීතවල, ආගමික ගීතවල සහ විවාහ මංගල්‍යයේ ගීතවල සෑම වචනයක්ම තවමත් දනිති. [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
+- **අරමුණක් ඇති ගෘහ කාර්යයන්.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) රසවිඳිය හැකි ක්‍රියාකාරකම් අතර භාණ්ඩ සෝදීම, මේසය සැකසීම, මේස් වර්ග කිරීම සහ රෙදි නැවීම ලැයිස්තුගත කරයි. ප්‍රයෝජනවත් බව දැනීම වැදගත් ය.
+- **සිහිපත් කිරීම මතකයෙන් ගෙනහැර දැක්වීමට වඩා.** ගැළපෙන පින්තූරය තෝරා ගැනීම එය මතකයෙන් නම් කිරීමට වඩා පහසුය. ඒ නිසා සියලු දේ දෘශ්‍යමාන පින්තූර ක්‍රීඩා ප්‍රශ්නාවලිවලට වඩා හොඳින් ක්‍රියා කරයි.
+- **ඉන්ද්‍රියන්.** වයනය, සුවඳ, උණුසුම, රසය සහ ශබ්දය වචන දුෂ්කර වූ බොහෝ කාලයකට පසුවත් අර්ථවත් ව පවතී. [ඉන්ද්‍රිය ක්‍රියාකාරකම්](/activities/sensory/) බලන්න.
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+වඩාත් අසාර්ථක වන දේ: කාල මානකයක් ඇති, ඉගෙන ගත යුතු නව නීති, මතක තබා ගත යුතු බොහෝ පියවර, හෝ “මේ කවුද ඔබට මතකද?” වැනි මතකය පරීක්ෂා කරන ප්‍රශ්න. ඒවා ඇල්සයිමර්හි දුෂ්කර කොටස ඉදිරියට සහ මැදට ගෙන එයි.
 
-## Activities for early-stage Alzheimer's
+## මුල් අවධියේ ඇල්සයිමර් සඳහා ක්‍රියාකාරකම්
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+මුල් අවධියේදී [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) පවසන්නේ පුද්ගලයා තවමත් රිය පැදවීම, වැඩ කිරීම සහ සමාජ ක්‍රියාකාරකම්වලට සහභාගී විය හැකි අතර, වචන හෝ දේවල් ඇති තැන අමතක වීම වැනි මතක ලිහිල් වීම් දැක්විය හැකි බවයි. හොඳම ප්‍රවේශය හවුල්කාරිත්වයයි: ඔවුන් දිගටම කිරීමට කැමති දේ සහ ඔවුන් ඉල්ලන උදව් ගැන අසන්න.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **පවතින විනෝදාංශ දිගටම කරන්න.** ගොල්ෆ්, බ්‍රිජ්, කිලිමිලි මැහීම, ගායනා කණ්ඩායම් සහ පල්ලි කණ්ඩායම්, කුඩා කණ්ඩායම් සහ සන්සුන් වේලාවන් වැනි කුඩා සකස් කිරීම් සහිතව.
+2. **හුරු කාඩ් සහ මේස ක්‍රීඩා ක්‍රීඩා කරන්න.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) මුල් අවධිය සඳහා ප්‍රශ්න ක්‍රීඩා, වචන සෙවීම්, කාඩ් ක්‍රීඩා සහ මේස ක්‍රීඩා ලැයිස්තුගත කරයි. ලකුණු තැබීම ඔවුන්ට කරදරයක් වීමට පටන් ගත්තොත් කණ්ඩායමක් ලෙස ක්‍රීඩා කරන්න, නැතහොත් ලකුණු සම්පූර්ණයෙන්ම අත්හරින්න.
+3. **එක්ව පිසින්න.** ඔවුන් හදවතින් දන්නා වට්ටෝරුවක් ගෙන යන්න ඉඩ දෙන්න, ඔබ පියවර කියවීම සකස් කරන්න.
+4. **ජීවිත කතා ව්‍යාපෘතියක් ආරම්භ කරන්න.** ඔවුන් මෙහෙයවන ස්ක්‍රැප්බුක් එකක ඡායාරූප, වට්ටෝරු සහ කතා. [මතක ක්‍රියාකාරකම්](/activities/reminiscence/) බලන්න.
+5. **පිටත යන්න.** නිශ්ශබ්ද වේලාවක ඔවුන් ප්‍රිය කරන අවන්හලක්, කෙටි නැරඹීමක් සඳහා කෞතුකාගාරයක්, උද්‍යානයේ ඇවිදීමක්.
+6. **ඔවුන් තෝරන ප්‍රහේලිකා උත්සාහ කරන්න.** විශාල අකුරු වචන ප්‍රහේලිකා, වචන සෙවීම් සහ ජිග්සෝ. [ඩිමෙන්ශියා සඳහා ප්‍රහේලිකා](/activities/puzzles/) බලන්න.
 
-More ideas: [early-stage activities](/activities/early-stage/).
+තවත් අදහස්: [මුල් අවධියේ ක්‍රියාකාරකම්](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## මධ්‍ය අවධියේ ඇල්සයිමර් සඳහා ක්‍රියාකාරකම්
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association මධ්‍ය අවධිය සාමාන්‍යයෙන් දිගම අවධිය ලෙස විස්තර කරන අතර එය වසර ගණනක් පැවතිය හැකි බව පවසයි. වචන එකිනෙකට මිශ්‍ර වේ, කලකිරීම පහසුවෙන් ඇති වේ, සහ පුද්ගලයාට වැඩි සත්කාර අවශ්‍ය වේ. Alzheimer's Foundation of America එකතු කරන්නේ බොහෝ දෙනාට ක්‍රියාකාරකම් ආරම්භ කිරීමට හෝ දිගටම කිරීමට උදව් අවශ්‍ය බවයි. ඔබේ භූමිකාව සකස් කිරීමට, විස්තර කිරීමට වඩා පෙන්වීමට, සහ දුෂ්කර කොටස් භාර ගැනීමට මාරු වේ.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **නැවීම, වර්ග කිරීම සහ ගැලපීම.** තුවා, මේස්, හැඳි-කෝප්ප, වර්ණ අනුව බොත්තම්. සැබෑ රැකියා, එකට පැත්තෙන් පැත්තට කරන ලද.
+2. **ගායනා කරන්න සහ සංගීතයට චලනය වන්න.** උයන්නේ අත් තැලීම, සොලවීම හෝ නැටීම. ඔබම ගායනා කිරීම ආරම්භ කර, ඔවුන්ට එක් වීමට ඉඩ දෙන්න.
+3. **ඡායාරූප ඇල්බම බලන්න.** ඔබ දකින දේ විස්තර කර කතා ආරාධනා කරන්න: “ලස්සන මෝටර් රථයක්. ඒ ගැන මට කියන්න.” ඔවුන් භාවිත කරන ඕනෑම නමක් සමඟ එකඟ වන්න.
+4. **සරල චිත්‍ර ක්‍රීඩා ක්‍රීඩා කරන්න.** [Picture pairs](/games/picture-pairs/) පින්තූර පෙනෙන ලෙසම තබා ටයිල් හතරක් සිට හයක් දක්වා, හෝ [Find the same](/games/find-the-same/) තේරීම් දෙක තුනක්.
+5. **හුරු කියමන් සම්පූර්ණ කරන්න.** ඔවුන් වසර ගණනාවකට පෙර ඉගෙන ගත් හුරු කියමන් බොහෝ විට පහසුවෙන් පැමිණේ. උදාහරණයක් ලෙස “අතේ තිබෙන කුරුල්ලා ...” වැනි. [Finish the saying](/games/finish-the-saying/) උත්සාහ කරන්න, එහිදී ඕනෑම අවසානයක් එක තට්ටුවකින් පෙන්විය හැක.
+6. **ජලය දමා ශාක රැක බලා ගන්න.** ගෘහස්ථ බඳුනක් හෝ උස් කළ මළුවක්, කුඩා වතුර බාල්දියක් සමඟ.
+7. **පවුලේ ඡායාරූපවලින් ගැලපීමේ ක්‍රීඩාවක් සාදන්න.** [Photo pairs](/games/photo-pairs/) ඔබ උපාංගය මත තෝරන ඡායාරූප භාවිත කරයි, ඒවා කිසිදා එයින් පිටත නොයයි.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+තවත් අදහස්: [මධ්‍ය අවධියේ ක්‍රියාකාරකම්](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## ප්‍රමාද අවධියේ ඇල්සයිමර් සඳහා ක්‍රියාකාරකම්
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+ප්‍රමාද අවධියේදී Alzheimer's Association පවසන්නේ මිනිසුන් වටපිටාවට ප්‍රතිචාර දැක්වීමේ හැකියාව සහ සංවාදය පවත්වා ගැනීමේ හැකියාව නැති වන බවයි, නමුත් ඔවුන් තවමත් වචන හෝ වාක්‍ය ප්‍රකාශ කළ හැක. දැන් ක්‍රියාකාරකම යනු සුවපහසුව සහ සම්බන්ධතාවයයි, පුද්ගලයා විවේක ගන්නා ස්ථානයට ගෙන එනු ලැබේ.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **ඔවුන්ගේ ප්‍රිය සංගීතය** නිශ්ශබ්දව වාදනය කරන්න, රූපවාහිනියෙන් තරඟ නොකර.
+2. **අතේ මර්දනයක්** ඔවුන් ප්‍රිය කරන සුවඳ සහිත ලොෂන් එකකින් දෙන්න.
+3. **අතේ තබා ගැනීමට මෘදු දේවල් දෙන්න:** උණුසුම් බ්ලැන්කට්, ෆ්ලීස් රෙද්දක්, සිනිඳු ගලක්.
+4. **ගීතාවලිය, කවි හෝ හුරු කතාවක් ශබ්දයෙන් කියවන්න.** අර්ථයට වඩා රිද්මය වැදගත් ය.
+5. **සෙවණේ පිටත වාඩි වන්න, නැතහොත් කුරුල්ලන් නැරඹිය හැකි කවුළුවක් අසල.**
+6. **එක විශාල චිත්‍රයක් එකට බලන්න.** සූර්යකාන්ති මලක් හෝ ටැබ්ලට් තිරය පුරා සිටින බල්ලෙක්, ඔබ දකින දේ කියමින්.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+තවත් අදහස්: [ප්‍රමාද අවධියේ ක්‍රියාකාරකම්](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## ඇල්සයිමර් ඇති කෙනෙකුට කුමන ක්‍රීඩා ගැලපේද?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+කිසිවක් අසාර්ථක විය නොහැකි ක්‍රීඩා තෝරන්න. මෙම අඩවියේ සෑම ක්‍රීඩාවක්ම නොමිලේ, බ්‍රවුසරයේ ධාවනය වන අතර කාල මානකයක්, ලකුණු හෝ ලියාපදිංචියක් නොමැත.
 
-| Game | What you do | Often suits |
+| ක්‍රීඩාව | ඔබ කරන දේ | බොහෝ විට ගැලපෙන්නේ |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | විශාල පින්තූර ගැලපීම; ඒවා මුහුණ උඩට තබා ගත හැක | මුල් සහ මධ්‍ය අවධිය |
+| [Find the same](/games/find-the-same/) | ඉහළ ඇති පින්තූරයට ගැලපෙන පින්තූරය තට්ටු කරන්න | මධ්‍ය සහ ප්‍රමාද අවධිය, උදව් ඇතිව |
+| [Finish the saying](/games/finish-the-saying/) | හුරු කියමනක අවසාන වචනය තෝරන්න, හෝ එය පෙන්වන්න | මුල් සහ මධ්‍ය අවධිය |
+| [Picture puzzle](/games/picture-puzzle/) | පින්තූරය පෙන්වමින් කොටස් 4 හෝ 9ක් ආපසු තැන්පත් කරන්න | මුල් සහ මධ්‍ය අවධිය |
+| [Conversation cards](/games/conversation-cards/) | කතා කිරීමට පින්තූරයක් සහ විවෘත ප්‍රශ්නයක් | ඕනෑම අවධියක්, කතා කිරීමට අයෙකු සමඟ |
+| [Photo pairs](/games/photo-pairs/) | ඔබේම ඡායාරූපවලින් සාදන ගැලපීමේ ක්‍රීඩාව | මුල් සහ මධ්‍ය අවධිය |
+| [Coloring](/games/coloring/) | වර්ණයක් තට්ටු කර, පසුව චිත්‍රයේ කොටසක්; නැතහොත් මුද්‍රණය කරන්න | ඕනෑම අවධියක්, උදව් ඇතිව |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+එකට වාඩි වීමට, කොපමණ උදව් කිරීමට සහ නැවතීමට කෙසේද කියා දැන ගැනීමට, [ඩිමෙන්ශියා ඇති කෙනෙකු සමඟ ක්‍රීඩා කරන ආකාරය](/caregiving/how-to-play-together/) කියවන්න. “මතක ක්‍රීඩා” ගැන ඔබ සිතන්නේ නම්, [ඩිමෙන්ශියා ඇති වැඩිහිටියන් සඳහා මතක ක්‍රීඩා](/activities/memory-games/) බලන්න.
 
-## How to make any activity easier
+## ඕනෑම ක්‍රියාකාරකමක් පහසු කරන ආකාරය
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA හි උපදෙස් කිහිපයකට පැමිණේ: ක්‍රියාකාරකම පුද්ගලයා කළ හැකි දෙයට ගළපන්න, ආරම්භ කිරීමට උදව් කරන්න, කලකිරීම නිරීක්ෂණය කරන්න, ඔවුන් සාර්ථක බව දැනෙන බව සහතික කරන්න, සහ ඔවුන් රසවිඳින්නේ නම් නරඹන්න පමණක් ඉඩ දෙන්න.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **දවසේ ඔවුන් හොඳින් සිටින වේලාව තෝරන්න,** සහ සැසි කෙටි තබන්න.
+- **පළමුව සියල්ල සකස් කරන්න,** එවිට ඔබට වහාම ආරම්භ කළ හැක.
+- **ආරාධනා කරන්න, උපදෙස් නොදෙන්න.** “මට ටිකක් උදව් කළ හැකිද?” යනු “දැන් ක්‍රියාකාරකම් කාලයයි.” ට වඩා හොඳින් ක්‍රියා කරයි.
+- **පළමු පියවර ඔබම කරන්න** සහ ඔවුන්ට එක් වීමට ඉඩ දෙන්න.
+- **එක් පියවරක් සහ එක් තේරීමක් එක විට දෙන්න.**
+- **ඔවුන්ගේ ක්‍රමයට කරන්න ඉඩ දෙන්න.** අසමාන තුවා හරිය.
+- **තවමත් පහසු විට නවත්වන්න.** කලින් අවසන් කිරීම අසාර්ථකත්වයක් නොව හොඳ ප්‍රතිඵලයකි. ඔවුන් ප්‍රතික්ෂේප කළොත්, [ඩිමෙන්ශියා ඇති කෙනෙකු “නැහැ” කියන විට](/caregiving/when-they-say-no/) බලන්න.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) එය සරලව කියයි: ජයග්‍රහණය නොව රසවිඳීම කෙරෙහි අවධානය යොමු කරන්න.

@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "קונסט און האַנטאַרבעט פֿאַר דערװאַקסענע מענטשן מיט דעמענשיע"
+seoTitle: "קונסט פֿאַר דעמענשיע: דערװאַקסן, נישט קינדיש"
+description: "דערװאַקסענע קונסט- און האַנטאַרבעט־אידעען פֿאַר מענטשן מיט דעמענשיע, פֿון װאַסערפֿאַרב און קאָלאַזש ביז בלומען־אָרנירונג, מיט טיפּס פֿאַר צוגרײטן און אָנפּאַסן."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  גוטע קונסט און האַנטאַרבעט פֿאַר דערװאַקסענע מענטשן מיט דעמענשיע זעט אויס און פֿילט זיך װי פֿאַר דערװאַקסענע: װאַסערפֿאַרב, קאָלאַזש פֿון זשורנאַלן, בלומען־אָרנירונג, טאָן, פּשוטע קאַרטן מאַכן אָדער דערװאַקסענע קאָלירבילדער. לײגט אויס עטלעכע חומרים, העלפֿט מיט דעם ערשטן שטרײַך אױב נייטיק, רעדט בשעת איר אַרבעט און באַהאַנדלט די צײַט צוזאַמען װי דעם עיקר. אַ פֿאַרטיק שטיק איז אָפּציע.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "קלײַבט חומרים און טעמעס װאָס זעען אויס דערװאַקסן, װי װאַסערפֿאַרב־פּאַפּיר, בלומען און זשורנאַל־בילדער, נישט גליטער, נישט סטיקערס אָדער קאַרטונישע אַרבעטסבלעטער."
+  - "פֿאָקוסירט אױף דעם פּראָצעס: די פֿאַרבן, דאָס געפֿיל פֿון דעם טאָן, די שמועס. אַ פֿאַרטיק שטיק איז אַ בונוס, נישט דאָס ציל."
+  - "גיט אַ ציל װען איר קענט, אַזױ װי אַ קאַרטל פֿאַר אַ אײניקל אָדער אַ צענטערשטיק פֿאַר דעם טיש."
+  - "העלפֿט דעם מענטש אָנהײבן, און טרעט דערנאָך צוריק. צוזאַמען אָנהײבן אַ פּינזל־שטרײַך איז אָפֿט גענוג."
+  - "פּראָיעקטן דאַרפֿן נישט פֿאַרטיק װערן אין איין זיצונג, און פֿריער אױפֿהערן איז שטענדיק גוט."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "װי קען איך האַלטן קונסט פֿון זײַן קינדיש?"
+    a: "ניצט עכטע קונסט־מאַטעריאַלן, דערװאַקסענע טעמעס און אַ רעספּעקטפֿולן טאָן. װעקסלט גליטער און קאַרטונישע בלעטער אױס פֿאַר װאַסערפֿאַרב־פּאַפּיר, שטאָף, בלומען, זשורנאַל־פֿאָטאָס און דעטאַלירטע קאָלירבלעטער. לויבט נישט די אַרבעט װי מען װאָלט געלויבט אַ קינדס ציכענונג; רעדט װעגן איר װי מען װאָלט גערעדט מיט אַ דערװאַקסן פֿרײַנד."
+  - q: "װאָס פֿאַר קונסט־אַקטיװיטעטן פּאַסן בײַ שפּעטער דעמענשיע?"
+    a: "פּשוטע, סענסאָרישע פּראָיעקטן פּאַסן בעסטן שפּעטער: מיט אַ גרױסן פּינזל ברייטע שטריכן מאַכן, װייכן טאָן קװעטשן, אַ פּאָר בלומען אין אַ װאַזע אָרנירן, אָדער שטאָף־מוסטערס לויט דעם געפֿיל סאָרטירן. עס קען נייטיק זײַן צו הײבן די באַװעגונג צוזאַמען. צוקוקן זיך װען איר מאָלט און רעדן װעגן די פֿאַרבן איז אױך אַ װעג צו זײַן אָנטייל."
+  - q: "װאָס װען זיי זאָגן, אַז זיי קענען נישט ציכענען?"
+    a: "נעמט אַװעק דעם דרוק. פּרוּװט פּראָיעקטן מיט קיין ריכטיקן ענטפֿער, װי אַ װאַסערפֿאַרב־װאַש, אַ קאָלאַזש אָדער בלומען־אָרנירונג. איר קענט אויך זאָגן, אַז איר דאַרפֿט הילף מיט עפּעס באַשטימטס, למשל קלײַבן פֿאַרבן פֿאַר אַ קאַרטל, כּדי די אַרבעט זאָל זײַן װי אַ טובֿה און נישט װי אַ בחינה."
+  - q: "צי זענען קאָלירבלעטער צו קינדיש פֿאַר דערװאַקסענע?"
+    a: "נישט װען זיי זענען געמאַכט פֿאַר דערװאַקסענע. קלײַבט בלעטער מיט דערװאַקסענע טעמעס, װי גערטנס, קװילטס, אױטאָס אָדער לאַנדשאַפֿטן, און װײַזט זיי װי אַ באַרויִקנדיקע אַרבעט און נישט װי אַ לעקציע. אונדזערע קאָלירבלעטער קען מען דרוקן אָדער אױף אַ טאַבלעט פֿאַרבן."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+קונסט און האַנטאַרבעט געבן מענטשן מיט דעמענשיע אַ װעג צו זיך אויסדריקן, װאָס איז נישט אָפּהענגיק פֿון דעם צו געפֿינען די רעכטע װערטער. די אַלצהײַמער־אַסאָציאַציע באַמערקט, אַז קונסט־פּראָיעקטן קענען ברענגען אַ [געפֿיל פֿון דערגרײכונג און ציל](https://www.alz.org/help-support/caregiving/daily-care/art-music) און אַן אָפּשפּרוך פֿאַר זיך־אויסדריקן, אַזױ װי פֿאַר דעם פֿאַרזאָרגער אױך װי פֿאַר דעם מענטש מיט דעמענשיע. דער שליסל איז צו האַלטן די זאַכן דערװאַקסן, פּשוט און אָן דרוק. דער בלאַט דאָ גיט קאָנקרעטע פּראָיעקטן, װי מען גרײט זיי צו און װי מען פּאַסט זיי אָן װען דאָס ענדערט זיך.
 
-## What makes an art activity adult and not childish?
+## װאָס מאַכט אַ קונסט־אַקטיװיטעט דערװאַקסן און נישט קינדיש?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+אַ דערװאַקסענע קונסט־אַקטיװיטעט ניצט עכטע מאַטעריאַלן, דערװאַקסענע טעמעס און אַ רעספּעקטפֿולן טאָן. די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו האַלטן פּראָיעקטן אויף דערװאַקסענעם niveau און צו פֿאַרמײַדן אַלץ װאָס קען װירקן דערנידערנדיק אָדער קינדיש.
 
-| Feels childish | Feels adult |
+| קינדיש װירקט עס | דערװאַקסן װירקט עס |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| גליטער, שאַום־סטיקערס, פּלאַסטיקע אויגן | װאַסערפֿאַרב־פּאַפּיר, שטאָף, געדריקט בלומען |
+| קאַרטונישע קאָלירבלעטער | קאָלירבילדער פֿון גערטנס, קװילטס, אױטאָס אָדער לאַנדשאַפֿטן |
+| „גוטע אַרבעט“ פֿאַר יעדן שטריך | עכט שמועס: „דאָס בלאָ לעבן דעם גרינען איז שײן“ |
+| אַ האַנטװערק אָן קײן נוצן | אַ קאַרטל פֿאַר אַ פֿרײַנד, אַ צענטערשטיק, אַ מתּנה |
+| הוראות װי אַ לעקציע | אַ איינלאַדונג: „װעט איר מיר העלפֿן מיט דעם?“ |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+טראַכט װעגן דעם מענטשנס אײגענעם טעם. עמעץ װאָס האָט ליב געהאַט נאָדלען קען הנאה האָבן פֿון שטאָף אָנרירן. אַ פֿאַרנעמעטער אינזשענער װעט פֿאַרציִען אַ מאָדעל־סעט מיט גרױסע שטיקלעך אָדער סאָרטירן האַרדװער פֿאַר אַ פּראָיעקט. אַ געװועזענער לערער קען ליב האָבן קאַרטלעך מאַכן.
 
-## Why focus on the process, not the product?
+## פֿאַר װאָס פֿאָקוסירן אויף דעם פּראָצעס און נישט אױף דעם פּראָדוקט?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+װײַל די צײַט צוזאַמען איז דער עיקר. די אַלצהײַמער־אַסאָציאַציע׳ס גײד װעגן [אַקטיװיטעטן אין דער היים](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) זאָגט, אַז מען זאָל פֿאָקוסירן אױף דעם פּראָצעס און נישט דעם רעזולטאַט. אַ פּויזל װאָס איז „נאָר בלאָ“ איז נאָך אַ פּויזל. אַ קאָלאַזש מיט דרײַ בילדער איז נאָך אַ קאָלאַזש.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+די אַסאָציאַציע װײַזט אױך, אַז אַ פּראָפֿעסיאָנעלער קינסטלער קען װערן פֿרוסטרירט דורך ענדערונגען אין זײַן אַרבעט, בשעת אַ אַמאַטיאָר קען פֿרײען זיך מיט אַ נײַע געלעגנהײט זיך צו אויסדריקן. אויב דער מענטש איז געװען אַ געשיקטער קינסטלער, פּרוּװט אַ צװײט מעדיום װי דאָס װאָס ער האָט בעמײַסטערט, כּדי עס זאָל װירקן װי שפּיל און נישט װי אַ פֿאַרגלײַך.
 
-## Arts and crafts ideas to try
+## קונסט און האַנטאַרבעט־אידעען צו פּרוּװן
 
-Each idea includes how to make it simpler if it becomes hard.
+יעדע אידעע כּולל װי מען מאַכט עס פּשוטער, אויב עס װערט שװער.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **װאַסער־װאַשן.** נעמט אַ בלאַט שװערן װאַסערפֿאַרב־פּאַפּיר און לאָזט דעם מענטש טרעפֿן פֿאַרבן אויפֿן פּאַפּיר מיט אַ גרױסן פּינזל. די פֿאַרבן פֿאַרשפּרײטן זיך אַלײן, אַזױ אַז עס איז נישטאָ קײן פֿאַלשער רעזולטאַט. *פּשוטער:* גיט נאָר צװײ פֿאַרבן, אָדער מאָלט מיט װאַסער אויף טונקל פּאַפּיר װאָס װײַזט די נאַסע שפּורן.
+2. **זשורנאַל־קאָלאַזש.** שניידט פֿאַר אַ צײַט בילדער פֿון זשורנאַלן װעגן גערטנערײַ, קאָכן, אױטאָס, רײזעס אָדער די אַלטע האָבבי ס פֿון דעם מענטש. לאָזט אים קלײַבן און קלעפּן בילדער אויף שװערן קאַרטאָן. *פּשוטער:* גיט פֿיר פֿאַרגעשניטענע בילדער און אַ קלעפּשטיפֿט, און קלעפּט צוזאַמען.
+3. **בלומען־אָרנירונג.** די אַלצהײַמער־פֿאָונדײשאַן פֿון אַמעריקע [שלאָגט פֿאָר צו אָרנירן אָפּגעשניטענע בלומען און גרינצײַג](https://alzfdn.org/dementia-activity-gardening/) אין פּשוטע סעזאָנאַלע װײַזונגען. ניצט אַ שװערע, פֿעסטע װאַזע און שטענגל װאָס זענען שױן אָפּגעשניטן. *פּשוטער:* שטעלט עטלעכע שטענגל אין אַ קלײנע שאָלע, איינס אַ מאָל.
+4. **געפּרעסטע בלומען־קאַרטלעך.** פּרעסט בלומען פֿון אַ בוקעט צװישן בלעטער פֿון אַ בוך פֿאַר אַ װאָך, און קלעפּט זיי נאָכדעם אויף געפֿאַלטענע קאַרטאָן־קאַרטלעך. *פּשוטער:* איר לײגט דעם קלעפּשטאָף, ער דריקט די בלום אַראָפּ.
+5. **דערװאַקסענע קאָלירבלעטער.** קלײַבט בלעטער מיט קלאָרע קאַנטורן און עכטע טעמעס. אונדזערע [קאָלירבלעטער](/games/coloring/) קענען אויך אויפֿן עקראַן געפֿאַרבט װערן דורך אַ פֿאַרב טאַפּן און דערנאָך אַ טייל פֿון דעם בילד. *פּשוטער:* גרעסערע פֿעלדער, װײניקער פֿאַרבן, דיקע מאַרקערס.
+6. **טאָן אָדער װײכער טעסט.** װאַלצט, דריקט און פאָרמט לופֿטטרוקנענדיקן טאָן אָדער װײכן מאָדעלירן־טעסט. אַ בלאַט אין טאָן צו דריקן מאַכט אַ פּשוטן אָפּדרוק־פּלעטל. *פּשוטער:* בלויז קװעטשן און װאַלצן איז אַ גאַנצע אַקטיװיטעט. קוקט אויף, אַז דער מענטש טוט נישט אַרײַן טאָן, פֿאַרבן אָדער קלײנע זאַכן אין מױל.
+7. **קאַרטל מאַכן.** די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו באַהאַנדלן די אַרבעט װי אַן עכטע אויפֿגאַבע: „מיר שיקן אַ בעסערונג־קאַרטל צו אַ פֿרײַנד. װעט איר מיר העלפֿן?“ פֿאַרגעשניטענע קאַרטאָן־קאַרטלעך און עטלעכע סטיקערס פֿון בלומען אָדער שטעמפּלען אַרבעטן גוט.
+8. **סקרעפּבוךן.** לייגט קאַפּיעס פֿון אַלטע פֿאָטאָס, פּאָסטקאַרטן אָדער ביליט־שטאַמפּן אויף אַלבאָם־בלעטער צוזאַמען. רעדט װעגן יעדן איינעם װי איר גייט. זעט אונדזער [זכרון־גײד](/activities/reminiscence/) פֿאַר װײכע װעגן צו רעדן װעגן דער פֿאַרגאַנגענהײט.
+9. **שטאָף־ און טעקסטור־ברעטער.** קלעפּט מוסטערס פֿון קאָרדוראָי, װעלוועט, בורלאַפּ און זײַד אויף שטײַפֿן קאַרטאָן. דאָס מאַכן איז די אַקטיװיטעט; ספּעטער אָנרירן איז אַן אַנדערע. מער אידעען זענען אין אונדזער [סענסאָרישע אַקטיװיטעטן־גײד](/activities/sensory/).
+10. **פּשוטע האָלץ־אַרבעטן.** פֿאַר עמעץ װאָס האָט ליב געהאַט האָלץ־אַרבעט, קען אַ גלאַט שלײַפֿן פֿון אַ בלאָק האָלץ אָדער מאָלן אַ פֿױגל־הױז פֿון אַ קיט פֿילן זיך באַקאַנט. נעמט אַװעק שאַרפֿע געצײַג און אויפֿזיכט.
+11. **מאָלן צו מוזיק.** שטעלט אָן אַ ליבלינגס־פּלאַטע און מאָלט פֿאָרמען אָדער פֿאַרבן װאָס פּאַסן צו דער שטימונג. דאָס פֿאַרבינדט צװײ אַקטיװיטעטן װאָס פֿיל מענטשן האָבן ליב. זעט [מוזיק־אַקטיװיטעטן](/activities/music/).
 
-## How do I set up an art session?
+## װי מאַכט מען אַ קונסט־זיצונג?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **גרײט פֿריער.** שניידט, שניטט און לייגט אויס אַלץ פֿאַר איר לאָדט דעם מענטש אײַן. װאַרטן בשעת איר זוכט שערער קען דעם מאָמענט פֿאַרלירן.
+2. **האַלט עס קלײן.** צװײ אָדער דרײַ פֿאַרבן, איין פּינזל, איין בלאַט פּאַפּיר. צו פֿיל ברירות קען איבערװעלטיקן.
+3. **באַשיצט דעם טיש.** אַ פּלאַסטיק־דעק אָדער אַן אַלטע לײַלעך מאַכט, אַז מעס איז נישט קײן זאָרג.
+4. **זיצט נעבן איינאַנדער.** אַרבעט אויף אײַער אײגענע שטיק נעבן זײַנעם. עס פֿילט זיך געטײלט, נישט אונטערװאַכט.
+5. **העלפֿט אים אָנהײבן.** די אַלצהײַמער־אַסאָציאַציע זאָגט, אַז איר קענט דאַרפֿן אָנהײבן די פּינזל־באַװעגונג מיטן מענטש. װאָס איז אָנגעהױבן, פֿירן װײַטער פֿיל מענטשן.
+6. **רעדט בשעת איר אַרבעט.** קומענטירט די פֿאַרבן און טעקסטורן, אָדער לאָזט די קונסט פֿירן צו געשיכטעס. פֿאַרמײַדט קװיז־פֿראַגן װי „װאָס איז דאָס?“
+7. **לאָזט פֿיל צײַט.** אַ פּראָיעקט דאַרף נישט פֿאַרטיק װערן אין איין זיצונג.
 
-## How do I adapt art as dementia changes?
+## װי קען מען די קונסט אָנפּאַסן װען דעמענשיע װעקסלט זיך?
 
-| Stage | What tends to work | What to adjust |
+| סטאַדיע | װאָס פֿירט צו | װאָס צו אָנפּאַסן |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| פֿרי | קלאַסן, דעטאַלירטע קאָלירבלעטער, סקרעפּבוכן, קאַרטלעך מאַכן, מאָלן פֿון אַ פֿאָטאָ | גיט ברירה פֿון פּראָיעקטן; האַלט עס סאָציאַל |
+| מיטל | פֿאָרגעשניטענע קאָלאַזשן, װאַסער־װאַשן, בלומען־אָרנירונג, קאָלירן מיט גרױסע פֿעלדער | איין שריט אַ מאָל; איר מאַכט דאָס שניידן און קלעפּן |
+| שפּעט | ברייטע פּינזל־שטריכן, קװעטשן טאָן, טעקסטורן אָנרירן, צוקוקן װי איר מאָלט | פֿאָקוסירן אױף די סענסן; פֿירן די האַנט װײך אויב עס איז װילקום |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+דער בריטישער NHS־דינסט זאָגט, אַז אין שפּעטערע סטאַדיעס װערן אַקטיװיטעטן אָפֿט פֿאַרפּשוטערט און פֿאָקוסירן אױף די סענסן. צוקוקן װי אַן אַנדערער מאָלט, און רעדן װעגן די פֿאַרבן, איז אַן עכטער װעג צו זיך אָנטײלנעמען. פֿאַר מער סטאַדיע־אידעען, זעט [אַקטיװיטעטן פֿאַר יעדע סטאַדיע](/activities/ideas/).
 
-## Safety with art supplies
+## זיכערקײט מיט קונסט־מאַטעריאַלן
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- נעמט נישט־גיפֿטיקע פֿאַרבן, מאַרקערס און קלעפּשטיפֿטן.
+- האַלט שערער, קונסט־מעסערס און היסע־קלעפּ־פּיסטאָלן אַװעק פֿון דער האַנט. שניידט אַלץ אַליין פֿריער.
+- קוקט אויף, אַז עמעץ טוט נישט אַרײַן טאָן, פֿאַרבן אָדער קלײנע זאַכן אין מױל.
+- ניצט פֿעסטע, שװערע קעסטן פֿאַר װאַסער און װאַזעס.
 
-## When should we stop?
+## װען זאָל מען אױפֿהערן?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+הערט אױף װען די אויפמערקזאַמקײט װאַנדערט זיך אָדער דער פֿרוסטראַציע װײַזט זיך. די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו ענדיקן אָדער ענדערן אַ טעטיקײט װען די אױפֿמערקזאַמקײט װערט שװאַך אָדער די פֿרוסטראַציע װאַקסט. לייגט דאָס פּראָיעקט אויף אַ זיכערן אָרט און בעט עפּעס רויִקעס. איר קענט צוריקקומען מאָרגן, אָדער קײנמאָל. ביידע זענען גוט.
 
-## Display the work, if the person wants
+## װײַזן די אַרבעט, אויב דער מענטש װיל
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+אַ בילד אויף דעם קיל־שראַנק אָדער אַ קאָלאַזש אין אַ ראַם קען זײַן אַן אויסדרוק פֿון רעספּעקט. פֿרעגט פֿריער. עטלעכע מענטשן האָבן ליב צו זען זייער אַרבעט אויף דער װאַנט; אַנדערע װילן עס נישט.
 
-## Pair art with our games
+## קונסט מיט אונדזערע שפּילן
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+אויב די צוגרײטונג פֿון פֿאַרבן איז צו פֿיל אַן טאָג, איז [קאָלירן](/games/coloring/) אויף אַ טאַבלעט אַן אָן מאַרך. [פּיקטשער פּאַזל](/games/picture-puzzle/) האַלט דאָס גאַנצע בילד זיכטבאַר װי אַ פֿירער בשעת איר װעקסלט שטיקלעך. [שמועס־קאַרטן](/games/conversation-cards/) גיט אָפֿענע פֿראַגן װאָס קענען פֿירן פֿון אַ בילד צו אַ געשיכטע. אַלע האָבן קײן טײמער אָדער פּונקט. איר קענט אױך דרוקן זײַטן פֿון אונדזער [דרוקבאַרע אַקטיװיטעטן־זאַמלונג](/activities/printable/).

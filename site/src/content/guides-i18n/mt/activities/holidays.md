@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Attivitajiet tal-festi għal persuna bid-dimenzja, mill-Milied 'il quddiem"
+seoTitle: "Ideat tal-festi għad-dimenzja: Milied u laqgħat tal-familja"
+description: "Attivitajiet sempliċi tal-festi għal persuna bid-dimenzja: xogħlijiet tal-kuċina, dekorazzjoni, mużika, ritratti u sejħiet bil-vidjo, u festa aktar kalma."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Żomm il-festi iżgħar, kmieni fil-ġurnata u qrib ir-rutina tas-soltu tal-persuna.
+  Agħtiha xogħol reali u sikur, bħal li titqiegħed il-mejda, tinħasel il-ħxejjex,
+  tippakkja rigal jew titwaħħal dekorazzjoni. Aqsam mużika familjari u albums
+  tal-qadim, ħejji lill-mistednin bil-quddiem, u waqqaf kamra kwieta. Agħmel biss
+  dak li tista’ tmexxi b’mod raġjonevoli; festa qasira u kalma hija tajba.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Iċċelebra kmieni fil-ġurnata, bħal pranzu jew brunch, jekk il-konfużjoni tal-aħħar tal-ġurnata hija komuni."
+  - "Offri xogħlijiet reali: titqiegħed il-mejda, tinħasel il-frott u l-ħxejjex, tippakkja, tiddekora jew tpoġġi l-ħelu fuq il-platt."
+  - "Mużika familjari, kanzunetti tal-Milied u albums tal-ritratti tal-qadim huma modi faċli biex tqassam l-istaġun."
+  - "Għid lill-mistednin x’jistennew, u uri lill-persuna ritratti ta’ min ġej."
+  - "Waqqaf kamra kwieta b’kuperta jew ġakketta favorita, u żomm iż-żajjar ftit kull darba."
+  - "Aqbeż kull ħaġa li tqila wisq, inklużi dekorazzjonijiet li jidhru bħal ikel u ħafna dwal li jdawdu."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "X’tista’ tagħmel persuna bid-dimenzja fil-festa tal-familja?"
+    a: "Agħtiha xogħol sempliċi u sikur li jaqbel ma’ dak li tista’ tagħmel illum: tinħasel il-ħxejjex, tħawwad is-salsa, titqiegħed il-mejda, tgħaqqad il-linzuli jew tpoġġi l-ħelu fuq il-platt. Wara, araw flimkien ritratti tal-familja tal-qadim jew kantaw kanzunetti familjari. Li tkun parti mill-ġurnata huwa aktar importanti minn kif jirriżulta x-xogħol."
+  - q: "Għadna nistgħu nagħmlu laqgħa kbira tal-familja?"
+    a: "Biss jekk tkun maniġġabbli. Folla u storbju jistgħu jkunu oppressivi, għalhekk ħafna familji jibdlu għal laqgħa iżgħar u aktar informali, pranzu aktar kmieni, jew żjarat f’gruppi żgħar. L-Alzheimer’s Association iħeġġeġ lil dawk li jieħdu ħsieb biex jagħmlu biss dak li jistgħu jmexxu b’mod raġjonevoli u sikur."
+  - q: "Kif nippreparaw lill-qraba li ilhom ma jiġu?"
+    a: "Għidilhom qabel ma jaslu dwar bidliet li jistgħu jinnotaw, u li dawn ġejjin mill-marda, mhux mill-persuna. Itlobhom ma jikkoreġux u ma jistaqsux bħal eżami, jitkellmu wieħed wieħed u jagħtu ħin għat-tweġibiet. Li turi lill-persuna ritratti tal-mistednin bil-quddiem jista’ jgħin ukoll."
+  - q: "X’rigali tal-festi jaqblu ma’ persuna li tgħix bid-dimenzja?"
+    a: "Affarijiet sempliċi u sikuri li jistgħu jgawdu issa: spuntin favorit, kuperta jew ġakketta tas-suf rqiqa, mużika familjari, jew album ta’ ritratti tal-familja. Evita elettronika kumplessa, għodda u logħbiet tal-bord iebsa. Li tinvolviha fl-għoti, bħal li tippakkja rigal jew ħlewwa li għenet tagħmel, jista’ jkun rigal fih innifsu."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Il-festi jistgħu jqajmu memorji sbieħ, iżda jistgħu wkoll iġibu storbju, folla u bidliet fil-ġurnata tas-soltu. Għal persuna li qed tgħix bid-dimenzja, l-aħjar ċelebrazzjonijiet normalment huma iżgħar, aktar bil-mod u mibnija madwar affarijiet li għadhom jistgħu jgawdu. Dawn l-ideat jaħdmu għall-Milied, għall-Għid, għas-Sena l-Ġdida u għal għeluq is-snin tal-familja.
 
-## How do I plan a calmer holiday?
+## Kif nippjana festa aktar kalma?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Ibda mir-rutina tal-persuna u ppjana l-ġurnata madwarha. L-[Alzheimer’s Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) jissuġġerixxi li ċċelebra kmieni fil-ġurnata, għax il-konfużjoni u l-inkwiet spiss jikbru fl-aħħar tal-ħin ta’ wara n-nofsinhar u fil-għaxija (xi kultant imsejħa sundowning). Pranzu jew brunch tal-festa jista’ jkun aktar faċli minn pranzu tard bil-lejl.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Żomm id-daqs it-tajjeb.** Laqgħa iżgħar u aktar informali, jew mistednin li jaslu ftit ftit, spiss huma aktar faċli minn mejda waħda mimlija nies.
+- **Qassam ix-xogħlijiet.** Itlob lill-qraba jġibu platt, jagħmlu x-xiri jew iqattgħu ħin mal-persuna waqt li int tissajjar. Kun speċifiku dwar dak li jgħin.
+- **Żomm id-dekorazzjonijiet sempliċi.** L-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/holidays) jgħid li dawl li jdawwal u jitfa’ jista’ jqajjem konfużjoni, u li ħelu jew frotta artifiċjali użata bħala dekorazzjoni tista’ tinħatar bħala ikel.
+- **Iddeċiedi x’titlef.** Jekk xi tradizzjoni saret stressanti jew perikoluża, huwa tajjeb li tgħaddi minnha jew tipprova waħda aktar kwieta.
 
-## What holiday activities can we do together?
+## X’attivitajiet tal-festi nistgħu nagħmlu flimkien?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Agħżel xogħlijiet u għamliet li jaqblu ma’ dak li l-persuna tista’ tagħmel illum. Li tkun parti mill-ġurnata huwa aktar importanti minn kif jirriżulta.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Qiegħdu l-mejda flimkien.** Poġġu l-platti l-ewwel, imbagħad il-linzuli, imbagħad il-kikkri. Tqaxxir il-linzuli huwa xogħol tajjeb biex tqgħod bilqiegħda għalih.
+2. **Aħsel u aqsam il-ħxejjex.** Il-ħasil tal-patata jew it-tqattigħ tal-fażola ħadra fuq il-mejda tal-kuċina huwa sikur u familjari għal ħafna nies li kienu jisajru qabel.
+3. **Ħawwad, aqta’ jew poġġi fuq il-platt.** It-tħawwid ta’ salsa tal-frott, it-tħejjija ta’ għaġina sempliċi jew it-tqegħid tal-ħelu fuq il-platt iżommu lill-idejn okkupati, ’il bogħod mill-kuluri u mis-sikkina.
+4. **Ippakkja rigal.** Qatta’ l-karta u s-skotch minn qabel, u ħalli l-persuna tgħaqqad u tlaqqa’ l-karta. L-ippakkjar tajjeb mhux huwa l-punt.
+5. **Poġġi ftit dekorazzjonijiet.** Agħżel burdnijiet li ma jinkissrux u żona waħda żgħira, bħal ġirlanda jew siġra żgħira.
+6. **Agħmel għamla sempliċi.** Ktajjen tal-karta, kollaġ tal-weraq jew kartolina tal-festa bl-istampi jaħdmu tajjeb. Il-[gwida tagħna dwar l-arti u l-kraft](/activities/arts-and-crafts/) fiha aktar ideat.
+7. **Ikanta u isma’.** Kanzunetti tal-Milied u kanzunetti tal-festi huma faċli biex tingħaqad magħhom, anke għal min jitkellem inqas issa. Ara [il-gwida tagħna dwar il-mużika](/activities/music/) biex tibni playlist.
+8. **Ara albums tal-festi qodma.** Ġib albums minn ċelebrazzjonijiet preċedenti u stieden lill-persuna tirrakkonta stejjer (“Għidli dwar din il-mejda”) minflok tistaqsi min hu min. Il-[gwida tagħna dwar it-tfakkir](/activities/reminiscence/) tispjega kif.
+9. **Ilagħab logħba ta’ grupp ġentili.** [Picture bingo](/games/picture-bingo/) jitħejja f’ftit minuti u jaħdem għal kull età, u [conversation cards](/games/conversation-cards/) jagħtu lil kulħadd xi ħaġa x’jitkellmu dwarha.
+10. **Ikkuluraw flimkien.** [Paġni tal-kulur](/games/coloring/) sempliċi jistgħu jiġu stampati għat-tfal u għan-nanniet biex jaqsmuhom mal-mejda.
+11. **Ara film favorit tal-festa.** Film familjari huwa rilassanti, u huwa tajjeb li tara biss parti minnu.
+12. **Ħarġa qasira biex tara d-dwal.** Vjaġġ kwiet ’il fuq minn djar iddekorati jista’ jkun aktar faċli minn avveniment mimli nies.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Jekk it-tisjir kien parti kbira mill-ħajja tal-persuna, il-gwida tagħna dwar [ix-xogħlijiet tad-dar bħala attivitajiet](/activities/household-tasks/) fiha aktar modi biex xogħlijiet tal-kuċina jsiru sikuri u sodisfaċenti.
 
-## How do I prepare guests?
+## Kif nippreparaw lill-mistednin?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Għid lill-mistednin x’jistennew qabel ma jaslu, speċjalment lill-qraba li ilhom ma jiġu. L-Alzheimer’s Association jissuġġerixxi li tispjega li bidliet fil-memorja u fl-imġiba ġejjin mill-marda, mhux mill-persuna.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Aqsam ftit pariri sempliċi:** tkellmu wieħed wieħed, agħtu ħin biex titlesta ħsieb, ma tikkoreġix u ma tistaqsix bħal eżami, u irrispondu għat-ton tal-persuna jekk il-kliem ikun diffiċli biex jinftiehem.
+- **Għid x’jgħin u x’jiddejjaq.** Jekk leħen għoli, il-fretta jew ċerti suġġetti joħolqu stress, għidu.
+- **Introduċi lill-mistednin bil-quddiem.** Uri lill-persuna ritratti ta’ min ġej u aqsam storja jew tnejn, jew organizza sejħa qasira bit-telefon jew bil-vidjo qabel il-ġurnata.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Il-[suġġerimenti tagħna dwar il-komunikazzjoni](/caregiving/communication-tips/) jidħlu f’aktar dettall.
 
-## What if it gets to be too much?
+## X’jiġri jekk ikun wisq?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Waqqaf kamra kwieta qabel ma jaslu l-mistednin, ’il bogħod mill-istorbju, b’oġġetti tal-kumdità familjari bħal kuperta favorita, ġakketta jew attività sempliċi. Offrieha kmieni u spiss: “Immorru nqagħdu f’post aktar kwiet għal ftit?”
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Li titlaq mill-mejda, tmur torqod kmieni jew taqbeż parti mill-ġurnata huwa riżultat tajjeb, mhux falliment. Jekk il-persuna titnikket, leħen kalm, kanzunetta familjari jew mixja għal kamra oħra spiss jgħinu aktar minn raġunament. Il-[gwida tagħna dwar l-inkwiet tal-aħħar tal-ġurnata](/caregiving/late-day-restlessness/) fiha aktar ideat għall-għaxijiet.
 
-## How can family far away take part?
+## Kif jistgħu n-nies ’il bogħod jieħdu sehem?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Sejħiet bil-vidjo jippermettu lill-qraba jingħaqdu mingħajr ma jżidu mal-folla. L-Alzheimer’s Association jissuġġerixxi li tagħti lis-sejħiet xi struttura, pereżempju li tkantaw kanzunetti tal-istaġun, taqsmu ritratti minn laqgħat preċedenti, issajru l-istess wasfa flimkien jew tarawh film tal-festa fl-istess ħin. Żomm is-sejħiet qosra, u itlob lin-nies jitkellmu wieħed wieħed, għax it-taħdit flimkien huwa diffiċli biex jinftiehem. Il-[gwida tagħna dwar it-telefonati u s-sejħiet bil-vidjo](/activities/phone-and-video-calls/) fiha ideat pass pass.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Jekk il-persuna tgħix f’kura għall-memorja, iċċekkja l-politika taż-żjarat u itlob lill-persunal jgħinu jqiegħdu sejħa. Il-gwida tagħna dwar [iż-żjara lil xi ħadd fil-kura tal-memorja](/activities/visiting/) tkopri x’tiġbed u kif titlaq tajjeb.
 
-## What gifts suit someone with dementia?
+## Liema rigali jaqblu ma’ persuna li tgħix bid-dimenzja?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Rigali sempliċi u sikuri li jistgħu jgawdu issa normalment jaħdmu l-aħjar: spuntin favorit, kuperta jew ġakketta tas-suf rqiqa, mużika familjari, kalendarju b’ittri kbar, jew album ta’ ritratti tal-familja. L-Alzheimer’s Association jissuġġerixxi li tevita għodda perikoluża, elettronika kumplessa u logħbiet tal-bord iebsa.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+L-għoti jista’ jkun importanti daqs il-wirt tar-rigal. Li tippakkja l-ħlewwa li l-persuna għenet tagħmel, jew li tagħmel lill-persuna tippakkja rigal li xtrajt int, iħalli lill-persuna tieħu sehem fl-istaġun. Idea oħra hija logħba tal-ritratti tal-familja: [Photo pairs](/games/photo-pairs/) iħawwel ftit ritratti magħżula f’logħba ġentili ta’ tqabbil fil-browser.
 
-## Look after yourself too
+## Ieħu ħsiebek ukoll
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Il-festi jżidu x-xogħol mal-kura. Ħalli xi ħadd ieħor jospita jew jissajjar il-laħam tal-festa, għid le għal avvenimenti li jkunu diffiċli, u ħu waqfiet waqt li oħrajn iqattgħu ħin mal-persuna. Jekk int jew il-persuna li tieħu ħsiebha tkun marida, tlewwiħ idek mill-bieb jew sejħa bil-vidjo hija żjara tajba kif jixraq. Il-[gwida tagħna dwar il-kura tal-ħajja tiegħek innifsek](/caregiving/caregiver-self-care/) fiha aktar appoġġ.

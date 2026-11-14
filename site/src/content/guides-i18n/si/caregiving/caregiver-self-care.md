@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "සැලකිලිමත් වන්නාගේ ස්වයං සත්කාර: විවේකය, සහාය සහ වෙහෙසේ සං‍ඥා"
+seoTitle: "ඩිමෙන්ශියා සැලකිලිමත් වන්නාගේ ස්වයං සත්කාර: විවේකය සහ සහාය"
+description: "සැලකිලිමත් වන්නෙකුගේ වෙහෙසේ සං‍ඥා, විවේකය සහ සහාය කණ්ඩායම් සොයන ආකාරය, සහ Alzheimer's Association 24/7 Helpline සහ Eldercare Locator ඇතුළු නොමිලේ දුරකථන සේවා."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  ඩිමෙන්ශියාව ඇති කෙනෙකු සැලකිලිමත් වීම දුෂ්කරය, සහ ඔබ ම ගැන සැලකිලිමත් වීම එම කාර්යයේ කොටසකි. මහන්සිය, කෝපය, දුර්වල නින්ද සහ මිතුරන්ගෙන් ඈත් වීම වැනි අනතුරු ඇඟවීමේ සං‍ඥා දෙස බලා සිටින්න. නිශ්චිත උදව් ඉල්ලන්න, විවේක සත්කාර භාවිතා කරන්න, සහ සහාය කණ්ඩායමකට එක් වන්න. ඇමරිකාවේ නොමිලේ උදව් අතර Alzheimer's Association 24/7 Helpline 1-800-272-3900 සහ Eldercare Locator 1-800-677-1116 ඇතුළත් වේ.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "වෙහෙස බොහෝ විට මහන්සිය, කෝපය, දුර්වල නින්ද, දුක සහ ඔබේම සෞඛ්‍ය සත්කාර අතහැරීම ලෙස පෙනී යයි."
+  - "විවේක සත්කාර ඔබට විවේකයක් ලබා දෙයි, පැය කිහිපයේ සිට සති කිහිපය දක්වා, නිවසේ හෝ සත්කාර පරිසරයක."
+  - "නිශ්චිත කාර්යයන් සඳහා උදව් ඉල්ලන්න; බොහෝ අය උදව් කිරීමට කැමතිය, එහෙත් කෙසේද යන්න නොදනී."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) ඕනෑම වේලාවක නොමිලේ, රහසිගත සහාය ලබා දෙයි."
+  - "Eldercare Locator (1-800-677-1116) ඔබව ඔබේ Area Agency on Aging ඇතුළු දේශීය සේවාවන්ට සම්බන්ධ කරයි."
+  - "ඔබ අර්බුදයක සිටින බව දැනේ නම්, 988 අමතන්න හෝ පණිවිඩයක් යවන්න. හදිසි අවස්ථාවකදී ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "සැලකිලිමත් වන්නෙකුගේ වෙහෙසේ සං‍ඥා මොනවාද?"
+    a: "පොදු සං‍ඥා අතර මහන්සි වීම, අභිභවනය වීම හෝ කලබල වීම, ඉක්මනින් කෝප වීම හෝ ඉවසීම නැතිවීම, නින්ද ගැටළු, දුක් වීම හෝ බලාපොරොත්තු සුන්වීම, මිතුරන්ගෙන් ඈත් වීම, නිතර හිසරදය හෝ වේදනාව, සහ ඔබේම ආහාර, ව්‍යායාම හෝ වෛද්‍ය සත්කාර මඟ හැරීම ඇතුළත් වේ. මෙවැනි සං‍ඥා නිතිපතා ඇති වුවහොත්, ඔබේ වෛද්‍යවරයා සමඟ කතා කරන්න."
+  - q: "මා අසල විවේක සත්කාර සොයා ගන්නේ කෙසේද?"
+    a: "Eldercare Locator (1-800-677-1116 හෝ eldercare.acl.gov) වෙතින් ආරම්භ කර, ඔබේ දේශීය Area Agency on Aging, ARCH National Respite Locator Service, හෝ Alzheimer's Association Helpline 1-800-272-3900 වෙත සම්බන්ධ වන්න. පවුලේ අය, මිතුරන් සහ ස්වේච්ඡා සේවකයන්ටද විවේකය ලබා දිය හැක."
+  - q: "Medicare මගින් විවේක සත්කාර සඳහා ගෙවනවාද?"
+    a: "National Institute on Aging අනුව, රෝහල් සත්කාර ලබන පුද්ගලයෙකු සඳහා, රෝහලක හෝ දක්ෂ හෙද ආයතනයක අනුයාත දින පහක් දක්වා විවේක සත්කාරයේ වියදමෙන් බොහොමයක් Medicare ආවරණය කරයි. බොහෝ පෞද්ගලික සෞඛ්‍ය රක්ෂණ විවේක ආවරණය නොකරයි; Medicaid සහ සමහර දිගුකාලීන සත්කාර රක්ෂණ සැලසුම් උදව් විය හැක."
+  - q: "Alzheimer's Association Helpline සැබවින්ම නොමිලේද සහ රාත්‍රියේද ලබා ගත හැකිද?"
+    a: "ඔව්. Alzheimer's Association පවසන්නේ 1-800-272-3900 Helpline එක නොමිලේ, රහසිගත වන අතර, වසරේ දින 365ම, පැය 24ම කාර්ය මණ්ඩලය සිටින බවයි, බොහෝ භාෂාවලින් උදව් ඇත. රිලේ සේවාව සඳහා 711 අංකය අමතන්න."
+  - q: "සැලකිලිමත් වීමෙන් විවේක ගැනීම ආත්මාර්ථකාමී ද?"
+    a: "නැත. විවේකය ඔබට සැලකිලිමත් වීම දිගටම කිරීමට උදව් කරයි, සහ විවේක සත්කාරය ඔබේ සැලකිලිමත් වන පුද්ගලයාට වෙනත් සහකාරත්වයක් සහ ක්‍රියාකාරකමක් ද ලබා දිය හැක. බොහෝ සැලකිලිමත් වන අය පසුව කියන්නේ තමන් කලින් උදව් ඉල්ලා තිබුණා නම් හොඳ වූයේ යයි."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+ඩිමෙන්ශියාව ඇති කෙනෙකු සැලකිලිමත් වෙමින් ඔබ මෙය කල් රැයේ, වෙහෙසෙන්, සහ ඔබ නොකළ දේවල් ලැයිස්තුවක් සමඟ කියවනවා විය හැක. ඒක සාමාන්‍යයි. ඔබ ගැන සැලකිලිමත් වීම සුඛෝපභෝගයක් හෝ සියල්ල අවසන් කිරීමට ලැබෙන විපාකයක් නොවේ. එය ඔබට දිගටම යාමට ඉඩ දෙන දෙයයි.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+මෙම පිටුව වෙහෙසේ අනතුරු ඇඟවීමේ සං‍ඥා, සැබෑ විවේකයක් ලබා ගන්නා ආකාරය, සහාය කොහේ සොයා ගත හැකිද, සහ ඔබට අද අමතන්න පුළුවන් නොමිලේ ඇමරිකානු දුරකථන සේවා ආවරණය කරයි.
 
-## What are the signs of caregiver burnout?
+## සැලකිලිමත් වන්නෙකුගේ වෙහෙසේ සං‍ඥා මොනවාද?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+වෙහෙස බොහෝ විට සෙමින් ඇතුළු වන බැවින්, ඔබේම අනතුරු ඇඟවීමේ සං‍ඥා දැන සිටීම උදව් වේ. [ජාතික වයෝවෘද්ධ ආයතනය (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) සැලකිලිමත් වන්නෙකුගේ ආතතියේ සං‍ඥා ලැයිස්තු කරයි, ඒවා අතර:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- මහන්සි වීම, අභිභවනය වීම හෝ කලබල වීම;
+- පහසුවෙන් කෝප වීම හෝ ඉවසීම නැතිවීම;
+- තනිකම හෝ අන් අයගෙන් විසන්ධි වීම;
+- නින්දේ ගැටළු, හෝ ප්‍රමාණවත් නින්ද නොලැබීම;
+- දුක් වීම හෝ බලාපොරොත්තු සුන්වීම, හෝ ඔබ කලින් රසවිඳි දේවල් කෙරෙහි උනන්දුව නැතිවීම;
+- නිතර හිසරදය, වේදනාව හෝ වෙනත් ශාරීරික ගැටළු;
+- ඔබට ව්‍යායාම කිරීමට හෝ සෞඛ්‍ය සම්පන්න ආහාර සෑදීමට කාලයක් නොමැතිකම;
+- නාන්න හෝ වෙනත් පෞද්ගලික සත්කාර මඟ හැරීම;
+- මත්පැන් හෝ මත්ද්‍රව්‍ය අවභාවිතය, වට්ටෝරු ඖෂධ ඇතුළුව.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) රෝගය ගැන ප්‍රතික්ෂේපය, පුද්ගලයා ගැන කෝපය (“ඔහු හුදෙක් හිතුවක්කාර වෙනවා”), අනාගතය ගැන කලබලය, අවධානය යොමු කිරීමේ අපහසුතාව, සහ සෞඛ්‍ය ගැටළු බරක් වීම වැනි සං‍ඥා එකතු කරයි. මෙවැනි සං‍ඥා නිතිපතා ඇති වුවහොත් ඔබේ වෛද්‍යවරයා සමඟ කතා කරන ලෙස එය උපදෙස් දෙයි.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA හි උපදෙස් වන්නේ ඔබ සම්පූර්ණයෙන් අභිභවනය වන තෙක් බලා නොසිටින ලෙසයි. ඔබේ සං‍ඥා කල්තියා දැක, ඒවාට ක්‍රියා කරන්න.
 
-## What can I do today, in five minutes?
+## අද, මිනිත්තු පහකින් මට කුමක් කළ හැකිද?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+කෙටි විවේක ද ගණන් ගනී. මේ කිසිවක් වෙහෙස සුවපත් නොකළත්, දුෂ්කර දහවලක් ගෙවා ගැනීමට ඒවා උදව් කළ හැක.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **පිටතට යන්න.** පුද්ගලයා ආරක්ෂිතව සහ සන්සුන්ව සිටින අතරතුර බාල්කනියේ වාඩි වන්න, හෝ තැපැල් පෙට්ටිය දක්වා ඇවිදින්න.
+- **සෙමින් හුස්ම ගන්න.** දුෂ්කර ප්‍රශ්නයකට පිළිතුරු දීමට පෙර, සෙමින් හුස්ම කිහිපයක්. ඔබ සැලකිලිමත් වන පුද්ගලයා සමඟද [Calm Breathing](/games/calm-breathing/) විරාමයක් බෙදා ගත හැක.
+- **වතුරු බොන්න සහ යමක් කන්න.** ඔබේම ආහාර අමතක වීම පහසුය.
+- **එක් මිතුරෙකුට පණිවිඩයක් යවන්න.** කිසිවක් ඉල්ලීමට නොව, සම්බන්ධ වීමට පමණි.
+- **ඔබටම කරුණාවන්ත වචනයක් කියන්න.** NIA හි [ඔබ ගැන සැලකිලිමත් වීමේ මාර්ගෝපදේශය](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) “මම හැකි උපරිමය කරමි,” “මම පරිපූර්ණ නොවෙමි, ඒ ගැන ගැටළුවක් නැත,” සහ “අපට සාමයෙන් එකට සිටිය හැකි මොහොත් මම රසවිඳිමි” වැනි වාක්‍ය යෝජනා කරයි.
 
-## What is respite care, and how do I get it?
+## විවේක සත්කාරය යනු කුමක්ද, සහ මට එය ලබා ගන්නේ කෙසේද?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+විවේක සත්කාරය යනු ඔබ සැලකිලිමත් වන පුද්ගලයා සඳහා කෙටිකාලීන සත්කාරයක්, ඔබට විවේක ගත හැකි පරිදි. [විවේක සත්කාරය පිළිබඳ NIA පිටුව](https://www.nia.nih.gov/health/caregiving/what-respite-care) පැහැදිලි කරන්නේ එය පැය කිහිපයේ සිට සති කිහිපය දක්වා පැවතිය හැකි බවත්, එය නිවසේ, සෞඛ්‍ය සත්කාර පහසුකමක හෝ වැඩිහිටි දින සත්කාර මධ්‍යස්ථානයක සිදුවිය හැකි බවත්ය.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) පොදු වර්ග විස්තර කරයි:
 
-| Type | What it is |
+| වර්ගය | එය කුමක්ද |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| නිවසේ උදව් | මිතුරෙක්, ඥාතියෙක්, ස්වේච්ඡා සේවකයෙක් හෝ ගෙවන සහකරුවෙක් හෝ උදව්කරුවෙක් නිවසට පැමිණේ |
+| වැඩිහිටි දින මධ්‍යස්ථානය | ආරක්ෂිත කණ්ඩායම් පරිසරයක සංගීතය සහ කලා වැනි සැලසුම් කළ ක්‍රියාකාරකම්; ප්‍රවාහනය සහ ආහාර බොහෝ විට ලබා දේ |
+| රාත්‍රී හෝ කෙටි නැවතීම | දිගුකාලීන සත්කාර ප්‍රජාවක් පුද්ගලයා රැයක්, දින කිහිපයක් හෝ සති කිහිපයක් සඳහා සත්කාර කරයි |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**ගෙවන්නේ කවුද?** NIA අනුව, පවුලේ අය, මිතුරන් හෝ ස්වේච්ඡා සේවකයන්ගෙන් ලැබෙන විවේකයට කිසිවක් වැය නොවිය හැක. වෘත්තීය සේවාවන් පැයට හෝ දිනකට ගාස්තු අය කරයි. රෝහල් සත්කාර ලබන පුද්ගලයෙකු සඳහා, රෝහලක හෝ දක්ෂ හෙද ආයතනයක දින පහක් දක්වා සන්තතික විවේකයේ වියදමෙන් බොහොමයක් Medicare ආවරණය කරයි. Medicaid උදව් විය හැක. බොහෝ පෞද්ගලික සෞඛ්‍ය රක්ෂණ විවේක ආවරණය නොකරයි, එහෙත් සමහර දිගුකාලීන සත්කාර රක්ෂණ සැලසුම් ආවරණය කරයි.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**ඉඟියක්:** Alzheimer's Association යෝජනා කරන්නේ හදිසි නොවන අවස්ථාවක විවේක සත්කාර සපයන්නන් උත්සාහ කරන ලෙසයි, එවිට ඔබට හදිසියේ උදව් අවශ්‍ය වුවහොත් ඔවුන් සූදානම්ව සිටී.
 
-## Where can I find help near me?
+## මට ආසන්නයේ උදව් කොහේ සොයා ගත හැකිද?
 
-Several free US services can point you to local help.
+ප්‍රදේශයේ උදව් වෙත ඔබව යොමු කළ හැකි නොමිලේ ඇමරිකානු සේවා කිහිපයක්.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) නොමිලේ සහ රහසිගත වන අතර, වසරේ සෑම දිනකම දවසේ සෑම පැයකම කාර්ය මණ්ඩලය සිටී, ද්වි භාෂික කාර්ය මණ්ඩලය හෝ පරිවර්තකයන් හරහා භාෂා 200කට වඩා උදව් ඇත. රිලේ සේවාව සඳහා 711 අමතන්න. හැසිරීම් වෙනස්කම්, සැලකිලිමත් වන්නාගේ ආතතිය, විවේක විකල්ප, දේශීය වැඩසටහන් සහ තවත් දේ ගැන ඔබට කතා කළ හැක, සහ සත්කාර උපදේශකයෙකු සමඟ දිගු සංවාදයක් ඉල්ලිය හැක. කාර්ය මණ්ඩලය වෛද්‍ය උපදෙස් නොදෙයි.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living හි රජයේ සේවාවක්, වැඩිහිටියන් සහ ඔවුන්ගේ පවුල්වලට සේවා සමඟ ඔබව සම්බන්ධ කරයි. ඔබට පුහුණු කාර්ය මණ්ඩලය අමතන්න, පණිවිඩයක් යවන්න, අන්තර්ජාලයෙන් කතා කරන්න හෝ ඊමේල් කරන්න, හෝ ස්ථානය අනුව සොයන්න. එය ඔබේ දේශීය Area Agency on Aging වෙත ඔබව යොමු කළ හැක.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ප්‍රාන්තය අනුව විවේක සපයන්නන් සොයා ගැනීමට ඔබට උදව් කරයි, සහ ඔබේ ප්‍රාන්තයේ එකක් තිබේ නම් පළමුව ඔබේ State Respite Coalition හෝ Lifespan Respite වැඩසටහන සම්බන්ධ කරන ලෙස යෝජනා කරයි. ARCH සටහන් කරන්නේ එය සපයන්නන් පරීක්ෂා නොකරන බවයි, එබැවින් ඔවුන් ගැන ඔබම ඔවුන්ගේ අත්දැකීම සහ පසුබිම සමාලෝචනය කරන්න.
 
-## How do I find a support group?
+## සහාය කණ්ඩායමක් සොයා ගන්නේ කෙසේද?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+ආසන්නයේ කණ්ඩායම් ගැන Helpline එකෙන් අසන්න, හෝ අන්තර්ජාලයෙන් බලන්න. Alzheimer's Association සැලකිලිමත් වන අයට සහ ඩිමෙන්ශියාව ඇති අයට [සහාය කණ්ඩායම් පවත්වයි](https://www.alz.org/help-support/community/support-groups), පුහුණු පරිපාලකයන් විසින් මෙහෙයවන, ප්‍රත්‍යක්ෂව සහ මාර්ගගතව. බොහෝ ස්ථානවල වැඩිහිටි සැලකිලිමත් වන අය හෝ මුල් අවධියේ හෝ වයසට පෙර ආරම්භ වන Alzheimer's ඇති අය සඳහා වැනි විශේෂිත කණ්ඩායම්ද ඇත. එය ALZConnected ද සත්කාර කරයි, සැලකිලිමත් වන අය උපදෙස් බෙදා ගන්නා නොමිලේ මාර්ගගත ප්‍රජාවකි.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+සහාය කණ්ඩායම් විනිශ්චයකින් තොරව කාරණා පිටතට දැමීමට, එහි සිටි අයගෙන් ප්‍රායෝගික ඉඟි ලබා ගැනීමට, සහ තනිකම අඩුවෙන් දැනීමට ස්ථානයක් විය හැක. පළමු කණ්ඩායම ගැළපෙන්නේ නැතිනම්, වෙනත් එකක් උත්සාහ කරන්න.
 
-## How do I ask family and friends for help?
+## පවුලේ අයගෙන් සහ මිතුරන්ගෙන් උදව් ඉල්ලන්නේ කෙසේද?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+නිශ්චිත වන්න. බොහෝ අයට උදව් කිරීමට අවශ්‍ය නමුත්, කුමක් ලබා දිය හැකිද යන්න නොදනී. NIA යෝජනා කරන්නේ:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- අන් අයට ගත හැකි කාර්යයන්ගේ **ලැයිස්තුවක් තබා ගන්න**, සහ මිනිසුන්ට තෝරා ගැනීමට ඉඩ දෙන්න.
+- ඉල්ලීම දුෂ්කර නම් **කුඩාවෙන් ආරම්භ කරන්න**.
+- **කාර්යය පුද්ගලයා සමඟ ගළපන්න.** උයන්න ආදරය කරන ඥාතියා බ්‍රහස්පතින්දා ආහාර ගෙන එයි. පෝරම් හොඳින් දන්නා අසල්වැසියා ලේඛන කටයුතුවලට උදව් කරයි.
+- මුහුණට මුහුණ ඉල්ලීම අපහසු නම් **පණිවිඩයක් හෝ ඊමේල් යවන්න**.
+- යමෙක් පිරිනැමූ විට **පිළිතුරක් පුහුණු කරන්න**: “ඇසීම ගැන ස්තූතියි. ඔබට කළ හැක්කේ මේකයි.”
+- **සමහර “නැත” ලැබෙනු ඇතැයි අපේක්ෂා කරන්න**, සහ ඒවා පුද්ගලිකව නොගන්න.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+වෙනත් අදහස්: සතියකට එක් දහවලක පුද්ගලයා සමඟ වාඩි වීමට යමෙකුගෙන් ඉල්ලන්න, ඔවුන්ව කෙටි චාරිකාවකට රැගෙන යන්න, හෝ සංචාරය කර එකට ක්‍රීඩාවක් කරන්න. අමුත්තන්ට පහසුවෙන් බෙදා ගත හැකි අපගේ [එකට ක්‍රීඩා කිරීමේ මාර්ගෝපදේශය](/caregiving/how-to-play-together/) ඇත.
 
-## What if something happened to me?
+## මට යම් දෙයක් සිදු වුවහොත් කුමක් කළ යුතුද?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+දැන් සරල උපස්ථ සැලැස්මක් සාදන්න. NIA යෝජනා කරන්නේ පවුලේ අය හෝ සමීප මිතුරන් සමඟ කවුරුන් ඉදිරිපත් වේද යන්න තීරණය කර, හදිසි දුරකථන අංක, ඖෂධ, ක්‍රියා කරන හැසිරීම් ඉඟි, සහ ප්‍රියතම ක්‍රියාකාරකම් සහිත සටහන් පොතක් තබා ගන්නා ලෙසයි. Alzheimer's Association ද පුද්ගලයාගේ වෛද්‍ය සම්බන්ධතා සහ යාවත්කාලීන ඖෂධ ලැයිස්තුව පහසුවෙන් සොයා ගත හැකි ලෙස තබා ගන්නා ලෙස නිර්දේශ කරයි.
 
-## When should I get professional or urgent help?
+## වෘත්තීය හෝ හදිසි උදව් කවදා ලබා ගත යුතුද?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+ආතතියේ සං‍ඥා නිතිපතා නම්, ඔබ විෂාදයට පත් වී ඇතැයි දැනේ නම්, හෝ ඔබ සිය ගැටළු කළමනාකරණය කර ගැනීමට අරගල කරන්නේ නම්, ඔබේ වෛද්‍යවරයා සමඟ කතා කරන්න. ඔබ සැලකිලිමත් වන්නෙකු බව වෛද්‍යවරයාට කියන්න. NIA සටහන් කරන්නේ උපදේශකයන් සහ සමාජ සේවකයන් දුෂ්කර හැඟීම් සහ සැලසුම් කිරීමට උදව් කළ හැකි බවත්, Medicare, Medicaid සහ සමහර පෞද්ගලික රක්ෂණ මානසික සෞඛ්‍ය වියදම් සමහරක් ආවරණය කළ හැකි බවත්ය.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+ඔබ අර්බුදයක සිටින බවට හෝ ඔබම හානි කර ගැනීමේ සිතුවිලි ඇති බවට හැඟේ නම්, [988 Suicide & Crisis Lifeline](https://988lifeline.org/) වෙත 988 අමතන්න හෝ පණිවිඩයක් යවන්න, එය නොමිලේ සහ පැය 24/7 ලබා ගත හැකිය. යම් කෙනෙක් ක්ෂණික අනතුරේ සිටී නම්, ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න.
 
-## Can shared activities give me a break too?
+## එකට ක්‍රියාකාරකම් මට ද විවේකයක් දිය හැකිද?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+සමහර විට හැකිය. ඔබ දෙදෙනාම රසවිඳින සන්සුන් ක්‍රියාකාරකමක් ඔබට මෙන්ම ඔබ සැලකිලිමත් වන පුද්ගලයාටද දවසේ මෘදු කොටසක් විය හැක: පැරණි ගීත ශ්‍රවණය කිරීම, ඡායාරූප බැලීම, හෝ නිවැරදි පිළිතුරු අවශ්‍ය නොවන [Conversation Cards](/games/conversation-cards/) වැනි ක්‍රීඩාවක්. පුද්ගලයා සමාගම රසවිඳින්නේ නම්, ජ්‍යෙෂ්ඨ මධ්‍යස්ථානයක හෝ වැඩිහිටි දින වැඩසටහනක [Picture Bingo](/games/picture-bingo/) සමඟ කණ්ඩායම් සැසියක් ඔබට පැය එකක විවේකයක් ලබා දිය හැක. ඉඟි සඳහා [සත්කාර නිවාස කණ්ඩායම් සඳහා ක්‍රියාකාරකම්](/activities/care-home-groups/) බලන්න.

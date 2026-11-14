@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "ການດູແລຕົນເອງຂອງຜູ້ດູແລ: ການພັກຜ່ອນ ການສະໜັບສະໜູນ ແລະສັນຍານຂອງຄວາມໝົດແຮງ"
+seoTitle: "ການດູແລຕົນເອງຂອງຜູ້ດູແລໂຣກສະໝອງເສື່ອມ: ການພັກຜ່ອນ"
+description: "ສັນຍານຂອງຄວາມໝົດແຮງໃນການດູແລ ວິທີຫາການພັກຜ່ອນ ແລະກຸ່ມສະໜັບສະໜູນ ພ້ອມສາຍດ່ວນຟຣີໃນສະຫະລັດ ລວມທັງ Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  ການດູແລຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມເປັນເລື່ອງຍາກ ແລະການດູແລຕົວເອງເປັນສ່ວນໜຶ່ງຂອງໜ້າທີ່. ສັງເກດສັນຍານເຕືອນເຊັ່ນອ່ອນເພຍ ໃຈຮ້ອນ ນອນບໍ່ຫຼັບ ແລະຖອຍຫ່າງຈາກໝູ່ເພື່ອນ. ຂໍຄວາມຊ່ວຍເຫຼືອທີ່ເຈາະຈົງ ໃຊ້ການດູແລແທນຊົ່ວຄາວ ແລະເຂົ້າກຸ່ມສະໜັບສະໜູນ. ຄວາມຊ່ວຍເຫຼືອຟຣີໃນສະຫະລັດລວມທັງສາຍດ່ວນ 24/7 ຂອງ Alzheimer's Association ທີ່ 1-800-272-3900 ແລະ Eldercare Locator ທີ່ 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "ຄວາມໝົດແຮງມັກປາກົດເປັນຄວາມອ່ອນເພຍ ໃຈຮ້ອນ ນອນບໍ່ຫຼັບ ຄວາມໂສກເສົ້າ ແລະການລະເລີຍສຸຂະພາບຂອງຕົນເອງ."
+  - "ການດູແລແທນຊົ່ວຄາວໃຫ້ທ່ານໄດ້ພັກ ຕັ້ງແຕ່ບໍ່ເທົ່າໃດຊົ່ວໂມງຈົນເຖິງຫຼາຍອາທິດ ທີ່ເຮືອນ ຫຼືໃນສະຖານທີ່ດູແລ."
+  - "ຂໍຄວາມຊ່ວຍເຫຼືອສຳລັບວຽກສະເພາະ ຫຼາຍຄົນຢາກຊ່ວຍແຕ່ບໍ່ຮູ້ວ່າຈະເຮັດຫຍັງ."
+  - "ສາຍດ່ວນ 24/7 ຂອງ Alzheimer's Association (1-800-272-3900) ໃຫ້ການສະໜັບສະໜູນຟຣີ ແລະເປັນຄວາມລັບ ຕອນໃດກໍໄດ້."
+  - "Eldercare Locator (1-800-677-1116) ເຊື່ອມຕໍ່ທ່ານກັບບໍລິການທ້ອງຖິ່ນ ລວມທັງ Area Agency on Aging ຂອງທ່ານ."
+  - "ຖ້າທ່ານຮູ້ສຶກວິກິດ ໃຫ້ໂທ ຫຼືສົ່ງຂໍ້ຄວາມຫາ 988. ໃນເຫດສຸກເສີນ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນ."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "ສັນຍານຂອງຄວາມໝົດແຮງໃນການດູແລມີຫຍັງແດ່?"
+    a: "ສັນຍານທົ່ວໄປລວມມີຮູ້ສຶກໝົດແຮງ ຫຼຸ້ງຫຍຸ້ງ ຫຼືກັງວົນ ໂມໂຫ ຫຼືໃຈຮ້ອນງ່າຍ ນອນບໍ່ຫຼັບ ຮູ້ສຶກໂສກເສົ້າ ຫຼືສິ້ນຫວັງ ຖອຍຫ່າງຈາກໝູ່ເພື່ອນ ປວດຫົວ ຫຼືເຈັບປວດເລື້ອຍໆ ແລະຂ້າມອາຫານ ການອອກກຳລັງກາຍ ຫຼືການດູແລທາງການແພດຂອງຕົນເອງ. ຖ້າສັນຍານເຫຼົ່ານີ້ເກີດຂຶ້ນເປັນປະຈຳ ໃຫ້ປຶກສາໝໍຂອງທ່ານ."
+  - q: "ຂ້ອຍຈະຊອກການພັກຜ່ອນໃກ້ບ້ານໄດ້ແນວໃດ?"
+    a: "ເລີ່ມດ້ວຍ Eldercare Locator (1-800-677-1116 ຫຼື eldercare.acl.gov) ເພື່ອຕິດຕໍ່ Area Agency on Aging ໃນທ້ອງຖິ່ນຂອງທ່ານ, ARCH National Respite Locator Service ຫຼືສາຍດ່ວນຂອງ Alzheimer's Association ທີ່ 1-800-272-3900. ຄອບຄົວ ໝູ່ເພື່ອນ ແລະອາສາສະໝັກກໍສາມາດໃຫ້ການພັກຜ່ອນແທນໄດ້ເຊັ່ນກັນ."
+  - q: "Medicare ຈ່າຍຄ່າການດູແລແທນຊົ່ວຄາວບໍ?"
+    a: "ສຳລັບຄົນທີ່ໄດ້ຮັບການດູແລແບບ hospice, Medicare ຄຸ້ມຄອງສ່ວນໃຫຍ່ຂອງຄ່າໃຊ້ຈ່າຍສູງສຸດຫ້າວັນຕິດຕໍ່ກັນຂອງການດູແລແທນຊົ່ວຄາວໃນໂຮງໝໍ ຫຼືສະຖານພະຍາບານທີ່ມີທັກສະ ຕາມຄຳເວົ້າຂອງສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA). ປະກັນສຸຂະພາບເອກະຊົນສ່ວນໃຫຍ່ບໍ່ຄຸ້ມຄອງການພັກຜ່ອນ ແຕ່ Medicaid ແລະແຜນປະກັນໄພດູແລໄລຍະຍາວບາງອັນອາດຊ່ວຍໄດ້."
+  - q: "ສາຍດ່ວນ Alzheimer's Association ຟຣີແທ້ບໍ ແລະມີຕອນກາງຄືນບໍ?"
+    a: "ແມ່ນແລ້ວ. Alzheimer's Association ເວົ້າວ່າສາຍດ່ວນທີ່ 1-800-272-3900 ເປັນບໍລິການຟຣີ ເປັນຄວາມລັບ ແລະມີພະນັກງານປະຈຳຕະຫຼອດ 24 ຊົ່ວໂມງ 365 ວັນຕໍ່ປີ ພ້ອມການຊ່ວຍເຫຼືອເປັນພາສາຕ່າງໆຫຼາຍພາສາ. ໃຫ້ກົດ 711 ສຳລັບບໍລິການ relay."
+  - q: "ການພັກຈາກການດູແລເປັນການເຫັນແກ່ຕົວບໍ?"
+    a: "ບໍ່ແມ່ນ. ການພັກຜ່ອນຊ່ວຍໃຫ້ທ່ານສືບຕໍ່ດູແລໄດ້ ແລະການພັກຜ່ອນກໍສາມາດໃຫ້ຄົນທີ່ທ່ານດູແລໄດ້ປ່ຽນບໍລິສັດ ແລະກິດຈະກຳເຊັ່ນກັນ. ຜູ້ດູແລຫຼາຍຄົນພາຍຫຼັງບອກວ່າພວກເຂົາຢາກຂໍຄວາມຊ່ວຍເຫຼືອໄວກວ່ານີ້."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+ຖ້າທ່ານກຳລັງດູແລຜູ້ທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ ທ່ານອາດກຳລັງອ່ານໜ້ານີ້ດ້ວຍຄວາມເມື່ອຍ ໃນເວລາດຶກ ແລະມີລາຍການສິ່ງທີ່ຍັງບໍ່ໄດ້ເຮັດ. ນັ້ນເປັນເລື່ອງປົກກະຕິ. ການດູແລຕົວເອງບໍ່ແມ່ນສິ່ງຟຸ່ມເຟືອຍ ຫຼືລາງວັນສຳລັບການເຮັດທຸກຢ່າງໃຫ້ສຳເລັດ. ມັນແມ່ນສິ່ງທີ່ເຮັດໃຫ້ທ່ານສືບຕໍ່ໄປໄດ້.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+ໜ້ານີ້ກວມເອົາສັນຍານເຕືອນຂອງຄວາມໝົດແຮງ ວິທີໄດ້ພັກຜ່ອນຢ່າງແທ້ຈິງ ບ່ອນຊອກການສະໜັບສະໜູນ ແລະສາຍດ່ວນຟຣີໃນສະຫະລັດທີ່ທ່ານໂທຫາໄດ້ໃນມື້ນີ້.
 
-## What are the signs of caregiver burnout?
+## ສັນຍານຂອງຄວາມໝົດແຮງໃນການດູແລມີຫຍັງແດ່?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+ຄວາມໝົດແຮງມັກເຂົ້າມາຊ້າໆ ດັ່ງນັ້ນການຮູ້ສັນຍານເຕືອນຂອງຕົນເອງຈຶ່ງເປັນປະໂຫຍດ. [ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ລະບຸສັນຍານຄວາມກົດດັນຂອງຜູ້ດູແລ ລວມທັງ:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- ຮູ້ສຶກໝົດແຮງ ຫຼຸ້ງຫຍຸ້ງ ຫຼືກັງວົນ;
+- ໃຈຮ້ອນ ຫຼືໂມໂຫງ່າຍ;
+- ຮູ້ສຶກໂດດດ່ຽວ ຫຼືຫ່າງຈາກຄົນອື່ນ;
+- ນອນບໍ່ຫຼັບ ຫຼືນອນບໍ່ພຽງພໍ;
+- ຮູ້ສຶກເສົ້າ ຫຼືສິ້ນຫວັງ ຫຼືສູນເສຍຄວາມສົນໃຈໃນສິ່ງທີ່ເຄີຍມັກ;
+- ປວດຫົວ ເຈັບປວດ ຫຼືບັນຫາທາງຮ່າງກາຍອື່ນເລື້ອຍໆ;
+- ບໍ່ມີເວລາອອກກຳລັງກາຍ ຫຼືເຮັດອາຫານທີ່ດີໃຫ້ຕົນເອງ;
+- ຂ້າມການອາບນ້ຳ ຫຼືການດູແລຕົນເອງອື່ນ;
+- ໃຊ້ເຫຼົ້າ ຫຼືຢາເສບຕິດໃນທາງທີ່ຜິດ ລວມທັງຢາທີ່ແພດສັ່ງ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ເພີ່ມສັນຍານເຊັ່ນການປະຕິເສດກ່ຽວກັບພະຍາດ ຄວາມໃຈຮ້ອນຕໍ່ຜູ້ທີ່ດູແລ ("ເຂົາເປັນຄົນດື້ດ້ານ") ຄວາມກັງວົນກ່ຽວກັບອະນາຄົດ ການມີສະມາທິຍາກ ແລະບັນຫາສຸຂະພາບທີ່ກະທົບຕໍ່ທ່ານ. ມັນແນະນຳໃຫ້ປຶກສາໝໍຂອງທ່ານຖ້າມີສັນຍານເຊັ່ນນີ້ເປັນປະຈຳ.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+ຄຳແນະນຳຂອງ NIA ແມ່ນບໍ່ໃຫ້ລໍຖ້າຈົນກວ່າທ່ານຈະໝົດແຮງຢ່າງສົມບູນ. ໃຫ້ສັງເກດສັນຍານຂອງທ່ານແຕ່ຕົ້ນ ແລະດຳເນີນການກັບມັນ.
 
-## What can I do today, in five minutes?
+## ຂ້ອຍເຮັດຫຍັງໄດ້ແດ່ໃນມື້ນີ້ ໃນເວລາຫ້ານາທີ?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+ການພັກສັ້ນໆກໍນັບ. ບໍ່ມີອັນໃດແກ້ໄຂຄວາມໝົດແຮງໄດ້ ແຕ່ມັນຊ່ວຍໃຫ້ທ່ານຜ່ານຊ່ວງບ່າຍທີ່ຫຍຸ້ງຍາກໄປໄດ້.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **ອອກໄປຂ້າງນອກ.** ນັ່ງໜ້າປະຕູ ຫຼືຍ່າງໄປຕູ້ໄປສະນີໃນຂະນະທີ່ຄົນນັ້ນປອດໄພ ແລະສະຫງົບ.
+- **ຫາຍໃຈຊ້າໆ.** ຫາຍໃຈຊ້າໆສອງສາມເທື່ອກ່ອນຕອບຄຳຖາມທີ່ຍາກ. ທ່ານສາມາດແບ່ງປັນການຢຸດພັກ[ການຫາຍໃຈສະຫງົບ](/games/calm-breathing/) ກັບຜູ້ທີ່ທ່ານດູແລໄດ້ເຊັ່ນກັນ.
+- **ດື່ມນ້ຳ ແລະກິນອາຫານບາງຢ່າງ.** ມັນງ່າຍທີ່ຈະລືມອາຫານຂອງຕົນເອງ.
+- **ສົ່ງຂໍ້ຄວາມຫາໝູ່ຄົນໜຶ່ງ.** ບໍ່ແມ່ນເພື່ອຂໍຫຍັງ ພຽງແຕ່ເພື່ອຕິດຕໍ່.
+- **ເວົ້າສິ່ງດີໆກັບຕົນເອງ.** [ຄູ່ມືການດູແລຕົນເອງ](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ຂອງ NIA ແນະນຳປະໂຫຍກເຊັ່ນ "ຂ້ອຍກຳລັງເຮັດດີທີ່ສຸດແລ້ວ" "ຂ້ອຍບໍ່ສົມບູນແບບ ແລະນັ້ນກໍບໍ່ເປັນຫຍັງ" ແລະ "ຂ້ອຍຈະເພີດເພີນກັບຊ່ວງເວລາທີ່ພວກເຮົາຢູ່ນຳກັນຢ່າງສະຫງົບ."
 
-## What is respite care, and how do I get it?
+## ການພັກຜ່ອນແທນຊົ່ວຄາວແມ່ນຫຍັງ ແລະຈະໄດ້ມາແນວໃດ?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+ການດູແລແທນຊົ່ວຄາວແມ່ນການດູແລໄລຍະສັ້ນສຳລັບຄົນທີ່ທ່ານເບິ່ງແຍງ ເພື່ອໃຫ້ທ່ານໄດ້ພັກ. [ໜ້າຂອງ NIA ກ່ຽວກັບການດູແລແທນຊົ່ວຄາວ](https://www.nia.nih.gov/health/caregiving/what-respite-care) ອະທິບາຍວ່າມັນອາດໃຊ້ເວລາຕັ້ງແຕ່ບໍ່ເທົ່າໃດຊົ່ວໂມງຈົນເຖິງຫຼາຍອາທິດ ແລະອາດເກີດຂຶ້ນທີ່ເຮືອນ ໃນສະຖານພະຍາບານ ຫຼືທີ່ສູນດູແລຜູ້ໃຫຍ່ໃນເວລາກາງເວັນ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) ອະທິບາຍປະເພດທົ່ວໄປ:
 
-| Type | What it is |
+| ປະເພດ | ມັນເປັນຫຍັງ |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| ການຊ່ວຍເຫຼືອທີ່ເຮືອນ | ໝູ່ ຍາດພີ່ນ້ອງ ອາສາສະໝັກ ຫຼືຜູ້ຊ່ວຍທີ່ໄດ້ຮັບຄ່າຈ້າງ ມາຢູ່ທີ່ເຮືອນ |
+| ສູນດູແລຜູ້ໃຫຍ່ເວລາກາງເວັນ | ມີກິດຈະກຳທີ່ວາງແຜນໄວ້ ເຊັ່ນດົນຕີ ແລະສິລະປະ ໃນສະພາບແວດລ້ອມກຸ່ມທີ່ປອດໄພ ມັກມີການຂົນສົ່ງ ແລະອາຫານໃຫ້ |
+| ການພັກຄ້າງຄືນ ຫຼືໄລຍະສັ້ນ | ຊຸມຊົນດູແລໄລຍະຍາວດູແລຄົນນັ້ນເປັນຄືນ ຫຼືຫຼາຍວັນ ຫຼືຫຼາຍອາທິດ |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**ໃຜເປັນຜູ້ຈ່າຍ?** ຕາມ NIA ການພັກຜ່ອນຈາກຄອບຄົວ ໝູ່ເພື່ອນ ຫຼືອາສາສະໝັກ ອາດບໍ່ມີຄ່າໃຊ້ຈ່າຍ. ບໍລິການມືອາຊີບຄິດເງິນຕາມຊົ່ວໂມງ ຫຼືຕາມມື້. ສຳລັບຄົນທີ່ໄດ້ຮັບການດູແລແບບ hospice, Medicare ຄຸ້ມຄອງສ່ວນໃຫຍ່ຂອງຄ່າໃຊ້ຈ່າຍຂອງການພັກຜ່ອນສູງສຸດຫ້າວັນຕິດຕໍ່ກັນໃນໂຮງໝໍ ຫຼືສະຖານພະຍາບານທີ່ມີທັກສະ. Medicaid ອາດຊ່ວຍໄດ້. ປະກັນສຸຂະພາບເອກະຊົນສ່ວນໃຫຍ່ບໍ່ຄຸ້ມຄອງການພັກຜ່ອນ ເຖິງແມ່ນວ່າແຜນປະກັນໄພດູແລໄລຍະຍາວບາງອັນຈະຄຸ້ມຄອງ.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**ຄຳແນະນຳ:** Alzheimer's Association ແນະນຳໃຫ້ລອງໃຊ້ຜູ້ໃຫ້ບໍລິການພັກຜ່ອນໃນສະຖານະການທີ່ບໍ່ສຸກເສີນ ເພື່ອໃຫ້ເຂົາເຈົ້າພ້ອມເມື່ອທ່ານຕ້ອງການຄວາມຊ່ວຍເຫຼືອກະທັນຫັນ.
 
-## Where can I find help near me?
+## ຈະຊອກຄວາມຊ່ວຍເຫຼືອໃກ້ບ້ານໄດ້ຢູ່ໃສ?
 
-Several free US services can point you to local help.
+ມີບໍລິການຟຣີຫຼາຍແຫ່ງໃນສະຫະລັດທີ່ສາມາດຊີ້ທາງໃຫ້ທ່ານຫາຄວາມຊ່ວຍເຫຼືອໃນທ້ອງຖິ່ນ.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **ສາຍດ່ວນ 24/7 ຂອງ Alzheimer's Association: 1-800-272-3900.** [ສາຍດ່ວນ](https://www.alz.org/help-support/resources/helpline) ນີ້ຟຣີ ເປັນຄວາມລັບ ມີພະນັກງານປະຈຳຕະຫຼອດທັງວັນທັງຄືນທຸກມື້ຂອງປີ ພ້ອມການຊ່ວຍເຫຼືອເປັນພາສາຫຼາຍກວ່າ 200 ພາສາ ຜ່ານພະນັກງານສອງພາສາ ຫຼືນັກແປ. ໃຫ້ກົດ 711 ສຳລັບບໍລິການ relay. ທ່ານສາມາດປຶກສາເລື່ອງການປ່ຽນແປງພຶດຕິກຳ ຄວາມກົດດັນຂອງຜູ້ດູແລ ທາງເລືອກການພັກຜ່ອນ ໂຄງການທ້ອງຖິ່ນ ແລະອື່ນໆ ແລະຂໍການສົນທະນາທີ່ຍາວກວ່າກັບທີ່ປຶກສາດ້ານການດູແລ. ພະນັກງານບໍ່ໃຫ້ຄຳແນະນຳທາງການແພດ.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) ເປັນບໍລິການສາທາລະນະຂອງ Administration for Community Living ເຊື່ອມຕໍ່ທ່ານກັບບໍລິການສຳລັບຜູ້ສູງອາຍຸ ແລະຄອບຄົວຂອງເຂົາເຈົ້າ. ທ່ານສາມາດໂທ ສົ່ງຂໍ້ຄວາມ ແຊັດອອນລາຍ ຫຼືອີເມວຫາພະນັກງານທີ່ຜ່ານການອົບຮົມ ຫຼືຄົ້ນຫາຕາມສະຖານທີ່. ມັນສາມາດຊີ້ທາງໄປຫາ Area Agency on Aging ໃນທ້ອງຖິ່ນຂອງທ່ານ.
+- **ບໍລິການຊອກຫາການພັກຜ່ອນ ARCH National Respite Locator Service.** [ຕົວຊອກຫາການພັກຜ່ອນຂອງ ARCH](https://archrespite.org/caregiver-resources/respitelocator/) ຊ່ວຍໃຫ້ທ່ານຊອກຫາຜູ້ໃຫ້ບໍລິການພັກຜ່ອນຕາມລັດ ແລະແນະນຳໃຫ້ຕິດຕໍ່ State Respite Coalition ຂອງທ່ານ ຫຼືໂຄງການ Lifespan Respite ກ່ອນ ຖ້າລັດຂອງທ່ານມີ. ARCH ແຈ້ງວ່າມັນບໍ່ໄດ້ກວດສອບຜູ້ໃຫ້ບໍລິການ ດັ່ງນັ້ນໃຫ້ທ່ານທົບທວນປະສົບການ ແລະປະຫວັດຂອງເຂົາເຈົ້າເອງ.
 
-## How do I find a support group?
+## ຈະຊອກກຸ່ມສະໜັບສະໜູນໄດ້ແນວໃດ?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+ຖາມສາຍດ່ວນ ຫຼືຊອກຫາທາງອອນລາຍສຳລັບກຸ່ມໃກ້ທ່ານ. [Alzheimer's Association ດຳເນີນກຸ່ມສະໜັບສະໜູນ](https://www.alz.org/help-support/community/support-groups) ສຳລັບຜູ້ດູແລ ແລະຜູ້ທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ ທັງແບບພົບປະຕົວຕໍ່ຕົວ ແລະອອນລາຍ ນຳພາໂດຍຜູ້ອຳນວຍຄວາມສະດວກທີ່ຜ່ານການອົບຮົມ. ຫຼາຍສະຖານທີ່ກໍມີກຸ່ມພິເສດ ເຊັ່ນສຳລັບຜູ້ດູແລຜູ້ໃຫຍ່ ຫຼືສຳລັບຜູ້ທີ່ດຳລົງຊີວິດກັບໂຣກອັລໄຊເມີໃນໄລຍະເລີ່ມຕົ້ນ ຫຼືອາຍຸນ້ອຍ. ມັນຍັງເປັນເຈົ້າພາບ ALZConnected ຊຸມຊົນອອນລາຍຟຣີທີ່ຜູ້ດູແລແບ່ງປັນຄຳແນະນຳກັນ.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+ກຸ່ມສະໜັບສະໜູນສາມາດເປັນບ່ອນທີ່ໄດ້ລະບາຍໂດຍບໍ່ຖືກຕັດສິນ ໄດ້ຄຳແນະນຳທີ່ໃຊ້ໄດ້ຈິງຈາກຄົນທີ່ເຄີຍຜ່ານມາແລ້ວ ແລະຮູ້ສຶກໂດດດ່ຽວໜ້ອຍລົງ. ຖ້າກຸ່ມທຳອິດບໍ່ເໝາະ ລອງກຸ່ມອື່ນ.
 
-## How do I ask family and friends for help?
+## ຈະຂໍຄວາມຊ່ວຍເຫຼືອຈາກຄອບຄົວ ແລະໝູ່ເພື່ອນແນວໃດ?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+ໃຫ້ເຈາະຈົງ ຫຼາຍຄົນຢາກຊ່ວຍແຕ່ບໍ່ຮູ້ວ່າຈະສະເໜີຫຍັງ. NIA ແນະນຳ:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **ເຮັດລາຍການ** ວຽກທີ່ຄົນອື່ນສາມາດຮັບໄປເຮັດ ແລະໃຫ້ເຂົາເຈົ້າເລືອກເອົາ.
+- **ເລີ່ມເລັກໆ** ຖ້າການຂໍຮູ້ສຶກຍາກ.
+- **ຈັບຄູ່ວຽກກັບຄົນ.** ຍາດພີ່ນ້ອງທີ່ມັກເຮັດອາຫານກໍມາເຮັດອາຫານຄ່ຳວັນພະຫັດ ເພື່ອນບ້ານທີ່ຊຳນານເລື່ອງເອກະສານກໍຊ່ວຍວຽກເອກະສານ.
+- **ສົ່ງຂໍ້ຄວາມ ຫຼືອີເມວ** ຖ້າການຂໍໜ້າຕໍ່ໜ້າຮູ້ສຶກບໍ່ສະບາຍ.
+- **ກຽມຄຳຕອບ** ໄວ້ສຳລັບເວລາທີ່ມີຄົນສະເໜີ: “ຂອບໃຈທີ່ຖາມ. ນີ້ແມ່ນສິ່ງທີ່ທ່ານເຮັດໄດ້.”
+- **ຄາດວ່າຈະມີການປະຕິເສດບາງຄັ້ງ** ແລະພະຍາຍາມຢ່າເອົາມາເປັນເລື່ອງສ່ວນຕົວ.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+ວິທີອື່ນໆ: ຂໍໃຫ້ມີຄົນນັ່ງກັບຄົນນັ້ນໜຶ່ງບ່າຍຕໍ່ອາທິດ ພາເຂົາເຈົ້າອອກໄປເທື່ອສັ້ນໆ ຫຼືມາຢ້ຽມຢາມແລະຫຼິ້ນເກມນຳກັນ. [ຄູ່ມືການຫຼິ້ນນຳກັນ](/caregiving/how-to-play-together/) ຂອງພວກເຮົາແບ່ງປັນໃຫ້ແຂກງ່າຍ.
 
-## What if something happened to me?
+## ຖ້າມີເຫດການເກີດຂຶ້ນກັບຂ້ອຍຈະເປັນແນວໃດ?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+ຈົ່ງວາງແຜນສຳຮອງແບບງ່າຍໆດຽວນີ້. NIA ແນະນຳໃຫ້ຕັດສິນໃຈກັບຄອບຄົວ ຫຼືໝູ່ສະໜິດວ່າໃຜຈະເຂົ້າມາແທນ ແລະຮັກສາປຶ້ມບັນທຶກທີ່ມີເບີສຸກເສີນ ຢາ ຄຳແນະນຳດ້ານພຶດຕິກຳທີ່ໄດ້ຜົນ ແລະກິດຈະກຳທີ່ມັກ. Alzheimer's Association ແນະນຳໃຫ້ເກັບຂໍ້ມູນຕິດຕໍ່ທາງການແພດຂອງຄົນນັ້ນ ແລະລາຍການຢາທີ່ທັນສະໄໝໄວ້ໃຫ້ເຫັນໄດ້ງ່າຍ.
 
-## When should I get professional or urgent help?
+## ເວລາໃດຄວນຂໍຄວາມຊ່ວຍເຫຼືອທາງການແພດ ຫຼືດ່ວນ?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+ປຶກສາໝໍຂອງທ່ານຖ້າສັນຍານຄວາມກົດດັນເກີດຂຶ້ນເປັນປະຈຳ ຖ້າທ່ານຮູ້ສຶກຊຶມເສົ້າ ຫຼືຖ້າທ່ານກຳລັງດີ້ນລົນໃນການຮັບມື. ບອກໝໍຂອງທ່ານວ່າທ່ານເປັນຜູ້ດູແລ. NIA ລະບຸວ່າທີ່ປຶກສາ ແລະນັກສັງຄົມສົງເຄາະສາມາດຊ່ວຍກ່ຽວກັບຄວາມຮູ້ສຶກຍາກ ແລະການວາງແຜນ ແລະ Medicare, Medicaid ແລະປະກັນສຸຂະພາບເອກະຊົນບາງອັນອາດຄຸ້ມຄອງຄ່າໃຊ້ຈ່າຍດ້ານສຸຂະພາບຈິດບາງສ່ວນ.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+ຖ້າທ່ານຮູ້ສຶກວິກິດ ຫຼືມີຄວາມຄິດທີ່ຈະທຳຮ້າຍຕົນເອງ ໃຫ້ໂທ ຫຼືສົ່ງຂໍ້ຄວາມຫາ 988 ເພື່ອຕິດຕໍ່ [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ທີ່ຟຣີ ແລະມີບໍລິການ 24/7. ຖ້າມີໃຜຢູ່ໃນອັນຕະລາຍທັນທີ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນ.
 
-## Can shared activities give me a break too?
+## ກິດຈະກຳຮ່ວມກັນສາມາດໃຫ້ທ່ານພັກຜ່ອນໄດ້ບໍ?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+ບາງເທື່ອ. ກິດຈະກຳທີ່ສະຫງົບທີ່ທ່ານທັງສອງມັກສາມາດເປັນສ່ວນທີ່ອ່ອນໂຍນຂຶ້ນຂອງມື້ສຳລັບທ່ານ ຄືກັນກັບຄົນທີ່ທ່ານດູແລ: ຟັງເພງເກົ່າ ເບິ່ງຮູບ ຫຼືເກມເຊັ່ນ [Conversation Cards](/games/conversation-cards/) ທີ່ບໍ່ຕ້ອງການຄຳຕອບທີ່ຖືກ. ຖ້າຄົນນັ້ນມັກການມີຄົນຢູ່ນຳ ກິດຈະກຳກຸ່ມກັບ [Picture Bingo](/games/picture-bingo/) ທີ່ສູນຜູ້ສູງອາຍຸ ຫຼືໂຄງການກາງເວັນ ອາດໃຫ້ທ່ານພັກໄດ້ໜຶ່ງຊົ່ວໂມງ. ເບິ່ງ[ກິດຈະກຳສຳລັບກຸ່ມໃນສູນດູແລ](/activities/care-home-groups/) ເພື່ອຮັບແນວຄິດເພີ່ມເຕີມ.

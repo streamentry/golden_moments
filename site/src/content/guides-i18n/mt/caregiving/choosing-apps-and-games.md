@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kif tagħżel apps u logħbiet għad-demenza"
+seoTitle: "Kif tagħżel apps u logħbiet tad-demenza: lista ta' kontroll"
+description: "Lista għall-kuraturi biex jagħżlu apps u logħbiet tad-demenza: ibda mill-għan, evita timers u reklami, iċċekkja l-privatezza, u aqra l-pretensjonijiet bir-reqqa."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Ibda b'dak li trid li l-app tagħmel: stimolu ħafif, reminixxenza, kalma jew konnessjoni. Imbagħad agħżel waħda li taqbel mal-kapaċitajiet tal-persuna llum, bi stampi kbar, mingħajr timers, punteġġi jew reklami, u b'mod sempliċi biex titwaqqaf. Iċċekkja liema data tiġbor u jekk tistax tħassarha. Oqgħod attent minn pretensjonijiet li app tipprevjeni jew tittratta d-demenza; studju wieħed mhux prova.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Iddeċiedi l-għan qabel kollox: stimolu, reminixxenza, kalma jew konnessjoni jeħtieġu apps differenti."
+  - "Aqbel mal-kapaċitajiet tal-persuna f'dik il-ġurnata, mhux ma' tikketta ta' stadju, u żomm il-kontrolli sempliċi."
+  - "Aqbeż apps b'timers, punteġġi, ħajjiet, serje ta' suċċess, reklami jew talbiet għax-xiri."
+  - "Iċċekkja l-ġbir tad-data, il-kondiviżjoni u t-tħassir. HIPAA normalment ma tkoprix apps tal-konsumatur."
+  - "Oqgħod attent minn pretensjonijiet li “jipprevjenu d-demenza”. Test wieħed, jew punteġġi aħjar fl-app, mhumiex prova."
+  - "Golden Moments hi attività rikreattiva. M'għandha l-ebda pretensjoni klinika."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Il-logħbiet tal-moħħ jistgħu jipprevjenu d-demenza?"
+    a: "M'hemm l-ebda evidenza tajba li apps kummerċjali tal-logħbiet tal-moħħ jipprevjenu jew jirallentaw id-demenza. L-Istitut Nazzjonali dwar l-Età jgħid li m'hemmx biżżejjed evidenza li apps kummerċjali tat-taħriġ tal-moħħ għandhom l-istess effett bħat-taħriġ strutturat ittestjat f'tiġrib kbir ta' riċerka. Agħżel apps għall-pjaċir u għall-konnessjoni, mhux bħala mediċina."
+  - q: "App tad-demenza hi koperta mill-HIPAA?"
+    a: "Normalment le. L-HIPAA ġeneralment tapplika għall-fornituri tal-kura tas-saħħa, għall-pjanijiet tas-saħħa u għall-imsieħba tan-negozju tagħhom. App li tniżżel int stess normalment mhix koperta, sakemm ma tkunx ipprovduta minn wieħed minnhom. Ir-Regola ta' Notifika ta' Ksur tas-Saħħa tal-FTC tkopri ħafna apps tas-saħħa li l-HIPAA ma tkoprix."
+  - q: "Kif għandha tidher logħba tad-demenza tajba?"
+    a: "Stampi u test kbar u ċari, ħaġa waħda ovvja x'tagħmel f'kull skrin, l-ebda timer jew punteġġ, l-ebda ċajpieni għal żbalji, l-ebda reklami, u mod sempliċi biex tieqaf jew twaqqaf. Għandha tidher li saret għall-adulti u tkun faċli għal persuna oħra biex tingħaqad."
+  - q: "Golden Moments tippretendi li tgħin il-memorja?"
+    a: "Le. Golden Moments toffri attivitajiet sempliċi maqsuma għall-pjaċir u għall-konverżazzjoni. Ma tiddijanjostikax, ma tittrattax, ma tipprevjenix u ma tkejjilx id-demenza, u ma nagħmlu l-ebda pretensjoni dwar il-memorja jew il-ħsieb."
+  - q: "Għandi nħallas għal app tad-demenza?"
+    a: "Ipprova l-ewwel għażliet b'xejn jew trijal b'xejn, u ara kif tirrispondi l-persuna matul ftit ġimgħat. Il-ħlas għal app ma jagħmilhiex aktar effettiva. Iċċekkja kif tikkanċella qabel ma tabbona."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+L-app stores huma mimlija b'logħbiet immarkati għall-anzjani, għall-memorja jew għad-demenza. Xi wħud magħmula b'attenzjoni. Oħrajn iżidu wegħdiet li jidhru mediċi, timers li jagħmlu l-logħba testijiet, jew reklami u ġbir ta' data. Din il-paġna tagħtik mod biex tiġġudika kull app waħdek. Aħna ma nqiegħdux fil-klassifika u ma nirrevedu prodotti oħra.
 
-## What should I decide before choosing a dementia app?
+## X'għandi niddeċiedi qabel ma nagħżel app tad-demenza?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Iddeċiedi x'trid li l-app tagħmel. “Logħba għal Mama” tista' tfisser affarijiet differenti ħafna, u l-aħjar għażla għal għan wieħed spiss hi għażla fqira għal għan ieħor.
 
-| Goal | What it looks like | What to look for |
+| Għan | Kif tidher | X'għandek tfittex |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Stimolu ħafif | Tqabbil, tqassim, puzzles sempliċi, logħbiet tal-kliem | Diffikultà li tista' taġġusta, stampi li jibqgħu viżibbli, l-ebda pressjoni ta' ħin |
+| Reminixxenza | Ritratti antiki, kliem familjari, mużika taż-żgħożija tagħhom | Ritratti tiegħek stess, mistoqsijiet miftuħa, l-ebda mistoqsijiet ta' kwiz |
+| Kalma | Viżwali bil-mod, ħsejjes kwieti, nifs, natura | Faċli biex tibda u tieqaf, xejn li jlemma, l-ebda sorpriżi |
+| Konnessjoni | Logħba jew konverżazzjoni flimkien, di persona jew bil-video | Imfassal għal tnejn, stimoli għall-konverżazzjoni |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Ir-riċerka dwar “stimulazzjoni kognittiva” strutturata għall-persuni bid-demenza tinvolvi prinċipalment sessjonijiet ta' grupp immexxija minn staff imħarreġ, b'diskussjoni, logħbiet tal-kliem, puzzles, mużika u attivitajiet kreattivi. [Reviżjoni tal-Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) sabet benefiċċji żgħar fuq medja, li jvarjaw bejn studju u ieħor. Dak it-tip ta' programm soċjali u varjat mhuwiex l-istess bħal app waħedha, għalhekk ittratta kull app bħala attività maqsuma waħda fost ħafna oħrajn.
 
-## How do I know if an app fits the person's abilities?
+## Kif naf jekk app taqbel mal-kapaċitajiet tal-persuna?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Ara kif jirrispondu, minflok ma tibbaża fuq dijanjosi jew tikketta ta' stadju. Żewġ nies “fl-istess stadju” jistgħu jvarjaw ħafna fil-vista, fis-smigħ, fil-kontroll tal-idejn, fil-lingwa u fil-kumdità mal-iskrins. [L-Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) tissuġġerixxi li żżomm f'moħħok l-interessi tal-passat u l-kapaċitajiet attwali, u tiffoka fuq il-pjaċir aktar milli fuq il-kisba.
 
-Signs of a good fit:
+Sinjali ta' tajba taqbel:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- jibdew jew jingħaqdu mingħajr ħafna ħeġġa;
+- jgħidu xi ħaġa bil-ħabta tal-bsaten, jikkummentaw jew jirrakkontaw storja;
+- l-iżbalji ma jidhrux li jqalquhom;
+- jaqblilhom li jieqfu meta jasal il-ħin.
 
-Signs it is a poor fit:
+Sinjali li ma taqbilx:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- “ma nistax” jew “din tassew sitwa” li jerġgħu jiġu ripetuti;
+- konfużjoni dwar x'għandhom jagħfsu;
+- frustrazzjoni, mbarazz jew li jbiegħdu t-tagħmir minnhom;
+- taħdem biss jekk int tagħmel kważi kollox.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Id-distress hu sinjal, mhux xi ħaġa li għandek tgħaddi minnha. Ara [x'tagħmel meta jgħidu le](/caregiving/when-they-say-no/). Għal ideat ibbażati fuq l-istadju minbarra l-apps, ara [attivitajiet fl-istadju bikri](/activities/early-stage/) u [fl-istadju tardiv](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Liema karatteristiċi tad-disinn għandi nfittex jew nevita?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Fittex disinn kalm, sempliċi u għall-adulti, u evita kull ħaġa li żżid pressjoni.
 
-| Look for | Be wary of |
+| Fittex | Oqgħod attent minn |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Stampi u test kbar, kuntrast għoli | Ikoni żgħar, skrins mimlijin |
+| Azzjoni ċara waħda f'kull skrin | Ħafna buttuni, menus, jew istruzzjonijiet b'diversi passi |
+| L-ebda timer, jew timer li tista' tfixkel | Konto ta' żmien lura, bonusijiet tal-veloċità, “qabbad iż-żmien tiegħek” |
+| L-ebda punteġġ, jew feedback ġentili | Punti, ħajjiet, serje ta' suċċess, klassifiki, “età tal-moħħ” |
+| Żbalji mmaniġġjati bil-ħabta tal-bsaten | Ċajpieni, sinjali X ħomor, messaġġi “Ħażin” |
+| Stampi adulti u tad-dinja reali | Temi karikaturali jew infantili |
+| Taħdem offline, l-ebda kont meħtieġ biex tibda | Trid tiffirma, tidħol, jew tniżżel kontenut qabel |
+| Waqfa u twaqqif faċli | Pop-ups li jitolbu li tkompli tilgħab jew tivvaluta l-app |
+| L-ebda reklami, prezz ċar ta' darba jew abbonament | Reklami, “loot boxes”, talbiet frekwenti għax-xiri |
+| Faċli għal persuna oħra biex tingħaqad | Single-player biss, disinn kompetittiv |
 
-Ads and purchase prompts are easy to tap by accident.
+Ir-reklami u t-talbiet għax-xiri faċli jinqabdu b'mod aċċidentali.
 
-## How do I check an app's privacy?
+## Kif niċċekkja l-privatezza ta' app?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Iċċekkja x'tiġbor l-app, ma' min tikkondividi, u jekk tistax tħassarha. Qabel ma tinstallaha:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Aqra s-sommarju tal-privatezza tal-store.** It-[taqsima tas-Data safety ta' Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) u t-[taqsima tal-informazzjoni dwar il-privatezza fuq l-App Store](https://support.apple.com/en-us/102399) jelenkaw it-tipi ta' data li app tista' tiġbor u tqsim. Iż-żewġ kumpaniji jgħidu li l-iżviluppaturi jipprovdu din l-informazzjoni huma stess, għalhekk hi punt ta' bidu, mhux verifika.
+2. **Iċċekkja jekk teħtieġx kont.** Jekk app turi biss ritratti jew logħbiet sempliċi, jista' ma jkun hemm l-ebda raġuni għaliex jkollha tafu l-isem, l-email jew it-twelid tiegħek.
+3. **Iċċekkja l-permessi.** Logħba tat-tqabbil teħtieġ tabilħaqq il-lokalizzazzjoni, il-kuntatti, il-mikrofon jew il-librerija kollha tar-ritratti tiegħek? Itfi kull ħaġa li ma teħtiġx.
+4. **Fittex reklami u analitika.** L-għodod tar-reklami u tat-traċċar jistgħu jibagħtu data dwar kif tintuża l-app lil kumpaniji oħra.
+5. **Sib fejn imorru r-ritratti.** Jekk iżżid ritratti tal-familja, jibqgħu fuq l-apparat jew jitgħabbew fuq server? Tista' tneħħihom?
+6. **Iċċekkja t-tħassir.** Fittex fil-politika tal-privatezza jew fis-sommarju tad-data kif titħassar id-data u l-kont. App li tgħid li d-data ma tistax titħassar titlob kawtela addizzjonali, speċjalment jekk iżżomm ritratti jew dettalji tas-saħħa.
+7. **Aqra l-politika tal-privatezza** għal tweġibiet ċari dwar x'tinġabar, għala, għal kemm żmien, u ma' min tiġi kondiviża.
 
-### Does HIPAA protect information in dementia apps?
+### L-HIPAA tipproteġi l-informazzjoni f'apps tad-demenza?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Normalment le, u dan jisforza ħafna nies. Id-Dipartiment tas-Saħħa u s-Servizzi Umani tal-Istati Uniti [jispjega](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) li l-HIPAA tapplika għall-pjanijiet tas-saħħa, għal ħafna mill-fornituri tal-kura tas-saħħa, għalil-clearinghouses tal-kura tas-saħħa u għall-imsieħba tan-negozju tagħhom. Fil-biċċa l-kbira tal-każijiet ma tipproteġix id-data li tidħol f'app għal użu personali, sakemm ma tkunx ipprovduta minn entità koperta jew minn sieħeb tan-negozju tagħha. “App tad-demenza” minn store tal-apps ħafna drabi tkun barra mill-HIPAA, anke jekk titkellem dwar is-saħħa.
 
-### What protects health data in apps that HIPAA does not cover?
+### X'jipproteġi d-data tas-saħħa f'apps li l-HIPAA ma tkoprix?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Ir-Regola ta' Notifika ta' Ksur tas-Saħħa tal-Federal Trade Commission tkopri ħafna minnhom. Fl-2024 il-FTC [ffinalizzat bidliet](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) li jiċċaraw li r-regola tapplika għall-apps tas-saħħa u għat-teknoloġiji simili li ma jkoprix l-HIPAA. “Ksur” jinkludi kxif mhux awtorizzat, mhux biss ħakkeraġġ, u l-kumpaniji għandhom jinnotifikaw lill-persuni affettwati u lill-FTC. Dik hi rete ta' sigurtà wara li jmur xi ħaġa ħażin, mhux wegħda li app tiġbor biss dak li teħtieġ.
 
-## How should I read claims about research and evidence?
+## Kif għandi naqra l-pretensjonijiet dwar ir-riċerka u l-evidenza?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Aqra l-pretensjonijiet tal-evidenza bil-mod, u oqgħod l-aktar attent minn wegħdiet kbar. Mistoqsijiet li għandek tagħmel:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **X'kien studjat preċiżament?** Studju ta' programm ta' taħriġ wieħed ma juriex li kull logħba f'app taħdem bl-istess mod.
+- **Min kien studjat?** Ir-riżultati f'anzjani f'saħħithom jistgħu ma japplikawx għal xi ħadd li jgħix bid-demenza.
+- **X'ġie mkejjel?** Li titjieb fil-logħba innifisha hu differenti mill-bidliet fil-ħajja ta' kuljum, fil-konverżazzjoni, fl-burdata jew fl-indipendenza.
+- **Kemm hu qawwi l-istudju?** Tiġrib każwali kkontrollat (RCT) jqabbel grupp li juża l-app ma' grupp li ma jużax. Hu disinn tajjeb, imma RCT wieħed żgħir jew qasir mhuwiex prova. Fittex diversi studji, minn riċerkaturi indipendenti, li jaqblu.
+- **Jippretendi li jbiddel il-marda?** Studju li juri titjib żgħir f'test mhuwiex evidenza li app tbaxxi, tipprevjeni jew tittratta d-demenza.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Il-paġna tan-Istitut Nazzjonali dwar l-Età dwar [is-saħħa tal-ħsieb fl-anzjani](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) tiddeskrivi tiġrib kbir iffinanzjat mill-NIH ta' taħriġ kognittiv strutturat, imbagħad twissi lill-qarrejja biex joqogħdu attenti minn pretensjonijiet li ċerti logħbiet fuq il-kompjuter jew onlajn jtejbu l-memorja u l-ħsieb. Tgħid li għadha m'hemmx biżżejjed evidenza li apps kummerċjali tat-taħriġ tal-moħħ għandhom l-istess impatt bħat-taħriġ ittestjat f'dak it-tiġrib. Tista' taqra aktar fil-gwida tagħna dwar [logħbiet tal-moħħ u l-evidenza](/brain-health/brain-games/) u dwar [dak li tgħid ir-riċerka dwar il-prevenzjoni tad-demenza](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### X'inhu eżempju pubbliku ta' pretensjoni qarrieqa?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+F'Jannar 2016, il-FTC [ħabbar ftehim](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) mal-kumpanija Lumosity, program ta' “taħriġ tal-moħħ”. Il-FTC allegat li l-kumpanija pretendiet, mingħajr evidenza adegwata, li l-logħbiet tagħha setgħu jdewmu t-tnaqqis kognittiv relatat mal-età u jipproteġu kontra t-tnaqqis kognittiv ħafif, id-demenza u l-marda ta' Alzheimer. Il-kumpanija qablet li tħallas $2 miljun u trid ikollha evidenza xjentifika kompetenti u affidabbli qabel ma tagħmel pretensjonijiet bħal dawn fil-futur. Il-każ hu tfakkira utli li l-lingwa tar-reklam mhijiex evidenza.
 
-### Which words are red flags?
+### Liema kliem huma sinjali ta' periklu?
 
-Be cautious when an app or ad says it:
+Oqgħod attent meta app jew reklam tgħid li:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “jipprevjeni,” “jirrevserja,” “iwaqqaf” jew “jikkura” d-demenza jew l-Alzheimer;
+- hi “ippruvata klinikament” mingħajr ma tisimmew l-istudju, min kien fih u x'ġie mkejjel;
+- jagħti “età tal-moħħ” jew punteġġ tal-memorja li jimplika dijanjosi;
+- “iqawwi,” “isaħħaħ” jew “jittrena” il-moħħ;
+- tuża testimonjanzi bħala prova.
 
-If you are unsure about a claim, ask the person's doctor.
+Jekk ma tkunx ċert minn pretensjoni, staqsi lit-tabib tal-persuna.
 
-## Where does Golden Moments fit?
+## Fejn jidħol Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments toffri attivitajiet sempliċi maqsuma, mhux test tal-memorja, terapija jew parir mediku. Il-logħbiet tagħna, bħal [Pari ta' Ritratti](/games/picture-pairs/), [Karti tal-Konversazzjoni](/games/conversation-cards/), [Pari ta' Ritratti tal-Familja](/games/photo-pairs/), [Bingo bir-Ritratti](/games/picture-bingo/) u [Nifs Kalm](/games/calm-breathing/), huma magħmula għall-pjaċir u għall-konverżazzjoni. Ma jiddijanjostikawx, ma jittrattawx, ma jipprevjenux u ma jkejlux id-demenza, u ma nagħmlu l-ebda pretensjoni dwar il-memorja jew il-ħsieb.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Nagħmlu wkoll app b'xejn, [Golden Moments għall-iPhone, l-iPad u l-Android](/app/). Fiha tqabbil sempliċi ta' stampi b'tessri kbar, logħbiet b'ritratti tal-familja li tagħżel u pakketti ta' stampi li jaħdmu offline, mingħajr kont, reklami, timer jew punteġġ. L-istess lista ta' kontroll tapplika: it-tikketta tal-privatezza tagħna fuq l-App Store tgħid “Data Not Collected”, u [il-politika tal-privatezza tal-app](/app-privacy/) tispjega fejn jinżammu l-kopji tar-ritratti.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Nippreferu li tiġġudikana milli tafdana. Uża l-lista ta' kontroll ta' din il-paġna, aqra [il-paġna tal-privatezza](/privacy/) u l-[avviż mediku](/medical-disclaimer/) tagħna, u waqqaf kull ħaġa, anke tagħna, li ma taqbilx mal-persuna li tieħu ħsieb tagħha.
 
-## What is a sensible way to try a new app?
+## X'inhi triq sensata biex tipprova app ġdida?
 
-Try it together for a couple of weeks and watch what happens.
+Ipprovaha flimkien għal ftit ġimgħat u ara x'jiġri.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Issettjaha l-ewwel** bl-użu tal-[gwida tagħna għas-settings tat-tablet u tat-telefon](/caregiving/tablets-and-screens/), u ibda mill-livell l-aktar faċli.
+2. **Żomm is-sessjonijiet qosra,** innota l-ibtessim, il-konverżazzjoni u l-kalma, u ttemm f'mument tajjeb.
+3. **Ħalliha jekk tikkawża frustrazzjoni,** irrispettivament minn kemm tkun ivvalutata tajjeb.

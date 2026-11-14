@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kif tilgħab logħbiet ma' xi ħadd li għandu d-demenza"
+description: "Gwida prattika biex tilgħab logħbiet ma' xi ħadd li jgħix bid-demenza: it-tħejjija, il-ħeffa, qatt ma tikkoreġi, ngħamlu l-logħbiet aktar faċli, u meta tieqaf."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Ħares lejn logħba bħala ħin flimkien, mhux bħala test. Agħżel ħin kalm tal-ġurnata, qgħodu ħdejn xulxin f'kamra kwieta, u offri logħba sempliċi waħda. Ħalli l-persuna tistabbilixxi l-ħeffa, qatt ma tikkoreġi żbalji mhux ta' ħsara, aħmel il-logħba aktar faċli malli jidher xi tensjoni, u ibdel ir-ritratti f'konverżazzjoni. Ieqaf waqt li għadha tħossha tajba. It-tmiem kmieni, jew sempliċement it-tfarrigħ flimkien, huma riżultat tajjeb.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "L-għan hu l-pjaċir u l-konnessjoni, mhux li tlestu jew li tweġbu sew."
+  - "Ibda bit-tħejjija: kamra kwieta, dawl tajjeb, nuċali u għajnuniet tas-smigħ fuq, it-TV mitfi, logħba waħda lesta."
+  - "Tikkoreġix żbalji mhux ta' ħsara. Għid “Ejja nippruvawha b'dan il-mod” jew kompli sempliċement."
+  - "Aħmel logħba aktar faċli qabel il-frustrazzjoni tikber: inqas stampi, inqas għażliet, l-istampi jibqgħu viżibbli."
+  - "Uża r-ritratti bħala bidu għal stejjer b'“Għidli dwar...” minflok “Tiftakar...?”"
+  - "Ieqaf malli jidhru sinjali ta' għeja jew ta' nkwiet. It-twaqqif kmieni hu suċċess, mhux falliment."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Kemm għandna nilgħabu logħba?"
+    a: "M'hemm l-ebda tul korrett. Għal ħafna nies, ftit minuti huma biżżejjed, u f'xi jiem rawnd wieħed huwa biżżejjed. Ħares lejn il-persuna aktar milli lejn il-arloġġ, u ieqaf waqt li għadha tidher rilassata."
+  - q: "Għandi nħalli jirbaħ jew nagħmel finta li ma ninnota żbalji?"
+    a: "F'logħba maqsuma, b'pressjoni baxxa, m'hemm xejn x'tirbaħ jew titlef. Jekk żball ma jqalqilhiex, ħallih jgħaddi. Jekk jidher li jqalqilha, għin bil-kwiet jew aħmel il-logħba aktar faċli mingħajr ma tindikah."
+  - q: "X'jiġri jekk preferew jarawni nilgħab?"
+    a: "Dan hu tajjeb. L-Istitut Nazzjonali dwar l-Età jissuġġerixxi li tħalli lill-persuna sempliċement tara jekk jidher li tgawdi aktar minn hekk. Tkellem dwar dak li tara u stiednaha tindika jew tagħżel meta jkun hemm bżonn."
+  - q: "Dawn il-logħbiet huma mod biex tittestja l-memorja?"
+    a: "Le. Il-logħbiet tagħna huma attivitajiet sempliċi maqsuma għall-pjaċir u għall-konverżazzjoni. Mhumiex test tal-memorja, ma jkejlu xejn, u mhumiex trattament għad-demenza."
+  - q: "Liema logħba hi l-aħjar biex tibda biha?"
+    a: "Ibda bl-iktar waħda sempliċi li taqbel mal-persuna. Pari ta' Ritratti b'erba' tessri u stampi li jibqgħu viżibbli, jew Sib l-Istess b'żewġ għażliet, huma bidu ħafif. Karti tal-Konversazzjoni jaħdmu tajjeb jekk il-persuna togħġobha titkellem aktar milli tagħfas."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Logħba tajba ma' xi ħadd li jgħix bid-demenza ma tidhirx bħal kompetizzjoni. Tidher bħal żewġ nies qegħdin qrib xulxin, jindikaw stampi, jidħku dwar kelma mqalla, u jitkellmu dwar dak kollu li jitla'. Il-logħba hi biss raġuni biex tqattgħu ħin flimkien.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Din il-gwida tkopri kif tqgħod lest, kif tirregola ħeffa tal-logħba, x'tgħid meta xi ħaġa tmur “ħażin”, kif tagħmel kull logħba aktar faċli jew ftit aktar iebsa, kif tibdilha f'konverżazzjoni, u kif tkun taf meta tieqaf. Taħdem għall-[logħbiet tagħna](/games/) u għal karti, puzzles u logħbiet tal-bord li diġà għandek.
 
-## What is the best way to play a game with someone who has dementia?
+## X'inhu l-aħjar mod biex tilgħab logħba ma' xi ħadd li għandu d-demenza?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Iffoka fuq il-pjaċir, mhux fuq il-kisba. Dik hi l-parir ewlieni tal-[gwida tal-Alzheimer's Association dwar l-attivitajiet](https://www.alz.org/help-support/caregiving/daily-care/activities): ibni fuq il-ħiliet li l-persuna għadha għandha, għinha tibda, lesti int il-partijiet iebsa, u tikkritikax jew tikkoreġix attivitajiet mhux ta' ħsara.
 
-In practice that means:
+Fil-prattika dan ifisser:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Qgħod ħdejhom, mhux quddiemhom.** Ħdejn xulxin, tistgħu tarawhom it-tnejn l-iskrin jew il-mejda, u l-għajnuna tidher bħal ħidma flimkien aktar milli sorveljanza.
+- **Offri logħba waħda għal darba.** Menu ta' għażliet jista' jidher bħal test qabel ma jibda xejn.
+- **Ħares lejn it-tmexxija tagħhom.** Jekk iridu jagħfsu l-istampi fl-ordni tagħhom stess, jitkellmu dwar stampa waħda għal għaxar minuti, jew jieqfu wara żewġ turni, dik hi l-logħba tal-ġurnata.
+- **Ikkunsidra l-mumenti tajbin, mhux ir-rawnds mtemmin.** Bossa, stejjer jew nofs siegħa kalma huma r-riżultat li qed tfittex.
 
-## How do I set up before we start?
+## Kif nagħmel it-tħejjija qabel nibdew?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Ftit minuti ta' tħejjija jevitaw ħafna mill-frustrazzjoni li n-nies jattribwixxu lill-logħba innifisha.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Agħżel l-aħjar ħin tal-ġurnata tagħhom.** Il-[gwida tal-Istitut Nazzjonali dwar l-Età (NIA) dwar l-adattament tal-attivitajiet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tissuġġerixxi li tippjana ħarġiet u attivitajiet għall-ħin tal-ġurnata meta l-persuna tkun fl-aħjar tagħha. Għal ħafna nies dan hu f'nofs il-filgħodu. Il-wara nofsinhar tal-aħħar tiegħu spiss iebes aktar; ara [attivitajiet kalmi fl-aħħar tal-ġurnata](/caregiving/late-day-restlessness/).
+2. **Agħmel il-kamra kwieta.** Itfi t-TV u r-radju u agħlaq il-bieb jekk tista'. Il-[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tirrakkomanda li tnaqqas l-istorbju u d-distrazzjonijiet qabel ma tipprova titkellem.
+3. **Iċċekkja l-kumdità l-ewwel.** Xarba qrib, mistrieħ fit-toilet qabel, siġġu komdu, u n-nuċali u l-għajnuniet tas-smigħ fuqhom.
+4. **Iddawwal sew il-post.** Dawl sod u mqassam sew, mingħajr tlemiegħa fuq l-iskrin, jagħmel l-istampi aktar faċli biex jidhru.
+5. **Ħejji l-logħba qabel tqgħod.** Iftaħha, agħżel is-settings u sewwi l-leħen int innifsek. Imbagħad iddawwar l-iskrin lejhom. Għal ideat dwar it-tablet, ara [kif tissettja tablet jew telefon](/caregiving/tablets-and-screens/).
+6. **Poġġi l-apparat fuq suppurt.** Stand jew kaxxa li jżomm it-tablet b'mod dritt ifisser li ħadd m'għandu jżommu, u huwa aktar faċli biex tindikah.
 
-## How do I invite them without pressure?
+## Kif nistiednhom mingħajr pressjoni?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Agħmel l-istedina informali u faċli biex tiċħadha. Xi frażijiet li spiss jaħdmu tajjeb:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “Sibt xi stampi tal-ġnien. Tixtieq li nħarsu lejhom flimkien?”
+- “Tista' tgħinni b'dan il-puzzle? Qiegħed imwaħħal.”
+- “Tixtieq il-fjuri jew l-għasafar illum?” (għażla bejn tnejn hi aktar faċli minn mistoqsija miftuħa)
+- “Qed nagħmel kartolina għal oħtek. Liema kulur għandu jkun dan?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+L-Alzheimer's Association tissuġġerixxi li tispjega l-iskop ta' attività, bħal li tagħmel kartolina għal ħabib, għax raġuni tagħtiha tifsira. It-talba għall-għajnuna taħdem ukoll għax tħalli lill-persuna tħoss li hi utli.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Jekk jgħidu le, aċċetta. Erġa' ipprova aktar tard jew offri xi ħaġa differenti. Il-gwida tagħna dwar [x'tagħmel meta jgħidu le](/caregiving/when-they-say-no/) tmur aktar 'il quddiem.
 
-## How long should a game last, and how fast should we go?
+## Kemm għandha ddum logħba, u kemm għandna mmorru bil-ħeffa?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Ħalli l-persuna tistabbilixxi l-ħeffa, u ippjana sessjonijiet qosra. M'hemm l-ebda tul ideali ibbażat fuq l-evidenza għal logħba maqsuma. Bejn tnejn u ħames minuti kalmi jistgħu jkunu attività kompluta.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Stenna aktar milli jidher naturali.** In-NIA jgħid li għandek tħalli aktar ħin biex il-persuna tirrispondi u tipprova ma tinterrompiex. Għadd sa għaxra f'moħħok qabel ma tgħin.
+- **Pass wieħed kull darba.** Agħti istruzzjoni waħda, qasira (“Agħfas stampa”), u stenna. Uri aktar milli tispjega: indika fejn tagħfas.
+- **Ieqaf kif trid.** Jekk iwaqqfu biex jitkellmu dwar stampa, il-logħba tista' tistenna. M'hemmx għalfejn tgħaġġel.
+- **Ħalli jaraw.** In-NIA jinnota li xi nies jippreferu jaraw, u dik hi għażla valida.
 
-## Should I correct wrong answers?
+## Għandi nikkoreġi t-tweġibiet ħżiena?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Le. Li tikkoreġi xi ħadd b'mod ġentili u għal darba wara l-oħra jgħidilhom li qed jonqsu, anke meta tkun qed taħseb tajjeb. L-Alzheimer's Association tagħti parir li ma tikkritikax jew tikkoreġix attivitajiet mhux ta' ħsara. F'logħba, kważi kull żball hu mhux ta' ħsara.
 
-| Instead of | Try |
+| Minflok | Ipprova |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “Le, dak hu ħażin.” | “Ejja nippruvawha b'dan il-mod.” (eżempju li tagħti n-NIA) |
+| “Dik mhix korrispondenza. Ħares mill-ġdid.” | Oqgħod kwiet u ħu l-kelma li jmiss, jew “Oh, dawk it-tnejn ħomor.” |
+| “Tiftakar min hu dan?” | “Għidli dwar din l-istampa.” |
+| “Dak diġà għamiltu.” | “Dik hi waħda sabiħa. Ejja nagħmluha mill-ġdid.” |
+| “Ejja, int tafu dan.” | “Tixtieq nurik it-tmiem?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Jekk żball jaħbtilhom b'mod ċar, għin bil-kwiet. Indika l-istampa t-tajba, ħu l-kelma int, jew agħmel il-logħba aktar faċli fir-rawnd li jmiss. Jekk kelma mqalla titlesta b'tmiem ħażin u mudhik, ħudha bil-ħeġġa. It-tmiem tagħhom jista' jkun aħjar.
 
-## How do I make a game easier or harder?
+## Kif nagħmel logħba aktar faċli jew aktar iebsa?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Aġġusta l-logħba għall-persuna f'dik il-ġurnata, mhux għal tikketta ta' stadju. L-istess persuna tista' teħtieġ verżjoni aktar sempliċi filgħaxija milli filgħodu. L-ewwel parir tan-NIA hu li l-attività taqbel ma' dak li l-persuna tista' tagħmel u li tkun ċerta li thoss li rnexxiet.
 
-| Game | Make it easier | Make it a little harder |
+| Logħba | Agħmilha aktar faċli | Agħmilha ftit aktar iebsa |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Pari ta' Ritratti](/games/picture-pairs/) | Ibda b'4 tessri u ħalli l-istampi viżibbli | Aktar tessri, jew aħbi l-istampi jekk dan jidher komdu |
+| [Sib l-Istess](/games/find-the-same/) | 2 għażliet | Sa 4 għażliet |
+| [Iqsmu Flimkien](/games/sort-together/) | Int iżżomm l-istampa, huma jindikaw il-kannestru | Huma jagħfsu kemm l-istampa kif ukoll il-kannestru waħedhom |
+| [Puzzle tal-Ritratt](/games/picture-puzzle/) | 4 biċċiet, itkellmu l-ewwel dwar l-istampa kollha | 9 biċċiet |
+| [Lemm it-Tmiem](/games/finish-the-saying/) | Uri t-tmiem, imbagħad għidu flimkien | Ħalli jgħidu t-tmiem qabel ma jagħfsu |
+| [Tfittxija tal-Kliem](/games/word-search/) | Stampaha, fittxu kelma waħda flimkien, indika l-ewwel ittra tagħha | Ħalli jagħżlu l-kelma li jmiss biex isibu |
+| [Kuluraġġ](/games/coloring/) | Int tagħżel żewġ kuluri, huma jagħżlu bejniethom | Huma jagħżlu l-kuluri kollha |
+| [Karti tal-Konversazzjoni](/games/conversation-cards/) | Ħarsu lejn l-istampa flimkien biss | Uża l-istedinijiet miftuħa fuq il-karta |
+| [Pari ta' Ritratti tal-Familja](/games/photo-pairs/) | Ftit ritratti tal-familja li jħobbuhom | Żid aktar ritratti |
+| [Bingo bir-Ritratti](/games/picture-bingo/) | Persuna tgħin tqgħod ma' kull plejer | Il-plejers jimmarkaw il-kartelli tagħhom stess |
+| [Nifs Kalm](/games/calm-breathing/) | Qgħod u ħares flimkien biss | Ieħdu n-nifs bil-mod flimkien |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Sinjali li l-logħba hi iebsa wisq: waqfiet twal li jidhru bħala tħassib aktar milli ħsieb, “ma nistax” li jerġgħu jiġu ripetuti, li jbiegħdu t-tagħmir, jew żbalji li jnikkduhom. Sinjali li tista' tkun faċli wisq: ma jidhrux interessati, jew jgħidu li hi tfajlija. Jekk jiġri dan, irrispettah u aqleb għal xi ħaġa li tħossha bħal ta' adulti, bħal logħba tal-kliem, puzzle ta' ritratt reali, jew titkellem dwar ritratt tax-xogħol li kienu jagħmlu qabel.
 
-## How do I turn a game into a conversation?
+## Kif nibdel logħba f'konverżazzjoni?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Uża kull stampa bħala stedina biex titkellem, u ħu dak kollu li jgħidu bħala tweġiba tajba. Għal ħafna familji, dan hu l-aħjar parti mil-logħba.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Staqsi mistoqsijiet miftuħa, b'ebda tweġiba ħażina.** “X'tinnota?” “Liema waħda togħġbok?” “Għidli dwar kcina bħal din.”
+- **Ibda int l-ewwel.** “Kellha l-ġidda tiegħi kelb bħal dan.” L-istorja tiegħek tagħmilha aktar faċli għalihom biex jaqsmu waħda tagħhom.
+- **Segwi l-ħajt.** Jekk stampa ta' karozza twassal għal stejjer dwar vjaġġ, l-istorja hi l-attività. Ħalli l-logħba mwaqqfa.
+- **Tagħmilx verifika tal-fatti.** Fir-reminixxenza, konverżazzjoni pjaċevoli togħla fuq dettalji preċiżi. Jekk l-istorja tinbidel minn darba għal oħra, goda l-verżjoni l-ġdida.
+- **Uża l-istedinijiet inkorporati.** [Lemm it-Tmiem](/games/finish-the-saying/) isegwi kull kelma mqalla b'stedina biex titkellem, u [Karti tal-Konversazzjoni](/games/conversation-cards/) huma mfassla għal dan preċiżament. [Pari ta' Ritratti tal-Familja](/games/photo-pairs/) juża r-ritratti tal-familja tiegħek, li spiss iqajmu l-aktar stejjer sbieħ.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Aktar ideat hemm fil-gwidi tagħna dwar [attivitajiet ta' reminixxenza](/activities/reminiscence/) u [pariri dwar il-komunikazzjoni](/caregiving/communication-tips/).
 
-## When should we stop?
+## Meta għandna nieqfu?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Ieqaf malli jidhru l-ewwel sinjali ta' għeja jew ta' nkwiet, u idealment ftit qabel. L-Alzheimer's Association tagħti parir li tieqaf jew tibdel attività meta l-attenzjoni titlef jew il-frustrazzjoni tiżdied.
 
-Watch for:
+Oqgħod attent għal:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- tqegħid f'xina, tmiel 'l isfel jew għajnejn li jitbiegħdu mill-iskrin;
+- tbaqbiq, qiegħda, jew talba biex jitilqu;
+- nifs fond, tweġibiet qosra, jew “ma nafx nagħmel dan”;
+- tagħfis każwali jew tbiegħed it-tagħmir;
+- dmugħ, irritazzjoni, jew bidla f'daqqa fl-burdata.
 
-How to stop well:
+Kif tieqaf sew:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Ieqaf fuq xi ħaġa sempliċi.** Abbinament wieħed aħħari li jistgħu jagħmlu, jew stampa finali biex jammiraw.
+- **Għamilha dwarek int.** “Nixtieq nieħu tazza te. Nieqfu hawn?” jevita kull ħjiel li għamlu ħażin.
+- **Mur għal xi ħaġa fiżika jew kalmanti.** Mixja qasira, snack, tqassim tal-ħwejjeġ jew mużika.
+- **Għid xi ħaġa sabiħa.** “Ħadt pjaċir nagħmel dan miegħek.” Mingħajr tifħir għal “li tinħeles sew”, sempliċiment pjaċir fil-ħin flimkien.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+It-tmiem kmieni, it-tibdil fil-pjanijiet, jew li tabbanduna l-logħba u sempliċement tqgħodu flimkien, huma kollha riżultati tajbin.
 
-## Can we play in a group or over a video call?
+## Nistgħu nilgħabu f'grupp jew permezz ta' videochat?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Iva, b'xi tħejjija żejda. F'grupp, żommha għal ftit nies, poġġi l-għajnuna ħdejn kull min jeħtieġha, u agħżel logħba b'fokus komuni ċar. [Bingo bir-Ritratti](/games/picture-bingo/) għandu kartelli li tista' tistampa u min isejjaħ in-numri fuq l-iskrin għall-gruppi. Ara [attivitajiet għal gruppi f'djar tal-kura](/activities/care-home-groups/) għal aktar.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Fuq videochat, il-persuna fuq il-kollegament tista' tiddeskrivi stampa filwaqt li xi ħadd fil-kamra jindika u jagħfas. Żomm il-kollegamenti qosra u familjari. Il-gwida tagħna dwar [sejħiet bit-telefon u bil-video](/activities/phone-and-video-calls/) fiha aktar pariri.
 
-## What if a game just isn't working?
+## X'inhu dwar meta logħba ma taħdimx?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Xi jiem ebda ħaġa ma tilħaq, u dan mhux riflessjoni fuqek jew fuqhom. Itfa' l-logħba fil-kaxxa u ipprova ħin ieħor tal-ġurnata, logħba oħra, jew xejn logħba. Ħafna attivitajiet tajbin m'għandhom xejn x'jaqsmu mal-iskrins: mużika, tqassim tat-tuwieli, ħarsa lejn album tar-ritratti, jew mixja qasira. Ara [l-ideat tagħna għal attivitajiet](/activities/ideas/) għal aktar.

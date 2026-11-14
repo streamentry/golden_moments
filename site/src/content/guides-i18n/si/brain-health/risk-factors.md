@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "ඩිමෙන්ශියා අවදානම් සාධක: ලැන්සට් කොමිෂන් සභාව නම් කළ 14"
+seoTitle: "ඩිමෙන්ශියා අවදානම් සාධක 14"
+description: "2024 ලැන්සට් කොමිෂන් සභාව නම් කළ, වෙනස් කළ හැකි ඩිමෙන්ශියා අවදානම් සාධක 14. ජීවිත අවධිය අනුව, පර්යේෂණ සම්බන්ධ කරන දේ සහ වෛද්‍යවරයා සමඟ කතා කළ හැකි දේ."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 ලැන්සට් කොමිෂන් සභාව වෙනස් කළ හැකි ඩිමෙන්ශියා අවදානම් සාධක 14ක් නම් කළේය: අඩු අධ්‍යාපනය, ශ්‍රවණ හානිය, ඉහළ LDL කොලෙස්ටරෝලය, විෂාදය, හිසට තුවාලය, ක්‍රියාශීලී නොවීම, දියවැඩියාව, දුම්වැටීම, ඉහළ රුධිර පීඩනය, තරබාරුව, අධික මත්පැන් පානය, සමාජ හුදකලාව, වායු දූෂණය සහ ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය. ඒවා එකට ලොව පුරා දළ වශයෙන් 45%ක් රෝග සිදුවීම් සමඟ සම්බන්ධ වේ. එහෙත් කිසිම එක් පුද්ගලයෙකුට එය සහතික නොවේ.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "සාධක 14 ජීවිතය පුරා විහිදේ: එකක් මුල් ජීවිතයේ, දහයක් මැද වයසේ සහ තුනක් පසු වයසේ."
+  - "මැද වයසේ ශ්‍රවණ හානිය සහ ඉහළ LDL කොලෙස්ටරෝලය එක එකක් ලොව පුරා ඩිමෙන්ශියා රෝග සිදුවීම්වලින් දළ වශයෙන් 7%ක් සමඟ සම්බන්ධ වේ. මේවා ඕනෑම තනි සාධකයක විශාලතම කොටස් වේ."
+  - "මෙම ප්‍රතිශත ජනගහන ඇස්තමේන්තු වන අතර හේතු සහ ඵල සම්බන්ධයක් උපකල්පනය කරයි. සමහර සම්බන්ධතා කොටස් වශයෙන් පමණක් හේතුකාරක විය හැක."
+  - "වයස සහ ජාන, කිසිවෙකුට වෙනස් කළ නොහැකි, ද ප්‍රධාන අවදානම් සාධක වේ. අවදානම් 14 අඩු කිරීමෙන් කිසිවෙකුට ඩිමෙන්ශියාව වළක්වා ගන්නා බව සහතික නොවේ."
+  - "රුධිර පීඩනය, ශ්‍රවණය සහ දෘෂ්ටිය පරීක්ෂා කිරීම වැනි මෙම පියවරවලින් බොහොමයක් වෙනත් ආකාරවලින් සෞඛ්‍යයට හිතකර වන අතර වෛද්‍යවරයා සමඟ සාකච්ඡා කිරීම වටී."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "ඩිමෙන්ශියාව සඳහා වෙනස් කළ හැකි අවදානම් සාධක 14 මොනවාද?"
+    a: "2024 ලැන්සට් කොමිෂන් සභාව නම් කළේ: අඩු අධ්‍යාපනය, ශ්‍රවණ හානිය, ඉහළ LDL (“නරක”) කොලෙස්ටරෝලය, විෂාදය, හිසට බරපතල තුවාලය, ක්‍රියාශීලී නොවීම, දියවැඩියාව, දුම්වැටීම, ඉහළ රුධිර පීඩනය, තරබාරුව, අධික මත්පැන් පානය, සමාජ හුදකලාව, වායු දූෂණය සහ ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය. ඒවා එකට ලොව පුරා ඩිමෙන්ශියා රෝග සිදුවීම්වලින් ආසන්න වශයෙන් අඩකට සම්බන්ධ වේ."
+  - q: "වැදගත්ම ඩිමෙන්ශියා අවදානම් සාධකය කුමක්ද?"
+    a: "ලොව ජනගහනය පුරා, කොමිෂන් සභාව ඇස්තමේන්තු කළේ මැද වයසේ ශ්‍රවණ හානිය සහ ඉහළ LDL කොලෙස්ටරෝලය එක එකක් රෝග සිදුවීම්වලින් දළ වශයෙන් 7%ක් සමඟ සම්බන්ධ බවත්, ඉන් පසුව අඩු අධ්‍යාපනය සහ සමාජ හුදකලාව එක එකක් දළ වශයෙන් 5%ක් සමඟ සම්බන්ධ බවත්ය. එක් පුද්ගලයෙකු සඳහා කුමක් වැදගත්ද යන්න ඔහුගේ හෝ ඇයගේ සෞඛ්‍යය මත රඳා පවතින බැවින්, වෛද්‍යවරයා හොඳම මාර්ගෝපදේශකයා වේ."
+  - q: "2024 දී අවදානම් සාධක දෙකක් එකතු කරන ලදද?"
+    a: "ඔව්. 2024 වාර්තාවට, 2020 දී නම් කළ සාධක 12ට අමතරව, මැද වයසේ ඉහළ LDL (“නරක”) කොලෙස්ටරෝලය සහ පසු වයසේ ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය එකතු කරන ලදී. කොමිෂන් සභාව ඒවා පිළිවෙළින් රෝග සිදුවීම්වලින් දළ වශයෙන් 7% සහ 2% ක් සමඟ සම්බන්ධ කළේය."
+  - q: "වයස වෙනස් කළ හැකි අවදානම් සාධකයක්ද?"
+    a: "නැත. අල්සයිමර් රෝගය සඳහා දන්නා විශාලතම අවදානම් සාධකය වයසයි, එය වෙනස් කළ නොහැක. ජාන ද කොටසක් ඉටු කරයි. මෙම පිටුවේ ඇති සාධක 14 යනු පර්යේෂණ අනුව වෙනස් කළ හැකි විය හැකි ඒවා පමණි."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+අවදානම් සාධකයක් යනු තත්ත්වයක් ඇති වීමේ වැඩි අවස්ථාවක් සමඟ සම්බන්ධ දෙයකි. එය සෑම විටම හේතුවක් නොවන අතර, එයක් තිබීම ඔබට ඩිමෙන්ශියාව ඇති වන බව අර්ථ නොදක්වයි. මෙම පිටුවෙන් 2024 ලැන්සට් කොමිෂන් සභාව වෙනස් කළ හැකි යැයි පවසන ඩිමෙන්ශියා අවදානම් සාධක 14 ලැයිස්තුගත කර, ඒවා පර්යේෂණවලින් සම්බන්ධ වන දේ සහ ඔබ වෛද්‍යවරයා සමඟ කතා කළ හැකි දේ පෙන්වයි.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+විශාල චිත්‍රය සඳහා, විශාල පරීක්ෂණවලින් සොයාගත් දේ ඇතුළුව, [ඩිමෙන්ශියාව වළක්වා ගත හැකිද? පර්යේෂණ කියන දේ](/brain-health/can-dementia-be-prevented/) වලින් ආරම්භ කරන්න. මෙය සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ; අපගේ [වෛද්‍ය වියරු ප්‍රකාශය](/medical-disclaimer/) බලන්න.
 
-## What are the 14 risk factors for dementia?
+## ඩිමෙන්ශියාව සඳහා අවදානම් සාධක 14 මොනවාද?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 ලැන්සට් කොමිෂන් සභාව](https://doi.org/10.1016/S0140-6736(24)01296-0), පර්යේෂකයන් 27 දෙනෙකු විසින් ලියන ලද, වෙනස් කළ හැකි අවදානම් සාධක 14 එකට ලොව පුරා ඩිමෙන්ශියා රෝග සිදුවීම්වලින් දළ වශයෙන් 45%ක් සඳහා වගකිව හැකි බව ඇස්තමේන්තු කළේය. පහත එක් එක් සාධකය සඳහා ඇති ප්‍රතිශතය, ලොව පුරා රෝග සිදුවීම්වලින් ඒ සමඟ සම්බන්ධ වන කොටස, කොමිෂන් සභාවේ ඇස්තමේන්තුවයි, එය පූර්ණ සංඛ්‍යාවලට වටයි. බොහෝ දෙනෙකුට එකවර අවදානම් කිහිපයක් ඇති බැවින් ප්‍රතිශත එකතු වීම සිදුවන අතර, එම නිසා ඒවා 45%ට වඩා වැඩි නොවී එකතු වේ.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| අවදානම් සාධකය | ජීවිත අවධිය | රෝග සිදුවීම්වලින් කොටස | පර්යේෂණ සම්බන්ධ කරන දේ | ඔබට කළ හැකි දේ |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| අඩු අධ්‍යාපනය | මුල් ජීවිතය | 5% | අඩු පාසල් වසර ගණනක් ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. මැද වයසේ මානසිකව ක්‍රියාශීලී වීම, අඩු පාසල් අධ්‍යාපනයක් ඇති අයට පවා, ආරක්ෂාකාරී බව පෙනේ. | ඕනෑම වයසක ඉගෙනීම සහ මානසිකව නිරත වන දේ කරන්න: කියවීම, විනෝද රසිකත්ව, පන්ති, අන් අය සමඟ ක්‍රීඩා. |
+| ශ්‍රවණ හානිය | මැද වයස | 7% | ප්‍රතිකාර නොකළ ශ්‍රවණ හානිය ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. කාලයක් තිස්සේ පුද්ගලයන් අනුගමනය කළ අධ්‍යයනවල, ශ්‍රවණ උපකරණ භාවිතය අඩු අවදානමක් සමඟ සම්බන්ධ වී ඇත. | ඔබේ ශ්‍රවණය පරීක්ෂා කරවන්න. ශ්‍රවණ උපකරණ උදව් වේද යන්න ඇසන්න, නියම කර ඇත්නම් ඒවා පළඳින්න. ශබ්දය වැඩි තැන්වලින් කන් ආරක්ෂා කරන්න. |
+| ඉහළ LDL කොලෙස්ටරෝලය | මැද වයස (වයස 40 පමණ සිට) | 7% | මැද වයසේ ඉහළ LDL (“නරක”) කොලෙස්ටරෝලය ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. නිරීක්ෂණ අධ්‍යයනවල statin භාවිතය අඩු අවදානමක් සමඟ සම්බන්ධ වේ, එහෙත් පසු වයසේ පරීක්ෂණවලින් මෙය පෙන්වා දී නොමැත. | ඔබේ කොලෙස්ටරෝලය පරීක්ෂා කළ යුතුද, ඒ සඳහා කුමක් කළ යුතුද, කිසිවක් කළ යුතුද යන්න ඔබේ වෛද්‍යවරයාගෙන් අසන්න. |
+| විෂාදය | මැද වයස | 3% | විෂාදය ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. පසු වයසේ, විෂාදය ඩිමෙන්ශියාවේ මුල් සං‍ඥාවක් ද විය හැක. | සති දෙකකට වඩා පවතින අඩු මනෝභාවය හෝ උනන්දුව නැතිවීම ගැන වෛද්‍යවරයාට කියන්න. විෂාදයට ප්‍රතිකාර කළ හැක. |
+| හිසට බරපතල තුවාලය | මැද වයස | 3% | ඕනෑම වයසක, ඕනෑම මූලාශ්‍රයකින් ඇති වන හිසට තුවාලය, ක්‍රීඩා ඇතුළුව, ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. | පැදීමට සහ ස්පර්ශ ක්‍රීඩාවලට හිස්වැස්ම පළඳින්න. වැටීම වළක්වා ගැනීම ගැන අසන්න. හිසට තුවාලයකින් පසු විවේක ගෙන පරීක්ෂා කරවන්න. |
+| ක්‍රියාශීලී නොවීම | මැද වයස | 2% | ව්‍යායාම කරන සහ ක්‍රීඩා කරන අය ඩිමෙන්ශියාව ඇති වීමට අඩු ඉඩක් ඇත. චිකිත්සක පරීක්ෂණ සාක්ෂි තවමත් සීමිතයි. | ඔබට ආරක්ෂිත ක්‍රියාකාරකම් මොනවාද යන්න ඇසා, ඔබ විනෝද වන දෙයක් සොයන්න. අපගේ [ව්‍යායාම මාර්ගෝපදේශය](/brain-health/exercise/) බලන්න. |
+| දියවැඩියාව | මැද වයස | 2% | දියවැඩියාව, විශේෂයෙන් මැද වයසේ ආරම්භ වී දිගු කාලයක් පවතින විට, ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. | රුධිර සීනි මට්ටම පරීක්ෂා කරවන්න. ඔබට දියවැඩියාව ඇත්නම්, එය ආරක්ෂිතව කළමනාකරණය කිරීමට ඔබේ සත්කාර කණ්ඩායම සමඟ වැඩ කරන්න. |
+| දුම්වැටීම | මැද වයස | 2% | දුම්වැටීම ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. දුම්වැටීම නතර කළ අය, දිගටම දුම් පාන අයට මෙන් ඉහළ අවදානමක් නොමැති බව අධ්‍යයන පෙන්වයි. | නතර කිරීමට උදව් ගැන අසන්න. ඕනෑම වයසක එය නතර කිරීම වටී. |
+| ඉහළ රුධිර පීඩනය | මැද වයස | 2% | මැද වයසේ ඉහළ රුධිර පීඩනය ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. රුධිර පීඩන ඖෂධ පිළිබඳ පරීක්ෂණවලින් ඩිමෙන්ශියාව හෝ සිතුවිලි දුර්වලතාව ඇති වීමේ මධ්‍යස්ථ අඩු අවදානමක් යෝජනා වේ. | ඔබේ අංක දැන සිටින්න. කොමිෂන් සභාව වයස 40 පමණ සිට ඉහළ අංකය 130 හෝ ඊට අඩු වීම යෝජනා කරයි; ඔබට ගැලපෙන ඉලක්කය ගැන අසන්න. |
+| තරබාරුව | මැද වයස | 1% | මැද වයසේ තරබාරුව ඉහළ අවදානමක් සමඟ සම්බන්ධ වන අතර, එය දියවැඩියාවේ අවදානමද වැඩි කරයි. | ඔබට සුදුසු සෞඛ්‍ය සම්පන්න බරක් ගැන ඔබේ වෛද්‍යවරයාගෙන් අසන්න. වැඩිහිටියන් වෛද්‍ය උපදෙස් නොමැතිව බර අඩු කිරීමට ආහාර වේල් සීමා නොකළ යුතුය. |
+| අධික මත්පැන් පානය | මැද වයස | 1% | අධික මත්පැන් පානය ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. අධික පානයෙන් අඩු කිරීම අඩු අවදානමක් සමඟ සම්බන්ධ වේ. | ඔබට, විශේෂයෙන් ඔබේ ඖෂධ සමඟ, ආරක්ෂිත සීමාව කුමක්ද යන්න අසන්න. |
+| සමාජ හුදකලාව | පසු වයස | 5% | අඩු සමාජ සම්බන්ධතා ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. | ඔබට ප්‍රිය ලෙස හිතෙන ආකාරවලින් මිතුරන් සමඟ සම්බන්ධව සිටින්න. අපගේ [සමාජ සම්බන්ධතා මාර්ගෝපදේශය](/brain-health/social-connection/) බලන්න. |
+| වායු දූෂණය | පසු වයස | 3% | වැඩි වායු දූෂණයක් සහිතව ජීවත් වීම ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. පිරිසිදු වාතය අඩු අවදානමක් සමඟ සම්බන්ධ බව අධ්‍යයන පෙන්වයි. | බොහෝ දුරට රාජ්‍ය ප්‍රතිපත්තිවල කාරණයකි. දේශීය වායු ගුණත්ව අනතුරු ඇඟවීම් පරීක්ෂා කර, ඉතා දූෂිත දිනවල පිටත ගත කරන කාලය සීමා කරන්න. |
+| ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය | පසු වයස | 2% | නිවැරදි නොකළ දෘෂ්ටි ගැටළු ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. එක් විශාල එක්සත් ජනපද අධ්‍යයනයකින් ඇස් සැත්කම් (cataract) අඩු අවදානමක් සමඟ සම්බන්ධ වී ඇත. | නිතිපතා ඇස් පරීක්ෂා කරවන්න. cataract වැනි ගැටළු ප්‍රතිකාර කළ හැකිද යන්න ඇසන්න. |
 
-## How should I read these percentages?
+## මෙම ප්‍රතිශත කෙසේ කියවිය යුතුද?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+ප්‍රවේශමෙන්. කොමිෂන් සභාවේ වාර්තාව මතක තබා ගත යුතු කරුණු කිහිපයක් සඳහන් කරයි:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **ඒවා ජනගහනය විස්තර කරයි, පුද්ගලයන් නොවේ.** ලන්ඩන් විශ්ව විද්‍යාල විද්‍යාලය (University College London) විසින් [වාර්තාවේ සාරාංශයේ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) සඳහන් කරන්නේ අවදානම අඩු කිරීම ජනගහනය මට්ටමින් ක්‍රියා කරන අතර, කිසිම එක් පුද්ගලයෙකු ඩිමෙන්ශියාවෙන් වැළකෙන බව සහතික නොකරන බවයි.
+- **ඒවා හේතු සහ ඵල උපකල්පනය කරයි.** කතුවරුන් සාක්ෂි විශ්වාසදායක වූ සාධක පමණක් ඇතුළත් කළ නමුත්, සමහර සම්බන්ධතා කොටස් වශයෙන් පමණක් හේතුකාරක විය හැකි බව ඔවුන් පවසයි.
+- **ඒවා ලෝක මට්ටමේ ඇස්තමේන්තු වේ.** බොහෝ දත්ත ඉහළ ආදායම් ඇති රටවලින් ලැබේ, එක් රටක් හෝ ප්‍රජාවක සැබෑ කොටස වෙනස් වේ.
+- **කුඩා ප්‍රතිශත තවමත් වැදගත් විය හැක.** රෝග සිදුවීම්වලින් 2%ක් සමඟ සම්බන්ධ සාධකයක් ලොව පුරා තවමත් ඉතා විශාල පිරිසකට බලපායි.
 
-## Which risk factors were added in 2024?
+## 2024 දී කුමන අවදානම් සාධක එකතු කරන ලදද?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 වාර්තාවට, 2020 දී නම් කළ සාධක 12ට අමතරව සාධක දෙකක් එකතු කරන ලදී:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **මැද වයසේ ඉහළ LDL කොලෙස්ටරෝලය**, රෝග සිදුවීම්වලින් දළ වශයෙන් 7%ක් සමඟ සම්බන්ධ.
+- **පසු වයසේ ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය**, රෝග සිදුවීම්වලින් දළ වශයෙන් 2%ක් සමඟ සම්බන්ධ.
 
-## What risk factors cannot be changed?
+## වෙනස් කළ නොහැකි අවදානම් සාධක මොනවාද?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+ජාතික වයෝවෘද්ධ ආයතනය (National Institute on Aging) පවසන්නේ [වයස Alzheimer's සඳහා දන්නා විශාලතම අවදානම් සාධකය වන බවත්](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), එය කිසිවෙකුට වෙනස් කළ නොහැකි බවත්ය. ජාන ද කොටසක් ඉටු කරයි; Alzheimer's අවදානමට බලපාන එක් ප්‍රසිද්ධ ජානයක් APOE ලෙස හඳුන්වයි. බොහෝ පුද්ගලයන්ගේ Alzheimer's රෝගයට හේතු වන්නේ කුමක්ද යන්න විද්‍යාඥයන් තවමත් සම්පූර්ණයෙන් තේරුම් ගෙන නොමැති බව NIA එකතු කරයි. ලැන්සට් කොමිෂන් සභාව සඳහන් කරන්නේ, වෙනස් කළ හැකි අවදානම් පුද්ගලයෙකුගේ ජානමය අවදානම කුමක් වුවත් අඩු කළ හැකි බවයි.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+වයස සහ ජාන එතරම් විශාල කොටසක් ඉටු කරන බැවින්, සාධක 14 න් කිසිවක් නොමැති බොහෝ පුද්ගලයන් තවමත් ඩිමෙන්ශියාව ඇති කර ගනී. එය කාගේවත් වරදක් නොවේ.
 
-## What does the trial evidence say about changing these risks?
+## මෙම අවදානම් වෙනස් කිරීම ගැන චිකිත්සක සාක්ෂි කියන්නේ කුමක්ද?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+අවදානම් සාධකයක් ඩිමෙන්ශියාව සමඟ සම්බන්ධ කිරීම, එය වෙනස් කිරීමෙන් ඩිමෙන්ශියා අවදානම අඩු වන බව ඔප්පු කිරීමට සමාන නොවේ. චිකිත්සක සාක්ෂි කොතැනද ඇත්තේ යන්න පිළිබඳ උදාහරණ කිහිපයක්:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **රුධිර පීඩනය.** SPRINT MIND පරීක්ෂණයේදී, අඩු රුධිර පීඩන ඉලක්කයක් මෘදු සිතුවිලි දුර්වලතාව සැලකිය යුතු ලෙස අඩු කළේය. එය සම්භාව්‍ය ඩිමෙන්ශියාව සැලකිය යුතු ලෙස අඩු නොකළේය, එහෙත් පරීක්ෂණය එය පෙන්වීමට දැනට ඉතා කුඩා වූ බව විය හැක ([JAMA හි SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **ශ්‍රවණ උපකරණ.** ලැන්සට් කොමිෂන් සභාව වසර තුනක ශ්‍රවණ උපකරණ පරීක්ෂණයක් විස්තර කරයි, එය චින්තනය කෙරෙහි සමස්ත බලපෑමක් නොපෙන්වූ නමුත් ඉහළ අවදානමේ සිටින පිරිස් උප කණ්ඩායමක ප්‍රතිලාභයක් පෙන්වීය. කාලයක් තිස්සේ පුද්ගලයන් අනුගමනය කළ අධ්‍යයනවල, ශ්‍රවණ උපකරණ භාවිතය අඩු අවදානමක් සමඟ සම්බන්ධ වේ. වැඩි විස්තර සඳහා අපගේ [ශ්‍රවණ මාර්ගෝපදේශය](/brain-health/hearing/) බලන්න.
+- **ශාරීරික ක්‍රියාකාරකම්.** ජාතික වයෝවෘද්ධ ආයතනය පවසන්නේ, ව්‍යායාමයට mild cognitive impairment හෝ Alzheimer's වළක්වන හෝ මන්දගාමී කළ හැකි බව නිගමනය කිරීමට ප්‍රමාණවත් චිකිත්සක පරීක්ෂණ සාක්ෂි නොමැති බවයි, එහෙත් සමහර අධ්‍යයන යෝජනා කරන්නේ එය වයස හා සම්බන්ධ පරිහානියට උදව් විය හැකි බවයි ([NIA හි Alzheimer's වැළැක්වීම](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+ඩිමෙන්ශියාව ඇති වන තෙක් බලා සිටින දිගු පරීක්ෂණ මන්දගාමී සහ මිල අධික වන බැවින්, බොහෝ සාධක සඳහා හොඳම සාක්ෂි වර්ෂ ගණනාවක් තිස්සේ පුද්ගලයන් අනුගමනය කරන අධ්‍යයනවලින් පැමිණෙන්නට ඉඩ ඇත. එම සාක්ෂි ප්‍රයෝජනවත් නමුත් පරීක්ෂණයකට වඩා දුර්වලය.
 
-## What about sleep and diet?
+## නින්ද සහ ආහාර ගැන කුමක් ද?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+කොමිෂන් සභාව නින්ද සහ ආහාර සමාලෝචනය කළත්, සාක්ෂි ප්‍රමාණවත් හෝ ස්ථිර නොවූ බැවින් ඒවා ලැයිස්තුවට එක් කළේ නැත. [නින්ද](/brain-health/sleep/) සහ [ආහාර](/brain-health/diet/) පිළිබඳ අපගේ මාර්ගෝපදේශ දැනට දන්නා දේ පැහැදිලි කරයි.
 
-## Talk with a doctor
+## වෛද්‍යවරයා සමඟ කතා කරන්න
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+වාර්ෂික වෛද්‍ය පරීක්ෂණය මෙම මාතෘකා ගැන කතා කිරීමට හොඳ කාලයකි. ඔබට මෙම ලැයිස්තුව ගෙන ගොස් මෙසේ අසන්න පුළුවන්:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- මගේ රුධිර පීඩනය, රුධිර සීනි සහ කොලෙස්ටරෝල් අංක මොනවාද, ඒ අතරින් කිසිවකට අවධානය අවශ්‍යද?
+- මගේ ශ්‍රවණය සහ ඇස් පරීක්ෂා කරවිය යුතුද?
+- මම කරන ක්‍රියාකාරකම මට ආරක්ෂිත සහ ප්‍රමාණවත්ද?
+- මගේ ඖෂධ මින් කිසිවක් මතකයට හෝ චින්තනයට බලපෑමක් ඇති කළ හැකිද?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+ඖෂධ, ආහාර, උපවාසය, ව්‍යායාම හෝ අතිරේක ද්‍රව්‍ය වෙනස් කිරීමට පෙර, පළමුව වෛද්‍යවරයා සමඟ කතා කරන්න. ඔබට හෝ ඔබ සැලකිලිමත් වන අයෙකුට හදිසියේ ව්‍යාකූලත්වය, එක් පැත්තක දුර්වලතාව, හෝ කතා කිරීමේ අපහසුතාව ඇත්නම්, ඔබේ ප්‍රදේශයේ හදිසි අංකයට වහාම අමතන්න.

@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Ngā Tākaro Maumahara mō ngā Kaumātua e Mate Wareware ana: Ngā Tākaro Ngāwari, Kāore e Whakamātau"
+seoTitle: "Ngā Tākaro Maumahara mō te Wareware: Whakaaro Ngāwari"
+description: "Tākaro tōrite, whakaahua me kāri mō ngā kaumātua e mate wareware ana, me te tākaro kia kore ai tētahi e whakamātauria: whakaahua kitea, he iti ngā tōrite."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Ka pai rawa ngā tākaro maumahara mō ngā kaumātua e mate wareware ana ina kore
+  e whakawhirinaki ki te maumahara. Tākaro tōrite me ngā whakaahua kitea, whakamahia
+  ngā tāpare e whā ki te ono, tākaro ā-tīma, ā, kaua e tuhi te kaute. He māmā ki
+  te mōhio ki tētahi whakaahua i te kite ai i a koe, i te whakaara mai i tōna
+  maumahara. Te reka, ehara i te hua, te whāinga.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Ko ngā tākaro maumahara tawhito e huna ana i ngā kāri, ā, ko tēnā te mea e whakamātau ana i te mea e uaua rawa ana i te wareware. Waiho ngā whakaahua kitea hei utu."
+  - "He iti ake ngā wāhanga, he nui ake ngā whakaahua, he kōwhiringa kotahi i te wā e mārie ai te tākaro."
+  - "Tākaro ā-tīma, tuku i ngā wā āwhina, whakarerea te kaute. Kaua tētahi e whakatōrutia."
+  - "Kāore tētahi tākaro maumahara i whakaatuhia ka rongoā, ka whakaroa, ka mutu rānei i te wareware. Tākaro nō te mea he pai te wā tahi."
+  - "Whakamutua i te wā e pai tonu ana. Ko te kōrero mō ngā whakaahua he hua pai."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "He aha tētahi tākaro maumahara pai mō tētahi e mate wareware ana?"
+    a: "He tākaro tōrite me ngā whakaahua rahi, mōhio, ka taea te waiho kitea, pēnei i te [Pōtaki rite](/games/picture-pairs/) ki te whā, ki te ono tāpare rānei. He pai te kimi i te tōrite o tētahi whakaahua kua kitea e koe, ehara i te whakamātau i te maumahara poto. He māmā atu anō te [Kimihia te ōrite](/games/find-the-same/), he kōwhiringa kotahi mō te rua ki te whā."
+  - q: "Ka āwhina ngā tākaro maumahara i te wareware?"
+    a: "Kāore tētahi tākaro maumahara i whakaatuhia ka rongoā, ka whakaroa, ka mutu rānei i te wareware. I kī te Cochrane review he iti rawa ngā taunakitanga mō te whakangungu roro ā-rorohiko ki te kī ka ārai pea i te wareware. Ka taea tonu ngā tākaro te waiho hei wā mārie tahi. Kōwhiria mō te reka me te hoa."
+  - q: "Me tākaro tonu au i te Concentration tawhito me tētahi e mate wareware ana?"
+    a: "I te wāhanga timatanga, he pai tonu pea ki ētahi, ina iti ngā kāri. Ki te whai raru te maumahara o ngā wāhi o ngā kāri, huria ngā kāri ki runga, kimihia ngā tōrite tahi. Ka pupuri tērā i te tōrite, ka whakarere i te whakamātau maumahara."
+  - q: "He aha ngā tākaro maumahara pai mō ngā kaumātua i te rōpū?"
+    a: "He pai te pingo whakaahua me tētahi kaikaranga i runga i te mata, te whakaoti whakataukī mōhio ā-waha, me ngā kāri kōrero mō ngā rōpū. Tākaro kia kī katoa ngā kāri, ā, kaua e kī ko wai i whiwhi whakautu, kia kore ai tētahi e wehea."
+  - q: "He tākaro maumahara koreutu kei te ipurangi mō ngā kaumātua?"
+    a: "Āe. Ko ngā tākaro o tēnei paetukutuku, tae atu ki te [Pōtaki rite](/games/picture-pairs/), [Kimihia te ōrite](/games/find-the-same/), [Photo pairs](/games/photo-pairs/) me te [Tātai whakaahua](/games/picture-puzzle/), he koreutu, kāore e hiahiatia te rēhita, ka mahi i ngā waea, i ngā papapātuhi, i ngā rorohiko. Kāore tētahi e whai taima, kaute rānei."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Ka kimihia e koe te “tākaro maumahara mō ngā kaumātua” ā, ko te nuinga o ngā mea ka kitea he mea hanga mō te tangata e pirangi ana ki te whakangungu hinengaro: ngā kāri huna, ngā kaute karekau, ngā taumata me ngā kaute. Mō te tangata e mate wareware ana, ko aua āhuatanga ka huri te tākaro hei whakamātau i te mea kua uaua rawa. Ka taea te tākaro i aua tākaro i tētahi huarahi mārie ake. Ko tēnei whārangi e whakaatu i te huarahi, me ngā tākaro e pai ana i ia wāhanga.
 
-## Why do classic memory games frustrate people with dementia?
+## He aha ngā tākaro maumahara tawhito e whakapōuri ai i te tangata e mate wareware ana?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Nā te mea e whakawhirinaki ana ki te pupuri i ngā kōrero hou i te hinengaro, ko tērā te mea tuatahi e pōrearea ana e te Alzheimer's, te take nui o te mate wareware. E kī te [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ko te tohu tuatahi i te wāhanga timatanga ko te uaua ki te maumahara i ngā kōrero hou i akohia. I roto i te Concentration tawhito, ka pupuri koe i ngā wāhi o ngā kāri rua i ā koe e huri ana, ā, ka whakamahi i tērā i ngā meneti i muri mai. He kōrero hou tērā, e pupuritia ana, e maumaharatia ana.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Ka tāpirihia he taima, he kaute, he tangi mō ngā whakautu hē, ka whakamaumaharatia te tangata i ngā mea kāore e taea e ia, i mua i tētahi e aroha ana ki a ia. He maha ngā tāngata ka mutu te hiahia ki te tākaro.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Ko te mōhio ki tētahi mea e kitea ana he mahi rerekē, he māmā pea. Ko te tohu i te tuarua o ngā kapu tī ina kitea e rua ana, he pai tērā. Nō reira ko te tikanga he pupuri i te tōrite, he whakarere i te whakamātau maumahara.
 
-## How do you make a memory game gentle?
+## Me pēhea te whakamāmā i tētahi tākaro maumahara?
 
-These adjustments work for card games, board games and games on a screen.
+He whakaaro ēnei e pai ana mō ngā tākaro kāri, ngā tākaro papatipu, me ngā tākaro i runga i te mata.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Waiho ngā whakaahua ki runga.** Ko te tōrite i ngā whakaahua e kitea ana he tākaro pono tonu, he mea whakaūnu hoki i te wā.
+2. **Whakamahia he iti ngā wāhanga.** Tīmatahia ki ngā tōrite e rua, e toru. Whakanuia anake mēnā he māmā rawa, ā, e pīrangi ana rātou ki te nui atu.
+3. **Kōwhiria ngā whakaahua rahi, mōhio, pakeke.** He kapu tī, he puāwai rāwhiti, he poti kau. Ehara i ngā kāreti, ehara i ngā āhuatanga pōkākā.
+4. **Tākaro ā-tīma.** “Kimihia ngā kuri” i te “ko tō tūranga”. Me tohu, me āwhina ngā tūranga.
+5. **Whakarerea te kaute.** Kāore e hiahiatia tētahi kia wini. Mēnā ka pātai tētahi, he kī māmā “I whakaoti mātou” te rawe.
+6. **Kaua e whakataetae ki te wā.** Kāore he taima, kāore he tere i waenga tūranga.
+7. **Kōrerohia ngā whakaahua.** “Titiro ki taua poti. I haere anō koe ki te kau?” Ko te kōrerorero te wāhanga pai.
+8. **Whakamutua i tētahi wā pai.** Whakamutua i muri i tētahi tōrite, i te wā e pai tonu ana.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Ko te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e tuku ana i te wairua ōrite hei tohutohu whānui: hangaia te mahi ki ngā mea e taea e te tangata, titiro ki te pōrearea, ā, whakaarohia kia rongo ia i te angitu.
 
-## Gentle memory and matching games to try
+## Ngā tākaro maumahara me te tōrite ngāwari hei whakamātau
 
-### Picture pairs (matching with pictures showing)
+### Pōtaki rite (tōrite whakaahua e kitea ana)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Pōtaki rite](/games/picture-pairs/) he tākaro tōrite me ngā whakaahua rahi, ko te 4 ki te 12 ngā tāpare. Ka taea te waiho kitea ngā whakaahua, nō reira he kimi i ngā rua ōrite, ehara i te maumahara ko hea rātou. Tīmatahia me te whā tāpare. Mō tētahi i te wāhanga timatanga e pai ana ki tētahi wero iti ake, ka taea te huri ki ngā **Whakaahua huna**, engari hoki ki te whakaatu whakaahua i te wā ka mutu te pai.
 
-### Find the same
+### Kimihia te ōrite
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Kimihia te ōrite](/games/find-the-same/) e whakaatu ana i tētahi whakaahua i runga, me ngā kōwhiringa e rua ki te whā i raro. Pāwhiritia te mea e rite ana. Koia te tākaro tōrite māmā rawa i te paetukutuku, ā, he pai mō ngā tāngata e uaua ana ki te kōrero katoa, tae atu ki te nuinga i ngā wāhanga whakamutunga me tētahi e noho tata ana.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (tākaro maumahara whakaahua whānau)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ka huri ngā whakaahua e kōwhiria ana e koe ki tētahi tākaro tōrite: te kurī, te māra, te whare roto i te roto. Ko ngā whakaahua o ngā tāngata me ngā wāhi mōhio ka neke ake ai te kōrerorero i ngā whakaahua paerewa. Ka noho ngā whakaahua ki tō pūtirotiro, kāore e tukuna ki runga.
 
-### Sort together
+### Whakarōpū tahi
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Whakarōpū tahi](/games/sort-together/) ka tono kia tuku koe i ia whakaahua ki te kete e tika ana, pēnei i te kāinga, i te māra. Ko te whakarōpū e tōmuri ana ki te mōhio roa ki te āhua o te ao, ehara i te maumahara poto.
 
-### Picture puzzle
+### Tātai whakaahua
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Tātai whakaahua](/games/picture-puzzle/) ka tapahi i te whakaahua ki ngā wāhanga 4 me 9. Pāwhiritia ngā wāhanga e rua kia whakawhiti, kia oti ai te whakaahua. Ka noho te whakaahua katoa ki te mata hei arataki.
 
-### Real cards on the table
+### Ngā kāri pono ki runga tēpu
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Kāore e hiahiatia he mata. Tikina ngā tāpare ōrite mai i ngā kāri e rua, mai i tētahi huinga kāri whakaahua rānei. Whakatakotoria ki runga, ki ngā rārangi e rua, ā, kimihia ngā tāpare tahi. Muri mai, whakarōpūtia ki te tae, ki te kōwae rānei. Ko te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e whakarārangi ana i ngā tākaro kāri me ngā tākaro papatipu hei mahi mō te wāhanga timatanga.
 
-## Which memory games suit each stage?
+## Ko ēhea ngā tākaro maumahara e tika ana mō ia wāhanga?
 
-Stages are loose labels. Go by what the person enjoys today.
+He tapanga whānui ngā wāhanga. Titiro ki tāna e pai ana i tēnei rā.
 
-| Stage | Games that often fit | How to set them up |
+| Wāhanga | Ngā tākaro e tika ana | Me pēhea te whakarite |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Timatanga | Pōtaki rite, Photo pairs, Tātai whakaahua me 9 wāhanga, ngā tākaro kāri mōhio | Waiho kia kōwhiri ia. Ka taea te huri ngā tāpare ki raro mēnā he pai ki a ia; whakarerea te kaute mēnā he raruraru |
+| Waenga | Pōtaki rite me 4 ki te 6 tāpare kitea ki runga, Kimihia te ōrite, Whakarōpū tahi | Kia kitea ngā whakaahua i ngā wā katoa. Noho ki te taha, tahi te āwhina |
+| Whakamutunga | Kimihia te ōrite me 2 kōwhiringa, te titiro ki tētahi whakaahua nui ngātahi | He poto rawa. Kei a koe te papa-rorohiko; ka tohu ia, ka mātakitaki, ka whakarongo rānei |
 
-## Do memory games help with dementia?
+## Ka āwhina ngā tākaro maumahara i te mate wareware?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Kāore tētahi tākaro maumahara i whakaatuhia ka rongoā, ka whakaroa, ka mutu rānei i te mate wareware. He [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) mō te whakangungu roro ā-rorohiko mō ngā tāngata e iti ana te whakaaro engari kāore anō kia mate wareware, i kitea he iti rawa ngā taunakitanga hei kī ka ārai pea i te mate wareware. Ko tā mātou arataki [tākaro hinengaro me te mate wareware](/brain-health/brain-games/) e whakamārama ana he aha ngā rangahau i kī ai, he aha kāore.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ehara tērā he take hei karo i ngā tākaro. E kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) me aro ki te reka, ehara i te angitu. Ngā meneti tekau o te tōrite whakaahua me te kōrerorero mō tērā, he wāhanga pai tūturu o te rā.
 
-## What about memory games for seniors without dementia?
+## He aha mō ngā tākaro maumahara mō te kaumātua kāore he mate wareware?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Mēnā he pai ki tētahi kaumātua kāore he raruraru maumahara ki ngā tākaro wā, ngā kaute me ngā taumata uaua, kāore he hē mō tērā. Engari kaua e whakawhirinaki ki tērā hei pupuri i a ia i te mate wareware; kāore tētahi tākaro i whakaatuhia kia pēnā. Ko ngā momo mārie o runga ake nei ka pai hoki ina tākaro ngā whakatipuranga tahi: he kuia me te mokopuna iti ka tōrite whakaahua hei tīma, kāore tētahi e whakamātauria.
 
-## When should you stop or change the game?
+## Ina tika te whakamutu, te huri i te tākaro?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ko te pāwera, te pana i te papapātuhi ki muri, te kī “Kāore e taea e au tēnei” me te pōhēhē he tohu kia māmā ake, kia whakamutu rānei. Whakamātauria he tāpare iti ake, huria ngā whakaahua ki runga, huri ki te [Kimihia te ōrite](/games/find-the-same/), ā, kōrero ki ngā whakaahua. Mēnā kāore ia e pirangi ki te tākaro, he pai hoki tērā. Ko tā mātou arataki [me pēhea te tākaro tahi](/caregiving/how-to-play-together/) he kōrero anō mō te tere me te āwhina.

@@ -1,32 +1,31 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Attivitajiet tat-tfakkir: kaxxi, stejjer u ritratti"
+seoTitle: "Attivitajiet tat-tfakkir għad-dimenzja: Ideat mingħajr eżami"
+description: "Kif taqsam memorji ma’ persuna li qed tgħix bid-dimenzja mingħajr ma tagħmel eżami: diskussjoni dwar ritratti, kaxxi tal-memorji u albums tal-ħajja, b’frażijiet sempliċi."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  It-tfakkir ifisser li tgawdu l-passat flimkien permezz ta’ ritratti, oġġetti, mużika u stejjer.
+  Agħmel kaxxa tal-memorji, ibni album sempliċi tal-istorja tal-ħajja, jew ħares lejn ritratti
+  flimkien. Qatt ma tagħmel eżami: aqta’ “Tiftakar?” u “Min hu dan?” u uża stedini miftuħa bħal
+  “Għidli dwar dan.” Konverżazzjoni sħiħa tgħodd aktar milli li l-fatti jkunu eżatti.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "It-tfakkir huwa konverżazzjoni, mhux eżami. L-eżattezza ma tgħoddx; il-pjaċir iva."
+  - "Aqta’ “Tiftakar dan?” u “Min hu dan?” u ibdilhom b’kummenti u stedini bħal “Għidli dwar dan il-jum.”"
+  - "Kaxxa tal-memorji b’oġġetti mill-ħajja tal-persuna tagħti lill-idejn u lill-konverżazzjoni xi ħaġa x’jżommu."
+  - "Album tal-istorja tal-ħajja jgħin lill-familja, lill-viżitaturi u lill-persunal tal-kura jafu lill-persuna, mhux biss id-dijanjosi."
+  - "Jekk memorja tqajjem tristezza, aħseb l-ewwel fil-kumdità u mur bil-mod għal oħra."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "X’inhu t-tfakkir għal persuni bid-dimenzja?"
+    a: "It-tfakkir ifisser li taqsam memorji u esperjenzi tal-passat, ta’ spiss bl-għajnuna ta’ ritratti, oġġetti, mużika jew vidjows. Jista’ jseħħ wiċċ imb’wiċċ jew f’grupp. L-għan huwa konverżazzjoni pjaċevoli u sinifikanti, mhux li tittestja x’jista’ jiftakar il-persuna."
+  - q: "Għaliex m’għandix nistaqsi ‘Tiftakar?’"
+    a: "Mistoqsijiet li jittestjaw il-memorja jistgħu jħallu persuna tħoss imbarazzata jew ansjuża meta t-tweġiba ma tiġix. In-National Institute on Aging jelenka li tistaqsi jekk persuna tiftakar xi ħaġa jew xi ħadd bħala affarijiet li għandek tevita. Ikkummenta fuq dak li tara minflok, u ħalli l-persuna tżid kull ħaġa li trid."
+  - q: "X’għandi nqiegħed f’kaxxa tal-memorji?"
+    a: "Agħżel oġġetti sikuri u b’saħħithom marbuta mal-ħajja tal-persuna: oġġetti tax-xogħol, għodda tal-ħobbies, xalpa favorita, kartolini, karti tal-wasfiet, memorabilja tal-isports jew kopji ta’ ritratti. Evita oġġetti qorrieqa, affarijiet żgħar li jistgħu jinbelgħu u oriġinali li ma jistgħux jinbdlu."
+  - q: "X’nagħmel jekk jgħidu fatti ħżiena?"
+    a: "Ħalliha tgħaddi. Jekk ommok tgħid li r-ritratt juri oħtha meta hija l-kuġina tagħha, dan huwa tajjeb. Il-korrezzjoni tagħmel mument sħun f’eżami. Segwi l-istorja li qed jgħidu u għidu flimkien."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +40,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+It-tfakkir ifisser li tgawdu l-passat flimkien. Għal ħafna nies li qed jgħixu bid-dimenzja, memorji minn għexieren ta’ snin ilu spiss jibqgħu aktar ċari minn dak li ġara dakinhar filgħodu. Ritratti, oġġetti familjari, mużika u stejjer jistgħu jiftħu dawk il-memorji u jagħtuk xi ħaġa sħuna biex taqsam. Regola waħda: hija konverżazzjoni, qatt mhix eżami.
 
-## What is reminiscence, and how is it different from quizzing?
+## X’inhu t-tfakkir, u x’jagħmlu differenti mill-eżami?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+It-tfakkir ifisser li taqsam memorji permezz ta’ ritratti, oġġetti, mużika jew vidjo, fil-pass tal-persuna stess. L-[NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) jiddeskrivih bħala li taqsam esperjenzi u stejjer tal-passat bl-għajnuna ta’ ritratti, oġġetti, vidjows jew mużika, f’ktieb jew fuq tablet. L-eżami huwa differenti: jistaqsi lill-persuna biex tipproduċi tweġiba korretta, u dan jista’ jġib imbarazz minflok pjaċir.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) jelenka li tistaqsi lil persuna jekk tiftakar xi ħaġa jew xi ħadd bħala ħaġa li għandek tevita. Il-[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) jissuġġerixxi li tevita mistoqsijiet li jiddependu fuq memorja fuq terminu qasir, u titkellem dwar il-passat aktar ’il bogħod minflok.
 
-| Instead of | Try |
+| Minflok | Ipprova |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “Tiftakar dan?” | “Dan jidher bħal jum sabiħ. Għidli dwaru.” |
+| “Min hu dan?” | “Hawn zija Rose fuq il-bajja. Ara dak il-kappell.” |
+| “X’sena kienet din?” | “Dan jixbah id-dar il-qadima. Kif kien li tgħix hemm?” |
+| “Le, dik mhix Bill, hija Frank.” | “Jidher li kien ta’ divertiment kbir.” |
+| “Diġà għidtli dik.” | “Nħobb dik l-istorja.” |
 
-## How do you talk about photos without quizzing?
+## Kif titkellem dwar ritratti mingħajr ma tagħmel eżami?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Ibda bil-ħaġa li tara, imbagħad ħalli spazju għall-persuna biex iżżid xi ħaġa jekk tixtieq.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Oqgħod ġenb ġenb.** Żomm l-album bejnkom biex tkunu qed tħarsu flimkien, mhux qed tittestja minn fuq il-mejda.
+2. **Agħżel ftit ritratti.** Ħames ritratti tajbin huma aħjar minn kaxxa sħiħa. Stampi kbar u ċari jaħdmu aħjar.
+3. **Isem in-nies int stess.** “Hawn int u Missier fil-jum tat-tieġ tiegħek” jneħħi l-pressjoni.
+4. **Ikkummenta dwar dettalji.** Ilbies, karozzi, ikel, temp, uċuħ. “Liema karozza. Tidher ħafna nadifa.”
+5. **Stieden, la titlob.** “Għidli dwar...” jew “X’tinnota?” Is-skiet huwa tajjeb.
+6. **Imxi wara t-tmexxija tagħhom.** Jekk jitkellmu dwar xi ħaġa kompletament oħra, imxi magħhom.
+7. **Waqqaf meta jkun għadu pjaċevoli.** Agħlaq l-album qabel ma tasal il-għeja.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Għal stedini tar-ritratti lesti, ipprova [conversation cards](/games/conversation-cards/). Biex tbiddel ritratti tal-familja tiegħek f’logħba tat-tqabbil ġentili, ipprova [photo pairs](/games/photo-pairs/); ir-ritratti li tagħżel jibqgħu fil-browser tiegħek.
 
-## How do you make a memory box?
+## Kif tagħmel kaxxa tal-memorji?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Kaxxa tal-memorji hija kontenitur ta’ oġġetti mill-ħajja tal-persuna biex jinħadmu u jitkellmu dwarhom.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Agħżel kaxxa b’saħħitha** li tinfetaħ faċilment, bħal kaxxa tax-xkarpi, kaxxa tal-kpiepel jew bokka tal-injam żgħira.
+2. **Agħżel tema jew taħlita.** Xogħol, ħobby, post, deċennju, jew ftit minn kollox.
+3. **Iġbor oġġetti sikuri.** Ħames sa għaxar oġġetti huma biżżejjed biex tibda.
+4. **Uża kopji ta’ affarijiet prezzjużi.** Ikkopja ritratti u dokumenti li ma jistgħux jinbdlu u żomm l-oriġinali f’post sikur.
+5. **Ħu oġġetti wieħed kull darba.** Aqsam wieħed, għid xi ħaġa dwaru, u ara fejn jieħu t-taħdit.
 
-Ideas to include:
+Oġġetti li tista’ tinkludi:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Xogħol:** badge tal-isem, għodda żgħira, patch tal-uniformi, ktieb tal-kontijiet, pin tal-infermier, ktieb tal-wasfiet minn restaurant.
+- **Dar:** karta tal-wasfa bil-kitba tagħhom, tuvalja tal-kuċina, xalpa jew rabta favorita.
+- **Ħobbies:** lure tas-sajd mingħajr ganċ, ballun tal-baseball, kwiekeb tal-ħajt, borża taż-żerriegħa.
+- **Postijiet:** kartolini, mapep, suvenir tat-turiżmu, qatgħa minn gazzetta tal-belt tat-twelid.
+- **Familja:** kopji ta’ ritratti, disinn ta’ tifel jew tifla, invit għat-tieġ.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Ħalli barra oġġetti qorrieqa, affarijiet żgħar li jistgħu jinbelgħu, u kull ħaġa li tista’ tqajjem memorji tal-uġigħ sakemm ma tkunx ċert li tilqa’ tajjeb.
 
-## How do you make a life-story book?
+## Kif tagħmel album tal-istorja tal-ħajja?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Album tal-istorja tal-ħajja huwa album sempliċi ta’ ritratti u kapsjonijiet qosra dwar il-ħajja tal-persuna. Huwa xi ħaġa biex tħarsu flimkien, u jgħin lill-viżitaturi u lill-persunal tal-kura jaraw il-persuna kollha.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Agħżel format.** Binder b’protettur tal-folji, ktieb ta’ ritratti stampat, jew slideshow fuq tablet.
+2. **Ippjana ftit taqsimiet.** Tfulija, skola, xogħol, familja, postijiet li għexu fihom, fidi, ħobbies, ikliet favoriti u mużika.
+3. **Żid ritratt wieħed jew tnejn kull paġna** b’kapsjoni qasira b’ittri kbar: “Mary, ta’ 22 sena, tibda x-xogħol fil-bank.”
+4. **Żid il-preferenzi u r-rutini.** “Tieħu l-kafè bil-ħalib. Tħobb l-innijiet tal-Ħadd. Ma tħobbx it-TV b’ħoss għoli.” Dan jgħin lil kull min jieħu ħsieb tagħha.
+5. **Ħalli l-persuna tieħu sehem** kemm trid, billi tagħżel ritratti, tirrakkonta stejjer jew sempliċiment tara kif jinġabar.
+6. **Kompli żżid.** Ma jeħtieġx ikun lest biex ikun utli.
 
-## More reminiscence ideas
+## Aktar ideat tat-tfakkir
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Ħalli l-mużika mis-snin taż-żgħożija tkun imdoqqija** u tkellmu dwar fejn tieħdhom. Ara [attivitajiet tal-mużika](/activities/music/).
+- **Ara films tad-dar jew programmi tat-TV** mill-epoki favoriti tagħhom.
+- **Issajjar platt tat-tfulija** u ħalli r-riħa tmexxi l-konverżazzjoni.
+- **Ħares lejn mappa** tal-belt tat-twelid u ttraċċja t-toroq familjari.
+- **Ħu katalogi jew magażins qodma** u titkellmu dwar il-prezzijiet, il-moda u l-karozzi.
+- **Irrekordja l-istejjer tagħhom** fuq telefon, bil-permess tagħhom, għall-familja.
+- **Aqsam waqt is-sejħiet.** Ġib ritratt wieħed waqt sejħa bil-vidjo; ara [telefonati u sejħiet bil-vidjo](/activities/phone-and-video-calls/).
+- **Ġib ritratt jew oġġett meta żżur.** Jagħti liż-żjara fokus sempliċi; ara [żjarat](/activities/visiting/).
 
-## What if a memory is painful?
+## X’nagħmel jekk memorja tkun tweġġa’?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Xi memorji jġibu t-tħassir, ir-rimpjan jew il-biża’. Jekk il-persuna titnikket, waqqaf, faraġha u bdel is-suġġett jew l-attività bil-mod. Tiddiskutix dwar x’ġara. Il-Family Caregiver Alliance jagħti parir kontra li tipprova tikkonvinċi lill-persuna li hija żbaljata, u jissuġġerixxi li tirrispondi għall-emozzjonijiet li juru, li huma reali. Jekk jitkellmu dwar xi ħadd li miet bħallikieku kien għadu ħaj, irrispondi għall-emozzjoni: “Qed tiftaqqadha. Għidli dwarha.”
 
-## What does the research say?
+## X’jgħid ir-riċerka?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Review ta’ Cochrane dwar it-tfakkir](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), li jkopri 22 prova u 1,972 persuna, sab li l-effetti kienu inkonsistenti, żgħar u jvarjaw skont is-settings u l-format. Ma sabx evidenza ta’ ħsara għal persuni bid-dimenzja. Nissuġġerixxu t-tfakkir għax jista’ jagħmel ħin sabiħ u sinifikanti flimkien, mhux bħala trattament. Għal aktar dwar konverżazzjoni sempliċi, ara [suġġerimenti għall-komunikazzjoni](/caregiving/communication-tips/).

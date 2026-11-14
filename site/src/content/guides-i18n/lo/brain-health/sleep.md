@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "ການນອນ ແລະສຸຂະພາບສະໝອງ: ງານວິໄຈແນະນຳຫຍັງ ແລະຊ່ວຍຫຍັງໄດ້ແດ່"
+seoTitle: "ການນອນ ແລະໂຣກສະໝອງເສື່ອມ: ງານວິໄຈແນະນຳຫຍັງ"
+description: "ງານວິໄຈແນະນຳຫຍັງກ່ຽວກັບການນອນ ແລະຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມ ເປັນຫຍັງການຄົ້ນຄວ້າເລື່ອງການລ້າງສານພິດໃນສະໝອງຍັງເປັນຕົ້ນ ແລະນິໄສການນອນທີ່ເປັນປະໂຫຍດ."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  ການສຶກສາໄລຍະຍາວບາງອັນເຊື່ອມໂຍງການນອນໜ້ອຍໃນໄລຍະກາງຊີວິດກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ ແລະການວິໄຈໃນຫ້ອງທົດລອງຊີ້ວ່າການນອນອາດຊ່ວຍໃຫ້ສະໝອງກຳຈັດສິ່ງເສດເຫຼືອ. ຫຼັກຖານນີ້ຍັງເປັນຕົ້ນ ແລະຄະນະກຳມະການ Lancet ປີ 2024 ບໍ່ໄດ້ລະບຸການນອນເປັນປັດໄຈສ່ຽງທີ່ປ່ຽນແປງໄດ້. ນິໄສການນອນທີ່ສະໝ່ຳສະເໝີຊ່ວຍຄວາມຮູ້ສຶກໃນແຕ່ລະວັນ. ບັນຫາການນອນໃນໂຣກສະໝອງເສື່ອມແມ່ນເລື່ອງທົ່ວໄປ ແລະຄວນນຳໄປປຶກສາໝໍ.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "ການສຶກສາ UK ທີ່ຕິດຕາມຄົນປະມານ 8,000 ຄົນເປັນເວລາ 25 ປີ ເຊື່ອມໂຍງການນອນຫົກຊົ່ວໂມງ ຫຼືໜ້ອຍກວ່າ ໃນໄລຍະກາງຊີວິດ ກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ."
+  - "ການປ່ຽນແປງການນອນກໍອາດເປັນສັນຍານເບື້ອງຕົ້ນຂອງໂຣກສະໝອງເສື່ອມ ດັ່ງນັ້ນຈຶ່ງຍາກທີ່ຈະບອກວ່າອັນໃດເປັນເຫດ ອັນໃດເປັນຜົນ."
+  - "ງານວິໄຈກ່ຽວກັບການນອນທີ່ຊ່ວຍກຳຈັດ beta-amyloid ອອກຈາກສະໝອງເປັນຂອງຈິງ ແຕ່ຍັງຢູ່ໃນຂັ້ນຕົ້ນ ສ່ວນໃຫຍ່ເຮັດໃນໜູ."
+  - "ພາວະຫາຍໃຈຫຍຸ້ງຂະນະນອນ ແມ່ນເລື່ອງທົ່ວໄປ ປິ່ນປົວໄດ້ ແລະມີການເຊື່ອມໂຍງກັບໂຣກສະໝອງເສື່ອມໃນການສຶກສາ ການນອນກອດດັງຫຼາຍ ແລະງ່ວງນອນໃນຕອນກາງເວັນຄວນກວດ."
+  - "ຢ່າເລີ່ມ, ຢຸດ ຫຼືປ່ຽນຢາ ຫຼືຢາຊ່ວຍນອນໂດຍບໍ່ປຶກສາໝໍ."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "ການນອນບໍ່ດີເຮັດໃຫ້ເປັນໂຣກອັລໄຊເມີບໍ?"
+    a: "ຍັງບໍ່ໄດ້ພິສູດວ່າເປັນເຊັ່ນນັ້ນ. ບາງການສຶກສາເຊື່ອມໂຍງການນອນໜ້ອຍກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ ແຕ່ໂຣກສະໝອງເສື່ອມເອງກໍລົບກວນການນອນ ມັກເກີດຂຶ້ນກ່ອນການວິນິດໄສຫຼາຍປີ. ຄະນະກຳມະການ Lancet ປີ 2024 ເຫັນວ່າຫຼັກຖານບໍ່ສອດຄ່ອງພໍທີ່ຈະລະບຸການນອນເປັນປັດໄຈສ່ຽງທີ່ປ່ຽນແປງໄດ້."
+  - q: "ຜູ້ສູງອາຍຸຕ້ອງການນອນເທົ່າໃດ?"
+    a: "ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA) ເວົ້າວ່າຜູ້ສູງອາຍຸຕ້ອງການນອນໃກ້ຄຽງກັບຜູ້ໃຫຍ່ຄົນອື່ນ ປະມານ 7 ຫາ 9 ຊົ່ວໂມງຕໍ່ຄືນ. ຜູ້ສູງອາຍຸຫຼາຍຄົນເຂົ້ານອນ ແລະຕື່ນນອນໄວກວ່າກ່ອນ ເຊິ່ງເປັນເລື່ອງປົກກະຕິ."
+  - q: "ເປັນຫຍັງຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມຈຶ່ງນອນກາງເວັນ ແລະຕື່ນກາງຄືນ?"
+    a: "ໂຣກສະໝອງເສື່ອມສາມາດກະທົບໂມງຊີວະພາບຂອງຮ່າງກາຍ ເຮັດໃຫ້ເວລານອນ ແລະເວລາຕື່ນສັບສົນ. ຄວາມເຈັບປວດ ຄວາມເບື່ອ ຄວາມຫິວ ຫຼືຜົນຂ້າງຄຽງຂອງຢາກໍອາດມີສ່ວນ. ແສງແດດ ກິດຈະກຳປະຈຳວັນ ແລະກິດຈະວັດກ່ອນນອນຕອນແລງທີ່ສະຫງົບອາດຊ່ວຍໄດ້. ໝໍສາມາດຊອກຫາສາເຫດທີ່ປິ່ນປົວໄດ້."
+  - q: "ຄວນໃຫ້ຢາຊ່ວຍນອນແກ່ຜູ້ທີ່ຂ້ອຍດູແລບໍ?"
+    a: "ໃຫ້ປຶກສາໝໍຂອງເຂົາເຈົ້າກ່ອນ ລວມທັງກ່ຽວກັບຜະລິດຕະພັນທີ່ຊື້ໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ໃບສັ່ງຢາ. NIA ລະບຸວ່າຢາຊ່ວຍນອນບາງຊະນິດອາດເພີ່ມຄວາມສ່ຽງທີ່ຈະວິນຫົວ ລົ້ມ ແລະສັບສົນໃນຄົນທີ່ເປັນໂຣກອັລໄຊເມີ."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+ການນອນ ແລະສຸຂະພາບສະໝອງມີຄວາມກ່ຽວຂ້ອງກັນຢ່າງຊັດເຈນ ແຕ່ວ່າມັນກ່ຽວຂ້ອງກັນແນວໃດຍັງຕ້ອງຄົ້ນຄວ້າຕໍ່ໄປ. ບາງການສຶກສາເຊື່ອມໂຍງການນອນໜ້ອຍກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ. ໃນທາງກັບກັນ ໂຣກສະໝອງເສື່ອມມັກລົບກວນການນອນ. ໜ້ານີ້ອະທິບາຍວ່າງານວິໄຈສະແດງຫຍັງ ແລະບໍ່ສະແດງຫຍັງ ໃຫ້ນິໄສການນອນທີ່ເປັນປະໂຫຍດ ແລະເຖິງບັນຫາການນອນທີ່ພົບເລື້ອຍໃນໂຣກສະໝອງເສື່ອມ. ມັນບໍ່ໃຫ້ຄຳແນະນຳກ່ຽວກັບຢາຊ່ວຍນອນ ການສົນທະນາເລື່ອງນັ້ນເປັນໜ້າທີ່ຂອງໝໍ.
 
-## Is poor sleep linked with dementia?
+## ການນອນບໍ່ດີກ່ຽວຂ້ອງກັບໂຣກສະໝອງເສື່ອມບໍ?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+ບາງການສຶກສາໄລຍະຍາວເຊື່ອມໂຍງການນອນໜ້ອຍກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ສູງຂຶ້ນ ແຕ່ຫຼັກຖານຍັງບໍ່ເປັນທີ່ຢຸດຕົກ.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **ການສຶກສາ UK ເປັນເວລາ 25 ປີ.** ນັກວິໄຈຕິດຕາມຜູ້ໃຫຍ່ປະມານ 8,000 ຄົນໃນ [ການສຶກສາ Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). ຄົນທີ່ນອນຫົກຊົ່ວໂມງ ຫຼືໜ້ອຍກວ່າ ເມື່ອອາຍຸ 50 ຫຼື 60 ປີ ມີຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມໃນພາຍຫຼັງສູງກວ່າຄົນທີ່ນອນເຈັດຊົ່ວໂມງ. ຄົນທີ່ນອນຫົກຊົ່ວໂມງ ຫຼືໜ້ອຍກວ່າ ໃນອາຍຸ 50, 60 ແລະ 70 ປີ ມີຄວາມສ່ຽງສູງກວ່າປະມານ 30% ເມື່ອທຽບກັບຄົນທີ່ນອນເຈັດຊົ່ວໂມງເປັນປະຈຳ. ນີ້ເປັນການສຶກສາແບບສັງເກດການ ດັ່ງນັ້ນມັນສະແດງການເຊື່ອມໂຍງ ບໍ່ແມ່ນສາເຫດ.
+- **ທັດສະນະຂອງຄະນະກຳມະການ Lancet.** [ຄະນະກຳມະການ Lancet ປີ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ບໍ່ໄດ້ເພີ່ມການນອນເຂົ້າໃນລາຍການ 14 ປັດໄຈສ່ຽງທີ່ປ່ຽນແປງໄດ້. ມັນເຫັນວ່າຫຼັກຖານບໍ່ສອດຄ່ອງພໍ. ເຫດຜົນໜຶ່ງແມ່ນ "ການເປັນເຫດກັບຄືນ": ການປ່ຽນແປງຂອງສະໝອງຈາກໂຣກສະໝອງເສື່ອມເລີ່ມຂຶ້ນເປັນປີກ່ອນການວິນິດໄສ ແລະອາດລົບກວນການນອນໄດ້. ໃນການສຶກສາຂະໜາດໃຫຍ່ໜຶ່ງ ການເຊື່ອມໂຍງລະຫວ່າງການນອນດົນກັບໂຣກສະໝອງເສື່ອມຫາຍໄປ ເມື່ອຕັດໄລຍະຕິດຕາມຫ້າປີທຳອິດອອກ.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+ສະນັ້ນການນອນໜ້ອຍບາງຄືນບໍ່ແມ່ນເຫດຜົນໃຫ້ກັງວົນ. ການນອນທີ່ສະໝ່ຳສະເໝີ ແລະມີຄຸນນະພາບດີ ເປັນສິ່ງທີ່ຄວນເຮັດ ເພາະມັນຊ່ວຍອາລົມ ຄວາມຕື່ນຕົວ ແລະຄວາມປອດໄພໃນປັດຈຸບັນ.
 
-## What is the "brain-clearing" sleep research?
+## ການວິໄຈ "ການລ້າງສະໝອງ" ໃນຕອນນອນແມ່ນຫຍັງ?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+ທ່ານອາດເຄີຍອ່ານວ່າການນອນ "ລ້າງ" ສະໝອງ. ແນວຄິດນັ້ນມາຈາກງານວິໄຈທີ່ເປັນຈິງ ແຕ່ຍັງຢູ່ໃນຂັ້ນຕົ້ນ.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **ໃນໜູ.** ການສຶກສາປີ 2013 [ທີ່ NIH ອະທິບາຍ](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ພົບວ່າຊ່ອງຫວ່າງລະຫວ່າງເຊວສະໝອງເພີ່ມຂຶ້ນປະມານ 60% ເມື່ອໜູນອນ. ຂອງແຫຼວໄຫຼຜ່ານສະໝອງໄດ້ງ່າຍຂຶ້ນ ຜ່ານສິ່ງທີ່ນັກວິໄຈເອີ້ນວ່າລະບົບ glymphatic. Beta-amyloid ເປັນໂປຣຕີນທີ່ກ່ຽວຂ້ອງກັບໂຣກອັລໄຊເມີ ຖືກກຳຈັດອອກຈາກສະໝອງຂອງໜູທີ່ນອນໄດ້ໄວກວ່າ.
+- **ໃນຄົນ.** ການສຶກສາຂະໜາດນ້ອຍ [ປີ 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) ສະແກນສະໝອງຜູ້ໃຫຍ່ທີ່ມີສຸຂະພາບດີ 20 ຄົນ ອາຍຸ 22 ຫາ 72 ປີ ຫຼັງຈາກນອນປົກກະຕິຄືນໜຶ່ງ ແລະຫຼັງຈາກຄືນທີ່ບໍ່ໄດ້ນອນເລີຍ. ຫຼັງຄືນທີ່ບໍ່ໄດ້ນອນ ສັນຍານ beta-amyloid ໃນການສະແກນສະໝອງເພີ່ມຂຶ້ນປະມານ 5% ໃນບໍລິເວນທີ່ລວມເຖິງ hippocampus ເຊິ່ງເປັນພື້ນທີ່ສຳຄັນສຳລັບຄວາມຈຳ. ຜູ້ຂຽນເອີ້ນນີ້ວ່າຫຼັກຖານເບື້ອງຕົ້ນ. ພວກເຂົາບໍ່ຮູ້ວ່າການປ່ຽນແປງນັ້ນຫາຍໄປຫຼັງພັກຜ່ອນຫຼືບໍ່ ຫຼືວ່າມັນສະແດງເຖິງການກຳຈັດທີ່ຊ້າລົງ ຫຼືການສ້າງ amyloid ເພີ່ມຂຶ້ນ.
+- **ມັນເຮັດວຽກສອງທາງ.** ຄະນະກຳມະການ Lancet ລະບຸວ່າການສະສົມຂອງ amyloid ເອງກໍອາດລົບກວນການນອນໃນຜູ້ໃຫຍ່ອາຍຸຫຼາຍ.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+ການຄົ້ນພົບເຫຼົ່ານີ້ຊ່ວຍອະທິບາຍວ່າເປັນຫຍັງນັກວິໄຈຈຶ່ງສົນໃຈເລື່ອງການນອນ. ແຕ່ມັນບໍ່ໄດ້ສະແດງວ່າການນອນທີ່ດີຂຶ້ນຈະປ້ອງກັນໂຣກອັລໄຊເມີໄດ້.
 
-## What sleep habits may help?
+## ນິໄສການນອນແບບໃດອາດເປັນປະໂຫຍດ?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+ຜູ້ສູງອາຍຸຕ້ອງການນອນປະມານ 7 ຫາ 9 ຊົ່ວໂມງຕໍ່ຄືນ ເທົ່າກັບຜູ້ໃຫຍ່ຄົນອື່ນ ຕາມ[ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). ຄຳແນະນຳຂອງມັນລວມມີ:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **ຮັກສາຕາຕະລາງທີ່ສະໝ່ຳສະເໝີ.** ເຂົ້ານອນ ແລະຕື່ນນອນໃນເວລາດຽວກັນທຸກວັນ ເຖິງແມ່ນໃນວັນພັກ.
+- **ສ້າງກິດຈະວັດກ່ອນນອນ.** ອ່ານໜັງສື ຟັງເພງທີ່ສະຫງົບ ຫຼືອາບນ້ຳອຸ່ນກ່ອນນອນ.
+- **ເຮັດໃຫ້ຫ້ອງນອນສະບາຍ,** ບໍ່ຮ້ອນເກີນໄປ ຫຼືເຢັນເກີນໄປ.
+- **ຈຳກັດຄາເຟອີນໃນຊ່ວງທ້າຍວັນ.** ກາເຟ ຊາ ນ້ຳອັດລົມ ແລະຊັອກໂກແລັດສາມາດເຮັດໃຫ້ຕື່ນຢູ່ໄດ້.
+- **ຫຼີກເວັ້ນເຫຼົ້າ,** ແມ່ນແຕ່ປະລິມານໜ້ອຍ ຕາມຄຳແນະນຳຂອງ NIA.
+- **ຫຼີກເວັ້ນອາຫານມື້ໃຫຍ່ພາຍໃນສອງຫາສາມຊົ່ວໂມງກ່ອນນອນ,** ແລະຫຼີກເວັ້ນນ້ຳດື່ມປະລິມານຫຼາຍໃນຊ່ວງທ້າຍວັນ.
+- **ອອກກຳລັງກາຍເປັນປະຈຳ ແຕ່ບໍ່ໃນໄລຍະ 3 ຊົ່ວໂມງກ່ອນນອນ.** ເບິ່ງ[ຄູ່ມືການອອກກຳລັງກາຍ](/brain-health/exercise/) ຂອງພວກເຮົາ.
+- **ເອົາໜ້າຈໍອອກຈາກຫ້ອງນອນ.** NIA ແນະນຳໃຫ້ບໍ່ເບິ່ງໂທລະທັດ ຫຼືໃຊ້ຄອມພິວເຕີ ໂທລະສັບ ຫຼືແທັບເລັດໃນຫ້ອງນອນ.
+- **ຫຼີກເວັ້ນການນອນຫຼັບຕອນບ່າຍແກ່ ຫຼືຕອນແລງ** ຖ້າເປັນໄປໄດ້.
 
-## Sleep problems in dementia
+## ບັນຫາການນອນໃນໂຣກສະໝອງເສື່ອມ
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+ການປ່ຽນແປງການນອນເປັນເລື່ອງທົ່ວໄປໃນໂຣກສະໝອງເສື່ອມ. [NIA ລະບຸ](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ການນອນຫຼາຍ ຫຼືໜ້ອຍເກີນໄປ ການຕື່ນຫຼາຍຄັ້ງໃນຕອນກາງຄືນ ແລະການນອນຫຼັບຫຼາຍໃນຕອນກາງເວັນ. ມັນຍັງອະທິບາຍ sundowning ເຊິ່ງໝາຍເຖິງຄວາມກະວົນກະວາຍ ການຮຸກຮານ ຫຼືສັບສົນທີ່ເລີ່ມ ຫຼືຮຸນແຮງຂຶ້ນເມື່ອແສງແດດຈາງລົງ.
 
-Caregiver tips from the NIA include:
+ຄຳແນະນຳຂອງ NIA ສຳລັບຜູ້ດູແລລວມມີ:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **ໄດ້ຮັບແສງແດດ ແລະການເຄື່ອນໄຫວແຕ່ເຊົ້າ.** ອອກໄປຂ້າງນອກ ຫຼືນັ່ງໃກ້ໜ້າຕ່າງໃນຕອນກາງເວັນ ແລະຊ່ວຍໃຫ້ຜູ້ນັ້ນເຄື່ອນໄຫວທຸກວັນ. ແສງສະຫວ່າງອາດຊ່ວຍປັບໂມງຊີວະພາບຂອງຮ່າງກາຍ.
+2. **ວາງແຜນກິດຈະກຳທີ່ໃຊ້ແຮງຕອນເຊົ້າ.** ລອງອາບນ້ຳຕອນເຊົ້າ ຫຼືກິນອາຫານມື້ໃຫຍ່ທີ່ສຸດຕອນທ່ຽງ.
+3. **ນອນຫຼັບສັ້ນໆ ແລະຕອນຕົ້ນ.** ຈຳກັດການງ່ວງຊຸດຕອນແລງ.
+4. **ເຮັດໃຫ້ຕອນແລງສະຫງົບ.** ຫຼຸດແສງໄຟ ລົດສຽງລົບກວນ ແລະເປີດເພງທີ່ສະຫງົບຖ້າຜູ້ນັ້ນມັກ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ[ຄວາມກະວົນກະວາຍໃນຊ່ວງທ້າຍວັນ](/caregiving/late-day-restlessness/) ມີແນວຄິດເພີ່ມເຕີມ.
+5. **ຮັກສາກິດຈະວັດກ່ອນນອນທີ່ໝັ້ນຄົງ.** ການອ່ານອອກສຽງໃນເວລາດຽວກັນທຸກຄືນເປັນຕົວຢ່າງໜຶ່ງຂອງ NIA. [ຕາຕະລາງປະຈຳວັນທີ່ໝັ້ນຄົງ](/activities/daily-routine/) ກໍຊ່ວຍໄດ້ເຊັ່ນກັນ.
+6. **ຈຳກັດຄາເຟອີນ ແລະເຫຼົ້າ.**
+7. **ໃຊ້ໄຟກາງຄືນ** ໃນຫ້ອງນອນ ທາງຍ່າງ ແລະຫ້ອງນ້ຳ.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+ສຳລັບການຕື່ນກາງຄືນ ຄຳແນະນຳດ້ານຄວາມປອດໄພໃນບ້ານຂອງ [NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ລວມເຖິງໄຟກາງຄືນ ຫຼືເຊັນເຊີແສງອັດຕະໂນມັດ ແຖບຈັບໃນຫ້ອງນ້ຳ ເທບສີສົດໃສທີ່ຂອບຂັ້ນໄດ ແລະການເກັບຢາໄວ້ໃນບ່ອນທີ່ລັອກໄດ້.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+ກິດຈະກຳສັ້ນໆ ງຽບໆໃນຕອນແລງສາມາດຊ່ວຍໃຫ້ທ່ານທັງສອງສະຫງົບລົງໄດ້. ລອງຊ້າໆ ໂດຍຢຸດພັກ[ການຫາຍໃຈສະຫງົບ](/games/calm-breathing/) ຫຼືອ່ານ[ບັດສົນທະນາ](/games/conversation-cards/) ເລັກນ້ອຍຢ່າງຜ່ອນຄາຍ. ຢ່າເຮັດສິ່ງທີ່ກະຕຸ້ນໃກ້ເວລານອນ ແລະຢຸດເມື່ອຜູ້ນັ້ນພໍໃຈແລ້ວ.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+ການນອນທີ່ຖືກລົບກວນກໍເຮັດໃຫ້ຜູ້ດູແລອ່ອນເພຍເຊັ່ນກັນ. [ຄູ່ມືການດູແລຕົນເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/) ຂອງພວກເຮົາ ກວມເຖິງວິທີພັກຜ່ອນ ແລະຂໍຄວາມຊ່ວຍເຫຼືອ.
 
-## What about sleep apnea?
+## ແລ້ວພາວະຫາຍໃຈຫຍຸ້ງຂະນະນອນເປັນແນວໃດ?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+ພາວະຫາຍໃຈຫຍຸ້ງຂະນະນອນເຮັດໃຫ້ການຫາຍໃຈຢຸດສັ້ນໆໃນຂະນະນອນ ມັກເກີດຫຼາຍຄັ້ງຕໍ່ຄືນ. NIA ເວົ້າວ່າຖ້າບໍ່ໄດ້ຮັບການປິ່ນປົວ ມັນອາດນຳໄປສູ່ບັນຫາເຊັ່ນຄວາມດັນເລືອດສູງ ໂຣກເສັ້ນເລືອດສະໝອງ ຫຼືການສູນເສຍຄວາມຈຳ. ສັນຍານລວມມີການນອນກອດດັງ ແລະຮູ້ສຶກງ່ວງນອນໃນຕອນກາງເວັນ ແລະຫຼາຍຄົນບໍ່ຮູ້ວ່າຕົນເປັນ. ຄະນະກຳມະການ Lancet ອະທິບາຍການທົບທວນການສຶກສາ 11 ສະບັບ ເຊິ່ງຄົນທີ່ມີພາວະຫາຍໃຈຫຍຸ້ງຂະນະນອນມີຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມສູງກວ່າປະມານ 43%. ແຕ່ການສຶກສາສ່ວນໃຫຍ່ບໍ່ໄດ້ຄຳນຶງເຖິງນ້ຳໜັກ ດັ່ງນັ້ນການເຊື່ອມໂຍງນີ້ຍັງບໍ່ແນ່ນອນ.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+ພາວະຫາຍໃຈຫຍຸ້ງຂະນະນອນສາມາດກວດວິນິດໄສ ແລະປິ່ນປົວໄດ້. NIA ລະບຸວ່າເຄື່ອງ CPAP ເກືອບສະເໝີຊ່ວຍໄດ້. ຖ້າທ່ານ ຫຼືຜູ້ທີ່ທ່ານດູແລ ກອດດັງຫຼາຍ ຢຸດຫາຍໃຈຂະນະນອນ ຫຼືງ່ວງນອນຫຼາຍໃນຕອນກາງເວັນ ໃຫ້ບອກໝໍ.
 
-## A note about sleep medicines
+## ໝາຍເຫດກ່ຽວກັບຢາຊ່ວຍນອນ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+ພວກເຮົາບໍ່ໃຫ້ຄຳແນະນຳກ່ຽວກັບຢາຊ່ວຍນອນ ຫຼືອາຫານເສີມ. NIA ລະບຸວ່າຢາຊ່ວຍນອນອາດຊ່ວຍໄດ້ໄລຍະສັ້ນ ແຕ່ບໍ່ແມ່ນການປິ່ນປົວໂຣກນອນບໍ່ຫຼັບ. ມັນຍັງລະບຸວ່າຢາບາງຊະນິດທີ່ໃຫ້ເພື່ອຊ່ວຍຜູ້ທີ່ເປັນໂຣກອັລໄຊເມີນອນ ອາດເພີ່ມຄວາມສ່ຽງທີ່ຈະວິນຫົວ ລົ້ມ ແລະສັບສົນ. ຢ່າເລີ່ມ, ຢຸດ ຫຼືປ່ຽນຢາຊ່ວຍນອນໃດໆ ລວມທັງຢາຊ່ວຍນອນທີ່ຊື້ໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ໃບສັ່ງຢາ ໂດຍບໍ່ປຶກສາໝໍ ຫຼືເພສັດ.
 
-## Talk with a doctor
+## ປຶກສາກັບໝໍ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+ໃຫ້ໄປພົບໝໍ ຖ້າທ່ານ ຫຼືຜູ້ທີ່ທ່ານດູແລ ເມື່ອຍຢູ່ສະເໝີ ນອນບໍ່ຫຼັບເກືອບທຸກຄືນ ກອດດັງຫຼາຍ ຫຼືມີການຢຸດຫາຍໃຈໃນຕອນກາງຄືນ. ຖ້າບັນຫາການນອນໃນໂຣກສະໝອງເສື່ອມຍັງຄົງຢູ່ [NIA ແນະນຳ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ໃຫ້ຂໍຄຳແນະນຳທາງການແພດ. ການກວດສຸຂະພາບສາມາດພົບສາເຫດເຊັ່ນຄວາມເຈັບປວດ ຄວາມຜິດປົກກະຕິການນອນອື່ນ ພະຍາດ ຫຼືຜົນຂ້າງຄຽງຂອງຢາ. ຄວາມສັບສົນກະທັນຫັນ ຫຼືການປ່ຽນແປງການນອນກະທັນຫັນພ້ອມກັບຄວາມສັບສົນ ຕ້ອງໄດ້ຮັບການດູແລຮີບດ່ວນ. ອ່ານ[ເວລາທີ່ຄວນໄປພົບໝໍ](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ໜ້ານີ້ເປັນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ເບິ່ງ[ຄຳປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ.

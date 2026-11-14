@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Einfach Trivia fir Senioren mat Demenz, ouni Drock"
+seoTitle: "Trivia-Froen fir Senioren mat Demenz, mat Äntwerten"
+description: "50 einfach Trivia-Froen fir Senioren mat Demenz, mat Äntwerten a Gespréichsthemen, an, wéi ee se sanft gestalt, ouni dass sech een gepréift oder ausgeschloss fillt."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Einfach Trivia fir Senioren mat Demenz funktionéiert, wann et sech wéi e
+  Gespréich ufillt an net wéi e Test. Frot no Dingen, déi een laang fréier
+  geléiert huet, wéi al Lidder, Spréch, Feierdeeg an den Alldag, an bidd ëmmer
+  zwou oder dräi Äntwertméiglechkeeten un. Gitt d'Äntwert frëndlech, setzt
+  keen Eenzelnen ënner Drock, verzicht op Punkten a benotzt all Äntwert fir eng
+  Geschicht unzefänken. Fragen mat „Dat oder dat“ ouni falsch Äntwert passen zu
+  spéideren Stadien.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Frot no Dingen, déi lang bekannt sinn: Lidder, Spréch, Feierdeeg, Iessen an den Alldag vun, deemools."
+  - "Bidd zwou oder dräi Äntwertméiglechkeeten un, sou datt d'Äntwert erkannt an net muss erënnert ginn."
+  - "Sot d'Äntwert frëndlech a fuert weider. All Vermutung, déi eng Geschicht ausléist, ass eng gutt Vermutung."
+  - "Keng Punkten, keng Equipen, déi sech matenee wettlafen, a kee Mënsch gëtt opgeruff. D'Äntwerte sollen aus dem ganze Raum kommen."
+  - "Wann d'Wiel tëscht den Äntwerten schwéier fält, wiesselt op Dat-oder-dat-Froen ouni richteg Äntwert."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Ass Trivia en gudde Gedanken fir Leit mat Demenz?"
+    a: "Dat kann et sinn, wann et sanft gefouert gëtt. D'Alzheimer's Foundation of America nennt Trivia ënner den Aktivitéiten fir den fréien Stadium. Hält d'Froen bei laang bekannte Themen, bidd Äntwertméiglechkeeten un, setzt ni eng Persoun a Verlegenheet a betruecht d'Äntwerte méi als Weg an e Gespréich wéi als Test."
+  - q: "Wéi Themen funktionéieren am beschte bei Demenz-Trivia?"
+    a: "Dinger, déi een laang fréier geléiert huet, funktionéieren meeschtens am bescht: populär Lidder an Sänger aus der Jugend vun der Persoun, bekannte Spréch, Feierdeeg, Iessen, Sport an den Alldag, wéi d'Mëllechliwwerung oder de Waastelefon. Vermeit aktuell Noriichten an alles, wat verlaangt, dass een sech un eppes erënnert, wat fréier an der Sëtzung gesot gouf."
+  - q: "Wéi lafen ech Trivia an engem Altersheem, ouni datt een sech schummt?"
+    a: "Lest all Fro der ganzer Grupp vir, weist oder sot d'Äntwertméiglechkeeten, a begréisst Äntwerte vun iwwerall. Ruff keng Eenzel op an hält keng Punktewertung. Sot d'Äntwert mat engem Laachen, egal wat geroden gouf, a stellt eng Nofro wéi „Wie hei war jeemools an engem Drive-in?“, fir et a Geschichten ze verwandelen."
+  - q: "Wat kann ech a spéiderem Stadium amplaz vu Trivia maachen?"
+    a: "Wiesselt op Froen ouni falsch Äntwert, wéi „Kaffi oder Téi?“ oder „Strand oder Bierg?“, an op gemeinsam Spréch oder Lidder fäerdeg ze maachen. Bilder ukucken an zesummen beschreiwen funktionéiert och ganz gutt."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Trivia ass ee vun deene Gruppenaktivitéiten, déi a Pflegeheemer an Doagesprogrammer am meeschten verlaangt ginn, a vill Famillen spillen et och um Kichendësch. Wann et mat Punkten a just enger Persoun, déi äntwert, gespillt gëtt, kann eng Persoun mat Demenz sech schnell ënner Drock fillen. Gespillt op eng sanft Aart, ass et e lieweg Mëttel fir Geschichten ze héieren. Hei si 50 einfach Froen mat Äntwertméiglechkeeten an engem Gesprächsthema pro Fro, a duerno, wéi ee eng Sëtzung gestalt.
 
-## How do you make trivia work for someone with dementia?
+## Wéi maacht Dir Trivia fir eng Persoun mat Demenz gutt?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Et geet ëm dat Erkennen a Erënneren vun Dingen aus fréieren Zäiten, an all Äntwert soll willkomm sinn.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Frot no der weiter Vergaangenheet.** D'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) seet, dass dat heefegst fréi Symptom vun Alzheimer Schwieregkeeten ass, sech neilech geléiert Informatioun ze merken. Lidder, Spréch an den Alldag vun de Joeren, déi hannendrun leien, si dacks einfacher Terrain.
+2. **Bidd ëmmer Äntwertméiglechkeeten un.** Déi richteg Äntwert aus zwou oder dräi ze wielen ass vill méi einfach, wéi se aus dem Näischt ze produzéieren.
+3. **Lies d'Froen laut vir a weis se grouss.** Eng Tafel oder en Tablet, dat ee héich hält, hëlleft Leit, déi schlecht héieren.
+4. **Gitt d'Äntwert frëndlech.** Wann keen d'Äntwert weess, sot se warm a fuert weider. Ni „Komm, dat weess Dir jo“.
+5. **Keng Punkten.** Weder fir Eenzelpersounen nach fir Tëscher. Wann d'Leit eng Zuel wëllen, hält eng gemeinsam Gesamtzuel fir d'Grupp.
+6. **Ruff ni eng Persoun eleng op.** Loosst d'Äntwerte vun iwwerall kommen. Bei engem Eent-zu-Eent-Gespréich äntwert zesummen: „Ech mengen, et ass d'Klavier. Wat mengt Dir?“
+7. **Benotzt de Gesprächsthema.** D'Äntwert ass den Ufank, net den Enn. D'Geschichten sinn dat eigentlecht Zil.
+8. **Hält et kuerz.** Zéng Froen mat Geschichten dertëscht sinn duergaang.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fasst d'Haaptregel einfach zesummen: Oppassen op Frustratioun a suergen, datt d'Persoun sech erfollegräich fillt. D'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nennt Trivia ënner den Aktivitéiten fir den fréien Stadium. Am mëttlere Stadium bleift bei zwou Äntwertméiglechkeeten a stëtzt Iech op d'Gesprächsthemen. Méi spéit wiesselt op d'Dat-oder-dat-Froen weiter ënnen.
 
-## Music and entertainment trivia
+## Musek- a Ënnerhalungs-Trivia
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+D'Äntwort steet a **fetter Schrëft**. Passt dës un d'Persoun un: een, deen mat Motown opgewuess ass, wäert aner Sänger wëllen wéi een, deen mat Big Bands opgewuess ass.
 
-| Question | Choices | Talk about |
+| Fro | Äntwertméiglechkeeten | Doriwwer schwätzen |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Wien gouf de Kinnek vum Rock and Roll genannt? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Hutt Dir Elvis jeemools am Fernseh gesinn? |
+| Wéi Sänger gouf Ol' Blue Eyes genannt? | Dean Martin, **Frank Sinatra**, Perry Como | Wéi Sinatra-Lidd hutt Dir um léifsten? |
+| Bing Crosby dreemt vun engem wäisse... | **Chrëschtdag**, Hochzäit, Haus | Zesummen eng Zeil sangen |
+| Louis Armstrong sang „What a Wonderful...“ | Dag, **World**, Liewen | Wat mécht fir Iech d'Welt wonnerbar? |
+| „Over the Rainbow“ gouf vu Judy Garland a wéi engem Film gesongen? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Wou hutt Dir Är Lieblingsfilmer gesinn? |
+| Wien huet d'Lucy an „I Love Lucy“ gespillt? | **Lucille Ball**, Doris Day, Betty White | Wéi Shows huet Är Famill zesummen gekuckt? |
+| Wéi Cowboy ass op engem Päerd mam Numm Trigger geritt? | **Roy Rogers**, Gene Autry, John Wayne | Hutt Dir als Kand Cowboy gespillt? |
+| Wien huet „The Tonight Show“ 30 Joer moderéiert? | Ed Sullivan, **Johnny Carson**, Bob Hope | Sidd Dir laang wakreg bliwwen, fir Fernseh ze kucken? |
+| Wéi eent Instrument huet 88 Tasten? | Gittarr, **Klavier**, Trompett | Huet jiddereen an Ärer Famill gespillt? |
+| Wéi Danz gëtt mat eent-zwee-dräi, eent-zwee-dräi gezielt? | **Walzer**, Twist, Tango | Wou sidd Dir fréier danzen gaang? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Fir méi iwwer Musek, kuckt [Musekaktivitéiten fir Demenz](/activities/music/).
 
-## Everyday life trivia
+## Alldags-Trivia
 
-| Question | Choices | Talk about |
+| Fro | Äntwertméiglechkeeten | Doriwwer schwätzen |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Virun de Kiühlschrénken hunn vill Haushalter d'Iessen kal gehalen an engem... | **Eisskëscht**, Uewen, Dachbudem | Wien huet d'Äis geliwwert? |
+| Wien huet d'Mëllech a Glasfläschen un d'Dier bruecht? | De Pouster, **de Mëllechmann**, de Zeitungsjong | Wat ass soss nach bis bei d'Haus geliwwert ginn? |
+| Wéi hutt Dir eng Wielscheif-Telefon gewielt? | Mat Knäppercher drécken, **mat engem Rad dréinen**, mat him schwätzen | Erzielt mir vum Telefon an Ärem Haus |
+| Wéi eng Firma huet d'Model T gebaut? | **Ford**, Chevrolet, Buick | Erzielt mir vun engem Auto, dat Dir gär hat |
+| Wou fënnt een en Soda-Jerk? | **Um Soda-Fountain**, an enger Bäckerei, an enger Bank | Wat hutt Dir um Comptoir bestallt? |
+| Wéi Spillsaach ass eng Metallfeder, déi d'Trap erofgeet? | Yo-Yo, **Slinky**, Hula-Hoop | Wéi Spillsaachen hutt Dir gär gehat? |
+| En Drive-in war en Ort, fir ze kucken... | **Filmer aus dem Auto eraus**, Ballspiller, Paraden | Mat wiem sidd Dir hin? |
+| Wiems Gesiicht ass op der Eendollar-Note? | Lincoln, **George Washington**, Jefferson | Wat konnt een domols fir en Dollar kafen? |
+| Wiems Gesiicht ass op der Cent-Mënz? | **Abraham Lincoln**, Washington, Franklin | Hutt Dir domols Cent an enger Dous gespuert? |
+| Wéi Faarf huet e Schoulbus normalerweis? | Rout, **giel**, blo | Wéi sidd Dir an d'Schoul komm? |
 
-## Holidays, nature and places
+## Feierdeeg, Natur a Plazen
 
-| Question | Choices | Talk about |
+| Fro | Äntwertméiglechkeeten | Doriwwer schwätzen |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Op wéi engem Feierdag ass den véierten Donneschdeg am November? | Labor Day, **Thanksgiving**, Memorial Day | Wat war bei Iech ëmmer um Dësch? |
+| Kürbislaternen ginn fir wéi Feierdag gemaach? | **Halloween**, Ouschteren, Chrëschtdag | Erzielt mir vu Halloween, wéi Dir opgewuess sidd |
+| Den Véierte Juli feiert d'Ënnerschreiwe vun der... | Rechter, **Onofhängegkeet**, Fräiheet | Wou hutt Dir d'Feierwierker gekuckt? |
+| An deem Mount ass Muttertag? | Abrëll, **Mee**, Juni | Wéi huet Är Famill gefeiert? |
+| Wéi vill Stären sinn op der amerikanescher Fändel? | 48, **50**, 52 | D'Fändel hat 48 Stären, bis 1959. Béid Äntwerte si eng gutt Erënnerung |
+| Wéi Ozean ass un der Ostküst? | Pazifik, **Atlantik**, Arktis | Sidd Dir jeemools um Strand gewiescht? |
+| An wéi enger Stad steet d'Freiheetsstatu? | Boston, **New York**, Philadelphia | Sidd Dir schonn zu New York gewiescht? |
+| Wat maachen d'Bieren? | Mëllech, **Hunneg**, Seid | Hunneg op Toast oder am Téi? |
+| E Kallef gëtt e... genannt. | Fuel, **Kallef**, Zidd | Hutt Dir jeemools no bei engem Bauerenhaff gelieft? |
+| Wéi giel Blumm, déi grouss ass, ass berühmt, well se sech no der Sonn dréint? | Rous, **Sonneblumm**, Tulp | Wat ass an Ärem Gaart gewuess? |
+| Wéi vill Deeg sinn an engem Schaltjoer? | 365, **366**, 360 | Erzielt mir vun engem Gebuertsdag, deen Dir a Erënnerung hutt |
+| Wéi Joreszäit kënnt nom Wanter? | Hierscht, **Fréijoer**, Summer | Wat ass Är Lieblings-Joreszäit? |
 
-## Food and sports trivia
+## Iessen- a Sport-Trivia
 
-| Question | Choices | Talk about |
+| Fro | Äntwertméiglechkeeten | Doriwwer schwätzen |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rosinen sinn getrocknet... | Planzen, **Drauwen**, Kiischen | Hutt Dir Rosinen an d'Schoulbrout gepackt? |
+| Dréchent Prünen sinn... | **Planzen**, Feigen, Äppel | Wien an Ärer Famill huet Prünen gär gehat? |
+| Erdnossbuttek an... | **Gelee**, Kéis, Schinken | Knackeg oder glat? |
+| Guacamole gëtt haaptsächlech aus... gemaach. | Äerbsen, **Avocadoen**, Gurken | Wéi Dips sinn op Fester op de Dësch komm? |
+| Wéi Kuch ass en Thanksgiving-Liiblingskuch? | **Kürbis**, Zitroun, Kiischen | Wéi Kuch hutt Dir gebak? |
+| Wéi vill Spiller sinn op engem Baseball-Terrain an enger Equipe? | 7, **9**, 11 | Fir wéi eng Equipe hutt Dir gefiiert? |
+| Wéi vill Strikes ginn e Out am Baseball? | Zwee, **dräi**, véier | Hutt Dir jeemools Ball gespillt? |
+| Fir wéi Sport war de Babe Ruth berühmt? | Boxen, **Baseball**, Golf | Sidd Dir op Ballspiller gaang? |
+| Wéi vill Lächer sinn op engem Standard-Golfplaz? | 9, **18**, 24 | Hutt Dir jeemools Golf oder Minigolf gespillt? |
+| Bei wéi engem Sport gëtt ee en Touchdown? | **Football**, Hockey, Basketball | Wien huet bei Iech doheem Football gekuckt? |
 
-## Familiar sayings
+## Bekannt Spréch
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Ee Spréch fäerdeg ze maachen grëtt op Sprooch zréck, déi een laang fréier geléiert huet, a fält dacks liicht. Eisen Spill [Spréch fäerdeg maachen](/games/finish-the-saying/) huet vill méi, mat engem Tipp, fir all Schluss ze weisen.
 
-| Saying | Choices | Talk about |
+| Spréch | Äntwertméiglechkeeten | Doriwwer schwätzen |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Een Apel den Dag hält de... ewech | **Dokter**, Reen, Katz | Wien huet Iech dat fréier ëmmer gesot? |
+| Den fréie Vugel fänkt de... | Bus, **Wuerm**, Zuch | Sidd Dir e Mënsch vum Muergen? |
+| Zielt Är Hënner net, ier se... | **ausbréiten**, schlofen, sangen | Huet Är Famill Hënner gehalen? |
+| E gespuerten Cent ass e... Cent | **verdéngten**, verluerene, ausgeginne | Wien war de Spuerer an Ärer Famill? |
+| Doheem ass, wou d'... ass | Gaart ass, **Häerz ass**, Kich ass | Wat mécht, datt en Ënnerkunft sech wéi Doheem fillt? |
+| Besser spéit wéi... | Fréi, **ni**, Entschëllegung | Wien war ëmmer ze spéit? |
+| All Wollek huet e Silverrand... | **Rand**, Léiffel, Mënz | Erzielt mir vun engem Gléck, dat Dir hat |
+| Taten schwätzen méi haart wéi... | **Wieder**, Musek, Donner | Erzielt mir vun engem, deen dat gesot huet |
 
-## This-or-that questions with no wrong answer
+## Dat-oder-dat-Froen ouni falsch Äntwert
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Dës passen zu all Stadium, och spéider, well et näischt richteg ze maachen gëtt. Frot, lauschtert a sot och Är eege Äntwert.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kaffi oder Téi?
+- Strand oder Bierg?
+- Hënn oder Kazen?
+- Summer oder Wanter?
+- Kuch oder Taart?
+- Danzen oder Kucken?
+- Sonnenopgang oder Sonnenënnergang?
+- Veranda vir oder Gaart hanne dem Haus?
+- Radio oder Schallplatten?
+- Pannekuch oder Eeër?
+- Rousen oder Margeriten?
+- Zuchsfahrt oder Autosfahrt?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Fir Gesprächsimpulser mat Bildern probéiert eis druckbar [Gesprächskarten](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Wéi lafe ech eng Trivia-Sëtzung an engem Heem oder enger Grupp?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Setzt d'Leit so, datt se gesinn an héieren. Hörgerät an, Brëller op, de Fernseh aus.**
+2. **Féiert et als Gespréich an.** „Ech hu just e puer Froen iwwer déi al Zäiten, an ech wetten, Dir wësst méi wéi ech.“
+3. **Liest all Fro zweemol a weist d'Äntwertméiglechkeeten grouss.**
+4. **Begréisst Äntwerte vun iwwerall am Raum.** Wiederholt gutt Äntwerte, datt jiddereen se héiert.
+5. **Sot d'Äntwert fir jiddereen,** an da stellt de Gesprächsthema dem ganze Raum.
+6. **Follegt der Energie no.** Wann eng Fro zéng Minutte Geschichten ausléist, loosst et sou.
+7. **Schléisst mat engem Lidd oder enger Dat-oder-dat-Ronn of,** sou datt jiddereen mat eppes Einfachem ophält.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Fir aner Gruppenformen, dorënner Bildbingo a Matsingen, kuckt [Gruppenaktivitéiten fir Altersheemer](/activities/care-home-groups/).
 
-## When to change the plan
+## Wann een den Plang änneren soll
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Wann eng Persoun besuergt ausgesäit, roueg gëtt oder méi wéi eemol „Ech weess net“ seet, maacht et méi einfach: reduzéiert op zwou Äntwertméiglechkeeten, äntwert zesummen oder wiesselt op Dat-oder-dat-Froen. Wann d'Grupp léiwer de ganzen Nomëtteg iwwer eng Fro schwätzt, ass dat en Erfolleg. Et ging ni ëm déi richteg Äntwerte. Et ging ëm Zäit an gudder Gesellschaft.

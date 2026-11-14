@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Нигоҳубини худ барои парваришгар: истироҳат, дастгирӣ ва нишонаҳои хастагии шадид"
+seoTitle: "Нигоҳубини худ барои парваришгари деменсия: истироҳат ва дастгирӣ"
+description: "Нишонаҳои хастагии парваришгар, ёфтани истироҳат ва гурӯҳи дастгирӣ ва хатҳои кӯмаки ройгони ИМА, аз ҷумла Хати 24/7-и Ассотсиатсияи Алтсгеймер."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Нигоҳубини шахси гирифтори деменсия кори сахт аст ва ғамхорӣ ба худ як
+  қисми ин кор мебошад. Ба нишонаҳои огоҳкунанда, ба монанди беҳолӣ, асабоният,
+  хоби бад ва дур шудан аз дӯстон, диққат диҳед. Кӯмаки мушаххас пурсед, аз
+  нигоҳубини муваққатӣ истифода баред ва ба гурӯҳи дастгирӣ ҳамроҳ шавед. Кӯмаки
+  ройгон дар ИМА аз ҷумла Хати 24/7-и Ассотсиатсияи Алтсгеймер бо рақами
+  1-800-272-3900 ва Eldercare Locator бо рақами 1-800-677-1116 мебошад.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Хастагии шадид аксар вақт бо беҳолӣ, асабоният, хоби бад, ғамгинӣ ва беэътиноӣ ба саломатии худ зоҳир мешавад."
+  - "Нигоҳубини муваққатӣ ба шумо истироҳат медиҳад, аз чанд соат то чанд ҳафта, дар хона ё дар муассиса."
+  - "Барои корҳои мушаххас кӯмак пурсед; бисёр одамон мехоҳанд кӯмак кунанд, аммо намедонанд чӣ тавр."
+  - "Хати 24/7-и Ассотсиатсияи Алтсгеймер (1-800-272-3900) дар ҳар вақт дастгирии ройгон ва махфӣ пешниҳод мекунад."
+  - "Eldercare Locator (1-800-677-1116) шуморо бо хидматҳои маҳаллӣ, аз ҷумла Раёсати маҳаллии пиронсолон, пайваст мекунад."
+  - "Агар худро дар бӯҳрон ҳис кунед, ба 988 занг занед ё паём фиристед. Дар ҳолати фавқуллода ба рақами ёрии таъҷилии маҳаллии худ занг занед."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Нишонаҳои хастагии шадиди парваришгар кадомҳоянд?"
+    a: "Нишонаҳои маъмул инҳоянд: беҳолӣ, аз ҳад зиёд бор шудан ё изтироб, зуд хашмгин ё бетоқат шудан, душвории хоб, ғамгинӣ ё ноумедӣ, аз дӯстон дур шудан, дарди сар ё дарди дигар, ва аз хӯрок, машқ ё муоинаи тиббии худ даст кашидан. Агар чунин нишонаҳо мунтазам рух диҳанд, бо духтури худ сӯҳбат кунед."
+  - q: "Нигоҳубини муваққатиро дар назди худ чӣ тавр ёфтан мумкин аст?"
+    a: "Аз Eldercare Locator (1-800-677-1116 ё eldercare.acl.gov) оғоз кунед, то ба Раёсати маҳаллии пиронсолон бирасед; инчунин ба Хидмати миллии ҷустуҷӯи нигоҳубини муваққатии ARCH ё Хати Ассотсиатсияи Алтсгеймер (1-800-272-3900) муроҷиат кунед. Оила, дӯстон ва ихтиёриён низ метавонанд ин кӯмакро расонанд."
+  - q: "Оё Medicare нигоҳубини муваққатиро пардохт мекунад?"
+    a: "Тибқи маълумоти Институти миллии пиронсолӣ, барои шахсе, ки нигоҳубини паллиативии охирин мегирад, Medicare қисми зиёди хароҷоти нигоҳубини муваққатиро то панҷ рӯзи пай дар пай дар беморхона ё муассисаи нигоҳубини ҳамшираи моҳир пардохт мекунад. Аксар суғуртаи хусусии тиббӣ нигоҳубини муваққатиро фаро намегирад; Medicaid ва баъзе нақшаҳои суғуртаи нигоҳубини дарозмуддат метавонанд кӯмак расонанд."
+  - q: "Оё Хати Ассотсиатсияи Алтсгеймер воқеан ройгон аст ва шабона кор мекунад?"
+    a: "Бале. Ассотсиатсияи Алтсгеймер мегӯяд, ки Хати он (1-800-272-3900) ройгон ва махфӣ аст, шабонарӯзӣ дар тамоми 365 рӯзи сол кор мекунад ва ба бисёр забонҳо кӯмак мерасонад. Барои хидмати реле 711-ро занг занед."
+  - q: "Оё истироҳат аз нигоҳубин худписандӣ аст?"
+    a: "Не. Истироҳат ба шумо кӯмак мекунад, ки нигоҳубинро давом диҳед, ва нигоҳубини муваққатӣ ба шахси парваришшаванда низ ҳамсӯҳбат ва машғулияти нав медиҳад. Бисёр парваришгарон баъдтар мегӯянд, ки кош зудтар кӯмак мепурсиданд."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Агар шумо аз шахси гирифтори деменсия нигоҳубин мекунед, эҳтимол ин матнро дер, хаста ва бо рӯйхати корҳои ҳанӯз накарда мехонед. Ин табиист. Ғамхорӣ ба худ айшу ишрат ё мукофот барои анҷом додани ҳама кор нест. Ин чизест, ки ба шумо имкон медиҳад давом диҳед.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ин саҳифа дар бораи нишонаҳои огоҳкунандаи хастагии шадид, ёфтани истироҳати воқеӣ, ҷойҳои дастгирӣ ва хатҳои кӯмаки ройгони ИМА, ки имрӯз метавонед занг занед, маълумот медиҳад.
 
-## What are the signs of caregiver burnout?
+## Нишонаҳои хастагии шадиди парваришгар кадомҳоянд?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Хастагии шадид аксар вақт оҳиста-оҳиста меояд, бинобар ин донистани нишонаҳои огоҳкунандаи худатон муфид аст. [Институти миллии пиронсолӣ (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) нишонаҳои фишори парваришгарро номбар мекунад, аз ҷумла:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- хастагӣ, аз ҳад зиёд бор шудан ё изтироб;
+- зуд хашмгин ё бетоқат шудан;
+- эҳсоси танҳоӣ ё ҷудоӣ аз дигарон;
+- душвории хоб ё хоби нокифоя;
+- ғамгинӣ ё ноумедӣ, ё аз даст додани завқ аз чизҳое, ки пештар ба шумо маъқул буданд;
+- дарди сар, дард ё мушкилоти дигари ҷисмонӣ, ки зуд-зуд рух медиҳанд;
+- вақт наёфтан барои машқ ё тайёр кардани хӯроки солим барои худ;
+- нашустани худ ё нодида гирифтани нигоҳубини дигари шахсӣ;
+- нодуруст истифода бурдани спирт ё доруҳо, аз ҷумла доруҳои бо дорунома.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) нишонаҳои дигареро илова мекунад: инкори беморӣ, хашм ба шахс («у танҳо якравӣ мекунад»), изтироб дар бораи оянда, душвории тамаркуз ва таъсири мушкилоти саломатӣ. Он тавсия медиҳад, ки агар чунин нишонаҳо мунтазам рух диҳанд, бо духтури худ сӯҳбат кунед.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Маслиҳати NIA ин аст, ки интизор нашавед, то комилан аз ҳад зиёд бор шавед. Нишонаҳои худро барвақт пайхас кунед ва мувофиқи он амал намоед.
 
-## What can I do today, in five minutes?
+## Имрӯз дар панҷ дақиқа чӣ кор карда метавонам?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Танаффусҳои хурд ҳам арзишманданд. Ҳеҷ кадоми инҳо хастагии шадидро ҳал намекунад, аммо метавонанд ба шумо кӯмак кунанд, ки як нимрӯзи душворро паси сар намоед.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Ба берун баромадан.** Дар назди дар бинишинед ё то қуттии почта қадам занед, дар ҳоле ки шахс дар амният ва ором аст.
+- **Оҳиста нафас кашидан.** Пеш аз посух додан ба саволи душвор чанд нафаси оҳиста кашед. Шумо метавонед бо шахси парваришшаванда як танаффуси [Нафаскашии ором](/games/calm-breathing/) низ дошта бошед.
+- **Об нӯшидан ва чизе хӯрдан.** Фаромӯш кардани хӯроки худ осон аст.
+- **Ба як дӯст паём навиштан.** На барои чизе хостан, танҳо барои ҳамроҳ шудан.
+- **Ба худ суханони меҳрубон гуфтан.** [Роҳнамои NIA оид ба ғамхорӣ ба худ](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ибораҳоеро пешниҳод мекунад, ба монанди «Ман аз дастам меояд, мекунам», «Ман комил нестам ва ин айб нест» ва «Ман аз лаҳзаҳое, ки мо дар оромӣ якҷоя мешавем, лаззат мебарам».
 
-## What is respite care, and how do I get it?
+## Нигоҳубини муваққатӣ чист ва чӣ тавр онро ба даст орам?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Нигоҳубини муваққатӣ нигоҳубини кӯтоҳмуддат барои шахсест, ки шумо парвариш мекунед, то шумо истироҳат кунед. [Саҳифаи NIA оид ба нигоҳубини муваққатӣ](https://www.nia.nih.gov/health/caregiving/what-respite-care) шарҳ медиҳад, ки он метавонад аз чанд соат то чанд ҳафта давом кунад ва дар хона, дар муассисаи тиббӣ ё дар маркази рӯзонаи пиронсолон ташкил шавад.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/care-options/respite-care) намудҳои маъмулро тавсиф мекунад:
 
-| Type | What it is |
+| Намуд | Он чист |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Кӯмак дар хона | Дӯст, хешованд, ихтиёрӣ ё ҳамроҳ ё ёрдамчии музднок ба хона меояд |
+| Маркази рӯзонаи пиронсолон | Машғулиятҳои банақшагирифта, ба монанди мусиқӣ ва ҳунар, дар муҳити гурӯҳии бехатар; нақлиёт ва хӯрок аксар вақт дода мешавад |
+| Шабонарӯзӣ ё иқомати кӯтоҳ | Ҷамъияти нигоҳубини дарозмуддат аз шахс як шаб, чанд рӯз ё чанд ҳафта нигоҳубин мекунад |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Кӣ пардохт мекунад?** Мувофиқи маълумоти NIA, кӯмаки оила, дӯстон ё ихтиёриён метавонад ройгон бошад. Хидматҳои касбӣ барои соат ё рӯз пул мегиранд. Барои шахсе, ки нигоҳубини паллиативии охирин мегирад, Medicare қисми зиёди хароҷоти нигоҳубини муваққатиро то панҷ рӯзи пай дар пай дар беморхона ё муассисаи нигоҳубини ҳамшираи моҳир пардохт мекунад. Medicaid метавонад кӯмак расонад. Аксар суғуртаи хусусии тиббӣ нигоҳубини муваққатиро фаро намегирад, гарчанде баъзе нақшаҳои суғуртаи нигоҳубини дарозмуддат онро фаро мегиранд.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Маслиҳат:** Ассотсиатсияи Алтсгеймер пешниҳод мекунад, ки хизматрасонони нигоҳубини муваққатиро дар вазъияти ғайрифавқуллода санҷед, то агар ногаҳон кӯмак лозим шавад, онҳо омода бошанд.
 
-## Where can I find help near me?
+## Кӯмакро дар назди худ аз куҷо ёбам?
 
-Several free US services can point you to local help.
+Якчанд хидмати ройгони ИМА метавонанд шуморо ба кӯмаки маҳаллӣ равона кунанд.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Хати 24/7-и Ассотсиатсияи Алтсгеймер: 1-800-272-3900.** [Хат](https://www.alz.org/help-support/resources/helpline) ройгон ва махфӣ аст, шабонарӯзӣ дар тамоми рӯзҳои сол кор мекунад ва тавассути кормандони дузабона ё тарҷумонҳо ба зиёда аз 200 забон кӯмак мерасонад. Барои хидмати реле 711-ро занг занед. Шумо метавонед дар бораи тағйирёбии рафтор, фишори парваришгар, имкониятҳои нигоҳубини муваққатӣ, барномаҳои маҳаллӣ ва ғайра сӯҳбат кунед ва сӯҳбати дарозтарро бо мушовири нигоҳубин дархост намоед. Кормандон маслиҳати тиббӣ намедиҳанд.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), хидмати давлатии Идораи ҷамъиятии зиндагӣ, шуморо бо хидматҳо барои пиронсолон ва оилаҳояшон пайваст мекунад. Шумо метавонед ба кормандони омӯзонидашуда занг занед, паём фиристед, онлайн сӯҳбат кунед ё мактуб нависед, ё аз рӯи ҷойгиршавӣ ҷустуҷӯ намоед. Он метавонад шуморо ба Раёсати маҳаллии пиронсолон равона кунад.
+- **Хидмати миллии ҷустуҷӯи нигоҳубини муваққатии ARCH.** [Ҷустуҷӯгари нигоҳубини муваққатии ARCH](https://archrespite.org/caregiver-resources/respitelocator/) ба шумо кӯмак мекунад, ки хизматрасонони нигоҳубини муваққатиро аз рӯи иёлот ёбед ва пешниҳод мекунад, ки агар иёлоти шумо Эътилофи иёлотии нигоҳубини муваққатӣ ё барномаи нигоҳубини муваққатии тамоми умр дошта бошад, аввал бо он тамос гиред. ARCH қайд мекунад, ки хизматрасононро санҷида намебарояд, бинобар ин таҷриба ва собиқаи онҳоро худатон бубинед.
 
-## How do I find a support group?
+## Гурӯҳи дастгириро чӣ тавр ёбам?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Аз Хат бипурсед ё дар интернет гурӯҳҳои назди худро ҷустуҷӯ кунед. Ассотсиатсияи Алтсгеймер барои парваришгарон ва шахсони гирифтори деменсия [гурӯҳҳои дастгирӣ мегузаронад](https://www.alz.org/help-support/community/support-groups), ҳам ҳузурӣ ва ҳам онлайн, бо роҳбарии мураттибони омӯзонидашуда. Дар бисёр ҷойҳо гурӯҳҳои махсус низ ҳастанд, масалан барои парваришгарони калонсол ё барои шахсоне, ки бо Алтсгеймери синну соли ҷавон ё марҳилаи аввал зиндагӣ мекунанд. Он инчунин ALZConnected, ҷамъияти ройгони онлайнро, ки дар он парваришгарон маслиҳат мубодила мекунанд, баргузор мекунад.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Гурӯҳҳои дастгирӣ метавонанд ҷое бошанд, ки дар он бе доварӣ дарди дил гӯед, маслиҳатҳои амалӣ аз касоне, ки худашон ин роҳро тай кардаанд, гиред ва худро камтар танҳо ҳис кунед. Агар гурӯҳи аввал мувофиқ набошад, гурӯҳи дигарро санҷед.
 
-## How do I ask family and friends for help?
+## Аз оила ва дӯстон чӣ тавр кӯмак пурсам?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Мушаххас бошед. Бисёр одамон мехоҳанд кӯмак кунанд, аммо намедонанд чӣ пешниҳод кунанд. NIA тавсия медиҳад:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Рӯйхат нигоҳ доред** аз корҳое, ки дигарон метавонанд ба зимма гиранд, ва ба одамон имкон диҳед интихоб кунанд.
+- **Аз чизи хурд оғоз кунед**, агар пурсидан душвор бошад.
+- **Корро ба шахс мувофиқ кунед.** Ҷияне, ки пухтанро дӯст медорад, рӯзҳои панҷшанбе шом меорад. Ҳамсояе, ки бо ҳуҷҷатҳо хуб кор мекунад, дар корҳои коғазӣ кӯмак мекунад.
+- **Паём ё мактуб нависед**, агар рӯ ба рӯ пурсидан нороҳат бошад.
+- **Посухро аз пеш тайёр кунед** барои вақте ки касе кӯмак пешниҳод мекунад: «Ташаккур, ки пурсидед. Инак, шумо чӣ кор карда метавонед.»
+- **Интизор шавед, ки баъзеҳо розӣ намешаванд** ва кӯшиш кунед, ки онро ба дил нагиред.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ғояҳои дигар: аз касе хоҳиш кунед, ки як нимрӯз дар ҳафта бо шахс бинишинад, ӯро ба сайри кӯтоҳ барад ё ба меҳмонӣ омада якҷоя бозӣ кунад. [Роҳнамои мо оид ба якҷоя бозӣ кардан](/caregiving/how-to-play-together/) барои додан ба меҳмонон қулай аст.
 
-## What if something happened to me?
+## Агар ба ман чизе рӯй диҳад, чӣ мешавад?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Ҳоло як нақшаи эҳтиётии оддӣ созед. NIA тавсия медиҳад, ки бо оила ё дӯстони наздик қарор диҳед, ки кӣ ҷойи шуморо мегирад, ва дафтарчае нигоҳ доред, ки дар он рақамҳои таъҷилӣ, доруҳо, маслиҳатҳои рафтори муфид ва машғулиятҳои дӯстдошта навишта шудаанд. Ассотсиатсияи Алтсгеймер низ тавсия медиҳад, ки тамосҳои тиббии шахс ва рӯйхати нави доруҳо дар ҷои дастрас бошанд.
 
-## When should I get professional or urgent help?
+## Кай бояд кӯмаки касбӣ ё таъҷилӣ гирам?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Агар нишонаҳои фишор мунтазам рух диҳанд, агар худро афсурда ҳис кунед ё аз паси мушкилот набароед, бо духтури худ сӯҳбат кунед. Ба духтур бигӯед, ки шумо парваришгар ҳастед. NIA қайд мекунад, ки мушовирон ва кормандони иҷтимоӣ метавонанд дар эҳсосоти душвор ва банақшагирӣ кӯмак кунанд ва Medicare, Medicaid ва баъзе суғуртаҳои хусусӣ метавонанд як қисми хароҷоти солимии равониро фаро гиранд.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Агар худро дар бӯҳрон ҳис кунед ё фикрҳои зарар расонидан ба худ дошта бошед, барои расидан ба [Хати 988-и Суғурӣ ва Бӯҳрон](https://988lifeline.org/) ба 988 занг занед ё паём фиристед; он ройгон аст ва шабонарӯзӣ кор мекунад. Агар касе дар хатари фаврӣ бошад, ба рақами ёрии таъҷилии маҳаллии худ занг занед.
 
-## Can shared activities give me a break too?
+## Оё машғулиятҳои муштарак ба ман низ истироҳат дода метавонанд?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Баъзан. Машғулияти оромие, ки ҳар ду аз он лаззат мебаред, метавонад қисми мулоимтари рӯз ҳам барои шумо ва ҳам барои шахси парваришшаванда бошад: гӯш кардани сурудҳои кӯҳна, дидани акс ё бозие ба монанди [Кортҳои сӯҳбат](/games/conversation-cards/), ки посухи дуруст талаб намекунад. Агар шахс аз ҳамроҳӣ лаззат барад, машғулияти гурӯҳӣ бо [Бинголи тасвирӣ](/games/picture-bingo/) дар маркази пиронсолон ё барномаи рӯзонаи калонсолон метавонад ба шумо як соат истироҳат диҳад. Барои ғояҳо [машғулиятҳо барои гурӯҳҳои хонаи нигоҳубин](/activities/care-home-groups/)-ро бинед.

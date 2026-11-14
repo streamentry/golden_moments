@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Cum homo cum dementia recusat aut de actione frustratur"
+seoTitle: "Cum homo cum dementia actionem recusat"
+description: "Cur homo dementia vivens actionem recuset aut de ea commoveatur, quid potius temptandum, quid vitandum, et quando mutatio repentina medicum requirat."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Cum homo cum dementia negat, placide accipe et postea iterum tempta aut aliud
+  offer. Recusatio saepe causam habet: res nimis difficilis aut puerilis videtur,
+  lassus est, dolet, esurit, aut strepitu obruitur. Noli disputare aut instare.
+  Simplifica, duas electiones offer, aut eius auxilium pete. Mutatio subita aut
+  celeriter mutans, praesertim post infectionem aut medicamentum novum, medicum
+  statim requirit.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "“Non” responsum est quod reveri debes, non problema superandum."
+  - "Recusatio plerumque causam habet: nimis difficile, nimis puerile, lassitudo, malum valetudinis, incommodum aut obruta."
+  - "Recede, expecta et postea tempta, alio tempore aut simpliciore forma."
+  - "Auxilium eius rogare melius succedit quam eum ut actorem poscere."
+  - "Numquam disputa, insta, interroga aut corrige. Te ipsum vide num festines aut urgeas."
+  - "Mutatio subita aut celeriter mutans, praesertim cum infectione aut medicamentis novis, statim ad medicum deferatur."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Estne bene si omnino actiones omittere sinit?"
+    a: "Ita, quolibet die. Simul sedere, musicam audire aut mundum praetereuntem spectare sufficere potest. Si aliquis per hebdomades omnia desinit amare, medico eius indica, quia tristitia, dolor aut aliae valetudinis res partem habere possunt."
+  - q: "Cur ea recusant quae olim amabant?"
+    a: "Veterum studium frustrans fieri potest cum nunc facultates requirit quas dementia difficiliores fecit, et persona pudorem sentire potest. Simpliciorem partem eiusdem actionis tempta, ut globulos digerere pro suendo, aut imagines hortorum spectare pro serendo."
+  - q: "Debeone eos persuadere?"
+    a: "Non. Instare ut quid faciant quod dementia difficile fecit notum est ut inquietudinem excitet. Negationem accipe, de re alia loquere, et postea iterum aut alio modo offer."
+  - q: "Quando mutatio morum est necessitas?"
+    a: "Si quis in periculo est aut signa emergentiae medicae habet, numerum localem emergentiae voca. In confusione subita aut mutatione celeri intra horas aut dies, praesertim cum febri, infectione aut medicamento novo, medicum eius statim adi."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Omnia parasti, ludum aut ambulationem offers, et audis “Non.” Aut actio bene incipit et cum tabella repulsa et voce acri finitur. Desperandum est, et valde communis est. Recusatio et frustratio plerumque nuntius sunt, non pertinacia. Si invenis quid nuntius significet, saepe ostendit quid deinde temptandum sit.
 
-## Why does someone with dementia refuse activities?
+## Cur homo cum dementia actiones recusat?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Plerumque causa est, etiam si persona eam verbis exprimere non potest. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notat resistentiam significare posse personam munus facere non posse aut timere ut temptet. Causae communes sunt:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Nimis difficile videtur.** Actio nunc facultates requirit quas dementia difficiles fecit, et coram aliquo deficere pudorem affert.
+- **Puerile videtur.** Adulti imagines cartoonicas, voces cantillantes et actiones quae liberis factae videntur animadvertunt.
+- **Lassitudo.** Multi homines sero diei minus vigoris habent. Vide [actiones placidas sub vesperam](/caregiving/late-day-restlessness/).
+- **Incommodum corporis.** [Institutum Nationale de Senectute (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dolorem, defectum somni, difficultatem videndi aut audiendi, obstipationem, famem, sitim et effectus collaterales novorum medicamentorum inter causas angoris possibiles enumerat.
+- **Nimis fit.** Televisio clamosa, plures colloquia aut cubiculum plenum obruere possunt.
+- **Premi sentitur.** NIA enumerat ut causam agitationis eum ad aliquid cogi quod Alzheimer valde difficile fecit, aut ad recordanda gesta aut homines.
+- **Animus deprimitur.** Amissio studii in rebus signum depressionis esse potest, quod cum medico referendum est.
+- **Simpliciter nolunt.** Adulti licet dicere non.
 
-## What should I try when they say no?
+## Quid temptem cum dicunt “non”?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Responsum placide accipe, deinde aliquid muta: tempus, actionem, difficultatem aut modum rogandi.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Nunc dimitte.** “Bene est. Fortasse postea.” Deinde ad aliud sine suspiro transi.
+2. **Postea iterum tempta.** Alzheimer's Association suadet ut postea aut alio tempore diei iterum temptetur.
+3. **Minorem fac.** Unum par pro toto ludo. Unum linteum pro tota canistra lintearum. Pauciores imagines, pauciores optiones, imagines visibiles relictae.
+4. **Duas optiones offer.** “Imagines avium spectare vis an musicam audire?” Electio potestatis sensum reddit.
+5. **Auxilium pete pro actione.** “Potesne mihi haec digerere?” aut “Quis color optimus videtur?” Indigere sentire longe differt a probari.
+6. **Tu incipe.** Actionem iuxta eos incipe, sine rogare. Multi se adiungunt, cum iam aliquid agitur; et si non se adiungunt, tempus tamen simul consumptum est.
+7. **Ad aliquid corporeum aut lenitivum transi.** Brevis ambulatio, musica, cibus parvus, lintea plicare, aut momentum [respirationis placidae](/games/calm-breathing/) simul. NIA suadet ut attentio ad musicam, librum aut ambulationem convertatur.
+8. **Sine eos suo modo facere.** Si aliter ludere volunt quam regulae dicunt, accede. Alzheimer's Association flexibilitatem suadet.
 
-## What should I say when they get frustrated?
+## Quid dicam cum frustrantur?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Lentius procede, vocem demitte et consolare. [Alzheimer's Association de agitatione](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suadet ut recedas et licentiam petas, dicta placida et positiva utaris, et electionem inter duas optiones dirigendam offeras. Verba huius animi:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “Doleo, haec res molesta est. Desinamus.”
+- “Bene facis. Hic sum.”
+- “Habesne tempus mihi in alia re auxiliari?”
+- “Num potius theam bibemus?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Deinde actionem finias, sine id magnum faciens. Nostri [consilia communicationis](/caregiving/communication-tips/) plura de verbis dicendis habent.
 
-## What should I avoid?
+## Quid vitem?
 
-Some natural reactions tend to make things worse.
+Quaedam reactiones naturales res deteriores facere solent.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Disputare aut instare.** “Age, unum adhuc” aut “Hoc amas” raro iuvat.
+- **Interrogare aut corrigere.** “Scis quid hoc sit” aut “Non, illud falsum est” pressionem addit.
+- **Personaliter accipere.** NIA monet curatores morbum, non personam, has mutationes efficere.
+- **Premere aut festinare.** Alzheimer's Association suadet ne vocem attollas, ne terrorem ostendas, ne in angulum premas, ne coarctes, ne coerceas, ne reprehendas, ne neglegas aut cum persona disputes, et ne motus repentinos extra eius conspectum facias.
+- **Culpam movere.** “Totum hoc tibi paravi” utrumque peius sentire facit.
+- **Nomen imponere.** “Pertinax” aut “difficilis” veram causam celat et solutionem difficiliorem facit.
 
-## How can I find out what is behind repeated refusals?
+## Quomodo inveniam quid recusationes iteratas subsit?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Breve notam per unam aut duas hebdomades tene. NIA dicit mutationum morum observationem curatoribus et medicis prodesse ad cognoscendum ordinem et causam inveniendam.
 
-Jot down:
+Nota:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- tempus diei;
+- quid obtuleris et quomodo rogaveris;
+- quid circum te fiebat (strepitus, visitatores, televisio);
+- quomodo dormierint, comederint et biberint, et quando ultimo ad lavacrum ierint;
+- medicamenta nova aut morbum recentem.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Ordines saepe cito apparent: recusationes tantum post horam 4 post meridiem, tantum cum certo ludo, aut tantum cum televisio accensa est. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suam curam de moribus dementiae simpliciter dicit: personam mutare non possumus, sed nostros mores et ambitum mutare possumus.
 
-## When should I talk to a doctor about refusal or frustration?
+## Quando de recusatione aut frustratione cum medico loqui debeo?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Cum medico loquere cum mos subito, celeriter aut cum signis morbi mutatur. NIA dicit mutationes subitas aut celeriter fluctuantes, praesertim si persona infectionem aut recentes mutationes medicamentorum habuit, statim ad medici notitiam perferendas esse.
 
-Contact their doctor promptly if you notice:
+Medicum eius statim adi si haec animadvertis:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- confusionem subitam aut magnam mutationem intra horas aut dies;
+- signa doloris, ut contractionem faciei, partem corporis protegere aut difficultatem movendi novam;
+- febrem aut alia signa infectionis;
+- medicamenta nova aut mutata et deinde mutationem morum;
+- amissionem studii in paene omnibus, lacrimas aut secessum durantes plus quam duas hebdomades;
+- cibum aut potionem recusare.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association diligentem inspectionem medicam cuivis cum symptomatibus morum commendat, praesertim cum subito apparent. Family Caregiver Alliance etiam suadet ut prius cum medico consulatur, quia problemata morum causam medicam habere possunt. Nullum medicamentum sine consilio medici aut pharmacopolae incipias, desinas aut mutes.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Si quis in periculo est aut signa emergentiae medicae adsunt, numerum localem emergentiae voca. NIA suadet ut ei qui respondet dicas personam dementia laborare. Pro gradibus statim tutelae cum ira in violentiam vertit, vide nostrum [ducem de ira et violentia in dementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Estne bene si nihil omnino facimus?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ita. Quibusdam diebus optima actio nulla actio est: simul sedere, manus tenere, discum amatum audire, aut aves per fenestram spectare. Id defectus non est. Nostrum [ducem de ludendo simul](/caregiving/how-to-play-together/) explicat cur mature desinere, aut numquam incipere, recta electio esse possit.

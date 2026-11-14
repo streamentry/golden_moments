@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Meta Persuna b'Demenzja Tgħid Le jew Tinnervja b'Attività"
+seoTitle: "Meta Persuna b'Demenzja Tirrifjuta Attività"
+description: "Għaliex persuna li tgħix bid-demenzja tista' tgħid le jew tinnervja b'attività, x'tipprova minflok, x'tevita, u meta bidla f'daqqa teħtieġ tabib."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Meta persuna b'demenzja tgħid le, aċċetta dan bil-kalma u erġa' ipprova aktar tard jew offri xi ħaġa differenti. Ir-rifjut spiss ikollu raġuni: il-kompitu jidher iebes wisq jew infantili, il-persuna tkun għajjenija, tbati minn uġigħ, ikollha ġuħ jew tkun imfixkla mill-ħoss. Targumentax u tinsistix. Issimplifika, offri żewġ għażliet, jew itlob l-għajnuna tagħha. Imġieba f'daqqa jew li tinbidel malajr, speċjalment wara infezzjoni jew mediċina ġdida, teħtieġ tabib minnufih.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Le» hija tweġiba li għandek tirrispetta, mhux problema biex tegħleb."
+  - "Ir-rifjut normalment ikollu kawża: diffiċli wisq, infantili, għajjien, mhux tajjeb, skomdi, jew imfixkel."
+  - "Ieqaf, stenna u erġa' ipprova aktar tard, f'ħin differenti, jew b'verżjoni aktar sempliċi."
+  - "Li titlob l-għajnuna tagħhom jaħdem aħjar minn li titlobhom jipperformaw."
+  - "Qatt targumenta, tinsisti, tistaqsi jew tikkoreġi. Iċċekkja lilek innifsek jekk qed tgħaġġel jew tagħfas fuqhom."
+  - "Imġieba f'daqqa jew li tinbidel malajr, speċjalment bi infezzjoni jew mediċini ġodda, għandha tiġi nnotifikata lit-tabib minnufih."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Huwa kmieni li nħallihom jaqbżu l-attivitajiet kompletament?"
+    a: "Iva, f'kull ġurnata partikolari. Qgħad flimkien, isma' l-mużika jew ħares lejn id-dinja tgħaddi tista' tkun biżżejjed. Jekk xi ħadd jieqaf jgħoġbu kollox matul ġimgħat, semmi dan lit-tabib tiegħu, għax burdata baxxa, uġigħ jew problemi oħra tas-saħħa jistgħu jkunu parti mill-kwadru."
+  - q: "Għaliex jirrifjutaw affarijiet li kienu jħobbu?"
+    a: "Ħobbija antika tista' ssir frustranti meta issa tirrikjedi ħiliet li d-demenzja għamlitha aktar diffiċli, u l-persuna tista' tħoss imbarazzata. Ipprova parti aktar sempliċi mill-istess attività, bħal tqassim ta' buttuni minflok ħjata, jew ħarsa lejn ritratti tal-ġnien minflok it-tħawwil."
+  - q: "Għandi nipprova nikkonvinċihom?"
+    a: "Le. Li tinsisti biex xi ħadd jagħmel xi ħaġa li d-demenzja għamlitha iebsa hija trigger magħruf għall-aġitazzjoni. Aċċetta l-le, ibdel is-suġġett, u offri mill-ġdid aktar tard jew b'mod differenti."
+  - q: "Meta bidla fl-imġieba hija emerġenza?"
+    a: "Ċempel in-numru tal-emerġenza lokali tiegħek jekk xi ħadd ikun fil-periklu jew ikollu sinjali ta' emerġenza medika. Għal konfużjoni f'daqqa jew imġieba li tinbidel malajr matul sigħat jew jiem, speċjalment bi deni, infezzjoni jew mediċina ġdida, ikkuntattja t-tabib tagħhom minnufih."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Int tħejji kollox, toffri logħba jew mixja, u tisma' «Le». Jew l-attività tibda tajjeb u tispiċċa b'tablet imbegħda u kelma iebsa. Hija diżappuntanti, u hija komuni ħafna. Ir-rifjut u l-frustrazzjoni ġeneralment huma messaġġ, mhux kapriċċ. Li tifhem x'inhu dak il-messaġġ spiss juri x'għandek tipprova sussegwentement.
 
-## Why does someone with dementia refuse activities?
+## Għaliex persuna b'demenzja tirrifjuta l-attivitajiet?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Normalment hemm raġuni, anke jekk il-persuna ma tistax tqiegħidha f'kliem. L-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) jgħid li r-reżistenza tista' tfisser li l-persuna ma tistax tagħmel il-kompitu jew tibża' tipprova. Kawżi komuni jinkludu:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Jidher iebes wisq.** L-attività issa teħtieġ ħiliet li d-demenzja għamlitha diffiċli, u li tfalli quddiem xi ħadd huwa imbarazzanti.
+- **Jidher infantili.** L-adulti jinnotaw ritratti karikaturali, leħen ta' kanzunetta jew attivitajiet li jidhru magħmula għat-tfal.
+- **Għeja.** Ħafna nies ikollhom inqas enerġija aktar tard fil-jum. Ara [attivitajiet kalmi ta' wara nofsinhar](/caregiving/late-day-restlessness/).
+- **Diskomfort fiżiku.** In-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) jelenka uġigħ, nuqqas ta' rqad, diffikultà biex jara jew jisma', stitikezza, ġuħ, għatx u effetti sekondarji ta' mediċini ġodda bħala kawżi possibbli tal-inkwiet.
+- **Ħafna affarijiet jiġru flimkien.** It-TV b'ħoss għoli, diversi konverżazzjonijiet jew kamra mimlija jistgħu jkunu sopraffaċenti.
+- **Li tħoss pressjoni.** In-NIA isemmi li tkun imsawwat biex tagħmel xi ħaġa li l-Alzheimer għamlitha diffiċli ħafna, jew biex tiftakar avvenimenti jew nies, huwa kawża ta' aġitazzjoni.
+- **Burdata baxxa.** Li titlef l-interess f'affarijiet jista' jkun sinjal ta' dipressjoni, u dan jixraq li jitqajjem mat-tabib.
+- **Ma jridux biss.** L-adulti għandhom id-dritt li jgħidu le.
 
-## What should I try when they say no?
+## X'għandi nipprova meta jgħidu le?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Aċċetta l-le bil-kalma, imbagħad ibdel xi ħaġa: il-ħin, l-attività, id-diffikultà jew il-mod kif tistaqsi.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Ħalliha għall-issa.** «Hekk hu tajjeb. Forsi aktar tard.» Imbagħad aqbeż għal xi ħaġa oħra mingħajr ma tagħmel nifs frustrat.
+2. **Erġa' ipprova aktar tard.** L-Alzheimer's Association jissuġġerixxi li terġa' tipprova aktar tard, jew f'ħin differenti tal-ġurnata.
+3. **Agħmilha iżgħar.** Par wieħed minflok logħba sħiħa. Kutra waħda minflok il-basket kollu tal-ħwejjeġ. Inqas ritratti, inqas għażliet, u ritratti li jibqgħu viżibbli.
+4. **Offri żewġ għażliet.** «Tridx tħares lejn ir-ritratti tal-għasafar jew tisma' xi mużika?» Għażla tagħti lura sens ta' kontroll.
+5. **Itlob l-għajnuna minflok prestazzjoni.** «Tista' tgħinni nqassam dawn?» jew «Tista' tgħidli liema kulur jidher l-aħjar?» Li tkun meħtieġ iħoss ħafna differenti minn li tiġi ttestjat.
+6. **Ibda l-attività int stess.** Ibda l-attività qrib tagħhom mingħajr ma tistaqsi. Ħafna nies jingħaqdu magħha ladarba jkun diġà qed isir xi ħaġa, u jekk ma jagħmlux, għadek qattajt ħin flimkien.
+7. **Aqleb għal xi ħaġa fiżika jew li tikkalma.** Mixja qasira, mużika, spuntin, tpaqqigħ tal-ħwejjeġ, jew waqfa ta' [calm breathing](/games/calm-breathing/) flimkien. In-NIA jissuġġerixxi li tiddevja l-attenzjoni għall-mużika, ktieb jew mixja.
+8. **Ħalli l-persuna tagħmilha bil-mod tagħha.** Jekk jridu jilgħabu b'mod differenti minn kif jgħidu r-regoli, mur miegħu. L-Alzheimer's Association jagħti parir li tkun flessibbli.
 
-## What should I say when they get frustrated?
+## X'għandi ngħid meta jinnervjaw?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Ibqa' bil-mod, baxx il-leħen u irassura. [Il-gwida tal-Alzheimer's Association dwar l-aġitazzjoni](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) jissuġġerixxi li tagħti lura l-pass u titlob permess, tuża kliem kalm u pożittiv, u toffri għażla gwidata bejn żewġ għażliet. Frażijiet f'dan is-sens:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Jiddispjacini, dan qed ikun iebes. Ejja nieqfu.»
+- «Qed tagħmel tajjeb. Jien hawn miegħek.»
+- «Għandek ħin biex tgħinni b'xi ħaġa oħra?»
+- «Nieħdu tazza tè minflok?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Imbagħad aqta' l-attività mingħajr ma tagħmilha kbira. Il-[parir dwar il-komunikazzjoni](/caregiving/communication-tips/) tagħna fih aktar dwar x'għandek tgħid.
 
-## What should I avoid?
+## X'għandi nevita?
 
-Some natural reactions tend to make things worse.
+Xi reazzjonijiet naturali jagħmluha agħar.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Argumentar jew insistenza.** «Ejja, waħda biss» jew «Tħobb dan» ftit li xejn jgħinu.
+- **Mistoqsijiet jew korrezzjonijiet.** «Taf x'inhu dan» jew «Le, dak hu ħażin» iżid pressjoni.
+- **Li tieħu dan personalment.** In-NIA ifakkar lill-persuni li jieħdu ħsieb li l-marda, u mhux il-persuna, tikkawża dawn il-bidliet.
+- **Tgħaġġel jew tagħfas.** L-Alzheimer's Association jagħti parir li ma tgħollix il-leħen, ma turix allarm, ma tagħlaqx lill-persuna f'kantuniera, ma tagħfasx fuqha, ma tżommhiex, ma tikkritikax, ma tinjorax u ma targumentax magħha, u li tevita movimenti f'daqqa barra mill-vista tagħha.
+- **Użu ta' sens ta' ħtija.** «Jien ippjanajt dan kollu għalik» iħalli lilkom it-tnejn tħossu agħar.
+- **Ittikkettar.** «Ta' kapriċċ» jew «diffiċli» jaħbu r-raġuni reali u jagħmluha aktar diffiċli biex issolvi.
 
-## How can I find out what is behind repeated refusals?
+## Kif insib x'hemm wara r-rifjuti ripetuti?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Żomm nota sempliċi għal ġimgħa jew ġimagħtejn. In-NIA jgħid li li żżomm rekord tal-bidliet fl-imġieba jista' jgħin lill-persuni li jieħdu ħsieb u lill-professjonisti tal-kura tas-saħħa jagħrfu mudell u jsibu l-kawża.
 
-Jot down:
+Innota:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- il-ħin tal-ġurnata;
+- x'offrejt u kif staqsejt;
+- x'kien qed jiġri madwarek (ħoss, viżitaturi, TV);
+- kif rqdu, kielu u xorbu, u meta użaw it-toilet l-aħħar darba;
+- kull mediċina ġdida jew mard reċenti.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Mudelli spiss jidhru malajr: rifjuti li jseħħu biss wara s-4 p.m., biss għal logħba waħda, jew biss meta t-TV ikun mixgħul. Il-[gwida tal-Family Caregiver Alliance dwar l-imġieba fid-demenzja](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tgħid b'mod sempliċi: ma nistgħux nibdlu l-persuna, imma nistgħu nbiddlu l-imġieba tagħna u l-ambjent.
 
-## When should I talk to a doctor about refusal or frustration?
+## Meta għandi nkellem lit-tabib dwar ir-rifjut jew il-frustrazzjoni?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kellem it-tabib meta l-imġieba tinbidel f'daqqa, malajr, jew flimkien ma' sinjali ta' mard. In-NIA jgħid li bidliet f'daqqa jew li jinbidlu malajr fl-imġieba, speċjalment jekk il-persuna kellha infezzjoni jew bidliet reċenti fil-mediċini, għandhom jiġu notifikati lit-tabib minnufih.
 
-Contact their doctor promptly if you notice:
+Ikkuntattja t-tabib tagħhom malajr jekk tinnota:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- konfużjoni f'daqqa jew bidla kbira matul sigħat jew jiem;
+- sinjali ta' uġigħ, bħal wiċċ li juri uġigħ, iżżomm parti mill-ġisem jew diffikultà ġdida biex timxi;
+- deni jew sinjali oħra ta' infezzjoni;
+- mediċini ġodda jew mibdula segwiti minn bidla fl-imġieba;
+- telf ta' interess f'kważi kollox, dmugħ jew tnaqqis fil-kuntatt ma' nies, għal iktar minn ftit ġimgħat;
+- rifjut ta' ikel jew xorb.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+L-Alzheimer's Association jirrakkomanda eżami mediku sħiħ għal kull min għandu sintomi ta' mġieba, speċjalment meta jidhru f'daqqa. L-Family Caregiver Alliance jissuġġerixxi wkoll li tiċċekkja mat-tabib l-ewwel, għax problemi ta' mġieba jistgħu jkollhom kawża medika. Tibda, tieqaf jew tbiddel l-ebda mediċina mingħajr ma titkellem mat-tabib jew mal-ispiżjar.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Jekk xi ħadd ikun fil-periklu jew ikun hemm sinjali ta' emerġenza medika, ċempel in-numru tal-emerġenza lokali tiegħek. In-NIA jissuġġerixxi li tgħid lill-operatur tal-emerġenza li l-persuna għandha demenzja. Għal passi immedjati ta' sigurtà meta r-rabja ssir fiżika, ara l-[gwida tagħna dwar ir-rabja u l-aggressjoni fid-demenzja](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Hemm xi drabi li ma nagħmlu xejn?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Iva. Xi drabi l-aħjar attività hija l-ebda attività: li toqgħod flimkien, iżżomm idejn, tisma' rekord favorit, jew tħares lejn l-għasafar mit-tieqa. Dan mhux falliment. Il-[gwida tagħna dwar il-logħba flimkien](/caregiving/how-to-play-together/) tispjega għaliex li tieqaf kmieni, jew qatt ma tibda, jista' jkun l-għażla t-tajba.

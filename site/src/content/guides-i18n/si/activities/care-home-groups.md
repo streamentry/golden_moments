@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "ඩිමෙන්ශියා සඳහා කණ්ඩායම් ක්‍රියාකාරකම්: රැකවරණ නිවාස සහ දින වැඩසටහන් සඳහා මාර්ගෝපදේශයක්"
+seoTitle: "ඩිමෙන්ශියා කණ්ඩායම් ක්‍රියාකාරකම්: බිංගෝ, ගීත, කතා"
+description: "මතක රැකවරණය, වැඩිහිටි දින මධ්‍යස්ථාන සහ රැකවරණ නිවාස සඳහා කණ්ඩායම් ක්‍රියාකාරකම්: පින්තූර බිංගෝ, ගායන, මතක කවය, ආසන සහ ප්‍රමාණ ඉඟි."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  මතක රැකවරණයේ සහ වැඩිහිටි දින වැඩසටහන්වල හොඳ කණ්ඩායම් ක්‍රියාකාරකම් කෙටි, හුරු සහ ඕනෑම මට්ටමක් සඳහා ඇතුළත් වීමට පහසු වේ: පින්තූර බිංගෝ, ගායන, මතක කවය, සරල චලනය සහ බෙදා ගත් වචන ක්‍රීඩා. හැකි තරම් කණ්ඩායම් කුඩා තබා, සෑම කෙනෙකුට බැලීමට සහ ඇසීමට හැකි පරිදි ආසන දෙන්න, එක් පියවරක් එක විට දෙන්න, සහ සෑම කෙනෙකුටම අවශ්‍ය නම් පහසු භූමිකාවක් සහ නිහඬ පිටවීමක් සැලසුම් කරන්න.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "විශාල එක් සිදුවීමකට වඩා කුඩා කණ්ඩායම් බොහෝ විට හොඳින් ක්‍රියා කරයි, සහ ඒවා වැඩි දෙනෙකුට නිෂ්ක්‍රීයව නරඹනවාට වඩා ක්‍රියාශීලීව සහභාගී වීමට ඉඩ දෙයි."
+  - "මිනිසුන් රවුමකට හෝ අශ්ව-නාලයක ආකාරයට, නායකයා අසලින්, ශ්‍රවණ සහ දැක්ම අවශ්‍යතා සලකා, පසුබිම් ශබ්දය නිවා දමා ආසන ගන්වන්න."
+  - "එක් ක්‍රියාකාරකමක් සෑම කෙනෙකුටම ඇතුළු වීමට මට්ටම් දෙකක් හෝ තුනක සැලසුම් කරන්න, විවිධ හැකියාවෙන් සිටින අයට එක්ව සහභාගී විය හැකි පරිදි."
+  - "ප්‍රශ්න විභාග, ලකුණු සහ ජයග්‍රාහකයින් වළක්වන්න. පින්තූර බිංගෝ සෑම කෙනෙකුටම පිරුණු කාඩ්පතක් ඇතිව ක්‍රීඩා කළ හැක."
+  - "කලින් යාම, නැරඹීම හෝ ඔළුව සැලීම හරි. වඩාත් නිහඬ ඉඩක් ඉල්ලන ඕනෑම කෙනෙකුට උදව් කිරීමට කාර්ය මණ්ඩල සාමාජිකයෙක් සූදානමින් සිටින්න."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "ඩිමෙන්ශියා ක්‍රියාකාරකම් සඳහා හොඳ කණ්ඩායම් ප්‍රමාණය කුමක්ද?"
+    a: "නිශ්චිත නිවැරදි සංඛ්‍යාවක් නැත; එය වැසියන්, කාමරය සහ ඔබට කොපමණ කාර්ය මණ්ඩලයක් සිටීද මත රඳා පවතී. බොහෝ කණ්ඩායම් දකින්නේ කුඩා කණ්ඩායම් සෑමෙකුට බැලීමට, ඇසීමට සහ සහභාගී වීමට ඉඩ දෙන බවයි, විශාල කාමර උත්සව බොහෝ විට අය නැරඹීමට පමණක් ඉඩ තබයි. විශාල උත්සවයක් පවත්වන්නේ නම්, වැසියන් අතර වාඩි වී එක් හෝ දෙදෙනාට උදව් කළ හැකි කාර්ය මණ්ඩලය හෝ ස්වේච්ඡා සේවකයින් එකතු කරන්න."
+  - q: "මිශ්‍ර හැකියා ඇති කණ්ඩායමක් මා කළමනාකරණය කරන්නේ කෙසේද?"
+    a: "සෑම ක්‍රියාකාරකමකටම එයට සහභාගී වීමට එක් ක්‍රමයකට වඩා සැලසුම් කරන්න. ගායන සැසියකදී, සමහරු සෑම වචනයක්ම ගයති, සමහරු අත් තබති හෝ හමති, සමහරු රැව් ගසන උපකරණයක් අල්ලා ගනී. පින්තූර බිංගෝහි, සමහරු තමන්ගේම පින්තූර සොයා ආවරණය කරති, උදවුකරුවෙකු අනෙකුන් සඳහා පෙන්වයි. වැඩි උදව් අවශ්‍ය අය කාර්ය මණ්ඩල සාමාජිකයෙකු හෝ ස්වේච්ඡා සේවකයෙකු අසල ආසන ගන්වන්න."
+  - q: "තරඟකාරී නොවන ලෙස පින්තූර බිංගෝ ක්‍රීඩා කරන්නේ කෙසේද?"
+    a: "සෑම කෙනෙකුගේම කාඩ්පත පිරෙන තෙක් සෑම පින්තූරයක්ම ඇමතුම් ලබා දෙන්න, එවිට කිසිවෙක් ඉවත් නොවේ. එක් එක් පින්තූරය ඒවා එන විට එය ගැන කතා කරන්න, ජයග්‍රාහකයින්ට ත්‍යාග ඉවත් කරන්න, නැතහොත් සෑම කෙනෙකුටම එකම කුඩා ත්‍යාගයක් දෙන්න. අරමුණ වන්නේ බෙදා ගත් අවධානය සහ සංවාදයයි, කාගේ කාඩ්පත පළමුව පිරෙනවද යන්න නොවේ."
+  - q: "මට ඔබේ ක්‍රීඩා කණ්ඩායමකදී විශාල තිරයක භාවිත කළ හැකිද?"
+    a: "ඔව්. අපගේ ක්‍රීඩා වෙබ් බ්‍රවුසරයක ධාවනය වේ, එබැවින් ටීවී හෝ ප්‍රක්ෂේපකයකට සම්බන්ධ ලැප්ටොප් හෝ ටැබ්ලට් එකක විවෘත කළ හැක. පින්තූර බිංගෝ මුද්‍රණය කළ හැකි කාඩ්පත් සහ තිරය මත ඇමතුම්කරුවෙක් ඇතුළත් කරයි. වාක්‍ය සම්පූර්ණ කරන්න සහ පින්තූර යුගල ක්‍රීඩා ද විශාල තිරයක, කණ්ඩායම වෙනුවෙන් එක් අයෙක් තට්ටු කරමින් හොඳින් ක්‍රියා කරයි."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+මෙම මාර්ගෝපදේශය ක්‍රියාකාරකම් අධ්‍යක්ෂවරුන්, මතක රැකවරණ කණ්ඩායම් සහ වැඩිහිටි දින වැඩසටහන් නායකයින් සඳහා ය. එය ක්‍රියා කරන කණ්ඩායම් ආකෘති, කාමර සැකසුම, විවිධ හැකියාවලට එක් ක්‍රියාකාරකමක් අනුවර්තනය කිරීම, සහ අපගේ මුද්‍රණය කළ හැකි බිංගෝ කාඩ්පත් සහ විශාල තිරයේ ක්‍රීඩා භාවිත කිරීම ආවරණය කරයි. මෙහි සෑම දෙයක්ම සුවය, සම්බන්ධතාවය සහ තේරීම ඉලක්ක කරයි. මෙහි කිසිවක් පරීක්ෂණයක් නොවේ.
 
-## What makes a group activity work in memory care?
+## මතක රැකවරණයේ කණ්ඩායම් ක්‍රියාකාරකමක් ක්‍රියා කරන්නේ කෙසේද?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+හොඳ කණ්ඩායම් ක්‍රියාකාරකමක් හුරු, කෙටි, ඕනෑම මට්ටමක සහභාගී වීමට පහසු සහ පීඩනයෙන් තොරය. Alzheimer's Association හි [ඩිමෙන්ශියා රැකවරණ ප්‍රායෝගික නිර්දේශ](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) අර්ථවත් සහභාගීත්වය විස්තර කරන්නේ පුද්ගලයාගේ උනන්දුව සහ මනාපයන්ට සහාය දෙන, තේරීම සහ සාර්ථකත්වයට ඉඩ දෙන දෙයක් ලෙසය; ඩිමෙන්ශියාව බරපතලම වූ විටත් එය එසේමය. එම ලේඛනය ද සටහන් කරන්නේ සම්ප්‍රදායික වැඩසටහන් බොහෝ විට දිනකට එක් හෝ දෙකක් විශාල කණ්ඩායම් උත්සව මත රඳා පවතින බවත්, එවිට නේවාසිකයින් බොහෝ විට නිෂ්ක්‍රීයව පමණක් සම්බන්ධ වන බවත්ය.
 
-That points to a few practical rules:
+එයින් ප්‍රායෝගික නීති කිහිපයක් පැන නගී:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **හුරු, අලුතට වඩා හොඳයි.** තරුණ වයසේ ගීත, කියමන්, රූප සහ වස්තූන් ඇතුළට ගැනීමට පහසුය.
+- **කෙටි, දිගට වඩා හොඳයි.** ඔබේ කණ්ඩායමට සාමාන්‍යයෙන් ඇති අවධානය කාලයට ඇස්තමේන්තු කර, මැද ස්වභාවික නවතින ස්ථානයක් සහිතව සැලසුම් කරන්න.
+- **කිරීම නැරඹීමට වඩා හොඳයි.** සෑම කෙනෙකුටම අල්ලා ගැනීමට, තට්ටු කිරීමට, තේරීමට හෝ කතා කිරීමට දෙයක් දෙන්න.
+- **බොහෝ මට්ටම්, එක් ක්‍රියාකාරකමක්.** පහසු සහ දුෂ්කර ආකාරවල සහභාගී වීමේ ක්‍රම ගොඩනඟන්න.
+- **ජයග්‍රාහකයෝ නැත, ලකුණු නැත.** තරඟකාරී ආකෘති සමහරුන්ට අසාර්ථක වූ හැඟීමක් ඇති කරයි.
 
-## How big should the group be?
+## කණ්ඩායම කොපමණ විශාල විය යුතුද?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+කුඩා ප්‍රමාණය සාමාන්‍යයෙන් පහසුය. Alzheimer's Association සටහන් කරන්නේ විශාල එකතුවක් මහා ලෙස අභිභවනය කරන පුද්ගලයෙකු කුඩා කණ්ඩායමක වඩා සාර්ථකව අන් අය සමඟ අන්තර් ක්‍රියා කළ හැකි බවයි. නිශ්චිත නිවැරදි සංඛ්‍යාවක් නැත. එය වැසියන්, කාමරය සහ කොපමණ කාර්ය මණ්ඩලයක් හා ස්වේච්ඡා සේවකයින් සිටීද මත රඳා පවතී.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+උපයෝගී පරීක්ෂාවක්: නායකයාගේ මුහුණ සෑම කෙනෙකුටම පෙනේද, පැහැදිලිව ඇසේද, සහ උදවුකරුවෙකුට තත්පර කිහිපයකින් ළඟා විය හැකිද? නැත්නම්, කණ්ඩායම බෙදන්න, උදවුකරුවන් එකතු කරන්න, හෝ කුඩා කාමරයකට යන්න.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+උත්සව ගායන ප්‍රසංගයක් වැනි විශාල උත්සවයකදී, කාර්ය මණ්ඩලය සහ ස්වේච්ඡා සේවකයින් බිත්තිවල දිගේ නොව වැසියන් අතර ආසන ගන්වන්න.
 
-## How should I set up the room and seating?
+## කාමරය සහ ආසන සකස් කරන්නේ කෙසේද?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **රවුම හෝ අශ්ව-නාලය.** ප්‍රායෝගික නිර්දේශ මගින් බෙදා ගැනීමේ රවුමක් විස්තර කරන්නේ, සියල්ලන්ටම රවුමක වාඩි විය හැකි තරම් විශාල, පසුබිම් ශබ්දයක් නැති ඉඩකදී හොඳම බව ය.
+- **නායකයා ළඟ සහ ඇස් මට්ටමට.** හැකි විට වාඩි වන්න.
+- **ශ්‍රවණය සහ දැක්ම ප්‍රථමයෙන්.** ශ්‍රවණ අඩුපාඩු ඇති අය නායකයා ළඟ, ඔවුන්ගේ හොඳ පැත්තේ ආසන ගන්වන්න. කණ්ණාඩි සහ ශ්‍රවණ උපකරණ ක්‍රියාත්මකව ඇති බව සහතික කරන්න. Alzheimer's Association සටහන් කරන්නේ දැක්ම සහ ශ්‍රවණ ගැටලු සන්නිවේදනය දුෂ්කර කළ හැකි බවයි.
+- **ආලෝකය වැසියන්ගේ පිටුපසින්, ඔබේ පිටුපසින් නොව.** කිසිවෙකුට දීප්තිමත් කවුළුවකට මුහුණලා ඇති ආසනයක් නොදෙන්න.
+- **TV සහ රේඩියෝව නිවන්න.** Alzheimer's Association උපදෙස් දෙන්නේ සංගීත ක්‍රියාකාරකම් වලදී තරඟකාරී ශබ්දය ඉවත් කරන ලෙසයි.
+- **එක් සංවාදයක් එක විට.** ඩිමෙන්ශියාව සහ ශ්‍රවණ හානිය ඇති අයට හරස් කතාබස් අමාරුය, Alzheimer's Association එහි [නිවාඩු උපදෙස්](https://www.alz.org/help-support/caregiving/holidays) වලදී සඳහන් කරන්නේ.
+- **පැහැදිලි පිටවීම් සහ නිහඬ කොනක්.** ඉවත් වීමට කැමති ඕනෑම කෙනෙකුට පහසුවෙන් ඒ කළ හැකි විය යුතුය, සහ ඔවුන් සමඟ ඇවිදින්න කාර්ය මණ්ඩල සාමාජිකයෙකු සමඟ.
 
-## Group activity ideas
+## කණ්ඩායම් ක්‍රියාකාරකම් අදහස්
 
-### Picture bingo
+### පින්තූර බිංගෝ
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+පින්තූර බිංගෝ අංක පින්තූර වලින් ප්‍රතිස්ථාපනය කරයි, උදාහරණයක් ලෙස තේකෝප්පයක්, බල්ලෙක් හෝ රෝස මලක්, එබැවින් කිසිවෙකුට දිගු අංකයක් හෝ කුඩා අකුරු කියවීමට අවශ්‍ය නොවේ.
 
-**How to run it:**
+**ක්‍රියාත්මක කරන ආකාරය:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. [Picture Bingo](/games/picture-bingo/) පිටුවෙන් Print බොත්තම භාවිත කර සෑම කෙනෙකුටම එක් කාඩ්පතක් මුද්‍රණය කරන්න. බරැති කඩදාසි හැසිරවීමට පහසුය. නැවත භාවිත සඳහා ලැමිනේට් කරන්න.
+2. විශාල, පහසුවෙන් අල්ලා ගත හැකි ලකුණු කරන්නන් දෙන්න, උදාහරණයක් ලෙස පොකර් චිප්ස්, බෝතල් පියන් හෝ කාඩ් කැබලි.
+3. TV හෝ ප්‍රක්ෂේපකයේ තිර ඇමතුම්කරු භාවිත කරන්න, එවිට ඔබ පින්තූරයේ නම කියන විට සෑම කෙනෙකුම එය දකී.
+4. සෑම පින්තූරයකින් පසු නවතින්න සහ කෙටි අදහසක් ආරාධනා කරන්න: “ඔබ දැන සිටි බල්ලෙක් ගැන අපට කියන්න කවුරුවත් කැමතිද?” හෝ “මේ එක ගැන ඔබ කුමක් දකිනවාද?”
+5. සියලු කාඩ්පත් පිරෙන තෙක් ඇමතීම දිගටම කරන්න. සියල්ලෝම අවසන් කරති.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**අනුවර්තනය:** පිරුණු කාඩ්පතක් ඉතා කාර්යබහුල යැයි සොයන අයට අඩු කොටු භාවිත කරන්න. අවශ්‍ය අයට ගැළපෙන පින්තූරය උදවුකරුවෙක් පෙන්විය හැක. සමහරු ඇමතුම්කරුගේ පින්තූර කාඩ්පත අල්ලාගෙන එය කණ්ඩායමට පෙන්වීමට කැමති විය හැක.
 
-### Sing-alongs
+### ගායන
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+සංගීතය වඩාත්ම පුළුල්ව රසවිඳින කණ්ඩායම් ක්‍රියාකාරකම් වලින් එකකි. Alzheimer's Association සටහන් කරන්නේ, ප්‍රමාද අවධියේදීවත්, පුද්ගලයෙකුට [ළමා කාලයේ ගීතයක බීට් එකට තට්ටු කිරීමට හෝ ගායනා කිරීමට](https://www.alz.org/help-support/caregiving/daily-care/art-music) හැකි විය හැකි බවයි.
 
-**How to run it:**
+**ක්‍රියාත්මක කරන ආකාරය:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- නායකයාගේ ප්‍රියතම දේවල් නොව, නේවාසිකයින් වැඩී ආ ගීත තෝරන්න. සෑම කෙනෙකුටම ප්‍රිය වූයේ කුමක්දැයි පවුල්වලින් අසන්න.
+- වෙළඳ දැන්වීම් නැති සංගීතය භාවිත කරන්න; ඒවා ව්‍යාකූල විය හැකි බව Association සටහන් කරයි.
+- ඉදිරිපත් කරන ලද ලිරික්ස් විශාල අකුරින් මුද්‍රණය කරන්න, කියවන අයට; නමුත් එය අවශ්‍ය නොකරන්න.
+- රැව් ගසන උපකරණ, අත් බෙරය, හෝ සලන රෙද්දක් ඉදිරිපත් කරන්න.
+- අත් තැලීම සහ චලනය දිරිමත් කරන්න, සහ හඬ සුවපහසු මට්ටමේ තබන්න.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**අනුවර්තනය:** සමහරු සෑම වචනයක්ම ගායනා කරති, සමහරු හඬ අඩුව හඬ නගා මෑදෙති, සමහරු පාදය තට්ටු කරති, සමහරු නිහඬව ඇහුම්කන් දෙති. මේ සියල්ල ගණන් ගත හැක. වැඩි විස්තර සඳහා අපගේ [සංගීත ක්‍රියාකාරකම් මාර්ගෝපදේශය](/activities/music/) බලන්න.
 
-### Reminiscence groups
+### මතක කණ්ඩායම්
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+මතක කණ්ඩායමක් පාසල් දින, පළමු මෝටර් රථ, මිදුලු, හෝ ගිම්හානය වැනි තේමාවක් වටා ඡායාරූප, වස්තු සහ සංගීතය භාවිත කර එකතු වේ. අරමුණ වන්නේ නිවැරදි සිහිපත් කිරීම නොව සිත්ගන්නා සංවාදයයි.
 
-**How to run it:**
+**ක්‍රියාත්මක කරන ආකාරය:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. තේමාවක් තෝරා, අල්ලා ගත හැකි වස්තු කිහිපයක් ගෙනෙන්න: අතින් මිශ්‍ර කරන යන්ත්‍රයක්, බේස්බෝල් අත්වැසුම, තොප්පියක්, බීජ කැටලොගයක්.
+2. එක විට එක් වස්තුවක් පාස් කරන්න. විවෘත ප්‍රශ්න අසන්න: “මේ ගැන මට කියන්න,” “ඔබ කුමක් දකිනවාද?” “මේ වගේ එකක් කවුද භාවිත කළේ?”
+3. සෑම පිළිතුරක්ම සාදරයෙන් පිළිගන්න. දිනයක් හෝ කරුණක් කිසිදා නිවැරදි නොකරන්න.
+4. සංවාදය උණුසුම් මතකවල දිශාවට ගෙන යන්න. ප්‍රායෝගික නිර්දේශවල සඳහන් වන්නේ සාත්තු සපයන්නන් මතක කතාව කම්පනය ඇති කළ හැකි ඒවාට වඩා ධනාත්මක මතකවලට යොමු කළ යුතු බවයි.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[සංවාද කාඩ්පත්](/games/conversation-cards/) තේමා අනුව විවෘත ප්‍රශ්න සහිත මුද්‍රණය කළ හැකි පින්තූර කාඩ්පත් ලබා දෙන අතර, සංවාද ඇරඹුම් ලෙස හොඳින් ක්‍රියා කරයි. වැඩි අදහස් අපගේ [මතක මාර්ගෝපදේශයේ](/activities/reminiscence/) ඇත.
 
-### Finish the saying
+### වාක්‍ය සම්පූර්ණ කරන්න
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+හුරු කියමන් සියල්ලන්ට එකට අවසානය කියන්න ආරාධනා කරයි. විශාල තිරයක [Finish the Saying](/games/finish-the-saying/) පෙන්වා, කණ්ඩායමට එක් හඬකින් පිළිතුරු දීමට ඉඩ දෙන්න. එක් එක් කියමනෙන් පසු කතා කිරීමට ඉඟියක් ඇත. කිසිවෙක් අවසානය නොකිව්වොත්, එය පෙන්වා ඉදිරියට යන්න. වැරදි හෝ නිවැරදි ප්‍රතිචාරයක් නැත.
 
-### Large-print word search, together
+### විශාල අකුරු වචන සෙවීම, එකට
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+විශාල-අකුරු [වචන සෙවීම](/games/word-search/) තිරයක ප්‍රක්ෂේප කර කණ්ඩායමක් ලෙස වචන සොයන්න, නැතහොත් ඒවා තනිව මේසය වටා කටයුතු කිරීමට කැමති අයට පිටපත් මුද්‍රණය කරන්න. වචන හරස් හා සිරස් දිශාවට පමණක් ධාවනය වේ.
 
-### Gentle movement
+### සෞම්‍ය චලනය
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+වාඩි වී ඇතිව දිගු කිරීම්, මෘදු බෝලයක් හෝ බැලූනයක් පාස් කිරීම, හෝ හුරු සංගීතයට පුටුවේ නැටීම. සෑම චලනයක්ම විස්තර කිරීමට වඩා ඔබ එය පෙන්වන්න.
 
-### Sorting and matching at the table
+### මේසයේ වර්ග කිරීම සහ ගැලපීම
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+තුන් හෝ හතර දෙනාගේ කුඩා මේස එකට පින්තූර, රෙදි සාම්පල හෝ හැඳි-කෝප්ප වර්ග කළ හැක. තිරය මත, [පින්තූර යුගල](/games/picture-pairs/) පින්තූර දෘශ්‍යමානව තබා ක්‍රීඩා කළ හැක, එක් අයෙක් තට්ටු කරන අතර මේසය සෑම පින්තූරයක් ගැනම කතා කරයි.
 
-## How do I use your games on a big screen?
+## විශාල තිරයක් සඳහා අපගේ ක්‍රීඩා භාවිත කරන්නේ කෙසේද?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+අපගේ ක්‍රීඩා වෙබ් බ්‍රවුසරයක ධාවනය වන බැවින්, කිසිවක් ස්ථාපනය නොකර TV හෝ ප්‍රක්ෂේපකයක භාවිත කළ හැක.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. කේබලයෙන් හෝ කාස්ට් කිරීමෙන් තිරයට සම්බන්ධ කළ ලැප්ටොප් හෝ ටැබ්ලට් එකේ ක්‍රීඩාව විවෘත කරන්න.
+2. බ්‍රවුසරය පූර්ණ තිරයට දමා, ශබ්දය සුවපහසු මට්ටමට සකසන්න.
+3. එක් නායකයෙක් තට්ටු කිරීම කරන විට කණ්ඩායම තේරීම් කෑගසයි. නැතහොත් ටැබ්ලට් එක වාරයක් ඉල්ලන නේවාසිකයෙකුට පාස් කරන්න.
+4. කණ්ඩායම සූදානම් වන විට නවත්වන්න. ක්‍රීඩාවලට කාල මානකයක්, ලකුණු හෝ බලහත්කාරයෙන් අවසන් කිරීමක් නැත.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[පින්තූර බිංගෝ](/games/picture-bingo/), [වාක්‍ය සම්පූර්ණ කරන්න](/games/finish-the-saying/), [පින්තූර යුගල](/games/picture-pairs/) සහ [සංවාද කාඩ්පත්](/games/conversation-cards/) කණ්ඩායම්වලට වඩාත් ගැළපේ. සියලු විකල්ප සඳහා අපගේ [ක්‍රීඩා පිටුව](/games/) බලන්න.
 
-## How do I adapt one activity for mixed abilities?
+## එක ක්‍රියාකාරකමක් මිශ්‍ර හැකියා සඳහා අනුවර්තනය කරන්නේ කෙසේද?
 
-Plan at least three ways to join every activity.
+සෑම ක්‍රියාකාරකමකටම එයට එක් වීමට අවම වශයෙන් ක්‍රම තුනක් සැලසුම් කරන්න.
 
-| Activity | More independent | Some support | Most support |
+| ක්‍රියාකාරකම | වැඩි ස්වාධීන | යම් උදව් | වැඩි උදව් |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| පින්තූර බිංගෝ | තමන්ම පින්තූර සොයා ආවරණය කරයි | උදවුකරු පෙන්වයි; පුද්ගලයා ආවරණය කරයි | පින්තූර කාඩ්පත අල්ලා ගනී; අසා බලයි |
+| ගායන | ගයයි, ඊළඟ ගීතය තෝරයි | හඬ අඩුව ගයයි, අත් තබයි, රැව් ගසන උපකරණයක් භාවිත කරයි | අසයි, රෙද්ද අල්ලා ගනී, අත තට්ටු කරයි |
+| මතක කවය | කතා කරයි | ඔව්-නැත හෝ පෙන්වයි | වස්තුව අල්ලා ගෙන ස්පර්ශ කරයි |
+| වචන සෙවීම | තමන්ගේ මුද්‍රිත පිටපතෙහි වැඩ කරයි | විශාල තිරයේ උදවුකරුවෙකු සමඟ වචන සොයයි | වචන කියවන විට අසයි |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+ප්‍රමාද අවධියේ නේවාසිකයින් සඳහා, NHS සටහන් කරන්නේ ක්‍රියාකාරකම් සාමාන්‍යයෙන් සරල විය යුතු බවත්, සංවේදනයන් කෙරෙහි වැඩි අවධානය යොමු කළ යුතු බවත්ය, එනම් සංගීතය, ස්පර්ශ කළ හැකි වස්තු සහ අත් මර්දනය. කණ්ඩායමේදී හෝ පසුව එක්දෙනෙකු සමඟ එක් මොහොතක් ඔවුන්ට කණ්ඩායමට වඩා සුදුසු විය හැක. [ප්‍රමාද අවධියේ ක්‍රියාකාරකම්](/activities/late-stage/) බලන්න.
 
-## How should leaders talk during a group?
+## කණ්ඩායමක් අතරතුර නායකයන් කතා කළ යුත්තේ කෙසේද?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- සෑම වාරයකම ඔබම හඳුන්වා දෙන්න, සහ සෑම කෙනෙකුගේම කැමති නමෙන් ඇමතන්න.
+- මන්දගාමීව කතා කරන්න, එක විට එක පියවරක් දෙන්න, සහ කිව යුතු දේ පෙන්වීමට පෙර පෙන්වන්න.
+- විවෘත ආරාධනා (“ඔබ ගැන මට කියන්න...”) හෝ සරල තේරීම් දෙන්න, කිසිවිටෙක ප්‍රශ්න විභාග (“ඔබට මතකද...?”) නොවේ.
+- නිවැරදි නොකරන්න. සෑම දායකත්වයක් සඳහාම ස්තුතිය පවසන්න.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+මේ ගැන වැඩි විස්තර අපගේ [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) හි ඇත.
 
-## Ending well, and letting people leave
+## හොඳින් අවසන් කිරීම, සහ මිනිසුන්ට යාමට ඉඩ දීම
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+නවතීම හොඳ ප්‍රතිඵලයකි. යමෙකු වෙහෙසට, නොසන්සුන්ව, හෝ කලකිරී ඇති බව පෙනෙන සලකුණු බලා සිටින්න, සහ උදවුකරුවෙකුට වෙනත් තැනක ඇවිදීමක් හෝ නිහඬ ආසනයක් ඉදිරිපත් කර ගත හැක. ගායන සැසියකදී ඔළුව සැලීමට පටන් ගන්නා අයෙක් සරලව සුවපහසුව ඇති විය හැක.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+සෑම කණ්ඩායමක්ම එකම ආකාරයෙන් අවසන් කරන්න, පරිචිත ගීතයක් හෝ සරල ස්තුතිය සමඟ, එවිට අවසානය සන්සුන් සහ අපේක්ෂිත ලෙස දැනේ. පසුව, කුමක් ක්‍රියා කළාද සහ කාටද කුමක් රසවත් වූයේදැයි කෙටි සටහනක් තබන්න. එම සටහන් ඊළඟ සැසිය වඩා හොඳ කරයි.

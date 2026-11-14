@@ -1,33 +1,28 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "צײַטװײַליקע פֿאַסטן און דעמענץ: װאָס די פֿאָרשונג זאָגט"
+seoTitle: "צײַטװײַליקע פֿאַסטן און דעמענץ: װאָס פֿאָרשונג זאָגט"
+description: "מענטשלעכע באַװײַזן װעגן צײַטװײַליקע פֿאַסטן און דעמענץ זענען באַגרענעצט און פֿרי. לערנט די ריזיקעס פֿאַר עלטערע מענטשן און פֿאַרװאָס גענוג עסן װיגט מער מיט דעמענץ."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  עס איז נישט קײן גוטער באַװײַז, אַז צײַטװײַליקע פֿאַסטן פֿאַרהיטן אָדער פֿאַרלאַנגזאַמען דעמענץ. דער גרעסטער טייל פֿון דער פֿאָרשונג איז בײַ כײַות, און מענטשלעכע שטודיעס בײַ עלטערע מענטשן זענען קלײן און קורץ. פֿאַסטן קען זײַן געפֿערלעך פֿאַר עלטערע מענטשן: געװיכט־ און מוסקל־פֿאַרלוסט, נידעריקער בלוט־צוקער מיט עטלעכע צוקערקרענק־מעדיצינען, דעהידראַטאַציע און פֿאַלן. פֿאַר מענטשן װאָס לעבן מיט דעמענץ איז דאָס גרעסערע טראַכט־פּונקט מסתּמא גענוג עסן און טרינקען. רעדט ערשט מיט אַ דאָקטער.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA) זאָגט, אַז עס איז נישט גענוג באַװײַז צו רעקאָמענדירן קײן פֿאַסט־ אָדער קאַלאָריע־באַגרענעצנדיקע דיעט, באַזונדערס נישט פֿאַר עלטערע מענטשן."
+  - "דער גרעסטער טייל פֿון דער פֿאָרשונג װעגן פֿאַסטן און עלטער קומט פֿון כײַות, און די רעזולטאַטן מוזן נישט גילטן פֿאַר מענטשן."
+  - "מעגלעכע ריזיקעס פֿאַר עלטערע מענטשן זענען אומבאַבסיכטיקטער געװיכט־פֿאַרלוסט, מוסקל־פֿאַרלוסט, נידעריקער בלוט־צוקער מיט עטלעכע צוקערקרענק־מעדיצינען, דעהידראַטאַציע, שװינדל און פֿאַלן."
+  - "מענטשן װאָס לעבן מיט דעמענץ פֿאַרגעסן אָפֿט צו עסן אָדער טרינקען, אָדער מײנען, אַז זײ האָבן שױן. עס איז מער װיכטיק זיי צו העלפֿן עסן און טרינקען גענוג, װי װען זײ עסן."
+  - "פֿאַסטן זאָל מען נישט נוצן פֿאַר עמעצן װאָס לעבט מיט דעמענץ. רעדט מיט אַ דאָקטער אָדער רעגיסטרירטן דיעטאָלאָג פֿאַר קײן ענדערונג אין עסן־מוסטער."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "פֿאַרהיטן צײַטװײַליקע פֿאַסטן אַלצהײמערס?"
+    a: "עס איז נישט קײן גוטער באַװײַז, אַז ס'טוט עס. דער גרעסטער טייל פֿון דער פֿאָרשונג איז געװען בײַ כײַות, און מענטשלעכע פּרוּװן זענען מערסטנס געװען קורץ, בײַ יונגערע אָדער איבערגעװיכטיקע דערװאַקסענע, און האָבן זיך פֿאַרקאָנצענטרירט אויף געװיכט־פֿאַרלוסט. דער NIA זאָגט, אַז עס איז נישט גענוג באַװײַז צו רעקאָמענדירן פֿאַסטן־דיעטן פֿאַר דער ציבור."
+  - q: "איז צײַטװײַליקע פֿאַסטן זיכער פֿאַר עלטערע מענטשן?"
+    a: "עס קען זײַן נישט. פֿאַסטן קען פֿירן צו אומבאַבסיכטיקטן געװיכט־ און מוסקל־פֿאַרלוסט, דעהידראַטאַציע, שװינדל און פֿאַלן, און קען פֿאַרורזאַכן געפֿערלעך נידעריקן בלוט־צוקער בײַ מענטשן װאָס נעמען אינסולין אָדער עטלעכע אַנדערע צוקערקרענק־מעדיצינען. די Mayo Clinic באַמערקט, אַז עס קען נישט פּאַסן פֿאַר מענטשן מיט הויכער ריזיקע פֿון ביין־פֿאַרלוסט און פֿאַלן. רעדט מיט אַ דאָקטער פֿאַר איר פּרובירט עס."
+  - q: "זאָל עמעץ מיט דעמענץ פּרובירן פֿאַסטן?"
+    a: "נײן. מענטשן װאָס לעבן מיט דעמענץ האָבן אָפֿט שװערקײטן צו עסן און טרינקען גענוג, און שלעכטע דערנערונג קען פֿאַרמערן פֿאַרהאַלטן־סימפּטאָמען און פֿאַרורזאַכן געװיכט־פֿאַרלוסט. פֿאַסטן לײגט צו ריזיקע אָן באַװיזענעם נוצן. פֿאָקוסירט אַנשטאָט אויף רעגולערע מאָלצײטן, סנעקס װאָס זיי האָבן ליב און גענוג צו טרינקען."
+  - q: "װאָס זענען די סימנים, אַז עמעץ מיט דעמענץ עסט אָדער טרינקט נישט גענוג?"
+    a: "קוקט אויף געװיכט־פֿאַרלוסט, קלײדער װאָס װערן װײטער, מידקײט, שװאַכקײט, פֿאַרשטאָפּונג אָדער אָפּזאָגן צו עסן. סימנים פֿון דעהידראַטאַציע װאָס דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער רעכנט אָן זענען טרוקן מויל, שװינדל, שנעל הארץ־שלאָג און האַלוציאַציעס. זאָגט דעם דאָקטער, אויב איר באַמערקט דאָס."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +50,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+צײַטװײַליקע פֿאַסטן, אַזױ װי נאָר עסן אין אַ אַכט־שעה פֿענצטער אָדער שאַרף שנײַדן קאַלאָריעס צװײ טעג אין װאָך, קריגן פֿיל אױפֿמערקזאַמקײט, און עטלעכע אַרטיקלען זאָגן, אַז זײ קענען באַשיצן דעם מוח. אױב איר זענט אַן עלטערער מענטש, אָדער איר פֿאַרזאָרגט עמעצן װאָס לעבט מיט דעמענץ, דאָ איז װאָס די פֿאָרשונג טאַקע װײַזט, און פֿאַרװאָס פֿאָרזיכטיקײט איז װיכטיק.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+דאָס איז אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. הײבט נישט אָן צו פֿאַסטן, און ענדערט נישט װי עמעץ װאָס איר פֿאַרזאָרגט עסט, אָן צו רעדן מיט אַ דאָקטער אָדער אַ רעגיסטרירטן דיעטאָלאָג. זעט [אונדזער מעדיצינישן אָפּזאָג](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## צי פֿאַרהיטן צײַטװײַליקע פֿאַסטן דעמענץ?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+עס איז נישט קײן גוטער באַװײַז, אַז צײַטװײַליקע פֿאַסטן פֿאַרהיטן אָדער פֿאַרלאַנגזאַמען דעמענץ. דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA) זאָגט, אַז עס איז נישט גענוג באַװײַז צו רעקאָמענדירן קײן סאָרט קאַלאָריע־באַגרענעצנדיקע אָדער פֿאַסט־דיעט, און אַז מען דאַרף נאָך פֿיל מער װיסן װעגן זייער װירקזאַמקײט און זיכערקײט, באַזונדערס בײַ עלטערע מענטשן ([NIA װעגן קאַלאָריע־באַגרענעצונג און פֿאַסטן](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### פֿאַרװאָס די באַװײַזן זענען אַזױ באַגרענעצט
 
-The NIA gives several reasons:
+דער NIA גיט עטלעכע סיבות:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **רובֿ שטודיעס זענען בײַ כײַות.** פֿאָרשונג אין װערעמער, פֿליען, מײַז און אַפֿן האָט אינטערעסאַנטע רעזולטאַטן געגעבן, אָבער די געפֿינונגען מוזן נישט גילטן פֿאַר מענטשן. אפֿילו בײַ כײַות זענען די רעזולטאַטן געמישט; אין עטלעכע מײַז־שטאַמען האָט קאַלאָריע־באַגרענעצונג פֿאַרקירצט דאָס לעבן.
+- **מענטשלעכע פּרוּװן זענען געװען קורץ.** רובֿ האָבן געדויערט עטלעך װאָכן אָדער חדשים.
+- **רובֿ מענטשלעכע פּרוּװן האָבן זיך פֿאַרקאָנצענטרירט אויף געװיכט־פֿאַרלוסט** בײַ איבערגעװיכטיקע דערװאַקסענע, נישט אויף דענקען אָדער דעמענץ.
+- **עלטערע מענטשן זענען זעלטן אײַנגעשלאָסן.** פֿיל פּרוּװן האָבן אײַנגעשריבן מענטשן ביז 60 יאָר אָדער יינגער.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+אַ 2026 סיסטעמאַטישע איבערזיכט האָט באַזונדערס אָנגעקוקט צײַטװײַליקע פֿאַסטן בײַ דערװאַקסענע פֿון 60 יאָר און עלטער. זי האָט געפֿונען, אַז די באַװײַזן אין דער אַלטערס־גרופּע בלײַבן באַגרענעצט, מיט קלײנע שטודיעס, קורצע נאָכפֿאָלג און געמישטע פּלאַנען. די פֿינדונגען װעגן דענקען און זכרון זענען געקומען פֿון אײנצלנע שטודיעס, נישט פֿון צונױפֿגעלײגטע פּרוּװ־רעזולטאַטן. די איבערזיכט האָט אויך באַמערקט, אַז עטלעכע שטודיעס האָבן פֿאַרבונדן זייער קורצע עסן־פֿענצטער אָדער לאַנגע פֿאַסטן מיט שלעכטערע רעזולטאַטן, און די מחברים האָבן געמאנט צו פֿאָרזיכטיקײט פֿאַר עלטערע מענטשן ([2026 איבערזיכט אין Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+עטלעכע פֿאָרשער טראַכטן, אַז דער גוף װעקסלט צו פֿאַרברענען פֿעט בעת אַ פֿאַסט קען װירקן דעם מוח, אָבער דאָס איז נאָך אַ טעאָריע װאָס מען לערנט. דער NIA באַמערקט, אַז די װיסנשאַפֿט איז נישט זיכער.
 
-## What are the risks of fasting for older adults?
+## װאָס זענען די ריזיקעס פֿון פֿאַסטן פֿאַר עלטערע מענטשן?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+פֿאַסטן איז נישט קײן ומשעדלעך עקספּערימענט פֿאַר פֿיל עלטערע מענטשן. מעגלעכע ריזיקעס אײַנשליסנדיק:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **אומבאַבסיכטיקטער געװיכט־פֿאַרלוסט.** עסן װייניקער װי דער גוף דאַרף קען פֿירן צו געװיכט־פֿאַרלוסט און װייניקער מוסקל־שטאַרקייט, װאָס קען מאַכן אַ מענטש שװאַכער.
+- **מוסקל־ און ביין־פֿאַרלוסט.** אין אַ צװײ־יאָריקן פּרוּװ פֿון קאַלאָריע־באַגרענעצונג, װאָס דער NIA אונטערשטיצט, בײַ יונגערע און מיטלאַלטעריקע דערװאַקסענע, האָבן די טיילנעמער געהאַט ביסל אַראָפּגאַנג אין ביין־דיכטקייט און מאַגערער גוף־מאַסע.
+- **נידעריקער בלוט־צוקער מיט צוקערקרענק־מעדיצינען.** מענטשן װאָס נעמען אינסולין אָדער עטלעכע אַנדערע צוקערקרענק־מעדיצינען קענען האָבן דעם בלוט־צוקער צו נידעריק אַראָפּ, אױב זײ לאָזן אויס אָדער פֿאַרשפּעטיקן מאָלצײטן, לויט דעם [נאַציאָנאַלן אינסטיטוט פֿאַר דיאַבעטעס און פֿאַרדױאונג־ און נירן־קרענק](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). נידעריקער בלוט־צוקער קען פֿירן צו שװינדל, צעמישונג און אומרו.
+- **דעהידראַטאַציע.** אױב טרינקען װערט אויסגעלאָזט צוזאַמען מיט מאָלצײטן, קען אַ מענטש װערן דעהידרירט.
+- **שװינדל און פֿאַלן.** די Mayo Clinic באַמערקט, אַז צײַטװײַליקע פֿאַסטן קענען מאַכן מענטשן זייער מיד און שװינדלדיק, און אַז עס קען נישט זײַן אַ געזונטער מוסטער פֿאַר מענטשן מיט הויכער ריזיקע פֿון ביין־פֿאַרלוסט און פֿאַלן ([Mayo Clinic װעגן צײַטװײַליקע פֿאַסטן](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **אַנדערע אויסװירקונגען.** די Mayo Clinic צײלט אויך קאָפּװײטיק, שטימונג־ענדערונגען און פֿאַרשטאָפּונג, און באַמערקט, אַז עטלעכע באַװײַזן װײַזן, אַז אַ 16־שעה פֿאַסט מיט אַ 8־שעה עסן־פֿענצטער קען העכערן די ריזיקע פֿון האַרץ־קרענק אין פֿאַרגלײַך מיט אַנדערע עסן־פֿענצטערס. דער באַװײַז איז נאָך נישט אָפּגעקלערט.
 
-## Why is eating enough the bigger concern with dementia?
+## פֿאַרװאָס איז גענוג עסן דאָס גרעסערע טראַכט־פּונקט מיט דעמענץ?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+פֿאַר מענטשן װאָס לעבן מיט דעמענץ, איז דאָס געװײנלעכע פּראָבלעם צו באַקומען **גענוג** עסן און טרינקען, נישט צו פֿיל. די אַלצהײמערס אַסאָסיאַציע דערקלערט, אַז מענטשן אין די מיטלשטע און שפּעטערע סטאַדיעס קענען זיך פֿילן איבערװאָלט פֿון עסן־ברירות, פֿאַרגעסן צו עסן, אָדער מײנען, אַז זײ האָבן שױן געגעסן. זי לײגט אױך צו, אַז שלעכטע דערנערונג קען פֿאַרמערן פֿאַרהאַלטן־סימפּטאָמען און פֿאַרורזאַכן געװיכט־פֿאַרלוסט ([אַלצהײמערס אַסאָסיאַציע װעגן עסן](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+די אַלצהײמערס סאָסײַעטי באַמערקט, אַז נישט גענוג עסן קען פֿירן צו געװיכט־פֿאַרלוסט, װייניקער מוסקל־שטאַרקייט, מידקײט און שװאַכקײט, װאָס מאַכט אַ מענטש שװאַכער און װײניקער טױגלעך זיך צו דערהויבן פֿון אינפֿעקציעס ([אַלצהײמערס סאָסײַעטי װעגן אַפּעטיט](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**פֿאַר די סיבות איז פֿאַסטן נישט קײן גוטע אײדיע פֿאַר עמעצן װאָס לעבט מיט דעמענץ.** אױסגעלאָזטע מאָלצײטן קענען לײכט װערן פֿאַרפֿעלטע מאָלצײטן. יעדע ענדערונג אין װי אַ מענטש מיט דעמענץ עסט זאָל זײַן געפֿירט פֿון זײַן דאָקטער אָדער אַ רעגיסטרירטן דיעטאָלאָג.
 
-## What are the warning signs of poor eating or drinking?
+## װאָס זענען די װאָרנונג־צײכנס פֿון שלעכטן עסן אָדער טרינקען?
 
-Watch for:
+קוקט אויף:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **געװיכט־פֿאַרלוסט**, אָדער קלײדער װאָס פּאַסן זיך לױזער.
+- **איבערלאָזן עסן אָדער אָפּזאָגן מאָלצײטן**, אָדער האַלטן עסן אין מויל.
+- **מידקײט אָדער שװאַכקײט.**
+- **פֿאַרשטאָפּונג**, װאָס קען פֿאַרבונדן זײַן מיט דיעט און דעהידראַטאַציע.
+- **סימנים פֿון דעהידראַטאַציע.** דער NIA רעכנט אָן טרוקן מויל, שװינדל, שנעל הארץ־שלאָג און האַלוציאַציעס, װאָס קענען אויך פֿאַרורזאַכט װערן דורך דעמענץ אַלײן ([NIA װעגן געװײנלעכע מעדיצינישע פּראָבלעמען](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+שלעכטער אַפּעטיט האָט פֿיל מעגלעכע סיבות: װײטיקע צײן אָדער אומבאַקװעמע פּראָטעזן, נײע מעדיצינען, דעפּרעסיע, פֿאַרשטאָפּונג, װייניקער אַקטיװיטעט, אָדער ענדערונגען אין געשמעק און גערוך. זאָגט דעם מענטשנס דאָקטער װעגן אַלע די סימנים. זײ קענען זוכן נאָך דער סיבה און קענען פֿאָרשלאָגן אַ דיעטאָלאָג אָדער צוגאָבן.
 
-## How can you help someone eat and drink enough?
+## װי קענט איר העלפֿן עמעצן עסן און טרינקען גענוג?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **געבט קלײנע מאָלצײטן און סנעקס אָפֿט**, אַנשטאָט דרײַ גרױסע מאָלצײטן.
+- **געבט באַליבטע עסן**, און זײַט גמיש ווי געשמאַק ענדערט זיך. זיסע עסן קענען װילקאָם זײַן, אױב דער אַפּעטיט איז נידעריק; פֿרעגט דעם דאָקטער צי עס זענען געזונטהײט־סיבות צו באַגרענעצן צוקער.
+- **האַלט טרינקען אין דער האַנט** און געבט קלײנע בעכער איבער דעם טאָג. זופּ, פּירות, סמודזשיס און מילכשייקס זײַנען אויך צו צײלן.
+- **עסט צוזאַמען**, װען איר קענט. מאָלצײטן זענען אַ געלעגנהייט פֿאַר חברשאַפֿט, נישט אַ אַרבעט װאָס מען דאַרף אײַלן.
+- **פּרובירט פֿינגער־עסן**, אַזױ װי זאַנדװיטשן, פּירות־שטיקלעך אָדער הינערפֿלײש־שטיקלעך, אױב בנוצן בסכּום איז שװער געװאָרן.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+אונדזער [דיעט־גײד](/brain-health/diet/) האָט מער מאָלצײט־אידייען. העלפֿן צוגרייטן עסן קען אויך זײַן אַ אָנגענעם געמײנזאַמע טעטיקײט; זעט [הױזהאַלטונג־אַרבעט](/activities/household-tasks/).
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+בעװאָר איר פּרובירט אַ פֿאַסטן־פּלאַן אַליין, רעדט מיט אײער דאָקטער אָדער רעגיסטרירטן דיעטאָלאָג, באַזונדערס אױב איר נעמט מעדיצינען פֿאַר צוקערקרענק אָדער בלוטדרוק, האָט לעצטנס פֿאַרלױרן געװיכט, אָדער האָט געהאַט פֿאַלן. פֿאַר עמעצן װאָס לעבט מיט דעמענץ, פֿרעגט זײַן דאָקטער װי פֿיל ער זאָל עסן און טרינקען יעדן טאָג, אַנשטאָט װעגן פֿאַסטן.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+באַקומט דרינגענדיקע הילף פֿאַר פּלוצעמדיקער צעמישונג, פֿאַרלוסט פֿון באַוווּסטזײַן, אָדער סימנים פֿון זייער נידעריקן בלוט־צוקער, װאָס זיך נישט פֿאַרבעסערן גיך.

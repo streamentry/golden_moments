@@ -1,35 +1,30 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Hetsika sy lalao ho an'ny olona manana Alzheimer"
+seoTitle: "Hetsika sy lalao Alzheimer: hevitra araka ny dingana"
+description: "Hetsika sy lalao ho an'ny olona manana Alzheimer isaky ny dingana, mifototra amin'ny fahaiza-manao sy fahatsiarovana mitoetra, miaraka amin'ny lalao maimaimpoana."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Ny hetsika tsara ho an'ny olona manana Alzheimer dia mifototra amin'izay mitoetra kokoa: fahaiza-manao efa nampiharina ela, hira taloha, asa an-trano mahazatra ary ny fahatsapana. Tany am-boalohany, ny karatra, lalao an-tabilao, kari-mofo na fitsangantsangana matetika mbola mety. Ao anatin'ny dingana antonony, afaka mandrafitra, mamaritra, mihira, mitazona sarin-tsary ary milalao sary tsotra. Any amin'ny faran'ny aretina, ny mozika, ny fikasihana malefaka ary ny fiaraha-monina no zava-dehibe. Mijery izay tian'ny olona ankehitriny.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer no antony matetika indrindra amin'ny demensia, ka ny hevitra momba ny hetsika demensia dia mihatra amin'ny Alzheimer koa."
+  - "Ny vaovao vaovao no matetika sarotra indrindra voalohany, fa ny fahaiza-manao sy hira efa nianarana ela matetika mitoetra kokoa. Mifototra amin'izany."
+  - "Mifandray ny dingana ary ny andro tsara sy sarotra dia mahazatra. Safidio araka izay mahay ataon'ny olona sy izay tiany ankehitriny."
+  - "Misafidiana lalao tsy misy famaritra fotoana, isa na fanontaniana, ary avelao hiseho ny sary."
+  - "Ny fijerena, fitazonana zavatra na fipetrahana miaraka dia manisa ho anisan'ny fandraisana anjara."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Inona no hetsika tsara ho an'ny olona manana Alzheimer?"
+    a: "Hetsika mahazatra nosatroina kely: fanaovana lamba, fametrahana ny latabatra, fikarakarana sakafo miaraka, mozika sy hira, fijerena sary, fitsangantsangana, fikarakarana zaridaina ary fotoana miaraka amin'ny biby fiompy. Lalao sary tsotra, jiozily mora ary karatra resaka koa mety amin'ny olona maro. Safidio izay tia nataon'ny olona hatrizay ary ataovy miaraka aminy."
+  - q: "Mahasoa ho an'ny olona manana Alzheimer ve ny lalao?"
+    a: "Mety ho fomba mahafinaritra hiaraha-mandany fotoana ny lalao raha tia izany ny olona. Tsy misy lalao naseho ho manambana, mampiadana na mampijanona ny Alzheimer, ka safidio lalao ho fahafinaretana: sary lehibe, safidy vitsy ary tsy misy famaritra fotoana, isa na feo diso."
+  - q: "Misy fahasamihafana ve eo amin'ny hetsika demensia sy hetsika Alzheimer?"
+    a: "Matetika tsia. Ny aretin'ny Alzheimer no antony matetika indrindra amin'ny demensia, ary mihatra amin'izy ireo ny hevitra hetsika mitovy. Ny zavatra mahasoa amin'ny Alzheimer dia ny fahalalana fa matetika very aloha ny fahatsiarovana vao haingana, ka ny hetsika mifototra amin'ny fahaiza-manao, hira sy fomba mahazatra fahatany dia matetika mandeha tsara kokoa."
+  - q: "Inona no mety ho fahafinaretan'ny olona manana Alzheimer mafy?"
+    a: "Mozika tia azy, fikasihana malefaka amin'ny tanana, zavatra malemy hitanana, famakiana feno fitaovana, fipetrahana any ivelany, ary fiaraha-monina amin'ny olona azo itokisana. Ataovy fohy sy mangina, ary jereo ny tarehiny sy ny vatany mba hahitana izay tiany."
+  - q: "Ahoana no hahasahiranako ny olona manana Alzheimer hanao hetsika?"
+    a: "Mangataha fanampiana fa tsy mampahafantatra hetsika, apetraho aloha ny zavatra rehetra, ary atombohy ianao mba ahafahany miditra. Ny fotoana amin'ny andro izay tsara indrindra ho azy dia mahatonga fahasamihafana lehibe. Raha manolotra tsy fanekena izy, andramo indray any aoriana na omeo kely kokoa ny hetsika."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +49,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Raha misy olonao tianao manana Alzheimer, azo antoka fa efa nahita ianao fa misy zavatra miala haingana fa misy kosa mitoetra. Mety very ho azy ny antso telefaona nataony androany, fa mbola mihira ny hira rehetra amin'ny fiderana, mamelona lamba toy ny nataony mandrakariva, na mizara karatra amin'ny fomba tsy misy fisainana. Ny hetsika tsara dia mifototra amin'ireo fahaiza-manao mitoetra ireo. Ity pejy ity dia manazava ny antony ary manome hevitra ho an'ny dingana tsirairay sy ny lalao malalaka eto amin'ny tranokala izay mifanaraka amin'ireo.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Mahasamihafa ve ny Alzheimer amin'ny demensia raha miresaka momba ny hetsika?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Tsy dia be. Ny demensia no teny ankapobeny, ary ny aretin'ny Alzheimer no antony matetika indrindra amin'izany: ny [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dia milaza fa izy no mahatonga 60 ka hatramin'ny 80 isan-jato amin'ny tranga demensia. Saika ny zavatra rehetra voasoratra momba ny hetsika ho an'ny demensia dia mihatra amin'ny Alzheimer, anisan'izany ny [hevitra hetsika 101](/activities/ideas/) eto amin'ny tranokala.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Ny zavatra ilaina ho fantatra dia ny filaharan'ny fiovana matetika. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) dia manazava fa ny Alzheimer dia mandrava aloha ny faritra ao amin'ny ati-doha mifandray amin'ny fahatsiarovana, ary taty aoriana dia misy fiantraikany amin'ny fiteny, fisainana ary fitondrantena ara-tsosialy. Ny Alzheimer's Association dia milaza fa ny famantarana tany am-boalohany matetika indrindra dia ny sarotra amin'ny fahatsiarovana vaovao nianarana. Samy hafa ny olona ary mety misy antony maro miaraka amin'ny aretina iray, fa io lamina io dia mamaritra izay matetika mahomby.
 
-## What kinds of activities suit Alzheimer's best?
+## Inona karazana hetsika no mety amin'ny Alzheimer indrindra?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Ny hetsika mifototra amin'ny fahalalana efa nampiharina ela matetika mandeha tsara kokoa noho ny hetsika mitaky zavatra vaovao hianarana sy hatsiahivina.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Fahaiza-manao efa nampiharina ela.** Ny Alzheimer's Association dia manamarika fa ny olona iray mety mbola milalao hira tsotra nianarany tamin'ny piano taona maro lasa. Ny fanjaitra, fanatsifana vato, fanerena karatra ary fanaovana mofo dia mitovy amin'izany.
+- **Hira taloha sy mozika mahazatra.** Olona maro mbola mahalala ny teny rehetra amin'ny hira tamin'ny fahazazany sy fahalehibieny, ny hira fiderana ary ny hira tamin'ny fampakaram-bady. Jereo ny [hetsika mozika](/activities/music/).
+- **Asa andavanandro misy tanjona.** Ny [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manisa ny fanasana vilia, fametrahana ny latabatra, fanasokajiana sakosako sy fanaovana lamba ho anisan'ny hetsika mety ho tiantsika. Mahatonga ho manan-danja ny fahatsapana fa mahasoa ny olona.
+- **Mahatsiaro fa mifanaraka, tsy mitady ny nahatsiaro.** Ny fanondrana sary mifanaraka dia mora kokoa noho ny fitadiavana ny anarany amin'ny fahatsiarovana. Izany no mahatonga ny lalao sary miaraka amin'ny zavatra rehetra hita dia mahomby kokoa noho ny fanontaniana.
+- **Ny fahatsapana.** Ny rindrina, ranomaso, hafanana, tsiro ary feo mitoetra manan-danja na dia sarotra amin'ny teny aza ny fanehoana. Jereo ny [hetsika fahatsapana](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Ny zavatra tsy dia mahomby: izay misy famantaranandro, fitsipika vaovao hianarana, dingana maro hatsiahivina, na fanontaniana mitsapa ny fahatsiarovana, toy ny hoe "Tadidinao ve hoe iza ity?". Ireo dia mampiseho ny ampahany sarotra amin'ny Alzheimer eo afovoany.
 
-## Activities for early-stage Alzheimer's
+## Hetsika ho an'ny Alzheimer tany am-boalohany
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Tany am-boalohany, ny [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) dia milaza fa ny olona mbola mety mitondra fiara, miasa ary mandray anjara amin'ny hetsika ara-tsosialy, fa mahatsikaritra ny fahadisoana amin'ny fahatsiarovana toy ny fahadiovana ny teny mahazatra na ny toerana misy ny zavatra. Ny fomba tsara dia ny fiaraha-miasa: anontanio izay tiany hohazonina sy ny fanampiana tiany.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Mitazona ny fisoronana mahazatra.** Golf, bridge, fandrafetana lamba, kora sy vondrona eglizy, miaraka amin'ny fanitsiana kely toy ny vondrona kely kokoa sy fotoana mangina kokoa.
+2. **Milalao karatra sy lalao an-tabilao mahazatra.** Ny [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) dia manisa lalao fahalalana, tadiavo teny, lalao karatra ary lalao an-tabilao ho an'ny dingana tany am-boalohany. Milalao ho ekipa raha mahasosotra azy ny fanisana, na aoka tsy hisy isa mihitsy.
+3. **Mikarakara sakafo miaraka.** Omeo azy hitarika fomba fanamboarana fantany an-tsaina, raha ianao kosa mamaky ny dingana.
+4. **Atombohy tetikasa tantaram-piainana.** Sary, fomba fanamboarana sakafo sy tantara amin'ny boky fitehirizana, izay ataony. Jereo ny [hetsika fahatsiarovana](/activities/reminiscence/).
+5. **Mandehana any ivelany.** Trano fisakafoanana tiany amin'ny ora mangina, tranainy fitsidihana fohy, na fitsangantsangana any amin'ny valan-javaboary.
+6. **Andramo ny jiozily safidin'ny olona.** Crossword lehibe-soratra, fitadiavana teny ary jiozily. Jereo ny [jiozily ho an'ny demensia](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Fanampiny: [hetsika ho an'ny dingana tany am-boalohany](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Hetsika ho an'ny Alzheimer ao anatin'ny dingana antonony
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Ny Alzheimer's Association dia manazava ny dingana antonony ho dingana matetika lava indrindra, ary mety maharitra taona maro. Mivangongo ny teny, mora tezitra ny olona ary mila fikarakarana bebe kokoa izy. Ny Alzheimer's Foundation of America dia manampy fa olona maro mila fanampiana hanombohana na hitohizana hetsika. Ny andraikitrao dia miova ho amin'ny fametrahana ny zavatra, fampisehoana fa tsy fanazavana, ary fandraisana ny asa sarotra.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Fanjaitra, fanasokajiana ary fanamboarana.** Lamba, sakosako, fanjaitra, bokotra araka ny lokony. Asa tena izy, ataovy miaraka.
+2. **Hira sy fihetsika amin'ny mozika.** Mikapoka tanana, mihodina na mihazakazaka an-tranon-kafe. Manomboka mihira ianao ary avelao hiditra ny olona.
+3. **Mijery albom sary.** Milaza izay hitanao sy mangataha tantara: "Fiara tsara ity. Lazao ahy momba azy." Manaraka izay anarana ampiasainy.
+4. **Milalao lalao sary tsotra.** [Picture pairs](/games/picture-pairs/) miaraka amin'ny kisary efatra ka hatramin'ny enina sy sary mijanona aseho, na [Find the same](/games/find-the-same/) miaraka amin'ny safidy roa na telo.
+5. **Mamita ohabolana mahazatra.** "Paoma isan'andro manala ny..." Ohabolana nianarana ela matetika tonga mora. Andramo [Finish the saying](/games/finish-the-saying/), izay ahafahanao mampiseho ny farany amin'ny fikitikitana iray.
+6. **Mitondra sy mikarakara zavamaniry.** Vilany ao an-trano na tanimboaloboka ambony, miaraka amin'ny vilia rano kely.
+7. **Manao lalao mifanandrify avy amin'ny sary an-tsehatra.** [Photo pairs](/games/photo-pairs/) dia mampiasa sary safidinao ao amin'ny fitaovanao, ary tsy mivoaka amin'ny fitaovana izany.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Fanampiny: [hetsika ho an'ny dingana antonony](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Hetsika ho an'ny Alzheimer any amin'ny faran'ny dingana
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Ao amin'ny faran'ny dingana, ny Alzheimer's Association dia milaza fa ny olona very ny fahaizana mihetsika amin'ny tontolo misy azy sy mitohy resaka, na dia mbola mety miteny teny na fehezanteny kely aza izy. Ny hetsika izao dia midika fahamasinana sy fifandraisana, entina any amin'ny toerana misy ny olona mitsahatra.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Milalao ny mozika tiany** amin'ny feo mangina, tsy misy TV mifaninana.
+2. **Omeo fikasihana tanana** miaraka amin'ny menaka misy tsiro tiany.
+3. **Omeo zavatra malemy hitanana:** kobaka mafana, fleece, vato malemy.
+4. **Vakio mahitsy** salamo, tononkalo na tantara mahazatra. Ny fitokonan'ny teny no zava-dehibe kokoa noho ny dikany.
+5. **Mipetraka any ivelany** eo amin'ny ando, na eo akaikin'ny varavarankely misy vorona hojerena.
+6. **Mijery sary lehibe iray miaraka.** Voninkazo tsy hay na alika mameno efijery finday, miaraka amin'ny filazanao izay hitanao.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Fanampiny: [hetsika ho an'ny dingana farany](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Inona lalao no mety amin'ny olona manana Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Safidio lalao tsy misy azo lany. Ny lalao rehetra eto amin'ny tranokala dia maimaimpoana, mandeha ao amin'ny mpitety ary tsy misy famaritra fotoana, isa na fisoratana anarana.
 
-| Game | What you do | Often suits |
+| Lalao | Inona no ataonao | Matetika mety amin' |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Mifanandrify sary lehibe; azo atao mijanona miseho ny sary | Dingana tany am-boalohany sy antonony |
+| [Find the same](/games/find-the-same/) | Tsindrio ny sary mifanaraka amin'ny iray eo ambony | Dingana antonony sy farany, miaraka amin'ny fanampiana |
+| [Finish the saying](/games/finish-the-saying/) | Safidio ny teny farany amin'ny ohabolana mahazatra, na asehoy izany | Dingana tany am-boalohany sy antonony |
+| [Picture puzzle](/games/picture-puzzle/) | Ampitoviho ny tapa-kazo 4 na 9 amin'ny toerany, miaraka amin'ny sary aseho | Dingana tany am-boalohany sy antonony |
+| [Conversation cards](/games/conversation-cards/) | Sary iray sy fanentanana malalaka hiresahana momba azy | Dingana rehetra, miaraka amin'ny olona hiresaha |
+| [Photo pairs](/games/photo-pairs/) | Lalao mifanandrify avy amin'ny sary-nao manokana | Dingana tany am-boalohany sy antonony |
+| [Coloring](/games/coloring/) | Tsindrio loko iray, avy eo ampahany amin'ny sary; na atontoy izany | Dingana rehetra, miaraka amin'ny fanampiana |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Ho an'ny fomba fipetrahana miaraka, hoe ahoana ny fanampiana sy rahoviana no hijanonana, vakio ny [fomba hilalaovana miaraka amin'ny olona manana demensia](/caregiving/how-to-play-together/). Raha mieritreritra ny "lalao fahatsiarovana" ianao, jereo ny [lalao fahatsiarovana ho an'ny olon-antitra manana demensia](/activities/memory-games/).
 
-## How to make any activity easier
+## Ahoana no hanamorana ny hetsika rehetra
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Ny torolalan'ny NIA dia mifanolo-bodirindrina amin'ny fomba vitsy: mifanaraka ny hetsika amin'izay ahafahan'ny olona, manampy azy hanomboka, mijery ny fahasosorana, ataovy azo atao ho tafiditra ny fahombiazana, ary avelao hijery fotsiny raha izany no tiany.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Safidio ny fotoana tsara indrindra amin'ny olona,** ary ataovy fohy ny fotoana.
+- **Apetraho aloha ny zavatra rehetra** mba ahafahanao manomboka avy hatrany.
+- **Mangataha, aza mampianatra.** "Afaka manampy ahy ve ianao?" dia mahomby kokoa noho ny "Ny fotoana hanaovana hetsika ankehitriny."
+- **Ataovy ianao ny dingana voalohany** ary avelao hiditra ny olona.
+- **Omeo dingana iray sy safidy iray isaky ny indray mandeha.**
+- **Avelao hatao amin'ny fomba azy.** Ny lamba mirehitra tsy mitovy dia tsy mahasosotra.
+- **Mitsahatra raha mbola mahafinaritra.** Ny fanapahana aloha dia valiny tsara, tsy fahadisoana. Raha manolotra tsy fanekena izy, jereo ny [rahoviana no misy olona manana demensia milaza tsia](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+Ny [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dia milaza amin'ny teny tsotra: mifantoha amin'ny fahafinaretana, fa tsy amin'ny fahombiazana.

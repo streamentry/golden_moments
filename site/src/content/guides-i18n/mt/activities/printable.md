@@ -1,33 +1,32 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Attivitajiet tad-dimenzja għall-istampa, b’xejn"
+seoTitle: "Attivitajiet stampabbli tad-dimenzja: Kitba kbira"
+description: "Attivitajiet stampabbli b’xejn għad-dimenzja: kliem moħbi b’ittri kbar, paġni tal-kulur, karti tal-konverżazzjoni u bingo tar-ritratti, u kif tistampahom tajjeb."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments joffri attivitajiet stampabbli b’xejn għad-dimenzja: logħba tal-kliem b’ittri
+  kbar, paġni tal-kulur, karti tal-konverżazzjoni u karti tal-bingo tar-ritratti. Iftaħ kull paġna
+  tal-logħba u uża l-buttuna Print. Stampa b’kitba kbira u sempliċi fuq karta ħoxna, żomm attività
+  waħda f’kull paġna, u laminaw il-paġni li trid terġa’ tuża. Karti dari sempliċi, bħal paġna tal-
+  istorja tal-ħajja jew skeda ta’ kuljum, jgħinu wkoll.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "L-attivitajiet stampabbli tagħna huma b’xejn: Word Search, Coloring, Conversation Cards u Picture Bingo. Kull paġna tal-logħba fiha buttuna Print."
+  - "Stampa b’kitba kbira u sempliċi b’kuntrast qawwi, u żomm attività waħda f’kull paġna."
+  - "Karta ħoxna hija aktar faċli biex tinżamm u aktar diffiċli biex tinkmex. Laminaw il-paġni biex terġa’ tużahom b’markers li jitħassru."
+  - "Oġġetti dari sempliċi, bħal paġna tal-istorja tal-ħajja, skeda ta’ kuljum jew tikketti tar-ritratti għall-bibien, huma sempliċi u utli."
+  - "Paġna stampata hija stedina, mhux homework. Li tagħmel parti minnha, jew xejn minnha, huwa tajjeb."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "L-attivitajiet stampabbli tad-dimenzja tagħkom huma b’xejn?"
+    a: "Iva. Il-paġni tal-Word Search, Coloring, Conversation Cards u Picture Bingo fuq dan is-sit huma b’xejn biex tuża u tistampa. Iftaħ il-paġna tal-logħba u uża l-buttuna Print."
+  - q: "Liema attivitajiet stampabbli huma l-aħjar għad-dimenzja?"
+    a: "L-aħjar stampabbli huma sempliċi, ċari u għall-adulti: logħba tal-kliem b’ittri kbar bil-kliem biss fuq u isfel, paġni tal-kulur b’kontorni ċari, karti tar-ritratti li jibdew konverżazzjoni, u bingo tar-ritratti għal gruppi. Aqbel l-attività mal-interessi u l-abilitajiet attwali tal-persuna, u żomm attività waħda f’kull paġna."
+  - q: "Kif nagħmel l-istampabbli aktar faċli biex jidhru u jintużaw?"
+    a: "Uża kitba kbira u sempliċi, linka skura fuq karta bajda jew krema, u ħafna spazju. Stampa fuq karta ħoxna jew cardstock biex il-paġna tibqa’ ċatta, agħżel karta opaka biex tnaqqas il-brillanza, u uża clipboard jew materassin li ma jiżix biex il-paġna tibqa’ waqfa. Il-laminazzjoni tgħin biex il-paġni jdumu."
+  - q: "Nista’ nistampa l-attivitajiet tagħkom għal dar tal-kura jew programm tal-jum?"
+    a: "Iva. Il-persunal tal-attivitajiet huma mistiedna jistampaw il-paġni tagħna għall-residenti u għall-gruppi. Picture Bingo hija mfassla għal gruppi u fiha caller fuq l-iskrin li tista’ turi fuq TV jew projector."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +51,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Xi drabi l-aħjar attività hija pakkett ta’ karta u pinna fuq il-mejda tal-kuċina. L-istampabbli ma jeħtiġux iċċarġjar, password jew skrin, u huma sempliċi biex jinġiebu f’żjara jew f’grupp. Din il-paġna tiddeskrivi l-attivitajiet stampabbli b’xejn fuq is-sit tagħna, kif tistampahom biex jidhru u jinżammu faċilment, u ftit stampabbli sempliċi magħmula d-dar li l-familji u l-persunal tal-attivitajiet isibuhom utli.
 
-## What free printable activities do you offer?
+## Liema attivitajiet stampabbli bla ħlas tagħmlu?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Noffru erba’ stampabbli b’xejn. Iftaħ xi waħda minn dawn il-paġni tal-logħba u uża l-buttuna **Print** biex tikseb verżjoni lesta għall-istampa.
 
-| Printable | What it is | Good for |
+| Stampabbli | X’inhu | Tajjeb għal |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Logħba tal-kliem b’ittri kbar bil-kliem biss fuq u isfel | Ħin kwiet b’pinna; min dejjem gawda l-logħbiet |
+| [Coloring](/games/coloring/) | Paġni tal-kulur biex tistampa, jew biex tikkulura fuq l-iskrin | Ħin rilassat u kreattiv; kull stadju bl-għajnuna |
+| [Conversation Cards](/games/conversation-cards/) | Karti tar-ritratti b’stedini miftuħa, mingħajr eżami, skont it-tema | Żjarat, sejħiet, ikliet tal-familja, gruppi tat-tfakkir |
+| [Picture Bingo](/games/picture-bingo/) | Kartolini tal-bingo bi ritratti minflok numri, flimkien ma’ caller fuq l-iskrin | Djar tal-kura, programmi tal-jum, laqgħat tal-familja |
 
-### Large-print word search
+### Word search b’ittri kbar
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) juża ittri kbar u jżomm il-kliem biss fuq u isfel, mingħajr dijagonali jew kliem lura. Aħdmu flimkien: persuna waħda taqra kelma mil-lista, l-oħra tfittixha. Jekk isib kliem diffiċli, ipprova tiċċirkonda flimkien l-ewwel ittra ta’ kull kelma, jew sempliċiment aqra l-lista tal-kliem b’leħen għoli u titkellmu dwar kull kelma.
 
-### Coloring pages
+### Paġni tal-kulur
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) paġni jistgħu jiġu stampati għal markers jew lapes tal-kulur, jew jiġu kkuluriti fuq tablet billi tmess kulur, imbagħad parti mir-ritratt. Għal paġni stampati, offri markers ħoxnin u ftit kuluri kull darba. Ara l-[gwida tagħna dwar l-arti u l-kraft](/activities/arts-and-crafts/) biex iż-żamma tal-kulur tibqa’ għall-adulti u rilassata.
 
-### Conversation cards
+### Karti tal-konverżazzjoni
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) jgħaqqdu ritratt ċar ma’ stedina miftuħa, bħal “Għidli dwar...” jew “X’tinnota?” Huma miktubin bħala stedini miftuħin, mhux mistoqsijiet ta’ eżami. Stampa sett, aqta’ l-karti, u żomm ftit f’borża għaż-żjarat jew qrib it-telefon għas-sejħiet. Jaħdmu tajjeb ukoll f’gruppi ta’ [tfakkir](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kartolini tal-bingo tar-ritratti
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) kartolini jużaw ritratti minflok numri. Stampa kartolina waħda għal kull plejer u uża l-caller fuq l-iskrin fuq laptop, TV jew projector. Nissuġġerixxu li ssejjaħ sakemm kull kartolina tkun mimlija, sabiex ħadd ma jitħalla barra. Ara [attivitajiet ta’ grupp għad-djar tal-kura](/activities/care-home-groups/) biex tmexxi sessjoni.
 
-## How do I print activities so they are easy to use?
+## Kif tistampa l-attivitajiet biex ikunu faċli biex jintużaw?
 
-Small changes in how you print make a big difference.
+Bidliet żgħar fil-mod kif tistampa jagħmlu differenza kbira.
 
-### Make it easy to see
+### Ħalli jkun faċli biex tara
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Kitba kbira u sempliċi.** Uża l-akbar issettjar tal-istampa li jibqa’ jidħol fil-paġna. Evita fonts elaborati jew bħal skrittura bl-id.
+- **Kuntrast qawwi.** Linka skura fuq karta bajda jew krema. Evita sfondi griżi ċari jew kuluri.
+- **Karta opaka** tnaqqas il-brillanza, speċjalment f’dawl qawwi.
+- **Iċċekkja l-nuċċali u d-dawl.** L-Alzheimer’s Association jgħid li problemi tal-vista u tas-smigħ jistgħu jagħmlu l-komunikazzjoni aktar diffiċli, u jissuġġerixxi li jiġu ċċekkjati regolarment. Dawl sħiħ u uniformi jgħin ukoll.
 
-### Make it easy to hold
+### Ħalli jkun faċli biex iżżomm
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Karta ħoxna jew cardstock** tibqa’ ċatta, hija aktar faċli biex tinqabad u tiflaħ għal użu ripetut.
+- **Clipboard** jew mat tal-mejda li ma jiżix iżomm il-paġna milli titħabba.
+- **Markers ħoxnin jew lapes tqal** huma aktar faċli biex jinqabdu minn pinen irqaq.
 
-### Make it reusable
+### Ħalli jkun reużabbli
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Laminat il-paġni** jew idħolhom f’protettur ċar tal-fojl. Uża markers li jitħassru fuq il-word searches u l-kartolini tal-bingo, imbagħad inixxef.
+- **Agħżel pakketti opachi** jekk il-brillanza tkun problema, u **tond il-kantunieri** tal-karti laminati bil-maqas sabiex ikunu komdi biex jinħadmu.
+- **Żomm folder** bil-favoriti sabiex ma tkunx qed tistampa l-istess paġna kull ġimgħa.
 
-### Keep it simple
+### Żommha sempliċi
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Attività waħda f’kull paġna.** Word search waħda jew ritratt wieħed, mhux diversi attivitajiet imdaħħla flimkien.
+- **Ħafna spazju abjad.** Paġna mħawda tista’ tħossha sopraffatta.
+- **L-ebda struzzjonijiet biex taqra, fejn ikun possibbli.** Uri lill-persuna x’għandha tagħmel minflok.
+- **Naqqas id-daqs tal-paġna.** Jekk paġna sħiħa tkun wisq, aqsamha f’nofs jew ittewwiha biex jidher biss parti minnha.
 
-## Other useful printables you can make at home
+## Stampabbli oħra utli li tista’ tagħmel fid-dar
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Mhux kull stampabbli utli hija logħba. Dawn huma sempliċi biex tagħmilhom b’word processor u printer.
 
-### A life-story page
+### Paġna tal-istorja tal-ħajja
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Paġna waħda bl-intestatura “Dwar din il-persuna”, b’ritratt, l-isem li l-persuna tħobb tissejjaħ bih, fejn trabbiet, ix-xogħol tagħha, il-familja, l-ikliet favoriti, il-mużika u dak li jfarraġha jew iniqqsilha. Dementia Australia jissuġġerixxi [ktieb tal-memorja](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) b’dettalji dwar il-ħajja, l-interessi u n-nies importanti tal-persuna, biex jgħin lill-viżitaturi u lil dawk li jieħdu ħsieb, u biex iqajjem konverżazzjoni.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Huwa partikolarment utli f’sptar u f’setturi ġodda tal-kura. In-NIA jirrakkomanda li tagħti lill-persunal tal-isptar [fuljett ta’ informazzjoni personali](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) li jkopri r-rutina tal-persuna, l-isem preferut, il-preferenzi u dak li ma jogħġobhiex, dak li jista’ jqajjem l-inkwiet, u sinjali mhux verbali ta’ uġigħ.
 
-### A daily schedule
+### Skeda ta’ kuljum
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Skeda kbira u sempliċi għall-ġurnata bil-ħinijiet, ftit kliem u stampa żgħira għal kull parti: kolazzjon, mixja, pranzu, mistrieħ, mużika, ikla. Il-[pjan ta’ kuljum](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) tal-Alzheimer’s Association jissuġġerixxi li tippjana madwar l-aħjar ħinijiet tal-ġurnata tal-persuna, bil-qawmien u l-irqad regolari u bilanċ bejn l-attività u l-mistrieħ. Poġġiha fl-altezza tal-għajnejn, pereżempju fuq il-friġġ, u żommha flessibbli. Ara l-[gwida tagħna dwar ir-rutina ta’ kuljum](/activities/daily-routine/) għal aktar.
 
-### Picture labels for rooms and drawers
+### Tikketti tar-ritratti għall-kmamar u l-kexxuni
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+In-NIA jissuġġerixxi li tuża sinjali b’kuluri ħerġin jew ritratti sempliċi biex [tikkettja l-kamra tal-banju, il-kamra tal-irqad u l-kuċina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). L-istess idea taħdem għall-kexxuni u l-kabinetti: ritratt ta’ kalzetti fuq il-kexxun tal-kalzetti, tazzi fuq il-kabinett tat-tazzi. Stampa, laminat u waħħal.
 
-### A sorting set
+### Sett tal-qsim
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Stampa ritratti minn żewġ kategoriji sempliċi, bħal frott u fjuri jew għodda u oġġetti tal-kuċina, fuq cardstock. Aqta’ them u aqsamhom f’żewġ basketti flimkien. Il-verżjoni fuq l-iskrin ta’ dan hija [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Paġni bil-kliem tal-kanzunetti
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Stampa l-kliem ta’ ftit kanzunetti favoriti b’kitba kbira ħafna għal kant flimkien. Anke nies li ma jaqrawx ħafna jistgħu jgawdu li jżommu l-paġna.
 
-### A family photo page
+### Paġna ta’ ritratti tal-familja
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Paġna waħda b’erba’ sa sitt ritratti kbar tal-familja, u kull wieħed b’isem taħtu. Tista’ titpoġġa fuq il-mejda biex ħadd jista’ jieħdha u jitkellem dwarha. It-tikketti jgħinu lill-viżitaturi u lill-persunal jingħaqdu fil-konverżazzjoni, u ħadd ma jkollu jistaqsi “Min hu dan?”
 
-### A recipe card
+### Karta tal-wasfa
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Stampa wasfa favorita tal-familja b’kitba kbira. Uża biex issajjar flimkien, jew sempliċiment biex titkellmu dwar ikliet tal-passat.
 
-## How do I offer a printable without it feeling like homework?
+## Kif noffri stampabbli mingħajr ma tħossu bħal homework?
 
-Present it as something to share, not a test.
+Ippreżentaha bħala ħaġa li tinqasam, mhux test.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Oqgħod bilqiegħda u ibda int.** “Qed nagħmel dan il-word search. Tixtieq tgħinni nsib ‘ġnien’?”
+- **Ħadmu flimkien.** Ħu t-turn, jew wieħed isib u l-ieħor jiċċirkonda.
+- **Qatt ma timmarka sew jew ħażin.** Il-gwida tal-Alzheimer’s Association dwar [attivitajiet fid-dar](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) tagħti parir biex tiffoka fuq il-proċess, mhux fuq ir-riżultat, u fuq il-pjaċir aktar milli fuq il-kisba.
+- **Ħalli l-paġni barra.** L-istess gwida tissuġġerixxi li tpoġġi albums tal-ritratti, scrapbooks jew magażins tal-qadim f’postijiet li jintlaħqu faċilment. Kartolini stampati u paġni tar-ritratti jistgħu jkunu fuq mejda ta’ ġenb bl-istess mod.
+- **Waqqaf kull meta trid.** Nofs paġna tal-kulur hija pomeriġġ tajjeb. Hekk huwa wkoll li titpoġġa l-paġna lura u tieħu tazza tè.
 
-## Where to find more
+## Fejn issib aktar
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Ara [il-logħbiet u l-istampabbli kollha tagħna](/games/), jew ara [attivitajiet għal kull stadju](/activities/ideas/) għal aktar ideat, bil-karta u mingħajrha.

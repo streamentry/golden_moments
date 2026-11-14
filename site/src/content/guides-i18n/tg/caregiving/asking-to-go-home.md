@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Вақте касе бо деменсия пайваста мепурсад, ки ба хона равад"
+seoTitle: "Деменсия: пайваста мехоҳад ба хона равад, чӣ гӯем"
+description: "Чаро шахси бо деменсия ҳатто дар хона ба хона рафтанро металабад, чӣ гуфтан, фаъолиятҳои оромкунанда ва чӣ тавр ӯро бехатар нигоҳ доштан."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Вақте касе бо деменсия пайваста мепурсад, ки ба хона равад, «хона» аксар маънои ҳисси
+  бехатарӣ ё ҷойеро аз гузашта дорад, на бино. Баҳс накунед, ки онҳо дар хонаанд. Ҳиссро
+  эътироф кунед, ором кунед, ки бехатаранд, дар бораи хона пурсед, баъд оҳиста ба аксҳо,
+  мусиқӣ, газак, сайр ё корҳои оддӣ гузаред. Гуруснагӣ, ташнагӣ, ҳоҷатхона ё дардро санҷед.
+  Агар ногаҳон оғоз шавад, ба духтури онҳо занг занед.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Ман мехоҳам ба хона равам» аксар маънои «ман худро бехатар ва ором ҳис намекунам»-ро дорад, на дархости суроға."
+  - "Баҳс кардан ё исбот кардани он ки онҳо дар хонаанд, одатан изтиробро бадтар мекунад. Ба ҷои он ба ҳисс посух диҳед."
+  - "Аз онҳо хоҳиш кунед, ки дар бораи хона нақл кунанд, баъд аксҳо, мусиқӣ, газак, сайр ё корҳои оддиро пешниҳод кунед."
+  - "Чизеро, ки ислоҳшаванда аст, санҷед: гуруснагӣ, ташнагӣ, ҳоҷатхона, дард, хеле гарм ё хунук будан, садо, хастагӣ."
+  - "Агар ҳар бегоҳи барвақт рӯй диҳад, шояд беқарории бегоҳӣ бошад; тартиби устувор ва равшании хуб метавонад кумак кунад."
+  - "Агар онҳо кӯшиш кунанд берун раванд, бехатариро банақша гиред ва дар бораи ҳар тағйири ногаҳонӣ ба духтурашон занг занед."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Чаро модари ман бо деменсия пайваста мепурсад, ки ба хона равад, дар ҳоле ки дар хона аст?"
+    a: "Деменсия метавонад ҳуҷраҳои шиносро ғайриоддӣ ҳис кунонад ва одамон баъзан эҳсос мекунанд, ки дар давраи пештари зиндагӣ ҳастанд. «Хона» шояд хонаи кӯдакӣ ё танҳо ҳисси бехатарӣ ва бароҳатӣ бошад. Посух додан ба ин ҳисс одатан беҳтар аз нишон додани ҷойи ӯ кор мекунад."
+  - q: "Вақте мепурсанд, ки ба хона раванд, чӣ гӯям?"
+    a: "Кӯшиш кунед: «Шумо дар ин ҷо бехатаред ва ман бо шумо мемонам», баъд «Дар бораи хонаатон ба ман бигӯед». Гӯш кунед, акс ё суруд нишон диҳед ва нӯшокӣ ё сайри кӯтоҳ пешниҳод кунед. Аз «Шумо дар хонаед», ки ҳамчун ислоҳ гуфта мешавад, худдорӣ кунед, зеро он метавонад чунин ҳис шавад, ки ба онҳо мегӯянд, ки хато мекунанд."
+  - q: "Оё гуфтан, ки баъдтар ба хона меравем, дуруст аст?"
+    a: "Оилаҳо ва ташкилотҳои деменсия дар ин бора фарқ мекунанд. Бисёриҳо аз тасаллои ростгӯёна ва равона кардан оғоз мекунанд ва дурӯғи мулоимро барои лаҳзаҳое нигоҳ медоранд, ки ҳақиқат танҳо изтиробе меорад, ки шахс аз он гузашта наметавонад. Ҳар чӣ интихоб кунед, меҳрубон ва устувор бошед ва ҳеҷ гоҳ ҳисси воқеияти онҳоро масхара накунед."
+  - q: "Агар онҳо кӯшиш кунанд аз хона бароянд, чӣ?"
+    a: "Ором бимонед ва бо онҳо қадам занед, на роҳи онҳоро банд кунед; сайри кӯтоҳ аксар майлро ором мекунад. Қадамҳои бехатариро пешакӣ андешед, масалан дастбанди шиносоӣ, занги дар ва акси наздикӣ. Агар шахс гум шавад, ҷойҳои бехатари наздикро санҷед ва ҳамзамон фавран бо полиси маҳаллӣ ё хидматҳои фавқулодда тамос гиред. Дар интизори муддати муайяни дақиқаҳо пеш аз хабар додан набошед."
+  - q: "Кай ба духтур занг занам?"
+    a: "Агар пурсиш ё парешонӣ ногаҳон оғоз шавад ё дар давоми соатҳо ё рӯзҳо хеле бадтар шавад, хусусан бо таб, доруи нав ё нишонаҳои сирояти роҳҳои пешоб, фавран ба духтури онҳо занг занед. Парешонии ногаҳонӣ метавонад делирий бошад, ки нигоҳубини фавриро талаб мекунад. Агар касе дар хатар бошад, ба рақами фавқулоддаи маҳаллии худ занг занед."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +49,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +69,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Ман мехоҳам ба хона равам». Барои бисёр оилаҳо ин яке аз сахттарин чизҳост, ки шунидан лозим меояд, хусусан вақте ки шахси нигоҳубинкардаатон дар меҳмонхонаи худаш нишастааст. Ин маъмул аст, дар ҳар марҳилаи деменсия рӯй дода метавонад ва роҳҳои ором ва амалии посух додан ҳаст. Ин саҳифа мефаҳмонад, ки ин суханон аксар чӣ маъно доранд, чӣ гуфтан лозим, кадом фаъолиятҳо дар лаҳза кумак карда метавонанд ва чӣ тавр бехатар монд.
 
-## Why does someone with dementia keep asking to go home?
+## Чаро касе бо деменсия пайваста мепурсад, ки ба хона равад?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Одатан «хона» бештар ҳисс аст, на ҷой. Ҷамъияти Алтсгеймер онро ҳисси бароҳатӣ ва амният ё хонае аз гузашта тавсиф мекунад, на худи бино. Деменсия метавонад ҳуҷраҳои шиносро ғайриоддӣ нишон диҳад ва шахс метавонад эҳсос кунад, ки дар давраи пештари зиндагӣ аст, вақте хона хонаи кӯдакӣ ё ҷое буд, ки фарзандонашро калон кардааст.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Суханон инчунин метавонанд нишони он бошанд, ки ҳоло чизи дигаре нодуруст аст: гурусна, ташна ҳастанд, ба ҳоҷатхона ниёз доранд, дард доранд, хеле гарм ё хунук ҳастанд, хаста, танҳо, тарсон ё аз садо вазнин шудаанд. [Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) дард, садо, танҳоӣ, тағйири тартиб ва доруҳоро дар байни сабабҳои изтироб номбар мекунад.
 
-## What should I say when they ask to go home?
+## Вақте мепурсанд, ки ба хона раванд, чӣ бояд гӯям?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Ба ҳисс посух диҳед, на ба суханон. [Иттиҳоди нигоҳубинкунандагони оила](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тавсия медиҳад, ки шахсро бовар кунонданӣ нашавед, ки хато мекунад: ҳиссиёти онҳо воқеианд, бинобар ин аввал бо тасалло ва оромкунӣ посух диҳед, баъд оҳиста равона кунед.
 
-Phrases that often help:
+Ибораҳое, ки аксар кумак мекунанд:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Ҳиссро ном баред.** «Ба назар мерасад, ки шумо дилтанги хона ҳастед».
+- **Ором кунед.** «Шумо дар ин ҷо бехатаред ва ман бо шумо мемонам». [Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) калимаҳои оддии «Шумо дар ин ҷо бехатаред»-ро пешниҳод мекунад.
+- **Хотираҳоро даъват кунед.** «Дар бораи хонаатон ба ман бигӯед. Ошхонаатон чӣ гуна буд?» Пурсидан дар бораи гузаштаи дур одатан аз саволҳо дар бораи имрӯз бароҳаттар аст.
+- **Якҷоя чизеро пешниҳод кунед.** «Биёед аввал як пиёла чой хӯрем» ё «Оё ба ман бо ин дастмолҳо кумак мекунед?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Оҳанги гарм ва дасте бар бозу, агар онҳо ламсро дӯст доранд, метавонад аз суханон бештар бигӯяд.
 
-## What should I avoid?
+## Аз чӣ худдорӣ кунам?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Баҳс ё шарҳ додан.** «Шумо ҳоло дар ин ҷо зиндагӣ мекунед» ё «Ин 40 сол хонаи шумо будааст» аз онҳо мехоҳад чизеро қабул кунанд, ки деменсия қабул карданашро душвор мекунад ва метавонад чунин ҳис шавад, ки ба онҳо мегӯянд хато мекунанд.
+- **Имтиҳон кардан.** «Магар ба ёд надоред?» ё «Суроға чист?» фишор илова мекунад.
+- **Бо хашм баста шудани дар.** Агар онҳо ба берун равона шаванд, ором бимонед ва бо онҳо қадам занед. Сайри кӯтоҳи якҷоя аксар майлро ором мекунад.
+- **Шитоб кардан.** Пеш аз тағйир додани мавзӯъ ба онҳо вақт диҳед, ки дар бораи хона сухан гӯянд.
 
-## Activities that can help in the moment
+## Фаъолиятҳое, ки дар лаҳза кумак карда метавонанд
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Пас аз он ки ҳиссро эътироф кардед, фаъолияти ором ва шинос метавонад таваҷҷӯҳро бидуни рад кардани он гардонад.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Ба аксҳои хона ва оила нигоҳ кунед.** Саҳифаҳоро гардонед ва шарҳ диҳед («Ба он боғ нигоҳ кунед»), на савол диҳед. Дар телефон ё планшет [Ҷуфтҳои акс](/games/photo-pairs/) аксҳои оилавии худатонро ба бозии мувофиқкунии оромона табдил медиҳад ва аксҳо дар дастгоҳатон мемонанд.
+2. **Дар бораи хона сӯҳбат кунед.** [Кортҳои гуфтугӯ](/games/conversation-cards/) пешниҳодҳои кушод дар бораи хонаҳо, ошхонаҳо, ҳамсояҳо ва ҷашнҳоро бе ҷавобҳои дуруст пешкаш мекунанд.
+3. **Мусиқии дӯстдоштаашонро гузоред.** Институти миллии пиршавӣ мусиқии ороми дилнишинро дар байни роҳҳои ором кардани изтироб номбар мекунад. [Фаъолиятҳои мусиқии мо](/activities/music/)-ро бинед.
+4. **Газак ё нӯшокӣ диҳед.** Гуруснагӣ ва ташнагӣ метавонанд ба беқарорӣ монанд бошанд. Як пиёла чой ё хӯроки дӯстдошта низ расми хурди дар хона будан аст.
+5. **Сайр кунед ё дар берун нишинед.** Ҳаракат ва равшании рӯз кумак мекунад, хусусан дар ибтидои рӯз.
+6. **Кори шиносеро диҳед.** Ҷамъ кардани ҷомашӯӣ, ҷудо кардани корду чангак ё об додани гулҳо метавонад ҳисси идора кардани хонаро баргардонад.
+7. **Ҳамаро суст кунед.** Телевизорро хомӯш кунед, садо ва дурахшро кам кунед ва таваққуфи якҷояи [нафаскашии ором](/games/calm-breathing/)-ро кӯшиш кунед.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Агар як ғоя натиҷа надод, баъдтар дигареро кӯшиш кунед. Якҷоя оромона нишастан низ натиҷаи хуб аст.
 
-## Check for a cause you can fix
+## Сабаби ислоҳшавандаро санҷед
 
-| Check | What to try |
+| Санҷиш | Чӣ кӯшиш кардан лозим |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Гурусна ё ташна | Нӯшокӣ ва газаки хурд пешниҳод кунед |
+| Ба ҳоҷатхона ниёз дорад | Ба ҳоҷатхона бурданро ором ва бе ҷанҷол пешниҳод кунед |
+| Дард ё нороҳатӣ | Нишонаҳоро ҷӯед, масалан рӯ турш кардан, гирифтани узви бадан ё қабзият ва ба духтурашон бигӯед |
+| Хеле гарм ё хунук | Қабати либос ё ҳарорати ҳуҷраро танзим кунед |
+| Садо ё серодамӣ | Ба ҳуҷраи оромтар гузаред, телевизорро хомӯш кунед |
+| Хаста ё аз ҳад зиёд ҳавасманд | Истироҳат, ҳуҷраро торик кунед, мусиқии нарм гузоред |
+| Бегоҳии барвақт | Бахши беқарории бегоҳии поёнро бинед |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Ҷамъияти Алтсгеймер тавсия медиҳад, ки ҷадвали кӯтоҳ нигоҳ доред, ки пурсиш кай рӯй медиҳад, масалан пеш аз хӯрок, пас аз меҳмонон ё дар шом. Намунаҳо банақшагирии пешакиро осонтар мекунанд.
 
-## Is it okay to tell a white lie?
+## Оё гуфтани дурӯғи сафед дуруст аст?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ин баҳси воқеист ва оилаҳои меҳрубон ба хулосаҳои гуногун меоянд. Ҷамъияти Алтсгеймер мегӯяд, ки як ҷавоби ягонаи дуруст нест: дурӯғ метавонад баъзе одамонро шубҳанок кунад, бинобар ин он чиро, ки ба манфиати шахс аст, муайян кунед ва устувор бошед. Дар Маркази хотираи Пенн назари ҳамраиси марказ ин аст, ки ростӣ асос аст ва дурӯғи мулоим танҳо вақте мақбул аст, ки шахс ҳақиқати мушаххасро фаҳмида наметавонад ва шумо ҳеҷ гоҳ набояд воқеияти онҳоро масхара кунед.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Бисёр нигоҳубинкунандагон мебинанд, ки роҳи миёна кор мекунад: аввал тасалло ва равонкунии ростгӯёна («Мо имшаб дар ин ҷо мемонем ва ман дар паҳлӯи шумо ҳастам»), бидуни баҳс дар бораи он ки хона куҷост.
 
-## What if it happens every afternoon or evening?
+## Агар ҳар нисфирӯзӣ ё бегоҳ рӯй диҳад, чӣ?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Беқарорӣ, ки дар бегоҳии барвақт оғоз мешавад ё бадтар мегардад, аксар беқарории бегоҳӣ номида мешавад. [Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ҷадвали устувор, нури рӯз ва фаъолияти ҳаррӯза, хобҳои камтари дер ва набудани кофеин ё машрубот дар охири рӯзро тавсия медиҳад. Даргиронидани чароғҳо пеш аз шом низ метавонад кумак кунад. [Роҳнамои мо оид ба фаъолиятҳои ороми бегоҳии барвақт](/caregiving/late-day-restlessness/) бештар дорад.
 
-## Keeping them safe if they try to leave
+## Агар кӯшиш кунанд берун раванд, онҳоро бехатар нигоҳ доштан
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Хоҳиши ба хона рафтан метавонад ба саргардонӣ оварда расонад. [Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) арзёбӣ мекунад, ки шаш аз даҳ нафар бо деменсия ақаллан як маротиба саргардон мешаванд.
 
-**Prepare ahead:**
+**Пешакӣ омода шавед:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Дастбанди шиносоӣ ё тиббӣ бо номашон ва рақами телефони шумо ва барчаспҳо дар либосашон. [Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) барномаи MedicAlert ва Ассотсиатсияи Алтсгеймер Safe and Found-ро зикр мекунад, ки шояд пул лозим шавад.
+- Занги дар ё сигнализатсия ва қуфлҳо дар ҷойи баланд ё паст. Ҳеҷ гоҳ шахсро танҳо дар дохил қуфл накунед.
+- Акси наздикии наздик ва рӯйхати ҷойҳое, ки онҳо метавонанд раванд, чун хонаи собиқ ё ҷойи кор.
+- Ба ҳамсояҳои боэътимод бигӯед ва рақами худро ба онҳо диҳед.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Агар онҳо гум шаванд:** ҷойҳои бехатари наздикро санҷед ва ҳамзамон фавран бо полиси маҳаллӣ ё хидматҳои фавқулодда тамос гиред. Дар интизори муддати муайяни дақиқаҳо пеш аз хабар додан набошед. Дар соли 2021 [мақолаи маҷаллаи Вазорати адлияи ИМА дар бораи таҳқиқи шахсони гумшуда](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) мегӯяд, ки мақомоти ҳифзи ҳуқуқ набояд муддати интизории муайянро талаб кунанд; он инчунин нишонаҳои ба деменсия монандро ҳамчун ташвиши хатари баланд номбар мекунад. Тартиби маҳаллии хабар додан гуногун аст. Ба ёрдамрасонон бигӯед, ки шахс деменсия дорад, ҷойи охирини маълум ва акси наздикиро диҳед ва дастурҳояшонро иҷро кунед. Агар ёрдамчии дигаре бошад, аз ӯ хоҳиш кунед, ки назди телефон бимонад. Дар ҷойҳои ноамн танҳо ҷустуҷӯ накунед.
 
-## When should I call a doctor?
+## Кай ба духтур занг занам?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Агар пурсиш ё парешонӣ ногаҳон оғоз шавад ё дар давоми соатҳо ё рӯзҳо хеле бадтар шавад, фавран ба духтури онҳо занг занед. [Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) мегӯяд, ки рафтори ногаҳонӣ ё зуд тағйирёбанда, хусусан пас аз сироят ё тағйири дору, бояд фавран санҷида шавад. Парешонии ногаҳонӣ метавонад делирий бошад, ки [NHS](https://www.nhs.uk/symptoms/confusion/) мегӯяд, ёрии фавриро талаб мекунад; сироятҳои роҳҳои пешоб дар пиронсолон сабаби маъмуланд.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Ҳамчунин мутобиқ аст, ки дар дидори навбатӣ як намунаи устуворро зикр кунед, зеро дард, кайфияти паст, мушкилоти хоб ё таъсироти иловагии доруҳо ҳама метавонанд нақш бозанд.

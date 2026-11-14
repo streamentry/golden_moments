@@ -1,32 +1,28 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "ກິດຈະກຳດົນຕີສຳລັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ"
+seoTitle: "ກິດຈະກຳດົນຕີສຳລັບສະໝອງເສື່ອມ: ລາຍການເພງ ແລະໄອເດຍ"
+description: "ວິທີແບ່ງປັນດົນຕີກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ: ສ້າງລາຍການເພງສ່ວນຕົວ 15 ກິດຈະກຳດົນຕີງ່າຍໆ ແລະຄຳແນະນຳສຳລັບທຸກໄລຍະ."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  ດົນຕີເປັນໜຶ່ງໃນກິດຈະກຳທີ່ງ່າຍທີ່ສຸດທີ່ຈະແບ່ງປັນກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ. ສ້າງລາຍການເພງສ່ວນຕົວຈາກດົນຕີໃນໄວໜຸ່ມ ສາດສະໜາ ແລະຄອບຄົວ ຫຼິ້ນໂດຍບໍ່ມີໂຄສະນາ ຫຼືສຽງພື້ນຫຼັງ ແລ້ວຮ້ອງ ຕົບມື ໂຍກໄປມາ ຫຼືພຽງແຕ່ຟັງນຳກັນ. ເລືອກດົນຕີທີ່ສະຫງົບ ຫຼື ມີຊີວິດຊີວາໃຫ້ເໝາະກັບເວລານັ້ນ ຮັກສາສຽງໃຫ້ນຸ່ມນວນ ແລະຢຸດຖ້າເພງໃດເຮັດໃຫ້ເຂົາເຈົ້າເສຍໃຈ.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "ດົນຕີສ່ວນຕົວໄດ້ຜົນດີທີ່ສຸດ: ປະເພດທີ່ເຂົາເຈົ້າຮັກຕອນເປັນໄວໜຸ່ມ ບວກກັບດົນຕີຈາກສາດສະໜາ ວັດທະນະທຳ ແລະງານຄອບຄົວ."
+  - "ຫຼິ້ນທີລະເພງ ບໍ່ມີໂຄສະນາ ແລະປິດໂທລະທັດ."
+  - "ການຮ້ອງ ການຕົບມື ການໂຍກໄປມາ ແລະການພຽງແຕ່ຟັງ ລ້ວນແຕ່ເປັນວິທີມີສ່ວນຮ່ວມ."
+  - "ໃຊ້ດົນຕີທີ່ສະຫງົບເພື່ອໃຫ້ຜ່ອນຄາຍ ແລະດົນຕີທີ່ມີຊີວິດຊີວາເພື່ອຍົກອາລົມ ແລ້ວສັງເກດການຕອບສະໜອງຂອງຜູ້ນັ້ນ."
+  - "ງານວິໄຈກ່ຽວກັບການຮ້ອງເພງແບບມີໂຄງສ້າງຍັງຈຳກັດ ພວກເຮົາແນະນຳໃຫ້ໃຊ້ດົນຕີເປັນສິ່ງທີ່ໜ້າພໍໃຈໃນການແບ່ງປັນ ບໍ່ແມ່ນການປິ່ນປົວ."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "ດົນຕີແບບໃດດີທີ່ສຸດສຳລັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ?"
+    a: "ດົນຕີທີ່ຜູ້ນັ້ນຮູ້ຈັກ ແລະຮັກມາດົນແລ້ວ ມັກເປັນເພງຕອນອາຍຸໄວລຸ້ນ ແລະ 20 ປີ ພ້ອມກັບດົນຕີຈາກສາດສະໜາ ວັດທະນະທຳ ແລະງານສະຫຼອງຄອບຄົວ. ຖ້າເປັນໄປໄດ້ ໃຫ້ເຂົາເຈົ້າເລືອກເອງ. ສັງເກດໜ້າຕາ ແລະທ່າທາງເພື່ອຮູ້ວ່າເຂົາເຈົ້າຊອບອັນໃດ ແລະເຊົາເພງໃດທີ່ເບິ່ງຄືວ່າເຮັດໃຫ້ເຂົາເຈົ້າເຈັບປວດ."
+  - q: "ຄວນໃຊ້ຫູຟັງບໍ?"
+    a: "ບາງຄົນມັກຫູຟັງເພາະປິດສຽງລົບກວນໄດ້ ແຕ່ບາງຄົນຮູ້ສຶກບໍ່ສະບາຍ ຫຼືສັບສົນ. ລອງໃຊ້ລຳໂພງກ່ອນເພື່ອຟັງນຳກັນ. ຖ້າໃຊ້ຫູຟັງ ໃຫ້ຮັກສາສຽງໃຫ້ຕ່ຳ ແລະຢູ່ໃກ້ໆ."
+  - q: "ດົນຕີຊ່ວຍເລື່ອງຄວາມກະວົນກະວາຍ ຫຼືຄວາມບໍ່ສະບາຍໃຈໄດ້ບໍ?"
+    a: "ດົນຕີທີ່ສະຫງົບ ແລະຄຸ້ນເຄີຍສາມາດຊ່ວຍສ້າງບັນຍາກາດທີ່ສະຫງົບໄດ້ ແລະ Alzheimer's Association ແນະນຳໃຫ້ໃຊ້ດົນຕີເພື່ອສ້າງບັນຍາກາດທີ່ຕ້ອງການ. ແຕ່ມັນບໍ່ໄດ້ຜົນທຸກເທື່ອ. ຖ້າຜູ້ນັ້ນເດືອດຮ້ອນ ໃຫ້ກວດເບິ່ງຄວາມເຈັບປວດ ຄວາມຫິວ ສຽງລົບກວນ ແລະຄວາມເມື່ອຍດ້ວຍ."
+  - q: "ຜູ້ທີ່ຢູ່ໃນໄລຍະທ້າຍຂອງໂຣກສະໝອງເສື່ອມຍັງສາມາດມີຄວາມສຸກກັບດົນຕີໄດ້ບໍ?"
+    a: "ຫຼາຍຄົນເຮັດໄດ້. Alzheimer's Association ລະບຸວ່າຄົນໃນໄລຍະທ້າຍອາດຍັງຕົບຈັງຫວະ ຫຼືຮ້ອງເພງຈາກໄວເດັກໄດ້. ນັ່ງໃກ້ໆ ຫຼິ້ນດົນຕີເບົາໆ ແລະຈັບມືກັນ ຫຼືໂຍກໄປມານຳກັນ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +41,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+ດົນຕີເປັນໜຶ່ງໃນສິ່ງທີ່ງ່າຍທີ່ສຸດທີ່ທ່ານຈະແບ່ງປັນກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມໄດ້. ມັນບໍ່ຕ້ອງການຫຍັງເລີຍ: ບໍ່ມີຄຳຕອບທີ່ຖືກ ບໍ່ມີຂັ້ນຕອນໃຫ້ເຮັດຕາມ. ເພງທີ່ຄຸ້ນເຄີຍສາມາດເຮັດໃຫ້ຍິ້ມ ຕີນທີ່ຕົບຕາມ ຫຼືຄຳບາງຄຳທີ່ຮ້ອງນຳກັນ ເຖິງໃນມື້ທີ່ການສົນທະນາເປັນເລື່ອງຍາກ. ທີ່ທ່ານຕ້ອງການມີພຽງດົນຕີທີ່ເໝາະກັບຄົນນີ້ ແລະຊ່ວງເວລາງຽບໆເພື່ອຫຼິ້ນມັນ.
 
-## What music activities work for people with dementia?
+## ກິດຈະກຳດົນຕີໃດທີ່ເໝາະກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+ການຟັງ ການຮ້ອງ ການຕົບມື ການໂຍກໄປມາ ແລະການລົມກັນກ່ຽວກັບດົນຕີ ລ້ວນແຕ່ໄດ້ຜົນດີ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ແນະນຳໃຫ້ຫຼິ້ນດົນຕີ ລົມກັນກ່ຽວກັບເພງ ແລະນັກຮ້ອງ ຮ້ອງ ຫຼືເຕັ້ນກັບເພງທີ່ຮູ້ຈັກດີ ແລະໄປຄອນເສີດ ຫຼືງານດົນຕີໃນຊຸມຊົນ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ເສີມວ່າການເຄື່ອນໄຫວເຊັ່ນ ການຕົບມື ຫຼືການເຕັ້ນສາມາດເພີ່ມຄວາມສຸກ ແລະດົນຕີສາມາດເປັນວິທີເຊື່ອມຕໍ່ເມື່ອຄຳເວົ້າກາຍເປັນເລື່ອງຍາກ.
 
-## How do you build a personal playlist?
+## ຈະສ້າງລາຍການເພງສ່ວນຕົວແນວໃດ?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+ສິ່ງທີ່ເປັນປະໂຫຍດທີ່ສຸດທີ່ທ່ານສາມາດເຮັດໄດ້ແມ່ນລາຍການເພງທີ່ມີຄວາມໝາຍກັບຄົນນີ້. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ກໍ່ເນັ້ນດົນຕີທີ່ມີຄວາມໝາຍສ່ວນຕົວເຊັ່ນກັນ. ນີ້ແມ່ນວິທີງ່າຍໆໃນການສ້າງລາຍການດັ່ງກ່າວ.
 
-### Start with their life
+### ເລີ່ມຈາກຊີວິດຂອງເຂົາເຈົ້າ
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **ອາຍຸໄວລຸ້ນ ແລະ ຊາວ ປີ.** ຄິດເຖິງສິ່ງທີ່ເປີດຢູ່ວິທະຍຸ ໃນງານເຕັ້ນລຳ ແລະໃນໜັງ ຕອນທີ່ເຂົາເຈົ້າຍັງໜຸ່ມ.
+- **ຊ່ວງເວລາສຳຄັນ.** ດົນຕີໃນງານແຕ່ງງານ ເພງເຕັ້ນທຳອິດ ອັລບັ້ມທີ່ຊອບໃນການເດີນທາງກັບຄອບຄົວ.
+- **ສາດສະໜາ ແລະວັດທະນະທຳ.** ເພງສວດ ເພງກອສເປວ ດົນຕີສັກສິດ ຫຼືເພງໃນພາສາແມ່ຂອງເຂົາເຈົ້າ.
+- **ການເຮັດວຽກ ແລະການຮັບໃຊ້.** ວົງດົນຕີເດີນທັບ ເພງແຮງງານ ຫຼືດົນຕີທີ່ກ່ຽວກັບຊ່ວງເວລາໃນກອງທັບ.
+- **ສິ່ງທີ່ຄອບຄົວຈື່ໄດ້.** ຖາມອ້າຍນ້ອງ ລູກ ແລະເພື່ອນເກົ່າວ່າເຂົາເຈົ້າເຄີຍຫຼິ້ນ ຫຼືຮ້ອງຫຍັງສະເໝີ.
 
-### Think in genres, not just songs
+### ຄິດເປັນປະເພດດົນຕີ ບໍ່ແມ່ນແຕ່ເພງ
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+ຖ້າບໍ່ແນ່ໃຈວ່າຈະເລີ່ມແນວໃດ ລອງຫຼາຍນາທີຂອງແຕ່ລະປະເພດເຫຼົ່ານີ້ ແລ້ວສັງເກດການຕອບສະໜອງ: ບິກແບນ ແລະສວິງ ດູວ໊ອບ ໂມທາວນ໌ ແລະໂຊລ ຣັອກແອນໂຣລຕອນຕົ້ນ ຄັນທຣີແອນເວສເຕີນ ບລູກຣາສ ກອສເປວ ແລະເພງສວດ ເພງເວທີ Broadway ແຈັສ ເພງ Latin ເຊັ່ນ bolero ຫຼື mariachi ໂພລກາ ໂຟລ໊ກ ແລະຄລາສສິກ. ເກັບໄວ້ສິ່ງທີ່ເຮັດໃຫ້ຍິ້ມ ຫຼືຕົບຕີນຕາມ ແລະຕັດສິ່ງທີ່ເຮັດໃຫ້ໜ້າບູດ.
 
-### Make it easy to play
+### ເຮັດໃຫ້ງ່າຍຕໍ່ການຫຼິ້ນ
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **ບໍ່ມີໂຄສະນາ.** Alzheimer's Association ເຕືອນວ່າໂຄສະນາອາດເຮັດໃຫ້ສັບສົນ. ໃຊ້ເພງທີ່ດາວໂຫຼດໄວ້ແລ້ວ ແຜ່ນຊີດີ ແຜ່ນໄວນິລ ຫຼືບໍລິການທີ່ບໍ່ມີໂຄສະນາ.
+- **ອຸປະກອນງ່າຍໆອັນດຽວ.** ລຳໂພງທີ່ມີປຸ່ມໃຫຍ່ປຸ່ມດຽວ ຫຼືລາຍການທີ່ບັນທຶກໄວ້ແລ້ວ ເພື່ອໃຫ້ທຸກຄົນເລີ່ມໄດ້.
+- **ສອງລາຍການສັ້ນໆ.** ລາຍການທີ່ສະຫງົບສຳລັບການຜ່ອນຄາຍ ແລະລາຍການທີ່ມີຊີວິດຊີວາສຳລັບຍົກອາລົມ.
+- **ຕິດປ້າຍ.** ຂຽນຊື່ຂອງຜູ້ນັ້ນ ແລະ “ເພງທີ່ມັກ” ໄວ້ທີ່ອຸປະກອນ ເພື່ອໃຫ້ຄົນໃນຄອບຄົວທີ່ມາຢ້ຽມຢາມ ແລະພະນັກງານດູແລສາມາດໃຊ້ໄດ້ເຊັ່ນກັນ.
 
-## 15 music activities to try
+## 15 ກິດຈະກຳດົນຕີທີ່ຄວນລອງ
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **ຟັງນຳກັນ.** ນັ່ງຄຽງຂ້າງໂດຍບໍ່ມີສິ່ງອື່ນລົບກວນ. ການຟັງກໍ່ເປັນກິດຈະກຳທີ່ສົມບູນໃນຕົວເອງ.
+2. **ຮ້ອງນຳກັນ.** ເລີ່ມຮ້ອງເອງກ່ອນ. ການຮ້ອງຄຳຄ້າຍໆ ຫຼືຂຍັບປາກຕາມກໍ່ນັບວ່າເຮັດແລ້ວ.
+3. **ຕົບມື ຫຼືຕີຈັງຫວະ.** ຕົບຫົວເຂົ່າ ຕີໂຕະ ຫຼືໃຊ້ກອງມືນ້ອຍ ຫຼືເຄື່ອງສັ່ນເລັກໆ.
+4. **ເຕັ້ນຊ້າ.** ຈັບມືກັນ ແລະໂຍກໄປມາໃນເຮືອນຄົວ ຫຼືນັ່ງເຕັ້ນໂດຍຂະຫຍັບແຂນນຳກັນ.
+5. **ເຕັ້ນດ້ວຍຜ້າພັນຄໍ.** ໂບກຜ້າພັນຄໍບາງໆຕາມຈັງຫວະ ຈະຢືນ ຫຼືນັ່ງກໍ່ໄດ້.
+6. **ລົມກັນກ່ຽວກັບດົນຕີ.** ເຊີນ ບໍ່ແມ່ນທົດສອບ: “ເພງນີ້ຟັງຄືງານເຕັ້ນລຳ. ເລົ່າໃຫ້ຟັງແດ່ກ່ຽວກັບການເຕັ້ນນັ້ນ.” ຢ່າຖາມວ່າ “ຈື່ເພງນີ້ໄດ້ບໍ?”
+7. **ຟັງອັລບັ້ມເຕັມຊຸດ.** ເປີດແຜ່ນທີ່ເຂົາເຈົ້າຮັກ ຟັງຈົນຈົບ ພ້ອມກາເຟ.
+8. **ເບິ່ງປົກອັລບັ້ມ.** ປົກແຜ່ນເກົ່າດີຫຼາຍສຳລັບການລົມກັນກ່ຽວກັບແຟຊັ່ນ ລົດ ແລະໜ້າຕາ.
+9. **ເບິ່ງລະຄອນເພງ.** ລະຄອນເພງ ຫຼືຄອນເສີດທີ່ບັນທຶກໄວ້ຈາກຍຸກຂອງເຂົາເຈົ້າ ເຮັດໃຫ້ຕອນແລງດີ. ຢຸດພັກເປັນລະຍະ.
+10. **ຫຼິ້ນເຄື່ອງດົນຕີທີ່ເຂົາເຈົ້າຮູ້ຈັກ.** ນັກເປຍໂນ ຫຼືນັກກີຕ້າເກົ່າອາດຊອບການຫຼິ້ນງ່າຍໆ. ຕໍ່ມາ ການດີດໂນດບໍ່ກີ່ໂນດຮ່ວມກັນກໍ່ພຽງພໍແລ້ວ.
+11. **ດົນຕີຂະນະເຮັດວຽກ.** ຫຼິ້ນເພງທີ່ມັກໃນຂະນະພັບເສື້ອຜ້າ ຫຼືຈັດໂຕະອາຫານ.
+12. **ເພງຕອນເຊົ້າ.** ເລີ່ມແຕ່ລະມື້ດ້ວຍເພງທີ່ສົດໃສແບບດຽວກັນເປັນສ່ວນໜຶ່ງຂອງຕາຕະລາງ.
+13. **ຮ້ອງເພງສວດ ຫຼືດົນຕີສັກສິດ.** ຫຼິ້ນດົນຕີຈາກປະເພນີສາດສະໜາຂອງເຂົາເຈົ້າ ແລ້ວຮ້ອງນຳກັນ.
+14. **ເຂົ້າກຸ່ມຮ້ອງເພງ.** NHS ອະທິບາຍວ່າກຸ່ມຮ້ອງເພງດີຕໍ່ອາລົມ ແລະຄວາມເປັນຢູ່ທີ່ດີ. ສອບຖາມໃນທ້ອງຖິ່ນກ່ຽວກັບກຸ່ມຮ້ອງເພງທີ່ເປັນມິດກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ.
+15. **ໄປຟັງດົນຕີສົດ.** ງານດົນຕີສັ້ນໆໃນຊຸມຊົນ ຫຼືວົງດົນຕີກາງແຈ້ງ. ນັ່ງໃກ້ທາງອອກ ແລະອອກໄດ້ເມື່ອຕ້ອງການ.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+ຖ້າຕ້ອງການກິດຈະກຳການຫຼິ້ນຄຳທີ່ເບົາກວ່າ ດ້ວຍປະໂຫຍກທີ່ຄຸ້ນເຄີຍ ລອງ [ເຕີມປະໂຫຍກໃຫ້ຈົບ](/games/finish-the-saying/) ເຊິ່ງທ່ານສາມາດສະແດງຕອນຈົບໄດ້ສະເໝີ.
 
-## Matching music to the moment
+## ເລືອກດົນຕີໃຫ້ເໝາະກັບຊ່ວງເວລາ
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association ແນະນຳໃຫ້ໃຊ້ດົນຕີເພື່ອສ້າງບັນຍາກາດທີ່ຕ້ອງການ: ດົນຕີສະຫງົບເພື່ອບັນຍາກາດທີ່ງຽບສະຫງົບ ແລະເພງທີ່ມີຊີວິດຊີວາຈາກໄວໜຸ່ມຂອງຜູ້ນັ້ນເພື່ອຍົກກຳລັງໃຈ.
 
-| Moment | Try | Tip |
+| ຊ່ວງເວລາ | ລອງໃຊ້ | ເຄັດລັບ |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| ຕອນລຸກຂຶ້ນ | ເພງທີ່ຄຸ້ນເຄີຍ ແລະສົດໃສ | ເພງດຽວກັນທຸກເຊົ້າກາຍເປັນສັນຍານທີ່ອ່ອນໂຍນ |
+| ເວລາເຮັດວຽກບ້ານ | ເພງທີ່ມັກທີ່ມີຊີວິດຊີວາ | ດົນຕີເຮັດໃຫ້ວຽກຮູ້ສຶກຄືມີເພື່ອນ |
+| ເວລາກິນ | ດົນຕີບັນເລງທີ່ນຸ່ມນວນ | ໃຫ້ເບົາໆ ເພື່ອບໍ່ໃຫ້ແຂ່ງກັບການກິນ |
+| ຕອນບ່າຍແກ່ໆ | ດົນຕີທີ່ສະຫງົບ ຄຸ້ນເຄີຍ ໃນແສງທີ່ດີ | ເບິ່ງ [ຄວາມກະວົນກະວາຍຕອນບ່າຍແກ່](/caregiving/late-day-restlessness/) |
+| ກ່ອນນອນ | ເພງຊ້າໆ ອ່ອນໂຍນ | ຫຼຸດສຽງ ແລະຫຼຸດແສງໄປພ້ອມກັນ |
+| ໄລຍະທ້າຍ | ເພງທີ່ຮັກທີ່ສຸດ ສຽງເບົາຫຼາຍ | ນັ່ງໃກ້ໆ ແລະຈັບມື |
 
-## Tips for a good experience
+## ເຄັດລັບເພື່ອປະສົບການທີ່ດີ
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **ປິດສຽງອື່ນ.** Alzheimer's Association ແນະນຳໃຫ້ປິດໜ້າຕ່າງ ປະຕູ ແລະໂທລະທັດ ເພື່ອໃຫ້ດົນຕີເປັນສຽງດຽວ.
+- **ຮັກສາສຽງໃຫ້ນຸ່ມນວນ.** ດົນຕີຄວນສະບາຍ ບໍ່ດັງ. ຖ້າຜູ້ນັ້ນໃຊ້ເຄື່ອງຊ່ວຍຟັງ ໃຫ້ແນ່ໃຈວ່າໃສ່ຢູ່ແລະໃຊ້ໄດ້; ເບິ່ງ [ການໄດ້ຍິນ](/brain-health/hearing/).
+- **ລະວັງຄວາມຊົງຈຳທີ່ເສົ້າ.** ບາງເພງອາດເຮັດໃຫ້ນຶກເຖິງຄວາມໂສກເສົ້າ ສົງຄາມ ຫຼືການສູນເສຍ. ຖ້າເພງໃດເຮັດໃຫ້ເຂົາເຈົ້າເສຍໃຈ ໃຫ້ປອບໂຍນ ແລ້ວປ່ຽນເພງ.
+- **ໃຫ້ເຂົາເຈົ້ານຳ.** ຖ້າເປັນໄປໄດ້ ໃຫ້ຜູ້ນັ້ນເລືອກດົນຕີ ແລະຍອມຮັບເມື່ອເຂົາເຈົ້າເວົ້າວ່າບໍ່.
+- **ຢຸດເມື່ອໃດກໍ່ໄດ້.** ດົນຕີ ຫ້າ ນາທີກໍ່ເປັນກິດຈະກຳທີ່ດີ. ການປິດມັນແລ້ວນັ່ງງຽບໆນຳກັນກໍ່ດີເຊັ່ນກັນ.
 
-## What does the research say about music and dementia?
+## ການວິໄຈເວົ້າຫຍັງກ່ຽວກັບດົນຕີ ແລະໂຣກສະໝອງເສື່ອມ?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+ຫຼັກຖານຍັງຈຳກັດ. [Cochrane review ປີ 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ໄດ້ພິຈາລະນາ 30 ການສຶກສາຂອງການຮ້ອງເພງແບບມີໂຄງສ້າງ ສ່ວນຫຼາຍເປັນກຸ່ມໃນບ້ານພັກຄົນສູງອາຍຸ. ມັນພົບວ່າກິດຈະກຳເຫຼົ່ານີ້ອາດຊ່ວຍຫຼຸດອາການຊຶມເສົ້າເລັກນ້ອຍເມື່ອທຽບກັບການດູແລປົກກະຕິ ແຕ່ບໍ່ພົບຜົນທີ່ຊັດເຈນຕໍ່ຄວາມກະວົນກະວາຍ ຄວາມເປັນຢູ່ທີ່ດີ ຫຼືຄວາມຊົງຈຳ ແລະບໍ່ມີຜົນທີ່ຍືນຍົງຫຼັງຈາກກິດຈະກຳຈົບລົງ.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+ພວກເຮົາແບ່ງປັນດົນຕີເພາະມັນເປັນວິທີໃຊ້ເວລາຮ່ວມກັນທີ່ໜ້າພໍໃຈ ແລະບໍ່ກົດດັນ ບໍ່ແມ່ນໃນຖານະການປິ່ນປົວ. ສຳລັບການຕັ້ງກຸ່ມ ເບິ່ງ [ກິດຈະກຳກຸ່ມໃນບ້ານພັກຄົນສູງອາຍຸ](/activities/care-home-groups/); ສຳລັບການໃຊ້ດົນຕີຄຽງຄູ່ກັບຮູບ ແລະເລື່ອງລາວ ເບິ່ງ [ກິດຈະກຳການຄິດຮອດອະດີດ](/activities/reminiscence/).

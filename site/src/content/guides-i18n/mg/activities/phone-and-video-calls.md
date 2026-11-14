@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Hetsika antso telefaona sy video ho an’ny olona manana dementia"
+seoTitle: "Hetsika antso video ho an’ny dementia"
+description: "Hetsika antso video sy telefaona ho an’ny fianakaviana lavitra amin’ny olona manana dementia: fampisehoana, famakiana, hira, lalao amin’ny efijery ary toro-hevitra."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Ny antso amin’ny olona manana dementia dia mahomby indrindra rehefa fohy,
+  matetika ary arahin’zavatra iraisana, toy ny fampisehoana biby fiompy na
+  zaridaina, fijerena sary, famakiana mafy, fihirana hira tiana na lalao malemy
+  amin’ny efijery iray. Antsoy amin’ny fotoana mitovy isan’andro raha azo atao,
+  tazomina feo iray isaky ny fotoana, ary angataho mpanampy eo an-toerana hanampy.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Hetsika dia manome endrika ho an’ny antso ary mampihena ny fanerena amin’ny resaka. Hamboarina zavatra tsotra iray hizarana."
+  - "Antso fohy sy matetika amin’ny fotoana mitovy amin’ny andro dia matetika mahomby kokoa noho ny antso lava sy vitsy."
+  - "Olona iray no miteny isaky ny fotoana. Ny antso vondrona misy resaka mifangaro dia sarotra araka, indrindra raha misy fahaverezan-kihaino."
+  - "Mpanampy eo an-toerana afaka mametraka ny fitaovana, mipetraka akaiky ny olona ary ho ‘tanana’ amin’ny lalao na sary rehetra."
+  - "Raha tsy mandeha tsara ny antso androany, ajanony amin’ny fomba mafana. Andramo indray rahampitso dia mety."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Inona no azoko atao amin’ny antso video miaraka amin’ny olona manana dementia?"
+    a: "Drafito hetsika tsotra iray: asehoy ny zaridainao, biby fiompy na lakozia; mijery sary taloha miaraka; vakio tononkalo fohy na ittera mafy; hiha hira tiany; mahandro sakafo mitovy amin’ny fotoana mitovy; na milalao lalao sary malemy amin’ny efijery iraisana. Ny hetsika dia manome fifantohana ho an’ny antso, mba tsy hitondra ny resaka tokana ny olona."
+  - q: "Ahoana no fotoana mety ho an’ny antso video?"
+    a: "Matetika fohy kokoa noho ny eritreretinao. Minitra mafana vitsivitsy dia ampy, indrindra raha reraka haingana ny olona. Ny antso matetika amin’ny fotoana mitovy isan’andro dia mety ho zava-dehibe kokoa noho ny halavan’ny antso tsirairay."
+  - q: "Inona raha ahiahy na tezitra ny olona noho ny antso video?"
+    a: "Olona sasany mahita ny tarehin’olona amin’ny efijery ho sarotra. Andramo antso telefaona mahazatra, hafatra video voarakitra izay azon’ny mpanampy atao amin’ny fotoana mangina, na karatra sy sary alefa amin’ny posta. Raha tsy mandeha tsara ny antso, ajanony amin’ny fomba mahaleo, ary andramo indray amin’ny andro hafa na amin’ny fotoana hafa."
+  - q: "Ahoana no fomba hanampiana ny reniko amin’ny antso video raha tsy afaka mampiasa telefaona izy?"
+    a: "Angataho ny mpianakaviana, mpanampy an-trano na mpiasa amin’ny toerana fikarakarana hanomboka ny antso sy hihazona na hanohana ny fitaovana. Maro amin’ny toerana fikarakarana no manampy ny fianakaviana amin’ny antso video, ka anontanio izay omeny. Tablet misy fitaovana fanohanana, misy efijery lehibe ary feo mahamenatra mora ho an’ny rehetra."
+  - q: "Afaka milalao lalao miaraka amin’ny video ve isika?"
+    a: "Eny. Ny fomba mora indrindra dia ny olona iray mizara ny efijery ao amin’ny app video, ary ny iray hafa milaza izay sary tokony hotsindriana. Na ny mpanampy eo an-toerana dia afaka manokatra ny lalao iray ihany amin’ny tablet ary mitsindry ho an’ny olona, raha ianao kosa miresaka aminy mikitika. Safidio lalao tsy misy minitra na isa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Ny fipetrahana lavitra amin’ny olona manana dementia dia mety hahatonga fahasahiranana. Ny antso telefaona sy video tsy mahatratra ny fitsapana, fa mbola afaka mamokatra fotoana fifandraisana marina raha voaomana tsara. Ny lalana dia ny tsy hanandrana resaka mahazatra mitondra vaovao, fa ny mamolavola zavatra tsotra hizarana. Ity pejy ity dia mampiseho hetsika mandeha amin’ny video sy telefaona, ny fomba fametrahana ny antso, ary izay azon’ny mpanampy eo an-toerana atao hanampiana.
 
-## Why plan an activity for a call?
+## Nahoana no tokony hamolavola hetsika ho an’ny antso?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Ny hetsika dia manome endrika ho an’ny antso. “Manao ahoana ianao? Inona no nataonao androany?” dia mangataka ny olona hahatsiaro sy hitatitra, izay mety ho sarotra sy mahasosotra. Fa “Jereo, mamy ny tomatitra” dia tsy mangataka na inona na inona azy.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Ny Alzheimer’s Association dia milaza fa resaka amin’ny vondrona lehibe amin’ny video dia mety ho sarotra, ary manoro hevitra ny [hanampiana firafitra ho an’ny antso](https://www.alz.org/help-support/caregiving/holidays) amin’ny zavatra toy ny fihirana hira na fizarana sary.
 
-## What activities work on a video call?
+## Inona no hetsika mandeha amin’ny antso video?
 
-### Show and tell
+### Asehoy sy lazao
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Entano any aminy ny tontolonao. Mandehana miadana miaraka amin’ny kamera manodidina ny zaridainao, ampahafantaro ny alika, asehoy izay hohanina, asehoy ny drawing an’ny zafikelinao, na ampitoeroy ny finday any amin’ny varavarankely any amin’ny lanezy. Lazao izay hitanao amin’ny teny mora, ary avelao fitsaharana ho an’ny fihetsehany. Tsy ilaina ny fanontaniana.
 
-### Look at photos together
+### Jereo sary miaraka
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Asehoy sary taloha eo anoloan’ny kamera, na zarao ny efijerinao hampisehoana sary lehibe vitsivitsy tsirairay. Miresaha momba izay hitanao: “Jereo ny satroky ny Dadatoa.” Aza manontany hoe “Iza ity?” na “Tadidinao ve?” Raha mitanisa olona diso ny olona, manaraha azy. Ny [torolalana momba ny fahatsiarovana](/activities/reminiscence/) dia manome teny fanombohana malemy.
 
-### Read aloud
+### Vakio mafy
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Vakio tononkalo fohy, salamo, boky ankizy tiana ho an’ny zafikely amin’ny antso mitovy, ittera avy amin’ny havana, na pejy avy amin’ny boky tiany. Ny famakiana mafy dia manome zavatra mangina hihaina ny olona, nefa tsy mila mamaly.
 
-### Sing or listen to music together
+### Mihira na mihaino mozika miaraka
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Hiha hira fantany tsara, na ampilalao rakitra tiany eo amin’ny lafiny ianao. Ny fihira dia mora kokoa noho ny resaka ho an’ny olona maro. Jereo ny [torolalana momba ny hetsika mozika](/activities/music/).
 
-### Cook or bake at the same time
+### Mahandro na mikarakara mofo amin’ny fotoana mitovy
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Ny Alzheimer’s Association dia manoro hevitra ny hamolavolana antso video hahandro na hanao mofo iray manokana miaraka. Ataovy ny antso amin’ny lakozia roa. Ny olona eo an-toerana mety hanetsika na hakatra raha manaraka ny karatra fomba tranainy ianao.
 
-### Watch something together
+### Mijery zavatra iray miaraka
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ny Association koa dia manoro hevitra ny hijery sarimihetsika tiana amin’ny fotoana mitovy avy amin’ny trano samy hafa raha miresaka amin’ny telefaona na video. Ho an’ny olona manana dementia, horonan-tsary fohy, fahitalavitra taloha na fifaninanana baolina mety ho tsara kokoa noho sarimihetsika feno.
 
-### Play a gentle game on a shared screen
+### Milalao lalao malemy amin’ny efijery iraisana
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Maro amin’ny app antso video no mamela anao hizara ny efijerinao. Manokatra ny lalao ianao ary mitsindry; ny olona milaza na mampiseho izay sary tokony hofidiana. Na ny mpanampy eo an-toerana dia mety manokatra ny lalao mitovy amin’ny tablet ary mitsindry ho an’ny olona raha miresaka aminy ianao.
 
-Games that work well this way:
+Lalao mety amin’ity fomba ity:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Mamita ny ohabolana](/games/finish-the-saying/):** Mamaky ohabolana mahazatra ianao, ny olona milaza ny faran’ny teny, ary misy fanentanana resaka manaraka izany.
+- **[Fitambarana sary](/games/picture-pairs/):** Lalao fitambarana malemy misy sary lehibe izay mety hiseho foana, tsy misy minitra na isa.
+- **[Karatra fifampiresahana](/games/conversation-cards/):** Sary sy fanentanana malalaka hiresahana miaraka.
+- **[Fitambarana sary an-tokantrano](/games/photo-pairs/):** Lalao fitambarana avy amin’ny sary safidinao amin’ny fitaovanao. Mijanona ao amin’ny browser ny sary, ary ny olona mahita azy amin’ny efijerinao iraisana.
 
-### Recorded messages
+### Hafatra voarakitra
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Rehefa sarotra ny antso mivantana, orakitra video fohy: fanasoavana, hira, dia kely amin’ny zaridainao. Ny mpanampy dia afaka mampilalao izany amin’ny fotoana mangina, indray mandeha na maro araka ny tiany ny olona. Ny Alzheimer’s Association dia manamarika ny fanoratana sy ny fandefasana fotoana manokana, toy ny zanaka mampiseho fanomezana.
 
-## What about plain phone calls?
+## Ahoana momba ny antso telefaona mahazatra?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Ny antso telefaona mbola manan-danja. Ny Dementia Australia dia manoro hevitra ny [hiantso amin’ny fotoana mitovy isan’andro](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ary tsy hanakanany, satria mety ho sarotra ho an’ny olona manana dementia ny miditra amin’ny resaka. Amin’ny telefaona:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Lazao ny anaranao sy ny fifandraisanao haingana: “Dada, Jenny ity, zanakavavinao.”
+- Miteny miadana, amin’ny fehezanteny fohy, iray saina isaky ny fotoana.
+- Omeo vaovao fa aza mangataka azy: “Nanao ny sakafo hena nataonao ianao omaly alina.”
+- Vakio tononkalo fohy, na hiha fehintsoratra iray amin’ny hira tiana.
+- Tazomina fohy ary mifarana amin’ny teny mafana.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Ny Dementia Australia dia milaza koa fa ny antso video dia mety manampy rehefa sarotra ny resaka, satria afaka mahita ny tarehinao ny olona. Raha sarotra ny antso telefaona, andramo video, na ny mifamadika.
 
-## How do I set up a video call that works?
+## Ahoana no fomba hametrahana antso video mety?
 
-**Before the call:**
+**Alohan’ny antso:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Misafidiana fotoana mahazatra** rehefa matetika mitsahatra ny olona, ary manarakaraka izany. Ny fandaharana dia manampy.
+2. **Mifampiraharaha amin’ny mpanampy eo an-toerana.** Ny hafatra iray ny andro alohan’ny dia manampy azy hanamboatra.
+3. **Jereo ny fitaovana.** Tablet misy fitaovana fanohanana dia mora kokoa noho ny finday notazonina amin’ny tanana. Ataovy fa mahery ny batterie, mazava ny efijery, ary mahery ny feo. Ampidiro ny sora-teny raha manolotra izany ny app ary mahay mamaky ny olona.
+4. **Drafito hetsika iray** ary ataovy vonona ny zavatra rehetra.
 
-**During the call:**
+**Mandritra ny antso:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Mipetraha akaiky ny kamera** amin’ny mazava tsara, mifanandrify amin’ny varavarankely fa aza ny varavarankely no eo aoriana.
+- **Mampahafantatra ny tenanao** isaky ny fotoana, amin’ny anarana sy ny fifandraisana.
+- **Olona iray isaky ny fotoana.** Ny Alzheimer’s Association dia milaza fa sarotra ho an’ny olona manana dementia sy ny olona manana fahaverezan-kihaino ny resaka mifangaro. Raha mandray anjara olona maromaro, mifandimbiasa na ataovy olona roa na telo ihany.
+- **Anontanio fanontaniana iray isaky ny fotoana.** Ny Family Caregiver Alliance dia manoro hevitra ny [fanontaniana tsotra misy valiny eny na tsia](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), ary ny fampisehoana safidy rehefa azo atao.
+- **Avelao fitsaharana lava.** Miandrasa valiny. Mety ny manolotra teny raha mitady izy.
+- **Ampiasao ny tarehinao sy ny feonao.** Mitsiky, mikapoka lohanao, ary tazomina mafana ny feonao. Ny endrika matetika manambara lava noho ny teny.
+- **Aza manitsy.** Raha milaza zavatra tsy marina ny olona, avelao izany.
 
-**Ending the call:**
+**Famaranana ny antso:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Mifarana alohan’ny ho reraka ny olona, mazava indrindra raha afaka.
+- Ampiasao ny fanaovan-tsoa mitovy isaky ny fotoana: “Hiantso anao rahampitso mandritra ny antoandro. Tia anao aho.”
+- Aza mitohy be loatra.
 
-## Tips for the helper on site
+## Toro-hevitra ho an’ny mpanampy eo an-toerana
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Raha ianao no vady, mpanampy an-trano, rahalahy/anabavy na mpiasa miara-miasa amin’ny antso, ianao no mahatonga izany ho azo atao.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Mamorona toerana mangina.** Afaharo ny TV ary akatony ny varavarana.
+- **Ataovy ianao no manomboka ny antso,** avy eo omeo ny olona tablet misy fitaovana fanohanana na hazonao amin’ny havanana ambony.
+- **Mipetraka eo akaiky azy, fa aza eo anoloany.** Ny fisian’ny tenanao dia mampionona. Mampahatsiahy malemy raha ilaina: “Jereo, Jenny io.”
+- **Ataovy ny tanana.** Asehoy sary, tsindrio ny lalao, ary tsilaovy ny tablet mba hahitana ny efitra.
+- **Jereo ny fahatsorana na ny reraka,** ary ampahafantaro ny mpiantso rehefa tonga ny fotoana hamaranana.
+- **Lazao amin’ny mpiantso izay niasa.** “Tia ny alika izy” dia manampy amin’ny fandrafetana ny antso manaraka.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Ny NIA dia manoro hevitra fa ny havana lavitra dia afaka manampy olona antitra [hianatra ny endri-javatra amin’ny telefaony](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), toy ny antso video. Any amin’ny sehatra farany, matetika ny mpanampy no tsy maintsy mikarakara ny fitaovana tanteraka. Tsy olana izany.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Raha monina ao amin’ny trano fikarakarana ny olona, ny Alzheimer’s Foundation of America dia manoro hevitra ny hanontanianao raha manampy ny fikambanana amin’ny resaka video ny fianakaviana. Ny AFA koa dia manamarika ny fianakaviana mandefa sary eo anelanelan’ny mpiasa fikarakarana, ary mandefa sakafo tiana na fanampiana kely, aorian’ny fijerena izay alaan’ny fikambanana.
 
-## What if the call doesn't go well?
+## Inona raha tsy mandeha tsara ny antso?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Misy antso ho sarotra, ho tsy misy fihetsika na ho mampahasosotra. Tsy ny fahadisoanao izany, ary tsy midika izany fa tsy mendrika ny antso.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Raha toa ka ahiahy noho ny efijery ny olona, miova amin’ny antso telefaona na hafatra voarakitra.
+- Raha tezitra izy, ekeo ny fahatsapana, lazao zavatra mampionona, ary ajanony malemy.
+- Raha matetika tsy mandeha tsara ny antso amin’ny fotoana iray, andramo fotoana hafa.
+- Raha mieritreritra fa olona hafa ianao, manaraka izany amin’ny fomba malemy.
 
-It is fine to end early. A short, warm call is a good outcome.
+Mety ny mamarana aloha. Antso fohy mafana dia valiny tsara.
 
-## Between calls
+## Eo anelanelan’ny antso
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Mijanona eo amin’ny fiainany amin’ny fomba hafa. Ny Dementia Australia dia manoro hevitra ny hanirahana karatra, mailaka, sary na fanomezana kely. Postcard isan-kerinandro misy sary lehibe iray sy fanamarihana fohy dia azo vakiana indray mandrakariva. Ny [karatra fifampiresahana](/games/conversation-cards/) azo atao amin’ny taratasy nalefa ho an’ny mpanampy dia mety hanome lohahevitra vonona ho an’ny antso manaraka.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Ho an’ny torolalana momba ny fifidianana sy fametrahana tablet, jereo ny [tablet sy efijery](/caregiving/tablets-and-screens/). Ho an’ny fotoana miaraka amin’ny olona, jereo ny torolalanay momba ny [fitsidihana](/activities/visiting/).

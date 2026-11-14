@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Ahoana no filalaovana lalao miaraka amin’ny dementia"
+description: "Torolalana ho an’ny mpikarakara momba ny filalaovana lalao: fametrahana, hafainganana, tsy fanitsiana, fanamorana ny lalao ary fahafantarana ny fotoana hitsahatra."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Ataovy ny lalao ho fotoana miaraka, fa tsy fitsapana. Safidio fotoana mangatsiaka
+  amin’ny andro, mipetraka akaiky ao amin’ny efitra mangina, ary omeo lalao tsotra
+  iray. Avelao ny olona hanapa-kevitra ny hafainganana, aza mitsiko hadisoana tsy
+  manimba, ampatsotra ny lalao rehefa mahita fanamiginana voalohany, ary ovao ny sary
+  ho resaka. Ajanony rehefa mbola mahafinaritra. Ny fitsahatra aloha, na ny fijerena
+  miaraka fotsiny, dia valiny tsara.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Ny tanjona dia fahafinaretana sy fifandraisana, fa tsy ny fahavitana na ny fahazoana valiny marina."
+  - "Mandrindra aloha: efitra mangina, mazava tsara, fijerena sy fihainoana mandeha, TV mijanona, lalao iray vonona."
+  - "Aza mitsiko hadisoana tsy manimba. Lazao ‘Andramo amin’ity fomba ity’ na ataovy foana ny fandehanana."
+  - "Ampatsotra ny lalao alohan’ny hitombo ny fahatezerana: sary vitsivitsy kokoa, safidy vitsy kokoa, sary mijanona hiseho."
+  - "Ampiasao ny sary ho fanombohana tantara amin’ny ‘Lazao ahy momba…’ fa tsy ny ‘Tadidinao ve…?’"
+  - "Ajanony rehefa mahita famantarana fahasosorana na reraka voalohany. Ny fitsahatra aloha dia fahombiazana, fa tsy fahadisoana."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Ela firy no tokony hilalaovana lalao?"
+    a: "Tsy misy halavan’ny marina. Ho an’ny olona maro, minitra vitsivitsy dia ampy, ary ny andro sasany dia ampy ny fihodinana iray. Jereo ny olona fa aza ny famantaranandro, ary ajanony rehefa mbola toa malalaka izy."
+  - q: "Tokony hamela azy handresy ve na hanaovana tsy hitako ny hadisoany?"
+    a: "Amin’ny lalao iraisana tsy misy fanerena, tsy misy handresena na handresena. Raha tsy manahirana ny olona ny hadisoana, avelao izany. Raha toa manahirana azy, fanampiana mangina na ampatsotra ny lalao nefa tsy ampahafantarina izany."
+  - q: "Inona raha tian’ny olona kosa ny mijery ahy milalao?"
+    a: "Tsara izany. Ny National Institute on Aging dia manoro hevitra ny hamelana olona hijery fotsiny raha toa mahafinaritra azy kokoa izany. Miresaha momba izay hitanao ary angataho azy hanondro na hifidy rehefa tiany."
+  - q: "Lalao fanandramana fahatsiarovana ve ireto?"
+    a: "Tsia. Ny lalaonay dia hetsika tsotra iraisana ho fahafinaretana sy resaka. Tsy fitsapana fahatsiarovana izy, tsy mandrefy na inona na inona, ary tsy fitsaboana ho an’ny dementia."
+  - q: "Inona no lalao tsara hanombohana?"
+    a: "Manomboka amin’ny tsotra indrindra izay mifanaraka amin’ny olona. Ny Fitambarana sary misy kapoka efatra sy sary mijanona hiseho, na Mitadiava ny mitovy misy safidy roa, dia fanombohana malemy. Ny Karatra fifampiresahana dia mety raha tia miresaka kokoa noho ny mikitika ny olona."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Lalao tsara miaraka amin’ny olona manana dementia dia tsy mitovy amin’ny fifaninanana. Mitovy amin’ny roa olona mipetraka akaiky, mampiseho sary, mihomehy amin’ny ohabolana, ary miresaka momba izay tonga. Ny lalao dia antony hanandanianana fotoana miaraka.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ity torolalana ity dia mampiseho ny fametrahana, ny hafainganan’ny lalao, izay lazaina rehefa “diso” zavatra, ny fomba hanamorana na hanasarotana kely lalao, ny fomba hanovana azy ho resaka, ary ny fahafantarana ny fotoana hitsahatra. Mety amin’ny [lalao](/games/) izahay ary amin’ny karatra, puzzle na lalao an-tabilao efa anananao.
 
-## What is the best way to play a game with someone who has dementia?
+## Inona no fomba tsara indrindra hilalaovana lalao miaraka amin’ny olona manana dementia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Mifantoha amin’ny fahafinaretana, fa tsy amin’ny fahombiazana. Izany no torolalana fototra avy amin’ny [torolalan’ny Alzheimer’s Association momba ny hetsika](https://www.alz.org/help-support/caregiving/daily-care/activities): mifototra amin’ny fahaiza-manao izay mbola anan’ny olona, manampy azy hanomboka, mamita ny ampahany sarotra ianao, ary tsy manakiana na mitsiko hetsika tsy manimba.
 
-In practice that means:
+Ara-pihetsehana, izany dia midika:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Mipetraha akaiky azy, fa tsy mifanatrika.** Mifanandrify, afaka mijery ny efijery na latabatra ianareo roa, ary ny fanampiana dia toy ny fiaraha-miasa fa tsy fanaraha-maso.
+- **Omeo lalao iray isaky ny fotoana.** Lisitra safidy dia mety ho toy ny fitsapana alohan’ny hanombohana.
+- **Arahy ny fitarihany.** Raha tia mikitika ny sary araka ny filaharany, miresaka momba sary iray ela folo minitra, na mijanona aorian’ny fihodinana roa, izany no lalao ankehitriny.
+- **Isao ny fahombiazana tsara, fa tsy ny fihodinana vita.** Fihetsiketsehana, tantara na fotoana mangina iray ny vokatra tadiavinao.
 
-## How do I set up before we start?
+## Ahoana no fametrahana alohan’ny hanombohana?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Fametrahana mandritra ny minitra vitsivitsy dia manakana ny ankamaroan’ny fahasosorana ataon’ny olona amin’ny lalao mihitsy.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Misafidiana ny fotoana tsaran’ny andro ho an’ny olona.** Ny [torolalan’ny National Institute on Aging (NIA) momba ny fampifanarana hetsika](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manoro hevitra ny handrafetana dia sy hetsika amin’ny fotoana tsara indrindra ho an’ny olona. Ho an’ny olona maro, izany dia amin’ny antsasakandro. Ny ariva dia matetika sarotra kokoa; jereo ny [hetsika fialana mangina ariva](/caregiving/late-day-restlessness/).
+2. **Ataovy mangina ny efitra.** Afaharo ny TV sy ny radio ary akatony ny varavarana raha azo atao. Ny [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dia manoro hevitra ny hampihenana ny feo sy ny fampisintonana alohan’ny hanombohanao hiresaka.
+3. **Jereo aloha ny fahamora.** Zava-pisotro eo akaiky, fandehanana ny trano fidiovana alohan’izay, seza mahazo aina, ary misy ny lunetta sy ny fanampim-pandrenesana.
+4. **Ampazavao tsara ny toerana.** Mazava mahazatra, tsy misy famirapiratra eo amin’ny efijery, mahatonga ny sary ho mora hita.
+5. **Ataovy vonona ny lalao alohan’ny hipetrahanareo.** Sokafo, safidio ny fikirizana, ary ampitahao ny feo ianao. Avy eo atolory any amin’ny efijery ny lalao. Ho an’ny toro-hevitra tablet, jereo ny [fametrahana tablet na finday](/caregiving/tablets-and-screens/).
+6. **Mameno ny fitaovana.** Stand na kitapo izay mitazona ny tablet mijoro dia tsy misy olona tsy maintsy mihazona azy, ary mora kokoa ny mampiseho.
 
-## How do I invite them without pressure?
+## Ahoana no fanasana azy tsy misy fanerena?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Ataovy malalaka sy mora ny fanasana, ary mora ny manao “tsia”. Ireto teny sasany izay mahomby matetika:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “Nahita sary zaridaina aho. Te hijery azy miaraka amiko ve ianao?”
+- “Afaka manampy ahy amin’ity puzzle ity ve ianao? Tsy mahay aho.”
+- “Te ho an’ny voninkazo na ho an’ny vorona ve ianao androany?” (safidy roa dia mora kokoa noho ny fanontaniana malalaka)
+- “Mamorona karatra ho an’ny anabavinao aho. Iza loko no tokony hahitana ity?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Ny Alzheimer’s Association dia manoro hevitra ny hanazavana ny tanjon’ny hetsika, toy ny famoronana karatra ho an’ny namana, satria ny antony dia manome dikany. Ny fangatahana fanampiana dia mahomby koa satria ahatonga ny olona hahatsapa fa ilaina izy.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Raha manao “tsia” izy, ekeo izany. Andramo indray any aoriana, na omeo zavatra hafa. Ny torolalanay momba ny [inona no ataoko rehefa manao “tsia” izy](/caregiving/when-they-say-no/) dia mandroso kokoa.
 
-## How long should a game last, and how fast should we go?
+## Ela firy no tokony hitohy ny lalao, ary haingana firy no tokony hanaovana azy?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Avelao ny olona hanapa-kevitra ny hafainganana, ary drafito fihodinana fohy. Tsy misy ideal ara-porofo ho an’ny lalao iraisana. Minitra malemy roa ka hatramin’ny dimy dia afaka ho hetsika feno.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Miandrasa kely ho ela noho ny mety hisy.** Ny NIA dia manoro hevitra ny hanomezana fotoana bebe kokoa ho an’ny olona hamaly ary ny tsy fanakorontanana. Isao ao an-tsaina hatramin’ny folo alohan’ny hanampianao.
+- **Dingana iray isaky ny fotoana.** Omeo toromarika tsotra fohy (“Tapao sary iray”), avy eo miandrasa. Asehoy fa aza lazaina fotsiny: manondroa toerana hikitihana.
+- **Ajanony malalaka.** Raha mijanona izy hiresaka momba sary, ho miandry ny lalao. Tsy ilaina ny miasa haingana.
+- **Avelao izy hijery.** Ny NIA dia milaza fa olona sasany mahafinaritra kokoa ny mijery, ary safidy marina izany.
 
-## Should I correct wrong answers?
+## Tokony hanitsy ve aho amin’ny valiny diso?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Tsia. Ny fanitsiana mangina indray mandeha, indray mandeha dia milaza amin’ny olona fa tsy mahay izy, na dia tsara ny hevitrao aza. Amin’ny lalao, ny hadisoana ankamaroany dia tsy manimba.
 
-| Instead of | Try |
+| Fa aza | Andramo izao |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “Tsia, diso izany.” | “Andramo amin’ity fomba ity.” (ohatra nomen’ny NIA) |
+| “Tsy mifanaraka izany. Jereo indray.” | Tsy lazaina na inona na inona ary alao ny manaraka, na “Oh, mena roa ireo.” |
+| “Tadidinao ve hoe iza ity?” | “Lazao ahy momba ity sary ity.” |
+| “Efa nataonao io.” | “Tsara io. Andao hanaovana indray.” |
+| “Andeha, fantatrao ity.” | “Te hasehoko ve ny farany?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Raha tena mampahatezitra azy ny hadisoana, manampia mangina. Ampisehoy ny sary marina, alao ny fihodinanao ianao, na ampatsotra ny lalao amin’ny fihodinana manaraka. Raha misy ohabolana mamita diso mahatsikaiky, mihomehia miaraka. Mety ho tsara kokoa ny famaranany.
 
-## How do I make a game easier or harder?
+## Ahoana no fomba hanamorana na hanasarotana lalao?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Ampifanaraho ny lalao amin’ny olona amin’ny andro izay, fa tsy amin’ny teny famaritana sehatra. Ny olona iray ihany dia mety ilaina dikan-teny tsotra kokoa amin’ny hariva noho ny maraina. Ny toro-hevitra voalohany an’ny NIA dia ny fampifanarana ny hetsika amin’izay azon’ny olona atao ary ny fahazoana fahatsapana fahombiazana.
 
-| Game | Make it easier | Make it a little harder |
+| Lalao | Ataovy tsotra kokoa | Ataovy kely sarotra |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Fitambarana sary](/games/picture-pairs/) | Atombohy amin’ny kapoka 4 ary avelao hiseho ny sary | Kapoka bebe kokoa, na afeno ny sary raha mora izany |
+| [Mitadiava ny mitovy](/games/find-the-same/) | Safidy 2 | Safidy hatramin’ny 4 |
+| [Mandamina miaraka](/games/sort-together/) | Ianao no mihazona ny sary, izy no manondro ny vata | Izy no mitsindry ny sary sy ny vata irery |
+| [Puzzle sary](/games/picture-puzzle/) | Ampahany 4, resaho aloha ny sary manontolo | Ampahany 9 |
+| [Mamita ny ohabolana](/games/finish-the-saying/) | Asehoy ny farany, avy eo lazao miaraka | Avelao izy hilaza ny farany alohan’ny hitsindrinao |
+| [Fitadiavana teny](/games/word-search/) | Atao an-taratasy, jereo teny iray miaraka, manondroa ny litera voalohany | Avelao izy hifidy ny teny manaraka hitadiavana |
+| [Hosodoko](/games/coloring/) | Ianao no misafidy loko roa, izy no misafidy eo anelanelany | Izy no misafidy ny loko rehetra |
+| [Karatra fifampiresahana](/games/conversation-cards/) | Jereo fotsiny ny sary miaraka | Ampiasao ny fanentanana malalaka eo amin’ny karatra |
+| [Fitambarana sary an-tokantrano](/games/photo-pairs/) | Sary fianakaviana vitsivitsy tiana indrindra | Ampio sary bebe kokoa |
+| [Bingo sary](/games/picture-bingo/) | Mpanampy iray mipetraka miaraka amin’ny mpilalao tsirairay | Ny mpilalao manamarika ny karatra manokana |
+| [Fisefoana mangina](/games/calm-breathing/) | Mipetraha fotsiny ary jereo miaraka | Mifofona miadana miaraka |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Famantarana fa sarotra loatra ny lalao: fitsahatra be izay mahatonga fahasosorana fa tsy eritreritra, ‘tsy afaka aho’ matetika, fanesorana ny fitaovana, na hadisoana mahatezitra azy. Famantarana fa mety ho malemy loatra: fahasosoran-tsaina, na milaza izy fa zaza ny lalao. Raha misy izany, ajanony ka miova amin’ny zavatra mihatra amin’ny olona lehibe, toy ny fitadiavana teny, puzzle sary ara-dalàna, na resaka momba sary ny asany taloha.
 
-## How do I turn a game into a conversation?
+## Ahoana no fomba hanovana lalao ho resaka?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Ampiasao ny sary tsirairay ho fanasana hiresaka, ary ekeo ho valiny tsara izay lazainy. Ho an’ny fianakaviana maro, io no ampahany tsara indrindra amin’ny filalaovana.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Anontanio fanontaniana malalaka, tsy misy valiny diso.** “Inona no hitanao?” “Iza no tianao indrindra?” “Lazao ahy momba ny lakozia toy izao.”
+- **Mizara aloha.** “Nanana alika toy izao ny raiko vavy.” Ny tantaranao dia mora kokoa amin’ny nahazoan’izy ireo mizara iray.
+- **Arahy ny fivoahana.** Raha mitarika tantara momba ny dia lavitra ny sary fiara, ny tantara no hetsika. Ajanony ny lalao.
+- **Aza mamaritra ny marina.** Amin’ny fahatsiarovana, ny resaka mahafinaritra dia zava-dehibe kokoa noho ny antsipiriany marina. Raha miova ny tantara hafa noho ny teo aloha, mifalia amin’ny endrika vaovao.
+- **Ampiasao ny fanentanana efa misy.** [Mamita ny ohabolana](/games/finish-the-saying/) dia manaraka ny ohabolana tsirairay amin’ny fanentanana resaka, ary [Karatra fifampiresahana](/games/conversation-cards/) dia natao ho an’izany. [Fitambarana sary an-tokantrano](/games/photo-pairs/) dia mampiasa sary fianakavianao, izay matetika mamelona tantara be dia be.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Hevitra hafa dia ao amin’ny torolalanay momba ny [hetsika fahatsiarovana](/activities/reminiscence/) sy ny [fomba fifandraisana](/caregiving/communication-tips/).
 
-## When should we stop?
+## Rehefa tokony hitsahatra?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Ajanony rehefa mahita famantarana voalohany amin’ny reraka na fahasosorana, ary raha azo atao kely alohan’izay. Ny Alzheimer’s Association dia manoro hevitra ny hijanonana na hanovana hetsika rehefa mihena ny fifantohana na miakatra ny fahatezerana.
 
-Watch for:
+Jereo:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- fihetsiketsehana, fitombon’ny lohany na fijerena miala amin’ny efijery;
+- fikorontanana, mitsangana, na mangataka hiala;
+- fisaonana, valiny fohy, na “Tsy mahay aho amin’izany”;
+- fikitihana tsy an-kilaly na fisintonana ny fitaovana;
+- fitomaniana, fahatezerana, na fiovana tampoka amin’ny toe-tsaina.
 
-How to stop well:
+Ahoana no fitsahatra tsara:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Mifarana amin’ny zavatra mora.** Fitambarana farany izay azony atao, na sary farany hojerena.
+- **Ataovy momba anao.** “Mila kapoka tea aho. Andeha hijanona eto ve?” dia manala ny fanoroana fa tsy nahomby izy.
+- **Miova amin’ny zavatra ara-batana na mampionona.** Dia fohy, sakafo kely, fanafanana lamba na mozika.
+- **Lazao zavatra mafana.** “Tiako ny nanaovana izany miaraka aminao.” Tsy misy fidera amin’ny “nahavita tsara”, fa fahafinaretana amin’ny fotoana miaraka fotsiny.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Ny fitsahatra aloha, ny fanovana drafitra, na ny fandavana ny lalao ka mipetraka miaraka fotsiny dia valiny tsara daholo.
 
-## Can we play in a group or over a video call?
+## Azo atao ve ny milalao amin’ny vondrona na amin’ny antso video?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Azo, miaraka amin’ny fametrahana kely fanampiny. Amin’ny vondrona, mitazona olona vitsy, mipetraha eo akaiky ny mpanampy ny olona izay mila azy, ary misafidiana lalao misy fifantohana iraisana mazava. [Bingo sary](/games/picture-bingo/) dia manana karatra azo atontosina sy mpiantso amin’ny efijery ho an’ny vondrona. Jereo ny [hetsika ho an’ny vondrona ao amin’ny trano fikarakarana](/activities/care-home-groups/) ho an’ny hafa.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Amin’ny antso video, ilay olona ao amin’ny antso dia afaka mamaritra sary raha misy olona ao amin’ny efitra mampiseho sy mikitika. Tazomina fohy sy mahazatra ny antso. Ny torolalanay momba ny [antso telefaona sy video](/activities/phone-and-video-calls/) dia manana hevitra bebe kokoa.
 
-## What if a game just isn't working?
+## Inona raha tsy mety ny lalao?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Misy andro tsy mandeha na inona na inona, ary tsy fahadisoanao na an’ny olona izany. Ataovy ao ny lalao ary andramo fotoana hafa amin’ny andro, lalao hafa, na tsy lalao akory. Hetsika tsara maro tsy miankina amin’ny efijery: mozika, fanamafisana lamba, famakiana album sary, na dia fohy. Jereo ny [hevitra hetsika](/activities/ideas/) ho an’ny hafa.

@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Musek-Aktivitéiten fir Mënschen mat Demenz"
+seoTitle: "Musek-Aktivitéiten bei Demenz: Playlists a Iddien"
+description: "Wéi Dir Musek mat enger Persoun mat Demenz deelt: eng perséinlech Playlist no Epoch a Stil, 15 einfach Aktivitéiten a Tipps fir all Stadium."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Musek ass eng vun den einfachste Aktivitéiten, déi Dir mat enger Persoun mat
+  Demenz deele kënnt. Stellt eng perséinlech Playlist aus der Musek vun hirer
+  Jugend, hirem Glaube an hirer Famill zesummen, spillt se ouni Reklammen a ouni
+  Hannergrondgeräischer of, a singt, klatscht, wiegt Iech oder lauschtert
+  einfach zesummen. Wielt roueg oder lieweg Musek, déi zum Moment passt, hält
+  d'Lautstäerkt agreabel, a hält op, wann e Lidd hir wéi wéi.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Perséinlech Musek funktionéiert am beschten: d'Musekrichtungen, déi si als jonk Erwuessen gär hat, dorënner Musek aus hirem Glaube, hirer Kultur a vu Familljefeiere."
+  - "Spillt nëmmen eng Saach op eng Kéier, ouni Reklammen a mat ausgeschalte Fernseh."
+  - "Sangen, Klatschen, Wiegen an einfaches Lauschteren si alles Weeër, wéi ee mat dobäi ass."
+  - "Benotzt roueg Musek fir ze berouegen a lieweg Musek fir d'Stëmmung ze heien, a kuckt, wéi d'Persoun reagéiert."
+  - "D'Fuerschung zu gefouerten Musekstonnen ass begrenzt; mir schloe Musek als eppes Schéines fir zesumme ze deelen vir, net als Behandlung."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Wéi eng Musek ass am beschten fir eng Persoun mat Demenz?"
+    a: "Musek, déi d'Persoun laang kennt a gär huet, dacks aus hirer Teenager- an Zwanzegerzäit, zesumme mat Musek aus hirem Glaube, hirer Kultur a Familljefeieren. Wann et méiglech ass, loosst si wielen. Kuckt op hir Gesiicht a Kierper, fir ze gesinn, wat hir gefält, a loosst alles falen, wat hir wéi schéngt."
+  - q: "Soll ech Kopfhörer benotzen?"
+    a: "E puer Leit hunn Kopfhörer gär, well se Geräisch ofhalen, anerer fannen se onbequem oder verwierrend. Probéiert als Éischt en Lautsprecher, sou datt Dir zesumme lauschtere kënnt. Wann Dir Kopfhörer benotzt, hält d'Lautstäerkt niddreg a bleift an der Nopeschaft."
+  - q: "Kann Musek bei Onrou oder Opreegung hëllefen?"
+    a: "Roueg, vertraut Musek kann hëllefen, eng friddlech Stëmmung ze schafen, an d'Alzheimer's Association schléit vir, Musek ze benotzen, fir d'Atmosphär ze setzen, déi Dir wëllt. Et hëlleft net all Kéier. Wann d'Persoun opgereegt ass, kuckt och noper Schmerzen, Honger, Geräisch oder Middegkeet."
+  - q: "Kënnen Leit am spéiden Stadium vun der Demenz nach ëmmer Musek genéissen?"
+    a: "Vill kënnen et. D'Alzheimer's Association bemierkt, datt eng Persoun am spéiden Stadium nach ëmmer e Rhythmus klappe oder bei engem Lidd aus der Kandheet matsangen kann. Setzt Iech no bei, spillt d'Musek roueg of an hält d'Hand oder wiegt Iech zesummen."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Musek ass eines vun den einfachsten Saachen, déi Dir mat enger Persoun mat Demenz kënnt deelen. Se verlaangt näischt: keng richteg Äntwerten, keng Schrëtt, déi ee follegen muss. En vertrauten Hit kann e Laachen bréngen, en wippende Fouss oder e puer Wierder, déi matgesongen ginn, och op engem Dag, wou Gespréich schwéier fält. Alles, wat Dir braucht, ass déi richteg Musek fir dës Persoun an e roueg Moment fir se ze spillen.
 
-## What music activities work for people with dementia?
+## Wéi Musek-Aktivitéiten fir Mënschen mat Demenz funktionéieren?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Lauschteren, Singen, Klatschen, Wiegen an iwwer Musek schwätzen funktionéiere ganz gutt. D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) schléit vir, Musek ze spillen, iwwer d'Musek an de Kënschtler ze schwätzen, zu bekannte Lidder ze sangen oder ze danzen an an der Gemeinschaft op Konzerter oder Musekprogrammer ze goen. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) bäidréit, datt Bewegung wéi Klatschen oder Danzen d'Freed erhéijen ka, an datt Musek e Wee sinn ka, sech ze verbannen, wann Wierder schwéier ginn.
 
-## How do you build a personal playlist?
+## Wéi bauen ech eng perséinlech Playlist?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Dat Nëtzlechst, wat Dir maache kënnt, ass eng Playlist mat Musek, déi dës Persoun eppes bedeit. D'[NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) hieft och Musek mat perséinlecher Bedeitung hervir. Hei ass eng einfach Manéier, eng ze maachen.
 
-### Start with their life
+### Fänkt mat hirem Liewen un
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Hir Teenager- an Zwanzegerjoren.** Denkt drun, wat am Radio, bei de Bäll a bei de Filmer leeft, wéi si jonk war.
+- **Grouss Momenter.** D'Musek bei hirer Hochzäit, en éischte Walzer, e Liiblings-Album vun enger Famillereis.
+- **Glaube a Kultur.** Kiercheliidder, Gospel, geeschtlech Musek oder Lidder an hirer Mammesprooch.
+- **Aarbecht an Déngscht.** Museksvereng, Aarbechtslidder oder Musek, déi mat enger Zäit beim Militär verbonne ass.
+- **Wat d'Famill erënnert.** Frot Geschwister, Kanner an al Frënn, wat si ëmmer gespillt oder gesongen huet.
 
-### Think in genres, not just songs
+### Denkt a Musekrichtungen, net nëmme ganz Lidder
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Wann Dir net sécher sidd, wou ufänken, probéiert e puer Minutten vun all dësen aus a kuckt, wéi d'Persoun reagéiert: Big Band a Swing, Doo-Wop, Motown a Soul, fréie Rock'n'Roll, Country, Bluegrass, Gospel a Kiercheliidder, Melodien aus Broadway-Musicals, Jazz-Standards, lateinamerikanesch Musek wéi Boleros oder Mariachi, Polka, Folk an klassesch Musek. Behalt, wat e Laachen oder e wippende Fouss bréngt; loosst falen, wat d'Stir falen léisst.
 
-### Make it easy to play
+### Maacht et einfach fir ze spillen
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Keng Reklammen.** D'Alzheimer's Association warnt, datt Reklammen Verwirrung ausléise kënnen. Benotzt erofgelueden Musek, CDen, Schallplatten oder e Service ouni Reklammen.
+- **Ee einfache Gerät.** En Lautsprecher mat engem grousse Knäppchen oder eng Playlist, déi gespäichert an prett ass, sou datt jiddereen se kann unhuelen.
+- **Zwou kuerz Lëschten.** Eng roueg Lëscht zum Berouegen an eng lieweg Lëscht fir d'Stëmmung ze heien.
+- **Beschrëften.** Schreift den Numm vun der Persoun a „Liiblingsmusek“ op de Gerät, sou datt Besuch an d'Pflegepersonal et och benotze kënnen.
 
-## 15 music activities to try
+## 15 Musek-Aktivitéiten zum Ausprobéieren
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Zesumme lauschteren.** Sëtzt Säit u Säit ouni datt eppes anescht leeft. Lauschteren ass eng komplett Aktivitéit.
+2. **Matsangen.** Fänkt selwer un ze singen. Summen oder d'Wierder mat de Lippen formen zielt och.
+3. **Klatschen oder de Rhythmus klappen.** Klëpft op d'Knéien, klappt op den Dësch oder benotzt eng kleng Handtrommel oder eng Rassel.
+4. **Lues tanzen.** Hält Hänn a wiegt Iech an der Käch, oder danzt am Sëtzen a bewegt d'Arm zesummen.
+5. **Schal-Tanz.** Schwenkt eleicht Schals am Takt vun der Musek, stoend oder am Sëtzen.
+6. **Iwwer d'Musek schwätzen.** Lued an, testt net: „Dat kléngt no engem Danzsall. Erzielt mir vun de Danz.“ Frot ni: „Erënnert Der Iech un dësen Hit?“
+7. **E ganzt Album spillen.** Leet eng Schallplack op, déi si gär hat, vun Ufank bis Enn, mat engem Kaffi.
+8. **Albumcoveren ukucken.** Al Schallplackenhüllen sinn super, fir iwwer Mode, Autoen a Gesiichter ze schwätzen.
+9. **Ee Musical kucken.** E gefilmten Musical oder e Konzert aus hirer Zäit mécht e schéine Owend. Maacht Paus.
+10. **E Instrument spillen, dat si kennt.** Eng fréier Pianistin oder e fréiere Gittarist kann et genéissen, eng einfach Melodie ze spillen. Méi spéit ass et genuch, zesummen e puer Nuten ze fannen.
+11. **Musek bei der Aarbecht.** Spillt Liiblingsliddchen beim Wäsch falen oder beim Deeken vum Dësch.
+12. **Muergen-Lidd.** Fänkt all Dag mat dem selwechte fréilechen Lidd als Deel vun der Routine un.
+13. **Kiercheliidder oder geeschtlech Musek.** Spillt Musek aus hirer Glaubenstradition a sangt zesummen.
+14. **Engem Gesangsgrupp bäitrieden.** D'NHS beschreift Gesangsgruppen als gutt fir d'Stëmmung an d'Wuelbefannen. Freet lokal no Chören, déi fir Mënschen mat Demenz oppen sinn.
+15. **Live-Musek besichen.** E kuerzt Gemeinschaftskonzert oder eng Open-Air-Band. Sëtzt no beim Ausgank a gitt fort, wann Dir wëllt.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Fir eng méi eleicht Wuertspillaktivitéit mat vertraute Sätz probéiert [de Saz fäerdeg maachen](/games/finish-the-saying/), wou Dir ëmmer den Ënnerpunkt weise kënnt.
 
-## Matching music to the moment
+## Musek un de Moment upassen
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+D'Alzheimer's Association schléit vir, Musek ze benotzen, fir d'Stëmmung ze schafen, déi Dir wëllt: roueg Musek fir eng friddlech Atmosphär an e fréilechen Hit aus enger Jugendzäit, fir d'Stëmmung ze heien.
 
-| Moment | Try | Tip |
+| Moment | Probéiert | Tipp |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Opstoen | En vertrauten, fréilechen Hit | Ëmmer deeselwechte Hit muergens gëtt en sanften Hiweis |
+| Hausaarbecht | Lieweg Liiblingsmusek | Musek kann d'Aarbecht wéi Gesellschaft fillen loossen |
+| Iessen | Roueg Instrumentalmusek | Hält et roueg, sou datt se net mam Iessen konkurréiert |
+| Spéide Nomëtteg | Roueg, vertraut Musek bei gudder Luucht | Kuckt [spéiden Dag Onrou](/caregiving/late-day-restlessness/) |
+| Schlofenszäit | Lues, sanft Musek | Zéitgläich d'Lautstäerkt a d'Luucht erofsetzen |
+| Spéiden Stadium | Déi Lidder, déi si am meeschte gär huet, ganz roueg | Setzt Iech no bei a hält eng Hand |
 
-## Tips for a good experience
+## Tipps fir eng gutt Erfahrung
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Aner Geräischer ausschalten.** D'Alzheimer's Association schléit vir, Fënster a Dieren zouzemaachen an de Fernseh auszeschalten, sou datt d'Musek dat eenzegt Geräusch ass.
+- **D'Lautstäerkt sanft halen.** D'Musek soll agreabel sinn, net laut. Wann d'Persoun e Gehéierapparat benotzt, vergewëssert Iech, datt en drop sëtzt an funktionéiert; kuckt [Gehéier](/brain-health/hearing/).
+- **Oppasse fir traureg Verbindungen.** E puer Lidder brénge Trauer, Krich oder Verloscht zeréck. Wann e Lidd hir wéi wéi, tréischt se a wiesselt et.
+- **Loosst si féieren.** Wann méiglech, loosst d'Persoun d'Musek wielen, an akzeptéiert e Nee.
+- **Hält all Kéier op.** Fënnef Minutte Musek sinn eng gutt Aktivitéit. Sou ass et och, d'Musek auszeschalten a roueg sëtzen.
 
-## What does the research say about music and dementia?
+## Wat seet d'Fuerschung zu Musek a Demenz?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+D'Beweiser sinn begrenzt. En [Cochrane-Iwwerbléck vun 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) huet 30 Studien zu gefouerte Musekstonnen ugekuckt, meeschtens mat Gruppen a Pflegeheemer. Et huet fonnt, datt dës Stonnen d'depressiv Symptomer am Verglach zur üblecher Pflege wahrscheinlech e bësse gelinn hunn, awer keen kloren Effekt op Onrou, Wuelbefannen oder Denken a Gedächtnis, a keng Effekter, déi nom Enn vun den Stonnen bliwwe sinn.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Mir deelen Musek, well et eng agreabel, wéineg belaascht Manéier ass, Zäit zesummen ze verbréngen, net als Behandlung. Fir Gruppenopstellungen kuckt [Gruppenaktivitéiten a Pflegeheemer](/activities/care-home-groups/); fir Musek zesumme mat Fotoen a Geschichten ze benotzen, kuckt [Erënnerungsaktivitéiten](/activities/reminiscence/).

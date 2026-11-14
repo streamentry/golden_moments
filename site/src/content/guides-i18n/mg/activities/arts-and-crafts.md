@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Kanto sy asa-tanana ho an'ny olon-dehibe manana demensia"
+seoTitle: "Kanto sy asa-tanana demensia: olon-dehibe, tsy zazakely"
+description: "Hevitra momba ny kanto sy asa-tanana ho an'ny olona manana demensia, avy amin'ny loko rano ka hatramin'ny sarin-javaboary, miaraka amin'ny torolalana."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Ny kanto sy asa-tanana tsara ho an'ny olon-dehibe manana demensia dia mijery sy mahatsapa ho olon-dehibe: loko rano, sarin-javaboary avy amin'ny gazety, fandamina voninkazo, tanimanga, karatra tsotra na pejy fandokoana loko olon-dehibe. Apetraho zavatra vitsy, mampiasa ny fanampiana amin'ny fanendrena voalohany raha ilaina, miresaha amin'ny fiasanao, ary ataovy ho antony lehibe ny fotoana iraisana. Tsy voatery ho vita ny sary farany.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Safidio zavatra sy lohahevitra mampiseho olon-dehibe, toy ny taratasy loko rano, voninkazo marina ary sary avy amin'ny gazety, fa tsy mamirapiratra, sticker na pejy katontrano."
+  - "Mifantoha amin'ny dingana: ny loko, ny fahatsapan'ny tanimanga, ny resaka. Ny sary vita dia tombontsoa, fa tsy ny tanjona."
+  - "Omeo tanjona rehefa azo atao, toy ny karatra ho an'ny zafikely na fandaminana ho an'ny latabatra."
+  - "Ampombao ny olona hanomboka, avy eo mialà kely. Ny fanombohana ny tsipika loko miaraka dia matetika ampy."
+  - "Ny tetikasa tsy voatery ho vita indray mandeha, ary ny fitsahatra aloha dia tsara foana."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ahoana no hitazomana ny kanto tsy ho zazakely?"
+    a: "Ampiasao fitaovana kanto tena izy, lohahevitra olon-dehibe ary fiteny manaja. Soloy ny poizina sy pejy katontrano ny taratasy loko rano, lamba, voninkazo, sary avy amin'ny gazety ary pejy loko misy antsipiriany. Aza miderana ny asa toy ny fiderana zaza mamaly ny sary; resaho izany toy ny amin'ny namana olon-dehibe."
+  - q: "Inona no hetsika kanto mety amin'ny demensia ambony?"
+    a: "Tetikasa tsotra sy mahatsapa no mahomby indrindra any aoriana: fanaovana loko amin'ny borosy lehibe, fanetsehana tanimanga malemy, fandamina voninkazo vitsy ao amin'ny vilia, na fanasokajiana lamba araka ny fahatsapana. Mety ilaina ny manomboka ny fihetsika miaraka. Ny fijerena ny fanaovanao loko sy ny resaka momba ny loko dia fomba hiditra koa."
+  - q: "Inona raha milaza izy fa tsy mahay mamaky sary?"
+    a: "Esorio ny fanerena. Andramo tetikasa tsy misy valiny marina, toy ny fanaovana loko rano, fanakanana sary na fandamina voninkazo. Azonao atao koa ny milaza fa ilainao fanampiana amin'ny zavatra manokana, toy ny fifidianana loko ho an'ny karatra, mba ho toy ny fanomezana fanampiana ny asa fa tsy fanandramana."
+  - q: "Mahamenatra ho an'ny olon-dehibe ve ny pejy fandokoana loko?"
+    a: "Tsia, raha natao ho an'ny olon-dehibe izy. Safidio pejy misy lohahevitra olon-dehibe toy ny zaridaina, lamba fandrafetana, fiara na tontolo, ary asehoy izany ho fanamaivanana fa tsy ho lesona. Ny pejy loko-tsika dia azo atao print na loko amin'ny tablette."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Ny kanto sy asa-tanana dia manome fomba ho an'ny olona manana demensia hanehoana tenany izay tsy miankina amin'ny teny mety hita. Ny Alzheimer's Association dia manamarika fa ny tetikasa kanto dia mety manome [fahatsapana fahombiazana sy tanjona](https://www.alz.org/help-support/caregiving/daily-care/art-music) sy fotoana hanehoana ny tenan'ny olona, ho an'ny mpikarakara koa toy ny olona manana demensia. Ny lakilen'izany dia ny fitazonana ny zavatra ho olon-dehibe, tsotra ary tsy misy fanerena. Ity pejy ity dia manome tetikasa manokana, ny fomba fanomanana azy ary ny fomba fanitsiana azy rehefa miova ny toe-javatra.
 
-## What makes an art activity adult and not childish?
+## Inona no mahatonga hetsika kanto ho olon-dehibe fa tsy zazakely?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Hetsika kanto olon-dehibe dia mampiasa fitaovana marina, lohahevitra olon-dehibe ary fiteny manaja. Ny Alzheimer's Association dia manoro hevitra ny fitazonana ny tetikasa amin'ny ambaratonga olon-dehibe ary ny fialana amin'ny zavatra mety ho toy ny fanamavoana na zaza.
 
-| Feels childish | Feels adult |
+| Toy ny zazakely | Toy ny olon-dehibe |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Poizina, sticker mahia, maso mihodinkodina | Taratasy loko rano, lamba, voninkazo voavoatra |
+| Pejy loko katontrano | Pejy loko misy zaridaina, lamba fandrafetana, fiara na tontolo |
+| "Asa tsara" ho an'ny marika tsirairay | Resaka marina: "Mahafinaritra io manga eo akaikin'ny maitso io" |
+| Asa tsy misy fampiasana | Karatra ho an'ny namana, fandaminana latabatra, fanomezana |
+| Torolalana toy ny lesona | Fanasana: "Afaka manampy ahy amin'ity ve ianao?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Eritrereto ny zavatra tian'ny olona. Ny olona tia asa fandrafetana mety ho tia mikasika lamba. Ny mpanamboatra fahaiza lehibe mety ho tia kiti fanamboarana misy lasa lehibe, na fanasokajiana fitaovana ho an'ny tetikasa. Ny mpampianatra teo aloha mety ho tia mamorona karatra.
 
-## Why focus on the process, not the product?
+## Nahoana no mifantoha amin'ny dingana fa tsy amin'ny vokatra?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Satria ny fotoana iraisana no zava-dehibe. Ny [torolalana momba ny hetsika ao an-trano](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) an'ny Alzheimer's Association dia milaza fa mifantoha amin'ny dingana, fa tsy amin'ny vokatra. Sary voaloka hoe "manga fotsiny" dia mbola sary ihany. Kolazy misy sary telo dia mbola kolazy ihany.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ny Association koa dia manamarika fa ny mpanakanto matihanina mety ho tezitra noho ny fiovana amin'ny asany, fa ny mpanakanto mahazatra mety hifaly amin'ny fahafahana vaovao hanehoana ny tenany. Raha mahay mpanakanto ny olona, andramo fomba hafa noho izay efa nahay, mba ho lasa lalao fa tsy fampitahana.
 
-## Arts and crafts ideas to try
+## Hetsika kanto sy asa-tanana hatao
 
-Each idea includes how to make it simpler if it becomes hard.
+Samy misy fomba hanaovana azy ho tsotra kokoa raha sarotra.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Fanaovana loko rano.** Asio ranom-bary taratasy loko rano matevina, ary avelao ny olona hanipy loko amin'ny borosy lehibe. Mikitsoka ho azy ny loko, ka tsy misy valiny diso. *Tsotra kokoa:* omeo loko roa ihany, na manaova loko amin'ny rano ao amin'ny taratasy maizina izay mampiseho ny marika maina.
+2. **Kolazy sary avy amin'ny gazety.** Mampiasa gazety momba ny zaridaina, sakafo, fiara, dia na lohahevitra taloha tian'ny olona. Avelao hifidy sy hanamboatra sary ao amin'ny taratasy matevina. *Tsotra kokoa:* omeo sary efatra voaloka mialoha sy lahoka, ary ataovy miaraka ny fanamboarana.
+3. **Fandamina voninkazo.** Ny Alzheimer's Foundation of America dia manoro hevitra ny [fandamina voninkazo tapaka sy ravina](https://alzfdn.org/dementia-activity-gardening/) ho fampisehoana mahazatra araka ny vanim-potoana. Ampiasao vilia matevina sy mahamay, ary tapaka ny tsanganana. *Tsotra kokoa:* apetraho tsanganana vitsy ao anaty kapoaka kely, iray isaky ny indray.
+4. **Karatra voninkazo voapetraka.** Apetraho voninkazo avy amin'ny bokikely teo anelanelan'ny pejy boky mandritra herinandro, avy eo ampiraikitra amin'ny taratasy karatra voatsangana. *Tsotra kokoa:* ianao no mametraka ny lahoka, ny olona no mamerina ny voninkazo.
+5. **Pejy fandokoana loko olon-dehibe.** Safidio pejy misy tsipika mazava sy lohahevitra marina. Ny [pejy fandokoana loko](/games/coloring/) azo atao print dia azo koa lokoina amin'ny efijery amin'ny fitsindrana loko, avy eo ampahany amin'ny sary. *Tsotra kokoa:* faritra lehibe kokoa, loko vitsy kokoa, marika matevina.
+6. **Tanimanga na fanamboarana malemy.** Mikaroka, mamelatra ary mamorona tanimanga mety mamaina amin'ny rivotra na tanimanga fanamboarana. Ny famelatra raviny amin'ny tanimanga dia mamorona tsipika toy ny marika tsotra. *Tsotra kokoa:* ny fanetsehana sy fikaroka ihany dia hetsika feno. Jereo ny tsy hampidirin'ny olona ny tanimanga, ny loko na zavatra kely amin'ny vavany.
+7. **Fanaovana karatra.** Ny Alzheimer's Association dia manoro hevitra ny fametrahana azy ho asa marina: "Mandefa karatra fahasalamana tsara ho an'ny namana isika. Hanampy ve ianao?" Karatra voatsangana sy sticker voninkazo na stamp dia mety tsara.
+8. **Scrapbooking.** Apetraho kopia sary taloha, karatra postal na tiketi any amin'ny pejy albom miaraka. Resaho ny tsirairay rehefa mandroso. Jereo ny [torolalana momba ny fahatsiarovana](/activities/reminiscence/) mba hahitana fomba mangina hiresahana momba ny lasa.
+9. **Lamba sy tranonkala fahatsapana.** Apetraho lamba velours, vevelina, burlap ary soie amin'ny karatra henjana. Ny fanaovana no hetsika; ny fikasihana azy aoriana dia hetsika hafa. Misy hevitra bebe kokoa ao amin'ny [torolalana hetsika fahatsapana](/activities/sensory/).
+10. **Fanamboarana hazo tsotra.** Ho an'ny olona tia fanamboarana hazo, ny fanasiana bloc hazo malama na ny fanaovana loko amin'ny kitin'ny trano vorona dia mety ho mahazatra. Esory ny fitaovana mahia ary ampijery.
+11. **Fandokoana loko amin'ny mozika.** Ataovy ny mozika tiany ary mamorona endrika na loko mifanaraka amin'ny toe-po. Izany dia mampifandray hetsika roa izay tian'ny olona maro. Jereo ny [hetsika mozika](/activities/music/).
 
-## How do I set up an art session?
+## Ahoana no hanomanana fotoana kanto?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Manomboka amin'ny fanomanana.** Tapaho, mamaila ary apetraho ny zavatra rehetra alohan'ny hanasanao ny olona. Ny fiandrasana amin'ny fitadiavana fanalakantsaho dia mety handany ny fotoana.
+2. **Mitazona kely.** Loko roa na telo, borosy iray, taratasy iray. Ny safidy be loatra dia mety hahatonga azy ho be fanelingelenana.
+3. **Arovy ny latabatra.** Lamba plastika na fitaratra taloha dia mampiantrano ny fahadisoana tsy hanahirana.
+4. **Mipetraha eo akaikiny.** Miasa amin'ny sarinao manokana eo akaikin'ny azy. Mahatonga azy ho iraisana, fa tsy ho fanaraha-maso.
+5. **Manampia azy hanomboka.** Ny Alzheimer's Association dia milaza fa mety ilaina ny manomboka ny fihetsehan'ny borosy miaraka amin'ny olona. Rehefa vita ny fanombohana, maro no mitohy.
+6. **Miresaha rehefa miasa.** Mamaritra ny loko sy ny tanimanga, na avelao ny kanto hitarika tantara. Aleo ny fanontaniana toy ny fanadinana, toy ny "Inona ity?".
+7. **Omeo fotoana betsaka.** Tsy ilaina ny mahavita tetikasa amin'ny fipetrahana iray.
 
-## How do I adapt art as dementia changes?
+## Ahoana no hampifanarahana ny kanto rehefa miova ny demensia?
 
-| Stage | What tends to work | What to adjust |
+| Dingana | Izay matetika mahomby | Izay tokony hanitsiana |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Tany am-boalohany | Kilasy, pejy loko misy antsipiriany, albom fitehirizana, fanaovana karatra, fanaovana loko amin'ny sary | Omeo safidy amin'ny tetikasa; tazomy ho ara-tsosialy |
+| Antonony | Kolazy voaloka mialoha, loko rano, fandamina voninkazo, loko amin'ny faritra lehibe | Dingana iray isaky ny indray; ianao no manao ny famahana sy fanamboarana |
+| Farany | Fanaovana borosy lehibe, fanetsehana tanimanga, fikasihana lamba, fijerena ny fanaovanao loko | Mifantoha amin'ny fahatsapana; mitarika ny tanana malemy raha mety |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Ny NHS dia manoro hevitra fa any amin'ny dingana farany, matetika tsotra kokoa ny hetsika ary mifantoha amin'ny fahatsapana. Ny fijerena olona hafa manao loko, sy ny resaka momba ny loko, dia fomba marina hiditra. Ho an'ny torolalana isan-dingana bebe kokoa, jereo ny [hetsika ho an'ny dingana rehetra](/activities/ideas/).
 
-## Safety with art supplies
+## Fiarovana amin'ny fitaovana kanto
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Safidio loko, marika ary menaka fanamboarana tsy misy poizina.
+- Tazomy kanetry, kisa fanamboarana ary fitaovana fanasiana mafana ho lavitra. Ataovy ianao ny fanapoahana rehetra mialoha.
+- Ariho ny olona izay mampiditra tanimanga, loko na zavatra kely ao am-bava.
+- Ampiasao fitoeran-drano sy vilia mahamay ary matevina.
 
-## When should we stop?
+## Rahoviana no tokony hijanona?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Ajanony rehefa mandeha ny saina na misy fahasosorana miseho. Ny Alzheimer's Association dia manoro hevitra fa ajanony na asiva ny hetsika rehefa mifoka ny saina na mitombo ny fahasosorana. Apetraho ny tetikasa any amin'ny toerana azo antoka ary omeo zavatra mamelona. Azonao averina rahampitso, na tsy averina mihitsy. Samy tsara izy ireo.
 
-## Display the work, if the person wants
+## Asehoy ny asa, raha tian'ny olona
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Ny fametrahana sary eo amin'ny fridge na ny fanamboarana sary ao anaty raisina dia fomba mangina hanehoana fanajana. Anontanio aloha. Misy olona tia mahita ny asany eo amin'ny rindrina; misy kosa tsy tia.
 
-## Pair art with our games
+## Ampifandraiso ny kanto amin'ny lalaotray
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Rehefa tsy mahamora ny fametrahana loko, [Coloring](/games/coloring/) dia mandeha amin'ny tablette tsy misy fitaratra. [Picture Puzzle](/games/picture-puzzle/) dia mitazona ny sary manontolo hiseho ho torolalana rehefa mamindra tapa-kazo. [Conversation Cards](/games/conversation-cards/) dia manolotra fanentanana malalaka izay mety hitarika avy amin'ny sary mankany amin'ny tantara. Ireo rehetra ireo tsy misy famaritra fotoana na isa. Azonao koa ny mamoaka pejy avy amin'ny fitambaran'ny [hetsika azo atao print](/activities/printable/).

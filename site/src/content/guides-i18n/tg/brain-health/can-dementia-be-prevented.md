@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Оё деменсияро пешгирӣ кардан мумкин аст? Чӣ мегӯяд тадқиқот"
+seoTitle: "Оё деменсияро пешгирӣ кардан мумкин аст? Далел"
+description: "Комиссияи Ланцет (2024) ва озмоишҳо дар бораи кам кардани хатари деменсия: чиро нишон доданд, чиро не, ва чиро бо духтур муҳокима кунед."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ҳеҷ кас пешгирии деменсияро ваъда карда наметавонад. Комиссияи Ланцет соли 2024
+  тахмин кард, ки тақрибан нисфи ҳолатҳои деменсия дар ҷаҳон бо 14 омили хатаре
+  алоқаманд аст, ки шояд тағйир дода шаванд, аз қабили фишори баланди хун,
+  каршавии шунавоӣ ва беҳаракатӣ. Озмоишҳо беҳбудиҳои хурд дар санҷишҳои фикрро
+  нишон медиҳанд, на исботи камтар шудани ҳолатҳои деменсия. Бисёре аз одамоне,
+  ки ҳамаи корҳоро «дуруст» иҷро мекунанд, бо вуҷуди ин деменсия пайдо мекунанд,
+  ва ин гуноҳи касе нест.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Комиссияи Ланцет соли 2024 тақрибан 45% ҳолатҳои деменсияи ҷаҳонро бо 14 омили хатари эҳтимолан тағйирпазир алоқаманд кард. Ин тахмини аҳолӣ аст, на кафолати шахсӣ."
+  - "Кам кардани хатар маънои паст кардани эҳтимол дар тамоми аҳолиро дорад. Маънои онро надорад, ки ягон шахс метавонад деменсияро канорагирӣ кунад."
+  - "Озмоишҳои калон, мисли FINGER, US POINTER ва SPRINT MIND, беҳбудиҳои хурд дар санҷишҳои фикр ё нуқсони хифифи маърифатӣ ёфтанд, аммо ҳеҷ кадом исбот накард, ки барномаи тарзи зиндагӣ деменсияро пешгирӣ мекунад."
+  - "Синну сол калонтарин омили хатари маълуми Алсгеймер аст ва тағйир дода намешавад. Бисёре аз одамоне, ки одатҳои солим доранд, бо вуҷуди ин деменсия пайдо мекунанд."
+  - "Қадамҳои бештар омӯхташуда, мисли табобати фишори баланди хун, истифодаи гӯшмонак ва фаъол будан, арзишманданд, ки бо духтур муҳокима шаванд, зеро барои саломатӣ дар дигар ҷанбаҳо низ кӯмак мекунанд."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Оё деменсияро пешгирӣ кардан мумкин аст?"
+    a: "Барои ягон шахс роҳи исботшудаи пешгирии деменсия вуҷуд надорад. Тадқиқот нишон медиҳад, ки кам кардани баъзе хатарҳо, мисли фишори баланди хун, каршавии шунавоии табобатнашуда ва сигор кашидан, метавонад эҳтимоли деменсияро дар тамоми аҳолӣ паст кунад ё оғози онро дер кунад. Ин эҳтимолҳоанд, на ваъда."
+  - q: "Рақами 45%-и Комиссияи Ланцет чӣ маъно дорад?"
+    a: "Комиссияи Ланцет соли 2024 тахмин кард, ки тақрибан 45% ҳолатҳои деменсия дар ҷаҳон бо 14 омили хатаре алоқаманданд, ки дар назария тағйир дода мешаванд. Тахмин фарз мекунад, ки ин омилҳо сабаби деменсия мебошанд, ва муаллифон қайд мекунанд, ки баъзе пайвастагиҳо метавонанд танҳо қисман сабабӣ бошанд. Он аҳолии тамомро тавсиф мекунад ва хатари ҳеҷ як шахсро нишон намедиҳад."
+  - q: "Агар падару модари ман тарзи зиндагии солим доштанд, чаро деменсия гирифтанд?"
+    a: "Синну сол, генҳо ва бисёр омилҳое, ки ҳеҷ кас назорат намекунад, нақши калон доранд. Муаллифони Комиссияи Ланцет қайд мекунанд, ки кам кардани хатар дар тамоми аҳолӣ кафолат намедиҳад, ки ҳар як шахс аз деменсия канорагирӣ мекунад. Ташхис нишонаи он нест, ки касе шикаст хӯрдааст."
+  - q: "Оё барои кам кардани хатари деменсия баъди синни 65 дер аст?"
+    a: "Комиссияи Ланцет мегӯяд, ки ҳеҷ гоҳ барои кам кардани хатар барвақт ё дер нест, гарчанде ки бештари далелҳо ба миёнсолӣ марбут аст. Табобати мушкилоти шунавоӣ ва биноӣ, фаъол будан ва робитаро бо одамон нигоҳ доштан намунаҳои қадамҳои давраи баъдин ҳастанд, ки омӯхта шудаанд. Дар бораи он ки ба саломатии шумо чӣ мувофиқ аст, бо духтур сӯҳбат кунед."
+  - q: "Оё бозиҳо ё парҳезҳои махсус деменсияро пешгирӣ мекунанд?"
+    a: "Ягон бозӣ, ғизо, иловаи ғизоӣ ё парҳез исбот нашудааст, ки деменсияро пешгирӣ кунад. Озмоиши се солаи парҳези MIND дар муқоиса бо парҳези назоратӣ фарқи назаррас дар фикр нишон надод, ва бозиҳои фикрии тиҷоратӣ нишон дода нашудаанд, ки таъсироте доранд, ки дар озмоишҳои тадқиқотӣ дида шудааст."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Агар шумо шахси деменсиядорро нигоҳубин мекунед ё падару модари худро бо он зиндагӣ дидаед, эҳтимол пурсидаед, ки оё онро метавон пешгирӣ кард ва оё метавон аз он ба худ ҷилавгирӣ кард. Ин саҳифа он чизеро шарҳ медиҳад, ки тадқиқот воқеан мегӯяд, ба забони содда. Ҷавоби кӯтоҳ: ҳеҷ кас пешгирии деменсияро ваъда карда наметавонад, аммо тадқиқот нишон медиҳад, ки баъзе хатарҳоро метавон кам кард, ва кам кардани онҳо дар тамоми аҳолӣ метавонад маънои камтар шудани одамони деменсиядор ё дер пайдо шудани онро дошта бошад.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ин маълумоти умумӣ аст, на маслиҳати тиббӣ. Нигаред ба [эъломияи тиббии мо](/medical-disclaimer/) ва бо духтур дар бораи саломатии худ сӯҳбат кунед.
 
-## Can dementia be prevented?
+## Оё деменсияро пешгирӣ кардан мумкин аст?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Барои ягон шахс роҳи исботшудаи пешгирии деменсия вуҷуд надорад. Институти миллии пиронсолӣ мегӯяд, ки [ҳеҷ чиз то ҳол исбот нашудааст, ки Алсгеймерро пешгирӣ кунад](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), аммо муҳаққиқон стратегияҳои умедбахш ёфтаанд ва омӯхта истодаанд, ки чӣ метавонад кор кунад ва чӣ не.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Чизе, ки тадқиқот *дар ҳақиқат* нишон медиҳад, ин аст, ки баъзе шароитҳои саломатӣ ва одатҳо бо хатари баландтари деменсия алоқаманданд. Вақте ки ин хатарҳо дар тамоми аҳолӣ паст мешаванд, шояд одамони камтар деменсия пайдо кунанд, ё онро дертар пайдо кунанд. Ин аз кафолат хеле фарқ дорад.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Як аломати умедбахш: Комиссияи Ланцет соли 2024 гузориш дод, ки дар баъзе кишварҳои даромади баланд, аз ҷумла ИМА ва Британия, ҳиссаи калонсолони бо деменсия кам шудааст. Муаллифон фикр мекунанд, ки ин эҳтимолан қисман ба таҳсилоти беҳтар, нигоҳубини беҳтари тиббӣ ва осеби камтари рагҳои хун дар тӯли умр марбут аст, мувофиқи [хулосаи Коллеҷи донишгоҳии Лондон аз ин гузориш](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Комиссияи Ланцет соли 2024 чиро ёфт?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Комиссияи Ланцет оид ба пешгирӣ, табобат ва нигоҳубини деменсия гурӯҳи 27 муҳаққиқи деменсия аст, ки далелҳоро ҳар чанд сол баррасӣ мекунанд. Гузориши онҳо соли 2024 **14 омили хатар**-ро номбар кард, ки метавонанд тағйир дода шаванд, ва тахмин кард, ки якҷоя онҳо **қариб нисф (тақрибан 45%) ҳолатҳои деменсияро дар ҷаҳон** ташкил медиҳанд. Ба гуфтаи муаллифон, ин ҳолатҳо *дар назария* метавонистанд пешгирӣ ё дер шаванд, агар хатарҳо бартараф карда шаванд ([гузориши Комиссияи Ланцет соли 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 омил, гурӯҳбандӣ аз рӯи марҳилаи ҳаёт, ки дар он далелҳо қавитаранд:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Давраи аввали зиндагӣ:** таҳсилоти кам.
+- **Миёнсолӣ (тақрибан аз 40 то 65 сола):** каршавии шунавоӣ, холестерини баланди LDL («бад»), депрессия, осеби сар, беҳаракатӣ, диабет, сигор кашидан, фишори баланди хун, фарбеҳӣ ва аз ҳад зиёд нӯшидани спирт.
+- **Давраи баъдин:** танҳоӣ, ифлосшавии ҳаво ва каршавии бинои табобатнашуда.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Ду иловаи нав дар соли 2024 холестерини баланди LDL ва каршавии бинои табобатнашуда буданд. Омилҳое, ки бо бузургтарин қисми ҳолатҳо алоқаманданд, каршавии шунавоӣ ва холестерини баланди LDL буданд (тақрибан 7% ҳар кадом), пас таҳсилоти кам ва танҳоӣ (тақрибан 5% ҳар кадом).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Роҳнамои мо оид ба омилҳои хатар](/brain-health/risk-factors/) ҳар 14 омилро дар ҷадвал баррасӣ мекунад, бо он чи тадқиқот пайваст мекунад ва он чи шумо метавонед кунед.
 
-### What the 45% figure does not mean
+### Он чи 45% намефаҳмонад
 
-It is easy to misread this number, so it helps to be precise:
+Ин рақамро осон нодуруст фаҳмидан мумкин аст, пас аниқ будан муфид аст:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ин тахмини аҳолӣ аст.** Он ҳолатҳои деменсияро дар тамоми ҷаҳон тавсиф мекунад, на имкониятҳои шумо ё падару модари шумо.
+- **Он сабаб ва натиҷаро фарз мекунад.** Муаллифон мегӯянд, ки онҳо танҳо омилҳоеро дохил карданд, ки далели қавӣ доранд, аммо баъзе пайвастагиҳо метавонанд танҳо қисман сабабӣ бошанд. Масалан, депрессия дар синни пешрафта гоҳе метавонад нишонаи аввали деменсия бошад, на сабаби он.
+- **Барои як шахс чизе кафолат намедиҳад.** Хулосаи Коллеҷи донишгоҳии Лондон қайд мекунад, ки кам кардани хатар дар сатҳи аҳолӣ амал мекунад ва кафолат намедиҳад, ки ягон шахс аз деменсия канорагирӣ мекунад.
+- **Нисфи дигар бо ин омилҳо шарҳ дода намешавад.** Синну сол, генҳо ва сабабҳое, ки олимон то ҳол нафаҳмидаанд, нисфи боқимондаро ташкил медиҳанд.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Фарқи миёни «кам кардани хатар» ва «пешгирӣ» чист?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Кам кардани хатар** маънои паст кардани эҳтимолро дорад. Агар гурӯҳи калони одамон фишори хуни худро паст кунанд, шояд миқдори бештари онҳо дар тӯли солҳои зиёд деменсия пайдо накунанд, нисбат ба ҳолати дигар. Баъзе аъзоёни он гурӯҳ бо вуҷуди ин онро пайдо хоҳанд кард.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Пешгирӣ** маънои онро дорад, ки чизеро пурра бозмонем. Барои деменсия, ин чизест, ки тадқиқот имрӯз ба ҳеҷ кас ваъда карда наметавонад.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Муҳаққиқон инчунин дар бораи **таъхир** сухан мегӯянд. Комиссияи Ланцет гузориш медиҳад, ки далели нав нишон медиҳад, ки кам кардани хатар метавонад оғози деменсияро дер кунад ва вақтеро, ки шахс бо беморӣ зиндагӣ мекунад, кӯтоҳ кунад. Ҳатто таъхири чанд сол барои шахс ва оилаи ӯ метавонад хеле муҳим бошад.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Дар ин сайт мо «кам кардани хатар» ва «алоқаманд аст»-ро ба таври қасдӣ истифода мебарем. Вақте ки маҳсулот, иловаи ғизоӣ ё барномаеро мебинед, ки ваъда медиҳад «Алсгеймерро пешгирӣ мекунад», бо эҳтиёт нигаред. Институти миллии пиронсолӣ маслиҳат медиҳад, ки пеш аз истифодаи ҳар доруи ё табобате, ки ваъдаи пешгирии Алсгеймерро медиҳад, бо духтур маслиҳат кунед, зеро чунин маҳсулотҳо метавонанд бехатар набошанд, бефоида бошанд ё ҳарду.
 
-## What have large trials found?
+## Оё озмоишҳои калон чиро ёфтанд?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Тадқиқоти мушоҳидавӣ (ки одамонро дар тӯли вақт мушоҳида мекунад) пайвастагиҳоро нишон медиҳад. Озмоишҳои тасодуфӣ, ки дар онҳо одамон тасодуфан ба барнома ё гурӯҳи муқоиса таъин мешаванд, санҷиши қавитар аст. Ин аст он чизе, ки баъзе аз маъруфтарин озмоишҳо ёфтанд.
 
-### FINGER (Finland)
+### FINGER (Финландия)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Озмоиши FINGER 1,260 калонсоли аз 60 то 77 сола, ки хатари баландтари деменсия доштанд, ҷалб кард. Нисфи онҳо барномаи дусолаи маслиҳатҳои парҳез, варзиш, машқҳои компютерии фикрӣ ва санҷиши саломатии дил ва рагҳоро гирифтанд; нисфи дигар маслиҳатҳои умумии саломатиро гирифтанд. Гурӯҳи барнома каме беҳтар дар як қатор санҷишҳои фикр натиҷа гирифт, фарқе, ки хурд аммо аз ҷиҳати оморӣ назаррас буд ([озмоиши FINGER дар Ланцет](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Озмоиш натиҷаҳои санҷишро чен кард, на ташхиси деменсияро.
 
-### US POINTER (United States)
+### US POINTER (Иёлоти Муттаҳида)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER 2,111 калонсоли аз 60 то 79 сола, ки беҳаракат буданд, парҳези камсифат доштанд ва дигар омилҳои хатар доштанд, ҷалб кард. Ҳарду гурӯҳ ташвиқ карда шуданд, ки фаъолтар ҷисмонӣ ва фикрӣ бошанд, беҳтар хӯранд, бо дигарон робита нигоҳ доранд ва саломатии дилро назорат кунанд. Як гурӯҳ барномаи сохторӣ ва бо мураббӣ гирифт; гурӯҳи дигар худаш роҳнамоӣ кард. Дар тӯли ду сол натиҷаҳои санҷиши фикр дар **ҳарду** гурӯҳ беҳтар шуданд ва дар гурӯҳи сохторӣ каме бештар ([озмоиши US POINTER дар журнали JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Муаллифон мегӯянд, ки барои донистани он ки фарқ дар зиндагии ҳаррӯза аҳамият дорад ё не, пайгирии бештар лозим аст. Азбаски гурӯҳи «ҳеҷ коре накардан» набуд, озмоиш наметавонад бигӯяд, ки ҳар барнома нисбат ба набудани тағйирот чӣ қадар кумак кардааст.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (фишори хун)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND 9,361 калонсоли ИМА аз 50 сола ва болотар бо фишори баланди хунро омӯхт. Онҳо ба ҳадафи пасттари фишор (рақами боло зери 120) ё ҳадафи стандартӣ (зери 140) таъин шуданд. Ҳадафи паст **нуқсони хифифи маърифатӣ**-ро, марҳилаи мушкилоти хотира ва фикр, ки пеш аз деменсия меояд, назаррас кам кард. Барои **деменсияи эҳтимолӣ** дар гурӯҳи ҳадафи паст ҳолатҳо камтар буданд, аммо фарқ аз ҷиҳати оморӣ назаррас набуд. Озмоиш барвақт қатъ карда шуд ва ҳолатҳои деменсия аз он ки интизор буд камтар буданд, пас шояд барои ҷавоби он савол хеле хурд бошад ([SPRINT MIND дар журнали JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Он чи баррасиҳо ҷамъ мекунанд
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Баррасии Кокрейн соли 2021 нӯҳ озмоиши калони барномаҳоеро, ки якбора чанд хатарро ҳал мекунанд, бо зиёда аз 18,000 нафар ҷамъ кард. Он беҳбудии хурдро дар санҷишҳои фикр ёфт, аммо **фарқи возеҳ дар шумораи одамоне, ки деменсия пайдо карданд**, дар ду озмоише, ки онро чен карданд, набуд ([баррасии Кокрейн дар бораи мудохилаҳои бисёрсоҳа](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Баррасии соли 2017 аз ҷониби Академияи миллии илмҳо, муҳандисӣ ва тиб, ки Институти миллии пиронсолӣ ҷамъбаст кардааст, далели «умедбахш, аммо қатъӣ нест»-ро барои се равиш ёфт: идораи фишори баланди хун, афзоиши фаъолияти ҷисмонӣ ва машқи фикрӣ.
 
-## Does it matter when you start?
+## Оё ҳангоми оғоз кардан аҳамият дорад?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Тавсияи Комиссияи Ланцет ин аст: хатарҳоро ҳарчи зудтар кам кунед ва то ҳадди имкон паст нигоҳ доред. «Ҳарчи барвақттар, ҳамон қадар беҳтар» ва «ҳарчи дертар, ҳамон қадар беҳтар». Ҳамчунин мегӯяд, ки ҳеҷ гоҳ барои кам кардани хатар барвақт ё дер нест. Бештари далелҳо ба миёнсолӣ, тақрибан аз 40 то 65 сола, марбут аст, аммо баъзе омилҳо, мисли аз даст додани бино ва танҳоӣ, хатарҳои давраи баъдин ҳастанд, ки амал ҳанӯз маъно дорад.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Гузориш мегӯяд, ки ҳоло далели қавитар мавҷуд аст, ки муддати тӯлонитари таъсири хатар таъсири калонтар дорад. Масалан, диабети оғозшуда дар миёнсолӣ назар ба диабети баъдтар муҳимтар ба назар мерасад.
 
-## Is dementia risk the same for everyone?
+## Оё хатари деменсия барои ҳама як аст?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Не. Комиссия ёфт, ки одамони кишварҳои даромади миёна ва паст, одамони гурӯҳҳои ақаллиятӣ ва одамони камбизоат аксар вақт ин хатарҳоро бештар доранд, аз ин рӯ деменсия ба синни ҷавонтар пайдо мешавад. Бисёре аз хатарҳо ба шароитҳое пайваст аст, ки мардум онҳоро интихоб накардаанд, мисли сифати таҳсилоти кӯдакӣ, ҳавое, ки дар он зиндагӣ мекунанд, ва он ки оё ғизои солим дастрас ва наздик аст.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Аз ин рӯ тавсияҳои Комиссия ба ҳукуматҳо нигаронида шудаанд, ҳамон қадар, ки ба шахсон: таҳсилоти хуб барои ҳамаи кӯдакон, ҳавои тоза, чораҳо барои кам кардани сигор кашидан, шакар ва намаки камтар дар ғизое, ки дар мағозаҳо ва тӯқҳо фурӯхта мешавад, ва гӯшмонак барои ҳар кас, ки ба онҳо ниёз дорад. Кӯшиши инфиродӣ муҳим аст, аммо муҳити зиндагӣ низ. Ин як сабаби дигар аст, ки касеро барои ташхис маломат накунед.
 
-## What are the honest limits of this research?
+## Маҳдудиятҳои воқеии ин тадқиқот чистанд?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Деменсия даҳсолаҳо инкишоф меёбад,** аммо аксари озмоишҳо аз ду то панҷ сол давом мекунанд. Худи деменсияро чен кардан, на танҳо натиҷаи санҷишро, омӯзишҳои хеле дароз ва хеле калонро талаб мекунад.
+- **Аксари озмоишҳо натиҷаи санҷиши фикрро чен мекунанд.** Беҳбудии хурд дар санҷиш лузуман маънои камтар шудани одамоне, ки деменсия пайдо мекунанд ё осонтар шудани зиндагии ҳаррӯзаро надорад.
+- **Ихтиёриён аксар вақт солимтар ва таҳсилдидатар** аз ҷамъияти умумӣ ҳастанд. Комиссияи Ланцет қайд мекунад, ки аксари далелҳо ҳанӯз аз кишварҳои даромади баланд аст ва гурӯҳҳои ақаллиятӣ кам намоянда ҳастанд.
+- **Баъзе пайвастагиҳо ду тарафа доранд.** Кам фаъол ё кам иҷтимоӣ будан метавонад нишонаи аввали деменсия бошад, на танҳо сабаб.
+- **Озмоишҳои парҳез то ҳол умедбахш набуданд.** Озмоиши се солаи парҳези MIND фарқи назаррасеро дар фикр дар муқоиса бо парҳези назоратӣ ёфт накард. Ба [роҳнамои парҳези мо](/brain-health/diet/) нигаред.
+- **Бозиҳои фикрӣ исбот нашудаанд, ки деменсияро пешгирӣ мекунанд.** Ба роҳнамои мо оид ба [бозиҳои фикрӣ ва деменсия](/brain-health/brain-games/) нигаред.
+- **Рӯза ҳанӯз далели инсонии хеле маҳдуд дорад** ва барои калонсолон метавонад хатарнок бошад. Ба [роҳнамои рӯза](/brain-health/fasting/) нигаред.
 
-## If someone did everything "right", why did they still get dementia?
+## Агар шахс ҳама корҳоро «дуруст» кард, чаро ҳанӯз деменсия гирифт?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Зеро деменсия танҳо натиҷаи интихобҳо нест. Институти миллии пиронсолӣ мегӯяд, ки [синну сол калонтарин омили хатари маълум барои Алсгеймер аст](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), ва ҳеҷ кас онро тағйир дода наметавонад. Генҳо нақш доранд. Ва олимон то ҳол пурра намефаҳманд, ки дар аксари одамон чӣ Алсгеймерро ба вуҷуд меорад. Ҳатто агар ҳар як аз 14 омили хатар бартараф мешуд, тахмини Комиссияи Ланцет беш аз нисфи ҳолатҳоро бе шарҳ мегузошт.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Пас агар шумо ба шахсе ғамхорӣ мекунед, ки варзиш мекард, хуб мехӯрд, ҳеҷ гоҳ сигор накашид ва бо вуҷуди ин деменсия гирифт, дар тарафи ӯ ё тарафи шумо ҳеҷ чиз хато нашудааст. Агар шумо худатон бо деменсия зиндагӣ мекунед, ин гуноҳи шумо нест. Гуноҳ дар байни оилаҳо маъмул аст, аммо сазовор нест. Ҳоло муҳим тасаллӣ, робита ва рӯзҳои хуб аст, ва [ғояҳои фаъолият](/activities/ideas/) ва [роҳнамои худнигоҳдории нигоҳубинкунанда](/caregiving/caregiver-self-care/) ҷои хуби оғоз ҳастанд.
 
-## What steps can you talk over with a doctor?
+## Кадом қадамҳоро бо духтур муҳокима кардан мумкин аст?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Инҳо соҳаҳоеанд, ки аксар вақт омӯхта мешаванд. Онҳо дар санҷиши муқаррарӣ арзишманданд, зеро аксарашон ба саломатии дил, рӯҳия ва мустақилият низ кӯмак мекунанд, новобаста аз он ки таъсирашон ба деменсия чӣ хоҳад буд.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Фишори хун.** Пурсед, ки рақамҳои шумо чанданд ва кадом ҳадаф барои шумо мувофиқ аст. Комиссияи Ланцет пешниҳод мекунад, ки аз тақрибан 40 сола то рақами боло 130 ё паст ҳадаф гузошта шавад, аммо ҳадафи дуруст барои калонсол аз саломатии умумии ӯ вобаста аст.
+2. **Шунавоӣ.** Санҷиши шунавоиро пурсед ва ки оё гӯшмонак кӯмак мекунад. Роҳнамои мо оид ба [шунавоӣ](/brain-health/hearing/) тадқиқотро шарҳ медиҳад.
+3. **Биноӣ.** Муоинаҳои мунтазами чашм гиред ва пурсед, ки оё мушкилоте, мисли катаракта, табобат шуда метавонад.
+4. **Холестерин.** Пурсед, ки оё холестерини LDL-и шумо бояд санҷида шавад ва оё чизе бояд тағйир ёбад.
+5. **Қанди хун.** Агар диабет доред, пурсед, ки чӣ гуна онро бехатар идора кунед.
+6. **Рӯҳия.** Депрессия маъмул ва табобатпазир аст. Агар зиёда аз якчанд ҳафта худро паст ҳис кунед ё ба чизҳо таваҷҷӯҳ надошта бошед, ба духтур гӯед.
+7. **Сигор ва спирт.** Пурсед, ки барои тарки сигор чӣ гуна дастгирӣ ҳаст ва барои спирт маҳдудиятҳои бехатар кадомҳо ҳастанд.
+8. **Ҳаракат.** Пурсед, ки барои шумо кадом намуди фаъолият бехатар аст. Роҳнамои мо оид ба [машқ](/brain-health/exercise/) ғояҳо дорад.
+9. **Муҳофизати сар.** Барои велосипедронӣ ва варзишҳои тамосӣ каска истифода баред ва пурсед, ки оид ба пешгирии афтидан чӣ кор кардан мумкин аст.
+10. **Робита бо дигарон.** Вақти бо одамон гузарондан як қисми зиндагии солим аст. Ба роҳнамои мо оид ба [робитаи иҷтимоӣ](/brain-health/social-connection/) ва ба [хоб](/brain-health/sleep/) низ нигаред.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Пеш аз тағйир додани доруҳо, парҳез, иловаи ғизоӣ, рӯза ё варзиш, аввал бо духтур маслиҳат кунед, махсусан агар бемории дил, диабет, таърихи афтидан доред ё аллакай бо деменсия зиндагӣ мекунед.
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Агар шумо тағйироти хотира ё фикрро мушоҳида кунед, ки шуморо нигарон мекунад, дар худатон ё касе дигар, вақт муқаррар кунед. Институти миллии пиронсолӣ қайд мекунад, ки [мушкилоти хотира метавонад сабабҳои дигар дошта бошад](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), аз қабили таъсироти доруҳо, мушкилоти ғуддаи сипарвор, депрессия ё камбудии витамини B12, ва ки баъзе аз ин мушкилот пас аз табобати сабаб аз байн мераванд. Роҳнамои мо оид ба [нишонаҳои огоҳкунанда](/brain-health/warning-signs/) шарҳ медиҳад, ки барои чӣ бояд нигоҳ дошт.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Фавран кӯмак гиред** барои тағйироти ногаҳонӣ: гиҷшавии ногаҳонӣ, нотавонӣ ё бехиссии як тараф, мушкилот бо гуфтан ё сардарди шадид метавонанд нишонаи сакта ё фавқулодда бошанд. Ба хидмати фаврии тиббии маҳаллии худ занг занед.
 
-## Where Golden Moments fits
+## Golden Moments дар куҷо ҷой дорад
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments фаъолиятҳои содаи муштаракро месозад, мисли [кортҳои сӯҳбат](/games/conversation-cards/), [бинго бо расм](/games/picture-bingo/) ва [таваққуфи нафаскашии ором](/games/calm-breathing/). Онҳо барои лаззат ва вақти якҷоя ҳастанд. Онҳо табобат нестанд ва деменсияро пешгирӣ ё суст намекунанд.

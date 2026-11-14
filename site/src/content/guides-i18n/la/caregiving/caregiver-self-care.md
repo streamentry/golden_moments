@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Cura sui curatoris: respite, subsidium et signa defectus"
+seoTitle: "Cura sui curatoris dementiae: respite et subsidium"
+description: "Signa defectus curatoris, requies, coetus subsidii et lineae auxilii liberae in Civitatibus Foederatis: Alzheimer's Association et Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Curare hominem dementia laborantem difficile est, et tui ipsius curam ad officium
+  pertinet. Signa cave, ut lassitudinem, iracundiam, somnum malum et discessum a
+  amicis. Specifica auxilia pete, respite utere et coetui subsidii adhaere. Auxilium
+  liberum in Civitatibus Foederatis includit lineam 24/7 Alzheimer's Association
+  1-800-272-3900 et Eldercare Locator 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Defectus saepe apparet ut lassitudo, iracundia, somnus malus, tristitia et neglegentia valetudinis propriae."
+  - "Respite curam tibi requiem dat, a paucis horis ad plures septimanas, domi aut in loco curae."
+  - "Specifica officia pete; multi volunt adiuvare, sed nesciunt quid faciant."
+  - "Linea 24/7 Alzheimer's Association (1-800-272-3900) subsidium liberum et confidentiale omni tempore praebet."
+  - "Eldercare Locator (1-800-677-1116) te ad servitia localia adducit, inter quae Area Agency on Aging tua."
+  - "Si in discrimine te sentis, voca aut scribe 988. In periculo, voca numerum urgentiae localem."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Quae sunt signa defectus curatoris?"
+    a: "Communia signa sunt lassitudo, oppressio aut angor, iracundia aut impatientia facile, somni difficultates, tristitia aut desperatio, discessus ab amicis, cephalalgiae aut dolores frequentes, et cibum, exercitationem aut curam valetudinis tuae praetermittere. Si haec signa regulariter accidunt, cum medico loquere."
+  - q: "Quomodo respite curam prope me inveniam?"
+    a: "Incipe ab Eldercare Locator (1-800-677-1116 aut eldercare.acl.gov), ut Area Agency on Aging localem attingas, Respite Locator Servitium Nationale ARCH, aut Alzheimer's Association Linea 1-800-272-3900. Familia, amici et voluntarii quoque respite praebere possunt."
+  - q: "Num Medicare respite solvit?"
+    a: "Pro homine qui curam hospitalem accipit, Medicare plerumque sumptus usque ad quinque dies continuos respite in nosocomio aut in statione peritorum nursing constituit, secundum National Institute on Aging. Plerumque assecuratio privata respite non tegit; Medicaid et nonnulla consilia curae diuturnae adiuvare possunt."
+  - q: "Estne linea Alzheimer's Association revera libera et nocte disponibilis?"
+    a: "Ita. Alzheimer's Association dicit lineam 1-800-272-3900 liberam et confidentialem esse, omni tempore per diem, 365 dies per annum, cum auxilio multis linguis. Compone 711 pro servitio relationis."
+  - q: "Estne egoisticum requiem a cura capere?"
+    a: "Non. Requies te adiuvat ut curam perseveres, et respite hominem quem curas mutatione comitatus et actionis quoque iuvare potest. Multi curatores postea dicunt se voluisse auxilium citius petere."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -66,92 +65,91 @@ relatedGames: [calm-breathing, picture-bingo, conversation-cards]
 related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, caregiving/when-they-say-no, activities/care-home-groups, activities/visiting]
 health: false
 ---
+Si curas hominem dementia laborantem, probabiliter tardo tempore et lassus hoc legis, cum elencho rerum quas non fecisti. Hoc normale est. Tui ipsius curam non esse deliciam aut praemium pro omnibus perfectis, sed id quod te sustinet ut pergas.
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Hic libellus signa defectus, quomodo veram requiem capias, ubi subsidium inveniatur et lineas auxilii liberas Civitatum Foederatarum quas hodie vocare potes tractat.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+## Quae sunt signa defectus curatoris?
 
-## What are the signs of caregiver burnout?
+Defectus saepe paulatim irrepit, itaque iuvat tua signa cognoscere. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) signa stressus curatoris enumerat, inter quae:
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+- lassitudinem, oppressionem aut angorem;
+- iracundiam aut impatientiam facile;
+- solitudinem aut discessum ab aliis;
+- somnum malum aut insufficientem;
+- tristitiam aut desperationem, aut amissionem voluptatis in rebus quas solebas amare;
+- cephalalgias frequentes, dolores aut alias difficultates corporis;
+- nullum tempus ad exercitationem aut cibum sanum tibi parandum;
+- praetermissionem balnei aut aliae curae personalis;
+- abusum alcoholis aut medicamentorum, inter quae medicamenta praescripta.
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) signa addit, ut negationem morbi, iram in hominem (“ille modo pertinax est”), angorem de futuro, difficultatem attentionis et valetudinis problemata quae onus afferunt. Suadet ut cum medico loquaris, si haec signa regulariter adsunt.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+NIA consilium est non exspectare donec omnino oneraris. Signa tua mature anima et ad ea responde.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+## Quid hodie, intra quinque minuta, facere possum?
 
-## What can I do today, in five minutes?
+Breves requies numerantur. Nihil ex his defectum sanat, sed difficile pomeridianum tempus tibi transire adiuvare potest.
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+- **Foras exi.** Sede in porticu aut ad cistam epistularum ambula, dum homo tutus et compositus est.
+- **Lente respira.** Paucas respiraciones lentas ante quam difficilem quaestionem respondeas. Pausam [Calm Breathing](/games/calm-breathing/) etiam cum homine quem curas communicare potes.
+- **Aquam bibe et aliquid manduca.** Facile est propriarum cenarum oblivisci.
+- **Unum amicum scribe.** Non ut aliquid petas, sed ut te coniungas.
+- **Benigna tibi dic.** [NIA libellus de cura tui ipsius](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) sententias suadet, ut “Quod possum facio,” “Non sum perfectus, et hoc est bene” et “Gaudebo momentis, cum simul in pace sumus.”
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+## Quid est respite curae, et quomodo id accipio?
 
-## What is respite care, and how do I get it?
+Respite cura brevis est pro homine quem curas, ut tu requiescas. [NIA libellus de respite cura](https://www.nia.nih.gov/health/caregiving/what-respite-care) explicat eam a paucis horis ad plures septimanas durare posse, et domi, in statione curae sanitatis aut in centro curae diurnae pro adultis fieri.
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) communes species describit:
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
-
-| Type | What it is |
+| Species | Quid est |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Auxilium domi | Amicus, cognatus, voluntarius aut comes vel adiutor mercede conductus venit ad domum |
+| Centrum diurnum pro adultis | Actiones ordinatae, ut musica et ars, in tuto coetu; transportatio et cibus saepe praebentur |
+| Pernoctatio aut breve manere | Communitas curae diuturnae hominem per noctem, paucos dies aut paucas septimanas curat |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Quis solvit?** Secundum NIA, respite a familia, amicis aut voluntariis nihil constare potest. Servitia professionalia horaria aut diurna pretium habent. Pro homine qui curam hospitalem accipit, Medicare plerumque sumptus usque ad quinque dies continuos respite in nosocomio aut in statione peritorum nursing constituit. Medicaid adiuvare potest. Plerumque assecuratio privata respite non tegit, quamvis nonnulla consilia curae diuturnae id faciant.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Consilium:** Alzheimer's Association suadet ut respite praebentes in situ non urgenti experiare, ut parati sint, si subito auxilium opus est.
 
-## Where can I find help near me?
+## Ubi auxilium prope me invenio?
 
-Several free US services can point you to local help.
+Plura servitia libera in Civitatibus Foederatis te ad auxilium locale dirigere possunt.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association Linea 24/7: 1-800-272-3900.** [Linea](https://www.alz.org/help-support/resources/helpline) libera et confidentialis est, omni tempore per diem, omnibus diebus anni, cum auxilio in plus quam 200 linguis per personas bilingues aut interpretes. Compone 711 pro servitio relationis. Mutationes morum, stressum curatoris, optiones respite, programmata localia et plura tecum discutere potes et longiorem colloquium cum consultore curae petere. Personae consilium medicum non dant.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), publicum servitium Administrationis pro Vita Communitatis, te ad servitia pro senioribus et familiis eorum adducit. Potes vocare, mittere textum, colloqui in linea aut scribere ad personas exercitatas, aut loca quaerere. Ad Area Agency on Aging localem te dirigere potest.
+- **ARCH National Respite Locator Service.** [Locator ARCH](https://archrespite.org/caregiver-resources/respitelocator/) praebentes respite per civitatem invenit et suadet ut primum Coalitionem Respite civitatis tuae aut programma Lifespan Respite, si civitas id habet, adeas. ARCH notat se praebentes non recognoscere, itaque ipse eorum experientiam et curriculum examina.
 
-## How do I find a support group?
+## Quomodo coetum subsidii invenio?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Quaere a linea aut in rete coetus prope te. Alzheimer's Association [coetus subsidii](https://www.alz.org/help-support/community/support-groups) curatoribus et hominibus dementia laborantibus praebet, in persona et in rete, a moderatoribus exercitatis ductos. Multa loca etiam coetus specializatos habent, ut pro curatoribus adultis aut pro hominibus Alzheimer iuvenili aut initiali. Etiam ALZConnected gerit, communitatem liberam in rete ubi curatores consilia communicant.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Coetus subsidii locus esse possunt, ubi sine iudicio conqueri potes, consilia practica ab iis qui similia passi sunt accipere, et minus solus esse. Si primus coetus non convenit, alium experiare.
 
-## How do I ask family and friends for help?
+## Quomodo amicos et familiam ad auxilium rogo?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Specifica esto. Multi volunt adiuvare, sed nesciunt quid offerre. NIA suadet:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Elenchum tenere** officiorum quae alii suscipere possunt, et sine eos eligere.
+- **Parva incipe,** si rogare difficile est.
+- **Officium personae accommoda.** Consobrinus qui coquere amat die Iovis cenam adfert. Vicinus qui in formis bene versatur chartis adiuvat.
+- **Scribe aut mitte epistulam,** si coram rogare incommodum est.
+- **Responsum exerce,** cum quis offert: “Gratias quod rogas. Hoc facere potes.”
+- **Expecta aliquas negationes** et noli eas personaliter accipere.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Alia consilia: rogare ut aliquis cum homine uno die per hebdomadam sedeat, eum in brevem excursionem ducat, aut visitet et ludum simul ludat. Nostrum [libellum de ludo communi](/caregiving/how-to-play-together/) facile est visitatoribus communicare.
 
-## What if something happened to me?
+## Quid si mihi aliquid accidit?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Nunc consilium subsidiarium simplex fac. NIA suadet ut cum familia aut amicis proximis decernas quis succurrat, et ut libellum servet cum numeris urgentiae, medicamentis, consiliis de moribus quae prosunt et actionibus favoritis. Alzheimer's Association etiam suadet ut contactus medicos hominis et indicem medicamentorum recentem facile invenibiles servetur.
 
-## When should I get professional or urgent help?
+## Quando auxilium professionale aut urgens petere debeo?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Medico tuo dic, si signa stressus regulariter adsunt, si depressus es, aut si difficile tibi est tolerare. Medico dic te curatorem esse. NIA notat consiliarios et operarios socialis curae in difficilibus sensibus et in consilio adiuvare posse, et Medicare, Medicaid et nonnulla consilia privata sumptus quosdam valetudinis mentis tegere posse.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Si in discrimine te sentis aut cogitationes de nocendo tibi habes, voca aut scribe 988 ut [Lineam Suicidii et Discriminis 988](https://988lifeline.org/) adeas, libera et per diem omnibus diebus disponibilis. Si quis in periculo praesenti est, numerum urgentiae localem voca.
 
-## Can shared activities give me a break too?
+## Possuntne communes actiones etiam requiem mihi dare?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Interdum. Actio tranquilla quam ambo amatis mitior pars diei esse potest tibi quoque, sicut homini quem curas: cantus veteres audire, imagines inspicere, aut ludum ut [Conversation Cards](/games/conversation-cards/), qui responsa recta non requirit. Si homo societatem amat, sessio coetus cum [Picture Bingo](/games/picture-bingo/) in centro senectutis aut programmate diurno pro adultis horam requiei tibi dare potest. Vide [actiones pro coetibus in domo curae](/activities/care-home-groups/) ad consilia.

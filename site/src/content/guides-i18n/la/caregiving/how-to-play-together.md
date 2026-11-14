@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Quomodo ludos cum homine dementia laborante ludere"
+description: "Dux practicus ad ludos cum homine dementia vivente ludendos: parandum, modus servandus, numquam corrigendum, ludi faciliores reddendi, et quando desinendum sit."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Ludum habe tamquam tempus simul actum, non probationem. Tempus placidum diei
+  elige, sede iuxta in quieto cubiculo, et unum ludum simplicem offer. Sine
+  personam modum constituere, errores innocuos numquam corrige, ludum faciliorem
+  fac ad primum signum tensionis, et imagines in colloquium converte. Desine dum
+  adhuc iuvat. Mature desinere aut simpliciter simul spectare bonus eventus est.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Propositum est laetitia et coniunctio, non finire aut responsa recte dare."
+  - "Primum para: cubiculum quietum, lux bona, perspicilla et auxilia auditus imposita, televisio clausa, unus ludus paratus."
+  - "Errores innocuos ne corrige. Dic “Experiamur hoc modo” aut simpliciter perge."
+  - "Ludum faciliorem fac antequam frustratio crescat: pauciores imagines, pauciores optiones, imagines visibiles relictae."
+  - "Imagines pro initio narrationum adhibe cum “Narra mihi de...” potius quam “Meministine...?”"
+  - "Desine ad primum signum lassitudinis aut perturbationis. Mature desinere successus est, non defectus."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Quam diu ludum ludere debemus?"
+    a: "Nulla est longitudo recta. Multis hominibus pauca minuta sufficiunt, et quibusdam diebus unus solus lusus satis est. Hominem observa potius quam horologium, et desine dum adhuc placide videtur."
+  - q: "Debeone eum vincere sinere aut errores non animadvertere simulare?"
+    a: "In ludo communi et sine pressione nihil est quod vincatur aut amittatur. Si error hominem non vexat, dimitte eum. Si eum vexare videtur, tacite adiuva aut ludum facilius fac, sine errorem monstrando."
+  - q: "Quid si malit me ludentem spectare?"
+    a: "Id bene est. Institutum Nationale de Senectute suadet ut homini permittatur simpliciter spectare, si id magis delectare videtur. Loquere de iis quae vides et invita eum ut digito monstret aut eligat quando velit."
+  - q: "Suntne hi ludi modus memoriam probandi?"
+    a: "Non. Ludi nostri sunt actiones simplices communes ad delectationem et colloquium. Non sunt probatio memoriae, nihil metiuntur, neque sunt remedium dementiae."
+  - q: "Quis ludus optimus est ad incipiendum?"
+    a: "Incipe ab simplicissimo qui personae convenit. Paria imaginum cum quattuor tesseris et imaginibus visibilibus relictis, aut Idem inveni cum duabus optionibus, sunt initia lenia. Colloquii chartae bene succedunt si persona loqui magis quam tangere delectatur."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Ludus bonus cum homine dementia vivente non speciem certaminis habet. Duo homines prope sedent, imagines monstrant, dictum ridet, et de quolibet loquuntur quod occurrit. Ludus est tantum causa ut tempus simul agant.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Hic dux docet quomodo parare, quomodo ludum moderari, quid dicere cum aliquid “male” procedit, quomodo quemlibet ludum faciliorem aut paulo difficiliorem reddere, quomodo eum in colloquium convertere, et quando desinere sit sciendum. Valet pro nostris [ludis](/games/) et pro chartis, puzzlis et ludis mensae quos iam habes.
 
-## What is the best way to play a game with someone who has dementia?
+## Quis est optimus modus ludendi cum homine dementia laborante?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Attende ad laetitiam, non ad perfectionem. Haec est summa sententia ex [ductu Alzheimer's Association de actionibus](https://www.alz.org/help-support/caregiving/daily-care/activities): aedifica super facultates quas persona adhuc habet, adiuva ut incipiat, difficilia ipse perfice, et ne reprehende aut corrige actiones innoxias.
 
-In practice that means:
+Re vera hoc significat:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Iuxta eum sede, non e regione.** Sedentes latere, ambo videtis schermam aut mensam, et auxilium similis est operi communi potius quam custodiae.
+- **Unum ludum simul offer.** Multitudo optionum ante omnia tamquam probatio sentitur.
+- **Eius ducatum sequere.** Si vult imagines suo ordine tangere, de una imagine per decem minuta loqui, aut post duos vices desinere, hic est ludus hodie.
+- **Bona momenta numera, non absolutas series.** Risus, narratio aut tranquilla semihora est eventus quem quaeris.
 
-## How do I set up before we start?
+## Quomodo me parem antequam incipiamus?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Pauca minuta paratui prohibent plerumque frustrationem quam homines ipsi ludo imputant.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Elige optimum tempus diei eius.** [Institutum Nationale de Senectute (NIA) in suo consilio de actionibus adaptandis](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suadet ut excursiones et actiones in tempus diei tradantur quo persona optime se habet. Multis hominibus hoc est medio mane. Post meridiem sero saepe difficilius est; vide [tranquillas actiones sub vesperam](/caregiving/late-day-restlessness/).
+2. **Cubiculum quietum fac.** Televisionem et radiophonum claude, et ostium si potes. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suadet ut strepitus et distractiones minuantur antequam loqui incipias.
+3. **Primum vide de commodo.** Potio prope sit, lavacrum ante adeatur, sella commoda sit, et perspicilla et auxilia auditus imposita sint.
+4. **Spatium bene illumina.** Lux clara et aequalis sine splendore in schermam facit ut imagines facilius videantur.
+5. **Ludum para antequam sedeas.** Aperi eum, optiones elige et sonum ipse constitue. Tum schermam ad eum converte. Consilia pro tabellis, vide [tabellam aut telephonum parare](/caregiving/tablets-and-screens/).
+6. **Instrumentum sustine.** Basis aut theca quae tabellam erectam tenet efficit ut nemo eam tenere debeat, et facilius est monstrare.
 
-## How do I invite them without pressure?
+## Quomodo eos sine pressione invitem?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Invitationem facilem et facile recusabilem fac. Hae formulae plerumque bene accipiuntur:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “Imagines hortorum inveni. Vis eas mecum spectare?”
+- “Potesne mihi in hoc puzzle auxiliari? Haereo.”
+- “Flores hodie an aves vis?” (electio inter duo facilior est quam quaestio aperta)
+- “Chartam sorori tuae facio. Quis color hic esse debet?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association suadet ut consilium actionis explices, ut chartam amico faciendam, quia causa sensum dat. Rogare auxilium quoque prodest, quia persona se utilem sentit.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Si negat, accipe. Postea iterum tenta aut aliud offer. Nostrum dux de [eo quod agendum est cum negat](/caregiving/when-they-say-no/) plura habet.
 
-## How long should a game last, and how fast should we go?
+## Quam diu ludus durare debet, et quam celeriter progrediamur?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Personam tempus constituere sine, et breves sessiones planes. Nulla est idealis longitudo ludi communis, quae probationibus innitatur. Duo ad quinque minuta placida sufficere possunt ut actio perfecta sit.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Expectare diutius quam naturale videtur.** NIA suadet ut homini plus temporis detur ad respondendum, et ut non interrumpatur. Decem in animo numera antequam auxilium praebes.
+- **Unus gradus simul.** Breve praeceptum da (“Tange imaginem”), deinde expecta. Monstra potius quam explica: digito indica ubi tangendum sit.
+- **Libere pausam fac.** Si subsistit ut de imagine loquatur, ludus manere potest. Festinare non opus est.
+- **Spectare sine.** NIA notat quosdam homines spectare malle, et id est electio valida.
 
-## Should I correct wrong answers?
+## Debeone responsa mala corrigere?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Non. Saepius iterum atque iterum leniter corrigere eum docet se deficere, etiamsi bene vis. Alzheimer's Association monet ne actiones innoxias reprehendas aut corrigas. In ludo fere omnis error innoxius est.
 
-| Instead of | Try |
+| Pro eo quod | Tempta |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “Non, hoc falsum est.” | “Experiamur hoc modo.” (exemplum a NIA datum) |
+| “Non par est. Iterum respice.” | Nihil dic et sume proximum vicem, aut “Ah, ambae sunt rubrae.” |
+| “Meministine quis hic est?” | “Narra mihi de hac imagine.” |
+| “Iam hoc fecisti.” | “Bona est haec. Iterum faciamus.” |
+| “Age, hoc nosti.” | “Vis ut finem monstrem?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Si error eum manifeste vexat, tacite adiuva. Imaginem rectam monstra, vicem tuam ipse sume, aut ludum proximo circuitu facilius fac. Si dictum finem ridiculum habet, cum eo ride. Eius finis fortasse melior est.
 
-## How do I make a game easier or harder?
+## Quomodo ludum faciliorem aut difficiliorem reddam?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Ludum ad personam in die dato accommoda, non ad titulum gradus. Eadem persona vespere simpliciorem versionem fortasse desiderat quam mane. Prima NIA indicatio est ut actio ad id quod persona potest congruat et ut sentiat se successum habere.
 
-| Game | Make it easier | Make it a little harder |
+| Ludus | Facilius fac | Paulo difficilius fac |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Paria imaginum](/games/picture-pairs/) | Incipe cum 4 tesseris et imagines visibiles relinque | Plures tesserae, aut imagines occulta si id commodum est |
+| [Idem inveni](/games/find-the-same/) | 2 optiones | Usque ad 4 optiones |
+| [Confer simul](/games/sort-together/) | Tu imaginem tenes, illa ad calathum monstrat | Imaginem et calathum ipsa tangit |
+| [Puzzle imaginis](/games/picture-puzzle/) | 4 frusta, de tota imagine primum loquere | 9 frusta |
+| [Dictum finire](/games/finish-the-saying/) | Finem monstra, deinde simul dicite | Sine eam finem dicere antequam tangat |
+| [Quaerendum verbum](/games/word-search/) | Imprime, unum verbum simul quaere, primam litteram eius indica | Sine eam proximum verbum ad inveniendum eligere |
+| [Colorare](/games/coloring/) | Tu duos colores elige, illa inter eos eligit | Ipsa omnes colores eligit |
+| [Chartae colloquii](/games/conversation-cards/) | Tantum imaginem simul inspicite | Interrogationes apertas in charta adhibe |
+| [Paria photographiarum](/games/photo-pairs/) | Pauca photographiae familiares cariores | Plures photographiae adde |
+| [Bingo imaginum](/games/picture-bingo/) | Adiutor cum unoquoque ludente sedet | Ludentes suas chartas ipsi notant |
+| [Respiratio placida](/games/calm-breathing/) | Tantum sede et simul spectate | Lente cum eo respira |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Signa ludi nimis difficilis: longae pausae quae sollicitae potius quam meditabundae videntur, “non possum” saepe dictum, tabellam repellit, aut errores qui eum vexant. Signa ludi nimis facilis: taedium, aut dicit id puerile esse. Si id fit, respice et ad aliud transi quod adultum videtur, ut quaerendum verbum, puzzle ex vera photographia, aut colloquium de imagine veteris operis sui.
 
-## How do I turn a game into a conversation?
+## Quomodo ludum in colloquium convertam?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Utere singula imagine tamquam invitatione ad loquendum, et quidquid dicit, bonum responsum habe. Multis familiis haec est optima pars ludendi.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Interrogationes apertas fac, quarum nulla responsio falsa est.** “Quid animadvertis?” “Quem tibi placet?” “Dic mihi de cucina similis.”
+- **Primus narra.** “Avia mea canem similem habebat.” Tua narratio facilitat ut ille suam narret.
+- **Digressionem sequere.** Si imago currus ad narrationem de itinere ducit, narratio est actio. Ludum sustine.
+- **Veritatem ne explores.** In recordatione iucunda conversatio plus valet quam res exactae. Si narratio a priore vice mutatur, novam versionem gaude.
+- **Adiumenta in ludis adhibe.** [Dictum finire](/games/finish-the-saying/) post unumquodque dictum sermonis incitamentum habet, et [Chartae colloquii](/games/conversation-cards/) ad hoc ipsum factae sunt. [Paria photographiarum](/games/photo-pairs/) photographias tuas familiares adhibet, quae saepe ditissimas narrationes excitant.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Plura consilia in nostris ducibus de [actionibus recordationis](/activities/reminiscence/) et [consiliis communicationis](/caregiving/communication-tips/) sunt.
 
-## When should we stop?
+## Quando desinamus?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Desine ad primum signum lassitudinis aut perturbationis, et idealiter paulo ante. Alzheimer's Association suadet ut actio desinatur aut mutetur cum attentio deficit aut frustratio crescit.
 
-Watch for:
+Observa:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- oscitationem, collapsionem, aut oculos a scherma aversos;
+- inquietudinem, surrectionem, aut rogationem ut abeat;
+- suspiria, responsa brevia, aut “non sum bonus in hoc”;
+- tactum temere, aut tabellam repellere;
+- lacrimas, iritationem, aut subitam mutationem animi.
 
-How to stop well:
+Quomodo bene desinas:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Fini aliquid facile.** Unum postremum par quod facit, aut imaginem ultimam ad admirandum.
+- **De te loquere.** “Tea mihi opus est. Hic desinamus?” vitat omnem suggestionem male se gessisse.
+- **Ad aliquid corporeum aut lenitivum transi.** Breve ambulatio, cibus parvus, lintea plicare aut musica.
+- **Aliquid calidum dic.** “Mihi placuit hoc tecum facere.” Nulla laus pro “recte faciendo”, sed gaudium de tempore simul acto.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Finire mature, consilia mutare, aut ludum relinquere et simpliciter simul sedere, omnes eventus boni sunt.
 
-## Can we play in a group or over a video call?
+## Possumusne in coetu aut per vocatum video ludere?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ita, paulo amplius parando. In coetu paucos homines serva, adiutores iuxta eos qui opus habent sede, et ludum cum manifesto communi proposito elige. [Bingo imaginum](/games/picture-bingo/) chartas impressas et vocatorem in schermam habet ad coetus. Plura vide in [actionibus pro coetibus in domo curae](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Per vocatum video persona in linea imaginem describere potest, dum aliquis in cubiculo monstrat et tangit. Vocatus breves et familiares sint. Nostrus dux de [vocatibus telephonicis et video](/activities/phone-and-video-calls/) plura consilia habet.
 
-## What if a game just isn't working?
+## Quid si ludus omnino non procedit?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Quibusdam diebus nihil iuvat, et id non ad te aut ad eum refertur. Ludum reconde et alio tempore diei, alio ludo, aut sine ludo tempta. Multae bonae actiones nihil cum schermis habent: musica, lintea plicare, album photographiarum spectare, aut breve ambulatio. Plura in [consiliis actionum](/activities/ideas/) inveni.

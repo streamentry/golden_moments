@@ -1,33 +1,32 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Attivitajiet ta' Grupp għad-Demenzja: Gwida għal Djar tal-Kura u Programmi tal-Ġurnata"
+seoTitle: "Attivitajiet ta' Grupp għad-Demenzja: Bingo, Kanzunetti, Stejjer"
+description: "Attivitajiet ta' grupp għal djar tal-kura u programmi tal-ġurnata: picture bingo, kanzunetti u rimembranza, b'pariri dwar il-postijiet u d-daqs tal-grupp."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Attivitajiet tajbin ta' grupp fil-kura tal-memorja u fil-programmi tal-ġurnata huma qosra,
+  familjari u faċli biex wieħed jingħaqad f'kull livell: picture bingo, kanzunetti flimkien,
+  ċrieki ta' rimembranza, moviment sempliċi u logħbiet tal-kliem flimkien. Żomm il-gruppi
+  iżgħar fejn tista', poġġi lin-nies biex kulħadd jara u jisma', agħti pass wieħed ċar
+  kull darba, u ippjana rwol aktar faċli u ħruġ kwiet għal min jeħtieġu.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Gruppi iżgħar spiss jaħdmu aħjar minn avveniment kbir wieħed, u jippermettu lil aktar nies jipparteċipaw attivament minflok ma jaraw biss."
+  - "Poġġi lin-nies f'ċirku jew f'nofs ċirku, qrib il-mexxej, b'attenzjoni għall-bżonnijiet tas-smigħ u tal-vista u bl-istorbju tal-isfond mitfi."
+  - "Ippjana kull attività f'żewġ jew tlieta livelli sabiex nies b'kapaċitajiet differenti kollha jkunu jistgħu jingħaqdu."
+  - "Evita l-mistoqsijiet, il-punteġġi u r-rebbieħa. Il-picture bingo jista' jitlaq b'kulħadd jispiċċa b'karta mimlija."
+  - "Li wieħed jitlaq kmieni, jara jew jorqod huwa kollu aċċettabbli. Ikun hemm membru tal-persunal lest biex jappoġġa lil min irid spazju aktar kwiet."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "X daqs ta' grupp huwa tajjeb għal attivitajiet tad-demenzja?"
+    a: "M'hemm l-ebda numru korrett wieħed, u dan jiddependi fuq ir-residenti, il-kamra u kemm għandkom persunal. Ħafna timijiet isibu li gruppi żgħar jippermettu lil kulħadd li jara, jisma' u jipparteċipa, filwaqt li avvenimenti f'kamra kbira spiss iħallu aktar nies jaraw biss. Jekk tmexxi avveniment kbir, żid persunal jew voluntiera li jistgħu joqogħdu fost ir-residenti u jgħinu persuna jew tnejn kull wieħed."
+  - q: "Kif nmexxi grupp b'kapaċitajiet imħallta?"
+    a: "Ippjana aktar minn mod wieħed biex wieħed jingħaqad f'kull attività. F'kant ta' kanzunetti, xi nies jgħannu kull kelma, xi wħud japlaw jew jgħannu bil-mod, u xi wħud iżommu shaker. Fil-picture bingo, xi nies isibu l-istampi tagħhom waħedhom filwaqt li għin jindika għal oħrajn. Poġġi lin-nies li jeħtieġu aktar għajnuna ħdejn membru tal-persunal jew voluntier."
+  - q: "Kif nilgħab picture bingo mingħajr ma jsir kompetittiv?"
+    a: "Għajjat kull stampa sakemm il-karta ta' kulħadd timtela, sabiex ħadd ma jitħalla barra. Tkellem dwar kull stampa hekk kif tidher, u tneħħix premjijiet għar-rebbieħa jew agħti lil kulħadd l-istess żgħir regalu. Il-punt huwa l-attenzjoni flimkien u l-konverżazzjoni, mhux min jispiċċa l-ewwel."
+  - q: "Nista' nuża l-logħbiet tagħna fuq skrin kbir f'grupp?"
+    a: "Iva. Il-logħbiet tagħna jaħdmu fuq browser tal-web, għalhekk tista' tiftaħhom fuq laptop jew tablet konness ma' TV jew projector. Picture Bingo jinkludi karti stampabbli u għajjej fuq l-iskrin. Finish the Saying u Picture Pairs jaħdmu wkoll tajjeb fuq skrin kbir, b'persuna waħda titteppja għall-grupp."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +51,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Din il-gwida hija għal dirigenti tal-attivitajiet, timijiet tal-kura tal-memorja u mexxejja tal-programmi tal-ġurnata għall-adulti. Tkopri formati ta' grupp li jaħdmu, it-tqegħid tal-kamra, l-adattament ta' attività waħda għal kapaċitajiet imħallta, u l-użu tal-logħbiet stampabbli tagħna u dawk fuq skrin kbir. Kollox hawn jimmira lejn il-kumdità, il-konnessjoni u l-għażla. Xejn hawn m'huwa test.
 
-## What makes a group activity work in memory care?
+## X jagħmel attività ta' grupp taħdem fil-kura tal-memorja?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Attività tajba ta' grupp hija familjari, qasira, faċli biex wieħed jingħaqad f'kull livell u bla pressjoni. L-[Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) tal-Alzheimer's Association jiddeskrivu l-impenn sinifikanti bħala xi ħaġa li tappoġġja l-interessi u l-preferenzi ta' persuna, u tippermetti għażla u suċċess, anke meta d-demenzja tkun fl-aktar forma serja. L-istess dokument jinnota li programmi tradizzjonali spiss jiddependu fuq avveniment kbir wieħed jew tnejn kuljum li fihom ir-residenti spiss ikunu biss passivament involuti.
 
-That points to a few practical rules:
+Dan iwassal għal ftit regoli prattiċi:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Familjari jaqbeż il-ġdid.** Kanzunetti, sentenzi, stampi u oġġetti mis-snin żgħar tar-residenti huma aktar faċli biex wieħed jingħaqad magħhom.
+- **Qasir jaqbeż it-twil.** Ippjana għal madwar it-tul tal-attenzjoni normali tal-grupp tiegħek, b'waqfa naturali f'nofsha.
+- **Li tagħmel jaqbeż li tara.** Agħti lil kull persuna xi ħaġa biex iżżomm, tittappja, tagħżel jew tgħid.
+- **Ħafna livelli, attività waħda.** Ibni fi triqat aktar faċli u aktar diffiċli biex wieħed jipparteċipa.
+- **L-ebda rebbieħa, l-ebda punteġġi.** Il-formati kompetittivi jħallu lil xi nies iħossu li falliet.
 
-## How big should the group be?
+## Kemm għandu jkun kbir il-grupp?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Iż-żgħir spiss huwa aktar faċli. L-Alzheimer's Association tinnota li persuna li ssib ġabra kbira mgħaqqda tista' tinteraġixxi b'suċċess aktar f'grupp iżgħar. M'hemm l-ebda numru korrett wieħed. Jiddependi fuq ir-residenti, il-kamra u kemm persunal u voluntiera hemm disponibbli.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Test utli: jistgħu kulħadd jara wiċċ il-mexxej, jisma' b'ċarezza u jkun jista' jintlaħaq minn għajjien fi ftit sekondi? Jekk le, aqsam il-grupp, żid għajnuna jew mur f'kamra iżgħar.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Għal avveniment kbir, bħal kunċert tal-festi, poġġi l-persunal u l-voluntiera fost ir-residenti, mhux madwar il-ħitan.
 
-## How should I set up the room and seating?
+## Kif għandi nqiegħed il-kamra u s-sedili?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Ċirku jew nofs ċirku.** Ir-rakkomandazzjonijiet tal-prattika jiddeskrivu ċirku ta' kondiviżjoni bħala l-aħjar f'spazju kbir biżżejjed biex kulħadd joqgħod fiċ-ċirku, mingħajr storbju tal-isfond.
+- **Il-mexxej qrib u fl-istess livell tal-għajnejn.** Oqgħod bilqiegħda minflok tibqa' wieqaf meta tista'.
+- **Is-smigħ u l-vista l-ewwel.** Poġġi n-nies bi problemi fis-smigħ l-aktar qrib il-mexxej, fuq in-naħa li tisma' aħjar. Iċċekkja li n-nuċċali u l-għajnuniet għas-smigħ ikunu fuqhom. L-Alzheimer's Association tinnota li problemi fil-vista u fis-smigħ jistgħu jagħmlu l-komunikazzjoni aktar diffiċli.
+- **Dawl minn wara r-residenti, mhux minn wara int.** Evita li tqiegħed lil xi ħadd iħares lejn tieqa qawwija.
+- **Itfi t-TV u r-radju.** L-Alzheimer's Association tagħti parir li jitneħħa l-istorbju li jaqbad kompetizzjoni waqt l-attivitajiet tal-mużika.
+- **Konverżazzjoni waħda kull darba.** Il-konverżazzjoni flimkien hija diffiċli għal nies li jgħixu b'demenzja u għal nies b'problemi fis-smigħ, kif tgħid l-Alzheimer's Association fil-[linji gwida dwar il-festi](https://www.alz.org/help-support/caregiving/holidays) tagħha.
+- **Ħruġ ċar u kantuniera kwieta.** Min irid jitlaq għandu jkun jista' jagħmel dan faċilment, b'membru tal-persunal miegħu sabiex jimxi magħhom.
 
-## Group activity ideas
+## Ideat għal attivitajiet ta' grupp
 
 ### Picture bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Picture bingo jisostitwixxi n-numri b'stampi ċari, bħal ibrik tat-te, kelb jew kuruna, sabiex ħadd ma jkollu jsegwi numru twil jew jaqra tipa żgħira.
 
-**How to run it:**
+**Kif tmexxih:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Stampa karta waħda għal kull persuna mill-paġna tagħna [Picture Bingo](/games/picture-bingo/) bil-buttuna Print. Karta ħoxna hija aktar faċli biex tinħadem. Laminaha għal użu mill-ġdid.
+2. Agħti markers kbar u faċli biex jinżammu, bħal chips tal-logħba, għatwa ta' flixkun jew bċejjeċ kwadri ta' karta.
+3. Uża l-għajjej fuq l-iskrin fuq TV jew projector, sabiex kulħadd jara l-istampa hekk kif tgħid l-isem tagħha.
+4. Ieqaf wara kull stampa u stieden kumment qasir: "Hemm min jixtieq jgħidilna dwar kelb li kien jaf?" jew "X tinnota f'din waħda?"
+5. Kompli tgħajjat sakemm kull karta timtela. Kulħadd jispiċċa.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Kif tadattah:** Uża inqas kwadri għal min isib karta sħiħa tqila wisq. Membru tal-persunal jista' jindika lejn l-istampa xierqa għal min għandu bżonnha. Xi nies jista' jkollhom preferenza li jżommu l-istampa tal-għajjej u juruha lill-grupp.
 
-### Sing-alongs
+### Kanzunetti flimkien
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Il-mużika hija waħda mill-attivitajiet ta' grupp l-aktar mgawda. L-Alzheimer's Association tinnota li anke fl-aħħar stadji, persuna tista' tkun kapaċi [tittappja ritmu jew tgħanni kanzunetta mit-tfulija](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Kif tmexxiha:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Agħżel kanzunetti li r-residenti kibru bihom, mhux dawk favoriti tal-mexxej. Staqsi lill-familji x'kien iħobb kull persuna.
+- Uża mużika mingħajr reklami, li l-Association tinnota li jistgħu jikkonfondu.
+- Ipprintja l-kliem b'kitba kbira għal dawk li jaqrawh, iżda tesiġix li jaqrawh.
+- Offri shakers, drums tal-id jew xalati biex jitmewġu.
+- Ħeġġeġ it-tittappjar u l-moviment, u żomm il-vuċi komda.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Kif tadattaha:** Xi nies se jgħannu kull kelma, xi wħud se jdendlu, xi wħud se jtappu sieq, u xi wħud sempliċiment jisimgħu. Dawn kollha jgħoddu. Ara [il-gwida tagħna dwar l-attivitajiet tal-mużika](/activities/music/) għal aktar.
 
-### Reminiscence groups
+### Gruppi ta' rimembranza
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Grupp ta' rimembranza jinġabar madwar tema, bħal snin tal-iskola, l-ewwel karozzi, il-kċejjen jew is-sajf, bl-użu ta' ritratti, oġġetti u mużika. L-għan huwa konverżazzjoni pjaċevoli, mhux tfakkir preċiż.
 
-**How to run it:**
+**Kif tmexxih:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Agħżel tema waħda u ġib ftit oġġetti li n-nies jistgħu jżommu: mikser tal-id, gwanti tal-baseball, kappell, katalgu taż-żerriegħa.
+2. Għaddi oġġett wieħed kull darba. Staqsi mistoqsijiet miftuħa: "Għidli dwar dan," "X tinnota?" "Min kien juża xi ħaġa bħal din?"
+3. Laqa' kull tweġiba. Qatt ma tikkoreġi data jew fatt.
+4. Iggwida d-diskussjoni lejn memorji sbieħ. Ir-rakkomandazzjonijiet tal-prattika jgħidu li l-fornituri tal-kura għandhom iwasslu r-rimembranza lejn memorji pożittivi, u mhux lejn dawk li jistgħu jikkaġunaw nkwiet.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) joffri karti stampabbli bi stampi u mistoqsijiet miftuħa skont it-tema, li jaħdmu tajjeb bħala bidu għal diskussjoni. Aktar ideat hemm fil-[gwida tagħna dwar ir-rimembranza](/activities/reminiscence/).
 
 ### Finish the saying
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Sentenzi familjari ("Flus iffrankati huma flus..."), jistiednu lil kulħadd biex jgħid it-tmiem flimkien. Uri [Finish the Saying](/games/finish-the-saying/) fuq skrin kbir u ħalli l-grupp iwieġeb b'leħen wieħed. Hemm prompt għall-kelma wara kull sentenza. Jekk ħadd ma jgħid it-tmiem, uriha u għaddi. M'hemm ebda tweġiba tajba jew ħażina.
 
-### Large-print word search, together
+### Sejbien ta' kliem b'kitba kbira, flimkien
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Ipproġetta l-[Word Search](/games/word-search/) b'kitba kbira fuq skrin u fittxu l-kliem bħala grupp, jew istampa kopji għal dawk li jgħoġbu jaħdmu waħedhom mal-mejda. Il-kliem jinqara biss oriżżontalment u vertikalment.
 
-### Gentle movement
+### Moviment delikat
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Stretching bilqiegħda, għaddi ballun artab jew balloon, jew żfin fuq sedja għal mużika familjari. Uri kull moviment bil-fatti minflok ma tiddeskrivih.
 
-### Sorting and matching at the table
+### Tqassim u tqabbil mal-mejda
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Mejda żgħira ta' tlieta sa erbgħa persuni tista' tqassam stampi, kampjuni ta' drapp jew kutlerija flimkien. Fuq l-iskrin, [Picture Pairs](/games/picture-pairs/) jista' jiġi lagħab bl-istampi viżibbli, b'persuna waħda titteppja filwaqt li l-mejda titkellem dwar kull stampa.
 
-## How do I use your games on a big screen?
+## Kif nuża l-logħbiet tagħna fuq skrin kbir?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Il-logħbiet tagħna jaħdmu fuq browser tal-web, għalhekk tista' tużahom fuq TV jew projector mingħajr ma tinstalla xejn.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Iftaħ il-logħba fuq laptop jew tablet konness mal-iskrin b'kejbil jew b'casting.
+2. Agħmel il-browser full screen u poġġi l-ħoss f'livell komdu.
+3. Ħalli mexxej wieħed jittappja filwaqt li l-grupp jgħid l-għażliet. Jew għaddi tablet lil residenti li jrid jieħu d-dawra tiegħu.
+4. Ieqaf kull meta l-grupp ikun lest. Il-logħbiet m'għandhomx arloġġ, punteġġ jew tmiem sfurzat.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) u [Conversation Cards](/games/conversation-cards/) normalment jaqblu l-aktar mal-gruppi. Ara l-għażliet kollha fil-[paġna tal-logħbiet](/games/) tagħna.
 
-## How do I adapt one activity for mixed abilities?
+## Kif nadatta attività waħda għal kapaċitajiet imħallta?
 
-Plan at least three ways to join every activity.
+Ippjana mill-inqas tliet modi biex wieħed jingħaqad f'kull attività.
 
-| Activity | More independent | Some support | Most support |
+| Attività | Aktar indipendenti | Xi għajnuna | L-aktar għajnuna |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Picture bingo | Isib u jgħatti l-istampi tiegħu | Membru tal-persunal jindika; il-persuna tgħatti | Iżomm karta ta' stampa; jisma' u jara |
+| Kanzunetta flimkien | Jgħanni, jagħżel il-kanzunetta li jmiss | Idoqq jew jittappja, juża shaker | Jisma', iżomm xalel, jittappjalu idu |
+| Rimembranza | Jgħid stejjer | Iwieġeb iva jew le jew jindika | Iżomm u jħoss l-oġġett |
+| Sejbien ta' kliem | Jaħdem fuq il-kopja stampata tiegħu | Isib il-kliem fuq skrin kbir b'għajnuna | Jisma' hekk kif il-kliem jinqara |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Għal residenti fl-istadji aktar tardivi, in-NHS tinnota li l-attivitajiet spiss iridu jsiru aktar sempliċi u jiffukaw aktar fuq is-sensi, bħall-mużika, oġġetti biex jinlemsu u massaġġ tal-id. Mument wieħed għal wieħed matul jew wara l-grupp jista' jkun aktar xieraq għalihom minn sehem fil-grupp innifsu. Ara [l-attivitajiet għall-istadju aħħari](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Kif għandu jitkellem il-mexxej waqt il-grupp?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Ipprezenta lilek innifsek kull darba, u uża l-isem preferut ta' kull persuna.
+- Ikkellem bil-mod, agħti pass wieħed kull darba, u uri qabel tgħid.
+- Agħmel stedini miftuħa ("Għidli dwar...") jew għażliet sempliċi, qatt mhux mistoqsijiet ta' test ("Tiftakar...?").
+- Tikkoreġix. Irringrazzja lil kull persuna għal kull kontribut.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Aktar dwar dan hemm fin-nasihat tagħna dwar [il-komunikazzjoni](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Tmiem tajjeb, u li tħalli lin-nies jitilqu
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+It-twaqqif huwa riżultat tajjeb. Ara sinjali li xi ħadd għiegħel, inkwiet jew mhux kalm, u ħalli membru tal-persunal joffri mixja jew siġġu kwiet fi kamra oħra. Xi ħadd li jdendel waqt kant ta' grupp jista' jkun sempliċement komdu.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Agħlaq kull grupp bl-istess mod, b'kanzunetta familjari jew b'grazzi sempliċi, sabiex it-tmiem ikun kalm u mistenni. Wara, ikteb ftit noti dwar x'ħadem u min gawda xiex. Dawk in-noti jagħmlu s-sessjoni li jmiss aħjar.

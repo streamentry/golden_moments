@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "װען אַ מענטש מיט דעמענץ װיל תמיד אַהײם גײן"
+seoTitle: "דעמענץ און דער װונטש אַהײם צו גײן: װאָס צו זאָגן"
+description: "פֿאַרװאָס אַ מענטש מיט דעמענץ פֿרעגט װעגן אַהײם אַפֿילו װען ער איז שױן דאָ, װאָס צו זאָגן, באַרויִקנדע טעטיקײטן און װי צו היטן אים זיכער װען ער פּרוּװט אַװעקגײן."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  װען אַ מענטש מיט דעמענץ בעט זיך תמיד אַהײם, מיינט „אַהײם“ אָפֿט אַ געפֿיל פֿון זיכערקײט אָדער אַ ערטער פֿון דער פֿאַרגאַנגנהײט, נישט אַ געבײַ. צו שטרײַטן, אַז ער איז שױן אַהײם, איז נישט גוט. דערקענט דאָס געפֿיל, פֿאַרזיכערט אים אַז ער איז זיכער, פֿרעגט װעגן זײַן אַהײם, און דערנאָך פֿירט אים זאַנפֿט צו פֿאָטאָס, מוזיק, אַ שניטקע, אַ שפּאַציר אָדער אַ פּשוטע אַרבעט. בדקט אויב ער האָט הונגער, דאָרשט, דאַרף דעם קלאָזעט, אָדער װײטיק. אױב עס הײבט זיך פּלוצלינג אָן, רופֿט זײַן דאָקטער.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„איך װיל אַהײם גײן“ מיינט אָפֿט „איך פֿיל זיך נישט זיכער אָדער נישט רויִק“, נישט אַ בקשה פֿאַר אַ אַדרעס."
+  - "שטרײַטן אָדער באַװײזן, אַז ער איז שױן אַהײם, מאַכט געװײנלעך די נויט ערגער. ענטפֿערט אויף דאָס געפֿיל אַנשטאָט."
+  - "פֿרעגט אים צו דערצײלן װעגן אַהײם, און דערנאָך ביט אים אָן פֿאָטאָס, מוזיק, אַ שניטקע, אַ שפּאַציר אָדער אַ פּשוטע אַרבעט."
+  - "בדקט אַ זאַך װאָס מען קען פֿאַרריכטן: הונגער, דאָרשט, דעם קלאָזעט, װײטיק, צו הײס אָדער צו קאַלט, ראַש, מידקײט."
+  - "אױב עס פֿאַלט פֿאָר יעדן שפּעטן נאָכמיטאָג, קען עס זײַן סאַנדאַונינג; אַ שטענדיקער רוטין און גוטס ליכט קענען העלפֿן."
+  - "גרײט זיך פֿאַר זיכערקײט, אױב ער פּרוּװט אַװעקגײן, און רופֿט זײַן דאָקטער װעגן יעדער פּלוצלינגער ענדערונג."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "פֿאַרװאָס פֿרעגט מײַן מאַמע מיט דעמענץ תמיד אַהײם צו גײן װען זי איז שױן אַהײם?"
+    a: "דעמענץ קען מאַכן באַקאַנטע צימערן פֿרעמד, און מענטשן פֿילן זיך מאָל װי אין אַ פֿריִערדיקער תּקופֿה פֿון לעבן. „אַהײם“ קען מיינען אַ קינדהײט־הױז אָדער פּשוט דאָס געפֿיל פֿון זיכערקײט און קאָמפֿאָרט. אױף דאָס געפֿיל צו ענטפֿערן אַרבעט געװײנלעך בעסער װי אױפֿצײַגן װוּ זי איז."
+  - q: "װאָס זאָל איך זאָגן, װען ער בעט זיך אַהײם?"
+    a: "פּרוּװט „איר זענט זיכער דאָ, און איך בלײַב מיט אײַך“, און דערנאָך „דערצײלט מיר װעגן אײַער הײם“. הערט צו, װײַזט אַ פֿאָטאָ אָדער אַ לידל, און ביט אָן אַ טרונק אָדער אַ קורצן שפּאַציר. מײַדט „איר זענט שױן אַהײם“ אַלס אַ תיקון, װאָס קען פֿילן װי ס׳װאָלט געזאָגט געװאָרן, אַז זײ זענען אומרעכט."
+  - q: "צי איז עס גוט צו זאָגן, אַז מיר װעלן שפּעטער אַהײם גײן?"
+    a: "משפּחות און דעמענץ־ארגאַניזאַציעס זענען נישט איינשטימיק דערװעגן. פֿיל הײבן אָן מיט אױפֿריכטיקן טרײסט און זאַנפֿטער אָפּלײַטונג, און נוצן בלױז פֿאַר מאָמענטן אַ זאַנפֿטע אומװאָר, װען דער אמת װעט נאָר מאַכן נויט װאָס דער מענטש קען נישט פֿאַרארבעטן. װאָס איר אױסקלײבט, זײַט פֿריַנדלעך און שטענדיק גלײַכמעסיק, און שפּאָטן קײנמאָל נישט דעם מענטשס געפֿיל פֿון װירקלעכקײט."
+  - q: "װאָס אױב ער פּרוּװט אַרױסגײן פֿון הױז?"
+    a: "בלײַבט רויִק און גײט מיט אים אַרום, אַנשטאָט אים צו שטעלן אין װעג; אַ קורצער שפּאַציר באַרויִקט אָפֿט דעם דראַנג. שטעלט זיכערקײט־שטעפּ אײַן פֿאַרױס, װי אַ אידענטיפֿיקאַציע־אָרמבאַנד, טיר־קלאָקן און אַ פֿריש פֿאָטאָ. װען דער מענטש װערט פֿאַרלױרן, קוקט נאָך נאָענטע זיכערע ערטער װי איר רופֿט גלײַך לאָקאַלע פּאָליציי אָדער נויטדינסטן. װאַרט נישט אַ פֿעסטע צאָל מינוטן פֿאַר דעם מאָלדן."
+  - q: "װען זאָל איך רופֿן אַ דאָקטער?"
+    a: "רופֿט זײַן דאָקטער גלײַך, אױב דאָס בעטן אָדער פֿאַרװירעניש הײבט זיך פּלוצלינג אָן, אָדער װערט פֿיל ערגער אין שעה אָדער טעג, באַזונדערס מיט היץ, אַ נײַע מעדיצין אָדער צייכנס פֿון אַ אורין־אינפֿעקציע. פּלוצלינגע פֿאַרװירעניש קען זײַן דעליריום, װאָס דאַרף דרינגלעכע הילף. רופֿט אײַער לאָקאַלע נויטנומער, אױב עמעץ איז אין סכּנה."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +45,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +65,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„איך װיל אַהײם גײן.“ פֿאַר פֿיל משפּחות איז דאָס איינע פֿון די שװערסטע זאַכן צו הערן, בפֿרט װען דער מענטש װאָס איר זאָרגט פֿאַר זיצט אין זײַן אײגענעם װױנצימער. עס איז געװײנלעך, עס קען פּאַסירן אין יעדן סטאַדיום פֿון דעמענץ, און עס זענען רויִיקע, פּראַקטישע װעגן צו ענטפֿערן. דער בלאַט דערקלערט, װאָס די װערטער מיינען אָפֿט, װאָס צו זאָגן, טעטיקײטן װאָס קענען העלפֿן אין דעם מאָמענט, און װי צו בלײַבן זיכער.
 
-## Why does someone with dementia keep asking to go home?
+## פֿאַרװאָס פֿרעגט אַ מענטש מיט דעמענץ תמיד װעגן אַהײם גײן?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+געװײנלעך מיינט „אַהײם“ מער אַ געפֿיל װי אַ ערטער. די אַלצהײַמער־געזעלשאַפֿט באַשרײַבט עס װי אַ געפֿיל פֿון קאָמפֿאָרט און זיכערקײט, אָדער אַ הײם פֿון דער פֿאַרגאַנגנהײט, און נישט דאָס הױז אַליין. דעמענץ קען באַקאַנטע צימערן מאַכן װי פֿרעמד, און אַ מענטש קען פֿילן, אַז ער לעבט אין אַ פֿריִערדיקער תּקופֿה פֿון לעבן, װען אַהײם איז געװען דאָס קינדהײט־הױז אָדער דער ערט װוּ מען האָט דערצױגן די קינדער.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+די װערטער קענען אױך זײַן אַ צײכן, אַז עפּעס אַנדערש שטימט נישט יעצט: ער האָט הונגער, דאָרשט, דאַרף דעם קלאָזעט, האָט װײטיק, איז צו הײס אָדער צו קאַלט, איז מיד, איז אײנזאַם, דערשראָקן אָדער איבערװאָרפֿן פֿון ראַש. די [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ציילט װײטיק, ראַש, אײנזאַמקײט, ענדערונגען אין דער רוטין און מעדיצינען צװישן די סיבות פֿון אַגיטאַציע.
 
-## What should I say when they ask to go home?
+## װאָס זאָל איך זאָגן, װען ער בעט זיך אַהײם?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+ענטפֿערט אױף דאָס געפֿיל, נישט אױף די װערטער. די [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ראַט אָפּ פֿון פּרוּװן אים איבערצײַגן, אַז ער טועה: זײַנע געפֿילן זענען אמת, דעריבער ענטפֿערט ערשט מיט טרייסט און פֿאַרזיכערונג, און דערנאָך לײַטעט אים זאַנפֿט אַװעק.
 
-Phrases that often help:
+זאַצן װאָס העלפֿן אָפֿט:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **באַנעמט דאָס געפֿיל.** „עס קלינגט, ס׳פֿעלט אײַך אײַער הײם.“
+- **פֿאַרזיכערט.** „איר זענט זיכער דאָ, און איך בלײַב מיט אײַך.“ די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) רעקאָמענדירט די פּשוטע װערטער „איר זענט זיכער דאָ.“
+- **לאָדט צו דערמאָנונגען.** „דערצײלט מיר װעגן אײַער הײם. װי האָט אויסגעקוקט אײַער קיך?“ פֿראַגן װעגן דער װײַטער פֿאַרגאַנגנהײט איז געװײנלעך באַקװעמער װי פֿראַגן װעגן הײַנט.
+- **װעלן עפּעס צוזאַמען טאָן.** „לאָמיר ערשט טרינקען אַ גלאָז טיי,“ אָדער „װעט איר מיר העלפֿן מיט די האַנטיכער?“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+אַ װאַרעמער טאָן און אַ האַנט אויפֿן אָרעם, אױב ער האָט ליב צו טאַטשן, קען מער זאָגן װי די װערטער.
 
-## What should I avoid?
+## װאָס זאָל מען פֿאַרמײַדן?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **שטרײַטן אָדער דערקלערן.** „איר װױנט הײַנט דאָ“ אָדער „דאָס איז איר הײם שױן 40 יאָר“ פֿאָדערט פֿון אים צו אָננעמען עפּעס װאָס דעמענץ מאַכט שװער צו אָננעמען, און עס קען פֿילן װי מען זאָגט אים, אַז ער טועה.
+- **פֿרעגן װי אַ פּרוף.** „װײסט איר נישט?“ אָדער „װאָס איז די אַדרעס?“ לײגט דרוק צו.
+- **צו שפּערן די טיר אין כּעס.** אױב ער גײט אַרױס, בלײַבט רויִק און גײט מיט אים. אַ קורצער שפּאַציר צוזאַמען באַרויִקט אָפֿט דעם דראַנג.
+- **נישט אײַלן.** געבט אים צײַט צו רעדן װעגן אַהײם, איידער איר װעקסלט דעם טעמע.
 
-## Activities that can help in the moment
+## אַקטיװיטעטן װאָס קענען העלפֿן אין דעם מאָמענט
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+נאָכדעם װי איר האָט דערקענט דאָס געפֿיל, קען אַ רויִיק, באַקאַנט טעטיקײט פֿאַרשיבן די אויפֿמערקזאַמקײט אָן אָפּשטופּן עס.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **קוקט אױף פֿאָטאָס פֿון הײם און משפּחה.** בלעטערט און מאַכט קאָמענטאַרן („קוקט אױף דעם גאָרטן“) אַנשטאָט פֿרעגן. אױף אַ טעלעפֿאָן אָדער טאַבלעט מאַכט [Photo pairs](/games/photo-pairs/) אײַערע אייגענע משפּחה־פֿאָטאָס צו אַ זאַנפֿט צוזאַמענפּאַסן שפּיל, און די פֿאָטאָס בלײַבן אױף אײַער געצײַג.
+2. **רעדט װעגן הײם.** [Conversation cards](/games/conversation-cards/) געבן אָפֿענע פֿראַגן װעגן הײזער, קיכעס, שכנים און יום־טובים, אָן ריכטיקע תשובות.
+3. **שפּילט מוזיק װאָס ער האָט ליב.** דער NIA ציילט זאַנפֿטע מוזיק צװישן די װעגן צו באַרויִקן אַגיטאַציע. זע אונדזער [מוזיק־טעטיקײטן](/activities/music/).
+4. **האָט אַ שניטקע אָדער אַ טרונק.** הונגער און דאָרשט קענען אױסזען װי אומרו. אַ גלאָז טיי אָדער אַ ליבלינג־שמאַק איז אויך אַ קלײן ריטואַל פֿון זײַן אין שטוב.
+5. **גײט אַ שפּאַציר אָדער זיצט דרױסן.** באַװעגונג און טאָגליכט העלפֿן, באַזונדערס פֿריִער אין טאָג.
+6. **געבט אַ באַקאַנטע אַרבעט.** פֿאַלדן װעש, סאָרטירן בעסטעק אָדער באַװעסערן פֿלאַנצן קענען צוריקברענגען דאָס געפֿיל פֿון פֿירן אַ שטוב.
+7. **מאַכט אַלץ פּאַמעלעך.** שלאָגט אָפּ דעם טעלעװיזיע, פֿאַרמינערט ראַש און בלענד, און פּרוּװט אַ געמײנזאַמע [Calm Breathing](/games/calm-breathing/)־פּאָז.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+אױב אײן אידע פֿאַלט נישט אײַן, פּרוּװט אַן אַנדערע שפּעטער. צוזאַמען שטיל זיצן איז אױך אַ גוטע תּוצאה.
 
-## Check for a cause you can fix
+## קאָנטראָלירט פֿאַר אַ סיבה װאָס מען קען פֿאַרריכטן
 
-| Check | What to try |
+| בדיקה | װאָס צו פּרובירן |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| הונגעריק אָדער דאָרשטיק | געבט אַ טרונק און אַ קלײנע שניטקע |
+| דאַרף דעם קלאָזעט | בעט אים אַרײַן אין באָד־צימער, רויִק און אָן קײן געמאַך |
+| װײטיק אָדער אומבאַקװעמקײט | קוקט נאָך צײכנס װי צונױפֿגעצויגענע פּנים, האַלטן אַ גוף־טײל אָדער פֿאַרשטאָפּונג, און זאָגט עס צו זײַן דאָקטער |
+| צו הײס אָדער צו קאַלט | שטעלט אײַן אַ שיכט קליידער אָדער די צימער־טעמפּעראַטור |
+| ראַש אָדער געדרענג | שטעלט זיך אַרײַן אין אַ רויִקערן צימער, שלאָגט אָפּ דעם טעלעװיזיע |
+| מיד אָדער איבערגעריצט | רוט, פֿאַרדונקלט דאָס ליכט, שפּילט װײכע מוזיק |
+| שפּעטער נאָכמיטאָג | זע דעם אָפּשניט װעגן סאַנדאַונינג אונטן |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+די אַלצהײַמער־געזעלשאַפֿט רעקאָמענדירט צו האַלטן אַ קורצן רשום פֿון דעם מאָמענט װען דאָס בעטן פֿאַלט פֿאָר, למשל פֿאַר די מאָלצײַטן, נאָך באַזוכער אָדער בײַ דער דעמערונג. מוסטערן העלפֿן פּלאַנען פֿאַרױס.
 
-## Is it okay to tell a white lie?
+## איז עס גוט צו זאָגן אַ װײַסע ליגן?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+דאָס איז אַ רעאַלע דעבאַטע, און גוטהאַרציקע משפּחות קומען צו פֿאַרשײדענע שטעלונגען. די אַלצהײַמער־געזעלשאַפֿט זאָגט, אַז עס איז נישט קײן איינציקער ריכטיקער ענטפֿער: ליגנס קענען מאַכן עטלעכע מענטשן מער מיסטרױיש, דעריבער באַשליסט װאָס איז אין דעם מענטשס בעסטע אינטערעסן און זײַט גלײַכמעסיק. אין Penn Memory Center איז די מיינונג פֿון דעם קאָ־דירעקטאָר, אַז אמת איז די פֿעסטע באַשטימונג, און אַ זאַנפֿטע ליגן איז צוגעלאָזן בלױז װען דער מענטש קען נישט פֿאַרדײַען אַ באַשטימטע אמת, און אַז מען דאַרף קײנמאָל נישט שפּאָטן זײַן װירקלעכקײט.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+פֿיל זאָרגער געפֿינען אַ מיטל־װעג װאָס װערקט: אױפֿריכטיקער טרייסט און אָפּלײַטונג ערשט („מיר װעלן הײַנט בלײַבן דאָ, און איך בין גלײַך דאָ מיט אײַך“), אָן שטרײַטן װעגן װוּ הײם איז.
 
-## What if it happens every afternoon or evening?
+## װאָס אױב עס פֿאַלט פֿאָר יעדן נאָכמיטאָג אָדער אָװנט?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+אומרו װאָס הײבט זיך אָן אָדער װערט ערגער שפּעט אין נאָכמיטאָג, װערט אָפֿט גערופֿן סאַנדאַונינג. די [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) רעקאָמענדירט אַ שטענדיקן פּלאַן, טאָגליכט און טעטיקײט, װעניקער שפּעטע שלומערן, און קײן קאַפֿײן אָדער אלכױל שפּעט אין טאָג. אָנצינדן די ליכט פֿאַר דער דעמערונג קען אױך העלפֿן. אונדזער פֿירער װעגן [רויִקע טעטיקײטן אין שפּעטן נאָכמיטאָג](/caregiving/late-day-restlessness/) האָט מער.
 
-## Keeping them safe if they try to leave
+## זיכערקײט אױב זײ פּרוּװן אַװעקגײן
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+בעטן אַהײם קען פֿירן צו װאַנדערן. די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) שאַצט, אַז זעקס פֿון צען מענטשן װאָס לעבן מיט דעמענץ װעלן װאַנדערן מינדסטנס אײן מאָל.
 
-**Prepare ahead:**
+**גרײט זיך פֿאָרױס:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- אַ אָרמבאַנד מיט זײַן נאָמען און אײַער טעלעפֿאָן־נומער, אָדער אַ מעדיצינישן אָרמבאַנד, און עטיקעטן אין זײערע קליידער. די [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) דערמאָנט די MedicAlert און דאָס Alzheimer's Association Safe and Found פּראָגראַם, װאָס קען קאָסטן געלט.
+- אַ טיר־קלאָק אָדער אַ אַלאַרם, און שלעסער װאָס זענען הויך אָדער נידעריק געשטעלט. שליסט קײנמאָל דעם מענטש אַליין אײַן.
+- אַ פֿריש נאָענטע פֿאָטאָ, און אַ רשימה פֿון ערטער װוּ ער קען גײן, למשל אַ פֿריִער הײם אָדער אַרבעט־ערט.
+- זאָגט פֿאַרטרױטע שכנים, און גיט זײ אײַער נומער.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**אױב ער פֿעלט אָפּ:** קוקט נאָך נאָענטע זיכערע ערטער װעגן װען איר רופֿט גלײַך לאָקאַלע פּאָליציי אָדער נויטדינסטן. װאַרט נישט אַ פֿעסטע צאָל מינוטן פֿאַר דעם מאָלדן. אַ 2021 [U.S. Department of Justice זשורנאַל־אַרטיקל װעגן פֿאַרשװונדענע־מענטשן אונטערזוכונגען](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) זאָגט, אַז געזעצן־אַגענטורן זאָלן נישט פֿאָדערן אַ באַשטימטע װאַרטצײַט; ער צײלט אױך דעמענץ־ענלעכע צייכנס װי אַ הױך־ריזיקע זאָרג. לאָקאַלע מעלדונג־פּראָצעדורן װאַריִערן. זאָגט די אָנטװאָרטער, אַז דער מענטש האָט דעמענץ, טײלט די לעצטע באַקאַנטע לאָקאַציע און אַ פֿריש פֿאָטאָ, און פֿאָלגט זייערע אָנװײזונגען. אױב עס איז אַ צװײטער העלפֿער, בעט אים צו בלײַבן בײַם טעלעפֿאָן. זוכט נישט אַליין אין אומזיכערע ערטער.
 
-## When should I call a doctor?
+## װאַן זאָל איך רופֿן אַ דאָקטער?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+רופֿט זײַן דאָקטער גלײַך, אױב די בעטן אָדער פֿאַרװירעניש הײבט זיך פּלוצלינג אָן, אָדער װערט פֿיל ערגער אין שעה אָדער טעג. די [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) זאָגט, אַז פּלוצלינגע אָדער שנעל־ענדערנדיקע פֿירונג, באַזונדערס נאָך אַ אינפֿעקציע אָדער אַ מעדיצין־ענדערונג, זאָל מען גלײַך אָפּקוקן. פּלוצלינגע פֿאַרװירעניש קען זײַן דעליריום, װאָס דער [NHS](https://www.nhs.uk/symptoms/confusion/) זאָגט דאַרף דרינגלעכע הילף; אורין־אינפֿעקציעס זענען אַ געװײנלעכע סיבה בײַ עלטערע מענטשן.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+עס העלפֿט אױך צו דערמאָנען אַ שטענדיק מוסטער בײַ די װײַטערדיקע אַפּוינטמענט, װײַל װײטיק, נידעריקע שטימונג, שלאָף־פּראָבלעמען אָדער נעבענװירקונגען פֿון מעדיצין קענען אַלע שפּילן אַ ראָלע.

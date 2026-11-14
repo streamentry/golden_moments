@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Når nokon med demens stadig spør om å få reise heim"
+seoTitle: "Demens og ønsket om å reise heim: Kva du kan seie"
+description: "Kvifor ein person med demens spør om å reise heim sjølv når dei er heime, kva du kan seie, roande aktivitetar å prøve, og korleis du held dei trygge viss dei prøver å gå."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Når nokon med demens stadig vil reise heim, tyder «heim» ofte ei kjensle av tryggleik eller ein stad
+  frå fortida, ikkje ein bygning. Ikkje argumenter for at dei er heime. Anerkjenn kjensla, forsikre dei
+  om at dei er trygge, spør om heimen, og flytt så varsamt over til bilete, musikk, ein matbit, ein
+  spasertur eller ei enkel oppgåve. Sjekk etter sult, tørst, toalett eller smerte. Om det startar brått,
+  ring legen deira.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Eg vil heim» tyder ofte «Eg kjenner meg ikkje trygg eller roleg», ikkje ein førespurnad om ei adresse."
+  - "Å argumentere eller bevise at dei er heime, gjer som regel nauda større. Svar på kjensla i staden."
+  - "Be dei fortelje om heimen, og tilby så bilete, musikk, ein matbit, ein spasertur eller ei enkel oppgåve."
+  - "Sjekk etter noko som kan fiksast: sult, tørst, toalett, smerte, for varmt eller kaldt, støy, trøytheit."
+  - "Viss det skjer kvar ettermiddag, kan det vere solnedgangsuro; ein fast rutine og godt lys kan hjelpe."
+  - "Planlegg for tryggleik viss dei prøver å gå, og ring legen om ei brå endring."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Kvifor spør mor mi med demens stadig om å reise heim når ho er heime?"
+    a: "Demens kan gjere kjende rom framande, og folk kjenner seg somme gonger som om dei er i ei tidlegare tid i livet. «Heim» kan tyde eit barndomshus eller berre kjensla av å vere trygg og komfortabel. Å svare på kjensla fungerer som regel betre enn å peike på kvar ho er."
+  - q: "Kva bør eg seie når dei spør om å reise heim?"
+    a: "Prøv «Du er trygg her, og eg er saman med deg», og så «Fortel meg om heimen din». Lytt, del eit bilete eller ein song, og tilby ein drikk eller ein kort spasertur. Unngå «Du er heime» sagt som ei rettleiing, for det kan kjennast som at dei tek feil."
+  - q: "Er det greitt å seie at vi reiser heim seinare?"
+    a: "Familiar og demensorganisasjonar er ueinige om dette. Mange startar med ærleg trøyst og å leie merksemda over på noko anna, og tek berre i bruk ei varsam usanning når sanninga berre ville gjort vondt, og personen ikkje klarer å handtere det. Uansett kva du vel, vær snill og konsekvent, og gjer aldri narr av kjensla deira av verkelegheita."
+  - q: "Kva gjer eg viss dei prøver å gå ut av huset?"
+    a: "Vær roleg, og gå saman med dei i staden for å stoppe dei; ein kort spasertur roar ofte trongen. Set i verk tryggleikstiltak på førehand, som eit ID-armband, dørklokker og eit nyleg bilete. Viss personen forsvinn, sjekk nærliggande trygge stader og kontakt lokal politi eller nødetatane utan å vente. Ikkje vent eit fast tal minutt før du varslar."
+  - q: "Når bør eg ringe lege?"
+    a: "Ring legen raskt viss spørsmåla eller forvirringa startar brått eller blir mykje verre i løpet av timar eller dagar, særleg med feber, ny medisin eller teikn på urinvegsinfeksjon. Brå forvirring kan vere delirium, som treng hurtig hjelp. Ring det lokale nødnummeret viss nokon er i fare."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +49,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +69,127 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Eg vil heim.» For mange familiar er dette ein av dei vanskelegaste setningane å høyre, særleg når personen du har omsorg for sit i si eiga stove. Det er vanleg, det kan skje på alle stadium av demens, og det finst rolege, praktiske måtar å svare på. Denne sida tek for seg kva orda ofte tyder, kva du kan seie, aktivitetar som kan hjelpe i augeblikket, og korleis du held dei trygge.
 
-## Why does someone with dementia keep asking to go home?
+## Kvifor spør nokon med demens stadig om å reise heim?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Vanlegvis er «heim» meir ei kjensle enn ein stad. Alzheimer's Society
+skildrar det som ei kjensle av trøyst og tryggleik, eller ein heim frå fortida, heller enn sjølve huset. Demens kan gjere kjende rom framande, og ein person kan kjenne seg som om dei lever i ei tidlegare tid i livet, då heimen var barndomshuset eller staden der dei fekk barna sine.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Orda kan òg vere eit teikn på at noko anna er gale akkurat no: dei er sultne, tørste, må på toalettet, har vondt, er for varme eller kalde, er trøytte, einsame, redde eller overvelda av støy. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
+listar smerte, støy, einsemd, endringar i rutinen og medisinar blant årsakene til uro.
 
-## What should I say when they ask to go home?
+## Kva bør eg seie når dei spør om å reise heim?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Svar på kjensla, ikkje på orda. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+rår frå å prøve å overtale personen om at dei tek feil: kjenslene deira er ekte, så
+svar med trøyst og forsikring først, og led så varsamt over til noko anna.
 
-Phrases that often help:
+Setningar som ofte hjelper:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Namngi kjensla.** «Det høyrest ut som du saknar heimen.»
+- **Forsikre.** «Du er trygg her, og eg er saman med deg.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)
+  rår til dei enkle orda «Du er trygg her».
+- **Inviter til minne.** «Fortel meg om heimen din. Korleis såg kjøkkenet ut?»
+  Å spørje om den fjerne fortida er som regel meir behageleg enn spørsmål om i dag.
+- **Tilby noko saman.** «La oss ta ein kopp te først», eller «Vil du hjelpe meg med desse handklea?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Ein varm tone og ei hand på armen, viss dei likar berøring, kan seie meir enn orda.
 
-## What should I avoid?
+## Kva bør eg unngå?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Å argumentere eller forklare.** «Du bur her no» eller «Dette har vore heimen din i 40 år»
+  ber dei godta noko demens gjer vanskeleg å godta, og det kan kjennast som at dei får
+  beskjed om at dei tek feil.
+- **Å quize.** «Hugsar du ikkje?» eller «Kva er adressa?» legg på press.
+- **Å stenge døra i sinne.** Viss dei går mot døra, vær roleg og gå saman med dei.
+  Ein kort spasertur saman roar ofte trongen.
+- **Å hasta.** Gi dei tid til å snakke om heimen før du skiftar emne.
 
-## Activities that can help in the moment
+## Aktivitetar som kan hjelpe i augeblikket
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Etter at du har anerkjent kjensla, kan ein roleg, kjend aktivitet flytte merksemda
+utan å avvise kjensla.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Sjå på bilete av heimen og familien.** Snu sidene og kommenter («Sjå den hagen»)
+   i staden for å stille spørsmål. På mobil eller nettbrett gjer [Photo pairs](/games/photo-pairs/)
+   dine eigne familiebilete om til eit roleg parspel, og bileta blir verande på eininga.
+2. **Snakk om heimen.** [Conversation cards](/games/conversation-cards/) gir opne spørsmål om hus,
+   kjøkken, naboar og høgtider, utan rette svar.
+3. **Spel musikk dei elskar.** National Institute on Aging listar roande musikk blant måtane
+   å roe uro på. Sjå vår [rettleiing om musikkaktivitetar](/activities/music/).
+4. **Ta ein matbit eller ein drikk.** Sult og tørst kan sjå ut som rastløyse. Ein kopp te eller
+   ein favorittkake er òg ein liten rituell måte å vere heime på.
+5. **Gå ein tur eller sit ute.** Rørsle og dagslys hjelper, særleg tidleg på dagen.
+6. **Gi ei kjend oppgåve.** Brett klede, sorter besteiet eller vatn planter kan gi att kjensla av
+   å halde eit heim i gang.
+7. **Ta det roleg.** Slå av fjernsynet, demp støy og blending, og prøv ei felles
+   [calm breathing](/games/calm-breathing/)-pause.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Viss ei idé ikkje slår til, prøv ei anna seinare. Å sitje roleg saman er òg eit godt resultat.
 
-## Check for a cause you can fix
+## Sjekk etter ei årsak du kan fikse
 
-| Check | What to try |
+| Sjekk | Kva du kan prøve |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Sulten eller tørst | Tilby ein drikk og ein liten matbit |
+| Må på toalettet | Tilby eit besøk på do, roleg og utan mas |
+| Smerte eller ubehag | Sjå etter teikn som å knipe augo saman, halde rundt ein kroppsdel eller forstoppelse, og fortel legen deira |
+| For varmt eller for kaldt | Juster eit lag klede eller romtemperaturen |
+| Støy eller mykje folk | Flytt til eit roligare rom, slå av fjernsynet |
+| Trøytt eller overstimulert | Kvil, dim lyset, spel mjuk musikk |
+| Seint på ettermiddagen | Sjå avsnittet om solnedgangsuro nedanfor |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society rår til å føre ei kort logg over når spørsmålet kjem, til dømes før måltid,
+etter besøk, eller i skumringa. Mønster gjer det lettare å planleggje på førehand.
 
-## Is it okay to tell a white lie?
+## Er det greitt å seie ei kvit løgn?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Dette er ein ekte debatt, og snille familiar endar på ulike stader. Alzheimer's Society seier at det
+ikkje finst eitt rett svar: usanningar kan gjere somme meir mistenksame, så avgjer kva
+som er best for personen, og vær konsekvent. Ved Penn Memory Center er standpunktet til den eine
+medleiaren at sanninga er standard, og at ei varsam usanning berre er akseptabel når personen ikkje
+kan handtere ein bestemt sanning, og at du aldri skal gjere narr av verkelegheita deira.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Mange pårørande finn ein mellomveg som fungerer: ærleg trøyst og å leie merksemda over først («Vi
+blir her i natt, og eg er rett her saman med deg»), utan å krangle om kvar heimen er.
 
-## What if it happens every afternoon or evening?
+## Kva gjer eg viss det skjer kvar ettermiddag eller kveld?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Rastløyse som startar eller blir verre seint på ettermiddagen, blir ofte kalla solnedgangsuro (sundowning).
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
+foreslår ein fast timeplan, dagleg sollys og aktivitet, færre seine lurar, og ingen koffein eller alkohol
+seint på dagen. Å tenne lys før skumringa kan òg hjelpe. Vår rettleiing om
+[roande aktivitetar seint på ettermiddagen](/caregiving/late-day-restlessness/) har meir.
 
-## Keeping them safe if they try to leave
+## Hald dei trygge viss dei prøver å gå
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Å spørje om å reise heim kan føre til at dei vandrar av garde. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)
+anslår at seks av ti personar som lever med demens, vil vandre av garde minst éin gong.
 
-**Prepare ahead:**
+**Førebu på førehand:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Eit ID- eller medisinsk armband med namnet deira og telefonnummeret ditt, og merkelappar i klede.
+  [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and)
+  nemner MedicAlert og Alzheimer's Association sitt Safe and Found-program, som kan koste pengar.
+- Ein dørklokke eller alarm, og lås plasserte høgt eller lågt. Lås aldri personen inne åleine.
+- Eit nyleg nærbilete, og ei liste over stader dei kan gå til, til dømes ein tidlegare heim eller arbeidsplass.
+- Fortel tillitsfulle naboar det, og gi dei nummeret ditt.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Viss dei forsvinn:** sjekk nærliggande trygge stader, og kontakt lokal politi eller nødetatane raskt.
+Ikkje vent eit fast tal minutt før du varslar. Ein artikkel frå 2021 i [tidsskriftet til det amerikanske justisdepartementet om etterforsking av savna personar](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=)
+seier at politietatar ikkje bør krevje ei fast ventetid; han listar òg demenslignande symptom som ei
+høgrisikobekymring. Lokale rutinar for melding varierer. Fortel dei som kjem til hjelp at personen
+har demens, del sist kjende stad og eit nyleg bilete, og følg rettleiinga deira. Viss det er ein annan
+som kan hjelpe, be dei bli ved telefonen. Leit ikkje på farlege stader åleine.
 
-## When should I call a doctor?
+## Når bør eg ringe lege?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Ring legen deira raskt viss spørsmåla eller forvirringa startar brått, eller blir mykje verre i løpet av
+timar eller dagar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
+seier at brå eller raskt skiftande åtferd, særleg etter ein infeksjon eller ei medisinendring, bør sjekkast
+med ein gong. Brå forvirring kan vere delirium, som [NHS](https://www.nhs.uk/symptoms/confusion/) seier
+treng hurtig hjelp; urinvegsinfeksjonar er ei vanleg årsak hos eldre.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Det hjelper òg å nemne eit jamt mønster på neste time, sidan smerte, lågt humør, søvnproblem eller
+bivirkningar av medisin kan spele inn.

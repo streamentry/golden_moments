@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "මතක රැකවරණයේ හෝ රෝහලේ සිටින ඩිමෙන්ශියා ඇති අයෙකු බැලීමට යාම"
+seoTitle: "ඩිමෙන්ශියා ඇති අයෙකු බැලීමට යාම: කළ යුතු දේ සහ ගෙනයා යුතු දේ"
+description: "මතක රැකවරණයේ, වැඩිහිටි නිවාසයක හෝ රෝහලක සිටින ඩිමෙන්ශියා ඇති අයෙකු බලන විට: ගෙනයා යුතු දේ, සරල ක්‍රියාකාරකම්, කෙටි බැලීම් සහ හොඳින් සමු ගැනීම."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  මතක රැකවරණයේ හෝ රෝහලේ සිටින ඩිමෙන්ශියා ඇති අයෙකු බලන විට, සරලව තබන්න: පැමිණෙන විට ඔබේ නම කියන්න, ඡායාරූප, සංගීතය හෝ ප්‍රිය කෑමක් වැනි දෙයක් බෙදා ගැනීමට ගෙනයන්න, එකට එක පහසු දෙයක් කරන්න. දිගු, කලාතුරකින් බැලීම්වලට වඩා කෙටි, නිතර බැලීම් බොහෝ විට හොඳින් යයි. දෙදෙනාට ම පහසු වන පරිදි සන්සුන්, සමාන සමු ගැනීමක් සැලසුම් කරන්න.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "පුද්ගලයාට ඔවුන්ගේ නමෙන් ආචාර කර ඔබ කව්ද කියන්න, ඔවුන්ට එය අනුමාන කර ගැනීමට අවශ්‍ය නොවන සේ: ‘හෙලෝ අම්මා, මම සූසන්, ඔබේ දුව.’"
+  - "බෙදා ගැනීමට දේ එකක් හෝ දෙකක් ගෙනයන්න, උදාහරණ ලෙස ඡායාරූප ඇල්බමයක්, ප්‍රිය සංගීතය, මෘදු බෙදුමක් හෝ කාර්ය මණ්ඩලය අනුමත කළ කෑමක්."
+  - "කෙටි, නිතර බැලීම් බොහෝ විට දිගු, කලාතුරකින් බැලීම්වලට වඩා හොඳින් යයි. ඔබ සිටීම ඔබ කියන දේට වඩා වැදගත් ය."
+  - "රෝහලේ දී, කාර්ය මණ්ඩලයට පුද්ගලයා ගැන එක් පිටුවක තොරතුරු පත්‍රයක් දී, හදිසි වෙනසක් ගැන වහාම වෛද්‍යවරයාට කියන්න."
+  - "ඔබේ පිටවීම සැලසුම් කරන්න: කොපමණ වේලාවක් සිටිය හැකිද කියන්න, සෑම විටම එක ම සමු ගැනීම භාවිත කරන්න, දිගු වේලාවක් නොරැඳී යන්න."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "ඩිමෙන්ශියා ඇති අයෙකු බැලීමට යන විට මා ගෙනයා යුත්තේ කුමක්ද?"
+    a: "කතා කිරීමට දෙයක් නොව බෙදා ගැනීමට දෙයක් ගෙනයන්න. කුඩා ඡායාරූප ඇල්බමයක්, ඔවුන්ගේ ප්‍රිය ගීත ලැයිස්තුවක්, මෘදු බෙදුමක්, අත් ක්‍රීම්, පැරණි විනෝදාංශයක් ගැන සඟරාවක් හෝ කාර්ය මණ්ඩලය අනුමත කළ කෑමක් ඕනෑම දෙයක් හොඳින් ක්‍රියා කරයි. රැකවරණ නිවාසයක, පවුලේ ඡායාරූප සහ හුරු වස්තූන් කාමරය ගෙදරක් වගේ දැනීමට උදව් කළ හැකියි."
+  - q: "ඩිමෙන්ශියා ඇති අයෙකු බැලීමට කොපමණ වේලාවක් ඉන්නද?"
+    a: "නිශ්චිත කාලයක් නැත. බොහෝ පවුල් දිගු, කලාතුරකින් බැලීම්වලට වඩා කෙටි, නිතර බැලීම් හොඳින් යන බව දකිනවා, මන්ද පුද්ගලයා ඉක්මනින් වෙහෙසට පත්විය හැකි අතර ඔබ කොපමණ වේලාවක් සිටියාදැයි ඔවුන්ට මතක නොවිය හැකි නිසා. වෙහෙස ලකුණු බලා, බැලීම තවමත් හොඳ දැනෙන විට පිටව යන්න."
+  - q: "ඔවුන් ගෙදර යන්න ඉල්ලන විට මා කියන්නේ කුමක්ද?"
+    a: "වචන වලට නොව හැඟීමට පිළිතුරු දෙන්න. ‘මට ගෙදර යන්න ඕන’ කියන්නේ බොහෝ විට ‘මට සුවපහසු හෝ ආරක්ෂිත නැහැ’ කියන එක. ‘ඔබේ ගෙදර ගැන මට කියන්න’ කියා බලන්න, එකට ඡායාරූප බලන්න, හෝ ඇවිදීමක් හෝ කෑමක් දෙන්න. තර්ක කිරීම හෝ ඔවුන්ට යා නොහැකි හේතුව පැහැදිලි කිරීම සාමාන්‍යයෙන් කලබලය වැඩි කරයි."
+  - q: "ඔවුන් මා හඳුනා නොගත්තොත් කුමක් කළ යුතුද?"
+    a: "එය වේදනා ගෙන දිය හැකියි, නමුත් ඔවුන් නිවැරදි කිරීමට හෝ ‘ඔබ මා කව්ද කියා දන්නේ නැද්ද?’ කියා ඇසීමට උත්සාහ නොකරන්න. උණුසුමින් හා සරලව ඔබ ව හඳුන්වා දී එකට ගත කරන කාලය භුක්ති විඳින්න. ඔබ කව්ද කියා ස්ථානගත කර ගත නොහැකි වුවත්, බොහෝ අය තවමත් සහවාසය භුක්ති විඳින අතර බැලීමේ උණුසුම දැනෙයි."
+  - q: "රෝහලේ නැවතී සිටින කාලයේ මා උදව් කළ හැක්කේ කෙසේද?"
+    a: "හැකි විට පුද්ගලයා සමඟ සිටින්න, ඔවුන්ට කෑම සහ පානය ගැනීමට උදව් කරන්න, ඡායාරූප වැනි හුරු දේවල් ගෙනයන්න. ඔවුන්ගේ දෛනික චර්යාව, කැමති නම, ප්‍රියතම හා අප්‍රිය දේවල් සහ වේදනාවේ ලකුණු ලැයිස්තුගත කළ පත්‍රයක් කාර්ය මණ්ඩලයට දෙන්න. පුද්ගලයා හදිසියේ නරක් වුණොත් හෝ වෙනස් වුණොත් වහාම වෛද්‍යවරයාට කියන්න, මන්ද හදිසි ව්‍යාකූලත්වය වෛද්‍ය ගැටළුවක ලකුණක් විය හැකි නිසා."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+ඔබ ප්‍රියමනාප අයෙකු මතක රැකවරණයේ, වැඩිහිටි නිවාසයක හෝ රෝහලේ බලන විට බොහෝ හැඟීම් ඇති විය හැකියි. ඔවුන් එය මතක තබා නොගන්නේ නම් කියන්නේ කුමක්ද, බාගන්නේ කුමක්ද, හෝ බැලීමට වටිනාකමක් තිබේද යන්න ඔබට සිතෙන්න පුළුවන්. එයට වටිනාකමක් තිබේ. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය (National Institute on Aging) සටහන් කරන්නේ, ඇල්සයිමර් රෝගය ඇති අය, බැලීමට එන්නා කව්ද කියා ඔවුන්ට මතක නැති වුවත්, [බොහෝ විට සහවාසය භුක්ති විඳින](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) බවයි. මෙම පිටුව බැලීමට පෙර, බැලීමේ දී සහ පසුව ප්‍රායෝගික පියවර, සහ රෝහල් නැවතීම් සඳහා විශේෂ ඉඟි ලබා දෙයි.
 
-## How do I get ready for a visit?
+## බැලීමට සූදානම් වන්නේ කෙසේද?
 
-A little planning makes the visit easier for both of you.
+කුඩා සැලසුමක් ඔබ දෙදෙනාට ම බැලීම පහසු කරයි.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **හොඳ වේලාවක් තෝරන්න.** ඩිමෙන්ශියා ඔස්ට්‍රේලියාව (Dementia Australia) යෝජනා කරන්නේ පුද්ගලයා සාමාන්‍යයෙන් වඩාත් අවදි ව සිටින වේලාවේ බලන ලෙසයි, බොහෝ අය සඳහා එය උදෑසන හෝ දහවල් පමණ වේ. Family Caregiver Alliance යෝජනා කරන්නේ පහසුකම්වල කාලසටහන ඉගෙන ගෙන, [ක්‍රියාකාරකම් වේලාව වෙනුවට නිදහස් කාලය](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) තුළ බලන ලෙසයි.
+- **කාර්ය මණ්ඩලය සමඟ පරීක්ෂා කරන්න.** පුද්ගලයා අද කොහොමද කියා අසන්න, කෑම, සුරතල් සතුන් හෝ පිටතට යාම පිළිබඳ ඕනෑම රීති පරීක්ෂා කරන්න.
+- **කුඩා බැලීම් බෑගයක් සකසන්න.** බෙදා ගැනීමට දේ එකක් හෝ දෙකක් ප්‍රමාණවත් ය (පහත ලැයිස්තුව බලන්න).
+- **කථා කිරීමේ මාතෘකා කිහිපයක් සැලසුම් කරන්න.** පුද්ගලයාට බෙදා ගැනීමට අලුත් ආරංචි නොතිබිය හැකි නිසා, ඔබේම දේ ගෙනයන්න: පවුල් ගැන යාවත්කාලීන තොරතුරු, කාලගුණය, ක්‍රිකට් හෝ පාපන්දු තරගයක්, හාස්‍යජනක කථාවක්.
+- **ඔබේම අපේක්ෂාවන් සකසන්න.** සමහර බැලීම් උණුසුම් හා කතාබහෙන් පිරුණු ඒවා වනු ඇත. තවත් ඒවා නිශ්ශබ්ද හෝ දුෂ්කර ඒවා වනු ඇත. දෙකම සාමාන්‍ය ය.
 
-## What should I bring?
+## මා ගෙනයා යුත්තේ කුමක්ද?
 
-Bring things to share, not things that test. Good choices include:
+පරීක්ෂා කරන දේවල් නොව, බෙදා ගත හැකි දේවල් ගෙනයන්න. හොඳ තේරීම් අතර:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **කුඩා ඡායාරූප ඇල්බමයක්**, විශාල, පැහැදිලි ඡායාරූප සහිත. කාර්ය මණ්ඩලයට පහසුවට ඒවායේ පිටුපස ලේබල් කරන්න.
+- **ප්‍රිය ගීත ලැයිස්තුවක්** දුරකථනයේ, සරල හෙඩ්ෆෝන් හෝ කුඩා ස්පීකරයක් සමඟ.
+- **අතට ගෙන සිටින්න මෘදු දෙයක්,** උදාහරණ ලෙස හුරු බෙදුමක්, ගවුමක් හෝ සෙවිලි.
+- **අත් ක්‍රීම්**, පුද්ගලයා ස්පර්ශය භුක්ති විඳින්නේ නම් මෘදු අත් මර්දනයක් සඳහා.
+- **පැරණි උනන්දුවක් ගැන සඟරාවක් හෝ පින්තූර පොතක්,** උදාහරණ ලෙස වගාව, මෝටර් රථ, කුරුල්ලන් හෝ ආහාර පිසීම.
+- **ප්‍රිය කෑමක්**, කාර්ය මණ්ඩලය ආරක්ෂිත යයි කීවොත්.
+- **කාමරය සඳහා හුරු වස්තු.** Family Caregiver Alliance යෝජනා කරන්නේ මල්, පැලෑටි, පවුලේ පින්තූර සහ කලා කෘති, හෝ අතීතයේ පවුලේ ඡායාරූප සහිත විශාල පෝස්ටරයකි.
+- **ටැබ්ලට් එකක්**, පවුලේ ඡායාරූප බැලීමට හෝ එකට මෘදු ක්‍රීඩාවක් සඳහා.
 
-## What can we do together during a visit?
+## බැලීමේ දී එකට කළ හැක්කේ කුමක්ද?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+එකට යමක් කිරීම කථාබහේ පීඩනය ඉවත් කරයි. ඩිමෙන්ශියා ඔස්ට්‍රේලියාව ඡායාරූප බැලීම, පහසු අත්වැඩක්, පැළ සිටුවීම, සංගීතය, කෑමක් බෙදා ගැනීම, හෝ උද්‍යානය වටේ ඇවිදීම යෝජනා කරයි. තවත් අදහස් කිහිපයක්:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **ඡායාරූප බලන්න.** ඔබට පෙනෙන දේ පෙන්වන්න: “ඒ තොප්පිය බලන්න.” “මේ වෙරළ ලස්සනයි.” පුද්ගලයා මෙහෙයවීමට ඉඩ දෙන්න. “මේ කවුද?” යන්න වළකින්න.
+2. **සංගීතය වාදනය කර ගායනා කරන්න.** කථා කිරීම දුෂ්කර වුවත්, හුරු ගීත මනෝභාවය ඉහළ නංවා බෙදා ගත් මොහොතක් ගෙනදිය හැකියි.
+3. **කෙටි ඇවිදීමක් යන්න.** Family Caregiver Alliance යෝජනා කරන්නේ පහසුකම් වටේ, විශේෂයෙන් උද්‍යානයක් තිබේ නම් එහි ඇවිදින ලෙසයි. රෝද පුටුවක ගමනත් ගණනට ගනී.
+4. **අත් මර්දනයක් කරන්න.** ක්‍රීම් ටිකක් සහ මන්දගාමී ලෙස අත් අතගෑමක් සන්සුන් කළ හැකියි.
+5. **රූපලාවණ්‍යයට උදව් කරන්න.** ඔවුන්ට කැමති නම්, හිස කෙස් අතුල්ලීම, නියපොතු තැබීම, හෝ ප්‍රිය ඇඳුමකට ඇඳ ගැනීමට උදව් කිරීම ඩිමෙන්ශියා ඔස්ට්‍රේලියාව සඳහන් කරයි.
+6. **සරල ක්‍රීඩාවක් සෙල්ලම් කරන්න.** Family Caregiver Alliance යෝජනා කරන්නේ පත්ත, දොමිනෝ, හෝ පුද්ගලයා කලින් සෙල්ලම් කළ ඕනෑ ම දෙයක් ලෙසයි. ටැබ්ලට් එකක, [පින්තූර යුගල](/games/picture-pairs/) පින්තූර දෘශ්‍යමාන ව තබා කාල ගණකයක් නැතිව සෙල්ලම් කළ හැකියි. [ඡායාරූප යුගල](/games/photo-pairs/) ඔබ තෝරන ඡායාරූප ගැලපීමේ ක්‍රීඩාවක් බවට පත් කරන අතර, ඡායාරූප ඔබේ බ්‍රවුසරය තුළ ම රැඳේ.
+7. **එකට චිත්‍රපටයක් බලන්න.** Family Caregiver Alliance හාස්‍ය චිත්‍රපට සහ පැරණි චිත්‍රපට යෝජනා කරයි. කතාව අනුගමනය කළ නොහැකි වුවත්, ළඟින් වාඩි වී කාලය බෙදා ගත හැකියි.
+8. **හඬ නඟා කියවන්න.** කෙටි කවියක්, ප්‍රිය කොටසක් හෝ පවුලේ සාමාජිකයෙකුගේ ලිපියක්.
+9. **එකට නිශ්ශබ්දව වාඩි වන්න.** අත් අල්ලා ගැනීම හෝ නිශ්ශබ්දව වාඩි වීම සැබෑ බැලීමකි. ඇල්සයිමර් සංගමය (Alzheimer's Association) සටහන් කරන්නේ කුමක් කිව යුතුද කියා නොදැනීම ඉඩ බවත්, ඔබේ සිටීම වඩාත් වැදගත් බවත්ය.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[සංවාද කාඩ්පත්](/games/conversation-cards/) කථා කිරීමට දේ අවසන් වූ විට උදව් කළ හැකියි. සෑම කාඩ්පතක ම පින්තූරයක් සහ විවෘත ප්‍රශ්නයක් ඇත.
 
-## How should I talk during the visit?
+## බැලීමේ දී මා කථා කළ යුත්තේ කෙසේද?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **සෑම විටම ඔබ ව හඳුන්වා දෙන්න.** “හෙලෝ තාත්තා, මම මාර්ක්, ඔබේ පුතා.” NIA යෝජනා කරන්නේ කථාබහක් ආරම්භ කිරීමට බැලීමට එන අය කෙටියෙන් තමන් ව හඳුන්වා දීමයි.
+- **ඉදිරිපසින් ළඟා වී** ඇස් මට්ටමේ වාඩි වන්න.
+- **නිවැරදි නොකරන්න, තර්ක නොකරන්න.** පුද්ගලයා වැරදීමක් කළහොත් හෝ යම් දෙයක් අමතක කළහොත් නිවැරදි නොකරන ලෙස NIA බැලීමට එන අයට උපදෙස් දෙයි.
+- **වචන සොයා ගැනීමට අපහසු වන විට ඉවසන්න.** බොහෝ කාලයක් දෙන්න.
+- **හැඟීම්වලට පිළිතුරු දෙන්න.** පුද්ගලයා දුක්ව හෝ කනස්සල්ලෙන් පෙනුණොත්, මාතෘකාව වෙනස් කිරීමට පෙර එය පිළිගන්න.
+- **“ඔබට මා මතකද?” හෝ “ඔබ දහවල් කෑම කුමක් ද?” වැනි ප්‍රශ්නාවලි වළකින්න.**
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+වැඩි විස්තර සඳහා අපේ [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) බලන්න.
 
-## What do I do when they say "I want to go home"?
+## “මට ගෙදර යන්න ඕන” කියන විට මා කළ යුත්තේ කුමක්ද?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+වචන පිටුපස ඇති හැඟීමට පිළිතුරු දෙන්න ([නැවත නැවත ගෙදර යාමට ඉල්ලන විට](/caregiving/asking-to-go-home/) අපේ මාර්ගෝපදේශය වැඩිදුර යයි). Family Caregiver Alliance පැහැදිලි කරන්නේ “මට ගෙදර යන්න ඕන” යන්න සාමාන්‍යයෙන් “මට සුවපහසු නැහැ” කියන්නේ විදියක් බවයි, එය වැනි ‘ඔබේ ගෙදර ගැන මට කියන්න’ හෝ ‘ගෙදර ඔබේ ප්‍රියම දේ මොකක්ද?’ වැනි පිළිතුරු යෝජනා කරයි. ඩිමෙන්ශියා ඔස්ට්‍රේලියාව එකතු කරන්නේ “ගෙදර” යන්න පුද්ගලයා ආරක්ෂිත ලෙස දැනුණු වේලාවක් හෝ ස්ථානයක්, උදාහරණ ලෙස ළමා කාලය, ලෙස අදහස් විය හැකි බවයි.
 
-Try:
+උත්සාහ කරන්න:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- හැඟීම පිළිගැනීම: “ඔබට ගෙදර ගැන කම්මැලි බව පෙනෙනවා.”
+- පිළිගත් විට ස්පර්ශයෙන් සැනසීම දීම
+- ඡායාරූප බලන්න, හෝ පවුලේ නිවස ගැන කථා කරන්න
+- ඇවිදීමක්, පානයක් හෝ කෑමක් දෙන්න
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+තර්ක කිරීම හෝ ඔවුන්ට යා නොහැකි හේතුව පැහැදිලි කිරීම වළකින්න. එය කලාතුරකින් උදව් වන අතර බොහෝ විට කලබලය වැඩි කරයි.
 
-## How long should a visit be?
+## බැලීම කොපමණ වේලාවක් විය යුතුද?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+කෙටි හා නිතර බැලීම බොහෝ විට හොඳින් යයි. Family Caregiver Alliance සටහන් කරන්නේ පුද්ගලයා සාමාන්‍යයෙන් ඔබ මිනිත්තු පහක් හෝ පැය පහක් සිටියාදැයි මතක තබා නොගන්නා බවත්, සතියකට කෙටි බැලීම් තුනක් එක දිගු බැලීමකට වඩා හොඳ විය හැකි බවත්ය. ඩිමෙන්ශියා ඔස්ට්‍රේලියාව පවසන්නේ බැලීම් ගණනට හෝ කාලයට නිශ්චිත හරි ප්‍රමාණයක් නැති බවයි.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+මතක රැකවරණයට මාරු වීමෙන් පසු මුල් සති වලදී, Family Caregiver Alliance යෝජනා කරන්නේ නිතර බලා, පසුව ක්‍රමයෙන් නිත්‍ය රටාවකට යොමු වන ලෙසයි. කාර්ය මණ්ඩලය දකින දේ ගැන ඔවුන්ගෙන් අසන්න.
 
-## How do I leave without upsetting them?
+## අනුන්ට කලබල නොකර මා පිටව යන්නේ කෙසේද?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+පිටව යාම අමාරුම කොටස විය හැකියි. ඩිමෙන්ශියා ඔස්ට්‍රේලියාව යෝජනා කරන්නේ:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **පැමිණෙන විට කොපමණ වේලාවක් සිටිය හැකිද කියන්න.** “මට පැයක් ඉන්න පුළුවන්, ඉන් පසු මම සාප්පු සවාරියකට යනවා.”
+- **ක්‍රියාකාරකමක් ස්වාභාවික අවසානයක් ලෙස භාවිත කරන්න.** “මේ ගීතය ඉවර වූ පසු, මම යන්නම්.”
+- **කෑමක් හෝ ක්‍රියාකාරකමක් සමඟ වේලාව සකසන්න**, හෝ පුද්ගලයා වෙනත් දෙයක් කෙරෙහි පිහිටීමට කාර්ය මණ්ඩලයෙන් උදව් ඉල්ලන්න.
+- **සමු ගැනීම කෙටි ව සහ සෑම වාරයේ ම එක සමාන ව තබන්න.** දිගු සමු ගැනීම්, සමාව ඉල්ලීම, හෝ “තව මොහොතක්” ලෙස නැවතී සිටීම ඉදිරි සමු ගැනීම් දුෂ්කර කළ හැකියි.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+ඔබ ගිය පසු දුක් වීම සාමාන්‍ය ය. ඔබට විවේක ගන්න ඉඩ දෙන්න. පුද්ගලයා කලබල වුණොත්, කාර්ය මණ්ඩලයට සාමාන්‍යයෙන් ටික වේලාවකින් ඔවුන් සන්සුන් කළ හැකියි.
 
-## Visiting someone with dementia in the hospital
+## රෝහලේ සිටින ඩිමෙන්ශියා ඇති අයෙකු බැලීම
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+රෝහලක් ශබ්දකාරී, නොදන්නා ස්ථානයක් වන අතර අමුත්තන්ගෙන් පිරී ඇත, ඒ නිසා ඩිමෙන්ශියා සහිත පුද්ගලයෙකුට එය ඉතා දුෂ්කර විය හැකියි. [ඇල්සයිමර් රෝගය ඇති අයෙකු රෝහලට ගෙනයාම](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) පිළිබඳ NIA මාර්ගෝපදේශය නිර්දේශ කරන්නේ:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **හැකි තරම් පුද්ගලයා සමඟ කෙනෙක් සිටීම:** පවුලේ සාමාජිකයෙක්, විශ්වාසවන්ත මිතුරෙක් හෝ කුලී රැකබලා ගන්නෙක්.
+- **කාර්ය මණ්ඩලයට පුද්ගලික තොරතුරු පත්‍රයක් දීම**, පුද්ගලයාගේ දෛනික චර්යාව, කැමති නම, කැමති සහ අකමැති දේවල්, හැකි ප්‍රේරක සාධක, සහ වේදනාවේ වචන නොවන ලකුණු සමඟ. කාමරයේ සහ හෙදියන්ගේ මේසය අසල පිටපත් තබන්න.
+- **කෑම සහ පානය ලබා ගැනීමට උදව් කිරීම.** වැඩිහිටියන් රෝහලේ දී පෝෂණය අඩු වීමට ඉඩ ඇත. බඳුන් විවෘත කරන්න, ආහාර වේලාවලට උදව් කරන්න, එකට කන්න, පානය දෙන්න.
+- **සැනසීම ගෙනෙන දේවල් ගෙනයාම**, උදාහරණ ලෙස ඡායාරූප හෝ ආගමික වස්තූන්.
+- **ශබ්දය අඩු කරන්න.** රූපවාහිනිය නවත්වන්න, දුරකථන සහ අභ්‍යන්තර විද්‍යුත් ශබ්දය අඩු කරන්න.
+- **සන්සුන් කරන චාරිත්‍ර උත්සාහ කරන්න**, උදාහරණ ලෙස සනසන සංගීතය, කියවීම, යාච්ඤා කිරීම, ගායනා කිරීම, හෝ පැරණි ඡායාරූප බැලීම.
+- **ආරක්ෂිත වන තරම් චලනය වීමට දිරිමත් කරන්න,** කාර්ය මණ්ඩලයේ අනුමැතියෙන්.
+- **පුද්ගලයා හදිසියේ නරක් වුණොත් හෝ වෙනස් වුණොත් වහාම වෛද්‍යවරයාට කියන්න.** NIA පැහැදිලි කරන්නේ, විශේෂයෙන් දැඩි හදිසි ව්‍යාකූලත්වය, ඩෙලීරියම් ලෙස ද හඳුන්වන, ආසාදන, උණ, ජලශෝෂණය හෝ ඖෂධ අතුරු ආබාධ වැනි ගැටළු නිසා ඇති විය හැකි බවත්, වෛද්‍ය අවධානය අවශ්‍ය බවත්ය.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+හුරු මුහුණක් සහ ප්‍රිය ගීතයක් සහිත කෙටි, සන්සුන් බැලීමක්, රෝහල් දිනයේ වඩාත් සැනසිලිදායක කොටස විය හැකියි.
 
-## Bringing children on a visit
+## බැලීමට දරුවන් රැගෙන යාම
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+දරුවන්ට බොහෝ උණුසුමක් ගෙනදිය හැකියි. කලින් ම සරල, අවංක වචන වලින් ඔවුන් සූදානම් කරන්න, බැලීම කෙටි ව තබන්න, සහ ඔවුන්ට රාජකාරියක් දෙන්න, උදාහරණ ලෙස චිත්‍රයක් පෙන්වීම හෝ ඡායාරූපයක් දීම. NIA යෝජනා කරන්නේ දරුවන්ටත් ඇල්සයිමර් රෝගය ඇති අයටත් ඡායාරූප ඇල්බමයක් බැලීම හෝ සංගීතය අසා ගැනීම වැනි සරල ක්‍රියාකාරකම් එකට භුක්ති විඳිය හැකි බවයි. ඩිමෙන්ශියා ඔස්ට්‍රේලියාව යෝජනා කරන්නේ කුඩා දරුවන් කාර්යබහුල ව තබා ගැනීමට කුඩා ආහාර හෝ නිශ්ශබ්ද දේවල් බෑගයක් ගෙනයන ලෙසයි.
 
-## Take care of yourself too
+## ඔබ ගැනත් සැලකිලිමත් වන්න
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+බැලීම වෙහෙසකර හා හැඟීම් ඇති කරන දෙයක් විය හැකියි, විශේෂයෙන් පුද්ගලයා බොහෝ සේ වෙනස් වී ඇත්නම්. ඔබට අවශ්‍ය නම් එය අඩුවෙන් බැලීම, සහාය සඳහා මිතුරෙකු ගෙනයාම, හෝ දුෂ්කර දවසක කලින් පිටව යාම ගැන කිසි ගැටලුවක් නැත. ඔබ ගැන සැලකිලිමත් වීමට අදහස් සඳහා, [රැකබලා ගන්නා අයගේ ස්වයං සැලකිල්ල](/caregiving/caregiver-self-care/) බලන්න. ඔබ දුරින් වාසය කරන්නේ නම්, අපේ [දුරකථන සහ වීඩියෝ ඇමතුම්](/activities/phone-and-video-calls/) පිළිබඳ මාර්ගෝපදේශය බලන්න.

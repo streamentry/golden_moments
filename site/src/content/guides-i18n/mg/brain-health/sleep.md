@@ -1,31 +1,34 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Torimaso sy fahasalaman’ny atidoha: izay lazain’ny fikarohana sy izay manampy"
+seoTitle: "Torimaso sy dementia: izay lazain’ny fikarohana"
+description: "Izay lazain’ny fikarohana momba ny torimaso sy loza dementia, nahoana ny fikarohana momba ny fanadiovana atidoha mbola tany am-piandohana, ary fomba torimaso tsotra."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Misy fianarana lava maro mampifandray ny torimaso fohy amin’ny antsasaky ny
+  fiainana amin’ny loza avo kokoa amin’ny dementia, ary ny fikarohana momba ny
+  fanadiovana atidoha mandritra ny torimaso dia mampiseho ny fanakanana ny fikarohana
+  mbola tany am-piandohana. Tsy nalaina ho loza ovaina ny torimaso tao amin’ny
+  Lancet Commission 2024. Ny fomba fitorimaso tsara dia manampy ny fahatsapanao
+  andavanandro. Ny olana momba ny torimaso amin’ny dementia dia matetika ary
+  mendrika resahina amin’ny dokotera.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Fianarana Britanika nanaraka olona 8,000 eo ho eo nandritra ny 25 taona dia nampifandraisina ny fandriana ene ora na latsaka kokoa amin’ny antsasaky ny fiainana tamin’ny loza avo kokoa amin’ny dementia."
+  - "Ny fiovan’ny torimaso dia mety ho famantarana voalohany amin’ny dementia ihany koa, ka sarotra ny nanavaka ny antony sy ny vokatra."
+  - "Ny fikarohana momba ny torimaso manadio ny beta-amyloid avy amin’ny atidoha dia marina nefa tany am-piandohana, ary betsaka amin’izany dia tamin’ny voalavo."
+  - "Ny apnée amin’ny torimaso dia mahazatra, azo tsaboina, ary mifandray amin’ny dementia amin’ny fianarana; ny fikoraka mafy sy ny reraka amin’ny andro dia tokony hojerena."
+  - "Aza manomboka, mijanona na manova fanafody torimaso na fanampiana torimaso tsy misy dokotera."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Mahatonga ny Alzheimer ve ny torimaso ratsy?"
+    a: "Tsy naseho izany. Fianarana sasany dia mampifandray ny torimaso fohy amin’ny loza avo kokoa amin’ny dementia, fa ny dementia mihitsy dia manelingelina ny torimaso, matetika taona maro alohan’ny fanamarinana. Ny Lancet Commission 2024 dia nanombana fa tsy mifanaraka loatra ny porofo ka tsy azo nalaina ho loza ovaina ny torimaso."
+  - q: "Firy ny torimaso ilain’ny olona antitra?"
+    a: "Ny National Institute on Aging dia milaza fa ny olona antitra dia mila eo ho eo mitovy amin’ny olona hafa, ora 7 ka hatramin’ny 9 isan’alina. Olona antitra maro dia mandry sy mifoha aloha kokoa noho ny taloha, izay mahazatra."
+  - q: "Nahoana no matory amin’ny andro ny olona manana dementia ary mifoha alina?"
+    a: "Ny dementia dia mety hisy fiantraikany amin’ny famantaranandro anatiny, ka mifangaro ny fotoana matory sy mifoha. Ny fanaintainana, ny fahakiviana, ny hanoanana na ny fiantraikan’ny fanafody dia mety manana anjara koa. Ny mazava andro, ny hetsika isan’andro ary ny fomba fialan-tsasatra mangina ariva dia mety manampy. Ny dokotera dia afaka mitady antony azo sitrana."
+  - q: "Tokony homeko fanampiana torimaso ve ilay olona tiako tanana?"
+    a: "Miresaha amin’ny dokotera aloha, anisan’izany ny vokatra azo alaina tsy misy fanoratana. Ny National Institute on Aging dia milaza fa ny fanafody torimaso sasany dia mety hampitombo ny loza amin’ny fanaintainan’ny filoha-tsaina, fianjerana ary fikorontanana amin’ny olona manana Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +59,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ny fahasalaman’ny torimaso sy ny fahasalaman’ny atidoha dia mifandray mazava, nefa mbola ampianarina ny fomba ifandraisany. Misy fianarana mampifandray ny torimaso fohy amin’ny loza avo kokoa amin’ny dementia. Ny dementia kosa matetika manelingelina ny torimaso. Ity pejy ity dia manazava izay asehon’ny fikarohana sy izay tsy asehony, manome fomba torimaso azo ampiharina, ary mampiseho ny olan’ny torimaso izay matetika amin’ny dementia. Tsy manome torolalana momba ny fanafody torimaso izy; ny resaka izany dia tokony hatao amin’ny dokotera.
 
-## Is poor sleep linked with dementia?
+## Misy ve ny fifandraisana eo amin’ny torimaso ratsy sy ny dementia?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Misy fianarana lava sasany mampifandray ny torimaso fohy amin’ny loza avo kokoa amin’ny dementia, fa tsy mbola voaporofo tanteraka ny porofo.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Fianarana britanika 25 taona.** Nanaraka olona manodidina ny 8,000 ny mpikaroka tao amin’ny [fianarana Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Ny olona nandry ora enina na latsaka kokoa tamin’ny taona 50 na 60 dia nanana loza avo kokoa amin’ny dementia any aoriana noho ny nandry ora fito. Ny olona nandry ora enina na latsaka kokoa tamin’ny 50, 60 ary 70 dia nanana loza avo eo ho eo 30% noho ny olona nandry ora fito matetika. Fianarana mijery ity, ka mampiseho fifandraisana, fa tsy antony.
+- **Ny fiheverana an’ny Lancet Commission.** Ny [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) dia tsy nampiditra ny torimaso ao amin’ny lisitra loza 14 azo ovaina. Nanombana izy fa tsy mifanaraka ampy ny porofo. Antony iray ny hoe “fifandraisana revers”: ny fiovan’ny atidoha avy amin’ny dementia dia manomboka taona maro alohan’ny fanamarinana ary mety hanelingelina ny torimaso. Ao amin’ny fianarana lehibe iray, ny fifandraisana eo amin’ny torimaso lava sy ny dementia dia tsy hita intsony rehefa nalaina ho ala ny dimy taona voalohany nanarahana.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ka ny alina fohy indraindray dia tsy antony hanahirana. Ny torimaso mahatsiravina sy tsara kalitao no tokony hotanterahina satria manampy ny toe-tsaina, ny fahaizana mitandrina ary ny fiarovana amin’ny andro ankehitriny.
 
-## What is the "brain-clearing" sleep research?
+## Inona no fikarohana “fanadiovana” atidoha mandritra ny torimaso?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Mety ho namaky ianao fa ny torimaso dia “manadio” ny atidoha. Ny hevitra dia avy amin’ny fikarohana marina, nefa tany am-piandohana.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Amin’ny voalavo.** Fianarana 2013 [voalazan’ny NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) dia nahita fa niakatra eo ho eo 60% ny habe-tsarotra eo amin’ny sela atidoha rehefa nandry ny voalavo. Nandeha kokoa ny ranon-tsaina tamin’ny atidoha, tamin’ny zavatra antsoin’ny mpikaroka hoe rafitra glymphatic. Ny beta-amyloid, proteinina mifandray amin’ny Alzheimer, dia nafoana haingana kokoa tamin’ny atidoha voalavo nandry.
+- **Amin’ny olombelona.** Fianarana kely 2018 [dia nanavaka](https://www.pnas.org/doi/10.1073/pnas.1721694115) olona salama 20 taona 22 ka hatramin’ny 72 aorian’ny alina nandry tsara sy aorian’ny alina tsy nandry akory. Aorian’ny alina tsy nandry, ny famantarana sary atidoha ho an’ny beta-amyloid dia niakatra eo ho eo 5% tao amin’ny faritra iray misy ny hippocampus, faritra manan-danja amin’ny fahatsiarovana. Ny mpanoratra dia nantsoina ny porofo ho voalohany. Tsy fantatra raha very ny fiovana aorian’ny fitsaharana, na raha misy hafainganam-pandrafosana kely kokoa na beta-amyloid betsaka kokoa vokarina.
+- **Miara-mikoriana amin’ny ambaratonga roa.** Ny Lancet Commission dia manamarika fa ny fitrangan’ny amyloid mihitsy dia mety hanelingelina ny torimaso amin’ny olona antitra.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ireo hita ireo dia manazava nahoana no tsaroan’ny mpikaroka ny torimaso. Tsy mampiseho izy fa ny torimaso tsara dia misakana ny Alzheimer.
 
-## What sleep habits may help?
+## Inona no fomba torimaso mety hanampy?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Olona antitra dia mila eo ho eo ora 7 ka hatramin’ny 9 isan’alina, mitovy amin’ny olona hafa, araka ny [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Ny torolalany dia ahitana:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Mitazona fandaharam-potoana mahazatra.** Mandry sy mifoha amin’ny fotoana mitovy isan’andro, na amin’ny faran’ny herinandro aza.
+- **Manorina fomba fanamaivanana alohan’ny matory.** Mamaky, mihaino mozika malemy na mandro rano mafana alohan’ny hatory.
+- **Ataovy mafana tsara ny efitra fandriana,** fa tsy be hafanana loatra na mangatsiaka loatra.
+- **Mifeheza ny kafeinina any aoriana andro.** Kafe, tea, soda ary sôkola dia mety mitazona anao miaina.
+- **Mialà amin’ny alikaola,** na kely aza ny habetsany, araka ny toro-hevitra NIA.
+- **Mialà amin’ny sakafo lehibe ao anatin’ny ora roa ka hatramin’ny telo alohan’ny hatory,** ary amin’ny zava-pisotro lehibe aorian’ny andro.
+- **Manatanjaka matetika, fa aza ho ao anatin’ny ora 3 alohan’ny hatory.** Jereo ny [torolalana momba ny fanatanjahan-tena](/brain-health/exercise/).
+- **Tazomina ivelan’ny efitra fandriana ny efijery.** Ny NIA dia manoro hevitra ny tsy hijery TV na hampiasa ordinatera, finday na tablet ao.
+- **Mialà amin’ny torimaso any aoriana andro na ariva** raha azo atao.
 
-## Sleep problems in dementia
+## Olana momba ny torimaso amin’ny dementia
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Ny fiovana amin’ny torimaso dia mahazatra amin’ny dementia. Ny [NIA dia milaza](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ny matory be loatra na kely loatra, ny fifohazana imbetsaka alina, ary ny torimaso maro amin’ny andro. Izy koa dia manazava ny sundowning: fihetsika mamiravirava, fikorontanana na fahadisoan-kevitra izay manomboka na mihamaizina rehefa mirenireny ny mazava andro.
 
-Caregiver tips from the NIA include:
+Toro-hevitra ho an’ny mpikarakara avy amin’ny NIA dia misy:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Mahazoa mazava andro sy fihetsika aloha.** Mivoaka any ivelany na mipetraka eo akaiky varavarankely amin’ny andro, ary manampia ny olona hihetsika isan’andro. Ny mazava mamirapiratra dia mety manampy amin’ny fanamafisana ny famantaranandro anatiny.
+2. **Drafito hetsika mahery ho an’ny maraina.** Andramo mandro maraina na mahandro sakafo lehibe indrindra antoandro.
+3. **Tazomina fohy sy aloha ny torimaso.** Mialà amin’ny fandrianana ela andro-hariva.
+4. **Ataovy mangina ny hariva.** Ampidino ny mazava, ampihenao ny feo ary ampilalao mozika malemy raha tiany izany. Ny torolalanay momba ny [fahatsorana andro-hariva](/caregiving/late-day-restlessness/) dia manana hevitra bebe kokoa.
+5. **Tazomina mitovy ny fomba alohan’ny hatory.** Famakiana mafy amin’ny fotoana mitovy isan’alina dia ohatra iray avy amin’ny NIA. Ny [fandaharam-andro andavanandro mitovy](/activities/daily-routine/) dia manampy koa.
+6. **Ampihenao ny kafeinina sy ny alikaola.**
+7. **Ampiasao mazava alina** ao amin’ny efitra fandriana, lalan-trano ary efitra fanasana.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Ho an’ny fifohazana alina, ny [toro-hevitra momba ny fiarovana ao an-trano](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) avy amin’ny NIA dia ahitana mazava alina na sensor mazava ho azy, rongony ao amin’ny efitra fanasana, tady mamirapiratra amin’ny sisin’ny tohatra, ary fanafody tehirizina ao amin’ny toerana akatona.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Hetsika kely mangina any aoriana dia afaka manampy anareo roa hitsahatra. Andramo fitsaharana miadana amin’ny [Fisefoana mangina](/games/calm-breathing/) na [karatra fifampiresahana](/games/conversation-cards/) vitsivitsy malemy. Aza ampiasa zavatra mampientam-po akaikin’ny fandriana, ary ajanony rehefa efa tanteraka ny olona.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ny torimaso mivaky dia mampihorohoro ny mpikarakara koa. Ny [torolalana momba ny fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/) dia manana fomba hahazoana fitsaharana sy fanampiana.
 
-## What about sleep apnea?
+## Ahoana momba ny apnée amin’ny torimaso?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Ny apnée amin’ny torimaso dia mahatonga fitsaharana fohy amin’ny fofonaina mandritra ny torimaso, matetika maro isan’alina. Ny NIA dia milaza fa raha tsy voatsabo, dia mety hitarika amin’ny olana toy ny tosidra ra avo, stroke na fahaverezan’ny fahatsiarovana. Ny famantarana dia ahitana fikoraka mafy sy reraka amin’ny andro, ary olona maro tsy fantany fa manana izany. Ny Lancet Commission dia nanazava famerenana 11 fianarana, izay olona manana apnée tamin’ny torimaso nanana loza avo eo ho eo 43% amin’ny dementia. Fa vitsy amin’ireo fianarana ireo no nihevitra ny lanja, ka tsy azo antoka ny fifandraisana.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Azo diagnostika sy tsaboina ny apnée amin’ny torimaso. Ny NIA dia milaza fa ny milina CPAP dia manampy matetika. Raha mikoraka mafy ianao na ny olona tianao, mifoy fofonaina mandritra ny torimaso, na reraka be amin’ny andro, lazao ny dokotera.
 
-## A note about sleep medicines
+## Fanamarihana momba ny fanafody torimaso
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Tsy manome toro-hevitra momba ny fanafody torimaso na fanampiny izahay. Ny NIA dia milaza fa mety hanampy kely fotoana ny fanafody torimaso fa tsy fanafodin’ny insomnia. Milaza koa izy fa ny fanafody sasany natolotra mba hanampy ny olona manana Alzheimer hatory dia mety hampitombo ny loza amin’ny filoha-tsaina, fianjerana ary fikorontanana. Aza manomboka, mijanona na miova fanafody torimaso, anisan’izany ny fanampiana torimaso tsy misy fanoratana, raha tsy miresaka amin’ny dokotera na mpanao fanafody aloha.
 
-## Talk with a doctor
+## Miresaha amin’ny dokotera
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Mijereo dokotera raha ianao na ny olona tianao dia reraka mandrakariva, manana olana amin’ny torimaso ny alina ankamaroany, mikoraka mafy, na misy fitsaharana amin’ny fofonaina alina. Raha mitohy ny olan’ny torimaso amin’ny dementia, ny [NIA manoro hevitra](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ny hitady toro-hevitra ara-pitsaboana. Fanamarinana iray dia afaka mahita antony toy ny fanaintainana, olana torimaso hafa, aretina na vokatry ny fanafody. Ny fikorontanana tampoka, na fiovana tampoka amin’ny torimaso miaraka amin’ny fikorontanana, dia mila fitsaboana haingana. Vakio [rehefa tokony hijery dokotera](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ity pejy ity dia vaovao ankapobeny, fa tsy torolalana ara-pitsaboana. Jereo ny [fampitandremana ara-pitsaboana](/medical-disclaimer/).

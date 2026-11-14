@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "ව්‍යායාම සහ මොළ සෞඛ්‍යය: පර්යේෂණ සම්බන්ධ කරන දේ සහ ආරක්ෂිතව චලනය වන ආකාරය"
+seoTitle: "ව්‍යායාම සහ ඩිමෙන්ශියාව: පර්යේෂණ පවසන දේ"
+description: "ශාරීරික ක්‍රියාකාරකම් සහ ඩිමෙන්ශියා අවදානම අතර පර්යේෂණ සම්බන්ධ කරන දේ, සහ වැඩිහිටියන්ට සහ ඩිමෙන්ශියාව ඇති අයට ආරක්ෂිත, විනෝදජනක ලෙස චලනය වන ක්‍රම."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  නිත්‍ය ශාරීරික ක්‍රියාකාරකම් ඩිමෙන්ශියා අවදානම අඩු වීම සමඟ අධ්‍යයන සම්බන්ධ කරන අතර, 2024 Lancet කොමිෂන් සභාව ශාරීරික අක්‍රියතාව වෙනස් කළ හැකි අවදානම් සාධක 14න් එකක් ලෙස ලැයිස්තුගත කරයි. ව්‍යායාම ඩිමෙන්ශියාව වළක්වන බව අත්හදා බැලීම් ඔප්පු කර නැත. චලනය තවමත් ශක්තිය, සමතුලිතතාව, මනෝභාවය සහ නින්ද සඳහා උදව් කරයි, එබැවින් ඇවිදීම, පුටුවේ ව්‍යායාම සහ නැටීම ඒවායේ ම වටිනාකම සඳහා කිරීම වටී. නව දෙයක් ආරම්භ කිරීමට පෙර වෛද්‍යවරයා සමඟ පරීක්ෂා කරන්න.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "ශාරීරිකව ක්‍රියාශීලී අයට සාමාන්‍යයෙන් ඩිමෙන්ශියා අවදානම අඩු ය, නමුත් මෙය බොහෝ දුරට අත්හදා බැලීම් වලින් නොව නිරීක්ෂණ අධ්‍යයනවලින් ලැබේ."
+  - "වැඩිහිටියන් සම්බන්ධ වූ වසර පහක ව්‍යායාම අත්හදා බැලීමකින් කණ්ඩායම් අතර චින්තන හැකියාවේ පැහැදිලි වෙනසක් හමු නොවීය."
+  - "වයස 65 සහ ඊට වැඩි වැඩිහිටියන් සඳහා CDC මාර්ගෝපදේශය ඔරොත්තු දීමේ, මාංශ පේශි ශක්තිමත් කිරීමේ සහ සමතුලිතතා ක්‍රියාකාරකම් ආවරණය කරන අතර, ඕනෑ ම ක්‍රියාකාරකමක් එකක් ද නොකිරීමට වඩා හොඳ බව පවසයි."
+  - "ඩිමෙන්ශියාව ඇති අයෙකු සඳහා, දෛනික ඇවිදීමක් හෝ අසුන්ගත ක්‍රීඩා වැනි කෙටි, හුරු, එකට කරන චලනය ඕනෑ ම ඉලක්කයකට වඩා වැදගත් ය."
+  - "වැඩිහිටියන්ගෙන් හතරෙන් එකකට වැඩි ප්‍රමාණයක් සෑම වසරකම වැටේ, එබැවින් සමතුලිතතා වැඩ සහ ආරක්ෂිත ඉඩ පළමුව එයි."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "ව්‍යායාම ඩිමෙන්ශියාව වළක්වන්නේ ද?"
+    a: "එය කිසිවෙකුට පොරොන්දු විය නොහැක. ක්‍රියාශීලී වීම ඩිමෙන්ශියා අවදානම අඩු වීම සමඟ බොහෝ අධ්‍යයන සම්බන්ධ කරයි, නමුත් සායනික අත්හදා බැලීම් ව්‍යායාම එය වළක්වන බව පෙන්වා නැත. ව්‍යායාමට තවත් ඔප්පු වූ ප්‍රතිලාභ බොහොමයක් ඇති නිසා, එය තවමත් කිරීම වටී."
+  - q: "ඩිමෙන්ශියාව ඇති අයෙකුට ව්‍යායාම කිරීම ආරක්ෂිත ද?"
+    a: "සාමාන්‍යයෙන්, සැලසුමක් සහිතව. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය යෝජනා කරන්නේ නව චර්යාවක් ආරම්භ කිරීමට පෙර පුද්ගලයාගේ වෛද්‍යවරයා සමඟ පරීක්ෂා කිරීම, සුවපහසු පාවහන් තේරීම, ජලය පිරිනැමීම සහ සැසි කෙටි ව තබා ගැනීම ය. පුද්ගලයා වෙහෙසට, අස්ථාවර හෝ අසතුටට පත් වූ බවක් පෙනුණොත් නවත්වන්න."
+  - q: "වාඩි වී කළ හැකි ව්‍යායාම මොනවාද?"
+    a: "අසුන්ගත විකල්පවලට පුටුවේ දිගු කිරීම් හෝ පුටු යෝග, බැලූනයක් හෝ මෘදු බෝලයක් විසි කිරීම, බෝංචි බෑගය විසි කිරීම, සූප් ටින් ඔසවා තැබීම, දිගු කිරීමේ පට සහ පෙඩල් ව්‍යායාම උපකරණ ඇතුළත් වේ. ඇවිදීම අපහසු වූ විට මේවා හොඳ තේරීම් වේ."
+  - q: "පුද්ගලයා චලනය වීමට අකමැති නම් කුමක් කළ යුතුද?"
+    a: "තල්ලු නොකරන්න. පසුව නැවත උත්සාහ කරන්න, ඔබ ම එයට එක් වන්න, හුරු සංගීතය එක් කරන්න, හෝ චලනය අතුගාන්න හෝ ශාක වාරි කිරීම වැනි කාර්යයක් බවට හරවන්න. තැපැල් පෙට්ටිය දක්වා කෙටි ඇවිදීමක් ද ගණනට ගැනේ, එසේ ම එකට පිටත වාඩි වී සිටීම ද."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+ක්‍රියාශීලී ව සිටීම මොළ සෞඛ්‍ය පර්යේෂණවල වඩාත් අධ්‍යයනය කළ පුරුදුවලින් එකකි. අධ්‍යයන එය ඩිමෙන්ශියා අවදානම අඩු වීම සමඟ සම්බන්ධ කරයි, නමුත් ව්‍යායාම ඩිමෙන්ශියාව වළක්වන බව ඔප්පු කර නැත. පැහැදිලි දෙය නම්, වයස කුමක් වුවත්, චලනය ශක්තිය, සමතුලිතතාව, මනෝභාවය සහ නින්ද සඳහා උදව් කරයි. මෙම පිටුව පර්යේෂණය පවසන දේ, වැඩිහිටියන්ට නිර්දේශිත ක්‍රියාකාරකම් ප්‍රමාණය, සහ ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු සමඟ මෘදුව චලනය වීමේ ක්‍රම ආවරණය කරයි.
 
-## Does exercise lower the risk of dementia?
+## ව්‍යායාම ඩිමෙන්ශියා අවදානම අඩු කරයි ද?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+ශාරීරිකව ක්‍රියාශීලී අය ඩිමෙන්ශියාව වර්ධනය කිරීමට අඩු ඉඩක් ඇති බව පර්යේෂණ යෝජනා කරයි, නමුත් සාක්ෂිවලට සීමාවන් ඇත. [2024 Lancet ඩිමෙන්ශියා කොමිෂන් සභාව](https://doi.org/10.1016/S0140-6736(24)01296-0) ශාරීරික අක්‍රියතාව වෙනස් කළ හැකි අවදානම් සාධක 14න් එකක් ලෙස ලැයිස්තුගත කරයි. එහි ආකෘතියේ මෙම සාධක 14 එකට ගත් කල ලොව පුරා ඩිමෙන්ශියාවෙන් දළ වශයෙන් 45%ක් ගණනට ගනී.
 
-Here is what the evidence looks like:
+සාක්ෂි පෙනෙන ආකාරය මෙයයි:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **නිරීක්ෂණ අධ්‍යයනවල දිශාව එක ම ය.** කොමිෂන් සභාව සාකච්ඡා කළ අධ්‍යයන 58ක සමාලෝචනයකින්, ශාරීරිකව ක්‍රියාශීලී අයට ඩිමෙන්ශියා අවදානම දළ වශයෙන් 20%කින් අඩු බව හමු විය. වැඩිම වෙනස තිබුණේ සම්පූර්ණයෙන් ම අක්‍රිය අය සහ අවම වශයෙන් යම් ක්‍රියාකාරකමක් කළ අය අතර ය.
+- **සම්බන්ධතාවය දෙපසට ම ක්‍රියා කළ හැක.** කොමිෂන් සභාව සටහන් කරන්නේ අක්‍රිය වීම අවදානම වැඩි කළ හැකි බවයි. එය තවදුරටත් සටහන් කරන්නේ, රෝග විනිශ්චයට වසර ගණනකට පෙර ආරම්භ වන ඩිමෙන්ශියාවේ මුල් මොළ වෙනස්කම්, මිනිසුන් අඩුවෙන් ක්‍රියාශීලී කළ හැකි බවයි.
+- **අත්හදා බැලීම් වඩා පැහැදිලි නැත.** එක් අත්හදා බැලීමක, සාමාන්‍ය වයස අවුරුදු 78ක් වූ වැඩිහිටියන් 945ක් වසර පහක් සතියකට දෙවරක් අධීක්ෂණය යටතේ ව්‍යායාම කිරීමට හෝ සංසන්දන කණ්ඩායමට පත් කරන ලදී. අවසානයේ, කණ්ඩායම් අතර චින්තන හැකියාව පැහැදිලිව වෙනස් නොවීය. සංසන්දන කණ්ඩායමේ බොහෝ අය ද ක්‍රියාශීලී වූ නිසා, ප්‍රතිඵලය කියවීම දුෂ්කර ය.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) එය පැහැදිලිව පවසයි. ශාරීරික ක්‍රියාකාරකම් සහ ඇල්සයිමර් වළක්වා ගැනීම අතර පැහැදිලි සම්බන්ධයක් පෙන්වා නැති අතර, ව්‍යායාම එය වළක්වන හෝ මන්දගාමී කරන බවට ප්‍රමාණවත් අත්හදා බැලීම් සාක්ෂි නැත. ව්‍යායාම තවමත් වැටීම්, මානසික අවපීඩනය, දියවැඩියාව, අධික රුධිර පීඩනය සහ ආඝාතයේ අවදානම අඩු කරයි. එම තත්ත්වවලින් සමහරක් ම සංජානන පිරිහීම සමඟ සම්බන්ධ වී ඇත.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+අවංක නිගමනය: අද ඔබේ හැඟීම සහ ක්‍රියාකාරිත්වය වැඩි දියුණු කරන නිසා චලනය වන්න. ඕනෑ ම මොළ ප්‍රතිලාභයක් ඇති විය හැකි බෝනසයක් වන අතර, පොරොන්දුවක් නොවේ.
 
-## How much activity do older adults need?
+## වැඩිහිටියන්ට කොපමණ ක්‍රියාකාරකම් අවශ්‍යද?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[වයස 65 සහ ඊට වැඩි වැඩිහිටියන් සඳහා CDC මාර්ගෝපදේශය](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) සෑම සතියකම ක්‍රියාකාරකම් වර්ග තුනක් යෝජනා කරයි:
 
-| Type | Weekly amount | Examples |
+| වර්ගය | සති ප්‍රමාණය | උදාහරණ |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| ඔරොත්තු දීමේ (Aerobic) | මධ්‍යම ක්‍රියාකාරකම් විනාඩි 150ක් අවම වශයෙන්, උදාහරණ ලෙස දින 5ක විනාඩි 30ක් | වේගවත් ඇවිදීම, නැටීම, ජල ඇරඹික ව්‍යායාම |
+| මාංශ පේශි ශක්තිමත් කිරීම | දින 2ක් අවම වශයෙන්, ප්‍රධාන මාංශ පේශි සියල්ල ක්‍රියාත්මක කරමින් | සැහැල්ලු බර හෝ සූප් ටින් ඔසවා තැබීම, දිගු කිරීමේ පට |
+| සමතුලිතතාව | නිතර | ඇඟිලි පා මඟින් ඇවිදීම, පුටුවෙන් නැගී සිටීම |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+මේවා ඉලක්ක වන අතර ඇතුළත්වීමේ අවශ්‍යතා නොවේ. ඔබට ඒවා සපුරා ගත නොහැකි නම්, ඔබේ හැකියාව සහ සෞඛ්‍යය ඉඩ දෙන තරම් ක්‍රියාශීලී වන ලෙස CDC පවසයි. යම් ක්‍රියාකාරකමක් එකක් ද නොකිරීමට වඩා හොඳ ය.
 
-## Gentle ways to move for older adults
+## වැඩිහිටියන් සඳහා මෘදු ලෙස චලනය වන ක්‍රම
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **සහයෙකු සමඟ ඇවිදින්න.** මිතුරෙකු, අසල්වැසියෙකු හෝ ඇවිදීමේ කණ්ඩායමක් සමඟ දෛනික ඇවිදීමක් සංවාදයත් ආරක්ෂාවත් එකතු කරයි.
+- **පුටු ව්‍යායාම.** අසුන්ගෙන අත් ඔසවීම, පාදම් කරකැවීම, තැන ගමන් කිරීම සහ පුටු යෝග වැටීමේ අවදානමක් නොමැතිව ශක්තිය ගොඩ නඟයි.
+- **මුළුතැන්ගෙයි නැටීම.** පුද්ගලයා තරුණ කාලයේ සංගීතය දමා සෙලවීම, තට්ටු කිරීම හෝ පියවර තැබීම කරන්න. අපේ [සංගීත ක්‍රියාකාරකම් මාර්ගෝපදේශය](/activities/music/) අදහස් ඇත.
+- **ගෘහ භාණ්ඩ සමඟ ශක්තිය.** ප්‍රිය වැඩසටහනක් බලමින් පිරුණු ජල බෝතල් හෝ සූප් ටින් ඔසවන්න.
+- **ගෙවතු වැඩ හෝ ගෘහ කාර්යයන්.** ශාක වාරි කිරීම, අතු ගෑම, අතුගාන්න සහ රෙදි නැමීම සියල්ල ගණනට ගැනේ. [පිටත ගෙවතු සහ වගා ක්‍රියාකාරකම්](/activities/outdoor-and-gardening/) සහ [ගෘහස්ථ කාර්යයන්](/activities/household-tasks/) බලන්න.
+- **ජලයේ ව්‍යායාම.** ගොඩබිම ව්‍යායාම ඔවුන්ගේ සන්ධීන්ට අපහසු වන අයට විකල්පයක් ලෙස ජල ඇරඹික පන්ති NIA ලැයිස්තුගත කරයි.
 
-## How to exercise with someone living with dementia
+## ඩිමෙන්ශියාව ඇති අයෙකු සමඟ ව්‍යායාම කරන්නේ කෙසේද
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+ඩිමෙන්ශියාව ඇති අයෙකු සඳහා, ඉලක්කය සංඛ්‍යාවක් ළඟා කිරීම නොව සුවපහසුව, විනෝදය සහ දෛනික හැකියාවන් රඳවා ගැනීම ය. ශාරීරික ක්‍රියාකාරකම් ඇල්සයිමර් ඇති අයෙකුගේ මාංශ පේශි, සන්ධි සහ හෘදය හොඳ තත්ත්වයේ තබා ගැනීමට උදව් කරන අතර, මනෝභාවය සහ නින්ද ද වැඩි දියුණු කළ හැකි බව NIA පවසයි. නව චර්යාවක් ආරම්භ කිරීමට පෙර ඔවුන්ගේ වෛද්‍යවරයා සමඟ පරීක්ෂා කරන්න. [NIA රැකබලා ගන්නන්ගේ මාර්ගෝපදේශයෙන්](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) උපදෙස් වලට ඇතුළත් වන්නේ:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **සෑම දිනකම එකට ඇවිදින්න.** බාධා රහිත, ආරක්ෂිත, හුරු මාර්ගයක් තෝරන්න. පුද්ගලයා තනිව ඇවිදිනවා නම්, ඔබේ දුරකථන අංකය සහිත ID වළලුවක් හොඳ අදහසකි.
+2. **වැඩිහිටියන් සඳහා ව්‍යායාම වීඩියෝ උත්සාහ කරන්න.** අසුන්ගෙන හෝ සිටගෙන, එකට අනුගමනය කරන්න.
+3. **සැසි කෙටි ව තබා ගන්න.** එක් දිගු වැඩසටහනකට වඩා කුඩා “මයිනි-වර්ක්අවුට්” කිහිපයක් හොඳින් ක්‍රියා කළ හැකිය.
+4. **සංගීතය එක් කරන්න.** හුරු ගීත චලනය ක්‍රියාකාරකමක් ලෙස දැනීමට හේතු වේ, කාර්යයක් ලෙස නොව. පුද්ගලයා භුක්ති විඳින්නේ නම් නටන්න.
+5. **ජලය සහ සුවපහසු පාවහන් පිරිනමන්න.** ව්‍යායාම අතරත් පසුවත් ජලය හෝ යුෂ පිරිනමන්න, සහ සුවපහසු ඇඳුම් සහ ව්‍යායාම සඳහා සාදන ලද ගැළපෙන පාවහන් තෝරන්න.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+ඇවිදීම අපහසු නම්, [ඇල්සයිමර් ඇති අයෙකු රැකබලා ගැනීම ගැන NIA මාර්ගෝපදේශය](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) අසුන්ගත විකල්ප යෝජනා කරයි. මේවාට පුටු ව්‍යායාම හෝ යෝග, බෝංචි බෑගය විසි කිරීම, මෘදු බෝලයක් හෝ බැලූනයක් විසි කිරීම, දිගු කිරීමේ පට, සැහැල්ලු ගෘහ භාණ්ඩ ඔසවා තැබීම සහ පෙඩල් ව්‍යායාම උපකරණ ඇතුළත් වේ. අතුගෑම සහ දූවිලි පිසීම වැනි සරල කාර්යයන් ද ගණනට ගැනේ.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+චලනයට කළ හැකි දේ ගැන යථාර්ථවාදී වන්න. Lancet කොමිෂන් සභාවට ව්‍යායාම කලබලය වැනි හැසිරීම් වෙනස්වීම් අඩු කරන බවට කිසිදු සාක්ෂියක් හමු නොවීය. එකට චලනය වන්න, එය හොඳ දැනිය හැකි නිසා, දුෂ්කර දවසක් සකස් කිරීමේ ක්‍රමයක් ලෙස නොව. පුද්ගලයා නැත කිව්වොත්, එය ඔබට හොඳ ය. ඔවුන් කැමති නොවන විට [ඔවුන් නැත කියන විට](/caregiving/when-they-say-no/) මාර්ගෝපදේශයේ පසුව නැවත උත්සාහ කිරීමට මෘදු ක්‍රම ඇත. කලින් නවත්වීම, හෝ සරලව එළියේ එකට වාඩි වී සිටීම ද හොඳ ප්‍රතිඵලයකි.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+චලනයෙන් පසු, [සන්සුන් හුස්ම ගැනීම](/games/calm-breathing/) වැනි නිශ්ශබ්ද විරාමයක් ඔබ දෙදෙනාට සන්සුන් වීමට උදව් විය හැකිය. ඇඟිලි මෘදුව චලනය වන අසුන්ගත ක්‍රියාකාරකමක් සඳහා, [එකට වර්ග කරන්න](/games/sort-together/) සහ [චිත්‍ර බින්ගෝ](/games/picture-bingo/) මේසයක් වටා හොඳින් ක්‍රියා කරයි.
 
-## Balance and fall safety
+## සමතුලිතතාව සහ වැටීම් ආරක්ෂාව
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+වැටීම් සාමාන්‍ය සහ බරපතල ය. [CDC වාර්තා කරන්නේ](https://www.cdc.gov/falls/data-research/facts-stats/index.html) වැඩිහිටියන් හතරෙන් එකකට වැඩි ප්‍රමාණයක් සෑම වසරකම වැටෙන නමුත්, අඩකට වඩා අඩු ප්‍රමාණයක් ඒ ගැන ඔවුන්ගේ වෛද්‍යවරයාට කියන බවයි. එක වරක් වැටීම නැවත වැටීමේ අවස්ථාව දෙගුණ කරයි. CDC ලැයිස්තුගත කරන අවදානම් සාධක ඇතුළත් වන්නේ:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- කකුල් සහ උකුල්වල දුර්වලතාව
+- ඇවිදීම සහ සමතුලිතතාවයේ අපහසුතාව
+- සෙඩේටිව් සහ සමහර අවපීඩන විරෝධී ඖෂධ ඇතුළු සමහර ඖෂධ
+- දෘෂ්ටි ගැටළු
+- පාදවල වේදනාව හෝ දුර්වල පාවහන්
+- ගෙදර අනතුරු, උදාහරණ ලෙස අවුල්සහගත බව, ඉහළ රෙද්ද සහ කැඩුණු පඩි
 
-To move more safely:
+ආරක්ෂිතව වැඩි චලනයක් සඳහා:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **ශක්තිමත් පුටුවක් භාවිත කරන්න** රෝද නොමැතිව, සහ සිටගෙන ව්‍යායාම සඳහා මේසයක් හෝ දඬුවමක් ළඟ තබා ගන්න.
+- **මුලින් ඉඩ පිරිසිදු කරන්න** රෙදි, රැහැන් සහ අවුල්සහගත බවෙන්.
+- **සිටගෙන සිටින විට සෙමෙන් යන්න**, සහ පුද්ගලයා කරකැවිල්ලට හෝ අස්ථාවරභාවයට පත් වුවහොත් නවත්වන්න.
+- **සහයෝගී පාවහන් පළඳින්න**, මේස් හෝ ලිහිල් පාවහන් නොව.
+- **සහායකට ළඟින් සමතුලිතතාව පුහුණු කරන්න.** පුටුවෙන් නැගී සිටීම සහ ඇඟිලි පා මඟින් ඇවිදීම CDC සමතුලිතතා ක්‍රියාකාරකම්වලට උදාහරණ වේ.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+වැටී හිසට පහර ලැබූ වැඩිහිටියෙකු වහාම වෛද්‍යවරයා බැලිය යුතු බව CDC උපදෙස් දෙයි, විශේෂයෙන් ඔවුන් රුධිර තනුක කරන ඖෂධ ගන්නේ නම්.
 
-## Talk with a doctor
+## වෛද්‍යවරයෙකු සමඟ කථා කරන්න
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+නව ව්‍යායාම වැඩසටහනක් ආරම්භ කිරීමට පෙර වෛද්‍යවරයෙකු සමඟ පරීක්ෂා කරන්න, විශේෂයෙන් හෘද හෝ පෙනහළු ගැටළු, සන්ධි වේදනාව, සමතුලිතතා ගැටළු, හෝ ඩිමෙන්ශියාව ඇති අයෙකු සඳහා. වෛද්‍යවරයෙකු හෝ භෞතික චිකිත්සකයෙකු ආරක්ෂිත ක්‍රියාකාරකම් යෝජනා කළ හැකි අතර ඖෂධ සමතුලිතතාවට බලපාන්නේ ද යන්න පරීක්ෂා කළ හැකිය. ඕනෑ ම වැටීමක්, තුවාලයක් නොවූවත්, වෛද්‍යවරයාට කියන්න. ව්‍යායාම අතරතුර යමක් රිදෙනවා හෝ වැරදි දැනෙනවා නම්, නවත්වන්න. හදිසි පපුව වේදනාව, හුස්ම ගැනීමේ අපහසුතාව, හෝ හදිසි ව්‍යාකූලත්වය සඳහා, ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+මෙම පිටුව සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. අපේ [වෛද්‍ය වගකීම් ප්‍රකාශය](/medical-disclaimer/) බලන්න. විශාල චිත්‍රය සඳහා, [ඩිමෙන්ශියා අවදානම් සාධක ගැන පර්යේෂණය පවසන දේ](/brain-health/risk-factors/) සහ [ඩිමෙන්ශියාව වළක්වා ගත හැකිද](/brain-health/can-dementia-be-prevented/) කියවන්න.

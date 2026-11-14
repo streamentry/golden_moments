@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: hetsika malemy ariva ho an’ny olona manana dementia"
+seoTitle: "Sundowning: hetsika malemy amin’ny ariva"
+description: "Fomba andavanandro malemy, fiovana amin’ny efitra ary hetsika mangina izay mety hampihena ny fahatsorana andro-hariva, ary rehefa tokony hiantso ny dokotera."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning dia fihetsiketsehana, fikorontanana na fahatezerana izay manomboka na
+  mihamaizina amin’ny ariva na andro-hariva. Dingana azo ampiharina izay mety manampy
+  dia ny fomba andavanandro mitovy, mazava sy hetsika andro voalohany, torimaso kely
+  any aoriana, kafeinina kely, jiro mazava ao anaty trano alohan’ny mangiragira, trano
+  mangina kokoa, ary hetsika mangina toy ny mozika, sary na fanaovana lamba fanasana.
+  Ny famantarana vaovao na mihamaizina dia mila fanamarinana dokotera.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning dia fihetsiketsehana na fikorontanana izay manomboka na mihamaizina rehefa mirenireny ny mazava andro."
+  - "Ampidiro ny asa mila fahaiza-manao, ny fivoahana sy ny fanasana amin’ny maraina na antoandro aloha."
+  - "Mazava andro, fandehanana an-tongotra isan’andro, torimaso kely any aoriana ary kafeinina kely any aoriana andro dia mety hanampy ny hariva ho tsotra kokoa."
+  - "Ampirehiteo ny jiro alohan’ny mangiragira, ampihenao ny feo, ary miova amin’ny hetsika mangina sy mahazatra."
+  - "Tazomina firaketana hahitana ny antony mahatonga azy, ary mijanona malemy sy mampionona rehefa manomboka ny fihetsiketsehana."
+  - "Mijery dokotera raha vaovao na mihamafy ny famantarana: fanaintainana, aretina na fanafody mety hisy anjara."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Amin’ny fotoana inona no matetika miseho ny sundowning?"
+    a: "Matetika izany dia manomboka na mihamafy amin’ny ariva na andro-hariva aloha, rehefa mirenireny ny mazava andro. Ny fotoana marina dia miovaova amin’ny olona tsirairay, ka mety manampy ny mitazona firaketana fohy mandritra ny herinandro iray na roa."
+  - q: "Inona no hetsika manampy amin’ny sundowning?"
+    a: "Hetsika mangina, mahazatra, tsy mila fahaizana be dia matetika mahomby indrindra amin’ny ariva: mozika malemy, fijerena sary, horonantsary na sarimihetsika tiana, fanaovana lamba fanasana, dia fohy, na sakafo kely miaraka. Tazomina ho amin’ny maraina ny hetsika vaovao na sarotra."
+  - q: "Mety ho famantarana ara-pitsaboana ve ny sundowning?"
+    a: "Mety hitombo izany noho ny olan’ny fahasalamana toy ny fanaintainana, aretina toy ny aretin’ny lalan-drano, olana amin’ny torimaso na vokatry ny fanafody. Raha vaovao, tampoka na mihamafy ny fihetsiketsehana, antsoy ny dokotera an’ilay olona."
+  - q: "Tokony hanontany ny dokotera momba ny fanafody ho an’ny sundowning ve aho?"
+    a: "Izany dia resaka tokony hatao amin’ny dokotera. Ny Alzheimer’s Association dia milaza fa ny fomba tsy fanafody matetika no aloha tiana, ary ny fanafody ho an’ny fihetsiketsehana ariva dia tokony hohevitrina raha vantany vao nodinihina ny loza sy ny tombony. Ity pejy ity dia tsy manome toro-hevitra momba ny fanafody."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Ny fianakaviana maro mahita ny endrika mitovy: maraina dia milamina kokoa, fa rehefa mandroso ny tolakandro dia mihamafy ny fihetsiketsehana, ny ahiahy, ny fikorontanana na ny fahatezerana amin’ny olona manana dementia. Mety handeha ary hanontany “hiverina any an-trano” izy na dia any an-trano aza, na ho tezitra haingana. Matetika no antsoina hoe sundowning izany.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Tsy misy famahana tokana, fa ny fiovana amin’ny rafitry ny andro, ny efitra ary ny karazana hetsika omenao dia mety hahatonga ny ariva ho mangina kokoa. Ity pejy ity dia mampiangona hevitra ampiharina tsy ara-pitsaboana avy amin’ny National Institute on Aging sy ny Alzheimer’s Association. Tsy torolalana ara-pitsaboana izy. Raha vaovao, tampoka na mihamafy ny famantarana, resaho amin’ny dokotera an’ilay olona.
 
-## What is sundowning?
+## Inona no sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning dia fihetsiketsehana, fahasosorana, fahatezerana na fikorontanana izay manomboka na mihamafy rehefa mirenireny ny mazava andro, amin’ny ariva na andro-hariva aloha. Ny [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) dia manamarika fa ny fahareteana be dia mety hampitombo ny fihetsiketsehana andro-hariva.
 
-## What can make late-day restlessness worse?
+## Inona no mety hampitombo ny fihetsiketsehana andro-hariva?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Maro ny zavatra mety handray anjara, matetika miaraka. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) dia manisy antony toy ny:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- reraka aorian’ny andro feno;
+- toerana vaovao na sarotra ahafantarana;
+- “famantaranandro anatiny” izay tsy mifanaraka, ka matory amin’ny andro ny olona ary mifoha amin’ny alina;
+- mazava ambany sy aloka, izay mety hahasosotra;
+- fahatsapana fahasosorana na fahatezerana avy amin’ny olona manodidina;
+- mila torimaso kely kokoa, izay mahazatra amin’ny olona antitra.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Ny NIA dia manampy antony mahatonga fihetsika mirisiky amin’ny ankapobeny, anisan’izany ny fanaintainana, fahaketrahana na fahasosorana, fitsaharana kely, fanaovan-kibo, feo mafy na olona be loatra, ary fanafody sasany na fifandraisan’ny fanafody.
 
-## How can I plan the day to make evenings calmer?
+## Ahoana no fomba hamolavolana ny andro mba hahatonga ny hariva ho mangina kokoa?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Afindrao any aloha ny zavatra mila fahaizana, ary tazomina malemy sy azo antoka ny ariva. Ny NIA sy ny Alzheimer’s Association dia manoro hevitra fandaharam-potoana mitovy. Andro ohatra, azo ampifanaraha amin’ny anao:
 
-| Time | What may help |
+| Fotoana | Inona no mety hanampy |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Maraina | Fanendrena, fanasana, dia, ary asa mila ezaka, rehefa mavitrika be ny olona matetika |
+| Antsasakandro | Fotoana any ivelany na eo akaiky varavarankely misy masoandro; dia na hetsika hafa |
+| Antoandro | Sakafo antoandro lehibe kokoa (ny Alzheimer’s Association dia manoro hevitra sakafo antoandro lehibe sy sakafo hariva maivana) |
+| Tolakandro aloha | Fitsaharana raha ilaina, fa aza mamela torimaso lava amin’ny andro farany |
+| Antsasak’andro ka hatramin’ny ariva | Hetsika mangina sy mahazatra; sakafo kely sy zava-pisotro; tsy misy kafeinina |
+| Alohan’ny mangiragira | Ampirehitro ny jiro ao anatiny ary akatony ny lamba varavarankely alohan’ny hangiragira |
+| Hariva | Sakafo maivana, mozika mangina, fihetsika kely, dingana fialan-tsasatra mahazatra mitovy |
 
-A few specific points from the sources:
+Ny toro-hevitra manokana avy amin’ny loharano:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Mazava andro.** Ny NIA dia manoro hevitra ny hahazoana fotoana any ivelany na eo akaiky varavarankely ho an’ny masoandro isan’andro.
+- **Fihetsika isan’andro, fa aza be loatra.** Ataovy ny hanatanjahan-tena isan’andro nefa tsy mandrafitra hetsika be loatra, hoy ny NIA.
+- **Zava-pisotro any aoriana andro.** Sorohy ny alikaola sy ny zava-pisotro misy kafeinina, toy ny kafe na cola, any aoriana amin’ny andro (NIA). Ny Alzheimer’s Association dia manonona koa ny nicotine.
+- **Torimaso.** Mialà amin’ny torimaso lava sy ny fandrianana any aoriana amin’ny andro (NIA). Ny Alzheimer’s Association dia manoro hevitra ny hanamafy ny torimaso andro raha olana ny torimaso alina.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Ho an’ny fanazavana bebe kokoa momba ny fanorenana andro mitovy, jereo ny [hetsika fomba andavanandro](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Ahoana no fomba hanamora ny trano any amin’ny tolakandro?
 
-Reduce noise, add light and keep familiar things close.
+Ampihenao ny feo, ampidiro mazava ary tazomina akaiky ny zavatra mahazatra.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Mazava mitovy sy mahamaivana.** Ny Alzheimer’s Association dia manoro hevitra ny hitazomana ny trano ampirehitra tsara amin’ny hariva. Ampirehito ny efitra alohan’ny hiseho ny aloka.
+- **Feo kely.** Afaharo na ampihenao ny TV sy ny radio, ary ampihenao ny vahiny na asa an-trano be fihetsika amin’izao fotoana izao. Ny Alzheimer’s Association dia manoro hevitra ny hampihenana ny fampiononana hariva toy ny TV, asa an-trano ary mozika mafy.
+- **Fampiononana mahazatra.** Ny NIA dia manoro hevitra ny mozika malemy sy ny fitazonana zavatra tiana sy sary eo amin’ny trano.
+- **Fijerena fampiononana.** Ny Alzheimer’s Association dia manoro hevitra ny hijerena ny fanaintainana, hanoanana, fangetahana, torimaso, fanaovan-kibo, reraka, aretina ary fanaintaina ny hoditra, ary ny fitazonana ny efitra amin’ny mari-pana mahafinaritra.
+- **Ny toe-tsainao.** Ny olona mahatsapa ny fahasahiranana. Ny NIA dia manoro hevitra ny hihaino miadana sy hitady hafa raha mety ny ahiahy anao manampy amin’ny fanaintainana.
 
-## What calm activities can we do in the late afternoon?
+## Inona no hetsika mangina azonao atao amin’ny ariva?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Misafidiana hetsika mahazatra, tsy miadana loatra ary mora ajanony. Ny Alzheimer’s Association dia manoro hevitra hetsika mampionona toy ny mozika mangina, sary na sarimihetsika tiana, ary dia miaraka mba hampihenana ny fihetsiketsehana. Ny NIA dia manoro sakafo kely na zava-pisotro, horonan-tsary tiana, mozika, dia, famakiana, na asa an-trano tsotra toy ny fanaovana lamba fanasana.
 
-Ideas to try:
+Hevitra hitsapana:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Mamafisa lamba miaraka.** Ny NIA dia manoro asa an-trano tsotra toy izany. Ny lamba fanasan-tanana dia mora ho tanana, ary ny asa dia manana farany mazava.
+2. **Milalao mozika tiana.** Hira mahazatra avy amin’ny fahatanorany, amin’ny feo malemy. Ny fihirana miaraka dia lasa. Hevitra bebe kokoa ao amin’ny [hetsika mozika](/activities/music/).
+3. **Mijery sary.** Album sary, na sary fianakaviana vitsivitsy ao amin’ny [Fitambarana sary an-tokantrano](/games/photo-pairs/) miseho, dia mety hitarika resaka mangina.
+4. **Dia fohy.** Amin’ny zaridaina, amin’ny lalana eo akaiky na amin’ny lalana ao an-trano, alohan’ny hangirana.
+5. **Zarao sakafo kely sy zava-pisotro.** Zavatra tsotra, mafana ary tsy misy kafeinina, eo amin’ny latabatra miaraka.
+6. **Fitambarana malemy.** [Fitambarana sary](/games/picture-pairs/) misy kapoka efatra sy sary miseho dia mora ho atombohy sy ajanony.
+7. **Hosodoko.** [Hosodoko](/games/coloring/) eo amin’ny efijery na pejy voaprint, tsy misy tanjona hamitana.
+8. **Mijery sy miresaka.** [Karatra fifampiresahana](/games/conversation-cards/) dia manome sary sy fanentanana malalaka. Ny fijerena fotsiny dia ampy.
+9. **Fitsaharana fofonaina.** [Fisefoana mangina](/games/calm-breathing/) dia fitsaharana miadana sy mangina izay ahafahanao manomboka sy mitsahatra.
+10. **Asa an-tanana.** Mandamina bokotra na sosa, mamafisa kobaka malemy, na mitazona zavatra mahazatra. Jereo ny [hetsika fahatsapana](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Mialà amin’ny lalao vaovao, fivoahana be loatra, ary izay mitaky fahatsiarovana na fifantohana be amin’ny ariva. Tahirizo izany ho an’ny maraina.
 
-## What should I do when restlessness starts?
+## Inona no tokony hataoko rehefa manomboka ny fihetsiketsehana?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Mijanona mangina, mampionona, ary mitarika malemy. Ny NIA dia manoro hevitra ny hiteny amim-pilamina, mihaino ny ahiahin’ilay olona, mialà amin’ny adi-hevitra, mampionona azy fa azo antoka izy, ary mampiasa fikasihana malemy raha mety. Avy eo andramo fikirizana: zavatra hohanina, zava-pisotro, mozika na fandehanana an-tongotra.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Ny Alzheimer’s Association dia manoro teny toy ny “Azo antoka eto ianao” sy “Mahamenatra ahy fa sahiran-tsaina ianao”, ary manoro hevitra ny hampidirana mazava, ny fihenan’ny hafainganana ary ny fanamaivanana ny fampiononana. Aza manakana, manery na mifehy ilay olona, na miady hevitra aminy.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Raha mahatonga ny olona ho mahery fo, ny NIA dia manoro hevitra ny hijanona lavitra mety hiatrika hatramin’ny hitsahatry ny fitondran-tena. Amin’ny loza, antsoy ny laharana fanampiana vonjy maika eo an-toerana ary lazao fa manana dementia ilay olona. Ny [torolalanay momba ny fanehoana fahatezerana sy fahatezerana mahery](/caregiving/when-anger-becomes-aggression-with-dementia/) dia misy ny fiarovana avy hatrany sy izay atao aorian’izay.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Ny torolalanay momba ny [fifandraisana](/caregiving/communication-tips/) sy [inona no ataoko rehefa manao “tsia” izy](/caregiving/when-they-say-no/) dia manana bebe kokoa momba ny teny mampionona.
 
-## How do I find the triggers?
+## Ahoana no fomba hahitana ny antony mahatonga azy?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Tazomina firaketana fohy mandritra ny herinandro iray na roa. Ny Alzheimer’s Association dia manoro hevitra ny hanaraka izay mitranga alohan’ny fanaovan-javatra sundowning mba hahitana ny antony mahatonga azy. Tazomina ny fotoana nanombohan’ny fihetsiketsehana, izay nitranga tamin’ny ora talohany, torimaso, sakafo sy zava-pisotro, vahiny, feo ary mazava. Entano any amin’ny dokotera ny firaketana. Ny NIA dia milaza fa ny fanarahana ny fiovan’ny fitondran-tena dia afaka manampy ny mpikarakara sy ny mpitolo-tsaina hahita fitsipika.
 
-## When should I call a doctor about sundowning?
+## Rehefa tokony hiantso dokotera momba ny sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Antsoy ny dokotera an’ilay olona raha vaovao ny fihetsiketsehana, mihamafy tampoka, na misy fiovana hafa. Ny NIA dia milaza fa ny fiovana tampoka na mivalona haingana amin’ny fitondran-tena, indrindra aorian’ny aretina na fiovana vao haingana amin’ny fanafody, dia tokony hampahafantarina ny dokotera avy hatrany.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Angataho ny dokotera hijery ny zavatra mety hahatonga ny hariva ho sarotra kokoa. Ny Alzheimer’s Association dia milaza olan’ny vatana toy ny aretin’ny lalan-drano, tsy fifehezana ny fitsaharana, fanenjehana tongotra (restless legs) ary apnée amin’ny torimaso, ary manoro hevitra ny hanontaniana izay fotoana tsara indrindra amin’ny andro ho an’ny fanafody tsirairay. Ny NIA dia milaza fanaintainana, fitsaharana ary vokatry ny fanafody na fifandraisana ho anisan’ny antony mety hahatonga fihetsika mirisiky.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Ny Alzheimer’s Association dia milaza fa ny fomba tsy fanafody matetika no aloha tiana amin’ny olana torimaso mifandray amin’ny Alzheimer, ary fa ny fanafody ho an’ny fihetsiketsehana andro-hariva dia tokony hohevitrina raha tsy mahomby ireo, aorian’ny fanaovana fandanjalanjana ny loza sy ny tombony. Ilay fanapahan-kevitra dia an’ny dokotera. Aza manomboka, mijanona na miova fanafody, fanampiana torimaso na fanampiny tsy misy toro-hevitra ara-pitsaboana.
 
-## How do I get through the evenings myself?
+## Ahoana no fomba hiainana ny hariva ho anao?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Ny andro farany dia mety ho ampahany sarotra indrindra amin’ny andron’ny mpikarakara. Raha azonao atao, angataho ny mpianakaviana, namana na mpanampy voaloa karama hitazona ny andro farany sy indray andro isan-kerinandro, na dia iray ora aza. Ny torolalanay momba ny [fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/) dia misy ny safidy fitsaharana sy ny Helpline 24/7 maimaim-poana an’ny Alzheimer’s Association.

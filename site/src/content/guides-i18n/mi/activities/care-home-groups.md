@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Ngā mahi rōpū mō te mate wareware: He aratohu mō ngā whare manaaki me ngā hōtaka"
+seoTitle: "Ngā mahi rōpū mō te mate wareware: Bingo, waiata, kōrero"
+description: "Ngā mahi rōpū mō ngā whare tiaki, ngā whare manaaki me ngā hōtaka ā-rā: bingo whakaahua, waiata tahi, rōpū maharatanga, me ngā tohutohu nui rōpū, nohoanga."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ko ngā mahi rōpū pai i ngā whare tiaki me ngā hōtaka ā-rā he poto, he mōhio, he māmā te whai wāhi ki ngā taumata katoa: bingo whakaahua, waiata tahi, porotaka maharatanga, nekehanga māmā, me ngā tākaro kupu tahi. Whakaitia ngā rōpū i te wāhi e taea ai, nohoa te tangata kia kite, kia rongo ai rātou katoa, hoatu he kōpiko kotahi i te wā, ā, whakaritea he mahi māmā, he wāhi mārie ki te waiho i te tangata e hiahia ana.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "He pai ake ngā rōpū iti i te hui nui kotahi, ā, ka taea e te maha te whai wāhi kaha, kāore e mātakitaki noa."
+  - "Nohoa te tangata i te porotaka, i te hoiho, tata ki te kaiārahi, me te whakaaro ki ngā hiahia rongo, kite; whakakorea te haruru o muri."
+  - "Whakamahere i ia mahi ki ngā taumata e rua, e toru kia taea e te tangata katoa te whai wāhi."
+  - "Kaua e uiui, kaua e whakatau tohu, kaua e whai toa. Ka taea te tākaro i te bingo whakaahua kia tū te kāri katoa a te tangata katoa."
+  - "He pai te wehe moata, te mātakitaki, te toko noa; kei te whai wāhi tonu. Whakaritea tētahi kaimahi hei āwhina i te tangata e hiahia ana ki te wāhi mārie."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "He aha te rahi pai o te rōpū mō ngā mahi mate wareware?"
+    a: "Kāore he tau tika kotahi, he whakawhirinaki ki ngā kainoho, ki te rūma, ki te maha o ngā kaimahi. He maha ngā rōpū e kitea ana he iti ngā rōpū ka kite, ka rongo, ka whai wāhi ngā tāngata katoa, ā, he nui ngā tangata mātakitaki i ngā hui nui ki te rūma nui. Mēnā ka whakahaere koe i tētahi hui nui, tāpirihia ngā kaimahi, ngā kaiāwhina e noho ana i waenga i ngā kainoho, e āwhina ana i tētahi, i tokorua ia tangata."
+  - q: "Me pēhea te whakahaere i tētahi rōpū he rerekē ngā pūkenga?"
+    a: "Whakaritea he huarahi neke atu i kotahi ki te whai wāhi ki ia mahi. I tētahi waiata tahi, ka waiata ētahi i ia kupu, ka pakipaki, ka hum ētahi, ka pupuri ētahi i tētahi shaker. I te bingo whakaahua, ka kitea e ētahi ō rātou ake whakaahua, ā, ka tohu tētahi kaiāwhina mā ētahi atu. Nohoa ngā tāngata e hiahia ana ki te āwhina tata ki tētahi kaimahi, ki tētahi kaiāwhina rānei."
+  - q: "Me pēhea te tākaro i te bingo whakaahua kāore he whakataetae?"
+    a: "Karangahia ia whakaahua kia tū te kāri katoa a te tangata katoa, kia kore ai tētahi e waiho ki waho. Kōrerohia ia whakaahua ina puta mai, ā, kaua e hoatu he tohu mō te toa, he mea iti tonu ki te katoa. Ko te kaupapa ko te aro tahi me te kōrerorero, kaua ko wai e mutu tuatahi."
+  - q: "Ka taea rānei te whakamahi i ā mātou tākaro ki te matapihi nui i tētahi rōpū?"
+    a: "Ae. Ka oma ā mātou tākaro i te paraurira, nō reira ka taea te whakatuwhera i runga i te rorohiko, i te papaaho e hono ana ki tētahi pouaka whakaata, ki te kaiwhakaatu. Kei te Bingo whakaahua ngā kāri kua perehitia me tētahi kaikaranga i runga i te whārangi. Whakaotia te Whakataukī me ngā Ōrite Whakaahua, ka pai hoki ki te matapihi nui, ā, tētahi e tāpuhi ana mā te rōpū."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+He aratohu tēnei mō ngā kaiwhakahaere mahi, ngā rōpū tiaki mate wareware me ngā kaiārahi hōtaka ā-rā. Ka whakaatu ia i ngā momo rōpū e mahi ana, te whakarite rūma, te whakaaro ki te mahi kotahi mō ngā taumata rerekē, te whakamahi i ā mātou kāri whakaahua tā me ngā tākaro matapihi nui. Ko te aro ki te mārietanga, te hononga me te kōwhiringa. Kāore tēnei e whakamātau i a rātou.
 
-## What makes a group activity work in memory care?
+## He aha te mea e mahi pai ai te mahi rōpū i te tiaki mate wareware?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+He mōhio, he poto, he māmā te whai wāhi ki ētahi, ā, kāore he pēhinga te mahi rōpū pai. E kī ana ngā [tohutohu mahi tiaki a te Alzheimer's Association](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) he whai wāhi whai take ki ngā mahi e tautoko ana i ngā hiahia me ngā kōwhiringa o te tangata, e whai kōwhiringa ana, e angitu ana, ahakoa he kino rawa te mate wareware. E kī anō taua tuhinga, ko ngā hōtaka tawhito he mahi nui kotahi, e rua rānei ia rā i reira ka mātakitaki noa ngā kainoho.
 
-That points to a few practical rules:
+Koia ēnei ngā ture mahi:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **He mōhio ka pai ake i te hou.** Ko ngā waiata, ngā whakataukī, ngā whakaahua, ngā taonga o ngā tau tamariki ngā mea māmā ki te whai wāhi.
+- **He poto ka pai ake i te roa.** Whakamahere mō te roa o te aro o tō rōpū, me tētahi wāhi whakamutu māori i waenganui.
+- **Ko te mahi ka pai ake i te mātakitaki.** Hoatu ki ia tangata tētahi mea hei pupuri, hei pāwhiri, hei kōwhiri, hei kōrero.
+- **He maha ngā taumata, he mahi kotahi.** Waihangatia ngā huarahi māmā, ngā huarahi uaua ake.
+- **Kāore he toa, kāore he tohu.** Ko ngā momo whakataetae ka waiho pea i ētahi me te whakaaro kua hinga rātou.
 
-## How big should the group be?
+## He nui pēhea te rōpū?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+He iti ake, he māmā ake. E kī te Alzheimer's Association, he pai ake ki te tangata he nui rawa te hui te whakawhitiwhiti kōrero i te rōpū iti. Kāore he tau tika kotahi. Ka whakawhirinaki ki ngā kainoho, ki te rūma, ki te maha o ngā kaimahi me ngā kaiāwhina.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+He whakamātau whai hua: ka kite te tangata katoa i te kanohi o te kaiārahi, ka rongo mārama, ka taea e tētahi kaiāwhina te tata atu i roto i ngā hēkona ruarua? Mēnā kāo, whakawehea te rōpū, tāpirihia ngā kaiāwhina, neke ki tētahi rūma iti ake rānei.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Mō tētahi hui nui, pēnei i te kaupapa waiata Kirihimete, whakanohoa ngā kaimahi me ngā kaiāwhina i waenga i ngā kainoho, kaua ki ngā pakitara.
 
-## How should I set up the room and seating?
+## Me pēhea te whakarite i te rūma me ngā nohoanga?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Porotaka, hoiho rānei.** E kī te aratohu huihuinga pai he rōpū tiritiri ka pai ake mēnā he rūma nui hei noho ai te katoa i te porotaka, kāore he haruru o muri.
+- **Te kaiārahi tata, i te taumata kanohi.** Nohoa, kaua e tū, ina taea.
+- **Te rongo me te kite i te tuatahi.** Nohoa te tangata e rongo iti ana ki te taha tata ki te kaiārahi, ki tōna taha pai. Māmā ki te whakarite kia whakaurua ōna kāmera, ōna taputapu rongo. E kī te Alzheimer's Association ko ngā raruraru kite me te rongo ka uaua ai te whakawhitiwhiti kōrero.
+- **Ko te rama kei muri i ngā kainoho, kāore ki muri i a koe.** Kaua e nohoa tētahi ki te matapihi kanapa.
+- **Whakakorea te pouaka whakaata, te reo irirangi.** E tohutohu ana te Alzheimer's Association kia whakakorea te haruru whakararu i ngā mahi puoro.
+- **He kōrero kotahi i te wā.** He uaua te kōrerorero tahi mō ngā tāngata e mate wareware ana me ngā tāngata e rongo iti ana, pērā i te kī a te Alzheimer's Association i tōna [aratohu Hararei](https://www.alz.org/help-support/caregiving/holidays).
+- **Ngā putanga mārama me tētahi kokonga mārie.** Ko tētahi e hiahia ana ki te wehe me taea te wehe māmā, me tētahi kaimahi hei hoa haere.
 
-## Group activity ideas
+## Ngā mahi rōpū
 
-### Picture bingo
+### Bingo whakaahua
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Ka whakakapi te bingo whakaahua i ngā tau ki ngā whakaahua mārama, pēnei i te tīpoti, te kurī, te rōhi, kia kore ai e whai tētahi i te rārangi tau roa, i ngā tuhituhi iti.
 
-**How to run it:**
+**Me pēhea te whakahaere:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Tāia he kāri mō ia tangata mai i tō whārangi [Bingo whakaahua](/games/picture-bingo/) mā te pātene Tā. He taimaha te pepa mō te whakahaere māmā. Hoatu he whakamāru mō te whakamahinga anō.
+2. Tukuna he mākawe nui, māmā ki te kawe, pēnei i ngā pōro pūkōrero, ngā pōtae pounamu, ngā tapawhā kāri kua tapahia.
+3. Whakamahia te kaikaranga o runga i te papaaho ki te pouaka whakaata, ki te kaiwhakaatu, kia kite katoa i te whakaahua ina kōrerohia tōna ingoa.
+4. Whakamutua i ia whakaahua, ā, tono he kōrero poto: “Kei te pīrangi tētahi o koutou ki te kōrero mō te kurī i mōhio ai koutou?” “He aha tā koutou e kite ana i tēnei?”
+5. Karanga tonu kia kī te kāri katoa. Ka oti i te katoa.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Te urutau:** Whakamahia he tapawhā iti ake mō ngā tāngata e raru ana ki te kāri kī. Ka taea e tētahi kaiāwhina te tohu i te whakaahua ōrite mō tētahi e hiahia ana. Ko ētahi pea e pai ana ki te pupuri i te kāri whakaahua a te kaikaranga, ā, ki te whakaatu ki te rōpū.
 
-### Sing-alongs
+### Ngā waiata tahi
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+He mahi rōpū e tino pai ana ki te nuinga. E kī te Alzheimer's Association, i ngā wāhanga whakamutunga pea ka taea e te tangata [te pātōki i te rēhia, te waiata i tētahi waiata o tōna tamarikitanga](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Me pēhea te whakahaere:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Kōwhiria ngā waiata i tipu ai ngā kainoho, kaua ko ngā waiata pai a te kaiārahi. Pātai ki ngā whānau he aha ā rātou i pai ai.
+- Whakamahia ngā waiata kāore he panui, e kī ana te Association he raru ēnei.
+- Tāia ngā kupu waiata ki te tuhi nui mō ngā kaipānui, engari kaua e tono.
+- Hoatu he shaker, he pahu ringa, he kakahu hei pāwhiri.
+- Whakatenatena te pakipaki me te nekehanga, ā, māmā tonu te reo.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Te urutau:** Ka waiata ētahi i ia kupu, ka hum ētahi, ka pātōki ētahi i te waewae, ā, ka whakarongo noa ētahi. Ka rite katoa ēnei. Titiro ki tā mātou [aratohu mahi puoro](/activities/music/) mō ētahi atu.
 
-### Reminiscence groups
+### Ngā rōpū maharatanga
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+E karapoti ana te rōpū maharatanga i tētahi kaupapa, pēnei i ngā rā kura, ngā waka tuatahi, ngā kīhini, te raumati, mā te whakamahi i ngā whakaahua, ngā taonga me te puoro. Ko te whāinga he kōrerorero pai, kāore he maharatanga tika.
 
-**How to run it:**
+**Me pēhea te whakahaere:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Kōwhiria tētahi kaupapa, ka kawe mai i ētahi taonga ka taea e te tangata te pupuri: he pūoro hiri, he kāpeti pōro, he pōtae, he rārangi kakano.
+2. Tukuna tētahi taonga i te wā kotahi. Patai i ngā pātai tuwhera: “Kōrerohia mai mō tēnei,” “He aha tā koe e kite ana?” “Ko wai i whakamahi i tētahi mea pēnei?”
+3. Whakaatu i ngā whakautu katoa. Kaua rawa e whakatika i tētahi rā, i tētahi kōrero.
+4. Arahina te kōrero ki ngā maharatanga whakamārie. E kī ngā tohutohu mahi he mea nui kia arahi te kaitiaki i te maharatanga ki ngā maharatanga pai, kāore ki ngā mea ka pōuri pea te tangata.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Ka hoatu [Ngā kāri kōrerorero](/games/conversation-cards/) i ngā whakaahua tā me ngā pātai tuwhera ka rōpūtia e te kaupapa, he pai hei tīmata kōrerorero. He whakaaro anō i tā mātou [aratohu maharatanga](/activities/reminiscence/).
 
-### Finish the saying
+### Whakaotia te whakataukī
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Ko ngā whakataukī mōhio ("He mea rongoā te moni kua penapena..."), ka tono ki te katoa kia kīwhiria te mutunga tahi. Whakaatuhia te [Whakaoti te whakataukī](/games/finish-the-saying/) i te matapihi nui, ā, waiho kia kī tahi te rōpū i te reo kotahi. He pātai kōrero i muri i ia whakataukī. Ki te kore tētahi e kī i te mutunga, whakaaturia, ka neke. Kāore he tika, he hē.
 
-### Large-print word search, together
+### Kimihanga kupu nui, tahi
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Whakaatuhia te [Kimihanga kupu](/games/word-search/) nui te tuhi ki te matapihi, ā, rapua ngā kupu tahi, ā, tāia he kape mō ngā tāngata e pai ana ki te mahi takitahi i te tēpu. Ka rere ngā kupu ki te taha me te raro anake.
 
-### Gentle movement
+### Nekehanga māmā
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+He whakatakoto nohoanga, he tuku pōro ngāwari, pōhueroa rānei, he kanikani porotaka ki ngā puoro mōhio. Whakaatuhia ia nekehanga, kaua e whakaahua noa.
 
-### Sorting and matching at the table
+### Te whakarite me te whakarite ōrite i te tēpu
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Ka taea e ngā tēpu iti o te toru ki te whā te tangata te whakarōpū pīkitia, ngā kākahu, ngā rākau kāri, ngā taputapu kai tahi. Ki runga i te papaaho, ka taea te tākaro [Ngā Ōrite Whakaahua](/games/picture-pairs/) me ngā whakaahua e kitea tonu ana; kotahi te tangata e pāwhiri ana, ā, ka kōrero te tēpu mō ia whakaahua.
 
-## How do I use your games on a big screen?
+## Me pēhea e whakamahi ai i ā mātou tākaro ki te matapihi nui?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ka oma ā mātou tākaro i te paraurira, nō reira ka taea te whakamahi ki te pouaka whakaata, ki te kaiwhakaatu me te kore e whakauru i tētahi mea.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Whakatuwhera i te tākaro ki tētahi rorohiko, ki tētahi papaaho e hono ana ki te matapihi mā te taura, mā te tuku.
+2. Whakanuia te paraurira kia taea te mātakitaki, whakaritea te reo ki te taumata e pai ai te katoa.
+3. Waiho kia pāwhiri tētahi kaiārahi i te pātene, ā, kia kī te rōpū i ngā kōwhiringa. Kātahi ka tukuna te papaaho ki tētahi tangata e hiahia ana ki te wā.
+4. Whakamutua i te wā e rite ai te rōpū. Kāore he wā, he kaute, he mutunga tika i ngā tākaro.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+Ko [Bingo whakaahua](/games/picture-bingo/), [Whakaoti te whakataukī](/games/finish-the-saying/), [Ngā Ōrite Whakaahua](/games/picture-pairs/) me [Ngā kāri kōrerorero](/games/conversation-cards/) ka pai ki ngā rōpū. Kitea ngā kōwhiringa katoa i tā mātou [whārangi tākaro](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Me pēhea e urutau ai i tētahi mahi mō ngā pūkenga rerekē?
 
-Plan at least three ways to join every activity.
+Whakamaherea he huarahi toru hei whai wāhi ki ia mahi.
 
-| Activity | More independent | Some support | Most support |
+| Mahi | He tokeke ake | He āwhina iti | He āwhina nui |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo whakaahua | Ka rapu, ka hipoki i ōna whakaahua anō | Ka tohu te kaiāwhina; ka hipoki te tangata | Ka pupuri i te kāri whakaahua; ka whakarongo, ka mātakitaki |
+| Waiata tahi | Ka waiata, ka kōwhiri i te waiata e whai ake nei | Ka hum, ka pakipaki, ka whakamahi i te shaker | Ka whakarongo, ka pupuri i te kakahu, ka pātōki i te ringa |
+| Maharatanga | Ka kōrero i ngā pākuhu | Ka whakautu i te ae, i te kore, ka tohu rānei | Ka pupuri, ka rongo i te taonga |
+| Kimihanga kupu | Ka mahi i tana kape tuhi anō | Ka rapu kupu i te matapihi nui me tētahi kaiāwhina | Ka whakarongo i ngā kupu e pānuitia ana |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Mō ngā kainoho e noho ana i ngā wāhanga whakamutunga, e kī te NHS he māmā ake ngā mahi, ā, he arotahi ki ngā rongo, pēnei i te puoro, ngā taonga hei pā, te tāra ringa. He pai ake pea tētahi wā kotahi-ki-tētahi i te rōpū, i muri rānei i te rōpū. Titiro ki [ngā mahi o te wāhanga whakamutunga](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Me pēhea te kōrero a ngā kaiārahi i te rōpū?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Whakamōhio i a koe ia wā, ā, whakamahia te ingoa e pai ana ki ia tangata.
+- Kōrerohia mārie, hoatu tētahi kōpiko i te wā, whakaatu i mua i te kī.
+- Tukuna he karanga tuwhera ("Kōrerohia mai mō...") he kōwhiringa māmā rānei, kaua he pātai whakamātau ("Kei te maumahara koe...?").
+- Kaua e whakatika. Whakamihi ki ia takoha.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Ko tā mātou [aratohu whakawhitiwhiti kōrero](/caregiving/communication-tips/) he kōrero anō mō tēnei.
 
-## Ending well, and letting people leave
+## Te whakamutu pai, me te tuku i te tangata kia wehe
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+He hua pai te whakamutu. Titiro mō ngā tohu e ngenge ana, e tino ngāwiri ana, e pōuri ana te tangata, ā, whakaritea tētahi kaiāwhina hei tono i te hīkoi, i te nohoanga mārie i tētahi wāhi kē. Ko te moe o tētahi i te waiata tahi he mea pea he okioki ā-ia.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Whakamutua ia rōpū i tōna āhua tonu, me tētahi waiata tawhito, me tētahi mihi māmā, kia rite ai te mutunga, kia pai ai. Muri mai, tuhituhia he aha i pai, ko wai i pai ki tētahi mea. Ka pai ake te hui e whai ake nei mā ērā tuhipoka.

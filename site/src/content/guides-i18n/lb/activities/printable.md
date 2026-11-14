@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gratis dréckbar Demenz-Aktivitéiten"
+seoTitle: "Gratis dréckbar Demenz-Aktivitéiten: Gréisser Schrëft"
+description: "Gratis dréckbar Demenz-Aktivitéiten: Wuertsich mat grousser Schrëft, Ausmolbiller, Gespréichskaarten a Bildbingo, plus Tipps fir gutt ze drécken."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments bitt gratis dréckbar Demenz-Aktivitéiten un: e Wuertsich mat
+  grousser Schrëft, Ausmolbiller, Bildgespréichskaarten a Bildbingo-Kaarten.
+  Maacht eng Spillsäit op a benotzt hire Drécken-Knäppchen. Drockt a grousser,
+  eenfacher Schrëft op staarkem Pabeier, hält eng Aufgab pro Säit a laminéiert
+  d'Säiten, déi Dir nach eng Kéier wëllt benotzen. Einfach Heemgemaach-Dréckdokumenter,
+  wéi eng Liewensgeschicht-Säit oder en Dagesplang, hëllefen och.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Eis dréckbar Aktivitéiten si gratis: Wuertsich, Ausmolen, Gespréichskaarten a Bildbingo. All Spillsäit huet e Knäppchen fir ze drécken."
+  - "Drockt a grousser, eenfacher Schrëft mat staarkem Kontrast, a hält eng Aufgab pro Säit."
+  - "Schwéiert Pabeier oder Kartong ass méi einfach ze halen an knittert manner. Laminéiert d'Säiten, fir se mat Trockenmarkéieren nach eng Kéier ze benotzen."
+  - "Heemgemaachte Dréckdokumenter wéi eng Liewensgeschicht-Säit, en Dagesplang oder Bildschëld fir d'Dieren si einfach a nëtzlech."
+  - "Eng gedréckt Säit ass en Usproch, kee Hausopgab. En Deel dovun ze maachen oder guer näischt ass a Rutsch."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Sinn Är dréckbar Demenz-Aktivitéiten gratis?"
+    a: "Jo. D'Wuertsich, d'Ausmolen, d'Gespréichskaarten a d'Bildbingo op dësem Site si gratis fir ze benotzen an ze drécken. Maacht d'Spillsäit op a benotzt de Drécken-Knäppchen."
+  - q: "Wat sinn déi bescht dréckbar Aktivitéiten fir Demenz?"
+    a: "Déi bescht Dréckdokumenter sinn einfach, kloer a fir Erwuessener: e Wuertsich mat grousser Schrëft a just Wierder horizontal an vertikal, Ausmolbiller mat klore Konturen, Bildkaarten, déi e Gespréich ufänken, an Bildbingo fir Gruppen. Passt d'Aktivitéit un d'Interessen an d'aktuell Fäegkeeten vun der Persoun un, a hält eng Aufgab pro Säit."
+  - q: "Wéi maache ech Dréckdokumenter méi einfach ze gesinn an ze benotzen?"
+    a: "Benotzt grouss, eenfach Schrëft, donkel Tënt op wäisse oder crème Pabeier an vill Plaz. Drockt op schwéiere Pabeier oder Kartong, sou datt d'Säit flaach bleift, wielt mat e mattent Pabeier fir Spigelungen ze vermeiden, a benotzt en Klemmbriet oder eng rutschfest Ënnerlag, fir d'Säit stëll ze halen. Laminéieren hëlleft, datt d'Säiten méi laang hale."
+  - q: "Kann ech Är Aktivitéiten fir en Pflegeheem oder e Tagesprogramm drécken?"
+    a: "Jo. Mataarbechter vun den Aktivitéiten sinn wëllkomm, eis Säiten fir Bewunner a Gruppen ze drécken. Bildbingo ass fir Gruppen gemaach a huet e Bildschierm-Ruffer, deen Dir op engem Fernseher oder Beamer weise kënnt."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Heiansdo ass déi bescht Aktivitéit e Blat Pabeier an en Stëft um Kichendësch. Dréckdokumenter brauchen kee Lueden, keng Passwierder a kee Bildschierm, a si sinn einfach mat op en Besuch oder an eng Gruppe ze huelen. Dës Säit beschreift déi gratis dréckbar Aktivitéiten op eiser Säit, wéi Dir se drockt, datt se gutt ze gesinn a ze halen sinn, an e puer einfach heemgemaachte Dréckdokumenter, déi Familljen an Aktivitéitsmataarbechter nëtzlech fannen.
 
-## What free printable activities do you offer?
+## Wéi gratis dréckbar Aktivitéiten bidden Der un?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Mir bidden véier gratis Dréckdokumenter un. Maacht eng vun dësen Spillsäiten op a benotzt de **Drécken**-Knäppchen, fir eng Versioun ze kréien, déi sech fir de Drécker eegent.
 
-| Printable | What it is | Good for |
+| Dréckdokument | Wat et ass | Gutt fir |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Wuertsich](/games/word-search/) | E Wuertsich mat grousser Schrëft, wou d'Wierder nëmmen horizontal an vertikal lafen | Roueg Zäit mam Stëft; eng Persoun, déi Rätsel gär hat |
+| [Ausmolen](/games/coloring/) | Ausmolbiller zum Drécken oder zum Ausmolen um Bildschierm | Entspaant, kreativ Zäit; all Stadium mat Hëllef |
+| [Gespréichskaarten](/games/conversation-cards/) | Bildkaarten mat oppene Gespréichsimpulser ouni Quiz, no Thema | Besuch, Opruffe, Familljeniessen, Erënnerungsgruppen |
+| [Bildbingo](/games/picture-bingo/) | Bingo-Kaarten mat Biller amplaz vu Zuelen, a mat engem Ruffer um Bildschierm | Pflegeheemer, Tagesprogrammer, Familljefeieren |
 
-### Large-print word search
+### Wuertsich mat grousser Schrëft
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+De [Wuertsich](/games/word-search/) benotzt grouss Buschtawen a léisst d'Wierder nëmmen horizontal an vertikal lafen, ouni Diagonalen a Wierder aus der Réckrichtung. Maacht et zesummen: Eng Persoun liest e Wuert vun der Lëscht, d'aner sicht et. Wann et schwéier gëtt Wierder ze fannen, probéiert zesummen den éischte Buschtaf vun all Wuert ze ëmkreesen, oder liest einfach d'Wuertlëscht laut a schwätzt iwwer all Wuert.
 
-### Coloring pages
+### Ausmolbiller
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Ausmolen](/games/coloring/)-Biller kënnen fir Marker oder Faarfstëfter gedréckt ginn, oder Dir molt se um Tablet aus, andeems Dir eng Faarf an dann e Stéck vum Bild tippt. Fir gedréckt Säiten bidd dicke Marker an e puer Faarwen op eemol un. Kuckt eise [Konscht- an Handwierksguide](/activities/arts-and-crafts/) fir Weeër, wéi Ausmolen erwuessen a relaxt bleift.
 
-### Conversation cards
+### Gespréichskaarten
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Gespréichskaarten](/games/conversation-cards/) verbannen en kloert Bild mat engem oppenen Impuls, wéi „Erzielt mir iwwer...“ oder „Wat fält iech op?“ Si sinn als oppe Aschloss geschriwwen, net als Quizfroen. Dréckt en Set, schneit se of an hält e puer am Beutel fir Besuch oder nieft dem Telefon fir Opruffe. Si funktionéiere och gutt an [Erënnerungs-](/activities/reminiscence/)Gruppen.
 
-### Picture bingo cards
+### Bildbingo-Kaarten
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Bildbingo](/games/picture-bingo/)-Kaarten benotzen Biller amplaz vu Zuelen. Drockt eng Kaart pro Spiller a benotzt de Ruffer um Bildschierm op engem Laptop, Fernseher oder Beamer. Mir schloen vir, ze ruffen, bis d'Kaart vun all Persoun voll ass, sou datt keen ausgeschloss gëtt. Kuckt [Gruppenaktivitéiten fir Pflegeheemer](/activities/care-home-groups/), fir ze gesinn, wéi eng Sessioun leeft.
 
-## How do I print activities so they are easy to use?
+## Wéi drécke ech Aktivitéiten, sou datt se einfach ze benotzen sinn?
 
-Small changes in how you print make a big difference.
+Kleng Ännerungen beim Drécken maachen e grousse Ënnerscheed.
 
-### Make it easy to see
+### Einfach ze gesinn
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Grouss, eenfach Schrëft.** Benotzt déi gréisst Schrëftgréisst, déi nach op d'Säit passt. Vermeit ausgefalen oder Schreifschrëften.
+- **Staarkten Kontrast.** Donkel Tënt op wäisse oder crème Pabeier. Vermeit blass Gro oder faarweg Hannergrënn.
+- **Mattent Pabeier** reduzéiert Spigelungen ënner hellem Liicht.
+- **Brëller a Beleuchtung kontrolléieren.** D'Alzheimer's Association bemierkt, datt Visioun- an Gehéierprobleemer d'Kommunikatioun schwéieren kënne, a schléit vir, si regelméisseg ze kontrolléieren. E hellt, gläichméissegt Liicht hëlleft och.
 
-### Make it easy to hold
+### Einfach ze halen
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Schwéiere Pabeier oder Kartong** bleift flaach, ass méi einfach opzehuelen an hält dauerhaft.
+- **E Klemmbriet** oder eng rutschfest Ënnerlag hält d'Säit vum Réitschen ofgehalen.
+- **Dick Marker oder décker Stëfter** si méi einfach ze packen wéi dënn Stëfter.
 
-### Make it reusable
+### Wiederbenotzbar
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Laminéiert d'Säiten** oder schiebt se a kloer Schutzhüllen. Benotzt Trockenmarker op Wuertsich a Bingo-Kaarten, a wëscht se duerno of.
+- **Wielt mattent Hüllen**, wann Spigelung e Problem ass, an **rond d'Ecken** vu laminéierte Kaarten mat enger Scheier of, sou datt se bequem an der Hand leien.
+- **Hält e Dossier** mat Liiblingssäiten, sou datt Dir net all Woch déiselwecht Säit dréckt.
 
-### Keep it simple
+### Eenfach halen
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Eng Aufgab pro Säit.** Een eenzegt Wuertsich oder ee Bild, net verschidde Aktivitéiten, déi zesummegedréckt sinn.
+- **Vill fräi Plaz.** Eng voll Säit kann iwwerwältegend wierken.
+- **Keng Uweisungen ze liesen, wann méiglech.** Weist der Persoun, wat ze maachen ass, amplaz et ze erklären.
+- **Säiten zerkleinere.** Wann eng ganz Säit ze vill ass, schneit se doen oder faalt se, sou datt just en Deel ze gesi ass.
 
-## Other useful printables you can make at home
+## Aner nëtzlech Dréckdokumenter, déi Dir doheem maache kënnt
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Net all nëtzlecht Dréckdokument ass e Spill. Dës sinn einfach mat engem Textverarbechtungsprogramm an engem Drécker ze maachen.
 
-### A life-story page
+### Eng Liewensgeschicht-Säit
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Eng Säit „Iwwer mech“ mat engem Foto, dem Numm, deen d'Persoun gär benotzt, wou si opgewuess ass, hirer Aarbecht, der Famill, Liiblingsiessen, Musek an Saachen, déi trëschten oder opreegen. Dementia Australia schléit en [Erënnerungsbuch](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) mat Detailer iwwer d'Liewen, d'Virléiften an d'wichteg Leit vun der Persoun vir, fir Besucher a Betreier ze hëllefen an d'Gespréich unzeregen.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Dat ass besonnesch nëtzlech a Spidólen an neien Pflegeëmfeld. D'NIA empfeelt, Spidolspersonal e [Blat mat Persoundaten](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ze ginn, dat den Alldag, de bevorzugten Numm, Virléiften a Affer, méiglech Ausléiser an nonverbal Zeeche vu Schmerz ofdeckt.
 
-### A daily schedule
+### E Dagesplang
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+En grousse, einfache Plang fir den Dag mat Zäiten, e puer Wierder a engem klenge Bild fir all Deel: Fréistéck, Spadséiergang, Mëttegiessen, Rou, Musek, Owendiessen. D'[Daily Care Plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) vun der Alzheimer's Association schléit vir, d'Planung no de bescht Zäite vum Dag ze maachen, mat reegelméissegen Opstéi- an Ëmschlofzäiten an enger Balance tëscht Aktivitéit an Rou. Hänkt en op Aaghéicht op, vläicht um Frigo, a bleift flexibel. Kuckt eise [Dagesroutine-Guide](/activities/daily-routine/) fir méi.
 
-### Picture labels for rooms and drawers
+### Bildschëlder fir Raim a Schublade
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+D'NIA schléit vir, hell faarweg Schëlder oder einfach Biller ze benotzen, fir [de Buedzëmmer, d'Schlofkummer an d'Kich ze markéieren](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Déiselwecht Iddi funktionéiert fir Schublade a Schaarnäpp: e Bild vun Socke op der Socheschublade, Tassen um Tassenschaf. Dréckt, laminéiert a klebt se op.
 
-### A sorting set
+### E Sortéierset
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Drockt Biller aus zwou einfachen Kategorien, wéi Uebst a Blummen oder Werkzeuch a Kichenaarbechtsgeschir, op Kartong. Schneit se of a sortéiert se zesummen an zwee Kierf. Déi Bildschierm-Versioun dovun ass [Zesumme sortéieren](/games/sort-together/).
 
-### Song lyric sheets
+### Liedtexter
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Drockt d'Wierder vu e puer Liiblingsliddchen a ganz grousser Schrëft fir e Mëtsangen. Och Leit, déi net vill méi liesen, genéisse et vläicht, d'Blat ze halen.
 
-### A family photo page
+### E Famillefotoblat
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Eng eenzeg Säit mat véier bis sechs grousse Familljefotoen, all mat engem Virnumm drënner. Si kann um Dësch leien, fir datt jiddereen se hieft a driwwer schwätzt. Etiketten hëllefen Besucher a Mataarbechter, an de Gespréich matzemaachen, an kee muss froen: „Wien ass dat?“
 
-### A recipe card
+### E Rezeptkaart
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Drockt e Liiblingsrezept vun der Famill a grousser Schrëft. Benotzt en, fir zesummen ze kachen, oder just fir iwwer d'Iesse vun fréier ze schwätzen.
 
-## How do I offer a printable without it feeling like homework?
+## Wéi bidden ech en Dréckdokument un, ouni datt et sech wéi Hausopgab uleet?
 
-Present it as something to share, not a test.
+Presentéiert et als eppes, dat Dir deelt, net als Test.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Sëtzt Iech hin a fänkt selwer un.** „Ech maachen dat Wuertsich. Wëllt Der mir hëllefen „Gaart“ ze fannen?“
+- **Maacht et zesummen.** Wiesselt Iech of, oder eng Persoun fënnt a just d'Anerer ëmkreest.
+- **Maacht ni eng Richteg-oder-Falsch-Markéierung.** D'Alzheimer's Association hire Guide zu [Aktivitéiten doheem](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) rät, sech op de Prozess ze konzentréieren an net op d'Resultat, a méi op de Genoss wéi op d'Leeschtung.
+- **Léisst Säiten liewen.** Den selwechten Guide schléit vir, Scrapbooks, Fotoalbumen oder al Magazinne a Plazen ze leeën, déi einfach z'erreechen sinn. Gedréckte Kaarten a Fotosäiten kënnen op ähnlech Aart op engem Nieftdësch leien.
+- **Hält op, wann Dir wëllt.** Eng hallef Ausmolsäit ass e gudden Nomëtteg. Dat ass och a Rutsch, d'Säit ewechzeleeën an eng Tass Téi ze drénken.
 
-## Where to find more
+## Fir méi ze fannen
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Kuckt all eis [Spiller a Dréckdokumenter](/games/), oder kuckt [Aktivitéiten fir all Stadium](/activities/ideas/) fir méi Iddien, mat an ouni Pabeier.

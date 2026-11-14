@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Diere",
+      "description": "Lieflike, vriendelike diere van regoor die wêreld"
+    },
+    "nature": {
+      "name": "Natuur",
+      "description": "Pragtige landskappe en natuurtonele"
+    },
+    "food": {
+      "name": "Kos",
+      "description": "Heerlike maaltye en lekkernye"
+    },
+    "vintage": {
+      "name": "Motors",
+      "description": "Motors en vragmotors om saam na te kyk en oor te gesels"
+    },
+    "flowers": {
+      "name": "Blomme",
+      "description": "Pragtige blomme en tuintonele"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Plaasdiere",
+      "description": "Vriendelike plaasdiere, soos op 'n uitstappie platteland toe.",
+      "theme": "Plaaslewe",
+      "images": {
+        "cow_1": "Vriendelike koei",
+        "pig_1": "Tevrede vark",
+        "chicken_1": "Haan",
+        "buffalo_1": "Waterbuffel",
+        "horse_1": "Pragtige perd",
+        "duck_1": "Eendefamilie",
+        "goat_1": "Nuuskierige bok",
+        "rabbit_1": "Lieflike haas"
+      }
+    },
+    "nature_mountains": {
+      "title": "Bergtonele",
+      "description": "Asemrowende berglandskappe en mooi uitsigte",
+      "theme": "Natuurskoon",
+      "images": {
+        "mountain_1": "Sneeubedekte pieke",
+        "mountain_2": "Berg Fuji",
+        "mountain_3": "Alpiene vallei",
+        "mountain_4": "Rotsagtige bergtop",
+        "mountain_5": "Beboste heuwels",
+        "mountain_6": "Newelagtige berge"
+      }
+    },
+    "vintage_cars": {
+      "title": "Motors en vragmotors",
+      "description": "Blink motors en vragmotors om na te kyk en oor te gesels",
+      "theme": "Op die pad",
+      "images": {
+        "vintage_car_1": "Oranje Audi met sonsondergang",
+        "vintage_car_2": "Blou sportmotor in die woestyn",
+        "vintage_car_3": "Silwer Bugatti",
+        "vintage_car_4": "Swart Porsche op die pad",
+        "vintage_car_5": "Oranje BMW in 'n straat met palmbome",
+        "vintage_car_6": "Blou koepee by 'n garage",
+        "vintage_car_7": "Groen bakkie",
+        "vintage_car_8": "Wit SUV tussen rooi rotse",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blou motor met wit strepe"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaridiere",
+      "description": "Statige diere van Afrika-safaris",
+      "theme": "Wildlewe",
+      "images": {
+        "lion_1": "Statige leeu",
+        "elephant_2": "Afrika-olifant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Gestreepte sebra",
+        "rhino_5": "Kragtige renoster",
+        "cheetah_6": "Vinnige jagluiperd",
+        "fox_7": "Bruin vos",
+        "bear_8": "Ysbeer",
+        "turtle_9": "Bruin skilpad",
+        "squirrel_10": "Bruin eekhoring",
+        "macaw_11": "Geel en blou ara",
+        "tiger_12": "Tier",
+        "raccoon_13": "Wasbeer",
+        "wolf_14": "Grys wolf",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Pragtige pou"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Heerlike naggeregte",
+      "description": "Heerlike naggeregte vir by jou maaltye.",
+      "theme": "Soet naggeregte",
+      "images": {
+        "pastries_1": "Vier gebakkies",
+        "oreo_cookie_sandwiches_2": "Oreo-koekiesandwiches",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pannekoek",
+        "macarons_5": "Makarons",
+        "caramel_cake_6": "Karamelkoek"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropiese blomme",
+      "description": "Ontdek die lewendige skoonheid van die tropiese streke met hierdie pak eksotiese blomme.",
+      "theme": "Tropiese blomme",
+      "images": {
+        "hibiscus_1": "Rooi hibiskus",
+        "frangipani_2": "Rooi-wit frangipani",
+        "sunflower_3": "Sonneblom",
+        "hydrangea_4": "Wit hortensia",
+        "rose_5": "Roos",
+        "chrysanthemum_6": "Krisant",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Straatkos-fees",
+      "description": "Verken die kleurryke wêreld van straatkos met hierdie pak heerlike versnaperinge van regoor die wêreld.",
+      "theme": "Straatkos",
+      "images": {
+        "taco_1": "Meksikaanse taco",
+        "ramen_2": "Japannese ramen",
+        "dumplings_3": "Chinese dumplings",
+        "samosa_4": "Indiese samoesa",
+        "pizza_5": "Italiaanse pizzaskyf",
+        "crepe_6": "Franse crêpe",
+        "satay_7": "Thaise saté-spiesies",
+        "burger_8": "Amerikaanse burger",
+        "bao_9": "Gestoomde bao-broodjie",
+        "takoyaki_10": "Japannese takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Natuurlandskap",
+      "description": "Kalm, pragtige natuurtonele om stadig na te kyk en saam oor te gesels.",
+      "theme": "Natuurlandskappe",
+      "images": {
+        "mountain_1": "Bergreeks",
+        "forest_2": "Newelagtige woud",
+        "lake_3": "Bergmeer",
+        "desert_4": "Woestynduine",
+        "waterfall_5": "Waterval",
+        "beach_6": "Sandstrand",
+        "river_7": "Vloeiende rivier",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Sonsondergangshemel",
+        "snow_mountain_10": "Sneeubedekte berg",
+        "flowers_11": "Veldblomme",
+        "rainforest_12": "Reënwoud",
+        "iceberg_13": "Ysberg",
+        "volcano_14": "Vulkaan",
+        "cliff_15": "Seeklip",
+        "aurora_16": "Aurora borealis",
+        "savannah_17": "Savanne",
+        "coral_reef_18": "Koraalrif"
+      }
+    }
+  }
+}

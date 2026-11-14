@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Ainmhithe",
+      "description": "Ainmhithe gleoite cairdiúla ó gach cearn den domhan"
+    },
+    "nature": {
+      "name": "Nádúr",
+      "description": "Tírdhreacha áille agus radhairc nádúrtha"
+    },
+    "food": {
+      "name": "Bia",
+      "description": "Béilí agus milseáin bhlasta"
+    },
+    "vintage": {
+      "name": "Gluaisteáin",
+      "description": "Gluaisteáin agus leoraithe le féachaint orthu agus le caint fúthu"
+    },
+    "flowers": {
+      "name": "Bláthanna",
+      "description": "Bláthanna áille agus radhairc ghairdín"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Ainmhithe feirme",
+      "description": "Ainmhithe cairdiúla feirme, mar a bheifeá ar chuairt faoin tuath.",
+      "theme": "Saol na feirme",
+      "images": {
+        "cow_1": "Bó chairdiúil",
+        "pig_1": "Muc shásta",
+        "chicken_1": "Coileach",
+        "buffalo_1": "Buabhall uisce",
+        "horse_1": "Capall álainn",
+        "duck_1": "Teaghlach lachain",
+        "goat_1": "Gabhar fiosrach",
+        "rabbit_1": "Coinín gleoite"
+      }
+    },
+    "nature_mountains": {
+      "title": "Radhairc sléibhe",
+      "description": "Tírdhreacha sléibhe iontacha agus radhairc áille",
+      "theme": "Áilleacht an nádúir",
+      "images": {
+        "mountain_1": "Mullaigh sléibhe faoi shneachta",
+        "mountain_2": "Sliabh Fuji",
+        "mountain_3": "Gleann alpach",
+        "mountain_4": "Mullach carraigeach",
+        "mountain_5": "Cnoic choillteacha",
+        "mountain_6": "Sléibhte ceomhara"
+      }
+    },
+    "vintage_cars": {
+      "title": "Gluaisteáin agus leoraithe",
+      "description": "Gluaisteáin agus leoraithe snasta le féachaint orthu agus le caint fúthu",
+      "theme": "Ar an mbóthar",
+      "images": {
+        "vintage_car_1": "Audi oráiste ag luí gréine",
+        "vintage_car_2": "Carr spóirt gorm san fhásach",
+        "vintage_car_3": "Bugatti airgeadúil",
+        "vintage_car_4": "Porsche dubh ar an mbóthar",
+        "vintage_car_5": "BMW oráiste ar shráid le crainn phailme",
+        "vintage_car_6": "Cúpé gorm in aice le garáiste",
+        "vintage_car_7": "Trucail phiocála ghlas",
+        "vintage_car_8": "SUV bán i measc carraigeacha dearga",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Carr gorm le stríocacha bána"
+      }
+    },
+    "animals_safari": {
+      "title": "Ainmhithe saifearaí",
+      "description": "Ainmhithe maorga ó shaifearaí san Afraic",
+      "theme": "Fiadhúlra",
+      "images": {
+        "lion_1": "Leon maorga",
+        "elephant_2": "Eilifint Afracach",
+        "jaguar_3": "Jagúr",
+        "zebra_4": "Séabra stríocach",
+        "rhino_5": "Srónbheannach láidir",
+        "cheetah_6": "Síota tapa",
+        "fox_7": "Sionnach donn",
+        "bear_8": "Béar bán",
+        "turtle_9": "Turtar donn",
+        "squirrel_10": "Iora rua",
+        "macaw_11": "Macáw buí agus gorm",
+        "tiger_12": "Tíogar",
+        "raccoon_13": "Racún",
+        "wolf_14": "Mac tíre liath",
+        "crocodile_15": "Crocodal",
+        "peacock_16": "Péacóg álainn"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Milseáin bhlasta",
+      "description": "Roinnt milseán blasta le do bhéilí.",
+      "theme": "Milseáin",
+      "images": {
+        "pastries_1": "Ceithre thaosrán",
+        "oreo_cookie_sandwiches_2": "Ceapairí brioscán Oreo",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pancóg",
+        "macarons_5": "Macarúin",
+        "caramel_cake_6": "Cáca carmeille"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Bláthanna trópaiceacha",
+      "description": "Faigh amach áilleacht bhríomhar na dtrópaicí leis an bpacáiste seo de bhláthanna eachtracha.",
+      "theme": "Bláthanna trópaiceacha",
+      "images": {
+        "hibiscus_1": "Hibiscus dearg",
+        "frangipani_2": "Frangipani dearg agus bán",
+        "sunflower_3": "Lus na gréine",
+        "hydrangea_4": "Hortensia bhán",
+        "rose_5": "Rós",
+        "chrysanthemum_6": "Crisantamam",
+        "anthurium_7": "Anthúiriam",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Deilfiniam"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Fiesta bia sráide",
+      "description": "Féach ar shaol dathannach an bhia sráide leis an bpacáiste seo de ghreamanna blasta ó gach cearn den domhan.",
+      "theme": "Bia sráide",
+      "images": {
+        "taco_1": "Taco Meicsiceach",
+        "ramen_2": "Ramen Seapánach",
+        "dumplings_3": "Dumplings Síneacha",
+        "samosa_4": "Samosa Indiach",
+        "pizza_5": "Slisne pizza Iodálach",
+        "crepe_6": "Crêpe Francach",
+        "satay_7": "Bróiníní satay Téalannacha",
+        "burger_8": "Burgar Meiriceánach",
+        "bao_9": "Bun bao galaithe",
+        "takoyaki_10": "Takoyaki Seapánach"
+      }
+    },
+    "nature_landscape": {
+      "title": "Tírdhreach nádúrtha",
+      "description": "Radhairc chiúine áille nádúir le féachaint orthu go mall agus le caint fúthu le chéile.",
+      "theme": "Tírdhreacha nádúrtha",
+      "images": {
+        "mountain_1": "Sliabhraon",
+        "forest_2": "Coill cheomhar",
+        "lake_3": "Loch sléibhe",
+        "desert_4": "Dumhcha fásaigh",
+        "waterfall_5": "Eas",
+        "beach_6": "Trá ghaineamhach",
+        "river_7": "Abhainn ag sruthlú",
+        "canyon_8": "An Grand Canyon",
+        "sunset_9": "Spéir ag luí gréine",
+        "snow_mountain_10": "Sliabh sneachtúil",
+        "flowers_11": "Bláthanna fiáine",
+        "rainforest_12": "Foraois bháistí",
+        "iceberg_13": "Cnoc oighir",
+        "volcano_14": "Bolcán",
+        "cliff_15": "Aill farraige",
+        "aurora_16": "Na soilse thuaidh",
+        "savannah_17": "Savána",
+        "coral_reef_18": "Sceir choiréil"
+      }
+    }
+  }
+}

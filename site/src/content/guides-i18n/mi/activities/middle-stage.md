@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Ngā mahi mō te wāhanga waenga o te mate wareware"
+seoTitle: "Ngā mahi wāhanga waenga mō te mate wareware: whakaaro māmā"
+description: "Ngā mahi māmā mō te wāhanga waenga o te mate wareware: mahi whai take, waiata, whakaahua, kēmu ngāwari, me te whakarite i ia mahi."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  I te wāhanga waenga o te mate wareware, ko ngā mahi pai rawa he poto, he mōhio, he wāwāhia ki ngā wāhanga kotahi: te whakapaki kākahu, te kōmaka hoka, te horoi ipu, te waiata, ngā hīkoi ārahi, ngā pukaemi whakaahua me ngā kēmu pikitia māmā. Whakaritea te mahi, whakaatua te wāhanga tuatahi, tangohia ngā wāhanga uaua, whakaarahia he take mō te mahi. Whakamutua ina kore e pai tonu.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Ko ngā mahi whare e mōhiotia ana he pai pinga, nā te mea ka whakaaro te tangata he whaihua, he pakeke hoki."
+  - "Whakaatu kaua ki te kōrero noa, tukua kotahi wāhanga i te wā, ā, hoatu e rua whiringa māmā kaua he pātai tuwhera."
+  - "Tangohia te wāhanga uaua kia taea e te tangata te mahi i te wāhanga e makona ai ia."
+  - "Ko te nekeneke kore mārie he tohu pinga e hiahia ana te tangata ki tētahi mahi. Hoatu he mahi e rite ana, kaua e kī kāore."
+  - "Ko te mātakitaki, te āwhina iti, te whakamutu wawe rānei he mea pai katoa."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "He aha ngā mahi pai mō te wāhanga waenga o te mate wareware?"
+    a: "Ko ngā mahi poto, mōhio, ā-ringa e pai rawa ana: te whakapaki tauera, te takirua hoka, te horoi ipu, te whakarite tēpu, te waiata tahi i ngā waiata tawhito, ngā hīkoi ārahi, te titiro i ngā pukaemi whakaahua me ngā kēmu pikitia māmā. Whakawehea ia mahi ki ngā mahi kotahi, ka mahi tahi."
+  - q: "Me pēhea e tīmata ai tētahi mahi i te tangata whai mate wareware?"
+    a: "Whakarite katoa kia rite, kātahi ka tīmata te mahi mā koe anō, ka pōhi i a rātou kia āwhina mai: 'Ka pai kia āwhina mai koe ki ēnei tauera?' He maha ngā tāngata e hiahia ana ki te whai wāhi engari he uaua ki a rātou te tīmata. Ko te whakaatu i te wāhanga tuatahi he pai ake i te whakamārama."
+  - q: "He aha te mahi ina mahi tonu rātou i tētahi mea, ā, ia wā?"
+    a: "He mea kāore e kino ana te whakahoki-ā-hoki, ā, he tohu pea e hiahia ana te tangata kia mōhio ia he mahi tāna, ki te whakamarū rānei. Kaua e whakatika; whakaatu he mahi e rite ana ki te nekeneke, pēnei i tētahi kete tauera horoi hei whakapaki, i tētahi waiata hei waiata tahi."
+  - q: "Ki te mahi hē rātou i te mahi?"
+    a: "Ki te kore e kino, waiho kia pēnei. Ko ngā tauera kua whakapakia rerekē, ko ngā supuni kei te wāhi hē kāore e whai take. He pēhi pea te whakatika, ā, mā te mahi i tā rātou tikanga ka mōhio ai rātou he kaha, he whaihua hoki."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Ko te wāhanga waenga o te mate wareware te wāhanga roa rawa atu, ā, koia te wā e hiahia nui ai ngā mahi ki te tautoko. He uaua ki te kōrero, ka wōrearea ngā mahi, ka uaua te tīmata i tētahi mea. Engari ka mau tonu te hiahia kia whaihua, kia whai wāhi hoki. Me te whakarite iti, ka taea e te tangata i te wāhanga waenga te pai ki tētahi nui, ina hoki ko ngā mahi mōhio, te waiata me ngā pikitia e mahia ana tahi me koe.
 
-## What activities work well in middle-stage dementia?
+## He aha ngā mahi e pai ana mō te wāhanga waenga o te mate wareware?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Ko ngā mahi poto, mōhio, ā-ringa, kua wāwāhia ki ngā mahi kotahi, ko ēnei e pai rawa ana. Ka kī te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) kāore e tika kia hanga he mahi hou: he wāhanga pea ngā mahi o te oranga o ia rā, pēnei i te hanga kai tahi, te māra, te whakarongo ki te waiata, te hīkoi rānei.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+Ka kī te [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) he nui te hiahia o ngā tāngata i tēnei wāhanga ki te whai take, ki te tiaki i tētahi mea rānei, ā, he hiahia awhina ki te tīmata, ki te whakahoki mahi rānei. Ko tana rārangi mahi mō te wāhanga waenga ko te whakapaki tauera, te horoi ipu, te kōmaka hoka, te whakangungu māmā, te kanikani ki ngā waiata e mōhiotia ana, ngā hīkoi ārahi, ngā waiata tahi, te peita māmā me te titiro i ngā pukaemi whakaahua.
 
-## How do you set up an activity so it works?
+## Me pēhea te whakarite i tētahi mahi kia pai ai te mahi?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Ko te nuinga o ngā mahi ka angitu, ka hē rānei, i te whakarite. Ko ēnei tikanga, i ahu mai i te [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) me te [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), ko te mea e nui rawa ana te rerekētanga:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Whakamāmāa te wāhi.** Whakakorea te pouaka whakaata, katia te tatau, ā, whakaputaina anake ngā mea e hiahiatia ana e te mahi.
+2. **Tīmatahia mā koe anō.** Tīmata te whakapaki, te hurihuri rānei, ka pōhi i a rātou kia uru mai: "Ka pai kia āwhina mai koe ki tēnei?"
+3. **Whakaatu, ka tatari.** Whakaatuhia tētahi wāhanga. Tohua, ārahia rānei ki tō ringa, hei tauira, te whakaatu i te wāhi e tika ai te pereti.
+4. **Tukua tētahi wāhanga i te wā.** "Pōtia te tauera ki te hawhe" he māmā ake i te "Whakapakia ēnei, kia whakatakotoa ki te tae."
+5. **Hoatu e rua whiringa, kaua he pātai tuwhera.** "Ngā tauera kikorangi, ngā mea mā rānei?" he māmā ake te whakautu i te "Ko tēhea tāu e hiahia ai ki te mahi?"
+6. **Mahia koe anō te wāhanga uaua.** Ka ine koe, ka hurihuri rātou. Ka whakaurua koe i te aho ki te matua, ka wiri rātou i te miro.
+7. **Hoatu he take.** "Ko ēnei tauera kai mō te kai Ratapu" ka āhua pono te mahi.
+8. **Tukua kia mātakitaki mēnā e pai ana ki a rātou.** Ka kī te [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) he pai hoki te mātakitaki noa.
 
-## Activity ideas for the middle stage
+## Ngā whakaaro mahi mō te wāhanga waenga
 
-### Useful jobs
+### Ngā mahi whare
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Pōtia ngā tauera me ngā tauera horoi.** Ko ngā mea iti, papatahi ngāwari rawa. Ka taea te whakapaki, te whakamāeneene me te whakapaki anō he kete tauera horoi mahana.
+- **Takirua ngā hoka.** Tīmatahia ki ētahi takirua rerekē. Ko te kōmaka mā te tae anake he pai hoki.
+- **Horoia, matomatoa rānei ngā ipu kāore e pakaru.** Ko te wai mahana, he kakara hoki, he pai ki ngā ringa. Ko te matomato i te nohoanga he māmā ake mō ngā waewae.
+- **Whakarite te tēpu.** Hoatu kotahi momo mea i te wā, ā, whakaritea tētahi tūru e koe anō hei tauira.
+- **Āwhina i te kai ahiahi.** Horoi i ngā rīwai, tutu i te rētihi, hurihuri i tētahi ipu. Ka whakahaere koe i ngā mata me te wera.
+- **Tahitahi, horoi, muru rānei.** He kākahu mō te tēpu, he tahitahi māmā mō te urunga o te whare.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Tirohia [ngā mahi whare](/activities/household-tasks/) mō ētahi atu he maha.
 
-### Music and movement
+### Pūoro me te nekeneke
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Waiata i ngā waiata tawhito.** Tīmatahia mā koe anō te waiata; he maha ngā tāngata ka uru atu ki ngā waiata kua mōhiotia mō ngā tau maha. Tirohia [ngā mahi pūoro](/activities/music/).
+- **Kanikani noa.** Tōtō, pātete, nekeneke rānei i ngā āhuatanga e pai ai. Ka pai te noho.
+- **Tukuna te poihau.** He puhoi tana nekeneke, he māmā te hopu mai i te nohoanga.
+- **Whai hīkoi ārahi.** Hīkoi tahi i tētahi ara poto, mōhio, ā, me ngā ringa e piri ana, mēnā e āwhina ana.
 
-### Pictures and stories
+### Ngā pikitia me ngā kōrero
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Titiro i tētahi pukaemi whakaahua.** Whakamāramatia te mea e kitea ana, kaua e pātai: "Tirohia taua waka. Kōrerohia mai." Tirohia [ngā mahi hoki ki ngā mahara o mua](/activities/reminiscence/).
+- **Whakamahia ngā kāri kōrero.** [Kāri kōrero](/games/conversation-cards/) takirua tētahi pikitia ki tētahi tohu kōrero tuwhera, kāore he pātai whakamātau.
+- **Mātakitaki tahi i tētahi kiriata tawhito.** Kōwhiria tētahi kua mōhiotia, noho tata atu, ā, whakamutua mō ngā okiokinga.
 
-### Simple, pressure-free games
+### Ngā kēmu māmā, kāore he pēhi
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Ngā takirua pikitia me ngā pikitia kitea.** [Ngā takirua pikitia](/games/picture-pairs/) ka waiho kitea ngā pikitia, nō reira he aro ki te kitea, ehara ki te maumahara.
+- **Rapua te mea rite.** [Rapua te mea rite](/games/find-the-same/) ka whakaatu i tētahi pikitia kotahi me ngā whiringa e rua, e whā rānei anake.
+- **Kōmaka tahi.** [Kōmaka tahi](/games/sort-together/) he rite ki te kōmaka i ngā kākahu horoi i runga i te ataata: pāwhiri i tētahi pikitia, kātahi tō te kete.
+- **Pingo whakaahua.** [Pingo whakaahua](/games/picture-bingo/) he pai mō ngā hui whānau me ngā rōpū.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Mēnā ka pēhi te kēmu, whakamutua, mahia tētahi atu mahi. Tirohia [me pēhea te tākaro tahi](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Te whakarerekē i te whakapōrearea hei mahi
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Ko te nekeneke kore mārie, ko te whakahoki-ā-hoki rānei he take tō taua mahi. Ka kī te Family Caregiver Alliance, ko te tangata e whakakore tonu ana i ngā mea o tētahi kāpata, he hiahia pea kia mōhio ia he mahi tāna, he whaihua hoki. Ka kī te Alzheimer's Association me huri taua kaha ki tētahi mahi e rite ana, kāore e aukatia.
 
-| What you see | Something to offer |
+| Ka kite koe i | Tētahi mea hei hoatu |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Te kuhu, te tīmata i tētahi tēpu | He kākahu mākū me te tono kia muru te tēpu |
+| Ngā waewae e nekeneke ana, e pā ana rānei | Te waiata me te tōtō mārama hei pātete |
+| Te whakakore i ngā tarāwaho, i ngā kāpata | He kete kākahu, he kete tauera horoi hei whakapaki, hei kōmaka |
+| Te pātai anō i tētahi pātai | Te whakamarūtanga, ā, muri iho he waiata, he mahi hei tahi |
+| Te neke haere | He hīkoi tahi, he mahi e mau ana i ngā mea |
+| Te pōuri i te ahiahi | He mahi mārie, mōhio i te rama pai; tirohia [te whakapōrearea i te ahiahi](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Te whakamutu, te huri i te ara
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Whakamutua ina kitea ngā tohu o te ngenge, o te pōrearea, o te whakamā, o te pōuritanga rānei, pēnei i te whakaneke ringa, te kunenga, te panaia i ngā mea, te kī "Kāore e taea e au." Ka kī te Alzheimer's Association me whakamātau anō i tētahi wā rerekē o te rā, me whakangāwari te mahi rānei. Kaua e akiaki. Ko te whakakāhore ka ahu mai i te mataku, i te mea he uaua rawa te mahi; tirohia [ina kī kāore rātou](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+He pai te whakamutu wawe. He pai hoki te noho tahi me tētahi kapu tī. Ina rerekē haere ngā kaha, ka pai pea ngā whakaaro o [ngā mahi wāhanga whakamutunga](/activities/late-stage/), ā, he maha atu ngā mahi kei te [101 mahi](/activities/ideas/) hei whakamātau.

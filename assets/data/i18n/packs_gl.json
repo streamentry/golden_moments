@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animais",
+      "description": "Animais simpáticos e amigables de todo o mundo"
+    },
+    "nature": {
+      "name": "Natureza",
+      "description": "Paisaxes fermosas e escenas da natureza"
+    },
+    "food": {
+      "name": "Comida",
+      "description": "Pratos e doces deliciosos"
+    },
+    "vintage": {
+      "name": "Coches",
+      "description": "Coches e camións para mirar e comentar"
+    },
+    "flowers": {
+      "name": "Flores",
+      "description": "Flores fermosas e escenas de xardín"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animais da granxa",
+      "description": "Animais amigables da granxa, coma nunha visita ao campo.",
+      "theme": "Vida na granxa",
+      "images": {
+        "cow_1": "Vaca mansa",
+        "pig_1": "Porco contento",
+        "chicken_1": "Galo",
+        "buffalo_1": "Búfalo de auga",
+        "horse_1": "Cabalo fermoso",
+        "duck_1": "Familia de patos",
+        "goat_1": "Cabra curiosa",
+        "rabbit_1": "Coello simpático"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vistas de montaña",
+      "description": "Paisaxes de montaña impresionantes e miradoiros fermosos",
+      "theme": "Beleza natural",
+      "images": {
+        "mountain_1": "Cumes nevados",
+        "mountain_2": "Monte Fuji",
+        "mountain_3": "Val alpino",
+        "mountain_4": "Cume rochoso",
+        "mountain_5": "Outeiros con bosque",
+        "mountain_6": "Montañas na néboa"
+      }
+    },
+    "vintage_cars": {
+      "title": "Coches e camións",
+      "description": "Coches e camións brillantes para mirar e comentar",
+      "theme": "Na estrada",
+      "images": {
+        "vintage_car_1": "Audi laranxa ao solpor",
+        "vintage_car_2": "Coche deportivo azul no deserto",
+        "vintage_car_3": "Bugatti prateado",
+        "vintage_car_4": "Porsche negro na estrada",
+        "vintage_car_5": "BMW laranxa nunha rúa con palmeiras",
+        "vintage_car_6": "Cupé azul xunto a un garaxe",
+        "vintage_car_7": "Camioneta verde",
+        "vintage_car_8": "Todoterreo branco entre rochas vermellas",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Coche azul con raias brancas"
+      }
+    },
+    "animals_safari": {
+      "title": "Animais de safari",
+      "description": "Animais maxestosos dos safaris africanos",
+      "theme": "Vida salvaxe",
+      "images": {
+        "lion_1": "León maxestoso",
+        "elephant_2": "Elefante africano",
+        "jaguar_3": "Xaguar",
+        "zebra_4": "Cebra con raias",
+        "rhino_5": "Rinoceronte poderoso",
+        "cheetah_6": "Guepardo veloz",
+        "fox_7": "Raposo marrón",
+        "bear_8": "Oso polar",
+        "turtle_9": "Tartaruga marrón",
+        "squirrel_10": "Esquío marrón",
+        "macaw_11": "Guacamaio amarelo e azul",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Mapache",
+        "wolf_14": "Lobo gris",
+        "crocodile_15": "Crocodilo",
+        "peacock_16": "Pavo real fermoso"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Sobremesas deliciosas",
+      "description": "Algunhas sobremesas deliciosas para as túas comidas.",
+      "theme": "Sobremesas doces",
+      "images": {
+        "pastries_1": "Catro pastas",
+        "oreo_cookie_sandwiches_2": "Bolachas Oreo recheas",
+        "crepe_3": "Crepe",
+        "pancake_4": "Tortita",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Torta de caramelo"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flores tropicais",
+      "description": "Descubre a beleza vibrante dos trópicos con este paquete de flores exóticas.",
+      "theme": "Flores tropicais",
+      "images": {
+        "hibiscus_1": "Hibisco vermello",
+        "frangipani_2": "Frangipani vermello e branco",
+        "sunflower_3": "Xirasol",
+        "hydrangea_4": "Hortensia branca",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Crisantemo",
+        "anthurium_7": "Antúrio",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinio"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Festa da comida de rúa",
+      "description": "Explora o mundo colorido da comida de rúa con este paquete de petiscos deliciosos de todo o mundo.",
+      "theme": "Comida de rúa",
+      "images": {
+        "taco_1": "Taco mexicano",
+        "ramen_2": "Ramen xaponés",
+        "dumplings_3": "Empanadillas chinesas",
+        "samosa_4": "Samosa india",
+        "pizza_5": "Porción de pizza italiana",
+        "crepe_6": "Crepe francés",
+        "satay_7": "Espetos de satay tailandeses",
+        "burger_8": "Hamburguesa americana",
+        "bao_9": "Bao ao vapor",
+        "takoyaki_10": "Takoyaki xaponés"
+      }
+    },
+    "nature_landscape": {
+      "title": "Paisaxe natural",
+      "description": "Escenas da natureza tranquilas e fermosas para mirar con calma e comentar xuntos.",
+      "theme": "Paisaxes naturais",
+      "images": {
+        "mountain_1": "Cordilleira",
+        "forest_2": "Bosque con néboa",
+        "lake_3": "Lago de montaña",
+        "desert_4": "Dunas do deserto",
+        "waterfall_5": "Fervenza",
+        "beach_6": "Praia de area",
+        "river_7": "Río que flúe",
+        "canyon_8": "Gran Canón",
+        "sunset_9": "Ceo ao solpor",
+        "snow_mountain_10": "Montaña nevada",
+        "flowers_11": "Flores silvestres",
+        "rainforest_12": "Selva tropical",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volcán",
+        "cliff_15": "Cantil mariño",
+        "aurora_16": "Aurora boreal",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Arrecife de coral"
+      }
+    }
+  }
+}

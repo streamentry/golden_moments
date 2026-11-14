@@ -1,31 +1,31 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Pagkawala ng Pandinig at Panganib ng Dementia: Ano ang Ipinakita ng Pananaliksik"
+seoTitle: "Pagkawala ng Pandinig at Dementia: Ano ang Ipinakita ng Pananaliksik"
+description: "Bakit pangunahing salik ng panganib sa dementia ang pagkawala ng pandinig, ano talaga ang natuklasan ng ACHIEVE na pagsubok sa hearing aid, at paano magpasuri ng pandinig."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Pinangalanan ng 2024 Lancet Commission ang pagkawala ng pandinig bilang isa sa pinakamalaking nababagong salik ng panganib sa
+  dementia. Sa pagsubok na ACHIEVE, hindi bumagal sa kabuuan ang paghina ng pag-iisip sa tulong ng hearing aid, pero mas kaunti ang
+  paghina sa mas mataas ang panganib na pangkat. Nakatutulong ang hearing aid sa usapan at araw-araw na buhay sa alinmang kaso.
+  Magpasuri ng pandinig, pag-isipan ang reseta o walang reseta na hearing aid, at kumonsulta sa doktor.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Tinatantiya ng Lancet Commission na ang pagkawala ng pandinig ay may kinalaman sa humigit-kumulang 7% ng dementia sa buong mundo, magkatabla sa pinakamalaking bahagi sa 14 na salik."
+  - "Sa pagsubok na ACHIEVE sa 977 matatanda, hindi nagbago sa kabuuan ang paghina ng pag-iisip sa loob ng tatlong taon dahil sa hearing aid."
+  - "Sa mas maliit at mas mataas ang panganib na pangkat sa loob ng ACHIEVE, 48% na mas mabagal ang paghina ng pag-iisip sa may hearing aid; kailangan pa itong kumpirmahin."
+  - "Mula Oktubre 2022, puwedeng bumili ang mga adultong Amerikano na may tingin na banayad hanggang katamtamang pagkawala ng pandinig ng FDA-regulated na hearing aid nang walang reseta."
+  - "Idinagdag noong 2024 ang hindi nagagamot na pagkawala ng paningin bilang salik ng panganib sa dementia, kaya mahalaga rin ang pagsusuri ng mata."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Napipigilan ba ng hearing aid ang dementia?"
+    a: "Hindi pa ito napapatunayan. Ayon sa pagsubok na ACHIEVE, walang kabuuang epekto sa paghina ng pag-iisip sa loob ng tatlong taon, bagaman mas mabuti ang isang pangkat na mas mataas ang panganib. Nagkakahalaga pa ring pag-isipan ang hearing aid dahil mas madali nitong gawing komportable ang usapan, kaligtasan at araw-araw na buhay."
+  - q: "Sino ang puwedeng bumili ng walang reseta na hearing aid?"
+    a: "Pinapayagan ng FDA ang mga adultong 18 pataas na may tingin na banayad hanggang katamtamang pagkawala ng pandinig na bumili ng OTC na hearing aid sa tindahan o online nang walang reseta. Hindi ito para sa malubhang pagkawala ng pandinig. Ang sinumang may sakit sa tainga, lumalabas na likido sa tainga, pagkahilo o biglaang pagbabago sa pandinig ay dapat munang magpatingin sa doktor."
+  - q: "Puwede bang magmukhang dementia ang pagkawala ng pandinig?"
+    a: "Minsan. Sinasabi ng National Institute on Aging na ang mga matandang hindi makarinig nang maayos ay minsang mali ang pagkakaunawa na nalilito o ayaw makipagtulungan. Magandang unang hakbang ang pagpapasuri ng pandinig kapag tila lumalayo ang tao o hindi nakukuha ang sinasabi."
+  - q: "Gaano kadalas dapat ipasuri ng matatanda ang mata nila?"
+    a: "Iminumungkahi ng National Institute on Aging ang pagsusuri ng mata na may patak para lumaki ang pupil kada taon o bawat dalawang taon pagkatapos ng edad 60, o ayon sa rekomendasyon ng espesyalista sa mata. Karaniwang kailangan ito kahit kada taon ng mga taong may diabetes o mataas na presyon ng dugo."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +50,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Karaniwan ang pagkawala ng pandinig sa pagtanda, at sineseryoso ito ng mga mananaliksik bilang salik ng panganib sa dementia. Hindi ibig sabihin nito na napatunayang paraan ang hearing aid para maiwasan ang dementia; halo-halo ang resulta ng pinakamahusay na pagsubok hanggang ngayon. Ipinaliliwanag ng pahinang ito ang ipinakita ng pananaliksik, paano magpasuri ng pandinig, ano ang mga walang reseta na hearing aid sa US, at paano gagawing mas madali ang usapan.
 
-## Why does hearing matter for brain health?
+## Bakit mahalaga ang pandinig sa kalusugan ng utak?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Iniuugnay ang pagkawala ng pandinig sa mas mataas na panganib ng dementia. Tinatantiya ng [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) na may kinalaman ito sa humigit-kumulang 7% ng dementia sa buong mundo. Dahil dito, magkatabla ito sa pinakamalaking bahagi, kasama ang mataas na LDL cholesterol, sa 14 na nababagong salik ng panganib sa modelo ng Commission, ayon sa [buod ng UCL sa ulat](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Mga pangunahing natuklasan ng Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Mas mataas na panganib kapag may pagkawala ng pandinig.** Sa pinagsamang pagsusuri nito sa anim na de-kalidad na pag-aaral, ang mga taong may pagkawala ng pandinig ay may humigit-kumulang 37% na mas mataas na panganib ng dementia kaysa sa mga taong normal ang pandinig.
+- **Mas malubha, mas malaking panganib.** Ipinakita ng mga pag-aaral na tumataas ang panganib habang lumalala ang pandinig.
+- **Posibleng dahilan, hindi pa napapatunayan.** Kabilang sa mga ideya ang kalungkutan at paglayo, depresyon, kakaunting pagpapasigla sa utak, at dagdag na pagod sa isip sa pakikinig.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Karaniwan ang pagkawala ng pandinig. Sinasabi ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) na humigit-kumulang isa sa tatlong matanda ang may ganito, at tumataas ang tsansa habang tumatanda.
 
-## What did the ACHIEVE hearing aid trial find?
+## Ano ang natuklasan ng pagsubok na ACHIEVE sa hearing aid?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+Ang ACHIEVE ang unang randomisadong pagsubok ng hearing aid at paghina ng pag-iisip. Madalas mali ang pagkakaulat sa mga resulta nito, kaya narito ang mga detalye mula sa [inilathalang ulat ng pagsubok](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Sino ang lumahok:** 977 adultong edad 70 hanggang 84 na may hindi nagagamot na pagkawala ng pandinig at walang malubhang problema sa pag-iisip, sa apat na lugar ng komunidad sa US.
+- **Ano ang inihambing:** Kalahati ay nakatanggap ng hearing aid kasama ang mga sesyon ng payo ng isang audiologist. Ang kabilang kalahati ay nakatanggap ng programa ng edukasyon sa kalusugan tungkol sa malusog na pagtanda.
+- **Pangunahing resulta:** Pagkalipas ng tatlong taon, **walang pagkakaiba** sa paghina ng pag-iisip ng dalawang grupo sa kabuuan.
+- **Resulta ng bahaging pangkat:** Dalawang pinagmulan ang kinuhaan ng mga kalahok sa pagsubok. 238 katao ang galing sa pangmatagalang pag-aaral sa kalusugan ng puso (ARIC), at bilang isang pangkat ay mas mataas ang panganib nila ng paghina ng pag-iisip. Sa pangkat na ito, **48% na mas mabagal** ang paghina ng pag-iisip sa may hearing aid. Sa 739 malulusog na boluntaryo sa komunidad, walang malinaw na epekto.
 
-How to read this honestly:
+Paano basahin ito nang tapat:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ang kabuuang sagot ay walang epekto.
+- Binalak nang maaga ang natuklasan sa bahaging pangkat, pero galing ito sa pangalawang pagsusuri ng mas maliit na grupo. Kailangan itong kumpirmahin sa ibang pag-aaral.
+- Alam ng mga kalahok kung aling programa ang kanilang kinabibilangan, na maaaring makaapekto sa resulta.
+- Binabasa ng Lancet Commission ang ebidensya na tila lalo na nakatutulong ang hearing aid sa mga taong may pagkawala ng pandinig at iba pang salik ng panganib sa dementia.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Ang pinakamahalagang punto ay hindi napatunayang paraan ang hearing aid para maiwasan ang dementia. Nakatutulong ang mga ito para makarinig ang tao, makilahok sa usapan at manatiling konektado, at sapat na iyon para isaalang-alang ang mga ito.
 
-## How do I know if hearing should be checked?
+## Paano ko malalaman kung dapat ipasuri ang pandinig?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Iminumungkahi ng NIA na magpatingin sa doktor kung ikaw o ang inaalagaan mo ay:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Nahihirapang unawain ang mga tao sa telepono
+- Nahihirapang sundan ang usapan kapag dalawa o higit pang tao ang nag-uusap
+- Madalas humihiling sa mga tao na ulitin ang sinabi nila
+- Nilalakasan ang TV nang sobra kaya nagrereklamo ang iba
+- Nahihirapang unawain ang pananalita kapag may ingay sa paligid
+- Akala ay bumubulong ang ibang tao
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Magsimula sa pangunahing doktor, na maaaring magreperal sa iyo sa audiologist (espesyalista sa pandinig) o sa doktor ng tainga, ilong at lalamunan. Isa sa karaniwang sanhi ng pagkawala ng pandinig ang dumi o kerum sa tenga, na maaaring suriin ng doktor. **Ang biglaang pagkawala ng pandinig ay medikal na emergency**, at iminumungkahi ng NIA na magpatingin agad sa doktor.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Maaaring mapagkamalang pagkalito ang pagkawala ng pandinig. Sinasabi ng NIA na ang mga matandang hindi makarinig nang maayos ay minsang mali ang pagkakaunawa na nalilito, hindi tumutugon o ayaw makipagtulungan. Kung tila lumalayo ang mahal mo sa buhay o hindi niya nakukuha ang sinasabi, magandang maagang hakbang ang pagpapasuri ng pandinig.
 
-## What are over-the-counter hearing aids?
+## Ano ang mga walang reseta na hearing aid?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Mula Oktubre 17, 2022, pinahintulutan ng [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ang isang kategorya ng walang reseta (OTC) na hearing aid. Ganito ang pagkakaiba nila sa hearing aid na may reseta:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Katangian | Walang reseta na hearing aid | Hearing aid na may reseta |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Para kanino | Mga adultong 18 pataas na may tingin na banayad hanggang katamtamang pagkawala ng pandinig | Anumang antas ng pagkawala ng pandinig, anumang edad |
+| Saan kukuha | Sa tindahan o online, walang kailangang pagsusuri o reseta | Sa pamamagitan ng lisensyadong propesyonal sa pandinig |
+| Pag-aayos | Ikaw mismo ang nag-aayos ng mga setting, madalas gamit ang app | Pinapaayos ito ng propesyonal para sa iyong pandinig |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+Sinasabi ng FDA na hindi para sa malubha o matinding pagkawala ng pandinig ang OTC na hearing aid. Pinapayuhan nitong magpatingin sa doktor, mas mabuti sa espesyalista sa tainga, ilong at lalamunan, bago bumili kung mayroon ka ng alinman sa mga sumusunod:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Sakit o hindi komportable sa tenga
+- Likido, nana o dugo mula sa tenga sa nakaraang anim na buwan
+- Biglaan o paiba-iba ang pagbabago sa pandinig
+- Mas mahina ang pandinig sa isang tenga, o tunog na umuugong sa isang tenga lang
+- Pagkahilo o vertigo
+- Maraming dumi o kerum sa tenga
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Kailangan ng pagsasanay para masanay sa hearing aid, kaya tingnan ang patakaran sa pagbabalik bago bumili, gaya ng iminumungkahi ng FDA. Iminumungkahi ng NIA na itanong kung sasagutin ng iyong insurance ang bahagi ng gastos. Para sa taong may dementia, makatutulong ang audiologist sa pagpapasya kung aling uri ng aid at pag-aayos ang pinakamadaling gamitin araw-araw.
 
-## How can I talk more easily with someone who has hearing loss?
+## Paano ako mas madaling makikipag-usap sa taong may pagkawala ng pandinig?
 
-The NIA suggests:
+Iminumungkahi ng NIA ang:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Humarap sa tao at panatilihin ang tingin sa mata**, sa maliwanag na lugar, para makita niya ang labi at ekspresyon mo.
+2. **Maghanap ng tahimik na lugar.** Patayin ang TV o lumayo sa ingay.
+3. **Magsalita nang bahagyang mas malakas, pero huwag sumigaw.** Magsalita nang natural at sa maayos na bilis.
+4. **Panatilihing malinaw ang bibig.** Huwag kumain, ngumuya ng chewing gum o takpan ang bibig habang nagsasalita.
+5. **Ibahin ang pagkakasabi sa halip na ulitin** kapag may hindi nakuha.
+6. **Isa-isang tao lang.** Sa grupo, sadyang isama ang taong may pagkawala ng pandinig.
+7. **Maging mapagpasensya at itanong kung paano ka makatutulong.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Mainam ang mga tip na ito kasabay ng aming [mga tip sa komunikasyon sa dementia](/caregiving/communication-tips/). Nakatutulong din ang mga aktibidad na batay sa larawan para hindi lang sa pandinig umasa. Ang [Pares ng Larawan](/games/picture-pairs/) at [Mga Kard para sa Usapan](/games/conversation-cards/) ay nakabatay sa nakikita, at ang [Tapusin ang Kasabihan](/games/finish-the-saying/) ay nagpapakita ng dulo sa halip na sinasabi ito. Para sa mga tawag, tingnan ang aming gabay tungkol sa [mga tawag sa telepono at video](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Mahalaga rin ang paningin
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Noong 2024, idinagdag ng Lancet Commission ang hindi nagagamot na pagkawala ng paningin bilang bagong salik ng panganib. Ayon sa buod ng UCL, humigit-kumulang 2% ito ng mga kaso ng dementia, at inirerekomenda ng Commission na maging available sa lahat ang screening at paggamot para sa mga problema sa paningin. Iminumungkahi ng [NIA](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ang pagsusuri ng mata na may patak para lumaki ang pupil kada taon o bawat dalawang taon pagkatapos ng edad 60, at pagsusuri rin ng reseta ng salamin. Kahit maliliit na pagbabago sa paningin ay maaaring magpataas ng panganib ng pagkahulog.
 
-## Talk with a doctor
+## Kumonsulta sa doktor
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Magtanong sa doktor tungkol sa pagsusuri ng pandinig at paningin kung napansin mo ang alinman sa mga senyales sa itaas. Humingi agad ng pangangalaga para sa biglaang pagkawala ng pandinig, sakit sa tenga, o likidong lumalabas sa tenga. Kung nag-aalaga ka ng taong may dementia, sabihin sa doktor nila ang anumang pagbabago sa pandinig o paningin, dahil maaari itong makaapekto sa mood, kaligtasan at kung gaano kaayos makasali ang tao.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Pangkalahatang impormasyon lamang ang pahinang ito, hindi medikal na payo. Tingnan ang aming [medical disclaimer](/medical-disclaimer/). Basahin pa ang tungkol sa [pakikipag-ugnayan sa kapwa at kalusugan ng utak](/brain-health/social-connection/).

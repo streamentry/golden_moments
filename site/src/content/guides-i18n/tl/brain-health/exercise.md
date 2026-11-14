@@ -1,32 +1,31 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Ehersisyo at Kalusugan ng Utak: Ano ang Iniuugnay ng Pananaliksik at Paano Gumalaw nang Ligtas"
+seoTitle: "Ehersisyo at Dementia: Ano ang Sinasabi ng Pananaliksik"
+description: "Iniuugnay ng pananaliksik ang aktibong pamumuhay sa mas mababang panganib ng dementia, at narito ang ligtas at masayang paraan ng paggalaw."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Iniuugnay ng mga pag-aaral ang regular na pisikal na aktibidad sa mas mababang panganib ng dementia, at inilista ng 2024 Lancet
+  Commission ang kawalan ng aktibidad bilang isa sa 14 na nababagong salik ng panganib. Hindi pa napatunayan ng mga pagsubok na
+  napipigilan ng ehersisyo ang dementia. Nakatutulong pa rin ang paggalaw sa lakas, balanse, mood at tulog, kaya sulit gawin ang
+  paglalakad, ehersisyong nakaupo at pagsasayaw para sa mismong benepisyo nito. Kumonsulta muna sa doktor bago magsimula ng bagong gawain.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Ang mga aktibong tao ay may mas mababang panganib ng dementia sa karaniwan, pero ito ay pangunahing galing sa mga obserbasyonal na pag-aaral, hindi sa mga pagsubok."
+  - "Sa limang taong pagsubok ng ehersisyo sa matatanda, walang malinaw na pagkakaiba sa kakayahan sa pag-iisip ng mga grupo."
+  - "Ang gabay ng CDC para sa edad 65 pataas ay sumasaklaw sa aerobic, pagpapalakas ng kalamnan at balanse, at sinasabing mas mabuti ang kaunting aktibidad kaysa wala."
+  - "Para sa taong may dementia, mas mahalaga ang maikli, pamilyar at sabayang paggalaw, tulad ng araw-araw na lakad o larong nakaupo, kaysa anumang target."
+  - "Higit sa isa sa apat na matanda ang nahuhulog bawat taon, kaya ang gawaing pambalanse at ligtas na lugar ang dapat unahin."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Mapipigilan ba ng ehersisyo ang dementia?"
+    a: "Walang makapangangako niyan. Maraming pag-aaral ang nag-uugnay ng pagiging aktibo sa mas mababang panganib ng dementia, pero hindi pa ipinakita ng mga klinikal na pagsubok na napipigilan ito ng ehersisyo. Maraming iba pang napatunayang benepisyo ang ehersisyo, kaya sulit pa rin itong gawin."
+  - q: "Ligtas ba para sa taong may dementia ang mag-ehersisyo?"
+    a: "Kadalasan oo, pero may kaunting pagpaplano. Iminumungkahi ng National Institute on Aging na kumonsulta muna sa doktor ng tao bago magsimula ng bagong routine, pumili ng komportableng sapatos, mag-alok ng tubig, at panatilihing maikli ang mga sesyon. Huminto kung mukhang pagod, hindi matatag ang lakad o hindi masaya ang tao."
+  - q: "Anong ehersisyo ang puwedeng gawin nang nakaupo?"
+    a: "Kabilang sa mga pagpipiliang nakaupo ang pag-uunat sa upuan o chair yoga, paghagis at pagsalo ng lobo o malambot na bola, paghagis ng supot na may butil, pagbuhat ng lata ng sopas, mga banda para sa pag-uunat, at pedal na pampaehersisyo. Mabuting pagpipilian ang mga ito kapag mahirap maglakad."
+  - q: "Paano kung ayaw gumalaw ng tao?"
+    a: "Huwag pilitin. Subukan ulit mamaya, sumali ka mismo, magdagdag ng pamilyar na musika, o gawing gawain ang paggalaw, tulad ng pagwawalis o pagdidilig ng halaman. Bilang na rin ang maikling lakad papunta sa kahon ng koreo, at bilang din ang pag-upo sa labas nang magkasama."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +50,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Isa ang pagiging aktibo sa pinakamaraming pinag-aralang gawi sa kalusugan ng utak. Iniuugnay ito ng mga pag-aaral sa mas mababang panganib ng dementia, pero hindi pa napatunayang napipigilan ng ehersisyo ang dementia. Malinaw naman na nakatutulong ang paggalaw sa lakas, balanse, mood at tulog sa anumang edad. Tinatalakay ng pahinang ito kung ano ang sinasabi ng pananaliksik, ilang aktibidad ang inirerekomenda sa matatanda, at mga banayad na paraan ng paggalaw kasama ang taong may dementia.
 
-## Does exercise lower the risk of dementia?
+## Nakababawas ba ng panganib ng dementia ang ehersisyo?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Iminumungkahi ng pananaliksik na mas bihirang magkaroon ng dementia ang mga taong aktibo sa katawan, pero may limitasyon ang ebidensya. Inilista ng [2024 Lancet Commission tungkol sa dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) ang kawalan ng pisikal na aktibidad bilang isa sa 14 na nababagong salik ng panganib. Sama-sama, ang 14 na salik na ito ay bumubuo ng humigit-kumulang 45% ng dementia sa buong mundo ayon sa kanilang modelo.
 
-Here is what the evidence looks like:
+Ganito ang itsura ng ebidensya:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Iisa ang direksyon ng mga obserbasyonal na pag-aaral.** Isang pagsusuri ng 58 pag-aaral, na tinalakay ng Commission, ang nakitang ang mga aktibong tao ay may humigit-kumulang 20% na mas mababang panganib ng dementia. Pinakamalaki ang pagkakaiba sa pagitan ng mga halos walang ginagawa at ng mga gumagawa man lang ng kaunting aktibidad.
+- **Maaaring dalawang direksyon ang ugnayan.** Sinasabi ng Commission na maaaring tumaas ang panganib ng taong hindi aktibo. Sinasabi rin nito na ang mga maagang pagbabago sa utak ng dementia, na nagsisimula ilang taon bago ang diagnosis, ay maaaring magpababa ng aktibidad ng tao.
+- **Mas malabo ang mga pagsubok.** Sa isang pagsubok, 945 matatandang may karaniwang edad na 78 ang itinalaga sa limang taong sinusubaybayang ehersisyo na dalawang beses kada linggo, o sa isang grupong paghahambing. Sa dulo, hindi malinaw na nagkaiba ang kakayahan sa pag-iisip ng mga grupo. Marami sa grupong paghahambing ang aktibo rin, kaya mas mahirap basahin ang resulta.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+Malinaw ang sinasabi ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know). Wala pang malinaw na ugnayan sa pagitan ng pisikal na aktibidad at pag-iwas sa Alzheimer's na naipakita, at kulang ang ebidensya mula sa mga pagsubok para sabihing napipigilan o nababagalan ito ng ehersisyo. Nakababawas pa rin ang ehersisyo sa panganib ng pagkahulog, depresyon, diabetes, mataas na presyon ng dugo at stroke. Ang ilan sa mga kondisyong iyon ay mismong may kaugnayan sa pagbaba ng kakayahan sa pag-iisip.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Ang tapat na aral: gumalaw dahil nakatutulong ito para maramdaman at gumana nang mas maayos ka ngayon. Ang posibleng benepisyo sa utak ay dagdag na maaaring mangyari, hindi pangako.
 
-## How much activity do older adults need?
+## Ilang aktibidad ang kailangan ng matatanda?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+Iminumungkahi ng [gabay ng CDC para sa edad 65 pataas](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ang tatlong uri ng aktibidad kada linggo:
 
-| Type | Weekly amount | Examples |
+| Uri | Dami kada linggo | Mga halimbawa |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobic | Hindi bababa sa 150 minuto ng katamtamang aktibidad, gaya ng 30 minuto sa loob ng 5 araw | Mabilis na paglalakad, pagsasayaw, water aerobics |
+| Pagpapalakas ng kalamnan | Hindi bababa sa 2 araw, kasama ang lahat ng pangunahing grupo ng kalamnan | Pagbuhat ng magaan na timbang o lata ng sopas, mga banda para sa pag-uunat |
+| Balanse | Palagi | Paglalakad nang sakong hanggang daliri ng paa, pagtayo mula sa upuan |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Mga layunin ang mga ito, hindi kinakailangang abutin bago pumasok. Sinasabi ng CDC na kung hindi mo kayang abutin ang mga ito, maging aktibo ayon sa kakayahan at kalusugan mo. Mas mabuti ang kaunting aktibidad kaysa wala.
 
-## Gentle ways to move for older adults
+## Mga banayad na paraan ng paggalaw para sa matatanda
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Maglakad kasama ang iba.** Ang araw-araw na lakad kasama ang kaibigan, kapitbahay o grupo ng naglalakad ay nagdaragdag ng usapan at kaligtasan.
+- **Ehersisyong nakaupo.** Pagtaas ng braso habang nakaupo, pag-ikot ng bukung-bukong, pagmamartsa sa kinatatayuan at chair yoga ay nagpapalakas nang walang panganib sa balanse.
+- **Sumayaw sa kusina.** Patugtugin ang musikang kinagigiliwan ng tao noong kabataan niya at umindak, pumalakpak o humakbang. May mga ideya ang aming [gabay sa mga aktibidad sa musika](/activities/music/).
+- **Lakas gamit ang gamit sa bahay.** Magbuhat ng punong bote ng tubig o lata ng sopas habang nanonood ng paboritong palabas.
+- **Magdilig o gumawa ng gawaing bahay.** Ang pagdidilig ng halaman, pagkakalaykay, pagwawalis at pagtutupi ng labada ay bilang na rin. Tingnan ang [mga aktibidad sa hardin at labas](/activities/outdoor-and-gardening/) at [mga gawaing bahay](/activities/household-tasks/).
+- **Ehersisyo sa tubig.** Nakalista ng NIA ang mga klase ng water aerobics bilang isa sa mga pagpipilian para sa taong nahihirapan sa ehersisyo sa lupa dahil mahirap ito sa kanilang kasu-kasuan.
 
-## How to exercise with someone living with dementia
+## Paano mag-ehersisyo kasama ang taong may dementia
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Para sa taong may dementia, ang layunin ay ginhawa, saya at pagpapanatili ng mga kakayahan sa araw-araw, hindi pag-abot sa isang bilang. Sinasabi ng NIA na nakatutulong ang pisikal na aktibidad para mapanatiling malusog ang kalamnan, kasu-kasuan at puso ng taong may Alzheimer's, at mapabuti rin ang mood at tulog. Kumonsulta muna sa doktor niya bago magsimula ng bagong routine. Kabilang sa mga tip mula sa [gabay ng NIA para sa tagapag-alaga](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ang:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Maglakad nang magkasama araw-araw.** Pumili ng ligtas at pamilyar na daan na walang sagabal. Kung mag-isang naglalakad ang tao, magandang ideya ang ID bracelet na may numero ng iyong telepono.
+2. **Subukan ang mga video ng ehersisyo para sa matatanda.** Sundan ito nang magkasama, nakaupo man o nakatayo.
+3. **Panatilihing maikli ang mga sesyon.** Maaaring mas mabuti ang ilang maiikling "mini-workout" kaysa isang mahaba.
+4. **Magdagdag ng musika.** Ginagawang aktibidad ang paggalaw ng mga pamilyar na awitin, hindi gawain. Sumayaw kung gusto ng tao.
+5. **Mag-alok ng tubig at komportableng sapatos.** Mag-alok ng tubig o juice habang at pagkatapos, at pumili ng komportableng damit at sapatos na angkop para sa ehersisyo.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Kung mahirap ang paglalakad, iminumungkahi ng [gabay ng NIA sa pag-aalaga sa taong may Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ang mga pagpipiliang nakaupo. Kabilang dito ang chair exercise o yoga, paghagis ng supot na may butil, paghagis ng malambot na bola o lobo, mga banda para sa pag-uunat, pagbuhat ng magagaang gamit sa bahay, at pedal na pampaehersisyo. Binibilang din ang mga simpleng gawain tulad ng pagwawalis at pag-aalikabok.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Maging makatotohanan sa kaya ng paggalaw. Walang nakitang ebidensya ang Lancet Commission na nababawasan ng ehersisyo ang mga pagbabago sa asal gaya ng pagkabalisa. Gumalaw nang magkasama dahil maaaring maging maganda ang pakiramdam nito, hindi bilang paraan para ayusin ang mahirap na hapon. Kung sumagot ng hindi ang tao, ayos lang iyon. Nakatutulong ang aming gabay tungkol sa [kapag tumatanggi sila](/caregiving/when-they-say-no/) ng mga banayad na paraan para subukan ulit mamaya. Ang maagang pagtigil, o pag-upo lang sa labas nang magkasama, ay magandang resulta rin.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Pagkatapos gumalaw, makatutulong ang tahimik na pahinga tulad ng [Mahinahong Paghinga](/games/calm-breathing/) para kumalma kayong dalawa. Para sa gawaing nakaupo na may banayad na galaw ng braso, bagay sa mesa ang [Pag-uri-uriin nang Magkasama](/games/sort-together/) at ang [Bingo ng Larawan](/games/picture-bingo/).
 
-## Balance and fall safety
+## Balanse at kaligtasan sa pagkahulog
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Karaniwan at seryoso ang pagkahulog. Ayon sa [ulat ng CDC](https://www.cdc.gov/falls/data-research/facts-stats/index.html), higit sa isa sa apat na matanda ang nahuhulog bawat taon, pero wala pang kalahati ang nagsasabi sa doktor nila. Ang isang pagkahulog ay nagpapadoble ng tsansang mahulog muli. Kabilang sa mga salik ng panganib na nakalista ng CDC ang:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Kahinaan ng binti at balakang
+- Hirap sa paglalakad at balanse
+- Ilang gamot, kabilang ang pampakalma at ilang antidepressant
+- Problema sa paningin
+- Sakit sa paa o hindi angkop na sapatos
+- Mga panganib sa bahay, tulad ng kalat, banig na madulas at sirang baitang
 
-To move more safely:
+Para gumalaw nang mas ligtas:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Gumamit ng matibay na upuan** na walang gulong, at maglagay ng mesa o riles na abot-kamay para sa mga ehersisyong nakatayo.
+- **Linisin muna ang espasyo** ng banig, kable at kalat.
+- **Dahan-dahan sa pagtayo**, at huminto kung nahihilo o hindi matatag ang tao.
+- **Magsuot ng suportadong sapatos**, hindi medyas o maluwag na tsinelas.
+- **Magsanay ng balanse malapit sa suporta.** Ang pagtayo mula sa upuan at paglalakad nang sakong hanggang daliri ng paa ay mga halimbawa ng CDC ng gawaing pambalanse.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+Sinasabi ng CDC na dapat agad magpatingin sa doktor ang matandang nahulog at tumama ang ulo, lalo na kung umiinom siya ng pampanipis ng dugo.
 
-## Talk with a doctor
+## Kumonsulta sa doktor
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Kumonsulta sa doktor bago magsimula ng bagong routine sa ehersisyo, lalo na kung may problema sa puso o baga, sakit sa kasu-kasuan, problema sa balanse, o dementia. Makatutulong ang doktor o physical therapist sa pagmumungkahi ng ligtas na aktibidad at pagsusuri kung nakaaapekto ang mga gamot sa balanse. Sabihin sa doktor ang anumang pagkahulog, kahit walang sugat. Kung may masakit o parang mali habang nag-eehersisyo, huminto. Para sa biglaang pananakit ng dibdib, hirap sa paghinga, o biglaang pagkalito, tumawag sa lokal na numero ng emergency.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Pangkalahatang impormasyon lamang ang pahinang ito, hindi medikal na payo. Tingnan ang aming [medical disclaimer](/medical-disclaimer/). Para sa mas malawak na larawan, basahin ang [ano ang sinasabi ng pananaliksik tungkol sa mga salik ng panganib ng dementia](/brain-health/risk-factors/) at [kung maiiwasan ba ang dementia](/brain-health/can-dementia-be-prevented/).

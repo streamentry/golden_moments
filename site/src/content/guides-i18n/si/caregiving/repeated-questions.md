@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "ඩිමෙන්ශියා ඇති කෙනෙක් එකම ප්‍රශ්නය නැවත නැවතත් අසන විට"
+seoTitle: "ඩිමෙන්ශියා: නැවත නැවත ප්‍රශ්න අසන විට කුමක් කියන්නද"
+description: "ඩිමෙන්ශියා ඇති කෙනෙක් එකම ප්‍රශ්නය නැවත නැවත අසන්නේ ඇයි, සන්සුන් පිළිතුරු දීමේ ක්‍රම, පහසු මෙවලම් සහ හදිසි වෙනසකදී වෛද්‍යවරයා අවශ්‍ය වන්නේ කවදාද."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  ඩිමෙන්ශියාවේ නැවත නැවත ප්‍රශ්න අසීම සාමාන්‍ය දෙයකි: පුද්ගලයා සාමාන්‍යයෙන් ප්‍රශ්නය
+  ඇසූ බව මතක නොතබයි, සහ ප්‍රශ්නය බොහෝ විට හැඟීමක් රඳවා ගනී. සන්සුන්ව, කෙටියෙන් මුල් වරට
+  ඇසුවා සේ පිළිතුරු දෙන්න, හැඟීමට ප්‍රතිචාර දක්වන්න, සහ කවදාවත් “ඔබ දැනටමත් ඇසුවා” නොකියන්න.
+  පිළිතුර ඔවුන්ට පෙනෙන තැන ලියන්න, සිදුවීම් මොහොතකට පෙර පමණක් සඳහන් කරන්න, සහ ප්‍රියජනක
+  ක්‍රියාකාරකමක් යෝජනා කරන්න. හදිසි වෙනසකට වෛද්‍යවරයෙකු අවශ්‍යයි.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "පුද්ගලයා සාමාන්‍යයෙන් ප්‍රශ්නය ඇසූ බව මතක නොතබයි; එය හිතාමතා කරන දෙයක් නොවේ."
+  - "ප්‍රශ්නය බොහෝ විට හැඟීමක් සඟවයි, උදාහරණයක් ලෙස වෛද්‍ය හමුවක් ගැන කනස්සල්ල හෝ ආරක්ෂිත බවට ආශාව."
+  - "සන්සුන්ව, කෙටියෙන් සහ කරුණාවෙන් පිළිතුරු දෙන්න, මුල් වරට ඇසුවා සේ. කවදාවත් “ඔබ දැනටමත් ඇසුවා” නොකියන්න."
+  - "දෘශ්‍යමාන සටහනක්, ලියැවිලි පුවරුවක්, විශාල ඔරලෝසුවක් හෝ දින දර්ශනයක් ප්‍රශ්නයට ඔබ වෙනුවෙන් පිළිතුරු දිය හැකිය."
+  - "ආතතිකාරී සිදුවීම් ඒවා සිදුවීමට මොහොතකට පෙර පමණක් සඳහන් කරන්න."
+  - "ඔබට අවශ්‍ය විට කෙටි විවේකයක් ගන්න, සහ හදිසි වෙනසක් ගැන ඔවුන්ගේ වෛද්‍යවරයා සමඟ කතා කරන්න."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "ඩිමෙන්ශියා ඇති මගේ තාත්තා එකම ප්‍රශ්නය නැවත නැවත අසන්නේ ඇයි?"
+    a: "ඩිමෙන්ශියාව කෙටිකාලීන මතකයට බලපානවා, එබැවින් ඔහු ඇත්තටම ප්‍රශ්නය ඇසූ බවත් පිළිතුර ඇසූ බවත් මතක නොතිබිය හැකිය. බොහෝ විට ප්‍රශ්නයට හැඟීමක්ද ඇතුළත් වේ, උදාහරණයක් ලෙස ඊළඟට කුමක් වේදැයි ඇති කනස්සල්ල හෝ සහතිකයක අවශ්‍යතාව. ඒ හැඟීමට පිළිතුරු දීම සාමාන්‍යයෙන් කරුණු නැවත කීමට වඩා උදව් වේ."
+  - q: "ඔවුන් දැනටමත් ඇසුවා කියා ඔවුන්ට කිව යුතුද?"
+    a: "නැහැ. එයින් ඔවුන්ට මතක තබා ගැනීමට උදව් නොවන අතර, එය නිවැරදි කිරීමක් ලෙස දැනිය හැකිය. ඩිමෙන්ශියා සංවිධාන උපදෙස් දෙන්නේ සෑම වාරයකම සන්සුන්ව, මුල් වරට ඇසුවා සේ පිළිතුරු දී, පිළිතුර කෙටිව තබා ගන්නා ලෙසයි."
+  - q: "පිළිතුර ලියා තැබීම උදව් වේද?"
+    a: "පුද්ගලයාට තවමත් කියවිය හැකි කාලයේ එය උදව් විය හැකිය. සටහනක්, අද සැලැස්ම ලියන ලද ලියැවිලි පුවරුවක්, විශාල ඔරලෝසුවක් හෝ ඔවුන් බොහෝ විට බලන තැනක දින දර්ශනයක් ඔවුන්ට පිළිතුර තමන්ම පරීක්ෂා කිරීමට ඉඩ දෙයි. “මම කිව්වා නේද” කියනවාට වඩා එය මෘදුව යොමු කරන්න."
+  - q: "වෛද්‍ය හමුවීම් හෝ චාරිකා ගැන කවදා කතා කළ යුතුද?"
+    a: "ඒවාට ආසන්නයෙන්. වෛද්‍ය හමුවක් හෝ ගමනක් දින කිහිපයකට කලින් සඳහන් කිරීම පැය ගණනක කනස්සල්ලෙන් යුත් ප්‍රශ්න බවට පත් විය හැකිය. මොහොතකට පෙර සන්සුන්ව, ඊළඟට කුමක් සිදුවේදැයි එක් පියවරකින් කියන්න."
+  - q: "නැවත නැවත වීම වෛද්‍යවරයෙකු හමුවීමට හේතුවක් වන්නේ කවදාද?"
+    a: "ප්‍රශ්න, ව්‍යාකූලත්වය හෝ හැසිරීම හදිසියේ වෙනස් වුවහොත් හෝ පැය හෝ දින ගණනකින් බෙහෙවින් නරක් වුවහොත්, ඔවුන්ගේ වෛද්‍යවරයාට ඉක්මනින් කතා කරන්න. ආසාදනය, නව ඖෂධයක්, වේදනාව, මළපහ බැඳීම හෝ නිර්ජලීකරණය හදිසි ව්‍යාකූලත්වයක් (ඩෙලිරියම්) ඇති කළ හැකි අතර, එයට ඉක්මන් සත්කාර අවශ්‍යයි."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +57,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“වෛද්‍යවරයා කීයටද?” විනාඩි දහයකට පසු: “වෛද්‍යවරයා කීයට ද?” ඩිමෙන්ශියා ඇති කෙනෙකු වෙනුවෙන් සිටීමේදී එකම ප්‍රශ්නය නැවත නැවත ඇසීම වඩාත්ම වෙහෙසකර කොටසකි. එය ඉතා සුලභ වන අතර, එය හිතාමතා කරන දෙයක් නොවේ, සහ ඔබ දෙදෙනාටම දිනය පහසු කරන සන්සුන් පිළිතුරු ක්‍රම තිබේ.
 
-## Why does someone with dementia ask the same question over and over?
+## ඩිමෙන්ශියා ඇති කෙනෙක් එකම ප්‍රශ්නය නැවත නැවත අසන්නේ ඇයි?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+බොහෝ විට මතකය නිසාය. ඩිමෙන්ශියාව කෙටිකාලීන මතකයට බලපානවා, එබැවින් පුද්ගලයා බොහෝ විට ප්‍රශ්නය ඇසූ බව, හෝ පිළිතුර මතක නොතබයි. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) මෙය බොහෝ වාර ප්‍රශ්න ඇසීම සාමාන්‍ය සහ අපේක්ෂිත දෙයක් ලෙස විස්තර කරයි.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+ප්‍රශ්නය බොහෝ විට හැඟීමක්ද රැගෙන යයි. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) පෙන්වා දෙන්නේ නැවත ඇසෙන ප්‍රශ්නයක් කනස්සල්ලක්, උදව් ඉල්ලීමක් හෝ නොසන්සුන්තාව සහ අනාරක්ෂිත බව ප්‍රකාශ කළ හැකි බවත්, පුද්ගලයා බොහෝ විට සහනයක් සහ හුරුපුරුදු බවක් සොයන බවත්ය. “අපි කවදා යන්නද?” යන්නෙන් ඇත්තටම අදහස් වන්නේ “යාම ගැන මම නොසන්සුන්ය” යන්නය. කම්මැලිකම, බිය, ශබ්දය සහ චර්යාවේ වෙනස්කම් ඒවා ආරම්භ කළ හැකි අතර, නැවත ඇසෙන ප්‍රශ්නයක් වැසිකිලිය වැනි අවශ්‍යතාවයක් ද පෙන්විය හැකිය ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## මා කුමක් කිව යුතුද?
 
-Answer calmly and briefly, as if it were the first time.
+සන්සුන්ව සහ කෙටියෙන් පිළිතුරු දෙන්න, මුල් වරට ඇසුවා සේ.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **පිළිතුර කෙටි සහ එකම ලෙස තබන්න.** “වෛද්‍යවරයා සවස දෙකට. මම ඔබ සමඟ සිටිමි.” එකම පිළිතුරක් ගැනීමට පහසුය.
+- **හැඟීමට පිළිතුරු දෙන්න.** “ඔබ වෛද්‍යවරයා ගැන සිතනවා. එය අද සවසයි, මම ඔබව රියදුරු කරන්නම්. ඔබ කළ යුතු කිසිවක් නැත.”
+- **උණුසුම් හඬක් සහ මෘදු ස්පර්ශයක් භාවිතා කරන්න,** ඔවුන් ස්පර්ශය කැමති නම්. Alzheimer's Association උපදෙස් දෙන්නේ සන්සුන්ව සිටින ලෙසත්, තර්ක හෝ විවාදවලින් වළකින ලෙසත්ය.
+- **ඔවුන් සොයන පිළිතුර අවශ්‍ය ලෙස, නැවත නැවත දෙන්න.** Alzheimer's Association පවසන්නේ ඔවුන් ඇසන තරම් වාර ගණනක් එය නැවත කියන ලෙසයි.
 
-## What should I avoid?
+## මා කුමක් වළක්වා ගත යුතුද?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“ඔබ මගෙන් දැනටමත් ඒක ඇහුවා.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) උපදෙස් දෙන්නේ ඔවුන් දැන් ඇසුවා බව පෙන්වා දීමෙන් වළකින ලෙසයි. එයින් ඔවුන්ට මතක තබා ගැනීමට උදව් නොවන අතර, එය බැන වැදීමක් ලෙස දැනිය හැකිය.
+- **දිගු පැහැදිලි කිරීම්.** වැඩි වචන වැඩි අමතක වීමක් ඇති කරයි.
+- **සුසුම් හෙලීම, ඇස් පෙරළීම හෝ තියුණු ස්වරය.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ඉවසීම සහ නොරුසුවීම උපදෙස් දෙයි. එය අමාරුය; පහත ඇති විවේක ගැන කොටස බලන්න.
 
-## Simple tools that answer the question for you
+## ඔබ වෙනුවෙන් ප්‍රශ්නයට පිළිතුරු දෙන සරල මෙවලම්
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+පුද්ගලයාට තවමත් කියවිය හැකි කාලයේ, ලියා ඇති පිළිතුරක් බොහෝ විට කථා කළ පිළිතුරකට වඩා උදව් වේ.
 
-| Tool | How to use it |
+| මෙවලම | භාවිතා කරන ආකාරය |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| විශාල අකුරින් ලියූ සටහනක් | “අද වෛද්‍යවරයා, සවස 2 ට. මේරි රිය පදවයි.” ඔවුන් වැඩිපුරම බලන තැනක තබන්න |
+| ලියැවිලි පුවරුවක් | අද සැලැස්ම පේළි තුනක් හෝ හතරක්; සෑම උදෑසනකම මකා නැවත ලියන්න |
+| දිනය සහ දින දර්ශනය සහිත විශාල ඔරලෝසුවක් | “අද කුමක් ද?” සහ “වෙලාව ද?” ප්‍රශ්න වලට උදව් කරයි |
+| දින දර්ශනයක් | සෑම දිනයක්ම ඉරක් අඳින්න; ඊළඟ පැමිණීම වටකුරු කරන්න |
+| හුරුපුරුදු ඡායාරූප | ඒමට සිටින කෙනාගේ ඡායාරූපයක් “කවුද එන්නේ?” යන්නට පිළිතුරු දිය හැකිය |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+මේ අදහස් [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) සහ [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) වලින් ලැබේ. “මම ඔබ වෙනුවෙන් ලිව්වා” කියනවා වෙනුවට සටහන මෘදුව යොමු කරන්න (“අපි දෙන්නා මේ පුවරුව බලමු”).
 
-## Tell them about events close to the time
+## සිදුවීම් වේලාවට ආසන්නයේදී ඔවුන්ට කියන්න
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+දින කිහිපයකට කලින් වෛද්‍ය හමුවක් හෝ ගමනක් සඳහන් කිරීම පැය ගණනක කනස්සල්ලෙන් යුත් ප්‍රශ්න බවට පත් විය හැකිය. Family Caregiver Alliance සහ Alzheimer's Los Angeles දෙකම යෝජනා කරන්නේ, විශේෂයෙන් වෛද්‍ය හමුවීම් හෝ නෑමේ වැනි ආතතිකාරී සැලසුම් ගැන, ඒවා සිදුවීමට මොහොතකට පෙර පමණක් කතා කරන ලෙසයි. ඉන්පසු ඊළඟට කුමක් සිදුවේදැයි එක් පියවරකින් පියවර කියන්න.
 
-## Activities that can shift attention
+## අවධානය වෙනතකට යොමු කළ හැකි ක්‍රියාකාරකම්
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+ඔබ පිළිතුරු දී හැඟීම පිළිගත් පසු, සන්සුන්, ප්‍රීතිමත් ක්‍රියාකාරකමක් උදව් විය හැකිය, විශේෂයෙන් ප්‍රශ්න පිටුපස කම්මැලිකම තිබේ නම්. ඉහත සියලු මූලාශ්‍ර යෝජනා කරන්නේ පුද්ගලයා කැමති දෙයකට යොමු කරන ලෙසයි.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **එකට කෙටි, පහසු ක්‍රීඩාවක්.** [Picture pairs](/games/picture-pairs/) චිත්‍ර දර්ශනයේ තබන නිසා කිසිවක් මතක තබා ගැනීමට අවශ්‍ය නොවේ.
+2. **හුරුපුරුදු කාර්යයක්.** තුවා නැමීම, මේස් සකස් කිරීම හෝ මේස සැකසීම. [Sort together](/games/sort-together/) එහි තිර මත අනුවාදයකි.
+3. **ඔවුන් ආදරය කරන දෙයක් ගැන කතා කරන්න.** [Conversation cards](/games/conversation-cards/) නිවැරදි පිළිතුරු නොමැති විවෘත ප්‍රශ්න දෙයි.
+4. **සංගීතය, ඇවිදීම හෝ කෑමක්.** National Institute on Aging මේවා සරල ආකාරයෙන් අවධානය යොමු කිරීමේ ක්‍රම අතර ලැයිස්තුගත කරයි.
+5. **නිශ්ශබ්ද විවේකයක්.** එකට වාඩි වන්න, ජනේලයෙන් බලන්න, හෝ එකට [calm breathing](/games/calm-breathing/) මොහොතක් උත්සාහ කරන්න.
 
-If they return to the question, answer it again, kindly. That is fine.
+ඔවුන් ප්‍රශ්නයට නැවත පැමිණියොත්, කරුණාවෙන් නැවත පිළිතුරු දෙන්න. ඒක හොඳයි.
 
-## Look for patterns
+## රටා සොයන්න
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association යෝජනා කරන්නේ ප්‍රශ්න දවසේ යම් වේලාවල, යම් පුද්ගලයන් අසල හෝ යම් ස්ථානවල එන්නේද කියා බැලීමටය. අමුත්තන් පැමිණීමට පෙර හෝ සවස අවසානයේ ඒවා සෑම විටම ආරම්භ වන්නේ නම්, ඔබට කල්තියා සැලසුම් කළ හැකිය: පැමිණීම ගැන සටහනක්, හුරුපුරුදු ක්‍රියාකාරකමක් සූදානම්, නිශ්ශබ්ද කාමරයක්. සවස් වේලාව දුෂ්කරම නම්, [සවස් වේලාවේ සන්සුන් ක්‍රියාකාරකම්](/caregiving/late-day-restlessness/) ගැන අපේ මාර්ගෝපදේශය උදව් විය හැකිය.
 
-## Take care of yourself
+## ඔබම ගැන සැලකිලිමත් වන්න
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+විසිවෙනි වරට එකම ප්‍රශ්නයට පිළිතුරු දීම ඉතා වෙහෙසකරය. ඔබේ ඉවසීම අවසන් වෙමින් ඇති බව දැනුණොත්, පුද්ගලයා ආරක්ෂිතව සිටින්නේ නම්, [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) යෝජනා කරන පරිදි, වෙනත් කාමරයකට ගොස් මිනිත්තු කිහිපයක් හුස්ම ගන්න. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) රැකබලා ගන්නන්ට උදව් ඉල්ලන ලෙසත්, විවේක රැකවරණය ගැන සලකා බලන ලෙසත් දිරිමත් කරයි. තවත් අදහස් අපේ [caregiver self-care guide](/caregiving/caregiver-self-care/) හි ඇත.
 
-## When should I call a doctor?
+## වෛද්‍යවරයෙකු කවදා අමතන්නද?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+ප්‍රශ්න, ව්‍යාකූලත්වය හෝ හැසිරීම හදිසියේ වෙනස් වුවහොත් හෝ පැය හෝ දින ගණනකින් බෙහෙවින් නරක් වුවහොත්, ඔවුන්ගේ වෛද්‍යවරයාට ඉක්මනින් කතා කරන්න. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) පවසන්නේ ආසාදනයකින් හෝ ඖෂධ වෙනසකින් පසු, විශේෂයෙන් හදිසි හෝ වේගයෙන් වෙනස් වන හැසිරීම වහාම වෛද්‍යවරයාගේ අවධානයට ගෙන ඒම අවශ්‍ය බවයි. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) පැහැදිලි කරන්නේ ආසාදනය, ඖෂධ, නිර්ජලීකරණය, වේදනාව හෝ මළපහ බැඳීම ඩෙලිරියම් ඇති කළ හැකි බවත්, එය ඉක්මන් ප්‍රතිකාර අවශ්‍ය හදිසි, දැඩි ව්‍යාකූලත්වයක් බවත්ය. ඕනෑම කෙනෙක් අනතුරේ සිටියොත් ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න.

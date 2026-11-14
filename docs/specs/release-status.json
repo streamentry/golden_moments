@@ -924,6 +924,294 @@
         "reviewer": null,
         "evidence": null,
         "date": null
+      },
+      "af": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "bg": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "et": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "lt": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "lv": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "be": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "bs": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "cy": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "eo": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "eu": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "hy": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "is": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ka": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "kk": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "mk": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "sq": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "sr": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "gl": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ga": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "si": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "nn": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "no": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "lb": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "mt": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "gd": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "fy": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "km": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ky": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "tl": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ht": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ku": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "tg": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "lo": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "yi": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "la": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "oc": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "co": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "fo": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "mi": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "mg": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ug": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "sn": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "st": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ny": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "sa": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "qu": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ln": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ba": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
       }
     }
   }

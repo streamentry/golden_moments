@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Mga Aktibidad sa Pagbabalik-tanaw: Kahon ng Alaala, Kuwento ng Buhay at Larawan"
+seoTitle: "Aktibidad sa Pagbabalik-tanaw para sa Dementia: Mga Ideyang Walang Pagsusulit"
+description: "Paano magbahagi ng alaala sa taong may dementia nang walang pagsusulit, gamit ang larawan, kahon ng alaala at aklat ng kuwento ng buhay."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Ang pagbabalik-tanaw ay nangangahulugang pagsasaya sa nakaraan nang magkasama
+  sa pamamagitan ng larawan, bagay, musika at kuwento. Gumawa ng kahon ng alaala,
+  bumuo ng simpleng aklat ng kuwento ng buhay, o tingnan ang mga larawan nang
+  magkatabi. Huwag magsusulit: iwasan ang “Naaalala mo ba?” at “Sino ito?” at
+  gumamit ng bukas na paanyaya gaya ng “Sabihin mo sa akin tungkol dito.” Mas
+  mahalaga ang mainit na usapan kaysa tamang-tama ang mga detalye.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Ang pagbabalik-tanaw ay usapan, hindi pagsusulit. Hindi mahalaga ang katumpakan; ang kasiyahan ang mahalaga."
+  - "Palitan ang “Naaalala mo pa ba...?” at “Sino ito?” ng mga puna at paanyaya gaya ng “Sabihin mo sa akin ang araw na iyon.”"
+  - "Ang kahon ng alaala na may mga bagay mula sa buhay ng tao ay nagbibigay sa mga kamay at usapan ng mahahawakan."
+  - "Nakatutulong ang aklat ng kuwento ng buhay sa pamilya, bisita at staff ng pag-aalaga na makilala ang tao, hindi lang ang diagnosis."
+  - "Kung ang alaala ay nagdudulot ng lungkot, aliwin muna, at dahan-dahang lumipat sa iba."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Ano ang pagbabalik-tanaw para sa taong may dementia?"
+    a: "Ang pagbabalik-tanaw ay pagbabahagi ng alaala at nakaraang karanasan, kadalasan sa tulong ng larawan, bagay, musika o video. Maaari itong mangyari nang isa-sa-isa o sa grupo. Layunin nito ang kaaya-aya at makabuluhang usapan, hindi ang pagsubok kung ano ang naaalala ng tao."
+  - q: "Bakit hindi ko dapat itanong ang “Naaalala mo ba?”"
+    a: "Ang mga tanong na sumusubok sa alaala ay maaaring makapagpahiya o makapagpabalisa sa tao kapag hindi dumarating ang sagot. Inililista ng National Institute on Aging ang pagtatanong kung naaalala ng isang tao ang isang bagay o isang tao bilang dapat iwasan. Sa halip, magbigay ng puna sa nakikita mo, at hayaang idagdag ng tao ang anumang gusto niya."
+  - q: "Ano ang dapat kong ilagay sa kahon ng alaala?"
+    a: "Pumili ng ligtas at matitibay na bagay na may kaugnayan sa buhay ng tao: gamit sa trabaho, kagamitan sa libangan, paboritong bandana, postcard, recipe card, souvenir sa isport o kopya ng larawan. Iwasan ang matutulis na bagay, maliliit na bagay na maaaring malunok, at mga orihinal na hindi na mapapalitan."
+  - q: "Paano kung mali ang mga detalyeng sinasabi nila?"
+    a: "Hayaan na lang. Kung sabihin ng nanay ninyo na ang larawan ay nagpapakita ng kanyang kapatid na babae, gayong pinsan niya pala ito, ayos lang iyon. Ang pagtutuwid ay nagbabago sa mainit na sandali tungo sa pagsusulit. Sundan ang kuwentong sinasabi nila at magsaya nang magkasama."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Ang pagbabalik-tanaw ay simpleng pagsasaya sa nakaraan nang magkasama. Para sa maraming taong may dementia, mas malinaw pa ang mga alaala ng mga dekada na ang nakalipas kaysa sa nangyari ngayong umaga. Ang larawan, pamilyar na bagay, musika at kuwento ay maaaring magbukas ng mga alaalang iyon at magbigay ng mainit na maibabahagi. Iisang tuntunin: ito ay usapan, hindi kailanman pagsusulit.
 
-## What is reminiscence, and how is it different from quizzing?
+## Ano ang pagbabalik-tanaw, at paano ito naiiba sa pagsusulit?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Ang pagbabalik-tanaw ay pagbabahagi ng alaala sa pamamagitan ng larawan, bagay, musika o video, sa sariling bilis ng tao. Inilalarawan ito ng [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bilang pagbabahagi ng mga nakaraang karanasan at kuwento sa tulong ng larawan, bagay, video o musika, sa aklat o sa tablet. Iba ang pagsusulit: hinihingi nito sa tao na magbigay ng tamang sagot, at maaari itong magdulot ng kahihiyan sa halip na kasiyahan.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+Inililista ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ang pagtatanong sa tao kung naaalala niya ang isang bagay o isang tao bilang dapat iwasan. Iminumungkahi ng [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) na iwasan ang mga tanong na umaasa sa panandaliang alaala, at sa halip ay pag-usapan ang mas malayong nakaraan.
 
-| Instead of | Try |
+| Sa halip na | Subukan |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “Naaalala mo ba ito?” | “Mukhang masayang araw ito. Sabihin mo sa akin ang tungkol dito.” |
+| “Sino ito?” | “Ito si Tita Rose sa dalampasigan. Tingnan mo ang sombrero niya.” |
+| “Anong taon ito?” | “Mukhang ito ang lumang bahay. Ano ang buhay doon?” |
+| “Hindi, hindi si Bill iyan, si Frank iyan.” | “Mukhang napakasaya niya.” |
+| “Sinabi mo na sa akin iyan.” | “Gustung-gusto ko ang kuwentong iyon.” |
 
-## How do you talk about photos without quizzing?
+## Paano mag-usap tungkol sa larawan nang hindi nagsusulit?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Simulan sa nakikita mo, pagkatapos ay mag-iwan ng puwang para idagdag ng tao ang gusto niya kung nais niya.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Umupo nang magkatabi.** Hawakan ang album sa pagitan ninyo para magkasama kayong tumitingin, hindi nagsusulit sa magkabilang dulo ng mesa.
+2. **Pumili ng ilang larawan.** Ang limang magagandang larawan ay mas mabuti kaysa sa buong kahon. Pinakamainam ang malalaki at malinaw na kopya.
+3. **Ikaw mismo ang magpangalan sa mga tao.** “Ito kayo ni Tatay sa araw ng inyong kasal” ay nag-aalis ng pressure.
+4. **Magkomento sa mga detalye.** Damit, kotse, pagkain, panahon, mukha. “Ang ganda ng kotse. Mukhang kumikinang.”
+5. **Mag-imbita, huwag mag-utos.** “Sabihin mo sa akin ang tungkol sa...” o “Ano ang napapansin mo?” Ayos lang ang katahimikan.
+6. **Sundan ang gusto nila.** Kung ibang bagay ang pinag-uusapan nila, sumabay ka.
+7. **Tumigil habang masaya pa.** Isara ang album bago dumating ang pagod.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Para sa handang mga prompt ng larawan, subukan ang [mga conversation card](/games/conversation-cards/). Upang gawing banayad na larong pagtutugma ang sarili ninyong larawan ng pamilya, subukan ang [magkapares na larawan](/games/photo-pairs/); nananatili sa browser ninyo ang mga larawang pipiliin ninyo.
 
-## How do you make a memory box?
+## Paano gumawa ng kahon ng alaala?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Ang kahon ng alaala ay lalagyan ng mga bagay mula sa buhay ng tao na hahawakan at pag-uusapan.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Pumili ng matibay na kahon** na madaling buksan, gaya ng kahon ng sapatos, kahon ng sombrero o maliit na kahong kahoy.
+2. **Pumili ng tema o halo.** Trabaho, libangan, isang lugar, isang dekada, o kaunti sa lahat.
+3. **Mangalap ng ligtas na bagay.** Lima hanggang sampung bagay ay sapat na para magsimula.
+4. **Gumamit ng kopya ng mahahalagang bagay.** Kopyahin ang mga larawan at dokumentong hindi na mapapalitan, at itago nang ligtas ang mga orihinal.
+5. **Ilabas ang mga bagay nang isa-isa.** Ibigay ang isa, magsabi ng tungkol dito, at tingnan kung saan pupunta ang usapan.
 
-Ideas to include:
+Mga ideyang isama:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Trabaho:** badge ng pangalan, maliit na kasangkapan, patch ng uniporme, talaan, pin ng nars, aklat ng resipe mula sa kainan.
+- **Tahanan:** recipe card sa sarili nilang sulat-kamay, tuwalyang pamunas ng pinggan, paboritong bandana o kurbata.
+- **Libangan:** pain sa pangingisda na walang kawit, bola ng baseball, bola ng sinulid, sobre ng buto.
+- **Mga lugar:** postcard, mapa, souvenir ng turista, pirasong pahayagan mula sa bayang sinilangan.
+- **Pamilya:** kopya ng larawan, guhit ng bata, imbitasyon sa kasal.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Iwanan ang matutulis na bagay, maliliit na bagay na maaaring malunok, at anumang maaaring magdala ng masakit na alaala, maliban kung alam ninyong tinatanggap ito.
 
-## How do you make a life-story book?
+## Paano gumawa ng aklat ng kuwento ng buhay?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Ang aklat ng kuwento ng buhay ay simpleng album ng larawan at maikling caption tungkol sa buhay ng tao. Ito ay isang bagay na tinitingnan nang magkasama, at nakatutulong ito sa mga bisita at staff ng pag-aalaga na makita ang buong tao.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Pumili ng format.** Binder na may sheet protector, nakalimbag na photo book, o slideshow sa tablet.
+2. **Magplano ng ilang seksyon.** Pagkabata, paaralan, trabaho, pamilya, mga lugar na tinirhan, pananampalataya, libangan, paboritong pagkain at musika.
+3. **Maglagay ng isa o dalawang larawan bawat pahina** na may maikli at malalaking titik na caption: “Mary, 22 taong gulang, nagsimulang magtrabaho sa bangko.”
+4. **Isama ang mga gusto at nakagawiang gawain.** “Umiinom ng kape na may gatas. Mahilig sa mga himnong pang-Linggo. Ayaw ng malakas na TV.” Nakatutulong ito sa sinumang nag-aalaga sa kanila.
+5. **Hikayatin ang tao** hangga't gusto niya, sa pamamagitan ng pagpili ng larawan, pagkukuwento, o panonood lang habang nabubuo ito.
+6. **Patuloy na magdagdag.** Hindi kailangang tapos para maging kapaki-pakinabang.
 
-## More reminiscence ideas
+## Mas marami pang ideya sa pagbabalik-tanaw
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Patugtugin ang musika mula sa kanilang kabataan** at pag-usapan kung saan sila dinadala nito. Tingnan ang [mga aktibidad sa musika](/activities/music/).
+- **Manood ng home movie o palabas sa TV** mula sa paborito nilang mga dekada.
+- **Magluto ng putaheng noong pagkabata** at hayaang gabayan ng amoy ang usapan.
+- **Tingnan ang mapa** ng bayang sinilangan nila at ituro ang mga pamilyar na kalsada.
+- **Hawakan ang lumang katalogo o magasin** at pag-usapan ang presyo, moda at mga kotse.
+- **Itala ang kanilang kuwento** sa telepono, na may pahintulot nila, para sa pamilya.
+- **Magbahagi habang may tawag.** Ipakita ang isang larawan habang may video call; tingnan ang [tawag sa telepono at video](/activities/phone-and-video-calls/).
+- **Magdala ng larawan o bagay kapag bumisita ka.** Nagbibigay ito ng madaling pagtutuunan ng pagbisita; tingnan ang [pagbisita](/activities/visiting/).
 
-## What if a memory is painful?
+## Paano kung masakit ang alaala?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+May mga alaalang nagdadala ng kalungkutan, pagsisisi o takot. Kung mabalisa ang tao, tumigil, aliwin siya, at dahan-dahang palitan ang paksa o aktibidad. Huwag makipagtalo tungkol sa kung ano ang nangyari. Pinapayuhan ng Family Caregiver Alliance na huwag subukang kumbinsihin ang tao na mali siya, at sa halip ay tumugon sa damdaming ipinakikita niya, na totoo. Kung pinag-uusapan niya ang taong pumanaw na parang buhay pa, tumugon sa damdamin: “Namimiss mo siya. Sabihin mo sa akin ang tungkol sa kanya.”
 
-## What does the research say?
+## Ano ang sinasabi ng pananaliksik?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Natuklasan ng isang [pagsusuri ng Cochrane tungkol sa pagbabalik-tanaw](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), na sumasaklaw sa 22 pagsubok at 1,972 katao, na hindi pare-pareho, maliit, at nag-iiba-iba ang epekto depende sa lugar at format. Walang nakitang ebidensiya ng pinsala sa mga taong may dementia. Iminumungkahi namin ang pagbabalik-tanaw dahil maaari itong maging mainit at makabuluhang oras na magkasama, hindi bilang gamot. Para sa higit pa tungkol sa madaling usapan, tingnan ang [mga tip sa komunikasyon](/caregiving/communication-tips/).

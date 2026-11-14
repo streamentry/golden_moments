@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Wann eng Persoun mat Demenz eng Aktivitéit refuséiert oder frustréiert ass"
+seoTitle: "Wann eng Persoun mat Demenz eng Aktivitéit refuséiert"
+description: "Warum eng Persoun mat Demenz eng Aktivitéit refuséiert oder sech driwwer opreegt, wat Dir probéiere kënnt, wat ze vermeiden ass a wéini en Dokter gebraucht gëtt."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Wann eng Persoun mat Demenz Nee seet, akzeptéiert et roueg a probéiert et méi spéit nach eng Kéier oder bitt eppes Anescht un. Eng Refus huet dacks e Grond: d'Aufgab fillt sech ze schwéier oder ze kandesch un, si sinn middeg, hunn Schmerz, Honger oder si sinn vum Lärm iwwerfuerdert. Streit net an dréckt net. Vereinfacht, bitt zwou Méiglechkeeten un oder frot no hirer Hëllef. Plötzlech oder séier wiesselend Verhalen, besonnesch no enger Infektioun oder engem neie Medikament, brauchen séier en Dokter.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "E „Nee“ ass eng Äntwert, déi mir respektéieren, kee Problem, dat mir iwwerwannen mussen."
+  - "Eng Refus huet meeschtens e Grond: ze schwéier, ze kandesch, middeg, krank, onbequem oder iwwerfuerdert."
+  - "Zréckhalen, waarden a spéider probéieren, zu enger anerer Zäit oder mat enger méi einfacher Versioun."
+  - "Hëllef ze froen funktionéiert besser, wéi ze verlaangen, datt si eppes virféieren."
+  - "Streit net, dréckt net, quiz net a korrigéiert net. Kuckt bei Iech selwer, ob Dir hetzt oder dréckt."
+  - "Plötzlech oder séier wiesselend Verhalen, besonnesch mat Infektioun oder neie Medikamenter, sollen direkt zum Dokter."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ass et okay, datt se Aktivitéiten ganz auslounen?"
+    a: "Jo, op all Dag. Zesumme sëtzen, Musek lauschteren oder d'Welt beobachten kann genuch sinn. Wann eng Persoun Wochelaang alles net méi genéisst, sollt Dir dat dem Dokter sot, well schlechte Stëmmung, Schmerz oder aner Gesondheetsprobleemer en Deel vum Bild sinn kënnen."
+  - q: "Firwat refuséieren se Saachen, déi se fréier gär haten?"
+    a: "En alt Hobby kann frustréierend ginn, wann et elo Fäegkeeten brauch, déi d'Demenz schwéier gemaach huet, an d'Persoun sech vläicht schummt. Probéiert en einfacheren Deel vun der selwechter Aktivitéit, wéi Knäppchen sortéieren amplaz ze nähen, oder Gaarteschbiller kucken amplaz ze planzen."
+  - q: "Soll ech probéieren, si ze iwwerzeegen?"
+    a: "Nee. Dréngen op eppes, wat d'Demenz schwéier gemaach huet, ass bekannt als Auslöser fir Agitatioun. Akzeptéiert dat Nee, wiesselt de Gesprächsthema a bitt et spéider oder op en anere Wee nach eng Kéier un."
+  - q: "Wéini ass eng Verhalensännerung en Notfall?"
+    a: "Ruff de lokalen Notruff un, wann iergendeen a Gefor ass oder Zeechen vun engem medizinesche Notfall huet. Bei plötzlecher Verwirrung oder Verhalen, dat sech a Stonnen oder Deeg schnell ännert, besonnesch mat Fieber, Infektioun oder engem neie Medikament, kontaktéiert direkt hiren Dokter."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Dir hutt alles virbereet, eng Spillrun oder e Spadséiergank ugebueden, an héiert „Nee“. Oder d'Aktivitéit fänkt gutt un an endegt mat engem ewechgedréckte Tablet an engem schaarfe Wuert. Dat ass entmutegend, an et ass ganz heefeg. Refus an Frustratioun si meeschtens eng Botschaft, kee Stur-sinn. Wann Dir erausfannt, wat d'Botschaft ass, weist Dir dacks, wat Dir als nächst probéiere kënnt.
 
-## Why does someone with dementia refuse activities?
+## Firwat refuséiert eng Persoun mat Demenz Aktivitéiten?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Meeschtens steet e Grond dahannert, och wann d'Persoun et net a Wierder kann fassen. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) seet, datt Widderstand kann heeschen, datt d'Persoun d'Aufgab net kann, oder datt se Angscht huet, et ze probéieren. Gängeg Ursaachen sinn:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Et fillt sech ze schwéier un.** D'Aktivitéit brauch elo Fäegkeeten, déi d'Demenz schwéier gemaach huet, a virun anere sech ze verschreiwen ass beschummend.
+- **Et fillt sech kandesch un.** Erwuessener bemierken Cartoon-Biller, Sing-Song-Stëmmen an Aktivitéiten, déi fir Kanner gemaach schéngen.
+- **Middegkeet.** Vill Mënschen hunn spéit um Dag manner Energie. Kuckt [roueg Aktivitéiten um spéiden Nomëtteg](/caregiving/late-day-restlessness/).
+- **Kierperlech Onbequemlechkeet.** Den [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nennt Schmerz, Schlofmangel, Schwieregkeeten beim Gesinn oder Héieren, Verstoppung, Honger, Duuscht an Niewenwierkungen vun neien Medikamenter als méiglech Ursaachen vun Nout.
+- **Ze vill lass.** E laute Fernseh, verschidde Gespréicher oder en volle Raum kënnen iwwerfuerdern.
+- **Gedréckt gefillt.** Den NIA nennt et als Grond fir Agitatioun, gedréckt ze ginn, eppes ze maachen, wat d'Alzheimer ganz schwéier gemaach huet, oder sech un Eventer oder Leit ze erënneren.
+- **Schlechte Stëmmung.** Dat Interesse un Saachen ze verléieren, kann e Zeeche vun enger Depressioun sinn, déi een mam Dokter ustoen soll.
+- **Si wëllen einfach net.** Erwuessener däerfen Nee soen.
 
-## What should I try when they say no?
+## Wat soll ech probéieren, wann se Nee soen?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Akzeptéiert d'Nee roueg, a verännert dann eppes: d'Zäit, d'Aktivitéit, de Schwieregkeetsgrad oder d'Art, wéi Dir fréot.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Lot et fir de Moment sinn.** „Dat ass a Rot. Vläicht spéider.“ Dann op eppes Anescht ëmschwenken, ouni ze séiftzen.
+2. **Probéiert et méi spéit nach eng Kéier.** D'Alzheimer's Association schléit vir, et méi spéit oder zu enger anerer Tageszäit nach eng Kéier ze probéieren.
+3. **Maacht et méi kleng.** E Match amplaz vun engem ganze Spill. E Handtuch amplaz vum ganze Wäschkuerf. Manner Biller, manner Auswiel, Biller, déi siichtbar bleiwen.
+4. **Bitt zwou Méiglechkeeten un.** „Wëllt Dir d'Villbiller kucken oder e bëssen Musek lauschteren?“ Eng Auswiel gëtt e Gefill vu Kontroll zeréck.
+5. **Frot no Hëllef amplaz no Leeschtung.** „Kënnt Dir mir hëllefen, dës ze sortéieren?“ oder „Kënnt Dir mir soen, wéi eng Faarf am beschte passt?“ Gebraucht ze ginn fillt sech ganz anescht un, wéi getest ze ginn.
+6. **Fänkt et selwer un.** Setzt Iech nieft hinnen a fänkt d'Aktivitéit un, ouni ze frofen. Vill Mënsche maachen mat, wann eppes schonn leeft, an wann net, hutt Dir awer trotzdem Zäit zesumme verbruecht.
+7. **Wiesselt op eppes Kierperleches oder Berouegendes.** En Spadséiergank, Musek, e Snack, Wäsch zesummeleeën oder eng gemeinsam [roueg Atmungspaus](/games/calm-breathing/). Den NIA schléit vir, d'Opmierksamkeet op Musek, en Buch oder en Spadséiergank ze lenken.
+8. **Loosst se et op hir Manéier maachen.** Wann se e Spill anescht wëllen spillen wéi d'Reegele sot, mécht matt. D'Alzheimer's Association rott, flexibel ze sinn.
 
-## What should I say when they get frustrated?
+## Wat soll ech soen, wann se frustréiert sinn?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Lues maachen, d'Stëmm senken a berouegen. D'[Alzheimer's-Association-Guidance iwwer Agitatioun](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) schléit vir, zréckzeschrecken an em Erlaabnis ze froen, roueg a positiv Aussoen ze benotzen an eng gefouert Wiel tëscht zwou Méiglechkeeten unzebidden. Sätz an dësem Sënn:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- „Et deet mir leed, dës ass nervend. Halen mir op.“
+- „Dir maacht et gutt. Ech sinn direkt bei Iech.“
+- „Hutt Dir Zäit, mir mat eppes Anerem ze hëllefen?“
+- „Wéi wier et mat enger Dass Téi amplaz?“
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Dann d'Aktivitéit ouni vill Ophiewes beenden. Eis [Gleedungen zur Kommunikatioun](/caregiving/communication-tips/) hunn méi, wat ze soen ass.
 
-## What should I avoid?
+## Wat soll ech vermeiden?
 
-Some natural reactions tend to make things worse.
+E puer natierlech Reaktiounen maachen d'Saache meeschtens méi schlëmm.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Streiden oder dréngen.** „Komm, nach eng Kéier“ oder „Dir hutt dat gär“ hëlleft selten.
+- **Quizzen oder korrigéieren.** „Dir wësst jo, wat dat ass“ oder „Nee, dat do ass falsch“ setzt Drock op.
+- **Et perséinlech huelen.** Den NIA erënnert Betreier drun, datt d'Krankheet, an net d'Persoun, dës Ännerungen verursaacht.
+- **Dréngen oder hetzen.** D'Alzheimer's Association rott, net d'Stëmm ze erhiewen, Alarm ze weisen, an d'Eck ze dreiwen, ze dréngen, festzehalen, ze kritiséieren, ze ignoréieren oder mat der Persoun ze streiden, an ruckarteg Bewegungen aus hirem Siicht ze vermeiden.
+- **Mat schlechtem Gewëssen dréngen.** „Ech hu dat alles fir Iech virbereet“ mécht Iech béid méi schlecht.
+- **Etiketten ukleeën.** „Stur“ oder „schwéier“ verstoppt de richtege Grond a mécht d'Léisung méi schwéier.
 
-## How can I find out what is behind repeated refusals?
+## Wéi fannen ech eraus, wat hannert widderhuelender Refus steet?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Féiert eng einfach Notiz fir eng oder zwou Wochen. Den NIA seet, datt d'Notéiere vu Verhalensännerungen Betreier an Gesondheetsdéngschtleeschter hëlleft, e Muster ze erkennen an d'Ursaach erauszefannen.
 
-Jot down:
+Hält fest:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- d'Tageszäit;
+- wat Dir ugebueden hutt an wéi Dir gefrot hutt;
+- wat ronderëm Iech geschitt ass (Lärm, Besuch, Fernseh);
+- wéi se geschlof, giess an gedronk hunn an wéini se zulescht op d'Toilette waren;
+- nei Medikamenter oder rezent Krankheet.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Muster weisen sech dacks séier: Refus nëmme nom Auer 4 p.m., nëmmen bei engem bestëmmten Spill oder nëmmen, wann de Fernseh leeft. D'[Gläichte iwwer Verhalen bei Demenz](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) vun der Family Caregiver Alliance seet et einfach: Mir kënnen d'Persoun net änneren, awer mir kënnen eisen eegene Verhalen an d'Ëmfeld upassen.
 
-## When should I talk to a doctor about refusal or frustration?
+## Wéini soll ech mam Dokter iwwer Refus oder Frustratioun schwätzen?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Schwätzt mam Dokter, wann sech d'Verhalen plötzlech, séier oder zesumme mat Zeeche vun enger Krankheet ännert. Den NIA seet, datt plötzlech oder séier wiesselend Verhalensännerungen, besonnesch wann d'Persoun eng Infektioun oder rezent Medikamentenännerungen hat, direkt dem Dokter gemellt solle ginn.
 
-Contact their doctor promptly if you notice:
+Kontaktéiert hire Dokter séier, wann Der dës Saache bemierkt:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- plötzlech Verwirrung oder eng grouss Ännerung a Stonnen oder Deeg;
+- Zeeche vu Schmerz, wéi Verzéiwe, Schounen vun engem Kierperdeel oder neien Schwieregkeeten beim Beweegen;
+- Fieber oder aner Zeeche vun enger Infektioun;
+- nei oder geännert Medikamenter, gefollegt vun enger Verhalensännerung;
+- Verléierung vum Interesse u bal allem, Tréinen oder Réckzuch, déi méi wéi e puer Wochen daueren;
+- Refus vun Iessen oder Gedrénks.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+D'Alzheimer's Association recommandéiert eng gutt medizinesch Kontroll fir jiddereen mat Verhalenssymptomer, besonnesch wann se plötzlech kommen. D'Family Caregiver Alliance rott och, fir d'éischt mam Dokter ze kontrolléieren, well Verhalensprobleemer eng medizinesch Ursaach hunn kënnen. Stoppt, fänkt un oder ännert kee Medikament ouni mam Dokter oder Apdikter ze schwätzen.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Wann iergendeen a Gefor ass oder et Zeeche vun engem medizinesche Notfall gëtt, ruff de lokalen Notruff un. Den NIA rott, dem Dispatcher ze soen, datt d'Persoun Demenz huet. Fir direkt Sécherheetsschrëtt, wann Wut kierperlech gëtt, kuckt eise [Guide iwwer Wut a Aggressioun bei Demenz](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Ass et okay, wann mir guer näischt maachen?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Jo. Heiansdo ass déi bescht Aktivitéit keng Aktivitéit: zesumme sëtzen, d'Hänn halen, eng Lieblingsplack lauschteren oder Villercher duerch de Fënster kucken. Dat ass kee Versoen. Eise [Guide iwwer zesummen spillen](/caregiving/how-to-play-together/) erkläert, firwat et richteg sinn kann, fréi opzehalen oder guer net unzefänken.

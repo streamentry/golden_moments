@@ -1,33 +1,28 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "රැඩිකල් නොවන උපවාසය සහ ඩිමෙන්ශියාව: පර්යේෂණ පවසන දේ"
+seoTitle: "රැඩිකල් නොවන උපවාසය සහ ඩිමෙන්ශියාව: පර්යේෂණ පවසන දේ"
+description: "මනුෂ්‍ය සාක්ෂි මෙම ක්ෂේත්‍රයේ සීමිත සහ මුල් අවධියේ ය. වැඩිහිටියන් සඳහා අවදානම් සහ ඩිමෙන්ශියාව සමඟ ප්‍රමාණවත් ලෙස කෑම ගැනීම වඩාත් වැදගත් වන්නේ ඇයි."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  රැඩිකල් නොවන උපවාසය ඩිමෙන්ශියාව වළක්වන හෝ මන්දගාමී කරන බවට හොඳ සාක්ෂියක් නැත. පර්යේෂණවලින් බොහොමයක් සත්ත්වයන් මත වන අතර, වැඩිහිටියන් සම්බන්ධ මනුෂ්‍ය අධ්‍යයන කුඩා සහ කෙටි ය. වැඩිහිටියන්ට උපවාසය අවදානම් සහගත විය හැකිය: බර හා මාංශ පේශි අඩු වීම, සමහර දියවැඩියා ඖෂධවලින් රුධිර සීනි අඩු වීම, විජලනය සහ වැටීම්. ඩිමෙන්ශියාව ඇති අයෙකු සඳහා, සාමාන්‍යයෙන් වැඩි වැදගත්කමක් ඇත්තේ ප්‍රමාණවත් ලෙස කෑම හා පානය ගැනීමටයි. පළමුව වෛද්‍යවරයා සමඟ කථා කරන්න.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය පවසන්නේ, විශේෂයෙන් වැඩිහිටියන්ට, කිසිදු උපවාස හෝ කැලරි සීමා කළ ආහාර වේලක් නිර්දේශ කිරීමට ප්‍රමාණවත් සාක්ෂි නැති බවයි."
+  - "උපවාසය සහ වයස ගැන බොහෝ පර්යේෂණ සත්ත්වයන්ගෙන් ලැබේ, එම ප්‍රතිඵල අනිවාර්යයෙන් ම මිනිසුන්ට අදාළ නොවේ."
+  - "වැඩිහිටියන් සඳහා සිදුවිය හැකි අවදානම් අතර අනපේක්ෂිත බර අඩු වීම, මාංශ පේශි අඩු වීම, සමහර දියවැඩියා ඖෂධවලින් රුධිර සීනි අඩු වීම, විජලනය, කරකැවිල්ල සහ වැටීම් ඇතුළත් වේ."
+  - "ඩිමෙන්ශියාව සමඟ ජීවත් වන අය බොහෝ විට කෑම හෝ පානය ගැනීම අමතක කරයි, නැතහොත් දැනටමත් ගෙන ඇති බව සිතයි. ඔවුන්ට ප්‍රමාණවත් ලෙස කෑම හා පානය ගැනීමට උදව් කිරීම, කන වේලාවට වඩා බොහෝ වැදගත් වේ."
+  - "ඩිමෙන්ශියාව ඇති අයෙකු සඳහා උපවාසය භාවිත නොකරන්න. ආහාර ගැනීමේ රටාවේ ඕනෑ ම වෙනසකට පෙර වෛද්‍යවරයෙකු හෝ ලියාපදිංචි පෝෂණ විශේෂඥයෙකු සමඟ කථා කරන්න."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "රැඩිකල් නොවන උපවාසය ඇල්සයිමර් වළක්වයිද?"
+    a: "එය වළක්වන බවට හොඳ සාක්ෂියක් නැත. බොහෝ පර්යේෂණ සත්ත්වයන් තුළ සිදු වී ඇති අතර, මිනිස් අත්හදා බැලීම් බොහෝ විට කෙටි, බාල වයසේ හෝ තරබාරු වැඩිහිටියන් සමඟ, සහ බර අඩු කිරීම කේන්ද්‍රගත ය. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය පවසන්නේ උපවාස ආහාර වේල් මහජනතාවට නිර්දේශ කිරීමට ප්‍රමාණවත් සාක්ෂි නැති බවයි."
+  - q: "රැඩිකල් නොවන උපවාසය වැඩිහිටියන්ට ආරක්ෂිත ද?"
+    a: "එය නොවිය හැකිය. උපවාසය අනපේක්ෂිත බර සහ මාංශ පේශි අඩු වීම, විජලනය, කරකැවිල්ල සහ වැටීම්වලට හේතු විය හැකි අතර, ඉන්සියුලින් හෝ සමහර වෙනත් දියවැඩියා ඖෂධ ගන්නා අයෙකුට අනතුරුදායක ලෙස අඩු රුධිර සීනි ඇති කළ හැකිය. Mayo Clinic සටහන් කරන්නේ එය අස්ථි හානි සහ වැටීම් ඉහළ අවදානමක සිටින අයට නුසුදුසු විය හැකි බවයි. උත්සාහ කිරීමට පෙර වෛද්‍යවරයා සමඟ කථා කරන්න."
+  - q: "ඩිමෙන්ශියාව ඇති අයෙකු උපවාසය උත්සාහ කළ යුතු ද?"
+    a: "නැත. ඩිමෙන්ශියාව සහිත අය බොහෝ විට ප්‍රමාණවත් ලෙස කෑම හා පානය ගැනීමට අපහසු වේ, සහ දුර්වල පෝෂණය හැසිරීම් රෝග ලක්ෂණ වැඩි කර බර අඩු වීමට හේතු විය හැකිය. උපවාසය ඔප්පු වූ ප්‍රතිලාභයක් නොමැතිව අවදානම එකතු කරයි. ඒ වෙනුවට නිත්‍ය ආහාර වේල්, ඔවුන් භුක්ති විඳින කෑම් සහ ප්‍රමාණවත් පානය කෙරෙහි අවධානය යොමු කරන්න."
+  - q: "ඩිමෙන්ශියාව ඇති අයෙකු ප්‍රමාණවත් ලෙස කෑම හෝ පානය නොගන්නා බවේ ලකුණු මොනවාද?"
+    a: "බර අඩු වීම, ඇඳුම් ලිහිල් වීම, වෙහෙස, දුර්වලතාව, මල බද්ධය, හෝ කෑම ප්‍රතික්ෂේප කිරීම සඳහා බලා සිටින්න. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය ලැයිස්තුගත කරන විජලනයේ ලකුණු අතර කට වියළීම, කරකැවිල්ල, වේගවත් හෘද ස්පන්දනය සහ මායා දර්ශන ඇතුළත් වේ. ඔබ මේවා දුටුවොත් ඔවුන්ගේ වෛද්‍යවරයාට කියන්න."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +50,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+දින දෙකක් සතියකට කැලරි දැඩි ලෙස අඩු කිරීම හෝ පැය අටක කවුළුවක් තුළ පමණක් කෑම වැනි විරාම උපවාසය බොහෝ අවධානයක් ලබන අතර, සමහර ලිපි පවසන්නේ එය මොළය ආරක්ෂා කළ හැකි බවයි. ඔබ වැඩිහිටියෙකු නම්, හෝ ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු රැකබලා ගන්නේ නම්, පර්යේෂණය සැබවින් ම පෙන්වන දේ මෙන්න, සහ ප්‍රවේශම් වීම වැදගත් වන්නේ ඇයි.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+මෙය සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. වෛද්‍යවරයෙකු හෝ ලියාපදිංචි පෝෂණ විශේෂඥයෙකු සමඟ කථා කිරීමකින් තොරව උපවාසය ආරම්භ නොකරන්න, නැතහොත් ඔබ රැකබලා ගන්නා අයෙකුගේ ආහාර ගැනීම වෙනස් නොකරන්න. අපේ [වෛද්‍ය වගකීම් ප්‍රකාශය](/medical-disclaimer/) බලන්න.
 
-## Does intermittent fasting prevent dementia?
+## උපවාසය ඩිමෙන්ශියාව වළක්වයිද?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+විරාම උපවාසය ඩිමෙන්ශියාව වළක්වන හෝ මන්දගාමී කරන බවට හොඳ සාක්ෂියක් නැත. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය (NIA) පවසන්නේ ඕනෑ ම වර්ගයක කැලරි සීමා කිරීමේ හෝ උපවාස ආහාර වේලක් නිර්දේශ කිරීමට ප්‍රමාණවත් සාක්ෂි නැති බවත්, ඒවායේ ඵලදායිතාව සහ ආරක්ෂාව ගැන, විශේෂයෙන් වැඩිහිටියන් අතර, තවමත් බොහෝ දේ ඉගෙන ගත යුතු බවත්ය ([කැලරි සීමා කිරීම සහ උපවාස ආහාර වේල් ගැන NIA](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### සාක්ෂි කෙතරම් සීමිත ද යන්න
 
-The NIA gives several reasons:
+NIA විසින් හේතු කිහිපයක් ලබා දෙයි:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **බොහෝ අධ්‍යයන සත්ත්වයන් තුළ ය.** පණුවන්, මැස්සන්, මීයන් සහ වඳුරන් තුළ පර්යේෂණ රසවත් ප්‍රතිඵල ලබා දී ඇති නමුත්, එම සොයාගැනීම් අනිවාර්යයෙන් ම මිනිසුන්ට අදාළ නොවේ. සත්ත්වයන් තුළ පවා ප්‍රතිඵල මිශ්‍ර ය; සමහර මීයන් වර්ගවල කැලරි සීමා කිරීම ආයු කාලය කෙටි කළේය.
+- **මිනිස් අත්හදා බැලීම් කෙටි විය.** බොහොමයක් සති කිහිපයක් හෝ මාස කිහිපයක් පැවතුණි.
+- **බොහෝ මිනිස් අත්හදා බැලීම් තරබාරු වැඩිහිටියන්ගේ බර අඩු කිරීම කේන්ද්‍රගත කළ**, මතකය හෝ ඩිමෙන්ශියාව කේන්ද්‍රගත නොකළේය.
+- **වැඩිහිටියන් කලාතුරකින් ඇතුළත් වේ.** බොහෝ අත්හදා බැලීම් වයස 60 හෝ ඊට අඩු අය බඳවා ගත්හ.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 පද්ධතිමය සමාලෝචනයකින් විශේෂයෙන් වයස 60 සහ ඊට වැඩි වැඩිහිටියන් අතර විරාම උපවාසය පරීක්ෂා කරන ලදී. එම වයස් කාණ්ඩයේ සාක්ෂි තවමත් සීමිත බව එයින් හමු විය, කුඩා අධ්‍යයන, කෙටි පසු විපරම් සහ මිශ්‍ර සැලසුම් සමඟ. චින්තනය සහ මතකය ගැන සොයාගැනීම් ලැබුණේ තනි අධ්‍යයනවලින් ය, ඒකාබද්ධ අත්හදා බැලීමේ ප්‍රතිඵලවලින් නොවේ. ඉතා කෙටි ආහාර කවුළු හෝ දීර්ඝ උපවාස සමඟ නරක ප්‍රතිඵල සම්බන්ධ වී ඇති බවට සමහර අධ්‍යයන සටහන් කළ බවත්, කතෘවරු වැඩිහිටියන්ට ප්‍රවේශම් වන ලෙස දිරිගැන්වූ බවත් සමාලෝචනය සඳහන් කරයි ([Nutrients හි 2026 සමාලෝචනය](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+උපවාස අතරතුර සිරුර මේදය දහනය කිරීමට මාරු වීම මොළයට බලපෑ හැකි යැයි සමහර පර්යේෂකයන් සිතන නමුත්, මෙය තවමත් අධ්‍යයනය වන න්‍යායකි. NIA සටහන් කරන්නේ විද්‍යාව අවිනිශ්චිත බවයි.
 
-## What are the risks of fasting for older adults?
+## වැඩිහිටියන් සඳහා උපවාසයේ අවදානම් මොනවාද?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+බොහෝ වැඩිහිටියන් සඳහා උපවාසය හානි රහිත අත්හදා බැලීමක් නොවේ. සිදුවිය හැකි අවදානම් අතර:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **අනපේක්ෂිත බර අඩු වීම.** සිරුරට අවශ්‍ය තරම් නොගැනීම බර අඩු වීමට සහ මාංශ පේශි ශක්තිය අඩු වීමට හේතු විය හැකි අතර, එය පුද්ගලයා වඩාත් දුර්වල කළ හැක.
+- **මාංශ පේශි සහ අස්ථි හානි.** තරුණ සහ මැද වයසේ වැඩිහිටියන් සම්බන්ධ NIA විසින් සහාය දුන් කැලරි සීමා කිරීමේ වසර දෙකක් පැවති අත්හදා බැලීමකදී, සහභාගිවන්නන් අස්ථි ඝනත්වයේ සහ ශරීර ස්කන්ධයේ සුළු පිරිහීම් අත්විඳින ලදී.
+- **දියවැඩියා ඖෂධවලින් රුධිර සීනි අඩු වීම.** ඉන්සියුලින් හෝ වෙනත් සමහර දියවැඩියා ඖෂධ ගන්නා අය ආහාර මඟ හරින්නේ හෝ ප්‍රමාද කරන්නේ නම්, [ජාතික දියවැඩියා, ආහාර ජීර්ණ සහ වකුගඩු රෝග ආයතනයට අනුව](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) රුධිර සීනි ඉතා අඩු විය හැක. රුධිර සීනි අඩු වීම කරකැවිල්ල, ව්‍යාකූලත්වය සහ කෝපය ඇති කළ හැකිය.
+- **විජලනය.** ආහාර සමඟ පානද මඟ හරින්නේ නම්, පුද්ගලයෙකුට විජලනය විය හැක.
+- **කරකැවිල්ල සහ වැටීම්.** Mayo Clinic සටහන් කරන්නේ විරාම උපවාසය ගොඩක් වෙහෙසට සහ කරකැවිල්ලට හේතු විය හැකි බවත්, අස්ථි හානි සහ වැටීම් ඉහළ අවදානමක සිටින අය සඳහා එය සෞඛ්‍ය සම්පන්න රටාවක් නොවිය හැකි බවත්ය ([Mayo Clinic විරාම උපවාසය ගැන](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **වෙනත් බලපෑම්.** Mayo Clinic හිසරදය, මනෝභාවයේ වෙනස්කම් සහ මල බද්ධය ද ලැයිස්තුගත කරන අතර, පැය 16ක උපවාසයක් සමඟ පැය 8ක කෑම කවුළුවක් අනෙක් කෑම කවුළු හා සසඳන විට හෘද රෝග අවදානම ඉහළ නංවිය හැකි බවට සමහර සාක්ෂි ඇති බව සටහන් කරයි. එම සාක්ෂි තවමත් නිරවුල් නොවේ.
 
-## Why is eating enough the bigger concern with dementia?
+## ඩිමෙන්ශියාව සමඟ ප්‍රමාණවත් ලෙස කෑම ගැනීම වඩා විශාල කරුණ වන්නේ ඇයි?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+ඩිමෙන්ශියාව ඇති අය සඳහා, සාමාන්‍ය ගැටලුව වන්නේ ඉතා වැඩි කෑම නොව, **ප්‍රමාණවත්** කෑම හා පානය ලබා ගැනීමයි. ඇල්සයිමර් සංගමය පැහැදිලි කරන්නේ මධ්‍ය සහ පසු අවධිවල සිටින අයට ආහාර තේරීම් මගින් අධික ලෙස බරපතල වීමට, කෑම ගැනීම අමතක වීමට, හෝ දැනටමත් කෑවා යැයි සිතීමට ඉඩ ඇති බවයි. එය තවදුරටත් එක් කරන්නේ දුර්වල පෝෂණය හැසිරීම් රෝග ලක්ෂණ වැඩි කර බර අඩු වීමට හේතු විය හැකි බවයි ([ඇල්සයිමර් සංගමය ආහාර සහ කෑම ගැනීම ගැන](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+ඇල්සයිමර් සමාජය සටහන් කරන්නේ ප්‍රමාණවත් ලෙස නොකැවීම බර අඩු වීමට, මාංශ පේශි ශක්තිය අඩු වීමට, වෙහෙසට සහ දුර්වලතාවට හේතු විය හැකි බවත්, එමඟින් පුද්ගලයා වඩාත් දුර්වල වී ආසාදනවලින් යථා තත්ත්වයට පත් වීමට අඩු හැකියාවක් ඇති බවත්ය ([රුචිය ගැන ඇල්සයිමර් සමාජය](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**මේ හේතු නිසා, ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු සඳහා උපවාසය හොඳ අදහසක් නොවේ.** මඟ හරින ලද කෑම වේලාවන් පහසුවෙන් නොගත් කෑම වේලාවන් බවට පත් විය හැකිය. ඩිමෙන්ශියාව ඇති අයෙකු කන ආකාරයේ ඕනෑ ම වෙනසක් ඔවුන්ගේ වෛද්‍යවරයා හෝ ලියාපදිංචි පෝෂණ විශේෂඥයා විසින් මඟ පෙන්විය යුතුය.
 
-## What are the warning signs of poor eating or drinking?
+## දුර්වල ලෙස කෑම හෝ පානය ගැනීමේ අනතුරු ඇඟවීමේ ලකුණු මොනවාද?
 
-Watch for:
+මේවා සඳහා බලා සිටින්න:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **බර අඩු වීම**, හෝ ඇඳුම් වඩා ලිහිල්ව වැටීම.
+- **කෑම ඉතිරි කිරීම හෝ කෑම ප්‍රතික්ෂේප කිරීම**, හෝ කට තුළ ආහාර තබා ගැනීම.
+- **වෙහෙස හෝ දුර්වලතාව.**
+- **මල බද්ධය**, එය ආහාර සහ විජලනය සමඟ සම්බන්ධ විය හැක.
+- **විජලනයේ ලකුණු.** NIA ලැයිස්තුගත කරන්නේ කට වියළීම, කරකැවිල්ල, වේගවත් හෘද ස්පන්දනය, සහ මායා දර්ශන වන අතර, ඒවා ඩිමෙන්ශියාවෙන් ම ද ඇති විය හැකිය ([පොදු වෛද්‍ය ගැටළු ගැන NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+දුර්වල රුචියට හේතු බොහෝ විය හැක: දත් වේදනාව හෝ ලිහිල් දත් ඇටවුම්, නව ඖෂධ, මානසික අවපීඩනය, මල බද්ධය, අඩු ක්‍රියාකාරකම්, හෝ රස හා ගඳ සුවඳ වෙනස් වීම. මේවායින් ඕනෑ ම එකක් ගැන පුද්ගලයාගේ වෛද්‍යවරයාට කියන්න. ඔවුන්ට හේතුව සෙවිය හැකි අතර ලියාපදිංචි පෝෂණ විශේෂඥයෙකු හෝ අතිරේක ලබා දීමට යෝජනා කළ හැකිය.
 
-## How can you help someone eat and drink enough?
+## පුද්ගලයෙකු ප්‍රමාණවත් ලෙස කෑම හා පානය ගැනීමට ඔබ උදව් කළ හැක්කේ කෙසේද?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **කුඩා ආහාර වේල් සහ කෑම් නිතර පිරිනමන්න**, විශාල ආහාර වේල් තුනක් වෙනුවට.
+- **ප්‍රිය ආහාර පිරිනමන්න**, සහ රස වෙනස් වන විට නම්‍යශීලී වන්න. රුචිය අඩු නම් මිහිරි ආහාර සාදරයෙන් පිළිගත හැකිය; සීනි සීමා කිරීමට සෞඛ්‍ය හේතු තිබේ දැයි වෛද්‍යවරයාගෙන් අසන්න.
+- **පානය අතට ළඟින් තබා ගෙන** දවස පුරා කුඩා කෝප්ප පිරිනමන්න. සූප්, ගෙඩි, ස්මූතී සහ මිල්ක්ෂේක් ද ගණනට ගැනේ.
+- **හැකි විට එකට කන්න.** ආහාර වේලා සමාගම සඳහා අවස්ථාවක් වේ, ඉක්මන් කළ යුතු කාර්යයක් නොවේ.
+- **ඇඟිලිවලින් ගත හැකි ආහාර උත්සාහ කරන්න**, උදාහරණ ලෙස සෑන්ඩ්විච්, ගෙඩි පෙත්ත හෝ කුකුළු මස් කැබලි, භාණ්ඩ දුෂ්කර වී ඇත්නම්.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+අපේ [ආහාර මාර්ගෝපදේශය](/brain-health/diet/) තවත් ආහාර වේලා අදහස් ඇත. ආහාර සකස් කිරීමට උදව් කිරීම ද ප්‍රියජනක එකට කරන ක්‍රියාකාරකමක් විය හැකිය; [ගෘහස්ථ කාර්යයන්](/activities/household-tasks/) බලන්න.
 
-## Talk with a doctor
+## වෛද්‍යවරයෙකු සමඟ කථා කරන්න
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+ඔබ විසින් ම ඕනෑ ම උපවාස සැලැස්මක් උත්සාහ කිරීමට පෙර, විශේෂයෙන් ඔබ දියවැඩියාව හෝ රුධිර පීඩනය සඳහා ඖෂධ ගන්නේ නම්, මෑතකදී බර අඩු වී ඇත්නම්, හෝ වැටීම් ඇති වී ඇත්නම්, ඔබේ වෛද්‍යවරයා හෝ ලියාපදිංචි පෝෂණ විශේෂඥයා සමඟ කථා කරන්න. ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු සඳහා, උපවාසය ගැන නොව, ඔවුන් සෑම දිනකම කොපමණ කෑම හා පානය ගත යුතු ද කියා ඔවුන්ගේ වෛද්‍යවරයාගෙන් අසන්න.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+හදිසි ව්‍යාකූලත්වය, සිහිසුන් වීම, හෝ ඉතා අඩු රුධිර සීනි ලකුණු ඉක්මනින් වැඩි නොවන විට, වහාම වෛද්‍ය ආධාර ලබා ගන්න.

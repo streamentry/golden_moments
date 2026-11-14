@@ -1,32 +1,32 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Attivitajiet barra u tal-ġnien għal persuni bid-dimenzja"
+seoTitle: "Attivitajiet tal-ġnien u barra għad-dimenzja"
+description: "Ideat ta’ ġardinaġġ u attivitajiet barra għal persuni li qed jgħixu bid-dimenzja, b’bedjiet mgħollija, kontenituri u parir għas-sħana, ix-xemx u l-mixi bla skop."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Il-ġnien u l-ħin barra jistgħu jkunu attività kwieta u familjari għal persuna li qed tgħix
+  bid-dimenzja. Ipprova t-tisqija, it-tqegħid tal-ħwawar f’vażijiet, it-tneħħija tal-fjuri
+  mietu jew mixja qasira f’bitħa magħluqa b’sur. Uża bedgħat mgħollija jew mejda biex ħadd
+  ma jkollu jingħeneb, evita għodod qorrieqa u pjanti tossiċi, oħroġ fil-parti aktar frisk
+  tal-ġurnata, u dejjem oqgħod mal-persuna.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Xogħlijiet sempliċi tal-ġnien, bħat-tisqija, it-tqegħid taż-żrieragħ f’vażijiet, ir-riħa tal-ħwawar u l-qtugħ tal-fjuri, jistgħu jsiru wieqfa jew bilqiegħda."
+  - "Bedgħat mgħollija, kontenituri u mejda b’kopertura jqarrbu l-ġnien għal livell tal-ħsara u jnaqqsu r-riskju ta’ waqgħat."
+  - "Evita għodod qorrieqa, pjanti xewkin jew li jirritaw, u kull ħaġa velenuża. Oqgħod attent li t-trab ma jitqiesx bħala ikel."
+  - "Is-sħana tista’ tkun perikoluża għall-anzjani. Oħroġ kmieni jew tard, ġib ilma u dell, u idħol ġewwa malajr meta jidher xi sinjal ta’ diskomfort."
+  - "Ħafna nies bid-dimenzja jimxu bla skop f’xi ħin. Oqgħod mal-persuna barra u żomm ritratt reċenti u ID lesti."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "X’attivitajiet tal-ġnien jista’ jagħmel persuna bid-dimenzja?"
+    a: "Tisqija tal-pjanti, tqegħid taż-żrieragħ f’vażijiet żgħar, riħa u mess tal-ħwawar, qtugħ tal-fjuri mietu, qtugħ tal-ħxejjex, tqegħid tal-fjuri maqtugħa fi vażun u skupa ta’ triq huma għażliet tajba. Ġewwa, vażun bil-ħwawar fuq it-tieqa jew tabella bit-trab fuq mejda b’kopertura jaħdmu tajjeb. Agħżel ix-xogħol skont dak li l-persuna kienet tgawdi qabel u li tista’ tagħmel komdament llum."
+  - q: "Kif nżomm persuna bid-dimenzja sigura fis-sħana?"
+    a: "Ippjana l-ħin barra għall-għodu kiesaħ jew għall-filgħaxija, żommu qasir, u offri ilma spiss. Agħżel dell, kappell b’ġwienaħ wesgħin, ħwejjeġ ħfief u miftuħa u krema tax-xemx. L-anzjani għandhom riskju akbar ta’ mard relatat mas-sħana, u konfużjoni, tħaddid jew dardir jistgħu jkunu sinjali ta’ twissija, allura mur ġewwa u ibred malajr jekk tinnota wieħed minnhom."
+  - q: "Kif nistgħu noħorġu barra jekk ikunu jimxu bla skop?"
+    a: "Oqgħod mal-persuna f’kull ħin, uża ġnien jew bitħa b’sur u bieb b’lokk, u iżgura li jilbsu brazzlett jew iġorru ID. Żomm ritratt reċenti lest. Jekk il-persuna titlef, ċempel il-pulizija lokali jew is-servizzi tal-emerġenza minnufih; tistennax għal numru fiss ta’ minuti. Għid lill-ewwel responsabbli li l-persuna għandha d-dimenzja, fejn kienet l-aħħar darba li rawha, u agħtihom ritratt reċenti."
+  - q: "X’nagħmel jekk m’għandniex ġnien?"
+    a: "Ftit vażijiet fuq il-bitħa, kaxxa għat-tieqa jew tabella bil-ħwawar fuq il-mejda tal-kuċina huma biżżejjed. Tista’ wkoll iżżur park, ġnien pubbliku jew ġnien tal-komunità. Li tqgħod barra tisma’ l-għasafar jitqies bħala attività barra wkoll."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +43,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +54,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Għal ħafna nies, il-ġnien huwa wieħed mill-postijiet l-aktar familjari li jafu. It-tħaffir, it-tisqija u l-qtugħ tal-fjuri jużaw ħiliet mitgħallma minn żmien twil, u li tkun barra jġib l-arja friska, id-dawl tax-xemx u l-għana tal-għasafar. In-National Institute on Aging jelenka l-kura tal-pjanti, it-tqegħid tal-fjuri u l-ħxejjex, u [it-tkellim dwar kif qed jikbru l-pjanti](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fost l-attivitajiet li n-nies bl-Alzheimer jistgħu jgawdu. Din il-paġna tkopri x’tipprova, kif tagħmel il-ġnien aktar faċli biex jintuża, u kif tibqa’ sikur fis-sħana, fix-xemx u fil-mixi bla skop.
 
-## What outdoor and gardening activities work well?
+## Liema attivitajiet barra u tal-ġnien jaħdmu tajjeb?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+L-aqwa xogħlijiet huma sempliċi, familjari u jistgħu jsiru wieqfa jew bilqiegħda. Agħżel skont dak li l-persuna kienet tgawdi qabel.
 
-### In the garden
+### Fil-ġnien
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Tisqija.** Kannella żgħira u ħafifa jew nozzle ħafif tal-ħose u ftit vażijiet fil-medda. It-tisqija għandha bidu u tmiem ċari u diffiċli biex titħawwad.
+2. **Tqegħid taż-żrieragħ f’vażijiet.** L-Alzheimer’s Foundation of America jissuġġerixxi li tqiegħed żrieragħ f’vażijiet żgħar u [tara kif jikbru](https://alzfdn.org/dementia-activity-gardening/). Żrieragħ kbar bħall-fażola, id-dwied tax-xemx jew il-piżelli huma aktar faċli biex jinħadmu.
+3. **Qtugħ tal-fjuri mietu.** Tqaxxir bl-idejn il-fjuri mitfija hija xogħol ġentili u ripetittiv. Agħżel pjanti mingħajr xewk.
+4. **Qtugħ tal-ħxejjex jew tal-ħwawar.** It-tadam taċ-ċirasa, il-fażola u l-ħwawar huma sempliċi biex jinqatgħu u jieħdu togħma tajba. Ġibhom ġewwa biex jintużaw fl-ikla tan-nofsinhar.
+5. **Riħa u mess tal-ħwawar.** Ir-rożmarinu, il-menta u l-lavanda għandhom riħiet qawwija u pjaċevoli. Ħakka weraq bejn is-swaba’ u għaddih taħt l-imnieħer.
+6. **Skupa ta’ triq jew patio.** Skupa ħafifa fuq wiċċ ċatt u niexef, jekk il-bilanċ ikun stabbli.
+7. **Imla mangjatoja tal-għasafar.** Imbagħad oqgħod bilqiegħda flimkien u ħares lejn min jiġi jżurha.
 
-### Indoors, when going out is not possible
+### Ġewwa, meta ma jkunx possibbli li toħroġ
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Ġnien tal-ħwawar fuq it-tieqa**, bil-bażilikum, il-prezzemolu jew iċ-ċiboll.
+- **Tqegħid f’vażijiet fuq mejda b’kopertura.** L-AFA jissuġġerixxi li tuża tabelli bħal dawk tal-kafetterija biex it-trab jibqa’ f’post wieħed, u jittiemmel it-trab b’kikkri żgħar.
+- **Tqegħid tal-fjuri** b’fjuri maqtugħa u weraq mill-ġnien jew mill-ħanut.
+- **Fjuri mgħaffġa** minn buqxa, li wara jitwaħħlu fuq kartolini. Ara [arti u kraft](/activities/arts-and-crafts/) għal aktar.
+- **Xkettiet tal-ħwawar tal-lavanda jew tal-warda**, ideat oħra tal-AFA li jżommu r-riħa tal-ġnien ġewwa.
 
-### Getting out and about
+### Toħroġ u timxi
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Mixja qasira** madwar il-blokk, f’park jew f’ċentru tal-ġonna, b’pass bil-mod u post fejn tqgħod.
+- **Toqgħod barra** fuq bankun jew bankun tal-bitħa biex tisma’ l-għasafar u tħoss ir-riħ. Din hija attività sħiħa fiha nnifisha.
+- **Żur ġnien pubbliku** f’ħin kwiet tal-ġurnata. L-NHS jgħid li xi postijiet għandhom ġonna sensorji b’pjanti li jagħtu riħa, teksturi u karatteristiċi tal-ilma.
+- **Tagħlef il-papri jew ħares lejn l-għasafar** f’għadira lokali, filwaqt li tibqa’ f’distanza sikura mill-ilma.
 
-## How do I make a garden easier to use?
+## Kif nagħmel il-ġnien aktar faċli biex jintuża?
 
-Bring the garden up to the person, not the other way around.
+Ġib il-ġnien lejn il-persuna, mhux bil-maqlub.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Bedgħat mgħollija jew kontenituri għoljin** madwar livell tal-ħsara, sabiex ma jkunx hemm għoda jew tbaqbiq.
+- **Kontenituri fuq mejda** jaħdmu għal nies li jużaw siġġu tar-roti jew li jippreferu joqogħdu bilqiegħda.
+- **Triq wiesgħa u ċatta** mingħajr ġebel mhux imwaħħal jew ħoses mimdudin fuqha, għax jgħinu jnaqqsu r-riskju ta’ waqgħat.
+- **Siġġijiet b’idejn u dell** tul it-triq, sabiex il-mistrieħ ikun dejjem opzjoni.
+- **Għodod b’maniġi ħoxnin u rqaq** li jinqabdu faċilment. Oħroġ minn pruners, kultelli u kull ħaġa qorrieqa.
+- **Żona mdawra b’sur u bieb b’lokk** fejn il-persuna tista’ tesplora liberament waqt li int tkun qrib.
 
-## Which plants should I avoid?
+## Liema pjanti għandi nevita?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Agħżel pjanti li huma sikuri biex tmissha u, idealment, sikuri jekk tittiehed fi bokka. L-AFA jagħti parir biex tuża pjanti li ġeneralment ma jirritawx il-ġilda, tiċċekkja għal allerġiji, u tara sew lil min jista’ jaħseb li t-trab huwa ikel. Il-parir tan-NIA dwar is-sikurezza fid-dar jinkludi li tneħħi jew tagħlaq pjanti velenużi.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Evita r-rużi xewkin, il-kaktus u pjanti bil-meraq li jirrita l-ġilda.
+- Iċċekkja kull pjanta li m’intix ċert minnha ma’ ċentru tal-kontroll tal-velenu jew ma’ ċentru lokali tal-ġonna qabel ma tħawwel.
+- Il-favoriti familjari jistgħu jġibu lura sensazzjonijiet pjaċevoli. L-AFA isemmi r-rużi u l-kaktus tal-Milied bħala eżempji. Agħżel varjetajiet bla xewk.
+- Żomm il-fertilizzanti, il-pestiċidi u l-prodotti biex jinqerdu l-ħaxix ħażin imsakkra, u tużahomx f’postijiet li l-persuna tista’ tilħaq.
 
-## How do I stay safe in the heat and sun?
+## Kif nibqa’ sikur fis-sħana u x-xemx?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Ippjana l-ħin barra skont it-temp. In-NIA jispjega li l-anzjani għandhom riskju akbar ta’ [mard relatat mas-sħana](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), parzjalment għax il-ġisem jadatta ftit aktar bil-mod għal bidliet fit-temperatura u xi mediċini jaffettwaw kif il-ġisem jimmaniġġja s-sħana.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Oħroġ kmieni jew tard.** Evita n-nofs tal-ġurnata f’xhur sħan. Iċċekkja l-indiċi tas-sħana, mhux biss it-temperatura.
+- **Offri ilma spiss.** Tistennax li l-persuna tgħid li għandha l-għatx. Evita alkoħol u xorb bil-kafeina fis-sħana.
+- **Ilbes għas-sħana.** Ħwejjeġ ħfief, ċari fil-kulur u miftuħa, kappell b’ġwienaħ wesgħin u nuċċali tax-xemx.
+- **Uża krema tax-xemx.** In-NIA jirrakkomanda SPF 15 jew aktar, b’kopertura wiesgħa, imterġa’ tiġi applikata matul il-ġurnata.
+- **Agħżel id-dell.** Poġġi l-mejda tal-vażijiet taħt siġra jew umbrella.
+- **Żommha qasira.** Ftit minuti barra jistgħu jkunu biżżejjed, speċjalment f’jiem sħan.
+- **Oqgħod attent għal sinjali ta’ twissija.** In-NIA jelenka uġigħ ta’ ras, konfużjoni, tħaddid jew dardir bħala sinjali possibbli ta’ mard relatat mas-sħana. Persuna bid-dimenzja tista’ ma tgħidlekx li tħossha morda, allura oqgħod attent għall-wiċċ u l-imġiba tagħha. Mur ġewwa, ibred bl-ilma u drapp kiesaħ, u fittex għajnuna medika jekk ma titjibx malajr. Kolp tas-sħana, b’sinjali bħal għaxi, konfużjoni jew ġilda niexfa u mħamrra, huwa emerġenza medika: ċempel in-numru tal-emerġenzi lokali tiegħek.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Il-kesħa tal-ġurnata tgħodd ukoll. Fix-xitwa, żomm il-ħin barra qasir u żgura li l-idejn u s-saqajn jibqgħu sħan u niexfa.
 
-## How do I handle wandering when we go outside?
+## Kif nieħu ħsieb il-mixi bla skop meta noħorġu barra?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Oqgħod mal-persuna kull meta tkun barra. L-Alzheimer’s Association jgħid li [sitt minn kull għaxra nies li qed jgħixu bid-dimenzja](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) se jimxu bla skop mill-inqas darba, u ħafna jagħmlu dan aktar minn darba. Jista’ jiġri f’kull stadju.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Il-parir tan-NIA dwar [mixi bla skop u titlef](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) jinkludi:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Żgura li l-persuna tilbes brazzlett ta’ ID jew mediku bl-isem, l-indirizz u n-numru tat-telefon tiegħek, jew ikkettja l-ħwejjeġ tagħha.
+- Żomm ritratt jew vidjo reċenti tal-persuna.
+- Ħalli l-ġirien jafu li l-persuna tista’ timxi bla skop.
+- Issekura l-bitħa b’sur u bieb b’lokk.
+- Tħallihiex waħedha persuna b’storja ta’ mixi bla skop.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+L-Alzheimer’s Association jissuġġerixxi wkoll li toħloq żoni ġewwa u barra li jistgħu jiġu esplorati b’mod sikur, u li tippjana attivitajiet għall-ħin tal-ġurnata meta l-inkwiet huwa l-aktar probabbli. Mixja f’ġnien magħluq u sikur tista’ tkun tajba għall-inkwiet tal-aħħar tal-ġurnata. Ara l-gwida tagħna dwar [l-inkwiet tal-aħħar tal-ġurnata](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Jekk il-persuna titlef, fittex f’postijiet sikuri qrib filwaqt li tikkuntattja l-pulizija lokali jew is-servizzi tal-emerġenza minnufih. Tistennax għal numru fiss ta’ minuti qabel tirrapporta. [Artikolu tal-2021 f’ġurnal tad-Dipartiment tal-Ġustizzja tal-Istati Uniti dwar investigazzjonijiet ta’ persuni mitlufa](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) jgħid li l-aġenziji tal-liġi m’għandhomx jitolbu perjodu fiss ta’ stennija, u jelenka sintomi simili għad-dimenzja bħala tħassib ta’ riskju għoli. Il-proċeduri lokali tar-rappurtar jvarjaw. Aqsam meta u fejn l-aħħar darba rawha, x’kienet tilbes u ritratt reċenti. Segwi d-direzzjonijiet tar-responsabbli lokali; tfittex f’postijiet perikolużi waħdek.
 
-## How do I adapt gardening as things change?
+## Kif naddatta l-ġardinaġġ hekk kif jinbidlu l-affarijiet?
 
-| If this has become hard | Try this instead |
+| Jekk dan sar iebes | Ipprova minflok |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Tqegħid ta’ bedda sħiħa | Tqegħid ta’ żerriegħa waħda f’vażun wieħed |
+| Tneħħija tal-ħaxix ħażin (tgħaraf il-ħaxix mill-pjanti) | Tisqija, jew qtugħ ta’ fjuri mietu ċari |
+| Mixi madwar il-ġnien | Joqgħod bilqiegħda f’mejda b’tabella tat-trab u pjanta |
+| Toħroġ barra xejn | Vażun tal-ħwawar fuq il-mejda tal-kuċina, jew siġġu ħdejn tieqa miftuħa |
+| Kwalunkwe xogħol | Oqgħod barra flimkien, tisma’ u tħares |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Xi nies jippreferu li jħarsu lilek taħdem. In-NIA jgħid li li tħalli lill-persuna sempliċiment tħares huwa tajjeb jekk dak hu li tgawdi.
 
-## When should we head inside?
+## Meta għandna nidħlu ġewwa?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Idħol meta l-persuna tidher għajjenija, sħuna, kiesħa, mħawda jew lesta li tispiċċa. Għaxar minuti qosra u pjaċevoli huma aħjar minn filgħodu twil li jispiċċa bi nkwiet. Li tieqaf kmieni huwa riżultat tajjeb.
 
-## Bring the garden indoors on screen
+## Ġib il-ġnien ġewwa fuq l-iskrin
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Meta jkun hemm xita, [Sort Together](/games/sort-together/) għandha basket tal-ġnien għall-qsim tar-ritratti, u [Conversation Cards](/games/conversation-cards/) fihom mistoqsijiet miftuħa li jistgħu jwasslu għal stejjer tal-ġnien. Jekk tidħol mis-sħana bi stress, [Calm Breathing](/games/calm-breathing/) joffri waqfa bil-mod u kwieta li tistgħu tqsmu flimkien. Għal aktar ideat imsejsa fuq il-mess, ir-riħa u l-ħoss, ara l-[gwida tagħna dwar attivitajiet sensorji](/activities/sensory/).

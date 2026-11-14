@@ -1,33 +1,28 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Периодично постење и деменција: што велат истражувањата"
+seoTitle: "Периодично постење и деменција: што велат истражувањата"
+description: "Докажувањата од луѓе за периодичното постење и деменцијата се ограничени и рани. Дознајте ги ризиците за постарите возрасни и зошто јадењето доволно е поважно кај деменцијата."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Нема добри докази дека периодичното постење спречува или успорува деменција. Голем дел од истражувањата се направени на животни, а студиите кај постарите возрасни се мали и кратки. Постењето може да биде ризично за постарите возрасни: губење тежина и мускули, низок шеќер во крвта кај некои лекови за дијабетес, дехидратација и паѓања. За луѓето што живеат со деменција, јадењето и пиењето доволно обично е поголема грижа. Прво разговарајте со лекар.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Националниот институт за стареење вели дека нема доволно докази за препорака за која било дијета со постење или намалување на калориите, особено за постарите возрасни."
+  - "Голем дел од истражувањата за постењето и стареењето се направени на животни, а тие резултати не мора да важат и за луѓето."
+  - "Можни ризици за постарите возрасни се ненамерно губење тежина, губење мускули, низок шеќер во крвта кај некои лекови за дијабетес, дехидратација, вртоглавица и паѓања."
+  - "Луѓето што живеат со деменција често заборават да јадат или да пијат, или мислат дека веќе јаделе. Помагањето да јадат и да пијат доволно обично е многу поважно од тоа кога јадат."
+  - "Не користете постење за некој што живее со деменција. Разговарајте со лекар или регистриран диететичар пред која било промена во начинот на јадење."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Дали периодичното постење спречува Алцхајмерова болест?"
+    a: "Нема добри докази дека тоа го прави. Голем дел од истражувањата се направени на животни, а испитувањата кај луѓе главно биле кратки, со помлади или дебели возрасни, и фокусирани на губење тежина. Националниот институт за стареење вели дека нема доволно докази за препорака на дијети со постење за јавноста."
+  - q: "Дали периодичното постење е безбедно за постарите возрасни?"
+    a: "Можеби не е. Постењето може да доведе до ненамерно губење тежина и мускули, дехидратација, вртоглавица и паѓања, и може да предизвика опасно низок шеќер во крвта кај луѓе што земаат инсулин или некои други лекови за дијабетес. Клиниката Мејо забележува дека можеби не одговара на луѓе со висок ризик од губење коскена маса и паѓања. Разговарајте со лекар пред да пробате."
+  - q: "Треба ли некој со деменција да пробува постење?"
+    a: "Не. Луѓето што живеат со деменција често имаат тешкотии да јадат и пијат доволно, а лошата исхрана може да ги зголеми однесувачките симптоми и да предизвика губење тежина. Постењето додава ризик без докажана корист. Наместо тоа, фокусирајте се на редовни оброци, грицки што ги сакаат и доволно пијалоци."
+  - q: "Кои се знаци дека некој со деменција не јаде или не пие доволно?"
+    a: "Внимавајте на губење тежина, облека што станува полабава, замор, слабост, констипација или одбивање храна. Знаците на дехидратација што ги наведува Националниот институт за стареење вклучуваат сува уста, вртоглавица, брз пулс и халуцинации. Кажете му на нивниот лекар ако ги забележите овие знаци."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +50,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Периодичното постење, на пример јадење само во прозорец од осум часа или драстично намалување на калориите два дена неделно, привлекува голема пажња, а некои написи сугерираат дека може да го заштити мозокот. Ако сте постар возрасен, или се грижите за некој што живее со деменција, еве што всушност покажуваат истражувањата и зошто е важна претпазливоста.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ова е општа информација, а не медицински совет. Не започнувајте постење и не менувајте го начинот на јадење на некој за кого се грижите без разговор со лекар или регистриран диететичар. Видете ја нашата [медицинска напомена](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Дали периодичното постење спречува деменција?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Нема добри докази дека периодичното постење спречува или успорува деменција. Националниот институт за стареење (NIA) вели дека нема доволно докази за препорака за кој било вид дијета со намалување на калориите или постење и дека треба да се дознае многу повеќе за нивната ефикасност и безбедност, особено кај постарите возрасни ([NIA за намалувањето на калориите и постењето](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Зошто докажувањата се толку ограничени
 
-The NIA gives several reasons:
+NIA дава неколку причини:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Повеќето студии се направени на животни.** Истражувањата кај црви, мушички, глувци и мајмуни дале интересни резултати, но овие наоди не мора да важат за луѓето. Дури и кај животните резултатите се мешани: кај некои соеви глувци, намалувањето на калориите го скратило животот.
+- **Испитувањата кај луѓе се кратки.** Повеќето траеле неколку недели или месеци.
+- **Повеќето испитувања кај луѓе се фокусирани на губење тежина** кај дебели возрасни, а не на меморијата или деменцијата.
+- **Постарите возрасни ретко се вклучени.** Многу испитувања регрутирале луѓе на возраст од 60 години или помлади.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Систематски преглед од 2026 година специјално ги разгледа периодичното постење кај возрасни на 60 и повеќе години. Најде дека докажувањата за оваа возрасна група остануваат ограничени, со мали студии, кратко следење и мешани дизајни. Наодите за размислувањето и меморијата доаѓаа од поединечни студии, а не од здружени резултати од испитувања. Прегледот исто така забележа дека некои студии ги поврзале многу кратките периоди на јадење или долгите постења со полоши исходи, а авторите повикаа на претпазливост кај постарите возрасни ([преглед од 2026 година во Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Некои истражувачи мислат дека преминот на телото кон согорување масти за време на постењето може да влијае на мозокот, но ова е сѐ уште теорија што се проучува. NIA забележува дека науката е неизвесна.
 
-## What are the risks of fasting for older adults?
+## Какви се ризиците од постење за постарите возрасни?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+За многу постари луѓе, постењето не е безопасен експеримент. Можните ризици вклучуваат:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Ненамерно губење тежина.** Јадењето помалку отколку што му треба на телото може да доведе до губење тежина и помалку мускулна сила, што може да ја направи личноста кршлива.
+- **Губење мускули и коски.** Во двогодишно испитување на намалување на калориите, поддржано од NIA, кај млади и средно стари возрасни, учесниците имале мали намалувања на коскената густина и на постната телесна маса.
+- **Низок шеќер во крвта кај лековите за дијабетес.** Луѓето што земаат инсулин или некои други лекови за дијабетес можат шеќерот во крвта да им падне премногу ниско ако прескокнат или одложат оброци, според [Националниот институт за дијабетес и дигестивни и бубрежни болести](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Низокиот шеќер во крвта може да предизвика вртоглавица, конфузија и раздразливост.
+- **Дехидратација.** Ако се прескокнуваат пијалоци заедно со оброците, личноста може да се дехидрира.
+- **Вртоглавица и паѓања.** Клиниката Мејо забележува дека периодичното постење може да предизвика луѓе да се чувствуваат многу уморни и вртоглаво, и дека можеби не е здрав начин за луѓе со висок ризик од губење коскена маса и паѓања ([Клиниката Мејо за периодичното постење](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Други ефекти.** Клиниката Мејо исто така наведува главоболки, промени во расположението и констипација, и забележува дека некои докази сугерираат дека постот од 16 часа со прозорец за јадење од 8 часа може да го зголеми ризикот од срцеви заболувања во споредба со другите прозорци за јадење. Тие докази не се конечни.
 
-## Why is eating enough the bigger concern with dementia?
+## Зошто јадењето доволно е поголема грижа кај деменцијата?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+За луѓето што живеат со деменција, вообичаениот проблем е да се добие **доволно** храна и пијалок, а не премногу. Алцхајмеровата асоцијација објаснува дека луѓето во средната и подоцнежната фаза можат да се почувствуваат преплавени од изборите на храна, да заборават да јадат или да мислат дека веќе јаделе. Таа додава дека лошата исхрана може да ги зголеми однесувачките симптоми и да предизвика губење тежина ([Алцхајмеровата асоцијација за храната и јадењето](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Алцхајмеровото друштво забележува дека недоволното јадење може да доведе до губење тежина, помалку мускулна сила, замор и слабост, што ја прави личноста кршлива и помалку способна да се опорави од инфекции ([Алцхајмеровото друштво за апетитот](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Од овие причини, постењето не е добра идеја за некој што живее со деменција.** Прескокнатите оброци лесно може да станат пропуштени оброци. Која било промена во начинот на јадење на личност со деменција треба да ја води нејзиниот лекар или регистриран диететичар.
 
-## What are the warning signs of poor eating or drinking?
+## Кои се знаците на предупредување за лошо јадење или пиење?
 
-Watch for:
+Внимавајте на:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Губење тежина**, или облека што се вклопува полабаво.
+- **Оставање храна или одбивање оброци**, или држење храна во устата.
+- **Замор или слабост.**
+- **Констипација**, што може да биде поврзана со исхраната и дехидратацијата.
+- **Знаци на дехидратација.** NIA ги наведува сува уста, вртоглавица, брз пулс и халуцинации, кои може да ги предизвика и самата деменција ([NIA за чести медицински проблеми](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Слабиот апетит има многу можни причини: болни заби или лабави протези, нови лекови, депресија, констипација, помалку активност или промени во вкусот и мирисот. Кажете му на лекарот на личноста за секој од овие знаци. Тие можат да бараат причина и можат да предложат диететичар или додатоци.
 
-## How can you help someone eat and drink enough?
+## Како можете да помогнете некој да јаде и пие доволно?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Нудете мали оброци и грицки почесто**, наместо три големи оброци.
+- **Послужувајте омилена храна**, и бидете флексибилни кога вкусот се менува. Слатките работи може да бидат добредојдени ако апетитот е низок; прашајте го лекарот дали има здравствени причини да се ограничи шеќерот.
+- **Држете пијалоци на дофат** и нудете мали чаши во текот на денот. Супите, овошјето, смути и милкшејковите исто се сметаат.
+- **Јадете заедно** кога можете. Оброците се прилика за друштво, а не задача што треба да се брза.
+- **Пробајте храна за прсти**, како сендвичи, парчиња овошје или парчиња пилешко, ако прибор е станал тежок.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Нашиот [водич за исхрана](/brain-health/diet/) има повеќе идеи за оброците. Помагањето при подготовката на храната исто така може да биде пријатна заедничка активност; видете [домашни задачи](/activities/household-tasks/).
 
-## Talk with a doctor
+## Разговор со лекар
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Пред да пробате кој било план за постење сами, разговарајте со вашиот лекар или регистриран диететичар, особено ако земате лекови за дијабетес или крвен притисок, неодамна сте изгубиле тежина или сте имале паѓања. За некој што живее со деменција, прашајте го неговиот лекар колку треба да јаде и пие дневно, наместо за постење.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Побарајте итна медицинска помош за ненадејна конфузија, несвестица или знаци на многу низок шеќер во крвта што не се подобруваат брзо.

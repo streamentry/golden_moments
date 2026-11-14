@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "געהער־פֿאַרלוסט און ריזיקע פֿאַר דעמענץ: װאָס די פֿאָרשונג װײַזט"
+seoTitle: "געהער־פֿאַרלוסט און דעמענץ: װאָס די פֿאָרשונג װײַזט"
+description: "פֿאַרװאָס געהער־פֿאַרלוסט איז אַ הױפּט ריזיקע־פֿאַקטאָר פֿאַר דעמענץ, װאָס דער גרױסער פּרוּװ ACHIEVE האָט געפֿונען, און װי מען לאָזט בדיקן דאָס געהער און גרינגער רעדן."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  די 2024 לאַנסעט־קאָמיסיע צײלט געהער־פֿאַרלוסט צו די גרעסטע ענדערבאַרע ריזיקע־פֿאַקטאָרן פֿאַר דעמענץ. אין דעם פּרוּװ ACHIEVE האָבן געהער־אַפּאַראַטן אין גאַנצן נישט אָפּגעהאַלטן דעם פֿאַרלוסט פֿון דענקען, כאָטש אַ העכער־ריזיקע גרופּע האָט זיך בעסער געהאַלטן. געהער־אַפּאַראַטן העלפֿן בײַם שמועסן און אין טאָגליכן לעבן אַזױ אָדער אַזױ. לאָזט דאָס געהער בדיקן, דענקט װעגן אָװער־דעם־קאָונטער אַפּאַראַטן, און רעדט מיט אַ דאָקטער.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "די לאַנסעט־קאָמיסיע שאַצט אַז געהער־פֿאַרלוסט טרעפֿט אַרום 7% פֿון דעמענץ אױף דער װעלט, און דאָס איז דער גרעסטער טייל פֿון די 14 פֿאַקטאָרן."
+  - "אין דעם פּרוּװ ACHIEVE מיט 977 עלטערע מענטשן האָבן געהער־אַפּאַראַטן נישט געענדערט דעם דרײַ־יאָריקן פֿאַרלוסט פֿון דענקען אין גאַנצן."
+  - "אין אַ קלענערער, העכער־ריזיקע גרופּע אין ACHIEVE איז דער פֿאַרלוסט געװען 48% לאַנגזאַמער מיט געהער־אַפּאַראַטן; דאָס דאַרף באַשטעטיקט װערן."
+  - "זינט אקטאָבער 17, 2022 קענען דערװאַקסענע מיט מילדן ביז מיטלשטאַרקן געהער־פֿאַרלוסט קױפֿן OTC געהער־אַפּאַראַטן אָן רעצעפּט."
+  - "פֿאַרלוסט פֿון זעונג װאָס איז נישט באַהאַנדלט איז אין 2024 צוגעלײגט געװאָרן ווי אַ ריזיקע־פֿאַקטאָר פֿאַר דעמענץ, דעריבער זענען אױגן־בדיקות אױך װיכטיק."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "פֿאַרהיטן געהער־אַפּאַראַטן דעמענץ?"
+    a: "דאָס איז נאָך נישט באַװיזן. דער פּרוּװ ACHIEVE האָט נישט געפֿונען קײן גאַנצן אײַנפֿלוס אויף דעם פֿאַרלוסט פֿון דענקען אין דרײַ יאָר, כאָטש איינע העכער־ריזיקע גרופּע האָט זיך בעסער געהאַלטן. געהער־אַפּאַראַטן זענען נאָך אַלץ װערט צו באַטראַכטן, װײַל זײ מאַכן שמועסן, זיכערקײט און טאָגליך לעבן גרינגער."
+  - q: "װער קען קױפֿן OTC געהער־אַפּאַראַטן?"
+    a: "די אַמעריקאַנישע פֿוד־און־דרוג־אַדמיניסטראַציע (FDA) לאָזט דערװאַקסענע פֿון 18 יאָר און עלטער װאָס האָבן מילדן ביז מיטלשטאַרקן געהער־פֿאַרלוסט, װי זײ פֿילן עס, קױפֿן געהער־אַפּאַראַטן אין געשעפֿטן אָדער אָנליין, אָן אונטערזוך אָדער רעצעפּט. זײ זענען נישט פֿאַר שטאַרקן אָדער טיפֿן פֿאַרלוסט. װער עס האָט װײטאָג אָדער פֿליסיק פֿון אױער, שװינדל, אָדער פּלוצעמדיקע ענדערונגען אין געהער, זאָל פֿריִער זען אַ דאָקטער."
+  - q: "קען געהער־פֿאַרלוסט אױסזען װי דעמענץ?"
+    a: "יאָ, מאָל. דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער (NIA) שרײַבט אַז עלטערע מענטשן װאָס הערן נישט גוט װערן מאָל פֿאַלש געהאַלטן פֿאַר פֿאַרװירדעװעטע אָדער נישט־קאָאָפּעראַטיװ. אַ געהער־בדיקה איז אַ פֿאַרנונפֿטיקער שריט, װען עמעץ װיטהאַלט זיך אָדער פֿעלט אים װאָס מע זאָגט."
+  - q: "װי אָפֿט זאָלן עלטערע מענטשן לאָזן זיך בדיקן די אױגן?"
+    a: "דער NIA רעקאָמענדירט אַ דילאַטירטע אױגן־אונטערזוך יעדעס יאָר אָדער צװײ נאָך דעם 60סטן יאָר, אָדער װי אײַער אױגן־פֿאַכמאַן רעקאָמענדירט. מענטשן מיט צוקערקרענק אָדער הויכן בלוטדרוק דאַרפֿן מערסטנס אַ אונטערזוך מינדסטנס איין מאָל אין יאָר."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+געהער־פֿאַרלוסט איז געװײנלעך אין שפּעטערע יאָרן, און פֿאָרשער נעמען עס גאָר ערנסט ווי אַ ריזיקע־פֿאַקטאָר פֿאַר דעמענץ. דאָס מאַכט אָבער געהער־אַפּאַראַטן נישט צו אַ באַװיזענעם װעג צו פֿאַרהיטן דעמענץ; דער בעסטער פּרוּװ ביז הײַנט האָט געמישטע רעזולטאַטן. דער בלאַט דערקלערט װאָס די פֿאָרשונג װײַזט, װי מע לאָזט בדיקן דאָס געהער, װאָס די אָװער־דעם־קאָונטער אַפּאַראַטן זענען, און װי מען קען גרינגער רעדן.
 
-## Why does hearing matter for brain health?
+## פֿאַרװאָס איז געהער װיכטיק פֿאַר מוח־געזונט?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+געהער־פֿאַרלוסט איז פֿאַרבונדן מיט אַ העכער ריזיקע פֿון דעמענץ. די [2024 לאַנסעט־קאָמיסיע](https://doi.org/10.1016/S0140-6736(24)01296-0) שאַצט אַז עס טרעפֿט אַרום 7% פֿון דעמענץ אױף דער װעלט. לױט [דער זאַמענפֿאַסונג פֿון דעם באַריכט פֿון UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) איז דאָס געלײַך מיט הױכן כאָלעסטערין (LDL) דער גרעסטער טייל צװישן די 14 ענדערבאַרע ריזיקע־פֿאַקטאָרן אין מאָדעל פֿון דער קאָמיסיע.
 
-Key findings from the Commission:
+װאָס די קאָמיסיע האָט געפֿונען:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **העכער ריזיקע מיט געהער־פֿאַרלוסט.** אין דער צונױפֿגענומענער אַנאַליז פֿון זעקס הויך־קוואַליטעטיקע שטודיעס, האָבן מענטשן מיט געהער־פֿאַרלוסט געהאַט אַרום 37% העכערע ריזיקע פֿון דעמענץ װי מענטשן מיט נאָרמאַלן געהער.
+- **מער פֿאַרלוסט, מער ריזיקע.** שטודיעס װאָס האָבן געקוקט אױף דער שװערקײט האָבן געפֿונען, אַז די ריזיקע װאַקסט װען דאָס געהער װערט שלעכטער.
+- **מעגלעכע סיבות, נאָך נישט באַװיזן.** צו זײ געהערן איינזאַמקײט און צוריקציִען זיך, דעפּרעסיע, װייניקער שטרײַכן פֿאַר דעם מוח, און די אַנסטרענגונג װאָס צוהערן פֿאָדערט.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+געהער־פֿאַרלוסט איז געװײנלעך. לױט [דעם נאַציאָנאַלן אינסטיטוט פֿאַר עלטער (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) האָבן אַרום אײן דריטל פֿון עלטערע מענטשן עס, און די מעגלעכקײט שטײַגט מיט דעם עלטער.
 
-## What did the ACHIEVE hearing aid trial find?
+## װאָס האָט דער פּרוּװ ACHIEVE געפֿונען?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE איז געװען דער ערשטער רענדאָמיזירטער פּרוּװ פֿון געהער־אַפּאַראַטן און קאָגניטיװן פֿאַרלוסט. זײַנע רעזולטאַטן װערן אָפֿט פֿאַלש באַשריבן, דעריבער דאָ זענען די פּרטים פֿון [דעם אָנגעמאַכטן באַריכט](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **װער האָט גענומען טייל:** 977 דערװאַקסענע צװישן 70 און 84 יאָר מיט נישט־באַהאַנדלטן געהער־פֿאַרלוסט און אָן װעזנטלעכע פּראָבלעמען מיט דענקען, אין פֿיר אַמעריקאַנישע קהילה־צענטערן.
+- **װאָס מע האָט פֿאַרגליכן:** די האַלבע האָט באַקומען געהער־אַפּאַראַטן פּלוס באַראַטונגען מיט אַן אַודיאָלאָג. די אַנדערע האַלבע האָט באַקומען אַ געזונטהייט־אויסבילדונג װעגן געזונטן עלטער.
+- **הויפּט רעזולטאַט:** נאָך דרײַ יאָר איז געװען **קײן חילוק** אין קאָגניטיװן פֿאַרלוסט צװישן די צװײ גרופּעס אין גאַנצן.
+- **אונטערגרופּע רעזולטאַט:** דער פּרוּװ האָט זיך געשפּײַזט פֿון צװײ מקורים. 238 מענטשן זענען געקומען פֿון אַ לאַנגזאַמער האַרץ־געזונט שטודיע (ARIC), און אין דער גרופּע זענען זײ געװען העכער־ריזיקע פֿון קאָגניטיװן פֿאַרלוסט. אין דער גרופּע איז דער פֿאַרלוסט געװען **48% לאַנגזאַמער** מיט געהער־אַפּאַראַטן. צװישן די 739 געזונטע פֿרײַװיליקע פֿון דער קהילה איז געװען קײן קלאָרער אײַנפֿלוס.
 
-How to read this honestly:
+װי צו לײענען דאָס אױפֿריכטיק:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- דער אַלגעמיינער ענטפֿער איז געװען: קײן אײַנפֿלוס.
+- די אונטערגרופּע־פֿינדונג איז געװען פֿאָרגעפּלאַנט, אָבער זי קומט פֿון אַ צװײטדיקער אַנאַליז פֿון אַ קלענערער גרופּע. זי דאַרף באַשטעטיקט װערן אין אַנדערע שטודיעס.
+- די טיילנעמער האָבן געװוסט װאָס פֿאַר אַ פּראָגראַם זײ זענען אין, װאָס קען האָבן אַן אײַנפֿלוס אויף די רעזולטאַטן.
+- די לאַנסעט־קאָמיסיע לײענט די פֿאָרשונג אַזױ, אַז געהער־אַפּאַראַטן ווײַזן זיך באַזונדערס העלפֿן פֿאַר מענטשן װאָס האָבן געהער־פֿאַרלוסט צוזאַמען מיט אַנדערע ריזיקע־פֿאַקטאָרן פֿאַר דעמענץ.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+דער אונטערשטער שורה איז: געהער־אַפּאַראַטן זענען נישט אַ באַװיזענער װעג צו פֿאַרהיטן דעמענץ. זײ העלפֿן אָבער מענטשן צו הערן, צו נעמען טייל אין שמועסן און צו בלײַבן פֿאַרבונדן, און דאָס איז גענוג אַ סיבה צו באַטראַכטן זײ.
 
-## How do I know if hearing should be checked?
+## װי װײסט מען צי מע דאַרף בדיקן דאָס געהער?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+דער NIA רעקאָמענדירט צו זען אַ דאָקטער, אױב איר אָדער עמעצער װאָס איר פֿאַרזאָרגט:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- האָט שװער צו פֿאַרשטײן מענטשן אױפֿן טעלעפֿאָן
+- פֿאַרשטײט שװער שמועסן װען צװײ אָדער מער מענטשן רעדן
+- פֿרעגט אָפֿט אַז מען זאָל װידערהאָלן
+- דרײט די טעלעװיזיע אַזױ לאַוד, אַז אַנדערע באַקלאָגן זיך
+- האָט שװער צו פֿאַרשטײן רעדן װען עס איז הינטערגרונד־געראַש
+- מײנט אַז מענטשן רעדן מומלען
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+הײבט אָן מיט אַ פּרימאַרי־קעיר דאָקטער, װאָס קען אײַך איבערשיקן צו אַן אַודיאָלאָג (אַ געהער־שפּעציאַליסט) אָדער צו אַ דאָקטער פֿאַר אױער, נאָז און האַלדז. אָנזאַמלונג פֿון אױערװאַקס איז איינע פֿון די געװײנלעכסטע סיבות פֿון געהער־פֿאַרלוסט, און אַ דאָקטער קען עס קאָנטראָלירן. **פּלוצעמדיקער געהער־פֿאַרלוסט איז אַ מעדיצינישער נויטפֿאַל**, און דער NIA רעקאָמענדירט צו זען אַ דאָקטער גלײַך.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+עלטערע מענטשן װאָס קענען נישט גוט הערן, װערן מאָל פֿאַלש געהאַלטן פֿאַר פֿאַרװירדעװעטע, נישט־רעאַגירנדיקע אָדער נישט־קאָאָפּעראַטיװ. אַז עמעץ װאָס איר האָט ליב װירקט צוריקגעצױגן אָדער פֿעלט אים װאָס מע זאָגט, איז אַ געהער־בדיקה אַ גוטער ערשטער שריט.
 
-## What are over-the-counter hearing aids?
+## װאָס זענען אָװער־דעם־קאָונטער (OTC) געהער־אַפּאַראַטן?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+זינט אקטאָבער 17, 2022 האָט די [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) דערלױבט אַ קאַטעגאָריע פֿון אָװער־דעם־קאָונטער (OTC) געהער־אַפּאַראַטן. דאָ איז אַ פֿאַרגלײַך מיט רעצעפּט־געהער־אַפּאַראַטן:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| פֿעטשער | OTC אָן רעצעפּט | מיט רעצעפּט |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| פֿאַר װעמען זײ זענען | דערװאַקסענע פֿון 18 יאָר און עלטער מיט מילדן ביז מיטלשטאַרקן געהער־פֿאַרלוסט, װי זײ פֿילן עס | יעדער גראַד פֿון געהער־פֿאַרלוסט, יעדן עלטער |
+| װוּ מע קריגט זײ | אין געשעפֿטן אָדער אָנליין, אָן אונטערזוך אָדער רעצעפּט | דורך אַ לײסענסירטן געהער־פֿאַכמאַן |
+| אײַנשטעלן | איר שטעלט די אײַנשטעלונגען אַלײן, אָפֿט מיט אַ טעלעפֿאָן־אַפּלײקאַציע | אַ פֿאַכמאַן פּראָגראַמירט זײ פֿאַר אײַער געהער |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+די FDA זאָגט אַז OTC אַפּאַראַטן זענען נישט פֿאַר שװערן אָדער טיפֿן געהער־פֿאַרלוסט. זי רעקאָמענדירט צו זען אַ דאָקטער, בעסטנס אַ אויער־, נאָז־ און האַלדז־שפּעציאַליסט, פֿאַר איר קױפֿט, אויב איר האָט:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- װײטאָג אָדער אומבאַהאָלפֿנקײט אין אױער
+- פֿליסיק, אײַטער אָדער בלוט פֿון אױער אין די לעצטע זעקס חדשים
+- פּלוצעמדיקע אָדער װעקסלדיקע ענדערונגען אין געהער
+- שלעכטערע געהער אין איין אױער, אָדער קלינגען נאָר אין איין אױער
+- שװינדל אָדער װערטיגאָ
+- פֿיל אױערװאַקס
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+צו נוצן געהער־אַפּאַראַטן דאַרף מען זיך געװײנען, דעריבער קוקט אײַן די צוריקגעבן־פּאָליסי איידער איר קױפֿט, װי די FDA רעקאָמענדירט. דער NIA רעקאָמענדירט צו פֿרעגן צי אײַער פֿאַרזיכערונג דעקט אַ טייל פֿון די קאָסטן. פֿאַר עמעצן װאָס לעבט מיט דעמענץ, קען אַן אַודיאָלאָג העלפֿן באַשטימען װאָס פֿאַר אַ טיפּ אָדער אײַנשטעלונג װעט זײַן די גרינגסטע צו פֿירן יעדן טאָג.
 
-## How can I talk more easily with someone who has hearing loss?
+## װי קען איך גרינגער רעדן מיט עמעצן װאָס האָט געהער־פֿאַרלוסט?
 
-The NIA suggests:
+דער NIA רעקאָמענדירט:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **קוקט אױף דער מענטש און האַלט אױג־קאָנטאַקט**, אין גוטן ליכט, כּדי ער זאָל זען אײַערע ליפּן און פּנימער.
+2. **געפֿינט אַ שטילן אָרט.** שטעלט אָפּ דעם טעלעװיזאָר אָדער גײט אַװעק פֿון ראַש.
+3. **רעדט אַ ביסל הויכער, אָבער שרײַט נישט.** רעדט נאַטירלעך און אין אַ פֿאַרנונפֿטיקן טעמפּאָ.
+4. **האַלט דעם מױל אָפֿן.** עסט נישט, קײַעט נישט קײַע־גומע, און דעקט נישט דעם מױל בעת רעדן.
+5. **רעדט אַנדערש װי װידערהאָלן**, װען עפּעס װערט פֿאַרפֿעלט.
+6. **איינער אַ צײַט.** אין אַ גרופּע, מאַכט אַ פּונקט צו אַרײַנצופֿירן דעם מענטש.
+7. **זײַט געדולדיק און פֿרעגט װי איר קענט העלפֿן.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+די טיפּס אַרבעטן גוט צוזאַמען מיט אונדזערע [דעמענץ־קאָמוניקאַציע־טיפּס](/caregiving/communication-tips/). בילדער־טעטיקײטן נעמען אויך דרוק פֿון צוהערן. [בילדער־פּאָרלעך](/games/picture-pairs/) און [שמועס־קאַרטלעך](/games/conversation-cards/) אַרבעטן דורך װאָס מע זעט, און [פֿאַרענדיקן דאָס שפּריכוואָרט](/games/finish-the-saying/) לאָזט װײַזן דאָס ענדע אַנשטאָט עס צו זאָגן. פֿאַר רופֿן זע אונדזער גײד װעגן [טעלעפֿאָן־ און װידעאָ־רופֿן](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## זעונג איז אױך װיכטיק
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+אין 2024 האָט די לאַנסעט־קאָמיסיע צוגעלײגט נישט־באַהאַנדלטן זעונג־פֿאַרלוסט ווי אַ נײַע ריזיקע־פֿאַקטאָר. לױט UCL איז עס בערך 2% פֿון דעמענץ־פֿאַלן, און די קאָמיסיע רעקאָמענדירט צו מאַכן זעונג־בדיקות און באַהאַנדלונג צוגענגלעך פֿאַר אַלע. דער [NIA רעקאָמענדירט](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) אַ דילאַטירטע אױגן־אונטערזוך יעדעס יאָר אָדער צװײ נאָך 60, און צו בדיקן די בריל־רעצעפּטן אױך. אפֿילו קלײנע ענדערונגען אין זעונג קענען העכערן די ריזיקע פֿון פֿאַלן.
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+פֿרעגט אַ דאָקטער װעגן געהער־ און אױגן־בדיקות, אַז איר באַמערקט עפּעס פֿון די צײכנס אױבן. זוכט באַהאַנדלונג גלײַך פֿאַר פּלוצעמדיקן געהער־פֿאַרלוסט, װײטאָג אין אױער, אָדער פֿליסיק פֿון אױער. אױב איר זענט פֿאַרזאָרגט פֿאַר עמעצן װאָס לעבט מיט דעמענץ, זאָגט זײַן דאָקטער װעגן ענדערונגען אין געהער אָדער זעונג, װאָס קענען אַרײַנװירקן אויף שטימונג, זיכערקײט און װי גוט דער מענטש קען זיך אָנשליסן.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+דער בלאַט איז אַ אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. זעט [אונדזער מעדיצינישן אָפּזאָג](/medical-disclaimer/). לײענט מער װעגן [געזעלשאַפֿטלעכע פֿאַרבינדונג און מוח־געזונט](/brain-health/social-connection/).

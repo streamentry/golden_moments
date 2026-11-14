@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzle ho an’ny olona manana dementia: puzzle sary, teny ary an-tserasera malemy"
+seoTitle: "Puzzle ho an’ny dementia: puzzle sary sy teny"
+description: "Fomba hisafidianana puzzle sary, teny na an-tserasera ho an’ny olona manana dementia: habe ny ampahany, sary, fitambarana ary rehefa tokony hamora azy."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Ny puzzle tsara indrindra ho an’ny olona manana dementia dia ny iray izay azony
+  vitaina amin’ny fanampiana kely ary faly amin’ny dia. Safidio puzzle sary misy
+  ampahany vitsy sy lehibe kokoa ary sary mazava an’olona lehibe, tazomina eo
+  amin’ny fijerena ny sary eo amin’ny boaty, ary apetraho aloha ny ampahany
+  amin’ny sisiny. Ny teny-fitadiavana sy ny crossword dia mahomby amin’ny soratra
+  lehibe. Ny puzzle an-tserasera misy ampahany efatra mety amin’ny sehatra
+  antonony. Ajanony rehefa mbola mahafinaritra.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Safidio araka ny fomba nandehanan’ny hetsika, fa tsy araka ny anaran’ny sehatra: raha toa basy ny puzzle, andramo iray misy ampahany vitsy kokoa."
+  - "Ampahany lehibe sy matevina ary sary misy faritra loko mazava dia mora kokoa noho ampahany kely sy lanitra lehibe."
+  - "Ny sary an’olona lehibe no zava-dehibe: zaridaina, lakozia, fiara, biby, fa tsy katon-tantara."
+  - "Ny fanaovana miaraka no tanjona. Omeo ampahany, apetraho ny sisiny, ary tazomina eo amin’ny fijerena ny sary eo amin’ny boaty."
+  - "Puzzle teny lehibe soratra sy puzzle an-tserasera misy ampahany 4 na 9 dia maimaim-poana eto amin’ny tranonkala."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Ampahany firy no tsara ho an’ny olona manana dementia?"
+    a: "Tsy misy isa marina tokana. Olona izay nanao puzzle ampahany 1 000 taloha dia mety mbola mahafinaritra ny ampahany an-jatony aloha, fa ny sasany mahafinaritra indrindra amin’ny ampahany lehibe vitsy. Raha toa basy ny puzzle na mahatonga fahatezerana, miova amin’ny ampahany vitsy kokoa. Ny Puzzle sary an-tserasera nataonay dia misy ampahany 4 na 9."
+  - q: "Mety ve ny puzzle sary ho an’ny olona manana dementia?"
+    a: "Olona maro no mahafinaritra azy, indrindra raha tia puzzle izy taloha. Ny puzzle dia manome ny tanana zavatra hatao, tanjona mazava ary sary hiresahana momba azy. Tsy misy puzzle naseho fa mitsabo na miadana ny dementia, ka safidio izany ho fahafinaretana sy fiaraha-monina."
+  - q: "Inona no ataoko rehefa tsy afaka mampiasa puzzle sary intsony ny olona?"
+    a: "Ataovy kely kokoa ary ataovy bebe kokoa ianao: omeo ampahany iray isaky ny fotoana, na avelao ho azy ny ampahany farany vitsivitsy. Andramo puzzle an-tserasera misy ampahany 4, fandamina ampahany araka ny loko, na ny fijerena ny sary vita miaraka."
+  - q: "Mety ve ny crossword sy ny fitadiavana teny ho an’ny dementia?"
+    a: "Azo atao amin’ny sehatra voalohany, amin’ny soratra lehibe. Ny fitadiavana teny misy teny miseho eo amin’ny sakany sy ambany ihany dia mora kokoa noho ireo misy diagonal na teny miverina. Vakio mafy ny fanondroana na ny lisitra teny ary asaivo miaraka."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Puzzle sary nakarakarina tamin’ny latabatry ny lakozia dia iray amin’ny hetsika mora indrindra hizarana. Afaka mipetraka miaraka ianareo nefa tsy mila miresaka, ny sary dia manome zavatra hiresahana, ary mahafinaritra ny mametraka ny ampahany farany. Fa ny puzzle dia tokony hiova miaraka amin’ny fiovan’ny dementia. Puzzle sarotra loatra dia mety manova andro mangina ho andro mahasosotra. Ity pejy ity dia manazava ny fomba fisafidianana sy fametrahana puzzle sary, puzzle teny ary puzzle an-tserasera malemy, ary izay atao rehefa mihamafy izy.
 
-## Are puzzles good for people with dementia?
+## Mahasoa ve ny puzzle ho an’ny olona manana dementia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Olona maro no mahafinaritra azy, indrindra ireo izay nanao puzzle taloha. Ny [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) dia milaza ny fitadiavana teny, lalao karatra ary lalao an-tabilao ho anisan’ny hetsika ho an’ny sehatra voalohany, ary ny [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dia manondro lalao an-tserasera sy puzzle amin’ny tablet ho fomba iray hitazomana ny fifandraisana.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Tsy fitsaboana ny puzzle. Tsy misy puzzle naseho fa mampijanona na miadana ny dementia; ny [lalao atidoha sy dementia](/brain-health/brain-games/) dia manazava ny fikarohana. Ny antony hanaovana puzzle dia satria mety ho ora mafana sy mahasarotra miaraka. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dia mamintina izany: mifantohà amin’ny fahafinaretana, fa tsy amin’ny fahombiazana.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Ahoana no fomba hisafidianana puzzle sary ho an’ny olona manana dementia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Araka ny tian’ny olona sy ny nandehanan’ny puzzle farany no tadiavina, fa tsy araka ny anaran’ny sehatra.
 
-### Number of pieces
+### Isan’ny ampahany
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Tsy misy isa marina. Mety mbola mahafinaritra ny olona nanao puzzle mandritra ny androm-piainany ny ampahany an-jatony aloha, fa ny hafa mafy mahafinaritra amin’ny ampahany roa ambin’ny folo. Fitsipika azo ampiasaina: raha basy ny puzzle farany, safidio iray misy ampahany eo amin’ny antsasany. Raha haingana ny nahavitana ary nanana fitiavana bebe kokoa izy, mitombo kely.
 
-### Piece size and feel
+### Habe sy fahatsapan’ny ampahany
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Ampahany lehibe** dia mora hita, azo raisina ary azo tsoahina.
+- **Ampahany matevina sy matanjaka** mijanona ary tsy torotoro raha latsaka.
+- **Fanendrena matte** dia mampihena ny fanjarahana eo ambanin’ny jiro sy varavarankely.
+- **Aza mampiasa ampahany kely** raha mety hampidina ny olona zavatra eo am-bavany, izay mety hitranga any aoriana amin’ny dementia.
 
-### The picture
+### Ny sary
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Lohahevitra an’olona lehibe.** Zaridaina, lakozia, fiara taloha, biby fiompy, tanàna amoron-dranomasina, hetsika tiana. Aza katon-tantara na zavatra mitovy amin’ny fitaovan’ny ankizy.
+- **Faritra loko mazava samihafa.** Trano fiompy mena, sambo manga ary saha maitso dia mora kokoa noho lanitra izay mameno antsasak’ny puzzle.
+- **Mahazatra sy manokana.** Sary toerana nipetrahany na hobby tiany dia manome zavatra be hiresahana. Misy toeram-pamoahana mahay mampiova sary fianakaviana ho puzzle.
 
-## How do you do a puzzle together?
+## Ahoana no fomba hanaovana puzzle miaraka?
 
-Set it up so the person can get straight to the enjoyable part.
+Ataovy izany mba ho afaka hiditra amin’ny ampahany mahafinaritra avy hatrany ny olona.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Misafidiana toerana tsara.** Fahazavana tsara, seza misy tanana, ary latabatra na tray izay azo tazonina ny puzzle.
+2. **Atsangano ny lohanaon’ny boaty** izay ahitanareo roa.
+3. **Ataovy mivoaka ny ampahany** alohan’ny hanombohana.
+4. **Ampandamino ny sisiny** ianao, na ataovy voalohany ny sisiny ary avelao ny afovoany ho azy.
+5. **Ampifandraiso ny ampahany araka ny loko** ho amin’ny tray na lovia vitsivitsy malalaka.
+6. **Omeo ampahany iray isaky ny fotoana** raha mahatonga fahasosorana ny fitambaran’ny ampahany. “Heveriko fa ampahan’ny trano fiompy ity.”
+7. **Miresaha momba ny sary,** fa tsy ny fandrosoana. “Mitovy amin’ny sambo nananan’ny rainy izany.”
+8. **Avelao eo ny puzzle.** Miverena amin’ny andro maro. Tsy misy haingana.
+9. **Ajanony amin’ny fotoana tsara,** aorian’ny nametrahana ampahany, rehefa mbola mahafinaritra.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manoro hevitra ny hanampiana ny olona hanomboka, ny fijerena ny fahatezerana, ary ny famelana azy hijery fotsiny raha tiany kokoa izany. Ny fijerena anao mametraka ampahany sy mampiseho izay toerana mety ho ampahany dia mbola fandraisana anjara.
 
-## Easy online puzzles
+## Puzzle an-tserasera mora
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Ny puzzle amin’ny tablet manana tombontsoa marina: tsy misy ampahany very, sary lehibe manenjana ny efijery, ary tsy mila mamoaka latabatra.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ny [Puzzle sary](/games/picture-puzzle/) maimaim-poana nataonay dia mampisaraka sary ho ampahany 4 na 9. Tsindrio ampahany roa mba hifanakalo izy mandra-pahatongan’ny sary feno. Ny sary feno mijanona eo amin’ny efijery ho torolalana, tsy misy minitra, ary azonao ajanona amin’ny fotoana rehetra. Ampahany efatra dia mety amin’ny olona maro amin’ny sehatra antonony miaraka amin’ny olona eo akaiky.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ho an’ny lalao sary malemy kokoa, andramo [Mitadiava ny mitovy](/games/find-the-same/), izay tsindriona ny sary mifanaraka amin’ny iray eo ambony, na [Mandamina miaraka](/games/sort-together/), izay misy sary ao amin’ny vata toy ny lakozia na zaridaina.
 
-## Word puzzles: word searches and crosswords
+## Puzzle teny: fitadiavana teny sy crossword
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Ny puzzle teny dia mifanaraka amin’ny olona izay nahafinaritra azy foana, matetika aloha amin’ny dementia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Fitadiavana teny soratra lehibe.** Ny [Fitadiavana teny](/games/word-search/) maimaim-poana nataonay dia misy litera lehibe sy teny vitsivitsy ihany, miseho eo amin’ny sakany sy ambany, tsy mihitsy diagonal na miverina. Lalao amin’ny efijery na atao an-taratasy.
+- **Vakio ny lisitra mafy.** Iray mamaky teny, ny iray hafa mitady azy. Ny fanodinana litera voalohany ihany dia ampy.
+- **Crossword soratra lehibe** avy amin’ny boky puzzle dia mety mandeha amin’ny sehatra voalohany. Vakio mafy ny fanondroana, zarao ny penina ary apetraho miaraka ny valiny. Crossword mora misy lohahevitra dia tsara kokoa noho ny sarotra.
+- **Miresaha momba ny teny.** “Garden” dia mety hitarika minitra folo momba ny tomatitra.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Ho an’ny hetsika taratasy bebe kokoa sy ny fomba fanontana azy mba ho mora hita sy hazonina, jereo ny [hetsika dementia azo atao amin’ny taratasy maimaim-poana](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Puzzle inona no mety amin’ny sehatra tsirairay?
 
-Stages overlap, and good and hard days are normal.
+Mifandray ny sehatra, ary andro tsara sy andro sarotra dia mahazatra.
 
-| Stage | Puzzles that often fit | Your role |
+| Sehatra | Puzzle matetika mety | Ny anjaranao |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Voalohany | Puzzle sary mahazatra misy ampahany vitsy kokoa noho teo aloha, crossword sy fitadiavana teny soratra lehibe, puzzle an-tserasera misy ampahany 9 | Mpiara-miasa: omeo izy hifidy, mampiasa raha angatahina |
+| Antonony | Puzzle sary misy ampahany lehibe vitsy, puzzle an-tserasera misy ampahany 4, fitadiavana teny vakiana miaraka | Mametraka, mandamina ampahany, omeo ampahany iray isaky ny fotoana |
+| Farany | Mijery sary vita miaraka, Mitadiava ny mitovy misy sary roa, mikasika ampahany lehibe vitsivitsy | Ento aminy izany; ny fisian’ny olona no hetsika |
 
-## When should you make a puzzle easier, or stop?
+## Rehefa tokony hamora puzzle na hijanona?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Jereo ny fisaonana, ny fisintonana ny ampahany, ny teny hoe “tsy afaka aho” natoroka, na ny endrika ahiahy. Ireo dia famantarana hanovana zavatra, fa tsy hitohy hisintona.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Ataovy kely kokoa.** Ampahany vitsy kokoa, na avelao ho azy ny ampahany farany vitsivitsy.
+- **Ataovy bebe kokoa ianao** ary angataho izy hanampy amin’ny ampahany mora.
+- **Miova amin’ny zavatra akaiky:** fandamina ampahany araka ny loko, puzzle an-tserasera misy ampahany 4, na [hosodoko](/games/coloring/).
+- **Ajanony.** Apetraho ary misotroa kafe. Miverena indray andro, na tsy miverina mihitsy.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Raha manomboka ho toy ny fampahatsiahivana izay sarotra ny puzzle, azo atao ny mamela azy. Misy fomba maro hafa hanandanianana fotoana tsara miaraka; ny [101 hevitra hetsika](/activities/ideas/) dia toerana tsara hijerena.

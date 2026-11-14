@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "יום-טובֿ-אַקטיװיטעטן פֿאַר אַ מענטש מיט דעמענץ, פֿון טאַנקסגיװינג אָן"
+seoTitle: "יום-טובֿ און טאַנקסגיװינג: אידייען פֿאַר דעמענץ"
+description: "פּשוטע יום-טובֿ-אַקטיװיטעטן פֿאַר אַ מענטש מיט דעמענץ: קאָכן-אַרבעטן, דעקאָראַציע, מוזיק, בילדער און װידעאָ-רופֿן, און װי צו פּלאַנען אַ רויקערן פֿײַערטאָג."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  האַלט די יום-טובֿ-פֿײַער קלײנער, פֿריִער אין טאָג און נאָענט צום געװײנלעכן סדר פֿון
+  דעם מענטש. גיט אים אַן אמתע, זיכערע אַרבעט, למשל די טיש דעקן, גרינס װאַשן, אַ
+  מתנה פּאַקן אָדער אַ דעקאָראַציע אויפֿהענגען. טיילט באַקאַנטע מוזיק און אַלטע
+  בילדער, גרײט אָן די גאָסט פֿאַר ביז־צו, און שטעלט אַ שטילן צימער אָן. טוט בלױז
+  װאָס איר קענט פֿאַרנעמען; אַ קורצע, רויִקע פֿײַער איז אַ גוטע.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "פֿײַערט פֿריִער אין טאָג, למשל מיט אַ מיטאָג אָדער ברענטש, אױב שפּעטע פֿאַרװירטקייט איז אָפט."
+  - "גיט אמתע אַרבעטן: די טיש דעקן, פּראָדוקטן װאַשן, פּאַקן, דעקאָרירן אָדער אַ דעסערט אויף אַ טעלער לײגן."
+  - "באַקאַנטע מוזיק, קאַלעדעס און אַלטע פֿאָטאָ-אַלבאָמס זענען גרינגע װעגן צו טײלן די צײַט פֿון יאָר."
+  - "זאָגט די גאָסט װאָס צו דערװאַרטן, און װײַזט דעם מענטש בילדער פֿון די װאָס קומען."
+  - "גרײט אַ שטילן צימער מיט אַ באַליבטער דעק אָדער װאָל-װעסט, און האַלט די באַזוכער אין קלײנע גרופּעס."
+  - "װײַכט אויס אַלץ װאָס איז איבערװעלטיקט, אײנשליסנדיק דעקאָראַציעס װאָס זען אויס װי עסן און פֿיל בלינקנדיקע לאַמפּעס."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "װאָס קען אַ מענטש מיט דעמענץ טאָן בײַ טאַנקסגיװינג?"
+    a: "גיט אים אַ פּשוטע, זיכערע אַרבעט װאָס פּאַסט צו װאָס ער קען הײַנט: גרינס װאַשן, סאָס מיט צװעבלעס רירן, דעם טיש דעקן, סערװעטן פֿאַלטן אָדער דעסערטן אויף אַ טעלער לײגן. שפּעטער קוקט צוזאַמען אין אַלטע משפּחה-בילדער אָדער זינגט באַקאַנטע לידער. דער טײל זײַן פֿון דעם טאָג איז װיכטיקער װי ווי גוט די אַרבעט איז אַרױס."
+  - q: "צי זאָלן מיר נאָך האָבן אַ גרױסע משפּחה-צונױפֿקונפֿט?"
+    a: "נאָר אױב עס איז פֿאַרװאַלטבאַר. מענגע און לאַרם קענען איבערװעלטיקן, אַזױ אַז פֿיל משפּחות גײען איבער צו אַ קלײנערע, מער אומפֿאָרמעלע צונױפֿקונפֿט, אַ פֿרי מיטאָג, אָדער באַזוכער װאָס קומען אין קלײנע גרופּעס. די Alzheimer's Association מוטיװירט זאָרגערס צו טאָן בלױז װאָס זײ קענען פֿאַרנעמען מיט שכל און זיכערקייט."
+  - q: "װי גרײט מען משפּחה צו װאָס האָבן לאַנג נישט באַזוכט?"
+    a: "זאָגט זײ פֿאַרױס װעגן די ענדערונגען װאָס זײ קענען באַמערקן, און אַז זײ קומען פֿון דער קרענק און נישט פֿון דעם מענטש. בעט זײ נישט צו קערעקטירן אָדער פֿרעגן קװשנס, צו רעדן איינער נאָך דעם אַנדערן, און צו געבן צײַט פֿאַר ענטפֿערן. די באַזוכער װײַזן דעם מענטש בילדער פֿון זײערע פּנימער פֿאַר דער צײַט קען אויך העלפֿן."
+  - q: "װאָס פֿאַר יום-טובֿ-מתנות פּאַסן פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "פּשוטע, זיכערע זאַכן װאָס ער קען געניסן יעצט: אַ ליב-געהאַטע קאַװע-שטיק, אַ װײכע דעק אָדער װעסט, באַקאַנטע מוזיק, אָדער אַ פֿאָטאָ-אַלבאָם פֿון דער משפּחה. מײַדט קאָמפּליצירטע עלעקטראָניק, געצײַג און שװערע ברעטשפּילן. צו זײַן אַ טייל פֿון געבן, למשל אַ מתנה פּאַקן אָדער קעקסן פּאַקן װאָס ער האָט געהאָלפֿן באַקן, קען אַליין זײַן אַ מתנה."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+יום-טובֿים קענען ברענגען װאַרעמע זכרונות, און זײ קענען אויך ברענגען לאַרם, מענגע און ענדערונגען אין דעם געװײנלעכן טאָג. פֿאַר אַ מענטש װאָס לעבט מיט דעמענץ זענען די בעסטע פֿײַערן געװײנלעך קלײנער, לאַנגזאַמער, און געבױט אַרום די זאַכן װאָס ער קען נאָך געניסן. די אידייען פּאַסן פֿאַר טאַנקסגיװינג, קריסמאַס, חנוכה, ניו יאָר און משפּחה-געבוירן-טעג גלײַך.
 
-## How do I plan a calmer holiday?
+## װי פּלאַנט מען אַ רויקערן יום-טוב?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+הײבט אָן מיט דעם מענטשס סדר און פּלאַנט דעם טאָג לױט אים. די [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) רעקאָמענדירט צו האַלטן די פֿײַער פֿריִער אין טאָג, װײַל פֿאַרװירטקייט און אומרו װאַקסן אָפט אין שפּעטן נאָכמיטאָג און אָװנט (װאָס מען רופֿט אויך *sundowning*). אַ יום-טובֿ-מיטאָג אָדער ברענטש קען זײַן לײַכטער װי אַ שפּעט אָװנט-מאָל.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **האַלט עס דער רעכטער גרײס.** אַ קלײנערע, מער אומפֿאָרמעלע צונױפֿקונפֿט, אָדער גאָסט װאָס קומען עטלעכע אויף אַ מאָל, איז אָפט לײַכטער װי אײן פֿולער טיש.
+- **טײלט אויס אַרבעטן.** בעט פֿאַרװאַנדטע צו ברענגען אַ מאַכל, צו טאָן די קאָופּערײַ אָדער צו פֿאַרברענגען צײַט מיט דעם מענטש בשעת איר קאָכט. זײַט גענױ װאָס װאָלט געהאָלפֿן.
+- **האַלט די דעקאָראַציעס פּשוט.** די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) באַמערקט, אַז בליצנדיקע לאַמפּעס קענען פֿאַרװירטן, און אַז קאַנדי אָדער קינסטלעכע פּירות װאָס װערן געניצט װי דעקאָראַציע קענען געמישט װערן מיט עסן.
+- **באַשליסט װאָס צו לאָזן פֿאַלן.** אױב אַ מסורה איז שטרענג אָדער געפֿערלעך געװאָרן, איז עס גוט אױסצולאָזן אָדער אַ רויקערע אַנשטאָט צו פּרוּװן.
 
-## What holiday activities can we do together?
+## װאָס פֿאַר יום-טובֿ-אַקטיװיטעטן קענען מיר טאָן צוזאַמען?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+קלײַבט אַרבעטן און צײַטפֿאַרטרײַב װאָס פּאַסן צו װאָס דער מענטש קען הײַנט. צו זײַן אַ טייל פֿון דעם טאָג איז װיכטיקער װי װי גוט עס גײט אויס.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **דעקט דעם טיש צוזאַמען.** לײגט צו ערשט די טעלער, דערנאָך די סערװעטן, און דערנאָך די בעכער. סערװעטן פֿאַלטן איז אַ גוטע אַרבעט צו זיצן בײַ.
+2. **װאַשט און זאָרטירט גרינס.** קאַרטאָפֿל אָפּשפּילן אָדער שטרוקן גרינע בוינען בײַם קיך-טיש איז זיכער און באַקאַנט פֿאַר פֿיל מענטשן װאָס האָבן פֿריִער געקאָכט.
+3. **רירט, מישט אָדער לײגט אויף טעלער.** רירן קרענבערי-זאַפֿט, מישן אַ פּשוטן טײג אָדער לײגן קעקסן אויף אַ טעלער האַלט די הענט פֿאַרנומען װײַט פֿון דעם שטאָװ און די מעסערס.
+4. **פּאַקט אַ מתנה.** שניידט די פּאַפּיר און בענדל פֿאַרױס, און לאָזט דעם מענטש פֿאַלטן און גלעטן. שײנע פּאַקונג איז נישט דער פּונקט.
+5. **הענגט אויף עטלעכע דעקאָראַציעס.** קלײַבט צעבראָכענע-פֿאַרזיכערטע קוגלען און איין קלײן ערטל, למשל אַ קראַנץ אָדער אַ קלײן בוים.
+6. **מאַכט אַ פּשוט האַנטװערק.** פּאַפּיר-קייטן, אַ בלעטער-קאָלאַזש אָדער אַ יום-טובֿ-קאָרטל מיט שטעמפּל פּאַסן גוט. אונדזער [קונסט- און האַנטװערק-פֿירער](/activities/arts-and-crafts/) האָט מער אידייען.
+7. **זינגט און הערט צו.** באַקאַנטע קאַלעדעס און יום-טובֿ-לידער זענען גרינג צו מיטזינגען, אפילו פֿאַר אַ מענטש װאָס רעדט הײַנט װײניקער. זעט אונדזער [מוזיק-פֿירער](/activities/music/) צו בױען אַ פּלײַליסט.
+8. **קוקט אין אַלטע יום-טובֿ-בילדער.** ברענגט אַלבאָמס פֿון פֿריִערדיקע פֿײַערן און לאָדט אײַן צו דערצײלן („דערצײל מיר װעגן דעם טיש“) אַנשטאָט צו פֿרעגן װער איז װער. אונדזער [רעמיניסצענץ-פֿירער](/activities/reminiscence/) דערקלערט װי.
+9. **שפּילט אַ װײכן גרופּע-שפּיל.** [פּיקטשער-בינגאָ](/games/picture-bingo/) דרוקט זיך אַרױס אין מינוטן און פּאַסט פֿאַר אַלע עלטערן, און [שמועס-קאַרטן](/games/conversation-cards/) געבן אַלעמען עפּעס צו רעדן װעגן.
+10. **פֿאַרבט צוזאַמען.** פּשוטע [קאָלאָרירן-בילדער](/games/coloring/) קענען אױסגעדרוקט װערן פֿאַר קינדער און באָבעס און זיידעס צו טײלן בײַם טיש.
+11. **קוקט אַ באַליבטן יום-טובֿ-פֿילם.** אַ באַקאַנטער פֿילם איז רו-געבנדיק, און עס איז גוט צו קוקן נאָר אַ טייל דערפֿון.
+12. **נעמט אַ קורצע פֿאָרט צו קוקן אױף די ליכטן.** אַ שטילע פֿאָרט פֿאַרבײַ באַלײַכטע הײַזער קען זײַן לײַכטער װי אַ פֿאַרפֿולטע געשעעניש.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+אױב קאָכן איז געװען אַ גרױסער טייל פֿון דעם מענטשס לעבן, האָט אונדזער פֿירער װעגן [הױזהאַלטונג-אַרבעטן װי אַקטיװיטעטן](/activities/household-tasks/) מער װעגן װי צו מאַכן קיך-אַרבעטן זיכער און צופֿרידנשטעלנדיק.
 
-## How do I prepare guests?
+## װי גרײט מען די גאָסט?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+זאָגט די גאָסט װאָס צו דערװאַרטן פֿאַרױס, בפֿרט די פֿאַרװאַנדטע װאָס האָבן לאַנג נישט באַזוכט. די Alzheimer's Association רעקאָמענדירט צו דערקלערן, אַז ענדערונגען אין זיכרון און פֿירונג קומען פֿון דער קרענק און נישט פֿון דעם מענטש.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **טיילט אַ פּאָר פּשוטע טיפּס:** רעדט איינער נאָך דעם אַנדערן, גיט צײַט צו ענדיקן אַ געדאַנק, קערעקטירט נישט און פֿרעגט נישט קװשנס, און ענטפֿערט אויף דעם טאָן פֿון דעם מענטש, אויב װערטער זענען שװער צו נאָכפֿאָלגן.
+- **זאָגט װאָס העלפֿט און װאָס שטערט.** אױב הויכע קולן, איילונג אָדער געװיסע טעמעס מאַכן אומרו, זאָגט עס.
+- **שטעלט די גאָסט פֿאַר פֿאַרױס.** װײַזט דעם מענטש בילדער פֿון די װאָס קומען און דערצײלט אַ מעשׂה אָדער צװײ, אָדער מאַכט אַ קורצן טעלעפֿאָן- אָדער װידעאָ-רוף פֿאַר דעם טאָג.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+אונדזער [קאָמוניקאַציע-טיפּס](/caregiving/communication-tips/) גײען אַרײַן מער אין דעטאַל.
 
-## What if it gets to be too much?
+## װאָס אױב עס װערט צו פֿיל?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+גרײט אַ שטילן צימער פֿאַר די גאָסט קומען, װײַט פֿון דעם לאַרם, מיט באַקאַנטע טרייסט-זאַכן װי אַ ליב-געהאַטע דעק, אַ װעסט אָדער אַ פּשוטע אַקטיװיטעט. בױט עס אָן פֿרי און אָפט: „זאָלן מיר זיך אַ ביסל אַרײַנזעצן אין אַ רויק ערטל?“
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+אַרױסגײן פֿון טיש, פֿרי שלאָפֿן גײן אָדער אַ טייל פֿון טאָג אױסלאָזן איז אַ גוטער רעזולטאַט, נישט אַ פֿאַרפֿעל. אױב דער מענטש װערט איבערװעלטיקט, העלפֿט אָפט אַ רויִקע שטימע, אַ באַקאַנט לידל אָדער אַ שפּאַציר אין אַן אַנדער צימער מער װי רעזאָנירן. אונדזער פֿירער װעגן [שפּעטע אומרו](/caregiving/late-day-restlessness/) האָט מער אידייען פֿאַר די אָװנטן.
 
-## How can family far away take part?
+## װי קענען משפּחה װאָס װױנען װײַט נעמען טײל?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+װידעאָ-רופֿן לאָזן פֿאַרװאַנדטע זיך פֿאַרבינדן אָן צו לײגן צו דער מענגע. די Alzheimer's Association רעקאָמענדירט צו געבן די רופֿן אַ געװיסע סטרוקטור, למשל זינגען סעזאָנאַלע לידער, װײַזן בילדער פֿון פֿריִערדיקע צונױפֿקונפֿטן, צוזאַמען קאָכן דאָס זעלבע רעצעפּט אָדער צוזאַמען קוקן אַ יום-טובֿ-פֿילם. האַלט די רופֿן קורץ, און בעט מענטשן צו רעדן איינער נאָך דעם אַנדערן, װײַל עס איז שװער צו נאָכפֿאָלגן װען אַלע רעדן צוזאַמען. אונדזער [טעלעפֿאָן- און װידעאָ-רופֿ-פֿירער](/activities/phone-and-video-calls/) האָט שריט-פֿאַר-שריט אידייען.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+װוינט דער מענטש אין אַ דעמענץ-אָפּטײלונג, קוקט נאָך די באַזוך-רעגלען און בעט דעם שטאַב העלפֿן אײַנשטעלן אַ רוף. אונדזער פֿירער װעגן [באַזוכן אַ מענטש אין דעמענץ-זאָרג](/activities/visiting/) דעקט אָפּ װאָס צו ברענגען און װי צו גײן אַװעק געהעריק.
 
-## What gifts suit someone with dementia?
+## װאָס פֿאַר מתנות פּאַסן פֿאַר אַ מענטש מיט דעמענץ?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+פּשוטע, זיכערע מתנות װאָס ער קען געניסן יעצט פֿונקציאָנירן מערסטנס בעסטן: אַ ליב-געהאַטע קאַװע-שטיק, אַ װײכע דעק אָדער װעסט, באַקאַנטע מוזיק, אַ גרױסע-דרוק קאַלענדאַר, אָדער אַ פֿאָטאָ-אַלבאָם פֿון דער משפּחה. די Alzheimer's Association רעקאָמענדירט צו מײַדן געפֿערלעכע געצײַג, קאָמפּליצירטע עלעקטראָניק און שװערע ברעטשפּילן.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+געבן קען אַזױ פֿיל װי באַקומען. פּאַקן קעקסן װאָס דער מענטש האָט געהאָלפֿן באַקן, אָדער לאָזן אים פּאַקן אַ מתנה װאָס איר האָט געקױפֿט, לאָזט אים נעמען טײל אין דער צײַט. אַ משפּחה-בילד-שפּיל איז נאָך אַ געדאַנק: [פֿאָטאָ-פּאָרן](/games/photo-pairs/) פֿאַרװאַנדלט עטלעכע אױסגעקליבענע בילדער אין אַ װײכן צוזאַמענפֿאַל-שפּיל אין דעם בראָװזער.
 
-## Look after yourself too
+## זאָרגט אױך פֿאַר זיך
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+יום-טובֿים לײגן צו אַרבעט צו די זאָרג. לאָזט עמעץ אַנדערש הױסטן אָדער קאָכן דעם טערקיי, זאָגט ניין צו געשעענישן װאָס װעלן זײַן שװער, און נעמט רו בשעת אַנדערע פֿאַרברענגען צײַט מיט דעם מענטש. אױב איר אָדער דער מענטש װאָס איר זאָרגט פֿאַר זײַט קראַנק, איז אַ װינק פֿון דער אויפֿן־דרײוועיי אָדער אַ װידעאָ-רוף אַ גאַנץ גוטער בזוך. אונדזער [זעלבסט-זאָרג פֿאַר זאָרגערס](/caregiving/caregiver-self-care/) האָט מער שטיצע.

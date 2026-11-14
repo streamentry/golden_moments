@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Mga hayop",
+      "description": "Mga kaibig-ibig at magiliw na hayop mula sa buong mundo"
+    },
+    "nature": {
+      "name": "Kalikasan",
+      "description": "Magagandang tanawin at tagpo sa kalikasan"
+    },
+    "food": {
+      "name": "Pagkain",
+      "description": "Masasarap na pagkain at panghimagas"
+    },
+    "vintage": {
+      "name": "Mga sasakyan",
+      "description": "Mga kotse at trak na pagmamasdan at pag-uusapan"
+    },
+    "flowers": {
+      "name": "Mga bulaklak",
+      "description": "Magagandang bulaklak at tagpo sa hardin"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Mga hayop sa bukid",
+      "description": "Mga magiliw na hayop sa bukid, na parang namamasyal sa probinsya.",
+      "theme": "Buhay sa bukid",
+      "images": {
+        "cow_1": "Magiliw na baka",
+        "pig_1": "Masayang baboy",
+        "chicken_1": "Tandang",
+        "buffalo_1": "Kalabaw",
+        "horse_1": "Magandang kabayo",
+        "duck_1": "Pamilya ng mga pato",
+        "goat_1": "Mausisang kambing",
+        "rabbit_1": "Kaibig-ibig na kuneho"
+      }
+    },
+    "nature_mountains": {
+      "title": "Tanawin ng mga bundok",
+      "description": "Kahanga-hangang mga tanawin ng bundok at magagandang tanawin sa malayo",
+      "theme": "Ganda ng kalikasan",
+      "images": {
+        "mountain_1": "Mga taluktok na may yelo",
+        "mountain_2": "Bundok Fuji",
+        "mountain_3": "Lambak sa kabundukan ng Alps",
+        "mountain_4": "Mabatong tuktok",
+        "mountain_5": "Mga burol na may gubat",
+        "mountain_6": "Mga bundok na may hamog"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mga kotse at trak",
+      "description": "Makikintab na kotse at trak na pagmamasdan at pag-uusapan",
+      "theme": "Sa daan",
+      "images": {
+        "vintage_car_1": "Kahel na Audi sa paglubog ng araw",
+        "vintage_car_2": "Asul na sports car sa disyerto",
+        "vintage_car_3": "Pilak na Bugatti",
+        "vintage_car_4": "Itim na Porsche sa daan",
+        "vintage_car_5": "Kahel na BMW sa kalyeng may mga puno ng niyog",
+        "vintage_car_6": "Asul na coupe sa tabi ng garahe",
+        "vintage_car_7": "Berdeng pickup truck",
+        "vintage_car_8": "Puting SUV sa gitna ng mga pulang bato",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Asul na kotse na may puting guhit"
+      }
+    },
+    "animals_safari": {
+      "title": "Mga hayop sa safari",
+      "description": "Marilag na mga hayop mula sa mga safari sa Africa",
+      "theme": "Mga hayop sa gubat",
+      "images": {
+        "lion_1": "Marilag na leon",
+        "elephant_2": "Elepante ng Africa",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Gusuhing sebra",
+        "rhino_5": "Malakas na rinoseronte",
+        "cheetah_6": "Mabilis na tsita",
+        "fox_7": "Kayumangging soro",
+        "bear_8": "Polar na oso",
+        "turtle_9": "Kayumangging pagong",
+        "squirrel_10": "Kayumangging ardilya",
+        "macaw_11": "Dilaw at asul na makaw",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Abuhing lobo",
+        "crocodile_15": "Buwaya",
+        "peacock_16": "Magandang paboreal"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Masasarap na panghimagas",
+      "description": "Ilang masasarap na panghimagas pagkatapos ng pagkain.",
+      "theme": "Matatamis na panghimagas",
+      "images": {
+        "pastries_1": "Apat na pastry",
+        "oreo_cookie_sandwiches_2": "Mga sandwich na Oreo cookie",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Mga macaron",
+        "caramel_cake_6": "Keyk na karamelo"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Mga bulaklak ng tropiko",
+      "description": "Tuklasin ang makulay na ganda ng tropiko sa pakete ng mga kakaibang bulaklak na ito.",
+      "theme": "Mga bulaklak ng tropiko",
+      "images": {
+        "hibiscus_1": "Pulang gumamela",
+        "frangipani_2": "Pula at puting kalachuchi",
+        "sunflower_3": "Mirasol",
+        "hydrangea_4": "Puting hydrangea",
+        "rose_5": "Rosas",
+        "chrysanthemum_6": "Krisantemo",
+        "anthurium_7": "Anturyum",
+        "plumeria_8": "Kalachuchi",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Pagkaing pangkalye",
+      "description": "Tuklasin ang makulay na mundo ng pagkaing pangkalye sa pakete ng masasarap na meryenda mula sa buong mundo.",
+      "theme": "Pagkaing pangkalye",
+      "images": {
+        "taco_1": "Taco ng Mexico",
+        "ramen_2": "Ramen ng Japan",
+        "dumplings_3": "Dumpling ng China",
+        "samosa_4": "Samosa ng India",
+        "pizza_5": "Hiwa ng pizza ng Italya",
+        "crepe_6": "Crepe ng France",
+        "satay_7": "Satay na tuhog ng Thailand",
+        "burger_8": "Burger ng Amerika",
+        "bao_9": "Pinasingaw na bao",
+        "takoyaki_10": "Takoyaki ng Japan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Tanawin ng kalikasan",
+      "description": "Mga payapa at magagandang tagpo sa kalikasan na dahan-dahang pagmamasdan at pag-uusapan nang magkasama.",
+      "theme": "Mga tanawin ng kalikasan",
+      "images": {
+        "mountain_1": "Hanay ng mga bundok",
+        "forest_2": "Gubat na may hamog",
+        "lake_3": "Lawa sa bundok",
+        "desert_4": "Mga buhanginan sa disyerto",
+        "waterfall_5": "Talon",
+        "beach_6": "Mabuhanging dalampasigan",
+        "river_7": "Umaagos na ilog",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Langit sa paglubog ng araw",
+        "snow_mountain_10": "Bundok na may niyebe",
+        "flowers_11": "Mga ligaw na bulaklak",
+        "rainforest_12": "Gubat-ulan",
+        "iceberg_13": "Malaking tipak ng yelo sa dagat",
+        "volcano_14": "Bulkan",
+        "cliff_15": "Bangin sa tabing-dagat",
+        "aurora_16": "Hilagang aurora",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Bahura ng korales"
+      }
+    }
+  }
+}

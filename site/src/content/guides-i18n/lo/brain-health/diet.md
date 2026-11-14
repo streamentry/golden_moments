@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "ອາຫານ MIND ແລະ ອາຫານເມດິເຕີເຣນຽນ ກັບໂຣກສະໝອງເສື່ອມ: ການຄົ້ນຄວ້າບອກຫຍັງ"
+seoTitle: "ອາຫານ MIND ແລະ ໂຣກສະໝອງເສື່ອມ: ການຄົ້ນຄວ້າບອກຫຍັງ"
+description: "ການຄົ້ນຄວ້າບອກຫຍັງກ່ຽວກັບອາຫານ MIND ແລະ ອາຫານເມດິເຕີເຣນຽນ ກັບໂຣກສະໝອງເສື່ອມ ເປັນຫຍັງການທົດລອງໃຫຍ່ຈຶ່ງບໍ່ພົບຜົນດີທີ່ຊັດເຈນ ແລະ ວິທີຊ່ວຍຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມກິນໃຫ້ດີ."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  ການສຶກສາແບບສັງເກດການເຊື່ອມລະບຽບການກິນແບບເມດິເຕີເຣນຽນ ແລະ MIND ກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ຕ່ຳລົງ ແຕ່ບໍ່ສະໝ່ຳສະເໝີ. ການທົດລອງແບບສຸ່ມສາມປີຂອງອາຫານ MIND ທີ່ເຜີຍແຜ່ໃນປີ 2023 ບໍ່ພົບຄວາມແຕກຕ່າງທີ່ມີນັຍສຳຄັນດ້ານການຄິດ ຫຼື ພາບສະແກນສະໝອງ ເມື່ອທຽບກັບອາຫານຄວບຄຸມ. ບໍ່ມີອາຫານ ຫຼື ອາຫານເສີມໃດທີ່ພິສູດວ່າປ້ອງກັນໂຣກສະໝອງເສື່ອມ. ສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມແລ້ວ ການກິນ ແລະ ດື່ມໃຫ້ພຽງພໍເປັນສິ່ງສຳຄັນທີ່ສຸດ.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "ບາງການສຶກສາທີ່ຕິດຕາມຜູ້ຄົນເມື່ອເວລາຜ່ານໄປ ແຕ່ບໍ່ແມ່ນທັງໝົດ ເຊື່ອມລະບຽບການກິນແບບເມດິເຕີເຣນຽນ ແລະ MIND ກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ຕ່ຳລົງ."
+  - "ໃນການທົດລອງປີ 2023 ກັບຜູ້ໃຫຍ່ 604 ຄົນ ຜູ້ທີ່ກິນອາຫານ MIND ບໍ່ດີກວ່າຜູ້ທີ່ກິນອາຫານຄວບຄຸມໃນການທົດສອບການຄິດ ຫຼື ພາບສະແກນສະໝອງ ຫຼັງຈາກສາມປີ."
+  - "National Institute on Aging ເວົ້າວ່າບໍ່ມີຫຼັກຖານວ່າການກິນ ຫຼື ການຫຼີກລ່ຽງອາຫານໃດໜຶ່ງປ້ອງກັນອັລໄຊເມີໄດ້ ແລະ ບໍ່ມີວິຕາມິນ ຫຼື ອາຫານເສີມໃດທີ່ພິສູດວ່າປ້ອງກັນໄດ້."
+  - "ອາຫານທີ່ອຸດົມດ້ວຍຜັກ ໝາກໄມ້ ຖົ່ວ ທັນຍພືດເຕັມເມັດ ແລະ ປາ ຊ່ວຍສຸຂະພາບຫົວໃຈ ແລະ ອາດຊ່ວຍປັດໃຈສ່ຽງເຊັ່ນ ຄວາມດັນເລືອດສູງ ແລະ ເບົາຫວານ."
+  - "ສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ ອາຫານມືທີ່ຈັບກິນໄດ້ ຈານທີ່ມີສີຕັດກັນ ເວລາກິນທີ່ສະຫງົບ ແລະ ການດື່ມເປັນປະຈຳ ມັກສຳຄັນກວ່າອາຫານແບບໃດແບບໜຶ່ງ."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "ອາຫານ MIND ປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?"
+    a: "ຍັງບໍ່ໄດ້ພິສູດ. ການສຶກສາແບບສັງເກດການເຊື່ອມອາຫານ MIND ກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ ແຕ່ການທົດລອງແບບສຸ່ມສາມປີທີ່ເຜີຍແຜ່ໃນປີ 2023 ບໍ່ພົບຄວາມແຕກຕ່າງທີ່ມີນັຍສຳຄັນດ້ານຜົນການທົດສອບການຄິດ ຫຼື ພາບສະແກນສະໝອງ ລະຫວ່າງຜູ້ທີ່ກິນອາຫານ MIND ກັບຜູ້ທີ່ກິນອາຫານຄວບຄຸມ. ທັງສອງກຸ່ມດີຂຶ້ນເລັກນ້ອຍ ແລະ ນ້ຳໜັກລົດລົງໃກ້ຄຽງກັນ."
+  - q: "ອາຫານ MIND ແຕກຕ່າງຈາກອາຫານເມດິເຕີເຣນຽນແນວໃດ?"
+    a: "ອາຫານເມດິເຕີເຣນຽນເນັ້ນຜັກ ໝາກໄມ້ ທັນຍພືດເຕັມເມັດ ຖົ່ວ ປາ ແລະ ນ້ຳມັນໝາກກອກ ໂດຍມີເນື້ອແດງ ແລະ ຂອງຫວານໜ້ອຍ. ອາຫານ MIND ປະສົມມັນກັບອາຫານ DASH ເພື່ອຄວາມດັນເລືອດ ແລະ ເພີ່ມການເນັ້ນຜັກໃບຂຽວ ແລະ ໝາກເບີຣີ ໃນຂະນະທີ່ຈຳກັດເນື້ອແດງ ຂອງຫວານ ເນີຍແຂງ ເນີຍ ແລະ ອາຫານທອດ."
+  - q: "ມີອາຫານ ຫຼື ອາຫານເສີມໃດທີ່ປ້ອງກັນອັລໄຊເມີໄດ້ບໍ?"
+    a: "ບໍ່ມີ. National Institute on Aging ເວົ້າວ່າບໍ່ມີຫຼັກຖານວ່າການກິນ ຫຼື ການຫຼີກລ່ຽງອາຫານໃດໜຶ່ງສາມາດປ້ອງກັນອັລໄຊເມີ ຫຼື ການເສື່ອມຂອງການຮັບຮູ້ທີ່ກ່ຽວກັບອາຍຸ ແລະ ບໍ່ມີວິຕາມິນ ຫຼື ອາຫານເສີມໃດທີ່ພິສູດວ່າປ້ອງກັນອັລໄຊເມີໄດ້. ໃຫ້ປຶກສາໝໍກ່ອນກິນອາຫານເສີມ."
+  - q: "ອາຫານໃດກິນງ່າຍທີ່ສຸດສຳລັບຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ?"
+    a: "ອາຫານຄຳນ້ອຍໆທີ່ຈັບດ້ວຍມື ເຊັ່ນ ຊິ້ນແຊນວິດ ຊິ້ນໄກ່ ເມັດສົ້ມ ຫຼື ຜັກນຶ່ງເປັນຊິ້ນ ມັກງ່າຍກວ່າການໃຊ້ຊ້ອນສ້ອມ. ຖ້າການເຄ້ຍ ຫຼື ການກືນຍາກ ອາຫານອ່ອນເຊັ່ນ ໄຂ່ຄົນ ແອບເປີ້ນຊອດ ຫຼື ເນີຍແຂງ ອາດຊ່ວຍໄດ້. ຖ້າມີການໄອ ຫຼື ສຳລັກ ໃຫ້ຖາມໝໍກ່ຽວກັບການປະເມີນການກືນ."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+ອາດເຄີຍອ່ານວ່າອາຫານ “ທີ່ດີຕໍ່ສະໝອງ” ສາມາດຫຼີກໂຣກອັລໄຊເມີໄດ້. ພາບທີ່ແທ້ຈິງຖ່ອມຕົວກວ່ານັ້ນ. ລະບຽບການກິນບາງແບບກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງໃນການສຶກສາທີ່ຕິດຕາມຜູ້ຄົນເມື່ອເວລາຜ່ານໄປ ແຕ່ການທົດລອງທີ່ດີທີ່ສຸດຈົນເຖິງຕອນນີ້ບໍ່ພົບຜົນດີທີ່ຊັດເຈນ. ໜ້ານີ້ອະທິບາຍທັງສອງຢ່າງ ແລ້ວຈຶ່ງເຖິງສິ່ງທີ່ສຳຄັນທີ່ສຸດສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມແລ້ວ: ການກິນ ແລະ ດື່ມໃຫ້ພຽງພໍ ແລະ ໄດ້ຄວາມເພີດເພີນຈາກມັນ.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+ນີ້ແມ່ນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ປຶກສາໝໍ ຫຼື ນັກໂພຊະນາການທີ່ມີໃບອະນຸຍາດ ກ່ອນປ່ຽນອາຫານຂອງທ່ານ ຫຼື ຂອງຄົນອື່ນ. ເບິ່ງ[ຂໍ້ປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ.
 
-## What are the Mediterranean and MIND diets?
+## ອາຫານເມດິເຕີເຣນຽນ ແລະ ອາຫານ MIND ແມ່ນຫຍັງ?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) ອະທິບາຍດັ່ງນີ້ ([NIA ກ່ຽວກັບອາຫານ ແລະ ອັລໄຊເມີ](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **ອາຫານເມດິເຕີເຣນຽນ:** ຜັກ ໝາກໄມ້ ທັນຍພືດເຕັມເມັດ ຖົ່ວ ປາ ແລະ ອາຫານທະເລ ແລະ ນ້ຳມັນໝາກກອກໃນປະລິມານຫຼາຍ ໂດຍມີເນື້ອແດງ ໄຂ່ ແລະ ຂອງຫວານໃນປະລິມານໜ້ອຍ.
+- **ອາຫານ MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): ການປະສົມອາຫານເມດິເຕີເຣນຽນ ແລະ ອາຫານ DASH ສຳລັບຄວາມດັນເລືອດ. ມີຜັກໂດຍເນັ້ນຜັກໃບຂຽວ ໝາກເບີຣີ ທັນຍພືດເຕັມເມັດ ຖົ່ວ ໝາກໄມ້ເປືອກແຂງ ປາຢ່າງໜ້ອຍອາທິດລະຄັ້ງ ແລະ ນ້ຳມັນໝາກກອກ. ຈຳກັດເນື້ອແດງ ຂອງຫວານ ເນີຍແຂງ ເນີຍ ຫຼື ມາກາຣີນ ແລະ ອາຫານທອດ ຫຼື ອາຫານຟາສຟູດ.
 
-## Do these diets lower dementia risk?
+## ອາຫານເຫຼົ່ານີ້ຫຼຸດຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມບໍ?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+ຫຼັກຖານປົນກັນ. NIA ເວົ້າວ່າການສຶກສາແບບສັງເກດການບາງອັນ ແຕ່ບໍ່ແມ່ນທັງໝົດ ເຊື່ອມອາຫານເມດິເຕີເຣນຽນ ແລະ MIND ກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ຕ່ຳລົງ ເມື່ອທຽບກັບອາຫານແບບຕາເວັນຕົກທີ່ມີເນື້ອແດງ ໄຂມັນອີ່ມຕົວ ແລະ ນ້ຳຕານສູງກວ່າ.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+ການປະຊຸມ Lancet ປີ 2024 ທົບທວນການຄົ້ນຄວ້າຢ່າງລະອຽດກວ່າ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- ການທົບທວນການສຶກສາແບບຕິດຕາມກຸ່ມ ເຊື່ອມຄຸນນະພາບອາຫານສູງກັບຄວາມສ່ຽງໂຣກສະໝອງເສື່ອມທີ່ຕ່ຳລົງປະມານ 20%.
+- ການວິເຄາະທີ່ໃຫຍ່ກວ່າຂອງສາມກຸ່ມຕິດຕາມ ເຊື່ອມການປະຕິບັດຕາມອາຫານ MIND ທີ່ໃກ້ຊິດກວ່າກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ.
+- ແຕ່ການສຶກສາຂອງສະວີເດັນທີ່ຕິດຕາມຜູ້ໃຫຍ່ໄວກາງຄົນ 28,025 ຄົນປະມານ 20 ປີ ບໍ່ພົບຄວາມສ່ຽງທີ່ຕ່ຳລົງ ທັງໃນອາຫານທີ່ແນະນຳ ຫຼື ອາຫານແບບເມດິເຕີເຣນຽນ.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+ການສຶກສາແບບສັງເກດການບໍ່ສາມາດພິສູດເຫດແລະຜົນໄດ້. ຄົນທີ່ກິນແບບນີ້ມັກແຕກຕ່າງໃນດ້ານອື່ນດ້ວຍ ເຊັ່ນ ລາຍໄດ້ ການສຶກສາ ການອອກກຳລັງກາຍ ແລະ ການເຂົ້າເຖິງການດູແລສຸຂະພາບ. ການປະຊຸມສະຫຼຸບວ່າຫຼັກຖານບໍ່ພຽງພໍທີ່ຈະເວົ້າວ່າອາຫານສຸຂະພາບປ້ອງກັນໂຣກສະໝອງເສື່ອມໂດຍກົງໄດ້ ເຖິງແມ່ນການກິນໝາກໄມ້ ແລະ ຜັກຫຼາຍ ແລະ ອາຫານແປຮູບໜ້ອຍລົງ ດີສຳລັບພະຍາດຫຼາຍຢ່າງ ແລະ ມີຜົນຕໍ່ປັດໃຈສ່ຽງເຊັ່ນ ໂລກອ້ວນ ເບົາຫວານ ແລະ ຄວາມດັນເລືອດສູງ. ການປະຊຸມບໍ່ໄດ້ເພີ່ມອາຫານເຂົ້າໃນ[ປັດໃຈສ່ຽງ 14 ຢ່າງ](/brain-health/risk-factors/) ຂອງຕົນ.
 
-## What did the 2023 MIND diet trial find?
+## ການທົດລອງ MIND ປີ 2023 ພົບຫຍັງ?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+ການທົດສອບທີ່ເຂັ້ມແຂງທີ່ສຸດຈົນເຖິງຕອນນີ້ແມ່ນການທົດລອງແບບສຸ່ມທີ່ເຜີຍແຜ່ໃນ New England Journal of Medicine ໃນປີ 2023 ([ການທົດລອງອາຫານ MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **ໃຜ:** ຜູ້ໃຫຍ່ອາຍຸ 65 ປີຂຶ້ນໄປ 604 ຄົນໃນເຂດ Chicago ແລະ Boston ທີ່ບໍ່ມີບັນຫາການຄິດ ມີຍາດພີ່ນ້ອງໃກ້ຊິດທີ່ເປັນໂຣກສະໝອງເສື່ອມ ນ້ຳໜັກເກີນ ແລະ ເລີ່ມດ້ວຍອາຫານທີ່ບໍ່ດີເທົ່າໃດ.
+- **ຫຍັງ:** ເປັນເວລາສາມປີ ເຄິ່ງໜຶ່ງກິນອາຫານ MIND ແລະ ເຄິ່ງໜຶ່ງກິນອາຫານປົກກະຕິຂອງຕົນ. ທັງສອງກຸ່ມໄດ້ຮັບການຂໍໃຫ້ກິນໜ້ອຍລົງປະມານ 250 ແຄລໍຣີຕໍ່ມື້ ແລະ ໄດ້ຮັບການແນະນຳເປັນປະຈຳຈາກນັກໂພຊະນາການທີ່ມີໃບອະນຸຍາດ.
+- **ຜົນ:** ຜົນການທົດສອບການຄິດດີຂຶ້ນເລັກນ້ອຍໃນ**ທັງສອງ**ກຸ່ມ. ຄວາມແຕກຕ່າງລະຫວ່າງກຸ່ມນ້ອຍ ແລະ **ບໍ່ມີນັຍສຳຄັນທາງສະຖິຕິ**. ພາບສະແກນສະໝອງກໍສະແດງການປ່ຽນແປງທີ່ຄ້າຍກັນໃນທັງສອງກຸ່ມ.
+- **ນ້ຳໜັກ:** ທັງສອງກຸ່ມລົດນ້ຳໜັກປະມານ 5 ກິໂລກຣາມ (ປະມານ 11 ປອນ).
 
-### Why might the trial have found no difference?
+### ເປັນຫຍັງການທົດລອງອາດບໍ່ພົບຄວາມແຕກຕ່າງ?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+ນັກວິໄຈແນະນຳຫຼາຍເຫດຜົນ. ກຸ່ມຄວບຄຸມອາດປັບປຸງອາຫານຂອງຕົນເອງດ້ວຍ ເນື່ອງຈາກລົດນ້ຳໜັກໃກ້ຄຽງກັນ. ການທົດສອບຊ້ຳໆອາດເຮັດໃຫ້ຜົນດີຂຶ້ນໄດ້ເອງ ເພາະຜູ້ຄົນຄຸ້ນເຄີຍກັບການທົດສອບ. ສາມປີອາດສັ້ນເກີນໄປ. ຜູ້ເຂົ້າຮ່ວມສ່ວນໃຫຍ່ມີການສຶກສາດີ ແລະ ເປັນເຊື້ອສາຍເອີຣົບ ສະນັ້ນຜົນອາດບໍ່ໃຊ້ກັບທຸກຄົນ.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+ສະຫຼຸບຊື່ສັດຄື: ອາຫານ MIND ບໍ່ດີກວ່າອາຫານທີ່ຫຼຸດແຄລໍຣີຢ່າງສົມເຫດສົມຜົນໃນໄລຍະສາມປີ. ນັ້ນບໍ່ໄດ້ໝາຍຄວາມວ່າການກິນອາຫານສຸຂະພາບເປັນສິ່ງໄຮ້ປະໂຫຍດ. ມັນໝາຍຄວາມວ່າບໍ່ຄວນຄາດຫວັງວ່າອາຫານທີ່ເຈາະຈົງຈະປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້.
 
-## What about specific foods and supplements?
+## ອາຫານສະເພາະ ແລະ ອາຫານເສີມເປັນແນວໃດ?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA ເວົ້າວ່າບໍ່ມີຫຼັກຖານວ່າການກິນ ຫຼື ການຫຼີກລ່ຽງອາຫານໃດໜຶ່ງສາມາດປ້ອງກັນອັລໄຊເມີ ຫຼື ການເສື່ອມຂອງການຮັບຮູ້ທີ່ກ່ຽວກັບອາຍຸ. ບລູເບີຣີ ຜັກໃບຂຽວ ແລະ ຂະໝິ້ນ ລ້ວນຖືກສຶກສາແລ້ວໂດຍບໍ່ມີຫຼັກຖານ. NIA ເວົ້າຕື່ມວ່າບໍ່ມີວິຕາມິນ ຫຼື ອາຫານເສີມໃດທີ່ພິສູດວ່າປ້ອງກັນອັລໄຊເມີໄດ້ ແລະ ບໍ່ແນະນຳສຳລັບຈຸດປະສົງນັ້ນ. NIA ເຕືອນວ່າຜະລິດຕະພັນທີ່ບໍ່ໄດ້ພິສູດ ທີ່ຂາຍເພື່ອປ້ອງກັນອັລໄຊເມີ ອາດບໍ່ປອດໄພ ເສຍເງິນໂດຍບໍ່ໄດ້ຜົນ ຫຼື ທັງສອງຢ່າງ ແລະ ອາດລົບກວນຢາທີ່ແພດສັ່ງ ສະນັ້ນໃຫ້ກວດກັບໝໍກ່ອນລອງ ([NIA ກ່ຽວກັບການປ້ອງກັນອັລໄຊເມີ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## ການກິນຈະໃຫ້ສຸຂະພາບດີ ແລະ ເພີດເພີນໄດ້ແນວໃດ?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+ສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸສ່ວນໃຫຍ່ ເປົ້າໝາຍແມ່ນອາຫານທີ່ໃຫ້ສານອາຫານ ຄຸ້ນເຄີຍ ແລະ ໜ້າພໍໃຈ ບໍ່ແມ່ນແຜນທີ່ເຂັ້ມງວດ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **ສ້າງອາຫານໃຫ້ຮອບຂອງສິ່ງທີ່ທ່ານມັກ** ຈາກລະບຽບເມດິເຕີເຣນຽນ: ຜັກ ໝາກໄມ້ ຖົ່ວ ທັນຍພືດເຕັມເມັດ ປາ ແລະ ນ້ຳມັນໝາກກອກ.
+- **ຮັກສາຂອງຫວານທີ່ມັກໄວ້.** ຄວາມເພີດເພີນ ແລະ ຄວາມຢາກກິນສຳຄັນ ໂດຍສະເພາະໃນໄລຍະຫຼັງຊີວິດ.
+- **ກິນກັບຄົນອື່ນເມື່ອເປັນໄປໄດ້.** ອາຫານຮ່ວມກັນເປັນການຢູ່ນຳກັນທີ່ດີ.
+- **ປຸງອາຫານນຳກັນ.** ການລ້າງຜັກ ຫຼື ກວນໝໍ້ເປັນກິດຈະກຳຮ່ວມກັນທີ່ດີ ເບິ່ງ[ວຽກບ້ານ](/activities/household-tasks/). ສູດອາຫານຄອບຄົວທີ່ມັກກໍອາດເປີດ[ການຈື່ຄືນ](/activities/reminiscence/) ໄດ້.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+ຜູ້ໃຫຍ່ສູງອາຍຸບໍ່ຄວນຕັດແຄລໍຣີ ຫຼື ລົດນ້ຳໜັກໂດຍບໍ່ໄດ້ປຶກສາໝໍ ແລະ ການອົດອາຫານມີຄວາມສ່ຽງເພີ່ມເຕີມ. ເບິ່ງ[ຄູ່ມືການອົດອາຫານ](/brain-health/fasting/) ຂອງພວກເຮົາ.
 
-## How can you help someone with dementia eat well?
+## ທ່ານຈະຊ່ວຍຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມໃຫ້ກິນໄດ້ດີແນວໃດ?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+ສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ ປະເດັນຫຼັກມັກແມ່ນການກິນ ແລະ ດື່ມ**ໃຫ້ພຽງພໍ**. Alzheimer's Association ລະບຸວ່າຄົນອາດລືມກິນ ຄິດວ່າກິນແລ້ວ ຫຼື ຮູ້ສຶກທ່ວມທົ້ນກັບການເລືອກອາຫານ ແລະ ການກິນທີ່ບໍ່ດີອາດເຮັດໃຫ້ອາການພຶດຕິກຳຮ້າຍແຮງຂຶ້ນ ແລະ ນ້ຳໜັກລົດ ([Alzheimer's Association ກ່ຽວກັບອາຫານ ແລະ ການກິນ](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). ແນວຄິດເຫຼົ່ານີ້ມາຈາກ Alzheimer's Association, NIA ແລະ Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **ໃຫ້ອາຫານມືຈັບ.** ຊິ້ນນ້ອຍທີ່ຈັບໄດ້ງ່າຍ ເຊັ່ນ ຊິ້ນແຊນວິດ ຊິ້ນໄກ່ ປາແທ່ງ ເມັດສົ້ມ ຫຼື ບຣອກໂຄລີນຶ່ງ ເຮັດໃຫ້ຄົນກິນດ້ວຍຕົນເອງໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ຊ້ອນສ້ອມ.
+2. **ໃຊ້ຄວາມແຕກຕ່າງສີໃນໂຕະ.** ການປ່ຽນແປງຂອງການເບິ່ງເຫັນອາດເຮັດໃຫ້ແຍກອາຫານຈາກຈານຍາກ. ຈານ ຫຼື ຖ້ວຍສີຂາວເທິງແຜ່ນຮອງສີກົງກັນຂ້າມອາດຊ່ວຍໄດ້. ຫຼີກລ່ຽງຈານ ແລະ ຜ້າປູໂຕະທີ່ມີລາຍ.
+3. **ເສີບອາຫານຄັ້ງລະໜຶ່ງຫຼືສອງຢ່າງ.** ຈານທີ່ເຕັມເກີນໄປອາດເຮັດໃຫ້ຮູ້ສຶກທ່ວມທົ້ນ.
+4. **ຮັກສາເວລາກິນໃຫ້ສະຫງົບ.** ປິດໂທລະທັດ ຮັກສາໂຕະໃຫ້ລຽບງ່າຍ ແລະ ໃຫ້ເວລາພຽງພໍ. NIA ແນະນຳໃຫ້ບໍ່ຮີບ ແລະ ບໍ່ບັງຄັບ.
+5. **ໃຫ້ອາຫານນ້ອຍໆ ແລະ ຂອງວ່າງເລື້ອຍໆ.** NIA ແນະນຳອາຫານເລັກແລະເລື້ອຍກວ່າ ແລະ ຂອງວ່າງທີ່ມີພະລັງງານສູງ ຖ້າຜູ້ນັ້ນກິນບໍ່ພຽງພໍ ([ຄຳແນະນຳ NIA ສຳລັບການກິນໃຫ້ດີ](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **ຊ່ວຍດື່ມ.** ໃຫ້ຈອກນ້ຳນ້ອຍໆ ຫຼື ເຄື່ອງດື່ມອື່ນຕະຫຼອດມື້ ພ້ອມອາຫານທີ່ມີນ້ຳຫຼາຍ ເຊັ່ນ ໝາກໄມ້ ແກງ ນົມປັ່ນ ແລະ ສະມູດຕີ້. ຖ້າຜູ້ນັ້ນບໍ່ຢາກດື່ມນ້ຳ NIA ແນະນຳລອງນ້ຳໝາກໄມ້ ນ້ຳທີ່ໃສ່ລົດຊາດ ນ້ຳຊຸບ ນົມ ຫຼື ກາເຟ ຫຼື ຊາທີ່ບໍ່ມີກາເຟອີນ.
+7. **ກວດອຸນຫະພູມ.** ຜູ້ນັ້ນອາດບໍ່ສັງເກດວ່າອາຫານ ຫຼື ເຄື່ອງດື່ມຮ້ອນເກີນໄປ.
+8. **ປັບອຸປະກອນ ແລະ ຈອກ.** ຖ້ວຍແທນຈານ ຊ້ອນທີ່ມີດ້າມໃຫຍ່ ແລະ ຈອກທີ່ມີຝາປິດ ເຮັດໃຫ້ກິນງ່າຍຂຶ້ນ. ບໍ່ຕ້ອງກັງວົນເລື່ອງຄວາມເປັນລະບຽບ.
+9. **ເຮັດອາຫານໃຫ້ເຄ້ຍ ແລະ ກືນງ່າຍຂຶ້ນ.** ຕັດອາຫານເປັນຊິ້ນນ້ອຍ ຫຼື ໃຫ້ອາຫານອ່ອນ. ຖ້າຜູ້ນັ້ນໄອ ຫຼື ສຳລັກຂະນະກິນ ໃຫ້ບອກໝໍຂອງເຂົາ.
+10. **ຫຼີກລ່ຽງການບັງຄັບປ້ອນ.** NIA ລະບຸວ່າຄວາມຢາກອາຫານຈະຫຼຸດລົງຕາມທຳມະຊາດໃນໄລຍະທ້າຍຂອງອັລໄຊເມີ.
 
-### Signs to tell the doctor about
+### ອາການທີ່ຕ້ອງບອກໝໍ
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+ນ້ຳໜັກລົດ ປະຕິເສດອາຫານ ເມື່ອຍ ຫຼື ອ່ອນແຮງ ອາດເປັນສັນຍານວ່າຜູ້ນັ້ນກິນບໍ່ພຽງພໍ. Alzheimer's Society ລະບຸວ່າແຂ້ວເຈັບ ຫຼື ແຂ້ວປອມ ຊຶມເສົ້າ ທ້ອງຜູກ ແລະ ການປ່ຽນຢາ ລ້ວນສາມາດຫຼຸດຄວາມຢາກອາຫານ ([Alzheimer's Society ກ່ຽວກັບຄວາມຢາກອາຫານ](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). ສັນຍານຂອງການຂາດນ້ຳທີ່ NIA ລະບຸລວມປາກແຫ້ງ ວິນຫົວ ຫົວໃຈເຕັ້ນໄວ ແລະ ເຫັນພາບຫຼອນ ([NIA ກ່ຽວກັບບັນຫາທາງການແພດທົ່ວໄປ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## ປຶກສາໝໍ
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+ກ່ອນປ່ຽນແປງໃຫຍ່ໃນອາຫານຂອງທ່ານ ຫຼື ຂອງຄົນອື່ນ ໃຫ້ປຶກສາໝໍ ຫຼື ນັກໂພຊະນາການທີ່ມີໃບອະນຸຍາດ ໂດຍສະເພາະຖ້າທ່ານເປັນເບົາຫວານ ໂຣກໄຕ ມີບັນຫາການກືນ ຫຼື ນ້ຳໜັກລົດຫຼ້າສຸດ. ສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ ໃຫ້ຖາມໝໍວ່າຄວນກິນ ແລະ ດື່ມເທົ່າໃດຕໍ່ມື້ ແລະ ນັກໂພຊະນາການ ຫຼື ອາຫານເສີມອາດຊ່ວຍໄດ້ບໍ.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+ຮັບການດູແລເຮັ່ງດ່ວນ ຖ້າຜູ້ໃດກຳລັງສຳລັກ ຫຼື ມີອາການສັບສົນກະທັນຫັນ ວິນຫົວຮຸນແຮງ ຫຼື ເປັນລົມ.

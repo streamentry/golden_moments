@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "הױזהאַלטונג-אַרבעטן װי אַקטיװיטעטן פֿאַר מענטשן מיט דעמענץ"
+seoTitle: "הױזהאַלטונג-אַקטיװיטעטן פֿאַר דעמענץ: טעגלעכע אַרבעטן"
+description: "פֿאַלטן, סאָרטירן, טיש דעקן און פּשוט קאָכן קענען זײַן באַטײַטנדיקע אַקטיװיטעטן פֿאַר מענטשן מיט דעמענץ. װי צו גרײטן, אָנפּאַסן און זיכער מאַכן."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  טעגלעכע אַרבעטן װי פֿאַלטן טאָװל, סאָרטירן סאָקן, דעם טיש דעקן, קאַונטערס װישן,
+  פֿלאַנצן װאַסערן און העלפֿן מיט פּשוטן קאָכן קענען געבן אַ מענטש מיט דעמענץ אַ
+  אמתן װעג צו העלפֿן. קלײַבט אַרבעטן װאָס ער קען, טײלט זײ אויף אין איין שטאַפּל
+  נאָכן אַנדערן, נעמט אַװעק שאַרפֿע און הײסע געפֿאַרן, און װערט דעם טײל-נעמען
+  מער װי דעם גערעכטן רעזולטאַט.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "באַקאַנטע אַרבעטן קענען העלפֿן אַ מענטש זיך פֿילן נוצלעך און אַ טייל פֿון דעם הױזהאַלט, װאָס איז אָפט װיכטיקער װי װי גוט די אַרבעט איז געטאָן."
+  - "טײלט יעדע אַרבעט אין איינצעלנע שטאַפּלען, װײַזט אָן אַנשטאָט דערקלערן, און נעמט שטיל איבער יעדן שטאַפּל װאָס איז שװער געװאָרן."
+  - "שליסט אײַן מעסערס, רײניקונגס-מיטלען און וואַש-פּאָדס, און לייגט אָן שטעל-קנעפּלעך אָדער אַ אויטאָמאַטישן אַפּשטעל פֿאַר דעם שטאָװ, איידער איר קאָכט צוזאַמען."
+  - "געפֿאַלטע טאָװלען דאַרפֿן נישט איבערגעפֿאַלטן װערן פֿאַר דעם מענטש. אויב איר מוזט עפּעס מאַכן נאָכאַמאָל, טוט עס שפּעטער און אַװעק פֿון זײַן בליק."
+  - "װען אַ אַרבעט ברענגט פֿרוסטראַציע, באַשטימט אַ לײכטערן שטאַפּל, פּרוּװט נאָך אַ מאָל אַן אַנדער צײַט, אָדער זיצט בלױז צוזאַמען."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "װאָס פֿאַר הױזהאַלטונג-אַרבעטן קען אַ מענטש מיט דעמענץ נאָך העלפֿן?"
+    a: "פֿיל מענטשן קענען נאָך פֿאַלטן װעש, שטעלן צונױף סאָקן, אָרדנען סערװעטן, דעם טיש דעקן, אָפּוישן אַ קאַונטער, שטײבן, פֿעגן און רירן אַ שיסל טײג. קלײַבט אַרבעטן װאָס דער מענטש האָט אין דער פֿאַרגאַנגענהייט געטאָן און פּאַסט זײ צו װאָס ער קען יעצט. אין שפּעטערע סטאַדיעס קען אַ איינציקע װידערהאָלטע באַװעגונג, למשל גלעטן סערװעטן, גענוג זײַן."
+  - q: "צי איז עס זיכער פֿאַר אַ מענטש מיט דעמענץ צו העלפֿן אין דער קיך?"
+    a: "עס קען, מיט נאָענטער אויפֿזיכט און דער ריכטיקער אײַנשטעלונג. האַלט מעסערס, רײניקונגס-מיטלען און אַלץ הײס אויסער דערגרײכן, נוצט שטעל-קנעפּלעך אָדער אַ אויטאָמאַטישן אַפּשטעל אויפֿן שטאָװ, און גיט דעם מענטש אַ זיכערע אַרבעט װי װאַשן גרינס, רירן אָדער דעם טיש דעקן. לאָזט אים קײנמאָל נישט אַליין מיט דעם שטאָװ אָן."
+  - q: "װאָס אױב זײ פֿאַלטן עפּעס פֿאַלש אָדער מאַכן אַ בלאָטע?"
+    a: "לאָזט עס זײַן. דער צװעק איז צײַט צוזאַמען און אַ געפֿיל פֿון נוצלעכקייט, נישט אַ גאַנץ פּערפֿעקטער רעזולטאַט. אױב עפּעס דאַרף טאַקע נאָכגעמאַכט װערן, װאַרט ביז שפּעטער און טוט עס װען דער מענטש קוקט נישט, כּדי ער זאָל זיך נישט פֿילן קערעקטירט."
+  - q: "װאָס אױב זײ װײַגערן זיך צו העלפֿן?"
+    a: "אַ ניין קען מיינען, אַז די אַרבעט דוכט זיך צו שװער, צו פֿאַרװירט אָדער צו מיד הײַנט. צװינגט נישט. פּרוּװט אַ פּשוטערע װערסיע, בעט זײ אײַך געזעלשאַפֿט לײסטן אַנשטאָט, אָדער פֿרעגט נאָך אַ מאָל אין אַ בעסערער צײַט פֿון טאָג."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+פֿיל מענטשן מיט דעמענץ האָבן פֿאַר יאָרצענדליקן געפֿירט אַ הױזהאַלט, אױפֿגעצױגן קינדער אָדער געהאַלטן אָרדענונג אין אַ אַרבעטספּלאַץ. אַז מען בעט זײ העלפֿן מיט אמתע הױזאַרבעט, קען דאָס זאָגן „דו ביסט נאָך אַ טייל פֿון דעם הױזהאַלט“ אויף אַן אופֿן װאָס װעניק אַנדערע אַקטיװיטעטן קענען. די זײַט דעקט אָפּ װעלכע אַרבעטן פּאַסן געװײנלעך, װי מען שטעלט זײ אײַן, װי מען אַדזשוסטירט זײ װען עס ענדערט זיך, און װי מען האַלט די קיך און װעש-צימער זיכער.
 
-## Why do everyday chores work well as activities?
+## פֿאַר װאָס אַרבעטן די טעגלעכע אַרבעטן גוט?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+די אַרבעטן זענען װײַל זײ זענען באַקאַנט און האָבן אַ קלאָרן ציל. די National Institute on Aging צײלט אויף װאַשן געשירר, דעם טיש דעקן, פֿעגן, שטײבן, פּאַפּיר-אָרדנען, פֿאַלטן װעש און סאָרטירן רעסײקלינג צװישן די [טעגלעכע אַקטיװיטעטן װאָס מענטשן מיט אַלצהײַמער קענען פֿאַרגעניגן](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). די Alzheimer's Association באַמערקט, אַז אַרבעטן װי דעם טיש דעקן קענען העלפֿן אַ מענטש [זיך פֿילן װי אַ װערטפֿולער טייל פֿון הױזהאַלט](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+אַ אַרבעט האָט אויך אַ סיבה צו אָנהײבן. „קענסטו מיר העלפֿן מיט די דאָזיקע האַנטעכער?“ איז לײכטער צו זאָגן יאָ צו װי „װילסטו טאָן אַ אַקטיװיטעט?“
 
-## Which household tasks are good to try?
+## װעלכע הױזאַרבעטן זענען גוט צו פּרוּװן?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+הײבט אָן מיט אַרבעטן װאָס דער מענטש האָט אין דער פֿאַרגאַנגענהייט געטאָן, און פּאַסט זײ דערנאָך צו װאָס ער קען הײַנט.
 
-### Laundry and linens
+### װעש און לײנװאַנד
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **פֿאַלטן טאָװלען און װאַשלעפּ.** גיט אַ קױב מיט קלײנע, פֿלאַכע זאַכן. טאָװלען זענען פֿאַרגעבנדיק: עס איז נישטאָ קײן פֿאַלשע װײַז צו פֿאַלטן אַ טאָװל.
+- **צונױפֿשטעלן סאָקן.** לײגט אַ געמישטן הױפֿן אויפֿן טיש. װען פּאָרן װערן שװער צו זען, ניצט נאָר צװײ אָדער דרײַ זייער אונטערשײדלעכע פֿאַרבן.
+- **גלעטן און שטאַפּלען.** סערװעטן, קישנס אָדער װישטיכער קענען אָפּגעגלעט און געשטאַפּלט װערן. דאָס װערט אַ גוטע אַרבעט שפּעטער, װען פֿאַלטן איז געװאָרן צו פֿיל שטאַפּלען.
 
-### Table and kitchen
+### טיש און קיך
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **דעם טיש דעקן.** לײגט איין געדעק אַלס מוסטער, און לאָזט דעם מענטש נאָכמאַכן. װען דאָס איז צו פֿיל, גיט איין זאַך אַ מאָל: „דאָ איז אַ גאַבל פֿאַר יעדן טעלער.“
+- **סאָרטירן סילװער.** מישט ריינע גאַבלען, לעפֿלען און באָטער-מעסערס אין אַ קיבל און זאָרטירט זײ אין אַ צעטײלטן טעקעלע. לאָזט שאַרפֿע מעסערס אַרױס.
+- **אָפּטרוקענען געשירר.** פּלאַסטיק אָדער צעברעכנדיקע געשירר און אַ װײכער האַנטעך מאַכן דאָס צו אַ זיכערער אַרבעט.
+- **אָפּװישן דעם טיש אָדער די קאַונטערס.** אַ נאַסע שמאַטע און אַ קלאָרע אויבערפֿלאַך. די Alzheimer's Association רעקאָמענדירט צו געבן אַ שמאַטע, װען עמעץ רײַבט שוין דעם טיש מיטן האַנט, און אַזױ צו פֿאַרװאַנדלען אַ אומרויִקע באַװעגונג אין אַ נוצלעכע.
 
-### Around the house
+### אַרום דעם הױז
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **שטײבן.** אַ װײכער שטײבער און עטלעכע האַרטע אויבערפֿלאַכן, װי אַ קאָפֿע-טישל אָדער אַ ביכערשאַנק.
+- **זאָרטירן די פּאָסט.** גיט אַרײַן פּאָסט-אָפּפֿאַל און קאַטאַלאָגן צו זאָרטירן אין הױפֿנס: האַלטן, רעסײקלען, שפּעטער עפֿענען. האַלט עכטע רעכענונגען און טשעקס אַװעק פֿון דעם.
+- **זאָרטירן רעסײקלינג.** ריינע דאָזן, פֿלעשלעך און פּאַפּיר אין אָפּגעזונדערטע קעסטלעך.
+- **פֿאַגן.** אַ קלײנער בעזעם אויף אַ פּאַטיאָ אָדער אַ קיכן-פֿאָדעם, אױב די באַלאַנס איז פֿעסט.
+- **באַװאַסערן פֿלאַנצן.** אַ קלײנער, לײכטער װאַסער-קאַנעװע און עטלעכע פֿלאַנצן אין לײכטער דערגרײכונג.
 
-### Simple cooking with supervision
+### פּשוט קאָכן מיט אויפֿזיכט
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+קאָכן קען װעקן שטאַרקע, אַ פֿײנטלעכע געפֿילן. די NIA רעקאָמענדירט צו לאָזן דעם מענטש זאַמלען צוטאַטן, מעסטן, מישן און גיסן, אָדער פּשוט זאָגן אַן אַנדערן װי צו מאַכן אַ באַליבט רעצעפּט. גוטע אַרבעטן זענען:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- װאַשן גרינס אָדער פּירות
+- רירן טײג אָדער אַ קאַלטן זאַלאַט
+- רײַסן זײַװל
+- שמירן טאָסט מיט אַ שטומפּן מעסער
+- לײגן קעקס-טײג אויף אַ בלעך
+- שטעלן טאָפּינגס אויף אַ פּיצע
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+װען מעסטן װערט שװער, רעקאָמענדירט די Alzheimer's Association, אַז איר זאָלט פֿאַרענדיקן דאָס מעסטן און דערנאָך אַ אַנדערן שטאַפּל איבערגעבן, למשל רירן.
 
-## How do I set up a chore so it goes well?
+## װי שטעלט מען אײַן אַ אַרבעט, כּדי עס זאָל גײן גוט?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **קלײַבט די רעכטע צײַט.** װײַלט אַ טייל פֿון טאָג װען דער מענטש איז געװײנלעך אויסגערוט און רויִק. פֿאַר פֿיל מענטשן איז דאָס דער מאָרגן.
+2. **רײמט דעם אָרט.** איין אַרבעט, איין אויבערפֿלאַך, גאָרנישט צוזעצלעכס אויפֿן טיש.
+3. **בעט, נישט באַשטימט.** „איך דאַרף אַ האַנט מיט די דאָזיקע“ װירקט בעסער װי „עס איז צײַט צו פֿאַלטן װעש.“
+4. **װײַזט דעם ערשטן.** פֿאַלט איין טאָװל לאַנגזאַם, און גיט דערנאָך דעם נעקסטן. װײַזן איז קלערער װי דערקלערן.
+5. **גיט איין שטאַפּל אויף אַ מאָל.** צו פֿיל אָנװײַזונגען אויף אַ מאָל קענען איבערװעלטיקן. װאַרט ביז אַ שטאַפּל איז פֿאַרענדיקט, און נאָמט דעם נעקסטן ערשט דערנאָך.
+6. **אַרבעט צוזײַט.** צװײ מענטשן װאָס טאָן דאָס זעלבע זײַט אין זײַט פֿילן זיך װי חבֿרותא, נישט װי אויפֿזיכט.
+7. **רעדט װעגן דער אַרבעט, נישט דעם רעזולטאַט.** „די דאָזיקע זענען אַזוי װײך“ אָדער „זאָג מיר װי דו האָסט אָנגעהאַלטן דעם לײנװאַנד-שאַנק“ לאַדט צו אַ שמועס, אָן צו פּרוּװן עמעצן.
 
-## How do I adapt chores as abilities change?
+## װי אַדזשוסטירט מען אַרבעטן װען פֿעיִקײטן ענדערן זיך?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+פֿעיִקײטן ענדערן זיך מיט דער צײַט און אפֿילו פֿון טאָג צו טאָג. די Alzheimer's Association רעקאָמענדירט צו גיין צו פּשוטערע, מער װידערהאָלטיקע אַרבעטן װי די קרענק גײט װײַטער.
 
-| If this has become hard | Try this instead |
+| אַז עס איז געװאָרן שװער | פּרוּװט דאָס אַנשטאָט |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| גרױסע לײלעך פֿאַלטן | קלײנע טאָװלען אָדער סערװעטן גלעטן |
+| אַ גאַנצן טיש דעקן | איין סערװעט לײגן ביי יעדן אָרט |
+| פּאָסט אין קאַטעגאָריעס צעטײלן | קװערטן אין איין הױפֿן שטאַפּלען |
+| פֿאָלגן אַ רעצעפּט | רירן, אָדער קוקן און פּרוּװן בשעת איר קאָכט |
+| אַ גאַנצן דיל פֿעגן | אַ איין טיש אָפּװישן |
+| די אַרבעט גאָר נישט טאָן | מיט אײַך זיצן און אײַך געזעלשאַפֿטן בשעת איר טוט עס |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+זען ציילט אויך. די NIA באַמערקט, אַז עטלעכע מענטשן האָבן פּשוט פֿרײד צו קוקן, און דאָס איז אַ שײנע װײַז צו נעמען טײל.
 
-## How do I keep household tasks safe?
+## װי האַלט מען הױזאַרבעטן זיכער?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+זיכערקייט גײט פֿאָר, בפֿרט אין דער קיך. די [הױם-זיכערקייט-טיפּס פֿאַר אַלצהײַמער-זאָרגערס](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) פֿון דער NIA האָבן אַרײַן:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- שליסט אײַן אָדער נעמט אַװעק רײניקונגס-מיטלען, אײַנגערעכנט װעש-פּאָדס, װאָס קענען אױסזען װי קאַנדי.
+- לאָזט מעסערס, שערן און עלעקטרישע געצײַג אין אַ פֿאַרשלאָסן אָרט.
+- לײגט אָן זיכערקייט-קנעפּלעך און אַן אויטאָמאַטישן אַפּשטעל אויפֿן שטאָװ.
+- שטעלט „אױפֿהערן“ אָדער „זייער הײס“ צײכנס בײַ דעם אויװן, דעם טאָסטער און דעם אײַזן, אַזוי אַז זײ קענען נישט פֿאַנגען פֿײַער.
+- שטעלט דעם װאַסער-היציקער אויף 120°F, כּדי צו צוקלײנערן די סכנה פֿון פֿאַרברענען.
+- נעמט אַװעק קינסטלעכע פּירות און מאַגנעטן אין פֿאָרם פֿון מאַכלים, װאָס קענען אױסזען װי עסבאַר.
 
-A few more practical habits help:
+נאָך עטלעכע פּראַקטישע געװױנהײטן העלפֿן:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- בלײַבט אין צימער, װען דער שטאָװ, דער אויװן אָדער אַ שאַרפֿער געצײַג איז אין נוצן.
+- ניצט אומצעברעכלעכע כּלים צום אָפּטרוקענען און צום טיש דעקן.
+- האַלט די פֿלאָרן טרוקן און אָפּגעראַנדעװעט בשעת מע פֿעגט אָדער װישט.
+- אױב דער מענטש האָט אַ מאָל געניצט געצײַג, רעקאָמענדירט די Alzheimer's Association צו נעמען אַװעק געפֿערלעכע זאַכן פֿון דער װערקשטאַט, כּדי אַ זיכערע אַרבעט, װי שלײַפֿן אַ שטיק האָלץ, זאָל נאָך קענען געניסן װערן.
 
-## What if they do it "wrong"?
+## װאָס אױב זײ טוען עס „פֿאַלש“?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+לאָזט עס גײן. אַ טאָװל װאָס איז געפֿאַלט אין דריטלען אַנשטאָט העלפֿטן איז נאָך אַלץ אַ געפֿאַלטענע טאָװל. די Alzheimer's Association זאָגט עס פּשוט: דאָס װאָס צײלט איז צו פֿאַרברענגען צײַט צוזאַמען און דאָס װאָס דער מענטש פֿילט זיך נוצלעך, נישט צי די טאָװלען זענען ריכטיק געפֿאַלטן. אױב עפּעס מוז טאַקע נאָכגעמאַכט װערן, װאַרט ביז שפּעטער און טוט עס אַװעק פֿון זײַן בליק.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+קערעקטירן אין דער מאָמענט קען אַ פֿרײלעכע אַרבעט פֿאַרװאַנדלען אין אַ דערמאָנונג פֿון דעם װאָס איז פֿאַרלױרן געגאַנגען. „דאַנק דיר, דאָס איז אַ גרױסע הילף“ איז כּמעט אַלץ די ריכטיקע זאַך צו זאָגן.
 
-## When should we stop?
+## װען זאָל מען אױפֿהערן?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+האַלט אָן אָדער װעקסל װען איר זעט סימנים פֿון פֿרוסטראַציע, מידקייט אָדער פֿאַרלוירן אינטערעס. פֿרי אױפֿהערן איז אַ גוטער רעזולטאַט, נישט אַ פֿאַרפֿעל. איר קענט:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- װעקסלען צו אַ לײכטערן שטאַפּל
+- אַריבערגײן צו עפּעס רויק, װי מוזיק אָדער אַ גלאָז קאַװע
+- פּרוּװן נאָך אַ מאָל שפּעטער אָדער אויף אַן אַנדערן טאָג
+- פּשוט זיצן צוזאַמען
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+װען דער מענטש זאָגט ניין, צוװינגט נישט. זעט [װאָס צו טאָן װען זיי זאָגן ניין](/caregiving/when-they-say-no/) פֿאַר זאַנפֿטע אופֿנים צו ענטפֿערן.
 
-## Low-effort extras for a quieter moment
+## נידעריקע-ענדעװור עקסטראַס פֿאַר אַ רויקן מאָמענט
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+װען פֿיזישע אַרבעטן זענען נישט מעגלעך, קען מען נאָך זאָרטירן און מאַטשן זיצנדיק. [Sort Together](/games/sort-together/) לאָזט אײַך טאַפּן בילדער אין קיך- אָדער גאָרטן-קערבלעך, און [Picture Pairs](/games/picture-pairs/) איז אַ װײכער צוזאַמענפֿאַל-שפּיל מיט גרױסע בילדער און קײן טײמער. [Conversation Cards](/games/conversation-cards/) האָט אָפֿענע פֿראַגעס װעגן היים און משפּחה, װאָס פּאַסן גוט צו אַ קאַװע נאָך דער אַרבעט.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+פֿאַר הילף מיט דעם אײנפֿאַסן פֿון אַרבעטן אין טאָג, זעט אונדזער פֿירער װעגן אַ [רויִקן טעגלעכן סדר](/activities/daily-routine/). פֿאַר מער אידייען לױט סטאַדיום, זעט [מיטל-סטאַדיום-אַקטיװיטעטן](/activities/middle-stage/).

@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animals",
+      "description": "Animals simpatics e amistoses de tot lo mond"
+    },
+    "nature": {
+      "name": "Natura",
+      "description": "Polits païsatges e escenas de la natura"
+    },
+    "food": {
+      "name": "Cosina",
+      "description": "Bons plats e gormandisas"
+    },
+    "vintage": {
+      "name": "Veituras",
+      "description": "Veituras e camions d'agachar e d'en parlar"
+    },
+    "flowers": {
+      "name": "Flors",
+      "description": "Polidas floracions e escenas de jardin"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animals de la bòria",
+      "description": "Animals de la bòria amistoses, coma en visita a la campanha.",
+      "theme": "Vida a la bòria",
+      "images": {
+        "cow_1": "Vaca amistosa",
+        "pig_1": "Pòrc content",
+        "chicken_1": "Gal",
+        "buffalo_1": "Buf d'aiga",
+        "horse_1": "Polit caval",
+        "duck_1": "Familha d'ànegas",
+        "goat_1": "Cabra curiosa",
+        "rabbit_1": "Conilh simpatic"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vistas de montanhas",
+      "description": "Païsatges de montanhas esbleugissents e polidas vistas",
+      "theme": "Beutat de la natura",
+      "images": {
+        "mountain_1": "Cimas nevadas",
+        "mountain_2": "Mont Fuji",
+        "mountain_3": "Val alpina",
+        "mountain_4": "Cimèla rocosa",
+        "mountain_5": "Comas boscosas",
+        "mountain_6": "Montanhas dins la bruma"
+      }
+    },
+    "vintage_cars": {
+      "title": "Veituras e camions",
+      "description": "Veituras e camions lusents d'agachar e d'en parlar",
+      "theme": "Sus la rota",
+      "images": {
+        "vintage_car_1": "Audi irange al solelh colcant",
+        "vintage_car_2": "Veitura esportiva blava dins lo desèrt",
+        "vintage_car_3": "Bugatti argentada",
+        "vintage_car_4": "Porsche negra sus la rota",
+        "vintage_car_5": "BMW irange dins una carrièra de palmièrs",
+        "vintage_car_6": "Cupè blau a costat d'un garatge",
+        "vintage_car_7": "Camioneta verda",
+        "vintage_car_8": "SUV blanc entre de rocas ròjas",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Veitura blava amb de bandas blancas"
+      }
+    },
+    "animals_safari": {
+      "title": "Animals de safari",
+      "description": "Animals majestuoses dels safaris d'Africa",
+      "theme": "Vida salvatja",
+      "images": {
+        "lion_1": "Leon majestuós",
+        "elephant_2": "Elefant d'Africa",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zèbra ralhada",
+        "rhino_5": "Rinocerós fòrt",
+        "cheetah_6": "Guepard rapid",
+        "fox_7": "Rainard brun",
+        "bear_8": "Ors polar",
+        "turtle_9": "Tortuga bruna",
+        "squirrel_10": "Esquiròl brun",
+        "macaw_11": "Ara jaune e blau",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Ratons laveire",
+        "wolf_14": "Lop gris",
+        "crocodile_15": "Crocodil",
+        "peacock_16": "Polit paon"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Bons dessèrts",
+      "description": "Qualques bons dessèrts per vòstres repais.",
+      "theme": "Dessèrts doces",
+      "images": {
+        "pastries_1": "Quatre pastissariás",
+        "oreo_cookie_sandwiches_2": "Cookies Oreo en sandvitch",
+        "crepe_3": "Crespa",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Gastèl al caramèl"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Floracions tropicalas",
+      "description": "Descobrissètz la beutat vibranta dels tropics amb aqueste paquet de flors exoticas.",
+      "theme": "Flors tropicalas",
+      "images": {
+        "hibiscus_1": "Hibiscus ròge",
+        "frangipani_2": "Frangipanièr ròge e blanc",
+        "sunflower_3": "Virasolelh",
+        "hydrangea_4": "Hortensia blanca",
+        "rose_5": "Ròsa",
+        "chrysanthemum_6": "Crisantèma",
+        "anthurium_7": "Anturium",
+        "plumeria_8": "Plumèria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Cosina de carrièra",
+      "description": "Descobrissètz lo mond coloriat de la cosina de carrièra amb aqueste paquet de bonas picaduras de tot lo mond.",
+      "theme": "Cosina de carrièra",
+      "images": {
+        "taco_1": "Taco mexican",
+        "ramen_2": "Ramen japonés",
+        "dumplings_3": "Raviòlis chinés",
+        "samosa_4": "Samosa indian",
+        "pizza_5": "Talh de pizza italiana",
+        "crepe_6": "Crespa francesa",
+        "satay_7": "Broquetas satay tailandesas",
+        "burger_8": "Burger american",
+        "bao_9": "Bao a la vapor",
+        "takoyaki_10": "Takoyaki japonés"
+      }
+    },
+    "nature_landscape": {
+      "title": "Païsatges de natura",
+      "description": "Polidas escenas calmas de la natura d'agachar a plaser e d'en parlar amassa.",
+      "theme": "Païsatges de natura",
+      "images": {
+        "mountain_1": "Cadena de montanhas",
+        "forest_2": "Bòsc dins la bruma",
+        "lake_3": "Lac de montanha",
+        "desert_4": "Dunas del desèrt",
+        "waterfall_5": "Cascada",
+        "beach_6": "Plaja de sabla",
+        "river_7": "Riu que raja",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Cèl al solelh colcant",
+        "snow_mountain_10": "Montanha nevada",
+        "flowers_11": "Flors salvatjas",
+        "rainforest_12": "Forèst tropicala",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volcan",
+        "cliff_15": "Falesa sus la mar",
+        "aurora_16": "Aurora boreala",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Escuèlh de coralh"
+      }
+    }
+  }
+}

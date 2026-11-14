@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "ເມື່ອຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມຖາມຊ້ຳໆວ່າຢາກກັບບ້ານ"
+seoTitle: "ໂຣກສະໝອງເສື່ອມຖາມວ່າຢາກກັບບ້ານ: ຄວນເວົ້າຫຍັງ"
+description: "ເປັນຫຍັງຜູ້ທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມຈຶ່ງຖາມຢາກກັບບ້ານ ເຖິງແມ່ນຢູ່ເຮືອນແລ້ວ ຄວນເວົ້າຫຍັງ ກິດຈະກຳທີ່ຊ່ວຍໄດ້ ແລະວິທີດູແລຄວາມປອດໄພ."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  ເມື່ອຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມຖາມຊ້ຳໆວ່າຢາກກັບບ້ານ "ບ້ານ" ມັກໝາຍເຖິງຄວາມຮູ້ສຶກປອດໄພ ຫຼືສະຖານທີ່ໃນອະດີດ ບໍ່ແມ່ນຕຶກອາຄານ. ຢ່າໂຕ້ແຍ້ງວ່າເຂົາເຈົ້າຢູ່ເຮືອນແລ້ວ. ຮັບຮູ້ຄວາມຮູ້ສຶກ ບອກວ່າເຂົາເຈົ້າປອດໄພ ຖາມກ່ຽວກັບບ້ານ ແລ້ວຄ່ອຍໆເບິ່ງຮູບ ເພງ ຂອງຫວານ ການຍ່າງ ຫຼືວຽກງ່າຍໆ. ກວດຫາສິ່ງທີ່ແກ້ໄຂໄດ້ ເຊັ່ນຫິວ ຫຼືກະຫາຍນ້ຳ ຫ້ອງນ້ຳ ຫຼືຄວາມເຈັບປວດ. ຖ້າເກີດຂຶ້ນທັນທີ ໃຫ້ໂທຫາໝໍຂອງເຂົາເຈົ້າ.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "“ຂ້ອຍຢາກກັບບ້ານ” ມັກໝາຍເຖິງ “ຂ້ອຍບໍ່ຮູ້ສຶກປອດໄພ ຫຼືສະບາຍໃຈ” ບໍ່ແມ່ນການຮ້ອງຂໍທີ່ຢູ່."
+  - "ການໂຕ້ແຍ້ງ ຫຼືພິສູດວ່າເຂົາເຈົ້າຢູ່ເຮືອນແລ້ວ ມັກເຮັດໃຫ້ຄວາມທຸກໃຈໜັກຂຶ້ນ. ໃຫ້ຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກແທນ."
+  - "ຖາມໃຫ້ເຂົາເຈົ້າເລົ່າກ່ຽວກັບບ້ານ ແລ້ວສະເໜີຮູບ ເພງ ຂອງຫວານ ການຍ່າງ ຫຼືວຽກງ່າຍໆ."
+  - "ກວດຫາສິ່ງທີ່ແກ້ໄຂໄດ້: ຫິວ ກະຫາຍ ຫ້ອງນ້ຳ ເຈັບປວດ ຮ້ອນ ຫຼືໜາວເກີນໄປ ສຽງລົບກວນ ແລະຄວາມເມື່ອຍ."
+  - "ຖ້າເກີດຂຶ້ນທຸກຕອນແລງ ອາດເປັນ sundowning; ກິດຈະວັດທີ່ໝັ້ນຄົງ ແລະແສງສະຫວ່າງທີ່ດີຊ່ວຍໄດ້."
+  - "ວາງແຜນດ້ານຄວາມປອດໄພໄວ້ລ່ວງໜ້າ ຖ້າເຂົາເຈົ້າພະຍາຍາມອອກໄປ ແລະໂທຫາໝໍເມື່ອມີການປ່ຽນແປງກະທັນຫັນ."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "ເປັນຫຍັງແມ່ທີ່ເປັນໂຣກສະໝອງເສື່ອມຈຶ່ງຖາມຢາກກັບບ້ານ ທັງທີ່ເຂົາເຈົ້າຢູ່ເຮືອນແລ້ວ?"
+    a: "ໂຣກສະໝອງເສື່ອມເຮັດໃຫ້ຫ້ອງທີ່ຄຸ້ນເຄີຍຮູ້ສຶກແປກໄປ ແລະຜູ້ຄົນບາງເທື່ອຮູ້ສຶກວ່າຕົນຢູ່ໃນໄລຍະຊີວິດກ່ອນໜ້ານີ້. “ບ້ານ” ອາດໝາຍເຖິງເຮືອນໃນໄວເດັກ ຫຼືພຽງແຕ່ຄວາມຮູ້ສຶກປອດໄພ ແລະສະບາຍ. ການຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກນັ້ນມັກໄດ້ຜົນດີກວ່າການຊີ້ໃຫ້ເຫັນວ່າເຂົາເຈົ້າຢູ່ໃສ."
+  - q: "ຄວນເວົ້າຫຍັງເມື່ອເຂົາເຈົ້າຖາມຢາກກັບບ້ານ?"
+    a: "ລອງເວົ້າວ່າ “ທີ່ນີ້ປອດໄພ ແລະຂ້ອຍຢູ່ກັບເຈົ້າ” ແລ້ວຕາມດ້ວຍ “ເລົ່າໃຫ້ຟັງກ່ຽວກັບບ້ານຂອງເຈົ້າແດ່.” ຟັງ ສະເໜີຮູບ ຫຼືເພງ ແລະສະເໜີນ້ຳດື່ມ ຫຼືການຍ່າງສັ້ນໆ. ຫຼີກເວັ້ນການເວົ້າວ່າ “ນີ່ແມ່ນບ້ານເຈົ້າແລ້ວ” ໃນລັກສະນະແກ້ໄຂ ເພາະມັນອາດຮູ້ສຶກຄືຖືກບອກວ່າຜິດ."
+  - q: "ເວົ້າວ່າພວກເຮົາຈະກັບບ້ານທີຫຼັງໄດ້ບໍ່?"
+    a: "ຄອບຄົວ ແລະອົງການດ້ານໂຣກສະໝອງເສື່ອມມີຄວາມເຫັນແຕກຕ່າງກັນ. ຫຼາຍຄົນເລີ່ມດ້ວຍການປອບໂຍນຢ່າງຊື່ສັດ ແລະການເບິ່ງເຫດການໄປທາງອື່ນ ແລະສະຫງວນຄຳເວົ້າທີ່ບໍ່ຈິງເລັກນ້ອຍດ້ວຍຄວາມເມດຕາໄວ້ສຳລັບເວລາທີ່ຄວາມຈິງມີແຕ່ຈະເຮັດໃຫ້ຄົນນັ້ນທຸກໃຈໂດຍບໍ່ສາມາດຈັດການໄດ້. ບໍ່ວ່າທ່ານຈະເລືອກແນວໃດ ຈົ່ງໃຈດີ ແລະສະໝ່ຳສະເໝີ ແລະຢ່າເຍາະເຍີ້ຍຄວາມຮູ້ສຶກຂອງເຂົາເຈົ້າ."
+  - q: "ຖ້າເຂົາເຈົ້າພະຍາຍາມອອກຈາກເຮືອນແລ້ວຈະເຮັດແນວໃດ?"
+    a: "ຮັກສາຄວາມສະຫງົບ ແລະຍ່າງໄປກັບເຂົາເຈົ້າແທນທີ່ຈະກີດຂວາງ ການຍ່າງສັ້ນໆມັກຊ່ວຍໃຫ້ຄວາມຢາກນັ້ນສະຫງົບລົງ. ວາງມາດຕະການຄວາມປອດໄພລ່ວງໜ້າ ເຊັ່ນສາຍຂໍ້ມືສຳລັບລະບຸຕົວຕົນ ກະດິ່ງປະຕູ ແລະຮູບຖ່າຍຫຼ້າສຸດ. ຖ້າຄົນນັ້ນຫາຍໄປ ໃຫ້ກວດສະຖານທີ່ປອດໄພໃກ້ຄຽງ ພ້ອມກັບຕິດຕໍ່ຕຳຫຼວດໃນທ້ອງຖິ່ນ ຫຼືບໍລິການສຸກເສີນໂດຍໄວ. ຢ່າລໍຖ້າຈຳນວນນາທີທີ່ແນ່ນອນກ່ອນແຈ້ງເຫດ."
+  - q: "ຄວນໂທຫາໝໍເມື່ອໃດ?"
+    a: "ໂທຫາໝໍຂອງເຂົາເຈົ້າໂດຍໄວ ຖ້າການຖາມ ຫຼືຄວາມສັບສົນເກີດຂຶ້ນກະທັນຫັນ ຫຼືຮຸນແຮງຂຶ້ນຫຼາຍພາຍໃນຊົ່ວໂມງ ຫຼືວັນ ໂດຍສະເພາະມີໄຂ້ ຢາໃໝ່ ຫຼືສັນຍານຂອງການຕິດເຊື້ອທາງເດີນປັດສະວະ. ຄວາມສັບສົນກະທັນຫັນອາດເປັນພາວະ delirium ເຊິ່ງຕ້ອງໄດ້ຮັບການດູແລດ່ວນ. ຖ້າມີໃຜຢູ່ໃນອັນຕະລາຍ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນທັນທີ."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +45,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +65,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“ຢາກກັບບ້ານ.” ສຳລັບຫຼາຍຄອບຄົວ ນີ້ໝາຍເຖິງໜຶ່ງໃນຄຳທີ່ຍາກທີ່ສຸດທີ່ຕ້ອງໄດ້ຍິນ ໂດຍສະເພາະເມື່ອຜູ້ທີ່ທ່ານດູແລນັ່ງຢູ່ໃນຫ້ອງນັ່ງເລ່ນຂອງຕົນເອງ. ມັນເປັນເລື່ອງທົ່ວໄປ ອາດເກີດຂຶ້ນໃນທຸກໄລຍະຂອງໂຣກສະໝອງເສື່ອມ ແລະມີວິທີຕອບສະໜອງທີ່ສະຫງົບ ແລະປະຕິບັດໄດ້. ໜ້ານີ້ກວມເອົາສິ່ງທີ່ຄຳເຫຼົ່ານີ້ມັກໝາຍເຖິງ ສິ່ງທີ່ຄວນເວົ້າ ກິດຈະກຳທີ່ຊ່ວຍໃນຊ່ວງເວລານັ້ນ ແລະວິທີຮັກສາຄວາມປອດໄພ.
 
-## Why does someone with dementia keep asking to go home?
+## ເປັນຫຍັງຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມຈຶ່ງຖາມຊ້ຳໆວ່າຢາກກັບບ້ານ?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+ໂດຍປົກກະຕິ “ບ້ານ” ເປັນຄວາມຮູ້ສຶກຫຼາຍກວ່າສະຖານທີ່. ສະມາຄົມໂຣກສະໝອງເສື່ອມອັງກິດ (Alzheimer's Society) ອະທິບາຍວ່າມັນເປັນຄວາມຮູ້ສຶກສະບາຍໃຈ ແລະປອດໄພ ຫຼືບ້ານໃນອະດີດ ຫຼາຍກວ່າຕົວເຮືອນເອງ. ໂຣກສະໝອງເສື່ອມອາດເຮັດໃຫ້ຫ້ອງທີ່ຄຸ້ນເຄີຍເບິ່ງແປກ ແລະຜູ້ຄົນອາດຮູ້ສຶກວ່າຕົນກຳລັງອາໄສຢູ່ໃນໄລຍະຊີວິດກ່ອນໜ້ານີ້ ເມື່ອບ້ານເປັນເຮືອນໃນໄວເດັກ ຫຼືບ່ອນທີ່ເຂົາເຈົ້າລ້ຽງລູກ.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+ຄຳເຫຼົ່ານີ້ອາດເປັນສັນຍານວ່າມີບາງຢ່າງຜິດປົກກະຕິໃນຕອນນີ້ ເຊັ່ນຫິວ ກະຫາຍນ້ຳ ຕ້ອງການໄປຫ້ອງນ້ຳ ເຈັບປວດ ຮ້ອນ ຫຼືໜາວເກີນໄປ ເມື່ອຍ ໂດດດ່ຽວ ຢ້ານ ຫຼືຮູ້ສຶກຖືກລົບກວນດ້ວຍສຽງ. [ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ລະບຸຄວາມເຈັບປວດ ສຽງລົບກວນ ຄວາມໂດດດ່ຽວ ການປ່ຽນແປງກິດຈະວັດ ແລະຢາ ໃນບັນດາສາເຫດຂອງຄວາມກະວົນກະວາຍ.
 
-## What should I say when they ask to go home?
+## ຄວນເວົ້າຫຍັງເມື່ອເຂົາເຈົ້າຖາມຢາກກັບບ້ານ?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+ຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກ ບໍ່ແມ່ນຄຳເວົ້າ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ແນະນຳໃຫ້ຫຼີກເວັ້ນການພະຍາຍາມໂນ້ມນ້າວວ່າເຂົາເຈົ້າຜິດ ເພາະຄວາມຮູ້ສຶກຂອງເຂົາເຈົ້າເປັນຈິງ ດັ່ງນັ້ນໃຫ້ຕອບດ້ວຍຄວາມປອບໂຍນ ແລະການໃຫ້ກຳລັງໃຈກ່ອນ ແລ້ວຄ່ອຍໆນຳໄປສູ່ເລື່ອງອື່ນ.
 
-Phrases that often help:
+ຖ້ອຍຄຳທີ່ມັກຊ່ວຍໄດ້:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **ຕັ້ງຊື່ຄວາມຮູ້ສຶກ.** “ເບິ່ງຄືວ່າເຈົ້າຄິດຮອດບ້ານ.”
+- **ໃຫ້ກຳລັງໃຈ.** “ທີ່ນີ້ປອດໄພ ແລະຂ້ອຍຢູ່ກັບເຈົ້າ.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ແນະນຳຄຳງ່າຍໆວ່າ “ທີ່ນີ້ປອດໄພ.”
+- **ເຊີນໃຫ້ລະນຶກເຖິງຄວາມຊົງຈຳ.** “ເລົ່າໃຫ້ຟັງກ່ຽວກັບບ້ານຂອງເຈົ້າແດ່. ເຮືອນຄົວຂອງເຈົ້າເປັນແນວໃດ?” ການຖາມກ່ຽວກັບອະດີດອັນໄກໆມັກສະບາຍໃຈກວ່າການຖາມກ່ຽວກັບວັນນີ້.
+- **ສະເໜີສິ່ງທີ່ເຮັດນຳກັນ.** “ໄປດື່ມຊາກ່ອນເນາະ” ຫຼື “ຊ່ວຍຂ້ອຍພັບຜ້າເຊັດໂຕພວກນີ້ໄດ້ບໍ?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+ນ້ຳສຽງທີ່ອ່ອນໂຍນ ແລະການສຳຜັດແຂນເບົາໆ ຖ້າເຂົາເຈົ້າມັກການສຳຜັດ ອາດສື່ຄວາມໝາຍໄດ້ຫຼາຍກວ່າຖ້ອຍຄຳ.
 
-## What should I avoid?
+## ຄວນຫຼີກເວັ້ນຫຍັງ?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **ໂຕ້ແຍ້ງ ຫຼືອະທິບາຍ.** “ເຈົ້າອາໄສຢູ່ທີ່ນີ້ແລ້ວ” ຫຼື “ນີ້ເປັນບ້ານຂອງເຈົ້າມາ 40 ປີແລ້ວ” ເປັນການຂໍໃຫ້ຍອມຮັບສິ່ງທີ່ໂຣກສະໝອງເສື່ອມເຮັດໃຫ້ຍາກທີ່ຈະຍອມຮັບ ແລະອາດຮູ້ສຶກຄືຖືກບອກວ່າຜິດ.
+- **ຖາມໄຖ່.** “ເຈົ້າບໍ່ຈື່ບໍ?” ຫຼື “ທີ່ຢູ່ແມ່ນຫຍັງ?” ເຮັດໃຫ້ຮູ້ສຶກກົດດັນ.
+- **ກີດຂວາງປະຕູດ້ວຍຄວາມໂກດ.** ຖ້າເຂົາເຈົ້າຈະອອກໄປ ໃຫ້ຮັກສາຄວາມສະຫງົບ ແລະຍ່າງໄປນຳ. ການຍ່າງສັ້ນໆນຳກັນມັກຊ່ວຍໃຫ້ຄວາມຢາກນັ້ນສະຫງົບລົງ.
+- **ຮີບຮ້ອນ.** ໃຫ້ເວລາເຂົາເຈົ້າເວົ້າກ່ຽວກັບບ້ານກ່ອນທີ່ຈະປ່ຽນຫົວຂໍ້.
 
-## Activities that can help in the moment
+## ກິດຈະກຳທີ່ຊ່ວຍໄດ້ໃນຊ່ວງເວລານັ້ນ
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+ຫຼັງຈາກທີ່ທ່ານຮັບຮູ້ຄວາມຮູ້ສຶກແລ້ວ ກິດຈະກຳທີ່ສະຫງົບ ແລະຄຸ້ນເຄີຍສາມາດປ່ຽນຄວາມສົນໃຈໄດ້ໂດຍບໍ່ປະຕິເສດຄວາມຮູ້ສຶກນັ້ນ.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **ເບິ່ງຮູບບ້ານ ແລະຄອບຄົວ.** ພິກໜ້າ ແລະໃຫ້ຄຳເຫັນ ເຊັ່ນ “ເບິ່ງສວນນັ້ນສິ” ແທນການຖາມຄຳຖາມ. ໃນໂທລະສັບ ຫຼືແທັບເລັດ [Photo pairs](/games/photo-pairs/) ປ່ຽນຮູບຄອບຄົວຂອງທ່ານໃຫ້ເປັນເກມຈັບຄູ່ທີ່ອ່ອນໂຍນ ແລະຮູບຍັງຢູ່ໃນອຸປະກອນຂອງທ່ານ.
+2. **ເວົ້າກ່ຽວກັບບ້ານ.** [Conversation cards](/games/conversation-cards/) ໃຫ້ຄຳຖາມເປີດກ່ຽວກັບເຮືອນ ເຮືອນຄົວ ເພື່ອນບ້ານ ແລະວັນພັກ ໂດຍບໍ່ມີຄຳຕອບທີ່ຖືກ ຫຼືຜິດ.
+3. **ຫຼິ້ນເພງທີ່ເຂົາເຈົ້າມັກ.** NIA ລະບຸດົນຕີທີ່ສະຫງົບເປັນໜຶ່ງໃນວິທີຫຼຸດຄວາມກະວົນກະວາຍ. ເບິ່ງ[ກິດຈະກຳດົນຕີ](/activities/music/) ຂອງພວກເຮົາ.
+4. **ມີຂອງວ່າງ ຫຼືນ້ຳດື່ມ.** ຄວາມຫິວ ແລະຄວາມກະຫາຍນ້ຳອາດເບິ່ງຄືຄວາມກະວົນກະວາຍ. ຊາຮ້ອນ ຫຼືຂອງຫວານທີ່ມັກກໍເປັນພິທີນ້ອຍໆຂອງການຢູ່ເຮືອນ.
+5. **ອອກໄປຍ່າງ ຫຼືນັ່ງຂ້າງນອກ.** ການເຄື່ອນໄຫວ ແລະແສງແດດຊ່ວຍໄດ້ ໂດຍສະເພາະຊ່ວງຕົ້ນວັນ.
+6. **ໃຫ້ວຽກທີ່ຄຸ້ນເຄີຍ.** ພັບຜ້າ ຈັດຊ້ອນ ຫຼືຮົດຕົ້ນໄມ້ ອາດນຳຄວາມຮູ້ສຶກຂອງການດູແລເຮືອນກັບມາ.
+7. **ເຮັດທຸກຢ່າງໃຫ້ຊ້າລົງ.** ປິດໂທລະທັດ ຫຼຸດສຽງ ແລະແສງສະທ້ອນ ແລະລອງ[ການຫາຍໃຈສະຫງົບ](/games/calm-breathing/) ນຳກັນເລັກນ້ອຍ.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+ຖ້າຢ່າງໜຶ່ງບໍ່ໄດ້ຜົນ ລອງອັນອື່ນໃນພາຍຫຼັງ. ການນັ່ງງຽບໆນຳກັນກໍເປັນຜົນທີ່ດີເຊັ່ນກັນ.
 
-## Check for a cause you can fix
+## ກວດຫາສາເຫດທີ່ແກ້ໄຂໄດ້
 
-| Check | What to try |
+| ສິ່ງທີ່ຄວນກວດ | ສິ່ງທີ່ຄວນລອງ |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| ຫິວ ຫຼືກະຫາຍນ້ຳ | ສະເໜີນ້ຳດື່ມ ແລະຂອງວ່າງເລັກນ້ອຍ |
+| ຕ້ອງການໄປຫ້ອງນ້ຳ | ສະເໜີໃຫ້ໄປຫ້ອງນ້ຳ ດ້ວຍຄວາມສະຫງົບ ແລະບໍ່ວຸ້ນວາຍ |
+| ເຈັບປວດ ຫຼືບໍ່ສະບາຍ | ສັງເກດສັນຍານເຊັ່ນການເຈັບຕາ ການຈັບສ່ວນຂອງຮ່າງກາຍ ຫຼືທ້ອງຜູກ ແລ້ວບອກໝໍຂອງເຂົາເຈົ້າ |
+| ຮ້ອນ ຫຼືໜາວເກີນໄປ | ປັບເສື້ອຜ້າ ຫຼືອຸນຫະພູມຂອງຫ້ອງ |
+| ສຽງລົບກວນ ຫຼືແອອັດ | ຍ້າຍໄປຫ້ອງທີ່ງຽບກວ່າ ປິດໂທລະທັດ |
+| ເມື່ອຍ ຫຼືຖືກກະຕຸ້ນເກີນໄປ | ພັກຜ່ອນ ຫຼຸດແສງໄຟ ເປີດເພງນຸ່ມໆ |
+| ຕອນບ່າຍແກ່ | ເບິ່ງສ່ວນ sundowning ຂ້າງລຸ່ມ |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society ແນະນຳໃຫ້ຮັກສາບັນທຶກສັ້ນໆວ່າການຖາມເກີດຂຶ້ນເວລາໃດ ເຊັ່ນກ່ອນອາຫານ ຫຼັງຈາກແຂກມາ ຫຼືຕອນຄ່ຳ. ຮູບແບບເຫຼົ່ານີ້ຊ່ວຍໃຫ້ວາງແຜນລ່ວງໜ້າໄດ້ງ່າຍຂຶ້ນ.
 
-## Is it okay to tell a white lie?
+## ການໂກຫຼອກເລັກນ້ອຍເປັນສິ່ງທີ່ຮັບໄດ້ບໍ?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+ນີ້ເປັນການໂຕ້ວາທີທີ່ແທ້ຈິງ ແລະຄອບຄົວທີ່ໃຈດີກໍມີທັດສະນະແຕກຕ່າງກັນ. Alzheimer's Society ເວົ້າວ່າບໍ່ມີຄຳຕອບທີ່ຖືກຕ້ອງອັນດຽວ: ຄຳເວົ້າທີ່ບໍ່ຈິງບາງຄັ້ງເຮັດໃຫ້ບາງຄົນສົງໄສຫຼາຍຂຶ້ນ ດັ່ງນັ້ນໃຫ້ຕັດສິນໃຈວ່າອັນໃດເປັນຜົນປະໂຫຍດທີ່ດີທີ່ສຸດສຳລັບຄົນນັ້ນ ແລະຈົ່ງສະໝ່ຳສະເໝີ. ຢູ່ Penn Memory Center ທັດສະນະຂອງຜູ້ອຳນວຍການຮ່ວມຄົນໜຶ່ງແມ່ນວ່າຄວາມຈິງເປັນຄ່າເລີ່ມຕົ້ນ ແລະຄຳເວົ້າທີ່ບໍ່ຈິງເລັກນ້ອຍດ້ວຍຄວາມເມດຕາຮັບໄດ້ເທົ່ານັ້ນ ເມື່ອຄົນນັ້ນບໍ່ສາມາດປະມວນຜົນຄວາມຈິງບາງຢ່າງໄດ້ ແລະທ່ານບໍ່ຄວນເຍາະເຍີ້ຍຄວາມເປັນຈິງຂອງເຂົາເຈົ້າ.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+ຜູ້ດູແລຫຼາຍຄົນເຫັນວ່າທາງສາຍກາງໃຊ້ໄດ້ຜົນ: ໃຫ້ຄວາມປອບໂຍນ ແລະການເບິ່ງເຫດການໄປທາງອື່ນຢ່າງຊື່ສັດກ່ອນ (“ພວກເຮົາຈະຢູ່ທີ່ນີ້ຄືນນີ້ ແລະຂ້ອຍຢູ່ນີ້ກັບເຈົ້າ”) ໂດຍບໍ່ໂຕ້ແຍ້ງວ່າບ້ານຢູ່ໃສ.
 
-## What if it happens every afternoon or evening?
+## ຖ້າມັນເກີດຂຶ້ນທຸກຕອນບ່າຍ ຫຼືຕອນແລງເປັນແນວໃດ?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+ຄວາມກະວົນກະວາຍທີ່ເລີ່ມ ຫຼືຮຸນແຮງຂຶ້ນໃນຕອນບ່າຍແກ່ມັກເອີ້ນວ່າ sundowning. [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ແນະນຳໃຫ້ມີກິດຈະວັດທີ່ໝັ້ນຄົງ ແສງແດດ ແລະການເຄື່ອນໄຫວໃນແຕ່ລະວັນ ນອນກາງເວັນຕອນບ່າຍແກ່ໜ້ອຍລົງ ແລະບໍ່ໃຊ້ຄາເຟອີນ ຫຼືເຫຼົ້າໃນຊ່ວງທ້າຍວັນ. ການເປີດໄຟກ່ອນຄ່ຳກໍຊ່ວຍໄດ້. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ[ກິດຈະກຳຕອນບ່າຍແກ່ທີ່ສະຫງົບ](/caregiving/late-day-restlessness/) ມີຄຳແນະນຳເພີ່ມເຕີມ.
 
-## Keeping them safe if they try to leave
+## ການຮັກສາຄວາມປອດໄພຖ້າເຂົາເຈົ້າພະຍາຍາມອອກໄປ
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+ການຖາມຢາກກັບບ້ານອາດນຳໄປສູ່ການຍ່າງຫຼົງ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ປະເມີນວ່າຄົນທີ່ດຳລົງຊີວິດກັບໂຣກສະໝອງເສື່ອມ ຫົກໃນສິບຄົນຈະຍ່າງຫຼົງຢ່າງໜ້ອຍໜຶ່ງເທື່ອ.
 
-**Prepare ahead:**
+**ກຽມຕົວລ່ວງໜ້າ:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ສາຍຂໍ້ມືລະບຸຕົວຕົນ ຫຼືສາຍຂໍ້ມືທາງການແພດທີ່ມີຊື່ຂອງເຂົາເຈົ້າ ແລະເບີໂທຂອງທ່ານ ພ້ອມປ້າຍຕິດໃນເສື້ອຜ້າ. [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) ກ່າວເຖິງໂຄງການ MedicAlert ແລະ Alzheimer's Association Safe and Found ທີ່ອາດຕ້ອງເສຍເງິນ.
+- ກະດິ່ງປະຕູ ຫຼືສັນຍານເຕືອນ ແລະກອນລັອກທີ່ວາງໄວ້ສູງ ຫຼືຕ່ຳ. ຢ່າລັອກຄົນນັ້ນໄວ້ຄົນດຽວເດັດຂາດ.
+- ຮູບຖ່າຍໃກ້ໆທີ່ຫຼ້າສຸດ ແລະລາຍການສະຖານທີ່ທີ່ເຂົາເຈົ້າອາດໄປ ເຊັ່ນເຮືອນເກົ່າ ຫຼືບ່ອນເຮັດວຽກ.
+- ບອກເພື່ອນບ້ານທີ່ໄວ້ວາງໃຈ ແລະໃຫ້ເບີໂທຂອງທ່ານ.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**ຖ້າເຂົາເຈົ້າຫາຍໄປ:** ໃຫ້ກວດສະຖານທີ່ປອດໄພໃກ້ຄຽງ ພ້ອມກັບຕິດຕໍ່ຕຳຫຼວດໃນທ້ອງຖິ່ນ ຫຼືບໍລິການສຸກເສີນໂດຍໄວ. ຢ່າລໍຖ້າຈຳນວນນາທີທີ່ແນ່ນອນກ່ອນແຈ້ງເຫດ. ບົດຄວາມວາລະສານ [ກະຊວງຍຸຕິທຳສະຫະລັດ (U.S. Department of Justice)](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) ປີ 2021 ກ່ຽວກັບການສືບສວນຄົນຫາຍ ລະບຸວ່າໜ່ວຍງານບັງຄັບໃຊ້ກົດໝາຍບໍ່ຄວນກຳນົດໄລຍະລໍຖ້າທີ່ແນ່ນອນ ແລະຍັງລະບຸອາການຄ້າຍໂຣກສະໝອງເສື່ອມເປັນຄວາມກັງວົນທີ່ມີຄວາມສ່ຽງສູງ. ຂັ້ນຕອນການລາຍງານໃນທ້ອງຖິ່ນອາດແຕກຕ່າງກັນ. ບອກຜູ້ຕອບສະໜອງວ່າຄົນນັ້ນເປັນໂຣກສະໝອງເສື່ອມ ແບ່ງປັນສະຖານທີ່ສຸດທ້າຍທີ່ຮູ້ ແລະຮູບຖ່າຍຫຼ້າສຸດ ແລະປະຕິບັດຕາມຄຳແນະນຳຂອງເຂົາເຈົ້າ. ຖ້າມີຜູ້ຊ່ວຍອື່ນ ໃຫ້ຂໍໃຫ້ເຂົາເຈົ້າຢູ່ໃກ້ໂທລະສັບ. ຢ່າຊອກຫາໃນສະຖານທີ່ທີ່ບໍ່ປອດໄພຄົນດຽວ.
 
-## When should I call a doctor?
+## ເວລາໃດຄວນໂທຫາໝໍ?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+ໂທຫາໝໍຂອງເຂົາເຈົ້າໂດຍໄວ ຖ້າການຖາມ ຫຼືຄວາມສັບສົນເກີດຂຶ້ນກະທັນຫັນ ຫຼືຮຸນແຮງຂຶ້ນຫຼາຍພາຍໃນຊົ່ວໂມງ ຫຼືວັນ. [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ລະບຸວ່າພຶດຕິກຳທີ່ກະທັນຫັນ ຫຼືປ່ຽນແປງຢ່າງໄວ ໂດຍສະເພາະຫຼັງຈາກການຕິດເຊື້ອ ຫຼືການປ່ຽນຢາ ຄວນໄດ້ຮັບການກວດທັນທີ. ຄວາມສັບສົນກະທັນຫັນອາດເປັນພາວະ delirium ເຊິ່ງ [NHS](https://www.nhs.uk/symptoms/confusion/) ລະບຸວ່າຕ້ອງການຄວາມຊ່ວຍເຫຼືອດ່ວນ ແລະການຕິດເຊື້ອທາງເດີນປັດສະວະເປັນສາເຫດທົ່ວໄປໃນຜູ້ສູງອາຍຸ.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+ມັນກໍຊ່ວຍໄດ້ຖ້າຈະບອກເລື່ອງຮູບແບບທີ່ໝັ້ນຄົງໃນການນັດໝໍຄັ້ງຕໍ່ໄປ ເພາະຄວາມເຈັບປວດ ອາລົມຕ່ຳ ບັນຫາການນອນ ຫຼືຜົນຂ້າງຄຽງຂອງຢາ ລ້ວນອາດມີສ່ວນໄດ້.

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "אַקטיװיטעטן פֿאַר שפּעט-סטאַדיום דעמענץ, אויך אין בעט אָדער אויפֿן שטול"
+seoTitle: "שפּעט-סטאַדיום דעמענץ: אידייען פֿאַר בעט און שטול"
+description: "לײכטע אַקטיװיטעטן פֿאַר שפּעט-סטאַדיום דעמענץ, אויך פֿאַר אַ מענטש אין בעט אָדער אויפֿן שטול: מוזיק, באַרירונג, פֿאָרלײענען, קולות און צוזאַמען-זײַן."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  אין שפּעט-סטאַדיום פֿון דעמענץ זענען אַקטיװיטעטן געצױגן צו די חושים און צו אײַער
+  חבֿרותא: ליב-געהאַטע מוזיק שפּילן, די האַנט האַלטן, אַ פּאָמעלעכע האַנט-מאַסאַזש,
+  פֿאָרלײענען, בילדער ווײַזן, נאַטור-קולות און זיצן לעבן אַ פֿענצטער אָדער אין דרויסן.
+  אַלע די אידייען פּאַסן פֿאַר אַ מענטש אין בעט אָדער אויפֿן שטול. האַלט די סעסיעס
+  קורץ, קוקט אויף פּנימער און הענט פֿאַר רו, און געדענקט אַז צו זײַן דאָ איז שוין אַ
+  אַקטיװיטעט אין זיך.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "פֿאַרבינדונג איז נאָך מעגלעך. אין שפּעט-סטאַדיום װערט די װעלט מערסטנס דורך די חושים דערפֿאָרשט."
+  - "מוזיק, װײכע באַרירונג, באַקאַנטע שטימען און װײכע זאַכן צו האַלטן דערגרײכן אָפט מענטשן װען װערטער טאָן עס נישט מער."
+  - "כּמעט יעדע אידיע דאָ פּאַסט פֿאַר אַ מענטש אין בעט אָדער אויפֿן שטול."
+  - "קוקט אויף רו אָדער אומבאַקװעמקייט אין פּנים, הענט און אָטעם, און האַלט אָן ביי יעדן צײכן פֿון נױט."
+  - "פֿאַרמײדט קלײנע זאַכן, און באָט עסן אָדער טרינקען בלויז לויט די עצה פֿון דעם שטאַב, װײַל שלינגען קען װערן אומזיכער."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "װאָס קען מען טאָן מיט אַ מענטש מיט שפּעט-סטאַדיום דעמענץ װאָס ליגט אין בעט?"
+    a: "שפּילט זײַן ליב-געהאַטע מוזיק, האַלט זײַן האַנט, געבט אַ פּאָמעלעכע האַנט-מאַסאַזש מיט קרעם, לײענט פֿאָר פֿון אַ בוך אָדער תפֿילה װאָס ער האָט ליב, װײַזט בילדער, אָדער שפּילט װײַכע נאַטור-קולות. עפֿנט די פֿאָרהענגען, כּדי ער זאָל זען אַרױס. קורצע, רויקע סעסיעס מיט איין זאַך אויף אַ מאָל זענען מערסטנס די בעסטע."
+  - q: "צי קענען מענטשן אין שפּעט-סטאַדיום נאָך האָבן פֿרײד פֿון מוזיק?"
+    a: "פֿיל קענען. די Alzheimer's Association באַמערקט, אַז אפֿילו אין שפּעט-סטאַדיום קען אַ מענטש קלאַפּן אַ ביט אָדער זינגען מיט אַ לידל פֿון קינדהײט. קלײַבט מוזיק װאָס ער האָט ליב געהאַט װען ער איז געװען יינגער, און האַלט די לאַוטקײט װײך."
+  - q: "װי װײס איך צי זײ האָבן פֿרײד פֿון אַ אַקטיװיטעט?"
+    a: "קוקט אויף קלײנע צײכנס: אַראָפּגעלאָזטע פּלײצעס, אַ װײכערער פּנים, אויגן-קאָנטאַקט, סנאָבלען, אַ דרוק פֿון דער האַנט אָדער לאַנגזאַמערער אָטעם. פֿאַרציִען דעם פּנים, אַװעקציִען, אומרו אָדער שטײנען קענען מיינען אומבאַקװעמקייט אָדער װײטיק. װען איר זעט דאָס, הערט אויף און זאָגט דעם שטאַב, אױב עס הערט נישט אויף."
+  - q: "איז עס װערט צו באַזוכן, אויב ער דערקענט מיך נישט מער?"
+    a: "יאָ. די National Institute on Aging באַמערקט, אַז בלױז דאָ זײַן קען זײַן באַרויִקנדיק, און אַז באַרירונג, מוזיק און געשיכטעס קענען נאָך געבן טרייסט אין פֿאָרגעשריטענער דעמענץ. אײַער קול און באַרירונג קענען באַקאַנט זײַן אפֿילו װען אײַער נאָמען איז נישט מער."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+בשפּעט-סטאַדיום פֿון דעמענץ קען אַ מענטש זאָגן זייער װײניק, דאַרף הילף מיט אַלע טאָגלעכע זאָרג און פֿאַרברענגט אַ סך פֿון טאָג אין בעט אָדער אויפֿן שטול. עס קען אויסזען, אַז עס איז גאָרנישט מער צו טאָן צוזאַמען. אָבער עס איז. די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) באַמערקט, אַז עפּעס פֿון דעם מענטשס זיך קען בלײַבן, און אַז אין דעם סטאַדיום װערט די װעלט מערסטנס דורך די חושים דערפֿאָרשט. מוזיק, באַרירונג, אַ באַקאַנטע שטימע און אײַער רויקע חבֿרותא קענען נאָך געבן טרייסט און מאָמענטן פֿון פֿאַרבינדונג.
 
-## What activities help in late-stage dementia?
+## װאָס פֿאַר אַקטיװיטעטן העלפֿן אין שפּעט-סטאַדיום דעמענץ?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+פּשוטע חושים-אַקטיװיטעטן און רויקע חבֿרותא העלפֿן רובֿ אין דעם שפּעטן סטאַדיום. די Alzheimer's Association רעקאָמענדירט צו שפּילן ליב-געהאַטע מוזיק, לײענען טיילן פֿון באַדײטנדיקע ביכער, מאַסאַזשירן מיט קרעם װאָס האָט אַ באַקאַנט ריח, און צוזאַמען זיצן אין דרויסן אויף אַ שײנעם טאָג. די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) לײגט צו דערצײלן געשיכטעס, װײַזן בילדער, װײַכע באַרירונג אָדער מאַסאַזש און מוזיק, װײַס-רױש אָדער נאַטור-קולות, און זאָגט אַז אײַער בלױזע אָנװעזנהײט קען זײַן באַרויִקנדיק.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+די [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) באַמערקט, אַז מענטשן אין שפּעט-סטאַדיום האָבן אָפט אַ שטאַרקע באַדערפֿעניש צו האַלטן עפּעס נאָענט צו זיך פֿאַר טרייסט, און רעקאָמענדירט פּשוטע חושים-אַקטיװיטעטן, װײַכע באַװעגונגען, שאַרפֿע-באַװעגונג, מוזיק, בהמה-באַזוכן, מענטשלעכע באַרירונג און פֿרײע קונסט.
 
-## Activities for someone in bed or a chair
+## אַקטיװיטעטן פֿאַר אַ מענטש אין בעט אָדער אויפֿן שטול
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **שפּילט זײַן מוזיק.** קלײַבט לידער פֿון זײַן יונג-דערװאַקסענעם עלטער, זײַן אמונה אָדער זײַן משפּחה. האַלט די לאַוטקײט װײך און זיצט נאָענט. אפֿילו איצט קענען עטלעכע מענטשן קלאַפּן מיטן פֿינגער אָדער זוגן. זעט [מוזיק-אַקטיװיטעטן](/activities/music/).
+2. **האַלט די הענט.** נאָר אַ האַנט האַלטן, מיט אַ װײכן דאַמען-שטריך, איז אַ אַקטיװיטעט. זאָגט פֿריִער װאָס איר טוט.
+3. **געבט אַ פּאָמעלעכן האַנט-מאַסאַזש.** װאַרעמט אַ ביסל קרעם אין אײַערע האַנט-פֿלעכן און שטרײַכלט פֿון דעם האַנטגעלענק ביז די פֿינגערשפּיצן. קלײַבט אומגעשמאַקן קרעם, אָדער אַ ריח װאָס ער האָט שטענדיק ליב געהאַט, אויב זײַן הויט פֿאַרטראָגט עס.
+4. **לײענט פֿאָר.** אַ ליב-געהאַטע פּאָעזיע, אַ טייל פֿון אַ באַליבט בוך, תורה אָדער די שפּאָרט-זײַטל. דער רײַד פֿון אײַער שטימע איז װיכטיקער װי די װערטער.
+5. **דערצײלט אַ געשיכטע.** רעדט װעגן אַ משפּחה-נסיעה אָדער דעם טאָג װאָס ער האָט חתונה געהאַט. איר דאַרפֿט נישט קײן ענטפֿערס.
+6. **װײַזט בילדער.** האַלט אײן גרױס בילד אַ מאָל, אויף אויגן-הײך, און באַשרײַבט עס װאַרעם. פֿרעגט נישט װער עס איז.
+7. **גיט עפּעס װײַכס צום האַלטן.** אַ געפֿאַלטע װאָשקלאַפּ, אַ פֿליז-קװאַדראַט אָדער אַ װײַכע חיה. די NIA רעקאָמענדירט צו געבן דעם מענטש אַ װאַשלאַפּ צו האַלטן בשעת מע באַװעגט אים, אַזױ אַז ער גרײפֿט װײניקער נאָך אײַך אָדער די מעבל.
+8. **שפּילט נאַטור-קולות.** רעגן, כוואַליעס אָדער פֿייגל-געזאַנג אין אַ נידעריקער לאַוטקײט קענען מילדערן אַ לאַרמיקן צימער.
+9. **ברענגט דאָס דרויסן אַרײַן.** עפֿנט די פֿאָרהענגען, שטעלט אַ פֿיטער נאָך דעם פֿענצטער, אָדער ברענגט אײַן עטלעכע פֿרישע בלומען אָדער בלעטער צו קוקן און צו רירן.
+10. **גײט אַרױס.** אויב דער מענטש קען זיצן אין אַ װאָגן, קען אַ פּאָר מינוטן אין שאָטן אויף אַ מילדן טאָג זײַן װונדערשײן.
+11. **בערשט זײַן האָר אָדער גיט אַ װאַרעם װאַשלאַפּ.** לאַנגזאַם, װײך פּאַטשן און אַ װאַרעם װאַשלאַפּ פֿאַר הענט און פּנים קענען זײַן זייער זאָרגעדיק.
+12. **באַװעגט זיך װײך מיט מוזיק.** װײַגט אַ לײכטע שאַרפּע צוזאַמען, אָדער שװײַגט די הענט אין טעמפּאָ צו אַ לידל. פֿאַר שטרעכונגען און געלענקבאַװעגונג, בעט אַ פֿיזיאָטעראַפּיסט אָדער אַ שװעסטער צו װײַזן אײַך זיכערע װעגן פֿריִער.
+13. **מאַכט פֿרײע קונסט.** שמירט נישט-גיפֿטיקע פֿאַרבן אויף גרױס פּאַפּיר מיט אַ שװאַם אָדער מיט אַ האַנט, געפֿירט פֿון אײַערע. עס איז קיין ריכטיק רעזולטאַט נישט.
+14. **װעלקאָם טאָן חיות-באַזוכן.** אַ רויקע בהמה אויף דעם בעט אָדער אויפֿן שויס, אויב דער מענטש האָט חיות ליב געהאַט און די סביבה ערלויבט עס.
+15. **אָטעמט פּאַמעלעך צוזאַמען.** זיצט נאָענט און אָטעמט פּאַמעלעך און הערבאַר. [רויקע אָטעם-איבונגען](/games/calm-breathing/) קענען אײַך בײַדע פּאַסן, און איר הײבט אָן און האַלט אָן.
+16. **זײט פּשוט דאָ.** זיצט נאָענט, סנאָבלט, שטריקט אָדער לײענט שטיל. דאָ זײַן איז גענוג.
 
-## How to share an activity at this stage
+## װי צו טײלן אַ אַקטיװיטעט אויף דעם שפּעטן סטאַדיום
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **נענטערט זיך פֿון פֿאָרן.** זאָגט זײַן נאָמען און אײַער נאָמען, און רעדט לאַנגזאַם און װײך פֿאַר איר רירט אים.
+- **װײַזט איין זאַך אַ מאָל.** שטעלט די טעלעװיזיע אָפּ פֿאַר איר שפּילט מוזיק. טוט איין חוש אויף אַ מאָל.
+- **האַלט עס קורץ.** עטלעכע מינוטן קען זײַן גענוג. עטלעכע קורצע מאָמענטן איבער דעם טאָג זענען בעסער װי איין לאַנגע סעסיע.
+- **װערט באַקװעם צו ערשט.** קוקט אַז דער מענטש איז גוט געשטיצט. די NIA רעקאָמענדירט אַ שויס-ברעט צו שטיצן די אָרעמען און דעם אויבערן גוף בשעת ער זיצט אויפֿגעריכט.
+- **באָבאַכט די רעאַקציע.** װײכע הענט, אַ װײכערער פּנים, אויגן-קאָנטאַקט אָדער סנאָבלען װײַזן אויף רו. די NIA באַמערקט, אַז סטענען, פֿאַרציִען דעם פּנים, באַשיצן אַ טייל פֿון דעם גוף אָדער פּלוצלעכע אומרו קענען זײַן סימנים פֿון װײטיק. האַלט אָן און זאָגט דעם שטאַב.
 
-## A quick guide by sense
+## אַ שנעלער פֿירער לױט חוש
 
-| Sense | Ideas | Take care |
+| חוש | אידייען | זײַט אױפֿמערקזאם |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| געהער | ליב-געהאַטע מוזיק, אײַער שטימע װאָס לײענט, נאַטור-קולות | האַלט די לאַוטקײט נידעריק; איין קול אויף אַ מאָל |
+| באַרירונג | האַנט-מאַסאַזש, די הענט האַלטן, װײכער שטאָף, װאַרעמער װאַשלאַפּ | פֿרעגט אָדער זאָגט פֿריִער; קוקט צי די הויט איז נישט װײַך אָדער צעבראָכן |
+| געזיכט | בילדער, בלומען, די אױסזיכט פֿון אַ פֿענצטער, אַ לאַנגזאַמער נאַטור-װידעאָ | האַלט די זאַכן אויף אויגן-הײך; גוט ליכט, קײן גלאַנץ |
+| ריח | אַ ליב-געהאַטע קרעם, פֿרישע בלומען, קאַװע װאָס ברױט נאָענט | מײַדט שטאַרקע ריחות; קוקט פֿאַר אַלערגיעס און אָטעם |
+| געשמאַק | אַ קלײנער טעם פֿון אַ ליב-געהאַטן געשמאַק | נאָר עסן און טעקסטורן װאָס דער שטאַב זאָגט זענען זיכער |
 
-## Safety at this stage
+## זיכערקייט אין דעם סטאַדיום
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+שלינגען קען װערן שװער אין שפּעט-סטאַדיום, און די NIA װאָרנט, אַז דאָס העכערט דעם ריזיקאָ פֿון פֿאַרשלינגען. לאָזט נישט קלײנע זאַכן אין דערגרײכן, און בעט עסן אָדער טרינקען בלויז אין די טעקסטורן און פּאָזיציעס װאָס דער שטאַב רעקאָמענדירט. קוקט פּאַמעלעך צו דעם הויט בשעת באַרירונג-אַקטיװיטעטן, װײַל די הויט קען לײכט רײַסן אָדער װאַרפֿן בלוי-פֿלעקן. פֿאַר מער װעגן זיכערע חושים-אידייען, זעט [חושים-אַקטיװיטעטן](/activities/sensory/).
 
-## Looking after yourself too
+## זאָרגט אױך פֿאַר זיך
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+שפּעט-סטאַדיום-זאָרג איז פֿיזיש און עמאָציאָנעל שװער, װאָס עס זאָל זײַן אין דער היים אָדער בײַם באַזוך אין אַ פֿלעגער-היים. האָספּיס- און פּאַליאַטיװע-זאָרג-טימען קענען העלפֿן מיט קאָמפֿאָרט, שטיצע און פּלאַנירן, און די NIA רשימט זײ אַלס אַ מקור פֿון הילף. קורצע, רויקע באַזוכן זענען װערט־פֿולע; זעט [באַזוכן אַ מענטש מיט דעמענץ](/activities/visiting/). אױב איר פֿירט גרופּעס, האָט [גרופּע-אַקטיװיטעטן אין פֿלעגער-היימען](/activities/care-home-groups/) אידייען װי צו אָנפּאַסן זיצונגען. און לײענט אַ גאַנצן [זעלבסט-זאָרג פֿאַר זאָרגערס](/caregiving/caregiver-self-care/): רו איז אַ טייל פֿון גוט זאָרגן.

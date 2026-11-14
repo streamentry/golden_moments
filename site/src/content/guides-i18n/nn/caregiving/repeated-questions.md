@@ -1,36 +1,34 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Når nokon med demens stiller det same spørsmålet om og om att"
+seoTitle: "Demens og gjentekne spørsmål: kva du bør seie og gjere"
+description: "Kvifor ein person med demens stiller det same spørsmålet om og om att, roande måtar å svare på, enkle hjelpemiddel, og når ei brå endring krev lege."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Gjentekne spørsmål er vanlege ved demens: personen hugsar som regel ikkje at dei har spurt, og spørsmålet
+  bærer ofte på ei bekymring. Svar roleg og kort, som om det var første gong, svar på kjensla bak det, og
+  seie aldri «Du har jo spurt». Skriv svaret der dei kan sjå det, nemn hendingar berre kort før dei skjer,
+  og tilby ei hyggeleg aktivitet. Ei brå endring krev lege.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Personen hugsar som regel ikkje at dei har spurt. Det er ikkje meint som noko."
+  - "Spørsmålet gøymer ofte ei kjensle, til dømes bekymring for ein time eller eit ønske om å kjenne seg trygg."
+  - "Svar roleg, kort og vennleg, som om det var første gong. Seie aldri «Du spurde jo om det»."
+  - "Ein lapp, ei kvitetavle, ei klokke eller ein kalender i synsfeltet kan svare på spørsmålet for deg."
+  - "Nemn stressande hendingar berre kort før dei skjer."
+  - "Ta ei kort pause når du treng det, og ring lege ved brå endringar."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Kvifor spør pappa mi med demens stadig om det same?"
+    a: "Demens påverkar korttidsminnet, så han kan verkeleg ikkje hugse at han har spurt, eller høyrt svaret. Ofte bær spørsmålet òg ei kjensle, som bekymring for kva som skjer vidare eller eit behov for å bli forsikra. Å svare på kjensla hjelper som regel meir enn å gjenta fakta."
+  - q: "Bør eg seie at dei allereie har spurt?"
+    a: "Nei. Det kan ikkje hjelpe dei å hugse, og det kan kjennast som ei tilrettevising. Organisasjonar for demens rår til å svare roleg kvar gong, som om det var første gong, og å halde svaret kort."
+  - q: "Hjelper det å skrive svaret ned?"
+    a: "Det kan hjelpe, så lenge personen framleis kan lese. Ein lapp, ei kvitetavle med dagens plan, ei stor klokke eller ein kalender der dei ofte ser, lar dei sjekke svaret sjølve. Peik på det forsiktig i staden for å seie «Eg sa det jo»."
+  - q: "Når bør eg snakke om avtalar eller turar?"
+    a: "Nær tidspunktet. Å nemne ein legetime eller ein tur fleire dagar før kan bli til timar med bekymra spørsmål. Fortel det kort før, roleg, og med kva som skjer vidare."
+  - q: "Når er gjentaking ein grunn til å ringe lege?"
+    a: "Viss spørsmål, forvirring eller åtferd endrar seg brått eller blir mykje verre i løpet av timar eller dagar, ring legen raskt. Infeksjon, ny medisin, smerte, forstoppelse eller uttørking kan gi brå forvirring som kallast delirium, og det treng hurtig hjelp."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +56,94 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Kva tid er legetimen?» Ti minutt seinare: «Kva tid er legetimen?» Å høyre same spørsmål om og om att er ein av
+dei mest slitsame delane ved å ha omsorg for nokon som lever med demens. Det er svært vanleg, det skjer ikkje med vilje,
+og det finst roelege måtar å svare på som gjer dagen lettare for dykk begge.
 
-## Why does someone with dementia ask the same question over and over?
+## Kvifor spør nokon med demens om det same om og om att?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+I hovudsak på grunn av hukommelsen. Demens påverkar korttidsminnet, så personen hugsar ofte ikkje at dei har spurt, eller
+hugsar ikkje svaret. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/)
+skildrar det å stille spørsmål mange gonger som vanleg og forventa.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Spørsmålet bær ofte òg ei kjensle. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition)
+forklarer at eit gjentekne spørsmål kan uttrykkje ei bekymring, ein bøn om hjelp, eller engstel og utryggleik, og at personen
+ofte leitar etter trøyst og noko kjent. «Når skal vi dra?» kan verkeleg tyde «Eg er nervøs for å dra.» Kjedsomheit, frykt, støy og
+endringar i rutinen kan alle utløyse det, og eit gjentekne spørsmål kan òg vere eit teikn på eit behov, til dømes toalettet
+([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Kva bør eg seie?
 
-Answer calmly and briefly, as if it were the first time.
+Svar roleg og kort, som om det var første gong.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Hald svaret kort og likt kvar gong.** «Legetimen er klokka to på ettermiddagen. Eg er saman med deg.» Eit konsekvent svar er lettare å ta inn.
+- **Svar på kjensla.** «Du lurer på legen. Han er i ettermiddag, og eg køyrer oss. Du treng ikkje gjere noko.»
+- **Bruk ein varm tone og ei mild berøring,** viss dei likar berøring. Alzheimer's Association rår til å halde roa og ikkje
+  bruke logikk eller argumentere.
+- **Gi svaret dei leitar etter,** så ofte som det trengst. Alzheimer's Association seier å gjenta det så mange gonger dei spør.
 
-## What should I avoid?
+## Kva bør eg unngå?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«Du har jo spurt meg om det.»** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+  rår mot å peike på at dei nettopp spurde. Det kan ikkje hjelpe dei å hugse, og det kan kjennast som ei refsing.
+- **Lange forklaringar.** Fleire ord gir meir å gløyme.
+- **Sukk, augerulling eller ein skarp tone.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
+  rår til tolmod og å ikkje vise frustrasjon. Det er vanskeleg; sjå avsnittet om pauser nedanfor.
 
-## Simple tools that answer the question for you
+## Enkle hjelpemiddel som svarer på spørsmålet for deg
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Så lenge personen framleis kan lese, hjelper ein skriftleg beskjed dei kan sjå, som regel meir enn ein munnleg.
 
-| Tool | How to use it |
+| Hjelpemiddel | Korleis du bruker det |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Ein lapp med store bokstavar | «Legen i dag klokka to på ettermiddagen. Mary køyrer.» Set han der dei ser mest |
+| Ei kvitetavle | Dagens plan i tre eller fire linjer; vask av og skriv på nytt kvar morgon |
+| Ei stor klokke med dag og dato | Hjelper med «Kva dag er det?» og «Er det snart tid?» |
+| Ein kalender | Kryss av kvar dag; ring rundt neste besøk |
+| Kjende bilete | Eit bilete av personen som kjem, kan svare på «Kven er det som kjem på besøk?» |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Desse idéane kjem frå [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) og
+[Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf).
+Peik forsiktig på lappen («La oss sjå på tavla saman») i staden for å seie «Eg skreiv det ned til deg».
 
-## Tell them about events close to the time
+## Nemn hendingar nær tidspunktet
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Å nemne ein avtale eller ein tur fleire dagar på førehand kan bli til timar med bekymra spørsmål. Family Caregiver Alliance og
+Alzheimer's Los Angeles rår begge til å snakke om planar, særleg stressande planar som legebesøk eller bading, berre kort før dei
+skjer. Fortel så kva som skjer vidare, eitt steg om gongen.
 
-## Activities that can shift attention
+## Aktivitetar som kan flytte merksemda
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Når du har svart og anerkjent kjensla, kan ein roleg og hyggeleg aktivitet hjelpe, særleg viss kjedsomheit ligg bak spørsmåla.
+Alle kjeldene ovanfor rår til å leie merksemda over til noko personen likar.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Eit kort, enkelt spel saman.** [Picture pairs](/games/picture-pairs/) held bileta synlege, så ingenting må hugsast.
+2. **Ei kjend oppgåve.** Brette handkle, sortere sokkar eller dekke bordet. [Sort together](/games/sort-together/) er ei utgåve på skjermen.
+3. **Snakk om noko dei elskar.** [Conversation cards](/games/conversation-cards/) gir opne spørsmål utan rette svar.
+4. **Musikk, ein spasertur eller ein matbit.** National Institute on Aging listar desse blant enkle måtar å leie merksemda over på.
+5. **Ei stille pause.** Sit saman, sjå ut av vindauget, eller prøv eit felles [calm breathing](/games/calm-breathing/)-augeblink.
 
-If they return to the question, answer it again, kindly. That is fine.
+Viss dei kjem attende til spørsmålet, svar på det igjen, vennleg. Det er greitt.
 
-## Look for patterns
+## Sjå etter mønster
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association rår til å leggje merke til om spørsmåla kjem til bestemte tider på dagen, saman med bestemte folk eller på bestemte
+stader. Viss dei alltid startar før besøk kjem, eller seint på ettermiddagen, kan du planleggje på førehand: ein lapp om besøket, ei kjend
+aktivitet klar, eit roligare rom. Vår rettleiing om [roande aktivitetar seint på ettermiddagen](/caregiving/late-day-restlessness/)
+kan hjelpe viss kveldane er vanskelegast.
 
-## Take care of yourself
+## Ta vare på deg sjølv
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Å svare på det same spørsmålet for tjuende gong er utmattande. Viss du kjenner at tolmodet tek slutt og personen er trygg, gå inn i eit
+anna rom i nokre minutt og pust, slik [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf)
+rår til. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers)
+oppmodar pårørande til å be om hjelp og vurdere avlastning. Fleire idear finn du i vår [rettleiing om eigenomsorg for pårørande](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Når bør eg ringe lege?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Ring legen deira raskt viss spørsmål, forvirring eller åtferd endrar seg brått eller blir mykje verre i løpet av timar eller dagar.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
+seier at brå eller raskt skiftande åtferd, særleg etter ein infeksjon eller ei medisinendring, bør takast opp med lege med ein gong.
+[Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) forklarer at infeksjon, medisinar,
+uttørking, smerte eller forstoppelse kan gi delirium, ei brå og alvorleg forvirring som treng rask behandling. Viss nokon er i fare, ring det
+lokale nødnummeret.

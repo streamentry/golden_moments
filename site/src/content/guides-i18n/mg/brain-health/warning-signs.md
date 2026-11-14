@@ -1,31 +1,34 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Famantarana voalohan’ny dementia sy rehefa tokony hijery dokotera"
+seoTitle: "Famantarana voalohan’ny dementia sy ny dokotera"
+description: "Famantarana voalohan’ny dementia, ahoana no fanavahana azy amin’ny fanananganiana, antony azo sitrana ny olana fahatsiarovana ary fomba fiomanana."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Ny fahaverezan’ny fahatsiarovana izay manelingelina ny fiainana andavanandro,
+  ny olana amin’ny asa mahazatra, ny fikorontanana amin’ny andro na toerana, ary
+  ny fiovan’ny toe-tsaina na ny fahatsapana dia mety ho famantarana voalohany amin’ny
+  dementia. Aretina maro hafa, anisan’izany ny olana amin’ny tiroida, ny vitamine B12
+  ambany, ny vokatry ny fanafody, ny fahaketrahana ary ny olana amin’ny torimaso, dia
+  mety hiteraka fiovana mitovy. Ny mpitsabo manana fahaizana ihany no afaka manao
+  fanamarinana. Ny fikorontanana tampoka dia mila fikarakarana haingana.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Ny tsy fahatsiarovana indraindray dia mahazatra miaraka amin’ny taona; ny fiovana izay manelingelina ny fiainana andavanandro dia mendrika jerena."
+  - "Ny Alzheimer’s Association dia mamaritra famantarana fampitandremana 10, tsirairay miaraka amin’ny fiovana mahazatra amin’ny taona ho fampitahana."
+  - "Ny olana amin’ny tiroida, ny vitamine B12 ambany, ny vokatry ny fanafody, ny fahaketrahana, ny aretina ary ny olana amin’ny torimaso dia mety hisy fiantraikany amin’ny fahatsiarovana, ary ny sasany azo sitrana."
+  - "Ny mpitsabo manana fahaizana ihany no afaka manao fanamarinana dementia; ny fanadinana an-tserasera sy ny fitsapana manokana tsy afaka."
+  - "Ny fikorontanana izay miseho tampoka, mandritra ny ora na andro vitsivitsy, dia mety ho delirium ary mila fikarakarana ara-pitsaboana haingana."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ampahany ara-dalàna amin’ny fanananganiana ve ny fahadisoan-kevitra?"
+    a: "Misy anjara kely. Ny National Institute on Aging dia milaza fa ny fahadisoana indraindray amin’ny fametrahana zavatra na fanadinoana fanambaràna dia matetika fahadisoan-kevitra kely mifandray amin’ny taona. Ny dementia dia tsy ampahany ara-dalàna amin’ny fanananganiana. Ny olana lehibe amin’ny fahatsiarovana izay mahasarotra ny asa andavanandro toy ny fitondrana fiara, fampiasana finday na fahitana lalana hiverina any an-trano dia mendrika resahina amin’ny dokotera."
+  - q: "Azo atao ve ny olana amin’ny fahatsiarovana noho ny zavatra hafa ankoatra ny dementia?"
+    a: "Eny. Ny National Institute on Aging dia milaza ny olana amin’ny tiroida, ny aknanina na ny atemba, ny vokatry ny fanafody, ny fahaketrahana sy ny fahatahorana, ny vitamine B12 ambany, ny fampiasana alikaola ratsy, ny olana amin’ny torimaso, ny aretina ary ny ratra an-doha, ary hafa koa. Ny sasany amin’ireo dia manatsara rehefa voatsabo, izay iray amin’ny antony manan-danja ny fanamarinana ara-pitsaboana."
+  - q: "Afaka manandrana olona amin’ny dementia ao an-trano ve aho?"
+    a: "Tsia. Ny mpitsabo manana fahaizana ihany no afaka manamarina ny dementia, amin’ny alalan’ny tantara ara-pahasalamana, fanadinana ara-batana, fitsapana fahatsiarovana sy fisainana, fitsapana laboratoara ary indraindray fijerena atidoha. Na ny fitsapana fohy izay ampiasain’ny dokotera aza dia tsy ampy irery hanamarinana ny dementia."
+  - q: "Inona no tokony hatao raha tampoka ny fikorontanan’ny olona?"
+    a: "Mitadiava fanampiana ara-pitsaboana avy hatrany. Ny fikorontanana tampoka dia mety ho delirium, izay ny VA dia milaza ho loza ara-pitsaboana. Antsoy avy hatrany ny mpikarakara ara-pahasalamana an’ny olona na antsoy ny laharana fanampiana vonjy maika eo an-toerana, mijanona miaraka amin’ny olona, ary tazomina ny fanafody rehetra izay alainy."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +56,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Mety hampatahotra ny mahatsapa fiovana amin’ny fahatsiarovanao, na amin’ny olona tianao. Ity pejy ity dia mety hanampy anao hanapa-kevitra rehefa tokony hanao fotoana amin’ny dokotera ary hiomana amin’izany. Tsy afaka milaza anao izy hoe misy dementia ve olona. **Ny mpitsabo manana fahaizana ihany no afaka manamarina ny dementia**, ary maro amin’ny aretina mahatonga olana fahatsiarovana tsy dementia ary. Aza miantehy ny fanadinana an-tserasera na fitsapana manokana.
 
-## What are the early signs of dementia?
+## Inona no famantarana voalohan’ny dementia?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+Ny [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/10_signs) dia mamaritra famantarana voalohany 10. Mampifandray izy tsirairay amin’ny fiovana mahazatra amin’ny taona ho fampitahana. Amin’ny teny ataonay:
 
-| Sign worth checking | More typical with age |
+| Famantarana azo jerena | Mahazatra kokoa amin’ny taona |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Fahaverezan’ny fahatsiarovana izay manelingelina ny fiainana andavanandro, toy ny fahadiso-pahatsiarovana ny zavatra vao nitranga na fanontanian-kevitra mitovy indray mandrakariva | Indraindray fahadiso-pahatsiarovana ny anarana na fotoana fihaonana, ary mahatsiaro azy any aoriana |
+| Sarotra amin’ny drafitra na famahana olana, toy ny fanarahana sakafo mahazatra na fanarahana ny vola an-trano | Fahadisoana indraindray amin’ny vola an-trano |
+| Sarotra amin’ny famitana asa mahazatra any an-trano, any amin’ny asa na rehefa mivoaka | Indraindray mila fanampiana amin’ny fikirizan’ny microwave na fandraketana fandaharana TV |
+| Very ny fahalalana daty, vanim-potoana na toerana misy anao | Diso ny andro amin’ny herinandro, avy eo mahatsikaritra izany |
+| Sarotra vaovao amin’ny fanombanana halavirana, famakiana na fahasamihafana loko | Fiovana amin’ny fahitana noho ny katarakta |
+| Olana vaovao amin’ny teny, toy ny fijanonana afovoan’ny resaka na fanaovana anarana diso amin’ny zavatra | Indraindray sarotra ny mahita ny teny marina |
+| Fametrahana zavatra amin’ny toerana tsy mahazatra ka tsy afaka mamerina ny dia | Indraindray very ny zavatra ka mahita azy amin’ny fanamarinana ny dia |
+| Fahaizana fanapahan-kevitra ratsy, toy ny amin’ny vola na fikarakarana tena | Fanapahan-kevitra ratsy indraindray |
+| Fisintonana amin’ny hobby, asa na hetsika iraisana | Indraindray tsy mahasitrana ny hanatrika fety fianakaviana na fiaraha-monina |
+| Fiovana amin’ny toe-tsaina na toetra, toy ny fikorontanana, fahasahiranana, fahatahorana na ahiahy | Fomba mahazatra ho an’ny fanaovana zavatra, ary fahatezerana rehefa mikorontana ny fomba andavanandro |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Famantarana iray ihany tsy midika dementia. Ny teboka dia ny **fiovana amin’ny zavatra mahazatra ho an’ilay olona**, indrindra ny fiovana izay mahasarotra ny fiainana andavanandro.
 
-## How is normal aging different from dementia?
+## Ahoana no fanavahana ny fanananganiana mahazatra amin’ny dementia?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Ny [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) dia milaza fa olona antitra maro dia mahatsapa fa miadana kokoa ny fahatsiarovana, na indraindray very ny zavatra na adino ny vola. Ireo dia matetika famantarana fahadisoan-kevitra kely. **Ny dementia dia tsy ampahany ara-dalàna amin’ny fanananganiana.** Ny olan’ny fahatsiarovana lehibe dia manasarotra ny asa andavanandro, toy ny fitondrana fiara, fampiasana finday na fahitana lalana hiverina any an-trano.
 
-The NIA suggests talking with a doctor if someone:
+Ny NIA dia manoro hevitra ny hiresaka amin’ny dokotera raha:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Manontany fanontanian-kevitra mitovy indray mandrakariva
+- Very amin’ny toerana fantany tsara taloha
+- Sarotra amin’ny fanarahana sakafo na torolalana
+- Mihamaro ny tsy fahalalana momba ny fotoana, olona ary toerana
+- Tsy mikarakara ny tenany intsony, toy ny tsy mihinana tsara, tsy manasa vatana na mihetsika tsy azo antoka
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Olona sasany manana **fahasembanan’ny fahaiza-manavakavaka maivana (MCI)**. Izany dia midika olana bebe kokoa amin’ny fahatsiarovana na fisainana noho ny hafa amin’ny taony, fa mbola mitantana ny fiainana andavanandro izy. Ny NIA dia milaza fa ny MCI dia mety ho famantarana voalohany amin’ny Alzheimer, fa tsy ny olona rehetra manana MCI no mivoatra ho amin’izany.
 
-## What else can cause memory problems?
+## Inona koa no mety hiteraka olana fahatsiarovana?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Maro ny zavatra hafa ankoatra ny dementia mety hisy fiantraikany amin’ny fahatsiarovana, ary ny sasany dia mihatsara amin’ny fitsaboana. Ny NIA dia milaza:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Olana amin’ny tiroida, aknanina na atemba**
+- **Vokatry ny fanafody**
+- **Fahaketrahana sy fahatahorana**
+- **Vitamine B12 ambany** na tsy mihinana sakafo salama ampy
+- **Olana amin’ny torimaso**
+- **Fampiasana alikaola na zavatra mamaivay ratsy**
+- **Aretina, fitambaran’ra na fivontoana** ao amin’ny atidoha
+- **Ratra an-doha**, toy ny concussion
+- **Fahasahiranana lehibe na alahelo**, toy ny fisotroana amin’ny asa na fahafatesan’ny vady
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Ny fahasembanan’ny fihainoana sy ny fahitana koa dia mety ho diovina ho fikorontanana; jereo ny [torolalanay momba ny fihainoana](/brain-health/hearing/). Izany no antony ilaina ny fanamarinana ara-pitsaboana. Araka ny [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), matetika ny dokotera dia mandamina fitsapana ra mba hijerena olana tiroida, tsy fahampian’ny vitamine ary aretina. Ny [torimaso](/brain-health/sleep/) tsara sy ny fitsaboana ny fahaketrahana dia mendrika resahina koa.
 
-## Sudden confusion is an emergency
+## Ny fikorontanana tampoka dia vonjy maika
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Ny fikorontanana izay miseho haingana, mandritra ny ora na andro vitsivitsy, dia mila fikarakarana ara-pitsaboana haingana.** Mety ho delirium izany. Ny [VA dia manazava ny delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ho loza ara-pitsaboana ary manoro hevitra ny hiantso avy hatrany ny mpikarakara ara-pahasalamana an’ilay olona, na ny laharana fanampiana vonjy maika eo an-toerana. Ny famantarana dia ahitana:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Fiakarana sy fidinana amin’ny fahaizana mieritreritra mazava
+- Sarotra amin’ny fifantohana
+- Fisainana tsy mirindra
+- Torimaso be loatra, na fikorotan-tena sy fahatezerana tsy mahazatra
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Mety hitranga amin’ny olona rehetra izany, anisan’izany ny olona efa manana dementia. Araka ny [NHS](https://www.nhs.uk/symptoms/confusion/), ny antony mahazatra dia ahitana aretina (ny aretina ny lalan-drano matetika amin’ny olona antitra sy olona manana dementia), stroke, suker ra ambany amin’ny olona manana diabeta, ratra an-doha ary fanafody sasany. Raha miandry fanampiana ianao, mijanona miaraka amin’ilay olona ary mampionona azy amin’ny teny fohy sy tsotra. Aza manontany fanontanian-kevitra maro, ary tazomina ny fanafody rehetra izay alainy.
 
-## How do I prepare for the doctor's appointment?
+## Ahoana no fomba hiomanana amin’ny fotoana amin’ny dokotera?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Fotoana tsara dia manomboka amin’ny fanamarihana tsara. Ny [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) dia manoro hevitra ny hitondra:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Lisitra fiovana** amin’ny fahatsiarovana, toe-tsaina ary fitondran-tena, miaraka amin’ny ohatra mazava sy ny fotoana tokony nanomboka
+2. **Olan’ny fahasalamana teo aloha sy ankehitriny**, anisan’izany ny tantaran’ny fianakaviana momba ny olana fahatsiarovana
+3. **Ny fanafody rehetra voasoratra sy ny fanafody azo alaina tsy misy fanoratana**
+4. **Ny vitamine na fanampiny rehetra**
+5. **Ny fanontanianao**, toy ny fitsapana ahoana no hatao, efa-ela firy izy ireo, ary oviana no ho avy ny valiny
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Mahasoa koa ny mitondra mpianakaviana na namana izay mahalala tsara ilay olona. Ny [NIA manazava](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) fa mety hanontany ny olona sy ny mpianakaviana momba ny fahasalamana, fanafody, hetsika andavanandro ary fiovana amin’ny fitondran-tena ny dokotera. Mety hanao koa izy ireo:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Fitsapana momba ny fahatsiarovana, famahana olana, fitandremana, fisaborana ary fiteny
+- Mandamina fitsapana ra, urine ary hafa mba hijerena antony hafa
+- Hijery ny fahaketrahana na olana ara-tsaina hafa
+- Mandamina fijerena atidoha toy ny CT na MRI
+- Mamporisika ny mpitsabo manokana, toy ny geriatrician, neurologue, psychiatre geriatrique na neuropsychologue
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Ny NIA dia milaza fa ny fanombanana ny fahaizan-tsaina dia ampahany ilaina amin’ny Medicare Annual Wellness Visit, izay mety ho fotoana voajanahary hampidirana ny ahiahy. Na ny fitsapana fohy ampiasain’ny dokotera aza dia tsy ampy irery hanamarinana ny dementia. Dingana voalohany izy amin’ny fanombanana feno kokoa, ary mety ilaina ny fitsidihana maromaro vao ho tonga ny fanamarinana. Ny NIA dia manoro hevitra fa ny olona manana olana fahatsiarovana dia tokony hiverina any amin’ny dokotera isaky ny 6 ka hatramin’ny 12 volana.
 
-## Raising the subject kindly
+## Ahoana no fomba hanombohana resaka amin’ny fomba malemy
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Raha manahy momba olona hafa ianao, mifidiana fotoana mangina sy miafina. Miresaha momba ny zavatra manokana hitanao, ampitaho amin’ny ahiahy momba ny fahasalaman’ny olona fa tsy fanakianana. Ny fanoroana fanamarinana ankapobeny dia mety ho tsy mampahatahotra loatra. Ampidiro ny olona amin’ny fanapahan-kevitra ary miresaha aminy ho olona lehibe izy. Ny [toro-hevitra momba ny fifandraisana](/caregiving/communication-tips/) dia mety manampy.
 
-## Talk with a doctor
+## Miresaha amin’ny dokotera
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Raha mahita fiovana amin’ny fahatsiarovana, fisainana, toe-tsaina na fahaizana andavanandro izay vaovao sy mitohy, dia hamboary fotoana amin’ny dokotera fitsaboana voalohany. Ho an’ny fikorontanana tampoka, antsoy avy hatrany ny laharana fanampiana vonjy maika eo an-toerana na ny mpikarakara ara-pahasalamana an’ilay olona. Ny fanamarinana aloha dia midika fa hita ny antony azo sitrana, ary raha dementia izany, dia misy fotoana bebe kokoa handrafetana sy hitady fanohanana. Miambena ny tenanao mandritra izany koa; jereo ny [fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ity pejy ity dia vaovao ankapobeny, fa tsy torolalana ara-pitsaboana. Jereo ny [fampitandremana ara-pitsaboana](/medical-disclaimer/).

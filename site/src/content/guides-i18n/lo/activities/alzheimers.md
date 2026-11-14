@@ -1,35 +1,30 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "ກິດຈະກຳ ແລະເກມສຳລັບຜູ້ທີ່ມີໂຣກອັລໄຊເມີ"
+seoTitle: "ກິດຈະກຳ ແລະເກມອັລໄຊເມີ: ໄອເດຍຕາມແຕ່ລະລະດັບ"
+description: "ກິດຈະກຳ ແລະເກມສຳລັບຜູ້ທີ່ມີໂຣກອັລໄຊເມີໃນແຕ່ລະລະດັບ ອີງໃສ່ທັກສະ ແລະຄວາມຊົງຈຳເກົ່າທີ່ມັກຢູ່ໄດ້ດົນ ພ້ອມເກມຟຣີໃຫ້ຫຼິ້ນນຳກັນ."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  ກິດຈະກຳທີ່ດີສຳລັບຜູ້ທີ່ມີໂຣກອັລໄຊເມີ ອີງໃສ່ສິ່ງທີ່ຢູ່ໄດ້ດົນທີ່ສຸດ ຄືທັກສະທີ່ຝຶກມາດົນ ເພງເກົ່າ ວຽກບ້ານທີ່ຄຸ້ນເຄີຍ ແລະປະສາດສຳຜັດ. ໃນຕອນຕົ້ນ ໄພ່ ເກມກະດານ ການເຮັດອາຫານ ແລະການອອກໄປຂ້າງນອກມັກຍັງໃຊ້ໄດ້ດີ. ໃນລະດັບກາງ ລອງພັບຜ້າ ຈັດແຍກ ຮ້ອງເພງ ເບິ່ງອະລະບັ້ມຮູບ ແລະເກມຮູບງ່າຍໆ. ໃນລະດັບທ້າຍຂອງພະຍາດ ດົນຕີ ການສຳຜັດ ແລະການມີຄົນຢູ່ນຳສຳຄັນທີ່ສຸດ. ໃຫ້ເລືອກຕາມສະພາບຂອງຜູ້ນັ້ນໃນມື້ນີ້
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "ໂຣກອັລໄຊເມີເປັນສາເຫດທີ່ພົບບໍ່ແມ່ນໜ້ອຍທີ່ສຸດຂອງພາວະສະໝອງເສື່ອມ ດັ່ງນັ້ນໄອເດຍກິດຈະກຳສຳລັບພາວະສະໝອງເສື່ອມກໍໃຊ້ໄດ້ກັບມັນເຊັ່ນກັນ."
+  - "ຂໍ້ມູນໃໝ່ມັກຍາກທີ່ສຸດກ່ອນ ໃນຂະນະທີ່ທັກສະ ແລະເພງທີ່ຮຽນມາດົນແລ້ວມັກຢູ່ດົນກວ່າ ໃຫ້ຕໍ່ຍອດຈາກສິ່ງເຫຼົ່ານັ້ນ."
+  - "ລະດັບຕ່າງໆມັກຊ້ອນທັບກັນ ແລະມີມື້ດີກັບມື້ຍາກເປັນເລື່ອງປົກກະຕິ ໃຫ້ເລືອກຕາມສິ່ງທີ່ຜູ້ນັ້ນເຮັດໄດ້ ແລະເພີດເພີນໃນມື້ນີ້."
+  - "ເລືອກເກມທີ່ບໍ່ມີເວລາຈຳກັດ ບໍ່ມີຄະແນນ ບໍ່ມີການຖາມທົດສອບ ແລະໃຫ້ຮູບຍັງເປີດໃຫ້ເຫັນ."
+  - "ການນັ່ງເບິ່ງ ການຖືສິ່ງຂອງ ຫຼືການນັ່ງຢູ່ນຳກັນ ລ້ວນນັບວ່າເປັນການມີສ່ວນຮ່ວມ."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "ກິດຈະກຳແບບໃດເໝາະກັບຜູ້ທີ່ມີໂຣກອັລໄຊເມີ?"
+    a: "ກິດຈະກຳທີ່ຄຸ້ນເຄີຍທີ່ເຮັດໃຫ້ງ່າຍລົງເລັກນ້ອຍ ເຊັ່ນ ພັບຜ້າ ຈັດໂຕ໊ະອາຫານ ເຮັດອາຫານນຳກັນ ຟັງເພງ ຮ້ອງເພງ ເບິ່ງຮູບຖ່າຍ ຍ່າງເລ່ນ ປູກຕົ້ນໄມ້ ແລະໃຊ້ເວລາກັບສັດລ້ຽງ. ເກມຮູບງ່າຍໆ ຈິກຊໍງ່າຍໆ ແລະບັດສົນທະນາກໍເໝາະກັບຫຼາຍຄົນ. ໃຫ້ເລືອກສິ່ງທີ່ຜູ້ນັ້ນມັກມາຕະຫຼອດ ແລ້ວເຮັດນຳກັນ."
+  - q: "ເກມດີສຳລັບຜູ້ທີ່ມີໂຣກອັລໄຊເມີບໍ?"
+    a: "ເກມອາດເປັນວິທີໃຊ້ເວລານຳກັນທີ່ໜ້າພໍໃຈ ຖ້າຜູ້ນັ້ນມັກ. ຍັງບໍ່ມີເກມໃດທີ່ພິສູດວ່າປິ່ນປົວ ຊະລອ ຫຼືຢຸດໂຣກອັລໄຊເມີໄດ້ ດັ່ງນັ້ນໃຫ້ເລືອກເກມເພື່ອຄວາມເພີດເພີນ ຄືຮູບໃຫຍ່ ຕົວເລືອກໜ້ອຍ ແລະບໍ່ມີເວລາ ຄະແນນ ຫຼືສຽງຕອບຜິດ."
+  - q: "ມີຄວາມແຕກຕ່າງລະຫວ່າງກິດຈະກຳພາວະສະໝອງເສື່ອມ ແລະກິດຈະກຳໂຣກອັລໄຊເມີບໍ?"
+    a: "ສ່ວນໃຫຍ່ບໍ່ແຕກຕ່າງ. ໂຣກອັລໄຊເມີເປັນສາເຫດທີ່ພົບທີ່ສຸດຂອງພາວະສະໝອງເສື່ອມ ແລະໄອເດຍກິດຈະກຳດຽວກັນນຳໃຊ້ໄດ້. ສິ່ງທີ່ຊ່ວຍໄດ້ໃນກໍລະນີໂຣກອັລໄຊເມີຄືການຮູ້ວ່າຄວາມຊົງຈຳກ່ຽວກັບເຫດການໃໝ່ມັກຈາງຫາຍກ່ອນ ດັ່ງນັ້ນກິດຈະກຳທີ່ອີງໃສ່ທັກສະເກົ່າ ເພງ ແລະກິດຈະວັດເກົ່າ ມັກຈະດຳເນີນໄປໄດ້ລຽບງ່າຍກວ່າ."
+  - q: "ຜູ້ທີ່ມີໂຣກອັລໄຊເມີໃນລະດັບທ້າຍຍັງເພີດເພີນກັບຫຍັງໄດ້ບ້າງ?"
+    a: "ເພງທີ່ມັກ ການນວດມືເບົາໆ ສິ່ງນຸ່ມໆໃຫ້ຖື ການໃຫ້ຄົນອ່ານໃຫ້ຟັງ ການນັ່ງຢູ່ນອກເຮືອນ ແລະການມີຄົນທີ່ເຂົາໄວ້ໃຈຢູ່ນຳ. ໃຫ້ຍາວໜ້ອຍ ແລະສະຫງົບ ແລະສັງເກດໃບໜ້າ ແລະທ່າທາງຂອງເຂົາເພື່ອຮູ້ວ່າເຂົາມັກຫຍັງ."
+  - q: "ຈະເຮັດໃຫ້ຜູ້ທີ່ມີໂຣກອັລໄຊເມີສົນໃຈກິດຈະກຳໄດ້ແນວໃດ?"
+    a: "ຂໍໃຫ້ເຂົາຊ່ວຍ ແທນທີ່ຈະປະກາດກິດຈະກຳ ກຽມທຸກຢ່າງໄວ້ກ່ອນ ແລະເລີ່ມເຮັດເອງເພື່ອໃຫ້ເຂົາເຂົ້າຮ່ວມໄດ້. ການເລືອກເວລາຂອງມື້ທີ່ເຂົາສົດຊື່ນທີ່ສຸດສ້າງຄວາມແຕກຕ່າງຫຼາຍ. ຖ້າເຂົາປະຕິເສດ ໃຫ້ລອງໃໝ່ພາຍຫຼັງ ຫຼືສະເໜີແບບທີ່ນ້ອຍກວ່າ."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +49,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+ຖ້າຄົນທີ່ທ່ານຮັກມີໂຣກອັລໄຊເມີ ທ່ານອາດເຫັນແລ້ວວ່າບາງສິ່ງຫາຍໄປຢ່າງໄວ ໃນຂະນະທີ່ສິ່ງອື່ນຍັງຢູ່. ເຂົາອາດລືມການໂທຕອນເຊົ້າ ແຕ່ຍັງຮ້ອງເພງສັນລະເສີນທຸກຄຳໄດ້ ພັບຜ້າເຊັດໂຕຕາມແບບທີ່ເຄີຍເຮັດ ຫຼືແຈກໄພ່ໄດ້ໂດຍບໍ່ຕ້ອງຄິດ. ກິດຈະກຳທີ່ດີຕັ້ງຢູ່ເທິງທັກສະທີ່ຍັງຢູ່ເຫຼົ່ານັ້ນ. ໜ້ານີ້ອະທິບາຍວ່າເປັນຫຍັງ ແລະໃຫ້ໄອເດຍສຳລັບແຕ່ລະລະດັບ ພ້ອມເກມຟຣີໃນເວັບໄຊນີ້ທີ່ເໝາະກັບແຕ່ລະລະດັບ.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## ອັລໄຊເມີແຕກຕ່າງຈາກພາວະສະໝອງເສື່ອມໃນດ້ານກິດຈະກຳບໍ?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+ບໍ່ຄ່ອຍແຕກຕ່າງ. ພາວະສະໝອງເສື່ອມເປັນຄຳລວມ ແລະໂຣກອັລໄຊເມີເປັນສາເຫດທີ່ພົບທີ່ສຸດຂອງມັນ: [ສະມາຄົມອັລໄຊເມີ](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ລະບຸວ່າມັນເປັນສາເຫດຂອງ 60 ຫາ 80 ເປີເຊັນຂອງກໍລະນີພາວະສະໝອງເສື່ອມ. ເກືອບທຸກຢ່າງທີ່ຂຽນກ່ຽວກັບກິດຈະກຳສຳລັບພາວະສະໝອງເສື່ອມໃຊ້ໄດ້ກັບໂຣກອັລໄຊເມີ ລວມທັງ[ໄອເດຍກິດຈະກຳ 101 ຢ່າງ](/activities/ideas/) ຂອງພວກເຮົາ.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+ສິ່ງທີ່ເປັນປະໂຫຍດທີ່ຈະຮູ້ຄືລຳດັບການປ່ຽນແປງທົ່ວໄປ. [ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ອະທິບາຍວ່າໂຣກອັລໄຊເມີເຮັດໃຫ້ສ່ວນຂອງສະໝອງທີ່ກ່ຽວກັບຄວາມຈຳເສຍຫາຍກ່ອນ ແລະຕໍ່ມາກະທົບພາສາ ການໃຊ້ເຫດຜົນ ແລະພຶດຕິກຳທາງສັງຄົມ. ສະມາຄົມອັລໄຊເມີລະບຸວ່າອາການໃນຕອນຕົ້ນທີ່ພົບທີ່ສຸດຄືຄວາມຫຍຸ້ງຍາກໃນການຈື່ຂໍ້ມູນທີ່ຮຽນຮູ້ໃໝ່. ທຸກຄົນແຕກຕ່າງກັນ ແລະຫຼາຍຄົນມີສາເຫດປະສົມ ແຕ່ຮູບແບບນີ້ກຳນົດວ່າສິ່ງໃດມັກຈະໄດ້ຜົນ.
 
-## What kinds of activities suit Alzheimer's best?
+## ກິດຈະກຳແບບໃດເໝາະກັບໂຣກອັລໄຊເມີທີ່ສຸດ?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+ກິດຈະກຳທີ່ອີງໃສ່ຄວາມຮູ້ເກົ່າທີ່ຝຶກມາດີ ມັກດຳເນີນໄປໄດ້ລຽບງ່າຍກວ່າກິດຈະກຳທີ່ຕ້ອງຮຽນສິ່ງໃໝ່ ແລະຈື່ໄວ້ໃນໃຈ.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **ທັກສະທີ່ຝຶກມາດົນ.** ສະມາຄົມອັລໄຊເມີລະບຸວ່າຄົນອາດຍັງເປົ່າເພງງ່າຍໆ ທີ່ເຂົາຮຽນໄວ້ເມື່ອຫຼາຍປີກ່ອນ. ການຖັກໄໝ ການຂັດໄມ້ ການສັບໄພ່ ການນວດແປ້ງ ແລະການພັບຜ້າກໍຄ້າຍກັນ.
+- **ເພງເກົ່າ ແລະດົນຕີທີ່ຄຸ້ນເຄີຍ.** ຫຼາຍຄົນຍັງຮູ້ທຸກຄຳຂອງເພງຕອນໄວລຸ້ນ ແລະ ໄວໜຸ່ມ ເພງສວດ ແລະເພງຈາກງານແຕ່ງງານຂອງເຂົາ. ເບິ່ງ[ກິດຈະກຳດົນຕີ](/activities/music/).
+- **ວຽກປະຈຳວັນທີ່ມີຈຸດປະສົງ.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ລະບຸວຽກເຊັ່ນ ລ້າງຈານ ຈັດໂຕ໊ະອາຫານ ແຍກຖົງເທົ້າ ແລະພັບຜ້າ ເປັນສິ່ງທີ່ຄົນອາດມີຄວາມສຸກ. ຄວາມຮູ້ສຶກວ່າຕົນເອງເປັນປະໂຫຍດມີຄວາມສຳຄັນ.
+- **ການຈຳໄດ້ແທນການຈື່.** ການຊີ້ໄປທີ່ຮູບທີ່ກົງກັນງ່າຍກວ່າການນຶກຊື່ຈາກຄວາມຊົງຈຳ. ນີ້ຄືເຫດຜົນທີ່ເກມຮູບທີ່ເຫັນທຸກຮູບເຮັດໄດ້ດີກວ່າການທົດສອບ.
+- **ປະສາດສຳຜັດ.** ຄວາມຮູ້ສຶກສຳຜັດ ກິ່ນ ຄວາມອົບອຸ່ນ ລົດຊາດ ແລະສຽງ ຍັງມີຄວາມໝາຍຫຼັງຈາກຄຳເວົ້າເລີ່ມຍາກ. ເບິ່ງ[ກິດຈະກຳປະສາດສຳຜັດ](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+ສິ່ງທີ່ມັກຈະບໍ່ໄດ້ຜົນດີ ຄືສິ່ງທີ່ມີໂມງ ກົດລະບຽບໃໝ່ທີ່ຕ້ອງຮຽນ ຂັ້ນຕອນຫຼາຍທີ່ຕ້ອງຈື່ ຫຼືຄຳຖາມທີ່ທົດສອບຄວາມຈຳ ເຊັ່ນ “ທ່ານຈຳໄດ້ບໍວ່ານີ້ແມ່ນໃຜ?” ສິ່ງເຫຼົ່ານີ້ເຮັດໃຫ້ສ່ວນທີ່ຍາກຂອງໂຣກອັລໄຊເມີຢູ່ໜ້າສຸດ.
 
-## Activities for early-stage Alzheimer's
+## ກິດຈະກຳສຳລັບໂຣກອັລໄຊເມີໃນລະດັບຕົ້ນ
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+ໃນລະດັບຕົ້ນ [ສະມາຄົມອັລໄຊເມີ](https://www.alz.org/alzheimers-dementia/stages) ລະບຸວ່າຜູ້ນັ້ນອາດຍັງຂັບຂີ່ ເຮັດວຽກ ແລະເຂົ້າຮ່ວມກິດຈະກຳທາງສັງຄົມໄດ້ ໃນຂະນະທີ່ອາດສັງເກດເຫັນການລືມ ເຊັ່ນລືມຄຳທີ່ຄຸ້ນເຄີຍ ຫຼືບ່ອນທີ່ວາງສິ່ງຂອງ. ວິທີທີ່ດີທີ່ສຸດຄືການເປັນຄູ່ຮ່ວມງານ ຖາມວ່າເຂົາຢາກເຮັດສິ່ງໃດຕໍ່ໄປ ແລະຢາກໃຫ້ຊ່ວຍຫຍັງ.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **ສືບຕໍ່ງານອະດິເລກທີ່ມີຢູ່.** ກອຟ ໝາກບູຣິດ ການຖັກຜ້າປູ ການຮ້ອງເພງໃນຄະນະຮ້ອງ ແລະກຸ່ມໂບດ ໂດຍປັບເລັກນ້ອຍ ເຊັ່ນກຸ່ມນ້ອຍລົງ ແລະເວລາທີ່ງຽບກວ່າ.
+2. **ຫຼິ້ນເກມໄພ່ ແລະເກມກະດານທີ່ຄຸ້ນເຄີຍ.** [ມູນນິທິອັລໄຊເມີແຫ່ງອາເມຣິກາ](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ລະບຸເກມຖາມຕອບ ເກມຊອກຄຳ ເກມໄພ່ ແລະເກມກະດານສຳລັບລະດັບຕົ້ນ. ຫຼິ້ນເປັນທີມຖ້າການນັບຄະແນນເຮັດໃຫ້ເຂົາບໍ່ສະບາຍໃຈ ຫຼືຕັດການນັບຄະແນນອອກທັງໝົດ.
+3. **ເຮັດອາຫານນຳກັນ.** ໃຫ້ເຂົາເປັນຜູ້ເຮັດສູດທີ່ຈື່ໄດ້ຂຶ້ນໃຈ ໃນຂະນະທີ່ທ່ານຈັດການການອ່ານຂັ້ນຕອນ.
+4. **ເລີ່ມໂຄງການເລົ່າເລື່ອງຊີວິດ.** ຮູບ ສູດອາຫານ ແລະເລື່ອງລາວ ໃນອະລະບັ້ມທີ່ເຂົາເປັນຜູ້ກຳນົດ. ເບິ່ງ[ກິດຈະກຳການຟື້ນຄວາມຊົງຈຳ](/activities/reminiscence/).
+5. **ອອກໄປຂ້າງນອກ.** ຮ້ານອາຫານທີ່ເຂົາມັກໃນເວລາທີ່ງຽບ ການໄປພິພິທະພັນໄລຍະສັ້ນ ຫຼືການຍ່າງໃນສວນສາທາລະນະ.
+6. **ລອງຈິກຊໍທີ່ເຂົາເລືອກ.** ອັກສອນໄຂວ້ ຄຳຄົ້ນຫາ ແລະຈິກຊໍທີ່ມີຕົວໜັງສືໃຫຍ່. ເບິ່ງ[ຈິກຊໍສຳລັບພາວະສະໝອງເສື່ອມ](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+ໄອເດຍເພີ່ມເຕີມ: [ກິດຈະກຳລະດັບຕົ້ນ](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## ກິດຈະກຳສຳລັບໂຣກອັລໄຊເມີໃນລະດັບກາງ
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+ສະມາຄົມອັລໄຊເມີອະທິບາຍລະດັບກາງວ່າປົກກະຕິແລ້ວຍາວນານທີ່ສຸດ ແລະອາດດຳເນີນຕໍ່ເປັນຫຼາຍປີ. ຄຳເວົ້າອາດສັບສົນ ຄວາມອຸກອັ່ງເກີດໄດ້ງ່າຍຂຶ້ນ ແລະຜູ້ນັ້ນຕ້ອງການການດູແລຫຼາຍຂຶ້ນ. ມູນນິທິອັລໄຊເມີແຫ່ງອາເມຣິກາເພີ່ມວ່າຫຼາຍຄົນຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການເລີ່ມ ຫຼືສືບຕໍ່ກິດຈະກຳ. ບົດບາດຂອງທ່ານປ່ຽນໄປເປັນການຈັດກຽມສິ່ງຕ່າງໆ ການສະແດງໃຫ້ເຫັນແທນການອະທິບາຍ ແລະການຮັບເອົາສ່ວນທີ່ຍາກ.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **ພັບ ຈັດແຍກ ແລະຈັບຄູ່.** ຜ້າເຊັດໂຕ ຖົງເທົ້າ ຊ້ອນສ້ອມ ກະດຸມຕາມສີ. ວຽກຈິງທີ່ເຮັດນຳກັນຂ້າງໆ.
+2. **ຮ້ອງເພງ ແລະເຄື່ອນໄຫວຕາມດົນຕີ.** ປົບມື ໂຍກ ຫຼືເຕັ້ນໃນຄົວ. ເລີ່ມຮ້ອງເອງ ແລ້ວໃຫ້ເຂົາເຂົ້າຮ່ວມ.
+3. **ເບິ່ງອະລະບັ້ມຮູບນຳກັນ.** ບອກສິ່ງທີ່ທ່ານເຫັນ ແລະເຊື້ອເຊີນໃຫ້ເລົ່າເລື່ອງ: “ລົດຄັນນີ້ສວຍຫຼາຍ. ເລົ່າໃຫ້ຟັງໜ້ອຍ.” ຕາມຊື່ໃດກໍຕາມທີ່ເຂົາໃຊ້.
+4. **ຫຼິ້ນເກມຮູບງ່າຍໆ.** [ຄູ່ຮູບ](/games/picture-pairs/) ທີ່ມີສີ່ຫາຫົກຮູບ ແລະຮູບຍັງເປີດໃຫ້ເຫັນ ຫຼື [ຊອກຮູບທີ່ຄືກັນ](/games/find-the-same/) ທີ່ມີສອງຫາສາມທາງເລືອກ.
+5. **ຕອບສຸພາສິດທີ່ຄຸ້ນເຄີຍໃຫ້ຈົບ.** “ແອັບເປີນໜຶ່ງລູກຕໍ່ມື້ ຊ່ວຍໃຫ້ຫ່າງຈາກ...” ສຸພາສິດທີ່ຮຽນມາດົນແລ້ວມັກຈະມາໄດ້ງ່າຍ ລອງ[ຕອບປະໂຫຍກໃຫ້ຈົບ](/games/finish-the-saying/) ທີ່ທ່ານສາມາດສະແດງຄຳຕອບໄດ້ດ້ວຍການແຕະໜຶ່ງຄັ້ງ.
+6. **ລົດນ້ຳ ແລະດູແລຕົ້ນໄມ້.** ໝໍ້ໃນເຮືອນ ຫຼືແປງຍົກສູງ ພ້ອມບົວລົດນ້ຳນ້ອຍໆ.
+7. **ເຮັດເກມຈັບຄູ່ຈາກຮູບຄອບຄົວ.** [ຄູ່ຮູບ](/games/photo-pairs/) ໃຊ້ຮູບທີ່ທ່ານເລືອກໃນອຸປະກອນຂອງທ່ານ ແລະຮູບເຫຼົ່ານັ້ນບໍ່ອອກຈາກອຸປະກອນນັ້ນເລີຍ.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+ໄອເດຍເພີ່ມເຕີມ: [ກິດຈະກຳລະດັບກາງ](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## ກິດຈະກຳສຳລັບໂຣກອັລໄຊເມີໃນລະດັບທ້າຍ
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+ໃນລະດັບທ້າຍ ສະມາຄົມອັລໄຊເມີລະບຸວ່າຄົນອາດສູນເສຍຄວາມສາມາດໃນການຕອບສະໜອງຕໍ່ສິ່ງອ້ອມຕົວ ແລະການສົນທະນາຕໍ່ເນື່ອງ ເຖິງແມ່ນເຂົາອາດຍັງເວົ້າຄຳ ຫຼືປະໂຫຍກໄດ້. ກິດຈະກຳໃນຕອນນີ້ໝາຍເຖິງຄວາມສະບາຍ ແລະການເຊື່ອມໂຍງ ນຳມາໄວ້ບ່ອນທີ່ຜູ້ນັ້ນກຳລັງພັກຜ່ອນ.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **ຫຼິ້ນເພງທີ່ເຂົາມັກ** ຢ່າງເບົາໆ ໂດຍບໍ່ໃຫ້ໂທລະທັດລົບກວນ.
+2. **ນວດມື** ດ້ວຍຄຣີມທີ່ມີກິ່ນທີ່ເຂົາມັກ.
+3. **ໃຫ້ສິ່ງນຸ່ມໆຖື:** ຜ້າຫົ່ມອຸ່ນໆ ຜ້າຟລີສ ຫີນກ້ອນລຽບ.
+4. **ອ່ານອອກສຽງ** ບົດເພງສັນລະເສີນ ບົດກະວີ ຫຼືນິທານທີ່ຄຸ້ນເຄີຍ. ຈັງຫວະສຳຄັນກວ່າຄວາມໝາຍ.
+5. **ນັ່ງຢູ່ຂ້າງນອກ** ໃນຮົ່ມ ຫຼືຢູ່ໃກ້ປ່ອງຢ້ຽມທີ່ມີນົກໃຫ້ເບິ່ງ.
+6. **ເບິ່ງຮູບໃຫຍ່ຮູບດຽວນຳກັນ.** ດອກທານຕະວັນ ຫຼືໝາເຕັມໜ້າຈໍແທັບເລັດ ໂດຍທ່ານບອກສິ່ງທີ່ທ່ານເຫັນ.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+ໄອເດຍເພີ່ມເຕີມ: [ກິດຈະກຳລະດັບທ້າຍ](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## ເກມໃດເໝາະກັບຜູ້ທີ່ມີໂຣກອັລໄຊເມີ?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+ເລືອກເກມທີ່ບໍ່ມີທາງແພ້. ທຸກເກມໃນເວັບໄຊນີ້ເປັນຟຣີ ເຮັດວຽກໃນບຣາວເຊີ ແລະບໍ່ມີເວລາ ຄະແນນ ຫຼືການລົງທະບຽນ.
 
-| Game | What you do | Often suits |
+| ເກມ | ສິ່ງທີ່ທ່ານເຮັດ | ມັກເໝາະກັບ |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [ຄູ່ຮູບ](/games/picture-pairs/) | ຈັບຄູ່ຮູບໃຫຍ່ ຮູບອາດຢູ່ໃນດ້ານໜ້າ | ລະດັບຕົ້ນ ແລະກາງ |
+| [ຊອກຮູບທີ່ຄືກັນ](/games/find-the-same/) | ແຕະຮູບທີ່ກົງກັບຮູບດ້ານເທິງ | ລະດັບກາງ ແລະທ້າຍ ຖ້າມີການຊ່ວຍເຫຼືອ |
+| [ຕອບປະໂຫຍກໃຫ້ຈົບ](/games/finish-the-saying/) | ເລືອກຄຳສຸດທ້າຍຂອງສຸພາສິດທີ່ຄຸ້ນເຄີຍ ຫຼືສະແດງຄຳຕອບ | ລະດັບຕົ້ນ ແລະກາງ |
+| [ຈິກຊໍຮູບ](/games/picture-puzzle/) | ສັບປ່ຽນຊິ້ນ 4 ຫຼື 9 ຊິ້ນໃຫ້ກັບຄືນທີ່ ໂດຍສະແດງຮູບ | ລະດັບຕົ້ນ ແລະກາງ |
+| [ບັດສົນທະນາ](/games/conversation-cards/) | ຮູບ ແລະຄຳຖາມເປີດໃຫ້ລົມກັນ | ທຸກລະດັບ ຖ້າມີຄົນໃຫ້ສົນທະນານຳ |
+| [ຄູ່ຮູບຈາກຮູບຄອບຄົວ](/games/photo-pairs/) | ເກມຈັບຄູ່ທີ່ສ້າງຈາກຮູບຂອງທ່ານເອງ | ລະດັບຕົ້ນ ແລະກາງ |
+| [ການລົງສີ](/games/coloring/) | ແຕະສີ ແລ້ວແຕະສ່ວນໜຶ່ງຂອງຮູບ ຫຼືພິມອອກ | ທຸກລະດັບ ດ້ວຍການຊ່ວຍເຫຼືອ |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+ສຳລັບວິທີນັ່ງນຳກັນ ຈະຊ່ວຍຫຼາຍປານໃດ ແລະເມື່ອໃດຄວນຢຸດ ອ່ານ[ວິທີຫຼິ້ນເກມກັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ](/caregiving/how-to-play-together/). ຖ້າທ່ານສົງໄສກ່ຽວກັບ "ເກມຄວາມຈຳ" ເບິ່ງ[ເກມຄວາມຈຳສຳລັບຜູ້ສູງອາຍຸທີ່ມີພາວະສະໝອງເສື່ອມ](/activities/memory-games/).
 
-## How to make any activity easier
+## ວິທີເຮັດໃຫ້ທຸກກິດຈະກຳງ່າຍຂຶ້ນ
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+ຄຳແນະນຳຂອງ NIA ສະຫຼຸບເປັນນິໄສບໍ່ຫຼາຍຢ່າງ: ໃຫ້ກິດຈະກຳເໝາະກັບສິ່ງທີ່ຜູ້ນັ້ນເຮັດໄດ້ ຊ່ວຍໃຫ້ເລີ່ມ ສັງເກດຄວາມອຸກອັ່ງ ເຮັດໃຫ້ເຂົາຮູ້ສຶກວ່າຕົນເອງສຳເລັດ ແລະໃຫ້ເຂົາພຽງແຕ່ເບິ່ງກໍໄດ້ຖ້ານັ້ນຄືສິ່ງທີ່ເຂົາມັກ.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **ເລືອກເວລາຂອງມື້ທີ່ເຂົາເຮັດໄດ້ດີທີ່ສຸດ** ແລະໃຫ້ແຕ່ລະຄັ້ງສັ້ນ.
+- **ວາງທຸກຢ່າງອອກກ່ອນ** ເພື່ອໃຫ້ເລີ່ມໄດ້ທັນທີ.
+- **ເຊື້ອເຊີນ ບໍ່ແມ່ນສັ່ງ.** “ຊ່ວຍຈັບມືຂ້ອຍໜ້ອຍໄດ້ບໍ?” ໄດ້ຜົນດີກວ່າ “ເຖິງເວລາເຮັດກິດຈະກຳແລ້ວ.”
+- **ເຮັດຂັ້ນທຳອິດດ້ວຍຕົວເອງ** ແລ້ວໃຫ້ເຂົາເຂົ້າຮ່ວມ.
+- **ເສນອໜຶ່ງຂັ້ນ ແລະໜຶ່ງທາງເລືອກໃນແຕ່ລະຄັ້ງ.**
+- **ໃຫ້ເຮັດດ້ວຍວິທີຂອງເຂົາ.** ຜ້າເຊັດໂຕທີ່ພັບບໍ່ເປັນລະບຽບກໍໃຊ້ໄດ້.
+- **ຢຸດໃນຂະນະທີ່ຍັງມ່ວນຢູ່.** ການຢຸດກ່ອນເປັນຜົນທີ່ດີ ບໍ່ແມ່ນຄວາມລົ້ມເຫຼວ. ຖ້າເຂົາປະຕິເສດ ເບິ່ງ[ເມື່ອຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມເວົ້າວ່າບໍ່](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[ສະມາຄົມອັລໄຊເມີ](https://www.alz.org/help-support/caregiving/daily-care/activities) ສະຫຼຸບຢ່າງງ່າຍໆວ່າ: ເນັ້ນຄວາມເພີດເພີນ ບໍ່ແມ່ນຜົນສຳເລັດ.

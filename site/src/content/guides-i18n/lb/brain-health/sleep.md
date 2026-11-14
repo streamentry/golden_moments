@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Schlaf a Gehirngesondheet: wat d'Fuerschung seet an wat hëlleft"
+seoTitle: "Schlaf a Demenz: wat d'Fuerschung seet"
+description: "Wat d'Fuerschung iwwer Schlaf a Demenz-Risiko seet, firwat d'Gehirn-Botzen nach fréi ass, a praktesch Schlafgewunnechten fir eeler Leit an Betreier."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  E puer laang Studien verbannen zevill kuerzen Schlaf an der Mëtt vum Liewen mat engem méi héijen Demenz-Risiko, a Laborstudien suggeréieren, datt Schlaf dem Gehir hëllefe kann, Offall ze entsuergen. Dës Evidenz ass nach fréi, an d'Lancet-Kommissioun 2024 huet Schlaf net als veränderbare Risikofaktor genannt. Reegelméisseg Schlafgewunnechten hëllefen, wéi Dir Iech den Dag iwwer fillt. Schlafprobleme bei Demenz si gängeg a sollten mam Dokter besprach ginn.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Eng britesch Studie, déi ronn 8.000 Leit iwwer 25 Joer begleet huet, verbënnt sechs Stonnen Schlaf oder manner an der Mëtt vum Liewen mat engem méi héijen Demenz-Risiko."
+  - "Verännerungen beim Schlaf kënnen och e fréie Zeeche vu Demenz sinn, dofir ass et schwéier ze ënnerscheeden, wat Ursaach an Wierkung ass."
+  - "D'Fuerschung, wéi Schlaf Beta-Amyloid aus dem Gehir botzt, ass real, awer fréi, an e groussen Deel gouf u Mais gemaach."
+  - "Schlafapnoe ass gängeg, behandelbar a gëtt a Studien mat Demenz a Verbindung gebruecht; staark Schnarchen a Middegkeet dees Dag si Grond fir eng Kontroll."
+  - "Fänkt ni en Schlafmedikament oder Schlafhëllef ouni Dokter un, hält et net an änneren et net."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Verursaacht schlechten Schlaf Alzheimer?"
+    a: "Dat ass net nogewisen. E puer Studien verbannen kuerzen Schlaf mat engem méi héijen Demenz-Risiko, awer Demenz selwer stéiert de Schlaf, dacks Joren virun der Diagnos. D'Lancet-Kommissioun 2024 huet d'Evidenz ze widdersprüchlech fonnt, fir Schlaf als veränderbare Risikofaktor opzelisten."
+  - q: "Wéi vill Schlaf brauchen eeler Leit?"
+    a: "D'National Institute on Aging seet, datt eeler Leit ongeféier dat selwecht brauchen wéi aner Erwuessener, 7 bis 9 Stonnen pro Nuecht. Vill eeler Leit gi méi fréi an d'Bett an stinn méi fréi op wéi fréier, dat ass gängeg."
+  - q: "Firwat schléift eng Persoun mat Demenz tagsiwwer a waacht nuets op?"
+    a: "Demenz kann d'Kierperuer beaflossen, sou datt Schlaf- a Wachzäiten duercherneen kommen. Schmerz, Langweil, Hunger oder Nebenwierkungen vun Medikamenter kënnen och eng Roll spillen. Daglicht, deeglech Aktivitéit an eng roueg Owendroutine kënne hëllefen. E Dokter kann no Ursaachen sichen, déi behandelbar sinn."
+  - q: "Soll ech der Persoun, fir déi ech suergen, e Schlafmëttel ginn?"
+    a: "Schwätzt virdrun mat hirem Dokter, och iwwer Produkter ouni Rezept. D'National Institute on Aging hält fest, datt e puer Schlafmedikamenter bei Leit mat Alzheimer d'Risiko vu Schwindel, Stierzen an Duercherneen erhéijen kënnen."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Schlaf an Gehirngesondheet hänke kloer matenee zesummen, awer wéi se zesummenhänken, gëtt nach ausgeschafft. E puer Studien verbannen kuerzen Schlaf mat engem méi héijen Demenz-Risiko. Demenz stéiert wiederum oft de Schlaf. Dës Säit erkläert, wat d'Fuerschung weist an net weist, gëtt praktesch Schlafgewunnechten, a behandelt Schlafprobleme, déi bei Demenz gängeg sinn. Iwwer Schlafmedikamenter gëtt hei keng Berodung; dat Gespréich gehéiert zum Dokter.
 
-## Is poor sleep linked with dementia?
+## Ass schlechten Schlaf mat Demenz verbonnen?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+E puer laang Studien verbannen kuerzen Schlaf mat engem méi héijen Demenz-Risiko, awer d'Evidenz ass nach net gekläert.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Eng 25-Joer-Studie aus Groussbritannien.** Fuerscher hunn ronn 8.000 Erwuessener an der [Whitehall-II-Studie](https://www.nature.com/articles/s41467-021-22354-2) begleet. Leit, déi mat 50 oder 60 Joer sechs Stonnen oder manner geschlof hunn, hate spéider e méi héije Demenz-Risiko wéi Leit, déi siwen Stonnen geschlof hunn. Leit, déi mat 50, 60 an 70 Joer sechs Stonnen oder manner geschlof hunn, hate ongeféier 30 % e méi héijen Risiko wéi déi, déi regelméisseg siwen Stonnen geschlof hunn. Dat war eng Beobachtungsstudie, si weist also eng Verbindung, keng Ursaach.
+- **D'Usiicht vun der Lancet-Kommissioun.** D'[Lancet-Kommissioun 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) huet Schlaf net op hir Lëscht vun 14 veränderbare Risikofaktoren gesat. Si fonnt d'Evidenz net konsequent genuch. En Grond ass d'„Ëmkéierung vun der Ursaach“: Gehirnännerungen duerch Demenz fänken Joren virun der Diagnos un a kënnen de Schlaf stéieren. An enger grousser Studie ass en Zesummenhang tëscht laangem Schlaf an Demenz verschwonne, wann déi éischt fënnef Joer vun der Nofollegung ewechgelooss goufen.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Also ass ee kuerzen Nuetsschlof vun Zäit zu Zäit kee Grond fir sech Suergen ze maachen. Regelméisseg, gutt Schlaf ass awer et wäert, well en der Stëmmung, der Waachsamkeet an der Sécherheet haut hëlleft.
 
-## What is the "brain-clearing" sleep research?
+## Wat ass d'Fuerschung iwwer d'„Botzen“ vum Gehir beim Schlof?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Dir hutt vläicht gelies, datt Schlaf d'Gehir „botzt“. D'Iddi kënnt aus richteger Fuerschung, ass awer nach fréi.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Bei Mais.** Eng Studie aus 2013, [vum NIH beschriwwen](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), huet fonnt, datt de Raum tëscht den Hirzellen ëm ongeféier 60 % gewuess, wann d'Mais geschlof hunn. Flëssegkeet huet sech dunn méi einfach duerch d'Gehir bewegt, duerch dat, wat d'Fuerscher glymphatescht System nennen. Beta-Amyloid, en Protein, dat mat Alzheimer verbonne ass, gouf bei schlofenden Mais méi schnell aus dem Gehir gebotzt.
+- **Bei Mënschen.** Eng kleng [Studie aus 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) huet 20 gesond Erwuessener vun 22 bis 72 Joer gescannt, nom normale Schlof an nom Nuecht ouni Schlof. Nom schlaflose Nuecht ass d'Scannersignal fir Beta-Amyloid an engem Beräich mat dem Hippocampus, engem Gebitt, dat fir d'Erënnerung wichteg ass, ëm ongeféier 5 % eropgaangen. D'Autoren hunn dat als virleefeg Evidenz bezeechent. Si wëssen net, ob d'Verännerung nom Rascht verschwënnt, oder ob se e luesamen Botzen oder méi Amyloid, dat produzéiert gëtt, weist.
+- **Et geet an zwou Richtungen.** D'Lancet-Kommissioun hält fest, datt d'Ablagerung vun Amyloid bei eeleren Leit selwer de Schlof stéiere kann.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Dës Erkenntnisser hëllefen ze erklären, firwat d'Fuerscher sech fir Schlaf interesséieren. Si weisen awer net, datt besseren Schlaf Alzheimer verhënnert.
 
-## What sleep habits may help?
+## Wéi Schlafgewunnechten kënnen hëllefen?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Eeler Leit brauchen ongeféier 7 bis 9 Stonnen Schlof pro Nuecht, wéi anerer Erwuessener och, laut dem [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Zu den Tipps gehéieren:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Hält e reegelméissegen Rhythmus.** Gitt all Dag zur selwechter Zäit an d'Bett an steet zur selwechter Zäit op, och um Weekend.
+- **Bau eng Ausruhroutine op.** Liest, lauschtert roueg Musek oder hëlt e waarme Bad, ier Dir an d'Bett gitt.
+- **Maacht d'Schlofzëmmer gemiddlech,** net ze waarm an net ze kal.
+- **Limitéiert Koffein spéit um Dag.** Kaffi, Téi, Soda a Schokela kënnen Iech wak halen.
+- **Vermeit Alkohol,** och kleng Mengen, rät den NIA.
+- **Vermeit grouss Mueleten zwee bis dräi Stonnen virun der Bettzäit,** an grouss Gedrénks spéit um Dag.
+- **Bewegt Iech reegelméisseg, awer net bannent 3 Stonnen virun der Bettzäit.** Kuckt eis [Bewegungsguide](/brain-health/exercise/).
+- **Halt Écranen aus dem Schlofzëmmer.** Den NIA rät, dort net fernzekucken oder en Computer, Telefon oder Tablet ze benotzen.
+- **Vermeit spéi nomëttes oder owes Schlofen,** wann et geet.
 
-## Sleep problems in dementia
+## Schlafprobleme bei Demenz
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Verännerungen beim Schlof sinn bei Demenz gängeg. D'[NIA zielt op](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease): ze vill oder ze wéineg schlofen, nuets e puer Mol opwaachen an tagsiwwer vill schlofen. Si beschreift och Sundowning: Ënnerrouegung, Opgereegtheet oder Duercherneen, déi ufänken oder schlechter ginn, wann de Daglicht verschwënnt.
 
-Caregiver tips from the NIA include:
+Betreier-Tipps vum NIA umfaassen:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Kritt Daglicht a Bewegung fréi.** Gitt tagsiwwer dobaussen oder sëtzt bei engem Fënster, a hëlleft der Persoun, all Dag aktiv ze sinn. Hellt Liicht kann hëllefen, d'Kierperuer nei ze stellen.
+2. **Plangt energesch Aktivitéite fir de Moien.** Probéiert, muergens ze bueden, oder de gréisste Choppe mëttes ze iessen.
+3. **Hält d'Schlofen kuerz a fréi.** Limitéiert spéiden Dosen um Dag.
+4. **Maacht den Owend roueg.** Déit d'Luuchten erof, reduzéiert de Kaméidi a spillt roueg Musek, wann d'Persoun se gär huet. Eis Guide iwwer [spéit-Dag-Ënnerrouegung](/caregiving/late-day-restlessness/) huet méi Iddien.
+5. **Hält eng stänneg Bettzäit-Routine.** Virliesen zur selwechter Zäit all Owend ass en Beispill vum NIA. Eng [stänneg Alldagsroutine](/activities/daily-routine/) hëlleft och.
+6. **Limitéiert Koffein an Alkohol.**
+7. **Benotzt Nuetsluuchten** am Schlofzëmmer, am Flur an am Bad.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Fir d'Opwaache nuets huet den NIA [Tipps fir d'Sécherheet doheem](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) mat Nuetsluuchten oder automatesche Liichtsensoren, Haltegriffen am Bad, faarwen-hellem Kläbeband op de Rand vun de Trëppen an Medikamenter, déi a engem verschlossene Plaz leien.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+E kuerzen, roueg Aktivitéit um Owend kann hëllefen, datt Dir zwee Iech beruegt. Probéiert eng lues [Atemiwwung](/games/calm-breathing/) oder e puer entspaanten [Gesprächskaarten](/games/conversation-cards/). Vermeit alles Opreegendes no beim Bett, an halt un, wann d'Persoun genuch huet.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Gebrach Schlof erschöpft och d'Betreier. Eis [Guide iwwer Selbstfleeg fir Betreier](/caregiving/caregiver-self-care/) beschreift, wéi Dir Rou an Hëllef kritt.
 
-## What about sleep apnea?
+## Wat ass mat Schlafapnoe?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Schlafapnoe verursaacht kuerz Atempausen beim Schlof, dacks ganz oft d'Nuecht. Den NIA seet, datt se, wann se onbehandelt bleift, zu Problemer wéi héije Bluttdrock, Schlaganfall oder Erënnerungsverloscht féieren kann. Zeechen sinn staark Schnarchen a Middegkeet dees Dag, a ganz vill Leit wëssen net, datt se se hunn. D'Lancet-Kommissioun beschreift eng Iwwerpréiwung vun 11 Studien, bei deenen Leit mat Schlafapnoe ongeféier 43 % e méi héije Demenz-Risiko haten. Nëmmen wéineg vun deene Studien hunn awer d'Gewiicht berücksichtegt, dofir ass de Zesummenhang net sécher.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Schlafapnoe kann diagnostizéiert an behandelt ginn. Den NIA hält fest, datt eng CPAP-Maschinn bal ëmmer hëlleft. Wann Dir oder d'Persoun, fir déi Dir suergt, staark schnarcht, nuets d'Otmen unhält oder deeg ganz middeg ass, sot et engem Dokter.
 
-## A note about sleep medicines
+## Eng Notiz iwwer Schlafmedikamenter
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Mir ginn keng Berodung iwwer Schlafmedikamenter oder Nahrungsergänzungsmëttel. Den NIA hält fest, datt Schlafmedikamenter fir eng kuerz Zäit hëllefe kënnen, awer kee Heelmëttel fir Schlaflosegkeet sinn. Hie hält och fest, datt e puer Medikamenter, déi fir Leit mat Alzheimer ginn, fir de Schlof, d'Risiko vu Schwindel, Stierzen a Duercherneen erhéijen kënnen. Fänkt keen Schlafmedikament un, hält et net an änneren et net, och keng rezeptfräi Schlafhëllef, ouni mam Dokter oder Apdikter ze schwätzen.
 
-## Talk with a doctor
+## Mam Dokter schwätzen
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Geheit zum Dokter, wann Dir oder d'Persoun, fir déi Dir suergt, ëmmer middeg sidd, di meescht Nuechter schlecht schlaf, staark schnarcht oder nuets Atempausen hutt. Wann d'Schlafproblemer bei Demenz weiderhi bleiwen, rät den [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning), medizinesch Berodung ze sichen. Eng Kontroll kann Ursaachen fannen wéi Schmerz, eng aner Schlafstéierung, eng Krankheet oder eng Nebenwierkung vun engem Medikament. Plëtzlech Duercherneen, oder eng plëtzlech Ännerung am Schlof zesumme mat Duercherneen, brauch dréngend Hëllef. Liest [wann Dir zum Dokter gitt](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dës Säit ass allgemeng Informatioun, keng medizinesch Berodung. Kuckt eis [medizinesch Ausschlussklausel](/medical-disclaimer/).

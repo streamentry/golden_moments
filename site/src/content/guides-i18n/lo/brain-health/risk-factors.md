@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "ປັດໄຈສ່ຽງຂອງໂຣກສະໝອງເສື່ອມ: 14 ຢ່າງທີ່ຄະນະກຳມະການ Lancet ລະບຸ"
+seoTitle: "ປັດໄຈສ່ຽງໂຣກສະໝອງເສື່ອມ: 14 ປັດໄຈ Lancet"
+description: "14 ປັດໄຈສ່ຽງຂອງໂຣກສະໝອງເສື່ອມທີ່ອາດປ່ຽນແປງໄດ້ ຈັດຕາມໄລຍະຊີວິດ ພ້ອມສິ່ງທີ່ງານວິໄຈເຊື່ອມໂຍງ ແລະສິ່ງທີ່ທ່ານປຶກສາກັບໝໍໄດ້."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  ຄະນະກຳມະການ Lancet ປີ 2024 ລະບຸ 14 ປັດໄຈສ່ຽງຂອງໂຣກສະໝອງເສື່ອມທີ່ອາດປ່ຽນແປງໄດ້: ການຮຽນໜ້ອຍ, ການສູນເສຍການໄດ້ຍິນ, ໂຄເລສເຕີຣອນ LDL ສູງ, ໂຣກຊຶມເສົ້າ, ການບາດເຈັບທີ່ສີດ, ການບໍ່ເຄື່ອນໄຫວ, ເບົາຫວານ, ການສູບຢາ, ຄວາມດັນເລືອດສູງ, ໂລກອ້ວນ, ການດື່ມເຫຼົ້າຫຼາຍ, ການໂດດດ່ຽວທາງສັງຄົມ, ມົນລະພິດທາງອາກາດ ແລະການສູນເສຍສາຍຕາທີ່ບໍ່ໄດ້ຮັກສາ. ລວມກັນແລ້ວ ພວກມັນກ່ຽວຂ້ອງກັບປະມານ 45% ຂອງກໍລະນີທົ່ວໂລກ ແຕ່ບໍ່ມີການຮັບປະກັນສຳລັບຄົນໃດຄົນໜຶ່ງ.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 ປັດໄຈຄອບຄຸມຊີວິດທັງໝົດ: ໜຶ່ງຢ່າງໃນໄລຍະຕົ້ນຊີວິດ, ສິບຢ່າງໃນໄລຍະກາງຊີວິດ ແລະສາມຢ່າງໃນໄລຍະປາຍຊີວິດ."
+  - "ການສູນເສຍການໄດ້ຍິນ ແລະໂຄເລສເຕີຣອນ LDL ສູງໃນໄລຍະກາງຊີວິດ ແຕ່ລະຢ່າງກ່ຽວຂ້ອງກັບປະມານ 7% ຂອງກໍລະນີໂຣກສະໝອງເສື່ອມທົ່ວໂລກ, ເປັນສ່ວນແບ່ງທີ່ໃຫຍ່ທີ່ສຸດຂອງປັດໄຈດຽວ."
+  - "ຕົວເລກເຫຼົ່ານີ້ເປັນການປະເມີນໃນລະດັບປະຊາກອນ ທີ່ສົມມຸດວ່າມີຄວາມສຳພັນເປັນເຫດເປັນຜົນ. ບາງການເຊື່ອມໂຍງອາດເປັນເຫດຜົນພຽງບາງສ່ວນເທົ່ານັ້ນ."
+  - "ອາຍຸ ແລະພັນທຸກຳ ທີ່ບໍ່ມີໃຜປ່ຽນແປງໄດ້ ກໍເປັນປັດໃຈສ່ຽງຫຼັກເຊັ່ນກັນ. ການຫຼຸດປັດໄຈສ່ຽງ 14 ຢ່າງບໍ່ໄດ້ຮັບປະກັນວ່າຜູ້ໃດຜູ້ໜຶ່ງຈະຫຼີກເວັ້ນໂຣກສະໝອງເສື່ອມໄດ້."
+  - "ຫຼາຍຂັ້ນຕອນທີ່ກ່ຽວຂ້ອງ ເຊັ່ນການກວດຄວາມດັນເລືອດ ການໄດ້ຍິນ ແລະສາຍຕາ ເປັນສິ່ງທີ່ດີຕໍ່ສຸຂະພາບໃນດ້ານອື່ນດ້ວຍ ແລະຄວນປຶກສາກັບໝໍ."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "14 ປັດໄຈສ່ຽງຂອງໂຣກສະໝອງເສື່ອມທີ່ປ່ຽນແປງໄດ້ມີຫຍັງແດ່?"
+    a: "ຄະນະກຳມະການ Lancet ປີ 2024 ລະບຸ: ການຮຽນໜ້ອຍ, ການສູນເສຍການໄດ້ຍິນ, ໂຄເລສເຕີຣອນ LDL ສູງ, ໂຣກຊຶມເສົ້າ, ການບາດເຈັບທີ່ສີດ, ການບໍ່ເຄື່ອນໄຫວທາງຮ່າງກາຍ, ເບົາຫວານ, ການສູບຢາ, ຄວາມດັນເລືອດສູງ, ໂລກອ້ວນ, ການດື່ມເຫຼົ້າຫຼາຍເກີນ, ການໂດດດ່ຽວທາງສັງຄົມ, ມົນລະພິດທາງອາກາດ ແລະການສູນເສຍສາຍຕາທີ່ບໍ່ໄດ້ຮັກສາ. ລວມກັນແລ້ວ ພວກມັນກ່ຽວຂ້ອງກັບເກືອບເຄິ່ງໜຶ່ງຂອງກໍລະນີໂຣກສະໝອງເສື່ອມທົ່ວໂລກ."
+  - q: "ປັດໄຈສ່ຽງໂຣກສະໝອງເສື່ອມຢ່າງໃດທີ່ສຳຄັນທີ່ສຸດ?"
+    a: "ໃນທົ່ວປະຊາກອນໂລກ ຄະນະກຳມະການປະເມີນວ່າ ການສູນເສຍການໄດ້ຍິນ ແລະໂຄເລສເຕີຣອນ LDL ສູງໃນໄລຍະກາງຊີວິດ ແຕ່ລະຢ່າງກ່ຽວຂ້ອງກັບປະມານ 7% ຂອງກໍລະນີ, ຕາມດ້ວຍການຮຽນໜ້ອຍ ແລະການໂດດດ່ຽວທາງສັງຄົມ ທີ່ປະມານ 5% ແຕ່ລະຢ່າງ. ປັດໄຈໃດສຳຄັນທີ່ສຸດສຳລັບແຕ່ລະຄົນ ຂຶ້ນກັບສຸຂະພາບຂອງຄົນນັ້ນເອງ ດັ່ງນັ້ນໝໍແມ່ນຜູ້ແນະນຳທີ່ດີທີ່ສຸດ."
+  - q: "ປັດໄຈສ່ຽງສອງຢ່າງໃໝ່ຖືກເພີ່ມໃນປີ 2024 ບໍ?"
+    a: "ແມ່ນແລ້ວ. ລາຍງານປີ 2024 ເພີ່ມໂຄເລສເຕີຣອນ LDL (ທີ່ບໍ່ດີ) ສູງໃນໄລຍະກາງຊີວິດ ແລະການສູນເສຍສາຍຕາທີ່ບໍ່ໄດ້ຮັກສາໃນໄລຍະປາຍຊີວິດ ເຂົ້າໃນ 12 ປັດໄຈທີ່ລະບຸໄວ້ໃນປີ 2020. ຄະນະກຳມະການເຊື່ອມໂຍງພວກມັນກັບປະມານ 7% ແລະ 2% ຂອງກໍລະນີຕາມລຳດັບ."
+  - q: "ອາຍຸເປັນປັດໄຈສ່ຽງທີ່ປ່ຽນແປງໄດ້ບໍ?"
+    a: "ບໍ່ໄດ້. ອາຍຸເປັນປັດໄຈສ່ຽງທີ່ຮູ້ກັນວ່າໃຫຍ່ທີ່ສຸດຂອງໂຣກອັລໄຊເມີ ແລະບໍ່ສາມາດປ່ຽນແປງໄດ້. ພັນທຸກຳກໍມີບົດບາດເຊັ່ນກັນ. 14 ປັດໄຈໃນໜ້ານີ້ແມ່ນສິ່ງທີ່ງານວິໄຈຊີ້ວ່າອາດປ່ຽນແປງໄດ້."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+ປັດໄຈສ່ຽງ ແມ່ນສິ່ງທີ່ກ່ຽວຂ້ອງກັບໂອກາດທີ່ສູງຂຶ້ນໃນການເປັນພະຍາດໜຶ່ງ. ມັນບໍ່ແມ່ນສາເຫດໃນທຸກກໍລະນີ ແລະການມີມັນບໍ່ໄດ້ໝາຍຄວາມວ່າທ່ານຈະເປັນໂຣກສະໝອງເສື່ອມ. ໜ້ານີ້ລາຍການ 14 ປັດໄຈສ່ຽງຂອງໂຣກສະໝອງເສື່ອມທີ່ຄະນະກຳມະການ Lancet ປີ 2024 ເວົ້າວ່າອາດປ່ຽນແປງໄດ້, ງານວິໄຈເຊື່ອມໂຍງພວກມັນກັບຫຍັງ ແລະສິ່ງທີ່ທ່ານອາດປຶກສາກັບໝໍ.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+ສຳລັບພາບລວມທີ່ກວ້າງກວ່າ ລວມທັງສິ່ງທີ່ການທົດລອງຂະໜາດໃຫຍ່ພົບ ໃຫ້ເລີ່ມຈາກ [ໂຣກສະໝອງເສື່ອມປ້ອງກັນໄດ້ບໍ? ງານວິໄຈວ່າແນວໃດ](/brain-health/can-dementia-be-prevented/). ນີ້ເປັນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ ເບິ່ງ[ຄຳປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ.
 
-## What are the 14 risk factors for dementia?
+## 14 ປັດໄຈສ່ຽງຂອງໂຣກສະໝອງເສື່ອມມີຫຍັງແດ່?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[ຄະນະກຳມະການ Lancet ປີ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ທີ່ມີນັກວິໄຈໂຣກສະໝອງເສື່ອມ 27 ຄົນຂຽນ ປະເມີນວ່າ 14 ປັດໄຈສ່ຽງທີ່ອາດປ່ຽນແປງໄດ້ ລວມກັນແລ້ວກ່ຽວຂ້ອງກັບປະມານ 45% ຂອງກໍລະນີໂຣກສະໝອງເສື່ອມທົ່ວໂລກ. ຕົວເລກຂອງແຕ່ລະປັດໄຈຂ້າງລຸ່ມແມ່ນການປະເມີນຂອງຄະນະກຳມະການ ກ່ຽວກັບສ່ວນແບ່ງຂອງກໍລະນີທົ່ວໂລກທີ່ກ່ຽວຂ້ອງກັບມັນ ປັດເປັນຕົວເລກຈຳນວນເຕັມ. ຕົວເລກເຫຼົ່ານີ້ຊ້ອນທັບກັນ ເພາະຫຼາຍຄົນມີຄວາມສ່ຽງຫຼາຍຢ່າງພ້ອມກັນ ນັ້ນຈຶ່ງເປັນເຫດໃຫ້ລວມກັນໄດ້ 45% ແທນທີ່ຈະສູງກວ່ານັ້ນ.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| ປັດໄຈສ່ຽງ | ໄລຍະຊີວິດ | ສ່ວນແບ່ງຂອງກໍລະນີ | ສິ່ງທີ່ງານວິໄຈເຊື່ອມໂຍງ | ສິ່ງທີ່ທ່ານເຮັດໄດ້ |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| ການຮຽນໜ້ອຍ | ໄລຍະຕົ້ນຊີວິດ | 5% | ການຮຽນໜັງສືນ້ອຍປີ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການໃຊ້ສະໝອງໃນໄລຍະກາງຊີວິດ ກໍເບິ່ງຄືວ່າຊ່ວຍປ້ອງກັນໄດ້ແມ່ນແຕ່ສຳລັບຄົນທີ່ຮຽນໜ້ອຍ. | ສືບຕໍ່ຮຽນຮູ້ ແລະເຮັດກິດຈະກຳທີ່ກະຕຸ້ນສະໝອງໃນທຸກອາຍຸ ເຊັ່ນອ່ານໜັງສື ງານອະດິເລກ ຫ້ອງຮຽນ ແລະເກມກັບຄົນອື່ນ. |
+| ການສູນເສຍການໄດ້ຍິນ | ໄລຍະກາງຊີວິດ | 7% | ການສູນເສຍການໄດ້ຍິນທີ່ບໍ່ໄດ້ຮັກສາ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການສຶກສາທີ່ຕິດຕາມຄົນໄປເປັນເວລາດົນ ເຊື່ອມໂຍງການໃຊ້ເຄື່ອງຊ່ວຍຟັງກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ. | ກວດການໄດ້ຍິນຂອງທ່ານ. ຖາມວ່າເຄື່ອງຊ່ວຍຟັງຈະເປັນປະໂຫຍດບໍ່ ແລະໃສ່ມັນຕາມທີ່ໝໍສັ່ງ. ປ້ອງກັນຫູຈາກສຽງດັງ. |
+| ໂຄເລສເຕີຣອນ LDL ສູງ | ໄລຍະກາງຊີວິດ (ຈາກປະມານອາຍຸ 40 ປີ) | 7% | ໂຄເລສເຕີຣອນ LDL ("ທີ່ບໍ່ດີ") ສູງໃນໄລຍະກາງຊີວິດ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການສຶກສາແບບສັງເກດການເຊື່ອມໂຍງການໃຊ້ຢາສະຕາຕິນກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ ແຕ່ການທົດລອງໃນໄລຍະປາຍຊີວິດຍັງບໍ່ໄດ້ສະແດງເລື່ອງນີ້. | ຖາມໝໍວ່າຄວນກວດໂຄເລສເຕີຣອນຂອງທ່ານບໍ່ ແລະຈະເຮັດຫຍັງ ຖ້າມີ. |
+| ໂຣກຊຶມເສົ້າ | ໄລຍະກາງຊີວິດ | 3% | ໂຣກຊຶມເສົ້າກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ໃນໄລຍະປາຍຊີວິດ ໂຣກຊຶມເສົ້າກໍອາດເປັນສັນຍານເບື້ອງຕົ້ນຂອງໂຣກສະໝອງເສື່ອມໄດ້ເຊັ່ນກັນ. | ບອກໝໍກ່ຽວກັບອາລົມຕ່ຳ ຫຼືການສູນເສຍຄວາມສົນໃຈທີ່ຍາວກວ່າສອງອາທິດ. ໂຣກຊຶມເສົ້າສາມາດປິ່ນປົວໄດ້. |
+| ການບາດເຈັບທີ່ສີດ | ໄລຍະກາງຊີວິດ | 3% | ການບາດເຈັບທີ່ສີດໃນທຸກອາຍຸ ແລະຈາກທຸກແຫຼ່ງ ລວມທັງກິລາທີ່ມີການປະທະກັນ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. | ໃສ່ໝວກກັນນ໋ອກເວລາຂີ່ລົດຖີບ ແລະເຫຼັ້ນກິລາທີ່ປະທະກັນ. ຖາມກ່ຽວກັບການປ້ອງກັນການຕົກ. ພັກຜ່ອນ ແລະໃຫ້ໝໍກວດຫຼັງຈາກສີດໄດ້ຮັບບາດເຈັບ. |
+| ການບໍ່ເຄື່ອນໄຫວທາງຮ່າງກາຍ | ໄລຍະກາງຊີວິດ | 2% | ຜູ້ທີ່ອອກກຳລັງກາຍ ແລະຫຼິ້ນກິລາ ມີໂອກາດເປັນໂຣກສະໝອງເສື່ອມໜ້ອຍກວ່າ. ຫຼັກຖານຈາກການທົດລອງຍັງຈຳກັດຢູ່. | ຖາມວ່າການເຄື່ອນໄຫວແບບໃດປອດໄພສຳລັບທ່ານ ແລະຊອກສິ່ງທີ່ທ່ານມັກ. ເບິ່ງ[ໜ້າຄູ່ມືການອອກກຳລັງກາຍ](/brain-health/exercise/) ຂອງພວກເຮົາ. |
+| ເບົາຫວານ | ໄລຍະກາງຊີວິດ | 2% | ເບົາຫວານ ໂດຍສະເພາະເມື່ອເລີ່ມໃນໄລຍະກາງຊີວິດ ຫຼືເປັນເວລາດົນ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. | ກວດລະດັບນ້ຳຕານໃນເລືອດ. ຖ້າທ່ານເປັນເບົາຫວານ ໃຫ້ເຮັດວຽກກັບທີມດູແລຂອງທ່ານເພື່ອຄວບຄຸມມັນຢ່າງປອດໄພ. |
+| ການສູບຢາ | ໄລຍະກາງຊີວິດ | 2% | ການສູບຢາກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການສຶກສາພົບວ່າຜູ້ທີ່ເລີກສູບບໍ່ມີຄວາມສ່ຽງທີ່ສູງຂຶ້ນແບບດຽວກັນກັບຄົນທີ່ສູບຕໍ່. | ຖາມກ່ຽວກັບການສະໜັບສະໜູນໃນການເລີກສູບ. ການເລີກສູບເປັນສິ່ງທີ່ຄຸ້ມຄ່າໃນທຸກອາຍຸ. |
+| ຄວາມດັນເລືອດສູງ | ໄລຍະກາງຊີວິດ | 2% | ຄວາມດັນເລືອດສູງໃນໄລຍະກາງຊີວິດ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການທົດລອງຢາຄວາມດັນເລືອດຊີ້ວ່າມີຄວາມສ່ຽງຂອງໂຣກສະໝອງເສື່ອມ ຫຼືການເສື່ອມຂອງສະໝອງທີ່ຕ່ຳລົງເລັກນ້ອຍ. | ຮູ້ຕົວເລກຂອງທ່ານ. ຄະນະກຳມະການແນະນຳໃຫ້ຕົວເລກເທິງຢູ່ທີ່ 130 ຫຼືຕ່ຳກວ່າ ຕັ້ງແຕ່ປະມານອາຍຸ 40 ປີ. ຖາມວ່າເປົ້າໝາຍໃດເໝາະກັບທ່ານ. |
+| ໂລກອ້ວນ | ໄລຍະກາງຊີວິດ | 1% | ໂລກອ້ວນໃນໄລຍະກາງຊີວິດ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ ແລະຍັງເພີ່ມຄວາມສ່ຽງຂອງເບົາຫວານອີກດ້ວຍ. | ຖາມໝໍວ່ານ້ຳໜັກທີ່ດີສຳລັບທ່ານຢູ່ລະດັບໃດ. ຜູ້ໃຫຍ່ອາຍຸຫຼາຍບໍ່ຄວນລົດນ້ຳໜັກໂດຍບໍ່ມີຄຳແນະນຳທາງການແພດ. |
+| ການດື່ມເຫຼົ້າຫຼາຍເກີນ | ໄລຍະກາງຊີວິດ | 1% | ການດື່ມເຫຼົ້າຫຼາຍກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການລົດການດື່ມຫຼາຍລົງກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ. | ຖາມວ່າລະດັບທີ່ປອດໄພສຳລັບທ່ານແມ່ນເທົ່າໃດ ໂດຍສະເພາະເວລາໃຊ້ຢາ. |
+| ການໂດດດ່ຽວທາງສັງຄົມ | ໄລຍະປາຍຊີວິດ | 5% | ການຕິດຕໍ່ກັບຄົນອື່ນໜ້ອຍຄັ້ງ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. | ຮັກສາການຕິດຕໍ່ກັບຄົນອື່ນໃນວິທີທີ່ທ່ານມັກ. ເບິ່ງ[ຄູ່ມືການເຊື່ອມຕໍ່ທາງສັງຄົມ](/brain-health/social-connection/) ຂອງພວກເຮົາ. |
+| ມົນລະພິດທາງອາກາດ | ໄລຍະປາຍຊີວິດ | 3% | ການອາໃສຢູ່ໃນອາກາດທີ່ມີມົນລະພິດຫຼາຍກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການສຶກສາເຊື່ອມໂຍງອາກາດທີ່ສະອາດກວ່າກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ. | ສ່ວນໃຫຍ່ແມ່ນເລື່ອງນະໂຍບາຍສາທາລະນະ. ກວດການແຈ້ງເຕືອນຄຸນນະພາບອາກາດໃນທ້ອງຖິ່ນ ແລະຈຳກັດເວລາຢູ່ນອກເຮືອນໃນວັນທີ່ມົນລະພິດຫຼາຍ. |
+| ການສູນເສຍສາຍຕາທີ່ບໍ່ໄດ້ຮັກສາ | ໄລຍະປາຍຊີວິດ | 2% | ບັນຫາສາຍຕາທີ່ບໍ່ໄດ້ແກ້ໄຂ ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງທີ່ສູງຂຶ້ນ. ການສຶກສາໃຫຍ່ຢູ່ສະຫະລັດສະເໝີເຊື່ອມໂຍງການຜ່າຕັດຕ້ອກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ. | ກວດຕາເປັນປະຈຳ. ຖາມວ່າບັນຫາເຊັ່ນຕ້ອກສາມາດປິ່ນປົວໄດ້ບໍ່. |
 
-## How should I read these percentages?
+## ຄວນອ່ານຕົວເລກເຫຼົ່ານີ້ຢ່າງໃດ?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+ໃຫ້ອ່ານຢ່າງລະມັດລະວັງ. ລາຍງານຂອງຄະນະກຳມະການເອງມີຈຸດສຳຄັນທີ່ຄວນຈື່ໄວ້ຫຼາຍຢ່າງ:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **ມັນອະທິບາຍປະຊາກອນ ບໍ່ແມ່ນບຸກຄົນ.** [ສະຫຼຸບລາຍງານຂອງ University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ລະບຸວ່າ ການຫຼຸດຄວາມສ່ຽງເຮັດວຽກໃນລະດັບປະຊາກອນ ແຕ່ບໍ່ໄດ້ຮັບປະກັນວ່າບຸກຄົນໃດຈະຫຼີກເວັ້ນໂຣກສະໝອງເສື່ອມໄດ້.
+- **ມັນສົມມຸດວ່າມີຄວາມສຳພັນເປັນເຫດເປັນຜົນ.** ຜູ້ຂຽນລວມເອົາແຕ່ປັດໄຈທີ່ມີຫຼັກຖານໜັກແໜ້ນເທົ່ານັ້ນ ແຕ່ເວົ້າວ່າບາງການເຊື່ອມໂຍງອາດເປັນເຫດພຽງບາງສ່ວນ.
+- **ມັນເປັນຕົວເລກທົ່ວໂລກ.** ຂໍ້ມູນສ່ວນໃຫຍ່ມາຈາກປະເທດທີ່ມີລາຍໄດ້ສູງ ແລະສ່ວນແບ່ງທີ່ແທ້ຈິງຂອງປະເທດ ຫຼືຊຸມຊົນໃດໜຶ່ງຈະແຕກຕ່າງກັນ.
+- **ເປີເຊັນນ້ອຍກໍຍັງສຳຄັນ.** ປັດໄຈທີ່ກ່ຽວຂ້ອງກັບ 2% ຂອງກໍລະນີທົ່ວໂລກ ຍັງກະທົບຕໍ່ຄົນຈຳນວນຫຼວງຫຼາຍ.
 
-## Which risk factors were added in 2024?
+## ມີປັດໄຈສ່ຽງໃດທີ່ຖືກເພີ່ມໃນປີ 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+ລາຍງານປີ 2024 ເພີ່ມສອງປັດໄຈເຂົ້າໃນ 12 ປັດໄຈທີ່ລະບຸໄວ້ໃນປີ 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **ໂຄເລສເຕີຣອນ LDL ສູງໃນໄລຍະກາງຊີວິດ** ກ່ຽວຂ້ອງກັບປະມານ 7% ຂອງກໍລະນີ.
+- **ການສູນເສຍສາຍຕາທີ່ບໍ່ໄດ້ຮັກສາໃນໄລຍະປາຍຊີວິດ** ກ່ຽວຂ້ອງກັບປະມານ 2% ຂອງກໍລະນີ.
 
-## What risk factors cannot be changed?
+## ມີປັດໄຈສ່ຽງໃດທີ່ປ່ຽນແປງບໍ່ໄດ້?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+ສະຖາບັນຜູ້ສູງອາຍຸແຫ່ງຊາດ (National Institute on Aging) ເວົ້າວ່າ [ອາຍຸເປັນປັດໄຈສ່ຽງທີ່ຮູ້ກັນວ່າໃຫຍ່ທີ່ສຸດຂອງໂຣກອັລໄຊເມີ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) ແລະບໍ່ມີໃຜປ່ຽນແປງມັນໄດ້. ພັນທຸກຳກໍມີບົດບາດເຊັ່ນກັນ ໂດຍມີພັນທຸກຳໜຶ່ງທີ່ຮູ້ຈັກດີທີ່ມີອິດທິພົນຕໍ່ຄວາມສ່ຽງຂອງໂຣກອັລໄຊເມີ ເອີ້ນວ່າ APOE. NIA ເພີ່ມເຕີມວ່າ ນັກວິທະຍາສາດຍັງບໍ່ເຂົ້າໃຈຢ່າງເຕັມທີ່ວ່າອັນໃດເປັນສາເຫດຂອງໂຣກອັລໄຊເມີໃນຄົນສ່ວນໃຫຍ່. ຄະນະກຳມະການ Lancet ລະບຸວ່າ ຄວາມສ່ຽງທີ່ອາດປ່ຽນແປງໄດ້ສາມາດຫຼຸດລົງໄດ້ ບໍ່ວ່າຄົນຜູ້ນັ້ນຈະມີຄວາມສ່ຽງທາງພັນທຸກຳເທົ່າໃດ.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+ເນື່ອງຈາກອາຍຸ ແລະພັນທຸກຳມີບົດບາດໃຫຍ່ຫຼວງ ຫຼາຍຄົນທີ່ບໍ່ມີປັດໄຈສ່ຽງ 14 ຢ່າງນີ້ເລີຍ ກໍຍັງເປັນໂຣກສະໝອງເສື່ອມໄດ້. ນັ້ນບໍ່ແມ່ນຄວາມຜິດຂອງໃຜເລີຍ.
 
-## What does the trial evidence say about changing these risks?
+## ຫຼັກຖານຈາກການທົດລອງເວົ້າຫຍັງກ່ຽວກັບການປ່ຽນແປງຄວາມສ່ຽງເຫຼົ່ານີ້?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+ການເຊື່ອມໂຍງປັດໄຈສ່ຽງກັບໂຣກສະໝອງເສື່ອມ ບໍ່ແມ່ນສິ່ງດຽວກັນກັບການພິສູດວ່າການປ່ຽນແປງມັນຈະຫຼຸດຄວາມສ່ຽງຂອງໂຣກສະໝອງເສື່ອມ. ນີ້ແມ່ນບາງຕົວຢ່າງວ່າຫຼັກຖານຈາກການທົດລອງຢືນຢູ່ຕຸ້ມໃດ:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **ຄວາມດັນເລືອດ.** ໃນການທົດລອງ SPRINT MIND ເປົ້າໝາຍຄວາມດັນເລືອດທີ່ຕ່ຳກວ່າ ຊ່ວຍຫຼຸດການເສື່ອມຂອງຄວາມຮູ້ຄວາມເຂົ້າໃຈເລັກນ້ອຍຢ່າງມີນັຍສຳຄັນ. ມັນບໍ່ໄດ້ຫຼຸດໂຣກສະໝອງເສື່ອມທີ່ມີແນວໂນ້ມຢ່າງມີນັຍສຳຄັນ ເຖິງແມ່ນວ່າການທົດລອງອາດນ້ອຍເກີນໄປທີ່ຈະສະແດງເລື່ອງນັ້ນ ([SPRINT MIND ໃນ JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **ເຄື່ອງຊ່ວຍຟັງ.** ຄະນະກຳມະການ Lancet ອະທິບາຍການທົດລອງໃຊ້ເຄື່ອງຊ່ວຍຟັງເປັນເວລາສາມປີ ທີ່ບໍ່ພົບຜົນລວມຕໍ່ການຄິດ ແຕ່ພົບປະໂຫຍດໃນກຸ່ມຍ່ອຍຂອງຄົນທີ່ມີຄວາມສ່ຽງສູງກວ່າ. ການສຶກສາທີ່ຕິດຕາມຄົນໄປເປັນເວລາດົນ ເຊື່ອມໂຍງການໃຊ້ເຄື່ອງຊ່ວຍຟັງກັບຄວາມສ່ຽງທີ່ຕ່ຳລົງ. [ຄູ່ມືການໄດ້ຍິນ](/brain-health/hearing/) ຂອງພວກເຮົາມີລາຍລະອຽດເພີ່ມເຕີມ.
+- **ການເຄື່ອນໄຫວທາງຮ່າງກາຍ.** NIA ເວົ້າວ່າຍັງບໍ່ມີຫຼັກຖານການທົດລອງທາງຄລີນິກພໍທີ່ຈະສະຫຼຸບວ່າການອອກກຳລັງກາຍສາມາດປ້ອງກັນ ຫຼືຊະລອການເສື່ອມຂອງຄວາມຮູ້ຄວາມເຂົ້າໃຈເລັກນ້ອຍ ຫຼືໂຣກອັລໄຊເມີ. ແຕ່ບາງການສຶກສາຊີ້ວ່າມັນອາດຊ່ວຍໄດ້ກັບການເສື່ອມຕາມອາຍຸ ([NIA ກ່ຽວກັບການປ້ອງກັນໂຣກອັລໄຊເມີ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+ການທົດລອງຍາວນານທີ່ລໍຖ້າໃຫ້ໂຣກສະໝອງເສື່ອມເກີດຂຶ້ນ ໃຊ້ເວລາດົນ ແລະມີລາຄາແພງ ດັ່ງນັ້ນສຳລັບຫຼາຍປັດໄຈ ຫຼັກຖານທີ່ດີທີ່ສຸດຈະຍັງມາຈາກການສຶກສາທີ່ຕິດຕາມຄົນເປັນປີ. ຫຼັກຖານນັ້ນມີປະໂຫຍດ ແຕ່ອ່ອນກວ່າການທົດລອງ.
 
-## What about sleep and diet?
+## ແລ້ວການນອນ ແລະອາຫານເປັນແນວໃດ?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+ຄະນະກຳມະການໄດ້ທົບທວນເລື່ອງການນອນ ແລະອາຫານ ແຕ່ບໍ່ໄດ້ເພີ່ມເຂົ້າໃນລາຍການ ເພາະຫຼັກຖານບໍ່ແໜ້ນໜາ ຫຼືບໍ່ສອດຄ່ອງພໍ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ[ການນອນ](/brain-health/sleep/) ແລະ[ອາຫານ](/brain-health/diet/) ອະທິບາຍສິ່ງທີ່ຮູ້ແລ້ວ.
 
-## Talk with a doctor
+## ປຶກສາກັບໝໍ
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+ການກວດສຸຂະພາບປະຈຳປີ ແມ່ນເວລາທີ່ດີທີ່ຈະຍົກຫົວຂໍ້ເຫຼົ່ານີ້ຂຶ້ນມາ. ທ່ານອາດເອົາລາຍການນີ້ໄປ ແລະຖາມວ່າ:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- ຕົວເລກຄວາມດັນເລືອດ ນ້ຳຕານ ແລະໂຄເລສເຕີຣອນຂອງຂ້ອຍເປັນແນວໃດ ແລະມີອັນໃດທີ່ຕ້ອງໃສ່ໃຈບໍ?
+- ຂ້ອຍຄວນກວດການໄດ້ຍິນ ແລະສາຍຕາບໍ?
+- ການເຄື່ອນໄຫວທີ່ຂ້ອຍເຮັດ ປອດໄພ ແລະພຽງພໍສຳລັບຂ້ອຍບໍ?
+- ມີຢາຂອງຂ້ອຍອັນໃດທີ່ອາດສົ່ງຜົນຕໍ່ຄວາມຈຳ ຫຼືການຄິດບໍ?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+ກ່ອນປ່ຽນຢາ ອາຫານ ການອົດອາຫານ ການອອກກຳລັງກາຍ ຫຼືອາຫານເສີມ ໃຫ້ປຶກສາໝໍກ່ອນ. ຖ້າທ່ານ ຫຼືຜູ້ທີ່ທ່ານດູແລ ມີອາການສັບສົນກະທັນຫັນ ອ່ອນແຮງເຄິ່ງໜຶ່ງຂອງຮ່າງກາຍ ຫຼືເວົ້າລຳບາກ ໃຫ້ໂທຫາເບີສຸກເສີນໃນທ້ອງຖິ່ນຂອງທ່ານທັນທີ.

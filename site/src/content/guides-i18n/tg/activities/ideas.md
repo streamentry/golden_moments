@@ -1,34 +1,30 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Фаъолиятҳо барои шахсони бо деменсия: 101 ғояи содда"
+seoTitle: "Ғояҳои фаъолият барои деменсия: 101 фаъолияти содда"
+description: "101 фаъолияти содда барои калонсолон бо деменсия: аз тох кардани дастрӯймол то мусиқӣ ва аксҳо, бо роҳҳои осон кардан."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Фаъолиятҳои хуб барои шахсони бо деменсия одатан ошно, калонсолона ва осон барои мубодила ҳастанд: тох кардани ҷомашӯӣ, ҷудо кардани ҷуробҳо, пухтан, мусиқӣ, нигоҳ кардани аксҳо, роҳ рафтан, боғдорӣ, вақт бо ҳайвони хонагӣ ва бозиҳои содда. Чизеро интихоб кунед, ки шахс ҳамеша дӯст медошт, қисмҳои душворро худатон гиред ва вақте хаста шуд, қатъ кунед. Вақти хуши якҷоя аз ба охир расонидани чизе муҳимтар аст.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Аз ҳаёти худи шахс оғоз кунед: кори ӯ, машғулиятҳо, эътиқод ва мусиқии дӯстдоштааш беҳтарин роҳнамо ҳастанд."
+  - "Ҳар фаъолиятро ба қадри лозим хурдтар кунед: қадамҳои камтар, интихоби камтар, кори душворро худатон анҷом диҳед."
+  - "Тамошо кардан, чизеро нигоҳ доштан ё танҳо дар наздикӣ нишастан — ҳамаи инҳо иштирок ҳисоб мешаванд."
+  - "Вақте хастагӣ, ноумедӣ ё дилгиркиро мебинед, қатъ ё иваз кунед. Зуд ба охир расидан натиҷаи хуб аст."
+  - "Якҷоя кардани он муҳимтар аз дуруст кардани он аст."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Кадом фаъолиятҳо барои шахси бо деменсия мувофиқ аст?"
+    a: "Фаъолиятҳои ошно, ки шахс солҳо иҷро кардааст, каме содда карда шудаанд: тох кардани ҷома, гузоштани дастархон, пухтан, мусиқӣ, нигоҳ кардани аксҳо, роҳ рафтан, боғдорӣ ва вақт бо ҳайвони хонагӣ. Чизҳоеро интихоб кунед, ки калонсолона ва судманд ба назар мерасанд ва якҷоя иҷро кунед."
+  - q: "Фаъолият чанд вақт бояд давом кунад?"
+    a: "Муддати дурусти муайян вуҷуд надорад. Як рӯз якчанд дақиқаи тох кардани дастрӯймол кифоя аст, рӯзи дигар соате дар боғ низ осон ба назар мерасад. Иҷозат диҳед, ки шахс суръатро муайян кунад ва вақте ки ҳанӯз хуш аст, ба охир расонед."
+  - q: "Агар шахс аз иҷрои фаъолият иҷтиноб кунад, чӣ кор кунам?"
+    a: "Фишор наоред. «Не» метавонад маънои онро дошта бошад, ки вазифа хеле душвор аст, вақташ нодуруст аст ё шахс хаста ва ноором аст. Баъдтар кӯшиш кунед, нусхаи хурдтарро пешниҳод кунед ё худатон вазифаро дар наздикӣ оғоз карда, ӯро ба кумак даъват кунед."
+  - q: "Оё бозиҳои мағзи сар барои шахсони бо деменсия фоидаоваранд?"
+    a: "Бозиҳо метавонанд роҳи хуши гузаронидани вақт якҷоя бошанд, аммо ҳеҷ бозӣ нишон дода нашудааст, ки деменсияро табобат, суст ё қатъ кунад. Бозиҳоеро интихоб кунед, ки бе вақтсанҷ, холгузорӣ ва садоҳои ҷавоби нодуруст бошанд ва онҳоро ҳамчун фаъолияти мушарак, на санҷиш, маҳсуб кунед."
+  - q: "Чӣ тавр фаъолиятҳоро кӯдакона набудан нигоҳ дорам?"
+    a: "Аз ашёи воқеӣ ва калонсолона истифода баред: дастрӯймоли воқеӣ, дастурҳои воқеии пухтан, мусиқии калонсолон, ашёи расмкашӣ ва аксҳо бо мавзӯъҳои калонсолона. Вазифаҳоро ҳамчун кумаке, ки воқеан лозим аст, пешниҳод кунед ва бо шахс ҳамчун калонсоле, ки ҳаст, сӯҳбат кунед."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +46,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Беҳтарин фаъолият барои шахси бо деменсия одатан чизест, ки ӯ аллакай медонад чӣ тавр иҷро кунад, каме содда карда шуда ва дар наздикии касе, ки ба ӯ эътимод дорад. Дар зер 101 ғоя ҳаст, ки бо навъ гурӯҳбандӣ шудаанд, ҳар кадом бо тарзи танзим ва роҳи осон кардани он вақте ки душвор мешавад. Ба ҷиҳози махсус ниёз нест ва ба охир расонидани чизе лозим нест. Як бегаи дастрӯймол ва пиёлаи қаҳва якҷоя метавонанд як нимрӯзи хуб бошанд.
 
-## How do you choose the right activity?
+## Чӣ гуна фаъолиятро интихоб кардан мумкин аст?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Ба рӯйхат не, балки ба шахс нигаред: аз чизе оғоз кунед, ки ӯ ҳамеша дӯст медошт ва имрӯз метавонад бароҳатӣ иҷро кунад.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Кор ва машғулиятҳояшро дар назар дошта бошед.** [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/daily-care/activities) пешниҳод мекунад, ки корманди собиқи идора метавонад аз ҷудо кардани тангаҳо ё ҷамъоварии почта лаззат барад, боғбон бошад — аз корҳои ҳавлӣ.
+- **Чизеро, ки онҳо аллакай мекунанд, дарёбед.** Агар падаратон ҳар субҳ бе пурсиш ҷорӯб кунад, онро ба рӯзатон дохил кунед.
+- **Маҳдудиятҳоро ба назар гиред.** Хастагӣ, бинойӣ, шунавоӣ, дастҳои дардманд ва мувозинат — ҳамаи инҳо муҳиманд.
+- **Ҳолати рӯҳии ӯро тамошо кунед.** Фаъолиятҳои серҳаракат ва баландсадо ба баъзеҳо мувофиқанд ва баъзеҳоро метарсонанд.
+- **Ба он ҳадаф диҳед.** Дастрӯймолҳоро барои зиёфати калисо тох кардан аз машқи бемақсад арзишмандтар ба назар мерасад.
 
-### A rough guide by stage
+### Роҳнамои тахминӣ аз рӯи марҳила
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Деменсияро аксар вақт дар марҳилаҳои аввал, миёна ва охир тавсиф мекунанд. Инҳо тасвирҳои тахминӣ ҳастанд, на қуттиҳои қатъӣ, ва бисёриҳо рӯзҳои беҳтар ва душвортар доранд, аз ин рӯ ба он нигаред, ки имрӯз мебинед. [Феҳристи Бунёди Алсгеймер дар Амрико аз рӯи марҳила](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ба таври монанд пайравӣ мекунад.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Мавзӯъ | Марҳилаи аввал | Марҳилаи миёна | Марҳилаи охир |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Чизе, ки мебинед | Асосан мустақил; нақшакашӣ, номҳои нав ва ҷойҳои серодам душвор мешаванд | Барои оғоз ва қадамҳо кумак лозим аст; калимаҳо осонтар намеоянд | Бештари нигоҳдории ҳаррӯза кумак мехоҳад; ҳисҳо аз ҳама муҳиманд |
+| Фаъолиятҳое, ки аксар вақт мувофиқанд | Кортбозӣ, бозиҳои тахтавӣ, пухтан, боғдорӣ, дафтари рӯзнома навиштан, сафарҳо, клубҳо | Тох кардани ҷома, ҷудо кардан, қадамҳои содаи пухтан, сурудхонӣ, албомҳои аксӣ, гашти роҳнамоӣ | Мусиқии дӯстдошта, массажи дастҳо, чизҳои нармро ба даст гирифтан, хондани овоз, нишастан дар ҳаво |
+| Нақши шумо | Ҳамроҳ: пурсед, ки чӣ гуна кумак мехоҳанд | Танзим кунед, нишон диҳед, қисмҳои душворро худатон гиред | Фаъолиятро ба ӯ оред; ҳузури шумо худ фаъолият аст |
+| Ғояҳои бештар | [Марҳилаи аввал](/activities/early-stage/) | [Марҳилаи миёна](/activities/middle-stage/) | [Марҳилаи охир](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Чӣ гуна фаъолиятро бо шахси деменсия оғоз кардан мумкин аст?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Хурд оғоз кунед, якҷоя бо ӯ оғоз кунед ва розӣ шудан осон созед. Бисёриҳо ҳанӯз мехоҳанд иштирок кунанд, аммо нақшакашӣ ё оғоз кардан барояшон душвор аст.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Беҳтарин вақти ӯро интихоб кунед,** аксар вақт субҳ.
+2. **Ҳамаи чизҳоро аввал гузоред,** то фавран оғоз кунед.
+3. **Кумак пурсед, на намоиш:** «Метавонед ба ман каме кӯмак кунед?»
+4. **Худатон оғоз кунед.** Дастрӯймоли аввалро тох кунед ва бигзор ӯ ҳамроҳ шавад. Нишон додан аз шарҳ додан беҳтар аст.
+5. **Як қадам дар як вақт пешниҳод кунед.**
+6. **Қисми душворро худатон гиред.** Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки ингредиентҳоро худатон андоза кунед, сипас қошуқро барои ҳаракат додан ба ӯ диҳед.
+7. **Иҷозат диҳед, ки ба тарзи худаш иҷро шавад.** Дастрӯймолҳои гуногун тох шуда мушкил нест.
+8. **Вақте ки хушӣ намемонад, қатъ кунед.** Беқароронӣ, чинбаррӯ кардан ё «наметавонам» нишонаҳои иваз кардан ё истироҳат кардан аст.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Инчунин нигаред ба [чӣ гуна якҷоя бозӣ кардан](/caregiving/how-to-play-together/) ва [маслиҳатҳои муошират](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Корҳои рӯзмарраи хона
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Корҳои рӯзмарра ошно ва судманданд, аз ин рӯ ҷои табиӣ барои оғоз ҳастанд. [Институти миллии пиршавӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) зарфҳо, гузоштани дастархон, ҷорӯб кардан, ҷудо кардани почта ва тох кардани ҷомаро дар байни фаъолиятҳое номбар мекунад, ки одамон метавонанд лаззат баранд. Бештар дар [корҳои рӯзғорӣ](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Дастрӯймоли гармро тох кунед.** Сабади тозашударо аз хушккунак ба миз холӣ кунед ва паҳлӯ ба паҳлӯ тох кунед. Баъдтар ҳамвор кардан ва ҷамъ кардан ба ҳамон андоза судманд аст.
+2. **Ҷуробҳоро ҷуфт кунед.** Бо ранги хеле гуногун оғоз кунед. Баъдтар ҷудо кардани равшан аз торик кифоя аст.
+3. **Дастархонро гузоред.** Як намуди ашёро дар як вақт диҳед. Худатон як ҷойро ҳамчун намуна гузоред.
+4. **Зарфҳоро бишӯед ё хушк кунед.** Оби гарм бо собун ва зарфҳои шикастанашаванда. Хушк кардан нишаста барои пойҳо осонтар аст.
+5. **Мизро пок кунед.** Пас аз хӯрокхӯрӣ дастмоли намдор диҳед. Ин барои дастҳои бекарор кори воқеӣ аст.
+6. **Почтаро ҷудо кунед.** Каталогҳо ва почтаи бемаънӣ ба «нигоҳ доштан» ва «партофтан». Суратҳисобҳои воқеиро аз ин ҷо дур нигоҳ доред.
+7. **Купонҳоро бурида.** Қайчии сари думалак ва варақаҳои харид. Баъдтар доира кашидан дар атрофи ғизои дӯстдошта низ кор мекунад.
+8. **Тангаҳоро ҷудо кунед.** Пулро ба истаканҳо ҷудо кунед ё ба қоғаз печонед. Ашёи хурдро дур нигоҳ доред, агар шахс чизҳоро ба даҳон гузорад.
+9. **Ҷорӯб кунед ё гард ҷудо кунед.** Ҷорӯби сабук дар айвон ё гардгир бо дастаи дароз аз курсӣ.
+10. **Ба тайёр кардани хӯрок кумак кунед.** Шустани сабзавот, канда кардани баргҳои салат, ҳаракат додан. Корд ва оташро шумо назорат кунед.
+11. **Дастури оилавии пухтанро пазед.** Агар дар дасти онҳо навишта бошад, онро истифода баред. Баъдтар онҳо метавонанд чашандаи хӯрок бошанд.
+12. **Корҳои идорӣ анҷом диҳед.** Мактубҳоро тох кунед, конвертҳоро пур ва мӯҳр кунед ё рӯйхати харидро якҷоя нависед.
 
-## Music
+## Мусиқӣ
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Мусиқии ошно метавонад ба одамон расад, ҳатто вақте калимаҳо душвор аст. [Маслиҳатҳои мусиқии Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/daily-care/art-music) суруди ошно, бе реклама ва бо телевизори хомӯш пешниҳод мекунанд. Нигаред ба [фаъолиятҳои мусиқӣ](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Плейлисти шахсӣ созед.** Мусиқии наврасӣ ва ҷавонии онҳо, арӯсии онҳо, калисо ва фарҳанги онҳо.
+14. **Ҳамроҳ сурудхонӣ кунед.** Худатон сурудхониро оғоз кунед. Хиргӣ ё гӯш кардан ҳам ҳисоб мешавад.
+15. **Ритмро нигоҳ доред.** Дастпафа занед, зонуҳоро занед ё ба дафи дастӣ бизанед. Нишаста ва дар марҳилаи охир кор мекунад.
+16. **Рақсед.** Дар ошхона оҳиста рақсед ё нишаста дастҳоро нигоҳ дошта ҷунбед.
+17. **Албоми пурраро гузоред.** Сабти дӯстдоштаашонро аз аввал то охир, бо қаҳва ва бидуни чизи дигар дар садо.
+18. **Дар бораи мусиқӣ сӯҳбат кунед.** Ҳикояҳоро даъват кунед, на фактҳоро: «Дар бораи рақсҳое, ки рафта будед, нақл кунед.»
+19. **Мусиқии филмбардорӣшуда ё консертро тамошо кунед.** Намоише, ки онҳо дӯст медоштанд, шоми хуб аст. Ҳар вақт таваққуф кунед.
+20. **Асбоби ошнои онҳоро бинавозед.** Пианинонавози собиқ метавонад порчаҳои содда дӯст дорад; баъдтар якчанд нотаро якҷоя.
+21. **Мусиқии зиндаро гӯш кунед.** Консерти кӯтоҳи ҷамъиятӣ ё машқи хор. Наздики дарвоза нишинед.
 
-## Reminiscence: photos, objects and stories
+## Хотирот: аксҳо, ашё ва ҳикояҳо
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Гузаштаро якҷоя лаззат баред, бе санҷиш. «Ёд доред...?» ва «Ин кист?»-ро партоед ва ба ҷои он даъватҳои кушод истифода баред. Нигаред ба [фаъолиятҳои хотирот](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Албоми аксро варақ занед.** Гӯед, ки чӣ мебинед: «Чӣ либоси зебо. Дар бораи ин рӯз нақл кунед.» Ба ҳар номе, ки онҳо истифода мебаранд, мувофиқ шавед.
+23. **Қуттии хотира созед.** Қуттии пойафзол бо чизҳо аз ҳаёти онҳо, мисли тамғаи кор ё корти пухтан. Ҳар бор як чизро берун кунед.
+24. **Китоби достони ҳаётро оғоз кунед.** Якчанд акс дар як саҳифа бо сарлавҳаҳои калон. Ин барои кумакгарони нав шинос шуданро ба шахс осон мекунад.
+25. **Кортҳои сӯҳбатро истифода баред.** [Кортҳои сӯҳбат](/games/conversation-cards/) тасвирро бо даъвати кушод ҷуфт мекунанд.
+26. **Бозии аксҳои оилавиро созед.** [Ҷуфтҳои акс](/games/photo-pairs/) аксҳои шуморо ба бозии мувофиқат табдил медиҳад.
+27. **Филмҳои хонагӣ ё телевизиони кӯҳнаро тамошо кунед.** Якҷоя шарҳ диҳед, на аз пурсидан.
+28. **Ашёи ҳаёти кории онҳоро ламс кунед.** Калид, стетоскоп, дафтари ҳисоб. Дастҳо аксар вақт ҳикояро пеш мебаранд.
+29. **Таоми кӯдакиро пазед.** Онҳо метавонанд ҳам ҳаракат диҳанд, ҳам бичашанд ё танҳо дар ошхона бо шумо нишинанд.
+30. **Харитаи ҷойҳоеро, ки зиндагӣ кардаанд, нигаред.** Роҳҳои ошноро дар атласи калон пайгирӣ кунед.
 
-## Creative activities
+## Фаъолиятҳои эҷодӣ
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Санъат кардан аст, на асари ниҳоӣ. Маводро калонсолона ва бехатар нигоҳ доред. Нигаред ба [ҳунарҳо ва ҳунармандӣ](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Бо рангҳои обӣ расмкашӣ кунед.** Коғази ғафс, якчанд ранг. Агар оғоз кардан душвор бошад, зарбаҳои аввалро якҷоя роҳнамоӣ кунед.
+32. **Тарҳҳои калонсолонаро рангкунӣ кунед.** Гулҳо ё рӯйпӯшҳо, на мултфилмҳо. [Саҳифаҳои рангкунии мо](/games/coloring/) ё дар экран ё чопшуда кор мекунанд.
+33. **Коллаж созед.** Аксҳои маҷаллаҳоро аз боғҳо, мошинҳо ё ғизо бурида бо ёпишторак часпонед. Баъдтар танҳо интихоби аксҳо кифоя аст.
+34. **Гулро ороиш диҳед.** Як даста гули бозори хӯрокворӣ ва гулдон. Баъдтар якчанд поя дар як банка.
+35. **Якҷоя бофтан ё бофтан бо қулоб.** Қаторҳои содда бо сӯзани калон. Баъдтар печонидани риштаро ба гулӯла.
+36. **Барои оила корт созед.** Барои одамони ҳақиқӣ корти зодрӯз ё шифоёбӣ мӯҳр занед, имзо кунед ё оро диҳед.
+37. **Гили хушкшавандаро қолаб кунед.** Як косаи хурдро фишор диҳед. Маводҳои заҳрнашударо истифода баред ва наздик монед.
+38. **Чӯбро сайқал ва ороиш диҳед.** Ҷаъбаи паррандагони аз пешакӣ бурида ва коғази сайқал, бе асбобҳои барқӣ. Нигаред ба [фаъолиятҳо барои мардон](/activities/for-men/).
+39. **Мактуб нависед ё диктант кунед.** Ба набера ё дӯсти кӯҳна. Агар навиштан душвор бошад, онҳо гап мезананд ва шумо менависед.
 
-## Outdoors and gardening
+## Берунӣ ва боғдорӣ
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Ҳавои тоза ва рӯшноӣ ҳамроҳони хуб ҳастанд. Нигаред ба [фаъолиятҳои берунӣ ва боғдорӣ](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Гулҳоро об диҳед.** Як чойники хурд ва якчанд гулдон. Обдиҳии ҳаррӯзӣ ба рӯз оҳанг медиҳад.
+41. **Як гулдонро шинонед.** Онро ба миз гузоред, то ҳеҷ кас зону назанад. Ниҳолҳо аз тухм осонтаранд.
+42. **Алафро кашед ё гулҳои пажмурдаро канед.** Дастпӯшак дар даст, як гулзори хурд дар як вақт.
+43. **Баргҳоро ҷорӯб кунед.** Як порчаи хурд. Баъдтар нигоҳ доштани халтаи кушода корест воқеӣ.
+44. **Роҳи ошноро пиёда равед.** Атрофи кӯча ё то қуттии почта. Кӯтоҳтар ҳам хуб аст.
+45. **Якҷоя берун нишинед.** Курсии айвон дар рӯзи мулоим. Абрҳо ё гузаронҳоро тамошо кунед.
+46. **Паррандагонро хӯрок диҳед.** Якҷоя хӯрокдонро пур кунед ва аз курсии тиреза тамошо кунед.
+47. **Мошинро бишӯед.** Сатил, исфанҷ, нимрӯзи гарм. Шустани чархҳо корест содда ва осон.
 
-## Sensory activities
+## Фаъолиятҳои ҳиссӣ
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Ламс, бӯй, таъм, садо ва дидан бо пешрафти деменсия муҳимтар мешаванд. [Хадамоти миллии тандурустии Бритониё](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) мусиқӣ, ашёе, ки бояд ламс карда шавад ва массажи дастро барои марҳилаҳои баъдӣ зикр мекунад. Аввал аллергия ва хатари хафагиро санҷед; нигаред ба [фаъолиятҳои ҳиссӣ](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Массажи дастро анҷом диҳед.** Аввал пурсед ва каме равғани массаж истифода баред. Агар дар бораи пӯст ё аллергия шубҳа доред, бӯйи набуда интихоб кунед.
+49. **Матоъҳоро ламс кунед.** Сабади махмал, кордурой, пашм ва атлас барои молидан ва тох кардан.
+50. **Бӯйи гиёҳҳо ва қаҳваро бигиред.** Наъно ё розмаринро байни ангуштон молед. Бӯйҳои қавиро бо мушкилоти нафаскашӣ нагузоред.
+51. **Мӯйи онҳоро шона кунед.** Оҳиста ва мулоим, агар онҳо ин корро дӯст доранд.
+52. **Дастмоли гармро мубодила кунед.** Барои дастҳо ва рӯй дар рӯзи сард. Аввал ҳароратро санҷед.
+53. **Пешбанди фаъолиятро кашф кунед.** Тугмаҳои калон ва занҷирҳо, ки мустаҳкам дӯхта шудаанд. Санҷед, ки чизе кушода нашавад.
+54. **Таъми дӯстдоштаашонро чашед.** Як қошуқи хурд, бо бофтае, ки онҳо бехатар идора карда метавонанд.
+55. **Садоҳои табиатро пахш кунед.** Борон, мавҷҳо ё навои паррандагон бо овози паст.
+56. **Чизи оҳистаро тамошо кунед.** Ҳавзи моҳӣ, видеои табиат ё барфи афтанда.
 
-## Games and puzzles
+## Бозиҳо ва пазлҳо
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Бозиҳо вақте хуб кор мекунанд, ки вақтсанҷ, холгузорӣ ё фишор набошад. Агар бозӣ ба санҷиш монанд шавад, онро гузоред. Нигаред ба [интихоби барномаҳо ва бозиҳо](/caregiving/choosing-apps-and-games/) ва [бозиҳои мағзи сар](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Тасвирҳоро мувофиқ кунед.** [Ҷуфтҳои тасвир](/games/picture-pairs/) ба тасвирҳо имкон медиҳад рӯ ба боло бимонанд, пас ин бештар пай бурдан аст, на ба ёд овардан.
+58. **Тасвири монандро ёбед.** [Ёфтани монанд](/games/find-the-same/) ду то чор интихобро пешниҳод мекунад. Дар бораи ҳар тасвир сӯҳбат кунед.
+59. **Ба сабадҳо ҷудо кунед.** [Якҷоя ҷудо кардан](/games/sort-together/) мисли ҷудо кардани ҷуробҳо дар экран аст.
+60. **Пазли калонпораро иҷро кунед.** Тасвирҳои калонсолона, шумораи осони порчаҳо. [Пазли тасвирӣ](/games/picture-puzzle/) тасвири пурраро намоён нигоҳ медорад. Бештар дар [пазлҳо барои деменсия](/activities/puzzles/).
+61. **Бозии корти кӯҳнаро бозед.** Чизе, ки солҳо бозидаанд. Баъдтар ҷудо кардани корт бо ранг худ бозӣ аст.
+62. **Домино бозед.** Охирҳоро мувофиқ кунед. Баъдтар танҳо ҷойгир кардани тахтачаҳо кифоя аст.
+63. **Ҷустуҷӯи калимаи чопи калонро санҷед.** [Ҷустуҷӯи калима](/games/word-search/) калимаҳо танҳо уфуқӣ ва амудӣ дорад ва чоп мешавад.
+64. **Зарбулмасалҳои ошноро пурра кунед.** [Пурра кардани зарбулмасал](/games/finish-the-saying/) имкон медиҳад, ки охирро ҳар вақт нишон диҳед.
+65. **Бинго бо тасвирҳо бозед.** [Бинго бо тасвирҳо](/games/picture-bingo/) барои оила ва гурӯҳҳо мувофиқ аст. Кортҳоро озодона нишон диҳед.
+66. **Шашка бозед.** Қоидаҳоро осон нигоҳ доред. Ҳаракат додани донаҳо ҳангоми сӯҳбат ҳисоб мешавад.
 
-## Movement
+## Ҳаракат
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+Институти миллии пиршавӣ пиёдагардӣ, велосипеди ҷойгир, тасмаҳои кашишӣ, партоби тӯби нарм ё шар, бардоштани қуттиҳои шӯрбо ва видеоҳои машқро барои калонсолон пешниҳод мекунад. Пеш аз оғози чизи нав бо духтур маслиҳат кунед, хусусан агар мушкилоти мувозинат доред.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Шарро партоед.** Рӯ ба рӯ нишинед. Он оҳиста ҳаракат мекунад, пас ба гирифтан осон аст.
+68. **Видеои машқи нишастаро пайравӣ кунед,** барои калонсолон сохташуда, паҳлӯ ба паҳлӯ.
+69. **Бо тасма кашед.** Ҳаракатҳои мулоими дастҳо бо тасмаи сабук ҳангоми нишастан.
+70. **Қуттиҳои шӯрборо бардоред.** Дастҳоро оҳиста боло баред, шояд ба мусиқӣ.
+71. **Велосипеди ҷойгирро савор шавед.** Якчанд дақиқаи осон, бо шумо наздик.
+72. **Бо шарфҳо рақсед.** Шарфҳои сабукро ба мусиқӣ ҷунбонед, нишаста ё истода.
+73. **Бо мақсад роҳ равед.** Барои фиристодани мактуб ё харидани қаҳва. Сабаби рафтан табиӣ ба назар мерасад.
+74. **Нафаси сабукро якҷоя қатъ кунед.** Бо [нафаскашии ором](/games/calm-breathing/) якҷоя оҳиста шавед.
 
-## Social activities
+## Фаъолиятҳои иҷтимоӣ
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Ҳамроҳӣ аҳамият дорад, ҳатто вақте номҳо душворанд, ва гурӯҳҳои хурд аз калонҳо осонтаранд. Институти миллии пиршавӣ қайд мекунад, ки шахс шояд номи меҳмонро ба ёд наорад, аммо аксар вақт ҳамроҳиро дӯст медорад. Нигаред ба [меҳмонӣ](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Як ё ду меҳмон дар як вақт.** Дидори кӯтоҳ дар ҳуҷраи ором, бо аксҳо барои тамошо.
+76. **Оилаи худро видеозанг кунед.** Сӯҳбатҳои кӯтоҳ, як овоз дар як вақт. Нигаред ба [занги телефонӣ ва видеоӣ](/activities/phone-and-video-calls/).
+77. **Қаҳвахонаи хотираро санҷед.** Гирдиҳамоиҳои ғайрирасмӣ барои одамони бо деменсия ва парасторонашон. Аз агентии минтақавии пиронсолон пурсед, ки дар наздикӣ чӣ ҳаст.
+78. **Дар вақти ором берун хӯрок хӯред.** Институти миллии пиршавӣ пешниҳод мекунад, ки ресторани ошно ва ором дар соатҳои кам, бо миз дар наздикии ҳоҷатхона.
+79. **Ба маркази пиронсолон ё барномаи рӯзона ташриф оред.** Ҳамроҳӣ барои онҳо ва истироҳат барои шумо.
+80. **Бо кӯдакон вақт гузаронед.** Дидори кӯтоҳ ва ором аз набераҳо, ё хондани китоби тасвирдор барои кӯдаки хурдсол.
+81. **Рӯзномаро дар қаҳва мубодила кунед.** Сарлавҳаҳоро баланд хонед. Ин расм муҳим аст, на хабар.
+82. **Ба дигарон кумак кунед.** Барномаҳои калисоро ҷудо кунед ё барои ҳамсоя корти ташаккур созед.
 
-## Faith and spiritual activities
+## Фаъолиятҳои динӣ ва маънавӣ
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Аз анъанаи худи шахс пайравӣ кунед ё ҳеҷ. Институти миллии пиршавӣ хидматҳои ошно, хондан, мусиқии муқаддас, дуо, мулоҳиза ва маросимҳои иди ошноро пешниҳод мекунад.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Ба хидмати ошно ҳузур шавед.** Яке оромтарро интихоб кунед, дар наздикии роҳ нишинед ва ба мардуми он ҷо дар бораи деменсия хабар диҳед.
+84. **Хидматро онлайн тамошо кунед,** дар рӯзҳое, ки берун рафтан зиёд аст.
+85. **Якҷоя дуо кунед ё хонед.** Калимаҳои ошно, оҳиста хонда. Онҳо метавонанд дар қисмҳое, ки медонанд, ҳамроҳ шаванд.
+86. **Ҳимнҳо ё мусиқии муқаддасро аз анъанаашон сурудхонӣ кунед.**
+87. **Маросимҳои иди худро нигоҳ доред.** Шамъҳои батареявӣ, баракат, оройишҳое, ки ҳамеша истифода мекарданд.
+88. **Вақти ором якҷоя.** Дар боғ нишинед ё ғуруби офтобро тамошо кунед.
 
-## Pets and animals
+## Ҳайвонот
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+Институти миллии пиршавӣ ғизо додан, шона кардан, пиёда бурдан, ё нишастан ва ба даст гирифтани ҳайвони хонагиро пешниҳод мекунад.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Сагу гурбаи оромро шона кунед** бо ҳаракатҳои дароз ва оҳиста.
+90. **Ҳайвонро якҷоя хӯрок диҳед.** Шумо андоза кунед; онҳо мерезанд.
+91. **Сагро якҷоя пиёда баред.** Шумо тасма нигоҳ доред.
+92. **Ҳайвонро ба зону гиред.** Гурбаи ором дар болишт метавонад хеле оромбахш бошад.
+93. **Ҳайвонҳои меҳмонро пешвоз гиред.** Баъзе хонаҳои нигоҳубин ва барномаҳои рӯзона дидори ҳайвонотро ташкил мекунанд. Маҳаллӣ пурсед.
+94. **Ҳайвони нармшудаи ба воқеият монандро пешниҳод кунед.** Агар ҳайвони хонагӣ нест, баъзеҳо гурба ё саги нармшудаи ба воқеият монандро дӯст медоранд. Оддӣ пешниҳод кунед, ҳеҷ гоҳ ҳамчун бозича, ва «не»-ро қабул кунед.
 
-## Seasonal activities
+## Фаъолиятҳои мавсимӣ
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Анъанаро нигоҳ доред, аммо содда. Институти миллии пиршавӣ пешниҳод мекунад, ки воқеъбин бошед ва дар идҳои банд ҷои ором барои истироҳат дошта бошед.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Барои мавсим оро диҳед.** Коҳу, ҳалқа ё гулҳои тоза дар рӯи миз.
+96. **Ширинии идона созед.** Ҳамирро пахш кунед ё кулчаро оро диҳед. Танурро шумо назорат кунед.
+97. **Оройишҳоро овезед.** Оройишҳои шикастанашаванда, як-як дода шуда.
+98. **Барои тамошои чароғҳо гардиш кунед.** Гардиши кӯтоҳи бегоҳӣ ҳеҷ чиз намехоҳад, ҷуз ҳамроҳӣ.
+99. **Пиёзчаҳои баҳорро шинонед.** Пиёзчаҳоро дар тағора дар тирамоҳ фишор диҳед ва ниҳолҳоро тамошо кунед.
+100. **Ҷуворимакка ё нахӯдро пӯст кунед.** Кори тобистонаи айвон бо косаи дар бағал.
+101. **Кортҳои идро нависед.** Онҳо имзо мекунанд ва мӯҳр мезананд; шумо нишониҳоро менависед.
 
-## What if an activity is not working?
+## Агар фаъолият кор накунад, чӣ кор кунем?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Қатъ кунед ва вақти дигар чизи дигарро санҷед. Институти миллии пиршавӣ пешниҳод мекунад, ки ноумедиро тамошо кунед ва агар шахс хоҳад, бигзор танҳо тамошо кунад. «Не» аксар вақт маънои онро дорад, ки вазифа хеле душвор аст, вақт нодуруст аст ё чизи дигар ӯро ташвиш медиҳад — дард, гуруснагӣ ё садо. Онро хурдтар кунед, баъдтар дар рӯз кӯшиш кунед ё худатон оғоз кунед ва бинигаред, ки ӯ ҳамроҳ мешавад ё не. Нигаред ба [вақте ки «не» мегӯянд](/caregiving/when-they-say-no/) ва [беқароронии бегоҳӣ](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Барои ҷойгир кардани фаъолиятҳо байни хӯрок ва истироҳат нигаред ба [тартиби ороми рӯзона](/activities/daily-routine/). Барои чизҳое, ки бояд омода бошанд, нигаред ба [фаъолиятҳои чопшаванда](/activities/printable/), ва агар гурӯҳро роҳбарӣ мекунед, [фаъолиятҳои гурӯҳӣ дар хонаи нигоҳубин](/activities/care-home-groups/). Истироҳати худатон низ муҳим аст: нигаред ба [худпарастии парастор](/caregiving/caregiver-self-care/).

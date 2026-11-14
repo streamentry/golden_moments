@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "װען אַ מענטש מיט דעמענץ פֿרעגט דאָס זעלבע איבער און איבער"
+seoTitle: "דעמענץ און װידערהאָלנדיקע פֿראַגן: װאָס צו זאָגן און טאָן"
+description: "פֿאַרװאָס אַ מענטש מיט דעמענץ פֿרעגט דאָס זעלבע איבער און איבער, רויִיקע אַרױסענטפֿערונגען, פּשוטע הילף־מיטלען, און װען אַ פּלוצלינגע ענדערונג דאַרף אַ דאָקטער."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  װידערהאָלנדיקע פֿראַגן זענען געװײנלעך בדעמענץ: דער מענטש דערמאָנט זיך געװײנלעך נישט אַז ער האָט געפֿרעגט, און די פֿראַגע טראָגט אָפֿט אַ זאָרג. ענטפֿערט רויִק און קורץ, װי צום ערשטן מאָל, ענטפֿערט אויף דעם געפֿיל הינטער דער פֿראַגע, און זאָגט קײנמאָל „איר האָט שױן געפֿרעגט“. שרײַבט די ענטפֿער אויף װוּ זײ קענען זען, דערמאָנט קומענדיקע געשעענישן נאָר קורץ פֿאַרױס, און באַטײליקט מיט אַ פֿרײדיקער טעטיקײט. אַ פּלוצלינגע ענדערונג דאַרף אַ דאָקטער.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "דער מענטש דערמאָנט זיך געװײנלעך נישט אַז ער האָט געפֿרעגט; עס איז נישט אַ מזיד."
+  - "די פֿראַגע באַהאַלט אָפֿט אַ געפֿיל, װי זאָרג װעגן אַ באַזוך אָדער דאַרף זיך זיכער פֿילן."
+  - "ענטפֿערט רויִק, קורץ און פֿרײַנדלעך, װי צום ערשטן מאָל. זאָגט קײנמאָל „איר האָט שױן געפֿרעגט.“"
+  - "אַ צעטל, אַ װײַסבאָרד, אַ זײגער אָדער אַ קאַלענדאַר אין זיכט קענען די פֿראַגע פֿאַר אײַך ענטפֿערן."
+  - "דערמאָנט שטרעסיקע געשעענישן נאָר קורץ פֿאַרױס."
+  - "נעמט אַ קורצע רו װען איר דאַרפֿט, און רופֿט דעם דאָקטער װעגן יעדער פּלוצלינגער ענדערונג."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "פֿאַר װאָס פֿרעגט מײַן טאַטע מיט דעמענץ דאָס זעלבע איבער?"
+    a: "דעמענץ באַטרעפֿט דאָס קורצע זכּרון, דעריבער קען ער טאַקע נישט געדענקען אַז ער האָט געפֿרעגט, אָדער דאָס ענטפֿער געהערט. אָפֿט טראָגט די פֿראַגע אויך אַ געפֿיל, װי זאָרג װאָס װערט װײַטער, אָדער באַדאַרף זיך פֿאַרזיכערט צו פֿילן. דאָס ענטפֿערן אױפֿן געפֿיל העלפֿט געװײנלעך מער װי צו װידערהאָלן די פֿאַקטן."
+  - q: "זאָל איך זאָגן אַז זײ האָבן שױן געפֿרעגט?"
+    a: "נײן. דאָס העלפֿt זײ נישט געדענקען, און עס קען פֿילן װי אַ תיקון. דעמענץ־ארגאַניזאַציעס רעקאָמענדירן צו ענטפֿערן רויִק יעדן מאָל, װי צום ערשטן מאָל, און דאָס ענטפֿער קורץ האַלטן."
+  - q: "העלפֿט עס צו שרײַבן די ענטפֿער?"
+    a: "עס קען, בשעת דער מענטש קען נאָך לײענען. אַ צעטל, אַ װײַסבאָרד מיט הײַנטיקן פּלאַן, אַ גרױסער זײגער אָדער אַ קאַלענדאַר װוּ זײ קוקן אָפֿט לאָזט זײ זיך אַליין קאָנטראָלירן דעם ענטפֿער. װײַז זאַנפֿט װוּ צו קוקן, אַנשטאָט צו זאָגן „איך האָב דיר דאָס געזאָגט.“"
+  - q: "װען זאָל איך רעדן װעגן אַ דאָקטער־באַזוך אָדער אַ אויספֿאָר?"
+    a: "נאָענט צו דער צײַט. דערמאָנען אַ דאָקטער־באַזוך אָדער אַ רײַז טעג פֿאַרױס קען פֿאַרװאַנדלען אין שעה פֿון זאָרגדיקע פֿראַגן. זאָגט עס קורץ פֿאַרױס, רויִק, מיט װאָס װעט געשען װײַטער."
+  - q: "װען איז װידערהאָלונג אַ סיבה צו רופֿן אַ דאָקטער?"
+    a: "אױב פֿראַגן, פֿאַרװירעניש אָדער ענדערונג אין פֿירונג הײבן זיך פּלוצלינג אָן, אָדער װערן פֿיל ערגער אין שעה אָדער טעג, רופֿט דעם דאָקטער גלײַך. אינפֿעקציע, אַ נײַע מעדיצין, װײטיק, פֿאַרשטאָפּונג אָדער װאַסערמאַנגל קענען מאַכן פּלוצלינגע פֿאַרװירעניש, װאָס הײסט דעליריום, און דאַרף שנעלע הילף."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„װאָס איז די צײַט פֿון דעם דאָקטער?“ צען מינוט שפּעטער: „װאָס איז די צײַט פֿון דעם דאָקטער?“ איבערהערן דאָס זעלבע איבער און איבער איז איינע פֿון די מיד־מאַכנדסטע טײל פֿון זאָרגן פֿאַר אַ מענטש װאָס לעבט מיט דעמענץ. עס איז זייער געװײנלעך, עס פּאַסירט נישט אַ מזיד, און עס זענען רויִיקע װעגן צו ענטפֿערן װאָס מאַכן דעם טאָג לײכטער פֿאַר בײדע פֿון אײַך.
 
-## Why does someone with dementia ask the same question over and over?
+## פֿאַר װאָס פֿרעגט אַ מענטש מיט דעמענץ דאָס זעלבע איבער און איבער?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+מערסטנס צוליב זכּרון. דעמענץ באַטרעפֿט דאָס קורצע זכּרון, דעריבער דערמאָנט זיך דער מענטש אָפֿט נישט אַז ער האָט געפֿרעגט, אָדער נישט דאָס ענטפֿער. די [אַלצהײַמער־פֿאַונדאַציע פֿון אַמעריקע](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) באַשרײַבט פֿיל מאָל פֿרעגן דאָס זעלבע װי געװײנלעך און דערװאַרט.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+די פֿראַגע טראָגט אָפֿט אויך אַ געפֿיל. די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) דערקלערט, אַז אַ װידערהאָלטע פֿראַגע קען אויסדריקן אַ זאָרג, אַ בקשה פֿאַר הילף, אָדער אַנגסט און אומזיכערקײט, און אַז דער מענטש זוכט אָפֿט טרייסט און באַקאַנטקײט. „װען פֿאָרן מיר?“ קען טאַקע מיינען „איך בין נערװעז װעגן אַ פֿאָרן.“ לאַנגװײַל, מורא, ראַש און ענדערונגען אין דער רוטין קענען אַלע דאָס אויסלײזן, און אַ װידערהאָלטע פֿראַגע קען אויך אָנװײַזן אַ באַדאַרף, װי דעם באָד־צימער ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## װאָס זאָל איך זאָגן?
 
-Answer calmly and briefly, as if it were the first time.
+ענטפֿערט רויִק און קורץ, װי צום ערשטן מאָל.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **האַלט דעם ענטפֿער קורץ און שטענדיק.** „דער דאָקטער איז אום צװײ. איך װעל מיט אײַך זײַן.“ אַ שטענדיקער ענטפֿער איז גרינגער צו פֿאַרשטײן.
+- **ענטפֿערט דאָס געפֿיל.** „איר טראַכט װעגן דעם דאָקטער. עס איז הײַנט נאָכמיטאָג, און איך װעל אונדז פֿאָרן. איר דאַרפֿט גאָרנישט טאָן.“
+- **נוצט אַ װאַרעם טאָן און אַ זאַנפֿטע באַרירונג,** אויב זײ האָבן ליב צו טאַטשן. די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו בלײַבן רויִק און נישט צו נוצן לאָגיק אָדער שטרײַטן.
+- **גיט דעם ענטפֿער װאָס זײ זוכן,** אַזױ אָפֿט װי נייטיק. די אַלצהײַמער־אַסאָציאַציע זאָגט, אַז מען זאָל אים װידערהאָלן אַזױ פֿיל מאָל װי זײ פֿרעגן.
 
-## What should I avoid?
+## װאָס זאָל איך מײַדן?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„איר האָט מיך שױן דאָס געפֿרעגט.“** די [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ראַט אָפּ פֿון צו װײַזן, אַז זײ האָבן פּונקט געפֿרעגט. עס קען נישט העלפֿן זײ צו געדענקען, און עס קען פֿילן װי אַ שטראָף.
+- **לאַנגע דערקלערונגען.** מער װערטער געבן מער צו פֿאַרגעסן.
+- **זיפּצן, אויגן־ראָלן אָדער אַ שאַרפֿער טאָן.** די [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) רעקאָמענדירט געדולד און נישט װײַזן פֿראַסטראַציע. דאָס איז שװער; זע דעם אָפּשניט װעגן ברעקן אונטן.
 
-## Simple tools that answer the question for you
+## נוצלעכע מיטלען װאָס ענטפֿערן די פֿראַגע פֿאַר אײַך
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+בשעת דער מענטש קען נאָך לײענען, העלפֿט אַ געשריבענע ענטפֿער אָפֿט מער װי אַ גערעדטע.
 
-| Tool | How to use it |
+| מיטל | װי צו נוצן עס |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| אַ צעטל מיט גרױסע אותיות | „דאָקטער הײַנט אום צװײ. מאַרי װעט פֿאָרן.“ שטעלט עס װוּ זײ קוקן מערסט |
+| אַ װײַסבאָרד | דער הײַנטיקער פּלאַן אין דרײַ אָדער פֿיר שורות; אויסװישן און פֿאַרשרײַבן יעדן מאָרגן |
+| אַ גרױסער זײגער מיט דעם טאָג און דאַטום | העלפֿט מיט „װאָס איז הײַנט פֿאַר אַ טאָג?“ און „איז שוין צײַט?“ |
+| אַ קאַלענדאַר | שטרײַכט אָפּ יעדן טאָג; שטרײַכט איין דעם װײַטערדיקן באַזוך |
+| באַקאַנטע פֿאָטאָס | אַ פֿאָטאָ פֿון דעם מענטש װאָס קומט קען ענטפֿערן „װער קומט אויף באַזוך?“ |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+די אידעען קומען פֿון דער [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) און [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). װײַז זאַנפֿט מיט דעם פֿינגער אויף דעם צעטל („לאָמיר צוזאַמען קוקן אויף דעם װײַסבאָרד“), אַנשטאָט צו זאָגן „איך האָב עס פֿאַר דיר אויפֿגעשריבן.“
 
-## Tell them about events close to the time
+## זאָג מיט אַ ביסל צײַט פֿאַרױס װעגן געשעענישן
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+מען קען אַ באַזוך אָדער אַ רײַז טעג פֿאַרױס דערמאָנען, און עס קען װערן שעה פֿון זאָרגדיקע פֿראַגן. די Family Caregiver Alliance און Alzheimer's Los Angeles רעקאָמענדירן ביידע צו רעדן װעגן פּלענער, בפֿרט שטרעסיקע, װי דאָקטער־באַזוכן אָדער באָדן, נאָר אַ קורצע צײַט פֿאַרױס. דערנאָך זאָגט װאָס װעט װײַטער געשען, איין שטעג אויף אַ מאָל.
 
-## Activities that can shift attention
+## טעטיקײטן װאָס קענען פֿאַרשיבן די אויפֿמערקזאַמקײט
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+נאָכדעם װי איר האָט געענטפֿערט און דאָס געפֿיל דערקענט, קען אַ רויִיק, פֿרײדיק טעטיקײט העלפֿן, באַזונדערס אויב לאַנגװײַל שטעקט הינטער די פֿראַגן. יעדע פֿון די מקורות אויבן רעקאָמענדירט אָפּלײטן צו עפּעס װאָס דער מענטש האָט ליב.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **אַ קורץ, גרינג שפּיל צוזאַמען.** [Picture pairs](/games/picture-pairs/) האַלט די בילדער אַרױסגעװיזן, אַזױ אַז קיין זאַך דאַרף מען נישט געדענקען.
+2. **אַ באַקאַנטע אַרבעט.** פֿאַלדן האָנטוכער, סאָרטירן סאָקס אָדער דעקן דעם טיש. [Sort together](/games/sort-together/) איז אַ װערסיע אויפֿן עקראַן.
+3. **רעדט װעגן זייער ליב האָבן.** [Conversation cards](/games/conversation-cards/) געבן אָפֿענע פּראָמפּטן אָן ריכטיקע ענטפֿערס.
+4. **מוזיק, אַ שפּאַציר אָדער אַ שניטקע.** דער NIA ציילט די צװישן די פּשוטע װעגן צו אָפּלײטן.
+5. **אַ שטילע פּאָז.** זיצט צוזאַמען, קוקט אַרױס דעם פֿענצטער, אָדער פּרוּװט אַ געמײנזאַמע [Calm Breathing](/games/calm-breathing/) מאָמענט.
 
-If they return to the question, answer it again, kindly. That is fine.
+אױב זײ קומען צוריק צו דער פֿראַגע, ענטפֿערט װידער, פֿרײַנדלעך. דאָס איז גוט.
 
-## Look for patterns
+## קוקט נאָך מוסטערן
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+די אַלצהײַמער־אַסאָציאַציע רעקאָמענדירט צו באַמערקן צי די פֿראַגעס קומען אין געװיסע צײַטן פֿון טאָג, אַרום געװיסע מענטשן, אָדער אין געװיסע ערטער. אױב זײ הײבן זיך שטענדיק אָן פֿאַר באַזוכער קומען, אָדער שפּעט נאָכמיטאָג, קענט איר פּלאַנען פֿאַרױס: אַ צעטל װעגן דעם באַזוך, אַ באַקאַנטע טעטיקײט גרײט, אַ רויִיקערער צימער. אונדזער [פֿירער װעגן רויִקע טעטיקײטן אין שפּעטן נאָכמיטאָג](/caregiving/late-day-restlessness/) קען העלפֿן, אױב אָװנטן זענען די שװערסטע.
 
-## Take care of yourself
+## זאָרגט פֿאַר זיך אַליין
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+צו ענטפֿערן דאָס זעלבע פֿראַגע פֿאַר דער צװאַנציקסטער מאָל איז אויסמאַטערנדיק. אויב איר פֿילט אַז אײַער געדולד גייט אויס, און דער מענטש איז זיכער, גײט אין אַן אַנדער צימער פֿאַר עטלעכע מינוט און אָטעמט, װי [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) רעקאָמענדירט. דער [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) מוטיװירט זאָרגערס צו בעטן הילף און טראַכטן װעגן אָפּרו־זאָרג. מער אידעען זענען אין אונדזער [זאָרגער־זעלבסטפֿלעגן־פֿירער](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## װאַן זאָל איך רופֿן אַ דאָקטער?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+רופֿט דעם מענטשס דאָקטער גלײַך, אױב פֿראַגן, פֿאַרװירעניש אָדער ענדערונג אין פֿירונג הײבן זיך פּלוצלינג אָן, אָדער װערן פֿיל ערגער אין שעה אָדער טעג. דער [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) זאָגט, אַז פּלוצלינגע אָדער שנעל־ענדערנדיקע פֿירונג, באַזונדערס נאָך אַ אינפֿעקציע אָדער אַ נײַע מעדיצין־ענדערונג, דאַרפֿן גלײַך אַרױפֿגעבראַכט װערן צו דער דאָקטערס אויפֿמערקזאַמקײט. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) דערקלערט, אַז אינפֿעקציע, מעדיצינען, װאַסערמאַנגל, װײטיק אָדער פֿאַרשטאָפּונג קענען מאַכן דעליריום, אַ פּלוצלינגע, שװערע פֿאַרװירעניש װאָס דאַרף שנעלע באַהאַנדלונג. רופֿט אײַער לאָקאַלע נויטנומער, אױב עמעץ איז אין סכּנה.

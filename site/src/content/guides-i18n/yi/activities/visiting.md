@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "בקרן אַ מענטש מיט דעמענץ אין זכרון־זאָרג אָדער אין שפּיטאָל"
+seoTitle: "בקרן אַ מענטש מיט דעמענץ: װאָס צו טאָן און װאָס צו ברענגען"
+description: "װאָס צו טאָן ביים בקרן אַ מענטש מיט דעמענץ אין זכרון־זאָרג, אין אַ פֿלעגע־היים אָדער אין שפּיטאָל: װאָס צו ברענגען, פּשוטע טעטיקײטן, קורצע בקרים און װי צו גײן אַװעק געזונט."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  װען איר בקרט אַ מענטש מיט דעמענץ אין זכרון־זאָרג אָדער אין שפּיטאָל, האַלט עס פּשוט: זאָגט אײער נאָמען ווען איר קומט, ברענגט עפּעס צו טײלן װי פֿאָטאָס, מוזיק אָדער אַ באַליבטן סנעק, און טוט איין לײכטע זאַך צוזאַמען. קורצע, רעגולערע בקרים גײען אָפֿט בעסער װי לאַנגע, זעלטענע. פּלאַנט אַ רויִקן, איינהײטלעכן אָפּשייד, כּדי צו גײן אַװעק עס זאָל זײַן גרינגער פֿאַר אײַך ביידן.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "גרוסט דעם מענטש ביים נאָמען און זאָגט װער איר זײט, כּדי ער זאָל נישט דאַרפֿן עס אויסרעכענען: „הײ מאַמע, דאָס איז סוזאַן, דײַן טאָכטער.“"
+  - "ברענגט איין אָדער צװײ זאַכן צו טײלן, װי אַ פֿאָטאָ־אַלבאָם, באַליבטע מוזיק, אַ ווייכע דעקע אָדער אַ סנעק װאָס דעם פּערסאָנאַל האָט באַשטעטיקט."
+  - "קורצע, רעגולערע בקרים גײען אָפֿט בעסער װי לאַנגע, זעלטענע. אײער אָנװעזנדיקייט איז װיכטיקער װי װאָס איר זאָגט."
+  - "אין שפּיטאָל, גיט דעם פּערסאָנאַל אַ בלאַט מיט אַ זײַט װעגן דעם מענטש, און זאָגט דעם דאָקטער גלײַך װעגן יעדער פּלוצעמדיקער ענדערונג."
+  - "פּלאַנט אײַער אַװעקגײן: זאָגט װי לאַנג איר קענט בלײַבן, נוצט דעם זעלבן אָפּשײד יעדעס מאָל, און גײט אַװעק אָן צו װאַרטן."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "װאָס זאָל איך ברענגען ביים בקרן אַ מענטש מיט דעמענץ?"
+    a: "ברענגט עפּעס צו טײלן און נישט עפּעס צו רעדן װעגן. אַ קלײן פֿאָטאָ־אַלבאָם, אַ פּלײליסט פֿון זײערע באַליבטע לידער, אַ ווייכע דעקע, האַנט־קרעם, אַ זשורנאַל װעגן אַ אַלט האָבי אָדער אַ סנעק װאָס דער פּערסאָנאַל האָט באַשטעטיקט, אַלע אַרבעטן גוט. אין אַ זאָרג־היים קענען משפּחה־פֿאָטאָס און באַקאַנטע זאַכן אויך מאַכן דעם צימער מער װי אַ היים."
+  - q: "װי לאַנג זאָל איך בלײַבן ביים בקרן אַ מענטש מיט דעמענץ?"
+    a: "עס איז נישטאָ קײן ריכטיקע לענג. פֿיל משפּחות געפֿינען, אַז קירצערע, אָפֿטערע בקרים אַרבעטן בעסער װי לאַנגע, זעלטענע, װײַל דער מענטש קען שנעל מיד װערן און קען זיך נישט דערמאָנען װי לאַנג איר זענט געבליבן. קוקט נאָך צײכנס פֿון מידקײט און גײט אַװעק װען דער בקר פֿילט זיך נאָך גוט."
+  - q: "װאָס זאָג איך, װען זײ פֿרעגן צו גײן היים?"
+    a: "ענטפֿערט אויף דעם געפֿיל, נישט אויף די װערטער. „איך װיל היים גײן“ באַטײט אָפֿט „איך פֿיל זיך נישט באַקװעם אָדער זיכער.“ פּרוּװט צו זאָגן „דערצײלט מיר װעגן אײער היים“, קוקט צוזאַמען נאָך פֿאָטאָס, אָדער באָט אָן אַ שפּאַציר אָדער אַ סנעק. שטרײטן אָדער דערקלערן װאָס זײ קענען נישט אַװעקגײן, מאַכט מערסטנס די נױט גרעסער."
+  - q: "װאָס אױב זײ דערקענען מיך נישט?"
+    a: "עס קען װײטאָגן, אָבער פּרוּװט נישט קערעקטירן זײ אָדער פֿרעגן „װײסט איר נישט װער איך בין?“ שטעלט זיך פֿאָר װאַרעם און פּשוט הנאה האָבן פֿון דער צײַט צוזאַמען. פֿיל מענטשן האָבן נאָך אַלץ פֿרײד פֿון געזעלשאַפֿט און פֿילן די װאַרעמקײט פֿון אַ בקר, אַפֿילו װען זײ קענען נישט אָנװײַזן װער איר זײַט."
+  - q: "װי קען איך העלפֿן בעת אַן שפּיטאָל־אויפֿנאַמע?"
+    a: "בלײַבט בײַ דעם מענטש ווען איר קענט, העלפֿט אים עסן און טרינקען, און ברענגט באַקאַנטע זאַכן װי פֿאָטאָס. גיט דעם פּערסאָנאַל אַ בלאַט מיט זײַן טאָגליכן רוטין, באַװאָרענעם נאָמען, לײַבלעכע זאַכן, אומלײַבלעכע זאַכן און צײכנס פֿון װײטיק. זאָגט דעם דאָקטער גלײַך, אױב דער מענטש װירקט פּלוצעם שלעכטער אָדער אַנדערש, װײַל פּלוצעמדיקע צעמישונג קען װײַזן אויף אַ מעדיצינישע פּראָבלעם."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+בקרן אַ מענטש װאָס איר האָט ליב אין זכרון־זאָרג, אין אַ פֿלעגע־היים אָדער אין שפּיטאָל, קען אױפֿרײַסן פֿיל געפֿילן. איר קענט װוּנדערן זיך װאָס צו זאָגן, װאָס צו ברענגען, אָדער צי דער בקר איז נאָך עפּעס װערט אויב זײ װעלן עס נישט געדענקען. עס איז װיכטיק. דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער באַמערקט, אַז מענטשן מיט אַלצהײמערס [האָבן אָפֿט הנאה פֿון געזעלשאַפֿט](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) אפֿילו װען זײ געדענקען נישט װער דער באַזוכער איז. דער בלאַט גיט פּראַקטישע שריטן פֿאַר, בעת און נאָך אַ בקר, און באַזונדערע עצות פֿאַר שפּיטאָל־אויפֿנאַמעס.
 
-## How do I get ready for a visit?
+## װי צו גרײטן זיך פֿאַר אַ בקר?
 
-A little planning makes the visit easier for both of you.
+אַ ביסל פּלאַנירונג מאַכט דעם בקר גרינגער פֿאַר אײַך ביידן.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **קלײבט אויס אַ גוטע צײַט.** Dementia Australia רעקאָמענדירט צו בקרן װען דער מענטש איז געװײנלעך מערסט װאַך, װאָס פֿאַר פֿיל מענטשן איז אין דער פֿרי אָדער אַרום מיטאָג. די Family Caregiver Alliance רעקאָמענדירט צו לערנען דעם אָנשטאַלטס פּלאַן און בקרן בעת [פֿרײַע צײַט אַנשטאָט אַקטיװיטעט־צײַט](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **פֿרעגט דעם פּערסאָנאַל.** פֿרעגט װי דער מענטש האָט זיך הײַנט געפֿילט, און קוקט נאָך קײן כּללים װעגן עסן, חיות אָדער אױספֿאָרטן.
+- **פּאַקט אַ קלײנע בקר־טאַש.** אײן אָדער צװײ זאַכן צו טײלן זענען גענוג (זעט די רשימה אונטן).
+- **פּלאַנט עטלעכע טעמעס.** דער מענטש קען נישט האָבן קײן נײַעס צו דערצײלן, דעריבער ברענגט אײַערס: משפּחה־נײַעס, דאָס װעטער, אַ בייסבאָל־שפּיל, אַ לוסטיקע געשיכטע.
+- **שטעלט אײַערע אייגענע דערװאַרטונגען.** עטלעכע בקרים װעלן זײַן װאַרעם און שמועסדיק. אַנדערע װעלן זײַן שטיל אָדער שװער. ביידע זענען נאָרמאַל.
 
-## What should I bring?
+## װאָס זאָל איך ברענגען?
 
-Bring things to share, not things that test. Good choices include:
+ברענגט זאַכן צו טײלן, נישט זאַכן װאָס טעסטן. גוטע ברירות זענען:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **אַ קלײן פֿאָטאָ־אַלבאָם** מיט גרױסע, קלאָרע פֿאָטאָס. שרײבט אויף דער רוקזײט די נעמען פֿאַר דעם פּערסאָנאַל.
+- **אַ פּלײליסט** מיט באַליבטע לידער אויף אַ טעלעפֿאָן, מיט פּשוטע קאָפּהערער אָדער אַ קלײן לאַוטשפּרעכער.
+- **עפּעס ווייכס צו האַלטן,** אַזױ װי אַ באַקאַנטע דעקע, שאַל אָדער פּולאָװער.
+- **האַנט־קרעם** פֿאַר אַ צאַרטן האַנט־מאַסאַזש, אויב דער מענטש האָט ליב בערירונג.
+- **אַ זשורנאַל אָדער בילדער־בוך** װעגן אַ אַלט אינטערעס, אַזױ װי גאָרטנאַרבעט, אויטאָס, פֿייגל אָדער קאָכן.
+- **אַ באַליבטן סנעק**, אַז דער פּערסאָנאַל זאָגט, אַז עס איז זיכער.
+- **באַקאַנטע זאַכן פֿאַר דעם צימער.** די Family Caregiver Alliance רעקאָמענדירט בלומען, פֿלאַנצן, משפּחה־בילדער און קונסט, אָדער אַ גרױס פּאָסטער פֿון משפּחה־פֿאָטאָס פֿון פֿריער.
+- **אַ טאַבלעט**, צו קוקן אויף משפּחה־פֿאָטאָס אָדער צוזאַמען שפּילן אַ זאַנפֿט שפּיל.
 
-## What can we do together during a visit?
+## װאָס קענען מיר טאָן צוזאַמען בעת אַ בקר?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+צוזאַמען טאָן עפּעס נעמט דעם דרוק פֿון שמועס. Dementia Australia רעקאָמענדירט צו קוקן אויף פֿאָטאָס, אַ לײַכטע האַנטאַרבעט, פֿלאַנצן זאָמען, מוזיק, צוזאַמען עסן אַ סנעק, אָדער אַ שפּאַציר אַרום דעם געלענד. אַ ביסל מער אידייען:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **קוקט אויף פֿאָטאָס.** װײַזט אויף װאָס איר זעט: „קוקט אויף דעם הוט.“ „דער ים־ברעג זעט אויס זייער שיין.“ לאָזט דעם מענטש פֿירן. מײַדט „װער איז דאָס?“
+2. **שפּילט מוזיק און זינגט.** באַקאַנטע לידער קענען הײבן די שטימונג און שאַפֿן אַ געמײנזאַמען מאָמענט, אפֿילו װען רעדן איז שװער.
+3. **נעמט אַ קורצן שפּאַציר.** די Family Caregiver Alliance רעקאָמענדירט צו גײן אַרום דעם אָנשטאַלט, באַזונדערס אין גאָרטן אויב עס איז אַ גאָרטן. אַ שפּאַציר אין אַ ראָלשטול צײלט אויך.
+4. **גיט אַ האַנט־מאַסאַזש.** אַ ביסל קרעם און לאַנגזאַמע שטריכן אויף די הענט קענען באַרויִקן.
+5. **העלפֿט מיט פֿאַרשײנערײַ.** Dementia Australia דערמאָנט בערשטן דאָס האָר, מאָלן די נעגל אָדער העלפֿן דעם מענטש אַרײַן אין אַ באַליבטן אָנטו, אויב ער האָט עס ליב.
+6. **שפּילט אַ פּשוט שפּיל.** די Family Caregiver Alliance רעקאָמענדירט קאַרטן, דאָמינאָס, אָדער װאָס דער מענטש האָט געשפּילט. אויף אַ טאַבלעט קען מען [בילדער־פּאָרלעך](/games/picture-pairs/) שפּילן מיט די בילדער זיכטבאַר און אָן קײן טײמער. [פֿאָטאָ־פּאָרלעך](/games/photo-pairs/) מאַכט פֿאָטאָס װאָס איר קלײבט אויס אין אַ מאַטשינג־שפּיל, און די פֿאָטאָס בלײַבן אין אײַער בראַוזער.
+7. **קוקט צוזאַמען עפּעס.** די Family Caregiver Alliance רעקאָמענדירט קאָמעדיעס און אַלטע פֿילמען. אפֿילו אויב דער מענטש קען נישט נאָכפֿאָלגן די געשיכטע, קענט איר זיצן נאָענט און טיילן די צײַט.
+8. **לײענט אויף אַ קול.** אַ קורצע פּאָעמע, אַ באַליבטער אויסצוג, אָדער אַ בריװ פֿון אַ משפּחה־מיטגליד.
+9. **זיצט פּשוט צוזאַמען.** האַלטן די הענט אָדער שטיל זיצן איז אַן אמתער בקר. די Alzheimer's Association באַמערקט, אַז עס איז גוט נישט צו װיסן װאָס צו זאָגן, און אַז אײער אָנװעזנדיקייט איז דאָס װיכטיקסטע.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[שמועס־קאַרטלעך](/games/conversation-cards/) קענען העלפֿן, װען איר טרעפֿט זיך אָן װערטער. יעדע קאַרטל האָט אַ בילד און אַ אָפֿענע פֿראַגע.
 
-## How should I talk during the visit?
+## װי זאָל איך רעדן בעת דעם בקר?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **שטעלט זיך פֿאָר יעדעס מאָל.** „הײ טאַטע, דאָס איז מאַרק, דײַן זון.“ דער NIA רעקאָמענדירט, אַז באַזוכער זאָלן זיך קורץ פֿאָרשטעלן, כּדי אָנצוהײבן אַ שמועס.
+- **גײט צו פֿון פֿאָרנט** און זיצט אויף דער זעלבער הײך פֿון די אויגן.
+- **קערעקטירט נישט און שטרײט נישט.** דער NIA רעקאָמענדירט באַזוכער, דעם מענטש נישט צו קערעקטירן, אַז ער מאַכט אַ טעות אָדער פֿאַרגעסט עפּעס.
+- **זײַט געדולדיק**, װען די װערטער קומען שװער. געבט גענוג צײַט.
+- **ענטפֿערט אויף געפֿילן.** אױב דער מענטש װירקט טרױעריק אָדער באַזאָרגט, דערקענט עס איידער איר ענדערט דעם טעמע.
+- **מײַדט קװיז־פֿראַגעס** װי „דערמאָנט איר זיך אויף מיר?“ אָדער „װאָס האָט איר געהאַט צום מיטאָג?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+זעט אונדזער [קאָמוניקאַציע־טיפּס](/caregiving/communication-tips/) פֿאַר מער.
 
-## What do I do when they say "I want to go home"?
+## װאָס טוט איך, װען זײ זאָגן „איך װיל היים גײן“?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+ענטפֿערט אויף דעם געפֿיל הינטער די װערטער (אונדזער גײד װעגן [װען עמעץ פֿרעגט שטענדיק צו גײן היים](/caregiving/asking-to-go-home/) גײט װײַטער). די Family Caregiver Alliance דערקלערט, אַז „איך װיל היים גײן“ איז געװײנלעך אַ װעג צו זאָגן „איך פֿיל זיך נישט באַקװעם“, און רעקאָמענדירט ענטפֿערס װי „דערצײלט מיר װעגן אײער היים“ אָדער „װאָס איז אײער ליבסטע זאַך אין שטוב?“ Dementia Australia לײגט צו, אַז „היים“ קען מיינען אַ צײַט אָדער אַ אָרט װוּ דער מענטש האָט זיך געפֿילט זיכער, אַזױ װי קינדהײט.
 
-Try:
+פּרוּװט:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- צו דערקענען דאָס געפֿיל: „עס קלינגט, אַז איר פֿעלט די היים.“
+- טרייסט געבן דורך באַרירונג, אויב עס איז אָנגענעם
+- קוקן אויף פֿאָטאָס אָדער רעדן װעגן דער משפּחה־היים
+- אָנבאָטן אַ שפּאַציר, אַ טרונק אָדער אַ סנעק
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+שטרײט נישט און דערקלערט נישט װאָס זײ קענען נישט אַװעקגײן. דאָס העלפֿט זעלטן און מאַכט אָפֿט מער נױט.
 
-## How long should a visit be?
+## װי לאַנג זאָל אַ בקר זײַן?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+קירצער און אָפֿטער אַרבעט אָפֿט בעסער. די Family Caregiver Alliance באַמערקט, אַז דער מענטש געדענקט געװײנלעך נישט צי איר זענט געבליבן פֿינף מינוט אָדער פֿינף שעה, און רעקאָמענדירט, אַז דרײַ קורצע בקרים אַ װאָך קענען זײַן בעסער װי איין לאַנגער. Dementia Australia זאָגט, אַז עס איז נישט קײן ריכטיקע צאָל בקרים אָדער ריכטיקע לענג.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+אין די ערשטע װאָכן נאָך אַן איבערציען אין זכרון־זאָרג, רעקאָמענדירט די Family Caregiver Alliance צו בקרן אָפֿט, און דערנאָך לאַנגזאַם אַרײַנקומען אין אַ רעגולערער מוסטער. פֿרעגט דעם פּערסאָנאַל װאָס זײ זען.
 
-## How do I leave without upsetting them?
+## װי גײט מען אַװעק, אָן צו אויפֿרעגן?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+אַװעקגײן קען זײַן דער שװערסטער טייל. Dementia Australia רעקאָמענדירט:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **זאָגט װי לאַנג איר קענט בלײַבן, ווען איר קומט אָן.** „איך קען בלײַבן אַ שעה, און דערנאָך גײ איך שאַפּינג.“
+- **נוצט אַ טעטיקײט אַלס אַ נאַטירלעך ענדע.** „װען מיר ענדיקן דאָס ליד, גײ איך אַװעק.“
+- **שטעלט עס איבער מיט אַ מאָלצײַט אָדער טעטיקײט,** אָדער בעט דעם פּערסאָנאַל העלפֿן דעם מענטש זיך אײַנלעבן אין עפּעס אַנדערש.
+- **האַלט דעם אָפּשײד קורץ און דעם זעלבן יעדעס מאָל.** שטײן לאַנג, זיך אַנטשולדיקן אָדער בלײַבן „נאָך אַ ביסל“ קען מאַכן צוקונפֿטיקע אָפּשײדן שװערער.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+נאָכן אַװעקגײן איז נאָרמאַל צו פֿילן זיך טרױעריק. לאָזט זיך רוען. אױב דער מענטש איז אויפֿגערעגט געװאָרן, קענען די פּערסאָנאַל מערסטנס העלפֿן אים זיך באַרויִקן באַלד נאָכדעם.
 
-## Visiting someone with dementia in the hospital
+## בקרן אַ מענטש מיט דעמענץ אין שפּיטאָל
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+אַ שפּיטאָל איז לאַרעם, אומבאַקאַנט און פֿול מיט פֿרעמדע, װאָס קען זײַן זייער שװער פֿאַר אַ מענטש װאָס לעבט מיט דעמענץ. דער גײד פֿון NIA װעגן [נעמען אַ מענטש מיט אַלצהײמערס אין שפּיטאָל](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) רעקאָמענדירט:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **לאָזט עמעצן בלײַבן בײַ דעם מענטש** אַזױ פֿיל װי מעגלעך: אַ משפּחה־מיטגליד, אַ פֿאַרטרױטן פֿרײַנד אָדער אַ באַצאָלטן פֿאַרזאָרגער.
+- **גיט דעם פּערסאָנאַל אַ פּערזענלעך אינפֿאָרמאַציע־בלאַט** מיט דעם מענטשנס רוטין, באַװאָרענעם נאָמען, לײַבלעכע און אומלײַבלעכע זאַכן, מעגלעכע טריגערס און נישט־װערבאַלע צײכנס פֿון װײטיק. לײגט קאָפּיעס אין צימער און בײַם שװעסטער־טיש.
+- **העלפֿט מיט עסן און טרינקען.** עלטערע מענטשן קענען װערן אונטערערנערט אין שפּיטאָל. עפֿנט קאַנטײנערס, העלפֿט מיט די מאָלצײטן, עסט צוזאַמען, און בעט אום טרינקען.
+- **ברענגט טרייסטנדיקע זאַכן** אַזױ װי פֿאָטאָס אָדער רעליגיעזע זאַכן.
+- **מינדערט דעם ראַש.** שטעלט אָפּ דעם טעלעװיזאָר און פֿאַרמינדערט די לאַוטקײט פֿון טעלעפֿאָנען און דער אינטערקאָם.
+- **פּרוּװט באַרויִקנדיקע ריטואַלן,** אַזױ װי באַרויִקנדיקע מוזיק, לײענען, בעטן, זינגען אָדער קוקן דורך אַלטע בילדער.
+- **מוטיקט באַװעגונג** אַזױ פֿיל װי זיכער, מיט דערלױבעניש פֿון דעם פּערסאָנאַל.
+- **זאָגט דעם דאָקטער גלײַך, אױב דער מענטש װירקט פּלוצעם שלעכטער אָדער אַנדערש.** דער NIA דערקלערט, אַז פּלוצעמדיקע שטאַרקע צעמישונג, גערופֿן דעליריום, קען פֿאַרורזאַכט װערן דורך פּראָבלעמען װי אינפֿעקציע, פֿיבער, דעהידראַטאַציע אָדער מעדיצין־נעבנװירקונגען, און דאַרף מעדיצינישע אויפֿמערקזאַמקײט.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+אַ קורצער, רויִקער בקר מיט אַ באַקאַנטן פּנים און אַ באַליבטן ליד קען זײַן דער מערסט טרייסטנדיקער טייל פֿון אַן שפּיטאָל־טאָג.
 
-## Bringing children on a visit
+## ברענגען קינדער אויף אַ בקר
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+קינדער קענען ברענגען פֿיל װאַרעמקײט. גרײט זײ פֿריִער מיט פּשוטע, איידעלע װערטער, האַלט דעם בקר קורץ, און גיט זײ אַ אַרבעט, אַזױ װי װײַזן אַ ציכענונג אָדער איבערגעבן אַ פֿאָטאָ. דער NIA רעקאָמענדירט, אַז קינדער און מענטשן מיט אַלצהײמערס קענען הנאה האָבן פֿון פּשוטע טעטיקײטן צוזאַמען, אַזױ װי קוקן דורך אַ פֿאָטאָ־אַלבאָם אָדער הערן מוזיק. Dementia Australia רעקאָמענדירט צו פּאַקן אַ קלײן טאַש מיט לעקערײַען אָדער שטילע זאַכן, כּדי צו האַלטן יונגע קינדער באַשעפֿטיקט.
 
-## Take care of yourself too
+## זאָרגט אויך פֿאַר זיך
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+בקרן קען זײַן מידמאַכנדיק און עמאָציאָנעל, באַזונדערס אויב דער מענטש האָט זיך שטאַרק פֿאַרענדערט. עס איז גוט צו בקרן זעלטענער, אויב איר דאַרפֿט, צו ברענגען אַ פֿרײַנד פֿאַר שטיצע, אָדער צו פֿאָרן פֿריִער אויף אַ שװערן טאָג. פֿאַר אידייען צו זאָרגן פֿאַר זיך, זעט [זעלבסט־זאָרג פֿאַר פֿאַרזאָרגערס](/caregiving/caregiver-self-care/). אױב איר װוינט װײַט, זעט אונדזער גײד װעגן [טעלעפֿאָן־ און װידעאָ־רופֿן](/activities/phone-and-video-calls/).

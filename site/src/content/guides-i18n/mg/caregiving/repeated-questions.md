@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Rehefa mamerina fanontaniana mitovy indray mandrakariva ny olona manana dementia"
+seoTitle: "Fanontaniana mamerina amin’ny dementia: inona no lazaina"
+description: "Nahoana ny olona manana dementia no mamerina fanontaniana mitovy, fomba famaliana mangina, fitaovana mahasoa ary rehefa mila dokotera ny fiovana tampoka."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Ny fanontaniana mamerina dia mahazatra amin’ny dementia: matetika tsy tadidin’ny
+  olona nanontany, ary ny fanontaniana matetika mitondra ahiahy. Valio mangina sy
+  fohy toy ny amin’ny fotoana voalohany, mihevitra ny fahatsapana ao ambadiky izany,
+  ary aza milaza mihitsy hoe “efa nanontany ianao.” Apetraho an-taratasy ny valiny
+  izay azony jerena, lazao ny hetsika vao haingana fotsiny, ary omeo hetsika mahafinaritra.
+  Fiovana tampoka mila dokotera.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Matetika tsy tadidin’ny olona fa nanontany izy; tsy ho amin’ny tanjona izany."
+  - "Ny fanontaniana matetika mafy fahatsapana, toy ny ahiahy momba ny fotoana fihaonana na ny filàna ho azo antoka."
+  - "Valio mangina, fohy ary amim-pitiavana, toy ny amin’ny fotoana voalohany. Aza milaza mihitsy hoe ‘efa nanontany ianao.’"
+  - "Ny takelaka, takelaka fanoratana, famantaranandro na kalandrie eo amin’ny fahitana dia afaka mamaly ny fanontaniana ho anao."
+  - "Lazao ny hevitra mahasosotra vetivety alohan’ny hitrangany."
+  - "Mitsahatra fohy rehefa ilaina ianao, ary antsoy ny dokotera raha misy fiovana tampoka."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Nahoana ny rain-drehetro manana dementia no mitohy manontany fanontaniana mitovy?"
+    a: "Ny dementia dia misy fiantraikany amin’ny fahatsiarovana fohy, ka marina fa mety tsy tadidiny izy fa nanontany na nandre ny valiny. Matetika ny fanontaniana koa mitondra fahatsapana, toy ny ahiahy momba izay hitranga manaraka na filàna fampiononana. Ny famaliana izany fahatsapana matetika mahasoa kokoa noho ny famerenana ny zavatra marina."
+  - q: "Tokony holazaiko aminy fa efa nanontany izy ve?"
+    a: "Tsia. Tsy afaka manampy azy hahatsiaro izany izany, ary mety ho toy ny fanitsiana. Ny fikambanana momba ny dementia dia manoro hevitra ny hamaly mangina isaky ny fotoana, toy ny amin’ny voalohany, ary ny valiny ho fohy."
+  - q: "Manampy ve ny manoratra ny valiny?"
+    a: "Mety, raha mbola mahay mamaky ny olona. Takelaka fanoratana, takelaka misy drafitra androany, famantaranandro lehibe na kalandrie izay matetika jerena dia ahafahan’ny olona mijery ny valiny ho azy. Asehoy malemy izany fa aza lazaina hoe ‘efa nilaza taminao aho.’"
+  - q: "Rahoviana no tokony hiresahana momba ny fihaonana na fitsidihana?"
+    a: "Akaiky amin’ny fotoana. Ny fitsidihana dokotera na dia lavitra andro vitsivitsy dia mety hivadika ho ora maro fanontaniana misy ahiahy. Lazao aminy fohy alohan’izay, mangina, miaraka amin’izay hitranga manaraka."
+  - q: "Rahoviana no mety ho antony hiantsoana dokotera ny fanamarinana mitovy?"
+    a: "Raha tampoka na mihamafy be mandritra ny ora na andro vitsivitsy ny fanontaniana, ny fikorontanana na ny fiovan’ny fitondran-tena, antsoy haingana ny dokotera an’ilay olona. Ny aretin’ny lalan-drano, fanafody vaovao, fanaintainana, fitsaharana na fanaovan-drano dia mety hiteraka fikorontanana tampoka antsoina hoe delirium, izay mila fikarakarana haingana."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“Rahoviana no fitsidihana dokotera?” Folo minitra aorian’izay: “Rahoviana no fitsidihana dokotera?” Ny fandre fanontaniana mitovy indray mandrakariva dia iray amin’ireo ampahany mahasosotra indrindra amin’ny fikarakarana olona manana dementia. Mahazatra be izany, tsy atao amin’ny tanjona, ary misy fomba mangina hamaly izay mahasoa ny andro ho an’ny roa tonta.
 
-## Why does someone with dementia ask the same question over and over?
+## Nahoana ny olona manana dementia no manontany fanontaniana mitovy indray mandrakariva?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Matetika noho ny fahatsiarovana. Ny dementia dia misy fiantraikany amin’ny fahatsiarovana fohy, ka matetika tsy tadidin’ny olona fa nanontany izy, na tsy tadidiny ny valiny. Ny [Alzheimer’s Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) dia milaza ny fanontaniana maro indray mandeha ho mahazatra sy ho ampoizina.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Ny fanontaniana matetika mitondra fahatsapana koa. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) dia manazava fa ny fanontaniana averina dia mety hanehoa ahiahy, fangatahana fanampiana, na fahatahorana sy tsy fahatokisan-tena, ary ny olona matetika mitady fampiononana sy fahazatra. “Hiainga rahoviana isika?” dia mety hilaza marina hoe “Matahotra ny handeha aho.” Ny fahakiviana, ny fahatahorana, ny feo ary ny fiovana amin’ny fandaharam-potoana dia mety hanomboka azy, ary ny fanontaniana averina dia mety hanamarika filàna, toy ny efitra fidiovana ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Inona no lazaiko?
 
-Answer calmly and briefly, as if it were the first time.
+Valio mangina sy fohy, toy ny amin’ny fotoana voalohany.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Ataovy fohy sy mitovy ny valiny.** “Amin’ny roa ora ny dokotera. Hiaraka aminao aho.” Valiny mitovy dia mora kokoa ho azo ihany.
+- **Valio ny fahatsapana.** “Mieritreritra ianao momba ny dokotera. Androany tolakandro izy, ary handeha aho hitondra antsika.” Tsy misy zavatra tokony hataonao.
+- **Ampiasao feo mafana sy fikasihana malemy,** raha tia fikasihana izy. Ny Alzheimer’s Association dia manoro hevitra ny hijanona mangina ary tsy hampiasa lojika na hifanandrina.
+- **Omeo ny valiny izay tadiavin’izy,** ingahy isaky ny ilaina. Ny Alzheimer’s Association dia milaza ny hamerenana izany ingahy araka ny fangatahany.
 
-## What should I avoid?
+## Inona no tokony hosorohana?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Efa nanontany ahy izany ianao.”** Ny [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dia manoro hevitra ny tsy hanondro fa vao nanontany izy. Tsy afaka manampy azy hahatsiaro izany, ary mety ho toy ny fanenjehana.
+- **Famaritana lava.** Teny betsaka no mahatonga zavatra betsaka ho adino.
+- **Fofonaina lava, fihetsika maso mivadika, na feo maranitra.** Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dia manoro hevitra ny fahamarinan-tsaina sy ny tsy fisehoana ny fahatezerana. Sarotra izany; jereo ny fizarana momba ny fitsaharana eo ambany.
 
-## Simple tools that answer the question for you
+## Fitaovana mora mamaly ny fanontaniana ho anao
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Raha mbola mahay mamaky ny olona, valiny an-taratasy izay azony jerena dia matetika mahasoa kokoa noho ny valiny nolazaina.
 
-| Tool | How to use it |
+| Fitaovana | Ahoana no fampiasana azy |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Takelaka misy soratra lehibe | “Dokotera androany amin’ny 2 pm. Mary no hitondra fiara.” Apetraho amin’ny toerana jerena indrindra |
+| Takelaka fanoratana | Drafitra androany amin’ny andalana telo na efatra; sokafo sy soraty indray isan-maraina |
+| Famantaranandro lehibe misy andro sy daty | Manampy amin’ny “Inona ny andro?” sy “Efa fotoana ve?” |
+| Kalandrie | Hamarino ny andro tsirairay; manamarika ny fitsidihana manaraka |
+| Sary mahazatra | Sary an’ilay olona ho tonga dia afaka mamaly ny “Iza no hitsidika?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ireo hevitra ireo dia avy amin’ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) sy [Alzheimer’s Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Ampiasao ny fanondroana malemy ny takelaka (“Andao hijery miaraka ny takelaka”) fa aza lazaina hoe “Nanoratra ho anao aho.”
 
-## Tell them about events close to the time
+## Lazao ny zavatra akaiky amin’ny fotoana
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Ny fanambarana fihaonana na fitsidihana andro vitsivitsy alohan’ny hitrangany dia mety hivadika ho ora maro fanontaniana misy ahiahy. Ny Family Caregiver Alliance sy Alzheimer’s Los Angeles dia samy manoro hevitra ny hiresaka momba ny drafitra, indrindra ireo mahasosotra toy ny fitsidihana dokotera na ny fanasana, fohy alohan’ny hitrangany. Avy eo lazao izay hitranga manaraka, dingana iray isaky ny fotoana.
 
-## Activities that can shift attention
+## Hetsika mety hanova ny saina
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Rehefa efa namaly ianao sy nekena ny fahatsapana, hetsika mangina sy mahafinaritra dia mety hanampy, indrindra raha ny very fahaliana no mahatonga ny fanontaniana. Ny loharano rehetra eo ambony dia manoro hevitra ny hamadika ny saina amin’ny zavatra tiana ilay olona.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Lalao fohy sy mora miaraka.** [Fitambarana sary](/games/picture-pairs/) dia mitazona ny sary hiseho, ka tsy misy zavatra tokony ho tadiavina amin’ny fahatsiarovana.
+2. **Asa mahazatra.** Famafiana lamba fanasana, fandamina sosa na fametrahana latabatra. [Mandamina miaraka](/games/sort-together/) dia version amin’ny efijery.
+3. **Miresaha momba zavatra tiany.** [Karatra fifampiresahana](/games/conversation-cards/) dia manome fanentanana malalaka tsy misy valiny marina.
+4. **Mozika, dia na sakafo kely.** Ny National Institute on Aging dia milaza ireo amin’ny fomba malemy hamadihana ny saina.
+5. **Fitsaharana mangina.** Mipetraha miaraka, mijery ny varavarankely, na andramo [Fisefoana mangina](/games/calm-breathing/) miaraka.
 
-If they return to the question, answer it again, kindly. That is fine.
+Raha miverina amin’ny fanontaniana izy, valio indray mangina. Tsy olana izany.
 
-## Look for patterns
+## Jereo ny fitsipika
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Ny Alzheimer’s Association dia manoro hevitra ny hijerena raha miseho amin’ny andro sasany, eo amin’ny olona sasany na amin’ny toerana sasany ny fanontaniana. Raha matetika izy manomboka alohan’ny hahatongavan’ny vahiny, na amin’ny ariva, dia afaka mamolavola alohan’izay ianao: takelaka momba ny fitsidihana, hetsika mahazatra vonona, efitra mangina kokoa. Ny [torolalanay momba ny hetsika ariva mangina](/caregiving/late-day-restlessness/) dia mety manampy raha ny hariva no sarotra indrindra.
 
-## Take care of yourself
+## Miambena ny tenanao
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ny famaliana ny fanontaniana mitovy tamin’ny indroa-polo mety hahatonga ho reraka. Raha miseho fa mitsahatra ny fahamarinan-tsainao ary azo antoka ilay olona, dia midira efitra hafa mandritra ny minitra vitsivitsy ary mifofona, araka ny [Alzheimer’s Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) no torolalana. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) dia manentana ny mpikarakara hangataka fanampiana sy mieritreritra ny fitsaharana. Hevitra bebe kokoa dia ao amin’ny [torolalanay momba ny fikarakarana tena](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Rahoviana no tokony hiantsoana ny dokotera?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Antsoy haingana ny dokotera an’ilay olona raha tampoka na mihamafy be mandritra ny ora na andro vitsivitsy ny fanontaniana, ny fikorontanana na ny fiovan’ny fitondran-tena. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dia milaza fa ny fitondran-tena tampoka na mivalona haingana, indrindra aorian’ny aretina na fiovana fanafody, dia tokony hampahafantarina ny dokotera avy hatrany. Ny [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) dia manazava fa ny aretina, fanafody, fanaovan-drano, fanaintainana na fitsaharana dia mety hiteraka delirium, fikorontanana tampoka sy mafy izay mila fitsaboana haingana. Raha misy olona eo amin’ny loza, antsoy ny laharana fanampiana vonjy maika eo an-toerana.

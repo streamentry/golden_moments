@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "אַקטיװיטעטן פֿאַר מענטשן מיט דעמענץ: 101 פּשוטע אידייען"
+seoTitle: "דעמענץ-אַקטיװיטעטן: 101 פּשוטע אַקטיװיטעטן"
+description: "101 פּשוטע, דערװאַקסענע אַקטיװיטעטן פֿאַר מענטשן װאָס לעבן מיט דעמענץ, פֿון פֿאַלטן טאָװלען ביז מוזיק און בילדער, מיט װי צו אָנפּאַסן יעדן."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  גוטע אַקטיװיטעטן פֿאַר מענטשן מיט דעמענץ זענען באַקאַנט, דערװאַקסן און גרינג צו
+  טײלן: פֿאַלטן װעש, סאָרטירן, קאָכן, מוזיק, בילדער קוקן, שפּאַצירן, גאַרטנען, צײַט
+  מיט אַ הונט און פּשוטע שפּילן. קלײַבט װאָס דער מענטש האָט שטענדיק געהאַט ליב,
+  נעמט אַװעק די שװערע טיילן, און הערט אויף װען ער װערט מיד. אַ שײנע צײַט צוזאַמען
+  איז װיכטיקער װי עפּעס פֿאַרענדיקן.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "הײבט אָן פֿון דעם מענטשס אייגענעם לעבן: זײַן אַרבעט, זײַנע האָבִיס, זײַן אמונה און זײַן ליב-געהאַטע מוזיק זענען די בעסטע לײטשנור."
+  - "מאַכט יעדע אַקטיװיטעט קלײנער אַזױ װי נייטיק: װעניקער שריט, װעניקער ברירות, איר טוט דעם שװערן טײל."
+  - "קוקן, האַלטן עפּעס אָדער פּשוט זיצן נאָענט צײלט אַלץ װי טייל-נעמען."
+  - "הערט אויף אָדער װעקסלט װען איר זעט מידקייט, פֿרוסטראַציע אָדער לאַנגװײַליקייט. פֿרי אויפֿהערן איז אַ גוטער רעזולטאַט."
+  - "צוזאַמען טאָן איז װיכטיקער װי ריכטיק טאָן."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "װאָס פֿאַר אַקטיװיטעטן זענען גוט פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "באַקאַנטע אַקטיװיטעטן װאָס דער מענטש האָט יאָרן געטאָן, אַ ביסל פּשוטער געמאַכט: פֿאַלטן װעש, דעם טיש דעקן, קאָכן, מוזיק, בילדער קוקן, שפּאַצירן, גאַרטנען און צײַט מיט אַ הונט. קלײַבט זאַכן װאָס זענען דערװאַקסן און נוצלעך, און טוט זײ צוזאַמען."
+  - q: "װי לאַנג זאָל אַ אַקטיװיטעט דויערן?"
+    a: "עס איז נישטאָ קײן ריכטיקע לענג. עטלעכע מינוטן פֿאַלטן טאָװלען קען זײַן גענוג איין טאָג, און אַ שעה אין גאָרטן קען זיך פֿילן לײַכט אויף אַן אַנדער. לאָזט דעם מענטש באַשטימען דעם טעמפּאָ און ענדיקט װען עס איז נאָך אָנגענעם."
+  - q: "װאָס אױב דער מענטש װײַגערט זיך צו טאָן אַ אַקטיװיטעט?"
+    a: "דרוקט נישט. אַ ניין קען מיינען, אַז די אַרבעט דוכט זיך צו שװער, די צײַט איז נישט ריכטיק, אָדער ער איז מיד אָדער אומבאַקװעם. פּרוּװט שפּעטער, באָטט אַ קלענערע װערסיע, אָדער הײבט אָן די אַרבעט אַלײן נאָענט און לאָדט אים אײַן צו העלפֿן."
+  - q: "צי זענען שפּילן פֿאַר מוח-טרענירונג גוט פֿאַר מענטשן מיט דעמענץ?"
+    a: "שפּילן קענען זײַן אַ אָנגענעמער װעג צו פֿאַרברענגען צײַט צוזאַמען, אָבער קײן שפּיל איז נישט געװיזן געװאָרן צו היילן, פֿאַרלאַנגזאַמען אָדער שטעלן אָפּ דעמענץ. קלײַבט שפּילן אָן טײמער, אָן ציפֿער און אָן פֿאַלש-ענטפֿער-געזומזם, און באַהאַנדלט זײ װי אַ געמײנזאַמע אַקטיװיטעט, נישט װי אַ פּרוּװ."
+  - q: "װי הײַט מען אַקטיװיטעטן פֿון װערן קינדיש?"
+    a: "ניצט אמתע, דערװאַקסענע מאַטעריאַלן: אמתע האַנטעכער, אמתע רעצעפּטן, דערװאַקסענע מוזיק און קונסט-צובהערן, און בילדער מיט דערװאַקסענע טעמעס. שטעלט די אַרבעטן װי הילף װאָס איר דאַרפֿט טאַקע, און רעדט מיט דעם מענטש װי דעם דערװאַקסענעם װאָס ער איז."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+די בעסטע אַקטיװיטעט פֿאַר אַ מענטש מיט דעמענץ איז מערסטנס עפּעס װאָס ער װײסט שוין װי צו טאָן, אַ ביסל פּשוטער געמאַכט און געטאָן נאָענט צו אַ מענטש װעמען ער פֿאַרטרױט. אונטן זענען 101 אידייען, געטיילט לױט טיפּ, יעדע מיט װי צו גרײטן עס און װי צו מאַכן עס לײכטער װען עס װערט שװערער. איר דאַרפֿט נישט קײן ספּעציעלע אויסריכטונג, און איר דאַרפֿט נישט פֿאַרענדיקן עפּעס. אַ גוטער נאָכמיטאָג קען זײַן איין קערבל האַנטעכער און אַ גלאָז קאַװע צוזאַמען.
 
-## How do you choose the right activity?
+## װי קלײַבט מען די רעכטע אַקטיװיטעט?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+קלײַבט לױט דעם מענטש, נישט לױט דער רשימה: הײבט אָן מיט װאָס ער האָט שטענדיק געהאַט ליב און װאָס ער קען באַקװעם טאָן הײַנט.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **טראַכט װעגן זײַן אַרבעט און האָבִיס.** די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) רעקאָמענדירט, אַז אַ געװעזענער בירו-אַרבעטער קען האָבן פֿרײד פֿון אָרדנען מטבעות אָדער צונױפֿשטעלן מיילינגען, און אַ גאָרטנער קען האָבן פֿרײד פֿון אַרבעט אין הױף.
+- **באַמערקט װאָס ער טוט שױן.** װען דיין טאַטע פֿעגט די גאַניק יעדן מאָרגן אָן געבעטן געװאָרן, בױט דאָס אין דעם טאָג אײַן.
+- **פּלאַנט לױט גרענעצן.** מידקייט, אויגן, געהער, װײ הענט און באַלאַנס זענען אַלע װיכטיק.
+- **באָבאַכט זײַן שטימונג.** לאַרמיקע, באַנײַטע אַקטיװיטעטן פּאַסן פֿאַר עטלעכע און שרעקן אַנדערע.
+- **גיט אים אַ ציל.** פּשוטע סערװעטן צו לײגן פֿאַר אַ קהילה-מאָלצײט פֿילט זיך װערטפֿולער װי אַ גימנאַסטיק פֿאַר זיך אַליין.
 
-### A rough guide by stage
+### אַ גראָבער פֿירער לױט סטאַדיום
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+דעמענץ װערט אָפט באַשריבן אין פֿרי-, מיטל- און שפּעט-סטאַדיע. די זענען לאָזע ביכשטאָבן, נישט קעסטלעך, און פֿיל מענטשן האָבן בעסערע און שװערערע טעג, דעריבער גײט לױט װאָס איר זעט הײַנט. די [רשימה לױט סטאַדיום פֿון דער Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) גײט לױט אַ ענלעכן מוסטער.
 
-| Topic | Early stage | Middle stage | Late stage |
+| טעמע | פֿרי-סטאַדיום | מיטל-סטאַדיום | שפּעט-סטאַדיום |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| װאָס איר קענט באַמערקן | מערסטנס זעלבסט-שטענדיק; פּלאַנען, נײַע נעמען און לאַרמיקע ערטער װערן שװערער | דאַרף הילף מיט אָנהײבן און שטאַפּלען; װערטער קומען װײניקער לײַכט | דאַרף הילף מיט רובֿ טאָגלעכער זאָרג; די חושים זענען די װיכטיקסטע |
+| אַקטיװיטעטן װאָס פּאַסן אָפט | קאַרטן, ברעטשפּילן, קאָכן, גאַרטנען, טאָגבוך, אױספֿאָרן, קלאַבן | פֿאַלטן װעש, סאָרטירן, פּשוטע קאָכן-שטאַפּלען, זינגען, בילדער-אַלבאָמס, געפֿירטע שפּאַצירן | ליב-געהאַטע מוזיק, האַנט-מאַסאַזש, װײכע זאַכן צו האַלטן, פֿאַרלײענען, זיצן אױסן |
+| אײַער ראָלע | פּאַרטנער: פֿרעגט װאָס הילף ער װיל | אײַנשטעלן, װײַזן, די שװערע טיילן איבערנעמען | ברענגט די אַקטיװיטעט צו אים; אײַער חבֿרותא איז די אַקטיװיטעט |
+| מער אידייען | [פֿרי-סטאַדיום](/activities/early-stage/) | [מיטל-סטאַדיום](/activities/middle-stage/) | [שפּעט-סטאַדיום](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## װי הײבט מען אָן אַ אַקטיװיטעט מיט אַ מענטש װאָס האָט דעמענץ?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+הײבט אָן קלײן, הײבט צוזאַמען מיט אים אָן, און מאַכט עס גרינג צו זאָגן יאָ. פֿיל מענטשן װילן נאָך טייל נעמען, אָבער עס איז שװער פֿאַר זײ צו פּלאַנען אָדער אָנהײבן.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **קלײַבט זײַן בעסטע צײַט,** אָפט דער מאָרגן.
+2. **שטעלט אַלץ אויס פֿריִער,** כּדי איר זאָלט קענען אָנהײבן גלײַך.
+3. **בעט אום הילף, נישט אום אַ פֿאַרשטעלונג:** „קענסט מיר אַ האַנט געבן מיט די דאָזיקע?“
+4. **הײבט עס אָן אַלײן.** פֿאַלט דעם ערשטן טאָװל און לאָזט אים זיך אָנשליסן. װײַזן שלאָגט דערקלערן.
+5. **גיט איין שטאַפּל אויף אַ מאָל.**
+6. **נעמט דעם שװערסטן טײל.** די Alzheimer's Association רעקאָמענדירט, מעסט די צוטאַטן אַליין, און גיט דאַן דעם לעפֿל צו רירן.
+7. **לאָזט עס געשען אויף זײַן װעג.** אַנדערש געפֿאַלטע טאָװלען זענען גוט.
+8. **הערט אויף װען עס הערט אויף זײַן אָנגענעם.** צאַפּלען, פֿרונצן אָדער „איך קען נישט“ זענען סימנים צו װעקסלען אָדער רוען.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+זעט אויך [װי צו שפּילן צוזאַמען](/caregiving/how-to-play-together/) און [קאָמוניקאַציע-טיפּס](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## דערװאַקסענע הױזאַרבעטן
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+הױזאַרבעטן זענען באַקאַנט און נוצלעך, װאָס מאַכט זײ צו אַ נאַטירלעכן אָנהײב. די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) צײלט אויף אַבװאַשן געשירר, דעם טיש דעקן, פֿעגן, פּאָסט אָרדנען און װעש פֿאַלטן צװישן די אַקטיװיטעטן. מער אין [הױזהאַלטונג-אַרבעטן](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **פֿאַלט װאַרעמע טאָװלען.** קײר אַ קױב פֿון דעם טרוקנער אויף דעם טיש און פֿאַלט צוזאַמען נעבן אײנאַנדער. שפּעטער איז גלעטן און שטאַפּלען גלײַך אַזױ העלפֿרײַך.
+2. **פּאָר סאָקן.** הײבט אָן מיט זייער אונטערשײדלעכע פֿאַרבן. שפּעטער איז צונױפֿשטעלן הל און דונקל גענוג.
+3. **דעק דעם טיש.** גיט איין סאָרט זאַך אַ מאָל. שטעלט איין אָרט אַלס מוסטער.
+4. **װאַש אָדער טרוקן געשירר.** װאַרעמע זײפֿן-װאַסער און אומצעברעכלעכע כּלים. טרוקענען בשעת מע זיצט איז לײכטער פֿאַר די פֿיס.
+5. **װיש דעם טיש.** גיב אַ נאַסע שמאַטע נאָך דעם עסן. עס איז אמתע אַרבעט פֿאַר אומרויקע הענט.
+6. **סאָרטיר די פּאָסט.** קאַטאַלאָגן און אומנייטיקע פּאָסט אין „האַלטן“ און „רעסײקלען“. האַלט אמתע רעכענונגען אַװעק.
+7. **קלײב קופּאָנס.** רונדע שערן און סופּערמאַרקעט-פֿליאַרס. שפּעטער קען מען אויך אומרינגלען די ליב-געהאַטע עסן.
+8. **זאַמל מטבעות.** זאָרטיר קלײנגעלט אין בעכער אָדער ראָלט עס אין פּאַפּיר. שפּרינגט אויס קלײנע זאַכן אויב דער מענטש שטופּט זיי אין מויל.
+9. **פֿעג אָדער שטײב.** אַ לײכטער בעזעם אויף אַ פּאַטיאָ אָדער אַ לאַנגהענדיקער שטײבער פֿון אַ שטול.
+10. **העלף מאַכן אַ מאָלצײַט.** װאַשן גרינס, רײַסן זײַװל, רירן. איר האַנדלט מיט מעסערס און היץ.
+11. **באַק אַ משפּחה-רעצעפּט.** ניצט די קאַרטל מיט זײַן כתבֿ-יד, אויב איר האָט אים. שפּעטער קען ער זײַן דער פּראָבירער.
+12. **טו אָפֿיס-אַרבעט.** פֿאַלט בריוו, פֿילט און מאַכט מארקעס אויף קוװערטן, אָדער שרײַבט צוזאַמען די שאָפּינג-ליסטע.
 
-## Music
+## מוזיק
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+מוזיק קען דערגרײכן מענטשן אפילו װען װערטער זענען שװער. די [מוזיק-טיפּס פֿון דער Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) רעקאָמענדירן באַקאַנטע לידער, קיין אַדװערטײזמענטן און דעם טעלעװיזאָר אױסגעשטעלט. זעט [מוזיק-אַקטיװיטעטן](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **בױט אַ פּערזענלעכע פּלײַליסט.** מוזיק פֿון זײַנע יוגנט-יאָרן, זײַן חתונה, זײַן קהילה און זײַן קולטור.
+14. **זינגט מיט.** הײבט אָן צו זינגען אַלײן. סנאָבלען אָדער צוהערן צײלט אויך.
+15. **האַלט דעם ביט.** קלאַפּט, קלאַפּט אויף די קני אָדער שלאָגט אויף אַ האַנט-טרומל. עס װירקט זיצנדיק און אין שפּעט-סטאַדיע.
+16. **טאַנצט.** לאַנגזאַמער טאַנץ אין דער קיך, אָדער װיגן זיך זיצנדיק בשעת איר האַלט די הענט.
+17. **שפּילט אַ גאַנץ אַלבאָם.** אַ ליב-געהאַטע פּלאַטע פֿון אָנהײב ביז ענד, מיט קאַװע און גאָרנישט אַנדערש אין דער סביבה.
+18. **רעדט װעגן דער מוזיק.** באַלאָדט געשיכטעס, נישט פֿאַקטן: „דערצײל מיר װעגן די טענץ װאָס דו זײַנט געגאַנגען.“
+19. **קוקט אַ פֿילמירטן מוזיקאַל אָדער קאָנצערט.** אַ װײַזונג װאָס ער האָט ליב געהאַט מאַכט אַ גוטן אָװנט. שטעלט עס אָפּ װען מען װיל.
+20. **שפּילט אַ באַקאַנט אינסטרומענט.** אַ געװעזענער פּיאַניסט קען האָבן פֿרײד פֿון פּשוטע שטיקלעך; שפּעטער, אַ פּאָר נאָטן צוזאַמען.
+21. **הערט לעבעדיקע מוזיק.** אַ קורץ קהילה-קאָנצערט אָדער אַ כאָר-פּראָבע. זיצט נאָענט צום אויסגאַנג.
 
-## Reminiscence: photos, objects and stories
+## רעמיניסצענץ: בילדער, זאַכן און געשיכטעס
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+גענײַסט די פֿאַרגאַנגענהייט צוזאַמען, אָן צו טעסטן. לאָזט „דערמאָנט איר זיך...?“ און „װער איז דאָס?“ אַװעק און ניצט אָפֿענע איינלאַדונגען אַנשטאָט. זעט [רעמיניסצענץ-אַקטיװיטעטן](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **קוקט אַ בילדער-אַלבאָם.** זאָגט װאָס איר זעט: „אַ קלײד. דערצײל מיר װעגן דעם טאָג.“ גײט מיט די נעמען װאָס ער ניצט.
+23. **מאַכט אַ זכרון-קעסטל.** אַ שו-קעסטל מיט זאַכן פֿון זײַן לעבן, װי אַ אַרבעטס-אָפּצײכן אָדער אַ רעצעפּט-קאַרטל. נעמט אַרױס איין זאַך אַ מאָל.
+24. **הײבט אָן אַ לעבנסגעשיכטע-בוך.** עטלעכע בילדער אויף אַ בלאַט מיט גרױסע בילדערשריפֿטן. עס העלפֿט נײַע העלפֿער צו קענען דעם מענטש.
+25. **ניצט שמועס-קאַרטן.** [שמועס-קאַרטן](/games/conversation-cards/) פּאָרן אַ בילד מיט אַן אָפֿענער פֿראַגע.
+26. **מאַכט אַ משפּחה-בילד-שפּיל.** [פֿאָטאָ-פּאָרן](/games/photo-pairs/) פֿאַרװאַנדלט אײַערע אייגענע בילדער אין אַ מאַטש-שפּיל.
+27. **קוקט הײמישע פֿילמען אָדער אַלטע טעלעװיזיע.** קאָמענטירט צוזאַמען, נישט פֿרעגט פֿראַגעס.
+28. **האַנדלט מיט זאַכן פֿון זײַן אַרבעט.** אַ שרויבנשליסל, אַ סטעטאָסקאָפּ, אַ פּרײַז-ביכל. די הענט פֿירן אָפּט די געשיכטע.
+29. **קאָכט אַ קינדהײט-מאָל.** ער קען רירן, פּרוּװן אָדער נאָר זיצן אין דער קיך מיט אײַך.
+30. **קוקט אַ מאַפּע פֿון ערטער װוּ ער האָט געװױנט.** פֿאָלגט באַקאַנטע װעגן אין אַ גרױסן אַטלאַס בשעת איר רעדט.
 
-## Creative activities
+## שאַפֿערישע אַקטיװיטעטן
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+קונסט איז טאָן, נישט דאָס פֿאַרטיקע װערק. האַלט די מאַטעריאַלן דערװאַקסן און זיכער. זעט [קונסט און האַנטװערק](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **מאָלט מיט װאַסער-פֿאַרבן.** דיקער פּאַפּיר, אַ פּאָר פֿאַרבן. אױב אָנהײבן איז שװער, פֿירט די ערשטע שטריך צוזאַמען.
+32. **פֿאַרבט דערװאַקסענע מוסטער.** בלומען אָדער שטעפּ-דעקעס, נישט קאַרטונען. אונדזערע [קאָלאָרירן-בילדער](/games/coloring/) קענען געניצט װערן אויפֿן עקראַן אָדער אױסגעדרוקט.
+33. **מאַכט אַ קאָלאַזש.** רײַסט צײטונג-בילדער פֿון גערטנס, אויטאָס אָדער עסן און קלעפּט זײ אָן. שפּעטער איז נאָר קלײַבן בילדער גענוג.
+34. **אָרדנט בלומען.** אַ בונטש פֿון אַ סופּערמאַרקעט און אַ װאַזע. שפּעטער, אַ פּאָר שטענגלעך אין אַ גלאָז.
+35. **סטריקט אָדער הײקלט צוזאַמען.** פּשוטע רייען מיט גרױסע נאָדלען. שפּעטער, װיקלען גאָרן אין קוילן.
+36. **מאַכט קאַרטלעך פֿאַר משפּחה.** שטעמפּלט, שרײַבט אונטער אָדער פֿאַרשײנט געבורטס- און רפֿואה-קאַרטלעך פֿאַר פֿאַרזיכערטע מענטשן.
+37. **פֿאָרמט לופֿט-טרוקענע טאָן.** דריקט אַ קלײן שיסל אויס. ניצט נישט-גיפֿטיקע מאַטעריאַלן און בלײַבט נאָענט.
+38. **שלײַפֿט און פֿאַרענדיקט האָלץ.** אַ פֿאַרטיק פֿײגל-הײַזל-סעט און זאַנדפּאַפּיר, אָן עלעקטרישע געצײַג. זעט [אַקטיװיטעטן פֿאַר מענער](/activities/for-men/).
+39. **שרײַבט אָדער דיקטירט אַ בריװ.** צו אַ אייניקל אָדער אַן אַלטן פֿרײַנד. אױב שרײַבן איז שװער, רעדט ער און איר שרײַבט.
 
-## Outdoors and gardening
+## אין דרױסן און גאָרטנען
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+פֿרישע לופֿט און טאָגסליכט זענען גוטע חברים. זעט [אַקטיװיטעטן אין דרויסן און גאָרטנען](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **באַװאַסערט פֿלאַנצן.** אַ קלײנע קאַנע און עטלעכע טעפּ. טעגלעכע באַװאַסערונג גיט דעם טאָג אַ ריטם.
+41. **פֿלאַנצט אַ טעפּ.** שטעלט אים אויף אַ טיש, כּדי קײנער זאָל נישט קניען. שטעקלעך זענען לײכטער װי זאָמען.
+42. **יעט אָדער שניידט פֿאַרװעלקטע בלומען.** מיט הענטשיקעס, איין קלײן בעט אַ מאָל.
+43. **רעכנט לויב.** איין קלײן פֿעלד. שפּעטער איז די זעק עפֿענען אַ עכטע אַרבעט.
+44. **גײט אַ באַקאַנטן װעג.** אַרום דעם בלאָק אָדער צום בריװ-קאַסטן. קירצער איז אויך גוט.
+45. **זיצט צוזאַמען אין דרויסן.** אַ פּאָרטשע-שטול אויף אַ מילדן טאָג. קוקט אויף װאָלקן אָדער פֿאַרבײַגײערס.
+46. **פֿיטערט די פֿייגל.** פֿילט אַ פֿיטער צוזאַמען און קוקט פֿון אַ פֿענצטער-זיצל.
+47. **װאַשט דעם אויטאָ.** אַ קױב, אַ שװאַמעמ און אַ װאַרעמער נאָכמיטאָג. אָפּשפּרײַען די קאַפּאַקן איז אַ גוטע איין-שטאַפּל-אַרבעט.
 
-## Sensory activities
+## חושים-אַקטיװיטעטן
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+טאַץ, גערוך, טעם, קול און זען װערן װיכטיקער װי דעמענץ פּראָגרעסירט. די [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) דערמאָנט מוזיק, זאַכן צו האַלטן און האַנט-מאַסאַזש פֿאַר שפּעטערע סטאַדיעס. קוקט צו אַלערגיעס און פֿאַרשלינגען-סכנות פֿריִער; זעט [חושים-אַקטיװיטעטן](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **גיט אַ האַנט-מאַסאַזש.** פֿרעגט פֿריִער און ניצט אַ ביסל קרעם. קלײַבט אַן אומגעשמאַקן אויב איר זענט אומזיכער װעגן דער הויט אָדער אַלערגיעס.
+49. **פֿילט שטאָפֿן.** אַ קױב פֿון סאַמעט, קאָרדוראַי, װאָל און זײַד צו שטרײַכלען און פֿאַלטן.
+50. **ריכט קרײַטער און קאַװע.** רײַבט פֿרישע מינטע אָדער רױזמרין צװישן די פֿינגער. לאָזט אָפּ שטאַרקע דיפֿטן װען עס זענען בראָך-פּראָבלעמען.
+51. **בערשט זײַן האָר.** לאַנגזאַם און װײך, אױב ער האָט עס ליב.
+52. **טײלט אַ װאַרעם װאַשלעפּל.** פֿאַר הענט און פּנים אין אַ קאַלטן טאָג. פּרוּװט די טעמפּעראַטור פֿריִער.
+53. **פֿאָרשט אַ אַקטיװיטעט-פאַרטעך.** גרױסע קנעפּ און רײַסלעך פֿעסט אָנגענייט. קוקט אַז גאָרנישט זאָל זיך נישט לאָזן.
+54. **קאָסט אַ ליב-געהאַטע לעקערײַ.** אַ קלײן לעפֿל, אין אַ טעקסטור װאָס ער קען זיכער נעמען.
+55. **שפּילט נאַטור-קולות.** רעגן, כוואַליעס אָדער פֿייגל-געזאַנג אין אַ נידעריקער לאַוטקײט.
+56. **קוקט עפּעס פּאַמעלעך.** אַ פֿיש-בעקן, אַ נאַטור-װידעאָ אָדער פֿאַלנדיקער שניי.
 
-## Games and puzzles
+## שפּילן און פּאַזלען
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+שפּילן אַרבעטן װען עס איז נישטאָ קײן טײמער, ציפֿער אָדער דרוק. אויב עס הײבט אָן צו פֿילן זיך װי אַ פּרוּװ, לײגט עס אָפּ. זעט [װי צו קלײַבן אַפּס און שפּילן](/caregiving/choosing-apps-and-games/) און [ברײן-שפּילן](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **מאַטשט בילדער.** [בילד-פּאָרן](/games/picture-pairs/) לאָזט בילדער זיך זען, אַזױ אַז עס איז אַ פֿראַגע פֿון באַמערקן, נישט פֿון געדענקען.
+58. **געפֿינט דאָס זעלבע בילד.** [Find the same](/games/find-the-same/) גיט צװײ ביז פֿיר ברירות. שמועסט װעגן יעדן בילד.
+59. **זאָרטירט אין קערבלעך.** [Sort together](/games/sort-together/) איז װי סאָקן זאָרטירן אויפֿן עקראַן.
+60. **מאַכט אַ גרױס-שטיקל פּאַזל.** דערװאַקסענע בילדער, אַ גרינגע צאָל שטיקלעך. [Picture puzzle](/games/picture-puzzle/) האַלט דאָס גאַנצע בילד קענטיק. מער אין [פּאַזלען פֿאַר דעמענץ](/activities/puzzles/).
+61. **שפּילט אַ אַלטן קאַרטשפּיל.** װאָס ער האָט יאָרן געשפּילט. שפּעטער, דעק צו זאָרטירן דעם שפּיל לױט קאָליר איז אַ שפּיל אין זיך.
+62. **שפּילט דאָמינאָס.** מאַטשט די ענדעס. שפּעטער איז נאָר לײגן די פּלעטלעך אין אַ ריי גענוג.
+63. **פּרוּװט אַ גרױסע-דרוק װערטזוך.** אונדזער [װערטזוך](/games/word-search/) האַט װערטער נאָר לענגאויס און אַראָפּ, און איז צום דרוקן.
+64. **ענדיקט באַקאַנטע ספֿורים.** [Finish the saying](/games/finish-the-saying/) לאָזט אײַך װײַזן דאָס ענדע װען ס׳איז.
+65. **שפּילט פּיקטשער-בינגאָ.** [פּיקטשער-בינגאָ](/games/picture-bingo/) פּאַסט פֿאַר משפּחות און גרופּעס. העלפֿט מאַרקירן די קאַרטן פֿריי.
+66. **שפּילט טשעקערס.** האַלט די רעגלען לױז. דערצײלן בשעת מע באַװעגט די שטיקלעך צײלט.
 
-## Movement
+## באַװעגונג
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+די NIA רעקאָמענדירט שפּאַצירן, אַ סטאַציאָנאַרע פֿאָרן-פֿאַר-קאַמפֿ, שטרעכן-בענדער, װאַרפֿן אַ װײכן באַל אָדער באַלאָן, הײבן זופּ-דאָזן און אַ באַװעגונגס-װידעאָ פֿאַר עלטערע מענטשן. פֿרעגט דעם דאָקטער פֿריִער, באַזונדער מיט באַלאַנס-פּראָבלעמען.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **װאַרפֿט אַ באַלאָן.** זיצט אַנטקעגן איינער דעם אַנדערן. ער פֿליט לאַנגזאַם, און ס׳איז לײכט צו כאַפּן.
+68. **פֿאָלגט אַ זיצנדיק באַװעגונגס-װידעאָ,** געמאַכט פֿאַר עלטערע מענטשן, נעבן אײנאַנדער.
+69. **שטרעכט זיך מיט אַ באַנד.** געלינדע אָרעם-ציִען מיט אַ לײכטן באַנד בשעת איר זיצט.
+70. **הײבט זופּ-דאָזן.** פּאַמעלעכע אָרעם-הײבן, אפשר צו מוזיק.
+71. **פֿאָרט אַ סטאַציאָנאַרן פֿאָרן-פֿאַר-קאַמפֿ.** עטלעכע לײכטע מינוטן, מיט אײַך נאָענט.
+72. **טאַנצט מיט שאַרפּעס.** װײַט לײכטע שאַרפּעס צו מוזיק, זיצנדיק אָדער שטײענדיק.
+73. **גײט מיט אַ ציל.** צו שיקן אַ בריװ אָדער קױפֿן אַ קאַװע. אַ סיבה צו גײן פֿילט זיך נאַטירלעך.
+74. **טײלט אַן אָטעם-פּױזע.** לאָזט זיך צוזאַמען אַראָפּ מיט [רויקע אָטעם-איבונגען](/games/calm-breathing/).
 
-## Social activities
+## געזעלשאַפֿטלעכע אַקטיװיטעטן
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+געזעלשאַפֿט איז װיכטיק, אפֿילו װען נעמען זענען שװער, און קלײנע גרופּעס זענען גרינגער װי גרױסע. די NIA באַמערקט, אַז אַ מענטש קען נישט געדענקען װער אַ באַזוכער איז, אָבער האָט אָפט נאָך פֿרײד פֿון דער חבֿרותא. זעט [באַזוכן](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **האָבט איינעם אָדער צװײ באַזוכער אַ מאָל.** קורצע באַזוכן אין אַ רויק צימער, מיט בילדער צו קוקן.
+76. **רופֿט משפּחה אויף װידעאָ.** קורצע רופֿן, איין שטימע אַ מאָל. זעט [טעלעפֿאָן- און װידעאָ-רופֿן](/activities/phone-and-video-calls/).
+77. **פּרוּװט אַ זכרון-קאַפֿע.** אינפֿאָרמעלע צונױפֿקונפֿטן פֿאַר מענטשן מיט דעמענץ און זייערע זאָרגערס. פֿרעגט אײַער לאָקאַלע עלטערן-דינסט װאָס אין דער נאָענט איז.
+78. **עסט אויס אין אַ רויקער צײַט.** די NIA רעקאָמענדירט אַ באַקאַנטע, רויקע רעסטאָראַן בײַ נידעריקער צײַט, מיט אַ טיש לעבן דער טואַלעט.
+79. **באַזוכט אַ עלטערן-צענטער אָדער טאָגסגאַנג.** חבֿרותא פֿאַר אים און אַ רו פֿאַר אײַך.
+80. **פֿאַרברענגט צײַט מיט קינדער.** אַ קורצער, רויקער באַזוך פֿון אײניקלעך, אָדער לײענען אַ בילדערבוך פֿאַר אַ קלײן קינד.
+81. **טײלט די צײַטונג בײַ קאַװע.** לײענט די קעפּלעך אויף. דאָס ריטואַל איז װיכטיקער װי די נײעס.
+82. **העלפֿט עמעצן אַנדערש.** פֿאַלט קירכן-פּראָגראַמען אָדער מאַכט אַ קאַרטל פֿאַר אַ שכן.
 
-## Faith and spiritual activities
+## גלױבן- און גײסטיקע אַקטיװיטעטן
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+פֿאָלגט דעם מענטשס אייגענער טראַדיציע, אָדער קײן. די NIA רעקאָמענדירט באַקאַנטע דינסטן, לײענונגען, הײליקע מוזיק, תפֿילה, מעדיטאַציע און יום-טובֿ-ריטואַלן.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **באַזוכט אַ באַקאַנטן דינסט.** קלײַבט אַ רויקערן, זיצט נאָענט צום פּאַסאַזש, און לאָזט די מענטשן דאָרט װיסן װעגן דער דעמענץ.
+84. **קוקט אַ דינסט אָנליין** אויף טעג װען אַרױסגײן איז צו פֿיל.
+85. **בעט אָדער לײענט צוזאַמען.** באַקאַנטע װערטער, לאַנגזאַם געלײענט. ער קען מיטזאָגן די טיילן װאָס ער קען.
+86. **זינגט געטלעכע לידער** פֿון זײַן טראַדיציע.
+87. **האַלט יום-טובֿ-ריטואַלן.** בלײכע ליכט, אַ ברכה, די דעקאָראַציעס װאָס זײ האָבן שטענדיק געניצט.
+88. **טײלט אַ שטילע צײַט.** זיצט אין אַ גאָרטן אָדער קוקט אויף דער זון װען זי גײט אונטער.
 
-## Pets and animals
+## חיות און בהמות
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+די NIA רעקאָמענדירט פֿיטערן, שטרײַכלען, שפּאַצירן, זיצן נאָענט מיט אַ בהמה און זי האַלטן.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **בערשט אַ רויקן הונט אָדער קאַץ** מיט לאַנגע, פּאַמעלעכע שטריכן.
+90. **פֿיטערט די בהמה צוזאַמען.** איר מעסט, ער גיסט.
+91. **פֿירט דעם הונט אויף אַ שפּאַציר.** איר האַלט דעם שטריק.
+92. **האַלט אַ בהמה אויף דעם שויס.** אַ רויקע קאַץ אויף אַ דעק קען זײַן זייער באַרויִקנדיק.
+93. **באַװילקומט באַזוכנדיקע חיות.** עטלעכע פֿלעגער-היימען און טאָג-פּראָגראַמען האָבן חיות-באַזוכן. פֿרעגט לאָקאַל.
+94. **גיט אַ לעבנסנאָענטע װײך חיה.** אויב עס איז נישטאָ קײן בהמה, האָבן עטלעכע מענטשן פֿרײד צו האַלטן אַ ריאַליסטישע װײכע קאַץ אָדער הונט. גיט עס פּשוט, קיין מאָל אַלס שפּילזאַך, און נעמט אָן אַ ניין.
 
-## Seasonal activities
+## סעזאָנאַלע אַקטיװיטעטן
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+האַלט די טראַדיציעס, אָבער פּשוטער. די NIA רעקאָמענדירט צו זײַן רעאַליסטיש און האָבן אַ שטילן אָרט פֿאַר ברעכן בשעת בײזע יום-טובֿים.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **דעקאָרירט פֿאַר דער סעזאָן.** אַ קירבעס, אַ קראַנץ אָדער פֿרישע בלומען אויפֿן טיש.
+96. **מאַכט אַ יום-טובֿ-פּאַסטרי.** װאַלצט טײג אָדער גלאַזוירט קעקסן. איר האַנדלט מיט דעם אויװן.
+97. **הענגט אויף דעקאָראַציעס.** צעבראָכענע-פֿעסטע קוגלען, איינס אַ מאָל געגעבן.
+98. **פֿאָרט צו קוקן אויף די ליכטן.** אַ קורצע אָװנט-פֿאָרט פֿרעגט גאָרנישט אַחוץ חבֿרותא.
+99. **פֿלאַנצט פֿרילינג-צוויבלען.** דריקט די צוויבלען אין אַ טעפּ אין האַרבסט און װאַרט אויף די קײמער.
+100. **שאַלן מאַיִז אָדער ערבסן.** אַ סומער-אַרבעט פֿאַר דער װײַטער מיט אַ שיסל אין שויס.
+101. **שרײַבט אָדרעסן אויף יום-טובֿ-קאַרטלעך.** זײ חתמען, שטעמפּלען אָדער פֿאַרמאַכן; איר טוט די אָדרעסן.
 
-## What if an activity is not working?
+## װאָס אויב אַ אַקטיװיטעט אַרבעט נישט?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+האַלט אָן און פּרוּװט עפּעס אַנדערש אַ מאָל אַנדערש. די NIA רעקאָמענדירט צו באַמערקן פֿרוסטראַציע און לאָזן דעם מענטש בלויז קוקן, אויב ער װיל אַזױ. אַ ניין באַטײַט אָפט, אַז די אַרבעט איז צו שװער, די צײַט איז נישט ריכטיק, אָדער עפּעס אַנדערש שטערט, װי װײטיק, הונגער אָדער גערויש. מאַכט עס קלענער, פּרוּװט אין אַ פֿריִערדיקער צײַט פֿון טאָג, אָדער הײבט עס אָן אַלײן און זעט צי ער טוט זיך אָן. זעט [װען זיי זאָגן ניין](/caregiving/when-they-say-no/) און [שפּעטע אומרו](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+צו פּאַסן אַקטיװיטעטן צװישן מאָלצײטן און רו, זעט [אַ זאַנפֿטער טעגלעכער סדר](/activities/daily-routine/). פֿאַר זאַכן צו האָבן גרײט, זעט [דרוקבאַרע אַקטיװיטעטן](/activities/printable/), און אויב איר פֿירט אַ גרופּע, זעט [גרופּע-אַקטיװיטעטן אין פֿלעגער-היימען](/activities/care-home-groups/). אײַער אייגענע רו איז אויך װיכטיק: זעט [זעלבסט-זאָרג פֿאַר זאָרגערס](/caregiving/caregiver-self-care/).

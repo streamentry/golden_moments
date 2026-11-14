@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Ka aukati ngā tākaro roro i te mate wareware? Ngā taunakitanga"
+seoTitle: "Ka aukati ngā tākaro roro i te mate wareware?"
+description: "Ngā kōrero rangahau mō ngā tākaro roro me te mate wareware: ngā whakangungu rorohiko, te whakamātautau ACTIVE me te keehi FTC Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Kāore anō he tākaro roro kua whakaatuhia ka aukati i te mate wareware. Ko te
+  whakangungu roro i ngā rorohiko te nuinga o te wā ka pai ake ai ngā mahi e
+  mahia ana e te tangata. Kotahi rangahau i te whakamātautau ACTIVE i hono te
+  whakangungu tere me ngā akoranga whakapakari anō ki ngā tohu mate wareware iti
+  ake i roto i ngā tau 20, he kitenga whaiaro. Mō ngā tāngata kei te noho kē me
+  te mate wareware, he painga iti, poto noa ngā rōpū whakaohooho whakaaro. Ko te
+  pai ake o ngā tākaro he hari me te hoa.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Ko ngā rangahau whakangungu roro e kitea ana ka pai ake ngā tāngata ki ngā mahi e mahia ana e rātou, engari he iti noa ngā taunakitanga e whai pānga ana ki te oranga o ia rā."
+  - "I te whakamātautau ACTIVE, ko ngā tāngata anake i whai i te whakangungu tere me ngā akoranga whakapakari anō i iti ake ngā tohu mate wareware i roto i ngā tau 20. Kāore i kitea tēnei i te whakangungu tere kore akoranga whakapakari anō, i te whakangungu maharatanga, whakaaro arohaehae rānei."
+  - "I te 2016, i utu te kaihanga o Lumosity i $2 miriona hei whakaoti i ngā whakapae a te FTC, i kerēhia ai te kamupene mō te kore taunakitanga mō ngā kerēme e kī ana ka whakaroa i te mate wareware."
+  - "Mō ngā tāngata e mate ana i te taumata iti ki te waenga, he iti, he poto ngā painga o ngā rōpū whakaohooho whakaaro mō te whakaaro, ā, he mārama ake ngā kitenga mō te kōrero me te whanaungatanga."
+  - "Ko ngā tākaro Golden Moments mō te hari me te wā tahi. Ehara ēnei i te maimoatanga, kāore e aukati, e whakaroa rānei i te mate wareware."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Ka aukati ngā tākaro roro i te mate Alzheimer's?"
+    a: "Kāore anō he tākaro roro kua whakaatuhia ka aukati i te mate Alzheimer's, i tētahi atu mate wareware rānei. E kī ana te National Institute on Aging, kāore he taunakitanga nui kua rite ngā āpure whakangungu roro arumoni ki ngā pānga kua kitea i ngā whakamātautau rangahau. Ka taea tonu e ngā tākaro te noho hei huarahi pai ki te whakapau wā."
+  - q: "He aha ngā kitenga o te whakamātautau ACTIVE mō te whakangungu tere me te mate wareware?"
+    a: "I te arotake o te 2026, i hono ngā kaiuru ACTIVE ki ngā rekoata Medicare mō ngā 20 tau. Ko ngā tāngata i whakangungua ki te whakangungu tere, ā, kotahi akoranga whakapakari anō neke atu rānei, he iti ake te reiti o te mate wareware kua whakatauhia i te rōpū kāore i whakangungua. Kāore i kitea he pānga nui i te whakangungu tere kore akoranga whakapakari anō, i te whakangungu maharatanga, whakaaro arohaehae rānei."
+  - q: "Ka pai ngā pazula me ngā tākaro mō tētahi kei te mate wareware kē?"
+    a: "Ka pai, mēnā e pai ana ki te tangata. Ko te whakaohooho whakaaro i ngā rōpū, e whai ana i ngā tākaro kupu, ngā pazula, te waiata me te kōrerorero, e whakaatu ana i ngā painga iti, poto mō te whakaaro, ā, he mārama ake ngā painga mō te kōrero me te whanaungatanga. Te hari, ehara i te hua whakamātautau, te whāinga tika."
+  - q: "He aha te whiu a te FTC ki a Lumosity?"
+    a: "I te 2016, i kī te Federal Trade Commission, i kerēhia a Lumos Labs mō ngā kerēme mō āna tākaro, tae atu ki te whakaroa i te heke o te tau me te mate wareware, i te kore taunakitanga hei tautoko. I whakaae te kamupene ki te utu $2 miriona, ā, ki te whai taunakitanga pūmau, pai hoki i mua i ngā kerēme pēnei a muri ake nei."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,178 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+He kōrero whānui tēnei, ehara i te tohutohu hauora. Tirohia tā mātou
+[whakapāhatanga hauora](/medical-disclaimer/).
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Kei ngā wāhi katoa ngā tākaro roro, ā, he maha e kī ana ka pupuri i tō
+hinengaro kia taiohi tonu. Mēnā e tiaki ana koe i tētahi e mate wareware ana,
+e māharahara ana rānei mō tō ake maharatanga, he māori ki te whakaaro mēnā ka
+āwhina ēnei tākaro. Anei ngā kitenga pono o te rangahau, tae atu ki ngā wāhi
+whakapākaha me ngā wāhi kāore i pai.
 
-## Do brain games prevent dementia?
+## Ka aukati ngā tākaro roro i te mate wareware?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Kāore anō he tākaro roro kua whakaatuhia ka aukati i te mate wareware. E kī ana
+te National Institute on Aging (NIA) kia tūpato ki ngā kerēme e kī ana ka pai
+ake te maharatanga i ngā tākaro rorohiko me ngā tākaro ipurangi, ā, e kī ana
+kāore anō kia rahi ngā taunakitanga mō tētahi āpure whakangungu roro arumoni kia
+rite ki te whakangungu i whakamātauria i ngā rangahau haumanu
+([NIA mō te aukati i te Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ehara tēnei i te kī he kore painga ngā tākaro. Ko te tikanga, ko te uara o ngā
+tākaro ko te hari, te hoatanga me te aronga tonu, ehara i te whakaora i tētahi
+i te mate wareware.
 
-## What is "near transfer", and why does it matter?
+## He aha te “near transfer” (whakawhiti tata), ā, he aha tōna whai take?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Ina whakangungua tētahi mahi, ka pai ake koe ki taua mahi. Ka kīia e ngā
+kairangahau he pānga whakangungu tēnei. Ko te pātai uaua ake, e whakawhiti ana
+rānei taua pai ake ki ētahi atu mahi rite (whakawhiti tata), ki te oranga o ia
+rā rānei, pērā i te maumahara i ngā toro ā-hui, i te whakahaere moni rānei
+(whakawhiti tawhiti).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+I tirohia e tētahi arotake nui o te 2016 ngā rangahau i whakahuatia e ngā
+kamupene whakangungu roro hei taunakitanga pai rawa atu. I kitea he taunakitanga
+nui kua pai ake te tangata ki ngā mahi kua whakangungua, he iti ake ngā
+taunakitanga kua pai ake ki ngā mahi e tata ana, ā, he iti rawa ngā taunakitanga
+kua pai ake te whakaaro o ia rā i te whakangungu. He maha hoki ngā rangahau i
+raru i te hoahoa, nā reira kāore i taea te whakatau pūmau
+([Simons me ētahi atu, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## He aha ngā arotake e kī ana mō te whakangungu roro i te rorohiko?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Ko ngā arotake Cochrane, e whakakotahi ana i ngā whakamātautau pai rawa atu e
+wātea ana, kua titiro ki te whakangungu rorohiko e roa ana i te 12 wiki neke atu:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Ngā pakeke hauora e 65 ngā tau me runga ake:** e waru ngā whakamātautau, 1,183
+  ngā tāngata. He iti, he iti rawa rānei te kounga o ngā taunakitanga. Tērā pea
+  he pai iti tonu i muri tonu i te whakangungu, engari kāore he taunakitanga
+  mārama e roa ana ([arotake Cochrane, ngā pakeke hauora](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Ngā tāngata e raruraru whakaaro iti ana (mild cognitive impairment):** e waru
+  ngā whakamātautau, 660 ngā tāngata. Kāore he whakamātautau i kōrero mēnā i ahu
+  mai te mate wareware i muri mai, ā, he ngoikore rawa te taunakitanga hei
+  whakatau ([arotake Cochrane, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## He aha ngā kitenga o te whakamātautau ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+Ko ACTIVE he whakamātautau nui o Amerika i tīmata i te tau 1998, me 2,802 ngā
+pakeke e 65 ngā tau me runga ake, e noho motuhake ana, ā, kāore he raruraru nui
+o te maharatanga, o te whakaaro rānei i te tīmatanga. I tohua ngā tāngata ā-matapōkere
+ki tētahi o ngā momo whakangungu rōpū iti e toru (te tere o te tukatuka, te
+maharatanga, te whakaaro arohaehae), ki tētahi rōpū kāore i whakapāpā. Tae atu
+ki tekau ngā akoranga i roto i ngā wiki e rima ki te ono. Ko ētahi o ngā
+tāngata i oti i a rātou te nuinga o ngā akoranga, i tohua ā-matapōkere ki ngā
+**akoranga whakapakari anō** i tata ki te kotahi me te toru tau i muri mai.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+I te whakangungu tere, ka titiro, ka tukatuka i ngā mōhiotanga ā-kanohi i ngā
+wā iti haere, i te taumata e urutau ana i te pai haere o te tangata.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+I te 2026, i hono ngā kairangahau i te 2,021 ngā kaiuru ki ō rātou rekoata
+Medicare mō ngā 20 tau ([rangahau 20 tau ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Anei te mea tonu i kitea e rātou:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Te whakangungu tere me tētahi akoranga whakapakari anō neke atu:** he iti ake
+  te reiti o te mate wareware kua whakatauhia i te rōpū kāore i whakapāpā (he
+  hazard ratio 0.75, te tikanga he iti ake te reiti tata ki te 25%).
+- **Te whakangungu tere me te kore akoranga whakapakari anō:** kāore he reiti iti ake.
+- **Te whakangungu maharatanga, whakaaro arohaehae rānei:** kāore he pānga nui ki
+  ngā whakatauranga mate wareware.
+- **Ia rōpū whakangungu, ā-katoa, i whakatairitea ki te rōpū kāore i whakapāpā:**
+  he tohu o te iti ake o ngā reiti, engari kāore i tino mārama tatauranga.
 
-### The limits of this finding
+### Ngā herenga o tēnei kitenga
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- He mea anake tēnei mō **tētahi momo whakangungu tere e arahia ana me ngā
+  akoranga whakapakari anō**, ehara i te tākaro roro katoa.
+- I ahu mai te kitenga nui i tētahi **rōpū iti** (ngā tāngata i oti i a rātou te
+  nuinga o ngā akoranga tuatahi, ā, i tukua ki a rātou ngā akoranga whakapakari
+  anō), ehara i te rōpū tere katoa.
+- I ine te mate wareware mā te whakamahi i ngā **waehere whakatauranga i ngā
+  rekoata Medicare**, ehara mā te tirotiro i ia tangata. Tata ki te hauwhā o ngā
+  kaiuru taketake i wehea atu, nā te mea he Medicare Advantage ā rātou, he kore
+  ngā rekoata katoa.
+- I te tīmatanga, kāore he raruraru nui o te whakaaro i ngā kaiuru. Kāore ngā
+  hua e kōrero ana mō ngā tākaro mō ngā tāngata **kei te noho kē me te mate
+  wareware**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+He kitenga whai hua tēnei e tika ana kia nui atu te rangahau. Ehara tēnei i te
+taunakitanga he āpure e aukati ana i te mate wareware.
 
-## What did the FTC say about Lumosity?
+## He aha tā te FTC i kī mō Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+I te Kohitātea 2016, i whakaae a Lumos Labs, te kaihanga o Lumosity, ki te utu
+$2 miriona hei whakaoti i ngā whakapae a te Federal Trade Commission mō ngā
+panui tinihanga. I kī te FTC, i kerēhia te kamupene, i te kore taunakitanga
+pai, ko āna tākaro ka pai ake ai te mahi i te mahi me te kura, ā, ka taea te
+whakaroa i te heke e pā ana ki te pakeke, i te raruraru whakaaro iti, i te mate
+wareware me te Alzheimer's. Ko te ota e herea ana te kamupene kia whai
+taunakitanga pūmau, pai hoki i mua i ngā kerēme pēnei a muri ake nei
+([panuku FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Te akoranga mā ngā whānau: kia tūpato ki ngā tākaro, āpure, hōtaka katoa e kī
+ana ka tiaki i te maharatanga, ka aukati rānei i te mate wareware.
 
-## Can games help someone who already has dementia?
+## Ka āwhina ngā tākaro i tētahi kua mate wareware kē?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Ka taea e ngā tākaro te āpiti atu ki tētahi rā pai, he mea nui tērā. Ko te
+huarahi kua rangahaua pai rawa atu ko te **whakaohooho whakaaro**: ngā mahi
+hari i ngā rōpū, pērā i te kōrerorero, te maumahara ki ngā mahara o mua
+(reminiscence), ngā tākaro kupu, ngā pazula me te waiata, i te nuinga o te wā i
+roto i te rōpū iti e arahia ana e tētahi kaiārahi.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ko te arotake Cochrane o te 2023 mō ngā whakamātautau e 37 me ngā tāngata e
+2,766 e mate wareware ana i te taumata iti ki te waenga, i kitea
+([arotake Cochrane mō te whakaohooho whakaaro](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- he **pai iti, poto** i ngā whakamātautau whakaaro (he taunakitanga taumata waenga);
+- **he pai ka taea te kite** i te whakapai ake o te kōrero me te whanaungatanga
+  (he taunakitanga taumata teitei, mai i te maha iti ake o ngā rangahau);
+- **he pai iti** mō te kounga o te oranga, te ngākau me te whanonga.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Ka ine ngā painga i te nuinga o te wā i muri tonu i ngā hōtaka e tata ana ki te
+tekau wiki, he iti noa ngā rangahau i tirotiro mēnā ka mau tonu. He hōtaka
+rōpū whakaritenga te whakaohooho whakaaro, nā reira ehara i te mea ka pā ēnei
+kitenga ki tētahi tangata e tākaro ana i tētahi rorohiko ringa ā-takitahi.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ko te Lancet Commission o te 2024 e kī ana he mea nui hoki ngā hōtaka mahi mō
+ngā tāngata e noho ana me te mate wareware, hei pupuri i te hari me te
+whāinga ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## He aha ngā mea pai o ngā tākaro?
 
-When chosen well, games can offer:
+Ina whiriwhiria pai, ka taea e ngā tākaro te hoatu:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Hari.** He pai te hāora ngahau mōna anō.
+- **Whanaungatanga.** Ko te tākaro tahi i te taha o tētahi, he mea ngāwari hei
+  tohatoha ina uaua te kōrerorero. Titiro ki [te pēhea te tākaro tahi](/caregiving/how-to-play-together/).
+- **Aronga.** He mahi mōhio i ngā rā katoa i te wā ōrite, ka whakamarie.
+- **Māia.** Ko ngā mahi e rite ana ki ngā mea e pai tonu ana ki te tangata ka
+  whakamana i a ia, ehara i te whakamātautau.
+- **Kōrero.** Ka taea e tētahi whakaahua, tētahi kīwaha mōhio te whakatuwhera i
+  tētahi kōrero. Whakamātautau i ngā [kāri kōrerorero](/games/conversation-cards/)
+  me [whakaoti te kīwaha](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Ngā mea e karo ai: ngā taima, ngā kaute, ngā raupapa, me ētahi atu e rite ana ki
+te whakamātautau maharatanga. Mēnā ka pāwera te tangata, whakamutua. Ko te mutu
+moata, ko te noho tahi noa rānei, he hua pai tērā. Ko tā mātou aratohu mō te
+[whiriwhiri āpure me ngā tākaro](/caregiving/choosing-apps-and-games/) he rārangi tirotiro.
 
-## Where Golden Moments fits
+## Ko te wāhi o Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Ko ngā tākaro Golden Moments, pērā i [ngā takirua whakaahua](/games/picture-pairs/),
+[te pazula whakaahua](/games/picture-puzzle/) me [te kimi kupu tuhi nui](/games/word-search/),
+he mea hanga mō te hari me te wā tahi. He kore taima, he kore kaute. **Ehara** ēnei
+i te maimoatanga, ā, **kāore** ia e aukati, e whakaroa rānei i te mate wareware.
+He pai ake ki a mātou te kī atu i tēnei mā te tino pūmāmā, i te kī atu i tētahi
+mea e kore e taea e tākaro e tutuki.
 
-## Talk with a doctor
+## Kōrero ki tētahi ringatoi hauora
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Mēnā kei te māharahara koe mō ngā panonitanga o te maharatanga o tōu ake tangata,
+o tētahi e tiakina ana e koe rānei, tirohia tētahi ringatoi hauora, kāore i te
+whakawhirinaki ki tētahi āpure. Ka taea e te ringatoi te rapu ngā take ka taea te
+maimoa, me te kōrero mō ngā hikoi me ngā taunakitanga pai rawa, pērā i te
+whakahaere i te pēhanga toto me te arotake i te rongo. Tirohia
+[Ka taea te aukati i te mate wareware?](/brain-health/can-dementia-be-prevented/)
+mō ētahi atu kōrero. Mō te pōhēhē ohorere, mō ētahi atu panonitanga ohorere rānei,
+me whai i te āwhina hauora ohotata.

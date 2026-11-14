@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Ka taea te aukati i te mate wareware? Ngā kitenga rangahau"
+seoTitle: "Ka taea te aukati i te mate wareware?"
+description: "Ngā kitenga o te Lancet Commission 2024 me ngā whakamātautau nui mō te whakaiti i te tūraru mate wareware, ngā mea kāore i kitea, me ngā mahi hei kōrero ki tō ringatoi."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Kāore tētahi e taea te oati ka aukati i te mate wareware. Nā te Lancet
+  Commission 2024 i tātari, tata ki te haurua o ngā keehi mate wareware o te ao
+  e hono ana ki 14 ngā tūraru ka taea pea te whakarerekē, pērā i te pēhanga toto
+  teitei, te ngoikoretanga whakarongo me te kore mahi tinana. He iti ngā pānga o
+  ngā whakamātautau ki ngā whakamātautau whakaaro, ehara i te taunakitanga he
+  iti ake ngā keehi mate wareware. He maha ngā tāngata e mahi pai ana, ka pā tonu
+  te mate wareware ki a rātou, ā, ehara tēnei i te hē a tētahi.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Nā te Lancet Commission 2024 i kī tata ki te 45% o ngā keehi mate wareware o te ao i hono ki 14 ngā tūraru ka taea pea te whakarerekē. He tātaritanga mō te taupori, ehara i te oati mō tētahi tangata."
+  - "Ko te whakaiti tūraru he whakaiti i ngā tūponotanga puta noa i te taupori katoa. Ehara tēnei i te kī ka taea e tētahi tangata te karo i te mate wareware."
+  - "Ko ngā whakamātautau nui pērā i FINGER, US POINTER me SPRINT MIND i kitea he painga iti i ngā whakamātautau whakaaro, i te raruraru whakaaro iti rānei, engari kāore tētahi i whakamātau kua aukati te hōtaka oranga i te mate wareware."
+  - "Ko te pakeke te tūraru nui e mōhiotia ana mō te Alzheimer's, ā, kāore e taea te whakarerekē. He maha ngā tāngata e pai ana ngā mahi, ka pā tonu te mate wareware ki a rātou."
+  - "Ko ngā mahi e rangahaua nuitia ana, pērā i te maimoa i te pēhanga toto teitei, te whakamahi i ngā pūrere whakarongo me te noho kaha, he mea pai ki te kōrero ki tō ringatoi, nā te mea he painga anō ki te hauora i ētahi atu āhuatanga."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Ka taea te aukati i te mate wareware?"
+    a: "Kāore he huarahi kua whakamanatia hei aukati i te mate wareware mō tētahi tangata. Ko ngā rangahau e kī ana, mēnā ka whakaitihia ētahi tūraru, pērā i te pēhanga toto teitei, te ngoikoretanga whakarongo kāore i maimoatia me te momi tupeka, ka iti pea te tūponotanga o te mate wareware puta noa i te taupori, ka roa rānei te tīmatanga. He tūponotanga ēnei, ehara he oati."
+  - q: "He aha te tikanga o te 45% a te Lancet Commission?"
+    a: "I tātari te Lancet Commission 2024 tata ki te 45% o ngā keehi mate wareware o te ao e hono ana ki 14 ngā tūraru ka taea pea te whakarerekē, mā te ariā. E whakaaro ana te tātaritanga he take ēnei tūraru ki te mate wareware, ā, e kī ana ngā kaituhi tērā pea he wāhanga anake ngā hononga. He kōrero mō ngā taupori katoa, ehara i te kī i te tūraru o tētahi takitahi."
+  - q: "Mēnā he oranga hauora tō mātua, he aha i pā ai te mate wareware ki a ia?"
+    a: "He nui te wāhi o te pakeke, o ngā ira, me ngā take maha e kore e taea e tētahi te whakahaere, ki te mate wareware. E kī ana ngā kaituhi o te Lancet Commission, kāore e whakaū te whakaiti tūraru puta noa i te taupori, ka karo tētahi takitahi i te mate wareware. Ehara te whakatau mate wareware i te tohu he hē tētahi."
+  - q: "He roa kē te wā ki te whakaiti i te tūraru mate wareware i muri i te 65 tau?"
+    a: "E kī ana te Lancet Commission, kāore he wā kua pōturi, kua roa rānei ki te whakaiti i te tūraru, ahakoa he nui te taunakitanga o te haurua o te oranga. Ko te whakarongo me te whakatika i ngā raruraru tirohanga, te noho kaha me te pupuri whanaungatanga ki ngā tāngata he mahi i rangahaua i te oranga pakeke. Kōrerohia ki tō ringatoi ko tētahi mahi e pai ana ki tō hauora."
+  - q: "Ka aukati ngā tākaro roro, ngā kai motuhake rānei i te mate wareware?"
+    a: "Kāore tētahi tākaro, kai, matūkai, kai rānei kua whakamanatia hei aukati i te mate wareware. I kitea i te whakamātautau e toru tau o te kai MIND kāore he rerekētanga nui i te whakaaro i te kai whakahaere, ā, kāore anō kia whakaatuhia e ngā āpure whakangungu roro arumoni he pānga ki ngā pānga kua kitea i ngā whakamātautau rangahau."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,283 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Mēnā kei te tiaki koe i tētahi e mate wareware ana, i matakitaki rānei koe i tō
+mātua e noho ana me te mate, pea kua whakaaro koe mēnā i taea te aukati, ā,
+mēnā ka taea e koe te karo kia kore e pā ki a koe. Ko tēnei whārangi e whakaatu
+ana i ngā kōrero rangahau pono, i ngā kupu māmā. Te whakautu poto: kāore tētahi
+e taea te oati ka aukati i te mate wareware, engari e kī ana ngā rangahau ka
+whakaitihia pea ētahi tūraru, ā, mēnā ka whakaitihia puta noa i te taupori, he
+iti ake pea te tangata ka pā te mate wareware ki a rātou, he roa ake pea te
+tīmatanga.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+He kōrero whānui tēnei, ehara i te tohutohu hauora. Tēnā, pānuihia tā mātou
+[whakapāhatanga hauora](/medical-disclaimer/) me te kōrero ki tētahi ringatoi
+hauora mō tō hauora ake.
 
-## Can dementia be prevented?
+## Ka taea te aukati i te mate wareware?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Kāore he huarahi kua whakamanatia hei aukati i te mate wareware mō tētahi
+takitahi. E kī ana te National Institute on Aging (NIA) ahakoa
+[kāore anō kia whakamanatia tētahi huarahi hei aukati i te Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+kua kitea e ngā kairangahau ētahi rautaki whakamanawa, ā, e ako ana rātou he aha
+pea ka mahi, he aha pea kāore.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ko tā te rangahau *e whakaatu ana* ko ngā ahuatanga hauora me ngā mahi kātahi ka
+hono ki te tūponotanga teitei o te mate wareware. Ina iti ake ēnei tūraru puta
+noa i te taupori katoa, he iti ake pea te tangata ka pā te mate wareware ki a
+rātou, ka pā rānei i muri ake i te oranga. He tino rerekē tērā i te oati.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Tētahi tohu whakamanawa: i te 2024 i kī te Lancet Commission, i ētahi whenua
+whiwhi moni nui, tae atu ki US me UK, kua heke te wahanga o ngā kaumātua e mate
+wareware ana. E whakaaro ana ngā kaituhi he take tēnei i te nui o te mātauranga,
+te pai ake o te ratonga hauora me te iti ake o te pakaru o ngā kōawa toto puta noa
+i te oranga katoa, e ai ki
+[te whakarāpopototanga a University College London o te pūrongo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## He aha ngā kitenga o te Lancet Commission 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ko te Lancet Commission mō te aukati, te whakaora me te tiaki mate wareware he
+rōpū o 27 ngā kairangahau mate wareware e arotake ana i ngā taunakitanga i ia
+ngā tau maha. Ko tā rātou pūrongo 2024 i whakaingoa **14 ngā tūraru** ka taea pea
+te whakarerekē, ā, i tātari he **tata ki te haurua (tata ki te 45%) o ngā keehi mate
+wareware o te ao** ko ngā tūraru katoa e hono ana. Ka kī ngā kaituhi, **mā te
+whakaaro**, ka taea pea te aukati, te whakaroa rānei i ēnei keehi mēnā ka
+whakakorea ngā tūraru
+([pūrongo 2024 a te Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Ko ngā 14 tūraru, kua whakarōpūtia e te wāhanga o te oranga e kaha ana ngā
+taunakitanga:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Te tīmatanga o te oranga:** te iti o te mātauranga.
+- **Te haurua o te oranga (tata ki te 40 ki te 65 ngā tau):** te ngoikoretanga
+  whakarongo, te LDL kōhuru ("kino") teitei, te pōuri, te whiu o te upoko, te kore
+  mahi tinana, te mate huka, te momi tupeka, te pēhanga toto teitei, te taumahatanga
+  nui, me te inu waipiro nui.
+- **Te oranga pakeke:** te mokemoke pāpori, te paitini hau, me te ngoikoretanga
+  tirohanga kāore i maimoatia.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Ko ngā āpitinga hou e rua i te 2024 ko te LDL kōhuru teitei me te ngoikoretanga
+tirohanga kāore i maimoatia. Ko ngā tūraru i hono ki te nui rawa o ngā keehi ko te
+ngoikoretanga whakarongo me te LDL kōhuru teitei (tata ki te 7% ia tētahi), ā, ka
+whai ko te iti o te mātauranga me te mokemoke pāpori (tata ki te 5% ia tētahi).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ko tā mātou [aratohu tūraru](/brain-health/risk-factors/) e whakahuahua ana i ngā
+14 katoa i roto i tētahi tūtohu, me ngā mea e hono ana ki te rangahau me ngā mea
+ka taea e koe te mahi.
 
-### What the 45% figure does not mean
+### He aha te kore e tohu i te 45%
 
-It is easy to misread this number, so it helps to be precise:
+He māmā te hē ki te whakamārama i tēnei tau, nā reira he pai kia tino mārama:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **He tātaritanga mō te taupori.** E whakaatu ana mō ngā keehi mate wareware puta
+  noa i te ao, ehara i ō tūponotanga, ehara i ngā tūponotanga o tō mātua.
+- **E whakaaro ana he take, he pānga.** I kī ngā kaituhi i whakauru anake ngā
+  tūraru he taunakitanga whakaharahara, engari he wāhanga anake pea ētahi hononga.
+  Hei tauira, ko te pōuri i te oranga pakeke, he tohu tīmatanga pea o te mate
+  wareware, ehara i te take.
+- **Kāore e oati mō tētahi takitahi.** E kī ana te whakarāpopototanga a UCL, ko te
+  whakaiti tūraru ka mahi i te taumata o te taupori, ā, kāore e oati ka karo tētahi
+  takitahi i te mate wareware.
+- **Ko te haurua atu anō kāore i whakamāramatia e ēnei tūraru.** Ko te pakeke, ngā
+  ira, me ngā take e kore anō e mōhiotia e ngā kairangahau, ērā te toenga.
 
-## What is the difference between "risk reduction" and "prevention"?
+## He aha te rerekētanga i waenga i te “whakaiti tūraru” me te “aukati”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Whakaiti tūraru** he whakaiti i ngā tūponotanga. Mēnā ka whakaiti te nui o te
+iwi i tō rātou pēhanga toto, he iti ake pea te mate wareware i a rātou mō ngā tau
+maha i te wā e tika ana. Ka pā tonu te mate wareware ki ētahi o taua rōpū.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Aukati** e kī ana kia kore e puta he mea. Mō te mate wareware, kāore e taea e te
+rangahau te oati ki tētahi i tēnei wā.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ka kōrero hoki ngā kairangahau mō te **whakaroa**. E kī ana te Lancet Commission he
+taunakitanga hou e whakaatu ana, ko te whakaiti tūraru ka whakanuia te wā e tīmata
+ai te mate wareware, ā, ka whakaiti te wā e noho ai te tangata me te ngoikoretanga
+hauora. Ahakoa he whakaroa noa iho i ētahi tau, he nui te hua ki te tangata me tōna
+whānau.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+I runga i tēnei pae, ka whakamahi mātou i te “whakaiti tūraru” me te “e hono ana”
+i te mea i whakaaro ai. Ina kite koe i tētahi hua, hōtaka, matūkai rānei e kī ana ka
+“aukati i te Alzheimer's”, whakaarohia me te tūpato. E kī ana te NIA kia whakawhiti
+kōrero ki tētahi ringatoi hauora i mua i te whakamātau i tētahi pire, maimoatanga
+rānei e kī ana ka aukati i te Alzheimer's, nā te mea he morearea pea ēnei hua, he
+moni pau kore, he rua rānei ngā mea e rua.
 
-## What have large trials found?
+## He aha ngā kitenga o ngā whakamātautau nui?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Ka taea e ngā rangahau mātakitaki (ka mātakitaki i ngā mea e pā ana ki ngā tāngata
+i roto i te wā) te whakaatu i ngā hononga. Ko ngā whakamātautau ā-matapōkere, ka
+tohua ngā tāngata ki tētahi hōtaka, ki tētahi rōpū whakataurite ā-matapōkere,
+he whakamātau pakari ake. Anei ngā kitenga o ētahi o ngā whakamātautau rongonui.
 
-### FINGER (Finland)
+### FINGER (Finirangi)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+I whakaurua te whakamātautau FINGER e 1,260 ngā pakeke e 60 ki te 77 ngā tau, he
+tūraru nui ake mō te mate wareware. Ko te haurua i whiwhi i tētahi hōtaka e rua
+tau o ngā tohutohu kai, te mahi tinana, ngā tākaro hinengaro i te rorohiko me ngā
+tirohanga o te ora o te ngākau me ngā kōawa toto; ko te haurua atu i whiwhi i ngā
+tohutohu hauora whānui. Ko te rōpū hōtaka i pai iti ake ki tētahi huinga
+whakamātautau whakaaro, he rerekētanga iti engari he tino tatau i te tātaritanga
+([whakamātautau FINGER i te Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)).
+Ko te whakamātautau i ine i ngā hua whakamātautau, ehara i ngā tohu mate wareware.
 
-### US POINTER (United States)
+### US POINTER (Amerika)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+I whakaurua a US POINTER e 2,111 ngā pakeke e 60 ki te 79 ngā tau kāore e mahi
+tinana ana, he kai kāore i te pai rawa, he tūraru anō hoki. I akiakihia ngā rōpū e
+rua kia mahi tinana, mahi hinengaro anō, kai pai ake, noho pāpori tonu, me te mātaki
+i te ora o te ngākau. Kotahi rōpū i whiwhi i tētahi hōtaka whakahaere, ā, whakaako;
+ko te rōpū anō i ārahi i a rātou anō. I roto i ngā tau e rua, i pai ake ngā hua o
+ngā whakamātautau whakaaro i **ngā rōpū e rua**, ā, he iti ake te pai i te rōpū
+whakahaere ([whakamātautau US POINTER i te JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)).
+E kī ana ngā kaituhi me whai atu anō kia mōhio mēnā he mea nui te rerekētanga i te
+oranga o ia rā. Nā te kore o tētahi rōpū “kāore e mahi ana”, kāore e taea e te
+whakamātautau te kī he aha te nui o te āwhina o ngā hōtaka i te whakatauritea ki te
+kore rerekētanga.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (pēhanga toto)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+Ko SPRINT MIND i tirotiro e 9,361 ngā pakeke o Amerika e 50 ngā tau me runga ake,
+he pēhanga toto teitei. I tohua rātou ki tētahi whāinga pēhanga toto iti ake (te nama
+runga, iti iho i te 120), ki te whāinga noa rānei (iti iho i te 140). Nā te whāinga
+iti ake i iti rawa ai te **raruraru whakaaro iti** (mild cognitive impairment), he
+wāhanga o ngā raruraru maharatanga me te whakaaro ka tae pea ki te mate wareware.
+Mō te **mate wareware tūmanako** (probable dementia), he iti ake ngā keehi i te rōpū
+whāinga iti, engari kāore i tino tatau te rerekētanga. I mutu moata te whakamātautau,
+ā, he iti ake ngā keehi mate wareware i tātarihia i te matapae, nā reira pea he iti
+rawa hei whakautu i tērā pātai
+([SPRINT MIND i te JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ngā mea e kitea ana i ngā arotake
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+I te 2021 i pānuihia e te arotake Cochrane e iwa ngā whakamātautau nui o ngā
+hōtaka e pā ana ki ngā tūraru maha i te wā kotahi, me 18,000 ngā tāngata neke atu.
+I kitea he painga iti ki ngā whakamātautau whakaaro, engari **kāore he rerekētanga
+mārama i te maha o ngā tāngata i pā te mate wareware ki a rātou** i ngā whakamātautau
+e rua i ine i tērā ([arotake Cochrane o ngā hōtaka maha-wāhanga](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+I te 2017 i kitea e te arotake a te National Academies of Sciences, Engineering, and
+Medicine, e whakarāpopotohia ana e te NIA, he taunakitanga “whakamanawa, engari kāore
+anō kia oti” mō ngā huarahi e toru: te whakahaere i te pēhanga toto teitei, te
+whakapiki i te mahi tinana, me te whakangungu hinengaro.
 
-## Does it matter when you start?
+## He nui te take o te wā e tīmata ai?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Ko te tohutohu a te Lancet Commission he whakaiti i ngā tūraru i te wawe rawa, ka
+pupuri iho i te roa rawa atu: “he wawe ake, he pai ake” me “he roa ake, he pai ake”.
+E kī hoki ia, kāore he wawe rawa, kāore he pōturi rawa hei whakaiti i te tūraru. He
+nui te taunakitanga e pā ana ki te haurua o te oranga, tata ki te 40 ki te 65 ngā tau,
+engari ko ētahi take, pērā i te ngoikoretanga tirohanga me te mokemoke pāpori, he
+tūraru o te oranga pakeke, ka taea pea te mahi.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+E kī te pūrongo, he kaha ake te taunakitanga ko te roa o te pā ki tētahi tūraru he
+nui ake te pānga. Hei tauira, ko te mate huka e tīmata ana i te haurua o te oranga,
+he nui ake tōna pānga i te mate huka e tīmata ana i muri ake.
 
-## Is dementia risk the same for everyone?
+## Kei te ōrite te tūraru mate wareware ki ngā tāngata katoa?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Kāo. I kitea e te Commission ko ngā tāngata o ngā whenua whiwhi moni iti, waenga
+rānei, ngā tāngata o ngā rōpū iti, me ngā tāngata he iti te moni, he maha ake ngā
+tūraru e mau ana, nā reira he iti rawa te pakeke o te mate wareware. He hono ēnei
+tūraru ki ngā āhuatanga kāore i whiriwhiria e te tangata, pērā i te kounga o te
+mātauranga i a rātou tamariki, te hau o te wāhi e noho ana rātou, me te āheinga o ngā
+kai hauora ki te utu, ki te tata hoki.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Koia te take e tohu ai ngā tohutohu a te Commission ki ngā kāwanatanga, tae atu ki
+ngā tāngata takitahi: he mātauranga pai mō ngā tamariki katoa, he hau mā, he tikanga
+hei whakaiti i te momi tupeka, he iti ake te huka me te tote i ngā kai e hokona ana ki
+ngā toa me ngā wharekai, me ngā pūrere whakarongo mō te katoa e hiahia ana. He nui te
+mahi a te tangata takitahi, engari he nui hoki te mahi a te ao e noho ai te tangata.
+Tētahi take anō mō te kore whakahē i tētahi takitahi mō te whakatau mate wareware.
 
-## What are the honest limits of this research?
+## He aha ngā whāinga pono o tēnei rangahau?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Ka roa te tupu o te mate wareware**, engari ko te nuinga o ngā whakamātautau e
+  roa ana i te rua ki te rima tau. Ko te ine i te mate wareware anō, ehara i ngā hua
+  whakamātautau anake, ka hiahia ngā rangahau tino roa, tino nui.
+- **Ko te nuinga o ngā whakamātautau e ine ana i ngā hua whakamātautau whakaaro.**
+  Ehara i te mea he pai iti i tētahi whakamātautau tētahi whakaaro, he iti rawa te
+  maha o ngā tāngata ka pā te mate wareware ki a rātou, he māmā ake te oranga o ia rā.
+- **Ko ngā kaiuru he pai ake te hauora, he mātauranga nui atu**, i te iwi whānui.
+  E kī ana te Lancet Commission, ko te nuinga o ngā taunakitanga i ahu mai i ngā whenua
+  whiwhi moni nui, ā, he iti te kanohi o ngā rōpū iti.
+- **Ētahi hononga e rere ana ki ngā taha e rua.** Ko te iti ake o te mahi, o te
+  whakawhanaungatanga rānei he pānga moata pea o te mate wareware, ehara anake he take.
+- **He pōhara ngā taunakitanga kai i tēnei wā.** I kitea i te whakamātautau e toru tau
+  o te kai MIND, kāore he rerekētanga nui i te whakaaro i te kai whakahaere. Titiro ki
+  tō mātou [aratohu kai](/brain-health/diet/).
+- **Kāore i whakaatuhia ngā tākaro roro hei aukati i te mate wareware.** Titiro ki tō
+  mātou aratohu mō [ngā tākaro roro me te mate wareware](/brain-health/brain-games/).
+- **He iti rawa ngā taunakitanga tangata mō te kore kai, ā, he morearea pea ki ngā
+  pakeke.** Titiro ki tō mātou [aratohu kore kai](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Mēnā i mahi tētahi i ngā mea katoa “tika”, he aha i pā tonu ai te mate wareware?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Nā te mea, ehara te mate wareware i te hua noa o ngā whiringa. E kī ana te NIA
+[ko te pakeke te tūraru nui e mōhiotia ana mō te Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ā, kāore tētahi e taea te whakarerekē. He wāhi tō ngā ira. Kāore anō kia mōhiotia e
+ngā kairangahau he aha te take o te Alzheimer's i te nuinga o te tangata. Ahakoa kua
+whakakorea ngā tūraru 14 katoa, ka waiho e te tātaritanga a te Lancet Commission neke
+atu i te haurua o ngā keehi kāore i whakamāramatia.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Nā reira, mēnā kei te tiaki koe i tētahi i mahi tinana, i kai pai, kāore i momi
+tupeka, engari i pā tonu te mate wareware ki a ia, kāore he hē i tōna wāhi, i tō wāhi
+hoki. Mēnā kei te noho koe me te mate wareware, ehara i tō hē. He nui te mamae ngākau
+o ngā whānau mō tērā, engari kāore i tika. Ko te mea nui ināianei ko te whakamārie, te
+whanaungatanga me ngā rā pai, ā, he wāhi pai ō [ngā whakaaro mahi](/activities/ideas/)
+me [te aratohu manaaki-whaiaro mō te kaitiaki](/caregiving/caregiver-self-care/) hei
+tīmatanga.
 
-## What steps can you talk over with a doctor?
+## Ngā mahi hei kōrero ki tō ringatoi hauora
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+He mea rangahaua nuitia ēnei mahi. He mea pai hei kōrero i te wā tirotiro, nā te mea he
+pai ēnei mō te ngākau, te ahua o te ngākau me te mana motuhake, ahakoa he aha te hua
+mō te mate wareware.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Pēhanga toto.** Pātai he aha ō nama, he aha te whāinga e tika ana mō koe. E kī ana
+   te Lancet Commission kia whāia he nama runga 130 neke iho mai i te 40 pea, engari
+   ka whakawhirinaki te whāinga mō te pakeke ki tōna hauora katoa.
+2. **Whakarongo.** Tono i te whakamātautau whakarongo, me te pātai mēnā ka āwhina ngā
+   pūrere whakarongo. Ko tā mātou [aratohu whakarongo](/brain-health/hearing/) e
+   whakamārama ana i ngā rangahau.
+3. **Tirohanga.** Whai ngā tirotiro karu ia wā, me te pātai mēnā ka maimoatia ngā
+   raruraru pērā i ngā katarakiti.
+4. **Kohukohu (cholesterol).** Pātai mēnā me tirotiro tō LDL kōhuru, me mēnā he mea me
+   whakarerekē.
+5. **Huka toto.** Mēnā he mate huka tō, pātai he aha te pai o te whakahaere i tērā.
+6. **Ngākau.** He mea noa te pōuri, ā, ka taea te maimoa. Kīa mai ki tō ringatoi mēnā
+   kua pōuri koe, kua ngoikore te hiahia ki ngā mea, mō te neke atu i tētahi rua wiki.
+7. **Momi tupeka me te waipiro.** Pātai mō te āwhina ki te mutu i te momi tupeka, me ngā
+   rohe haumaru mō te waipiro.
+8. **Nekeneke.** Pātai he aha te mahi tinana e haumaru ana mō koe. Kei
+   [tō mātou aratohu mahi tinana](/brain-health/exercise/) ētahi whakaaro.
+9. **Whakamarumaru upoko.** Mau kāpene mō te eke paihikara me ngā tākaro whakapā, ā,
+   pātai mō te ārai hinga.
+10. **Noho hono tonu.** He wāhanga te wā ki ētahi atu tangata o te oranga hauora. Titiro
+    ki tō mātou aratohu mō [te whanaungatanga pāpori](/brain-health/social-connection/),
+    me [te moe](/brain-health/sleep/) hoki.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+I mua i te whakarerekē i ngā rongoā, kai, matūkai, kore kai, mahi tinana rānei,
+kōrerohia tō ringatoi hauora i mua, otirā mēnā he mate ngākau, he mate huka, he
+hītoria hinga tōu, he mate wareware kē rānei.
 
-## Talk with a doctor
+## Kōrero ki tētahi ringatoi hauora
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Mēnā kei te māharahara koe ki ngā panonitanga o te maharatanga, o te whakaaro rānei,
+i a koe, i tētahi atu rānei, me whakatakoto he wā. E kī ana te NIA
+[he tika ngā raruraru maharatanga ki ētahi take ke](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+pērā i ngā pānga kino o ngā rongoā, ngā raruraru tairongoa, te pōuri, te iti o te huaora
+B12, ā, ka mahue ētahi o ngā raruraru i muri i te maimoatanga o te take. Ko tā mātou
+[aratohu tohu tūpato](/brain-health/warning-signs/) e whakamārama ana he aha ngā mea
+hei titiro atu.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Tonoa he āwhina ohotata** mō ngā panonitanga ohorere: te pōhēhē ohorere, te
+ngoikoretanga, te kore rongo o tētahi taha, te raru kōrero, te mamae upoko nui rānei,
+he tohu pea mō te toke, mō tētahi atu ohotanga rānei. Waea ki te nama ohotata ā-rohe.
 
-## Where Golden Moments fits
+## Ko te wāhi o Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+He mahi tiritahi tāpiri ngā Golden Moments, pērā i [ngā kāri kōrerorero](/games/conversation-cards/),
+[te bingo whakaahua](/games/picture-bingo/) me tētahi [wā hā mārie](/games/calm-breathing/).
+He mea hanga mō te hari me te wā tahi. Ehara ēnei i te maimoatanga, ā, kāore e aukati,
+e whakaroa rānei i te mate wareware.

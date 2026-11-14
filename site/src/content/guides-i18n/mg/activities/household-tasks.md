@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Asa an-trano ho hetsika ho an’ny olona manana dementia"
+seoTitle: "Hetsika an-trano ho an’ny dementia: asa andavanandro"
+description: "Fanamafisana lamba, fandamina sosa, fametrahana latabatra ary fahandro tsotra dia hetsika manan-danja ho an’ny olona manana dementia. Fomba sy fiarovana."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Asa andavanandro toy ny fanaovana lamba fanasana, fandamina sosa, fametrahana
+  latabatra, fanasana latabatra, fandrosoana zavamaniry ary fanampiana amin’ny
+  fahandro tsotra dia mety ho fomba marina hanampiana ho an’ny olona manana
+  dementia. Safidio asa fantany, zarao ho dingana tokana isan’isan-dingana,
+  esory ny loza mahamaina na mafana, ary ankasitraho ny fandraisana anjara
+  noho ny fanaovana azy “marina”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Asa mahazatra dia afaka manampy ny olona hahatsapa fa ilaina sy anisan’ny fianakaviana, izay matetika lehibe kokoa noho ny fahaiza-manao amin’ny asa."
+  - "Zarao ny asa tsirairay ho dingana tokana, asehoy fa aza lazaina fotsiny, ary mangina mitantana ny dingana rehefa sarotra."
+  - "Ario ao amin’ny fitehirizana ny antsy, ny fanadiovana ary ny savony misy hena, ary ampiasao fiarovana amin’ny kofehy hatsaka na fanakatonana ho azy amin’ny fandrahoana."
+  - "Tsy mila averina atao eo anatrehan’ny olona ny lamba fanasana natao. Raha tsy maintsy averina ny zavatra, ataovy any aoriana ary tsy hitan’ny olona."
+  - "Raha mahatonga fahatezerana ny asa, miova amin’ny dingana mora kokoa, andramo indray amin’ny fotoana hafa, na mipetraka fotsiny miaraka."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Inona no asa an-trano azon’ny olona manana dementia atao ihany?"
+    a: "Olona maro mbola afaka mamelatra lamba, mampitovy sosa, mandamina fitaovana fihinanana, mametraka latabatra, mamafa latabatra, mamafa, manapa-kevitra, manorana zavamaniry na mikoroka vilia. Safidio asa izay nataon’ny olona teo aloha ary ampifanarao amin’izay azony atao ankehitriny. Any aoriana, fihetsika iray mitovy, toy ny fanamafisana lamba fanasana, dia mety ampy."
+  - q: "Azo antoka ve ny olona manana dementia hanampy any amin’ny lakozia?"
+    a: "Azo, raha misy fanaraha-maso akaiky sy fandaminana mety. Ataovy any ivelan’ny fahafahana ny antsy, ny fanadiovana ary ny zavatra mafana rehetra, ampiasao fiarovana kofehy hatsaka na fanakatonana ho azy, ary omeo asa azo antoka toy ny fanasana legioma, fikorokoroana na fametrahana vilia. Aza mamela azy irery miaraka amin’ny fandrahoana mihamafana."
+  - q: "Inona raha mamelatra zavatra diso na mampitsiriritra izy?"
+    a: "Avelao izany. Ny tanjona dia ny fotoana miaraka sy ny fahatsapana fa ilaina, fa tsy ny valiny tonga lafatra. Raha tena ilaina ny averina, miandrasa any aoriana ary ataovy rehefa tsy mijery ny olona, mba tsy hahatsapa fa voaneho izy."
+  - q: "Inona raha manao ‘tsia’ izy amin’ny fanampiana?"
+    a: "Ny ‘tsia’ dia mety midika fa sarotra, mampisafotofoto na mahatonga aretina amin’ny asa ankehitriny. Aza manery. Andramo version tsotra kokoa, angataho azy hanaraka anao kely, na angataho indray amin’ny fotoana tsara kokoa amin’ny andro."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Olona maro manana dementia dia niasa nandritra ny taona maro mba hitantana trano, hanaraka fianakaviana na hitazona ny asa tao amin’ny toeram-piasana. Ny fangatahana fanampiana amin’ny asa an-trano marina dia mety milaza hoe “mbola anisan’ity trano ity ianao” amin’ny fomba izay vitan’ny hetsika hafa vitsy. Ity pejy ity dia mampiseho ny asa matetika mety, ny fomba fametrahana azy, ny fomba fanovana azy rehefa miova ny zavatra, ary ny fomba fitazonana ny lakozia sy ny efitrano fanasana ho azo antoka.
 
-## Why do everyday chores work well as activities?
+## Nahoana no mety ho hetsika ny asa andavanandro?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Mety ny asa an-trano satria mahazatra izy ary misy tanjona mazava. Ny National Institute on Aging dia milaza ny fanasana vilia, ny fametrahana latabatra, ny fanafenana, ny fanafoana vovoka, ny fandamina taratasy, ny fanamafisana lamba fanasana ary ny fandamina fako azo averina ho anisan’ny [hetsika andavanandro izay mety ho tian’ny olona manana Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Ny Alzheimer’s Association dia milaza fa asa toy ny fametrahana latabatra dia mety manampy olona hahatsapa fa [ilaina ho anisan’ny fianakaviana](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Asa an-trano iray koa dia manana antony mazava hanombohana. “Afaka manampy ahy amin’ireo lamba fanasana ve ianao?” dia mora kokoa ho an’ny fanekena noho ny “Tianao hanao hetsika ve?”
 
-## Which household tasks are good to try?
+## Inona no asa an-trano tsara andramana?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Atombohy amin’ny asa nataon’ny olona teo aloha, avy eo ampifanaraho amin’izay azony atao androany.
 
-### Laundry and linens
+### Lamba sy lamba fandriana
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Fanamafisana lamba fanasana sy lamba fanasan-tanana.** Omeo korintsaina lamba kely, maivana. Ny lamba fanasana dia mora: tsy misy fomba diso amin’ny fanamafisana iray.
+- **Fampitovy sosa.** Apetraho latabatra ny lafiny vaventy sosa samy hafa. Raha sarotra ny mahita mitovy, ampiasao sosa roa na telo lokony samy hafa be.
+- **Fanamafisana sy fametrahana an-tsokajy.** Kapoka lamba fanasana, lamba fandriana na lamba fanasana vilia dia azo amafisina ary atao an-tsokajy. Mahomby izany any aoriana, rehefa lasa be dia be ny dingana ny fanamafisana.
 
-### Table and kitchen
+### Latabatra sy lakozia
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Fametrahana latabatra.** Asehoy iray fametrahana ho modely ary avelao ny olona hanakaiky azy. Raha be loatra izany, omeo zavatra tsirairay: “Ity fanasana ho an’ny kapoka tsirairay.”
+- **Fandamina fitaovana fihinanana.** Ampifangaroy fanasana madio, lovia kely ary antsy fanaovana vodilanana ao amin’ny vata, avy eo mandamina azy ao amin’ny tavoahangy misy zaridaina. Avelao ny antsy mahamaina ivelany.
+- **Fanamainana kapoka.** Ny kapoka plastika na tsy mety torotoro sy lamba malemy dia mahatonga izany ho asa azo antoka.
+- **Fanasana latabatra na lakozia.** Rano mando sy efitra madio. Ny Alzheimer’s Association dia manoro hevitra ny hanolorana lamba raha efa manasa latabatra amin’ny tanana ny olona, mba hanovana ny hetsika tsy mitsahatra ho zavatra manan-tanjona.
 
-### Around the house
+### Ao an-trano
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Fanafoana vovoka.** Lamba malemy sy latabatra vitsivitsy matanjaka, toy ny latabatra kafe na rakitra boky.
+- **Fandamina taratasy.** Omeo taratasy tsy ilaina sy katalaogy handamina ho an-tsokajy: hitazona, hanala, hiverina mandeha vao misokatra. Tazomina any amin’ny toerana hafa ny vola kendrena sy ny sheky marina.
+- **Fandamina fako azo averina.** Vilia, tavoahangy ary taratasy madio ho amin’ny tahiry misaraka.
+- **Fanafenana.** Balai kely eny amin’ny patio na amoron-trano, raha tsara ny fahamatorana.
+- **Fampiroboroboana zavamaniry.** Vilia kely maivana sy zavamaniry vitsivitsy eo akaiky.
 
-### Simple cooking with supervision
+### Fahandro tsotra miaraka amin’ny fanaraha-maso
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Ny fahandro dia mety hamerina fahatsapana mahafinaritra mafy. Ny NIA dia manoro hevitra ny hanampiana ny olona hangatsiaka akora, hanisa, hifangaro ary hanandrana, na tsotra ny hilaza amin’ny hafa ny fomba fanaovana sakafo tiana. Asa tsara ireto:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- manasa legioma na voankazo
+- manetsika ranom-bary na salad mangatsiaka
+- mamaky laitiaka
+- manao dibera amin’ny lovia tsy mahamaina
+- mametraka ranom-bary cookies amin’ny tapa-kazo
+- mametraka fanampiana amin’ny pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Raha sarotra ny fanandranana, ny Alzheimer’s Association dia manoro hevitra ny hamitanao ny fanandranana, avy eo omeo dingana hafa, toy ny fanetsehana.
 
-## How do I set up a chore so it goes well?
+## Ahoana no fomba hanaovana asa mba hahomby?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Misafidiana fotoana mety.** Safidio ny ampahan’ny andro izay matetika mangina sy miala hery ny olona. Ho an’ny olona maro dia ny maraina.
+2. **Diovy ny toerana.** Asa iray, fitaovana iray, tsy misy zavatra hafa eo amin’ny latabatra.
+3. **Angataho, fa aza omena andraikitra mivantana.** “Mila fanampiana amin’ireto aho” dia tsara kokoa noho ny “Ny fotoana hamafisana ny lamba izao”.
+4. **Asehoy ny voalohany.** Mamafisa lamba iray miadana, avy eo omeo ny manaraka. Ny fampisehoana dia mazava kokoa noho ny fanazavana.
+5. **Omeo dingana tokana isaky ny fotoana.** Ny toromarika maro indray mandeha dia mety hanakorontana. Miandrasa hahavitan’ny dingana iray vao milaza ny manaraka.
+6. **Miasa eo akaiky.** Ny asa mitovy atao eo akaiky dia mahatsapa ho fiaraha-monina, fa tsy fanaraha-maso.
+7. **Miresaha momba ny asa, fa tsy ny valiny.** “Malemy be ireto” na “Lazao ahy ny fomba nitahirizanao ny efitrano lamba fandriana” dia mampiroboroba resaka tsy misy fitsapana an’iza na iza.
 
-## How do I adapt chores as abilities change?
+## Ahoana no fomba hanovana asa an-trano rehefa miova ny heriny?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Miova amin’ny fotoana ny hery, ary eny na dia isan’andro aza. Ny Alzheimer’s Association dia manoro hevitra ny hifindra amin’ny asa tsotra kokoa sy mitovy matetika rehefa mandroso ny aretina.
 
-| If this has become hard | Try this instead |
+| Raha efa sarotra izao | Andramo izao ho solony |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Fanamafisana fandriana lehibe | Fanamafisana lamba fanasan-tanana na fanamafisana kapoka lamba fanasana |
+| Fametrahana latabatra feno | Fametrahana kapoka iray eo amin’ny seza tsirairay |
+| Fandamina taratasy ho an-tsokajy | Fametrahana tarika ho an’ny vondrona iray |
+| Manaraka fandaharana sakafo | Fanetsehana, na fijery sy fakana tsakitra rehefa mahandro ianao |
+| Fanafenana efitra manontolo | Fanasana latabatra kely iray |
+| Tsy manao asa akory | Mipetraka miaraka aminao sy mifanakalo resaka rehefa manao izany ianao |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Ny fijery dia mitovy amin’ny fandraisana anjara. Ny NIA dia manamarika fa misy olona tia mijery fotsiny, ary izany dia fomba tsara handraisana anjara.
 
-## How do I keep household tasks safe?
+## Ahoana no fomba hitazonana ny asa an-trano ho azo antoka?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Ny fiarovana no voalohany, indrindra ao amin’ny lakozia. Ny [torolalana momba ny fiarovana ao an-trano ho an’ny mpikarakara Alzheimer avy amin’ny NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) dia misy:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Akatony na esory ny savony fanadiovana, anisan’izany ny pods savony fanasana, izay mety hitovy amin’ny sakafo.
+- Mitahiry antsy, fasana ary milina herinaratra ao amin’ny toerana akatona.
+- Ampio fiarovana kofehy sy fanakatonana ho azy amin’ny fandrahoana.
+- Apetraho ny famantarana “Mitsahatra” na “Mafana be” eo akaiky ny adiabe, ny toaster ary ny vilona, ary apetraho toy izay tsy ahafahan’ny afo mandoro azy.
+- Ataovy ny mpanafana rano ho 120°F mba hampihenana ny loza mandoro.
+- Esory ny voankazo sy ny aimanta endrika sakafo, izay mety ho toy ny azo hanina.
 
-A few more practical habits help:
+Fomba fanao vitsivitsy hafa koa manampy:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Zava-tsy mampiditra ny efitra rehefa ampiasaina ny lakozia, ny adiabe na fitaovana mahamaina.
+- Ampiasao kapoka tsy mety torotoro amin’ny fanasana sy fametrahana latabatra.
+- Tazomina madio sy malalaka ny tany rehefa mamafa na manasa.
+- Raha nampiasa fitaovana ny olona teo aloha, ny Alzheimer’s Association dia manoro hevitra ny hanesorana zavatra mampidi-doza ao amin’ny atrikasa mba ho afaka ihany ny asa azo antoka, toy ny fanenjehana vato hazo.
 
-## What if they do it "wrong"?
+## Inona raha manao izany ‘diso’ izy?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Avelao izany. Lamba natao telo ampahany fa tsy roa dia mbola lamba voafafa ihany. Ny Alzheimer’s Association dia milaza mazava: ny zava-dehibe dia ny fandaniana fotoana miaraka sy ny fahatsapan’ny olona fa ilaina, fa tsy ny hoe marina ny fanamafisana ny lamba. Raha tena ilaina ny averina, miandrasa any aoriana ary ataovy ao anaty tsy hitan’ny olona.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Ny fanitsiana amin’ny fotoana dia mety mampiova asa mahafinaritra ho fampahatsiahivana izay very. “Misaotra, lehibe ny fanampiana” no matetika tokony holazaina.
 
-## When should we stop?
+## Oviana no tokony hijanona?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Ajanony na ovao rehefa hitanao famantarana fahatezerana, reraka na tsy liana intsony. Ny fanapahana aloha dia valiny tsara, tsy fahadisoana. Azonao atao:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- ny miova amin’ny dingana mora kokoa
+- ny miala amin’ny zavatra mampionona, toy ny mozika na kafe iray kapoka
+- ny andramo indray any aoriana na amin’ny andro hafa
+- ny mipetraka fotsiny miaraka
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Raha manao “tsia” ny olona, aza manery. Jereo ny [inona no ataoko rehefa manao “tsia” izy](/caregiving/when-they-say-no/) ho an’ny fomba malemy hamaly.
 
-## Low-effort extras for a quieter moment
+## Hetsika ambany fanandramana ho an’ny fotoana mangina
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Rehefa tsy azo atao ny asa ara-batana, ny fandamina sy ny fampitovy dia azo atao mipetraka. [Mandamina miaraka](/games/sort-together/) dia ahafahanao mikitika sary ao amin’ny vata ho an’ny lakozia na zaridaina, ary [fitambarana sary](/games/picture-pairs/) dia lalao fifanarahana malemy miaraka amin’ny sary lehibe ary tsy misy famaranana fotoana. [Karatra fifampiresahana](/games/conversation-cards/) dia manana fanontaniana malalaka momba ny trano sy ny fianakaviana, izay mifanaraka amin’ny kafe aorian’ny asa.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Ho an’ny fomba hampidirana asa an-trano ao amin’ny andro, jereo ny torolalanay momba ny [fandaharam-andro andavanandro mangina](/activities/daily-routine/). Ho an’ny hevitra bebe kokoa araka ny dingana, jereo ny [hetsika amin’ny sehatra antonony](/activities/middle-stage/).

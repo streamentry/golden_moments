@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Attivitajiet sensorji għal persuni bid-dimenzja"
+seoTitle: "Attivitajiet sensorji tad-dimenzja: Ideat u sikurezza"
+description: "Attivitajiet sensorji għal persuni li qed jgħixu bid-dimenzja, minn massaġġ tal-idejn sa drapp rqiq u ħsejjes naturali, b’noti ċari dwar is-sikurezza."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  L-attivitajiet sensorji jużaw il-ħwas: tqanqil, riħa, togħma, ħoss u ħarsa. Massaġġ bil-mod
+  tal-idejn, basket ta’ drappijiet rqaq, ħwawar frisk għar-riħa, ħsejjes naturali jew ħarsa lejn
+  għasafar minn tieqa. Jaħdmu f’kull stadju u huma partikolarment siewja iktar tard. Iċċekkja
+  l-ewwel għar-riskji tal-soffokazzjoni, l-allerġiji, il-problemi tal-ġilda u s-sensittività għar-riħa,
+  ipprova oġġett wieħed kull darba, u waqqaf jekk il-persuna tidher inkwieta.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "L-attivitajiet sensorji m’għandhomx tweġibiet korretti, għalhekk jaħdmu f’kull stadju, anke fis-sodda jew fuq siġġu."
+  - "Offri sens wieħed kull darba f’kamra kwieta, u staqsi jew ħabbar qabel ma tmiss."
+  - "Evita oġġetti żgħar u kull ħaġa li tidher jew tirrieħ bħal ikel meta mhux ikel, għax in-nies jistgħu jqiegħdu affarijiet f’fommhom."
+  - "Iċċekkja għal allerġiji, problemi tal-ġilda u problemi tan-nifs qabel tuża lozzjonijiet, riħiet jew ikel."
+  - "M’hemm l-ebda evidenza konvinċenti li l-aromaterapija tgħin is-sintomi tad-dimenzja; uża riħiet biss għall-pjaċir sempliċi, jekk xejn."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "X’inhuma attivitajiet sensorji tajbin għal persuna bid-dimenzja?"
+    a: "Ideat sempliċi jinkludu massaġġ bil-mod tal-idejn bil-krema, mess ta’ drappijiet rqaq, riħa ta’ ħwawar frisk jew kafè, smigħ ta’ mużika favorita jew ħsejjes naturali, ħarsa lejn għasafar jew akkwarju tal-ħut, u togħma ta’ ikel favorit f’konsistenza sikura. Offri ħaġa waħda kull darba u ara kif tirrispondi l-persuna."
+  - q: "L-attivitajiet sensorji huma sikuri għal persuna li tqiegħed affarijiet f’fommha?"
+    a: "Jistgħu jkunu, b’attenzjoni. Uża biss oġġetti kbar li ma jistgħux jinbelgħu, evita kull ħaġa żgħira jew li tinkiser, u żomm il-krema, is-sapuni u l-prodotti bir-riħa fejn ma jilħqux wara, għax jistgħu jidhru jew jirrihu bħal ikel. Oqgħod mal-persuna matul kollox."
+  - q: "L-aromaterapija tgħin lid-dimenzja?"
+    a: "Cochrane sab li m’hemm l-ebda evidenza konvinċenti li l-aromaterapija tgħin lil persuni bid-dimenzja, għalkemm l-istudji kienu żgħar u inkonsistenti. Jekk il-persuna tgawdi riħa ħafifa u familjari, dan huwa tajjeb, imma evita żjut essenzjali qawwija, speċjalment madwar problemi tan-nifs jew allerġiji."
+  - q: "X’inhu fidget jew grembiul tal-attività?"
+    a: "Hija biċċa drapp, grembiul jew kuperta għall-irkupptejn b’oġġetti li jinħadmu msewwija sew fuqha, bħal buttuni kbar, żippijiet, ribbons u biċċiet b’teksturi differenti. Tagħti lill-idejn okkupati xi ħaġa x’jesplorawh. Iċċekkjah spiss għal kull ħaġa mhux imwaħħla li tista’ titneħħa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+L-attivitajiet sensorji jużaw il-ħames sensi: tqanqil, riħa, togħma, ħoss u ħarsa. Ma jeħtieġux memorja, passi jew tweġibiet korretti, għalhekk jistgħu jaħdmu f’kull stadju. Huma l-aktar siewja iktar tard. L-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) jgħid li fl-istadju tardiv id-dinja tiġi esperjenzata l-aktar permezz tal-ħwas, u li tista’ turi kura permezz tat-tqanqil, il-ħoss, il-ħarsa, it-togħma u r-riħa. Ftit kontrolli ta’ sikurezza jagħmlu dawn l-attivitajiet relaxanti għal kulħadd.
 
-## What are sensory activities for dementia?
+## X’inhuma l-attivitajiet sensorji għad-dimenzja?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Attivitajiet sensorji huma esperjenzi sempliċi mibnija madwar sens wieħed kull darba, bħal li tħoss drapp, tixxomm ħwawar jew tisma’ x-xita. In-[NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) jgħid li l-attivitajiet tal-istadju tardiv spiss jeħtieġ li jiffokaw fuq il-ħwas, u jsemmi mużika, oġġetti biex jinħassu u jinħadmu, u massaġġ tal-idejn. L-[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) jgħid li n-nies fl-istadju tardiv spiss ikollhom bżonn qawwi li jżommu xi ħaġa qrib għall-kumdità.
 
-## Sensory ideas, sense by sense
+## Ideat sensorji, sens b’sens
 
-### Touch
+### Tqanqil
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Massaġġ tal-idejn.** Saħħan ftit krema f’idejk u mexxi bil-mod mill-pols sa tarf is-swaba’. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) jsemmi massaġġ b’krema bla riħa għall-kumdità.
+- **Basket ta’ drappijiet.** Kwadri kbar ta’ velluto, kordura, fliż, satin u suf biex jitqanqlu, jitwew u jitkellmu dwarhom.
+- **Drapp tal-ħasil sħun.** Drapp sħun u mxarrab għall-idejn f’jum kiesaħ. Ittestja t-temperatura fuq il-polz tiegħek l-ewwel.
+- **Grembiul jew kuperta tal-attività.** Buttuni kbar, żippijiet, ribbons u biċċiet b’teksturi differenti, mwaħħlin sew.
+- **Tqaxxir u tlissir.** Basket ta’ drappijiet tal-ħasil jew tuwali nodfa biex jitqaxxru, jitlissru u jerġgħu jitqaxxru.
+- **Xi ħaġa rqiqa biex iżommha.** Kuperta tal-fliż, ċuċkuna jew annimal tad-drapp realistiku. Offruha sempliċi, qatt bħala ġugarell, u aċċetta l-“le”.
 
-### Smell
+### Riħa
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Ħwawar frisk.** Ħakka weraq tal-menta, tar-rożmarinu, tal-bażilikum jew tal-lavanda bejn is-swaba’ u għaddihom taħt l-imnieħer.
+- **Riħiet tal-kuċina.** Kafè li qed jitħejja, ħobż li qed jinxtama, qoxra tal-kannella jew larinġ li qed jitqaxxar ħdejn.
+- **Fjuri.** Ġib ftit fjuri frisk mill-ġnien jew mill-ħanut.
+- **Prodott familjari.** Is-sapun jew il-krema li dejjem użaw, jekk il-ġilda tagħhom tittollerahom.
 
-### Taste
+### Togħma
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Togħma favorita.** Mgħarfa żgħira ta’ xi ħaġa li jħobbu, bħal applesauce, pudding jew ġelat, f’konsistenza li jistgħu jmexxu bi sikurezza.
+- **Għajnuna bil-ħami.** Tiġbed togħma ta’ frotta jew ftit frosting waqt li tagħmlu l-ħelu flimkien.
+- **Ħlewwiet staġonali.** Dellewħ fis-sajf, ċidru sħun fil-ħarifa, imqiegħed f’temperatura sikura.
 
-### Sound
+### Ħoss
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Mużika favorita.** Kanzunetti familjari b’volum ħafif; ara [attivitajiet tal-mużika](/activities/music/).
+- **Ħsejjes naturali.** Xita, mewġ jew għasafar. In-NIA jgħid li l-mużika, il-white noise u l-ħsejjes naturali jidher li jirrilassaw xi nies.
+- **Leħnek.** Qari b’leħen għoli, dnin jew tgħid storja.
+- **Strumenti sempliċi.** Tamburin tal-idejn, shaker jew kampanella biex tidoqq flimkien mal-mużika.
 
-### Sight
+### Ħarsa
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Ħares mit-tieqa.** Xkaffa tal-għasafar barra mit-tieqa, tfal li jimxu lejn id-dar, jew borra li taqa’.
+- **Akkwarju jew vidjo bil-mod.** Moviment ħafif mingħajr storbju qawwi.
+- **Ritratti kbar.** Ritratt ċar wieħed kull darba, miżmum fil-livell tal-għajnejn.
+- **Kulur u disinn.** Iqsmu biċċiet ta’ drapp kuluri, fjuri jew nipkinzi kuluri, jew paġna sempliċi tal-kulur minn [paġni tal-kulur](/games/coloring/) tagħna.
+- **Barra.** In-NHS jissuġġerixxi ġonna sensorji b’pjanti li jagħtu riħa, teksturi u karatteristiċi tal-ilma. Ara [attivitajiet barra u tal-ġnien](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Kif tagħmel kaxxa sensorja
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Agħżel tema** marbuta mal-ħajja tal-persuna: il-bajja, il-ġnien, il-kuċina, il-workshop, il-ħjata.
+2. **Agħżel ħames jew sitt oġġetti kbar u sikuri,** bħal qoxra kbira ta’ ħuta, mgħarfa tal-injam, xalpa rqiqa, borża żgħira bil-lavanda niexfa magħluqa, jew blokka injam lixxa.
+3. **Iċċekkja kull oġġett** għal partijiet żgħar, truf qorrieqa, ħjut mhux imwaħħlin u kull ħaġa li tinkiser.
+4. **Ħu oġġett wieħed kull darba.** Aqsmu, iddeskrivih, u ħalli l-persuna tesplora.
+5. **Erġa’ poġġi l-kaxxa lura wara.** Hekk tibqa’ speċjali u l-oġġetti jiġu ċċekkjati mill-ġdid qabel il-ġurnata li jmiss.
 
-## Safety first
+## Sikurezza l-ewwel
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+L-attivitajiet sensorji huma ħfief, imma xi riskji jiswew. Xi nies bid-dimenzja jaħsbu li oġġett li mhux ikel huwa ikel, u l-ibliegħ jista’ jsir diffiċli maż-żmien; in-NIA iwissi li problemi tal-ibliegħ fl-istadju tardiv iżidu r-riskju ta’ soffokazzjoni.
 
-| Risk | What to do |
+| Riskju | X’tagħmel |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Soffokazzjoni | Uża biss oġġetti kbar biżżejjed biex ma jinbelgħux. Ebda buttuni, ħaraz, muniti, ballunċini jew logħob żgħar mhux imwaħħlin f’kaxxa. Offri ikel biss f’konsistenzi li t-tim tal-kura jgħid li huma sikuri. |
+| Affarijiet li jidhru bħal ikel | In-NIA jagħti parir biex tagħlaq il-lozzjonijiet, is-sapuni, ix-xampuwijiet u l-profum, li jistgħu jidhru jew jirrihu bħal ikel, u tneħħi frotta artifiċjali. Poġġi l-prodotti sensorji lura wara l-użu. |
+| Allerġiji | Iċċekkja għal allerġiji għall-ġewż, il-latex, is-suf, pjanti jew ir-riħiet qabel tibda. |
+| Riħiet qawwija | Evita profumi qawwija u żjut essenzjali, speċjalment b’asma jew problemi oħra tan-nifs. Riħiet ħfief u naturali huma aktar sikuri. |
+| Ġilda | Iċċekkja għal ġilda maħmuġa, maqtugħa jew fraġli qabel massaġġ. Uża pressjoni ħafifa u waqqaf jekk jagħmlu wiċċ ta’ uġigħ. |
+| Temperatura | Ittestja drapp sħun u xorb fuq il-polz tiegħek l-ewwel. |
+| Oġġetti qorrieqa jew tossiċi | Ebda għodod qorrieqa, ħġieġ jew materjal tossiku tal-kraft. |
 
-## Does aromatherapy help?
+## L-aromaterapija tgħin?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Probabbilment le b’mod li jitkejjel. [Review ta’ Cochrane dwar l-aromaterapija għad-dimenzja](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) qies 13-il studju b’708 persuni, kollha f’djar tal-kura, u sab li m’hemm l-ebda evidenza konvinċenti ta’ benefiċċju. L-istudji kienu żgħar, ir-riżultati ma qablux, u l-effetti sekondarji kienu rappurtati ħażin. Jekk il-persuna tgawdi riħa ħafifa u familjari, bħal lavanda mill-ġnien, dan huwa raġuni tajba biex taqsmu. Mhux trattament.
 
-## How to offer a sensory activity
+## Kif toffri attività sensorja
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Agħżel mument kwiet** u itfi t-TV.
+- **Iqarreb mill-quddiem,** għid isimha, u staqsi jew għid qabel ma tmissha: “Għandi ftit krema. Tixtieqx massaġġ fl-idejn?”
+- **Offri ħaġa waħda kull darba** biex ma tkunx sopraffatta.
+- **Oqgħod attent għar-reazzjoni.** Wiċċ irqaq, idejn rilassati jew ibtissima huma sinjali tajbin. Ġbid lura, tgħawwiġ jew inkwiet ifissru waqqaf.
+- **Żommha qasira.** Ħames minuti kwieti huma sessjoni tajba.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Waqfa ta’ nifs flimkien, bħal [nifs kalm](/games/calm-breathing/), tista’ tkun mod ġentili biex tispiċċa. Għal aktar ideat qrib is-sodda, ara [attivitajiet għall-istadju tardiv](/activities/late-stage/), u għall-inkwiet tal-għaxija, ara [l-inkwiet tal-aħħar tal-ġurnata](/caregiving/late-day-restlessness/).

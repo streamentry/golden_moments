@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "සමාජ සම්බන්ධතාවය සහ මොළයේ සෞඛ්‍යය: තනිකම, හුදකලාව සහ ඩිමෙන්ශියාව"
+seoTitle: "තනිකම, සමාජ හුදකලාව සහ ඩිමෙන්ශියා අවදානම"
+description: "තනිකම සහ සමාජ හුදකලාව ඩිමෙන්ශියා අවදානමට සම්බන්ධ වන ආකාරය, US Surgeon General උපදේශනය කී දේ, සහ එකට සම්බන්ධව සිටීමට සරල ක්‍රම."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  වයස්ගත වියේ සමාජ හුදකලාව සහ තනිකම ඩිමෙන්ශියා අවදානම වැඩි වීමක් සමඟ සම්බන්ධ බව පර්යේෂණ පෙන්වයි. 2024 ලැන්සට් කොමිෂන් සභාව ගණන් බලන්නේ හුදකලාව රෝග සිදුවීම්වලින් දළ වශයෙන් 5%ක් සඳහා වගකිව හැකි බවයි, එහෙත් සම්බන්ධයෙන් කොටසක් මුල් ඩිමෙන්ශියාව නිසා ඇති වන ඈත්වීම විය හැක. සම්බන්ධ වී සිටීම, සහභාගී වන විනෝදාංශ සහ ශ්‍රවණ සඳහා උදව් කිරීම සියල්ල සම්බන්ධතාවයට සහාය වේ. ඩිමෙන්ශියාව සහිත අයට, එකට කරන ක්‍රියාකාරකම් ප්‍රීතිය සහ ජීවන තත්ත්වය සඳහා වැදගත් වේ.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "ලැන්සට් කොමිෂන් සභාව වයස්ගත වියේ සමාජ හුදකලාව, වෙනස් කළ හැකි ඩිමෙන්ශියා අවදානම් සාධක 14න් එකක් ලෙස, රෝග සිදුවීම්වලින් දළ වශයෙන් 5%ක් සමඟ ලැයිස්තු කරයි."
+  - "යුඑස් Surgeon General ගේ 2023 උපදේශනය, දීර්ඝකාලීන තනිකම සහ හුදකලාව, වැඩිහිටියන්ගේ ඩිමෙන්ශියා අවදානම දළ වශයෙන් 50%කින් වැඩි වීමක් සමඟ සම්බන්ධ කළේය."
+  - "මෙම සාක්ෂියෙන් බොහොමයක් නිරීක්ෂණ අධ්‍යයනයන් ය, සහ මුල් ඩිමෙන්ශියාව ම මිනිසුන් ඈත් කර ගැනීමට හේතු විය හැක."
+  - "ශ්‍රවණ සහ දෘෂ්ටි ගැටළු, තනිව ජීවත් වීම සහ සැලකිලිමත් වීම, හුදකලාවේ අවදානම වැඩි කරයි."
+  - "ඩිමෙන්ශියාව සහිත අයට, රසවත් එකට ක්‍රියාකාරකම් ජීවන තත්ත්වයට සහාය වේ; ඉලක්කය සම්බන්ධතාවයයි, කාර්ය සාධනය නොවේ."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "තනිකම ඩිමෙන්ශියාවට හේතු වේද?"
+    a: "ඒ බව ඔප්පු වී නැත. බොහෝ අධ්‍යයන තනිකම සහ හුදකලාව ඩිමෙන්ශියා අවදානම වැඩි වීමක් සමඟ සම්බන්ධ කරයි, එහෙත් මුල් මොළ වෙනස්කම් මිනිසුන් අන් අයගෙන් ඈත් වීමට ද හේතු විය හැක. සම්බන්ධව සිටීම මනෝභාවයට සහ සෞඛ්‍යයට තවත් බොහෝ ප්‍රතිලාභ ඇති බැවින්, කෙසේ වුවත් එයට සහාය දීම වටී."
+  - q: "තනිකම සහ සමාජ හුදකලාව අතර වෙනස කුමක්ද?"
+    a: "සමාජ හුදකලාව යනු නිතිපතා අන්තර්ක්‍රියා කළ හැකි පුද්ගලයන් ස්වල්පයක් සිටීමයි. තනිකම යනු හුදකලාව හෝ වෙන් වී සිටීමේ වේදනාකාරී හැඟීමයි. ඔබට තනිව ජීවත් වුවද තනිකම නොදැනිය හැක, නැතහොත් මිනිසුන් මැද සිටිය ද තනිකම දැනිය හැක."
+  - q: "ඩිමෙන්ශියාව ඇති මාපියෙකුට සම්බන්ධව සිටීමට මම උදව් කළ හැක්කේ කෙසේද?"
+    a: "කෙටි, නිත්‍ය සම්බන්ධතා හොඳින් ක්‍රියා කරයි. සති පතා නියම ඇමතුමක් හෝ වීඩියෝ චැට්, මුළුතැන්ගෙයි මේසයේ එකට ක්‍රියාකාරකමක්, memory cafe එකක්, හෝ සුරතලෙකු හෝ මුනුපුරෙකු/මිනිබිරියෙකු සමඟ සංචාරයක් උත්සාහ කරන්න. කණ්ඩායම් කුඩාව සහ නිශ්ශබ්දව තබා, වේගය පුද්ගලයා තීරණය කළ ඉඩ දෙන්න."
+  - q: "හුදකලා වැඩිහිටියෙකුට දේශීය උදව් කොහෙන් සොයා ගත හැකිද?"
+    a: "Eldercare Locator, රජයේ සේවාවක්, පවුල් දේශීය වයස්ගතභාව ආයතන සහ ප්‍රජා වැඩසටහන් සමඟ සම්බන්ධ කරයි. එය 800-677-1116 අංකයෙන් හෝ eldercare.acl.gov හරහා ලබා ගත හැකිය."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+මිනිසුන් සහකාරත්වය සඳහා නිර්මාණය වී ඇති අතර, එය වයස සමඟ වෙනස් නොවේ. වයස්ගත වියේ තනිකම සහ සමාජ හුදකලාව ඩිමෙන්ශියා අවදානම වැඩි වීමක් මෙන්ම හෘද රෝග සහ විෂාදය සමඟද සම්බන්ධ බව පර්යේෂණ සම්බන්ධ කරයි. ඒ සම්බන්ධයෙන් කොපමණ කොටසක් හේතුව සහ ප්‍රතිඵලය දැයි පර්යේෂණයට තවම කිව නොහැක. මෙම පිටුව සාක්ෂි පෙන්වන දේ, එකට සම්බන්ධව සිටීමට ප්‍රායෝගික ක්‍රම, සහ ඩිමෙන්ශියාව දැනටමත් ඇති අයට එකට ක්‍රියාකාරකම් එතරම් වැදගත් වන්නේ ඇයි දැයි ආවරණය කරයි.
 
-## Are loneliness and isolation linked with dementia?
+## තනිකම සහ හුදකලාව ඩිමෙන්ශියාවට සම්බන්ධද?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+ඔව්, බොහෝ අධ්‍යයන ඒවා සම්බන්ධ කරයි, එහෙත් සම්බන්ධතාවයේ දිශාව සම්පූර්ණයෙන් පැහැදිලි නොවේ. [2024 ලැන්සට් කොමිෂන් සභාව](https://doi.org/10.1016/S0140-6736(24)01296-0) වයස්ගත වියේ සමාජ හුදකලාව වෙනස් කළ හැකි අවදානම් සාධක 14න් එකක් ලෙස ලැයිස්තු කරයි. [වාර්තාවේ UCL සාරාංශය](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) එය ලොව පුරා ඩිමෙන්ශියා රෝග සිදුවීම්වලින් දළ වශයෙන් 5%ක් ලෙස තබයි.
 
-What the evidence shows:
+සාක්ෂි පෙන්වන දේ:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **අඩු සම්බන්ධතාවය, ඉහළ අවදානම.** කොමිෂන් සභාව අඩු වාර ගණනක් සමාජ සම්බන්ධතා ඩිමෙන්ශියා ඉහළ අවදානමක් සමඟ සම්බන්ධ කළ සමාලෝචන දෙකක් විස්තර කරයි. එකක් දළ වශයෙන් 57%ක ඉහළ අවදානමක් සොයා ගත් අතර අනෙකා දළ වශයෙන් 18%ක් සොයා ගත්තේය.
+- **තනිකමද.** විසන්ධි වී ඇති බව දැනීම වන තනිකම, අධ්‍යයන කිහිපයක් හරහා ඩිමෙන්ශියා ඉහළ අවදානමක් සමඟද සම්බන්ධ විය.
+- **Surgeon General ගේ අදහස.** 2023 මැයි මාසයේදී, US Surgeon General [තනිකම සහ හුදකලාව පිළිබඳ උපදේශනයක්](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) නිකුත් කළේය. දීර්ඝකාලීන තනිකම සහ හුදකලාව වැඩිහිටියන්ගේ ඩිමෙන්ශියා අවදානම දළ වශයෙන් 50%කින් වැඩි කළ හැකි බව එය සඳහන් කරයි. එය දුර්වල සමාජ සම්බන්ධතාවය හෘද රෝග අවදානමේ 29%ක් වැඩි වීම සහ ස්ට්‍රෝක් අවදානමේ 32%ක් වැඩි වීම සමඟද සම්බන්ධ කළේය.
+- **එය කොතරම් පොදුද.** [ජාතික විද්‍යා ඇකඩමි වාර්තාවක්](https://www.ncbi.nlm.nih.gov/books/NBK557972/) සොයා ගත්තේ, ප්‍රජාව තුළ ජීවත් වන, වයස 65 සහ ඊට වැඩි ඇමරිකානුවන්ගෙන් දළ වශයෙන් 24%ක් සමාජයෙන් හුදකලා බවයි.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+වැදගත් අනතුරු ඇඟවීමක්: ලැන්සට් කොමිෂන් සභාව සඳහන් කරන්නේ, ඩිමෙන්ශියාව හඳුනා නොගත් මුල් අවධියේදී මිනිසුන් සමාජ ක්‍රියාකාරකම් අඩු කළ හැකි බවයි. එනම් සම්බන්ධයෙන් සමහරක් ඈත්වීම අවදානම වැඩි කරන නිසා පමණක් නොව, ඩිමෙන්ශියාව ඈත්වීම ඇති කිරීම විය හැක. මෙම සාක්ෂියෙන් බොහොමයක් පැමිණෙන්නේ නිරීක්ෂණ අධ්‍යයනවලිනි.
 
-## What is the difference between loneliness and isolation?
+## තනිකම සහ හුදකලාව අතර වෙනස කුමක්ද?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[ජාතික වයෝවෘද්ධ ආයතනය (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) මෙය මෙසේ පැහැදිලි කරයි. **සමාජ හුදකලාව** යනු නිතිපතා අන්තර්ක්‍රියා කළ හැකි සමාජ සම්බන්ධතා ස්වල්පයක් තිබීමයි. **තනිකම** යනු තනිව හෝ වෙන් වී සිටීමේ වේදනාකාරී හැඟීමයි. කෙනෙකුට සතුටින් තනිව ජීවත් විය හැක, සහ කෙනෙකුට පිරුණු කාමරයක් මැද සිටියද තනිකම දැනිය හැක.
 
-The NIA lists factors that raise the risk of both:
+NIA ඒ දෙකේම අවදානම වැඩි කරන සාධක ලැයිස්තු කරයි:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- ශ්‍රවණ හෝ දෘෂ්ටි ගැටළු
+- සංචාරය කිරීමට අපහසු වීම, හෝ ප්‍රවාහනය නොමැතිකම
+- තනිව ජීවත් වීම, හෝ සැමියා/බිරිඳගේ මරණය හෝ විශ්‍රාම ගැනීම වැනි විශාල අලාභයක්
+- මතකයේ හෝ චින්තනයේ වෙනස්කම්
+- අසනීප ප්‍රිය අයෙකු සැලකිලිමත් වීම
+- මුදල් කරදර හෝ භාෂා බාධා
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+ශ්‍රවණය විශාල කාරණයකි. අසන්න අපහසු අය සංවාදය කලකිරීමට හෝ ලජ්ජාවට පත් වන නිසා ඈත් වී යා හැකි බව NIA සටහන් කරයි. [ශ්‍රවණය සහ මොළයේ සෞඛ්‍ය මාර්ගෝපදේශය](/brain-health/hearing/) ශ්‍රවණ පරීක්ෂා සහ වෛද්‍ය නොවන ශ්‍රවණ උපකරණ ආවරණය කරයි.
 
-## Practical ways to stay connected
+## එකට සම්බන්ධව සිටීමට ප්‍රායෝගික ක්‍රම
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA විවිධ අදහස් යෝජනා කරයි. ඔබට ගැලපෙන එකක් හෝ දෙකක් තෝරා ගන්න:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **නිත්‍ය සම්බන්ධතා සැලසුම් කරන්න.** පවුලේ අය, මිතුරන් හෝ අසල්වැසියන් සමඟ ඇමතුම්, පණිවිඩ, ඊමේල් හෝ කාඩ්පතක් යැවීමට දිනකට හෝ සතියකට නියම වේලාවක්.
+- **වීඩියෝ ඇමතුම් හෝ ස්මාර්ට් ස්පීකර් භාවිතා කරන්න.** තාක්ෂණය අලුත් නම්, බොහෝ රාජ්‍ය පුස්තකාල සහ ප්‍රජා මධ්‍යස්ථාන පන්ති පවත්වයි. අපගේ [දුරකථන සහ වීඩියෝ ඇමතුම් මාර්ගෝපදේශය](/activities/phone-and-video-calls/) බලන්න.
+- **කණ්ඩායමකට එක් වන්න.** පන්තියක්, ආගමික ප්‍රජාවක්, ඇවිදීමේ සමාජයක් හෝ ස්වේච්ඡා භූමිකාවක් ඔබට සම්බන්ධතාවයත් අරමුණේ හැඟීමත් ලබා දෙයි.
+- **පැරණි විනෝදාංශයක් යළි ආරම්භ කරන්න** හෝ අන් අය සමඟ අලුත් එකක් ඉගෙන ගන්න.
+- **අන් අය සමඟ චලනය වන්න.** මිතුරෙකු හෝ කණ්ඩායමක් සමඟ ව්‍යායාම කරන්න. අපගේ [ව්‍යායාම මාර්ගෝපදේශය](/brain-health/exercise/) සෞම්‍ය විකල්ප ඇත.
+- **සුරතලෙකු ගැන සලකා බලන්න** ඔබට එයට සැලකිය හැකි නම්.
+- **දේශීය සේවා භාවිතා කරන්න.** ජ්‍යෙෂ්ඨ මධ්‍යස්ථාන, Area Agencies on Aging සහ Eldercare Locator (800-677-1116) ඔබට වැඩසටහන් සහ ප්‍රවාහනය වෙත යොමු කළ හැක.
 
-## Why do shared activities matter in dementia?
+## ඩිමෙන්ශියාවේදී එකට ක්‍රියාකාරකම් වැදගත් වන්නේ ඇයි?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+දැනටමත් ඩිමෙන්ශියාව සහිත කෙනෙකුට, සම්බන්ධතාවය අවදානම අඩු කිරීම ගැන නොව, විනෝදය, සහනය සහ ඇතුළත් වී සිටින හැඟීම ගැනයි. ලැන්සට් කොමිෂන් සභාව සඳහන් කරන්නේ ක්‍රියාකාරකම් ඩිමෙන්ශියාව ඇති අයට විනෝදය සහ අරමුණ රඳවා ගැනීමට උදව් කරන බවයි. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) සටහන් කරන්නේ, ජීවන තත්ත්වය වැඩි දියුණු කිරීමට අමතරව, ක්‍රියාකාරකම් සැරිසැරීම හෝ නොසන්සුන්කම වැනි හැසිරීම් අඩු කළ හැකි බවයි. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) එකතු කරන්නේ, Alzheimer's ඇති අයට ක්‍රියාශීලී වීමට සහ ඔවුන් රසවිඳින දේ කිරීමට අවශ්‍ය බවයි.
 
-Ideas that work well:
+හොඳින් ක්‍රියා කරන අදහස්:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **එකට රූප බලන්න.** [Conversation Cards](/games/conversation-cards/) විවෘත, ප්‍රශ්න විභාග නොවන ඉඟි ලබා දෙයි, “මට ... ගැන කියන්න” වැනි. අපගේ [මතක අවධි ගැන මාර්ගෝපදේශය](/activities/reminiscence/) බලන්න.
+2. **අනෙකට යාබදව ක්‍රීඩා කරන්න.** [Picture Pairs](/games/picture-pairs/) රූප දෘශ්‍යමාන තබා ගන්නා අතර කාල ගණකයක් හෝ ලකුණු නැත, එබැවින් පීඩනයක් නැත. [එකට ක්‍රීඩා කරන ආකාරය](/caregiving/how-to-play-together/) ගැන අපගේ මාර්ගෝපදේශයේ උපදෙස් ඇත.
+3. **පවුලේ ඡායාරූප භාවිතා කරන්න.** [Photo Pairs](/games/photo-pairs/) ඔබ තෝරන ඡායාරූප ගැලපීමේ ක්‍රීඩාවක් බවට පරිවර්තනය කරයි, සහ ඡායාරූප ඔබේ උපාංගයේ පවතී.
+4. **මිනිසුන් එකට එකතු කරන්න.** [Picture Bingo](/games/picture-bingo/) පවුල් එකතුවලට සහ [සත්කාර නිවාස කණ්ඩායම්වලට](/activities/care-home-groups/) ගැලපේ.
+5. **සංගීතය, ගෘහ කටයුතු හෝ උද්‍යානය බෙදා ගන්න.** [සංගීත ක්‍රියාකාරකම්](/activities/music/), [ගෘහ කාර්යයන්](/activities/household-tasks/) සහ [ක්‍රියාකාරකම් අදහස්](/activities/ideas/) පූර්ණ ලැයිස්තුව බලන්න.
+6. **සංචාර පහසු කරන්න.** අපගේ [සංචාර මාර්ගෝපදේශය](/activities/visiting/) හැමෝටම හොඳ දැනෙන කෙටි, සන්සුන් සංචාර ආවරණය කරයි.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+එය කුඩාව සහ සැහැල්ලුව තබා ගන්න. එක් දෙදෙනෙකු සහිත නිශ්ශබ්ද කාමරයක් බොහෝ විට විශාල කණ්ඩායමකට වඩා හොඳින් ක්‍රියා කරයි. පුද්ගලයා වෙහෙසට පත් වුවහොත් හෝ උනන්දුව නැති වුවහොත්, නැවතීම හොඳය. කෝපි කෝප්පයක් සමඟ එකට වාඩි වීමද හොඳ ප්‍රතිඵලයකි.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+ඩිමෙන්ශියාව සහිත තනිව ජීවත් වන අයෙකු සඳහා, නිතිපතා සංචාරය කළ හැකි හෝ වීඩියෝ ඇමතුමක් ගත හැකි, සහ හදිසි සම්බන්ධතාවයක් ලෙස සේවය කළ හැකි විශ්වාසදායක කෙනෙකු සොයා ගන්නා ලෙස NIA යෝජනා කරයි. එය දේශීය memory cafe එකක්ද සඳහන් කරයි, මතක නැතිවීමක් ඇති අයට සහ ඔවුන්ගේ පවුල්වලට සන්සුන් සමාජ අවකාශයකි.
 
-## Caregivers get lonely too
+## සැලකිලිමත් වන අයද තනිකම අත්විඳියි
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA ප්‍රිය අයෙකු සැලකිලිමත් වීම හුදකලාවේ අවදානම ලෙස ලැයිස්තු කරයි. ඔබේම මිත්‍රත්වයන්, සහාය කණ්ඩායම් සහ විවේකය සඳහා කාලයක් ආරක්ෂා කර ගන්න. අපගේ [සැලකිලිමත් වන අයගේ ස්වයං සත්කාර මාර්ගෝපදේශය](/caregiving/caregiver-self-care/) ප්‍රායෝගික අදහස් ඇත.
 
-## Talk with a doctor
+## වෛද්‍යවරයා සමඟ කතා කරන්න
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+ඔබ හෝ ඔබ සැලකිලිමත් වන අයෙකු බොහෝ වේලාවට තනිකමට හෝ හුදකලාවට පත් වන්නේ නම්, වෛද්‍යවරයාට කියන්න. පවුලේ මරණයක් වැනි ප්‍රධාන ජීවිත වෙනස්කම් බෙදා ගන්නා ලෙස NIA දිරිගන්වයි, එවිට වෛද්‍යවරයාට සම්පූර්ණ චිත්‍රය තේරුම් ගත හැකිය. සති ගණනාවක් පහළ මනෝභාවයක් විෂාදය විය හැකි අතර, එයට ප්‍රතිකාර කළ හැකිය. වැඩිහිටියෙකු මිතුරන්ගෙන් හෝ ඔවුන් කලින් රස වින්දු ක්‍රියාකාරකම්වලින් අලුතින් ඈත් වී ඇත්නම්, එම වෙනසත් වෛද්‍යවරයාට සඳහන් කිරීම වටී. [කවදා සං‍ඥා දැකිය යුතුද සහ කවදා වෛද්‍යවරයා බැලිය යුතුද](/brain-health/warning-signs/) කියවන්න.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+මෙය සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. අපගේ [වෛද්‍ය වියරු ප්‍රකාශය](/medical-disclaimer/) බලන්න.

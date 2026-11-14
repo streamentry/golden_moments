@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Gaart- an Outdoor-Aktivitéiten fir Mënschen mat Demenz"
+seoTitle: "Gaarden- an Outdoor-Aktivitéiten bei Demenz"
+description: "Gaart- an Outdoor-Iddien fir Mënschen mat Demenz, mat Hochbeeter, Kübelgäert a Sécherheetstipps fir Hëtzt, Sonn a Wéiermarschéieren."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Gäertnen an Zäit dobaussen kann eng roueg, vertraut Aktivitéit fir eng Persoun
+  mat Demenz sinn. Probéiert Gießen, Kräider an Dëppen setzen, verblitzte
+  Blumen ofzeechnen oder e kuerzen Spadséiergang an engem agezäunte Gaart. Benotzt
+  Hochbeeter oder en Dësch, sou datt keen muss knéien, vermeit schaarf Werkzeuch
+  a gifteg Planzen, geet an der méi kille Zäit vum Dag eraus an bleift ëmmer bei
+  der Persoun.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Einfach Gaartenaufgaben wéi Gießen, Somen a Dëppen setzen, Kräider riechen an Blumen plécken kënne stoend oder am Sëtzen gemaach ginn."
+  - "Hochbeeter, Kübel an e iwwerdaachten Dësch bréngen de Gaart op Taille-Héicht a senken d'Gefor fir Stolperen a Fall."
+  - "Vermeit schaarf Werkzeuch, dornegen oder reizend Planzen a alles, wat gifteg ass. Passt op, datt d'Äerd net fir Iessen gehalen gëtt."
+  - "Hëtzt kann fir eeler Leit gefährlech sinn. Geet fréi oder spéit eraus, bréngt Waasser a Schatten mat, a kënnt bei den éischte Zeeche vu Onbehag eran."
+  - "Vill Mënschen mat Demenz verlafen sech irgendwann. Bleift dobaussen bei der Persoun a hält en neit Foto an en Ausweis parat."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Wéi Gäertnen-Aktivitéiten kann eng Persoun mat Demenz maachen?"
+    a: "Planzen gidderen, Somen a klenge Dëppen setzen, Kräider riechen an upacken, Blumen ofzeechnen, Geméis plécken, Schnëttblummen arrangéieren an e Wee fegen si all gutt Wiel. Am Stuff ass e Kräiderdëppen um Fënstersbriet oder eng Schuel mat Äerd op engem iwwerdaachten Dësch gutt. Wielt d'Aufgab no deem, wat d'Persoun virdrun gär hat an elo gutt maache kann."
+  - q: "Wéi halen ech eng Persoun mat Demenz an der Hëtzt sécher?"
+    a: "Plangt d'Zäit dobaussen fir de méi kille Moien oder de Owend, hält et kuerz a bitt oft Waasser un. Wielt Schatten, e Summerhut mat breeder Krempp, liicht locker Kleeder a Sonnecrème. Eler Leit hu méi grousst Risiko fir Hëtzt-Problemer, a Verwirrung, Schwindel oder Iwwelkeet kënnen Warnzeeche sinn. Wann Dir se gesitt, geet direkt eran a killt Iech of."
+  - q: "Wéi kënne mir dobaussen goen, wann si zum Verlafen neigen?"
+    a: "Bleift déi ganz Zäit bei der Persoun, benotzt en agezäunte Gaart oder Gaart mat engem verriegelbaren Paart, a suergt, datt si en ID-Armband droen oder en Ausweis dabäi hunn. Hält e neit Foto parat. Wann d'Persoun verschwonnen ass, kontaktéiert direkt d'Police oder d'Noutdéngschter; waart net eng fest Zuel vu Minutten. Sot de Helfer, datt d'Persoun Demenz huet, wou si zulescht gesi gouf, a gitt hinnen e neit Foto."
+  - q: "Wat, wann mir keen Gaart hunn?"
+    a: "E puer Dëppen op enger Veranda, e Fënsterkëscht oder eng Schuel mat Kräider op dem Kichendësch reicht. Dir kënnt och e Park, e ëffentlechen Gaart oder e Gemeinschaftsgaart besichen. Dobaussen sëtzen an d'Vullen héieren zielt och als Outdoor-Aktivitéit."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Fir vill Leit ass de Gaart ee vun de vertrauteste Plazen, déi si kennen. Graven, Gießen a Blumen plécken bruechen Fäegkeeten, déi se schonn laang gelieft hunn, a Sëtzen dobaussen bréngt frësch Loft, Sonneliicht an Vullegesank. Den National Institute on Aging nennt d'Planzen ze pfleeën, Blumen a Geméis ze setzen an [iwwer d'Wuesstum vun de Planzen ze schwätzen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ënner den Aktivitéiten, déi Leit mat Alzheimer genéisse kënnen. Dës Säit beschreift, wat Dir probéiere kënnt, wéi Dir e Gaart méi einfach benotze kënnt a wéi Dir bei Hëtzt, Sonn a Verlafen sécher bleift.
 
-## What outdoor and gardening activities work well?
+## Wéi funktionéieren Gaart- an Outdoor-Aktivitéiten gutt?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Déi bescht Aufgaben sinn einfach, vertraut a kënne stoend oder sëtzend gemaach ginn. Wielt no deem, wat d'Persoun fréier gär hat.
 
-### In the garden
+### Am Gaart
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Gießen.** E klenge, liichte Gießkan oder eng sanft Schlauchdüs an e puer Dëppen a Reechwäit. Gießen huet e kloren Ufank a Enn an ass schwéier falsch ze maachen.
+2. **Somen a Dëppen setzen.** D'Alzheimer's Foundation of America schléit vir, Somen a klenge Dëppen ze setzen an [dem Wuessen zouzekucken](https://alzfdn.org/dementia-activity-gardening/). Grouss Somen wéi Bounen, Sonneblumen oder Äerbsen sinn einfacher ze handhaben.
+3. **Verblitzte Blumen ofzeechnen.** Verwelkt Blummen mat der Hand ofzeechnen ass eng suffizient, widderhuelend Aufgab. Wielt Planzen ouni Dären.
+4. **Geméis oder Kräider plécken.** Cherry-Tomaten, Bounen a Kräider si liicht ze plécken an ëmmer gutt ze schmaachen. Bréngt se eran, fir se um Mëttegiessen ze benotzen.
+5. **Kräider riechen a beréieren.** Rosemarin, Miminz a Lavendel hunn staark, agreabel Gerécher. Reift e Blat tëscht den Fanger a leet et duerno un d'Nues.
+6. **E Wee oder d'Terrass fegen.** Ee liichten Besen op enger flacher, drockener Fläch, wann d'Balance stabil ass.
+7. **E Vullefutter fëllen.** Sëtzt duerno zesummen a kuckt, wien op Besuch kënnt.
 
-### Indoors, when going out is not possible
+### Am Stuff, wann eraus gaang net méiglech ass
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **E Kräidergaart um Fënstersbriet** mat Basilikum, Petersilie oder Schnëttlauch.
+- **Dëppen op engem iwwerdaachten Dësch.** D'AFA schléit vir, Tabletten wéi an enger Kantin ze benotzen, fir d'Äerd op engem Plaz ze halen, an d'Äerd mat klenge Bechere ëmzeplënnen.
+- **Blummen arrangéieren** mat Schnëttblummen a Gréngs aus dem Gaart oder aus dem Supermarché.
+- **Gepresst Blummen** aus engem Bouquet, déi speider op Kaarten geklebt ginn. Kuckt [Konscht a Handwierk](/activities/arts-and-crafts/) fir méi.
+- **Lavendel- oder Rousesäckelen maachen**, eng aner Iddi vun der AFA, déi de Gaartegeroch an d'Stuff bréngt.
 
-### Getting out and about
+### Erausgoen a sech bewegen
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **E kuerzen Spadséiergang** ronderëm de Block, an engem Park oder an engem Gaartecenter, a roueger Tempo mat enger Plaz fir sech ze setzen.
+- **Dobaussen sëtzen** op enger Veranda oder enger Bänk, fir de Vullen ze lauschteren a bei de Wand ze fillen. Dat ass schonn eng komplett Aktivitéit.
+- **E ëffentlechen Gaart besichen** wärend enger roueger Zäit vum Dag. Den NHS bemierkt, datt e puer Plazen Sensorik-Gäert mat duftende Planzen, Stoffer a Waasserelementer hunn.
+- **Enten füttern oder Vullen kucken** um lokalen Teich, mat engem sécheren Ofstand vum Waasserrand.
 
-## How do I make a garden easier to use?
+## Wéi maache ech e Gaart méi einfach ze benotzen?
 
-Bring the garden up to the person, not the other way around.
+Bréngt de Gaart zu der Persoun, net ëmgedréint.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Hochbeeter oder héich Pflanzbak** op ongeféier Taille-Héicht, dann muss keen knéien oder sech bucken.
+- **Kübel op engem Dësch** si gutt fir Leit, déi e Rollstull benotzen oder léiwer sëtzen.
+- **Breet, eben Weeër** ouni lous Steng oder Schlauch, déi drop liegen; dat senkt d'Gefor vu Stolperen.
+- **Sëtzer mat Armlänen an Schatten** laanscht de Wee, sou datt Rou ëmmer méiglech ass.
+- **Werkzeuch mat déckem, weichem Griff**, déi einfach ze packen sinn. Verzicht op Schéier, Messer a alles, wat schaarf ass.
+- **En agezäunte Beräich mat engem verriegelbaren Paart**, wou d'Persoun fräi entdecke kann, während Dir a der Nopeschaft bleift.
 
-## Which plants should I avoid?
+## Wéi Planzen sollen ech vermeiden?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Wielt Planzen, déi sécher sinn fir unzefaassen an, am beschten, sécher, wann se gekascht ginn. D'AFA rooden, Planzen ze benotzen, déi d'Haut normalerweis net reizen, op Allergien ze kucken an gutt opzepassen, wann een d'Äerd fir Iessen hale kéint. D'Heemsécherheets-Tipps vum NIA enthalen, giftegen Planzen ewechzehuelen oder ze verschléissen.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Vermeit dornegen Rousen, Kaktusse a Planzen mat Saft, deen d'Haut reizt.
+- Kontrolléiert all Planz, déi Dir net kennt, bei engem Giftzentrum oder engem lokalen Gaartecenter, ier Dir se setzt.
+- Vertraut Liiblingsplanzen kënnen agreabel Gefiller zeréckbréngen. D'AFA nennt Rousen an den Chrëschtkaktus als Beispiller. Wielt domatt Sorten ouni Dären.
+- Hält Dünger, Pestiziden a Onkrautmëttel verschloss a benotzt se net a Beräicher, déi d'Persoun erreechen kann.
 
-## How do I stay safe in the heat and sun?
+## Wéi bleift ee bei Hëtzt a Sonn sécher?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Plangt d'Zäit dobaussen no dem Wieder. Den NIA erkläert, datt eler Leit e méi héicht Risiko fir [Hëtzt-bedéngt Krankheeten](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) hunn, deelweis well de Kierper sech schlechter un Temperaturännerungen upasst a verschidde Medikamenter beaflosse, wéi de Kierper mat der Hëtzt ëmgeet.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Geet fréi oder spéit eraus.** Vermeit de Mëttag an de warme Méint. Kuckt den Hëtzt-Index, net nëmmen d'Temperatur.
+- **Bitt oft Waasser un.** Waart net, bis d'Persoun seet, datt si Duuscht huet. Vermeit Alkohol a koffeinhalteg Gedrénks an der Hëtzt.
+- **Kleet Iech passend.** Hell, locker Kleeder, e Summerhut mat breeder Krempp an eng Sonnebrëll.
+- **Benotzt Sonnecrème.** Den NIA recommandéiert en Breedspektrum-LSF vun 15 oder méi, dat am Dag nei opgedroe gëtt.
+- **Wielt Schatten.** Stellt den Pflanzdësch ënner e Bam oder en Schierm.
+- **Hält et kuerz.** Eng kuerz Zäit dobaussen kann duergoen, besonnesch u waarme Deeg.
+- **Kuckt op Warnzeeche.** Den NIA nennt Kappwéi, Verwirrung, Schwindel oder Iwwelkeet als méiglech Zeechen vun Hëtzt-Krankheet. Eng Persoun mat Demenz seet Iech vläicht net, datt si sech net gutt fillt, dofir kuckt op hire Gesiicht a Verhalen. Geet eran, killt Iech mat Waasser an engem kille Lappen of, a sicht medezinesch Hëllef, wann et sech net séier besser mécht. Hëtzschlag, mat Zeeche wéi Ouumechtegkeet, Verwirrung oder drockener, rouder Haut, ass en medezinesche Notfall: ruff Är lokal Notrufnummer un.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Och Kal Wieder spillt eng Roll. Am Wanter hält d'Zäit dobaussen kuerz a suergt, datt Hänn a Féiss warm a drocken bleiwen.
 
-## How do I handle wandering when we go outside?
+## Wéi goen ech mam Verlafen ëm, wann mir dobaussen sinn?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Bleift bei der Persoun, wann si dobaussen ass. D'Alzheimer's Association seet, datt [sechs vun 10 Mënschen mat Demenz](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) mindestens eemol verlafen, a vill maachen dat méi wéi eemol. Et kann a jidder Phas geschéien.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+D'[NIA-Tipps fir Verlafen a Verierren](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) enthalen:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Suergt, datt d'Persoun en ID- oder Medezin-Armband mat hirem Numm, hirer Adress an Ärer Telefonsnummer dréit, oder markéiert hir Kleeder.
+- Hält en neien Foto oder en Video vun der Persoun parat.
+- Sot de Noperen, datt d'Persoun sech verlafe kann.
+- Sécheren de Gaart mat engem Zaun an engem verschloussene Paart.
+- Loosst net eng Persoun mat enger Verlafgeschicht eleng.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+D'Alzheimer's Association schléit och vir, Innen- an Outdoor-Beräicher ze schafen, déi sécher erkonnt kënne ginn, an Aktivitéiten fir déi Zäit vum Dag ze plangen, wann Onrou am wahrscheinlechsten ass. E Spadséiergang an engem sécheren, ëmzäunte Gaart kann gutt zu der Onrou um spéiden Nomëtteg passen. Kuckt eis Anleitung zu [spéider Onrou](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Wann d'Persoun verschwonnen ass, kuckt no sécheren Plazen a kontaktéiert direkt d'lokal Police oder d'Noutdéngschter. Waart net eng fest Zuel vu Minutten, ier Dir mellt. E [Artikel aus dem Journal vum U.S. Department of Justice iwwer Enquêten zu verschwonnene Mënschen](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) vun 2021 seet, datt Strafverfolgungsbehörden keng fest Waardezäit verlaangen sollten an Symptomer wéi bei Demenz als héich Risiko-Thema opféieren. Lokal Meldeverfarenen sinn ënnerschiddlech. Sot, wann a wou d'Persoun zulescht gesi gouf, wat si un hat an e neit Foto. Follegt de Uweisungen vun de lokale Helfer; sicht net eleng a gefährlechen Plazen.
 
-## How do I adapt gardening as things change?
+## Wéi passe ech Gaartenaarbecht un, wann sech Saachen änneren?
 
-| If this has become hard | Try this instead |
+| Wann dat schwéier ginn ass | Probéiert dat amplaz |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| E ganzt Beet bepflanzen | Ee Som an ee Dëppen setzen |
+| Onkraut jäten (Onkraut vu Planzen ënnerscheeden) | Gießen oder kloer verwelkt Blummen ofzeechnen |
+| Duerch de Gaart goen | Um Dësch sëtzen mat enger Schuel Äerd an enger Planz |
+| Iwwerhaapt erausgoen | E Kräiderdëppen um Kichendësch oder e Sëtz beim oppenen Fënster |
+| Iergendeng Aufgab maachen | Zesummen dobaussen sëtzen, lauschteren a kucken |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Verschidde Leit kucken léiwer zou, wéi Dir schafft. Den NIA bemierkt, datt et a Rutsch ass, eng Persoun eleng zoukucken, wann dat ass, wat si gär huet.
 
-## When should we head inside?
+## Wann gi mir bannen?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Geet eran, wann d'Persoun midd, waarm, kal, onrouteg oder prett fir Schluss ass. Zéng agreabel Minutten sinn besser wéi e laange Nomëtteg, dee mat Ustrengung endet. Fréi opzehalen ass e gutt Resultat.
 
-## Bring the garden indoors on screen
+## De Gaart um Bildschierm bannen bréngen
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Bei Reendeeg huet [Sort Together](/games/sort-together/) e Gaartekuerf fir Biller ze sortéieren, a [Gespréichskaarten](/games/conversation-cards/) enthält oppe Impulser, déi zu Gaartegeschichten féieren kënnen. Wann Dir aus der Hëtzt kënnt an Iech gedriwwe fillt, bitt [Roueg Atmen](/games/calm-breathing/) eng lues, roueg Paus, déi Dir zesummen maache kënnt. Fir méi Iddien mat Beréierung, Geroch an Kléngen kuckt eisen Guide zu [sensoreschen Aktivitéiten](/activities/sensory/).

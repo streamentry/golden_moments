@@ -55,6 +55,54 @@ const _appLocales = {
   'sl',
   'sv',
   'mn',
+  'af',
+  'bg',
+  'et',
+  'lt',
+  'lv',
+  'be',
+  'bs',
+  'cy',
+  'eo',
+  'eu',
+  'hy',
+  'is',
+  'ka',
+  'kk',
+  'mk',
+  'sq',
+  'sr',
+  'gl',
+  'ga',
+  'si',
+  'nn',
+  'no',
+  'lb',
+  'mt',
+  'gd',
+  'fy',
+  'km',
+  'ky',
+  'tl',
+  'ht',
+  'ku',
+  'tg',
+  'lo',
+  'yi',
+  'la',
+  'oc',
+  'co',
+  'fo',
+  'mi',
+  'mg',
+  'ug',
+  'sn',
+  'st',
+  'ny',
+  'sa',
+  'qu',
+  'ln',
+  'ba',
 };
 const _baseFallbacks = {'pt', 'zh'};
 
@@ -206,10 +254,10 @@ void main() {
 
     test('an unoffered language falls through, then to English', () {
       expect(
-        pick([const Locale('ga'), const Locale('es')]),
+        pick([const Locale('ie'), const Locale('es')]),
         const Locale('es'),
       );
-      expect(pick([const Locale('eo')]), const Locale('en'));
+      expect(pick([const Locale('ie')]), const Locale('en'));
       expect(pick([]), const Locale('en'));
     });
   });

@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Фаъолияти идҳо барои шахсе, ки бо деменсия зиндагӣ мекунад, аз ҷашни шукргузорӣ то охири сол"
+seoTitle: "Фаъолияти идҳо ва ҷашни шукргузорӣ барои деменсия"
+description: "Фаъолиятҳои содда дар идҳо барои шахсе, ки бо деменсия зиндагӣ мекунад: корҳои ошхона, оройиш, мусиқӣ, аксҳо ва тамосҳои видеоӣ."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Идҳоро хурдтар, барвақттар дар рӯз ва наздик ба тартиботи одатии шахс нигоҳ доред.
+  Ба онҳо корҳои воқеӣ ва бехатар диҳед, мисли гузоштани дастархон, шустани
+  сабзавот, печонидани тӯҳфа ё овезонидани оройиш. Мусиқии шинос ва албомҳои аксҳои
+  кӯҳнаро нишон диҳед, меҳмонони худро пеш аз вақт омода кунед ва ҳуҷраи оромро
+  ташкил кунед. Танҳо он чизеро иҷро кунед, ки ба таври оқилона ба ӯҳда гирифта
+  метавонед; ҷашни кӯтоҳ ва ором низ ҷашни хуб аст.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Идро пештар дар рӯз, масалан ҳамчун ношта ё нисфирӯзӣ ҷашн гиред, агар саргардонии охири рӯз маъмул бошад."
+  - "Корҳои воқеӣ пешниҳод кунед: гузоштани дастархон, шустани сабзавот, печонидани тӯҳфа, оройиш ё ороиши десерт дар табақ."
+  - "Мусиқии шинос, сурудҳои идона ва албомҳои аксҳои кӯҳна роҳҳои осон барои иштирок дар мавсим ҳастанд."
+  - "Ба меҳмонон бигӯед, ки чӣ интизор шаванд ва ба шахс аксҳои касоне, ки меоянд, нишон диҳед."
+  - "Ҳуҷраи оромро бо бистар ё ҷомаи дӯстдошта омода кунед ва меҳмононро як-ду нафар дар як вақт нигоҳ доред."
+  - "Аз чизҳои аз ҳад зиёд, аз ҷумла оройишҳое, ки ба хӯрок монанданд ва чароғҳои зиёди чашмакзананда, худдорӣ кунед."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Чӣ кор карда метавонад шахси деменсия дар ҷашни шукргузорӣ?"
+    a: "Ба онҳо кори содда ва бехатар диҳед, ки ба он чи имрӯз карда метавонанд мувофиқ аст: шустани сабзавот, ҳаракат додани соуси клюква, гузоштани дастархон, бастани дастмолакҳо ё гузоштани десерт дар табақ. Баъд аз он, албомҳои аксҳои кӯҳнаи оиларо нигоҳ кунед ё якҷоя суруди шинос хонед. Дар рӯз иштирок кардан аз он ки кор чӣ гуна мешавад муҳимтар аст."
+  - q: "Оё мо бояд ҳанӯз ҳам ҷамъомади калони оилавӣ дошта бошем?"
+    a: "Танҳо агар идорапазир бошад. Издиҳом ва садо метавонанд сахт бошанд, пас бисёр оилаҳо ба ҷамъомади хурдтар ва бечаҳонаттар, хӯроки барвақттар ё меҳмононе, ки гурӯҳҳои хурд меоянд, мегузаранд. Ассотсиатсияи Алсгеймер ғамхороноро ташвиқ мекунад, ки танҳо он чизеро иҷро кунанд, ки ба таври оқилона ва бехатар ба ӯҳда гирифта метавонанд."
+  - q: "Оилаеро, ки муддати дароз наомадааст, чӣ гуна омода кунам?"
+    a: "Пеш аз омаданашон ба онҳо бигӯед, ки кадом тағйиротро мебинанд ва ин тағйиротҳо аз беморӣ ҳастанд, на аз шахс. Аз онҳо хоҳиш кунед, ки ислоҳ ё санҷиш накунанд, якбора як нафар гап занад ва барои ҷавобҳо вақт диҳанд. Нишон додани аксҳои меҳмонон ба шахс пеш аз вақт низ кӯмак мекунад."
+  - q: "Кадом тӯҳфаҳо барои шахсе, ки бо деменсия зиндагӣ мекунад, мувофиқанд?"
+    a: "Тӯҳфаҳои содда ва бехатаре, ки ҳоло метавонанд лаззат баранд: хӯроки дӯстдошта, бистар ё ҷомаи мулоим, мусиқии шинос ё албоми аксҳои оила. Аз асбобҳои мураккаб, абзор ва бозиҳои душвори лавҳавӣ худдорӣ кунед. Иштирок додани онҳо дар тӯҳфадиҳӣ, масалан печонидани тӯҳфа ё кулчаҳое, ки дар пухтанашон кумак кардаанд, худ тӯҳфа метавонад бошад."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Идҳо метавонанд хотираҳои гармро бозгардонанд ва инчунин садо, издиҳом ва тағйироти рӯзи одатиро. Барои шахсе, ки бо деменсия зиндагӣ мекунад, беҳтарин ҷашнҳо одатан хурдтар, оҳистатар ва атрофи чизҳое сохта мешаванд, ки ӯ то ҳол метавонад аз онҳо лаззат барад. Ин ғояҳо барои Шукргузорӣ, Мавлуди Исо, Ханука, Соли нав ва зодрӯзҳои оила якхела кор мекунанд.
 
-## How do I plan a calmer holiday?
+## Чӣ тавр ҷашни оромтарро нақша кунам?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Нақшаи рӯзро аз тартиботи шахс оғоз кунед ва рӯзро атрофи он созед. [Фонди Алсгеймери Амрико](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) пешниҳод мекунад, ки ҷашнро барвақттар дар рӯз гиранд, зеро нофаҳмӣ ва бесаброӣ аксар вақт дар охири нисфирӯзӣ ва бегоҳ зиёд мешаванд (ки баъзан бесаброии охири рӯз номида мешавад). Ношта ё нисфирӯзии ид метавонад аз шоми дер осонтар бошад.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Андозаи дуруст нигоҳ доред.** Ҷамъомади хурдтар ва бечаҳонат, ё меҳмононе, ки чанд нафар меоянд, аксар вақт нисбат ба як миз бо издиҳом осонтар аст.
+- **Корҳоро тақсим кунед.** Аз хешовандон хоҳиш кунед, ки таом биёранд, харид кунанд ё вақтро бо шахс гузаронанд, вақте ки шумо пухтан доред. Дар бораи он ки чӣ кумак мекунад, мушаххас бошед.
+- **Оройишро содда нигоҳ доред.** [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/holidays) қайд мекунад, ки чароғҳои чашмакзананда метавонанд нофаҳмо бошанд ва конфет ё мевае, ки сунъӣ аст ва барои оройиш истифода мешавад, ҳамчун хӯрок фаҳмида шавад.
+- **Бидонед, чиро партоед.** Агар ягон анъана ташвишовар ё хатарнок шуда бошад, партофтани он ё иҷрои ягон ҷашни ороми дигар кор нест.
 
-## What holiday activities can we do together?
+## Кадом фаъолиятҳои ид метавонем якҷоя кунем?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Корҳо ва машғулиятҳоеро интихоб кунед, ки шахс имрӯз карда метавонад. Дар рӯз иштирок кардан муҳимтар аз он аст, ки чӣ гуна мешавад.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Дастархонро якҷоя гузоред.** Аввал табақҳо, сипас дастмолакҳо ва пиёлаҳоро ҷойгир кунед. Бастани дастмолакҳо корест, ки нишаста иҷро кардан хуб аст.
+2. **Сабзавотро бишӯед ва ҷудо кунед.** Шустани картошка ё канданди лӯбиёи сабз дар мизи ошхона барои бисёре аз онҳое, ки пештар пухтан мекарданд, бехатар ва шинос аст.
+3. **Ҳаракат диҳед, омезед ё дар табақ гузоред.** Ҳаракат додани соуси клюква, омехтани хамири содда ё гузоштани кулчаҳо дар табақ дастҳоро аз назди оҷоқ ва корди тез дур нигоҳ медорад.
+4. **Тӯҳфа печонед.** Коғаз ва часпонакро пешакӣ бурида гиред ва бигзоред, ки шахс онро ҷамъ кунад ва ҳамвор созад. Печонидани нафис маъно надорад.
+5. **Чанд оройишро овезед.** Оройишҳои шикастнашаванда ва як ҷои хурд, масалан торт ё дарахти хурд, интихоб кунед.
+6. **Ҳунари содда созед.** Занҷирҳои коғазӣ, коллаж аз барг ё корти ид бо мӯҳр хуб кор мекунанд. [Роҳнамои ҳунар ва санъати мо](/activities/arts-and-crafts/) ғояҳои бештар дорад.
+7. **Суруд хонед ва гӯш кунед.** Сурудҳои идона ва сурудҳои шинос ба осонӣ ҳамроҳ шудан мумкин аст, ҳатто барои касе, ки ҳоло камтар гап мезанад. Барои сохтани рӯйхати мусиқӣ [роҳнамои мусиқии мо](/activities/music/)-ро бинед.
+8. **Албомҳои аксҳои идҳои кӯҳнаро бароред.** Албомҳои ҷашнҳои гузаштаро бароред ва барои нақл даъват кунед («Дар бораи ин миз нақл кунед») ба ҷои пурсидан, ки кист. [Роҳнамои ёдоварии мо](/activities/reminiscence/) тарзашро шарҳ медиҳад.
+9. **Як бозии гурӯҳии мулоим бозед.** [Бинго бо тасвирҳо](/games/picture-bingo/) дар якчанд дақиқа чоп мешавад ва барои ҳама синну сол мувофиқ аст, ва [кортҳои суҳбат](/games/conversation-cards/) ба ҳама чизе медиҳанд, ки дар бораяш гап зананд.
+10. **Якҷоя рангкорӣ кунед.** Варақаҳои [рангкории](/games/coloring/) содда метавонанд барои кӯдакон ва бобою бибиҳо чоп шаванд ва дар мизи хӯрок шарик шаванд.
+11. **Филми дӯстдошташуда тамошо кунед.** Филми шинос ором аст ва танҳо як қисмашро тамошо кардан низ дуруст аст.
+12. **Барои дидани чароғҳо як сайри кӯтоҳ кунед.** Сайри ором аз назди хонаҳои оройишдодашуда метавонад аз чорабинии пурғавғо осонтар бошад.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Агар пухтан дар ҳаёти шахс қисми калон буд, роҳнамои мо [корҳои хонагӣ ҳамчун фаъолият](/activities/household-tasks/) роҳҳои бештарро барои бехатар ва қаноатбахш кардани корҳои ошхона дорад.
 
-## How do I prepare guests?
+## Меҳмононро чӣ гуна омода кунам?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Пеш аз омаданашон ба меҳмонон бигӯед, ки чӣ интизор бошанд, хусусан хешовандоне, ки муддати дароз наомадаанд. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки шарҳ диҳед, тағйироти хотира ва рафтор аз беморӣ ҳастанд, на аз шахс.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Чанд маслиҳати содда бидиҳед:** якбора як нафар гап занад, барои анҷом додани фикр вақт диҳед, пурсидан ё ислоҳ кардан натиҷа надорад ва агар калимаҳо душвор фаҳмида шаванд, ба оҳанги шахс ҷавоб диҳед.
+- **Гӯед, чӣ кумак мекунад ва чӣ ташвиш меорад.** Агар садои баланд, шитоб ё мавзӯъҳои муайян ба шахс ташвиш оваранд, инро гӯед.
+- **Меҳмононро пеш аз вақт муаррифӣ кунед.** Ба шахс аксҳои касоне, ки меоянд, нишон диҳед ва як-ду ҳикояро нақл кунед, ё пеш аз рӯз занги телефонӣ ё видеоӣ ташкил кунед.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Маслиҳатҳои муошират](/caregiving/communication-tips/)-и мо бештар шарҳ медиҳанд.
 
-## What if it gets to be too much?
+## Агар ин аз ҳад зиёд шавад, чӣ?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Пеш аз омадани меҳмонон ҳуҷраи оромро аз садо дур омода кунед, бо чизҳои осоишбахш, масалан бистар, ҷома ё фаъолияти содда. Онро барвақт ва бисёр пешниҳод кунед: «Биёед каме ба ҷои оромтар нишинем?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Аз миз бархостан, барвақт хобидан ё қисмеро аз рӯз партофтан натиҷаи хуб аст, на шикаст. Агар шахс норозӣ шавад, овози ором, суруди шинос ё сайр ба ҳуҷраи дигар аксар вақт аз мулоҳиза бештар кӯмак мекунад. Роҳнамои [бесаброии охири рӯз](/caregiving/late-day-restlessness/)-и мо барои шомҳо ғояҳои бештар дорад.
 
-## How can family far away take part?
+## Оилаи дур чӣ гуна иштирок карда метавонад?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Занги видеоӣ имкон медиҳад, ки хешовандон бе зиёд кардани издиҳом ҳамроҳ шаванд. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки занғҳоро сохтор диҳед: масалан сурудҳои фаслӣ хонед, аксҳои ҷамъомадҳои гузаштаро нишон диҳед, ҳамон рецептро якҷоя пазед ё ҳамзамон як филми идона тамошо кунед. Занғҳоро кӯтоҳ нигоҳ доред ва аз одамон бихоҳед, ки як-як гап зананд, зеро гапҳои якбора пайгирӣ кардан душвор аст. [Роҳнамои занги телефонӣ ва видеоии мо](/activities/phone-and-video-calls/) ғояҳои қадам ба қадам дорад.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Агар шахс дар нигоҳубини хотира зиндагӣ мекунад, қоидаҳои боздидро санҷед ва аз кормандон хоҳиш кунед, ки дар танзими занг кумак кунанд. Роҳнамои мо [боздид аз касе дар нигоҳубини хотира](/activities/visiting/) чизҳоеро, ки бояд овард ва чӣ гуна хайрбод гуфтанро фаро мегирад.
 
-## What gifts suit someone with dementia?
+## Чӣ гуна тӯҳфаҳо барои шахсе, ки бо деменсия зиндагӣ мекунад, мувофиқанд?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Тӯҳфаҳои содда ва бехатаре, ки ҳоло метавонанд лаззат баранд, беҳтар кор мекунанд: хӯроки дӯстдошта, бистар ё кардигани мулоим, мусиқии шинос, таквими бо ҳарфҳои калон ё албоми аксҳои оила. Ассотсиатсияи Алсгеймер маслиҳат медиҳад, ки аз абзорҳои хатарнок, электроникаи мураккаб ва бозиҳои душвори лавҳавӣ худдорӣ кунед.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Додан метавонад ба андозаи гирифтан муҳим бошад. Кулчаҳоеро, ки шахс дар пухтанашон кумак кардааст, ё тӯҳфае, ки шумо харидед ва ӯ онро печонидааст, баровардан, ба ӯ имкон медиҳад, ки дар мавсим иштирок кунад. Ғояи дигар бозии аксҳои оилавӣ аст: [Ҷуфти аксҳо](/games/photo-pairs/) чанд аксҳои интихобшударо ба бозии мулоими мувофиқкунӣ дар браузер табдил медиҳад.
 
-## Look after yourself too
+## Ба худатон низ ғамхорӣ кунед
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Идҳо ба ғамхорӣ кор илова мекунанд. Бигзоред, ки касе дигар мизбонӣ кунад ё мурғро пазад, ба чорабиниҳое, ки душвор мешаванд, «не» гӯед ва ҳангоме ки дигарон бо шахс вақт мегузаронанд, танаффус гиред. Агар шумо ё шахсе, ки ғамхорӣ мекунед, бемор бошед, аз ҳавлӣ даст ҷунбондан ё занги видеоӣ як боздиди комилан хуб аст. Барои дастгирии бештар [худнигоҳдории ғамхор](/caregiving/caregiver-self-care/)-ро бинед.

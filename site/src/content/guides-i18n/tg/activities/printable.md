@@ -1,33 +1,28 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Фаъолиятҳои чопшавандаи деменсия, ройгон"
+seoTitle: "Фаъолиятҳои чопшавандаи деменсия ройгон: чоп бо хатти калон"
+description: "Фаъолиятҳои ройгони чопшаванда барои деменсия: ҷустуҷӯи калима бо хатти калон, рангкунӣ, кортҳои сӯҳбат ва бинго, бо маслиҳат барои чоп."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments фаъолиятҳои чопшавандаи деменсияро ройгон пешниҳод мекунад: ҷустуҷӯи калима бо хатти калон, варақҳои рангкунӣ, кортҳои сӯҳбати тасвирӣ ва корти бинго. Дар ҳар саҳифаи бозӣ тугмаи Чоп вуҷуд дорад. Бо хатти калон ва оддӣ дар коғази ғафс чоп кунед, ҳар саҳифа барои як вазифа бошад ва варақҳоеро, ки мехоҳед дубора истифода баред, ламинат кунед. Варақаҳои хонагии содда, мисли саҳифаи достони ҳаёт ё ҷадвали рӯз, низ кӯмак мекунанд.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Фаъолиятҳои чопшавандаи мо ройгонанд: ҷустуҷӯи калима, рангкунӣ, кортҳои сӯҳбат ва бинго бо тасвирҳо. Дар ҳар саҳифаи бозӣ тугмаи Чоп ҳаст."
+  - "Бо хатти калон ва оддӣ бо контрасти қавӣ чоп кунед ва дар ҳар саҳифа як вазифа нигоҳ доред."
+  - "Коғази ғафс ё картон ба даст гирифтан осонтар аст ва зуд ҷуъда намешавад. Саҳифаҳоро ламинат кунед, то бо қаламҳои пок шаванда истифода шаванд."
+  - "Саҳифаҳои хонагӣ, мисли саҳифаи достони ҳаёт, ҷадвали рӯзона ё нишондиҳандаҳои тасвирии дарҳо, содда ва судманданд."
+  - "Саҳифаи чопшуда даъват аст, на вазифаи хонагӣ. Қисми он ё ҳеҷ чизи онро иҷро кардан хуб аст."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Оё фаъолиятҳои чопшавандаи деменсияи шумо ройгонанд?"
+    a: "Бале. Ҷустуҷӯи калима, Рангкунӣ, Кортҳои сӯҳбат ва Бинго бо тасвирҳо дар ин сайт барои истифода ва чоп ройгонанд. Саҳифаи бозиро кушоед ва тугмаи Чопро истифода баред."
+  - q: "Кадом фаъолиятҳои чопшаванда барои деменсия беҳтар аст?"
+    a: "Беҳтарин чопҳо содда, возеҳ ва калонсолона ҳастанд: ҷустуҷӯи калима бо хатти калон ва калимаҳо танҳо уфуқӣ ва амудӣ, варақҳои рангкунӣ бо хатҳои возеҳ, кортҳои тасвирӣ, ки сӯҳбат оғоз мекунанд ва бинго барои гурӯҳҳо. Фаъолиятро ба ҳавасҳо ва имкониятҳои ҳозираи шахс мувофиқ кунед ва дар ҳар саҳифа як вазифа нигоҳ доред."
+  - q: "Чӣ тавр чопҳоро осонтар дидан ва истифода бурдан мумкин аст?"
+    a: "Хатти калон ва оддӣ, сиёҳи торик дар коғази сафед ё кремӣ ва фазои кофӣ истифода баред. Барои он ки саҳифа ҳамвор бимонад, дар коғази ғафс ё картон чоп кунед, коғази матовиро интихоб кунед, то дурахшиши онро кам кунед ва бо тахтаи қоғазгир ё болишти нолағзанда саҳифаро ҷой нигоҳ доред. Ламинат кардан ба дарозумрии саҳифаҳо кумак мекунад."
+  - q: "Оё метавонам фаъолиятҳои шуморо барои хонаи нигоҳубин ё барномаи рӯзона чоп кунам?"
+    a: "Бале. Кормандони фаъолият барои чопи саҳифаҳои мо барои сокинон ва гурӯҳҳо хуш омадед. Бинго бо тасвирҳо барои гурӯҳҳо сохта шудааст ва эълонкунандаи дар экран дорад, ки онро ба телевизор ё проектор нишон додан мумкин аст."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +47,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Баъзан беҳтарин фаъолият варақи коғаз ва қалам дар мизи ошхона аст. Чопшаванда ба зарядкунӣ, парол ва экран ниёз надорад ва ба боздид ё гурӯҳ бурдан осон аст. Ин саҳифа фаъолиятҳои чопшавандаи ройгонро дар сайти мо тавсиф мекунад, тарзи чоп кардани онҳо барои дидан ва гирифтани осон, ва чанд варақаи содаи хонагиро, ки оилаҳо ва кормандони фаъолият судманд меёбанд.
 
-## What free printable activities do you offer?
+## Кадом фаъолиятҳои чопшавандаи ройгонро пешниҳод мекунем?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Мо чор чопи ройгон пешниҳод мекунем. Ҳар кадоме аз ин саҳифаҳои бозиро кушоед ва тугмаи **Чоп**-ро истифода баред, то нусхаи чопро гиред.
 
-| Printable | What it is | Good for |
+| Чопшаванда | Он чист | Барои чӣ хуб аст |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Ҷустуҷӯи калима](/games/word-search/) | Ҷустуҷӯи калимаи хатти калон, ки калимаҳо танҳо уфуқӣ ва амудӣ мераванд | Вақти ором бо қалам; шахсе, ки бозиҳои калимаро дӯст медошт |
+| [Рангкунӣ](/games/coloring/) | Варақҳои рангкунӣ барои чоп ё рангкунӣ дар экран | Вақти ором ва эҷодӣ; ҳар марҳила бо кумак |
+| [Кортҳои сӯҳбат](/games/conversation-cards/) | Кортҳои тасвирӣ бо даъватҳои кушоди бе саволномаи санҷиш аз рӯи мавзӯъ | Боздидҳо, занғҳо, хӯроки оилавӣ, гурӯҳҳои хотирот |
+| [Бинго бо тасвирҳо](/games/picture-bingo/) | Кортҳои бинго бо тасвир ба ҷои рақам, ва эълонкунандаи дар экран | Хонаҳои нигоҳубин, барномаҳои рӯзона, гирдиҳамоиҳои оилавӣ |
 
-### Large-print word search
+### Ҷустуҷӯи калима бо хатти калон
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Ҷустуҷӯи калима](/games/word-search/) ҳарфҳои калон истифода мебарад ва калимаҳоро танҳо уфуқӣ ва амудӣ нигоҳ медорад, бе диагонал ва калимаҳое, ки аз охир ба аввал хонда мешаванд. Якҷоя кор кунед: як нафар калимаро аз рӯйхат мехонад, дигаре онро меҷӯяд. Агар ёфтани калимаҳо душвор шавад, якҷоя ҳарфи аввали ҳар калимаро давра занед ё танҳо рӯйхати калимаҳоро баланд хонед ва дар бораи ҳар калима сӯҳбат кунед.
 
-### Coloring pages
+### Варақҳои рангкунӣ
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Рангкунӣ](/games/coloring/) варақҳоро барои маркер ё қаламҳои ранга чоп кардан мумкин аст, ё дар планшет бо пахш кардани ранг, сипас як қисми тасвир рангин карда мешавад. Барои варақҳои чопшуда, маркерҳои ғафс ва як-ду ранг дар як вақт пешниҳод кунед. Нигаред ба [роҳнамои ҳунарҳо ва ҳунармандӣ](/activities/arts-and-crafts/), то рангкуниро калонсолона ва ором нигоҳ доред.
 
-### Conversation cards
+### Кортҳои сӯҳбат
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Кортҳои сӯҳбат](/games/conversation-cards/) тасвири возеҳро бо даъвати кушод, мисли «Дар бораи ... нақл кунед» ё «Чиро мебинед?» ҷуфт мекунанд. Онҳо ҳамчун даъватҳои кушод навишта шудаанд, на саволҳои санҷишӣ. Як маҷмӯаро чоп кунед, онро бурида ҷудо кунед ва чандтоеро дар халта барои боздидҳо ё дар наздики телефон барои занг нигоҳ доред. Онҳо инчунин дар гурӯҳҳои [хотирот](/activities/reminiscence/) хуб кор мекунанд.
 
-### Picture bingo cards
+### Кортҳои бинго бо тасвирҳо
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Кортҳои [Бинго бо тасвирҳо](/games/picture-bingo/) ба ҷои рақам тасвир истифода мебаранд. Барои ҳар бозигар як корт чоп кунед ва эълонкунандаи дар экрани лаптоп, телевизор ё проектор истифода баред. Пешниҳод мекунем, ки то пур шудани кортҳои ҳама занг занед, то ҳеҷ кас аз он канор намонад. Барои тарзи иҷрои ҷаласа нигаред ба [фаъолиятҳои гурӯҳӣ барои хонаҳои нигоҳубин](/activities/care-home-groups/).
 
-## How do I print activities so they are easy to use?
+## Чӣ гуна фаъолиятро чоп кунам, то истифода бурдан осон бошад?
 
-Small changes in how you print make a big difference.
+Тағйироти хурд дар тарзи чоп фарқи калон мегузорад.
 
-### Make it easy to see
+### Барои дидан осон
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Хатти калон ва оддӣ.** Бузургтарин танзимоте, ки ҳанӯз дар саҳифа ҷо мегирад, истифода баред. Хатҳои зебо ё хаттотиро дур нигоҳ доред.
+- **Контрасти қавӣ.** Сиёҳи торик дар коғази сафед ё кремӣ. Заминаи хокистарӣ ё рангин нагузоред.
+- **Коғази матовӣ** дурахши зери чароғҳои равшанро кам мекунад.
+- **Айнак ва рӯшноиро санҷед.** Ассотсиатсияи Алсгеймер қайд мекунад, ки мушкилоти бинойӣ ва шунавоӣ муоширатро душвор мекунанд ва санҷиши мунтазамро тавсия медиҳад. Чароғи равшан ва мутавозин ҳам кӯмак мекунад.
 
-### Make it easy to hold
+### Барои гирифтан осон
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Коғази ғафс ё картон** ҳамвор мемонад, ба даст гирифтан осон аст ва истифодаи такрориро тоб меорад.
+- **Тахтаи қоғазгир** ё болишти нолағзанда саҳифаро аз лағжидан нигоҳ медорад.
+- **Маркерҳои ғафс ё қаламҳои калон** аз қаламҳои борик ба даст гирифтан осонтаранд.
 
-### Make it reusable
+### Барои истифодаи такрорӣ
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Саҳифаҳоро ламинат кунед** ё ба ғилофҳои шаффоф дароред. Барои ҷустуҷӯи калима ва кортҳои бинго қаламҳои пок шавандаро истифода баред ва баъд бо дастмол пок кунед.
+- **Ғилофи матовӣ интихоб кунед,** агар дурахш мушкил бошад, ва **гӯшаҳои кортҳои ламинатшударо бо қайчӣ давр занед,** то дар даст нигоҳ доштан роҳат бошад.
+- **Як феҳрист нигоҳ доред** аз дӯстдоштаҳо, то ҳар ҳафта як саҳифаро дубора чоп накунед.
 
-### Keep it simple
+### Оддӣ нигоҳ доред
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Як вазифа дар як саҳифа.** Танҳо як ҷустуҷӯи калима ё як тасвир, на якчанд фаъолият бо ҳам.
+- **Фазои зиёди сафед.** Саҳифаи пурҷӯш метавонад вазнин ба назар ояд.
+- **Дастури хондан набошад, иложи имкон.** Ба шахс нишон диҳед, ки чӣ кор кунад.
+- **Варақро хурд кунед.** Агар саҳифаи пурра зиёд бошад, онро ба ду нимаи ҷудо кунед ё шикан диҳед, то танҳо қисме намоён бошад.
 
-## Other useful printables you can make at home
+## Чопҳои муфиди дигаре, ки дар хона месозед
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Не ҳар чопи судманд бозӣ аст. Инҳо бо коркарди матн ва принтер сохтан осонанд.
 
-### A life-story page
+### Саҳифаи достони ҳаёт
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Варақи «дар бораи ман» бо акс, номе, ки шахс дӯст дорад, ки ӯро номанд, ҷои зодгоҳ, кор, оила, хӯроки дӯстдошта, мусиқӣ ва чизҳое, ки тасаллӣ ё нороҳат мекунанд. Деменсияи Австралия [китоби хотираро](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) пешниҳод мекунад, ки бо тафсилоти ҳаёт, писандҳо ва одамони муҳими шахс, барои кумаки меҳмонон ва парасторон ва барои барангехтани сӯҳбат.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Ин махсусан дар беморхонаҳо ва муассисаҳои нави нигоҳубин судманд аст. Институти миллии пиршавӣ тавсия медиҳад, ки ба кормандони беморхона [варақаи маълумоти шахсӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) диҳед, ки тартиби рӯзона, номи дӯстдоштаи шахс, писанду нописанд, эҳтимолан ангезандаҳо ва нишонаҳои бе сухан дарди онро дар бар гирад.
 
-### A daily schedule
+### Ҷадвали рӯзона
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Як ҷадвали калон ва содаи рӯз бо вақтҳо, якчанд калима ва як тасвири хурд барои ҳар қисм: субҳона, сайр, хӯроки нисфирӯзӣ, истироҳат, мусиқӣ, шом. Ассотсиатсияи Алсгеймер дар [нақшаи рӯзонаи нигоҳубин](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) пешниҳод мекунад, ки нақшаро дар атрофи беҳтарин вақти рӯзи шахс созед, бо вақти мунтазами бедоршавӣ ва хоб ва мувозинати фаъолият ва истироҳат. Онро дар сатҳи чашм, масалан дар яхдон овезед ва чандир нигоҳ доред. Барои бештар нигаред ба [роҳнамои тартиби рӯзона](/activities/daily-routine/).
 
-### Picture labels for rooms and drawers
+### Нишондиҳандаҳои тасвирӣ барои хонаҳо ва кашолаҳо
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Институти миллии пиршавӣ пешниҳод мекунад, ки нишонаҳои рангини равшан ё тасвирҳои содда барои [нишон гузоштани ҳаммом, хоб ва ошхона](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) истифода шаванд. Ҳамин ғоя барои кашолаҳо ва ҷевонҳо низ кор мекунад: тасвири ҷӯроб дар кашолаи ҷуроб, пиёла дар ҷевони пиёлаҳо. Чоп кунед, ламинат кунед ва часпонед.
 
-### A sorting set
+### Маҷмӯаи ҷудокунӣ
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Тасвирҳоро аз ду гурӯҳи содда, масалан мева ва гул ё асбобҳо ва ашёи ошхона, ба картон чоп кунед. Онҳоро бурида, якҷоя ба ду сабад ҷудо кунед. Версияи дар экрани ин [Якҷоя ҷудо кардан](/games/sort-together/) аст.
 
-### Song lyric sheets
+### Варақҳои матни сурудҳо
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Калимаҳои якчанд суруди дӯстдошта бо хатти хеле калон барои сурудхонӣ чоп кунед. Ҳатто онҳое, ки дигар зиёд намехонанд, метавонанд аз дар даст доштани варақ лаззат баранд.
 
-### A family photo page
+### Саҳифаи аксҳои оилавӣ
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Як саҳифаи танҳо бо чор то шаш аксҳои калони оилавӣ, ки дар зери ҳар кадом номи аввал навишта шудааст. Он метавонад дар миз барои ҳар кас гирифтану сӯҳбат карданаш монад. Ёддошт ба меҳмонон ва кормандон кӯмак мекунад ба сӯҳбат пайваст шаванд, ва ҳеҷ кас ба пурсидани «Ин кист?» маҷбур намешавад.
 
-### A recipe card
+### Корти дастури хонагӣ
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Дастури оилавии пухтани дӯстдоштаро бо хатти калон чоп кунед. Онро барои якҷоя пухтан истифода баред, ё танҳо барои сӯҳбат дар бораи хӯрокҳои гузашта.
 
-## How do I offer a printable without it feeling like homework?
+## Чӣ гуна чопро бидуни ба корҳои хонагӣ монанд шуданаш пешниҳод кунам?
 
-Present it as something to share, not a test.
+Онро ҳамчун чизе барои мубодила пешниҳод кунед, на санҷиш.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Нишинед ва худатон оғоз кунед.** «Ман ин ҷустуҷӯи калимаро мекунам. Мехоҳед дар ёфтани «боғ» ба ман кумак кунед?»
+- **Якҷоя кор кунед.** Навбат гиред ё як нафар меёбад ва дигаре давра мезанад.
+- **Ҳеҷ гоҳ дуруст ё нодуруст нанависед.** Роҳнамои [фаъолиятҳо дар хона](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf)-и Ассотсиатсияи Алсгеймер ба диққат ба раванд, на натиҷа, ва ба лаззат, на дастоварди муваффақият, маслиҳат медиҳад.
+- **Саҳифаҳоро гузоред.** Ҳамон роҳнамо пешниҳод мекунад, ки дафтарҳои ёддошт, албомҳои аксӣ ё маҷаллаҳои кӯҳнаро дар ҷойҳои дастрас гузоред. Корти чопшуда ва саҳифаҳои аксӣ ҳамин тавр дар миз дар паҳлӯ ҷой гирифта метавонанд.
+- **Ҳар вақт хоҳед, қатъ кунед.** Нисфи варақи рангкунӣ як нисфирӯзии хуб аст. Ҳамчунин варақро гузоштан ва як пиёла чой нӯшидан.
 
-## Where to find more
+## Дар бораи бештар ҷустуҷӯ кунед
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Ҳамаи [бозиҳо ва чопҳои мо](/games/) бинед, ё барои бештар ғояҳо барои ҳар марҳила, бо коғаз ва бе он, нигаред ба [фаъолиятҳо барои ҳар марҳила](/activities/ideas/).

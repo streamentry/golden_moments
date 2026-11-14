@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Бо шахси гирифтори деменсия чӣ тавр бозӣ кардан лозим аст"
+description: "Роҳнамои амалӣ оид ба бозӣ бо шахси гирифтори деменсия: омодагӣ, суръат, ислоҳ накардан, осон кардани бозӣ ва донистани вақти қатъ кардан."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Бозиро ҳамчун вақти якҷоя ҳисоб кунед, на санҷиш. Вақти ороми рӯзро интихоб
+  кунед, дар ҳуҷраи ором паҳлӯ ба паҳлӯ бинишинед ва як бозии оддӣ пешниҳод
+  намоед. Бигзор шахс суръатро худаш муайян кунад, хатоҳои безарарро ислоҳ
+  накунед, бо аввалин нишонаи фишор бозиро осонтар кунед ва тасвирҳоро ба сӯҳбат
+  табдил диҳед. То даме ки хуш аст, қатъ кунед. Барвақт тамом кардан ё танҳо
+  якҷоя тамошо кардан натиҷаи хуб аст.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Мақсад лаззат ва наздикӣ аст, на анҷом додан ё дуруст ҷавоб додан."
+  - "Аввал омода кунед: ҳуҷраи ором, равшанӣ хуб, айнак ва асбоби шунавоӣ дар ҷой, телевизор хомӯш, як бозӣ тайёр."
+  - "Хатоҳои безарарро ислоҳ накунед. Бигӯед «Биёед ин тавр кӯшиш кунем» ё танҳо давом диҳед."
+  - "Пеш аз он ки ноумедӣ афзояд, бозиро осон кунед: тасвирҳои камтар, интихоби камтар, тасвирҳо намоён мемонанд."
+  - "Тасвирҳоро ҳамчун оғози ҳикояҳо бо «Дар бораи ин ба ман нақл кунед...» истифода баред, на «Дар хотир доред...?»"
+  - "Бо аввалин нишонаҳои хастагӣ ё ранҷиш қатъ кунед. Барвақт қатъ кардан муваффақият аст, на нокомӣ."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Бозиро чанд вақт давом диҳем?"
+    a: "Дарозии дуруст вуҷуд надорад. Барои бисёр одамон чанд дақиқа кофист ва дар баъзе рӯзҳо як давр басанда аст. Ба шахс нигоҳ кунед, на ба соат, ва то даме ки ором менамояд, қатъ кунед."
+  - q: "Оё бигзорам ӯ бибарад ё вонамуд кунам, ки хатоҳоро намебинам?"
+    a: "Дар бозии муштарак ва бе фишор чизе барои бурдан ё бохтан нест. Агар хато шахсро ба ташвиш наорад, онро гузаред. Агар ба ташвиш орад, оромона кумак кунед ё бозиро бе ишора кардан осонтар намоед."
+  - q: "Агар ӯ бештар тамошои бозии маро афзал донад, чӣ?"
+    a: "Ин хуб аст. Институти миллии пиронсолӣ тавсия медиҳад, ки агар шахс аз тамошо бештар лаззат барад, танҳо тамошо кунад. Дар бораи он чи мебинед, сухан гӯед ва ӯро даъват кунед, ки ҳар вақт хост ишора кунад ё интихоб намояд."
+  - q: "Оё ин бозиҳо роҳи санҷиши хотира мебошанд?"
+    a: "Не. Бозиҳои мо машғулиятҳои оддии муштарак барои лаззат ва сӯҳбатанд. Онҳо санҷиши хотира нестанд, чизеро чен намекунанд ва табобати деменсия нестанд."
+  - q: "Аз кадом бозӣ беҳтар аст оғоз кунем?"
+    a: "Аз оддитарине оғоз кунед, ки ба шахс мувофиқ аст. Ҷуфтҳои тасвирӣ бо чор плитка ва тасвирҳои намоён, ё Ёфтани монанд бо ду интихоб, нуқтаҳои мулоими оғозанд. Кортҳои сӯҳбат хуб кор мекунанд, агар шахс сӯҳбатро аз задан бештар дӯст дорад."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Бозии хуб бо шахси гирифтори деменсия ба мусобиқа монанд нест. Он чунин менамояд: ду нафар наздик менишинанд, ба тасвирҳо ишора мекунанд, аз зарбулмасале механданд ва дар бораи ҳар чизе, ки пеш меояд, сӯҳбат мекунанд. Бозӣ танҳо баҳонаест барои якҷоя гузарондани вақт.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ин роҳнамо дар бораи он аст, ки чӣ тавр омода шавем, суръати бозиро чӣ тавр танзим кунем, вақте чизе «нодуруст» шавад чӣ бигӯем, чӣ тавр ҳар бозиро осонтар ё каме душвортар кунем, чӣ тавр онро ба сӯҳбат табдил диҳем ва чӣ тавр бифаҳмем, ки кай қатъ кардан лозим аст. Он ҳам барои [бозиҳои](/games/) мо ва ҳам барои кортҳо, муаммоҳо ва бозиҳои рӯймизӣ аллакай доштаатон кор мекунад.
 
-## What is the best way to play a game with someone who has dementia?
+## Беҳтарин роҳи бозӣ бо шахси гирифтори деменсия кадом аст?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Ба лаззат диққат диҳед, на ба комёбӣ. Ин маслиҳати асосии [роҳнамои Ассотсиатсияи Алтсгеймер оид ба машғулиятҳо](https://www.alz.org/help-support/caregiving/daily-care/activities) аст: ба малакаҳое такя кунед, ки шахс ҳанӯз дорад, ба ӯ дар оғоз кӯмак кунед, қисматҳои душворро худатон анҷом диҳед ва машғулиятҳои безарарро танқид ё ислоҳ накунед.
 
-In practice that means:
+Дар амал ин маънои онро дорад:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Дар паҳлӯи ӯ бинишинед, на рӯ ба рӯ.** Паҳлӯ ба паҳлӯ ҳардуи шумо экран ё мизро мебинед ва кӯмак ба ҳамкорӣ монанд аст, на ба назорат.
+- **Як бор як бозӣ пешниҳод кунед.** Рӯйхати интихобҳо метавонад пеш аз оғоз ба санҷиш монанд эҳсос шавад.
+- **Пайрави ӯ бошед.** Агар ӯ хоҳад ба тасвирҳо бо тартиби худаш зад, даҳ дақиқа дар бораи як тасвир сухан гӯяд ё баъд аз ду навбат қатъ кунад, ҳамин бозии имрӯз аст.
+- **Лаҳзаҳои хубро ҳисоб кунед, на давраҳои анҷомёфтаро.** Табассум, ҳикоя ё ним соати ором натиҷаест, ки шумо меҷӯед.
 
-## How do I set up before we start?
+## Пеш аз оғоз чӣ тавр омода шавам?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Чанд дақиқа омодагӣ аксари ноумедиеро, ки одамон ба худи бозӣ нисбат медиҳанд, пешгирӣ мекунад.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Беҳтарин вақти рӯзи ӯро интихоб кунед.** [Роҳнамои Институти миллии пиронсолӣ (NIA) оид ба мутобиқ кардани машғулиятҳо](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) пешниҳод мекунад, ки сайрҳо ва машғулиятҳоро барои вақти рӯзе банақша гиред, ки шахс беҳтарин ҳолат дорад. Барои бисёр одамон ин охири субҳ аст. Нимрӯзии дер аксар вақт душвортар аст; нигаред: [машғулиятҳои ором барои нимрӯзии дер](/caregiving/late-day-restlessness/).
+2. **Ҳуҷраро ором кунед.** Телевизор ва радиоро хомӯш кунед ва агар тавонед, дарро пӯшед. [Эътилофи парваришгарони оилавӣ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тавсия медиҳад, ки пеш аз сӯҳбат садо ва чизҳои парокандакунандаро кам кунед.
+3. **Аввал роҳатиро санҷед.** Нӯшиданӣ дар наздикӣ, рафтан ба хоҷатхона пешакӣ, курсии роҳат ва айнак ва асбоби шунавоӣ дар ҷой.
+4. **Фазоро хуб равшан кунед.** Рӯшноии равшан ва ҳамвор бе тобиш дар экран тасвирҳоро осонтар намоён мекунад.
+5. **Пеш аз нишастан бозиро омода кунед.** Онро кушоед, танзимотро интихоб кунед ва садоро худатон танзим намоед. Баъд экранро ба сӯи ӯ гардонед. Барои маслиҳатҳои планшет нигаред: [танзими планшет ё телефон](/caregiving/tablets-and-screens/).
+6. **Дастгоҳро такя диҳед.** Пояе ё ғилофе, ки планшетро рост нигоҳ медорад, маънои онро дорад, ки касе набояд онро дошта истад ва ишора кардан осонтар аст.
 
-## How do I invite them without pressure?
+## Чӣ тавр бе фишор ӯро даъват кунам?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Даъватро муқаррарӣ ва рад кардани онро осон созед. Чанд ибора, ки одатан хуб кор мекунанд:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Ман чанд тасвири боғро ёфтам. Мехоҳед бо ман тамошо кунем?»
+- «Метавонед ба ман дар ин муаммо кумак кунед? Ман монда шудам.»
+- «Имрӯз гулҳо мехоҳед ё паррандаҳо?» (интихоби аз ду осонтар аз саволи кушод аст)
+- «Ман барои хоҳаратон корт месозам. Ин бояд кадом ранг шавад?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки мақсади машғулиятро шарҳ диҳед, масалан сохтани корт барои дӯст, зеро сабаб ба он маъно мебахшад. Кумак пурсидан низ кор мекунад, чунки ба шахс имкон медиҳад худро муфид эҳсос кунад.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Агар ӯ «не» гӯяд, онро қабул кунед. Баъдтар боз кӯшиш кунед ё чизи дигаре пешниҳод намоед. Роҳнамои мо дар бораи [чӣ кор кардан, вақте ки шахс «не» мегӯяд](/caregiving/when-they-say-no/) бештар шарҳ медиҳад.
 
-## How long should a game last, and how fast should we go?
+## Бозӣ чанд вақт давом кунад ва бо кадом суръат равем?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Бигзор шахс суръатро худаш муайян кунад ва барои машғулиятҳои кӯтоҳ нақша гиред. Барои бозии муштарак дарозии идеалии бар далел асосёфта вуҷуд надорад. Аз ду то панҷ дақиқаи ором метавонад як машғулияти пурра бошад.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Дарозтар аз табиӣ интизор шавед.** NIA тавсия медиҳад, ки ба шахс барои посух вақти бештар диҳед ва кӯшиш кунед, ки сухани ӯро набурред. Пеш аз кумак кардан дар зеҳни худ то даҳ бишморед.
+- **Қадам ба қадам.** Як дастури кӯтоҳ диҳед («Ба як тасвир зада»), баъд интизор шавед. Нишон диҳед, на шарҳ: ба ҷое, ки бояд зад, ишора кунед.
+- **Озодона таваққуф кунед.** Агар ӯ барои сӯҳбат дар бораи тасвире таваққуф кунад, бозӣ метавонад интизор шавад. Шитоб лозим нест.
+- **Бигзор тамошо кунад.** NIA қайд мекунад, ки баъзе одамон тамошоро афзал медонанд ва ин интихоби дуруст аст.
 
-## Should I correct wrong answers?
+## Оё посухҳои нодурустро ислоҳ кунам?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Не. Бо мулоимӣ такроран ислоҳ кардани касе ба ӯ мегӯяд, ки ӯ ноком мешавад, ҳатто агар шумо ният нек дошта бошед. Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки машғулиятҳои безарарро танқид ё ислоҳ накунед. Дар бозӣ қариб ҳар хато безарар аст.
 
-| Instead of | Try |
+| Ба ҷои | Кӯшиш кунед |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Не, ин нодуруст аст.» | «Биёед ин тавр кӯшиш кунем.» (намунае, ки NIA медиҳад) |
+| «Ин мувофиқ нест. Дубора нигоҳ кунед.» | Чизе нагӯед ва навбати худро бозед, ё «Аҳ, ҳарду сурханд.» |
+| «Дар хотир доред, ин кист?» | «Дар бораи ин тасвир ба ман нақл кунед.» |
+| «Шумо ин якро аллакай кардед.» | «Ин хуб аст. Биёед боз кунем.» |
+| «Биёед, шумо инро медонед.» | «Мехоҳед анҷомашро нишон диҳам?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Агар хато ӯро ошкоро ноумед кунад, оромона кумак кунед. Ба тасвири дуруст ишора кунед, худатон навбат гиред ё бозиро дар давраи оянда осонтар кунед. Агар зарбулмасал анҷоми хандаовари нодуруст гирад, бо ӯ хандед. Шояд анҷоми ӯ беҳтар бошад.
 
-## How do I make a game easier or harder?
+## Бозиро чӣ тавр осонтар ё душвортар кунам?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Бозиро ба шахс дар ҳамон рӯз мутобиқ кунед, на ба номи марҳила. Як шахс шояд шомгоҳ нисбат ба субҳ варианти соддатар лозим дошта бошад. Маслиҳати аввали NIA ин аст, ки машғулиятро ба он чи шахс карда метавонад мувофиқ кунед ва боварӣ ҳосил намоед, ки ӯ худро муваффақ эҳсос мекунад.
 
-| Game | Make it easier | Make it a little harder |
+| Бозӣ | Онро осонтар кунед | Онро каме душвортар кунед |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Ҷуфтҳои тасвирӣ](/games/picture-pairs/) | Бо 4 плитка оғоз кунед ва тасвирҳоро намоён гузоред | Плиткаҳои бештар, ё тасвирҳоро пинҳон кунед, агар ин роҳат бошад |
+| [Ёфтани монанд](/games/find-the-same/) | 2 интихоб | То 4 интихоб |
+| [Якҷоя ҷудо кардан](/games/sort-together/) | Шумо тасвирро доред, ӯ ба сабад ишора мекунад | Ӯ ҳам тасвир ва ҳам сабадро худаш мезанад |
+| [Муаммои тасвирӣ](/games/picture-puzzle/) | 4 порча, аввал дар бораи тасвири пурра сухан гӯед | 9 порча |
+| [Зарбулмасалро тамом кунед](/games/finish-the-saying/) | Анҷомро нишон диҳед, баъд якҷоя бигӯед | Бигзор анҷомро пеш аз задан худаш бигӯяд |
+| [Ҷустуҷӯи калима](/games/word-search/) | Онро чоп кунед, як калимаро якҷоя ҷустуҷӯ кунед, ба ҳарфи аввали он ишора кунед | Бигзор калимаи навбатиро худаш интихоб кунад |
+| [Ранг кардан](/games/coloring/) | Шумо ду рангро интихоб мекунед, ӯ аз байни онҳо интихоб мекунад | Ӯ ҳамаи рангҳоро интихоб мекунад |
+| [Кортҳои сӯҳбат](/games/conversation-cards/) | Танҳо якҷоя ба тасвир нигоҳ кунед | Пешниҳодҳои кушодро аз корт истифода баред |
+| [Ҷуфтҳои акс](/games/photo-pairs/) | Чанд акси оилавии азизшуда | Аксҳои бештар илова кунед |
+| [Бинголи тасвирӣ](/games/picture-bingo/) | Ёрдамчӣ дар назди ҳар бозигар менишинад | Бозигарон кортҳои худро худашон ишора мекунанд |
+| [Нафаскашии ором](/games/calm-breathing/) | Танҳо бинишинед ва якҷоя тамошо кунед | Оҳиста ҳамроҳ нафас кашед |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Нишонаҳои он ки бозӣ хеле душвор аст: таваққуфҳои дароз, ки ба ташвиш монанд аст, на ба андеша, такрори «ман наметавонам», дур кардани дастгоҳ ё хатоҳое, ки ӯро ранҷонанд. Нишонаҳои он ки шояд хеле осон бошад: дилгирӣ, ё гуфтани он, ки ин кӯдакона аст. Агар чунин шавад, онро ҳурмат кунед ва ба чизе гузаред, ки калонсолона эҳсос мешавад, масалан ҷустуҷӯи калима, муаммои акси воқеӣ ё сӯҳбат дар бораи тасвири касби пешинаи ӯ.
 
-## How do I turn a game into a conversation?
+## Бозиро чӣ тавр ба сӯҳбат табдил диҳам?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Ҳар тасвирро ҳамчун даъват ба сӯҳбат истифода баред ва ҳар чизеро, ки ӯ мегӯяд, посухи хуб ҳисоб кунед. Барои бисёр оилаҳо ин беҳтарин қисми бозист.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Саволҳои кушод ва бе посухи нодуруст диҳед.** «Чиро пайхас мекунед?» «Кадомаш ба шумо маъқул аст?» «Дар бораи ошхонае ба монанди ин ба ман нақл кунед.»
+- **Аввал худатон мубодила кунед.** «Бибии ман саге ба монанди ин дошт.» Ҳикояи шумо мубодилаи ҳикояро барои ӯ осонтар мекунад.
+- **Паси ҳошияро гиред.** Агар тасвири мошин ба ҳикояи сафар оварда расонад, худи ҳикоя машғулият аст. Бозиро таваққуф гузоред.
+- **Далелҳоро санҷед накунед.** Дар хотираҳо сӯҳбати гуворо аз тафсилоти дуруст муҳимтар аст. Агар ҳикоя аз навбати пешин фарқ кунад, аз варианти нав лаззат баред.
+- **Пешниҳодҳои дарунсохтро истифода баред.** [Зарбулмасалро тамом кунед](/games/finish-the-saying/) пас аз ҳар зарбулмасал пешниҳоди сӯҳбат меорад ва [Кортҳои сӯҳбат](/games/conversation-cards/) маҳз барои ҳамин сохта шудаанд. [Ҷуфтҳои акс](/games/photo-pairs/) аксҳои оилавии худатонро истифода мебарад, ки аксар вақт бойтарин ҳикояҳоро бармеангезанд.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Ғояҳои бештар дар роҳнамоҳои мо оид ба [машғулиятҳои хотира](/activities/reminiscence/) ва [маслиҳатҳои муошират](/caregiving/communication-tips/) мавҷуданд.
 
-## When should we stop?
+## Кай бояд қатъ кунем?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Бо аввалин нишонаҳои хастагӣ ё ранҷиш қатъ кунед ва беҳтараш каме пештар. Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки вақте диққат суст мешавад ё ноумедӣ меафзояд, машғулиятро қатъ ё тағйир диҳед.
 
-Watch for:
+Диққат диҳед:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ҳамёза кашидан, фурӯ рафтани китфҳо ё нигоҳи аз экран дур шуда;
+- беқарорӣ, аз ҷой хестан ё хоҳиши рафтан;
+- оҳ кашидан, посухҳои кӯтоҳ ё «ман дар ин кор бад ҳастам»;
+- тасодуфӣ задан ё дур кардани дастгоҳ;
+- гиря, хашм ё тағйири ногаҳонии кайфият.
 
-How to stop well:
+Чӣ тавр хуб қатъ кардан:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Бо чизи осон тамом кунед.** Як мувофиқати охирин, ки ӯ карда метавонад, ё як тасвири охирин барои тамошо.
+- **Онро дар бораи худ кунед.** «Ман як пиёла чой мехоҳам. Дар ин ҷо қатъ кунем?» ҳар ишораи он ки ӯ бад бозӣ кард, дур мекунад.
+- **Ба чизи ҷисмонӣ ё ором гузаред.** Сайри кӯтоҳ, газак, ҷамъ кардани либосҳои шустӣ ё мусиқӣ.
+- **Чизи гарм бигӯед.** «Аз ин кор бо шумо хушҳол шудам.» Таърифе барои «дуруст кардан» не, танҳо хушнудӣ аз вақти якҷоя.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Барвақт тамом кардан, тағйир додани нақша ё даст кашидан аз бозӣ ва танҳо якҷоя нишастан ҳама натиҷаҳои хубанд.
 
-## Can we play in a group or over a video call?
+## Оё дар гурӯҳ ё тавассути занги видео бозӣ кардан мумкин аст?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Бале, бо омодагии иловагӣ. Дар гурӯҳ онро ба чанд нафар маҳдуд кунед, ёрдамчиёнро дар паҳлӯи касе, ки ба онҳо ниёз дорад, шинонед ва бозиеро интихоб кунед, ки таваҷҷӯҳи равшани муштарак дорад. [Бинголи тасвирӣ](/games/picture-bingo/) барои гурӯҳҳо кортҳои чопшаванда ва эълонкунандаи рӯи экран дорад. Барои маълумоти бештар [машғулиятҳо барои гурӯҳҳои хонаи нигоҳубин](/activities/care-home-groups/)-ро бинед.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Дар занги видео шахсе, ки дар занг аст, метавонад тасвирро тавсиф кунад, дар ҳоле ки касе дар ҳуҷра ишора ва зада мекунад. Зангҳоро кӯтоҳ ва ошно нигоҳ доред. Роҳнамои мо оид ба [занги телефонӣ ва видео](/activities/phone-and-video-calls/) маслиҳатҳои бештар дорад.
 
-## What if a game just isn't working?
+## Агар бозӣ кор накунад, чӣ?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Баъзе рӯзҳо ҳеҷ чиз намегирад ва ин инъикоси шумо ё ӯ нест. Бозиро бардоред ва дар вақти дигари рӯз, бозии дигар ё бе бозӣ кӯшиш кунед. Бисёр машғулиятҳои хуб ба экран робитае надоранд: мусиқӣ, ҷамъ кардани сачоқҳо, нигоҳ кардани албоми акс ё сайри кӯтоҳ. Барои маълумоти бештар [ғояҳои машғулиятҳо](/activities/ideas/)-и моро бубинед.

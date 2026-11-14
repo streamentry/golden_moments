@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "סענסאָרישע אַקטיװיטעטן פֿאַר מענטשן מיט דעמענץ"
+seoTitle: "סענסאָרישע דעמענץ-אַקטיװיטעטן: אידייען און זיכערקייט"
+description: "סענסאָרישע אַקטיװיטעטן פֿאַר דעמענץ, פֿון האַנט-מאַסאַזש ביז שטאָף-קאָשן און נאַטור-קולות, מיט זיכערקייט-הינװײזן פֿאַר אַלערגיעס און ריחות."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  סענסאָרישע אַקטיװיטעטן נוצן די פֿינף חושים: אַ פּאָמעלעכער האַנט-מאַסאַזש, אַ קאָש
+  װײכע שטאָפֿן, פֿרישע קרײַטער צו שמעקן, נאַטור-קולות אָדער פֿייגל בײַם פֿענצטער.
+  זײ פּאַסן פֿאַר יעדן שטאַדיום און זענען בפֿרט װערטפֿול אין דער שפּעטער פֿאַזע.
+  קאָנטראָלירט פֿאַר פֿאַרשלוקן, אַלערגיעס, הויט-פּראָבלעמען און ריח-עמפֿינדלעכקייט,
+  גיט איין זאַך אין אַ מאָל, און הערט אויף אויב דער מענטש װערט אומרויִק.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "סענסאָרישע אַקטיװיטעטן דאַרפֿן נישט קײן רעכטע ענטפֿערן, װאָס מאַכט זײ אַרבעטן אין יעדן שטאַדיום, אַפֿילו אין בעט אָדער אויפֿן שטול."
+  - "גיט איין חוש אין אַ מאָל, אין אַ רויִקן צימער, און פֿרעגט אָדער זאָגט פֿאַר איר רירט אָן."
+  - "מײַדט קלײנע זאַכן און אַלץ װאָס זעט אויס אָדער ריכט זיך װי עסן, װײַל מענטשן קענען שטעקן זאַכן אין מױל."
+  - "קאָנטראָלירט אויף אַלערגיעס, הויט-פּראָבלעמען און אָטעם-פּראָבלעמען איידער איר ניצט לאָשנס, ריחות אָדער עסן."
+  - "עס איז נישטאָ קײן איבערצײגנדיקער באַװײַז אַז אַראָמאַטעראַפּיע העלפֿט מיט דעמענץ-סימפּטאָמען; ניצט ריחות נאָר פֿאַר פּשוטן פֿאַרגניגן, אויב איבערהויפּט."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "װאָס זענען גוטע סענסאָרישע אַקטיװיטעטן פֿאַר אַ מענטש מיט דעמענץ?"
+    a: "פּשוטע אידייען, אַרײַנגערעכנט אַ פּאָמעלעכן האַנט-מאַסאַזש מיט לאָשן, האַנטלען װײכע שטאָפֿן, שמעקן פֿרישע קרײַטער אָדער קאַװע, צוהערן צו באַקאַנטע מוזיק אָדער נאַטור-קולות, קוקן אויף פֿייגל אָדער אַ פֿיש-באַסיין, און פּרוּװן אַ ליב-געהאַט עסן אין אַ זיכערער טעקסטור. גיט איין זאַך אין אַ מאָל און קוקט װי דער מענטש רעאַגירט."
+  - q: "זענען סענסאָרישע אַקטיװיטעטן זיכער פֿאַר אַ מענטש װאָס שטעקט זאַכן אין מױל?"
+    a: "זײ קענען זײַן, מיט זאָרג. ניצט נאָר גרױסע זאַכן װאָס מען קען נישט פֿאַרשלינגען, מײַדט אַלץ קלײנס אָדער צעברעכלעכס, און האַלט לאָשנס, זײפֿן און פּאַרפֿומס אױסער דערגרײכ נאָך דער אַקטיװיטעט, װײַל זײ קענען אויסזען אָדער ריכן װי עסן. בלײַבט בײַם מענטש די גאַנצע צײַט."
+  - q: "העלפֿט אַראָמאַטעראַפּיע בײַ דעמענץ?"
+    a: "אַ איבערזיכט פֿון Cochrane האָט קײן איבערצײגנדיקע באַװײַזן נישט געפֿונען אַז עס העלפֿט מענטשן מיט דעמענץ, כאָטש די שטודיעס זענען קליין און אומגלײַכיק. אויב דער מענטש האָט הנאה פֿון אַ מילדן, באַקאַנטן ריח, װי לאַװענדל פֿון דעם גאָרטן, איז דאָס אַ גוטע סיבה צו טיילן עס. מײַדט שטאַרקע עטערישע עלן, בפֿרט װען עס איז אַסטמע אָדער אַלערגיעס."
+  - q: "װאָס איז אַ אַקטיװיטעט-פֿאַרטעך?"
+    a: "עס איז אַ פֿאַרטעך, שטיק שטאָף אָדער שויס-דעק מיט זאַכן צו האַנדלען פֿעסט אָנגענייט, װי גרױסע קנעפּ, רײסלעך, באַנדן און טעקסטורירטע פֿלעקן. עס גיט פֿאַרנומענע הענט עפּעס צו פֿאָרשן. קאָנטראָלירט עס אָפֿט אויף אַלץ לאָזע װאָס קען אָפּגעצויגן װערן."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+סענסאָרישע אַקטיװיטעטן נוצן די פֿינף חושים: באַרירונג, ריח, טעם, קול און זען. זײ דאַרפֿן נישט קײן זכּרון, נישט קײן שריט און נישט קײן רעכטע ענטפֿערן, דעריבער קענען זײ אַרבעטן אין יעדן שטאַדיום. זײ זענען אַ סך װערטפֿול שפּעטער אויף. די [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) באַמערקט אַז אין דער שפּעטער פֿאַזע װערט די װעלט דערפֿאַרן מערסטנס דורך די חושים, און אַז מען קען װײַזן זאָרג דורך באַרירונג, קול, זען, טעם און ריח. אַ פּאָר זיכערקייט-קאָנטראָלן מאַכן די אַקטיװיטעטן אָנגענעם פֿאַר אַלעמען.
 
-## What are sensory activities for dementia?
+## װאָס זענען סענסאָרישע אַקטיװיטעטן פֿאַר דעמענץ?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+סענסאָרישע אַקטיװיטעטן זענען פּשוטע דערפֿאַרונגען װאָס זענען געבױט אויף איין חוש אין אַ מאָל, װי פֿילן שטאָף, שמעקן קרײַטער אָדער הערן רעגן. די [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) זאָגט אַז שפּעטערע אַקטיװיטעטן דאַרפֿן אָפֿט פֿאָקוסירן אויף די חושים, און דערמאָנט מוזיק, אָבדזשעקטן צו טאַפּן און האַנדלען, און האַנט-מאַסאַזש. די [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) באַמערקט אַז מענטשן אין דער שפּעטער פֿאַזע קענען האָבן אַ שטאַרקע באַדערפֿעניש צו האַלטן עפּעס נאָענט פֿאַר קאָמפֿאָרט.
 
-## Sensory ideas, sense by sense
+## סענסאָרישע אידייען, חוש בײַ חוש
 
-### Touch
+### באַרירונג
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **האַנט-מאַסאַזש.** װאַרעמט אַ ביסל לאָשן אין אײַערע הענט און סטרײכט פּאָמעלעך פֿון דער האַנטבאַנד ביז די פֿינגער. די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) דערמאָנט מאַסאַזש מיט אומפּאַרפֿומטן לאָשן פֿאַר קאָמפֿאָרט.
+- **שטאָף-קאָש.** גרױסע קװאַדראַטן פֿון סאַמעט, קאָרדזשורױ, פֿליז, סאַטין און װאָל צו סטרײכן, פֿאַלדן און װעגן דערצײלן.
+- **װאַרעמער װאַשלאַפּ.** אַ װאַרעם, פֿײַכט טוך פֿאַר די הענט אויף אַ קאַלטן טאָג. טעסט די טעמפּעראַטור אויף אײַערן אייגענעם האַנטגעלענק פֿריער.
+- **אַקטיװיטעט-פֿאַרטעך אָדער שויס-דעק.** גרױסע קנעפּ, רײסלעך, באַנדן און טעקסטורירטע פֿלעקן, פֿעסט אָנגענייט.
+- **פֿאַלדן און גלעטן.** אַ קאָש ריינע װאַשלאַפּן אָדער סערװעטן צו פֿאַלדן, שטאַפּלען און װידער פֿאַלדן.
+- **עפּעס װײַך צו האַלטן.** אַ פֿליז-דעק, אַ קישן אָדער אַ װײכע צאַצקע, אָנגעבאָטן פּשוט, קײנמאָל נישט װי אַ שפּילזאַך.
 
-### Smell
+### ריח
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **פֿרישע קרײַטער.** רײבט מינץ, ראָזמערין, באַזיליקום אָדער לאַװענדל-בלעטער צװישן די פֿינגער און פֿירט זײ איבער.
+- **קיכן-ריחות.** קאַװע װאָס מאַכט זיך, ברױט װאָס טוסטעט, צימט אָדער אַ פּאָמעראַנץ װאָס מען שאַלט נאָענט.
+- **בלומען.** ברענגט אַרײַן אַ פּאָר פֿרישע בלומען פֿון דעם גאָרטן אָדער פֿון אַ סופּערמאַרקעט.
+- **אַ באַקאַנטער פּראָדוקט.** די זײף אָדער לאָשנס װאָס זײ האָבן שטענדיק גענוצט, אויב די הויט טאָלערירט עס.
 
-### Taste
+### טעם
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **אַ ליב-געהאַטער טעם.** אַ קלײן לעפֿל פֿון עפּעס װאָס זײ האָבן ליב, װי אַפּל-סאָס, פּודינג אָדער אײַז-קרעם, אין אַ טעקסטור װאָס זײ קענען זיכער האַנדלען.
+- **הילף בײַם באַקן.** פּרוּװט פֿרוכטן אָדער אַ ביסל גלאַזור בשעת איר באַקט צוזאַמען.
+- **סעזאָנדיקע טרײַטן.** װאָסערמעלאָן אין זומער, װאַרעמער ציידער אין האַרבסט, געדינט אין אַ זיכערער טעמפּעראַטור.
 
-### Sound
+### קול
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **ליב-געהאַטע מוזיק.** באַקאַנטע לידער אין אַ זאַנפֿטער לאָוטקײט; זעט [מוזיק-אַקטיװיטעטן](/activities/music/).
+- **נאַטור-קולות.** רעגן, כװאַליעס אָדער פֿייגל-געזאַנג. די NIA באַמערקט אַז מוזיק, װײַסער ראַש און נאַטור-קולות קענען באַרויִקן עטלעכע מענטשן.
+- **אײַער קול.** פֿאָרלייענען, שטיל זינגען אָדער דערצײלן אַ געשיכטע.
+- **פּשוטע אינסטרומענטן.** אַ האַנט-טרומל, אַ שאַקער אָדער אַ גלעקל צו שפּילן צו מוזיק.
 
-### Sight
+### זען
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **פֿענצטער-קוקן.** אַ פֿייגל-פֿיטער הינטער דעם פֿענצטער, קינדער װאָס גײען היים, אָדער שניי װאָס פֿאַלט.
+- **אַ פֿיש-באַסיין אָדער אַ לאַנגזאַם װידעאָ.** זאַנפֿטע באַװעגונג אָן הויכע קולות.
+- **גרױסע פֿאָטאָס.** איין קלאָר בילד אַ מאָל, געהאַלטן אין אויגן-הײך.
+- **קאָליר און מוסטער.** סאָרטירן העלע שטיקלעך שטאָף, בלומען אָדער קאָלירטע סערװעטן, אָדער אַ פּשוטע בילד פֿון אונדזער [מאָלן](/games/coloring/)-זאַמלונג.
+- **אין דרױסן.** די NHS רעקאָמענדירט סענסאָרישע גערטנער מיט פֿאַרפֿומטע פֿלאַנצן, טעקסטורן און װאַסער-עלעמענטן. זעט [דרױסנדיקע און גאָרטנבױ-אַקטיװיטעטן](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## װי מאַכט מען אַ סענסאָר-קעסטל?
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **קלײבט אַ טעמע װאָס איז פֿאַרבונדן מיט דעם מענטשנס לעבן:** דעם ים-ברעג, דעם גאָרטן, די קיך, די װערקשטאַט, נײען.
+2. **קלײבט פֿינף אָדער זעקס גרױסע, זיכערע זאַכן,** װי אַ גרױסע מוסל, אַ האָלצערנער לעפֿל, אַ װײכער שאַל, אַ זעקל מיט טרוקענעם לאַװענדל װאָס איז פֿעסט צוגענייט, אָדער אַ גלאַטער האָלצערנער בלאָק.
+3. **קאָנטראָלירט יעדע זאַך** אויף קלײנע טיילן, שאַרפֿע ראַנדן, לאָזע פֿעדעמס און אַלץ װאָס קען צעברעכן.
+4. **ברענגט אַרױס איין זאַך אין אַ מאָל.** גיבט זי אַרױס, באַשרײַבט זי, און לאָזט דעם מענטש פֿאָרשן.
+5. **לייגט דעם קעסטל אַװעק נאָך דעם.** אַזױ בלײַבט ער שפּעציעל, און די זאַכן װערן װידער קאָנטראָלירט פֿאַר דעם װײַטערדיקן מאָל.
 
-## Safety first
+## זיכערקייט פֿאַר ערשט
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+סענסאָרישע אַקטיװיטעטן זענען זאַנפֿט, אָבער עטלעכע ריזיקען זענען װיכטיק. עטלעכע מענטשן װאָס לעבן מיט דעמענץ טאָן אָפּ נישט-עסן זאַכן פֿאַר עסן, און שלינגען װערט עפּעס שװערער מיט דער צײַט. די NIA װאָרנט אַז שפּעט-סטאַדיום שלינג-פּראָבלעמען העכערן די ריזיקע פֿון פֿאַרשלוקן.
 
-| Risk | What to do |
+| ריזיקע | װאָס צו טאָן |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| פֿאַרשלוקן | ניצט נאָר זאַכן װאָס זענען צו גרױס צו שלינגען. קײן קנעפּ, פּאָרלעך, מטבעות, מאַרמאָרן אָדער קלײנע שפּילזאַכן לאָזע אין אַ קעסטל. גיט עסן נאָר אין טעקסטורן װאָס דער זאָרג-שטאַב זאָגט זענען זיכער. |
+| זאַכן װאָס זעען אויס װי עסן | די NIA רעקאָמענדירט צו פֿאַרשליסן לאָשנס, זײפֿן, שאַמפּוס און פּאַרפֿום, װאָס קענען אויסזען אָדער ריכן װי עסן, און אַרױסנעמען קינסטלעכע פּירות. לייגט סענסאָרישע פּראָדוקטן אַװעק נאָך נוצן. |
+| אַלערגיעס | קאָנטראָלירט אויף אַלערגיעס צו נוסן, לאַטעקס, װאָל, פֿלאַנצן אָדער פֿאַרפֿומען איידער איר הײבט אָן. |
+| שטאַרקע ריחות | מײַדט שטאַרקע פּאַרפֿומען און עטערישע עלן, בפֿרט מיט אַסטמע אָדער אַנדערע אָטעם-פּראָבלעמען. מילדע, נאַטירלעכע ריחות זענען זיכערער. |
+| הויט | קאָנטראָלירט אויף װײטיקדיקע, צעבראָכענע אָדער צאַרטע הויט איידער מאַסאַזש. ניצט זאַנפֿטן דרוק און הערט אויף אויב זײ צוקן זיך. |
+| טעמפּעראַטור | טעסט װאַרעמע טיכער און געטרענק פֿריער אויף אײַערן אייגענעם האַנטגעלענק. |
+| שאַרפֿע אָדער גיפֿטיקע זאַכן | קײן שאַרפֿע געצײַג, גלאָז אָדער גיפֿטיקע האַנטװערק-סופּליעס. |
 
-## Does aromatherapy help?
+## צי העלפֿט אַראָמאַטעראַפּיע?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+מסתמא נישט אויף קײן מעסטבאַרע אופֿן. אַ איבערזיכט פֿון [Cochrane](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) װעגן אַראָמאַטעראַפּיע פֿאַר דעמענץ האָט אונטערזוכט 13 שטודיעס מיט 708 מענטשן, אַלע אין זאָרג-הײמען, און האָט קײן איבערצײגנדיקן נוץ נישט געפֿונען. די שטודיעס זענען קליין, רעזולטאַטן האָבן זיך געשטריטן, און נעבן-עפֿעקטן זענען שלעכט באַריכטעט געװאָרן. אויב דער מענטש האָט ליב אַ מילדן, באַקאַנטן ריח, װי לאַװענדל פֿון דעם גאָרטן, איז דאָס אַ גוטע סיבה צו טיילן עס. עס איז נישט קײן באַהאַנדלונג.
 
-## How to offer a sensory activity
+## װי מען גיט אָן אַ סענסאָרישע אַקטיװיטעט
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **קלײבט אַ רויִק מאָמענט** און שאַלט אָפּ דעם טעלעװיזאָר.
+- **נענט זיך פֿון פֿאָר,** זאָגט זײַן נאָמען, און פֿרעגט אָדער זאָגט פֿאַר איר רירט אָן: „איך האָב אַ ביסל לאָשן. װילט איר אַ האַנט-מאַסאַזש?“
+- **גיט איין זאַך אין אַ מאָל,** כּדי עס זאָל נישט איבערװעלטיקן.
+- **קוקט אויף דער רעאַקציע.** אַ װײכער פּנים, אָפּגעלאָזענע הענט אָדער אַ שמייכל זענען גוטע צײכנס. זיך אַװעקציען, שטערן דאָס פּנים אָדער אומרו מײנען אויפֿהערן.
+- **האַלט עס קורץ.** פֿינף רויִקע מינוט איז אַ גוטע סעסיע.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+אַ לאַנגזאַמע אָטעם-פּויזע צוזאַמען, װי [רויִק אָטעמען](/games/calm-breathing/), קען זײַן אַ זאַנפֿטער אופֿן צו ענדיקן. פֿאַר מער בעט-אידייען, זעט [שפּעט-סטאַדיום-אַקטיװיטעטן](/activities/late-stage/), און פֿאַר אָװנט-אומרו, זעט [שפּעט-טאָג-אומרו](/caregiving/late-day-restlessness/).

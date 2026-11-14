@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Hetsika ho an’ny lehilahy manana dementia"
+seoTitle: "Hetsika ho an’ny lehilahy manana dementia: hevitra ara-piainana"
+description: "Hevitra hetsika ho an’ny lehilahy manana dementia, mifototra amin’ny asa taloha, hobby sy fomba fiainana, miaraka amin’ny fomba azo antoka hanovana izany."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Ny hetsika tsara ho an’ny lehilahy manana dementia dia avy amin’ny fiainany
+  manokana: ny asa nataony, ny hobby tiany ary ny fomba andavanandro nohajainy.
+  Ny mpiasa biraom-pitantanana taloha mety ho tia mandamina taratasy, ny
+  mekanisiàna mety ho tia mikarakara fitaovana madio, ary ny mpankafy fanatanana
+  mety ho tia lalao taloha. Samy hafa ny fitiavan’ny lehilahy tsirairay, ka
+  atombohy amin’ny olona, fa aza amin’ny lahy-vavy.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Atombohy amin’ny tantarany manokana: asany, hobby-ny, fomba andavanandro ary izay nahasarotra azy."
+  - "Asa misy tanjona marina, toy ny fandamina boaty fitaovana, fanasana kisoa na fanaovana hazo, matetika mahasoa kokoa noho ny hetsika toy ny kilasy."
+  - "Tsy ny lehilahy rehetra no tia fitaovana na fanatanana. Maro no tia sakafo, mozika, zaridaina, sary na fikarakarana olona hafa. Anontanio, jereo, ary arahy ny fitarihany."
+  - "Ataovy azo antoka ny asa toy ny asan-tanana amin’ny esorana ny fitaovana mahamaina sy amin’ny fanaraha-maso, ary ataovy tsotra kokoa rehefa mihena ny heriny."
+  - "Azo lazaina hoe ‘tsia’. Omeo andraikitra, fa tsy asa voatendry, ary andramo indray amin’ny andro hafa."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Inona no hetsika tian’ny lehilahy manana dementia?"
+    a: "Tsy misy lisitra iray tokana, satria samy hafa ny liana amin’ny lehilahy tsirairay toy ny amin’ny olona hafa. Fototra tsara ny asa mifandray amin’ny asany teo aloha, toy ny fandamina taratasy na fandamina boatin-tsy, sy ny hobby tiany, toy ny fanjonoana, fiara, mozika, sakafo na fanatanana. Jereo izay ataony amin’ny tenany ary ampiakaro izany."
+  - q: "Mandà ny hetsika vondrona ny rainy. Inona no azoko atao?"
+    a: "Olona maro, na lahy na vavy, dia manda hetsika izay toy ny kilasy na mahatonga azy ho toy ny zaza. Andramo manolotra asa: ‘Afaka manampy ahy handamina ireto ve ianao?’ Vondrona kely na fotoana iray-tokana mety ho mora kokoa noho ny efitrano lehibe."
+  - q: "Azo antoka ve ny mamela azy hampiasa fitaovana?"
+    a: "Raha misy fanaraha-maso sy fitaovana azo antoka ihany. Esory ny fitaovana mampiasa herinaratra, ny antsy ary ny zavatra mahamaina rehetra, ary omeo asa toy ny fanenjehana vato hazo, fandamina fitaovana madio, na fanamainana boltsy lehibe an-tanana. Ny Alzheimer’s Association dia manoro hevitra ny fanesorana zavatra mety hampidi-doza amin’ny atrikasa mba ho azo sitrana tsara ny asa toy ny fanenjehana."
+  - q: "Mpanao asa matihanina izy. Ho toy ny fanamavoana ve ny asa tsotra?"
+    a: "Mety ho toy izany raha ampidirina ho asa tsy misy dikany. Ampahafantaro ny asa ho fanampiana marina, ampiasao fitaovana an’olona lehibe, ary misafidiana zavatra akaiky amin’ny andraikiny taloha, toy ny famerenana lisitra, fandamina taratasy na fanampiana amin’ny fanaovana fandefasana. Raha tena nahay tamin’ny zavatra iray izy, hetsika mifandray fa hafa dia mety tsy hitovy amin’ny fampitahana."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Matetika no mitady “hetsika ho an’ny lehilahy manana dementia” satria tsy mety amin’ny lehilahy ao amin’ny fiainanao ny hevitra mahazatra. Fanahy marina izany. Fa ny valiny tsy lisitra hetsika “lehilahy” iray. Atombohy amin’ny lehilahy manokana: inona no asany, inona no nataony tamin’ny faran’ny herinandro, ary inona no nahatonga azy ho olona tena ilaina. Samy hafa ny fitiavana ho an’ny tsirairay. Lehilahy maro tia mahandro, mamboly, mampiasa lokon-doko na mihira, ary vehivavy maro tia fiara sy baseball.
 
-## How do I find activities he will actually enjoy?
+## Ahoana no fomba hahitana hetsika tena hafaliany?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Atombohy amin’ny tantarany. Ny Alzheimer’s Association dia manoro hevitra ny hanamboarana [drafitra andro isan’andro](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) mifototra amin’ny tiany, tsy tiany, heriny ary fiasa, ary amin’ny fomba nandaminany ny andro taloha. Anontanio ny tenanao:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Inona no asany?** Biraomandraikitra, tanimbary, indostria, asa tanana, tafika, varotra, fampianarana, fitondrana fiara, na ny trano?
+- **Inona no nataony rehefa tsy niasa?** Fanjonoana, karatra, fanamboarana hazo, fanatanana, fiangonana, mozika, sakafo, fiara ao amin’ny trano fitahirizana?
+- **Inona no fomba andavanandro nohajainy?** Kafe sy gazety isan-maraina? Fanaraha-maso ny toetrandro? Fanasana fiara isan-kabarin’ny Asabotsy?
+- **Inona no atombohiny tsy voaantso?** Ny Association dia milaza fa raha manomboka asa ny olona tsy voaantso, toy ny famafana trano, dia mety ho lasa ampahany amin’ny fomba andavanandro ireny asa ireny.
+- **Inona no tsy tiany?** Misy olona tia mijery fanatanana; hafa mahatsiaro fa mahasosotra ny hafainganana sy ny feo. Jereo rehefa toa faly, mahatsiaro ahiahy, na tezitra izy.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Miresaha amin’ny fianakaviana sy namana taloha koa. Mety tadidiny ny hobby izay efa very tamin’ny fiainana andavanandro.
 
-## Activity ideas based on past work
+## Hevitra hetsika mifototra amin’ny asa taloha
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Ny Alzheimer’s Association dia manome ohatra mazava: mpiasa biraom-pitantanana taloha mety ho tia mandamina zavatra, toy ny famelana vola ao amin’ny tahiry, fanampiana amin’ny fametrahana taratasy na fanoratana lisitra asa, fa mpamboly taloha na mpikarakara zaridaina mety ho tia miasa any an-tanimbary. Ny hevitra mitovy dia mihatra amin’ny asa maro.
 
-| Past work | Activity ideas | Simpler version |
+| Asa taloha | Hevitra hetsika | Version tsotra kokoa |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Biraom-pitantanana na varotra | Mandamina taratasy ho amin’ny foldera, mametraka timbre amin’ny tarika, mijery lisitra, mandamina tiroara ao amin’ny birao | Mametraka tarika an-tsokajy; mametraka kilipa taratasy ao amin’ny boaty |
+| Asa tanana na mekanisiàna | Mandamina nat, bolts ary washer madio araka ny habe; mamaly bolts lehibe an-tanana; mijery katalaogy fitaovana | Mandamina araka ny habe ho amin’ny kapoka roa |
+| Fambolena na fikarakarana tanimbary | Manorana rano, mamboly zavamaniry amin’ny vilia, mamafy ravin-kazo, mijery ny zaridaina | Mipetraka any ivelany mientan-kevitra raha miasa ianao; mihazona kitapo voaloboka |
+| Tafika | Mamirapiratra kiraro, mandamina tiroara, mijery sary avy amin’ny asa tamin’ny fotoana izany raha tiany izany | Mihaino mozika avy tamin’izany vanim-potoana izany |
+| Varotra na fanompoana mpanjifa | Manasa vahiny, mizara zavatra hanina kely, mandamina kupon | Mipetraka eo amin’ny varavarana hanolotra fanasaziana |
+| Fampianarana | Mamaky boky miaraka, mandamina boky, mandamina sary araka ny lohahevitra | Mijery boky sary miaraka |
+| Fitondrana fiara na fitaterana | Mijery sarintany na gazety fiara taloha, manasa fiara | Mijery fiara mandalo avy amin’ny veranda |
+| Trano sy fianakaviana | Mamonjy akanjo, mametraka ny latabatra, manampy amin’ny sakafo hariva | Mampiantrano lamba fanasana; mampitsoaka sakafo |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Ny fahatsiarovana sasany, toy ny fanompoana tafika, dia mety hampisy fahatsapana mahery. Arahy ny fitarihany, tazomina ho tsara ny resaka momba ny lasa, ary ovao malemy ny lohahevitra raha toa ka tezitra izy.
 
-## Activity ideas based on hobbies
+## Hevitra hetsika mifototra amin’ny hobby
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Fanamboarana hazo.** Fanenjehana vato hazo malama na fanaovana sary vorona amin’ny kitra fanaovana vorona. Ny Alzheimer’s Association dia manoro hevitra ny fanesorana fitaovana sy zavatra mety hampidi-doza ao amin’ny atrikasa mba ho mahafinaritra sy azo antoka ny hetsika toy ny fanenjehana.
+2. **Fanjonoana.** Mandamina boaty fitaovana fanjonoana amin’ny fanesorana ny kao, mijery gazetin’ny fanjonoana, na mipetraka eo amin’ny farihy miaraka.
+3. **Fiara.** Manasa fiara, mamirapiratra chrome, mijery sary fiara taloha, na mandeha miaraka amin’ny mpandeha.
+4. **Fanatanana.** Mijery lalao taloha na fahitana fohy, mamely baolina malemy, mametraka baolina golf eo amin’ny tapi-tongotra, na mandamina karatra baseball.
+5. **Karatra sy lalao.** Lalao karatra mahazatra fohy, domino, na fanodinkodinana karatra mba hitady mitovy. Tazomina malemy ary esory ny fitazonana isa.
+6. **Mozika.** Hira tamin’ny fahazazany sy fahatanorany, mpihira tiany, na hira fiderana. Jereo ny [torolalana momba ny hetsika mozika](/activities/music/).
+7. **Sakafo sy fandrahoana.** Manasa legioma, mampivadika sosa, manao hena kilaoka, na milazalaza ny fomba nanaovany ny sakafo malaza tamin’ny fandrahoana.
+8. **Gazety.** Ny Alzheimer’s Association dia milaza fa ny olona izay namaky gazety foana dia mety mbola tia manao izany, na dia tsy azony feno aza ny votoatiny. Ny kafe sy gazety dia mety ho ampahany mbola amin’ny maraina.
+9. **Fanamboarana.** Modely fitambarana lehibe na fitaovana fanamboarana tsotra ho an’olona lehibe. Misafidiana ampahany mora azo tànana.
+10. **Fikarakarana zavatra iray.** Mamelona biby fiompy, mameno ny vata-vorona, na manorana zavamaniry. Ny NIA dia milaza [fanjifana, fikarakarana na fitondrana alika](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ho anisan’ny hetsika mety ho tian’ny olona.
 
-## How do I offer an activity without it feeling like busywork?
+## Ahoana no fomba hanolorana hetsika tsy ho toy ny asa tsy misy dikany?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ampahafantaro ho fanampiana marina. Ny Alzheimer’s Association dia manoro hevitra ny hanontanianao hoe “Afaka manampy ahy ve ianao?” ary hampifandraisana ny asa amin’ny tanjona. Jereo ny fampitahana:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- “Hasiako ireto bolts ireto ve?” (toy ny fitsapana)
+- “Nahazo fitaovana samy hafa aho ary ilaina ny mandamina azy ireto alohan’ny hanamboarako ny etahazo. Afaka manampy ahy ve ianao?” (toy ny asa marina)
 
-Other tips:
+Toromarika hafa:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Ampiasao fitaovana an’olona lehibe.** Fitaovana marina misy ny sisiny mahamaina esorina, katalaogy marina, tarika marina.
+- **Miasa miaraka eo akaiky.** Olona roa miasa amin’ny asa iray dia fiaraha-monina. Ny iray mijery ny iray dia fanaraha-maso.
+- **Aza manitsy.** Raha tafiditra amin’ny kapoka diso ny bolts, avelao izany. Ny zava-dehibe dia ny fotoana miaraka sy ny fahatsapana fa ilaina izy.
+- **Manampia hanomboka.** Ny Alzheimer’s Association dia milaza fa maro mbola manana fitiavana hanao zavatra, fa sarotra ny mandamina sy ny manomboka. Atao miaraka ny voalohany.
 
-## How do I adapt as things change?
+## Ahoana no fomba hanampiana rehefa miova ny zavatra?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Rehefa mandroso ny dementia, ny Alzheimer’s Association dia manoro hevitra ny hanolorana asa tsotra kokoa sy mitovy matetika kokoa, ary ny fomba hiomanana amin’ny fiovan’ny olona mba hanana andraikitra kely kokoa. Lehilahy izay efa nanamboatra moteur dia mety ho faly amin’ny fitazonana kiraro madio sy ny firesahana momba ny fiara, na amin’ny fijerena anao miasa. Ny fijery koa dia fandraisana anjara.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Raha tena nahay tamin’ny zavatra iray izy, hetsika mifandray dia mety ho tsara kokoa noho ny asa taloha. Ny Association dia milaza fa mety ho tezitra ny mpanakanto matihanina raha miova ny asany, fa ny mpanakanto mpiasa an-tsitrapo dia mety ho faly amin’ny fomba vaovao. Mitovy izany amin’ny mpanamboatra trano matihanina.
 
-## Safety with work-style tasks
+## Fiarovana amin’ny asa toy ny asa tanana
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Esory ny fitaovana mampiasa herinaratra, ny sy ny antsy, ny hoho ary ny kapoka misy vavony.
+- Mihidy ny solika, ny solika fanasana ary ny simika.
+- Tazomina tsy hita ny fanalahidin’ny fiara raha tsy mitondra fiara intsony izy.
+- Manara-maso ny asa rehetra ao amin’ny atrikasa sy ny zaridaina.
+- Misafidiana ampahany lehibe izay tsy azo mohina.
 
-## What if he says no?
+## Inona raha manao “tsia” izy?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Ajanony izany. Ny “tsia” dia mety midika fa sarotra loatra ny asa, tsy mety ho zaza loatra, na tsy tsara anio. Andramo asa hafa, fotoana hafa, na mipetraka fotsiny miaraka. Jereo ny [inona no ataoko rehefa manao “tsia” izy](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Lalao sy resaka mety
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Mamita ny ohabolana](/games/finish-the-saying/) dia mampiasa ohabolana amerikana malaza ary mitarika resaka. [Karatra resaka](/games/conversation-cards/) dia manana fanontaniana malalaka tsy misy fanombanana, araka ny lohahevitra, izay afaka manokatra tantara momba ny asa sy ny hobby. [Puzzle sary](/games/picture-puzzle/) dia mitazona ny sary manontolo hita rehefa mifindra ny ampahany, ary ny [Fitadiavana teny](/games/word-search/) lehibe no azo atao sary soratra ary vitaina amin’ny penina eo amin’ny latabatry ny lakandrano. Ho an’ny fomba hiresahana momba ny lasany tsy manandrana azy, jereo ny [torolalana momba ny fahatsiarovana](/activities/reminiscence/).

@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Pag-aalaga sa Sarili ng Tagapag-alaga: Pahinga, Suporta, at Palatandaan ng Pagkaubos"
+seoTitle: "Pag-aalaga sa Sarili ng Tagapag-alaga sa Dementia: Pahinga at Suporta"
+description: "Mga palatandaan ng pagkaubos, pahinga, grupo ng suporta, at libreng linya ng tulong sa US, kabilang ang Alzheimer's Association 24/7 Helpline."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Ang pag-aalaga sa taong may dementia ay mabigat, at bahagi ng trabaho ang pag-aalaga rin sa sarili mo. Bantayan ang mga palatandaang gaya ng pagkapagod, pagkairita, hindi maayos na tulog, at paglayo sa mga kaibigan. Humingi ng tiyak na tulong, gumamit ng pansamantalang pag-aalaga, at sumali sa grupo ng suporta. Kabilang sa libreng tulong sa US ang Alzheimer's Association 24/7 Helpline sa 1-800-272-3900 at ang Eldercare Locator sa 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Madalas lumalabas ang pagkaubos bilang pagkapagod, pagkairita, hindi maayos na tulog, lungkot, at pagpapabaya sa sarili mong kalusugan."
+  - "Ang pansamantalang pag-aalaga ay nagbibigay ng pahinga, mula ilang oras hanggang ilang linggo, sa bahay o sa pasilidad."
+  - "Humingi ng tulong sa mga tiyak na gawain; maraming tao ang gustong tumulong pero hindi alam kung paano."
+  - "Ang 24/7 Helpline ng Alzheimer's Association (1-800-272-3900) ay nag-aalok ng libre at kumpidensyal na suporta anumang oras."
+  - "Ang Eldercare Locator (1-800-677-1116) ay nag-uugnay sa iyo sa mga lokal na serbisyo, kabilang ang iyong Area Agency on Aging."
+  - "Kung nasa krisis ka, tumawag o mag-text sa 988. Sa emergency, tawagan ang lokal na numero ng emergency."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Ano ang mga palatandaan ng pagkaubos ng tagapag-alaga?"
+    a: "Karaniwang palatandaan ang pakiramdam na pagod na pagod, nalulula o balisa, madaling magalit o mainip, hirap matulog, lungkot o pakiramdam na walang pag-asa, paglayo sa mga kaibigan, madalas na sakit ng ulo o pananakit, at paglaktaw sa sarili mong pagkain, ehersisyo, o pangangalagang medikal. Kung paulit-ulit ang mga palatandaang ito, kausapin ang iyong doktor."
+  - q: "Paano ako makakahanap ng pansamantalang pag-aalaga malapit sa akin?"
+    a: "Magsimula sa Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) para makarating sa iyong lokal na Area Agency on Aging, sa ARCH National Respite Locator Service, o sa Alzheimer's Association Helpline sa 1-800-272-3900. Maaari ring magbigay ng pansamantalang pag-aalaga ang pamilya, mga kaibigan, at mga boluntaryo."
+  - q: "Sinasaklaw ba ng Medicare ang pansamantalang pag-aalaga?"
+    a: "Para sa taong tumatanggap ng pangangalaga sa huling yugto ng buhay, sinasaklaw ng Medicare ang karamihan sa gastos ng hanggang limang magkakasunod na araw ng pansamantalang pag-aalaga sa ospital o sa pasilidad ng bihasang pag-aalaga ng nars, ayon sa National Institute on Aging. Karamihan sa pribadong segurong pangkalusugan ay hindi sumasaklaw sa pansamantalang pag-aalaga; maaaring makatulong ang Medicaid at ilang planong segurong pang-matagalang pangangalaga."
+  - q: "Talaga bang libre ang Helpline ng Alzheimer's Association at bukas ito sa gabi?"
+    a: "Oo. Sinasabi ng Alzheimer's Association na libre, kumpidensyal, at may tauhan ang kanilang Helpline sa 1-800-272-3900 buong araw at gabi, 365 araw sa isang taon, na may tulong sa maraming wika. I-dial ang 711 para sa relay service."
+  - q: "Makasarili ba ang kumuha ng pahinga sa pag-aalaga?"
+    a: "Hindi. Nakakatulong ang pahinga para patuloy kang makapag-alaga, at makapagbibigay din ang pansamantalang pag-aalaga sa taong inaalagaan mo ng ibang kasama at gawain. Maraming tagapag-alaga ang nagsasabing sana humingi na sila ng tulong nang mas maaga."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Kung ikaw ay nag-aalaga sa taong nabubuhay na may dementia, malamang binabasa mo ito nang gabi na, pagod, at may listahan ng mga bagay na hindi mo pa nagagawa. Normal iyon. Ang pag-aalaga sa sarili ay hindi luho o gantimpala sa pagtapos ng lahat ng gawain. Ito ang nagpapatuloy sa iyo.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Tinatalakay ng pahinang ito ang mga palatandaan ng pagkaubos, kung paano makakakuha ng tunay na pahinga, kung saan makakahanap ng suporta, at ang mga libreng linya ng tulong sa US na maaari mong tawagan ngayon.
 
-## What are the signs of caregiver burnout?
+## Ano ang mga palatandaan ng pagkaubos ng tagapag-alaga?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Dahan-dahang dumarating ang pagkaubos, kaya makatutulong na malaman ang sarili mong mga palatandaan ng babala. Inilista ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ang mga palatandaan ng stress ng tagapag-alaga, kabilang ang:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- pakiramdam na pagod, nalulula o balisa;
+- madaling magalit o mainip;
+- pakiramdam na nag-iisa o hiwalay sa iba;
+- hirap matulog, o kulang sa tulog;
+- pakiramdam na malungkot o walang pag-asa, o nawawalan ng interes sa mga bagay na dati mong kinasisiyahan;
+- madalas na sakit ng ulo, pananakit, o iba pang problema sa katawan;
+- walang oras para mag-ehersisyo o maghanda ng masustansyang pagkain para sa sarili;
+- nilalaktawan ang pagligo o iba pang personal na pag-aalaga;
+- maling paggamit ng alak o droga, kabilang ang mga iniresetang gamot.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Idinadagdag ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ang mga palatandaan gaya ng pagtanggi sa katotohanan ng sakit, galit sa taong inaalagaan (“nagmamatigas lang siya”), pagkabalisa tungkol sa hinaharap, hirap magkonsentra, at mga problemang pangkalusugan na nagpapabigat ng lahat. Pinapayuhan nito na kausapin ang iyong doktor kung paulit-ulit mong nararanasan ang ganitong mga palatandaan.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Ang payo ng NIA ay huwag hintayin na ganap ka nang malula. Pansinin nang maaga ang sarili mong mga palatandaan at kumilos agad.
 
-## What can I do today, in five minutes?
+## Ano ang magagawa ko ngayon, sa loob ng limang minuto?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Mahalaga ang maliliit na pahinga. Wala sa mga ito ang lulutas sa pagkaubos, pero makakatulong ang mga ito para malampasan mo ang mahirap na hapon.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Lumabas saglit.** Umupo sa beranda o maglakad papunta sa mailbox habang ligtas at payapa ang taong inaalagaan mo.
+- **Huminga nang dahan-dahan.** Ilang mabagal na hininga bago ka sumagot sa mahirap na tanong. Maaari mo ring samahan ang taong inaalagaan mo sa isang [Mahinahong paghinga](/games/calm-breathing/) na pahinga.
+- **Uminom ng tubig at kumain ng kahit ano.** Madaling makalimutan ang sarili mong pagkain.
+- **Mag-text sa isang kaibigan.** Hindi para humingi ng kahit ano, kundi para lang makipag-ugnayan.
+- **Sabihan ang sarili ng mabuting salita.** Ang [gabay ng NIA sa pag-aalaga sa sarili](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ay nagmumungkahi ng mga pariralang gaya ng “Ginagawa ko ang lahat ng makakaya ko,” “Hindi ako perpekto, at ayos lang iyon,” at “Masisiyahan ako sa mga sandaling magkasama kaming payapa.”
 
-## What is respite care, and how do I get it?
+## Ano ang pansamantalang pag-aalaga, at paano ito makukuha?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ang pansamantalang pag-aalaga ay panandaliang pag-aalaga sa taong inaalagaan mo, para makapagpahinga ka. Ipinaliliwanag ng [pahina ng NIA tungkol sa pansamantalang pag-aalaga](https://www.nia.nih.gov/health/caregiving/what-respite-care) na maaari itong tumagal mula ilang oras hanggang ilang linggo, at maaaring mangyari sa bahay, sa pasilidad pangkalusugan, o sa sentro ng araw-araw na aktibidad para sa matatanda.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Inilalarawan ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) ang mga karaniwang uri:
 
-| Type | What it is |
+| Uri | Ano ito |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Tulong sa bahay | Isang kaibigan, kamag-anak, boluntaryo, o bayad na kasama o katulong ang pumupunta sa bahay |
+| Sentro ng araw-araw na aktibidad | Mga nakaplanong gawain gaya ng musika at sining sa ligtas na grupo; kadalasang may sundo at pagkain |
+| Magdamag o maikling pananatili | Isang komunidad ng pangmatagalang pangangalaga ang nag-aalaga sa tao sa isang gabi, ilang araw, o ilang linggo |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Sino ang magbabayad?** Ayon sa NIA, ang pansamantalang pag-aalaga mula sa pamilya, kaibigan, o boluntaryo ay maaaring walang bayad. Naniningil ang mga propesyonal na serbisyo kada oras o kada araw. Para sa taong tumatanggap ng pangangalaga sa huling yugto ng buhay, sinasaklaw ng Medicare ang karamihan sa gastos ng hanggang limang magkakasunod na araw ng pansamantalang pag-aalaga sa ospital o sa pasilidad ng bihasang pag-aalaga ng nars. Maaaring makatulong ang Medicaid. Karamihan sa pribadong segurong pangkalusugan ay hindi sumasaklaw sa pansamantalang pag-aalaga, bagaman sinasaklaw ito ng ilang planong segurong pang-matagalang pangangalaga.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Tip:** Iminumungkahi ng Alzheimer's Association na subukan ang mga tagapagbigay ng pansamantalang pag-aalaga sa panahong hindi emergency, para handa sila kapag bigla kang nangailangan ng tulong.
 
-## Where can I find help near me?
+## Saan ako makakahanap ng tulong malapit sa akin?
 
-Several free US services can point you to local help.
+Maraming libreng serbisyo sa US ang makatuturo sa iyo sa lokal na tulong.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **24/7 Helpline ng Alzheimer's Association: 1-800-272-3900.** Ang [Helpline](https://www.alz.org/help-support/resources/helpline) ay libre at kumpidensyal, may tauhan buong araw at gabi bawat araw ng taon, at may tulong sa mahigit 200 wika sa pamamagitan ng mga bilingguwal na kawani o interpreter. I-dial ang 711 para sa relay service. Maaari mong pag-usapan ang mga pagbabago sa asal, stress ng tagapag-alaga, mga opsyon ng pansamantalang pag-aalaga, mga lokal na programa, at iba pa, at humiling ng mas mahabang usapan kasama ang isang care consultant. Hindi nagbibigay ng medikal na payo ang mga tauhan.
+- **Eldercare Locator: 1-800-677-1116.** Ang [Eldercare Locator](https://eldercare.acl.gov/), isang pampublikong serbisyo ng Administration for Community Living, ay nag-uugnay sa iyo sa mga serbisyo para sa matatanda at sa kanilang pamilya. Maaari kang tumawag, mag-text, makipag-chat online, o mag-email sa mga sinanay na tauhan, o maghanap ayon sa lokasyon. Maaari ka nitong gabayan papunta sa iyong lokal na Area Agency on Aging.
+- **ARCH National Respite Locator Service.** Tinutulungan ka ng [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) na makahanap ng mga tagapagbigay ng pansamantalang pag-aalaga ayon sa estado, at iminumungkahi nitong makipag-ugnayan muna sa iyong State Respite Coalition o sa Lifespan Respite program kung mayroon ang iyong estado. Sinasabi ng ARCH na hindi nito sinusuri ang mga tagapagbigay, kaya ikaw mismo ang dapat tumingin sa kanilang karanasan at background.
 
-## How do I find a support group?
+## Paano ako makakahanap ng grupo ng suporta?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Itanong sa Helpline o maghanap online ng mga grupong malapit sa iyo. Ang Alzheimer's Association ay [nagpapatakbo ng mga grupo ng suporta](https://www.alz.org/help-support/community/support-groups) para sa mga tagapag-alaga at sa mga taong nabubuhay na may dementia, nang personal at online, pinangungunahan ng mga sinanay na facilitator. Maraming lokasyon ang nag-aalok din ng mga espesyal na grupo, halimbawa para sa mga nasa hustong gulang na tagapag-alaga o para sa mga taong may maagang pagsisimula ng dementia o maagang yugto ng Alzheimer's. Nagho-host din ito ng ALZConnected, isang libreng online na komunidad kung saan nagbabahagi ng payo ang mga tagapag-alaga.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ang mga grupo ng suporta ay maaaring maging lugar para maglabas ng loob nang walang panghuhusga, makakuha ng praktikal na tips mula sa mga taong nakaranas na, at mabawasan ang pakiramdam ng pag-iisa. Kung hindi bagay sa iyo ang unang grupo, subukan ang iba.
 
-## How do I ask family and friends for help?
+## Paano ako hihingi ng tulong sa pamilya at mga kaibigan?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Maging tiyak. Maraming tao ang gustong tumulong pero hindi alam kung ano ang iaalok. Iminumungkahi ng NIA ang:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Gumawa ng listahan** ng mga gawaing maaaring akuin ng iba, at hayaan silang pumili.
+- **Magsimula sa maliit** kung mahirap para sa iyo ang humingi.
+- **Itugma ang gawain sa tao.** Ang pinsang mahilig magluto ang magdadala ng hapunan tuwing Huwebes. Ang kapitbahay na magaling sa papeles ang tutulong sa mga dokumento.
+- **Mag-text o mag-email** kung hindi ka komportableng humingi nang harapan.
+- **Magsanay ng sagot** para sa oras na may mag-alok: “Salamat sa pagtatanong. Ito ang maaari ninyong gawin.”
+- **Asahan na may tatanggi,** at subukang huwag itong personalin.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ang iba pang ideya: hilingin sa isang tao na samahan ang taong inaalagaan mo nang isang hapon sa isang linggo, dalhin sila sa maikling lakad, o bumisita at maglaro nang magkasama. Madaling ibahagi sa mga bisita ang aming [gabay sa paglalaro nang magkasama](/caregiving/how-to-play-together/).
 
-## What if something happened to me?
+## Paano kung may mangyari sa akin?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Gumawa ng simpleng plano para sa ganitong pagkakataon. Iminumungkahi ng NIA na pagpasyahan kasama ng pamilya o malalapit na kaibigan kung sino ang papalit, at magtago ng kuwaderno na may mga numero ng emergency, gamot, mga tip sa asal na gumagana, at mga paboritong gawain. Iminumungkahi rin ng Alzheimer's Association na madaling mahanap ang mga contact sa medisina ng tao at ang napapanahong listahan ng gamot.
 
-## When should I get professional or urgent help?
+## Kailan ako dapat humingi ng propesyonal o agarang tulong?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Kausapin ang iyong doktor kung paulit-ulit ang mga palatandaan ng stress, kung nakakaramdam ka ng depresyon, o kung nahihirapan kang makayanan. Sabihin sa doktor mo na ikaw ay tagapag-alaga. Sinasabi ng NIA na makakatulong ang mga tagapayo at social worker sa mahihirap na damdamin at pagpaplano, at maaaring sakupin ng Medicare, Medicaid, at ilang pribadong segurong pangkalusugan ang ilang gastos sa kalusugang pangkaisipan.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Kung nakakaramdam ka ng krisis o may naiisip kang saktan ang sarili, tumawag o mag-text sa 988 para makarating sa [988 Suicide & Crisis Lifeline](https://988lifeline.org/), na libre at bukas 24/7. Kung may taong nasa agarang panganib, tawagan ang lokal na numero ng emergency.
 
-## Can shared activities give me a break too?
+## Makakatulong din ba sa akin ang mga gawaing pinagsasaluhan?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Minsan. Ang isang mahinahong gawaing kayong dalawa ang nasisiyahan ay maaaring maging mas magaan na bahagi ng araw para sa iyo at sa taong inaalagaan mo: pakikinig sa lumang awitin, pagtingin sa mga larawan, o isang laro gaya ng [Mga kard para sa usapan](/games/conversation-cards/) na walang tamang sagot. Kung mahilig sa kasama ang tao, ang sesyon ng grupo kasama ang [Bingo ng larawan](/games/picture-bingo/) sa senior center o adult day program ay maaaring magbigay sa iyo ng isang oras na pahinga. Tingnan ang [mga gawain para sa mga grupo sa care home](/activities/care-home-groups/) para sa mga ideya.

@@ -1,33 +1,29 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Mga Aktibidad sa Holiday para sa Taong may Dementia, mula Thanksgiving Pataas"
+seoTitle: "Ideya sa Holiday at Thanksgiving para sa Dementia"
+description: "Simpleng aktibidad sa holiday para sa taong may dementia: trabahong pangkusina, dekorasyon, musika, larawan at video call, at paano magplano ng tahimik na Pasko."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Panatilihing mas maliit, mas maaga sa araw at malapit sa karaniwang routine ng tao ang mga holiday. Bigyan sila ng totoo at ligtas na gawain, gaya ng pag-aayos ng mesa, paghuhugas ng gulay, pagbabalot ng regalo o pagsasabit ng palamuti. Ibahagi ang pamilyar na musika at lumang larawan, ihanda ang mga bisita nang maaga, at mag-ayos ng tahimik na silid. Gawin lamang ang kaya mong gawin nang makatwiran; ang maikli at kalmadong pagdiriwang ay mabuti na.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Magdiwang nang mas maaga sa araw, gaya ng tanghalian o brunch, kung karaniwan ang pagkalito sa huling bahagi ng hapon."
+  - "Mag-alok ng totoong gawain: pag-aayos ng mesa, paghuhugas ng gulay, pagbabalot, pagdedekorasyon o paglalatag ng panghimagas."
+  - "Ang pamilyar na musika, awiting pamasko at lumang album ng larawan ay madaling paraan ng pagbabahagi ng diwa ng panahon."
+  - "Sabihin sa mga bisita kung ano ang aasahan, at ipakita sa tao ang mga larawan ng darating."
+  - "Mag-ayos ng tahimik na silid na may paboritong kumot o sweater, at limitahan ang mga bisita sa iilan sa bawat pagkakataon."
+  - "Iwasan ang anumang nakalilito, kasama ang palamuting mukhang pagkain at maraming kumikislap na ilaw."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Ano ang magagawa ng taong may dementia sa Thanksgiving?"
+    a: "Bigyan sila ng simple at ligtas na gawain na angkop sa kaya nila ngayon: paghuhugas ng gulay, paghalo ng cranberry sauce, pag-aayos ng mesa, pagtutupi ng napkin o paglalagay ng panghimagas sa plato. Pagkatapos, tingnan ang lumang larawan ng pamilya o umawit nang magkasama ng mga pamilyar na kanta. Ang pagiging bahagi ng araw ang mas mahalaga kaysa sa kung paano lumabas ang gawain."
+  - q: "Dapat pa ba kaming magkaroon ng malaking pagtitipon ng pamilya?"
+    a: "Kung kaya lamang. Maaaring nakalulula ang maraming tao at ingay, kaya maraming pamilya ang lumilipat sa mas maliit at mas kaswal na pagtitipon, mas maagang hapunan, o mga bisitang dumarating nang iilan-iilan. Hinihikayat ng Alzheimer's Association ang mga tagapag-alaga na gawin lamang ang kayang gawin nang makatwiran at ligtas."
+  - q: "Paano ko ihahanda ang pamilyang matagal nang hindi nakabisita?"
+    a: "Sabihin sa kanila bago sila dumating ang mga pagbabagong maaari nilang mapansin, at na nagmumula ang mga ito sa sakit, hindi sa tao. Hilingin na huwag magtama o magtanong na parang pagsusulit, magsalita nang isa-isa, at bigyan ng oras ang sagot. Makatutulong din ang pagpapakita sa tao ng mga larawan ng mga bisita nang maaga."
+  - q: "Anong regalo sa kapaskuhan ang bagay sa taong may dementia?"
+    a: "Simple at ligtas na bagay na maaari nilang ikasiya ngayon: paboritong merienda, malambot na kumot o sweater, pamilyar na musika, o album ng larawan ng pamilya. Iwasan ang mga komplikadong elektronika, kasangkapan at mahihirap na laro sa mesa. Ang pagsasama sa pagbibigay, gaya ng pagbabalot ng regalo o pag-iimpake ng cookies na tinulungan nilang lutuin, ay regalo na rin mismo."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +36,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Maaaring magdala ng magagandang alaala ang mga holiday, ngunit maaari rin silang magdala ng ingay, siksikan at pagbabago sa karaniwang araw. Para sa taong may dementia, kadalasang mas maliit, mas mabagal at nakatuon sa mga bagay na ikinasisiya pa rin nila ang pinakamabubuting pagdiriwang. Gumagana ang mga ideyang ito para sa Thanksgiving, Pasko, Hanukkah, Bagong Taon at kaarawan ng pamilya.
 
-## How do I plan a calmer holiday?
+## Paano ako magpaplano ng mas tahimik na holiday?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Magsimula sa routine ng tao at planuhin ang araw ayon dito. Iminumungkahi ng [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) na idaos ang pagdiriwang nang mas maaga sa araw, dahil kadalasang lumalala ang pagkalito at pagkabalisa sa hapon at gabi (tinatawag minsang sundowning). Maaaring mas madali ang tanghalian o brunch kaysa sa huling hapunan.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Panatilihin ang tamang laki.** Mas maliit at mas kaswal na pagtitipon, o mga bisitang dumarating nang iilan, ay kadalasang mas madali kaysa sa isang punô na mesa.
+- **Mamigay ng gawain.** Hilingin sa mga kamag-anak na magdala ng ulam, mamili, o gumugol ng oras sa tao habang nagluluto ka. Maging tiyak kung ano ang makatutulong.
+- **Panatilihing simple ang palamuti.** Sinasabi ng [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) na maaaring nakalilito ang kumikislap na ilaw, at maaaring mapagkamalang pagkain ang kendi o artipisyal na prutas na ginawang palamuti.
+- **Magpasya kung ano ang ililiban.** Kung naging nakaiistres o mapanganib na ang isang tradisyon, ayos lang na laktawan ito o gawin sa mas tahimik na paraan.
 
-## What holiday activities can we do together?
+## Anong aktibidad sa holiday ang magagawa nating magkasama?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Pumili ng mga gawain at libangan na angkop sa kaya ng tao ngayon. Ang pagiging bahagi ng araw ang mas mahalaga kaysa sa kung paano ito lalabas.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Ilatag ang mesa nang magkasama.** Ilatag muna ang mga plato, saka napkin, saka tasa. Magandang gawain ang pagtutupi ng napkin na nakaupo.
+2. **Hugasan at ayusin ang gulay.** Ang pagbanlaw ng patatas o pagputol ng green beans sa mesa ng kusina ay ligtas at pamilyar sa maraming taong dati nang nagluluto.
+3. **Haluin, paghaluin o ilagay sa plato.** Ang paghalo ng cranberry sauce, pagmasa ng simpleng batter, o paglalagay ng cookies sa plato ay nagpapanatiling abala ang kamay nang malayo sa kalan at kutsilyo.
+4. **Balutin ang regalo.** Gupitin nang maaga ang papel at tape, at hayaang tupiin at pakinisin ng tao. Hindi ang ganda ng pagbabalot ang mahalaga.
+5. **Magsabit ng ilang palamuti.** Pumili ng mga palamuting hindi nababasag at isang maliit na bahagi, gaya ng wreath o maliit na puno.
+6. **Gumawa ng simpleng sining.** Kadena ng papel, collage ng dahon, o kard para sa holiday na may selyo ay maganda. May higit pang ideya ang aming [gabay sa sining at paggawa](/activities/arts-and-crafts/).
+7. **Umawit at makinig.** Ang pamilyar na awiting pamasko at kanta ng holiday ay madaling salihan, kahit para sa taong mas kaunti na ang nasasabi ngayon. Tingnan ang aming [gabay sa musika](/activities/music/) para sa paggawa ng playlist.
+8. **Tingnan ang lumang larawan ng holiday.** Ilabas ang mga album mula sa nakaraang pagdiriwang at anyayahan ang mga kuwento ("Ikuwento mo sa akin ang mesang ito") sa halip na itanong kung sino ang sino. Ipinaliliwanag ng aming [gabay sa pag-alala](/activities/reminiscence/) kung paano.
+9. **Maglaro ng banayad na larong pangkat.** Mabilis mailimbag ang [bingo ng larawan](/games/picture-bingo/) at bagay sa lahat ng edad, at binibigyan ng [mga kard para sa usapan](/games/conversation-cards/) ang lahat ng mapag-uusapan.
+10. **Magkulay nang magkasama.** Maaaring i-print ang simpleng [mga pahinang kukulayan](/games/coloring/) para pagsaluhan ng mga bata at lolo at lola sa mesa.
+11. **Manood ng paboritong pelikula ng holiday.** Nakapagpapahinga ang pamilyar na pelikula, at ayos lang na panoorin ang bahagi lamang nito.
+12. **Mag-drive nang maikli para makita ang mga ilaw.** Ang tahimik na biyahe sa mga bahay na may palamuti ay maaaring mas madali kaysa sa masikip na pagdiriwang.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Kung malaking bahagi ng buhay ng tao ang pagluluto, makatutulong ang aming gabay sa [mga gawaing-bahay bilang aktibidad](/activities/household-tasks/) para gawing ligtas at kasiya-siya ang mga trabaho sa kusina.
 
-## How do I prepare guests?
+## Paano ko ihahanda ang mga bisita?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Sabihin sa mga bisita ang aasahan bago sila dumating, lalo na ang mga kamag-anak na matagal nang hindi nakabisita. Iminumungkahi ng Alzheimer's Association na ipaliwanag na ang mga pagbabago sa alaala at pag-uugali ay nagmumula sa sakit, hindi sa tao.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Magbahagi ng ilang simpleng tips:** magsalita nang isa-isa, bigyan ng oras na tapusin ang pag-iisip, huwag magtama o magtanong na parang pagsusulit, at tumugon sa tono ng tao kung mahirap sundan ang mga salita.
+- **Sabihin ang nakatutulong at ang nakasasakit.** Kung nakababagabag ang malalakas na boses, pagmamadali o ilang paksa, sabihin ito.
+- **Ipakilala nang maaga ang mga bisita.** Ipakita sa tao ang mga larawan ng darating at magkuwento ng isa o dalawa, o mag-ayos ng maikling tawag sa telepono o video bago ang araw.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Mas detalyado ang aming [mga tip sa komunikasyon](/caregiving/communication-tips/).
 
-## What if it gets to be too much?
+## Paano kung sobra na ito?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Maghanda ng tahimik na silid bago dumating ang mga bisita, malayo sa ingay, na may pamilyar na mga bagay pang-ginhawa gaya ng paboritong kumot, sweater o isang simpleng aktibidad. Alukin ito nang maaga at madalas: "Puwede ba tayong umupo sa mas tahimik na lugar sandali?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Ang pag-alis sa mesa, pagtulog nang maaga, o paglaktaw sa bahagi ng araw ay magandang resulta, hindi kabiguan. Kung nagalit ang tao, kadalasang mas nakatutulong ang kalmadong boses, pamilyar na kanta o lakad papunta sa ibang silid kaysa sa pangangatwiran. Ang aming gabay tungkol sa [pagkabalisa sa huling bahagi ng araw](/caregiving/late-day-restlessness/) ay may higit pang ideya para sa mga gabi.
 
-## How can family far away take part?
+## Paano makakasali ang pamilyang malayo?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Pinapayagan ng mga video call ang mga kamag-anak na sumali nang hindi nagdaragdag sa siksikan. Iminumungkahi ng Alzheimer's Association na bigyan ng kaunting istruktura ang mga tawag, halimbawa sa pag-awit ng mga awiting pang-panahon, pagbabahagi ng larawan mula sa nakaraang pagtitipon, pagluluto ng parehong resipe nang magkasama, o panonood ng pelikula ng holiday sa iisang oras. Panatilihing maikli ang mga tawag, at hilingin sa mga tao na magsalita nang isa-isa, dahil mahirap sundan ang sabay-sabay na usapan. May mga hakbang-hakbang na ideya ang aming [gabay sa tawag sa telepono at video](/activities/phone-and-video-calls/).
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Kung nakatira ang tao sa memory care, suriin ang patakaran sa pagbisita at hilingin sa staff na tumulong mag-ayos ng tawag. Sakop ng aming gabay sa [pagbisita sa taong nasa memory care](/activities/visiting/) kung ano ang dadalhin at kung paano aalis nang maayos.
 
-## What gifts suit someone with dementia?
+## Anong regalo ang bagay sa taong may dementia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Ang simple at ligtas na regalo na maaari nilang ikasiya ngayon ang kadalasang pinakamabisa: paboritong merienda, malambot na kumot o cardigan, pamilyar na musika, malaking-letrang kalendaryo, o album ng larawan ng pamilya. Sinasabi ng Alzheimer's Association na iwasan ang mapanganib na kasangkapan, komplikadong elektronika at mahihirap na laro sa mesa.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Mahalaga rin ang pagbibigay. Ang pag-iimpake ng cookies na tinulungan nilang lutuin, o ang pagpapabalot sa kanila ng regalong binili mo, ay nagbibigay sa kanila ng bahagi sa panahon. Isa pang ideya ang [mga pares ng larawan](/games/photo-pairs/): ginagawa nitong banayad na larong pagtutugma sa browser ang ilang piling larawan ng pamilya.
 
-## Look after yourself too
+## Alagaan din ang sarili mo
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Nagdadagdag ng trabaho ang holiday sa pag-aalaga. Hayaang ibang tao ang mag-host o magluto ng pabo, sabihing hindi sa mga pagtitipong mahirap, at magpahinga habang ang iba ay gumugugol ng oras sa tao. Kung ikaw o ang taong inaalagaan mo ay may sakit, sapat na ang kaway mula sa daanan o video call bilang pagdalaw. Ang aming gabay sa [pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/) ay may higit pang suporta.

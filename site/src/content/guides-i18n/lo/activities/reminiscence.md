@@ -1,32 +1,28 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "ກິດຈະກຳຄວາມຊົງຈຳ: ກ່ອງຄວາມຊົງຈຳ ເລື່ອງລາວຊີວິດ ແລະຮູບ"
+seoTitle: "ກິດຈະກຳຄວາມຊົງຈຳສຳລັບສະໝອງເສື່ອມ: ໄອເດຍທີ່ບໍ່ຖາມທົດສອບ"
+description: "ວິທີແບ່ງປັນຄວາມຊົງຈຳກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມໂດຍບໍ່ຖາມທົດສອບ: ລົມກັນກ່ຽວກັບຮູບ ກ່ອງຄວາມຊົງຈຳ ແລະປຶ້ມປະຫວັດ."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  ການນຶກເຖິງຄວາມຊົງຈຳໝາຍເຖິງການມີຄວາມສຸກກັບອະດີດນຳກັນ ຜ່ານຮູບ ສິ່ງຂອງ ດົນຕີ ແລະເລື່ອງລາວ. ເຮັດກ່ອງຄວາມຊົງຈຳ ສ້າງປຶ້ມປະຫວັດຊີວິດແບບງ່າຍໆ ຫຼືເບິ່ງຮູບນຳກັນຄຽງຂ້າງ. ຢ່າຖາມທົດສອບ: ຢ່າຖາມ “ຈື່ໄດ້ບໍ?” ແລະ “ນີ້ແມ່ນໃຜ?” ແຕ່ໃຊ້ຄຳເຊີນເປີດກວ້າງເຊັ່ນ “ເລົ່າໃຫ້ຟັງແດ່ກ່ຽວກັບຮູບນີ້.” ການສົນທະນາທີ່ອົບອຸ່ນສຳຄັນກວ່າການໃຫ້ຂໍ້ເທັດຈິງຖືກຕ້ອງ.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "ການນຶກເຖິງຄວາມຊົງຈຳແມ່ນການສົນທະນາ ບໍ່ແມ່ນການສອບເສັງ. ຄວາມຖືກຕ້ອງບໍ່ສຳຄັນ ຄວາມສຸກສຳຄັນ."
+  - "ແທນ “ຈື່ໄດ້ບໍ?” ແລະ “ນີ້ແມ່ນໃຜ?” ດ້ວຍຄຳເຫັນ ແລະຄຳເຊີນເຊັ່ນ “ເລົ່າໃຫ້ຟັງແດ່ກ່ຽວກັບມື້ນີ້."
+  - "ກ່ອງຄວາມຊົງຈຳຂອງສິ່ງຂອງຈາກຊີວິດຂອງຜູ້ນັ້ນ ໃຫ້ມືແລະການສົນທະນາມີສິ່ງທີ່ຈະຈັບໄດ້."
+  - "ປຶ້ມປະຫວັດຊີວິດຊ່ວຍໃຫ້ຄອບຄົວ ແຂກ ແລະພະນັກງານດູແລຮູ້ຈັກຜູ້ນັ້ນ ບໍ່ແມ່ນພຽງແຕ່ການວິນິດໄສ."
+  - "ຖ້າຄວາມຊົງຈຳເຮັດໃຫ້ເສົ້າ ໃຫ້ປອບໂຍນກ່ອນ ແລ້ວຄ່ອຍໆປ່ຽນໄປເລື່ອງອື່ນ."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "ການນຶກເຖິງຄວາມຊົງຈຳສຳລັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມແມ່ນຫຍັງ?"
+    a: "ການນຶກເຖິງຄວາມຊົງຈຳແມ່ນການແບ່ງປັນຄວາມຊົງຈຳ ແລະປະສົບການໃນອະດີດ ມັກໃຊ້ຮູບ ສິ່ງຂອງ ດົນຕີ ຫຼືວິດີໂອ. ມັນອາດເກີດຂຶ້ນຕົວຕໍ່ຕົວ ຫຼືເປັນກຸ່ມ. ເປົ້າໝາຍແມ່ນການສົນທະນາທີ່ໜ້າພໍໃຈ ມີຄວາມໝາຍ ບໍ່ແມ່ນການທົດສອບວ່າຜູ້ນັ້ນຈື່ໄດ້ຫຼາຍປານໃດ."
+  - q: "ເປັນຫຍັງຂ້ອຍບໍ່ຄວນຖາມ “ຈື່ໄດ້ບໍ?”"
+    a: "ຄຳຖາມທີ່ທົດສອບຄວາມຊົງຈຳອາດເຮັດໃຫ້ຜູ້ນັ້ນອາຍ ຫຼືກັງວົນເມື່ອຄຳຕອບບໍ່ມາ. National Institute on Aging ລະບຸການຖາມວ່າຜູ້ນັ້ນຈື່ສິ່ງໃດ ຫຼືຜູ້ໃດໄດ້ບໍ່ເປັນໜຶ່ງໃນສິ່ງທີ່ຄວນຫຼີກເວັ້ນ. ໃຫ້ຄຳເຫັນກ່ຽວກັບສິ່ງທີ່ທ່ານເຫັນແທນ ແລະໃຫ້ຜູ້ນັ້ນເພີ່ມສິ່ງໃດກໍ່ໄດ້ທີ່ເຂົາເຈົ້າຢາກເພີ່ມ."
+  - q: "ຄວນໃສ່ຫຍັງໃນກ່ອງຄວາມຊົງຈຳ?"
+    a: "ເລືອກສິ່ງຂອງທີ່ປອດໄພ ແຂງແຮງ ແລະກ່ຽວຂ້ອງກັບຊີວິດຂອງຜູ້ນັ້ນ: ເຄື່ອງໃຊ້ໃນການເຮັດວຽກ ອຸປະກອນງານອະດິເລກ ຜ້າພັນຄໍທີ່ຊອບ ໂປສການ໌ ບັດສູດອາຫານ ຂອງທີ່ລະນຶກຈາກກິລາ ຫຼືສຳເນົາຮູບ. ຫຼີກເວັ້ນສິ່ງແຫຼມ ສິ່ງນ້ອຍທີ່ອາດຖືກກືນ ແລະຕົ້ນສະບັບທີ່ທົດແທນບໍ່ໄດ້."
+  - q: "ຖ້າເຂົາເຈົ້າຈື່ຂໍ້ເທັດຈິງຜິດຈະເຮັດແນວໃດ?"
+    a: "ປ່ອຍໄປ. ຖ້າແມ່ຂອງທ່ານເວົ້າວ່າຮູບນີ້ເປັນນ້ອງສາວຂອງນາງ ແຕ່ຄວາມຈິງເປັນຍາດຕິ ກໍ່ບໍ່ເປັນຫຍັງ. ການແກ້ໄຂເຮັດໃຫ້ຊ່ວງເວລາທີ່ອົບອຸ່ນກາຍເປັນການທົດສອບ. ຕິດຕາມເລື່ອງທີ່ເຂົາເຈົ້າເລົ່າ ແລະມີຄວາມສຸກນຳກັນ."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +37,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+ການນຶກເຖິງຄວາມຊົງຈຳໝາຍເຖິງການມີຄວາມສຸກກັບອະດີດນຳກັນ. ສຳລັບຫຼາຍຄົນທີ່ມີໂຣກສະໝອງເສື່ອມ ຄວາມຊົງຈຳຈາກຫຼາຍສິບປີກ່ອນມັກຈະຊັດເຈນກວ່າສິ່ງທີ່ເກີດຂຶ້ນໃນຕອນເຊົ້າ. ຮູບ ສິ່ງຂອງທີ່ຄຸ້ນເຄີຍ ດົນຕີ ແລະເລື່ອງລາວສາມາດເປີດຄວາມຊົງຈຳເຫຼົ່ານັ້ນ ແລະໃຫ້ສິ່ງທີ່ອົບອຸ່ນໃຫ້ແບ່ງປັນກັນ. ກົດດຽວ: ມັນເປັນການສົນທະນາ ບໍ່ເຄີຍເປັນການສອບເສັງ.
 
-## What is reminiscence, and how is it different from quizzing?
+## ການນຶກເຖິງຄວາມຊົງຈຳແຕກຕ່າງຈາກການຖາມທົດສອບແນວໃດ?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+ການນຶກເຖິງຄວາມຊົງຈຳແມ່ນການແບ່ງປັນຄວາມຊົງຈຳຜ່ານຮູບ ສິ່ງຂອງ ດົນຕີ ຫຼືວິດີໂອ ໃນຈັງຫວະຂອງຜູ້ນັ້ນເອງ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ອະທິບາຍວ່າເປັນການແບ່ງປັນປະສົບການ ແລະເລື່ອງລາວໃນອະດີດດ້ວຍຮູບ ສິ່ງຂອງ ວິດີໂອ ຫຼືດົນຕີ ໃນປຶ້ມ ຫຼືໃນແທັບເລັດ. ການຖາມທົດສອບແຕກຕ່າງກັນ: ມັນໃຫ້ຜູ້ນັ້ນຕອບຄຳຕອບທີ່ຖືກ ເຊິ່ງອາດນຳຄວາມອາຍມາໃຫ້ແທນຄວາມສຸກ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ລະບຸການຖາມຜູ້ນັ້ນວ່າຈື່ສິ່ງໃດ ຫຼືຜູ້ໃດໄດ້ບໍ່ເປັນສິ່ງທີ່ຄວນຫຼີກເວັ້ນ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ແນະນຳໃຫ້ຫຼີກເວັ້ນຄຳຖາມທີ່ອາໄສຄວາມຈຳໄລຍະສັ້ນ ແລະເວົ້າກ່ຽວກັບອະດີດທີ່ໄກກວ່າແທນ.
 
-| Instead of | Try |
+| ແທນທີ່ຈະ | ລອງເວົ້າວ່າ |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “ຈື່ອັນນີ້ໄດ້ບໍ?” | “ນີ້ເບິ່ງຄືມື້ທີ່ມີຄວາມສຸກ. ເລົ່າໃຫ້ຟັງແດ່.” |
+| “ນີ້ແມ່ນໃຜ?” | “ນີ້ແມ່ນປ້າໂຣສຢູ່ຫາດ. ເບິ່ງໝວກນັ້ນສິ.” |
+| “ນີ້ແມ່ນປີໃດ?” | “ນີ້ເບິ່ງຄືເຮືອນເກົ່າ. ການອາໄສຢູ່ທີ່ນັ້ນເປັນແນວໃດ?” |
+| “ບໍ່ແມ່ນບິນ ແມ່ນແຟຣ໊ງ.” | “ລາວເບິ່ງຄືມີຄວາມສຸກຫຼາຍເລີຍ.” |
+| “ເຈົ້າບອກຂ້ອຍແລ້ວ.” | “ຂ້ອຍມັກເລື່ອງນັ້ນຫຼາຍ.” |
 
-## How do you talk about photos without quizzing?
+## ຈະລົມກ່ຽວກັບຮູບໂດຍບໍ່ຖາມທົດສອບແນວໃດ?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+ເລີ່ມດ້ວຍສິ່ງທີ່ທ່ານເຫັນ ແລ້ວປ່ອຍພື້ນທີ່ໃຫ້ຜູ້ນັ້ນເພີ່ມສິ່ງໃດກໍ່ໄດ້ຖ້າຢາກ.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **ນັ່ງຄຽງຂ້າງກັນ.** ຖືອັລບັ້ມໃຫ້ຢູ່ລະຫວ່າງທ່ານ ເພື່ອເບິ່ງນຳກັນ ບໍ່ແມ່ນທົດສອບຂ້າມໂຕະ.
+2. **ເລືອກຮູບບໍ່ກີ່ຮູບ.** ຮູບດີ ຫ້າ ຮູບດີກວ່າກ່ອງທັງໝົດ. ຮູບພິມທີ່ໃຫຍ່ ຊັດເຈນເຮັດວຽກໄດ້ດີທີ່ສຸດ.
+3. **ເອີ້ນຊື່ຄົນເອງ.** “ນີ້ແມ່ນເຈົ້າກັບພໍ່ໃນມື້ແຕ່ງງານ” ເຮັດໃຫ້ຄວາມກົດດັນໝົດໄປ.
+4. **ໃຫ້ຄຳເຫັນກ່ຽວກັບລາຍລະອຽດ.** ເສື້ອຜ້າ ລົດ ອາຫານ ອາກາດ ໜ້າຕາ. “ລົດນີ້ງາມຫຼາຍ. ເບິ່ງຄືສົດໃສ.”
+5. **ເຊີນ ບໍ່ແມ່ນບັງຄັບ.** “ເລົ່າໃຫ້ຟັງແດ່ກ່ຽວກັບ...” ຫຼື “ເຫັນຫຍັງແດ່?” ຄວາມງຽບກໍ່ດີ.
+6. **ຕາມຜູ້ນັ້ນນຳ.** ຖ້າເຂົາເຈົ້າເວົ້າກ່ຽວກັບອີກເລື່ອງໜຶ່ງ ໃຫ້ຕາມໄປ.
+7. **ຢຸດໃນຂະນະທີ່ຍັງສຸກ.** ປິດອັລບັ້ມກ່ອນຄວາມເມື່ອຍຈະມາເຖິງ.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+ສຳລັບຄຳກະຕຸ້ນຮູບທີ່ພ້ອມໃຊ້ ລອງ[ບັດສົນທະນາ](/games/conversation-cards/). ເພື່ອປ່ຽນຮູບຄອບຄົວຂອງທ່ານໃຫ້ເປັນເກມຈັບຄູ່ທີ່ອ່ອນໂຍນ ລອງ[ຈັບຄູ່ຮູບຖ່າຍ](/games/photo-pairs/); ຮູບທີ່ທ່ານເລືອກຈະຢູ່ໃນບຣາວເຊີຂອງທ່ານ.
 
-## How do you make a memory box?
+## ຈະເຮັດກ່ອງຄວາມຊົງຈຳແນວໃດ?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+ກ່ອງຄວາມຊົງຈຳແມ່ນພາຊະນະທີ່ບັນຈຸສິ່ງຂອງຈາກຊີວິດຂອງຜູ້ນັ້ນ ໃຫ້ຈັບຕ້ອງ ແລະລົມກັນໄດ້.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **ເລືອກກ່ອງທີ່ແຂງແຮງ** ທີ່ເປີດງ່າຍ ເຊັ່ນ ກ່ອງເກີບ ກ່ອງໝວກ ຫຼືກ່ອງໄມ້ນ້ອຍ.
+2. **ເລືອກຫົວຂໍ້ ຫຼືການປະສົມ.** ວຽກ ງານອະດິເລກ ສະຖານທີ່ ທົດສະວັດ ຫຼືເລັກນ້ອຍຂອງທຸກຢ່າງ.
+3. **ເກັບສິ່ງຂອງທີ່ປອດໄພ.** ປະມານ ຫ້າ ຫາ ສິບ ຊິ້ນກໍ່ພຽງພໍເພື່ອເລີ່ມ.
+4. **ໃຊ້ສຳເນົາຂອງສິ່ງທີ່ມີຄ່າ.** ສຳເນົາຮູບ ແລະເອກະສານທີ່ທົດແທນບໍ່ໄດ້ ແລະເກັບຕົ້ນສະບັບໄວ້ໃຫ້ປອດໄພ.
+5. **ເອົາອອກເທື່ອລະຊິ້ນ.** ສົ່ງໃຫ້ຊິ້ນໜຶ່ງ ເວົ້າກ່ຽວກັບມັນ ແລ້ວເບິ່ງວ່າການສົນທະນາໄປທີ່ໃດ.
 
-Ideas to include:
+ໄອເດຍທີ່ຄວນໃສ່:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **ວຽກ:** ປ້າຍຊື່ງານ ເຄື່ອງມືນ້ອຍ ແພັດເຄື່ອງແບບ ປຶ້ມບັນຊີ ເຂັມກັດສະຖານທີ່ໝໍ ຫຼືປຶ້ມສູດອາຫານຈາກຮ້ານ.
+- **ບ້ານ:** ບັດສູດອາຫານທີ່ຂຽນດ້ວຍລາຍມືຂອງເຂົາເຈົ້າ ຜ້າເຊັດຈານ ຜ້າພັນຄໍ ຫຼືເນັກໄທທີ່ຊອບ.
+- **ງານອະດິເລກ:** ເຫຍື່ອຕົກປາທີ່ບໍ່ມີເບັດ ລູກບານເບສບອນ ຫຼືມ້ວນດ້າຍ ຫຼືຊອງເມັດພັນ.
+- **ສະຖານທີ່:** ໂປສການ໌ ແຜນທີ່ ຂອງທີ່ລະນຶກຈາກທ່ອງທ່ຽວ ຫຼືຂ່າວທ້ອງຖິ່ນທີ່ຕັດເກັບໄວ້.
+- **ຄອບຄົວ:** ສຳເນົາຮູບ ຮູບແຕ້ມຂອງເດັກ ຫຼືການເຊີນງານແຕ່ງງານ.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+ຫຼີກເວັ້ນສິ່ງແຫຼມ ສິ່ງນ້ອຍທີ່ອາດຖືກກືນ ແລະສິ່ງທີ່ອາດນຶກເຖິງຄວາມເຈັບປວດ ເວັ້ນເສຍແຕ່ທ່ານຮູ້ວ່າຜູ້ນັ້ນຍິນດີ.
 
-## How do you make a life-story book?
+## ຈະເຮັດປຶ້ມປະຫວັດຊີວິດແນວໃດ?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+ປຶ້ມປະຫວັດຊີວິດແມ່ນອັລບັ້ມງ່າຍໆທີ່ມີຮູບ ແລະຄຳບັນຍາຍສັ້ນໆກ່ຽວກັບຊີວິດຂອງຜູ້ນັ້ນ. ມັນເປັນສິ່ງທີ່ເບິ່ງນຳກັນ ແລະຊ່ວຍໃຫ້ແຂກ ແລະພະນັກງານດູແລເຫັນຜູ້ນັ້ນທັງໝົດ.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **ເລືອກຮູບແບບ.** ແຟ້ມທີ່ມີແຜ່ນໃສ ປຶ້ມຮູບທີ່ພິມ ຫຼືສະໄລດ໌ໃນແທັບເລັດ.
+2. **ວາງແຜນຫຼາຍພາກ.** ໄວເດັກ ໂຮງຮຽນ ວຽກ ຄອບຄົວ ສະຖານທີ່ທີ່ເຄີຍອາໄສ ສາດສະໜາ ງານອະດິເລກ ອາຫານທີ່ມັກ ແລະດົນຕີ.
+3. **ເພີ່ມຮູບໜຶ່ງຫຼືສອງຮູບຕໍ່ໜ້າ** ພ້ອມຄຳບັນຍາຍສັ້ນໆຕົວໃຫຍ່: “ມາລີ ອາຍຸ 22 ເລີ່ມເຮັດວຽກທີ່ທະນາຄານ.”
+4. **ລວມຄວາມມັກ ແລະນິໄສປະຈຳ.** “ດື່ມກາເຟໃສ່ນົມ. ຮັກເພງສວດວັນອາທິດ. ບໍ່ຊອບໂທລະທັດສຽງດັງ.” ສິ່ງນີ້ຊ່ວຍທຸກຄົນທີ່ດູແລເຂົາເຈົ້າ.
+5. **ໃຫ້ຜູ້ນັ້ນມີສ່ວນຮ່ວມ** ຕາມທີ່ເຂົາເຈົ້າຢາກ ເລືອກຮູບ ເລົ່າເລື່ອງ ຫຼືພຽງແຕ່ເບິ່ງມັນຖືກປະກອບຂຶ້ນ.
+6. **ເພີ່ມຢ່າງຕໍ່ເນື່ອງ.** ມັນບໍ່ຈຳເປັນຕ້ອງສຳເລັດເພື່ອໃຫ້ເປັນປະໂຫຍດ.
 
-## More reminiscence ideas
+## ໄອເດຍການນຶກເຖິງຄວາມຊົງຈຳເພີ່ມເຕີມ
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **ຫຼິ້ນດົນຕີຈາກໄວໜຸ່ມຂອງເຂົາເຈົ້າ** ແລະລົມກັນວ່າມັນພາໄປເຖິງໃສ. ເບິ່ງ[ກິດຈະກຳດົນຕີ](/activities/music/).
+- **ເບິ່ງວິດີໂອຄອບຄົວ ຫຼືລາຍການໂທລະທັດ** ຈາກທົດສະວັດທີ່ຊອບ.
+- **ປຸງອາຫານໃນໄວເດັກ** ແລະປ່ອຍໃຫ້ກິ່ນນຳການສົນທະນາ.
+- **ເບິ່ງແຜນທີ່ເມືອງບ້ານເກີດ** ແລະຕາມຖະໜົນທີ່ຄຸ້ນເຄີຍ.
+- **ເບິ່ງແຄັດຕາລັອກ ຫຼືນິດຕະສານເກົ່າ** ແລະລົມກັນກ່ຽວກັບລາຄາ ແຟຊັ່ນ ແລະລົດ.
+- **ບັນທຶກເລື່ອງລາວຂອງເຂົາເຈົ້າ** ດ້ວຍໂທລະສັບ ດ້ວຍການອະນຸຍາດຂອງເຂົາເຈົ້າ ເພື່ອຄອບຄົວ.
+- **ແບ່ງປັນໃນການໂທ.** ຍົກຮູບໜຶ່ງໃບໃຫ້ເບິ່ງໃນການໂທວິດີໂອ; ເບິ່ງ[ການໂທໂທລະສັບ ແລະວິດີໂອ](/activities/phone-and-video-calls/).
+- **ນຳຮູບ ຫຼືສິ່ງຂອງມາດ້ວຍເວລາທີ່ມາຢ້ຽມຢາມ.** ມັນໃຫ້ຈຸດສຸມງ່າຍໆແກ່ການຢ້ຽມຢາມ; ເບິ່ງ[ການຢ້ຽມຢາມ](/activities/visiting/).
 
-## What if a memory is painful?
+## ຖ້າຄວາມຊົງຈຳເຈັບປວດຈະເຮັດແນວໃດ?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+ບາງຄວາມຊົງຈຳນຳຄວາມໂສກເສົ້າ ຄວາມເສຍໃຈ ຫຼືຄວາມຢ້ານມາ. ຖ້າຜູ້ນັ້ນເສຍໃຈ ໃຫ້ຢຸດ ປອບໂຍນ ແລ້ວຄ່ອຍໆປ່ຽນເລື່ອງ ຫຼືກິດຈະກຳ. ຢ່າໂຕ້ແຍ້ງກ່ຽວກັບສິ່ງທີ່ເກີດຂຶ້ນ. Family Caregiver Alliance ແນະນຳບໍ່ໃຫ້ພະຍາຍາມເຮັດໃຫ້ຜູ້ນັ້ນເຊື່ອວ່າເຂົາເຈົ້າຜິດ ແລະແນະນຳໃຫ້ຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກທີ່ເຂົາເຈົ້າສະແດງອອກ ເຊິ່ງເປັນຄວາມຮູ້ສຶກຈິງ. ຖ້າເຂົາເຈົ້າເວົ້າເຖິງຄົນທີ່ເສຍຊີວິດໄປແລ້ວຄືກັບວ່າຍັງມີຊີວິດຢູ່ ໃຫ້ຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກນັ້ນ: “ເຈົ້າຄິດຮອດລາວ. ເລົ່າໃຫ້ຟັງແດ່ກ່ຽວກັບລາວ.”
 
-## What does the research say?
+## ການວິໄຈເວົ້າຫຍັງ?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[ການທົບທວນ Cochrane ກ່ຽວກັບການນຶກເຖິງຄວາມຊົງຈຳ](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) ທີ່ຄອບຄຸມ 22 ການທົດລອງ ແລະ 1,972 ຄົນ ພົບວ່າຜົນບໍ່ສະໝ່ຳສະເໝີ ນ້ອຍ ແລະແຕກຕ່າງກັນຕາມສະພາບແວດລ້ອມ ແລະຮູບແບບ. ມັນບໍ່ພົບຫຼັກຖານວ່າເປັນອັນຕະລາຍຕໍ່ຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ. ພວກເຮົາແນະນຳການນຶກເຖິງຄວາມຊົງຈຳເພາະມັນສາມາດເປັນເວລາອົບອຸ່ນ ມີຄວາມໝາຍນຳກັນ ບໍ່ແມ່ນໃນຖານະການປິ່ນປົວ. ສຳລັບການສົນທະນາງ່າຍໆເພີ່ມເຕີມ ເບິ່ງ[ເຄັດລັບການສື່ສານ](/caregiving/communication-tips/).

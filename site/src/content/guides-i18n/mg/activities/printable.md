@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Hetsika dementia azo atao amin’ny taratasy maimaim-poana"
+seoTitle: "Hetsika dementia azo atao amin’ny taratasy: sora-mafy"
+description: "Hetsika dementia azo atao amin’ny taratasy maimaim-poana: fitadiavana teny, pejy hosodoko, karatra fifampiresahana, bingo sary ary toro-hevitra fanontana."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments dia manome hetsika dementia azo atao amin’ny taratasy
+  maimaim-poana: fitadiavana teny sora-mafy, pejy hosodoko, karatra
+  fifampiresahana amin’ny sary ary karatra bingo sary. Sokafo ny pejy lalao
+  rehetra ary ampiasao ny bokotra Print. Manonta amin’ny soratra lehibe sy mazava
+  amin’ny taratasy matevina, tazomina ny asa iray isaky ny pejy, ary andramo
+  ny plastika ireo pejy izay tianao ampiasaina indray. Ny taratasy natao an-trano
+  toy ny pejy tantaram-piainana na fandaharam-andro andavanandro dia manampy koa.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Ny hetsika azo atao amin’ny taratasy dia maimaim-poana: Fitadiavana teny, Hosodoko, Karatra fifampiresahana sy Bingo sary. Ny pejy lalao tsirairay dia manana bokotra Print."
+  - "Manonta amin’ny soratra lehibe sy mazava miaraka amin’ny fahazavana mafy, ary tazomina ny asa iray isaky ny pejy."
+  - "Ny taratasy matevina na karatra dia mora ho azo tanana sy tsy mora mangiragiry. Ampiasao ny plastika ho an’ny pejy azo ampiasaina indray amin’ny marika azo esorina."
+  - "Ny taratasy natao an-trano toy ny pejy tantaram-piainana, fandaharam-andro andavanandro na karatra famantarana varavarana dia tsotra ary ilaina."
+  - "Pejy napetraka dia fanasana, fa tsy asa an-trano. Ny fanaovana ampahany na tsy fanaovana akory dia mety."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Maimaim-poana ve ireo hetsika azo atao amin’ny taratasy ho an’ny dementia?"
+    a: "Eny. Ny pejy Fitadiavana teny, Hosodoko, Karatra fifampiresahana ary Bingo sary eto amin’ny tranonkala dia azo ampiasaina sy atao maimaim-poana. Sokafo ny pejy lalao ary ampiasao ny bokotra Print."
+  - q: "Inona no hetsika taratasy tsara indrindra ho an’ny dementia?"
+    a: "Ny tsara indrindra dia tsotra, mazava ary an’olona lehibe: fitadiavana teny soratra lehibe misy teny miseho ihany eo amin’ny sakany sy ambany, pejy hosodoko misy tsipika mazava, karatra sary izay manomboka resaka, ary bingo sary ho an’ny vondrona. Mifanaraka amin’ny liana sy ny heriny ankehitriny ny hetsika, ary tazomina ny asa iray isaky ny pejy."
+  - q: "Ahoana no fomba hanamorana ny fahitana sy ny fampiasana ny taratasy natao?"
+    a: "Ampiasao soratra lehibe sy mazava, ink maizina amin’ny taratasy fotsy na volondavenona, ary toerana be. Ampiasao taratasy matevina na karatra mba hitoetra maitso ny pejy, safidio taratasy tsy mamirapiratra mba hampihenana ny fanjarahana, ary ampiasao clipboard na fitoerana tsy mihetsika mba hitazomana ny pejy. Ny plastika dia manampy amin’ny fitoerana ela."
+  - q: "Afaka manonta ny hetsikanao ho an’ny trano fikarakarana na fandaharana andro ve aho?"
+    a: "Eny. Ny mpiasa momba ny hetsika dia malaza hanonta ny pejinay ho an’ny mponina sy ny vondrona. Bingo sary dia natao ho an’ny vondrona ary misy mpiantso amin’ny efijery izay azonao asehoina amin’ny TV na projector."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Mety ho hetsika tsara indrindra ny taratasy iray sy penina iray eo amin’ny latabatry ny lakozia. Ny hetsika taratasy dia tsy mila herinaratra, tsy mila teny miafina ary tsy mila efijery, ary mora entina any amin’ny fitsidihana na vondrona. Ity pejy ity dia manazava ny hetsika taratasy maimaim-poana eto amin’ny tranonkalanay, ny fomba fanontana azy mba ho mora hita sy hazonina, ary taratasy natao an-trano vitsivitsy izay manampy ny fianakaviana sy ny mpiasa momba ny hetsika.
 
-## What free printable activities do you offer?
+## Inona no hetsika taratasy maimaim-poana atolotray?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Manolotra hetsika taratasy maimaim-poana efatra izahay. Sokafo ny pejy lalao iray amin’ireo ary ampiasao ny bokotra **Print** mba hahazoana endrika azo atontosina amin’ny printer.
 
-| Printable | What it is | Good for |
+| Taratasy | Izy io | Mety amin’ny |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Fitadiavana teny](/games/word-search/) | Fitadiavana teny soratra lehibe misy teny miseho eo amin’ny sakany sy ambany ihany | Fotoana mangina miaraka amin’ny penina; olona tia puzzle taloha |
+| [Hosodoko](/games/coloring/) | Pejy hosodoko azo atao amin’ny taratasy, na azo lokoina amin’ny efijery | Fotoana malemy sy famoronana; sehatra rehetra miaraka amin’ny fanampiana |
+| [Karatra fifampiresahana](/games/conversation-cards/) | Karatra sary miaraka amin’ny fanentanana resaka malalaka tsy misy fanontanian-tsokajy, araka ny lohahevitra | Fitsidihana, antso, sakafo fianakaviana, vondrona fahatsiarovana |
+| [Bingo sary](/games/picture-bingo/) | Karatra bingo misy sary fa tsy isa, ary mpiantso amin’ny efijery | Trano fikarakarana, fandaharana andro, fivoriana fianakaviana |
 
-### Large-print word search
+### Fitadiavana teny soratra lehibe
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Ny [Fitadiavana teny](/games/word-search/) dia mampiasa litera lehibe ary mitazona ny teny miseho eo amin’ny sakany sy ambany ihany, tsy misy diagonal na teny miverina. Asaivo miaraka: iray mamaky teny avy amin’ny lisitra, ny iray hafa mitady azy. Raha sarotra ny mahita teny, andramo ny manodidina miaraka ny litera voalohany amin’ny teny tsirairay, na ny famakiana lisitra teny mafy sy ny resaka momba ny teny tsirairay.
 
-### Coloring pages
+### Pejy hosodoko
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Ny pejy [hosodoko](/games/coloring/) dia azo atao amin’ny taratasy ho an’ny marika na pesirina loko, na azo lokoina amin’ny tablet amin’ny fitsindrana loko, avy eo ampiasaina ny ampahany amin’ny sary. Ho an’ny pejy napetraka, omeo marika matevina sy loko vitsivitsy indray mandeha. Jereo ny [torolalana momba ny asa-tanana](/activities/arts-and-crafts/) mba hitazomana ny hosodoko ho olona lehibe sy malemy.
 
-### Conversation cards
+### Karatra fifampiresahana
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+Ny [Karatra fifampiresahana](/games/conversation-cards/) dia mampifandray sary mazava amin’ny fanentanana malalaka, toy ny “Lazao ahy momba ny…” na “Inona no hitanao?” Voasoratra ho fanasana malalaka izy ireo, fa tsy fanontanian-tsokajy. Manonta andiana iray, sarahina, ary tazomina vitsy ao anaty kitapo ho an’ny fitsidihana na eo akaiky ny findain-tsoratra ho an’ny antso. Mety koa amin’ny vondrona [fahatsiarovana](/activities/reminiscence/).
 
-### Picture bingo cards
+### Karatra bingo sary
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Ny [Bingo sary](/games/picture-bingo/) dia misy karatra misy sary fa tsy isa. Maneho karatra iray isaky ny mpilalao ary ampiasao ny mpiantso amin’ny efijery amin’ny ordinatera eo an-tanana, TV na projector. Manoro hevitra izahay ny hiantso mandra-pameno ny karatra rehetra, mba tsy hisy olona ho very. Jereo ny [hetsika vondrona ho an’ny trano fikarakarana](/activities/care-home-groups/) mba hahafantarana ny fomba fitantanana fivoriana.
 
-## How do I print activities so they are easy to use?
+## Ahoana no fomba hanontana ny hetsika mba ho azo ampiasaina amin’ny fomba mora?
 
-Small changes in how you print make a big difference.
+Ny fanovana kely amin’ny fomba fanontana dia manana fiantraikany lehibe.
 
-### Make it easy to see
+### Ataovy mora ny mahita
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Soratra lehibe sy mazava.** Ampiasao ny haben-soratra lehibe indrindra izay mbola mety amin’ny pejy. Aza ampiasa soratra mamirapiratra na tsipika mihodina.
+- **Fahasamihafana mafy.** Ink maizina amin’ny taratasy fotsy na volondavenona. Aza ampiasa fotsy-mavo na lamban-kala.
+- **Taratasy matte** mampihena ny fanjarahana eo ambanin’ny jiro mazava.
+- **Jereo ny lenta sy ny fahazavana.** Ny Alzheimer’s Association dia milaza fa ny olana amin’ny fahitana sy fihainoana dia mety hahasarotra ny fifandraisana, ary manoro hevitra ny hijerena matetika. Jiro mazava sy mitovy dia manampy koa.
 
-### Make it easy to hold
+### Ataovy mora ny mihazona
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Taratasy matevina na karatra** dia mijanona maitso, mora raisina, ary mahatsimoka amin’ny fampiasana imbetsaka.
+- **Clipboard** na tapi-tsakitra tsy mikoriana mampijanona ny pejy tsy hifindra.
+- **Marika matevina na pesirina lehibe** dia mora kokoa hazonina noho ny penina manify.
 
-### Make it reusable
+### Ataovy azo ampiasaina indray
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Plastika ny pejy** na asiana amin’ny sarontsary mivaingana. Ampiasao marika azo esorina amin’ny fitadiavana teny sy karatra bingo, avy eo esory amin’ny lamba.
+- **Safidio poche matte** raha olana ny fanjarahana, ary **manasa ny zoro** amin’ny karatra plastika amin’ny fitaovana fanapahana mba ho mora amin’ny fitazonana.
+- **Tazomina lahatahiry** misy ny ankafiziny mba tsy hanontana ny pejy mitovy isan-kerinandro.
 
-### Keep it simple
+### Tazomina tsotra
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Asa iray isaky ny pejy.** Fitadiavana teny iray na sary iray, fa tsy hetsika maro mifangaro.
+- **Habe fanoanana be.** Pejy be loatra dia mety hanaitra.
+- **Tsy misy torolalana hamakiana, raha azo atao.** Asehoy ny olona izay tokony hataony.
+- **Ahena ny pejy.** Raha lehibe loatra ny pejy feno, tapahy antsasany na apetraho mba hiseho ny ampahany ihany.
 
-## Other useful printables you can make at home
+## Taratasy hafa mahasoa azo atao an-trano
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Tsy hetsika lalao avokoa ny taratasy rehetra mahasoa. Ireto dia mora atao amin’ny processeur sy printer.
 
-### A life-story page
+### Pejy tantaram-piainana
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Pejy iray “momba ahy” misy sary, ny anarana tiany hantsoina, toerana nihary, asa, fianakaviana, sakafo tiana, mozika ary zavatra mampionona na mampahatezitra. Ny Dementia Australia dia manoro hevitra ny [boky fahatsiarovana](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) misy antsipiriany momba ny fiainan’ny olona, ny tiany ary ny olona manan-danja, mba hanampiana ny mitsidika sy ny mpikarakara ary hampiroboroboana resaka.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Mahasoa indrindra any amin’ny hopitaly sy toerana vaovao fikarakarana izany. Ny NIA dia manoro hevitra ny hanomezana ny mpiasa hopitaly [taratasy fampahalalana manokana](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) misy ny fandaharam-andro, ny anarana tiana, ny tiany sy tsy tiany, ny antony mety hampisaraka, ary ny famantarana tsy miteny amin’ny fanaintainana.
 
-### A daily schedule
+### Fandaharam-andro andavanandro
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Fandaharam-andro lehibe sy tsotra ho an’ny andro misy fotoana, teny vitsivitsy ary sary kely ho an’ny ampahany tsirairay: sakafo maraina, dia an-tongotra, sakafo antoandro, fitsaharana, mozika, sakafo hariva. Ny [drafitra fikarakarana andavanandro](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) avy amin’ny Alzheimer’s Association dia manoro hevitra ny hamolavolana araka ny fotoana tsara indrindra ho an’ny olona, miaraka amin’ny fifohazana sy fandriana mahazatra ary fifandanjana eo amin’ny hetsika sy ny fitsaharana. Apetraho amin’ny haavon’ny maso izany, angamba eo amin’ny fridge, ary tazomina malalaka. Jereo ny [torolalana momba ny fandaharam-andro andavanandro](/activities/daily-routine/) hafa.
 
-### Picture labels for rooms and drawers
+### Sary famantarana ho an’ny efitra sy lafiny
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Ny NIA dia manoro hevitra ny hampiasana famantarana loko mamirapiratra na sary tsotra hanamarihana [ny efitrano fandraisam-bava, efitrano fandriana ary lakozia](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Mitovy izany amin’ny tiroara sy kabinetra: sary sosa eo amin’ny tiroaran’ny sosa, kapoka eo amin’ny kabinetra kapoka. Atao an-taratasy, asiana plastika ary apetraho.
 
-### A sorting set
+### Andiana fanasokajana
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Soraty sary avy amin’ny sokajy roa tsotra, toy ny voankazo sy voninkazo, na fitaovana sy zavatra lakozia, amin’ny taratasy karatra matevina. Sarahina ary sokajiana ho amin’ny vata roa miaraka. Ny endrika amin’ny efijery an’izany dia [Mandamina miaraka](/games/sort-together/).
 
-### Song lyric sheets
+### Takelaka hira
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Soraty ny teny amin’ny hira tiana vitsivitsy amin’ny soratra lehibe indrindra ho an’ny fihirana miaraka. Na ny olona tsy mamaky intsony be dia mety mbola tia mihazona ny takelaka.
 
-### A family photo page
+### Pejy sary fianakaviana
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Pejy iray misy sary fianakaviana lehibe efatra hatramin’ny enina, ary anaran-kely eo ambany tsirairay. Azo apetraka eo amin’ny latabatra mba hazonin’ny olona rehetra sy hiresahana momba azy. Ny famantarana dia manampy ny mitsidika sy ny mpiasa hiditra amin’ny resaka, ary tsy misy olona mila manontany hoe “Iza ity?”
 
-### A recipe card
+### Karatra fomba fanaovana
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Soraty fomba fanaovana sakafo tiana ao amin’ny fianakaviana amin’ny soratra lehibe. Ampiasao izany hahandro miaraka, na hiresaka fotsiny momba ny sakafo taloha.
 
-## How do I offer a printable without it feeling like homework?
+## Ahoana no fomba hanolorana taratasy tsy ho toy ny asa an-trano?
 
-Present it as something to share, not a test.
+Asehoy izany ho zavatra hizarana, fa tsy fitsapana.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Mipetraha ary atombohy ianao.** “Mamita teny ity aho. Mila fanampiana amin’ny fitadiavana ‘tanimboaloboaka’ ve ianao?”
+- **Miasa miaraka.** Miovia, na iray mitady ary iray manondro.
+- **Aza mamarika tsara na diso mihitsy.** Ny torolalana momba ny [hetsika ao an-trano](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) avy amin’ny Alzheimer’s Association dia manoro hevitra ny hifantohana amin’ny fomba, fa tsy ny valiny, ary amin’ny fahafinaretana fa tsy ny fahavitana.
+- **Avelao ny pejy eo akaiky.** Ny torolalana mitovy dia manoro hevitra ny hametrahana boky tantara, album sary na gazety taloha amin’ny toerana mora tratra. Ny karatra voasoratra sy ny pejy sary dia azo apetraka amin’ny latabatra kely mitovy amin’izany.
+- **Ajanony rehefa tianao.** Ny hosodoko antsasany dia fotoana mahafinaritra. Ny fametrahana ny pejy any aoriana sy ny fisotroana kafe koa.
 
-## Where to find more
+## Hitady hafa
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Jereo ny [lalao sy taratasy rehetra](/games/) eto amin’ny tranonkala, na jereo ny [hetsika ho an’ny sehatra rehetra](/activities/ideas/) mba hahitana hevitra bebe kokoa, miaraka amin’ny taratasy sy tsy misy taratasy.

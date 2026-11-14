@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Вақте шахси гирифтори деменсия аз машғулият даст мекашад ё ноумед мешавад"
+seoTitle: "Вақте шахси гирифтори деменсия аз машғулият даст мекашад"
+description: "Чаро шахси гирифтори деменсия аз машғулият даст мекашад ё ноумед мешавад, чӣ кӯшиш кардан, аз чӣ худдорӣ кардан ва кай ба духтур муроҷиат кардан."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Вақте шахси гирифтори деменсия «не» мегӯяд, онро оромона қабул кунед ва
+  баъдтар боз кӯшиш намоед ё чизи дигаре пешниҳод кунед. Даст кашидан аксар
+  вақт сабаб дорад: кор хеле душвор ё кӯдакона ба назар мерасад, шахс хаста
+  аст, дард дорад, гурусна аст ё аз садо ошуфта шудааст. Баҳс накунед ва
+  исрор нанамоед. Корро соддатар кунед, ду интихоб пешниҳод намоед ё аз ӯ
+  кумак пурсед. Рафтори ногаҳонӣ ё зуд тағйирёбанда, хусусан пас аз сироят ё
+  доруи нав, фавран ба духтур ниёз дорад.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Не» посухест, ки бояд ҳурмат кард, на мушкилие, ки бояд аз он гузашт."
+  - "Даст кашидан одатан сабаб дорад: хеле душвор, хеле кӯдакона, хастагӣ, бемориву нороҳатӣ ё ошуфтагӣ."
+  - "Қафо шавед, интизор шавед ва баъдтар, дар вақти дигар ё бо варианти соддатар кӯшиш кунед."
+  - "Аз ӯ кумак пурсидан аз он ки аз ӯ намоиш хоҳед, беҳтар кор мекунад."
+  - "Ҳеҷ гоҳ баҳс, исрор, имтиҳон ё ислоҳ накунед. Худро санҷед, ки оё шитоб ё фишор намеоваред."
+  - "Рафтори ногаҳонӣ ё зуд тағйирёбанда, хусусан бо сироят ё доруҳои нав, бояд фавран ба духтур расонида шавад."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Оё мумкин аст бигзорем, ки ӯ умуман аз машғулиятҳо гузарад?"
+    a: "Бале, дар ҳар рӯзи додашуда. Якҷоя нишастан, гӯш кардани мусиқӣ ё тамошои ҷаҳон метавонад кофӣ бошад. Агар касе тайи чанд ҳафта аз ҳама чиз лаззат бурданро бас кунад, ба духтураш бигӯед, зеро кайфияти паст, дард ё мушкилоти дигари саломатӣ метавонанд як қисми манзара бошанд."
+  - q: "Чаро аз чизҳое, ки пештар дӯст медошт, даст мекашад?"
+    a: "Машғулияти кӯҳна метавонад ноумедкунанда шавад, вақте ки он ҳоло малакаҳоеро талаб мекунад, ки деменсия онҳоро душвор кардааст, ва шахс метавонад шарм кунад. Қисмати соддатари ҳамон машғулиятро кӯшиш кунед, масалан ҷудо кардани тугмаҳо ба ҷои дӯзандагӣ, ё дидани тасвирҳои боғ ба ҷои шинондан."
+  - q: "Оё кӯшиш кунам, ки ӯро розӣ кунам?"
+    a: "Не. Ба касе фишор овардан барои кардани чизе, ки деменсия онро душвор кардааст, ангезандаи маъруфи изтироб аст. «Не»-ро қабул кунед, мавзӯъро иваз намоед ва баъдтар ё бо роҳи дигар боз пешниҳод кунед."
+  - q: "Тағйири рафтор кай ҳолати фавқуллода аст?"
+    a: "Агар касе дар хатар аст ё нишонаҳои ҳолати фавқуллодаи тиббӣ дорад, ба рақами ёрии таъҷилии маҳаллии худ занг занед. Барои ошуфтагии ногаҳонӣ ё рафторе, ки дар давоми соатҳо ё рӯзҳо зуд тағйир меёбад, хусусан бо таб, сироят ё доруи нав, фавран ба духтураш муроҷиат кунед."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Шумо ҳама чизро омода мекунед, бозӣ ё сайр пешниҳод менамоед ва ҷавоби «Не»-ро мешунавед. Ё машғулият хуб оғоз мешавад ва бо планшети дур кардашуда ва калимаи тунд тамом мешавад. Ин рӯҳафтода мекунад ва хеле маъмул аст. Даст кашидан ва ноумедӣ одатан паём аст, на якравӣ. Фаҳмидани он ки паём чист, аксар вақт нишон медиҳад, ки чӣ кӯшиш кардан лозим аст.
 
-## Why does someone with dementia refuse activities?
+## Чаро шахси гирифтори деменсия аз машғулиятҳо даст мекашад?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Одатан сабабе ҳаст, ҳатто агар шахс онро бо калима гуфта натавонад. [Ассотсиатсияи Алтсгеймер](https://www.alz.org/help-support/caregiving/daily-care/activities) қайд мекунад, ки муқовимат метавонад маънои онро дошта бошад, ки шахс кореро карда наметавонад ё аз кӯшиш тарс дорад. Сабабҳои маъмул инҳоянд:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Хеле душвор эҳсос мешавад.** Машғулият ҳоло малакаҳоеро талаб мекунад, ки деменсия онҳоро душвор кардааст, ва дар назди касе ноком шудан шармовар аст.
+- **Кӯдакона эҳсос мешавад.** Калонсолон тасвирҳои карикатурӣ, овозҳои оҳангин ва машғулиятҳоеро, ки гӯё барои кӯдакон сохта шудаанд, пайхас мекунанд.
+- **Хастагӣ.** Бисёр одамон дертар дар рӯз қуввати камтар доранд. Нигаред: [машғулиятҳои ором дар нимрӯзии дер](/caregiving/late-day-restlessness/).
+- **Нороҳатии ҷисмонӣ.** [Институти миллии пиронсолӣ (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) дард, камхобӣ, душвории дидан ё шунидан, қабзият, гуруснагӣ, ташнагӣ ва таъсири иловагии доруҳои навро ҳамчун сабабҳои эҳтимолии ранҷиш номбар мекунад.
+- **Аз ҳад зиёд чиз рух дода истодааст.** Телевизори баланд, чанд сӯҳбат ё ҳуҷраи серодам метавонад ошуфта кунад.
+- **Эҳсоси фишор.** NIA фишор овардан барои кардани чизе, ки Алтсгеймер онро хеле душвор кардааст, ё барои ба ёд овардани рӯйдодҳо ё одамонро ҳамчун сабаби изтироб номбар мекунад.
+- **Кайфияти паст.** Аз даст додани завқ ба чизҳо метавонад нишонаи афсурдагӣ бошад, ки арзиши ба духтур гуфтанро дорад.
+- **Онҳо танҳо намехоҳанд.** Калонсолон ҳақ доранд «не» гӯянд.
 
-## What should I try when they say no?
+## Вақте ӯ «не» мегӯяд, чӣ кӯшиш кунам?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+«Не»-ро оромона қабул кунед, баъд чизеро тағйир диҳед: вақт, машғулият, душворӣ ё тарзи пурсиш.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Ҳоло гузоред.** «Хуб аст. Шояд баъдтар.» Баъд бе оҳ кашидан ба чизи дигар гузаред.
+2. **Баъдтар боз кӯшиш кунед.** Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки баъдтар ё дар вақти дигари рӯз боз кӯшиш кунед.
+3. **Онро хурдтар кунед.** Як мувофиқат ба ҷои тамоми бозӣ. Як сачоқ ба ҷои сабади либоси шуста. Тасвирҳои камтар, интихобҳои камтар, тасвирҳо намоён.
+4. **Ду имкон пешниҳод кунед.** «Мехоҳед тасвирҳои паррандаҳоро тамошо кунед ё мусиқӣ гӯш диҳед?» Интихоб эҳсоси назоратро бармегардонад.
+5. **Ба ҷои намоиш кумак пурсед.** «Метавонед ба ман дар ҷудо кардани инҳо кумак кунед?» ё «Метавонед бигӯед, кадом ранг беҳтар аст?» Ниёз доштан ба имтиҳон шудан хеле фарқ мекунад.
+6. **Худатон оғоз кунед.** Машғулиятро дар паҳлӯи ӯ бе пурсиш оғоз кунед. Бисёр одамон вақте ҳамроҳ мешаванд, ки чизе аллакай рух дода истодааст, ва агар ҳамроҳ нашаванд, шумо ҳамоно вақтро якҷоя гузаронидаед.
+7. **Ба чизи ҷисмонӣ ё оромбахш гузаред.** Сайри кӯтоҳ, мусиқӣ, газак, ҷамъ кардани либосҳои шуста ё таваққуфи муштараки [нафаскашии ором](/games/calm-breathing/). NIA тавсия медиҳад, ки диққатро ба мусиқӣ, китоб ё сайр равона кунед.
+8. **Бигзор онро бо тарзи худаш кунад.** Агар ӯ хоҳад, ки бо қоидаҳо фарқ карда бозӣ кунад, розӣ шавед. Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки чандир бошед.
 
-## What should I say when they get frustrated?
+## Вақте ноумед мешавад, чӣ бигӯям?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Суръатро суст кунед, овозро паст намоед ва тасаллӣ диҳед. [Роҳнамои Ассотсиатсияи Алтсгеймер оид ба изтироб](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) пешниҳод мекунад, ки қафо шавед ва иҷозат пурсед, ҷумлаҳои ором ва мусбат истифода баред ва интихоби роҳнамоишавандаро байни ду имкон пешниҳод кунед. Ибораҳо дар ҳамин рӯҳ:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Мебахшед, ин машғулият ранҷонанда аст. Биёед қатъ кунем.»
+- «Шумо хуб мекунед. Ман дар ҳамин ҷо ҳастам.»
+- «Оё вақт доред, ки дар чизи дигаре ба ман кумак кунед?»
+- «Биёед ба ҷои ин чой нӯшем?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Баъд машғулиятро бе калон кардани масъала тамом кунед. [Маслиҳатҳои муошират](/caregiving/communication-tips/)-и мо дар бораи он ки чӣ бояд гуфт, бештар маълумот доранд.
 
-## What should I avoid?
+## Аз чӣ бояд худдорӣ кард?
 
-Some natural reactions tend to make things worse.
+Баъзе вокунишҳои табиӣ вазъро бадтар мекунанд.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Баҳс ё исрор.** «Биёед, танҳо як бори дигар» ё «Шумо инро дӯст медоред» кам кумак мекунад.
+- **Имтиҳон ё ислоҳ.** «Шумо медонед, ин чист» ё «Не, ин нодуруст аст» фишорро зиёд мекунад.
+- **Ба дил гирифтан.** NIA ба парваришгарон ёдрас мекунад, ки ин тағйиротро беморӣ ба вуҷуд меорад, на шахс.
+- **Фишор ё шитоб.** Ассотсиатсияи Алтсгеймер тавсия медиҳад, ки овозро баланд накунед, ташвиш нишон надиҳед, шахсро ба кунҷ наронед, фишор наоред, маҳдуд накунед, танқид накунед, нодида нагиред ё бо ӯ баҳс накунед ва аз ҳаракатҳои ногаҳонӣ берун аз назари ӯ худдорӣ намоед.
+- **Истифодаи гуноҳкорӣ.** «Ман ҳамаи инро барои шумо омода кардам» ҳар дуи шуморо бадтар ҳис мекунонад.
+- **Барчаспгузорӣ.** «Якравӣ» ё «душвор» сабаби воқеиро пинҳон мекунад ва ҳалли онро душвортар месозад.
 
-## How can I find out what is behind repeated refusals?
+## Чӣ тавр бифаҳмам, ки паси даст кашидани такрорӣ чист?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Як-ду ҳафта ёддошти оддӣ нигоҳ доред. NIA мегӯяд, ки пайгирии тағйироти рафтор метавонад ба парваришгарон ва провайдерҳои тиббӣ барои шинохтани намуна ва ёфтани сабаб кумак кунад.
 
-Jot down:
+Қайд кунед:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- вақти рӯз;
+- он чи пешниҳод кардед ва чӣ тавр пурсидед;
+- он чи дар атрофи шумо рух медод (садо, меҳмонон, телевизор);
+- чӣ тавр хобид, хӯрд ва нӯшид ва кай бори охир ба хоҷатхона рафт;
+- ҳар гуна доруи нав ё бемории наздик.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Намунаҳо аксар вақт зуд пайдо мешаванд: даст кашидани танҳо пас аз соати 4-и баъд аз зӯҳр, танҳо бо бозии муайян ё танҳо вақте ки телевизор фурӯзон аст. [Роҳнамои Эътилофи парваришгарони оилавӣ оид ба рафтори деменсия](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) онро содда мегӯяд: мо наметавонем шахсро тағйир диҳем, аммо метавонем рафтори худ ва муҳитро тағйир диҳем.
 
-## When should I talk to a doctor about refusal or frustration?
+## Кай дар бораи даст кашидан ё ноумедӣ бо духтур сӯҳбат кунам?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Вақте ки рафтор ногаҳон, зуд ё бо нишонаҳои беморӣ тағйир меёбад, бо духтур сӯҳбат кунед. NIA мегӯяд, ки тағйироти ногаҳонӣ ё зуд-зуд тағйирёбандаи рафтор, хусусан агар шахс сироят дошта бошад ё доруҳояш ба наздикӣ тағйир ёфта бошанд, бояд фавран ба диққати духтур расонида шавад.
 
-Contact their doctor promptly if you notice:
+Агар инҳоро пайхас кунед, фавран ба духтури ӯ муроҷиат кунед:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- ошуфтагии ногаҳонӣ ё тағйири калон дар давоми соатҳо ё рӯзҳо;
+- нишонаҳои дард, ба монанди рӯйтуршӣ, муҳофизат кардани як қисми бадан ё душвории нави ҳаракат;
+- таб ё нишонаҳои дигари сироят;
+- доруҳои нав ё тағйирёфта, ки пас аз онҳо рафтор тағйир ёфтааст;
+- аз даст додани завқ ба қариб ҳама чиз, гиряву ғамгинӣ ё дур шудан аз одамон, ки аз чанд ҳафта зиёд давом мекунад;
+- рад кардани хӯрок ё нӯшокӣ.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Ассотсиатсияи Алтсгеймер санҷиши пурраи тиббиро барои ҳар касе, ки нишонаҳои рафторӣ дорад, хусусан вақте ки онҳо ногаҳон пайдо мешаванд, тавсия медиҳад. Эътилофи парваришгарони оилавӣ низ тавсия медиҳад, ки аввал бо духтур муроҷиат кунед, зеро мушкилоти рафтор метавонад сабаби тиббӣ дошта бошад. Бе сӯҳбат бо духтур ё доруфурӯш ягон доруро оғоз, қатъ ё тағйир надиҳед.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Агар касе дар хатар бошад ё нишонаҳои ҳолати фавқуллодаи тиббӣ бошанд, ба рақами ёрии таъҷилии маҳаллии худ занг занед. NIA пешниҳод мекунад, ки ба диспетчер бигӯед, ки шахс деменсия дорад. Барои қадамҳои бехатарии фаврӣ вақте ки хашм ҷисмонӣ мешавад, [роҳнамои мо оид ба хашм ва таҷовуз дар деменсия](/caregiving/when-anger-becomes-aggression-with-dementia/)-ро бинед.
 
-## Is it okay if we do nothing at all?
+## Оё хуб аст, агар мо умуман ҳеҷ коре накунем?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Бале. Баъзе рӯзҳо беҳтарин машғулият набудани машғулият аст: якҷоя нишастан, дасти якдигарро доштан, гӯш кардани сабти дӯстдошта ё тамошои паррандаҳо аз тиреза. Ин нокомӣ нест. [Роҳнамои мо оид ба якҷоя бозӣ кардан](/caregiving/how-to-play-together/) шарҳ медиҳад, ки чаро барвақт қатъ кардан ё ҳеҷ гоҳ оғоз накардан метавонад қарори дуруст бошад.

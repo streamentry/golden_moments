@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Dzīvnieki",
+      "description": "Mīlīgi un draudzīgi dzīvnieki no visas pasaules"
+    },
+    "nature": {
+      "name": "Daba",
+      "description": "Skaisti ainavu un dabas skati"
+    },
+    "food": {
+      "name": "Ēdieni",
+      "description": "Gardas maltītes un našķi"
+    },
+    "vintage": {
+      "name": "Automašīnas",
+      "description": "Automašīnas un kravas auto, ko kopā aplūkot un par ko parunāt"
+    },
+    "flowers": {
+      "name": "Ziedi",
+      "description": "Skaisti ziedi un dārza skati"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Lauku sētas dzīvnieki",
+      "description": "Draudzīgi lauku sētas dzīvnieki, itin kā apciemojot laukus.",
+      "theme": "Dzīve laukos",
+      "images": {
+        "cow_1": "Draudzīga govs",
+        "pig_1": "Priecīga cūka",
+        "chicken_1": "Gailis",
+        "buffalo_1": "Ūdens bifelis",
+        "horse_1": "Skaists zirgs",
+        "duck_1": "Pīļu ģimene",
+        "goat_1": "Ziņkārīga kaza",
+        "rabbit_1": "Mīlīgs trusis"
+      }
+    },
+    "nature_mountains": {
+      "title": "Kalnu skati",
+      "description": "Varenas kalnu ainavas un skaisti skatu punkti",
+      "theme": "Dabas skaistums",
+      "images": {
+        "mountain_1": "Sniegotas virsotnes",
+        "mountain_2": "Fudzi kalns",
+        "mountain_3": "Alpu ieleja",
+        "mountain_4": "Klinšaina virsotne",
+        "mountain_5": "Mežaini pakalni",
+        "mountain_6": "Miglaini kalni"
+      }
+    },
+    "vintage_cars": {
+      "title": "Automašīnas un kravas auto",
+      "description": "Spožas automašīnas un kravas auto, ko kopā aplūkot un par ko parunāt",
+      "theme": "Ceļā",
+      "images": {
+        "vintage_car_1": "Oranžs Audi saulrietā",
+        "vintage_car_2": "Zils sporta auto tuksnesī",
+        "vintage_car_3": "Sudrabains Bugatti",
+        "vintage_car_4": "Melns Porsche uz ceļa",
+        "vintage_car_5": "Oranžs BMW palmu rindu ielā",
+        "vintage_car_6": "Zils kupejas auto pie garāžas",
+        "vintage_car_7": "Zaļš pikaps",
+        "vintage_car_8": "Balts apvidus auto starp sarkanām klintīm",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Zils auto ar baltām svītrām"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari dzīvnieki",
+      "description": "Majestātiski dzīvnieki no Āfrikas safari",
+      "theme": "Savvaļas dzīvnieki",
+      "images": {
+        "lion_1": "Majestātisks lauva",
+        "elephant_2": "Āfrikas ziloņs",
+        "jaguar_3": "Jaguārs",
+        "zebra_4": "Svītrains zebrs",
+        "rhino_5": "Spēcīgs degunradzis",
+        "cheetah_6": "Ātrs gepards",
+        "fox_7": "Brūna lapsa",
+        "bear_8": "Polārlācis",
+        "turtle_9": "Brūns bruņurupucis",
+        "squirrel_10": "Brūna vāvere",
+        "macaw_11": "Dzeltens un zils ara papagailis",
+        "tiger_12": "Tīģeris",
+        "raccoon_13": "Jenots",
+        "wolf_14": "Pelēks vilks",
+        "crocodile_15": "Krokodils",
+        "peacock_16": "Skaists pāvs"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Gardi deserti",
+      "description": "Daži gardi deserti jūsu maltītēm.",
+      "theme": "Saldie deserti",
+      "images": {
+        "pastries_1": "Četras konditorejas kūciņas",
+        "oreo_cookie_sandwiches_2": "Oreo cepumu sendviči",
+        "crepe_3": "Plānā pankūka",
+        "pancake_4": "Pankūka",
+        "macarons_5": "Makarūni",
+        "caramel_cake_6": "Karameļu kūka"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropu ziedi",
+      "description": "Iepazīstiet tropu košumu ar šo eksotisku ziedu kopu.",
+      "theme": "Tropu ziedi",
+      "images": {
+        "hibiscus_1": "Sarkans hibisks",
+        "frangipani_2": "Sarkani balta frangipāni",
+        "sunflower_3": "Saulespuķe",
+        "hydrangea_4": "Balta hortenzija",
+        "rose_5": "Roze",
+        "chrysanthemum_6": "Krizantēma",
+        "anthurium_7": "Antūrijs",
+        "plumeria_8": "Plumērija",
+        "kodom_9": "Kodoms",
+        "delphinium_10": "Gaiļpiesis"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Ielu ēdiena svētki",
+      "description": "Iepazīstiet krāsaino ielu ēdienu pasauli ar šo gardo našķu kopu no visas pasaules.",
+      "theme": "Ielu ēdiens",
+      "images": {
+        "taco_1": "Meksikāņu tako",
+        "ramen_2": "Japāņu rāmens",
+        "dumplings_3": "Ķīniešu pelmeņi",
+        "samosa_4": "Indiešu samosa",
+        "pizza_5": "Itāļu picas šķēle",
+        "crepe_6": "Franču plānā pankūka",
+        "satay_7": "Taizemes satē iesmiņi",
+        "burger_8": "Amerikāņu burgers",
+        "bao_9": "Tvaicēta bao maizīte",
+        "takoyaki_10": "Japāņu takojaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Dabas ainava",
+      "description": "Mierīgi, skaisti dabas skati, ko kopā lēnām aplūkot un par ko parunāt.",
+      "theme": "Dabas ainavas",
+      "images": {
+        "mountain_1": "Kalnu grēda",
+        "forest_2": "Miglains mežs",
+        "lake_3": "Kalnu ezers",
+        "desert_4": "Tuksneša kāpas",
+        "waterfall_5": "Ūdenskritums",
+        "beach_6": "Smilšaina pludmale",
+        "river_7": "Plūstoša upe",
+        "canyon_8": "Lielais kanjons",
+        "sunset_9": "Saulrieta debesis",
+        "snow_mountain_10": "Sniegots kalns",
+        "flowers_11": "Pļavas ziedi",
+        "rainforest_12": "Lietus mežs",
+        "iceberg_13": "Aisbergs",
+        "volcano_14": "Vulkāns",
+        "cliff_15": "Jūras klints",
+        "aurora_16": "Ziemeļblāzma",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Koraļļu rifs"
+      }
+    }
+  }
+}

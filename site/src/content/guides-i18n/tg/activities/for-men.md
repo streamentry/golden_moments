@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Фаъолият барои мардони бо деменсия"
+seoTitle: "Фаъолият барои мардони бо деменсия: ғояҳои аз ҳаёти воқеӣ"
+description: "Ғояҳои фаъолият барои мардони бо деменсия, бар асоси кори гузашта, машғулиятҳо ва одатҳо на стереотипҳо, бо маслиҳат барои бехатар мутобиқ кардани ҳар кадом."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Беҳтарин фаъолият барои мардеро, ки бо деменсия зиндагӣ мекунад, аз ҳаёти худаш
+  меоранд: корҳое, ки мекард, машғулиятҳоеро, ки дӯст медошт ва одатҳои рӯзонаеро,
+  ки нигоҳ медошт. Касе, ки дар офис кор мекард, шояд аз ҷудо кардани коғазҳо
+  лаззат барад, устои мошинсоз шояд аз дастгирии абзори тоза, ва ҳаводори варзиш шояд
+  аз бозии кӯҳна. Майлҳо аз мард ба мард фарқ мекунанд, пас аз худи шахс оғоз кунед,
+  на аз ҷинсаш.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Аз таърихи худи ин мард сар кунед: кораш, машғулиятҳояш, одатҳояш ва он чизе ки ба он фахр мекард."
+  - "Вазифаҳое, ки мақсади воқеӣ доранд, масалан ҷудо кардани абзорҳо, шустани мошин ё сайқал додани чӯб, аксар вақт нисбат ба фаъолиятҳои ба дарс монанд бештар ҷолиб мешаванд."
+  - "На ҳар мард абзор ё варзишро дӯст медорад. Бисёриҳо пухтан, боғдорӣ, расмкашӣ, сурудхонӣ ё ғамхорӣ аз дигаронро дӯст медоранд. Пурсед, нигоҳ кунед ва аз ӯ пайравӣ кунед."
+  - "Вазифаҳои ба кор монанд бехатар кунед: абзори тезро бардоред ва назорат кунед, ва онҳоро бо тағйири қобилиятҳо содатар созед."
+  - "Рад кардан иҷозат аст. Нақш пешниҳод кунед, на супоришро, ва рӯзи дигар дубора кӯшед."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Мардони бо деменсия кадом фаъолиятро дӯст медоранд?"
+    a: "Рӯйхати ягона вуҷуд надорад, зеро майлҳои мардон мисли ҳар кас гуногунанд. Нуқтаҳои хуби оғоз вазифаҳое ҳастанд, ки ба кори гузаштаи ӯ вобастаанд, масалан тартиб додани коғазҳо ё ҷудо кардани болтҳо ва гайкаҳо, ва инчунин машғулиятҳое, ки дӯст медошт, масалан моҳигирӣ, мошинҳо, мусиқӣ, пухтупаз ё варзиш. Тамошо кунед, ки ӯ худаш чӣ мекунад ва ба он такя кунед."
+  - q: "Падарам гурӯҳи фаъолиятро рад мекунад. Ман чӣ кор кунам?"
+    a: "Бисёре аз одамон, мардон ва занон, фаъолиятҳои ба синф монанд ё кӯдаконаро рад мекунанд. Ба ҷои он кор пешниҳод кунед: «Оё ба ман кумак карда метавонед, ки инҳоро ҷудо кунед?» Вақти хурдтар ё якҷоя бо як нафар низ метавонад аз толори калон бароҳаттар бошад."
+  - q: "Оё барои ӯ абзор истифода бурдан бехатар аст?"
+    a: "Танҳо бо назорат ва абзори бехатар. Абзори барқӣ, теғҳо ва ҳар чизи тезро бардоред ва вазифаҳоеро пешниҳод кунед, масалан сайқал додани порчаи чӯб, ҷудо кардани абзори тоза ё сахт бастани болтҳои калон бо даст. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки ашёи хатарнокро аз корхона бардоред, то вазифаи монанди сайқалкорӣ бехатар лаззатбахш бошад."
+  - q: "Ӯ касбӣ буд. Оё вазифаҳои содда ба ӯ таҳқиромез мешаванд?"
+    a: "Онҳо метавонанд инро кунанд, агар ҳамчун кори бекор пешниҳод шаванд. Вазифаро ҳамчун кумаки воқеӣ муаррифӣ кунед, аз маводи калонсолона истифода баред ва чизеро интихоб кунед, ки ба нақши пешинаи ӯ наздик аст, масалан тафтиши рӯйхат, ҷойгир кардани парванда ё кумак дар бастани почта. Агар дар чизе хеле моҳир буд, фаъолияти вобаста, вале дигар, шояд ба муқоиса камтар монанд ба назар расад."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Мардум аксар вақт «фаъолият барои мардони бо деменсия»-ро меҷӯянд, зеро пешниҳодҳои маъмул ба мардони онҳо мувофиқ ба назар намерасанд. Ин нигаронии асос дорад. Аммо ҷавоб рӯйхати фаъолиятҳои «мардона» нест. Ҷавоб аз он оғоз мекунад, ки бо ин мушаххас мард оғоз кунед: чӣ кор мекард, рӯзҳои истироҳатро чӣ гуна мегузаронид ва чӣ ӯро судманд ҳис мекард. Майлҳо барои ҳама гуногунанд. Бисёре аз мардон пухтан, боғдорӣ, рангкашӣ ё сурудхонӣ дӯст медоранд ва бисёре аз занон мошинҳо ва бейсболро дӯст медоранд.
 
-## How do I find activities he will actually enjoy?
+## Чӣ тавр фаъолиятеро пайдо кунам, ки ӯ воқеан лаззат барад?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Аз таърихи зиндагиаш оғоз кунед. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки [нақшаи ҳаррӯза](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) бар асоси майлҳо, нафратҳо, қувватҳо ва манфиатҳои шахс ва бар асоси он, ки чӣ гуна рӯзашро ташкил мекард, сохта шавад. Аз худатон пурсед:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Кораш чӣ буд?** Офис, деҳқонӣ, корхона, ҳунар, артиш, фурӯш, омӯзгорӣ, ронандагӣ, хона?
+- **Дар вақти холиаш чӣ мекард?** Моҳигирӣ, корт, чӯбтарошӣ, варзиш, калисо, мусиқӣ, пухтупаз, мошин дар гараж?
+- **Одатҳояш чӣ буданд?** Қаҳва ва рӯзнома ҳар субҳ? Санҷидани обу ҳаво? Шустани мошин рӯзҳои шанбе?
+- **Ӯ чиро худаш оғоз мекунад?** Ассотсиатсия қайд мекунад, ки агар шахс бе дархост корҳоро оғоз кунад, масалан фаршро рӯфтан, ин корҳо метавонанд ба тартибот табдил ёбанд.
+- **Аз чӣ дурӣ мекунад?** Баъзеҳо тамошои варзишро дӯст медоранд; дигарон суръат ва садоро ногувор меёбанд. Пай баред, ки кай ӯ хушҳол, ташвишманд ё тундмизоҷ ба назар мерасад.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Бо оила ва дӯстони кӯҳна низ сӯҳбат кунед. Онҳо метавонанд майлҳоеро ба ёд оранд, ки дар зиндагии ҳаррӯза пажмурда шудаанд.
 
-## Activity ideas based on past work
+## Фаъолияти ғояҳо дар асоси кори гузашта
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Ассотсиатсияи Алсгеймер мисоли равшан медиҳад: кормандди собиқи офис шояд аз вазифаҳои ташкилӣ лаззат барад, масалан гузоштани тангаҳо дар ҷои махсус, кумак дар бастани почта ё тартиб додани рӯйхати корҳо, дар ҳоле ки деҳқони собиқ ё боғбон шояд аз кор дар ҳавлӣ лаззат барад. Ҳамин идея барои бисёр касбҳо татбиқ мешавад.
 
-| Past work | Activity ideas | Simpler version |
+| Кори гузашта | Ғояҳои фаъолият | Версияи содатар |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Офис ё тиҷорат | Ҷудо кардани коғазҳо ба ҷузвдон, часпонидани конвертҳо, баррасии рӯйхат, тартиб додани қуттии кашшои мизи корӣ | Гузоштани конвертҳо ба даста; ҷойгир кардани қалтакҳо дар қуттӣ |
+| Ҳунар ё мошинсозӣ | Ҷудо кардани гайкаҳо, болтҳо ва шайбаҳои тоза; сахт бастани болтҳои калон бо даст; нигоҳ кардани каталогҳои абзор | Ҷудо кардан аз рӯи андоза ба ду пиёла |
+| Деҳқонӣ ё боғсозӣ | Обдиҳӣ, гул дар гулдон, ҷамъ кардани барг, санҷидани боғ | Нишастан берун ҳангоми кори шумо; нигоҳ доштани бастаҳои тухм |
+| Ҳарбӣ | Сайқал додани пойафзол, мунтазам кардани қуттии кашшо, нигоҳ ба аксҳои хидмат, агар ӯ дӯст дорад | Гӯш кардани мусиқии ҳамон давра |
+| Фурӯш ё хидмат ба муштариён | Истиқбол кардани меҳмонон, паҳн кардани газакҳо, ҷудо кардани купонҳо | Нишастан назди дар барои салом гуфтан |
+| Омӯзгорӣ | Хондани овозӣ, тартиб додани китобҳо, ҷудо кардани аксҳо аз рӯи мавзӯъ | Варақ задани китоби аксҳо якҷоя |
+| Ронандагӣ ё нақлиёт | Нигоҳ ба харитаҳо ё маҷаллаҳои мошинҳои кӯҳна, шустани мошин | Тамошои мошинҳо аз айвон |
+| Хона ва оила | Бастани ҷома, гузоштани дастархон, кумак бо хӯроки шом | Ҳамвор кардани дастмолакҳо; ҳаракат додани хӯрок бо қошуқ |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Баъзе хотираҳо, масалан хидмати ҳарбӣ, эҳсосоти қавӣ ба вуҷуд меоранд. Аз ӯ пайравӣ кунед, сӯҳбат дар бораи гузаштаро мусбат нигоҳ доред ва агар ӯ норозӣ шавад, мавзӯъро мулоим иваз кунед.
 
-## Activity ideas based on hobbies
+## Фаъолияти ғояҳо дар асоси машғулиятҳо
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Чӯбтарошӣ.** Сайқал додани порчаи ҳамвори чӯб ё рангкории комплекти хонаи паррандагон. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки ашёи хатарнок ва абзорро аз корхона бардоред, то фаъолияти монанди сайқалкорӣ бехатар ва лаззатбахш бошад.
+2. **Моҳигирӣ.** Ҷудо кардани қуттии абзори моҳигирӣ бо кунҷакҳои бардошташуда, варақ задан дар маҷаллаҳои моҳигирӣ ё нишастан якҷоя назди ҳавз.
+3. **Мошинҳо.** Шустани мошин, сайқал додани хром, нигоҳ ба аксҳои мошинҳои кӯҳна ё сайр ҳамчун мусофир.
+4. **Варзиш.** Тамошои бозии кӯҳна ё ҳайлайтҳо, партофтани тӯби мулоим, ҷойгир кардани тӯбҳои голф дар қолин ё ҷудо кардани кортҳои бейсбол.
+5. **Корт ва бозиҳо.** Як дастаи содаи бозии шинос, домино ё гардондани корт барои ёфтани мувофиқ. Онро оромона нигоҳ доред ва ҳисоби холро партоед.
+6. **Мусиқӣ.** Суруд аз наврасӣ ва ҷавонӣ, гурӯҳи дӯстдошташ ё мадҳия. Роҳнамои [фаъолиятҳои мусиқии мо](/activities/music/)-ро бинед.
+7. **Пухтан ва кабоб.** Шустани сабзавот, ҳамзанӣ кардани соус, шакл додани бургер ё тавсифи он ки чӣ гуна чили машҳураш тайёр мекард, ҳангоми пухтан.
+8. **Рӯзнома.** Ассотсиатсияи Алсгеймер қайд мекунад, ки шахсе, ки ҳамеша рӯзнома мехонд, шояд ҳанӯз аз он лаззат барад, гарчанде ки метавонад мазмунро пурра пайгирӣ накунад. Қаҳва ва рӯзнома метавонанд қисми субҳ бошанд.
+9. **Сохтан.** Комплектҳои моделии калонқисм ё маҷмӯаҳои содаи сохтмонӣ барои калонсолон. Қисмҳоеро интихоб кунед, ки осон гирифта шаванд.
+10. **Ғамхорӣ аз чизе.** Ғизо додан ба ҳайвон, пур кардани хӯроки паррандагон ё обдиҳии растаниҳо. Институти миллии пиронсолӣ [ғизо додан, ороиш додан ё гардондани ҳайвонро](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) дар байни фаъолиятҳое номбар мекунад, ки одамон метавонанд дӯст доранд.
 
-## How do I offer an activity without it feeling like busywork?
+## Чӣ тавр фаъолиятро пешниҳод кунам, бе он ки ба кори бекор монанд шавад?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Онро ҳамчун кумаки воқеӣ пешниҳод кунед. Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки пурсед: «Лутфан ба ман кумак мекунед?» ва вазифаҳоро ба мақсад пайваст кунед. Муқоиса кунед:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Мехоҳед ин болтҳоро ҷудо кунед?» (ба имтиҳон монанд аст)
+- «Як халта абзори омехта харидам ва пеш аз таъмири раф онҳоро ҷудо кардан лозим аст. Ба ман кумак мекунед?» (ба кор монанд аст)
 
-Other tips:
+Тавсияҳои дигар:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Маводи калонсолона истифода баред.** Абзори ҳақиқӣ бо канорҳои тези бурро бардошташуда, каталогҳои воқеӣ, конвертҳои воқеӣ.
+- **Паҳлӯ ба паҳлӯ кор кунед.** Ду нафар дар як кор ҳамроҳанд. Як нафар, ки ба дигаре назар мекунад, назорат аст.
+- **Ислоҳ накунед.** Агар болтҳо дар қуттии нодуруст афтанд, бигзоред. Муҳим вақти якҷоя ва ҳиссиёти судманд будан аст.
+- **Ба оғоз кардан кумак кунед.** Ассотсиатсияи Алсгеймер қайд мекунад, ки бисёриҳо ҳанӯз майли иҷрои корҳоро доранд, аммо ташкил кардан ва оғоз кардан барояшон душвор аст. Аввалинро якҷоя иҷро кунед.
 
-## How do I adapt as things change?
+## Чӣ тавр мутобиқ кардан, вақте ки чизҳо тағйир меёбанд?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Ҳангоми пешрафти деменсия Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки вазифаҳои содатар ва такроршаванда ҷорӣ карда шаванд ва шахс ба нақши камфаъолтар омода бошад. Мардоне, ки як вақтҳо муҳаррикҳоро месохтанд, шояд ҳоло аз нигоҳ доштани калиди гайкаи тоза ва сӯҳбат дар бораи мошинҳо ё тамошои корӣ кардани шумо лаззат баранд. Тамошо кардан иштирок кардан аст.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Агар ӯ дар чизе хеле моҳир буд, фаъолияти вобаста шояд аз ҳунари кӯҳнаи ӯ беҳтар ҳис шавад. Ассотсиатсия қайд мекунад, ки рассоми касбӣ шояд аз тағйироти кораш ноумед шавад, дар ҳоле ки ҳаваскор шояд роҳи нави ифодаро дӯст дорад. Ҳамин тавр дурусти устои наҷҷор низ аст.
 
-## Safety with work-style tasks
+## Бехатарӣ бо вазифаҳои ба кор монанд
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Абзори барқӣ, теғҳо, мехҳо ва шуруптҳои нӯли тез бардоред.
+- Рангкунандаҳо, бензин ва химикатҳоро қулф кунед.
+- Калидҳои мошинро аз чашм дур нигоҳ доред, агар дигар ронанда набошад.
+- Ҳар вазифаи корхона ва ҳавлиро назорат кунед.
+- Қисмҳои калонеро интихоб кунед, ки фурӯ бурда нашаванд.
 
-## What if he says no?
+## Агар ӯ «не» гӯяд, чӣ?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Эҳтиром кунед. «Не» метавонад маънои онро дошта бошад, ки вазифа хеле душвор, хеле кӯдаконаи ба назар ё танҳо имрӯз дуруст нест. Ассотсиатсияи Алсгеймер огоҳ мекунад, ки онро маҷбур накунед. Вазифаи дигар, вақти дигар ё танҳо якҷоя нишастанро кӯшед. Ба [чӣ кор кардан, вақте ки шахси деменсия «не» мегӯяд](/caregiving/when-they-say-no/) нигаред.
 
-## Games and conversation that fit
+## Бозиҳо ва сӯҳбате, ки мувофиқанд
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Мақолро анҷом диҳед](/games/finish-the-saying/) мақолҳои шиноси амрикоиро истифода мебарад ва ба сӯҳбат мерасад. [Кортҳои суҳбат](/games/conversation-cards/) саволҳои кушоди бе имтиҳон бар асоси мавзӯъ доранд, ки метавонанд дар бораи кор ва машғулиятҳо нақлро боз кунанд. [Пазли тасвирӣ](/games/picture-puzzle/) тамоми расмро ҳангоми иваз кардани порчаҳо дар пеши назар нигоҳ медорад ва [Ҷадвали калимаҳо бо ҳарфҳои калон](/games/word-search/) метавонад чоп шуда, бо қалам дар мизи ошхона иҷро шавад. Барои роҳҳои сӯҳбат дар бораи гузаштаи ӯ бе санҷидани ӯ, [роҳнамои ёдоварии мо](/activities/reminiscence/)-ро бинед.

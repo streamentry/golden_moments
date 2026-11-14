@@ -1,34 +1,30 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "ඩිමෙන්ශියා ඇති අයට ක්‍රියාකාරකම්: සරල අදහස් 101"
+seoTitle: "ඩිමෙන්ශියා ක්‍රියාකාරකම් අදහස්: සරල ක්‍රියාකාරකම් 101"
+description: "ඩිමෙන්ශියාව ඇති අයට සරල, වැඩිහිටි ක්‍රියාකාරකම් 101: තුවා නැමීමේ සිට සංගීතය සහ ඡායාරූප දක්වා, ඒවා අභියෝගාත වන විට සකස් කරන ආකාරය."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  ඩිමෙන්ශියා ඇති අයට හොඳ ක්‍රියාකාරකම් හුරුපුරුදු, වැඩිහිටි සහ පහසුවෙන් බෙදා ගත හැකි ඒවා ය: රෙදි නැමීම, වර්ග කිරීම, ආහාර පිසීම, සංගීතය, ඡායාරූප බැලීම, ඇවිදීම, උද්‍යාන වැඩ, සුරතලුන් සමඟ කාලය සහ සරල ක්‍රීඩා. පුද්ගලයා සැමවිටම භුක්ති විඳි දේ තෝරා, දුෂ්කර කොටස් ඔබ භාර ගන්න, සහ ඔවුන් වෙහෙසට පත් වන විට නවත්වන්න. එකට ගත කරන සුහද කාලය, යමක් අවසන් කිරීමට වඩා වැදගත් ය.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "පුද්ගලයාගේම ජීවිතයෙන් ආරම්භ කරන්න: ඔවුන්ගේ රැකියාව, විනෝද, විශ්වාසය සහ ප්‍රිය සංගීතය හොඳම මාර්ගෝපදේශයයි."
+  - "අවශ්‍ය පරිදි ඕනෑම ක්‍රියාකාරකමක් කුඩා කරන්න: අඩු පියවර, අඩු තේරීම්, දුෂ්කර කොටස ඔබ කරන්න."
+  - "බැලීම, යමක් අතේ තබා ගැනීම, හෝ ළඟ සරලව වාඩි වීම, ඒවා සියල්ල සහභාගී වීම ලෙස ගණනය වේ."
+  - "වෙහෙස, කලකිරීම හෝ කම්මැලිකම දකින විට නවත්වන්න හෝ වෙනස් කරන්න. කලින් අවසන් කිරීම හොඳ ප්‍රතිඵලයකි."
+  - "එකට කිරීම, එය නිවැරදිව කිරීමට වඩා වැදගත් ය."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකුට හොඳ ක්‍රියාකාරකම් මොනවාද?"
+    a: "පුද්ගලයා වසර ගණනාවක් කළ හුරුපුරුදු ක්‍රියාකාරකම්, තරමක් සරල කළ: රෙදි නැමීම, මේසය සැකසීම, ආහාර පිසීම, සංගීතය, ඡායාරූප බැලීම, ඇවිදීම, උද්‍යාන වැඩ සහ සුරතලෙකු සමඟ කාලය. වැඩිහිටි සහ ප්‍රයෝජනවත් දැනෙන දේවල් තෝරා, ඒවා එකට කරන්න."
+  - q: "ක්‍රියාකාරකමක් කොපමණ කාලයක් පැවතිය යුතුද?"
+    a: "නිශ්චිත කාලයක් නොමැත. එක් දිනක රෙදි තුවා නැමීම මිනිත්තු කිහිපයක් ප්‍රමාණවත් විය හැක, තවත් දිනක උද්‍යානයේ පැය එකක් පහසු විය හැක. පුද්ගලයාට වේගය තීරණය කර, එය තවමත් සුඛදායක දැනෙන විට අවසන් කරන්න."
+  - q: "පුද්ගලයා ක්‍රියාකාරකමක් කිරීම ප්‍රතික්ෂේප කළොත් කුමක් කළ යුතුද?"
+    a: "බල කරන්න එපා. නැත යන්න අදහස් කළ හැක්කේ කාර්යය ඉතා අපහසු, වේලාව වැරදි, හෝ ඔවුන් වෙහෙසට පත්ව හෝ අපහසුව ඇති බවයි. පසුව උත්සාහ කරන්න, කුඩා අනුවාදයක් ඉදිරිපත් කරන්න, හෝ ළඟින් කාර්යය ඔබම ආරම්භ කර ඔවුන් උදව් කරන්නැයි ආරාධනා කරන්න."
+  - q: "මොළ ක්‍රීඩා ඩිමෙන්ශියා ඇති අයට හොඳද?"
+    a: "ක්‍රීඩා එකට කාලය ගත කිරීමට සුඛදායක ක්‍රමයක් විය හැක, නමුත් කිසිදු ක්‍රීඩාවක් ඩිමෙන්ශියාව ප්‍රතිකාර කිරීමට, මන්දගාමී කිරීමට හෝ නවත්වීමට පෙන්වා දී නැත. කාල ගණකයක්, ලකුණු හෝ වැරදි පිළිතුරු ශබ්දයක් නොමැති ක්‍රීඩා තෝරා, ඒවා පරීක්ෂණයක් නොව, හවුල් ක්‍රියාකාරකමක් ලෙස සලකන්න."
+  - q: "ක්‍රියාකාරකම් කුඩා දරුවන් වැනි හැඟීම වළක්වන්නේ කෙසේද?"
+    a: "සැබෑ, වැඩිහිටි ද්‍රව්‍ය භාවිතා කරන්න: සැබෑ තුවා, සැබෑ වට්ටෝරු, වැඩිහිටි සංගීතය සහ කලා ද්‍රව්‍ය, සහ වැඩිහිටි තේමා සහිත පින්තූර. කාර්ය සැබවින්ම ඔබට අවශ්‍ය උදවක් ලෙස රාමු කර, පුද්ගලයා සමඟ ඔවුන් වන වැඩිහිටියෙකු ලෙස කතා කරන්න."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +46,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+ඩිමෙන්ශියාව ඇති පුද්ගලයෙකු සඳහා හොඳම ක්‍රියාකාරකම සාමාන්‍යයෙන් ඔවුන් දැනටමත් කළ හැකි, තරමක් සරල කළ, සහ ඔවුන් විශ්වාස කරන අයෙකු සමඟ එකට කරන දෙයකි. පහතින් ක්‍රියාකාරකම් 101ක් ඒවායේ වර්ගය අනුව කාණ්ඩගත කර, එක් එක් ක්‍රියාකාරකම සකස් කරන ආකාරය සහ එය අභියෝගාත වන විට පහසු කරන ආකාරය සමඟ ඇත. විශේෂ උපකරණ අවශ්‍ය නැත, සහ කිසිවක් අවසන් කිරීමට අවශ්‍ය නැත. හොඳ දහවලක් වියළි තුවා එක් බඳුනක් සහ එකට කෝපි කෝප්පයක් විය හැක.
 
-## How do you choose the right activity?
+## ක්‍රියාකාරකම නිවැරදිව තෝරා ගන්නේ කෙසේද?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+ලැයිස්තුව අනුව නොව, පුද්ගලයා අනුව තෝරන්න: ඔවුන් සැමවිටම භුක්ති විඳි දේ සහ අද ඔවුන්ට සුවපහසුව කළ හැකි දේ වලින් ආරම්භ කරන්න.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **ඔවුන්ගේ රැකියාව සහ විනෝද ගැන සිතන්න.** [ඇල්සයිමර් සංගමය](https://www.alz.org/help-support/caregiving/daily-care/activities) යෝජනා කරන්නේ පෙර කාර්යාල සේවකයෙකුට මුදල් වර්ග කිරීමට හෝ තැපැල් එකලස් කිරීමට භුක්තිය ලැබිය හැකි අතර, උද්‍යානවේදියෙකුට ගෙවත්තේ වැඩ භුක්ති විඳිය හැකි බවයි.
+- **ඔවුන් දැනටමත් කරන දේ සලකන්න.** ඔබේ තාත්තා සෑම උදෑසනකම ඉල්ලීමකින් තොරව බාල්කනිය අතුගාන්නේ නම්, එය දිනයට ගොඩනඟන්න.
+- **සීමාවන් වටා සැලසුම් කරන්න.** වෙහෙස, දෘෂ්ටිය, ශ්‍රවණය, රිදුණු අත් සහ සමතුලිතතාවය සියල්ල වැදගත් ය.
+- **ඔවුන්ගේ මනෝභාවය බලන්න.** කාර්යබහුල, ශබ්දකාරී ක්‍රියාකාරකම් සමහර අයට ගැලපෙන අතර අනුන්ට බියක් ඇති කරයි.
+- **එයට අරමුණක් දෙන්න.** පල්ලියේ භෝජනයක් සඳහා නැප්කින් නැමීම, ශාරීරික ව්‍යායාමයක් එහි තමන්ගෙන්ම වෙනුවෙන් කරනවාට වඩා වටින දෙයක් ලෙස දැනේ.
 
-### A rough guide by stage
+### අවධිය අනුව රළු මාර්ගෝපදේශයක්
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+ඩිමෙන්ශියාව බොහෝ විට ආරම්භක, මධ්‍ය සහ අවසාන අවධි ලෙස විස්තර කරයි. මේවා ලිහිල් නම් ය, කොටු නොව, බොහෝ අයට හොඳ සහ දුෂ්කර දින ඇති බැවින්, අද ඔබ දකින දේ අනුව යන්න. [ඇමරිකානු ඇල්සයිමර් පදනමේ අවධි අනුව ලැයිස්තුව](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) සමාන රටාවක් අනුගමනය කරයි.
 
-| Topic | Early stage | Middle stage | Late stage |
+| මාතෘකාව | ආරම්භක අවධිය | මධ්‍ය අවධිය | අවසාන අවධිය |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| ඔබට දැකිය හැකි දේ | බොහෝ දුරට ස්වාධීනයි; සැලසුම් කිරීම, නව නම් සහ කාර්යබහුල ස්ථාන දුෂ්කර වේ | ආරම්භ කිරීමට සහ පියවරවලට උදව් අවශ්‍යයි; වචන අඩුවෙන් පැමිණේ | බොහෝ දෛනික සත්කාරයට උදව් අවශ්‍යයි; ඉන්ද්‍රියයන් වඩාත් වැදගත් වේ |
+| බොහෝ විට ගැලපෙන ක්‍රියාකාරකම් | ක්‍රීඩා පත්, පුවරු ක්‍රීඩා, ආහාර පිසීම, උද්‍යාන වැඩ, දින පොත් ලිවීම, පිටතට යාම්, සමාජ කණ්ඩායම් | රෙදි නැමීම, වර්ග කිරීම, සරල ආහාර පිසීමේ පියවර, ගායනා, ඡායාරූප ඇල්බම, මඟ පෙන්වන ඇවිදීම් | ප්‍රිය සංගීතය, අත් මර්දනය, අතේ තබා ගැනීමට මෘදු දේවල්, කියවා දීම, පිටත වාඩි වීම |
+| ඔබේ කාර්යභාරය | හවුල්කරුවා: ඔවුන් කැමති උදව් ප්‍රමාණය විමසන්න | සකස් කරන්න, පෙන්වන්න, දුෂ්කර කොටස් භාර ගන්න | ක්‍රියාකාරකම ඔවුන් වෙත ගෙන යන්න; ඔබේ සහකාරිත්වයම ක්‍රියාකාරකමයි |
+| තව අදහස් | [ආරම්භක අවධිය](/activities/early-stage/) | [මධ්‍ය අවධිය](/activities/middle-stage/) | [අවසාන අවධිය](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## ඩිමෙන්ශියා ඇති කෙනෙකු සමඟ ක්‍රියාකාරකමක් ආරම්භ කරන්නේ කෙසේද?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+කුඩාව ආරම්භ කරන්න, ඔවුන් සමඟ එකට ආරම්භ කරන්න, සහ “ඔව්” කීම පහසු කරන්න. බොහෝ අයට තවමත් සහභාගී වීමට ආශාව ඇත, නමුත් සැලසුම් කිරීමට හෝ ආරම්භ කිරීමට අපහසු වේ.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **ඔවුන්ගේ හොඳම වේලාව තෝරන්න,** බොහෝ විට උදෑසන.
+2. **පළමුව සියල්ල පිටතට ගන්න,** එවිට ඔබට එම මොහොතේම ආරම්භ කළ හැක.
+3. **උදව් ඉල්ලන්න, ප්‍රසංගයක් නොව:** “මට මේවා සමඟ අතක් දිය හැකිද?”
+4. **ඔබම එය ආරම්භ කරන්න.** පළමු තුවාව නමා, ඔවුන්ට එකතු වීමට ඉඩ දෙන්න. පැහැදිලි කිරීමට වඩා පෙන්වීම ඉදිරියෙන් ය.
+5. **එක් වරකට එක් පියවරක් දෙන්න.**
+6. **දුෂ්කරම කොටස භාර ගන්න.** ඇල්සයිමර් සංගමය යෝජනා කරන්නේ අමුද්‍රව්‍ය ඔබම මැනීමට, පසුව කලවම් කිරීමට හැන්ද ඔවුන්ට දීමටයි.
+7. **ඔවුන්ගේ ක්‍රමයට එය කර ගන්න ඉඩ දෙන්න.** වෙනස් ලෙස නමන ලද තුවා හරි ය.
+8. **සුඛදායක නොවන විට නවත්වන්න.** නොසන්සුන් වීම, මුහුණ රැළි කිරීම හෝ “මට බැහැ” යනු වෙනස් කිරීමට හෝ විවේක ගැනීමට සංඥා ය.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+[එකට ක්‍රීඩා කරන ආකාරය](/caregiving/how-to-play-together/) සහ [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) ද බලන්න.
 
-## Everyday tasks at home
+## ගෘහ දෛනික කාර්ය
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+ගෘහ කාර්ය හුරුපුරුදු සහ ප්‍රයෝජනවත් වන බැවින්, ඒවා ආරම්භ කිරීමට ස්වාභාවික ස්ථානයකි. [ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ලැයිස්තුගත කරන්නේ භාජන, මේසය සැකසීම, අතුගෑම, තැපැල් වර්ග කිරීම සහ රෙදි නැමීම, ජනතාව භුක්ති විඳිය හැකි ක්‍රියාකාරකම් අතරට. වැඩි විස්තර [ගෘහ කාර්ය](/activities/household-tasks/) හි ඇත.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **උණුසුම් තුවා නමන්න.** ඩ්‍රයර් එකෙන් බඳුනක් මේසය මත හෙළා, අතගාට අත පසෙකින් නමන්න. පසුව, සමතලා කර ගොඩගැසීම එපමණටම උපකාරී වේ.
+2. **සොක්ස් යුගල කරන්න.** ඉතා වෙනස් වර්ණවලින් ආරම්භ කරන්න. පසුව, ආලෝක සහ අඳුරු වර්ග කිරීම ප්‍රමාණවත් ය.
+3. **මේසය සකසන්න.** එක් වරකට එක් වර්ගයේ භාණ්ඩයක් ලබා දෙන්න. ආදර්ශයක් ලෙස එක් ස්ථානයක් ඔබම සකසන්න.
+4. **භාජන සෝදන්න හෝ වියළන්න.** උණුසුම්, සබන් වතුර සහ නොබිඳෙන භාජන. වාඩි වී වියළීම කකුල් වලට පහසුය.
+5. **මේසය පිසින්න.** ආහාරයෙන් පසු තෙත් රෙදි කඩදාසියක් ලබා දෙන්න. එය නොසන්සුන් අත් සඳහා සැබෑ කාර්යයකි.
+6. **තැපැල් වර්ග කරන්න.** නාමාවලි සහ අනවශ්‍ය තැපැල් “තබා ගන්න” සහ “ප්‍රතිචක්‍රීකරණය” ලෙස. සැබෑ බිල්පත් ඉවතට තබන්න.
+7. **කූපන් කපන්න.** වටකුරු කොන සහිත කතුර සහ සාප්පු සවාරි පත්‍රිකා. පසුව, ප්‍රිය ආහාර වට කර ගැනීමද හොඳ ය.
+8. **මුදල් වර්ග කරන්න.** සල්ලි කෝප්පවලට වර්ග කරන්න හෝ ඔතන ලද කඩදාසි වලට දමන්න. පුද්ගලයා දේවල් මුඛයේ දමන්නේ නම් කුඩා අයිතම මඟ හරින්න.
+9. **අතුගාන්න හෝ දූවිලි පිසින්න.** බාල්කනියේ සැහැල්ලු බ්‍රූමයක්, හෝ පුටුවේ සිට භාවිතා කරන දිගු හැඬලයක් සහිත දූවිලි පිහිය.
+10. **ආහාරයක් සාදන්න.** එළවළු සේදීම, කොස්ලෙට්ටු ඉරා දැමීම, කලවම් කිරීම. ඔබ පිහි සහ තාපය හසුරුවන්න.
+11. **පවුලේ වට්ටෝරුවක් පිසින්න.** ඔවුන්ගේ අතින් ලියන ලද කාඩ්පත ඔබට තිබේ නම් එය භාවිතා කරන්න. පසුව, ඔවුන්ට රස බලන්නා විය හැක.
+12. **කාර්යාල වැඩ කරන්න.** ලිපි නැමීම, කවර පුරවා මුද්දර ගැසීම, හෝ එකට සාප්පු ලැයිස්තුව ලිවීම.
 
-## Music
+## සංගීතය
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+හුරුපුරුදු සංගීතය වචන දුෂ්කර වන විටද අයට ළඟා විය හැක. [ඇල්සයිමර් සංගමයේ සංගීත ඉඟි](https://www.alz.org/help-support/caregiving/daily-care/art-music) හුරුපුරුදු ගීත, වාණිජ නොවන සහ රූපවාහිනිය නිවා දැමීම යෝජනා කරයි. [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **පුද්ගලික ධාවන ලැයිස්තුවක් සාදන්න.** ඔවුන්ගේ නව යොවුන් හා විසිහැවිරිදි කාලයේ, ඔවුන්ගේ විවාහය, ඔවුන්ගේ පල්ලිය සහ ඔවුන්ගේ සංස්කෘතියේ සංගීතය.
+14. **එක්ව ගායනා කරන්න.** ඔබම ගායනා කිරීම ආරම්භ කරන්න. ගීතයක් හඬනඟා ගායනා කිරීම හෝ ඇසීම ගණනය වේ.
+15. **රිද්මය රඳවා ගන්න.** අත් මුට්ටි ගැසීම, දණ්ඩෙන් තට්ටු කිරීම, හෝ අත් බෙරයක් තට්ටු කිරීම. වාඩි වී සහ අවසාන අවධියේදීද ක්‍රියා කරයි.
+16. **නැටුම.** මුළුතැන්ගෙයේ මන්දගාමී නැටුම්, හෝ අත් අල්ලා ගෙන පුටුවේ වාඩි වී ඉදිරියට පසට සැලීම.
+17. **මුළු ඇල්බමයක්ම වාදනය කරන්න.** ආරම්භයේ සිට අවසානය දක්වා ප්‍රිය තැටියක්, කෝපි සහ වෙන කිසිවක් නැත.
+18. **සංගීතය ගැන කතා කරන්න.** කරුණු නොව, කතා ආරාධනා කරන්න: “ඔබ ගිය නැටුම් ගැන මට කියන්න.”
+19. **පටිගත කළ මියුසිකල් හෝ ප්‍රසංගයක් නරඹන්න.** ඔවුන් ආදරය කළ සංදර්ශනයක් හොඳ සන්ධ්‍යාවක් කරයි. ඕනෑම වේලාවක නවත්වන්න.
+20. **හුරුපුරුදු උපකරණයක් වාදනය කරන්න.** පෙර පියානෝ වාදකයෙකුට සරල කෑලි භුක්ති විඳිය හැක; පසුව, එකට කිහිපයක් ස්වර.
+21. **සජීවී සංගීතය අසන්න.** කෙටි ප්‍රජා ප්‍රසංගයක් හෝ ගායන කණ්ඩායමේ පුහුණුවක්. පිටවීමට ආසන්නව වාඩි වන්න.
 
-## Reminiscence: photos, objects and stories
+## මතක් කිරීම: ඡායාරූප, වස්තු සහ කතා
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+කිසිවක් පරීක්ෂා නොකර අතීතය එකට භුක්ති විඳින්න. “මතකද...?” සහ “මේ කවුද?” මඟ හරින්න, ඒ වෙනුවට විවෘත ආරාධනා භාවිතා කරන්න. [මතක් කිරීමේ ක්‍රියාකාරකම්](/activities/reminiscence/) බලන්න.
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **ඡායාරූප ඇල්බමයක් බලන්න.** ඔබ දකින දේ කියන්න: “මොන ගවුමක්ද. මේ දවස ගැන මට කියන්න.” ඔවුන් භාවිතා කරන ඕනෑම නමක් සමඟ එකඟ වන්න.
+23. **මතක පෙට්ටියක් සාදන්න.** ඔවුන්ගේ ජීවිතයෙන් ගත් දේවල් වන බූට් පෙට්ටියක්, උදාහරණයක් ලෙස වැඩ හැඳුනුම්පතක් හෝ වට්ටෝරු කාඩ්පතක්. දේවල් එක වරකට එක බැගින් ඉවත් කරන්න.
+24. **ජීවිත කතා පොතක් ආරම්භ කරන්න.** එක් පිටුවකට ඡායාරූප කිහිපයක්, විශාල අකුරු සිරස්තල සමඟ. එය නව උදවු කරුවන්ට පුද්ගලයා දැන ගැනීමට උපකාරී වේ.
+25. **සංවාද පත් භාවිතා කරන්න.** [සංවාද පත්](/games/conversation-cards/) පින්තූරයක් විවෘත ප්‍රශ්නයක් සමඟ යුගල කරයි.
+26. **පවුලේ ඡායාරූප ක්‍රීඩාවක් සාදන්න.** [ඡායාරූප යුගල](/games/photo-pairs/) ඔබේම ඡායාරූප ගැලපීමේ ක්‍රීඩාවක් බවට පත් කරයි.
+27. **නිවසේ වීඩියෝ හෝ පැරණි රූපවාහිනිය බලන්න.** ප්‍රශ්න අසනවාට වඩා එකට අදහස් දක්වන්න.
+28. **ඔවුන්ගේ වැඩ ජීවිතයේ වස්තු හසුරුවන්න.** ස්පැනරයක්, ස්ටෙතස්කෝපයක්, ලෙජරයක්. අත් බොහෝ විට කතාව මෙහෙයවයි.
+29. **ළමා කාලයේ ආහාරයක් පිසින්න.** ඔවුන්ට කලවම් කළ හැක, රස බැලිය හැක, හෝ ඔබ සමඟ කුස්සියේ සරලව වාඩි විය හැක.
+30. **ඔවුන් ජීවත් වූ ස්ථානවල සිතියමක් බලන්න.** ඔබ කතා කරන අතරතුර විශාල සිතියම් පොතේ හුරුපුරුදු මාර්ග ලුහුබඳින්න.
 
-## Creative activities
+## නිර්මාණාත්මක ක්‍රියාකාරකම්
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+කලාව කිරීම ගැන වන අතර, අවසාන කෘතිය ගැන නොවේ. ද්‍රව්‍ය වැඩිහිටි සහ ආරක්ෂිතව තබා ගන්න. [කලා සහ අත් වැඩ](/activities/arts-and-crafts/) බලන්න.
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **ජල වර්ණවලින් පින්තාරු කරන්න.** ඝන කඩදාසි, වර්ණ කිහිපයක්. ආරම්භ කිරීම දුෂ්කර නම්, මුල් පහර එකට මඟ පෙන්වන්න.
+32. **වැඩිහිටි සැලසුම් වර්ණ දෙන්න.** මල් හෝ ඔතන ලද ඇඳ ඇතිරිලි, කාටූන් නොවේ. අපගේ [වර්ණ දීමේ පිටු](/games/coloring/) තිරය මත හෝ මුද්‍රණය කළ විට ක්‍රියා කරයි.
+33. **කොලාජ් එකක් සාදන්න.** උද්‍යාන, මෝටර් රථ හෝ ආහාර ගැන සඟරා පින්තූර ඉරා ගෙන ඇලවන්න. පසුව, පින්තූර තේරීම පමණක් ප්‍රමාණවත් ය.
+34. **මල් සැකසන්න.** සාප්පු සවාරි මල් රොටුවක් සහ බඳුනක්. පසුව, බඳුනක කිහිප කඳක්.
+35. **එකට නිට් හෝ ක්‍රෝචෙට් කරන්න.** විශාල සූදාන් මත සරල පේළි. පසුව, නූල් බෝලවලට ඔතන්න.
+36. **පවුලට කාඩ්පත් සාදන්න.** උපන්දින සහ සුවය පතන කාඩ්පත් සැබෑ පුද්ගලයන්ට මුද්දර ගසන්න, අත්සන් කරන්න හෝ සරසන්න.
+37. **වාතයෙන් වියළෙන මැටි හඩවන්න.** කුඩා තහඩුවක් තල්ලු කර ඇතුළු කරන්න. විෂ නොවන ද්‍රව්‍ය භාවිතා කර ළඟින් සිටින්න.
+38. **දැව මට්ටම් කර ඔප දමන්න.** පෙර කපන ලද කුරුල්ලන් නිවස කට්ටලයක් සහ වැලි කඩදාසි, බල මෙවලම් නැත. [පිරිමින් සඳහා ක්‍රියාකාරකම්](/activities/for-men/) බලන්න.
+39. **ලිපියක් ලියන්න හෝ කියවන්න.** මුනුපුරෙකුට හෝ පැරණි මිතුරෙකුට. ලිවීම දුෂ්කර නම්, ඔවුන් කතා කරන අතර ඔබ ලියන්න.
 
-## Outdoors and gardening
+## පිටත සහ උද්‍යාන වැඩ
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+නැවුම් වාතය සහ හිරු එළිය හොඳ සහකරුවන් ය. [පිටත සහ උද්‍යාන ක්‍රියාකාරකම්](/activities/outdoor-and-gardening/) බලන්න.
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **පැලෑටිවලට වතුර දමන්න.** කුඩා කෝප්පයක් සහ කිහිපයක් බඳුන්. දෛනික වතුර දැමීම දිනට තාලයක් ලබා දෙයි.
+41. **බඳුනක් සිටුවන්න.** කාගේවත් දණ නොගසා සිටීමට මේසයක තබන්න. බීජවලට වඩා පැළ පහසු ය.
+42. **වල් මකන්න හෝ මල් කපන්න.** අත්වැස්ම දමා, එක් වරකට එක් කුඩා වත්තක්.
+43. **කොළ අතුගාන්න.** එක් කුඩා කොටසක්. පසුව, බෑගය විවෘතව තබා ගැනීම සැබෑ කාර්යයකි.
+44. **හුරුපුරුදු මාර්ගයක් ඇවිදින්න.** කොටුව වටේ හෝ තැපැල් පෙට්ටිය දක්වා. කෙටි වීම ප්‍රමාණවත් ය.
+45. **එකට පිටත වාඩි වන්න.** මෘදු දිනක බාල්කනියේ පුටුවක්. වලාකුළු හෝ ගමන් කරන අය බලන්න.
+46. **කුරුල්ලන්ට ආහාර දෙන්න.** එකට ආහාර බඳුනක් පුරවා ජනේලය අසල ආසනයෙන් බලන්න.
+47. **මෝටර් රථය සෝදන්න.** බාල්දිය, ස්පොන්ජය, උණුසුම් දහවල. රෝද කවර සෝදීම එක් පියවරක හොඳ කාර්යයකි.
 
-## Sensory activities
+## ඉන්ද්‍රිය ක්‍රියාකාරකම්
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+ස්පර්ශය, සුවඳ, රසය, ශබ්දය සහ දෘෂ්ටිය ඩිමෙන්ශියාව ප්‍රගතියත් සමඟ වඩාත් වැදගත් වේ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) පසු අවධීන් සඳහා සංගීතය, අතින් හැසිරවීමට වස්තු සහ අත් මර්දනය සඳහන් කරයි. පළමුව අසාත්මිකතා සහ හුස්ම හිරවීමේ අවදානම් පරීක්ෂා කරන්න; [ඉන්ද්‍රිය ක්‍රියාකාරකම්](/activities/sensory/) බලන්න.
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **අත් මර්දනයක් දෙන්න.** පළමුව ඉල්ලන්න සහ තරමක් ලෝෂන් භාවිතා කරන්න. සමට හෝ අසාත්මිකතාවට සැකයක් නම්, සුවඳ නැති එකක් තෝරන්න.
+49. **රෙදි ස්පර්ශ කරන්න.** වෙල්වට්, කෝඩරෝයි, ලොම් සහ සැටින් පිරි බඳුනක්, අතගාන සහ නමන්න.
+50. **ඖෂධ පැලෑටි සහ කෝපි සුවඳ බලන්න.** නැවුම් මින්ට් හෝ රොසමරි ඔබේ ඇඟිලි අතර ඇඹරන්න. හුස්ම ගැනීමේ ගැටලු ඇති විට ශක්තිමත් සුවඳ මඟ හරින්න.
+51. **ඔවුන්ගේ හිස කෙස් අතුල්ලන්න.** ඔවුන් එය භුක්ති විඳින්නේ නම්, මන්දගාමීව සහ මෘදුව.
+52. **උණුසුම් රෙදි කඩදාසියක් බෙදා ගන්න.** සීතල දිනක අත් සහ මුහුණ සඳහා. පළමුව උෂ්ණත්වය පරීක්ෂා කරන්න.
+53. **ක්‍රියාකාරකම් ඇප්‍රනයක් ගවේෂණය කරන්න.** විශාල බොත්තම් සහ සිපර් ශක්තිමත්ව මැදි කර ඇත. කිසිවක් ගැලවිය නොහැකි ලෙස පරීක්ෂා කරන්න.
+54. **ප්‍රිය රසවත් දෙයක් රස බලන්න.** කුඩා හැන්දක්, ඔවුන්ට ආරක්ෂිතව හැසිරවිය හැකි ටෙක්ස්චරයෙන්.
+55. **ස්වභාවික ශබ්ද වාදනය කරන්න.** වැසි, රළ හෝ කුරුල්ලන්ගේ ගායනය අඩු හඬින්.
+56. **මන්දගාමී දෙයක් බලන්න.** මත්ස්‍ය ටැංකියක්, ස්වභාවික වීඩියෝවක් හෝ වැටෙන හිම.
 
-## Games and puzzles
+## ක්‍රීඩා සහ ප්‍රහේලිකා
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+කාල ගණකයක්, ලකුණු හෝ පීඩනයක් නොමැති විට ක්‍රීඩා ක්‍රියා කරයි. එකක් පරීක්ෂණයක් වැනි දැනීමට පටන් ගත්තොත්, එය ඉවත් කරන්න. [ක්‍රීඩා ලෙස යෙදුම් සහ ක්‍රීඩා තෝරා ගැනීම](/caregiving/choosing-apps-and-games/) සහ [මොළ ක්‍රීඩා](/brain-health/brain-games/) බලන්න.
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **පින්තූර ගලපන්න.** [ඡායාරූප යුගල](/games/picture-pairs/) පින්තූර මුහුණ උඩට තබා ගන්නා බැවින්, එය මතක තබා ගැනීමට නොව, දැකීම ගැන වේ.
+58. **එම පින්තූරය සොයන්න.** [එම එක සොයන්න](/games/find-the-same/) දෙකක් සිට හතරක් දක්වා තේරීම් ඉදිරිපත් කරයි. එක් එක් පින්තූරය ගැන කතා කරන්න.
+59. **කූඩයන්ට වර්ග කරන්න.** [එකට වර්ග කරන්න](/games/sort-together/) තිරය මත සොක්ස් වර්ග කිරීම වැනි ය.
+60. **විශාල කොටස් ප්‍රහේලිකාවක් කරන්න.** වැඩිහිටි රූප, පහසු කොටස් ගණනක්. [පින්තූර ප්‍රහේලිකාව](/games/picture-puzzle/) සම්පූර්ණ පින්තූරය දෘශ්‍යමාන තබයි. [ඩිමෙන්ශියාව සඳහා ප්‍රහේලිකා](/activities/puzzles/) හි වැඩි විස්තර.
+61. **පැරණි කාඩ් ක්‍රීඩාවක් කරන්න.** ඔවුන් වසර ගණනාවක් ක්‍රීඩා කළ ඕනෑම දෙයක්. පසුව, ඩෙක් එක වර්ණයට අනුව වර්ග කිරීමම ක්‍රීඩාවකි.
+62. **ඩොමිනෝ ක්‍රීඩා කරන්න.** කෙළවර ගලපන්න. පසුව, ටයිල් පේළි කිරීම පමණක් ප්‍රමාණවත් ය.
+63. **විශාල අකුරු වචන සෙවීමක් උත්සාහ කරන්න.** අපගේ [වචන සෙවීම](/games/word-search/) හරස් සහ සිරස් වචන පමණක් ඇති අතර මුද්‍රණය කළ හැක.
+64. **හුරුපුරුදු කියමන් සම්පූර්ණ කරන්න.** [කියමන සම්පූර්ණ කරන්න](/games/finish-the-saying/) ඕනෑම වේලාවක අවසානය පෙන්වීමට ඔබට ඉඩ දෙයි.
+65. **පින්තූර බින්ගෝ ක්‍රීඩා කරන්න.** [පින්තූර බින්ගෝ](/games/picture-bingo/) පවුල් සහ කණ්ඩායම් සඳහා ගැලපේ. කාඩ්පත් නිදහසේ සලකුණු කිරීමට උදව් කරන්න.
+66. **චෙක්ස් ක්‍රීඩා කරන්න.** නීති ලිහිල්ව තබන්න. ඔබ කතා කරන අතරතුර කුට්ටි චලනය කිරීම ගණනය වේ.
 
-## Movement
+## චලනය
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+ජාතික වයෝවෘද්ධ ආයතනය වැඩිහිටියන් සඳහා ඇවිදීම්, ස්ථාවර බයිසිකලය, දිගු කරන පටි, මෘදු බෝලයක් හෝ බැලූනයක් විසි කිරීම, සූප් ටින් ඔසවා තැබීම සහ ව්‍යායාම වීඩියෝ යෝජනා කරයි. නව දෙයක් ආරම්භ කිරීමට පෙර, විශේෂයෙන් සමතුලිතතා ගැටලු ඇති විට, වෛද්‍යවරයෙකු සමඟ පරීක්ෂා කරන්න.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **බැලූනයක් විසි කරන්න.** එකිනෙකාට මුහුණලා වාඩි වන්න. එය මන්දගාමීව චලනය වන නිසා අල්ලා ගැනීමට පහසුය.
+68. **වාඩි වී කරන ව්‍යායාම වීඩියෝවක් අනුගමනය කරන්න**, වැඩිහිටියන් සඳහා සාදන ලද, ඔබ දෙදෙනා එක පැත්තේ.
+69. **පටියක් සමඟ දිගු කරන්න.** සැහැල්ලු පටියක් සමඟ වාඩි වී සිටින අතරතුර මෘදු අත් ඇදීම්.
+70. **සූප් ටින් ඔසවන්න.** මන්දගාමී අත් ඔසවීම්, සමහර විට සංගීතයට.
+71. **ස්ථාවර බයිසිකලයක පදින්න.** සරල මිනිත්තු කිහිපයක්, ඔබ ළඟින් සිටිමින්.
+72. **ස්කාෆ් සමඟ නටන්න.** සැහැල්ලු ස්කාෆ් සංගීතයට සලන්න, වාඩි වී හෝ සිට.
+73. **අරමුණක් සහිතව ඇවිදින්න.** ලිපියක් තැපැල් කිරීමට හෝ කෝපි මිලදී ගැනීමට. යාමට හේතුවක් ස්වාභාවික ලෙස දැනේ.
+74. **හුස්ම ගැනීමේ විරාමයක් බෙදා ගන්න.** [සන්සුන් හුස්ම ගැනීම](/games/calm-breathing/) සමඟ එකට මන්දගාමී වන්න.
 
-## Social activities
+## සමාජ ක්‍රියාකාරකම්
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+නම් දුෂ්කර වුවද සහකාරිත්වය වැදගත් ය, සහ කුඩා කණ්ඩායම් විශාල ඒවාට වඩා පහසු ය. ජාතික වයෝවෘද්ධ ආයතනය සටහන් කරන්නේ පුද්ගලයෙකුට අමුත්තා කවුද යන්න මතක නැති වුවද, බොහෝ විට සහකාරිත්වය තවමත් භුක්ති විඳින බවයි. [සංචාර](/activities/visiting/) බලන්න.
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **එක් වරකට අමුත්තන් එක දෙදෙනෙකු.** නිශ්ශබ්ද කාමරයක කෙටි සංචාර, බලන්න ඡායාරූප සමඟ.
+76. **පවුලට වීඩියෝ ඇමතුමක්.** කෙටි ඇමතුම්, එක වරකට එක හඬ. [දුරකථන සහ වීඩියෝ ඇමතුම්](/activities/phone-and-video-calls/) බලන්න.
+77. **මතක කෝපි රැස්වීමක් උත්සාහ කරන්න.** ඩිමෙන්ශියාව ඇති අයට සහ ඔවුන්ගේ රැකබලා ගන්නන්ට සාමාන්‍ය ඇතුළු වීමේ රැස්වීම්. ඔබේ ප්‍රදේශයේ වැඩිහිටි ප්‍රදේශ කාර්යාලයෙන් ආසන්නව කුමක් ඇත්දැයි අසන්න.
+78. **නිශ්ශබ්ද වේලාවක පිටත ආහාර ගන්න.** ජාතික වයෝවෘද්ධ ආයතනය යෝජනා කරන්නේ නිතර යන, නිශ්ශබ්ද අවන්හලක, වැඩ නැති වේලාවක, වැසිකිළියට ළඟ මේසයක් සමඟ ය.
+79. **ජ්‍යෙෂ්ඨ මධ්‍යස්ථානයට හෝ වැඩිහිටි දින වැඩසටහනකට යන්න.** ඔවුන්ට සහකාරිත්වය සහ ඔබට විවේකයක්.
+80. **දරුවන් සමඟ කාලය ගත කරන්න.** මුනුපුරුන්ගෙන් කෙටි, සන්සුන් සංචාරයක්, හෝ කුඩා ළමයෙකුට පින්තූර පොතක් කියවා දීම.
+81. **කෝපි සමඟ පුවත්පත බෙදා ගන්න.** ශීර්ෂ නාම ශබ්දයෙන් කියවන්න. චාරිත්‍රය ප්‍රවෘත්තියට වඩා වැදගත් ය.
+82. **වෙනත් කෙනෙකුට උදව් කරන්න.** පල්ලියේ වැඩසටහන් නමන්න හෝ අසල්වැසියෙකුට කාඩ්පතක් සාදන්න.
 
-## Faith and spiritual activities
+## ආගමික සහ අධ්‍යාත්මික ක්‍රියාකාරකම්
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+පුද්ගලයාගේම සම්ප්‍රදාය අනුගමනය කරන්න, නැතහොත් කිසිවක් නැත. ජාතික වයෝවෘද්ධ ආයතනය හුරුපුරුදු සේවා, කියවීම්, පූජනීය සංගීතය, යාච්ඤාව, භාවනාව සහ උත්සව චාරිත්‍ර යෝජනා කරයි.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **හුරුපුරුදු සේවයකට සහභාගී වන්න.** සන්සුන් එකක් තෝරා, මාර්ගය අසල වාඩි වී, එහි සිටින අයට ඩිමෙන්ශියාව ගැන දැනුම් දෙන්න.
+84. **ඔන්ලයින් සේවයක් නරඹන්න**, පිටතට යාම අධික වන දිනවල.
+85. **එකට යාච්ඤා කරන්න හෝ කියවන්න.** හුරුපුරුදු වචන, මන්දගාමීව කියවන ලද. ඔවුන් දන්නා කොටස්වලට එකතු විය හැක.
+86. **ඔවුන්ගේ සම්ප්‍රදායෙන් ගීත හෝ පූජනීය සංගීතය ගායනා කරන්න.**
+87. **උත්සව චාරිත්‍ර රඳවා ගන්න.** බැටරි පහන්, ආශීර්වාදයක්, ඔවුන් සැමවිටම භාවිතා කළ සැරසිලි.
+88. **නිශ්ශබ්ද කාලය බෙදා ගන්න.** උද්‍යානයක වාඩි වන්න හෝ හිරු බැසීම එකට බලන්න.
 
-## Pets and animals
+## සුරතලුන් සහ සත්ව
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+ජාතික වයෝවෘද්ධ ආයතනය සුරතලෙකුට ආහාර දීම, රැවුල කැපීම, ඇවිදීම, හෝ ළඟ වාඩි වී අතේ තබා ගැනීම යෝජනා කරයි.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **සන්සුන් සුනඛයෙකු හෝ පූසෙකු බුරුසු කරන්න** දිගු, මන්දගාමී පහරවලින්.
+90. **සුරතලා එකට ආහාර දෙන්න.** ඔබ මනිනවා; ඔවුන් වත් කරයි.
+91. **සුනඛයා එකට ඇවිදින්න.** ඔබ පටිය අල්ලා ගන්න.
+92. **සුරතලා ඔබේ උකුලේ තබා ගන්න.** බිලෑකට් මත සන්සුන් පූසෙක් ඉතා සන්සුන් කළ හැක.
+93. **පැමිණෙන සත්වයන් පිළිගන්න.** සමහර රැකවරණ නිවාස සහ දින වැඩසටහන් සත්ව සංචාර පවත්වයි. ප්‍රදේශයේ අසන්න.
+94. **ජීවමාන මෘදු සත්වයෙකු ඉදිරිපත් කරන්න.** සුරතලෙක් නොමැති නම්, සමහර අයට යථාර්ථවාදී ප්ලූෂ් පූසෙක් හෝ සුනඛයෙක් අල්ලා ගෙන සිටීම භුක්ති විඳිය හැක. එය සරලව ඉදිරිපත් කරන්න, කිසි විටෙකත් සෙල්ලම් බඩුවක් ලෙස නොවේ, සහ නැත කීම පිළිගන්න.
 
-## Seasonal activities
+## කාලෝචිත ක්‍රියාකාරකම්
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+චාරිත්‍ර තබා ගන්න, නමුත් සරලව. ජාතික වයෝවෘද්ධ ආයතනය කාර්යබහුල උත්සව වලදී යථාර්ථවාදී වීමට සහ විවේකය සඳහා නිශ්ශබ්ද ඉඩක් තිබීමට යෝජනා කරයි.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **කාලයට සරසන්න.** මිටියාවල, මාලාවක් හෝ මේසය මත නැවුම් මල්.
+96. **උත්සව ආහාරයක් සාදන්න.** පිටි පෙරළන්න හෝ කුකීස් අයිසිං කරන්න. උදුන ඔබ හසුරුවයි.
+97. **සැරසිලි එල්ලන්න.** කැඩීමට ප්‍රතිරෝධී ආභරණ, එක වරකට එක බැගින් ලබා දී.
+98. **ආලෝක බැලීමට රිය ගමනක් යන්න.** කෙටි සන්ධ්‍යා රිය ගමනක් සහකාරිත්වයෙන් විනා කිසිවක් ඉල්ලන්නේ නැත.
+99. **වසන්ත බල්බ සිටුවන්න.** සරත් සෘතුවේ බල්බ බඳුනකට තද කර, ඉපදෙන පැළ බලා සිටින්න.
+100. **බඩඉරිඟු ලෙලි ගලවන්න හෝ පීච්චි ගලවන්න.** ගිම්හාන බාල්කනියේ රැකියාවක්, උකුලේ බඳුනක් සමඟ.
+101. **උත්සව කාඩ්පත් ලිපිනගත කරන්න.** ඔවුන් අත්සන් කරයි, මුද්දර ගසයි හෝ මුද්‍රා තබයි; ඔබ ලිපින හසුරුවයි.
 
-## What if an activity is not working?
+## ක්‍රියාකාරකමක් ක්‍රියා නොකරන්නේ නම් කුමක් කළ යුතුද?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+නවතින්න, සහ වෙනත් වේලාවක වෙනත් දෙයක් උත්සාහ කරන්න. ජාතික වයෝවෘද්ධ ආයතනය යෝජනා කරන්නේ කලකිරීම නිරීක්ෂණය කර, ඔවුන් කැමති නම් පුද්ගලයා සරලව බලා සිටීමට ඉඩ දෙන ලෙසයි. නැත යන්න බොහෝ විට අදහස් කරන්නේ කාර්යය ඉතා දුෂ්කර බව, වේලාව වැරදි බව, නැතහොත් වේදනාව, කුසගින්න හෝ ශබ්දය වැනි වෙනත් දෙයක් ඔවුන් කලකිරීමට පත් කරමින් සිටින බවයි. එය කුඩා කරන්න, දිනයේ මුලදී උත්සාහ කරන්න, හෝ ඔබම එය ආරම්භ කර ඔවුන් එකතු වේදැයි බලන්න. [ඔවුන් නැත කියන විට](/caregiving/when-they-say-no/) සහ [දින අවසාන නොසන්සුන්කම](/caregiving/late-day-restlessness/) බලන්න.
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+ආහාර සහ විවේක අතර ක්‍රියාකාරකම් ගැලපීමට, [සන්සුන් දෛනික චර්යාවක්](/activities/daily-routine/) බලන්න. ලබා ගැනීමට සූදානම් කිරීමට දේවල් සඳහා, [මුද්‍රණය කළ හැකි ක්‍රියාකාරකම්](/activities/printable/) බලන්න, සහ ඔබ කණ්ඩායමක් මෙහෙයවන්නේ නම්, [රැකවරණ නිවාසවල කණ්ඩායම් ක්‍රියාකාරකම්](/activities/care-home-groups/). ඔබේම විවේකයද වැදගත් ය: [රැකබලා ගන්නන්ගේ ස්වයං සත්කාරය](/caregiving/caregiver-self-care/) බලන්න.

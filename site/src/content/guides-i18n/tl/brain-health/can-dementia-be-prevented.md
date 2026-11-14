@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Maaari Bang Maiwasan ang Dementia? Ano ang Sinasabi ng Pananaliksik"
+seoTitle: "Maiiwasan ba ang Dementia? Ano ang Sinasabi ng Pananaliksik"
+description: "Natuklasan ng 2024 Lancet Commission at malalaking pagsubok sa pagbawas ng panganib ng dementia, at mga hakbang na pag-usapan sa doktor."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Walang makapangangako na maiiwasan ang dementia. Tinantya ng 2024 Lancet
+  Commission na halos kalahati ng mga kaso ng dementia sa buong mundo ay may
+  kaugnayan sa 14 na salik ng panganib na maaaring mabago, gaya ng mataas na
+  presyon ng dugo, pagkawala ng pandinig at kawalan ng galaw. Ang mga pagsubok ay
+  nagpapakita ng maliliit na epekto sa mga pagsusuri ng pag-iisip, hindi patunay
+  na nababawasan ang mga kaso ng dementia. Maraming taong gumagawa ng lahat ng
+  “tama” ay nagkakaroon pa rin ng dementia, at walang may kasalanan dito.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Tinantya ng 2024 Lancet Commission na mga 45% ng mga kaso ng dementia sa buong mundo ay may kaugnayan sa 14 na salik ng panganib na maaaring mabago. Ito ay tantiya para sa populasyon, hindi garantiya para sa isang tao."
+  - "Ang pagbabawas ng panganib ay nangangahulugang pagbabawas ng tsansa sa buong populasyon. Hindi ito nangangahulugang maiiwasan ng sinumang tao ang dementia."
+  - "Natuklasan ng malalaking pagsubok gaya ng FINGER, US POINTER at SPRINT MIND ang maliliit na benepisyo sa mga pagsusuri ng pag-iisip o banayad na kapansanan sa pag-iisip, pero wala sa mga ito ang nagpatunay na napipigilan ng programa sa pamumuhay ang dementia."
+  - "Ang edad ang pinakamalaking kilalang panganib para sa Alzheimer's, at hindi ito mababago. Maraming taong may malusog na gawi ang nagkakaroon pa rin ng dementia."
+  - "Ang mga hakbang na pinakamadalas pag-aralan, gaya ng paggamot sa mataas na presyon ng dugo, paggamit ng hearing aid at pananatiling aktibo, ay nararapat pag-usapan sa doktor dahil nakatutulong din ang mga ito sa iba pang aspeto ng kalusugan."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Maaari bang maiwasan ang dementia?"
+    a: "Walang napatunayang paraan para maiwasan ang dementia para sa sinumang tao. Ipinakikita ng pananaliksik na ang pagbabawas ng ilang panganib, gaya ng mataas na presyon ng dugo, hindi nagagamot na pagkawala ng pandinig at paninigarilyo, ay maaaring magpababa ng tsansang magkaroon ng dementia sa buong populasyon o magpaantala ng pagsisimula nito. Tsansa ang mga ito, hindi pangako."
+  - q: "Ano ang ibig sabihin ng 45% na bilang mula sa Lancet Commission?"
+    a: "Tinantya ng 2024 Lancet Commission na mga 45% ng mga kaso ng dementia sa buong mundo ay may kaugnayan sa 14 na salik ng panganib na, sa teorya, ay maaaring mabago. Ipinapalagay ng tantiya na sanhi ng dementia ang mga salik na iyon, at sinasabi ng mga may-akda na may ilang kaugnayang bahagi lamang na sanhi. Inilalarawan nito ang buong populasyon at hindi nito sinasabi ang panganib ng sinumang indibidwal."
+  - q: "Kung malusog ang pamumuhay ng aking magulang, bakit siya nagkaroon ng dementia?"
+    a: "Malaki ang papel ng edad, genes at maraming salik na walang sinumang nakokontrol sa dementia. Sinasabi ng mga may-akda ng Lancet Commission na ang pagbabawas ng panganib sa buong populasyon ay hindi nagtitiyak na maiiwasan ng sinumang indibidwal ang dementia. Ang diagnosis ay hindi senyales na may nabigo."
+  - q: "Huli na ba para bawasan ang panganib ng dementia pagkatapos ng edad 65?"
+    a: "Sinasabi ng Lancet Commission na hindi kailanman huli o maaga para bawasan ang panganib, bagaman karamihan sa ebidensiya ay tungkol sa gitnang edad. Ang paggamot sa problema sa pandinig at paningin, pananatiling aktibo, at pakikipag-ugnayan sa mga tao ay mga halimbawa ng hakbang sa huling bahagi ng buhay na pinag-aralan. Kumonsulta sa doktor tungkol sa kung ano ang angkop sa iyong kalusugan."
+  - q: "Napipigilan ba ng mga laro sa utak o espesyal na diyeta ang dementia?"
+    a: "Walang laro, pagkain, suplemento o diyetang napatunayang nakapipigil ng dementia. Isang tatlong-taong pagsubok ng MIND diet ang hindi nakakita ng malaking pagkakaiba sa pag-iisip kumpara sa control na diyeta, at hindi pa napapatunayang may mga epektong nakita sa mga pagsubok sa pananaliksik ang mga komersyal na app sa pagsasanay ng utak."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Kung nag-aalaga ka ng taong may dementia, o nasaksihan mo ang isang magulang na namumuhay kasama nito, malamang naitanong mo kung naiwasan pa sana ito, at kung maiiwasan mo rin ito para sa sarili mo. Inilalatag ng pahinang ito ang talagang sinasabi ng pananaliksik, sa simpleng wika. Ang maikling sagot: walang makapangangako na maiiwasan ang dementia, pero ipinakikita ng pananaliksik na may ilang panganib na maaaring bawasan, at na ang pagbawas sa mga ito sa buong populasyon ay maaaring mangahulugan ng mas kaunting taong magkakaroon ng dementia, o magkakaroon nito nang mas huli.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Pangkalahatang impormasyon ito, hindi payo medikal. Pakibasa ang aming [medikal na paalala](/medical-disclaimer/) at makipag-usap sa doktor tungkol sa sarili mong kalusugan.
 
-## Can dementia be prevented?
+## Maaari bang maiwasan ang dementia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Walang napatunayang paraan para maiwasan ang dementia para sa sinumang indibidwal. Sinasabi ng National Institute on Aging (NIA) na habang [wala pang napatunayang paraan para maiwasan ang Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), nakakita ang mga mananaliksik ng mga nangangakong estratehiya at inaalam kung alin ang maaaring gumana at alin ang hindi.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ang ipinakikita ng pananaliksik ay may ilang kondisyon sa kalusugan at gawi na nauugnay sa mas mataas na tsansang magkaroon ng dementia. Kapag mas mababa ang mga panganib na ito sa buong populasyon, maaaring mas kaunti ang magkaroon ng dementia, o magkaroon nito nang mas huli sa buhay. Ibang-iba ito sa garantiya.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Isang pag-asang senyales: iniulat ng 2024 Lancet Commission na sa ilang mataas ang kitang bansa, kabilang ang US at UK, bumaba ang bahagi ng matatandang may dementia. Naniniwala ang mga may-akda na malamang dahil ito sa mas mahusay na edukasyon, mas mahusay na pangangalagang pangkalusugan, at mas kaunting pinsala sa mga daluyan ng dugo sa buong buhay, ayon sa [buod ng ulat ng University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Ano ang natuklasan ng 2024 Lancet Commission?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ang Lancet Commission sa pag-iwas, pagpapagamot at pag-aalaga sa dementia ay grupo ng 27 mananaliksik ng dementia na nagsusuri ng ebidensiya kada ilang taon. Inilista ng ulat nila noong 2024 ang **14 na salik ng panganib** na maaaring mabago, at tinantya na sama-sama ang mga ito ang nagdudulot ng **halos kalahati (mga 45%) ng mga kaso ng dementia sa buong mundo**. Ayon sa mga may-akda, ang mga kasong ito ay *sa teorya* ay maiiwasan o maaantala kung maaalis ang mga panganib ([ulat ng Lancet Commission noong 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Ang 14 na salik, nakapangkat ayon sa yugto ng buhay kung saan pinakamalakas ang ebidensiya:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Maagang buhay:** kakaunting edukasyon.
+- **Gitnang edad (mga 40 hanggang 65):** pagkawala ng pandinig, mataas na LDL (“masamang”) kolesterol, depresyon, pinsala sa ulo, kawalan ng galaw, diabetes, paninigarilyo, mataas na presyon ng dugo, labis na timbang, at labis na pag-inom ng alak.
+- **Huling bahagi ng buhay:** pagkahiwalay sa lipunan, polusyon sa hangin, at hindi nagamot na pagkawala ng paningin.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Ang dalawang pinakabagong idinagdag noong 2024 ay mataas na LDL na kolesterol at hindi nagamot na pagkawala ng paningin. Ang mga salik na may pinakamalaking bahagi ng mga kaso ay pagkawala ng pandinig at mataas na LDL na kolesterol (mga 7% bawat isa), kasunod ng kakaunting edukasyon at pagkahiwalay sa lipunan (mga 5% bawat isa).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ang aming [gabay sa mga salik ng panganib](/brain-health/risk-factors/) ay tumatalakay sa lahat ng 14 sa isang talahanayan, kasama ang ipinag-uugnay ng pananaliksik at ang maaari mong gawin.
 
-### What the 45% figure does not mean
+### Ang hindi ibig sabihin ng 45%
 
-It is easy to misread this number, so it helps to be precise:
+Madaling mabasa nang mali ang bilang na ito, kaya makatutulong ang pagiging tumpak:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Tantya ito ng populasyon.** Inilalarawan nito ang mga kaso ng dementia sa buong mundo, hindi ang tsansa mo o ng magulang mo.
+- **Ipinapalagay nito ang sanhi at epekto.** Sinasabi ng mga may-akda na isinama lamang nila ang mga salik ng panganib na may matibay na ebidensiya, pero maaaring bahagi lamang na sanhi ang ilang kaugnayan. Halimbawa, ang depresyon sa huling bahagi ng buhay ay minsang maaaring maging maagang sintomas ng dementia kaysa sanhi nito.
+- **Hindi ito nagagarantiya ng anuman para sa isang tao.** Sinasabi ng buod ng UCL na ang pagbabawas ng panganib ay gumagana sa antas ng populasyon at hindi ginagarantiyang maiiwasan ng sinumang indibidwal ang dementia.
+- **Hindi ipinaliliwanag ng mga salik na ito ang kabilang kalahati.** Ang edad, genes, at mga sanhing hindi pa lubos na nauunawaan ng mga siyentipiko ang bumubuo sa natitira.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Ano ang pagkakaiba ng “pagbabawas ng panganib” at “pag-iwas”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Ang pagbabawas ng panganib** ay nangangahulugang pagbabawas ng tsansa. Kung ibaba ng isang malaking grupo ng tao ang kanilang presyon ng dugo, maaaring mas kaunti sa kanila ang magkaroon ng dementia sa loob ng maraming taon kumpara sa kung hindi nila ginawa iyon. May ilang indibidwal sa grupong iyon na magkakaroon pa rin nito.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Ang pag-iwas** ay nagmumungkahi na mapipigilan ang isang bagay na mangyari nang tuluyan. Para sa dementia, hindi ito maipapangako ng pananaliksik kaninuman ngayon.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Pinag-uusapan din ng mga mananaliksik ang **pagpapaantala**. Iniulat ng Lancet Commission ang bagong ebidensiyang maaaring itulak pabalik ang pagsisimula ng dementia at paikliin ang panahong namumuhay ang tao nang may hindi magandang kalusugan. Kahit ang pagpapaantala ng ilang taon ay malaki ang kahulugan sa tao at sa kanyang pamilya.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Sa site na ito, sinasadya naming gamitin ang “pagbaba ng panganib” at “nauugnay sa.” Kapag may nakita kang produkto, suplemento o programang nangangakong “pipigil sa Alzheimer's,” mag-ingat dito. Pinapayuhan ng NIA na kumonsulta muna sa doktor bago subukan ang anumang gamot o paggamot na nangangakong pipigil sa Alzheimer's, dahil maaaring hindi ligtas ang mga produktong ito, nasasayang ang pera, o pareho.
 
-## What have large trials found?
+## Ano ang natuklasan ng malalaking pagsubok?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Makapagpapakita ng mga kaugnayan ang mga obserbasyonal na pag-aaral (na nagmamasid kung ano ang nangyayari sa mga tao sa paglipas ng panahon). Mas matibay na pagsubok ang mga randomized na pagsubok, kung saan ang mga tao ay itinatalaga sa isang programa o sa paghahambing na grupo sa pamamagitan ng pagkakataon. Narito ang natuklasan ng ilan sa pinakakilalang pagsubok.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Kinuha ng pagsubok na FINGER ang 1,260 nasa hustong gulang na may edad 60 hanggang 77 na may mas mataas na panganib ng dementia. Kalahati ang tumanggap ng dalawang taong programa ng payo sa diyeta, ehersisyo, computer na pagsasanay sa utak, at pagsusuri sa kalusugan ng puso at mga daluyan ng dugo; ang kabilang kalahati ay tumanggap ng pangkalahatang payo sa kalusugan. Bahagyang mas magaling ang grupo ng programa sa hanay ng mga pagsusuri ng pag-iisip, isang maliit ngunit istatistikal na makabuluhang pagkakaiba ([pagsubok na FINGER sa The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Mga resulta ng pagsusuri ang sinukat ng pagsubok, hindi ang mga diagnosis ng dementia.
 
-### US POINTER (United States)
+### US POINTER (Estados Unidos)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Kinuha ng US POINTER ang 2,111 nasa hustong gulang na may edad 60 hanggang 79 na hindi aktibo, may hindi gaanong malusog na diyeta, at may iba pang panganib na salik. Hinikayat ang parehong grupo na maging mas aktibo sa katawan at isipan, kumain nang mas mabuti, manatiling konektado sa iba, at subaybayan ang kalusugan ng puso. Ang isang grupo ay nakakuha ng nakaayos at may gabay na programa; ang isa ay gumabay sa sarili. Sa loob ng dalawang taon, bumuti ang resulta ng pagsusuri ng pag-iisip sa **parehong** grupo, at bahagyang higit sa nakaayos na grupo ([pagsubok na US POINTER sa JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Sinasabi ng mga may-akda na kailangan pa ng mas mahabang follow-up para malaman kung mahalaga ang pagkakaiba sa pang-araw-araw na buhay. Dahil walang grupong “walang gagawin,” hindi masasabi ng pagsubok kung gaano nakatulong ang alinmang programa kumpara sa walang pagbabago.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (presyon ng dugo)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+Pinag-aralan ng SPRINT MIND ang 9,361 nasa hustong gulang sa US na edad 50 pataas na may mataas na presyon ng dugo. Itinalaga sila sa mas mababang target ng presyon ng dugo (nasa itaas na numero na mas mababa sa 120) o sa karaniwang target (mas mababa sa 140). Malaki ang nabawas ng mas mababang target sa **banayad na kapansanan sa pag-iisip**, isang yugto ng suliranin sa alaala at pag-iisip na maaaring mauna sa dementia. Para sa **malamang na dementia**, mas kaunti ang kaso sa grupong mas mababa ang target, pero hindi istatistikal na makabuluhan ang pagkakaiba. Maagang itinigil ang pagsubok at may mas kaunting kaso ng dementia kaysa inaasahan, kaya maaaring masyadong maliit ito para sagutin ang tanong na iyon ([SPRINT MIND sa JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ang kabuuan ng mga pagsusuri
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Pinagsama ng isang pagsusuri ng Cochrane noong 2021 ang siyam na malalaking pagsubok ng mga programang tumutugon sa ilang panganib nang sabay, na may mahigit 18,000 katao. Nakitaan ito ng maliit na benepisyo sa mga pagsusuri ng pag-iisip, pero **walang malinaw na pagkakaiba sa bilang ng taong nagkaroon ng dementia** sa dalawang pagsubok na sumukat nito ([pagsusuri ng Cochrane tungkol sa mga interbensyong maraming larangan](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Isang pagsusuri noong 2017 ng National Academies of Sciences, Engineering, and Medicine, na ibinuod ng NIA, ang nakakitang “nakapagpapatibay ngunit hindi tiyak” na ebidensiya para sa tatlong paraan: pagkontrol sa mataas na presyon ng dugo, pagtaas ng pisikal na aktibidad, at pagsasanay sa pag-iisip.
 
-## Does it matter when you start?
+## Mahalaga ba kung kailan ka magsisimula?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Ang payo ng Lancet Commission ay pababain ang mga panganib sa lalong madaling panahon at panatilihing mababa ang mga ito hangga't maaari: “mas maaga, mas mabuti” at “mas matagal, mas mabuti.” Sinasabi rin nito na hindi kailanman huli o maaga para bawasan ang panganib. Karamihan sa ebidensiya ay tungkol sa gitnang edad, mga 40 hanggang 65, pero ang ilang salik, gaya ng pagkawala ng paningin at pagkahiwalay sa lipunan, ay mga panganib sa huling bahagi ng buhay kung saan maaari pa ring maging makatwiran ang pagkilos.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Sinasabi ng ulat na may mas malakas nang ebidensiya na mas malaki ang epekto ng mas matagal na pagkakalantad sa isang panganib. Halimbawa, ang diabetes na nagsisimula sa gitnang edad ay tila mas mahalaga kaysa diabetes na nagsimula nang mas huli.
 
-## Is dementia risk the same for everyone?
+## Pareho ba ang panganib ng dementia para sa lahat?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Hindi. Natuklasan ng Commission na ang mga tao sa mababa at katamtamang kita na bansa, mga taong mula sa minoryang grupo, at mga taong may mas kaunting pera ay kadalasang nagdadala ng mas maraming panganib na ito, kaya kadalasang nagkakaroon ng dementia sa mas batang edad. Maraming panganib ang nakatali sa mga sitwasyong hindi pinili ng mga tao, gaya ng kalidad ng edukasyong natanggap nila noong bata pa, ang hangin sa lugar na tinitirhan nila, at kung abot-kaya at malapit ba ang malusog na pagkain.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Kaya nakatuon ang mga rekomendasyon ng Commission sa mga pamahalaan gaya ng sa mga indibidwal: mabuting edukasyon para sa lahat ng bata, mas malinis na hangin, mga hakbang para bawasan ang paninigarilyo, mas kaunting asukal at asin sa pagkaing ibinebenta sa mga tindahan at restawran, at hearing aid para sa lahat ng nangangailangan. Mahalaga ang pagsisikap ng bawat indibidwal, pero mahalaga rin ang mundong ginagalawan ng mga tao. Isa pa itong dahilan para huwag sisihin ang sinuman sa isang diagnosis.
 
-## What are the honest limits of this research?
+## Ano ang tapat na limitasyon ng pananaliksik na ito?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Ang dementia ay umuunlad sa loob ng mga dekada**, pero karamihan sa mga pagsubok ay tumatagal ng dalawa hanggang limang taon. Ang pagsukat sa mismong dementia, hindi lang sa resulta ng pagsusulit, ay nangangailangan ng napakahaba at napakalaking pag-aaral.
+- **Karamihan sa mga pagsubok ay sumusukat ng mga pagsusuri sa pag-iisip.** Ang maliit na pagbuti sa pagsusulit ay hindi nangangahulugang mas kaunting tao ang magkakaroon ng dementia o magiging mas madali ang pang-araw-araw na buhay.
+- **Kadalasang mas malusog at mas edukado ang mga boluntaryo** kumpara sa pangkalahatang publiko. Sinasabi ng Lancet Commission na karamihan pa rin ng ebidensiya ay mula sa mga bansang mataas ang kita, at kulang ang representasyon ng mga minoryang grupo.
+- **May mga kaugnayang tumatakbo sa dalawang direksiyon.** Ang pagiging hindi gaanong aktibo o hindi gaanong sosyal ay maaaring maagang epekto ng dementia, hindi lamang sanhi nito.
+- **Nakakadismaya pa ang mga pagsubok sa diyeta sa ngayon.** Isang tatlong-taong pagsubok ng MIND diet ang walang nakitang malaking pagkakaiba sa pag-iisip kumpara sa control na diyeta. Tingnan ang aming [gabay sa diyeta](/brain-health/diet/).
+- **Hindi pa napapatunayang napipigilan ng mga laro sa utak ang dementia.** Tingnan ang aming gabay tungkol sa [mga laro para sa utak at dementia](/brain-health/brain-games/).
+- **Napakalimitado ng ebidensiya ng tao tungkol sa pag-aayuno**, at maaari itong mapanganib para sa mga matatanda. Tingnan ang aming [gabay sa pag-aayuno](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Kung gumawa ng lahat ng “tama” ang isang tao, bakit siya nagkaroon pa rin ng dementia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Dahil hindi basta bunga ng mga pagpili ang dementia. Sinasabi ng NIA na [ang edad ang pinakamalaking kilalang panganib para sa Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), at walang makababago nito. May papel din ang genes. At hindi pa lubos na nauunawaan ng mga siyentipiko kung ano ang nagdudulot ng Alzheimer's sa karamihan ng tao. Kahit maalis ang lahat ng 14 na salik ng panganib, iniiwan ng sariling tantya ng Lancet Commission ang higit sa kalahati ng mga kaso na hindi maipaliwanag.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Kaya kung nag-aalaga ka ng taong nag-ehersisyo, kumain nang mabuti, hindi kailanman naninigarilyo, at nagkaroon pa rin ng dementia, walang nagkamali sa kanyang bahagi, o sa iyo. Kung ikaw mismo ang namumuhay na may dementia, hindi ito kasalanan mo. Karaniwan ang pagkakasala sa mga pamilya, pero hindi ito dapat. Ang mahalaga ngayon ay ginhawa, ugnayan at magagandang araw, at ang aming [mga ideya sa aktibidad](/activities/ideas/) at [gabay sa sariling pangangalaga ng tagapag-alaga](/caregiving/caregiver-self-care/) ay magandang simula.
 
-## What steps can you talk over with a doctor?
+## Anong mga hakbang ang maaari mong pag-usapan sa doktor?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ito ang mga larangang pinakamadalas pag-aralan. Nararapat itong banggitin sa check-up dahil karamihan sa mga ito ay nakatutulong din sa kalusugan ng puso, mood at kalayaan, anuman ang kinalabasan ng epekto nito sa dementia.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Presyon ng dugo.** Itanong kung ano ang iyong mga numero at kung anong target ang bagay sa iyo. Iminumungkahi ng Lancet Commission ang target na nasa itaas na numero na 130 o mas mababa simula bandang edad 40, pero ang tamang target para sa matatanda ay nakadepende sa kabuuang kalusugan nila.
+2. **Pandinig.** Humingi ng pagsusuri sa pandinig, at itanong kung makatutulong ang hearing aid. Ipinaliliwanag ng aming [gabay sa pandinig](/brain-health/hearing/) ang pananaliksik.
+3. **Paningin.** Magpatingin sa mata nang regular, at itanong kung magagamot ang mga suliranin gaya ng katarata.
+4. **Kolesterol.** Itanong kung dapat suriin ang iyong LDL na kolesterol at kung may dapat baguhin.
+5. **Asukal sa dugo.** Kung may diabetes ka, itanong kung paano ito ligtas na pamahalaan.
+6. **Mood.** Karaniwan at magagamot ang depresyon. Sabihin sa doktor mo kung nakaramdam ka ng kalungkutan o nawalan ng interes sa mga bagay nang higit sa ilang linggo.
+7. **Paninigarilyo at alak.** Itanong ang tulong para tumigil sa paninigarilyo at ang ligtas na limitasyon sa alak.
+8. **Paggalaw.** Itanong kung anong uri ng aktibidad ang ligtas para sa iyo. May mga ideya ang aming [gabay sa ehersisyo](/brain-health/exercise/).
+9. **Proteksiyon sa ulo.** Magsuot ng helmet sa pagbibisikleta at contact sports, at itanong ang tungkol sa pag-iwas sa pagkahulog.
+10. **Manatiling konektado.** Mahalagang bahagi ng malusog na buhay ang oras kasama ang ibang tao. Tingnan ang aming gabay tungkol sa [pakikisalamuha](/brain-health/social-connection/), at pati na rin ang [tulog](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Bago baguhin ang gamot, diyeta, suplemento, pag-aayuno o ehersisyo, kumonsulta muna sa doktor, lalo na kung may sakit sa puso, diabetes, kasaysayan ng pagkahulog, o namumuhay na may dementia.
 
-## Talk with a doctor
+## Makipag-usap sa doktor
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Kung napansin mo ang mga pagbabago sa alaala o pag-iisip na nakakabahala, sa sarili mo man o sa ibang tao, magpa-appointment. Sinasabi ng NIA na [maaaring may ibang sanhi ang mga problema sa alaala](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), gaya ng side effect ng gamot, problema sa thyroid, depresyon o mababang bitamina B12, at na may ilang problemang nawawala kapag nagamot ang sanhi. Ipinaliliwanag ng aming [gabay sa mga babalang senyales](/brain-health/warning-signs/) kung ano ang dapat bantayan.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Humingi agad ng tulong medikal** para sa biglaang pagbabago: biglaang pagkalito, panghihina o pamamanhid sa isang panig ng katawan, hirap magsalita, o matinding sakit ng ulo ay maaaring senyales ng stroke o ibang emergency. Tumawag sa lokal na numero ng emergency.
 
-## Where Golden Moments fits
+## Saan nababagay ang Golden Moments?
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Gumagawa ang Golden Moments ng simpleng aktibidad na pinagsasaluhan, gaya ng [mga conversation card](/games/conversation-cards/), [bingo ng larawan](/games/picture-bingo/), at isang [maikling paghinga para sa pagpapakalma](/games/calm-breathing/). Para ang mga ito sa kasiyahan at oras na magkasama. Hindi ito gamot, at hindi nila napipigilan o napababagal ang dementia.

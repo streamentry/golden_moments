@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Фаъолият барои деменсияи марҳилаи аввал"
+seoTitle: "Фаъолияти марҳилаи аввали деменсия: ғояҳои мувофиқ"
+description: "Ғояҳои фаъолият барои марҳилаи аввали деменсия: машғулиятҳо, бозиҳо, сайругашт ва нақшакашӣ якҷоя, бо тағйироти хурд."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Дар марҳилаи аввали деменсия аксари одамон ҳанӯз метавонанд он чизеро иҷро кунанд,
+  ки дӯст медоранд: машғулиятҳо, бозиҳои корт ва лавҳавӣ, пухтупаз, боғдорӣ, сайр,
+  клубҳо, дин ва кори волонтёрӣ. Тағйироти асосӣ гурӯҳҳои хурдтар, сайрҳои кӯтоҳтар,
+  нақшаҳои содаи навиштаашуда ва шарики наздик аст. Аз шахс пурсед, ки чӣ кумак
+  мехоҳад ва ба ӯ роҳбарӣ диҳед.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Аксари одамон дар марҳилаи аввал нисбатан мустақил зиндагӣ мекунанд. Фаъолият одатан иваз намешавад, танҳо танзим мешавад."
+  - "Аз шахс пурсед, ки кадом кумакро мехоҳад ва як нишонаи содда барои вақте ки кӯмак хуш аст, мувофиқа кунед."
+  - "Гурӯҳҳои хурд, вақтҳои оромтар ва сайрҳои кӯтоҳ аксар вақт фарқи калон мекунанд."
+  - "Ин вақти хубест, ки шахс лоиҳаҳоро дар бораи ҳаёти худаш роҳбарӣ кунад, масалан дафтари ёддошт ё китоби ҳикояи ҳаёт."
+  - "Бозиҳоро барои лаззат интихоб кунед. Ҳар чизеро, ки ба имтиҳон монанд шавад, ба канор гузоред."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Кадом фаъолият дар марҳилаи аввали деменсия хуб аст?"
+    a: "Одатан ҳамон чизҳое, ки шахс аллакай дӯст медорад: бозиҳои корт ва лавҳавӣ, пухтупаз, боғдорӣ, сайр, мусиқӣ, фаъолиятҳои динӣ, клубҳо ва кори волонтёрӣ. Шояд лозим шавад, ки онҳоро кӯтоҳтар, оромтар ё содатар кунед. Нигоҳ доштани дафтари ёддошт, номанависӣ ва сохтани китоби ҳикояи ҳаёт низ ба ин марҳила хуб мувофиқанд."
+  - q: "Чӣ тавр кумак кунам, бе он ки ҳама чизро ба ӯҳда гирам?"
+    a: "Пурсед, ки шахс кадом намуди кумакро мехоҳад ва ба таври мунтазам санҷед. Як ибора ё ишорае мувофиқа кунед, ки маънои онро дошта бошад, ки дохил шудан дуруст аст, масалан вақте ки калима ё ном ба ёд намеояд. Агар хатари бехатарӣ набошад, бигзоред, ки онро тарзи худаш иҷро кунад, ҳатто агар дертар анҷом шавад."
+  - q: "Оё шахси деменсияи аввал бояд фаъолиятҳои нав кӯшад?"
+    a: "Бале, агар худаш хоҳад. Машғулиятҳои шинос одатан осонтаранд, аммо бисёриҳо аз чизи нав лаззат мебаранд, масалан гурӯҳи пиёдагардии мувофиқи деменсия, синфи расмкашӣ ё гурӯҳи сурудхонӣ. Бори аввал бе фишор кӯшед ва бубинед, ки чӣ ҳис мекунад."
+  - q: "Оё барномаҳои машқи мағз дар марҳилаи аввал арзанд?"
+    a: "Баъзеҳо пазлҳо ва бозиҳои калимаро дӯст медоранд ва ҳамин лаззат кофист. Ягон барнома ё бозӣ нишон дода нашудааст, ки деменсияро табобат, суст ё бас кунад. Агар бозӣ ба шахс фишор ё ҳисси нокомӣ диҳад, онро ба канор гузоред."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Дар марҳилаи аввали деменсия бисёре аз одамон ҳанӯз мисли пеш зиндагӣ мекунанд. Онҳо метавонанд кор кунанд, кори волонтёрӣ анҷом диҳанд, бо дӯстон вохӯранд ва бештари рӯзи худро худашон идора кунанд. Фаъолият одатан иваз кардан лозим нест; ба чанд танзим ниёз дорад, то лаззатбахш бимонад. Нақши шумо ба шарик наздиктар аст, на ба ғамхор: шахсе, ки дастгирӣ мекунад, якҷоя нақша мекашад ва танҳо вақте ворид мешавад, ки аз ӯ пурсида шавад.
 
-## What activities are good in early-stage dementia?
+## Кадом фаъолият дар марҳилаи аввали деменсия хуб аст?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Беҳтарин фаъолият дар марҳилаи аввал одатан ҳамон чизҳоест, ки шахс аллакай дӯст медорад, андаке осонтар шудааст. [Фонди Алсгеймери Амрико](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) бозиҳои корт ва лавҳавӣ, ҷустуҷӯи калима, пиёдагардӣ, рақс, боғдорӣ, ороиши гул, ҳикоягӯӣ, рангсозӣ, мусиқӣ, нигоҳ доштани дафтари ёддошт, номанависӣ, албомсозӣ, пухтупаз ва анъанаҳои идҳоро номбар мекунад.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Тағйир аксар вақт муҳит аст, на фаъолият. [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/daily-care/activities) қайд мекунад, ки одамон дар марҳилаи аввал метавонанд аз чизҳои дӯстдоштаашон худро канор кашанд ва мисоли касеро меорад, ки дар тӯйи калон худро маҷбур ҳис мекунад, аммо дар гурӯҳи хурд беҳтар мешавад. Дар бораи он чи душвортар аст, кушода сӯҳбат кунед ва якҷоя танзим кунед.
 
-## Ask first, and agree on how to help
+## Аввал пурсед ва тарзи кумакро мувофиқа кунед
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Маслиҳатҳои Ассотсиатсияи Алсгеймер барои марҳилаи аввал](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) чанд одатро пешниҳод мекунанд, ки ба фаъолият низ дахл доранд:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Мустақиман пурсед.** «Чӣ чиз барои шумо клуби китобро осонтар мекунад?» ҷавоби беҳтар медиҳад, назар ба тахмин.
+- **Қобилияташро қабул кунед.** Агар хатари бехатарӣ набошад, бигзоред, ки шахс кӯшиш кунад ва ба ҷои иваз кардани ӯ ташвиқ кунед.
+- **Ишорае мувофиқа кунед.** Ибора ё ишора интихоб кунед, ки маънои «ҳоло дохил шудан дуруст аст»-ро дорад, масалан вақте ки ном дар бозии корт ба ёд намеояд.
+- **Мунтазам санҷед.** Пурсед, ки миқдори кумак дуруст аст, зиёд аст ё кам.
 
-## Activity ideas for the early stage
+## Ғояҳои фаъолият барои марҳилаи аввал
 
-### Keep up roles and hobbies
+### Нақш ва машғулиятҳоро нигоҳ доред
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Ӯҳдадории мунтазам нигоҳ доред.** Наубати ҳафтаина дар кори волонтёрӣ, ҳамсароӣ ё клуб ҳафтаро шакл медиҳад. Агар пурфишор шавад, нақши кӯтоҳтар ё оромтар мувофиқтар аст.
+- **Хӯрокро якҷоя нақша кунед.** Агар харидории хӯрок ноумедкунанда шуда бошад, Ассотсиатсияи Алсгеймер пешниҳод мекунад, ки ба ҷои он аз шахс хоҳиш кунед, ки барномаи хӯроки ҳафта ва рӯйхатро нависад.
+- **Пухтан ва пазидан.** Дастури рецепти дӯстдоштаро якҷоя пайравӣ кунед. Пеш аз оғоз ингредиентҳоро дар тартиб гузоред, то қадамҳо дида шаванд.
+- **Боғдорӣ.** Нақшаи бистарро тартиб диҳед, тухм ё растаниҳо интихоб кунед ва корро якҷоя иҷро кунед. Рӯйхати хаттии корҳои боғи ҳафта кӯмак мекунад.
+- **Ҳунарро нигоҳ доред.** Чӯбтарошӣ, дӯзандагӣ, бофтан ё моделсозӣ метавонанд бо намунаҳои содатар ва рӯшноии хуб идома ёбанд.
 
-### Games for enjoyment
+### Бозиҳо барои лаззат
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Корт ва бозиҳои лавҳавӣ бозед.** Бозиҳои шинос осонтаранд. Дар гурӯҳҳо бозед, то касе зери фишор набошад, ва холро сӯст нигоҳ доред ё умуман нанависед.
+- **Ҷустуҷӯи калимаро иҷро кунед.** [Ҷадвали калимаҳо бо ҳарфҳои калон](/games/word-search/)-и мо дар экран бозида ё барои лаҳзаи ором чоп шуда метавонад. Калимаҳо танҳо уфуқӣ ва амудӣ ҷойгиранд.
+- **Пазлҳо ҷамъ кунед.** Шумораи порчаҳоро интихоб кунед, ки оромбахш бошад, на душвор. [Пазли тасвирӣ](/games/picture-puzzle/) версияи кӯтоҳи экранӣ аст ва [роҳнамои пазлҳо барои деменсия](/activities/puzzles/) интихоби онро фаро мегирад.
+- **Барои лаззат дар викторина иштирок кунед.** Баъзеҳо шаби дастаии викторинаро дӯст доранд. Агар ба имтиҳон монанд шавад, чизи дигареро интихоб кунед ё [саволҳои осони викторинаи мо](/activities/trivia/)-ро санҷед, ки интихоби ҷавоб доранд ва хол надоранд.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Бозиҳо барои лаззат ҳастанд. Ҳеҷ бозие нишон дода нашудааст, ки деменсияро табобат ё суст кунад; бештар дар бораи [бозиҳои мағз: таҳқиқот чӣ мегӯяд](/brain-health/brain-games/) хонед.
 
-### Write, reflect and record
+### Навиштан, андешидан ва сабт кардан
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Дафтари ёддошт нигоҳ доред.** Ассотсиатсияи Алсгеймер нигоҳ доштани дафтарро ҳамчун роҳи коркарди эҳсосот пас аз ташхис пешниҳод мекунад. Чанд сатр дар як рӯз кифоя аст.
+- **Китоби ҳикояи ҳаётро роҳбарӣ кунед.** Марҳилаи аввал вақти хуб барои он аст, ки шахс аксҳои худро интихоб кунад ва ҳикояҳои пушти онҳоро нависад ё диктант кунад. Ба [фаъолиятҳои ёдоварӣ](/activities/reminiscence/) нигаред.
+- **Номаҳо нависед.** Номаи ба набера, дӯсти кӯҳна ё ҳамкори собиқ метавонад барои ҳарду тараф маъно дошта бошад.
+- **Дар бораи аксҳо сӯҳбат кунед.** [Ҷуфти аксҳо](/games/photo-pairs/) аксҳои оилавиро ба бозии мувофиқкунии мулоим табдил медиҳад ва [кортҳои суҳбат](/games/conversation-cards/) барои гап задан оғози осон медиҳанд.
 
-### Go out and move
+### Берун рафтан ва ҳаракат кардан
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) пешниҳод мекунад, ки сайрҳои шинос то замоне давом кунанд, ки ҳардуятон роҳат ҳастед. Онҳоро дар вақти беҳтарини рӯзи шахс ба нақша гиред ва нагузоред, ки дароз давом кунанд.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Сайрҳои кӯтоҳи фарҳангӣ.** Осорхона, намоиши пешинӣ ё намоишгоҳи санъат, беҳтараш дар вақти оромтар.
+- **Шиноварӣ.** Институти миллии пиронсолӣ пешниҳод мекунад, ки ҳавузи шиноварӣ дар вақти кам бандбуди рӯз истифода шавад.
+- **Гурӯҳҳои пиёдагардӣ ва синфҳои рақс.** [Хадамоти миллии тандурустии Бритониё](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) рақс, тайцзи, йога, шиноварӣ ва гурӯҳҳои пиёдагардиро зикр мекунад, ва ҷойҳое, ки дар онҳо ҷалсаҳои мувофиқи деменсия мавҷуданд.
+- **Гурӯҳҳои сурудхонӣ ва қаҳвахонаҳои ёдоварӣ.** Гурӯҳҳои ором, ки дар онҳо одамони бо деменсия ва шарикони онҳо бо дигарон дар ҳамин вазъият вохӯрда метавонанд.
 
-## Small changes that keep activities enjoyable
+## Тағйироти хурд, ки фаъолиятро лаззатбахш нигоҳ медорад
 
-| If this is getting harder | Try this |
+| Агар ин душвортар шавад | Инро кӯшед |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Ҷойҳои пурғавғо ё серсадо | Дар вақтҳои ором бароед, гурӯҳҳои хурдтарро интихоб кунед, дар канори толор нишинед |
+| Ба ёд овардани номҳои нав | Ҳар бор одамонро бо ном муаррифӣ кунед; аз гурӯҳҳо хоҳиш кунед, ки барои ном варақаҳо истифода баранд |
+| Пайравӣ аз нақшаҳои бисёрқадамӣ | Қадамҳоро нависед ё аввал ҳамаро дар тартиб гузоред |
+| Хаста шудан | Сайрҳои кӯтоҳтар, истироҳат пас аз он, дар он рӯз чизи дигар нақша нашудааст |
+| Пайгирӣ кардани хол дар бозӣ | Дар гурӯҳҳо бозед, қоидаҳоро оддӣ кунед ё холро нанависед |
+| Ёфтани калимаҳо | Вақт диҳед; калимаро танҳо агар ишораи мувофиқашуда гӯяд, пешниҳод кунед |
 
-## When to slow down
+## Кай суст кардан
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Фаъолиятро қатъ ё тағйир диҳед, вақте ки он бештар ташвиш меорад аз он ки лаззат. Ноумедии такрорӣ, канор гирифтан аз машғулият ё гуфтани «Дигар тавон надорам» арзиши гуфтугӯи меҳрубонона доранд, на фишор. Аксар вақт ҷавоб версияи хурдтари ҳамон чиз аст. Вақте ки шахс ба кумак барои оғоз ва пайравӣ кардани қадамҳо ниёз дорад, ғояҳои [фаъолиятҳои марҳилаи миёна](/activities/middle-stage/) шояд беҳтар мувофиқ бошанд. Барои сӯҳбати дастгирикунанда [маслиҳатҳои муошират](/caregiving/communication-tips/)-ро бинед ва барои ғояҳои бештар [101 фаъолият](/activities/ideas/)-ро.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Шарикон низ ба дастгирӣ ниёз доранд. Марҳилаи аввал вақти хуб барои сохтани шабакаи кумаки худатон аст; ба [худнигоҳдории ғамхор](/caregiving/caregiver-self-care/) нигаред.

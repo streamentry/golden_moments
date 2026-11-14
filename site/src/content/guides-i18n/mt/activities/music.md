@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Attivitajiet tal-mużika għal persuni bid-dimenzja"
+seoTitle: "Attivitajiet tal-mużika għad-dimenzja: Playlists u ideat"
+description: "Kif taqsam mużika ma’ persuna li qed tgħix bid-dimenzja: playlist personali skont l-era u l-ġeneru, 15-il attività sempliċi u parir għal kull stadju."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Il-mużika hija waħda mill-aktar attivitajiet sempliċi li tista’ tqsam ma’ persuna li
+  qed tgħix bid-dimenzja. Ibni playlist personali mill-mużika taż-żgħożija, mill-fidi
+  u mill-familja, idoqqha mingħajr reklami u storbju ta’ sfond, u ikanta, iqabbad idejn,
+  iċċaqlaq jew sempliċiment isimgħu flimkien. Agħżel mużika kalma jew ħajja skont il-mument,
+  żomm il-volum ħafif, u waqqaf jekk xi kanzunetta tiddejjaqhom.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "L-aħjar mużika hija dik personali: l-istili li għoġbuha bħala adult żagħżugħ, u mużika mill-fidi, mill-kultura u mill-avvenimenti familjari."
+  - "Idoqq ħaġa waħda kull darba, mingħajr reklami u bit-TV mitfi."
+  - "Il-kant, l-iċċaqlaq bl-idejn, l-iżfin bil-mod u s-smigħ sempliċi huma kollha modi biex tieħu sehem."
+  - "Uża mużika aktar kalma biex tikkalma, u mużika aktar ħajja biex ittella’ l-burdata, u osserva kif tirrispondi l-persuna."
+  - "Ir-riċerka dwar sessjonijiet ta’ mużika strutturata hija limitata; nissuġġerixxu l-mużika bħala xi ħaġa pjaċevoli li tinqasam, mhux bħala trattament."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Liema tip ta’ mużika hija l-aħjar għal persuna bid-dimenzja?"
+    a: "Mużika li l-persuna tkun taf u tkun ħabbet għal żmien twil, spiss mis-snin taż-żgħożija, flimkien ma’ mużika mill-fidi, mill-kultura u mill-festi tal-familja. Jekk ikun possibbli, ħalliha tagħżel. Ara wiċċha u ġismha biex titgħallem x’tgawdi, u aqbeż kull ħaġa li tidher li tiddejjaqha."
+  - q: "Għandi nuża headphones?"
+    a: "Xi nies jgawdu l-headphones għax jaqtgħu l-istorbju, filwaqt li oħrajn isibuhom mhux komdi jew konfużi. Ipprova l-ewwel speaker biex tkunu tistgħu tisimgħu flimkien. Jekk tuża headphones, żomm il-volum baxx u oqgħod qrib."
+  - q: "Il-mużika tista’ tgħin bl-inkwiet jew bil-ħsara?"
+    a: "Mużika kalma u familjari tista’ tgħin tinħoloq burdata kwieta, u l-Alzheimer’s Association jissuġġerixxi li tuża l-mużika biex tistabbilixxi l-atmosfera li trid. Mhux dejjem taħdem. Jekk il-persuna tkun imħawda, iċċekkja wkoll għal uġigħ, ġuħ, storbju jew għeja."
+  - q: "Persuni fl-istadju tardiv għadhom jgawdu l-mużika?"
+    a: "Ħafna jistgħu. L-Alzheimer’s Association jgħid li persuna fl-istadju tardiv tista’ xorta tagħfas ritmu jew tkanta flimkien ma’ kanzunetta tat-tfulija. Oqgħod qrib, idoqq il-mużika bil-mod u żomm idha jew iċċaqlaq flimkien."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Il-mużika hija waħda mill-aktar affarijiet sempliċi li tista’ tqsam ma’ persuna li qed tgħix bid-dimenzja. Ma titlobx xejn: l-ebda tweġibiet korretti, l-ebda passi biex issegwi. Kanzunetta familjari tista’ ġġib tbissima, sieq li tħabbat bil-mod jew ftit kliem ikkantat flimkien, anke f’jum meta l-konverżazzjoni tkun iebsa. Kollox li tkun teħtieġ huwa l-mużika t-tajba għal din il-persuna partikolari u mument kwiet biex tidoqqha.
 
-## What music activities work for people with dementia?
+## Liema attivitajiet tal-mużika jaħdmu għal persuni bid-dimenzja?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Is-smigħ, il-kant, it-taqbid bl-idejn, l-iċċaqlaq u t-taħdit dwar il-mużika jaħdmu kollha tajjeb. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jissuġġerixxi li tidoqq mużika, titkellem dwar il-mużika u l-artist, tikkanta jew tiżfen għal kanzunetti magħrufa, u tmur għal konċerti jew programmi tal-mużika fil-komunità. L-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) iżid li moviment bħall-qbid bl-idejn jew l-iżfin jista’ jgħolli l-pjaċir, u li l-mużika tista’ tkun mod biex tgħaqqad wara li l-kliem isir diffiċli.
 
-## How do you build a personal playlist?
+## Kif tibni playlist personali?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+L-iktar ħaġa utli li tista’ tagħmel hija playlist ta’ mużika li għandha tifsira għal din il-persuna. L-[NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) jsemmi wkoll mużika b’tifsira personali. Hawn taħt hemm mod sempliċi kif tibnieha.
 
-### Start with their life
+### Ibda mill-ħajja tagħhom
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Is-snin taż-żgħożija.** Aħseb x’kien fuq ir-radju, fil-ballijiet u fil-films meta kienu żgħar.
+- **Mumenti kbar.** Il-mużika fit-tieġ tagħhom, l-ewwel żfin, album favorit ta’ vjaġġ tal-familja.
+- **Fidi u kultura.** Innijiet, gospel, mużika sagra, jew kanzunetti fl-ewwel lingwa tagħhom.
+- **Xogħol u servizz.** Bands tal-marċ, kanzunetti tax-xogħol, jew mużika marbuta ma’ żmien fil-militar.
+- **Dak li l-familja tiftakar.** Staqsi lil ħuthom, lil uliedhom u lil ħbieb qodma x’kienu dejjem idoqqu jew jikkantaw.
 
-### Think in genres, not just songs
+### Aħseb f’ġeneri, mhux biss f’kanzunetti
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Jekk ma tkunx ċert minn fejn tibda, ipprova ftit minuti minn kull wieħed minn dawn u ara r-reazzjoni: big band u swing, doo-wop, Motown u soul, early rock and roll, country and western, bluegrass, gospel u innijiet, kanzunetti tal-Broadway, jazz standards, mużika Latina bħal boleros jew mariachi, polka, folk u klassika. Żomm dak li jġib tbissima jew sieq li tħabbat; itfa’ dak li jġib għabbeż.
 
-### Make it easy to play
+### Ħalli jkun faċli biex tidoqq
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Mingħajr reklami.** L-Alzheimer’s Association jwissi li r-reklami jistgħu joħolqu konfużjoni. Uża mużika mniżżla, CDs, rekords jew servizz mingħajr reklami.
+- **Apparat sempliċi wieħed.** Speaker b’buttuna kbira waħda, jew playlist salvata u lesta, sabiex ħadd ikun jista’ jibda.
+- **Żewġ listi qosra.** Lista kalma biex tikkalma u lista ħajja biex ittella’ l-burdata.
+- **Ittikkettja.** Ikteb isem il-persuna u “mużika favorita” fuq l-apparat, sabiex il-familja li tiġi fiż-żjara u l-persunal tal-kura jkunu jistgħu jużawh ukoll.
 
-## 15 music activities to try
+## 15-il attività tal-mużika biex tipprova
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Isma’ flimkien.** Oqgħod ġenb ġenb, u xejn ieħor ma jkun għaddej. Is-smigħ huwa attività sħiħa fiha nnifisha.
+2. **Ikanta flimkien.** Ibda tkanta int. Il-ħoss baxx jew it-tkellim tal-kliem bil-fomm jgħoddu.
+3. **Ħabbat jew iqabbad il-ritmu.** Ħabbat fuq l-irkupptejn, ħabbat fuq il-mejda jew uża tamburin żgħir tal-idejn jew shaker.
+4. **Żfin bil-mod.** Żommu idejn u ċaqlaq fil-kuċina, jew ifrex bil-qiegħda, b’driegħ jiċċaqlaq flimkien.
+5. **Żfin bix-xalpi.** Ħarrek xalpi ħfief fuq il-mużika, wieqfa jew bilqiegħda.
+6. **Titkellmu dwar il-mużika.** Stieden, mhux ittestja: “Dan jidher bħal sala tal-ballu. Għidli dwar il-ballijiet.” Qatt tistaqsi “Tiftakar din il-kanzunetta?”
+7. **Ilgħab album sħiħ.** Itfa’ rekord li għoġobhom, mill-bidu sal-aħħar, bil-kafè.
+8. **Ħares lejn il-kopertini tal-albums.** Il-kopertini tar-rekords tal-qadim huma tajbin biex titkellem dwar il-moda, il-karozzi u l-uċuħ.
+9. **Ara musical.** Musical jew konċert mfilmat mill-epoka tagħhom jagħmel filgħaxija tajba. Waqqaf għal mistrieħ.
+10. **Idoqq strument li jafu.** Pjanista jew kitarrist qabel jista’ jgawdi d-daqq sempliċi. Aktar tard, li jinqeda ftit noti flimkien jiswa.
+11. **Mużika waqt ix-xogħol.** Idoqq kanzunetti favoriti waqt li tqaxxar il-ħwejjeġ jew tqiegħed il-mejda.
+12. **Kanzunetta ta’ filgħodu.** Ibda kull jum bl-istess kanzunetta ferrieħa bħala parti mir-rutina.
+13. **Ikanta innijiet jew mużika sagra.** Idoqq mużika mit-tradizzjoni reliġjuża tagħhom u ikantaw flimkien.
+14. **Ingħaqad ma’ grupp tal-kant.** L-NHS jiddeskrivi l-gruppi tal-kant bħala tajbin għall-burdata u l-benessri. Staqsi lokalment għal korijiet li jifhmu d-dimenzja.
+15. **Mur għal mużika ħajja.** Konċert qasir tal-komunità jew band barra. Oqgħod qrib il-bieb u itlaq meta trid.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Għal attività ta’ logħba bil-kliem b’frażijiet familjari, ipprova [finish the saying](/games/finish-the-saying/), fejn tista’ dejjem turi t-tmiem.
 
-## Matching music to the moment
+## Taqbel il-mużika mal-mument
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+L-Alzheimer’s Association jissuġġerixxi li tuża l-mużika biex toħloq l-atmosfera li trid: mużika kalma għal ambjent kwiet, u kanzunetta ħajja mit-tfulija ta’ xi ħadd biex tgħolli l-ispirtu.
 
-| Moment | Try | Tip |
+| Mument | Ipprova | Parir |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Qawmien | Kanzunetta familjari u ferrieħa | L-istess kanzunetta kuljum issir sinjal ġentili |
+| Xogħlijiet | Favoriti ħajjin | Mużika tista’ tagħmel ix-xogħol jidher bħal kumpanija |
+| Ikliet | Mużika strumentali ħafifa | Żomm il-ħoss baxx biex ma jikkompetix mal-ikel |
+| Aħħar ta’ wara n-nofsinhar | Mużika kalma u familjari f’dawl tajjeb | Ara [l-inkwiet tal-aħħar tal-ġurnata](/caregiving/late-day-restlessness/) |
+| Ħin tal-irqad | Mużika bil-mod u ħafifa | Naqqas il-volum u d-dawl flimkien |
+| Stadju tardiv | L-aktar kanzunetti favoriti, bil-mod ħafna | Oqgħod qrib u żomm idejn |
 
-## Tips for a good experience
+## Parir għal esperjenza tajba
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Itfi storbju ieħor.** L-Alzheimer’s Association jissuġġerixxi li tagħlaq it-twieqi u l-bibien u titfi t-TV biex il-mużika tkun l-uniku ħoss.
+- **Żomm il-volum ħafif.** Il-mużika għandha tkun komda, mhux qawwija. Jekk il-persuna tuża għajnuniet għas-smigħ, iċċekkja li jkunu fuqha u jaħdmu; ara [is-smigħ](/brain-health/hearing/).
+- **Oqgħod attent għal assoċjazzjonijiet tristi.** Xi kanzunetti jġibu l-biża’, il-gwerra jew it-telf. Jekk kanzunetta tiddejjaqhom, faraġ u ibdilha.
+- **Ħalli jmexxu huma.** Jekk ikun possibbli, ħalli l-persuna tagħżel il-mużika, u aċċetta li tgħid le.
+- **Waqqaf kull meta trid.** Ħames minuti ta’ mużika huma attività tajba. Hekk huwa wkoll li titfi u toqgħod bil-kwiet.
 
-## What does the research say about music and dementia?
+## X’jgħid ir-riċerka dwar il-mużika u d-dimenzja?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+L-evidenza hija limitata. [Review ta’ Cochrane tal-2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) qies 30 studju ta’ sessjonijiet ta’ mużika strutturata, l-aktar bi gruppi f’djar tal-kura. Sab li dawn is-sessjonijiet probabbilment naqqsu ftit is-sintomi ta’ depressjoni meta mqabbla mal-kura tas-soltu, iżda ma sabux effett ċar fuq l-agitazzjoni, il-benessri, il-ħsieb u l-memorja, u l-ebda effetti li damu wara li s-sessjonijiet spiċċaw.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Aħna naqsmu l-mużika għax hija mod pjaċevoli, b’inqas pressjoni, biex tqattgħu ħin flimkien, u mhux bħala trattament. Għal setturi ta’ grupp, ara [attivitajiet ta’ grupp f’dar tal-kura](/activities/care-home-groups/); għall-użu tal-mużika flimkien ma’ ritratti u stejjer, ara [attivitajiet tat-tfakkir](/activities/reminiscence/).

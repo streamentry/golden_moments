@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා දුරකථන සහ වීඩියෝ ඇමතුම් ක්‍රියාකාරකම්"
+seoTitle: "ඩිමෙන්ශියාව සඳහා වීඩියෝ ඇමතුම් ක්‍රියාකාරකම්"
+description: "ඩිමෙන්ශියා ඇති කෙනෙකුගේ දුර පිහිටි පවුලට වීඩියෝ සහ දුරකථන ඇමතුම් ක්‍රියාකාරකම්: පෙන්වා කීම, කියවීම, ගායනය, තිර ක්‍රීඩා සහ උදව්කරුවන්ට ඉඟි."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  ඩිමෙන්ශියාව සමඟ ජීවත් වන කෙනෙකු සමඟ ඇමතුම් වඩාත් හොඳින් යන්නේ ඒවා කෙටි, නිතිපතා සහ එකට කරන්නට යමක් වටා සැකසූ විට ය. සතෙකු හෝ උද්‍යානය පෙන්වීම, ඡායාරූප බැලීම, මෘදුව කියවීම, ප්‍රිය ගීතයක් ගායනා කිරීම, හෝ බෙදාගත් තිරයක සන්සුන් ක්‍රීඩාවක් කරන්න. හැකි නම් දිනපතා එකම වේලාවේ ඇමතුම් ගන්න, එක වරකට එක් හඬක් පමණක් තබා, ස්ථානයේ සිටින කෙනෙකුගෙන් උදව් ඉල්ලන්න.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "ක්‍රියාකාරකමක් ඇමතුමට හැඩයක් දෙන අතර සංවාදයෙන් පීඩනය ඉවත් කරයි. බෙදා ගැනීමට එක සරල දෙයක් සැලසුම් කරන්න."
+  - "දිනපතා එකම දවසේ වේලාවේ කෙටි ඇමතුම් බොහෝ විට දිගු, ඉඳහිට ගන්නා ඇමතුම්වලට වඩා හොඳින් වැඩ කරයි."
+  - "එක වරකට එක් අයෙක් කතා කරයි. ශ්‍රවණ හානියක් ඇති විට, එකවර කතා කරන කණ්ඩායම් ඇමතුම් අනුගමනය කිරීම දුෂ්කරය."
+  - "ස්ථානයේ සිටින උදව්කරුවෙකුට උපාංගය සකස් කිරීමට, පුද්ගලයා අසල වාඩි වීමට, සහ ඕනෑම ක්‍රීඩාවක් හෝ ඡායාරූපයක් සඳහා “අත්” වීමට හැක."
+  - "අද ඇමතුම ක්‍රියා නොකරන්නේ නම්, එය උණුසුම්ව අවසන් කරන්න. හෙට නැවත උත්සාහ කිරීම හොඳය."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "ඩිමෙන්ශියාව ඇති කෙනෙකු සමඟ වීඩියෝ ඇමතුමකදී මට කුමක් කළ හැකිද?"
+    a: "එක සරල ක්‍රියාකාරකමක් සැලසුම් කරන්න: ඔබේ උද්‍යානය, සතා හෝ මුළුතැන්ගෙය පෙන්වන්න; පැරණි ඡායාරූප එකට බලන්න; කෙටි කවියක් හෝ ලිපියක් මෙහෙයින් කියවන්න; ඔවුන් ප්‍රිය කරන ගීතයක් ගායනා කරන්න; එකම වේලාවේ එකම වට්ටෝරුව උයන්න; හෝ බෙදා ගත් තිරයක සන්සුන් චිත්‍ර ක්‍රීඩාවක් කරන්න. ක්‍රියාකාරකම් ඇමතුමට අවධානයක් දෙන නිසා පුද්ගලයාට සම්පූර්ණ සංවාදය රැගෙන යාමට අවශ්‍ය නොවේ."
+  - q: "වීඩියෝ ඇමතුමක් කොපමණ කාලයක් විය යුතුද?"
+    a: "සාමාන්‍යයෙන් ඔබ සිතන්නට වඩා කෙටියි. පුද්ගලයා ඉක්මනින් වෙහෙසට පත් වන්නේ නම්, කිහිප මිනිත්තු උණුසුම්ව ප්‍රමාණවත් විය හැක. දිනපතා එකම දවසේ වේලාවේ ඇමතීම, එක් ඇමතුමක් කොපමණ කාලයක් පවතින්නේද යන්නට වඩා වැදගත් විය හැක."
+  - q: "වීඩියෝ ඇමතුම් නිසා ඔවුන් ව්‍යාකූල හෝ කලබල වුවහොත් කුමක් කළ යුතුද?"
+    a: "සමහරුන්ට තිරයක මුහුණක් ව්‍යාකූල ලෙස දැනේ. සරල දුරකථන ඇමතුමක්, උදව්කරුවා සන්සුන් මොහොතක වාදනය කළ හැකි වීඩියෝ පණිවිඩයක්, හෝ තැපෑලෙන් එවන කාඩ්පත් සහ ඡායාරූප උත්සාහ කරන්න. ඇමතුමක් නරක ලෙස ගියහොත්, එය කරුණාවන්තව අවසන් කර වෙනත් දිනක හෝ වෙනත් වේලාවක නැවත උත්සාහ කරන්න."
+  - q: "ඔවුන්ට දුරකථනය භාවිත කළ නොහැකි විට, මගේ අම්මාට වීඩියෝ ඇමතුමක් කිරීමට මම උදව් කරන්නේ කෙසේද?"
+    a: "පවුලේ සාමාජිකයෙකු, ගෘහ සහායකයෙක් හෝ රැකවරණ නිවසේ කාර්ය මණ්ඩල සාමාජිකයෙක් ඇමතුම ආරම්භ කර, උපාංගය අල්ලා හෝ තබා ගන්න ලෙස ඉල්ලන්න. රැකවරණ සැකසුම් බොහෝ විට පවුල්වලට වීඩියෝ ඇමතුම් සඳහා උදව් කරයි, එබැවින් ඔවුන් ඉදිරිපත් කරන දේ විමසන්න. ස්ථාවරයක ඇති, විශාල තිරයක් සහ ඇසෙන තරම් ශබ්දයක් ඇති ටැබ්ලට් එකක් හැමෝටම පහසු කරයි."
+  - q: "වීඩියෝ මගින් එකට ක්‍රීඩාවක් කළ හැකිද?"
+    a: "ඔව්. වඩාත් පහසු ක්‍රමය වන්නේ එක් අයෙක් වීඩියෝ යෙදුමේ තම තිරය බෙදා ගන්නා අතර, අනෙක් අය කුමන පින්තූරය තට්ටු කළ යුතුද කියා කියන්නයි. නැතහොත් ස්ථානයේ උදව්කරුවා එකම ක්‍රීඩාව ටැබ්ලට් එකක විවෘත කර, ඔබ කතා කරන අතරේ පුද්ගලයා වෙනුවට තට්ටු කළ හැක. කාල මානකයක් හෝ ලකුණු නොමැති ක්‍රීඩා තෝරන්න."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+දුර පිහිටි ඩිමෙන්ශියාව ඇති කෙනෙකුට ආදරය කිරීම අසරණ ලෙස දැනිය හැක. දුරකථන සහ වීඩියෝ ඇමතුම් අතනම ආලිංගනයක් ප්‍රතිස්ථාපනය නොකළත්, ඒවා නිසියාකාරව සකස් කළ විට සැබෑ සම්බන්ධතා මොහොත් ගෙන එයි. යතුර වන්නේ සාමාන්‍ය “ඔබ කොහොමද” සංවාදයක් කිරීම නවතා, ඒ වෙනුවට එකට බෙදා ගැනීමට සරල දෙයක් සැලසුම් කිරීමයි. මෙම පිටුවෙන් වීඩියෝ සහ දුරකථනයෙන් වැඩ කරන ක්‍රියාකාරකම්, ඇමතුම සකස් කරන ආකාරය සහ ස්ථානයේ සිටින පුද්ගලයා උදව් කළ හැකි ආකාරය ආවරණය වේ.
 
-## Why plan an activity for a call?
+## ක්‍රියාකාරකමක් ඇමතුමකට සැලසුම් කරන්නේ ඇයි?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+ක්‍රියාකාරකමක් ඇමතුමට හැඩයක් දෙයි. “ඔයා කොහොමද? අද ඔයා මොනවා කළාද?” යනු පුද්ගලයාට මතක තබා ගෙන වාර්තා කරන්නට ඉල්ලයි, එය දුෂ්කර හා ආතතිකර විය හැක. “බලන්න, තක්කාළි මිටි වෙලා” කියන එක ඔවුන්ගෙන් කිසිවක් ඉල්ලන්නේ නැත.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association සඳහන් කරන්නේ වීඩියෝ මගින් විශාල කණ්ඩායම් සමඟ සංවාද දුෂ්කර විය හැකි බවත්, සින්දු ගායනා කිරීම හෝ ඡායාරූප බෙදා ගැනීම වැනි දේවල් සමඟ [ඇමතුමට ව්‍යුහයක් එකතු කරන්න](https://www.alz.org/help-support/caregiving/holidays) යෝජනා කරන බවත්ය.
 
-## What activities work on a video call?
+## වීඩියෝ ඇමතුමකදී කුමන ක්‍රියාකාරකම් වැඩ කරයිද?
 
-### Show and tell
+### පෙන්වා කීම
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+ඔබේ ලෝකය ඔවුන් වෙත ගෙන යන්න. ඔබේ ගෙවත්ත වටා කැමරාව සෙමින් රවුම් කරන්න, සුනඛයා හඳුන්වා දෙන්න, ඔබ උයන දේ පෙන්වන්න, මුණුපුරියගේ චිත්‍රයක් ඔසවන්න, හෝ ජනේලයෙන් පිටත හිම දැකීමට දුරකථනය සිටුවන්න. ඔබ දකින දේ සරල වචනවලින් විස්තර කර, ඔවුන් ප්‍රතික්‍රියා කිරීමට විරාම තබන්න. ප්‍රශ්න අවශ්‍ය නැත.
 
-### Look at photos together
+### ඡායාරූප එකට බලන්න
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+පැරණි මුද්‍රිත ඡායාරූපයක් කැමරාව වෙත ඔසවන්න, හෝ ඔබේ තිරය බෙදා ගෙන කිහිපයක් එක බැගින් පෙන්වන්න. ඔබ දකින දේ ගැන කතා කරන්න: “ආච්චාගේ තොප්පිය බලන්න.” “ඔය කව්ද?” හෝ “ඔයාට මතකද?” කියා ඇසීම වළකින්න. පුද්ගලයා වෙනත් කෙනෙකුගේ නම වැරදියට කියන්නේ නම්, ඔවුන් සමඟ එකඟ වන්න. මෘදු ඉඟි සඳහා අපේ [මතකය අවදි කිරීමේ මාර්ගෝපදේශය](/activities/reminiscence/) බලන්න.
 
-### Read aloud
+### මෙහෙයින් කියවීම
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+කෙටි කවියක්, ගීතයක්, ප්‍රිය ළමා පොතක්, මෙන්ම එකම ඇමතුමේ සිටින මුණුපුරෙකුට, නෑයෙකුගේ ලිපියක්, හෝ ඔවුන් ප්‍රිය කළ පොතකින් පිටුවක් කියවන්න. මෙහෙයින් කියවීම පුද්ගලයාට පිළිතුරු දීමට අවශ්‍ය නොවන සන්සුන් දෙයක් ඇසීමට ලබා දෙයි.
 
-### Sing or listen to music together
+### එකට ගායනා කරන්න හෝ සංගීතය ඇසීම
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+ඔවුන් හොඳින් දන්නා ගීතයක් ගායනා කරන්න, හෝ ඔබේ පැත්තේ ප්‍රිය පටිගතයක් වාදනය කරන්න. බොහෝ දෙනාට කථා කරනවාට වඩා ගායනා කිරීම පහසුය. [සංගීත ක්‍රියාකාරකම් මාර්ගෝපදේශය](/activities/music/) බලන්න.
 
-### Cook or bake at the same time
+### එකට උයන්න හෝ පිහන්න
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association යෝජනා කරන්නේ විශේෂ වට්ටෝරුවක් එකට උයන්න හෝ පිහින්න වීඩියෝ ඇමතුමක් සැලසුම් කරන ලෙසයි. ඇමතුම දෙපැත්තේම මුළුතැන්ගෙය සකසන්න. ස්ථානයේ සිටින අය පිසින අතරේ කලවම් කිරීමට හෝ රස බැලීමට හැක, ඔබ ඔවුන්ගේ පැරණි වට්ටෝරු කාඩ්පත අනුගමනය කරමින්.
 
-### Watch something together
+### එකට බලන්න
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Alzheimer's Association එසේම ඔබ වෙනම නිවාසවලින් දුරකථන හෝ වීඩියෝ ඔස්සේ කථා කරමින් එකම වේලාවේ ප්‍රිය චිත්‍රපටියක් බලන ලෙසද යෝජනා කරයි. ඩිමෙන්ශියාව ඇති කෙනෙකුට, කෙටි ක්ලිප් එකක්, පැරණි රූපවාහිනී කථාංගයක් හෝ පන්දු ක්‍රීඩාවක් සම්පූර්ණ චිත්‍රපටියකට වඩා හොඳින් වැඩ කළ හැක.
 
-### Play a gentle game on a shared screen
+### බෙදා ගත් තිරයක සන්සුන් ක්‍රීඩාවක් කරන්න
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+බොහෝ වීඩියෝ ඇමතුම් යෙදුම් ඔබට තිරය බෙදා ගැනීමට ඉඩ දෙයි. ඔබ ක්‍රීඩාව විවෘත කර තට්ටු කරන්න; පුද්ගලයා ඔබට කුමන පින්තූරය තේරීමට ද එය යොමු කරන්නේද කියා කියයි. නැතහොත් ස්ථානයේ උදව්කරුවා එකම ක්‍රීඩාව ටැබ්ලට් එකක විවෘත කර, ඔබ කතා කරන අතරේ පුද්ගලයා වෙනුවට තට්ටු කළ හැක.
 
-Games that work well this way:
+මෙම ආකාරයෙන් හොඳින් වැඩ කරන ක්‍රීඩා:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[වාක්‍යය අවසන් කරන්න](/games/finish-the-saying/):** ඔබ හුරු වාක්‍යයක් කියවන අතර, ඔවුන් අවසානය කියයි, පසුව කතා කිරීමේ ඉඟියක් ලැබේ.
+- **[පින්තූර යුගල](/games/picture-pairs/):** විශාල පින්තූර සමඟ මෘදු ගැලපීමේ ක්‍රීඩාවක් එය දෘශ්‍යමානව තබා ගත හැක, කාල මානකයක් සහ ලකුණු නොමැත.
+- **[සංවාද කාඩ්පත්](/games/conversation-cards/):** එකට කතා කිරීමට චිත්‍රයක් සහ විවෘත ප්‍රේරණයක්.
+- **[ඡායාරූප යුගල](/games/photo-pairs/):** ඔබ ම ඔබේ උපාංගයේ තෝරන ලද ඡායාරූප වලින් සාදන ගැලපීමේ ක්‍රීඩාවකි. ඡායාරූප ඔබගේ බ්‍රවුසරය තුළ පවතින අතර, බෙදා ගත් තිරය හරහා පුද්ගලයා ඒවා දකී.
 
-### Recorded messages
+### පටිගත කළ පණිවිඩ
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+සජීවී ඇමතුම් දුෂ්කර වන විට, කෙටි වීඩියෝවක් පටිගත කරන්න: සුභ පැතීමක්, ගීතයක්, ඔබේ මිදුලේ ඇවිදීමක්. උදව්කරුවා සන්සුන් මොහොතක, පුද්ගලයා ප්‍රිය කරන තරම් වාර ගණනක් එය වාදනය කළ හැක. Alzheimer's Association සඳහන් කරන්නේ විශේෂ මොහොත් පටිගත කර යැවීම ගැන, උදාහරණයක් ලෙස දරුවන් තෑගි විවෘත කරන ආකාරය.
 
-## What about plain phone calls?
+## සරල දුරකථන ඇමතුම් ගැන කුමක් ද?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+දුරකථන ඇමතුම් තවමත් වැදගත්ය. Dementia Australia [එකම වේලාවේ දිනපතා ඇමතීම](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) සහ හදිසි නොවීම යෝජනා කරයි, මන්ද ඩිමෙන්ශියාව ඇති අයට සහභාගී වීමට කාලය ගත විය හැකි නිසාය. දුරකථනයෙන්:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- ඔබේ නම සහ සම්බන්ධතාවය වහාම කියන්න: “හායි තාත්තේ, මම ජෙනී, ඔයාගේ දුව.”
+- සෙමින්, කෙටි වාක්‍යවලින්, එක වරකට එක අදහසක් පමණක් කතා කරන්න.
+- ප්‍රශ්න ඇසීම වෙනුවට ප්‍රවෘත්ති දෙන්න: “ඊයේ රාත්‍රියේ මම ඔයාගේ මස් වට්ටෝරුව උයුවා.”
+- කෙටි කවියක් කියවන්න, හෝ ප්‍රිය ගීතයක පදයක් ගායනා කරන්න.
+- කෙටිව තබා උණුසුම් අවසානයකින් නවත්වන්න.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia එසේම සඳහන් කරන්නේ කතා කිරීම දුෂ්කර වන විට වීඩියෝ ඇමතුම් උදව් විය හැකි බවයි, මන්ද පුද්ගලයාට ඔබේ මුහුණ දැකිය හැකිය. දුරකථන ඇමතුම් ව්‍යාකූල නම්, වීඩියෝ උත්සාහ කරන්න, නැතහොත් ප්‍රතිවිරුද්ධව.
 
-## How do I set up a video call that works?
+## ක්‍රියා කරන වීඩියෝ ඇමතුමක් සකස් කරන්නේ කෙසේද?
 
-**Before the call:**
+**ඇමතුමට පෙර:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **නිතිපතා වේලාවක් තෝරන්න** පුද්ගලයා සාමාන්‍යයෙන් විවේකීව සිටින විට, සහ එයට ඇලී සිටින්න. චර්යාව උදව් කරයි.
+2. **ස්ථානයේ උදව්කරුවා සමඟ සම්බන්ධ වන්න.** පෙර දින පණිවිඩයක් ඔවුන්ට සැලසුම් කිරීමට උදව් කරයි.
+3. **උපාංගය පරීක්ෂා කරන්න.** ස්ටෑන්ඩ් එකක තබන ටැබ්ලට් එකක් අතේ තබා ගත් දුරකථනයකට වඩා පහසුය. එය චාජ් කර ඇති බවට, තිරය දීප්තිමත් බවට, සහ ශබ්දය ඇසෙන තරම් බවට වග බලා ගන්න. යෙදුම පිරිනමන්නේ නම් සහ පුද්ගලයා හොඳින් කියවන්නේ නම්, කැප්ෂන් ක්‍රියාත්මක කරන්න.
+4. **ක්‍රියාකාරකමක් සැලසුම් කර** සියල්ල සූදානම් කර තබන්න.
 
-**During the call:**
+**ඇමතුම අතරතුර:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **කැමරාවට ළඟ වාඩි වන්න** හොඳ ආලෝකයේ, ජනේලයට මුහුණලා, ඔබ පිටුපසින් ජනේලය නොතබා.
+- **සෑම වරකම ඔබම හඳුන්වා දෙන්න,** නම සහ සම්බන්ධතාවය සමඟ.
+- **එක වරකට එක් හඬක්.** Alzheimer's Association සඳහන් කරන්නේ ඩිමෙන්ශියාව ඇති අයට සහ ශ්‍රවණ හානියක් ඇති අයට එකවර කතා කිරීම දුෂ්කර බවයි. බොහෝ නෑයන් එකතු වුවහොත්, මාරුවෙන් මාරුවට කතා කරන්න, නැතහොත් දෙදෙනා හෝ තිදෙනා දක්වා සීමා කරන්න.
+- **එක වරකට එක් ප්‍රශ්නයක් ඇසීම.** Family Caregiver Alliance යෝජනා කරන්නේ [ඔව් හෝ නැත යන පිළිතුරු සහිත සරල ප්‍රශ්න](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) සහ හැකි විට තේරීම් පෙන්වන ලෙසයි.
+- **දිගු විරාම ඉඩ දෙන්න.** පිළිතුරක් සඳහා රැඳී සිටින්න. ඔවුන් සොයමින් සිටින්නේ නම් වචනයක් යෝජනා කිරීම හොඳය.
+- **ඔබේ මුහුණ සහ හඬ භාවිත කරන්න.** සිනාසෙන්න, හිස සලන්න, සහ හඬ උණුසුම්ව තබා ගන්න. ප්‍රකාශනය බොහෝ විට වචනවලට වඩා වැඩි දේ කියයි.
+- **නිවැරදි නොකරන්න.** පුද්ගලයා නිවැරදි නොවන දෙයක් කීවොත්, එය එසේම තබන්න.
 
-**Ending the call:**
+**ඇමතුම අවසන් කිරීම:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- පුද්ගලයා වෙහෙසට පත් වීමට පෙර, පුළුවන් නම් ප්‍රීතිමත් මොහොතකින් අවසන් කරන්න.
+- සෑම වරකම එකම සමු ගැනීම භාවිත කරන්න: “හෙට දහවල් ඔබට ඇමතුමක් ගන්නම්. ආදරෙයි.”
+- එය දිගු නොකරන්න.
 
-## Tips for the helper on site
+## ස්ථානයේ උදව්කරුවා සඳහා ඉඟි
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+ඇමතුමට උදව් කරන සැමියා, සහායක, සහෝදර සහෝදරිය හෝ කාර්ය මණ්ඩල සාමාජිකයෙක් වන්නේ නම්, ඔබ එය හැකි කරයි.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **නිශ්චල ස්ථානයක් සකසන්න.** රූපවාහිනිය නවතා දොර වසන්න.
+- **ඇමතුම ඔබම ආරම්භ කරන්න,** ඉන්පසු පුද්ගලයාට ටැබ්ලට් එක ස්ටෑන්ඩ් එකේ තබා දෙන්න හෝ ඇස් මට්ටමේ තබා ගන්න.
+- **ඔවුන් ළඟ වාඩි වන්න, ඉදිරිපිට නොවේ.** ඔබේ සමීපතාව සහනදායකය. අවශ්‍ය නම් මෘදුව ඉඟි දෙන්න: “බලන්න, ජෙනී.”
+- **අත් වන්න.** ඡායාරූප ඔසවන්න, ක්‍රීඩාව තට්ටු කරන්න, කාමරය පෙන්වීමට ටැබ්ලට් එක හරවන්න.
+- **වෙහෙසකම හෝ කලබලය සඳහා බලා සිටින්න,** සහ ඇමතුම අවසන් කිරීමට වේලාව එළඹ ඇති බව ඇමතුම්කරුට දන්වන්න.
+- **ඇමතුම්කරුට යමක් ක්‍රියා කළ බව කියන්න.** “ඇය බල්ලාට ආදරය කළා” යැයි කීම ඊළඟ ඇමතුම සැලසුම් කිරීමට උදව් කරයි.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA යෝජනා කරන්නේ දුර පිහිටි නෑයන්ට වැඩිහිටි පුද්ගලයෙකුට [ඔවුන්ගේ දුරකථනයේ විශේෂාංග ඉගෙන ගැනීමට](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) උදව් කළ හැකි බවයි, වීඩියෝ ඇමතුම් වැනි. පසුකාලීන අවධිවලදී, උදව්කරුවා සාමාන්‍යයෙන් උපාංගය සම්පූර්ණයෙන්ම හසුරුවා ගැනීමට සිදුවේ. එය හොඳය.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+පුද්ගලයා රැකවරණ නිවසක සිටී නම්, Alzheimer's Foundation of America යෝජනා කරන්නේ වීඩියෝ චැට් සඳහා පවුල්වලට උදව් කරන්නේද කියා පුහුණු ස්ථානයෙන් විමසන ලෙසයි. AFA එසේම සඳහන් කරන්නේ පවුල්වලට ඡායාරූප රැගෙන යාම සහ ආපසු ලබා ගැනීම, සහ ස්ථානයේ අනුමත දේවලට අනුකූලව, ප්‍රිය කුඩා රස වර්ග හෝ සුවපහසු දේවල් යැවීම ගැනත්ය.
 
-## What if the call doesn't go well?
+## ඇමතුම හොඳින් නොයන විට කුමක් කළ යුතුද?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+සමහර ඇමතුම් ව්‍යාකූල, පැතිකඩ නැති හෝ කලබලකාරී වනු ඇත. එය ඔබේ වරද නොවේ, සහ ඇමතුම් වටී නැත යන්න එහි අර්ථය නොවේ.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- පුද්ගලයා තිරය ගැන ව්‍යාකූල ලෙස පෙනුණොත්, දුරකථන ඇමතුමකට හෝ පටිගත කළ පණිවිඩයකට මාරු වන්න.
+- ඔවුන් කලබල වුවහොත්, හැඟීම පිළිගෙන, සහනදායී යමක් කියා, මෘදුව අවසන් කරන්න.
+- දවසේ එක් වේලාවක ඇමතුම් බොහෝ විට නරක ලෙස ගියහොත්, වෙනත් වේලාවක් උත්සාහ කරන්න.
+- ඔවුන් ඔබව වෙනත් කෙනෙකු ලෙස සිතුවොත්, කරුණාවන්තව ඒ සමඟ එකඟ වන්න.
 
-It is fine to end early. A short, warm call is a good outcome.
+කලින් අවසන් කිරීම හොඳය. කෙටි, උණුසුම් ඇමතුමක් හොඳ ප්‍රතිඵලයකි.
 
-## Between calls
+## ඇමතුම් අතරතුර
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+වෙනත් ආකාරවලින් ඉදිරියේ සිටින්න. Dementia Australia කාඩ්පත්, ඊමේල්, ඡායාරූප හෝ කුඩා තෑගි යැවීම යෝජනා කරයි. එක් විශාල ඡායාරූපයක් සහ කෙටි සටහනක් සහිත සතිපතා තැපැල් පතක් නැවත නැවත කියවිය හැකිය. උදව්කරුවාට තැපෑලෙන් යවන මුද්‍රිත [සංවාද කාඩ්පත්](/games/conversation-cards/) ඊළඟ ඇමතුමට සූදානම් මාතෘකාවක් ලබා දිය හැක.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+තාක්ෂණ උපාංග තේරීම සහ සැකසීම ගැන ඉඟි සඳහා, [ටැබ්ලට් සහ තිර](/caregiving/tablets-and-screens/) බලන්න. පුද්ගලිකව කාලය ගත කිරීම සඳහා, අපේ [බැලීමට යාම](/activities/visiting/) මාර්ගෝපදේශය බලන්න.

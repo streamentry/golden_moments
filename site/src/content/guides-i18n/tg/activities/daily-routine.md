@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Тартиботи мулоими рӯзона барои шахсе, ки бо деменсия зиндагӣ мекунад"
+seoTitle: "Тартиботи рӯзонаи деменсия: рӯзи намунавии чандир"
+description: "Рӯзи намунавии мулоим барои шахсе, ки бо деменсия зиндагӣ мекунад: хӯрок, фаъолият ва истироҳат дар як ритм, бо роҳнамо барои рӯзҳои душвор."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Тартиботи мулоими рӯзона бедоршавӣ, хӯрок, нигоҳубини шахсӣ ва хобидан дар вақти
+  тақрибан якхела нигоҳ медорад, фаъолияти асосиро ба вақти беҳтарини шахс мегузорад
+  ва фаъолиятро бо истироҳат мувозинат мекунад. Онро аз одатҳои умрбинии шахс бунёд
+  кунед, мулоим нигоҳ доред, рӯшноӣ ва ҳаракати ҳаррӯзаро дар бар гиред ва ҳар вақте
+  ки рӯз талаб кунад, нақшаро озодона иваз кунед.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Вақти доимӣ барои бедоршавӣ, хӯрок, нигоҳубин ва хобидан ба рӯз шакли шинос медиҳад."
+  - "Фаъолияти асосиро дар вақти беҳтарини рӯзи шахс гузоред, аксар вақт субҳ."
+  - "Ҳар дақиқаро пур накунед. Истироҳат ва вақти ором низ қисми тартибот ҳастанд."
+  - "Рӯшноӣ, ҳаракати ҳаррӯза ва худдорӣ аз хобҳои дароз ва кофеини дер метавонанд ба бесаброии охири рӯз кӯмак кунанд."
+  - "Тартибот роҳнамост, на қоида. Дар рӯзҳои душвор онро иваз кунед, кӯтоҳ кунед ё партоед."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Чаро тартибот барои шахси деменсия муфид аст?"
+    a: "Рӯзи пешбинишаванда қарорҳо ва ғайричашмдоштҳои камтар медиҳад, ки бисёре аз одамони бо деменсия зиндагӣ мекунад онро тасаллибахш меҳисобанд. Ассотсиатсияи Алсгеймер қайд мекунад, ки рӯзи нақшанак ба шумо кам вақт барои фикр кардан дар бораи он ки чӣ кор кунед ва бештар вақт барои чизҳое медиҳад, ки ҳардуятон дӯст медоред. Он инчунин ба ғамхорон дар танзими рӯзи худашон кӯмак мекунад."
+  - q: "Барои шахси деменсия ҷадвали рӯзонаи хуб чист?"
+    a: "Ягон ҷадвали ягонаи дуруст нест. Ҷадвали хуб бедоршавӣ, хӯрок ва хобидан дар вақти тақрибан якхела нигоҳ медорад, нигоҳубини шахсӣ ва фаъолияти асосиро вақте ки шахс беҳтарин аст мегузорад, вақти берун ё назди тиреза дар бар мегирад ва ҷои истироҳатро фароҳам меорад. Онро дар атрофи тарзи зиндагии шахс, ки ҳамеша доштааст, созед."
+  - q: "Оё шахси деменсия дар рӯз бояд бихобад?"
+    a: "Истироҳати кӯтоҳ метавонад кӯмак кунад, хусусан пас аз нисфирӯзӣ. Институти миллии пиронсолӣ тавсия медиҳад, ки хобҳои дароз ва хоб рафтан дар охири рӯзро маҳдуд кунед, зеро хаста ё нохуб истироҳат кардан метавонад бесаброии охири рӯзро зиёд кунад. Агар хоб мушкили воқеӣ бошад, бо духтури онҳо сӯҳбат кунед."
+  - q: "Агар онҳо тартиботро риоя карданро рад кунанд, чӣ кор кунам?"
+    a: "Ҳоло раҳо кунед ва баъдтар ё ба тарзи дигар бори дигар кӯшиш кунед. Рад кардан метавонад маънои онро дошта бошад, ки онҳо хаста, бемор, дардманд ё танҳо омода нестанд. Тартибот барои осон кардани рӯз ҳаст, пас онро мутобиқ кунед, на маҷбур."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Тартиботи мулоим ба рӯз шакли шинос медиҳад: бархостан, хӯрок, каме фаъолият, истироҳат ва хобидан тақрибан дар ҳамон вақтҳо. Ин қарор ва ғайричашмдоштро кам мекунад ва ба шумо нақшаро медиҳад барои лаҳзаҳое, ки дар ғайр ҳолат намедонистед чӣ кор кунед. Тартиботи зерин намуна аст, на қоида. Онро ҳамчун оғоз истифода баред ва сипас дар атрофи шахсе, ки ғамхорӣ мекунед, шакл диҳед.
 
-## Why does a daily routine help?
+## Чаро тартиботи рӯзона кӯмак мекунад?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Тартиби доимӣ кӯмак мекунад, зеро намунаҳои шинос аз намунаҳои нав пайравӣ карданашон осонтар аст. [Ассотсиатсияи Алсгеймер](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) мегӯяд, ки рӯзи нақшанак вақти камтар барои қарор кардан дар бораи он ки чӣ кор кунед ва вақти бештар барои фаъолиятҳои писандро медиҳад. Он қайд мекунад, ки вақтҳои доимии бедоршавӣ ва хобидан метавонанд ба мушкилоти хоб ва бесаброии охири рӯз кӯмак кунанд. [Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) тавсия медиҳад, ки шустушӯй, либос пӯшидан ва хӯрокхӯрӣ дар вақтҳои якхела ҳар рӯз ҳамчун қисми хонаи ором. [Иттифоқи ғамхорони оилавӣ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) низ ҳамон одатҳоро тавсия медиҳад.
 
-## A sample gentle day
+## Рӯзи намунавии мулоим
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Вақтҳо танҳо мисоланд. Тамоми рӯзро пештар ё дертар ҷобаҷо кунед, то ба ритми худи шахс мувофиқ шавад.
 
-| Time | What happens | Ideas | On a harder day |
+| Вақт | Чӣ мешавад | Ғояҳо | Дар рӯзи душвортар |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 субҳ | Бедор шудан, шустушӯй, либос пӯшидан | Ҳамон тартиб ҳар рӯз; либосро дар тартибе гузоред, ки пӯшида мешаванд | Нигоҳубинро содда нигоҳ доред; як куртаи тоза кифоя аст |
+| 8:45 субҳ | Ношта | Қаҳва ва рӯзнома, ки баланд хонда мешавад, ё радио | Якҷоя бехомӯш хӯред, бе фишор барои гап задан |
+| 9:30 субҳ | Фаъолияти асосӣ | Ҷомаро ҷамъ кардан, пухтан, боғдорӣ, сайри кӯтоҳ ё роҳ рафтан | Нусхаи кӯтоҳтар, ё бигзоред, ки тамошо кунанд, вақте ки шумо иҷро мекунед |
+| 10:30 субҳ | Вақти ором | Мусиқӣ, албоми аксҳо ё нишастан назди тиреза | Истироҳат дар курсии дӯстдоштаашон |
+| 11:00 субҳ | Кумак бо хӯроки нисфирӯзӣ | Сабзавот шустан, гузоштани дастархон | Шумо пухтед; онҳо ҳамсуҳбати шумо бошанд |
+| 12:00 нисфирӯзӣ | Хӯроки нисфирӯзӣ ва тоза кардан | Миз пок кардан, якчанд зарфро хушк кардан | Корҳоро гузоред |
+| 1:00 баъд аз зӯҳр | Истироҳати кӯтоҳ | Пойҳо боло, мусиқии мулоим | Ҳамин |
+| 2:00 баъд аз зӯҳр | Берун ё фаъол | Сайр, вақт дар айвон, обдиҳии растаниҳо, партофтани тӯп | Назди тирезаи офтобӣ нишинед |
+| 3:00 баъд аз зӯҳр | Иҷтимоӣ ё эҷодӣ | Боздид, зангзанӣ, [Ҷуфти расмҳо](/games/picture-pairs/), рангкорӣ, бозии корт | Нӯшокӣ ва ношта якҷоя |
+| 4:30 баъд аз зӯҳр | Вақти ором шудан | Пардаҳо пӯшида, чароғҳо фурӯзон, кори осуда монанди ҷамъ кардани дастрӯймолчаҳо | Мусиқии шинос, садои кам |
+| 5:30 бегоҳ | Хӯроки шом | Ба омехтан ё гузоштани дастархон кумак кунед | Хӯроки содда ва шинос |
+| 6:30 бегоҳ | Бегоҳи якҷоя | Бо десерт ёд кардан, бозии корт, филми дӯстдошта, молиши даст | Ҳамсуҳбатии ором |
+| 8:00 шаб | Тартиби хобидан | Ғусл ё шустушӯй, либоси хоб, мусиқии мулоим, чароғҳои кам | Ҳамаро кӯтоҳ кунед; аввал осоиштагӣ |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ин намуна ба шакли нақшаи намунавии Ассотсиатсияи Алсгеймер барои марҳилаҳои аввал ва миёна пайравӣ мекунад: аз нигоҳубини шахсӣ ва ношта то корҳои хонагӣ, сайрҳо, мусиқӣ, истироҳат ва боздидҳо, то хӯроки шом, ёдоварӣ ва омодагӣ ба хоб.
 
-## How do you build your own routine?
+## Чӣ тавр тартиботи худро бунёд кунем?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Аз тарзи зиндагии шахс, ки ҳамеша доштааст, оғоз кунед, на аз ҷадвал. Ассотсиатсияи Алсгеймер пеш аз нақшакашӣ андешидани ин чизҳоро тавсия медиҳад:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Майлҳо, нафратҳо, қувватҳо ва манфиатҳои онҳо.**
+- **Чӣ гуна рӯзи худро пеш мегузаронид.** Бедоре, ки ҳамеша саги худро гардиш мекард, бояд ҳанӯз субҳ гардиш кунад. Шахси шабкор шояд ҳеҷ гоҳ аз оғози соати 8 субҳ лаззат набарад.
+- **Вақти беҳтарини рӯзашон.** Шустушӯй, сайр ва фаъолияти асосиро ба он ҷо гузоред.
+- **Вақти кофӣ** барои хӯрок, шустушӯй ва либос пӯшидан, то ҳеҷ чиз шитоб накунад.
+- **Бедоршавӣ ва вақтҳои хобидани мунтазам.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ҳамон манбаъ пешниҳод мекунад, ки омезиши корҳои хонагӣ, хӯрок, нигоҳубини шахсӣ, фаъолияти эҷодӣ, фаъолияти ҷисмонӣ, вақти иҷтимоӣ, фаъолияти рӯҳонӣ ва лаҳзаҳои ногаҳонӣ, масалан вақте ки дӯст ногаҳон меояд, дар бар гирад.
 
-### Try it for a week, then adjust
+### Як ҳафта санҷед, сипас танзим кунед
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Ҳар рӯз ёддошти содда нигоҳ доред. Ассотсиатсияи Алсгеймер мегӯяд, ки фаъолиятҳои беҳтаринро ва сабабашонро пурсед, ки оё рӯзҳо зиёд ё кам шуғл доштанд ва оё нақшаҳои ногаҳонӣ писанд омаданд ё ташвиш оварданд. Чизеро, ки кор мекунад, нигоҳ доред ва чизеро, ки не, иваз кунед.
 
-### Make it visible
+### Онро намоён кунед
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Агар шахс ҳанӯз хонда метавонад, тахтаи сафед ё варақаи калонхатти нақшаи рӯз ором мекунад. Онро кӯтоҳ нигоҳ доред: «Ношта. Сайр бо Сара. Нисфирӯзӣ. Истироҳат.» Баъзеҳо бе донистани нақшаҳо дуртар беҳтар кор мекунанд; Иттифоқи ғамхорони оилавӣ пешниҳод мекунад, ки агар нақшаҳо ташвиш оваранд, онро то ҳамон лаҳза муҳокима накунед.
 
-## How to adapt the routine
+## Тартиботро чӣ гуна мутобиқ кардан
 
-### Leave room to breathe
+### Барои нафас кашидан ҷой гузоред
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ҳар дақиқаро пур накунед. Ассотсиатсияи Алсгеймер таъкид мекунад, ки шахс ба тавозуни фаъолият ва истироҳат ниёз дорад ва шояд истироҳати бештар лозим шавад. Агар ба назар хаста, парешон ё ранҷида бошанд, фаъолиятро иваз кунед ё истироҳат кунед.
 
-### Protect the late afternoon
+### Нимаи рӯзро муҳофизат кунед
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Бисёриҳо ҳангоми торафт камшавии рӯшноии рӯз бештар бесабр мешаванд. Институти миллии пиронсолӣ тавсия медиҳад, ки ҳар рӯз вақти берун ё назди тиреза барои рӯшноии офтоб бошад, фаъол будан бе нақшаи зиёд, худдорӣ аз кофеин ва спиртӣ дар охири рӯз ва худдорӣ аз хобҳои дароз дер дар рӯз. Баъзе оилаҳо ҳам мефаҳманд, ки пеш аз торикӣ пардаҳоро пӯшидан ва чароғҳоро фурӯзон кардан кӯмак мекунад. Ба [бесаброии охири рӯз](/caregiving/late-day-restlessness/) ва [хоб](/brain-health/sleep/) нигаред.
 
-### Change it as needs change
+### Тағйир диҳед, вақте ки ниёзҳо тағйир меёбанд
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Марҳилаи аввал:** нақшаро якҷоя созед. Шахс шояд ҷадвали хаттӣ бихоҳад, ки худаш идора мекунад.
+- **Марҳилаи миёна:** шумо бештар роҳбарӣ мекунед. Фаъолиятҳои кӯтоҳтар, истироҳати бештар ва корҳои зиёди шинос; ба [фаъолиятҳои марҳилаи миёна](/activities/middle-stage/) нигаред.
+- **Марҳилаи охир:** тартибот ба осоиштагӣ, хӯрок ва нигоҳубин марказ мешавад, бо лаҳзаҳои кӯтоҳи ҳиссӣ монанди мусиқӣ ё молиши даст дар байни онҳо; ба [фаъолиятҳои марҳилаи охир](/activities/late-stage/) нигаред.
 
-### Vary the activities, not the frame
+### Фаъолиятро иваз кунед, на чаҳорчӯбаро
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Хӯрок, истироҳат ва хобидан устувор нигоҳ доред ва фаъолиятро дар байни онҳо ҷобаҷо кунед. [Институти миллии пиронсолӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) пешниҳод мекунад, ки фаъолиятҳои гуногунро дар рӯзҳои гуногун санҷед, то ҷолиб бошанд. Шумо метавонед дар рӯзи душанбе бипазед, сешанбе боғ кунед ва чоршанбе аксҳоро бубинед. [101 ғояи фаъолият](/activities/ideas/) ва [корҳои хонагӣ](/activities/household-tasks/)-и мо метавонанд ҷойҳоро пур кунанд.
 
-## When the day goes sideways
+## Вақте ки рӯз аз нақша берун меравад
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Баъзе рӯзҳо ягон нақшаро пайравӣ намекунанд. Беморӣ, шаби бад, боздиди духтур ё тағйири ҳаво ҳамаро вайрон карда метавонад. Нақшаро партоед, асосҳоро нигоҳ доред (хӯрок, нӯшокӣ, истироҳат, осоиштагӣ) ва фардо дубора кӯшиш кунед. Агар шахс чизеро рад кунад, [вақте ки ӯ «не» мегӯяд](/caregiving/when-they-say-no/)-ро бинед. Таваққуфи оҳиста якҷоя, монанди [оромона нафас кашидан](/games/calm-breathing/), метавонад ба ҳардуятон барқарор шудан кӯмак кунад.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ғамхории худатон низ муҳим аст. Барои худатон танаффус гузоред ва аз оила ё хадамоти истироҳат хоҳиш кунед, ки вақти мунтазами истироҳататонро ба ӯҳда гиранд. Ба [худнигоҳдории ғамхор](/caregiving/caregiver-self-care/) нигаред.

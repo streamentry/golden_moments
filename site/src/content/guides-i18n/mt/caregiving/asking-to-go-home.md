@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Meta xi ħadd bid-demenza jibqa' jgħid li jrid imur lura d-dar"
+seoTitle: "Demenza u talba li jmur d-dar: x'għandek tgħid"
+description: "Għaliex persuna bid-demenza tgħid li trid tmur d-dar anke meta tkun fid-dar, x'għandek tgħid, attivitajiet kalmi, u kif iżżommha sigura jekk tipprova titlaq."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Meta xi ħadd bid-demenza jibqa' jgħid li jrid imur lura d-dar, “dar” spiss tfisser sensazzjoni ta' sigurtà jew post mill-passat, mhux bini. Targumentax li hi fid-dar. Irrikonoxxi s-sensazzjoni, aċċertaha li hi sigura, staqsi dwar id-dar, u mbagħad aqbeż bil-kbir għal ritratti, mużika, snack, mixja jew xogħol sempliċi. Iċċekkja għall-ġuħ, l-għatx, it-toilet jew l-uġigħ. Jekk jibda f'daqqa, ċempel it-tabib tagħha.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "“Irrid nmur lura d-dar” spiss tfisser “ma nħossni sigur u stabbli”, mhux talba għal indirizz."
+  - "L-argument jew il-provi li hi fid-dar normalment iżidu d-distress. Irrispondi għas-sensazzjoni minflok."
+  - "Staqsiha tgħidlek dwar id-dar, imbagħad offrilha ritratti, mużika, snack, mixja jew xogħol sempliċi."
+  - "Iċċekkja għal affarijiet li jistgħu jiġu aġġustati: ġuħ, għatx, it-toilet, uġigħ, sħana jew bard, storbju, għeja."
+  - "Jekk jiġri kull filgħaxija, jista' jkun sundowning; routine stabbli u dawl tajjeb jistgħu jgħinu."
+  - "Ippjana għas-sigurtà jekk tipprova titlaq, u ċempel it-tabib dwar kwalunkwe bidla f'daqqa."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Għaliex ommi bid-demenza tibqa' tgħid li trid tmur lura d-dar meta tkun fid-dar?"
+    a: "Id-demenza tista' tagħmel il-kmamar familjari jidhru barranin, u n-nies xi drabi jħossuhom fi żmien eqdem fil-ħajja. “Dar” tista' tfisser id-dar tat-tfulija jew sempliċiment is-sensazzjoni ta' sigurtà u kumdità. Twieġeb għal dik is-sensazzjoni normalment jaħdem aħjar milli tindika fejn tinsab."
+  - q: "X'għandi ngħid meta jitolbu jmorru d-dar?"
+    a: "Ipprova “Int sigura hawn, u jien qiegħed miegħek,” imbagħad “Għidli dwar id-dar tiegħek.” Isma', qsim ritratt jew kanzunetta, u offri xarba jew mixja qasira. Evita “Int fid-dar” mqal bħala korrezzjoni, li jista' jħossu bħal li qed tgħidilhom li għandhom raġun ħażin."
+  - q: "Hu tajjeb li ngħid li se morru d-dar aktar tard?"
+    a: "Il-familji u l-organizzazzjonijiet tad-demenza ma jaqblux dwar dan. Ħafna jibdew b'kumdità onesta u b'tmexxija lejn ħaġa oħra, u jirriservaw gidba ħafifa għal mumenti meta l-verità biss tikkawża distress li l-persuna ma tkunx tista' tipproċessa. Kemm jekk tagħżel, kun gentili u konsistenti, u qatt tiskerzax mill-perċezzjoni tagħha tar-realtà."
+  - q: "X'jiġri jekk jipprovaw jitilqu mid-dar?"
+    a: "Ibqa' kalm u imxi magħhom minflok ma timblokkahomx; mixja qasira ħafna drabi tikkalma x-xewqa. Ipprepara passi ta' sigurtà bil-quddiem, bħal brazzlett ta' identifikazzjoni, kampanelli tal-bieb u ritratt reċenti. Jekk il-persuna titlef, iċċekkja postijiet sikuri qrib filwaqt li tikkuntattja mingħajr dewmien il-pulizija jew is-servizzi tal-emerġenza lokali. Tistenniex numru fiss ta' minuti qabel tirrapporta."
+  - q: "Meta għandi nċempel it-tabib?"
+    a: "Ċempel it-tabib minnufih jekk it-talba jew il-konfużjoni tibda f'daqqa jew tmur ħafna agħar matul sigħat jew jiem, speċjalment bi sħana, mediċina ġdida jew sinjali ta' infezzjoni tal-passaġġ tal-awrina. Konfużjoni f'daqqa tista' tkun delirju, li teħtieġ kura urġenti. Ċempel in-numru tal-emerġenza lokali tiegħek jekk xi ħadd ikun f'periklu."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +45,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +65,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“Irrid nmur lura d-dar.” Għal ħafna familji dan hu wieħed mill-affarijiet l-aktar iebsa biex tisma', speċjalment meta l-persuna li tieħu ħsieb tagħha tkun qed tiqgħad fis-salott tagħha stess. Hu komuni, jista' jiġri f'kull stadju tad-demenza, u hemm modi kalmi u prattiċi kif tirrispondi. Din il-paġna tkopri x'spiss tfisser dik il-kelma, x'għandek tgħid, attivitajiet li jistgħu jgħinu f'dak il-mument, u kif tibqa' sigur.
 
-## Why does someone with dementia keep asking to go home?
+## Għaliex xi ħadd bid-demenza jibqa' jgħid li jrid imur lura d-dar?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Normalment, “dar” hi sensazzjoni aktar milli post. L-Alzheimer's Society tiddeskrivi dan bħala sens ta' kumdità u sigurtà, jew dar mill-passat, aktar milli d-dar innifisha. Id-demenza tista' tagħmel il-kmamar familjari jidhru barranin, u persuna tista' thossha li qed tgħix fi żmien eqdem fil-ħajja, meta d-dar kienet id-dar tat-tfulija jew il-post fejn trabbew it-tfal.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Il-kliem jista' wkoll ikun sinjal li xi ħaġa oħra ma tmurx tajjeb issa: għandhom il-ġuħ, l-għatx, ħtiġ tat-toilet, uġigħ, sħana jew bard żejjed, għeja, solitudni, biża', jew ikunu mħabbtin bl-istorbju. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) jelenka l-uġigħ, l-istorbju, is-solitudni, bidliet fir-routine u l-mediċini fost il-kawżi tal-aġitazzjoni.
 
-## What should I say when they ask to go home?
+## X'għandi ngħid meta jitolbu jmorru d-dar?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Irrispondi għas-sensazzjoni, mhux għall-kliem. Il-[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tagħti parir kontra li tipprova tikkonvinċi lill-persuna li hi fl-iżball: is-sentimenti tagħha huma reali, u għalhekk wieġeb bil-kumdità u bl-aċċertament l-ewwel, imbagħad mexxi lejn ħaġa oħra b'mod delikat.
 
-Phrases that often help:
+Frażijiet li spiss jgħinu:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Semmi s-sensazzjoni.** “Jidher li qed tinqsilek id-dar.”
+- **Aċċerta.** “Int sigura hawn, u jien qiegħed miegħek.” L-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) tissuġġerixxi l-kliem sempliċi “Int sigura hawn.”
+- **Istieden il-memorji.** “Għidli dwar id-dar tiegħek. Kif kienet il-kcina tiegħek?” Il-mistoqsijiet dwar il-passat il-bogħod normalment ikunu aktar komdi minn mistoqsijiet dwar illum.
+- **Offri xi ħaġa flimkien.** “Ejja nieħdu tazza te l-ewwel,” jew “Tgħinni b'dawn it-tuwieli?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Ton sħun u id wieħed fuq id-driegħ, jekk iħobbu t-tmiss, jistgħu jgħidu aktar mill-kliem.
 
-## What should I avoid?
+## X'għandi nevita?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Argument jew spjegazzjoni.** “Int tgħix hawn issa” jew “Din ilha d-dar tiegħek għal 40 sena” jitolbu minnhom jaċċettaw xi ħaġa li d-demenza tagħmilha diffiċli li jaċċettaw, u tista' thossha bħal li qed tingħad li għandhom raġun ħażin.
+- **Mistoqsijiet ta' eżami.** “Ma tiftakarx?” jew “X'inhu l-indirizz?” iżidu l-pressjoni.
+- **Tblokka l-bieb b'rabja.** Jekk jitilqu, ibqa' kalm u imxi magħhom. Mixja qasira flimkien ħafna drabi tikkalma x-xewqa.
+- **Taħtafx.** Aġħtihom ħin biex jitkellmu dwar id-dar qabel ma tibdel is-suġġett.
 
-## Activities that can help in the moment
+## Attivitajiet li jistgħu jgħinu f'dak il-mument
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Wara li tkun irrikonoxxejt is-sensazzjoni, attività kalma u familjari tista' tbiddel l-attenzjoni mingħajr ma tiċħadha.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Ħares lejn ritratti tad-dar u tal-familja.** Aqleb il-paġni u għid kummenti (“Ara dak il-ġnien”) minflok ma tagħmel mistoqsijiet. Fuq telefon jew tablet, [Pari ta' Ritratti](/games/photo-pairs/) iqallab ir-ritratti tal-familja tiegħek f'logħba ta' tqabbil sempliċi, u r-ritratti jibqgħu fuq l-apparat tiegħek.
+2. **Tkellmu dwar id-dar.** [Karti tal-Konversazzjoni](/games/conversation-cards/) joffru mistoqsijiet miftuħa dwar djar, kcejjen, ġirien u festi, mingħajr tweġibiet korretti.
+3. **Ilagħbu mużika li jħobbu.** In-National Institute on Aging jelenka mużika kalma fost il-modi biex jitnaqqas l-aġitazzjoni. Ara [l-attivitajiet tal-mużika](/activities/music/) tagħna.
+4. **Ieklu snack jew xorbu xi ħaġa.** Il-ġuħ u l-għatx jistgħu jidhru bħal inkwiet. Tazza te jew ħelwa favorita hi wkoll rit żgħir ta' kif tkun fid-dar.
+5. **Ħu mixja jew oqgħod barra.** Il-moviment u d-dawl tax-xemx jgħinu, speċjalment kmieni fil-ġurnata.
+6. **Agħti xogħol familjari.** It-tqassim tal-ħwejjeġ, it-tqassim tal-arznu jew l-ilma tal-pjanti jistgħu jerġgħu jagħtuhom is-sensazzjoni li qed imexxu dar.
+7. **Naqqas il-ħeffa ta' kollox.** Itfi t-TV, naqqas l-istorbju u d-dawl li jlemaħ, u ipprova waqfa ta' [nifs kalm](/games/calm-breathing/) flimkien.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Jekk idea waħda ma taħdimx, ipprova oħra aktar tard. Li tqgħod kwiet flimkien hu riżultat tajjeb ukoll.
 
-## Check for a cause you can fix
+## Iċċekkja għal kawża li tista' tiffissa
 
-| Check | What to try |
+| Kontroll | X'għandek tipprova |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Ġuħ jew għatx | Offri xarba u snack żgħir |
+| Ħtiġ tat-toilet | Offri li tmur it-toilet, b'mod kalm u mingħajr storbju |
+| Uġigħ jew inkwiet fiż-ġisem | Ħares għal sinjali bħal tbaqbiq, li jżommu parti tal-ġisem jew stitikezza, u għid lit-tabib tagħhom |
+| Sħana jew bard żejjed | Aġġusta ħwejjeġ jew it-temperatura tal-kamra |
+| Storbju jew ħafna nies | Mur f'kamra aktar kwieta, itfi t-TV |
+| Għeja jew ħafna stimolu | Irqad, iddawwal il-kamra, ipprova mużika ħafifa |
+| Filgħaxija bikrija | Ara t-taqsima dwar is-sundowning aktar 'l isfel |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+L-Alzheimer's Society tissuġġerixxi li żżomm ġurnal qasir ta' meta jsir it-talb, bħal qabel il-pasti, wara żjarat, jew meta jonqos id-dawl. Il-mudelli jagħmluha aktar faċli li tippjana bil-quddiem.
 
-## Is it okay to tell a white lie?
+## Hu tajjeb li ngħid gidba bajda?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Dan hu dibattitu reali, u familji twajba jaslu f'postijiet differenti. L-Alzheimer's Society tgħid li m'hemm l-ebda tweġiba waħda korretta: il-gidbiet jistgħu jagħmlu xi nies aktar suspettużi, allura iddeċiedi x'inhu l-aħjar għall-interessi tal-persuna u kun konsistenti. Fil-Penn Memory Center, il-viżjoni tad-direttur kollaboratur hi li l-verità hi l-bażi, u gidba ħafifa hi aċċettabbli biss meta l-persuna ma tkunx tista' tipproċessa verità partikolari, u li qatt m'għandek tiskerza mir-realtà tagħha.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Ħafna kuraturi jsibu li triq ta' nofs taħdem: kumdità onesta u tmexxija lejn ħaġa oħra l-ewwel (“Aħna nibqgħu hawn illejla, u jien hawn miegħek”), mingħajr ma targumenta dwar fejn hi d-dar.
 
-## What if it happens every afternoon or evening?
+## X'jiġri jekk jiġri kull filgħodu jew filgħaxija?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Inkwiet li jibda jew jisfaħ fil-qbil tax-xemx spiss jissejjaħ sundowning. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) jissuġġerixxi skeda stabbli, dawl tax-xemx u attività kuljum, inqas irqad tal-wara nofsinhar, u l-ebda kafeina jew alkoħol tard fil-ġurnata. It-tqabbid tad-dwal qabel ma jaqbad id-dlam jista' jgħin ukoll. Il-gwida tagħna dwar [attivitajiet kalmi fl-aħħar tal-ġurnata](/caregiving/late-day-restlessness/) fiha aktar.
 
-## Keeping them safe if they try to leave
+## Iż-żomm sigur jekk jipprovaw jitilqu
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+It-talba biex jmorru d-dar tista' twassal għal mixi bla skop. L-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) tistma li sitt persuni minn kull għaxra li jgħixu bid-demenza se jimxu bla skop mill-inqas darba.
 
-**Prepare ahead:**
+**Ipprepara bil-quddiem:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Brazzlett ta' identifikazzjoni jew mediku bl-isem tagħhom u n-numru tat-telefon tiegħek, u tikketti fil-ħwejjeġ. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) jsemmi l-programm MedicAlert u l-programm Safe and Found tal-Alzheimer's Association, li jista' jiswa flus.
+- Allarm jew kampanell tal-bieb, u serraturi mqiegħda għoli jew baxx. Qatt tagħlaq lill-persuna waħedha.
+- Ritratt reċenti mill-qrib, u lista ta' postijiet fejn setgħu jmorru, bħal dar jew post tax-xogħol preċedenti.
+- Għarraf lill-ġirien fdati, u agħtihom in-numru tiegħek.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Jekk jitilfu ruħhom:** iċċekkja postijiet sikuri qrib filwaqt li tikkuntattja mingħajr dewmien il-pulizija lokali jew is-servizzi tal-emerġenza. Tistenniex numru fiss ta' minuti qabel tirrapporta. Id-[artikolu tad-Dipartiment tal-Ġustizzja tal-Istati Uniti tal-2021 dwar investigazzjonijiet ta' persuni mitlufa](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) jgħid li l-aġenziji tal-infurzar tal-liġi m'għandhomx jeħtieġu perjodu ta' stennija stabbilit; jelenka wkoll is-sintomi simili għad-demenza bħala tħassib ta' riskju għoli. Il-proċeduri lokali tar-rappurtar jvarjaw. Għid lill-ewwel rispondenti li l-persuna għandha demenza, aqsam l-aħħar post magħruf u ritratt reċenti, u segwi d-direzzjonijiet tagħhom. Jekk hemm għajnuna oħra disponibbli, itlobhom jibqgħu qrib it-telefon. Tfittixx f'postijiet perikolużi waħdek.
 
-## When should I call a doctor?
+## Meta għandi nċempel it-tabib?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Ċempel it-tabib minnufih jekk it-talba jew il-konfużjoni tibda f'daqqa, jew tmur ħafna agħar matul sigħat jew jiem. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) jgħid li l-imġieba f'daqqa jew li tinbidel malajr, speċjalment wara infezzjoni jew bidla fil-mediċina, għandha tiġi ċċekkjata minnufih. Konfużjoni f'daqqa tista' tkun delirju, li [in-NHS](https://www.nhs.uk/symptoms/confusion/) tgħid li teħtieġ għajnuna urġenti; l-infezzjonijiet tal-passaġġ tal-awrina huma kawża komuni fl-anzjani.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Jgħin ukoll li ssemmi mudell stabbli fl-appuntament li jmiss, għax uġigħ, burdata baxxa, problemi tal-irqad jew effetti sekondarji ta' mediċini jistgħu jkunu kollha parti mill-kwadru.

@@ -1,32 +1,28 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "ວຽກເຮືອນເປັນກິດຈະກຳສຳລັບຜູ້ທີ່ມີສະໝອງເສື່ອມ"
+seoTitle: "ກິດຈະກຳໃນບ້ານສຳລັບສະໝອງເສື່ອມ: ວຽກປະຈຳວັນ"
+description: "ການພັບຜ້າ ການແຍກຂອງ ການຈັດໂຕະ ແລະການເຮັດອາຫານງ່າຍໆ ອາດເປັນກິດຈະກຳທີ່ມີຄວາມໝາຍສຳລັບຜູ້ທີ່ມີສະໝອງເສື່ອມ. ວິທີຕັ້ງຄ່າ ປັບ ແລະຮັກສາຄວາມປອດໄພ."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  ວຽກເຮືອນປະຈຳວັນ ເຊັ່ນພັບຜ້າເຊັດໂຕ ແຍກຖົງເທົ້າ ຈັດໂຕະອາຫານ ເຊັດໂຕະເຮັດວຽກ ຮົດນ້ຳຕົ້ນໄມ້ ແລະຊ່ວຍເຮັດອາຫານງ່າຍໆ ສາມາດໃຫ້ຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມມີວິທີຊ່ວຍທີ່ແທ້ຈິງ. ເລືອກວຽກທີ່ເຂົາຮູ້ຈັກ ແບ່ງເປັນຂັ້ນຕອນເທື່ອລະຂັ້ນ ເອົາສິ່ງແຫຼມ ຫຼືຮ້ອນອອກ ແລະໃຫ້ຄຸນຄ່າກັບການມີສ່ວນຮ່ວມ ຫຼາຍກວ່າການເຮັດ “ໃຫ້ຖືກ”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "ວຽກເຮືອນທີ່ຄຸ້ນເຄີຍຊ່ວຍໃຫ້ຜູ້ນັ້ນຮູ້ສຶກວ່າມີປະໂຫຍດ ແລະເປັນສ່ວນໜຶ່ງຂອງຄອບຄົວ ຊຶ່ງມັກສຳຄັນກວ່າວຽກຈະອອກມາດີແນວໃດ."
+  - "ແບ່ງແຕ່ລະວຽກເປັນຂັ້ນຕອນດຽວ ສະແດງໃຫ້ເຫັນ ແທນການບອກ ແລະເຂົ້າຊ່ວຍຂັ້ນຕອນທີ່ເລີ່ມຍາກຢ່າງງຽບໆ."
+  - "ເກັບມີດ ນ້ຳຢາທຳຄວາມສະອາດ ແລະເມັດຜົງຊັກຜ້າໃຫ້ພົ້ນມື ແລະໃສ່ຝາປິດປຸ່ມເຕົາ ຫຼືສະວິດຕັດອັດຕະໂນມັດກ່ອນປຸງອາຫານນຳກັນ."
+  - "ຜ້າທີ່ພັບແລ້ວບໍ່ຈຳເປັນຕ້ອງພັບໃໝ່ຕໍ່ໜ້າຜູ້ນັ້ນ. ຖ້າຕ້ອງເຮັດຄືນ ໃຫ້ເຮັດພາຍຫຼັງ ແລະບໍ່ໃຫ້ເຫັນ."
+  - "ຖ້າວຽກໃດເຮັດໃຫ້ອຸກອັ່ງ ໃຫ້ປ່ຽນໄປຂັ້ນຕອນທີ່ງ່າຍກວ່າ ລອງໃໝ່ເວລາອື່ນ ຫຼືພຽງແຕ່ນັ່ງນຳກັນ."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "ຜູ້ທີ່ມີສະໝອງເສື່ອມຍັງຊ່ວຍເຮັດວຽກເຮືອນຫຍັງໄດ້ແດ່?"
+    a: "ຫຼາຍຄົນຍັງພັບເສື້ອຜ້າ ຈັບຄູ່ຖົງເທົ້າ ແຍກຊ້ອນສ້ອມ ຈັດໂຕະ ເຊັດໂຕະ ປັດຝຸ່ນ ກວາດ ຮົດນ້ຳຕົ້ນໄມ້ ຫຼືກວນແປ້ງໃນຖ້ວຍໄດ້. ເລືອກວຽກທີ່ຜູ້ນັ້ນເຄີຍເຮັດໃນອະດີດ ແລ້ວຈັບຄູ່ກັບສິ່ງທີ່ເຂົາເຮັດໄດ້ດຽວນີ້. ໃນໄລຍະທ້າຍ ການເຄື່ອນໄຫວຊ້ຳໆອັນດຽວ ເຊັ່ນເກັບໃຫ້ຮຽບຜ້າເຊັດປາກ ອາດພຽງພໍແລ້ວ."
+  - q: "ປອດໄພບໍທີ່ຜູ້ທີ່ມີສະໝອງເສື່ອມຈະຊ່ວຍໃນຄົວ?"
+    a: "ອາດປອດໄພ ຖ້າມີການດູແລໃກ້ຊິດ ແລະຈັດຕັ້ງໃຫ້ຖືກຕ້ອງ. ເກັບມີດ ນ້ຳຢາທຳຄວາມສະອາດ ແລະທຸກຢ່າງທີ່ຮ້ອນໃຫ້ພົ້ນມື ໃຊ້ຝາປິດປຸ່ມເຕົາ ຫຼືສະວິດຕັດອັດຕະໂນມັດ ແລະໃຫ້ວຽກທີ່ປອດໄພແກ່ຜູ້ນັ້ນ ເຊັ່ນລ້າງຜັກ ກວນ ຫຼືວາງຈານ. ຢ່າປ່ອຍໃຫ້ເຂົາຢູ່ຄົນດຽວໃນຂະນະທີ່ເຕົາເປີດຢູ່."
+  - q: "ຖ້າເຂົາພັບຜິດ ຫຼືເຮັດເລະເທະຈະເຮັດແນວໃດ?"
+    a: "ປ່ອຍໄວ້. ເປົ້າໝາຍແມ່ນເວລາຮ່ວມກັນ ແລະຄວາມຮູ້ສຶກວ່າມີປະໂຫຍດ ບໍ່ແມ່ນຜົນລັບທີ່ສົມບູນແບບ. ຖ້າມີບາງຢ່າງຕ້ອງເຮັດຄືນແທ້ໆ ໃຫ້ລໍຖ້າຈົນພາຍຫຼັງ ແລະເຮັດຕອນທີ່ຜູ້ນັ້ນບໍ່ເບິ່ງ ເພື່ອບໍ່ໃຫ້ເຂົາຮູ້ສຶກວ່າຖືກແກ້ໄຂ."
+  - q: "ຖ້າເຂົາບໍ່ຍອມຊ່ວຍຈະເຮັດແນວໃດ?"
+    a: "ການປະຕິເສດອາດໝາຍຄວາມວ່າວຽກເບິ່ງຍາກ ສັບສົນ ຫຼືເມື່ອຍເກີນໄປໃນຕອນນີ້. ຢ່າກົດດັນ. ລອງເວີຊັນທີ່ງ່າຍກວ່າ ເຊີນໃຫ້ມານັ່ງເປັນເພື່ອນທ່ານແທນ ຫຼືຖາມອີກເທື່ອໃນເວລາທີ່ດີກວ່າຂອງມື້."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +41,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+ຫຼາຍຄົນທີ່ມີພາວະສະໝອງເສື່ອມເຄີຍດູແລເຮືອນ ລ້ຽງດູຄອບຄົວ ຫຼືຈັດລະບຽບບ່ອນເຮັດວຽກມາຫຼາຍທົດສະວັດ. ການຖືກຂໍໃຫ້ຊ່ວຍວຽກເຮືອນທີ່ແທ້ຈິງ ສາມາດບອກເຂົາໄດ້ວ່າ “ເຈົ້າຍັງເປັນສ່ວນໜຶ່ງຂອງເຮືອນນີ້” ໃນແບບທີ່ກິດຈະກຳອື່ນໜ້ອຍອັນຈະເຮັດໄດ້. ໜ້ານີ້ອະທິບາຍວ່າວຽກໃດມັກໃຊ້ໄດ້ດີ ຈະຕັ້ງຄ່າແນວໃດ ຈະປັບເມື່ອສິ່ງຕ່າງໆປ່ຽນໄປແນວໃດ ແລະຈະຮັກສາຄົວ ແລະຫ້ອງຊັກຜ້າໃຫ້ປອດໄພແນວໃດ.
 
-## Why do everyday chores work well as activities?
+## ເປັນຫຍັງວຽກເຮືອນປະຈຳວັນຈຶ່ງໃຊ້ໄດ້ດີເປັນກິດຈະກຳ?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+ວຽກເຮືອນໃຊ້ໄດ້ເພາະຄຸ້ນເຄີຍ ແລະມີຈຸດປະສົງທີ່ຊັດເຈນ. National Institute on Aging ລະບຸການລ້າງຈານ ການຈັດໂຕະ ການກວາດ ການປັດຝຸ່ນ ການຈັດຈົດໝາຍ ການພັບເສື້ອຜ້າ ແລະການແຍກຂີ້ເຫຍື້ອລີໄຊເກິນ ໄວ້ໃນ[ກິດຈະກຳປະຈຳວັນທີ່ຜູ້ທີ່ເປັນ Alzheimer's ອາດເພີດເພີນ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association ໃຫ້ຂໍ້ສັງເກດວ່າວຽກເຊັ່ນຈັດໂຕະອາຫານ ສາມາດຊ່ວຍໃຫ້ຜູ້ນັ້ນ [ຮູ້ສຶກວ່າເປັນສ່ວນສຳຄັນຂອງຄອບຄົວ](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+ວຽກເຮືອນຍັງມີເຫດຜົນໃນຕົວເອງທີ່ຈະເລີ່ມ. “ຊ່ວຍຂ້ອຍເອົາຜ້າເຊັດໂຕພວກນີ້ໜ້ອຍໄດ້ບໍ?” ງ່າຍກວ່າທີ່ຈະຕອບຮັບກວ່າ “ຢາກເຮັດກິດຈະກຳບໍ?”
 
-## Which household tasks are good to try?
+## ວຽກເຮືອນແບບໃດທີ່ດີທີ່ຈະລອງ?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+ເລີ່ມດ້ວຍວຽກທີ່ຜູ້ນັ້ນເຄີຍເຮັດໃນອະດີດ ແລ້ວຈັບຄູ່ກັບສິ່ງທີ່ເຂົາເຮັດໄດ້ໃນມື້ນີ້.
 
-### Laundry and linens
+### ຜ້າ ແລະຜ້າປູ
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **ພັບຜ້າເຊັດໂຕ ແລະຜ້າເຊັດໜ້າ.** ສົ່ງກະຕ່າຂອງສິ່ງນ້ອຍໆ ແບນໆໃຫ້ເຂົາ. ຜ້າເຊັດໂຕແມ່ນໃຫ້ອະໄພໄດ້: ບໍ່ມີວິທີພັບທີ່ຜິດ.
+- **ຈັບຄູ່ຖົງເທົ້າ.** ວາງກອງປົນກັນໄວ້ເທິງໂຕະ. ຖ້າຈັບຄູ່ຍາກ ໃຫ້ໃຊ້ແຕ່ສອງສາມສີທີ່ແຕກຕ່າງກັນຫຼາຍ.
+- **ລີດໃຫ້ຮຽບ ແລະຊ້ອນ.** ຜ້າເຊັດປາກ ປອກໝອນ ຫຼືຜ້າເຊັດຈານ ສາມາດລີດໃຫ້ແບນ ແລ້ວຊ້ອນ. ວິທີນີ້ໃຊ້ໄດ້ດີໃນພາຍຫຼັງ ເມື່ອການພັບກາຍເປັນຂັ້ນຕອນຫຼາຍເກີນໄປ.
 
-### Table and kitchen
+### ໂຕະ ແລະຄົວ
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **ຈັດໂຕະ.** ວາງການຕັ້ງໂຕະໜຶ່ງຊຸດເປັນຕົວຢ່າງ ແລ້ວໃຫ້ຜູ້ນັ້ນເຮັດຕາມ. ຖ້າຍາກເກີນໄປ ໃຫ້ສົ່ງເທື່ອລະຢ່າງ: “ນີ້ແມ່ນສ້ອມສຳລັບແຕ່ລະຈານ.”
+- **ແຍກຊ້ອນສ້ອມ.** ປະສົມສ້ອມ ຊ້ອນ ແລະມີດຕັດເນີຍທີ່ສະອາດໃນຖັງ ແລ້ວແຍກໃສ່ຖາດທີ່ມີຊ່ອງ. ເອົາມີດແຫຼມອອກ.
+- **ເຊັດຈານ.** ຈານພລາສຕິກ ຫຼືຈານທີ່ບໍ່ແຕກ ແລະຜ້າເຊັດນຸ່ມ ເຮັດໃຫ້ນີ້ເປັນວຽກທີ່ປອດໄພ.
+- **ເຊັດໂຕະ ຫຼືໜ້າເຮັດວຽກ.** ຜ້າຊຸ່ມ ແລະໜ້າທີ່ສະອາດ. Alzheimer's Association ແນະນຳໃຫ້ສົ່ງຜ້າໃຫ້ຖ້າຜູ້ນັ້ນກຳລັງຖູໂຕະດ້ວຍມືຢູ່ແລ້ວ ເພື່ອປ່ຽນການເຄື່ອນໄຫວທີ່ບໍ່ສະຫງົບ ໃຫ້ເປັນສິ່ງທີ່ມີປະໂຫຍດ.
 
-### Around the house
+### ອ້ອມເຮືອນ
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **ປັດຝຸ່ນ.** ໄມ້ປັດຝຸ່ນນຸ້ມ ແລະໜ້າແຂງສອງສາມຢ່າງ ເຊັ່ນໂຕະກາເຟ ຫຼືຊັ້ນໜັງສື.
+- **ຈັດຈົດໝາຍ.** ໃຫ້ຈົດໝາຍຂີ້ເຫຍື້ອ ແລະແຄັດຕາລັອກແກ່ເຂົາເພື່ອຈັດເປັນກອງ: ເກັບໄວ້ ລີໄຊເກິນ ເປີດພາຍຫຼັງ. ໃບເກັບເງິນ ແລະເຊັກທີ່ແທ້ຈິງໃຫ້ເກັບໄວ້ບ່ອນອື່ນ.
+- **ແຍກຂີ້ເຫຍື້ອລີໄຊເກິນ.** ແຍກກະປ໋ອງ ຂວດ ແລະເຈ້ຍທີ່ສະອາດໃສ່ຖັງແຍກຕ່າງກັນ.
+- **ກວາດ.** ໄມ້ກວາດນ້ອຍເທິງລານ ຫຼືພື້ນຄົວ ຖ້າການຮັກສາສົມດຸນຍັງໝັ້ນຄົງ.
+- **ຮົດນ້ຳຕົ້ນໄມ້.** ກະປ໋ອງນ້ຳນ້ອຍທີ່ເບົາ ແລະຕົ້ນໄມ້ບໍ່ຫຼາຍໃນບ່ອນທີ່ເອື້ອມເຖິງງ່າຍ.
 
-### Simple cooking with supervision
+### ການເຮັດອາຫານງ່າຍໆພາຍໃຕ້ການດູແລ
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+ການປຸງອາຫານສາມາດນຳຄວາມຮູ້ສຶກທີ່ດີ ແລະສຸກໃຈກັບມາ. NIA ແນະນຳໃຫ້ຜູ້ນັ້ນເກັບວັດຖຸດິບ ຕວງ ປະສົມ ແລະເທ ຫຼືພຽງແຕ່ບອກຄົນອື່ນວ່າຈະເຮັດສູດທີ່ມັກແນວໃດ. ວຽກທີ່ດີ ເຊັ່ນ:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- ລ້າງຜັກ ຫຼືໝາກໄມ້
+- ກວນແປ້ງ ຫຼືສະຫຼັດເຢັນ
+- ຈີກຜັກກາດ
+- ທາເນີຍໃສ່ເຂົ້າປັງດ້ວຍມີດທີ່ບໍ່ຄົມ
+- ວາງແປ້ງຄຸກກີ້ໃສ່ຖາດ
+- ຈັດໜ້າປິດໃສ່ພິດຊ່າ
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+ຖ້າການຕວງກາຍເປັນເລື່ອງຍາກ Alzheimer's Association ແນະນຳໃຫ້ທ່ານຕວງໃຫ້ສຳເລັດ ແລ້ວສົ່ງຂັ້ນຕອນອື່ນໃຫ້ເຂົາ ເຊັ່ນກວນ.
 
-## How do I set up a chore so it goes well?
+## ຂ້ອຍຈະຕັ້ງວຽກໃຫ້ເຮັດໄດ້ດີແນວໃດ?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **ເລືອກເວລາທີ່ເໝາະ.** ເລືອກຊ່ວງຂອງມື້ທີ່ຜູ້ນັ້ນມັກພັກຜ່ອນ ແລະສະຫງົບ. ສຳລັບຫຼາຍຄົນນີ້ແມ່ນຕອນເຊົ້າ.
+2. **ເກັບພື້ນທີ່ໃຫ້ໂລ່ງ.** ວຽກໜຶ່ງຢ່າງ ພື້ນຜິວໜຶ່ງ ບໍ່ມີສິ່ງອື່ນເທິງໂຕະ.
+3. **ເຊີນ ຢ່າມອບໝາຍ.** “ຂ້ອຍຕ້ອງການມືຊ່ວຍກັບອັນນີ້ໜ້ອຍໜຶ່ງ” ໄດ້ຜົນດີກວ່າ “ເຖິງເວລາພັບຜ້າແລ້ວ.”
+4. **ສະແດງອັນທຳອິດ.** ພັບຜ້າເຊັດໂຕໜຶ່ງຜືນຊ້າໆ ແລ້ວສົ່ງຜືນຕໍ່ໄປ. ການສະແດງໃຫ້ເຫັນຊັດກວ່າການອະທິບາຍ.
+5. **ໃຫ້ເທື່ອລະຂັ້ນຕອນ.** ຄຳແນະນຳຫຼາຍເກີນໄປພ້ອມກັນອາດເຮັດໃຫ້ລົ້ນເກີນ. ລໍຖ້າໃຫ້ຂັ້ນຕອນໜຶ່ງສຳເລັດກ່ອນຈະບອກຂັ້ນຕໍ່ໄປ.
+6. **ເຮັດວຽກຄຽງຂ້າງກັນ.** ເຮັດວຽກດຽວກັນຄຽງກັນຮູ້ສຶກຄືການມີເພື່ອນ ບໍ່ແມ່ນການເບິ່ງແຍງ.
+7. **ລົມກ່ຽວກັບວຽກ ບໍ່ແມ່ນຜົນ.** “ອັນນີ້ນຸ່ມຫຼາຍເລີຍ” ຫຼື “ເລົ່າໃຫ້ຟັງໜ້ອຍວ່າເຈົ້າເຄີຍຈັດຕູ້ຜ້າປູແນວໃດ” ເຊີນໃຫ້ສົນທະນາ ໂດຍບໍ່ໄດ້ທົດສອບໃຜ.
 
-## How do I adapt chores as abilities change?
+## ຂ້ອຍຈະປັບວຽກເມື່ອຄວາມສາມາດປ່ຽນໄປແນວໃດ?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+ຄວາມສາມາດປ່ຽນໄປຕາມເວລາ ແລະບາງເທື່ອກໍປ່ຽນແຕ່ລະມື້. Alzheimer's Association ແນະນຳໃຫ້ຍ້າຍໄປສູ່ວຽກທີ່ງ່າຍກວ່າ ແລະຊ້ຳໆຫຼາຍຂຶ້ນ ເມື່ອໂລກດຳເນີນໄປ.
 
-| If this has become hard | Try this instead |
+| ຖ້າສິ່ງນີ້ເລີ່ມຍາກ | ລອງສິ່ງນີ້ແທນ |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| ພັບຜ້າປູໃຫຍ່ | ພັບຜ້າເຊັດໜ້າ ຫຼືລີດຜ້າເຊັດປາກໃຫ້ແບນ |
+| ຈັດໂຕະເຕັມຊຸດ | ວາງຜ້າເຊັດປາກໜຶ່ງຜືນໃສ່ແຕ່ລະບ່ອນນັ່ງ |
+| ຈັດຈົດໝາຍເປັນປະເພດ | ຊ້ອນຊອງເປັນກອງດຽວ |
+| ເຮັດຕາມສູດອາຫານ | ກວນ ຫຼືເບິ່ງ ແລະຊີມໃນຂະນະທີ່ທ່ານປຸງ |
+| ກວາດທັງພື້ນ | ເຊັດໂຕະນ້ອຍໜຶ່ງໂຕະ |
+| ເຮັດວຽກເລີຍ | ນັ່ງກັບທ່ານ ແລະເປັນເພື່ອນໃນຂະນະທີ່ເຮັດ |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+ການເບິ່ງກໍນັບ. NIA ໃຫ້ຂໍ້ສັງເກດວ່າບາງຄົນພຽງແຕ່ເພີດເພີນກັບການເບິ່ງ ແລະນັ້ນເປັນວິທີທີ່ດີໃນການມີສ່ວນຮ່ວມ.
 
-## How do I keep household tasks safe?
+## ຂ້ອຍຈະຮັກສາວຽກເຮືອນໃຫ້ປອດໄພແນວໃດ?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+ຄວາມປອດໄພມາກ່ອນ ໂດຍສະເພາະໃນຄົວ. [ຄຳແນະນຳດ້ານຄວາມປອດໄພໃນບ້ານສຳລັບຜູ້ດູແລ Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ຂອງ NIA ລວມເຖິງ:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- ລັອກ ຫຼືເອົານ້ຳຢາທຳຄວາມສະອາດອອກ ລວມທັງເມັດຜົງຊັກຜ້າ ທີ່ອາດເບິ່ງຄືລູກກວາດ.
+- ເກັບມີດ ກັນຕັດ ແລະເຄື່ອງມືໄຟຟ້າໄວ້ໃນບ່ອນທີ່ລັອກ.
+- ເພີ່ມປຸ່ມຄວາມປອດໄພ ແລະສະວິດຕັດອັດຕະໂນມັດໃສ່ເຕົາ.
+- ຕິດປ້າຍ “ຢຸດ” ຫຼື “ຮ້ອນຫຼາຍ” ໃກ້ເຕົາອົບ ເຄື່ອງປີ້ງຂະໜົມປັງ ແລະເຕົາລີດ ໃນບ່ອນທີ່ບໍ່ເຮັດໃຫ້ໄຟໄໝ້ໄດ້.
+- ຕັ້ງເຄື່ອງເຮັດນ້ຳຮ້ອນໃຫ້ຢູ່ທີ່ 120°F ເພື່ອຫຼຸດຄວາມສ່ຽງການລວກ.
+- ເອົາໝາກໄມ້ປອມ ແລະແມ່ເຫຼັກຮູບອາຫານອອກ ເພາະອາດເບິ່ງຄືກິນໄດ້.
 
-A few more practical habits help:
+ນິໄສປະຕິບັດຕື່ມອີກບາງຢ່າງກໍຊ່ວຍໄດ້:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- ຢູ່ໃນຫ້ອງທຸກຄັ້ງທີ່ເຕົາ ເຕົາອົບ ຫຼືເຄື່ອງມືແຫຼມກຳລັງໃຊ້ງານ.
+- ໃຊ້ຈານທີ່ບໍ່ແຕກສຳລັບເຊັດ ແລະຈັດໂຕະ.
+- ຮັກສາພື້ນໃຫ້ແຫ້ງ ແລະໂລ່ງໃນຂະນະທີ່ກວາດ ຫຼືຖູ.
+- ຖ້າຜູ້ນັ້ນເຄີຍໃຊ້ເຄື່ອງມືມາກ່ອນ Alzheimer's Association ແນະນຳໃຫ້ເອົາສິ່ງອັນຕະລາຍອອກຈາກຫ້ອງເຮັດວຽກ ເພື່ອໃຫ້ວຽກທີ່ປອດໄພ ເຊັ່ນຂັດທ່ອນໄມ້ ຍັງເພີດເພີນໄດ້.
 
-## What if they do it "wrong"?
+## ຖ້າເຂົາເຮັດ “ຜິດ” ຈະເຮັດແນວໃດ?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+ປ່ອຍໄວ້. ຜ້າເຊັດໂຕທີ່ພັບເປັນສາມສ່ວນແທນທີ່ຈະເປັນສອງສ່ວນ ກໍຍັງເປັນຜ້າທີ່ພັບແລ້ວ. Alzheimer's Association ເວົ້າໄວ້ຊັດເຈນວ່າສິ່ງສຳຄັນແມ່ນການໃຊ້ເວລານຳກັນ ແລະຜູ້ນັ້ນຮູ້ສຶກວ່າມີປະໂຫຍດ ບໍ່ແມ່ນຜ້າຖືກພັບຢ່າງຖືກຕ້ອງຫຼືບໍ່. ຖ້າມີບາງຢ່າງຕ້ອງເຮັດຄືນແທ້ໆ ໃຫ້ລໍຖ້າພາຍຫຼັງ ແລະເຮັດໃນບ່ອນທີ່ເຂົາບໍ່ເຫັນ.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+ການແກ້ໄຂໃນເວລານັ້ນເອງສາມາດເຮັດໃຫ້ວຽກທີ່ສຸກໃຈກາຍເປັນການເຕືອນເຖິງສິ່ງທີ່ສູນເສຍໄປ. “ຂອບໃຈ ອັນນີ້ຊ່ວຍໄດ້ຫຼາຍເລີຍ” ເກືອບທຸກຄັ້ງເປັນສິ່ງທີ່ຄວນເວົ້າ.
 
-## When should we stop?
+## ເມື່ອໃດຄວນຢຸດ?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+ຢຸດ ຫຼືປ່ຽນເມື່ອເຫັນສັນຍານຂອງຄວາມອຸກອັ່ງ ຄວາມເມື່ອຍ ຫຼືການສູນເສຍຄວາມສົນໃຈ. ການຢຸດກ່ອນເວລາເປັນຜົນທີ່ດີ ບໍ່ແມ່ນຄວາມລົ້ມເຫຼວ. ທ່ານສາມາດ:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- ປ່ຽນໄປຂັ້ນຕອນທີ່ງ່າຍກວ່າ
+- ຍ້າຍໄປສິ່ງທີ່ຜ່ອນຄາຍ ເຊັ່ນດົນຕີ ຫຼືກາເຟໜຶ່ງຈອກ
+- ລອງໃໝ່ພາຍຫຼັງ ຫຼືວັນອື່ນ
+- ພຽງແຕ່ນັ່ງນຳກັນ
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+ຖ້າຜູ້ນັ້ນເວົ້າວ່າບໍ່ ຢ່າກົດດັນ. ເບິ່ງ [ເມື່ອເຂົາປະຕິເສດ ຄວນເຮັດແນວໃດ](/caregiving/when-they-say-no/) ສຳລັບວິທີຕອບສະໜອງຢ່າງອ່ອນໂຍນ.
 
-## Low-effort extras for a quieter moment
+## ກິດຈະກຳເບົາໆສຳລັບເວລາງຽບໆ
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+ເມື່ອວຽກທາງກາຍເປັນໄປບໍ່ໄດ້ ການຈັດລຽງ ແລະຈັບຄູ່ຍັງເຮັດໄດ້ໂດຍນັ່ງ. [ຈັດໝວດໝູ່ນຳກັນ](/games/sort-together/) ໃຫ້ທ່ານແຕະຮູບໃສ່ກະຕ່າຄົວ ຫຼືສວນ ແລະ [ຈັບຄູ່ຮູບພາບ](/games/picture-pairs/) ເປັນເກມຈັບຄູ່ທີ່ອ່ອນໂຍນ ມີຮູບໃຫຍ່ ແລະບໍ່ມີໂມງຈັບເວລາ. [ບັດຊວນລົມ](/games/conversation-cards/) ມີຄຳຖາມເປີດກ່ຽວກັບເຮືອນ ແລະຄອບຄົວ ທີ່ເໝາະກັບກາເຟຫຼັງຈາກວຽກສຳເລັດ.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+ສຳລັບການຊ່ວຍຈັດວຽກເຮືອນໃຫ້ເຂົ້າກັບມື້, ເບິ່ງ [ຕາຕະລາງປະຈຳວັນແບບສະຫງົບ](/activities/daily-routine/) ຂອງພວກເຮົາ. ສຳລັບແນວຄວາມຄິດເພີ່ມເຕີມແຍກຕາມໄລຍະ ເບິ່ງ [ກິດຈະກຳໄລຍະກາງ](/activities/middle-stage/).

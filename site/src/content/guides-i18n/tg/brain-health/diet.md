@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Парҳези MIND ва Миёназаминӣ ва деменсия: чӣ мегӯяд тадқиқот"
+seoTitle: "Парҳези MIND ва деменсия: чӣ мегӯяд тадқиқот"
+description: "Тадқиқот дар бораи парҳези MIND ва Миёназаминӣ ва деменсия, чаро санҷиши бузург фарқи ошкор накард ва чӣ тавр шахси деменсиядорро хӯрок диҳем."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Парҳезҳои Миёназаминӣ ва MIND дар тадқиқотҳое, ки одамонро дар тӯли вақт
+  мушоҳида мекунанд, бо хатари камтари деменсия алоқаманд ҳастанд, аммо на ҳамеша.
+  Озмоиши тасодуфии се сола дар бораи парҳези MIND, ки соли 2023 нашр шуд, фарқи
+  назаррасеро дар фикр ё тасвирҳои мағзи сар нисбат ба парҳези назоратӣ наёфт.
+  Ягон ғизо ё иловаи ғизоӣ исбот нашудааст, ки деменсияро пешгирӣ кунад. Барои
+  одамони бо деменсия зиндагикунанда хӯрдан ва нӯшидани кофӣ аз ҳама муҳимтар аст.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Баъзе, аммо на ҳама тадқиқотҳое, ки одамонро дар тӯли вақт пайгирӣ мекунанд, намунаҳои хӯрдани Миёназаминӣ ва MIND-ро бо хатари камтари деменсия алоқаманд медонанд."
+  - "Дар озмоиши соли 2023 бо 604 калонсол, одамони парҳези MIND пас аз се сол дар санҷишҳои фикр ё тасвирҳои мағз аз гурӯҳи назоратӣ беҳтар натиҷа набаромаданд."
+  - "Институти миллии пиронсолӣ мегӯяд, ки барои пешгирии Алсгеймер хӯрдан ё канорагирии ягон ғизои мушаххас далел нест, ва ягон витамин ё иловаи ғизоӣ исбот нашудааст."
+  - "Парҳези бой аз сабзавот, мева, лӯбиё, ғалладонаҳо ва моҳӣ саломатии дилро нигоҳ медорад ва метавонад ба хатарҳое, мисли фишори баланди хун ва диабет, кумак кунад."
+  - "Барои одамони бо деменсия зиндагикунанда, хӯроки ангуштмонанд, табақҳои бо рангҳои мухолиф, вақти оромбахши хӯрок ва нӯшокиҳои мунтазам аксар вақт аз ҳар парҳези мушаххас муҳимтар ҳастанд."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Оё парҳези MIND деменсияро пешгирӣ мекунад?"
+    a: "Исбот нашудааст. Тадқиқоти мушоҳидавӣ хатари камтарро бо парҳези MIND пайваст карданд, аммо озмоиши тасодуфии се соларо, ки соли 2023 нашр шуд, фарқи назаррас дар натиҷаҳои санҷиши фикр ё тасвирҳои мағз байни одамони парҳези MIND ва парҳези назоратӣ ёфт накард. Ҳарду гурӯҳ каме беҳтар шуданд ва ба ҳамон миқдор вазн гум карданд."
+  - q: "Фарқи парҳези MIND ва парҳези Миёназаминӣ чист?"
+    a: "Парҳези Миёназаминӣ ба сабзавот, мева, ғалладонаҳо, лӯбиё, моҳӣ ва равғани зайтун таъкид мекунад, бо гӯшти сурхи кам ва ширинӣ. Парҳези MIND онро бо парҳези DASH барои фишори хун якҷоя мекунад ва ба сабзавоти сабзбарг ва буттамеваҳо таъкид илова мекунад, дар ҳоле ки гӯшти сурх, ширинӣ, панир, маска ва ғизои бирёншударо маҳдуд мекунад."
+  - q: "Оё ягон ғизо ё иловаи ғизоӣ Алсгеймерро пешгирӣ мекунад?"
+    a: "Не. Институти миллии пиронсолӣ мегӯяд, ки барои пешгирии Алсгеймер ё коҳишёбии маърифатии марбут ба синну сол хӯрдан ё канорагирии ягон ғизои мушаххас далел надорад, ва ягон витамин ё иловаи ғизоӣ исбот нашудааст, ки Алсгеймерро пешгирӣ кунад. Пеш аз истифодаи иловаҳо бо духтур маслиҳат кунед."
+  - q: "Кадом ғизоро шахси деменсиядор осонтар мехӯрад?"
+    a: "Порчаҳои хурд ба андозаи лукма, ки ангуштмонанд, мисли порчаҳои нон бо сандвич, порчаҳои мурғ, пораҳои норанҷӣ ё сабзавоти бухоршуда, аксар вақт аз истифодаи қошуқ осонтаранд. Агар ҷавидан ё фурӯ бурдан душвор бошад, ғизои мулоим, мисли тухми омехта, пюреи себ ё панири тару тоза, кумак карда метавонад. Агар сулфа ё хафагирӣ рӯй диҳад, аз духтур пурсед, ки оё арзёбии фурӯ бурдан лозим аст."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Шояд шумо хондаед, ки парҳези «солими мағз» метавонад Алсгеймерро дур нигоҳ дорад. Тасвири воқеӣ мӯътадилтар аст. Баъзе намунаҳои хӯрдан дар тадқиқотҳое, ки одамонро дар тӯли вақт мушоҳида мекунанд, бо хатари камтар алоқаманд ҳастанд, аммо беҳтарин озмоиши то ҳол ягон фарқи возеҳ ёфт накард. Ин саҳифа ҳардуро шарҳ медиҳад, сипас ба чизе мегузарад, ки аксар вақт барои шахсе, ки аллакай бо деменсия зиндагӣ мекунад, аҳамият дорад: хӯрдан ва нӯшидани кофӣ ва лаззат бурдан аз он.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ин маълумоти умумӣ аст, на маслиҳати тиббӣ. Пеш аз тағйир додани парҳези худ ё касе дигар бо духтур ё диетологи дорои иҷозатнома маслиҳат кунед. Нигаред ба [эъломияи тиббии мо](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Парҳезҳои Миёназаминӣ ва MIND чистанд?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Институти миллии пиронсолӣ онҳоро чунин тавсиф мекунад ([Институти миллии пиронсолӣ дар бораи парҳез ва Алсгеймер](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Парҳези Миёназаминӣ:** миқдори зиёди мева, сабзавот, ғалладонаҳо, лӯбиё, моҳӣ ва ғизои баҳрӣ, ва равғани зайтун, бо миқдори ками гӯшти сурх, тухм ва ширинӣ.
+- **Парҳези MIND** (Мудохилаи Миёназаминӣ–DASH барои таъхири нейродегенеративӣ): омезиши парҳези Миёназаминӣ ва парҳези DASH барои фишори хун. Он сабзавот, махсусан сабзавоти сабзбарг; буттамеваҳо; ғалладонаҳо; лӯбиё; чормағз; моҳӣ ҳадди ақал як бор дар ҳафта; ва равғани зайтунро дар бар мегирад. Гӯшти сурх, ширинӣ, панир, маска ё маргарин ва ғизои бирёншуда ё фастфудро маҳдуд мекунад.
 
-## Do these diets lower dementia risk?
+## Оё ин парҳезҳо хатари деменсияро кам мекунанд?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Далелҳо омехтаанд. Институти миллии пиронсолӣ мегӯяд, ки баъзе, аммо на ҳама, тадқиқотҳои мушоҳидавӣ парҳезҳои Миёназаминӣ ва MIND-ро бо хатари камтари деменсия назар ба парҳези ғарбӣ, ки гӯшти сурх, равғани ҳайвонӣ ва шакари бештар дорад, алоқаманд донистаанд.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Комиссияи Ланцет соли 2024 тадқиқотро муфассалтар баррасӣ кард ([Комиссияи Ланцет](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Як баррасии тадқиқотҳои когортӣ сифати баланди парҳезро бо тақрибан 20% хатари камтари деменсия алоқаманд кард.
+- Таҳлили калонтари се когорта риояи наздиктари парҳези MIND-ро бо хатари камтар алоқаманд кард.
+- Аммо як тадқиқоти Шветсия, ки 28,025 нафар миёнсолонро тақрибан 20 сол пайгирӣ кард, на бо парҳезҳои тавсияшуда ва на бо парҳези Миёназаминӣ хатари камтар наёфт.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Тадқиқоти мушоҳидавӣ наметавонад сабаб ва натиҷаро исбот кунад. Одамоне, ки ин гуна мехӯранд, аксар вақт дар ҷиҳатҳои дигар низ фарқ доранд, мисли даромад, таҳсилот, варзиш ва дастрасӣ ба хидматҳои тиббӣ. Комиссия хулоса кард, ки далели кофӣ нест, ки парҳези солим бевосита деменсияро пешгирӣ кунад, гарчанде ки хӯрдани миқдори зиёди мева ва сабзавот ва камтар ғизои фавқулодда коркардшуда барои бисёр бемориҳои саломатӣ фоида дорад ва ба хатарҳо, мисли фарбеҳӣ, диабет ва фишори баланди хун, таъсир мерасонад. Он парҳезро ба феҳристи [14 омили хатар](/brain-health/risk-factors/) илова накард.
 
-## What did the 2023 MIND diet trial find?
+## Озмоиши парҳези MIND соли 2023 чиро ёфт?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Қавитарин санҷиш то ҳол як озмоиши тасодуфӣ буд, ки дар Маҷаллаи тиббии Ню Ингленд соли 2023 нашр шуд ([озмоиши парҳези MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Кӣ:** 604 калонсоли 65-сола ва болотар дар минтақаҳои Чикаго ва Бостон, ки мушкилоти фикр надоштанд, аъзои наздики оилаашон бо деменсия доштанд, вазни зиёдатӣ доштанд ва аз ибтидо парҳези камсифат доштанд.
+- **Чӣ:** се сол, нисфи онҳо парҳези MIND-ро риоя карданд ва нисфи дигар парҳези муқаррарии худро. Ҳарду гурӯҳ дархост шуданд, ки ҳар рӯз тақрибан 250 калория камтар бихӯранд ва аз диетологҳои дорои иҷозатнома машварати мунтазам гирифтанд.
+- **Натиҷа:** натиҷаҳои санҷиши фикр дар **ҳарду** гурӯҳ каме беҳтар шуданд. Фарқи байни гурӯҳҳо хурд буд ва аз ҷиҳати оморӣ **назаррас набуд**. Тасвирҳои мағз низ дар ҳарду гурӯҳ тағйироти шабеҳ нишон доданд.
+- **Вазн:** ҳарду гурӯҳ тақрибан 5 килограмм (тақрибан 11 фунт) вазн гум карданд.
 
-### Why might the trial have found no difference?
+### Чаро дар озмоиш фарқ ёфт нашуд?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Муҳаққиқон якчанд сабабро пешниҳод карданд. Гурӯҳи назоратӣ эҳтимолан парҳези худро низ беҳтар кард, зеро ҳамон қадар вазн гум кард. Санҷиши такрорӣ метавонад худ аз худ натиҷаҳоро беҳтар кунад, вақте ки одамон ба санҷишҳо одат мекунанд. Се сол шояд хеле кӯтоҳ бошад. Аксари иштирокчиён хуб таҳсилдида буданд ва аз насли аврупоӣ буданд, пас натиҷаҳо шояд ба ҳама татбиқ нашаванд.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Пас хулосаи ростқавлона ин аст: парҳези MIND дар тӯли се сол аз парҳези оқилонаи бо кам кардани калория беҳтар набуд. Ин маънои онро надорад, ки хӯроки солим бефоида аст. Маънояш ин аст, ки ҳеҷ кас набояд интизор бошад, ки парҳези мушаххас деменсияро пешгирӣ мекунад.
 
-## What about specific foods and supplements?
+## Дар бораи ғизоҳо ва иловаҳои мушаххас чӣ?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Институти миллии пиронсолӣ мегӯяд, ки барои пешгирии Алсгеймер ё коҳишёбии маърифатии марбут ба синну сол хӯрдан ё канорагирии ягон ғизои мушаххас далел нест. Буттамеваи кабуд, сабзавоти сабзбарг ва зардчӯба ҳама омӯхта шуданд, бидуни исбот. Институти миллии пиронсолӣ инчунин мегӯяд, ки ягон витамин ё иловаи ғизоӣ исбот нашудааст, ки Алсгеймерро пешгирӣ кунад ва барои ин мақсад тавсия дода намешавад. Институт огоҳ мекунад, ки маҳсулоте, ки барои пешгирии Алсгеймер фурӯхта мешаванд ва исбот нашудаанд, метавонанд бехатар набошанд, бефоида бошанд ё ҳарду, ва метавонанд бо доруҳои таъиншуда мухолифат кунанд, пас пеш аз истифода бо духтур маслиҳат кунед ([Институти миллии пиронсолӣ дар бораи пешгирии Алсгеймер](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Чӣ тавр ғизо солим ва ёқимбахш нигоҳ дошта мешавад?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Барои аксари калонсолон, ҳадаф ғизои мулоим, шинос ва ёқимбахш аст, на нақшаи қатъӣ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Ғизоеро, ки дӯст доред, аз парҳези Миёназаминӣ созед:** сабзавот, мева, лӯбиё, ғалладонаҳо, моҳӣ ва равғани зайтун.
+- **Хӯроқҳои дӯстдоштаи худро нигоҳ доред.** Лаззат ва иштиҳо муҳиманд, махсусан дар синни пешрафта.
+- **Бо дигарон хӯрок хӯред,** вақте ки метавонед. Хӯроки муштарак ҳамроҳии хуб аст.
+- **Якҷоя пухтупаз кунед.** Шустани сабзавот ё ба дег ҷунбондан фаъолияти хуби муштарак аст; ба [корҳои хонагӣ](/activities/household-tasks/) нигаред. Дастури оилавии дӯстдошта низ метавонад [ёдоварӣ](/activities/reminiscence/) ба вуҷуд орад.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Калонсолон набояд калорияро кам кунанд ё вазн гум кунанд, бе маслиҳати духтур, ва рӯза хатари иловагӣ дорад. Нигаред ба [роҳнамои рӯза](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Чӣ тавр шумо ба шахси деменсиядор барои хӯрдани хуб кӯмак кунед?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Барои одамони бо деменсия зиндагикунанда, хӯрдан ва нӯшидани **кофӣ** одатан нигаронии асосӣ аст. [Ассотсиатсияи Алсгеймер дар бораи хӯрок ва хӯрдан](https://www.alz.org/help-support/caregiving/daily-care/food-eating) мегӯяд, ки одамон метавонанд хӯрокхӯрдан фаромӯш кунанд, фикр кунанд, ки аллакай хӯрдаанд, ё аз интихоб зиёд ба ҳаяҷон оянд, ва ки ғизои бад метавонад нишонаҳои рафториро зиёд кунад ва вазнро кам кунад. Ин ғояҳо аз Ассотсиатсияи Алсгеймер, Институти миллии пиронсолӣ ва Ҷамъияти Алсгеймер меоянд:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Ғизои ангуштмонанд пешниҳод кунед.** Порчаҳои хурд ба андозаи лукма, ки осон гирифта мешаванд, мисли порчаҳои нон бо сандвич, порчаҳои мурғ, панҷаҳои моҳӣ, пораҳои норанҷӣ ё брокколии бухоршуда, ба шахс имкон медиҳанд, ки бе қошуқ худаш бихӯрад.
+2. **Контраст дар миз истифода баред.** Тағйироти биноӣ метавонад фарқ кардани ғизо аз табақро душвор кунад. Табақҳо ё косаҳои сафед дар рӯи гилемчаи мухолиф кумак мекунанд. Зарфҳои пурнақшро канорагирӣ кунед.
+3. **Якбор як ё ду ғизо пешниҳод кунед.** Табақи пур метавонад сарбор кунад.
+4. **Хӯрокхӯрӣро ором нигоҳ доред.** Телевизорро хомӯш кунед, миз соддаро нигоҳ доред ва вақти кофӣ гузоред. Институти миллии пиронсолӣ пешниҳод мекунад, ки шитоб накунед ва фишор наоваред.
+5. **Хӯрокҳои хурд ва вақти-вақт пешниҳод кунед.** Институти миллии пиронсолӣ пешниҳод мекунад, ки агар шахс кофӣ намехӯрад, хӯрокҳои хурдтар ва бештар ва пешхӯрокҳои серкалория пешниҳод шаванд ([маслиҳатҳои Институти миллии пиронсолӣ барои хӯрдани хуб](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Дар нӯшидан кумак кунед.** Дар тӯли рӯз косаҳои хурди об ё нӯшокиҳои дигарро пешниҳод кунед, инчунин ғизоҳоеро, ки об зиёд доранд, мисли мева, шӯрбо, милкшейк ва смуузи. Агар шахс об нахоҳад, Институти миллии пиронсолӣ шираи мева, оби ҳавасангез, шӯрбо, шир ё қаҳва ё чойи бекофеинро пешниҳод мекунад.
+7. **Ҳароратро санҷед.** Шахс метавонад нафаҳмад, ки ғизо ё нӯшокӣ хеле гарм аст.
+8. **Зарфҳо ва қошуқҳоро мутобиқ кунед.** Косаҳо ба ҷои табақҳо, қошуқҳои дастаи калон ва косаҳо бо сарпӯш метавонанд хӯрдан осонтар кунанд. Ба покизагӣ аҳамият надиҳед.
+9. **Хӯрдан ва фурӯ бурдани ғизоро осонтар кунед.** Ғизоро ба порчаҳои хурд бурред ё ғизои нарм пешниҳод кунед. Агар шахс ҳангоми хӯрдан сулфа кунад ё хафа шавад, ба духтури онҳо гӯед.
+10. **Аз ғизо бо зӯр худдорӣ кунед.** Институти миллии пиронсолӣ қайд мекунад, ки иштиҳо дар марҳилаҳои охири Алсгеймер табиатан кам мешавад.
 
-### Signs to tell the doctor about
+### Аломатҳое, ки ба духтур гуфтан лозим аст
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Вазн гум кардан, даст кашидан аз ғизо, хастагӣ ё нотавонӣ метавонанд нишонаи он бошанд, ки шахс кофӣ намехӯрад. Ҷамъияти Алсгеймер қайд мекунад, ки дардовар будани дандон ё дандонаҳои сунъӣ, депрессия, қабзият ва тағйироти доруҳо ҳама метавонанд иштиҳоро кам кунанд ([Ҷамъияти Алсгеймер дар бораи иштиҳо](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Нишонаҳои обнокӣ, ки Институти миллии пиронсолӣ номбар мекунад, инҳоянд: даҳони хушк, сарчархӣ, тапиши зуди дил ва галлюцинатсия ([Институти миллии пиронсолӣ дар бораи мушкилоти умумии тиббӣ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Бо духтур сӯҳбат кунед
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Пеш аз тағйироти бузург дар парҳези худ ё касе дигар, бо духтур ё диетологи дорои иҷозатнома маслиҳат кунед, махсусан агар диабет, бемории гурда, мушкилоти фурӯ бурдан ё кам шудани вазни охирин дошта бошед. Барои шахсе, ки бо деменсия зиндагӣ мекунад, пурсед, ки ӯ ҳар рӯз чӣ қадар хӯрду нӯшаш бояд бошад ва оё диетолог ё иловаҳо кӯмак карда метавонанд.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Агар касе хафа шавад ё ногаҳон гиҷ гардад, сарчархии шадид ё беҳушӣ дошта бошад, фавран кӯмак гиред.

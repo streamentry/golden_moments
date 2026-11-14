@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Activitats de grop per la demència: guida per las residéncias e los centres de jorn"
+seoTitle: "Activitats de grop per la demència: bingo, cançons, istòrias"
+description: "Activitats de grop per las unitats de memòria e los centres de jorn: bingo d'imatges, cançons, grops de remembrança, placement e talha dels grops."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Las bonas activitats de grop dins las unitats de memòria e los centres de jorn son cortas, familièras e facilas de rejónher a tot nivèl : bingo d'imatges, cançons cantadas en grop, grops de remembrança, movement simple e jòcs de mots partejats. Gardatz los grops pichons se podètz, plaçatz las personas per que tot lo monde vegue e ausa, donatz un pas a la fòi, e prevesetz un ròtle mai leugièr e una sortida tranquila per quin cal.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Los grops pichons fonciónan sovent melhor qu'un gròs eveniment, e laissan mai de monde participar activament e pas sonque agachar."
+  - "Plaçatz las personas en cercle o en fer de cavalet, près del menaire, en pensant a l'audicion e a la vista, e amb lo brut de fons atudat."
+  - "Preparatz cada activitat a dos o tres nivèls per que las personas amb de capacitats diferentas poscan toas rejónher."
+  - "Evitatz los questionaris, los punts e los guanhaires. Lo bingo d'imatges pòt se jogar fins que cadun aja una carta plena."
+  - "Partir de bona hora, agachar o s'endormir es plan. Un personal deu èsser prèst a ajudar quin vòl un espaci mai tranquil."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Qual es una bona talha de grop per las activitats per la demència?"
+    a: "I a pas de nombre juste unic; depen dels residents, de la sala e del nombre de personal que avètz. Mantuns equipas constatan que los pichons grops permetan a cadun de veire, d'ausir e de participar, mentre que los eveniments dins de sala granda tendon a laissar mai de monde agachar. Se organizatz un gròs eveniment, ajustatz de personal o de volontaris que pòdon s'asseire entre los residents e ajudar un o dos a la fòi."
+  - q: "Cossí menar un grop amb de capacitats diferentas?"
+    a: "Prevesetz mai d'una manièra de rejónher cada activitat. Dins una cançon cantada en grop, unes cantan cada mot, d'autres bato de las mans o nhaulan, e d'autres tenon un brandilhon. Al bingo d'imatges, unes trobon lor pròpri imatge mentre qu'un ajudant lor indica per las autres. Assitatz las personas que an besonh de mai d'ajuda pròche d'un membre del personal o d'un volontari."
+  - q: "Cossí jogar al bingo d'imatges sens qu'aja competicion?"
+    a: "Clamatz cada imatge fins que cada carta siá plena, per que degun siá laissat de fòra. Parlatz de cada imatge quand arriba, e suprimissètz los pres pels guanhaires o donatz a tot lo monde un pichòt tractament parièr. Lo punt es l'atencion partejada e la conversacion, pas qual acaba lo primièr."
+  - q: "Podi utilizar vòstres jòcs sus un gròs ecran en grop?"
+    a: "Òc. Nòstres jòcs fonciónan dins un navigador web, donc podètz los dobrir sus un ordinator o una tablèta connectada a una television o a un projector. Lo Bingo d'imatges inclutz de cartas imprimiblas e un apelaire sus l'ecran. Acabar lo dicton e Parelhas d'imatges fonciónan tanben ben sus un gròs ecran amb una persona que tòca per lo grop."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Aquesta guida s'adreça als directors d'activitats, a las equipas de unitats de memòria e als menaires de centres de jorn per adults. Ensenha de formats de grop que foncionan, l'amenatgi de la sala, l'adaptacion d'una activitat per de capacitats mescladas, e l'utilizacion de nòstras cartas de bingo imprimiblas e de jòcs sus gròs ecran. Tot aquò se concentra sul confòrt, la relacion e la causida. Res d'aquí es un tèst.
 
-## What makes a group activity work in memory care?
+## Qué fa qu'una activitat de grop reussisse dins las unitats de memòria?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Una bona activitat de grop es familièra, corta, facila de rejónher a tot nivèl e sens pression. Las [Recomandacions de practica per la cura de la demència](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) de l'Alzheimer's Association descrivon l'engatjament significatiu coma quicòm que sosten los interèsses e las preferéncias d'una persona e permet la causida e la reüssita, mesme quand la demència es al pus fòrt. Lo meteis document nòta que los programas tradicionals se fondan sovent sus un o dos gròs eveniments per jorn ont los residents son sovent sonque d'espectators.
 
-That points to a few practical rules:
+Aquò indica qualques règlas practicas :
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Lo familièr val mai que lo nòu.** Las cançons, los dichs, las imatges e los objèctes de la joventut dels residents son mai aisits a rejónher.
+- **Lo cort val mai que lo long.** Planificatz per la durada de l'atencion de vòstre grop, amb un pauc de temps per s'arrestar a mièg camin.
+- **Far val mai qu'agachar.** Donatz a cadun quicòm a tenir, a tocar, a causir o a dire.
+- **De nivèls mantuns, una sola activitat.** Pensatz a de manièras mai facilas e mai difícilas de participar.
+- **Pas de guanhaires, pas de punts.** Los formats competitius laissan qualques personas sentir que an fracassat.
 
-## How big should the group be?
+## Quina talha deu aver lo grop?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Lo pichon es generalament mai aisit. L'Alzheimer's Association nòta qu'una persona que tròba un gròs rassemblament aclaparant pòt interagir melhor dins un grop mai pichon. I a pas de nombre juste unic. Depen dels residents, de la sala e del nombre de personal e de volontaris disponibles.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Una prova utila : cada persona pòt-la veire lo visatge del menaire, ausir clarament e èsser atenguda per un ajudant dins qualques segondas? Se non, partissètz lo grop, ajustatz de personal o passatz a una sala mai pichona.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Per un gròs eveniment, coma un concèrt de fèstas, plaçatz lo personal e los volontaris entre los residents, pas al long dels murs.
 
-## How should I set up the room and seating?
+## Cossí amenatjar la sala e los assentaments?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Cercle o fèr de cavalet.** Las recomandacions de practica descrivon un cercle de partatge coma lo melhor dins un espaci pro grand per que tot lo monde s'asseja en cercle, sens brut de fons.
+- **Menaire pròche e a la nautor dels uèlhs.** Asseitz-vos mai que vos quitar de pè quand podètz.
+- **Audicion e vista en primièr.** Plaçatz las personas amb una pèrda auditiva lo mai pròche del menaire, de costat melhor. Vejatz que los ulhals e los apareis auditius son ben metuts. L'Alzheimer's Association nòta que los problèmas de vista e d'audicion pòdon far la comunicacion mai difícila.
+- **La lumièra venguda de darrièr los residents, pas de darrièr vos.** Evitatz d'assentar qualqu'un de cara a una finèstra clara.
+- **Atudatz la television e la ràdio.** L'Alzheimer's Association conselha de suprimir lo brut concurrent pendent las activitats musicalas.
+- **Una conversacion a la fòi.** Las conversacions en mesclamba son doloroscas per las personas que viven amb una demència e per las que an una pèrda auditiva, coma l'Alzheimer's Association o remarca dins sa [guida de las fèstas](https://www.alz.org/help-support/caregiving/holidays).
+- **Sortidas claras e un canton tranquil.** Quin vòl partir deu o poder far facilament, amb un membre del personal per l'acompanhar.
 
-## Group activity ideas
+## Idèas d'activitats de grop
 
-### Picture bingo
+### Bingo d'imatges
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Lo bingo d'imatges remplaça los nombres per d'imatges clarament identificablas, coma una teiera, un chin o una rosa, per que degun aje besonh de seguir un nombre long o de legir de letra pichona.
 
-**How to run it:**
+**Coma lo menar :**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Imprimissètz una carta per persona a partir de nòstra pagina [Bingo d'imatges](/games/picture-bingo/) amb lo boton Imprimir. Un papièr espés es mai facil a manejar. Plastificatz per la reütilizacion.
+2. Balhatz de marcadors grands e facils a tomar, coma de jetons de poker, de capsuls de botelha o de tòcs de cartolina talhats.
+3. Utilizatz l'apelaire sus l'ecran d'una television o d'un projector per que tot lo monde vegue l'imatge quand diguetz son nom.
+4. Arrestatz-vos après cada imatge e convidatz a un breu comentari : « Qualqu'un vòl nos parlar d'un chin qu'a conegut? » o « Qu'es çò que remarcatz sus aquesta? »
+5. Continuatz d'apelar fins que cada carta siá plena. Tot lo monde acaba.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Adaptacion :** Utilizatz mens de cases per las personas que trobon una carta plena tròp embrolhada. Un ajudant pòt montrar l'imatge correspondenta a qualqu'un que n'a besonh. Qualques personas preferisson tenir la carta d'imatge del menaire e la mostrar al grop.
 
-### Sing-alongs
+### Cançons cantadas en grop
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+La musica es una de las activitats de grop las mai aimadas. L'Alzheimer's Association nòta que fins als estadis avançats, una persona pòt èsser capabla de [marcar lo tèmpo o de cantar una cançon de l'enfància](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Coma lo menar :**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Causissètz de cançons que los residents an aprés de pichons, pas las preferidas del menaire. Demandatz a las familhas çò que cadun aimava.
+- Utilizatz una musica sens publicitat, que l'Association nòta pòt èsser embrolhanta.
+- Imprimissètz las paraulas en letra grand per las personas que legisson, mas o demandatz pas.
+- Ofrissètz de brandilhons, de tambors a man o de fulards a agitar.
+- Encoratjatz lo batement de mans e lo movement, e gardatz lo volume confortable.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Adaptacion :** Unas cantaràn cada mot, d'autras nhaularàn, d'autras bateràn del pè, e d'autras ausiràn simplament. Tot aquò compta. Vegetz nòstra [guida de las activitats musicalas](/activities/music/) per d'autres detalhs.
 
-### Reminiscence groups
+### Grops de remembrança
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Un grop de remembrança se rassembla al voltant d'un tèma, coma los jorns d'escòla, las primièras autos, las cosinas o l'estiu, en utilizant de fotos, d'objèctes e de musica. L'objectiu es una conversacion plasentièra, pas una remembrança exacta.
 
-**How to run it:**
+**Coma lo menar :**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Triatz un tèma e menatz quelques objèctes que las personas pòdon tenir : un batedor a man, un gant de baseball, un chapèu, un catalògue de semenças.
+2. Passatz un objècte a la fòi. Demandatz de questions dubèrtas : « Contatz-me aquò », « Qu'es çò que remarcatz? », « Qual utilizava quicòm parièr? »
+3. Acceptatz cada respònsa. Corregissètz jamai una data o un fach.
+4. Menatz la conversacion cap als sovenirs calds. La practica recomanda que los prestataris de cura orienten la remembrança cap als sovenirs positius mai que cap a aquels que pòdon causar de pena.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Cartas de conversacion](/games/conversation-cards/) ofrís de cartas d'imatges imprimiblas amb de questions dubèrtas per tèma, que fonciónan plan coma punt de partença de discussion. D'autras idèas son dins nòstra [guida sus la remembrança](/activities/reminiscence/).
 
-### Finish the saying
+### Acabar lo dicton
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Los dichs familièrs (« Un pichon estalvi es un pichon gasto… ») convidan tot lo monde a dire la fin ensemble. Mostratz [Acabar lo dicton](/games/finish-the-saying/) sus un gròs ecran e laissatz lo grop respondre en una sola votz. I a una question per parlar après cada dicton. Se degun dis la fin, mostratz-la e anatz mai lèu. I a pas de juste ni de faus.
 
-### Large-print word search, together
+### Sopa de letras en grop, en letra grand
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projectatz la [Sopa de letras](/games/word-search/) en letra grand sus un ecran e cercatz de mots en grop, o imprimissètz de còpias per los que aiman trabalhar sols a la taula. Los mots son sonque de travèrs e de naut en bas.
 
-### Gentle movement
+### Movement doç
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Estiraments asseitats, passar una pilòta molla o un balon, o dansar sus una cadièra amb una musica familièra. Mostratz cada movement en lloc de lo descriure.
 
-### Sorting and matching at the table
+### Trièr e aparièr a la taula
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Las taulas pichonas de tres a quatre personas pòdon trièr d'imatges, de tòcs de tissut o de culhièrs ensemble. Sus l'ecran, [Parelhas d'imatges](/games/picture-pairs/) se pòt jogar amb las imatges laissadas visiblas, amb una persona que tòca pendent que la taula parla de cada imatge.
 
-## How do I use your games on a big screen?
+## Cossí utilizar nòstres jòcs sus un gròs ecran?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Nòstres jòcs fonciónan dins un navigador web, donc los podètz utilizar sus una television o un projector sens rien installar.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Dobrissètz lo jòc sus un ordinator o una tablèta connectada a l'ecran per cable o per diffusion.
+2. Metètz lo navigador en plena pagina e reglatz lo son a un nivèl confortable.
+3. Un menaire tòca mentre que lo grop crida los causidas. O passatz una tablèta a un resident que vòl son torn.
+4. Arrestatz quand lo grop es prèst. Los jòcs an pas de cronòmetre, de punts ni d'acabament forçat.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bingo d'imatges](/games/picture-bingo/), [Acabar lo dicton](/games/finish-the-saying/), [Parelhas d'imatges](/games/picture-pairs/) e [Cartas de conversacion](/games/conversation-cards/) convenon mai sovent als grops. Vejatz totas las opcions sus nòstra [pagina de jòcs](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Cossí adaptar una activitat per de capacitats mescladas?
 
-Plan at least three ways to join every activity.
+Prevesetz almens tres manièras de participar a cada activitat.
 
-| Activity | More independent | Some support | Most support |
+| Activitat | Mai autonòm | Un pauc d'ajuda | Ajuda màxima |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo d'imatges | Tròba e cobrís sas pròprias imatges | L'ajudant mostra; la persona cobrís | Ten una carta d'imatge; ausís e agacha |
+| Cançon en grop | Canta, causís la cançon seguenta | Nhauta, bat de mans, utiliza un brandilhon | Ausís, ten un fulard, es tocada la man |
+| Remembrança | Conta d'istòrias | Respon per òc o non, o mostra | Ten e sent l'objècte |
+| Sopa de letras | Trabalha son pròpri exemplar imprimit | Tròba los mots sus gròs ecran amb un ajudant | Ausís los mots legits a votz auta |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Per las personas a l'estadi avançat, lo NHS nòta que las activitats an generalament besonh d'èsser mai simplas e se concentrar mai sus los sens, coma la musica, los objèctes de tocar e lo massatge de las mans. Un moment a un sol dins o après lo grop pòt los convenir melhor que lo grop. Vegetz [las activitats per l'estadi avançat](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Cossí los menaires devon parlar dins un grop?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Presentatz-vos a cada fes, e utilizatz lo nom preferit de cadun.
+- Parlatz lentament, donatz un pas a la fòi, e mostratz abans de dire.
+- Fasetz de convidas dubèrtas (« Contatz-me... ») o de causidas simplas, pas de questions de questionari (« Vos remembratz... ? »).
+- Corregissètz pas. Mercejatz per cada contribucion.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Mai d'aquò es dins nòstra [guida sus la comunicacion](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Acabar plan, e laissar las personas partir
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Arrestar es un bon resultat. Agachatz los signes que qualqu'un es fatigat, agitat o pertorbat, e fasètz qu'un ajudant ofrisca una promenada o un assent tranquil ailàs. Qualqu'un que s'endòrmi pendent una cançon pòt simplament èsser a l'aise.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Tancatz cada grop de la meteissa manièra, amb una cançon familiera o un simple mercés, per que la fin siá calma e atesa. Après, escrivètz çò que a fonccionat e qui a aimat çò que. Aquelas notas melhoran la sessions seguenta.

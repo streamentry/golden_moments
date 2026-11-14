@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "אָנדענק-אַקטיװיטעטן: אָנדענק-קעסטלעך, לעבנס-געשיכטעס און פֿאָטאָס"
+seoTitle: "אָנדענק-אַקטיװיטעטן פֿאַר דעמענץ: קײן קװיז"
+description: "װי מען טיילן אָנדענק מיט אַ מענטש װאָס לעבט מיט דעמענץ אָן קװיז: פֿאָטאָ-שמועס, אָנדענק-קעסטלעך און לעבנס-געשיכטע-ביכער."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  אָנדענק הייסט די פֿאַרגאַנגענהייט צוזאַמען געניסן, מיט פֿאָטאָס, זאַכן, מוזיק און
+  געשיכטעס. מאַכט אַ אָנדענק-קעסטל, בויט אַ פּשוט לעבנס-געשיכטע-בוך, אָדער קוקט
+  פֿאָטאָס צוזאַמען פּאָר-װײַז. קװיזט קײנמאָל: לאָזט אַװעק „געדענקט איר?“ און „װער
+  איז דאָס?“ און ניצט אָפֿענע איינלאַדונגען װי „דערצײלט מיר װעגן דעם.“ אַ װאַרעם
+  שמועס איז װיכטיקער װי ריכטיקע פֿאַקטן.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "אָנדענק איז אַ שמועס, נישט אַ טעסט. ריכטיקייט איז נישט װיכטיק; פֿרײד איז."
+  - "צעטאָן „געדענקט איר...?“ און „װער איז דאָס?“ מיט קאָמענטאַרן און איינלאַדונגען װי „דערצײלט מיר װעגן דעם טאָג.“"
+  - "אַ אָנדענק-קעסטל מיט זאַכן פֿון דעם מענטשנס לעבן גיט די הענט און דעם שמועס עפּעס צו האַלטן."
+  - "אַ לעבנס-געשיכטע-בוך העלפֿט משפּחה, באַזוכערס און שטאַב קענען דעם מענטש, נישט בלױז די דיאַגנאָז."
+  - "אויב אַ אָנדענק ברענגט טרױער, טרײסט ערשט און גייט זאַנפֿט װײַטער."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "װאָס איז אָנדענק פֿאַר מענטשן מיט דעמענץ?"
+    a: "אָנדענק איז צוזאַמען טיילן פֿאַרגאַנגענע דערפֿאַרונגען און אָנדענקען, אָפֿט מיט הילף פֿון פֿאָטאָס, זאַכן, מוזיק אָדער װידעאָס. עס קען זײַן איינס-אויף-איינס אָדער אין אַ גרופּע. דער ציל איז אַ פֿרײַנדלעכער, באַדײַטנדיקער שמועס, נישט צו פּרובירן װאָס דער מענטש קען זיך דערמאָנען."
+  - q: "פֿאַרװאָס זאָל איך נישט פֿרעגן „געדענקט איר?“"
+    a: "פֿראַגעס װאָס טעסטן דאָס געדעכטניש קענען מאַכן אַ מענטש פֿאַרשעמט אָדער באַנגעשטעלט, װען די ענטפֿער קומט נישט. די National Institute on Aging צילט צו פֿאַרמײַדן פֿרעגן צי אַ מענטש געדענקט עפּעס אָדער עמעצן. קאָמענטירט אויף װאָס איר זעט אַנשטאָט, און לאָזט דעם מענטש צולייגן װאָס ער װיל."
+  - q: "װאָס זאָל מען אַרײַנלייגן אין אַ אָנדענק-קעסטל?"
+    a: "קלײבט זיכערע, שטאַרקע זאַכן װאָס זענען פֿאַרבונדן מיט דעם מענטשנס לעבן: אַרבעטס-זאַכן, האָביע-געצײַג, אַ ליב-געהאַטער שאַל, פּאָסטקאַרטן, רעצעפּט-קאַרטן, שפּאָרט-אַנדענקען אָדער קאָפּיעס פֿון פֿאָטאָס. פֿאַרמײַדט שאַרפֿע זאַכן, קלײנע זאַכן װאָס קענען אײַנגעשלונגען װערן, און אומערזעצלעכע אָריגינאַלן."
+  - q: "װאָס אויב זײ טאָן מיסטעקעס אין די פֿאַקטן?"
+    a: "לאָזט עס גײן. אויב אײַער מאַמע זאָגט אַז דאָס פֿאָטאָ װײַזט איר שװעסטער װען עס איז אירע קוזינע, איז דאָס גוט. קערעקטירן פֿאַרװאַנדלט אַ װאַרעם מאָמענט אין אַ פּרובֿ. פֿאָלגט דער געשיכטע װאָס זײ דערצײלן און גענײסט עס צוזאַמען."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+אָנדענק הייסט פּשוט צוזאַמען געניסן די פֿאַרגאַנגענהייט. פֿאַר פֿיל מענטשן מיט דעמענץ זענען אָנדענקען פֿון לאַנג צוריק אָפֿט קלאָרער װי װאָס עס איז געשען אין דער פֿרי-מאָרגן. פֿאָטאָס, זאַכן, מוזיק און געשיכטעס קענען עפֿענען יענע אָנדענקען און געבן אײַך עפּעס װאַרעמס צו טיילן. דער איינציקער כּלל: עס איז אַ שמועס, קײן טעסט.
 
-## What is reminiscence, and how is it different from quizzing?
+## װאָס איז אָנדענק, און װי איז עס אַנדערש פֿון קװיזן?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+אָנדענק הייסט די פֿאַרגאַנגענהייט צוזאַמען טיילן דורך פֿאָטאָס, זאַכן, מוזיק אָדער װידעאָ, אין דעם מענטשנס אייגענעם טעמפּאָ. דער [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) באַשרײַבט עס אַלס טיילן פֿאַרגאַנגענע דערפֿאַרונגען און געשיכטעס מיט הילף פֿון פֿאָטאָס, זאַכן, װידעאָס אָדער מוזיק, אין אַ בוך אָדער אויף אַ טאַבלעט. קװיזן איז אַנדערש: עס פֿאָדערט פֿון דעם מענטש צו געבן אַ ריכטיקן ענטפֿער, װאָס קען ברענגען פֿאַרלעגנהייט און אומרו אַנשטאָט פֿרײד.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+די [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ציילט צו פֿרעגן אַ מענטש צי ער געדענקט עפּעס אָדער עמעצן, אַלס עפּעס צו פֿאַרמײַדן. די [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) רעקאָמענדירט צו פֿאַרמײַדן פֿראַגעס װאָס הענגען פֿון דעם קורצן געדעכטניש, און אַנשטאָט צו רעדן װעגן דער װײַטערדיקער פֿאַרגאַנגענהייט.
 
-| Instead of | Try |
+| אַנשטאָט | פּרוּװט |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „געדענקט איר דאָס?“ | „דאָס זעט אויס װי אַ פֿרײלעכער טאָג. דערצײלט מיר װעגן אים.“ |
+| „װער איז דאָס?“ | „דאָ איז מומע רױז אויפֿן ים-ברעג. קוקט אויף דעם הוט.“ |
+| „װאָס איז דאָס פֿאַר אַ יאָר?“ | „דאָס זעט אויס װי דאָס אַלטע הױז. װי איז געװען לעבן דאָרט?“ |
+| „ניין, דאָס איז נישט ביל, דאָס איז פֿראַנק.“ | „ער קוקט װי אַ גרױסער שפּאַס.“ |
+| „איר האָט מיר דאָס שױן דערצײלט.“ | „איך האָב די געשיכטע ליב.“ |
 
-## How do you talk about photos without quizzing?
+## װי רעדט מען װעגן פֿאָטאָס אָן צו קװיזן?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+הײבט אָן מיט װאָס איר זעט, און לאָזט דאָ פּלאַץ פֿאַר דעם מענטש צו לייגן עפּעס צו, אויב ער װיל.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **זיצט זײט-אָן-זײט.** האַלט דעם אַלבאָם צװישן אײַך, אַזױ אַז איר קוקט צוזאַמען, נישט טעסטנדיק איבער אַ טיש.
+2. **קלײבט עטלעכע פֿאָטאָס.** פֿינף גוטע פֿאָטאָס זענען בעסער װי אַ גאַנצע קעסטל. גרױסע, קלאָרע פּאָרטרעטן זענען בעסט.
+3. **נענט מענטשן אַליין.** „דאָ איז איר און פֿאָטער אויף אײַער חתונה-טאָג.“ דאָס נעמט אַװעק דעם דרוק.
+4. **קאָמענטירט פּרטים.** קליידער, אויטאָס, עסן, װעטער, פּנימער. „אַ קאַר, זעט אויס אַזױ גלאַנצנדיק.“
+5. **לאָדט אײַן, פֿאָדערט נישט.** „דערצײלט מיר װעגן...“ אָדער „װאָס באַמערקט איר?“ שטילקייט איז גוט.
+6. **גײט נאָך זייער פֿירונג.** אויב זײ רעדן װעגן עפּעס גאָר אַנדערש, גײט מיט עס.
+7. **הערט אויף װען עס איז נאָך אָנגענעם.** מאַכט דעם אַלבאָם צו, איידער מידקייט קומט.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+פֿאַר רעדי-געמאַכטע בילד-פּראָמפּטן, פּרוּװט [שמועס-קאַרטלעך](/games/conversation-cards/). צו מאַכן אײַערע אייגענע פֿאָטאָס אין אַ צאַרטן פּאָר-שפּיל, פּרוּװט [פֿאָטאָ-פּאָרן](/games/photo-pairs/); די פֿאָטאָס װאָס איר קלײבט בלײַבן אין אײַער בראַװזער.
 
-## How do you make a memory box?
+## װי מאַכט מען אַ אָנדענק-קעסטל?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+אַ אָנדענק-קעסטל איז אַ קעסטל מיט זאַכן פֿון דעם מענטשנס לעבן צו האַנדלען און צו רעדן װעגן.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **קלײבט אַ שטאַרק קעסטל** װאָס איז גרינג צו עפֿענען, װי אַ שיך-קעסטל, אַ הוט-קעסטל אָדער אַ קלײן האָלצן קעסטל.
+2. **קלײבט אַ טעמע אָדער אַ מישונג.** אַרבעט, אַ האָביע, אַ פּלאַץ, אַ דעקאַדע, אָדער אַ ביסל פֿון אַלץ.
+3. **זאַמלט זיכערע זאַכן.** פֿינף ביז צען זאַכן זענען גענוג צו אָנהײבן.
+4. **ניצט קאָפּיעס פֿון טײַערע זאַכן.** קאָפּירט אומערזעצלעכע פֿאָטאָס און דאָקומענטן, און האַלט די אָריגינאַלן זיכער.
+5. **נעמט אַרױס זאַכן איינס נאָך דעם אַנדערן.** גיבט איין זאַך אַרױס, זאָגט עפּעס װעגן איר, און זעט װוּ דער שמועס גייט.
 
-Ideas to include:
+אידייען צו אַרײַנצולייגן:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **אַרבעט:** אַ נאָמען-שילד, אַ קלײן געצײַג, אַ אוניפֿאָרם-פּאַטש, אַ לעדזשער, אַ שװעסטער-נאָדל, אַ קאָכבוך פֿון אַ דינער.
+- **הײם:** אַ רעצעפּט-קאַרטע אין זײַן האַנט-שריפֿט, אַ קיכן-טיכל, אַ ליב-געהאַטער שאַל אָדער קראַװאַטע.
+- **האָביעס:** אַ פֿישערס בלינקער אָן דעם האָק, אַ בײסבאָל, אַ קנויל װאָל, אַ זאָמען-פּאַקעט.
+- **ערטער:** פּאָסטקאַרטן, מאַפּעס, אַ טוריסטישער אַנדענק, אַן אויסשניט פֿון אַ היים-שטעטל צײַטונג.
+- **משפּחה:** קאָפּיעס פֿון פֿאָטאָס, אַ קינד-ציכענונג, אַ חתונה-אײַנלאַדונג.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+לאָזט אַװעק שאַרפֿע זאַכן, קלײנע זאַכן װאָס קענען אײַנגעשלונגען װערן, און אַלץ װאָס קען װעקן װײטיקע אָנדענקען, אַחוץ אויב איר װייסט אַז עס איז װילקאָמען.
 
-## How do you make a life-story book?
+## װי מאַכט מען אַ לעבנס-געשיכטע-בוך?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+אַ לעבנס-געשיכטע-בוך איז אַ פּשוטער אַלבאָם פֿון פֿאָטאָס און קורצע קאַפּשאַנס װעגן דעם מענטשנס לעבן. עס איז עפּעס צו קוקן צוזאַמען, און עס העלפֿט באַזוכערס און פּערסאָנאַל זען דעם גאַנצן מענטש.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **קלײבט אַ פֿאָרמאַט.** אַ בינדער מיט שיץ-הילזן, אַ געדרוקט פֿאָטאָ-בוך, אָדער אַ סלײד-שאָו אויף אַ טאַבלעט.
+2. **פּלאַנירט עטלעכע אָפּטיילונגען.** קינדהייט, שול, אַרבעט, משפּחה, װוּ מען האָט געלעבט, גלױבן, האָביעס, ליב-געהאַטע עסן און מוזיק.
+3. **לייגט איין אָדער צװײ פֿאָטאָס אויף אַ זײַט** מיט אַ קורצן, גרױסן-דרוק קאַפּשאַן: „מרים, 22 יאָר, הײבט אָן אַרבעטן אין דער באַנק.“
+4. **נעמט אַרײַן געװוינהײטן און רוטינעס.** „טרינקט קאַװע מיט מילך. האָט ליב די זונטיקע זמירות. מאָג נישט לאַוטן טעלעװיזאָר.“ דאָס העלפֿט װער עס זאָרגט פֿאַר אים.
+5. **לאָזט דעם מענטש אָנטיילן** װי פֿיל ער װיל, קלײבנדיק פֿאָטאָס, דערצײלנדיק געשיכטעס, אָדער נאָר צוקוקן װי עס װערט צונױפֿגעשטעלט.
+6. **לייגט אַלץ צו.** עס דאַרף נישט זײַן פֿאַרטיק כּדי צו זײַן נוצלעך.
 
-## More reminiscence ideas
+## מער אָנדענק-אידייען
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **שפּילט מוזיק פֿון זייער יוגנט** און רעדט װוּהין עס פֿירט זײ. זעט [מוזיק-אַקטיװיטעטן](/activities/music/).
+- **קוקט היים-פֿילמס אָדער טעלעװיזיע-פֿאָלגעס** פֿון זייערע ליב-געהאַטע דעקאַדעס.
+- **קאָכט אַ קינדהייט-גערעכט** און לאָזט די ריחות פֿירן דעם שמועס.
+- **קוקט אויף אַ מאַפּע** פֿון זייער היים-שטעטל און פֿאָלגט באַקאַנטע גאַסן.
+- **נעמט אַרױס אַלטע קאַטאַלאָגן אָדער זשורנאַלן** און רעדט װעגן פּרײַזן, מאָדעס און אויטאָס.
+- **נעמט אויף זייערע געשיכטעס** אויפֿן טעלעפֿאָן, מיט זייער דערלויבעניש, פֿאַר דער משפּחה.
+- **טיילט בשעת רופֿן.** האַלט אַרױף איין פֿאָטאָ בשעת אַ װידעאָ-רופֿ; זעט [טעלעפֿאָן- און װידעאָ-רופֿן](/activities/phone-and-video-calls/).
+- **ברענגט אַ פֿאָטאָ אָדער אַ זאַך װען איר באַזוכט.** עס גיט דעם באַזוך אַ גרינגן פֿאָקוס; זעט [באַזוכן](/activities/visiting/).
 
-## What if a memory is painful?
+## װאָס אויב אַ זיכרון איז שמערצהאַפֿט?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+עטלעכע אָנדענקען ברענגען טרױער, כּעס אָדער מורא. אויב דער מענטש װערט פֿאַרשטערט, הערט אויף, טרײסט אים און שטעלט זאַנפֿט דאָס טעמע אָדער די אַקטיװיטעט אַנדערש. שטרײט נישט װעגן װאָס עס איז געשען. די Family Caregiver Alliance ראַטעװעט אָפּ צו פּרוּװן איבערצײגן אַ מענטש אַז ער איז פֿאַלש, און רעקאָמענדירט צו ענטפֿערן אויף די געפֿילן װאָס זײ װײַזן, װאָס זענען אמת. אויב זײ רעדן װעגן עמעצן װאָס איז געשטאָרבן, װי אויב ער לעבט, ענטפֿערט אויף דעם געפֿיל: „איר פֿעלט אים. דערצײלט מיר װעגן אים.“
 
-## What does the research say?
+## װאָס זאָגט די פֿאָרשונג?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+אַ איבערזיכט פֿון [Cochrane](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) װעגן אָנדענק, װאָס האָט אַרײַנגערעכנט 22 פּרובירן און 1,972 מענטשן, האָט געפֿונען אַז די פֿאַרבעסערונגען זענען אומגלײַכיק, קליין, און האָבן זיך אונטערשײדט לױט אָרט און פֿאָרמאַט. עס האָט געפֿונען קײן באַװײַז פֿון שאָדן פֿאַר מענטשן מיט דעמענץ. מיר רעקאָמענדירן אָנדענק צוליב דעם װאָס עס קען מאַכן װאַרעמע, באַדײַטנדיקע צײַט צוזאַמען, נישט אַלס אַ באַהאַנדלונג. פֿאַר מער װעגן לײכטן שמועס, זעט [שמועס-װעגװײַזער](/caregiving/communication-tips/).

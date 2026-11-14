@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "פֿאַרבינדונג מיט מענטשן און מוח־געזונט: איינזאַמקײט, אָפּגעשײדנקײט און דעמענץ"
+seoTitle: "איינזאַמקײט, אָפּגעשײדנקײט און דעמענץ־ריזיקע"
+description: "װי איינזאַמקײט און אָפּגעשײדנקײט זענען פֿאַרבונדן מיט דעמענץ־ריזיקע, װאָס די װאַרענונג פֿון דעם אַמעריקאַנער כירורג־דזשענעראַל האָט געזאָגט, און פּשוטע װעגן צוזאַמען צו בלײַבן פֿאַרבונדן."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  פֿאָרשונג פֿאַרבינדט איינזאַמקײט און אָפּגעשײדנקײט אין שפּעטער לעבן מיט אַ העכערער ריזיקע פֿאַר דעמענץ. די 2024 Lancet Commission רעכנט, אַז אָפּגעשײדנקײט מאַכט בערך 5% פֿון די פֿאַלן, כאָטש אַ טײל פֿון דער פֿאַרבינדונג קען זײַן, אַז פֿרי דעמענץ מאַכט מענטשן זיך צוריקציִען. בלײַבן אין קאָנטאַקט, געמײנזאַמע האָבִיס און הילף מיט געהער שטיצן אַלע פֿאַרבינדונג. פֿאַר מענטשן װאָס לעבן מיט דעמענץ זענען געמײנזאַמע טעטיקײטן װיכטיק פֿאַר פֿרײד און לעבנס־קוואַליטעט.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "די Lancet Commission רעכנט אָפּגעשײדנקײט אין שפּעטער לעבן צו איינע פֿון 14 ענדערבאַרע דעמענץ־ריזיקע־פֿאַקטאָרן, בערך 5% פֿון די פֿאַלן."
+  - "די װאַרענונג פֿון דעם אַמעריקאַנער כירורג־דזשענעראַל אין 2023 האָט פֿאַרבונדן כראָנישע איינזאַמקײט און אָפּגעשײדנקײט מיט בערך 50% העכערע דעמענץ־ריזיקע בײַ עלטערע מענטשן."
+  - "רוב פֿון דעם באַװײַז איז אָבסערװאַציע־שטודיע, און פֿרי דעמענץ קען אַליין מאַכן מענטשן זיך צוריקציִען."
+  - "געהער־ און זעונג־פּראָבלעמען, אַלײן לעבן און זאָרגן פֿאַר אַ מענטש העכערן אַלע די ריזיקע פֿון אָפּגעשײדנקײט."
+  - "פֿאַר מענטשן מיט דעמענץ שטיצן פֿריידיקע געמײנזאַמע טעטיקײטן די לעבנס־קוואַליטעט; דער ציל איז קאָנטאַקט, נישט פֿאַרפֿאָרמאַנס."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "צי מאַכט איינזאַמקײט דעמענץ?"
+    a: "דאָס איז נישט באַװיזן געװאָרן. פֿיל שטודיעס פֿאַרבינדן איינזאַמקײט און אָפּגעשײדנקײט מיט אַ העכערער ריזיקע פֿאַר דעמענץ, אָבער פֿרי מוח־ענדערונגען קענען אויך מאַכן מענטשן זיך צוריקציִען פֿון אַנדערע. פֿאַרבונדן בלײַבן האָט פֿיל אַנדערע נוצן פֿאַר די שטימונג און די געזונט, דעריבער איז עס װערט צו שטיצן אַזױ אָדער אַזױ."
+  - q: "װאָס איז דער חילוק צװישן איינזאַמקײט און אָפּגעשײדנקײט?"
+    a: "אָפּגעשײדנקײט הייסט, אַז מען האָט װעניק מענטשן צו רעדן מיט רעגולער. איינזאַמקײט איז דאָס װײטיקדיקע געפֿיל פֿון אַלײן זײַן אָדער אָפּגעשניטן זײַן. מען קען לעבן אַלײן און זיך נישט פֿילן איינזאַם, אָדער פֿילן זיך איינזאַם אַרום מענטשן."
+  - q: "װי קען איך העלפֿן מײַן עלטערן מיט דעמענץ בלײַבן פֿאַרבונדן?"
+    a: "קורצע, רעגולערע קאָנטאַקטן אַרבעטן גוט. פּרוּװט אַ באַשטימטן װאָכנדיקן רופֿ אָדער װידעאָ־שמועס, אַ געמײנזאַמע טעטיקײט בײַם קיך־טיש, אַ זכּרון־קאַפֿע, אָדער אַ באַזוך מיט אַ חיה אָדער אַ אײניקל. האַלט גרופּעס קליין און רויִק, און לאָזט דעם מענטש באַשטימען דעם גאַנג."
+  - q: "װוּ קען איך געפֿינען לאָקאַלע הילף פֿאַר אַ עלטערן מענטש װאָס איז אָפּגעשײדנט?"
+    a: "דער Eldercare Locator, אַ עפֿנטלעכע דינסט, פֿאַרבינדט משפּחות מיט לאָקאַלע אַגענטורן פֿאַר עלטערע און מיט קהילה־פּראָגראַמען. מען קען אים דערגרײכן אויף 800-677-1116 אָדער אויף eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+מענטשן זענען געשאַפֿט צו זײַן צוזאַמען מיט אַנדערע, און דאָס ענדערט זיך נישט מיט די יאָרן. פֿאָרשונג פֿאַרבינדט איינזאַמקײט און אָפּגעשײדנקײט אין שפּעטער לעבן מיט אַ העכערער ריזיקע פֿאַר דעמענץ, און אױך מיט האַרץ־קרענק און דעפּרעסיע. די פֿאָרשונג קען נאָך נישט זאָגן, װי פֿיל פֿון דער פֿאַרבינדונג איז סיבה און װירקונג. דער דאָזיקער בלאַט דערקלערט װאָס דער באַװײַז װײַזט, פּראַקטישע װעגן צו בלײַבן פֿאַרבונדן, און פֿאַרװאָס געמײנזאַמע טעטיקײטן זענען אַזױ װיכטיק פֿאַר מענטשן װאָס לעבן שױן מיט דעמענץ.
 
-## Are loneliness and isolation linked with dementia?
+## זענען איינזאַמקײט און אָפּגעשײדנקײט פֿאַרבונדן מיט דעמענץ?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+יאָ, פֿיל שטודיעס פֿאַרבינדן זײ, כאָטש די ריכטונג איז נישט גאָר קלאָר. די [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) רעכנט אָפּגעשײדנקײט אין שפּעטער לעבן צו איינע פֿון 14 ענדערבאַרע ריזיקע־פֿאַקטאָרן. [די UCL׳s סיכום פֿון דעם באַריכט](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) שאַצט עס אױף בערך 5% פֿון דעמענץ־פֿאַלן אין דער גאַנצער װעלט.
 
-What the evidence shows:
+װאָס דער באַװײַז װײַזט:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **װעניקער קאָנטאַקט, העכערע ריזיקע.** די Commission באַשרײַבט צװײ איבערבליקן װאָס האָבן פֿאַרבונדן װעניקער אָפֿט געזעלשאַפֿטלעכן קאָנטאַקט מיט אַ העכערער ריזיקע פֿאַר דעמענץ. איינער האָט געפֿונען בערך 57% העכערע ריזיקע, און דער אַנדערער בערך 18%.
+- **אױך איינזאַמקײט.** איינזאַמקײט, דאָס געפֿיל פֿון אָפּגעשניטן זײַן, איז אױך פֿאַרבונדן געװאָרן מיט העכערער דעמענץ־ריזיקע אין עטלעכע איבערבליקן.
+- **דער כירורג־דזשענעראַלס מײנונג.** אין מאי 2023 האָט דער אַמעריקאַנער כירורג־דזשענעראַל אַרױסגעגעבן אַ [װאַרענונג װעגן איינזאַמקײט און אָפּגעשײדנקײט](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). זי זאָגט, אַז כראָנישע איינזאַמקײט און אָפּגעשײדנקײט קענען העכערן די ריזיקע פֿון דעמענץ בײַ עלטערע מענטשן מיט בערך 50%. זי האָט אױך פֿאַרבונדן שלעכטע געזעלשאַפֿטלעכע פֿאַרבינדונג מיט אַ 29% העכערע ריזיקע פֿון האַרץ־קרענק און אַ 32% העכערע ריזיקע פֿון שלאַג.
+- **װי אָפֿט עס קומט פֿאָר.** אַ [נאַציאָנאַל אַקאַדעמיעס־באַריכט](https://www.ncbi.nlm.nih.gov/books/NBK557972/) האָט געפֿונען, אַז בערך 24% פֿון אַמעריקאַנער װאָס זענען 65 יאָר און עלטער און װאָס לעבן אין דער קהילה, זענען געזעלשאַפֿטלעך אָפּגעשײדנט.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+אַ װיכטיקע װאָרענונג: די Lancet Commission באַמערקט, אַז מענטשן קענען זיך צוריקציִען פֿון געזעלשאַפֿטלעכע טעטיקײטן אין דער פֿרי פֿאַזע פֿון דעמענץ, װען ס׳איז נאָך נישט דיאַגנאָזירט. דעריבער קען אַ טײל פֿון דער פֿאַרבינדונג זײַן, אַז דעמענץ פֿירט צום צוריקציִען זיך, און נישט בלױז, אַז צוריקציִען העכערט די ריזיקע. כמעט די גאַנצע באַװײַז קומט פֿון אָבסערװאַציע־שטודיעס.
 
-## What is the difference between loneliness and isolation?
+## װאָס איז דער חילוק צװישן איינזאַמקײט און אָפּגעשײדנקײט?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+דער [נאַציאָנאַלער אינסטיטוט פֿאַר עלטערװערן (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) דערקלערט עס אַזױ. **אָפּגעשײדנקײט** מיינט, אַז מען האָט װעניק געזעלשאַפֿטלעכע קאָנטאַקטן, אָדער װעניק מענטשן צו רעדן מיט רעגולער. **איינזאַמקײט** איז דאָס װײטיקדיקע געפֿיל פֿון אַלײן זײַן אָדער אָפּגעשניטן זײַן. אײנער קען לעבן אַלײן און זיך גוט פֿילן, און אײנער קען זיך איינזאַם פֿילן אין אַ פֿולן צימער.
 
-The NIA lists factors that raise the risk of both:
+דער NIA ציילט אױף פֿאַקטאָרן װאָס העכערן די ריזיקע פֿון ביידן:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- געהער־ אָדער זעונג־פּראָבלעמען
+- שװערקײט צו גײן אַרום, אָדער קײן טראַנספּאָרט
+- אַלײן לעבן, אָדער אַ גרױסער פֿאַרלוסט, װי אַ טױט פֿון אַ פּאָרטנער אָדער ראַטירונג
+- זכּרון־ אָדער טראַכטונג־ענדערונגען
+- זאָרגן פֿאַר אַ באַליבטן מענטש װאָס איז קראַנק
+- געלט־זאָרגן אָדער שפּראַך־שװערקײטן
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+געהער איז אַ גרױסע זאַך. דער NIA באַמערקט, אַז מענטשן װאָס הערן נישט גוט קענען זיך צוריקציִען, װײַל די שמועס װערט פֿראַסטרירנד אָדער שעמעדיק. אונדזער [געהער־און־מוח־געזונט פֿירער](/brain-health/hearing/) באַהאַנדלט געהער־בדיקות און אָװער־דער־קאָונטער געהער־אַפּאַראַטן.
 
-## Practical ways to stay connected
+## פּראַקטישע װעגן צו בלײַבן פֿאַרבונדן
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+דער NIA גיט אַ סך אידעען. קלײַבט איין אָדער צװײ װאָס פּאַסן:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **פּלאַנט רעגולערע קאָנטאַקט.** אַ באַשטימטע צײַט יעדן טאָג אָדער װאָך צו רופֿן, שרײַבן, אימעילן אָדער שיקן אַ קאָרטל מיט משפּחה, פֿרײַנד אָדער שכנים.
+- **ניצט װידעאָ־רופֿן אָדער קלוגע רעדנער.** אױב טעכנאָלאָגיע איז נײַ, געבן פֿיל עפֿנטלעכע ביבליאָטעקן און קהילה־צענטערן קלאַסן. זע אונדזער [טעלעפֿאָן און װידעאָ־רופֿן פֿירער](/activities/phone-and-video-calls/).
+- **זײַט אין אַ גרופּע.** אַ קלאַס, אַ גלויבנס־קהילה, אַ שפּאַציר־קלוב אָדער אַ פֿרײַװילליקע ראָלע געבן קאָנטאַקט און אַ געפֿיל פֿון ציל.
+- **הייב װידער אָן אַ אַלטע האָבי** אָדער לערנט אַ נײַע מיט אַנדערע מענטשן.
+- **באַװעגט זיך מיט אַנדערע.** טוט גימנאַסטיק מיט אַ פֿרײַנד אָדער אַ גרופּע. אונדזער [גימנאַסטיק־פֿירער](/brain-health/exercise/) האָט זאַנפֿטע אָפּציעס.
+- **דענקט װעגן אַ חיה**, אױב איר קענט זאָרגן פֿאַר אײנעם.
+- **ניצט לאָקאַלע דינסטן.** סעניאָר־צענטערן, אַרײַנגערעכנט Area Agencies on Aging און דער Eldercare Locator (800-677-1116), קענען װײַזן אײַך צו פּראָגראַמען און טראַנספּאָרט.
 
-## Why do shared activities matter in dementia?
+## פֿאַרװאָס זענען געמײנזאַמע טעטיקײטן װיכטיק בײַ דעמענץ?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+פֿאַר אַ מענטש װאָס לעבט שױן מיט דעמענץ, איז פֿאַרבונדנקײט װעגן פֿרײד, קאָמפֿאָרט און דעם געפֿיל פֿון צוגעהערנקײט, נישט װעגן צו פֿאַרמינערן די ריזיקע. די Lancet Commission זאָגט, אַז טעטיקײטן העלפֿן מענטשן מיט דעמענץ האַלטן פֿרײד און ציל. די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/daily-care/activities) באַמערקט, אַז טעטיקײטן פֿאַרבעסערן נישט נאָר די לעבנס־קוואַליטעט, נאָר קענען אױך פֿאַרמינערן האַנדלונגען װי װאַנדערן אָדער אַגיטאַציע. די [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) לײגט צו, אַז מענטשן מיט אַלצהײַמער דאַרפֿן זײַן אַקטיװ און טאָן זאַכן װאָס זײ האָבן ליב.
 
-Ideas that work well:
+אידעען װאָס אַרבעטן גוט:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **קוקט צונױף אױף בילדער.** [Conversation Cards](/games/conversation-cards/) געבן אָפֿענע פֿראַגן אָן פֿאַרהער, װי „דערצײלט מיר װעגן…“ זע אונדזער [זכּרונות־פֿירער](/activities/reminiscence/).
+2. **שפּילט זײַט־בײַ־זײַט.** [Picture Pairs](/games/picture-pairs/) האַלט בילדער זעבאַר און האָט נישט קײן טײמער אָדער רעזולטאַט, אַזױ עס איז נישט קײן דרוק. אונדזער פֿירער װעגן [װי צו שפּילן צוזאַמען](/caregiving/how-to-play-together/) האָט עצות.
+3. **ניצט משפּחה־בילדער.** [Photo Pairs](/games/photo-pairs/) מאַכט פֿאָטאָס װאָס איר קלײַבט אַ שפּיל פֿון צוזאַמענפּאַסן, און די פֿאָטאָס בלײַבן אױף אײַער געצײַג.
+4. **ברענגט מענטשן צונױף.** [Picture Bingo](/games/picture-bingo/) פּאַסט פֿאַר משפּחה־צונױפֿקונפֿטן און [גרופּעס אין פֿלעגע־הײמען](/activities/care-home-groups/).
+5. **טײלט מוזיק, הױזאַרבעט אָדער דעם גאָרטן.** זע [מוזיק־טעטיקײטן](/activities/music/), [הױזאַרבעט](/activities/household-tasks/) און אונדזער גאַנצע ליסטע פֿון [אידעען פֿאַר טעטיקײטן](/activities/ideas/).
+6. **מאַכט באַזוכן לײַכטער.** אונדזער [באַזוך־פֿירער](/activities/visiting/) באַהאַנדלט קורצע, רויִקע באַזוכן װאָס זענען גוט פֿאַר אַלעמען.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+האַלט עס קלײן און באַקװעם. אַ שטילע שטוב מיט איין אָדער צװײ מענטשן אַרבעט אָפֿט בעסער װי אַ גרויסע גרופּע. װען דער מענטש װערט מיד אָדער װערט אַראָפּ פֿון אינטערעס, איז עס גוט צו אױפֿהערן. צוזאַמען זיצן מיט אַ גלאָז טיי איז אױך אַ גוט רעזולטאַט.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+פֿאַר אַ מענטש װאָס לעבט אַלײן מיט דעמענץ, רעקאָמענדירט דער NIA צו געפֿינען אַ צוגעטרויטן מענטש װאָס קען אָפֿט באַזוכן אָדער װידעאָ־רופֿן, און דינען אַלס אַ נויטפֿאַל־קאָנטאַקט. ער דערמאָנט אױך אַ לאָקאַלע זכּרון־קאַפֿע, אַ רויִיקן געזעלשאַפֿטלעכן פּלאַץ פֿאַר מענטשן מיט זכּרון־פֿאַרלוסט און זייערע משפּחות.
 
-## Caregivers get lonely too
+## זאָרגערס װערן אױך איינזאַם
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+דער NIA ציילט אױף זאָרגן פֿאַר אַ באַליבטן מענטש װי אַ ריזיקע־פֿאַקטאָר פֿאַר אָפּגעשײדנקײט. באַשיצט עטלעכע צײַט פֿאַר אײַערע אייגענע פֿרײַנדשאַפֿטן, שטיצע־גרופּעס און רו. אונדזער [זאָרגער־זעלבסטפֿלעגן־פֿירער](/caregiving/caregiver-self-care/) האָט פּראַקטישע אידעען.
 
-## Talk with a doctor
+## רעדט מיט אַ דאָקטער
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+װען איר אָדער דער מענטש װאָס איר זאָרגט פֿאַר פֿילט זיך איינזאַם אָדער אָפּגעשײדנט רוב צײַט, זאָגט עס צום דאָקטער. דער NIA מוטיװירט מענטשן צו טײלן גרױסע לעבנס־ענדערונגען, װי אַ טױט אין דער משפּחה, כּדי דער דאָקטער זאָל פֿאַרשטײן דאָס גאַנצע בילד. פֿילן זיך נידעריק װעגן װאָכן לאַנג קען זײַן דעפּרעסיע, װאָס קען באַהאַנדלט װערן. װען אַן עלטערער מענטש האָט נײַ זיך אָפּגעצויגן פֿון פֿרײַנד אָדער טעטיקײטן װאָס ער האָט פֿריִער ליב געהאַט, איז די ענדערונג װערט צו דערמאָנען אַ דאָקטער אױך. לײענט [װאָס פֿרי צײכנס און װען צו זען אַ דאָקטער](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+דער טעקסט איז אַ אַלגעמיינע אינפֿאָרמאַציע, נישט מעדיצינישע עצה. זע אונדזער [מעדיצינישן דיסקלעימער](/medical-disclaimer/).
