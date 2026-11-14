@@ -6,6 +6,42 @@ import { createRng, randomSeed, shuffle } from '../lib/games/random';
 import { GameFrame } from './shared/GameFrame';
 import { sounds } from './shared/sound';
 
+interface SayingActionsProps {
+  choices: string[];
+  choicesLabel: string;
+  showLabel: string;
+  onChoose: (word: string) => void;
+  onReveal: () => void;
+}
+
+export function SayingActions({
+  choices,
+  choicesLabel,
+  showLabel,
+  onChoose,
+  onReveal,
+}: SayingActionsProps) {
+  return (
+    <>
+      <button type="button" className="btn say-card__reveal" onClick={onReveal}>
+        {showLabel}
+      </button>
+      <div className="say-choices" role="group" aria-label={choicesLabel}>
+        {choices.map((word) => (
+          <button
+            key={word}
+            type="button"
+            className="btn"
+            onClick={() => onChoose(word)}
+          >
+            {word}
+          </button>
+        ))}
+      </div>
+    </>
+  );
+}
+
 export default function FinishTheSaying(props: PlayProps) {
   const { ui, lang, content } = props;
   const [deck, setDeck] = useState<Saying[]>([]);
@@ -78,18 +114,13 @@ export default function FinishTheSaying(props: PlayProps) {
           <span className="say-card__blank">{revealed ? fill(ui.finishTheSaying.ending, parts, lang) : '    '}</span>
         </p>
         {!revealed ? (
-          <>
-            <div className="say-choices" role="group" aria-label={ui.finishTheSaying.choicesLabel}>
-              {choices.map((w) => (
-                <button key={w} type="button" className="btn" onClick={() => choose(w)}>
-                  {w}
-                </button>
-              ))}
-            </div>
-            <button type="button" className="btn btn--quiet" onClick={reveal}>
-              {ui.finishTheSaying.show}
-            </button>
-          </>
+          <SayingActions
+            choices={choices}
+            choicesLabel={ui.finishTheSaying.choicesLabel}
+            showLabel={ui.finishTheSaying.show}
+            onChoose={choose}
+            onReveal={reveal}
+          />
         ) : (
           <p className="say-prompt">
             <strong>{ui.finishTheSaying.talk}</strong>

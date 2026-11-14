@@ -6,6 +6,11 @@
 .game--wide {
   max-width: 960px;
 }
+.game__exit {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: var(--space-sm);
+}
 .game__options {
   display: grid;
   gap: var(--space-md);
@@ -38,9 +43,6 @@
   padding-top: var(--space-md);
   margin-top: var(--space-md);
   border-top: 1px solid var(--gm-surface-sunken);
-}
-.game__bar .btn--quiet:last-child {
-  margin-inline-start: auto;
 }
 /* One optional question for the person helping, after play has begun. */
 .game__feedback {
@@ -488,11 +490,18 @@
   border-bottom: 4px solid var(--gm-primary);
   color: var(--gm-primary);
 }
+.say-card__reveal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 64px;
+  margin-bottom: var(--space-md);
+}
 .say-choices {
   display: grid;
   gap: var(--space-sm);
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr));
-  margin-bottom: var(--space-md);
 }
 .say-choices .btn {
   font-size: 1.375rem;
