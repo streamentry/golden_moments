@@ -379,7 +379,10 @@
     "Lingala",
     "Dhivehi",
     "Ossetian",
-    "Sami"
+    "Sami",
+    "Kinyarwanda",
+    "Setswana",
+    "OpenCode"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",

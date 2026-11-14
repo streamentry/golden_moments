@@ -134,7 +134,8 @@ promises a health benefit.
 Run `python3 scripts/register_language.py <code>` (see `--list` for the
 languages it knows). It makes every edit below in one step and is safe to run
 again; then run `dart format test/l10n/arb_files_test.dart`. It registers, it
-does not translate. By hand, change all of these together: the ARB files, `LOCALES` in
+does not translate (to machine-translate with OpenCode, see
+[opencode-translation.md](opencode-translation.md)). By hand, change all of these together: the ARB files, `LOCALES` in
 `scripts/pack_text.py`, `CFBundleLocalizations` in `ios/Runner/Info.plist`, the
 `.lproj` folders and the Xcode variant group, `knownRegions`, and
 `locales_config.xml`. Then run `python3 scripts/pack_text.py` to add an empty
