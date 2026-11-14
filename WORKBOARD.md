@@ -1,6 +1,6 @@
 # Workboard
 
-Updated 2026-10-18 (senior-first R0/R1 continuation). Scope: US English, local-first Golden Moments 1.3.0 candidate.
+Updated 2026-11-14 (senior-first R0/R1 continuation). Scope: US English, local-first Golden Moments 1.3.0 candidate.
 
 | Deliverable | Status |
 | --- | --- |
@@ -36,6 +36,7 @@ Astro + React + TanStack Store site in `site/`, built as static files for Cloudf
 | Website guide: multilingual dementia communication | Guide and updated communication-tips parent are machine translated across all 184 non-English registry codes and five additional active site variants (189 routes per page). Structural checks passed: 0 errors, 9 non-fatal metadata-width warnings; translations remain unreviewed. No multilingual reader, caregiver, clinician, interpreter or native-speaker review. Round 91. |
 | Website guide language coverage gate | Round 92: CI validates changed English guides in all registry codes and active site locales; translated SEO titles allow up to 140 characters while long display widths still warn. No user-facing text changed. PR #241 merged as `f650356`; reported checks passed after rerunning the Flutter test job. The Website workflow check was not present in the retrieved run list, so hosted execution of the new gate is unverified. Historical backfill and native-speaker review remain open. |
 | App: accessible labels for visible family photos | Round 93: visible matching tiles announce the user's saved caption and optional description; hidden tiles stay generic. No auto-identification or new fixed copy. Local Python and metadata checks pass. Flutter/Dart and screen-reader device checks remain open. |
+| Website: answer-free Finish the Saying path | Round 94 moves the existing "Show the ending" action before the answer choices and makes it full width with a 64px minimum target. No copy or locale files added. Site tests, TypeScript, build and checker pass; built page inspected. Person, caregiver and screen-reader checks remain open. |
 | Website caregiving guide: home safety | New English guide offers a room-by-room review of common home hazards, with person-specific adaptations and advice on when to ask an occupational therapist or another qualified professional. Source and checks in Round 52; browser and caregiver/person review remain open. |
 | Website guide: responding after a fall | New English guide explains immediate safety steps, local emergency escalation, follow-up after a fall and why families should not lift the person alone. Round 88; no person, caregiver, clinician or native-speaker review yet. |
 | Website caregiving guide: travel planning | New English guide helps families decide whether a trip fits, keep familiar routines, prepare essentials and leave room to stop or change plans. Source and checks in Round 54; browser and caregiver/person review remain open. |

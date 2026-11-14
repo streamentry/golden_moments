@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 93 / 500 implemented**
+**Source improvements: 94 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -14,7 +14,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 
 | Rounds | Changed scope | Coverage status |
 |---|---|---|
-| 1–89 | Earlier app and website changes | Not yet audited. PR #237 merged an initial partial guide backfill. PR #240 remains open with requested changes for incomplete language coverage and CI issues; its self-reported counts are not an independent coverage audit. Backfill missing changed user-facing text. |
+| 1–89 | Earlier app and website changes | Not yet audited. PR #237 merged an initial partial guide backfill. PR #240 merged as a partial, unreviewed localization batch under an explicit maintainer exception; its description reports 114/185 app languages, 105/189 complete guide locales and about 4,200 guide files still missing. It is not a completed language-coverage improvement. Backfill missing changed user-facing text. |
 | 90 | LGBTQ+ guide and residential-care cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 16 non-fatal width warnings; lived-experience/native review open. |
 | 91 | Multilingual guide and communication-tips cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
 | 92 | Changed-guide translation gate | No end-user copy added. Merged as `f650356`; all checks returned by the PR check tool passed after the Flutter job reran. The Website workflow was absent from the retrieved run list, so its hosted execution is unverified. The gate validates changed English guides across all 184 registered non-English codes and five additional active site variants. |
@@ -717,7 +717,7 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Merged implementation commit | `f65035601786eac6737cd4e17c156016f64969a7` | PR #241 squash-merged from head `f7310ce0c622a5123120df48c9f053ef197e740a`. |
 | Tests | Local: `python3 tests/test_guide_coverage.py` (4); `python3 site/scripts/test_guide_translation.py` (8); Python suite (117); site Vitest (1,869); Astro sync, TypeScript, 13,157-page build and check-site (0 errors, 541 warnings). The gate passed four English guides across 189 locales with 0 errors and 25 warnings. | PR check reports for the exact head passed after rerunning the Flutter test job. The Website workflow was not present in the retrieved run list; hosted execution of the new gate remains unverified. Local PyYAML installation was network-blocked; tests used installed 6.0.3. |
 | Render inspection | The Hausa communication-tips route contains the full 81-character search title; the caregiving hub contains the Round 90 and 91 links. | Static output confirmed; no live-browser review. |
-| Limits | Machine translations remain unreviewed. The gate checks structure and added numbers but not semantic translation quality or native-speaker review; it does not close the historical guide backlog. | PR #240 remains open with review changes requested; its reported missing-file counts are not independently audited. |
+| Limits | Machine translations remain unreviewed. The gate checks structure and added numbers but not semantic translation quality or native-speaker review; it does not close the historical guide backlog. | PR #240 was later merged as a partial batch after an explicit maintainer exception. Its reported counts are author-reported, not independently audited, and do not satisfy the 185-language completion gate. |
 
 ## Round 93: read saved descriptions on visible family-photo tiles (read 2026-11-14)
 
@@ -731,3 +731,15 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commit | `b2737a42fb0406dcd92f5712a1c3fef31985a378` | Code and spec changes on `codex/round-93-visible-photo-descriptions`, based on merged main `f650356`. |
 | Checks | `python3 -m unittest discover -s tests -p 'test_*.py' -v` (117), `python3 scripts/release_metadata.py --check` and `git diff --check` pass. Regression tests cover hidden labels before reveal, visible saved descriptions after reveal, and visible photo descriptions in the keep-visible mode. | Flutter/Dart are not installed locally, so the Flutter tests, analyzer and formatter were not run. The hosted PR checks are pending. `npx @google/design.md lint DESIGN.md` was blocked by the local package guard. |
 | Not verified | The semantics tree is covered by widget-test source, but no VoiceOver/TalkBack device session, caregiver or person-with-dementia review was run. | Keep GM-014 partial; do not claim assistive-technology support as device-verified. |
+
+## Round 94: put the answer-free saying reveal first (read 2026-11-14)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Parkinson's Foundation says games, puzzles and activities that emphasize a person's strengths and interests may be more beneficial than forced memory games. Alzheimer's Society advises against jogging someone's memory, recommends allowing time, and cautions that too many choices can be tiring. AFTD advises choosing activities the person enjoys and adjusting them if they become difficult or stressful. | These sources support a person-led, low-pressure design direction. They do not prove an effect from this interface change. |
+| Existing coverage and gap | Finish the Saying already had a localized "Show the ending" action, but it appeared after the three answer choices in a quieter style. Earlier log entries cover footer/live-announcement order and optional Conversation Cards prompts, not the reveal action's position. | The layout foregrounded choosing an answer and made the answer-free path less visible. |
+| Change | Moved the existing reveal action before the choices and styled it full width with a 64px minimum height. The reveal callback, answer options, and Next action keep their existing behavior. | Makes the no-answer option easier to notice without removing choice or adding a memory score. |
+| Language coverage | Reuses `ui.finishTheSaying.show`; no fixed text or locale files changed. | The full 185-language count remains 3/500. |
+| Implementation commit | `9e504ec8d31879ae300953ca8e0a7f4bc4212a27` | Website component, styles and regression test on `codex/round-94-reveal-path`, based on merged main `e61665b`. |
+| Checks | Node 24.11.1: 1,870 Vitest tests, `tsc --noEmit`, Astro sync, 16,878-page build and `check-site` (0 errors, 580 warnings); guide coverage tests (4) and guide translation tests (8); browser inspection and `git diff --check`. | `astro check` was not run because `@astrojs/check` is not installed; no dependency was added. Local cspell is unavailable. Checker warnings include translated metadata and wording from the unreviewed partial locale batch. |
+| Not verified | No person-with-dementia, caregiver, clinician, native-speaker or screen-reader review was run. | Treat the design benefit as an evidence-led hypothesis, not a validated clinical or user outcome. |

@@ -348,3 +348,7 @@ The changed-guide coverage gate and translated search-title schema adjustment ad
 ## Round 93 score note (2026-11-14)
 
 This app accessibility change uses an existing localized formatter and adds no fixed copy. The new widget-test source covers visible and hidden tile labels, but Flutter/Dart are unavailable locally, so formatting, analysis and widget execution are not verified on this worktree. No VoiceOver/TalkBack device session or family/care-partner review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score.
+
+## Round 94 score note (2026-11-14)
+
+The answer-free action now comes before choices and has a 64px minimum target; its existing localized copy, typography and colors are unchanged. The 1,870 site tests, TypeScript check, Astro build and `check-site` passed, and the built game was inspected in a browser. The checker still reports warnings from translated metadata and the merged unreviewed locale batch. No participant, caregiver, clinician, native-speaker or screen-reader review was done. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not treat this site-only validation as a new full-rubric measurement.
