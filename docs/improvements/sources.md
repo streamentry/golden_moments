@@ -497,3 +497,9 @@ Application: the website Coloring game reset all filled regions when the page se
 - [Alzheimer's Society: Ideas to help a person with dementia enjoy games](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/ideas-help-person-dementia-enjoy-games) — opened. It recommends adapting games to the person and suggests larger pieces for someone who has difficulty handling objects. The page does not evaluate touchscreen hit areas.
 
 Application: make the narrow flower stem easier to select with a transparent, wider SVG hit area while preserving the visible drawing. This transfers the source's adaptation principle to digital touch interaction; it is a usability inference, not evidence of a clinical or measured participation effect. Neighboring regions keep their original hit areas to reduce accidental selection.
+
+## Round 98: maintain app language coverage when strings change (read 2026-11-14)
+
+- [Alzheimer's Society: How to communicate with a person with dementia](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — opened. It says to use the language the person usually communicates in, notes that some people may begin using the first language they learned, and emphasizes that experiences vary.
+
+Application: the app already lets people choose its language, but CI did not require changed ARB messages to exist across the 185-code registry. The new gate checks that coverage when app ARB files change. This translates a product language-access requirement into a build check; it does not establish translation quality or a clinical benefit. Store metadata, pack overlays and website guides remain outside this gate.

@@ -364,3 +364,7 @@ Coloring now retains each page's selected regions during page switching and clea
 ## Round 97 score note (2026-11-14)
 
 The flower stem hit area now extends beyond its visible border; the drawing and all copy stay unchanged. Site tests, TypeScript, static build and `check-site` pass. A browser interaction worked on the initial candidate, but that version also let a nearby tap select a leaf; the final, narrowed target was not browser-retested. No phone, screen-reader, caregiver or participant review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not treat this site-only validation as a new full-rubric measurement.
+
+## Round 98 score note (2026-11-14)
+
+The new CI gate checks changed app ARB strings for presence across the 185-code registry. It adds no interface, copy or runtime behavior. The focused tests and all 127 Python tests pass. This gate cannot score translation meaning or language quality. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a full-rubric change from this workflow-only improvement.
