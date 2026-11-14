@@ -484,3 +484,10 @@ Application: Finish the Saying already had a localized "Show the ending" action,
 - [Alzheimer's Society: Ideas to help a person with dementia enjoy games](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/ideas-help-person-dementia-enjoy-games) — opened. It recommends adapting games, shortening them when concentration is limited, and stopping when the person loses interest so play can resume another time.
 
 Application: the shared website game frame already had a localized "Done for now" link, but placed it after the board, live message and footer actions. It now appears before options and instructions in every game. This is a usability inference from person-led guidance; the sources do not establish that this placement changes distress or activity outcomes.
+
+## Round 96: keep unfinished coloring available (read 2026-11-14)
+
+- [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) — opened. It advises adapting or ending activities if attention wanes or frustration rises and says to focus on enjoyment rather than achievement.
+- [Alzheimer's Society: Ideas to help a person with dementia enjoy games](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/ideas-help-person-dementia-enjoy-games) — opened. It says games can be simplified, and if a person loses interest, stop and try again another time.
+
+Application: the website Coloring game reset all filled regions when the page selector changed. It now keeps fills separately for each drawing during the current session, so returning to a page restores unfinished work. Clear and restart affect only the selected drawing. This is a usability inference; no evidence says that preserving color fills changes distress or activity outcomes. Progress is not saved after reload.

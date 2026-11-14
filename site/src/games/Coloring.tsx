@@ -2,6 +2,7 @@ import { useEffect, useState, type KeyboardEvent } from 'react';
 import { COLORING_PAGES, PAINTS, type Paint } from '../data/coloring';
 import type { PlayProps } from '../i18n/play';
 import { fill } from '../i18n/play/format';
+import { coloringPageFills, colorRegion, clearColoringPage, type ColoringProgress } from '../lib/games/coloring-progress';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
@@ -13,9 +14,10 @@ export default function Coloring(props: PlayProps) {
   const { ui, lang, content } = props;
   const [pageId, setPageId] = useState(COLORING_PAGES[0]!.id);
   const [paint, setPaint] = useState(PAINTS[2]!);
-  const [fills, setFills] = useState<Record<string, string>>({});
+  const [progress, setProgress] = useState<ColoringProgress>({});
   const [message, setMessage] = useState('');
   const page = COLORING_PAGES.find((p) => p.id === pageId) ?? COLORING_PAGES[0]!;
+  const fills = coloringPageFills(progress, pageId);
   const pageText = (id: string) => content.coloring.pages[id] ?? { name: id, regions: {} };
   const pageName = pageText(page.id).name;
   const partName = (id: string) => pageText(page.id).regions[id] ?? id;
@@ -23,13 +25,12 @@ export default function Coloring(props: PlayProps) {
   const isCompleted = page.regions.length > 0 && page.regions.every((r) => Boolean(fills[r.id]));
 
   useEffect(() => {
-    setFills({});
     setMessage('');
   }, [pageId]);
 
   const paintPart = (id: string) => {
     const nextFills = { ...fills, [id]: paint.value };
-    setFills(nextFills);
+    setProgress((current) => colorRegion(current, pageId, id, paint.value));
     const isCompleted = page.regions.every((r) => Boolean(nextFills[r.id]));
     if (isCompleted) {
       sounds.done();
@@ -93,7 +94,7 @@ export default function Coloring(props: PlayProps) {
         message={message}
         onRestart={() => {
           sounds.tap();
-          setFills({});
+          setProgress((current) => clearColoringPage(current, pageId));
           setMessage(ui.coloring.cleared);
         }}
         restartLabel={ui.coloring.restart}
@@ -113,7 +114,7 @@ export default function Coloring(props: PlayProps) {
                 className="btn btn--primary"
                 onClick={() => {
                   sounds.tap();
-                  setFills({});
+                  setProgress((current) => clearColoringPage(current, pageId));
                   setMessage(ui.coloring.cleared);
                 }}
               >

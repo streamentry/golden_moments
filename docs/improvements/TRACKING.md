@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 95 / 500 implemented**
+**Source improvements: 96 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -755,3 +755,15 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commit | `ec7243fec8b89935859cf82ea21984f2598dfe79` | Shared website game frame, style and regression test on `codex/round-95-visible-exit`, based on Round 94 head `4ee73cdda`. |
 | Checks | Node 24.11.1: 1,871 site tests, `tsc --noEmit`, Astro sync, 16,878-page build and `check-site` (0 errors, 580 warnings); guide coverage tests (4), guide translation tests (8), agent guidance tests (5), `git diff --check`. Built Word Search inspected at desktop and 375px width. | Local spell-check is unavailable. No cspell result is claimed. |
 | Not verified | No caregiver, person-with-dementia, clinician, native-speaker, or screen-reader review was run. | Treat easier access to the exit as a design hypothesis, not a measured user outcome. |
+
+## Round 96: preserve coloring while switching pages (read 2026-11-14)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association advises modifying activities when attention or frustration changes, and focusing on enjoyment rather than achievement. Alzheimer's Society says people need not finish an activity and can stop when they lose interest. | Keeping unfinished work available during an in-session switch supports flexible participation; the sources do not evaluate this particular interface behavior. |
+| Existing coverage and gap | Coloring pages already allow changing page, but a `pageId` effect called `setFills({})`; leaving a drawing discarded every color in it. Existing coloring work covers target/focus affordances, contrast and tap feedback, not retaining unfinished fills across page selection. | Changing pages acted as a silent reset of in-session progress. |
+| Change | Store coloring fills by page ID in component memory. Switching pages now restores that page's fills. Restart and clear actions clear only the current page. | No storage outside the current tab, network request, telemetry or new user-facing text. Reloading or closing the page still clears progress. |
+| Language coverage | Reuses existing page, region, color and clear labels; no locale files changed. | Full 185-language coverage remains 3/500. |
+| Implementation commit | `0583f9c43308eeee8639fbd464f6a27b5bfb93a8` | Coloring state helper, two state tests and game integration on `codex/round-96-coloring-session`, based on merged main `d02e10495907e8b7c668c6990f925c0f825de0ee`. |
+| Checks | Node 24.11.1: 1,873 site tests, `tsc --noEmit`, Astro sync, 16,878-page build and `check-site` (0 errors, 580 warnings); guide coverage tests (4), guide translation tests (8), agent guidance tests (5), `git diff --check`. Browser repro confirmed the blue stem remains colored after switching to House and back. | Local spell-check is unavailable. No cspell result is claimed. |
+| Not verified | No caregiver, participant, clinician, native-speaker or screen-reader review was run. | Preserved progress is limited to page changes during the current game session; it is not saved across reloads. |

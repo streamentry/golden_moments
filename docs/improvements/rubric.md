@@ -356,3 +356,7 @@ The answer-free action now comes before choices and has a 64px minimum target; i
 ## Round 95 score note (2026-11-14)
 
 The shared game exit now appears before each game's options and instructions. It reuses a localized 56px-minimum button and adds no fixed copy. The 1,871 site tests, TypeScript check, Astro build and `check-site` pass; Word Search was inspected at desktop and phone widths. No participant, caregiver or screen-reader review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this website-only change.
+
+## Round 96 score note (2026-11-14)
+
+Coloring now retains each page's selected regions during page switching and clears only the page the person restarts. The 1,873 site tests, TypeScript check, build and `check-site` pass. The browser repro confirms a colored region remains colored after changing pages and returning. No new text, storage or network behavior was added. No participant, caregiver or screen-reader review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this website-only change.
