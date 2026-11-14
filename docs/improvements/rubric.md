@@ -360,3 +360,7 @@ The shared game exit now appears before each game's options and instructions. It
 ## Round 96 score note (2026-11-14)
 
 Coloring now retains each page's selected regions during page switching and clears only the page the person restarts. The 1,873 site tests, TypeScript check, build and `check-site` pass. The browser repro confirms a colored region remains colored after changing pages and returning. No new text, storage or network behavior was added. No participant, caregiver or screen-reader review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this website-only change.
+
+## Round 97 score note (2026-11-14)
+
+The flower stem hit area now extends beyond its visible border; the drawing and all copy stay unchanged. Site tests, TypeScript, static build and `check-site` pass. A browser interaction worked on the initial candidate, but that version also let a nearby tap select a leaf; the final, narrowed target was not browser-retested. No phone, screen-reader, caregiver or participant review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not treat this site-only validation as a new full-rubric measurement.

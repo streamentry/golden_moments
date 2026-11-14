@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 96 / 500 implemented**
+**Source improvements: 97 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -19,6 +19,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 91 | Multilingual guide and communication-tips cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
 | 92 | Changed-guide translation gate | No end-user copy added. Merged as `f650356`; all checks returned by the PR check tool passed after the Flutter job reran. The Website workflow was absent from the retrieved run list, so its hosted execution is unverified. The gate validates changed English guides across all 184 registered non-English codes and five additional active site variants. |
 | 93 | Visible family-photo descriptions in app matching | No new fixed copy or translation files; reuses the existing localized formatter. The full-language audit count remains 3/500. |
+| Partial app-locale batch (#246) | Three app locales added; PR merged as `96da672` under a maintainer exception. | Machine-translated, unreviewed, 117/185 app locales total; partial and not counted toward full-language coverage. |
 
 ---
 
@@ -83,7 +84,11 @@ The source log records which product improvements exist. The separate 185-langua
 |---|---|---|
 | 92 | Changed-guide translation coverage gate | Merged as `f650356`; all reported checks passed after rerun. Website workflow execution was not visible in the retrieved run list. |
 | 93 | Visible family-photo descriptions in app matching | Implemented in `b2737a42`; local Flutter validation unavailable; hosted checks pending. |
-| 94–500 | Planned one by one | Pending |
+| 94 | Answer-free Finish the Saying path | Merged; existing localized action moved before choices and made easier to notice. |
+| 95 | Visible exit from website games | Merged; reused existing localized action. |
+| 96 | Keep coloring when switching pages | Merged; no fixed text changed. |
+| 97 | Larger invisible hit area for the coloring flower stem | Implemented in `cf7e34f5716af5860f34e1dabf9c15159ba8db78`; no fixed text or locale files changed. |
+| 98–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -767,3 +772,16 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commit | `0583f9c43308eeee8639fbd464f6a27b5bfb93a8` | Coloring state helper, two state tests and game integration on `codex/round-96-coloring-session`, based on merged main `d02e10495907e8b7c668c6990f925c0f825de0ee`. |
 | Checks | Node 24.11.1: 1,873 site tests, `tsc --noEmit`, Astro sync, 16,878-page build and `check-site` (0 errors, 580 warnings); guide coverage tests (4), guide translation tests (8), agent guidance tests (5), `git diff --check`. Browser repro confirmed the blue stem remains colored after switching to House and back. | Local spell-check is unavailable. No cspell result is claimed. |
 | Not verified | No caregiver, participant, clinician, native-speaker or screen-reader review was run. | Preserved progress is limited to page changes during the current game session; it is not saved across reloads. |
+
+## Round 97: widen the coloring flower stem hit area (read 2026-11-14)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society advises adapting games and suggests versions with larger pieces when someone has difficulty handling objects. It does not study digital touch targets. | Applying the adaptation principle to a narrow on-screen coloring region is a usability inference, not a measured dementia outcome. |
+| Existing gap | The coloring game made each SVG region clickable only on its painted shape. The flower stem is 16 units wide in a 400-unit SVG; at narrow display sizes that leaves a small tap area. Round 14 added visible hover/focus boundaries, not larger hit geometry. | The visual affordance existed, but tapping the narrow stem required more precision than other parts. |
+| Change | Add a separate transparent hit path for the flower stem with a 36px non-scaling stroke. Keep the visible art at its existing 4px outline. Leave neighboring leaves and all other regions at their original hit sizes so their expanded areas do not take over stem taps. | Only pointer/keyboard interaction changes. No visible illustration, text, saved data, network, telemetry or permission changes. |
+| Regression checks | `Coloring.test.ts` checks the final stem target width, non-scaling stroke, button semantics, unchanged visible outline and unexpanded neighboring leaf. On the initial candidate (48px strokes on multiple regions), a browser tap outside the stem selected it and preserved the drawing; a nearby exploratory tap selected a leaf. The final change narrowed enlargement to the stem and reduced it to 36px. | Automated checks pass. The browser interaction was not repeated after narrowing the final target. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Implementation commit | `cf7e34f5716af5860f34e1dabf9c15159ba8db78` | Website Coloring SVG hit path, data flag, style selectors and regression test on `codex/round-97-coloring-hit-area`, rebased onto `b87b89f7c` (PR #247). |
+| Checks | Node 24.22.2: `pnpm --dir site verify` (1,874 tests, Astro sync/build of 16,878 pages, `check-site` 0 errors and 580 warnings); `pnpm --dir site exec tsc --noEmit`; Python unittest suite (117); `git diff --check`. | Pass. |
+| Not verified | No participant, caregiver, clinician, native-speaker or screen-reader review was run. No phone-device run. | Treat easier tapping as a design hypothesis until people who use the activity review it. |
