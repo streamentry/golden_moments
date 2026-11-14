@@ -61,24 +61,37 @@ export default function Coloring(props: PlayProps) {
       aria-label={interactive ? fill(ui.coloring.artLabel, { page: pageName, count: page.regions.length }) : pageName}
     >
       {page.regions.map((r) => (
-        <path
-          key={r.id}
-          d={r.d}
-          data-region={interactive ? r.id : undefined}
-          fill={interactive ? (fills[r.id] ?? '#FFFFFF') : '#FFFFFF'}
-          stroke={INK}
-          strokeWidth={4}
-          strokeLinejoin="round"
-          {...(interactive
-            ? {
-                role: 'button',
-                tabIndex: 0,
-                'aria-label': partLabel(r.id),
-                onClick: () => paintPart(r.id),
-                onKeyDown: (e: KeyboardEvent) => onKey(e, r.id),
-              }
-            : {})}
-        />
+        <g key={r.id} className={interactive ? 'color-region' : undefined}>
+          {interactive ? (
+            <path
+              className="color-region__hit"
+              d={r.d}
+              data-region={r.id}
+              data-expanded-hit-target={r.expandedHitTarget ? 'true' : undefined}
+              fill="transparent"
+              stroke="transparent"
+              strokeWidth={r.expandedHitTarget ? 36 : 4}
+              vectorEffect={r.expandedHitTarget ? 'non-scaling-stroke' : undefined}
+              pointerEvents="all"
+              role="button"
+              tabIndex={0}
+              aria-label={partLabel(r.id)}
+              onClick={() => paintPart(r.id)}
+              onKeyDown={(e: KeyboardEvent) => onKey(e, r.id)}
+            />
+          ) : null}
+          <path
+            className={interactive ? 'color-region__art' : undefined}
+            data-region-art={interactive ? r.id : undefined}
+            d={r.d}
+            fill={interactive ? (fills[r.id] ?? '#FFFFFF') : '#FFFFFF'}
+            stroke={INK}
+            strokeWidth={4}
+            strokeLinejoin="round"
+            pointerEvents={interactive ? 'none' : undefined}
+            aria-hidden={interactive ? true : undefined}
+          />
+        </g>
       ))}
       {page.details ? <path d={page.details} fill="none" stroke={INK} strokeWidth={4} strokeLinecap="round" pointerEvents="none" /> : null}
     </svg>
