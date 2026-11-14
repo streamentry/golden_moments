@@ -1,8 +1,8 @@
 # 500 Big Improvements Tracker
 
-Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
+Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 92 / 500 implemented**
+**Source improvements: 93 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -14,10 +14,11 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 
 | Rounds | Changed scope | Coverage status |
 |---|---|---|
-| 1–89 | Earlier app and website changes | Not yet audited. PR #237 merged an initial partial guide backfill; PR #240 reports about 4,200 guide files still missing across about 88 languages; this count is not independently audited. Backfill any missing changed user-facing text. |
+| 1–89 | Earlier app and website changes | Not yet audited. PR #237 merged an initial partial guide backfill. PR #240 remains open with requested changes for incomplete language coverage and CI issues; its self-reported counts are not an independent coverage audit. Backfill missing changed user-facing text. |
 | 90 | LGBTQ+ guide and residential-care cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 16 non-fatal width warnings; lived-experience/native review open. |
 | 91 | Multilingual guide and communication-tips cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
-| 92 | Changed-guide translation gate | Complete: no end-user copy added. Site CI now validates every added or changed English guide across all 184 registered non-English codes and five additional active site variants. |
+| 92 | Changed-guide translation gate | No end-user copy added. Merged as `f650356`; all checks returned by the PR check tool passed after the Flutter job reran. The Website workflow was absent from the retrieved run list, so its hosted execution is unverified. The gate validates changed English guides across all 184 registered non-English codes and five additional active site variants. |
+| 93 | Visible family-photo descriptions in app matching | No new fixed copy or translation files; reuses the existing localized formatter. The full-language audit count remains 3/500. |
 
 ---
 
@@ -80,8 +81,9 @@ The source log records which product improvements exist. The separate 185-langua
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 92 | Changed-guide translation coverage gate | Implemented in this branch; hosted CI pending. |
-| 93–500 | Planned one by one | Pending |
+| 92 | Changed-guide translation coverage gate | Merged as `f650356`; all reported checks passed after rerun. Website workflow execution was not visible in the retrieved run list. |
+| 93 | Visible family-photo descriptions in app matching | Implemented in `b2737a42`; local Flutter validation unavailable; hosted checks pending. |
+| 94–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -712,7 +714,20 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Source fit | [Alzheimer's Society communication guidance](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) says language preferences vary and some people may use the first language they learned. | Keeping new and revised guides available in every published language is an engineering response to a real access need; it does not claim that machine translation is accurate. |
 | Existing gap | The site build validates translated guides that exist, but the page checker does not require copies for each locale when an English guide changes. The per-guide validator rejects added emergency numbers not in English, but CI did not run it across the required locales. A Hausa Round 91 search title at 81 characters also failed the translated schema's 80-character cap, even though the guide checker only warned on display width. | A new or revised guide could be missing in published locales, and a full translation could fail the build on an arbitrary metadata cap. |
 | Change | Site CI compares base and PR guide paths, then runs the existing structural validator for every non-English registry code and active site locale. It rejects missing copies, stale translatedFrom dates, mismatched headings/links and unsupported added numbers. Translated SEO-title schema now allows up to 140 characters, while existing search-width warnings remain. No user-facing copy, storage, telemetry, permission or network behavior changed. | Applies to added, modified, copied and renamed English Markdown guides. |
-| Tested implementation commit | d93a722066afcf5b1c2bb8b45c969390cd0aaac6 | Branch codex/round-92-guide-coverage-gate, based on main 7b97487aa92539f31346f6f5774b77160869a898. |
-| Tests | python3 tests/test_guide_coverage.py (4); python3 site/scripts/test_guide_translation.py (8); python3 -m unittest discover -s tests -p 'test_*.py' -v (117); pnpm exec vitest run (1,869); pnpm exec astro sync; pnpm exec tsc --noEmit; pnpm exec astro build (13,157 pages); pnpm exec node scripts/check-site.mjs (0 errors, 541 warnings). The guide gate passed four English source guides across 189 locales with 0 errors and 25 warnings. | The local YAML-validator install could not reach the package index because DNS was unavailable; tests used installed version 6.0.3. Hosted CI must confirm its isolated setup. |
+| Merged implementation commit | `f65035601786eac6737cd4e17c156016f64969a7` | PR #241 squash-merged from head `f7310ce0c622a5123120df48c9f053ef197e740a`. |
+| Tests | Local: `python3 tests/test_guide_coverage.py` (4); `python3 site/scripts/test_guide_translation.py` (8); Python suite (117); site Vitest (1,869); Astro sync, TypeScript, 13,157-page build and check-site (0 errors, 541 warnings). The gate passed four English guides across 189 locales with 0 errors and 25 warnings. | PR check reports for the exact head passed after rerunning the Flutter test job. The Website workflow was not present in the retrieved run list; hosted execution of the new gate remains unverified. Local PyYAML installation was network-blocked; tests used installed 6.0.3. |
 | Render inspection | The Hausa communication-tips route contains the full 81-character search title; the caregiving hub contains the Round 90 and 91 links. | Static output confirmed; no live-browser review. |
-| Limits | Machine translations remain unreviewed. The gate checks structure and added numbers but not semantic translation quality or native-speaker review; it also does not close the historical missing-guide backlog. | PR #237 merged a partial batch; PR #240 is open and reports about 4,200 guide files remain missing across about 88 languages; this count is not independently audited. |
+| Limits | Machine translations remain unreviewed. The gate checks structure and added numbers but not semantic translation quality or native-speaker review; it does not close the historical guide backlog. | PR #240 remains open with review changes requested; its reported missing-file counts are not independently audited. |
+
+## Round 93: read saved descriptions on visible family-photo tiles (read 2026-11-14)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends names on family photos to help identify people. Alzheimer's Society suggests a memory book with photos and brief information people may refer to if they want. The Lewy Body Dementia Association describes family albums as familiar context and says caregivers should tailor activities without pressure. Parkinson's Foundation recommends short hints, time to respond and familiar routines; the Association for Frontotemporal Degeneration says activities should follow the person's interests and be adapted or stopped if stressful. | Supports person-led context cues across several dementia settings. These sources do not establish a clinical effect from the app's screen-reader labels. |
+| Existing gap | `PhotoTogetherPage` already exposed a selected family photo's saved caption and description to assistive technology. `GentleGamePage` exposed only its caption or positional label after a tile became visible, so a saved description was unavailable during matching. Hidden tiles already used generic labels. | A focused parity gap, distinct from website Photo Pairs captions and from changes to memory-game rules. |
+| Change | Added `ActivityPicture.visibleSemanticLabel`. Visible matching tiles and the shared viewing page use the saved caption or localized picture name plus optional description. Hidden matching tiles continue to use the generic hidden label. | No visible caption display, auto-identification, relationship inference, storage change, network request or new fixed user-facing copy. |
+| Safety boundary | Descriptions remain user-entered local annotations, normalized to the existing 280-character limit. Only a visible photo can expose its saved description in semantics; no photo content is sent to a model or service. | Does not ask the person to name a relative, test recall or promise a treatment benefit. |
+| Language coverage | No ARB key or fixed wording was added; the existing localized `photosLabelWithDescription` formatter is reused. No locale files changed. | The 185-language coverage count remains 3/500; the broader historical localization audit remains open. |
+| Implementation commit | `b2737a42fb0406dcd92f5712a1c3fef31985a378` | Code and spec changes on `codex/round-93-visible-photo-descriptions`, based on merged main `f650356`. |
+| Checks | `python3 -m unittest discover -s tests -p 'test_*.py' -v` (117), `python3 scripts/release_metadata.py --check` and `git diff --check` pass. Regression tests cover hidden labels before reveal, visible saved descriptions after reveal, and visible photo descriptions in the keep-visible mode. | Flutter/Dart are not installed locally, so the Flutter tests, analyzer and formatter were not run. The hosted PR checks are pending. `npx @google/design.md lint DESIGN.md` was blocked by the local package guard. |
+| Not verified | The semantics tree is covered by widget-test source, but no VoiceOver/TalkBack device session, caregiver or person-with-dementia review was run. | Keep GM-014 partial; do not claim assistive-technology support as device-verified. |

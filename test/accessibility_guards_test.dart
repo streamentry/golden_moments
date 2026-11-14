@@ -62,7 +62,7 @@ void main() {
     });
   });
 
-  group('hidden cards keep their secrets (GM-014)', () {
+  group('photo tile semantics respect visibility (GM-014)', () {
     const pictures = [
       ActivityPicture(
         id: 'lake',
@@ -77,7 +77,7 @@ void main() {
         description: 'A cake with candles',
       ),
     ];
-    testWidgets('captions and descriptions stay out of the semantics tree', (
+    testWidgets('hidden tiles keep descriptions private until shown', (
       tester,
     ) async {
       SharedPreferences.setMockInitialValues({
@@ -109,14 +109,58 @@ void main() {
       await tester.tap(tiles.first);
       await tester.pump();
       final revealed = tester.getSemantics(tiles.first);
-      expect(revealed.label, matches(RegExp(r'^(Lake day|Birthday), tile 1$')));
+      expect(
+        revealed.label,
+        matches(
+          RegExp(
+            r'^(Lake day\. Two people on a wooden dock|Birthday\. A cake with candles), tile 1$',
+          ),
+        ),
+      );
       expect(revealed.value, 'Selected');
       expect(
         find.bySemanticsLabel(RegExp('Hidden picture, tile [234]')),
         findsNWidgets(3),
       );
-      // Descriptions are never part of the game, only of viewing.
-      expect(find.bySemanticsLabel(RegExp('dock|candles')), findsNothing);
+      expect(find.bySemanticsLabel(RegExp('dock|candles')), findsOneWidget);
+      for (var i = 1; i < 4; i++) {
+        expect(
+          tester.getSemantics(tiles.at(i)).label,
+          matches(RegExp(r'^Hidden picture, tile [234]$')),
+        );
+      }
+      handle.dispose();
+    });
+
+    testWidgets('visible personal-photo tiles announce saved descriptions', (
+      tester,
+    ) async {
+      SharedPreferences.setMockInitialValues({
+        GentlePreferences.storageKey: jsonEncode(
+          const GentlePreferences().toJson(),
+        ),
+      });
+      final handle = tester.ensureSemantics();
+      await tester.pumpWidget(
+        MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
+          theme: gmBuildTheme(),
+          home: const GentleGamePage(pictures: pictures),
+        ),
+      );
+      await tester.pumpAndSettle();
+
+      final labels = [
+        for (var i = 0; i < 4; i++) tester.getSemantics(tiles.at(i)).label,
+      ];
+      expect(
+        labels.where((label) => label.contains('Two people on a wooden dock')),
+        hasLength(2),
+      );
+      expect(
+        labels.where((label) => label.contains('A cake with candles')),
+        hasLength(2),
+      );
       handle.dispose();
     });
   });
