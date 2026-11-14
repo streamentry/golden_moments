@@ -1,35 +1,34 @@
 ---
-title: "Ýat idegi edarasynda ýa-da keselhanada demensiýa bilen ýaşaýan adama baryp görmek"
-seoTitle: "Demensiýaly adama baryp görmek: näme etmeli we nämeni getirmeli"
-description: "Ýat idegi edarasynda, garrylar öýünde ýa-da keselhanada demensiýaly adama baryp görmek: näme getirmeli, aňsat işler, gysga ziýaratlar we hoşlaşmak."
+title: "Visiting Someone with Dementia in Memory Care or the Hospital"
+seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
+description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ýat idegi edarasynda ýa-da keselhanada demensiýa bilen ýaşaýan adama baryp
-  görenňizde, ony ýönekeý saklaň: gelen badyňyza adyňyzy aýdyň, suratlar,
-  aýdym-saz ýa-da halaýan iýmit ýaly paýlaşmak üçin bir zat getiriň we bilelikde
-  bir aňsat iş ediň. Gysga, yzygiderli ziýaratlar köplenç uzak, seýrek
-  ziýaratlardan gowy geçýär. Gitmegiň ikiňiz üçin hem aňsat bolmagy üçin
-  rahat, hemişelik hoşlaşygy meýilleşdiriň.
+  When you visit someone with dementia in memory care or the hospital, keep it
+  simple: say your name as you arrive, bring something to share such as photos,
+  music or a favorite snack, and do one easy thing together. Shorter, regular
+  visits often go better than long, rare ones. Plan a calm, consistent goodbye
+  so leaving is easier for both of you.
 keyPoints:
-  - "Adamy ady bilen garşylaň we kimdigiňizi aýdyň, şeýdip olar ony çaklamaly bolmaz: «Salam eje, men Süzen, gyzyňyz.»"
-  - "Paýlaşmak üçin bir-iki zat getiriň, mysal üçin surat albomy, halaýan aýdym-saz, ýumşak ýorgan ýa-da işgärleriň tassyklan iýmiti."
-  - "Gysga, yzygiderli ziýaratlar köplenç uzak, seýrek ziýaratlardan gowy geçýär. Siziň barlygyňyz aýdýan zadyňyzdan has möhümdir."
-  - "Keselhanada işgärlere adam barada bir sahypalyk maglumat beriň we ýagdaýynyň birden üýtgän bolsa, lukmana derrew aýdyň."
-  - "Gitmegi meýilleşdiriň: näçe wagt galyp biljekdigiňizi aýdyň, her gezek şol bir hoşlaşygy ulanyň we aýlanyp durmazdan gidiň."
+  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
+  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
+  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
+  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
+  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
 faq:
-  - q: "Demensiýa bilen ýaşaýan adama baryp görenimde näme getirmeli?"
-    a: "Barada gürrüň etmek üçin däl-de, paýlaşmak üçin bir zat getiriň. Kiçijik surat albomy, halaýan aýdymlarynyň pleýlisti, ýumşak ýorgan, el kremi, köne höwes barada žurnal ýa-da işgärleriň tassyklan iýmiti gowy işleýär. Ideg öýünde maşgala suratlary we tanyş zatlar otagy has öý ýaly duýdurup biler."
-  - q: "Demensiýa bilen ýaşaýan adama baryp görenimde näçe wagt galmaly?"
-    a: "Dogry wagt ýok. Köp maşgala gysga, ýygy ziýaratlaryň uzak, seýrek ziýaratlardan gowy işleýändigini görýär, sebäbi adam çalt ýadaýar we siziň näçe wagt galandygyňyzy ýada saklamazlygy mümkin. Ýadawlyk alamatlaryna syn ediň we ziýaret entek ýakymly wagty çykyň."
-  - q: "Öýe gitmek isleýän diýse, näme diýmeli?"
-    a: "Sözlere däl-de, duýga jogap beriň. «Öýe gitmek isleýärin» köplenç «Özümi rahat we howpsuz duýamok» diýmekdir. «Öýüňiz barada aýdyp beriň» diýip synap görüň, suratlara bilelikde serediň ýa-da gezelenje ýa-da iýmit hödürläň. Jedelleşmek ýa-da näme üçin gidip bilmeýändigini düşündirmek köplenç gynanjy artdyrýar."
-  - q: "Meni tanamasa nädip bolmaly?"
-    a: "Bu agyrdyp biler, ýöne ony düzetmäge ýa-da «Meniň kimdigimi bilmeýärsiňizmi?» diýmäge synanyşmaň. Özüňizi mylaýym we ýönekeý tanyşdyryň we bilelikde wagt geçirmekden lezzet alyň. Köp adam siziň kimdigiňizi ýerleşdirip bilmese-de, ýoldaşlygy halaýar we ziýaretiň mylaýymlygyny duýýar."
-  - q: "Keselhanada ýatanda nädip kömek edip bilerin?"
-    a: "Mümkin bolsa adamyň ýanynda boluň, iýmäge we içmäge kömek ediň we suratlar ýaly tanyş zatlary getiriň. Işgärlere adamyň tertibini, halaýan adyny, halaýan we halamaýan zatlaryny we agyry alamatlaryny görkezýän sahypa beriň. Adam birden erbetleşen ýa-da başgaça görünýän bolsa, lukmana derrew aýdyň, sebäbi birden bolan bulaşyklyk lukman kynçylygynyň alamaty bolup biler."
+  - q: "What should I bring when visiting someone with dementia?"
+    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
+  - q: "How long should I stay when visiting someone with dementia?"
+    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
+  - q: "What do I say when they ask to go home?"
+    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
+  - q: "What if they don't recognize me?"
+    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
+  - q: "How can I help during a hospital stay?"
+    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -54,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Ýat idegi edarasynda, garrylar öýünde ýa-da keselhanada söýýän adamyňyza baryp görmek köp duýgyny oýarup biler. Näme diýmelidigi, näme getirmelidigi ýa-da olar ýada saklamajak bolsalar, ziýaretiň ähmiýeti bardygy barada oýlanyp bilersiňiz. Ähmiýeti bar. National Institute on Aging, Alsgeýmer keseli bolan adamlaryň myhmanyň kimdigini ýada salmasalar-da, [köplenç ýoldaşlygy halaýandygyny](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) belleýär. Bu sahypada ziýaretden öň, ziýaret wagtynda we ondan soň amaly ädimler, şeýle hem keselhanada ýatmak üçin aýratyn maslahatlar berilýär.
+Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
 
-## Ziýarete nädip taýýarlanmaly?
+## How do I get ready for a visit?
 
-Azajyk meýilnama ziýareti ikiňiz üçin hem aňsatlaşdyrýar.
+A little planning makes the visit easier for both of you.
 
-- **Oňat wagt saýlaň.** Dementia Australia adamyň adatça iň oýaw wagtynda, köp adam üçin irden ýa-da günortan, baryp görmegi maslahat berýär. Family Caregiver Alliance edaranyň tertibini öwrenmegi we [işjeňlik wagtynda däl-de, boş wagtda](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) baryp görmegi maslahat berýär.
-- **Işgärlerden soraň.** Adamyň şu gün nähili geçýändigini soraň we iýmit, öý haýwanlary ýa-da gezelenjiler barada düzgünleri barlaň.
-- **Kiçijik ziýaret sumkasyny ýygnaň.** Paýlaşmak üçin bir-iki zat ýeterlikdir (aşakdaky sanawa serediň).
-- **Birnäçe mowzuk meýilleşdiriň.** Adamyň aýdar ýaly täzeligi bolmazlygy mümkin, şonuň üçin öz täzeliklerinizi getiriň: maşgala täzelikleri, howa, top oýny, gülkünç hekaýa.
-- **Öz garaşyşlaryňyzy kesgitläň.** Käbir ziýaretler mylaýym we gürrüňli bolar. Beýlekiler ümsümje ýa-da kyn bolar. Ikisi hem adaty zatdyr.
+- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
+- **Pack a small visit bag.** One or two things to share is enough (see the list below).
+- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
+- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
 
-## Näme getirmeli?
+## What should I bring?
 
-Synag edýän zatlary däl-de, paýlaşmak üçin zatlary getiriň. Gowy saýlawlar:
+Bring things to share, not things that test. Good choices include:
 
-- **Uly, aýdyň suratlar bilen kiçijik surat albomy.** Işgärler üçin yzlaryna bellik ýazyň.
-- **Halaýan aýdymlaryň pleýlisti,** telefonda, ýönekeý gulakçyn ýa-da kiçi dinamik bilen.
-- **Tutmak üçin ýumşak zat,** mysal üçin tanyş ýorgan, şarf ýa-da kofta.
-- **El kremi,** adam ellemegi halaýan bolsa, ýuwaş el massažy üçin.
-- **Köne gyzyklanma barada žurnal ýa-da surat kitaby,** mysal üçin bag, awtoulag, guşlar ýa-da nahar bişirmek.
-- **Halaýan iýmit,** işgärler howpsuz diýse.
-- **Otag üçin tanyş zatlar.** Family Caregiver Alliance gülleri, ösümlikleri, maşgala suratlaryny we sungat eserlerini ýa-da geçmişden maşgala suratlarynyň uly plakatyny maslahat berýär.
-- **Planşet,** maşgala suratlaryna seretmek ýa-da mylaýym oýun oýnamak üçin.
+- **A small photo album** with large, clear photos. Label them on the back for staff.
+- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
+- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
+- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
+- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
+- **A favorite snack**, if staff say it is safe.
+- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
+- **A tablet**, for looking at family photos or playing a gentle game together.
 
-## Ziýaret wagtynda bilelikde näme edip bileris?
+## What can we do together during a visit?
 
-Bilelikde bir zat etmek gürrüňiň basyşyny aýyrýar. Dementia Australia suratlara seretmegi, aňsat el işini, nahal ekmegi, aýdym-sazy, iýmit paýlaşmagy ýa-da meýdança gezelenjini maslahat berýär. Ýene-de birnäçe pikir:
+Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
 
-1. **Suratlara seredip.** Gören zadyňyzy görkeziň: «Şol şlýapa serediň.» «Bu kenar ajaýyp görünýär.» Adamyň ýol görkezmegine ýol beriň. «Bu kim?» diýip soramakdan gaça duruň.
-2. **Aýdym-saz çalyp aýdym aýdyň.** Tanyş aýdymlar keýpi ýokarlandyryp we gürlemek kyn bolanda hem bilelikde pursat berip biler.
-3. **Gysga gezelenç ediň.** Family Caregiver Alliance edaranyň içinde, esasanam bag bar bolsa, gezmegi maslahat berýär. Tigirli oturgyçda aýlanmak hem sanalýar.
-4. **El massažy ediň.** Azajyk krem we ellerde ýuwaş sylamalar rahatlandyryp biler.
-5. **Bezemäge kömek ediň.** Dementia Australia adam halasa, saçy daramagy, dyrnaklary boýamagy ýa-da halaýan eşigini geýmäge kömek etmegi agzaýar.
-6. **Ýönekeý oýun oýnaň.** Family Caregiver Alliance kartlary, domino ýa-da adamyň öň oýnan zatlaryny maslahat berýär. Planşetde [Surat jübütleri](/games/picture-pairs/) suratlar görünýän we sagady bolmadyk görnüşde oýnalyp bilner. [Surat jübütleri (öz suratlaryňyz)](/games/photo-pairs/) saýlan suratlaryňyzy meňzeşini tapmak oýnuna öwürýär we suratlar brauzeriňizde galýar.
-7. **Bilelikde bir zat görüň.** Family Caregiver Alliance komediýalary we köne filmleri maslahat berýär. Adam hekaýany yzarlap bilmese-de, ýakyn oturyp wagty paýlaşyp bilersiňiz.
-8. **Ses çykaryp okaň.** Gysga goşgy, halaýan parça ýa-da maşgala agzasyndan hat.
-9. **Diňe bilelikde oturyň.** Elleri tutmak ýa-da ümsümje oturmak hakyky ziýaretdir. Alzheimer's Association näme diýmelidigini bilmezligiň hiç zat däldigini we siziň barlygyňyzyň iň möhümdigini belleýär.
+1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
+2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
+3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
+4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
+5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
+6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
+7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
+8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
+9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
 
-Aýtjak zadyňyz gutaranda [Gürrüň kartlary](/games/conversation-cards/) kömek edip biler. Her kartada surat we açyk çakylyk bar.
+[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
 
-## Ziýaret wagtynda nädip gürleşmeli?
+## How should I talk during the visit?
 
-- **Her gezek özüňizi tanyşdyryň.** «Salam kaka, men Mark, oglyňyz.» NIA myhmanlaryň gürrüňi başlamak üçin gysgaça özlerini tanyşdyrmagyny maslahat berýär.
-- **Öňünden ýakynlaşyň** we göz derejesinde oturyň.
-- **Düzetmäň we jedelleşmäň.** NIA myhmanlara adam ýalňyşsa ýa-da bir zady unudan bolsa, düzetmezligi maslahat berýär.
-- **Sabyrly boluň,** söz tapmak kyn bolanda. Köp wagt beriň.
-- **Duýgulara jogap beriň.** Adam gynanýan ýa-da alada edýän ýaly görünýän bolsa, mowzugy üýtgedenizden öň muny kabul ediň.
-- **«Meni ýadyňyzda barmy?» ýa-da «Günortanlyk näme iýdiňiz?» ýaly synag soraglaryndan gaça duruň.**
+- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
+- **Approach from the front** and sit at eye level.
+- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
+- **Be patient** when words are hard to find. Give plenty of time.
+- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
+- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
 
-Has köp maglumat üçin [aragatnaşyk maslahatlarymyza](/caregiving/communication-tips/) serediň.
+See our [communication tips](/caregiving/communication-tips/) for more.
 
-## «Öýe gitmek isleýärin» diýse, näme etmeli?
+## What do I do when they say "I want to go home"?
 
-Sözleriň aňyrsyndaky duýga jogap beriň ([biri öýe gitmegi soranda](/caregiving/asking-to-go-home/) gollanmamyz has jikme-jik). Family Caregiver Alliance «Öýe gitmek isleýärin» sözüniň adatça «Özümi rahat duýamok» diýmegiň ýoludygyny düşündirýär we «Öýüňiz barada aýdyp beriň» ýa-da «Öýde iň halaýan zadyňyz näme?» ýaly jogaplary maslahat berýär. Dementia Australia «öý» sözüniň adamyň özüni howpsuz duýan wagtyny ýa-da ýerini, mysal üçin çagalygyny aňladyp biljekdigini goşýar.
+Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
 
-Synap görüň:
+Try:
 
-- duýgyny kabul etmek: «Öýüňiz üçin küýseýän ýalydyr.»
-- kabul edilse, ellemek arkaly rahatlyk bermek
-- suratlara seretmek ýa-da maşgala öýi hakda gürleşmek
-- gezelenç, içgi ýa-da iýmit hödürlemek
+- acknowledging the feeling: "It sounds like you miss home."
+- offering comfort through touch, if welcome
+- looking at photos or talking about the family home
+- offering a walk, a drink or a snack
 
-Jedelleşmekden ýa-da näme üçin gidip bilmeýändigini düşündirmekden gaça duruň. Bu seýrek kömek edýär we köplenç gynanjy artdyrýar.
+Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
 
-## Ziýaret näçe wagt dowam etmeli?
+## How long should a visit be?
 
-Gysga we has ýygy köplenç has gowy işleýär. Family Caregiver Alliance adamyň adatça siziň bäş minut ýa-da bäş sagat galandygyňyzy ýada saklamaýandygyny belleýär we hepdede üç gysga ziýaretiň bir uzak ziýaretden gowy bolup biljekdigini maslahat berýär. Dementia Australia ziýaretleriň dogry sanynyň ýa-da dogry uzynlygynyň ýokdugyny aýdýar.
+Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
 
-Ýat idegi edarasyna göçüşden soňky ilkinji hepdelerde Family Caregiver Alliance ýygy baryp görmegi, soň bolsa ýuwaş-ýuwaşdan yzygiderli tertibe geçmegi maslahat berýär. Işgärlerden näme görýändiklerini soraň.
+In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
 
-## Ony gaharlandyrman nädip gitmeli?
+## How do I leave without upsetting them?
 
-Gitmek iň kyn bölegi bolup biler. Dementia Australia şulary maslahat berýär:
+Leaving can be the hardest part. Dementia Australia suggests:
 
-- **Gelende näçe wagt galyp biljekdigiňizi aýdyň.** «Bir sagat galyp bilerin, soň söwda gitjek.»
-- **Tebigy gutarmak üçin bir işi ulanyň.** «Bu aýdymy gutaranymyzdan soň gidýärin.»
-- **Ony nahar ýa-da iş bilen deňeşdiriň** ýa-da işgärlerden adamyň başga bir zat bilen meşgullanmagyna kömek etmegini soraň.
-- **Hoşlaşygy gysga we her gezek şol bir saklaň.** Aýlanyp durmak, ötünç sorap durmak ýa-da «ýene azajyk» galmak indiki hoşlaşyklary kynlaşdyryp biler.
+- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
+- **Use an activity as a natural end.** "When we finish this song, I'll head off."
+- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
+- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
 
-Gidenden soň gynanmak adaty zatdyr. Özüňize dynç bermäge ýol beriň. Adam gaharlansa, işgärler adatça ony tiz wagtdan rahatlandyryp bilýär.
+After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
 
-## Keselhanada demensiýa bilen ýaşaýan adama baryp görmek
+## Visiting someone with dementia in the hospital
 
-Keselhana galmagally, nätanyş we ýat adamlar bilen doly ýerdir, bu demensiýa bilen ýaşaýan adam üçin örän kyn bolup biler. NIA-nyň [Alsgeýmer keseli bolan adamy keselhana äkitmek](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) gollanmasy şulary maslahat berýär:
+A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
 
-- **Mümkin boldugyça adamyň ýanynda kimdir biri bolsun:** maşgala agzasy, ynamly dost ýa-da hakyna tutulan seredýän adam.
-- **Işgärlere şahsy maglumat sahypasyny beriň.** Onda adamyň tertibi, halaýan ady, halaýan we halamaýan zatlary, mümkin gaharlandyrýan zatlar we agyrynyň sözsüz alamatlary bolsun. Nusgalaryny otagda we şepagat uýalarynyň stolunda goýuň.
-- **Iýmäge we içmäge kömek ediň.** Garrylar keselhanada ýeterlik iýmitlenmän biler. Gaplary açyň, nahara kömek ediň, bilelikde iýiň we içgi hödürläň.
-- **Rahatlandyryjy zatlary getiriň,** mysal üçin suratlar ýa-da ruhy zatlar.
-- **Sesi peseldiň.** Telewizory öçüriň we telefon hem interkom sesini peseldiň.
-- **Rahatlandyryjy däp-dessurlary synap görüň,** mysal üçin ýuwaş aýdym-saz, okamak, doga, aýdym aýtmak ýa-da köne suratlara seretmek.
-- **Howpsuz bolsa, hereket etmäge höweslendiriň,** işgärleriň rugsady bilen.
-- **Adam birden erbetleşen ýa-da başgaça görünýän bolsa, lukmana derrew aýdyň.** NIA deliriý diýlip atlandyrylýan birden aşa bulaşyklygyň ýokanç, gyzgynlyk, suwsuzlyk ýa-da derman ýan täsirleri ýaly kynçylyklardan bolup biljekdigini we lukman ünsüni talap edýändigini düşündirýär.
+- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
+- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
+- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
+- **Bring comforting items** such as photos or spiritual objects.
+- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
+- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
+- **Encourage moving around** as much as is safe, with staff approval.
+- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
 
-Tanyş ýüz we halaýan aýdym bilen gysga, rahat ziýaret keselhana gününiň iň rahatlandyryjy bölegi bolup biler.
+A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
 
-## Çagalary ziýarete getirmek
+## Bringing children on a visit
 
-Çagalar köp mylaýymlyk getirip biler. Olary ozaldan ýönekeý, dogruçyl sözler bilen taýýarlaň, ziýareti gysga saklaň we olara bir iş beriň, mysal üçin çeken suratyny görkezmek ýa-da suraty uzatmak. NIA çagalaryň we Alsgeýmer keseli bolan adamlaryň surat albomyna seretmek ýa-da aýdym-saz diňlemek ýaly ýönekeý işlerden bilelikde lezzet alyp biljekdigini maslahat berýär. Dementia Australia kiçi çagalary meşgul etmek üçin kiçijik süýjüler ýa-da dymyk zatlar sumkasyny ýygnamagy maslahat berýär.
+Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
 
-## Özüňize hem ideg ediň
+## Take care of yourself too
 
-Baryp görmek ýadadyjy we duýgy taýdan agyr bolup biler, esasanam adam köp üýtgän bolsa. Zerur bolsa, has seýrek baryp görmek, goldaw üçin dost getirmek ýa-da kyn günde ir gitmek hiç zat däl. Özüňize ideg etmek barada pikirler üçin [seredýän adamyň öz-özüne ideg etmegine](/caregiving/caregiver-self-care/) serediň. Eger uzakda ýaşasaňyz, [telefon we wideo jaňlary](/activities/phone-and-video-calls/) gollanmamyza serediň.
+Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).

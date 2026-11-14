@@ -1,32 +1,32 @@
 ---
-title: "Demensiýanyň ilkinji tapgyry üçin işjeňlikler"
-seoTitle: "Ilkinji tapgyr demensiýa işjeňlikleri: laýyk ideýalar"
-description: "Ilkinji tapgyr demensiýa üçin ideýalar: hobbiler, oýunlar, gezelençler, ýazmak we bilelikde meýilleşdirmek; adam hezil etsin we özi ýolbaşçy bolsun."
+title: "Activities for Early-Stage Dementia"
+seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
+description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ilkinji tapgyr demensiýada köp adam hezil edýän zadyny dowam etdirip bilýär:
-  hobbiler, kartoçka we stol oýunlary, nahar bişirmek, bag-bakja, gezelenç,
-  klublar, din we meýletinlik. Esasy üýtgeşmeler has kiçi toparlar, has gysga
-  gezelençler, ýönekeý ýazylan meýilnamalar we ýakyn ýerdäki ýoldaşdyr. Adamdan
-  haýsy kömegi isleýändigini soraň we ol ýolbaşçylyk etsin.
+  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
+  cards and board games, cooking, gardening, walking, clubs, faith and
+  volunteering. The main changes are smaller groups, shorter outings, simple
+  written plans and a partner nearby. Ask the person what help they want,
+  and let them lead.
 keyPoints:
-  - "Ilkinji tapgyrdaky köp adam ýeterlik özbaşdak ýaşaýar. Işjeňlikleri adatça çalyşmak däl-de, sazlamak gerek."
-  - "Adamdan haýsy goldawy isleýändigini soraň we kömegiň göwnejaý bolan wagty üçin ýönekeý alamat ylalaşyň."
-  - "Has kiçi toparlar, has sakyn wagtlar we has gysga gezelençler köplenç uly tapawut döredýär."
-  - "Bu, adamyň öz durmuşy barada, meselem gündelik ýa-da ömür hekaýasy kitaby ýaly taslamalara ýolbaşçylyk etmegi üçin gowy wagt."
-  - "Oýunlary hezil üçin saýlaň. Synaga meňzäp başlaýan her zatdan gaça duruň."
+  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
+  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
+  - "Smaller groups, quieter times and shorter outings often make a big difference."
+  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
+  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
 faq:
-  - q: "Ilkinji tapgyr demensiýa üçin haýsy işjeňlikler ýaramly?"
-    a: "Adatça adamyň eýýäm ýaraýan şol zatlary: kartoçka, stol oýunlary, nahar bişirmek, bag-bakja, gezelenç, aýdym-saz, din işjeňlikleri, klublar we meýletinlik. Olary has gysga, has sakyn ýa-da has ýönekeý etmeli bolmagyňyz mümkin. Gündelik ýazmak, hat ýazmak we ömür hekaýasy kitabyny ýasamak hem bu tapgyra gowy laýyk gelýär."
-  - q: "Ýagdaýy eliňe almazdan nädip kömek edip bolar?"
-    a: "Adamyň nähili kömek isleýändigini soraň we ýygy-ýygydan ýagdaýyny ýüze çykaryň. Gatyşmagyň bolup biljekdigini aňladýan jümle ýa-da kellä yrgyldatmak barada ylalaşyň, meselem söz ýa-da at ýadyňa düşmedik wagty. Howpsuzlyk töwekgelçiligi ýok bolsa, uzagrak wagt gitse-de, ol öz usuly bilen etsin."
-  - q: "Ilkinji tapgyr demensiýa bolan adam täze işjeňlikleri synap görmelimi?"
-    a: "Isleýän bolsa, hawa. Tanyş hobbiler iň ýeňil bolýar, emma köp adam täze zatdan, meselem demensiýa üçin amatly gezelenç toparyndan, sungat sapagyndan ýa-da aýdym toparyndan hezil edýär. Basyşsyz bir gezek synap görüň we nähili duýýandygyna serediň."
-  - q: "Ilkinji tapgyrda beýni türgenleşdiriş programmalary peýdalymy?"
-    a: "Käbir adamlar tapmaçalardan we söz oýunlaryndan hezil edýär we ol hezil öz-özünden ýeterlik sebäpdir. Hiç bir programmanyň ýa-da oýunyň demensiýany bejerýändigi, haýallatýandygy ýa-da duruzýandygy görkezilmändir. Oýun streslere sebäp bolsa ýa-da adam şowsuz boljak ýaly duýsa, ony bir gyra goýuň."
+  - q: "What activities are good for early-stage dementia?"
+    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
+  - q: "How can I help without taking over?"
+    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
+  - q: "Should someone with early dementia try new activities?"
+    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
+  - q: "Are brain-training apps worth it in the early stage?"
+    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-Demensiýanyň ilkinji tapgyrynda köp adam henizem öňküsi ýaly ýaşaýar. Olar işläp, meýletin işläp, dostlary bilen görüşip we öz gününiň köp bölegini dolandyryp bilerler. Işjeňlikleri adatça çalyşmak gerek däl; olaryň hezilli galmagy üçin birnäçe sazlama gerek. Siziň roluňyz ideg edýän adamdan has köp hyzmatdaşa ýakyn: goldaýan, olar bilen meýilleşdirýän we diňe sorananda gatyşýan adam.
+In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
 
-## Ilkinji tapgyr demensiýada haýsy işjeňlikler gowy?
+## What activities are good in early-stage dementia?
 
-Ilkinji tapgyrdaky iň gowy işjeňlikler adatça adamyň eýýäm söýýän, birneme ýeňilleşdirilen işjeňlikleridir. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kartoçka we stol oýunlary, söz gözlegi, gezelenç, tans, bag-bakja, gül tertibi, hekaýa aýtmak, surat çekmek, aýdym-saz, gündelik ýazmak, hat ýazmak, albom ýasamak, nahar bişirmek we baýram däpleri ýaly ideýalary sanap geçýär.
+The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
 
-Üýtgeýän zat köplenç işjeňlik däl-de, onuň ýagdaýydyr. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ilkinji tapgyrdaky adamlaryň öň ýaraýan zatlaryndan çekilip başlap biljekdigini belleýär we uly toýda özüni basylan hasaplaýan adamyň kiçi toparda has gowy bolýandygyny mysal getirýär. Nämäniň has kyn bolýandygy barada açyk gürleşiň we bilelikde sazlaň.
+What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
 
-## Ilki soraň we nädip kömek etmelidigi barada ylalaşyň
+## Ask first, and agree on how to help
 
-[Alzheimer's Association-yň ilkinji tapgyr görkezmesi](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) işjeňliklere hem degişli birnäçe endigi maslahat berýär:
+The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
 
-- **Göni soraň.** “Kitap kluby seniň üçin näme ýeňilleşdirer?” çaklamakdan has gowy jogap berýär.
-- **Edip biler diýip hasaplaň.** Howpsuzlyk töwekgelçiligi ýok bolsa, adam synap görsün we eliňize almak derek höweslendiriň.
-- **Alamat barada ylalaşyň.** “Goşulsaň bolar” diýmegi aňladýan jümle ýa-da kellä yrgyldatmak saýlaň, meselem kartoçka oýnunda at ýadyňa düşmedik wagty.
-- **Yzygiderli ýagdaýyny soraň.** Kömegiň mukdarynyň dogrudygyny, gaty köpdügini ýa-da gaty azdygyny soraň.
+- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
+- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
+- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
+- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
 
-## Ilkinji tapgyr üçin işjeňlik ideýalary
+## Activity ideas for the early stage
 
-### Roluňy we hobbileri saklaň
+### Keep up roles and hobbies
 
-- **Yzygiderli borçnamany dowam etdiriň.** Hepdelik meýletin nobat, hor ýa-da klub hepdä görnüş berýär. Ol stresli bolsa, has gysga ýa-da has sakyn rol laýyk gelip biler.
-- **Naharlary bilelikde meýilleşdiriň.** Azyk satyn almak ruhdan düşürýän bolsa, Alzheimer's Association adamdan hepdäniň menýusyny meýilleşdirmäge we sanawy ýazmaga kömek etmegi soramagy maslahat berýär.
-- **Nahar we çörek bişiriň.** Halaýan resepti bilelikde ýerine ýetiriň. Başlamazdan öň ingredientleri tertibi bilen goýuň, şonda ädimler görünip durar.
-- **Bag-bakja bilen meşgullanyň.** Düşek meýilleşdiriň, tohum ýa-da ösümlik saýlaň we işi bilelikde ediň. Hepdäniň bag işleriniň ýazylan sanawy kömek edýär.
-- **El işini dowam etdiriň.** Agaç işi, tikin, örmek ýa-da model ýasamak has ýönekeý nagyşlar we gowy yşyklandyryş bilen dowam edip biler.
+- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
+- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
+- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
+- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
+- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
 
-### Hezil üçin oýunlar
+### Games for enjoyment
 
-- **Kartoçka we stol oýunlaryny oýnaň.** Tanyş oýunlar iň ýeňil. Topar bolup oýnaň, şonda hiç kim kynlaşmaz we hasaby ýeňil saklaň ýa-da saklamaň.
-- **Uly harply söz gözlegini synap görüň.** Biziň [söz gözlegimiz](/games/word-search/) ekranda oýnalyp ýa-da ümsüm pursat üçin çap edilip bilner.
-- **Jigsaw tapmaçalaryny ýygnaň.** Kynlaşdyryjy däl-de, rahatlandyryjy bölek sanyny saýlaň. [Surat tapmaçasy](/games/picture-puzzle/) gysga ekran görnüşidir we [demensiýa üçin tapmaçalar](/activities/puzzles/) barada gollanmamyz birini saýlamagy düşündirýär.
-- **Hezil üçin wiktorinada gatnaşyň.** Käbir adamlar topar wiktorina agşamyny gaty söýýär. Ol synaga meňzäp başlasa, başga zat saýlaň ýa-da saýlaw jogaplary bar we hasaby ýok [aňsat wiktorina soraglarymyzy](/activities/trivia/) synap görüň.
+- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
+- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
+- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
+- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
 
-Bu ýerde oýunlar lezzet üçindir. Hiç bir oýunyň demensiýany bejerýändigi ýa-da haýallatýandygy görkezilmändir; [beýni oýunlary: gözleg näme diýýär](/brain-health/brain-games/) sahypasynda has köp okaň.
+Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
 
-### Ýazyň, oýlanyň we ýazga alyň
+### Write, reflect and record
 
-- **Gündelik ýazyň.** Alzheimer's Association diagnozdan soň duýgulary işlemegiň bir usuly hökmünde gündelik ýazmagy maslahat berýär. Günde birnäçe setir ýeterlik.
-- **Ömür hekaýasy kitabyna ýolbaşçylyk ediň.** Ilkinji tapgyr adamyň öz suratlaryny saýlamagy we olaryň yzyndaky hekaýalary ýazmagy ýa-da aýtdyrmagy üçin gowy wagt. [Ýatlama işjeňliklerine](/activities/reminiscence/) serediň.
-- **Hat ýazyň.** Agtyga, köne dosta ýa-da öňki işdeşe ýazylan hat iki tarap üçin hem manyly bolup biler.
-- **Suratlar arkaly gürleşiň.** [Surat jübütleri](/games/photo-pairs/) maşgala suratlaryny ýuwaş gabat getirme oýnuna öwürýär we [söhbetdeşlik kartoçkalary](/games/conversation-cards/) gürrüň üçin aňsat başlangyçlary berýär.
+- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
+- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
+- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
+- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
 
-### Daşary çykyň we hereket ediň
+### Go out and move
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ikiňiz hem rahat bolýança tanyş gezelençleri dowam etdirmegi maslahat berýär. Olary adamyň iň gowy wagtyna meýilleşdiriň we gaty uzaga çekmäň.
+The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
 
-- **Gysga medeni saparlar.** Muzeý, gündizki sinema ýa-da sungat sergisi, iň gowusy sakyn wagtda.
-- **Ýüzmek.** NIA günüň haýal wagtynda howuza gitmegi maslahat berýär.
-- **Gezelenç toparlary we tans sapaklary.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) tans, taý-çi, ýoga, ýüzmek we gezelenç toparlaryny hem-de bar ýerinde demensiýa üçin amatly sessiýalary agzaýar.
-- **Aýdym toparlary we ýat kafeleri.** Demensiýa bilen ýaşaýan adamlaryň we olaryň ýoldaşlarynyň şol bir ýagdaýdaky başga adamlar bilen duşuşyp biljek rahat toparlary.
+- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
+- **Swimming.** The NIA suggests a pool during a slow time of day.
+- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
+- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
 
-## Işjeňlikleri hezilli saklaýan kiçi üýtgeşmeler
+## Small changes that keep activities enjoyable
 
-| Bu kynlaşýan bolsa | Muny synap görüň |
+| If this is getting harder | Try this |
 | --- | --- |
-| Dykyz ýa-da galmagally ýerler | Sakyn wagtlarda gidiň, has kiçi toparlary saýlaň, otagyň gyrasynda oturyň |
-| Täze atlary ýada saklamak | Adamlary her gezek ady bilen tanyşdyryň; toparlardan at belgisini ulanmagy soraň |
-| Köp ädimli meýilnamalara eýermek | Ädimleri ýazyň ýa-da ilki hemme zady tertibi bilen goýuň |
-| Ýadamak | Has gysga gezelençler, soňundan dynç alyş, şol gün başga zat meýilleşdirmezlik |
-| Oýunda yzarlamak | Topar bolup oýnaň, düzgünleri ýönekeýleşdiriň ýa-da hasap saklamaň |
-| Söz tapmak | Wagt beriň; diňe ylalaşylan alamatyňyz aýtsa söz hödürläň |
+| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
+| Remembering new names | Introduce people by name each time; ask groups to use name tags |
+| Following multi-step plans | Write the steps down, or lay out everything in order first |
+| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
+| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
+| Finding words | Allow time; offer a word only if your agreed signal says to |
 
-## Haçan haýallamaly
+## When to slow down
 
-Işjeňlik hezilden köp stres getirse, ony duruzyň ýa-da üýtgediň. Gaýtalanýan ruhdan düşme, hobbiden gaça durmak ýa-da “Men indi edip bilemok” diýmek itekleýiş däl-de, mylaýym gürrüňe mynasypdyr. Köplenç jogap şol zadyň has kiçi görnüşidir. Adamyň başlamak we ädimlere eýermek üçin has köp kömege mätäç bolanda, [orta tapgyr işjeňlikleriniň](/activities/middle-stage/) ideýalary has laýyk gelip biler. Goldaýjy söhbetdeşlik hakda has köp maglumat üçin [aragatnaşyk maslahatlaryna](/caregiving/communication-tips/), has köp ideýa üçin bolsa [101 işjeňlige](/activities/ideas/) serediň.
+Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
 
-Ýoldaşlar hem goldawa mätäç. Ilkinji tapgyr öz kömek ulgamyňyzy gurmak üçin gowy wagt; [ideg edýäniň özüne ideg etmegine](/caregiving/caregiver-self-care/) serediň.
+Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).

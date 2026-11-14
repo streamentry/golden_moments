@@ -1,28 +1,32 @@
 ---
-title: "Tusi Fesili mo Tagata e Ola ma le Dementia: Jigsaw, Upu ma Tusi Fesili i Luga o le Lau"
-seoTitle: "Tusi Fesili mo le Dementia: Jigsaw ma Upu"
-description: "Auala e filifilia ai jigsaw, upu ma tusi fesili i luga o le lau mo se tasi e iai le dementia: lapoʻa o fasi, ata, mataʻitusi lapopoa, ma le faatasi."
+title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
+seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
+description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  O le tusi fesili sili ona lelei mo se tasi e iai le dementia o le mea e mafai ona ia faaiuina ma sina fesoasoani ma fiafia ai i le taimi lava e tasi. Filifili jigsaw e itiiti ni fasi ma e lapopoa, ma se ata manino mo tagata matutua, tuu le ata o le pusa e vaaia, ma faavasega muamua fasi o le tapuni. E sili ona lelei suʻesuʻe upu ma ni tusi fesili o upu felanulanuaʻi pe a lapopoa mataʻitusi. O ni tusi fesili faigofie i luga o le lau e fa ni fasi e talafeagai mo le vaitaimi ogatotonu. Taofi a o fiafia pea.
+  The best puzzle for someone with dementia is one they can finish with a
+  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
+  and a clear adult picture, keep the box picture in view, and sort the edge
+  pieces first. Word searches and crosswords work best in large print. Easy
+  online puzzles with four pieces suit the middle stage. Stop while it is fun.
 keyPoints:
-  - "Filifili e tusa ai ma le auala e alu ai, e le o se igoa o le vaitaimi: afai e foliga mai o se galuega le tusi fesili, taumafai e filifili se tasi e itiiti ni fasi."
-  - "E sili ona faigofie fasi lapopoa ma malosi ma se ata manino e iai vaega lanu eseese, nai lo fasi laiti ma ni lagi lapopoa."
-  - "E taua ata mo tagata matutua. Faatoaga, kitchen, taavale ma manu, e le o ni ata o tala faatamaiti."
-  - "O le faia faatasi o le autu lea. Tuu atu fasi, faavasega fasi o le tapuni, ma tuu le ufi o le pusa e vaaia."
-  - "O suʻesuʻe upu e lapopoa mataʻitusi ma ni tusi fesili faigofie i luga o le lau e 4 po o le 9 fasi e leai se totogi i lenei saite."
+  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
+  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
+  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
+  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
+  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
 faq:
-  - q: "E fia fasi o le jigsaw e sili ona lelei mo se tasi e iai le dementia?"
-    a: "E leai se numera e tasi e tonu. O se tasi sa faia jigsaw e 1,000 fasi atonu e fiafia pea i ni nai selau i le amataga, ae o isi e sili ona lelei mo ni fasi lapopoa e tusa ma le sefulu ma le lua. Afai e foliga mai o se galuega le tusi fesili po o le mafua ai le ita, alu i fasi e itiiti. O la matou Puzzle ata i luga o le lau e 4 po o le 9 fasi."
-  - q: "E lelei ea jigsaw mo tagata e iai le dementia?"
-    a: "E tele tagata e fiafia i ai, aemaise lava pe afai sa latou fiafia i tusi fesili muamua. O le jigsaw e tuu ai se mea e faia e lima, se sini manino ma se ata e talanoa i ai. E leai se jigsaw ua faaalia e togafitia pe faatamaoaigaina le dementia, o lea filifili ona o le fiafia ma le talatalanoa."
-  - q: "O le a le mea e mafai ona ou faia pe a le toe mafai e se tasi ona faia se jigsaw?"
-    a: "Faaitiitia ma faia e oe le tele: tuu atu le tasi fasi i le taimi, po o le tuu na o ni nai fasi mulimuli mo ia. Taumafai se tusi fesili i luga o le lau e 4 fasi, faavasega fasi i lanu, po o le vaai lava faatasi i le ata ua mae."
-  - q: "E talafeagai ea tusi fesili o upu felanulanuaʻi ma suʻesuʻe upu mo le dementia?"
-    a: "E mafai i le vaitaimi muamua, pe a lapopoa mataʻitusi. E sili ona faigofie suʻesuʻe upu e na o upu i luga ma le itu nai lo upu e faapiopio po o upu e tuu ifo i tua. Faitau le lisi o faailoga po o upu i le leo ma faia faatasi."
+  - q: "How many puzzle pieces are best for someone with dementia?"
+    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
+  - q: "Are jigsaw puzzles good for people with dementia?"
+    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
+  - q: "What can I do when someone can no longer manage a jigsaw?"
+    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
+  - q: "Are crosswords and word searches suitable for dementia?"
+    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,87 +45,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-O se jigsaw ua faalafua i luga o le laulau o le taumafataga o se tasi o gaoioiga e sili ona faigofie ona faasoa. E mafai ona outou nonofo faatasi e aunoa ma le manaʻomia o le talanoa, o le ata e tuu atu ai se mea e talanoa i ai, ma e lelei le lagona pe a tuu le fasi mulimuli. Ae e manaʻomia ona suia tusi fesili a o suia le dementia. O se tusi fesili e matua faigata tele e mafai ona liua ai se aoauli filemu i se mea e faalavelave ai. O lenei itulau o loo faamatalaina ai le auala e filifilia ma faatulagaina ai jigsaw, tusi fesili o upu ma tusi fesili faigofie i luga o le lau, ma le mea e faia pe a faigata.
+A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
 
-## E lelei ea tusi fesili mo tagata e iai le dementia?
+## Are puzzles good for people with dementia?
 
-E tele tagata e fiafia i ai, aemaise lava i latou sa faia tusi fesili muamua. O le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e lisiina ai suʻesuʻe upu, taaloga kata ma taaloga o le laulau i totonu o gaoioiga mo le vaitaimi muamua, ma o le [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e taʻua ai taaloga i luga o le lau ma tusi fesili i luga o tablet o se tasi auala e tumau ai le auai.
+Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
 
-E le o ni togafitiga tusi fesili. E leai se tusi fesili ua faaalia e faatamaoaigaina pe taofia le dementia; o la matou taʻiala i [taaloga o le mafaufau ma le dementia](/brain-health/brain-games/) e faamatalaina ai suʻesuʻega. O le mafuaaga e faia ai se tusi fesili, ona e mafai ona avea ma se itula lelei ma e mafaufau tele ai e faatasi. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e aoteleina ai: taulaʻi i le fiafia, e le o le taulau.
+Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
 
-## E faapefea ona e filifilia se jigsaw mo se tasi e iai le dementia?
+## How do you choose a jigsaw puzzle for someone with dementia?
 
-Mulimuli i le mea e fiafia i ai le tagata ma le auala na alu ai le tusi fesili mulimuli, e le o se igoa o le vaitaimi.
+Go by what the person enjoys and how the last puzzle went, not by a stage label.
 
-### Le numera o fasi
+### Number of pieces
 
-E leai se numera tonu. O se tasi na fiafia i tusi fesili i lona olaga atoa atonu e fiafia pea i ni nai selau fasi i le amataga, a o se isi e sili ona fiafia i le sefulu ma le lua. O se tulafono aoga: afai na foliga mai o se galuega le tusi fesili mulimuli, filifili se tasi e tusa ma le afa o fasi. Afai na vave ona faaiuina ma sa manaʻo pea i le isi, siʻi aʻe sina mea.
+There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
 
-### Le lapoʻa ma le lagona o fasi
+### Piece size and feel
 
-- **O fasi lapopoa** e sili ona faigofie ona vaai, piki ma liliu.
-- **O fasi mafiafia ma malosi** e tumau pea i o latou nofoaga ma e le faaleagaina pe a pau.
-- **O le mea e le ama** e faaitiitia ai le mamālā i lalo o moli ma faamalama.
-- **Aloese mai fasi laiti** pe afai e ono tuu e le tagata mea i lona gutu, lea e mafai ona tupu mulimuli ane i le dementia.
+- **Larger pieces** are easier to see, pick up and turn.
+- **Thick, sturdy pieces** stay put and survive being dropped.
+- **A matte finish** reduces glare under lamps and windows.
+- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
 
-### Le ata
+### The picture
 
-- **Mataupu mo tagata matutua.** Faatoaga, kitchen, taavale tuai, manu o le faatoaga, se taulaga i le talafatai, se ta aloga e fiafia i ai. E le o ni ata o tala faatamaiti po o se mea e foliga mai o se meataalo a tamaiti.
-- **Vaega lanu eseese.** O se fale o le saito mumu, o se vaa lanu moana ma se fanua lanu lanu mutia e sili ona faigofie nai lo se lagi e faatumuina le afa o le tusi fesili.
-- **E masani ma patino.** O se ata o se nofoaga na latou nonofo ai po o se mea na fiafia i ai e tele ni mea e talanoa i ai. O nisi faleoloa lolomi e mafai ona suia se ata o le aiga i se jigsaw.
+- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
+- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
+- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
 
-## E faapefea ona faia faatasi se tusi fesili?
+## How do you do a puzzle together?
 
-Faatulaga ina ia mafai e le tagata ona alu saʻo i le vaega e fiafia ai.
+Set it up so the person can get straight to the enjoyable part.
 
-1. **Filifili se nofoaga lelei.** Malamalama lelei, se nofoa e iai ni lima, ma se laulau po o se ipu e mafai ai ona tumau le tusi fesili i fafo.
-2. **Tuu le ufi o le pusa** i se mea e mafai ai ona outou vaai uma.
-3. **Liliu fasi i luga** a o lei amata.
-4. **Faavasega le tapuni** e oe lava, pe faia muamua le tapuni ma tuu le ogatotonu mo ia.
-5. **Faaputu fasi i lanu** i ni nai ipu pe ipu laulau e le loloto.
-6. **Tuu atu le tasi fasi i le taimi** pe afai e matua tele le faaputuga. “Ou te manatu o lenei fasi o se vaega o le fale o le saito.”
-7. **Talanoa i le ata,** e le o le alualu i luma. “E foliga mai o le vaa a lo ou tama.”
-8. **Tuu i fafo.** Toe foi i ai i aso e tele. E leai se faanatinati.
-9. **Taofi i se taimi lelei,** a mae se fasi, a o lelei pea le lagona.
+1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
+2. **Prop up the box lid** where you can both see it.
+3. **Turn the pieces face up** before you start.
+4. **Sort the edges** yourself, or do the border first and leave the middle for them.
+5. **Group pieces by color** into a few shallow trays or plates.
+6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
+7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
+8. **Leave it out.** Come back to it over several days. There is no hurry.
+9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
 
-Ua fautuaina e le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) le fesoasoani i le tagata e amata, mataituina o le faalavelave, ma tuu atu e na ona matamata pe afai e sili ona fiafia i ai. O le matamata atu ia te oe e tuu fasi ma faailoa atu le mea e ono alu i ai se tasi, o le auai lava lea.
+The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
 
-## Tusi fesili faigofie i luga o le lau
+## Easy online puzzles
 
-O se tusi fesili i luga o le tablet e iai ni tulaga lelei moni: e leai ni fasi e leiloa, ata lapopoa e faatumuina le lau, ma e leai se laulau e faamamaina.
+A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
 
-O la matou [Puzzle ata](/games/picture-puzzle/) e leai se totogi e tipi ai se ata i fasi e 4 po o le 9. Oomi ni fasi se lua e sui ai seia atoa le ata. O le ata atoa e tumau i luga o le lau e avea ma taʻiala, e leai se uati, ma e mafai ona taofi i so o se taimi. O le fa fasi e talafeagai mo tagata e tele i le vaitaimi ogatotonu pe a iai se tasi i o latou tafatafa.
+Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
 
-Mo se taaloga ata e sili atu ona faigofie, taumafai le [Suʻe le tutusa](/games/find-the-same/), lea e oomi ai le ata e tutusa ma se tasi i luga, po o le [Faavasega faatasi](/games/sort-together/), lea e tuu ai ata i ni ato e pei o le kitchen po o le faatoaga.
+For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
 
-## Tusi fesili o upu: suʻesuʻe upu ma upu felanulanuaʻi
+## Word puzzles: word searches and crosswords
 
-E talafeagai tusi fesili o upu mo tagata sa latou fiafia i ai i taimi uma, e masani lava i le amataga o le dementia.
+Word puzzles suit people who always enjoyed them, usually earlier in dementia.
 
-- **Suʻesuʻe upu e lapopoa mataʻitusi.** O la matou [Suʻesuʻe upu](/games/word-search/) e leai se totogi e faaaogā ai mataʻitusi tetele ma na o ni nai upu, i luga ma le itu, e le faapiopio pe tuu ifo i tua. Taalo i luga o le lau pe lolomi.
-- **Faitau le lisi i le leo.** O le tasi e faitau se upu, o le isi e suʻe. E lelei lava le faataamilo na o le mataʻitusi muamua.
-- **Upu felanulanuaʻi e lapopoa mataʻitusi** mai tusi o tusi fesili e mafai ona aoga i le amataga. Faitau faailoga i le leo, faasoa le peni ma faatumu tali faatasi. E sili atu upu felanulanuaʻi faigofie e iai autu nai lo mea faigata.
-- **Talanoa i upu.** O le “faatoaga” e mafai ona oo atu i le sefulu minute e uiga i tamato.
+- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
+- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
+- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
+- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
 
-Mo isi gaoioiga i luga o le pepa ma le auala e lolomi ai ina ia faigofie ona vaai ma uuina, tagaʻi i [gaoioiga lolomiina mo le dementia e leai se totogi](/activities/printable/).
+For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
 
-## O fea tusi fesili e talafeagai mo vaitaimi taʻitasi?
+## Which puzzles suit each stage?
 
-E tutusa vaitaimi i nisi taimi, ma e masani aso lelei ma aso faigata.
+Stages overlap, and good and hard days are normal.
 
-| Vaitaimi | Tusi fesili e masani ona fetaui | Lau tofi |
+| Stage | Puzzles that often fit | Your role |
 | --- | --- | --- |
-| Muamua | Jigsaw masani e itiiti ni fasi nai lo muamua, upu felanulanuaʻi ma suʻesuʻe upu e lapopoa mataʻitusi, tusi fesili i luga o le lau e 9 fasi | Paaga: tuu e filifili e ia, fesoasoani pe a talosagaina |
-| Ogatotonu | Jigsaw e tusa ma le sefulu ma le lua fasi lapopoa, tusi fesili i luga o le lau e 4 fasi, suʻesuʻe upu e faitau faatasi i le leo | Faatulaga, faavasega fasi, tuu atu le tasi i le taimi |
-| Mulimuli | Vaai faatasi i se ata ua mae, Suʻe le tutusa ma ata e lua, uuina o ni nai fasi lapopoa | Aumai ia te ia; o lou faatasi o le gaoioiga lea |
+| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
+| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
+| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
 
-## O le a le taimi e faigofie ai se tusi fesili, po o le taofi?
+## When should you make a puzzle easier, or stop?
 
-Matamata mo le anapogi, tulei ese o fasi, toe fai o le “E le mafai ona ou faia” po o foliga popole. O faailoga ia e suia ai se mea, e le o le tulei atu.
+Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
 
-- **Faaitiitia.** Fasi e itiiti, po o le tuu na o ni nai fasi mulimuli mo ia.
-- **Faia e oe le tele** ma valaaulia o ia e fesoasoani i vaega faigofie.
-- **Sui i se mea e latalata:** faavasega fasi i lanu, se tusi fesili i luga o le lau e 4 fasi, po o le [vali](/games/coloring/).
-- **Taofi.** Tuu ese ma inu se ipu lauti. E mafai ona toe foi i se isi aso, pe leai lava.
+- **Make it smaller.** Fewer pieces, or leave only the last few for them.
+- **Do more of it yourself** and invite them to help with the easy bits.
+- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
+- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
 
-Afai e amata ona foliga mai o tusi fesili o se faamanatu o mea faigata, e lelei lava le tuu ese. E tele isi auala e faaaogā ai se taimi lelei faatasi; o a matou [manatu e 101 o gaoioiga](/activities/ideas/) o se nofoaga lelei e suʻe ai.
+If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.

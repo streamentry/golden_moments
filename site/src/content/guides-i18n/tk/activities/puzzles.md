@@ -1,33 +1,32 @@
 ---
-title: "Demensiýa bilen ýaşaýan adamlar üçin tapmaçalar: surat, söz we aňsat onlaýn tapmaçalar"
-seoTitle: "Demensiýa üçin tapmaçalar: surat we söz tapmaçalary"
-description: "Demensiýaly adam üçin surat, söz we onlaýn tapmaçalary nädip saýlamaly: bölek ululygy, suratlar, ullakan çap, bilelikde etmek we aňsatlaşdyrmak."
+title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
+seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
+description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demensiýa bilen ýaşaýan adam üçin iň oňat tapmaça, azajyk kömek bilen
-  tamamlap boljak we ýolda lezzet berýän tapmaçadyr. Bölekleri az we ullakan,
-  suraty düşnükli, ulular üçin niýetlenen surat tapmaçalaryny saýlaň, gutynyň
-  üstündäki suraty göz öňünde saklaň we ilki gyrasyndaky bölekleri saýlaň.
-  Söz gözlegi we krossword ullakan çapda iň oňat işleýär. Dört bölekli aňsat
-  onlaýn tapmaçalar orta tapgyra laýyk gelýär. Hezil edip durkaňyz, bes ediň.
+  The best puzzle for someone with dementia is one they can finish with a
+  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
+  and a clear adult picture, keep the box picture in view, and sort the edge
+  pieces first. Word searches and crosswords work best in large print. Easy
+  online puzzles with four pieces suit the middle stage. Stop while it is fun.
 keyPoints:
-  - "Tapgyr atyna däl-de, işiň nähili gidýändigine seredip saýlaň: tapmaça iş ýaly bolup duýulsa, bölegi azrak tapmaçany synap görüň."
-  - "Ullakan, berk bölekler we reňk meýdanlary aýdyň bolan surat, kiçijik bölekler we uly asman bilen deňeşdirilende has aňsatdyr."
-  - "Suratlaryň ulular üçindigi möhümdir. Bag, aşhana, awtoulag we haýwan saýlaň, multfilm däl."
-  - "Bilelikde etmek esasy maksatdyr. Bölekleri uzadyň, gyralaryny saýlaň, gutynyň gapagyny göz öňünde saklaň."
-  - "Ullakan çaply söz gözlegi we 4 ýa-da 9 bölekli aňsat onlaýn tapmaçalar bu saýtda mugt."
+  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
+  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
+  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
+  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
+  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
 faq:
-  - q: "Demensiýa bilen ýaşaýan adam üçin näçe bölek iň gowy?"
-    a: "Ýeke dogry san ýok. 1,000 bölekli tapmaçalary ýygnan adam ir tapgyrda ýene-de birnäçe ýüz bölegi halap biler, beýlekiler bolsa on töweregi ullakan bölek bilen iň oňat işleýär. Tapmaça iş ýaly duýulsa ýa-da gaharlandyrsa, bölegi azrak tapmaça geçiň. Biziň onlaýn Surat tapmaçamyzda 4 ýa-da 9 bölek bar."
-  - q: "Surat tapmaçalary demensiýa bilen ýaşaýan adamlar üçin peýdalymy?"
-    a: "Köp adam olary halaýar, esasanam öň tapmaça halaýan bolsa. Tapmaça eliňe iş berýär, aýdyň maksat berýär we gürrüň etmäge surat berýär. Hiç bir tapmaçanyň demensiýany bejerýändigi ýa-da haýalladýandygy görkezilmändir, şonuň üçin ony lezzet we ýoldaşlyk üçin saýlaň."
-  - q: "Biri surat tapmaçasyny ýygnap bilmeýän bolsa, nädip bolmaly?"
-    a: "Ony kiçeldiň we köpüsini özüňiz ediň: bir-bir bölek uzadyň ýa-da diňe soňky birnäçe bölegini olar üçin goýuň. 4 bölekli onlaýn tapmaçany, bölekleri reňke görä saýlamagy ýa-da gutarylan suraty bilelikde görmegi synap görüň."
-  - q: "Krosswordlar we söz gözlegi demensiýa üçin laýykmy?"
-    a: "Ullakan çapda bolsa, ir tapgyrda laýyk gelip biler. Diňe ýanlygyna we ýokaryndan aşak ýerleşen sözli söz gözlegi, çapraz ýa-da yzyna ýazylan sözli bilen deňeşdirilende has aňsatdyr. Ýol görkezijileri ýa-da söz sanawyny ses çykaryp okaň we bilelikde işläň."
+  - q: "How many puzzle pieces are best for someone with dementia?"
+    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
+  - q: "Are jigsaw puzzles good for people with dementia?"
+    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
+  - q: "What can I do when someone can no longer manage a jigsaw?"
+    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
+  - q: "Are crosswords and word searches suitable for dementia?"
+    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,87 +45,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-Naharhananyň stolunda ýaýylan surat tapmaçasy, bilelikde etmegiň iň aňsat işleriniň biridir. Gürrüň etmeseňiz hem ýanaşyp oturyp bilersiňiz, surat size gürleşmäge sebäp berýär we soňky bölegiň ýerine goýulmagy ýakymly duýgy berýär. Emma demensiýa üýtgedigiçe, tapmaçalar hem üýtgemeli. Aşa kyn tapmaça rahat günortanlygy gaharly pursata öwürip biler. Bu sahypada surat tapmaçalaryny, söz tapmaçalaryny we aňsat onlaýn tapmaçalary nädip saýlamalydygy, nädip gurnamalydygy we olar kynlaşanda näme etmelidigi düşündirilýär.
+A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
 
-## Tapmaçalar demensiýa bilen ýaşaýan adamlar üçin peýdalymy?
+## Are puzzles good for people with dementia?
 
-Köp adam olary halaýar, esasanam öň tapmaça çözen bolsa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ir tapgyr üçin işleriň arasynda söz tapmaçalaryny, kart we stol oýunlaryny görkezýär, [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bolsa planşetdäki onlaýn oýunlary we tapmaçalary işjeň galmagyň bir ýoly hökmünde agzaýar.
+Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
 
-Tapmaçalar bejeriş däldir. Hiç bir tapmaçanyň demensiýany haýalladýandygy ýa-da duruzýandygy görkezilmändir; barlaglaryň nämäni görkezýändigini [beýni oýunlary we demensiýa](/brain-health/brain-games/) gollanmamyzda düşündirýäris. Tapmaça çözmegiň sebäbi, bilelikde ýakymly, özüňi unudýan bir sagat geçirip bilmegidir. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) muny şeýle jemleýär: ýetişige däl-de, lezzete üns beriň.
+Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
 
-## Demensiýa bilen ýaşaýan adam üçin surat tapmaçasyny nädip saýlamaly?
+## How do you choose a jigsaw puzzle for someone with dementia?
 
-Tapgyr ady bilen däl-de, adamyň nämäni halaýandygyna we soňky tapmaçanyň nähili gidendigine seredip saýlaň.
+Go by what the person enjoys and how the last puzzle went, not by a stage label.
 
-### Bölekleriň sany
+### Number of pieces
 
-Dogry san ýok. Ömrüboýy tapmaça çözen adam ir tapgyrda ýene-de birnäçe ýüz bölegi halap biler, başga biri bolsa on töweregi bölek bilen iň bagtly bolar. Peýdaly düzgün: soňky tapmaça iş ýaly duýulan bolsa, bölegi ýarym töweregi azrak tapmaçany saýlaň. Çalt gutarylan bolsa we ýene isleseler, azajyk artdyryň.
+There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
 
-### Bölegiň ululygy we duýgusy
+### Piece size and feel
 
-- **Has uly bölekler** görmäge, almaga we öwürmäge aňsatdyr.
-- **Galyň, berk bölekler** ýerinde durýar we düşse-de zeper ýetmeýär.
-- **Mat ýüzli** bölekler çyra we penjire ýanynda ýalpyldyny azaldýar.
-- **Kiçijik bölekleri saklaň,** eger adam zatlary agzyna salýan bolsa. Bu demensiýanyň soňky tapgyrlarynda bolup biler.
+- **Larger pieces** are easier to see, pick up and turn.
+- **Thick, sturdy pieces** stay put and survive being dropped.
+- **A matte finish** reduces glare under lamps and windows.
+- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
 
-### Surat
+### The picture
 
-- **Ulular üçin mowzuklar.** Bag, aşhana, köne awtoulag, ferma haýwanlary, deňiz ýakasyndaky şäher, halaýan sport. Multfilm ýa-da çaga oýnawajyna meňzeýän zatlar däl.
-- **Aýdyň reňk meýdanlary.** Gyzyl ambar, gök gaýyk we ýaşyl meýdan, tapmaçanyň ýarysyny tutýan asmandan has aňsatdyr.
-- **Tanyş we şahsy.** Ýaşan ýeriniň ýa-da söýen höwesiniň suraty size gürrüň etmäge köp zat berýär. Käbir çap öýleri maşgala suratyny surat tapmaçasyna öwrüp bilýär.
+- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
+- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
+- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
 
-## Tapmaçany bilelikde nädip ýygnamaly?
+## How do you do a puzzle together?
 
-Adam göni lezzetli bölegine geçip bilmegi üçin ony şeýle taýýarlaň.
+Set it up so the person can get straight to the enjoyable part.
 
-1. **Oňat ýer saýlaň.** Gowy ýagtylyk, goltuklary bolan oturgyç we tapmaça galyp biljek stol ýa-da podnos.
-2. **Gutynyň gapagyny dikiň,** ikiňiz hem görüp bilmegiňiz üçin.
-3. **Bölekleri başlamazdan öň ýüzi bilen ýokary öwüriň.**
-4. **Gyralaryny saýlaň,** özüňiz ýa-da çäkesini ýygnaň, ortasyny olar üçin goýuň.
-5. **Bölekleri reňke görä** birnäçe pes tabaga ýa-da tarelka bölüň.
-6. **Bir-bir bölek uzadyň,** eger bölekleriň üýşmegi basyp barýan bolsa. «Meniň pikirimçe, bu ambaryň bölegi.»
-7. **Ýetişik hakda däl-de, surat hakda gürleşiň.** «Bu kakamyň gaýygyna meňzeýär.»
-8. **Ony açyk goýuň.** Birnäçe günüň dowamynda ýene gaýdyp geliň. Howlukmaly zat ýok.
-9. **Oňat pursatda bes ediň,** bir bölek ýerine düşenden soň, entek ýakymly wagtynda.
+1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
+2. **Prop up the box lid** where you can both see it.
+3. **Turn the pieces face up** before you start.
+4. **Sort the edges** yourself, or do the border first and leave the middle for them.
+5. **Group pieces by color** into a few shallow trays or plates.
+6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
+7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
+8. **Leave it out.** Come back to it over several days. There is no hurry.
+9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adamyň başlamagyna kömek etmegi, gaharlanma alamatlaryna syn etmegi we ol seretmegi has halaýan bolsa, diňe seretmäge ýol bermegi maslahat berýär. Siziň bölekleri goýýanyňyza seretmek we bölegiň nirä gidip biljekdigini görkezmek hem gatnaşmakdyr.
+The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
 
-## Aňsat onlaýn tapmaçalar
+## Easy online puzzles
 
-Planşet tapmaçasynyň hakyky artykmaçlyklary bar: ýitýän bölekler ýok, ekrany dolduran uly suratlar bar we stol boşatmak gerek däl.
+A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
 
-Biziň mugt [Surat tapmaçamyz](/games/picture-puzzle/) suraty 4 ýa-da 9 bölege bölýär. Surat bütin bolýança iki bölege basyp ýerlerini çalyşyň. Doly surat ekranda ýol görkeziji hökmünde galýar, sagat ýok we islendik pursatda bes edip bilersiňiz. Dört bölek, ýanynda başga biri bolan orta tapgyrdaky köp adama laýyk gelýär.
+Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
 
-Hasam aňsat surat oýny üçin, ýokarsyndaky suratyň ýaly suratyna basýan [Meňzeşini tap](/games/find-the-same/) ýa-da suratlary aşhana ýa-da bag ýaly sebetlere salýan [Bilelikde saýla](/games/sort-together/) oýunlaryny synap görüň.
+For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
 
-## Söz tapmaçalary: söz gözlegi we krosswordlar
+## Word puzzles: word searches and crosswords
 
-Söz tapmaçalary hemişe halan adamlara, adatça demensiýanyň ir tapgyrynda laýyk gelýär.
+Word puzzles suit people who always enjoyed them, usually earlier in dementia.
 
-- **Ullakan çaply söz gözlegi.** Biziň mugt [Söz gözlegimiz](/games/word-search/) uly harplary we diňe birnäçe sözi ulanýar, sözler ýanlygyna we ýokaryndan aşak ýerleşýär, hiç haçan çapraz ýa-da yzyna däl. Ony ekranda oýnaň ýa-da çap ediň.
-- **Sanawy ses çykaryp okaň.** Bir adam sözi okaýar, beýlekisi ony gözleýär. Diňe ilkinji harpy halkalamak hem bolýar.
-- **Tapmaça kitaplaryndaky ullakan çaply krosswordlar** ir tapgyrda işläp biler. Ýol görkezijileri ses çykaryp okaň, galamy paýlaşyň we jogaplary bilelikde ýazyň. Temaly aňsat krosswordlar şifrli krosswordlardan gowudyr.
-- **Sözler hakda gürleşiň.** «Bag» sözi pomidor hakda on minutlyk gürrüňe alyp barip biler.
+- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
+- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
+- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
+- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
 
-Has köp kagyz işi we olary görmäge hem tutmaga aňsat etmek üçin nädip çap etmelidigi barada [mugt çap ediljek demensiýa işleri](/activities/printable/) sahypasyna serediň.
+For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
 
-## Haýsy tapmaçalar haýsy tapgyra laýyk?
+## Which puzzles suit each stage?
 
-Tapgyrlar biri-birine goşulýar we gowy hem kyn günler adaty zatdyr.
+Stages overlap, and good and hard days are normal.
 
-| Tapgyr | Köplenç laýyk gelýän tapmaçalar | Siziň roluňyz |
+| Stage | Puzzles that often fit | Your role |
 | --- | --- | --- |
-| Ir | Öňkülerden az bölekli tanyş surat tapmaçalary, ullakan çaply krosswordlar we söz gözlegi, 9 bölekli onlaýn tapmaçalar | Ýoldaş: saýlamaga ýol beriň, soralanda kömek ediň |
-| Orta | On töweregi ullakan bölekli surat tapmaçalary, 4 bölekli onlaýn tapmaçalar, bilelikde ses çykaryp okalýan söz gözlegi | Taýýarlaň, bölekleri saýlaň, birin-birin uzadyň |
-| Giçki | Gutarylan suraty bilelikde görmek, iki suratly Meňzeşini tap, birnäçe ullakan bölegi tutmak | Ony olara getiriň; siziň ýoldaşlygyňyz işiň özüdir |
+| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
+| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
+| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
 
-## Tapmaçany haçan aňsatlaşdyrmaly ýa-da bes etmeli?
+## When should you make a puzzle easier, or stop?
 
-Içini çekmegine, bölekleri iteklemegine, gaýtalanýan «Men edip bilemok» sözlerine ýa-da alada bilen seredişine üns beriň. Bular iş dowam etdirmegiň däl-de, bir zady üýtgetmegiň alamatlarydyr.
+Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
 
-- **Kiçeldiň.** Bölegi azaldyň ýa-da diňe soňky birnäçesini olar üçin goýuň.
-- **Köpüsini özüňiz ediň** we aňsat ýerlerinde kömek etmäge çagyryň.
-- **Ýakyn bir zada geçiň:** bölekleri reňke görä saýlamak, dört bölekli onlaýn tapmaça ýa-da [reňklemek](/games/coloring/).
-- **Bes ediň.** Ony bir ýana goýuň we bir käse çaý içiň. Başga gün gaýdyp gelip bilersiňiz, ýa-da hiç gaýdyp gelmersiňiz.
+- **Make it smaller.** Fewer pieces, or leave only the last few for them.
+- **Do more of it yourself** and invite them to help with the easy bits.
+- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
+- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
 
-Tapmaçalar kyn bolan zadyň ýadyna salýan bolsa, olary goýbermek mümkin. Bilelikde gowy wagt geçirmegiň başga köp ýoly bar; [101 iş pikirimiz](/activities/ideas/) seretmek üçin oňat ýerdir.
+If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.

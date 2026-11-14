@@ -362,7 +362,19 @@
     "xcodebuild",
     "androidpublisher",
     "gserviceaccount",
-    "jarfile"
+    "jarfile",
+    "crosslink",
+    "Sinhala",
+    "Luxembourgish",
+    "Kurmanji",
+    "Occitan",
+    "Faroese",
+    "Uyghur",
+    "Shona",
+    "Sesotho",
+    "Chichewa",
+    "Lingala",
+    "Dhivehi"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",

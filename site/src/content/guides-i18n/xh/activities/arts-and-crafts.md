@@ -1,33 +1,32 @@
 ---
-title: "Ubugcisa Nemisebenzi Yezandla Yabantu Abadala Abane-Dementia"
-seoTitle: "Ubugcisa Nemisebenzi Yezandla Kwi-Dementia: Ebantu Abadala, Hayi Yabantwana"
-description: "Imisebenzi yobugcisa yabantu abadala abaphila ne-dementia, ukusuka kupeyinti yamanzi ukuya ekucwangciseni iintyatyambo, kunye neengcebiso."
+title: "Arts and Crafts for Adults with Dementia"
+seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
+description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ubugcisa nemisebenzi yezandla emihle yabantu abadala abaphila ne-dementia
-  ibonakala kwaye ivakala njengeyabantu abadala: ipeyinti yamanzi, ikholaji
-  yemifanekiso yemagazini, ukucwangcisa iintyatyambo, ubumba, ukwenza amakhadi
-  alula okanye amaphepha okukhulisa abantu abadala. Beka izinto ezimbalwa,
-  ncedisa ngomgca wokuqala ukuba kuyimfuneko, thetha ngelixa nisebenza, kwaye
-  uthathe ixesha enikunye njengenjongo. Umsebenzi ogqityiweyo awunyanzelekanga.
+  Good arts and crafts for adults living with dementia look and feel grown-up:
+  watercolor, collage from magazines, flower arranging, clay, simple card
+  making or adult coloring pages. Set out a few materials, help with the first
+  stroke if needed, talk while you work, and treat the time together as the
+  point. A finished piece is optional.
 keyPoints:
-  - "Khetha izinto nezihloko ezibonakala zezabantu abadala, ezifana nephepha lepeyinti yamanzi, iintyatyambo zokwenyani nemifanekiso yemagazini, hayi iglitha, izitikha okanye amaphepha emifanekiso yeekhathuni."
-  - "Gxila kwinkqubo: imibala, indlela ubumba obuvakala ngayo, incoko. Umsebenzi ogqityiweyo yimbasa, hayi injongo."
-  - "Nika injongo xa unako, njengekhadi lomzukulwana okanye into emiswa embindini wetafile."
-  - "Ncedisa umntu aqale, uze uhlehle. Ukuqala umgca webrashi kunye kudla ngokwanela."
-  - "Iiprojekthi azinyanzelekanga ukuba zigqitywe ngokuhlala kanye, kwaye ukuyeka kwangethuba kuhlala kulungile."
+  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
+  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
+  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
+  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
+  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
 faq:
-  - q: "Ndiyigcina njani imisebenzi yezandla ingavakali njengeyabantwana?"
-    a: "Sebenzisa izixhobo zobugcisa zokwenyani, izihloko zabantu abadala nethoni enentlonipho. Tshintshanisa iglitha namaphepha eekhathuni ngephepha lepeyinti yamanzi, indwangu yengubo, iintyatyambo, iifoto zemagazini namaphepha okukhulisa anobuninzi beenkcukacha. Musa ukuncoma umsebenzi ngendlela ongayincoma ngayo ukuzoba komntwana; thetha ngawo njengoko ubunokuthetha nomhlobo ongumntu omdala."
-  - q: "Yeyiphi imisebenzi yobugcisa esebenzayo kwi-dementia yenqanaba lokugqibela?"
-    a: "Iiprojekthi ezilula, ezibandakanya izivamvo zisebenza kakuhle kamva: ukupeyinta ngemigca emikhulu ngebrashi enkulu, ukuxovula ubumba obuthambileyo, ukucwangcisa iintyatyambo ezimbalwa kwivasi, okanye ukohlela iziqwenga zentsimbi ngokuziva. Usenokufuna ukuqala intshukumo kunye. Ukukubukela upeyinta nokuthetha ngemibala nako yindlela yokuthatha inxaxheba."
-  - q: "Kuthekani ukuba uthi akakwazi ukuzoba?"
-    a: "Susa uxinzelelo. Zama iiprojekthi ezingenampendulo echanekileyo, njengokuhlamba ngepeyinti yamanzi, ikholaji, okanye ukucwangcisa iintyatyambo. Unokuthi kananjalo ufuna uncedo ngento ethile, njengokukhetha imibala yekhadi, ukuze umsebenzi uvakale njengomnikelo hayi uvavanyo."
-  - q: "Ngaba amaphepha okukhulisa abantu abadala asebenzela abantwana kuphela?"
-    a: "Hayi xa enzelwe abantu abadala. Khetha amaphepha anezihloko zabantu abadala ezifana neengadi, amaqhekeza engubo, iimoto okanye imihlaba, kwaye uwabonise njengokuphumla hayi njengesifundo. Amaphepha ethu okukhulisa angaprintwa okanye akhuliswe kwitablet."
+  - q: "How do I keep crafts from feeling childish?"
+    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
+  - q: "What art activities work in later-stage dementia?"
+    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
+  - q: "What if they say they can't draw?"
+    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
+  - q: "Are coloring pages too childish for adults?"
+    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -49,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Ubugcisa nemisebenzi yezandla zinika abantu abaphila ne-dementia indlela yokuzibonakalisa engaxhomekekanga ekufumaneni amazwi alungileyo. I-Alzheimer's Association iyaqaphela ukuba iiprojekthi zobugcisa zinokuzisa [intliziyo yempumelelo nenjongo](https://www.alz.org/help-support/caregiving/daily-care/art-music) nethuba lokuzibonakalisa, kumnonopheli nakumntu one-dementia. Isitshixo kukugcina izinto zezabantu abadala, zilula kwaye zingenaxinzelelo. Eli phepha linika iiprojekthi ezithile, indlela yokuzilungiselela nendlela yokuzilungelelanisa xa izinto zitshintsha.
+Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
 
-## Yintoni eyenza umsebenzi wobugcisa ube weyabantu abadala hayi weyabantwana?
+## What makes an art activity adult and not childish?
 
-Umsebenzi wobugcisa wabantu abadala usebenzisa izinto zokwenyani, izihloko zabantu abadala nethoni enentlonipho. I-Alzheimer's Association icebisa ukugcina iiprojekthi kumgangatho wabantu abadala nokuphepha nantoni na enokubonakala ingahloniphi okanye injengeyabantwana.
+An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
 
-| Ivakala njengeyabantwana | Ivakala njengeyabantu abadala |
+| Feels childish | Feels adult |
 | --- | --- |
-| Iglitha, izitikha zefowuni, amehlo angqukuva | Iphepha lepeyinti yamanzi, indwangu yengubo, iintyatyambo ezicudisiweyo |
-| Amaphepha okukhulisa eekhathuni | Amaphepha okukhulisa eengadi, amaqhekeza engubo, iimoto okanye imihlaba |
-| Ukuncoma “Umsebenzi omhle” kuphawu ngalunye | Incoko yokwenyani: “Obo bumnyama obuluhlaza buhle ecaleni kobuhlaza” |
-| Umsebenzi ongenamsebenzi | Ikhadi lomhlobo, into emiswa embindini wetafile, isipho |
-| Imiyalelo efundwa njengesifundo | Isimemo: “Ungandinceda ngale nto?” |
+| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
+| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
+| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
+| A craft with no use | A card for a friend, a centerpiece, a gift |
+| Instructions read like a lesson | An invitation: "Would you help me with this?" |
 
-Cinga ngencasa yomntu ngokwakhe. Umntu owayethanda ukuthungela angakonwabela ukubamba indwangu. Injineli ethathe umhlala-phantsi isenokukhetha iseti yemodeli enamacandelo amakhulu okanye ukohlela izixhobo kwiprojekthi. Utitshala wangaphambili usenokonwabela ukwenza amakhadi.
+Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
 
-## Kutheni kufuneka sigxile kwinkqubo hayi kwimveliso?
+## Why focus on the process, not the product?
 
-Kuba ixesha enikunye yinjongo. Isikhokelo se-Alzheimer's Association se-[activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) sithi gxila kwinkqubo, hayi kwisiphumo. Upeyinti “obuhlaza okwesibhakabhaka nje” usengumfanekiso opeyintiweyo. Ikholaji enemifanekiso emithathu isengumsebenzi wekholaji.
+Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
 
-I-Association iyaqaphela nokuba igcisa lobugcisa lisenokukhathazeka ngenxa yotshintsho emsebenzini walo, ngelixa umntu ongengomgcisi anokonwabela ithuba elitsha lokuzibonakalisa. Ukuba umntu wayeyigcisa elikrelekrele, zama indlela eyahlukileyo kuleyo awayeyiqeqeshele, ukuze ivakale njengomdlalo hayi uthelekiso.
+The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
 
-## Imibono yobugcisa nemisebenzi yezandla onokuyizama
+## Arts and crafts ideas to try
 
-Umbono ngamnye uquka indlela yokuwenza ube lula ukuba uba nzima.
+Each idea includes how to make it simpler if it becomes hard.
 
-1. **Ukuhlamba ngepeyinti yamanzi.** Manzisa iphepha lepeyinti yamanzi eliqinileyo uvumele umntu abeke umbala kulo ngebrashi enkulu. Imibala iyasasazeka ngokwayo, ngoko akukho siphumo sibi. *Kulula:* nika imibala emibini kuphela, okanye upeyinte ngamanzi kwiphepha elimnyama elibonisa iimpawu ezimanzi.
-2. **Ikholaji yemagazini.** Sika kwangaphambili imifanekiso kwimagazini zokulima, zokupheka, iimoto, uhambo okanye imidlalo yakudala yomntu. Mvumele akhethe kwaye anamathelise imifanekiso kwikhadibhodi. *Kulula:* nika imifanekiso emine esikiweyo nentonga yegulu, kwaye ninamathelise kunye.
-3. **Ukucwangcisa iintyatyambo.** I-Alzheimer's Foundation of America icebisa [ukucwangcisa iintyatyambo ezisikiweyo nemifuno emiselweyo](https://alzfdn.org/dementia-activity-gardening/) kwimiboniso elula yexesha lonyaka. Sebenzisa ivasi enzima, ezinzileyo kunye neziqu esele zinqunyiwe. *Kulula:* beka iziqu ezimbalwa kwindebe encinane, enye ngexesha.
-4. **Amakhadi eentyatyambo ezicudisiweyo.** Cudisa iintyatyambo ezivela kwibhokisi kwiimbumba zencwadi iveki, uze uzinamathelise kwikhadibhodi etyonkiweyo. *Kulula:* ubeka igulu wena, yena acudisa intyatyambo ezantsi.
-5. **Amaphepha okukhulisa abantu abadala.** Khetha amaphepha anemiqolo ecacileyo nezihloko zokwenyani. [Amaphepha ethu okukhulisa](/games/coloring/) angaprintwa nawo angakhuliswa kwiskrini ngokuchukumisa umbala, uze uchukumise inxalenye yomfanekiso. *Kulula:* iindawo ezinkulu, imibala embalwa, iipeni ezinkulu.
-6. **Ubumba okanye intlama ethambileyo.** Qengqeleka, cinezela kwaye wenze ubume ngobumba bokuomisa emoyeni okanye intlama yokwenza iimodeli ethambileyo. Ukucinezela igqabi ebumbeni kwenza ithayile elula yomfanekiso. *Kulula:* ukuxovula nokuqengqeleka nje ngumsebenzi opheleleyo. Qaphela ukuba umntu akabeki bumba emlonyeni.
-7. **Ukwenza amakhadi.** I-Alzheimer's Association icebisa ukulibonisa njengomsebenzi wokwenyani: “Siyathumela ikhadi lokuphila kwindwendwe ethile. Ungandinceda?” Ikhadibhodi esikiweyo kwangaphambili nezitikha ezimbalwa zeentyatyambo okanye izitampu zisebenza kakuhle.
-8. **Ukwenza incwadi yokugcina.** Nibeke iikopi zeefoto zakudala, iipostkhadi okanye iindawo zamathikithi kumaphepha e-albhamu kunye. Thethani ngalinye ngokuhamba. Jonga i-[reminiscence guide](/activities/reminiscence/) yethu ukufumana iindlela ezithambileyo zokuthetha ngexesha elidlulileyo.
-9. **Iibhodi zentsimbi nokuchukumisa.** Namathelisa iziqwenga zekhodurhoyi, ivelvethi, ibhegi yejute nesilika kwikhadibhodi eqinileyo. Ukuyenza ngumsebenzi; ukuyichukumisa kamva ngomnye. Izimvo ezingakumbi zikwi-[sensory activities guide](/activities/sensory/) yethu.
-10. **Ukugqiba umthi ngobulula.** Kumntu owayethanda ukusebenza ngomthi, ukucola ibloko yomthi egudileyo okanye ukupeyinta iseti yendlu yeentaka kunokuvakala kuqhelekile. Susa izixhobo ezibukhali kwaye ujonge.
-11. **Ukupeyinta kunye nomculo.** Beka irekhodi eyintandokazi uze upeyinte imilo okanye imibala ehambelana nemo. Oku kudibanisa imisebenzi emibini abantu abaninzi abayonwabelayo. Jonga i-[music activities](/activities/music/).
+1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
+2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
+3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
+4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
+5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
+6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
+7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
+8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
+9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
+10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
+11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
 
-## Ndilungiselela njani iseshoni yobugcisa?
+## How do I set up an art session?
 
-1. **Lungiselela kuqala.** Sika, nqumla kwaye uhlele yonke into phambi kokumema umntu. Ukulinda ngelixa ukhangela izikere kunokwenza ulahlekelwe lixesha elifanelekileyo.
-2. **Yigcine incinane.** Imibala emibini okanye emithathu, ibrashi enye, iphepha elinye. Ukhetho olunyuluke kakhulu lunokuxinzelela.
-3. **Khusela itafile.** Ilaphu lepulasitiki okanye ishiti endala kuthetha ukuba ukungcola akuyiyo inkxalabo.
-4. **Hlalani icala ngecala.** Sebenza umsebenzi wakho kufutshane nowakhe. Kuvakala kwabelwana, hayi kukhokelwa.
-5. **Mncede aqale.** I-Alzheimer's Association iyaqaphela ukuba usenokufuna ukuqala intshukumo yebrashi kunye nomntu. Xa kuqalile, abantu abaninzi baqhubeka.
-6. **Thetha ngelixa usebenza.** Gxeka imibala neentsimbi, okanye uvumele ubugcisa bukhokelele kwibali. Phepha imibuzo yohlobo lovavanyo enjengethi “Yintoni le?”
-7. **Vumela ixesha elininzi.** Iprojekthi ayifuni ukugqitywa ngokuhlala kanye.
+1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
+2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
+3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
+4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
+5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
+6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
+7. **Allow plenty of time.** A project does not need to be finished in one sitting.
 
-## Ndiyilungelelanisa njani imisebenzi yobugcisa xa i-dementia itshintsha?
+## How do I adapt art as dementia changes?
 
-| Inqanaba | Oko kudla ngokusebenza | Oko kufuneka kulungiswe |
+| Stage | What tends to work | What to adjust |
 | --- | --- | --- |
-| Lokuqala | Iiklasi, ukukhulisa ngeenkcukacha, iincwadi zokugcina, ukwenza amakhadi, ukupeyinta kwifoto | Nika ukhetho lweeprojekthi; yigcine ineentlalo |
-| Eliphakathi | Ikholaji esikiweyo kwangaphambili, ukuhlamba ngepeyinti yamanzi, ukucwangcisa iintyatyambo, ukukhulisa iindawo ezinkulu | Inyathelo linye ngexesha; wena wenza ukusika nokunamathelisa |
-| Lokugqibela | Imigca emikhulu yebrashi, ukuxovula ubumba, ukuchukumisa indwangu, ukukubukela upeyinta | Gxila kwizivamvo; hola isandla ngobunono ukuba kuyamkelekile |
+| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
+| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
+| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
 
-I-NHS icebisa ukuba kumanqanaba amva, imisebenzi idla ngokwenziwa lula kwaye igxile kwizivamvo. Ukubukela omnye upeyinta, nokuthetha ngemibala, yindlela yokwenyani yokuthatha inxaxheba. Ukufumana izimvo ezingakumbi ngenqanaba ngalinye, jonga i-[activities for every stage](/activities/ideas/).
+The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
 
-## Ukhuseleko ngezixhobo zobugcisa
+## Safety with art supplies
 
-- Khetha iipeyinti, iipeni namagulu angenabungozi.
-- Gcina izikere, imela zobugcisa neegulu ezishushu kude nesandla. Yenza nokusika wena, kwangaphambili.
-- Qaphela nabani na obeka ubumba, ipeyinti okanye izinto ezincinane emlonyeni.
-- Sebenzisa iziqulatho ezizinzileyo, ezinzima zamanzi neevasi.
+- Choose non-toxic paints, markers and glue sticks.
+- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
+- Watch for anyone putting clay, paint or small items in their mouth.
+- Use stable, heavy containers for water and vases.
 
-## Siyeka nini?
+## When should we stop?
 
-Yeka xa ingqalelo isuka okanye ukuphelelwa ngumonde kubonakala. I-Alzheimer's Association icebisa ukuphelisa okanye ukutshintsha umsebenzi xa ixesha lengqalelo licutha okanye ukuphelelwa ngumonde kukhula. Beka iprojekthi kwindawo ekhuselekileyo kwaye unike into ephumlisayo. Unokubuyela kuyo ngomso, okanye ungabuyeli. Omabini kulungile.
+Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
 
-## Bonisa umsebenzi, ukuba umntu uyafuna
+## Display the work, if the person wants
 
-Ukubethelela upeyinti kwifriji okanye ukubeka ikholaji kwisakhelo kunokuba yindlela ethe cwaka yokubonisa intlonipho. Buza kuqala. Abanye abantu bayakuthanda ukubona umsebenzi wabo eludongeni; abanye bangakhetha ukungawubonisi.
+Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
 
-## Dibanisa ubugcisa nemidlalo yethu
+## Pair art with our games
 
-Ngeentsuku apho ukulungisa iipeyinti kunzima kakhulu, i-[Coloring](/games/coloring/) isebenza kwitablet ngaphandle kokungcola. I-[Picture Puzzle](/games/picture-puzzle/) igcina yonke imifanekiso ibonakala njengesikhokelo ngelixa utshintshanisa iziqwenga. I-[Conversation Cards](/games/conversation-cards/) inika izacelo ezivulekileyo ezinokukhokelela ukusuka kumfanekiso ukuya kwibali. Yonke ayinaxesha okanye manqaku. Unokuprinta namaphepha kwingqokelela yethu ye-[printable activities](/activities/printable/).
+On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.

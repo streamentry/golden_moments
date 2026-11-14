@@ -1,33 +1,33 @@
 ---
-title: "Demensiýa üçin toparlaýyn işjeňlikler: ideg öýleri we gündizki programmalar üçin gollanma"
-seoTitle: "Demensiýa üçin topar işjeňlikleri: bingo, aýdym, hekaýa"
-description: "Ýatlama öýleri we gündizki merkezler üçin toparlaýyn işjeňlikler: surat bingosy, bilelikde aýdym, ýatlama toparlary, oturgyç we topar ölçegi."
+title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
+seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
+description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ýatlama idegindäki we gündizki programmalardaky gowy topar işjeňlikleri
-  gysga, tanyş we islendik derejede goşulmaga ýeňil bolýar: surat bingosy,
-  bilelikde aýdym aýtmak, ýatlama tegelekleri, ýönekeý hereketler we paýlaşylýan
-  söz oýunlary. Mümkin bolsa toparlary kiçi saklaň, adamlary hemmeler görer we
-  eşider ýaly oturdyň, bir wagtyň özünde bir aç-açan ädim beriň we kömege mätäç
-  adam üçin has ýeňil rol hem-de ümsüm çykalga meýilleşdiriň.
+  Good group activities in memory care and adult day programs are short,
+  familiar and easy to join at any level: picture bingo, sing-alongs,
+  reminiscence circles, simple movement and shared word games. Keep groups
+  small where you can, seat people so everyone can see and hear, give one clear
+  step at a time, and plan an easier role and a quiet exit for anyone who needs
+  one.
 keyPoints:
-  - "Kiçi toparlar köplenç bir uly çäreden gowy işleýär we has köp adama diňe synamak däl-de, işjeň gatnaşmaga mümkinçilik berýär."
-  - "Adamlary aýlawda ýa-da at nal şekilinde, ýolbaşçynyň ýanynda, eşitmek we görmek zerurlyklaryny göz öňünde tutup oturdyň we fon sesini öçüriň."
-  - "Her işjeňligi iki ýa-da üç derejede meýilleşdiriň, şonda dürli ukyply adamlar goşulyp biler."
-  - "Soragdan, hasapdan we ýeňijilerden gaça duruň. Surat bingosyny hemmeleriň kartasy dolýar ýaly oýnap bolýar."
-  - "Ir gitmek, synamak ýa-da ukuka gitmek dogry. Has sakyn ýer isleýän adama goldaw bermäge taýýar işgär boluň."
+  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
+  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
+  - "Plan each activity at two or three levels so people with different abilities can all join in."
+  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
+  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
 faq:
-  - q: "Demensiýa işjeňlikleri üçin gowy topar ölçegi nähili?"
-    a: "Ýeke-täk dogry san ýok, ol ýaşaýjylara, otaga we näçe işgäriňiziň bardygyna bagly. Köp topar kiçi toparlaryň hemmelere görmäge, eşitmäge we gatnaşmaga mümkinçilik berýändigini, uly otagdaky çäreleriň bolsa has köp adamy synaýjy edip goýýandygyny görýär. Uly çäre geçirýän bolsaňyz, ýaşaýjylaryň arasynda oturyp, bir-iki adama kömek edip biljek işgärleri ýa-da meýletinleri goşuň."
-  - q: "Garyşyk ukyply topary nädip alyp barmaly?"
-    a: "Her işjeňlige goşulmagyň birnäçe usulyny meýilleşdiriň. Bilelikde aýdym aýtmakda käbir adamlar her sözi aýdýar, käbirleri el çarpýar ýa-da dilinde mukamlaýar, käbirleri bolsa şaker saklaýar. Surat bingosynda käbir adamlar öz suratlaryny tapýar, kömekçi bolsa beýlekiler üçin görkezýär. Has köp kömege mätäç adamlary işgäriň ýa-da meýletiniň ýanynda oturdyň."
-  - q: "Surat bingosyny bäsdeşlik etmezden nädip oýnamaly?"
-    a: "Her kimiň kartasy dolýança her suraty yglan ediň, şonda hiç kim galmaz. Her surat çykanda ol hakda gürleşiň we ýeňijiler üçin baýraklary taşlaň ýa-da hemmelere şol bir kiçi tagam beriň. Maksat bölüşilýän üns we söhbetdeşlikdir, kimiň ilki gutarmagy däl."
-  - q: "Oýunlaryňyzy toparda uly ekranda ulanyp bolarmy?"
-    a: "Hawa. Biziň oýunlarymyz web brauzerde işleýär, şonuň üçin olary TV ýa-da proýektora birikdirilen noutbukda ýa-da planşetde açyp bilersiňiz. Surat bingosy çap edilýän kartalary we ekrandaky yglan edijini öz içine alýar. Nakyly tamamla we Surat jübütleri hem topar üçin bir adam dokunýan uly ekranda gowy işleýär."
+  - q: "What is a good group size for dementia activities?"
+    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
+  - q: "How do I run a group with mixed abilities?"
+    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
+  - q: "How do I play picture bingo without making it competitive?"
+    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
+  - q: "Can I use your games on a big screen in a group?"
+    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-Bu gollanma işjeňlik ýolbaşçylary, ýatlama idegi toparlary we gündizki programma ýolbaşçylary üçin. Ol işleýän topar görnüşlerini, otagyň taýýarlygyny, garyşyk ukyply adamlar üçin bir işjeňligi uýgunlaşdyrmagy we çap edilýän bingo kartalarymyzy hem-de uly ekran oýunlarymyzy ulanmagy öz içine alýar. Bu ýerdäki hemme zat rahatlyga, aragatnaşyga we saýlawa gönükdirilen. Bu ýerde hiç zat synag däl.
+This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
 
-## Ýatlama idegindäki topar işjeňligi näme üçin işleýär?
+## What makes a group activity work in memory care?
 
-Gowy topar işjeňligi tanyş, gysga, islendik derejede goşulmaga ýeňil we basyşsyz bolýar. Alzheimer's Association-yň [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) manyly gatnaşmagy, demensiýa iň agyr bolanda-da, adamyň gyzyklanmalaryny we islegini goldaýan, saýlawa we üstünlige ýol berýän zat hökmünde suratlandyrýar. Şol resminama adaty programmalaryň köplenç günde bir-iki uly topar çärä daýanýandygyny, olarda ýaşaýjylaryň köplenç diňe passiw gatnaşýandygyny belleýär.
+A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
 
-Bu birnäçe amaly düzgüne ugrukdyrýar:
+That points to a few practical rules:
 
-- **Tanyş täzeden ýeňil.** Ýaşaýjylaryň ýaş wagtyndan aýdymlar, nakyllar, suratlar we zatlar goşulmaga has ýeňil.
-- **Gysga uzakdan ýeňil.** Toparyňyzyň adatça saklaýan ünsüniň uzynlygyna meýilleşdiriň we ortada tebigy duralga goýuň.
-- **Etmek synamakdan ýeňil.** Her adama elde saklamak, dokunmak, saýlamak ýa-da aýtmak üçin bir zat beriň.
-- **Köp derejeli, bir işjeňlik.** Gatnaşmagyň has aňsat we has kyn usullaryny goşuň.
-- **Ýeňijiler ýok, hasap ýok.** Bäsdeşlik görnüşleri käbir adamy şowsuz duýdurýar.
+- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
+- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
+- **Doing beats watching.** Give each person something to hold, tap, choose or say.
+- **Many levels, one activity.** Build in easier and harder ways to take part.
+- **No winners, no scores.** Competitive formats leave some people feeling they failed.
 
-## Topar näçe uly bolmaly?
+## How big should the group be?
 
-Kiçisi adatça ýeňil. Alzheimer's Association uly ýygnagy basyjy hasaplaýan adamyň kiçi toparda has üstünlikli gatnaşyp biljekdigini belleýär. Ýeke-täk dogry san ýok. Ol ýaşaýjylara, otaga we bar bolan işgärleriň hem-de meýletinleriň sanyna bagly.
+Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
 
-Peýdaly synag: her adam ýolbaşçynyň ýüzüni görüp, aç-açan eşidip we birnäçe sekundyň içinde kömekçä ýetip bilýärmi? Ýok bolsa, topary böleň, kömekçi goşuň ýa-da has kiçi otaga geçiň.
+A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
 
-Uly çäre, meselem baýram konserti üçin işgärleri we meýletinleri diwarlaryň ýanynda däl-de, ýaşaýjylaryň arasynda oturdyň.
+For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
 
-## Otagy we oturgyçlary nädip taýýarlamaly?
+## How should I set up the room and seating?
 
-- **Aýlaw ýa-da at nal.** Amaly maslahatlar paýlaşmak aýlawyny, hemmeleriň aýlawda oturyp biljek ýeterlik uly meýdanda, fon sesi bolmazdan iň gowy hasaplaýar.
-- **Ýolbaşçy ýakyn we göz derejesinde.** Mümkin bolsa dik durman oturyň.
-- **Ilki eşitmek we görmek.** Eşitme ýitgisi bolan adamlary ýolbaşçynyň iň ýakynynda, has gowy tarapynda oturdyň. Äýnegiň we eşidiş enjamlarynyň dakylandygyna göz ýetiriň. Alzheimer's Association görmek we eşitmek meselelerinin aragatnaşygy kynlaşdyryp biljekdigini belleýär.
-- **Ýagtylyk ýaşaýjylaryň arkasynda, siziň arkaňyzda däl.** Hiç kimi ýagty penjire garşy oturtmaň.
-- **TV we radiony öçüriň.** Alzheimer's Association aýdym-saz işjeňlikleri wagtynda päsgel berýän sesi aýyrmagy maslahat berýär.
-- **Bir wagtyň özünde bir söhbetdeşlik.** Alzheimer's Association-yň [baýram maslahatynda](https://www.alz.org/help-support/caregiving/holidays) görkezişi ýaly, bir-biriniň sözüne goşulmak demensiýa bilen ýaşaýan adamlar we eşidiş kynçylygy bolan adamlar üçin kyn.
-- **Aç-açan çykalgalar we ümsüm burç.** Gitmek isleýän adam ony aňsat edip bilmeli, onuň bilen ýöräp barjak işgär bilen.
+- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
+- **Leader close and at eye level.** Sit rather than stand when you can.
+- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
+- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
+- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
+- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
+- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
 
-## Topar işjeňlik ideýalary
+## Group activity ideas
 
-### Surat bingosy
+### Picture bingo
 
-Surat bingosy sanlary çaýnek, it ýa-da gül ýaly aç-açan suratlar bilen çalşýar, şonuň üçin hiç kimiň uzyn sany yzarlamagy ýa-da kiçi çap okamagy gerek däl.
+Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
 
-**Nädip alyp barmaly:**
+**How to run it:**
 
-1. Çap etmek düwmesini ulanyp, biziň [Surat bingosy](/games/picture-bingo/) sahypamyzdan her adam üçin bir karta çap ediň. Galyň kagyz ele almaga ýeňil. Gaýtadan ulanmak üçin laminirläň.
-2. Uly, almaga aňsat belgiler, meselem poker çipleri, çüýşe gapaklary ýa-da kesilen karton kwadratlary beriň.
-3. Suratyň adyny aýdanyňyzda hemmeler görer ýaly TV-de ýa-da proýektorda ekrandaky yglan edijini ulanyň.
-4. Her suratdan soň duruň we gysga bellik etmäge çagyryň: “Kimdir biri tanan bir it barada aýtmak isleýärmi?” ýa-da “Bu suratda näme üns berdiňiz?”
-5. Her karta dolýança yglan etmegi dowam etdiriň. Hemmeler gutarýar.
+1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
+2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
+3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
+4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
+5. Keep calling until every card is full. Everyone finishes.
 
-**Uýgunlaşdyrmak:** Doly karta aşa dykyz bolup duýýan adamlar üçin has az kwadrat ulanyň. Kömekçi kömege mätäç adam üçin gabat gelýän suratyň üstüni görkezip biler. Käbir adamlar yglan edijiniň surat kartasyny elinde saklap, topara görkezmegi has ýaratmagy mümkin.
+**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
 
-### Bilelikde aýdym aýtmak
+### Sing-alongs
 
-Aýdym-saz iň giňden hezil edilýän topar işjeňliklerinden biridir. Alzheimer's Association giçki tapgyrlarda-da adamyň [urgyny kakyp ýa-da çagalyk aýdymyny aýdyp](https://www.alz.org/help-support/caregiving/daily-care/art-music) biljekdigini belleýär.
+Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**Nädip alyp barmaly:**
+**How to run it:**
 
-- Ýaşaýjylaryň ulalan aýdymlaryny saýlaň, ýolbaşçynyň halaýanlaryny däl. Maşgalalardan her adamyň nämäni söýendigini soraň.
-- Reklamasyz aýdym-sazy ulanyň; assosiasiýa reklamalaryň bulaşyklyk döredip biljekdigini belleýär.
-- Okaýanlar üçin sözleri uly harplar bilen çap ediň, ýöne muny talap etmäň.
-- Şakerler, el deprekler ýa-da ýelpeýän şarflar hödürläň.
-- El çarpmagy we hereketi höweslendiriň we sesi rahat saklaň.
+- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
+- Use music without commercials, which the Association notes can be confusing.
+- Print lyrics in large type for those who read, but do not require it.
+- Offer shakers, hand drums or scarves to wave.
+- Encourage clapping and movement, and keep the volume comfortable.
 
-**Uýgunlaşdyrmak:** Käbir adamlar her sözi aýdar, käbirleri dilinde mukamlar, käbirleri aýagy bilen urgy kagar, käbirleri bolsa diňe diňler. Bularyň hemmesi sanalýar. Has köp maglumat üçin [aýdym-saz işjeňlikleri gollanmamyza](/activities/music/) serediň.
+**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
 
-### Ýatlama toparlary
+### Reminiscence groups
 
-Ýatlama topary mekdep günleri, ilkinji maşynlar, aşhanalar ýa-da tomus ýaly mowzuk daşynda, suratlar, zatlar we aýdym-saz ulanyp ýygnanýar. Maksat dogry ýada salmak däl-de, ýakymly söhbetdeşlikdir.
+A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
 
-**Nädip alyp barmaly:**
+**How to run it:**
 
-1. Bir mowzuk saýlaň we adamlaryň elinde saklap biljek birnäçe zadyny getiriň: el garyşdyryjy, beýsbol eldiweni, şapka, tohum katalogy.
-2. Bir wagtyň özünde bir zady geçiriň. Açyk soraglary beriň: “Şu barada aýdyp beriň”, “Näme üns berýärsiňiz?”, “Muňa meňzeş zady kim ulanýardy?”
-3. Her jogaby garşylaň. Hiç wagt senäni ýa-da faktyny düzetmäň.
-4. Gürrüňi mähirli ýatlamalara ugrukdyryň. Amaly maslahatlar ideg edijileriň ýatlamany ýaramaz ýagdaýa sebäp bolup biljek ýatlamalara däl-de, ýagşy ýatlamalara ugrukdyrmalydygyny belleýär.
+1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
+2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
+3. Welcome every answer. Never correct a date or fact.
+4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
 
-[Söhbetdeşlik kartoçkalary](/games/conversation-cards/) mowzuga görä açyk çakylyklary bolan çap edilýän surat kartoçkalaryny hödürleýär, olar söhbet başlamak üçin gowy işleýär. Has köp ideýa [ýatlama gollanmamyzda](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
 
-### Nakyly tamamla
+### Finish the saying
 
-Tanyş nakyllar (“Bir teňňe tygşytlanan bir teňňe ...”) hemmeleri soňuny bilelikde aýtmaga çagyrýar. Uly ekranda [Nakyly tamamla](/games/finish-the-saying/) oýnuny görkeziň we topar bir ses bilen jogap bersin. Her nakyldan soň gürleşmek üçin çakylyk bar. Hiç kim soňuny aýtmasa, ony görkeziň we dowam ediň. Dogry ýa-da ýalňyş ýok.
+Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
 
-### Bilelikde uly harply söz gözlegi
+### Large-print word search, together
 
-Uly harply [Söz gözlegini](/games/word-search/) ekranda proýekt ediň we sözleri topar bolup gözläň ýa-da stolda özbaşdak işlemegi halaýanlar üçin nusgalary çap ediň. Sözler diňe ýanyna we aşak gidýär.
+Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
 
-### Ýuwaş hereket
+### Gentle movement
 
-Oturyp çeýelik hereketleri, ýumşak topy ýa-da şary geçirmek ýa-da tanyş aýdym-sazda oturgyçda tans etmek. Her hereketi suratlandyrmak derek görkeziň.
+Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
 
-### Stolda saýlamak we gabat getirmek
+### Sorting and matching at the table
 
-Üç-dört adamlyk kiçi stollarda adamlar suratlary, mata böleklerini ýa-da çäýnek-çemçeleri bilelikde saýlap bilerler. Ekranda stol her suraty gürleşýärkä bir adam dokunýarka [Surat jübütleri](/games/picture-pairs/) suratlar görünip durka oýnalyp bilner.
+Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
 
-## Oýunlaryňyzy uly ekranda nädip ulanmaly?
+## How do I use your games on a big screen?
 
-Biziň oýunlarymyz web brauzerde işleýär, şonuň üçin olary hiç zat gurnamazdan TV-de ýa-da proýektorda ulanyp bilersiňiz.
+Our games run in a web browser, so you can use them on a TV or projector without installing anything.
 
-1. Oýny kabel ýa-da ekrana ýaýlym arkaly birikdirilen noutbukda ýa-da planşetde açyň.
-2. Brauzeri doly ekran ediň we sesi rahat derejä goýuň.
-3. Bir ýolbaşçy dokunsyn, topar saýlawlary aýdyp dursun. Ýa-da gezek isleýän ýaşaýja planşeti geçiriň.
-4. Topar taýýar bolanda duruň. Oýunlarda sagat, hasap ýa-da mejbury gutaryş ýok.
+1. Open the game on a laptop or tablet connected to the screen by cable or casting.
+2. Make the browser full screen and set the sound to a comfortable level.
+3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
+4. Stop whenever the group is ready. The games have no timer, score or forced finish.
 
-[Surat bingosy](/games/picture-bingo/), [Nakyly tamamla](/games/finish-the-saying/), [Surat jübütleri](/games/picture-pairs/) we [Söhbetdeşlik kartoçkalary](/games/conversation-cards/) köplenç toparlara iň gowy laýyk gelýär. Ähli mümkinçilikleri [oýunlar sahypamyzda](/games/) görüň.
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
 
-## Bir işjeňligi garyşyk ukyplar üçin nädip uýgunlaşdyrmaly?
+## How do I adapt one activity for mixed abilities?
 
-Her işjeňlige goşulmagyň azyndan üç usulyny meýilleşdiriň.
+Plan at least three ways to join every activity.
 
-| Işjeňlik | Has özbaşdak | Käbir goldaw | Iň köp goldaw |
+| Activity | More independent | Some support | Most support |
 | --- | --- | --- | --- |
-| Surat bingosy | Öz suratlaryny tapýar we ýapýar | Kömekçi görkezýär; adam ýapýar | Surat kartasyny saklaýar; diňleýär we synaýar |
-| Bilelikde aýdym | Aýdym aýdýar, indiki aýdymy saýlaýar | Mukamlaýar, el çarpýar, şaker ulanýar | Diňleýär, şarf saklaýar, eline kakýar |
-| Ýatlama | Hekaýa aýdýar | Hawa-ýok jogap berýär ýa-da görkezýär | Zady elde saklaýar we duýýar |
-| Söz gözlegi | Öz çap edilen nusgasy bilen işleýär | Kömekçi bilen uly ekranda söz tapýar | Sözler okalanda diňleýär |
+| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
+| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
+| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
+| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
 
-Giçki tapgyrdaky ýaşaýjylar üçin NHS işjeňlikleriň adatça has ýönekeý bolmalydygyny we aýdym-saz, degilýän zatlar we el massažy ýaly duýgulara has köp üns bermelidigini belleýär. Topar wagtynda ýa-da soňundan ýeke-ýekeden pursat topardan has laýyk gelip biler. [Giçki tapgyr işjeňliklerine](/activities/late-stage/) serediň.
+For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
 
-## Topar wagtynda ýolbaşçylar nähili gürlemeli?
+## How should leaders talk during a group?
 
-- Her gezek özüňizi tanyşdyryň we her adamyň halaýan adyny ulanyň.
-- Ýuwaş gürläň, bir wagtyň özünde bir ädim beriň we aýtmazdan öň görkeziň.
-- Açyk çakylyklary (“Maňa ... barada aýdyp beriň”) ýa-da ýönekeý saýlawlary soraň, hiç wagt wiktorina soraglaryny (“... ýadyňyzdamy?”) bermäň.
-- Düzetmäň. Her goşandy üçin adamlara sagbolluk aýdyň.
+- Introduce yourself each time, and use each person's preferred name.
+- Speak slowly, give one step at a time, and show before you tell.
+- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
+- Do not correct. Thank people for every contribution.
 
-Bu barada has köp maglumat [aragatnaşyk maslahatlarymyzda](/caregiving/communication-tips/).
+More on this is in our [communication tips](/caregiving/communication-tips/).
 
-## Gowy gutarmak we adamlara gitmäge ýol bermek
+## Ending well, and letting people leave
 
-Durmak gowy netijedir. Kimdir biriniň ýadandygyna, biynjalykdygyna ýa-da gynandygyna syn ediň we kömekçä gezelenji ýa-da başga ýerde ümsüm oturgyjy hödürletdiriň. Bilelikde aýdym wagtynda ukuka giden adam diňe rahat bolup biler.
+Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
 
-Her topary şol bir görnüşde, tanyş aýdym ýa-da ýönekeý sagbolluk bilen ýapyň, şonda gutaryş sakyn we garaşylýan ýaly duýular. Soň nämäniň işländigini we kimiň näme ýaradandygyny belläp goýuň. Şol bellikler indiki sessiýany gowulandyrýar.
+Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.

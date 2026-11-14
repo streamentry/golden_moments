@@ -1,28 +1,33 @@
 ---
-title: "E Taofia ea e Taaloga o le Mafaufau le Dementia? O le Mea e Faaali e Suʻesuʻega"
-seoTitle: "E Taofia ea e Taaloga o le Mafaufau le Dementia?"
-description: "O le mea e fai mai ai suʻesuʻega i taaloga o le mafaufau ma le dementia: faaosofiaga o le mafaufau, aʻoaʻoga i komepiuta, le ACTIVE trial ma le FTC Lumosity, faamatala faigofie."
+title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
+seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
+description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  E leai se taaloga o le mafaufau ua faaalia e taofia ai le dementia. O aʻoaʻoga o le mafaufau i komepiuta e masani ona fesoasoani na o galuega e faataitaia e tagata. O se suʻesuʻega mai le ACTIVE trial na fesootai ai se aʻoaʻoga faapitoa o le saoasaoa faatasi ai ma ni fonotaga faaopoopo ma le faaitiitia o suʻesuʻega o le dementia i le 20 tausaga, o se maua e matua tapulaʻa. Mo tagata ua ola ma le dementia, o le faaosofiaga o le mafaufau i se vaega e faaali ai ni aoga laiti, puupuu. E sili ona fiafia i taaloga mo le malie ma le faatasi.
+  No brain game has been shown to prevent dementia. Computer brain training
+  mostly improves the tasks people practice. One study from the ACTIVE trial
+  linked a specific speed training plus booster sessions with fewer dementia
+  diagnoses over 20 years, a narrow finding. For people already living with
+  dementia, group cognitive stimulation shows small, short-term benefits.
+  Games are best enjoyed for fun and company.
 keyPoints:
-  - "O suʻesuʻega o aʻoaʻoga o le mafaufau e faaali ai e sili atu le lelei o tagata i galuega latou te faataitaia, ae e itiiti le faamaoniga e oo atu lea i le olaga i aso taʻitasi."
-  - "I le ACTIVE trial, na o tagata na faia se aʻoaʻoga faapitoa o le saoasaoa faatasi ai ma fonotaga faaopoopo na itiiti ai suʻesuʻega o le dementia i le 20 tausaga. O le aʻoaʻoga o le saoasaoa e aunoa ma fonotaga faaopoopo, ma aʻoaʻoga o le manatua ma le mafaufau, e leʻi faaali ai lenei mea."
-  - "I le 2016, na totogi ai e le kamupani na faia le Lumosity le $2 million e faamalieina ai moliaga a le FTC e leai ni saienisi mo tala e uiga i le tuai o le dementia."
-  - "Mo tagata e iai le dementia e malie i le tulaga ogatotonu, o vaega o faaosofiaga o le mafaufau e faaali ai ni aoga laiti, puupuu mo le mafaufau ma ni aoga e sili atu le manino i feutagaiga ma fegalegaleaiga faaagafesootai."
-  - "O taaloga a le Golden Moments e mo le fiafia ma le taimi faatasi. E le o se togafitiga ma e le taofia pe faatuai le dementia."
+  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
+  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
+  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
+  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
+  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
 faq:
-  - q: "E taofia ea e taaloga o le mafaufau le Alzheimer's?"
-    a: "E leai se taaloga o le mafaufau ua faamaonia e taofia le Alzheimer's po o isi dementia. Ua fai mai le National Institute on Aging e le lava le faamaoniga e iai i polokalame o aʻoaʻoga o le mafaufau o loo faatauina aʻafiaga e pei ona vaaia i suʻesuʻega. E mafai lava ona avea taaloga ma auala lelei e faaaogā ai se taimi."
-  - q: "O le a le mea na maua e le ACTIVE trial e uiga i aʻoaʻoga o le saoasaoa ma le dementia?"
-    a: "O se iloiloga i le 2026 na fesootai ai tagata na auai i le ACTIVE ma faamaumauga a le Medicare i le 20 tausaga. O tagata na faia le aʻoaʻoga o le saoasaoa o le faagasologa ma le itiiti ifo i le tasi fonotaga faaopoopo sa i ai se fua maualalo o le dementia ua iloa nai lo le vaega e leai se aʻoaʻoga. O le aʻoaʻoga o le saoasaoa e aunoa ma fonotaga faaopoopo, ma aʻoaʻoga o le manatua po o le mafaufau, e leʻi faaali ai se aafiaga taua."
-  - q: "E lelei ea tusi fesili ma taaloga mo se tasi ua iai le dementia?"
-    a: "E mafai, pe afai e fiafia le tagata. O le faaosofiaga o le mafaufau i se vaega, e aofia ai taaloga o upu, tusi fesili, musika ma talanoaga, e faaali ai ni aoga laiti puupuu mo le mafaufau ma ni aoga e sili atu le manino mo feutagaiga ma fegalegaleaiga faaagafesootai. O le fiafia, e le o se iuga o se suega, o le sini saʻo."
-  - q: "Aiseā na faasalaina ai le Lumosity e le FTC?"
-    a: "I le 2016 na moliaina ai e le Federal Trade Commission le Lumos Labs i le faia o tala e uiga i ana taaloga, e aofia ai le faatuai o le faaitiitia e fesootai ma le matua ma le dementia, e aunoa ma saienisi e lagolagoina ai. Na malilie le kamupani e totogi le $2 million ma ia maua se faamaoniga saienisi e mafai ona faatuatuaina a o lei faia ni tala faapena i le lumanaʻi."
+  - q: "Do brain games prevent Alzheimer's?"
+    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
+  - q: "What did the ACTIVE trial find about speed training and dementia?"
+    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
+  - q: "Are puzzles and games good for someone who already has dementia?"
+    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
+  - q: "Why was Lumosity fined by the FTC?"
+    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -53,159 +58,166 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-E tele taaloga o le mafaufau i nofoaga uma, ma e toatele e folafola mai e tausia le mafaufau e talavou pea. Afai e te tausia se tasi e iai le dementia, po o e popole i lou lava manatua, e masani ona e mafaufau pe e mafai ona fesoasoani le taalo i ai. O le mea lenei e faaali moni e suʻesuʻega, e aofia ai vaega e faatuatuaina ma vaega e leai.
+Brain games are everywhere, and many promise to keep your mind young. If you
+care for someone with dementia, or worry about your own memory, it is natural to
+wonder whether playing them could help. Here is what the research actually
+shows, including the parts that are encouraging and the parts that are not.
 
-O le faamatalaga lautele lenei, e le o se fautuaga faafomaʻi. Tagaʻi i la matou
-[faamatalaga faafomaʻi](/medical-disclaimer/).
+This is general information, not medical advice. See our
+[medical disclaimer](/medical-disclaimer/).
 
-## E taofia ea e taaloga o le mafaufau le dementia?
+## Do brain games prevent dementia?
 
-E leai se taaloga o le mafaufau ua faamaonia e taofia le dementia. Ua fautuaina e le National Institute on
-Aging (NIA) tagata ia faaeteete i tala e fai mai e mafai e taaloga o komepiuta ma luga o le lau ona faaleleia le manatua, ma fai mai e le lava le faamaoniga e iai i se polokalame o aʻoaʻoga o le mafaufau o loo faatauina le aafiaga lava e tasi ma le aʻoaʻoga na faataitaia i suʻesuʻega faafomaʻi
-([NIA i le taofia o le Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+No brain game has been proven to prevent dementia. The National Institute on
+Aging (NIA) advises people to be wary of claims that computer and online games
+can improve memory, and says there is not enough evidence that any commercial
+brain-training app has the same effect as the training tested in clinical
+trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-E le tau lea i le le aoga o taaloga. O lona uiga o le aoga o taaloga o loo i le fiafia,
-le faatasi ma le faiga masani, e le o le puipuia o se tasi mai le dementia.
+That does not make games useless. It means their value is in enjoyment,
+company and routine, not in protecting anyone from dementia.
 
-## O le a le “near transfer,” ma aiseā e taua ai?
+## What is "near transfer", and why does it matter?
 
-A e faataitai se galuega, e masani ona sili atu lou lelei i lena galuega. Ua taʻua e tagata suʻesuʻe
-o se aafiaga o le aʻoaʻoga. O le fesili e sili atu le faigata pe o le faaleleia
-**e fesiitaʻi** i isi mea: i galuega tutusa (near transfer) po o le olaga
-i aso taʻitasi, e pei o le manatua o taimi o asiasiga po o le taulimaina o tupe (far transfer).
+When you practice a task, you usually get better at that task. Researchers call
+this a training effect. The harder question is whether the improvement
+**transfers** to other things: to similar tasks (near transfer) or to everyday
+life, like remembering appointments or managing money (far transfer).
 
-O se iloiloga tele i le 2016 na suʻesuʻeina ai suʻesuʻega na taʻua e kamupani o aʻoaʻoga o le mafaufau
-o le faamaoniga sili ona lelei. Na maua ai le tele o faamaoniga e sili atu le lelei o tagata i
-galuega ua faataitaia, e itiiti ifo le faamaoniga e sili atu le lelei i galuega e fesootai vavalalata, ma
-e itiiti le faamaoniga e faaleleia ai e le aʻoaʻoga le mafaufau i aso taʻitasi. E toatele suʻesuʻega
-na iai foi ni faafitauli o le fuafuaga na le mafai ai ona faia ni faaiuga mautinoa
-([Simons ma ana uo, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+A major 2016 review examined the studies that brain-training companies cited
+as their best evidence. It found extensive evidence that people improve on the
+trained tasks, less evidence that they improve on closely related tasks, and
+little evidence that training improves everyday thinking. Many of the studies
+also had design problems that made firm conclusions impossible
+([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## O le a le mea e fai mai ai iloiloga i aʻoaʻoga o le mafaufau i komepiuta?
+## What do reviews say about computer brain training?
 
-O iloiloga a le Cochrane, e tuufaatasia ai suʻesuʻega sili ona lelei o loo maua, ua suʻesuʻeina
-aʻoaʻoga i komepiuta e le itiiti ifo i le 12 vaiaso:
+Cochrane reviews, which pool the best available trials, have looked at
+computerized training lasting at least 12 weeks:
 
-- **Tagata matutua e malosi e 65 ma sili atu:** suʻesuʻega e valu ma tagata e 1,183. O le faamaoniga
-  e maualalo po o le matua maualalo le tulaga. Atonu e iai se aoga laitiiti i se taimi lava
-  pe a uma le aʻoaʻoga, e leai se faamaoniga manino e tumau
-  ([iloiloga a le Cochrane, tagata matutua e malosi](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **Tagata e iai le faaitiitia malie o le mafaufau:** suʻesuʻega e valu ma tagata e 660. E leai se
-  suʻesuʻega na lipotia pe na alu atu tagata e iai le dementia, ma o le faamaoniga
-  sa matua vaivai e faia ai ni faaiuga
-  ([iloiloga a le Cochrane, faaitiitia malie o le mafaufau](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
+  was low or very low quality. There may be a slight benefit right after
+  training, with no clear evidence that it lasts
+  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **People with mild cognitive impairment:** eight trials with 660 people. No
+  trial reported whether people went on to develop dementia, and the evidence
+  was too weak to draw conclusions
+  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## O le a le mea na maua e le ACTIVE trial?
+## What did the ACTIVE trial find?
 
-O le ACTIVE o se suʻesuʻega tele a Amerika na amata i le 1998 ma tagata matutua e 2,802 e 65 ma sili atu o latou tausaga
-na ola tuto atoatasi ma e leai ni faafitauli taua o le manatua po o le mafaufau. Na tofia faavavega tagata i se tasi o
-ituaiga e tolu o aʻoaʻoga i vaega laiti (saoasaoa o le faagasologa, manatua, po o le mafaufau) po o
-se vaega e leai se fesootaiga. O le aʻoaʻoga e oo atu i le sefulu fonotaga i le lima i le ono vaiaso. O nisi
-tagata na faaiuina le tele o fonotaga na ofoina atu foi faavavega **fonotaga faaopoopo**
-pe tusa ma le tasi ma le tolu tausaga mulimuli ane.
+ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
+older who lived independently and did not have significant memory or thinking
+problems. People were randomly assigned to one of three
+types of small-group training (speed of processing, memory, or reasoning) or to
+a no-contact group. Training was up to ten sessions over five to six weeks. Some
+people who finished most sessions were also randomly offered **booster
+sessions** about one and three years later.
 
-O le aʻoaʻoga o le saoasaoa na aofia ai le iloa ma le taulimaina o faamatalaga vaaia i
-ni vaaiga e fufusi ma sili atu ona puupuu, i se tulaga na fetuutuunai a o sili atu le lelei o tagata.
+The speed training involved spotting and processing visual information in
+shorter and shorter glimpses, at a level that adjusted as people improved.
 
-I le 2026, na fesootai ai e tagata suʻesuʻe tagata auai e 2,021 ma a latou faamaumauga a le Medicare mo le 20
-tausaga ([iloiloga e 20 tausaga a le ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-O le mea lea na latou maua:
+In 2026, researchers linked 2,021 participants to their Medicare records for 20
+years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Here is exactly what they found:
 
-- **Aʻoaʻoga o le saoasaoa faatasi ai ma le itiiti ifo i le tasi fonotaga faaopoopo:** o se fua maualalo o
-  le dementia ua iloa nai lo le vaega e leai se fesootaiga (o se hazard ratio o le 0.75, o lona uiga
-  e tusa ma le 25% le maualalo o le fua).
-- **Aʻoaʻoga o le saoasaoa e aunoa ma fonotaga faaopoopo:** e leai se fua maualalo.
-- **Aʻoaʻoga o le manatua po o le mafaufau:** e leai se aafiaga taua i suʻesuʻega
-  o le dementia.
-- **Vaega taʻitasi o aʻoaʻoga atoa pe a faatusatusa i le vaega e leai se fesootaiga:** o se
-  faaiuga i fua maualalo, ae e le taua faasuiga.
+- **Speed training plus at least one booster session:** a lower rate of
+  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
+  roughly means a 25% lower rate).
+- **Speed training without boosters:** no lower rate.
+- **Memory or reasoning training:** no significant effect on dementia
+  diagnoses.
+- **Each training group as a whole compared with the no-contact group:** a
+  tendency toward lower rates, but not statistically significant.
 
-### Tapulaʻa o lenei mea na maua
+### The limits of this finding
 
-- E aoga i **le tasi ituaiga faapitoa o aʻoaʻoga o le saoasaoa ua vaaia ma fonotaga
-  faaopoopo**, e le o taaloga o le mafaufau lautele.
-- O le iuga taua na sau mai se **vaega laiti** (tagata na faaiuina le tele o
-  fonotaga muamua ma ofoina atu i ai fonotaga faaopoopo), e le o le vaega atoa o le saoasaoa.
-- O le dementia na fuaina e faaaogā **ni numera o suʻesuʻega i moliaga a le Medicare**, e le o le
-  suʻesuʻeina o tagata taʻitasi. E tusa ma le tasi vaetolu o tagata auai muamua na
-  tuuina ese aua na lesitala i le Medicare Advantage, e le atoatoa ai faamaumauga o moliaga.
-- O tagata auai e leai ni faafitauli taua o le mafaufau ina ua latou amata. O
-  iuga e leai se mea e fai mai ai e uiga i taaloga mo tagata **ua ola ma le dementia**.
+- It applies to **one specific kind of supervised speed training with booster
+  sessions**, not to brain games in general.
+- The significant result came from a **subgroup** (people who finished most of
+  the first sessions and were offered boosters), not from the whole speed group.
+- Dementia was measured using **diagnosis codes in Medicare claims**, not by
+  examining each person. About a quarter of the original participants were
+  left out because they were enrolled in Medicare Advantage, which lacks full
+  claims records.
+- Participants had no significant thinking problems when they started. The
+  results say nothing about games for people **already living with dementia**.
 
-O se iuga manaia lea e tatau ai se suʻesuʻega e sili atu. E le o se faamaoniga
-e taofia e se polokalame le dementia.
+It is an interesting result that deserves more research. It is not evidence
+that any app prevents dementia.
 
-## O le a le mea na fai mai ai le FTC e uiga i le Lumosity?
+## What did the FTC say about Lumosity?
 
-I Ianuari 2016, na malilie ai le Lumos Labs, le kamupani na faia le Lumosity, e totogi le $2 million e
-faamalieina ai moliaga a le Federal Trade Commission o faasalalauga faaseseina. Na fai mai le FTC
-na fai e le kamupani, e aunoa ma saienisi lelei, e mafai e ana taaloga ona faaleleia
-galuega i le galuega ma le aoga ma e mafai ona faatuai le faaitiitia e fesootai ma le matua, faaitiitia malie o le
-mafaufau, dementia ma le Alzheimer's. O le poloaiga e manaʻomia ai le kamupani
-ia i ai se faamaoniga saienisi lelei ma mafai ona faatuatuaina a o lei faia ni tala faapena
-i le lumanaʻi ([lipoti a le FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
+settle Federal Trade Commission charges of deceptive advertising. The FTC said
+the company claimed, without adequate science, that its games could improve
+performance at work and school and could delay age-related decline, mild
+cognitive impairment, dementia and Alzheimer's. The order requires the company
+to have competent and reliable scientific evidence before making such claims in
+the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-O le aʻoaʻoga mo aiga: ia faatuatuaina ma le faaeteete so o se taaloga, polokalame po o se
-tulaga e folafola mai e puipuia le manatua po o taofia le dementia.
+The lesson for families: be skeptical of any game, app or program that promises
+to protect memory or prevent dementia.
 
-## E mafai ea e taaloga ona fesoasoani i se tasi ua iai le dementia?
+## Can games help someone who already has dementia?
 
-E mafai ona faaopoopo i se aso lelei, ma e matua taua lea. O le auala sili ona suʻesuʻeina o le
-**faaosofiaga o le mafaufau**: o gaoioiga fiafia i se vaega e pei o
-talanoaga, manatuaga, taaloga o upu, tusi fesili ma musika, e masani ona i se
-vaega laiti e taitaia e se tagata fesoasoani.
+They can add to a good day, which matters a great deal. The best-studied
+approach is **cognitive stimulation**: enjoyable group activities such as
+discussion, reminiscence, word games, puzzles and music, usually in a small
+group led by a facilitator.
 
-O se iloiloga a le Cochrane i le 2023 o suʻesuʻega e 37 ma tagata e 2,766 e iai le
-dementia e malie i le tulaga ogatotonu na maua ai
-([iloiloga a le Cochrane o le faaosofiaga o le mafaufau](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
+dementia found
+([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- o se **aoga laitiiti, puupuu** i suʻega o le mafaufau (faamaoniga o le tulaga ogatotonu);
-- **ni faaleleiga e aoga faafomaʻi i feutagaiga ma fegalegaleaiga faaagafesootai**
-  (faamaoniga o le tulaga maualuga, mai se numera laitiiti o suʻesuʻega);
-- **ni aoga laiti** mo le tulaga o le olaga, lagona ma amioga.
+- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
+- **clinically relevant improvements in communication and social interaction**
+  (high-quality evidence, from a smaller number of studies);
+- **slight benefits** for quality of life, mood and behavior.
 
-O aoga na fuaina e masani ona pe a uma polokalame e tusa ma le sefulu vaiaso, ma e itiiti
-suʻesuʻega na siaki pe na tumau. O le faaosofiaga o le mafaufau o se polokalame faatulagaina
-a se vaega, o lea o nei iuga e le aoga otometiki mo se tagata o loo taalo na o ia
-i se taaloga i luga o se tablet.
+Benefits were measured mostly right after programs of about ten weeks, and few
+studies checked whether they lasted. Cognitive stimulation is a structured
+group program, so these results do not automatically apply to a person playing
+a game alone on a tablet.
 
-Ua fai foi mai le Lancet Commission 2024 e taua polokalame o gaoioiga mo tagata
-o loo ola ma le dementia, e tausia ai le fiafia ma le uiga
+The 2024 Lancet Commission also says activity programs are important for people
+living with dementia, to maintain enjoyment and purpose
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## O le a le aoga moni o taaloga?
+## What are games actually good for?
 
-Pe a filifilia lelei, e mafai e taaloga ona ofoina atu:
+When chosen well, games can offer:
 
-- **Le fiafia.** O se afa itula malie e aoga ona o ia lava.
-- **Le fesootai.** O le taalo i tafatafa e tuu atu ai se mea faigofie e faasoa pe a faigata le
-  talanoa. Tagaʻi i [le auala e taalo faatasi ai](/caregiving/how-to-play-together/).
-- **Le faiga masani.** O se gaoioiga masani i le taimi e tasi i aso taʻitasi e mafai ona oo mai ai le faamafanafanaga.
-- **Le atoaga.** O gaoioiga e fetaui ma mea e mafai pea e le tagata ona faia lelei e tuu ai
-  o ia e lagona le mafai, e le o le suʻeina.
-- **Le talanoaga.** O se ata po o se muagagana masani e mafai ona tatala ai se tala. Taumafai
-  [kata talanoaga](/games/conversation-cards/) po o
-  [faaiuina le muagagana](/games/finish-the-saying/).
+- **Enjoyment.** A pleasant half hour is worth having for its own sake.
+- **Connection.** Playing side by side gives you something easy to share when
+  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
+- **Routine.** A familiar activity at the same time each day can bring comfort.
+- **Confidence.** Activities matched to what a person can still do well let
+  them feel capable, not tested.
+- **Conversation.** A picture or a familiar saying can open a story. Try
+  [conversation cards](/games/conversation-cards/) or
+  [finish the saying](/games/finish-the-saying/).
 
-O mea e aloese ai: uati, togi, faasologa ma so o se mea e foliga mai o se suega
-o le manatua. Afai e atuatuvale le tagata, taofi. O le faaiuina vave, po o le nofo
-faatasi, o se iuga lelei. O la matou taʻiala i
-[le filifilia o polokalame ma taaloga](/caregiving/choosing-apps-and-games/) e iai se lisi siaki.
+What to avoid: timers, scores, streaks and anything that feels like a memory
+test. If the person gets frustrated, stop. Ending early, or simply sitting
+together, is a good outcome. Our guide to
+[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
 
-## O le mea e fetaui ai le Golden Moments
+## Where Golden Moments fits
 
-O taaloga a le Golden Moments, e pei o [ata tutusa](/games/picture-pairs/),
-[puzzle ata](/games/picture-puzzle/) ma
-[suʻesuʻe upu e lapopoa mataʻitusi](/games/word-search/), ua faia mo le fiafia ma le
-taimi faatasi. E leai se uati ma e leai se togi. E **le** o se togafitiga, ma
-e **le** taofia pe faatuai le dementia. E sili ona matou fai atu ia te oe i se auala manino nai lo le
-folafola atu o se mea e le mafai e se taaloga ona avatu.
+Golden Moments games, such as [picture pairs](/games/picture-pairs/),
+[picture puzzle](/games/picture-puzzle/) and
+[large-print word search](/games/word-search/), are made for enjoyment and
+shared time. They have no clock and no score. They are **not** a treatment, and
+they do **not** prevent or slow dementia. We would rather
+tell you that plainly than promise something no game can deliver.
 
-## Talanoa ma se fomaʻi
+## Talk with a doctor
 
-Afai e te popole i suiga o le manatua ia te oe lava po o se tasi e te tausia,
-vaai i se fomaʻi nai lo le faalagolago i se polokalame. E mafai e se fomaʻi ona suʻe mafuaaga e mafai ona togafitia
-ma talanoa e uiga i laasaga e sili ona lelei le faamaoniga, e pei o le taulimaina o le toto maualuga
-ma le siakiina o le faalogo. Tagaʻi i
-[E mafai ea ona taofia le dementia?](/brain-health/can-dementia-be-prevented/) mo le tele o isi mea.
-Mo le le mautonu faafuasei po o isi suiga faafuasei, ia maua se fesoasoani faafomaʻi faanatinati.
+If you are worried about memory changes in yourself or someone you care for,
+see a doctor rather than relying on an app. A doctor can look for treatable
+causes and talk through the steps with the best evidence, such as managing blood
+pressure and checking hearing. See
+[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
+For sudden confusion or other sudden changes, get urgent medical help.

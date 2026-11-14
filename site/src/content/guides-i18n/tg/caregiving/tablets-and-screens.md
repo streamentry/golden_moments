@@ -1,35 +1,34 @@
 ---
-title: "Танзими планшет ё телефон барои шахси гирифтори деменсия"
-seoTitle: "Танзими планшет ё телефон барои шахси гирифтори деменсия"
-description: "Танзими қадам ба қадами планшет ва телефон барои шахси гирифтори деменсия: қуфл ба як барнома, матни калон, огоҳиномаҳои кам, экрани оддӣ, махфият."
+title: "Setting Up a Tablet or Phone for Someone with Dementia"
+seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
+description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Пеш аз додан, планшет ё телефонро соддатар кунед. Онро бо Guided Access дар
-  iPad ва iPhone ё бо мустаҳкам кардани барнома дар Android ба як барнома
-  қуфл кунед, ё барои тарҳи соддашуда аз Assistive Access-и Apple истифода
-  баред. Матнро калонтар кунед, огоҳиномаҳоро хомӯш намоед, дар як экрани асосӣ
-  танҳо чанд барнома нигоҳ доред, садоро танзим кунед, аз пояе истифода баред
-  ва иҷозатҳои барномаҳоро маҳдуд кунед. Онро якҷоя ва дар баробари
-  машғулиятҳои бе экран истифода баред.
+  Make a tablet or phone simpler before handing it over. Lock it to one app
+  with Guided Access on iPad and iPhone or app pinning on Android, or use
+  Apple's Assistive Access for a simplified layout. Make text larger, silence
+  notifications, keep only a few apps on one home screen, set the volume, use
+  a stand, and limit app permissions. Use it together, alongside non-screen
+  activities.
 keyPoints:
-  - "Guided Access (iPhone, iPad) ва мустаҳкам кардани барнома (Android) экранро то қуфл кушодани шумо дар як барнома нигоҳ медоранд."
-  - "Assistive Access-и Apple тарҳи соддашударо пешниҳод мекунад, ки барои одамони дорои мушкилоти маърифатӣ сохта шудааст."
-  - "Матнро калонтар кунед ва огоҳиномаҳо ва равзанаҳои баромадагиро хомӯш намоед, то чизе халал нарасонад ё ошуфта накунад."
-  - "Дар як экрани асосӣ танҳо чанд барномаи ошноро нигоҳ доред ва пеш аз оғоз садоро танзим кунед."
-  - "Пояе ва ҷои барқгирӣ, ки ҳеҷ гоҳ ҷой иваз намекунад, истифода ва ёфтани дастгоҳро осонтар мекунанд."
-  - "Иҷозатҳои барнома ва мубодилаи маълумотро санҷед: HIPAA одатан он чиро, ки дар дастгоҳи шахсӣ нигоҳ дошта мешавад, ҳимоя намекунад."
+  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
+  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
+  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
+  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
+  - "A stand and a charging spot that never moves make the device easier to use and find."
+  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
 faq:
-  - q: "Чӣ тавр пешгирӣ кунам, ки шахси гирифтори деменсия аз барнома дар iPad набарояд?"
-    a: "Guided Access-ро дар Танзимот > Дастрасӣ > Guided Access фаъол кунед ва рамз гузоред. Барномаро кушоед, тугмаи болоиро (ё тугмаи Home дар iPad-ҳои кӯҳна) се бор зеҳ занед ва Оғозро пахш кунед. iPad то ворид кардани рамз дар ҳамон барнома мемонад."
-  - q: "Планшети Android-ро чӣ тавр ба як барнома қуфл кунам?"
-    a: "Мустаҳкам кардани барномаро дар барномаи Танзимот, одатан дар Амният (баъзан Амният ва ҷойгиршавӣ) > Иловагӣ > Мустаҳкам кардани барнома, фаъол кунед. Баъд барномаро кушоед, Шарҳро кушоед, нишонаи барномаро дар боло пахш кунед ва Мустаҳкам кунро пахш намоед. Барои бекор кардан PIN, нақш ё рамз лозим аст."
-  - q: "Оё истифодаи Guided Access дар телефони худи шахс бехатар аст?"
-    a: "Эҳтиёт шавед. Apple мегӯяд, ки Crash Detection ва Emergency Services ҳангоми фаъол будани Guided Access дастрас нестанд. Агар шахс барои занги таъҷилӣ ба телефонаш такя кунад, Guided Access-ро танҳо ҳангоми ҳамроҳ будан истифода баред ё Assistive Access-ро баррасӣ кунед."
-  - q: "Барои шахси гирифтори деменсия чанд вақт назди экран бошад, мувофиқ аст?"
-    a: "Рақами муайян вуҷуд надорад. Машғулиятҳои кӯтоҳ ва муштарак, ки бо сайр, мусиқӣ, корҳои хона ва сӯҳбат омехта мешаванд, рӯзро аз соатҳои дароз танҳо бо экран пуртар мекунанд. Агар дастгоҳ ноумедӣ ба вуҷуд орад ё ҷойи машғулиятҳои дигарро гирад, камтар истифода баред."
+  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
+    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
+  - q: "How do I lock an Android tablet to one app?"
+    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
+  - q: "Is it safe to use Guided Access on the person's own phone?"
+    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
+  - q: "How much screen time is okay for someone with dementia?"
+    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -66,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-Планшет метавонад роҳи зебои мубодилаи тасвирҳо, мусиқӣ ва бозиҳои оддӣ бошад. Он инчунин метавонад ошуфтакунанда бошад: зарбаи тасодуфӣ барномаи дигареро мекушояд, огоҳиномае пайдо мешавад, матн хурд аст ё экран дар миёнаи бозӣ торик мешавад. Каме танзим аз ҷониби шумо аксари инро ҳал мекунад.
+A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
 
-Ин қадамҳо танзимоти дарунсохтаи iPhone, iPad ва Android-ро истифода мебаранд. Номи менюҳо метавонад байни нусхаҳои нармафзор ва истеҳсолкунандагони дастгоҳ фарқ кунад, бинобар ин агар чизе дигар намоён шавад, саҳифаи пайвастшудаи Apple ё Google-ро барои дастгоҳи худ пайгирӣ кунед. Танзимро худатон, пеш аз якҷоя нишастан, анҷом диҳед.
+These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
 
-## Оё шахси гирифтори деменсия бояд планшет ё телефон истифода барад?
+## Should someone with dementia use a tablet or phone?
 
-Ин ба шахс вобаста аст. Бисёр одамон аз истифодаи планшет бо касе дар паҳлӯяшон лаззат мебаранд, ҳатто агар танҳо наметавонистанд. Бо истифодаи якҷоя, бо як барномаи кушода, барои чанд дақиқа оғоз кунед. Агар он лаззат ва сӯҳбат орад, давом диҳед. Агар ошуфтагӣ ё ноумедӣ орад, албоми акс, саҳифаҳои чопшуда ё мусиқӣ шояд ба ӯ беҳтар мувофиқ шавад. [Машғулиятҳои чопшавандаи мо](/activities/printable/) як алтернативаанд.
+It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
 
-Планшет одатан аз телефон осонтар аст: экран ва тасвирҳо калонтаранд ва он ҳамзамон хати наҷоти таъҷилии шахс нест.
+A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
 
-## Планшет ё телефонро чӣ тавр ба як барнома қуфл кунам?
+## How do I lock a tablet or phone to one app?
 
-Guided Access-ро дар iPhone ва iPad, ё мустаҳкам кардани барномаро дар Android истифода баред. Ҳарду экранро то ворид кардани рамз дар як барнома нигоҳ медоранд, бинобар ин зарба ё кашиши тасодуфӣ наметавонад чизи дигареро кушояд.
+Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
 
-### iPad ва iPhone: Guided Access
+### iPad and iPhone: Guided Access
 
-Аз [дастурҳои Guided Access-и Apple](https://support.apple.com/en-us/111795):
+From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
 
-1. **Танзимот**-ро кушоед, **Дастрасӣ**-ро пахш кунед, баъд **Guided Access**-ро пахш кунед ва фаъол намоед.
-2. Дар зери **Танзимоти рамз** рамзи Guided Access гузоред. Шумо инчунин метавонед Face ID ё Touch ID-ро иҷозат диҳед.
-3. Ихтиёрӣ: дар зери **Қуфли худкори экран** интихоб кунед, ки экран ҳангоми машғулият чӣ қадар зуд қуфл шавад, то он дар миёнаи бозӣ торик нашавад.
-4. Барномаеро, ки мехоҳед истифода баред, кушоед.
-5. Тугмаи паҳлуӣ (iPhone), тугмаи болоӣ (iPad) ё тугмаи Home-ро дар дастгоҳҳои кӯҳна се бор зеҳ занед.
-6. Ихтиёрӣ: қисматҳои экранро, ки мехоҳед ба ламс посух надиҳанд, давра кунед. **Имконот**-ро (ё **Танзимоти машғулият**) пахш кунед, то тугмаҳои садоро хомӯш намоед ё гардиши экранро қатъ кунед.
-7. **Оғоз**-ро пахш кунед.
+1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
+2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
+3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
+4. Open the app you want to use.
+5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
+6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
+7. Tap **Start**.
 
-Барои анҷом додани машғулият, ҳамон тугмаро боз се бор зеҳ занед, рамзро ворид кунед ва **Анҷом**-ро пахш намоед. Apple қайд мекунад, ки дар баъзе нусхаҳои кӯҳнаи нармафзор ба ҷои ин ду бор зеҳ занед.
+To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
 
-**Муҳим:** Apple мегӯяд, ки Crash Detection ва Emergency Services ҳангоми машғулияти Guided Access дастрас нестанд. Guided Access-ро дар телефоне, ки шахс шояд барои занги таъҷилӣ ба он ниёз дошта бошад, фаъол нагузоред.
+**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
 
-### Android: мустаҳкам кардани барнома
+### Android: app pinning
 
-Аз [кумаки Android-и Google оид ба мустаҳкам кардани экранҳо](https://support.google.com/android/answer/9455138?hl=en):
+From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Барномаи **Танзимот**-ро кушоед.
-2. **Амният** (ё **Амният ва ҷойгиршавӣ**)-ро пахш кунед, баъд **Иловагӣ**, баъд **Мустаҳкам кардани барнома**. Агар онро наёбед, саҳифаҳои кумаки истеҳсолкунандаи дастгоҳро санҷед.
-3. **Мустаҳкам кардани барнома**-ро фаъол кунед. Барои бекор кардан PIN, нақш ё рамзи шумо лозим мешавад.
-4. Барномаи дилхоҳро кушоед. Ба боло то миёнаи экран кашед ва нигоҳ доред, то Шарҳ кушода шавад (ё дар идоракунии бо 3 тугма Шарҳро пахш кунед).
-5. Дар боло, дар пешнамоиши барнома нишонаи барномаро пахш кунед, баъд **Мустаҳкам кун**-ро пахш намоед.
+1. Open the **Settings** app.
+2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
+3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
+4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
+5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
 
-Барои бекор кардан бо идоракунии имову ишора, ба боло кашед ва нигоҳ доред. Бо идоракунии 3-тугма Бозгашт ва Шарҳро пахш карда нигоҳ доред. Бо идоракунии 2-тугма Бозгашт ва Home-ро пахш карда нигоҳ доред. Баъд PIN, нақш ё рамзи худро ворид кунед.
+To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
 
-## Оё тарзи соддатар барои тамоми iPhone ё iPad вуҷуд дорад?
+## Is there a simpler mode for the whole iPhone or iPad?
 
-Бале. Assistive Access-и Apple экрани маъмулии асосиро бо экрани соддатар иваз мекунад. [Apple онро тавсиф мекунад](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ҳамчун сохташуда барои он ки истифодаи iPhone-ро барои одамони дорои мушкилоти маърифатӣ мустақилона осонтар кунад, бо ашёи калонтари рӯи экран ва имкониятҳои бештар мутамарказ. Apple [ҳамин хусусиятро дар iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) низ пешниҳод мекунад.
+Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Кӣ онро танзим мекунад.** Apple пешниҳод мекунад, ки дастгири боэътимод, ба монанди аъзои оила ё парваришгаре, ки шахсро мешиносад, дар интихоби барномаҳо ва имкониятҳо кумак кунад.
-- **Аз куҷо оғоз кардан.** Ба **Танзимот > Дастрасӣ > Assistive Access** равед, **Танзими Assistive Access**-ро пахш кунед, баъд **Идома**-ро.
-- **Барномаҳо.** Шумо интихоб мекунед, ки кадом барномаҳо пайдо мешаванд. Баъзе барномаҳои Apple нусхаҳои махсуси соддашуда доранд ва аксари барномаҳои дигарро бо тарҳи маъмулиашон илова кардан мумкин аст.
-- **Тарҳбандӣ.** **Сатрҳо** (рӯйхати осонхон) ё **Тор** (ашёи калонтар, ки тасвирҳо ва нишонаҳоро таъкид мекунад)-ро интихоб кунед.
-- **Рамз.** Шумо рамзи алоҳидаи Assistive Access-ро барои даромадан, баромадан ё тағйири танзимот мегузоред. Apple тавсия медиҳад, ки ҳангоми танзим Apple Account-и барқарорсозиро танзим кунед, зеро бе он, рамзи фаромӯшшуда маънои аз нав танзим кардани дастгоҳро дорад.
+- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
+- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
+- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
+- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
+- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
 
-Assistive Access метавонад ба касе, ки ҳар рӯз дастгоҳи худро истифода мебарад, мувофиқ шавад. Барои машғулияти бозии муштарак Guided Access ё мустаҳкам кардани барнома зудтар аст.
+Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
 
-## Матн ва тасвирҳоро чӣ тавр калонтар кунам?
+## How do I make text and pictures bigger?
 
-Андозаи матн ва экранро зиёд кунед, баъд санҷед, ки тугмаҳо ҳанӯз дар экран ҷой мешаванд.
+Increase the text and display size, then check that buttons still fit on screen.
 
-**iPhone ва iPad.** Тибқи [дастурҳои Apple оид ба андозаи ҳарф](https://support.apple.com/en-us/102453), ба **Танзимот > Экран ва равшанӣ > Андозаи матн** равед ва лағзандаро кашед. Барои матни боз калонтар ба **Танзимот > Дастрасӣ > Андозаи экран ва матн > Матни калонтар** равед. Apple қайд мекунад, ки матни хеле калон метавонад зада шудани баъзе тугмаҳоро душвортар кунад, бинобар ин ҳангоми зарурат танзим кунед.
+**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
 
-**Android.** Тибқи [кумаки Google оид ба танзимоти матн ва экран](https://support.google.com/accessibility/android/answer/11183305?hl=en), **Танзимот**-ро кушоед ва **Андозаи ҳарф**-ро ҷустуҷӯ кунед, баъд лағзандаро ҳаракат диҳед. **Андозаи экран**-ро ҷустуҷӯ кунед, то ҳама чиз дар экран калонтар шавад. Шумо инчунин метавонед **Матни ғафс**-ро дар зери **Дастрасӣ > Андозаи экран ва матн** фаъол кунед. Баъзе барномаҳо ин танзимотро риоя намекунанд.
+**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
 
-Дар бозиҳое ба монанди [Ҷуфтҳои тасвирӣ](/games/picture-pairs/) ва [Ёфтани монанд](/games/find-the-same/) шумо инчунин метавонед плиткаҳо ё интихобҳои камтарро интихоб кунед, ки экранро соддатар нигоҳ медорад.
+In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
 
-## Огоҳиномаҳо ва равзанаҳои баромадагиро чӣ тавр қатъ кунам?
+## How do I stop notifications and pop-ups?
 
-Огоҳиномаҳоро барои барномаҳои нолозим хомӯш кунед ва ҳангоми машғулиятҳо Do Not Disturb-ро истифода баред.
+Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
 
-**iPhone ва iPad.** Ба **Танзимот > Огоҳиномаҳо** равед, барномаеро дар зери **Сабки огоҳинома** пахш кунед ва **Иҷозати огоҳиномаҳо**-ро хомӯш намоед ([роҳнамои Apple оид ба танзимоти огоҳиномаҳо](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Барои хомӯш кардани занг, ҳушдор ва огоҳиномаҳо барои муддате, Маркази идоракуниро кушоед ва **Do Not Disturb**-ро аз тугмаи **Focus** фаъол кунед ([кумаки Apple оид ба Do Not Disturb](https://support.apple.com/en-us/105112)). Шумо метавонед онро дар зери **Танзимот > Focus > Do Not Disturb > Ҷадвал гузоштан** ба ҷадвал дароред.
+**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Аз боло ба поён кашед ва **Do Not Disturb**-ро пахш кунед, ё ба **Танзимот > Ҳолатҳо > Do Not Disturb** равед ([кумаки Google оид ба Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Дар зери **Филтрҳои огоҳинома** шумо метавонед интихоб кунед, ки кадом одамон ва барномаҳо ҳанӯз расида метавонанд. Танзимот аз рӯи истеҳсолкунандаи дастгоҳ фарқ мекунад.
+**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
 
-## Экрани асосии оддиро чӣ тавр созам?
+## How do I make a simple home screen?
 
-Чанд барномаи ошноро дар як экран нигоҳ доред ва боқиро аз назар дур кунед. Барои ин танзими ягона вуҷуд надорад; сухан дар бораи дур кардани бесарусомонӣ меравад.
+Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
 
-- **Аз се то шаш барнома интихоб кунед.** Масалан, аксҳо, мусиқӣ, барномаи занги видео ва як бозӣ.
-- **Онҳоро дар экрани аввал гузоред,** ҳар дафъа дар ҳамон ҷойҳо, ва ҳама чизи дигарро ба экрани дуюм ё ҷузвдон гузаронед.
-- **Тасвири равшан ва пурконтрасти замина истифода баред,** ба монанди як ранг ё як акси ошно, то нишонаҳо барҷаста бошанд.
-- **Барномаҳои нолозимро нест кунед.** Барномаҳои камтар маънои имкониятҳои камтари ошуфтагӣ ва маълумоти камтари ҷамъшавандаро дорад.
-- **Assistive Access-ро баррасӣ кунед** дар дастгоҳҳои Apple, агар мехоҳед дастгоҳ ин корро барои шумо кунад.
+- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
+- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
+- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
+- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
+- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
 
-## Дар бораи садо чӣ?
+## What about volume and sound?
 
-Пеш аз додани дастгоҳ садои қулайро танзим кунед. Бо Guided Access шумо метавонед тугмаҳои садоро хомӯш кунед, то он дар миёнаи машғулият тағйир наёбад. Санҷед, ки асбобҳои шунавоӣ дар ҷой ва корӣ мебошанд.
+Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
 
-## Планшет бояд дар куҷо бошад?
+## Where should the tablet live?
 
-Ба он поя ва ҷои доимии барқгирӣ диҳед.
+Give it a stand and a permanent charging spot.
 
-- **Поя ё ғилоф**, ки планшетро дар сари миз рост нигоҳ медорад, маънои онро дорад, ки касе набояд онро дошта истад ва ишора кардан осонтар аст.
-- **Як ҷои барқгирӣ**, ки ҳеҷ гоҳ ҷой иваз намекунад, беҳтараш пояи барқгирӣ дар болои миз дар ҳуҷрае, ки ҳар рӯз истифода мебаред. Планшет ҳамеша пур ва ҳамеша дар як ҷост.
-- **Тобишро кам кунед.** Экранро аз тирезаи равшан дур ҷойгир намоед.
+- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
+- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
+- **Reduce glare.** Position the screen away from a bright window.
 
-## Назди экран чанд вақт мувофиқ аст?
+## How much screen time is okay?
 
-Шумораи дурусти дақиқаҳо вуҷуд надорад. Ба машғулиятҳои кӯтоҳ ва муштарак ҳамчун як қисми рӯзи пур, ки инчунин ҳаракат, мусиқӣ, корҳои хона, сӯҳбат ва вақт дар беруни хонаро дар бар мегирад, ҳадаф гиред. Азбаски бегоҳҳои серкор метавонанд беқарории нимрӯзии дерро афзоиш диҳанд, нигоҳ доштани машғулиятҳои экраниро ба аввали рӯз баррасӣ кунед. Нигаред: [машғулиятҳои ором дар нимрӯзии дер](/caregiving/late-day-restlessness/).
+There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
 
-Истифодаи якҷояи планшет, на ҳамчун парастор, онро иҷтимоӣ нигоҳ медорад. [Роҳнамои мо оид ба якҷоя бозӣ кардан](/caregiving/how-to-play-together/) шарҳ медиҳад, ки чӣ тавр.
+Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
 
-## Махфияти шахсро дар дастгоҳ чӣ тавр ҳимоя кунам?
+## How do I protect their privacy on the device?
 
-Он чиро, ки барномаҳо ҷамъ карда метавонанд, маҳдуд кунед ва фикр накунед, ки қонуни махфияти тиббӣ онро фаро мегирад. Вазорати солимӣ ва хидматҳои инсонии ИМА (HHS) [шарҳ медиҳад](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), ки қоидаҳои HIPAA одатан маълумоти тиббиеро, ки дар телефонҳо ва планшетҳои шахсӣ нигоҳ дошта мешавад ё тавассути онҳо дастрас аст, ҳимоя намекунанд. Дар аксар ҳолатҳо HIPAA инчунин маълумоти ба барномаҳо барои истифодаи шахсӣ воридшударо ҳимоя намекунад, магар он ки барнома аз провайдери тиббии фарогир, нақшаи солимӣ ё яке аз шарикони тиҷоратии онҳо бошад.
+Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
 
-HHS пешниҳод мекунад:
+HHS suggests:
 
-- аз барномаҳои нолозим ё тасодуфӣ, хусусан «ройгон»-ҳо, худдорӣ кунед;
-- ба барномаҳо дастрасӣ ба ҷойгиршавиро надиҳед, магар он ки онҳо воқеан ба он ниёз дошта бошанд, масалан харитаҳо.
+- avoiding unnecessary or random apps, especially "free" ones;
+- not giving apps access to location unless they truly need it, such as maps.
 
-Инчунин баррасӣ кунед:
+Also consider:
 
-- **Рамз истифода баред** дар дастгоҳ ва онро дар ҷои бехатар навишта нигоҳ доред.
-- **Иҷозатҳоро санҷед** барои аксҳо, камера, микрофон, тамосҳо ва ҷойгиршавӣ, ва ҳар кадоме, ки барнома ба он ниёз надорад, хомӯш кунед.
-- **Санҷед, ки барнома чӣ ҷамъ мекунад** пеш аз насб кардан. [Роҳнамои мо оид ба интихоби барномаҳо ва бозиҳои деменсия](/caregiving/choosing-apps-and-games/) рӯйхати санҷиши махфият дорад.
-- **Бо аксҳои оилавӣ эҳтиёт шавед.** Танҳо аксҳоеро мубодила кунед, ки шахс бо онҳо роҳат аст, ва бидонед, ки барнома онҳоро дар куҷо нигоҳ медорад. Дар [Ҷуфтҳои акс](/games/photo-pairs/) аксҳое, ки шумо интихоб мекунед, дар браузери шумо мемонанд.
-- **Харидҳо дар дохили барномаро хомӯш кунед** ё тафсилоти пардохтро аз ҳисобҳое, ки шахс истифода мебарад, хориҷ намоед.
+- **Use a passcode** on the device, and keep a note of it somewhere safe.
+- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
+- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
+- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
+- **Turn off in-app purchases** or remove payment details from accounts the person uses.

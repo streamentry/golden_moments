@@ -1,36 +1,35 @@
 ---
-title: "Demensiýanyň öňüni almak mümkinmi? Barlaglar näme diýýär"
-seoTitle: "Demensiýanyň öňüni almak mümkinmi? Barlaglar"
-description: "2024 Lancet Komissiýasynyň we uly synaglaryň demensiýa töwekgelçiligini azaltmak barada tapanlary, tapmadyklary we lukman bilen gürleşmeli ädimler."
+title: "Can Dementia Be Prevented? What the Research Says"
+seoTitle: "Can Dementia Be Prevented? What Research Says"
+description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hiç kim demensiýanyň öňüni alyp biljekdigine wada berip bilmez. 2024
-  Lancet Komissiýasy dünýäde demensiýa ýagdaýlarynyň takmynan ýarysynyň ýokary
-  gan basyşy, eşidiş ýitgisi we hereketsizlik ýaly üýtgedip boljak 14 töwekgelçilik
-  faktory bilen baglanyşykly bolandygyny çaklady. Synaglar pikirlenme synaglarynda
-  kiçi täsirleri görkezýär, demensiýa ýagdaýlarynyň azalýandygynyň subutnamasyny däl.
-  Hemme zady «dogry» edýän köp adam entek demensiýa duçar bolýar we bu hiç kimiň
-  günäsi däl.
+  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
+  that nearly half of dementia cases worldwide are linked with 14 risk factors
+  that can potentially be changed, such as high blood pressure, hearing loss and
+  inactivity. Trials show small effects on thinking tests, not proof of fewer
+  dementia cases. Many people who do everything "right" still develop dementia,
+  and it is no one's fault.
 keyPoints:
-  - "2024 Lancet Komissiýasy dünýäde demensiýa ýagdaýlarynyň takmynan 45%-ni üýtgedip boljak 14 töwekgelçilik faktory bilen baglanyşdyrdy. Bu ilat çaklamasydyr, şahsy kepil däl."
-  - "Töwekgelçiligi azaltmak, bütin ilat boýunça mümkinçiligi peseltmegi aňladýar. Bu, haýsydyr bir adamyň demensiýadan gaça durup biljekdigini aňlatmaýar."
-  - "FINGER, US POINTER we SPRINT MIND ýaly uly synaglar pikirlenme synaglarynda ýa-da ýeňil pikirlenme kynçylygynda kiçi peýdalary tapdy, ýöne hiç biri durmuş usuly programmasynyň demensiýanyň öňüni alýandygyny subut etmedi."
-  - "Ýaş, Alsgeýmer üçin iň uly belli töwekgelçilik faktorydyr we ony üýtgedip bolmaýar. Saglam adatlary bolan köp adam entek demensiýa duçar bolýar."
-  - "Iň köp öwrenilen ädimler, mysal üçin ýokary gan basyşyny bejertmek, eşidiş enjamlaryny ulanmak we işjeň galmak, lukman bilen maslahatlaşmaga mynasypdyr, sebäbi olar başga taraplardan hem saglyga kömek edýär."
+  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
+  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
+  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
+  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
+  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
 faq:
-  - q: "Demensiýanyň öňüni almak mümkinmi?"
-    a: "Haýsydyr bir adam üçin demensiýanyň öňüni almagyň subut edilen ýoly ýok. Barlaglar ýokary gan basyşy, bejerilmedik eşidiş ýitgisi we çilim çekmek ýaly käbir töwekgelçilikleri azaltmagyň ilat boýunça demensiýa mümkinçiligini peseldip ýa-da başlanýan wagtyny yza süýşürip biljekdigini görkezýär. Bu mümkinçilikdir, wada däl."
-  - q: "Lancet Komissiýasynyň 45% sany näme aňladýar?"
-    a: "2024 Lancet Komissiýasy dünýäde demensiýa ýagdaýlarynyň takmynan 45%-niniň nazaryýet taýdan üýtgedip boljak 14 töwekgelçilik faktory bilen baglanyşykly bolandygyny çaklady. Çaklama bu faktorlaryň demensiýa sebäp bolýandygyny çaklaýar we awtorlar käbir baglanyşyklaryň diňe bölekleýin sebäp bolup biljekdigini belleýärler. Ol bütin ilaty häsiýetlendirýär we hiç bir adamyň töwekgelçiligini aýtmaýar."
-  - q: "Ata-eneme saglam durmuş usuly bolsa, näme üçin demensiýa boldy?"
-    a: "Ýaş, genler we hiç kimiň dolandyryp bilmeýän köp faktory demensiýada uly rol oýnaýar. Lancet Komissiýasynyň awtorlary ilat boýunça töwekgelçiligi azaltmagyň haýsydyr bir adamyň demensiýadan gaça durjakdygyna kepil bermeýändigini belleýärler. Diagnoz hiç kimiň ýalňyşandygynyň alamaty däl."
-  - q: "65 ýaşdan soň demensiýa töwekgelçiligini azaltmak giçmi?"
-    a: "Lancet Komissiýasy delilleriň köpüsi orta ýaş bilen baglanyşykly bolsa-da, töwekgelçiligi azaltmagyň hiç haçan örän ir ýa-da örän giç däldigini aýdýar. Eşidiş we görüş kynçylyklaryny bejertmek, işjeň galmak we adamlar bilen aragatnaşykda bolmak, öwrenilen soňky ýaş ädimleriniň mysallarydyr. Saglygyňyza näme laýyk gelýändigi barada lukman bilen gürleşiň."
-  - q: "Beýni oýunlary ýa-da aýratyn iýmitlenmeler demensiýanyň öňüni alýarmy?"
-    a: "Hiç bir oýnuň, iýmitiň, goşundynyň ýa-da iýmitlenişiň demensiýanyň öňüni alýandygy subut edilmändir. MIND iýmitlenişiniň üç ýyllyk synagy gözegçilik iýmitlenişi bilen deňeşdirilende pikirlenmede manyly tapawut tapmady we täjirçilik beýni okuw programmalarynyň barlag synaglarynda görlen täsirleri berýändigi görkezilmedi."
+  - q: "Can dementia be prevented?"
+    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
+  - q: "What does the 45% figure from the Lancet Commission mean?"
+    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
+  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
+    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
+  - q: "Is it too late to lower dementia risk after age 65?"
+    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
+  - q: "Do brain games or special diets prevent dementia?"
+    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -64,124 +63,271 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-Eger demensiýa bilen ýaşaýan adama ideg edýän bolsaňyz ýa-da ata-enäňiziň onuň bilen ýaşaýşyny görüp gelen bolsaňyz, onuň öňüni alyp bolarmydy we muňa özüňize düşmezlik üçin nämedir bir zat edip bolarmy diýip, ähtimal, oýlanypsyňyz. Bu sahypa barlaglaryň hakykatda näme diýýändigini ýönekeý dilde beýan edýär. Gysgaça jogap: hiç kim demensiýanyň öňüni alyp biljekdigine wada berip bilmez, ýöne barlaglar käbir töwekgelçilikleriň azaldylyp bilinjekdigini we olary bütin ilat boýunça azaltmagyň has az adamyň demensiýa duçar bolmagyna ýa-da has giç duçar bolmagyna getirip biljekdigini görkezýär.
+If you are caring for someone with dementia, or you have watched a parent live
+with it, you have probably wondered whether it could have been stopped, and
+whether you can stop it happening to you. This page sets out what the research
+actually says, in plain language. The short answer: no one can promise to
+prevent dementia, but research suggests that some risks can be lowered, and that
+lowering them across a population may mean fewer people develop dementia or
+develop it later.
 
-Bu umumy maglumatdyr, lukman maslahaty däl. [Lukmançylyk bildirişimizi](/medical-disclaimer/) okaň we öz saglygyňyz barada lukman bilen gürleşiň.
+This is general information, not medical advice. Please read our
+[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
+health.
 
-## Demensiýanyň öňüni almak mümkinmi?
+## Can dementia be prevented?
 
-Haýsydyr bir adam üçin demensiýanyň öňüni almagyň subut edilen ýoly ýok. National Institute on Aging (NIA) [Alsgeýmeriň öňüni almak üçin entek hiç zadyň subut edilmändigini](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) aýtsa-da, barlagçylaryň umytly strategiýalary tapandygyny we nämäniň işläp biljekdigini we işlemejekdigini öwrenýändigini bellär.
+There is no proven way to prevent dementia for any single person. The National
+Institute on Aging (NIA) says that while
+[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+researchers have found promising strategies and are learning what may and may
+not work.
 
-Barlaglaryň *görkezýän* zady, käbir saglyk ýagdaýlarynyň we adatlaryň demensiýanyň has ýokary mümkinçiligi bilen baglanyşykly bolmagydyr. Bu töwekgelçilikler bütin ilat boýunça pes bolanda, has az adam demensiýa duçar bolup biler ýa-da ony ömrüniň has giçki döwründe başdan geçirip biler. Bu kepillikden örän tapawutlydyr.
+What research *does* show is that certain health conditions and habits are
+linked with a higher chance of dementia. When those risks are lower across a
+whole population, fewer people may develop dementia, or they may develop it
+later in life. That is very different from a guarantee.
 
-Bir umytly alamat: 2024 Lancet Komissiýasy käbir ýokary girdejili ýurtlarda, şol sanda ABŞ-da we Angliýada, demensiýaly garry adamlaryň paýynyň azalandygyny habar berdi. Awtorlar muny bölekleýin has gowy bilim, has gowy saglygy goraýyş we ömür boýy gan damarlaryna has az zeper ýetmegi bilen baglanyşdyrýarlar, [University College London-yň hasabat jemleýşine](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) görä.
+One hopeful sign: the 2024 Lancet Commission reported that in some high-income
+countries, including the US and UK, the share of older people with dementia has
+fallen. The authors think this is probably due in part to better education,
+better health care and less damage to blood vessels over a lifetime, according to
+[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## 2024 Lancet Komissiýasy näme tapdy?
+## What did the 2024 Lancet Commission find?
 
-Demensiýanyň öňüni almak, ýetirmek we idegi boýunça Lancet Komissiýasy, her birnäçe ýylda subutnamalary gözden geçirýän 27 demensiýa barlagçysynyň toparydyr. Olaryň 2024-nji ýyldaky hasabaty üýtgedip boljak **14 töwekgelçilik faktoryny** atlandyrdy we olaryň bilelikde **dünýäde demensiýa ýagdaýlarynyň takmynan ýarysyna (takmynan 45%)** jogapkärdigini çaklady. Awtorlaryň sözleri bilen aýdylanda, bu töwekgelçilikler aýrylsa, bu ýagdaýlaryň *nazaryýet taýdan* öňüni almak ýa-da yza süýşürmek mümkin bolardy ([2024 Lancet Komissiýasynyň hasabaty](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+The Lancet Commission on dementia prevention, intervention and care is a group
+of 27 dementia researchers who review the evidence every few years. Their 2024
+report named **14 risk factors** that can potentially be changed, and estimated
+that together they account for **nearly half (about 45%) of dementia cases
+worldwide**. In the authors' words, these cases could *theoretically* be
+prevented or delayed if the risks were removed
+([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Subutnamanyň iň berk bolan ömür tapgyry boýunça toparlanan 14 faktor:
+The 14 factors, grouped by the stage of life where the evidence is strongest:
 
-- **Ir ýaş:** az bilim.
-- **Orta ýaş (takmynan 40-dan 65 ýaşa çenli):** eşidiş ýitgisi, ýokary LDL («erbet») holesterin, depressiýa, kelle şikesi, fiziki hereketsizlik, süýji keseli, çilim çekmek, ýokary gan basyşy, semizlik we agyr içgi.
-- **Soňky ýaş:** sosial ýeke galmak, howanyň hapalanmagy we bejerilmedik görüş ýitgisi.
+- **Early life:** less education.
+- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
+  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
+  high blood pressure, obesity, and heavy drinking.
+- **Later life:** social isolation, air pollution, and untreated vision loss.
 
-2024-nji ýyldaky iň täze iki goşundy ýokary LDL holesterin we bejerilmedik görüş ýitgisi boldy. Ýagdaýlaryň iň uly paýy bilen baglanyşykly faktorlar eşidiş ýitgisi we ýokary LDL holesterin (her biri takmynan 7%), soňra az bilim we sosial ýeke galmak (her biri takmynan 5%) boldy.
+The two newest additions in 2024 were high LDL cholesterol and untreated vision
+loss. The factors linked with the largest share of cases were hearing loss and
+high LDL cholesterol (about 7% each), followed by less education and social
+isolation (about 5% each).
 
-[Töwekgelçilik faktorlary gollanmamyz](/brain-health/risk-factors/) ähli 14-i tablisada, barlaglaryň näme baglanyşdyrýandygy we siziň näme edip biljekdigiňiz bilen birlikde ara alyp maslahatlaşýar.
+Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
+table, with what the research links and what you can do.
 
-### 45% sanynyň aňlatmaýan zady
+### What the 45% figure does not mean
 
-Bu sany nädogry düşünmek aňsat, şonuň üçin takyk bolmak peýdalydyr:
+It is easy to misread this number, so it helps to be precise:
 
-- **Bu ilat çaklamasydyr.** Ol siziň ýa-da ata-eneňiziň mümkinçiligini däl-de, dünýädäki demensiýa ýagdaýlaryny häsiýetlendirýär.
-- **Ol sebäp we netije çaklaýar.** Awtorlar diňe ynandyryjy subutnamasy bolan töwekgelçilik faktorlaryny goşandyklaryny, ýöne käbir baglanyşyklaryň diňe bölekleýin sebäp bolup biljekdigini aýdýarlar. Mysal üçin, soňky ýaşdaky depressiýa käwagt sebäp däl-de, demensiýanyň ir alamaty bolup biler.
-- **Ol bir adam üçin hiç zada kepil bermeýär.** UCL jemleýşi töwekgelçiligi azaltmagyň ilat derejesinde işleýändigini we haýsydyr bir adamyň demensiýadan gaça durjakdygyna kepil bermeýändigini belleýär.
-- **Beýleki ýarysy bu faktorlar bilen düşündirilmeýär.** Galanlary ýaş, genler we alymlaryň heniz düşünmeýän sebäpleridir.
+- **It is a population estimate.** It describes dementia cases across the world,
+  not your chances or your parent's chances.
+- **It assumes cause and effect.** The authors say they included only risk
+  factors with convincing evidence, but that some links may be only partly
+  causal. For example, depression in later life may sometimes be an early
+  symptom of dementia rather than a cause.
+- **It does not guarantee anything for one person.** The UCL summary notes that
+  reducing risk works at the level of a population and does not guarantee that
+  any individual will avoid dementia.
+- **The other half is not explained by these factors.** Age, genes and causes
+  scientists do not yet understand make up the rest.
 
-## «Töwekgelçiligi azaltmak» bilen «öňüni almak» arasynda tapawut näme?
+## What is the difference between "risk reduction" and "prevention"?
 
-**Töwekgelçiligi azaltmak** mümkinçiligi peseltmegi aňladýar. Eger uly topar adam gan basyşyny peseltse, köp ýyllaryň dowamynda olaryň has azy, başgaça bolşy ýaly, demensiýa duçar bolup biler. Şol topardaky käbir adamlar entek demensiýa duçar bolar.
+**Risk reduction** means lowering the odds. If a large group of people lower
+their blood pressure, fewer of them may develop dementia over many years than
+would have otherwise. Some individuals in that group will still develop it.
 
-**Öňüni almak** bir zadyň asla bolmagynyň öňüni almagy aňladýar. Demensiýa üçin bu, barlaglaryň şu gün hiç kime wada berip biljek zady däl.
+**Prevention** suggests stopping something from happening at all. For dementia,
+that is not something research can promise to anyone today.
 
-Barlagçylar **yza süýşürmek** hakda hem gürleýärler. Lancet Komissiýasy töwekgelçiligi azaltmagyň demensiýanyň başlanýan wagtyny yza süýşürip we adamyň erbet saglyk bilen ýaşaýan wagtyny gysgaldyp biljekdigi barada täze subutnamalary habar berýär. Birnäçe ýyllyk yza süýşürmek hem adam we onuň maşgalasy üçin örän möhüm bolup biler.
+Researchers also talk about **delay**. The Lancet Commission reports new
+evidence that lowering risk may push back when dementia starts and shorten the
+time a person spends living with ill health. Even a delay of a few years can
+matter a great deal to a person and their family.
 
-Bu saýtda biz «has pes töwekgelçilik» we «bilen baglanyşykly» sözlerini bilkastlaýyn ulanýarys. «Alsgeýmeriň öňüni alýar» diýip wada berýän önüme, goşundyra ýa-da programma duşsaňyz, ätiýaçly boluň. NIA Alsgeýmeriň öňüni almagy wada berýän islendik derman ýa-da bejerişi synap görmezden öň lukman bilen maslahatlaşmagy maslahat berýär, sebäbi şeýle önümler howpsuz bolmazlygy, pul ýitgisi bolmagy ýa-da ikisi hem bolmagy mümkin.
+On this site, we use "lower risk" and "linked with" on purpose. When you see a
+product, supplement or program promising to "prevent Alzheimer's", treat it with
+caution. The NIA advises checking with a doctor before trying any pill or
+treatment that promises to prevent Alzheimer's, because such products may be
+unsafe, a waste of money, or both.
 
-## Uly synaglar näme tapdy?
+## What have large trials found?
 
-Gözegçilik barlaglary (adamlara wagtyň geçmegi bilen näme bolýandygyna syn edýän) baglanyşyklary görkezip biler. Adamlaryň tötänleýin programma ýa-da deňeşdirme toparyna bellenýän tötänleýin synaglary has berk synagdyr. Iň meşhur synaglaryň käbiriniň tapanlary şulardyr.
+Observational studies (which watch what happens to people over time) can show
+links. Randomized trials, where people are assigned to a program or a comparison
+group by chance, are the stronger test. Here is what some of the best-known
+trials found.
 
-### FINGER (Finlýandiýa)
+### FINGER (Finland)
 
-FINGER synagy demensiýa üçin has ýokary töwekgelçilikli 60 ýaşdan 77 ýaşa çenli 1,260 uly adamy goşdy. Ýarysy iýmitlenme maslahatyndan, maşklardan, kompýuter beýni maşklaryndan we ýürek we gan damarlarynyň saglygyny barlamakdan ybarat iki ýyllyk programma aldy; beýleki ýarysy umumy saglyk maslahatyny aldy. Programma topary pikirlenme synaglarynyň toplumynda azajyk gowy netije görkezdi, bu kiçi, ýöne statistiki taýdan manyly tapawutdy ([The Lancet-de FINGER synagy](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Synag demensiýa diagnozlaryny däl-de, synag netijelerini ölçedi.
+The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
+dementia. Half received a two-year program of diet advice, exercise, computer
+brain exercises and checks on heart and blood vessel health; the other half
+received general health advice. The program group did slightly better on a set
+of thinking tests, a small but statistically significant difference
+([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
+trial measured test results, not dementia diagnoses.
 
-### US POINTER (Amerikanyň Birleşen Ştatlary)
+### US POINTER (United States)
 
-US POINTER hereketsiz, az saglyk iýmitlenýän we başga töwekgelçilik faktorlary bolan 60 ýaşdan 79 ýaşa çenli 2,111 uly adamy goşdy. Iki topar hem has köp fiziki we akyl taýdan işjeň bolmaga, has gowy iýmäge, sosial galmaga we ýürek saglygyny gözegçilikde saklamaga höweslendirildi. Bir topar gurluşly, tälimçi bilen programma aldy; beýlekisi özüni ýolbaşçylyk etdi. Iki ýylyň dowamynda pikirlenme synaglarynyň netijeleri **iki toparda hem** gowulaşdy, gurluşly toparda azajyk köp ([JAMA-da US POINTER synagy](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Awtorlar tapawudyň gündelik durmuşda ähmiýetiniň bardygyny bilmek üçin has köp yzarlamanyň gerekdigini aýdýarlar. «Hiç zat etmeýän» topar bolmandygy üçin, synag iki programmanyň hem hiç üýtgemäge deňeşdirilende näçe kömek berendigini aýdyp bilmeýär.
+US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
+healthy diet and had other risk factors. Both groups were encouraged to be more
+physically and mentally active, eat better, stay social and monitor heart
+health. One group got a structured, coached program; the other guided itself.
+Over two years, thinking test results improved in **both** groups, and slightly
+more in the structured group
+([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
+authors say more follow-up is needed to know whether the difference matters in
+daily life. Because there was no "do nothing" group, the trial cannot say how
+much either program helped compared with no change at all.
 
-### SPRINT MIND (gan basyşy)
+### SPRINT MIND (blood pressure)
 
-SPRINT MIND ýokary gan basyşy bolan 50 we ondan uly 9,361 ABŞ uly adamyny öwrendi. Olar has pes gan basyşy maksadyna (ýokarky san 120-den aşak) ýa-da adaty maksada (140-dan aşak) bellendi. Has pes maksat **ýeňil pikirlenme kynçylygyny**, ýagny demensiýadan öň bolup biljek ýat we pikirlenme kynçylyklarynyň tapgyryny manyly derejede azaltdy. **Ähtimal demensiýa** üçin has pes maksat toparynda has az ýagdaý boldy, ýöne tapawut statistiki taýdan manyly däldi. Synag ir bes edildi we garaşylandan az demensiýa ýagdaýy boldy, şonuň üçin ol sorag jogap bermek üçin aşa kiçi bolup biler ([JAMA-da SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
+They were assigned to a lower blood pressure goal (top number under 120) or the
+standard goal (under 140). The lower goal significantly reduced **mild cognitive
+impairment**, a stage of memory and thinking problems that can come before
+dementia. For **probable dementia**, there were fewer cases in the lower-goal
+group, but the difference was not statistically significant. The trial stopped
+early and had fewer dementia cases than expected, so it may have been too small
+to answer that question
+([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### Gözden geçirişleriň jemi
+### What the reviews add up to
 
-2021-nji ýyldaky Cochrane gözden geçirişi birnäçe töwekgelçiligi bir wagtda çözýän programmalaryň 18,000-den gowrak adamly dokuz uly synagyny birleşdirdi. Ol pikirlenme synaglarynda kiçi peýda tapdy, ýöne ony ölçeýän iki synagda **demensiýa duçar bolan adamlaryň sanynda aýdyň tapawut tapylmady** ([köp ugurly çäreler barada Cochrane gözden geçirişi](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+A 2021 Cochrane review pooled nine large trials of programs that tackle several
+risks at once, with more than 18,000 people. It found a small benefit on
+thinking tests, but **no clear difference in how many people developed
+dementia** in the two trials that measured it
+([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-NIA tarapyndan jemlenen 2017-nji ýyldaky National Academies of Sciences, Engineering, and Medicine gözden geçirişi üç çemeleşme üçin «ruhlandyryjy, ýöne netijesiz» subutnama tapdy: ýokary gan basyşyny dolandyrmak, fiziki işjeňligi artdyrmak we pikirlenme okuwy.
+A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
+summarized by the NIA, found "encouraging but inconclusive" evidence for three
+approaches: managing high blood pressure, increasing physical activity, and
+cognitive training.
 
-## Başlamagyň wagty möhümmi?
+## Does it matter when you start?
 
-Lancet Komissiýasynyň maslahaty töwekgelçilikleri mümkin boldugyça ir peseltmek we olary mümkin boldugyça uzak wagt pes saklamakdyr: «has ir, has gowy» we «has uzak, has gowy». Ol şeýle hem töwekgelçiligi azaltmagyň hiç haçan örän ir ýa-da örän giç däldigini aýdýar. Subutnamalaryň köpüsi orta ýaş, takmynan 40-dan 65 ýaşa çenli bilen baglanyşykly, ýöne görüş ýitgisi we sosial ýeke galmak ýaly käbir faktorlar hereketiň entek manyly bolup biljek soňky ýaş töwekgelçilikleridir.
+The Lancet Commission's advice is to lower risks as early as possible and keep
+them low for as long as possible: "the earlier, the better" and "the longer, the
+better." It also says it is never too early or too late to reduce risk. Much of
+the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
+vision loss and social isolation, are later-life risks where action can still
+make sense.
 
-Hasabat indi töwekgelçilige has uzak wagt duçar bolmagyň has uly täsiriniň bardygy barada has güýçli subutnamanyň bardygyny aýdýar. Mysal üçin, orta ýaşda başlanan süýji keseli, has giç başlanan süýji keselinden has möhüm bolup görünýär.
+The report says there is now stronger evidence that longer exposure to a risk
+has a bigger effect. For example, diabetes that starts in midlife appears to
+matter more than diabetes that starts later.
 
-## Demensiýa töwekgelçiligi hemmeler üçin deňmi?
+## Is dementia risk the same for everyone?
 
-Ýok. Komissiýa pes we orta girdejili ýurtlardaky adamlaryň, azlyk toparlaryndan adamlaryň we az pullary bolan adamlaryň köplenç bu töwekgelçilikleriň has köpüsini göterýändigini, şonuň üçin demensiýanyň has ýaş döwürde ösýändigini tapdy. Köp töwekgelçilik adamlaryň saýlamadyk ýagdaýlary bilen baglanyşykly, mysal üçin çagalykda alan mekdep hili, ýaşaýan ýerleriniň howasy we saglyk iýmitiniň elýeterliligi we ýakyndalygy.
+No. The Commission found that people in low- and middle-income countries,
+people from minority groups and people with less money often carry more of
+these risks, so dementia tends to develop at a younger age. Many risks are tied
+to circumstances people did not choose, such as the quality of schooling they
+had as children, the air where they live, and whether healthy food is
+affordable and nearby.
 
-Şonuň üçin Komissiýanyň maslahatlary şahslara görä hökümetlere hem gönükdirilýär: ähli çagalar üçin gowy bilim, arassa howa, çilim çekmegi azaltmak çäreleri, dükanlarda we naharhanalarda satylýan iýmitde az şeker we duz, eşidiş enjamlaryna mätäç her kime eşidiş enjamlary. Şahsy tagalla möhümdir, ýöne adamlaryň ýaşaýan dünýäsi hem şeýle. Bu diagnoz üçin hiç kimi günäkärlemezligiň ýene bir sebäbidir.
+That is why the Commission's recommendations are aimed at governments as much
+as at individuals: good education for all children, cleaner air, measures to
+reduce smoking, less sugar and salt in food sold in stores and restaurants, and
+hearing aids for everyone who needs them. Individual effort matters, but so does the world people
+live in. It is one more reason not to blame anyone for a diagnosis.
 
-## Bu barlagyň dogruçyl çäkleri näme?
+## What are the honest limits of this research?
 
-- **Demensiýa onlarça ýylyň dowamynda ösýär**, emma synaglaryň köpüsi iki-bäş ýyl dowam edýär. Diňe synag netijelerini däl, demensiýanyň özüni ölçemek örän uzak we örän uly barlaglary talap edýär.
-- **Synaglaryň köpüsi pikirlenme synaglaryny ölçeýär.** Synagdaky kiçi gowulanma has az adamyň demensiýa duçar boljakdygyny ýa-da gündelik durmuşyň has aňsat boljakdygyny hökman aňlatmaýar.
-- **Meýletinler köplenç** umumy halkdan has saglam we has bilimlidir. Lancet Komissiýasy subutnamalaryň köpüsiniň entek ýokary girdejili ýurtlardan gelýändigini we azlyk toparlarynyň az wekilçilik edýändigini belleýär.
-- **Käbir baglanyşyklar iki ugurda hem gidýär.** Az işjeň ýa-da az sosial bolmak diňe sebäp däl-de, demensiýanyň ir täsiri hem bolup biler.
-- **Iýmitlenme synaglary entek göwnüňi ýykýar.** MIND iýmitlenişiniň üç ýyllyk synagy gözegçilik iýmitlenişi bilen deňeşdirilende pikirlenmede manyly tapawut tapmady. [Iýmitlenme gollanmamyza](/brain-health/diet/) serediň.
-- **Beýni oýunlarynyň demensiýanyň öňüni alýandygy subut edilmändir.** [Beýni oýunlary we demensiýa](/brain-health/brain-games/) gollanmamyza serediň.
-- **Agyz bekläp saklanmak barada adamlarda subutnama gaty çäklidir** we ol garry adamlar üçin howply bolup biler. [Agyz bekläp saklanmak gollanmamyza](/brain-health/fasting/) serediň.
+- **Dementia takes decades to develop**, but most trials last two to five years.
+  Measuring dementia itself, not just test results, needs very long and very
+  large studies.
+- **Most trials measure thinking tests.** A small improvement on a test does not
+  necessarily mean fewer people will develop dementia or that daily life will be
+  easier.
+- **Volunteers are often healthier** and more educated than the general public.
+  The Lancet Commission notes that most evidence still comes from high-income
+  countries and that minority groups are under-represented.
+- **Some links run both ways.** Being less active or less social can be an early
+  effect of dementia, not only a cause.
+- **Diet trials have been disappointing so far.** A three-year trial of the
+  MIND diet found no significant difference in thinking compared with a control
+  diet. See our [diet guide](/brain-health/diet/).
+- **Brain games are not proven to prevent dementia.** See our guide to
+  [brain games and dementia](/brain-health/brain-games/).
+- **Fasting has very limited human evidence**, and it can be risky for older
+  adults. See our [fasting guide](/brain-health/fasting/).
 
-## Birini hemme zady «dogry» eden bolsa, ol entek näme üçin demensiýa duçar boldy?
+## If someone did everything "right", why did they still get dementia?
 
-Sebäbi demensiýa diňe saýlawlaryň netijesi däl. NIA [ýaşyň Alsgeýmer üçin iň uly belli töwekgelçilik faktorydygyny](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) we ony hiç kimiň üýtgedip bilmejekdigini aýdýar. Genler hem rol oýnaýar. Alymlar entek köp adamda Alsgeýmeriň näme sebäpden döreýändigine doly düşünmeýärler. 14 töwekgelçilik faktorynyň hemmesi aýrylsa-da, Lancet Komissiýasynyň öz çaklamasy ýagdaýlaryň ýarysyndan gowragyny düşündirilmedik galdyrýar.
+Because dementia is not simply the result of choices. The NIA says
+[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+and no one can change it. Genes play a part. And scientists do not yet fully
+understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
+removed, the Lancet Commission's own estimate leaves more than half of cases
+unaccounted for.
 
-Şonuň üçin eger maşk eden, gowy iýen, hiç haçan çilim çekmedik we entek demensiýa duçar bolan adama ideg edýän bolsaňyz, olaryň ýa-da siziň tarapyňyzdan hiç zat ýalňyş bolmady. Eger özüňiz demensiýa bilen ýaşaýan bolsaňyz, bu siziň günäňiz däl. Maşgalalarda günäkärlik duýgusy ýygydyr, ýöne ol mynasyp däl. Häzir möhüm zat rahatlyk, baglanyşyk we gowy günlerdir we [iş pikirlerimiz](/activities/ideas/) hem-de [seredýän adamyň öz-özüne ideg etmek gollanmasy](/caregiving/caregiver-self-care/) başlamak üçin gowy ýerdir.
+So if you are caring for someone who exercised, ate well, never smoked and still
+developed dementia, nothing went wrong on their part, or yours. If you are
+living with dementia yourself, it is not your fault. Guilt is common among
+families, but it is not deserved. What matters now is comfort, connection and
+good days, and our [activity ideas](/activities/ideas/) and
+[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
+to start.
 
-## Lukman bilen haýsy ädimleri maslahatlaşyp bilersiňiz?
+## What steps can you talk over with a doctor?
 
-Bular iň köp öwrenilen ugurlardyr. Olary lukmançylyk barlagynda gozgamaga mynasypdyr, sebäbi olaryň köpüsi demensiýa täsiriniň netijesi nähili bolsa-da, ýürek saglygyna, keýpe we garaşsyzlyga hem kömek edýär.
+These are the areas most often studied. They are worth raising at a checkup
+because most of them help heart health, mood and independence too, whatever
+their effect on dementia turns out to be.
 
-1. **Gan basyşy.** Sanlaryňyzyň näçedigini we size haýsy maksadyň laýyk gelýändigini soraň. Lancet Komissiýasy takmynan 40 ýaşdan başlap ýokarky sanyň 130 ýa-da ondan pes bolmagyny maslahat berýär, ýöne garry adam üçin dogry maksat onuň umumy saglygyna baglydyr.
-2. **Eşidiş.** Eşidiş synagyny we eşidiş enjamlarynyň kömek edip biljekdigini soraň. [Eşidiş gollanmamyz](/brain-health/hearing/) barlagy düşündirýär.
-3. **Görüş.** Yzygiderli göz barlagyndan geçiň we katarakta ýaly kynçylyklaryň bejerilip bilinjekdigini soraň.
-4. **Holesterin.** LDL holesterinyňyzyň barlanmalydygyny we bir zadyň üýtgemelidigini soraň.
-5. **Gandaky şeker.** Süýji keseliňiz bar bolsa, ony howpsuz dolandyrmagy soraň.
-6. **Keýp.** Depressiýa ýygy ýagdaý we bejerilýär. Iki hepdeden köp wagt gaýgyly bolsaňyz ýa-da zatlara gyzyklanmany ýitirseňiz, lukmanyňyza aýdyň.
-7. **Çilim çekmek we alkogol.** Çilim çekmegi taşlamak üçin goldaw we alkogolyň howpsuz çäkleri barada soraň.
-8. **Hereket.** Siziň üçin haýsy iş görnüşiniň howpsuzdygyny soraň. [Maşk gollanmamyzda](/brain-health/exercise/) pikirler bar.
-9. **Kelläni goramak.** Welosiped sürmek we kontakt sportlary üçin şlem geýiň we ýykylmagyň öňüni almak barada soraň.
-10. **Aragatnaşykda galmak.** Başga adamlar bilen wagt geçirmek saglyk durmuşynyň bir bölegidir. [Sosial baglanyşyk](/brain-health/social-connection/) gollanmamyza we [uka](/brain-health/sleep/) hem serediň.
+1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
+   Lancet Commission suggests aiming for a top number of 130 or lower from
+   around age 40, but the right target for an older adult depends on their
+   overall health.
+2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
+   [hearing guide](/brain-health/hearing/) explains the research.
+3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
+   can be treated.
+4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
+   whether anything should change.
+5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
+6. **Mood.** Depression is common and treatable. Tell your doctor if you have
+   felt low or lost interest in things for more than a couple of weeks.
+7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
+   limits for alcohol.
+8. **Movement.** Ask what kind of activity is safe for you. Our
+   [exercise guide](/brain-health/exercise/) has ideas.
+9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
+   about fall prevention.
+10. **Staying connected.** Time with other people is part of a healthy life. See
+    our guide to [social connection](/brain-health/social-connection/), and
+    [sleep](/brain-health/sleep/) too.
 
-Dermanlary, iýmitlenmäni, goşundylary, agyz bekläp saklanmagy ýa-da maşklary üýtgetmezden öň, esasanam ýürek keseli, süýji keseli, ýykylma taryhy bar bolsa ýa-da eýýäm demensiýa bilen ýaşaýan bolsaňyz, ilki lukman bilen gürleşiň.
+Before changing medicines, diet, supplements, fasting or exercise, talk with
+your doctor first, especially if you have heart disease, diabetes, a history of
+falls, or are already living with dementia.
 
-## Lukman bilen gürleşiň
+## Talk with a doctor
 
-Özüňizde ýa-da başga birinde alada edýän ýat ýa-da pikirlenme üýtgeşmelerini görseňiz, wagt belläň. NIA [ýat kynçylyklarynyň başga sebäpleriniň](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) bolup biljekdigini, mysal üçin derman ýan täsirleri, galkan ýaly bezi kynçylyklary, depressiýa ýa-da B12 witaminiň azlygy ýaly, we bu kynçylyklaryň käbiriniň sebäp bejerilenden soň ýitýändigini belleýär. [Duýduryş alamatlary gollanmamyz](/brain-health/warning-signs/) nämä üns bermelidigini düşündirýär.
+If you notice memory or thinking changes that worry you, in yourself or someone
+else, make an appointment. The NIA notes that
+[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+such as medicine side effects, thyroid problems, depression or low vitamin B12,
+and that some of these problems go away once the cause is treated. Our
+[warning signs guide](/brain-health/warning-signs/) explains what to look out
+for.
 
-**Gyssagly kömek alyň** birden bolan üýtgeşmeler üçin: birden bulaşyklyk, bir tarapda gowşaklyk ýa-da uýuşmak, gepleşmekde kynçylyk ýa-da agyr kelle agyrysy insult ýa-da başga gyssagly ýagdaýyň alamatlary bolup biler. Ýerli gyssagly kömek belgisine jaň ediň.
+**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
+on one side, trouble speaking, or a severe headache can be signs of a stroke or
+another emergency. Call 911.
 
-## Golden Moments nirede ýerleşýär
+## Where Golden Moments fits
 
-Golden Moments [gürrüň kartlary](/games/conversation-cards/), [surat bingosy](/games/picture-bingo/) we [rahat dem alyş pauzasy](/games/calm-breathing/) ýaly ýönekeý bilelikdäki işleri ýasaýar. Olar lezzet we bilelikdäki wagt üçindir. Olar bejeriş däl we demensiýanyň öňüni almaýar ýa-da haýalladýar.
+Golden Moments makes simple shared activities, such as
+[conversation cards](/games/conversation-cards/),
+[picture bingo](/games/picture-bingo/) and a
+[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
+together. They are not a treatment, and they do not prevent or slow dementia.

@@ -1,28 +1,32 @@
 ---
-title: "Gaioiga mo Laasaga Muamua o le Dementia"
-seoTitle: "Gaioiga mo le Dementia i Laasaga Muamua: Manatu e Fetaui"
-description: "Manatu o gaioiga mo laasaga muamua o le dementia: faiga, taʻaloga, malaga, tusitusi ma fuafua faatasi, ma suiga laʻiti e fiafia ai le tagata ma pule ia te ia."
+title: "Activities for Early-Stage Dementia"
+seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
+description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  I laasaga muamua o le dementia, e toatele tagata e mafai ona faaauau ona faia mea latou te fiafia i ai: faiga, pepa taʻaloga ma taʻaloga laulau, kuka, faatoʻaga, savali, kalapu, faatuatua ma le auauna. O suiga e masani ona vaega laʻiti, taimi puupuu ma se paaga latalata. Fesili le tagata poʻo le fesoasoani e manaʻo ai, ma tuʻu ia e taitai.
+  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
+  cards and board games, cooking, gardening, walking, clubs, faith and
+  volunteering. The main changes are smaller groups, shorter outings, simple
+  written plans and a partner nearby. Ask the person what help they want,
+  and let them lead.
 keyPoints:
-  - "E toatele tagata i le laasaga muamua e ola saʻoloto. Gaioiga e masani ona manaʻomia le suiga, e le o le sui atoatoa."
-  - "Fesili le tagata poʻo le fesoasoani e manaʻo ai, ma filifili se upu poʻo se faailoga e malamalama ai pe a mafai ona auai."
-  - "Vaega laʻiti, taimi filemu ma malaga puupuu e masani ona faia le eseesega tele."
-  - "O se taimi lelei lea mo le tagata e taitai ai galuega e uiga i ana lava olaga, e pei o se tusi faamanatu poʻo tusi tala o le olaga."
-  - "Filifili taʻaloga mo le fiafia. Aua le filifili se mea e foliga ai o se suʻesuʻega."
+  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
+  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
+  - "Smaller groups, quieter times and shorter outings often make a big difference."
+  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
+  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
 faq:
-  - q: "O ā gaioiga e lelei mo le dementia i le laasaga muamua?"
-    a: "E masani ona tutusa ma mea na fiafia ai le tagata muamua: taʻaloga pepa ma taʻaloga laulau, kuka, faatoʻaga, savali, musika ma pese, faatuatua ma kalapu ma le auauna. E mafai ona e faia ia puupuu, filemu poʻo faigofie. O tusitusi o faamatalaga, tusitusi tala ma le faia o se tusi tala o le olaga e fetaui foi ma lenei laasaga."
-  - q: "E faapefea ona ou fesoasoani e aunoa ma le pule uma?"
-    a: "Fesili po o le ā le fesoasoani e manaʻo le tagata, ma siaki i taimi masani. Fuafua se upu poʻo se faailoga e uiga i le faamanuia ina ia ulu i totonu, e pei o le taimi e le alu ai se igoa i se taʻaloga pepa. Afai e leai se tulaga o le saogalemu, tuʻu latou e faia i lona auala, e ui lava e umi."
-  - q: "E tatau ea ona taumafai le tagata i gaioiga fou pe a faailoaina le dementia i le laasaga muamua?"
-    a: "Ioe, pe a fiafia. O gaioiga masani e sili ona faigofie, ae e toatele tagata e fiafia i se mea fou e pei o se vaega savali o le dementia, se aʻoaʻoga ata poʻo se vaega pese. Taumafai le tasi taimi e aunoa ma le faalavelave ma vaai pe faapefea ona lagona."
-  - q: "E aoga ea taʻaloga o le mafaufau i le laasaga muamua?"
-    a: "E toatele tagata e fiafia i puzzle ma taʻaloga upu, ma o lena fiafia e taua lava. E leai se taʻaloga po o se polokalama na faaalia e togafitia, faaitiitia poʻo taofia le dementia. Afai o se taʻaloga e faalavelave ai le tagata ma lagona e pei o le faaleagaina, faasolo ese."
+  - q: "What activities are good for early-stage dementia?"
+    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
+  - q: "How can I help without taking over?"
+    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
+  - q: "Should someone with early dementia try new activities?"
+    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
+  - q: "Are brain-training apps worth it in the early stage?"
+    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -44,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-I le laasaga muamua o le dementia, e toatele tagata e ola tutusa ma le auala muamua. E mafai ona latou galue, faia se galuega faʻaagafesootai, asiasi uo ma taʻalo o le tele o latou aso lava ia. E masani ona le manaʻomia ona suia gaioiga, ae e manaʻomia ni suiga laʻiti ina ia tumau ai le fiafia. O lou matafaioi e foliga mai o se paaga nai lo se tausi: o se tasi e lagolago, fuafua faatasi ma i latou, ma e ulu i totonu naʻo pe a valaaulia.
+In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
 
-## O ā gaioiga e lelei i le laasaga muamua o le dementia?
+## What activities are good in early-stage dementia?
 
-O gaioiga sili i le laasaga muamua e masani ona o mea o loo fiafia ai le tagata, ua faigofieina itiiti. Le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lisi ai manatu e pei o taʻaloga pepa ma taʻaloga laulau, suʻesuʻega upu, savali, siva, faatoʻaga, faʻaaliga o fugalaʻau, tala, faia ata, musika, tusitusi faamatalaga, tusitusi tala, faia album o le olaga, kuka ma tu o aso faafeiloaʻiga.
+The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
 
-O le mea e masani ona suia o le setiina, e le o le gaioiga. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) taʻu mai e masani ona amata tagata i le laasaga muamua ona toe tuʻu mea na fiafia ai, ma faaʻata se faʻataʻitaʻiga o se tasi e lagona le lotolotolua i se pati tele ae sili ona lelei i se vaega laʻiti. Talanoa tatala e uiga i mea e faigata, ma faia suiga faatasi.
+What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
 
-## Fesili muamua, ma fuafua e fesoasoani faatasi
+## Ask first, and agree on how to help
 
-O le [taʻiala a le Alzheimer's Association mo le laasaga muamua](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) fautua nisi o mea e aoga foi mo gaioiga:
+The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
 
-- **Fesili tuusaʻo.** "O le ā e faigofie ai ai le kalapu tusi mo oe?" e sili atu le tali nai lo le faʻatalitali.
-- **Manatu latou te mafai.** Afai e leai se tulaga o le saogalemu, ia taumafai le tagata, ma tuʻu le faamalosia nai lo le faaaʻoa atu faatoʻilaloina.
-- **Fuafua se faailoga.** Filifili se upu poʻo se tulituli e uiga i "e mafai ona e ulu atu", e pei o le taimi e le alu ai se igoa i se taʻaloga pepa.
-- **Siaki masani.** Fesili pe tatau le aofaʻi o le fesoasoani, e tele tele poʻo e itiiti.
+- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
+- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
+- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
+- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
 
-## Manatu o gaioiga mo le laasaga muamua
+## Activity ideas for the early stage
 
-### Tumau faiga ma galuega masani
+### Keep up roles and hobbies
 
-- **Tumau le tiute masani.** Se galuega faaaogā o volunteer i le vaiaso, pese poʻo kalapu e tuʻu ai se faiga i le vaiaso. Afai e faigata, se galuega laʻiti poʻo filemu e sili atu.
-- **Fuafua meaʻai faatasi.** Afai o le faatau meaʻai ua faigata, o le Alzheimer's Association fautua fesili i le tagata e fesoasoani i le fuafuaga o le vaiaso ma tusia le lisi.
-- **Kuka ma faia keke.** Mulimuli i se faiga masani faatasi. Tuʻu meaʻai i le faasologa muamua ina ia vaaia laasaga.
-- **Faatoʻaga.** Fuafua se mea, filifili fuata poʻo laau ma faia galuega faatasi. O se lisi tusi o galuega o le vaiaso e fesoasoani.
-- **Tumau se galuega lima.** Galuega faiga fuʻa, lalaga, faʻatalaina poʻo faia fale manu e mafai ona faaauau ma faiga faigofie ma malamalama lelei.
+- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
+- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
+- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
+- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
+- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
 
-### Taʻaloga mo le fiafia
+### Games for enjoyment
 
-- **Taʻalo taʻaloga pepa ma taʻaloga laulau.** Taʻaloga masani e sili ona faigofie. Taʻalo i vaega ina ia leai se tasi e faalavelave, ma tuʻu se numera ma le leai pe a manaʻo.
-- **Taumafai se suʻesuʻega upu tetele.** O le [word search](/games/word-search/) a matou e mafai ona taʻalo i luga o le masini poʻo lolomi mo se taimi filemu.
-- **Faia puzzle.** Filifili le aofaʻi o vaega e malolo ai, aua le faigata. [Picture puzzle](/games/picture-puzzle/) o se faʻataʻitaʻiga puupuu i luga o le masini, ma le taʻiala a matou i [puzzle mo le dementia](/activities/puzzles/) e faʻaali ai le filifiliga.
-- **Auai i taʻaloga trivia mo le fiafia.** O nisi tagata e fiafia i le trivia o vaega. Afai e amata ona faigata, filifili se mea eseese, poʻo taumafai i [fesili trivia faigofie](/activities/trivia/), e i ai tali filifiliga ma e leai se sikoa.
+- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
+- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
+- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
+- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
 
-Taʻaloga mo le fiafia iinei. E leai se taʻaloga na faaalia e togafitia poʻo faaʻitiitia ai le dementia; faitau mai [taʻaloga o le mafaufau: le mea o loo faaalia e le suʻesuʻega](/brain-health/brain-games/).
+Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
 
-### Tusitusi, faamatalaga ma le faamaumau
+### Write, reflect and record
 
-- **Tumau le tusi faamatalaga.** O le Alzheimer's Association fautua tusi faamatalaga e avea ma auala e faagaʻo ai lagona ina ua maeʻa le faailoaina. O se laina poʻo ni upu i aso taʻitasi e lava.
-- **Taʻitaʻi se tusi tala o le olaga.** O le laasaga muamua o se taimi lelei mo le tagata e filifili ana lava ata ma tusia poʻo faamatala tala o i ai. Vaai i [gaioiga o le toe manatuina](/activities/reminiscence/).
-- **Tusi tusi.** O se tusi i se mokopuna, se uo anamua poʻo se paaga galuega e mafai ona taua mo itu uma.
-- **Faitau ata faatasi.** [Photo pairs](/games/photo-pairs/) e liliu ai ata o le aiga i se taʻaloga fetaui faigofie, ma [conversation cards](/games/conversation-cards/) o loo ofo ai amataga faigofie mo se talanoa.
+- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
+- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
+- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
+- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
 
-### Alu i fafo ma gaosi
+### Go out and move
 
-O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fautua faaauau malaga masani pe a fiafia ua tatou uma. Fuafua i le taimi sili o le tagata ma aua le faaumi.
+The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
 
-- **Malaga aganuu puupuu.** Faleaiga, se faʻaaliga poʻo se faʻaaliga o ata, i se taimi filemu pe a le tele tagata.
-- **Faafefe i le vai.** O le NIA fautua faafefe i le vai poʻo le faleʻau vai i se taimi filemu o le aso.
-- **Malaga savali ma aʻoaʻoga siva.** O le [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) lisi siva, tai chi, yoga, faafefe i le vai ma kulupu savali, ma aʻoaʻoga faigofie mo le dementia pe a avanoa.
-- **Vaega o pese ma nofoaga faʻaagafesootai.** Vaega malū lea e mafai ai ona feiloaʻi tagata ma le dementia ma o latou paaga ma isi o loo i ai i se tulaga tutusa.
+- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
+- **Swimming.** The NIA suggests a pool during a slow time of day.
+- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
+- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
 
-## Suiga laʻiti e faafiafia ai gaioiga
+## Small changes that keep activities enjoyable
 
-| Afai e faigata | Taumafai i lenei |
+| If this is getting harder | Try this |
 | --- | --- |
-| Nofoaga e tele tagata poʻo leo | Alu i taimi filemu, filifili vaega laʻiti, nofo i le pito o le potu |
-| Manatu i igoa fou | Faailoa tagata i igoa i taimi uma; fesili vaega e faaaoga ai faailoga igoa |
-| Mulimuli i fuafuaga e tele laasaga | Tusia laasaga, poʻo setiina mea uma i le faasologa muamua |
-| Ua malaia | Malaga puupuu, malolo ina ua maeʻa, leai se isi galuega fuafuaina i le aso |
-| Tausia le faasologa i se taʻaloga | Taʻalo i vaega, faʻafaigofieina tulafono, poʻo aveese le faitau sikoa |
-| Su'e upu | Tuʻu le taimi; ofo se upu naʻo pe a fai mai le faailoga na malilie i ai |
+| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
+| Remembering new names | Introduce people by name each time; ask groups to use name tags |
+| Following multi-step plans | Write the steps down, or lay out everything in order first |
+| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
+| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
+| Finding words | Allow time; offer a word only if your agreed signal says to |
 
-## O le ā le taimi e tatau ai ona faamalolo?
+## When to slow down
 
-Taofi poʻo suia se gaioiga pe a sili atu le faalavelave nai lo le fiafia. O faalavelave e toe faʻafeagai ai, le aloese mai se gaioiga, poʻo le fai mai "Ou te le mafai tena" e tatau ona talanoa ai ma le alofa, ae aua le faamalosia. Masani lava, o le tali o se faiga laʻiti o le mea tutusa. Pe a manaʻomia e le tagata sili atu le fesoasoani e amata ma faasolo laasaga, o manatu i [gaioiga o le laasaga waenā](/activities/middle-stage/) e mafai ona fetaui sili atu. Mo talanoa lagolago, vaai i [fesoʻotaʻiga](/caregiving/communication-tips/), ma mo manatu sili atu, vaai i [101 gaioiga](/activities/ideas/).
+Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
 
-E manaʻomia foi e paaga le lagolago. O le laasaga muamua o se taimi lelei e fausia ai lau lava faʻalagolago; vaai i [tausia o oe lava](/caregiving/caregiver-self-care/).
+Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).

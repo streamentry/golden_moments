@@ -1,35 +1,33 @@
 ---
-title: "Meaʻai MIND ma Mediterranean ma le Dementia: O le Ā e Taʻu e le Suʻesuʻega"
-seoTitle: "Meaʻai MIND ma le Dementia: O le Ā e Taʻu e le Suʻesuʻega"
-description: "O le ā e taʻu e suʻesuʻega e uiga i meaʻai MIND ma Mediterranean ma le dementia, ma le fesoasoani e ʻai lelei ai se tagata o loo ola ma le dementia."
+title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
+seoTitle: "MIND Diet and Dementia: What the Research Says"
+description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  O suʻesuʻega e mataʻituina ai tagata i le tele o tausaga e fesootaʻi ai le
-  faiga o meaʻai Mediterranean ma MIND ma le lamatiaga maualalo o le dementia,
-  ae e lē tutusa i taimi uma. O se suʻesuʻega faʻataʻitaʻi e tolu tausaga o le
-  meaʻai MIND, na lomia i le 2023, e leʻi maua ai se eseesega taua i le
-  mafaufau po o ata o le faiʻai pe a faatusatusa ma se meaʻai faʻatusa. E leai
-  se meaʻai po o se vailaʻau faʻaopoopo ua faamaonia e puipuia ai le dementia.
-  Mo tagata o loo ola ma le dementia, o le ʻai ma le inu lava e lava e sili ona
-  taua.
+  Observational studies link Mediterranean-style and MIND diets with lower
+  dementia risk, but not consistently. A three-year randomized trial of the MIND
+  diet, published in 2023, found no significant difference in thinking or brain
+  scans compared with a control diet. No food or supplement is proven to prevent
+  dementia. For people living with dementia, eating and drinking enough matters
+  most.
 keyPoints:
-  - "O nisi suʻesuʻega, ae lē o suʻesuʻega uma, e mataʻituina ai tagata i le tele o tausaga, e fesootaʻi ai faiga o meaʻai Mediterranean ma MIND ma le lamatiaga maualalo o le dementia."
-  - "I se suʻesuʻega i le 2023 o tagata matutua e 604, e leʻi sili atu le lelei o tagata na ʻai i le meaʻai MIND i tofotofoga o le mafaufau po o ata o le faiʻai nai lo tagata na ʻai i se meaʻai faʻatusa, ina ua mavae le tolu tausaga."
-  - "Ua fai mai le National Institute on Aging e leai se faamaoniga e mafai ona puipuia ai le Alzheimer i le ʻai pe le ʻai o se meaʻai patino, ma e leai se vitamini po o se vailaʻau faʻaopoopo ua faamaonia e puipuia ai."
-  - "O se meaʻai e tele ai fualaʻau, fualaau aina, pī, saito atoa ma iʻa e lagolagoina ai le soifua maloloina o le fatu, ma atonu e fesoasoani i lamatiaga e pei o le maualuga o le mamafa o le toto ma le maʻi suka."
-  - "Mo tagata o loo ola ma le dementia, e masani ona sili atu le taua o meaʻai e mafai ona faʻaaogā i le lima, ipu e eseese lanu, taimi o meaʻai e filemu, ma vaiinu e masani ai nai lo se meaʻai patino."
+  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
+  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
+  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
+  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
+  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
 faq:
-  - q: "E puipuia ea le dementia i le meaʻai MIND?"
-    a: "E leʻi faamaonia lea. O suʻesuʻega na mataʻituina ai tagata na fesootaʻi ai le meaʻai MIND ma le lamatiaga maualalo, ae o se suʻesuʻega faʻataʻitaʻi e tolu tausaga na lomia i le 2023 e leʻi maua ai se eseesega taua i taunuuga o tofotofoga o le mafaufau po o ata o le faiʻai i le va o tagata na ʻai i le meaʻai MIND ma tagata na ʻai i se meaʻai faʻatusa. Na toe lelei sina vaega uma e lua ma na tutusa le mamafa na leiloa."
-  - q: "O le ā le eseesega o le meaʻai MIND ma le meaʻai Mediterranean?"
-    a: "O le meaʻai Mediterranean e faamamafaina ai fualaʻau, fualaau aina, saito atoa, pī, iʻa ma le suauʻu olive, ma sina aano o manufasi mumu ma mea suamalie e itiiti. O le meaʻai MIND e tuufaatasia ai ma le meaʻai DASH mo le mamafa o le toto, ma faʻaopoopo ai le faamamafa i fualaʻau lau lauaitu ma fua o vaomatua, aʻo faatapulaʻaina aano o manufasi mumu, mea suamalie, sisi, pata ma meaʻai falaina."
-  - q: "E i ai ea meaʻai po o vailaʻau faʻaopoopo e puipuia ai le Alzheimer?"
-    a: "ʻE leai. Ua fai mai le National Institute on Aging e leai se faamaoniga e mafai ona puipuia ai le Alzheimer, po o le faaitiitia o le mafaufau e mafua i le matua, i le ʻai pe le ʻai o se meaʻai patino, ma e leai se vitamini po o se vailaʻau faʻaopoopo ua faamaonia e puipuia ai le Alzheimer. Talanoa i se fomaʻi a o lei inu se vailaʻau faʻaopoopo."
-  - q: "O ā meaʻai e sili ona faigofie ona ʻai e se tagata o loo ola ma le dementia?"
-    a: "O meaʻai laiti e mafai ona faʻaaogā i le lima e pei o fasi falaoa sanuisi, fasi moa, vaega o moli po o fasi fualaʻau ua togi i le ausa e masani ona sili atu le faigofie nai lo le faʻaaogā o naifi ma foʻi. Afai e faigata le ama po o le folo, e mafai ona fesoasoani meaʻai vaivai e pei o fuamoa ua faʻatafe, apu ua fofola ma sisi paluga. Fesili i le fomaʻi e uiga i se iloiloga o le folo pe a tupu le tale po o le tagofia."
+  - q: "Does the MIND diet prevent dementia?"
+    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
+  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
+    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
+  - q: "Are there foods or supplements that prevent Alzheimer's?"
+    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
+  - q: "What foods are easiest for someone with dementia to eat?"
+    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -60,182 +58,168 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-Atonu na e faitau e mafai e se meaʻai ʻe lelei mo le faiʻai ona taofia ai le Alzheimer. E sili atu le tonu o le tulaga moni. O nisi faiga o meaʻai e fesootaʻi ma se lamatiaga maualalo i suʻesuʻega e mataʻituina ai tagata i le tele o tausaga, ae o le suʻesuʻega sili ona lelei e oo mai i le taimi nei e leʻi maua ai se aogā manino. E faamatalaina e lenei itulau mea uma e lua, ona alu atu ai lea i mea e masani ona sili ona taua mo se tagata ua ola ma le dementia: o le ʻai ma le inu lava e lava, ma le fiafia i ai.
+You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
+real picture is more modest. Some eating patterns are linked with lower risk in
+studies that follow people over time, but the best trial so far did not find a
+clear benefit. This page explains both, then turns to what usually matters most
+for someone already living with dementia: eating and drinking enough, and
+enjoying it.
 
-O faamatalaga lenei e lautele, e lē o se fautuaga faafomaʻi. Talanoa i se fomaʻi po o se tagata tomai faapitoa i meaʻai a o lei suia lau meaʻai po o le meaʻai a se isi. Tagai i la matou [faamatalaga e uiga i fautuaga faafomaʻi](/medical-disclaimer/).
+This is general information, not medical advice. Talk with a doctor or
+registered dietitian before changing your diet or someone else's. See our
+[medical disclaimer](/medical-disclaimer/).
 
-## O le ā le meaʻai Mediterranean ma le meaʻai MIND?
+## What are the Mediterranean and MIND diets?
 
-E faamatala e le National Institute on Aging (NIA) i lenei auala
-([NIA e uiga i meaʻai ma le Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+The National Institute on Aging (NIA) describes them this way
+([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Meaʻai Mediterranean:** e tele fualaau aina, fualaʻau, saito atoa, pī, iʻa
-  ma meaʻai o le sami, ma le suauʻu olive, ae itiiti aano o manufasi mumu, fuamoa
-  ma mea suamalie.
-- **Meaʻai MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  o se tuufaatasiga o le meaʻai Mediterranean ma le meaʻai DASH mo le mamafa o
-  le toto. E aofia ai fualaʻau, aemaise lava fualaʻau lau lauaitu; fua o
-  vaomatua; saito atoa; pī; iʻa e le itiiti ifo i le tasi i le vaiaso; ma
-  suauʻu olive. E faatapulaʻaina ai aano o manufasi mumu, mea suamalie, sisi,
-  pata po o malasini, ma meaʻai falaina po o meaʻai vave.
+- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
+  fish and seafood, and olive oil, with low amounts of red meat, eggs and
+  sweets.
+- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
+  features vegetables, especially green leafy ones; berries; whole grains;
+  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
+  sweets, cheese, butter or margarine, and fried or fast food.
 
-## E faaititia ea e nei meaʻai le lamatiaga o le dementia?
+## Do these diets lower dementia risk?
 
-E tuufaatasi le faamaoniga. Ua fai mai le NIA e fesootaʻi e nisi suʻesuʻega, ae
-lē o suʻesuʻega uma, e mataʻituina ai tagata, meaʻai Mediterranean ma MIND ma le
-lamatiaga maualalo o le dementia pe a faatusatusa ma se meaʻai a le Sisifo e tele
-ai aano o manufasi mumu, ona saturated ma suka.
+The evidence is mixed. The NIA says some, but not all, observational studies
+have linked the Mediterranean and MIND diets with lower dementia risk compared
+with a Western-style diet higher in red meat, saturated fat and sugar.
 
-Na iloilo e le Lancet Commission o le 2024 le suʻesuʻega ma le sili atu le auiliiliga
+The 2024 Lancet Commission reviewed the research in more detail
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- O se iloiloga o suʻesuʻega o vaega o tagata na fesootaʻi ai le lelei o meaʻai
-  ma le tusa ma le 20% maualalo o le lamatiaga o le dementia.
-- O se auiliiliga sili atu o vaega e tolu na fesootaʻi ai le pipii latalata i le
-  meaʻai MIND ma le lamatiaga maualalo.
-- Ae o se suʻesuʻega a Suetena na mataʻituina ai tagata e 28,025 o loo i le
-  ogatotonu o o latou tausaga mo le tusa ma le 20 tausaga e leʻi maua ai se
-  lamatiaga maualalo i meaʻai e fautuaina po o se meaʻai e pei o le Mediterranean.
+- One review of cohort studies linked high diet quality with about a 20% lower
+  risk of dementia.
+- A larger analysis of three cohorts linked closer adherence to the MIND diet
+  with lower risk.
+- But a Swedish study that followed 28,025 middle-aged people for about 20 years
+  found no lower risk with either recommended diets or a Mediterranean-style
+  diet.
 
-E le mafai e suʻesuʻega e mataʻituina ai tagata ona faamaonia le mafuaʻaga ma le
-taunuuga. O tagata e ʻai i lea faiga e masani ona eseese i isi itu foi, e pei o
-tupe maua, aʻoaʻoga, faʻamalositino ma le maua o auaunaga faafomaʻi. Na faaiʻu
-le Commission e leai se faamaoniga e lava e fai atu ai e puipuia saʻo e meaʻai
-lelei le dementia, e ui e lelei le ʻai o fualaau aina ma fualaʻau e tele ma
-meaʻai e faʻaaogaina e itiiti, mo le tele o tulaga o le soifua maloloina, ma
-e aʻafia ai lamatiaga e pei o le tino mafiafia, maʻi suka ma le maualuga o le
-mamafa o le toto. Na te leʻi faaopoopoina le meaʻai i lana lisi o
-[lamatiaga e 14](/brain-health/risk-factors/).
+Observational studies cannot prove cause and effect. People who eat this way
+often differ in other ways too, such as income, education, exercise and access
+to health care. The Commission concluded that there is not enough evidence to
+say healthy diets directly prevent dementia, though eating plenty of fruit and
+vegetables and fewer ultra-processed foods is good for many health conditions
+and affects risk factors such as obesity, diabetes and high blood pressure. It
+did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
 
-## O le ā na maua i le suʻesuʻega o le meaʻai MIND i le 2023?
+## What did the 2023 MIND diet trial find?
 
-O le suʻesuʻega sili ona malosi e oo mai i le taimi nei o se suʻesuʻega
-faʻataʻitaʻi na lomia i le New England Journal of Medicine i le 2023
-([suʻesuʻega o le meaʻai MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+The strongest test so far was a randomized trial published in the New England
+Journal of Medicine in 2023
+([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **O ai:** 604 tagata matutua e 65 tausaga ma sili atu i le itu o Chicago ma
-  Boston, e leai ni faigata o le mafaufau, e i ai se aiga latalata e ola ma le
-  dementia, e mafiafia, ma e le tele le lelei o a latou meaʻai i le amataga.
-- **O le ā:** mo le tolu tausaga, o le afa na ʻai i le meaʻai MIND ma le isi afa
-  na tausia a latou meaʻai masani. Na talosagaina vaega uma e lua e faaititia
-  le tusa ma le 250 kalori i le aso ma maua ai le faatonuga masani mai tagata
-  tomai faapitoa i meaʻai.
-- **Taunuuga:** na toe lelei sina vaega uma e lua i tofotofoga o le mafaufau.
-  O le eseesega i le va o vaega e lua e itiiti, ma **e leʻi taua i le
-  fuainumera**. Na faaalia foi e ata o le faiʻai ni suiga tutusa i vaega uma e
-  lua.
-- **Mamafa:** na leiloa e vaega uma e lua le tusa ma le 5 kilokalama (e tusa ma
-  le 11 pauna).
+- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
+  thinking problems, who had a close relative with dementia, were overweight,
+  and had a less healthy diet to begin with.
+- **What:** for three years, half followed the MIND diet and half followed
+  their usual diet. Both groups were asked to eat about 250 fewer calories a
+  day and got regular coaching from registered dietitians.
+- **Result:** thinking test results improved slightly in **both** groups. The
+  difference between the groups was small and **not statistically
+  significant**. Brain scans also showed similar changes in both groups.
+- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
 
-### Aiseā e ono leʻi maua ai se eseesega i le suʻesuʻega?
+### Why might the trial have found no difference?
 
-Na taʻu mai e le au suʻesuʻe ni mafuaʻaga se ia. Atonu na toe lelei foi le
-meaʻai a le vaega faʻatusa, auā na tutusa le mamafa na leiloa. E mafai foi e
-tofotofoga toe faia ona faaleleia ai taunuuga, auā e masani tagata i
-tofotofoga. Atonu e puupuu tele le tolu tausaga. O le tele o tagata na auai
-e maualuga a latou aʻoaʻoga ma e tupuga mai Europa, o lea atonu e lē tutusa
-taunuuga mo tagata uma.
+The researchers suggested several reasons. The control group probably improved
+its diet too, since it lost a similar amount of weight. Repeated testing can
+improve results on its own, as people get used to the tests. Three years may
+be too short. Most participants were well-educated and of European descent, so
+the results may not apply to everyone.
 
-O le aotelega moni, o le meaʻai MIND e leʻi sili atu nai lo se meaʻai talafeagai
-ua faaititia kalori i le tolu tausaga. E lē i ai lona uiga e leai se aogā o le
-ʻai lelei. E uiga lava e le tatau i se tasi ona faamoemoe e puipuia e se meaʻai
-patino le dementia.
+So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
+diet over three years. That does not mean healthy eating is pointless. It means
+no one should expect a specific diet to prevent dementia.
 
-## Ae a meaʻai patino ma vailaʻau faʻaopoopo?
+## What about specific foods and supplements?
 
-Ua fai mai le NIA e leai se faamaoniga e mafai ona puipuia ai le Alzheimer, po o
-le faaititia o le mafaufau e mafua i le matua, i le ʻai pe le ʻai o se meaʻai
-patino. Ua suʻesuʻeina fua o vaomatua, fualaʻau lau lauaitu ma le tumeriki, ae
-leai se faamaoniga. Ua fai mai foi le NIA e leai se vitamini po o se vailaʻau
-faʻaopoopo ua faamaonia e puipuia ai le Alzheimer, ma e leai se mea e fautuaina
-mo lea faamoemoega. Ua lapataia e le NIA e ono lē saogalemu oloa e lē i ai se
-faamaoniga o loo faatauina e puipuia ai le Alzheimer, po o le tupe e faʻaumatia
-fua, po o mea uma e lua, ma e mafai ona faalavelave i vailaʻau a le fomaʻi, o
-lea ia siaki i le fomaʻi a o lei faʻaaogā se tasi
-([NIA e uiga i le puipuia o le Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+The NIA says there is no evidence that eating or avoiding a specific food can
+prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
+and turmeric have all been studied, without proof. The NIA also says no vitamin
+or supplement has been proven to prevent Alzheimer's, and none is recommended
+for that purpose. The NIA warns that unproven products sold to prevent
+Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
+prescribed medicines, so check with a doctor before trying any
+([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## E faapefea ona tumau le ʻai lelei ma le fiafia i ai?
+## How can eating stay healthy and enjoyable?
 
-Mo le tele o tagata matutua, o le sini o meaʻai e lelei mo le tino, masani ma
-fiafia i ai, ae lē o se fuafuaga malosi:
+For most older adults, the aim is food that is nourishing, familiar and
+pleasant, not a strict plan:
 
-- **Faia meaʻai e faavae i meaʻai e te fiafia i ai** mai le faiga o meaʻai
-  Mediterranean: fualaʻau, fualaau aina, pī, saito atoa, iʻa ma le suauʻu olive.
-- **Tausia meaʻai suamalie e fiafia i ai.** E taua le fiafia ma le fia ʻai,
-  aemaise lava i le tuai o le olaga.
-- **ʻAi faatasi ma isi** pe a mafai. O meaʻai e faasoa e lelei mo le faigauo.
-- **Kuka faatasi.** O le fufulu o fualaʻau po o le ʻaʻau o se ipu kuka o se
-  gaioiga lelei e faasoa; tagai i [galuega i le fale](/activities/household-tasks/).
-  O se fua kuka a le aiga e fiafia i ai e mafai foi ona faaosofia ai
-  [faamanatuga](/activities/reminiscence/).
+- **Build meals around foods you like** from the Mediterranean pattern:
+  vegetables, fruit, beans, whole grains, fish and olive oil.
+- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
+  life.
+- **Eat with others** when you can. Shared meals are good company.
+- **Cook together.** Washing vegetables or stirring a pot is a good shared
+  activity; see [household tasks](/activities/household-tasks/). A favorite
+  family recipe can also spark [reminiscence](/activities/reminiscence/).
 
-E le tatau i tagata matutua ona faaititia kalori po o le leiloa o le mamafa
-e aunoa ma le talanoa i se fomaʻi, ma o le anapogi e iai lamatiaga faaopoopo.
-Tagai i la matou [taiala e uiga i le anapogi](/brain-health/fasting/).
+Older adults should not cut calories or lose weight without talking to a
+doctor, and fasting carries extra risks. See our
+[fasting guide](/brain-health/fasting/).
 
-## E mafai faapefea ona fesoasoani i se tagata o loo ola ma le dementia e ʻai lelei?
+## How can you help someone with dementia eat well?
 
-Mo tagata o loo ola ma le dementia, o le ʻai ma le inu **lava e lava** e masani
-ona avea ma popolega autū. Ua taʻua e le Alzheimer's Association e mafai ona galo
-i tagata le ʻai, mafaufau ua uma ona ʻai, po o le lagona le faigata i le tele o
-filifiliga, ma o le lē lelei o meaʻai e mafai ona faʻateleina ai faʻailoga o
-amioga ma mafua ai le leiloa o le mamafa
-([Alzheimer's Association e uiga i meaʻai ma le ʻai](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-O nei manatu e mai le Alzheimer's Association, le NIA ma le Alzheimer's Society:
+For people living with dementia, eating and drinking **enough** is usually the
+main concern. The Alzheimer's Association notes that people may forget to eat,
+think they have already eaten, or feel overwhelmed by choices, and that poor
+nutrition may increase behavioral symptoms and cause weight loss
+([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
+Society:
 
-1. **Tuuina atu meaʻai e faʻaaogā i le lima.** O vaega laiti e faigofie ona
-   pikiina, e pei o fasi sanuisi, fasi moa, tasi o iʻa ua falaina, vaega o moli
-   po o broccoli ua togi i le ausa, e mafai ai ona ʻai e le tagata e aunoa ma
-   naifi ma foʻi.
-2. **Faaaoga le eseesega o lanu i luga o le laulau.** O suiga o le vaaiga e
-   mafai ona faigata ai ona iloa le meaʻai mai le ipu. E mafai ona fesoasoani
-   ipu pe ipu laulaupapa pa e paʻepaʻe i luga o se fala e eseese le lanu. Aua
-   le faʻaaogā ipu ma ie laulau e i ai ata.
-3. **Tuuina atu le tasi pe lua meaʻai i le taimi e tasi.** E mafai ona faigata
-   i se ipu tumu.
-4. **Faafilemu taimi o meaʻai.** Tape le televise, tausia le laulau e faigofie,
-   ma tuu se taimi e lava. Ua fautuaina e le NIA e aua le faava'ava'ai pe
-   tuleia.
-5. **Tuuina atu meaʻai laiti ma meaʻai mama e masani ai.** Ua fautuaina e le
-   NIA ni meaʻai laiti e masani ai ma ni meaʻai mama e tele kalori pe afai e
-   leʻi lava le ʻai a le tagata
-   ([fautuaga a le NIA mo le ʻai lelei](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Fesoasoani i le inu.** Tuuina atu ipu laiti o vai po o isi vaiinu i le
-   aso atoa, faatasi ma meaʻai e tele ai vai e pei o fualaau aina, supo,
-   susu aisa ma smoothie. Afai e lē manaʻo le tagata i le vai, ua fautuaina e
-   le NIA le tofotofoina o le sua o fua, vai e i ai se tofo, supo, susu, po o
-   kofe po o lauti e leai se kafeini.
-7. **Siaki le vevela.** Atonu e lē iloa e se tagata ua vevela tele se meaʻai po
-   o se vaiinu.
-8. **Suia ipu ma ipu inu.** O ipu loloto nai lo ipu papa, sipuni e tele le
-   mea e uuina ai, ma ipu inu e i ai ni ufi e mafai ona faigofie ai le ʻai. Aua
-   le popole i le mama.
-9. **Faigofie ai le ama ma le folo o meaʻai.** Tipi meaʻai i vaega laiti po o
-   le tuuina atu o meaʻai vaivai. Afai e tale pe tagofia le tagata pe a ʻai,
-   ia taʻu i lona fomaʻi.
-10. **Aua le faamalosia le ʻai.** Ua taʻua e le NIA e faaititia faanatura le
-    fia ʻai i vaitau mulimuli o le Alzheimer.
+1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
+   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
+   broccoli, let a person feed themselves without cutlery.
+2. **Use contrast on the table.** Changes in vision can make it hard to tell
+   food from plate. White plates or bowls on a contrasting place mat can help.
+   Avoid patterned dishes and tablecloths.
+3. **Serve one or two foods at a time.** A full plate can be overwhelming.
+4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
+   plenty of time. The NIA suggests not rushing or pushing.
+5. **Offer small meals and snacks often.** The NIA suggests smaller, more
+   frequent meals and calorie-rich snacks if the person is not eating enough
+   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Help with drinking.** Offer small cups of water or other drinks through
+   the day, plus foods with lots of water such as fruit, soup, milkshakes and
+   smoothies. If the person does not want water, the NIA suggests trying juice,
+   flavored water, broth, milk, or decaf coffee or tea.
+7. **Check temperature.** A person may not notice that food or a drink is too
+   hot.
+8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
+   handles, and cups with lids can make eating easier. Do not worry about
+   neatness.
+9. **Make food easier to chew and swallow.** Cut food into small pieces or
+   offer soft foods. If the person coughs or chokes when eating, tell their
+   doctor.
+10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
+    the late stages of Alzheimer's.
 
-### Faailoga e taʻu i le fomaʻi
+### Signs to tell the doctor about
 
-O le leiloa o le mamafa, le teena o meaʻai, le vaivai po o le tiapolo e mafai
-ona avea ma faailoga e lē lava le ʻai a se tagata. Ua taʻua e le Alzheimer's
-Society e mafai e nifo tiga po o nifo pepelo, le faanoanoa, le lē mafai ona alu
-lelei i le faleʻuli ma suiga o vailaʻau ona faaititia ai le fia ʻai
-([Alzheimer's Society e uiga i le fia ʻai](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-O faailoga o le le lava o vai o le tino o loo lisiina e le NIA, e aofia ai le
-mamago o le gutu, le mimilo o le ulu, le vave o le tatagi o le fatu ma le vaaia po
-o le faalogoina o mea e leai
-([NIA e uiga i faigata faafomaʻi masani](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Weight loss, refusing food, tiredness or weakness can be signs that someone is
+not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
+depression, constipation and medicine changes can all reduce appetite
+([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
+heart rate and hallucinations
+([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talanoa i se fomaʻi
+## Talk with a doctor
 
-A o lei faia ni suiga tetele i lau meaʻai, po o le meaʻai a se isi, talanoa i se
-fomaʻi po o se tagata tomai faapitoa i meaʻai, aemaise lava pe afai e i ai le
-maʻi suka, le maʻi o le fatuga, faigata o le folo po o le leiloa talu ai nei o le
-mamafa. Mo se tagata o loo ola ma le dementia, fesili po o le ā le aofaʻi e tatau
-ona taumafai e ʻai ma inu i le aso, ma pe e mafai ona fesoasoani se tagata
-tomai faapitoa i meaʻai po o vailaʻau faʻaopoopo.
+Before making big changes to your own diet, or anyone else's, talk with a
+doctor or registered dietitian, especially if you have diabetes, kidney
+disease, swallowing problems or recent weight loss. For someone living with
+dementia, ask how much they should aim to eat and drink each day, and whether
+a dietitian or supplements might help.
 
-Saili se fesoasoani vave pe a tagofia se tasi, po o le tupu faafuaseʻi o le lē
-mautonu, mimilo tele o le ulu po o le leiloa o le mālamalama.
+Get urgent help if someone is choking, or has sudden confusion, severe
+dizziness or fainting.

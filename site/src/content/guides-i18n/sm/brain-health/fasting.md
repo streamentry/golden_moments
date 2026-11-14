@@ -1,34 +1,33 @@
 ---
-title: "Anapogi i Taimi Patino ma le Dementia: O le Ā e Taʻu e le Suʻesuʻega"
-seoTitle: "Anapogi i Taimi Patino ma le Dementia: Suʻesuʻega"
-description: "E itiiti ma amata nei suʻesuʻega i tagata i le anapogi i taimi patino ma le dementia. Lamatiaga mo tagata matutua, ma le taua o le ʻai lava e lava."
+title: "Intermittent Fasting and Dementia: What the Research Says"
+seoTitle: "Intermittent Fasting and Dementia: What Research Says"
+description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  E leai se faamaoniga lelei e puipuia pe faatuai e le anapogi i taimi patino le
-  dementia. O le tele o suʻesuʻega na faia i manu, ma o suʻesuʻega i tagata
-  matutua e itiiti ma puupuu. E mafai ona lamatia le anapogi mo tagata matutua:
-  leiloa o le mamafa ma maso, maualalo o le suka i le toto i nisi vailaʻau o le
-  maʻi suka, le lava o vai o le tino ma le paʻū. Mo tagata o loo ola ma le
-  dementia, e masani ona sili atu le popole i le ʻai ma le inu lava e lava.
-  Talanoa muamua i se fomaʻi.
+  There is no good evidence that intermittent fasting prevents or slows
+  dementia. Much of the research is in animals, and human studies in older
+  adults are small and short. Fasting can be risky for older adults: weight and
+  muscle loss, low blood sugar with some diabetes medicines, dehydration and
+  falls. For people living with dementia, eating and drinking enough is usually
+  the bigger concern. Talk with a doctor first.
 keyPoints:
-  - "Ua fai mai le National Institute on Aging e leai se faamaoniga e lava e fautuaina ai soo se anapogi po o se meaʻai e faaititia ai kalori, aemaise lava mo tagata matutua."
-  - "O le tele o suʻesuʻega i le anapogi ma le matua e mai i manu, ma e lē tatau ona faatatau lava na taunuuga i tagata."
-  - "O lamatiaga e ono i ai mo tagata matutua e aofia ai le leiloa e lē finagalo i ai o le mamafa, leiloa o maso, maualalo o le suka i le toto i nisi vailaʻau o le maʻi suka, le lava o vai o le tino, mimilo o le ulu ma le paʻū."
-  - "E masani ona galo i tagata o loo ola ma le dementia le ʻai po o le inu, po o mafaufau ua uma ona ʻai. O le fesoasoani ia te i latou e ʻai ma inu lava e lava e masani ona sili atu le taua nai lo le taimi e ʻai ai."
-  - "Aua le faaaoga le anapogi mo se tagata o loo ola ma le dementia. Talanoa i se fomaʻi po o se tagata tomai faapitoa i meaʻai a o lei suia se faiga o le ʻai."
+  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
+  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
+  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
+  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
+  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
 faq:
-  - q: "E puipuia ea le Alzheimer i le anapogi i taimi patino?"
-    a: "E leai se faamaoniga lelei e faapea. O le tele o suʻesuʻega na faia i manu, ma o suʻesuʻega i tagata e masani ona puupuu, i tagata talavou po o tagata mafiafia, ma e taulaʻi i le faaititia o le mamafa. Ua fai mai le National Institute on Aging e leai se faamaoniga e lava e fautuaina ai anapogi i le lautele o tagata."
-  - q: "E saogalemu ea le anapogi i taimi patino mo tagata matutua?"
-    a: "Atonu e leai. E mafai e le anapogi ona mafua ai le leiloa e lē finagalo i ai o le mamafa ma maso, le lava o vai o le tino, mimilo o le ulu ma le paʻū, ma e mafai ona maualalo matautia le suka i le toto o tagata e inu insulin po o nisi vailaʻau o le maʻi suka. Ua taʻu e le Mayo Clinic atonu e lē talafeagai mo tagata e matautia i le leiloa o ivi ma le paʻū. Talanoa i se fomaʻi a o lei taumafai."
-  - q: "E tatau ea i se tagata e iai le dementia ona taumafai i le anapogi?"
-    a: "ʻAua. E masani ona faigata i tagata o loo ola ma le dementia le ʻai ma le inu lava e lava, ma o le lē lelei o meaʻai e mafai ona faateleina ai faailoga o amioga ma mafua ai le leiloa o le mamafa. E faaopoopo e le anapogi le lamatiaga e aunoa ma se aogā ua faamaonia. Taulaʻi ia i taimi masani o meaʻai, meaʻai mama e fiafia i ai ma le inu lava e lava."
-  - q: "O ā faailoga e lē lava ai le ʻai po o le inu a se tagata e iai le dementia?"
-    a: "Mataʻituina le leiloa o le mamafa, lavalava ua sa vaivai, le vaivai, le lē mafai ona alu lelei i le faleʻuli, po o le teena o meaʻai. O faailoga o le lē lava o vai o le tino o loo lisiina e le National Institute on Aging, e aofia ai le mamago o le gutu, mimilo o le ulu, vave o le tatagi o le fatu ma le vaaia po o le faalogoina o mea e leai. Taʻu i lona fomaʻi pe a e mataʻina ia mea."
+  - q: "Does intermittent fasting prevent Alzheimer's?"
+    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
+  - q: "Is intermittent fasting safe for older adults?"
+    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
+  - q: "Should someone with dementia try fasting?"
+    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
+  - q: "What are signs that someone with dementia is not eating or drinking enough?"
+    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -56,75 +55,136 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-O le anapogi i taimi patino, e pei o le ʻai naʻo i totonu o se faamalama e valu itula, po o le faaititia tele o kalori i aso e lua i le vaiaso, e tele ona manatu i ai, ma o nisi tala e fai mai atonu e puipui ai le faiʻai. Afai o oe o se tagata matua, po o e tausia se tagata o loo ola ma le dementia, o le ā le mea moni e faaalia e suʻesuʻega, ma aiseā e taua ai le faaeteete.
+Intermittent fasting, such as eating only within an eight-hour window or
+cutting calories sharply two days a week, gets a lot of attention, and some
+articles suggest it might protect the brain. If you are an older adult, or you
+care for someone living with dementia, here is what the research actually
+shows, and why caution matters.
 
-O faamatalaga lenei e lautele, e lē o se fautuaga faafomaʻi. Aua le amata le anapogi, po o le suia o le auala e ʻai ai se tagata e te tausia, e aunoa ma le talanoa i se fomaʻi po o se tagata tomai faapitoa i meaʻai. Tagai i la matou [faamatalaga e uiga i fautuaga faafomaʻi](/medical-disclaimer/).
+This is general information, not medical advice. Do not start fasting, or
+change how someone you care for eats, without talking to a doctor or a
+registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
 
-## E puipuia ea le dementia i le anapogi i taimi patino?
+## Does intermittent fasting prevent dementia?
 
-E leai se faamaoniga lelei e puipuia pe faatuai e le anapogi i taimi patino le dementia. Ua fai mai le National Institute on Aging (NIA) e leai se faamaoniga e lava e fautuaina ai soo se ituaiga meaʻai e faaititia ai kalori po o le anapogi, ma e tele lava mea e tatau ona aʻoaʻoina e uiga i lo latou aoga ma le saogalemu, aemaise lava mo tagata matutua ([NIA e uiga i le faaititia o kalori ma le anapogi](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+There is no good evidence that intermittent fasting prevents or slows dementia.
+The National Institute on Aging (NIA) says there is not enough evidence to
+recommend any type of calorie-restriction or fasting diet, and that much more
+needs to be learned about their effectiveness and safety, especially in older
+adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Aiseā e tapulaʻa ai le faamaoniga
+### Why the evidence is so limited
 
-Ua tuuina mai e le NIA ni mafuaʻaga se ia:
+The NIA gives several reasons:
 
-- **O le tele o suʻesuʻega e i manu.** O suʻesuʻega i pusi, lago, isumu ma manuki
-  na maua ai ni taunuuga manaia, ae e lē tatau ona faatatau lava na taunuuga i
-  tagata. E oo lava i manu, e tuufaatasi taunuuga; i nisi ituaiga isumu, na
-  faapuupuuina ai le ola i le faaititia o kalori.
-- **O suʻesuʻega i tagata e puupuu.** O le tele na umi i nai vaiaso po o nai masina.
-- **O le tele o suʻesuʻega i tagata na taulaʻi i le faaititia o le mamafa** o tagata
-  mafiafia, e lē o le manatua po o le dementia.
-- **E seasea aofia ai tagata matutua.** E tele suʻesuʻega na faoa ai tagata e 60
-  tausaga pe laiti ifo.
+- **Most studies are in animals.** Research in worms, flies, mice and monkeys
+  has produced interesting results, but these findings do not necessarily apply
+  to people. Even in animals, results are mixed; in some mouse strains, calorie
+  restriction shortened life.
+- **Human trials have been short.** Most lasted a few weeks or months.
+- **Most human trials focused on weight loss** in overweight adults, not on
+  memory or dementia.
+- **Older adults are rarely included.** Many trials recruited people aged 60 or
+  younger.
 
-O se iloiloga faatulagaina o le 2026 na vaavaai faapitoa i le anapogi i taimi patino i tagata e 60 tausaga ma sili atu. Na maua ai e tapulaʻa pea le faamaoniga i lenei vaega o tausaga, faatasi ma suʻesuʻega laiti, mataʻituina puupuu ma faiga eseese. O mea na maua i le mafaufau ma le manatua na mai i suʻesuʻega taitasi, e lē o ni taunuuga tuufaatasi. Na taʻua foi e le iloiloga e fesootaʻi nisi suʻesuʻega i faamalama puupuu tele o le ʻai po o anapogi uumi ma taunuuga e sili atu ona leaga, ma na fautua mai le au tusitala le faaeteete mo tagata matutua ([iloiloga o le 2026 i le Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+A 2026 systematic review looked specifically at intermittent fasting in adults
+aged 60 and older. It found that the evidence in this age group remains
+limited, with small studies, short follow-up and mixed designs. Findings on
+thinking and memory came from individual studies rather than pooled trial
+results. The review also noted that some studies linked very short eating
+windows or long fasts with worse outcomes, and the authors urged caution for
+older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-O nisi o le au suʻesuʻe e manatu atonu e aʻafia le faiʻai pe a faaaoga e le tino le ga o le tino e susunu ai i le taimi o le anapogi, ae o se talitonuga lea o loo suʻesuʻeina pea. Ua taʻua e le NIA e lē mautinoa le saienisi.
+Some researchers think that the body's switch to burning fat during a fast may
+affect the brain, but this is still a theory being studied. The NIA notes that
+the science is uncertain.
 
-## O ā lamatiaga o le anapogi mo tagata matutua?
+## What are the risks of fasting for older adults?
 
-E lē o se faataitaiga e leai se afaina mo le tele o tagata matutua le anapogi. O lamatiaga e ono i ai e aofia ai:
+Fasting is not a harmless experiment for many older people. Possible risks
+include:
 
-- **Leiloa e lē finagalo i ai o le mamafa.** O le ʻai e itiiti ifo nai lo le manaʻoga o le tino e mafai ona mafua ai le leiloa o le mamafa ma le itiiti o le malosi o maso, ma e mafai ona sili atu ai le vaivai o se tagata.
-- **Leiloa o maso ma ivi.** I se suʻesuʻega e lua tausaga na lagolagoina e le NIA o le faaititia o kalori i tagata talavou ma tagata ogatotonu o tausaga, na iai sina faaitiitiga o le mafiafia o ivi ma le mamafa o le tino e leai se ga.
-- **Maualalo o le suka i le toto i vailaʻau o le maʻi suka.** E mafai ona matua maualalo le suka i le toto o tagata e inu insulin po o nisi vailaʻau o le maʻi suka pe afai e latou te misia po o le faatuai o meaʻai, e tusa ai ma le [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). E mafai e le maualalo o le suka i le toto ona mafua ai le mimilo o le ulu, le lē mautonu ma le ita.
-- **Le lava o vai o le tino.** Afai e misia vaiinu faatasi ma meaʻai, e mafai ona le lava vai o le tino.
-- **Mimilo o le ulu ma le paʻū.** Ua taʻua e le Mayo Clinic e mafai e le anapogi i taimi patino ona tele le vaivai ma mimilo o le ulu, ma atonu e lē o se faiga lelei mo tagata e matautia i le leiloa o ivi ma le paʻū ([Mayo Clinic e uiga i le anapogi i taimi patino](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Isi aafiaga.** Ua lisiina foi e le Mayo Clinic le tiga o le ulu, suiga o le lagona ma le lē mafai ona alu lelei i le faleʻuli, ma taʻua ai ni faamaoniga e mafai ona faateleina e se anapogi e 16 itula ma se faamalama o le ʻai e 8 itula le lamatiaga o maʻi o le fatu pe a faatusatusa ma isi faamalama o le ʻai. E lē i ai se faaiʻuga i lea faamaoniga.
+- **Unintended weight loss.** Eating less than the body needs can lead to
+  weight loss and less muscle strength, which can leave a person frailer.
+- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
+  restriction in young and middle-aged adults, participants had slight declines
+  in bone density and lean body mass.
+- **Low blood sugar with diabetes medicines.** People who take insulin or some
+  other diabetes medicines can have blood sugar drop too low if they skip or
+  delay meals, according to the
+  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
+  Low blood sugar can cause dizziness, confusion and irritability.
+- **Dehydration.** If drinks are skipped along with meals, a person can become
+  dehydrated.
+- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
+  people to feel very tired and dizzy, and that it may not be a healthy pattern
+  for people at high risk of bone loss and falls
+  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Other effects.** Mayo Clinic also lists headaches, mood swings and
+  constipation, and notes some evidence that a 16-hour fast with an 8-hour
+  eating window may raise heart disease risk compared with other eating
+  windows. That evidence is not settled.
 
-## Aiseā e sili atu ai le popole i le ʻai lava e lava i le dementia?
+## Why is eating enough the bigger concern with dementia?
 
-Mo tagata o loo ola ma le dementia, o le faafitauli masani o le maua o meaʻai ma vaiinu **lava e lava**, e lē o le tele naua. Ua faamatala e le Alzheimer's Association e mafai ona lagona e tagata i vaitau ogatotonu ma mulimuli le faigata i le tele o filifiliga o meaʻai, galo le ʻai, po o le manatu ua uma ona ʻai. Ua faaopoopo mai e mafai e le lē lelei o meaʻai ona faateleina faailoga o amioga ma mafua ai le leiloa o le mamafa ([Alzheimer's Association e uiga i meaʻai ma le ʻai](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+For people living with dementia, the usual problem is getting **enough** food
+and drink, not too much. The Alzheimer's Association explains that people in
+the middle and later stages may feel overwhelmed by food choices, forget to
+eat, or think they have already eaten. It adds that poor nutrition may increase
+behavioral symptoms and cause weight loss
+([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-Ua taʻua e le Alzheimer's Society e mafai e le lē lava o le ʻai ona mafua ai le leiloa o le mamafa, itiiti o le malosi o maso, le vaivai, ma sili atu ai le vaivai o se tagata ma e itiiti le mafai ona toe malosi mai maʻi faamaʻi ([Alzheimer's Society e uiga i le fia ʻai](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+The Alzheimer's Society notes that not eating enough can lead to weight loss,
+less muscle strength, tiredness and weakness, leaving a person frailer and less
+able to recover from infections
+([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**Ona o nei mafuaʻaga, e lē o se manatu lelei le anapogi mo se tagata o loo ola ma le dementia.** O meaʻai e misia e mafai ona avea faigofie ma meaʻai e galo. O so o se suiga i le auala e ʻai ai se tagata e iai le dementia e tatau ona taitaia e lona fomaʻi po o se tagata tomai faapitoa i meaʻai.
+**For these reasons, fasting is not a good idea for someone living with
+dementia.** Skipped meals can easily turn into missed meals. Any change to how
+a person with dementia eats should be guided by their doctor or a registered
+dietitian.
 
-## O ā faailoga lapataia o le lē lava o le ʻai po o le inu?
+## What are the warning signs of poor eating or drinking?
 
-Mataʻituina:
+Watch for:
 
-- **Le leiloa o le mamafa**, po o lavalava e sa vaivai.
-- **Le tuua o meaʻai po o le teena o taimi o meaʻai**, po o le taofia o meaʻai i le gutu.
-- **Le vaivai.**
-- **Le lē mafai ona alu lelei i le faleʻuli**, e mafai ona fesootaʻi ma meaʻai ma le lē lava o vai o le tino.
-- **Faailoga o le lē lava o vai o le tino.** Ua lisiina e le NIA le mamago o le gutu, mimilo o le ulu, vave o le tatagi o le fatu, ma le vaaia po o le faalogoina o mea e leai, e mafai foi ona mafua mai i le dementia lava ia ([NIA e uiga i faigata faafomaʻi masani](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Weight loss**, or clothes fitting more loosely.
+- **Leaving food or refusing meals**, or holding food in the mouth.
+- **Tiredness or weakness.**
+- **Constipation**, which can be linked with diet and dehydration.
+- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
+  rate, and hallucinations, which can also be caused by dementia itself
+  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-E tele mafuaʻaga e leai ai se fia ʻai: nifo tiga po o nifo pepelo ua laʻau, vailaʻau fou, le faanoanoa, le lē mafai ona alu lelei i le faleʻuli, le itiiti o gaioiga, po o suiga o le tofo ma le manogi. Taʻu i le fomaʻi o le tagata so o se faailoga o nei. E mafai ona latou saili le mafuaʻaga ma atonu e fautuaina se tagata tomai faapitoa i meaʻai po o vailaʻau faʻaopoopo.
+Poor appetite has many possible causes: sore teeth or loose dentures, new
+medicines, depression, constipation, less activity, or changes in taste and
+smell. Tell the person's doctor about any of these signs. They can look for a
+cause and may suggest a dietitian or supplements.
 
-## E mafai faapefea ona fesoasoani i se tagata e ʻai ma inu lava e lava?
+## How can you help someone eat and drink enough?
 
-- **Tuuina atu meaʻai laiti ma meaʻai mama e masani ai**, e lē o ni taumafataga tetele e tolu.
-- **Tuuina atu meaʻai e fiafia i ai**, ma ia fetuutuunai a o suia tofo. O meaʻai suamalie atonu e talia pe afai e itiiti le fia ʻai; fesili i le fomaʻi pe i ai ni mafuaʻaga faafomaʻi e faatapulaʻa ai le suka.
-- **Tuu vaiinu e latalata** ma tuuina atu ipu laiti i le aso atoa. E aofia foi supo, fualaau aina, smoothie ma susu aisa.
-- **ʻAi faatasi** pe a mafai. O meaʻai o se avanoa e faigauo ai, e lē o se galuega e faavave.
-- **Taumafai meaʻai e faaaoga i le lima**, e pei o sanuisi, fasi fualaau aina po o fasi moa, pe afai ua faigata le faaaogā o naifi ma foʻi.
+- **Offer small meals and snacks often**, rather than three large meals.
+- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
+  welcome if appetite is low; ask the doctor if there are health reasons to
+  limit sugar.
+- **Keep drinks within reach** and offer small cups throughout the day. Soups,
+  fruit, smoothies and milkshakes count too.
+- **Eat together** when you can. Meals are a chance for company, not a task to
+  rush.
+- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
+  cutlery has become hard.
 
-O la matou [taiala i meaʻai](/brain-health/diet/) e iai ai ni isi manatu mo taimi o meaʻai. O le fesoasoani i le sauniuniga o meaʻai e mafai foi ona avea ma gaioiga manaia e faasoa; tagai i [galuega i le fale](/activities/household-tasks/).
+Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
+food can also be a pleasant shared activity; see
+[household tasks](/activities/household-tasks/).
 
-## Talanoa i se fomaʻi
+## Talk with a doctor
 
-A o lei taumafai i soo se fuafuaga o le anapogi, talanoa i lau fomaʻi po o se tagata tomai faapitoa i meaʻai, aemaise lava pe afai e te inu vailaʻau mo le maʻi suka po o le mamafa o le toto, ua leiloa talu ai nei lou mamafa, po ua e paʻū. Mo se tagata o loo ola ma le dementia, fesili i lona fomaʻi po o le ā le aofaʻi e tatau ona ʻai ma inu i le aso, e lē o le anapogi.
+Before trying any fasting plan yourself, talk with your doctor or a registered
+dietitian, especially if you take medicines for diabetes or blood pressure, have
+lost weight recently, or have had falls. For someone living with dementia, ask
+their doctor about how much they should be eating and drinking each day, rather
+than about fasting.
 
-Saili se fesoasoani faafomaʻi vave mo le lē mautonu faafuaseʻi, le leiloa o le mālamalama, po o faailoga o le matua maualalo o le suka i le toto e lē vave leleiina.
+Get urgent medical help for sudden confusion, fainting, or signs of very low
+blood sugar that do not improve quickly.

@@ -1,33 +1,32 @@
 ---
-title: "Demensiýaly garrylar üçin aňsat wiktorina, basyşsyz"
-seoTitle: "Demensiýaly garrylar üçin wiktorina soraglary, jogaplary bilen"
-description: "Demensiýaly garrylar üçin jogap saýlawly we gürrüň temaly 50 aňsat wiktorina soragy, şeýle hem hiç kim synagda duýmaz ýaly nädip geçirmeli."
+title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
+seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
+description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demensiýaly garrylar üçin aňsat wiktorina, synag däl-de, gürrüňe meňzände
-  işleýär. Köne aýdymlar, nakyllar, baýramlar we gündelik durmuş ýaly öňden
-  öwrenilen zatlar barada soraň we hemişe iki-üç jogap saýlawyny hödürläň.
-  Jogaby erkin aýdyň, hiç kimi aýratyn tapmaň, hasaby goýuň we her jogaby
-  hekaýa başlamak üçin ulanyň. Dogry-ýalňyşy ýok «bu ýa-da şu» soraglary
-  soňky tapgyrlara laýyk gelýär.
+  Easy trivia for seniors with dementia works when it feels like a chat, not a
+  test. Ask about things learned long ago, such as old songs, sayings, holidays
+  and everyday life, and always offer two or three choices. Give the answer
+  freely, never single anyone out, skip the score, and use each answer to start
+  a story. "This or that" questions with no wrong answer suit later stages.
 keyPoints:
-  - "Öňden tanyş zatlar barada soraň: aýdymlar, nakyllar, baýramlar, nahar we ýyllar öňki gündelik durmuş."
-  - "Jogabyň ýada salynmagy däl-de, tanalmagy üçin iki-üç jogap saýlawyny hödürläň."
-  - "Jogaby mylaýym aýdyň we dowam ediň. Hekaýa başladýan islendik çaklama gowy çaklamadyr."
-  - "Utuk ýok, ylgaşýan toparlar ýok, ýeke adamy çagyrmak ýok. Jogaplar bütin otagdan gelsin."
-  - "Jogaplaryň arasynda saýlamak kynlaşanda, dogry jogaby ýok «bu ýa-da şu» soraglaryna geçiň."
+  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
+  - "Offer two or three choices so the answer can be recognized rather than recalled."
+  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
+  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
+  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
 faq:
-  - q: "Wiktorina demensiýa bilen ýaşaýan adamlar üçin gowy işmi?"
-    a: "Mylaýym geçirilse, bolup biler. Alzheimer's Foundation of America wiktorinany ir tapgyr üçin işleriň arasynda görkezýär. Soraglary öňden tanyş mowzuklar barada saklaň, saýlawlary hödürläň, hiç haçan ýeke adamy kynçylykda goýmaň we jogaplary synag hökmünde däl-de, gürrüňe giriş hökmünde kabul ediň."
-  - q: "Demensiýa wiktorinasy üçin haýsy mowzuklar iň gowy işleýär?"
-    a: "Öňden öwrenilen zatlar köplenç iň gowy işleýär: adamyň ýaşlygyndaky meşhur aýdymlar we aýdymçylar, tanyş nakyllar, baýramlar, nahar, sport we süýt getirmek ýa-da diskli telefon ýaly gündelik durmuş. Soňky habarlardan we sessiýanyň başyndaky bir zady ýada salmagy talap edýän zatlardan gaça duruň."
-  - q: "Ideg öýünde hiç kimi utandyrman wiktorinany nädip geçirmeli?"
-    a: "Her soragy bütin topara okaň, saýlawlary görkeziň ýa-da aýdyň we islendik adamdan jogaplary garşylaň. Aýry-aýry adamlary çagyrmaň we hasap alyp barmaň. Näme çaklanylsa-da, jogaby ýylgyryş bilen aýdyň we ony hekaýalara öwürmek üçin «Bu ýerde kim drive-in kinoteatryna bardy?» ýaly soraglary beriň."
-  - q: "Soňky tapgyrlarda wiktorinanyň ýerine näme edip bolar?"
-    a: "Dogry-ýalňyşy ýok «Kofemi ýa-da çaýmy?» ýa-da «Kenarmy ýa-da daglarmy?» ýaly soraglara we tanyş nakyllary ýa-da aýdymlary bilelikde tamamlamaga geçiň. Suratlara seretmek we olary bilelikde suratlandyrmak hem gowy işleýär."
+  - q: "Is trivia a good activity for people with dementia?"
+    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
+  - q: "What topics work best for dementia trivia?"
+    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
+  - q: "How do I run trivia in a care home without embarrassing anyone?"
+    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
+  - q: "What can I do instead of trivia in later stages?"
+    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +45,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Wiktorina ideg öýlerinde we gündizki merkezlerde iň köp soralýan topar işleriniň biridir we köp maşgala ony aşhana stolunda hem oýnaýar. Adaty usulda, utuk bilen we ýeke adam jogap berende, ol demensiýa bilen ýaşaýan adamy kynçylykda goýup biler. Mylaýym geçirilende bolsa, hekaýa diňlemegiň janly ýoludyr. Aşakda jogap saýlawly we her biri üçin gürrüň temaly 50 aňsat sorag, soň bolsa sessiýany nädip geçirmelidigi barada maglumat bar.
+Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
 
-## Demensiýa bilen ýaşaýan adam üçin wiktorinany nädip işledip bolar?
+## How do you make trivia work for someone with dementia?
 
-Ony öňden bolan zatlary tanamak we ýada salmak hakda ediň we her jogaby garşylaň.
+Make it about recognizing and remembering long-ago things, and make every answer welcome.
 
-1. **Uzak geçmiş barada soraň.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) Alsgeýmeriň iň köp ýaýran ir alamatynyň täze öwrenilen maglumatlary ýada salmakda kynçylykdygyny aýdýar. Onlarça ýyl öňki aýdymlar, nakyllar we gündelik durmuş köplenç has aňsat ýerdir.
-2. **Hemişe saýlaw beriň.** Iki-üç jogapdan dogrusyny saýlamak, ony ýokdan çykarmakdan has aňsatdyr.
-3. **Soraglary ses çykaryp okaň we uly görkeziň.** Ak tagta ýa-da ýokary tutulan planşet eşidişi pes adamlara kömek edýär.
-4. **Jogaby erkin aýdyň.** Hiç kim bilmese, ony mylaýym aýdyň we dowam ediň. Hiç haçan «Hany, siz muny bilýärsiňiz» diýmäň.
-5. **Hasap ýok.** Ne aýry adamlar üçin, ne-de stollar üçin. Adamlar san isleseler, bir umumy jemi saklaň.
-6. **Hiç haçan ýeke adamy çagyrmaň.** Jogaplar islendik adamdan gelsin. Ýekeje gürrüňde bilelikde jogap beriň: «Meniň pikirimçe, bu pianino. Siz näme pikir edýärsiňiz?»
-7. **Gürrüň temasyny ulanyň.** Jogap başlangyç, soňy däl. Hakyky maksat hekaýalardyr.
-8. **Gysga saklaň.** Aralykda hekaýalar bilen on sorag ýeterlikdir.
+1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
+2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
+3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
+4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
+5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
+6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
+7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
+8. **Keep it short.** Ten questions with stories in between is plenty.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) esasy düzgüni ýönekeý aýdýar: gaharlanma alamatlaryna syn ediň we adamyň özüni üstünlikli duýýandygyna göz ýetiriň. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) wiktorinany ir tapgyr üçin işleriň arasynda görkezýär. Orta tapgyrda iki saýlaw bilen çäklenip, gürrüň temalaryna daýanyň. Soň bolsa aşakdaky «bu ýa-da şu» soraglaryna geçiň.
+The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
 
-## Aýdym-saz we güýmenje wiktorinasy
+## Music and entertainment trivia
 
-Jogap **galyň** harp bilen görkezilýär. Bulary adama laýyklaşdyryň: Motown bilen ulalan adam, uly orkestrler bilen ulalan adamdan başga aýdymçylary isleýändir.
+The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
 
-| Sorag | Saýlawlar | Gürrüň ediň |
+| Question | Choices | Talk about |
 | --- | --- | --- |
-| Rok-n-rolyň patyşasy diýlip kim atlandyryldy? | **Elvis Presli**, Frank Sinatra, Bing Krosbi | Elvisi telewizorda gördüňizmi? |
-| Haýsy aýdymça «Ol' Blue Eyes» lakamy berildi? | Din Martin, **Frank Sinatra**, Perri Komo | Sinatranyň haýsy aýdymyny iň köp halaýarsyňyz? |
-| Bing Krosbi ak ... arzuw etdi | **Roždestwo**, toý, öý | Bir setir bilelikde aýdyň |
-| Lui Armstrong «What a Wonderful...» aýdymyny aýtdy | Gün, **Dünýä**, Ömür | Sizi dünýä näme ajaýyp edýär? |
-| «Over the Rainbow» aýdymyny Judy Garland haýsy filmde aýtdy? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Halaýan filmleriňizi nirede gördüňiz? |
-| «I Love Lucy» gepleşiginde Lýusi rolunda kim oýnady? | **Lýusil Boll**, Doris Deý, Betti Waýt | Maşgalaňyz bilelikde haýsy gepleşikleri görýärdi? |
-| Haýsy kowboý Trigger atly atda münýärdi? | **Roý Rojers**, Jin Autri, Jon Weýn | Çagalykda kowboý oýnadyňyzmy? |
-| «The Tonight Show» gepleşigini 30 ýyl dowamynda kim alyp bardy? | Ed Saliwan, **Jonni Karson**, Bob Hop | Telewizora seretmek üçin giç ýatdyňyzmy? |
-| Haýsy saz gurally 88 klawişa eýe? | Gitara, **pianino**, surnaý | Maşgalaňyzda kimdir biri çaldymy? |
-| Haýsy tans bir-iki-üç, bir-iki-üç diýlip sanalýar? | **Waltz**, tuist, tango | Tans etmäge nirä bardyňyz? |
+| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
+| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
+| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
+| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
+| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
+| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
+| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
+| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
+| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
+| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
 
-Aýdym-saz barada has köp maglumat üçin [demensiýa üçin aýdym-saz işlerine](/activities/music/) serediň.
+For more on music, see [music activities for dementia](/activities/music/).
 
-## Gündelik durmuş wiktorinasy
+## Everyday life trivia
 
-| Sorag | Saýlawlar | Gürrüň ediň |
+| Question | Choices | Talk about |
 | --- | --- | --- |
-| Sowadyjylar ýokka, köp öýde iýmit ... sowuk saklanýardy | **Buz sandygynda**, peçde, çerde | Buzy kim getirýärdi? |
-| Aýna çüýşelerde süýdi gapa kim getirýärdi? | Poçtaçy, **süýtçi**, gazet daşaýjy | Öýe ýene näme getirilýärdi? |
-| Diskli telefony nädip jaňlaýardyňyz? | Düwmelere basyp, **tigirçegi aýlap**, oňa gürläp | Öýüňizdäki telefon hakda aýdyp beriň |
-| Model T awtoulagyny haýsy kompaniýa öndürdi? | **Ford**, Chevrolet, Buick | Halaýan awtoulagyňyz hakda aýdyp beriň |
-| Soda jerk-i nirede tapyp bilersiňiz? | **Soda gazly içgi kafesinde**, çörekhanada, bankda | Kafäniň stolunda näme sargadyňyz? |
-| Basgançaklardan aşak ýöräp bilýän metal pružina oýnawajy haýsy? | Ýo-ýo, **Slinki**, hula-hup | Haýsy oýnawaçlary halaýardyňyz? |
-| Drive-in, ... seretmek üçin ýerdi | **Awtoulagyňyzdan kino**, top oýunlaryna, ýöreýişlere | Kim bilen bardyňyz? |
-| Bir dollarlyk kagyzda kimiň ýüzi bar? | Linkoln, **Jorj Waşington**, Jefferson | Şol wagt bir dollar näme satyn alýardy? |
-| Teňňede kimiň ýüzi bar? | **Abraham Linkoln**, Waşington, Franklin | Şol wagt teňňeleri bankada ýygnadyňyzmy? |
-| Mekdep awtobusy adatça haýsy reňkde? | Gyzyl, **sary**, gök | Mekdebe nädip bardyňyz? |
+| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
+| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
+| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
+| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
+| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
+| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
+| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
+| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
+| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
+| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
 
-## Baýramlar, tebigat we ýerler
+## Holidays, nature and places
 
-| Sorag | Saýlawlar | Gürrüň ediň |
+| Question | Choices | Talk about |
 | --- | --- | --- |
-| Noýabr aýynyň dördünji penşenbesinde haýsy baýram bar? | Zähmet güni, **Şükür güni**, Ýadygärlik güni | Stolyňyzda hemişe näme bardy? |
-| Gabakdan ýasalan çyralar haýsy baýram üçin ýasalýar? | **Halloween**, Pasha, Roždestwo | Ulalan ýeriňizde Halloween hakda aýdyp beriň |
-| Iýulyň dördüsi ... Jarnamasyny belleýär | Hukuk, **Garaşsyzlyk**, Azatlyk | Salýutlara nirede seredýärdiňiz? |
-| Eneler güni haýsy aýda? | Aprel, **Maý**, Iýun | Maşgalaňyz ony nädip bellärdi? |
-| Amerikan baýdagynda näçe ýyldyz bar? | 48, **50**, 52 | Baýdakda 1959-njy ýyla çenli 48 ýyldyz bardy. Iki jogap hem gowy ýatlamadyr |
-| Gündogar kenarynda haýsy umman ýerleşýär? | Pasifik, **Atlantika**, Arktika | Haçan-da bolsa kenara bardyňyzmy? |
-| Azatlyk heýkeli haýsy şäherde? | Boston, **Nýu-Ýork**, Filadelfiýa | Nýu-Ýorkda bolduňyzmy? |
-| Arylar näme ýasaýar? | Süýt, **bal**, ýüpek | Bal tostda ýa-da çaýda? |
-| Mal göläniň ady näme? | Taýçak, **göle**, owlak | Haçan-da bolsa fermanyň ýanynda ýaşadyňyzmy? |
-| Güne tarap öwrülmegi bilen meşhur uzyn sary gül haýsy? | Roza, **günebakar**, lale | Bagyňyzda näme ösýärdi? |
-| Kebise ýylynda näçe gün bolýar? | 365, **366**, 360 | Ýadyňyzda galan doglan gün hakda aýdyp beriň |
-| Gyşdan soň haýsy pasyl gelýär? | Güýz, **ýaz**, tomus | Halaýan pasylyňyz haýsy? |
+| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
+| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
+| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
+| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
+| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
+| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
+| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
+| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
+| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
+| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
+| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
+| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
 
-## Nahar we sport wiktorinasy
+## Food and sports trivia
 
-| Sorag | Saýlawlar | Gürrüň ediň |
+| Question | Choices | Talk about |
 | --- | --- | --- |
-| Kişmiş gurudylan ... | Alça, **üzüm**, gilas | Nahar gaplaryna kişmiş salýardyňyzmy? |
-| Gara alça gurudylan ... | **Alça**, injir, alma | Maşgalaňyzda kim gara alça söýýärdi? |
-| Ýer hozunyň ýagy we ... | **Mürebbe**, peýnir, et | Gatymy ýa-da ýumşakmy? |
-| Guakamole esasan ... ýasalýar | Noýba, **awokado**, hyýar | Toýlarda haýsy sousy getirýärdiler? |
-| Şükür güni üçin halanýan pirog haýsy? | **Gabak**, limon, gilas | Haýsy pirogy bişirýärdiňiz? |
-| Beýsbol toparynyň meýdançada näçe oýunçysy bolýar? | 7, **9**, 11 | Haýsy topary goldaýardyňyz? |
-| Beýsbolda näçe strike bir aut bolýar? | Iki, **üç**, dört | Haçan-da bolsa top oýnadyňyzmy? |
-| Beýb Rut haýsy sport bilen meşhur boldy? | Boks, **beýsbol**, golf | Top oýunlaryna bardyňyzmy? |
-| Adaty golf meýdançasynda näçe çukur bar? | 9, **18**, 24 | Haçan-da bolsa golf ýa-da mini golf oýnadyňyzmy? |
-| Haýsy sportda taçdaun hasaplanýar? | **Futbol**, hokkeý, basketbol | Öýüňizde kim futbola seredýärdi? |
+| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
+| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
+| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
+| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
+| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
+| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
+| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
+| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
+| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
+| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
 
-## Tanyş nakyllar
+## Familiar sayings
 
-Nakyly tamamlamak öňden öwrenilen dili ulanýar we köplenç aňsat gelýär. Biziň [Nakyly tamamla](/games/finish-the-saying/) oýnumyzda has köp nakyl bar, islendik soňuny görkezmek üçin bir basmak ýeterlik.
+Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
 
-| Nakyl | Saýlawlar | Gürrüň ediň |
+| Saying | Choices | Talk about |
 | --- | --- | --- |
-| Günde bir alma lukmany ... saklaýar | **Daşda**, ýagşyry daşda, pişigi daşda | Muny size kim aýdýardy? |
-| Ir turan guş ... tutýar | Awtobusy, **gurty**, otlyny | Siz ir turýan adammy? |
-| Towuklaryňyzy ... öň sanamaň | **Çykmanka**, ýatmanka, aýdym aýtmanka | Maşgalaňyz towuk saklaýardymy? |
-| Tygşytlanan teňňe ... teňňedir | **Gazanylan**, ýitirilen, sarp edilen | Maşgalaňyzda tygşytlaýan kim bardy? |
-| Öý, ... ýerdir | Baglyk, **ýürek**, aşhana | Bir ýeri öý ýaly edýän zat näme? |
-| Giç galmakdan ... gowy | Ir, **hiç haçan**, ötünç | Hemişe kim giç galýardy? |
-| Her bulutyň ... çyzgysy bar | **Kümüş**, çemçe, teňňe | Bagtly pursat hakda aýdyp beriň |
-| Hereketler ... has gaty gürleýär | **Sözlerden**, aýdym-sazdan, gökgürlemeden | Muny aýdýan biri hakda aýdyp beriň |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
+| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
+| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
+| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
+| Better late than... | Early, **never**, sorry | Who was always late? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
+| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
 
-## Dogry-ýalňyşy ýok «bu ýa-da şu» soraglary
+## This-or-that questions with no wrong answer
 
-Bular her tapgyra, soňky tapgyrlara hem laýyk gelýär, sebäbi dogry etmeli zat ýok. Soraň, diňläň we öz jogabyňyzy hem paýlaşyň.
+These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
 
-- Kofemi ýa-da çaýmy?
-- Kenarmy ýa-da daglarmy?
-- Itlermi ýa-da pişiklermi?
-- Tomusmy ýa-da gyşmy?
-- Pirogmy ýa-da tortmy?
-- Tans etmekmi ýa-da seretmekmi?
-- Gün dogmasymy ýa-da gün batmasymy?
-- Eýwanmy ýa-da arka howlumy?
-- Radiomy ýa-da plastinkalarmy?
-- Blinmi ýa-da ýumurtgamy?
-- Gül rozamy ýa-da romaşkamy?
-- Otly syýahatymy ýa-da awtoulag syýahatymy?
+- Coffee or tea?
+- Beach or mountains?
+- Dogs or cats?
+- Summer or winter?
+- Pie or cake?
+- Dancing or watching?
+- Sunrise or sunset?
+- Front porch or back yard?
+- Radio or records?
+- Pancakes or eggs?
+- Roses or daisies?
+- Train trip or road trip?
 
-Suratlar bilen bile gidýän gürrüň soraglary üçin çap ediljek [Gürrüň kartlarymyzy](/games/conversation-cards/) synap görüň.
+For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
 
-## Ideg öýünde ýa-da toparda wiktorina sessiýasyny nädip geçirmeli?
+## How do you run a trivia session in a care home or group?
 
-1. **Adamlary görüp we eşidip bilmekleri üçin oturdyň.** Eşidiş enjamlary ýerinde, äýnekler dakylan, telewizor öçürilen.
-2. **Ony gürrüň hökmünde tanyşdyryň.** «Köne günler barada käbir soraglarym bar we meniň pikirimçe, siz menden köp bilýärsiňiz.»
-3. **Her soragy iki gezek okaň we saýlawlary uly görkeziň.**
-4. **Otagyň islendik ýerinden jogaplary garşylaň.** Gowy jogaplary gaýtalaň, şeýdip hemmeler eşider.
-5. **Jogaby hemmeler üçin aýdyň,** soň gürrüň temasyny otaga soraň.
-6. **Energiýa eýeriň.** Eger bir sorag on minutlyk hekaýalary başlasa, goýuň.
-7. **Aýdym ýa-da «bu ýa-da şu» tapgyry bilen gutaryň,** şeýdip hemmeler aňsat zat bilen gutarýar.
+1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
+2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
+3. **Read each question twice and show the choices large.**
+4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
+5. **Say the answer for everyone,** then ask the talking point to the room.
+6. **Follow the energy.** If one question starts ten minutes of stories, let it.
+7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
 
-Surat bingosy we bilelikde aýdym aýtmak ýaly beýleki topar görnüşleri üçin [ideg öýleri üçin topar işlerine](/activities/care-home-groups/) serediň.
+For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
 
-## Meýilnamany haçan üýtgetmeli
+## When to change the plan
 
-Eger kimdir biri alada görünse, dymsa ýa-da birnäçe gezek «Bilemok» diýse, aňsatlaşdyryň: iki saýlawa geçiň, bilelikde jogap beriň ýa-da «bu ýa-da şu» soraglaryna geçiň. Eger topar bütin günortanlygy bir sorag barada gürlemegi halasa, bu üstünlikdir. Maksat hiç haçan dogry jogaplar däldi. Maksat gowy ýoldaşlykda geçirilen wagtdy.
+If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.

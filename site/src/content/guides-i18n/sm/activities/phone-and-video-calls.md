@@ -1,30 +1,34 @@
 ---
-title: "Gaioiga o Valaʻau Telefoni ma Vitio mo Se Tagata o loo Ola ma le Dementia"
-seoTitle: "Gaioiga o Vitio Kolo mo le Dementia"
-description: "Gaioiga mo vaaiga ma telefoni ma aiga o mamao o le tagata o loo ola ma le dementia: faʻaalia mea, faitau leo, pese ma taʻaloga faʻasoa."
+title: "Phone and Video Call Activities for Someone with Dementia"
+seoTitle: "Video Call Activities for Dementia"
+description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  O valaʻau ma se tagata o loo ola ma le dementia e sili ona lelei pe a puʻupuʻu, masani ma faʻatasi ma se mea e faia faatasi, e pei o le faʻaalia o le faatoaga po pet, faitau leo, pese, po se taʻaloga faigofie i luga o le ata faʻasoa. Valaʻau i le taimi tutusa i aso uma pe a mafai, faʻatagaina le leo e tasi i le taimi, ma valaʻau se tasi i le nofoaga e fesoasoani.
+  Calls with a person living with dementia go best when they are short,
+  regular and built around something to do together, such as showing a pet or
+  garden, looking at photos, reading aloud, singing a favorite song or playing
+  a gentle game on a shared screen. Call at the same time each day if you can,
+  keep it to one voice at a time, and ask someone on site to help.
 keyPoints:
-  - "O se gaioiga e foliga ai le valaʻau ma e faʻaitiitia ai le popole o talanoa. Fuafua se mea faigofie e faʻasoa."
-  - "Valaʻau puʻupuʻu ma masani i le taimi tutusa o le aso e sili atu nai lo valaʻau umi ma le masani."
-  - "E tasi le tagata e tautala i le taimi. O valaʻau e tele tagata e faigata ona mulimuli, aemaise lava pe i ai le faʻaleagaina o le faalogo."
-  - "O se fesoasoani i le nofoaga e mafai ona setiina le masini, nofo latalata i le tagata, ma avea ma ‘lima’ mo so'o se taʻaloga po ata."
-  - "Afai o le valaʻau e le lelei i aso nei, faʻaiʻu ma le alofa. E lelei le toe taumafai i le aso i le lumaʻi."
+  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
+  - "Short, regular calls at the same time of day often work better than long, occasional ones."
+  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
+  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
+  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
 faq:
-  - q: "O ā mea e mafai ona e faia i le valaʻau vitio ma se tagata o loo ola ma le dementia?"
-    a: "Fuafua se gaioiga e tasi faigofie: faʻaali lou faatoaga, manu po lou kiona; matamata faatasi i ata tuai; faitau se solo puʻupuʻu po se tusi; pese se pese e iloa e oe; kuka le meaʻai tutusa i le taimi tutusa; po taʻalo se taʻaloga malulu i luga o le ata faʻasoa. O se gaioiga e tuʻu ai le valaʻau i se mea e tasi, ina ia le manaʻomia e le tagata le taʻu le talanoaga."
-  - q: "E umi le fia o se valaʻau vitio?"
-    a: "E sili atu le puʻupuʻu nai lo le manatu. Ni nai minute malulu e lava, aemaise lava pe a malolo vave le tagata. O le valaʻau masani i le taimi tutusa o le aso e sili atu le taua nai lo le umi o valaʻau taʻitasi."
-  - q: "E faafefea pe a faʻalavelave le tagata po faʻalavelaveina e valaʻau vitio?"
-    a: "E tele tagata e faigata ona malamalama i se foliga i luga o se ata. Taumafai i se valaʻau telefoni faigofie, se ata vitio na te faʻaleleia e le fesoasoani i se taimi filemu, po kata ma ata i le mail. Afai e leaga le valaʻau, faʻaiʻu ma le alofa ma taumafai i se aso poʻo se taimi eseese."
-  - q: "E faafefea ona ou fesoasoani i loʻu tina e valaʻau vitio pe a le mafai ona ia faʻaoga le telefoni?"
-    a: "Valaʻau se aiga, se fesoasoani o le fale po se tagata o le fale tausiga e amata le valaʻau ma taofi po faʻamau le masini. E masani ona fesoasoani aufaigaluega tausiga i aiga mo valaʻau vitio, o lea fesili i latou o mea latou te ofoina. O se taplete i luga o se faʻamau, faʻatulaga i se ata tele ma le leo malosi e mafai ai ona faalogo, e faigofie ai mo tagata uma."
-  - q: "E mafai ea ona tatou taʻalo se taʻaloga faatasi i luga o le vitio?"
-    a: "Ioe. O le auala sili ona faigofie o le tasi e faʻasoa lana ata i le faʻaoga o le vitio, ae o le isi e taʻu atu le ata e taʻu. Po o le fesoasoani i le nofoaga e tatala le taʻaloga i se taplete ma taʻu le tagata e fai, a o e talanoa ia te ia. Filifili taʻaloga e leai se taimi po se sikoa."
+  - q: "What can I do on a video call with someone with dementia?"
+    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
+  - q: "How long should a video call be?"
+    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
+  - q: "What if they get confused or upset by video calls?"
+    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
+  - q: "How can I help my mom video call when she can't use the phone?"
+    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
+  - q: "Can we play a game together over video?"
+    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -46,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-O le nofo mamao mai se tagata o loo ola ma le dementia e mafai ona lagona le le mafaia. O valaʻau telefoni ma vitio e le sui ai se alofa, ae e mafai ona latou faia ai se fesootaiga moni pe a e faatulaga lelei. O le mea e taua o le lafoaʻi le talanoa masani ma aʻo fuafua se mea faigofie e faʻasoa. Lenei itulau o loo faʻaalia ai gaioiga e mafai i vitio ma telefoni, auala e setiina ai le valaʻau, ma le mea e mafai ona faia e le tagata o loo i le nofoaga e fesoasoani.
+Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
 
-## Aisea e tatau ai ona fuafua se gaioiga mo se valaʻau?
+## Why plan an activity for a call?
 
-O se gaioiga e foliga ai le valaʻau. “Faapefea ona e ola? O le a le mea na e faia i le aso?” e fesili atu ai e manatua ma ta'u mai, lea e faigata ma faʻalavelave. “Vaʻai, ua matua fua tomato” e leai se mea e fesili ai i latou.
+An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
 
-O le Alzheimer's Association o loo taʻua e faigata ona talanoa i se vaega tele i vitio, ma e fautua ia [faʻaopoopo le faʻatulaga i le valaʻau](https://www.alz.org/help-support/caregiving/holidays) faʻatasi ma mea e pei o le pese pese po le faʻaalia o ata.
+The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
 
-## O ā gaioiga e lelei i le valaʻau vitio?
+## What activities work on a video call?
 
-### Faʻaalia lou lalolagi
+### Show and tell
 
-Aumai lou lalolagi ia te ia. Savali malulu le ata i lou faatoaga, faʻaalia le taʻi, faʻaali le mea o loo e kuka, aumai le ata a se mokopuna, po faʻaalia le faamalama i fafo i le aulaʻi. Faʻamatala i upu malulu ma tuʻu taimi filemu e mafai ai ona latou tali. E leai se fesili e manaʻomia.
+Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
 
-### Matamata i ata faatasi
+### Look at photos together
 
-Faʻaali se ata tuai i le ata, po faʻasoa lau mata e faʻaali ai ni ata tetele e tasi i le taimi. Talanoa e uiga i mea e te vaaia: “Vaʻai i le pulou a Papa.” Aua le fesili “O ai lenei?” po “E te manatua?” Afai e taʻu se tagata sese le igoa o se tasi, ia faʻatagaina. Vaʻai i le [taʻiala o faʻamanatuga](/activities/reminiscence/) mo ni valaʻauga malulu.
+Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
 
-### Faitau leo
+### Read aloud
 
-Faitau se solo puʻupuʻu, se Salamo, se tusi tamaiti e tino ai i le mokopuna i le valaʻau tutusa, se tusi mai se uso, po se itulau mai se tusi na latou alofa i ai. Faitau leo e foliga ai se mea malulu e faalogo ai le tagata e aunoa ma le tali.
+Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
 
-### Pese po faalogo musika faatasi
+### Sing or listen to music together
 
-Pese se pese e iloa e te, po taʻalo se leka e fiafia i ai i lou itu. O le pese faatasi e sili atu le faigofie nai lo le talanoa mo le tele o tagata. Vaʻai i le [taʻiala o gaioiga musika](/activities/music/).
+Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
 
-### Kuka po fai mea faatasi i le taimi tutusa
+### Cook or bake at the same time
 
-E fautua mai le Alzheimer's Association ia fuafua se valaʻau vitio e kuka ai se meaʻai faʻapitoa faatasi. Setiina le valaʻau i kiona uma e lua. O le tagata i le nofoaga e mafai ona ia fafafa po tofotofo a o e mulimuli i le pepa kuka a lona aiga.
+The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
 
-### Matamata i se mea faatasi
+### Watch something together
 
-E fautua foi e le Association ia matamata i se ata masani faatasi mai aiga eseese a o talanoa i le telefoni po vitio. Mo se tagata o loo ola ma le dementia, o se vitio puʻupuʻu, o se faʻaaliga tuai o le TV po se taʻaloga polo e sili ona lelei nai lo se ata atoa.
+The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
 
-### Taʻalo se taʻaloga malulu i luga o se ata faasoa
+### Play a gentle game on a shared screen
 
-E masani ona mafai e vitio ona faʻasoa lau ata. E e tatala le taʻaloga ma taʻi; o le tagata e taʻu atu pe faʻaali i le ata e filifili ai. Po o le fesoasoani i le nofoaga e tatala le taʻaloga i luga o se taplete ma taʻi mo le tagata a o e talanoa.
+Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
 
-Taʻaloga e lelei i auala nei:
+Games that work well this way:
 
-- **[Faaiu le faataoto](/games/finish-the-saying/):** e te taʻu le upu masani, latou te faʻamaeʻa, ona mulimuli ai lea o se talanoaga.
-- **[Ata tutusa](/games/picture-pairs/):** o se taʻaloga faʻatutusa malulu ma ata tetele e mafai ona tumau i luga, leai se taimi po se sikoa.
-- **[Pepa talanoaga](/games/conversation-cards/):** o se ata ma se valaʻauga tatala e talanoa ai faatasi.
-- **[Ata faʻatusatusa](/games/photo-pairs/):** o se taʻaloga faʻatutusa mai ata na e filifilia i lou masini. O ata e nofo i lau faitaʻaliʻiga, ma e vaaia e le tagata i lau ata faʻasoa.
+- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
+- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
+- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
+- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
 
-### Faamaumau o vitio
+### Recorded messages
 
-Pe a faigata valaʻau ola, faʻamauina se vitio puʻupuʻu: se faafetai, se pese, se savali i lou faatoaga. E mafai e le fesoasoani ona taʻalo i se taimi malulu, pe faʻafia le tagata le tele o taimi e fiafia ai o ia. O le Alzheimer's Association o loo taʻu mai le faʻamauina ma le auina atu o taimi tāua, e pei o fanau e tatalaina ni meaalofa.
+When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
 
-## O le a le mea e faia i valaʻau telefoni?
+## What about plain phone calls?
 
-E taua foi valaʻau telefoni. O Dementia Australia o loo fautua mai ia [valaʻau i le taimi tutusa i aso uma](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ma le le faʻavave, aua o tagata o loo ola ma le dementia e mafai ona le vave ona auai. I luga o le telefoni:
+Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
 
-- Taʻu lou igoa ma lou sootaga i le taimi muamua: “Talofa Papa, o Jenny lea, lau tamaʻitaʻi.”
-- Tautala malulu, i fuaitau puʻupuʻu, se manatu e tasi i le taimi.
-- Foaʻi mai le faʻamatalaga nai lo le fesili: “Na ou faia lau meaʻai na e fiafia i ai i le po nei.”
-- Faitau se solo puʻupuʻu, po pese se upu o se pese e fiafia i ai.
-- Taumafai e puʻupuʻu ma faʻaiʻu i se mea malulu.
+- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
+- Speak slowly, in short sentences, one idea at a time.
+- Give news rather than asking for it: "I made your pot roast recipe last night."
+- Read a short poem, or sing a verse of a favorite song.
+- Keep it short and end on a warm note.
 
-Ua fai mai le Dementia Australia foi o valaʻau vitio e mafai ona fesoasoani pe a faigata ai talanoa, aua e mafai ona vaai le tagata i ou foliga. Afai e faigata valaʻau telefoni, taumafai i le vitio, po le isi auala.
+Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
 
-## E faafefea ona ou setiina se valaʻau vitio e lelei?
+## How do I set up a video call that works?
 
-**Aʻo le valaʻau:**
+**Before the call:**
 
-1. **Filifili se taimi masani** pe a malolo le tagata, ma tumau i ai. E fesoasoani le masani.
-2. **Feso'otai ma le fesoasoani i le nofoaga.** O se tusi i le aso muamua e fesoasoani ia te i latou e fuafua.
-3. **Siaki le masini.** O se taplete i luga o se faʻamau e sili atu le faigofie nai lo se telefoni o loo taofia i le lima. Mautinoa e i ai le eletise, e malamalama le ata, ma e lelei le leo. Faʻatagaina upu taʻitaʻi pe a ofoina e le polokalame ma pe a faitau lelei le tagata.
-4. **Fuafua se gaioiga e tasi** ma saunia mea uma.
+1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
+2. **Coordinate with the helper on site.** A text the day before helps them plan.
+3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
+4. **Plan one activity** and have everything ready.
 
-**I le valaʻau:**
+**During the call:**
 
-- **Nofo latalata i le kamera** i malamalama lelei, faʻafeʻia i le faamalama, nai lo le tuʻu o le faamalama i tua.
-- **Faʻafeiloaʻi oe lava** i taimi uma, i lou igoa ma lou sootaga.
-- **E tasi le leo i le taimi.** O le Alzheimer's Association o loo taʻu mai o le faʻalavelave o le talanoa e faigata mo tagata o loo ola ma le dementia ma tagata e faʻalavelave le faalogo. Afai e auai ni aiga e toatolu, faʻasolo le taimi po tumau i tagata e lua po le tolu.
-- **Fesili e tasi i le taimi.** O le Family Caregiver Alliance o loo fautua mai [fesili masani e tali ai ioe pe leai](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), ma faʻaali ni filifiliga pe a mafai.
-- **Faʻatagaina taimi umi o le filemu.** Talia le tali. E lelei le faʻaalia o se upu pe a suʻe e le tagata.
-- **Faʻaaoga lou foliga ma leo.** Malie, tuli ulu ma faʻamalulu lou leo. O le faʻaalia e masani ona sili atu nai lo upu.
-- **Aua le faʻasaʻo.** Afai e fai mai le tagata se mea e le saʻo, ia faʻatagaina.
+- **Sit close to the camera** in good light, facing a window rather than with it behind you.
+- **Introduce yourself** every time, by name and relationship.
+- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
+- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
+- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
+- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
+- **Do not correct.** If the person says something that is not accurate, let it be.
 
-**Faʻaiʻuga o le valaʻau:**
+**Ending the call:**
 
-- Faʻaiʻu a o le le malolo le tagata, pe lelei lava i se taimi maualuga.
-- Faʻaaoga le tautalaga tutusa i taimi uma: “O le a ou valaʻau i lau aso le taeao i le taamilo. Ou te alofa ia te oe.”
-- Aua le faʻaumaʻi le valaʻau.
+- End before the person gets tired, ideally on a high note.
+- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
+- Do not drag it out.
 
-## Ni fautuga mo le fesoasoani i le nofoaga
+## Tips for the helper on site
 
-Afai o oe o le paaga, o se tasi o le aiga, o le fesoasoani po se tagata o le fale tausiga o loo fesoasoani i le valaʻau, o oe e mafai ai.
+If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
 
-- **Saunia se nofoaga filemu.** Tape le televise ma tapuni le faitotoa.
-- **Amata le valaʻau oe lava,** ona foaʻi lea o le taplete i luga o se faʻamau po taʻu i le maualuga o mata.
-- **Nofo i le itu o le tagata, aua le i luma.** O lou faatasi o se mea e malolo ai. Taʻu malulu pe a manaʻomia: “Vaʻai, o Jenny lea.”
-- **Ia avea ma lima.** Faʻaali ata, taʻi le taʻalo, faʻasolo le taplete e faʻaali ai le potu.
-- **Vaʻai i le vaivai po le popole,** ma taʻu i le valaʻau pe a tatau ona faʻaiʻu.
-- **Ta'u le valaʻau mea na lelei.** “Na fiafia o ia i le kuli” e fesoasoani i le fuafuaina o le valaʻau mulimuli.
+- **Set up a quiet spot.** Turn off the TV and close the door.
+- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
+- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
+- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
+- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
+- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
 
-O le NIA o loo fautua ia faʻaaʻoaʻoina e le tagata o mamao le auala e mafai ai e le tagata matutua ona [aʻoaʻo i foliga o lana telefoni](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), e pei o valaʻau vitio. I vaitaimi mulimuli, o le fesoasoani e masani ona taofia le masini atoa. E lelei lena.
+The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
 
-Afai o le tagata o loo nofo i se falemaʻi, o le Alzheimer's Foundation of America o loo fautua ia fesili pe o le nofoaga e fesoasoani i aiga i valaʻau vitio. O loo taʻu foi e le AFA ia faʻasoa ata i le va o aiga ma tagata tausi o le falemaʻi, ma meaʻai po mea faafiafia laiti, pe a uma le siaki o mea e taua e le falemaʻi.
+If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
 
-## Afai e le lelei le valaʻau?
+## What if the call doesn't go well?
 
-E i ai valaʻau e faʻalavelave, le faʻaleaga po le faʻaalia o le popole. E le o se mea e te sese ai, ma e le faʻaleagaina ai le taua o valaʻau.
+Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
 
-- Afai e foliga o le tagata e le malamalama i le ata, suia i se valaʻau telefoni po se vitio faʻamanatu i se taimi malulu.
-- Afai e popole, faʻaalia le lagona, taʻu se upu faʻamalologa, ma faʻaiʻu malulu.
-- Afai valaʻau e le lelei i se taimi o le aso, suia le taimi.
-- Afai latou te manatu o oe o se tasi, talia malulu.
+- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
+- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
+- If calls often go badly at one time of day, try another time.
+- If they think you are someone else, go along with it kindly.
 
-E lelei le faʻaiʻu vave. O se valaʻau puʻupuʻu ma le alofa o se iuga lelei.
+It is fine to end early. A short, warm call is a good outcome.
 
-## I le va o valaʻau
+## Between calls
 
-Faʻatumau le ola i isi auala. O Dementia Australia o loo fautua ia auʻai i pepa, imeli, ata po mea laiti e aoga. O se pepa lafo i le vaiaso e faʻaalia ai se ata tele ma se tusi puʻupuʻu e mafai ona toe faitau e toe faitau. O [pepa talanoaga](/games/conversation-cards/) ua lolomi ua lafo i le fesoasoani e mafai ona avea ma mataupu lelei mo le valaʻau mulimuli.
+Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
 
-Mo auala e filifili ai ma setiina ai se taplete, vaʻai i [taplete ma ata](/caregiving/tablets-and-screens/). Mo taimi i le tino, vaʻai i lo matou taʻiala o [asiasi](/activities/visiting/).
+For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).

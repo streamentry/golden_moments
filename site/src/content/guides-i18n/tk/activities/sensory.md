@@ -1,33 +1,33 @@
 ---
-title: "Demensiýa bilen ýaşaýan adamlar üçin duýgy işleri"
-seoTitle: "Demensiýa üçin duýgy işleri: pikirler we howpsuzlyk"
-description: "Demensiýa bilen ýaşaýanlar üçin el massažyndan mata sebedine we tebigat seslerine çenli duýgy işleri; ýuwutmak, allergiýa we ysy barada howpsuzlyk."
+title: "Sensory Activities for People with Dementia"
+seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
+description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Duýgy işleri duýmagy, ysy, tagamy, sesi we görmegi ulanýar: ýuwaş el
-  massažy, ýumşak mata sebedi, ysamak üçin täze ösümlikler, tebigat sesleri ýa-da
-  penjireden guşlara seretmek. Olar her tapgyra laýyk gelýär we soňky tapgyrlarda
-  has gymmatlydyr. Ilki bilen bogulma howpuny, allergiýalary, deri problemalaryny
-  we ysa duýgurlygy barlaň, bir wagtda bir zat hödürläň we adam rahatsyz görünse,
-  bes ediň.
+  Sensory activities use touch, smell, taste, sound and sight: a slow hand
+  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
+  watching birds at a window. They suit every stage and are especially
+  valuable later on. Check first for choking risks, allergies, skin problems
+  and scent sensitivity, offer one thing at a time, and stop if the person
+  seems uneasy.
 keyPoints:
-  - "Duýgy işleri dogry jogap talap etmeýär, şonuň üçin olar her tapgyrda, ýatakda ýa-da oturgyçda hem işleýär."
-  - "Ümsümje otagda bir wagtda bir duýgy hödürläň we ellemezden öň soraň ýa-da habar beriň."
-  - "Kiçijik zatlardan we iýmite meňzeýän, ýöne iýmit bolmadyk zatlardan gaça duruň, çünki adamlar zatlary agzyna salyp biler."
-  - "Krem, ys ýa-da iýmit ulanmazdan öň allergiýalary, deri problemalaryny we dem alyş kynçylyklaryny barlaň."
-  - "Aromaterapiýanyň demensiýa alamatlaryna kömek edýändigine ynandyryjy subutnama ýok; ysy diňe ýönekeý lezzet üçin, eger ulanylsa, ulanyň."
+  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
+  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
+  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
+  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
+  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
 faq:
-  - q: "Demensiýa bilen ýaşaýan adam üçin haýsy duýgy işleri gowy?"
-    a: "Ýönekeý pikirler: krem bilen ýuwaş el massažy, ýumşak matalary tutmak, täze ösümlikleriň ýa-da kofeniň ysyny almak, halaýan aýdymlary ýa-da tebigat seslerini diňlemek, guşlara ýa-da akwariuma seretmek we howpsuz gurluşda halaýan nahary datmak. Bir wagtda bir zat hödürläň we adamyň nähili jogap berýändigine syn ediň."
-  - q: "Zatlary agzyna salýan adam üçin duýgy işleri howpsuzmy?"
-    a: "Üns berilse, howpsuz bolup biler. Diňe ýuwdulyp bilmejek uly zatlary ulanyň, kiçijik ýa-da döwülip biljek zatlardan gaça duruň we krem, sabyn we ysly önümleri soň elýetmez ýerde saklaň, çünki olar iýmite meňzäp bilýär ýa-da iýmit ýaly ysaýar. Wagtyň dowamynda adamyň ýanynda boluň."
-  - q: "Aromaterapiýa demensiýa kömek edýärmi?"
-    a: "Cochrane syny, barlaglar kiçi we gapma-garşy bolsa-da, aromaterapiýanyň demensiýa bilen ýaşaýan adamlara kömek edýändigine ynandyryjy subutnama tapmady. Eger adam ýumşak, tanyş ysy halaýan bolsa, bu mümkin, ýöne güýçli esasy ýaglardan, esasanam dem alyş kynçylyklary ýa-da allergiýasy bar bolsa, gaça duruň."
-  - q: "Iş öňlügi ýa-da gurşaw nämedir?"
-    a: "Bu, üstüne uly düwmeler, zamoklar, lentalar we gödek ýamalar ýaly tutup görmek üçin zatlar berk tikilen mata, öňlük ýa-da dyz ýapgysydyr. Ol işjeň ellere öwrenmek üçin zat berýär. Ony çekilip bilinjek boş zatlar üçin ýygy-ýygydan barlaň."
+  - q: "What are good sensory activities for someone with dementia?"
+    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
+  - q: "Are sensory activities safe for someone who puts things in their mouth?"
+    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
+  - q: "Does aromatherapy help with dementia?"
+    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
+  - q: "What is a fidget or activity apron?"
+    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
 health: false
 ---
 
-Duýgy işleri bäş duýgyny ulanýar: duýmak, ys, tagam, ses we görmek. Olar ýat, ädimler ýa-da dogry jogap talap etmeýär, şonuň üçin islendik tapgyrda işläp biler. Olar soňky tapgyrlarda iň köp ähmiýete eýe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) soňky tapgyrda dünýäniň esasan duýgular arkaly başdan geçirilýändigini we ideg duýmak, ses, görmek, tagam we ys arkaly görkezilip bilinjekdigini bellär. Birnäçe howpsuzlyk barlagy bu işleri hemmeler üçin rahat edýär.
+Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
 
-## Demensiýa üçin duýgy işleri näme?
+## What are sensory activities for dementia?
 
-Duýgy işleri, mata duýmak, ösümlikleriň ysyny almak ýa-da ýagyşy diňlemek ýaly, bir wagtda bir duýga esaslanan ýönekeý tejribelerdir. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) soňky tapgyr işleriniň köplenç duýgulara ünsi jemlemelidigini aýdýar we aýdym-sazy, tutup görmek üçin zatlary we el massažyny agzaýar. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) soňky tapgyrdaky adamlaryň teselli üçin bir zady ýakyn tutmaga güýçli zerurlygy bolup biljekdigini belleýär.
+Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
 
-## Duýgy boýunça duýgy pikirleri
+## Sensory ideas, sense by sense
 
-### Duýmak
+### Touch
 
-- **El massažy.** Ellerde azajyk krem ýylyň we biliginden barmak uçlaryna çenli ýuwaşlyk bilen sylaň. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) rahatlyk üçin ysy ýok krem bilen massaž etmegi agzaýar.
-- **Mata sebedi.** Sylamak, bukmak we gürrüň etmek üçin barhat, kordýuroý, flis, atlas we ýüň matalaryň uly bölekleri.
-- **Ýylylyk bilen ýuwulýan mata.** Sowuk günde eller üçin ýyly, çygly mata. Temperaturany ilki öz biliňizde barlaň.
-- **Iş öňlügi ýa-da dyz ýapgysy.** Uly düwmeler, zamoklar, lentalar we gödek ýamalar berk tikilen.
-- **Bukmak we tekizlemek.** Bukmak, üýşürmek we gaýtadan bukmak üçin arassa ýuwulýan matalar ýa-da salfetkalar sebedi.
-- **Tutmak üçin ýumşak zat.** Flis ýapgy, ýassyk ýa-da hakyky ýaly ýumşak haýwan, ýönekeý hödürlenýär, hiç haçan oýnawaç hökmünde däl.
+- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
+- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
+- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
+- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
+- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
+- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
 
-### Ys
+### Smell
 
-- **Täze ösümlikler.** Nan, rozmarin, reýhan ýa-da lawanda ýaprajyklaryny barmaklaryňyzyň arasynda ýuwaşja sürtüň we uzadyň.
-- **Aşhana yslary.** Ýakynda gaýnadylýan kofe, gyzdyrylýan nan, darçyn ýa-da arassalanýan apelsin.
-- **Gülller.** Bagdan ýa-da dükandan birnäçe täze gül getiriň.
-- **Tanyş önüm.** Hemişe ulanýan sabyny ýa-da kremi, derisi çydamly bolsa.
+- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
+- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
+- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
+- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
 
-### Tagam
+### Taste
 
-- **Halaýan tagam.** Halaýan zadyndan kiçijik çemçe, mysal üçin alma püresi, puding ýa-da doňdurma, howpsuz iýip biljek gurluşda.
-- **Bişirmäge kömek.** Bilelikde bişirýärkäňiz miwe ýa-da azajyk krem datmak.
-- **Möwsümleýin tagamlar.** Tomusda garpyz, güýzde ýyly alma şiresi, howpsuz temperaturada hödürlenýär.
+- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
+- **Help with baking.** Tasting fruit or a little frosting while you bake together.
+- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
 
-### Ses
+### Sound
 
-- **Halaýan aýdym-saz.** Tanyş aýdymlar ýuwaş ses bilen; [aýdym-saz işlerine](/activities/music/) serediň.
-- **Tebigat sesleri.** Ýagyş, tolkunlar ýa-da guş sesi. NIA aýdym-sazyň, ak şuwuldyň we tebigat seslerinüň käbir adamlary rahatlandyrýandygyny belleýär.
-- **Siziň sesiňiz.** Ses çykaryp okamak, ýuwaşlyk bilen aýdym aýtmak ýa-da hekaýa aýtmak.
-- **Ýönekeý saz gurallary.** Aýdym-saz bilen çalmak üçin el deprezi, şaker ýa-da jaň.
+- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
+- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
+- **Your voice.** Reading aloud, humming, or telling a story.
+- **Simple instruments.** A hand drum, shaker or bell to play along with music.
 
-### Görmek
+### Sight
 
-- **Penjireden seretmek.** Penjiräniň daşyndaky guş iýmiti, öýe barýan çagalar ýa-da ýagýan gar.
-- **Akwarium ýa-da ýuwaş wideo.** Ýokary ses bolmazdan mylaýym hereket.
-- **Uly suratlar.** Bir wagtda bir aýdyň surat, göz derejesinde tutulýar.
-- **Reňk we nagyş.** Reňkli mata galyndylaryny, gülleri ýa-da reňkli salfetkalary saýlamak ýa-da [reňklemek](/games/coloring/) toplumymyzdan ýönekeý reňkleme sahypasy.
-- **Daşarda.** NHS ysly ösümlikleri, dürli gurluşlary we suw öwüşginleri bolan duýgy bagyny maslahat berýär. [Daşarda we bagda işlere](/activities/outdoor-and-gardening/) serediň.
+- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
+- **A fish tank or slow video.** Gentle movement without loud sound.
+- **Large photos.** One clear picture at a time, held at eye level.
+- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
+- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
 
-## Duýgy gutusyny nädip ýasamaly
+## How to make a sensory box
 
-1. **Adamyň ömri bilen baglanyşykly tema saýlaň:** kenar, bag, aşhana, ussahana, tikin.
-2. **Bäş-alty uly, howpsuz zat saýlaň,** mysal üçin uly deňiz bakasy, agaç çemçe, ýumşak şarf, tikilip ýapylan gurak lawanda tüýbi ýa-da ýylmanak agaç blok.
-3. **Her bir zady barlaň:** kiçijik bölekler, ýiti gyralar, boş sapaklar we döwülip biljek zatlar bar bolmasyn.
-4. **Bir wagtda bir zat çykaryň.** Ony uzadyň, suratlandyryň we adamyň öwrenmegine ýol beriň.
-5. **Soňundan gutyny aýryň,** şeýdip ol aýratyn bolup galýar we zatlar indiki gezekden öň ýene barlanýar.
+1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
+2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
+3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
+4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
+5. **Put the box away afterward** so it stays special and items are checked again before next time.
 
-## Ilki howpsuzlyk
+## Safety first
 
-Duýgy işleri mylaýymdyr, ýöne birnäçe howp möhümdir. Demensiýa bilen ýaşaýan käbir adamlar iýmit bolmadyk zatlary iýmit bilen garyşdyrýar we ýuwutmak wagtyň geçmegi bilen kynlaşyp biler; NIA soňky tapgyrdaky ýuwutmak kynçylyklarynyň bogulma howpuny artdyrýandygy barada duýdurýar.
+Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
 
-| Howp | Näme etmeli |
+| Risk | What to do |
 | --- | --- |
-| Bogulma | Diňe ýuwdulmaz ýaly uly zatlary ulanyň. Gutuda düwmeler, monjuklar, teňňeler, şarlar ýa-da kiçijik oýnawaçlar boş bolmasyn. Iýmiti diňe ideg toparynyň howpsuz diýýän gurluşynda hödürläň. |
-| Iýmite meňzeýän zatlar | NIA iýmite meňzäp ýa-da iýmit ýaly ysaýan kremleri, sabynlary, şampunlary we ysly suwlary gulplap saklamagy we emeli miwäni aýyrmagy maslahat berýär. Duýgy önümlerini ulanylandan soň aýryň. |
-| Allergiýalar | Başlamazdan öň hozlara, lateksa, ýüne, ösümliklere ýa-da ysly önümlere allergiýany barlaň. |
-| Güýçli ysy | Güýçli ysly suwlardan we esasy ýaglardan, esasanam astma ýa-da başga dem alyş kynçylyklary bolsa, gaça duruň. Ýumşak, tebigy yslar has howpsuzdyr. |
-| Deri | Massažyň öň ýarasy, ýarylan ýa-da gowşak deri barlaň. Ýuwaş basyş ulanyň we olar çytylsa, bes ediň. |
-| Temperatura | Ýyly mata we içgileri ilki öz biliňizde barlaň. |
-| Ýiti ýa-da zäherli zatlar | Ýiti gurallar, aýna ýa-da zäherli el işi serişdeleri ulanmaň. |
+| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
+| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
+| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
+| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
+| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
+| Temperature | Test warm cloths and drinks on your own wrist first. |
+| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
 
-## Aromaterapiýa kömek edýärmi?
+## Does aromatherapy help?
 
-Ähtimal, ölçärlik derejede däl. [Demensiýa üçin aromaterapiýa boýunça Cochrane syny](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) hemmesi ideg öýlerinde bolan 708 adamly 13 barlagy gözden geçirdi we peýdanyň ynandyryjy subutnamasyny tapmady. Barlaglar kiçi boldy, netijeler biri-birine gapma-garşy geldi we ýan täsirler gowy hasabat berilmedi. Eger adam bagdan gelen lawanda ýaly ýumşak, tanyş ysy halaýan bolsa, ony paýlaşmak gowy sebäpdir. Bu bejeriş däl.
+Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
 
-## Duýgy işini nädip hödürlemeli
+## How to offer a sensory activity
 
-- **Ümsümje pursat saýlaň** we telewizory öçüriň.
-- **Öňünden ýakynlaşyň,** adyny aýdyň we ellemezden öň soraň ýa-da habar beriň: «Meniň krem bar. El sylamak isleýärsiňizmi?»
-- **Bir wagtda bir zat hödürläň,** şeýdip ol basyp barmaz.
-- **Jogaba syn ediň.** Ýumşan ýüz, rahat eller ýa-da ýylgyryş gowy alamatlardyr. Daşlaşmak, gaşyny çytmak ýa-da biynjalyklyk bes etmeli diýmekdir.
-- **Gysga saklaň.** Bäş sakin minut gowy sessiýadyr.
+- **Choose a quiet moment** and turn off the TV.
+- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
+- **Offer one thing at a time** so it does not overwhelm.
+- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
+- **Keep it short.** Five calm minutes is a good session.
 
-[Sakin dem alyş](/games/calm-breathing/) ýaly bilelikde ýuwaş dem alyş pauzasy gutarmagyň mylaýym ýoly bolup biler. Ýatagyň ýanynda has köp pikir üçin [soňky tapgyr işlerine](/activities/late-stage/), agşam biynjalygy üçin bolsa [agşamky biynjalyga](/caregiving/late-day-restlessness/) serediň.
+A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).

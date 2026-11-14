@@ -1,32 +1,32 @@
 ---
-title: "Demensiýa bilen ýaşaýan adam üçin ýuwaş gündelik tertip"
-seoTitle: "Demensiýa üçin gündelik tertip: çeýe nusga güni"
-description: "Demensiýa bolan adam üçin çeýe nusgawy gün: nahar, işjeňlik we dynç yzygiderli; öz tertibiňizi gurmak we kyn günlerde uýgunlaşdyrmak."
+title: "A Gentle Daily Routine for Someone Living with Dementia"
+seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
+description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ýuwaş gündelik tertip oýanmagy, naharlary, şahsy ideg işlerini we ýatmagy
-  takmynan şol bir wagtda saklaýar, esasy işjeňligi adamyň iň ukyply wagtyna
-  goýýar we işjeňligi dynç alyş bilen deňleşdirýär. Ony adamyň ömürlik
-  endiklerinden gurup, dykyz däl-de ýuwaş saklaň, her gün gün şöhlesini we
-  hereketi üpjün ediň we gün talap edende meýilnamany erkin üýtgediň.
+  A gentle daily routine keeps waking, meals, personal care and bedtime at
+  about the same times, places the main activity when the person is most
+  alert, and balances activity with rest. Build it from the person's lifelong
+  habits, keep it loose rather than packed, get daylight and movement each
+  day, and change the plan freely when the day calls for it.
 keyPoints:
-  - "Oýanmak, nahar, ideg we ýatmak üçin yzygiderli wagtlar güne tanyş görnüş berýär."
-  - "Esasy işjeňligi adamyň iň gowy wagtyna, köplenç irden, goýuň."
-  - "Her minuty doldurmaň. Dynç alyş we ümsüm wagt tertibiň bir bölegidir."
-  - "Gün şöhlesi, gündelik hereket we uzak giç uklamakdan hem-de giç kofeinden gaça durmak günüň ahyrky ýarysyndaky biynjalyga kömek edip biler."
-  - "Tertip ýol görkeziji, düzgün däl. Kyn günlerde islendik zady çalşyň, gysgaldyň ýa-da taşlaň."
+  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
+  - "Put the main activity at the person's best time of day, often the morning."
+  - "Do not fill every minute. Rest and quiet time are part of the routine."
+  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
+  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
 faq:
-  - q: "Demensiýa bolan adam üçin tertip näme üçin peýdaly?"
-    a: "Çaklanyp boljak gün has az karar we garaşylmadyk ýagdaý diýmekdir, muny demensiýa bilen ýaşaýan köp adam rahatlandyryjy hasaplaýar. Alzheimer's Association meýilleşdirilen günüň näme etmelidigini kesgitlemäge az wagt, ikiňiziň hem ýaraýan zatlaryňyza has köp wagt goýmaga mümkinçilik berýändigini belleýär. Ol ideg edýänlere hem öz gününi paýlamaga kömek edýär."
-  - q: "Demensiýa bolan adam üçin gowy gündelik tertip nähili?"
-    a: "Ýeke-täk dogry tertip ýok. Gowy tertip oýanmagy, naharlary we ýatmagy takmynan şol bir wagtda saklaýar, şahsy ideg işini we esasy işjeňligi adamyň iň gowy wagtyna goýýar, daşarda ýa-da penjiräniň ýanynda wagt goşýar we dynç alyşa ýer galdyrýar. Ony adamyň hemişe nähili ýaşandygyna görä guruň."
-  - q: "Demensiýa bolan adam gündiz uklamalymy?"
-    a: "Gysga dynç alyş, aýratyn hem günortanlykdan soň, kömek edip biler. National Institute on Aging uzak uklamagyň we günüň ahyrynda dem almagyň öňüni almagy maslahat berýär, sebäbi aşa ýadamak ýa-da ýeterlik dynç almazlyk günüň ahyrky ýarysyndaky biynjalygy artdyryp biler. Uky hakyky mesele bolsa, onuň lukmany bilen gürleşiň."
-  - q: "Tertibe eýermekden ýüz öwürse näme etmeli?"
-    a: "Şol wagtlykça goýuň we soňrak ýa-da başga usul bilen gaýtadan synanyşyň. Ýüz öwürmek onuň ýadandygyny, näsagdygyny, agyrysynyň bardygyny ýa-da heniz taýyn däldigini aňladyp biler. Tertip günüňizi ýeňilleşdirmek üçin bar, şonuň üçin ony mejbur etmek derek egiň."
+  - q: "Why is a routine helpful for someone with dementia?"
+    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
+  - q: "What is a good daily schedule for someone with dementia?"
+    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
+  - q: "Should a person with dementia nap during the day?"
+    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
+  - q: "What if they refuse to follow the routine?"
+    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-Ýuwaş tertip güne tanyş görnüş berýär: turmak, nahar, bir az işjeňlik, dynç alyş we ýatmak takmynan şol bir wagtlarda bolýar. Ol karar we garaşylmadyk ýagdaý sanyny azaldýar we indiki ädimiň näme boljakdygyna jaň edýän pursatlar üçin size meýilnama berýär. Aşakdaky tertip nusgadyr, düzgün däl. Ony başlangyç hökmünde ulanyň, soň ideg edýän adamyňyza görä düzediň.
+A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
 
-## Gündelik tertip näme üçin kömek edýär?
+## Why does a daily routine help?
 
-Yzygiderli tertip kömek edýär, sebäbi tanyş nagyşlara eýermek täzelerden ýeňildir. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) meýilleşdirilen günde näme etmelidigini kesgitlemäge az wagt, hezil berýän işjeňliklere has köp wagt gidýändigini aýdýar we oýanmak hem-de ýatmak üçin yzygiderli wagtlaryň uky meselelerine we günüň ahyrky ýarysyndaky biynjalyga kömek edip biljekdigini belleýär. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ýuwunmagy, geýinmegi we iýmegi rahat öýüň bir bölegi hökmünde her gün şol bir wagtlarda etmegi maslahat berýär we [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) hem şol bir tertipleri saklamagy maslahat berýär.
+A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
 
-## Ýuwaş günüň nusgasy
+## A sample gentle day
 
-Wagtlar diňe mysaldyr. Ähli günü adamyň öz ritmine laýyk irräk ýa-da giçräk süýşüriň.
+Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
 
-| Wagt | Näme bolýar | Ideýalar | Has kyn günde |
+| Time | What happens | Ideas | On a harder day |
 | --- | --- | --- | --- |
-| 8:00 irden | Turmak, ýuwunmak, geýinmek | Her gün şol bir yzygiderlikde; eşikleri geýilýän tertibinde goýuň | Idegi ýönekeý saklaň; täze köýnek ýeterlik |
-| 8:45 irden | Ertirlik | Kofe we ýokary ses bilen okalýan gazet ýa-da radio | Hiç hili gürleşmek basyşy bolmazdan ümsüm iýiň |
-| 9:30 irden | Esasy işjeňlik | Eşik bukmak, çörek bişirmek, bag-bakja, gysga gezelenç ýa-da ýöremek | Has gysga görnüşi ýa-da siziň edýänňize seretsin |
-| 10:30 irden | Ümsüm wagt | Aýdym-saz, surat albomy ýa-da penjiräniň ýanynda oturmak | Halaýan oturgyjynda dynç almak |
-| 11:00 irden | Günortanlyga kömek | Gök önümleri ýuwmak, saçak ýazmak | Siz bişirýärsiňiz; ol size ýoldaş bolýar |
-| 12:00 günorta | Günortanlyk we ýygnamak | Stolu süpürmek, birnäçe gap-çanagy süpürmek | Işleri taşlaň |
-| 1:00 günortandan soň | Gysga dynç alyş | Aýaklary ýokarda, ýumşak aýdym-saz | Şol bir |
-| 2:00 günortandan soň | Daşarda ýa-da hereketli | Ýöremek, eýwanda oturmak, gül sugarmak, şar zyňmak | Güneşli penjiräniň ýanynda oturmak |
-| 3:00 günortandan soň | Sosial ýa-da döredijilikli | Gelip görmek, jaň, [surat jübütleri](/games/picture-pairs/), reňkleme, kartoçka | Bilelikde içgi we çalt iýmit |
-| 4:30 günortandan soň | Köşeşmek wagty | Perdeler ýapyk, çyralar ýanyk, ýuwaş iş, meselem ýuwunmak polotensalaryny bukmak | Tanyş aýdym-saz, pes ses |
-| 5:30 agşam | Agşamlyk nahar | Garyşdyrmaga ýa-da saçak ýazmaga kömek | Ýönekeý, tanyş nahar |
-| 6:30 agşam | Agşam bilelikde | Süýjülik bilen ýatlamak, kartoçka, halaýan görkezme, el massažy | Ümsüm ýoldaşlyk |
-| 8:00 agşam | Ýatmak tertibi | Wanna ýa-da ýuwunmak, pižama, ýumşak aýdym-saz, pes yşyk | Hemme zady gysgaldyň; ilki rahatlyk |
+| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
+| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
+| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
+| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
+| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
+| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
+| 1:00 p.m. | Short rest | Feet up, soft music | Same |
+| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
+| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
+| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
+| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
+| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
+| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
 
-Bu nusga Alzheimer's Association-yň ilkinji we orta tapgyrlar üçin öz nusga meýilnamasynyň görnüşine eýerýär; ol şahsy ideg we ertirlikden başlap, öý işlerine, gezelençlere, aýdym-saza, dynç alyşa we myhmançylyklara, soň agşamlyk nahara, ýatlamaga we ýatmaga taýynlanmaga barýar.
+This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
 
-## Öz tertibiňizi nädip gurmaly?
+## How do you build your own routine?
 
-Jedweldan däl-de, adamyň hemişe nähili ýaşandygyndan başlaň. Alzheimer's Association meýilleşdirmezden ozal şu zatlar hakda pikir etmegi maslahat berýär:
+Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
 
-- **Onuň ýaratýan, ýaratmaýan zatlary, güýçli taraplary we gyzyklanmalary.**
-- **Ol gününi öň nähili geçirýärdi.** Hemişe itini gezdirýän ir turýan adam henizem irden gezmelidir. Giç ýatýan adam 8-de başlamagy hiç wagt halamaz.
-- **Onuň iň gowy wagty.** Ýuwunmagy, gezelençleri we esasy işjeňligi şol wagta goýuň.
-- **Naharlar, ýuwunmak we geýinmek üçin ýeterlik wagt,** şonda hiç zat howlukmaçlykda bolmaz.
-- **Yzygiderli oýanmak we ýatmak wagtlary.**
+- **Their likes, dislikes, strengths and interests.**
+- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
+- **Their best time of day.** Put bathing, outings and the main activity there.
+- **Enough time** for meals, washing and dressing, so nothing is rushed.
+- **Regular waking and bedtimes.**
 
-Şol bir çeşme öý işleriniň, naharlaryň, şahsy idegiň, döredijilikli işjeňlikleriň, fiziki işjeňligiň, sosial wagtyň, ruhy işjeňligiň we spontan pursatlaryň, meselem dostuň duýdansyz gelmeginiň garyndysyny goşmagy maslahat berýär.
+The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
 
-### Bir hepde synap görüň, soň sazlaň
+### Try it for a week, then adjust
 
-Her gün ýönekeý bellik ýöredip duruň. Alzheimer's Association haýsy işjeňlikleriň iň gowy işländigini we näme üçindigini, aşa köp zadyň bolan ýa-da etmeli iş az bolan wagtlaryň bardygyny we spontan meýilnamalaryň hezilli bolandygyny ýa-da alada döredendigini soramagy maslahat berýär. Işleýäni saklaň, işlemeýäni üýtgediň.
+Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
 
-### Ony görünýän ediň
+### Make it visible
 
-Eger adam henizem okap bilýän bolsa, günüň meýilnamasy ýazylan ak tagta ýa-da uly harply kartoçka rahatlandyryjy bolup biler. Ony gysga saklaň: “Ertirlik. Sara bilen gezelenç. Günortanlyk. Dynç alyş.” Käbir adamlar öňünden bilmän has gowy işleýär; Family Caregiver Alliance alada döretse, meýilnamalary diňe başlamazdan öň ýaňy ara alyp maslahatlaşmagy maslahat berýär.
+If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
 
-## Tertibi nädip uýgunlaşdyrmaly
+## How to adapt the routine
 
-### Dem almaga ýer galdyryň
+### Leave room to breathe
 
-Her minuty doldurmaň. Alzheimer's Association adamyň işjeňlik bilen dynç alyşyň deňagramlylygyna mätäçdigini we has ýygy arakesmelere mätäç bolup biljekdigini nygtaýar. Ol gaýgyly, ünsi dargan ýa-da gaharjaň görünse, işjeňligi çalşyň ýa-da dynç alyň.
+Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
 
-### Günortandan soňky wagty goraň
+### Protect the late afternoon
 
-Köp adam gün şöhlesi gaýdanda has biynjalyk bolýar. NIA her gün gün şöhlesi üçin daşarda ýa-da penjiräniň ýanynda wagt geçirmegi, aşa köp meýilleşdirmezden her gün hereketli bolmagy, günüň ahyrynda kofeinden we alkogoldan gaça durmagy we günüň ahyrynda uzak uklamagyň öňüni almagy maslahat berýär. Käbir maşgalalar garaňkydan öň perdeleri ýapmagyň we çyralary ýakmagyň kömek edýändigini hem görýär. [Günüň ahyrky ýarysyndaky biynjalyga](/caregiving/late-day-restlessness/) we [uka](/brain-health/sleep/) serediň.
+Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
 
-### Zerurlyk üýtgände ony üýtgediň
+### Change it as needs change
 
-- **Ilkinji tapgyr:** tertibi bilelikde meýilleşdiriň. Adam özi dolandyrýan ýazylan jedweli isläp biler.
-- **Orta tapgyr:** siz has köp ýolbaşçylyk edýärsiňiz. Has gysga işjeňlikler, has köp dynç alyş we köp tanyş işler; [orta tapgyr işjeňliklerine](/activities/middle-stage/) serediň.
-- **Giçki tapgyr:** tertip rahatlyga, naharlara we idege ýygnanýar, aralykda aýdym-saz ýa-da el massažy ýaly gysga duýgy pursatlary bilen; [giçki tapgyr işjeňliklerine](/activities/late-stage/) serediň.
+- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
+- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
+- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
 
-### Çarçuwany däl-de, işjeňlikleri üýtgediň
+### Vary the activities, not the frame
 
-Naharlary, dynç alyşy we ýatmagy durnukly saklaň, aralykdaky işjeňlikleri çalşyň. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gyzykly bolsun diýip, dürli günlerde dürli işjeňlikleri synap görmegi maslahat berýär. Duşenbe güni çörek bişirip, Sişenbe güni bag-bakja bilen meşgullanyp, Çarşenbe güni suratlara seredip bilersiňiz. Biziň [101 işjeňlik ideýamyz](/activities/ideas/) we [öý işleri](/activities/household-tasks/) boş ýerleri doldurup biler.
+Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
 
-## Gün ýalňyş gidende
+## When the day goes sideways
 
-Käbir günler hiç hili meýilnama eýermez. Keselçilik, ýaman gije, lukmanyň gelmegi ýa-da howanyň üýtgemegi hemme zady bulaşdyryp biler. Meýilnamany taşlaň, esaslary (iýmit, içgi, dynç alyş, rahatlyk) saklaň we ertir ýene synanyşyň. Adam bir zatdan ýüz öwürse, [ýok diýse](/caregiving/when-they-say-no/) sahypasyna serediň. [Ýuwaş dem almak](/games/calm-breathing/) ýaly bilelikdäki haýal dem alyş arakesmesi ikiňize hem täzeden başlamaga kömek edip biler.
+Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
 
-Siziň öz tertibiňiz hem möhümdir. Özüňiz üçin arakesme goşuň we yzygiderli dynç alyş wagty üçin maşgaladan ýa-da wagtlaýyn ideg hyzmatyndan kömek sorap görüň. [Ideg edýäniň özüne ideg etmegine](/caregiving/caregiver-self-care/) serediň.
+Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).

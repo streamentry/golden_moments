@@ -1,30 +1,35 @@
 ---
-title: "Gaioiga ma Taʻaloga mo Tagata ma le Alzheimer's"
-seoTitle: "Gaioiga ma Taʻaloga mo le Alzheimer's: Manatu i Laasaga"
-description: "Gaioiga ma taʻaloga mo tagata ma le Alzheimer's i laasaga uma, e faavae i galuega ma manatu o loo tumau, ma taʻaloga saʻoloto e faatasi."
+title: "Activities and Games for People with Alzheimer's"
+seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
+description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  E sili ona lelei gaioiga mo se tasi ma le Alzheimer's pe a faavae i mea e tumau umi: galuega na aʻoaʻoina umi, pese anamua, galuega masani o le fale ma lagona. I le amataga, pepa taʻaloga, taʻaloga laulau, kuka ma malaga e masani ona aoga. I le vaega waenā, faafeuaina, faavasegaina, pese, album o ata ma taʻaloga ata faigofie. Mulimuli ane, musika, taʻi malū ma le faatasi e sili ona taua. Vaai i le tulaga o le tagata i aso nei.
+  Good activities for someone with Alzheimer's lean on what lasts longest:
+  long-practiced skills, old songs, familiar chores and the senses. Early on,
+  cards, board games, cooking and outings often still work. In the middle
+  stage, try folding, sorting, singing, photo albums and simple picture games.
+  Late in the disease, music, touch and company matter most. Go by how the
+  person is today.
 keyPoints:
-  - "O le Alzheimer's o le mafuaaga sili ona masani o le dementia, o lea e aoga foi ai manatu gaioiga o le dementia ia te ia."
-  - "O mea fou e masani ona sili ona faigata muamua, ae o galuega ma pese na aʻoaʻoina umi e masani ona tumau umi. Fausia i ai."
-  - "O laasaga e faʻafesagaʻi ma aso lelei ma aso faigata e masani. Filifili e tusa ma le mea e mafai ma le mea e fiafia ai le tagata i aso nei."
-  - "Filifili taʻaloga e leai ai se taimi, se sikoa poʻo fesili, ma taumafai ia tumau ata e vaaia."
-  - "Matamata, uuina se mea, poʻo naʻo le nofo faatasi e faitau uma o le auai."
+  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
+  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
+  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
+  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
+  - "Watching, holding something or simply sitting together all count as taking part."
 faq:
-  - q: "O ā gaioiga e lelei mo se tasi ma le Alzheimer's?"
-    a: "Gaioiga masani ua faigofieina itiiti: faafeuaina o lauʻie, seti le laulau, kuka faatasi, musika ma pese, matamata i ata, savali, faatoʻaga ma taimi ma se manu e tausia. O ata taʻaloga faigofie, puzzle faigofie ma pepa fesootai e aoga foi mo le tele o tagata. Filifili le mea na fiafia ai i se taimi umi ma faia faatasi ma ia."
-  - q: "E lelei ea taʻaloga mo tagata ma le Alzheimer's?"
-    a: "E mafai ona avea taʻaloga ma auala fiafia e faagaʻo ai taimi faatasi pe a fiafia ai le tagata. E leai se taʻaloga ua faaalia e ola ai, faaleaogaina poʻo taofia le Alzheimer's, o lea filifili taʻaloga mo le fiafia: ata tetele, filifiliga itiiti, ma e leai se taimi, sikoa poʻo leo o tali sese."
-  - q: "E iai ea se eseesega i le va o gaioiga o le dementia ma gaioiga o le Alzheimer's?"
-    a: "E masani ona leai. O le Alzheimer's o le mafuaaga sili ona masani o le dementia, ma o manatu o gaioiga tutusa e aoga. O le mea e fesoasoani i le Alzheimer's o le iloa e masani ona mou muamua manatu fou, o lea gaioiga e faavae i galuega anamua, pese ma masani e masani ona alualu lelei."
-  - q: "O ā mea e mafai ona fiafia ai se tasi o loo i le laasaga mulimuli o le Alzheimer's?"
-    a: "Musika e fiafia i ai, faamasaʻi lima malū, mea malu e taʻi, faitauina o se tala, nofo i fafo, ma le faatasi ma se tagata e faatuatuaina. Ia puʻupuʻu ma filemu, ma matamata i ona foliga ma tino mo mea e fiafia ai."
-  - q: "E faapefea ona ou faia ai se tasi ma le Alzheimer's e fiafia i se gaioiga?"
-    a: "Fesili mo se fesoasoani nai lo le faalauiloaina o se gaioiga, setiina mea uma muamua, ma amata lava ia e faia ina ia mafai ona latou auai. Filifili le taimi o le aso pe a sili ona lelei ai, e taua tele lena. Afai latou te faapea mai le leai, taumafai i le isi taimi poʻo ofo se faʻataʻitaʻiga laʻititi."
+  - q: "What activities are good for someone with Alzheimer's?"
+    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
+  - q: "Are games good for people with Alzheimer's?"
+    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
+  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
+    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
+  - q: "What can someone with late-stage Alzheimer's still enjoy?"
+    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
+  - q: "How do I get someone with Alzheimer's interested in an activity?"
+    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -49,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-Afai o loo i ai se tasi e te alofa ia te ia ma le Alzheimer's, atonu ua e iloa ua masani mea uma e faavavevave ai, ae nisi mea e tumau. Atonu latou te faagaloina le telefoni o le taeao, ae latou te ola i pese uma o se himi, faafeuaina se ʻie e pei o lo latou masani, poʻo tufatufa pepa taʻaloga e aunoa ma le mafaufau. O gaioiga lelei e faavae i na galuega e tumau ai. O lenei itulau e faamatala ai le mafuaaga, ona foaʻi lea o manatu mo laasaga taitasi ma taʻaloga saʻoloto i lenei upega tafaʻilagi e fetaui ai.
+If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
 
-## E ese ea le Alzheimer's mai le dementia i gaioiga?
+## Is Alzheimer's different from dementia when it comes to activities?
 
-E le tele. O le dementia o le faaupuga aofaʻi, ma o le Alzheimer's o le mafuaaga sili ona masani o lona: le [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) taʻu mai e 60 i le 80 pasene o mataupu o le dementia. Toetoe lava o mea uma na tusia e uiga i gaioiga mo le dementia e aoga i le Alzheimer's, e aofia ai a matou [101 manatu o gaioiga](/activities/ideas/).
+Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
 
-O le mea e aoga ona iloa o le faasologa masani o suiga. O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) faamatala e muamua ona afaina ai vaega o le mafaufau e faatatau i le manatua, ona mulimuli ane ai gagana, faamoemoega ma amio faʻaagafesootai. Ua taʻu mai e le Alzheimer's Association o le faailoga muamua e sili ona masani o le faigata ona manatua faamatalaga fou na aʻoaʻoina. E eseese tagata uma, ma e toatele e iai mafuaaga e tele, ae o lenei faasologa e faia ai auala e aoga ai.
+What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
 
-## O ā gaioiga e sili ona fetaui ma le Alzheimer's?
+## What kinds of activities suit Alzheimer's best?
 
-O gaioiga e faalagolago i le poto masani ua aʻoaʻoina umi e masani ona alualu lelei nai lo na e manaʻomia ai le aʻoaʻoina o mea fou ma leumanaʻia i le mafaufau.
+Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
 
-- **Galuega na aʻoaʻoina umi.** Le Alzheimer's Association taʻu mai e mafai ona faaauau pea le taʻalo o pese faigofie na aʻoaʻoina i le piano i tausaga ua mavae. Niniti, faʻamamā vood, faʻasolo pepa taʻaloga, faafafaina palaoa ma faafeuaina lauʻie e tutusa.
-- **Pese anamua ma musika masani.** E toatele tagata e iloa atoatoa upu o pese mai o latou tausaga o le talavou, o himi ma pese o lo latou faaipoipoga. Vaai i [gaioiga o musika](/activities/music/).
-- **Galuega masani ma se finagalo.** Le [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lisi ai le faamaʻa o ipu, seti le laulau, faavasegaina socks ma faafeuaina lauʻie i gaioiga e fiafia ai tagata. O le lagona o le aogā e taua.
-- **Iloa nai lo le toe manatua.** O le faafanua le ata e tutusa e sili atu ona faigofie nai lo le taʻua mai le mafaufau. O le mea lea e sili atu ai ona aoga taʻaloga ata e vaaia uma nai lo fesili.
-- **Lagona.** Le lelei o le mea, le manogi, le vevela, le tofo ma le leo e tumau ai le taua tele ae mavae ai ona faigata upu. Vaai i [gaioiga o lagona](/activities/sensory/).
+- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
+- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
+- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
+- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
+- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
 
-O le mea e le lelei: galuega e iai se uati, tulafono fou e aʻoaʻoina, laasaga tele e manatua, poʻo fesili e faataga ai le manatu, e pei o le "E te manatua o ai lenei?" O na mea e faaalia ai le vaega faigata o le Alzheimer's i luma.
+What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
 
-## Gaioiga mo le Alzheimer's i laasaga muamua
+## Activities for early-stage Alzheimer's
 
-I le laasaga muamua, le [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) taʻu mai e mafai ona faaauau pea ona taʻavale, galue ma auai i gaioiga faʻaagafesootai, ae o loo iloa ai foi faaletonu o le manatu e pei o le galo i upu masani poʻo le mea o loo i ai mea. O le auala sili ona lelei o le faʻatasi: fesili le mea latou te manaʻo e faaauau ai ma le fesoasoani latou te manaʻo.
+In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
 
-1. **Faaauau ai o faiga na filifilia.** Taʻaloga kolfa, pulu, kuite, sosaiete o ekalesia, ma faʻaiʻuga laʻititi e sili ai le filemu ma taimi filemu.
-2. **Taʻalo pepa taʻaloga ma taʻaloga laulau masani.** O le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) faamatala mea taʻaloga, suʻesuʻega upu, taʻaloga pepa ma taʻaloga laulau mo le laasaga muamua. Taʻalo e avea ma se, poʻo aveese le faitau pe a amata ona faafaigata ia te ia.
-3. **Kuka faatasi.** Ia faatautaia se faiga e latou te iloa lava, ae e e fai le faitauina o laasaga.
-4. **Amata se galuega o le olaga.** Ata, faiga ma tala i se album latou te taitaia. Vaai i [gaioiga o le toe manatuina](/activities/reminiscence/).
-5. **Faia malaga.** Se faleaiga o loo fiafia ai i se taimi filemu, se faletalimalo mo se asiasiga puupuu, se malaga i le paka.
-6. **Taumafai i puzzle latou te filifili.** Tusi faaupu ma tusi a mafuaaga, suʻesuʻega upu ma puzzle. Vaai i [puzzle mo le dementia](/activities/puzzles/).
+1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
+2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
+3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
+4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
+5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
+6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
 
-E sili atu manatu: [gaioiga o le laasaga muamua](/activities/early-stage/).
+More ideas: [early-stage activities](/activities/early-stage/).
 
-## Gaioiga mo le Alzheimer's i le vaega waenā
+## Activities for middle-stage Alzheimer's
 
-O le Alzheimer's Association faamatala le vaega waenā e masani ona sili ona umi, ma e mafai ona umi ai tausaga e to'a. Upu e faavaivai, faalavelave e vave ai le lagona, ma e manaʻomia le tausiga sili atu. O le Alzheimer's Foundation of America faaopoopo atu e toatele tagata e manaʻomia le fesoasoani e amata poʻo faaauau ai gaioiga. O lou matafaioi e suia i le setiina o mea, faaalia nai lo le faamatalaina, ma ave ai vaega faigata.
+The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
 
-1. **Faafeuaina, faavasegaina ma faafanua.** Tauelei, socks, ipu, patatauvae e ala i lanu. O galuega moni, faia i le itu tutusa.
-2. **Pese ma gaioiga i le musika.** Faʻaili, siva poʻo siva i le kiki. Amata ona pese ia e aʻo ai latou e auai.
-3. **Faitau album o ata.** Faamatala mea e te vaaia ma valaʻau mo tala: "O se taavale tele. Taʻu mai ia te aʻu e uiga i ai." Ia faatasi ma upu uma latou te faaaogā.
-4. **Taʻalo taʻaloga ata faigofie.** [Picture pairs](/games/picture-pairs/) ma fa e oo i ono ata ma ata e vaaia, poʻo [Find the same](/games/find-the-same/) ma le faʻafiliga e lua poʻo le tolu.
-5. **Faaiʻu upu masani.** "O le fua o le ʻapu e fai ai le..." Faʻaupuga na aʻoaʻoina umi e masani ona alualu faigofie. Taumafai [Finish the saying](/games/finish-the-saying/), lea e mafai ai ona e faaalia so o se faaiʻuga i se tasi tapping.
-6. **Tausia laau ma faʻatoʻaga.** Ipu i le fale poʻo faatoʻaga maualuga, ma se ipu vai laʻititi.
-7. **Faia se taʻaloga fetaui mai ata o le aiga.** [Photo pairs](/games/photo-pairs/) e faaaoga ai ata e te filifili i lau masini, ma latou te le alu ese mai ai.
+1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
+2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
+3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
+4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
+5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
+6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
+7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
 
-E sili atu manatu: [gaioiga o le vaega waenā](/activities/middle-stage/).
+More ideas: [middle-stage activities](/activities/middle-stage/).
 
-## Gaioiga mo le Alzheimer's i le laasaga mulimuli
+## Activities for late-stage Alzheimer's
 
-I le laasaga mulimuli, le Alzheimer's Association taʻu mai e leiloa ai le tagata le gafatia ona tali i lona siosiomaga ma le faaauau o se talanoaga, e ui lava e mafai ona latou fai ni upu poʻo faaupuga. O gaioiga i nei taimi o le faamafanafanaina ma le sootaga, e aumai i le nofoaga o loo malolo ai le tagata.
+In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
 
-1. **Taʻalo musika latou te fiafia i ai** i le filemu, aua le faia le televise e faalavelave.
-2. **Faia se faamasaʻi lima** i se suāʻi e latou te fiafia i le manogi.
-3. **Ofo mea malū e taʻi:** o se ʻie vevela, o se fleece, o se maa malulu.
-4. **Faitau leo** o pese, solo poʻo se tala masani. O le faʻavaʻavaʻa e sili atu nai lo le uiga.
-5. **Nofo i fafo** i le malu, poʻo i le faamalama e iai manu e matamata ai.
-6. **Vaai i se ata tele faatasi.** O se la'au tuatuaʻi poʻo se taʻi i luga o se faʻailo, ma e te faamatala ai le mea e te vaaia.
+1. **Play their favorite music** quietly, without the TV competing.
+2. **Give a hand massage** with a lotion that has a scent they like.
+3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
+4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
+5. **Sit outside** in the shade, or by a window with birds to watch.
+6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
 
-E sili atu manatu: [gaioiga o le laasaga mulimuli](/activities/late-stage/).
+More ideas: [late-stage activities](/activities/late-stage/).
 
-## O ā taʻaloga e lelei mo se tasi ma le Alzheimer's?
+## Which games work for someone with Alzheimer's?
 
-Filifili taʻaloga e leai ai se mea e mafai ona faaleaogaina. O taʻaloga uma o loo i lenei upega tafaʻilagi e saʻoloto, e faagaoioi i le upega tafaʻilagi, ma e leai ai se taimi, sikoa poʻo se faaliga.
+Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
 
-| Taʻaloga | O le mea e te faia | Masani e fetaui ma |
+| Game | What you do | Often suits |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Fetaui ata tetele; latou te mafai ona tumau i luga | Laasaga muamua ma le vaega waenā |
-| [Find the same](/games/find-the-same/) | Tapping le ata e tutusa ma le e i luga | Vaega waenā ma mulimuli, ma se fesoasoani |
-| [Finish the saying](/games/finish-the-saying/) | Filifili le upu mulimuli o se faaupuga masani, poʻo faaalia | Laasaga muamua ma le vaega waenā |
-| [Picture puzzle](/games/picture-puzzle/) | Toe faʻafoi 4 poʻo 9 vaega i lo latou nofoaga, ma le ata e faaalia | Laasaga muamua ma le vaega waenā |
-| [Conversation cards](/games/conversation-cards/) | Se ata ma se fesili saʻoloto e talanoa ai | Laasaga uma, ma se tagata e talanoa ma ia |
-| [Photo pairs](/games/photo-pairs/) | Se taʻaloga fetaui mai ana lava ata | Laasaga muamua ma le vaega waenā |
-| [Coloring](/games/coloring/) | Tapping se lanu, ona vaega lea o se ata; poʻo lolomi | Laasaga uma, ma se fesoasoani |
+| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
+| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
+| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
+| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
+| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
+| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
+| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
 
-Mo le auala e nofo faatasi ai, pe faapefea ona fesoasoani ma pe a tatau ona taofi, faitau [le auala e taʻalo faatasi ai ma se tagata e iai le dementia](/caregiving/how-to-play-together/). Afai o loo e mafaufau i "taʻaloga o le manatu", vaai i [taʻaloga o le manatu mo toeaina ma le dementia](/activities/memory-games/).
+For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
 
-## O le auala e faafefe ai so se gaioiga
+## How to make any activity easier
 
-O le faatonuga a le NIA e taʻu i ni masani: fetaui le gaioiga ma le mea e mafai e le tagata, fesoasoani e amata ai, matamata mo le faalavelave, mafaufau e lagona ai le tagata le manuia, ma tuu latou e matamata naʻo le mea latou te fiafia i ai.
+The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
 
-- **Filifili le taimi o le aso pe a sili ona lelei ai,** ma taumafai e puupuu sauniga.
-- **Setiina mea uma muamua** ina ia mafai ona e amata i le taimi lava lea.
-- **Valaau, aua le faatonu.** "E mafai ea ona e fesoasoani mai?" e sili atu ona lelei nai lo "Ua taimi mo se gaioiga."
-- **Faia le laasaga muamua lava ia e** ma tuu latou ina ia auai.
-- **Ofo se laasaga ma se filifiliga i le taimi.**
-- **Ia faia i lona auala.** E lelei tuaʻi tauelei e le tutusa.
-- **Tuʻu aʻo lelei pea le gaioiga.** O le tuʻu i le taimi lelei e le faaletonu, ae o se taunuuga lelei. Afai latou te teena, vaai i [le mea e tatau ai pe a taʻu mai e le tagata ma le dementia le leai](/caregiving/when-they-say-no/).
+- **Choose the time of day when they are at their best,** and keep sessions short.
+- **Lay everything out first** so you can begin right away.
+- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
+- **Do the first step yourself** and let them join in.
+- **Offer one step and one choice at a time.**
+- **Let it be done their way.** Lopsided towels are fine.
+- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
 
-O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) faamatala i se auala faigofie: taulaʻi i le fiafia, aua le taulaʻi i le manuia.
+The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.

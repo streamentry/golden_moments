@@ -1,33 +1,32 @@
 ---
-title: "Demensiýasy bolan ulular üçin sungat we el işi"
-seoTitle: "Demensiýa üçin sungat we el işi: çagalaýyn däl"
-description: "Demensiýasy bolan adamlar üçin çagalaýyn däl sungat we el işi ideýalary: akwareldan kolaža, gül tertibine çenli, taýýarlyk we sazlama maslahatlary."
+title: "Arts and Crafts for Adults with Dementia"
+seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
+description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demensiýa bilen ýaşaýan ulular üçin gowy sungat we el işi uly adamlara
-  laýyk görünýär we duýulýar: akwarel, žurnallardan kolaž, gül tertibi, palçyk,
-  ýönekeý açykça ýasamak ýa-da uly adamlar üçin reňkleme sahypalary. Birnäçe
-  material goýuň, zerur bolsa ilkinji çyzyga kömek ediň, işläp ýörkäňiz
-  gürleşiň we bilelikde geçirilen wagty esasy zat hasaplaň. Gutarylan iş hökman
-  däl.
+  Good arts and crafts for adults living with dementia look and feel grown-up:
+  watercolor, collage from magazines, flower arranging, clay, simple card
+  making or adult coloring pages. Set out a few materials, help with the first
+  stroke if needed, talk while you work, and treat the time together as the
+  point. A finished piece is optional.
 keyPoints:
-  - "Uly adamlara laýyk görünýän materiallary we mowzuklary saýlaň, meselem akwarel kagyzy, hakyky gül we žurnal suratlary; ýalpyldawuk, stiker ýa-da multfilm sahypalary däl."
-  - "Prosese üns beriň: reňklere, palçygyň duýgusyna, söhbetdeşlige. Gutarylan iş goşmaça, maksat däl."
-  - "Mümkin bolsa maksat beriň, meselem agtyk üçin açyk hat ýa-da saçak üçin stol bezegi."
-  - "Adama başlamaga kömek ediň, soň çetleşiň. Çotga hereketini bilelikde başlamak köplenç ýeterlikdir."
-  - "Taslamalary bir oturyşykda gutarmak hökman däl we irräk durmak hemişe dogrudyr."
+  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
+  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
+  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
+  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
+  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
 faq:
-  - q: "El işiniň çagalaýyn duýulmagynyň öňüni nädip alyp bolar?"
-    a: "Hakyky sungat serişdelerini, uly adamlara laýyk mowzuklary we hormatly ýylgyryşy ulanyň. Ýalpyldawuk we multfilm sahypalaryny akwarel kagyzy, mata, gül, žurnal suratlary we jikme-jik reňkleme sahypalary bilen çalşyň. Işi hiç wagt çaganyň çyzgysyny öwşüň ýaly öwmäň; ony islendik uly dost bilen gürleşişiňiz ýaly gürleşiň."
-  - q: "Demensiýanyň giçki tapgyrynda haýsy sungat işjeňlikleri ýaramly?"
-    a: "Soňrak iň gowy ýönekeý, duýgy bilen baglanyşykly taslamalar işleýär: uly çotga bilen giň çyzyklar çekmek, ýumşak palçygy gysmak, wazada birnäçe gül tertiplemek ýa-da mata bölekleriniň duýgusyna görä tertiplemek. Hereketi bilelikde başlamaly bolmagyňyz mümkin. Siziň çekýänňize seretmek we reňkler hakda gürleşmek hem gatnaşmagyň bir usulydyr."
-  - q: "Çekip bilemok diýse näme etmeli?"
-    a: "Basyşy aýryň. Akwarel çaýyşy, kolaž ýa-da gül tertibi ýaly dogry jogaby ýok taslamalary synap görüň. Hem-de açyk hat üçin reňkleri saýlamak ýaly anyk bir zatda kömege mätäçdigiňizi aýdyp bilersiňiz, şonda iş synag däl-de, haýyş ýaly duýular."
-  - q: "Reňkleme sahypalary uly adamlar üçin çagalaýynmy?"
-    a: "Uly adamlar üçin taýýarlanan bolsa, ýok. Bagy, ýorgany, maşynlary ýa-da landşaftlary ýaly uly adamlara laýyk mowzuklary bolan sahypalary saýlaň we olary sapak däl-de, rahatlandyryjy hökmünde hödürläň. Biziň reňkleme sahypalarymyz çap edilip ýa-da planşetde reňklenip bilner."
+  - q: "How do I keep crafts from feeling childish?"
+    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
+  - q: "What art activities work in later-stage dementia?"
+    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
+  - q: "What if they say they can't draw?"
+    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
+  - q: "Are coloring pages too childish for adults?"
+    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -49,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Sungat we el işi demensiýa bilen ýaşaýan adamlara dogry sözi tapmaga bagly bolmadyk özüni ýüze çykarmagyň ýoluny berýär. Alzheimer's Association sungat taslamalarynyň ideg edýän adam üçin hem, demensiýasy bolan adam üçin hem [maksada ýetmek we manyly bolmak duýgusyny](https://www.alz.org/help-support/caregiving/daily-care/art-music) we özüňi ýüze çykarmak mümkinçiligini döredip biljekdigini belleýär. Esasy zat, işleri uly adamlara laýyk, ýönekeý we basyşsyz saklamakdyr. Bu sahypa anyk taslamalary, olary nädip taýýarlamalydygyny we zatlar üýtgände nähili uýgunlaşdyrmalydygyny berýär.
+Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
 
-## Sungat işjeňligini näme uly adama laýyk edýär, näme çagalaýyn edýär?
+## What makes an art activity adult and not childish?
 
-Uly adama laýyk sungat işjeňligi hakyky materiallary, uly adam mowzuklaryny we hormatly äheňi ulanýar. Alzheimer's Association taslamalary uly adam derejesinde saklamagy we kemsidiji ýa-da çagalaýyn görünip biläýjek zatlardan gaça durmagy maslahat berýär.
+An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
 
-| Çagalaýyn duýulýar | Uly adama laýyk duýulýar |
+| Feels childish | Feels adult |
 | --- | --- |
-| Ýalpyldawuk, köpük stikerler, gözjagazlar | Akwarel kagyzy, mata, gurudylan gül |
-| Multfilm reňkleme sahypalary | Bag, ýorgan, maşyn ýa-da landşaft reňkleme sahypalary |
-| Her yz üçin “Gowy iş” öwgüsi | Hakyky söhbet: “Ol gök ýaşylyň ýanynda gaty owadan” |
-| Peýdasyz el işi | Dostuň üçin açyk hat, stol bezegi, sowgat |
-| Sapak ýaly okalýan görkezmeler | Çakylyk: “Maňa şu işde kömek edermiň?” |
+| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
+| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
+| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
+| A craft with no use | A card for a friend, a centerpiece, a gift |
+| Instructions read like a lesson | An invitation: "Would you help me with this?" |
 
-Adamyň öz ýaraýşyny göz öňünde tutuň. Tikin-ýüplik işini söýen adam mata bilen işlemekden hezil edip biler. Pensiýadaky inžener uly bölekli model toplumyny ýa-da taslama üçin gurallary saýlamagy has ýaratmagy mümkin. Öňki mugallym açyk hat ýasamakdan hezil edip biler.
+Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
 
-## Näme üçin önüme däl-de, prosese üns bermeli?
+## Why focus on the process, not the product?
 
-Sebäbi bilelikde geçirilýän wagt esasy zatdyr. Alzheimer's Association-yň [öýdäki işjeňlikler](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) gollanmasy netijä däl-de, prosese ünsi jemlemegi aýdýar. “Diňe gök” surat henizem suratdyr. Üç suratly kolaž henizem kolaždyr.
+Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
 
-Assosiasiýa hem hünärmen suratkeşiň öz işindäki üýtgeşmelerden ruhdan düşüp biljekdigini, höwesekäriň bolsa özüňi ýüze çykarmagyň täze mümkinçiliginden hezil edip biljekdigini belleýär. Adam ussat suratkeş bolan bolsa, özüne ussat bolan serişdeden tapawutly serişdäni synap görüň, şonda ol deňeşdirme däl-de, oýun ýaly duýular.
+The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
 
-## Synap görmeli sungat we el işi ideýalary
+## Arts and crafts ideas to try
 
-Her ideýa kynlaşsa, ony nädip ýönekeýleşdirmelidigini öz içine alýar.
+Each idea includes how to make it simpler if it becomes hard.
 
-1. **Akwarel çaýyşlary.** Agyr akwarel kagyzynyň bir waragyny ýaşlaň we adam uly çotga bilen oňa reňk damdyrsyn. Reňkler özi ýaýraýar, şonuň üçin ýalňyş netije bolup bilmeýär. *Has ýönekeý:* diňe iki reňk hödürläň ýa-da ýaş yzlary görkezýän garaňky kagyzda suw bilen çekiň.
-2. **Žurnal kolaži.** Bag-bakja, nahar bişirmek, maşynlar, syýahat ýa-da adamyň köne hobbileri barada žurnallardan suratlary öňünden gyrkyň. Ol suratlary saýlap, galyň kartona ýelimlesin. *Has ýönekeý:* dört gyrkylan surat we ýelim çybyk hödürläň, ýelimlemegi bolsa bilelikde ediň.
-3. **Gül tertibi.** Alzheimer's Foundation of America [kesilen gülleri we ýaşyl ösümlikleri](https://alzfdn.org/dementia-activity-gardening/) ýönekeý möwsümleýin bezeglere tertiplemegi maslahat berýär. Agyr, durnukly waza we eýýäm gyrkylan baldaklary ulanyň. *Has ýönekeý:* birnäçe baldagy kiçi käsä birme-bir goýuň.
-4. **Gurudylan gül açyk hatlary.** Buketden güllere bir hepde kitap sahypalarynyň arasynda gurutmak üçin basyň, soň bukulan kartona ýelimläň. *Has ýönekeý:* ýelimi siz goýuň, gülüň üstüni ol basyp goýsun.
-5. **Uly adamlar üçin reňkleme sahypalary.** Aç-açan konturly we hakyky mowzukly sahypalary saýlaň. Biziň çap edilýän [reňkleme sahypalarymyz](/games/coloring/) reňke, soň suratyň bir bölegine dokunyp ekranda hem reňklenip bilner. *Has ýönekeý:* has uly meýdanlar, has az reňk, galyň flomasterler.
-6. **Palçyk ýa-da ýumşak hamyr.** Howada gurap galýan palçygy ýa-da ýumşak model hamyryny ýuwuruň, basyň we şekillendiriň. Palçyga ýaprak basmak ýönekeý yz plitkasyny döredýär. *Has ýönekeý:* diňe gysmak we ýuwurmak doly işjeňlikdir. Adamyň palçygy agzyna salmazlygyna syn ediň.
-7. **Açyk hat ýasamak.** Alzheimer's Association muny hakyky iş hökmünde hödürlemegi maslahat berýär: “Dosta ýagşylyk arzuw açyk haty iberýäris. Kömek edersiňmi?” Öňünden kesilen karton we birnäçe gül ýa-da marka stikerleri gowy işleýär.
-8. **Albom ýasamak.** Köne suratlaryň, açyk hatlaryň ýa-da bilet galyndylarynyň nusgalaryny albom sahypalaryna bilelikde goýuň. Ýöräp barýarkaňyz her biri hakda gürleşiň. Geçmiş hakda mylaýym gürleşmegiň ýollary üçin biziň [ýatlama gollanmamyza](/activities/reminiscence/) serediň.
-9. **Mata we dokunma tagtalary.** Dükdürgi, barhyt, çuwal we ýüpek mata böleklerini gaty kartona ýelimläň. Ony ýasamak bir işjeňlik, soň oňa degmek başga işjeňlik. Has köp ideýa biziň [duýgy işjeňlikleri gollanmamyzda](/activities/sensory/).
-10. **Ýönekeý agaç işi.** Agaç işini söýen adam üçin tekiz agaç bölegini ýylmak ýa-da guş öýi toplumyny reňklemek tanyş duýulyp biler. Ýiti gurallary aýyryň we gözegçilik ediň.
-11. **Aýdym-saz bilen surat çekmek.** Halaýan plastinkany goýuň we keýpe laýyk şekilleri ýa-da reňkleri çekiň. Bu köp adamyň ýaraýan iki işjeňligini birleşdirýär. [Aýdym-saz işjeňliklerine](/activities/music/) serediň.
+1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
+2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
+3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
+4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
+5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
+6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
+7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
+8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
+9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
+10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
+11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
 
-## Sungat sessiýasyny nädip taýýarlamaly?
+## How do I set up an art session?
 
-1. **Ilki taýýarlanyň.** Adamy çagyrmazdan öň hemme zady kesiň, düzediň we goýuň. Gaýçy gözläp garaşmak pursaty ýitirip biler.
-2. **Kiçi saklaň.** Iki-üç reňk, bir çotga, bir warak kagyz. Aşa köp saýlaw gaty köp bolup biler.
-3. **Stolu goraň.** Plastik ýapgy ýa-da köne düşek düşegi hapalamak alada däl diýmekdir.
-4. **Ýanaşyk oturyň.** Özüňiziň işiňizi onuňkynyň ýanynda ediň. Bu gözegçilik däl-de, bilelikde duýulýar.
-5. **Başlamaga kömek ediň.** Alzheimer's Association çotga hereketini adam bilen bilelikde başlamaly bolup biljekdigiňizi belleýär. Başlanandan soň köp adam dowam edýär.
-6. **Işläp ýörkäňiz gürleşiň.** Reňkler we dokunmalar hakda bellik ediň ýa-da sungat hekaýalara alyp barsyn. “Bu näme?” ýaly wiktorina görnüşli soraglardan gaça duruň.
-7. **Ýeterlik wagt beriň.** Taslamany bir oturyşykda gutarmak hökman däl.
+1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
+2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
+3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
+4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
+5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
+6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
+7. **Allow plenty of time.** A project does not need to be finished in one sitting.
 
-## Demensiýa üýtgände sungaty nädip uýgunlaşdyrmaly?
+## How do I adapt art as dementia changes?
 
-| Tapgyr | Köplenç näme işleýär | Näme sazlamaly |
+| Stage | What tends to work | What to adjust |
 | --- | --- | --- |
-| Ilkinji | Sapaklar, jikme-jik reňkleme, albomlar, açyk hat ýasamak, suratdan çekmek | Taslama saýlawyny hödürläň; sosial saklaň |
-| Orta | Öňünden kesilen kolaž, akwarel çaýyşlary, gül tertibi, uly meýdanly reňkleme | Bir wagtyň özünde bir ädim; kesmegi we ýelimlemegi siz ýerine ýetiriň |
-| Giçki | Giň çotga çyzyklary, palçygy gysmak, mata degmek, siziň çekýänňize seretmek | Duýgulara üns beriň; kabul edilse eliň ugruny ýuwaşlyk bilen ugrukdyryň |
+| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
+| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
+| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
 
-NHS giçki tapgyrlarda işjeňlikleriň köplenç ýönekeýleşdirilýändigini we duýgulara, ýagny görnüşlere, ýagdaýlara ünsi jemleýändigini aýdýar. Başga birinden surat çekmegine seretmek we reňkler hakda gürleşmek gatnaşmagyň hakyky usulydyr. Tapgyr-tapgyr has köp ideýa üçin [her tapgyr üçin işjeňliklere](/activities/ideas/) serediň.
+The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
 
-## Sungat serişdeleri bilen howpsuzlyk
+## Safety with art supplies
 
-- Zäherli däl boýaglary, flomasterleri we ýelim çybyklary saýlaň.
-- Gaýçylary, el işi pyçaklaryny we gyzgyn ýelim ýaraglaryny elýetmez ýerde saklaň. Islendik kesmegi öňünden özüňiz ediň.
-- Hiç kimiň palçygy, boýagy ýa-da kiçi zatlary agzyna salmagyna syn ediň.
-- Suw we waza üçin durnukly, agyr gaplary ulanyň.
+- Choose non-toxic paints, markers and glue sticks.
+- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
+- Watch for anyone putting clay, paint or small items in their mouth.
+- Use stable, heavy containers for water and vases.
 
-## Haçan durmaly?
+## When should we stop?
 
-Ünsi dargasa ýa-da ruhdan düşmek görünse, duruň. Alzheimer's Association ünsüň azalanda ýa-da ruhdan düşmek artanda işjeňligi bes etmegi ýa-da üýtgetmegi maslahat berýär. Taslamany howpsuz ýere goýuň we dynç berýän zady hödürläň. Ertir oňa dolanyp bilersiňiz ýa-da hiç wagt dolanmarsyňyz. Ikisi hem dogry.
+Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
 
-## Adam isleýän bolsa, işi görkeziň
+## Display the work, if the person wants
 
-Suraty sowadyjynyň gapysyna ýelmemek ýa-da kolaži çarçuwada goýmak hormat görkezmegiň ümsüm usuly bolup biler. Ilki soraň. Käbir adamlar öz işini diwarda görmegi gaty söýýär; beýlekileri ýaratmaýar.
+Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
 
-## Sungaty biziň oýunlarymyz bilen utgaşdyryň
+## Pair art with our games
 
-Boýag taýýarlamak gaty köp bolan günlerde, [Reňkleme](/games/coloring/) planşetde hapalyksyz işleýär. [Surat tapmaçasy](/games/picture-puzzle/) bölekleri çalşyp ýörkäňiz ähli suraty ýol görkeziji hökmünde görnüp saklaýar. [Söhbetdeşlik kartoçkalary](/games/conversation-cards/) suratdan hekaýa alyp barýan açyk çakylyklary hödürleýär. Olaryň hemmesinde sagat ýa-da hasap ýok. [Çap edilýän işjeňlikler](/activities/printable/) ýygyndysyndan sahypalary hem çap edip bilersiňiz.
+On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.

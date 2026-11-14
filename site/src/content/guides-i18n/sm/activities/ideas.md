@@ -1,30 +1,34 @@
 ---
-title: "Gaioiga mo Tagata o loo Ola ma le Dementia: 101 Manatu Faigofie"
-seoTitle: "Manatu o Gaioiga mo le Dementia: 101 Gaioiga Faigofie"
-description: "101 gaioiga faigofie mo tagata matua o loo ola ma le dementia, mai le fuia o tautu i musika ma ata, ma le auala e suia ai pe a faigata."
+title: "Activities for People with Dementia: 101 Simple Ideas"
+seoTitle: "101 Activities for People with Dementia"
+description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gaioiga lelei mo tagata o loo ola ma le dementia e masani, matua ma faigofie ona faʻasoa: fuia tautu, faʻavasega, kuka, musika, matamata i ata, savali, galuega i le faatoaga, manu ma taʻaloga faigofie. Filifili mea ua fiafia i ai le tagata, aveese laasaga faigata, ma faʻamavae pe a malolo. Taimi filemu faatasi e sili atu nai lo le faamaeʻaina o se mea.
+  Good activities for people with dementia are familiar, adult and easy to
+  share: folding laundry, sorting, cooking, music, looking at photos, walking,
+  gardening, time with pets and simple games. Choose what the person has always
+  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
+  together matters more than finishing anything.
 keyPoints:
-  - "Amata mai i le olaga o le tagata: ana galuega, fiafiaga, lotu ma musika e sili ona lelei e taitai ai."
-  - "Faʻaitiitia gaioiga pe a manaʻomia: laasaga itiiti, filifiliga itiiti, ma oe faia le vaega faigata."
-  - "Matamata, uuina se mea po o le nofo latalata e auai foi lea."
-  - "Faʻamavae pe suia pe a e vaaia le malolo, le faʻalavelave po le le fiafia. O le faamavae i le vave o se iuga lelei."
-  - "Faia faatasi e sili atu le taua nai lo le faia saʻo."
+  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
+  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
+  - "Watching, holding something or simply sitting nearby all count as taking part."
+  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
+  - "Doing it together matters more than doing it right."
 faq:
-  - q: "O ā gaioiga e lelei mo le tagata o loo ola ma le dementia?"
-    a: "Gaioiga masani o le tagata na faia mo tausaga, faʻafaigofieina: fuia tautu, faʻatulaga le laulau, kuka, musika, matamata i ata, savali, tanumia laau ma le taimi ma se manu. Filifili mea e lagona ai tagata matua o galuega aoga, ma faia faatasi."
-  - q: "E umi le fia o se gaioiga?"
-    a: "E leai se umi saʻo. Fuia tautu mo nai minute e lava i se aso, ae o le taimi i le togalaau i le isi aso e mafai ona lelei foi. Ia faʻatagaina le tagata e faʻatonu le saʻolotoga ma faʻamavae a o lelei pea."
-  - q: "Afai e musu le tagata i se gaioiga?"
-    a: "Aua le faamalosia. O le musu e mafai ona faʻaalia ai o le galuega e faigata, o le taimi e sese, po o latou te malolo po le lelei. Taumafai mulimuli ane, ofo se faʻataʻitaʻiga e laʻitiiti, po amata le galuega oe lava i latalata ma valaʻau o ia e fesoasoani."
-  - q: "E lelei ea taʻaloga o le mafaufau mo tagata o loo ola ma le dementia?"
-    a: "E mafai ona avea taʻaloga ma se auala e faamalie ai le taimi faatasi, ae leai se taʻaloga ua faʻaalia e togafitia, faʻamalulu pe taofia le dementia. Filifili taʻaloga e leai ai se taimi, se maka po se leo o le sese, ma faia o se gaioiga faasoa, e le o se suʻesuʻega."
-  - q: "E faafefea ona taofia gaioiga mai le lagona o se tamaitiiti?"
-    a: "Faaaogā mea moni o tagata matua: lalanu moni, kuka moni, musika ma mea o le ata e fiafia ai tagata matua, ma ata o mataupu tagata matua. Faʻaali galuega o se fesoasoani e manaʻomia moni e te, ma talanoa i le tagata e pei o le tagata matua o ia."
+  - q: "What activities are good for someone with dementia?"
+    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
+  - q: "How long should an activity last?"
+    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
+  - q: "What if the person refuses to do an activity?"
+    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
+  - q: "Are brain games good for people with dementia?"
+    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
+  - q: "How do I keep activities from feeling childish?"
+    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-O le gaioiga sili mo le tagata o loo ola ma le dementia e masani lava o le mea ua iloa e ia le faia, ua faigofieina ma faia faatasi ma se tasi e alofa ai. O lenei, e 101 manatu, vaevaeina i ituaiga, ma le auala e saunia ai ma faigofie ai pe a faigata. E le manaʻomia ni meafaigaluega faapitoa, ma e le manaʻomia le faʻamaeʻaina o mea uma. O se aso lelei e mafai ona avea ma se ato o tautu ma se ipu kofe faatasi.
+The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
 
-## E faafefea ona filifili le gaioiga saʻo?
+## How do you choose the right activity?
 
-Filifili e ala i le tagata, e le o le lisi: amata i mea na fiafia i ai i aso uma ma mea e mafai ona faia i aso nei.
+Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
 
-- **Mafaufau i ana galuega ma faiga.** E fautua mai le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e mafai ona fiafia se tagata na galue i ofisa i le faʻasologa o tupe po le faʻatulaga o pepa, ma se tagata faatoaga i galuega o le faatoaga.
-- **Vaai i mea e faia e le tagata.** Afai e sosoo e lou tama le veranda i taeao e aunoa ma le fesili, faʻaputu lena galuega i le aso.
-- **Faʻatulaga ina ia talafeagai i tapulaa.** Malolo, vaai, faalogo, lima ogaoga ma le mautu o le tino e taua uma.
-- **Vaʻai i lona lagona.** Gaioiga pisi ma malosi e fiafia ai nisi tagata, ae fai mataʻutia ai isi.
-- **Foaʻi se mafuaʻaga.** Faʻatulaga o napkin mo le aso lotu e sili le taua nai lo se faʻamalositaga mo le faia lava.
+- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
+- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
+- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
+- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
+- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
 
-### Se taʻiala e ala i vaitaimi
+### A rough guide by stage
 
-E masani ona faʻamatalaina le dementia i vaitaimi muamua, ogatotonu ma mulimuli. O nei o igoa lautele, e le o ni pusa, ma e tele tagata e sili pe faigata ai aso, o lea ia vaʻai i le mea e te vaaia i aso nei. O le [lisi a le Alzheimer's Foundation of America e ala i vaitaimi](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e mulimuli i se faʻataʻitaʻiga tutusa.
+Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
 
-| Mataupu | Vaitaimi muamua | Vaitaimi ogatotonu | Vaitaimi mulimuli |
+| Topic | Early stage | Middle stage | Late stage |
 | --- | --- | --- | --- |
-| Mea e mafai ona e matauina | E masani ona tutoʻatasi; ua faigata le fuafuaina, igoa fou ma nofoaga tetele | Manaʻomia le fesoasoani e amata ai ma laasaga; upu e faigata ona oo mai | Manaʻomia le fesoasoani i le tausiga o aso uma; o lagona o le tino e sili ona taua |
-| Gaioiga e masani ona tatau | Pepa taʻaloga, taʻaloga laupapa, kuka, faatoaga, tusitusi o le aso, malaga, kalapu | Fuia tautu, faʻavasega, laasaga faigofie o le kuka, pese, savali taʻiala, album o ata | Musika e fiafia i ai, ta‘i lima malulu, mea malulu e ofi, faitau leo, nofo i fafo |
-| Lou matafaioi | Paaga: fesili pe o le fesoasoani e manaʻo | Faʻatulaga, faʻaali, ave i le vaega faigata | Ave le gaioiga i latou; o lou faatasi o le gaioiga |
-| Manatu atili | [Vaitaimi muamua](/activities/early-stage/) | [Vaitaimi ogatotonu](/activities/middle-stage/) | [Vaitaimi mulimuli](/activities/late-stage/) |
+| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
+| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
+| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
+| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
 
-## E faafefea ona amata se gaioiga ma se tasi o loo ma le dementia?
+## How do you start an activity with someone who has dementia?
 
-Amata faʻalaʻititi, amata faatasi ma i latou, ma faia ni mea faigofie e faʻafetai ai le ioe. O le tele o tagata e manaʻo lava e auai ae faigata ona fuafua po amata.
+Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
 
-1. **Filifili lona taimi lelei.** Masani le taeao.
-2. **Tuu uma mea muamua** ina ia mafai ona amata i le taimi lava lea.
-3. **Valaʻau le fesoasoani, e le o le faʻaaliga:** “E mafai ea ona e fesoasoani mai i nei mea?”
-4. **Amata oe lava.** Fuia le tautu muamua ma faʻatagaina le tagata e auai. E sili le faʻaali nai lo le faamatala.
-5. **Foaʻi se laasaga i se taimi.**
-6. **Faia le vaega e faigata.** Fautua mai le Alzheimer's Association ia e fuaina mea oe lava, ona foaʻi lea o le sipuni e faʻafefe ai.
-7. **Faatagaina e faia ma lona auala.** Tautu e fuia eseese e lelei lava.
-8. **Faʻamavae pe a le toe fiafia.** O le lulu, le faʻavaʻai po le “Ou te le mafaʻ” o faʻailoga e liliu ai pe malolo.
+1. **Pick their best time,** often the morning.
+2. **Set everything out first** so you can begin right away.
+3. **Ask for help, not a performance:** "Could you give me a hand with these?"
+4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
+5. **Offer one step at a time.**
+6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
+7. **Let it be done their way.** Differently folded towels are fine.
+8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
 
-Vaʻai foi i [le auala e faatasi ai](/caregiving/how-to-play-together/) ma [fesoasoani e talanoa ai](/caregiving/communication-tips/).
+See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
 
-## Galuega o le fale i aso uma
+## Everyday tasks at home
 
-Galuega o le fale e masani ma e aoga, ma e avea ma mea e amata ai. O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) o loo lisiina fufulu ipu, faʻatulaga o le laulau, sosoo, faʻavasega o posta ma fuia o ofu o ni galuega e mafai ona fiafia i ai tagata. Mo le sili atu, vaʻai i [galuega o le fale](/activities/household-tasks/).
+Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
 
-1. **Fuia tautu vevela.** Tipi se ato mai le mea mamā i luga o le laulau ma fuia faatasi i le itu. Mulimuli ane, faʻasalalau ma faʻatuu e le itiiti foi le fesoasoani.
-2. **Faʻatutusa soksi.** Amata ma lanu eseese tele. Mulimuli ane, faʻavasega mai le malamalama i le pouliuli e lava.
-3. **Faʻatulaga le laulau.** Foaʻi se ituaiga mea i le taimi e tasi. Faʻatulaga le tasi nofoaga oe lava e fai ma faʻataʻitaʻiga.
-4. **Fufulu po o faʻamamā ipu.** Vai vevela malulu ma ipu e le malepe. Faʻamamā e nofo ai e faigofie i vae.
-5. **Faʻamamā le laulau.** Foaʻi se lalanu malulu pe a uma le kai. O se galuega moni mo lima e le mafaufau.
-6. **Faʻavasega posta.** Tusi faʻatau ma mail faʻamaʻi i “tausi” ma “toe faʻaaogā”. Aua le faʻaulu pepa tupe moni.
-7. **Tipi kupona.** Faʻaoga ā siʻi lamumu ma pepa faʻatau meaʻai. Mulimuli ane, faʻailoa mea meaʻai e fiafia i ai e lelei foi.
-8. **Faʻavasega tupe papaʻe.** Faʻavasega tupe i ipu po o le faʻapipiʻi i pepa. Aveese mea laiti afai e lafo e le tagata mea i le gutu.
-9. **Sosoo po o faʻamamā lefulefu.** Sosoo laiti i le veranda, po o se faʻamamā lefulefu e umi le faʻaoga i le nofoa.
-10. **Fesoasoani e faʻatulaga le meaʻai.** Fufulu fualaʻau, vaevaeina laau salati, faʻafefe. E te faʻaoga nife ma vevela.
-11. **Faia se meaʻai o le aiga.** Faʻaoga le pepa o le kuka i lona tusitusi pe afai e te maua. Mulimuli ane, latou te mafai ona tofotofo.
-12. **Galue o le ofisa.** Faʻafolo tusi, faʻatumu ma faʻapipiʻi stamp i fasi pepa, po tusitusi o le lisi o mea e faatau faatasi.
+1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
+2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
+3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
+4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
+5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
+6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
+7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
+8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
+9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
+10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
+11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
+12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
 
-## Musika
+## Music
 
-E mafai ona oo atu musika faʻamatalaina i tagata e tusa lava pe faigata upu. O [tips musika a le Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) o loo fautua mai pese masani, leai ni faʻasalalauga ma le televise i le tapu. Vaʻai i [gaioiga musika](/activities/music/).
+Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
 
-13. **Fausia se musika lava lau.** Musika mai o latou tausaga o le talavou, o lo latou faaipoipoga, o le lotu ma aganuʻu.
-14. **Pese faatasi.** Amata ona e pese oe lava. E aofia ai le ʻumi po le faalogo.
-15. **Taʻi le paʻiga.** Pa'i lima, pa'i tulivae po o le pa'i se pese lima. E lelei i le nofoa ma i vaitaimi mulimuli.
-16. **Siva.** Siva faʻamalie i le kuka, po o le siva i le nofoa e fai ai lima faatasi.
-17. **Taʻalo le album atoa.** Se pese ua latou fiafia i ai mai amata i le iuga, ma kofe ma le leai o isi mea o loo faia.
-18. **Talanoa e uiga i musika.** Valaʻau tala, e le o mea moni: “Ia taʻu mai ia te aʻu e uiga i siva na e alu i ai.”
-19. **Matamata i se musika po se konaseti ua ata.** O se faʻaaliga na latou fiafia i ai e lelei se afiafi. Faʻamavae pe a manaʻo.
-20. **Taʻalo se meaalofa musika e iloa.** O se tagata na taʻalo piano e mafai ona fiafia i pese faigofie; mulimuli ane, o nisi nota faatasi.
-21. **Faalogo i musika ola.** O se konaseti laiti i le nuu po se faatinoga o le kolaga. Nofo latalata i le faitotoa.
+13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
+14. **Sing along.** Start singing yourself. Humming or listening counts.
+15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
+16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
+17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
+18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
+19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
+20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
+21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
 
-## Faʻamanatuga: ata, mea ma tala
+## Reminiscence: photos, objects and stories
 
-Fiafia i le taimi ua mavae faatasi e aunoa ma le suʻesuʻeina. Aua le fesili “E te manatua...?” ma “O ai lenei?” ae faʻaaogā valaʻauga tatala. Vaʻai i [gaioiga o le faʻamanatuga](/activities/reminiscence/).
+Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
 
-22. **Vaʻai i se album ata.** Taʻu le mea e te vaaia: “Ea le ofu tele. Ia taʻu mai e uiga i lenei aso.” Faʻatagaina igoa latou te faʻaoga.
-23. **Faia se pusa manatu.** Pusa o mea mai lona olaga, e pei o se faʻailoga o galuega po se pepa tusi. Aveese mea e tasi i le taimi.
-24. **Amata se tusi o le olaga.** Ata laiti i itulau ma faʻamatalaga tetele. E fesoasoani i tagata fou e iloa ai le tagata.
-25. **Faʻaoga kata talanoa.** [Conversation cards](/games/conversation-cards/) faʻapipiʻi se ata ma se fesili tatala.
-26. **Faia se taʻaloga ata aiga.** [Photo pairs](/games/photo-pairs/) liliu ata ou te filifili i se taʻaloga faʻatutusa.
-27. **Matamata i ata o le aiga po o ata tuai.** Talanoa faatasi nai lo le fesili.
-28. **Faʻaaogā mea mai lona galuega.** Meafaigaluega e pei o se tui, se meafaigaluega e faalogo ai i le fatu, po se pusa tupe. Mea e masani ona taitai ai e lima le tala.
-29. **Kuka se meaʻai o le talavou.** E mafai ona latou faʻafefe, tofotofo po le nofo i le kuka faatasi ma oe.
-30. **Vaʻai i se mapu o nofoaga na latou nonofo ai.** Ta‘ua'i auala e iloa i se tusi mapu tele a o e talanoa.
+22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
+23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
+24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
+25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
+26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
+27. **Watch home movies or old TV.** Comment together rather than asking questions.
+28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
+29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
+30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
 
-## Galuega fatu
+## Creative activities
 
-O le ta'i o le galuega, e le o le mea ua maeʻa. Taumafai e faʻaoga mea matua ma saogalemu. Vaʻai i [galuega faʻapipi ma mea fatu](/activities/arts-and-crafts/).
+Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
 
-31. **Ta'i ma lanu vai.** Pepa mafiafia, lanu se vaega. Afai e faigata le amataina, faʻaliʻi faatasi le lanu muamua.
-32. **Lanu ata matua.** Fugalaau po tautu, e le o ata tala. O [ata lanu](/games/coloring/) e mafai ona faʻaoga i luga o le ata po o le pepa lolomi.
-33. **Faia se faʻatulaga o ata.** Tiʻe ata o mala, taʻavale po mea ai mai pepa magazine ma tuu i luga. Mulimuli ane, o le filifili o ata e lava.
-34. **Faʻatulaga fugalaau.** O se fuʻa fugalaau mai le faleoloa ma se ipu. Mulimuli ane, o nai laau i se ipu.
-35. **Fai afi po o le tui faatasi.** Faʻalaʻiga faigofie i nila tetele. Mulimuli ane, vili le uli i fusi.
-36. **Faia kata mo aiga.** Tusi, faʻailoa po teuteu kata o aso fanau ma kata faamalolo mo tagata moni.
-37. **Faʻatulaga pelepele.** Faʻamamafa se ipu laiti. Faʻaoga mea e le lamatia ma nofo latalata.
-38. **Tafatafa ma faʻamaʻa laau.** Fale laiti laau ma pepa tafa. E aunoa ma meafaigaluega eletise. Vaʻai [galuega mo tagata tane](/activities/for-men/).
-39. **Tusi po o le faʻasoa se tusi.** I se tamaitiiti po se uo tuai. Afai e faigata le tusitusi, latou te talanoa ma oe tusi.
+31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
+32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
+33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
+34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
+35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
+36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
+37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
+38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
+39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
 
-## Faatoaga ma galuega i fafo
+## Outdoors and gardening
 
-Ea fou ma le la o ni mea lelei e fiafia ai. Vaʻai i [galuega i fafo ma faatoaga](/activities/outdoor-and-gardening/).
+Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
 
-40. **Faʻatele laau.** Ipu vai laiti ma nai ipu. Faʻatele i aso uma e faʻatulaga ai le aso.
-41. **Tanu se ipu.** Tuu i luga o le laulau ina ia le faʻamagalo se tagata. O laau laiti e sili le faigofie nai lo fuaʻi.
-42. **Toʻa mutia po o aveese fugalaau ua maeʻa.** Ofu ulu lima ma se laupapa laiti i le taimi.
-43. **Faʻaputu laau gauʻa.** Se vaega laiti. Mulimuli ane, o le taofi o le ato e tatala ai o se galuega moni.
-44. **Savali i ala e iloa.** I le tafatafa o le lalo po i le faitotoa o le tusi. Se mamao e lelei lava.
-45. **Nofo i fafo faatasi.** Nofoa i le veranda i se aso malulu. Matamata i le lagi po tagata o loo savali.
-46. **Fafaga manu.** Faʻatumu se ipu o le manu faatasi ma matamata mai le faamalama i le nofoa.
-47. **Taʻu taʻavale.** Ipu, fasi ma le aso vevela e lelei. Faʻamamā e fai ma se galuega laiti e tasi.
+40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
+41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
+42. **Weed or deadhead.** Gloves on, one small bed at a time.
+43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
+44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
+45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
+46. **Feed the birds.** Fill a feeder together and watch from a window seat.
+47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
 
-## Gaioiga o lagona
+## Sensory activities
 
-O le lagona o le pa'i, le manogi, le tofo, le leo ma le vaai e sili ona taua pe a faaauau le dementia. O [le NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) o loo taʻua musika, mea e lafoina ma le taʻi lima mo vaitaimi mulimuli. Muamua siaki faʻalavelave o meaʻai ma matautia o le faʻalavelave o le manava; vaʻai i [gaioiga o lagona](/activities/sensory/).
+Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
 
-48. **Taʻi lima malulu.** Fesili muamua ma faʻaoga se suāvai itiiti. Filifili le leai o manogi pe afai e le mautinoa i le paʻu po faʻalavelave.
-49. **Lagona ie.** Se ato o ie malu, ie fulufulu, lauulu tui ma ie satini e taʻi ma fuia.
-50. **Manogi o laau ma kofe.** Mulilā laau manogi fou ia i ou matagaʻi. Aua le faʻaoga manogi malosi pe a faigata le manava.
-51. **Tuu o lauulu.** Faʻamalu ma faʻamalie, pe a fiafia i ai.
-52. **Faʻasusu ma lalanu vevela.** Mo lima ma foliga i se aso malulu. Faʻataʻitaʻi le vevela muamua.
-53. **Taʻalo ma se ofu faʻaoga.** Faiga tetele ma mea e tatala ma tapunia ai. Siaki e leai se mea e faʻaulu ese.
-54. **Tofo le mea fiafia.** Se sipuni laiti, i se gaʻo e mafai ona latou feʻai ai saogalemu.
-55. **Taʻalo leo o le natura.** Timu, galu po pisi manu i le leo maʻaʻa.
-56. **Matamata i se mea malulu.** Se matapogai i ni i'a, se vitio o le natura po aisa e pa'u.
+48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
+49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
+50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
+51. **Brush their hair.** Slow and gentle, if they enjoy it.
+52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
+53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
+54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
+55. **Play nature sounds.** Rain, waves or birdsong at low volume.
+56. **Watch something slow.** A fish tank, a nature video or falling snow.
 
-## Taʻaloga ma puzela
+## Games and puzzles
 
-Taʻaloga e lelei pe a leai se taimi, se maʻaʻa po le faʻamalosiga. Afai e amata ona foliga o se suʻesuʻega, tuu ese. Vaʻai i [filifili o taʻaloga](/caregiving/choosing-apps-and-games/) ma [taʻaloga o le mafaufau](/brain-health/brain-games/).
+Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
 
-57. **Faʻatutusa ata.** [Picture pairs](/games/picture-pairs/) e tuu ai ata i luga, o lea e faʻatatau i le iloa, e le o le manatu.
-58. **Suʻe le ata tutusa.** [Find the same](/games/find-the-same/) e ofo ai e lua ma le fa filifiliga. Talanoa e uiga i ata taʻitasi.
-59. **Faʻavasega i ipu.** [Sort together](/games/sort-together/) e pei o le faʻavasegaina o soksi i luga o le initaneti.
-60. **Puzela faʻapipiʻi laiti.** Ata matua, numera faigofie o faʻapipiʻi. [Picture puzzle](/games/picture-puzzle/) e tuu ai le ata atoa e iloa. Mo le sili atu, vaʻai i [puzela mo le dementia](/activities/puzzles/).
-61. **Taʻalo kata tuai.** O se mea na latou taʻalo mo tausaga. Mulimuli ane, faʻavasega le kata e ala i lanu o se taʻaloga lava lea.
-62. **Taʻalo dominoes.** Faʻatutusa pito. Mulimuli ane, o le faʻatulaga o mea e lelei lava.
-63. **Faʻataʻitaʻi suʻesuʻega upu tetele.** Lou [word search](/games/word-search/) o loo i ai upu naʻo le lautele ma le lalo, ma e mafai ona lolomi.
-64. **Faʻamaeʻa upu masani.** [Finish the saying](/games/finish-the-saying/) e mafai ai ona faʻaali le iʻuga i soʻo se taimi.
-65. **Taʻalo bingo ata.** [Picture bingo](/games/picture-bingo/) e lelei mo aiga ma vaega. Fesoasoani e faʻailoa mea i le pepa.
-66. **Taʻalo checkers.** Tumau le tulafono faigofie. Faʻasolo fetu e faia ma le talanoa e lelei.
+57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
+58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
+59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
+60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
+61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
+62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
+63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
+64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
+65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
+66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
 
-## Gaioiga o le tino
+## Movement
 
-O le NIA o loo fautua mai savali, pasiko o le taʻavale, faʻalulu i ni mea malosi, togi polo malulu po le ulu, ma ata vitio faʻataʻitaʻi tino mo tagata matua. Siaki ma se foma muamua a e amata se mea fou, aemaise lava pe a i ai faʻalavelave o le mautu o le tino.
+The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
 
-67. **Togi polo.** Nofo i luga o le paʻu, latalata le tasi i le isi. E malulu le alu, faigofie ona puʻe.
-68. **Faia faʻataʻitaʻiga o le tino i nofoa.** Faʻataʻitaʻiga e faia mo tagata matua, faatasi ma oe.
-69. **Faʻalulu ma se faʻalulu.** Faʻalulu malulu o lima ma se paʻu malulu i le nofoa.
-70. **Fasi le ipu supa.** Sosoo lima malulu, pe o se pese.
-71. **Taʻavale pasiko.** Ni minute malulu, ma oe latalata.
-72. **Siva ma ie.** Faʻalulu ie malulu i le musika, nofoa pe tu.
-73. **Savali ma se mafuaʻaga.** E posta se tusi po le faʻatau o le kofe. O se mafuaʻaga e faigofie ai ona alu.
-74. **Faʻasoa se taimi o le manava.** Faʻaitiitia le lagona faatasi ma [manava malulu](/games/calm-breathing/).
+67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
+68. **Follow a seated exercise video** made for older adults, side by side.
+69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
+70. **Lift soup cans.** Slow arm raises, perhaps to music.
+71. **Ride a stationary bike.** A few easy minutes, with you nearby.
+72. **Dance with scarves.** Wave light scarves to music, seated or standing.
+73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
+74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
 
-## Galuega faʻasoʻotaga
+## Social activities
 
-E taua le faʻasoʻotaga pe a le iloa igoa, ma e sili atu le faigofie o vaega itiiti nai lo vaega tetele. O le NIA o loo taʻua e ui e le iloa e le tagata le igoa o se asiasi, e masani ona fiafia i le faʻasoʻotaga. Vaʻai i [asiasi](/activities/visiting/).
+Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
 
-75. **Asiasi a le tagata se tasi po se lua i le taimi.** Asiasi pupuʻu i le potu filemu, faatasi ma ata e matamata ai.
-76. **Vitio o le aiga.** Vaʻaiga pupuu, se leo i le taimi. Vaʻai [telefoni ma vitio](/activities/phone-and-video-calls/).
-77. **Faia se faletalimalo o le manatu.** Fuafuaga tatala mo tagata o loo ola ma le dementia ma o latou tausi. Fesili i lou ofisa fesoasoani o tagata matua i lou itumalo le mea e latalata.
-78. **Ai i se nofoaga filemu i se taimi.** E fautua mai le NIA se nofoaga e masani ma filemu i ofisa i le taimi, ma se nofoaga latalata i le faleʻafe.
-79. **Asiasi i se nofoaga o tagata matua po se polokalame aso.** E fiafia ai o ia ma e malolo ai oe.
-80. **Faʻatasi ma tamaiti.** Asiasi puʻupuʻu e filemu mai le tupulaga, po taʻu se tusi ata i se tamaitiiti laiti.
-81. **Faʻasoa le nusipepa i le kofe.** Taʻu le ulutala leo malosi. E sili le aganuʻu nai lo tala.
-82. **Fesoasoani i se isi.** Fuia polokalame lotu po fai se kata mo se tuaʻā.
+75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
+76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
+77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
+78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
+79. **Visit a senior center or adult day program.** Company for them and a break for you.
+80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
+81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
+82. **Help someone else.** Fold church programs or make a card for a neighbor.
 
-## Galuega o le lotu ma le agaga
+## Faith and spiritual activities
 
-Mulimuli i le aganuʻu a le tagata, pe leai. O le NIA o loo fautua mai auaunaga e iloa, faitauga, pese paia, tatalo, faamaalilieina ma aganuʻu o aso tetele.
+Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
 
-83. **Auai i se auaunaga e iloa.** Filifili se mea e filemu, nofo latalata i le ala, ma taʻu i tagata i ai le mafai o le dementia.
-84. **Matamata i se auaunaga i luga o le initaneti** i aso e le mafai ai ona alu i fafo.
-85. **Tatalo po faitau faatasi.** Upu e iloa, faitau malulu. E mafai ona latou auai i vaega latou te iloa.
-86. **Pese i ni pese paia** mai o latou aganuʻu.
-87. **Tausi aganuʻu o aso tetele.** Mataʻi ma le masina, se faamanuia, o teuteuga ua latou faʻaoga i le taimi uma.
-88. **Faʻasoa le taimi filemu.** Nofo i se togalaau po matamata i le la o le aso faatasi.
+83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
+84. **Watch a service online** on days when going out is too much.
+85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
+86. **Sing hymns or sacred music** from their tradition.
+87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
+88. **Share quiet time.** Sit in a garden or watch the sunset together.
 
-## Manu fafaga ma manu
+## Pets and animals
 
-O le NIA o loo fautua mai fafaga, faʻasusu, savali, po le nofo latalata ma le fai o se manu fafaga.
+The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
 
-89. **Faʻasusu se kuli malulu po se pusi** i ni faʻaogaina umi malulu.
-90. **Fafaga le manu faatasi.** E e fuaina; latou te tafe.
-91. **Savali ma le kuli faatasi.** E e taofi le mea e faʻasolo ai le kuli.
-92. **Tuu le manu i luga o o tulivae.** Pusi malulu i luga o se ie e mafai ona faʻamalolo ai.
-93. **Faʻatali manu asiasi.** O nisi falemaʻi po polokalame aso e faia asiasi o manu. Fesili i le nuu.
-94. **Ofo se manu ua faia faʻatusa.** Afai e leai se manu, nisi o tagata e fiafia e umi se kuli po se pusi ua faia e pei o le ola. Ofo faigofie, e le o se taʻaloga, ma talia le “leai”.
+89. **Brush a calm dog or cat** with long, slow strokes.
+90. **Feed the pet together.** You measure; they pour.
+91. **Walk the dog together.** You hold the leash.
+92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
+93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
+94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
 
-## Galuega o vaitau
+## Seasonal activities
 
-Teu tu o aganuʻu, ae faigofie. O le NIA o loo fautua ia faamoemoe lelei ma faia se nofoaga filemu mo malolo i aso tetele.
+Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
 
-95. **Teuteu mo le vaitau.** Fuala‘au, se lei fou, po fugalaau fou i luga o le laulau.
-96. **Faia se meaʻai o le tau.** Faʻasolo paluga po faʻaulu kuki. E e pulea le oveni.
-97. **Faʻaulu teuteu.** Teuteu e le mafai ona pa'u, foaʻi se tasi i le taimi.
-98. **Ave taʻavale e matamata i malamalama.** O se malaga laiti i le afiafi e le manaʻomia se mea e sili atu i le faʻamalie o le tele.
-99. **Tanu fualaau tau.** Tuu fualaau i se ipu i le tau ma matamata pe a tupu.
-100. **Vavaeeseina sana po pi pese.** Galuega o le veranda i le tau o le vevela, ma ipu i luga o o tulivae.
-101. **Tusi o kata o le Kilisimasi.** latou te saini, faʻamaʻa po faʻapipiʻi; e e taitai le tusi o le fale.
+95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
+96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
+97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
+98. **Drive to see the lights.** A short evening drive asks nothing but company.
+99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
+100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
+101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
 
-## Afai e le aoga se gaioiga?
+## What if an activity is not working?
 
-Faʻamavae, ma taumafai i se mea eseese i se isi taimi. O le NIA o loo fautua ia matauina le faʻalavelave ma tuu le tagata e matamata pe a faʻamamafa. O le musu e masani ona faʻaalia o le galuega e faigata, o le taimi e sese, po o se mea e faʻalavelave ai, e pei o le mafatiaga, le fia ʻai po le leo. Faʻaitiitia, taumafai i le taeao, po amata oe lava ma vaʻai pe auai ai. Vaʻai i [pe a musu i ai](/caregiving/when-they-say-no/) ma [faʻafeagai i le afiafi](/caregiving/late-day-restlessness/).
+Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
 
-Mo le faʻatulaga o gaioiga i le va o kai ma le malolo, vaʻai i [se faʻasologa malulu o le aso](/activities/daily-routine/). Mo mea e sauni ai, vaʻai i [gaioiga lolomi](/activities/printable/), ma pe a e taʻitaʻi se vaega, [galuega o vaega i falemaʻi](/activities/care-home-groups/). O lou malolo lava e taua foi: vaʻai i [le tausia o oe lava](/caregiving/caregiver-self-care/).
+To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).

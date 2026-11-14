@@ -1,28 +1,32 @@
 ---
-title: "Gaioiga mo le Dementia o le Vaitaimi Ogatotonu"
-seoTitle: "Gaioiga o le Dementia Ogatotonu: Manatu Faigofie"
-description: "Gaioiga faigofie mo le dementia o le vaitaimi ogatotonu: galuega aoga, musika, ata ma taʻaloga faigofie, ma auala e suia ai le lotoleaga i se gaioiga."
+title: "Activities for Middle-Stage Dementia"
+seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
+description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  I le vaitaimi ogatotonu o le dementia, o gaioiga sili e puʻupuʻu, masani ma vaevaeina i laasaga e tasi: fuia tautu, faʻatutusa soksi, fufulu ipu, pese, savali taʻiala, album o ata ma taʻaloga ata faigofie. Faʻatulaga mea, faʻaali le laasaga muamua, taʻi le vaega faigata, ma foaʻi le gaioiga se mafuaʻaga. Faʻamavae pe a le toe fiafia.
+  In middle-stage dementia, the best activities are short, familiar and broken
+  into single steps: folding laundry, sorting socks, washing dishes, singing,
+  guided walks, photo albums and simple picture games. Set things up, show the
+  first step, take over the hard parts and give the activity a purpose. Stop
+  when it stops being pleasant.
 keyPoints:
-  - "Galuega aoga masani e sili ona lelei ona e lagona ai o ia e aoga ma matutua."
-  - "Faʻaali nai lo le faamatala, foaʻi le laasaga e tasi i le taimi, ma foaʻi filifiliga e lua nai lo fesili tatala."
-  - "Taʻi le vaega faigata oe lava ina ia mafai ona faia e le tagata le vaega e fiafia ai."
-  - "O le lotoleaga e masani ona faʻaalia ai le manaʻo o le tagata e faia se mea. Ofo se gaioiga e fetaui nai lo le musu."
-  - "Matamata, fesoasoani laiti, po le faʻamavaeina vave o auala uma e lelei."
+  - "Familiar household jobs often work best because they feel useful and adult."
+  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
+  - "Take over the hardest part so the person can do the satisfying part."
+  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
+  - "Watching, helping a little, or stopping early are all fine."
 faq:
-  - q: "O ā gaioiga e lelei mo le dementia o le vaitaimi ogatotonu?"
-    a: "E masani ona lelei gaioiga puʻupuʻu, masani ma e tumau i lima: fuia tautu, faʻatutusa soksi, fufulu ipu, faʻatulaga le laulau, pese i pese e iloa, savali taʻiala, album o ata ma taʻaloga ata faigofie. Vaevaeina galuega taʻitasi i laasaga e tasi ma faia faatasi."
-  - q: "E faafefea ona ou faʻaalu se tagata e amata se gaioiga?"
-    a: "Saunia mea uma muamua, ona amata lea o le gaioiga oe lava ma valaʻau le tagata e fesoasoani: “E mafai ea ona e fesoasoani mai i nei tautu?” E toatele tagata e loto e auai ae faigata ona amata. E sili ona lelei le faʻaali o le laasaga muamua nai lo le faamatala."
-  - q: "O le a le mea e tatau ona ou faia pe a faia e le tagata se mea i taimi uma?"
-    a: "E masani ona le lamatia le toe faia, ma e mafai ona avea ma faʻailoga e manaʻo le tagata e lagona o ia e malolo pe fesoasoani i ai. Nai lo le toe faʻasaʻo, liliu le gaioiga e fetaui ma le neʻi, e pei o le faʻavasega o ipu po pese e fiafia ai."
-  - q: "Afai latou te faia le gaioiga sese?"
-    a: "Afai e le lamatia, ia faʻatagaina. Tautu fuia eseese po nife i le nofoaga sese e le taua. O le toe faʻasaʻoina e mafua ai ona lagona le tagata e le lelei, ae o le faia lava ona latou auala e mafai ai ona latou lagona le aoga ma le mafai."
+  - q: "What activities are good for middle-stage dementia?"
+    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
+  - q: "How do I get someone with dementia to start an activity?"
+    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
+  - q: "What do I do when they keep doing something over and over?"
+    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
+  - q: "What if they do the activity wrong?"
+    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -44,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-O le vaitaimi ogatotonu o le dementia e masani ona umi sili, ma o lenei ua manaʻomia ai le lagolago tele mo gaioiga. Upu e faigata ona oo mai, laasaga e masani ona fenumiai, ma e faigata le amataina o soʻo se mea. Ae e masani ona tumau le manaʻo e aoga ai ma auai. Faatasi ma se faatulaga laiti, o le tagata i le vaitaimi ogatotonu e mafai pea ona fiafia i se mea e tele, aemaise lava galuega masani, musika ma ata a o e faia faatasi i le itu.
+The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
 
-## O ā gaioiga e lelei i le dementia o le vaitaimi ogatotonu?
+## What activities work well in middle-stage dementia?
 
-Gaioiga puʻupuʻu, masani, ma vaevaeina i laasaga e tasi e sili ona lelei. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) o loo fautua mai e leai se manaʻoga e faia ni mea fou: gaioiga e mafai ona avea ma vaega o le olaga masani, e pei o le faia o le meaʻai i le afiafi faatasi, faatoaga, faalogo i musika po savali.
+Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
 
-O le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) o loo taʻua e masani ona manaʻo tagata i lenei vaitaimi e lagona o latou e aoga, po e tausi se mea, ma e manaʻo fesoasoani e amata ai pe faʻaauau gaioiga. Lona lisi o gaioiga o le vaitaimi ogatotonu e aofia ai fuia tautu, faʻavasega o soksi, fufulu ipu, faʻamalosiga laiti, pese, savali taʻiala, faitau album ata, ma ata laiti i le taʻi.
+The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
 
-## E faafefea ona saunia se gaioiga ina ia lelei?
+## How do you set up an activity so it works?
 
-O le tele o gaioiga e manuia pe le manuia i le saunia. O nei auala, na aʻoaʻoina mai le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ma le [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), e sili ai le aʻafiaga:
+Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
 
-1. **Faʻamamā le nofoaga.** Tapuni le televise, tapuni le faitotoa ma tuu ni mea e manaʻomia mo le gaioiga naʻo ia.
-2. **Amata oe lava.** Amata le fuia po le faʻafefe ma valaʻau le tagata e ulufale: “E mafai ea ona e fesoasoani mai i lenei mea?”
-3. **Faʻaali, ona faatali.** Faʻaali le laasaga e tasi. Faʻailoa po taʻi malulu i lou lima, e pei o le faʻaalia o le mea e tuu ai le ipu.
-4. **Foaʻi se laasaga i se taimi.** “Fuia i le lua” e sili atu le faigofie nai lo “fuia nei ma faʻatuu i lanu.”
-5. **Foaʻi filifiliga e lua, aua le fesili tatala.** “O tautu lanu moli po o tautu lanu sina?” e faigofie ona tali nai lo “O le a le mea e te manaʻo e faia?”
-6. **Faia le vaega faigata oe lava.** E te fuaina, latou te faʻafefe. E te faʻapipiʻi le nila, latou te vili le uli.
-7. **Foaʻi le mafuaʻaga.** “O napkin nei mo le ʻaiga o le Aso Sāpati” e faia ai le galuega e moni.
-8. **Faatagaina latou e matamata pe a latou manaʻo.** E fautua mai le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) o le matamata naʻo e mafai ona fiafia ai foi.
+1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
+2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
+3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
+4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
+5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
+6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
+7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
+8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
 
-## Manatu o gaioiga mo le vaitaimi ogatotonu
+## Activity ideas for the middle stage
 
-### Galuega aoga
+### Useful jobs
 
-- **Fuia tautu ma tautu laiti.** Mea laiti ma mafolafola e sili ona faigofie. O se ato o tautu vevela e mafai ona fuia, faʻasalalau ma toe fuia.
-- **Faʻatutusa soksi.** Amata ma nai paaga e lua ese tele. E lelei foi le faʻavasegaina i le lanu naʻo.
-- **Fufulu po o faʻamamā ipu e le malepe.** Vai vevela malulu e fiafia ai ona lima. E lelei le faʻamamā e nofo ai e faigofie i vae.
-- **Faʻatulaga le laulau.** Foaʻi se ituaiga mea i le taimi e tasi, ma faʻatulaga le tasi nofoaga oe lava e fai ma faʻataʻitaʻiga.
-- **Fesoasoani i le meaʻai o le afiafi.** Fufulu fualaʻau, vaevaeina laau salati, faʻafefe i le ipu. E te faʻaoga nife ma vevela.
-- **Faʻamamā, faʻamamā le lefulefu po sosoo.** Se lalanu mo le laulau, po se sosoo laiti mo le veranda.
+- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
+- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
+- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
+- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
+- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
+- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
 
-Vaʻai i [galuega o le fale](/activities/household-tasks/) mo le tele o isi.
+See [household tasks](/activities/household-tasks/) for many more.
 
-### Musika ma le siva
+### Music and movement
 
-- **Pese pese masani.** Amata ona e pese oe lava; e mafai ona auai tagata i pese ua latou iloaina mo le tele o tausaga. Vaʻai i [gaioiga musika](/activities/music/).
-- **Siva faʻamalie.** Faʻalulu, pa'i lima po faʻalulu e tusa ai ma le lagona. E mafai ona nofo.
-- **Togi polo.** E malulu le alu ma faigofie ona puʻe mai se nofoa.
-- **Savali taʻiala.** Savali se faʻalava laiti e iloa faatasi, o lima i lima pe afai e lelei.
+- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
+- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
+- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
+- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
 
-### Ata ma tala
+### Pictures and stories
 
-- **Matamata i se album ata.** Taʻu le mea e te vaaia nai lo le fesili: “Vaʻai i le ʻaʻa. Ia taʻu mai e uiga i ai.” Vaʻai i [gaioiga o le faʻamanatuga](/activities/reminiscence/).
-- **Faʻaoga pepa talanoaga.** [Pepa talanoaga](/games/conversation-cards/) faʻapipiʻi se ata ma se valaʻauga tatala, e leai se suʻesuʻega.
-- **Matamata i se ata tala masani.** Filifili se mea e iloa, nofo latalata ma faʻamavae e faʻamalolo ai.
+- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
+- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
+- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
 
-### Taʻaloga faigofie e leai se faʻamalosiga
+### Simple, pressure-free games
 
-- **Ata tutusa ma ata e vaaia.** [Ata tutusa](/games/picture-pairs/) e tumau ai ata i luga, o lea e faʻatatau i le iloa, e le o le manatu.
-- **Suʻe le tutusa.** [Suʻe le tutusa](/games/find-the-same/) faʻaalia se ata e tasi ma filifiliga e lua i le fa.
-- **Faavasega faatasi.** [Faavasega faatasi](/games/sort-together/) e pei o le faʻavasegaina o galuega lalanu i luga o le initaneti: taʻu se ata, ona taʻu lona ato.
-- **Bingo ata.** [Bingo ata](/games/picture-bingo/) e lelei mo faiga o aiga ma vaega.
+- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
+- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
+- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
+- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
 
-Afai o se taʻaloga e amata ona faʻalavelave, faʻamavae ma faia se isi mea. Vaʻai i [auala e taʻalo faatasi](/caregiving/how-to-play-together/).
+If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
 
-## Liliu le lotoleaga i se gaioiga
+## Turning restlessness into an activity
 
-O le lotoleaga po le toe faia e masani ona i ai se mafuaʻaga. O le Family Caregiver Alliance o loo taʻua o se tagata o loo faʻaliliu le faʻatoʻaga o se kapeta e masani ona manaʻo e lagona o ia e malosi ma aoga. O le Alzheimer's Association o loo fautua mai ia liliu lena malosi i se gaioiga e fetaui, nai lo le taofia.
+Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
 
-| Mea e te vaaia | Mea e ofo atu |
+| What you see | Something to offer |
 | --- | --- |
-| Tipi po pipii i le laulau | Se lalanu malulu ma se talosaga e mamā ai le laulau |
-| Vae e lotoleaga po le tipi | Musika ma se paʻiga manino e tipi ai pe pa'i ai |
-| Aveesea mea mai pusa ma kapeta | Ato o ofu po lalanu e fuia ma faʻavasega |
-| Fesili le mea lava lea i le toe | Faʻamalosi, ona talanoa pe pese po galuega e faʻasoa |
-| Savali i luga ma i lalo | Savali faatasi, po se galuega e aofia ai le aveina o mea |
-| Le filemu i le afiafi | Galuega malulu, masani i le malamalama lelei; vaʻai i [lotoleaga o le afiafi](/caregiving/late-day-restlessness/) |
+| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
+| Restless feet or tapping | Music with a clear beat to tap or clap along to |
+| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
+| Asking the same question again | Reassurance, then a song or a chore to share |
+| Pacing | A walk together, or a job that involves carrying things |
+| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
 
-## Pe a tatau ona faamavae pe liliu
+## When to stop or change course
 
-Faʻamavae pe a e vaaia faʻailoga o le malolo, le faʻalavelave, le paʻu po le le fiafia, e pei o le lulu, le faʻalavelave, le tuli ese o mea, po le fai mai “Ou te le mafaʻ.” O le Alzheimer's Association o loo fautua mai ia taumafai i se isi taimi o le aso po faʻaitiitia le gaioiga. Aua le faamalosia. O le musu e mafai ona sau mai le mataʻu po le galuega e faigata; vaʻai i [pe a musu i ai](/caregiving/when-they-say-no/).
+Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
 
-E lelei le faʻamavae vave. E lelei foi le nofo faatasi e inu ai se ipu tī. A o suia le malosi o le tagata, e mafai ona fetaui ai le manatu i [gaioiga o le vaitaimi mulimuli](/activities/late-stage/), ma o le [101 gaioiga](/activities/ideas/) e tele mea e taʻalo ai.
+Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.

@@ -1,28 +1,32 @@
 ---
-title: "Gaioiga mo le Dementia o le Tulaga Mulimuli, e Aofia ai le Moe pe Nofo i le Nofoa"
-seoTitle: "Gaioiga o le Dementia Mulimuli: Auala mo le Moe ma Nofoa"
-description: "Gaioiga malulu mo le dementia o le tulaga mulimuli, mo tagata o loo moe pe nofo i le nofoa: musika, paʻiga malulu, faitau leo ma le nofo faatasi."
+title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
+seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
+description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  I le tulaga mulimuli o le dementia, gaioiga e taulaʻi i lagona ma lou faatasi: taʻalo musika e fiafia i ai, faʻamasaʻi lima malulu, faitau leo, matamata i ata, leo o le natura, ma nofo i le faamalama po i fafo. O nei mea e mafai i le moe pe nofo i le nofoa. Faia taimi puʻupuʻu, matamata i foliga ma lima mo le malolo, ma manatua o le nofo latalata o le gaioiga lava lea.
+  In late-stage dementia, activities center on the senses and on your company:
+  playing favorite music, holding hands, a slow hand massage, reading aloud,
+  looking at photos, nature sounds and sitting by a window or outside. These
+  work in bed or a chair. Keep sessions short, watch faces and hands for
+  comfort, and remember that being present is itself the activity.
 keyPoints:
-  - "E mafai pea ona fesootai. I le tulaga mulimuli, o le lalolagi e iloa muamua i le lagona."
-  - "Musika, taʻi malulu, leo e iloa ma mea malulu e ai i tagata e masani ona taʻu atu ai, pe a le mafai ona faʻaogaina upu."
-  - "E tele o mea i lenei itulau e mafai ona faʻaogaina i le moe pe nofo i le nofoa."
-  - "Matauina le fiafia ma le le fiafia i foliga, lima ma manava, ma faʻamavae pe a vaaia se faʻalavelave."
-  - "Aua le tuu mea laiti i latalata, ma ofo meaʻai po vai naʻo le faʻatonuga a le ʻau tausi, aua o le feʻai e mafai ona matautia."
+  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
+  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
+  - "Almost every idea here works for someone in bed or a chair."
+  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
+  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
 faq:
-  - q: "O ā gaioiga e mafai ona faia ma le tagata o le tulaga mulimuli o loo i le moe?"
-    a: "Taʻalo pese e fiafia i ai, taʻi lima, faʻamasaʻi lima malulu ma le lotion, faitau leo mai se tusi po le lotu latou te alofa i ai, faʻaali ata, po taʻalo leo malulu o le natura. Tatala pelu ina ia mafai ona latou vaai i fafo. O gaioiga puʻupuʻu, e tasi mea i le taimi, e masani ona sili."
-  - q: "E mafai ea ona fiafia le tagata o le tulaga mulimuli i musika?"
-    a: "E toatele e mafai. O le Alzheimer's Association o loo taʻu mai e ui i le tulaga mulimuli, e mafai ona latou taʻu se laasaga po pese se pese mai o latou tamaitiiti. Filifili musika na latou alofa i ai i tausaga laiti ma faʻamalulu le leo."
-  - q: "E faafefea ona ou iloa pe fiafia le tagata i se gaioiga?"
-    a: "Matauina faʻailoga laiti: auala malulu, foliga malulu, vaai i mata, leo o le humming, fusi o lima po le manava malulu. O le faʻaalia o le mata, le toe ʻaveese, le le filemu po le leo o le ʻoʻo e mafai ona faʻaalia ai le faʻavaivaiga po le mafatiaga. Afai e te vaaia nei mea, faʻamavae ma taʻu atu i le ʻau tausi pe a faaauau."
-  - q: "E tatau ea ona asiasi pe a le toe iloa e le tagata aʻu?"
-    a: "Ioe. E fautua mai le National Institute on Aging e mafai ona faʻamalulu le tagata pe a e iai latalata, ma o le taʻi, pese ma tala e mafai pea ona avea ma faʻamafanafanaga i le dementia o le tulaga sili. O lou leo ma lou taʻi e mafai ona iloa e ui e le iloa lou igoa."
+  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
+    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
+  - q: "Can people with late-stage dementia still enjoy music?"
+    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
+  - q: "How do I know if they are enjoying an activity?"
+    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
+  - q: "Is it worth visiting if they no longer recognize me?"
+    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -44,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-I le tulaga mulimuli o le dementia, e mafai ona tautala le tagata i le itiiti, manaʻomia le fesoasoani i tausiga uma o aso, ma e tele taimi e nofo i le moe pe i le nofoa. E mafai ona lagona e leai se mea e faia faatasi. E iai. O le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) o loo taʻua e iai se vaega o le tagata e mafai ona tumau, ma i lenei tulaga o le lalolagi e iloa muamua i le lagona. Pese, taʻi, leo e iloa ma lou faatasi malulu e mafai ona avatu ai le faamafanafanaga ma taimi o le fesootaiga.
+In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
 
-## O ā gaioiga e fesoasoani i le dementia o le tulaga mulimuli?
+## What activities help in late-stage dementia?
 
-Gaioiga faʻalagona faigofie ma le faatasi malulu e sili ona fesoasoani i le tulaga mulimuli. O le Alzheimer's Association o loo fautua mai ia taʻalo pese e fiafia i ai, faitau vaega o tusi taua, faʻatuʻu lotion ma le manogi e fiafia i ai i le paʻu, ma nofo faatasi i fafo i se aso lelei. O le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) o loo faʻaopoopo ai tala, faʻaali ata, taʻi malulu po faʻamasaʻi, pese, leo faʻafiafia po leo o le natura, ma fai mai o lou faatasi lava e mafai ona faʻamalulu.
+Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
 
-O le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) o loo taʻua e masani ona manaʻo tagata i le tulaga mulimuli e taofi se mea i latou mo le faʻamalulu, ma fautua mai gaioiga faʻalagona faigofie, faʻalulu malulu, faʻalulu i se lalanu, pese, asiasi o manu, taʻi tagata ma galuega ata saʻo.
+The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
 
-## Galuega mo le tagata o loo i le moe pe nofoa
+## Activities for someone in bed or a chair
 
-1. **Taʻalo a latou pese.** Filifili pese mai o latou tausaga o le talavou, lo latou lotu po o le aiga. Faʻamalulu le leo ma nofo latalata. E oo lava i le taimi nei, o nisi tagata e taʻu se laasaga po humming. Vaʻai i [gaioiga musika](/activities/music/).
-2. **Taʻi lima.** O le taʻi malulu o se lima ma se faʻamalulu o le tuʻa o le tamā o le lima o se galuega. Taʻu atu le mea e te faia muamua.
-3. **Faʻamasaʻi lima malulu.** Vevela sina lotion i ou palama ma faʻamalulu mai le tuʻa o le lima i pito o tamaʻi lima. Filifili lotion e leai se manogi, po se manogi e alofa i ai afai e talia e lona paʻu.
-4. **Faitau leo.** Se solo pili pe se vaega mai se tusi na latou alofa i ai, lotu, tusi paia po pepa taʻalo. O le manava o lou leo e sili atu nai lo upu.
-5. **Taʻu se tala.** Talanoa e uiga i se malaga aiga po le aso na faaipoipo ai. E te le manaʻomia ni tali.
-6. **Faʻaali ata.** Taʻu se ata tele i le taimi e tasi i le matagaʻi, ma faʻamatala malulu. Aua le fesili o ai o loo i ai.
-7. **Ofo se mea malulu e taofi.** Se lalanu malulu ua faia, se lalanu vevela po se manu malulu. E fautua mai le NIA ia foaʻi le tagata se lalanu e taofi pe a faʻaliliuina, ina ia laʻitiiti ai ona latou taʻu oe po mea o le potu.
-8. **Taʻalo leo o le natura.** Timu, galu po pisi manu i le leo maʻaʻa e mafai ona faʻamalulu se potu e tele leo.
-9. **Faʻaulu le lalolagi i totonu.** Tatala pelu, tuu se fafaga manu i fafo o le faamalama, po faʻaulu ni fugalaau fou po laau e vaai ma taʻi ai.
-10. **Faʻaalu taimi i fafo.** Afai e mafai ona nofo le tagata i se nofoa taʻavale, o nai minute i le malu i se aso malulu e matagofie.
-11. **Fusi lauulu po ofo se lalanu vevela.** Fusi malulu o lauulu ma se lalanu vevela mo lima ma foliga e mafai ona lagona alofa.
-12. **Savali malulu faatasi ma musika.** Taʻalo se lalanu malu faatasi, po faʻalulu lima i le taimi o se pese. Mo faamalosi ma le faʻafetauina o vaega o le tino, fesili i se fomaʻi tino po se nese e faʻaali mai auala saogalemu muamua.
-13. **Faia galuega faʻatulaga ua saoloto.** Taʻi pepa tele ma le taʻi lima ma siponi, ma e taʻi faʻataʻitaʻi i lou lima. E leai se auala saʻo o le iʻuga.
-14. **Faʻafeiloaʻi manu asiasi.** O se manu malulu i luga o le moe po i luga o o tulivae afai na fiafia le tagata i manu ma e mafai ai le tulaga.
-15. **Faʻamaʻa le manava malulu faatasi.** Nofo latalata ma manava malulu ma leo. E mafai ona faʻatulaga e [manava malulu](/games/calm-breathing/) i tatou uma, e te amata ma faʻamavae.
-16. **Nofo latalata.** Nofo latalata, hum, fiu po faitau malulu. O le nofo latalata e lava.
+1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
+2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
+3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
+4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
+5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
+6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
+7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
+8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
+9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
+10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
+11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
+12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
+13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
+14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
+15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
+16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
 
-## E faafefea ona faʻasoa se gaioiga i lenei tulaga
+## How to share an activity at this stage
 
-- **Latalata mai le itu i luma.** Taʻu lou igoa ma lou igoa, ma tautala malulu ma le leo lelei a o le leʻi taʻi.
-- **Ofo se mea i se taimi.** Tape le televise a o taʻalo le musika. Faia se faʻalagona i se taimi.
-- **Taumafai i le puʻupuʻu.** E mafai ona lelei se pe lua minute. O nisi taimi puʻupuʻu i le aso e sili atu nai lo se taimi umi.
-- **Faʻamalulu muamua.** Siaki le tagata o loo lagolagoina lelei. E fautua mai le NIA se laupapa tuu i luga o tulivae e taofi ai lima ma lagolago le tino pe a nofo maualuga.
-- **Matauina le tali.** Lima malulu, foliga malulu, vaai i mata po le leo o le humming e faʻaali ai le malulu. E fautua mai le NIA o le leo o le ʻoʻo, le faʻaalia o mata, le puipuiina o se vaega o le tino po le faʻalavelave e mafai ona faʻaalia ai le mafatiaga. Faʻamavae, ma taʻu atu i le ʻau tausi.
+- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
+- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
+- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
+- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
+- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
 
-## Se taʻiala vave e ala i lagona
+## A quick guide by sense
 
-| Lagona | Manatu | Mea e tatau ona faʻaeteete i ai |
+| Sense | Ideas | Take care |
 | --- | --- | --- |
-| Faalogo | Musika e fiafia i ai, lou leo e faitau, leo o le natura | Faʻamalulu le leo; se leo e tasi i le taimi |
-| Taʻi | Faʻamasaʻi lima, fusi lima, lalanu malulu, lalanu vevela | Fesili po o taʻu muamua; siaki e le ma'i pe malu le paʻu |
-| Vaai | Ata, fugalaau, le vaaiga mai le faamalama, ata vitio malulu o le natura | Tuʻu mea i le maualuga o mata; malamalama lelei, leai se malamalama e faʻalavelave |
-| Manogi | Lotion e fiafia i ai, fugalaau fou, kofe e tutu i latalata | Aua le faʻaoga manogi malosi; siaki faʻalavelave ma le manava |
-| Tofo | Se tofo laiti o se tofo e fiafia i ai | Naʻo meaʻai ma gaʻo o loo fautua mai e le ʻau tausi e saogalemu |
+| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
+| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
+| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
+| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
+| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
 
-## Puipuiga i lenei tulaga
+## Safety at this stage
 
-E mafai ona faigata le feʻai i le tulaga mulimuli, ma o le NIA o loo lapataʻi mai e faʻalavelave ai le manava. Aua le tuu mea laiti i latalata, ma naʻo meaʻai po vai i gaʻo ma tulaga o loo fautua mai e le ʻau tausi. Siaki le paʻu malulu i taimi o gaioiga o le pa'i, aua o le paʻu e mafai ona saese po pa'u faigofie. Mo se isi aʻoaʻoga mo gaioiga faʻalagona saogalemu, vaʻai i [gaioiga o lagona](/activities/sensory/).
+Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
 
-## Tausi oe lava foi
+## Looking after yourself too
 
-O le tausiga o le tulaga mulimuli e mafua ai le malolo tino ma lagona, i le fale po pe a asiasi i le falemaʻi. O ʻau o le faʻamafanafanaga ma le tausiga e mafai ona fesoasoani i le faʻamafanafanaga, lagolago ma fuafuaga, ma le NIA o loo lisiina i latou o se puna o fesoasoani. Asiasi puʻupuʻu e taua; vaʻai i [asiasi i se tagata o loo ola ma le dementia](/activities/visiting/). Afai e taʻitaʻi o ʻau o vaega, [galuega o vaega i falemaʻi](/activities/care-home-groups/) o loo i ai manatu mo le faʻafetauina o faʻatinoga. Ia faitau [le tausia o oe lava](/caregiving/caregiver-self-care/): o le malolo o se vaega o le tausiga lelei.
+Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
