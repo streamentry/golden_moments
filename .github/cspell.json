@@ -378,7 +378,8 @@
     "Chichewa",
     "Lingala",
     "Dhivehi",
-    "Ossetian"
+    "Ossetian",
+    "Sami"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",

@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animales",
+      "description": "Animales amabile e simpatic de tote le mundo"
+    },
+    "nature": {
+      "name": "Natura",
+      "description": "Belle paisages e scenas natural"
+    },
+    "food": {
+      "name": "Alimentos",
+      "description": "Repastos e dulcias delicioso"
+    },
+    "vintage": {
+      "name": "Autos",
+      "description": "Autos e camiones a reguardar e a discuter"
+    },
+    "flowers": {
+      "name": "Flores",
+      "description": "Belle flores e scenas de jardin"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animales de ferma",
+      "description": "Animales de ferma amabile, como in un visita al campania.",
+      "theme": "Vita de ferma",
+      "images": {
+        "cow_1": "Vacca amabile",
+        "pig_1": "Porco contente",
+        "chicken_1": "Gallo",
+        "buffalo_1": "Bufalo de aqua",
+        "horse_1": "Belle cavallo",
+        "duck_1": "Familia de anates",
+        "goat_1": "Capra curiose",
+        "rabbit_1": "Cunicul simpatic"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vistas de montanias",
+      "description": "Paisages de montanias impressionante e belle vistas",
+      "theme": "Beltate natural",
+      "images": {
+        "mountain_1": "Cimas con nive",
+        "mountain_2": "Monte Fuji",
+        "mountain_3": "Valle alpin",
+        "mountain_4": "Cima rocose",
+        "mountain_5": "Collines con foresta",
+        "mountain_6": "Montanias in le bruma"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autos e camiones",
+      "description": "Autos e camiones lucente a reguardar e a discuter",
+      "theme": "Super le strata",
+      "images": {
+        "vintage_car_1": "Audi orange al crepusculo",
+        "vintage_car_2": "Auto sportive blau in le deserto",
+        "vintage_car_3": "Bugatti argentee",
+        "vintage_car_4": "Porsche nigre in le strata",
+        "vintage_car_5": "BMW orange in un strata con palmas",
+        "vintage_car_6": "Coupé blau presso un garage",
+        "vintage_car_7": "Camionetta verde",
+        "vintage_car_8": "SUV blanc inter rochas rubie",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Auto blau con strias blanc"
+      }
+    },
+    "animals_safari": {
+      "title": "Animales de safari",
+      "description": "Animales majestuose del safaris african",
+      "theme": "Fauna selvatic",
+      "images": {
+        "lion_1": "Leon majestuose",
+        "elephant_2": "Elephante african",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra striate",
+        "rhino_5": "Rhinocerote potente",
+        "cheetah_6": "Guepardo rapide",
+        "fox_7": "Vulpe brun",
+        "bear_8": "Urso polar",
+        "turtle_9": "Tortuga brun",
+        "squirrel_10": "Sciuro brun",
+        "macaw_11": "Ara jalne e blau",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Procyon lotor",
+        "wolf_14": "Lupo gris",
+        "crocodile_15": "Crocodilo",
+        "peacock_16": "Belle pavon"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Dulcias delicioso",
+      "description": "Alcun dulcias delicioso pro vostre repastos.",
+      "theme": "Dulcias dulce",
+      "images": {
+        "pastries_1": "Quatro pasticerias",
+        "oreo_cookie_sandwiches_2": "Biscuits sandwich Oreo",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Torta de caramello"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flores tropical",
+      "description": "Discoperi le beltate vibrante del tropicos con iste pacchetto de flores exotic.",
+      "theme": "Flores tropical",
+      "images": {
+        "hibiscus_1": "Hibisco rubie",
+        "frangipani_2": "Frangipani rubie e blanc",
+        "sunflower_3": "Flor de sol",
+        "hydrangea_4": "Hortensia blanc",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Chrysanthemo",
+        "anthurium_7": "Anthurio",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinio"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Festa de cibo de strata",
+      "description": "Explora le mundo colorate del cibo de strata con iste pacchetto de gustos delicioso de tote le mundo.",
+      "theme": "Cibo de strata",
+      "images": {
+        "taco_1": "Taco mexican",
+        "ramen_2": "Ramen japonese",
+        "dumplings_3": "Raviolos chinese",
+        "samosa_4": "Samosa indian",
+        "pizza_5": "Pecia de pizza italian",
+        "crepe_6": "Crepe francese",
+        "satay_7": "Brochettas satay thai",
+        "burger_8": "Hamburger american",
+        "bao_9": "Pan bao al vapor",
+        "takoyaki_10": "Takoyaki japonese"
+      }
+    },
+    "nature_landscape": {
+      "title": "Paisages natural",
+      "description": "Calme e belle scenas natural a reguardar lentemente e a discuter insimul.",
+      "theme": "Paisages natural",
+      "images": {
+        "mountain_1": "Catena de montanias",
+        "forest_2": "Foresta in le bruma",
+        "lake_3": "Lago de montania",
+        "desert_4": "Dunas del deserto",
+        "waterfall_5": "Cascada",
+        "beach_6": "Plagia de sablo",
+        "river_7": "Fluvio que fluit",
+        "canyon_8": "Grande Canyon",
+        "sunset_9": "Celo al crepusculo",
+        "snow_mountain_10": "Montania con nive",
+        "flowers_11": "Flores silvestre",
+        "rainforest_12": "Foresta pluvial",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volcano",
+        "cliff_15": "Scopulo al mar",
+        "aurora_16": "Aurora boreal",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Recife de corallo"
+      }
+    }
+  }
+}
