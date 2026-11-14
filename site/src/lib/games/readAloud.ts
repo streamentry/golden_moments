@@ -61,6 +61,27 @@ export function readAloud(
   }
 }
 
+/** Toggle spoken guidance without layering a game tone over successful speech. */
+export function toggleReadAloud(
+  synth: SpeechLike,
+  speaking: boolean,
+  text: string,
+  lang: string,
+  setSpeaking: (speaking: boolean) => void,
+  playTap: () => void,
+): void {
+  if (speaking) {
+    stopReading(synth);
+    setSpeaking(false);
+    playTap();
+    return;
+  }
+
+  const started = readAloud(synth, text, lang, () => setSpeaking(false));
+  setSpeaking(started);
+  if (!started) playTap();
+}
+
 /** Stop any speech in progress. */
 export function stopReading(synth: SpeechLike): void {
   try {

@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest';
-import { createUtterance, readAloud, speechOf, stopReading, type SpeechLike, type UtteranceLike } from './readAloud';
+import { createUtterance, readAloud, speechOf, stopReading, toggleReadAloud, type SpeechLike, type UtteranceLike } from './readAloud';
 
 function fakeSynth(): SpeechLike & { spoken: UtteranceLike[]; cancelled: number } {
   return {
@@ -96,6 +96,44 @@ describe('readAloud', () => {
       throw new Error('not allowed');
     });
     expect(readAloud(synth, 'Hello', 'en')).toBe(false);
+  });
+});
+
+describe('toggleReadAloud', () => {
+  it('starts speech without a tap tone over the first words', () => {
+    const synth = fakeSynth();
+    const setSpeaking = vi.fn();
+    const playTap = vi.fn();
+
+    toggleReadAloud(synth, false, 'Tap a color.', 'en', setSpeaking, playTap);
+
+    expect(synth.spoken).toHaveLength(1);
+    expect(synth.spoken[0]).toMatchObject({ text: 'Tap a color.', lang: 'en', rate: 0.85 });
+    expect(synth.spoken[0].onend).toBeTypeOf('function');
+    expect(setSpeaking).toHaveBeenCalledWith(true);
+    expect(playTap).not.toHaveBeenCalled();
+  });
+
+  it('stops speech before optional tap feedback', () => {
+    const synth = fakeSynth();
+    const order: string[] = [];
+    synth.cancel = () => { order.push('stop'); };
+
+    toggleReadAloud(synth, true, 'Tap a color.', 'en', vi.fn(), () => order.push('tap'));
+
+    expect(order).toEqual(['stop', 'tap']);
+  });
+
+  it('uses a tap tone if speech could not start', () => {
+    const synth = fakeSynth();
+    synth.speak = vi.fn(() => { throw new Error('speech unavailable'); });
+    const setSpeaking = vi.fn();
+    const playTap = vi.fn();
+
+    toggleReadAloud(synth, false, 'Tap a color.', 'en', setSpeaking, playTap);
+
+    expect(setSpeaking).toHaveBeenCalledWith(false);
+    expect(playTap).toHaveBeenCalledOnce();
   });
 });
 
