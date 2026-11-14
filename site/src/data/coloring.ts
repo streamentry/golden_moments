@@ -9,6 +9,8 @@
 export interface ColorRegion {
   id: string;
   d: string;
+  /** Give narrow drawing parts a larger, invisible touch target. */
+  expandedHitTarget?: boolean;
 }
 
 export interface ColoringPage {
@@ -30,7 +32,7 @@ export const COLORING_PAGES: readonly ColoringPage[] = [
     regions: [
       { id: 'sky', d: 'M0 0h400v300H0z' },
       { id: 'table', d: 'M0 300h400v100H0z' },
-      { id: 'stem', d: 'M192 160h16v130h-16z' },
+      { id: 'stem', d: 'M192 160h16v130h-16z', expandedHitTarget: true },
       { id: 'leaf-left', d: 'M192 250c-40-40-90-30-104-10 30 30 74 34 104 10z' },
       { id: 'leaf-right', d: 'M208 220c40-40 90-30 104-10-30 30-74 34-104 10z' },
       ...Array.from({ length: 8 }, (_, i) => {

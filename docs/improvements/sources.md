@@ -491,3 +491,9 @@ Application: the shared website game frame already had a localized "Done for now
 - [Alzheimer's Society: Ideas to help a person with dementia enjoy games](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/ideas-help-person-dementia-enjoy-games) — opened. It says games can be simplified, and if a person loses interest, stop and try again another time.
 
 Application: the website Coloring game reset all filled regions when the page selector changed. It now keeps fills separately for each drawing during the current session, so returning to a page restores unfinished work. Clear and restart affect only the selected drawing. This is a usability inference; no evidence says that preserving color fills changes distress or activity outcomes. Progress is not saved after reload.
+
+## Round 97: accessible touch area for a narrow coloring shape (read 2026-11-14)
+
+- [Alzheimer's Society: Ideas to help a person with dementia enjoy games](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/ideas-help-person-dementia-enjoy-games) — opened. It recommends adapting games to the person and suggests larger pieces for someone who has difficulty handling objects. The page does not evaluate touchscreen hit areas.
+
+Application: make the narrow flower stem easier to select with a transparent, wider SVG hit area while preserving the visible drawing. This transfers the source's adaptation principle to digital touch interaction; it is a usability inference, not evidence of a clinical or measured participation effect. Neighboring regions keep their original hit areas to reduce accidental selection.
