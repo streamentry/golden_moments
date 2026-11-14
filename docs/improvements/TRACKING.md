@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 94 / 500 implemented**
+**Source improvements: 95 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -743,3 +743,15 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commit | `9e504ec8d31879ae300953ca8e0a7f4bc4212a27` | Website component, styles and regression test on `codex/round-94-reveal-path`, based on merged main `e61665b`. |
 | Checks | Node 24.11.1: 1,870 Vitest tests, `tsc --noEmit`, Astro sync, 16,878-page build and `check-site` (0 errors, 580 warnings); guide coverage tests (4) and guide translation tests (8); browser inspection and `git diff --check`. | `astro check` was not run because `@astrojs/check` is not installed; no dependency was added. Local cspell is unavailable. Checker warnings include translated metadata and wording from the unreviewed partial locale batch. |
 | Not verified | No person-with-dementia, caregiver, clinician, native-speaker or screen-reader review was run. | Treat the design benefit as an evidence-led hypothesis, not a validated clinical or user outcome. |
+
+## Round 95: make the game exit visible before play (read 2026-11-14)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says to end or modify an activity if attention wanes or frustration rises. Alzheimer's Society advises adapting games, keeping them short if attention is limited, and stopping if the person loses interest. | These recommendations support an obvious, low-effort way to stop. They do not prove a benefit from a specific button position. |
+| Existing coverage and gap | The shared website game frame already had a localized "Done for now" link, but it appeared after the game board, message and footer actions. On a long game screen, it could require scrolling to reach. Rounds 10 and 37 changed in-game action order and the Today tool's answer dismissal, not the shared game's exit placement. | The exit was present but not at the start of the activity. |
+| Change | Moved the existing "Done for now" link to the beginning of every website game frame, before game options and instructions. Kept its Games destination, `activity_done` event and speech cancellation behavior; removed the lower duplicate. | Same single localized action; no new UI text, locale file, telemetry or data collection. |
+| Language coverage | Reuses `ui.frame.done`; no fixed copy or locale files changed. | Full 185-language coverage remains 3/500. |
+| Implementation commit | `ec7243fec8b89935859cf82ea21984f2598dfe79` | Shared website game frame, style and regression test on `codex/round-95-visible-exit`, based on Round 94 head `4ee73cdda`. |
+| Checks | Node 24.11.1: 1,871 site tests, `tsc --noEmit`, Astro sync, 16,878-page build and `check-site` (0 errors, 580 warnings); guide coverage tests (4), guide translation tests (8), agent guidance tests (5), `git diff --check`. Built Word Search inspected at desktop and 375px width. | Local spell-check is unavailable. No cspell result is claimed. |
+| Not verified | No caregiver, person-with-dementia, clinician, native-speaker, or screen-reader review was run. | Treat easier access to the exit as a design hypothesis, not a measured user outcome. |

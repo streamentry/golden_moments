@@ -54,9 +54,25 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
     setAnswer(value);
     track('activity_feedback', { answer: value });
   };
+  const doneForNow = (
+    <a
+      className="btn btn--quiet"
+      href={localePath(lang, '/games/')}
+      onClick={() => {
+        sounds.tap();
+        track('activity_done');
+        const s = speechOf();
+        if (s) stopReading(s);
+      }}
+    >
+      <Icon name="door" />
+      {ui.frame.done}
+    </a>
+  );
 
   return (
     <section className="game" aria-label={ui.frame.region}>
+      <div className="game__exit">{doneForNow}</div>
       {options ? <div className="game__options">{options}</div> : null}
       <p className="game__guidance">{guidance}</p>
       <ReadAloud ui={ui} lang={lang} text={readAloudText ?? guidance} />
@@ -99,19 +115,6 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
           <Icon name={sound ? 'sound' : 'soundOff'} />
           {sound ? ui.frame.soundOn : ui.frame.soundOff}
         </button>
-        <a
-          className="btn btn--quiet"
-          href={localePath(lang, '/games/')}
-          onClick={() => {
-            sounds.tap();
-            track('activity_done');
-            const s = speechOf();
-            if (s) stopReading(s);
-          }}
-        >
-          <Icon name="door" />
-          {ui.frame.done}
-        </a>
       </div>
       {canAsk && started ? (
         <div className="game__feedback">

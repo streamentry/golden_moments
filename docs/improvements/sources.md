@@ -477,3 +477,10 @@ Application: user-saved captions already appeared in accessible labels for match
 - [Association for Frontotemporal Degeneration: Managing Care for FTD](https://www.theaftd.org/living-with-ftd/managing-ftd/) — opened. It recommends activities the person chooses and enjoys, adapted to current abilities, and reevaluated if they become difficult or stressful.
 
 Application: Finish the Saying already had a localized "Show the ending" action, but showed it after three answer choices in a quieter style. The website now places that answer-free action first and gives it a full-width, 64-pixel-minimum target. The choices remain available. This is a usability inference from person-led activity guidance, not evidence that the UI improves cognition or suits everyone.
+
+## Round 95: keep a clear way to stop a website game (read 2026-11-14)
+
+- [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) — opened. It advises ending or modifying an activity when attention wanes or frustration increases, matching activities to the person's abilities, and focusing on enjoyment over achievement.
+- [Alzheimer's Society: Ideas to help a person with dementia enjoy games](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/ideas-help-person-dementia-enjoy-games) — opened. It recommends adapting games, shortening them when concentration is limited, and stopping when the person loses interest so play can resume another time.
+
+Application: the shared website game frame already had a localized "Done for now" link, but placed it after the board, live message and footer actions. It now appears before options and instructions in every game. This is a usability inference from person-led guidance; the sources do not establish that this placement changes distress or activity outcomes.
