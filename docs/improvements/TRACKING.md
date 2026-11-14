@@ -14,7 +14,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 
 | Rounds | Changed scope | Coverage status |
 |---|---|---|
-| 1–89 | Earlier app and website changes | Not yet audited. PR #237 merged an initial partial guide backfill. PR #240's current description reports 106 complete guide locales, about 4,010 guide files missing, and 113/185 app languages; its changed paths show guide updates in 52 locales. These are not an independent full coverage audit. Backfill missing changed user-facing text. |
+| 1–89 | Earlier app and website changes | Not yet audited. PR #237 merged an initial partial guide backfill. PR #240 remains open with requested changes for incomplete language coverage and CI issues; its self-reported counts are not an independent coverage audit. Backfill missing changed user-facing text. |
 | 90 | LGBTQ+ guide and residential-care cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 16 non-fatal width warnings; lived-experience/native review open. |
 | 91 | Multilingual guide and communication-tips cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
 | 92 | Changed-guide translation gate | No end-user copy added. Merged as `f650356`; all checks returned by the PR check tool passed after the Flutter job reran. The Website workflow was absent from the retrieved run list, so its hosted execution is unverified. The gate validates changed English guides across all 184 registered non-English codes and five additional active site variants. |
