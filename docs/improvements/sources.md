@@ -503,3 +503,9 @@ Application: make the narrow flower stem easier to select with a transparent, wi
 - [Alzheimer's Society: How to communicate with a person with dementia](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — opened. It says to use the language the person usually communicates in, notes that some people may begin using the first language they learned, and emphasizes that experiences vary.
 
 Application: the app already lets people choose its language, but CI did not require changed ARB messages to exist across the 185-code registry. The new gate checks that coverage when app ARB files change. This translates a product language-access requirement into a build check; it does not establish translation quality or a clinical benefit. Store metadata, pack overlays and website guides remain outside this gate.
+
+## Round 99: reduce competing audio during a website activity (read 2026-11-14)
+
+- [Alzheimer's Society: How to communicate with a person with dementia](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — opened. It advises a quiet, calm setting and reducing distractions such as radio or television when that helps the person concentrate.
+
+Application: optional Read Aloud could overlap with the website game's soft tap, match and completion tones. The site now suppresses those tones while browser speech is active and avoids a separate tone when speech starts successfully. This is an inference about reducing competing audio; the source does not evaluate the interface or establish a health effect. Round 11 covered speech stopping on restart and exit; this round covers ordinary game sounds while narration is active.

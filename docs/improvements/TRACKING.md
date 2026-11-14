@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 98 / 500 implemented**
+**Source improvements: 99 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -21,6 +21,9 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 93 | Visible family-photo descriptions in app matching | No new fixed copy or translation files; reuses the existing localized formatter. The full-language audit count remains 3/500. |
 | Partial app-locale batch (#246) | Three app locales added; PR merged as `96da672` under a maintainer exception. | Machine-translated, unreviewed, 117/185 app locales total; partial and not counted toward full-language coverage. |
 | 98 | Changed app ARB coverage gate | No end-user copy changed. CI now requires every changed app message key in all 185 registry codes; translation quality remains a human/native review task. |
+| 99 | Suppress optional website game tones during Read Aloud | No fixed text or locale files changed. The full-language count remains 3/500. |
+| 99 | Suppress website game tones during Read Aloud | No fixed copy or locale files changed. The 185-language coverage count remains 3/500. |
+| 99 | Keep spoken guidance clear during website activities | No fixed copy or locale files changed. Suppresses game tones while browser Read Aloud is active. |
 
 ---
 
@@ -90,7 +93,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 96 | Keep coloring when switching pages | Merged; no fixed text changed. |
 | 97 | Larger invisible hit area for the coloring flower stem | Implemented in `cf7e34f5716af5860f34e1dabf9c15159ba8db78`; no fixed text or locale files changed. |
 | 98 | Guard changed app strings against translation gaps | Implemented; no fixed text changed. |
-| 99–500 | Planned one by one | Pending |
+| 99 | Prevent optional game tones from overlapping Read Aloud | Implemented in `7fb9f65c`; no fixed text changed. |
+| 100–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -801,3 +805,16 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commit | `29a760c7d3afc3f4e0141435a59bbe8a97f197ec` | Code, tests and workflow change on `codex/round-98-app-translation-gate`, based on merged main `0c922067`. |
 | Checks | Python unittest suite (127 tests), focused coverage tests (10), locale metadata audit (118 existing ARB files), app-copy gate no-op against unchanged main, `git diff --check`. | Pass locally; hosted CI has not run yet. |
 | Not verified | No end-user text changed, so no translation or native-speaker review is needed for this gate. | Future machine translations still require structural validation and remain marked unreviewed. |
+
+## Round 99: keep optional game tones out of Read Aloud (read 2026-11-14)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society advises choosing a quiet setting and reducing distractions such as radio or television when that helps the person concentrate. | Applying the same principle to optional in-game tones during spoken instructions is a usability inference, not a measured dementia outcome. |
+| Existing coverage and gap | Round 8 added Read Aloud. Round 11 cancels speech on restart and exit, but Read Aloud itself played a tap tone as speech began and ordinary tap/match/done sounds could still play during narration. | Speech and optional game tones could compete for attention. |
+| Change | Suppress optional tap, match and completion tones while browser speech is active. Starting Read Aloud now has no tap tone when speech starts successfully; it retains tap feedback if the speech call fails and after the speech is stopped when the browser is no longer speaking. The sound preference remains unchanged. | Applies across website games using the shared sound module. No new controls, text, storage, network requests, permissions or telemetry. |
+| Regression tests | `readAloud.test.ts` verifies successful speech starts without a tap tone, stopping order and fallback feedback when speech cannot start. `sound.test.ts` verifies all three game tones are suppressed during speech and resume afterward. | Pass. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Implementation commit | `7fb9f65c` | Shared Read Aloud and sound behavior on `codex/round-99-read-aloud-audio`, based on merged main `ad998d9c`. |
+| Checks | Node 24.22.2: 1,877 site tests, Astro build of 16,878 pages, `check-site` 0 errors and 580 warnings; `tsc --noEmit`; focused sound/speech tests (14); `git diff --check`. | Pass. |
+| Not verified | No browser audio, screen-reader, caregiver or participant review was run. | Treat reduced audio overlap as a design hypothesis until people who use the activities review it. |
