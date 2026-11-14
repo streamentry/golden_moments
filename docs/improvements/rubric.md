@@ -344,3 +344,7 @@ This content-only guide adds no app behavior. The unit tests and TypeScript chec
 ## Round 92 score note (2026-11-12)
 
 The changed-guide coverage gate and translated search-title schema adjustment add no participant-facing strings or interactions. Website tests, type checks, static generation and page checks pass locally. No device, reader or native-language review was done. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this engineering change.
+
+## Round 93 score note (2026-11-14)
+
+This app accessibility change uses an existing localized formatter and adds no fixed copy. The new widget-test source covers visible and hidden tile labels, but Flutter/Dart are unavailable locally, so formatting, analysis and widget execution are not verified on this worktree. No VoiceOver/TalkBack device session or family/care-partner review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score.
