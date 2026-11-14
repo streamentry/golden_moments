@@ -137,6 +137,7 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'sa': ((), ()),
     'qu': ((), ()),
     'ln': ((), ()),
+    'ba': ((), ()),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

@@ -114,4 +114,5 @@
     <locale android:name="sa" />
     <locale android:name="qu" />
     <locale android:name="ln" />
+    <locale android:name="ba" />
 </locale-config>

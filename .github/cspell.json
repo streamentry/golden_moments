@@ -374,7 +374,8 @@
     "Sesotho",
     "Chichewa",
     "Lingala",
-    "Dhivehi"
+    "Dhivehi",
+    "Ossetian"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",
