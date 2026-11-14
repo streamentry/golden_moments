@@ -759,7 +759,10 @@ class _GentleGamePageState extends State<GentleGamePage> {
       enabled: !matched,
       onTap: matched ? null : () => _tap(index),
       label: visible
-          ? l10n.gentleGameTileLabel(picture.localizedLabel(l10n), index + 1)
+          ? l10n.gentleGameTileLabel(
+              picture.visibleSemanticLabel(l10n),
+              index + 1,
+            )
           : l10n.gentleGameHiddenTileLabel(index + 1),
       value: matched
           ? l10n.commonMatched

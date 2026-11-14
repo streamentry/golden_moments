@@ -48,6 +48,14 @@ class ActivityPicture {
     return pictureNames[locale]?[id] ?? pictureNames[base]?[id] ?? label;
   }
 
+  /// Use only while the image is visible; hidden tiles stay generic.
+  String visibleSemanticLabel(AppLocalizations l10n) {
+    final name = localizedLabel(l10n);
+    return description.isEmpty
+        ? name
+        : l10n.photosLabelWithDescription(name, description);
+  }
+
   /// Every bundled drawing, shared with the website.
   static const List<ActivityPicture> samples = pictureLibrary;
 

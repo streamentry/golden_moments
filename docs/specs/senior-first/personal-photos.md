@@ -21,7 +21,7 @@ Test: cancel, partial access, cloud-only photo, HEIC, duplicates, too many items
 
 Acceptance:
 - Let a user add a brief local caption and optional descriptive text; neither is required for play. Do not auto-identify people, infer relationships, or ask for diagnosis.
-- Descriptions are plain text with explicit length limits and normalization; treat imported text as data, never executable markup or agent instructions. Preserve visible meaning when wrapping text.
+- Descriptions are plain text with explicit length limits and normalization; treat imported text as data, never executable markup or agent instructions. Preserve visible meaning when wrapping text. On visible family-photo tiles, semantics may include the saved caption and description; hidden tiles stay generic.
 - Show captions in viewing only by choice. Never expose hidden-card answers through caption, audio, semantics or export metadata unexpectedly.
 - An additive, versioned sidecar maps existing stable photo IDs to annotations. Missing/corrupt optional annotations cannot invalidate the original collection. Deletion cleans the associated annotations.
 

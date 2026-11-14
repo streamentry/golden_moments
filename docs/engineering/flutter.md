@@ -88,8 +88,9 @@ non-color-only state, and usable layout at 200% text scale. Use constraints,
 Test narrow phones, iPad, rotation, reduced motion, and portrait/landscape. [F4].
 
 Expose labels, roles, selected/disabled states, and logical focus order. Hidden
-cards must not reveal their contents to a screen reader; generic numbered photo
-labels are a documented limitation, not descriptive accessibility. VoiceOver
+cards must not reveal their contents to a screen reader; they keep generic
+numbered labels. Visible family-photo tiles may announce the user's saved
+caption and description, but those labels are not machine-generated. VoiceOver
 and TalkBack deserve actual sessions. Avoid duplicate nested semantics, automatic
 focus jumps, flashing success, forced recall, and unexpected audio. [F4].
 

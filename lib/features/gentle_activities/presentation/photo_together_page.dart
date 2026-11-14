@@ -211,7 +211,6 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     final theme = Theme.of(context);
     final textTheme = theme.textTheme;
     final l10n = context.l10n;
-    final label = picture.localizedLabel(l10n);
     final prompts = _prompts(l10n);
     return ListView(
       controller: _scroll,
@@ -233,9 +232,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
         Center(
           child: Semantics(
             image: true,
-            label: picture.description.isEmpty
-                ? label
-                : l10n.photosLabelWithDescription(label, picture.description),
+            label: picture.visibleSemanticLabel(l10n),
             child: SizedBox.square(
               dimension: math.min(side, gmContentMaxWidth),
               child: DecoratedBox(
