@@ -20,6 +20,18 @@ jobs:
   semantic-pull-request:
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/semantic_pull_request.yml@v2
 
+  app-copy-coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Check changed app copy in all registered languages
+        env:
+          APP_DIFF_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+          APP_DIFF_HEAD: ${{ github.sha }}
+        run: python3 scripts/check_app_translation_coverage.py --base "$APP_DIFF_BASE" --head "$APP_DIFF_HEAD"
+
   build:
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/flutter_package.yml@v2
     with:

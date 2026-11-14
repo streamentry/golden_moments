@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 97 / 500 implemented**
+**Source improvements: 98 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -20,6 +20,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 92 | Changed-guide translation gate | No end-user copy added. Merged as `f650356`; all checks returned by the PR check tool passed after the Flutter job reran. The Website workflow was absent from the retrieved run list, so its hosted execution is unverified. The gate validates changed English guides across all 184 registered non-English codes and five additional active site variants. |
 | 93 | Visible family-photo descriptions in app matching | No new fixed copy or translation files; reuses the existing localized formatter. The full-language audit count remains 3/500. |
 | Partial app-locale batch (#246) | Three app locales added; PR merged as `96da672` under a maintainer exception. | Machine-translated, unreviewed, 117/185 app locales total; partial and not counted toward full-language coverage. |
+| 98 | Changed app ARB coverage gate | No end-user copy changed. CI now requires every changed app message key in all 185 registry codes; translation quality remains a human/native review task. |
 
 ---
 
@@ -88,7 +89,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 95 | Visible exit from website games | Merged; reused existing localized action. |
 | 96 | Keep coloring when switching pages | Merged; no fixed text changed. |
 | 97 | Larger invisible hit area for the coloring flower stem | Implemented in `cf7e34f5716af5860f34e1dabf9c15159ba8db78`; no fixed text or locale files changed. |
-| 98–500 | Planned one by one | Pending |
+| 98 | Guard changed app strings against translation gaps | Implemented; no fixed text changed. |
+| 99–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -785,3 +787,17 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commit | `cf7e34f5716af5860f34e1dabf9c15159ba8db78` | Website Coloring SVG hit path, data flag, style selectors and regression test on `codex/round-97-coloring-hit-area`, rebased onto `b87b89f7c` (PR #247). |
 | Checks | Node 24.22.2: `pnpm --dir site verify` (1,874 tests, Astro sync/build of 16,878 pages, `check-site` 0 errors and 580 warnings); `pnpm --dir site exec tsc --noEmit`; Python unittest suite (117); `git diff --check`. | Pass. |
 | Not verified | No participant, caregiver, clinician, native-speaker or screen-reader review was run. No phone-device run. | Treat easier tapping as a design hypothesis until people who use the activity review it. |
+
+## Round 98: require full language coverage for changed app ARB strings (read 2026-11-14)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society says communication should use the language the person usually uses; some people may begin using the first language they learned, and each person's experience varies. The app offers a language choice. | Requiring the changed app labels in every registered code supports the stated language-access goal; this is a product-quality inference, not a clinical outcome. |
+| Existing gap | `scripts/check_arb.py` validates one ARB file's structure against English, but CI did not compare changed app keys with the 185-code registry. The site already has a separate changed-guide coverage gate. | A pull request could alter app wording while leaving some registered languages without that key. |
+| Change | Add `scripts/check_app_translation_coverage.py` and a `memory_lane` CI job. When any app ARB changes, the gate finds changed user-facing keys, verifies the current English key, then requires a non-empty value in every registered locale file. It validates the registry count and reports missing files/keys; an ARB-only translation batch also triggers it. | No runtime, data, permission, cost or user-facing text change. |
+| Limits | The check ensures presence, not accuracy, tone, cultural fit or native-speaker review. It covers app ARB strings, not store metadata, pack overlays or website guides. The existing guide gate remains separate. | Do not treat a green coverage check as proof that a translation is correct. |
+| Regression checks | `tests/test_app_translation_coverage.py` covers the 185-code registry, code-to-ARB filename mapping, message-key detection, missing files, empty values, removed English keys and base/head diffs. The CLI no-op check on unchanged main reports no app ARB changes. | Pass. |
+| Language coverage | No app ARB file changed. | Full 185-language coverage remains 3/500. |
+| Implementation commit | `29a760c7d3afc3f4e0141435a59bbe8a97f197ec` | Code, tests and workflow change on `codex/round-98-app-translation-gate`, based on merged main `0c922067`. |
+| Checks | Python unittest suite (127 tests), focused coverage tests (10), locale metadata audit (118 existing ARB files), app-copy gate no-op against unchanged main, `git diff --check`. | Pass locally; hosted CI has not run yet. |
+| Not verified | No end-user text changed, so no translation or native-speaker review is needed for this gate. | Future machine translations still require structural validation and remain marked unreviewed. |
