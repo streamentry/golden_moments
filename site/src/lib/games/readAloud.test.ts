@@ -130,7 +130,7 @@ describe('readAloud', () => {
     expect(onEnd).toHaveBeenCalledTimes(1);
 
     utterance.onerror!();
-    expect(onEnd).toHaveBeenCalledTimes(2);
+    expect(onEnd).toHaveBeenCalledTimes(1);
   });
 
   it('reports failure instead of throwing', () => {
@@ -165,6 +165,24 @@ describe('toggleReadAloud', () => {
     toggleReadAloud(synth, true, 'Tap a color.', 'en', vi.fn(), () => order.push('tap'));
 
     expect(order).toEqual(['stop', 'tap']);
+  });
+
+  it('ignores a canceled utterance error after newer speech starts', () => {
+    const synth = fakeSynth();
+    const states: boolean[] = [];
+    const setSpeaking = (active: boolean) => states.push(active);
+    const noTone = vi.fn();
+
+    toggleReadAloud(synth, false, 'First prompt.', 'en', setSpeaking, noTone);
+    const first = synth.spoken[0]!;
+    toggleReadAloud(synth, true, 'First prompt.', 'en', setSpeaking, noTone);
+    toggleReadAloud(synth, false, 'Second prompt.', 'en', setSpeaking, noTone);
+
+    first.onerror!();
+    expect(states).toEqual([true, false, true]);
+
+    synth.spoken[1]!.onend!();
+    expect(states).toEqual([true, false, true, false]);
   });
 
   it('uses a tap tone if speech could not start', () => {

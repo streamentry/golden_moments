@@ -543,3 +543,10 @@ Application: a browser tab can become hidden without unmounting the game, so Rea
 - [WHATWG HTML Standard: Page visibility](https://html.spec.whatwg.org/multipage/interaction.html#page-visibility) — read. The standard defines the document's visibility state and dispatches an event when that state changes.
 
 Application: Round 103 subscribed to the page-visibility event only after React observed active speech. Speech starts in the click handler, so a hide event could arrive before the later effect installed its listener. The listener now attaches when speech support is detected, before the Read Aloud button renders; it checks a ref for active speech and cancels on hidden state. This closes an event-timing gap by inference. It is not a measured user or clinical outcome.
+
+## Round 105: ignore callbacks from canceled Read Aloud utterances (read 2026-11-15)
+
+- [W3C Web Speech API](https://webaudio.github.io/web-speech-api/) — read. `cancel()` removes queued utterances; the API defines `canceled` and `interrupted` synthesis errors. For one utterance, `end` and `error` are mutually exclusive.
+- [Alzheimer's Society: How to communicate with a person with dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — read. It recommends reducing distractions when that helps concentration.
+
+Application: the speech helper used one unguarded callback to clear the Stop state on both `onend` and `onerror`. Starting or stopping speech cancels utterances, so an old cancellation event could arrive after a newer prompt had started and clear its state. Speech runs now carry a generation ID; only the current utterance may finish the active run, and completion is applied at most once. This is a control-state reliability inference, not a clinical outcome.

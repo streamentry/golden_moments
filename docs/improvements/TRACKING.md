@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 104 / 500 implemented**
+**Source improvements: 105 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -27,6 +27,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 102 | Keep Read Aloud active while speech is queued | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 103 | Stop queued or active Read Aloud when the page is hidden | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 104 | Install Read Aloud visibility handling before speech can start | No fixed text or locale files changed. The full-language count remains 3/500. |
+| 105 | Ignore stale completion events from canceled Read Aloud utterances | No fixed text or locale files changed. The full-language count remains 3/500. |
 
 ---
 
@@ -102,7 +103,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 102 | Treat queued browser speech as active | Implemented; no fixed text changed. |
 | 103 | Stop Read Aloud on page hide | Implemented; no fixed text changed. |
 | 104 | Install the visibility listener before Read Aloud is available | Implemented; no fixed text changed. |
-| 105–500 | Planned one by one | Pending |
+| 105 | Ignore canceled-utterance callbacks after newer speech starts | Implemented; no fixed text changed. |
+| 106–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -901,3 +903,18 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Copy coverage | No site dictionary or guide changed. | No fixed copy changed. |
 | Merge and hosted checks | Pending | Do not claim hosted checks or merge until the exact PR head is green. |
 | Not verified | Real-browser tab-hide audio and participant/caregiver review were not run. The Playwright wrapper could not start because the environment's package guard blocked its `npx` invocation. | The change does not establish a user outcome. |
+
+## Round 105: ignore completion events from canceled Read Aloud utterances (read 2026-11-15)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Web Speech API defines `cancel()` as removing queued utterances and lists `canceled` and `interrupted` error codes. Alzheimer's Society guidance says reducing distractions may help concentration. | Preventing an old callback from clearing the current speech state is an engineering inference, not a clinical outcome. |
+| Existing gap | `readAloud()` assigned the same completion callback to `onend` and `onerror`; cancellation from Stop or a newer utterance could still produce a callback for the old utterance. | A late old callback could clear the Stop state while newer speech is queued or active. |
+| Change | Each synthesizer now has a monotonically increasing run ID. New speech and cancellation invalidate older callbacks; current utterance completion updates state at most once. | No UI copy, storage, permissions, network requests or telemetry changed. |
+| Regression tests | `readAloud.test.ts` simulates a canceled first utterance reporting an error after a second has started, and verifies the newer state remains active. It also verifies completion callbacks are idempotent. | 18 focused tests pass. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Local checks | `pnpm --dir site verify`: 768 tests and 16,717-page build pass; `check-site` reaches the default Node heap limit. Re-running with `NODE_OPTIONS=--max-old-space-size=12288` reports 0 errors and 575 warnings. TypeScript, Python discovery (138 tests), release metadata and `git diff --check` pass. | Site checks pass when the checker has the documented heap allowance. Node 22.14.0 is below the package minimum 22.22.0. Flutter/Dart are unavailable. |
+| Implementation commit | `165cf08c` | Speech generation guard and regression tests on `codex/round-105-speech-callback-guard`. |
+| Copy coverage | No site dictionary or guide changed. | No fixed copy changed. |
+| Merge and hosted checks | Pending | Do not claim hosted checks or merge until the exact PR head is green. |
+| Not verified | No real-browser voice cancellation or participant/caregiver review was run. | The change does not establish a user outcome. |
