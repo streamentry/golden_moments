@@ -862,5 +862,5 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Regression tests | `readAloud.test.ts` checks queued and active speech state. `sound.test.ts` checks that all three game tones stay suppressed while an utterance is pending and resume when idle. | 15 focused tests pass. |
 | Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
 | Local checks | `pnpm --dir site verify`: 763 tests, 16,878 pages built, `check-site` 0 errors and 580 warnings; `pnpm --dir site exec tsc --noEmit`; focused speech/sound tests. | Pass locally under Node 22.14.0, with an unsupported-engine warning; hosted CI will use the workflow environment. |
-| Implementation commit | `e2ccda51` | Shared Read Aloud and sound behavior on `codex/round-102-readaloud-queue-state`, based on merged `main` `1acbe90f`. |
+| Implementation commit | `e2ccda51` | Shared Read Aloud state and sound checks, based on merged `main` `1acbe90f`. |
 | Not verified | No real-browser voice-queue delay, audio, caregiver or participant review was run. | Browser voice location can vary; this change does not make it local-only. |
