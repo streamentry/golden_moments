@@ -536,3 +536,10 @@ Application: the site checks browser speech for `speaking` every 400 ms. While a
 - [WHATWG HTML Standard: Page visibility](https://html.spec.whatwg.org/multipage/interaction.html#page-visibility) — read. When the document's visibility state changes, the standard updates `document.hidden` and fires a page-visibility event. Hidden includes cases such as a background tab, minimized window or system task switcher.
 
 Application: a browser tab can become hidden without unmounting the game, so Read Aloud could continue after the person or caregiver switched away. The game now cancels queued or active speech when the page-visibility event reports a hidden document, resets the control, and does not auto-resume when the person returns. This is an inference about keeping spoken guidance with the visible activity; it is not evidence of a clinical or measured outcome.
+
+## Round 104: close the Read Aloud visibility-listener setup gap (read 2026-11-15)
+
+- [Alzheimer's Society: How to communicate with a person with dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — read. It says a quiet, calm place can make communication easier and suggests reducing distractions when that helps.
+- [WHATWG HTML Standard: Page visibility](https://html.spec.whatwg.org/multipage/interaction.html#page-visibility) — read. The standard defines the document's visibility state and dispatches an event when that state changes.
+
+Application: Round 103 subscribed to the page-visibility event only after React observed active speech. Speech starts in the click handler, so a hide event could arrive before the later effect installed its listener. The listener now attaches when speech support is detected, before the Read Aloud button renders; it checks a ref for active speech and cancels on hidden state. This closes an event-timing gap by inference. It is not a measured user or clinical outcome.
