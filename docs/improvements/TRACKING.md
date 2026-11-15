@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 105 / 500 implemented**
+**Source improvements: 106 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -28,6 +28,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 103 | Stop queued or active Read Aloud when the page is hidden | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 104 | Install Read Aloud visibility handling before speech can start | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 105 | Ignore stale completion events from canceled Read Aloud utterances | No fixed text or locale files changed. The full-language count remains 3/500. |
+| 106 | Bound total family-photo input in website Photo Pairs | No fixed text or locale files changed. The full-language count remains 3/500. |
 
 ---
 
@@ -104,7 +105,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 103 | Stop Read Aloud on page hide | Implemented; no fixed text changed. |
 | 104 | Install the visibility listener before Read Aloud is available | Implemented; no fixed text changed. |
 | 105 | Ignore canceled-utterance callbacks after newer speech starts | Implemented; no fixed text changed. |
-| 106–500 | Planned one by one | Pending |
+| 106 | Bound aggregate selected photo-file size | Implemented; no fixed text changed. |
+| 107–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -918,3 +920,18 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Copy coverage | No site dictionary or guide changed. | No fixed copy changed. |
 | Merge and hosted checks | Pending | Do not claim hosted checks or merge until the exact PR head is green. |
 | Not verified | No real-browser voice cancellation or participant/caregiver review was run. | The change does not establish a user outcome. |
+
+## Round 106: bound the Photo Pairs selection size (read 2026-11-15)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says family photos and familiar objects can prompt pleasant reminiscence, with connection—not testing—as the goal. | This supports keeping Photo Pairs usable as a shared photo activity; the source does not prescribe a file-size limit. |
+| Existing gap | Photo Pairs accepted up to six images, each up to 40 MiB. The possible selected source total was 240 MiB before the browser decoded and displayed the images. | A large selection could demand substantial browser resources; no device crash was reproduced or measured. |
+| Change | Keep the six-photo and 40 MiB per-file limits, and add an 80 MiB aggregate source-file limit. Reuse the existing skipped-file notice; selected photos remain page-only object URLs and are not uploaded or saved. | This bounds source bytes, not decoded image memory. No new UI text, storage or network behavior. |
+| Regression tests | `photo-selection.test.ts` checks per-file, aggregate, count and invalid-file limits, selection order and skipped/extra counts. | 2 focused selection tests pass; 3 PhotoPairs tests pass. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Local checks | `NODE_OPTIONS=--max-old-space-size=12288 pnpm --dir site verify`: 781 tests, 16,717 pages built, `check-site` 0 errors and 575 warnings; TypeScript; Python discovery (139 tests); release metadata; `git diff --check`. | Pass. Node 22.14.0 is below the package minimum of 22.22.0 and prints an engine warning. |
+| Implementation commit | `73f891e4` | Aggregate selection limit and regression coverage on `codex/round-106-photo-selection-budget`. |
+| Copy coverage | No site dictionary or guide changed. | No fixed copy changed. |
+| Merge and hosted checks | Pending | Do not claim hosted checks or merge until the exact PR head is green. |
+| Not verified | No browser test of large photo sets, physical low-memory devices or participant/caregiver review was run. | The 80 MiB cap is an engineering bound, not a compatibility or clinical guarantee. |

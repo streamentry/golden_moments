@@ -550,3 +550,9 @@ Application: Round 103 subscribed to the page-visibility event only after React 
 - [Alzheimer's Society: How to communicate with a person with dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — read. It recommends reducing distractions when that helps concentration.
 
 Application: the speech helper used one unguarded callback to clear the Stop state on both `onend` and `onerror`. Starting or stopping speech cancels utterances, so an old cancellation event could arrive after a newer prompt had started and clear its state. Speech runs now carry a generation ID; only the current utterance may finish the active run, and completion is applied at most once. This is a control-state reliability inference, not a clinical outcome.
+
+## Round 106: bound photo selection resources in website Photo Pairs (read 2026-11-15)
+
+- [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) — read. Families may use photos and familiar objects to spark pleasant memories; it says the goal is connection, not testing memory, and to follow the person's lead.
+
+Application: website Photo Pairs is an optional shared-photo activity. It previously allowed six selected image files, each up to 40 MiB, for a maximum 240 MiB of selected source files. The picker now keeps the six-photo and per-file limits but caps selected source files at 80 MiB total and reports rejected files through its existing notice. This is an engineering resource bound, not a guarantee about decoded image memory, device compatibility, or clinical benefit.

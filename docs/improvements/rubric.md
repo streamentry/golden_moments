@@ -429,3 +429,12 @@ the checker passed separately with the documented larger heap. No browser audio
 or participant review was run. Keep the last measured repository-wide score at
 **9.87** and lowest dimension at **9.37**; do not infer an aggregate score
 change.
+
+## Round 106 score note (2026-11-15)
+
+Photo Pairs now caps aggregate selected source-file bytes at 80 MiB while
+keeping its per-file and six-photo limits. Focused tests, TypeScript, full site
+verification with the larger heap, Python and metadata checks pass. No large-
+file browser or physical-device run was done. Keep the last
+measured repository-wide score at **9.87** and lowest dimension at **9.37**;
+do not infer an aggregate score change.
