@@ -372,3 +372,11 @@ The new CI gate checks changed app ARB strings for presence across the 185-code 
 ## Round 99 score note (2026-11-14)
 
 Optional game tones pause while browser Read Aloud is active; successful speech starts without an extra tap tone. The 1,877 site tests, TypeScript, build and `check-site` pass. No settings, copy or saved data changed. No browser audio, screen-reader, caregiver or participant review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a full-rubric change from this site-only adjustment.
+
+## Round 100 score note (2026-11-15)
+
+The website CI now checks changed fixed dictionary strings across all 190
+active routes and checks placeholders, HTML tags and link targets. Nine
+focused tests pass. It does not assess translation quality or change the
+interface. Keep the last measured repository-wide score at **9.87** and lowest
+dimension at **9.37**; do not infer an aggregate score change from this gate.
