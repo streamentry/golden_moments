@@ -1,5 +1,5 @@
 import { settingsStore } from './settings';
-import { speechOf } from '../../lib/games/readAloud';
+import { hasQueuedOrActiveSpeech, speechOf } from '../../lib/games/readAloud';
 
 let ctx: AudioContext | null = null;
 
@@ -26,7 +26,8 @@ function tone(freq: number, start: number, duration: number, volume: number): vo
 }
 
 function canPlayGameSound(): boolean {
-  return settingsStore.state.sound && !speechOf()?.speaking;
+  const synth = speechOf();
+  return settingsStore.state.sound && !(synth && hasQueuedOrActiveSpeech(synth));
 }
 
 /** Soft, optional sounds. There is never a failure sound. */

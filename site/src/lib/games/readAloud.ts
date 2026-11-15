@@ -1,8 +1,7 @@
 /**
- * Read a sentence aloud with the browser's own speech, if the browser has it.
- * Nothing is sent anywhere: speech is generated on the device. Every call is
- * guarded, so a browser without speech, or with it blocked, simply shows no
- * button.
+ * Read a sentence aloud with the browser's SpeechSynthesis API, if available.
+ * The browser may use a local or remote voice, depending on its configuration.
+ * A browser without speech, or with it blocked, simply shows no button.
  */
 
 export interface UtteranceLike {
@@ -17,6 +16,12 @@ export interface SpeechLike {
   speak(utterance: UtteranceLike): void;
   cancel(): void;
   speaking: boolean;
+  pending?: boolean;
+}
+
+/** True while the browser is speaking or has an utterance waiting to start. */
+export function hasQueuedOrActiveSpeech(synth: SpeechLike): boolean {
+  return synth.speaking || synth.pending === true;
 }
 
 /** The browser's speech synthesizer, or null when it has none. */

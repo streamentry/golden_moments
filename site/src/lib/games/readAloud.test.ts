@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest';
-import { createUtterance, readAloud, speechOf, stopReading, toggleReadAloud, type SpeechLike, type UtteranceLike } from './readAloud';
+import { createUtterance, hasQueuedOrActiveSpeech, readAloud, speechOf, stopReading, toggleReadAloud, type SpeechLike, type UtteranceLike } from './readAloud';
 
 function fakeSynth(): SpeechLike & { spoken: UtteranceLike[]; cancelled: number } {
   return {
@@ -33,6 +33,20 @@ describe('speechOf', () => {
       },
     };
     expect(speechOf(throwing)).toBeNull();
+  });
+});
+
+describe('hasQueuedOrActiveSpeech', () => {
+  it('treats queued speech as active before playback begins', () => {
+    const synth = fakeSynth();
+    expect(hasQueuedOrActiveSpeech(synth)).toBe(false);
+
+    synth.pending = true;
+    expect(hasQueuedOrActiveSpeech(synth)).toBe(true);
+
+    synth.pending = false;
+    synth.speaking = true;
+    expect(hasQueuedOrActiveSpeech(synth)).toBe(true);
   });
 });
 
