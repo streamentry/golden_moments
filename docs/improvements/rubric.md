@@ -419,3 +419,13 @@ real-browser tab-hide audio or participant review was run because the Playwright
 wrapper was blocked by the environment's package guard. Keep the last
 measured repository-wide score at **9.87** and lowest dimension at **9.37**;
 do not infer an aggregate score change.
+
+## Round 105 score note (2026-11-15)
+
+Late `onend` or `onerror` callbacks from canceled speech can no longer reset a
+newer prompt's control state. Focused tests, site tests, TypeScript, and the
+build pass. The first `pnpm verify` hit the checker's default Node heap limit;
+the checker passed separately with the documented larger heap. No browser audio
+or participant review was run. Keep the last measured repository-wide score at
+**9.87** and lowest dimension at **9.37**; do not infer an aggregate score
+change.
