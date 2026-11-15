@@ -95,3 +95,15 @@ export function stopReading(synth: SpeechLike): void {
     /* nothing to stop */
   }
 }
+
+/** Stop spoken guidance when the user leaves the visible page. */
+export function stopReadingWhenHidden(
+  synth: SpeechLike,
+  hidden: boolean,
+  setSpeaking: (speaking: boolean) => void,
+): boolean {
+  if (!hidden) return false;
+  stopReading(synth);
+  setSpeaking(false);
+  return true;
+}

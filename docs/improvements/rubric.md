@@ -400,3 +400,11 @@ site suite and TypeScript check pass locally; hosted Website, browser build and
 targeted Flutter checks also pass. Browser voice behavior and participant
 review were not tested. Keep the last measured repository-wide score at **9.87**
 and lowest dimension at **9.37**; do not infer an aggregate score change.
+
+## Round 103 score note (2026-11-15)
+
+Read Aloud stops when the page becomes hidden and does not resume by itself.
+No controls, copy or locale files changed. The focused tests, full site suite,
+type check, build and checker pass locally. No hidden-tab audio or participant
+review was run. Keep the last measured repository-wide score at **9.87** and
+lowest dimension at **9.37**; do not infer an aggregate score change.

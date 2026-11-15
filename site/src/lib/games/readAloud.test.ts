@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest';
-import { createUtterance, hasQueuedOrActiveSpeech, readAloud, speechOf, stopReading, toggleReadAloud, type SpeechLike, type UtteranceLike } from './readAloud';
+import { createUtterance, hasQueuedOrActiveSpeech, readAloud, speechOf, stopReading, stopReadingWhenHidden, toggleReadAloud, type SpeechLike, type UtteranceLike } from './readAloud';
 
 function fakeSynth(): SpeechLike & { spoken: UtteranceLike[]; cancelled: number } {
   return {
@@ -160,5 +160,26 @@ describe('stopReading', () => {
       throw new Error('gone');
     };
     expect(() => stopReading(synth)).not.toThrow();
+  });
+});
+
+describe('stopReadingWhenHidden', () => {
+  it('leaves speech alone while the page is visible', () => {
+    const synth = fakeSynth();
+    const setSpeaking = vi.fn();
+
+    expect(stopReadingWhenHidden(synth, false, setSpeaking)).toBe(false);
+    expect(synth.cancelled).toBe(0);
+    expect(setSpeaking).not.toHaveBeenCalled();
+  });
+
+  it('stops queued speech and clears the stop state when the page is hidden', () => {
+    const synth = fakeSynth();
+    synth.pending = true;
+    const setSpeaking = vi.fn();
+
+    expect(stopReadingWhenHidden(synth, true, setSpeaking)).toBe(true);
+    expect(synth.cancelled).toBe(1);
+    expect(setSpeaking).toHaveBeenCalledWith(false);
   });
 });

@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 102 / 500 implemented**
+**Source improvements: 103 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -25,6 +25,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 100 | Changed fixed website dictionary coverage gate | No end-user copy changed. CI checks changed strings across all 190 active site routes; full-language coverage remains 3/500. |
 | 101 | Play the coloring completion sound only on the first completion transition | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 102 | Keep Read Aloud active while speech is queued | No fixed text or locale files changed. The full-language count remains 3/500. |
+| 103 | Stop queued or active Read Aloud when the page is hidden | No fixed text or locale files changed. The full-language count remains 3/500. |
 
 ---
 
@@ -98,7 +99,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 100 | Changed fixed website dictionary coverage gate | Implemented; no fixed text changed. |
 | 101 | One completion chime per coloring completion | Implemented; no fixed text changed. |
 | 102 | Treat queued browser speech as active | Implemented; no fixed text changed. |
-| 103–500 | Planned one by one | Pending |
+| 103 | Stop Read Aloud on page hide | Implemented; no fixed text changed. |
+| 104–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -866,3 +868,17 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Merge | PR #258 as `d7cd1cf` | Squash-merged after required checks passed. |
 | Hosted checks | PR #258 head `f6cd1c5b`: Website coverage gates, site unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, browser visual, app-copy, spelling and semantic checks passed; PR deploy was skipped. | Pass. |
 | Not verified | No real-browser voice-queue delay, audio, caregiver or participant review was run. | Browser voice location can vary; this change does not make it local-only. |
+
+## Round 103: stop Read Aloud when the page becomes hidden (read 2026-11-15)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Society advises using a quiet, calm setting and reducing distractions when that helps a person concentrate. The HTML Standard defines page visibility changes for background tabs, minimized windows and system task switchers. | Stopping optional narration when the game is no longer visible is a design inference, not a clinical outcome. |
+| Existing gap | Read Aloud stopped on game restart, exit or component unmount, but the page could stay mounted while its browser tab or window became hidden. | Queued or active narration could continue while the person had moved away from the game. |
+| Change | A page-visibility listener now cancels queued or active speech and resets the button to Read aloud when `document.hidden` becomes true. It does not restart automatically when the page becomes visible. | No UI copy, storage, permissions, network requests or telemetry changed. |
+| Regression tests | `readAloud.test.ts` checks that visible pages keep speech and hidden pages cancel queued speech and clear the stop state. | 17 focused tests pass. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Local checks | `pnpm --dir site verify`: 765 tests, 16,878 pages built, `check-site` 0 errors and 580 warnings; `pnpm --dir site exec tsc --noEmit`; focused speech/sound tests. | Pass locally under Node 22.14.0, with an unsupported-engine warning; hosted CI will use the workflow environment. |
+| Implementation commit | `a61e5564` | Read Aloud visibility handler and regression tests. |
+| Copy coverage | Changed dictionary gate reports no changed site dictionary strings between merged `main` `c694757e` and the implementation commit. | No fixed copy changed. |
+| Not verified | No real-browser tab-hide audio or participant/caregiver review was run. | The change does not establish a user outcome. |
