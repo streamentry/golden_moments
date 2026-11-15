@@ -21,6 +21,9 @@ stop and wait; do not switch to a paid model. Check the current
 | `app <code> "<Language>" -m <model>` | `lib/l10n/arb/app_<code>.arb`, `assets/data/i18n/packs_<code>.json`, `ios/Runner/<code>.lproj/InfoPlist.strings`, `metadata/i18n/<code>.json` | `scripts/check_arb.py`, overlay shape, `scripts/store_locales.py` rules |
 | `guides <code> "<Language>" -m <model> [--limit N]` | missing or English-copy guides in `site/src/content/guides-i18n/<code>/` | `site/scripts/check-guide-translation.py`, plus no `911`, no `!`, not mostly English |
 
+The guide side of `gaps` reads the complete non-English site locale registry, so
+a locale with no guide directory is still counted as missing.
+
 The store draft needs the language in `scripts/store_locales.py` first, so run
 `app` once, review, register, then run `app` again for the store draft (the
 other files are rewritten).
