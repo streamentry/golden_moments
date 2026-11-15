@@ -44,12 +44,16 @@ jobs:
         env:
           GUIDE_DIFF_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
           GUIDE_DIFF_HEAD: ${{ github.sha }}
-        run: "$RUNNER_TEMP/guide-check/bin/python" scripts/check-guide-coverage.py --base "$GUIDE_DIFF_BASE" --head "$GUIDE_DIFF_HEAD"
+        run: >-
+          "$RUNNER_TEMP/guide-check/bin/python" scripts/check-guide-coverage.py
+          --base "$GUIDE_DIFF_BASE" --head "$GUIDE_DIFF_HEAD"
       - name: Check changed site dictionary translations
         env:
           SITE_COPY_DIFF_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
           SITE_COPY_DIFF_HEAD: ${{ github.sha }}
-        run: "$RUNNER_TEMP/guide-check/bin/python" scripts/check-ui-copy-coverage.py --base "$SITE_COPY_DIFF_BASE" --head "$SITE_COPY_DIFF_HEAD"
+        run: >-
+          "$RUNNER_TEMP/guide-check/bin/python" scripts/check-ui-copy-coverage.py
+          --base "$SITE_COPY_DIFF_BASE" --head "$SITE_COPY_DIFF_HEAD"
       - name: Test website translation coverage gates
         run: |
           "$RUNNER_TEMP/guide-check/bin/python" ../tests/test_guide_coverage.py
