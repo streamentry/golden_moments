@@ -10,7 +10,7 @@ import opencode_translate as translator  # noqa: E402
 
 
 class GuideGapReportTests(unittest.TestCase):
-    def test_registered_locale_without_directory_is_reported(self):
+    def test_absent_directory_and_english_copy_are_reported(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
             site = root / 'site'
@@ -28,8 +28,12 @@ class GuideGapReportTests(unittest.TestCase):
             guides = site / 'src/content/guides'
             source = guides / 'activities/alzheimers.md'
             source.parent.mkdir(parents=True)
-            source.write_text('---\ntitle: English\n---\nSource guide body.\n', encoding='utf-8')
+            body = 'This source sentence is long enough to compare against a copy.'
+            source.write_text(f'---\ntitle: English\n---\n{body}\n', encoding='utf-8')
             guides_i18n = site / 'src/content/guides-i18n'
+            english_copy = guides_i18n / 'an/activities/alzheimers.md'
+            english_copy.parent.mkdir(parents=True)
+            english_copy.write_text(f'---\ntitle: Aragonese\n---\n{body}\n', encoding='utf-8')
 
             with (
                 patch.object(translator, 'SITE', site),
