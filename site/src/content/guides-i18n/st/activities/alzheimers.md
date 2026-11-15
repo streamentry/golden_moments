@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Mesebetsi le Lipapali bakeng sa Batho ba nang le Alzheimer's"
+seoTitle: "Mesebetsi le Lipapali tsa Alzheimer's: Mehopolo ka Mekhahlelo"
+description: "Mesebetsi le lipapali tsa Alzheimer's mekhahlelong, tse itšetlehileng ka litsebo tsa khale le mehopolo e tšoarellang, le lipapali tsa mahala hammoho."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Mesebetsi e metle bakeng sa motho ea nang le Alzheimer's e itšetleha ka lintho tse
+  tšoarellang nako e telele: litsebo tse itloaelitsoeng ka nako e telele, lipina tsa
+  khale, mesebetsi e tloaelehileng le likutlo. Qalong, likarete, lipapali tsa boto, ho
+  pheha le ho tsoa hangata li ntse li sebetsa. Bohareng, leka ho mena, ho hlopha, ho
+  bina, lialbamo tsa lifoto le lipapali tse bonolo tsa litšoantšo. Qetellong ea lefu,
+  'mino, ho ama le botsoalle ke lintho tsa bohlokoa haholo. Sheba hore na motho o joang
+  kajeno.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer's ke sesosa se atileng haholo sa dementia, kahoo mehopolo ea mesebetsi ea dementia e sebetsa ho eona hape."
+  - "Tsebo e ncha hangata e ba thata pele, ha litsebo le lipina tse ithutoeng khale hangata li lula nako e telele. Haha holim'a tsona."
+  - "Mekhahlelo ea kopana, ’me matsatsi a monate le a thata ke a tloaelehileng. Khetha ho latela seo motho a ka se etsang le ho se thabela kajeno."
+  - "Khetha lipapali tse se nang sebali sa nako, lintlha kapa lipotso tsa teko, 'me u tlohelle litšoantšo li lule li bonahala."
+  - "Ho shebella, ho tšoara ntho kapa ho lula hammoho feela, tsohle li baloa e le ho nka karolo."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Ke mesebetsi efe e loketseng motho ea nang le Alzheimer's?"
+    a: "Mesebetsi e tloaelehileng e nolofalitsoeng hanyenyane: ho mena liaparo, ho beha tafole, ho pheha hammoho, 'mino le ho bina, ho sheba lifoto, ho tsamaea, ho lema serapeng le ho qeta nako le phoofolo ea lapeng. Lipapali tse bonolo tsa litšoantšo, lipuzzle tse bonolo le likarete tsa puisano le tsona li loketse batho ba bangata. Khetha seo motho eo a neng a lula a se thabela, 'me u se etse le eena."
+  - q: "Na lipapali li loketse batho ba nang le Alzheimer's?"
+    a: "Lipapali e ka ba tsela e monate ea ho qeta nako hammoho haeba motho a li thabela. Ha ho papali e bontšitsoeng hore e phekola, e liehisa kapa e emisa Alzheimer's, kahoo khetha lipapali bakeng sa boithabiso: litšoantšo tse kholo, likhetho tse seng kae, le ho se be le sebali sa nako, lintlha kapa melumo ea karabo e fosahetseng."
+  - q: "Na ho na le phapang pakeng tsa mesebetsi ea dementia le mesebetsi ea Alzheimer's?"
+    a: "Hangata che. Alzheimer's ke sesosa se atileng haholo sa dementia, ’me mehopolo e tšoanang ea mesebetsi ea sebetsa. Se thusang ka Alzheimer's ke ho tseba hore mehopolo ea morao-rao hangata e fela pele, kahoo mesebetsi e hahiloeng holim'a litsebo, lipina le mekhoa ea khale hangata e tsamaea habonolo."
+  - q: "Motho ea nang le Alzheimer's ea mokhahlelo oa ho qetela a ntse a ka thabela eng?"
+    a: "'Mino oo a o ratang, ho sililoa letsoho ka bonolo, lintho tse bonolo tseo a ka li tšoarang, ho balloa, ho lula ka ntle le botsoalle ba motho eo a mo tšepang. E boloke e le khutšoanyane ebile e khutsitse, 'me u shebe sefahleho le 'mele oa hae ho bona seo a se ratang."
+  - q: "Nka etsa joang hore motho ea nang le Alzheimer's a thahaselle mosebetsi?"
+    a: "Kopa thuso ho e-na le ho phatlalatsa hore ho na le mosebetsi, beha tsohle pele, 'me u qale uena e le hore a ka kenella. Ho khetha nako ea letsatsi eo a leng maemong a matle ka ho fetisisa ho etsa phapang e kholo. Haeba a re che, leka hape hamorao kapa u fane ka mofuta o monyenyane."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ha motho eo u mo ratang a e-na le Alzheimer's, mohlomong u se u hlokometse hore lintho tse ling li nyamela kapele ha tse ling li ntse li tšoarella. A ka lebala mohala oa hoseng empa a ntse a bina mantsoe ohle a sefela, a mena thaole ka tsela eo a neng a tloaetse ka eona, kapa a aba likarete a sa nahane. Mesebetsi e metle e hahoa holim'a litsebo tseo tse tšoarellang. Leqephe lena le hlalosa lebaka, ebe le fana ka mehopolo bakeng sa mokhahlelo o mong le o mong le lipapali tsa mahala tsa sebaka sena tse ba loketseng.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Na Alzheimer's e fapane le dementia ha ho tluoa mesebetsing?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ha e fapane haholo. Dementia ke lentsoe le akaretsang, ’me Alzheimer's ke sesosa se atileng haholo sa eona: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) e re e baka 60 ho isa ho 80 lekholong ea maemo a dementia. Hoo e ka bang ntho e 'ngoe le e 'ngoe e ngotsoeng ka mesebetsi ea dementia e sebetsa ho Alzheimer's, ho akarelletsa le [mehopolo ea mesebetsi e 101](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Ntho ea bohlokoa ho e tseba ke tatellano e tloaelehileng ea liphetoho. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) e hlalosa hore Alzheimer's pele e senya likarolo tsa boko tse amehang mohopolong, ebe hamorao e ama puo, monahano le boitšoaro ba botsoalle. Alzheimer's Association e re letšoao la pele le atileng haholo ke bothata ba ho hopola boitsebiso bo sa tsoa ithutoa. Motho e mong le e mong o fapane, ’me batho ba bangata ba na le lisosa tse tsoakaneng, empa mokhoa ona o thusa ho tseba se atisang ho sebetsa.
 
-## What kinds of activities suit Alzheimer's best?
+## Ke mefuta efe ea mesebetsi e loketseng Alzheimer's ka ho fetisisa?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Mesebetsi e itšetlehileng ka tsebo ea khale e itloaelitsoeng hantle hangata e tsamaea habonolo ho feta e hlokang hore ho ithutoe ntho e ncha le ho e boloka kelellong.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Litsebo tse itloaelitsoeng ka nako e telele.** Alzheimer's Association e hlokomela hore motho a ka ’na a ntse a khona ho bapala lipina tse bonolo tseo a ithutileng tsona piano lilemong tse fetileng. Ho loha, ho leotsa patsi ka pampiri e silang, ho kopanya likarete, ho luba hlama le ho mena liaparo ho tšoana le hona.
+- **Lipina tsa khale le 'mino o tloaelehileng.** Batho ba bangata ba ntse ba tseba mantsoe ohle a lipina tsa bocha ba bona, tsa lilemo tsa mashome a mabeli, lifela le lipina tsa lenyalo la bona. Sheba [mesebetsi ea 'mino](/activities/music/).
+- **Mesebetsi ea letsatsi le letsatsi e nang le morero.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e thathamisa ho hlatsoa lijana, ho beha tafole, ho hlopha likausi le ho mena liaparo har'a mesebetsi eo batho ba ka e thabelang. Ho ikutloa u le molemo ho bohlokoa.
+- **Ho lemoha ho e-na le ho hopola.** Ho supa setšoantšo se tšoanang ho bonolo ho feta ho se reha ka mohopolo. Ke ka lebaka leo lipapali tsa litšoantšo tse nang le ntho e 'ngoe le e 'ngoe e bonahalang li sebetsang hamolemo ho feta lipotso tsa teko.
+- **Likutlo.** Sebopeho, monko, mofuthu, tatso le molumo li lula li e-na le moelelo nako e telele ka mor'a hore mantsoe a be thata. Sheba [mesebetsi ea likutlo](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Se atisang ho se tsamaee hantle: ntho efe kapa efe e nang le oache, melao e mecha e lokelang ho ithutoa, mehato e mengata e lokelang ho hopoloa, kapa lipotso tse lekang mohopolo, tse kang 'Na u hopola hore enoa ke mang?' Lintho tsena li beha karolo e thata ea Alzheimer's ka pele haholo.
 
-## Activities for early-stage Alzheimer's
+## Mesebetsi ea Alzheimer's ea mokhahlelo oa pele
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Mokhahlelong oa pele, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) e re motho a ka ’na a ntse a khanna, a sebetsa le ho nka karolo mesebetsing ea botsoalle, ha a ntse a hlokomela likheo tsa mohopolo tse kang ho lebala mantsoe a tloaelehileng kapa moo lintho li leng teng. Mokhoa o motle ke tšebelisano: botsa hore na o batla ho tsoela pele ka eng le hore na a ka rata thuso efe.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Tsoela pele ka lintho tseo a itlosang bolutu ka tsona.** Kolofo, bridge, ho roka, lihlopha tsa k’hoaere le tsa kereke, ka liphetoho tse nyenyane tse kang lihlopha tse nyenyane le linako tse khutsitseng.
+2. **Bapala lipapali tsa likarete le tsa boto tseo a li tloaetseng.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e thathamisa lipotso tsa tsebo, lipapali tsa ho batla mantsoe, lipapali tsa likarete le tsa boto bakeng sa mokhahlelo oa pele. Bapalang le le sehlopha haeba ho boloka lintlha ho qala ho mo tšoenya, kapa le tlohele lintlha ka ho feletseng.
+3. **Phehang hammoho.** Mo tlohelle a phethe risepe eo a e tsebang ka hlooho ha uena u bala mehato.
+4. **Qalang morero oa pale ea bophelo.** Lifoto, liresipe le lipale bukeng ea ho boloka mehopolo eo a e tataisang. Sheba [mesebetsi ea ho hopola lintho tsa khale](/activities/reminiscence/).
+5. **Tsoang.** Eang reschorenteng eo a e ratang ka nako e khutsitseng, musiamong bakeng sa ketelo e khutšoanyane, kapa tsamaeang serapeng sa boikhathollo.
+6. **Lekang lipuzzle tseo a li khethang.** Lipotso tsa mantsoe tse hatisitsoeng ka mongolo o moholo, lipapali tsa ho batla mantsoe le lipuzzle tsa ho kopanya. Sheba [lipuzzle bakeng sa dementia](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Mehopolo e meng: [mesebetsi ea mokhahlelo oa pele](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Mesebetsi ea Alzheimer's ea mokhahlelo o bohareng
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association e hlalosa mokhahlelo o bohareng e le o atisang ho ba telele ka ho fetisisa, ’me e re o ka nka lilemo tse ngata. Mantsoe aa tsoakana, ho teneha ho tla kapele, ’me motho o hloka tlhokomelo e eketsehileng. Alzheimer's Foundation of America e eketsa hore batho ba bangata ba hloka thuso ea ho qala kapa ho tsoela pele ka mesebetsi. Karolo ea hao e fetoha ho lokisa lintho, ho bontša ho e-na le ho hlalosa, le ho nka mesebetsi e thata.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Menang, hlophang le bapise.** Lithaole, likausi, lisebelisoa tsa ho jela, likonopo ka mebala. Ke mesebetsi ea sebele, e etsoang le le bapile.
+2. **Binang le ho sisinyeha ka 'mino.** Opang liatla, sisinyehang kapa tantšang ka kichineng. Qalang ho bina, 'me le mo tlohelle a kenelle.
+3. **Shebang lialbamo tsa lifoto.** Hlalosa seo u se bonang 'me u memele lipale: 'Koloi e ntle. Mpolelle ka eona.' Amohela mabitso afe kapa afe ao a a sebelisang.
+4. **Bapala lipapali tse bonolo tsa litšoantšo.** [Picture pairs](/games/picture-pairs/) ka lithaele tse ’nè ho isa ho tse tšeletseng, litšoantšo li ntse li shebile holimo, kapa [Find the same](/games/find-the-same/) ka likhetho tse peli kapa tse tharo.
+5. **Phethang lipolelo tse tloaelehileng.** 'Apole ka letsatsi e boloka...' Lipolelo tse ithutoeng khale hangata li tla habonolo. Lekang [Finish the saying](/games/finish-the-saying/), moo u ka bontšang qetello efe kapa efe ka ho tobetsa hang.
+6. **Nosetsang le hlokomeleng limela.** Limela tsa ka tlung kapa bethe e phahamisitsoeng, ka lekotikoti le lenyenyane la ho nosetsa.
+7. **Etsang papali ea ho bapisa ka lifoto tsa lelapa.** [Photo pairs](/games/photo-pairs/) e sebelisa litšoantšo tseo u li khethang sesebelisoeng sa hao, 'me ha li tlohe ho sona.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Mehopolo e meng: [mesebetsi ea mokhahlelo o bohareng](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Mesebetsi ea Alzheimer's ea mokhahlelo oa ho qetela
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Mokhahlelong oa ho qetela, Alzheimer's Association e re batho ba lahleheloa ke bokhoni ba ho arabela tikolohong ea bona le ho etsa puisano, leha ba ka ’na ba ntse ba bua mantsoe kapa lipolelo. Mosebetsi joale o bolela matšeliso le kamano, tse isetsoang moo motho a phomolang teng.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Bapalla 'mino oo a o ratang** ka khutso, TV e sa qothisane le oona.
+2. **Mo silille matsoho** ka setlolo se nang le monko oo a o ratang.
+3. **Mo fe lintho tse bonolo tseo a ka li tšoarang:** kobo e mofuthu, boea bo bonolo, lejoe le boreleli.
+4. **Bala ka lentsoe le phahameng** lipesaleme, lithothokiso kapa pale e tloaelehileng. Morethetho o bohlokoa ho feta moelelo.
+5. **Lulang ka ntle** moriting, kapa pela fensetere moo a ka shebellang linonyana.
+6. **Shebang setšoantšo se le seng se seholo hammoho.** Sonobolomo kapa ntja e tlatsang skrine ea tablet, u ntse u bolela seo u se bonang.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Mehopolo e meng: [mesebetsi ea mokhahlelo oa ho qetela](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Ke lipapali life tse loketseng motho ea nang le Alzheimer's?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Khetha lipapali tseo ho tsona ho seng ntho e ka hlolehang. Papali e 'ngoe le e 'ngoe sebakeng sena ke ea mahala, e sebetsa sebatling, 'me ha e na sebali sa nako, lintlha kapa ho ingolisa.
 
-| Game | What you do | Often suits |
+| Papali | Seo u se etsang | Hangata e loketse |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Bapisa litšoantšo tse kholo; li ka lula li shebile holimo | Mokhahlelo oa pele le o bohareng |
+| [Find the same](/games/find-the-same/) | Tobetsa setšoantšo se tšoanang le se ka holimo | Mokhahlelo o bohareng le oa ho qetela, ka thuso |
+| [Finish the saying](/games/finish-the-saying/) | Khetha lentsoe la ho qetela la polelo e tloaelehileng, kapa u le bontše | Mokhahlelo oa pele le o bohareng |
+| [Picture puzzle](/games/picture-puzzle/) | Fetola likotoana tse 4 kapa tse 9 hore li khutlele sebakeng, setšoantšo se ntse se bontšitsoe | Mokhahlelo oa pele le o bohareng |
+| [Conversation cards](/games/conversation-cards/) | Setšoantšo le potso e bulehileng ea ho qoqa ka eona | Mokhahlelo ofe kapa ofe, ka motho eo le ka buang le eena |
+| [Photo pairs](/games/photo-pairs/) | Papali ea ho bapisa e entsoeng ka lifoto tsa hao | Mokhahlelo oa pele le o bohareng |
+| [Coloring](/games/coloring/) | Tobetsa 'mala, ebe karolo ea setšoantšo, kapa u se hatise | Mokhahlelo ofe kapa ofe, ka thuso |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Bakeng sa mokhoa oa ho lula hammoho, hore na u ka thusa hakae le hore na u emise neng, bala [mokhoa oa ho bapala lipapali le motho ea nang le dementia](/caregiving/how-to-play-together/). Ha u ipotsa ka 'lipapali tsa mohopolo', sheba [lipapali tsa mohopolo bakeng sa batho ba baholo ba nang le dementia](/activities/memory-games/).
 
-## How to make any activity easier
+## Mokhoa oa ho nolofatsa mosebetsi ofe kapa ofe
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Keletso ea NIA e ka akaretsoa ka litloaelo tse seng kae: bapisa mosebetsi le seo motho a ka se etsang, mo thuse ho qala, hlokomela ho teneha, etsa bonnete ba hore o ikutloa a atlehile, 'me u mo lumelle ho shebella feela haeba ke sona seo a se thabelang.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Khetha nako ea letsatsi eo a leng maemong a matle ka ho fetisisa,** 'me u boloke linako li le khutšoanyane.
+- **Lokisa tsohle pele,** e le hore le ka qala hang-hang.
+- **Mema, u se ke ua laela.** 'Na u ka nthusa hanyenyane?' ho sebetsa hamolemo ho feta 'Ke nako ea mosebetsi.'
+- **Etsa mohato oa pele uena** 'me u mo tlohelle a kenelle.
+- **Fana ka mohato o le mong le khetho e le 'ngoe ka nako.**
+- **Mo lumelle hore a e etse ka tsela ea hae.** Lithaole tse sa mennweng ka ho lekana li lokile.
+- **Emisa ha ho ntse ho le monate.** Ho qeta pele ho nako ke phello e ntle, eseng ho hlōleha. Haeba a hana, sheba [ha motho ea nang le dementia a re che](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e e beha ka mantsoe a bonolo: tsepamisa maikutlo thabong, eseng katlehong.

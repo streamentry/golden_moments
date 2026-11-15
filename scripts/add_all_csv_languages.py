@@ -171,12 +171,11 @@ def load_csv_rows() -> list[dict[str, str]]:
         raw_rows = [[c.strip() for c in r] for r in reader]
 
     locales_ts = (ROOT / 'site/src/i18n/locales.ts').read_text(encoding='utf-8')
-    pattern = re.compile(
-        r"\{\s*code:\s*'([^']+)',\s*prefix:\s*'([^']*)',\s*bcp47:\s*'([^']+)',"
-        r"\s*htmlLang:\s*'([^']+)',\s*og:\s*'([^']+)',\s*name:\s*'([^']+)',"
-        r"\s*englishName:\s*'([^']+)',\s*dir:\s*'([^']+)'\s*\}"
-    )
-    existing_codes = {m[0] for m in pattern.findall(locales_ts)}
+    # Codes are simple tags, so this does not need to parse the other fields.
+    # Native and English names can contain escaped apostrophes (for example
+    # Guarani's Avañe\'ẽ); a pattern that scans the whole object with `[^']*`
+    # stops at the escaped quote and misses that locale.
+    existing_codes = set(re.findall(r"code:\s*'([^']+)'", locales_ts))
 
     new_locales = []
     for r in raw_rows:
@@ -214,6 +213,44 @@ def load_csv_rows() -> list[dict[str, str]]:
             'dir': direction,
         })
     return new_locales
+
+
+def _unescape_typescript_string(value: str) -> str:
+    """Decode the quote/backslash escapes used in locale string literals."""
+    return re.sub(r"\\([\\'])", r"\1", value)
+
+
+def _dart_string(value: str) -> str:
+    """Return a Dart string literal with the least necessary quote escaping."""
+    quote = '"' if value.count("'") > value.count('"') else "'"
+    escaped = value.replace('\\', '\\\\').replace('$', r'\$')
+    escaped = escaped.replace(quote, '\\' + quote)
+    return f"{quote}{escaped}{quote}"
+
+
+def generate_language_names_from_locales(locales_ts: str) -> str:
+    """Generate the app language-name map, including escaped TS apostrophes."""
+    ts_string = r"'((?:\\.|[^'\\])*)'"
+    pattern = re.compile(
+        rf"\{{\s*code:\s*{ts_string},\s*prefix:\s*{ts_string},\s*bcp47:\s*{ts_string},"
+        rf"\s*htmlLang:\s*{ts_string},\s*og:\s*{ts_string},\s*name:\s*{ts_string},"
+        rf"\s*englishName:\s*{ts_string},\s*dir:\s*{ts_string}\s*\}}"
+    )
+    locales = pattern.findall(locales_ts)
+    dart_lines = [
+        "// GENERATED from site/src/i18n/locales.ts (native names). Do not edit by hand.",
+        "// Keys are the language tags the site and the app share",
+        "// (Locale.toLanguageTag()).",
+        "",
+        "/// The name each language uses for itself, for the language picker.",
+        "const Map<String, String> nativeLanguageNames = {",
+    ]
+    for fields in locales:
+        code = _unescape_typescript_string(fields[0])
+        native_name = _unescape_typescript_string(fields[5])
+        dart_lines.append(f"  {_dart_string(code)}: {_dart_string(native_name)},")
+    dart_lines.append("};")
+    return '\n'.join(dart_lines) + '\n'
 
 
 def main() -> None:
@@ -345,28 +382,10 @@ def main() -> None:
 
     # 7. Update lib/l10n/language_names.dart
     lang_names_path = ROOT / 'lib/l10n/language_names.dart'
-    # Parse all locales from locales.ts
     locales_ts = (ROOT / 'site/src/i18n/locales.ts').read_text(encoding='utf-8')
-    pattern = re.compile(
-        r"\{\s*code:\s*'([^']+)',\s*prefix:\s*'([^']*)',\s*bcp47:\s*'([^']+)',"
-        r"\s*htmlLang:\s*'([^']+)',\s*og:\s*'([^']+)',\s*name:\s*'([^']+)',"
-        r"\s*englishName:\s*'([^']+)',\s*dir:\s*'([^']+)'\s*\}"
+    lang_names_path.write_text(
+        generate_language_names_from_locales(locales_ts), encoding='utf-8'
     )
-    all_locales = pattern.findall(locales_ts)
-    dart_lines = [
-        "// GENERATED from site/src/i18n/locales.ts (native names). Do not edit by hand.",
-        "// Keys are the language tags the site and the app share",
-        "// (Locale.toLanguageTag()).",
-        "",
-        "/// The name each language uses for itself, for the language picker.",
-        "const Map<String, String> nativeLanguageNames = {",
-    ]
-    for m in all_locales:
-        code = m[0]
-        native_name = m[5].replace("'", "\\'")
-        dart_lines.append(f"  '{code}': '{native_name}',")
-    dart_lines.append("};\n")
-    lang_names_path.write_text('\n'.join(dart_lines), encoding='utf-8')
     print(f'Updated {lang_names_path.relative_to(ROOT)}')
 
     print('All CSV languages successfully added!')

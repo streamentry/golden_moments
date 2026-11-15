@@ -236,8 +236,12 @@ def edit_arb_test(text: str, lang: Language) -> str:
 def edit_locales_ts(text: str, lang: Language) -> str:
     if f"code: '{lang.code}'," in text:
         return text
+    def ts_string(value: str) -> str:
+        return "'" + value.replace('\\', '\\\\').replace("'", "\\'") + "'"
+
     entry = (f"  {{ code: '{lang.code}', prefix: '{lang.prefix}', bcp47: '{lang.code}', htmlLang: '{lang.code}', "
-             f"og: '{lang.og}', name: '{lang.name}', englishName: '{lang.english}', dir: '{'rtl' if lang.rtl else 'ltr'}' }},\n")
+             f"og: '{lang.og}', name: {ts_string(lang.name)}, englishName: {ts_string(lang.english)}, "
+             f"dir: '{'rtl' if lang.rtl else 'ltr'}' }},\n")
     start = text.index('export const LOCALES')
     end = text.index('\n];', start)
     return text[:end + 1] + entry + text[end + 1:]

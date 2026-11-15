@@ -11,7 +11,7 @@ summary: >-
   longe praktikata habilesi, anciena kansoni, familiara taski e la sensi. Frue,
   kartoludi, tabloludi, koquado e exter-iri ofte ankore funcionas. En la meza
   stadio, probez faldar, klasifikar, kantar, foto-albumi e simpla imajala ludi.
-  Tarde en la morbo, muziko, tuchebleso e kompano importas maxim multe. Selektez
+  Tarde en la morbo, muziko, tusho e kompano importas maxim multe. Selektez
   segun quale la persono esas cadie.
 keyPoints:
   - "Alzheimer esas la maxim ofta kauzo di demenco, do idei pri aktivesi por demenco anke aplikesas a ol."
@@ -21,7 +21,7 @@ keyPoints:
   - "Regardar, tenar ulo o simple sidar kune omna kontas kom partopreno."
 faq:
   - q: "Quala aktivesi esas bona por ulu kun Alzheimer?"
-    a: "Familiara aktivesi facita kelke plu simpla: faldar lavita vesti, preparar la tablo, koquar kune, muziko e kanto, regardar fotografuri, promenar, gardenumar e tempo kun hemano. Simpla imajala ludi, facila puzli e karti por konverso anke funcionas por multa personi. Selektez to quo la persono sempre amis e facez ol kune kun lu."
+    a: "Familiara aktivesi facita kelke plu simpla: faldar lavita vesti, preparar la tablo, koquar kune, muziko e kanto, regardar fotografuri, promenar, gardenumar e tempo kun dorlot-bestio. Simpla imajala ludi, facila puzli e karti por konverso anke funcionas por multa personi. Selektez to quo la persono sempre amis e facez ol kune kun lu."
   - q: "Ka ludi esas bona por personi kun Alzheimer?"
     a: "Ludi povas esar agreabla maniero pasigar tempo kune, se la persono juas oli. Nula ludo esas pruvita traktar, lentigar o haltigar Alzheimer, do selektez ludi por plezuro: granda imaji, poka selekti, e nula horlojo, puntizo o soni por nekorekta respondo."
   - q: "Ka existas diferi inter aktivesi por demenco e aktivesi por Alzheimer?"
@@ -54,7 +54,7 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-Se ulu quan vu amas havas Alzheimer, vu probable ja remarkis ke kelka kozi desaparas rapide dum altri restas. Lu forsan oblivias la telefonvoko di ca matino, ma ankore kantas omna vorti di himno, faldas mantelo quale lu sempre facis, o distributas karti sen pensar. Bona aktivesi esas bazita sur ta duranta habilesi. Ca pagino explikas pro quo, pose donas idei por singla stadio e la gratuita ludi en ca retloko qui konvenas ad oli.
+Se ulu quan vu amas havas Alzheimer, vu probable ja remarkis ke kelka kozi desaparas rapide dum altri restas. Lu forsan oblivias la telefonvoko di ca matino, ma ankore kantas omna vorti di himno, faldas tualet-tuko quale lu sempre facis, o distributas karti sen pensar. Bona aktivesi esas bazita sur ta duranta habilesi. Ca pagino explikas pro quo, pose donas idei por singla stadio e la gratuita ludi en ca retloko qui konvenas ad oli.
 
 ## Ka Alzheimer diferas de demenco pri aktivesi?
 
@@ -78,8 +78,8 @@ To quo ofte funcionas min bone: irgo kun horlojo, nova reguli por lernar, multa 
 
 En la frua stadio, la [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) dicas ke persono povas ankore veturar, laborar e partoprenar sociala aktivesi, dum remarkar memorala falii quale obliviar familiara vorti o ube kozi esas. La maxim bona maniero esas partenereso: demandez quon lu volas durar facar e quala helpo lu deziras.
 
-1. **Durigez existanta hobii.** Golfo, kartoludi, stebado, koro e ekleziala grupi, kun mikra ajusti quale plu mikra grupi e plu kalma hori.
-2. **Pleez familiara kartoludi e tabloludi.** La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listigas question-ludi, vort-serchado, kartoludi e tabloludi por la frua stadio. Pleez kom esquado se puntizar komencas jenar lu, o lasez la puntizo tote.
+1. **Durigez existanta hobii.** Golfo, Bridge, stebado, koro e ekleziala grupi, kun mikra ajusti quale plu mikra grupi e plu kalma hori.
+2. **Ludez familiara kartoludi e tabloludi.** La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listigas question-ludi, vort-serchado, kartoludi e tabloludi por la frua stadio. Ludez kom esquadro se puntizar komencas jenar lu, o lasez la puntizo tote.
 3. **Koquez kune.** Lasez lu facar recepto quan lu savas parkere dum vu lektas la etapi.
 4. **Komencez projeto pri vivo-rakonto.** Fotografuri, recepti e rakonti en albumo quan lu direktas. Videz [aktivesi pri memoraji](/activities/reminiscence/).
 5. **Facez exter-iri.** Favorata restorerio ye kalma horo, muzeo por kurta vizito, promenado en parko.
@@ -91,12 +91,12 @@ Plusa idei: [aktivesi por frua stadio](/activities/early-stage/).
 
 La Alzheimer's Association deskriptas la meza stadio kom ordinare la maxim longa, e dicas ke ol povas durar multa yari. Vorti mixesas, frustrado venas plu facile, e la persono bezonas plu multa sorgo. La Alzheimer's Foundation of America adjuntas ke multa personi bezonas helpo por komencar o durar aktivesi. Vua rolo chanjas a preparar kozi, montrar vice explikar, e facar la desfacila parti.
 
-1. **Faldez, klasifikez e konvenigez.** Manteli, kalzi, manjo-instrumenti, butoni segun koloro. Reala taski, facita flanke a flanke.
-2. **Kantez e movez kun muziko.** Klaktez manui, balanseskez o dansez en la koqueyo. Komencez kantar ipsa e lasez lu juntar.
+1. **Faldez, klasifikez e konvenigez.** Tualet-tuki, kalzi, manjo-instrumenti, butoni segun koloro. Reala taski, facita flanke a flanke.
+2. **Kantez e movez kun muziko.** Klakez manui, ocilez o dansez en la koqueyo. Komencez kantar ipsa e lasez lu juntar.
 3. **Regardez foto-albumi.** Deskriptez to quon vu vidas e invitez rakonti: "Quala automobilo. Rakontez me pri ol." Aceptez irga nomi quin lu uzas.
-4. **Pleez simpla imajala ludi.** [Picture pairs](/games/picture-pairs/) kun quar til sis imaji lasita videbla, o [Find the same](/games/find-the-same/) kun du o tri selekti.
-5. **Finigez familiara dicaji.** "Un pomo singladie..." Dicaji lernita longe ante ofte venas facile. Probez [Finish the saying](/games/finish-the-saying/), ube vu povas montrar irga fino per un tucheto.
-6. **Aquizez e sorgomez planti.** En-hemala poti o elevita bedo, kun mikra aquizilo.
+4. **Ludez simpla imajala ludi.** [Picture pairs](/games/picture-pairs/) kun quar til sis imaji lasita videbla, o [Find the same](/games/find-the-same/) kun du o tri selekti.
+5. **Finigez familiara dicaji.** "Un pomo singladie..." Dicaji lernita longe ante ofte venas facile. Probez [Finish the saying](/games/finish-the-saying/), ube vu povas montrar irga fino per un tusheto.
+6. **Aquizez e sorgez planti.** En-hemala poti o elevita bedo, kun mikra aquizilo.
 7. **Facez konvenigo-ludo ek familiala fotografuri.** [Photo pairs](/games/photo-pairs/) uzas imaji quin vu selektas sur vua aparato, e oli nultempe livas ol.
 
 Plusa idei: [aktivesi por meza stadio](/activities/middle-stage/).
@@ -105,7 +105,7 @@ Plusa idei: [aktivesi por meza stadio](/activities/middle-stage/).
 
 En la tarda stadio, la Alzheimer's Association dicas ke personi perdas la kapableso reaktar a lia cirkumajo e durar konverso, malgre ke li povas ankore dicar vorti o frazi. Aktiveso nun signifikas komforto e konekto, portita a ube la persono repozas.
 
-1. **Pleez lua favorata muziko** silencoze, sen ke la televiziono konkurencas.
+1. **Pleez lua favorata muziko** ne-laute, sen ke la televiziono konkurencas.
 2. **Donez manomasajo** kun lotiono qua havas odoro quan lu prizas.
 3. **Ofrez mola kozi por tenar:** varma kovrilo, fliso, glata petro.
 4. **Lektez laute** psalmi, poemi o familiara rakonto. La ritmo importas plu kam la senco.
@@ -139,7 +139,7 @@ La konsili di NIA rezumesas a kelka kustumi: konvenigez l'aktiveso a to quon la 
 - **Invitez, ne ordonez.** "Ka vu povus helpar me?" funcionas plu bone kam "Esas tempo por aktiveso."
 - **Facez la unesma etapo ipsa** e lasez lu juntar.
 - **Ofrez un etapo e un selekto singlatempe.**
-- **Lasez ol esar facita en lua maniero.** Oblika manteli esas bona.
+- **Lasez ol esar facita en lua maniero.** Oblika tualet-tuki esas bona.
 - **Haltez dum ol ankore esas agreabla.** Finar frue esas bona rezulto, ne falio. Se lu refuzas, videz [kande ulu kun demenco dicas no](/caregiving/when-they-say-no/).
 
 La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dicas ol simple: fokusigez la plezuro, ne la atingajo.
