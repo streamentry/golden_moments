@@ -897,7 +897,7 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Regression tests | Unit tests verify the listener is present while idle, a hidden change cancels later active speech, inactive narration is left alone, and cleanup removes the listener. | 17 focused tests pass. |
 | Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
 | Local checks | `pnpm --dir site verify`: 767 tests, 16,717 pages built, `check-site` 0 errors and 575 warnings; `pnpm --dir site exec tsc --noEmit`; Python discovery (138 tests); release metadata check; `git diff --check`. | Pass locally under Node 22.14.0, below the site's declared minimum of 22.22.0. `flutter` and `dart` executables were unavailable, so Flutter analysis, format and test commands could not run. |
-| Implementation commit | `baf9f108` | Listener setup, state ref and regression coverage on `codex/round-104-readaloud-visibility-setup`. |
+| Implementation commit | `baf9f108` | Listener setup, state ref and regression coverage; see PR #262. |
 | Copy coverage | No site dictionary or guide changed. | No fixed copy changed. |
 | Merge and hosted checks | Pending | Do not claim hosted checks or merge until the exact PR head is green. |
 | Not verified | Real-browser tab-hide audio and participant/caregiver review were not run. The Playwright wrapper could not start because the environment's package guard blocked its `npx` invocation. | The change does not establish a user outcome. |
