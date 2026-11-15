@@ -537,5 +537,11 @@
     "goodToKnowText": "Det här spelet är till för att ha trevligt och vara tillsammans. Det testar, mäter eller behandlar ingenting.",
     "moreGames": "Fler lugna spel",
     "crumb": "Spel"
+  },
+  "consent": {
+    "label": "Val om statistik",
+    "text": "Får vi räkna ditt besök med Google Analytics? Det sätter kakor som visar oss vilka sidor som hjälper. Inget används till reklam. <a href=\"/privacy/#google-analytics\">Så använder vi det</a>",
+    "allow": "Tillåt",
+    "decline": "Nej tack"
   }
 }

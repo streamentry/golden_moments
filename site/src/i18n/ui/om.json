@@ -537,5 +537,11 @@
     "goodToKnowText": "Taphni kun gammachuu fi yeroo waliin dabarsuuf. Wanta tokko illee hin qoru, hin safaru, hin yaalu.",
     "moreGames": "Taphoota laafaa dabalataa",
     "crumb": "Taphoota"
+  },
+  "consent": {
+    "label": "Filannoo xiinxala",
+    "text": "Daawwannaa keessan Google Analytics'n lakkaa'uu ni dandeenyaa? Kuukiiwwan fuulota gargaaran nutti agarsiisan kaa'a. Wanti beeksisaaf itti fayyadamnu hin jiru. <a href=\"/privacy/#google-analytics\">Akkaataa itti fayyadamnu</a>",
+    "allow": "Hayyami",
+    "decline": "Lakki, galatoomi"
   }
 }

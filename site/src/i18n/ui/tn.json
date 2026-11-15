@@ -537,5 +537,11 @@
     "goodToKnowText": "Papali eno ke ya go itumela le go nna le nako mmogo. Ga e tlhatlhobe, e lekanye kgotsa e alafe sepe.",
     "moreGames": "Dipapali tse dingwe tse di bonolo",
     "crumb": "Dipapali"
+  },
+  "consent": {
+    "label": "Tlhopho ya tshekatsheko",
+    "text": "A re ka bala ketelo ya gago ka Google Analytics? E baya di-cookie tse di re bontshang gore ke ditsebe dife tse di thusang. Ga go sepe se se dirisediwang dipapatso. <a href=\"/privacy/#google-analytics\">Ka moo re e dirisang ka teng</a>",
+    "allow": "Letla",
+    "decline": "Nnyaa, ke a leboga"
   }
 }

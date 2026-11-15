@@ -537,5 +537,11 @@
     "goodToKnowText": "Dit spultsje is foar wille en tiid tegearre. It test, mjit of behannelet neat.",
     "moreGames": "Mear sêfte spultsjes",
     "crumb": "Games"
+  },
+  "consent": {
+    "label": "Kar oer statistyk",
+    "text": "Meie wy jo besite telle mei Google Analytics? It pleatst cookies dy't ús sjen litte hokker siden helpe. Neat wurdt brûkt foar advertinsjes. <a href=\"/privacy/#google-analytics\">Hoe't wy it brûke</a>",
+    "allow": "Tastean",
+    "decline": "Nee, tankjewol"
   }
 }

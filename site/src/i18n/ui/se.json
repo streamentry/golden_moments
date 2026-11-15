@@ -537,5 +537,11 @@
     "goodToKnowText": "Dát speallan lea ilolašvuhtii ja oktii áigodahkii. Dat ii testa, ii mihtit eaige hoito maidige.",
     "moreGames": "Eanet bearrasaš speallamat",
     "crumb": "Speallamat"
+  },
+  "consent": {
+    "label": "Statistihkka válljejupmi",
+    "text": "Sáhttitgo mii lohkat du galledeami Google Analyticsain? Dat bidjá diehtočoahkuid mat čájehit midjiide makkár siiddut veahkehit. Ii mihkkege geavahuvvo reklámmaide. <a href=\"/privacy/#google-analytics\">Movt mii dan geavahit</a>",
+    "allow": "Suova",
+    "decline": "Ii, giitu"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Kano kayo i ka kusangala ne kupitshisha kitatyi pamo. Ke katompangapo, ke kapimangapo nansha kubunda kintu nakimo.",
     "moreGames": "Makayo makwabo a ndoe",
     "crumb": "Makayo"
+  },
+  "consent": {
+    "label": "Kusungula analytics",
+    "text": "Tudi mwa kubala dyenda dyebe ne Google Analytics anyi? Didi diteka ma-cookies adi atuleja mapapa adi akwasha. Kakwena kintu kyengidijibwa pa kulanga. <a href=\"/privacy/#google-analytics\">Muswelo otwingidija'o</a>",
+    "allow": "Itaba",
+    "decline": "Ehe, twasakidila"
   }
 }

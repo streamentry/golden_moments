@@ -536,5 +536,11 @@
     "goodToKnowText": "Bu oyun keyif ve birlikte geçirilen zaman içindir. Hiçbir şeyi test etmez, ölçmez ya da tedavi etmez.",
     "moreGames": "Daha fazla sakin oyun",
     "crumb": "Oyunlar"
+  },
+  "consent": {
+    "label": "Analiz tercihi",
+    "text": "Ziyaretinizi Google Analytics ile sayabilir miyiz? Hangi sayfaların işe yaradığını bize gösteren çerezler bırakır. Hiçbir şey reklam için kullanılmaz. <a href=\"/privacy/#google-analytics\">Nasıl kullanıyoruz</a>",
+    "allow": "İzin ver",
+    "decline": "Hayır, teşekkürler"
   }
 }

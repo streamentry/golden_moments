@@ -537,5 +537,11 @@
     "goodToKnowText": "O lenei taaloga mo le fiafia ma le taimi faʻatasi. E lē suʻesuʻe, fuaina poʻo togafitia so o se mea.",
     "moreGames": "Isi taʻaloga faʻafefe",
     "crumb": "Taʻaloga"
+  },
+  "consent": {
+    "label": "Filifiliga o su'esu'ega",
+    "text": "E mafai ona matou faitaulia lau asiasiga i le Google Analytics? E tu'u ai cookies e fa'aali mai ai ia i matou itulau e fesoasoani. E leai se mea e fa'aaogā mo fa'asalalauga. <a href=\"/privacy/#google-analytics\">Le auala matou te fa'aaogā ai</a>",
+    "allow": "Fa'atagaina",
+    "decline": "Leai, fa'afetai"
   }
 }

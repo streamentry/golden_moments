@@ -537,5 +537,11 @@
     "goodToKnowText": "Pled at binon pro yof e tim kobo. No savom, mafom u kuradom nosi.",
     "moreGames": "Pleds molik pluik",
     "crumb": "Pleds"
+  },
+  "consent": {
+    "label": "Väl dö statit",
+    "text": "Kanobs-li numön visiti olik me Google Analytics? Pladom „cookies“, kels jonons obes padis kinik yufons. Nos pagebon pro reklams. <a href=\"/privacy/#google-analytics\">Ad gebön oni</a>",
+    "allow": "Dälön",
+    "decline": "No, danö"
   }
 }

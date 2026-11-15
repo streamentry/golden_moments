@@ -537,5 +537,11 @@
     "goodToKnowText": "ꎔꃅ ꊈꂷ ꆏ ꃅꄅꅪꂷ ꑌ ꐎꇒ ꐚꊪ ꇬ ꈬꑌ ꑣ。ꅈ ꀋ ꄮꊪ、ꀋ ꄿ ꈬꑌ ꀋ ꇢ。",
     "moreGames": "ꅪꂷ ꁮ ꑌ ꎔꃅ ꒅꄿ ꂿ",
     "crumb": "ꎔꃅ"
+  },
+  "consent": {
+    "label": "ꃅꄜꌋꆏ ꇬꀨ",
+    "text": "ꉢꀋ Google Analytics ꊿ ꉈꀋ ꂿꃰ ꌋꆏꇬꀨꀕ? ꀋ cookies ꄔꃅ, ꉢꀋꄜ ꅉꆏ ꂷꏂꑍꃅꂿꐥ. ꇇꋋꃅꑍ ꁱꂵꆹꀋꐨ. <a href=\"/privacy/#google-analytics\">ꉢꀋ ꇬꂷꐨꑍ</a>",
+    "allow": "ꉌꐥ",
+    "decline": "ꀋꉌ, ꇬꃅꀕ"
   }
 }

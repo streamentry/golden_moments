@@ -536,5 +536,11 @@
     "goodToKnowText": "這個遊戲是為了享受樂趣和共度時光，不會測驗、評量或治療任何事。",
     "moreGames": "更多溫和遊戲",
     "crumb": "遊戲"
+  },
+  "consent": {
+    "label": "統計選擇",
+    "text": "我們可以用 Google Analytics 統計您的造訪嗎？它會儲存 Cookie，讓我們知道哪些頁面有幫助。任何內容都不會用於廣告。 <a href=\"/privacy/#google-analytics\">我們如何使用</a>",
+    "allow": "允許",
+    "decline": "不用了，謝謝"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "He mea hanga tēnei kēmu hei whakangahau, hei noho tahi hoki. Kāore e whakamātau, e whanganga, e rongoā rānei i tētahi mea.",
     "moreGames": "Ētahi atu kēmu māmā",
     "crumb": "Kēmu"
+  },
+  "consent": {
+    "label": "Kōwhiringa tātari",
+    "text": "Ka āhei mātou ki te tatau i tō toronga mā Google Analytics? Ka whakatakoto ia i ngā pihikete e whakaatu ana ki a mātou ko ēhea whārangi e āwhina ana. Kāore he mea e whakamahia ana mō te pānui hokohoko. <a href=\"/privacy/#google-analytics\">Me pēhea mātou e whakamahi ai</a>",
+    "allow": "Whakaaetia",
+    "decline": "Kāo, ka pai"
   }
 }

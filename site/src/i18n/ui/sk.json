@@ -536,5 +536,11 @@
     "goodToKnowText": "Táto hra je na potešenie a spoločný čas. Nič netestuje, nemeria ani nelieči.",
     "moreGames": "Ďalšie pokojné hry",
     "crumb": "Hry"
+  },
+  "consent": {
+    "label": "Voľba štatistík",
+    "text": "Môžeme vašu návštevu započítať pomocou Google Analytics? Ukladá súbory cookie, ktoré nám ukazujú, ktoré stránky pomáhajú. Nič sa nepoužíva na reklamu. <a href=\"/privacy/#google-analytics\">Ako ho používame</a>",
+    "allow": "Povoliť",
+    "decline": "Nie, ďakujem"
   }
 }

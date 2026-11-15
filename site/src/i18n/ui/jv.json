@@ -537,5 +537,11 @@
     "goodToKnowText": "Dolanan menika kangge kasenengan lan wekdal sesarengan. Boten nyoba, ngukur, utawi ngobati punapa-punapa.",
     "moreGames": "Dolanan alus sanesipun",
     "crumb": "Dolanan"
+  },
+  "consent": {
+    "label": "Pilihan analitik",
+    "text": "Punapa kita angsal ngetung kunjungan panjenengan nganggo Google Analytics? Iki nyimpen cookie sing nuduhake marang kita kaca endi sing mbiyantu. Ora ana sing dienggo iklan. <a href=\"/privacy/#google-analytics\">Carane kita nggunakake</a>",
+    "allow": "Idinake",
+    "decline": "Mboten, matur nuwun"
   }
 }

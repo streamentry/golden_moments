@@ -537,5 +537,11 @@
     "goodToKnowText": "Wannan wasa don jin daɗi da zama tare ne. Ba ya gwadawa, aunawa ko magance wani abu.",
     "moreGames": "Ƙarin wasanni masu natsuwa",
     "crumb": "Wasanni"
+  },
+  "consent": {
+    "label": "Zaɓin ƙididdiga",
+    "text": "Za mu iya ƙirga ziyararka da Google Analytics? Yana saka kukis da ke nuna mana waɗanne shafuka ke taimakawa. Ba a amfani da komai don talla. <a href=\"/privacy/#google-analytics\">Yadda muke amfani da shi</a>",
+    "allow": "Bari",
+    "decline": "A'a, na gode"
   }
 }

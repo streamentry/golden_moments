@@ -537,5 +537,11 @@
     "goodToKnowText": "Mae'r gêm hon er mwynhad ac amser gyda'i gilydd. Nid yw'n profi, mesur na thrin unrhyw beth.",
     "moreGames": "Mwy o gemau ysgafn",
     "crumb": "Gemau"
+  },
+  "consent": {
+    "label": "Dewis dadansoddeg",
+    "text": "Gawn ni gyfrif eich ymweliad gyda Google Analytics? Mae'n gosod cwcis sy'n dangos i ni pa dudalennau sy'n helpu. Does dim yn cael ei ddefnyddio ar gyfer hysbysebion. <a href=\"/privacy/#google-analytics\">Sut rydyn ni'n ei ddefnyddio</a>",
+    "allow": "Caniatáu",
+    "decline": "Dim diolch"
   }
 }

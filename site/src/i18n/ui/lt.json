@@ -537,5 +537,11 @@
     "goodToKnowText": "Šis žaidimas skirtas malonumui ir bendram laikui kartu. Jis nieko netikrina, nematuoja ir negydo.",
     "moreGames": "Daugiau ramių žaidimų",
     "crumb": "Žaidimai"
+  },
+  "consent": {
+    "label": "Analitikos pasirinkimas",
+    "text": "Ar galime suskaičiuoti jūsų apsilankymą su Google Analytics? Jis įrašo slapukus, kurie mums parodo, kurie puslapiai padeda. Niekas nenaudojama reklamai. <a href=\"/privacy/#google-analytics\">Kaip jį naudojame</a>",
+    "allow": "Leisti",
+    "decline": "Ne, ačiū"
   }
 }

@@ -536,5 +536,11 @@
     "goodToKnowText": "Ta igra je za veselje in skupni čas. Ničesar ne preverja, ne meri in ne zdravi.",
     "moreGames": "Več nežnih iger",
     "crumb": "Igre"
+  },
+  "consent": {
+    "label": "Izbira analitike",
+    "text": "Ali lahko vaš obisk preštejemo z Google Analytics? Shrani piškotke, ki nam pokažejo, katere strani pomagajo. Nič se ne uporablja za oglase. <a href=\"/privacy/#google-analytics\">Kako ga uporabljamo</a>",
+    "allow": "Dovoli",
+    "decline": "Ne, hvala"
   }
 }

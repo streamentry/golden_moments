@@ -537,5 +537,11 @@
     "goodToKnowText": "Jeux so ayeke ti ye ti nzoni nga ti ngoi ti gbele ti ala. A kua ti tâ ye, a kua ti ngbâ, nga a kua ti zia ngangu.",
     "moreGames": "Jeux ti nzoni ti ngangu",
     "crumb": "Jeux"
+  },
+  "consent": {
+    "label": "Soro tî analytics",
+    "text": "Âla mû lege tî diko gango tî mo na Google Analytics? Lo zia acookie so afa na ë ambeti so amû maboko. Ye oko ayeke tambula pëpe ndali tî piblisitê. <a href=\"/privacy/#google-analytics\">Lege so e sâra kua na ni</a>",
+    "allow": "Mû lege",
+    "decline": "Ên-ën, singila"
   }
 }

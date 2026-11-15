@@ -537,5 +537,11 @@
     "goodToKnowText": "Egwuregwu a bụ maka obi ụtọ na ịnọ ọnụ. Ọ naghị anwale, tụọ ma ọ bụ agwọ ihe ọ bụla.",
     "moreGames": "Egwuregwu dị nwayọọ ndị ọzọ",
     "crumb": "Egwuregwu"
+  },
+  "consent": {
+    "label": "Nhọrọ nyocha",
+    "text": "Ànyị nwere ike iji Google Analytics gụọ nleta gị? Ọ na-etinye kuki ndị na-egosi anyị ibe ndị na-enyere aka. Ọ dịghị ihe a na-eji maka mgbasa ozi. <a href=\"/privacy/#google-analytics\">Otu anyị si eji ya</a>",
+    "allow": "Kwe",
+    "decline": "Mba, daalụ"
   }
 }

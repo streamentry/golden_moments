@@ -537,5 +537,11 @@
     "goodToKnowText": "Tá an cluiche seo le haghaidh taitneamh agus am le chéile. Ní dhéanann sé aon rud a thástáil, a thomhas nó a chóireáil.",
     "moreGames": "Cluichí níos éadroime",
     "crumb": "Cluichí"
+  },
+  "consent": {
+    "label": "Rogha anailísíochta",
+    "text": "An féidir linn do chuairt a chomhaireamh le Google Analytics? Socraíonn sé fianáin a thaispeánann dúinn cé na leathanaigh a chabhraíonn. Ní úsáidtear aon rud le haghaidh fógraí. <a href=\"/privacy/#google-analytics\">Conas a úsáidimid é</a>",
+    "allow": "Ceadaigh",
+    "decline": "Níl, go raibh maith agat"
   }
 }

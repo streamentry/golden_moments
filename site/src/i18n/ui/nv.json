@@ -537,5 +537,11 @@
     "goodToKnowText": "Díí game bee yee' nááhojí dooda ałnáanii nááhoot'éé ałtsoʼ. Ałtsoʼ bąąh dooda bee nídaaʼ, dooda bee ałtsoʼ nídaaʼ.",
     "moreGames": "Ałtsoʼ bee nítsʼóósgo games",
     "crumb": "Games"
+  },
+  "consent": {
+    "label": "Analytics bee naʼídíkid",
+    "text": "Google Analytics bee nikéyah yíníkaigo nániltaʼ daʼ? Cookies yeeʼ niłnáʼ, áłtsé naaltsoos haʼátʼíí bee anáʼálwoʼ daʼ nihił ííshjání áyiilaah. Tʼáá nidaʼídíiłkaahgóó doo choʼoonííł da. <a href=\"/privacy/#google-analytics\">Haʼátʼíí bee choʼííníiʼį́</a>",
+    "allow": "Bee ádíníigo",
+    "decline": "Dooda, ahéheeʼ"
   }
 }

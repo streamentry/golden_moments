@@ -537,5 +537,11 @@
     "goodToKnowText": "Una ulapqin aliñaigutiqaqtuaq suli atautchikun ittuagiksuaq. Sunamik uuktuaŋitkaa, qauyisaaġinritkaa naagga iñuunniqsautinritkaa.",
     "moreGames": "Ilaanik sukkaitkuat ulapqich",
     "crumb": "Ulapqich"
+  },
+  "consent": {
+    "label": "Analytics piksaqtuun",
+    "text": "Kisitchaġniaġiviñ tikiññaġmiñ Google Analytics atuqlugu? Cookies-nik iḷiḷġaqtuq qiḷiġuuraŋa uvaptiknun sumiḷiq makpiġaat ikayuutiluktiŋ. Suna atuġnaitchuq tuniḷaagniun. <a href=\"/privacy/#google-analytics\">Qanuq atuqtilaaput</a>",
+    "allow": "Suġuuraŋ",
+    "decline": "Nauŋŋitchuq, quyanaq"
   }
 }

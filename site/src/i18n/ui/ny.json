@@ -537,5 +537,11 @@
     "goodToKnowText": "Masewerawa ndi a zosangalatsa ndi nthawi yocheza limodzi. Sayesa, siyeza kapena kuchiza chilichonse.",
     "moreGames": "Masewera ena ofatsa",
     "crumb": "Masewera"
+  },
+  "consent": {
+    "label": "Kusankha kwa kusanthula",
+    "text": "Kodi tingawerenge ulendo wanu ndi Google Analytics? Imaika ma cookie omwe amatiwonetsa masamba omwe amathandiza. Palibe chomwe chimagwiritsidwa ntchito pa zotsatsa. <a href=\"/privacy/#google-analytics\">Momwe timagwiritsira ntchito</a>",
+    "allow": "Lolezani",
+    "decline": "Ayi, zikomo"
   }
 }

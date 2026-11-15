@@ -537,5 +537,11 @@
     "goodToKnowText": "Iste joco es pro le placer e pro passar tempore insimul. Illo non testa, non mesura e non tracta nihil.",
     "moreGames": "Plus de jocos tranquille",
     "crumb": "Jocos"
+  },
+  "consent": {
+    "label": "Selection de analyse",
+    "text": "Pote nos contar vostre visita con Google Analytics? Illo pone cookies que nos monstra qual paginas adjuta. Nihil es usate pro publicitate. <a href=\"/privacy/#google-analytics\">Como nos lo usa</a>",
+    "allow": "Permitter",
+    "decline": "No, gratias"
   }
 }

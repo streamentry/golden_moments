@@ -537,5 +537,11 @@
     "goodToKnowText": "See mäng on mõeldud nautimiseks ja koos veetmiseks. See ei testi, mõõda ega ravi midagi.",
     "moreGames": "Rohkem õrnaid mänge",
     "crumb": "Mängud"
+  },
+  "consent": {
+    "label": "Analüütika valik",
+    "text": "Kas tohime teie külastust Google Analyticsiga loendada? See salvestab küpsiseid, mis näitavad meile, millised lehed aitavad. Midagi ei kasutata reklaamiks. <a href=\"/privacy/#google-analytics\">Kuidas me seda kasutame</a>",
+    "allow": "Luba",
+    "decline": "Ei, aitäh"
   }
 }

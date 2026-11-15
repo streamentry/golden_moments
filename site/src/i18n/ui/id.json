@@ -536,5 +536,11 @@
     "goodToKnowText": "Permainan ini untuk kesenangan dan kebersamaan. Permainan ini tidak menguji, mengukur, atau mengobati apa pun.",
     "moreGames": "Permainan lembut lainnya",
     "crumb": "Permainan"
+  },
+  "consent": {
+    "label": "Pilihan analitik",
+    "text": "Bolehkah kami menghitung kunjungan Anda dengan Google Analytics? Ini menyimpan cookie yang menunjukkan kepada kami halaman mana yang membantu. Tidak ada yang dipakai untuk iklan. <a href=\"/privacy/#google-analytics\">Cara kami menggunakannya</a>",
+    "allow": "Izinkan",
+    "decline": "Tidak, terima kasih"
   }
 }

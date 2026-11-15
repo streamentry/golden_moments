@@ -536,5 +536,11 @@
     "goodToKnowText": "Ez a játék az élvezetre és az együtt töltött időre való. Nem tesztel, nem mér és nem kezel semmit.",
     "moreGames": "További nyugodt játékok",
     "crumb": "Játékok"
+  },
+  "consent": {
+    "label": "Statisztikai döntés",
+    "text": "Megszámolhatjuk a látogatását a Google Analyticsszel? Sütiket helyez el, amelyek megmutatják nekünk, mely oldalak segítenek. Semmit nem használunk hirdetésre. <a href=\"/privacy/#google-analytics\">Hogyan használjuk</a>",
+    "allow": "Engedélyezem",
+    "decline": "Köszönöm, nem"
   }
 }

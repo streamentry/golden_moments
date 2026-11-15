@@ -537,5 +537,11 @@
     "goodToKnowText": "Dëst Spill ass fir Freed a gemeinsam Zäit geduecht. Et test, moosst oder behandelt näischt.",
     "moreGames": "Méi roueg Spiller",
     "crumb": "Spiller"
+  },
+  "consent": {
+    "label": "Wiel fir Statistiken",
+    "text": "Däerfe mir Äre Besuch mat Google Analytics zielen? Et späichert Cookien, déi eis weisen, wéi eng Säiten hëllefen. Näischt gëtt fir Reklamm benotzt. <a href=\"/privacy/#google-analytics\">Wéi mir et benotzen</a>",
+    "allow": "Erlaben",
+    "decline": "Nee merci"
   }
 }

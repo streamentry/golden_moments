@@ -159,7 +159,8 @@ for (const file of htmlFiles) {
     if (/noindex/.test(html) && /rel="alternate" hreflang=/.test(html)) err(rel, 'noindex page lists hreflang alternates');
 
     if (/(^|\/)games\/photo-pairs\/$/.test(path)) {
-      if (/googletagmanager\.com\/gtag\/js/.test(html)) err(rel, 'Photo pairs loads Google Analytics');
+      // The loader now sits in a bundled script, so also look for the component's markup.
+      if (/googletagmanager\.com\/gtag\/js|data-consent\b/.test(html)) err(rel, 'Photo pairs loads Google Analytics');
       if (!strictPolicy(path)) err(rel, 'Photo pairs has no strict Content-Security-Policy rule in _headers');
     }
 

@@ -537,5 +537,11 @@
     "goodToKnowText": "Ar c'hoari-mañ a zo evit ar blijadur hag an amzer asambles. Ne amprouiñ, muzuliañ pe tretañ netra.",
     "moreGames": "C'hoarioù dousoc'h",
     "crumb": "C'hoarioù"
+  },
+  "consent": {
+    "label": "Dibab an dielfennañ",
+    "text": "Ha gallout a reomp kontañ ho kweladenn gant Google Analytics? Lakaat a ra toupinoù a ziskouez deomp peseurt pajennoù a sikour. Netra n'eo implijet evit ar bruderezh. <a href=\"/privacy/#google-analytics\">Penaos e implijomp anezhañ</a>",
+    "allow": "Aotren",
+    "decline": "Ket, trugarez"
   }
 }

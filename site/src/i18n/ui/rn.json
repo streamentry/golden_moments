@@ -537,5 +537,11 @@
     "goodToKnowText": "Uru rukino rugamije kunezerwa no kumarana umwanya hamwe gusa. Ntirupima, ntirugera canke ngo ruvure ikintu na kimwe.",
     "moreGames": "Iyindi mikino ituje",
     "crumb": "Imikino"
+  },
+  "consent": {
+    "label": "Uguhitamwo kw'isesengura",
+    "text": "Twoshobora guharura urugendo rwawe dukoresheje Google Analytics? Ishiraho cookies zitwereka impapuro zifasha. Nta kintu gikoreshwa mu kwamamaza. <a href=\"/privacy/#google-analytics\">Ingene tuyikoresha</a>",
+    "allow": "Emera",
+    "decline": "Oya, murakoze"
   }
 }

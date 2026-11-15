@@ -537,5 +537,11 @@
     "goodToKnowText": "Para sa kasiyahan at pagsasama ang larong ito. Wala itong sinusubok, sinusukat o ginagamot.",
     "moreGames": "Higit pang banayad na laro",
     "crumb": "Mga laro"
+  },
+  "consent": {
+    "label": "Pagpili sa analytics",
+    "text": "Puwede ba naming bilangin ang pagbisita mo gamit ang Google Analytics? Naglalagay ito ng cookies na nagpapakita sa amin kung aling mga pahina ang nakatutulong. Walang ginagamit para sa ads. <a href=\"/privacy/#google-analytics\">Paano namin ito ginagamit</a>",
+    "allow": "Payagan",
+    "decline": "Huwag na, salamat"
   }
 }

@@ -536,5 +536,11 @@
     "goodToKnowText": "Questo gioco serve per divertirsi e passare del tempo insieme. Non mette alla prova, non misura e non cura nulla.",
     "moreGames": "Altri giochi tranquilli",
     "crumb": "Giochi"
+  },
+  "consent": {
+    "label": "Scelta sulle statistiche",
+    "text": "Possiamo contare la sua visita con Google Analytics? Imposta cookie che ci mostrano quali pagine aiutano. Nulla viene usato per la pubblicità. <a href=\"/privacy/#google-analytics\">Come lo usiamo</a>",
+    "allow": "Consenti",
+    "decline": "No, grazie"
   }
 }

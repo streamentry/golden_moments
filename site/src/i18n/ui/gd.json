@@ -537,5 +537,11 @@
     "goodToKnowText": "Tha an geama seo airson tlachd agus ùine còmhla. Chan eil e a 'dèanamh deuchainn, a' tomhas no a 'làimhseachadh rud sam bith.",
     "moreGames": "Geamannan nas miosa",
     "crumb": "Geamannan"
+  },
+  "consent": {
+    "label": "Roghainn anailis",
+    "text": "Am faod sinn do thadhal a chunntadh le Google Analytics? Cuiridh e briosgaidean a sheallas dhuinn dè na duilleagan a chuidicheas. Cha tèid càil a chleachdadh airson sanasachd. <a href=\"/privacy/#google-analytics\">Mar a chleachdas sinn e</a>",
+    "allow": "Ceadaich",
+    "decline": "Chan eil, mòran taing"
   }
 }

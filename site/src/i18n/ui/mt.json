@@ -537,5 +537,11 @@
     "goodToKnowText": "Din il-logħba hija għall-gost u biex tqattgħu ħin flimkien. Ma tittestja, ma tkejjel u ma tikkura xejn.",
     "moreGames": "Aktar logħob ġentili",
     "crumb": "Logħob"
+  },
+  "consent": {
+    "label": "Għażla tal-analitika",
+    "text": "Nistgħu ngħoddu ż-żjara tiegħek b'Google Analytics? Jpoġġi cookies li juruna liema paġni jgħinu. Xejn ma jintuża għar-reklami. <a href=\"/privacy/#google-analytics\">Kif nużawh</a>",
+    "allow": "Ippermetti",
+    "decline": "Le, grazzi"
   }
 }

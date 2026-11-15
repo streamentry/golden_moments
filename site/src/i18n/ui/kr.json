@@ -537,5 +537,11 @@
     "goodToKnowText": "Kəriwu adə nəmngəwuro kuru sa kəla kəlro gənawabe ro. Shidən abi yayi jərajinba, daptinba kuru kurgun sanyi.",
     "moreGames": "Kəriwu kəskədə gadewa",
     "crumb": "Kəriwuwa"
+  },
+  "consent": {
+    "label": "Analytics kəlanzə",
+    "text": "Nəmgə Google Analytics-ye kəla tawandə? Cookies kanjin, shafi dəga nəmzəmba kəmbuwa nəmye. Awoma talla rǝ ngəlaro. <a href=\"/privacy/#google-analytics\">Adǝ kǝnyi ngǝlaro</a>",
+    "allow": "Yimbə",
+    "decline": "Ago, nǝm kǝrǝwa"
   }
 }

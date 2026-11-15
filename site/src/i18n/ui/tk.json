@@ -537,5 +537,11 @@
     "goodToKnowText": "Bu oýun lezzet almak we bile geçirilen wagt üçin niýetlenendir. Hiç zady synamaýar, ölçemeýär we bejermeýär.",
     "moreGames": "Ýumşak oýunlar köp",
     "crumb": "Oýunlar"
+  },
+  "consent": {
+    "label": "Analitika saýlawy",
+    "text": "Saparyňyzy Google Analytics bilen sanap bilermizmi? Ol haýsy sahypalaryň peýdaly bolýandygyny görkezýän kukileri goýýar. Hiç zat mahabat üçin ulanylmaýar. <a href=\"/privacy/#google-analytics\">Ony nähili ulanýarys</a>",
+    "allow": "Rugsat ber",
+    "decline": "Ýok, sag boluň"
   }
 }

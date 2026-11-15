@@ -537,5 +537,11 @@
     "goodToKnowText": "Kaulinan ieu kanggo kasenangan sareng waktu babarengan. Éta teu nguji, ngukur atanapi ngubaran nanaon.",
     "moreGames": "Langkung seueur kaulinan lemah-lembut",
     "crumb": "Kaulinan"
+  },
+  "consent": {
+    "label": "Pilihan analitik",
+    "text": "Naha urang tiasa ngitung kunjungan anjeun ku Google Analytics? Ieu nyimpen cookie anu nunjukkeun ka urang kaca mana anu ngabantu. Teu aya anu dianggo pikeun iklan. <a href=\"/privacy/#google-analytics\">Kumaha urang ngagunakeunana</a>",
+    "allow": "Idinan",
+    "decline": "Henteu, hatur nuhun"
   }
 }

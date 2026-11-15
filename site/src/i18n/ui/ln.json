@@ -537,5 +537,11 @@
     "goodToKnowText": "Lisano oyo ezali mpo na kosepela mpe kolekisa ntango elongo. Emekaka eloko te, emekaka bɔɔngɔ te mpe esalisaka bokono moko te.",
     "moreGames": "Masano mosusu ya pete",
     "crumb": "Masano"
+  },
+  "consent": {
+    "label": "Kopona analytics",
+    "text": "Tokoki kotánga botali na yo na Google Analytics? Etyaka ba-cookies oyo emonisaka biso nkásá nini esalisaka. Eloko moko te esalelamaka mpo na piblisité. <a href=\"/privacy/#google-analytics\">Ndenge tosalelaka yango</a>",
+    "allow": "Pesa nzela",
+    "decline": "Te, matondi"
   }
 }

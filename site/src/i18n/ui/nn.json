@@ -537,5 +537,11 @@
     "goodToKnowText": "Dette spelet er til for hygge og samvær. Det verken testar, måler eller behandlar noko som helst.",
     "moreGames": "Fleire rolege spel",
     "crumb": "Spel"
+  },
+  "consent": {
+    "label": "Val om statistikk",
+    "text": "Kan vi telje besøket ditt med Google Analytics? Det set informasjonskapslar som viser oss kva sider som hjelper. Ingenting blir brukt til reklame. <a href=\"/privacy/#google-analytics\">Slik bruker vi det</a>",
+    "allow": "Tillat",
+    "decline": "Nei takk"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Ci djeu ci est fwait po passer on bon moumint et s' amuser eshonne. I n' fwait pont d' test, i n' mezeure rin et n' médeye rin.",
     "moreGames": "Pus d' doûs djes",
     "crumb": "Djes"
+  },
+  "consent": {
+    "label": "Tchoes po les statistikes",
+    "text": "Polans nos conter vosse vizite avou Google Analytics? I mete des coûkes ki nos mostrèt kés pådjes aidèt. Rén n' est eployî po les reclames. <a href=\"/privacy/#google-analytics\">Kimint nos l' eployans</a>",
+    "allow": "Permete",
+    "decline": "Nén, merci"
   }
 }

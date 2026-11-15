@@ -537,5 +537,11 @@
     "goodToKnowText": "Custu giogu est pro gosu e pro istare impare. No proat, no misurat e no curat nudda.",
     "moreGames": "Àteros giogos dolches",
     "crumb": "Giogos"
+  },
+  "consent": {
+    "label": "Issèberu de s'anàlisi",
+    "text": "Podimus contare sa bisita tua cun Google Analytics? Ponet cookies chi nos mustrant cales pàginas agiudant. Nudda benit impreadu pro sa publitzidade. <a href=\"/privacy/#google-analytics\">Comente dd'impreamus</a>",
+    "allow": "Permite",
+    "decline": "Nono, gràtzias"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Game leyi yi ya tsakisa na ku chava nkarhi swin’we. A yi ringeti, a yi alaleli kumbe a yi vuyisi nchumu.",
     "moreGames": "Mitlangu yo tsakisa yo engetela",
     "crumb": "Mitlangu"
+  },
+  "consent": {
+    "label": "Nhlawulo wa nxopaxopo",
+    "text": "Xana hi nga hlayela ku endzela ka wena hi Google Analytics? Yi veka ti-cookie leti hi kombaka leswaku i matluka wahi lama pfunaka. Ku hava nchumu lowu tirhisiwaka eka swikhangiso. <a href=\"/privacy/#google-analytics\">Ndlela leyi hi yi tirhisaka ha yona</a>",
+    "allow": "Pfumelela",
+    "decline": "E-e, ndza khensa"
   }
 }

@@ -536,5 +536,11 @@
     "goodToKnowText": "Eré yìí wà fún ìgbádùn àti àkókò papọ̀. Kì í dán nǹkan wò, wọn tàbí tọ́jú.",
     "moreGames": "Àwọn eré jẹ́ẹ́jẹ́ẹ́ sí i",
     "crumb": "Àwọn eré"
+  },
+  "consent": {
+    "label": "Àṣàyàn ìtúpalẹ̀",
+    "text": "Ṣé a lè ka ìbẹ̀wò yín pẹ̀lú Google Analytics? Ó máa ń fi cookies sílẹ̀ tí ó ń fi àwọn ojú-ewé tó ń ṣèrànwọ́ hàn wá. A kò lo nǹkankan fún ìpolówó. <a href=\"/privacy/#google-analytics\">Bí a ṣe ń lò ó</a>",
+    "allow": "Gbà á láàyè",
+    "decline": "Rárá o, ẹ ṣé"
   }
 }

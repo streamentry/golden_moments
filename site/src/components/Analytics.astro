@@ -1,29 +1,144 @@
 ---
 /**
- * Google Analytics 4 (gtag.js), approved by the maintainer on 2026-10-25.
- * The loader is allowed by the CSP in astro.config.mjs and public/_headers;
- * the config runs as a bundled script so the hash-based CSP needs no change.
- * Google signals and ad personalization are off: this is a health-adjacent
- * site, so visits must not feed advertising profiles. Not rendered on Photo
- * pairs, which keeps a no-third-party policy for family photos.
+ * Google Analytics 4 (gtag.js), approved by the maintainer on 2026-10-25, with
+ * a consent choice in the EEA, the UK and Switzerland (see src/lib/consent.ts).
+ *
+ * Basic consent: where consent is needed, gtag.js is not requested and no
+ * Analytics cookie is set until the visitor chooses "Allow". Elsewhere it
+ * loads as before. Google signals and ad personalization stay off: this is a
+ * health-adjacent site, so visits must not feed advertising profiles. Not
+ * rendered on Photo pairs, which keeps a no-third-party policy for family photos.
+ *
+ * The choice sits in the page flow under the header, never over the content,
+ * with two equal buttons. Any element with `data-analytics-choice` (the privacy
+ * notice has one) shows it again so a choice can be changed.
  */
-import { SITE } from '../lib/site';
+import { ui } from '../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+const t = ui(Astro.props.lang).consent;
 ---
-<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.gaMeasurementId}`}></script>
+<aside class="consent" aria-label={t.label} data-consent hidden>
+  <div class="container consent__inner">
+    <p class="consent__text" set:html={t.text} />
+    <div class="btn-row">
+      <button type="button" class="btn" data-consent-choice="granted">{t.allow}</button>
+      <button type="button" class="btn" data-consent-choice="denied">{t.decline}</button>
+    </div>
+  </div>
+</aside>
 <script>
   import { SITE } from '../lib/site';
+  import {
+    analyticsCookieNames,
+    countryFromTrace,
+    decide,
+    expireCookieStrings,
+    readChoice,
+    saveChoice,
+    type Choice,
+  } from '../lib/consent';
 
   type Gtag = (...args: unknown[]) => void;
-  const w = window as unknown as { dataLayer: unknown[]; gtag: Gtag };
-  w.dataLayer = w.dataLayer || [];
-  // gtag.js expects the Arguments object itself, so this cannot be an arrow function.
-  w.gtag = function gtag() {
-    // eslint-disable-next-line prefer-rest-params
-    w.dataLayer.push(arguments);
+  const w = window as unknown as { dataLayer?: unknown[]; gtag?: Gtag } & Record<string, unknown>;
+  const id = SITE.gaMeasurementId;
+  const banner = document.querySelector<HTMLElement>('[data-consent]');
+  let loaded = false;
+
+  const storage = (): Storage | undefined => {
+    try {
+      return window.localStorage;
+    } catch {
+      return undefined;
+    }
   };
-  w.gtag('js', new Date());
-  w.gtag('config', SITE.gaMeasurementId, {
-    allow_google_signals: false,
-    allow_ad_personalization_signals: false,
+
+  function load() {
+    w[`ga-disable-${id}`] = false;
+    if (loaded) {
+      w.gtag?.('consent', 'update', { analytics_storage: 'granted' });
+      return;
+    }
+    loaded = true;
+    w.dataLayer = w.dataLayer || [];
+    // gtag.js expects the Arguments object itself, so this cannot be an arrow function.
+    w.gtag = function gtag() {
+      // eslint-disable-next-line prefer-rest-params
+      w.dataLayer!.push(arguments);
+    };
+    // Analytics only: every advertising purpose stays denied.
+    w.gtag('consent', 'default', {
+      analytics_storage: 'granted',
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+    });
+    w.gtag('js', new Date());
+    w.gtag('config', id, {
+      allow_google_signals: false,
+      allow_ad_personalization_signals: false,
+    });
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = `https://www.googletagmanager.com/gtag/js?id=${id}`;
+    document.head.append(script);
+  }
+
+  function stop() {
+    // Google's documented switch: gtag sends nothing more on this page.
+    w[`ga-disable-${id}`] = true;
+    w.gtag?.('consent', 'update', { analytics_storage: 'denied' });
+    for (const name of analyticsCookieNames(document.cookie)) {
+      for (const cookie of expireCookieStrings(name, location.hostname)) document.cookie = cookie;
+    }
+  }
+
+  function show() {
+    if (banner) banner.hidden = false;
+  }
+
+  function choose(choice: Choice) {
+    saveChoice(storage(), choice);
+    if (choice === 'granted') load();
+    else stop();
+    if (!banner) return;
+    const hadFocus = banner.contains(document.activeElement);
+    banner.hidden = true;
+    // Focus would otherwise fall back to the top of the page.
+    if (hadFocus) document.getElementById('main')?.focus({ preventScroll: true });
+  }
+
+  async function country(): Promise<string | null> {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 4000);
+    try {
+      const response = await fetch('/cdn-cgi/trace', { cache: 'no-store', signal: controller.signal });
+      return response.ok ? countryFromTrace(await response.text()) : null;
+    } catch {
+      return null;
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
+  for (const button of banner?.querySelectorAll<HTMLButtonElement>('[data-consent-choice]') ?? []) {
+    button.addEventListener('click', () => choose(button.dataset.consentChoice === 'granted' ? 'granted' : 'denied'));
+  }
+  for (const opener of document.querySelectorAll<HTMLElement>('[data-analytics-choice]')) {
+    opener.hidden = false;
+    opener.addEventListener('click', () => {
+      show();
+      banner?.querySelector<HTMLButtonElement>('[data-consent-choice]')?.focus();
+    });
+  }
+
+  const saved = readChoice(storage());
+  // A saved choice needs no country lookup.
+  void (saved ? Promise.resolve(null) : country()).then((code) => {
+    const decision = decide(saved, code);
+    if (decision === 'load') load();
+    else if (decision === 'ask') show();
   });
 </script>

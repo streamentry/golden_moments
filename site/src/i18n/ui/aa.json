@@ -537,5 +537,11 @@
     "goodToKnowText": "Ta digir ruftoo kee sittalih wakti. Is walim mafokkaqta, maqakkanaay, madaylissa.",
     "moreGames": "mango xabcin digiritte",
     "crumb": "Digiritte"
+  },
+  "consent": {
+    "label": "Analytics doorto",
+    "text": "Google Analytics-hal ku safar lowwo nan? Cookies-ti anu ayti page faydah lih kinniimiy nee yoysseh. Inkinnah ads-hat mafaddaliyya. <a href=\"/privacy/#google-analytics\">Ni tet faddalnam</a>",
+    "allow": "Ayyaw",
+    "decline": "Maleh, mahisa"
   }
 }

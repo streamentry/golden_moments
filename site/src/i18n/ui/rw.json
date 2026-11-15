@@ -537,5 +537,11 @@
     "goodToKnowText": "Uyu mukino ugenewe kwishimisha no kumarana igihe. Nta kintu ugerageza, ugereranya cyangwa uvura.",
     "moreGames": "Indi mikino yoroheje",
     "crumb": "Imikino"
+  },
+  "consent": {
+    "label": "Guhitamo isesengura",
+    "text": "Twabara uruzinduko rwawe dukoresheje Google Analytics? Ishyiraho cookies zitwereka impapuro zifasha. Nta kintu gikoreshwa mu kwamamaza. <a href=\"/privacy/#google-analytics\">Uko tuyikoresha</a>",
+    "allow": "Emera",
+    "decline": "Oya, murakoze"
   }
 }

@@ -536,5 +536,11 @@
     "goodToKnowText": "Acest joc este pentru plăcere și timp petrecut împreună. Nu testează, nu măsoară și nu tratează nimic.",
     "moreGames": "Mai multe jocuri blânde",
     "crumb": "Jocuri"
+  },
+  "consent": {
+    "label": "Alegere privind statisticile",
+    "text": "Putem număra vizita dumneavoastră cu Google Analytics? Plasează cookie-uri care ne arată ce pagini ajută. Nimic nu este folosit pentru reclame. <a href=\"/privacy/#google-analytics\">Cum îl folosim</a>",
+    "allow": "Permite",
+    "decline": "Nu, mulțumesc"
   }
 }

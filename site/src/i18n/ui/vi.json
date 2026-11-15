@@ -536,5 +536,11 @@
     "goodToKnowText": "Trò chơi này là để vui và có thời gian bên nhau. Trò chơi không kiểm tra, đo lường hay điều trị bất cứ điều gì.",
     "moreGames": "Thêm trò chơi nhẹ nhàng",
     "crumb": "Trò chơi"
+  },
+  "consent": {
+    "label": "Lựa chọn về thống kê",
+    "text": "Chúng tôi có thể đếm lượt ghé thăm của Bạn bằng Google Analytics không? Công cụ này lưu cookie cho chúng tôi biết trang nào hữu ích. Không có gì được dùng cho quảng cáo. <a href=\"/privacy/#google-analytics\">Cách chúng tôi sử dụng</a>",
+    "allow": "Cho phép",
+    "decline": "Không, cảm ơn"
   }
 }

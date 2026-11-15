@@ -537,5 +537,11 @@
     "goodToKnowText": "Omuzannyo guno guliwo lwa ssanyu n'okumalira ebiseera awamu. Tegukebera, tegupima wadde okujjanjaba kintu kyonna.",
     "moreGames": "Emizannyo emirala egy'emirembe",
     "crumb": "Emizannyo"
+  },
+  "consent": {
+    "label": "Okulonda kw'okwekenneenya",
+    "text": "Tuyinza okubala okukyala kwo nga tukozesa Google Analytics? Kiteeka cookies ezitulaga empapula eziyamba. Tewali kikozesebwa mu kulanga. <a href=\"/privacy/#google-analytics\">Engeri gye tukikozesaamu</a>",
+    "allow": "Kkiriza",
+    "decline": "Nedda, webale"
   }
 }
