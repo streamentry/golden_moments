@@ -891,10 +891,10 @@ This separate engineering audit records automated mobile rendering and maintenan
 
 | Check | Evidence | Result |
 |---|---|---|
-| Source fit | The Alzheimer's Society advises reducing distractions when that helps a person concentrate. The HTML Standard defines the page visibility state and its `visibilitychange` event. | Preventing a missed hidden-state event is an engineering inference, not a clinical outcome. |
+| Source fit | The Alzheimer's Society advises reducing distractions when that helps a person concentrate. The HTML Standard defines page visibility and dispatches an event when it changes. | Preventing a missed hidden-state event is an engineering inference, not a clinical outcome. |
 | Existing gap | Round 103 attached its listener only after React observed active speech. Speech starts in the button handler, while React installs effects afterward, leaving a short interval where a hide event could be missed. | Narration could keep running if the tab became hidden in that interval. |
 | Change | A visibility listener now attaches when browser speech is detected, before the Read Aloud button renders. A ref tracks whether narration is active; a hidden event cancels it and clears the Stop state. It does not resume automatically. | No UI copy, storage, permissions, network requests or telemetry changed. |
-| Regression tests | `readAloud.test.ts` verifies the listener is present while idle, a hidden change cancels later active speech, inactive narration is left alone, and cleanup removes the listener. | 17 focused tests pass. |
+| Regression tests | Unit tests verify the listener is present while idle, a hidden change cancels later active speech, inactive narration is left alone, and cleanup removes the listener. | 17 focused tests pass. |
 | Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
 | Local checks | `pnpm --dir site verify`: 767 tests, 16,717 pages built, `check-site` 0 errors and 575 warnings; `pnpm --dir site exec tsc --noEmit`; Python discovery (138 tests); release metadata check; `git diff --check`. | Pass locally under Node 22.14.0, below the site's declared minimum of 22.22.0. `flutter` and `dart` executables were unavailable, so Flutter analysis, format and test commands could not run. |
 | Implementation commit | `baf9f108` | Listener setup, state ref and regression coverage on `codex/round-104-readaloud-visibility-setup`. |
