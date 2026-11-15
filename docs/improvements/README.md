@@ -253,5 +253,6 @@ evidence are in [TRACKING.md](TRACKING.md) and [sources.md](sources.md).
 
 The coloring finish tone now plays only when a page first becomes complete.
 Further color edits keep the ordinary tap sound without repeating the finish
-chime. No fixed text or locale files changed. Details and evidence are in
+chime. It merged as PR #255 (`285b9c0`) after the Website and required PR
+checks passed. No fixed text or locale files changed. Details and evidence are in
 [TRACKING.md](TRACKING.md) and [sources.md](sources.md).

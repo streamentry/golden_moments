@@ -846,5 +846,6 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
 | Local checks | Focused Vitest (`coloring-progress.test.ts`, `Coloring.test.ts`); `tsc --noEmit`; scoped `git diff --check`. | Pass. |
 | Implementation commit | `0b2bffa2` | Website Coloring and progress transition helper. |
-| Hosted checks | Pending on PR head. | Merge only after the Website workflow and all required PR checks pass. |
+| Merge | PR #255 as `285b9c0` | Squash-merged after required checks passed. |
+| Hosted checks | PR #255 head `54f5efc4`: Website coverage gates, unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, browser visual, app-copy, spelling and semantic checks passed; PR deploy was skipped. | Pass. |
 | Not verified | No browser audio, caregiver or participant review was run. | The sound change is a code-level correction, not evidence of a user outcome. |

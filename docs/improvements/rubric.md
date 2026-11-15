@@ -386,6 +386,8 @@ dimension at **9.37**; do not infer an aggregate score change from this gate.
 Coloring now plays its completion chime only on the transition from unfinished
 to finished. Repainting an already finished page still gives ordinary tap
 feedback without replaying the longer cue. No text or locale files changed;
-the focused tests and TypeScript check pass. Keep the last measured
+the focused tests and TypeScript check pass. Hosted Website, targeted Flutter,
+browser and other required PR checks also pass. No user audio review was run.
+Keep the last measured
 repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer
 an aggregate score change from this narrow sound correction.
