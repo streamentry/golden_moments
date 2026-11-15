@@ -22,8 +22,6 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | Partial app-locale batch (#246) | Three app locales added; PR merged as `96da672` under a maintainer exception. | Machine-translated, unreviewed, 117/185 app locales total; partial and not counted toward full-language coverage. |
 | 98 | Changed app ARB coverage gate | No end-user copy changed. CI now requires every changed app message key in all 185 registry codes; translation quality remains a human/native review task. |
 | 99 | Suppress optional website game tones during Read Aloud | No fixed text or locale files changed. The full-language count remains 3/500. |
-| 99 | Suppress website game tones during Read Aloud | No fixed copy or locale files changed. The 185-language coverage count remains 3/500. |
-| 99 | Keep spoken guidance clear during website activities | No fixed copy or locale files changed. Suppresses game tones while browser Read Aloud is active. |
 
 ---
 
