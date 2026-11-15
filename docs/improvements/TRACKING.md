@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 103 / 500 implemented**
+**Source improvements: 104 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -26,6 +26,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 101 | Play the coloring completion sound only on the first completion transition | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 102 | Keep Read Aloud active while speech is queued | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 103 | Stop queued or active Read Aloud when the page is hidden | No fixed text or locale files changed. The full-language count remains 3/500. |
+| 104 | Install Read Aloud visibility handling before speech can start | No fixed text or locale files changed. The full-language count remains 3/500. |
 
 ---
 
@@ -100,7 +101,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 101 | One completion chime per coloring completion | Implemented; no fixed text changed. |
 | 102 | Treat queued browser speech as active | Implemented; no fixed text changed. |
 | 103 | Stop Read Aloud on page hide | Implemented; no fixed text changed. |
-| 104–500 | Planned one by one | Pending |
+| 104 | Install the visibility listener before Read Aloud is available | Implemented; no fixed text changed. |
+| 105–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -884,3 +886,18 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Merge | PR #260 as `0774f6ff` | Squash-merged after required checks passed. |
 | Hosted checks | PR #260 head `53eb6d5e`: Website coverage gates, site unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, browser visual, app-copy, spelling and semantic checks passed; PR deploy was skipped. | Pass. |
 | Not verified | No real-browser tab-hide audio or participant/caregiver review was run. | The change does not establish a user outcome. |
+
+## Round 104: install Read Aloud visibility handling before speech can start (read 2026-11-15)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Society advises reducing distractions when that helps a person concentrate. The HTML Standard defines the page visibility state and its `visibilitychange` event. | Preventing a missed hidden-state event is an engineering inference, not a clinical outcome. |
+| Existing gap | Round 103 attached its listener only after React observed active speech. Speech starts in the button handler, while React installs effects afterward, leaving a short interval where a hide event could be missed. | Narration could keep running if the tab became hidden in that interval. |
+| Change | A visibility listener now attaches when browser speech is detected, before the Read Aloud button renders. A ref tracks whether narration is active; a hidden event cancels it and clears the Stop state. It does not resume automatically. | No UI copy, storage, permissions, network requests or telemetry changed. |
+| Regression tests | `readAloud.test.ts` verifies the listener is present while idle, a hidden change cancels later active speech, inactive narration is left alone, and cleanup removes the listener. | 17 focused tests pass. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Local checks | `pnpm --dir site verify`: 767 tests, 16,717 pages built, `check-site` 0 errors and 575 warnings; `pnpm --dir site exec tsc --noEmit`; Python discovery (138 tests); release metadata check; `git diff --check`. | Pass locally under Node 22.14.0, below the site's declared minimum of 22.22.0. `flutter` and `dart` executables were unavailable, so Flutter analysis, format and test commands could not run. |
+| Implementation commit | `baf9f108` | Listener setup, state ref and regression coverage on `codex/round-104-readaloud-visibility-setup`. |
+| Copy coverage | No site dictionary or guide changed. | No fixed copy changed. |
+| Merge and hosted checks | Pending | Do not claim hosted checks or merge until the exact PR head is green. |
+| Not verified | Real-browser tab-hide audio and participant/caregiver review were not run. The Playwright wrapper could not start because the environment's package guard blocked its `npx` invocation. | The change does not establish a user outcome. |

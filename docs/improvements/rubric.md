@@ -409,3 +409,13 @@ type check, build and checker pass locally; all required hosted PR checks also
 pass. No hidden-tab audio or participant review was run. Keep the last measured
 repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer
 an aggregate score change.
+
+## Round 104 score note (2026-11-15)
+
+The visibility listener now attaches before the Read Aloud button can start
+speech, closing a narrow event-timing gap. Site tests, TypeScript, build and
+checker pass locally. Flutter and Dart executables were unavailable, and no
+real-browser tab-hide audio or participant review was run because the Playwright
+wrapper was blocked by the environment's package guard. Keep the last
+measured repository-wide score at **9.87** and lowest dimension at **9.37**;
+do not infer an aggregate score change.
