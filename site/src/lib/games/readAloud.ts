@@ -19,6 +19,12 @@ export interface SpeechLike {
   pending?: boolean;
 }
 
+export interface VisibilityTargetLike {
+  readonly hidden: boolean;
+  addEventListener(type: 'visibilitychange', listener: () => void): void;
+  removeEventListener(type: 'visibilitychange', listener: () => void): void;
+}
+
 /** True while the browser is speaking or has an utterance waiting to start. */
 export function hasQueuedOrActiveSpeech(synth: SpeechLike): boolean {
   return synth.speaking || synth.pending === true;
@@ -106,4 +112,18 @@ export function stopReadingWhenHidden(
   stopReading(synth);
   setSpeaking(false);
   return true;
+}
+
+/** Stop active narration when the page becomes hidden. */
+export function watchReadAloudVisibility(
+  synth: SpeechLike,
+  target: VisibilityTargetLike,
+  isSpeaking: () => boolean,
+  setSpeaking: (speaking: boolean) => void,
+): () => void {
+  const stopIfHidden = () => {
+    if (target.hidden && isSpeaking()) stopReadingWhenHidden(synth, true, setSpeaking);
+  };
+  target.addEventListener('visibilitychange', stopIfHidden);
+  return () => target.removeEventListener('visibilitychange', stopIfHidden);
 }

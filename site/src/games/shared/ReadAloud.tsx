@@ -1,5 +1,5 @@
-import { useEffect, useState } from 'react';
-import { hasQueuedOrActiveSpeech, speechOf, stopReading, stopReadingWhenHidden, toggleReadAloud, type SpeechLike } from '../../lib/games/readAloud';
+import { useCallback, useEffect, useRef, useState } from 'react';
+import { hasQueuedOrActiveSpeech, speechOf, stopReading, toggleReadAloud, watchReadAloudVisibility, type SpeechLike } from '../../lib/games/readAloud';
 import type { PlayUi } from '../../i18n/play';
 import { Icon } from './Icon';
 import { sounds } from './sound';
@@ -18,41 +18,47 @@ interface ReadAloudProps {
 export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
   const [synth, setSynth] = useState<SpeechLike | null>(null);
   const [speaking, setSpeaking] = useState(false);
-
-  useEffect(() => {
-    setSynth(speechOf());
-    return () => {
-      const s = speechOf();
-      if (s) stopReading(s);
-    };
+  const speakingRef = useRef(false);
+  const setSpeechActive = useCallback((active: boolean) => {
+    speakingRef.current = active;
+    setSpeaking(active);
   }, []);
 
   useEffect(() => {
-    if (!synth || !speaking) return;
-    const stopIfHidden = () => {
-      stopReadingWhenHidden(synth, document.hidden, setSpeaking);
-    };
-    document.addEventListener('visibilitychange', stopIfHidden);
-    const timer = window.setInterval(() => {
-      if (!hasQueuedOrActiveSpeech(synth)) setSpeaking(false);
-    }, 400);
+    const currentSynth = speechOf();
+    setSynth(currentSynth);
+    if (!currentSynth) return;
+    const stopWatchingVisibility = watchReadAloudVisibility(
+      currentSynth,
+      document,
+      () => speakingRef.current,
+      setSpeechActive,
+    );
     return () => {
-      document.removeEventListener('visibilitychange', stopIfHidden);
-      window.clearInterval(timer);
+      stopWatchingVisibility();
+      stopReading(currentSynth);
     };
-  }, [synth, speaking]);
+  }, [setSpeechActive]);
 
   useEffect(() => {
-    if (speaking && synth) {
+    if (!synth || !speaking) return;
+    const timer = window.setInterval(() => {
+      if (!hasQueuedOrActiveSpeech(synth)) setSpeechActive(false);
+    }, 400);
+    return () => window.clearInterval(timer);
+  }, [synth, speaking, setSpeechActive]);
+
+  useEffect(() => {
+    if (speakingRef.current && synth) {
       stopReading(synth);
-      setSpeaking(false);
+      setSpeechActive(false);
     }
-  }, [text]);
+  }, [text, synth, setSpeechActive]);
 
   if (!synth) return null;
 
   const toggle = () => {
-    toggleReadAloud(synth, speaking, text, lang, setSpeaking, sounds.tap);
+    toggleReadAloud(synth, speaking, text, lang, setSpeechActive, sounds.tap);
   };
 
   return (

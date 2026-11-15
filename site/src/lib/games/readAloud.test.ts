@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest';
-import { createUtterance, hasQueuedOrActiveSpeech, readAloud, speechOf, stopReading, stopReadingWhenHidden, toggleReadAloud, type SpeechLike, type UtteranceLike } from './readAloud';
+import { createUtterance, hasQueuedOrActiveSpeech, readAloud, speechOf, stopReading, stopReadingWhenHidden, toggleReadAloud, watchReadAloudVisibility, type SpeechLike, type UtteranceLike, type VisibilityTargetLike } from './readAloud';
 
 function fakeSynth(): SpeechLike & { spoken: UtteranceLike[]; cancelled: number } {
   return {
@@ -12,6 +12,35 @@ function fakeSynth(): SpeechLike & { spoken: UtteranceLike[]; cancelled: number 
     cancel() {
       this.cancelled++;
     },
+  };
+}
+
+function fakeVisibilityTarget(initiallyHidden = false) {
+  let hidden = initiallyHidden;
+  const listeners = new Set<() => void>();
+  return {
+    get hidden() {
+      return hidden;
+    },
+    setHidden(value: boolean) {
+      hidden = value;
+    },
+    addEventListener(_type: 'visibilitychange', listener: () => void) {
+      listeners.add(listener);
+    },
+    removeEventListener(_type: 'visibilitychange', listener: () => void) {
+      listeners.delete(listener);
+    },
+    dispatchVisibilityChange() {
+      for (const listener of listeners) listener();
+    },
+    get listenerCount() {
+      return listeners.size;
+    },
+  } satisfies VisibilityTargetLike & {
+    setHidden(value: boolean): void;
+    dispatchVisibilityChange(): void;
+    readonly listenerCount: number;
   };
 }
 
@@ -181,5 +210,47 @@ describe('stopReadingWhenHidden', () => {
     expect(stopReadingWhenHidden(synth, true, setSpeaking)).toBe(true);
     expect(synth.cancelled).toBe(1);
     expect(setSpeaking).toHaveBeenCalledWith(false);
+  });
+});
+
+describe('watchReadAloudVisibility', () => {
+  it('subscribes while idle so a hidden change after speech starts is not missed', () => {
+    const synth = fakeSynth();
+    synth.pending = true;
+    const target = fakeVisibilityTarget();
+    let speaking = false;
+    const setSpeaking = vi.fn((active: boolean) => {
+      speaking = active;
+    });
+
+    const stopWatching = watchReadAloudVisibility(synth, target, () => speaking, setSpeaking);
+
+    expect(target.listenerCount).toBe(1);
+    expect(synth.cancelled).toBe(0);
+
+    speaking = true;
+    target.setHidden(true);
+    target.dispatchVisibilityChange();
+    expect(synth.cancelled).toBe(1);
+    expect(setSpeaking).toHaveBeenCalledWith(false);
+
+    stopWatching();
+    expect(target.listenerCount).toBe(0);
+  });
+
+  it('does not cancel speech when a hidden page has no active narration', () => {
+    const synth = fakeSynth();
+    const target = fakeVisibilityTarget(true);
+    const setSpeaking = vi.fn();
+
+    const stopWatching = watchReadAloudVisibility(synth, target, () => false, setSpeaking);
+    expect(target.listenerCount).toBe(1);
+
+    target.dispatchVisibilityChange();
+    expect(synth.cancelled).toBe(0);
+    expect(setSpeaking).not.toHaveBeenCalled();
+
+    stopWatching();
+    expect(target.listenerCount).toBe(0);
   });
 });
