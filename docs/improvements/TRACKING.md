@@ -881,4 +881,6 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Local checks | `pnpm --dir site verify`: 765 tests, 16,878 pages built, `check-site` 0 errors and 580 warnings; `pnpm --dir site exec tsc --noEmit`; focused speech/sound tests. | Pass locally under Node 22.14.0, with an unsupported-engine warning; hosted CI will use the workflow environment. |
 | Implementation commit | `a61e5564` | Read Aloud visibility handler and regression tests. |
 | Copy coverage | Changed dictionary gate reports no changed site dictionary strings between merged `main` `c694757e` and the implementation commit. | No fixed copy changed. |
+| Merge | PR #260 as `0774f6ff` | Squash-merged after required checks passed. |
+| Hosted checks | PR #260 head `53eb6d5e`: Website coverage gates, site unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, browser visual, app-copy, spelling and semantic checks passed; PR deploy was skipped. | Pass. |
 | Not verified | No real-browser tab-hide audio or participant/caregiver review was run. | The change does not establish a user outcome. |
