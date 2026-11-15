@@ -522,3 +522,10 @@ Application: the website has fixed dictionaries for general interface labels, ga
 - [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) — read. It recommends keeping tasks simple and short and allowing the person to take their time.
 
 Application: the website coloring board remained editable after every region had been filled, but each later color tap replayed the completion chime because the handler checked the finished state rather than the transition into it. The chime now plays only when a page first becomes complete; later edits keep the ordinary tap cue. This is a small interaction correction inferred from guidance about enjoyment and adapting activities, not evidence that changing audio affects dementia outcomes.
+
+## Round 102: keep queued speech from losing its control state (read 2026-11-15)
+
+- [W3C Web Speech API](https://webaudio.github.io/web-speech-api/) — read. The specification distinguishes `pending` utterances that have not begun from `speaking` utterances, and states that a default voice may be local or remote.
+- [Cannings et al., JMIR Aging 2024: Optimizing Technology-Based Prompts for Supporting People Living With Dementia](https://aging.jmir.org/2024/1/e56055/) — read. In a study of task prompts, participants could engage with audiovisual prompting; the study did not find a clear independent-initiation advantage from alert modality.
+
+Application: the site checks browser speech for `speaking` every 400 ms. While a spoken prompt is queued but has not started, the API can report `pending: true` and `speaking: false`. The Stop label could then revert early, and optional game tones could play before the voice began. The shared speech-state helper now treats queued or active speech as active for both the control state and tone suppression. This is an engineering correction, not evidence of a user or health outcome. Browser voice locality varies; the site does not select a local voice or guarantee on-device synthesis.

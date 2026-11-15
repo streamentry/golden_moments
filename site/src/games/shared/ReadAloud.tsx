@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { speechOf, stopReading, toggleReadAloud, type SpeechLike } from '../../lib/games/readAloud';
+import { hasQueuedOrActiveSpeech, speechOf, stopReading, toggleReadAloud, type SpeechLike } from '../../lib/games/readAloud';
 import type { PlayUi } from '../../i18n/play';
 import { Icon } from './Icon';
 import { sounds } from './sound';
@@ -30,7 +30,7 @@ export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
   useEffect(() => {
     if (!synth || !speaking) return;
     const timer = window.setInterval(() => {
-      if (!synth.speaking) setSpeaking(false);
+      if (!hasQueuedOrActiveSpeech(synth)) setSpeaking(false);
     }, 400);
     return () => window.clearInterval(timer);
   }, [synth, speaking]);

@@ -67,6 +67,8 @@ tags and link targets; it does not assess translation quality.
 - **Photo Pairs does not upload or save photos or captions.** Photos become
   object URLs in the tab; captions stay in page memory and are used only as
   screen-reader names.
+- **Read Aloud uses browser SpeechSynthesis.** The browser may use a local or
+  remote voice. The site does not select a voice or guarantee on-device speech.
 
 ## App legal pages
 
