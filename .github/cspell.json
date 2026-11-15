@@ -393,7 +393,6 @@
     "Zhuang",
     "Kanuri",
     "Sango",
-    "Xiitsonga",
     "Swati",
     "Nuosu",
     "Ndebele",
@@ -417,7 +416,8 @@
     "Kituba",
     "Luba",
     "Tshiluba",
-    "Kiluba"
+    "Kiluba",
+    "Xitsonga"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",
