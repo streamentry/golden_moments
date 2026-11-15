@@ -529,3 +529,10 @@ Application: the website coloring board remained editable after every region had
 - [Cannings et al., JMIR Aging 2024: Optimizing Technology-Based Prompts for Supporting People Living With Dementia](https://aging.jmir.org/2024/1/e56055/) — read. In a study of task prompts, participants could engage with audiovisual prompting; the study did not find a clear independent-initiation advantage from alert modality.
 
 Application: the site checks browser speech for `speaking` every 400 ms. While a spoken prompt is queued but has not started, the API can report `pending: true` and `speaking: false`. The Stop label could then revert early, and optional game tones could play before the voice began. The shared speech-state helper now treats queued or active speech as active for both the control state and tone suppression. This is an engineering correction, not evidence of a user or health outcome. Browser voice locality varies; the site does not select a local voice or guarantee on-device synthesis.
+
+## Round 103: stop narration after a person leaves the game page (read 2026-11-15)
+
+- [Alzheimer's Society: How to communicate with a person with dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — read. It says a quiet, calm place can make communication easier and suggests reducing distractions when that helps.
+- [WHATWG HTML Standard: Page visibility](https://html.spec.whatwg.org/multipage/interaction.html#page-visibility) — read. When the document's visibility state changes, the standard updates `document.hidden` and fires `visibilitychange`. Hidden includes cases such as a background tab, minimized window or system task switcher.
+
+Application: a browser tab can become hidden without unmounting the game, so Read Aloud could continue after the person or caregiver switched away. The game now cancels queued or active speech on `visibilitychange` when the document is hidden, resets the control, and does not auto-resume when the person returns. This is an inference about keeping spoken guidance with the visible activity; it is not evidence of a clinical or measured outcome.
