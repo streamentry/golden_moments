@@ -261,6 +261,7 @@ checks passed. No fixed text or locale files changed. Details and evidence are i
 
 The Stop label and quiet game sounds now remain in effect while speech waits in
 the browser queue, before playback begins. This uses the browser's queue state;
-it does not promise that a voice is local. No fixed copy or locale files
-changed. Full 185-language coverage remains 3/500. See [TRACKING.md](TRACKING.md)
-and [sources.md](sources.md).
+it does not promise that a voice is local. It merged as PR #258 (`d7cd1cf`)
+after hosted checks passed. No fixed copy or locale files changed. Full
+185-language coverage remains 3/500. See [TRACKING.md](TRACKING.md) and
+[sources.md](sources.md).
