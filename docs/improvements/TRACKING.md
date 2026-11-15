@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 99 / 500 implemented**
+**Source improvements: 100 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -22,6 +22,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | Partial app-locale batch (#246) | Three app locales added; PR merged as `96da672` under a maintainer exception. | Machine-translated, unreviewed, 117/185 app locales total; partial and not counted toward full-language coverage. |
 | 98 | Changed app ARB coverage gate | No end-user copy changed. CI now requires every changed app message key in all 185 registry codes; translation quality remains a human/native review task. |
 | 99 | Suppress optional website game tones during Read Aloud | No fixed text or locale files changed. The full-language count remains 3/500. |
+| 100 | Changed fixed website dictionary coverage gate | No end-user copy changed. CI checks changed strings across all 190 active site routes; full-language coverage remains 3/500. |
 
 ---
 
@@ -91,8 +92,9 @@ The source log records which product improvements exist. The separate 185-langua
 | 96 | Keep coloring when switching pages | Merged; no fixed text changed. |
 | 97 | Larger invisible hit area for the coloring flower stem | Implemented in `cf7e34f5716af5860f34e1dabf9c15159ba8db78`; no fixed text or locale files changed. |
 | 98 | Guard changed app strings against translation gaps | Implemented; no fixed text changed. |
-| 99 | Prevent optional game tones from overlapping Read Aloud | Implemented in `7fb9f65c`; no fixed text changed. |
-| 100–500 | Planned one by one | Pending |
+| 99 | Prevent optional game tones from overlapping Read Aloud | Merged in PR #253 as `72bb7f47`; no fixed text changed. |
+| 100 | Changed fixed website dictionary coverage gate | Implemented; no fixed text changed. |
+| 101–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -816,3 +818,17 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commit | `7fb9f65c` | Shared Read Aloud and sound behavior on `codex/round-99-read-aloud-audio`, based on merged main `ad998d9c`. |
 | Checks | Node 24.22.2: 1,877 site tests, Astro build of 16,878 pages, `check-site` 0 errors and 580 warnings; `tsc --noEmit`; focused sound/speech tests (14); `git diff --check`. | Pass. |
 | Not verified | No browser audio, screen-reader, caregiver or participant review was run. | Treat reduced audio overlap as a design hypothesis until people who use the activities review it. |
+
+## Round 100: guard changed website dictionary strings across locales (read 2026-11-15)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society says communication should use the language the person usually uses; some people may return to their first language, and experiences differ. | Supports preserving language access; the CI gate is an engineering inference, not a clinical result. |
+| Existing gap | CI checked changed English guide translations, but not changed fixed website dictionaries under `site/src/i18n/ui`, `games` and `play`. | Changed interface or game copy could be absent from an active locale without failing CI. |
+| Change | The Website workflow now checks changed fixed dictionary strings across 190 routes: English, 184 registered non-English codes and five active site variants. It checks non-empty values and preserves placeholders, HTML tags and link targets. It excludes language-specific `play.content`. Both guide and dictionary commands use valid folded YAML scalars; the edit also repairs the pre-existing malformed guide command. | Presence and structure only; translation meaning and quality are not evaluated. |
+| Existing dictionary gap | `ui` and `games` currently have 190 locale files each; `play` has 189 and is missing `play/azb.json`. The gate checks changed messages only, so it does not backfill unchanged strings or resolve this existing gap. A changed fixed `play` message will fail until each active route has a structurally valid copy. | Existing full-language count remains 3/500. No user-facing copy or locale file changed. |
+| Regression tests | `tests/test_site_ui_copy_coverage.py` checks the route registry, excluded fields/content, locale-specific plural forms, placeholder/tag/link structure, locale-file gaps, base/head selection and a changed-copy failure case. | 9 focused tests pass. |
+| Repository checks | `python3 -m unittest discover -s tests -p 'test_*.py' -v` (138 tests); `python3 scripts/release_metadata.py --check`; gate no-op against merged `main` `72bb7f47`; Python compile; PyYAML workflow parse; scoped `git diff --check`. | Pass locally. |
+| Implementation commits | `902703f6`, `2c45c2f1` | Checker, tests and valid workflow commands on `codex/round-100-site-translation-gate`, based on merged `main` `72bb7f47`. |
+| Hosted PR checks | PR #254 head `661cca74`: Website dictionary/guide coverage and gate tests, site unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, web visual, app-copy, spelling and semantic checks passed. PR deploy was skipped as expected. | Pass. |
+| Not verified | No native-speaker review was needed because no user-facing text changed; this gate cannot assess translations. | Current dictionaries still need a separate full-coverage audit. |
