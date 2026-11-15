@@ -7,12 +7,8 @@ relies on are in [Translating with OpenCode](opencode-translation.md).
 Before pasting:
 
 1. `git checkout main && git pull`.
-2. Run `opencode models` and choose your strongest paid model for `MODEL`.
-3. Change the per-batch spending stop (`$25` below) to what you accept.
-4. Translate one language first, read your OpenCode usage, then multiply by the
-   gap before running the rest. Rough guess: the English guides are about
-   215k tokens per language, and non-Latin scripts can cost 2 to 3 times that
-   on output.
+2. Run `opencode models`; use `MODEL=opencode/deepseek-v4.1-flash-free` only while it is listed as free and quota is available. If not, stop and wait; do not switch to a paid model.
+3. Translate one language first and review its quality before continuing. Keep batches small and confirm free quota before each run.
 
 ## Goal text
 
@@ -22,7 +18,7 @@ Before pasting:
 Setup, once:
 - Start from an up-to-date main and create branch l10n/opencode-1.
 - Read AGENTS.md, docs/engineering/opencode-translation.md and docs/engineering/localization.md.
-- Run `opencode models`. Set MODEL to my strongest paid model. Confirm flutter --version matches .fvmrc.
+- Pass `-m $MODEL` explicitly, using `opencode/deepseek-v4.1-flash-free` only while `opencode models` lists it as free and free quota is available. If unavailable or exhausted, stop and wait; never switch to a paid model. Confirm `flutter --version` matches `.fvmrc`.
 
 App text, 5 languages per batch:
 1. Run `python3 scripts/opencode_translate.py gaps`. Pick the next 5 languages with no app text, most speakers first. Skip the dropped languages in the doc's "Known traps" unless MODEL is clearly stronger than the model that failed them.
@@ -45,7 +41,6 @@ Special cases:
 Done when `gaps` shows no missing app language and no missing guide, except languages recorded in the doc as dropped or blocked, each with a reason.
 
 Stop and ask me if:
-- a batch costs more than $25,
 - the same language fails review twice, or
 - a check fails on main before my change.
 
@@ -60,5 +55,5 @@ Never:
 - A Claude review of a low-resource language catches large errors but not
   reliably wrong health wording; only a native speaker can clear that.
 - The gap on 2026-11-14 was 72 languages without app text and about 4,200 guide
-  files across 84 languages. Guides are the bulk of the cost; consider doing
-  them first for the languages with the most speakers.
+  files across 84 languages. Finish app text first, then translate guides in
+  batches of 3–5 languages.

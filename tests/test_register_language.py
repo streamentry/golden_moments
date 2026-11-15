@@ -11,6 +11,9 @@ ROOT = Path(__file__).resolve().parents[1]
 spec = importlib.util.spec_from_file_location('register_language', ROOT / 'scripts/register_language.py')
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
+names_spec = importlib.util.spec_from_file_location('add_all_csv_languages', ROOT / 'scripts/add_all_csv_languages.py')
+names_module = importlib.util.module_from_spec(names_spec)
+names_spec.loader.exec_module(names_module)
 
 SAMPLE = ['bn', 'fa', 'ha', 'my']  # a plain, a right-to-left, a no-store/no-sayings and a no-letter-grid language
 
@@ -104,6 +107,19 @@ class RegisterLanguageTests(unittest.TestCase):
         rtl = re.search(r"const RTL_PREFIXES = new Set\(\[(.*?)\]\)", checker, re.S).group(1)
         self.assertIn("'fa'", rtl)  # right to left
         self.assertNotIn("'bn'", rtl)  # left to right
+
+    def test_locale_registry_escapes_native_names_with_apostrophes(self):
+        lang = module.Language('zx', 'zx_ZZ', "Avañe'ẽ", "Guarani's language")
+        locales = module.edit_locales_ts(self.read('site/src/i18n/locales.ts'), lang)
+        self.assertIn(r"name: 'Avañe\'ẽ'", locales)
+        self.assertIn(r"englishName: 'Guarani\'s language'", locales)
+
+    def test_language_name_generator_keeps_guarani_entry_with_apostrophe(self):
+        locales = (ROOT / 'site/src/i18n/locales.ts').read_text(encoding='utf-8')
+        generated = names_module.generate_language_names_from_locales(locales)
+        self.assertIn("'gn': \"Avañe'ẽ\",", generated)
+        self.assertIn("'sm': \"Gagana fa'a Samoa\",", generated)
+        self.assertNotIn('gn', {loc['code'] for loc in names_module.load_csv_rows()})
 
 
 if __name__ == '__main__':
