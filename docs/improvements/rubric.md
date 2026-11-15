@@ -405,6 +405,7 @@ and lowest dimension at **9.37**; do not infer an aggregate score change.
 
 Read Aloud stops when the page becomes hidden and does not resume by itself.
 No controls, copy or locale files changed. The focused tests, full site suite,
-type check, build and checker pass locally. No hidden-tab audio or participant
-review was run. Keep the last measured repository-wide score at **9.87** and
-lowest dimension at **9.37**; do not infer an aggregate score change.
+type check, build and checker pass locally; all required hosted PR checks also
+pass. No hidden-tab audio or participant review was run. Keep the last measured
+repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer
+an aggregate score change.
