@@ -284,6 +284,34 @@ def guide_gaps(code: str) -> list[str]:
     return todo
 
 
+def website_locale_codes() -> list[str]:
+    """Return every locale in the website registry, including absent guide dirs."""
+    locales_ts = (SITE / 'src/i18n/locales.ts').read_text(encoding='utf-8')
+    start = locales_ts.find('export const LOCALES')
+    end = locales_ts.find('\n];', start)
+    if start < 0 or end < 0:
+        raise ValueError(f'{SITE / "src/i18n/locales.ts"}: LOCALES array not found')
+    registry = locales_ts[start:end]
+    codes = re.findall(r"\bcode:\s*'([^']+)'", registry)
+    if not codes:
+        raise ValueError(f'{SITE / "src/i18n/locales.ts"}: no locale codes found')
+    if len(codes) != len(set(codes)):
+        raise ValueError(f'{SITE / "src/i18n/locales.ts"}: duplicate locale codes')
+    if 'en' not in codes:
+        raise ValueError(f'{SITE / "src/i18n/locales.ts"}: English locale is missing')
+    return codes
+
+
+def guide_gap_rows(codes: list[str] | None = None) -> list[tuple[str, int]]:
+    """List guide gaps for registered non-English locales, even without folders."""
+    locale_codes = website_locale_codes() if codes is None else codes
+    return [
+        (code, len(missing))
+        for code in sorted(set(locale_codes) - {'en'})
+        if (missing := guide_gaps(code))
+    ]
+
+
 GUIDE_RULES = (
     'Translate this guide into {language}. ' + VOICE + ' Rules: translate title, seoTitle, '
     'description, summary, keyPoints, faq q/a and the body. Keep every other frontmatter field '
@@ -352,14 +380,9 @@ def show_gaps() -> None:
     codes = [line.split(',')[0].strip() for line in (ROOT / 'docs/languages.csv').read_text(encoding='utf-8').splitlines()[1:] if line.strip()]
     arbs = {p.stem.removeprefix('app_').replace('_', '-') for p in ARB_DIR.glob('app_*.arb')}
     missing_app = [c for c in codes if c not in arbs and c != 'en']
-    total = 0
-    rows = []
-    for directory in sorted(GUIDES_I18N.iterdir()):
-        if directory.is_dir():
-            n = len(guide_gaps(directory.name))
-            total += n
-            if n:
-                rows.append(f'{directory.name}:{n}')
+    guide_rows = guide_gap_rows()
+    total = sum(count for _, count in guide_rows)
+    rows = [f'{code}:{count}' for code, count in guide_rows]
     print(f'app languages without app text ({len(missing_app)}): {" ".join(missing_app)}')
     print(f'guide files missing or English copies: {total} across {len(rows)} languages')
     print(' '.join(rows))
