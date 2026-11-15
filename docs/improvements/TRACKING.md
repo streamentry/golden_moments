@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 100 / 500 implemented**
+**Source improvements: 101 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -23,6 +23,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 98 | Changed app ARB coverage gate | No end-user copy changed. CI now requires every changed app message key in all 185 registry codes; translation quality remains a human/native review task. |
 | 99 | Suppress optional website game tones during Read Aloud | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 100 | Changed fixed website dictionary coverage gate | No end-user copy changed. CI checks changed strings across all 190 active site routes; full-language coverage remains 3/500. |
+| 101 | Play the coloring completion sound only on the first completion transition | No fixed text or locale files changed. The full-language count remains 3/500. |
 
 ---
 
@@ -94,7 +95,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 98 | Guard changed app strings against translation gaps | Implemented; no fixed text changed. |
 | 99 | Prevent optional game tones from overlapping Read Aloud | Merged in PR #253 as `72bb7f47`; no fixed text changed. |
 | 100 | Changed fixed website dictionary coverage gate | Implemented; no fixed text changed. |
-| 101–500 | Planned one by one | Pending |
+| 101 | One completion chime per coloring completion | Implemented; no fixed text changed. |
+| 102–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -832,3 +834,17 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Implementation commits | `902703f6`, `2c45c2f1` | Checker, tests and valid workflow commands on `codex/round-100-site-translation-gate`, based on merged `main` `72bb7f47`. |
 | Hosted PR checks | PR #254 head `661cca74`: Website dictionary/guide coverage and gate tests, site unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, web visual, app-copy, spelling and semantic checks passed. PR deploy was skipped as expected. | Pass. |
 | Not verified | No native-speaker review was needed because no user-facing text changed; this gate cannot assess translations. | Current dictionaries still need a separate full-coverage audit. |
+
+## Round 101: play the coloring completion sound only once (read 2026-11-15)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association advises focusing on enjoyment rather than achievement and changing or ending an activity when attention wanes or frustration rises. Dementia Australia recommends keeping activities simple and short. | Limiting the finish cue to the actual completion transition is a usability inference; neither source evaluates this sound or proves a health effect. |
+| Existing gap | `Coloring.tsx` left filled regions interactive after the page was complete. Its paint handler checked only whether all regions were filled after each tap, so changing any color on a completed page played `sounds.done()` again. | A finish chime could repeat during continued coloring, even though the page was already complete. |
+| Change | The finish tone now plays only when the page changes from incomplete to complete. Later edits still use the ordinary tap tone; clearing and completing the page again can play the finish tone once again. | No UI, sound preference, storage, network or telemetry changes. |
+| Regression test | `coloring-progress.test.ts` verifies the completion predicate for incomplete, first-completion, already-complete and cleared states. | Focused Coloring tests pass. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Local checks | Focused Vitest (`coloring-progress.test.ts`, `Coloring.test.ts`); `tsc --noEmit`; scoped `git diff --check`. | Pass. |
+| Implementation commit | `0b2bffa2` | Website Coloring and progress transition helper. |
+| Hosted checks | Pending on PR head. | Merge only after the Website workflow and all required PR checks pass. |
+| Not verified | No browser audio, caregiver or participant review was run. | The sound change is a code-level correction, not evidence of a user outcome. |

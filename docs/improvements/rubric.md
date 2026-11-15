@@ -380,3 +380,12 @@ active routes and checks placeholders, HTML tags and link targets. Nine
 focused tests pass. It does not assess translation quality or change the
 interface. Keep the last measured repository-wide score at **9.87** and lowest
 dimension at **9.37**; do not infer an aggregate score change from this gate.
+
+## Round 101 score note (2026-11-15)
+
+Coloring now plays its completion chime only on the transition from unfinished
+to finished. Repainting an already finished page still gives ordinary tap
+feedback without replaying the longer cue. No text or locale files changed;
+the focused tests and TypeScript check pass. Keep the last measured
+repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer
+an aggregate score change from this narrow sound correction.

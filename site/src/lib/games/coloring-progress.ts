@@ -2,6 +2,10 @@ export type ColoringProgress = Readonly<Record<string, Readonly<Record<string, s
 
 const EMPTY_PAGE: Readonly<Record<string, string>> = {};
 
+export function justCompleted(wasComplete: boolean, isComplete: boolean): boolean {
+  return !wasComplete && isComplete;
+}
+
 export function coloringPageFills(progress: ColoringProgress, pageId: string): Readonly<Record<string, string>> {
   return progress[pageId] ?? EMPTY_PAGE;
 }

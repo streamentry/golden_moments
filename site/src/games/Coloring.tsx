@@ -2,7 +2,7 @@ import { useEffect, useState, type KeyboardEvent } from 'react';
 import { COLORING_PAGES, PAINTS, type Paint } from '../data/coloring';
 import type { PlayProps } from '../i18n/play';
 import { fill } from '../i18n/play/format';
-import { coloringPageFills, colorRegion, clearColoringPage, type ColoringProgress } from '../lib/games/coloring-progress';
+import { coloringPageFills, colorRegion, clearColoringPage, justCompleted, type ColoringProgress } from '../lib/games/coloring-progress';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
@@ -31,8 +31,8 @@ export default function Coloring(props: PlayProps) {
   const paintPart = (id: string) => {
     const nextFills = { ...fills, [id]: paint.value };
     setProgress((current) => colorRegion(current, pageId, id, paint.value));
-    const isCompleted = page.regions.every((r) => Boolean(nextFills[r.id]));
-    if (isCompleted) {
+    const completeAfterPaint = page.regions.length > 0 && page.regions.every((r) => Boolean(nextFills[r.id]));
+    if (justCompleted(isCompleted, completeAfterPaint)) {
       sounds.done();
     } else {
       sounds.tap();
