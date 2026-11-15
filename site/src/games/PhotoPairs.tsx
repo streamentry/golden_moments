@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import type { PlayProps, PlayUi } from '../i18n/play';
 import { boldRuns, fill, plural } from '../i18n/play/format';
 import { hasPhotoNavigation, initialPhotoMode, movePhotoIndex } from '../lib/games/photo-viewer';
+import { selectPhotoFiles } from '../lib/games/photo-selection';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
 import { PairsBoard } from './shared/PairsBoard';
@@ -9,6 +10,8 @@ import { sounds } from './shared/sound';
 
 const MAX_PHOTOS = 6;
 const MAX_BYTES = 40 * 1024 * 1024;
+// Bound the selected source files rather than allowing six per-file limits to add up.
+const MAX_TOTAL_BYTES = 80 * 1024 * 1024;
 
 function pickNote(ui: PlayUi, lang: string, skipped: number, extra: number): string {
   return [
@@ -44,9 +47,7 @@ export default function PhotoPairs(props: PlayProps) {
 
   const choose = (files: FileList | null) => {
     if (!files) return;
-    const images = Array.from(files).filter((f) => f.type.startsWith('image/') && f.size <= MAX_BYTES);
-    const skipped = files.length - images.length;
-    const picked = images.slice(0, MAX_PHOTOS);
+    const { picked, skipped, extra } = selectPhotoFiles(Array.from(files), MAX_PHOTOS, MAX_BYTES, MAX_TOTAL_BYTES);
     const mode = initialPhotoMode(picked.length);
     // Clear the input so choosing the same files again still fires a change.
     resetInput();
@@ -55,7 +56,7 @@ export default function PhotoPairs(props: PlayProps) {
       return;
     }
     setNote(
-      [mode === 'look' ? ui.photoPairs.atLeastTwo : '', pickNote(ui, lang, skipped, images.length - picked.length)]
+      [mode === 'look' ? ui.photoPairs.atLeastTwo : '', pickNote(ui, lang, skipped, extra)]
         .filter(Boolean)
         .join(' '),
     );
