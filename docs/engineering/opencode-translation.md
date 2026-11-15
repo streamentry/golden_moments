@@ -8,8 +8,12 @@ and stays marked unreviewed (AGENTS.md).
 ## Tool
 
 `scripts/opencode_translate.py` calls `opencode run -m <model>` and writes a file
-only when the repo's own checker passes. Use `opencode/deepseek-v4.1-flash` for
-translation; the project OpenCode config sets it as the default for new sessions:
+only when the repo's own checker passes. The project config has no model
+default. Pass `-m "$MODEL"` explicitly, using
+`opencode/deepseek-v4.1-flash-free` only while `opencode models` lists it as a
+free model and quota is available. If the model is missing or quota is exhausted,
+stop and wait; do not switch to a paid model. Check the current
+[OpenCode model list](https://opencode.ai/docs/console/models) before resuming.
 
 | Command | Writes | Checked by |
 | --- | --- | --- |
@@ -76,7 +80,8 @@ New language names in Markdown need adding to `.github/cspell.json`.
   out on the first language; a Go-route probe also reported its monthly usage
   limit reached, and no Extra Usage was enabled. Codex Luna then could not
   produce reliable full app translations from the existing site wording. No
-  app files were registered; retry with a capable model or a native translator.
+  app files were registered. This translation run is paused until free quota
+  returns; a paid model needs separate explicit approval.
 - Twi (`tw`) is blocked for now: Codex Luna could not verify natural Twi from
   the existing site text, so it left the app files untouched. Revisit with a
   Twi-capable model or a native translator.

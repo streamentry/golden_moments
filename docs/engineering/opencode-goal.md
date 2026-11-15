@@ -7,11 +7,8 @@ relies on are in [Translating with OpenCode](opencode-translation.md).
 Before pasting:
 
 1. `git checkout main && git pull`.
-2. Run `opencode models` and set `MODEL=opencode/deepseek-v4.1-flash`.
-3. Translate one language first, read your OpenCode usage, then multiply by the
-   gap before running the rest. Rough guess: the English guides are about
-   215k tokens per language, and non-Latin scripts can cost 2 to 3 times that
-   on output.
+2. Run `opencode models`; use `MODEL=opencode/deepseek-v4.1-flash-free` only while it is listed as free and quota is available. If not, stop and wait; do not switch to a paid model.
+3. Translate one language first and review its quality before continuing. Keep batches small and confirm free quota before each run.
 
 ## Goal text
 
@@ -21,7 +18,7 @@ Before pasting:
 Setup, once:
 - Start from an up-to-date main and create branch l10n/opencode-1.
 - Read AGENTS.md, docs/engineering/opencode-translation.md and docs/engineering/localization.md.
-- Use `opencode/deepseek-v4.1-flash` for translation (`MODEL=opencode/deepseek-v4.1-flash`). Confirm `flutter --version` matches `.fvmrc`. If OpenCode hits a request limit, try the free DeepSeek Flash model; if the limit persists, use Codex Luna sub-agents.
+- Pass `-m $MODEL` explicitly, using `opencode/deepseek-v4.1-flash-free` only while `opencode models` lists it as free and free quota is available. If unavailable or exhausted, stop and wait; never switch to a paid model. Confirm `flutter --version` matches `.fvmrc`.
 
 App text, 5 languages per batch:
 1. Run `python3 scripts/opencode_translate.py gaps`. Pick the next 5 languages with no app text, most speakers first. Skip the dropped languages in the doc's "Known traps" unless MODEL is clearly stronger than the model that failed them.
