@@ -536,5 +536,11 @@
     "goodToKnowText": "Dieses Spiel ist für Freude und gemeinsame Zeit gedacht. Es prüft, misst und behandelt nichts.",
     "moreGames": "Mehr sanfte Spiele",
     "crumb": "Spiele"
+  },
+  "consent": {
+    "label": "Auswahl zur Statistik",
+    "text": "Dürfen wir Ihren Besuch mit Google Analytics zählen? Es setzt Cookies, die uns zeigen, welche Seiten helfen. Nichts davon wird für Werbung genutzt. <a href=\"/privacy/#google-analytics\">So nutzen wir es</a>",
+    "allow": "Erlauben",
+    "decline": "Nein danke"
   }
 }

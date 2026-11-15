@@ -537,5 +537,11 @@
     "goodToKnowText": "Youxci neix dwg vih ndaej heiqvwnz caeuq doxdoengz youq ithe. De mbouj cesi, mbouj cezlengz hix mbouj tridliauh gijmaz.",
     "moreGames": "Gij youxci suenxheiq gvaq",
     "crumb": "Youxci"
+  },
+  "consent": {
+    "label": "Genj senj faensik",
+    "text": "Raeuz ndaej mbouj ndaej yungh Google Analytics geq mwngz daeuj ndeu? De cuengq cookies, hawj raeuz rox mbaw lawz miz yungh. Mbouj miz saek yiengh yungh guh gvangjgau. <a href=\"/privacy/#google-analytics\">Raeuz baenzlawz yungh</a>",
+    "allow": "Hawj",
+    "decline": "Mbouj, docih"
   }
 }

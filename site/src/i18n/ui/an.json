@@ -537,5 +537,11 @@
     "goodToKnowText": "Este juego es para disfrutar y pasar tiempo juntos. No prueba, mide ni trata nada.",
     "moreGames": "Juegos más suaves",
     "crumb": "Juegos"
+  },
+  "consent": {
+    "label": "Esleción d'analitica",
+    "text": "Podemos contar a tuya visita con Google Analytics? Mete cookies que nos amuestran qué pachinas aduyan. Cosa no s'emplega pa publicidat. <a href=\"/privacy/#google-analytics\">Cómo l'emplegamos</a>",
+    "allow": "Permitir",
+    "decline": "No, gracias"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Este na gå'ga' para i minagof yan i tiempon-måmi. Ti ha prubåba, ha midi pat ha trata ni' hafa.",
     "moreGames": "Mas manmaolek na gå'ga' siha",
     "crumb": "Games"
+  },
+  "consent": {
+    "label": "Ayek analytics",
+    "text": "Siña ta konta i bisita-mu yan i Google Analytics? Ha po'lo' cookies ni ha fanu'i ham hafa na påhina ayudu. Taya' ma usa para anunsio. <a href=\"/privacy/#google-analytics\">Taimanu na ma usa</a>",
+    "allow": "Petmite",
+    "decline": "Åhe', si Yu'os ma'åse'"
   }
 }

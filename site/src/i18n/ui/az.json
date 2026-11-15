@@ -537,5 +537,11 @@
     "goodToKnowText": "Bu oyun zövq almaq və birlikdə vaxt keçirmək üçündür. Heç nəyi yoxlamır, ölçmür və ya müalicə etmir.",
     "moreGames": "Daha çox mülayim oyun",
     "crumb": "Oyunlar"
+  },
+  "consent": {
+    "label": "Analitika seçimi",
+    "text": "Ziyarətinizi Google Analytics ilə saya bilərikmi? O, hansı səhifələrin faydalı olduğunu göstərən kukilər yerləşdirir. Heç nə reklam üçün istifadə olunmur. <a href=\"/privacy/#google-analytics\">Necə istifadə edirik</a>",
+    "allow": "İcazə ver",
+    "decline": "Xeyr, sağ olun"
   }
 }

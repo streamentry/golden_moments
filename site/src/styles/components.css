@@ -216,6 +216,34 @@
 }
 
 /* ---------- Machine translation notice ---------- */
+/* Analytics choice (components/Analytics.astro): in the page flow under the
+   header, never fixed over the content, so 200% text cannot bury the page. */
+.consent {
+  background: var(--gm-secondary-container);
+  border-bottom: 1px solid var(--gm-secondary-outline);
+}
+.consent[hidden] {
+  display: none;
+}
+.consent__inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+  align-items: center;
+  justify-content: space-between;
+  padding-block: var(--space-md);
+}
+.consent__text {
+  flex: 1 1 32ch;
+  margin: 0;
+  font-size: var(--text-md);
+  color: var(--gm-on-surface);
+}
+.consent__text a {
+  color: var(--gm-primary);
+  font-weight: 700;
+}
+
 .mt-notice {
   font-size: var(--text-sm);
   color: var(--gm-on-surface-variant);

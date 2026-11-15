@@ -537,5 +537,11 @@
     "goodToKnowText": "Aqueste jòc es per se far plaser e passar un moment amassa. Tèsta pas, mesura pas e sonha pas res.",
     "moreGames": "Mai de jòcs suaus",
     "crumb": "Jòcs"
+  },
+  "consent": {
+    "label": "Causida d'analisi",
+    "text": "Podèm comptar vòstra visita amb Google Analytics? Plaça de cookies que nos mòstran quinas paginas ajudan. Res es pas utilizat per la publicitat. <a href=\"/privacy/#google-analytics\">Cossí l'utilizam</a>",
+    "allow": "Autorizar",
+    "decline": "Non, mercés"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Ikkure in ej n̄an m̧ōnōnō im kōm̧m̧an iien ippān doon. Ej jab teej e, jōn̄e, ak kōmour jabdewōt men.",
     "moreGames": "Bar jet ikkure ko reineemman",
     "crumb": "Ikkure ko"
+  },
+  "consent": {
+    "label": "Kāālōt kōn analytics",
+    "text": "Emaron ke ad bōk oran am itok im loe ilo Google Analytics? Ej likūt cookies ko rej kwaļo̧k n̄an kōm peij ta ko rej jipan̄. Ejjeļo̧k men ej jerbal kake n̄an kōjjeļa. <a href=\"/privacy/#google-analytics\">Wāween ad kōjerbal e</a>",
+    "allow": "Kōtļo̧k",
+    "decline": "Jab, kommool"
   }
 }

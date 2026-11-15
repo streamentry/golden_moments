@@ -536,5 +536,11 @@
     "goodToKnowText": "Mchezo huu ni kwa ajili ya burudani na kuwa pamoja. Haupimi, hauhesabu wala kutibu chochote.",
     "moreGames": "Michezo zaidi ya taratibu",
     "crumb": "Michezo"
+  },
+  "consent": {
+    "label": "Chaguo la takwimu",
+    "text": "Je, tunaweza kuhesabu ziara yako kwa Google Analytics? Huweka vidakuzi vinavyotuonyesha kurasa zipi zinasaidia. Hakuna kinachotumiwa kwa matangazo. <a href=\"/privacy/#google-analytics\">Jinsi tunavyoitumia</a>",
+    "allow": "Ruhusu",
+    "decline": "Hapana, asante"
   }
 }

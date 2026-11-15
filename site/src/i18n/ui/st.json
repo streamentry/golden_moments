@@ -537,5 +537,11 @@
     "goodToKnowText": "Papali ena e bakeng sa thabo le nako e sebetsoang hammoho. Ha e hlahlobe, ha e lekanye, ha e phekole letho.",
     "moreGames": "Lipapali tse ling tse bonolo",
     "crumb": "Lipapali"
+  },
+  "consent": {
+    "label": "Kgetho ya manollo",
+    "text": "Na re ka bala ketelo ya hao ka Google Analytics? E beha di-cookie tse re bontshang hore na ke maqephe afe a thusang. Ha ho letho le sebediswang bakeng sa dipapatso. <a href=\"/privacy/#google-analytics\">Kamoo re e sebedisang</a>",
+    "allow": "Dumella",
+    "decline": "Tjhe, ke a leboha"
   }
 }

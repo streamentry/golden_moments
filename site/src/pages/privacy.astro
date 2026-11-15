@@ -8,7 +8,7 @@ import { SITE } from '../lib/site';
   description="This website has no accounts or ads. We use Google Analytics to count visits. Photos you choose for Photo pairs stay in your browser and are never uploaded."
   path="/privacy/"
   crumb="Privacy"
-  updated="2026-10-31"
+  updated="2026-11-15"
   lede="The short version: no accounts and no ads. We use Google Analytics to see how many people visit and which pages help, and photos you choose for Photo pairs never leave your browser."
 >
   <p>This notice covers the website at {SITE.domain}, published by Cloudjet Solutions Pte. Ltd., Singapore. The Golden Moments mobile app has its own <a href="/app-privacy/">app privacy policy</a>, and you can find every policy on our <a href="/legal/">legal page</a>.</p>
@@ -23,12 +23,28 @@ import { SITE } from '../lib/site';
   <h2 id="google-analytics">Google Analytics</h2>
   <p>
     We use Google Analytics 4, a service from Google, to count visits and see which pages and games are used, so we
-    can improve the site. When a page loads, Google Analytics sets cookies in your browser (named <code>_ga</code>
+    can improve the site. Once it runs, Google Analytics sets cookies in your browser (named <code>_ga</code>
     and <code>_ga_X4CNGM5F8Z</code>) and sends Google the page address, the page that linked to it, your browser,
     device and screen size, an approximate location based on your IP address, and a random identifier for your
     browser. We have turned off Google signals and ad personalization, so these visits are not used for advertising.
     Google Analytics is not loaded on Photo pairs.
   </p>
+  <h3 id="analytics-choice">When it runs</h3>
+  <p>
+    In the European Economic Area, the United Kingdom and Switzerland, Google Analytics does not load and sets no
+    cookies until you choose <strong>Allow</strong>. If you choose <strong>No thanks</strong>, it stays off. Everywhere
+    else it loads when a page opens. To know which applies, the page asks our host, Cloudflare, for the country of
+    your connection. That check goes only to this site and is not stored by us. If the country cannot be found, you
+    are asked.
+  </p>
+  <p>
+    Your choice is saved in your browser’s storage for this site (as <code>gm-analytics-choice</code>), not in a
+    cookie, and is never sent to us or to Google. You can change it at any time, wherever you are:
+  </p>
+  <p>
+    <button type="button" class="btn" data-analytics-choice hidden>Change your analytics choice</button>
+  </p>
+  <p>Choosing No thanks after Allow stops Analytics and removes its cookies from this site.</p>
   <p>
     On game pages it also records when a game is started, started again, printed or left with "Done for now", and,
     if you choose to answer "Did this help today?", whether you tapped Yes or Not really. It records the event and
@@ -38,15 +54,17 @@ import { SITE } from '../lib/site';
   <p>
     Google describes how it uses this information in
     <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">How Google uses information from sites that use its services</a>.
-    To opt out, block cookies for this site, turn on your browser’s tracking protection or install
+    You can also opt out by blocking cookies for this site, turning on your browser’s tracking protection or installing
     <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener">Google’s opt-out add-on</a>. The site works the
     same either way.
   </p>
 
   <h2>Cookies</h2>
   <p>
-    The only cookies are the Google Analytics cookies above. Our host, Cloudflare, may also set a strictly necessary
-    security cookie if it needs to check for automated traffic.
+    The Google Analytics cookies above are set only as described in
+    <a href="#analytics-choice">When it runs</a>. If you pick a language from the language menu, a cookie named
+    <code>gm_lang</code> remembers it for a year so the site opens in that language; it is used for nothing else. Our
+    host, Cloudflare, may also set a strictly necessary security cookie if it needs to check for automated traffic.
   </p>
 
   <h2>Photos in Photo pairs</h2>
@@ -58,8 +76,8 @@ import { SITE } from '../lib/site';
 
   <h2>What stays in your browser</h2>
   <p>
-    If you turn soft sounds on or off, the site remembers that one choice in your browser’s local storage so it is the
-    same next time. It is never sent to us. You can clear it at any time by clearing this site’s data in your browser.
+    If you turn soft sounds on or off, the site remembers that choice in your browser’s local storage so it is the
+    same next time. Your analytics choice is kept there too. Neither is ever sent to us. You can clear it at any time by clearing this site’s data in your browser.
   </p>
 
   <h2>Hosting</h2>

@@ -537,5 +537,11 @@
     "goodToKnowText": "Jolas hau elkarrekin gozatzeko eta denbora pasatzeko da. Ez du ezer probatzen, neurtzen edo tratatzen.",
     "moreGames": "Jolas leunagoak",
     "crumb": "Jolasak"
+  },
+  "consent": {
+    "label": "Analitika aukera",
+    "text": "Zure bisita Google Analytics-ekin zenbatu dezakegu? Zein orrik laguntzen duten erakusten diguten cookieak gordetzen ditu. Ez da ezer erabiltzen publizitaterako. <a href=\"/privacy/#google-analytics\">Nola erabiltzen dugun</a>",
+    "allow": "Baimendu",
+    "decline": "Ez, eskerrik asko"
   }
 }

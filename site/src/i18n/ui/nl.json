@@ -536,5 +536,11 @@
     "goodToKnowText": "Dit spel is bedoeld voor plezier en tijd samen. Het test, meet of behandelt niets.",
     "moreGames": "Meer rustige spelletjes",
     "crumb": "Spelletjes"
+  },
+  "consent": {
+    "label": "Keuze over statistieken",
+    "text": "Mogen we uw bezoek tellen met Google Analytics? Het plaatst cookies die ons laten zien welke pagina's helpen. Niets wordt gebruikt voor advertenties. <a href=\"/privacy/#google-analytics\">Hoe we het gebruiken</a>",
+    "allow": "Toestaan",
+    "decline": "Nee, bedankt"
   }
 }

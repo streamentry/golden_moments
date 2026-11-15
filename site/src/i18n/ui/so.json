@@ -537,5 +537,11 @@
     "goodToKnowText": "Ciyaartan waxaa loogu talagalay raaxo iyo wakhti la wada qaato. Ma tijaabiso, ma cabbirto, mana daaweyso wax.",
     "moreGames": "Ciyaaro deggan oo kale",
     "crumb": "Ciyaaro"
+  },
+  "consent": {
+    "label": "Doorashada falanqaynta",
+    "text": "Ma tirin karnaa booqashadaada Google Analytics? Waxay dhigtaa cookies na tusa bogagga caawiya. Waxba looma isticmaalo xayaysiis. <a href=\"/privacy/#google-analytics\">Sida aan u isticmaalno</a>",
+    "allow": "Oggolow",
+    "decline": "Maya, mahadsanid"
   }
 }

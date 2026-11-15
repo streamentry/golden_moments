@@ -537,5 +537,11 @@
     "goodToKnowText": "Yma an gwari ma rag lowena ha termyn war-barth. Ny wra provya, musura na dyghtya tra vyth.",
     "moreGames": "Moy a wariow hegar",
     "crumb": "Gwariow"
+  },
+  "consent": {
+    "label": "Dewis dielvennans",
+    "text": "Yllyn ni nivera agas vysytyans gans Google Analytics? Ev a sett cookies a dhiskwa dhyn py folennow a weres. Travydh ny vydh usys rag argemmynnow. <a href=\"/privacy/#google-analytics\">Fatell yth usyn ni ev</a>",
+    "allow": "Gasa",
+    "decline": "Na, meur ras"
   }
 }

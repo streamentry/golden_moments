@@ -536,5 +536,11 @@
     "goodToKnowText": "Ta gra służy przyjemności i wspólnemu czasowi. Niczego nie testuje, nie mierzy ani nie leczy.",
     "moreGames": "Więcej łagodnych gier",
     "crumb": "Gry"
+  },
+  "consent": {
+    "label": "Wybór dotyczący statystyk",
+    "text": "Czy możemy policzyć Twoją wizytę za pomocą Google Analytics? Zapisuje on pliki cookie, które pokazują nam, które strony pomagają. Nic nie jest używane do reklam. <a href=\"/privacy/#google-analytics\">Jak go używamy</a>",
+    "allow": "Zezwól",
+    "decline": "Nie, dziękuję"
   }
 }

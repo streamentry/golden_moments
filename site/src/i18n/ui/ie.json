@@ -537,5 +537,11 @@
     "goodToKnowText": "Ti-ci lude es por li plesir e témpor juntmen. It ne testa, mesura o tracta nequó.",
     "moreGames": "Plu dulci ludes",
     "crumb": "Ludes"
+  },
+  "consent": {
+    "label": "Selection de analise",
+    "text": "Esque noi posse contar vor visite con Google Analytics? It pone cookies quel monstra nos quel págines auxilia. Nequó es usat por reclames. <a href=\"/privacy/#google-analytics\">Qualmen noi usa it</a>",
+    "allow": "Permisser",
+    "decline": "No, mersí"
   }
 }

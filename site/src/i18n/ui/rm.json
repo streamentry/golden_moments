@@ -537,5 +537,11 @@
     "goodToKnowText": "Quest gieu serva al plaschair ed al temp passà ensemen. El na testa, mesira ni tracta nagut.",
     "moreGames": "Ulteriurs gieus quiets",
     "crumb": "Gieus"
+  },
+  "consent": {
+    "label": "Tscherna davart statisticas",
+    "text": "Astgain nus dumbrar Vossa visita cun Google Analytics? El metta cookies che ans mussan tge paginas gidan. Nagut na vegn duvrà per reclama. <a href=\"/privacy/#google-analytics\">Co che nus al duvrain</a>",
+    "allow": "Permetter",
+    "decline": "Na, grazia"
   }
 }

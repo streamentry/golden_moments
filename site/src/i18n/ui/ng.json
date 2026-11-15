@@ -537,5 +537,11 @@
     "goodToKnowText": "Uudhano mbuka owa nuninwa enyanyu nokukala pamwe. Ihawu konakona, ihawu yeleke nenge wu pange oshinima nando oshimwe.",
     "moreGames": "Omaudhano galwe gombili",
     "crumb": "Omaudhano"
+  },
+  "consent": {
+    "label": "Okuhogolola analytics",
+    "text": "Otu vulu okuvalula etalelo lyoye noGoogle Analytics? Ohayi tula ookookies ndhoka tadhi tu ulukile omafo ngoka taga kwatha. Kaku na sha tashi longithwa moonkundana dhokulandithapo. <a href=\"/privacy/#google-analytics\">Nkene tatu yi longitha</a>",
+    "allow": "Pitika",
+    "decline": "Aayi, tangi"
   }
 }

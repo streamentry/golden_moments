@@ -537,5 +537,11 @@
     "goodToKnowText": "Kay pukllayqa kusirikunapaq kuska tiempota pasanapaqwanmi. Manam imatapas pruebanchu, tupunchu nitaq hampinchu.",
     "moreGames": "Aswan sumaq pukllanakuna",
     "crumb": "Pukllanakuna"
+  },
+  "consent": {
+    "label": "Analytics akllay",
+    "text": "Google Analyticswan watukuyniykita yupayta atisunmanchu? Cookiekunata churan, mayqin raphikuna yanapasqanta qawachiwananchikpaq. Manam imapas willakuykunapaqqa llamk'achikunchu. <a href=\"/privacy/#google-analytics\">Imaynatam llamk'achiyku</a>",
+    "allow": "Saqiy",
+    "decline": "Manam, sulpayki"
   }
 }

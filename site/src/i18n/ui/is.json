@@ -537,5 +537,11 @@
     "goodToKnowText": "Þessi leikur er hugsaður til ánægju og samveru. Hann prófar, mælir eða meðhöndlar ekki neitt.",
     "moreGames": "Fleiri ljúfir leikir",
     "crumb": "Leikir"
+  },
+  "consent": {
+    "label": "Val um vefgreiningu",
+    "text": "Megum við telja heimsókn þína með Google Analytics? Það setur vafrakökur sem sýna okkur hvaða síður hjálpa. Ekkert er notað í auglýsingar. <a href=\"/privacy/#google-analytics\">Hvernig við notum það</a>",
+    "allow": "Leyfa",
+    "decline": "Nei takk"
   }
 }

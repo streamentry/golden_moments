@@ -537,5 +537,11 @@
     "goodToKnowText": "Me karamwen aea e bwa omoiy me taim in karamwen eai. Eka test, measure, me treat iy imin.",
     "moreGames": "Karamwen me omo iwi",
     "crumb": "Karamwen"
+  },
+  "consent": {
+    "label": "Analytics kabaden",
+    "text": "Ko ta ruaiya ngamaw bwe ngamaw bitsin Google Analytics? E duw cookies bwe e ruwaŋa ngamaw ngarat ibu e yen. Eko ian ŋea nim ena ijijin. <a href=\"/privacy/#google-analytics\">Ko ngamaw bwe</a>",
+    "allow": "Kabanin",
+    "decline": "Eko, tubwa kor"
   }
 }

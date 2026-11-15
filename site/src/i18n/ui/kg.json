@@ -537,5 +537,11 @@
     "goodToKnowText": "Nsaka yai kele kaka sambu na kiese mpi kuvanda kumosi. Yo ke mekaka ve, ke tezaka ve to ke belulaka ve kima mosi.",
     "moreGames": "Bansaka ya nkaka ya pete",
     "crumb": "Bansaka"
+  },
+  "consent": {
+    "label": "Kusola analytics",
+    "text": "Beto lenda kutanga ntangu nge mekwisa ti Google Analytics? Yo ke tulaka cookies yina ke monisaka beto mikanda ya ke sadisaka. Kima mosi ve ke sadilama sambu na piblisite. <a href=\"/privacy/#google-analytics\">Mutindu beto ke sadilaka yo</a>",
+    "allow": "Pesa nzila",
+    "decline": "Ve, matondo"
   }
 }

@@ -536,5 +536,11 @@
     "goodToKnowText": "Este juego es para disfrutar y pasar tiempo juntos. No evalúa, mide ni trata nada.",
     "moreGames": "Más juegos tranquilos",
     "crumb": "Juegos"
+  },
+  "consent": {
+    "label": "Opción de analítica",
+    "text": "¿Podemos contar su visita con Google Analytics? Guarda cookies que nos muestran qué páginas ayudan. Nada se usa para publicidad. <a href=\"/privacy/#google-analytics\">Cómo lo usamos</a>",
+    "allow": "Permitir",
+    "decline": "No, gracias"
   }
 }

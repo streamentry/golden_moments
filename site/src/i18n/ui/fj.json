@@ -537,5 +537,11 @@
     "goodToKnowText": "Na qito oqo e baleta na marau kei na gauna vata. E sega ni vakatovolei, vakarautaka se qarava e dua na ka.",
     "moreGames": "E levu cake na qito malumu",
     "crumb": "Qito"
+  },
+  "consent": {
+    "label": "Digidigi ni analytics",
+    "text": "E rawa me keimami wilika na nomu sikovi ena Google Analytics? E vakatikora cookies me vakaraitaka vei keimami na tabana e veivuke. E sega ni vakayagataki e dua na ka me baleta na ivakarau ni volivoli. <a href=\"/privacy/#google-analytics\">Na neimami vakayagataka</a>",
+    "allow": "Vakatara",
+    "decline": "Sega, vinaka"
   }
 }

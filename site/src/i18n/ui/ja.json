@@ -536,5 +536,11 @@
     "goodToKnowText": "このゲームは、楽しみといっしょに過ごす時間のためのものです。何かを試したり、測ったり、治療したりするものではありません。",
     "moreGames": "ほかのやさしいゲーム",
     "crumb": "ゲーム"
+  },
+  "consent": {
+    "label": "アクセス解析の選択",
+    "text": "Google Analytics でご訪問を数えてもよろしいですか。どのページが役に立っているかを知るための Cookie を保存します。広告には一切使いません。 <a href=\"/privacy/#google-analytics\">利用方法について</a>",
+    "allow": "許可する",
+    "decline": "許可しない"
   }
 }

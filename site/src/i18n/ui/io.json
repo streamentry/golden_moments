@@ -537,5 +537,11 @@
     "goodToKnowText": "Ca ludo esas por plezuro e komuna tempo. Ol ne probas, mezuras o traktas irquo.",
     "moreGames": "Plura tranquila ludi",
     "crumb": "Ludi"
+  },
+  "consent": {
+    "label": "Selekto pri analizo",
+    "text": "Ka ni povas kontar vua vizito per Google Analytics? Ol pozas kukii qui montras a ni qua pagini helpas. Nulo esas uzata por reklami. <a href=\"/privacy/#google-analytics\">Quale ni uzas ol</a>",
+    "allow": "Permisar",
+    "decline": "No, danko"
   }
 }

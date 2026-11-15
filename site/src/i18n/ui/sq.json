@@ -537,5 +537,11 @@
     "goodToKnowText": "Kjo lojë është për kënaqësi dhe për kohë të bashkuar. Nuk teston, nuk mat dhe nuk trajton asgjë.",
     "moreGames": "Më shumë lojëra të buta",
     "crumb": "Lojëra"
+  },
+  "consent": {
+    "label": "Zgjedhja për analitikën",
+    "text": "A mund ta numërojmë vizitën tuaj me Google Analytics? Ai vendos cookies që na tregojnë cilat faqe ndihmojnë. Asgjë nuk përdoret për reklama. <a href=\"/privacy/#google-analytics\">Si e përdorim</a>",
+    "allow": "Lejo",
+    "decline": "Jo, faleminderit"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Tēnei pāʻani no te oaoa e te tōʻeʻe pamu. ʻAʻore ia e haʻapapu, e fana ʻore hoʻi e tāʻaʻa i tetahi mea.",
     "moreGames": "Mau pāʻani maitai atu",
     "crumb": "Mau pāʻani"
+  },
+  "consent": {
+    "label": "Mā'itira'a nō te tai'o",
+    "text": "E nehenehe ānei tā mātou e tai'o i tō 'oe tere mai nā roto i te Google Analytics? E tu'u te reira i te mau cookie e fa'a'ite mai i te mau 'api e tauturu. 'Aita e mea e fa'a'ohipahia nō te fa'ari'ira'a ho'o. <a href=\"/privacy/#google-analytics\">Mea nāhea mātou e fa'a'ohipa ai</a>",
+    "allow": "Fa'ati'a",
+    "decline": "'Aita, māuruuru"
   }
 }

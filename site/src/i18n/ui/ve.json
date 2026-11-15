@@ -537,5 +537,11 @@
     "goodToKnowText": "Mutambo hoyu ndi wa u diphina na u fhedza tshifhinga noṱhe. A u lingi, a u pimi, kana u lafha tshithu na tshithihi.",
     "moreGames": "Mitambo miṅwe yo leluwaho",
     "crumb": "Mitambo"
+  },
+  "consent": {
+    "label": "Khetho ya musengulusi",
+    "text": "Ri nga vhala u dalela haṋu nga Google Analytics naa? I vhea dzi-cookie dzine dza ri sumbedza uri ndi masiaṱari afhio ane a thusa. A hu na tshithu tshine tsha shumiswa kha zwiambadzo. <a href=\"/privacy/#google-analytics\">Nḓila ine ra i shumisa ngayo</a>",
+    "allow": "Tendela",
+    "decline": "Hai, ndo livhuwa"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Stu ghjocu hè per piacè è tempu inseme. Ùn prova, misura o tratta nunda.",
     "moreGames": "Ghjochi più gentili",
     "crumb": "Ghjochi"
+  },
+  "consent": {
+    "label": "Scelta d'analitica",
+    "text": "Pudemu cuntà a vostra visita cù Google Analytics? Mette cookies chì ci mostranu chì pagine aiutanu. Nunda ùn hè adupratu per a publicità. <a href=\"/privacy/#google-analytics\">Cumu l'adupremu</a>",
+    "allow": "Permette",
+    "decline": "Innò, grazie"
   }
 }

@@ -537,5 +537,11 @@
     "goodToKnowText": "Gem ia i blong glad nomo mo spendem gudfala taem tugeta. Hem i no tesem, skelem o tritim wan samting.",
     "moreGames": "Moa isi gem",
     "crumb": "Ol Gem"
+  },
+  "consent": {
+    "label": "Joes blong analytics",
+    "text": "Yumi save kaontem visit blong yu wetem Google Analytics? Hem i putum ol cookie we i soem long mifala wanem pej i halpem man. Mifala i no yusum wan samting blong advetaesmen. <a href=\"/privacy/#google-analytics\">Olsem wanem mifala i yusum</a>",
+    "allow": "Letem",
+    "decline": "No, tangkyu"
   }
 }

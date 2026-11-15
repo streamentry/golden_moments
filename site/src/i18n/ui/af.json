@@ -537,5 +537,11 @@
     "goodToKnowText": "Hierdie speletjie is vir genot en tyd saam. Dit toets, meet of behandel niks nie.",
     "moreGames": "Meer sagte speletjies",
     "crumb": "Speletjies"
+  },
+  "consent": {
+    "label": "Ontledingskeuse",
+    "text": "Mag ons jou besoek met Google Analytics tel? Dit stel koekies wat ons wys watter bladsye help. Niks word vir advertensies gebruik nie. <a href=\"/privacy/#google-analytics\">Hoe ons dit gebruik</a>",
+    "allow": "Laat toe",
+    "decline": "Nee dankie"
   }
 }

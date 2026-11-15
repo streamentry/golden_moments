@@ -537,5 +537,11 @@
     "goodToKnowText": "Fefe sia nye modzakaɖeɖe kple ɣeyiɣi ɖekae. Medoa naneke kpɔna, dzidzea naneke alo daa atike nɛ o.",
     "moreGames": "Fefe siwo me tufafa le wu",
     "crumb": "Fefewo"
+  },
+  "consent": {
+    "label": "Akɔntabubu ƒe tiatia",
+    "text": "Míate ŋu axlẽ wò sasrãkpɔ kple Google Analytics a? Etsɔa cookies dana si ɖenɛ fiaa mí axa siwo kpena ɖe ame ŋu. Womezãa naneke na adzɔnudzradzra o. <a href=\"/privacy/#google-analytics\">Alesi míezãnɛ</a>",
+    "allow": "Ðe mɔ",
+    "decline": "Ao, akpe"
   }
 }

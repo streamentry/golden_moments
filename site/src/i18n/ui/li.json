@@ -537,5 +537,11 @@
     "goodToKnowText": "Dit spel is veur plezeer en tied same. 't Test, maet of behanjelt niks.",
     "moreGames": "Mee röstige spölkes",
     "crumb": "Spölkes"
+  },
+  "consent": {
+    "label": "Keuze euver statistieke",
+    "text": "Maoge veer dien bezeuk tèlle mit Google Analytics? 't Zet cookies die ós laote zien welke pagina's helpe. Niks weurt gebruuk veur reclame. <a href=\"/privacy/#google-analytics\">Wie veer 't gebruke</a>",
+    "allow": "Toestoon",
+    "decline": "Nae, danke"
   }
 }

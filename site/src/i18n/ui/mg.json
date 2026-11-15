@@ -537,5 +537,11 @@
     "goodToKnowText": "Natao hialana voly sy hiarahana mandany fotoana ity lalao ity. Tsy mitsapa, tsy mandrefy ary tsy mitsabo na inona na inona.",
     "moreGames": "Lalao milamina hafa",
     "crumb": "Lalao"
+  },
+  "consent": {
+    "label": "Safidy momba ny fanadihadiana",
+    "text": "Azonay isaina amin'ny Google Analytics ve ny fitsidihanao? Mametraka cookies izy izay maneho aminay hoe pejy inona no manampy. Tsy misy ampiasaina amin'ny dokam-barotra. <a href=\"/privacy/#google-analytics\">Ny fomba ampiasanay azy</a>",
+    "allow": "Avelao",
+    "decline": "Tsia, misaotra"
   }
 }

@@ -68,7 +68,6 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
 <html lang={locale.htmlLang} dir={locale.dir}>
   <head>
     <meta charset="utf-8" />
-    {analytics && <Analytics />}
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     <meta name="description" content={metaDescription} />
@@ -116,6 +115,7 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
   <body data-offers={JSON.stringify(offers)} data-detect={detectLanguage ? 'true' : 'false'}>
     <a class="skip-link" href="#main">{t.common.skipLink}</a>
     <Header lang={lang} />
+    {analytics && <Analytics lang={lang} />}
     {
       lang !== DEFAULT_LOCALE && (
         <aside aria-label={t.common.languages}>

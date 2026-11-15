@@ -537,5 +537,11 @@
     "goodToKnowText": "Aquest joc és per gaudir i passar temps plegats. No posa a prova, no mesura ni tracta res.",
     "moreGames": "Més jocs suaus",
     "crumb": "Jocs"
+  },
+  "consent": {
+    "label": "Opció d'analítica",
+    "text": "Podem comptar la vostra visita amb Google Analytics? Desa galetes que ens mostren quines pàgines ajuden. No s'utilitza res per a publicitat. <a href=\"/privacy/#google-analytics\">Com l'utilitzem</a>",
+    "allow": "Permet",
+    "decline": "No, gràcies"
   }
 }

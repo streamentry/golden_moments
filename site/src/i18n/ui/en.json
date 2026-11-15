@@ -537,5 +537,11 @@
     "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
     "moreGames": "More gentle games",
     "crumb": "Games"
+  },
+  "consent": {
+    "label": "Analytics choice",
+    "text": "May we count your visit with Google Analytics? It sets cookies that show us which pages help. Nothing is used for ads. <a href=\"/privacy/#google-analytics\">How we use it</a>",
+    "allow": "Allow",
+    "decline": "No thanks"
   }
 }

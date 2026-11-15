@@ -537,5 +537,11 @@
     "goodToKnowText": "Ev lîstik ji bo kêfxweşî û dema bihevrebûnê ye. Ti tiştekî naceribîne, napîve û derman nake.",
     "moreGames": "Zêdetir lîstikên aram",
     "crumb": "Lîstik"
+  },
+  "consent": {
+    "label": "Hilbijartina analîtîkê",
+    "text": "Em dikarin serdana we bi Google Analytics bijmêrin? Ew çerezan datîne ku nîşanî me didin ka kîjan rûpel alîkar in. Tiştek ji bo reklaman nayê bikaranîn. <a href=\"/privacy/#google-analytics\">Em çawa bi kar tînin</a>",
+    "allow": "Destûr bide",
+    "decline": "Na, spas"
   }
 }

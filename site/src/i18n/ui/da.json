@@ -536,5 +536,11 @@
     "goodToKnowText": "Dette spil er til fornøjelse og tid sammen. Det tester, måler eller behandler ikke noget.",
     "moreGames": "Flere rolige spil",
     "crumb": "Spil"
+  },
+  "consent": {
+    "label": "Valg om statistik",
+    "text": "Må vi tælle dit besøg med Google Analytics? Det sætter cookies, der viser os, hvilke sider der hjælper. Intet bruges til reklamer. <a href=\"/privacy/#google-analytics\">Sådan bruger vi det</a>",
+    "allow": "Tillad",
+    "decline": "Nej tak"
   }
 }

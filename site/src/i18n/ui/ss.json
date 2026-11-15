@@ -537,5 +537,11 @@
     "goodToKnowText": "Lomdlalo wekujabulela nekuchitha sikhatsi ndzawonye. Awuhloli, awulinganisi noma awelaphi lutfo.",
     "moreGames": "Yetinye imidlalo lenhlanti",
     "crumb": "Imidlalo"
+  },
+  "consent": {
+    "label": "Kukhetsa kuhlatiya",
+    "text": "Singakubala yini kuvakashela kwakho nge-Google Analytics? Ibeka ema-cookie lasikhombisa kutsi ngumaphi emakhasi lasitako. Kute lokusetjentiselwa kukhangisa. <a href=\"/privacy/#google-analytics\">Indlela lesikusebentisa ngayo</a>",
+    "allow": "Vumela",
+    "decline": "Cha, ngiyabonga"
   }
 }

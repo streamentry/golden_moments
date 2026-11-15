@@ -537,5 +537,11 @@
     "goodToKnowText": "Aka anatt’awix kusist’añatakiwa ukat mayacht’asis sarnaqañatakiwa. Janiw kuna yant’añas, tupuñas ni qullañas utjkiti.",
     "moreGames": "Juk’amp llamp’u chuyman anatt’awinaka",
     "crumb": "Anatañanaka"
+  },
+  "consent": {
+    "label": "Analytics ajlliwi",
+    "text": "Google Analytics ukamp jutatam jakhuñani? Cookies uchi, kawkïr laphinakas yanapi uk uñacht'ayañataki. Janiw kunas anuncionakatak apnaqatäkiti. <a href=\"/privacy/#google-analytics\">Kunjamas apnaqtan</a>",
+    "allow": "Jaysaña",
+    "decline": "Janiwa, yuspagara"
   }
 }

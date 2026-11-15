@@ -536,5 +536,11 @@
     "goodToKnowText": "Tato hra slouží k potěšení a společnému času. Nic netestuje, neměří ani neléčí.",
     "moreGames": "Další jemné hry",
     "crumb": "Hry"
+  },
+  "consent": {
+    "label": "Volba analytiky",
+    "text": "Můžeme vaši návštěvu započítat pomocí Google Analytics? Ukládá soubory cookie, které nám ukazují, které stránky pomáhají. Nic se nepoužívá k reklamě. <a href=\"/privacy/#google-analytics\">Jak ho používáme</a>",
+    "allow": "Povolit",
+    "decline": "Ne, děkuji"
   }
 }

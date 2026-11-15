@@ -537,5 +537,11 @@
     "goodToKnowText": "Nin tulon in ye ɲɛnajɛ ni waati kɛli ye ɲɔgɔn fɛ. A tɛ foyi sɛgɛsɛgɛ, k’a suman walima k’a furakɛ.",
     "moreGames": "Tulon minnu ka nɔgɔn kosɛbɛ",
     "crumb": "Tulonkɛw"
+  },
+  "consent": {
+    "label": "Sɛgɛsɛgɛli sugandi",
+    "text": "An bɛ se k'i ka taali jate ni Google Analytics ye wa? A bɛ cookies bila minnu b'a jira an na ko sɛbɛn jumɛnw bɛ dɛmɛ kɛ. Foyi tɛ kɛ reklamu kama. <a href=\"/privacy/#google-analytics\">An b'a kɛ cogo min na</a>",
+    "allow": "Sɔn",
+    "decline": "Ayi, i ni ce"
   }
 }

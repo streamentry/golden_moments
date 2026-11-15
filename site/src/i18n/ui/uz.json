@@ -536,5 +536,11 @@
     "goodToKnowText": "Bu oʻyin zavq va birga vaqt oʻtkazish uchun. U hech narsani sinamaydi, oʻlchamaydi yoki davolamaydi.",
     "moreGames": "Yana sokin oʻyinlar",
     "crumb": "Oʻyinlar"
+  },
+  "consent": {
+    "label": "Analitika tanlovi",
+    "text": "Tashrifingizni Google Analytics bilan sanasak maylimi? U qaysi sahifalar foydali ekanini koʻrsatadigan cookie fayllarini saqlaydi. Hech narsa reklama uchun ishlatilmaydi. <a href=\"/privacy/#google-analytics\">Undan qanday foydalanamiz</a>",
+    "allow": "Ruxsat berish",
+    "decline": "Yoʻq, rahmat"
   }
 }

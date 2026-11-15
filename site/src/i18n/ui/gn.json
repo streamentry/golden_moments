@@ -537,5 +537,11 @@
     "goodToKnowText": "Ko ñembosarái oĩ vy'arã ha ojehasa porã hag̃ua oñondive. Ndojapói ñeha'ã, ndoha'ãi ha ndomonguerái mba'eve.",
     "moreGames": "Hetave ñembosarái py'aguapýpe",
     "crumb": "Ñembosaráikuéra"
+  },
+  "consent": {
+    "label": "Analytics jeporavo",
+    "text": "Ikatúpa ropapa ne jeguata Google Analytics rupive? Omoĩ cookies ohechaukáva ñandéve mba'e kuatiarogue oipytyvõ. Mba'eve ndojeiporúi anuncio-rã. <a href=\"/privacy/#google-analytics\">Mba'éichapa jaipuru</a>",
+    "allow": "Moneĩ",
+    "decline": "Nahániri, aguyje"
   }
 }

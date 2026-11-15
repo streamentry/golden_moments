@@ -537,5 +537,11 @@
     "goodToKnowText": "Ooɗoo fijo ko ngam weltinde e sahaa gooto. Nde ƴeewndataa, nde foondataa, nde safrataa hay huunde.",
     "moreGames": "Pijirlooji ɓurɗi leelde",
     "crumb": "Pijirlooji"
+  },
+  "consent": {
+    "label": "Suɓaade ƴeewndo",
+    "text": "Hol to min mbaawi limde njillu maa e Google Analytics? Ɗum waɗata cookies hollirooji min hello ji nafata. Alaa ko huutortee ngam jeeyngal. <a href=\"/privacy/#google-analytics\">No min huutortoo ɗum</a>",
+    "allow": "Yamir",
+    "decline": "Alaa, a jaaraama"
   }
 }

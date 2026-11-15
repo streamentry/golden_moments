@@ -537,5 +537,11 @@
     "goodToKnowText": "Lo mdlalo uyokujabulela nokuba ndawonye. Awuhloli, awulinganisi noma awuwelaphi lutho.",
     "moreGames": "Eminye imidlalo ethambile",
     "crumb": "Imidlalo"
+  },
+  "consent": {
+    "label": "Ukukhetha ukuhlaziya",
+    "text": "Singakubala ukuvakasha kwakho nge-Google Analytics? Ibeka ama-cookie asikhombisa ukuthi yimaphi amakhasi asizayo. Akukho lutho olusetshenziselwa izikhangiso. <a href=\"/privacy/#google-analytics\">Indlela esiyisebenzisa ngayo</a>",
+    "allow": "Vumela",
+    "decline": "Cha, ngiyabonga"
   }
 }

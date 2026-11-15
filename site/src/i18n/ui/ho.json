@@ -537,5 +537,11 @@
     "goodToKnowText": "Inai gadara be moale bona nega hebou totona sibona. Ia ese gau ta ia tohoa lasi, ia haeroa lasi eiava ia hanamoa lasi.",
     "moreGames": "Hekwarahi lasi gadara haida",
     "crumb": "Gadara"
+  },
+  "consent": {
+    "label": "Analytics abia hidi",
+    "text": "Ita be Google Analytics amo emu vadivadi ita duahia diba? Ia ese cookies ia atoa, ai dekenai ia hahedinaraia edena pepa be durua. Gau ta be koimaimai totona do ita gaukaralaia lasi. <a href=\"/privacy/#google-analytics\">Edena bamona ita gaukaralaia</a>",
+    "allow": "Gwau namo",
+    "decline": "Lasi, tanikiu"
   }
 }

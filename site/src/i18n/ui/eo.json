@@ -537,5 +537,11 @@
     "goodToKnowText": "Ĉi tiu ludo estas por ĝuo kaj tempo kune. Ĝi nenion provas, mezuras aŭ traktas.",
     "moreGames": "Pli mildaj ludoj",
     "crumb": "Ludoj"
+  },
+  "consent": {
+    "label": "Elekto pri statistiko",
+    "text": "Ĉu ni rajtas kalkuli vian viziton per Google Analytics? Ĝi metas kuketojn, kiuj montras al ni, kiuj paĝoj helpas. Nenio estas uzata por reklamoj. <a href=\"/privacy/#google-analytics\">Kiel ni uzas ĝin</a>",
+    "allow": "Permesi",
+    "decline": "Ne, dankon"
   }
 }

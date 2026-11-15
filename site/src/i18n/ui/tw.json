@@ -537,5 +537,11 @@
     "goodToKnowText": "Saa keme yi yɛ ma anigye ne bere a mo di. Ɛnhwehwɛ, ɛntwɛn anaa ɛnsa ade biara.",
     "moreGames": "Keme a ɛyɛ mmerɛw foforo",
     "crumb": "Keme"
+  },
+  "consent": {
+    "label": "Nhwehwɛmu ho paw",
+    "text": "Yɛmfa Google Analytics nkan wo nsrahwɛ? Ɛde cookies sie a ɛkyerɛ yɛn krataafa a ɛboa. Yɛmfa biribiara nyɛ dawurubɔ. <a href=\"/privacy/#google-analytics\">Sɛnea yɛde di dwuma</a>",
+    "allow": "Ma kwan",
+    "decline": "Daabi, meda wo ase"
   }
 }

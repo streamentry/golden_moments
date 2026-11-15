@@ -537,5 +537,11 @@
     "goodToKnowText": "Saa agodie yi yɛ anigye ne bere a wɔbom nya. Ɛnsɔ biribiara nhwɛ, nsusuw anaasɛ ɛnsa.",
     "moreGames": "Agodie a ɛyɛ brɛoo kɛse",
     "crumb": "Agodie a wɔde di agoru"
+  },
+  "consent": {
+    "label": "Nhwehwɛmu ho paw",
+    "text": "Yɛmfa Google Analytics nkan wo nsrahwɛ? Ɛde cookies sie a ɛkyerɛ yɛn krataafa a ɛboa. Yɛmfa biribiara nyɛ dawurubɔ. <a href=\"/privacy/#google-analytics\">Sɛnea yɛde di dwuma</a>",
+    "allow": "Ma kwan",
+    "decline": "Daabi, meda wo ase"
   }
 }

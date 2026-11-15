@@ -537,5 +537,11 @@
     "goodToKnowText": "Orunyando ndwi orwonyando noruveze pamwe. Karurore, okupima poo okuverura otjina ngamwa.",
     "moreGames": "Omarunyando warwe omapu",
     "crumb": "Omarunyando"
+  },
+  "consent": {
+    "label": "Ohoroworo yaanalytics",
+    "text": "Mamatu yandja okuvaruka omeendo woye na Google Analytics? I tura ama-cookies ngu maye tu raisa ovikaratasa mbi vatera. Kape na tjiṋa tji mati ruuruka ku nomakwizikiro. <a href=\"/privacy/#google-analytics\">Omuano mbu matu i ruuruka</a>",
+    "allow": "Itavera",
+    "decline": "Kako, okuhepa"
   }
 }

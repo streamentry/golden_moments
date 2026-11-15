@@ -537,5 +537,11 @@
     "goodToKnowText": "Ta'n cloie shoh son taitnys as ceau traa ry-cheilley. Cha nel eh prowal, towse ny lheeys red erbee.",
     "moreGames": "Tooilley cloiaghyn meen",
     "crumb": "Cloiaghyn"
+  },
+  "consent": {
+    "label": "Reih anaylsys",
+    "text": "Vod mayd yn chuirt ayd y choontey lesh Google Analytics? T'eh soiaghey cookies ta soilshaghey dooin cre ny duillagyn ta cooney. Cha nel veg jeh er ny ymmydey son soilsheenyn. <a href=\"/privacy/#google-analytics\">Kys ta shin dy ymmydey eh</a>",
+    "allow": "Lhig da",
+    "decline": "Cha nee, gura mie ayd"
   }
 }

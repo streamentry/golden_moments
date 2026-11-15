@@ -537,5 +537,11 @@
     "goodToKnowText": "Eudano eli olya nuninwa enyanyu nokukala pamwe. Ihali yeleka, okukonakona ile okupanga sha.",
     "moreGames": "Omaudano amwe ombili",
     "crumb": "Omaudano"
+  },
+  "consent": {
+    "label": "Okuhoolola analytics",
+    "text": "Otu vulu okuvaluwa ondjenda yoye nGoogle Analytics? Ohai tula oocookies ndhoka tadhi tu ulukile omafo ngoka taga kwatha. Kaku na sha tashi longithwa moonkundaneki dhokulandithapo. <a href=\"/privacy/#google-analytics\">Nkene tatu yi longitha</a>",
+    "allow": "Pitika",
+    "decline": "Aawe, tangi"
   }
 }

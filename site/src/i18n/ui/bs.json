@@ -537,5 +537,11 @@
     "goodToKnowText": "Ova igra je za uživanje i druženje. Ništa ne testira, ne mjeri niti tretira.",
     "moreGames": "Nežnije igre",
     "crumb": "Igre"
+  },
+  "consent": {
+    "label": "Izbor analitike",
+    "text": "Smijemo li brojati vašu posjetu pomoću Google Analyticsa? On postavlja kolačiće koji nam pokazuju koje stranice pomažu. Ništa se ne koristi za reklame. <a href=\"/privacy/#google-analytics\">Kako ga koristimo</a>",
+    "allow": "Dozvoli",
+    "decline": "Ne, hvala"
   }
 }

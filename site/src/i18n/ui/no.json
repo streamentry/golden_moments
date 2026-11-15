@@ -537,5 +537,11 @@
     "goodToKnowText": "Dette spillet er laget for glede og samvær. Det tester, måler eller behandler ingenting.",
     "moreGames": "Flere milde spill",
     "crumb": "Spill"
+  },
+  "consent": {
+    "label": "Valg om statistikk",
+    "text": "Kan vi telle besøket ditt med Google Analytics? Det setter informasjonskapsler som viser oss hvilke sider som hjelper. Ingenting brukes til reklame. <a href=\"/privacy/#google-analytics\">Slik bruker vi det</a>",
+    "allow": "Tillat",
+    "decline": "Nei takk"
   }
 }

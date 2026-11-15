@@ -537,5 +537,11 @@
     "goodToKnowText": "Pinnguaq una nuannisaarnissamut peqatigiinnissamullu atugassaavoq. Sunilluunniit misilitsissutaanngilaq, uuttuutaassanngilaq katsorsaataanaraniluunniit.",
     "moreGames": "Pinnguaatit allat eqqissisimanartut",
     "crumb": "Pinnguaatit"
+  },
+  "consent": {
+    "label": "Misissuinermut toqqaaneq",
+    "text": "Pulaarnerit Google Analytics atorlugu kisissinnaavigut? Cookies-inik inissiisarpoq nittartakkat sorliit iluaqutaasut takutittartunik. Suna tamarmi niuerutinut atorneqanngilaq. <a href=\"/privacy/#google-analytics\">Qanoq atortarnerput</a>",
+    "allow": "Akuerigit",
+    "decline": "Naamik, qujanaq"
   }
 }

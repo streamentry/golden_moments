@@ -537,5 +537,11 @@
     "goodToKnowText": "Tämä peli on tarkoitettu virkistykseen ja yhdessäoloon. Se ei testaa, mittaa tai hoida mitään.",
     "moreGames": "Lisää rauhallisia pelejä",
     "crumb": "Pelit"
+  },
+  "consent": {
+    "label": "Analytiikan valinta",
+    "text": "Saammeko laskea käyntisi Google Analyticsilla? Se tallentaa evästeitä, jotka näyttävät meille, mitkä sivut auttavat. Mitään ei käytetä mainontaan. <a href=\"/privacy/#google-analytics\">Miten käytämme sitä</a>",
+    "allow": "Salli",
+    "decline": "Ei kiitos"
   }
 }

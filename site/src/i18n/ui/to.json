@@ -537,5 +537,11 @@
     "goodToKnowText": "Ko e kemi ni ko e meʻa ke fiefia ai mo e taimi fakataha. ʻOku ʻikai ke ne siviʻi, fuʻu pe fakalelei ha meʻa.",
     "moreGames": "Ngaahi kemi fiemālie kehe",
     "crumb": "Ngaahi kemi"
+  },
+  "consent": {
+    "label": "Fili ki he analytics",
+    "text": "'E lava ke mau lau ho'o 'a'ahí 'aki 'a e Google Analytics? 'Oku ne tuku 'a e ngaahi cookie 'oku ne fakahaa'i mai 'a e ngaahi peesi 'oku tokoni. 'Oku 'ikai ngāue'aki ha me'a ki he tu'uaki. <a href=\"/privacy/#google-analytics\">Founga 'oku mau ngāue'aki ai</a>",
+    "allow": "Faka'atā",
+    "decline": "'Ikai, mālō"
   }
 }

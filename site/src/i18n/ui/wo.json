@@ -537,5 +537,11 @@
     "goodToKnowText": "Po mii dafa nekk ngir bànneexu ak bokk jamono. Du seet, du natt, te du faj dara.",
     "moreGames": "Yeneen po yu lewet",
     "crumb": "Po yi"
+  },
+  "consent": {
+    "label": "Tànneef ci saytu",
+    "text": "Ndax mën nanu waññ sa ganale ak Google Analytics? Day def ay cookies yuy won nu xët yi am njariñ. Dara jëfandikuwul ngir yéené. <a href=\"/privacy/#google-analytics\">Ni nuy jëfandikoo</a>",
+    "allow": "Nangu",
+    "decline": "Déedéet, jërëjëf"
   }
 }

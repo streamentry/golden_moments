@@ -537,5 +537,11 @@
     "goodToKnowText": "Ithako rĩrĩ nĩ rĩa gũkena na kũhũthĩra ihinda hamwe. Rĩtirutaga ithimi, rĩtipimaga kana kũhonia kĩndũ o na kĩrĩkũ.",
     "moreGames": "Mathako mangĩ ma ũhoreri",
     "crumb": "Mathako"
+  },
+  "consent": {
+    "label": "Gũthuura analytics",
+    "text": "Nĩ tũngĩtara gũceerera gwaku na Google Analytics? Nĩ ĩigaga cookies iria ciĩtũonagia nĩ mĩhuro ĩrĩkũ ĩteithagia. Gũtirĩ kĩndũ kĩhũthagĩrwo kũmenyithania. <a href=\"/privacy/#google-analytics\">Ũrĩa tũmĩhũthagĩra</a>",
+    "allow": "Ĩtĩkĩria",
+    "decline": "Aca, nĩ ngatho"
   }
 }

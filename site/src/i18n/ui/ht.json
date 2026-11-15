@@ -537,5 +537,11 @@
     "goodToKnowText": "Jwèt sa a fèt pou amizman epi pou pase bon moman ansanm. Li pa teste, li pa mezire, ni li pa trete anyen.",
     "moreGames": "Lòt jwèt ki dou",
     "crumb": "Jwèt"
+  },
+  "consent": {
+    "label": "Chwa pou estatistik",
+    "text": "Èske nou ka konte vizit ou ak Google Analytics? Li mete cookies ki montre nou ki paj ki ede. Nou pa sèvi ak anyen pou piblisite. <a href=\"/privacy/#google-analytics\">Kijan nou sèvi ak li</a>",
+    "allow": "Pèmèt",
+    "decline": "Non, mèsi"
   }
 }

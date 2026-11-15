@@ -537,5 +537,11 @@
     "goodToKnowText": "Hetta spælið er til hugna og tíð saman. Tað roynir, mátar ella viðger ikki nakað.",
     "moreGames": "Fleiri blíðir spøl",
     "crumb": "Spøl"
+  },
+  "consent": {
+    "label": "Val um hagtøl",
+    "text": "Mugu vit telja vitjan tína við Google Analytics? Tað setur kakur, sum vísa okkum, hvørjar síður hjálpa. Einki verður nýtt til lýsingar. <a href=\"/privacy/#google-analytics\">Soleiðis nýta vit tað</a>",
+    "allow": "Loyv",
+    "decline": "Nei takk"
   }
 }

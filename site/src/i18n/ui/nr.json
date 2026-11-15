@@ -537,5 +537,11 @@
     "goodToKnowText": "Umdlalo lo wenzelwe ukuthabela nokuba ndawonye. Awuhloli, awulinganisi begodu awulaphi litho.",
     "moreGames": "Imidlalo eminye yobumnene",
     "crumb": "Imidlalo"
+  },
+  "consent": {
+    "label": "Ukukhetha ukuhlaziya",
+    "text": "Singakubala na ukuvakatjha kwakho ngeGoogle Analytics? Ibeka ama-cookie asitjengisa bona maphi amakhasi asizako. Akukho okusetjenziselwa iimkhangiso. <a href=\"/privacy/#google-analytics\">Indlela esiyisebenzisa ngayo</a>",
+    "allow": "Vumela",
+    "decline": "Awa, ngiyathokoza"
   }
 }

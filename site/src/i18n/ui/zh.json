@@ -537,5 +537,11 @@
     "goodToKnowText": "这款游戏旨在带来乐趣和共度美好时光。它不用于任何测试、评估或治疗。",
     "moreGames": "更多温和游戏",
     "crumb": "游戏"
+  },
+  "consent": {
+    "label": "统计选择",
+    "text": "我们可以用 Google Analytics 统计您的访问吗？它会保存 Cookie，让我们知道哪些页面有帮助。任何内容都不会用于广告。 <a href=\"/privacy/#google-analytics\">我们如何使用</a>",
+    "allow": "允许",
+    "decline": "不用了，谢谢"
   }
 }

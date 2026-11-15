@@ -60,7 +60,9 @@ tags and link targets; it does not assess translation quality.
 - **Google Analytics 4 is the only analytics.** The maintainer approved it on
   2026-10-25 (`src/components/Analytics.astro`, ID in `src/lib/site.ts`), with
   Google signals and ad personalization off. It is not loaded on Photo pairs,
-  which keeps a no-third-party CSP. No ads, and no other tracking, cookies or
+  which keeps a no-third-party CSP. In the EEA, UK and Switzerland it loads
+  only after the visitor chooses Allow (`src/lib/consent.ts`); an unknown
+  country is asked, never assumed. No ads, and no other tracking, cookies or
   analytics without a documented decision and a privacy-page update first.
 - **No timers, scores, streaks or quizzing**, in games or copy. Health pages use
   risk language and cite sources; see `CONTENT_GUIDE.md`.

@@ -537,5 +537,11 @@
     "goodToKnowText": "Hic ludus ad oblectationem et tempus una degendum factus est. Nihil probat, metitur aut curat.",
     "moreGames": "Plures ludi lenes",
     "crumb": "Ludi"
+  },
+  "consent": {
+    "label": "Electio de analysi",
+    "text": "Licetne nobis visitationem tuam per Google Analytics numerare? Crustula ponit quae nobis ostendunt quae paginae adiuvent. Nihil ad praeconia adhibetur. <a href=\"/privacy/#google-analytics\">Quomodo eo utimur</a>",
+    "allow": "Permitte",
+    "decline": "Minime, gratias"
   }
 }
