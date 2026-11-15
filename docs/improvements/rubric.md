@@ -396,6 +396,7 @@ an aggregate score change from this narrow sound correction.
 
 Read Aloud now remains active while speech is queued, and optional game tones
 remain quiet until it finishes. No new controls or text were added. The full
-site suite and TypeScript check pass locally; browser voice and participant
-review were not run. Keep the last measured repository-wide score at **9.87**
+site suite and TypeScript check pass locally; hosted Website, browser build and
+targeted Flutter checks also pass. Browser voice behavior and participant
+review were not tested. Keep the last measured repository-wide score at **9.87**
 and lowest dimension at **9.37**; do not infer an aggregate score change.

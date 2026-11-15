@@ -863,4 +863,6 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
 | Local checks | `pnpm --dir site verify`: 763 tests, 16,878 pages built, `check-site` 0 errors and 580 warnings; `pnpm --dir site exec tsc --noEmit`; focused speech/sound tests. | Pass locally under Node 22.14.0, with an unsupported-engine warning; hosted CI will use the workflow environment. |
 | Implementation commit | `e2ccda51` | Shared Read Aloud state and sound checks, based on merged `main` `1acbe90f`. |
+| Merge | PR #258 as `d7cd1cf` | Squash-merged after required checks passed. |
+| Hosted checks | PR #258 head `f6cd1c5b`: Website coverage gates, site unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, browser visual, app-copy, spelling and semantic checks passed; PR deploy was skipped. | Pass. |
 | Not verified | No real-browser voice-queue delay, audio, caregiver or participant review was run. | Browser voice location can vary; this change does not make it local-only. |
