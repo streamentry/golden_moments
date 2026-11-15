@@ -27,6 +27,11 @@ added or changed English guide has a matching copy for all registered
 non-English languages and active site locale variants. This is a file-coverage
 gate. It rejects added numeric details, except a localized emergency number when English names one. Translated SEO titles may reach 140 characters; long display widths still warn. These checks do not assess translation quality or replace native-speaker review.
 
+Changed fixed strings in `src/i18n/ui`, `games` and `play` also need entries
+across registered languages and active site locale variants. The check skips
+language-specific `play.content` and validates presence, placeholders, HTML
+tags and link targets; it does not assess translation quality.
+
 ## Layout
 
 | Path | What it is |
