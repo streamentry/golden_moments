@@ -25,6 +25,14 @@ export interface VisibilityTargetLike {
   removeEventListener(type: 'visibilitychange', listener: () => void): void;
 }
 
+const speechRuns = new WeakMap<SpeechLike, number>();
+
+function nextSpeechRun(synth: SpeechLike): number {
+  const run = (speechRuns.get(synth) ?? 0) + 1;
+  speechRuns.set(synth, run);
+  return run;
+}
+
 /** True while the browser is speaking or has an utterance waiting to start. */
 export function hasQueuedOrActiveSpeech(synth: SpeechLike): boolean {
   return synth.speaking || synth.pending === true;
@@ -58,12 +66,19 @@ export function readAloud(
   lang: string,
   onEnd?: () => void,
 ): boolean {
+  const run = nextSpeechRun(synth);
   try {
     synth.cancel();
     const utterance = createUtterance(text, lang, 0.85);
     if (onEnd) {
-      utterance.onend = onEnd;
-      utterance.onerror = onEnd;
+      let finished = false;
+      const finish = () => {
+        if (finished || speechRuns.get(synth) !== run) return;
+        finished = true;
+        onEnd();
+      };
+      utterance.onend = finish;
+      utterance.onerror = finish;
     }
     synth.speak(utterance);
     return true;
@@ -95,6 +110,7 @@ export function toggleReadAloud(
 
 /** Stop any speech in progress. */
 export function stopReading(synth: SpeechLike): void {
+  nextSpeechRun(synth);
   try {
     synth.cancel();
   } catch {
