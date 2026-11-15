@@ -1,4 +1,5 @@
 import { settingsStore } from './settings';
+import { speechOf } from '../../lib/games/readAloud';
 
 let ctx: AudioContext | null = null;
 
@@ -24,18 +25,22 @@ function tone(freq: number, start: number, duration: number, volume: number): vo
   osc.stop(t + duration + 0.05);
 }
 
+function canPlayGameSound(): boolean {
+  return settingsStore.state.sound && !speechOf()?.speaking;
+}
+
 /** Soft, optional sounds. There is never a failure sound. */
 export const sounds = {
   tap(): void {
-    if (settingsStore.state.sound) tone(660, 0, 0.12, 0.05);
+    if (canPlayGameSound()) tone(660, 0, 0.12, 0.05);
   },
   match(): void {
-    if (!settingsStore.state.sound) return;
+    if (!canPlayGameSound()) return;
     tone(523.25, 0, 0.35, 0.07);
     tone(659.25, 0.12, 0.4, 0.06);
   },
   done(): void {
-    if (!settingsStore.state.sound) return;
+    if (!canPlayGameSound()) return;
     tone(523.25, 0, 0.5, 0.06);
     tone(659.25, 0.15, 0.5, 0.05);
     tone(783.99, 0.3, 0.7, 0.05);

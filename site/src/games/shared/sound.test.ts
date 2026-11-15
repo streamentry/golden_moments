@@ -63,5 +63,28 @@ describe('sounds multisensory feedback module', () => {
 
     expect(() => sounds.match()).not.toThrow();
     expect(() => sounds.done()).not.toThrow();
+
+    const startsBeforeSpeech = mockStart.mock.calls.length;
+    vi.stubGlobal('window', {
+      AudioContext: MockAudioContext,
+      speechSynthesis: {
+        speak: vi.fn(),
+        cancel: vi.fn(),
+        speaking: true,
+      },
+    });
+    sounds.tap();
+    sounds.match();
+    sounds.done();
+    expect(mockStart).toHaveBeenCalledTimes(startsBeforeSpeech);
+
+    const speechSynthesis = {
+      speak: vi.fn(),
+      cancel: vi.fn(),
+      speaking: false,
+    };
+    vi.stubGlobal('window', { AudioContext: MockAudioContext, speechSynthesis });
+    sounds.tap();
+    expect(mockStart).toHaveBeenCalledTimes(startsBeforeSpeech + 1);
   });
 });

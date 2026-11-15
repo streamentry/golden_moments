@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { readAloud, speechOf, stopReading, type SpeechLike } from '../../lib/games/readAloud';
+import { speechOf, stopReading, toggleReadAloud, type SpeechLike } from '../../lib/games/readAloud';
 import type { PlayUi } from '../../i18n/play';
 import { Icon } from './Icon';
 import { sounds } from './sound';
@@ -45,14 +45,7 @@ export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
   if (!synth) return null;
 
   const toggle = () => {
-    sounds.tap();
-    if (speaking) {
-      stopReading(synth);
-      setSpeaking(false);
-      return;
-    }
-    const started = readAloud(synth, text, lang, () => setSpeaking(false));
-    setSpeaking(started);
+    toggleReadAloud(synth, speaking, text, lang, setSpeaking, sounds.tap);
   };
 
   return (

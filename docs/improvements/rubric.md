@@ -368,3 +368,7 @@ The flower stem hit area now extends beyond its visible border; the drawing and 
 ## Round 98 score note (2026-11-14)
 
 The new CI gate checks changed app ARB strings for presence across the 185-code registry. It adds no interface, copy or runtime behavior. The focused tests and all 127 Python tests pass. This gate cannot score translation meaning or language quality. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a full-rubric change from this workflow-only improvement.
+
+## Round 99 score note (2026-11-14)
+
+Optional game tones pause while browser Read Aloud is active; successful speech starts without an extra tap tone. The 1,877 site tests, TypeScript, build and `check-site` pass. No settings, copy or saved data changed. No browser audio, screen-reader, caregiver or participant review was run. Keep the last measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a full-rubric change from this site-only adjustment.
