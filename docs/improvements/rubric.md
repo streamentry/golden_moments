@@ -391,3 +391,11 @@ browser and other required PR checks also pass. No user audio review was run.
 Keep the last measured
 repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer
 an aggregate score change from this narrow sound correction.
+
+## Round 102 score note (2026-11-15)
+
+Read Aloud now remains active while speech is queued, and optional game tones
+remain quiet until it finishes. No new controls or text were added. The full
+site suite and TypeScript check pass locally; browser voice and participant
+review were not run. Keep the last measured repository-wide score at **9.87**
+and lowest dimension at **9.37**; do not infer an aggregate score change.

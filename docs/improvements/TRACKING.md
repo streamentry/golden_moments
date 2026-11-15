@@ -2,7 +2,7 @@
 
 Goal: Research trustworthy guidance about Alzheimer's, vascular, Lewy body, frontotemporal and mixed dementia; Huntington's disease, Creutzfeldt-Jakob disease, normal-pressure hydrocephalus and Parkinson's disease; and caregiver activities. Choose one evidence-led app or site improvement at a time, implement, verify, log, commit and push it. Changed fixed copy must be covered in all 185 registered language codes.
 
-**Source improvements: 101 / 500 implemented**
+**Source improvements: 102 / 500 implemented**
 
 **Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
@@ -24,6 +24,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | 99 | Suppress optional website game tones during Read Aloud | No fixed text or locale files changed. The full-language count remains 3/500. |
 | 100 | Changed fixed website dictionary coverage gate | No end-user copy changed. CI checks changed strings across all 190 active site routes; full-language coverage remains 3/500. |
 | 101 | Play the coloring completion sound only on the first completion transition | No fixed text or locale files changed. The full-language count remains 3/500. |
+| 102 | Keep Read Aloud active while speech is queued | No fixed text or locale files changed. The full-language count remains 3/500. |
 
 ---
 
@@ -96,7 +97,8 @@ The source log records which product improvements exist. The separate 185-langua
 | 99 | Prevent optional game tones from overlapping Read Aloud | Merged in PR #253 as `72bb7f47`; no fixed text changed. |
 | 100 | Changed fixed website dictionary coverage gate | Implemented; no fixed text changed. |
 | 101 | One completion chime per coloring completion | Implemented; no fixed text changed. |
-| 102–500 | Planned one by one | Pending |
+| 102 | Treat queued browser speech as active | Implemented; no fixed text changed. |
+| 103–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -849,3 +851,16 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Merge | PR #255 as `285b9c0` | Squash-merged after required checks passed. |
 | Hosted checks | PR #255 head `54f5efc4`: Website coverage gates, unit tests, TypeScript, build and page checker passed. Release metadata, design system, Flutter targeted tests, browser visual, app-copy, spelling and semantic checks passed; PR deploy was skipped. | Pass. |
 | Not verified | No browser audio, caregiver or participant review was run. | The sound change is a code-level correction, not evidence of a user outcome. |
+
+## Round 102: keep Read Aloud state correct while speech is queued (read 2026-11-15)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Web Speech API distinguishes `pending` utterances that have not started from `speaking` utterances. A JMIR Aging study found people with dementia could engage with audiovisual task prompts, but found no clear independent-initiation advantage from auditory alert modality. | This round corrects browser state handling for an existing optional prompt; it does not claim that this change improves task completion. |
+| Existing gap | `ReadAloud.tsx` polled only `speechSynthesis.speaking`. The API allows an utterance to be queued before it has begun, so `speaking` can be false while `pending` is true. The same speaking-only test controlled game sounds. | During a queue delay, the Stop label could revert early and soft game tones could play before narration began. |
+| Change | A shared helper now treats `speaking` or `pending` as active speech. The Stop label remains while speech is queued, and tap/match/done tones stay quiet until the queue is empty and speech has stopped. The code comment now notes that the browser may use a local or remote voice; this round neither selects a voice nor guarantees on-device processing. | No UI copy, voice choice, storage, permissions or telemetry changed. |
+| Regression tests | `readAloud.test.ts` checks queued and active speech state. `sound.test.ts` checks that all three game tones stay suppressed while an utterance is pending and resume when idle. | 15 focused tests pass. |
+| Language coverage | No fixed user-facing text or locale files changed. | Full 185-language coverage remains 3/500. |
+| Local checks | `pnpm --dir site verify`: 763 tests, 16,878 pages built, `check-site` 0 errors and 580 warnings; `pnpm --dir site exec tsc --noEmit`; focused speech/sound tests. | Pass locally under Node 22.14.0, with an unsupported-engine warning; hosted CI will use the workflow environment. |
+| Implementation commit | `e2ccda51` | Shared Read Aloud and sound behavior on `codex/round-102-readaloud-queue-state`, based on merged `main` `1acbe90f`. |
+| Not verified | No real-browser voice-queue delay, audio, caregiver or participant review was run. | Browser voice location can vary; this change does not make it local-only. |
