@@ -1,28 +1,33 @@
 ---
-title: "Labourioù an ti evel obererezhioù evit tud gant demañs"
-seoTitle: "Obererezhioù an ti evit demañs: labourioù bemdez"
-description: "Pliañ dilhad, treiñ ar gwiñsoù, staliañ an daol pe ober kegin simpl a c'hall bezañ obererezhioù talvoudus evit tud gant demañs. Penaos aozañ ha miret diogel."
+title: "Labourioù an ti evit tud a vev gant an demantiañs"
+seoTitle: "Obererezhioù an ti hag an demantiañs"
+description: "Plegañ, dibab, lakaat an daol ha kegin simpl a c’hall bezañ talvoudus evit tud gant demantiañs. Penaos prientiñ, azasaat ha mirout surentez."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Labourioù bemdez evel pliañ lien, treiñ ar gwiñsoù, staliañ an daol, sec'hañ al lestri, dornañ ar voger, dour ar plant ha skoazellañ e kegin simpl a c'hall reiñ d'un den gant demañs ur mod gwir da skoazellañ. Dibabit tachennoù a anavez, rannit anezho e pep pazenn, lamit ar pezhioù lemm pe tomm, ha prizit kemer perzh, ha n'eo ket ober anezhe « mat », an dra pennañ.
+  Labourioù pemdeziek evel plegañ servietoù, dibab loeroù, lakaat an daol,
+  naetaat ar c’honterioù, dourañ ar plantoù pe sikour da gregiñ gant ur
+  c’hegin simpl a c’hall reiñ un tu gwirion d’un den a vev gant an
+  demantiañs da sikour. Dibabit labourioù a anavez, rannit anezho e pazennoù
+  unan hag unan, lamit ar varvelloù lemm pe tomm, ha roit talvoud d’ar
+  gemer-perzh kentoc’h eget d’an ober « ervat ».
 keyPoints:
-  - "Labourioù a vez anavezet a c'hall lakaat an den da santout talvoudus ha lodenn eus an ti, ha se a bouez alies muioc'h eget penaos e vez graet al labour."
-  - "Rannit pep labour e lodennoù bihan, diskouezit kentoc'h eget lâret, ha kemerit war ho kein pa vez diaes un dra."
-  - "Serrit kuzh ar gountelloù, ar produioù glanaat hag ar pakadennoù kanol, ha staliit gwarizioù boutoñ ar fornel pe ur stokerez emgefre a-raok kegin asambles."
-  - "Ne rank ket aozañ dilhad pliet a-nevez a-raok an den. Ma rankit adober un dra, graet kentoc'h diwezhatoc'h ha dre-ziwar he zaoulagad."
-  - "Ma tenn ur labour frustradegezh, kemmit d'ur pazenn hanterioc'h, klaskit en amzer all pe chomit asambles hepken."
+  - "Labourioù anavezet a c’hall sikour un den da gavout emañ talvoudus hag e penn e diegezh, pezh a zo pouezusoc’h alies eget ar pezh a vez graet."
+  - "Rannit pep labour e pazennoù eeun, diskouezit kentoc’h eget displegañ, ha kemerit e plas ar pazennoù deuet da vezañ diaes, hep trouz."
+  - "Mirit ar c’hontellioù, ar produioù naetaat hag ar podoù detergent e lec’hioù serret, ha lakait gwarezioù war boutonioù ar fourn pe un trevnad a laz ent emgefreek a-raok kegin asambles."
+  - "N’eo ket ret adplegañ ar servietoù dirak an den. Ma rankit adober un dra bennak, grit se goude-se ha e-kuzh."
+  - "Ma teu ul labour da vezañ dic’hortozus, tremenit d’ur pazenn aesoc’h, klaskit en-dro ur wech all, pe chomit hepken asambles."
 faq:
-  - q: "Pe labourioù a c'hall an den gant demañs c'hoazh skoazellañ?"
-    a: "Kalz tud a c'hall c'hoazh pliañ dilhad, paral ar c'hozh, lakaat ar strollad taolenn en urzh, staliañ an daol, glanaat ur voger, lemel al lusk diwar ar veubleizh, dour ar plant pe treiñ ur bolzh toaz. Dibabit labourioù a rae an den gwechall, hag azasit anezho d'ar pezh a c'hall ober bremañ. Diwezhatoc'h, ur gwezh n'eo nemet ur gwezh evel lakaat ar gwiñsoù da vezañ leun a c'hall bezañ ret."
-  - q: "Diogel eo evit un den gant demañs skoazellañ er gegin?"
-    a: "Diogel eo, gant gwelet a-dost hag ur staliadur mat. Miret ar gountelloù, ar produioù glanaat ha kement a zo tomm pell diouzh an dorn, lakait gwarizioù boutoñ ar fornel pe ur stokerez emgefre, ha roit d'an den ul labour diogel evel golchañ legumaj, treiñ pe lakaat platoù war an daol. Na lezit ket an den hep kenoberour pa vez ar fornel war-sav."
-  - q: "Ha ma pliont ar pezhioù fall pe ma lakont traoù da vezañ fall?"
-    a: "Lezit kement-se. An dra pennañ eo amzer asambles ha santout ez eus talvoudegezh, n'eo ket ur galloud klok. Ma rankit reiñ tro en-dro d'un dra, gortozit betek diwezhatoc'h hag ober anezhañ pa ne wel ket an den, evit na santo ket bezañ reizhet."
-  - q: "Ha ma nac'h an den skoazellañ?"
-    a: "Un nann a c'hall tenn ar labour da vezañ re galet, dic'hortoz pe skuizh d'an eil pad. Na zalc'hit ket war-lerc'h. Klaskit ur stumm hanterioc'h, pedit anezhañ da zegemer ac'hanoc'h kentoc'h, pe goulennit en amzer all eus an deiz."
+  - q: "Peseurt labourioù a c’hall un den gant an demantiañs sikour c’hoazh da ober?"
+    a: "Kalz tud a c’hall c’hoazh plegañ dilhad, kenglotañ loeroù, dibab kannerezh, lakaat an daol, naetaat ur gonter, dustañ, skubañ, dourañ plantoù pe meskañ un tokad pastez. Dibabit labourioù graet gant an den a-raok ha kenkoulzit anezho gant ar pezh a c’hall ober bremañ. Er stadioù diwezhañ, un ijin dister adgraet, evel plaenaat servietoù, a c’hall a-walc’h."
+  - q: "Ha sur eo e c’hall unan bennak gant an demantiañs sikour er gegin?"
+    a: "Gallout a ra bezañ, gant ur evezh tost hag ur prientiñ dereat. Dalc’hit ar c’hontellioù, ar produioù naetaat ha kement tra tomm pell diouzh an den, grit gant gwarezioù war boutonioù ar fourn pe un trevnad a laz ent emgefreek, ha roit dezhañ ul labour sur evel gwalc’hiñ legumaj, meskañ pe lakaat asiedoù war an daol. Na laoskit morse anezhañ e-unan gant ar fourn enaouet."
+  - q: "Petra ober ma pleg fall pe ma lak trubuilh?"
+    a: "Lezit se evel-se. Ar pal eo tremen amzer asambles ha kaout ar santimant bezañ talvoudus, ket kaout un disoc’h peurvat. Ma rank un dra bezañ adgraet da vat, gortozit diwezhatoc’h ha grit se pa ne vez ket an den o sellet, evit ma ne gavo ket eo bet reizhet."
+  - q: "Petra ober ma nac’h sikour?"
+    a: "Un nac’h a c’hall talvezout ez eo re ziaes, trubuilhus pe skuizhus al labour evit bremañ. Arabat bountañ. Klaskit ur stumm aesoc’h, kinnig dezhañ chom en ho kavenniñ kentoc’h, pe goulennit en-dro da un eur dereatoc’h."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Kalz tud o vevañ gant demañs o deus graet bloavezhioù a-bezh evit mirout un ti, magañ ur familh pe mirout ul labour en urzh. Pa vez goulennet outo skoazellañ gant labourioù gwir, e c'hall ar pezh-se lavarout « c'hoazh emaoc'h e-kreiz an ti » gant ur mod na c'hall nebeut obererezhioù all. Er bajenn-mañ e kavit peseurt labourioù a vez mat, penaos aozañ anezho, penaos kenseveiñ anezho pa chang an traoù, ha penaos miret ar gegin hag ar c'hambr golc'hadur diogel.
+Kalz tud a vev gant an demantiañs o deus tremenet degadoù o ren un ti, o sevel ur familh pe o terc’hel ur savlec’h labour e urzh. Pa vez goulennet diganto sikour gant labourioù gwir, e c’hall se lavarout « emaoc’h c’hoazh ul lodenn eus an tiegezh-mañ » evel ne c’hall ober meur a obererezh all. Ar bajenn-mañ a zispleg peseurt labourioù a ya mat alies, penaos prientiñ anezho, penaos azasaat anezho pa cheñch an traoù, ha penaos mirout surentez er gegin hag el lec’h-gwalc’hiñ.
 
-## Perak e vez mat al labourioù bemdez evel obererezhioù?
+## Perak e labour labourioù pemdeziek evel obererezhioù?
 
-Mat int peogwir int anavezet ha peogwir o deus ul lodenn reizh. An National Institute on Aging a enrol golchañ al lestri, staliañ an daol, skubañ, lemel al lusk, lakaat ar lizheroù en urzh, pliañ dilhad ha dibab ar stlennadoù evel [obererezhioù bemdez a c'hall plijout d'an dud gant Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Lavar an Alzheimer's Association e c'hall staliañ an daol [roiñ tu d'an den santout ez eo ur pezh talvoudus eus an ti](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Al labourioù a ya mat peogwir eo anavezet int hag ez eus un dalvoudegezh sklaer dezho. An National Institute on Aging a roll gwalc’hiñ ar pladoù, lakaat an daol, skubañ, dustañ, dibab ar posteloù, plegañ an dilhad ha dibab an traoù da adaozañ e-touez an [obererezhioù pemdeziek a c’hall plijout da dud gant kleñved Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). An Alzheimer’s Association a verk e c’hall labourioù evel lakaat an daol sikour un den da [gavout ez eo talvoudus evit an tiegezh](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Ur labour a zo ivez ur abeg evit kregiñ. « Ac'hanta, c'hwi a c'hall skoazellañ ac'hanon gant ar dilhad-mañ? » a zo aesoc'h da respont ya dezhañ eget « Ha c'hwi a fell deoc'h ober un obererezh? »
+Ul labour a ro ivez e abeg evit kregiñ gantañ. Aesoc’h eo respont « ya » da « Ha gallout a rit sikour ac’hanon gant ar servietoù-mañ? » eget da « Ha c’hoant ho peus ober un obererezh? »
 
-## Peseurt labourioù an ti a zo mat da glask?
+## Peseurt labourioù an ti a c’haller klask ober?
 
-Kregit gant labourioù a reas an den gwechall, ha azasit anezho d'ar pezh a c'hall ober hiziv.
+Krogit gant labourioù graet gant an den a-raok, ha kenkoulzit anezho gant ar pezh a c’hall ober hiziv.
 
-### Dilhad ha lien
+### Dilhad ha lienañ
 
-- **Pliañ tovaloù ha tovaloùigoù.** Roit ur basked gant traoù bihan ha tost. Ar tovaloù a zo fur: n'eus forzh penaos e vez pliet unan.
-- **Paral ar c'hozh.** Lakait ur pil kemmesk war an daol. Ma vez diaes gwelet ar pdaouioù, implijit tri pe daou liv a bep seurt hepken.
-- **Lakaat e stank ha pentañ.** Ar golierioù, ar gwiñsoù pe ar toaloù dournañ a c'hall bezañ lakaet plat ha pentet. Mat eo se diwezhatoc'h, pa vez re a bazennoù da bliañ.
+- **Plegañ servietoù ha lienoù bihan.** Roit ur banerad gant traoù bihan ha plaen. Aes eo plegañ servietoù: n’eus forzh penaos e vezont pleget.
+- **Kavout ar re a ya asambles etre al loeroù.** Lakait ur bern kemmesket war an daol. Ma teu da vezañ diaes kavout ar c’houbladoù, implijit daou pe dri liv disheñvel hepken.
+- **Plaenaat ha berniañ.** Gallout a reer plaenaat ha berniañ servietoù-taol, taoliezhioù oreiller pe lienoù pladoù. Mat eo se diwezhatoc’h, pa teu plegañ da vezañ re a bazennoù.
 
-### Taolenn ha kegin
+### Taol ha kegin
 
-- **Staliañ an daol.** Lakait ur plasadur da skouer hag azasit an den da heñvelaat anezhi. Ma vez re, roit un dra per-dro: « Setu ur fourchetenn evit pep platenn. »
-- **Lakaat ar gountelloù en urzh.** Kemmest ar fourchetennoù, al lodennoù hag ar stlennoù kanol en ur bod, ha lakait-hi en ul lodennadur. Lamit er-maez ar gountelloù lemm.
-- **Sec'hañ al lestri.** Lestri plastik pe na dorr ket hag ur toaz mein a wna al labour-mañ diogel.
-- **Dornañ an daol pe ar voger.** Ur gaouenn fleb hag un distro glan. Lavar an Alzheimer's Association e c'hall reiñ ur gaouenn ma vez an den o vrasaat an daol gant e zorn, evit kemmer ar fromder-se en un labour talvoudus.
+- **Lakaat an daol.** Lakait un daolenn evel skouer ha lezit an den da heuliañ anezhi. M’eo re, roit un dra hepken bep tro: « Setu ur forc’h evit pep asiad. »
+- **Dibab ar gannerezh.** Kemmeskit forchoù, loaioù ha kontellioù amanenn prop e-barzh ur voest ha dibabit anezho en un trevnad rannet. Laoskit ar c’hontellioù lemm a-gostez.
+- **Sec’hañ ar pladoù.** Pladoù plastik pe didorrus ha ul lien dous a lak se da vezañ ul labour sur.
+- **Naetaat an daol pe ar c’honterioù.** Ul lien glebor hag un dachenn sklaer. An Alzheimer’s Association a ginnig kinnig ul lien m’emañ unan bennak o frotañ an daol gant e zorn dija, evit treiñ un ijin didalvoudek en ul labour talvoudus.
 
-### Er-maez eus an ti
+### A-dreuz an ti
 
-- **Lemel al lusk.** Ur banne fleb ha nebeud a daolennoù kreñv, evel ur vaezenn-goslec'h pe ul lastez levr.
-- **Lakaat al lizheroù en urzh.** Roit d'an den al lizheroù direizh ha ar catalogoù da lakaat e pileier: mirout, reiñ tro en-dro, digeriñ diwezhatoc'h. Mirit al labourioù bras ha ar gontoù e lec'h all.
-- **Rannañ ar stlennadoù.** Ar boteliou, ar boested hag ar paper glan e binioù dishañv.
-- **Skubañ.** Ur skubell bihan war ur porzh pe war al lur ar gegin, ma vez an den e-stad mirout e stad.
-- **Dour ar plant.** Ur banne dour bihan ha pevar pe pemp plant a-dost.
+- **Dustañ.** Un dustaer dous hag un nebeud tachennoù solut, evel un daol-gafe pe un estajerenn levrioù.
+- **Dibab ar posteloù.** Roit bruderezhioù ha katalogoù da zibab e bernioù: mirout, adaozañ, digeriñ diwezhatoc’h. Dalc’hit ar fakturennoù gwirion hag ar chekennoù en ul lec’h all.
+- **Dibab an traoù da adaozañ.** Boestoù, bouteillajoù ha paper prop e poubelloù disheñvel.
+- **Skubañ.** Ur skubell vihan war ur porzh pe war leur ar gegin, ma’z eo stabil ar c’hempouez.
+- **Dourañ ar plantoù.** Un dourerez vihan ha skañv ha nebeut plantoù aes da dizhout.
 
-### Kegin gant evezh
+### Kegin simpl gant evezh
 
-Gallout a ra ar gegin dasserzhiñ santimantoù kaer ha plijus. Lavar an NIA e c'hall lakaat an den da dastum ar pezhioù, da iziñ, da stardañ ha da vranaat, pe da lavarout d'un den penaos ec'h eus da gaout ur resevr a blij dezhañ. Labourioù mat int :
+Kegin a c’hall degas sonjoù kreñv ha plijus en-dro. An NIA a ginnig lezel an den da zastum an danvezioù, da vuzuliañ, da veskañ ha da skuilhañ, pe da zisplegañ hepken da unan bennak all penaos prientiñ e recept karetañ. Labourioù mat a zo:
 
-- golchañ legumaj pe frouezh
-- stardañ ur bastez pe ur salad fresk
-- rannañ ar sez
-- smeriñ ur bara-tost gant ur gontell digor
-- lakaat ar paezh-kraen war ur plad
-- lakaat ar pezhioù war ur pizza
+- gwalc’hiñ legumaj pe frouezh
+- meskañ pastez pe ur saladenn yen
+- tennañ follennnoù letuz
+- lakaat amanenn war bara tostet gant ur gontell dall
+- lakaat pastez gwispid war ur pladenn
+- lakaat danvezioù war ur pizza
 
-Ma vez diaes an iziñ, lavar an Alzheimer's Association e c'hallit echuiñ an iziñ ha roit ur labour all, evel stardañ.
+Ma teu da vezañ diaes muzuliañ, an Alzheimer’s Association a ginnig echuiñ ar muzuliañ ha reiñ goude-se ur pazenn all d’an den, evel meskañ.
 
-## Penaos aozañ ur labour evit ma vo mat?
+## Penaos prientiñ ul labour evit ma’z aio mat an traoù?
 
-1. **Dibab an eur mat.** Dibabit un amzer pa vez an den fresk ha distrump, emichañs er mintin evit kalz tud.
-2. **Diverkit al lec'h.** Un dra hepken, un gorre hepken, netra all war an daol.
-3. **Pedit, na ordrit ket.** « Ho skoazell a faota evit ar pezhioù-mañ » a zo gwelloc'h eget « Amzer eo da bliañ ar dilhad. »
-4. **Diskouezit ar c'hentañ.** Pliit ur sindon kentoc'h ha roit ar re nesañ goude. Diskouez a zo sklaroc'h eget displegañ.
-5. **Ur pazenn ha ne vefe nemet unan.** Re a zoareoù war-un-taol a c'hall lakaat an den da vezañ dirollet. Gortozit betek ma vo echuet ur pazenn a-raok lavarout ar nesañ.
-6. **Labourit a-stlêr.** Ober an hevelep dra ar pezh a vez tost en ho c'hichen a heñvel ouzh kenvroiñ, n'eo ket ouzh evezhiañ.
-7. **Komzit diwar-benn al labour, n'eo ket diwar-benn an disoc'h.** « Re vleunek e vezont » pe « Lavarit din penaos a rae ar genta-mañ dibrez ar gwele » a bed da gomz hep prouiñ netra da zen.
+1. **Dibabit ar mare mat.** Dibabit ul lodenn eus an deiz ma vez an den diskuizh ha sioul alies. Evit kalz tud eo ar beure.
+2. **Naetait al lec’h.** Ul labour, un dachenn, netra ouzhpenn war an daol.
+3. **Kinnig, ha n’eo ket urzhiad.** « Ur sikour vihan a vefe mat din gant ar re-mañ » a ya matoc’h eget « Poent eo plegañ an dilhad. »
+4. **Diskouezit an hini gentañ.** Plegit ur servietenn gant gorrek, ha roit an hini da-heul. Sklaeroc’h eo diskouez eget displegañ.
+5. **Roit ur pazenn hepken bep tro.** Re a gemennadennoù asambles a c’hall bezañ re. Gortozit ma vo echu ur pazenn a-raok menegiñ an hini da-heul.
+6. **Labourit skoaz-ouzh-skoaz.** Ober ar memes labour asambles a ro santimant bezañ e kavenniñ, ha n’eo ket bezañ evezhiet.
+7. **Komzit diwar-benn al labour, ha n’eo ket diwar-benn an disoc’h.** « Ken dous eo ar re-mañ » pe « Lavarit din penaos e plije deoc’h renkañ ar c’havlec’h lien » a ro tro da gomz hep amprouiñ den ebet.
 
-## Penaos kenseveiñ al labourioù pa chang galloudoù?
+## Penaos azasaat al labourioù pa cheñch ar barregezhioù?
 
-Chench a ra ar galloudoù dre amzer, ha hyd e-barzh an deiz ivez. Lavar an Alzheimer's Association e c'hallit mont war-raok a-zioc'h labourioù ken simpl ha re heñvel ha ma vez re, pa dremen an demañs.
+Ar barregezhioù a cheñch a-hed an amzer, ha memes eus un deiz d’egile. An Alzheimer’s Association a ginnig mont war-du labourioù simploc’h, adgraet aliesoc’h, pa ya ar c’hleñved war-raok.
 
-| Ma vez diaes an dra-mañ | Klaskit an dra-mañ en he lec'h |
+| M’eo deuet diaes | Klaskit kement-mañ kentoc’h |
 | --- | --- |
-| Pliañ linselioù bras | Pliañ tovaloù bihan pe lakaat ar gwiñsoù en urzh |
-| Staliañ un daol klok | Lakaat ur golier ouzh pep plas |
-| Rannañ ar lizheroù dre rummoù | Stokañ ar gwiñsoù war ur pil hepken |
-| Heuliañ ur resevr | Stardañ, pe sellet ha tastet pa vez kozhet |
-| Skubañ ul leur a-bezh | Dornañ ur ganol bihan |
-| Ober ar stlennadoù netra | Chom asambles ganeoc'h en ur gompagnunez tra ma rit an dra-se |
+| Plegañ lienoù bras | Plegañ lienoù bihan pe plaenaat servietoù |
+| Lakaat un daol glok | Lakaat ur servietenn hepken e pep lec’h |
+| Dibab ar posteloù dre rummadoù | Berniañ an envelennoù en ur bern hepken |
+| Heuliañ ur recept | Meskañ, pe sellet ha tanvaat e-pad ma kigit |
+| Skubañ ul leur a-bezh | Naetaat un daol vihan hepken |
+| Ober al labour a-bezh | Chom ganeoc’h hag ober deoc’h kavenniñ e-pad ma rit se |
 
-Gwelet a ra ivez. Lavar an NIA e c'hall tud sellet pe blijout nemetken, hag hennezh a zo ur mod mat evit kemer perzh.
+Sellet a gont ivez. An NIA a verk e plij da dud zo sellet hepken, hag ez eo un doare mat da gemer perzh.
 
-## Penaos miret al labourioù an ti diogel?
+## Penaos mirout surentez e-pad al labourioù an ti?
 
-Diogelded a zo kentañ, dreist-holl er gegin. Pennadoù [gwellvezioù surentez an ti evit ar gwirioù a ro kengouezhiad an Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) an NIA a enrol :
+Ar surentez a zeu da gentañ, dreist-holl er gegin. [Kuzulioù surentez an NIA evit tud a ra war-dro tud gant kleñved Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) a ginnig:
 
-- Serrit pe lemit kuit ar produioù glanaat, en o zouez pakadennoù kanol an dilhad, a c'hall bezañ tebet evel bonbonioù.
-- Miret ar gountelloù, ar sizailhoù hag an ostilhoù galloudek en ul lec'h serret.
-- Staliit gwarizioù diogelded hag ur stokerez emgefre war ar fornel.
-- Lakait arwezioù « Stop » pe « Tomm meurbet » tost d'ar fornoù, d'ar grampouezer hag d'ar haearn, en ur blas na c'hallont ket kalz ober tan.
-- Staliit an dour-tomm da 49°C evit lakaat strishoc'h ar riskl a losk.
-- Lemit kuit ar frouezh c'hwitellet hag ar magnetoù stumm boued, a c'hall bezañ tebet evel boued.
+- Serriñ pe tennañ ar produioù naetaat, en o zouez ar podoù detergent evit dilhad, a c’hall seblantiñ bezañ madigoù.
+- Mirout ar c’hontellioù, ar sizailhoù hag an ostilhoù tredan en ul lec’h serret.
+- Lakaat boutonioù surentez hag un trevnad a laz ent emgefreek war ar fourn.
+- Lakaat panelloù « Paouez » pe « Tomm-tomm » tost d’ar fourn, d’ar bara-toster hag d’ar stignerez, e lec’hioù ma ne c’hallint ket kemer tan.
+- Lakaat an tommer-dour da 120°F evit bihanaat ar riskl da vezañ losket.
+- Tennañ ar frouezh fals hag ar sked-magnet stummet evel boued, a c’hall seblantiñ da vezañ da zebriñ.
 
-Ur pezh a zo ivez mat :
+Boazioù simpl all a sikour ivez:
 
-- Chomit en ar c'hambr pa vez implijet ar fornel, ar fourn pe un ostilh lemm.
-- Implijit lestri na dorr ket evit sec'hañ hag evit staliañ an daol.
-- Miret al leurioù sec'h ha diskar pa skubit pe pa lanit.
-- Ma vez bet an den o implijout ostilhoù, lavar an Alzheimer's Association e c'hallit lemel an traoù peurliesa diwar al labourva, evit ma c'hallo an den c'hoazh ober ur labour diogel evel lemel ur bennad koad.
+- Chom er sal pa vez implijet ar fourn, ar four pe un ostilh lemm.
+- Implijout pladoù didorrus evit sec’hañ ha lakaat an daol.
+- Derc’hel al leurioù sec’h ha dieub e-pad ma vez skubet pe gwalc’het.
+- Ma oa boaz an den implijout ostilhoù a-raok, an Alzheimer’s Association a ginnig tennañ an traoù arvarus eus an atalier evit ma c’hallo c’hoazh ober ul labour sur, evel paper-druz war un tamm koad.
 
-## Ha ma reont dre « fall »?
+## Petra ober ma vez graet « fall »?
 
-Lezit kement-se. Ur sindon pliet en tridalc'h pe en daouzhalc'h n'eo ket nemet ur sindon pliet, neuze. Lavar an Alzheimer's Association ev ur stumm sklaer : an dra bouezusañ eo an amzer asambles ha santout an den talvoudus, n'eo ket penaos e vez pliet ar gwiñsoù. Ma rank bezañ reizhet un dra, gortozit betek diwezhatoc'h ha ober anezhañ dre-ziwar.
+Lezit tremen. Ur servietenn pleget e teir c’horn e-lec’h div a zo c’hoazh ur servietenn pleget. An Alzheimer’s Association a lavar sklaer: ar pezh a zo pouezus eo tremen amzer asambles hag ar santimant bezañ talvoudus evit an den, ha n’eo ket m’eo pleget ar servietoù evel ma oa dleet. Ma rank un dra bezañ adgraet da vat, gortozit diwezhatoc’h ha grit se e-kuzh.
 
-Reizhañ en eil an neb a zo bet graet a c'hall troiñ un labour plijus da ur souvenir eus an dra a zo bet kollet. « Trugarez, ur sikour brav eo ! » a zo bepred ar pezh gwellañ da lavarout.
+Reizhañ e-pad al labour a c’hall treiñ un tamm labour plijus en un displegadur eus ar pezh a zo bet kollet. « Trugarez, ur sikour bras eo » a zo tost bepred ar respont mat.
 
-## Pryd e rankomp echuiñ?
+## Pegoulz e tleomp paouez?
 
-Echuit pe kemmit pa welit kompoz a frustradegezh, a skuizh pe a zisfiañs. Echuiñ abred a zo un disoc'h mat, n'eo ket ur fazi. Gallout a rit :
+Paouezit pe cheñchit pa welit arouezioù dic’hortoz, skuizhder pe kollet interessez. Echuiñ abret a zo un disoc’h mat, ha n’eo ket ur c’hwitadenn. Gallout a rit:
 
-- kemmañ d'ur pazenn hanterioc'h
-- mont d'un dra a bae, evel mouezhiadur pe ur banne kafe
-- klask en amzer all pe en un deiz all
-- chom asambles hepken
+- mont d’ur pazenn aesoc’h
+- mont da un dra siouloc’h, evel sonerezh pe un danevell gafe
+- klask en-dro diwezhatoc’h pe un deiz all
+- chom hepken asambles
 
-Ma lâr an den nann, na zalc'hit ket war-lerc'h. Gwelit [penaos respont pa lavar an den nann](/caregiving/when-they-say-no/) evit kavout ur fazon dous da respont.
+Ma lavar an den « nann », na bountit ket. Gwelit [petra ober pa lavar nac’h](/caregiving/when-they-say-no/) evit gouzout penaos respont gant douceur.
 
-## Traoù bihan ouzhpenn evit un eurvad distawoc'h
+## Ouzhpennadurioù aes evit ur mare sioul
 
-Pa n'eus ket tu da labourioù korf, c'hall ar stlennadoù ha ar paouezhoù bezañ graet azezet c'hoazh. [Sort Together](/games/sort-together/) a laka ac'hanoc'h da bouezhañ war skeudennoù evit gwele ar gegin pe al lennoù, hag [Picture Pairs](/games/picture-pairs/) a zo ur c'hoari heñvelaat dous gant skeudennoù bras ha hep amzer-kont. [Conversation Cards](/games/conversation-cards/) a zo ganti goulennoù digor diwar-benn an ti ha ar familh, a glot mat ouzh ur gafe goude al labour.
+Pa n’eo ket posupl ober labourioù korforel, e c’haller c’hoazh dibab ha kenglotañ traoù en ur chom azezet. Gant [Dibab Asambles](/games/sort-together/) e c’haller stokañ skeudennoù e panerioù kegin pe jardin, ha [Koubladoù Skeudennoù](/games/picture-pairs/) a zo ur c’hoari kenglotañ dous gant skeudennoù bras ha tamm eurvezier ebet. [Kardennoù Kaozeal](/games/conversation-cards/) a ginnig goulennoù digor diwar-benn an ti hag ar familh, mat da ober goude al labour gant un danevell gafe.
 
-Evit kavout skoazell da lakaat al labourioù en an deiz, sellit ouzh hor gidou diwar-benn [ur gourc'hemenn deiz distaw](/activities/daily-routine/). Evit kavout muioc'h a obererezhioù hervez ar c'hamm, sellit ouzh [obererezhioù er c'hamm a-GLAZ](/activities/middle-stage/).
+Evit sikour da lakaat al labourioù e-barzh an deiz, sellit ouzh hor sturlevr evit ur [reolenn devezh sioul](/activities/daily-routine/). Evit muioc’h a mennozhioù hervez ar stad, sellit ouzh [obererezhioù evit ar stad kreiz](/activities/middle-stage/).

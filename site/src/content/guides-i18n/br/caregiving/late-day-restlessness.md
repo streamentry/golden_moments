@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Oberiantizoù kalm an abardaez"
-seoTitle: "Sundowning: Oberiantizoù kalm an abardaez"
-description: "Hentoù pemdeziek, kemmoù er gambr ha dibreñvoù kalm a c'hall lakaat ar fretted a-fed an noz da vezañ dic'hlanoc'h, ha pryd kas da ur mezeg."
+title: "Sindrom ar c'huzh-heol: oberoù sioul evit ar dementia"
+seoTitle: "Sindrom ar c'huzh-heol: oberoù sioul an abardaez"
+description: "Doareoù sioul, kemmoù er sal hag oberoù a c'hellfe sioulañ an trubuilh e diwezh an deiz, ha pa zlevez contactañ an doktor evit symptomoù nevez pe o kreskiñ."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning a zo fretted, sammdi pe enkrez a gommenç pe a jom gwashoc'h a-dreuz
-  an abardaez pe an noz. Hentoù pleustrel a c'hall servijout a sell ouzh un
-  deiz stabil, golo hag oberiantiz abred en deiz, dornaouegoù diwezhat nebeutoc'h,
-  kafe nebeutoc'h, goleier e-kerzh an abardaez a-raok an noz, ur ger dic'hlanoc'h,
-  ha dibreñvoù kalm evel sonerezh, skeudennoù pe dornaouegoù. Ar symptomoù nevez
-  pe o kreskiñ a gav bezañ gwelet gant ur mezeg.
+  Sindrom ar c'huzh-heol eo an trubuilh, ar meskaj pe an ekin a grog pe a
+  gresk e diwezh an abardaez pe e kentañ an noazh. Ar c'hwezhiñ pratikel a
+  c'hellfe sikour a zo: un doare pemdeziek stabil, sklerijenn an deiz hag
+  oberoù abretoc'h en deiz, nebeutoc'h a gouskadennoù diwezhat, nebeutoc'h a
+  gafein, gouloù sklaer er sal a-raok ar c'huzh-heol, un ti siouloc'h, hag
+  oberoù sioul evel ar sonerezh, ar skeudennoù pe plegañ an dilhad. Ret eo
+  goulenn an doktor evit symptomoù nevez pe o kreskiñ.
 keyPoints:
-  - "Sundowning a dalv ouzh fretted pe sammdi a gommenç pe a jom gwashoc'h pa vez ar sklaerdeiz o vont da vezañ dlalet."
-  - "Lakait an oberiantizoù boulc'h, ar c'herzhioù ha ar bagadennoù er mintin pe e-kerzh an deiz a-raok."
-  - "Ar sklaerdeiz, un heñvel bale bemdez, dornaouegoù diwezhat nebeutoc'h ha kafe nebeutoc'h a-dreuz an abardaez a c'hall lakaat an abardaezioù da vont gwelloc'h."
-  - "Lakait ar goleier a-raok an noz, diminuit an tirvad, ha cheñchit d'oberiantizoù kalm ha anavezet."
-  - "Miret ur gelaouenn evit gwelet pe zo kaset ar fretted, hag bezit kalm ha reizhus pa gommenç ar fretted."
-  - "Gwelit ur mezeg evit symptomoù nevez pe o kreskiñ: poan, heintiad pe medisinoù a c'hall bezañ en-dro."
+  - "Sindrom ar c'huzh-heol a dalvez trubuilh pe meskaj a grog pe a gresk pa ya sklerijenn an deiz da get."
+  - "Lakaat an oberoù diaes, ar c'herzhadoù hag ar walc'hidigezh e-barzh ar beure pe e kentañ an abardaez."
+  - "Sklerijenn an deiz, ur c'herzhadenn bemdeziek, nebeutoc'h a gouskadennoù diwezhat ha nebeutoc'h a gafein diwezhat en deiz a c'hellfe sikour da lakaat an abardaezioù da vont siouloc'h."
+  - "Enaouit ar gouloù a-raok ar c'huzh-heol, izelit ar son ha tremenit da oberoù sioul hag anavezet."
+  - "Kendalc'hit ur c'haier da zizoloiñ an abegoù, ha chom sioul ha fiziapl pa grog an trubuilh."
+  - "Gwelit an doktor evit symptomoù nevez pe o kreskiñ: ar boan, ar c'hontamm pe ar mezegadoù a c'hell c'hoari ur roll."
 faq:
-  - q: "Pegoulz eo emdroadus sundowning, da vihanañ?"
-    a: "Emdroadus e kommenç pe e vez gwashoc'h a-dreuz an abardaez pe an nozvezh, pa vez sklaerdeiz o vont da vezañ dlalet. Peseurt eur a vez a zisheñvel diouzh an hini, setu perak e c'hall bezañ dalc'h ur gelaouenn berr a-hed un devezh pe daou a c'hall skoazellañ."
-  - q: "Peseurt oberiantizoù a skoazell a-enep sundowning?"
-    a: "Oberiantizoù kalm, anavezet ha ne fell ket ar boan ebet anezho a vez ar re wellañ a-dreuz an abardaez: sonerezh lenn, sellet ouzh skeudennoù, ur seurt pe ur film a garet, ur bale dornaouegoù, ur gerzhed berr pe ur bred ha ur merenn asambles. Miret an oberiantizoù nevez pe ar re a glask ur bern labour evit an deiz."
-  - q: "Ha sundowning a c'hall bezañ ur sinadur medisinel?"
-    a: "Gwashoc'h e c'hall mont dre gwall ar c'hlenvedoù evel ar poan, an heintiadoù evel heintiadoù an dourioù, ar c'hunvezh kousket pe efedoù kostez ar medisinoù. Ma vez fretted nevez, buan pe o kreskiñ, kevreit ouzh mezeg an den."
-  - q: "Ha rankan goulenn ouzh ar mezeg diwar-benn ur medisin evit sundowning?"
-    a: "Kaozeadenn eo da gaout gant ar mezeg. Kevredigezh Alzheimer a lavar e vez dibabet alies an dibreñvoù ne vezont ket medisinel da gentañ, ha ne vez soñjet en ur medisin evit ar fretted a-dreuz an nozvezh nemet goude pouezañ ar riskoù hag ar stlejoù. An pajenn-mañ a ro ket keloù medisinel."
+  - q: "Da betoù eus an deiz e c'hoarvez sindrom ar c'huzh-heol peurliesañ?"
+    a: "Kregiñ pe kreskiñ a ra peurliesañ e diwezh an abardaez pe e kentañ an noazh, pa ya sklerijenn an deiz da get. Amzer resis ar c'hregiñ a gemm a zen da zen, ha setu perak sikour a ra kendalc'h ur c'haier berr e-pad ur sizhun pe div."
+  - q: "Pe oberoù a sikour gant sindrom ar c'huzh-heol?"
+    a: "An oberoù sioul, anavezet hag a c'houlenn nebeut a striv a ra ar gwellañ e diwezh an abardaez: sonerezh sioul, sellout ouzh skeudennoù, ur programm skinwel pe ur film a blij, plegañ an dilhad, ur c'herzhadenn berr, pe ur c'hrignol asambles. Mirout an oberoù nevez pe diaes evit abretoc'h en deiz."
+  - q: "Ar sindrom ar c'huzh-heol a c'hellfe bezañ un arouez eus un dra vezegel?"
+    a: "Kreskiñ a c'hell gant kudennoù yec'hed evel ar boan, infeksionoù evel re an troazh, kudennoù kousk pe efedoù eil ar mezegadoù. Mard eo an trubuilh nevez, trumm pe o kreskiñ, goulennit doktor an den."
+  - q: "Ha gwellt eo goulenn an doktor diwar-benn ur mezegadenn evit sindrom ar c'huzh-heol?"
+    a: "Un diviz eo da gaout gant an doktor. Hervez Kevre Alzheimer eo gwellt peurliesañ dibab an doareoù hep mezegadenn da gentañ, ha ne zlevez soñjal eus ur mezegadenn bennak evit an trubuilh en abardaez nemet goude bezañ pouezet ar riskloù hag ar gounidoù. Ne ro ket ar bajenn-mañ kuzulioù mezegadenn."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Kavet a ra kalz a familhoù an hevelep patrom: an deizhioù a zo stabil betek an deiz, met pa vez an abardaez o vont ouzhpenn, an den a vev gant an dementiezh a zeu da vezañ fretus, enkrez, sotaet pe krenv. Mont a ra a-gleiz-kleiz, lavar a ra « Mont d'ar gêr » pa vez er gêr dija, pe e vez prest da zerc'hel kounnar aes. Galvet e vez sundowning an dra-se.
+Kalz a familhoù a wel ar memes patrom: ar beure a zo forzh pe stabil, met pa ya an abardaez war-raok, an den o vevañ gant ar dementia a zeu trubuilhek, nec'het, mesket pe ekin. Kerzout a c'hell, goulenn « mont da gêr » zoken pa eo en e gêr, pe kounnariñ buan. Kement-se a zo anvet sindrom ar c'huzh-heol peurliesañ.
 
-N'eus digemm nemet ebet, met cheñchamantoù en rannadenn an deiz, er gambr ha war ar seurtoù oberiantizoù a gynig a c'hall lakaat an abardaezioù da vezañ dic'hlanoc'h. Ar bajenn-mañ a zastum hentoù pleustrel, ne vezont ket medisinel, goude an National Institute on Aging hag ar Alzheimer's Association. Ne dalv ket evel kuzul medisinel. Ma vez symptomoù nevez, buan pe o kreskiñ, komzit gant mezeg an den.
+N'eus ket un diskoulm nemetken, met kemmoù e-barzh ritm an deiz, er sal hag e seurt an oberoù a ginnigez a c'hellfe lakaat an abardaezioù da vont siouloc'h. Ar bajenn-mañ a zastum mennoù pratikel, nann-vezegel, digant an Institut Broadel an Oadvezh hag ar C'hevre Alzheimer. N'eo ket kuzul mezegel. Mard eo ar symptomoù nevez, trumm pe o kreskiñ, komzit gant doktor an den.
 
-## Petra eo sundowning?
+## Pez eo sindrom ar c'huzh-heol?
 
-Sundowning a zo fretted, enkrez, sotadenn pe sammdi a gommenç pe a jom gwashoc'h pa vez ar sklaerdeiz o vont da vezañ dlalet, a-dreuz an abardaez pe an nozvezh. Mention a ra an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) e c'hall bezañ un aoun a-walc'h ouzhpenn a gas da gresk ar fretted a-dreuz an deiz.
+Sindrom ar c'huzh-heol eo an trubuilh, an emsav, an ekin pe ar meskaj a grog pe a gresk pa ya sklerijenn an deiz da get, e diwezh an abardaez pe e kentañ an noazh. An [Institut Broadel an Oadvezh (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) a not ez c'hell ar bezañ re skuis greskiñ an trubuilh e diwezh an deiz.
 
-## Petra a c'hall gwashaat ar fretted a-dreuz an deiz?
+## Petra a c'hell greskiñ an trubuilh e diwezh an deiz?
 
-Diverradoù a c'hall kaout ur pezh e-keñver, alies asambles. Rollet e vez gant [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) traoù evel:
+Meur a dra a c'hell kemer perzh, alies asambles. [Kevre Alzheimer](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) a ro roll elfennoù evel:
 
-- skuizhder war-lerc'h un deiz leun;
-- kreizenn nevez pe dic'hlan;
-- ur « horolaj bewiskaer diouzhtu » a zo dic'hoari, o lakaat an den da vezañ kousk e-kerzh an deiz ha dihun e-kerzh an nos;
-- skeudennoù ha sklaerdeiz izel, a c'hall bezañ dic'hlan;
-- sentiñ ar straß pe an enkrez eus an dud en-dro dezhañ;
-- dreist-holl kousk nebeutoc'h, a zo boas e-touez an dud kozh.
+- ar skuisder goude un deiz leun;
+- un endro nevez pe a zegas meskaj;
+- un 'orolaj diabarzh' a zo aet diwar an hent, o lakaat an den da gousket en deiz ha da vezañ dihun da noz;
+- gouloù izel ha skeudoù, a c'hell degas meskaj;
+- merzout an nec'hted pe ar gounnar o tont digant an dud en-dro dezho;
+- un ezomm nebeutoc'h a gousk, a zo boutin e-touesk an oadourien.
 
-Ouzhpennañ a ra an NIA kaozioù all enkrez e-doare ginerel, en o zouez poan, digalonekaat pe straß, diouer a gousk, deridenn, ur gorf re lent pe ur mell tred, ha medisinoù pe kemmañ etrezh medisinoù.
+An NIA a laka ivez abegoù an emsav en ur mod hollek: ar boan, an tristiz pe an nec'hted, re nebeut a ziskuizh, ar c'hoskadur, re a son pe re a dud, hag un nebeud mezegadoù pe kenoberoù etre mezegadoù.
 
-## Penaos kemmañ an deiz evit ma vo an abardaezioù dielfennoc'h?
+## Penaos aozañ an deiz evit sioulañ an abardaezioù?
 
-Lakait an traoù pouezus abred ha derc'hit an abardaez gourdrouz hag urzhiet. An NIA hag ar Alzheimer's Association a argoulenn un deiz urzhiet. Setu un deiz skouer, da addasaat d'ho puhez:
+Lakaat an traoù diaes abretoc'h ha mirout diwezh an abardaez dous ha reoliek. An NIA ha Kevre Alzheimer a alez un doare pemdeziek reoliek. Ur skouer eus un deiz, da azasaat d'hoc'h re:
 
-| Eur | Petra a c'hall skoazellañ |
+| Amzer | Petra a c'hell sikour |
 | --- | --- |
-| Mintin | Emvodoù, bagadennoù, deroù ha kement tra a bouez labour, pa vez an den bev-spont abred |
-| Dreist ar mintin | Amzer en-diabarzh pe e-kichen ur prenestr heol; ur bale pe un oberiantiz all |
-| Kreiz-deiz | Debriad brasoc'h (Alzheimer's Association a c'hontell ur merenn brasoc'h ha ur sistr nevezh) |
-| Deiz-hanter | Diskuizh ma vez ezhomm, met evit kouskiñ hir a-ziwezhat na vezit ket |
-| Kreiz pe diwezhat an abardaez | Oberiantizoù kalm, anavezet; ur bred ha dour; hep kafe |
-| A-raok an noz | Goleier en-diabarzh ha serriñ al lien a-raok ma vo tevel |
-| Abardaez | Ur merenn skañv, sonerezh distro, kemm izel, ur mare gousk stabil |
+| Beure | An amzerioù-gouestl, ar walc'hidigezh, ar c'herzhadoù hag oberoù a c'houlenn striv, pa eo kalz a dud ar muiañ evezhiek |
+| Diwezh ar beure | Amzer er-maez pe e-kichen ur prenestr heoliek; ur c'herzhadenn pe un ober all |
+| Kreiz an deiz | Ur meren brasoc'h (Kevre Alzheimer a alez ur meren brasoc'h hag ur pred skañvoc'h en abardaez) |
+| Deroù an abardaez | Diskuizh ma vez ezomm, met mirout diouzh kouskadennoù hir e diwezh an deiz |
+| E-kreiz ha diwezh an abardaez | Oberoù sioul hag anavezet; ur c'hrignol hag un evaj; kafein ebet |
+| A-raok ar c'huzh-heol | Enaouiñ ar gouloù er sal ha serriñ ar ridoù a-raok ma teuio an noazh |
+| An noazh | Ur pred skañvoc'h, sonerezh sioul, nebeut a fiñv hag a son, un doare stabil evit mont da gousket |
 
-Kelien dibar eus ar vammennoù:
+Un nebeud poentoù resis digant an andonoù:
 
-- **Sklaerdeiz.** An NIA a gont ober plas d'an heol bemdez, dre-vezh en-dro pe e-kichen ur prenestr.
-- **Ober a-bep-devezh, met n'eo ket re.** Klask a ra bezañ fizus bemdez hep kalz oberiantizoù, a lavar an NIA.
-- **Diodoù a-ziwezhat.** Diskouezit diouzh an alkol ha diouzh ar fraezhoù gant kafe pe kola, diwezhat en deiz (NIA). Alzheimer's Association a verk ivez ar nikotin.
-- **Kousk.** Diskouragit ouzh kouskoù hir ha kousket a-ziwezhat en deiz (NIA). Alzheimer's Association a bropoz bevennañ ar c'housk en deiz ma'z eo problem an nozvezh.
+- **Sklerijenn an deiz.** An NIA a alez aozañ amzer er-maez pe e-kichen ur prenestr evit goulou an heol bep deiz.
+- **Fiñv pemdeziek, met hep re.** An NIA a lavar eo gwellt klask fiñval bep deiz hept aozañ re a oberoù.
+- **Evajoù diwezh an deiz.** Mirout diouzh an alkool hag an evajoù gant kafein, evel ar c'hafe pe ar c'hola, e diwezh an deiz (NIA). Kevre Alzheimer a veneg ivez an nikotin.
+- **Kouskadennoù.** Aliñ da chom hep kouskadennoù hir ha kouskellat e diwezh an deiz (NIA). Kevre Alzheimer a alez bevennañ ar c'houskadennoù en deiz ma vez kudennoù gant ar c'housk da noz.
 
-Evit muioc'h a-zivout sevel un deiz sioul, gwelit [oberiantizoù ar bemdez](/activities/daily-routine/).
+Da lennet ouzhpenn diwar-benn sevel un deiz stabil, gwelit [oberoù an doare pemdeziek](/activities/daily-routine/).
 
-## Penaos kemmañ ar gêr evit bezañ kalmoc'h a-dreuz an abardaez?
+## Penaos lakaat an ti da vout siouloc'h e diwezh an abardaez?
 
-Lezit ar sturlu da vihanaat, ouzhpennit sklaerder ha lakait traoù anavezet tost.
+Nebeutaat ar son, ouzhpennañ gouloù ha mirout an traoù anavezet e-kichen.
 
-- **Goleier kempenn hag ekennek.** Alzheimer's Association a bropoz derc'hel ar gêr gant goleier mat an nozvezh. Goleiit al lec'h a-raok ma vo skeudennoù.
-- **Sturlu nebeutoc'h.** Diskar pe lakaat dibar ar skignerezh hag ar radio, ha bevennit an emweladennoù pe al labourioù ti e-kerzh an amzer-se. Alzheimer's Association a bropoz lakaat dibar ar stumm sturlu evel ar skignerezh, al labourioù ha ar sonerezh bouzar.
-- **Kizidigezhioù anavezet.** An NIA a bropoz sonerezh lenn ha lakaat traoù ha skeudennoù a garer en ti.
-- **Gwiriañ an holl.** Alzheimer's Association a bropoz gwiriañ ma'z eus poan, naon, sec'hed, deriadenn, ur vezikenn leun, skuizhder, heintiadoù hag irritadenn ar c'roc'hen, hag derc'hel ar gambr en un temperadur kempenn.
-- **Ho yec'hed ho-unan.** Sentiñ a ra an dud ar straß. An NIA a bropoz arafiñ ha klask lezel ho c'hoarvezhioù en-dro ma'z eo ho soñjoù ho-unan a aoz ar pouez.
+- **Gouloù sklaer ha kempred.** Kevre Alzheimer a alez mirout an ti gouloù-mat en abardaez. Enaouit ar sal a-raok na zeuio skeudoù.
+- **Nebeutoc'h a son.** Serriñ pe izelaat ar skinwel hag ar radio, ha bevennañ ar weladennoù pe an oberoù ti a zisturb er mare-mañ. Kevre Alzheimer a alez nebeutañ ar pezh a zisturb en abardaez, evel ar skinwel, ar c'hraoù ti hag ar sonerezh uhel.
+- **An traoù anavezet.** An NIA a alez sonerezh sioul ha mirout an traoù a blij mat hag ar skeudennoù en ti.
+- **Gwiriañ ar c'honfort.** Kevre Alzheimer a alez gwiriañ ar boan, an naon, ar sec'hor, ar c'hoskadur, ur c'hwezigell leun, ar skuisder, an infeksionoù hag an droiñ war ar c'hroc'hen, ha mirout ar sal en un temperadur konfortabl.
+- **Ho emzalc'h.** An dud a dap ar striv. An NIA a alez mont goustadikoc'h ha klask dilahañ ma c'hell ho kêriñ bezañ ouzhpennañ d'an tennadur.
 
-## Pe oberiantizoù kalm a c'hallfemp ober a-dreuz an abardaez?
+## Pe oberoù sioul a c'hellomp ober e diwezh an abardaez?
 
-Dibabit oberiantizoù anavezet, hep bezañ prim ha aes da baouezañ. Alzheimer's Association a bropoz oberiantizoù kalm evel sonerezh kalm, skeudennoù pe ur film a garet, ha ur bale asambles evit lakaat ar fretted da vezañ dic'hlanoc'h. An NIA a bropoz ur merenn pe un evaj, ur program teledi, sonerezh, ur bale, lenn, pe ul labour ti dic'hlan evel dornaouegoù.
+Dibabit oberoù anavezet, hep bizh hag a zo aes da baouez ganto. Kevre Alzheimer a alez oberoù sioul evel ar sonerezh sioul, ar skeudennoù pe ur film a blij, hag ur c'herzhadenn asambles evit sioulañ an trubuilh. An NIA a alez ur c'hrignol pe un evaj, ur programm skinwel a blij, sonerezh, ur c'herzhadenn, al lenn, pe un ober ti eeun evel plegañ an dilhad.
 
-Traoù da glask:
+Mennoù da esaeñ:
 
-1. **Dornaouegoù asambles.** An NIA a bropoz ar seurt labour ti dic'hlan-se. Aes eo trin ar lienoù-dourn, ha ur fin klir zo d'ar labour.
-2. **Sonerezh a garont.** Sonioù anavezet eus o yaouankiz, e-doare izel. Kanañ gant a gont. Muioc'h a sonerezhioù e [oberiantizoù sonerezh](/activities/music/).
-3. **Sellet ouzh skeudennoù.** Un albom skeudennoù, pe kelien skeudennoù tud ar familh e [Photo Pairs](/games/photo-pairs/) gant ar skeudennoù gwelus, a c'hall kas d'ur gaozeadenn dic'hlan.
-4. **Ur bale berr.** En ti-jardin, war an hent pe en ur gorridor, a-raok ma vo tevel.
-5. **Rannañ ur merenn hag un evaj.** Un dra simpl, tomm ha hep kafe, war an taol asambles.
-6. **Kevatalaat dinerzh.** [Picture Pairs](/games/picture-pairs/) gant pevar teuliad ha skeudennoù gwelus a zo aes da gregi ennañ ha aes da baouezañ.
-7. **Livañ.** [Coloring](/games/coloring/) war ar skramm pe war ur bajenn moullet, hep ped da echuiñ.
-8. **Sellet ha kaozeal.** [Conversation Cards](/games/conversation-cards/) a ro ur skeudenn ha ur bedadenn digor. Sellet a-walc'h eo.
-9. **Ur bausadenn anall.** [Calm Breathing](/games/calm-breathing/) a zo ur bausadenn lent ha dinerzh, a gregit hag a baouezit ho-unan.
-10. **Labourioù a zorn.** Dibab botoù pe chadoù, lakaat ur blankedenn vleu da vezañ lis, pe krenañ un dra anavezet. Gwelit [oberiantizoù sentiñ](/activities/sensory/).
+1. **Plegañ an dilhad asambles.** An NIA a alez seurt ober ti eeun. Ar servietoù a zo aes da gemer, hag un dibenn sklaer a zo d'an ober.
+2. **Sonerezh a blij.** Kanaouennoù anavezet eus o yaouankiz, en ur son izel. Humiñ gant ar ganaouenn a dalvez ivez. Muioc'h a vennoù e [oberoù sonerezh](/activities/music/).
+3. **Sellout ouzh skeudennoù.** Ur c'haier-skeudennoù, pe un nebeud skeudennoù-familh e [Koubladoù Fotoioù](/games/photo-pairs/) gant ar skeudennoù o chom gwelus, a c'hell degas un eskemm sioul.
+4. **Kemer ur c'herzhadenn berr.** Tro ar jardin, ar c'harter pe ur c'horidor, a-raok ma teuio an noazh.
+5. **Rannañ ur c'hrignol hag un evaj.** Un dra eeun, tomm ha hep kafein, ouzh ar daol asambles.
+6. **Kevatalañ dous.** [Koubladoù Skeudennoù](/games/picture-pairs/) gant peder karrezenn hag ar skeudennoù gwelus a zo aes da gregiñ hag aes da baouez.
+7. **Livadur.** [Livadur](/games/coloring/) war ar skramm pe war ur bajenn moullet, hep pal da echuiñ.
+8. **Sellout ha komz.** [Kartennoù Komz](/games/conversation-cards/) a ginnig ur skeudenn hag ur goulenn digor. A-walc'h eo sellout hepken.
+9. **Un arsav analadennoù.** [Analadennoù Sioul](/games/calm-breathing/) a zo un arsav goustad ha sioul a grogez hag a baouezit ho-unan.
+10. **Oberoù gant an daouarn.** Renkañ boutonoù pe kausoù, lissañ ur c'holoñv dous, pe derc'hel un dra anavezet. Gwelit [oberoù ar skianchoù](/activities/sensory/).
 
-Chomit hep oberiantizoù nevez, emvodoù prizus ha kement tra a c'houlenn kalz a gof pe a attantion a-ziwezhat en deiz. Mirit anezho evit ar mintin.
+Mirout diouzh ar c'hoarioù nevez, ar c'herzhadoù a zisturb hag an holl draoù a c'houlenn kalz a eñvor pe a atañsion e diwezh an deiz. Mirout ar re-se evit ar beure.
 
-## Petra a rankan ober pa gommenç ar fretted?
+## Petra a ran pa grog an trubuilh?
 
-Derc'hit kalm, lakait ar fiañs, ha kasit an den diwar-benn adarre dre viskoazh. An NIA a bropoz kaozeal gant kalm, selaou kredennoù an den, chom hep argudiñ, lakaat an den da c'houzout ez eo diogel, ha dornaouegoù teneroc'h ma skoazell. Neuze, klaskit ur gouezeledigezh: ur merenn, un evaj, sonerezh pe ur bale.
+Chom sioul, roit fiziout, ha kasset an den goustadik da un dra all. An NIA a alez komz sioul, selaou e gêriñ, mirout diouzh an tabutoù, reiñ dezhañ fiziout ez eo diogel, ha toujañ outañ goustad ma sikour. Klaskit goude un dra all evit diverrañ an trubuilh: ur c'hrignol, un evaj, sonerezh pe ur c'herzhadenn.
 
-Alzheimer's Association a bropoz kemennadennoù evel « Diogel out amañ » ha « Eñ, Kaer eo din e vefes trist », hag a gont lakaat sklaerdeiz ouzhpenn, mont pemp pell gant ar stumm, ha bevennañ ar stumm. Arabat en ur lakaat en ur c'horn, en ur c'hlostañ pe en ur harzañ an den, nag argudiñ gantañ.
+Kevre Alzheimer a alez lavarout frazennoù evel « Diogel out amañ » hag « Azgarez a ran ez out trubuilhek », hag a alez ouzhpennañ gouloù, mont goustadik ha bevennañ ar pezh a zisturb. Chom hep bac'hañ, bountañ pe derc'hel an den, na tabutal gantañ.
 
-Mar bez an den o kaout un dremm dre gargi, an NIA a lavar chom da vezañ pell a-walc'h, betek ma vo echuet ar giz. Er gwall-stad, galvit 112 ha lavarit e kav an den dementiezh.
+Ma zeu an den da vezañ feuls, an NIA a alez chom en un pellder diogel betek ma paouez an emzalc'h. En ur stad trumm, sonit ouzh 911 ha displegit en deus an den ar dementia. Hor [reolenn evit respont d'an drougoni hag d'ar feulster](/caregiving/when-anger-becomes-aggression-with-dementia/) a gomz eus ar surentez diouzhtu hag eus ar pezh a zo da ober war-lerc'h.
 
-Ar [gourc'hemennoù](/caregiving/communication-tips/) hag [petra ober pa lavar an den ne fell ket](/caregiving/when-they-say-no/) a zo muioc'h a c'houzout diwar-benn gerioù kalmaat.
+Hor reolennoù diwar-benn [an eskemm](/caregiving/communication-tips/) ha [ar pezh a d'ober pa lavaront « nann »](/caregiving/when-they-say-no/) a gomz muioc'h eus ar gerioù sioul.
 
-## Penaos kavout an diskar-kas?
+## Penaos dizoloiñ an abegoù?
 
-Dalc'hit ur gelaouenn berr a-hed un devezh pe daou. Alzheimer's Association a bropoz heuliañ petra a zo a-raok an abardaezioù fretted evit kavout an dic'hasourien. Notit an eur e kommenc ar fretted, petra a zo bet an eurvezh a-raok, ar c'housk, ar merennoù hag an evajoù, an emweladennoù, ar sturlu hag ar sklaerdeiz. Degasit ar gelaouenn d'ar mezeg. An NIA a notenn e c'hall miret ar gelaouenn sikour ar re a ro soñj d'an den hag ar re a ro ar yec'hed, evit gwelet ur patrom.
+Kendalc'hit ur c'haier berr e-pad ur sizhun pe div. Kevre Alzheimer a alez heuliañ ar pezh a c'hoarvez a-raok an darvoudoù sindrom ar c'huzh-heol evit dizoloiñ an abegoù. Notit an amzer ma krogas an trubuilh, ar pezh a c'hoarvezas en eur a-raok, ar c'houskadennoù, ar predoù hag an evajoù, ar weladennoù, ar son hag ar gouloù. Dugit ar c'haier d'an doktor. An NIA a not ez c'hell heuliañ ar c'hemmoù emzalc'h sikour ar re a ra war-dro hag ar re a ziwall ar yec'hed da anavezout ur patrom.
 
-## Pryd e rankan galv ur mezeg diwar-benn sundowning?
+## P'eo ret goulenn an doktor diwar-benn sindrom ar c'huzh-heol?
 
-Kevreit gant mezeg an den mar eo fretted nevez, buan kreñvoc'h pe e vez kemmoù all ganti. An NIA a lavar e rankont kas ar kemmoù buan pe a zo fluktuus buan d'ar mezeg, dreist-holl goude un heintiad pe kemmoù nevez er medisinoù.
+Goulennit doktor an den ma zeu an trubuilh da vezañ nevez, trumm pe gant kemmoù all. An NIA a lavar ez c'hellfe kemmoù trumm pe a gemm buan en emzalc'h, dreist-holl goude un infeksion pe kemmoù er mezegadurioù a-nevez, bezañ diskouezet d'an doktor diouzhtu.
 
-Goulennit ouzh ar mezeg gwiriañ traoù a c'hall lakaat an abardaezioù da vezañ kaletoc'h. Alzheimer's Association a lavar ez eus kudennoù yec'hed evel heintiadoù an dourioù, diskaezh an dourioù, troadoù spontus ha kousk-apnea, ha lavarit d'an den pegoulz a zo gwellañ evit pep medisin. An NIA a rollañ ar poan, ar c'hleiz ha efedoù kostez pe kemmañ etrezh medisinoù e-touez an aoun a c'hall kas d'ar fretted.
+Goulennit ouzh an doktor gwiriañ an traoù a c'hell lakaat an abardaezioù da vont diaesoc'h. Kevre Alzheimer a veneg kudennoù korfel evel infeksionoù an troazh, an hadiziañ, an divgar a fiñv hag an apnee kousk, hag a alez goulenn peur eo ar gwellañ evit pep mezegadenn. An NIA a roll ar boan, ar c'hoskadur hag an efedoù eil pe ar c'henoberoù etre mezegadoù e-touesk an abegoù posupl a emsav.
 
-Alzheimer's Association a lavar e vez dibabet alies an dibreñvoù ne vezont ket medisinel evit kudennoù kousk kevreet ouzh Alzheimer, ha ne vez soñjet en ur medisin evit fretted an abardaez nemet ma ne dalvez ket ar re-se, goude pouezañ ar riskoù hag ar stlejoù. Ar mezeg a zo ar gwir-ober diwar-benn ar sell-se. Arabat kregiñ, sachañ pe cheñch medisin ebet, sed kousk pe atizher, hep kuzul medisinel.
+Kevre Alzheimer a lavar eo gwellt peurliesañ dibab an doareoù hep mezegadenn evit kudennoù kousk liammet ouzh Alzheimer, hag ez c'hellfe ur mezegadenn evit an trubuilh e diwezh an deiz bezañ soñjet nemet ma c'hwit ar re-se, goude pouezet ar riskloù hag ar gounidoù. D'an doktor emañ an diviz-se. Chom hep kregiñ, paouez pe gemm n'eus forzh pe vezegadenn, skoazell-gousk pe ouzhpennadur hep kuzul mezegel.
 
-## Penaos e c'hallan tremen an abardaezioù va-unan?
+## Penaos tremen an abardaezioù ho-unan?
 
-An abardaezioù a c'hall bezañ ar pezh kaletañ en deiz ur merour. Ma c'hallit, goulennit ouzh ur familh, ur mignon pe ur skoazeller paeet da skoazellañ an abardaez ur pezh deiz bennak er sizhun, hyd ha ma vefe nemet un eur. Hon kelenn war [prederiadenn ho-unan](/caregiving/caregiver-self-care/) a ro ar seurtoù skoazell e-kerzh ar seurt, ha helpenn Alzheimer's Association 24/7 digoust.
+Diwezhioù an abardaez a c'hell bezañ ar rann diaesañ eus deiz an den a ra war-dro. Ma c'hellit, goulenn ouzh un ezel eus ar familh, ur mignon pe un harper gopret da gemer e lec'h e diwezh an abardaez un nebeud deizioù ar sizhun, zoken e-pad un eur. Hor [reolenn war an emziwall evit an den a ra war-dro](/caregiving/caregiver-self-care/) a roll an doareoù da ziskuizhañ hag an 24/7 Helpline digostez a Kevre Alzheimer.

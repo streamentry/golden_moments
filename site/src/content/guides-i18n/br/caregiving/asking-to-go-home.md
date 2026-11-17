@@ -1,36 +1,37 @@
 ---
-title: "Pa c'houlenn an den gant demañs c'hoazh mont en-dro d'ti"
-seoTitle: "Demañs: pa c'houlenn mont en-dro d'ti, petra lavaret"
-description: "Perak e c'houlenn un den a vev gant demañs mont en-dro d'ti pa vez dija e-barzh, petra lavaret, obererezhioù kalm da glask ha penaos derc'hel anezhañ diogel."
+title: "Pa c'houlenn un den gant demenz distreiñ d'ar gêr"
+seoTitle: "Demenz: pa c'houlenn distreiñ d'ar gêr, petra lavarout?"
+description: "Perak e c'houlenn un den gant demenz distreiñ d'ar gêr pa vez er gêr, petra lavarout, obererezhioù sioul da arnod ha penaos e virer e surentez ma klask kuitaat."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Pa c'houlenn un den gant demañs c'hoazh mont en-dro d'ti, "ti" a dalv alies ur
-  santad surentez pe ul lec'h eus ar gorollad, n'eo ket un annez. Na ahuzit ket
-  dezhañ ez eo e-barzh. Asentit d'ar santad, lavarit dezhañ e vez diogel, goulennit
-  dezhañ diwar-benn e ti, neuze trosit mat war-lerc'h d'un skeudenn, un ton
-  sonerezh, ur mirlonk, ur veaj bihan pe ur labour simpl. Gwiriit an naon, an dour,
-  al lec'h-dour pe ar poan. Ma c'hoarvez brav en un taol, galvit o medisin.
+  Pa c'houlenn un den gant demenz distreiñ d'ar gêr, "ti" a dalv alies un
+  santad surentez pe ul lec'h eus an amzer dremenet, n'eo ket ur savadur.
+  Na deuit ket da lavarout ez eo er gêr. Anavezit ar santad, asurit e vev e
+  surentez, goulennit diwar-benn an ti, ha kit neuze gant sioul war-du
+  fotoioù, sonerezh, un dienn, ur valead pe ur c'hefridi eeun. Gwiriit ma'z
+  eo naonet, sec'het, ma 'z eo ezhomm d'ar gambr-dour pe ma'z eo e boan. Ma
+  krog en un taol, deuit e darempred gant e vedisin.
 keyPoints:
-  - "\"Mont en-dro d'ti\" a dalv alies \"n'on ket en surentez na en unvez,\" n'eo ket ur goulenn ur chomlec'h."
-  - "Diskuizh pe ober ma'z eo e-barzh a lakaat ar fizierezh da greskiñ. Respontit d'ar santad ontañ."
-  - "Goulennit dezhañ diwar-benn e ti, neuze proponit skeudennoù, sonerezh, ur mirlonk, ur veaj pe ul labour simpl."
-  - "Gwiriit an dra a c'haller reizhañ: naon, dour, al lec'h-dour, poan, tomder pe yender, sin, skuizhder."
-  - "Ma c'hoarvez bep fin-deiz, e c'hallfe bezañ sundowning; un deremmadur sioul hag ur sklaerijenn vat a c'hall skoazellañ."
-  - "Soñjit er surentez ma klask mont kuit, ha galvit o medisin evit ar cheñchamant bras diabarzh."
+  - "\"C'hoant am eus da zistreiñ d'ar gêr\" a dalv alies \"N'on ket sioul pe surentez\", n'eo ket ur goulenn chomlec'h."
+  - "Tabutal pe prouiñ ez eo er gêr a laka alies ar poan-spered da vout gwashoc'h. Respontit d'ar santad kentoc'h."
+  - "Goulennit dezho kontañ deoc'h diwar-benn an ti, ha profet fotoioù, sonerezh, un dienn, ur valead pe ur c'hefridi eeun."
+  - "Gwiriit ma 'z eus un dra a c'hall bezañ dresañ: naon, sec'hed, ezhomm d'ar gambr-dour, poan, re domm pe re yen, trouz, skuizhder."
+  - "Ma c'hoarvez bep fin goude merenn, e c'hall bezañ \"sundowning\"; ur strollad ingal ha sklêrijenn vat a c'hall skoazellañ."
+  - "Rakwellit surentez ma klaskont kuitaat, ha deuit e darempred gant o medisin diwar-benn forzh peseurt cheñchamant en un taol."
 faq:
-  - q: "Perak e c'houlenn ma mamm gant demañs mont en-dro d'ti pa vez e-barzh?"
-    a: "Gallout a ra ar demañs ober ar gambrioù ouzhpenn-se da vezañ dic'hallus, ha weithiañ e santer ez eus un den o chom en ur mare kent er vuhez. \"Ti\" a c'hall tegouezhout gant un ti vugale pe nemetken gant ar santad bezañ diogel ha par. Respont d'ar santad a vez alies gwelloc'h eget diskouez dezhi pelec'h ez eo."
-  - q: "Petra a lavaran pa c'houlennont mont en-dro d'ti?"
-    a: "Klaskit \"Diogel e vez amañ, hag emaon o chom ganeoc'h,\" neuze \"Lavarit din diwar-benn ho ti.\" Harzit, rannit ur skeudenn pe ur ganenn, ha proponit un dafariad pe ur veaj berr. Diwezhatit lavarout \"Ti eo, emaoc'h amañ,\" evel ur reizhadenn, rak se a c'hall bezañ santet evel lavarout deoc'h e kamm."
-  - q: "Ha mat eo lavarout e vo mont en-dro d'ti diwezhatoc'h?"
-    a: "Disheñvel eo an dra etre familhoù hag aozadurioù ar demañs. Meur a hini a grog gant ur c'homfort onest hag un dreuzkas, hag a gadw ur gaberenn nann tener evit an deiz ma vefe ar wir o kaout nemetken ur reuz d'ar mare na c'hall an den sevel outi. Pep tra a zibabit, bezit tener hag estlammus, ha n'ho ped ket ur c'hoari ouzh e santad eus ar bed."
-  - q: "Petra a rankan ober ma klask mont kuit an ti?"
-    a: "Chomit kalm ha kerzhit ganti da vezañ n'ho pezh ket sachet; ur veaj berr a laka alies ar c'hoant da badout. Lakit a-raok amzer lamadennoù surentez, evel ur brazelenn ID, klokerezh pe dorioù a sonerezh ha ur skeudenn nevez tost. Ma vez kollet, kregit da glask diouzhtu, ha galvit 112 ma n'ho peus ket kavet en 15 munud, o lavarout e vez demañs an den."
-  - q: "Pegoulz e rankan galvout ur medisin?"
-    a: "Galvit o medisin buan ma kregi ar goulenn pe ar goulioù bennak en un taol, pe ma a waskoc'h gant an amzer dre an eurioù pe an devezhioù, dreist-holl gant tomder, medisin nevez pe arwezioù un heñkodenn dourel. Ar goulioù bennak en un taol a c'hall bezañ delirium, a vez degemeret e-keñver ar gwella skoazell. Galvit 112 ma vez un den en arriskl."
+  - q: "Perak e c'houlenn ma mamm gant demenz distreiñ d'ar gêr pa vez er gêr?"
+    a: "Demenz a c'hall lakaat kambradoù anavezet da vout iskis, ha tud a c'hall santout ez int en un amzer abretoc'h eus o buhez. \"Ti\" a c'hall dalv un ti bugaleaj pe ar santad bezañ surentez ha sioul. Respont d'ar santad-se a ya alies gwelloc'h eget diskwel pelec'h emañ."
+  - q: "Petra a rankfen lavarout pa c'houlennont distreiñ d'ar gêr?"
+    a: "Klaskit \"Surentez a zo amañ, ha chom a ran ganeoc'h,\" ha goude \"Kontit din diwar-benn ho ti.\" Selaouit, rannit ur foto pe ur ganaouenn, ha profet un dienn pe ur valead berr. Chomit hep lavarout \"Er gêr oc'h\" evel ur reizhadur, a c'hall santout evel lavarout dezho ez int faziet."
+  - q: "Ha reizh eo lavarout e tistroimp d'ar gêr diwezhatoc'h?"
+    a: "Ar familhoù hag an aozadurioù demenz a ziforc'h war an dra-se. Kalz a grog gant frealzad onest ha redirektadur, ha gwardañ a reont un dra n'eo ket gwir, gant madelezh, evit ar mareoù ma ne vefe ar gwir nemet poan-spered n'hallont ket mont drezi. Forzh petra a zibabit, bezit madelezhus ha ingal, ha na goapit biken ouzh o santad gwirvoud."
+  - q: "Ha petra ma klaskont kuitaat an ti?"
+    a: "Chomit sioul ha kerzhit ganto e-lec'h o harzhañ; ur valead berr a sioula alies ar c'hoant. Lakaat e pleustr raktal ar pezh a servij evit surentez, evel ur banglez ID, sonerioù dorioù ha ur foto nevez. Ma 'z eo aet an den da goll, gwiriit al lec'hioù surentez tost tra ma darempredit polis pe servijoù urgentel lec'hel buan. Na c'hortozit ket un niver bennak a vunutoù a-raok reiñ da c'houzout."
+  - q: "Pegoulz e rankfen gervel ur medisin?"
+    a: "Gervelit o medisin buan ma krog an goulenn pe an droug-gompren en un taol pe ma vrasaat kalz e-pad eurioù pe deizioù, dreist-holl gant tommder, ur medisin nevez pe sinedoù un droug en hent an troazh. Gallout a ra an droug-gompren en un taol bezañ deliriom, a c'houlenn skoazell urgentel. Gervelit 911 ma 'z eo en dañjer forzh piv."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"Mont en-dro d'ti a fell din." Evit meur a familh e vez unan eus ar pezhioù kaletañ da glevout, dreist-holl pa vez an den a zo ganeoc'h o chom en he gambr-chomañ he-unan. Boutin eo, gallout a ra c'hoarvezout e pep kam eus ar demañs, ha bez' ez eus doareoù kalm ha praktikel da respont. Ar bajenn-mañ a zisklêr petra a dalv ar gerioù alies, petra lavaret, obererezhioù a c'hall skoazellañ en eil, ha penaos derc'hel anezhañ diogel.
+"C'hoant am eus da zistreiñ d'ar gêr." Evit kalz a familhoù eo unan eus an traoù kaletañ da glevout, dreist-holl pa vez an den a geniñ azezet en e salon. Boutin eo, gallout a ra c'hoarvezout e forzh pe stad eus an demenz, ha bez' ez eus hentoù sioul ha pleustrus da respont. Ar bajenn-mañ a gont petra a dalv alies ar gerioù, petra lavarout, obererezhioù a c'hall skoazellañ er mare, ha penaos chom e surentez.
 
-## Perak e c'houlenn un den gant demañs mont en-dro d'ti c'hoazh?
+## Perak e c'houlenn un den gant demenz distreiñ d'ar gêr?
 
-Alies, "ti" a zo ur santad moarvat, n'eo ket ul lec'h. Al Alzheimer's Society a ziskouez ez eo ur santad c'homfort pe surentez, pe ur ti eus ar c'horn-bro, dre ma n'eo ket ar ger hag ar gwalc'h. Ar demañs a c'hall ober ar gambrioù boas da vezañ dic'hallus, hag an den a c'hall santout e vev en ur mare kent eus he vuhez, pa oa ti ar vugaleaj pe al lec'h ma'z eo bet magerezh he bugale.
+Alies, "ti" eo ur santad kentoc'h eget ul lec'h. An Alzheimer's Society a gont ez eo ur santad frealzad ha surentez, pe un ti eus an amzer dremenet, kentoc'h eget ar savadur e-unan. Demenz a c'hall lakaat kambradoù anavezet da vout iskis, ha gallout a ra un den santout ez eo o vevañ en un amzer abretoc'h eus e vuhez, pa oa an ti un ti bugaleaj pe al lec'h ma savas e vugale.
 
-Ar gerioù a c'hall ivez bezañ arwez ez eus un dra all fall bremañ: en naon, en dour, o vezañ c'hoazh ezhomm mont d'al lec'h-dour, o c'hoanañ, tomm pe yen dija, skuizh, unan-bennak, spontet gant ar son pe gant ar c'halz. Degas a ra [Institut Nasional ar Kozhni (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ar poanioù, ar son, an unaniezh, ar cheñchamantoù e reizh hag ar medisinoù e-touez abegoù ar c'hounaoueg.
+Ar gerioù a c'hall bezañ ivez un sined ez eo traoù all o vont fall bremañ: naon, sec'hed, ezhomm d'ar gambr-dour, poan, re domm pe re yen, skuizhder, unanusted, spont, pe routet gant trouz. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a gont poan, trouz, unanusted, cheñchamantoù er strollad-ingal ha medisinoù e-touez abegoù an aon-kenañ.
 
-## Petra a lavaran pa lavaront e fell dezho mont en-dro d'ti?
+## Petra a rankfen lavarout pa c'houlennont distreiñ d'ar gêr?
 
-Respontit d'ar santad, ha n'ho peus ket da respont d'ar gerioù. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gendalc'h ne ranker ket klask lakaat an den da gredout e c'hall bezañ en-dro: he fromoù a zo gwir, neuze respontit gant ur c'homfort hag un asurañs da gentañ, ha goude kasit anezhañ da-fiskal.
+Respontit d'ar santad, n'eo ket d'ar gerioù. An [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a erbed chom hep klask kalonekaat an den ez eo faziet: real eo e santadoù, respontit gant frealzad ha surentez da gentañ, ha redirektit neuze gant sioul.
 
-Frazennoù a zo alies talvoudus:
+Frazennoù a skoazell alies:
 
-- **Anavezit ar santad.** "Un tamm a zo, emaoc'h o kaout c'hoant da vont en-dro d'ho ti."
-- **Asurit.** "Diogel e vez amañ, hag emaon o chom ganeoc'h." An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) a gynnig ar gerioù simpl "Diogel e vez amañ."
-- **Pedit d'ober kof.** "Lavarit din diwar-benn ho ti. Penaos e oa ho kegin?" Goulenn diwar-benn ar bed kent a zo alies gwelloc'h eget goulennoù diwar-benn an hiziv.
-- **Ober un dra asambles.** "Gwelomp ur mezad te a-raok," pe "Ha ne sikouromp ket din gant ar veilhoù-mañ?"
+- **Anavezit ar santad.** "Heñvel eo ouzh c'hoant ho ti."
+- **Asurit.** "Surentez a zo amañ, ha chom a ran ganeoc'h." An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) a erbed ar gerioù eeun "Surentez a zo amañ."
+- **Goulennit eñvorioù.** "Kontit din diwar-benn ho ti. Penaoz e oa ho kegin?" Goulenn diwar-benn an amzer dremenet a ya alies gwelloc'h eget goulennoù diwar-benn hiziv.
+- **Profet un dra a-gevret.** "Deomp da evañ ur banne te da gentañ," pe "Gallout a rit skoazellañ ac'hanon gant ar bandennoù-mañ?"
 
-Un ton tener ha ul lamm dorn war ar breac'h, ma'z eo plijet gantañ an tuchadenn, a c'hall lavarout muioc'h eget ar gerioù.
+Ur son tomm ha dorn war an divrec'h, ma plij dezho ar stok, a c'hall lavarout muioc'h eget ar gerioù.
 
-## Petra a zlefe ober en desped?
+## Petra a rankfen chom hep ober?
 
-- **Diskuizh pe esplikañ.** "Emaout o chom amañ bremañ" pe "Ar ti-mañ eo bet ho ti abaoe 40 bloaz" a bed anezhañ da asantiñ ouzh un dra a ra ar demañs da vezañ diaes d'ober, ha gallout a ra sentout evel lavarout deoc'h e kamm.
-- **Goulennadennoù.** "Ne gofiit ket?" pe "Peseurt chomlec'h eo?" a laka pouez.
-- **Serriñ an dor gant kounnar.** Ma vez tec'het, chomit kalm ha kerzhit ganti. Ur veaj berr asambles a laka alies ar c'hoant da badout.
-- **Prizañ.** Roit amzer dezhañ da gomzout diwar-benn ar ti a-raok cheñch an danvez.
+- **Tabutal pe displegañ.** "Er gêr oc'h bremañ" pe "Ho ti eo bet e-pad 40 vloaz" a c'houlenn diganto asantiñ un dra a ra demenz diaes da asantiñ, ha gallout a ra santout evel lavarout dezho ez int faziet.
+- **Goulenn re.** "Ha ne zalc'hit ket soñj?" pe "Petra eo ar chomlec'h?" a laka pouez.
+- **Harzhañ an nor gant fulor.** Ma 'z aont er-maez, chomit sioul ha kerzhit ganto. Ur valead berr a-gevret a sioula alies ar c'hoant.
+- **Buanegiñ.** Roit dezho amzer da gomz diwar-benn an ti a-raok cheñch an danvez.
 
-## Obererezhioù a c'hall skoazellañ e-pad an hevelep mare
+## Obererezhioù a c'hall skoazellañ er mare
 
-Goude bezañ asantet ar santad, un obererezh kalm ha gouest a c'hall distreiñ an attachamant hep e zifennañ.
+Ur wech anavezet ar santad, un obererezh sioul hag anavezet a c'hall cheñch ar spered hep dilezel an dra.
 
-1. **Sellet ouzh skeudennoù ar ti hag an tud.** Troit ar pajennoù ha lavarit traoù ("Sellit ouzh al liorzh-mañ") kentoc'h eget goulennañ. War un telefon pe ur tablez, [Photo pairs](/games/photo-pairs/) a droio skeudennoù ho familh da ur c'hoari parañ ter, hag ar skeudennoù a chom war ho trevnadenn.
-2. **Komzit diwar-benn ar ti.** [Conversation cards](/games/conversation-cards/) a ginnig goulennoù digor diwar-benn tiez, kegin, kostezoù ha goudoù, hep respontoù reizh.
-3. **Lakait ar sonerezh a garont.** An Institut Nasional ar Kozhni a rik ar sonerezh lenn e-touez an taolioù da lenañ ar c'hounaoueg. Sellit ouzh hor [skouerioù sonerezh](/activities/music/).
-4. **Un dafariad pe un dourad.** An naon hag an dour a c'hall sembl bezañ dizanv. Ur banne te pe ur bleustr a yao ivez evel ur fae bihan a vezañ en ti.
-5. **Mont en ur veaj pe chom en-dro.** Ar mouezhiadenn hag ar sklaerijenn a sikour, dreist-holl a-raok kreiz-deiz.
-6. **Ur labour a zo anavezet dezhañ.** Pliañ dilhad, rannañ al lanv pe dournañ al louzoù a c'hall digas en-dro ar santad bezañ o vaout ur ti.
-7. **Diskleriñ an dra.** Diffodañ ar skramm, diminuiñ ar son hag ar sklaerijenn, ha klaskit ur paouez [anal kalm](/games/calm-breathing/) asambles.
+1. **Sellout ouzh fotoioù an ti hag ar familh.** Troit ar pajennoù ha grit evezhiadennoù ("Sellit ouzh al liorzh-se") kentoc'h eget goulenn. War ur pellgomzer pe un tabletenn, [Photo pairs](/games/photo-pairs/) a dro ho fotoioù familh e-unan e c'hoari keñveriañ sioul, ha chom a ra ar fotoioù war ho trevnad.
+2. **Komz diwar-benn an ti.** [Conversation cards](/games/conversation-cards/) a ginnig kinnigoù digor diwar-benn tiez, keginoù, amezeien ha gouelioù, hep respont dereat.
+3. **Sonit sonerezh a garont.** An National Institute on Aging a gont sonerezh sioul e-touez an hentoù da sioulañ poan-spered. Sellit ouzh hor [obererezhioù sonerezh](/activities/music/).
+4. **Kemerit un dibenn-bred pe un dienn.** Naon ha sec'hed a c'hall bezañ gwelet evel diskuizhder. Ur banne te pe ur c'hoariad karetañ a zo ivez ur ritual bihan eus bezañ er gêr.
+5. **Kerzhit pe azezit er-maez.** Al luskad hag ar sklêrijenn deiz a skoazell, dreist-holl abretoc'h en deiz.
+6. **Roit ur c'hefridi anavezet.** Plegañ dilhad, rummañ ostilhoù pe dourañ plant a c'hall degas en-dro ar santad eus ren un ti.
+7. **Goustadikaat pep tra.** Lazhit ar skinwel, digreskit trouz ha sklerijenn, ha klaskit un ehan [souffl sioul](/games/calm-breathing/) a-gevret.
 
-Ma ne zeu ket ur pezh d'ober, klaskit unan all diwezhatoc'h. Chom asambles en distaouenn a zo ivez un disoc'h mat.
+Ma ne zegouezh ket un ide, klaskit unan all diwezhatoc'h. Azezañ sioul a-gevret a zo un disoc'h mat ivez.
 
-## Gwiriit ur c'hontrol a c'hallfe reizhañ
+## Gwiriit ma 'z eus un abeg a c'hall bezañ dreset
 
-| Gwiriadenn | Petra a glaskit |
+| Gwiriadenn | Petra da arnod |
 | --- | --- |
-| Naon pe dour | Proponit un dour ha ur bajenn vihan |
-| Ezhomm mont d'al lec'h-dour | Proponit mont d'al lec'h-dour, gant kalm ha hep bec'h |
-| Poan pe diaezamant | Sellit ouzh arwezioù evel dremmoù, deuziñ ur rann eus ar c'horf pe kempenn, ha lavarit d'o medisin |
-| Re domm pe re yen | Kemmit ur saez pe tomder ar gambr |
-| Son pe kalz tud | Mont en ur gambr dic'hallusoc'h, diffodañ ar skramm |
-| Skuizh pe re stlejet | Repaouiñ, lakaat ar sklaerijenn bouzar, sonerezh tener |
-| Diwezh an deiz | Sellit ouzh ar rann war ar sundowning a-is |
+| Naon pe sec'hed | Profet un dienn ha un dibenn-bred bihan |
+| Ezhomm d'ar gambr-dour | Profet un veaj d'ar gambr-dour, gant sioul ha hep trouz |
+| Poan pe droug-kempenn | Klaskit sinedoù evel frikañ, mirout ur c'horf pe constipation, ha lavarit d'o medisin |
+| Re domm pe re yen | Reizhit ur gwiskamant pe temperadur ar gambr |
+| Trouz pe goullonder | Kit d'ur gambr siouloc'h, lazhit ar skinwel |
+| Skuizh pe routet gant re | Diskuizhit, digreskit sklêrijenn ar gambr, sonit sonerezh sioul |
+| Fin goude merenn | Sellit ouzh ar rannbennad sundowning dindan |
 
-An Alzheimer's Society a gynnig derc'hel un notenn berr eus pegoulz e c'houlenn an den, evel a-raok ar boued, goude gwelet tud, pe da goañv-deiz. Patromoù a laka hag a ra d'ober kentoc'h.
+An Alzheimer's Society a erbed mirout un deizlevr berr eus ar mareoù ma c'hoarvez ar goulenn, evel a-raok ar predioù, goude gweladennoù, pe d'an heol-diskar. Ar patromoù a ra aesoc'h rakwelliñ.
 
-## Ha mat eo lavarout ur gaozeadenn wenn?
+## Ha reizh eo lavarout un dra n'eo ket gwir?
 
-Un dadl gwir eo, ha familhoù a zo a zo kalonekoc'h a zeu a-benn en disheñvel ferzhioù. An Alzheimer's Society a lavar n'eus ket ur respont reizh: gaozeadennoù nann a c'hall lakaat un tamm tud da vezañ fiziet, neuze diskouezit ar pezh a zo gwellañ evit buhez an den ha bezit padus. E Penn Memory Center, gwelet an daou gerc'hener eo ar wirionez an dra dre ziouer ha ne vez asantet ur gaozeadenn nann tener nemet pa n'hall ket an den prosesañ ur wirionez bennak, ha ne lavarit ket e vefe mac'h e wirioneged.
+Un tabut gwirion eo, ha familhoù madelezhus a zegouezh e lec'hioù disheñvel. An Alzheimer's Society a lavar n'eus ket un respont dereat nemetken: an draoù n'int ket gwir a c'hall lakaat tud da fidiñ nebeutoc'h, neuze divizit petra a zo ar gwellañ evit an den ha bezit ingal. E Penn Memory Center, soñj ar c'ho-stur eo ez eo ar gwir ar reolenn ha ne vez asantet un dra n'eo ket gwir, gant madelezh, nemet pa ne c'hall ket an den mont dre ur gwir bennak, ha na ranker biken goapañ o gwirvoud.
 
-Meur a dud a gav ur hent-kreiz a zo mat: ur c'homfort onest hag un dreuzkas da gentañ ("Chom a raimp amañ abardaez, hag emaon amañ ganeoc'h"), hep dadal diwar-benn pelec'h ez eo ar ti.
+Kalz a geniñ a gav ez a un hent etre e pleustr: frealzad onest ha redirektadur da gentañ ("Chomit a rin amañ hiziv noz, ha amañ emaon ganeoc'h"), hep tabutal diwar-benn pelec'h eo an ti.
 
-## Ha petra a zlefe ober ma c'hoarvez bep fin-deiz pe bep abardaez?
+## Ha petra ma c'hoarvez bep fin goude merenn pe noz?
 
-Ar bec'h a gregi pe a waska diwezh an deiz a vez alies galvet sundowning. An [Institut Nasional ar Kozhni](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a gynnig un deremmadur sioul, sklaerijenn an deiz hag oberiantizoù, nann a gousk diwezhatoc'h, ha nann a gafe pe alkol diwezh an deiz. Lakaat ar sklaerijenn da vont a-raok an noz a c'hall skoazellañ ivez. Sellit ouzh hor skrid war [oberiantizoù kalm diwezh an deiz](/caregiving/late-day-restlessness/) evit muioc'h a sedoù.
+An diskuizhder a grog pe a vrasaat fin goude merenn a vez graet alies sundowning anezhañ. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a erbed ur strollad ingal, sklêrijenn deiz ha luskad bemdez, nebeutoc'h a gousk goude merenn, ha kafein pe alkool nebeutoc'h fin deiz. Gwerzañ ar goulaouioù a-raok an heol-diskar a c'hall skoazellañ ivez. Hor stur evit [obererezhioù sioul fin goude merenn](/caregiving/late-day-restlessness/) a zo muioc'h.
 
-## Derc'hel anezhañ diogel ma klask mont kuit
+## Mirout anezho e surentez ma klaskont kuitaat
 
-Goulenn mont en-dro d'ti a c'hall kas d'ar c'herzh diouzhtu. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) a estim e c'hall c'hwec'h den ouzh deg a dud a vev gant demañs kerzhout da nebeut unwaith.
+Goulenn distreiñ d'ar gêr a c'hall degas lammat. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) a istim ez eo c'hwec'h den war dek e-touez an dud a vev gant demenz a lammo da nebeutañ ur wech.
 
-**Prientiñ a-raok:**
+**Rakwellit:**
 
-- Ur brazelenn ID pe ur brazelenn yec'hedel gant hen anv ha da niverenn telefon, ha lizherennoù en dilhad. An [Institut Nasional ar Kozhni](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) a zegas evezh war MedicAlert ha programm Safe and Found an Alzheimer's Association, a c'hall kosta arc'hant.
-- Ur c'hlokerezh pe un alarm dor, ha serrerezhioù lakaet uhel pe izel. Na serrit ket an den en ur gambr en unan.
-- Ur skeudenn nevez tost, ha ul listenn a-zivout al lec'hioù a c'hallfe kerzhout enno, evel ur ti kozh pe al labourva.
-- Lavarit d'ho kestrezh tud a fiziañs, ha roit dezho ho niverenn.
+- Ur banglez ID pe medisin gant o anv ha ho niver pellgomz, ha tikedoù en o dilhad. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) a veneg program MedicAlert hag Alzheimer's Association Safe and Found, a c'hall kostañ arc'hant.
+- Ur soner dor pe un alarm, ha serrureioù lakaet uhel pe izel. Na serrat biken an den e-unan.
+- Ur foto tost nevez, ha roll al lec'hioù ma c'hallont mont, evel un ti kozh pe ul lec'h labour.
+- Lavarit d'an amezeien fidi, ha roit dezho ho niver.
 
-**Ma vez kollet:** kregit da glask diouzhtu; an Alzheimer's Association a lavar ez eo kavet alies an dud a-benn 1,5 mildir. Ma n'ho peus ket kavet anezhañ en 15 munud, galvit 112 ha lavarit e vez demañs an den. Galvit 112 diouzhtu ma vez un den en arriskl.
+**Ma 'z int aet da goll:** gwiriit al lec'hioù surentez tost tra ma darempredit polis pe servijoù urgentel lec'hel buan. Na c'hortozit ket un niver bennak a vunutoù a-raok reiñ da c'houzout. Un [erthygl kazetenn U.S. Department of Justice diwar-benn enklaskoù tud aet da goll e 2021](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) a lavar ne rankfe servijoù polis reiñ un amzer c'hortoz bennak; meneg a ra ivez sinedoù heñvel ouzh demenz evel un enkadenn riskl uhel. Ar proseduroù reiñ da c'houzout lec'hel a ziforc'h. Lavarit d'ar respontourien ez eus demenz gant an den, rannit al lec'h anavezet diwezhañ ha ur foto nevez, ha heuilhit o sturioù. Ma 'z eus un den skoazell all, goulennit dezhañ chom e-kichen ar pellgomz. Na glaskit ket lec'hioù arvarus e-unan.
 
-## Pegoulz e rankan galvout ar medisin?
+## Pegoulz e rankfen gervel ur medisin?
 
-Galvit o medisin buan ma kregi ar goulenn pe ar goulioù bennak en un taol, pe ma a waskoc'h gant an amzer dre an eurioù pe an devezhioù. An [Institut Nasional ar Kozhni](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a lavar e vez gwiriet diouzhtu ar c'hemmoù bras pe buan en ur bersonenn, dreist-holl goude un heñkodenn pe ur c'hemm medisin. Ar goulioù bennak en un taol a c'hall bezañ delirium, a lavar an [NHS](https://www.nhs.uk/symptoms/confusion/) ez eus ezhomm skoazell kentoc'h; an heñkodennoù dour a zo ur c'hraouenn boutin en tud kozh.
+Gervelit o medisin buan ma krog an goulenn pe an droug-gompren en un taol, pe ma vrasaat kalz e-pad eurioù pe deizioù. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a lavar ez eo ret gwiriañ buan forzh peseurt emzalc'h a grog en un taol pe a cheñch buan, dreist-holl goude un droug pe cheñchamant medisin. Gallout a ra an droug-gompren en un taol bezañ deliriom, a c'houlenn ar [NHS](https://www.nhs.uk/symptoms/confusion/) skoazell urgentel; an drougioù en hent an troazh a zo un abeg boutin e-touez an dud koshoc'h.
 
-Skoazell a ra ivez menegiñ ur patrom a bad d'an degemer nesañ, rak poan, skouer izel, kousk fall pe efedoù ar medisinoù a c'hall bezañ e-barzh.
+Skoazell a ra ivez menegiñ ur patrom ingal en emgav da-heul, rak poan, morale izel, kudennoù gousk pe efedoù a-gostez medisin a c'hall kemer perzh.
