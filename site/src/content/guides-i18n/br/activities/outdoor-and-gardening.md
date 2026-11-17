@@ -1,33 +1,33 @@
 ---
-title: "Arvezioù er-maez ha liester evit tud gant dementia"
-seoTitle: "Liester hag arvezioù er-maez evit dementia"
-description: "Ideoù liester ha dreist-tro evit tud o vevañ gant dementia, gant gwelyoù uhel, potoù ha tiliadoù surentez a-enep an tomder, an heol ha kuzh-kas."
+title: "Obererezhioù e-maez ha labour-douar evit tud gant demantstered"
+seoTitle: "Labour-douar hag obererezhioù e-maez evit demantstered"
+description: "Mennozhioù labour-douar hag obererezhioù e-maez evit tud o vevañ gant demantstered, gant gweleoù uhel, jardrinerezh e podoù ha kemennoù diwar-benn ar gwrez, an heol hag ar baleañ diouzh reol."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Al liester hag an amzer e-maez a c'hall bezañ un obererezh kalm hag anavezet
-  evit an hini a zo o vevañ gant dementia. Klaskit dourañ, plantañ louzoù,
-  lemel bleunioù tremenet pe ur batad berr en ur porzh serret. Implijit gwelyoù
-  uhel pe ur taolenn evit na vo ket ret da zen gouriziñ, na vo ket binvioù
-  lemm hag louzoù fall, mont er-maez e-pad an eurioù fresk eus an deiz, hag
-  chom bepred gant an hini.
+  Gallout a ra al labour-douar hag an amzer e-maez bezañ un obererezh sioul ha
+  boaz evit un den o vevañ gant an demantstered. Klaskit dourañ, plantañ louzou
+  en podoù, tennañ bleunioù sec’het pe ober ur bale berr en ur jardrin serret.
+  Grit gant gweleoù uhel pe un daol evit ma ne rankfe den ebet mont war e
+  zaoulin, tremenit hebioù ostilhoù lem ha plant bistri, kit er-maez pa vez
+  freskoc’h an amzer, ha chomit bepred gant an den.
 keyPoints:
-  - "Tremenoù liester simpl evel dourañ, plantañ hadoù en potoù, flaired louzoù ha dastum bleunioù a c'hall bezañ graet o chom war-sav pe azezet."
-  - "Gwelyoù uhel, potoù ha ur taolenn kevelet a laka al liester da vezañ da uhelder ar gorf ha a laosk risk ar c'hoarzhadoù."
-  - "Distroit binvioù lemm, louzoù spilhennek pe reaktiñ, ha kement a zo kalz-gwenwin. Gwelit n'eo ket kemmesket an douar gant boued."
-  - "An tomder a c'hall bezañ dangerus evit tud kozh. Mont er-maez e-kerzh an deiz pe dre an nozvezh, degasit dour ha skeud, ha dont en-ti pa vez arwezioù a fred."
-  - "Kalz tud o vevañ gant dementia a vale a-benn un devezh pe zegouezh. Chomit gant an hini er-maez hag al lun ur sined nevez ha an ID ganeoc'h."
+  - "Gallout a reer ober trevelloù eeun er jardrin, evel dourañ, hadañ, c’hwezhat louzou ha dastum bleunioù, en ur sevel pe en ur azezañ."
+  - "Gweleoù uhel, podoù ha taol goloet a zegas ar jardrin d’uhelder ar c’hrenn ha a zigresk ar riskl da gouezhañ."
+  - "Diarbennit ostilhoù lem, plant dreinek pe gallus, ha kement tra a c’hallfe bezañ bistr. Taolit evezh ma ne vo ket kemeret an douar evit boued."
+  - "Gallout a ra ar gwrez bezañ danjerus evit an dud gozh. Kit er-maez abred pe diwezhatoc’h, kemerit dour ha disheol, ha distroit d’an ti kerkent ha ma welit un arouez a ziaezamant."
+  - "Lies a ya tud o vevañ gant an demantstered da valeañ diouzh reol. Chomit gant an den er-maez ha dalcit ul luc’hskeudenn nevez hag un titouroù anaout tost."
 faq:
-  - q: "Pe obererezhioù liester a c'hall ober un den gant dementia?"
-    a: "Dourañ al louzoù, plantañ hadoù en potoù bihan, flaired ha liesañ louzoù, dilemel bleunioù tremenet, dastum legumaj, aozañ bleunioù tailhet hag ober ur bal war un hent a zo dibab mat. En ti, ur potig louzoù war ur prenestr pe ur bann douar war ur taolenn serret a zo mat. Dibabit an dra a ren hervez ar pezh a blije d'an hini kent hag a c'hall ober bremañ en un doare kysur."
-  - q: "Penaos mirout un den gant dementia a-enep an tomder?"
-    a: "Lakaat an amzer e-maez e-kerzh an deiz fresk, da viken, ha dont en-tu-hont ne vefe ket hir, ha kinnig dour alies. Dibabit ur skeud, ur chapelenn gant ur skouer ledan, dilhad tenn ha sklaer ha sunscreen. Tud kozh a zo dalc'het gwelloc'h a-enep salvedigezh an tomder, ha reizhadur, fentañ pe fazi a c'hall bezañ arwezioù kentoc'h. Ma weloc'h an arwezioù-se, dont en-ti da yenaat war-stroll."
-  - q: "Penaos mont er-maez mar eo tu d'ezhañ mont da goll?"
-    a: "Chomit gant an hini a-hed an amzer, implijit ur frank pe ur liester serret gant un urzh serret, ha lakait un arc'hant pe ur gartenn ID en he dorn. Kadwit ur sined nevez. Mar eo kollet an hini, Alzheimer's Association a lâr galvit an 112 mar n'eo ket kavet e-barzh 15 munud."
-  - q: "Petra ma n'hon eus liester ebet?"
-    a: "Un nebeud potoù war un porzh, ur gaotenn prenestr pe ur bann louzoù war an taolenn-boued a zo ret. Gallout a reer ivez mont da welet ur park, ul liester publik pe ul liester kumuniezh. Azezañ e-maez ha selaouiñ an eostoned a vez ivez un obererezh e-maez."
+  - q: "Peseurt obererezhioù labour-douar a c’hall un den gant demantstered ober?"
+    a: "Dourañ plant, hadañ en podoù bihan, c’hwezhat ha stekiñ ouzh louzou, tennañ bleunioù sec’het, dastum legumaj, aozañ bleunioù troc’het ha skubañ un hent a zo dibaboù mat. E-barzh, ul louzaoueg war ar prenestr pe un teolad douar war un daol goloet a zo aes da implijout. Dibabit an trevell hervez ar pezh a gare an den ober a-raok hag ar pezh a c’hall ober en un doare aes bremañ."
+  - q: "Penaos e c’hallan mirout un den gant demantstered diwall er gwrez?"
+    a: "Steuñvit an amzer er-maez evit ar beure abred pe an abardaez freskoc’h, grit e berr, ha kinnigit dour alies. Dibabit disheol, un tog moueek ledan, dilhad skañv ha ledan ha krezenn-heol. Ar re gozh a zo muioc’h a riskl da gaout kudennoù gant ar gwrez, ha gallout a ra kemmeskadur, troioù penn pe c’houezañ bezañ arouezioù diwall; distroit neuze d’an ti ha freskait an den diouzhtu ma welit anezho."
+  - q: "Penaos e c’hallomp mont er-maez ma ra an den baleadennoù diouzh reol?"
+    a: "Chomit gant an den an amzer a-bezh, grit gant ur jardrin pe ur porzh serret gant un norik staget, ha bezit sur e toug ur vrec’h-vicher anaout pe titouroù anaout gantañ. Dalcit ul luc’hskeudenn nevez tost. Ma tisraok an den, kit e darempred raktal gant ar polis pe ar servijoù mallus lec’hel; na c’hortozit ket un niver stered a vunutennoù. Lavarit dezho emañ demantstered gant an den, pelec’h eo bet gwelet da ziwezhañ ha roit ul luc’hskeudenn nevez."
+  - q: "Petra ma n’hon eus jardrin ebet?"
+    a: "Un nebeut podoù war ur porzhig, ur boest prenestr pe un teolad louzou war daol ar gegin a zo trawalc’h. Gallout a rit ivez mont d’ur park, d’ur jardrin foran pe d’ur jardrin kumuniezh. Azezañ e-maez ha selaou ouzh an evned a zo un obererezh e-maez ivez."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Evit kalz tud emañ al liester e-touez al lec'hioù anavezetañ ganto. Kloc'hañ, dourañ ha dastum bleunioù a implij tresoù bet desket abaoe pell, ha bezañ e-maez a ro awel fresk, sklêrijenn an heol ha kanaouenn al evned. An Institut Nasional ar Heneiz (NIA) a rollas evel obererezhioù a c'hall tud gant Alzheimer plijout ganto: ober gant al louzoù, plantañ bleunioù ha legumaj, ha [komz diwar-benn penaos e kresk al louzoù](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Ar bajenn-mañ a ziskouez petra da glask, penaos ober ar liester da vezañ aesoc'h da implij, ha penaos mirout surentez gant an tomder, an heol ha kerzhet diwar-gont.
+Evit kalz tud, ar jardrin a zo unan eus al lec’hioù anavezetañ. Ober toulloù, dourañ ha dastum bleunioù a implij barregezhioù desket pell zo, ha bezañ e-maez a zegas aer fresk, gouloù an heol ha son an evned. An National Institute on Aging a roll, e-touez an obererezhioù a c’hall plijout da dud gant Alzheimer, ober war-dro ar plant, plantañ bleunioù ha legumaj, ha [komz diwar-benn ar mod ma kresk ar plant](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Ar bajenn-mañ a zispleg petra klask, penaos lakaat ur jardrin aesoc’h da implijout, ha penaos chom diwall gant ar gwrez, an heol hag ar baleañ diouzh reol.
 
-## Petra a labour mat evit obererezhioù er-maez ha liester?
+## Peseurt obererezhioù e-maez ha labour-douar a ya mat?
 
-An obererezhioù gwellañ a zo simpl, anavezet ha gallout a reer o chom war-sav pe azezet. Dibabit diwar an dra a blije d'an hini kent.
+An trevelloù gwellañ a zo eeun, boaz ha gallout a reer o ober en ur sevel pe en ur azezañ. Dibabit hervez ar pezh a gare an den ober a-raok.
 
-### En ul liester
+### Er jardrin
 
-1. **Dourañ.** Ur c'hanneg dour bihan ha skañv pe ur fri dour a zo dalc'het dre ziwar ha ur nebeud potoù a zo tost. Dourañ en deus un deroù klok ha ur fin klok ha n'eo ket diaes ober gantañ fall.
-2. **Plantañ hadoù en potoù.** Lâret a ra Alzheimer's Foundation of America e c'hall ar re a zo o plantañ hadoù en potoù bihan [gwelet anezho o kreskiñ](https://alzfdn.org/dementia-activity-gardening/). Hadoù bras evel ar fasol, ar blodenn-heol pe ar pesklen a zo aesoc'h da zourn.
-3. **Dilemel bleunioù tremenet.** Dilemel ar bleunioù tremenet dre zorn a zo ur gweledigezh deuz ur labour dous ha adober. Dibabit louzoù hep spilhennoù.
-4. **Dastum legumaj pe louzoù.** Tomatez bihan, fasol ha louzoù a zo aes da dastum ha plijus da zebriñ. Degasit anezho en-ti da implij d'al lounaer.
-5. **Flaired ha tañvaat louzoù.** Rosmarin, menta ha lavanda a zo gant ur c'hwerv kriz ha plijus. Frotit ur pazenn etre ho biz ha tremenit anezhi a-dreuz an trein.
-6. **Lemel un hent pe ur porzh.** Ur balenn skañv war ul lec'h plat ha sec'h, mar eo sur ar stlaboñ.
-7. **Leuniañ ur gwalenn evit ar bempoù.** Azezit goude asambl ha gwelit piv a zeu da welet.
+1. **Dourañ.** Ur pod-dour bihan ha skañv pe ur biz dour dousik ha nebeut podoù e-kichen. An dourañ en deus un deroù hag un dibenn sklaer, ha n’eo ket aes faziñ.
+2. **Hadañ en podoù.** Alzheimer’s Foundation of America a ginnig hadañ en podoù bihan ha [sellet ouzh ar plant o kreskiñ](https://alzfdn.org/dementia-activity-gardening/). Had bras evel fav, tro-heol pe piz a zo aesoc’h da gemer.
+3. **Tennañ bleunioù sec’het.** Tennañ gant an dorn bleunioù tremenet a zo un trevell dous hag adarre. Dibabit plant hep drein.
+4. **Dastum legumaj pe louzou.** Tomatez bihan, fav ha louzou a zo aes da zastum ha plijus da flastrañ. Kasit anezho e-barzh evit ar merenn.
+5. **C’hwezhat ha stekiñ ouzh louzou.** Ar rozmarin, ar bent hag al lavant en deus c’hwezhioù kreñv ha plijus. Frotit ur follenn etre ho pizied ha roit anezhi da gaout.
+6. **Skubañ un hent pe ur porzh.** Ur skubellenn skañv war un dachen blaen ha sec’h, ma’z eo stabil ar c’hemperzh.
+7. **Leuniañ ur bouetaer evned.** Goude-se, azezit asambles ha sellit piv a zeu da weladenniñ.
 
-### En ti, pa n'eo ket posupl mont er-maez
+### E-barzh, pa n’eo ket posupl mont er-maez
 
-- **Ul liester louzoù war ur prenestr**, gant basilik, persilh pe sivi.
-- **Plantañ war ur taolenn serret.** Lâret a ra an AFA e c'hall ober gant taolioù evel en ur stalioù-debriñ evit derc'hel an douar en ul lec'h, ha lakaat an douar gant potoù bihan.
-- **Aozañ bleunioù** gant bleunioù toull hag louzoù eus al liester pe eus ur stal-debriñ.
-- **Bleunioù lakaet en ur bajenn** eus ur bouked, ha goude e c'haller o lakaat war kartennoù. Gwelit [arzoù ha kenstrivañ](/activities/arts-and-crafts/) evit muioc'h.
-- **Ober sachedoù lavanda pe rozenn**, un idea all eus an AFA a zalc'h c'hwerv al liester en ti.
+- **Ul louzaoueg war ar prenestr** gant bazilik, perisilh pe siv.
+- **Plantañ war un daol goloet.** An AFA a ginnig implijout pladennoù doare kafedi evit mirout an douar en ul lec’h hag implijout gobeledoù bihan evit fiñval an douar.
+- **Aozañ bleunioù troc’het** gant bleunioù ha delioù eus ar jardrin pe ur stal.
+- **Bleunioù gwasket** eus ur vouboulig, da stagañ war kartennoù diwezhatoc’h. Gwelit [arz hag obererezh gant an dorn](/activities/arts-and-crafts/) evit muioc’h a mennozhioù.
+- **Ober sachetoù lavant pe roz**, ur mennozh all eus an AFA evit mirout c’hwezh ar jardrin e-barzh.
 
-### Mont er-maez hag e-pad ar mare
+### Mont er-maez
 
-- **Ur batad berr** en-dro d'ar c'hornad, en ur park pe en ur gerdi-liester, gant ur vaz didrouz ha ul lec'h evit azezañ.
-- **Azezañ e-maez** war ur porzh pe ur bank evit selaouiñ an evned ha sentiñ an avel. Un obererezh klok ynvalidañ eo hennezh e-unan.
-- **Mont da welet ul liester publik** e-kerzh un eur didrouz. Lâret a ra an NHS e kaver lec'hioù gant liesterioù sensorel, gant louzoù c'hwerv, nerzhioù ha dourioù.
-- **Lakaat ar gwelioù da boueta pe gwelet an evned** e-kichen ul lenn, o chom pell diouzh an dour.
+- **Ur valeadenn verr** tro-dro ar c’harter, en ur park pe en ur jardiner, gant ur pas goustadik hag ul lec’h da azezañ.
+- **Azezañ e-maez** war ur porzh pe ur vank evit selaou ouzh an evned ha santout an avel. Un obererezh klok eo hec’h-unan.
+- **Gweladenn ur jardrin foran** e-pad ur mare sioul eus an deiz. An NHS a lavar e vez a-wechoù jardinioù santus gant plant c’hwezhus, stokadennoù ha perzhioù dour.
+- **Boueta houidi pe sellet ouzh an evned** e-kichen ur poull lec’hel, en ur chom pell diouzh ar ribl.
 
-## Penaos ober ar liester da vezañ aesoc'h da implij?
+## Penaos e c’hallan lakaat ur jardrin aesoc’h da implijout?
 
-Lakait al liester d'an hini, ne vefe ket d'ar c'hontrol.
+Kasit ar jardrin davet an den, ha ket an tu all.
 
-- **Gwelyoù uhel pe potoù uhel** e-tro uhelder ar gorf, evit na vo ket ret gouriziñ na plegañ.
-- **Potoù war ur taolenn** a labour evit tud a implij ur gadeireoù-rod pe a gar azezañ.
-- **Hentoù ledan ha lakaet en-dro**, hep mein dislouet pe pibi o c'hoarvezañ dreist, evit lakaat ar c'hoarzhadoù da vezañ nebeutoc'h.
-- **Azezlec'hioù gant krogerezh ha skeud** en hent, evit ma vefe bepred ar gwele posupl.
-- **Ostilhoù gant dorn tev ha malus** a zo aes da zerc'hel. Heuilhit ar spiliadoù, an tailhoù ha kement a zo fin.
-- **Ul lec'h gant ur frank serret** e c'hall an hini ergerzhiñ dieub, o chom tost da-geñver.
+- **Gweleoù uhel pe jardiniñoù uhel** war-dro uhelder ar c’hrenn a dalv n’eus ket ezhomm mont war an daoulin pe plegañ.
+- **Podoù war un daol** a zo mat evit tud a implij ur gador-ruilhoù pe a gav gwelloc’h azezañ.
+- **Hentoù ledan ha plaen** hep maen disheñvel pe tuzelloù a-dreuz a zigresk ar riskl da stlakañ.
+- **Kadorioù gant brec’hioù ha disheol** a-hed an hent, evit ma c’hallfe an den diskuizh bepred.
+- **Ostilhoù gant dorneoù tev ha dous** aes da gemer. Tremenit hebioù sizailhoù, kontellioù ha tra lem ebet.
+- **Ul lec’h serret gant un norik staget** ma c’hall an den ergerzhout en un doare frank e-pad ma chomit e-kichen.
 
-## Pe louzoù a dlefe ober kuit ac'hanta?
+## Peseurt plant a rankan tremen hepioù?
 
-Dibabit louzoù a c'hall bezañ touchet hep kemer kalz a berzh, ha dreist-holl a c'hall bezañ tastet hep danger. Lâret a ra an AFA e vefe gwelloc'h implijout louzoù n'ouzhont ket a vez an dienez ganto, gwiriañ alergioù, ha bezañ attentivus ouzh an hini a c'hall kemer an douar evit boued. Keleier surentez ar gêr an NIA a lâr e tlefe tennañ pe serriñ al louzoù gwenwinus.
+Dibabit plant diogel da stekiñ outo ha, ma c’haller, diogel ma vezont blaset. An AFA a erbed implijout plant na c’hwask ket ar c’hroc’hen peurvuiañ, gwiriañ ma vez allergiezhioù, ha sellet ouzhpenn ma c’hallfe unan bennak kemer an douar evit boued. Kemennoù surentez an ti eus an NIA a erbed ivez tennañ pe serriñ plant bistri.
 
-- Distroit ar rozennoù spilhennek, ar gaktuzennoù hag al louzoù a zo gant sav a glem ar c'hroc'hen.
-- Gwiriit kement a zo dezhañ, gant ur greizenn kontrol-gwenwin pe ul liester lec'hel, a-raok plantañ.
-- Ar blijadurioù anavezet a c'hall degas tennadoù plijus en-dro. Lâret a ra an AFA ez eus rozennoù ha kaktus Nedeleg evel skouerioù. Dibabit rummadoù hep spilhennoù.
-- Mirit an tenner, ar pezhioù-lazh ha lazhadur ar gwelioù en ul lec'h serret, ha n'implijit ket anezho en takadoù a c'hall an hini tizhout.
+- Tremenit hebioù roz dreinek, kaktuz ha plant gant dour gallus evit ar c’hroc’hen.
+- Ma n’oc’h ket sur diwar-benn ur blant, gwiriit gant ur greizenn kempenn ar bistr pe ur jardiner lec’hel a-raok plantañ.
+- Gallout a ra plant karet a-raok degas santimantoù plijus en-dro. An AFA a menege ar roz hag ar c’haktuz Nedeleg evel skouerioù. Dibabit doareoù hep drein.
+- Mirit ar c’hraonadoù, ar pesticideoù hag ar produioù d’en em zizober a-berz chadennoù louzou, ha n’implijit anezho ket e lec’hioù ma c’hall an den mont.
 
-## Penaos mirout surentez gant an tomder hag an heol?
+## Penaos e c’hallan chom diwall ouzh ar gwrez hag an heol?
 
-Lakaat an amzer e-maez a-enep an amzer. Lâret a ra an NIA e vez tud kozh dalc'het gwelloc'h a-enep [an afleuriadur a-ziwar an tomder](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), abalamour ma sav ar c'horf gant ar c'hemmoù temperadur, ha ma zo evezh en medisinoù war an doare ma tremen ar c'horf an tomder.
+Steuñvit an amzer er-maez hervez an amzer. An NIA a zispleg eo ar re gozh muioc’h a riskl da gaout [kudennoù liammet ouzh ar gwrez](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), en darn peogwir ne azasa ket ar c’horf ken mat ouzh kemmoù an temperadur ha peogwir e c’hall louzoù zo kemmañ an doare ma embreg ar c’horf ar gwrez.
 
-- **Mont er-maez a-raok pe goude.** Chomit a-enep kreiz an deiz e miz tomm. Gwelit ar meneg a vez sentet, n'eo ket hepken an temperadur.
-- **Kinnig dour alies.** Na lezit ket an hini da lavarout e zo sec'hed warnañ. Chomit a-enep alkool hag evaj kaféino en tomder.
-- **Dilhadit mat.** Dilhad sklaer ha ledan, ur chapelenn gant ur skouer ledan ha spektolennoù heol.
-- **Implijit sunscreen.** Lâret a ra an NIA ez eus da gaout SPF 15 pe uheloc'h a c'hall gwareziñ a-enep an UV, ha da adlakaat dre an deiz.
-- **Dibabit ur skeud.** Lakait ar taolenn-plantañ dindan ur wezenn pe un umbrella.
-- **Dalc'hit berr.** Ur bloavezh berr e-maez a c'hall bezañ ret, dreist-holl en deizioù tomm.
-- **Gwelit an arwezioù kentoc'h.** Lâret a ra an NIA e c'hall bezañ poan-penn, fentañ, reizhadur pe fazi arwezioù a afleuriadur an tomder. Un den gant dementia a c'hall ne lavar ket dit ne vez ket mat outañ, neuze gwelit he fizh ha he emzalc'h. Dont en-ti, kreiñ gant dour ha ul lien fresk, ha kavout skoazell medisinel mar na wellaat ket buan. Ur fazi tomder kreñv, gant arwezioù evel kouezhañ, fentañ pe croc'hen sec'h ruz, zo ur gwall ret: galvit ar 112.
+- **Kit er-maez abred pe diwezhatoc’h.** Tremenit hep kreiz an deiz e mizioù tomm. Sellit ouzh feur ar gwrez, ha ket ouzh an temperadur hepken.
+- **Kinnigit dour alies.** Na c’hortozit ket ma lavaro an den en deus sec’hed. Tremenit hep alkohol ha evajoù gant kafein er gwrez.
+- **Gwiskit dilhad dereat.** Dilhad skañv, ledan ha liv sklaer, un tog moueek ledan ha lunedoù-heol.
+- **Implijit krezenn-heol.** An NIA a erbed ur c’hrezenn ledander SPF 15 pe uheloc’h, adlakaet e-pad an deiz.
+- **Dibabit disheol.** Lakait an daol labour-douar dindan ur wezenn pe un disheolier.
+- **Grit e berr.** Ur pennadig berr e-maez a c’hall bezañ trawalc’h, dreist-holl pa vez tomm.
+- **Taolit evezh ouzh an arouezioù diwall.** An NIA a roll poan penn, kemmeskadur, troioù penn pe c’houezañ evel arouezioù posupl eus kudennoù liammet ouzh ar gwrez. Gallout a ra un den gant demantstered chom hep lavarit deoc’h emañ goañv gantañ, setu perak eo mat sellet ouzh e fas hag e emzalc’h. Kit d’an ti, freskait anezhañ gant dour hag ul lien fresk, ha klaskit sikour mezegel ma ne wella ket buan. Ar gwall-domm, gant arouezioù evel semplaat, kemmeskadur pe kroc’hen sec’h ha ruz, a zo un mallusted mezegel: galvit 911.
 
-Ar yenijenn a bouez ivez. En-dro d'ar goañv, dalc'hit an amzer e-maez berr hag gwelit mat e vez tomm ha sec'h an divrec'h hag an dreid.
+An amzer yen a zo pouezus ivez. Er goañv, grit an amzer er-maez berr ha bezit sur e chom dornoù ha treid tomm ha sec’h.
 
-## Penaos merañ ar gerzh pa vezer e-maez?
+## Penaos e c’hallan mererezh ar baleañ diouzh reol pa’z omp er-maez?
 
-Chomit gant an hini bep-tro ma vez er-maez. Lâret a ra Alzheimer's Association [e vez c'hwec'h tud en-dro-warn o vevañ gant dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) a gerzh dre nebeutañ an unan, ha kalz anezho a ra se muioc'h eget unan. Gallout a ra en ul lec'h bennak e-kerzh ar vuhezh.
+Chomit gant an den bewech ma’z eo e-maez. Alzheimer’s Association a lavar e vo [c’hwec’h den diwar dek o vevañ gant an demantstered](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) o vont da valeañ diouzh reol d’an nebeutañ ur wech, ha lies a raint an dra-se meur a wech. Gallout a ra c’hoarvezout e pep stad.
 
-Dalc'hit e-kont ar c'hennoù a zo e [keleier an NIA evit kerzhet ha koll an hent](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease):
+[Kuzulioù an NIA evit ar baleañ diouzh reol hag ar c’holl](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) a zo, e-touez traoù all:
 
-- Lakaat an hini da wisket un ID pe ur gartenn medisinel gant e anv, e chomlec'h ha ho telefon, pe merkañ e zilhad.
-- Kadwit ur sined pe ur video nevez eus an hini.
-- Lâret d'ho kestizien e c'hall an hini kerzhet.
-- Serriñ ar porzh gant ur frank ha ur frank serret.
-- Na lezit ket un den gant istor kerzhadoù da chom hep an hini a ro evezh dezhañ.
+- Bezit sur e toug an den un anaouder pe ur vrec’h-vicher mezegel gant e anv, e chomlec’h hag ho niver pellgomz, pe skrivit an titouroù war e zilhad.
+- Dalcit ul luc’hskeudenn pe ur video nevez eus an den.
+- Lavarit d’an amezeien e c’hallfe an den baleañ diouzh reol.
+- Skoazellit ar jardrin gant ur voger hag un norik prennet.
+- Na laoskit ket unan gant istor baleañ diouzh reol e-unan.
 
-Lâret a ra Alzheimer's Association ivez e tlefe krouiñ lec'hioù e-barzh ha e-maez a c'haller ergerzhiñ diarvar, ha kaout an obererezhioù pa vez an diskuiet ar muiañ. Ur batad e ul liester serret ha diarvar a c'hall klotañ mat gant an diskuiet a zo a-zivout an eur diwezhañ. Gwelit hon [keleier diwar-benn an diskuiet a-zivout an eur diwezhañ](/caregiving/late-day-restlessness/).
+Alzheimer’s Association a ginnig ivez krouiñ lec’hioù e-barzh hag e-maez a c’hall bezañ ergerzhet en un doare sur, ha steuñviñ obererezhioù evit ar mare eus an deiz ma vez ar muiañ a zrouk. Ur valeadenn en ur jardrin sur ha serret a c’hall klotañ mat gant trouk fin an deiz. Gwelit hor sturlevr diwar-benn [trouk fin an deiz](/caregiving/late-day-restlessness/).
 
-Mar eo kollet an hini, lâret a ra Alzheimer's Association e tlefe klask e-kichen a-stroll ha galvout an 112 mar n'eo ket kavet e-barzh 15 munud. Lavarit d'ar poliserien e vez dementia gant an hini.
+Ma tisraok an den, klaskit el lec’hioù sur e-kichen en ur vont e darempred raktal gant ar polis pe ar servijoù mallus lec’hel. Na c’hortozit ket un niver stered a vunutennoù a-raok kemenn. Ur [pennad kelaouiñ eus Departamant ar Justis Stadoù-Unanet diwar-benn enklaskoù tud kollet](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) a lavar ne zlefe ket ar servijoù lezenn goulenn ur prantad gortoz stered ha roll arouezioù demantstered evel un abeg riskl uhel. Gallout a ra an doareoù da gemenn bezañ disheñvel hervez al lec’h. Rannit pegoulz ha pelec’h eo bet gwelet an den da ziwezhañ, petra a zoug, hag ul luc’hskeudenn nevez. Heuilhit kemennoù ar saverien lec’hel; na glaskit ket e lec’hioù danjerus ho-unan.
 
-## Penaos addasiñ al liester pa vez kemmoù?
+## Penaos e c’hallan azasaat al labour-douar pa cheñch an traoù?
 
-| Ma'z eo bet diaes | Klaskit an dra-mañ en he flas |
+| Ma’z eo deut diaes | Klaskit an dra-mañ e plas |
 | --- | --- |
-| Plantañ ur gwele a-bezh | Plantañ ur hadenn en ur pot |
-| Dilemel louzoù gwall (dismantrout ar gwall-louzoù diouzh ar re vat) | Dourañ, pe dilemel ar bleunioù tremenet a zo sklaer |
-| Kerzhet en liester | Azezañ en ur taolenn gant ur bann douar ha ul louzoù |
-| Mont er-maez a-bezh | Ur pot louzoù war an taolenn-boued, pe ur plasenn tost d'ur prenestr digor |
-| Ober un tra bennak | Azezañ e-maez asambl, selaouiñ ha gwelet |
+| Plantañ ur gwele a-bezh | Plantañ un hadenn en ur pod |
+| Diouzhiañ (diforc’hiañ louzioù fall eus ar plant) | Dourañ, pe tennañ bleunioù sec’het anat |
+| Baleañ tro-dro ar jardrin | Azezañ ouzh un daol gant un teolad douar hag ur blant |
+| Mont er-maez | Ur pod louzou war daol ar gegin, pe ur gador e-kichen ur prenestr digor |
+| Ober un trevell | Azezañ e-maez asambles, o selaou hag o sellet |
 
-Dibab an hini a fell dezhañ gwelet ho labour. Lâret a ra an NIA e c'hall bezañ mat lezel an hini da welet hepken ma'z eo se ar pezh a blij dezhañ.
+Tud zo a gav gwelloc’h sellet ouzhoc’h o labourat. An NIA a lavar eo mat lezel unan da sellet hepken ma plij dezhañ.
 
-## Pryd e tlefe mont en-ti?
+## Pegoulz e rankomp distreiñ d’an ti?
 
-Dont en-ti pa vez an hini skuizh, tomm, oc'h, diskuiet pe prest da echuiñ. Ur zekvet berr, plijus, a zo gwelloc'h eget un eurvezh hir a zeu d'ober kaour. Chom kentoc'h a zo ur fin vat.
+Kit e-barzh pa welit an den skuizh, tomm gantañ, yen gantañ, diez pe prest da baouez. Dek munutenn verr ha plijus a zo gwelloc’h eget un abardaez hir a echu gant enkadenn. Paouez a-raok amzer a zo un disoc’h mat.
 
-## Degas al liester war ar skramm
+## Kasit ar jardrin e-barzh war ar skramm
 
-En deizioù glav, [Sort Together](/games/sort-together/) en deus ur c'hoc'h liester evit dilenn ar skeudennoù, ha [Conversation Cards](/games/conversation-cards/) a zo gant goulennoù digor a c'hall kas da gontadennoù diwar-benn al liester. Ma tiskenn en-ti gant ur fentañ, [Calm Breathing](/games/calm-breathing/) a ro ur pause lent ha tavut a c'hallit rannañ. Evit muioc'h a idoù boazet war an douch, an c'hwerv ha ar son, gwelit hon [keleier obererezhioù sensorel](/activities/sensory/).
+E deizioù glav, [Sort Together](/games/sort-together/) en deus ur baner jardrin evit rummañ skeudennoù, ha [Conversation Cards](/games/conversation-cards/) a ginnig goulennoù digor a c’hall kas da istorioù diwar-benn ar jardrin. Ma teuoc’h e-barzh eus ar gwrez gant ur santimant re hast, [Calm Breathing](/games/calm-breathing/) a ginnig ur paouez sioul ha goustadik da rannañ. Evit muioc’h a mennozhioù diazezet war ar stok, ar c’hwezh hag ar son, gwelit hor [sturlevr obererezhioù santus](/activities/sensory/).

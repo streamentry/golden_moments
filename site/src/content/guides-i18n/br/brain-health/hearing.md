@@ -1,32 +1,33 @@
 ---
-title: "Kollet ar selaou ha riskoù ar c'hlenved"
-seoTitle: "Kollet ar selaou ha c'hlenved: petra a ziskouez ar studi"
-description: "Perak e c'hall kollet ar selaou bezañ ur riskl bennañ evit ar c'hlenved, petra a gavas an arnodiad ACHIEVE, ha penaos gwiriañ ho selaou ha kaozeal aesoc'h."
+title: "Koll klevet ha riskl demantiz: pezh a ziskouez an enklask"
+seoTitle: "Koll klevet ha demantiz: pezh a ziskouez an enklask"
+description: "Perak eo ar c’holl klevet ur riskl bras evit an demantiz, pezh a ziskouez arnodenn ACHIEVE, ha penaos gwiriañ ar c’hlev hag eskemm gwelloc’h."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Komisioned Lancet 2024 a enrollas ar c'hollet selaou evel unan eus ar riskoù kemmadus brasañ evit ar c'hlenved.
-  Er c'hlask ACHIEVE, ne en deus ket skeudennoù-selaou harzet ar goulenn-kollet a-sav hag a-bezh, met ur strollad
-  uhel-riskl en deus diskouezet ur c'hollet nebeutoc'h. Skeudennoù-selaou a harp ar gaozeadenn hag ar vuhezegezh bemdez,
-  kement-se. Gwiriit ho selaou, soñjit en skeudennoù a vez roet gant ur gwerzher pe a vez prenet hep resev, hag kaozit
-  gant ur medisin.
+  E Kuzul Lancaster 2024 e vez anvet ar c’holl klevet evel unan eus ar riskloù brasañ evit an
+  demantiz a c’haller cheñch. En arnodenn ACHIEVE, n’eo ket bet goustet ar c’holl anaoudegezh
+  gant protezourioù-klev en holl, met e strollad gant muioc’h a riskl ez eus bet nebeutoc’h a
+  goll. Skoazellañ a ra ar protezourioù-klev da gomz ha d’ar vuhez pemdeziek forzh penaos. Goulennit
+  gwiriañ ho klev, soñjit e protezourioù-klev gant ur resepter pe hep resept, ha komzit gant ur
+  medisin.
 keyPoints:
-  - "Komisioned Lancet a gonta e vez ar c'hollet selaou da gont war-dro 7% eus ar c'hlenved er bed a-bezh, ha da-heul a-dal gant ar rann brasañ e-touez 14 abeg."
-  - "E-pad an arnodiad ACHIEVE gant 977 den kozh, ne en deus ket skeudennoù-selaou kemmet ar goulenn-kollet a bep tri bloaz e-tro pep hini."
-  - "Ur strollad bihanoc'h, uhel-riskl e-barzh ACHIEVE, en deus kollet 48% nebeutoc'h gant skeudennoù-selaou; ret eo kadarnaat se."
-  - "Abaoe miz Here 2022, e c'hall oadourien Stadoù-Unanet kenderc'hel skeudennoù-selaou FDA hep resev, ma vez ur c'hollet selaou ysel pe kreiz."
-  - "Ouzhpennet e voe kollet gweled dibaouezet evel riskl c'hlenved e 2024, ­ret eo ivez gwiriañ ho lagad."
+  - "Kuzul Lancaster a vrasjediñ eo pennad ar c’holl klevet war-dro 7% eus an demantiz e-bed, kevatal d’al lodenn vrasañ e-touez 14 faktor."
+  - "En arnodenn ACHIEVE gant 977 den koshoc’h, n’eo ket bet cheñchet ar c’holl anaoudegezh a-hed tri bloaz gant protezourioù-klev en holl."
+  - "En ur strollad bihanoc’h gant muioc’h a riskl e ACHIEVE, eo bet 48% gorrekoc’h ar c’holl anaoudegezh gant protezourioù-klev; ret eo kadarnaat an dra-se c’hoazh."
+  - "Abaoe Here 2022 e c’hall an dud deuet e US a soñj dezho kaout ur c’holl klevet skañv pe etre, prenañ protezourioù-klev renet gant an FDA hep resept."
+  - "Ouzhpennet eo bet ar c’holl gwelet na vez ket treitet evel riskl demantiz e 2024, neuze pouezus eo ivez ar gwiriadennoù lagad."
 faq:
-  - q: "Ha skeudennoù-selaou a harz ar c'hlenved?"
-    a: "N'eo ket bet diskouezet. Ar c'hlask ACHIEVE n'en deus ket kavet effet hollek war ar goulenn-kollet a-dreuz tri bloaz, n'eo ket bet ken evit ur strollad uhel-riskl a oa gwelloc'h. Gallout a reer soñjal c'hoazh e skeudennoù-selaou, rak ez a ar gaozeadenn, ar surentez hag ar vuhezegezh bemdez aesoc'h."
-  - q: "Piv a c'hall prenañ skeudennoù-selaou OTC?"
-    a: "Aotreet eo gant FDA d'an oadourien 18 vloaz ha muioc'h o deus kollet selaou evel ma soñj dezho, ledan pe bihan, da brenañ skeudennoù-selaou en ti-gwerzhañ pe war internet hep resev. N'int ket evit ur c'hollet selaou bras. Ra gwelo an hini a zo gant poan ar skouarn, dour a red eus ar skouarn, goulloù pe kemmoù prim er selaou, unan a vedisin a-raok."
-  - q: "Ha kollet ar selaou a c'hall heñvel ouzh ar c'hlenved?"
-    a: "Weithiau. Notennañ a ra Institouezh Nasionel an Oad (NIA) e vez soñjet a-fazi e-keit ha ne c'hall ket an oadourien kozh selaou mat bezañ dizoare pe nebeut gouzout-kompren. Ur gwiriadenn selaou a zo ur stad mat pa vez gwelet unan o tennañ kuit pe o chom hep kemer ar pezh a vez lavaret."
-  - q: "Pegement a vezh e tle an oadourien kozh gwiriñ o daouzar?"
-    a: "Kuzuliañ a ra an NIA ur gwiriadenn lagad dre ledan bep bloaz pe daou bloaz goude 60 vloaz, pe evel ma kuzul ho kuzulier lagad. An dud gant diabetes pe pression uhel a vez ret dezho eo ur gwiriadenn bep bloaz d'an nebeutañ."
+  - q: "Ha mirout a ra ar protezourioù-klev ouzh an demantiz?"
+    a: "N’eo ket bet prouet an dra-se. En arnodenn ACHIEVE n’eus bet efed ebet war ar c’holl anaoudegezh a-hed tri bloaz en holl, daoust ma’z eo aet gwelloc’h gant ur strollad gant muioc’h a riskl. Talvoudus eo c’hoazh kaout protezourioù-klev peogwir e lakont ar gomz, an diogelroez hag ar vuhez pemdeziek da vezañ aesoc’h."
+  - q: "Piv a c’hall prenañ protezourioù-klev hep resept?"
+    a: "An FDA a aotre an dud 18 bloaz ha koshoc’h a soñj dezho kaout ur c’holl klevet skañv pe etre da brenañ protezourioù-klev hep resept er stalioù pe enlinenn, hep resept. N’int ket graet evit ur c’holl klevet kreñv. An dud gant poan er skouarn, dour pe stumm o redek eus ar skouarn, troioù penn pe cheñchamantoù prim er c’hlev a zlefe mont da welet ur medisin da gentañ."
+  - q: "Ha gallout a ra ar c’holl klevet seblantiñ bezañ demantiz?"
+    a: "A-wechoù, ya. An National Institute on Aging a laka war wel e vez kavet a-wechoù eo tud koshoc’h na glev ket mat boulverset pe amhempredus, dre fazi. Ur gwiriadenn klevet a zo un taol mat pa seblant unan bennak en em dennañ pe pa goll ar pezh a vez lavaret."
+  - q: "Pegen alies e tlefe tud koshoc’h gwiriañ o lagadoù?"
+    a: "An National Institute on Aging a ali ur gwiriadenn lagad gant dilatadur bep bloaz pe bep daou vloaz goude 60 bloaz, pe hervez ali ho micherour lagad. An dud gant diabetez pe gwask gwad uhel o deus ezhomm anezhi d’an nebeutañ ur wech ar bloaz peurvuiañ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Boutin eo kollet ar selaou e-pad an oad, hag ar studierien a gemer anezhañ en-dro evel ur riskl evit ar c'hlenved. Met n'eo ket ar skeudennoù-selaou ur doare sur da harzañ ar c'hlenved : an arnodiad gwellañ betek-henn en deus roet disoc'hoù kemesk. Ar pajenn-mañ a ziskouez petra a ziskouez ar studi, penaos kaout ho selaou gwiriet, petra eo skeudennoù-selaou ar Stadoù-Unanet, ha penaos kaozeal aesoc'h.
+Boutin eo ar c’holl klevet pa erruer en oad, hag an enklaskerien a gemer an dra-se a-difriñ evel ur riskl demantiz. Ne dalv ket kement-se eo ar protezourioù-klev un doare prouet da virout ouzh an demantiz; kemmesk eo bet disoc’hoù an arnodenn wellañ betek-henn. War ar bajenn-mañ e vo displeget pezh a ziskouez an enklask, penaos gwiriañ ar c’hlev, petra eo ar protezourioù-klev hep resept e Stadoù-Unanet, ha penaos lakaat ar gomz da vezañ aesoc’h.
 
-## Perak eo pouezus ar selaou evit ar yec'hed ar spered?
+## Perak eo pouezus ar c’hlev evit yec’hed an empenn?
 
-Kollet ar selaou a zo liammet gant ur riskl uheloc'h a c'hlenved. Komisioned Lancet 2024 a gont war-dro 7% eus ar c'hlenved er bed a-bezh, [hervez ar gontadenn-mañ](https://doi.org/10.1016/S0140-6736(24)01296-0), hag ar c'hollet selaou a zo gant ar rann brasañ eus an 14 abeg a c'haller kemmañ, hervez model ar Gomisioned. Hervez [kontadenn UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors), e vez kavet ar c'holesterol LDL uhel gantañ e heul.
+Liamm a zo etre ar c’holl klevet hag ur riskl uheloc’h da gaout demantiz. [Kuzul Lancaster 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a vrasjediñ eo pennad ar c’holl klevet war-dro 7% eus an demantiz e-bed. Kement-se a lak anezhañ kevatal d’ar c’holesterol LDL uhel evit al lodenn vrasañ e-touez ar 14 faktor riskl a c’haller cheñch e patrom ar C’huzul, hervez [diverradenn UCL eus an danevell](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Kavoù pennañ ar Gomisioned :
+Disoc’hoù pennañ ar C’huzul:
 
-- **Riskl uheloc'h gant kollet ar selaou.** E dadansadenn a-stroll eus c'hwec'h studi a-vat, e oa tua 37% a riskl uheloc'h evit ar c'hlenved gant an dud a oa kollet selaou eget an dud gant ur selaou normal.
-- **Ar gwashoc'h, ar muioc'h a riskl.** Ar studioù a welas pegen fall e oa ar c'hollet a rae ar riskl kreskiñ a-fed ma tiskoe ar selaou.
-- **Abegoù posupl, n'int ket bet diskouezet c'hoazh.** Ezhomm a zo da gaout an unigezhded, ar spered pounner, an dibour a stimadur evit ar c'herc'h, hag an efedus kreizhenn a ra ar selaou.
+- **Ur riskl uheloc’h gant koll klevet.** En e analysenn strolladoù eus c’hwec’h studiadenn a galite uhel, war-dro 37% uheloc’h e oa ar riskl demantiz gant an dud a oa koll klevet ganto eget gant an dud a glev mat.
+- **Muioc’h a goll, muioc’h a riskl.** Ar studioù o devoa sellet ouzh live ar c’holl en devoa kavet e kreske ar riskl pa oa gwashoc’h ar c’hlev.
+- **Abegoù a c’hallfe bezañ, n’int ket prouet c’hoazh.** E-touez an mennozhioù ez eus an digenvez, an en em dennañ, an dislonkadur, nebeutoc’h a vroudad evit an empenn, hag an striv ouzhpenn a c’houlenn selaou.
 
-Kollet ar selaou a zo boutin. Hervez an [Institouezh Nasionel an Oad (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults), e kollo tri-hanter an oadourien kozh o selaou, ha kreskiñ a ra ar c'hans gant an oad.
+Boutin eo ar c’holl klevet. An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) a lavar ez eus kement-se gant war-dro unan eus tri den koshoc’h, hag e kresk an tu gant an oad.
 
-## Petra a gavas an arnodiad ACHIEVE gant skeudennoù-selaou?
+## Petra en deus kavet arnodenn ar protezourioù-klev ACHIEVE?
 
-ACHIEVE a oa an arnodiad kentañ en doare randomized war skeudennoù-selaou ha kollet ar goulenn-kollet. Aliesañ e vez dic'hallet an disoc'hoù, setu amañ an neuze eus [an danevell embannet](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE a oa an arnodenn dargouezhek kentañ diwar-benn ar protezourioù-klev hag ar c’holl anaoudegezh. Alies e vez displeget fall e zisoc’hoù, setu eta ar munudoù diwar [danevell embannet an arnodenn](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Piv a oa e-barzh :** 977 den etre 70 ha 84 vloaz gant kollet selaou dizoloet ha hep kudennoù bras war ar soc'hder, e pevar lec'h kumuniezh e Stadoù-Unanet.
-- **Petra a oa keñveriet :** Un hanter a resevas skeudennoù-selaou ha kendrec'hioù kuzuliañ gant un audiologour. Ar re all a resevas ur programm skoazell war an oad iac'h.
-- **Disoc'h pennañ :** Goude tri bloaz, n'oa **disheñvelder ebet** etre ar stroll·ioù war ar goulenn-kollet a-bezh.
-- **Disoc'h ar strollad bihan :** Eus daou vammenn e voe dibabet an dud. 238 den a zeuas eus ur studi kalon a veze graet dija pell zo (ARIC), ha, a-hevelep, e oant e riskl uheloc'h a goulenn-kollet. E ar strollad-se, e oa ar goulenn-kollet **48% nebeutoc'h** gant skeudennoù-selaou. Ouzh ar 739 gwirvoullad iac'h eus ar c'humuniezh, ne oa ket effet soñj.
+- **Piv a gemeras perzh:** 977 den etre 70 ha 84 bloaz gant koll klevet na oa ket bet treitet ha hep kudennoù bras en o doare da soñjal, e pevar lec’h kumuniezh e Stadoù-Unanet.
+- **Petra a oa keñveriet:** Hanter anezho o deus resevet protezourioù-klev ha dalc’hoù kuzuliañ gant un audiologour. An hanter all o deus resevet ur programm deskadurezh yec’hed diwar-benn koushañ yac’h.
+- **Disoc’h pennañ:** Goude tri bloaz, **ne oa tamm diforc’h ebet** er c’holl anaoudegezh etre an daou strollad en holl.
+- **Disoc’h er strollad is:** Dont a reas ar bersoned eus an arnodenn eus div vammenn. 238 den a oa deuet eus ur studiadenn hir diwar-benn yec’hed ar galon (ARIC), hag evel strollad o devoa muioc’h a riskl da gaout ur c’holl anaoudegezh. Er strollad-mañ e oa ar c’holl **48% gorrekoc’h** gant ar protezourioù-klev. E-touez ar 739 tud yac’h a-ziforc’h eus ar gumuniezh, ne oa efed sklaer ebet.
 
-Penaos lenn an disoc'hoù en un doare onest :
+Penaos lenn kement-se en un doare onest:
 
-- Ne oa effet ebet war-fed.
-- Kavet e voe disoc'h ar strollad bihan en un analizh eilrenk eus ur strollad bihanoc'h, ha ret eo kadarnaat anezhañ gant studioù all.
-- Ar re a oa o kemer perzh a oa anat peseurt programm a oa dezho, ha gallout a ra se kemmañ an disoc'hoù.
-- Lenn Komisioned Lancet an testennoù evel skeudenn e vez skoazellet an dud gant skeudennoù-selaou dreist-holl pa vez ganto kollet ar selaou ha reizhder ar riskloù c'hlenved all.
+- Respont hollek a oa: efed ebet.
+- Rakwelet e oa bet an disoc’h er strollad is, met dont a raeus eus un dielfennañ eil derez eus ur strollad bihanoc’h. Ret eo bezañ kadarnaet gant studioù all.
+- Gouzout a rae ar bersoned peseurt programm o devoa, hag an dra-se a c’hall levezoniñ war an disoc’hoù.
+- Kuzul Lancaster a lenn an testennoù evel diskouez ez int ar protezourioù-klev talvoudus dreist-holl evit an dud a zo koll klevet ganto asambles gant riskloù demantiz all.
 
-Gwir eo n'eo ket skeudennoù-selaou ur doare sur da harzañ ar c'hlenved. Met skoazellañ a reont an dud da glevet, da gemer perzh er gaozeadennoù ha da chom e darempred, ha se a ra reizh ar soñj da glask anezhe.
+Da gregiñ, n’eo ket ar protezourioù-klev un doare prouet da virout ouzh an demantiz. Skoazellañ a reont an dud da glevet, da gemer perzh er c’haozeadennoù ha da chom liammet, hag abeg a-walc’h eo an dra-se evit soñjal enno.
 
-## Penaos ouzhpenn e vez gwiriet ma selaou?
+## Penaos gouzout ma tlefe bezañ gwiriet ar c’hlev?
 
-Kuzuliañ a ra an NIA mont da welet ur medisin ma'z eo ac'hanoc'h pe an hini a bleguit ­outañ :
+An NIA a ginnig mont da welet ur medisin ma:
 
-- Gant an dra o deus poan da gompren an dud war an telefon
-- Gant an dra o deus poan da heuliñ ar gaozeadennoù pa vez daou pe muioc'h o kaozeal
-- A c'houlenn alies ouzh an dud lavarout a-nevez
-- A lak an TV da vezañ ken uhel ma kasont kuzh an dud all
-- A zo poan dezhañ kompren ar gomzoù gant sonerezh war-dro
-- A soñj e kaozeal an dud all gant mouchoù-sul
+- Vez diaes deoc’h pe d’an den a vez kemeret soursi anezhañ/anezhi kompren tud dre bellgomz
+- Vez diaes heuliañ kaozeadennoù pa gomz daou zen pe muioc’h
+- Goulenn a rit alies ma vo adlavaret ar pezh a zo bet lavaret
+- Lakait ar skinwel uheloc’h ken ma klemm tud all
+- Kavet eo diaes kompren ar gomz pa vez trouz tro-dro
+- Soñjal a ra deoc’h e vez mousc’hoarzh gant tud all
 
-Kregiñ a reer gant ur medisin kentañ, a c'hall ho kas da ur audiologour (un arbenner eus ar selaou) pe da ur medisin skouarn, fri ha gorre. Ur stad boutin eus kollet ar selaou eo prenn-skouarn a c'hall ur medisin gwiriañ. **Kollet ar selaou prim a zo ur fazi a yec'hed**, ha kuzuliañ a ra an NIA mont da welet ur medisin war-eeun.
+Krogit gant ur medisin hollek, a c’hall kas ac’hanoc’h da welet un audiologour (ur spesialour klevet) pe ur medisin skouarn, fri ha gouzoug. Ur bern kêr skouarn a c’hall bezañ un abeg boutin da goll klevet hag ur medisin a c’hall gwiriañ kement-se. **Ur c’holl klevet prim a zo un trummañ yec’hed**, hag an NIA a ali mont da welet ur medisin diouzhtu.
 
-Gallout a ra kollet ar selaou bezañ kemmesket gant dizoare. Notennañ a ra an NIA e vez soñjet a-fazi weithiau e-keit ha ne c'hall ket an oadourien kozh selaou mat bezañ dizoare, dizengan pe reizhdiell. Ma welit unan a ya en e-unan pe a chom hep kemer ar pezh a vez lavaret, ur gwiriadenn selaou a zo ur stad kentañ mat.
+Gallout a ra ar c’holl klevet bezañ kemmesket gant boulvers. An NIA a lavar e vez kavet a-wechoù eo tud koshoc’h na glev ket mat boulverset, didak pe amhempredus, dre fazi. Ma seblant unan bennak a garit en em dennañ pe ma koll ar pezh a vez lavaret, ur gwiriadenn klevet a zo un taol mat da gregiñ ganti.
 
-## Petra eo ar skeudennoù-selaou OTC?
+## Petra eo ar protezourioù-klev hep resept?
 
-Abaoe 17 a viz Here 2022, en deus aotreet an [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ur rummad skeudennoù-selaou dre ar gontrol (OTC) hep resev. Setu penaos e keveriont gant skeudennoù-selaou gant resev :
+Abaoe an 17 a viz Here 2022 eo bet aotreet gant an [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ur rummad protezourioù-klev hep resept (OTC). Setu penaos e vezont keñveriet gant ar re gant resept:
 
-| Dre ar fizi | Skeudennoù-selaou OTC | Skeudennoù-selaou gant resev |
+| Perzh | Protezourioù-klev hep resept | Protezourioù-klev gant resept |
 | --- | --- | --- |
-| Evit piv int | Oadourien 18 vloaz ha muioc'h o deus kollet selaou ledan pe bihan evel ma soñj dezho | Pep live a gollo selaou, pep oad |
-| Penaos ec'h emprenter anezho | En ti-gwerzhañ pe war internet, hep arnodiad na resev | Dre ur c'hoarvezer selaou aotreet |
-| Kempenn | Kempenn an arventennoù ho-unan, alies gant un arload | Un den a-vicher a ra o c'hempenn evit ho selaou |
+| Evit piv int | An dud 18 bloaz ha koshoc’h a soñj dezho kaout ur c’holl klevet skañv pe etre | Pep live koll klevet, pep oad |
+| Pelec’h o c’haout | Er stalioù pe enlinenn, hep gwiriadenn na resept | Dre ur micherour klevet aotreet |
+| Kengeidañ | C’hwi a reiz an arventennoù hoc’h-unan, alies gant un arload | Ur micherour a azgwel anezho evit ho klev |
 
-Lavarout a ra an FDA n'int ket evit ar c'hollet selaou bras pe fonnus. Kuzuliañ a ra mont da welet ur medisin, dreist-holl ur medisin skouarn, fri ha gorre, a-raok prenañ mar hoc'h eus :
+An FDA a lavar n’eo ket graet ar protezourioù hep resept evit ur c’holl klevet kreñv pe don. Aliñ a ra mont da welet ur medisin, ur spesialour skouarn, fri ha gouzoug da gwellañ, a-raok prenañ ma vez ganeoc’h:
 
-- Poan pe enkrezh er skouarn
-- Dour, pus pe gwad a zeu eus ar skouarn e-pad an 6 miz diwezhañ
-- Kemmoù prim pe dre-blij er selaou
-- Selaou gwashoc'h en unan eus ar skouarnoù, pe kanadenn e unan eus ar skouarnoù hepken
-- Fiñvoc'h pe gwasoc'h
-- Kalz a eozh er skouarn
+- Poan pe diaezamant er skouarn
+- Dour, gor pe gwad o redek eus ar skouarn e-pad ar c’hwec’h miz diwezhañ
+- Cheñchamantoù prim pe cheñch-dicheñch er c’hlev
+- Gwashoc’h eo ar c’hlev en ur skouarn, pe sifernioù en ur skouarn hepken
+- Troioù penn pe vertigo
+- Kalz kêr skouarn
 
-Gouzout a ra an dud ober gant ar skeudennoù-selaou a dalvez pleustr, neuze gwiriit ar reolennoù distreiñ a-raok prenañ, evel ma kuzul an FDA. Kuzuliañ a ra an NIA goulenn ha kemer ar c'hostezh gant ho asurañs, mar kav ganeoc'h ur rann eus ar c'hostezh. Evit an hini a chom gant ar c'hlenved, ur audiologour a c'hall skoazellañ da zibab peseurt seurt skeudenn-selaou ha kempenn a vo aesañ ar gwellañ ganti bemdez.
+Ezhomm a zo pleustriñ evit boazañ gant protezourioù-klev, neuze gwiriit ar reolenn distreiñ a-raok prenañ, evel ma kinnig an FDA. An NIA a ginnig goulenn hag-eñ eo paeet ul lodenn eus ar priz gant hoc’h asurañs. Evit un den a vev gant an demantiz, un audiologour a c’hall sikour da zibab peseurt doare protezour ha peseurt kengeidañ a vo aesañ da verañ bemdez.
 
-## Penaos kaozeal aesoc'h gant an hini a zo kollet e selaou?
+## Penaos komz aesoc’h gant unan bennak a zo koll klevet gantañ/ganti?
 
-Kuzuliañ a ra an NIA :
+An NIA a ginnig:
 
-1. **Tro ho tremen d'an hini ha derc'hel ho daoulagad war-zu,** en ur sklaerijenn vat, evit ma c'hall gwelet ho minoù ha ho fizioù.
-2. **Kavit ul lec'h dibar.** Diffoezit an TV pe tennit kuit diouzh ar sonerezh.
-3. **Komzit un tamm uhelloc'h, met na grit ket kaout.** Komzit en un doare naturel ha gant un dizhenn resis.
-4. **Derc'hit ho c'henoù digor.** Na zebrit ket, na gnaouit ket ar gomz, na guzhit ket ho genoù pa gomzit.
-5. **Adlavarit gant geriou all mar ne vez ket komprenet.** Gwelloc'h eo lavarout un dra all eget lavarout an hini kentañ en-dro.
-6. **Unan ouzh unan.** En ur strollad, ober un dra da vezañ an hini a vez degemeret.
-7. **Bezit pasiant ha goulennit penaos e c'hallit skoazellañ.**
+1. **Chomit dirak an den ha dalc’hit ar sell,** e-barzh ur gouloù mat, evit ma c’hallo gwelet ho muzelloù hag ho taoulagadoù.
+2. **Kavit ul lec’h sioul.** Lazhit ar skinwel pe kit pelloc’h diouzh an trouz.
+3. **Komzit un tammig uheloc’h, met na yac’hit ket.** Komzit en un doare naturel hag en un tizh reizh.
+4. **Laoskit ho kenou digor.** Arabat debriñ, chaskat gomm pe kuzhat ho kenou pa gomzit.
+5. **Adlavarit gant gerioù all kentoc’h eget adlavaret ar memes gerioù** pa vez kollet un dra bennak.
+6. **Un den war un dro.** E-barzh ur strollad, grit en un doare ma vo lakaet an den e-barzh.
+7. **Bezit pasiant ha goulennit penaos e c’hallit sikour.**
 
-Ar c'hunuzhioù-mañ a vank ket da labourat mat a-stroll gant [hor c'hunuzhioù kaozeal evit ar c'hlenved](/caregiving/communication-tips/). Ar skeudennoù a ro ivez ur skoazell evit ar selaou. [Pared skeudennoù](/games/picture-pairs/) ha [Kartenn ar gaozeadenn](/games/conversation-cards/) a sell ouzh ar pezh a welit, ha [Echuit al lavar](/games/finish-the-saying/) a laka ac'hanoc'h da ziskouez an dibenn en ur lavarout anezhañ. Evit ar galvoù, sellit ouzh hor gwidenn [galvoù telefon ha video](/activities/phone-and-video-calls/).
+Mat eo an alioù-mañ asambles gant hon [alioù evit kehentiñ gant unan bennak a vev gant an demantiz](/caregiving/communication-tips/). Obererezhioù gant skeudennoù a sikour ivez da dennañ ar gwask diwar ar selaou. [Picture Pairs](/games/picture-pairs/) ha [Conversation Cards](/games/conversation-cards/) a labour dre ar pezh a welit, ha [Finish the Saying](/games/finish-the-saying/) a ro an tu da ziskouez an dibenn kentoc’h eget e lavarout. Evit ar pellgomzadoù, sellit ouzh hor sturlevr diwar-benn ar [pellgomzadoù hag ar pellgomzadoù video](/activities/phone-and-video-calls/).
 
-## Ar gweled a bouez ivez
+## Pouezus eo ar gweled ivez
 
-Er bloavezh 2024, ouzhpennet en deus Komisioned Lancet ar gollet gweled dibaouezet evel ur riskl nevez. Hervez kontadenn UCL, e vez tua 2% eus an degouezhioù c'hlenved abalamour da se, ha kuzuliañ a ra ar Gomisioned ma vefe an dud en ur c'hallout kaout ur wiriadenn ha ur c'hempenn evit kudennoù gweled. Kuzuliañ a ra an [NIA](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ur gwiriadenn lagad dre ledan bep bloaz pe daou bloaz goude 60 vloaz, ha gwiriañ ivez ar presk gant ar sperlunoù. Kement a jeu, ma vez kemmoù bihan en ur welet, e c'hall kreskiñ ar riskl a gouezhadennoù.
+E 2024 en deus Kuzul Lancaster ouzhpennet ar c’holl gwelet na vez ket treitet evel riskl nevez. Diverradenn UCL a laka kement-se war-dro 2% eus an darvoudoù demantiz, hag ar C’huzul a ali lakaat ar skrinadur hag an tretiñ evit kudennoù gwelet da vezañ hegerz evit an holl. An [NIA a ali](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ur gwiriadenn lagad gant dilatadur bep bloaz pe bep daou vloaz goude 60 bloaz, ha gwiriañ ivez ar resepterioù lunedoù. Zoken cheñchamantoù bihan er gweled a c’hall kreskiñ ar riskl da gouezhañ.
 
-## Kaozit gant ur medisin
+## Komzit gant ur medisin
 
-Goulennit ur medisin diwar-benn gwiriadennoù selaou ha gweled ma welit unan eus an arwezioù a-us. Gortozit tuioc'h da vezañ soinget ma vez kollet ar selaou prim, poan skouarn pe dour a zeu eus ar skouarn. Ma tegemerit kont eus unan all a chom gant ar c'hlenved, lavarit d' e Medisin kemmoù ar selaou pe ar gweled, a c'hall kemmañ ar c'hiz, ar surentez ha penaos e c'hall an den kemer perzh.
+Goulennit gant ur medisin gwiriadennoù klev ha gweled ma welit unan eus an arouezioù a-us. Klaskit sikour buan diouzhtu evit ur c’holl klevet prim, poan er skouarn pe dour o redek eus ar skouarn. Ma kemerit soursi eus unan bennak a vev gant an demantiz, lavarit d’e/e medisin diwar-benn cheñchamantoù er c’hlev pe er gweled, a c’hall levezoniñ war an imor, an diogelroez hag an tu da gemer perzh.
 
-Titour generel eo ar pajenn-mañ, n'eo ket kuzul medisinel. Gwelit hor [disklaeriad medisinel](/medical-disclaimer/). Lenn muioc'h diwar-benn [darempred sokial ha yec'hed ar spered](/brain-health/social-connection/).
+Titouroù hollek eo ar bajenn-mañ, n’eo ket un ali vezegel. Sellit ouzh hon [dislaverez yec’hed](/medical-disclaimer/). Lennit muioc’h diwar-benn [al liammoù sokial hag yec’hed an empenn](/brain-health/social-connection/).

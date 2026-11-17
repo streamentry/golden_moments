@@ -1,28 +1,28 @@
 ---
-title: "Sport ha yec'hed an empenn: pezh a lak ar studioù"
-seoTitle: "Sport ha tromplusted: pezh a lak ar studioù"
-description: "Pezh a lak ar studioù etre obererezh korf ha risk tromplusted, ha stummoù surentez ha plijus evit an dud kozh hag ar re a vev gant tromplusted."
+title: "Sport ha yec'hed ar c'halon: enklask ha diogelroez"
+seoTitle: "Sport ha demantia: petra a lavar an enklask"
+description: "Petra a liamm an enklask etre ar fiñv ha riskl an demantia, hag un doare diogel ha plijus evit an dud kozh hag ar re o vevañ gant demantia da fiñval."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studioù a lak da soñj e vez an dud a zo aktiv korf en o bro un risk tromplusted izeloc'h, ha Komision Lancet 2024 a rollas an diobererezh korf evel unan eus 14 abeg riskadur a c'hallfe bezañ kemmet. N'eo ket bet diskouezet gant an tizhoù e c'hall an obererezh lakaat tromplusted da zont. Koulskoude, an obererezh a skor a-bouez an nerzh, ar stad da gerzhout, ar boan ha ar kousked, neuze kerzhout, lakaat un dra gant an dud, pe dañsal a zo talvoudus evit an dra e-unan. Goulenn kuzul ouzh ho voedeger a-raok kregiñ gant un dra nevez.
+  Ar studiadennoù a liamm ar fiñv reoliek gant ur riskl izeloc'h a demantia, hag ar C'homision Lancet 2024 a laka ar fiñv diglok evel unan eus ar 14 faktor riskl a c'haller cheñch. An enklaskoù klinik n'o deus ket prouet e vez harzet an demantia gant ar sport. Ar fiñv a sikour c'hoazh ar c'hreñvded, ar gevrenn, an emzalc'h hag ar c'hoazh, neuze eo mat kerzhout, fiñval war ur gador ha dañsal evit o feson o-unan. Goulennit digant ur medisin a-raok kregiñ gant un dra nevez.
 keyPoints:
-  - "An dud a zo aktiv korf a zo, war-dro, gant ur risk tromplusted izeloc'h, met an dra-se a zo dreist-holl gant studioù heñvel ouzh enklask, n'eo ket gant tizhoù."
-  - "Ur tizh pemp bloaz gant an obererezh evit an dud kozh n'en deus ket diskouezet un disheñvelder sklaer etre ar strolladoù war ar gallout soñjal."
-  - "Kuzulioù CDC evit an dud 65 vloaz ha muioc'h a sell ouzh an obererezh aerobek, an nerzhadur ar c'higi hag ar balanter, ha lâr e vez talvoudus ober un dra vihan vefe ar gwellañ en dro ebet."
-  - "Evit an dud a vev gant tromplusted, ar fred berr, aes ha boazh a-stroll, evel mont en-dro bep devezh pe ar c'hêmoù azezet, a bouez muioc'h eget ur pal bennak."
-  - "Ouzhpenn unan eus pevar den kozh a gouezh bep bloaz, setu pourvezioù ar balanter ha ul lec'h surentez da gentañ."
+  - "Ar re a fiñv regulek a vez ganto ur riskl izeloc'h a demantia en kevreg, met dont a ra dreist-holl eus studiadennoù arsell, n'eo ket eus enklaskoù klinik."
+  - "Un enklask sport pemp bloaz e-barzh an dud kozh n'en deus kavet diforc'h sklaer ebet e-barzh ar gouestoniñ soñjal etre ar strolladoù."
+  - "Kuzulioù ar CDC evit an dud a 65 bloaz ha muioc'h a c'holo fiñvoù aerobik, kreñvaat ar c'higennoù ha gevrenn, hag a lavar ez eo gwelloc'h un tamm fiñv eget hini ebet."
+  - "Evit ar re a vev gant demantia, ur fiñv berr, anavezet, rannet evel ur gerzhadeg bemdez pe c'hoarioù war ur gador a zo pouezusoc'h eget ne vern peseurt pal."
+  - "Muioc'h eget unan war pevar a dud kozh a gouezh bep bloaz, neuze eo da gentañ an labour war ar gevrenn hag un tachenn diogel."
 faq:
-  - q: "Ha gallout a ra an obererezh lakaat tromplusted da zont?"
-    a: "Den ne c'hall gouzout se. Meur a studi a gevrenn an dud aktiv gant ur risk tromplusted izeloc'h, met tizhoù klinikel n'o deus ket diskouezet e lak an obererezh tromplusted da zont. An obererezh a zo talvoudus en un doare all, setu perak e vez c'hoazh graet anezhi."
-  - q: "Ha surentez eo evit un den a vev gant tromplusted kaout an obererezh?"
-    a: "Peurliesañ, gant ur bennak a gemm. Ar Foundation Nasionel evit ar Heneiziegezh (NIA) a lâr kuzul ouzh voedeger an den a-raok kregiñ gant ur sistem nevez, dibab skodennoù a jom sioul, ofern dour, ha derc'hel ar sesionioù berr. Chomit pa welit an den skuizh, dizalc'h pe mezus."
-  - q: "Pe ober a c'hallit gant an obererezhioù azezet?"
-    a: "E-touez an dibaboù azezet emañ stlejoù ar c'hadeir pe yoga ar c'hadeir, taolañ ur balon pe ur bolodenn vew, taol ar sac'h-fav, sevel boëtoù supenn, stlejañ ar gordennoù stanket hag ar pedalioù-obererezh. Setu dibaboù mat pa vez diaes mont en-dro."
-  - q: "Petra ober ma ne fell ket d'an den mont en-dro?"
-    a: "Na bouezit ket warnañ. Klaskit adarre diwezhatoc'h, lakit ac'hanoc'h ho-unan da gaout perzh, ouzhpennit mizoù a zo anavezet, pe degasit an obererezh e-barzh ur c'hefridi evel skubañ pe dourañ al louzaouennoù. Ur vutadenn berr betek al lizherenn a vez kontet, ha setu ivez azezañ asambles en-dro."
+  - q: "Hag ar sport a c'hall harzet an demantia?"
+    a: "Den ne c'hall prometiñ se. Kalz studiadennoù a liamm ar fiñv gant ur riskl izeloc'h a demantia, met an enklaskoù klinik n'o deus ket diskouezet e vez harzet an demantia gant ar sport. Ar sport a zo kalz gounidoù all prouet gantañ, neuze eo mat ober anezhañ c'hoazh."
+  - q: "Ha diogel eo evit unan bennak o vevañ gant demantia ober sport?"
+    a: "Peurliesañ, gant ur bern prientadur. An National Institute on Aging a erbed goulenn digant medisin an den a-raok kregiñ gant ur bern nevez, dibab botoù komod, profañ dour, ha derc'hel berr ar c'helc'hiadoù. Paouezit ma seblant an den skuizh, digevrenn pe trist."
+  - q: "Petra a sportoù a c'haller ober azezet?"
+    a: "Dibaboù azezet a zo enne astenn war ur gador pe yoga war ur gador, bannan ur baloñs pe ur vell boud, bannan sac'hoù fav, sevel boestoù soubenn, bandennoù astenn ha mekanikoù pedal. Mat eo an dibaboù-se pa vez diaes kerzhout."
+  - q: "Ha ma ne fell ket d'an den fiñval?"
+    a: "Na pouezit ket. Klaskit adarre diwezhatoc'h, kemerit perzh ivez, ouzhpennit sonerezh anavezet, pe lakaat ar fiñv evel ur c'hefridi evel baleiñ pe dourañ plant. Ur gerzhadeg berr betek ar boest lizheroù a zo mat, hag azezañ er-maez asambles ivez."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -47,82 +47,80 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Un eus an doareoù bevañ a zo studiet un tamm ebenn e studioù yec'hed an empenn emañ an obererezh. Studioù a lak anezhi gant un risk tromplusted izeloc'h, met n'int ket bet diskouezet e lak an obererezh tromplusted da zont. Un dra zo sur: an obererezh a skor a-bouez an nerzh, ar stad da gerzhout, ar boan hag ar gousked, a-bep oad. Er bajenn-mañ e weler petra lak ar studioù, pegement obererezh a vez kinniget d'an dud kozh, ha penaos mont en-dro gant un den a vev gant tromplusted e doare a blij dezhañ.
+Ar fiñv a zo unan eus ar boazioù ar muiañ studiet e-barzh an enklask war yec'hed ar c'halon. Ar studiadennoù a liamm anezhañ gant ur riskl izeloc'h a demantia, met n'o deus ket prouet e vez harzet an demantia gant ar sport. Splann eo e sikour ar fiñv ar c'hreñvded, ar gevrenn, an emzalc'h hag ar c'hoazh d'an oad a bep seurt. Ar bajenn-mañ a gomz eus petra a lavar an enklask, pegement a fiñv a erbeder d'an dud kozh, ha penaos fiñval entan gant unan bennak o vevañ gant demantia.
 
-## Ha skoaz an obererezh war an risk tromplusted?
+## Hag ar fiñv a izelaat riskl an demantia?
 
-Ar studioù a ziskouez e vez an dud aktiv korf nebeutoc'h a-ziwezh gant tromplusted, met an tizhoù a zo bevennet. Komision Lancet 2024 war dromplusted ([Komisiapl Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)) a rollas an diobererezh korf evel unan eus 14 abeg riskadur a c'hallfe bezañ kemmet. Asambles e vez kontet an 14 abeg-se evit tost da 45% eus tromplusted an bed a-hed e modelañ.
+An enklask a veneg e vez nebeutoc'h a riskl gant an dud a fiñv regulek da gaout demantia, met bevennoù a zo d'an diskouez. Ar [C'homision Lancet 2024 war an demantia](https://doi.org/10.1016/S0140-6736(24)01296-0) a laka ar fiñv diglok evel unan eus ar 14 faktor riskl a c'haller cheñch. A-gevret, ar 14 faktor-se a c'holo war-dro 45% eus an demantia dre ar bed en e mont.
 
-Setu petra a ziskouez an tizhoù:
+- **Ar studiadennoù arsell a tiskouez un tu.** Un adwel eus 58 studiadenn, komzet gant ar C'homision, a gav e vez war-dro 20% izeloc'h riskl a demantia gant an dud a fiñv regulek. Ar c'hemm brasañ a oa etre an dud hag a oa peuzdiglok o fiñv hag ar re a rae un tamm fiñv da nebeutañ.
+- **An liamm a c'hall mont en daou du.** Ar C'homision a veneg e c'hall ar fiñv diglok kreskiñ ar riskl. A-gevret e veneg e c'hall ar c'hemmoù kentan en empenn, a grog bloavezhioù a-raok an analiz, lakaat an dud da fiñval nebeutoc'h.
+- **Nebeutoc'h sklaer eo an enklaskoù klinik.** En un enklask, 945 den kozh gant un oad kevreg 78 a zo bet roet dezho pemp bloaz a sport evezhiet div wech ar sizhun pe da ur strollad keñveriañ. Da zibenn, ar gouestoniñ soñjal n'en doa ket diforc'het sklaer etre ar strolladoù. Kalz tud e-barzh ar strollad keñveriañ a oa ivez o fiñval, pezh a ra diaesoc'h lenn an disoc'h.
 
-- **Studioù arsell a ziskouez un tu.** Ur sell war 58 studi, a zo bet displegoù gant ar Gomision, a gavas e oa an dud aktiv korf tost da 20% izeloc'h a risk tromplusted. An disheñvelder brasañ a oa etre an dud a oa bet tamm ebet a obererezh ha re a oa bet un tamm bennak a-walc'h.
-- **Gallout a ra an liamm mont an daou-du.** Ar Gomision a lâr e c'hall bezañ an diobererezh a gresk ar risk. Lâr a ra ivez e c'hall kemmoù diazez ar tromplusted, a gregi bloavezhioù a-raok ar c'hanfarzh, lakaat an dud da vezañ nebeutoc'h aktiv.
-- **An tizhoù a zo nebeutoc'h sklaer.** Ur wezh, 945 den kozh gant ur mare kalz war-dro 78 vloaz a voe lakaet da bemp bloaz gant ur sesion dre-ziwezh bep eil-devezh pe da ur strollad heñvel. Er fin, ne oa ket bet diskouezet ur disheñvelder sklaer etre ar strolladoù war ar gallout soñjal. Kalz tud er strollad heñvel a oa aktiv tamm ebet, ha setu an disoc'h diaesoc'h da lenn.
+An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) a lavar ent-strizh. N'eus ket bet diskouezet liamm sklaer ebet etre ar fiñv korf ha harzout an Alzheimer, ha n'eus ket a-walc'h a ziskouez en enklaskoù klinik evit lavarout e vez harzet pe goustet gant ar sport an demantia. Ar sport a izelaat c'hoazh riskl ar gouezhadenn, ar glastiz, an diabetez, ar gwask gwad uhel hag ar stroke. Lod eus ar stad-se a zo liammet o-unan gant ar c'heñverañ kognitiv.
 
-Ar [Foundation Nasionel evit ar Heneiziegezh (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) a lâr an dra-se gant ger plaen. Ne vez ket bet diskouezet un darempred sklaer etre an obererezh korf ha lakaat Alzheimer da zont, ha n'eus ket tizhoù a-leizh evit lâret e lak an obererezh anezhi da zont pe da c'hwalc'hiñ. Koulskoude, an obererezh a zizoloc'h ar riskoù kouezhañ, diaezamant, diabetez, pleustr uhel ha strakadenn. Un nebeud eus an dra-se a zo kevreet e-unan gant diskar ar soñj.
+Ar c'hemm onest a zo fiñval abalamour ma sikour ac'hanoc'h da gaout ur seblant ha da vont en-dro gwelloc'h hiziv. Ne vern peseurt gounid evit ar c'halon a zo ur bonus moaien, n'eo ket ur promesenn.
 
-An dra gwirion da gompren eo mont en-dro rak e skoa ac'hanoc'h a-vremañ da santout ha da labourat mat. Pep martoloù a zo lakaet d'an empenn a zo ur bonus posupl, nket un hizivadenn.
+## Pegement a fiñv a zo d'an dud kozh?
 
-## Pegement obererezh a rank an dud kozh?
+Kuzulioù ar [CDC evit an dud a 65 bloaz ha muioc'h](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) a erbed tri seurt fiñv bep sizhun:
 
-[Kuzulioù CDC evit an dud 65 vloaz ha muioc'h](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) a gemenn tri seurt obererezh bep sizhun:
-
-| Seurt | Hed sizhuniel | Skouerioù |
+| Seurt | Pegement bep sizhun | Skouerioù |
 | --- | --- | --- |
-| Aerobek | Da nebeutañ 150 munut obererezh war-zu al lein, evel 30 munut 5 devezh | Kerzhout buan, dañsal, aerobik dour |
-| Nerzhadur ar c'higi | Da nebeutañ 2 devezh, o labourat gant an holl c'higi bras | Sevel pouezioù aezh pe gordennoù stanket, stlejañ ar gordennoù |
-| Balanter | Ur wech pe ur wech | Kerzhout talg-da-dal, sevel eus ur c'hadeir |
+| Aerobik | Da nebeutañ 150 munut a fiñv etre, evel 30 munut war 5 devezh | Kerzhout buan, dañsal, aerobik en dour |
+| Kreñvaat ar c'higennoù | Da nebeutañ 2 devezh, o labourat holl strolladoù kigennoù pennañ | Sevel pouezioù skañv pe boestoù soubenn, bandennoù astenn |
+| Gevrenn | Regulek | Kerzhout war an droad, sevel diwar ur gador |
 
-Ar pal-se a zo ur fin, n'int ket rekis. Lâr a ra CDC e tle an den ober kement ha ma c'hall he c'horf hag he yec'hed ober, ha setu ne vez ket aon ar pezh a c'hallit. Un obererezh bennak a zo gwell eget netra.
+Paloù eo-se, n'eo ket ezhommoù mont e-barzh. Ar CDC a lavar ma ne c'hallit ket o dizhout, bezit ken fiñv ma'z eo gant ho gouestoniñ ha ho yec'hed. Gwelloc'h eo un tamm fiñv eget hini ebet.
 
-## Doareoù dizanv da vont en-dro evit an dud kozh
+## Doareoù habask da fiñval evit an dud kozh
 
-- **Kerzhout gant ur c'hevelerien.** Ur vutadenn bep devezh gant ur mignon, ur vaouezh-kêr pe ur strollad kerzhout a ouzhpenn kaozeadenn ha surentez.
-- **Obererezh azezet.** Sevel ar breac'h azezet, lakaat ar c'hilhoù da droiañ, mont war-goste en-dro ha yoga ar c'hadeir a labour an nerzh hep riskañ ar balanter.
-- **Dañsal er gegin.** Lakit sonerezh eus badoù yaouankiz an den ha dañsit, tapit pe pazit. Hor [sturlevr obererezhioù sonerezh](/activities/music/) a zo ideoù ennañ.
-- **Nerzh gant traoù an ti.** Sevel botelioù dour leun pe boëtoù supenn tra ma wellit ur fizh bennak a blij dezhañ.
-- **Liorzhiñ pe ober labourioù ti.** Dourañ al louzaouennoù, reteliñ, skubañ hag ober pleg ar gwiskamantoù a vez kontet. Gwelit [obererezhioù er-maez ha liorzhiñ](/activities/outdoor-and-gardening/) hag [labourioù an ti](/activities/household-tasks/).
-- **Obererezh en dour.** Lâr an NIA e vez kinniget klasoù aerobik dour evel unan eus an dibaboù evit an dud a gav diaes ober obererezh war an douar gant o gwiskoù.
+- **Kerzhout gant tud.** Ur gerzhadeg bemdez gant ur mignon, un amezeg pe ur strollad kerzhout a ouzhpenno komz ha diogelroez.
+- **Sport war ur gador.** Sevel ar brezoù, troioù ar c'hef, marc'hat en e blas ha yoga war ur gador a greñvao ar c'hreñvded hep riskl gevrenn.
+- **Dañsal er gegin.** Lakaat sonerezh eus o yaouankiz hag oad-gour ha fiñval, tapout pe kerzhout. Hor [goulenner obererezhioù sonerezh](/activities/music/) a zo mennozhioù ennañ.
+- **Kreñvded gant traoù ar gegin.** Sevel boutailhoù dour leun pe boestoù soubenn pa seller ouzh ur c'hoari pe ur film karetañ.
+- **Liorzhañ pe ober kefridiou.** Dourañ plant, rastellañ, baleiñ ha plegañ dilhad a zo mat. Gwelet [obererezhioù er-maez hag er liorzh](/activities/outdoor-and-gardening/) ha [kefridiou an ti](/activities/household-tasks/).
+- **Sport en dour.** Ar NIA a laka klasoù aerobik en dour evel un dibab evit an dud a gav diaes ar sport war an douar war o arzou.
 
-## Penaos ober obererezh gant un den a vev gant tromplusted
+## Penaos ober sport gant unan bennak o vevañ gant demantia
 
-Evit un den a vev gant tromplusted, an dra da vont da gaout a zo an aeziegezh, al lipadenn ha miraout an abilitoù bemnozh, ha n'eo ket kaout un niver. Lâr an NIA e sikour an obererezh korf da zerc'hel an muskled, ar c'hraon ha kalon un den gant Alzheimer en un tu mat, hag e c'hall gwellaat ivez ar spered ha ar gousked. Kuzulit gant voedeger an den a-raok kregiñ gant ur sistem nevez. Setu un nebeud kuzulioù eus [gidenn ar bugale-gedal an NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf):
+Evit unan bennak o vevañ gant demantia, ar pal a zo ar c'homod, ar blijadur ha derc'hel gouestoniñ bemdez, n'eo ket dizhout un niver. Ar NIA a lavar e sikour ar fiñv korf da derc'hel kigennoù, arzou ha kalon un den gant Alzheimer en ur stad mat, hag e c'hall gwellaat an emzalc'h hag ar c'hoazh. Goulennit digant o medisin a-raok kregiñ gant ur bern nevez. Kuzulioù eus [goulenner ar NIA evit an dudi](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) a zo enne:
 
-1. **Kerzhout asambles bep devezh.** Dibabit un hent surentez, dinerzh ha dianav. Ma kerzh an den e-unan, ur vrasell ID gant ho niverenn pellgomz a zo ur c'hengel vat.
-2. **Klaskit videoioù obererezh evit an dud kozh.** Heuliit asambles, azezet pe sav.
-3. **Derc'hit ar sesionioù berr.** Meur a "obererezh bihan" a c'hall bezañ gwelloc'h eget unan hir.
-4. **Ouzhpennit sonerezh.** Ar c'hanaouennoù anavezet a lak ar mouvamant da vezañ ur c'hoari, ha n'eo ket ur labour. Dañsit ma c'hoant ganti.
-5. **Ofernit dour ha boëtoù a joa.** Ofernit dour pe sukr-dour a-raok ha goude, ha dibabit dilhad a joa ha boëtoù a glot mat ha grêt evit an obererezh.
+1. **Kerzhout asambles bemdez.** Dibabit un hent diogel, anavezet, sklaer diouzh ar stlej. Ma kerzh an den e-unan, ur bracelet ID gant ho niver pellgomz a zo ur bern mat.
+2. **Klaskit videoioù sport evit an dud kozh.** Heuilhit asambles, azezet pe sevel.
+3. **Derc'hel berr ar c'helc'hiadoù.** Meur a 'mini-workout' berr a c'hall mont gwelloc'h eget unan hir.
+4. **Ouzhpennit sonerezh.** Ar c'hanioù anavezet a laka ar fiñv da seblantout evel un obererezh, n'eo ket evel ur c'hefridi. Dañsit ma plij d'an den.
+5. **Profan dour ha botoù komod.** Profan dour pe suc'h e-pad ha goude, hag dibabit dilhad komod ha botoù mat, graet evit ar sport.
 
-Ma'z eo diaes kerzhout, [gidenn an NIA evit kemer soin eus un den a vev gant Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) a gemenn dibaboù azezet. Ar re-se a gaver e-touez yoga pe obererezh ar c'hadeir, taol ar sac'h-fav, taolañ ur bolodenn vew pe ur balon, stlejoù, sevel traoù yalc'h an ti, ha pedalioù-obererezh. Labourioù simpl evel skubañ ha lakaat e-maez ar poultr a vez kontet ivez.
+Ma vez diaes kerzhout, [goulenner ar NIA evit an dudi gant un den gant Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) a erbed dibaboù azezet. Enne ez eus sport war ur gador pe yoga, bannan sac'hoù fav, bannan ur vell boud pe ur baloñs, bandennoù astenn, sevel traoù skañv an ti, ha mekanikoù pedal. Kefridiou simpl evel baleiñ ha dustañ a zo mat ivez.
 
-Bezit realist diwar-benn ar pezh a c'hall ar mouvamant ober. Ar Gomision Lancet n'en deus kavet tamm testenn ebet e lak an obererezh da ziminuiñ kemmoù kefridi evel ar bec'hiegezh. Kerzhit asambles rak e c'hall plijout deoc'h, ha n'eo ket evit reizhañ un eeun diaes. Ma lâr an den ket, n'eo ket un dra fall. Hor [sturlevr da c'hoazh pa lâr an den ne fell ket](/caregiving/when-they-say-no/) a zo dibaboù mat evit klask adarre diwezhatoc'h. Echuiñ a-vaoc'h, pe azezañ asambles er-maez, a zo ivez un disoc'h mat.
+Bezit realist war petra a c'hall ar fiñv ober. Ar C'homision Lancet n'en deus kavet prouenn ebet e vez goustet ar c'hemmoù emzalc'h evel an droug-nerzh gant ar sport. Fiñvit asambles abalamour ma c'hall seblantout mat, n'eo ket evit kempenn un goudevezh diaes. Ma lavar an den na, mat eo. Hor goulenner war [pa lavaront na](/caregiving/when-they-say-no/) a zo doareoù habask da glask adarre diwezhatoc'h. Paouez a-raok, pe azezañ er-maez asambles, a zo un disoc'h mat ivez.
 
-Goude ar mouvamant, ur bausadenn sioul evel [Anaoudegezh an alan](/games/calm-breathing/) a c'hall helpiñ ac'hanoc'h an daou da zerc'hel. Evit un obererezh azezet gant taolioù breac'h deuet, [Sort Together](/games/sort-together/) ha [Picture Bingo](/games/picture-bingo/) a labour mat war ur forc'h.
+Goude fiñval, ur paouez sioul evel [Analen Habask](/games/calm-breathing/) a c'hall sikour ac'hanoc'h daou da en em staliañ. Evit un obererezh azezet gant fiñv habask ar brezoù, [Urzhiañ asambles](/games/sort-together/) ha [Bingo skeudenn](/games/picture-bingo/) a ya mat war ur gador.
 
-## Balanter ha diogelwch rhag cwympo
+## Gevrenn ha diogelroez ouzh ar gouezhadenn
 
-Ar c'houezhadoù a zo boas ha difrezh. Lâr [an danevellioù CDC](https://www.cdc.gov/falls/data-research/facts-stats/index.html) e vez un eus pevar den kozh pe muioc'h o kouezhañ bep bloaz, met nemeur a zen tost da hanter a lavar d'o voedeger. Ur gouezhadenn a c'hwilh ar riskoù da gouezhañ adarre. Ar pezhioù riskadur a rollas CDC a gemer:
+Ar gouezhadenn a zo boutin ha grevus. Ar [CDC a embann](https://www.cdc.gov/falls/data-research/facts-stats/index.html) e gouezh muioc'h eget unan war pevar a dud kozh bep bloaz, met nebeutoc'h eget hanter a gomz ouzh o medisin. Gouezhout ur wech a doubl ar chañs da gouezhout adarre. Faktorioù riskl a laka ar CDC enne:
 
-- Gwanaat ar gorreoù ha ar c'hlinved
-- Diaezamantoù kerzhout ha balanter
-- Medisinoù zo, en o zouez sedatifoù ha re zo gwrizioù antidepresanterioù
-- Diaezamantoù gwelet
-- Poan ar bizied pe skoedoù fall
-- Riskoù en ti evel traoù dre-dreuz, stlejoù bras ha greizennoù torret
+- Gwanter e-barzh ar c'haroù hag ar miksioù
+- Diaezamantoù gant kerzhout ha gevrenn
+- Lod medisin, en o zouez ar sedativ hag lod antidepressant
+- Kudennoù gweled
+- Poan er zaoù pe botoù fall
+- Riskloù en ti evel an enkadenn, ar tapiou bannet hag ar marchou torret
 
-Evit mont en-dro gant surentez gwelloc'h:
+Evit fiñval entan diogeloc'h:
 
-- **Implijit ur c'hadeir kreñv** hep rod, ha lakit ur c'hountoer pe ur rail a-dostoc'h evit an obererezhioù sevel.
-- **Dizebret al lec'h** diwar stlejoù, kordennoù ha traoù dre-dreuz da gentañ.
-- **Kerzhit gant poell pa sav** an den, ha sachit ma santont ur gwallvarv pe ur c'hinaouegezh.
-- **Gwiskit boëtoù a sikour**, ha n'eo ket hosanoù pe pazhoù diblij.
-- **Kleiñ ar balanter tost d'un ondro.** Sevel eus ur c'hadeir ha kerzhout talg-da-dal a zo skouerioù CDC evit obererezhioù balanter.
+- **Implijit ur gador kreñv** hep rod, ha derc'hel ur c'heñver pe ur rail e-barzh dorn evit ar sportoù sevel.
+- **Naetaat an tachenn** diouzh tapiou, cordoù ha enkadenn da gentañ.
+- **Kit gorrek pa sevel**, ha paouezit ma seblant an den troet pe digevrenn.
+- **Gwiskit botoù skorañ**, n'eo ket loeroù pe botoù diglok.
+- **En em gourdonit war ar gevrenn e-kichen un harp.** Sevel diwar ur gador ha kerzhout war an droad a zo skouerioù ar CDC eus obererezhioù gevrenn.
 
-Lâr CDC e rank un den kozh a gouezh hag a skei he fenn mont da welet ur voedeger kerkent, dreist-holl ma kemer taolioù gwad.
+Ar CDC a erbed e vez gwelet ur medisin raktal gant un den kozh a gouezh ha a sko e benn, dreist-holl ma kemer arzou gwad.
 
-## Kaozeal gant ur voedeger
+## Komzit gant ur medisin
 
-Kuzulit gant ur voedeger a-raok kregiñ gant ur sistem obererezh nevez, dreist-holl evit an hini en deus kudennoù kalon pe bev, poanioù kenoù, kudennoù balanter pe tromplusted. Ur voedeger pe ur physiotherapour a c'hall lakaat ac'hanoc'h d'an obererezhioù surentez hag en em welet ma kemer ar medisinoù ar balanter. Lavarit d'ar voedeger diwar-benn ar c'houezh, hyd ar re ebet a wall. Ma ra un dra boan pe ma santont ur fazi e-pad an obererezh, sachit. Evit poan bruderezh kentoc'h, diaezamant vrasañ anaoudegezh, pe kemm spered prim, galvit 112.
+Goulennit digant ur medisin a-raok kregiñ gant ur bern sport nevez, dreist-holl evit unan bennak gant kudennoù kalon pe skevent, poan er arzou, kudennoù gevrenn, pe demantia. Ur medisin pe ur fizioterapeut a c'hall erbed obererezhioù diogel ha gwiriañ ma tizh ar medisin ar gevrenn. Lavarit d'ar medisin kement gouezhadenn, memes hini hep gloaz. Ma vez poan pe ma seblant direizh un dra bennak e-pad ar sport, paouezit. Evit poan bruched o tont raktal, diaes analañ, pe c'hoazh an dizemglev raktal, pellit 911.
 
-Ar bajenn-mañ a zo titouroù hollek, n'eo ket kuzul medisinel. Gwelit [Dienvez ar medisinerezh](/medical-disclaimer/) hon. Evit ar sell a-bell, lennit [petra lâr an tizhoù diwar-benn riskoù tromplusted](/brain-health/risk-factors/) ha [hag e c'haller lakaat tromplusted da vezañ kuzet](/brain-health/can-dementia-be-prevented/).
+Titouroù hollek eo ar bajenn-mañ, n'eo ket kuzul medisin. Gwelet hor [dislavar medisin](/medical-disclaimer/). Evit ar skeudenn vrasoc'h, lennit [petra a lavar an enklask war faktorioù riskl an demantia](/brain-health/risk-factors/) ha [hag an demantia a c'hall bezañ harzet](/brain-health/can-dementia-be-prevented/).
