@@ -1,31 +1,33 @@
 ---
-title: "Dấu hiệu sớm của sa sút trí tuệ và khi nào nên đi khám"
-seoTitle: "Dấu hiệu sớm của sa sút trí tuệ và khi nào nên đi khám"
-description: "Những dấu hiệu sớm thường gặp của sa sút trí tuệ, khác gì tuổi già bình thường, các nguyên nhân có thể điều trị gây hay quên và cách chuẩn bị cho buổi khám bác sĩ."
+title: "Dấu Hiệu Sớm Của Sa Sút Trí Tuệ Và Khi Nên Đi Khám"
+seoTitle: "Dấu Hiệu Sớm Của Sa Sút Trí Tuệ Và Khi Nên Đi Khám"
+description: "Các dấu hiệu sớm thường gặp của sa sút trí tuệ, cách phân biệt với lão hóa bình thường, nguyên nhân có thể chữa được gây mất trí nhớ và cách chuẩn bị đi khám."
 section: brain-health
 order: 10
 updated: 2026-10-25
+translatedFrom: 2026-10-25
 summary: >-
-  Mất trí nhớ ảnh hưởng đến sinh hoạt hằng ngày, khó làm những việc quen thuộc, lú lẫn về thời gian
-  hoặc nơi chốn, và thay đổi về tâm trạng hay khả năng phán đoán có thể là dấu hiệu sớm của sa sút trí
-  tuệ. Nhiều tình trạng khác, gồm vấn đề tuyến giáp, thiếu vitamin B12, tác dụng phụ của thuốc, trầm
-  cảm và rối loạn giấc ngủ, cũng có thể gây ra những thay đổi tương tự. Chỉ nhân viên y tế có chuyên môn
-  mới chẩn đoán được. Lú lẫn xảy ra đột ngột cần được chăm sóc y tế khẩn cấp.
+  Mất trí nhớ ảnh hưởng đến cuộc sống hằng ngày, khó khăn với những việc quen thuộc,
+  bối rối về thời gian hoặc nơi chốn, và thay đổi về tâm trạng hoặc phán đoán có thể
+  là dấu hiệu sớm của sa sút trí tuệ. Nhiều tình trạng khác, như rối loạn tuyến giáp,
+  thiếu vitamin B12, tác dụng phụ của thuốc, trầm cảm và rối loạn giấc ngủ, có thể
+  gây ra những thay đổi tương tự. Chỉ bác sĩ có chuyên môn mới có thể chẩn đoán.
+  Lú lẫn đột ngột cần được chăm sóc y tế khẩn cấp.
 keyPoints:
-  - "Thỉnh thoảng hay quên là chuyện thường gặp khi lớn tuổi; những thay đổi làm ảnh hưởng đến sinh hoạt hằng ngày thì nên được kiểm tra."
-  - "Alzheimer's Association mô tả 10 dấu hiệu cảnh báo, mỗi dấu hiệu kèm một thay đổi thường gặp theo tuổi để so sánh."
-  - "Vấn đề tuyến giáp, thiếu vitamin B12, tác dụng phụ của thuốc, trầm cảm, nhiễm trùng và rối loạn giấc ngủ đều có thể ảnh hưởng đến trí nhớ, và một số có thể điều trị được."
-  - "Chỉ nhân viên y tế có chuyên môn mới chẩn đoán được sa sút trí tuệ; các bài trắc nghiệm hay tự kiểm tra trên mạng thì không."
-  - "Lú lẫn xuất hiện đột ngột, trong vài giờ hoặc vài ngày, có thể là mê sảng (delirium) và cần được chăm sóc y tế khẩn cấp."
+  - "Thỉnh thoảng quên là chuyện thường gặp khi lớn tuổi; những thay đổi ảnh hưởng đến cuộc sống hằng ngày thì đáng được kiểm tra."
+  - "Alzheimer's Association mô tả 10 dấu hiệu cảnh báo, mỗi dấu hiệu đi kèm một thay đổi thường gặp theo tuổi để so sánh."
+  - "Rối loạn tuyến giáp, thiếu vitamin B12, tác dụng phụ của thuốc, trầm cảm, nhiễm trùng và rối loạn giấc ngủ đều có thể ảnh hưởng đến trí nhớ, và một số có thể điều trị được."
+  - "Chỉ bác sĩ có chuyên môn mới có thể chẩn đoán sa sút trí tuệ; các bài trắc nghiệm và tự kiểm tra trực tuyến thì không."
+  - "Lú lẫn xuất hiện đột ngột, trong vài giờ hoặc vài ngày, có thể là mê sảng và cần được chăm sóc y tế khẩn cấp."
 faq:
-  - q: "Hay quên có phải là một phần bình thường của tuổi già không?"
-    a: "Một phần thì có. Viện Quốc gia về Lão hóa Hoa Kỳ (NIA) cho biết thỉnh thoảng để quên đồ hoặc quên một hóa đơn thường chỉ là chứng hay quên nhẹ do tuổi tác. Sa sút trí tuệ không phải là một phần bình thường của tuổi già. Những vấn đề về trí nhớ khiến việc hằng ngày như lái xe, dùng điện thoại hay tìm đường về nhà trở nên khó khăn thì nên đi khám để bác sĩ kiểm tra."
+  - q: "Quên chuyện có phải là một phần bình thường của việc già đi không?"
+    a: "Một phần là. National Institute on Aging cho rằng thỉnh thoảng để quên đồ hoặc quên một hóa đơn thường là quên nhẹ, liên quan đến tuổi tác. Sa sút trí tuệ không phải là một phần bình thường của việc già đi. Những vấn đề trí nhớ khiến các việc hằng ngày như lái xe, dùng điện thoại hoặc tìm đường về nhà trở nên khó khăn thì đáng đi khám bác sĩ."
   - q: "Vấn đề trí nhớ có thể do nguyên nhân khác ngoài sa sút trí tuệ không?"
-    a: "Có. NIA liệt kê các vấn đề về tuyến giáp, thận hoặc gan, tác dụng phụ của thuốc, trầm cảm và lo âu, thiếu vitamin B12, lạm dụng rượu, rối loạn giấc ngủ, nhiễm trùng và chấn thương đầu, cùng nhiều nguyên nhân khác. Một số tình trạng này cải thiện khi được điều trị, đó là một lý do vì sao việc khám sức khỏe quan trọng."
-  - q: "Tôi có thể tự kiểm tra sa sút trí tuệ cho ai đó ở nhà không?"
-    a: "Không. Chỉ nhân viên y tế có chuyên môn mới chẩn đoán được sa sút trí tuệ, dựa trên tiền sử bệnh, khám thực thể, các bài kiểm tra trí nhớ và tư duy, xét nghiệm, và đôi khi là chụp não. Ngay cả những bài kiểm tra ngắn mà bác sĩ dùng cũng chưa đủ để tự nó chẩn đoán sa sút trí tuệ."
-  - q: "Tôi nên làm gì nếu ai đó đột nhiên trở nên lú lẫn?"
-    a: "Hãy tìm trợ giúp y tế ngay. Lú lẫn đột ngột có thể là mê sảng (delirium), mà Bộ Cựu chiến binh Hoa Kỳ (VA) mô tả là một tình trạng cấp cứu y tế. Hãy gọi ngay cho bác sĩ hoặc cơ sở y tế của người đó, hoặc gọi số khẩn cấp địa phương (115 để gọi xe cấp cứu ở Việt Nam, 911 ở Mỹ), ở lại bên cạnh họ và ghi lại các loại thuốc họ đang dùng."
+    a: "Có. National Institute on Aging liệt kê các vấn đề về tuyến giáp, thận hoặc gan, tác dụng phụ của thuốc, trầm cảm và lo âu, thiếu vitamin B12, lạm dụng rượu, rối loạn giấc ngủ, nhiễm trùng và chấn thương đầu, cùng nhiều nguyên nhân khác. Một số trong đó sẽ cải thiện sau khi được điều trị, và đó là một lý do khiến việc khám y tế quan trọng."
+  - q: "Có thể tự kiểm tra sa sút trí tuệ tại nhà cho người thân không?"
+    a: "Không. Chỉ bác sĩ có chuyên môn mới có thể chẩn đoán sa sút trí tuệ, dựa trên tiền sử bệnh, khám cơ thể, các bài kiểm tra trí nhớ và tư duy, xét nghiệm và đôi khi là chụp não. Ngay cả những bài kiểm tra ngắn gọn mà bác sĩ sử dụng cũng không đủ để chẩn đoán sa sút trí tuệ khi đứng riêng lẻ."
+  - q: "Tôi nên làm gì nếu người thân đột ngột trở nên lú lẫn?"
+    a: "Hãy tìm trợ giúp y tế ngay. Lú lẫn đột ngột có thể là mê sảng, mà VA mô tả là một tình huống y tế khẩn cấp. Hãy gọi ngay cho bác sĩ chăm sóc sức khỏe của người đó hoặc gọi 911, ở bên cạnh họ và ghi lại các loại thuốc họ đang dùng."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -51,97 +53,96 @@ sources:
 relatedGames: []
 related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, caregiving/communication-tips, caregiving/caregiver-self-care, activities/early-stage]
 health: true
-translatedFrom: 2026-10-25
 ---
 
-Nhận ra những thay đổi trong trí nhớ của chính mình, hoặc của một người thân yêu, có thể khiến bạn lo sợ. Trang này giúp bạn quyết định khi nào nên đặt lịch khám và chuẩn bị cho buổi khám như thế nào. Trang này không thể cho bạn biết ai đó có bị sa sút trí tuệ hay không. **Chỉ nhân viên y tế có chuyên môn mới chẩn đoán được sa sút trí tuệ**, và nhiều tình trạng gây ra vấn đề về trí nhớ hoàn toàn không phải là sa sút trí tuệ. Xin đừng dựa vào các bài trắc nghiệm hay tự kiểm tra trên mạng.
+Nhận thấy trí nhớ của mình hoặc của người thân có thay đổi có thể khiến bạn lo lắng. Trang này có thể giúp bạn quyết định khi nào nên đặt lịch khám bác sĩ và cách chuẩn bị cho cuộc hẹn đó. Trang này không thể cho bạn biết ai đó có mắc sa sút trí tuệ hay không. **Chỉ bác sĩ có chuyên môn mới có thể chẩn đoán sa sút trí tuệ**, và nhiều tình trạng gây ra vấn đề trí nhớ hoàn toàn không phải là sa sút trí tuệ. Xin đừng dựa vào các bài trắc nghiệm hay tự kiểm tra trực tuyến.
 
 ## Những dấu hiệu sớm của sa sút trí tuệ là gì?
 
-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) mô tả 10 dấu hiệu sớm. Tổ chức này ghép mỗi dấu hiệu với một thay đổi thường gặp theo tuổi để so sánh. Diễn đạt theo cách của chúng tôi:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) mô tả 10 dấu hiệu sớm. Mỗi dấu hiệu được đi kèm với một thay đổi thường gặp theo tuổi để so sánh. Theo lời của chúng tôi:
 
-| Dấu hiệu cần kiểm tra | Thường gặp hơn khi lớn tuổi |
+| Dấu hiệu đáng kiểm tra | Thường gặp hơn theo tuổi |
 | --- | --- |
-| Mất trí nhớ ảnh hưởng đến sinh hoạt hằng ngày, như quên những sự việc gần đây hoặc hỏi đi hỏi lại cùng một điều | Đôi khi quên một cái tên hay một cuộc hẹn rồi nhớ ra sau đó |
-| Khó lên kế hoạch hoặc giải quyết vấn đề, như làm theo một công thức nấu ăn quen thuộc hoặc theo dõi các hóa đơn | Thỉnh thoảng nhầm lẫn khi tính các hóa đơn trong nhà |
-| Khó hoàn thành những việc quen thuộc ở nhà, ở nơi làm việc hoặc khi ra ngoài | Thỉnh thoảng cần giúp đỡ để chỉnh lò vi sóng hoặc ghi lại một chương trình truyền hình |
-| Không còn biết ngày tháng, mùa hay mình đang ở đâu | Nhầm thứ trong tuần, rồi tự tính ra |
-| Mới xuất hiện khó khăn trong việc ước lượng khoảng cách, đọc hoặc phân biệt màu sắc | Thay đổi thị lực do đục thủy tinh thể |
-| Mới có vấn đề với từ ngữ, như đang nói thì dừng lại giữa chừng hoặc gọi sai tên đồ vật | Đôi khi khó tìm đúng từ |
-| Để đồ vào những chỗ bất thường và không thể lần lại các bước đã làm | Thỉnh thoảng để lạc đồ và tìm thấy bằng cách nhớ lại các bước |
-| Phán đoán kém, chẳng hạn trong chuyện tiền bạc hoặc chăm sóc vệ sinh cá nhân | Thỉnh thoảng đưa ra một quyết định chưa hay |
-| Rút lui khỏi sở thích, công việc hoặc các hoạt động xã hội | Đôi khi không muốn đi dự một buổi họp mặt gia đình hay xã hội |
-| Thay đổi về tâm trạng hoặc tính cách, như trở nên bối rối, đa nghi, sợ hãi hoặc lo âu | Có những thói quen riêng và cảm thấy khó chịu khi nếp quen bị xáo trộn |
+| Mất trí nhớ ảnh hưởng đến cuộc sống hằng ngày, chẳng hạn như quên chuyện vừa xảy ra hoặc hỏi đi hỏi lại cùng một điều | Thỉnh thoảng quên tên hoặc lịch hẹn rồi nhớ ra sau đó |
+| Khó khăn trong việc lên kế hoạch hoặc giải quyết vấn đề, chẳng hạn như làm theo công thức nấu ăn quen thuộc hoặc theo dõi hóa đơn | Thỉnh thoảng nhầm lẫn trong các hóa đơn trong nhà |
+| Khó hoàn thành những công việc quen thuộc ở nhà, ở nơi làm việc hoặc khi ra ngoài | Đôi lúc cần giúp đỡ để cài đặt lò vi sóng hoặc ghi lại chương trình truyền hình |
+| Không còn rõ ngày tháng, mùa hoặc mình đang ở đâu | Nhầm thứ trong tuần, rồi tự tính ra |
+| Mới bắt đầu khó đánh giá khoảng cách, đọc chữ hoặc phân biệt màu sắc | Thị lực thay đổi do đục thủy tinh thể |
+| Mới bắt đầu gặp khó khăn với từ ngữ, chẳng hạn như ngưng giữa câu chuyện hoặc gọi tên đồ vật sai | Đôi khi khó tìm đúng từ để nói |
+| Đặt đồ vào những chỗ bất thường và không thể lần lại các bước đã đi | Thỉnh thoảng để quên đồ và tìm thấy lại bằng cách lần theo các bước đã đi |
+| Phán đoán kém, chẳng hạn trong việc dùng tiền hoặc chăm chút bản thân | Thỉnh thoảng đưa ra quyết định không hay |
+| Dần rút lui khỏi sở thích, công việc hoặc các hoạt động xã hội | Đôi lúc không muốn đi dự sự kiện gia đình hoặc xã hội |
+| Thay đổi về tâm trạng hoặc tính cách, chẳng hạn như trở nên bối rối, nghi ngờ, sợ hãi hoặc lo âu | Có thói quen cố định và dễ cáu khi thói quen bị thay đổi |
 
-Chỉ một dấu hiệu riêng lẻ không có nghĩa là sa sút trí tuệ. Điều quan trọng là một **thay đổi so với điều bình thường ở chính người đó**, nhất là thay đổi khiến cuộc sống hằng ngày khó khăn hơn.
+Chỉ một dấu hiệu thì chưa có nghĩa là sa sút trí tuệ. Điểm quan trọng là **sự thay đổi so với mức bình thường của chính người đó**, đặc biệt là thay đổi khiến cuộc sống hằng ngày khó khăn hơn.
 
 ## Lão hóa bình thường khác với sa sút trí tuệ thế nào?
 
-[Viện Quốc gia về Lão hóa Hoa Kỳ (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) cho biết nhiều người lớn tuổi nhận thấy mình nhớ lại mọi thứ chậm hơn, hoặc đôi khi để lạc đồ hay quên một hóa đơn. Đó thường là dấu hiệu của chứng hay quên nhẹ. **Sa sút trí tuệ không phải là một phần bình thường của tuổi già.** Các vấn đề nghiêm trọng về trí nhớ khiến những hoạt động hằng ngày trở nên khó khăn, chẳng hạn lái xe, dùng điện thoại hay tìm đường về nhà.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) cho rằng nhiều người lớn tuổi nhận thấy mình nhớ chậm hơn, hoặc đôi khi để quên đồ hay quên trả hóa đơn. Đây thường là dấu hiệu của quên nhẹ. **Sa sút trí tuệ không phải là một phần bình thường của việc già đi.** Vấn đề trí nhớ nghiêm trọng khiến các hoạt động hằng ngày trở nên khó khăn, chẳng hạn như lái xe, dùng điện thoại hoặc tìm đường về nhà.
 
-NIA gợi ý nên nói chuyện với bác sĩ nếu một người:
+NIA gợi ý nên trò chuyện với bác sĩ nếu người đó:
 
-- Hỏi đi hỏi lại cùng những câu hỏi
-- Bị lạc ở những nơi trước đây từng rất quen
-- Khó làm theo công thức nấu ăn hoặc chỉ dẫn
-- Ngày càng lú lẫn hơn về thời gian, con người và địa điểm
-- Ngừng tự chăm sóc bản thân, chẳng hạn ăn uống kém, không tắm rửa hoặc có hành vi không an toàn
+- Hỏi đi hỏi lại cùng một câu hỏi
+- Bị lạc ở những nơi từng rất quen thuộc
+- Khó làm theo công thức nấu ăn hoặc chỉ dẫn đường
+- Ngày càng bối rối về thời gian, con người và nơi chốn
+- Thôi không chăm sóc bản thân, chẳng hạn như ăn uống kém, không tắm giặt hoặc cư xử không an toàn
 
-Một số người bị **suy giảm nhận thức nhẹ (MCI)**. Điều đó có nghĩa là họ gặp nhiều vấn đề về trí nhớ hoặc tư duy hơn những người cùng tuổi, nhưng vẫn tự lo được sinh hoạt hằng ngày. NIA cho biết MCI có thể là dấu hiệu sớm của bệnh Alzheimer, nhưng không phải ai bị MCI cũng tiến triển thành bệnh Alzheimer.
+Một số người có **suy giảm nhận thức nhẹ (MCI)**. Điều đó nghĩa là có nhiều vấn đề về trí nhớ hoặc tư duy hơn những người cùng tuổi, nhưng vẫn tự lo được cuộc sống hằng ngày. NIA cho rằng MCI có thể là dấu hiệu sớm của bệnh Alzheimer, nhưng không phải ai bị MCI cũng phát triển bệnh.
 
-## Còn điều gì khác có thể gây ra vấn đề về trí nhớ?
+## Những nguyên nhân nào khác có thể gây vấn đề trí nhớ?
 
-Nhiều yếu tố ngoài sa sút trí tuệ có thể ảnh hưởng đến trí nhớ, và một số sẽ khá hơn khi được điều trị. NIA liệt kê:
+Nhiều nguyên nhân ngoài sa sút trí tuệ có thể ảnh hưởng đến trí nhớ, và một số sẽ tốt lên khi được điều trị. NIA liệt kê:
 
 - **Vấn đề về tuyến giáp, thận hoặc gan**
 - **Tác dụng phụ của thuốc**
 - **Trầm cảm và lo âu**
-- **Thiếu vitamin B12** hoặc ăn không đủ thực phẩm lành mạnh
+- **Thiếu vitamin B12** hoặc ăn uống không đủ thực phẩm lành mạnh
 - **Rối loạn giấc ngủ**
-- **Lạm dụng rượu hoặc chất gây nghiện**
+- **Lạm dụng rượu hoặc thuốc**
 - **Nhiễm trùng, cục máu đông hoặc khối u** trong não
-- **Chấn thương đầu**, chẳng hạn chấn động não
-- **Căng thẳng lớn hoặc mất mát**, chẳng hạn nghỉ hưu hoặc mất người bạn đời
+- **Chấn thương đầu**, chẳng hạn như chấn động não
+- **Căng thẳng hoặc đau buồn lớn**, chẳng hạn như nghỉ hưu hoặc mất người bạn đời
 
-Các vấn đề về thính lực và thị lực cũng có thể bị nhầm là lú lẫn; xem [hướng dẫn về thính lực](/brain-health/hearing/) của chúng tôi. Đó là lý do việc khám sức khỏe quan trọng. Theo [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), bác sĩ thường cho làm xét nghiệm máu để kiểm tra vấn đề tuyến giáp, thiếu vitamin và nhiễm trùng. Giấc ngủ ngon (xem [giấc ngủ](/brain-health/sleep/)) và việc điều trị trầm cảm cũng đáng được nêu với bác sĩ.
+Vấn đề về thính lực và thị lực cũng có thể bị nhầm là lú lẫn; xem [hướng dẫn về thính lực](/brain-health/hearing/) của chúng tôi. Đó là lý do việc khám y tế lại quan trọng. Theo [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), bác sĩ thường chỉ định xét nghiệm máu để kiểm tra vấn đề tuyến giáp, thiếu vitamin và nhiễm trùng. [Giấc ngủ](/brain-health/sleep/) tốt và việc điều trị trầm cảm cũng đáng được đưa ra trao đổi.
 
-## Lú lẫn đột ngột là một tình huống khẩn cấp
+## Lú lẫn đột ngột là tình huống khẩn cấp
 
-**Lú lẫn xuất hiện nhanh, trong vài giờ hoặc vài ngày, cần được chăm sóc y tế khẩn cấp.** Đó có thể là mê sảng (delirium). [VA mô tả mê sảng](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) là một tình trạng cấp cứu y tế và khuyên gọi ngay cho bác sĩ của người đó hoặc gọi số khẩn cấp (115 để gọi xe cấp cứu ở Việt Nam, 911 ở Mỹ). Các dấu hiệu gồm:
+**Lú lẫn xuất hiện nhanh, trong vài giờ hoặc vài ngày, cần được chăm sóc y tế khẩn cấp.** Đó có thể là mê sảng. [VA mô tả mê sảng](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) là một tình huống y tế khẩn cấp và khuyên nên gọi ngay cho bác sĩ chăm sóc sức khỏe của người đó hoặc gọi 911. Các dấu hiệu gồm:
 
-- Khả năng suy nghĩ rõ ràng lúc tốt lúc kém
+- Khả năng suy nghĩ rõ ràng lúc được, lúc không
 - Khó tập trung chú ý
-- Suy nghĩ rối loạn, thiếu mạch lạc
-- Buồn ngủ bất thường, hoặc bồn chồn, kích động bất thường
+- Suy nghĩ rối ren, không theo trình tự
+- Buồn ngủ bất thường, hoặc bồn chồn và kích động bất thường
 
-Điều này có thể xảy ra với bất kỳ ai, kể cả những người đã sống chung với sa sút trí tuệ. Theo [NHS](https://www.nhs.uk/symptoms/confusion/) (Dịch vụ Y tế Quốc gia Anh), các nguyên nhân thường gặp gồm nhiễm trùng (nhiễm trùng đường tiết niệu khá phổ biến ở người lớn tuổi và người sa sút trí tuệ), đột quỵ, đường huyết thấp ở người bị tiểu đường, chấn thương đầu và một số loại thuốc. Trong lúc chờ trợ giúp, hãy ở lại bên người đó và trấn an họ bằng những lời ngắn gọn, đơn giản. Đừng hỏi dồn dập nhiều câu, và hãy ghi lại các loại thuốc họ đang dùng.
+Điều này có thể xảy ra cho bất cứ ai, kể cả những người đang sống với chứng sa sút trí tuệ. Theo [NHS](https://www.nhs.uk/symptoms/confusion/), các nguyên nhân thường gặp gồm nhiễm trùng (nhiễm trùng đường tiết niệu thường gặp ở người lớn tuổi và người sống với chứng sa sút trí tuệ), đột quỵ, hạ đường huyết ở người bị tiểu đường, chấn thương đầu và một số loại thuốc. Trong lúc chờ trợ giúp, hãy ở bên cạnh người đó và trấn an họ bằng những lời ngắn gọn, đơn giản. Đừng hỏi quá nhiều câu, và hãy ghi lại các loại thuốc họ đang dùng.
 
-## Tôi chuẩn bị gì cho buổi khám bác sĩ?
+## Tôi nên chuẩn bị thế nào cho cuộc hẹn với bác sĩ?
 
-Một buổi khám tốt bắt đầu từ những ghi chép tốt. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) gợi ý bạn mang theo:
+Một cuộc hẹn tốt bắt đầu từ những ghi chú tốt. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) gợi ý nên mang theo:
 
-1. **Danh sách những thay đổi** về trí nhớ, tâm trạng và hành vi, kèm ví dụ cụ thể và thời điểm bắt đầu (ước chừng)
-2. **Các vấn đề sức khỏe trước đây và hiện tại**, gồm cả tiền sử gia đình có vấn đề về trí nhớ (nếu có)
-3. **Tất cả thuốc kê đơn và thuốc không cần kê đơn**
-4. **Mọi loại vitamin hoặc thực phẩm bổ sung**
-5. **Những câu hỏi của bạn**, chẳng hạn sẽ làm những xét nghiệm nào, mất bao lâu và khi nào có kết quả
+1. **Danh sách các thay đổi** về trí nhớ, tâm trạng và hành vi, kèm ví dụ cụ thể và khoảng thời gian chúng bắt đầu
+2. **Vấn đề sức khỏe trước đây và hiện tại**, bao gồm cả tiền sử gia đình về vấn đề trí nhớ
+3. **Tất cả thuốc theo toa và thuốc mua không cần toa**
+4. **Bất kỳ loại vitamin hoặc thực phẩm bổ sung nào**
+5. **Những câu hỏi của bạn**, chẳng hạn như sẽ làm xét nghiệm gì, mất bao lâu và khi nào có kết quả
 
-Cũng nên đưa theo một người trong gia đình hoặc một người bạn hiểu rõ người đó. [NIA giải thích](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) rằng bác sĩ có thể hỏi cả người đó lẫn một thành viên gia đình về sức khỏe, thuốc men, sinh hoạt hằng ngày và những thay đổi trong hành vi. Bác sĩ cũng có thể:
+Việc đưa theo một người thân hoặc bạn bè hiểu rõ người đó cũng rất có ích. [NIA giải thích](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) rằng bác sĩ có thể hỏi cả người đó và người thân về sức khỏe, thuốc men, hoạt động hằng ngày và những thay đổi trong hành vi. Bác sĩ cũng có thể:
 
-- Cho làm các bài kiểm tra về trí nhớ, giải quyết vấn đề, sự chú ý, tính toán và ngôn ngữ
-- Chỉ định xét nghiệm máu, nước tiểu và các xét nghiệm khác để tìm những nguyên nhân khác
-- Kiểm tra trầm cảm hoặc các tình trạng sức khỏe tâm thần khác
+- Thực hiện các bài kiểm tra về trí nhớ, giải quyết vấn đề, sự chú ý, đếm số và ngôn ngữ
+- Chỉ định xét nghiệm máu, nước tiểu và các xét nghiệm khác để tìm nguyên nhân khác
+- Kiểm tra trầm cảm hoặc các vấn đề sức khỏe tâm thần khác
 - Chỉ định chụp não như CT hoặc MRI
-- Giới thiệu đến bác sĩ chuyên khoa, chẳng hạn bác sĩ lão khoa, thần kinh, tâm thần lão khoa hoặc chuyên gia tâm lý thần kinh
+- Giới thiệu đến bác sĩ chuyên khoa, chẳng hạn như bác sĩ lão khoa, bác sĩ thần kinh, bác sĩ tâm thần lão khoa hoặc nhà tâm lý học thần kinh
 
-NIA lưu ý rằng đánh giá nhận thức là một phần bắt buộc của buổi khám sức khỏe hằng năm Medicare Annual Wellness Visit (Medicare là chương trình bảo hiểm y tế của Mỹ dành chủ yếu cho người từ 65 tuổi), có thể là một dịp tự nhiên để nêu mối lo ngại. Ngay cả những bài kiểm tra ngắn mà bác sĩ dùng cũng chưa đủ để tự nó chẩn đoán sa sút trí tuệ. Chúng là bước đầu tiên hướng tới một đánh giá đầy đủ hơn, và việc chẩn đoán có thể cần hơn một lần khám. NIA khuyên những người có vấn đề về trí nhớ nên quay lại khám bác sĩ mỗi 6 đến 12 tháng.
+NIA lưu ý rằng đánh giá nhận thức là một phần bắt buộc trong Cuộc khám sức khỏe hằng năm của Medicare (Medicare Annual Wellness Visit), và đây có thể là thời điểm tự nhiên để nêu lên những lo ngại. Ngay cả các bài kiểm tra ngắn gọn mà bác sĩ dùng cũng chưa đủ để chẩn đoán sa sút trí tuệ khi đứng riêng lẻ. Chúng là bước đầu tiên hướng tới một đánh giá đầy đủ hơn, và việc chẩn đoán có thể cần hơn một lần khám. NIA khuyên người có vấn đề trí nhớ nên đi khám lại mỗi 6 đến 12 tháng.
 
-## Mở lời một cách tử tế
+## Nhắc đến vấn đề một cách nhẹ nhàng
 
-Nếu bạn lo lắng cho một người khác, hãy chọn một lúc yên tĩnh, riêng tư. Nói về những điều cụ thể bạn đã nhận thấy, theo hướng quan tâm đến sức khỏe của họ chứ không phải chê trách. Gợi ý một lần khám sức khỏe tổng quát có thể ít gây hoang mang hơn. Hãy để người đó cùng tham gia các quyết định và nói chuyện với họ như với một người trưởng thành. [Mẹo giao tiếp](/caregiving/communication-tips/) của chúng tôi có thể giúp bạn.
+Nếu bạn lo lắng cho người thân, hãy chọn một lúc yên tĩnh, riêng tư. Hãy nói về những điều cụ thể bạn đã nhận thấy, với thái độ quan tâm đến sức khỏe của họ thay vì chỉ trích. Gợi ý đi khám tổng quát có thể cảm giác ít đáng sợ hơn. Hãy để người đó tham gia vào quyết định và nói chuyện với họ như người lớn mà họ vốn là. [Mẹo giao tiếp](/caregiving/communication-tips/) của chúng tôi có thể giúp ích.
 
-## Hãy nói chuyện với bác sĩ
+## Trò chuyện với bác sĩ
 
-Nếu bạn nhận thấy những thay đổi về trí nhớ, tư duy, tâm trạng hoặc khả năng sinh hoạt hằng ngày là mới và cứ lặp lại, hãy đặt lịch hẹn với bác sĩ chăm sóc ban đầu. Với tình trạng lú lẫn đột ngột, hãy gọi số khẩn cấp địa phương (115 để gọi xe cấp cứu ở Việt Nam, 911 ở Mỹ) hoặc gọi ngay cho bác sĩ của người đó. Đi khám sớm nghĩa là những nguyên nhân có thể điều trị sẽ được tìm ra và, nếu đó là sa sút trí tuệ, sẽ có thêm thời gian để lên kế hoạch và tìm sự hỗ trợ. Bạn cũng hãy chăm sóc bản thân trong suốt quá trình này; xem [hướng dẫn tự chăm sóc dành cho người chăm sóc](/caregiving/caregiver-self-care/).
+Nếu bạn nhận thấy những thay đổi về trí nhớ, tư duy, tâm trạng hoặc khả năng hằng ngày là mới xuất hiện và cứ tiếp diễn, hãy đặt lịch khám với bác sĩ chăm sóc ban đầu. Với lú lẫn đột ngột, hãy gọi 911 hoặc bác sĩ chăm sóc sức khỏe của người đó ngay. Đi khám sớm có nghĩa là có thể tìm ra các nguyên nhân có thể điều trị được và, nếu là sa sút trí tuệ, sẽ có nhiều thời gian hơn để lên kế hoạch và tìm sự hỗ trợ. Trong quá trình này, hãy chăm sóc cả bản thân bạn; xem [hướng dẫn tự chăm sóc cho người chăm sóc](/caregiving/caregiver-self-care/) của chúng tôi.
 
-Trang này là thông tin chung, không phải lời khuyên y tế. Xem [tuyên bố miễn trừ y tế](/medical-disclaimer/) của chúng tôi.
+Trang này chỉ cung cấp thông tin chung, không phải lời khuyên y tế. Xem [tuyên bố miễn trừ y tế](/medical-disclaimer/) của chúng tôi.

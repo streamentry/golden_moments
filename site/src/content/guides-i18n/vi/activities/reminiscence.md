@@ -1,31 +1,32 @@
 ---
-title: "Hoạt động ôn lại kỷ niệm: hộp kỷ niệm, chuyện đời và ảnh cũ"
-seoTitle: "Ôn lại kỷ niệm với người sa sút trí tuệ: không hỏi bài"
-description: "Cách cùng ôn lại kỷ niệm với người sa sút trí tuệ mà không hỏi bài: trò chuyện qua ảnh, hộp kỷ niệm, sổ chuyện đời, kèm những câu nói giúp không khí thoải mái."
+title: "Hoạt động hoài niệm: Hộp ký ức, sách cuộc đời và ảnh"
+seoTitle: "Hoạt động hoài niệm cho chứng sa sút trí tuệ: Không kiểm tra"
+description: "Cách chia sẻ kỷ niệm với người sống chung với chứng sa sút trí tuệ mà không kiểm tra: nói về ảnh, hộp ký ức và sách cuộc đời, với những câu nói giúp không khí thoải mái."
 section: activities
 order: 6
 updated: 2026-10-25
+translatedFrom: 2026-10-25
 summary: >-
-  Ôn lại kỷ niệm là cùng nhau tận hưởng quá khứ qua ảnh, đồ vật, âm nhạc và
-  những câu chuyện. Hãy làm một hộp kỷ niệm, một cuốn sổ chuyện đời đơn giản,
-  hoặc ngồi cạnh nhau xem ảnh. Đừng bao giờ hỏi bài: bỏ qua “Có nhớ không?” và
-  “Ai đây?”, thay bằng những lời mời mở như “Kể cho con nghe về chuyện này
-  đi.” Một cuộc trò chuyện ấm áp quan trọng hơn việc nhớ đúng.
+  Hoài niệm là cùng nhau tận hưởng quá khứ qua ảnh, đồ vật, âm nhạc
+  và câu chuyện. Làm một hộp ký ức, xây một cuốn sách cuộc đời đơn giản, hoặc xem
+  ảnh cạnh nhau. Đừng bao giờ kiểm tra: bỏ qua "Bạn có nhớ không?" và "Đây là ai?"
+  và dùng những lời mời mở như "Hãy kể cho tôi về điều này." Một cuộc trò chuyện ấm áp
+  quan trọng hơn việc nhớ đúng sự thật.
 keyPoints:
-  - "Ôn lại kỷ niệm là trò chuyện, không phải bài kiểm tra. Đúng hay sai không quan trọng; niềm vui mới quan trọng."
-  - "Thay “Có nhớ…không?” và “Ai đây?” bằng những nhận xét và lời mời như “Kể cho con nghe về ngày hôm ấy đi.”"
-  - "Một hộp kỷ niệm đựng đồ vật từ cuộc đời người thân cho đôi tay và câu chuyện có điều để bám vào."
-  - "Một cuốn sổ chuyện đời giúp gia đình, khách đến thăm và nhân viên chăm sóc hiểu con người ấy, chứ không chỉ biết chẩn đoán."
-  - "Nếu một kỷ niệm khiến người thân buồn, hãy an ủi trước rồi nhẹ nhàng chuyển sang chuyện khác."
+  - "Hoài niệm là một cuộc trò chuyện, không phải bài kiểm tra. Độ chính xác không quan trọng; niềm vui mới quan trọng."
+  - "Thay 'Bạn có nhớ...?' và 'Đây là ai?' bằng các nhận xét và lời mời như 'Hãy kể cho tôi về ngày này.'"
+  - "Một hộp ký ức với các đồ vật từ cuộc sống của người ấy cho đôi tay và cuộc trò chuyện điều gì đó để nắm giữ."
+  - "Một cuốn sách cuộc đời giúp gia đình, khách và nhân viên chăm sóc biết người ấy, không chỉ chẩn đoán."
+  - "Nếu một kỷ niệm mang đến buồn bã, hãy an ủi trước rồi nhẹ nhàng đi tiếp."
 faq:
-  - q: "Ôn lại kỷ niệm với người sa sút trí tuệ là gì?"
-    a: "Ôn lại kỷ niệm là chia sẻ những ký ức và trải nghiệm đã qua, thường nhờ ảnh, đồ vật, âm nhạc hoặc video. Có thể làm riêng hai người hoặc theo nhóm. Mục đích là một cuộc trò chuyện dễ chịu, có ý nghĩa, không phải kiểm tra xem người thân nhớ được gì."
-  - q: "Vì sao không nên hỏi “Có nhớ không?”"
-    a: "Những câu hỏi kiểm tra trí nhớ có thể làm người thân ngại ngùng hoặc lo lắng khi không nghĩ ra câu trả lời. National Institute on Aging liệt kê việc hỏi xem người đó có nhớ một điều hay một người nào đó vào danh sách những điều nên tránh. Thay vào đó, hãy nhận xét về những gì bạn thấy, và để người thân thêm vào bất cứ điều gì họ muốn."
-  - q: "Nên cho gì vào hộp kỷ niệm?"
-    a: "Chọn những đồ vật an toàn, chắc chắn, gắn với cuộc đời người thân: đồ dùng trong công việc, dụng cụ của một sở thích, chiếc khăn yêu thích, bưu thiếp, công thức nấu ăn viết tay, kỷ vật thể thao hoặc bản sao ảnh. Tránh đồ sắc nhọn, vật nhỏ có thể nuốt phải và những bản gốc không thể thay thế."
-  - q: "Nếu người thân nhớ sai thì sao?"
-    a: "Cứ để vậy. Nếu mẹ bạn bảo người trong ảnh là em gái bà trong khi đó là cô em họ, cũng không sao cả. Sửa lại sẽ biến một khoảnh khắc ấm áp thành bài kiểm tra. Hãy theo câu chuyện người thân đang kể và cùng nhau tận hưởng."
+  - q: "Hoài niệm là gì với người sống chung với chứng sa sút trí tuệ?"
+    a: "Hoài niệm là chia sẻ kỷ niệm và trải nghiệm trong quá khứ, thường với sự giúp đỡ của ảnh, đồ vật, âm nhạc hoặc video. Nó có thể diễn ra một với một hoặc trong nhóm. Mục tiêu là một cuộc trò chuyện dễ chịu, ý nghĩa, không phải kiểm tra điều người ấy có thể nhớ lại."
+  - q: "Tại sao không nên hỏi 'Bạn có nhớ không?'"
+    a: "Các câu hỏi kiểm tra trí nhớ có thể làm người ấy cảm thấy xấu hổ hoặc lo lắng khi câu trả lời không xuất hiện. National Institute on Aging liệt kê việc hỏi xem ai đó có nhớ điều gì hoặc ai đó không trong số những điều cần tránh. Hãy nhận xét về những gì bạn thấy thay vào đó, và để người ấy thêm bất cứ điều gì họ thích."
+  - q: "Nên cho gì vào hộp ký ức?"
+    a: "Chọn những đồ vật an toàn, chắc chắn liên quan đến cuộc sống của người ấy: đồ vật công việc, dụng cụ sở thích, chiếc khăn choàng yêu thích, bưu thiếp, thẻ công thức nấu ăn, đồ lưu niệm thể thao hoặc bản sao ảnh. Tránh đồ vật sắc nhọn, đồ vật nhỏ có thể nuốt được, và những nguyên bản không thể thay thế."
+  - q: "Nếu họ nhớ sai sự thật thì sao?"
+    a: "Hãy để qua. Nếu mẹ bạn nói bức ảnh cho thấy chị gái cô ấy khi thực ra là em họ, điều đó không sao. Sửa chữa sẽ biến một khoảnh khắc ấm áp thành một bài kiểm tra. Hãy theo câu chuyện họ đang kể và cùng tận hưởng."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,87 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
-translatedFrom: 2026-10-25
 ---
 
-Ôn lại kỷ niệm đơn giản là cùng nhau tận hưởng quá khứ. Với nhiều người sống chung với sa sút trí tuệ, những ký ức từ mấy chục năm trước vẫn rõ hơn chuyện xảy ra sáng nay. Ảnh, đồ vật quen thuộc, âm nhạc và những câu chuyện có thể mở ra những ký ức ấy và cho bạn điều gì đó ấm áp để cùng chia sẻ. Chỉ có một nguyên tắc: đây là trò chuyện, không bao giờ là hỏi bài.
+Hoài niệm đơn giản là cùng nhau tận hưởng quá khứ. Với nhiều người sống chung với chứng sa sút trí tuệ, kỷ niệm từ nhiều thập kỷ trước có thể rõ hơn những gì xảy ra sáng nay. Ảnh, đồ vật quen thuộc, âm nhạc và câu chuyện có thể mở ra những kỷ niệm ấy và cho bạn điều gì đó ấm áp để cùng chia sẻ. Chỉ có một quy tắc: đây là cuộc trò chuyện, không phải bài kiểm tra.
 
-## Ôn lại kỷ niệm là gì, và khác với hỏi bài thế nào?
+## Hoài niệm là gì, và khác với kiểm tra trí nhớ thế nào?
 
-Ôn lại kỷ niệm là chia sẻ ký ức qua ảnh, đồ vật, âm nhạc hoặc video, theo nhịp độ của chính người thân. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mô tả đây là việc chia sẻ những trải nghiệm và câu chuyện đã qua nhờ ảnh, đồ vật, video hoặc âm nhạc, trong một cuốn sổ hoặc trên máy tính bảng. Hỏi bài thì khác: nó đòi người thân phải đưa ra câu trả lời đúng, và điều đó có thể mang lại sự ngại ngùng thay vì niềm vui.
+Hoài niệm là chia sẻ kỷ niệm qua ảnh, đồ vật, âm nhạc hoặc video, theo nhịp độ của chính người ấy. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mô tả nó là chia sẻ những trải nghiệm và câu chuyện trong quá khứ với sự giúp đỡ của ảnh, đồ vật, video hoặc âm nhạc, trong một cuốn sách hoặc trên máy tính bảng. Kiểm tra trí nhớ thì khác: nó đòi người ấy đưa ra câu trả lời đúng, và điều đó có thể mang lại sự xấu hổ thay vì niềm vui.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) xếp việc hỏi xem người đó có nhớ một điều hay một người nào đó vào những điều nên tránh. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gợi ý tránh những câu hỏi dựa vào trí nhớ ngắn hạn và thay vào đó trò chuyện về quá khứ xa hơn.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) liệt kê việc hỏi một người xem họ có nhớ điều gì hoặc ai đó không trong số những điều cần tránh. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gợi ý tránh các câu hỏi dựa vào trí nhớ ngắn hạn và nói về quá khứ xa hơn thay vào đó.
 
 | Thay vì | Hãy thử |
 | --- | --- |
-| “Có nhớ cái này không?” | “Trông như một ngày vui lắm. Kể cho con nghe đi.” |
-| “Ai đây?” | “Đây là dì Hồng ở bãi biển. Nhìn cái mũ kìa.” |
-| “Ảnh này chụp năm nào?” | “Trông như căn nhà cũ. Hồi sống ở đó thế nào ạ?” |
-| “Không phải chú Bình, đó là chú Phúc mà.” | “Trông chú ấy vui tính quá.” |
-| “Mẹ kể chuyện này rồi.” | “Con thích chuyện này lắm.” |
+| "Bạn có nhớ điều này không?" | "Đây trông như một ngày vui. Hãy kể cho tôi về nó." |
+| "Đây là ai?" | "Đây là cô Rose ở bãi biển. Nhìn chiếc mũ kia kìa." |
+| "Đây là năm nào?" | "Đây trông như ngôi nhà cũ. Sống ở đó có gì đặc biệt?" |
+| "Không, đó không phải Bill, đó là Frank." | "Anh ấy trông rất vui tính." |
+| "Bạn đã kể cho tôi điều đó rồi." | "Tôi thích câu chuyện đó." |
 
-## Làm sao để trò chuyện về ảnh mà không hỏi bài?
+## Nên nói về ảnh như thế nào mà không kiểm tra trí nhớ?
 
-Hãy bắt đầu bằng những gì bạn nhìn thấy, rồi chừa chỗ để người thân thêm vào nếu muốn.
+Hãy dẫn dắt bằng những gì bạn thấy, rồi để chỗ cho người ấy thêm điều gì nếu họ muốn.
 
-1. **Ngồi cạnh nhau.** Cầm cuốn album ở giữa hai người để cùng nhau ngắm, không phải ngồi đối diện qua bàn như đang kiểm tra.
-2. **Chọn vài tấm ảnh.** Năm tấm ảnh đẹp tốt hơn cả một hộp ảnh. Ảnh in lớn, rõ nét là tốt nhất.
-3. **Tự bạn gọi tên mọi người.** “Đây là mẹ với bố trong ngày cưới” giúp gỡ bỏ áp lực.
-4. **Nhận xét về các chi tiết.** Quần áo, xe cộ, món ăn, thời tiết, gương mặt. “Chiếc xe đẹp quá. Trông bóng loáng ghê.”
-5. **Mời gọi, đừng đòi hỏi.** “Kể cho con nghe về…” hoặc “Mẹ thấy gì trong ảnh?” Im lặng cũng không sao.
-6. **Theo sự dẫn dắt của người thân.** Nếu người thân nói sang một chuyện hoàn toàn khác, hãy cứ theo.
-7. **Dừng khi vẫn còn vui.** Gấp album lại trước khi người thân thấy mệt.
+1. **Ngồi cạnh nhau.** Giữ cuốn album giữa hai bạn để cùng nhìn, chứ không phải kiểm tra qua bàn.
+2. **Chọn vài bức ảnh.** Năm bức ảnh đẹp tốt hơn cả một hộp. Ảnh in lớn, rõ nét là tốt nhất.
+3. **Tự gọi tên mọi người.** “Đây là bạn và bố trong ngày cưới” giúp giảm áp lực.
+4. **Nhận xét về chi tiết.** Quần áo, xe cộ, thức ăn, thời tiết, khuôn mặt. “Chiếc xe này đẹp quá. Trông nó sáng bóng quá.”
+5. **Mời chứ không đòi hỏi.** “Hãy kể cho tôi về...” hoặc “Bạn thấy gì?” Im lặng cũng được.
+6. **Theo sự dẫn dắt của họ.** Nếu họ nói về điều gì khác hoàn toàn, hãy đi theo.
+7. **Dừng lại khi còn vui.** Đóng album trước khi mệt mỏi xuất hiện.
 
-Nếu muốn có sẵn những hình gợi chuyện, hãy thử [Thẻ trò chuyện](/games/conversation-cards/). Để biến ảnh gia đình thành một trò ghép đôi nhẹ nhàng, hãy thử [Ghép đôi ảnh](/games/photo-pairs/); những ảnh bạn chọn chỉ ở trong trình duyệt của bạn.
+Để có các gợi ý hình ảnh có sẵn, hãy thử [conversation cards](/games/conversation-cards/). Để biến ảnh gia đình của bạn thành một trò chơi ghép đôi nhẹ nhàng, hãy thử [photo pairs](/games/photo-pairs/); những bức ảnh bạn chọn sẽ ở lại trong trình duyệt của bạn.
 
-## Làm hộp kỷ niệm thế nào?
+## Làm hộp ký ức như thế nào?
 
-Hộp kỷ niệm là một chiếc hộp đựng những đồ vật từ cuộc đời người thân để cầm nắm và trò chuyện.
+Hộp ký ức là một hộp chứa các đồ vật từ cuộc sống của người ấy để cầm nắm và nói chuyện.
 
-1. **Chọn một chiếc hộp chắc chắn**, dễ mở, như hộp giày, hộp mũ hoặc một chiếc rương gỗ nhỏ.
-2. **Chọn một chủ đề hoặc để lẫn lộn.** Công việc, một sở thích, một nơi chốn, một thập niên, hoặc mỗi thứ một chút.
-3. **Gom những đồ vật an toàn.** Năm đến mười món là đủ để bắt đầu.
-4. **Dùng bản sao của những thứ quý giá.** Sao lại những tấm ảnh và giấy tờ không thể thay thế, và cất giữ bản gốc cẩn thận.
-5. **Lấy từng món ra một.** Đưa một món, nói đôi câu về nó, rồi xem câu chuyện dẫn đến đâu.
+1. **Chọn một chiếc hộp chắc chắn** dễ mở, chẳng hạn hộp giày, hộp mũ hoặc rương gỗ nhỏ.
+2. **Chọn một chủ đề hoặc kết hợp.** Công việc, sở thích, một nơi chốn, một thập kỷ, hoặc một chút mỗi thứ.
+3. **Thu thập các đồ vật an toàn.** Năm đến mười món là đủ để bắt đầu.
+4. **Dùng bản sao của những thứ quý giá.** Sao chép ảnh và tài liệu không thể thay thế, và giữ nguyên bản an toàn.
+5. **Lấy từng món ra một lúc.** Trao một món, nói điều gì đó về nó, và xem cuộc trò chuyện đi đến đâu.
 
-Gợi ý những thứ có thể cho vào:
+Ý tưởng để thêm vào:
 
-- **Công việc:** một chiếc thẻ tên, một dụng cụ nhỏ, một phù hiệu trên đồng phục, một cuốn sổ sách, chiếc huy hiệu y tá, một cuốn sách dạy nấu ăn từ quán ăn cũ.
-- **Nhà cửa:** một công thức nấu ăn viết tay, một chiếc khăn lau bát, chiếc khăn quàng hay cà vạt yêu thích.
-- **Sở thích:** một mồi câu cá đã bỏ lưỡi câu, một quả cầu đá, một cuộn len, một gói hạt giống.
-- **Nơi chốn:** bưu thiếp, bản đồ, một món quà lưu niệm du lịch, một mẩu báo về quê nhà.
-- **Gia đình:** bản sao ảnh, một bức tranh trẻ con vẽ, một tấm thiệp cưới.
+- **Công việc:** thẻ tên, một dụng cụ nhỏ, miếng huy hiệu đồng phục, sổ sách, huy hiệu y tá, cuốn sách công thức từ quán ăn.
+- **Nhà cửa:** thẻ công thức nấu ăn viết tay, khăn trà, chiếc khăn choàng hoặc cà vạt yêu thích.
+- **Sở thích:** mồi câu không có lưỡi, quả bóng chày, cuộn len, gói hạt giống.
+- **Những nơi chốn:** bưu thiếp, bản đồ, đồ lưu niệm du lịch, bài báo cắt từ quê nhà.
+- **Gia đình:** bản sao ảnh, tranh vẽ của trẻ nhỏ, thiệp mời đám cưới.
 
-Đừng cho vào đồ sắc nhọn, những vật nhỏ có thể nuốt phải, và bất cứ thứ gì có thể gợi lại ký ức đau buồn, trừ khi bạn biết người thân sẽ đón nhận.
+Để lại những đồ vật sắc nhọn, những thứ nhỏ có thể nuốt được, và bất cứ thứ gì có thể gợi ký ức đau buồn trừ khi bạn biết người ấy đón nhận.
 
-## Làm sổ chuyện đời thế nào?
+## Làm sách cuộc đời như thế nào?
 
-Sổ chuyện đời là một cuốn album đơn giản gồm ảnh và những chú thích ngắn về cuộc đời người thân. Đó là thứ để cùng nhau ngắm, và giúp khách đến thăm cũng như nhân viên chăm sóc nhìn thấy trọn vẹn con người ấy.
+Sách cuộc đời là một cuốn album đơn giản gồm ảnh và chú thích ngắn về cuộc sống của người ấy. Đó là thứ để cùng xem, và giúp khách và nhân viên chăm sóc thấy cả con người, không chỉ chẩn đoán.
 
-1. **Chọn hình thức.** Một bìa còng có túi nhựa, một cuốn sách ảnh in sẵn, hoặc một bộ trình chiếu trên máy tính bảng.
-2. **Lên vài phần.** Thời thơ ấu, đi học, công việc, gia đình, những nơi từng sống, đức tin, sở thích, món ăn và âm nhạc yêu thích.
-3. **Mỗi trang một hoặc hai tấm ảnh** kèm chú thích ngắn, chữ to: “Bà Mai, 22 tuổi, bắt đầu đi làm ở ngân hàng.”
-4. **Ghi cả những điều người thân thích và thói quen.** “Uống cà phê sữa. Thích nghe thánh ca ngày Chủ nhật. Không thích TV mở to.” Điều này giúp bất cứ ai chăm sóc người thân.
-5. **Mời người thân cùng làm** nhiều hay ít tùy ý, chọn ảnh, kể chuyện hoặc chỉ ngồi xem cuốn sổ dần thành hình.
-6. **Cứ thêm dần.** Không cần làm xong mới dùng được.
+1. **Chọn định dạng.** Một cặp hồ sơ có bao nilon, một cuốn sách ảnh in, hoặc trình chiếu trên máy tính bảng.
+2. **Lên kế hoạch cho vài phần.** Tuổi thơ, trường học, công việc, gia đình, những nơi đã sống, đức tin, sở thích, món ăn và âm nhạc yêu thích.
+3. **Thêm một hoặc hai ảnh mỗi trang** với chú thích ngắn, chữ lớn: “Mary, 22 tuổi, bắt đầu làm việc tại ngân hàng.”
+4. **Bao gồm những điều thích và thói quen.** “Uống cà phê với sữa. Thích thánh ca Chủ nhật. Không thích TV lớn tiếng.” Điều này giúp bất kỳ ai chăm sóc người ấy.
+5. **Mời người ấy tham gia** nhiều hay ít tùy ý, chọn ảnh, kể chuyện hoặc chỉ xem cuốn sách hình thành.
+6. **Tiếp tục thêm vào.** Nó không cần hoàn thành mới có ích.
 
-## Thêm ý tưởng ôn lại kỷ niệm
+## Thêm ý tưởng hoài niệm
 
-- **Mở nhạc thời trẻ của người thân** và trò chuyện về những nơi bài hát gợi nhớ. Xem [hoạt động âm nhạc](/activities/music/).
-- **Xem phim gia đình tự quay hoặc chương trình TV** từ những thập niên người thân yêu thích.
-- **Nấu một món ăn thời thơ ấu** và để mùi hương dẫn dắt câu chuyện.
-- **Xem bản đồ** quê nhà của người thân và lần theo những con phố quen thuộc.
-- **Lật xem catalô hay tạp chí cũ** và trò chuyện về giá cả, thời trang và xe cộ.
-- **Ghi âm những câu chuyện** bằng điện thoại, khi được người thân đồng ý, để giữ lại cho gia đình.
-- **Chia sẻ khi gọi điện.** Giơ một tấm ảnh lên trong cuộc gọi video; xem [gọi điện và gọi video](/activities/phone-and-video-calls/).
-- **Mang theo một tấm ảnh hoặc một món đồ khi đến thăm.** Nó giúp buổi thăm có một điểm chung dễ dàng; xem [đến thăm](/activities/visiting/).
+- **Phát nhạc từ thời trẻ của họ** và nói về nơi những bài hát ấy đưa họ đến. Xem [hoạt động âm nhạc](/activities/music/).
+- **Xem phim gia đình hoặc chương trình TV** từ những thập kỷ yêu thích.
+- **Nấu một món ăn từ thời thơ ấu** và để mùi hương dẫn dắt cuộc trò chuyện.
+- **Xem bản đồ quê nhà** và theo những con đường quen thuộc.
+- **Xem các catalogue hoặc tạp chí cũ** và nói về giá cả, thời trang và xe cộ.
+- **Ghi lại câu chuyện của họ** bằng điện thoại, với sự đồng ý, cho gia đình.
+- **Chia sẻ trong lúc gọi điện.** Giơ một bức ảnh lên trong cuộc gọi video; xem [cuộc gọi điện thoại và video](/activities/phone-and-video-calls/).
+- **Mang theo một bức ảnh hoặc đồ vật khi thăm.** Điều đó cho buổi thăm một trọng tâm dễ dàng; xem [thăm](/activities/visiting/).
 
-## Nếu một kỷ niệm gợi nỗi đau thì sao?
+## Nếu một kỷ niệm gây đau buồn thì sao?
 
-Có những ký ức gợi lại nỗi đau mất mát, sự hối tiếc hay nỗi sợ. Nếu người thân trở nên buồn bực, hãy dừng lại, an ủi và nhẹ nhàng chuyển sang chuyện khác hoặc hoạt động khác. Đừng tranh cãi về chuyện đã xảy ra. Family Caregiver Alliance khuyên không nên cố thuyết phục người thân rằng họ sai và gợi ý đáp lại những cảm xúc họ bộc lộ, vì những cảm xúc ấy là thật. Nếu người thân nói về một người đã mất như thể người ấy còn sống, hãy đáp lại cảm xúc: “Mẹ nhớ bà lắm. Kể cho con nghe về bà đi.”
+Một số kỷ niệm mang đến đau buồn, hối tiếc hoặc sợ hãi. Nếu người ấy buồn bã, hãy dừng lại, an ủi họ và nhẹ nhàng chuyển chủ đề hoặc hoạt động. Đừng tranh luận về những gì đã xảy ra. Family Caregiver Alliance khuyên không nên cố thuyết phục người ấy rằng họ sai, và gợi ý đáp lại những cảm xúc họ thể hiện, vì những cảm xúc đó là thật. Nếu họ nói về người đã mất như thể người đó còn sống, hãy đáp lại cảm xúc: “Bạn nhớ cô ấy. Hãy kể cho tôi về cô ấy.”
 
 ## Nghiên cứu nói gì?
 
-Một [tổng quan Cochrane về ôn lại kỷ niệm](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), gồm 22 thử nghiệm với 1.972 người, cho thấy tác động không nhất quán, nhỏ và khác nhau tùy bối cảnh và hình thức. Tổng quan không thấy bằng chứng gây hại cho người sa sút trí tuệ. Chúng tôi gợi ý ôn lại kỷ niệm vì nó có thể mang lại những giờ phút ấm áp, có ý nghĩa bên nhau, không phải như một cách điều trị. Để biết thêm về cách trò chuyện dễ dàng, xem [mẹo giao tiếp](/caregiving/communication-tips/).
+Một [bài tổng quan Cochrane về hoài niệm](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), bao gồm 22 thử nghiệm và 1,972 người, thấy rằng tác động không nhất quán, nhỏ và thay đổi tùy theo bối cảnh và hình thức. Nó không tìm thấy bằng chứng về tác hại cho người sống chung với chứng sa sút trí tuệ. Chúng tôi gợi ý hoài niệm vì nó có thể tạo nên thời gian ấm áp và ý nghĩa cùng nhau, không phải như một phương pháp điều trị. Để biết thêm về cuộc trò chuyện dễ dàng, xem [mẹo giao tiếp](/caregiving/communication-tips/).

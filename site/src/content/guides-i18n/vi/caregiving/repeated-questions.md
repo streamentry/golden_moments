@@ -1,35 +1,36 @@
 ---
-title: "Khi người sa sút trí tuệ hỏi đi hỏi lại cùng một câu"
-seoTitle: "Người sa sút trí tuệ hỏi lặp lại: nên nói và làm gì"
-description: "Vì sao người sa sút trí tuệ hỏi đi hỏi lại một câu, cách trả lời bình tĩnh, những công cụ đơn giản có ích và khi nào một thay đổi đột ngột cần gặp bác sĩ."
+title: "Khi người mất trí nhớ hỏi lại cùng một câu"
+seoTitle: "Người mất trí nhớ hỏi lặp lại: Nên nói và làm gì"
+description: "Vì sao người sống với chứng mất trí hỏi lặp lại cùng một câu, cách trả lời nhẹ nhàng, công cụ đơn giản có ích và khi nào cần gọi bác sĩ."
 section: caregiving
 order: 9
 updated: 2026-10-31
+translatedFrom: 2026-10-31
 summary: >-
-  Hỏi lặp lại là điều thường gặp ở người sa sút trí tuệ: người thân thường
-  không nhớ mình đã hỏi, và câu hỏi hay mang theo một nỗi lo. Hãy trả lời bình
-  tĩnh, ngắn gọn như thể lần đầu, đáp lại cảm xúc đằng sau câu hỏi, và đừng bao
-  giờ nói “bố hỏi rồi mà”. Hãy viết câu trả lời ở nơi người thân nhìn thấy, chỉ
-  nhắc đến sự việc ngay trước giờ xảy ra, và đề nghị một hoạt động dễ chịu.
-  Thay đổi đột ngột cần gặp bác sĩ.
+  Hỏi lặp lại là điều thường gặp khi có chứng mất trí: người ấy thường không
+  nhớ là đã hỏi, và câu hỏi thường mang theo một nỗi lo. Hãy trả lời bình
+  tĩnh, ngắn gọn như lần đầu tiên, đáp lại cảm xúc đằng sau câu hỏi, và
+  không bao giờ nói "bạn đã hỏi rồi." Viết câu trả lời ra chỗ họ nhìn thấy,
+  chỉ nhắc về các sự kiện ngay trước khi chúng xảy ra, và đề nghị một hoạt
+  động dễ chịu. Một thay đổi đột ngột cần gọi bác sĩ.
 keyPoints:
-  - "Người thân thường không nhớ mình đã hỏi; họ không cố ý."
-  - "Câu hỏi thường ẩn một cảm xúc, chẳng hạn lo lắng về một cuộc hẹn hoặc muốn cảm thấy an toàn."
-  - "Hãy trả lời bình tĩnh, ngắn gọn và tử tế, như thể lần đầu. Đừng bao giờ nói “bố hỏi rồi mà”."
-  - "Một tờ giấy ghi chú, bảng trắng, đồng hồ hoặc lịch đặt trong tầm nhìn có thể trả lời câu hỏi thay bạn."
-  - "Chỉ nhắc đến những sự kiện gây căng thẳng ngay trước khi chúng xảy ra."
-  - "Hãy nghỉ một lát khi bạn cần, và gọi bác sĩ về bất kỳ thay đổi đột ngột nào."
+  - "Người ấy thường không nhớ là đã hỏi; không phải cố tình."
+  - "Câu hỏi thường giấu một cảm xúc, chẳng hạn như lo về cuộc hẹn khám bệnh hoặc muốn thấy an toàn."
+  - "Trả lời bình tĩnh, ngắn gọn và dịu dàng, như thể đó là lần đầu tiên. Không bao giờ nói \"bạn đã hỏi rồi.\""
+  - "Một tờ ghi chú, bảng trắng, đồng hồ hay lịch ở chỗ nhìn thấy có thể trả lời thay bạn."
+  - "Chỉ nhắc về những việc căng thẳng ngay trước khi chúng xảy ra."
+  - "Nghỉ một chút khi bạn cần, và gọi bác sĩ nếu có thay đổi đột ngột nào."
 faq:
-  - q: "Vì sao bố tôi bị sa sút trí tuệ cứ hỏi đi hỏi lại cùng một câu?"
-    a: "Sa sút trí tuệ ảnh hưởng đến trí nhớ ngắn hạn, nên ông có thể thật sự không nhớ mình đã hỏi hay đã nghe câu trả lời. Thường thì câu hỏi còn mang theo một cảm xúc, chẳng hạn lo lắng về việc sắp xảy ra hoặc cần được trấn an. Đáp lại cảm xúc ấy thường giúp ích hơn là nhắc lại sự việc."
-  - q: "Tôi có nên nói với người thân rằng họ đã hỏi rồi không?"
-    a: "Không. Điều đó không giúp họ nhớ được, và có thể khiến họ cảm thấy như bị sửa lời. Các tổ chức về sa sút trí tuệ khuyên nên trả lời bình tĩnh mỗi lần, như thể lần đầu, và giữ câu trả lời ngắn gọn."
-  - q: "Viết câu trả lời ra giấy có giúp ích không?"
-    a: "Có thể, khi người thân vẫn còn đọc được. Một tờ ghi chú, một chiếc bảng trắng ghi kế hoạch hôm nay, một chiếc đồng hồ lớn hoặc cuốn lịch ở nơi họ hay nhìn sẽ để họ tự xem câu trả lời. Hãy nhẹ nhàng chỉ vào đó thay vì nói “mẹ nói rồi mà”."
-  - q: "Khi nào nên nói về các cuộc hẹn hoặc chuyến đi?"
-    a: "Gần đến lúc. Nhắc về một buổi khám bệnh hay chuyến đi trước vài ngày có thể biến thành hàng giờ những câu hỏi lo lắng. Hãy nói trước đó không lâu, bình tĩnh, kèm theo việc sẽ xảy ra tiếp theo."
-  - q: "Khi nào việc lặp lại là lý do để gọi bác sĩ?"
-    a: "Nếu các câu hỏi, sự lú lẫn hoặc hành vi thay đổi đột ngột hoặc nặng lên nhiều trong vài giờ hay vài ngày, hãy gọi bác sĩ của người thân sớm. Nhiễm trùng, thuốc mới, đau, táo bón hoặc mất nước có thể gây lú lẫn đột ngột gọi là mê sảng (delirium), cần được chăm sóc nhanh chóng."
+  - q: "Vì sao bố tôi, người đang sống với chứng mất trí, cứ hỏi đi hỏi lại cùng một câu?"
+    a: "Chứng mất trí ảnh hưởng đến trí nhớ ngắn hạn, nên ông ấy có thể thật sự không nhớ là đã hỏi hay đã nghe câu trả lời. Câu hỏi cũng thường mang theo một cảm xúc, chẳng hạn như lo về chuyện gì sẽ xảy ra tiếp theo hoặc cần được trấn an. Trả lời cảm xúc đó thường giúp ích hơn là lặp lại sự thật."
+  - q: "Có nên bảo người ấy là đã hỏi rồi không?"
+    a: "Không. Điều đó không giúp họ nhớ hơn và có thể khiến người ấy cảm thấy như đang bị sửa lỗi. Các tổ chức về chứng mất trí khuyên nên trả lời bình tĩnh mỗi lần, như lần đầu tiên, và giữ câu trả lời ngắn gọn."
+  - q: "Viết câu trả lời ra có giúp ích không?"
+    a: "Có thể, trong lúc người ấy còn đọc được. Một tờ ghi chú, bảng trắng ghi kế hoạch hôm nay, đồng hồ lớn hay lịch đặt ở chỗ họ hay nhìn cho phép họ tự kiểm tra câu trả lời. Hãy chỉ nhẹ nhàng vào đó thay vì nói \"Tôi đã bảo bạn rồi.\""
+  - q: "Khi nào nên nói về các cuộc hẹn khám bệnh hoặc chuyến đi chơi?"
+    a: "Ngay trước thời điểm đó. Nhắc về lần đi khám bác sĩ hay chuyến đi trước đó nhiều ngày có thể dẫn đến hàng giờ câu hỏi lo lắng. Hãy báo cho họ biết ngay trước khi đi, bình tĩnh, kèm theo những gì sẽ xảy ra tiếp theo."
+  - q: "Khi nào việc hỏi lặp lại là lý do cần gọi bác sĩ?"
+    a: "Nếu các câu hỏi, sự bối rối hay hành vi thay đổi đột ngột hoặc trở nên tồi tệ hơn nhiều trong vài giờ hoặc vài ngày, hãy gọi bác sĩ của họ ngay. Nhiễm trùng, thuốc mới, đau, táo bón hoặc mất nước có thể gây lú lẫn đột ngột gọi là mê sảng, cần được chăm sóc nhanh chóng."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -55,71 +56,69 @@ sources:
 relatedGames: [picture-pairs, sort-together, conversation-cards, calm-breathing]
 related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregiving/late-day-restlessness, caregiving/caregiver-self-care, activities/daily-routine, activities/ideas]
 health: false
-translatedFrom: 2026-10-31
 ---
 
+"Mấy giờ đi khám bác sĩ?" Mười phút sau: "Mấy giờ đi khám bác sĩ?" Nghe đi nghe lại cùng một câu hỏi là một trong những việc mệt nhọc nhất khi chăm sóc người sống với chứng mất trí. Điều này rất thường gặp, không phải cố tình, và có những cách trả lời nhẹ nhàng giúp ngày của cả hai dễ dàng hơn.
 
-“Mấy giờ đi khám bác sĩ?” Mười phút sau: “Mấy giờ đi khám bác sĩ?” Nghe cùng một câu hỏi lặp đi lặp lại là một trong những phần mệt mỏi nhất khi chăm sóc người sống chung với sa sút trí tuệ. Điều này rất phổ biến, không phải do người thân cố ý, và có những cách trả lời bình tĩnh giúp ngày trôi qua dễ dàng hơn cho cả hai.
+## Tại sao người sống với chứng mất trí lại hỏi đi hỏi lại cùng một câu?
 
-## Vì sao người sa sút trí tuệ cứ hỏi đi hỏi lại một câu?
+Chủ yếu là do trí nhớ. Chứng mất trí ảnh hưởng đến trí nhớ ngắn hạn, nên người ấy thường không nhớ là đã hỏi, hoặc không nhớ câu trả lời. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) mô tả việc hỏi đi hỏi lại là điều phổ biến và dễ hiểu.
 
-Chủ yếu là do trí nhớ. Sa sút trí tuệ ảnh hưởng đến trí nhớ ngắn hạn, nên người thân thường không nhớ mình đã hỏi, hoặc không nhớ câu trả lời. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) mô tả việc hỏi nhiều lần là điều thường gặp và có thể đoán trước.
-
-Câu hỏi cũng thường mang theo một cảm xúc. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) giải thích rằng một câu hỏi lặp lại có thể thể hiện một nỗi lo, một lời nhờ giúp, hoặc sự lo âu và bất an, và người thân thường đang tìm sự an ủi và cảm giác quen thuộc. “Khi nào mình đi?” có thể thật ra có nghĩa là “Tôi đang lo về chuyện đi.” Sự buồn chán, nỗi sợ, tiếng ồn và thay đổi nếp sinh hoạt đều có thể khơi mào, và một câu hỏi lặp lại cũng có thể là tín hiệu về một nhu cầu, chẳng hạn cần đi vệ sinh ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Câu hỏi cũng thường mang theo một cảm xúc. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) giải thích rằng một câu hỏi lặp lại có thể thể hiện nỗi lo, một lời kêu cứu, hoặc sự lo âu và bất an, và người ấy thường đang tìm kiếm sự an ủi và cảm giác quen thuộc. "Khi nào mình đi?" thực ra có thể là "Tôi lo lắng về chuyến đi." Chán nản, sợ hãi, tiếng ồn và thay đổi thói quen đều có thể gây ra điều này, và câu hỏi lặp lại cũng có thể báo hiệu một nhu cầu, chẳng hạn như cần đi vệ sinh ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
 ## Tôi nên nói gì?
 
-Hãy trả lời bình tĩnh và ngắn gọn, như thể đó là lần đầu.
+Trả lời bình tĩnh và ngắn gọn, như thể đó là lần đầu tiên.
 
-- **Giữ câu trả lời ngắn và giống nhau.** “Hai giờ chiều khám bác sĩ. Con sẽ ở bên bố.” Một câu trả lời nhất quán dễ tiếp nhận hơn.
-- **Đáp lại cảm xúc.** “Bố đang băn khoăn chuyện đi khám bác sĩ. Là chiều nay, và con sẽ chở bố đi. Bố không phải làm gì cả.”
-- **Dùng giọng ấm áp và cái chạm nhẹ nhàng,** nếu người thân thích được chạm. Alzheimer's Association khuyên giữ bình tĩnh, và đừng dùng lý lẽ hay tranh cãi.
-- **Đưa ra câu trả lời mà người thân đang tìm,** bao nhiêu lần cũng được. Alzheimer's Association nói hãy lặp lại bấy nhiêu lần người thân hỏi.
+- **Giữ câu trả lời ngắn gọn và nhất quán.** "Bác sĩ hẹn lúc hai giờ. Tôi sẽ ở bên bạn." Một câu trả lời nhất quán dễ tiếp nhận hơn.
+- **Trả lời cảm xúc.** "Bạn đang băn khoăn về cuộc hẹn bác sĩ. Hẹn lúc chiều nay, và tôi sẽ chở cả hai đi. Bạn không cần làm gì cả."
+- **Dùng giọng nói ấm áp và chạm nhẹ nhàng,** nếu người ấy thích được chạm. Alzheimer's Association khuyên nên giữ bình tĩnh và không dùng lý lẽ hay tranh cãi.
+- **Đưa câu trả lời mà người ấy đang tìm kiếm,** bao nhiêu lần cũng được. Alzheimer's Association nói nên lặp lại bao nhiêu lần họ hỏi thì bấy nhiêu lần.
 
-## Nên tránh điều gì?
+## Tôi nên tránh gì?
 
-- **“Bố hỏi con câu đó rồi mà.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) khuyên đừng chỉ ra rằng người thân vừa hỏi xong. Điều đó không giúp họ nhớ, và có thể khiến họ cảm thấy bị mắng.
-- **Giải thích dài dòng.** Càng nhiều lời thì càng có nhiều thứ để quên.
-- **Thở dài, đảo mắt hay giọng gay gắt.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) khuyên kiên nhẫn và đừng để lộ sự bực bội. Điều đó khó; xem phần về những lúc nghỉ ở bên dưới.
+- **"Bạn vừa hỏi tôi rồi."** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) khuyên không nên chỉ ra rằng người ấy vừa hỏi. Điều đó không giúp họ nhớ hơn và có thể khiến người ấy cảm thấy như đang bị la mắng.
+- **Giải thích dài dòng.** Nói nhiều hơn thì cũng có nhiều điều phải quên hơn.
+- **Thở dài, tròn mắt hay nói gắt.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) khuyên nên kiên nhẫn và không thể hiện sự bực bội. Điều đó khó lắm; xem phần về nghỉ ngơi bên dưới.
 
-## Những công cụ đơn giản trả lời câu hỏi thay bạn
+## Những cách đơn giản trả lời thay bạn
 
-Khi người thân vẫn còn đọc được, một câu trả lời viết ra mà họ nhìn thấy thường giúp ích hơn câu trả lời bằng lời.
+Trong lúc người ấy còn đọc được, câu trả lời viết ra mà họ nhìn thấy thường giúp ích hơn lời nói.
 
-| Công cụ | Cách dùng |
+| Cách làm | Cách dùng |
 | --- | --- |
-| Một tờ ghi chú chữ to | “Hôm nay 2 giờ chiều khám bác sĩ. Hà sẽ chở đi.” Đặt ở nơi người thân hay nhìn nhất |
-| Một chiếc bảng trắng | Kế hoạch hôm nay trong ba bốn dòng; lau và viết lại mỗi sáng |
-| Một chiếc đồng hồ lớn có thứ và ngày | Giúp trả lời “Hôm nay là thứ mấy?” và “Đến giờ chưa?” |
-| Một cuốn lịch | Gạch từng ngày đã qua; khoanh tròn lần thăm tiếp theo |
-| Ảnh quen thuộc | Ảnh người sắp đến có thể trả lời “Ai sắp đến thăm?” |
+| Một tờ ghi chữ chữ thật to | "Bác sĩ hẹn hôm nay lúc 2 giờ chiều. Mary sẽ chở đi." Đặt ở chỗ họ hay nhìn nhất |
+| Một bảng trắng | Kế hoạch hôm nay trong ba hoặc bốn dòng; lau và viết lại mỗi sáng |
+| Một đồng hồ lớn có thứ và ngày | Giúp trả lời "Hôm nay là thứ mấy?" và "Đến giờ chưa?" |
+| Một cuốn lịch | Gạch mỗi ngày đã qua; khoanh tròn lần hẹn tiếp theo |
+| Những bức ảnh quen thuộc | Ảnh của người sắp đến có thể trả lời "Ai đến thăm vậy?" |
 
-Những ý này đến từ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) và [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Hãy nhẹ nhàng chỉ vào tờ ghi chú (“Mình cùng xem cái bảng nhé”) thay vì nói “Con đã viết ra cho bố rồi.”
+Những ý này từ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) và [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Hãy chỉ nhẹ nhàng vào tờ ghi chú ("Để cùng nhìn bảng nhé") thay vì nói "Tôi đã viết ra cho bạn rồi."
 
-## Nói với người thân về các sự kiện vào gần lúc xảy ra
+## Chỉ nhắc về sự kiện ngay trước thời điểm đó
 
-Nhắc về một cuộc hẹn hay chuyến đi trước vài ngày có thể biến thành hàng giờ những câu hỏi lo lắng. Family Caregiver Alliance và Alzheimer's Los Angeles đều gợi ý chỉ nói về kế hoạch, nhất là những việc gây căng thẳng như đi khám bác sĩ hay tắm, ngay trước khi chúng xảy ra. Sau đó hãy nói điều gì sẽ diễn ra tiếp theo, từng bước một.
+Nhắc về cuộc hẹn hay chuyến đi trước đó nhiều ngày có thể dẫn đến hàng giờ câu hỏi đầy lo lắng. Cả Family Caregiver Alliance và Alzheimer's Los Angeles đều gợi ý chỉ nói về kế hoạch, đặc biệt là những việc căng thẳng như đi khám bác sĩ hay tắm, ngay trước khi chúng xảy ra. Sau đó nói những gì sẽ xảy ra tiếp theo, từng bước một.
 
-## Những hoạt động có thể chuyển sự chú ý
+## Những hoạt động có thể chuyển hướng chú ý
 
-Khi bạn đã trả lời và ghi nhận cảm xúc, một hoạt động êm dịu, dễ chịu có thể giúp ích, nhất là nếu nguyên nhân của những câu hỏi là sự buồn chán. Mọi nguồn nêu trên đều gợi ý chuyển sang một việc người thân thích.
+Sau khi bạn đã trả lời và thừa nhận cảm xúc đó, một hoạt động nhẹ nhàng, dễ chịu có thể giúp ích, nhất là khi sự chán nản là nguyên nhân gây ra câu hỏi. Mọi nguồn trên đều gợi ý chuyển sang việc mà người ấy thích.
 
-1. **Một trò chơi ngắn, dễ cùng nhau.** [Ghép đôi hình](/games/picture-pairs/) để hình luôn hiện, nên không cần nhớ gì cả.
-2. **Một việc quen thuộc.** Gấp khăn tắm, xếp tất hoặc dọn bàn ăn. [Cùng phân loại](/games/sort-together/) là phiên bản trên màn hình.
-3. **Nói về điều người thân yêu thích.** [Thẻ trò chuyện](/games/conversation-cards/) đưa ra những gợi ý mở, không có câu trả lời sai.
-4. **Âm nhạc, đi dạo hoặc ăn nhẹ.** National Institute on Aging liệt kê những điều này trong số các cách đơn giản để chuyển hướng.
-5. **Một lúc lặng yên.** Cùng ngồi, nhìn ra cửa sổ, hoặc thử một lúc [hít thở thư thái](/games/calm-breathing/) cùng nhau.
+1. **Một trò chơi ngắn, dễ cùng chơi.** [Ghép hình ảnh](/games/picture-pairs/) luôn giữ hình ảnh hiện ra, nên không cần nhớ gì cả.
+2. **Một việc quen thuộc.** Gấp khăn, xếp tất hoặc dọn bàn ăn. [Sắp xếp cùng nhau](/games/sort-together/) là phiên bản trên màn hình.
+3. **Nói về điều họ yêu thích.** [Thẻ trò chuyện](/games/conversation-cards/) đưa ra gợi ý mở, không có đáp án đúng hay sai.
+4. **Nghe nhạc, đi dạo hoặc ăn nhẹ.** National Institute on Aging xếp những việc này vào các cách đơn giản để chuyển hướng.
+5. **Một khoảng lặng yên.** Ngồi cạnh nhau, nhìn ra cửa sổ, hoặc cùng thử một khoảnh khắc [thở nhẹ nhàng](/games/calm-breathing/).
 
-Nếu người thân quay lại câu hỏi đó, hãy trả lời lại, tử tế. Như vậy là ổn.
+Nếu họ quay lại câu hỏi đó, hãy trả lời lại, dịu dàng. Không sao cả.
 
 ## Tìm quy luật
 
-Alzheimer's Association gợi ý hãy để ý xem các câu hỏi có đến vào một số thời điểm trong ngày, quanh một số người nhất định hay ở một số nơi nhất định không. Nếu chúng luôn bắt đầu trước khi khách đến, hoặc vào cuối chiều, bạn có thể lên kế hoạch trước: một ghi chú về buổi thăm, một hoạt động quen thuộc đã sẵn sàng, một căn phòng yên tĩnh hơn. Hướng dẫn về [hoạt động êm dịu lúc chiều muộn](/caregiving/late-day-restlessness/) của chúng tôi có thể giúp ích nếu buổi tối là lúc khó nhất.
+Alzheimer's Association gợi ý để ý xem câu hỏi xuất hiện vào những thời điểm nhất định trong ngày, quanh những người nhất định hoặc ở những nơi nhất định. Nếu câu hỏi thường bắt đầu trước khi khách đến, hoặc vào cuối buổi chiều, bạn có thể chuẩn bị trước: một tờ ghi chú về chuyến thăm, một hoạt động quen thuộc đã sẵn sàng, một phòng yên tĩnh hơn. Hướng dẫn của chúng tôi về [hoạt động yên tĩnh cuối chiều](/caregiving/late-day-restlessness/) có thể giúp ích nếu buổi tối là lúc khó nhất.
 
-## Hãy chăm sóc chính mình
+## Chăm sóc bản thân
 
-Trả lời cùng một câu hỏi lần thứ hai mươi thật mệt mỏi. Nếu bạn thấy sự kiên nhẫn của mình sắp cạn và người thân đang an toàn, hãy sang phòng khác vài phút và hít thở, như [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) gợi ý. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) khuyến khích người chăm sóc nhờ giúp đỡ và cân nhắc chăm sóc thay thế (respite care). Có thêm ý tưởng trong [hướng dẫn chăm sóc chính mình](/caregiving/caregiver-self-care/) của chúng tôi.
+Trả lời cùng một câu hỏi đến lần hai mươi thì kiệt sức. Nếu thấy sắp hết kiên nhẫn và người ấy an toàn, hãy sang phòng khác vài phút và thở, như [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) gợi ý. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) khuyến khích người chăm sóc nhờ giúp đỡ và cân nhắc dịch vụ chăm sóc tạm để bạn được nghỉ ngơi. Thêm ý tưởng trong [hướng dẫn tự chăm sóc cho người chăm sóc](/caregiving/caregiver-self-care/) của chúng tôi.
 
 ## Khi nào nên gọi bác sĩ?
 
-Hãy gọi bác sĩ của người thân sớm nếu các câu hỏi, sự lú lẫn hoặc hành vi thay đổi đột ngột hoặc nặng lên nhiều trong vài giờ hay vài ngày. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) cho biết hành vi thay đổi đột ngột hoặc nhanh chóng, nhất là sau một đợt nhiễm trùng hoặc khi đổi thuốc, cần được báo cho bác sĩ ngay. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) giải thích rằng nhiễm trùng, thuốc men, mất nước, đau hoặc táo bón có thể gây mê sảng (delirium), một tình trạng lú lẫn nặng và đột ngột cần được điều trị nhanh chóng. Hãy gọi số khẩn cấp địa phương (115 ở Việt Nam, 911 ở Mỹ) nếu có ai đang gặp nguy hiểm.
+Hãy gọi bác sĩ của họ ngay nếu các câu hỏi, sự bối rối hay hành vi thay đổi đột ngột hoặc tệ hơn nhiều trong vài giờ hoặc vài ngày. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nói rằng hành vi thay đổi đột ngột hoặc nhanh, nhất là sau nhiễm trùng hoặc thay đổi thuốc, nên được báo cho bác sĩ ngay. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) giải thích rằng nhiễm trùng, thuốc, mất nước, đau hoặc táo bón có thể gây mê sảng, một tình trạng lú lẫn dữ dội đột ngột cần được điều trị nhanh. Gọi 911 nếu bất kỳ ai đang gặp nguy hiểm.

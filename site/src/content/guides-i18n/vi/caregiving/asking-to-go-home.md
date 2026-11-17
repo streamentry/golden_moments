@@ -1,35 +1,36 @@
 ---
-title: "Khi người sa sút trí tuệ cứ đòi về nhà"
-seoTitle: "Người sa sút trí tuệ đòi về nhà: nên nói gì"
-description: "Vì sao người sa sút trí tuệ đòi về nhà dù đang ở nhà, nên nói gì, hoạt động êm dịu nào có thể thử và cách giữ an toàn khi người thân tìm cách rời đi."
+title: "Khi người thân mắc chứng mất trí nhớ liên tục đòi về nhà"
+seoTitle: "Mất trí nhớ liên tục đòi về nhà: nên nói gì"
+description: "Vì sao người sống chung với chứng mất trí nhớ đòi về nhà dù đang ở nhà, nên nói gì, hoạt động giúp bình tĩnh và cách giữ an toàn nếu họ định rời đi."
 section: caregiving
 order: 8
-updated: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Khi người sa sút trí tuệ cứ đòi về nhà, “nhà” thường có nghĩa là cảm giác an
-  toàn hoặc một nơi từ ngày xưa, chứ không phải một ngôi nhà cụ thể. Đừng cãi
-  rằng họ đang ở nhà. Hãy ghi nhận cảm xúc, trấn an rằng họ an toàn, hỏi về ngôi
-  nhà ấy, rồi nhẹ nhàng chuyển sang xem ảnh, nghe nhạc, ăn nhẹ, đi dạo hoặc làm
-  một việc đơn giản. Hãy kiểm tra xem người thân có đói, khát, cần đi vệ sinh
-  hay đau không. Nếu tình trạng này bắt đầu đột ngột, hãy gọi bác sĩ của họ.
+  Khi người sống chung với chứng mất trí nhớ liên tục đòi về nhà, "nhà" thường
+  là cảm giác an toàn hoặc một nơi trong quá khứ, không phải một tòa nhà. Đừng
+  tranh luận rằng họ đang ở nhà. Hãy công nhận cảm xúc, trấn an rằng họ an
+  toàn, hỏi về nhà, rồi nhẹ nhàng chuyển sang ảnh, nhạc, đồ ăn nhẹ, đi dạo
+  hoặc một việc đơn giản. Kiểm tra xem họ có đói, khát, cần đi vệ sinh hay đau
+  không. Nếu bắt đầu đột ngột, hãy gọi bác sĩ.
 keyPoints:
-  - "“Tôi muốn về nhà” thường có nghĩa là “Tôi không thấy an toàn hay yên ổn”, chứ không phải là hỏi một địa chỉ."
-  - "Tranh cãi hay chứng minh rằng họ đang ở nhà thường làm người thân đau khổ hơn. Hãy đáp lại cảm xúc."
-  - "Mời người thân kể về ngôi nhà ấy, rồi gợi ý xem ảnh, nghe nhạc, ăn nhẹ, đi dạo hoặc làm một việc đơn giản."
-  - "Kiểm tra những điều có thể xử lý được: đói, khát, đi vệ sinh, đau, quá nóng hoặc quá lạnh, ồn ào, mệt."
-  - "Nếu chuyện này xảy ra vào mỗi chiều muộn, có thể đó là hội chứng hoàng hôn (sundowning); một nếp sinh hoạt ổn định và đủ ánh sáng có thể giúp ích."
-  - "Hãy chuẩn bị cho việc người thân tìm cách rời đi, và gọi bác sĩ khi có bất kỳ thay đổi đột ngột nào."
+  - "“Tôi muốn về nhà” thường có nghĩa là “tôi không cảm thấy an toàn hoặc yên ổn”, không phải yêu cầu một địa chỉ."
+  - "Tranh luận hoặc chứng minh rằng họ đang ở nhà thường làm căng thẳng nặng hơn. Hãy đáp ứng cảm xúc thay vì lời nói."
+  - "Hỏi họ kể về nhà, rồi đề nghị ảnh, nhạc, đồ ăn nhẹ, đi dạo hoặc một việc đơn giản."
+  - "Kiểm tra điều có thể xử lý: đói, khát, cần đi vệ sinh, đau, quá nóng hoặc quá lạnh, ồn ào, mệt mỏi."
+  - "Nếu xảy ra mỗi chiều tối, đó có thể là hội chứng hoàng hôn (sundowning); nhịp sinh hoạt ổn định và ánh sáng tốt có thể giúp."
+  - "Lên kế hoạch an toàn nếu họ cố rời đi, và gọi bác sĩ về bất kỳ thay đổi đột ngột nào."
 faq:
-  - q: "Vì sao mẹ tôi bị sa sút trí tuệ cứ đòi về nhà khi bà đang ở nhà?"
-    a: "Sa sút trí tuệ có thể khiến những căn phòng quen thuộc trở nên lạ lẫm, và đôi khi người đó cảm thấy mình đang ở một thời kỳ trước đó của cuộc đời. “Nhà” có thể là ngôi nhà thời thơ ấu, hoặc đơn giản là cảm giác an toàn và dễ chịu. Đáp lại cảm giác ấy thường hiệu quả hơn là chỉ ra bà đang ở đâu."
-  - q: "Tôi nên nói gì khi người thân đòi về nhà?"
-    a: "Hãy thử nói “Ở đây mình an toàn, và con ở cạnh mẹ”, rồi “Kể con nghe về nhà của mẹ đi.” Hãy lắng nghe, cho xem một tấm ảnh hoặc nghe một bài hát, và mời một ly nước hay một đoạn đi dạo ngắn. Tránh nói “Mẹ đang ở nhà mà” như một lời sửa sai, vì điều đó có thể khiến người thân cảm thấy mình bị bảo là sai."
-  - q: "Nói rằng lát nữa mình sẽ về nhà có được không?"
-    a: "Các gia đình và các tổ chức về sa sút trí tuệ có quan điểm khác nhau về điều này. Nhiều người bắt đầu bằng sự an ủi trung thực và chuyển hướng, và chỉ dùng một lời nói không thật nhẹ nhàng trong những lúc sự thật chỉ gây thêm đau khổ mà người thân không thể vượt qua. Dù bạn chọn cách nào, hãy tử tế và nhất quán, và đừng bao giờ chế giễu cách người thân cảm nhận thực tại."
-  - q: "Nếu người thân tìm cách rời khỏi nhà thì sao?"
-    a: "Hãy giữ bình tĩnh và đi cùng người thân thay vì chặn lại; một đoạn đi dạo ngắn thường làm dịu cơn thôi thúc. Hãy chuẩn bị các bước an toàn từ trước, chẳng hạn vòng tay có thông tin liên lạc, chuông cửa và một tấm ảnh gần đây. Nếu người thân mất tích, hãy bắt đầu tìm ngay, và gọi số khẩn cấp địa phương (ở Mỹ là 911; ở Việt Nam, 113 là công an) nếu bạn chưa tìm thấy sau 15 phút, nói rõ rằng người đó bị sa sút trí tuệ."
-  - q: "Khi nào tôi nên gọi bác sĩ?"
-    a: "Hãy gọi bác sĩ của người thân sớm nếu việc đòi về nhà hoặc sự lú lẫn bắt đầu đột ngột hoặc nặng lên nhiều trong vài giờ hay vài ngày, nhất là kèm theo sốt, một loại thuốc mới hoặc dấu hiệu nhiễm trùng đường tiết niệu. Lú lẫn đột ngột có thể là mê sảng (delirium), cần được chăm sóc khẩn cấp. Hãy gọi số khẩn cấp địa phương (115 ở Việt Nam) nếu có ai đang gặp nguy hiểm."
+  - q: "Tại sao mẹ tôi mắc chứng mất trí nhớ liên tục đòi về nhà khi bà đang ở nhà?"
+    a: "Chứng mất trí nhớ có thể làm cho những căn phòng quen thuộc trở nên xa lạ, và đôi khi họ cảm thấy như đang ở một giai đoạn trước đây của cuộc đời. “Nhà” có thể là ngôi nhà thời thơ ấu hoặc đơn giản là cảm giác được an toàn và thoải mái. Đáp ứng cảm xúc đó thường hiệu quả hơn chỉ ra họ đang ở đâu."
+  - q: "Nên nói gì khi họ đòi về nhà?"
+    a: "Hãy thử “Bạn an toàn ở đây, và tôi sẽ ở cùng bạn,” rồi “Hãy kể cho tôi về ngôi nhà của bạn.” Lắng nghe, chia sẻ một bức ảnh hoặc một bài hát, và đề nghị một ly nước hoặc đi dạo ngắn. Tránh nói “Bạn đang ở nhà” như một sự chỉnh sửa, vì có thể khiến họ cảm thấy bị cho là sai."
+  - q: "Có nên nói chúng ta sẽ về nhà sau không?"
+    a: "Các gia đình và tổ chức hỗ trợ người mất trí nhớ có quan điểm khác nhau về điều này. Nhiều người bắt đầu từ sự an ủi chân thành và chuyển hướng, và chỉ giữ lại một lời nói dối nhẹ nhàng cho những lúc sự thật chỉ gây căng thẳng mà người đó không thể vượt qua. Dù bạn chọn cách nào, hãy tử tế và nhất quán, và đừng bao giờ chế nhạo cảm nhận thực tại của họ."
+  - q: "Nếu họ cố rời khỏi nhà thì sao?"
+    a: "Hãy bình tĩnh và đi cùng họ thay vì chặn họ; đi dạo ngắn thường làm dịu ý muốn rời đi. Hãy chuẩn bị các bước an toàn từ trước, chẳng hạn như vòng tay ID, chuông cửa và một bức ảnh mới. Nếu người đó mất tích, hãy kiểm tra những nơi an toàn gần đó trong khi liên hệ kịp thời với cảnh sát địa phương hoặc dịch vụ khẩn cấp. Đừng chờ một số phút nhất định trước khi báo cáo."
+  - q: "Khi nào nên gọi bác sĩ?"
+    a: "Gọi bác sĩ kịp thời nếu việc đòi về nhà hoặc lú lẫn bắt đầu đột ngột, hoặc nặng hơn nhiều trong vài giờ hoặc vài ngày. Sốt, thuốc mới hoặc dấu hiệu nhiễm trùng đường tiết niệu có thể đi kèm. Lú lẫn đột ngột có thể là mê sảng, cần được chăm sóc khẩn cấp. Gọi 911 nếu có ai gặp nguy hiểm."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -49,6 +50,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -64,91 +68,89 @@ sources:
 relatedGames: [photo-pairs, conversation-cards, calm-breathing, picture-pairs]
 related: [activities/visiting, caregiving/repeated-questions, caregiving/late-day-restlessness, caregiving/communication-tips, activities/reminiscence, activities/music, caregiving/when-they-say-no]
 health: false
-translatedFrom: 2026-10-31
 ---
 
+"“Tôi muốn về nhà.”" Với nhiều gia đình, đây là một trong những điều khó nghe nhất, đặc biệt khi người bạn chăm sóc đang ngồi trong chính phòng khách của họ. Điều này phổ biến, có thể xảy ra ở bất kỳ giai đoạn nào của chứng mất trí nhớ, và có những cách bình tĩnh, thực tế để ứng phó. Trang này nói về ý nghĩa thường gặp của những lời này, nên nói gì, hoạt động có thể giúp trong lúc đó, và cách giữ an toàn.
 
-“Tôi muốn về nhà.” Với nhiều gia đình, đây là một trong những câu khó nghe nhất, nhất là khi người thân đang ngồi ngay trong phòng khách của chính mình. Điều này khá phổ biến, có thể xảy ra ở bất kỳ giai đoạn nào của sa sút trí tuệ, và có những cách đáp lại bình tĩnh, thiết thực. Trang này nói về những lời ấy thường có nghĩa là gì, nên nói gì, những hoạt động có thể giúp ngay lúc đó và cách giữ an toàn.
+## Vì sao người sống chung với chứng mất trí nhớ liên tục đòi về nhà?
 
-## Vì sao người sa sút trí tuệ cứ đòi về nhà?
+Thông thường, "nhà" là một cảm giác nhiều hơn là một nơi chốn. Alzheimer's Society mô tả đó là cảm giác thoải mái và an toàn, hoặc một ngôi nhà từ quá khứ, chứ không phải chính ngôi nhà. Chứng mất trí nhớ có thể làm cho những căn phòng quen thuộc trở nên xa lạ, và một người có thể cảm thấy như đang sống ở một thời điểm trước đây của cuộc đời, khi nhà là ngôi nhà thời thơ ấu hoặc nơi họ nuôi dạy con cái.
 
-Thường thì “nhà” là một cảm giác hơn là một nơi chốn. Alzheimer's Society mô tả đó là cảm giác thoải mái và an toàn, hoặc một ngôi nhà từ ngày xưa, chứ không phải chính căn nhà hiện tại. Sa sút trí tuệ có thể khiến những căn phòng quen thuộc trông lạ lẫm, và người thân có thể cảm thấy mình đang sống ở một thời kỳ trước đó của cuộc đời, khi nhà là ngôi nhà thời thơ ấu hoặc nơi họ từng nuôi con.
+Những lời này cũng có thể là dấu hiệu rằng điều gì đó khác đang sai ngay lúc này: họ đói, khát, cần đi vệ sinh, đang đau, quá nóng hoặc quá lạnh, mệt mỏi, cô đơn, sợ hãi, hoặc bị quá tải bởi tiếng ồn. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) liệt kê đau, tiếng ồn, cô đơn, thay đổi sinh hoạt và thuốc trong số các nguyên nhân gây kích động.
 
-Những lời ấy cũng có thể là dấu hiệu cho thấy lúc này có điều gì khác không ổn: người thân đói, khát, cần đi vệ sinh, đau, quá nóng hoặc quá lạnh, mệt, cô đơn, sợ hãi, hoặc bị tiếng ồn làm choáng ngợp. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) liệt kê đau đớn, tiếng ồn, sự cô đơn, thay đổi nếp sinh hoạt và thuốc men trong số các nguyên nhân gây kích động.
+## Nên nói gì khi họ đòi về nhà?
 
-## Tôi nên nói gì khi người thân đòi về nhà?
+Hãy đáp ứng cảm xúc, không phải lời nói. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) khuyên không nên cố thuyết phục người đó rằng họ sai: cảm xúc của họ là thật, nên hãy trả lời bằng sự an ủi và trấn an trước, rồi nhẹ nhàng chuyển hướng.
 
-Hãy đáp lại cảm xúc, không phải lời nói. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) khuyên đừng cố thuyết phục người thân rằng họ sai: cảm xúc của họ là thật, nên hãy đáp lại bằng sự an ủi và trấn an trước, rồi mới nhẹ nhàng chuyển hướng.
+Những câu thường giúp ích:
 
-Những câu thường có ích:
+- **Nói ra cảm xúc.** "Có vẻ như bạn đang nhớ nhà."
+- **Trấn an.** "Bạn an toàn ở đây, và tôi sẽ ở cùng bạn." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) gợi ý những lời đơn giản "Bạn an toàn ở đây."
+- **Mời họ nhớ lại.** "Hãy kể cho tôi về ngôi nhà của bạn. Bếp của bạn như thế nào?" Hỏi về quá khứ xa thường thoải mái hơn câu hỏi về hôm nay.
+- **Đề nghị làm gì đó cùng nhau.** "Chúng ta hãy uống một tách trà trước," hoặc "Bạn có thể giúp tôi với những chiếc khăn này không?"
 
-- **Gọi tên cảm xúc.** “Nghe như mẹ đang nhớ nhà.”
-- **Trấn an.** “Ở đây mình an toàn, và con ở cạnh mẹ.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) gợi ý một câu giản dị: “Ở đây mình an toàn.”
-- **Mời nhắc lại kỷ niệm.** “Kể con nghe về nhà của mẹ đi. Gian bếp nhà mình hồi đó thế nào?” Hỏi về quá khứ xa thường dễ chịu hơn những câu hỏi về hôm nay.
-- **Đề nghị cùng làm một việc.** “Mình uống tách trà trước nhé,” hoặc “Mẹ giúp con gấp mấy cái khăn này nhé?”
-
-Giọng nói ấm áp và một bàn tay đặt nhẹ lên cánh tay, nếu người thân thích được chạm, có thể nói nhiều hơn lời nói.
+Giọng điệu ấm áp và một cái chạm nhẹ lên cánh tay, nếu họ thích được chạm, có thể nói nhiều hơn lời nói.
 
 ## Nên tránh điều gì?
 
-- **Tranh cãi hay giải thích.** “Mẹ giờ ở đây rồi” hoặc “Đây là nhà của mẹ 40 năm nay rồi” đòi hỏi người thân chấp nhận một điều mà sa sút trí tuệ khiến họ rất khó chấp nhận, và có thể khiến họ cảm thấy mình bị bảo là sai.
-- **Hỏi như kiểm tra.** “Mẹ không nhớ sao?” hoặc “Địa chỉ nhà là gì?” chỉ thêm áp lực.
-- **Giận dữ chặn cửa.** Nếu người thân bước ra ngoài, hãy giữ bình tĩnh và đi cùng. Một đoạn đi dạo ngắn bên nhau thường làm dịu cơn thôi thúc.
-- **Vội vàng.** Hãy cho người thân thời gian nói về nhà trước khi bạn đổi chủ đề.
+- **Tranh luận hoặc giải thích.** "Bạn đang sống ở đây rồi" hoặc "Đây đã là nhà của bạn 40 năm nay" đòi hỏi họ chấp nhận điều mà chứng mất trí nhớ làm khó chấp nhận, và có thể khiến họ cảm thấy bị cho là sai.
+- **Hỏi tra.** "Bạn không nhớ sao?" hoặc "Địa chỉ là gì?" làm tăng áp lực.
+- **Chặn cửa trong cơn giận.** Nếu họ bước ra ngoài, hãy bình tĩnh và đi cùng họ. Đi dạo ngắn cùng nhau thường làm dịu ý muốn.
+- **Vội vàng.** Hãy cho họ thời gian nói về nhà trước khi bạn đổi chủ đề.
 
-## Những hoạt động có thể giúp ngay lúc đó
+## Hoạt động có thể giúp trong lúc đó
 
-Sau khi đã ghi nhận cảm xúc, một hoạt động quen thuộc, êm dịu có thể chuyển sự chú ý mà không gạt cảm xúc ấy sang một bên.
+Sau khi bạn đã công nhận cảm xúc, một hoạt động bình tĩnh, quen thuộc có thể chuyển sự chú ý mà không làm họ cảm thấy bị phớt lờ.
 
-1. **Xem ảnh nhà cửa và gia đình.** Cùng lật từng trang và nhận xét (“Nhìn khu vườn kia kìa”) thay vì đặt câu hỏi. Trên điện thoại hoặc máy tính bảng, [Ghép đôi ảnh](/games/photo-pairs/) biến chính ảnh gia đình bạn thành một trò ghép đôi nhẹ nhàng, và ảnh vẫn nằm trên thiết bị của bạn.
-2. **Trò chuyện về ngôi nhà.** [Thẻ trò chuyện](/games/conversation-cards/) đưa ra những gợi ý mở về nhà cửa, gian bếp, hàng xóm và ngày lễ, không có câu trả lời sai.
-3. **Mở nhạc người thân yêu thích.** National Institute on Aging liệt kê âm nhạc êm dịu trong số các cách làm dịu sự kích động. Xem các [hoạt động âm nhạc](/activities/music/) của chúng tôi.
-4. **Ăn nhẹ hoặc uống chút gì.** Đói và khát có thể trông giống như bồn chồn. Một tách trà hay món ăn vặt yêu thích cũng là một nghi thức nhỏ của việc ở nhà.
-5. **Đi dạo hoặc ngồi ngoài trời.** Vận động và ánh sáng ban ngày có ích, nhất là vào đầu ngày.
-6. **Giao một việc quen thuộc.** Gấp quần áo, xếp thìa đũa hay tưới cây có thể gợi lại cảm giác đang coi sóc một gia đình.
-7. **Làm mọi thứ chậm lại.** Tắt TV, giảm tiếng ồn và ánh chói, và thử cùng nhau dừng lại một chút với [Hít thở thư thái](/games/calm-breathing/).
+1. **Xem ảnh nhà và gia đình.** Lật trang và đưa ra nhận xét ("Nhìn khu vườn kia kìa") thay vì hỏi. Trên điện thoại hoặc máy tính bảng, [Ghép ảnh](/games/photo-pairs/) biến những bức ảnh gia đình của bạn thành một trò chơi ghép nhẹ nhàng, và ảnh vẫn ở trên thiết bị của bạn.
+2. **Nói về nhà.** [Thẻ trò chuyện](/games/conversation-cards/) đưa ra các gợi ý mở về nhà cửa, bếp núc, hàng xóm và ngày lễ, không có câu trả lời đúng.
+3. **Phát nhạc họ yêu thích.** National Institute on Aging liệt kê âm nhạc nhẹ nhàng trong số các cách làm dịu sự kích động. Xem [hoạt động âm nhạc](/activities/music/) của chúng tôi.
+4. **Ăn nhẹ hoặc uống gì đó.** Đói và khát có thể trông như bồn chồn. Một tách trà hoặc món ăn vặt yêu thích cũng là một nghi thức nhỏ của việc ở nhà.
+5. **Đi dạo hoặc ngồi ngoài trời.** Vận động và ánh sáng ban ngày giúp ích, đặc biệt là sớm hơn trong ngày.
+6. **Giao một việc quen thuộc.** Gấp quần áo, sắp xếp đồ dùng bàn ăn hoặc tưới cây có thể mang lại cảm giác điều hành một ngôi nhà.
+7. **Làm chậm mọi thứ.** Tắt TV, giảm tiếng ồn và chói sáng, và thử một khoảng [thở bình tĩnh](/games/calm-breathing/) cùng nhau.
 
-Nếu một ý không hiệu quả, hãy thử ý khác vào lúc sau. Chỉ cùng ngồi lặng lẽ bên nhau cũng là một kết quả tốt.
+Nếu một ý không hiệu quả, hãy thử ý khác sau. Ngồi yên tĩnh bên nhau cũng là một kết quả tốt.
 
-## Kiểm tra nguyên nhân có thể xử lý được
+## Kiểm tra nguyên nhân có thể xử lý
 
-| Kiểm tra | Nên thử |
+| Kiểm tra | Có thể thử |
 | --- | --- |
-| Đói hoặc khát | Mời một ly nước và một chút đồ ăn nhẹ |
-| Cần đi vệ sinh | Đề nghị đi vệ sinh, bình tĩnh và không làm ầm lên |
-| Đau hoặc khó chịu | Tìm các dấu hiệu như nhăn mặt, ôm giữ một chỗ trên cơ thể hoặc táo bón, và báo cho bác sĩ của người thân |
-| Quá nóng hoặc quá lạnh | Chỉnh lại lớp áo hoặc nhiệt độ phòng |
+| Đói hoặc khát | Đề nghị một ly nước và một món ăn nhẹ nhỏ |
+| Cần đi vệ sinh | Đề nghị đi vệ sinh, bình tĩnh và không làm lớn chuyện |
+| Đau hoặc khó chịu | Tìm dấu hiệu như nhăn mặt, giữ một bộ phận cơ thể hoặc táo bón, và nói với bác sĩ của họ |
+| Quá nóng hoặc quá lạnh | Điều chỉnh một lớp áo hoặc nhiệt độ phòng |
 | Ồn ào hoặc đông người | Chuyển sang phòng yên tĩnh hơn, tắt TV |
-| Mệt hoặc bị kích thích quá nhiều | Cho nghỉ ngơi, giảm ánh sáng trong phòng, mở nhạc nhẹ |
-| Chiều muộn | Xem phần về hội chứng hoàng hôn bên dưới |
+| Mệt mỏi hoặc bị kích thích quá mức | Nghỉ ngơi, làm tối phòng, phát nhạc nhẹ |
+| Chiều tối | Xem phần hội chứng hoàng hôn bên dưới |
 
-Alzheimer's Society gợi ý ghi lại ngắn gọn lúc nào người thân hay đòi về, chẳng hạn trước bữa ăn, sau khi có khách hoặc lúc hoàng hôn. Khi thấy được quy luật, bạn sẽ dễ lên kế hoạch trước hơn.
+Alzheimer's Society gợi ý giữ một nhật ký ngắn về thời điểm việc đòi về nhà xảy ra, chẳng hạn trước bữa ăn, sau khi có khách, hoặc lúc chạng vạng. Các kiểu mẫu giúp lên kế hoạch trước dễ dàng hơn.
 
-## Nói một lời nói dối vô hại có được không?
+## Có nên nói dối nhẹ nhàng không?
 
-Đây là một cuộc tranh luận có thật, và những gia đình tử tế có thể chọn những hướng khác nhau. Alzheimer's Society nói rằng không có một đáp án đúng duy nhất: những điều không thật có thể khiến một số người nghi ngờ hơn, vì vậy hãy quyết định điều gì tốt nhất cho người thân và giữ sự nhất quán. Tại Penn Memory Center, quan điểm của đồng giám đốc là sự thật là mặc định và chỉ chấp nhận một lời nói không thật nhẹ nhàng khi người thân không thể tiếp nhận một sự thật cụ thể nào đó, và bạn đừng bao giờ chế giễu thực tại của họ.
+Đây là một cuộc tranh luận thực sự, và những gia đình chu đáo có thể chọn khác nhau. Alzheimer's Society nói không có một câu trả lời đúng duy nhất: những điều không đúng sự thật có thể làm một số người thêm nghi ngờ, vì vậy hãy quyết định điều gì là tốt nhất cho người đó và nhất quán. Tại Penn Memory Center, quan điểm của đồng giám đốc là sự thật là mặc định và một lời nói dối nhẹ nhàng chỉ chấp nhận được khi người đó không thể xử lý một sự thật cụ thể, và bạn không bao giờ nên chế nhạo thực tại của họ.
 
-Nhiều người chăm sóc thấy một con đường ở giữa là hiệu quả: trước hết là an ủi trung thực và chuyển hướng (“Tối nay mình ở lại đây, và con ở ngay bên mẹ”), mà không tranh cãi xem nhà ở đâu.
+Nhiều người chăm sóc thấy một con đường giữa hiệu quả: an ủi chân thành và chuyển hướng trước tiên ("Chúng ta sẽ ở đây tối nay, và tôi ở ngay đây với bạn"), mà không tranh luận về nhà ở đâu.
 
-## Nếu chuyện này xảy ra vào mỗi buổi chiều hoặc tối thì sao?
+## Nếu điều này xảy ra mỗi chiều hoặc tối thì sao?
 
-Sự bồn chồn bắt đầu hoặc nặng thêm vào cuối chiều thường được gọi là hội chứng hoàng hôn (sundowning). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) gợi ý giữ lịch sinh hoạt đều đặn, có nắng và hoạt động mỗi ngày, hạn chế ngủ trưa muộn, và không dùng caffeine hay rượu bia vào cuối ngày. Bật đèn trước khi trời tối cũng có thể giúp. Hướng dẫn về [hoạt động êm dịu lúc chiều muộn](/caregiving/late-day-restlessness/) của chúng tôi có thêm chi tiết.
+Sự bồn chồn bắt đầu hoặc nặng hơn vào chiều tối thường được gọi là hội chứng hoàng hôn (sundowning). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) gợi ý một lịch trình ổn định, ánh sáng mặt trời và hoạt động hằng ngày, ít giấc ngủ trưa muộn hơn, và không dùng caffeine hoặc rượu vào cuối ngày. Bật đèn trước lúc chạng vạng cũng có thể giúp. Hướng dẫn của chúng tôi về [hoạt động bình tĩnh vào chiều tối](/caregiving/late-day-restlessness/) có thêm thông tin.
 
-## Giữ an toàn khi người thân tìm cách rời đi
+## Giữ an toàn nếu họ cố rời đi
 
-Đòi về nhà có thể dẫn đến việc đi lang thang. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ước tính rằng sáu trong mười người sống chung với sa sút trí tuệ sẽ đi lang thang ít nhất một lần.
+Đòi về nhà có thể dẫn đến đi lang thang. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ước tính sáu trong mười người sống chung với chứng mất trí nhớ sẽ đi lang thang ít nhất một lần.
 
-**Chuẩn bị từ trước:**
+**Chuẩn bị trước:**
 
-- Một vòng tay ghi thông tin nhận dạng hoặc y tế, có tên người thân và số điện thoại của bạn, cùng nhãn tên may trong quần áo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nhắc đến chương trình MedicAlert và Alzheimer's Association Safe and Found của Mỹ, có thể mất phí. Ở nơi khác, hãy hỏi hội Alzheimer hoặc cơ sở y tế địa phương về dịch vụ tương tự.
-- Chuông cửa hoặc báo động, và khóa đặt ở vị trí thật cao hoặc thật thấp. Đừng bao giờ khóa người thân ở trong nhà một mình.
-- Một tấm ảnh chụp gần, mới, và danh sách những nơi người thân có thể đến, chẳng hạn ngôi nhà cũ hoặc nơi từng làm việc.
-- Báo cho những người hàng xóm đáng tin cậy và để lại số điện thoại của bạn cho họ.
+- Một vòng tay ID hoặc y tế có tên của họ và số điện thoại của bạn, và nhãn trong quần áo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nhắc đến chương trình MedicAlert và Safe and Found của Alzheimer's Association, có thể tốn tiền.
+- Chuông cửa hoặc báo động, và khóa đặt cao hoặc thấp. Không bao giờ khóa người đó lại một mình.
+- Một bức ảnh cận cảnh mới, và danh sách những nơi họ có thể đi, chẳng hạn như ngôi nhà cũ hoặc nơi làm việc cũ.
+- Nói với những người hàng xóm đáng tin cậy, và cho họ số của bạn.
 
-**Nếu người thân mất tích:** hãy bắt đầu tìm ngay; Alzheimer's Association cho biết nhiều người được tìm thấy trong phạm vi 1,5 dặm (khoảng 2,4 km). Nếu sau 15 phút bạn vẫn chưa tìm thấy, hãy gọi số khẩn cấp địa phương (ở Mỹ là 911; ở Việt Nam, 113 là công an) và nói rõ rằng người đó bị sa sút trí tuệ. Hãy gọi ngay nếu có ai đang gặp nguy hiểm.
+**Nếu họ mất tích:** hãy kiểm tra những nơi an toàn gần đó trong khi liên hệ kịp thời với cảnh sát địa phương hoặc dịch vụ khẩn cấp. Đừng chờ một số phút nhất định trước khi báo cáo. Một [bài viết tạp chí năm 2021 của U.S. Department of Justice về điều tra người mất tích](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) nói rằng các cơ quan thực thi pháp luật không nên yêu cầu thời gian chờ cố định; nó cũng liệt kê các triệu chứng giống chứng mất trí nhớ là mối lo ngại có nguy cơ cao. Quy trình báo cáo tại địa phương khác nhau. Hãy nói với người ứng cứu rằng người đó mắc chứng mất trí nhớ, chia sẻ vị trí cuối cùng được biết và một bức ảnh mới, và làm theo hướng dẫn của họ. Nếu có người hỗ trợ khác, hãy nhờ họ ở bên điện thoại. Đừng đi tìm ở những nơi không an toàn một mình.
 
 ## Khi nào nên gọi bác sĩ?
 
-Hãy gọi bác sĩ của người thân sớm nếu việc đòi về hoặc sự lú lẫn bắt đầu đột ngột, hoặc nặng lên nhiều trong vài giờ hay vài ngày. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) cho biết hành vi thay đổi đột ngột hoặc nhanh chóng, nhất là sau một đợt nhiễm trùng hay khi đổi thuốc, cần được kiểm tra ngay. Lú lẫn đột ngột có thể là mê sảng (delirium), mà [NHS](https://www.nhs.uk/symptoms/confusion/) cho biết cần được giúp đỡ khẩn cấp; nhiễm trùng đường tiết niệu là nguyên nhân thường gặp ở người lớn tuổi.
+Hãy gọi bác sĩ kịp thời nếu việc đòi về nhà hoặc lú lẫn bắt đầu đột ngột, hoặc nặng hơn nhiều trong vài giờ hoặc vài ngày. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nói rằng hành vi đột ngột hoặc thay đổi nhanh chóng, đặc biệt sau nhiễm trùng hoặc thay đổi thuốc, nên được kiểm tra ngay. Lú lẫn đột ngột có thể là mê sảng, mà [NHS](https://www.nhs.uk/symptoms/confusion/) nói cần được giúp đỡ khẩn cấp; nhiễm trùng đường tiết niệu là một nguyên nhân phổ biến ở người lớn tuổi.
 
-Cũng nên nhắc đến một quy luật lặp đi lặp lại trong lần khám tiếp theo, vì đau, tâm trạng thấp, rối loạn giấc ngủ hay tác dụng phụ của thuốc đều có thể góp phần.
+Việc nhắc đến một kiểu mẫu ổn định ở lần hẹn tiếp theo cũng giúp ích, vì đau, tâm trạng thấp, vấn đề giấc ngủ hoặc tác dụng phụ của thuốc đều có thể đóng vai trò.

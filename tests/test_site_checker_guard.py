@@ -22,6 +22,12 @@ class SiteCheckerGuardTests(unittest.TestCase):
         self.assertIn("descriptionWidth < 50 || descriptionWidth > 360", checker)
         self.assertIn("descriptionWidth < 70 || descriptionWidth > 170", checker)
 
+    def test_guide_patient_word_gate_checks_visible_frontmatter(self):
+        checker = (ROOT / "site/scripts/check-guide-translation.py").read_text(encoding="utf-8")
+
+        self.assertIn("shown = visible_copy(front, body)", checker)
+        self.assertIn("if banned and re.search(banned, shown):", checker)
+
 
 if __name__ == "__main__":
     unittest.main()

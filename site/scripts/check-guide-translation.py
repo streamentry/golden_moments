@@ -263,7 +263,7 @@ def check(code: str, rel: str, translated_path: Path | None = None) -> tuple[lis
         errors.append('numbers added without an explicit emergency number in English')
     elif visible_numbers(source_copy) != visible_numbers(translated_copy):
         warnings.append('numbers in visible text differ from English')
-    shown = ' '.join(str(front.get(k, '')) for k in ('title', 'seoTitle', 'description', 'summary')) + body
+    shown = visible_copy(front, body)
     if '!' in shown or '！' in shown:
         warnings.append('exclamation mark')
     banned = PATIENT_WORDS.get(code)
