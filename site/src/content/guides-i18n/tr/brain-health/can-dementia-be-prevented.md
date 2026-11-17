@@ -1,36 +1,36 @@
 ---
-title: "Demans Önlenebilir mi? Araştırmalar Ne Söylüyor"
-seoTitle: "Demans Önlenebilir mi? Araştırmalar Ne Diyor"
-description: "2024 Lancet Komisyonu’nun ve büyük çalışmaların demans riskini azaltma konusunda ne bulduğu, ne bulamadığı ve doktorla konuşulabilecek adımlar."
+title: "Demans Önlenebilir mi? Araştırmalar Ne Diyor"
+seoTitle: "Demans Önlenebilir mi? Araştırma Ne Diyor"
+description: "2024 Lancet Komisyonu ve büyük çalışmaların demans riskini azaltma konusunda ne bulduğu, ne bulamadığı ve bir doktorla görüşülebilecek adımlar."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hiç kimse demansı önleyeceğini vaat edemez. 2024 Lancet Komisyonu, dünya
-  genelindeki demans vakalarının yaklaşık yarısının, yüksek tansiyon, işitme
-  kaybı ve hareketsizlik gibi, değiştirilebilme potansiyeli olan 14 risk
-  faktörüyle ilişkili olduğunu tahmin etti. Çalışmalar düşünme testlerinde
-  küçük etkiler gösteriyor; daha az demans vakası görüldüğüne dair bir kanıt
-  sunmuyor. “Her şeyi doğru yapan” pek çok kişi yine de demansa yakalanıyor
-  ve bu kimsenin suçu değil.
+  Hiç kimse demansı önleyebileceğini vaat edemez. 2024 Lancet Komisyonu, dünya
+  genelindeki demans vakalarının yaklaşık yarısının yüksek tansiyon, işitme
+  kaybı ve hareketsizlik gibi potansiyel olarak değiştirilebilir 14 risk
+  faktörüyle bağlantılı olduğunu tahmin etti. Çalışmalar, daha az demans vakası
+  olduğuna dair kanıt değil, düşünme testlerinde küçük etkiler gösteriyor. Her
+  şeyi “doğru” yapan birçok kişi hâlâ demans geliştiriyor ve bu hiç kimsenin
+  suçu değil.
 keyPoints:
-  - "2024 Lancet Komisyonu, dünya genelindeki demans vakalarının yaklaşık %45’ini, değiştirilebilme potansiyeli olan 14 risk faktörüyle ilişkilendirdi. Bu bir toplum tahminidir, kişisel bir garanti değildir."
-  - "Riski azaltmak, tüm bir toplumda ihtimalleri düşürmek demektir. Tek bir kişinin demanstan kaçınabileceği anlamına gelmez."
-  - "FINGER, US POINTER ve SPRINT MIND gibi büyük çalışmalar düşünme testlerinde ya da hafif bilişsel bozuklukta küçük yararlar buldu; ancak hiçbiri bir yaşam tarzı programının demansı önlediğini kanıtlamadı."
-  - "Yaş, Alzheimer için bilinen en büyük risk faktörüdür ve değiştirilemez. Sağlıklı alışkanlıkları olan pek çok kişi yine de demansa yakalanıyor."
-  - "En çok incelenen adımlar; yüksek tansiyonu tedavi ettirmek, işitme cihazı kullanmak ve hareketli kalmak gibi; sağlığa başka yönlerden de yardımcı olduğu için bir doktorla konuşmaya değer."
+  - "2024 Lancet Komisyonu, dünya genelindeki demans vakalarının yaklaşık %45'ini potansiyel olarak değiştirilebilir 14 risk faktörüyle ilişkilendirdi. Bu, kişisel bir garanti değil, nüfus düzeyinde bir tahmindir."
+  - "Risk azaltma, tüm bir nüfusta olasılığı düşürmek anlamına gelir. Bu, herhangi bir kişinin demanstan kaçınabileceği anlamına gelmez."
+  - "FINGER, US POINTER ve SPRINT MIND gibi büyük çalışmalar, düşünme testlerinde veya hafif bilişsel bozuklukta küçük faydalar buldu; ancak hiçbiri bir yaşam tarzı programının demansı önlediğini kanıtlamadı."
+  - "Yaş, Alzheimer için bilinen en büyük risk faktörüdür ve değiştirilemez. Sağlıklı alışkanlıkları olan birçok kişi hâlâ demans geliştiriyor."
+  - "En sık incelenen adımlar —yüksek tansiyonu tedavi etmek, işitme cihazı kullanmak ve aktif kalmak— bir doktorla görüşmeye değer, çünkü sağlığa başka yollarla da yardımcı olurlar."
 faq:
   - q: "Demans önlenebilir mi?"
-    a: "Tek bir kişi için demansı önlemenin kanıtlanmış bir yolu yoktur. Araştırmalar; yüksek tansiyon, tedavi edilmemiş işitme kaybı ve sigara gibi belirli riskleri azaltmanın, bir toplumda demans ihtimalini düşürebileceğini ya da başlangıcını geciktirebileceğini düşündürüyor. Bunlar ihtimallerdir, vaat değildir."
-  - q: "Lancet Komisyonu’nun %45 rakamı ne anlama geliyor?"
-    a: "2024 Lancet Komisyonu, dünya genelindeki demans vakalarının yaklaşık %45’inin, kuramsal olarak değiştirilebilecek 14 risk faktörüyle ilişkili olduğunu tahmin etti. Tahmin, bu faktörlerin demansa yol açtığını varsayıyor; yazarlar bazı bağlantıların yalnızca kısmen nedensel olabileceğini belirtiyor. Rakam bütün toplumları tanımlıyor ve herhangi bir bireyin riskini göstermiyor."
-  - q: "Annem ya da babam sağlıklı bir yaşam sürdüyse neden demansa yakalandı?"
-    a: "Yaş, genler ve kimsenin denetleyemediği pek çok etken demansta büyük rol oynar. Lancet Komisyonu’nun yazarları, bir toplumda riski azaltmanın herhangi bir bireyin demanstan kaçınacağını garanti etmediğini belirtiyor. Bir tanı, kimsenin başarısız olduğunu göstermez."
-  - q: "65 yaşından sonra demans riskini azaltmak için çok geç midir?"
-    a: "Lancet Komisyonu, kanıtların büyük bölümü orta yaşla ilgili olsa da riski azaltmak için hiçbir zaman çok erken ya da çok geç olmadığını söylüyor. İşitme ve görme sorunlarını tedavi ettirmek, hareketli kalmak ve insanlarla bağlantıyı sürdürmek, incelenmiş ileri yaş adımlarına örneklerdir. Sağlığınıza neyin uyduğunu bir doktorla konuşun."
-  - q: "Beyin oyunları ya da özel diyetler demansı önler mi?"
-    a: "Hiçbir oyunun, yiyeceğin, takviyenin ya da diyetin demansı önlediği kanıtlanmadı. MIND diyetiyle yapılan üç yıllık bir çalışma, düşünmede kontrol diyetine kıyasla anlamlı bir fark bulmadı ve ticari beyin eğitimi uygulamalarının araştırma çalışmalarında görülen etkilere sahip olduğu gösterilmedi."
+    a: "Herhangi bir kişi için demansı önlemenin kanıtlanmış bir yolu yoktur. Araştırmalar, yüksek tansiyon, tedavi edilmemiş işitme kaybı ve sigara içme gibi belirli riskleri azaltmanın, bir nüfusta demans olasılığını düşürebileceğini veya başlangıcını geciktirebileceğini öne sürüyor. Bunlar vaat değil, olasılıklardır."
+  - q: "Lancet Komisyonu'nun %45 rakamı ne anlama geliyor?"
+    a: "2024 Lancet Komisyonu, dünya genelindeki demans vakalarının yaklaşık %45'inin kuramsal olarak değiştirilebilecek 14 risk faktörüyle bağlantılı olduğunu tahmin etti. Bu tahmin, söz konusu faktörlerin demansa yol açtığını varsayar; yazarlara göre bazı bağlantılar yalnızca kısmen nedensel olabilir. Bu rakam tüm nüfusları anlatır ve herhangi bir kişinin riskini göstermez."
+  - q: "Ebeveynim sağlıklı bir yaşam sürdüyse neden demans gelişti?"
+    a: "Yaş, genler ve hiç kimsenin kontrol edemeyeceği birçok faktör demansta büyük rol oynar. Lancet Komisyonu'nun yazarları, bir nüfusta riski azaltmanın herhangi bir kişinin demansı önleyeceğini garanti etmediğini belirtiyor. Bir tanı, birinin başarısız olduğunun işareti değildir."
+  - q: "65 yaşından sonra demans riskini azaltmak için çok mu geç?"
+    a: "Lancet Komisyonu, riski azaltmak için hiçbir zaman çok erken veya çok geç olmadığını söylüyor; ancak kanıtların büyük kısmı orta yaşla ilgilidir. İşitme ve görme sorunlarını tedavi ettirmek, aktif kalmak ve insanlarla iletişimde kalmak, ileri yaşlarda incelenen adımlara örnektir. Sağlığınıza uygun olanı bir doktorla görüşün."
+  - q: "Beyin oyunları veya özel diyetler demansı önler mi?"
+    a: "Hiçbir oyun, yiyecek, takviye veya diyetin demansı önlediği kanıtlanmış değildir. MIND diyeti üzerinde yapılan üç yıllık bir çalışma, kontrol diyetiyle karşılaştırıldığında düşünme açısından anlamlı bir fark bulmadı ve ticari beyin antrenmanı uygulamalarının araştırma çalışmalarında görülen etkilere sahip olduğu gösterilmedi."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -64,124 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-Demansı olan birine bakıyorsanız ya da bir ebeveynin onunla yaşadığını izlediyseniz, bunun engellenip engellenemeyeceğini ve aynısının sizin başınıza gelmesini engelleyip engelleyemeyeceğinizi muhtemelen merak etmişsinizdir. Bu sayfa, araştırmaların gerçekte ne söylediğini sade bir dille ortaya koyuyor. Kısa cevap şu: Hiç kimse demansı önleyeceğini vaat edemez, ancak araştırmalar bazı risklerin azaltılabileceğini ve bunları bir toplumda azaltmanın, daha az kişinin demansa yakalanması ya da daha geç yakalanması anlamına gelebileceğini düşündürüyor.
+Bir demansla yaşayan kişiye bakım veriyorsanız veya bir ebeveyninizin demansla yaşadığını gördüyseniz, bunun önlenip önlenemeyeceğini ve sizin de demans geliştirip geliştirmeyeceğinizi merak etmiş olabilirsiniz. Bu sayfa, araştırmaların aslında ne söylediğini sade bir dille anlatıyor. Kısa cevap: hiç kimse demansı önleyebileceğini vaat edemez; ancak araştırmalar bazı risklerin azaltılabileceğini ve bunların bir nüfusta azaltılmasının daha az kişinin demans geliştirmesi veya demansın daha geç başlaması anlamına gelebileceğini öne sürüyor.
 
-Bu, genel bilgidir; tıbbi tavsiye değildir. Lütfen [tıbbi sorumluluk reddimizi](/medical-disclaimer/) okuyun ve kendi sağlığınız hakkında bir doktorla konuşun.
+Bu bilgiler genel bilgidir, tıbbi tavsiye değildir. Lütfen [tıbbi uyarımızı](/medical-disclaimer/) okuyun ve kendi sağlığınız hakkında bir doktorla görüşün.
 
 ## Demans önlenebilir mi?
 
-Tek bir kişi için demansı önlemenin kanıtlanmış bir yolu yoktur. National Institute on Aging (NIA), [Alzheimer’ı önlediği henüz hiçbir şeyin kanıtlanmadığını](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) söylerken, araştırmacıların umut verici stratejiler bulduğunu ve neyin işe yarayıp neyin yaramayabileceğini öğrenmekte olduklarını belirtiyor.
+Tek bir kişi için demansı önlemenin kanıtlanmış bir yolu yoktur. Ulusal Yaşlanma Enstitüsü (NIA), [Alzheimer'ı önlemeye yönelik henüz hiçbir şeyin kanıtlanmadığını](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) belirtiyor; bununla birlikte araştırmacılar umut verici stratejiler buldu ve neyin işe yarayıp yaramayabileceğini öğrenmeye devam ediyor.
 
-Araştırmaların *gösterdiği* şey, belirli sağlık durumlarının ve alışkanlıkların daha yüksek demans ihtimaliyle ilişkili olduğudur. Bu riskler bütün bir toplumda düşük olduğunda, daha az kişi demansa yakalanabilir ya da hayatın daha ileri bir döneminde yakalanabilir. Bu, bir garantiden çok farklıdır.
+Araştırmaların *aslında* gösterdiği şey, belirli sağlık durumlarının ve alışkanlıkların demans olasılığının artmasıyla bağlantılı olduğudur. Bu riskler tüm bir nüfusta azaldığında, daha az kişi demans geliştirebilir veya demans daha ileri yaşlarda ortaya çıkabilir. Bu, bir garantiden çok farklıdır.
 
-Umut verici bir işaret: 2024 Lancet Komisyonu, ABD ve Birleşik Krallık dahil bazı yüksek gelirli ülkelerde demansı olan yaşlıların oranının düştüğünü bildirdi. [University College London’ın rapor özetine](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) göre yazarlar bunun muhtemelen kısmen daha iyi eğitimden, daha iyi sağlık hizmetinden ve yaşam boyunca kan damarlarının daha az hasar görmesinden kaynaklandığını düşünüyor.
+Umut verici bir işaret: 2024 Lancet Komisyonu, ABD ve Birleşik Krallık da dâhil bazı yüksek gelirli ülkelerde yaşlı nüfus içinde demans görülen kişilerin oranının düştüğünü bildirdi. [University College London'ın rapor özetine](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) göre yazarlar, bunun büyük olasılıkla kısmen daha iyi eğitim, daha iyi sağlık hizmetleri ve yaşam boyunca kan damarlarında daha az hasardan kaynaklandığını düşünüyor.
 
 ## 2024 Lancet Komisyonu ne buldu?
 
-Demans önleme, müdahale ve bakım konulu Lancet Komisyonu, kanıtları birkaç yılda bir gözden geçiren 27 demans araştırmacısından oluşan bir gruptur. 2024 raporları, değiştirilebilme potansiyeli olan **14 risk faktörü** belirledi ve bunların birlikte **dünya genelindeki demans vakalarının yaklaşık yarısından (yaklaşık %45)** sorumlu olduğunu tahmin etti. Yazarların ifadesiyle, riskler ortadan kaldırılsaydı bu vakalar *kuramsal olarak* önlenebilir ya da ertelenebilirdi ([2024 Lancet Komisyonu raporu](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Demansın önlenmesi, müdahalesi ve bakımı üzerine çalışan Lancet Komisyonu, birkaç yılda bir kanıtları gözden geçiren 27 demans araştırmacısından oluşuyor. 2024 raporunda potansiyel olarak değiştirilebilen **14 risk faktörünü** adlandırdı ve bunların birlikte **dünya genelindeki demans vakalarının yaklaşık yarısını (yaklaşık %45'ini)** oluşturduğunu tahmin etti. Yazarların ifadesiyle, bu vakalar riskler ortadan kaldırılsaydı *kuramsal olarak* önlenebilir veya geciktirilebilirdi ([2024 Lancet Komisyonu raporu](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Kanıtların en güçlü olduğu yaşam evresine göre gruplanmış 14 faktör:
+14 faktör, kanıtın en güçlü olduğu yaşam evresine göre gruplandırıldı:
 
-- **Erken yaşam:** daha az eğitim.
-- **Orta yaş (kabaca 40 ile 65 yaş arası):** işitme kaybı, yüksek LDL (“kötü”) kolesterol, depresyon, kafa travması, fiziksel hareketsizlik, diyabet, sigara, yüksek tansiyon, obezite ve aşırı alkol kullanımı.
-- **İleri yaş:** sosyal yalnızlık, hava kirliliği ve tedavi edilmemiş görme kaybı.
+- **İlk yaşam dönemi:** daha az eğitim.
+- **Orta yaş (yaklaşık 40 ila 65 yaş):** işitme kaybı, yüksek LDL (“kötü”) kolesterol, depresyon, kafa travması, fiziksel hareketsizlik, diyabet, sigara içme, yüksek tansiyon, obezite ve aşırı alkol tüketimi.
+- **İleri yaş:** sosyal izolasyon, hava kirliliği ve tedavi edilmemiş görme kaybı.
 
-2024’teki en yeni iki ek, yüksek LDL kolesterol ve tedavi edilmemiş görme kaybıydı. Vakaların en büyük payıyla ilişkili faktörler işitme kaybı ve yüksek LDL kolesterol (her biri yaklaşık %7) oldu; bunları daha az eğitim ve sosyal yalnızlık (her biri yaklaşık %5) izledi.
+2024'te eklenen iki yeni faktör yüksek LDL kolesterol ve tedavi edilmemiş görme kaybıydı. En fazla vaka payıyla ilişkilendirilen faktörler işitme kaybı ve yüksek LDL kolesterol oldu (her biri yaklaşık %7), ardından daha az eğitim ve sosyal izolasyon geldi (her biri yaklaşık %5).
 
-[Risk faktörleri rehberimiz](/brain-health/risk-factors/), 14 faktörün hepsini bir tabloda, araştırmaların neyi ilişkilendirdiği ve sizin neler yapabileceğinizle birlikte ele alıyor.
+[Risk faktörleri kılavuzumuz](/brain-health/risk-factors/) 14 faktörün tamamını bir tabloda ele alıyor; araştırmanın neyi ilişkilendirdiğini ve neler yapabileceğinizi gösteriyor.
 
-### %45 rakamının ne anlama gelmediği
+### %45 rakamının anlamına gelmediği şeyler
 
-Bu rakamı yanlış anlamak kolaydır; bu yüzden kesin olmakta fayda var:
+Bu rakamı yanlış anlamak kolaydır, bu yüzden açık olmakta fayda var:
 
-- **Bu bir toplum tahminidir.** Sizin ya da ebeveyninizin ihtimallerini değil, dünya genelindeki demans vakalarını tanımlar.
-- **Neden ve sonuç ilişkisi varsayar.** Yazarlar yalnızca ikna edici kanıtı olan risk faktörlerini dahil ettiklerini, ancak bazı bağlantıların yalnızca kısmen nedensel olabileceğini söylüyor. Örneğin ileri yaştaki depresyon, bazen demansın nedeni olmaktan çok erken bir belirtisi olabilir.
-- **Tek bir kişi için hiçbir şeyi garanti etmez.** UCL özeti, riski azaltmanın bir toplum düzeyinde işlediğini ve herhangi bir bireyin demanstan kaçınacağını garanti etmediğini belirtiyor.
-- **Diğer yarı bu faktörlerle açıklanmıyor.** Geri kalanı yaş, genler ve bilim insanlarının henüz anlamadığı nedenler oluşturuyor.
+- **Bu, nüfus düzeyinde bir tahmindir.** Dünya genelindeki demans vakalarını anlatır; sizin veya ebeveyninizin olasılığını değil.
+- **Nedensellik varsayar.** Yazarlar, yalnızca inandırıcı kanıtı olan risk faktörlerini dâhil ettiklerini, ancak bazı bağlantıların yalnızca kısmen nedensel olabileceğini söylüyor. Örneğin, ileri yaşta depresyon bazen bir neden değil, demansın erken bir belirtisi olabilir.
+- **Tek bir kişi için hiçbir şey garanti etmez.** UCL özeti, risk azaltmanın nüfus düzeyinde işe yaradığını ve herhangi bir kişinin demansı önleyeceğini garanti etmediğini belirtiyor.
+- **Diğer yarısı bu faktörlerle açıklanmıyor.** Geri kalanı yaş, genler ve biliminsanlarının henüz anlamadığı nedenler oluşturuyor.
 
-## “Riski azaltma” ile “önleme” arasındaki fark nedir?
+## “Risk azaltma” ile “önleme” arasındaki fark nedir?
 
-**Riski azaltma**, ihtimalleri düşürmek demektir. Büyük bir grup insan tansiyonunu düşürürse, uzun yıllar içinde demansa yakalanan kişi sayısı, aksi hâlde olacağından daha az olabilir. O gruptaki bazı bireyler yine de demansa yakalanacaktır.
+**Risk azaltma**, olasılığı düşürmek anlamına gelir. Büyük bir grup insan tansiyonunu düşürürse, yıllar içinde bu kişilerin daha azı demans geliştirebilir. Yine de o gruptaki bazı kişiler demans geliştirecektir.
 
-**Önleme**, bir şeyin hiç olmamasını akla getirir. Demans için bu, bugün araştırmaların kimseye vaat edebileceği bir şey değildir.
+**Önleme** ise bir şeyin hiç olmasını engellemeyi anlatır. Demans söz konusu olduğunda, araştırmalar bugün hiç kimseye bunu vaat edemez.
 
-Araştırmacılar **gecikmeden** de söz ediyor. Lancet Komisyonu, riski azaltmanın demansın başlangıcını geriye itebileceğine ve kişinin sağlıksız geçirdiği süreyi kısaltabileceğine dair yeni kanıtlar bildiriyor. Birkaç yıllık bir gecikme bile bir kişi ve ailesi için çok önemli olabilir.
+Araştırmacılar **geciktirme**den de söz ediyor. Lancet Komisyonu, risk azaltmanın demansın başlangıcını erteleyebileceğine ve bir kişinin sağlıksızlık içinde geçirdiği süreyi kısaltabileceğine dair yeni kanıtlar bildiriyor. Birkaç yıllık bir gecikme bile kişi ve ailesi için çok şey ifade edebilir.
 
-Bu sitede “riski düşürmek” ve “ile ilişkili” ifadelerini bilerek kullanıyoruz. “Alzheimer’ı önlediğini” vaat eden bir ürün, takviye ya da programla karşılaştığınızda dikkatli olun. NIA, Alzheimer’ı önlemeyi vaat eden herhangi bir hapı ya da tedaviyi denemeden önce bir doktora danışmayı öneriyor; çünkü bu tür ürünler güvenli olmayabilir, paranın boşa gitmesine yol açabilir ya da her ikisi olabilir.
+Bu sitede “riski azaltma” ve “bağlantılı” ifadelerini bilinçli olarak kullanıyoruz. “Alzheimer'ı önleyeceğini” vaat eden bir ürün, takviye veya program gördüğünüzde dikkatli olun. NIA, Alzheimer'ı önleyeceğini vaat eden bir hap veya tedaviyi denemeden önce bir doktora danışmanızı öneriyor; çünkü bu ürünler güvenli olmayabilir, para kaybı olabilir veya her ikisi birden olabilir.
 
 ## Büyük çalışmalar ne buldu?
 
-Gözlemsel çalışmalar (zaman içinde insanlara ne olduğunu izleyenler) bağlantıları gösterebilir. İnsanların bir programa ya da karşılaştırma grubuna rastgele atandığı randomize çalışmalar ise daha güçlü bir sınamadır. İşte en bilinen çalışmalardan bazılarının bulguları.
+Gözlemsel çalışmalar (zaman içinde insanlara ne olduğunu izleyen çalışmalar) bağlantıları gösterebilir. Randomize çalışmalarda ise kişiler bir programa veya karşılaştırma grubuna rastgele atanır; bunlar daha güçlü bir sınamdır. En iyi bilinen çalışmalardan bazılarının bulguları şöyle.
 
 ### FINGER (Finlandiya)
 
-FINGER çalışması, demans riski daha yüksek olan 60 ile 77 yaş arası 1.260 yetişkini kapsadı. Yarısı iki yıl boyunca beslenme önerileri, egzersiz, bilgisayarlı beyin egzersizleri ile kalp ve damar sağlığı kontrollerinden oluşan bir program aldı; diğer yarısı genel sağlık önerileri aldı. Program grubu bir dizi düşünme testinde biraz daha iyi sonuç aldı; bu küçük ama istatistiksel olarak anlamlı bir farktı ([The Lancet’te FINGER çalışması](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Çalışma demans tanılarını değil, test sonuçlarını ölçtü.
+FINGER çalışmasına demans riski daha yüksek olan 60 ila 77 yaşındaki 1.260 yetişkin katıldı. Yarısı iki yıllık bir program kapsamında diyet önerileri, egzersiz, bilgisayarlı beyin egzersizleri ve kalp ile kan damarı sağlığı kontrolleri aldı; diğer yarısı genel sağlık önerileri aldı. Program grubu bir dizi düşünme testinde biraz daha iyi performans gösterdi; bu küçük ama istatistiksel olarak anlamlı bir farktı ([The Lancet'te FINGER çalışması](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Çalışma, demans tanılarını değil test sonuçlarını ölçtü.
 
 ### US POINTER (Amerika Birleşik Devletleri)
 
-US POINTER, hareketsiz olan, daha az sağlıklı beslenen ve başka risk faktörleri bulunan 60 ile 79 yaş arası 2.111 yetişkini kapsadı. Her iki gruba da fiziksel ve zihinsel olarak daha etkin olmaları, daha iyi beslenmeleri, sosyal kalmaları ve kalp sağlığını izlemeleri önerildi. Bir gruba yapılandırılmış, koçluk destekli bir program verildi; diğeri kendi kendini yönlendirdi. İki yıl boyunca düşünme testi sonuçları **her iki** grupta da iyileşti, yapılandırılmış grupta biraz daha fazla ([JAMA’da US POINTER çalışması](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Yazarlar, farkın günlük yaşamda önemli olup olmadığını bilmek için daha fazla izleme gerektiğini söylüyor. “Hiçbir şey yapmayan” bir grup olmadığı için çalışma, hiç değişiklik yapmamaya kıyasla iki programdan birinin ne kadar yardımcı olduğunu söyleyemez.
+US POINTER çalışmasına hareketsiz olan, daha az sağlıklı bir diyeti olan ve başka risk faktörleri bulunan 60 ila 79 yaşındaki 2.111 yetişkin katıldı. Her iki grup da daha fiziksel ve zihinsel olarak aktif olmaya, daha iyi yemek yemeye, sosyal kalmaya ve kalp sağlığını izlemeye teşvik edildi. Bir grup yapılandırılmış, koçluk edilen bir program aldı; diğeri kendi kendini yönlendirdi. İki yıl boyunca düşünme testi sonuçları **her iki** grupta da iyileşti ve yapılandırılmış grupta biraz daha fazla oldu ([JAMA'da US POINTER çalışması](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Yazarlar, farkın günlük yaşamda önemli olup olmadığını anlamak için daha fazla takip gerektiğini söylüyor. “Hiçbir şey yapmayan” bir grup olmadığı için çalışma, iki programın hiçbir değişiklik yapılmamasına kıyasla ne kadar yardımcı olduğunu söyleyemez.
 
-### SPRINT MIND (tansiyon)
+### SPRINT MIND (kan basıncı)
 
-SPRINT MIND, yüksek tansiyonu olan 50 yaş ve üstü 9.361 ABD’li yetişkini inceledi. Bu kişiler daha düşük bir tansiyon hedefine (üst değer 120’nin altı) ya da standart hedefe (140’ın altı) atandı. Daha düşük hedef, demansın öncesinde görülebilen bir bellek ve düşünme sorunları evresi olan **hafif bilişsel bozukluğu** anlamlı ölçüde azalttı. **Olası demans** için daha düşük hedef grubunda daha az vaka vardı, ancak fark istatistiksel olarak anlamlı değildi. Çalışma erken durdu ve beklenenden daha az demans vakası vardı; bu nedenle bu soruyu yanıtlamak için fazla küçük olmuş olabilir ([JAMA’da SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND, yüksek tansiyonu olan 50 yaş ve üzeri 9.361 ABD yetişkinini inceledi. Katılımcılar daha düşük bir tansiyon hedefi (üst sayı 120'nin altında) veya standart hedef (140'ın altında) grubuna atandı. Daha düşük hedef, **hafif bilişsel bozukluğu** önemli ölçüde azalttı; bu, demanstan önce gelebilen bir bellek ve düşünme sorunları evresidir. **Olası demans** açısından, daha düşük hedef grubunda daha az vaka vardı; ancak fark istatistiksel olarak anlamlı değildi. Çalışma erken sonlandırıldı ve beklenenden daha az demans vakası görüldü; bu nedenle bu soruyu yanıtlamak için çok küçük olabilir ([JAMA'da SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### Derlemelerin toplamda söylediği
+### Derlemeler toplu olarak ne gösteriyor
 
-2021 tarihli bir Cochrane derlemesi, aynı anda birkaç riske yönelen programların dokuz büyük çalışmasını, 18.000’den fazla kişiyle birlikte bir araya getirdi. Düşünme testlerinde küçük bir yarar buldu; ancak bunu ölçen iki çalışmada **kaç kişinin demansa yakalandığı konusunda iki grup arasında açık bir fark yoktu** ([çok alanlı müdahalelerin Cochrane derlemesi](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 tarihli bir Cochrane derlemesi, aynı anda birkaç riski ele alan dokuz büyük çalışmayı, 18.000'den fazla kişiyi kapsayacak şekilde bir araya getirdi. Düşünme testlerinde küçük bir fayda buldu; ancak bunu ölçen iki çalışmada **demans geliştiren kişi sayısında belirgin bir fark** görmedi ([Çok alanlı müdahalelerin Cochrane derlemesi](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-NIA’nın özetlediği, National Academies of Sciences, Engineering, and Medicine’in 2017 tarihli bir derlemesi, üç yaklaşım için “cesaret verici ama sonuçsuz” kanıt buldu: yüksek tansiyonu yönetmek, fiziksel etkinliği artırmak ve bilişsel eğitim.
+NIA tarafından özetlenen, Ulusal Bilim, Mühendislik ve Tıp Akademileri'nin 2017 tarihli bir derlemesi, üç yaklaşım için “umut verici ama kesin olmayan” kanıtlar buldu: yüksek tansiyonu yönetmek, fiziksel aktiviteyi artırmak ve bilişsel eğitim.
 
 ## Ne zaman başladığınız önemli mi?
 
-Lancet Komisyonu’nun önerisi, riskleri mümkün olan en erken zamanda azaltmak ve mümkün olduğunca uzun süre düşük tutmaktır: “ne kadar erken, o kadar iyi” ve “ne kadar uzun, o kadar iyi.” Ayrıca riski azaltmak için hiçbir zaman çok erken ya da çok geç olmadığını söylüyor. Kanıtların büyük bölümü kabaca 40 ile 65 yaş arası orta yaşla ilgili; ancak görme kaybı ve sosyal yalnızlık gibi bazı faktörler, harekete geçmenin hâlâ anlamlı olabileceği ileri yaş riskleridir.
+Lancet Komisyonu'nun önerisi, riskleri mümkün olduğunca erken azaltmak ve mümkün olduğunca uzun süre düşük tutmak: “ne kadar erken, o kadar iyi” ve “ne kadar uzun, o kadar iyi.” Ayrıca riski azaltmak için hiçbir zaman çok erken veya çok geç olmadığını söylüyor. Kanıtların büyük kısmı orta yaş, yaklaşık 40 ila 65 yaş ile ilgilidir; ancak görme kaybı ve sosyal izolasyon gibi bazı faktörler ileri yaş riskleridir ve bu dönemde de harekete geçmek anlamlı olabilir.
 
-Rapor, bir riske daha uzun süre maruz kalmanın daha büyük bir etkisi olduğuna dair artık daha güçlü kanıt bulunduğunu söylüyor. Örneğin orta yaşta başlayan diyabet, daha geç başlayan diyabetten daha önemli görünüyor.
+Raporda, bir risk faktörüne daha uzun süre maruz kalmanın daha büyük etkisi olduğuna dair artık daha güçlü kanıtlar bulunduğu belirtiliyor. Örneğin, orta yaşta başlayan diyabet, daha sonra başlayan diyabetten daha önemli görünüyor.
 
 ## Demans riski herkes için aynı mı?
 
-Hayır. Komisyon, düşük ve orta gelirli ülkelerdeki insanların, azınlık gruplarından insanların ve parası daha az olan insanların bu risklerin daha fazlasını taşıdığını, dolayısıyla demansın daha genç yaşta gelişme eğiliminde olduğunu buldu. Risklerin çoğu, insanların seçmediği koşullara bağlıdır: çocukken aldıkları eğitimin kalitesi, yaşadıkları yerdeki hava ve sağlıklı yiyeceğin uygun fiyatlı ve yakında olup olmadığı gibi.
+Hayır. Komisyon, düşük ve orta gelirli ülkelerde yaşayan kişilerin, azınlık gruplarından kişilerin ve daha az geliri olan kişilerin bu riskleri genellikle daha fazla taşıdığını ve bu nedenle demansın daha genç yaşlarda gelişme eğiliminde olduğunu buldu. Birçok risk, kişilerin seçmediği koşullara bağlıdır; örneğin çocukken aldıkları eğitimin niteliği, yaşadıkları yerdeki hava ve sağlıklı gıdanın uygun fiyatlı ve yakın olup olmadığı.
 
-Komisyon’un önerilerinin bireylere olduğu kadar hükümetlere de yönelmesinin nedeni budur: tüm çocuklar için iyi eğitim, daha temiz hava, sigarayı azaltmaya yönelik önlemler, mağazalarda ve restoranlarda satılan yiyeceklerde daha az şeker ve tuz, ihtiyacı olan herkes için işitme cihazı. Bireysel çaba önemlidir, ancak insanların yaşadığı dünya da önemlidir. Bu, bir tanı için kimseyi suçlamamanın bir başka nedenidir.
+Bu nedenle Komisyon'un önerileri kişiler kadar hükümetleri de hedefliyor: tüm çocuklar için iyi eğitim, daha temiz hava, sigara içmeyi azaltmaya yönelik önlemler, mağazalarda ve restoranlarda satılan gıdalarda daha az şeker ve tuz ve ihtiyacı olan herkes için işitme cihazları. Bireysel çaba önemlidir; insanların yaşadığı dünya da önemlidir. Bu, bir tanı yüzünden hiç kimseyi suçlamamak için bir neden daha.
 
 ## Bu araştırmanın dürüst sınırları nelerdir?
 
-- **Demansın gelişmesi onlarca yıl alır**, ancak çoğu çalışma iki ile beş yıl sürer. Yalnızca test sonuçlarını değil, demansın kendisini ölçmek çok uzun ve çok büyük çalışmalar gerektirir.
-- **Çoğu çalışma düşünme testlerini ölçer.** Bir testte küçük bir iyileşme, daha az kişinin demansa yakalanacağı ya da günlük yaşamın kolaylaşacağı anlamına gelmek zorunda değildir.
-- **Gönüllüler çoğu zaman** genel halktan daha sağlıklı ve daha eğitimlidir. Lancet Komisyonu, kanıtların çoğunun hâlâ yüksek gelirli ülkelerden geldiğini ve azınlık gruplarının yeterince temsil edilmediğini belirtiyor.
-- **Bazı bağlantılar iki yönlüdür.** Daha az hareketli ya da daha az sosyal olmak, yalnızca bir neden değil, demansın erken bir etkisi de olabilir.
-- **Diyet çalışmaları şimdiye kadar hayal kırıklığı yarattı.** MIND diyetiyle yapılan üç yıllık bir çalışma, düşünmede kontrol diyetine kıyasla anlamlı bir fark bulmadı. [Beslenme rehberimize](/brain-health/diet/) bakın.
-- **Beyin oyunlarının demansı önlediği kanıtlanmadı.** [Beyin oyunları ve demans](/brain-health/brain-games/) rehberimize bakın.
-- **Orucun insanlardaki kanıtı çok sınırlıdır** ve yaşlı yetişkinler için riskli olabilir. [Oruç rehberimize](/brain-health/fasting/) bakın.
+- **Demansın gelişmesi on yıllar sürer**, ancak çoğu çalışma iki ila beş yıl sürer. Yalnızca test sonuçlarını değil, demansın kendisini ölçmek çok uzun ve çok büyük çalışmalar gerektirir.
+- **Çoğu çalışma düşünme testlerini ölçer.** Bir testteki küçük bir iyileşme, daha az kişinin demans geliştireceği veya günlük yaşamın kolaylaşacağı anlamına gelmez.
+- **Gönüllüler genellikle genel halktan daha sağlıklı** ve daha eğitimlidir. Lancet Komisyonu, kanıtların büyük kısmının hâlâ yüksek gelirli ülkelerden geldiğini ve azınlık gruplarının yeterince temsil edilmediğini belirtiyor.
+- **Bazı bağlantılar iki yönlüdür.** Daha az aktif veya daha az sosyal olmak, yalnızca bir neden değil, demansın erken bir etkisi de olabilir.
+- **Diyet çalışmaları şu ana kadar hayal kırıklığı yarattı.** MIND diyeti üzerinde yapılan üç yıllık bir çalışma, kontrol diyetiyle karşılaştırıldığında düşünme açısından anlamlı bir fark bulmadı. [Diyet kılavuzumuza](/brain-health/diet/) bakın.
+- **Beyin oyunlarının demansı önlediği kanıtlanmış değildir.** [Beyin oyunları ve demans](/brain-health/brain-games/) kılavuzumuza bakın.
+- **Oruç tutmaya dair insan verileri çok sınırlıdır** ve bu, yaşlı yetişkinler için riskli olabilir. [Oruç kılavuzumuza](/brain-health/fasting/) bakın.
 
-## Biri her şeyi “doğru” yaptıysa neden yine de demansa yakalandı?
+## Bir kişi her şeyi “doğru” yaptıysa neden yine de demans gelişti?
 
-Çünkü demans yalnızca seçimlerin sonucu değildir. NIA, [yaşın Alzheimer için bilinen en büyük risk faktörü](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) olduğunu ve kimsenin bunu değiştiremeyeceğini söylüyor. Genler de rol oynar. Ayrıca bilim insanları, çoğu insanda Alzheimer’a neyin yol açtığını henüz tam olarak anlamıyor. 14 risk faktörünün hepsi ortadan kaldırılsa bile, Lancet Komisyonu’nun kendi tahmini vakaların yarısından fazlasını açıklanmamış bırakıyor.
+Çünkü demans yalnızca tercihlerin sonucu değildir. NIA, [yaşın Alzheimer için bilinen en büyük risk faktörü olduğunu](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) söylüyor ve hiç kimse bunu değiştiremez. Genler de rol oynar. Biliminsanları, çoğu insanda Alzheimer'a neyin yol açtığını henüz tam olarak anlamıyor. 14 risk faktörünün her biri ortadan kaldırılsa bile, Lancet Komisyonu'nun kendi tahmini vakaların yarısından fazlasını açıklanmamış bırakıyor.
 
-Dolayısıyla egzersiz yapan, iyi beslenen, hiç sigara içmeyen ve yine de demansa yakalanan birine bakıyorsanız, onun tarafında da sizin tarafınızda da yanlış giden bir şey yok. Kendiniz demansla yaşıyorsanız, bu sizin suçunuz değildir. Ailelerde suçluluk duygusu yaygındır, ama hak edilmiş değildir. Şimdi önemli olan rahatlık, bağ kurmak ve güzel günlerdir; [etkinlik fikirlerimiz](/activities/ideas/) ve [bakım verenler için kendine iyi bakma rehberimiz](/caregiving/caregiver-self-care/) başlamak için iyi bir yerdir.
+Dolayısıyla, egzersiz yapan, iyi beslenen, hiç sigara içmeyen ve yine de demans geliştiren bir kişiye bakım veriyorsanız, ne onların ne de sizin bir hatanız var. Kendiniz demansla yaşıyorsanız, bu sizin suçunuz değil. Suçluluk ailelerde yaygındır, ancak hak edilmiş değildir. Şu an önemli olan konfor, bağlantı ve iyi geçen günlerdir; [etkinlik fikirlerimiz](/activities/ideas/) ve [bakım veren öz bakım kılavuzumuz](/caregiving/caregiver-self-care/) iyi bir başlangıç noktasıdır.
 
-## Bir doktorla hangi adımları konuşabilirsiniz?
+## Bir doktorla görüşebileceğiniz adımlar nelerdir?
 
-Bunlar en çok incelenen alanlardır. Demans üzerindeki etkileri ne çıkarsa çıksın, çoğu kalp sağlığına, ruh hâline ve bağımsızlığa da yardımcı olduğu için bir kontrolde gündeme getirmeye değerdir.
+Bunlar en sık incelenen alanlardır. Demans üzerindeki etkileri ne olursa olsun, çoğu kalp sağlığına, ruh hâline ve bağımsızlığa da yardımcı olduğu için bir kontrol sırasında gündeme getirmeye değerdir.
 
-1. **Tansiyon.** Değerlerinizin ne olduğunu ve size uygun hedefin ne olduğunu sorun. Lancet Komisyonu, yaklaşık 40 yaşından itibaren üst değerin 130 ya da altında olmasını hedeflemeyi öneriyor; ancak yaşlı bir yetişkin için doğru hedef genel sağlığına bağlıdır.
-2. **İşitme.** Bir işitme testi isteyin ve işitme cihazının yardımcı olup olmayacağını sorun. [İşitme rehberimiz](/brain-health/hearing/) araştırmaları açıklıyor.
-3. **Görme.** Düzenli göz muayenesi yaptırın ve katarakt gibi sorunların tedavi edilip edilemeyeceğini sorun.
-4. **Kolesterol.** LDL kolesterolünüzün kontrol edilip edilmemesi gerektiğini ve bir şeyin değişip değişmemesi gerektiğini sorun.
-5. **Kan şekeri.** Diyabetiniz varsa, bunu güvenli biçimde nasıl yöneteceğinizi sorun.
-6. **Ruh hâli.** Depresyon yaygındır ve tedavi edilebilir. Birkaç haftadan uzun süre kendinizi kötü hissettiyseniz ya da bir şeylere ilginizi kaybettiyseniz doktorunuza söyleyin.
-7. **Sigara ve alkol.** Sigarayı bırakmak için destek hakkında ve alkolün güvenli sınırları hakkında sorun.
-8. **Hareket.** Sizin için hangi tür etkinliğin güvenli olduğunu sorun. [Egzersiz rehberimizde](/brain-health/exercise/) fikirler var.
-9. **Başı korumak.** Bisiklete binerken ve temaslı sporlarda kask takın ve düşmeleri önleme hakkında sorun.
-10. **Bağlantıda kalmak.** Başkalarıyla vakit geçirmek sağlıklı bir yaşamın parçasıdır. [Sosyal bağlantı](/brain-health/social-connection/) rehberimize ve ayrıca [uyku](/brain-health/sleep/) rehberimize bakın.
+1. **Kan basıncı.** Değerlerinizin ne olduğunu ve size uygun hedefin ne olduğunu sorun. Lancet Komisyonu, yaklaşık 40 yaşından itibaren üst sayıyı 130 veya altında tutmayı hedeflemeyi öneriyor; ancak yaşlı bir yetişkin için doğru hedef genel sağlığına bağlıdır.
+2. **İşitme.** İşitme testi isteyin ve işitme cihazlarının yardımcı olup olmayacağını sorun. [İşitme kılavuzumuz](/brain-health/hearing/) araştırmayı açıklıyor.
+3. **Görme.** Düzenli göz muayenesi olun ve katarakt gibi sorunların tedavi edilip edilemeyeceğini sorun.
+4. **Kolesterol.** LDL kolesterolünüzün kontrol edilip edilmemesi gerektiğini ve bir değişiklik yapılıp yapılmaması gerektiğini sorun.
+5. **Kan şekeri.** Diyabetiniz varsa, bunu güvenle nasıl yöneteceğinizi sorun.
+6. **Ruh hâli.** Depresyon yaygındır ve tedavi edilebilir. Birkaç haftadan uzun süre kendinizi kötü hissettiyseniz veya şeylere ilginizi kaybettiyseniz doktorunuza söyleyin.
+7. **Sigara ve alkol.** Sigarayı bırakmak için destek ve alkol için güvenli sınırlar hakkında sorun.
+8. **Hareket.** Sizin için hangi tür aktivitenin güvenli olduğunu sorun. [Egzersiz kılavuzumuzda](/brain-health/exercise/) fikirler var.
+9. **Baş koruması.** Bisiklet sürerken ve temaslı sporlarda kask takın ve düşmeyi önleme hakkında sorun.
+10. **Bağlantıda kalmak.** Başka insanlarla geçirilen zaman, sağlıklı bir yaşamın parçasıdır. [Sosyal bağlantı](/brain-health/social-connection/) ve [uyku](/brain-health/sleep/) kılavuzlarımıza da bakın.
 
-İlaçlarınızı, beslenmenizi, takviyelerinizi, orucunuzu ya da egzersizinizi değiştirmeden önce, özellikle kalp hastalığınız, diyabetiniz, düşme öykünüz varsa ya da zaten demansla yaşıyorsanız, önce doktorunuzla konuşun.
+İlaçlarınızı, diyetinizi, takviyelerinizi, oruç düzeninizi veya egzersizinizi değiştirmeden önce önce doktorunuzla konuşun; özellikle kalp hastalığınız, diyabetiniz, düşme öykünüz varsa veya zaten demansla yaşıyorsanız.
 
 ## Bir doktorla konuşun
 
-Kendinizde ya da başkasında sizi endişelendiren bellek ya da düşünme değişiklikleri fark ederseniz randevu alın. NIA, [bellek sorunlarının başka nedenleri olabileceğini](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging); ilaç yan etkileri, tiroid sorunları, depresyon ya da düşük B12 vitamini gibi nedenlerin bulunabileceğini ve bu sorunlardan bazılarının, nedeni tedavi edildiğinde ortadan kalktığını belirtiyor. [Uyarı işaretleri rehberimiz](/brain-health/warning-signs/) nelere dikkat etmeniz gerektiğini açıklıyor.
+Kendinizde veya başka birinde sizi endişelendiren bellek veya düşünme değişiklikleri fark ederseniz, bir randevu alın. NIA, [bellek sorunlarının başka nedenleri olabileceğini](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) belirtiyor; örneğin ilaç yan etkileri, tiroid sorunları, depresyon veya düşük B12 vitamini. Bu sorunlardan bazıları neden tedavi edildiğinde geçer. [Uyarı işaretleri kılavuzumuz](/brain-health/warning-signs/) nelere dikkat etmeniz gerektiğini anlatıyor.
 
-Ani değişiklikler için **acil yardım alın**: ani kafa karışıklığı, bir yanda güçsüzlük ya da uyuşma, konuşmada zorluk ya da şiddetli baş ağrısı felcin ya da başka bir acil durumun işareti olabilir. Acil durum hattını arayın (Türkiye’de 112; ABD’de 911).
+**Acil yardım alın** ani değişiklikler için: ani kafa karışıklığı, vücudun bir tarafında güçsüzlük veya uyuşma, konuşma zorluğu veya şiddetli baş ağrısı, felç veya başka bir acil durumun işaretleri olabilir. 911'i arayın.
 
-## Golden Moments nerede duruyor?
+## Golden Moments nasıl bir rol oynuyor?
 
-Golden Moments; [sohbet kartları](/games/conversation-cards/), [resimli tombala](/games/picture-bingo/) ve [sakin nefes molası](/games/calm-breathing/) gibi basit, paylaşılan etkinlikler hazırlar. Bunlar keyif ve birlikte vakit geçirmek içindir. Tedavi değildir ve demansı önlemez ya da yavaşlatmaz.
+Golden Moments, [sohbet kartları](/games/conversation-cards/), [resimli bingo](/games/picture-bingo/) ve [sakin nefes alma molası](/games/calm-breathing/) gibi basit, paylaşımlı etkinlikler sunar. Bunlar keyif ve birlikte geçirilen zaman içindir. Bir tedavi değildir ve demansı önlemez veya yavaşlatmaz.

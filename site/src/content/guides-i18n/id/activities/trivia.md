@@ -1,34 +1,33 @@
 ---
-title: "Kuis Mudah untuk Lansia dengan Demensia, Tanpa Tekanan"
-seoTitle: "Kuis Mudah untuk Lansia dengan Demensia: 50 Pertanyaan"
-description: "50 pertanyaan kuis mudah untuk lansia dengan demensia, lengkap dengan pilihan jawaban dan bahan obrolan, serta cara memandu kuis agar tak ada yang merasa diuji."
+title: "Kuis Santai untuk Lansia dengan Demensia, Tanpa Tekanan"
+seoTitle: "Pertanyaan Kuis Lansia dengan Demensia, dan Jawabannya"
+description: "50 pertanyaan kuis mudah untuk lansia dengan demensia, pilihan jawaban, dan topik obrolan, serta cara menggelarnya agar tak ada yang merasa diuji atau terabaikan."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kuis mudah untuk lansia dengan demensia berhasil bila terasa seperti
-  mengobrol, bukan ujian. Tanyakan hal yang dipelajari sejak lama, seperti
-  lagu lama, peribahasa, hari besar, dan kehidupan sehari-hari, dan selalu
-  tawarkan dua atau tiga pilihan. Sebutkan jawabannya dengan hangat, jangan
-  menyorot siapa pun, lewati skor, dan jadikan setiap jawaban awal sebuah
-  cerita. Pertanyaan pilih “ini atau itu” tanpa jawaban salah cocok untuk
-  tahap yang lebih lanjut.
+  Kuis mudah untuk lansia dengan demensia berjalan baik bila terasa seperti
+  obrolan, bukan ujian. Tanyakan hal-hal yang dipelajari lama lalu, seperti lagu
+  lama, peribahasa, hari raya, dan kehidupan sehari-hari, serta selalu tawarkan
+  dua atau tiga pilihan. Sampaikan jawabannya dengan senang hati, jangan pernah
+  menunjuk satu orang, abaikan skor, dan gunakan setiap jawaban untuk memulai
+  cerita. Pertanyaan "ini atau itu" tanpa jawaban salah cocok untuk tahap lanjut.
 keyPoints:
-  - "Tanyakan hal yang sudah lama akrab: lagu, peribahasa, hari besar, makanan, dan kehidupan sehari-hari di masa lalu."
-  - "Tawarkan dua atau tiga pilihan agar jawabannya cukup dikenali, tidak perlu diingat dari nol."
-  - "Sebutkan jawabannya dengan hangat lalu lanjutkan. Tebakan apa pun yang memancing cerita adalah tebakan yang baik."
-  - "Tanpa poin, tanpa regu yang berlomba, tanpa menunjuk satu orang. Biarkan jawaban datang dari seluruh ruangan."
-  - "Ketika memilih jawaban mulai terasa sulit, beralihlah ke pertanyaan “ini atau itu” yang tidak punya jawaban benar."
+  - "Tanyakan hal-hal yang sudah lama dikenal: lagu, peribahasa, hari raya, makanan, dan kehidupan sehari-hari dari tahun-tahun lalu."
+  - "Tawarkan dua atau tiga pilihan agar jawaban bisa dikenali, bukan diingat-ingat."
+  - "Sebutkan jawabannya dengan hangat lalu lanjut. Tebakan apa pun yang memicu cerita adalah tebakan yang baik."
+  - "Tanpa poin, tanpa tim berlomba, tanpa memanggil satu orang. Biarkan jawaban datang dari semua orang di ruangan."
+  - "Saat memilih antarjawaban terasa sulit, beralihlah ke pertanyaan ini-atau-itu tanpa jawaban benar."
 faq:
-  - q: "Apakah kuis kegiatan yang baik untuk orang dengan demensia?"
-    a: "Bisa, jika dipandu dengan lembut. Alzheimer's Foundation of America mencantumkan kuis di antara kegiatan untuk tahap awal. Pertahankan pertanyaan pada topik yang sudah lama akrab, tawarkan pilihan, jangan pernah menyorot satu orang, dan perlakukan jawabannya sebagai pintu masuk percakapan, bukan ujian."
+  - q: "Apakah kuis merupakan kegiatan yang baik untuk orang dengan demensia?"
+    a: "Bisa, jika dijalankan dengan santai. Alzheimer's Foundation of America mencantumkan kuis di antara kegiatan untuk tahap awal. Gunakan pertanyaan tentang topik yang sudah lama dikenal, tawarkan pilihan, jangan pernah menempatkan satu orang dalam tekanan, dan anggap jawaban itu sebagai jalan masuk ke obrolan, bukan ujian."
   - q: "Topik apa yang paling cocok untuk kuis demensia?"
-    a: "Hal yang dipelajari sejak lama biasanya paling cocok: lagu dan penyanyi populer dari masa muda beliau, peribahasa yang akrab, hari besar, makanan, olahraga, dan kehidupan sehari-hari seperti tukang sayur keliling dan telepon putar. Hindari berita terbaru dan apa pun yang menuntut mengingat sesuatu dari awal sesi."
-  - q: "Bagaimana memandu kuis di panti werdha tanpa mempermalukan siapa pun?"
-    a: "Bacakan setiap pertanyaan kepada seluruh kelompok, tunjukkan atau sebutkan pilihannya, dan sambut jawaban dari siapa saja. Jangan menunjuk individu atau menghitung skor. Sebutkan jawabannya sambil tersenyum apa pun tebakannya, lalu ajukan pertanyaan lanjutan seperti “Siapa di sini yang pernah menonton layar tancap?” untuk mengubahnya menjadi cerita."
-  - q: "Apa yang bisa dilakukan sebagai pengganti kuis di tahap yang lebih lanjut?"
-    a: "Beralihlah ke pertanyaan tanpa jawaban salah, seperti “Kopi atau teh?” atau “Pantai atau gunung?”, serta melengkapi peribahasa atau lagu yang akrab bersama-sama. Melihat gambar dan menggambarkannya bersama juga cocok."
+    a: "Hal-hal yang dipelajari lama biasanya paling cocok: lagu dan penyanyi populer dari masa mudanya, peribahasa yang akrab, hari raya, makanan, olahraga, dan kehidupan sehari-hari seperti pengantaran susu dan telepon putar. Hindari berita terbaru dan apa pun yang mengharuskan mengingat sesuatu dari awal sesi."
+  - q: "Bagaimana cara menggelar kuis di panti perawatan tanpa membuat siapa pun merasa malu?"
+    a: "Bacakan setiap pertanyaan kepada seluruh kelompok, tunjukkan atau sebutkan pilihannya, dan sambut jawaban dari siapa saja. Jangan memanggil orang tertentu atau mencatat skor. Sebutkan jawabannya dengan senyum, apa pun yang ditebak, lalu ajukan pertanyaan lanjutan seperti \"Siapa di sini yang pernah pergi ke drive-in?\" untuk mengubahnya menjadi cerita."
+  - q: "Apa yang bisa saya lakukan sebagai pengganti kuis pada tahap lanjut?"
+    a: "Beralihlah ke pertanyaan tanpa jawaban salah, seperti \"Kopi atau teh?\" atau \"Pantai atau gunung?\", serta melengkapi peribahasa atau lagu yang akrab bersama-sama. Melihat gambar dan mendeskripsikannya bersama juga berfungsi baik."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Kuis adalah salah satu kegiatan kelompok yang paling sering diminta di panti werdha dan program harian, dan banyak keluarga juga memainkannya di meja makan. Bila dijalankan dengan cara biasa, dengan poin dan satu orang yang menjawab, kuis bisa membuat orang dengan demensia merasa disorot. Bila dijalankan dengan lembut, kuis adalah cara yang meriah untuk mendengar cerita. Di bawah ini ada 50 pertanyaan mudah dengan pilihan jawaban dan bahan obrolan untuk masing-masing, disusul cara menjalankan sebuah sesi.
+Kuis adalah salah satu kegiatan kelompok yang paling diminta di panti perawatan dan program harian, dan banyak keluarga memainkannya di meja dapur juga. Jika dijalankan seperti biasa, dengan poin dan satu orang yang menjawab, kuis bisa membuat orang dengan demensia merasa dipojokkan. Jika dijalankan dengan santai, kuis adalah cara yang menyenangkan untuk mendengar cerita. Di bawah ini ada 50 pertanyaan mudah dengan pilihan jawaban dan sesuatu untuk dibicarakan pada masing-masing, diikuti cara menggelar sesi.
 
-## Bagaimana membuat kuis cocok untuk orang dengan demensia?
+## Bagaimana cara agar kuis berfungsi baik untuk orang dengan demensia?
 
-Buatlah kuis tentang mengenali dan mengingat hal-hal dari masa lalu, dan sambut setiap jawaban.
+Jadikan ini tentang mengenali dan mengingat hal-hal dari masa lalu, dan sambut setiap jawaban.
 
-1. **Tanyakan masa lalu yang jauh.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) mengatakan gejala awal Alzheimer yang paling umum adalah kesulitan mengingat informasi yang baru dipelajari. Lagu, peribahasa, dan kehidupan sehari-hari dari beberapa dekade lalu sering menjadi wilayah yang lebih mudah.
-2. **Selalu beri pilihan.** Memilih jawaban yang benar dari dua atau tiga pilihan jauh lebih mudah daripada menghasilkannya dari nol.
-3. **Bacakan pertanyaan dengan lantang dan tampilkan dalam huruf besar.** Papan tulis atau tablet yang diangkat membantu mereka yang pendengarannya kurang baik.
-4. **Berikan jawabannya dengan lapang.** Jika tidak ada yang tahu, sebutkan dengan hangat lalu lanjutkan. Jangan pernah berkata “Ayo, masa tidak tahu.”
-5. **Tanpa skor.** Bukan untuk perorangan dan bukan untuk meja. Jika orang ingin angka, simpan satu total untuk seluruh kelompok.
-6. **Jangan pernah menunjuk satu orang.** Biarkan jawaban datang dari siapa saja. Dalam sesi berdua, jawablah bersama: “Kayaknya piano. Menurut Anda?”
-7. **Gunakan bahan obrolan.** Jawaban adalah awalnya, bukan akhirnya. Cerita adalah tujuan sebenarnya.
-8. **Buat singkat.** Sepuluh pertanyaan dengan cerita di sela-selanya sudah lebih dari cukup.
+1. **Tanyakan masa lalu yang jauh.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) mengatakan gejala awal Alzheimer yang paling umum adalah kesulitan mengingat informasi yang baru dipelajari. Lagu, peribahasa, dan kehidupan sehari-hari dari beberapa dekade lalu sering kali lebih mudah.
+2. **Selalu berikan pilihan.** Memilih jawaban yang tepat dari dua atau tiga jauh lebih mudah daripada mengeluarkannya dari ingatan kosong.
+3. **Bacakan pertanyaan dengan keras dan tunjukkan dalam ukuran besar.** Papan tulis atau tablet yang diangkat membantu orang yang kurang baik pendengarannya.
+4. **Sampaikan jawabannya dengan senang hati.** Jika tidak ada yang tahu, katakan dengan hangat lalu lanjut. Jangan pernah mengatakan "Ayo, Anda pasti tahu ini."
+5. **Tanpa skor.** Baik untuk perorangan maupun untuk meja-meja. Jika orang menginginkan angka, catat satu total untuk kelompok.
+6. **Jangan pernah memanggil satu orang.** Biarkan jawaban datang dari siapa saja. Dalam sesi berduaan, jawab bersama: "Saya kira itu piano. Menurut Anda?"
+7. **Gunakan topik obrolan.** Jawaban adalah awal, bukan akhir. Cerita adalah tujuan yang sebenarnya.
+8. **Buat singkat.** Sepuluh pertanyaan dengan cerita di antaranya sudah cukup.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) merumuskan aturan intinya dengan sederhana: perhatikan tanda frustrasi dan pastikan orang tersebut merasa berhasil. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mencantumkan kuis di antara kegiatan untuk tahap awal. Pada tahap menengah, cukup dua pilihan dan andalkan bahan obrolannya. Pada tahap lanjut, beralihlah ke pertanyaan “ini atau itu” di bagian bawah.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) menyatakan aturan utamanya dengan sederhana: perhatikan tanda frustrasi dan pastikan orang tersebut merasa berhasil. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mencantumkan kuis di antara kegiatan untuk tahap awal. Pada tahap menengah, batasi dua pilihan dan andalkan topik obrolan. Kemudian, beralihlah ke pertanyaan ini-atau-itu di bawah.
 
 ## Kuis musik dan hiburan
 
-Jawabannya dicetak **tebal**. Sesuaikan dengan orangnya: seseorang yang tumbuh bersama keroncong akan menginginkan penyanyi yang berbeda dari seseorang yang tumbuh bersama dangdut atau pop lawas.
+Jawaban ditulis dalam **huruf tebal**. Sesuaikan dengan orangnya: seseorang yang tumbuh besar dengan Motown akan menyukai penyanyi yang berbeda dengan seseorang yang tumbuh besar dengan musik big band.
 
-| Pertanyaan | Pilihan | Bahas bersama |
+| Pertanyaan | Pilihan | Topik obrolan |
 | --- | --- | --- |
-| Siapa yang dijuluki Raja Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Pernah melihat Elvis di televisi atau film? |
-| Siapa pencipta lagu keroncong “Bengawan Solo”? | **Gesang**, Ismail Marzuki, Ibu Sud | Lagu keroncong apa yang Anda sukai? |
-| Panjang umurnya, panjang umurnya, panjang umurnya, serta... | **mulia**, bahagia, sehat | Nyanyikan satu baris bersama |
-| Louis Armstrong menyanyikan “What a Wonderful...” | Day, **World**, Life | Apa yang membuat dunia indah bagi Anda? |
-| Alat musik dari bambu yang digoyangkan hingga berbunyi, berasal dari Jawa Barat, adalah... | **angklung**, gamelan, kolintang | Pernah ikut memainkan angklung? |
-| Acara boneka “Si Unyil” dulu ditayangkan di stasiun televisi... | **TVRI**, RCTI, SCTV | Acara televisi apa yang dulu ditonton keluarga Anda bersama? |
-| Dalam tari piring dari Sumatera Barat, penari memegang... | **piring**, kipas, selendang | Pernah menonton pertunjukan tari? |
-| Siapa pencipta lagu “Indonesia Raya”? | **W.R. Supratman**, Ismail Marzuki, Gesang | Di mana Anda dulu biasa menyanyikannya? |
-| Alat musik apa yang memiliki 88 tuts? | Gitar, **piano**, terompet | Ada yang bermain musik di keluarga Anda? |
-| Tarian mana yang dihitung satu-dua-tiga, satu-dua-tiga? | **Waltz**, twist, tango | Di mana Anda dulu berdansa? |
+| Siapa yang disebut Raja Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Pernah lihat Elvis di TV? |
+| Penyanyi mana yang dijuluki Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Lagu Sinatra mana yang paling Anda suka? |
+| Bing Crosby memimpikan ... putih | **Natal**, pernikahan, rumah | Nyanyikan satu baris bersama |
+| Louis Armstrong menyanyikan "What a Wonderful..." | Hari, **Dunia**, Hidup | Apa yang membuat dunia terasa indah bagi Anda? |
+| "Over the Rainbow" dinyanyikan oleh Judy Garland dalam film apa? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Di mana Anda menonton film favorit? |
+| Siapa yang berperan sebagai Lucy dalam "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Acara apa yang dulu ditonton keluarga Anda bersama? |
+| Koboi mana yang menunggang kuda bernama Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Dulu pernah main koboi saat kecil? |
+| Siapa yang membawakan "The Tonight Show" selama 30 tahun? | Ed Sullivan, **Johnny Carson**, Bob Hope | Dulu sering begadang untuk nonton TV? |
+| Alat musik apa yang memiliki 88 tuts? | Gitar, **piano**, trompet | Ada yang pandai bermain di keluarga Anda? |
+| Tarian apa yang dihitung satu-dua-tiga, satu-dua-tiga? | **Waltz**, twist, tango | Dulu ke mana Anda pergi menari? |
 
 Untuk lebih banyak tentang musik, lihat [kegiatan musik untuk demensia](/activities/music/).
 
 ## Kuis kehidupan sehari-hari
 
-| Pertanyaan | Pilihan | Bahas bersama |
+| Pertanyaan | Pilihan | Topik obrolan |
 | --- | --- | --- |
-| Sebelum ada listrik, banyak rumah diterangi lampu... | **minyak tanah**, neon, sorot | Siapa yang dulu menyalakan lampunya? |
-| Siapa yang dulu datang ke depan rumah membawa sayur dan lauk dengan gerobak atau sepeda? | Tukang pos, **tukang sayur**, tukang koran | Apa lagi yang dulu diantar ke rumah? |
-| Bagaimana cara memutar nomor pada telepon putar? | Menekan tombol, **memutar cakram**, berbicara kepadanya | Ceritakan tentang telepon di rumah Anda |
-| Mobil Volkswagen tua yang bentuknya bulat dijuluki VW... | **Kodok**, kancil, kura-kura | Ceritakan tentang kendaraan yang pernah Anda sukai |
-| Di mana biasanya Anda membeli gula, kopi, dan sabun dekat rumah? | **Warung**, toko emas, bengkel | Apa yang dulu Anda beli di warung? |
-| Mainan yang diputar dengan tali sehingga berputar di tanah adalah... | Layang-layang, **gasing**, bola bekel | Mainan apa yang dulu Anda sukai? |
-| Layar tancap adalah tempat menonton... | **Film di lapangan terbuka**, pertandingan bola, pawai | Dulu Anda menonton bersama siapa? |
-| Sebelum ada setrika listrik, setrika dipanaskan dengan... | **arang**, gas, solar | Siapa yang dulu menyetrika di rumah? |
-| Sambal dulu diulek di atas... | **cobek**, nampan, talenan | Sambal buatan siapa yang paling enak? |
-| Seragam sekolah dasar di Indonesia berwarna merah dan... | **putih**, biru, kuning | Bagaimana Anda dulu pergi ke sekolah? |
+| Sebelum ada kulkas, banyak rumah menyimpan makanan dingin dalam sebuah... | **Kotak es**, oven, loteng | Siapa yang dulu mengantar es? |
+| Siapa yang dulu mengantar susu ke depan pintu dalam botol kaca? | Tukang pos, **tukang susu**, tukang koran | Apa lagi yang dulu diantar ke rumah? |
+| Bagaimana dulu Anda menelepon dengan telepon putar? | Menekan tombol, **memutar roda**, berbicara padanya | Ceritakan telepon di rumah Anda dulu |
+| Perusahaan mana yang membuat mobil Model T? | **Ford**, Chevrolet, Buick | Ceritakan mobil yang dulu Anda suka |
+| Di mana Anda bisa menemukan tukang soda? | **Kios soda**, toko roti, bank | Apa yang dulu Anda pesan di konter? |
+| Mainan apa berupa pegas logam yang bisa turun tangga? | Yo-yo, **Slinky**, hula hoop | Mainan apa yang dulu Anda suka? |
+| Drive-in adalah tempat untuk menonton... | **Film dari dalam mobil**, pertandingan, pawai | Dulu pergi dengan siapa? |
+| Wajah siapa yang ada di uang satu dolar? | Lincoln, **George Washington**, Jefferson | Apa yang bisa dibeli dengan satu dolar dulu? |
+| Wajah siapa yang ada di uang sen? | **Abraham Lincoln**, Washington, Franklin | Dulu Anda menabung uang sen dalam toples? |
+| Bus sekolah biasanya berwarna apa? | Merah, **kuning**, biru | Dulu Anda bagaimana ke sekolah? |
 
-## Hari besar, alam, dan tempat
+## Hari raya, alam, dan tempat
 
-| Pertanyaan | Pilihan | Bahas bersama |
+| Pertanyaan | Pilihan | Topik obrolan |
 | --- | --- | --- |
-| Hari Kemerdekaan Indonesia diperingati setiap tanggal 17... | Mei, **Agustus**, Oktober | Bagaimana kampung Anda merayakannya? |
-| Pada perayaan tujuh belasan ada lomba panjat... | **pinang**, kelapa, jambu | Pernah ikut atau menonton lomba tujuh belasan? |
-| Hari Kartini diperingati setiap bulan... | Maret, **April**, Mei | Pernah ikut perayaan Hari Kartini di sekolah? |
-| Hari Ibu diperingati pada bulan... | Oktober, **Desember**, Februari | Bagaimana keluarga Anda merayakannya? |
-| Warna bendera Indonesia dari atas ke bawah adalah... | **merah lalu putih**, putih lalu merah, merah lalu biru | Ceritakan upacara bendera di sekolah Anda. Jawaban apa pun adalah kenangan yang baik |
-| Samudra mana yang ada di selatan Pulau Jawa? | Pasifik, **Hindia**, Atlantik | Pernah pergi ke pantai? |
-| Di kota mana Monumen Nasional (Monas) berada? | Bandung, **Jakarta**, Surabaya | Pernah ke Jakarta? |
-| Apa yang dihasilkan lebah? | Susu, **madu**, sutra | Madu di atas roti atau dalam teh? |
-| Hewan apa yang sering dipakai membajak sawah? | **Kerbau**, bebek, burung | Pernah tinggal dekat sawah? |
-| Bunga kuning besar yang terkenal menghadap ke arah matahari adalah... | Mawar, **bunga matahari**, melati | Apa yang tumbuh di kebun Anda? |
-| Berapa hari dalam setahun pada tahun kabisat? | 365, **366**, 360 | Ceritakan tentang ulang tahun yang Anda ingat |
-| Setelah musim kemarau biasanya datang musim... | **hujan**, salju, semi | Apa yang Anda sukai dari musim hujan? |
+| Hari raya apa yang jatuh pada Kamis keempat di bulan November? | Hari Buruh, **Thanksgiving**, Hari Peringatan | Apa yang selalu ada di meja Anda? |
+| Jack-o'-lantern dibuat untuk hari raya apa? | **Halloween**, Paskah, Natal | Ceritakan Halloween di tempat Anda tumbuh besar |
+| Tanggal Empat Juli memperingati Deklarasi... | Hak, **Kemerdekaan**, Kebebasan | Di mana Anda menonton kembang api? |
+| Hari Ibu ada di bulan apa? | April, **Mei**, Juni | Bagaimana keluarga Anda merayakannya? |
+| Berapa banyak bintang di bendera Amerika? | 48, **50**, 52 | Bendera itu memiliki 48 bintang sampai 1959. Jawaban mana pun adalah kenangan yang baik |
+| Samudra apa yang ada di Pantai Timur? | Pasifik, **Atlantik**, Arktik | Pernah pergi ke pantai? |
+| Di kota apa Patung Liberty berada? | Boston, **New York**, Philadelphia | Pernah ke New York? |
+| Apa yang dibuat lebah? | Susu, **madu**, sutra | Madu di roti panggang atau dalam teh? |
+| Anak sapi disebut... | Anak kuda, **anak sapi**, anak kambing | Pernah tinggal dekat peternakan? |
+| Bunga kuning tinggi apa yang terkenal karena menghadap matahari? | Mawar, **bunga matahari**, tulip | Apa yang dulu tumbuh di kebun Anda? |
+| Berapa hari dalam tahun kabisat? | 365, **366**, 360 | Ceritakan ulang tahun yang masih Anda ingat |
+| Musim apa yang datang setelah musim dingin? | Musim gugur, **musim semi**, musim panas | Musim apa favorit Anda? |
 
 ## Kuis makanan dan olahraga
 
-| Pertanyaan | Pilihan | Bahas bersama |
+| Pertanyaan | Pilihan | Topik obrolan |
 | --- | --- | --- |
-| Kismis adalah buah ... yang dikeringkan | Plum, **anggur**, ceri | Apakah Anda suka kismis dalam kue? |
-| Tempe dibuat dari... | **kedelai**, jagung, beras | Siapa di keluarga Anda yang paling suka tempe? |
-| Gado-gado disiram bumbu... | **kacang**, keju, tomat | Pedas atau tidak terlalu pedas? |
-| Bahan utama sambal adalah... | **cabai**, kacang polong, mentimun | Sambal apa yang selalu ada di meja? |
-| Nasi tumpeng dibentuk seperti... | **kerucut**, kubus, bola | Kapan keluarga Anda membuat tumpeng? |
-| Berapa pemain sepak bola dalam satu tim di lapangan? | 7, 9, **11** | Tim mana yang dulu Anda dukung? |
-| Berapa pemain bola voli dalam satu tim di lapangan? | 4, **6**, 8 | Pernah bermain voli di kampung atau sekolah? |
-| Rudy Hartono terkenal dalam olahraga... | Tinju, **bulu tangkis**, golf | Pernah menonton pertandingan bulu tangkis? |
-| Berapa jumlah petak pada papan catur? | 36, **64**, 100 | Siapa lawan bermain catur Anda? |
-| Dalam olahraga apa bola dimasukkan ke keranjang yang tinggi? | **Bola basket**, sepak bola, tenis | Siapa yang menonton pertandingan di rumah Anda? |
+| Kismis berasal dari ... yang dikeringkan | Plum, **anggur**, ceri | Dulu Anda memasukkan kismis ke dalam bekal makan siang? |
+| Prune berasal dari ... yang dikeringkan | **Plum**, ara, apel | Siapa di keluarga Anda yang suka prune? |
+| Selai kacang dan... | **Selai buah**, keju, ham | Yang renyah atau yang halus? |
+| Guacamole dibuat terutama dari... | Kacang polong, **alpukat**, mentimun | Saus celup apa yang dulu muncul di pesta? |
+| Pai apa yang jadi favorit Thanksgiving? | **Labu**, lemon, ceri | Pai apa yang dulu Anda buat? |
+| Berapa pemain tim bisbol di lapangan? | 7, **9**, 11 | Tim mana yang dulu Anda dukung? |
+| Berapa kali strike untuk membuat out dalam bisbol? | Dua, **tiga**, empat | Pernah main bola? |
+| Babe Ruth terkenal dalam olahraga apa? | Tinju, **bisbol**, golf | Dulu Anda pergi menonton pertandingan? |
+| Berapa lubang di lapangan golf standar? | 9, **18**, 24 | Pernah main golf atau mini golf? |
+| Dalam olahraga apa Anda mencetak touchdown? | **Sepak bola Amerika**, hoki, bola basket | Siapa yang dulu menonton sepak bola Amerika di rumah Anda? |
 
 ## Peribahasa yang akrab
 
-Melengkapi sebuah peribahasa memanfaatkan bahasa yang dipelajari sejak lama dan sering terasa mudah. Permainan [Lengkapi peribahasa](/games/finish-the-saying/) kami memuat jauh lebih banyak, dengan satu ketukan untuk menampilkan ujungnya.
+Melengkapi peribahasa memakai bahasa yang dipelajari lama lalu dan sering kali datang dengan mudah. Game kami [Lengkapi peribahasa](/games/finish-the-saying/) punya banyak lagi, dengan ketuk untuk menampilkan akhirannya.
 
-| Peribahasa | Pilihan | Bahas bersama |
+| Peribahasa | Pilihan | Topik obrolan |
 | --- | --- | --- |
-| Sedikit demi sedikit, lama-lama menjadi... | **bukit**, kebun, taman | Apa yang senang Anda kumpulkan atau simpan sedikit demi sedikit? |
-| Berat sama dipikul, ringan sama... | **dijinjing**, dibawa, diangkat | Pekerjaan apa yang paling senang Anda kerjakan bersama orang lain? |
-| Habis gelap terbitlah... | **terang**, fajar, pagi | Apa yang Anda sukai dari pagi hari? |
-| Jauh di mata, dekat di... | **hati**, rumah, sini | Kabar dari siapa yang selalu membuat Anda senang? |
-| Sedia payung sebelum... | **hujan**, berangkat, pergi | Apa yang selalu Anda bawa saat bepergian? |
-| Biar lambat asal... | **selamat**, kenyang, tenang | Apa yang paling Anda nikmati bila dikerjakan pelan-pelan? |
-| Rajin pangkal... | **pandai**, senang, berhasil | Pelajaran sekolah apa yang dulu Anda sukai? |
-| Bersatu kita teguh, bercerai kita... | **runtuh**, rapuh, lemah | Apa yang Anda sukai dari gotong royong bersama tetangga? |
+| Satu apel sehari menjauhkan... | **Dokter**, hujan, kucing | Siapa dulu yang sering mengatakan ini kepada Anda? |
+| Burung yang bangun pagi menangkap... | Bus, **cacing**, kereta | Apakah Anda lebih nyaman di pagi hari? |
+| Jangan menghitung ayam sebelum mereka... | **Menetas**, tidur, bernyanyi | Dulu keluarga Anda memelihara ayam? |
+| Uang sen yang ditabung adalah uang sen yang... | **Diperoleh**, hilang, terpakai | Siapa yang paling rajin menabung di keluarga Anda? |
+| Rumah adalah tempat di mana... | Kebun ada, **hati ada**, dapur ada | Apa yang membuat suatu tempat terasa seperti rumah? |
+| Lebih baik terlambat daripada... | Pagi, **tidak pernah**, minta maaf | Siapa yang selalu terlambat? |
+| Setiap awan memiliki lapisan ... | **Perak**, sendok, koin | Ceritakan keberuntungan yang pernah Anda alami |
+| Tindakan berbicara lebih keras daripada... | **Kata-kata**, musik, guntur | Ceritakan seseorang yang dulu mengatakan itu |
 
-## Pertanyaan “ini atau itu” tanpa jawaban salah
+## Pertanyaan ini-atau-itu tanpa jawaban salah
 
-Pertanyaan ini cocok untuk setiap tahap, termasuk tahap lanjut, karena tidak ada yang perlu dijawab dengan benar. Tanyakan, dengarkan, dan bagikan jawaban Anda juga.
+Pertanyaan ini cocok untuk setiap tahap, termasuk tahap lanjut, karena tidak ada jawaban yang harus benar. Tanyakan, dengarkan, dan bagikan juga jawaban Anda sendiri.
 
 - Kopi atau teh?
 - Pantai atau gunung?
-- Kucing atau burung?
-- Musim hujan atau musim kemarau?
-- Kue basah atau kue kering?
+- Anjing atau kucing?
+- Musim panas atau musim dingin?
+- Pai atau kue?
 - Menari atau menonton?
-- Matahari terbit atau matahari terbenam?
+- Matahari terbit atau terbenam?
 - Teras depan atau halaman belakang?
 - Radio atau piringan hitam?
-- Pisang goreng atau singkong goreng?
-- Mawar atau melati?
-- Naik kereta atau naik mobil?
+- Pancake atau telur?
+- Mawar atau daisy?
+- Perjalanan kereta atau perjalanan darat?
 
-Untuk ajakan mengobrol yang disertai gambar, coba [Kartu obrolan](/games/conversation-cards/) cetak kami.
+Untuk pengarah obrolan yang menyertai gambar, coba [Kartu obrolan](/games/conversation-cards/) kami yang bisa dicetak.
 
-## Bagaimana memandu sesi kuis di panti werdha atau kelompok?
+## Bagaimana cara menggelar sesi kuis di panti perawatan atau kelompok?
 
-1. **Atur tempat duduk agar semua bisa melihat dan mendengar.** Alat bantu dengar dipasang, kacamata dipakai, TV dimatikan.
-2. **Perkenalkan sebagai obrolan.** “Saya punya beberapa pertanyaan tentang zaman dulu, dan saya yakin Bapak-Ibu tahu lebih banyak daripada saya.”
-3. **Bacakan setiap pertanyaan dua kali dan tampilkan pilihannya dalam huruf besar.**
-4. **Sambut jawaban dari mana saja di ruangan.** Ulangi jawaban yang bagus agar semua mendengar.
-5. **Sebutkan jawabannya untuk semua,** lalu ajukan bahan obrolannya kepada seluruh ruangan.
-6. **Ikuti semangatnya.** Jika satu pertanyaan memancing sepuluh menit cerita, biarkan saja.
-7. **Akhiri dengan sebuah lagu atau putaran “ini atau itu,”** agar semua mengakhiri dengan sesuatu yang mudah.
+1. **Dudukkan orang sehingga mereka bisa melihat dan mendengar.** Alat bantu dengar terpasang, kacamata terpakai, TV dimatikan.
+2. **Kenalkan sebagai obrolan.** "Saya punya beberapa pertanyaan tentang masa lalu, dan saya yakin Anda tahu lebih banyak dari saya."
+3. **Bacakan setiap pertanyaan dua kali dan tunjukkan pilihannya dengan ukuran besar.**
+4. **Sambut jawaban dari mana saja di ruangan.** Ulangi jawaban yang bagus agar semua orang mendengar.
+5. **Sebutkan jawabannya untuk semua orang,** lalu ajukan topik obrolan kepada seluruh ruangan.
+6. **Ikuti alur energinya.** Jika satu pertanyaan memicu sepuluh menit cerita, biarkan saja.
+7. **Akhiri dengan lagu atau putaran ini-atau-itu,** agar semua orang selesai dengan sesuatu yang mudah.
 
-Untuk format kelompok lainnya, termasuk bingo gambar dan menyanyi bersama, lihat [kegiatan kelompok untuk panti werdha](/activities/care-home-groups/).
+Untuk format kelompok lain, termasuk bingo gambar dan bernyanyi bersama, lihat [kegiatan kelompok untuk panti perawatan](/activities/care-home-groups/).
 
-## Kapan perlu mengubah rencana
+## Kapan harus mengubah rencana
 
-Jika seseorang tampak cemas, menjadi diam, atau berkata “saya tidak tahu” lebih dari sekali, buat lebih mudah: turunkan menjadi dua pilihan, jawab bersama, atau beralih ke pertanyaan “ini atau itu”. Jika kelompok lebih suka membahas satu pertanyaan sepanjang sore, itu keberhasilan. Tujuannya tidak pernah jawaban yang benar. Tujuannya adalah waktu yang dihabiskan dalam kebersamaan yang baik.
+Jika seseorang terlihat cemas, menjadi diam, atau mengatakan "Saya tidak tahu" lebih dari sekali, buatlah lebih mudah: kurangi menjadi dua pilihan, jawab bersama, atau beralih ke pertanyaan ini-atau-itu. Jika kelompok lebih ingin membicarakan satu pertanyaan sepanjang sore, itu adalah keberhasilan. Tujuan awalnya bukan jawaban yang benar. Melainkan waktu bersama orang-orang yang menyenangkan.

@@ -7,7 +7,7 @@ import sys
 import tempfile
 from pathlib import Path
 import unittest
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 
 ROOT = Path(__file__).resolve().parents[1]
 MODULE_PATH = ROOT / "site/scripts/agy_translate.py"
@@ -166,6 +166,44 @@ spec.loader.exec_module(module)
             ):
                 self.assertFalse(agy_translate.guide_done('ln', f'{rel}.md'))
         self.assertEqual(checker.checked, ('ln', rel))
+
+    def test_guide_translation_rejects_an_unchanged_english_body(self) -> None:
+        rel = 'section/sample.md'
+        source = '---\nupdated: 2026-11-18\n---\nEnglish source body.\n'
+        candidate = (
+            '---\nupdated: 2026-11-18\ntranslatedFrom: 2026-11-18\n'
+            '---\nEnglish source body.\n'
+        )
+        previous = (
+            '---\nupdated: 2026-11-18\ntranslatedFrom: 2026-11-18\n'
+            '---\nExisting translated body.\n'
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            guides = root / 'guides'
+            target_root = root / 'guides-i18n'
+            source_path = guides / rel
+            target_path = target_root / 'zz' / rel
+            source_path.parent.mkdir(parents=True)
+            target_path.parent.mkdir(parents=True)
+            source_path.write_text(source, encoding='utf-8')
+            target_path.write_text(previous, encoding='utf-8')
+            checker = Mock()
+            translate = Mock(return_value=candidate)
+            with (
+                patch.object(agy_translate, 'GUIDES', guides),
+                patch.object(agy_translate, 'GUIDES_I18N', target_root),
+                patch.object(agy_translate, 'guide_checker', return_value=checker),
+                patch.object(agy_translate, 'agy', translate),
+                self.assertRaisesRegex(RuntimeError, 'unchanged English copy'),
+            ):
+                agy_translate.translate_guide(
+                    {'code': 'zz', 'english': 'Test language', 'native': 'Test'},
+                    rel,
+                )
+            self.assertEqual(translate.call_count, 3)
+            checker.check.assert_not_called()
+            self.assertEqual(target_path.read_text(encoding='utf-8'), previous)
 
     def test_translation_rules_preserve_source_number_format(self) -> None:
         self.assertIn('Preserve all numeric values from the visible English source.', agy_translate.RULES)

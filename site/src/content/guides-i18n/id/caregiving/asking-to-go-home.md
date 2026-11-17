@@ -1,36 +1,37 @@
 ---
-title: "Saat Orang dengan Demensia Terus Minta Pulang"
-seoTitle: "Demensia Terus Minta Pulang: Apa yang Harus Dikatakan"
-description: "Mengapa orang dengan demensia minta pulang padahal sudah di rumah, apa yang bisa dikatakan, kegiatan yang menenangkan, dan cara menjaga keselamatannya jika ingin pergi."
+title: "Saat Orang dengan Demensia Terus Ingin Pulang"
+seoTitle: "Demensia Terus Ingin Pulang: Apa yang Bisa Dikatakan"
+description: "Mengapa orang yang hidup dengan demensia ingin pulang meski sudah di rumah, apa yang bisa dikatakan, kegiatan menenangkan yang bisa dicoba, dan cara menjaga keselamatan."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Ketika orang dengan demensia terus minta pulang, “rumah” sering berarti rasa
-  aman atau tempat dari masa lalu, bukan bangunan. Jangan membantah bahwa beliau
-  sudah di rumah. Akui perasaannya, yakinkan bahwa beliau aman, tanyakan tentang
-  rumahnya, lalu pelan-pelan arahkan ke foto, musik, camilan, jalan kaki, atau
-  tugas sederhana. Periksa apakah beliau lapar, haus, perlu ke toilet, atau
-  kesakitan. Jika muncul tiba-tiba, hubungi dokternya.
+  Saat seseorang dengan demensia terus ingin pulang, "rumah" sering berarti
+  perasaan aman atau tempat di masa lalu, bukan sebuah bangunan. Jangan
+  berdebat bahwa mereka sudah di rumah. Akui perasaan itu, yakinkan bahwa
+  mereka aman, tanyakan tentang rumah, lalu beralih dengan lembut ke foto,
+  musik, camilan, berjalan kaki, atau tugas sederhana. Periksa apakah mereka
+  lapar, haus, perlu ke toilet, atau kesakitan. Jika ini dimulai tiba-tiba,
+  hubungi dokter mereka.
 keyPoints:
-  - "“Saya mau pulang” sering berarti “Saya tidak merasa aman dan tenang”, bukan permintaan untuk diantar ke suatu alamat."
-  - "Membantah atau membuktikan bahwa beliau sudah di rumah biasanya membuat kegelisahan bertambah. Tanggapi perasaannya."
-  - "Minta beliau bercerita tentang rumahnya, lalu tawarkan foto, musik, camilan, jalan kaki, atau tugas sederhana."
-  - "Periksa hal yang bisa diatasi: lapar, haus, perlu ke toilet, nyeri, terlalu panas atau dingin, bising, lelah."
-  - "Jika terjadi setiap sore menjelang senja, mungkin itu sundowning; rutinitas yang teratur dan cahaya yang baik bisa membantu."
-  - "Siapkan langkah keselamatan jika beliau mencoba pergi, dan hubungi dokternya jika ada perubahan yang tiba-tiba."
+  - "\"Saya ingin pulang\" sering berarti \"Saya tidak merasa aman atau tenang,\" bukan permintaan ke suatu alamat."
+  - "Berdebat atau membuktikan bahwa mereka sudah di rumah biasanya membuat keresahan menjadi lebih buruk. Tanggapi perasaannya."
+  - "Ajak mereka bercerita tentang rumah, lalu tawarkan foto, musik, camilan, berjalan kaki, atau tugas sederhana."
+  - "Periksa hal yang bisa diperbaiki: lapar, haus, perlu ke toilet, sakit, terlalu panas atau dingin, suara bising, lelah."
+  - "Jika ini terjadi setiap sore menjelang malam, ini mungkin sundowning; rutinitas yang teratur dan pencahayaan yang baik dapat membantu."
+  - "Siapkan langkah keselamatan jika mereka mencoba pergi, dan hubungi dokter mereka jika ada perubahan mendadak."
 faq:
-  - q: "Mengapa ibu saya yang hidup dengan demensia terus minta pulang padahal sudah di rumah?"
-    a: "Demensia bisa membuat ruangan yang akrab terasa asing, dan kadang orang merasa sedang berada di masa hidup yang lebih awal. “Rumah” bisa berarti rumah masa kecil atau sekadar perasaan aman dan nyaman. Menanggapi perasaan itu biasanya lebih berhasil daripada menunjukkan di mana beliau berada."
-  - q: "Apa yang sebaiknya saya katakan ketika beliau minta pulang?"
-    a: "Coba “Di sini Ibu aman, dan saya menemani Ibu”, lalu “Ceritakan tentang rumah Ibu.” Dengarkan, tunjukkan sebuah foto atau putarkan sebuah lagu, dan tawarkan minum atau jalan kaki sebentar. Hindari “Ibu kan sudah di rumah” yang diucapkan sebagai koreksi, karena bisa terasa seperti dikatakan salah."
-  - q: "Bolehkah mengatakan bahwa kita akan pulang nanti?"
-    a: "Keluarga dan organisasi demensia berbeda pendapat tentang hal ini. Banyak yang memulai dengan penghiburan yang jujur dan pengalihan, dan menyimpan ketidakjujuran yang lembut untuk saat ketika kebenaran hanya akan menimbulkan kesedihan yang tidak sanggup beliau cerna. Apa pun pilihan Anda, bersikaplah baik dan konsisten, dan jangan pernah menertawakan kenyataan yang beliau rasakan."
-  - q: "Bagaimana jika beliau mencoba keluar dari rumah?"
-    a: "Tetaplah tenang dan berjalanlah bersamanya, jangan menghalanginya; jalan kaki singkat sering meredakan dorongan itu. Siapkan langkah keselamatan sebelumnya, seperti gelang identitas, bel pintu, dan foto terbaru. Jika beliau hilang, mulailah mencari segera, dan hubungi nomor darurat setempat (di AS 911; di Indonesia 112) jika belum ditemukan dalam 15 menit, sambil menyebutkan bahwa orang tersebut hidup dengan demensia."
-  - q: "Kapan saya perlu menghubungi dokter?"
-    a: "Hubungi dokternya segera jika permintaan pulang atau kebingungannya muncul tiba-tiba atau memburuk drastis dalam hitungan jam atau hari, terutama disertai demam, obat baru, atau tanda infeksi saluran kemih. Kebingungan mendadak bisa berupa delirium, yang memerlukan perawatan segera. Hubungi nomor darurat jika ada yang berada dalam bahaya."
+  - q: "Mengapa ibu saya dengan demensia terus ingin pulang padahal dia sudah di rumah?"
+    a: "Demensia dapat membuat ruangan yang akrab terasa asing, dan seseorang kadang merasa berada di masa kehidupan yang lebih awal. \"Rumah\" bisa berarti rumah masa kecil atau sekadar perasaan aman dan nyaman. Menanggapi perasaan itu biasanya lebih membantu daripada menunjukkan di mana dia berada."
+  - q: "Apa yang sebaiknya saya katakan saat mereka ingin pulang?"
+    a: "Coba katakan, \"Anda aman di sini, dan saya menemani Anda,\" lalu \"Ceritakan tentang rumah Anda.\" Dengarkan, lihat foto atau dengarkan lagu bersama, dan tawarkan minuman atau jalan kaki sebentar. Hindari mengatakan \"Anda sudah di rumah\" sebagai koreksi, karena bisa terasa seperti mereka disalahkan."
+  - q: "Apakah boleh mengatakan kita akan pulang nanti?"
+    a: "Keluarga dan organisasi demensia memiliki pandangan yang berbeda tentang hal ini. Banyak yang memulai dengan penghiburan yang jujur dan pengalihan perhatian, dan hanya menggunakan ungkapan yang tidak sepenuhnya benar saat kebenaran hanya akan menimbulkan keresahan yang tidak dapat dihadapi orang tersebut. Apa pun pilihan Anda, bersikaplah baik dan konsisten, dan jangan pernah mengejek cara mereka memandang kenyataan."
+  - q: "Bagaimana jika mereka mencoba keluar rumah?"
+    a: "Tetap tenang dan berjalanlah bersama mereka daripada menghalangi; jalan kaki sebentar sering kali dapat meredakan keinginan itu. Siapkan langkah keselamatan lebih dulu, seperti gelang identitas, bel pintu yang berbunyi, dan foto terbaru. Jika orang tersebut hilang, periksa tempat aman di sekitar sambil segera menghubungi polisi setempat atau layanan darurat. Jangan menunggu beberapa menit tertentu sebelum melapor."
+  - q: "Kapan saya harus menghubungi dokter?"
+    a: "Segera hubungi dokter mereka jika keinginan pulang atau kebingungan dimulai tiba-tiba atau memburuk jauh dalam hitungan jam atau hari, terutama bila disertai demam, obat baru, atau tanda infeksi saluran kemih. Kebingungan mendadak bisa merupakan delirium, yang memerlukan penanganan segera. Hubungi 911 jika ada yang dalam bahaya."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“Saya mau pulang.” Bagi banyak keluarga, ini salah satu kalimat yang paling sulit didengar, apalagi ketika orang yang Anda rawat sedang duduk di ruang tamunya sendiri. Hal ini umum, bisa terjadi pada tahap demensia mana pun, dan ada cara menanggapinya dengan tenang dan praktis. Halaman ini membahas apa arti kata-kata itu, apa yang bisa dikatakan, kegiatan yang dapat membantu saat itu juga, dan cara menjaga keselamatan.
+"Saya ingin pulang." Bagi banyak keluarga, ini adalah salah satu hal tersulit untuk didengar, terutama saat orang yang Anda rawat sedang duduk di ruang tamu rumahnya sendiri. Hal ini sering terjadi, bisa muncul pada tahap demensia mana pun, dan ada cara yang tenang dan praktis untuk menanggapinya. Halaman ini membahas apa yang sering dimaksud oleh kata-kata tersebut, apa yang bisa dikatakan, kegiatan yang dapat membantu saat itu juga, dan cara menjaga keselamatan.
 
-## Mengapa orang dengan demensia terus minta pulang?
+## Mengapa orang dengan demensia terus ingin pulang?
 
-Biasanya, “rumah” lebih merupakan perasaan daripada tempat. Alzheimer's Society menggambarkannya sebagai rasa nyaman dan aman, atau rumah dari masa lalu, bukan rumah yang sekarang. Demensia bisa membuat ruangan yang akrab tampak asing, dan seseorang mungkin merasa sedang hidup di masa yang lebih awal, ketika rumahnya adalah rumah masa kecil atau tempat ia membesarkan anak-anaknya.
+Biasanya, "rumah" lebih berarti sebuah perasaan daripada sebuah tempat. Alzheimer's Society menjelaskan bahwa ini adalah rasa nyaman dan aman, atau rumah di masa lalu, bukan bangunan itu sendiri. Demensia dapat membuat ruangan yang akrab terlihat asing, dan seseorang mungkin merasa sedang hidup di masa yang lebih awal, saat rumah adalah rumah masa kecil atau tempat mereka membesarkan anak-anak.
 
-Kata-kata itu juga bisa menjadi tanda bahwa ada hal lain yang tidak beres saat ini: beliau lapar, haus, perlu ke toilet, kesakitan, kepanasan atau kedinginan, lelah, kesepian, ketakutan, atau kewalahan oleh kebisingan. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) mencantumkan nyeri, kebisingan, kesepian, perubahan rutinitas, dan obat-obatan di antara penyebab agitasi.
+Kata-kata ini juga bisa menjadi tanda bahwa ada hal lain yang sedang terjadi: mereka lapar, haus, perlu ke toilet, kesakitan, terlalu panas atau dingin, lelah, kesepian, takut, atau kewalahan oleh suara bising. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) menyebut rasa sakit, kebisingan, kesepian, perubahan rutinitas, dan obat-obatan sebagai beberapa penyebab kegelisahan.
 
-## Apa yang sebaiknya dikatakan ketika beliau minta pulang?
+## Apa yang sebaiknya saya katakan saat mereka ingin pulang?
 
-Tanggapi perasaannya, bukan kata-katanya. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menyarankan agar tidak mencoba meyakinkan orang tersebut bahwa beliau keliru: perasaannya nyata, jadi jawablah lebih dulu dengan penghiburan dan keyakinan, baru kemudian arahkan dengan lembut.
+Tanggapi perasaannya, bukan kata-katanya. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menyarankan agar tidak mencoba meyakinkan orang tersebut bahwa mereka salah: perasaan mereka nyata, jadi berikan kenyamanan dan kepastian terlebih dahulu, lalu alihkan perhatian dengan lembut.
 
 Kalimat yang sering membantu:
 
-- **Sebutkan perasaannya.** “Sepertinya Ibu rindu rumah.”
-- **Yakinkan.** “Di sini Ibu aman, dan saya menemani Ibu.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) menyarankan kata-kata sederhana “Di sini Anda aman.”
-- **Ajak mengenang.** “Ceritakan tentang rumah Ibu. Seperti apa dapurnya dulu?” Bertanya tentang masa lalu yang jauh biasanya terasa lebih nyaman daripada pertanyaan tentang hari ini.
-- **Tawarkan sesuatu untuk dilakukan bersama.** “Kita minum teh dulu, yuk,” atau “Mau bantu saya melipat handuk-handuk ini?”
+- **Sebutkan perasaannya.** "Sepertinya Anda sedang merindukan rumah."
+- **Berikan ketenangan.** "Anda aman di sini, dan saya menemani Anda." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) menyarankan kata-kata sederhana, "Anda aman di sini."
+- **Ajak mengingat kenangan.** "Ceritakan tentang rumah Anda. Seperti apa dapur Anda?" Bertanya tentang masa lalu yang jauh biasanya terasa lebih nyaman daripada pertanyaan tentang hari ini.
+- **Tawarkan sesuatu untuk dilakukan bersama.** "Mari kita minum teh dulu," atau "Mau membantu saya melipat handuk ini?"
 
-Nada yang hangat dan sentuhan di lengan, jika beliau suka disentuh, bisa mengatakan lebih banyak daripada kata-kata.
+Nada suara yang hangat dan sentuhan di lengan, jika mereka menyukainya, bisa menyampaikan lebih banyak daripada kata-kata.
 
-## Apa yang sebaiknya dihindari?
+## Apa yang sebaiknya saya hindari?
 
-- **Membantah atau menjelaskan.** “Sekarang Ibu tinggal di sini” atau “Ini sudah jadi rumah Ibu selama 40 tahun” meminta beliau menerima sesuatu yang sulit diterima akibat demensia, dan bisa terasa seperti dikatakan salah.
-- **Menguji.** “Memangnya Ibu tidak ingat?” atau “Alamatnya di mana?” menambah tekanan.
-- **Menghalangi pintu dengan marah.** Jika beliau melangkah keluar, tetaplah tenang dan berjalanlah bersamanya. Jalan kaki singkat bersama sering meredakan dorongan itu.
-- **Terburu-buru.** Beri beliau waktu untuk berbicara tentang rumah sebelum Anda mengganti topik.
+- **Berdebat atau menjelaskan.** "Anda tinggal di sini sekarang" atau "Ini rumah Anda selama 40 tahun" meminta mereka menerima sesuatu yang sulit diterima karena demensia, dan bisa terasa seperti mereka disalahkan.
+- **Menguji ingatan.** "Apa Anda tidak ingat?" atau "Alamatnya apa?" menambah tekanan.
+- **Menghalangi pintu dengan marah.** Jika mereka hendak keluar, tetap tenang dan berjalanlah bersama mereka. Jalan kaki sebentar bersama sering kali dapat meredakan keinginan itu.
+- **Terburu-buru.** Beri mereka waktu untuk bercerita tentang rumah sebelum Anda mengalihkan topik.
 
-## Kegiatan yang bisa membantu saat itu juga
+## Kegiatan yang dapat membantu saat itu juga
 
-Setelah Anda mengakui perasaannya, kegiatan yang tenang dan akrab dapat mengalihkan perhatian tanpa mengabaikannya.
+Setelah Anda mengakui perasaannya, kegiatan yang tenang dan akrab dapat mengalihkan perhatian tanpa mengabaikan perasaan tersebut.
 
-1. **Lihat foto rumah dan keluarga.** Bukalah halaman demi halaman dan beri komentar (“Wah, kebunnya bagus”), bukan mengajukan pertanyaan. Di ponsel atau tablet, [Pasangan foto](/games/photo-pairs/) mengubah foto keluarga Anda sendiri menjadi permainan mencocokkan yang lembut, dan fotonya tetap berada di perangkat Anda.
-2. **Bicarakan tentang rumah.** [Kartu obrolan](/games/conversation-cards/) menawarkan ajakan bicara terbuka tentang rumah, dapur, tetangga, dan hari raya, tanpa jawaban yang benar atau salah.
-3. **Putar musik yang beliau sukai.** National Institute on Aging mencantumkan musik yang menenangkan di antara cara meredakan agitasi. Lihat [kegiatan musik](/activities/music/) kami.
-4. **Beri camilan atau minuman.** Lapar dan haus bisa tampak seperti gelisah. Secangkir teh atau camilan kesukaan juga merupakan ritual kecil tentang berada di rumah.
-5. **Jalan kaki atau duduk di luar.** Bergerak dan terkena cahaya siang membantu, terutama di awal hari.
-6. **Beri pekerjaan yang akrab.** Melipat cucian, merapikan sendok dan garpu, atau menyiram tanaman bisa menghadirkan kembali perasaan mengurus rumah.
-7. **Perlambat semuanya.** Matikan TV, kurangi kebisingan dan silau, dan coba jeda [bernapas dengan tenang](/games/calm-breathing/) bersama.
+1. **Lihat foto rumah dan keluarga.** Balik halamannya dan beri komentar ("Lihat taman itu") daripada mengajukan pertanyaan. Di ponsel atau tablet, [Photo pairs](/games/photo-pairs/) mengubah foto keluarga Anda menjadi permainan mencocokkan yang lembut, dan foto-foto itu tetap ada di perangkat Anda.
+2. **Berbincang tentang rumah.** [Conversation cards](/games/conversation-cards/) menawarkan pertanyaan terbuka tentang rumah, dapur, tetangga, dan hari raya, tanpa jawaban benar atau salah.
+3. **Putar musik yang mereka sukai.** National Institute on Aging menyebut musik yang menenangkan sebagai salah satu cara untuk meredakan kegelisahan. Lihat [kegiatan musik](/activities/music/) kami.
+4. **Berikan camilan atau minuman.** Rasa lapar dan haus bisa terlihat seperti gelisah. Secangkir teh atau camilan favorit juga bisa menjadi kebiasaan kecil yang terasa seperti di rumah.
+5. **Jalan kaki atau duduk di luar.** Bergerak dan terkena cahaya matahari dapat membantu, terutama di awal hari.
+6. **Berikan pekerjaan yang akrab.** Melipat cucian, menyortir peralatan makan, atau menyiram tanaman dapat mengembalikan rasa sedang mengurus rumah.
+7. **Perlambat segalanya.** Matikan TV, kurangi kebisingan dan cahaya menyilaukan, lalu coba jeda [pernapasan tenang](/games/calm-breathing/) bersama.
 
-Jika satu ide tidak berhasil, coba yang lain nanti. Duduk tenang bersama juga hasil yang baik.
+Jika satu cara tidak cocok, coba cara lain nanti. Duduk bersama dengan tenang juga merupakan hasil yang baik.
 
-## Periksa penyebab yang bisa diatasi
+## Periksa penyebab yang bisa diperbaiki
 
-| Periksa | Yang bisa dicoba |
+| Hal yang perlu diperiksa | Yang bisa dicoba |
 | --- | --- |
 | Lapar atau haus | Tawarkan minuman dan camilan kecil |
-| Perlu ke toilet | Tawarkan ke kamar mandi, dengan tenang dan tidak berlebihan |
-| Nyeri atau tidak nyaman | Cari tanda seperti meringis, memegangi bagian tubuh, atau sembelit, dan beri tahu dokternya |
+| Perlu ke toilet | Tawarkan kunjungan ke kamar mandi, dengan tenang dan tanpa ribut |
+| Sakit atau tidak nyaman | Perhatikan tanda seperti meringis, memegang bagian tubuh, atau sembelit, lalu beri tahu dokter mereka |
 | Terlalu panas atau terlalu dingin | Sesuaikan lapisan pakaian atau suhu ruangan |
 | Bising atau terlalu ramai | Pindah ke ruangan yang lebih tenang, matikan TV |
-| Lelah atau terlalu banyak rangsangan | Istirahat, redupkan ruangan, putar musik yang lembut |
-| Sore hari | Lihat bagian tentang sundowning di bawah |
+| Lelah atau terlalu banyak rangsangan | Beristirahat, redupkan ruangan, putar musik lembut |
+| Sore menjelang malam | Lihat bagian tentang sundowning di bawah |
 
-Alzheimer's Society menyarankan untuk mencatat singkat kapan permintaan itu muncul, misalnya sebelum makan, setelah ada tamu, atau menjelang senja. Pola yang terlihat memudahkan Anda merencanakan lebih awal.
+Alzheimer's Society menyarankan untuk mencatat singkat kapan keinginan pulang ini terjadi, misalnya sebelum makan, setelah ada tamu, atau saat senja. Pola ini dapat membantu Anda merencanakan langkah ke depan.
 
-## Bolehkah berbohong demi kebaikan?
+## Apakah boleh mengatakan kebohongan kecil yang baik?
 
-Ini perdebatan yang nyata, dan keluarga yang penuh kasih sampai pada kesimpulan yang berbeda. Alzheimer's Society mengatakan tidak ada satu jawaban yang benar: ketidakjujuran bisa membuat sebagian orang makin curiga, jadi putuskan apa yang terbaik bagi orang tersebut dan bersikaplah konsisten. Di Penn Memory Center, pandangan salah satu kodirekturnya adalah bahwa kebenaran menjadi pilihan utama dan ketidakjujuran yang lembut hanya dapat diterima ketika orang tersebut tidak sanggup mencerna suatu kebenaran tertentu, dan Anda tidak boleh sekali pun menertawakan kenyataan yang beliau rasakan.
+Ini adalah perdebatan yang nyata, dan keluarga yang penuh kasih bisa memiliki pandangan berbeda. Alzheimer's Society mengatakan tidak ada satu jawaban yang benar: hal yang tidak sepenuhnya benar bisa membuat sebagian orang lebih curiga, jadi tentukan apa yang terbaik bagi orang tersebut dan bersikaplah konsisten. Di Penn Memory Center, salah satu pendapat dari wakil direkturnya adalah bahwa kejujuran adalah pilihan utama dan ungkapan yang tidak sepenuhnya benar dapat diterima hanya jika orang tersebut tidak dapat memahami suatu kebenaran tertentu, dan Anda tidak boleh mengejek cara mereka memandang kenyataan.
 
-Banyak pendamping merasa jalan tengah berhasil: penghiburan yang jujur dan pengalihan lebih dulu (“Malam ini kita tetap di sini, dan saya ada di dekat Ibu”), tanpa berdebat tentang di mana rumah itu.
+Banyak pendamping merasa jalan tengah bisa membantu: mulai dengan penghiburan yang jujur dan pengalihan perhatian ("Kita akan tinggal di sini malam ini, dan saya ada di sini bersama Anda"), tanpa berdebat tentang di mana rumah itu berada.
 
-## Bagaimana jika terjadi setiap sore atau malam?
+## Bagaimana jika ini terjadi setiap sore atau malam?
 
-Kegelisahan yang mulai atau bertambah pada sore hari sering disebut sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) menyarankan jadwal yang teratur, sinar matahari dan kegiatan setiap hari, lebih sedikit tidur siang di waktu sore, serta tidak ada kafein atau alkohol menjelang malam. Menyalakan lampu sebelum senja juga bisa membantu. Panduan kami tentang [kegiatan tenang di sore hari](/caregiving/late-day-restlessness/) membahasnya lebih lanjut.
+Kegelisahan yang dimulai atau memburuk pada sore menjelang malam sering disebut sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) menyarankan jadwal yang teratur, cahaya matahari dan aktivitas setiap hari, mengurangi tidur siang di sore hari, serta tidak mengonsumsi kafein atau alkohol menjelang malam. Menyalakan lampu sebelum senja juga dapat membantu. Panduan kami tentang [kegiatan tenang di sore menjelang malam](/caregiving/late-day-restlessness/) memiliki informasi lebih lanjut.
 
-## Menjaga keselamatannya jika beliau mencoba pergi
+## Menjaga keselamatan jika mereka mencoba pergi
 
-Minta pulang bisa berujung pada berkeliaran. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) memperkirakan bahwa enam dari sepuluh orang dengan demensia akan berkeliaran setidaknya sekali.
+Keinginan untuk pulang dapat menyebabkan seseorang berkeliaran. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) memperkirakan bahwa enam dari sepuluh orang yang hidup dengan demensia akan berkeliaran setidaknya sekali.
 
-**Bersiaplah lebih awal:**
+**Siapkan lebih dulu:**
 
-- Gelang identitas atau gelang medis dengan nama beliau dan nomor telepon Anda, serta label di pakaiannya. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) menyebut program MedicAlert and Alzheimer's Association Safe and Found (layanan di AS), yang mungkin berbayar. Di tempat Anda, tanyakan kepada puskesmas, dokter, atau perkumpulan Alzheimer setempat apakah ada layanan serupa.
-- Bel atau alarm pintu, dan kunci yang dipasang di tempat tinggi atau rendah. Jangan pernah mengunci orang tersebut sendirian di dalam.
-- Foto terbaru yang jelas, dan daftar tempat yang mungkin beliau tuju, seperti rumah atau tempat kerja lamanya.
-- Beri tahu tetangga yang dipercaya, dan berikan nomor telepon Anda.
+- Gelang identitas atau medis dengan nama mereka dan nomor telepon Anda, serta label pada pakaian mereka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) menyebut program MedicAlert dan Alzheimer's Association Safe and Found, yang mungkin memerlukan biaya.
+- Bel pintu atau alarm, dan kunci yang dipasang tinggi atau rendah. Jangan pernah mengunci orang tersebut sendirian di dalam.
+- Foto jarak dekat yang terbaru, dan daftar tempat yang mungkin mereka tuju, seperti rumah atau tempat kerja lama.
+- Beri tahu tetangga tepercaya, dan berikan nomor telepon Anda.
 
-**Jika beliau hilang:** segera mulai mencari; Alzheimer's Association mencatat bahwa banyak orang ditemukan dalam jarak 1,5 mil (sekitar 2,4 kilometer). Jika belum ditemukan dalam 15 menit, hubungi nomor darurat setempat (di Indonesia 112; sumber kami menyebut 911 di AS) dan sampaikan bahwa orang tersebut hidup dengan demensia. Segera hubungi nomor darurat jika ada yang berada dalam bahaya.
+**Jika mereka hilang:** periksa tempat aman di sekitar sambil segera menghubungi polisi setempat atau layanan darurat. Jangan menunggu beberapa menit tertentu sebelum melapor. [Artikel jurnal U.S. Department of Justice tahun 2021 tentang penyelidikan orang hilang](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) menyatakan bahwa lembaga penegak hukum tidak boleh mewajibkan masa tunggu tertentu; artikel itu juga menyebut gejala seperti demensia sebagai perhatian risiko tinggi. Prosedur pelaporan setempat dapat berbeda. Beri tahu petugas bahwa orang tersebut memiliki demensia, sampaikan lokasi terakhir yang diketahui dan foto terbaru, lalu ikuti arahan mereka. Jika ada orang lain yang dapat membantu, mintalah mereka tetap berada di dekat telepon. Jangan mencari di tempat yang tidak aman sendirian.
 
-## Kapan sebaiknya menghubungi dokter?
+## Kapan saya harus menghubungi dokter?
 
-Hubungi dokternya segera jika permintaan pulang atau kebingungannya muncul tiba-tiba, atau memburuk drastis dalam hitungan jam atau hari. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) mengatakan perilaku yang berubah tiba-tiba atau dengan cepat, terutama setelah infeksi atau pergantian obat, perlu segera diperiksa. Kebingungan mendadak bisa berupa delirium, yang menurut [NHS](https://www.nhs.uk/symptoms/confusion/) memerlukan pertolongan segera; infeksi saluran kemih adalah penyebab yang umum pada lansia.
+Segera hubungi dokter mereka jika keinginan pulang atau kebingungan dimulai tiba-tiba, atau memburuk jauh dalam hitungan jam atau hari. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) menyatakan bahwa perubahan perilaku yang tiba-tiba atau berubah cepat, terutama setelah infeksi atau perubahan obat, harus segera diperiksa. Kebingungan mendadak bisa merupakan delirium, yang menurut [NHS](https://www.nhs.uk/symptoms/confusion/) memerlukan bantuan segera; infeksi saluran kemih adalah penyebab umum pada orang lanjut usia.
 
-Menyebutkan pola yang menetap pada janji periksa berikutnya juga membantu, sebab nyeri, suasana hati yang murung, gangguan tidur, atau efek samping obat bisa ikut berperan.
+Menyampaikan pola yang terus berulang pada kunjungan berikutnya juga dapat membantu, karena rasa sakit, suasana hati yang murung, masalah tidur, atau efek samping obat semuanya dapat berperan.

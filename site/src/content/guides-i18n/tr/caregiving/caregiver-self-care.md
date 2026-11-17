@@ -1,37 +1,37 @@
 ---
-title: "Bakım Verenin Kendine Bakımı: Mola, Destek ve Tükenmişlik Belirtileri"
-seoTitle: "Demans Bakım Verenin Kendine Bakımı: Mola ve Destek"
-description: "Bakım veren tükenmişliğinin belirtileri, geçici bakım ve destek grubu bulma yolları; ABD’deki ücretsiz hatlar ve Türkiye’de başvurulabilecek yerel kurumlar."
+title: "Bakım Veren Öz Bakımı: Mola, Destek ve Tükenmişlik"
+seoTitle: "Demans Bakımında Öz Bakım: Mola ve Destek"
+description: "Bakım veren tükenmişliğinin belirtileri, mola ve destek grupları bulma yolları ile ABD’de ücretsiz yardım hatları: Alzheimer’s Association 7/24 Yardım Hattı ve Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demansı olan birine bakmak zordur ve kendinize bakmak işin bir parçasıdır.
-  Yorgunluk, öfke, kötü uyku ve arkadaşlardan uzaklaşma gibi uyarı işaretlerini
-  izleyin. Belirli konularda yardım isteyin, geçici bakım desteğinden yararlanın
-  ve bir destek grubuna katılın. ABD’de ücretsiz destek arasında 1-800-272-3900
-  numaralı Alzheimer's Association 7/24 Yardım Hattı ve 1-800-677-1116 numaralı
-  Eldercare Locator var; başka yerlerde yerel Alzheimer derneğine ve belediye
-  sosyal hizmetlerine başvurabilirsiniz.
+  Demansla yaşayan birine bakım vermek zor olabilir ve kendinize iyi bakmak da
+  bu sürecin bir parçasıdır. Bitkinlik, sinirlilik, uykusuzluk ve arkadaşlardan
+  uzaklaşma gibi uyarı işaretlerine dikkat edin. Belirli konularda yardım
+  isteyin, mola bakımından yararlanın ve bir destek grubuna katılın. ABD’de
+  ücretsiz yardım için Alzheimer’s Association 7/24 Yardım Hattı
+  (1-800-272-3900) ve Eldercare Locator (1-800-677-1116) ile iletişime
+  geçebilirsiniz.
 keyPoints:
-  - "Tükenmişlik çoğu zaman yorgunluk, öfke, kötü uyku, hüzün ve kendi sağlık bakımınızı aksatma biçiminde ortaya çıkar."
-  - "Geçici bakım desteği, birkaç saatten birkaç haftaya kadar, evde ya da bir bakım ortamında size mola verir."
-  - "Belirli işler için yardım isteyin; pek çok kişi yardım etmek ister ama nasıl edeceğini bilmez."
-  - "Alzheimer's Association 7/24 Yardım Hattı (1-800-272-3900, ABD) her an ücretsiz ve gizli destek sunar; başka ülkelerde yerel Alzheimer derneğine bakın."
-  - "Eldercare Locator (1-800-677-1116, ABD) sizi yerel hizmetlere ulaştırır; Türkiye’de belediye sosyal hizmetleri benzer bir başlangıç noktasıdır."
-  - "Kendinizi kriz içinde hissediyorsanız ABD’de 988’i arayın ya da mesaj atın; Türkiye’de 112’yi arayın. Acil durumda 112 (ABD’de 911)."
+  - "Tükenmişlik çoğu zaman bitkinlik, sinirlilik, uykusuzluk, üzüntü ve kendi sağlık bakımınızı ihmal etme şeklinde görülür."
+  - "Mola bakımı, evde ya da bir bakım ortamında birkaç saatten birkaç haftaya kadar dinlenmenizi sağlar."
+  - "Belirli işler için yardım isteyin; birçok kişi yardım etmek ister ama nasıl yardımcı olacağını bilemez."
+  - "Alzheimer’s Association 7/24 Yardım Hattı (1-800-272-3900) her an ücretsiz ve gizli destek sunar."
+  - "Eldercare Locator (1-800-677-1116) sizi Yerel Yaşlılık Hizmetleri Kurumu dahil olmak üzere yerel hizmetlere yönlendirir."
+  - "Kendinizi kriz durumunda hissediyorsanız 988’i arayın veya mesaj gönderin. Acil bir durumda 911’i arayın."
 faq:
   - q: "Bakım veren tükenmişliğinin belirtileri nelerdir?"
-    a: "Sık görülen belirtiler arasında yorgun, bunalmış ya da kaygılı hissetmek, kolayca öfkelenmek ya da sabırsızlanmak, uyku sorunları, hüzünlü ya da umutsuz hissetmek, arkadaşlardan uzaklaşmak, sık baş ağrısı ya da ağrılar, kendi öğünlerinizi, egzersizinizi ya da sağlık bakımınızı aksatmak yer alır. Bunlar düzenli olarak yaşanıyorsa doktorunuzla konuşun."
-  - q: "Yakınımda geçici bakım desteğini nasıl bulurum?"
-    a: "ABD’de Eldercare Locator (1-800-677-1116 ya da eldercare.acl.gov) üzerinden yerel Area Agency on Aging kurumuna, ARCH National Respite Locator Service’e ya da 1-800-272-3900 numaralı Alzheimer's Association Yardım Hattı’na başvurabilirsiniz. Başka ülkelerde belediye sosyal hizmetlerine ve yerel Alzheimer derneğine sorun. Aile, arkadaşlar ve gönüllüler de bu molayı sağlayabilir."
-  - q: "Medicare geçici bakım desteğini öder mi?"
-    a: "National Institute on Aging’e göre ABD’de Medicare, hospis bakımı alan bir kişi için hastanede ya da yetenekli bakım tesisinde en fazla art arda beş günlük geçici bakımın maliyetinin büyük bölümünü karşılar. Çoğu özel sağlık sigortası geçici bakımı karşılamaz; Medicaid ve bazı uzun süreli bakım sigortası planları yardımcı olabilir. Başka ülkelerde kapsam farklıdır; sağlık güvencenize ve yerel sosyal hizmetlere sorun."
-  - q: "Alzheimer's Association Yardım Hattı gerçekten ücretsiz mi, geceleri de açık mı?"
-    a: "Evet. Alzheimer's Association, 1-800-272-3900 numaralı Yardım Hattı’nın ücretsiz ve gizli olduğunu, yılın 365 günü, günün 24 saati personelle çalıştığını ve pek çok dilde yardım verildiğini söylüyor. Aktarma hizmeti için 711’i arayın. Hat ABD içindir."
-  - q: "Bakımdan mola vermek bencillik midir?"
-    a: "Hayır. Dinlenmek bakım vermeyi sürdürmenize yardım eder; geçici bakım desteği de baktığınız kişiye farklı bir ortam ve etkinlik sunabilir. Birçok bakım veren, daha önce yardım istemiş olmayı dilediğini söylüyor."
+    a: "Yaygın belirtiler arasında bitkin, bunalmış ya da kaygılı hissetmek, kolayca öfkelenmek ya da sabrı tükenmek, uyku güçlüğü, üzgün ya da umutsuz hissetmek, arkadaşlardan uzaklaşmak, sık sık baş ağrısı ya da ağrı yaşamak ve kendi öğünlerinizi, egzersizinizi ya da sağlık bakımınızı ihmal etmek yer alır. Bu tür belirtiler düzenli olarak yaşanıyorsa doktorunuzla konuşun."
+  - q: "Yakınımda mola bakımını nasıl bulabilirim?"
+    a: "Yerel Yaşlılık Hizmetleri Kurumunuza ulaşmak için Eldercare Locator (1-800-677-1116 veya eldercare.acl.gov), ARCH National Respite Locator Service ya da Alzheimer’s Association Yardım Hattı (1-800-272-3900) ile başlayabilirsiniz. Aile üyeleri, arkadaşlar ve gönüllüler de mola sağlayabilir."
+  - q: "Medicare mola bakımını karşılar mı?"
+    a: "National Institute on Aging’e göre, bakımevi hizmeti alan bir kişi için Medicare, hastane ya da uzman hemşirelik tesisinde üst üste beş güne kadar mola bakımının büyük bölümünü karşılar. Çoğu özel sağlık sigortası mola bakımını karşılamaz; Medicaid ve bazı uzun süreli bakım sigortası planları yardımcı olabilir."
+  - q: "Alzheimer’s Association Yardım Hattı gerçekten ücretsiz mi ve gece de açık mı?"
+    a: "Evet. Alzheimer’s Association, 1-800-272-3900 numaralı Yardım Hattı’nın ücretsiz ve gizli olduğunu, yılın her günü günün her saati hizmet verdiğini ve birçok dilde destek sunulduğunu belirtir. Röle hizmeti için 711’i arayabilirsiniz."
+  - q: "Bakım vermeye ara vermek bencillik mi?"
+    a: "Hayır. Dinlenmek, bakım vermeye devam etmenize yardımcı olur ve mola, bakım verdiğiniz kişi için de farklı bir ortam ve etkinlik sağlayabilir. Birçok bakım veren, daha sonra daha erken yardım istemiş olmayı dilediğini söyler."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -68,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Demansla yaşayan birine bakıyorsanız, bunu büyük olasılıkla geç saatte, yorgun ve yapamadığınız işlerin listesiyle okuyorsunuz. Bu normaldir. Kendinize bakmak bir lüks ya da her şeyi bitirdikten sonraki bir ödül değildir. Devam edebilmenizi sağlayan şeydir.
+Demansla yaşayan birine bakım veriyorsanız, muhtemelen bu yazıyı geç saatte, yorgun bir şekilde ve henüz yapamadığınız işlerin listesini düşünerek okuyorsunuz. Bu çok normal. Kendinize iyi bakmak bir lüks ya da her şeyi bitirdiğinizde hak ettiğiniz bir ödül değildir. Devam etmenizi sağlayan şeydir.
 
-Bu sayfada tükenmişliğin uyarı işaretlerini, gerçek bir molayı nasıl alacağınızı, desteği nerede bulacağınızı ve bugün arayabileceğiniz ABD’deki ücretsiz hatları bulacaksınız. Bu hatlar ABD’ye özgüdür; başka bir ülkedeyseniz yerel karşılıklarını kullanın. Türkiye’de belediyenizin sosyal hizmetler birimine ve yerel bir Alzheimer Derneği’ne başvurabilirsiniz.
+Bu sayfada tükenmişlik belirtilerini, gerçekten dinlenmenin yollarını, nereden destek bulabileceğinizi ve bugün arayabileceğiniz ABD’deki ücretsiz yardım hatlarını bulabilirsiniz.
 
 ## Bakım veren tükenmişliğinin belirtileri nelerdir?
 
-Tükenmişlik çoğu zaman yavaş yavaş sinsice gelir; bu yüzden kendi uyarı işaretlerinizi bilmek yardımcı olur. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers), bakım veren stresinin belirtileri arasında şunları sayıyor:
+Tükenmişlik çoğu zaman yavaş yavaş ortaya çıkar, bu yüzden kendi uyarı işaretlerinizi tanımak faydalı olur. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers), bakım veren stresinin şu belirtilerini sıralar:
 
-- yorgun, bunalmış ya da kaygılı hissetmek;
-- kolayca öfkelenmek ya da sabırsızlanmak;
-- yalnız ya da başkalarından kopuk hissetmek;
+- bitkin, bunalmış ya da kaygılı hissetmek;
+- kolayca öfkelenmek ya da sabrı tükenmek;
+- yalnız ya da başkalarından kopmuş hissetmek;
 - uyumakta güçlük çekmek ya da yeterince uyuyamamak;
-- hüzünlü ya da umutsuz hissetmek, eskiden keyif aldığınız şeylere ilgiyi kaybetmek;
-- sık baş ağrısı, ağrılar ya da başka bedensel sorunlar;
-- egzersiz yapmaya ya da kendinize sağlıklı yemek hazırlamaya vakit bulamamak;
-- duş almayı ya da başka kişisel bakımı aksatmak;
-- alkolü ya da uyuşturucuları, reçeteli ilaçlar dahil, kötüye kullanmak.
+- üzgün ya da umutsuz hissetmek ya da eskiden keyif aldığınız şeylere ilginizi kaybetmek;
+- sık sık baş ağrısı, ağrı ya da başka bedensel sorunlar yaşamak;
+- egzersiz yapmaya ya da kendiniz için sağlıklı yemek hazırlamaya zaman bulamamak;
+- duş almayı ya da diğer kişisel bakım alışkanlıklarını ihmal etmek;
+- reçeteli ilaçlar dahil alkolü ya da maddeleri yanlış kullanmak.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) bunlara hastalığı inkâr etmek, kişiye öfkelenmek (“inatlık ediyor”), gelecek kaygısı, odaklanma güçlüğü ve sağlık sorunlarının ağırlaşması gibi işaretleri ekliyor. Bunlara düzenli olarak rastlıyorsanız doktorunuzla konuşmanızı öneriyor.
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress), hastalığı inkâr etmeyi, bakım verdiğiniz kişiye kızmayı («sadece inat ediyor»), gelecek kaygısını, odaklanma güçlüğünü ve sağlık sorunlarının ağır basmasını da belirtiler arasına ekler. Bu tür belirtileri düzenli olarak yaşıyorsanız doktorunuzla konuşmanızı önerir.
 
-NIA’nın önerisi, tamamen bunalana kadar beklememek: işaretlerinizi erken fark edin ve harekete geçin.
+NIA’nın tavsiyesi, tamamen tükenene kadar beklememektir. Belirtileri erken fark edin ve harekete geçin.
 
-## Bugün, beş dakikada neler yapabilirim?
+## Bugün beş dakikada ne yapabilirim?
 
-Küçük molalar da sayılır. Bunların hiçbiri tükenmişliği çözmez ama zor bir öğleden sonrayı atlatmanıza yardım edebilir.
+Küçük molalar da önemlidir. Bunların hiçbiri tükenmişliği tek başına çözmez, ama zor bir öğleden sonunu atlatmanıza yardımcı olabilir.
 
-- **Dışarı çıkın.** Kişi güvende ve sakinken balkonda ya da bahçede oturun, kapının önüne kadar yürüyün.
-- **Yavaş nefes alın.** Zor bir soruyu yanıtlamadan önce birkaç yavaş nefes alın. Baktığınız kişiyle birlikte bir [Sakin nefes](/games/calm-breathing/) molası da verebilirsiniz.
-- **Su için ve bir şeyler yiyin.** Kendi öğünlerinizi unutmak kolaydır.
-- **Bir arkadaşınıza mesaj atın.** Bir şey istemek için değil, sadece bağ kurmak için.
-- **Kendinize nazik bir şey söyleyin.** NIA’nın [kendinize bakma rehberi](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself), “Elimden gelenin en iyisini yapıyorum”, “Kusursuz değilim ve bu sorun değil”, “Birlikte huzur içinde olabildiğimiz anların tadını çıkaracağım” gibi cümleler öneriyor.
+- **Dışarı çıkın.** Bakım verdiğiniz kişi güvende ve sakin durumdayken verandada oturun ya da posta kutusuna kadar yürüyün.
+- **Yavaş nefes alın.** Zor bir soruyu yanıtlamadan önce birkaç yavaş nefes alın. [Sakin Nefes](/games/calm-breathing/) molasını bakım verdiğiniz kişiyle birlikte de yapabilirsiniz.
+- **Biraz su için ve bir şeyler yiyin.** Kendi öğünlerinizi unutmak çok kolaydır.
+- **Bir arkadaşınıza mesaj atın.** Bir şey istemek için değil, sadece bağlantı kurmak için.
+- **Kendinize nazik bir şey söyleyin.** NIA’nın [kendinize bakma rehberi](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself), «Elimden gelenin en iyisini yapıyorum», «Mükemmel değilim ve bu sorun değil» ve «Birlikte huzur bulabildiğimiz anların tadını çıkaracağım» gibi cümleler önermektedir.
 
-## Geçici bakım desteği nedir ve nasıl alınır?
+## Mola bakımı nedir ve nasıl alabilirim?
 
-Geçici bakım desteği (respite care), baktığınız kişi için kısa süreli bakımdır; böylece dinlenebilirsiniz. NIA’nın [geçici bakım sayfası](https://www.nia.nih.gov/health/caregiving/what-respite-care), bunun birkaç saatten birkaç haftaya kadar sürebileceğini ve evde, bir sağlık kuruluşunda ya da yetişkin gündüz bakım merkezinde olabileceğini açıklıyor.
+Mola bakımı, dinlenebilmeniz için bakım verdiğiniz kişiye sunulan kısa süreli bakımdır. NIA’nın [mola bakımı sayfası](https://www.nia.nih.gov/health/caregiving/what-respite-care), bunun birkaç saatten birkaç haftaya kadar sürebileceğini ve evde, bir sağlık kuruluşunda ya da yetişkin gündüz bakım merkezinde verilebileceğini açıklar.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) yaygın türleri şöyle anlatıyor:
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) yaygın türleri şöyle açıklar:
 
 | Tür | Nedir |
 | --- | --- |
-| Evde yardım | Bir arkadaş, akraba, gönüllü ya da ücretli bir refakatçı veya bakım elemanı eve gelir |
-| Yetişkin gündüz merkezi | Müzik ve sanat gibi planlı etkinlikler, güvenli bir grup ortamında; ulaşım ve yemek çoğu zaman sunulur |
-| Gece ya da kısa süreli konaklama | Uzun süreli bakım topluluğu, kişiye bir gece, birkaç gün ya da birkaç hafta bakar |
+| Evde yardım | Bir arkadaş, akraba, gönüllü ya da ücretli bir refakatçi veya yardımcı eve gelir |
+| Yetişkin gündüz bakım merkezi | Güvenli bir grup ortamında müzik ve sanat gibi planlı etkinlikler; ulaşım ve yemekler sıklıkla sunulur |
+| Geceleme ya da kısa süreli konaklama | Bir uzun süreli bakım merkezi, kişiye bir gece, birkaç gün ya da birkaç hafta bakım sağlar |
 
-**Kim öder?** NIA’ya göre aile, arkadaşlar ya da gönüllülerden gelen geçici bakım desteği hiçbir şeye mal olmayabilir. Profesyonel hizmetler saatlik ya da günlük ücret alır. ABD’de hospis bakımı alan bir kişi için Medicare, hastanede ya da yetenekli bakım tesisinde art arda en fazla beş günlük geçici bakımın maliyetinin büyük bölümünü karşılar. Medicaid yardımcı olabilir. Çoğu özel sağlık sigortası geçici bakımı karşılamaz, ancak bazı uzun süreli bakım sigortası planları karşılar. Bunlar ABD örnekleridir; başka ülkelerde kapsam farklıdır. Sağlık güvencenize ve belediye sosyal hizmetlerine sorun.
+**Kim öder?** NIA’ya göre, aile, arkadaşlar ya da gönüllülerden alınan mola ücretsiz olabilir. Profesyonel hizmetler saatlik ya da günlük ücret alır. Bakımevi hizmeti alan bir kişi için Medicare, hastane ya da uzman hemşirelik tesisinde üst üste beş güne kadar mola bakımının büyük bölümünü karşılar. Medicaid yardımcı olabilir. Çoğu özel sağlık sigortası mola bakımını karşılamaz, ancak bazı uzun süreli bakım sigortası planları karşılayabilir.
 
-**İpucu:** Alzheimer's Association, geçici bakım sağlayıcılarını acil olmayan bir durumda denemenizi öneriyor; böylece birdenbire yardıma ihtiyaç duyarsanız hazır olurlar.
+**İpucu:** Alzheimer’s Association, ani bir yardıma ihtiyaç duymanız hâlinde hazır olmaları için mola sağlayıcılarını acil olmayan bir durumda denemenizi önerir.
 
-## Yakınımda yardımı nerede bulabilirim?
+## Yakınımda yardım nasıl bulabilirim?
 
-ABD’de, sizi yerel yardıma yönlendirebilecek ücretsiz hizmetler var. Başka bir ülkedeyseniz yerel Alzheimer derneğine, belediyenizin sosyal hizmetler birimine ya da aile hekiminize sorarak başlayabilirsiniz.
+ABD’deki birkaç ücretsiz hizmet sizi yerel yardıma yönlendirebilir.
 
-- **Alzheimer's Association 7/24 Yardım Hattı: 1-800-272-3900.** [Yardım Hattı](https://www.alz.org/help-support/resources/helpline) ücretsiz ve gizlidir, yılın her günü günün 24 saati personelle çalışır; iki dilli personel ya da tercümanlar aracılığıyla 200’den fazla dilde yardım verir. Aktarma hizmeti için 711’i arayın. Davranış değişiklikleri, bakım veren stresi, geçici bakım seçenekleri, yerel programlar ve daha fazlasını konuşabilir, bir bakım danışmanıyla daha uzun bir görüşme isteyebilirsiniz. Personel tıbbi tavsiye vermez.
-- **Eldercare Locator: 1-800-677-1116.** Administration for Community Living’in kamu hizmeti olan [Eldercare Locator](https://eldercare.acl.gov/), sizi yaşlılara ve ailelerine yönelik hizmetlere ulaştırır. Eğitimli personeli arayabilir, mesaj atabilir, çevrimiçi sohbet edebilir ya da e-posta gönderebilir veya konuma göre arama yapabilirsiniz. Sizi yerel Area Agency on Aging kurumuna yönlendirebilir.
-- **ARCH National Respite Locator Service.** [ARCH geçici bakım arama aracı](https://archrespite.org/caregiver-resources/respitelocator/), eyalete göre geçici bakım sağlayıcıları bulmanıza yardım eder; eyaletinizde varsa önce State Respite Coalition ya da Lifespan Respite programıyla iletişime geçmenizi önerir. ARCH, sağlayıcıları denetlemediğini belirtiyor; bu yüzden deneyimlerini ve geçmişlerini kendiniz inceleyin.
+- **Alzheimer’s Association 7/24 Yardım Hattı: 1-800-272-3900.** [Yardım Hattı](https://www.alz.org/help-support/resources/helpline) ücretsiz ve gizlidir, yılın her günü günün her saati hizmet verir ve iki dilli personel ya da tercümanlar aracılığıyla 200’den fazla dilde destek sunar. Röle hizmeti için 711’i arayabilirsiniz. Davranış değişiklikleri, bakım veren stresi, mola seçenekleri, yerel programlar ve daha fazlası hakkında konuşabilir ve bir bakım danışmanıyla daha uzun bir görüşme talep edebilirsiniz. Personel tıbbi tavsiye vermez.
+- **Eldercare Locator: 1-800-677-1116.** Administration for Community Living’in bir kamu hizmeti olan [Eldercare Locator](https://eldercare.acl.gov/), sizi yaşlı yetişkinler ve aileleri için hizmetlere bağlar. Arayabilir, mesaj gönderebilir, çevrim içi sohbet edebilir, e-posta yazabilir ya da konuma göre arama yapabilirsiniz. Sizi yerel Yaşlılık Hizmetleri Kurumunuza yönlendirebilir.
+- **ARCH National Respite Locator Service.** [ARCH mola bulucu](https://archrespite.org/caregiver-resources/respitelocator/), eyalete göre mola sağlayıcıları bulmanıza yardımcı olur ve eyaletinizde varsa önce Eyalet Mola Koalisyonu ya da Lifespan Respite programıyla iletişime geçmenizi önerir. ARCH, sağlayıcıları denetlemediğini belirtir; bu nedenle deneyimlerini ve geçmişlerini kendiniz gözden geçirin.
 
-## Bir destek grubunu nasıl bulurum?
+## Nasıl bir destek grubu bulabilirim?
 
-Yardım Hattı’na sorun ya da çevrimiçi olarak yakınınızdaki grupları arayın. Alzheimer's Association, bakım verenler ve demansla yaşayan kişiler için, yüz yüze ve çevrimiçi, eğitimli kolaylaştırıcılarla [destek grupları yürütüyor](https://www.alz.org/help-support/community/support-groups). Birçok yerde ayrıca özel gruplar da var; örneğin yetişkin bakım verenler ya da genç başlangıçlı ya da erken evre Alzheimer’la yaşayan kişiler için. Ayrıca bakım verenlerin tavsiye paylaştığı ücretsiz bir çevrimiçi topluluk olan ALZConnected’ı da barındırıyor.
+Yardım Hattı’na sorun ya da yakınınızda gruplar arayın. Alzheimer’s Association, bakım verenler ve demansla yaşayan kişiler için yüz yüze ve çevrim içi, eğitimli kolaylaştırıcılar tarafından yürütülen [destek grupları](https://www.alz.org/help-support/community/support-groups) sunar. Birçok yerde ayrıca yetişkin bakım verenler ya da genç yaşta ya da erken evre Alzheimer ile yaşayan kişiler gibi özel gruplar da bulunur. Ayrıca bakım verenlerin tavsiye paylaştığı ücretsiz bir çevrim içi topluluk olan ALZConnected’i de sunar.
 
-Destek grupları, yargılanmadan içinizi dökebileceğiniz, aynı yollardan geçmiş kişilerden pratik ipuçları alabileceğiniz ve kendinizi daha az yalnız hissedebileceğiniz bir yer olabilir. İlk grup size uymazsa bir başkasını deneyin. Türkiye’de de yerel Alzheimer dernekleri aile destek buluşmaları ve gruplar düzenleyebilir; bunu dernekten sorabilirsiniz.
+Destek grupları, yargılanmadan dertleşebileceğiniz, benzer deneyimler yaşamış kişilerden pratik ipuçları alabileceğiniz ve kendinizi daha az yalnız hissedebileceğiniz bir yer olabilir. İlk grup size uygun gelmezse başka bir grubu deneyin.
 
 ## Aileden ve arkadaşlardan nasıl yardım isterim?
 
-Belirli olun. Pek çok kişi yardım etmek ister ama ne önereceğini bilmez. NIA şunları öneriyor:
+Net olun. Birçok kişi yardım etmek ister ama ne önereceğini bilemez. NIA şunları önerir:
 
-- **Başkalarının üstlenebileceği işlerin bir listesini tutun** ve insanların seçmesine izin verin.
-- **Küçük başlayın**, istemek zor geliyorsa.
-- **İşi kişiye uydurun.** Yemek yapmayı seven kuzen perşembe günleri akşam yemeği getirir. Evrak işlerinde iyi olan komşu kâğıt işlerine yardım eder.
-- **Yüz yüze istemek rahatsız ediyorsa** mesaj ya da e-posta kullanın.
-- **Biri teklifte bulunduğunda** verebileceğiniz bir cevabı önceden çalışın: “Sorduğunuz için teşekkürler. Şunlarda yardımcı olabilirsiniz.”
-- **Bazı hayırlar duymayı bekleyin** ve bunları kişisel algılamamaya çalışın.
+- **Başkalarının üstlenebileceği işlerin bir listesini tutun** ve kişilerin seçmesine izin verin.
+- **İstemek zor geliyorsa küçük başlayın.**
+- **İşi kişiye uygun şekilde seçin.** Yemek yapmayı seven kuzen, perşembe günleri yemek getirir. Evrak işlerinde iyi olan komşu, formlarda yardımcı olur.
+- **Yüz yüze istemek sizi rahatsız ediyorsa mesaj ya da e-posta gönderin.**
+- **Biri yardım teklif ettiğinde vereceğiniz yanıtı önceden hazırlayın:** «Sorduğun için teşekkür ederim. Şöyle yardımcı olabilirsin.»
+- **Bazı hayır cevaplarını bekleyin** ve bunu kişisel algılamamaya çalışın.
 
-Diğer fikirler: birinden haftada bir öğleden sonra kişinin yanında oturmasını, onu kısa bir gezintiye çıkarmasını ya da ziyaret edip birlikte bir oyun oynamasını isteyin. [Birlikte oynama rehberimiz](/caregiving/how-to-play-together/) ziyaretçilerle paylaşmak için kolaydır.
+Başka fikirler: Birinden haftada bir öğleden sonra bakım verdiğiniz kişiyle kalmasını, onu kısa bir gezintiye çıkarmasını ya da ziyaret edip birlikte bir oyun oynamasını isteyin. [Birlikte oynama rehberimiz](/caregiving/how-to-play-together/) ziyaretçilerle paylaşması kolaydır.
 
-## Bana bir şey olsaydı ne olurdu?
+## Bana bir şey olursa ne olur?
 
-Şimdiden basit bir yedek plan yapın. NIA, aile ya da yakın arkadaşlarla kimin devreye gireceğine karar vermenizi ve acil durum numaralarını, ilaçları, işe yarayan davranış ipuçlarını ve sevilen etkinlikleri yazdığınız bir not defteri tutmanızı öneriyor. Alzheimer's Association ayrıca kişinin tıbbi iletişim bilgilerinin ve güncel bir ilaç listesinin kolay bulunur durumda olmasını öneriyor.
+Şimdiden basit bir yedek plan yapın. NIA, aile üyeleriyle ya da yakın arkadaşlarla kimin devreye gireceğine karar vermenizi ve acil durum numaralarını, ilaçları, işe yarayan davranış ipuçlarını ve sevilen etkinlikleri içeren bir not defteri tutmanızı önerir. Alzheimer’s Association ayrıca bakım verdiğiniz kişinin sağlık iletişim bilgilerini ve güncel ilaç listesini kolay bulunur bir yerde tutmanızı tavsiye eder.
 
 ## Ne zaman profesyonel ya da acil yardım almalıyım?
 
-Stres belirtileri düzenliyse, kendinizi depresyonda hissediyorsanız ya da başa çıkmakta zorlanıyorsanız doktorunuzla konuşun. Doktorunuza bakım veren olduğunuzu söyleyin. NIA, danışmanların ve sosyal hizmet uzmanlarının zor duygular ve planlama konusunda yardımcı olabileceğini, ABD’de Medicare, Medicaid ve bazı özel sigortaların ruh sağlığı masraflarının bir kısmını karşılayabileceğini belirtiyor.
+Stres belirtileri düzenliyse, kendinizi depresif hissediyorsanız ya da baş etmekte zorlanıyorsanız doktorunuzla konuşun. Doktorunuza bakım veren olduğunuzu söyleyin. NIA, danışmanların ve sosyal hizmet uzmanlarının zor duygularla ve planlamayla yardımcı olabileceğini; Medicare, Medicaid ve bazı özel sigortaların bazı ruh sağlığı masraflarını karşılayabileceğini belirtir.
 
-Kendinizi kriz içinde hissediyorsanız ya da kendinize zarar verme düşünceleriniz varsa ABD’de ücretsiz ve 7/24 hizmet veren [988 Suicide & Crisis Lifeline](https://988lifeline.org/)’ı arayın ya da mesaj atın. Türkiye’de ya da başka bir ülkedeyseniz yerel acil durum numarasını arayın (Türkiye’de 112). Biri acil tehlikedeyse 112’yi (ABD’de 911) arayın.
+Kendinizi kriz durumunda hissediyorsanız ya da kendinize zarar verme düşünceleriniz varsa, ücretsiz ve 7/24 hizmet veren [988 Suicide & Crisis Lifeline](https://988lifeline.org/) hattına ulaşmak için 988’i arayın ya da mesaj gönderin. Birisi acil tehlikedeyse 911’i arayın.
 
-## Birlikte yapılan etkinlikler bana da mola verebilir mi?
+## Birlikte yapılan etkinlikler bana da mola sağlayabilir mi?
 
-Bazen. İkinizin de keyif aldığı sakin bir etkinlik, günün hem sizin hem de baktığınız kişi için daha yumuşak bir parçası olabilir: eski şarkıları dinlemek, fotoğraflara bakmak ya da doğru cevabı olmayan [Sohbet kartları](/games/conversation-cards/) gibi bir oyun. Kişi başkalarıyla birlikte olmaktan hoşlanıyorsa, yaşlılar için bir gündüz merkezinde ya da gündüzlü bakım programında [Resimli tombala](/games/picture-bingo/) ile yapılan grup oturumu size bir saatlik mola verebilir. Fikirler için [bakım evi grupları için etkinlikler](/activities/care-home-groups/) sayfasına bakın.
+Bazen sağlayabilir. İkinizin de keyif aldığı sakin bir etkinlik, sizin için olduğu kadar bakım verdiğiniz kişi için de günün daha yumuşak bir parçası olabilir: eski şarkılar dinlemek, fotoğraflara bakmak ya da doğru yanıt gerektirmeyen [Sohbet Kartları](/games/conversation-cards/) gibi bir oyun. Bakım verdiğiniz kişi sosyalleşmekten hoşlanıyorsa, bir huzurevinde ya da yetişkin gündüz bakım programında [Resimli Tombala](/games/picture-bingo/) ile yapılan bir grup etkinliği size bir saatlik mola sağlayabilir. Fikirler için [bakım evi grupları için etkinlikler](/activities/care-home-groups/) sayfasına bakın.

@@ -1,34 +1,34 @@
 ---
-title: "20 Pertanyaan dan Permainan Percakapan Demensia"
-seoTitle: "20 Pertanyaan dan Permainan Percakapan Demensia"
-description: "Permainan 20 pertanyaan dan percakapan untuk orang yang hidup dengan demensia, diubah agar mereka menjadi ahli, tanpa skor, tanpa waktu, tanpa kuis."
+title: "Dua Puluh Pertanyaan dan Permainan Obrolan Demensia"
+seoTitle: "20 Pertanyaan dan Permainan Obrolan Demensia"
+description: "Permainan dua puluh pertanyaan dan obrolan untuk orang yang hidup dengan demensia, diubah agar mereka menjadi ahli, tanpa skor, tanpa waktu, tanpa kuis."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Permainan 20 pertanyaan bisa menjadi kegiatan yang ringan dan menyenangkan
-  saat orang yang Anda dampingi adalah yang mengetahui jawabannya. Mereka
-  memikirkan sesuatu, Anda mengajukan pertanyaan ya atau tidak, dan tidak ada
-  yang diuji. Permainan percakapan lain, seperti “Ini atau itu” dan “Mana yang
-  akan Anda pilih?”, juga berjalan dengan cara yang sama: mengajak berbagi
-  pendapat dan cerita, bukan mengingat fakta. Buat ronde singkat, biarkan orang
-  yang Anda dampingi melewatkan giliran, dan jangan pernah menghitung tebakan.
+  Dua puluh pertanyaan bisa menjadi permainan yang lembut dan menyenangkan
+  ketika orang tersebut yang mengetahui jawabannya. Mereka memikirkan sesuatu,
+  Anda mengajukan pertanyaan ya atau tidak, dan tidak ada yang sedang diuji.
+  Permainan obrolan lain, seperti “Ini atau itu” dan “Mana yang akan Anda
+  pilih?”, juga bekerja dengan cara yang sama: mengajak berbagi pendapat dan
+  cerita, bukan fakta. Buat setiap ronde singkat, biarkan orang tersebut
+  memilih untuk melewatkannya, dan jangan pernah menghitung tebakan.
 keyPoints:
-  - "Biarkan orang yang Anda dampingi memikirkan benda atau hewan, sehingga mereka menjadi ahli. Anda yang bertanya, dan mereka menjawab ya atau tidak."
-  - "Izinkan untuk melewatkan, memberi petunjuk, atau menjawab dengan gerakan. Jangan pernah memberi skor atau menghitung berapa banyak pertanyaan yang dibutuhkan."
-  - "Pilih hal-hal sehari-hari dari kehidupan orang yang Anda dampingi, seperti makanan kesukaan, alat, atau tempat."
-  - "Pertanyaan pendapat, seperti “Mana yang lebih Anda suka?” atau “Mana yang paling Anda sukai?”, tidak memiliki jawaban yang salah."
-  - "Akhiri permainan saat orang yang Anda dampingi mulai tidak tertarik. Dua atau tiga ronde sudah cukup."
+  - "Biarkan orang tersebut memikirkan benda atau hewan, sehingga mereka menjadi ahli. Anda yang mengajukan pertanyaan, dan mereka menjawab ya atau tidak."
+  - "Izinkan untuk melewati, memberi petunjuk, atau menggunakan gerakan. Jangan pernah memberi skor atau menghitung berapa banyak pertanyaan yang dibutuhkan."
+  - "Pilih hal-hal sehari-hari dari kehidupan orang tersebut, seperti makanan kesukaan, alat, atau tempat."
+  - "Pertanyaan tentang pendapat, seperti “Mana yang lebih Anda sukai...?” atau “Mana yang paling Anda suka?”, tidak memiliki jawaban yang salah."
+  - "Akhiri permainan saat orang tersebut mulai tidak tertarik. Dua atau tiga ronde sudah cukup."
 faq:
-  - q: "Apakah permainan 20 pertanyaan cocok untuk orang yang hidup dengan demensia?"
-    a: "Bisa cocok, jika orang yang Anda dampingi adalah yang memikirkan jawabannya dan tidak ada yang diuji. Jika dimainkan seperti kuis, dengan pendamping menebak fakta yang harus diingat, permainan ini bisa terasa seperti ujian. Buat aturannya tetap santai dan hangat."
-  - q: "Apa yang bisa dipikirkan dalam permainan 20 pertanyaan?"
-    a: "Hal-hal sederhana dan akrab biasanya paling mudah: buah, hewan, alat, jenis bunga, perabot, atau tempat yang mereka kenal baik. Hindari hal yang abstrak, nama orang, dan apa pun yang dapat menimbulkan kesedihan."
-  - q: "Bagaimana jika orang yang Anda dampingi tidak bisa menjawab ya atau tidak?"
-    a: "Gunakan gerakan, acungan jempol ke atas atau ke bawah, atau tunjuk kartu gambar. Anda juga bisa menebak dengan suara keras dan membiarkan mereka merespons dengan anggukan, senyum, atau satu kata."
-  - q: "Apakah ada permainan percakapan lain untuk lansia yang hidup dengan demensia?"
-    a: "Ada. “Ini atau itu” menanyakan mana dari dua hal yang lebih mereka sukai. “Mana yang akan Anda pilih” menanyakan pendapat. Permainan kartu dengan pertanyaan terbuka, seperti kartu percakapan Golden Moments, dapat mengajak mereka bercerita tentang kehidupan sehari-hari."
+  - q: "Apakah dua puluh pertanyaan baik untuk orang yang hidup dengan demensia?"
+    a: "Bisa, jika orang tersebut yang memikirkan jawabannya dan tidak ada yang sedang diuji. Jika digunakan seperti kuis, dengan pendamping menebak fakta yang harus diingat orang tersebut, permainan ini bisa terasa seperti ujian. Buat aturannya tetap terbuka dan hangat."
+  - q: "Apa yang bisa dipikirkan orang tersebut dalam dua puluh pertanyaan?"
+    a: "Hal-hal sederhana dan familier paling cocok: buah, hewan, alat, jenis bunga, perabot, atau tempat yang mereka kenal baik. Hindari hal yang abstrak, nama orang, dan apa pun yang bisa menimbulkan kesedihan."
+  - q: "Bagaimana jika orang tersebut tidak bisa menjawab ya atau tidak?"
+    a: "Gunakan gerakan, acungan jempol ke atas atau ke bawah, atau tunjuk kartu bergambar. Anda juga bisa menyebutkan tebakan dengan suara keras dan membiarkan mereka menanggapi dengan anggukan, senyum, atau satu kata."
+  - q: "Apakah ada permainan obrolan lain untuk orang dewasa yang hidup dengan demensia?"
+    a: "Ada. “Ini atau itu” menanyakan mana dari dua hal yang mereka lebih sukai. “Mana yang lebih Anda pilih” menanyakan pendapat. Permainan kartu dengan pertanyaan terbuka, seperti kartu obrolan Golden Moments, mengajak berbagi cerita tentang kehidupan sehari-hari."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,51 +47,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Banyak keluarga ingin bermain bersama dengan cara yang terasa seperti obrolan, bukan ujian. Permainan 20 pertanyaan dan permainan tebak-tebakan serupa bisa cocok, karena aturannya sederhana dan percakapannya bisa mengalir ke mana saja. Kuncinya adalah membalik peran seperti biasa: orang yang Anda dampingi memikirkan jawabannya, dan Anda yang bertanya. Halaman ini menjelaskan cara menjalankan permainan ini dengan lembut, serta permainan percakapan mana yang cocok untuk orang yang hidup dengan demensia.
+Banyak keluarga ingin memainkan permainan bersama yang terasa seperti obrolan, bukan ujian. Dua puluh pertanyaan dan permainan tebak-tebakan serupa bisa berjalan dengan baik, karena aturannya sederhana dan obrolannya bisa berkembang ke mana saja. Kuncinya adalah membalik peran seperti biasanya: orang tersebut memikirkan jawabannya, dan Anda yang bertanya. Halaman ini menjelaskan cara menjalankan permainan ini dengan lembut, serta permainan obrolan mana yang cocok untuk orang yang hidup dengan demensia.
 
-## Mengapa peran perlu dibalik?
+## Mengapa membalik aturan seperti biasanya?
 
-Dalam kuis biasa, satu orang bertanya dan yang lain harus tahu jawabannya. Hal ini bisa membuat orang yang hidup dengan demensia berada di posisi yang mungkin membuat mereka merasa gagal, dan perasaan itu bisa menyakitkan. Saat mereka memilih benda dan Anda yang menebak, mereka menjadi ahli. Mereka memegang jawabannya, mereka memutuskan kapan mengatakan ya atau tidak, dan mereka bisa menikmati melihat Anda mencoba menebak.
+Dalam kuis pada umumnya, satu orang bertanya dan orang lain harus tahu jawabannya. Hal ini menempatkan orang yang hidup dengan demensia pada posisi yang mungkin membuat mereka merasa tidak berhasil, dan perasaan itu bisa menyakitkan. Ketika mereka memilih benda dan Anda yang menebak, mereka menjadi ahli. Mereka memegang jawabannya, mereka yang memutuskan kapan mengatakan ya atau tidak, dan mereka bisa menikmati saat melihat Anda mencoba menebak.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) menyarankan pendamping untuk menggunakan kalimat pendek dan sederhana, satu pertanyaan dalam satu waktu, serta nada suara yang tenang dan sabar. Kebiasaan ini sangat sesuai untuk permainan tebak-tebakan.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) menyarankan pendamping untuk menggunakan kalimat yang pendek dan sederhana, satu pertanyaan dalam satu waktu, serta nada bicara yang tenang dan sabar. Kebiasaan ini sangat cocok untuk permainan tebak-tebakan.
 
-## Cara bermain 20 pertanyaan dengan lembut
+## Cara bermain dua puluh pertanyaan dengan lembut
 
-1. **Pilih tema** dari kehidupan orang yang Anda dampingi, seperti dapur, kebun, hewan, atau pantai.
-2. **Biarkan mereka memikirkan sesuatu** dan mengatakannya dengan pelan, atau tunjukkan kartu gambar agar Anda tidak perlu mendengarnya.
+1. **Pilih tema** dari kehidupan orang tersebut, seperti dapur, kebun, hewan, atau pantai.
+2. **Biarkan mereka memikirkan sesuatu** dan mengatakannya dengan pelan, atau tunjukkan kartu bergambar agar Anda tidak perlu mendengarnya.
 3. **Ajukan satu pertanyaan ya atau tidak dalam satu waktu.** “Apakah ini sesuatu yang bisa dimakan?” “Apakah ini lebih besar dari sepatu?”
-4. **Terima jawaban apa pun.** Anggukan, gelengan kepala, atau tawa juga termasuk jawaban.
-5. **Tebak dengan suara keras** dan nikmati prosesnya. Jika tebakan Anda benar, rayakan bersama.
-6. **Berikan petunjuk** saat orang yang Anda dampingi tampak bingung: “Ini sesuatu yang ada di dapur.”
-7. **Jangan pernah menghitung pertanyaan** dan jangan pernah memberi skor.
+4. **Terima jawaban apa pun.** Anggukan, gelengan kepala, atau tawa semuanya berarti.
+5. **Sebutkan tebakan Anda dengan suara keras** dan nikmati prosesnya. Jika tebakan Anda benar, rayakan bersama.
+6. **Berikan petunjuk** saat orang tersebut tampak kesulitan: “Ini sesuatu yang ada di dapur.”
+7. **Jangan pernah menghitung jumlah pertanyaan** dan jangan pernah memberi skor.
 
-Jika orang yang Anda dampingi sulit mengikuti aturan, ganti dengan versi yang lebih sederhana: sebutkan beberapa benda dan biarkan mereka menunjuk yang benar.
+Jika orang tersebut tidak dapat mengikuti aturannya, beralihlah ke versi yang lebih sederhana: Anda menyebutkan beberapa hal dan mereka menunjuk yang benar.
 
 ## Hal-hal yang baik untuk dipilih
 
 - Buah, sayur, atau bunga kesukaan
 - Hewan dari peternakan, kebun binatang, atau hewan peliharaan yang pernah mereka miliki
 - Alat, seperti palu, cangkul, atau jarum jahit
-- Perabot atau benda rumah tangga
+- Perabot atau benda di rumah
 - Tempat yang mereka kenal baik, seperti taman atau kota
-- Pakaian yang dulu mereka suka pakai
+- Pakaian yang mereka suka kenakan
 
-Hindari nama orang, hal yang mungkin menimbulkan duka, serta benda yang berbahaya atau mudah tertukar.
+Hindari nama orang, apa pun yang mungkin menimbulkan kesedihan, serta benda yang bisa berbahaya atau mudah tertukar.
 
-## Permainan percakapan lainnya
+## Permainan obrolan lainnya
 
-- **Ini atau itu.** Berikan dua pilihan dan tanyakan mana yang lebih mereka sukai: teh atau kopi, gunung atau laut, baju merah atau baju biru. Tidak ada jawaban yang benar.
-- **Mana yang akan Anda pilih.** Ajukan pertanyaan ringan dan ramah: “Anda lebih suka piknik atau makan di luar?”
-- **Lengkapi kalimat.** Sebuah ungkapan yang akrab dengan bagian akhir yang dikosongkan. Lihat panduan kami tentang [permainan melengkapi kalimat](/activities/finish-the-saying/).
+- **Ini atau itu.** Berikan dua pilihan dan tanyakan mana yang lebih mereka sukai: teh atau kopi, gunung atau laut, gaun merah atau biru. Tidak ada jawaban yang benar.
+- **Mana yang lebih Anda pilih.** Ajukan pertanyaan yang lembut dan ringan: “Mana yang lebih Anda pilih, piknik atau makan di luar?”
+- **Lanjutkan ungkapan.** Sebuah ungkapan yang familier dengan bagian akhir yang dikosongkan. Coba [permainan lanjutkan ungkapan](/activities/finish-the-saying/) kami untuk panduannya.
 - **Sebutkan tempatnya.** Minta mereka menggambarkan ruangan, kota, atau pemandangan favorit, lalu ajak Anda membayangkannya juga.
-- **Kartu pertanyaan terbuka.** [Kartu percakapan](/games/conversation-cards/) kami memberikan pertanyaan terbuka berdasarkan tema, dan bisa dicetak untuk dimainkan di meja.
+- **Kartu pertanyaan terbuka.** [Kartu obrolan](/games/conversation-cards/) kami memberikan pertanyaan terbuka berdasarkan tema, yang bisa dicetak untuk digunakan di meja.
 
-Untuk ide lain yang mengajak mengenang kisah hidup, lihat [pertanyaan untuk mengenang masa lalu](/activities/reminiscence-questions/). Untuk keseruan seperti kuis dengan cara yang lembut, lihat [trivia mudah untuk lansia yang hidup dengan demensia](/activities/trivia/), yang menggunakan pilihan dan tanpa skor.
+Untuk ide lain yang mengajak mengenang dan berbagi kisah hidup, lihat [pertanyaan mengenang masa lalu](/activities/reminiscence-questions/). Untuk keseruan seperti kuis yang dilakukan dengan lembut, lihat [trivia mudah untuk orang dewasa yang hidup dengan demensia](/activities/trivia/), yang menggunakan pilihan jawaban dan tanpa skor.
 
-## Bagaimana jika orang yang Anda dampingi merasa frustrasi?
+## Bagaimana jika orang tersebut merasa frustrasi?
 
-Berhenti, tersenyum, dan katakan sesuatu seperti, “Ayo kita main yang lain.” Rasa frustrasi adalah tanda untuk mengganti permainan, bukan untuk memaksa. Panduan kami tentang [cara bermain bersama seseorang yang hidup dengan demensia](/caregiving/how-to-play-together/) menjelaskan cara mengubah aturan dengan mudah.
+Berhenti, tersenyum, dan katakan sesuatu seperti, “Mari kita main yang lain saja.” Rasa frustrasi adalah tanda untuk mengganti permainan, bukan untuk memaksa lebih keras. Panduan kami tentang [cara bermain bersama seseorang yang hidup dengan demensia](/caregiving/how-to-play-together/) menjelaskan cara mengubah aturan saat bermain.
 
-## Apa yang bisa dan tidak bisa dilakukan permainan
+## Apa yang bisa dan tidak bisa dilakukan permainan obrolan
 
-Permainan percakapan bisa menyenangkan dan membantu kebersamaan. Permainan ini dapat membantu orang terhubung dan berbagi cerita. Permainan ini tidak mengobati demensia, tidak memperlambat, dan tidak mencegahnya. Jaga tujuannya tetap sederhana: momen hangat bersama.
+Permainan obrolan menyenangkan dan bersifat sosial. Permainan ini dapat membantu orang terhubung dan berbagi cerita. Permainan ini tidak mengobati demensia, tidak memperlambatnya, dan tidak mencegahnya. Buat tujuannya tetap sederhana: momen hangat bersama.

@@ -1,36 +1,36 @@
 ---
-title: "Merawat Diri Sendiri bagi Pendamping: Respite, Dukungan, dan Tanda Kelelahan"
-seoTitle: "Merawat Diri bagi Pendamping Demensia: Respite dan Dukungan"
-description: "Tanda kelelahan pendamping, cara mencari perawatan jeda dan kelompok dukungan, serta contoh layanan bantuan gratis di AS seperti Helpline 24/7 Alzheimer's Association."
+title: "Perawatan Diri Pendamping: Jeda, Dukungan, Tanda Kelelahan"
+seoTitle: "Perawatan Diri Pendamping Demensia: Jeda dan Dukungan"
+description: "Tanda kelelahan pendamping, cara menemukan jeda dan kelompok dukungan, serta bantuan gratis di AS, termasuk Helpline 24/7 dan Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Merawat orang dengan demensia itu berat, dan menjaga diri sendiri adalah bagian
-  dari tugas itu. Waspadai tanda peringatan seperti kelelahan, mudah tersinggung,
-  tidur buruk, dan menjauh dari teman. Mintalah bantuan yang spesifik, manfaatkan
-  perawatan jeda (respite care), dan bergabunglah dengan kelompok dukungan.
-  Contoh bantuan gratis di AS meliputi Helpline 24/7 Alzheimer's Association di
-  1-800-272-3900 dan Eldercare Locator di 1-800-677-1116.
+  Merawat orang yang hidup dengan demensia memang berat, dan merawat diri sendiri
+  adalah bagian dari tugas itu. Perhatikan tanda peringatan seperti kelelahan,
+  mudah tersinggung, tidur buruk, dan menjauh dari teman. Minta bantuan
+  spesifik, gunakan perawatan jeda, dan bergabunglah dengan kelompok
+  dukungan. Bantuan gratis di AS meliputi Helpline 24/7 Alzheimer's Association
+  di 1-800-272-3900 dan Eldercare Locator di 1-800-677-1116.
 keyPoints:
-  - "Kelelahan sering tampak sebagai letih, mudah tersinggung, tidur buruk, sedih, dan mengabaikan perawatan kesehatan Anda sendiri."
-  - "Perawatan jeda (respite care) memberi Anda istirahat, dari beberapa jam hingga beberapa minggu, di rumah atau di tempat perawatan."
-  - "Mintalah bantuan untuk tugas yang spesifik; banyak orang ingin membantu tetapi tidak tahu caranya."
-  - "Helpline 24/7 Alzheimer's Association di AS (1-800-272-3900) menawarkan dukungan gratis dan rahasia kapan saja."
-  - "Eldercare Locator di AS (1-800-677-1116) menghubungkan Anda dengan layanan setempat, termasuk Area Agency on Aging. Di Indonesia, tanyakan ke puskesmas atau Alzheimer's Indonesia."
-  - "Jika Anda merasa berada dalam krisis, segera cari bantuan. Dalam keadaan darurat, hubungi 112 (di AS: panggil atau kirim pesan ke 988; darurat 911)."
+  - "Kelelahan sering muncul sebagai kelelahan, mudah tersinggung, tidur buruk, kesedihan, dan menunda perawatan kesehatan diri."
+  - "Perawatan jeda memberi Anda waktu istirahat, dari beberapa jam hingga beberapa minggu, di rumah atau di tempat perawatan."
+  - "Minta bantuan untuk tugas spesifik; banyak orang ingin membantu tetapi tidak tahu caranya."
+  - "Helpline 24/7 Alzheimer's Association (1-800-272-3900) menawarkan dukungan gratis dan rahasia kapan saja."
+  - "Eldercare Locator (1-800-677-1116) menghubungkan Anda dengan layanan lokal, termasuk Area Agency on Aging Anda."
+  - "Jika Anda merasa dalam krisis, hubungi atau kirim pesan ke 988. Dalam keadaan darurat, hubungi 911."
 faq:
-  - q: "Apa saja tanda kelelahan pada pendamping?"
-    a: "Tanda yang umum meliputi merasa letih, kewalahan, atau cemas, mudah marah atau tidak sabar, sulit tidur, merasa sedih atau putus asa, menjauh dari teman, sering sakit kepala atau nyeri, dan melewatkan makan, olahraga, atau pemeriksaan kesehatan Anda sendiri. Jika tanda seperti ini muncul secara rutin, bicarakan dengan dokter Anda."
-  - q: "Bagaimana mencari perawatan jeda di dekat saya?"
-    a: "Di AS, mulailah dengan Eldercare Locator (1-800-677-1116 atau eldercare.acl.gov) untuk menghubungi Area Agency on Aging setempat, ARCH National Respite Locator Service, atau Helpline Alzheimer's Association di 1-800-272-3900. Di Indonesia, tanyakan ke puskesmas, dinas sosial, atau perkumpulan Alzheimer setempat. Keluarga, teman, dan relawan juga bisa memberi waktu jeda."
-  - q: "Apakah Medicare menanggung biaya perawatan jeda?"
-    a: "Menurut National Institute on Aging, bagi orang yang menerima perawatan hospis, Medicare di AS menanggung sebagian besar biaya perawatan jeda hingga lima hari berturut-turut di rumah sakit atau fasilitas keperawatan terampil. Sebagian besar asuransi kesehatan swasta tidak menanggung perawatan jeda; Medicaid dan beberapa asuransi perawatan jangka panjang mungkin membantu. Ini aturan di AS; di Indonesia, tanyakan ke penyedia jaminan kesehatan Anda apa yang ditanggung."
-  - q: "Apakah Helpline Alzheimer's Association benar-benar gratis dan tersedia pada malam hari?"
-    a: "Ya. Alzheimer's Association menyatakan Helpline-nya di 1-800-272-3900 gratis, rahasia, dan dilayani sepanjang waktu, 365 hari setahun, dengan bantuan dalam banyak bahasa. Tekan 711 untuk layanan relay. Helpline ini ada di AS; nomornya mungkin tidak dapat dihubungi dari luar negeri."
-  - q: "Apakah egois jika saya beristirahat dari merawat?"
-    a: "Tidak. Istirahat membantu Anda tetap bisa merawat, dan perawatan jeda juga bisa memberi orang yang Anda rawat suasana dan kegiatan yang berbeda. Banyak pendamping kemudian mengatakan bahwa mereka berharap bisa meminta bantuan lebih awal."
+  - q: "Apa tanda kelelahan pendamping?"
+    a: "Tanda umum meliputi merasa kelelahan, kewalahan atau cemas, mudah marah atau tidak sabar, sulit tidur, merasa sedih atau putus asa, menjauh dari teman, sakit kepala atau nyeri yang sering, dan melewatkan makan, olahraga atau perawatan medis Anda sendiri. Jika tanda seperti ini sering terjadi, bicarakan dengan dokter Anda."
+  - q: "Bagaimana cara menemukan perawatan jeda di dekat saya?"
+    a: "Mulailah dengan Eldercare Locator (1-800-677-1116 atau eldercare.acl.gov) untuk menjangkau Area Agency on Aging lokal Anda, ARCH National Respite Locator Service, atau Helpline Alzheimer's Association di 1-800-272-3900. Keluarga, teman, dan relawan juga dapat memberikan jeda."
+  - q: "Apakah Medicare membayar perawatan jeda?"
+    a: "Untuk orang yang menerima perawatan hospis, Medicare menanggung sebagian besar biaya hingga lima hari berturut-turut perawatan jeda di rumah sakit atau fasilitas perawatan keperawatan terampil, menurut National Institute on Aging. Sebagian besar asuransi kesehatan swasta tidak menanggung jeda; Medicaid dan beberapa rencana asuransi perawatan jangka panjang mungkin membantu."
+  - q: "Apakah Helpline Alzheimer's Association benar-benar gratis dan tersedia malam hari?"
+    a: "Ya. Alzheimer's Association menyatakan Helpline-nya di 1-800-272-3900 gratis, rahasia, dan diawaki sepanjang waktu, 365 hari setahun, dengan bantuan dalam banyak bahasa. Hubungi 711 untuk layanan relay."
+  - q: "Apakah egois mengambil jeda dari merawat?"
+    a: "Tidak. Istirahat membantu Anda terus merawat, dan jeda juga dapat memberi orang yang Anda rawat pergantian teman dan kegiatan. Banyak pendamping kemudian mengatakan mereka berharap lebih awal meminta bantuan."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Jika Anda merawat orang yang hidup dengan demensia, kemungkinan besar Anda membaca ini larut malam, dalam keadaan lelah, dan dengan daftar hal yang belum sempat dikerjakan. Itu wajar. Merawat diri sendiri bukan kemewahan atau hadiah setelah semuanya selesai. Justru itulah yang membuat Anda bisa terus melangkah.
+Jika Anda merawat orang yang hidup dengan demensia, Anda mungkin membaca ini larut malam, lelah, dan dengan daftar hal yang belum selesai. Itu wajar. Merawat diri sendiri bukan kemewahan atau hadiah setelah semua selesai. Itulah yang membuat Anda bisa terus merawat.
 
-Halaman ini membahas tanda peringatan kelelahan (burnout), cara mendapatkan istirahat yang sungguh-sungguh, tempat mencari dukungan, dan layanan bantuan gratis di AS yang bisa dihubungi hari ini. Layanan di AS ini kami sebutkan sebagai contoh; di Indonesia, mulailah dari puskesmas, dinas sosial, atau perkumpulan Alzheimer setempat, misalnya Alzheimer's Indonesia.
+Halaman ini membahas tanda peringatan kelelahan, cara mendapatkan jeda yang nyata, tempat menemukan dukungan, dan bantuan gratis di AS yang dapat Anda hubungi hari ini.
 
-## Apa saja tanda kelelahan pada pendamping?
+## Apa tanda kelelahan pendamping?
 
-Kelelahan sering datang perlahan, jadi ada baiknya mengenali tanda peringatan Anda sendiri. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) mencantumkan tanda-tanda stres pada pendamping, antara lain:
+Kelelahan sering datang perlahan, jadi penting mengetahui tanda peringatan Anda sendiri. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) mencantumkan tanda stres pendamping, antara lain:
 
-- merasa letih, kewalahan, atau cemas;
+- merasa kelelahan, kewalahan, atau cemas;
 - mudah marah atau tidak sabar;
 - merasa kesepian atau terputus dari orang lain;
 - sulit tidur, atau kurang tidur;
-- merasa sedih atau putus asa, atau kehilangan minat pada hal yang dulu Anda nikmati;
-- sering sakit kepala, nyeri, atau keluhan fisik lainnya;
-- tidak ada waktu untuk berolahraga atau menyiapkan makanan sehat bagi diri sendiri;
-- melewatkan mandi atau perawatan diri lainnya;
+- merasa sedih atau putus asa, atau kehilangan minat pada hal yang dulu dinikmati;
+- sakit kepala, nyeri, atau masalah fisik lain yang sering;
+- tidak ada waktu berolahraga atau menyiapkan makanan sehat untuk diri sendiri;
+- melewatkan mandi atau perawatan pribadi lain;
 - menyalahgunakan alkohol atau obat-obatan, termasuk obat resep.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) menambahkan tanda seperti menyangkal penyakitnya, marah kepada orang tersebut (“dia memang keras kepala”), cemas akan masa depan, sulit berkonsentrasi, dan masalah kesehatan yang mulai terasa dampaknya. Lembaga ini menyarankan untuk berbicara dengan dokter Anda jika tanda seperti ini muncul secara rutin.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) menambahkan tanda seperti penyangkalan tentang penyakit, marah pada orang yang dirawat ("dia cuma keras kepala"), kecemasan tentang masa depan, sulit berkonsentrasi, dan masalah kesehatan yang mulai berdampak. Ia menyarankan berbicara dengan dokter Anda jika Anda sering mengalami tanda-tanda seperti ini.
 
-Saran NIA adalah jangan menunggu sampai Anda benar-benar kewalahan. Kenali tanda-tandanya sejak dini dan tindak lanjuti.
+Saran NIA adalah jangan menunggu sampai Anda benar-benar kewalahan. Kenali tanda Anda lebih awal dan bertindak.
 
 ## Apa yang bisa saya lakukan hari ini, dalam lima menit?
 
-Jeda kecil pun berarti. Tidak satu pun dari ini menyembuhkan kelelahan, tetapi bisa membantu Anda melewati sore yang berat.
+Jeda singkat tetap berarti. Tindakan ini tidak menyembuhkan kelelahan, tetapi dapat membantu Anda melewati sore yang sulit.
 
-- **Melangkah ke luar.** Duduklah di teras atau berjalan ke pagar depan selagi orang tersebut aman dan tenang.
-- **Bernapas pelan-pelan.** Tarik beberapa napas panjang sebelum Anda menjawab pertanyaan yang sulit. Anda juga bisa berbagi jeda [Bernapas dengan tenang](/games/calm-breathing/) bersama orang yang Anda rawat.
-- **Minum air dan makan sesuatu.** Mudah sekali lupa makan sendiri.
-- **Kirim pesan kepada seorang teman.** Bukan untuk meminta sesuatu, hanya untuk terhubung.
-- **Ucapkan hal yang baik kepada diri sendiri.** [Panduan NIA tentang merawat diri sendiri](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) menyarankan kalimat seperti “Saya sudah berusaha sebaik mungkin,” “Saya tidak sempurna, dan itu tidak apa-apa,” dan “Saya akan menikmati saat-saat ketika kami bisa bersama dalam damai.”
+- **Keluar sebentar.** Duduk di teras atau berjalan ke kotak surat selama orang yang Anda rawat aman dan tenang.
+- **Bernapas perlahan.** Ambil beberapa napas perlahan sebelum menjawab pertanyaan sulit. Anda juga dapat berbagi jeda [Calm Breathing](/games/calm-breathing/) dengan orang yang Anda rawat.
+- **Minum air dan makan sesuatu.** Mudah lupa makan sendiri.
+- **Kirim pesan ke satu teman.** Bukan untuk meminta apa pun, hanya untuk terhubung.
+- **Ucapkan sesuatu yang baik untuk diri sendiri.** [Panduan NIA tentang merawat diri sendiri](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) menyarankan frasa seperti "Saya melakukan yang terbaik," "Saya tidak sempurna, dan itu tidak apa-apa," dan "Saya akan menikmati momen saat kami bisa bersama dengan damai."
 
-## Apa itu perawatan jeda (respite care), dan bagaimana mendapatkannya?
+## Apa itu perawatan jeda, dan bagaimana cara mendapatkannya?
 
-Perawatan jeda adalah perawatan jangka pendek bagi orang yang Anda dampingi, supaya Anda bisa beristirahat. [Halaman NIA tentang perawatan jeda](https://www.nia.nih.gov/health/caregiving/what-respite-care) menjelaskan bahwa lamanya bisa dari beberapa jam hingga beberapa minggu, dan bisa dilakukan di rumah, di fasilitas kesehatan, atau di pusat penitipan harian untuk lansia.
+Perawatan jeda adalah perawatan jangka pendek untuk orang yang Anda rawat, agar Anda bisa beristirahat. [Halaman NIA tentang perawatan jeda](https://www.nia.nih.gov/health/caregiving/what-respite-care) menjelaskan bahwa ini dapat berlangsung dari beberapa jam hingga beberapa minggu dan dapat dilakukan di rumah, di fasilitas layanan kesehatan, atau di pusat perawatan harian dewasa.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) menjelaskan beberapa jenis yang umum:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) menjelaskan jenis umum:
 
 | Jenis | Apa itu |
 | --- | --- |
-| Bantuan di rumah | Teman, kerabat, relawan, atau pendamping atau perawat bayaran datang ke rumah |
-| Pusat kegiatan harian lansia | Kegiatan terencana seperti musik dan seni dalam kelompok yang aman; antar-jemput dan makanan sering disediakan |
-| Menginap atau tinggal singkat | Komunitas perawatan jangka panjang merawat orang tersebut selama semalam, beberapa hari, atau beberapa minggu |
+| Bantuan di rumah | Seorang teman, kerabat, relawan, atau pendamping/pembantu berbayar datang ke rumah |
+| Pusat perawatan harian dewasa | Kegiatan terencana seperti musik dan seni dalam lingkungan kelompok yang aman; transportasi dan makanan sering disediakan |
+| Menginap semalam atau jangka pendek | Komunitas perawatan jangka panjang merawat orang tersebut selama satu malam, beberapa hari, atau beberapa minggu |
 
-**Siapa yang membayar?** Menurut NIA, perawatan jeda dari keluarga, teman, atau relawan mungkin tidak berbiaya. Layanan profesional menarik biaya per jam atau per hari. Bagi orang yang menerima perawatan hospis, Medicare (jaminan kesehatan pemerintah AS) menanggung sebagian besar biaya perawatan jeda hingga lima hari berturut-turut di rumah sakit atau fasilitas keperawatan terampil. Medicaid mungkin membantu. Sebagian besar asuransi kesehatan swasta tidak menanggung perawatan jeda, meskipun beberapa asuransi perawatan jangka panjang menanggungnya. Ketentuan ini berlaku di AS; di tempat Anda, tanyakan kepada penyedia jaminan kesehatan atau puskesmas apa yang tersedia.
+**Siapa yang membayar?** Menurut NIA, jeda dari keluarga, teman, atau relawan mungkin tidak berbiaya. Layanan profesional membebankan biaya per jam atau per hari. Untuk orang yang menerima perawatan hospis, Medicare menanggung sebagian besar biaya hingga lima hari berturut-turut perawatan jeda di rumah sakit atau fasilitas perawatan keperawatan terampil. Medicaid mungkin membantu. Sebagian besar asuransi kesehatan swasta tidak menanggung jeda, meskipun beberapa rencana asuransi perawatan jangka panjang menanggung.
 
-**Tips:** Alzheimer's Association menyarankan untuk mencoba penyedia perawatan jeda dalam keadaan tidak darurat, supaya mereka siap jika Anda tiba-tiba membutuhkan bantuan.
+**Saran:** Alzheimer's Association menyarankan mencoba penyedia jeda dalam situasi non-darurat, agar mereka siap jika Anda tiba-tiba membutuhkan bantuan.
 
-## Di mana saya bisa mencari bantuan di dekat saya?
+## Di mana saya bisa menemukan bantuan di dekat saya?
 
-Beberapa layanan gratis di AS bisa mengarahkan Anda ke bantuan setempat. Jika Anda tinggal di luar AS, layanan ini bisa menjadi contoh jenis bantuan yang bisa Anda cari; tanyakan ke puskesmas, dinas sosial, atau perkumpulan Alzheimer setempat.
+Beberapa layanan gratis di AS dapat mengarahkan Anda ke bantuan lokal.
 
-- **Helpline 24/7 Alzheimer's Association: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) ini gratis dan rahasia, dilayani sepanjang waktu setiap hari sepanjang tahun, dengan bantuan dalam lebih dari 200 bahasa lewat staf dwibahasa atau penerjemah. Tekan 711 untuk layanan relay. Anda bisa membicarakan perubahan perilaku, stres pendamping, pilihan perawatan jeda, program setempat, dan lainnya, serta meminta percakapan yang lebih panjang dengan konsultan perawatan. Staf tidak memberikan nasihat medis.
-- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), layanan publik dari Administration for Community Living, menghubungkan Anda dengan layanan untuk lansia dan keluarganya. Anda bisa menelepon, mengirim pesan teks, mengobrol daring, atau mengirim email kepada staf terlatih, atau mencari berdasarkan lokasi. Layanan ini dapat mengarahkan Anda ke Area Agency on Aging setempat.
-- **ARCH National Respite Locator Service.** [Pencari layanan jeda ARCH](https://archrespite.org/caregiver-resources/respitelocator/) membantu Anda menemukan penyedia perawatan jeda menurut negara bagian, dan menyarankan untuk menghubungi State Respite Coalition atau program Lifespan Respite di negara bagian Anda lebih dulu jika ada. ARCH mencatat bahwa mereka tidak memeriksa para penyedia, jadi periksalah sendiri pengalaman dan latar belakang mereka.
+- **Helpline 24/7 Alzheimer's Association: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) gratis dan rahasia, diawaki sepanjang waktu setiap hari dalam setahun, dengan bantuan dalam lebih dari 200 bahasa melalui staf bilingual atau penerjemah. Hubungi 711 untuk layanan relay. Anda dapat membahas perubahan perilaku, stres pendamping, pilihan jeda, program lokal, dan lainnya, serta meminta percakapan lebih lama dengan konsultan perawatan. Staf tidak memberikan nasihat medis.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), layanan publik dari Administration for Community Living, menghubungkan Anda dengan layanan untuk orang dewasa yang lebih tua dan keluarga mereka. Anda dapat menelepon, mengirim pesan, mengobrol daring, atau mengirim email ke staf terlatih, atau mencari berdasarkan lokasi. Layanan ini dapat mengarahkan Anda ke Area Agency on Aging lokal Anda.
+- **ARCH National Respite Locator Service.** [Pencari jeda ARCH](https://archrespite.org/caregiver-resources/respitelocator/) membantu Anda menemukan penyedia jeda berdasarkan negara bagian, dan menyarankan menghubungi State Respite Coalition atau program Lifespan Respite Anda terlebih dahulu jika negara bagian Anda memiliki. ARCH mencatat bahwa ia tidak memeriksa penyedia, jadi tinjau sendiri pengalaman dan latar belakang mereka.
 
-## Bagaimana mencari kelompok dukungan?
+## Bagaimana cara menemukan kelompok dukungan?
 
-Tanyakan kepada Helpline atau cari secara daring kelompok di dekat Anda. Alzheimer's Association [menjalankan kelompok dukungan](https://www.alz.org/help-support/community/support-groups) bagi pendamping dan orang yang hidup dengan demensia, secara langsung maupun daring, dipandu oleh fasilitator terlatih. Banyak lokasi juga menawarkan kelompok khusus, misalnya bagi pendamping yang berstatus anak dewasa atau bagi orang yang hidup dengan Alzheimer usia muda atau tahap awal. Lembaga ini juga menyelenggarakan ALZConnected, komunitas daring gratis tempat para pendamping saling berbagi saran. Di Indonesia, tanyakan juga kepada perkumpulan Alzheimer setempat atau puskesmas apakah ada pertemuan keluarga pendamping.
+Tanyakan ke Helpline atau cari daring kelompok di dekat Anda. Alzheimer's Association [menyelenggarakan kelompok dukungan](https://www.alz.org/help-support/community/support-groups) untuk pendamping dan orang yang hidup dengan demensia, secara langsung dan daring, dipimpin oleh fasilitator terlatih. Banyak lokasi juga menawarkan kelompok khusus, misalnya untuk pendamping dewasa atau untuk orang yang hidup dengan Alzheimer onset lebih muda atau tahap awal. Layanan ini juga menyediakan ALZConnected, komunitas daring gratis tempat pendamping berbagi nasihat.
 
-Kelompok dukungan bisa menjadi tempat untuk meluapkan isi hati tanpa dihakimi, mendapat tips praktis dari orang yang pernah mengalaminya, dan merasa tidak sendirian. Jika kelompok pertama tidak cocok, cobalah yang lain.
+Kelompok dukungan dapat menjadi tempat meluapkan perasaan tanpa penghakiman, mendapatkan tips praktis dari orang yang pernah mengalaminya, dan merasa tidak sendirian. Jika kelompok pertama tidak cocok, coba yang lain.
 
-## Bagaimana meminta bantuan kepada keluarga dan teman?
+## Bagaimana cara meminta bantuan keluarga dan teman?
 
-Bersikaplah spesifik. Banyak orang ingin membantu tetapi tidak tahu apa yang bisa ditawarkan. NIA menyarankan:
+Jadilah spesifik. Banyak orang ingin membantu tetapi tidak tahu apa yang dapat ditawarkan. NIA menyarankan:
 
 - **Buat daftar** tugas yang bisa diambil orang lain, dan biarkan mereka memilih.
-- **Mulai dari yang kecil** jika meminta terasa sulit.
-- **Sesuaikan tugas dengan orangnya.** Sepupu yang suka memasak membawakan makan malam setiap Kamis. Tetangga yang pandai mengurus berkas membantu urusan administrasi.
-- **Kirim pesan atau email** jika meminta secara langsung terasa tidak nyaman.
-- **Siapkan jawaban** untuk saat seseorang menawarkan diri: “Terima kasih sudah bertanya. Ini yang bisa dibantu.”
-- **Bersiaplah menerima penolakan** dan jangan menganggapnya pribadi.
+- **Mulai dari hal kecil** jika meminta bantuan terasa sulit.
+- **Sesuaikan tugas dengan orangnya.** Sepupu yang suka memasak membawa makan malam pada Kamis. Tetangga yang pandai mengisi formulir membantu urusan administrasi.
+- **Kirim pesan atau email** jika meminta langsung terasa tidak nyaman.
+- **Latih jawaban** saat seseorang menawarkan bantuan: "Terima kasih sudah bertanya. Ini yang bisa Anda lakukan."
+- **Siapkan kemungkinan beberapa penolakan** dan coba jangan mempersonalisasikannya.
 
-Ide lain: minta seseorang menemani orang tersebut satu sore dalam seminggu, mengajaknya jalan-jalan singkat, atau berkunjung dan bermain bersama. [Panduan bermain bersama](/caregiving/how-to-play-together/) kami mudah dibagikan kepada para tamu.
+Ide lain: minta seseorang menemani orang yang Anda rawat selama satu sore seminggu, mengajaknya keluar sebentar, atau berkunjung dan bermain bersama. [Panduan kami tentang bermain bersama](/caregiving/how-to-play-together/) mudah dibagikan kepada pengunjung.
 
 ## Bagaimana jika terjadi sesuatu pada saya?
 
-Buatlah rencana cadangan sederhana sekarang. NIA menyarankan untuk memutuskan bersama keluarga atau teman dekat siapa yang akan mengambil alih, dan menyimpan buku catatan berisi nomor darurat, obat-obatan, tips perilaku yang berhasil, dan kegiatan kesukaan. Alzheimer's Association juga menganjurkan agar kontak medis orang tersebut dan daftar obat yang terbaru mudah ditemukan.
+Buat rencana cadangan sederhana sekarang. NIA menyarankan memutuskan bersama keluarga atau teman dekat siapa yang akan mengambil alih, serta menyimpan buku catatan berisi nomor darurat, obat-obatan, tips perilaku yang berhasil, dan kegiatan favorit. Alzheimer's Association juga merekomendasikan menyimpan kontak medis orang yang Anda rawat dan daftar obat yang mutakhir agar mudah ditemukan.
 
-## Kapan saya perlu mencari bantuan profesional atau darurat?
+## Kapan saya harus mencari bantuan profesional atau darurat?
 
-Bicarakan dengan dokter Anda jika tanda-tanda stres muncul secara rutin, jika Anda merasa tertekan, atau jika Anda kesulitan mengatasinya. Beri tahu dokter bahwa Anda seorang pendamping. NIA mencatat bahwa konselor dan pekerja sosial dapat membantu dengan perasaan yang sulit dan perencanaan, dan bahwa Medicare, Medicaid, dan sebagian asuransi swasta (di AS) mungkin menanggung sebagian biaya kesehatan jiwa. Di Indonesia, puskesmas dan penyedia jaminan kesehatan Anda bisa memberi tahu layanan kesehatan jiwa apa yang tersedia.
+Bicarakan dengan dokter Anda jika tanda stres sering muncul, jika Anda merasa depresi, atau jika kesulitan mengatasi keadaan. Beri tahu dokter Anda bahwa Anda adalah pendamping. NIA mencatat bahwa konselor dan pekerja sosial dapat membantu dengan perasaan sulit dan perencanaan, serta Medicare, Medicaid, dan beberapa asuransi swasta mungkin menanggung sebagian biaya kesehatan mental.
 
-Jika Anda merasa berada dalam krisis atau memiliki pikiran untuk menyakiti diri sendiri, segera hubungi layanan darurat setempat (112 di Indonesia) atau orang yang Anda percaya. Di AS, Anda bisa menelepon atau mengirim pesan ke 988 untuk menjangkau [988 Suicide & Crisis Lifeline](https://988lifeline.org/), gratis dan tersedia 24 jam. Jika ada yang berada dalam bahaya langsung, hubungi nomor darurat (112 di Indonesia, 911 di AS).
+Jika Anda merasa dalam krisis atau memiliki pikiran untuk menyakiti diri sendiri, hubungi atau kirim pesan ke 988 untuk menghubungi [988 Suicide & Crisis Lifeline](https://988lifeline.org/), gratis dan tersedia 24/7. Jika ada orang dalam bahaya segera, hubungi 911.
 
 ## Bisakah kegiatan bersama juga memberi saya jeda?
 
-Kadang bisa. Kegiatan tenang yang Anda berdua nikmati dapat menjadi bagian hari yang lebih lembut, bukan hanya bagi orang yang Anda rawat tetapi juga bagi Anda: mendengarkan lagu-lagu lama, melihat foto, atau permainan seperti [Kartu obrolan](/games/conversation-cards/) yang tidak butuh jawaban benar. Jika orang tersebut senang berada di tengah orang lain, sesi kelompok dengan [Bingo gambar](/games/picture-bingo/) di pusat lansia atau program kegiatan harian bisa memberi Anda satu jam istirahat. Lihat [kegiatan untuk kelompok di panti werdha](/activities/care-home-groups/) untuk ide-idenya.
+Kadang. Kegiatan tenang yang Anda berdua nikmati dapat membuat hari terasa lebih ringan bagi Anda maupun orang yang Anda rawat: mendengarkan lagu lama, melihat foto, atau permainan seperti [Conversation Cards](/games/conversation-cards/) yang tidak memerlukan jawaban benar. Jika orang tersebut menikmati kebersamaan, sesi kelompok dengan [Picture Bingo](/games/picture-bingo/) di pusat lansia atau program perawatan harian dewasa dapat memberi Anda satu jam jeda. Lihat [kegiatan untuk kelompok panti jompo](/activities/care-home-groups/) untuk ide.

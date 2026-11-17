@@ -1,33 +1,32 @@
 ---
-title: "Egzersiz ve Beyin Sağlığı: Araştırmalar Neyi İlişkilendiriyor, Güvenle Nasıl Hareket Edilir"
+title: "Egzersiz ve Beyin Sağlığı: Araştırmalar ve Güvenli Hareket"
 seoTitle: "Egzersiz ve Demans: Araştırmalar Ne Diyor?"
-description: "Fiziksel aktivite ile demans riski arasında araştırmaların neyi ilişkilendirdiği; yaşlılar ve demansla yaşayan kişiler için güvenli, keyifli hareket yolları."
+description: "Fiziksel etkinlik ile demans riski arasındaki bağlantılar ve demans yaşayan yetişkinler için güvenli, keyifli hareket yolları."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Çalışmalar düzenli fiziksel aktiviteyi daha düşük demans riskiyle ilişkilendiriyor
-  ve 2024 Lancet Komisyonu fiziksel hareketsizliği değiştirilebilir 14 risk faktöründen
-  biri olarak sayıyor. Denemeler egzersizin demansı önlediğini kanıtlamadı. Yine de
-  hareket güce, dengeye, ruh hâline ve uykuya yardımcı olur; bu yüzden yürüyüş,
-  sandalye egzersizleri ve dans kendi başlarına yapmaya değer. Yeni bir şeye
-  başlamadan önce bir doktora danışın.
+  Araştırmalar, düzenli fiziksel etkinliği daha düşük demans riskiyle ilişkilendiriyor ve 2024
+  Lancet Komisyonu fiziksel hareketsizliği değiştirilebilir on dört risk etkeninden biri olarak
+  sıralıyor. Çalışmalar egzersizin demansı önlediğini kanıtlamadı. Yine de hareket; güç, denge,
+  ruh hâli ve uykuya iyi gelir. Bu nedenle yürüyüş, sandalye egzersizleri ve dans başlı başına
+  faydalıdır. Yeni bir şeye başlamadan önce doktora danışın.
 keyPoints:
-  - "Fiziksel olarak aktif kişilerde demans riski ortalama olarak daha düşüktür; ancak bu bulgu çoğunlukla denemelerden değil, gözlemsel çalışmalardan gelir."
-  - "Yaşlı yetişkinlerde yapılan beş yıllık bir egzersiz denemesinde gruplar arasında düşünme becerileri bakımından net bir fark bulunmadı."
-  - "CDC’nin 65 yaş ve üzeri yetişkinler için rehberi aerobik, kas güçlendirici ve denge etkinliklerini kapsıyor ve biraz aktivitenin hiç olmamasından iyi olduğunu söylüyor."
-  - "Demansla yaşayan kişiler için günlük bir yürüyüş ya da oturarak oynanan oyunlar gibi kısa, tanıdık ve birlikte yapılan hareket, herhangi bir hedeften daha önemlidir."
-  - "Yaşlı yetişkinlerin dörtte birinden fazlası her yıl düşüyor; bu yüzden önce denge çalışması ve güvenli bir alan gelir."
+  - "Fiziksel olarak etkin kişilerde demans riski ortalamada daha düşüktür, ancak bu bulgu çoğunlukla gözlemsel çalışmalardan gelir, deneylerden değil."
+  - "Yaşlı yetişkinlerle yapılan beş yıllık bir egzersiz çalışmasında, gruplar arasında düşünme becerileri açısından belirgin bir fark bulunmadı."
+  - "Altmış beş yaş ve üzeri yetişkinler için CDC rehberi; aerobik, kas güçlendirme ve denge etkinliklerini kapsar ve az da olsa hareket etmenin hiç hareket etmemekten iyi olduğunu belirtir."
+  - "Demans yaşayan kişiler için kısa, tanıdık ve birlikte yapılan hareketler — günlük yürüyüş ya da oturarak oynanan oyunlar gibi — herhangi bir hedeften daha önemlidir."
+  - "Her yıl dört yaşlı yetişkinden birinden fazlası düşer; bu nedenle denge çalışmaları ve güvenli bir ortam önceliklidir."
 faq:
   - q: "Egzersiz demansı önleyebilir mi?"
-    a: "Bunu kimse vaat edemez. Pek çok çalışma aktif olmayı daha düşük demans riskiyle ilişkilendiriyor, ancak klinik denemeler egzersizin demansı önlediğini göstermedi. Egzersizin kanıtlanmış başka birçok yararı var; bu yüzden yine de yapmaya değer."
-  - q: "Demansla yaşayan birinin egzersiz yapması güvenli mi?"
-    a: "Genellikle, biraz planlamayla güvenlidir. National Institute on Aging, yeni bir rutine başlamadan önce kişinin doktoruna danışmayı, rahat ayakkabılar seçmeyi, su sunmayı ve seansları kısa tutmayı öneriyor. Kişi yorgun, dengesiz ya da mutsuz görünüyorsa durun."
+    a: "Bunu kimse garanti edemez. Birçok çalışma etkin olmayı daha düşük demans riskiyle ilişkilendiriyor, ancak klinik çalışmalar egzersizin demansı önlediğini göstermedi. Egzersizin kanıtlanmış birçok başka yararı vardır, bu yüzden yine de yapılmaya değer."
+  - q: "Demans yaşayan birinin egzersiz yapması güvenli midir?"
+    a: "Genellikle, biraz planlamayla. Ulusal Yaşlanma Enstitüsü, yeni bir rutine başlamadan önce kişinin doktoruna danışmayı; rahat ayakkabılar seçmeyi, su vermeyi ve seansları kısa tutmayı önerir. Kişi yorgun, dengesiz ya da mutsuz görünürse durun."
   - q: "Oturarak hangi egzersizler yapılabilir?"
-    a: "Oturarak yapılabilecekler arasında sandalyede esneme ya da sandalye yogası, balon ya da yumuşak top atma, kum torbası atma, konserve kutuları kaldırma, direnç bantları ve pedallı egzersiz aletleri var. Yürümek zorsa bunlar iyi seçeneklerdir."
-  - q: "Kişi hareket etmek istemezse ne yapmalıyım?"
-    a: "Zorlamayın. Daha sonra yeniden deneyin, siz de katılın, tanıdık müzik ekleyin ya da hareketi süpürmek veya çiçekleri sulamak gibi bir işe dönüştürün. Posta kutusuna kadar kısa bir yürüyüş de sayılır, birlikte dışarıda oturmak da."
+    a: "Oturarak yapılabilecek seçenekler arasında sandalye esnetmeleri ya da sandalye yogası, balon veya yumuşak top atma, fasulye torbası atma, konserve kutusu kaldırma, direnç bandı ile esneme ve pedal egzersizleri vardır. Yürümek zor olduğunda bunlar iyi seçeneklerdir."
+  - q: "Kişi hareket etmek istemezse ne yapmalı?"
+    a: "Zorlamayın. Daha sonra tekrar deneyin, siz de katılın, tanıdık müzik ekleyin ya da hareketi süpürme veya bitkileri sulama gibi bir işe dönüştürün. Posta kutusuna kadar kısa bir yürüyüş bile sayılır; birlikte dışarıda oturmak da öyle."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -52,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Aktif olmak, beyin sağlığı araştırmalarında en çok incelenen alışkanlıklardan biridir. Çalışmalar bunu daha düşük demans riskiyle ilişkilendiriyor, ancak egzersizin demansı önlediğini kanıtlamadı. Açık olan şu: hareket, her yaşta güce, dengeye, ruh hâline ve uykuya yardımcı olur. Bu sayfa araştırmaların ne söylediğini, yaşlı yetişkinlere ne kadar aktivite önerildiğini ve demansla yaşayan biriyle birlikte yapabileceğiniz nazik hareket yollarını ele alıyor.
+Etkin olmak, beyin sağlığı araştırmalarında en çok incelenen alışkanlıklardan biridir. Araştırmalar bunu daha düşük demans riskiyle ilişkilendiriyor, ancak egzersizin demansı önlediğini kanıtlamadı. Kesin olan şu ki hareket; her yaşta güç, denge, ruh hâli ve uykuya iyi gelir. Bu sayfada araştırmaların ne söylediği, yaşlı yetişkinler için ne kadar etkinlik önerildiği ve demans yaşayan biriyle birlikte yapılabilecek nazik hareket yolları anlatılıyor.
 
 ## Egzersiz demans riskini azaltır mı?
 
-Araştırmalar fiziksel olarak aktif kişilerde demans gelişme olasılığının daha düşük olduğunu gösteriyor, ancak kanıtın sınırları var. [2024 Lancet Demans Komisyonu](https://doi.org/10.1016/S0140-6736(24)01296-0), fiziksel hareketsizliği değiştirilebilir 14 risk faktöründen biri olarak sayıyor. Komisyonun modelinde bu 14 faktör birlikte dünya genelindeki demansın yaklaşık %45’ini oluşturuyor.
+Araştırmalar, fiziksel olarak etkin kişilerin demans geliştirme olasılığının daha düşük olabileceğini gösteriyor; ancak bulguların sınırları vardır. [2024 tarihli demans üzerine Lancet Komisyonu](https://doi.org/10.1016/S0140-6736(24)01296-0), fiziksel hareketsizliği değiştirilebilir on dört risk etkeninden biri olarak sıralar. Komisyonun modeline göre bu on dört etken, dünya genelindeki demans vakalarının yaklaşık %45’ini açıklıyor.
 
-Kanıt şöyle görünüyor:
+Bulgular şöyle özetlenebilir:
 
-- **Gözlemsel çalışmalar aynı yönü gösteriyor.** Komisyonun ele aldığı 58 çalışmalık bir derleme, fiziksel olarak aktif kişilerde demans riskinin yaklaşık %20 daha düşük olduğunu buldu. En büyük fark, neredeyse hiç hareket etmeyenlerle en azından biraz aktivite yapanlar arasındaydı.
-- **İlişki iki yönlü olabilir.** Komisyon, hareketsiz olmanın riski artırabileceğini belirtiyor. Ayrıca tanıdan yıllar önce başlayan demansın erken beyin değişikliklerinin insanları daha az aktif hâle getirebileceğini de not ediyor.
-- **Denemeler daha az net.** Bir denemede, ortalama yaşı 78 olan 945 yaşlı yetişkin, beş yıl boyunca haftada iki kez denetimli egzersize ya da bir karşılaştırma grubuna atandı. Sonunda düşünme becerileri gruplar arasında net biçimde farklılaşmadı. Karşılaştırma grubundaki birçok kişi de aktifti; bu, sonucun yorumlanmasını zorlaştırıyor.
+- **Gözlemsel çalışmalar aynı yönü gösteriyor.** Komisyonun ele aldığı elli sekiz çalışmanın bir değerlendirmesine göre, fiziksel olarak etkin kişilerde demans riski yaklaşık %20 daha düşüktü. En büyük fark, neredeyse hiç hareket etmeyen kişiler ile en az biraz etkinlik yapan kişiler arasındaydı.
+- **Bağlantı çift yönlü olabilir.** Komisyon, hareketsiz olmanın riski artırabileceğini belirtiyor. Ayrıca, tanıdan yıllar önce başlayan erken beyin değişikliklerinin kişileri daha az hareket eder hâle getirebileceğini de not ediyor.
+- **Deneylerin sonuçları daha belirsiz.** Bir çalışmada, ortalama yaşı yetmiş sekiz olan dokuz yüz kırk beş yaşlı yetişkine beş yıl boyunca haftada iki kez gözetimli egzersiz ya da karşılaştırma grubu atandı. Çalışmanın sonunda gruplar arasında düşünme becerileri açısından belirgin bir fark görülmedi. Karşılaştırma grubundaki birçok kişinin de etkin olması, sonucu yorumlamayı zorlaştırıyor.
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) bunu açıkça söylüyor: Fiziksel aktivite ile Alzheimer’ın önlenmesi arasında net bir ilişki gösterilmemiştir ve egzersizin Alzheimer’ı önlediğini ya da yavaşlattığını söylemek için yeterli deneme kanıtı yoktur. Yine de egzersiz düşme, depresyon, diyabet, yüksek tansiyon ve felç riskini azaltır. Bu durumların bir kısmı kendileri de bilişsel gerilemeyle ilişkilidir.
+[Ulusal Yaşlanma Enstitüsü (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) durumu açıkça ifade ediyor. Fiziksel etkinlik ile Alzheimer hastalığını önleme arasında net bir bağlantı gösterilemedi ve egzersizin hastalığı önlediğini ya da yavaşlattığını söylemek için yeterli deney kanıtı yok. Yine de egzersiz; düşme, depresyon, diyabet, yüksek tansiyon ve inme riskini azaltır. Bu durumlardan bazıları da bilişsel gerilemeyle ilişkilidir.
 
-Dürüst çıkarım şu: Bugün kendinizi daha iyi hissetmek ve daha iyi işlev görmek için hareket edin. Beyne yönelik olası bir yarar bir ek kazanç olabilir, ama bir söz değildir.
+Dürüst çıkarım şudur: Bugün kendinizi daha iyi hissetmenize ve daha iyi işlev görmenize yardımcı olduğu için hareket edin. Beyne olası herhangi bir fayda bir söz değil, olası bir ek kazanımdır.
 
-## Yaşlı yetişkinlerin ne kadar aktiviteye ihtiyacı var?
+## Yaşlı yetişkinler ne kadar hareket etmeli?
 
-[CDC’nin 65 yaş ve üzeri yetişkinler için rehberi](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) her hafta üç tür aktivite öneriyor:
+[Altmış beş yaş ve üzeri yetişkinler için CDC rehberi](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) her hafta üç tür etkinlik önerir:
 
 | Tür | Haftalık miktar | Örnekler |
 | --- | --- | --- |
-| Aerobik | En az 150 dakika orta düzeyde aktivite; örneğin 5 gün boyunca 30 dakika | Tempolu yürüyüş, dans, su aerobiği |
-| Kas güçlendirme | En az 2 gün, tüm büyük kas gruplarını çalıştırarak | Hafif ağırlıklar ya da konserve kutuları kaldırmak, direnç bantları |
-| Denge | Düzenli olarak | Topuktan parmak ucuna yürümek, sandalyeden kalkmak |
+| Aerobik | En az yüz elli dakika orta düzey etkinlik; örneğin beş gün, günde otuz dakika | Tempolu yürüyüş, dans, suda aerobik |
+| Kas güçlendirme | En az iki gün, tüm ana kas gruplarını çalıştıracak şekilde | Hafif ağırlık ya da konserve kutusu kaldırma, direnç bandı ile çalışma |
+| Denge | Düzenli olarak | Topuk-parmak ucu yürüyüşü, sandalyeden kalkma |
 
-Bunlar birer hedeftir, giriş şartı değildir. CDC, bunlara ulaşamıyorsanız yeteneklerinizin ve sağlığınızın elverdiği kadar aktif olmanız gerektiğini söylüyor. Biraz aktivite, hiç olmamasından iyidir.
+Bunlar hedeflerdir, başlangıç koşulları değil. CDC, bu hedeflere ulaşamıyorsanız yeteneklerinizin ve sağlığınızın izin verdiği ölçüde etkin olmanız gerektiğini söyler. Az da olsa hareket etmek, hiç hareket etmemekten iyidir.
 
 ## Yaşlı yetişkinler için nazik hareket yolları
 
-- **Arkadaşla yürüyün.** Bir arkadaş, komşu ya da yürüyüş grubuyla yapılan günlük bir yürüyüş sohbet ve güvenlik katar.
-- **Sandalye egzersizleri.** Oturarak kol kaldırmak, ayak bileği çevirmek, yerinde yürümek ve sandalye yogası, denge riski olmadan güç kazandırır.
-- **Mutfakta dans edin.** Kişinin on ve yirmili yaşlarındaki müziklerini açın; sallanın, ayakla tempo tutun ya da adım atın. [Müzik etkinlikleri rehberimizde](/activities/music/) fikirler var.
-- **Ev eşyalarıyla kuvvet çalışması.** Sevdiğiniz bir programı izlerken dolu su şişelerini ya da konserve kutularını kaldırın.
-- **Bahçe ya da ev işleriyle uğraşın.** Çiçek sulamak, tırmık çekmek, süpürmek ve çamaşır katlamak da sayılır. [Açık hava ve bahçe etkinliklerine](/activities/outdoor-and-gardening/) ve [ev işlerine](/activities/household-tasks/) bakın.
-- **Su egzersizi.** NIA, karada yapılan egzersizin eklemlerini zorladığı kişiler için bir seçenek olarak su aerobiği derslerini sayıyor.
+- **Birlikte yürüyün.** Bir arkadaş, komşu ya da yürüyüş grubu ile günlük yürüyüş yapmak sohbeti ve güvenliği artırır.
+- **Sandalye egzersizleri yapın.** Oturarak kol kaldırma, ayak bileği çevirme, yerinde yürüme ve sandalye yogası denge riski olmadan güç kazandırır.
+- **Mutfakta dans edin.** Kişinin gençlik yıllarından tanıdık müzikler açın; birlikte sallanın, ritim tutun ya da adım atın. [Müzik etkinlikleri rehberimizde](/activities/music/) fikirler bulabilirsiniz.
+- **Ev eşyalarıyla güç çalışması yapın.** Sevilen bir programı izlerken dolu su şişeleri ya da konserve kutuları kaldırılabilir.
+- **Bahçe işleri yapın ya da ev işlerine katılın.** Bitkileri sulamak, tırmıklamak, süpürmek ve çamaşır katlamak da sayılır. [Açık hava ve bahçe etkinlikleri](/activities/outdoor-and-gardening/) ile [ev işleri](/activities/household-tasks/) sayfalarına bakabilirsiniz.
+- **Suda egzersiz yapın.** NIA, eklemleri yerde yapılan egzersizlerde zorlanan kişiler için suda aerobik derslerini seçenekler arasında sayar.
 
-## Demansla yaşayan biriyle nasıl egzersiz yapılır?
+## Demans yaşayan biriyle nasıl egzersiz yapılır?
 
-Demansla yaşayan bir kişi için amaç bir sayıya ulaşmak değil; rahatlık, keyif ve gündelik becerileri korumaktır. NIA, fiziksel aktivitenin Alzheimer’ı olan kişinin kaslarını, eklemlerini ve kalbini formda tutmaya yardımcı olduğunu, ayrıca ruh hâlini ve uykuyu da iyileştirebileceğini söylüyor. Yeni bir rutine başlamadan önce kişinin doktoruna danışın. [NIA’nın bakım verenler için rehberindeki](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ipuçları şunlar:
+Demans yaşayan bir kişi için amaç; bir sayıya ulaşmak değil, rahatlık, keyif ve günlük becerileri korumaktır. NIA, fiziksel etkinliğin Alzheimer hastalığı olan birinin kaslarını, eklemlerini ve kalbini iyi durumda tutmaya yardımcı olduğunu; ruh hâlini ve uykuyu da iyileştirebileceğini belirtir. Yeni bir rutine başlamadan önce kişinin doktoruna danışın. [NIA’nın bakım veren rehberinden](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) bazı öneriler:
 
-1. **Her gün birlikte yürüyün.** Engellerden uzak, güvenli ve tanıdık bir yol seçin. Kişi tek başına yürüyorsa üzerinde telefon numaranızın yazılı olduğu bir kimlik bilekliği iyi bir fikirdir.
-2. **Yaşlılar için egzersiz videolarını deneyin.** Birlikte, oturarak ya da ayakta takip edin.
-3. **Seansları kısa tutun.** Birkaç kısa “mini egzersiz”, tek bir uzun egzersizden daha iyi işe yarayabilir.
-4. **Müzik ekleyin.** Tanıdık şarkılar hareketi bir görev değil, bir etkinlik gibi hissettirir. Kişi hoşlanıyorsa dans edin.
-5. **Su sunun, rahat ayakkabı giydirin.** Egzersiz sırasında ve sonrasında su ya da meyve suyu sunun; rahat kıyafetler ve egzersiz için yapılmış, ayağa tam oturan ayakkabılar seçin.
+1. **Her gün birlikte yürüyün.** Engellerden arındırılmış, güvenli ve tanıdık bir yol seçin. Kişi tek başına yürüyorsa, üzerinde telefon numaranızın yazılı olduğu bir kimlik bilekliği iyi bir fikir olabilir.
+2. **Yaşlı yetişkinler için egzersiz videolarını deneyin.** Oturarak ya da ayakta birlikte uygulayın.
+3. **Seansları kısa tutun.** Birkaç kısa «mini egzersiz» tek uzun seanstan daha iyi olabilir.
+4. **Müzik ekleyin.** Tanıdık şarkılar hareketi bir görev değil, bir etkinlik gibi hissettirebilir. Kişi hoşlanıyorsa dans edin.
+5. **Su ve rahat ayakkabılar sunun.** Egzersiz sırasında ve sonrasında su ya da meyve suyu verin; rahat giysiler ve egzersiz için uygun, iyi oturan ayakkabılar seçin.
 
-Yürümek zorsa [NIA’nın Alzheimer’lı bir kişiye bakım rehberi](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) oturarak yapılabilecekleri öneriyor. Bunlar arasında sandalye egzersizleri ya da yoga, kum torbası atma, yumuşak top ya da balon atma, direnç bantları, hafif ev eşyalarını kaldırma ve pedallı egzersiz aletleri var. Süpürmek ve toz almak gibi basit işler de sayılır.
+Yürümek zor olduğunda, [NIA’nın Alzheimer hastalığı olan birine bakım rehberi](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) oturarak yapılabilecek seçenekler önerir. Bunlar arasında sandalye egzersizleri ya da yoga, fasulye torbası atma, yumuşak top veya balon atma, direnç bantları, hafif ev eşyalarını kaldırma ve pedal egzersizleri yer alır. Süpürmek ve toz almak gibi basit işler de sayılır.
 
-Hareketin neler yapabileceği konusunda gerçekçi olun. Lancet Komisyonu, egzersizin ajitasyon gibi davranış değişikliklerini azalttığına dair kanıt bulmadı. Zor bir öğleden sonrayı düzeltmenin yolu olarak değil, iyi hissettirebileceği için birlikte hareket edin. Kişi hayır derse sorun değil. [Hayır dediklerinde](/caregiving/when-they-say-no/) rehberimizde daha sonra yeniden denemenin nazik yolları var. Erken bitirmek ya da yalnızca birlikte dışarıda oturmak da iyi bir sonuçtur.
+Hareketten ne beklenebileceği konusunda gerçekçi olun. Lancet Komisyonu, egzersizin ajitasyon gibi davranış değişikliklerini azalttığına dair bir kanıt bulamadı. Zor bir öğleden sonrayı düzeltmek için değil, iyi hissettirebildiği için birlikte hareket edin. Kişi hayır derse bu da kabul edilebilir. [Hayır dediklerinde](/caregiving/when-they-say-no/) başlıklı rehberimizde daha sonra nazikçe tekrar denemek için yollar bulabilirsiniz. Erken bitirmek ya da sadece birlikte dışarıda oturmak da iyi bir sonuçtur.
 
-Hareketten sonra [Sakin nefes](/games/calm-breathing/) gibi sessiz bir mola ikinizin de yatışmasına yardımcı olabilir. Hafif kol hareketiyle oturarak yapılan bir etkinlik için [Birlikte ayıralım](/games/sort-together/) ve [Resimli tombala](/games/picture-bingo/) masa başında iyi çalışır.
+Hareket ettikten sonra, [Sakin Nefes](/games/calm-breathing/) gibi sessiz bir mola ikinizin de sakinleşmesine yardımcı olabilir. Oturarak ve kolları hafifçe hareket ettiren bir etkinlik için [Birlikte Sıralayalım](/games/sort-together/) ve [Resimli Tombala](/games/picture-bingo/) masada iyi seçeneklerdir.
 
-## Denge ve düşmeden korunma
+## Denge ve düşme güvenliği
 
-Düşmeler yaygın ve ciddidir. [CDC’nin bildirdiğine göre](https://www.cdc.gov/falls/data-research/facts-stats/index.html) yaşlı yetişkinlerin dörtte birinden fazlası her yıl düşüyor, ancak yarısından azı doktoruna söylüyor. Bir kez düşmek, yeniden düşme olasılığını iki katına çıkarır. CDC’nin saydığı risk faktörleri şunlar:
+Düşmeler yaygındır ve ciddidir. [CDC’nin bildirdiğine göre](https://www.cdc.gov/falls/data-research/facts-stats/index.html) her yıl dört yaşlı yetişkinden birinden fazlası düşer, ancak yarısından azı bunu doktoruna söyler. Bir kez düşmek, tekrar düşme olasılığını iki katına çıkarır. CDC’nin sıraladığı risk etkenleri şunlardır:
 
-- Bacaklarda ve kalçada güçsüzlük
-- Yürümede ve dengede zorluk
-- Sakinleştiriciler ve bazı antidepresanlar dahil bazı ilaçlar
+- Bacak ve kalça kaslarında güçsüzlük
+- Yürüme ve denge güçlüğü
+- Sakinleştiriciler ve bazı antidepresanlar dâhil bazı ilaçlar
 - Görme sorunları
-- Ayak ağrısı ya da uygunsuz ayakkabı
-- Dağınıklık, kaygan halılar ve kırık basamaklar gibi evdeki tehlikeler
+- Ayak ağrısı ya da uygun olmayan ayakkabılar
+- Dağınıklık, kaydırmaz tabanı olmayan halılar ve bozuk basamaklar gibi ev tehlikeleri
 
 Daha güvenli hareket etmek için:
 
-- **Tekerleksiz sağlam bir sandalye kullanın** ve ayakta yapılan egzersizler için bir tezgâh ya da tırabzanı elinizin altında tutun.
-- **Önce alanı temizleyin;** halıları, kabloları ve dağınıklığı kaldırın.
-- **Ayağa kalkarken yavaş olun** ve kişi başının döndüğünü ya da dengesiz hissettiğini söylerse durun.
-- **Destekleyici ayakkabılar giyin;** çorapla ya da bol terlikle değil.
-- **Dengeyi bir desteğin yakınında çalışın.** Sandalyeden kalkmak ve topuktan parmak ucuna yürümek, CDC’nin denge etkinliği örnekleridir.
+- **Tekerleksiz, sağlam bir sandalye kullanın** ve ayakta yapılan egzersizler için tezgâh ya da korkuluk elinizin altında olsun.
+- **Alanı önce temizleyin**; halıları, kabloları ve dağınıklığı kaldırın.
+- **Ayağa kalkarken yavaş hareket edin** ve kişi baş dönmesi ya da dengesizlik hissederse durun.
+- **Destekleyici ayakkabılar giyin**; çorapla ya da gevşek terliklerle yürümeyin.
+- **Denge çalışmasını destek yakınında yapın.** Sandalyeden kalkmak ve topuk-parmak ucu yürümek, CDC’nin denge etkinliği örnekleri arasındadır.
 
-CDC, düşüp başını çarpan bir yaşlı kişinin, özellikle kan sulandırıcı kullanıyorsa, hemen bir doktora görünmesini öneriyor.
+CDC, düşüp başını çarpan yaşlı bir kişinin, özellikle kan sulandırıcı kullanıyorsa, hemen bir doktora görünmesi gerektiğini belirtir.
 
-## Bir doktorla konuşun
+## Doktorla konuşun
 
-Özellikle kalp ya da akciğer sorunu, eklem ağrısı, denge sorunu ya da demansı olan biri için yeni bir egzersiz rutinine başlamadan önce bir doktora danışın. Bir doktor ya da fizyoterapist güvenli etkinlikler önerebilir ve ilaçların dengeyi etkileyip etkilemediğini kontrol edebilir. Yaralanmayla sonuçlanmamış olsa bile her düşmeyi doktora söyleyin. Egzersiz sırasında bir yer ağrırsa ya da bir şey yanlış hissettirirse durun. Ani göğüs ağrısı, nefes darlığı ya da ani kafa karışıklığı için acil durum hattını arayın (Türkiye’de 112; ABD’de 911).
+Yeni bir egzersiz rutinine başlamadan önce, özellikle kalp ya da akciğer sorunu, eklem ağrısı, denge sorunu ya da demans yaşayan biri için doktora danışın. Bir doktor ya da fizyoterapist güvenli etkinlikler önerebilir ve ilaçların dengeyi etkileyip etkilemediğini kontrol edebilir. Yaralanma olmasa bile her düşmeyi doktora bildirin. Egzersiz sırasında bir yer ağrırsa ya da doğru gelmezse durun. Ani göğüs ağrısı, nefes darlığı ya da ani bilinç bulanıklığı durumunda 911’i arayın.
 
-Bu sayfa genel bilgidir, tıbbi tavsiye değildir. [Tıbbi sorumluluk reddimize](/medical-disclaimer/) bakın. Daha geniş tablo için [araştırmaların demans risk faktörleri hakkında söylediklerini](/brain-health/risk-factors/) ve [demansın önlenip önlenemeyeceğini](/brain-health/can-dementia-be-prevented/) okuyun.
+Bu sayfa genel bilgidir, tıbbi tavsiye değildir. [Tıbbi sorumluluk reddi beyanımıza](/medical-disclaimer/) bakın. Daha geniş bir bakış için [demans risk etkenleri hakkında araştırmaların söylediklerini](/brain-health/risk-factors/) ve [demansın önlenip önlenemeyeceğini](/brain-health/can-dementia-be-prevented/) okuyun.
