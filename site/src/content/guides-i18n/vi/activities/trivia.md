@@ -1,32 +1,33 @@
 ---
-title: "Câu đố vui dễ cho người cao tuổi sa sút trí tuệ, không áp lực"
-seoTitle: "Đố vui cho người sa sút trí tuệ: 50 câu hỏi dễ"
-description: "50 câu đố vui dễ cho người cao tuổi sa sút trí tuệ, có sẵn lựa chọn trả lời và gợi ý trò chuyện, cùng cách tổ chức để không ai thấy bị kiểm tra hay bị bỏ rơi."
+title: "Câu đố nhẹ nhàng cho người lớn tuổi sống với chứng mất trí"
+seoTitle: "Câu đố cho người cao tuổi sống với chứng mất trí, có đáp án"
+description: "50 câu đố dễ cho người cao tuổi sống với chứng mất trí, có lựa chọn đáp án và gợi ý trò chuyện, cùng cách tổ chức để không ai thấy bị kiểm tra hay bị bỏ rơi."
 section: activities
 order: 19
 updated: 2026-10-25
+translatedFrom: 2026-10-25
 summary: >-
-  Đố vui cho người cao tuổi sa sút trí tuệ hiệu quả khi nó giống một cuộc trò
-  chuyện, không phải một bài kiểm tra. Hãy hỏi về những điều đã học từ lâu, như
-  bài hát xưa, tục ngữ, ngày lễ và đời sống thường ngày, và luôn đưa ra hai
-  hoặc ba lựa chọn. Cứ nói đáp án một cách thoải mái, không chỉ định riêng ai,
-  bỏ việc tính điểm, và dùng mỗi đáp án để mở đầu một câu chuyện. Những câu hỏi
-  “thích bên nào” không có đáp án sai hợp với các giai đoạn muộn hơn.
+  Câu đố dễ cho người cao tuổi sống với chứng mất trí hiệu quả khi giống như một
+  cuộc trò chuyện, không phải một bài kiểm tra. Hãy hỏi về những điều đã biết từ
+  lâu, như các bài hát cũ, câu nói quen, ngày lễ và cuộc sống thường ngày, và
+  luôn đưa ra hai hoặc ba lựa chọn. Đưa đáp án một cách thoải mái, đừng chỉ một
+  người, bỏ qua điểm số, và dùng mỗi đáp án để bắt đầu một câu chuyện. Câu hỏi
+  'cái này hay cái kia' không có đáp án sai phù hợp với giai đoạn sau.
 keyPoints:
-  - "Hỏi về những điều quen thuộc từ lâu: bài hát, tục ngữ, ngày lễ, món ăn và đời sống thường ngày của nhiều năm trước."
-  - "Đưa hai hoặc ba lựa chọn để người thân nhận ra đáp án thay vì phải nhớ lại."
-  - "Nói đáp án một cách ấm áp rồi đi tiếp. Mọi lời đoán gợi ra một câu chuyện đều là lời đoán hay."
-  - "Không điểm số, không đội thi đua, không gọi riêng một người. Để câu trả lời đến từ cả phòng."
-  - "Khi việc chọn giữa các đáp án trở nên khó, hãy chuyển sang những câu hỏi “thích bên nào” không có đáp án đúng."
+  - "Hỏi về những điều đã quen thuộc từ lâu: bài hát, câu nói, ngày lễ, đồ ăn và cuộc sống thường ngày của nhiều năm trước."
+  - "Đưa ra hai hoặc ba lựa chọn để đáp án có thể được nhận ra thay vì phải nhớ lại."
+  - "Nói đáp án một cách ấm áp rồi chuyển tiếp. Bất kỳ câu trả lời nào bắt đầu một câu chuyện đều là câu trả lời tốt."
+  - "Không có điểm, không có các đội chạy đua, không gọi tên một người. Để đáp án đến từ cả căn phòng."
+  - "Khi chọn giữa các đáp án trở nên khó, hãy chuyển sang câu hỏi 'cái này hay cái kia' không có đáp án đúng."
 faq:
-  - q: "Đố vui có phải là hoạt động tốt cho người sa sút trí tuệ không?"
-    a: "Có thể, nếu được tổ chức nhẹ nhàng. Alzheimer's Foundation of America liệt kê đố vui trong số các hoạt động cho giai đoạn đầu. Hãy giữ câu hỏi về những chủ đề quen thuộc từ lâu, đưa ra lựa chọn, không bao giờ đặt một người vào thế khó, và xem các câu trả lời là lối vào cuộc trò chuyện chứ không phải bài kiểm tra."
-  - q: "Chủ đề nào hợp nhất với đố vui cho người sa sút trí tuệ?"
-    a: "Những điều đã học từ lâu thường hợp nhất: bài hát và ca sĩ thời trẻ của người thân, những câu tục ngữ quen thuộc, ngày lễ, món ăn, thể thao và đời sống thường ngày như người đưa thư hay điện thoại quay số. Tránh tin tức gần đây và bất cứ điều gì cần nhớ lại một điều đã nói trước đó trong buổi chơi."
-  - q: "Làm sao tổ chức đố vui ở viện dưỡng lão mà không làm ai ngượng?"
-    a: "Hãy đọc mỗi câu hỏi cho cả nhóm, cho xem hoặc nói các lựa chọn, và đón nhận câu trả lời của bất cứ ai. Không gọi riêng từng người và không tính điểm. Hãy nói đáp án với một nụ cười dù người ta đoán thế nào, rồi hỏi tiếp một câu như “Ở đây ai từng đi xem hát bóng?” để biến nó thành những câu chuyện."
-  - q: "Có thể làm gì thay cho đố vui ở các giai đoạn muộn hơn?"
-    a: "Hãy chuyển sang những câu hỏi không có đáp án sai, như “Cà phê hay trà?” hay “Biển hay núi?”, và cùng nhau nói tiếp những câu tục ngữ hay bài hát quen thuộc. Cùng xem và mô tả các bức hình cũng rất hay."
+  - q: "Câu đố có phải là hoạt động tốt cho người sống với chứng mất trí không?"
+    a: "Có thể, nếu được tổ chức nhẹ nhàng. Quỹ Alzheimer Hoa Kỳ liệt kê câu đố trong số các hoạt động cho giai đoạn sớm. Giữ các câu hỏi về chủ đề đã quen thuộc từ lâu, đưa ra lựa chọn, đừng đặt một người vào thế bị chất vấn, và xem các đáp án như con đường đi vào cuộc trò chuyện thay vì một bài kiểm tra."
+  - q: "Chủ đề nào phù hợp nhất cho câu đố về chứng mất trí?"
+    a: "Những điều đã học từ lâu thường phù hợp nhất: các bài hát và ca sĩ nổi tiếng từ thời trẻ của người đó, các câu nói quen thuộc, ngày lễ, đồ ăn, thể thao và cuộc sống thường ngày như giao sữa và điện thoại quay số. Tránh tin tức gần đây và bất cứ điều gì cần nhớ điều gì đó từ sớm hơn trong buổi."
+  - q: "Làm thế nào để tổ chức câu đố trong nhà chăm sóc mà không làm ai xấu hổ?"
+    a: "Đọc từng câu hỏi cho cả nhóm, cho xem hoặc nói các lựa chọn, và chào đón câu trả lời từ bất kỳ ai. Đừng gọi tên cá nhân hay giữ điểm. Nói đáp án với nụ cười dù người ta đoán gì, và hỏi thêm như 'Ai ở đây từng đi xem phim từ xe?' để biến nó thành những câu chuyện."
+  - q: "Tôi có thể làm gì thay cho câu đố ở các giai đoạn sau?"
+    a: "Chuyển sang các câu hỏi không có đáp án sai, như 'Cà phê hay trà?' hay 'Biển hay núi?', và cùng nhau hoàn thành các câu nói quen thuộc hoặc bài hát. Cùng nhau xem hình ảnh và mô tả chúng cũng rất hiệu quả."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -43,138 +44,137 @@ sources:
 relatedGames: [finish-the-saying, conversation-cards, picture-bingo, word-search]
 related: [activities/care-home-groups, activities/reminiscence, activities/memory-games, caregiving/communication-tips, activities/music, activities/printable]
 health: false
-translatedFrom: 2026-10-25
 ---
 
-Đố vui là một trong những hoạt động nhóm được yêu cầu nhiều nhất ở viện dưỡng lão và các trung tâm chăm sóc ban ngày, và nhiều gia đình cũng chơi bên bàn ăn. Nếu chơi theo cách thông thường, có điểm số và chỉ một người trả lời, nó có thể khiến người sa sút trí tuệ thấy bị đặt vào thế khó. Nếu chơi nhẹ nhàng, nó là một cách sôi nổi để nghe những câu chuyện. Dưới đây là 50 câu hỏi dễ, có lựa chọn trả lời và một gợi ý trò chuyện cho mỗi câu, tiếp theo là cách tổ chức một buổi chơi.
+Trivia là một trong những hoạt động nhóm được yêu cầu nhiều nhất trong nhà chăm sóc và các chương trình ban ngày, và nhiều gia đình cũng chơi ở bàn bếp. Nếu tổ chức theo cách thông thường, với điểm số và một người trả lời, nó có thể khiến người sống với chứng mất trí cảm thấy bị chất vấn. Nếu tổ chức nhẹ nhàng, đó là cách sống động để nghe những câu chuyện. Dưới đây là 50 câu đố dễ với các lựa chọn đáp án và điều để trò chuyện cho mỗi câu, sau đó là cách tổ chức một buổi.
 
-## Làm sao để đố vui phù hợp với người sa sút trí tuệ?
+## Làm thế nào để câu đố phù hợp với người sống với chứng mất trí?
 
-Hãy xoay quanh việc nhận ra và nhớ về những điều xa xưa, và đón nhận mọi câu trả lời.
+Hãy làm cho nó về việc nhận ra và nhớ lại những điều từ lâu, và làm cho mọi đáp án đều được chào đón.
 
-1. **Hỏi về quá khứ xa.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) cho biết triệu chứng sớm phổ biến nhất của bệnh Alzheimer là khó nhớ thông tin mới học. Bài hát, tục ngữ và đời sống thường ngày từ nhiều thập niên trước thường là nền đất dễ đi hơn.
-2. **Luôn đưa lựa chọn.** Chọn đúng đáp án trong hai hoặc ba phương án dễ hơn nhiều so với việc tự nghĩ ra từ con số không.
-3. **Đọc to câu hỏi và cho xem chữ to.** Một tấm bảng trắng hoặc một chiếc máy tính bảng giơ lên sẽ giúp những người nghe kém hơn.
-4. **Nói đáp án một cách thoải mái.** Nếu không ai biết, hãy nói ấm áp rồi đi tiếp. Đừng bao giờ nói “Thôi nào, bác biết mà.”
-5. **Không tính điểm.** Không cho từng cá nhân và không cho từng bàn. Nếu mọi người muốn có một con số, hãy giữ một tổng chung cho cả nhóm.
-6. **Đừng bao giờ gọi riêng một người.** Để câu trả lời đến từ bất cứ ai. Khi chơi một-một, hãy cùng trả lời: “Con nghĩ là cây đàn piano. Bác nghĩ sao?”
-7. **Dùng gợi ý trò chuyện.** Đáp án là mở đầu, không phải kết thúc. Những câu chuyện mới là mục đích thật sự.
-8. **Giữ cho ngắn.** Mười câu hỏi với những câu chuyện xen giữa là đủ.
+1. **Hỏi về quá khứ xa.** [Hiệp hội Alzheimer](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) nói rằng triệu chứng sớm phổ biến nhất của bệnh Alzheimer là khó nhớ thông tin mới học. Các bài hát, câu nói và cuộc sống thường ngày từ nhiều thập kỷ trước thường là nền tảng dễ hơn.
+2. **Luôn đưa ra lựa chọn.** Chọn đáp án đúng trong hai hoặc ba lựa chọn dễ hơn nhiều so với tự nghĩ ra từ đầu.
+3. **Đọc câu hỏi to và cho xem chữ lớn.** Bảng trắng hoặc máy tính bảng giơ lên giúp những người nghe kém hơn.
+4. **Đưa đáp án thoải mái.** Nếu không ai biết, hãy nói đáp án một cách ấm áp rồi chuyển tiếp. Đừng nói "Thôi nào, bạn biết mà."
+5. **Không tính điểm.** Không cho cá nhân và không cho từng bàn. Nếu mọi người muốn một con số, hãy giữ một tổng chung cho cả nhóm.
+6. **Đừng gọi tên một người.** Để đáp án đến từ bất kỳ ai. Khi chơi hai người, hãy trả lời cùng nhau: "Tôi nghĩ là đàn piano. Bạn nghĩ sao?"
+7. **Dùng phần gợi ý trò chuyện.** Đáp án là điểm bắt đầu, không phải kết thúc. Câu chuyện mới là mục tiêu thực sự.
+8. **Giữ ngắn gọn.** Mười câu hỏi với những câu chuyện xen giữa là đủ.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nêu quy tắc cốt lõi thật đơn giản: để ý dấu hiệu bực bội và bảo đảm người thân cảm thấy mình thành công. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) liệt kê đố vui trong số các hoạt động cho giai đoạn đầu. Ở giai đoạn giữa, hãy giữ hai lựa chọn và dựa nhiều vào các gợi ý trò chuyện. Về sau, hãy chuyển sang những câu hỏi “thích bên nào” ở phần dưới.
+[Viện Lão hóa Quốc gia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) đặt quy tắc cốt lõi một cách đơn giản: để ý sự thất vọng và bảo đảm người đó cảm thấy thành công. [Quỹ Alzheimer Hoa Kỳ](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) liệt kê câu đố trong số các hoạt động cho giai đoạn sớm. Ở giai đoạn giữa, giữ hai lựa chọn và dựa vào phần gợi ý trò chuyện. Sau này, chuyển sang các câu hỏi 'cái này hay cái kia' phía dưới.
 
-## Đố vui về âm nhạc và giải trí
+## Câu đố về âm nhạc và giải trí
 
-Đáp án được in **đậm**. Hãy điều chỉnh cho hợp với từng người: người lớn lên cùng nhạc bolero sẽ muốn những ca sĩ khác với người lớn lên cùng cải lương hay quan họ.
+Đáp án nằm trong **chữ đậm**. Hãy điều chỉnh các câu này theo người đó: người lớn lên với Motown sẽ muốn các ca sĩ khác với người lớn lên với dàn nhạc lớn.
 
-| Câu hỏi | Lựa chọn | Trò chuyện về |
+| Câu hỏi | Lựa chọn | Trò chuyện |
 | --- | --- | --- |
-| Ai được gọi là Vua nhạc rock and roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Bác có thích nghe nhạc của Elvis không? |
-| Loại đàn nào chỉ có một dây? | **Đàn bầu**, đàn nguyệt, đàn tranh | Bác có hay nghe đàn bầu không? |
-| Bài hát mẹ hay hát để ru em bé ngủ gọi là gì? | **Hát ru**, hát xoan, hát bội | Ngày nhỏ, ai đã hát ru bác? |
-| Louis Armstrong hát “What a Wonderful...” | Day, **World**, Life | Điều gì làm thế giới này đẹp trong mắt bác? |
-| “Over the Rainbow” do Judy Garland hát trong bộ phim nào? | **Phù thủy xứ Oz**, Cuốn theo chiều gió, Singin' in the Rain | Bác thích xem phim ở đâu? |
-| Loại hình sân khấu nào bắt nguồn từ miền Nam và nổi tiếng với vọng cổ? | **Cải lương**, chèo, múa rối nước | Nhà bác ngày xưa có nghe cải lương trên radio không? |
-| Quan họ là dân ca của vùng nào? | **Bắc Ninh**, Huế, Cần Thơ | Bác thích nghe hát dân ca không? |
-| Nhạc cụ nào được thổi bằng miệng? | Đàn tranh, **sáo trúc**, trống | Bác có thích nghe tiếng sáo không? |
-| Cây đàn nào có 88 phím? | Guitar, **piano**, kèn trumpet | Trong nhà bác có ai chơi nhạc cụ không? |
-| Điệu nhảy nào đếm một-hai-ba, một-hai-ba? | **Valse**, twist, tango | Bác thường đi khiêu vũ ở đâu? |
+| Ai được gọi là Vua nhạc rock and roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Bạn từng xem Elvis trên TV chưa? |
+| Ca sĩ nào có biệt danh Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Bạn thích bài Sinatra nào nhất? |
+| Bing Crosby mơ về một Giáng sinh... | **trắng**, đám cưới, ngôi nhà | Cùng hát một câu |
+| Louis Armstrong hát "What a Wonderful..." | Ngày, **Thế giới**, Cuộc sống | Điều gì làm thế giới trở nên tuyệt vời với bạn? |
+| "Over the Rainbow" được Judy Garland hát trong phim nào? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Bạn xem những bộ phim yêu thích ở đâu? |
+| Ai đóng vai Lucy trong "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Gia đình bạn thường xem chương trình nào cùng nhau? |
+| Cao bồi nào cưỡi con ngựa tên Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Khi còn nhỏ bạn có chơi trò cao bồi không? |
+| Ai dẫn chương trình "The Tonight Show" trong 30 năm? | Ed Sullivan, **Johnny Carson**, Bob Hope | Bạn có thức khuya xem TV không? |
+| Nhạc cụ nào có 88 phím? | Guitar, **đàn piano**, trumpet | Có ai trong gia đình bạn chơi nhạc cụ không? |
+| Điệu nhảy nào đếm một-hai-ba, một-hai-ba? | **Waltz**, twist, tango | Bạn từng đi khiêu vũ ở đâu? |
 
-Để biết thêm về âm nhạc, xem [hoạt động âm nhạc cho người sa sút trí tuệ](/activities/music/).
+Để biết thêm về âm nhạc, xem [hoạt động âm nhạc cho chứng mất trí](/activities/music/).
 
-## Đố vui về đời sống thường ngày
+## Câu đố về cuộc sống thường ngày
 
-| Câu hỏi | Lựa chọn | Trò chuyện về |
+| Câu hỏi | Lựa chọn | Trò chuyện |
 | --- | --- | --- |
-| Ngày xưa nhiều nhà nấu cơm bằng... | **Bếp củi**, lò vi sóng, bếp từ | Ai là người nhóm bếp trong nhà? |
-| Ai mang thư đến tận nhà? | Người bán kem, **bác đưa thư**, thợ cắt tóc | Bác có hay viết thư không? |
-| Làm sao quay số một chiếc điện thoại bàn đời cũ? | Bấm nút, **quay mặt số**, nói vào máy | Kể con nghe về chiếc điện thoại trong nhà bác |
-| Loại xe nào đạp bằng chân? | **Xe đạp**, xe máy, xe buýt | Kể con nghe về một chiếc xe bác từng thích |
-| Cà phê phin được pha bằng gì? | **Phin**, nồi áp suất, cái rây bột | Bác thích cà phê đen hay cà phê sữa? |
-| Trò chơi nào người ta nhảy qua một sợi dây? | **Nhảy dây**, đá cầu, ô ăn quan | Hồi nhỏ bác hay chơi trò gì? |
-| Ở tiệm may, người ta làm gì? | **May quần áo**, sửa xe đạp, làm bánh | Bác có hay đi may áo mới dịp Tết không? |
-| Chiếc nón lá dùng để làm gì? | **Che nắng, che mưa**, đựng gạo, hứng nước | Bác có chiếc nón nào yêu thích không? |
-| Ngày hè nóng, người ta hay phe phẩy cái gì cho mát? | **Quạt nan**, chăn bông, bếp than | Nhà bác ngày xưa dùng quạt nan hay quạt máy? |
-| Thầy cô viết lên bảng đen bằng gì? | **Phấn**, bút bi, than | Hồi đi học, bác thích môn nào nhất? |
+| Trước khi có tủ lạnh, nhiều gia đình giữ thức ăn lạnh trong... | **Tủ đá**, lò nướng, gác xép | Ai giao đá? |
+| Ai mang sữa đến tận cửa trong chai thủy tinh? | Người đưa thư, **người giao sữa**, cậu bé đưa báo | Còn gì khác được giao đến nhà? |
+| Bạn quay số điện thoại quay số bằng cách nào? | Nhấn nút, **quay bánh xe**, nói chuyện với nó | Hãy kể về chiếc điện thoại trong nhà bạn |
+| Xe Model T do hãng nào sản xuất? | **Ford**, Chevrolet, Buick | Hãy kể về một chiếc xe bạn thích |
+| Bạn tìm thấy người pha soda ở đâu? | **Quầy soda**, tiệm bánh, ngân hàng | Bạn gọi món gì ở quầy? |
+| Đồ chơi nào là lò xo kim loại có thể đi xuống cầu thang? | Yo-yo, **Slinky**, vòng lắc hông | Bạn thích đồ chơi nào? |
+| Drive-in là nơi để xem... | **Phim từ trong xe**, trận đấu, diễu hành | Bạn đi với ai? |
+| Ai xuất hiện trên tờ một đô la? | Lincoln, **George Washington**, Jefferson | Một đô la mua được gì thời đó? |
+| Ai xuất hiện trên đồng xu một xu? | **Abraham Lincoln**, Washington, Franklin | Thời đó bạn có để dành tiền xu trong lọ không? |
+| Xe buýt đưa rước học sinh thường có màu gì? | Đỏ, **vàng**, xanh | Bạn đi học bằng cách nào? |
 
-## Ngày lễ, thiên nhiên và địa danh
+## Ngày lễ, thiên nhiên và địa điểm
 
-| Câu hỏi | Lựa chọn | Trò chuyện về |
+| Câu hỏi | Lựa chọn | Trò chuyện |
 | --- | --- | --- |
-| Tết cổ truyền còn được gọi là Tết gì? | **Tết Nguyên đán**, Tết Đoan ngọ, Tết Trung thu | Trên bàn nhà bác ngày Tết luôn có món gì? |
-| Bánh chưng có hình gì? | **Hình vuông**, hình tròn, hình tam giác | Nhà bác ai là người gói bánh chưng? |
-| Tết Trung thu, trẻ em hay xách... | **Lồng đèn**, giỏ cá, con diều | Ngày nhỏ bác có được cầm lồng đèn không? |
-| Bao lì xì ngày Tết thường có màu gì? | **Đỏ**, xanh, đen | Ngày nhỏ, bác nhận lì xì từ ai? |
-| Con vật nào gáy “ò ó o” buổi sáng? | **Gà trống**, vịt, mèo | Nhà bác ngày xưa có nuôi gà không? |
-| Nước biển có vị gì? | **Mặn**, ngọt, chua | Bác có thích đi tắm biển không? |
-| Thành phố nào nổi tiếng với nhiều hoa và khí hậu mát mẻ quanh năm? | **Đà Lạt**, Cần Thơ, Hải Phòng | Bác có thích ngắm hoa không? |
-| Ong làm ra... | Sữa, **mật ong**, tơ | Bác thích mật ong pha trà hay pha chanh? |
-| Con của con bò gọi là... | **Bê**, ngựa con, cừu non | Bác có từng sống gần đồng ruộng không? |
-| Loài hoa vàng cao nổi tiếng vì luôn quay về phía mặt trời là hoa gì? | Hoa hồng, **hoa hướng dương**, hoa sen | Vườn nhà bác ngày xưa trồng hoa gì? |
-| Một năm nhuận dương lịch có bao nhiêu ngày? | 365, **366**, 360 | Kể con nghe về một sinh nhật mà bác nhớ |
-| Mùa nào đến sau mùa đông? | Mùa thu, **mùa xuân**, mùa hè | Bác thích nhất mùa nào? |
+| Ngày lễ nào rơi vào thứ năm thứ tư của tháng Mười một? | Ngày Lao động, **Lễ Tạ ơn**, Ngày Tưởng niệm | Trên bàn bạn luôn có gì? |
+| Jack-o'-lanterns được làm cho ngày lễ nào? | **Halloween**, Phục sinh, Giáng sinh | Hãy kể về Halloween ở nơi bạn lớn lên |
+| Ngày lễ Độc lập Hoa Kỳ kỷ niệm Tuyên ngôn... | Quyền lợi, **Độc lập**, Tự do | Bạn xem pháo hoa ở đâu? |
+| Ngày của Mẹ rơi vào tháng nào? | Tháng Tư, **tháng Năm**, tháng Sáu | Gia đình bạn kỷ niệm thế nào? |
+| Trên lá cờ Hoa Kỳ có bao nhiêu ngôi sao? | 48, **50**, 52 | Lá cờ có 48 ngôi sao cho đến năm 1959. Đáp án nào cũng là một ký ức đẹp |
+| Đại dương nào ở bờ Đông? | Thái Bình Dương, **Đại Tây Dương**, Bắc Băng Dương | Bạn từng đi biển chưa? |
+| Tượng Nữ thần Tự do ở thành phố nào? | Boston, **New York**, Philadelphia | Bạn từng đến New York chưa? |
+| Ong làm ra gì? | Sữa, **mật ong**, tơ | Mật ong phết bánh mì nướng hay pha trà? |
+| Bê con được gọi là gì? | Ngựa con, **bê con**, dê con | Bạn từng sống gần nông trại không? |
+| Loài hoa cao màu vàng nào nổi tiếng vì hướng về phía mặt trời? | Hoa hồng, **hoa hướng dương**, hoa tulip | Trong vườn bạn trồng gì? |
+| Năm nhuận có bao nhiêu ngày? | 365, **366**, 360 | Hãy kể về một sinh nhật bạn nhớ |
+| Mùa nào đến sau mùa đông? | Mùa thu, **mùa xuân**, mùa hè | Mùa nào bạn thích nhất? |
 
-## Đố vui về món ăn và thể thao
+## Câu đố về đồ ăn và thể thao
 
-| Câu hỏi | Lựa chọn | Trò chuyện về |
+| Câu hỏi | Lựa chọn | Trò chuyện |
 | --- | --- | --- |
-| Nho khô được làm từ quả... | Mận, **nho**, anh đào | Bác có hay ăn nho khô không? |
-| Mứt gừng được làm từ... | **Củ gừng**, củ cải, củ khoai | Trong nhà bác ai hay làm mứt? |
-| Nước mắm được làm từ... | **Cá**, đậu, dừa | Bữa cơm nhà bác không thể thiếu món gì? |
-| Đậu phụ (đậu hũ) được làm từ... | **Đậu nành**, đậu xanh, đậu phộng | Bác thích đậu hũ chiên hay đậu hũ sốt cà? |
-| Xôi thường được nấu từ gạo... | **Nếp**, tẻ, lứt | Sáng nào bác hay ăn xôi? |
-| Một đội bóng đá có bao nhiêu cầu thủ trên sân? | 7, 9, **11** | Bác cổ vũ cho đội nào? |
-| Một trận bóng đá có mấy hiệp chính? | Một, **hai**, ba | Bác có từng đá bóng không? |
-| Môn nào dùng vợt và quả cầu có lông vũ? | **Cầu lông**, bóng bàn, bóng đá | Bác có đánh cầu lông buổi sáng không? |
-| Bàn cờ vua có bao nhiêu ô? | 36, **64**, 100 | Bác có thích chơi cờ không? |
-| Môn nào người ta ném bóng vào rổ? | **Bóng rổ**, bóng chuyền, bóng bàn | Nhà bác ai hay xem thể thao? |
+| Nho khô là... | Mận, **nho**, anh đào | Bạn có cho nho khô vào hộp cơm không? |
+| Mận khô là... | **Mận**, sung, táo | Ai trong gia đình bạn thích mận khô? |
+| Bơ đậu phộng và... | **Mứt**, phô mai, giăm bông | Giòn hay mịn? |
+| Guacamole chủ yếu làm từ... | Đậu Hà Lan, **bơ**, dưa chuột | Các loại sốt chấm nào xuất hiện ở bữa tiệc? |
+| Loại bánh nào là món yêu thích của Lễ Tạ ơn? | **Bí ngô**, chanh, anh đào | Bạn làm loại bánh nào? |
+| Một đội bóng chày có bao nhiêu người trên sân? | 7, **9**, 11 | Bạn cổ vũ đội nào? |
+| Trong bóng chày, bao nhiêu cú đánh hỏng thì bị loại? | Hai, **ba**, bốn | Bạn từng chơi bóng chưa? |
+| Babe Ruth nổi tiếng với môn thể thao nào? | Quyền anh, **bóng chày**, golf | Bạn từng đi xem bóng chưa? |
+| Sân golf chuẩn có bao nhiêu lỗ? | 9, **18**, 24 | Bạn từng chơi golf hay golf mini chưa? |
+| Môn thể thao nào ghi bàn touchdown? | **Bóng bầu dục**, khúc côn cầu, bóng rổ | Ai xem bóng bầu dục ở nhà bạn? |
 
-## Những câu tục ngữ quen thuộc
+## Câu nói quen thuộc
 
-Nói tiếp một câu tục ngữ dựa vào ngôn ngữ đã học từ lâu và thường rất dễ. Trò [Nói tiếp câu tục ngữ](/games/finish-the-saying/) của chúng tôi có nhiều câu hơn, với một cái chạm để xem phần kết bất kỳ lúc nào.
+Hoàn thành một câu nói quen thuộc dựa trên ngôn ngữ đã học từ lâu và thường đến dễ dàng. Trò chơi [Hoàn thành câu nói](/games/finish-the-saying/) của chúng tôi có nhiều hơn nữa, với một cú chạm để hiện bất kỳ phần kết thúc nào.
 
-| Tục ngữ | Lựa chọn | Trò chuyện về |
+| Câu nói | Lựa chọn | Trò chuyện |
 | --- | --- | --- |
-| Ăn quả nhớ kẻ trồng... | **Cây**, hoa, rau | Bác thích loại quả nào nhất? |
-| Uống nước nhớ... | **Nguồn**, sông, nhà | Bác thích uống gì nhất: chè xanh, trà nóng hay nước dừa? |
-| Có công mài sắt, có ngày nên... | **Kim**, dao, nồi | Có việc gì bác đã bền bỉ làm cho đến khi xong không? |
-| Lá lành đùm lá... | **Rách**, xanh, vàng | Một việc tốt nhỏ nào làm bác thấy ấm lòng? |
-| Gần mực thì đen, gần đèn thì... | **Sáng**, ấm, vui | Theo bác, thế nào là một người bạn tốt? |
-| Đi một ngày đàng, học một sàng... | **Khôn**, hay, vui | Nơi nào bác thích đến chơi nhất? |
-| Anh em như thể tay... | **Chân**, trái, phải | Bác có người bạn nào thân như anh em không? Bác kể con nghe nhé |
-| Bán anh em xa, mua láng giềng... | **Gần**, tốt, vui | Hàng xóm tốt bụng thường giúp nhau những việc gì? |
+| Một quả táo mỗi ngày giúp... | **bác sĩ tránh xa**, mưa tránh xa, mèo tránh xa | Ai thường nói câu này với bạn? |
+| Chim dậy sớm bắt được... | xe buýt, **sâu**, tàu hỏa | Bạn có phải người dậy sớm không? |
+| Đừng đếm gà trước khi chúng... | **nở**, ngủ, hót | Gia đình bạn có nuôi gà không? |
+| Một xu tiết kiệm là một xu... | **kiếm được**, mất đi, tiêu đi | Ai trong gia đình bạn là người tiết kiệm? |
+| Nhà là nơi... | có vườn, **có trái tim**, có bếp | Điều gì làm một nơi cảm thấy như nhà? |
+| Muộn còn hơn... | sớm, **không bao giờ**, xin lỗi | Ai luôn đi muộn? |
+| Mỗi đám mây đều có một... | **viền bạc**, thìa, đồng xu | Hãy kể về một cơ hội may mắn |
+| Hành động nói to hơn... | **lời nói**, âm nhạc, sấm sét | Hãy kể về người nào đó đã nói điều đó |
 
-## Những câu hỏi “thích bên nào” không có đáp án sai
+## Câu hỏi 'cái này hay cái kia' không có đáp án sai
 
-Những câu này hợp với mọi giai đoạn, kể cả về sau, vì không có gì phải trả lời cho đúng. Hãy hỏi, lắng nghe và cũng chia sẻ câu trả lời của bạn.
+Những câu này phù hợp với mọi giai đoạn, kể cả sau này, vì không có gì để trả lời đúng. Hãy hỏi, lắng nghe, và chia sẻ câu trả lời của bạn nữa.
 
 - Cà phê hay trà?
 - Biển hay núi?
 - Chó hay mèo?
 - Mùa hè hay mùa đông?
-- Bánh ngọt hay chè?
-- Nhảy múa hay ngồi xem?
+- Bánh pie hay bánh ngọt?
+- Khiêu vũ hay xem?
 - Bình minh hay hoàng hôn?
-- Hiên nhà hay vườn sau?
-- Radio hay đĩa than?
-- Xôi hay bánh mì?
+- Hiên trước hay sân sau?
+- Radio hay đĩa nhạc?
+- Bánh kếp hay trứng?
 - Hoa hồng hay hoa cúc?
-- Đi tàu hay đi xe?
+- Đi tàu hay đi đường bộ?
 
-Để có những gợi ý trò chuyện đi kèm hình ảnh, hãy thử [Thẻ trò chuyện](/games/conversation-cards/) in ra được của chúng tôi.
+Để xem các gợi ý trò chuyện đi kèm hình ảnh, hãy thử [Thẻ trò chuyện](/games/conversation-cards/) có thể in của chúng tôi.
 
-## Làm sao tổ chức một buổi đố vui ở viện dưỡng lão hoặc trong nhóm?
+## Làm thế nào để tổ chức một buổi câu đố trong nhà chăm sóc hoặc nhóm?
 
-1. **Xếp chỗ ngồi để mọi người nhìn và nghe được.** Đeo máy trợ thính, đeo kính, tắt TV.
-2. **Giới thiệu như một cuộc trò chuyện.** “Tôi có vài câu hỏi về ngày xưa, và tôi đoán các bác biết nhiều hơn tôi.”
-3. **Đọc mỗi câu hỏi hai lần và cho xem các lựa chọn bằng chữ to.**
-4. **Đón nhận câu trả lời từ mọi nơi trong phòng.** Nhắc lại những câu trả lời hay để mọi người cùng nghe.
-5. **Nói đáp án cho mọi người,** rồi nêu gợi ý trò chuyện cho cả phòng.
-6. **Theo năng lượng của nhóm.** Nếu một câu hỏi mở ra mười phút kể chuyện, cứ để như vậy.
-7. **Kết thúc bằng một bài hát hoặc một vòng “thích bên nào”,** để mọi người dừng lại bằng điều gì đó dễ dàng.
+1. **Sắp chỗ ngồi để mọi người thấy và nghe được.** Máy trợ thính đeo vào, kính đeo lên, TV tắt.
+2. **Giới thiệu như một cuộc trò chuyện.** "Tôi có vài câu hỏi về thời xưa, và tôi cá là bạn biết nhiều hơn tôi."
+3. **Đọc mỗi câu hỏi hai lần và cho xem các lựa chọn lớn.**
+4. **Chào đón đáp án từ bất kỳ đâu trong phòng.** Lặp lại các đáp án hay để mọi người nghe.
+5. **Nói đáp án cho mọi người,** rồi hỏi phần gợi ý trò chuyện với cả phòng.
+6. **Theo năng lượng.** Nếu một câu hỏi bắt đầu mười phút kể chuyện, hãy để nó tiếp tục.
+7. **Kết thúc bằng một bài hát hoặc một lượt 'cái này hay cái kia',** để mọi người kết thúc bằng điều gì đó dễ.
 
-Để biết các hình thức nhóm khác, gồm lô tô hình ảnh và hát cùng nhau, xem [hoạt động nhóm ở viện dưỡng lão](/activities/care-home-groups/).
+Để biết các hình thức nhóm khác, bao gồm bingo hình ảnh và cùng hát, xem [hoạt động nhóm trong nhà chăm sóc](/activities/care-home-groups/).
 
-## Khi nào nên đổi kế hoạch
+## Khi nào cần thay đổi kế hoạch
 
-Nếu ai đó trông lo lắng, im lặng hoặc nói “tôi không biết” nhiều hơn một lần, hãy làm cho dễ hơn: giảm xuống hai lựa chọn, cùng nhau trả lời, hoặc chuyển sang những câu hỏi “thích bên nào”. Nếu cả nhóm thích nói về một câu hỏi suốt buổi chiều, đó là thành công. Mục đích chưa bao giờ là đáp án đúng. Mục đích là khoảng thời gian bên nhau trong một không khí tốt đẹp.
+Nếu ai đó trông lo lắng, im lặng hoặc nói "Tôi không biết" nhiều hơn một lần, hãy làm cho dễ hơn: giảm xuống hai lựa chọn, trả lời cùng nhau, hoặc chuyển sang các câu hỏi 'cái này hay cái kia'. Nếu nhóm muốn nói về một câu hỏi cả buổi chiều, đó là thành công. Mục tiêu chưa bao giờ là các đáp án đúng. Đó là thời gian ở bên nhau vui vẻ.
