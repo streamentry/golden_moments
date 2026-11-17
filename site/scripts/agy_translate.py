@@ -33,12 +33,20 @@ I18N = SITE / 'src/i18n'
 GUIDES = SITE / 'src/content/guides'
 GUIDES_I18N = SITE / 'src/content/guides-i18n'
 CSV = SITE.parent / 'docs/languages.csv'
-_GUIDE_CHECKER_PATH = SITE / 'scripts/check-guide-translation.py'
-_GUIDE_CHECKER_SPEC = importlib.util.spec_from_file_location('_site_guide_translation_checker', _GUIDE_CHECKER_PATH)
-if _GUIDE_CHECKER_SPEC is None or _GUIDE_CHECKER_SPEC.loader is None:
-    raise RuntimeError(f'Cannot load guide checker: {_GUIDE_CHECKER_PATH}')
-GUIDE_CHECKER = importlib.util.module_from_spec(_GUIDE_CHECKER_SPEC)
-_GUIDE_CHECKER_SPEC.loader.exec_module(GUIDE_CHECKER)
+_GUIDE_CHECKER = None
+
+
+def guide_checker():
+    """Load the YAML-dependent checker only when guide work is requested."""
+    global _GUIDE_CHECKER
+    if _GUIDE_CHECKER is None:
+        path = SITE / 'scripts/check-guide-translation.py'
+        spec = importlib.util.spec_from_file_location('_site_guide_translation_checker', path)
+        if spec is None or spec.loader is None:
+            raise RuntimeError(f'Cannot load guide checker: {path}')
+        _GUIDE_CHECKER = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(_GUIDE_CHECKER)
+    return _GUIDE_CHECKER
 MODEL = 'gemini-3.8-flash-medium'
 PLURALS = ('zero', 'one', 'two', 'few', 'many', 'other')
 NO_LETTER_GRID = {'zh-Hans', 'zh-Hant', 'ja', 'ko', 'th', 'my', 'yo', 'lo', 'ii', 'bo', 'dz', 'km', 'zh'}
@@ -462,12 +470,13 @@ def guide_done(code: str, rel: str) -> bool:
         return False
     en = (GUIDES / rel).read_text().split('---', 2)[-1].strip()
     txt = t.read_text()
-    errors, _ = GUIDE_CHECKER.check(code, rel[:-3] if rel.endswith('.md') else rel, t)
+    errors, _ = guide_checker().check(code, rel[:-3] if rel.endswith('.md') else rel, t)
     return txt.split('---', 2)[-1].strip() != en and not errors
 
 
 def translate_guide(lang: dict, rel: str) -> str:
     code = lang['code']
+    checker = guide_checker()
     src = (GUIDES / rel).read_text()
     upd = re.search(r'^updated:\s*(\S+)', src, re.M).group(1)
     base = (f'{RULES}\nTranslate this markdown guide from English into {lang["english"]} ({lang["native"]}). '
@@ -487,15 +496,15 @@ def translate_guide(lang: dict, rel: str) -> str:
         tmp.parent.mkdir(parents=True, exist_ok=True)
         tmp.write_text(out + '\n')
         rel_slug = rel[:-3]
-        problems = '; '.join(GUIDE_CHECKER.check(code, rel_slug, tmp)[0])
+        problems = '; '.join(checker.check(code, rel_slug, tmp)[0])
         if not problems:
             tmp.replace(target)
             return str(target)
         if 'numbers added without an explicit emergency number in English' in problems:
-            source_front, source_body = GUIDE_CHECKER.split(GUIDES / rel)
-            translated_front, translated_body = GUIDE_CHECKER.split(tmp)
-            source_copy = GUIDE_CHECKER.visible_copy(source_front, source_body)
-            translated_copy = GUIDE_CHECKER.visible_copy(translated_front, translated_body)
+            source_front, source_body = checker.split(GUIDES / rel)
+            translated_front, translated_body = checker.split(tmp)
+            source_copy = checker.visible_copy(source_front, source_body)
+            translated_copy = checker.visible_copy(translated_front, translated_body)
             extras = added_number_values(source_copy, translated_copy)
             if extras:
                 problems += f"; added digit sequence(s): {', '.join(extras)}"
@@ -515,18 +524,43 @@ def number_tokens(text: str) -> list[str]:
 
 
 EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999', '116123'}
+CLOCK_12 = re.compile(r'(?<!\d)(0?[1-9]|1[0-2])(?::([0-5]\d))?\s*(a\.m\.|p\.m\.|am|pm)(?![a-z])', re.I)
+CLOCK_24 = re.compile(r'(?<!\d)([01]?\d|2[0-3]):([0-5]\d)(?!\d)')
 
 
 def visible_number_tokens(text: str) -> list[str]:
     visible = re.sub(r'\]\([^)]*\)', ']', text)
     visible = re.sub(r'https?://\S+', '', visible)
-    return number_tokens(visible)
+    times: list[str] = []
+
+    def clock_12(match: re.Match[str]) -> str:
+        hour_12 = int(match.group(1))
+        hour_24 = hour_12
+        minute = int(match.group(2) or '0')
+        period = match.group(3).lower().replace('.', '')
+        if period == 'pm' and hour_12 != 12:
+            hour_24 += 12
+        elif period == 'am' and hour_12 == 12:
+            hour_24 = 0
+        hour_12 = hour_24 % 12 or 12
+        times.extend(sorted({f'clock:{hour_24:02d}{minute:02d}', str(hour_12), str(hour_24)}))
+        return ' '
+
+    def clock_24(match: re.Match[str]) -> str:
+        hour_24 = int(match.group(1))
+        hour_12 = hour_24 % 12 or 12
+        times.extend(sorted({f'clock:{hour_24:02d}{match.group(2)}', str(hour_12), str(hour_24)}))
+        return ' '
+
+    visible = CLOCK_12.sub(clock_12, visible)
+    visible = CLOCK_24.sub(clock_24, visible)
+    return sorted(number_tokens(visible) + times)
 
 
 def added_number_values(source: str, translated: str) -> list[str]:
-    remaining = GUIDE_CHECKER.visible_numbers(source)
+    remaining = visible_number_tokens(source)
     added = []
-    for value in GUIDE_CHECKER.visible_numbers(translated):
+    for value in visible_number_tokens(translated):
         if value in remaining:
             remaining.remove(value)
         else:

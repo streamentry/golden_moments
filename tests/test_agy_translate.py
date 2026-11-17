@@ -2,13 +2,12 @@
 
 import importlib.util
 import io
+import subprocess
+import sys
 import tempfile
 from pathlib import Path
 import unittest
 from unittest.mock import patch
-
-import yaml
-
 
 ROOT = Path(__file__).resolve().parents[1]
 MODULE_PATH = ROOT / "site/scripts/agy_translate.py"
@@ -34,6 +33,30 @@ class FakeProcess:
 
 
 class AgyTranslateTests(unittest.TestCase):
+    def test_module_import_does_not_require_pyyaml(self) -> None:
+        script = """
+import builtins
+import importlib.util
+import sys
+
+original_import = builtins.__import__
+def reject_yaml(name, *args, **kwargs):
+    if name == 'yaml' or name.startswith('yaml.'):
+        raise ModuleNotFoundError("No module named 'yaml'")
+    return original_import(name, *args, **kwargs)
+
+builtins.__import__ = reject_yaml
+spec = importlib.util.spec_from_file_location('agy_translate', sys.argv[1])
+module = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(module)
+"""
+        result = subprocess.run(
+            [sys.executable, "-c", script, str(MODULE_PATH)],
+            capture_output=True,
+            text=True,
+        )
+        self.assertEqual(result.returncode, 0, result.stderr)
+
     def test_free_only_backend_pool_excludes_paid_models(self) -> None:
         original = (
             agy_translate.BACKENDS,
@@ -70,13 +93,18 @@ class AgyTranslateTests(unittest.TestCase):
         )
 
     def test_site_checker_keeps_locale_date_components_separate(self) -> None:
-        self.assertEqual(agy_translate.GUIDE_CHECKER.numbers('October 17, 2022'), ['17', '2022'])
-        self.assertEqual(agy_translate.GUIDE_CHECKER.numbers('October 17. 2022'), ['17', '2022'])
-        self.assertEqual(agy_translate.GUIDE_CHECKER.numbers('1,000'), ['1000'])
-        self.assertEqual(agy_translate.GUIDE_CHECKER.numbers('1 000'), ['1000'])
+        if importlib.util.find_spec('yaml') is None:
+            self.skipTest('PyYAML is not installed')
+        checker = agy_translate.guide_checker()
+        self.assertEqual(checker.numbers('October 17, 2022'), ['17', '2022'])
+        self.assertEqual(checker.numbers('October 17. 2022'), ['17', '2022'])
+        self.assertEqual(checker.numbers('1,000'), ['1000'])
+        self.assertEqual(checker.numbers('1 000'), ['1000'])
 
     def test_site_checker_normalizes_equivalent_clock_formats(self) -> None:
-        checker = agy_translate.GUIDE_CHECKER
+        if importlib.util.find_spec('yaml') is None:
+            self.skipTest('PyYAML is not installed')
+        checker = agy_translate.guide_checker()
         self.assertEqual(checker.visible_numbers('Start at 8 a.m.'), ['8', 'clock:0800'])
         self.assertEqual(checker.visible_numbers('Start at 08:00'), ['8', 'clock:0800'])
         self.assertEqual(checker.visible_numbers('Start at 1:00 p.m.'), ['1', '13', 'clock:1300'])
@@ -86,7 +114,9 @@ class AgyTranslateTests(unittest.TestCase):
         self.assertTrue(agy_translate.unsafe_number_additions('Start at 8 a.m.', 'Start at 8:15'))
 
     def test_site_checker_matches_daily_routine_times_by_value(self) -> None:
-        checker = agy_translate.GUIDE_CHECKER
+        if importlib.util.find_spec('yaml') is None:
+            self.skipTest('PyYAML is not installed')
+        checker = agy_translate.guide_checker()
         source = '| 1:00 p.m. | Lunch |\n| 2:00 p.m. | Walk |'
         translated_24_hour = '| 13:00 | Nahar |\n| 14:00 | Gəzinti |'
         translated_12_hour = '| 1:00 | Nahar |\n| 2:00 | Gəzinti |'
@@ -107,24 +137,35 @@ class AgyTranslateTests(unittest.TestCase):
 
     def test_guide_done_uses_site_checker_for_visible_frontmatter_numbers(self) -> None:
         rel = 'activities/alzheimers'
-        source_path = agy_translate.GUIDES / f'{rel}.md'
-        source_front, body = agy_translate.GUIDE_CHECKER.split(source_path)
-        source_front['translatedFrom'] = source_front['updated']
-        source_front['description'] = f"{source_front['description']} 987654."
+        class CheckerStub:
+            def __init__(self) -> None:
+                self.checked: tuple[str, str] | None = None
+
+            def check(self, code: str, slug: str, path: Path) -> tuple[list[str], list[str]]:
+                self.checked = (code, slug)
+                errors = ['added number in visible frontmatter'] if '987654' in path.read_text() else []
+                return errors, []
+
+        checker = CheckerStub()
         candidate = (
             '---\n'
-            + yaml.safe_dump(source_front, allow_unicode=True, sort_keys=False)
-            + '---'
-            + body
+            'updated: 2026-11-18\n'
+            'translatedFrom: 2026-11-18\n'
+            'description: Translated description with 987654\n'
+            '---\n'
+            'Translated body.\n'
         )
         with tempfile.TemporaryDirectory() as tmp:
             translated_root = Path(tmp) / 'guides-i18n'
             candidate_path = translated_root / 'ln' / f'{rel}.md'
             candidate_path.parent.mkdir(parents=True)
-            candidate += '\n\nTranslated body.\n'
             candidate_path.write_text(candidate, encoding='utf-8')
-            with patch.object(agy_translate, 'GUIDES_I18N', translated_root):
+            with (
+                patch.object(agy_translate, 'GUIDES_I18N', translated_root),
+                patch.object(agy_translate, 'guide_checker', return_value=checker),
+            ):
                 self.assertFalse(agy_translate.guide_done('ln', f'{rel}.md'))
+        self.assertEqual(checker.checked, ('ln', rel))
 
     def test_translation_rules_preserve_source_number_format(self) -> None:
         self.assertIn('Preserve all numeric values from the visible English source.', agy_translate.RULES)
